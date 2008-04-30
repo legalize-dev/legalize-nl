@@ -4,7 +4,7 @@ identifier: "BWBR0012438"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012438"
 soort: "wet"
@@ -56,7 +56,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 **belastbaar loon**: belastbare loon als bedoeld in [artikel 9 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=9),
 
-**beroepsonderwijs**: beroepsopleiding als bedoeld in [artikel 7.2.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), voorzover het betreft de beroepsopleidende leerweg,
+**beroepsonderwijs**: beroepsopleiding als bedoeld in [artikel 7.2.7, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7),
 
 **bovenbouw**:
 
@@ -68,7 +68,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 **deelnemer**: degene die beroepsonderwijs volgt,
 
-**deelnemer vavo**: degene die vavo volgt als bedoeld in de [artikelen 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-01-01&g=2008-01-01), en [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.3&artikel=2.10&z=2008-01-01&g=2008-01-01),
+**deelnemer vavo**: degene die vavo volgt als bedoeld in de [artikelen 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-04-30&g=2008-04-30), en [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.3&artikel=2.10&z=2008-04-30&g=2008-04-30),
 
 **havo**: hoger algemeen voortgezet onderwijs als bedoeld in [artikel 8 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8),
 
@@ -84,15 +84,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. voor een niet uit 's Rijks kas bekostigde school de verschuldigde bijdrage aan de school,
 
-- c. voor de toepassing van [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2008-01-01&g=2008-01-01), voorzover het een uit 's Rijks kas bekostigde school betreft: het bedrag, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.3&z=2008-01-01&g=2008-01-01), of
+- c. voor de toepassing van [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2008-04-30&g=2008-04-30), voorzover het een uit 's Rijks kas bekostigde school betreft: het bedrag, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.3&z=2008-04-30&g=2008-04-30), of
 
-- d. voor de toepassing van [afdeling 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&z=2008-01-01&g=2008-01-01), voorzover het een uit 's Rijks kas bekostigde school betreft: de bedragen, bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.10&z=2008-01-01&g=2008-01-01),
+- d. voor de toepassing van [afdeling 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&z=2008-04-30&g=2008-04-30), voorzover het een uit 's Rijks kas bekostigde school betreft: de bedragen, bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.10&z=2008-04-30&g=2008-04-30),
 
 **onderwijsnummer**: door de IB-Groep uitgegeven persoonsgebonden nummer, toegekend aan een persoon aan wie niet van overheidswege een sociaal-fiscaalnummer is verstrekt,
 
 **Onze Minister**: Onze Minister van Onderwijs, Cultuur en Wetenschap,
 
-**partner**: degene die in het kalenderjaar waarin het school- of studiejaar aanvangt gedurende meer dan 6 maanden partner als bedoeld in artikel 3 van de Algemene wet inkomensafhankelijke regelingen van de aanvrager is, met dien verstande dat voor de toepassing van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-01-01&g=2008-01-01) voor «belanghebbende» gelezen wordt: TOS-ouder,
+**partner**: degene die in het kalenderjaar waarin het school- of studiejaar aanvangt gedurende meer dan 6 maanden partner als bedoeld in artikel 3 van de Algemene wet inkomensafhankelijke regelingen van de aanvrager is, met dien verstande dat voor de toepassing van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30) voor «belanghebbende» gelezen wordt: TOS-ouder,
 
 **peiljaar**: tweede jaar voorafgaand aan het jaar waarin het schooljaar of studiejaar aanvangt,
 
@@ -114,7 +114,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 **schooljaar**: tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend,
 
-**student**: degene die hoger onderwijs volgt als bedoeld in de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2008-01-01&g=2008-01-01) en [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.12&z=2008-01-01&g=2008-01-01),
+**student**: degene die hoger onderwijs volgt als bedoeld in de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2008-04-30&g=2008-04-30) en [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.12&z=2008-04-30&g=2008-04-30),
 
 **studiejaar**: tijdvak dat aanvangt op 1 september van enig kalenderjaar en eindigt op 31 augustus daaropvolgend,
 
@@ -126,7 +126,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 **TOS-ouder**:
 
-- a. ouder die als wettelijke vertegenwoordiger laatstelijk voordat de leerling meerderjarig werd, voor hem een tegemoetkoming op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-01-01&g=2008-01-01) ontving, of
+- a. ouder die als wettelijke vertegenwoordiger laatstelijk voordat de leerling meerderjarig werd, voor hem een tegemoetkoming op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-04-30&g=2008-04-30) ontving, of
 
 - b. indien geen wettelijke vertegenwoordiger de in onderdeel a bedoelde tegemoetkoming ontving: wettelijke vertegenwoordiger in het laatste kwartaal waarin de leerling nog 17 jaar was,
 
@@ -226,7 +226,7 @@ Deze wet regelt de tegemoetkoming en is van toepassing indien wordt voldaan aan 
 
 - c. niet de Nederlandse nationaliteit bezit maar wel behoort tot een bij algemene maatregel van bestuur aangewezen groep van personen die op het terrein van de tegemoetkoming met Nederlanders worden gelijkgesteld.
 
-2. Voor de toepassing van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-01-01&g=2008-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&z=2008-01-01&g=2008-01-01) geldt in aanvulling op het eerste lid, onderdeel c, dat de aanvrager in Nederland woont, tenzij deze voorwaarde niet mag worden gesteld op grond van een verdrag of een besluit van een volkenrechtelijke organisatie. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld in verband met een goede uitvoering van dit lid.
+2. Voor de toepassing van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&z=2008-04-30&g=2008-04-30) geldt in aanvulling op het eerste lid, onderdeel c, dat de aanvrager in Nederland woont, tenzij deze voorwaarde niet mag worden gesteld op grond van een verdrag of een besluit van een volkenrechtelijke organisatie. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld in verband met een goede uitvoering van dit lid.
 
 3. Onverminderd het eerste lid, onderdeel b, kunnen bij algemene maatregel van bestuur groepen van personen worden aangewezen voor wie de gelijkstelling, bedoeld in het eerste lid, onderdeel b, slechts een tegemoetkoming in de kosten van de toegang tot het onderwijs betreft. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de hoogte en de vorm van deze tegemoetkoming.
 
@@ -246,7 +246,7 @@ Deze wet regelt de tegemoetkoming en is van toepassing indien wordt voldaan aan 
 
 ##### Artikel 2.4. Bekostigd voortgezet onderwijs
 
-Voor tegemoetkoming ingevolge [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-01-01&g=2008-01-01) kan een aanvrager in aanmerking komen indien de scholier is ingeschreven aan een school die op grond van de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718) volledig en rechtstreeks uit de openbare kas wordt bekostigd, waaronder het volgen van onderwijs in de vorm van contractactiviteiten niet is mede begrepen.
+Voor tegemoetkoming ingevolge [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-04-30&g=2008-04-30) kan een aanvrager in aanmerking komen indien de scholier is ingeschreven aan een school die op grond van de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718) volledig en rechtstreeks uit de openbare kas wordt bekostigd, waaronder het volgen van onderwijs in de vorm van contractactiviteiten niet is mede begrepen.
 
 ##### Artikel 2.5. Aangewezen voortgezet onderwijs
 
@@ -254,13 +254,13 @@ Voor tegemoetkoming ingevolge hoofdstuk 3 kan een aanvrager in aanmerking komen 
 
 ##### Artikel 2.6. Erkende cursus voortgezet onderwijs en vavo
 
-1. Voor tegemoetkoming ingevolge [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-01-01&g=2008-01-01) kan een aanvrager in aanmerking komen indien de scholier is ingeschreven aan een school die is erkend op grond van de [Wet op de erkende onderwijsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003821) voorzover de gevolgde cursus onder de reikwijdte van die wet valt.
+1. Voor tegemoetkoming ingevolge [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-04-30&g=2008-04-30) kan een aanvrager in aanmerking komen indien de scholier is ingeschreven aan een school die is erkend op grond van de [Wet op de erkende onderwijsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003821) voorzover de gevolgde cursus onder de reikwijdte van die wet valt.
 
-2. Voor tegemoetkoming ingevolge [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-01-01&g=2008-01-01) kan een aanvrager in aanmerking komen indien de deelnemer vavo is ingeschreven aan een school als bedoeld in [artikel 1.1.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), en [artikel 1.4a.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1), voorzover het betreft een opleiding vavo.
+2. Voor tegemoetkoming ingevolge [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-04-30&g=2008-04-30) kan een aanvrager in aanmerking komen indien de deelnemer vavo is ingeschreven aan een school als bedoeld in [artikel 1.1.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), en [artikel 1.4a.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1), voorzover het betreft een opleiding vavo.
 
 ##### Artikel 2.7. Beroepsonderwijs
 
-Voor tegemoetkoming ingevolge [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-01-01&g=2008-01-01) kan een aanvrager in aanmerking komen indien de deelnemer is ingeschreven aan:
+Voor tegemoetkoming ingevolge [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-04-30&g=2008-04-30) kan een aanvrager in aanmerking komen indien de deelnemer is ingeschreven aan:
 
 - a. een school als bedoeld in [artikel 1.1.1, onderdeel b, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), voorzover het een uit 's Rijks kas bekostigde beroepsopleiding betreft, of
 
@@ -278,19 +278,19 @@ Voor tegemoetkoming ingevolge hoofdstuk 4 kan een scholier in aanmerking komen d
 
 ##### Artikel 2.10. Vavo
 
-Voor tegemoetkoming ingevolge [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-01-01&g=2008-01-01) kan een deelnemer vavo in aanmerking komen die is ingeschreven aan een school als bedoeld in [artikel 1.1.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), en [artikel 1.4a.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1), voorzover het betreft een opleiding vavo.
+Voor tegemoetkoming ingevolge [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30) kan een deelnemer vavo in aanmerking komen die is ingeschreven aan een school als bedoeld in [artikel 1.1.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), en [artikel 1.4a.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1), voorzover het betreft een opleiding vavo.
 
 #### Paragraaf 2.4. Onderwijssoorten in de zin van hoofdstuk 5
 
 ##### Artikel 2.11. Bekostigd en aangewezen hoger onderwijs lerarenopleidingen
 
-1. Voor tegemoetkoming ingevolge [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2008-01-01&g=2008-01-01) kan een student in aanmerking komen die als student is ingeschreven voor het volgen van een bacheloropleiding of masteropleiding voor het beroep van leraar aan een bekostigde universiteit of hogeschool, genoemd in de [bijlage van de WHW](77499):
+1. Voor tegemoetkoming ingevolge [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2008-04-30&g=2008-04-30) kan een student in aanmerking komen die als student is ingeschreven voor het volgen van een bacheloropleiding of masteropleiding voor het beroep van leraar aan een bekostigde universiteit of hogeschool, genoemd in de [bijlage van de WHW](77499):
 
 - a. voorzover die opleiding is geaccrediteerd als bedoeld in [artikel 1.1, onderdeel s, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) of de toets nieuwe opleiding, bedoeld in [artikel 1.1, onderdeel t, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), met positief gevolg heeft ondergaan, of
 
 - b. gedurende de termijn, bedoeld in de [artikelen 5a.12, eerste, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.12), [5a.12a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.12a), [5a.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.15), of [6.5, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.5).
 
-2. Voor tegemoetkoming ingevolge [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2008-01-01&g=2008-01-01) kan een student in aanmerking komen die als student is ingeschreven voor het volgen van een bacheloropleiding of masteropleiding voor het beroep van leraar aan een aangewezen instelling als bedoeld in de [artikelen 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.9) of [16.14 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.14):
+2. Voor tegemoetkoming ingevolge [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2008-04-30&g=2008-04-30) kan een student in aanmerking komen die als student is ingeschreven voor het volgen van een bacheloropleiding of masteropleiding voor het beroep van leraar aan een aangewezen instelling als bedoeld in de [artikelen 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.9) of [16.14 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.14):
 
 - a. voorzover die opleiding is geaccrediteerd als bedoeld in [artikel 1.1, onderdeel s, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) of de toets nieuwe opleiding, bedoeld in [artikel 1.1, onderdeel t, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), met positief gevolg heeft ondergaan, of
 
@@ -302,7 +302,7 @@ Voor tegemoetkoming ingevolge afdeling 5.1 kan een student in aanmerking komen i
 
 ##### Artikel 2.13. Voortgezet onderwijs en vavo
 
-Voor tegemoetkoming ingevolge [afdeling 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&z=2008-01-01&g=2008-01-01) kan een leerling in aanmerking komen indien hij is ingeschreven voor een opleiding of een gedeelte daarvan aan een school als bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2008-01-01&g=2008-01-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2008-01-01&g=2008-01-01), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-01-01&g=2008-01-01) en [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-01-01&g=2008-01-01), die leidt tot het diploma:
+Voor tegemoetkoming ingevolge [afdeling 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&z=2008-04-30&g=2008-04-30) kan een leerling in aanmerking komen indien hij is ingeschreven voor een opleiding of een gedeelte daarvan aan een school als bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2008-04-30&g=2008-04-30), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2008-04-30&g=2008-04-30), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-04-30&g=2008-04-30) en [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-04-30&g=2008-04-30), die leidt tot het diploma:
 
 - a. voorbereidend wetenschappelijk onderwijs,
 
@@ -320,33 +320,27 @@ Geen aanspraak op tegemoetkoming bestaat indien de leerling of student is ingesc
 
 De aanspraak op tegemoetkoming van een leerling die gedurende een aaneengesloten periode van 8 weken niet aan het onderwijs heeft deelgenomen, vervalt met ingang van de eerste dag van de maand volgend op die waarin de school de afwezigheid, bedoeld in artikel 4.12 aan de IB-Groep heeft medegedeeld. De periode van 8 weken wordt verlengd met de weken waarin vanwege vakantie geen onderwijs werd verzorgd.
 
-##### Artikel 2.16. Geen aanspraak tegemoetkoming [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&z=2008-01-01&g=2008-01-01)
+##### Artikel 2.16. Geen aanspraak tegemoetkoming [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&z=2008-04-30&g=2008-04-30)
 
-1. Een student heeft geen aanspraak op tegemoetkoming indien hij gedurende 24 maanden een tegemoetkoming in de zin van [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2008-01-01&g=2008-01-01) heeft ontvangen of indien 48 maanden zijn verlopen gerekend vanaf de maand waarover de tegemoetkoming voor het eerst is toegekend. Een student heeft tevens geen aanspraak indien hij een tegemoetkoming ontvangt in de zin van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=10&z=2008-01-01&g=2008-01-01).
+1. Een student heeft geen aanspraak op tegemoetkoming indien hij gedurende 24 maanden een tegemoetkoming in de zin van [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2008-04-30&g=2008-04-30) heeft ontvangen of indien 48 maanden zijn verlopen gerekend vanaf de maand waarover de tegemoetkoming voor het eerst is toegekend. Een student heeft tevens geen aanspraak indien hij een tegemoetkoming ontvangt in de zin van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=10&z=2008-04-30&g=2008-04-30).
 
-2. Een leerling heeft geen aanspraak op tegemoetkoming in de zin van [afdeling 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&z=2008-01-01&g=2008-01-01), indien hij een tegemoetkoming ontvangt in de zin van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=10&z=2008-01-01&g=2008-01-01).
+2. Een leerling heeft geen aanspraak op tegemoetkoming in de zin van [afdeling 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&z=2008-04-30&g=2008-04-30), indien hij een tegemoetkoming ontvangt in de zin van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=10&z=2008-04-30&g=2008-04-30).
 
 ##### Artikel 2.17. Aanspraak tegemoetkoming hoofdstukken 3 en 4
 
-Een leerling die onderwijs volgt als bedoeld in de artikelen 2.5, 2.6, 2.7, 2.9 voorzover het een school betreft als bedoeld in de artikelen 2.5 en 2.6, eerste lid, en 2.10 heeft slechts aanspraak op tegemoetkoming indien de opleiding een studielast heeft van ten minste 850 klokuren per schooljaar die worden besteed aan het volgen van lessen, stages of beroepspraktijkvorming, overeenkomstig de onderwijs- en examenregeling of de daarmee overeenkomende regeling voor de desbetreffende opleiding.
+Een leerling die onderwijs volgt als bedoeld in de artikelen 2.5, 2.6, 2.9 voorzover het een school betreft als bedoeld in de artikelen 2.5 en 2.6, eerste lid, en 2.10 heeft slechts aanspraak op tegemoetkoming indien de opleiding een studielast heeft van ten minste 850 klokuren per schooljaar die worden besteed aan het volgen van lessen of stages, overeenkomstig de onderwijs- en examenregeling of de daarmee overeenkomende regeling voor de desbetreffende opleiding.
 
 ##### Artikel 2.18. Bekendmaking bij niet voldoen aan artikel 2.17 en aanspraak op tegemoetkoming
 
-1. Indien Onze Minister heeft besloten dat een opleiding niet voldoet aan de voorwaarden, genoemd in artikel 2.17, maakt hij dit bekend aan de school. De bekendmaking heeft rechtsgevolg voor 2 opeenvolgende schooljaren. Indien de bekendmaking wordt gedaan voor 1 maart, voldoet de opleiding niet gedurende de 2 schooljaren die volgen op het tijdstip van de bekendmaking. Indien de bekendmaking is gedaan op of na 1 maart voldoet de opleiding niet gedurende het tweede en derde schooljaar die volgen op het tijdstip van de bekendmaking.
+Vervallen
 
-2. Voor de leerling die over de maand waarin het besluit tot bekendmaking, bedoeld in het eerste lid, werd genomen, tegemoetkoming ontving voor het volgen van die opleiding, geldt in afwijking van de artikelen 2.14 en 2.17, dat hij zijn aanspraak op tegemoetkoming behoudt:
+##### Artikel 2.19. Aanspraak bij einde studie [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30)
 
-- a. tot het einde van het kalenderjaar, indien de bekendmaking is gedaan voor 1 maart, en
-
-- b. tot het einde van het schooljaar dat volgt op het tijdstip van de bekendmaking, indien de bekendmaking is gedaan op of na 1 maart.
-
-##### Artikel 2.19. Aanspraak bij einde studie [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-01-01&g=2008-01-01)
-
-1. De aanspraak op tegemoetkoming ingevolge [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-01-01&g=2008-01-01) vervalt met ingang van de maand die volgt op de dag waarop de leerling het laatste schooljaar met goed gevolg heeft afgesloten.
+1. De aanspraak op tegemoetkoming ingevolge [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30) vervalt met ingang van de maand die volgt op de dag waarop de leerling het laatste schooljaar met goed gevolg heeft afgesloten.
 
 2. Indien de leerling aansluitend aan het schooljaar dat als laatste schooljaar was aangemerkt, opnieuw dat laatste schooljaar aanvangt, ontstaat aanspraak op tegemoetkoming voor het resterende gedeelte van het kalenderjaar.
 
-3. Indien de leerling na zijn uitschrijving voor een opleiding binnen 4 maanden opnieuw een opleiding in de zin van deze wet of van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) aanvangt, blijft, in afwijking van het eerste lid, op zijn aanvraag de aanspraak op tegemoetkoming in de tussen beide opleidingen liggende periode voor ten hoogste 4 maanden bestaan. Indien dit de maanden augustus, september, oktober of november betreft, heeft de leerling die op grond van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-01-01&g=2008-01-01) nog geen tegemoetkoming in de onderwijsbijdrage is toegekend en een opleiding als bedoeld in de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2008-01-01&g=2008-01-01), [2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-01-01&g=2008-01-01), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-01-01&g=2008-01-01) of [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.3&artikel=2.10&z=2008-01-01&g=2008-01-01), of een opleiding waarvoor aanspraak op studiefinanciering bestaat, gaat volgen, over die maanden naast een tegemoetkoming in de zin van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-01-01&g=2008-01-01) ook aanspraak op een bedrag aan tegemoetkoming in de onderwijsbijdrage, ter grootte van eentwaalfde van het bedrag, bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5), per maand. Voor de vaststelling van de hoogte van de tegemoetkoming in die maanden wordt uitgegaan van het toetsingsinkomen, zoals dat gold op 31 juli van het voorafgaande schooljaar. In afwijking van [artikel 4.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.3&artikel=4.10&z=2008-01-01&g=2008-01-01), wordt die aanvraag ingediend voor het einde van de periode van 4 maanden.
+3. Indien de leerling na zijn uitschrijving voor een opleiding binnen 4 maanden opnieuw een opleiding in de zin van deze wet of van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) aanvangt, blijft, in afwijking van het eerste lid, op zijn aanvraag de aanspraak op tegemoetkoming in de tussen beide opleidingen liggende periode voor ten hoogste 4 maanden bestaan. Indien dit de maanden augustus, september, oktober of november betreft, heeft de leerling die op grond van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30) nog geen tegemoetkoming in de onderwijsbijdrage is toegekend en een opleiding als bedoeld in de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2008-04-30&g=2008-04-30), [2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-04-30&g=2008-04-30), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-04-30&g=2008-04-30) of [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.3&artikel=2.10&z=2008-04-30&g=2008-04-30), of een opleiding waarvoor aanspraak op studiefinanciering bestaat, gaat volgen, over die maanden naast een tegemoetkoming in de zin van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30) ook aanspraak op een bedrag aan tegemoetkoming in de onderwijsbijdrage, ter grootte van eentwaalfde van het bedrag, bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5), per maand. Voor de vaststelling van de hoogte van de tegemoetkoming in die maanden wordt uitgegaan van het toetsingsinkomen, zoals dat gold op 31 juli van het voorafgaande schooljaar. In afwijking van [artikel 4.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.3&artikel=4.10&z=2008-04-30&g=2008-04-30), wordt die aanvraag ingediend voor het einde van de periode van 4 maanden.
 
 ##### Artikel 2.20. Onderbreken opleiding hoofdstuk 4 wegens ziekte
 
@@ -356,17 +350,17 @@ Vervallen
 
 ##### Artikel 2.21. Geen dubbele aanspraak en geen aanspraak bij aanspraak [WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
-1. De scholier of deelnemer vavo, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-01-01&g=2008-01-01), die tevens deelnemer is in het beroepsonderwijs, bedoeld in dat hoofdstuk, heeft slechts aanspraak op tegemoetkoming voor het volgen van dat beroepsonderwijs.
+1. De scholier of deelnemer vavo, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-04-30&g=2008-04-30), die tevens deelnemer is in het beroepsonderwijs, bedoeld in dat hoofdstuk, heeft slechts aanspraak op tegemoetkoming voor het volgen van dat beroepsonderwijs.
 
-2. De scholier, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-01-01&g=2008-01-01), die tevens aanspraak heeft op studiefinanciering in de zin van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453), heeft geen aanspraak op tegemoetkoming.
+2. De scholier, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30), die tevens aanspraak heeft op studiefinanciering in de zin van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453), heeft geen aanspraak op tegemoetkoming.
 
 3. De deelnemer die tevens aanspraak heeft op studiefinanciering in de zin van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453), heeft geen aanspraak op tegemoetkoming.
 
-4. De deelnemer vavo, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-01-01&g=2008-01-01), voor wie onderwijsbijdrage is verschuldigd en die tevens aanspraak heeft op studiefinanciering in de zin van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453), heeft geen aanspraak op tegemoetkoming.
+4. De deelnemer vavo, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30), voor wie onderwijsbijdrage is verschuldigd en die tevens aanspraak heeft op studiefinanciering in de zin van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453), heeft geen aanspraak op tegemoetkoming.
 
 ##### Artikel 2.22. Geen aanspraak na hoger onderwijs
 
-De leerling heeft geen aanspraak op tegemoetkoming in de zin van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-01-01&g=2008-01-01), indien hij geen aanspraak meer heeft op prestatiebeurs of tempobeurs in de zin van de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5) of [10 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10).
+De leerling heeft geen aanspraak op tegemoetkoming in de zin van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30), indien hij geen aanspraak meer heeft op prestatiebeurs of tempobeurs in de zin van de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5) of [10 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10).
 
 #### Paragraaf 2.7. Inkomen
 
@@ -374,7 +368,7 @@ De leerling heeft geen aanspraak op tegemoetkoming in de zin van [hoofdstuk 4](h
 
 1. De tegemoetkoming in de onderwijsbijdrage en in de schoolkosten is afhankelijk van de hoogte van de op grond van [artikel 7, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) berekende draagkracht.
 
-2. Volledige tegemoetkoming ingevolge de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-01-01&g=2008-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-01-01&g=2008-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&z=2008-01-01&g=2008-01-01) bestaat tot en met het grensbedrag van de draagkracht. Naar de maatstaf van het schooljaar of studiejaar 2004–2005 bedraagt het grensbedrag € 29 882,93 Met ingang van het schooljaar 2008-2009: € 31.772,55.
+2. Volledige tegemoetkoming ingevolge de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-04-30&g=2008-04-30), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&z=2008-04-30&g=2008-04-30) bestaat tot en met het grensbedrag van de draagkracht. Naar de maatstaf van het schooljaar of studiejaar 2004–2005 bedraagt het grensbedrag € 29 882,93 Met ingang van het schooljaar 2008-2009: € 31.772,55.
 
 3. Indien het toe te kennen bedrag per aanvrager minder bedraagt dan € 10,–, wordt de tegemoetkoming op nihil gesteld.
 
@@ -384,11 +378,11 @@ Vervallen
 
 ##### Artikel 2.25. Korting op tegemoetkoming
 
-1. De tegemoetkoming wordt verminderd met een ingevolge het derde lid en [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.27&z=2008-01-01&g=2008-01-01) berekende korting wegens overschrijding van het grensbedrag, bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.23&z=2008-01-01&g=2008-01-01).
+1. De tegemoetkoming wordt verminderd met een ingevolge het derde lid en [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.27&z=2008-04-30&g=2008-04-30) berekende korting wegens overschrijding van het grensbedrag, bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.23&z=2008-04-30&g=2008-04-30).
 
-2. De korting wordt niet toegepast op de basistoelage, bedoeld in [artikel 4.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2008-01-01&g=2008-01-01).
+2. De korting wordt niet toegepast op de basistoelage, bedoeld in [artikel 4.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2008-04-30&g=2008-04-30).
 
-3. De korting is 30% van het verschil tussen de draagkracht in het peiljaar en het grensbedrag, bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.23&z=2008-01-01&g=2008-01-01), tweede lid.
+3. De korting is 30% van het verschil tussen de draagkracht in het peiljaar en het grensbedrag, bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.23&z=2008-04-30&g=2008-04-30), tweede lid.
 
 4. Het kortingsbedrag voor een kalendermaand is de korting, bedoeld in het derde lid, gedeeld door 12.
 
@@ -416,7 +410,7 @@ Vervallen
 
 ##### Artikel 2.28. Peiljaarverlegging bij terugval in inkomen
 
-1. Op aanvraag van de aanvrager of diens partner of TOS-ouder of diens partner wordt bij toepassing van [artikel 1.8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=1&artikel=1.8&z=2008-01-01&g=2008-01-01), indien sprake is van een terugval in inkomen over het eerste of het tweede jaar na het peiljaar,uitgegaan van dat jaar. Deze aanvraag wordt gelijktijdig gedaan met de aanvraag ingevolge de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2008-01-01&g=2008-01-01), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.3&artikel=5.5&z=2008-01-01&g=2008-01-01) of [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=5.11&z=2008-01-01&g=2008-01-01).
+1. Op aanvraag van de aanvrager of diens partner of TOS-ouder of diens partner wordt bij toepassing van [artikel 1.8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=1&artikel=1.8&z=2008-04-30&g=2008-04-30), indien sprake is van een terugval in inkomen over het eerste of het tweede jaar na het peiljaar,uitgegaan van dat jaar. Deze aanvraag wordt gelijktijdig gedaan met de aanvraag ingevolge de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.3&artikel=3.8&z=2008-04-30&g=2008-04-30), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.3&artikel=5.5&z=2008-04-30&g=2008-04-30) of [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.3&artikel=5.11&z=2008-04-30&g=2008-04-30).
 
 2. Voor de toepassing van het eerste lid wordt onder een terugval in inkomen verstaan een vermindering van de draagkracht met ten minste 15% ten opzichte van het peiljaar, met dien verstande dat:
 
@@ -426,7 +420,7 @@ Vervallen
 
 ##### Artikel 2.29. Nog niet vastgesteld of nog niet bekend inkomen
 
-Voor de toepassing van [artikel 1.8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=1&artikel=1.8&z=2008-01-01&g=2008-01-01), en [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.25&z=2008-01-01&g=2008-01-01) wordt zolang het verzamelinkomen over het kalenderjaar waarover het verzamelinkomen berekend wordt, het eerste of het tweede jaar na dat kalenderjaar nog niet is vastgesteld of het belastbare loon over het desbetreffende kalenderjaar nog niet bekend is, door de IB-Groep daarvoor in de plaats gesteld een bedrag dat het vast te stellen verzamelinkomen of het gecorrigeerde belastbare loon zo goed mogelijk benadert.
+Voor de toepassing van [artikel 1.8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=1&artikel=1.8&z=2008-04-30&g=2008-04-30), en [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.25&z=2008-04-30&g=2008-04-30) wordt zolang het verzamelinkomen over het kalenderjaar waarover het verzamelinkomen berekend wordt, het eerste of het tweede jaar na dat kalenderjaar nog niet is vastgesteld of het belastbare loon over het desbetreffende kalenderjaar nog niet bekend is, door de IB-Groep daarvoor in de plaats gesteld een bedrag dat het vast te stellen verzamelinkomen of het gecorrigeerde belastbare loon zo goed mogelijk benadert.
 
 ### Hoofdstuk 3. Leerlingen tot 18 jaar in voortgezet onderwijs en beroepsonderwijs
 
@@ -444,15 +438,15 @@ Dit hoofdstuk is van toepassing op scholieren, deelnemers en deelnemers vavo die
 
 2. De tegemoetkoming kan tevens bestaan uit een overbruggingstegemoetkoming.
 
-3. Voor leerlingen als bedoeld in de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2008-01-01&g=2008-01-01), [2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-01-01&g=2008-01-01), [2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-01-01&g=2008-01-01), wat betreft de inschrijving aan een school als bedoeld in [artikel 1.4a.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1), en [2.7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2008-01-01&g=2008-01-01), die voor de aanvang van het schooljaar de leeftijd van 16 jaren hebben bereikt, bestaat de tegemoetkoming eveneens uit een tegemoetkoming in de onderwijsbijdrage.
+3. Voor leerlingen als bedoeld in de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2008-04-30&g=2008-04-30), [2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-04-30&g=2008-04-30), [2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-04-30&g=2008-04-30), wat betreft de inschrijving aan een school als bedoeld in [artikel 1.4a.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1), en [2.7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2008-04-30&g=2008-04-30), die voor de aanvang van het schooljaar de leeftijd van 16 jaren hebben bereikt, bestaat de tegemoetkoming eveneens uit een tegemoetkoming in de onderwijsbijdrage.
 
 4. Voor deelnemers, die na 1 juli en voor 2 augustus van een kalenderjaar de leeftijd van 18 jaren bereiken, bestaat de tegemoetkoming eveneens uit een tegemoetkoming in de onderwijsbijdrage voor het schooljaar dat op 1 augustus van dat kalenderjaar aanvangt.
 
 ##### Artikel 3.3. Tegemoetkoming onderwijsbijdrage niet bekostigd onderwijs en deelnemers die na 1 juli en voor 2 augustus 18 jaar worden
 
-1. De tegemoetkoming in de onderwijsbijdrage voor een schooljaar is voor een leerling als bedoeld in [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-01-01&g=2008-01-01), het bedrag, bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5).
+1. De tegemoetkoming in de onderwijsbijdrage voor een schooljaar is voor een leerling als bedoeld in [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-04-30&g=2008-04-30), het bedrag, bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5).
 
-2. De tegemoetkoming in de onderwijsbijdrage voor een schooljaar is voor een deelnemer als bedoeld in [artikel 3.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-01-01&g=2008-01-01), het bedrag, bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5).
+2. De tegemoetkoming in de onderwijsbijdrage voor een schooljaar is voor een deelnemer als bedoeld in [artikel 3.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-04-30&g=2008-04-30), het bedrag, bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5).
 
 ##### Artikel 3.4. Tegemoetkoming schoolkosten
 
@@ -479,19 +473,19 @@ Dit hoofdstuk is van toepassing op scholieren, deelnemers en deelnemers vavo die
 
 ##### Artikel 3.6. Aanspraak overbruggingstegemoetkoming
 
-In afwijking van [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&z=2008-01-01&g=2008-01-01) en [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2008-01-01&g=2008-01-01) heeft de aanvrager aanspraak op een overbruggingstegemoetkoming voor de maanden augustus en september ten behoeve van een leerling:
+In afwijking van [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&z=2008-04-30&g=2008-04-30) en [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2008-04-30&g=2008-04-30) heeft de aanvrager aanspraak op een overbruggingstegemoetkoming voor de maanden augustus en september ten behoeve van een leerling:
 
 - a. die op 1 juli van dat kalenderjaar jonger is dan 18 jaren,
 
 - b. die op 1 oktober van dat kalenderjaar als studerende in de zin van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) is ingeschreven voor het volgen van hoger onderwijs waarop die wet van toepassing is, en
 
-- c. voor wie aan de aanvrager over het schooljaar dat aan de overbruggingsperiode vooraf ging, een tegemoetkoming als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2008-01-01&g=2008-01-01) is toegekend.
+- c. voor wie aan de aanvrager over het schooljaar dat aan de overbruggingsperiode vooraf ging, een tegemoetkoming als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2008-04-30&g=2008-04-30) is toegekend.
 
 ##### Artikel 3.7. Hoogte overbruggingstegemoetkoming
 
 1. De overbruggingstegemoetkoming is voor een leerling tweetwaalfde deel van het bedrag van de tegemoetkoming voor een geheel schooljaar waarvoor op 31 juli daaraan voorafgaand aanspraak bestond.
 
-2. Voor leerlingen, anders dan bedoeld in [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-01-01&g=2008-01-01), wordt de overbruggingstegemoetkoming vermeerderd met tweetwaalfde van het bedrag, bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5), zoals dat bedrag gold op 31 juli voorafgaand aan de maanden waarover aanspraak op overbruggingstegemoetkoming bestaat.
+2. Voor leerlingen, anders dan bedoeld in [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-04-30&g=2008-04-30), wordt de overbruggingstegemoetkoming vermeerderd met tweetwaalfde van het bedrag, bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5), zoals dat bedrag gold op 31 juli voorafgaand aan de maanden waarover aanspraak op overbruggingstegemoetkoming bestaat.
 
 #### Paragraaf 3.3. Toekenning
 
@@ -509,11 +503,11 @@ In afwijking van [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438
 
 ##### Artikel 3.9. Toekenning bij wisselen van onderwijssoort
 
-1. Ingeval de leerling op 1 oktober niet langer het soort onderwijs volgt waarvoor hij bij de aanvang van het schooljaar was ingeschreven, en een andere onderwijssoort genoemd in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&z=2008-01-01&g=2008-01-01) volgt, omvat de toekenning van de tegemoetkoming het bedrag voor de onderwijssoort die op die datum wordt gevolgd. De vorige volzin is van overeenkomstige toepassing bij overgang van onderbouw naar bovenbouw of omgekeerd.
+1. Ingeval de leerling op 1 oktober niet langer het soort onderwijs volgt waarvoor hij bij de aanvang van het schooljaar was ingeschreven, en een andere onderwijssoort genoemd in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&z=2008-04-30&g=2008-04-30) volgt, omvat de toekenning van de tegemoetkoming het bedrag voor de onderwijssoort die op die datum wordt gevolgd. De vorige volzin is van overeenkomstige toepassing bij overgang van onderbouw naar bovenbouw of omgekeerd.
 
 2. Ingeval de tegemoetkoming voor een onderwijssoort nihil is en een scholier tijdens het schooljaar een andere onderwijssoort gaat volgen, omvat de toekenning van de tegemoetkoming, in afwijking van het eerste lid, vanaf het tijdstip dat hij die andere onderwijssoort gaat volgen, het bedrag daarvoor.
 
-3. Ingeval een leerling voor wie nog geen tegemoetkoming in de onderwijsbijdrage is toegekend, tijdens het schooljaar een andere onderwijssoort, genoemd in [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-01-01&g=2008-01-01), gaat volgen, omvat de toekenning vanaf het tijdstip dat hij die andere onderwijssoort gaat volgen, eveneens de met betrekking tot die andere onderwijssoort bepaalde tegemoetkoming in de onderwijsbijdrage.
+3. Ingeval een leerling voor wie nog geen tegemoetkoming in de onderwijsbijdrage is toegekend, tijdens het schooljaar een andere onderwijssoort, genoemd in [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-04-30&g=2008-04-30), gaat volgen, omvat de toekenning vanaf het tijdstip dat hij die andere onderwijssoort gaat volgen, eveneens de met betrekking tot die andere onderwijssoort bepaalde tegemoetkoming in de onderwijsbijdrage.
 
 ##### Artikel 3.10. Toekenningsperiode
 
@@ -521,13 +515,13 @@ In afwijking van [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438
 
 2. In afwijking van het eerste lid omvat de toekenning voor een leerling die:
 
-- a. in de loop van het schooljaar 18 jaren wordt: wat betreft de tegemoetkoming in de schoolkosten het aantal maanden van dat schooljaar tot de eerste maand van het kwartaal volgend op de maand waarin de leerling de leeftijd van 18 jaren heeft bereikt en wat betreft de tegemoetkoming in de onderwijsbijdrage, voor zover daar op grond van [artikel 3.2, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-01-01&g=2008-01-01), aanspraak op bestaat, het gehele schooljaar,
+- a. in de loop van het schooljaar 18 jaren wordt: wat betreft de tegemoetkoming in de schoolkosten het aantal maanden van dat schooljaar tot de eerste maand van het kwartaal volgend op de maand waarin de leerling de leeftijd van 18 jaren heeft bereikt en wat betreft de tegemoetkoming in de onderwijsbijdrage, voor zover daar op grond van [artikel 3.2, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-04-30&g=2008-04-30), aanspraak op bestaat, het gehele schooljaar,
 
-- b. is ingeschreven op een school als bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2008-01-01&g=2008-01-01), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-01-01&g=2008-01-01), of [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2008-01-01&g=2008-01-01), en die geen onderwijs meer volgt op 1 oktober, in afwijking van [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-01-01&g=2008-01-01): voor het gehele jaar niets,
+- b. is ingeschreven op een school als bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2008-04-30&g=2008-04-30), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-04-30&g=2008-04-30), of [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2008-04-30&g=2008-04-30), en die geen onderwijs meer volgt op 1 oktober, in afwijking van [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-04-30&g=2008-04-30): voor het gehele jaar niets,
 
-- c. op enig ogenblik tussen 1 oktober en een bij ministeriële regeling te bepalen datum geen onderwijs meer volgt, anders dan in geval van ernstige ziekte van de leerling: de helft van de tegemoetkoming, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-01-01&g=2008-01-01), alsmede, voor zover aanspraak bestaat op de tegemoetkoming bedoeld in [artikel 3.2, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-01-01&g=2008-01-01), vijftwaalfde deel van die tegemoetkoming, en
+- c. op enig ogenblik tussen 1 oktober en een bij ministeriële regeling te bepalen datum geen onderwijs meer volgt, anders dan in geval van ernstige ziekte van de leerling: de helft van de tegemoetkoming, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-04-30&g=2008-04-30), alsmede, voor zover aanspraak bestaat op de tegemoetkoming bedoeld in [artikel 3.2, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-04-30&g=2008-04-30), vijftwaalfde deel van die tegemoetkoming, en
 
-- d. in de loop van het schooljaar na 31 december wordt ingeschreven: de helft van de tegemoetkoming, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-01-01&g=2008-01-01), alsmede, voor zover aanspraak bestaat op de tegemoetkoming bedoeld in [artikel 3.2, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-01-01&g=2008-01-01), zeventwaalfde deel van die tegemoetkoming.
+- d. in de loop van het schooljaar na 31 december wordt ingeschreven: de helft van de tegemoetkoming, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-04-30&g=2008-04-30), alsmede, voor zover aanspraak bestaat op de tegemoetkoming bedoeld in [artikel 3.2, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2008-04-30&g=2008-04-30), zeventwaalfde deel van die tegemoetkoming.
 
 ### Hoofdstuk 4. Leerlingen van 18 jaar en ouder in voortgezet onderwijs en vavo
 
@@ -547,7 +541,7 @@ Dit hoofdstuk is van toepassing op scholieren en deelnemers vavo die 18 jaren zi
 
 - b. tegemoetkoming in de schoolkosten.
 
-2. Voor leerlingen als bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2008-01-01&g=2008-01-01), voor zover zij zijn ingeschreven aan een niet uit ’s Rijks kas bekostigde school of voor een cursus als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-01-01&g=2008-01-01), en voor deelnemers vavo als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.3&artikel=2.10&z=2008-01-01&g=2008-01-01) bestaat de tegemoetkoming eveneens uit een tegemoetkoming in de onderwijsbijdrage.
+2. Voor leerlingen als bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2008-04-30&g=2008-04-30), voor zover zij zijn ingeschreven aan een niet uit ’s Rijks kas bekostigde school of voor een cursus als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-04-30&g=2008-04-30), en voor deelnemers vavo als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.3&artikel=2.10&z=2008-04-30&g=2008-04-30) bestaat de tegemoetkoming eveneens uit een tegemoetkoming in de onderwijsbijdrage.
 
 ##### Artikel 4.3. Basistoelage
 
@@ -583,7 +577,7 @@ De basistoelage is naar de maatstaf van 1 januari 2001 per kalendermaand voor ee
 | voortgezet speciaal onderwijs | nihil Voor het schooljaar 2008–2009: nihil |
 | overig onderwijs | € 42,05 Voor het schooljaar 2008–2009: € 49,53 |
 
-2. [Artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-01-01&g=2008-01-01), is van toepassing.
+2. [Artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-04-30&g=2008-04-30), is van toepassing.
 
 ##### Artikel 4.7. Voorschot onderwijsbijdrage vavo en niet bekostigd onderwijs
 
@@ -719,9 +713,9 @@ De tegemoetkoming in de zin van deze afdeling bestaat uit:
 
 ##### Artikel 5.9. Tegemoetkoming onderwijsbijdrage en schoolkosten
 
-1. De hoogte van de tegemoetkoming is afhankelijk van de periode waarin en van het aantal minuten per week dat de leerling onderwijs volgt. De hoogte van de tegemoetkoming in de onderwijsbijdrage en in de schoolkosten is opgenomen in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.10&z=2008-01-01&g=2008-01-01).
+1. De hoogte van de tegemoetkoming is afhankelijk van de periode waarin en van het aantal minuten per week dat de leerling onderwijs volgt. De hoogte van de tegemoetkoming in de onderwijsbijdrage en in de schoolkosten is opgenomen in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.10&z=2008-04-30&g=2008-04-30).
 
-2. Indien de leerling zijn studie na 30 september wegens ziekte staakt, wordt de tegemoetkoming in de schoolkosten in afwijking van de overzichten 1 en 2, bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.10&z=2008-01-01&g=2008-01-01) niet verminderd.
+2. Indien de leerling zijn studie na 30 september wegens ziekte staakt, wordt de tegemoetkoming in de schoolkosten in afwijking van de overzichten 1 en 2, bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.10&z=2008-04-30&g=2008-04-30) niet verminderd.
 
 ##### Artikel 5.10. Overzicht hoogte tegemoetkoming
 
@@ -799,7 +793,7 @@ De [artikelen 6.3 tot en met 6.18 van de Wet studiefinanciering 2000](https://we
 
 - a. een beschikking genomen is waarvan de aanvrager of de TOS-ouder wist of redelijkerwijs had kunnen weten dat deze onjuist was,
 
-- b. de situatie, bedoeld in de [artikelen 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2008-01-01&g=2008-01-01), [3.10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.3&artikel=3.10&z=2008-01-01&g=2008-01-01), [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.9&z=2008-01-01&g=2008-01-01), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.10&z=2008-01-01&g=2008-01-01) en [10.9, tweede tot en met vierde en zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=10&paragraaf=10.4&artikel=10.9&z=2008-01-01&g=2008-01-01), zich voordoet,
+- b. de situatie, bedoeld in de [artikelen 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2008-04-30&g=2008-04-30), [3.10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.3&artikel=3.10&z=2008-04-30&g=2008-04-30), [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.9&z=2008-04-30&g=2008-04-30), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.10&z=2008-04-30&g=2008-04-30) en [10.9, tweede tot en met vierde en zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=10&paragraaf=10.4&artikel=10.9&z=2008-04-30&g=2008-04-30), zich voordoet,
 
 - c. te veel of te weinig tegemoetkoming is toegekend op basis van onjuiste of onjuist verwerkte gegevens,
 
@@ -807,11 +801,11 @@ De [artikelen 6.3 tot en met 6.18 van de Wet studiefinanciering 2000](https://we
 
 - e. aanvrager of TOS-ouder heeft gehandeld in strijd met het bepaalde bij of krachtens deze wet,
 
-- f. geen gevolg is gegeven aan de aanvraag op grond van [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.28&z=2008-01-01&g=2008-01-01) omdat niet kon worden voldaan aan de voorwaarde genoemd in [artikel 2.28, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.28&z=2008-01-01&g=2008-01-01), en is gebleken dat gedurende 3 kalenderjaren is voldaan aan de voorwaarden genoemd in [artikel 2.28, tweede lid, aanhef alsmede onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.28&z=2008-01-01&g=2008-01-01),
+- f. geen gevolg is gegeven aan de aanvraag op grond van [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.28&z=2008-04-30&g=2008-04-30) omdat niet kon worden voldaan aan de voorwaarde genoemd in [artikel 2.28, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.28&z=2008-04-30&g=2008-04-30), en is gebleken dat gedurende 3 kalenderjaren is voldaan aan de voorwaarden genoemd in [artikel 2.28, tweede lid, aanhef alsmede onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.28&z=2008-04-30&g=2008-04-30),
 
-- g. gevolg is gegeven aan de aanvraag op grond van [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.28&z=2008-01-01&g=2008-01-01), en is gebleken dat niet gedurende 3 kalenderjaren is voldaan aan de voorwaarden genoemd in [artikel 2.28, tweede lid, aanhef alsmede onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.28&z=2008-01-01&g=2008-01-01),
+- g. gevolg is gegeven aan de aanvraag op grond van [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.28&z=2008-04-30&g=2008-04-30), en is gebleken dat niet gedurende 3 kalenderjaren is voldaan aan de voorwaarden genoemd in [artikel 2.28, tweede lid, aanhef alsmede onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.28&z=2008-04-30&g=2008-04-30),
 
-- h. de situatie van langdurige afwezigheid, bedoeld in [artikel 4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.4&artikel=4.12&z=2008-01-01&g=2008-01-01), zich niet heeft voorgedaan, of
+- h. de situatie van langdurige afwezigheid, bedoeld in [artikel 4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.4&artikel=4.12&z=2008-04-30&g=2008-04-30), zich niet heeft voorgedaan, of
 
 - i. andere, nader gebleken feiten of omstandigheden, die, waren zij eerder bekend geweest, tot een andere beschikking zouden hebben geleid.
 
@@ -827,9 +821,9 @@ De [artikelen 7:2 tot en met 7:9 van de Algemene wet bestuursrecht](https://wett
 
 ##### Artikel 7.3. Verrekening teveel toegekende en uitbetaalde tegemoetkoming
 
-1. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=7&artikel=7.1&z=2008-01-01&g=2008-01-01), of een beslissing op bezwaar daartoe aanleiding geeft, wordt het bedrag van de tegemoetkoming dat teveel is uitbetaald, door de aanvrager terugbetaald of met hem verrekend.
+1. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=7&artikel=7.1&z=2008-04-30&g=2008-04-30), of een beslissing op bezwaar daartoe aanleiding geeft, wordt het bedrag van de tegemoetkoming dat teveel is uitbetaald, door de aanvrager terugbetaald of met hem verrekend.
 
-2. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=7&artikel=7.1&z=2008-01-01&g=2008-01-01), of een beslissing op bezwaar daartoe aanleiding geeft, wordt voorzover het bedrag waarvoor het recht om een lening af te sluiten te hoog is toegekend, het deel dat te hoog is toegekend en uitbetaald door de betrokkene terugbetaald of met hem verrekend.
+2. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=7&artikel=7.1&z=2008-04-30&g=2008-04-30), of een beslissing op bezwaar daartoe aanleiding geeft, wordt voorzover het bedrag waarvoor het recht om een lening af te sluiten te hoog is toegekend, het deel dat te hoog is toegekend en uitbetaald door de betrokkene terugbetaald of met hem verrekend.
 
 3. Indien na een voorlopige voorziening als bedoeld in [titel 8.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=8.3), de beslissing in hoofdzaak daartoe aanleiding geeft, wordt het bedrag dat op grond van de voorlopige voorziening teveel is uitbetaald, door de betrokkene terugbetaald of met hem verrekend.
 
@@ -879,11 +873,9 @@ Een studentendecaan aan een op grond van de [WHW](https://wetten.overheid.nl/jci
 
 ##### Artikel 9.4. Verstrekken van inlichtingen door scholen
 
-1. De natuurlijke persoon van wie of het bestuur van de rechtspersoon waarvan een school als bedoeld in de paragrafen 2.2, 2.3 en 2.4 uitgaat, is verplicht op een bij ministeriële regeling aan te geven wijze kosteloos inlichtingen te verstrekken, benodigd voor de uitvoering van deze wet.
+1. De natuurlijke persoon van wie of het bestuur van de rechtspersoon waarvan een school als bedoeld in de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&z=2008-04-30&g=2008-04-30), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.3&z=2008-04-30&g=2008-04-30) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&z=2008-04-30&g=2008-04-30) uitgaat, is verplicht op een bij ministeriële regeling aan te geven wijze kosteloos inlichtingen te verstrekken, benodigd voor de uitvoering van deze wet.
 
-2. De natuurlijke persoon van wie of het bestuur van de rechtspersoon waarvan een school als bedoeld in artikel 2.7 uitgaat, is verplicht voor 1 mei aan de IB-Groep te melden welke opleidingstrajecten als bedoeld in [artikel 7.4.8, eerste lid, onderdeel f, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.8), in het eerstvolgende schooljaar door de school worden verzorgd.
-
-3. De natuurlijke persoon van wie of het bestuur van de rechtspersoon waarvan een school als bedoeld in de artikelen 2.4 tot en met 2.10 uitgaat, is verplicht voor 1 mei aan Onze Minister te melden indien onderwijs dat in dat schooljaar voldeed aan de voorwaarden, genoemd in artikel 2.18, in het daaropvolgende schooljaar niet aan deze voorwaarde zal voldoen.
+2. De natuurlijke persoon van wie of het bestuur van de rechtspersoon waarvan een school als bedoeld in de [artikelen 2.4 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2008-04-30&g=2008-04-30) en [2.8 tot en met 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-04-30&g=2008-04-30) uitgaat, is verplicht voor 1 mei aan Onze Minister te melden indien onderwijs dat in dat schooljaar voldeed aan de voorwaarden, genoemd in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.5&artikel=2.18&z=2008-04-30&g=2008-04-30), in het daaropvolgende schooljaar niet aan deze voorwaarde zal voldoen.
 
 ##### Artikel 9.5. Verstrekken van inlichtingen door organen met een publiekrechtelijke taak
 
@@ -891,25 +883,23 @@ Organen met een publiekrechtelijke taak zijn verplicht op een bij algemene maatr
 
 ##### Artikel 9.6. Verstrekken van inlichtingen door inspecteur der rijksbelastingen
 
-De inspecteur, bedoeld in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=1&artikel=1.6&z=2008-01-01&g=2008-01-01), verstrekt de gegevens inzake het verzamelinkomen of het belastbare loon aan de IB-Groep volgens bij of krachtens algemene maatregel van bestuur te stellen regels.
+De inspecteur, bedoeld in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=1&artikel=1.6&z=2008-04-30&g=2008-04-30), verstrekt de gegevens inzake het verzamelinkomen of het belastbare loon aan de IB-Groep volgens bij of krachtens algemene maatregel van bestuur te stellen regels.
 
 #### Paragraaf 9.3. Administratieve sanctie
 
 ##### Artikel 9.7. Niet verstrekken van inlichtingen over langdurige afwezigheid van leerlingen als bedoeld in hoofdstuk 4
 
-Indien een niet volledig en rechtstreeks uit de openbare kas bekostigde school als bedoeld in de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2008-01-01&g=2008-01-01), [2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-01-01&g=2008-01-01), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-01-01&g=2008-01-01) en [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2008-01-01&g=2008-01-01), op enig moment in een schooljaar niet een administratie als bedoeld in [artikel 4.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.4&artikel=4.14&z=2008-01-01&g=2008-01-01), voert of niet na afloop van de in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.4&artikel=4.14&z=2008-01-01&g=2008-01-01) bedoelde periodes van onafgebroken afwezigheid zonder geldige reden van een leerling als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-01-01&g=2008-01-01) aan de IB-Groep de vereiste gegevens verstrekt, ontstaat er een vordering van de IB-Groep op de school ter grootte van 15% van het bedrag van de tegemoetkomingen, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2008-01-01&g=2008-01-01), voorzover die als gift zijn toegekend aan de leerlingen aan die school in het schooljaar waarin deze school in gebreke was, is toegekend.
+Indien een niet volledig en rechtstreeks uit de openbare kas bekostigde school als bedoeld in de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2008-04-30&g=2008-04-30), [2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2008-04-30&g=2008-04-30), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-04-30&g=2008-04-30) en [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.3&artikel=2.9&z=2008-04-30&g=2008-04-30), op enig moment in een schooljaar niet een administratie als bedoeld in [artikel 4.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.4&artikel=4.14&z=2008-04-30&g=2008-04-30), voert of niet na afloop van de in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.4&artikel=4.14&z=2008-04-30&g=2008-04-30) bedoelde periodes van onafgebroken afwezigheid zonder geldige reden van een leerling als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30) aan de IB-Groep de vereiste gegevens verstrekt, ontstaat er een vordering van de IB-Groep op de school ter grootte van 15% van het bedrag van de tegemoetkomingen, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2008-04-30&g=2008-04-30), voorzover die als gift zijn toegekend aan de leerlingen aan die school in het schooljaar waarin deze school in gebreke was, is toegekend.
 
 ##### Artikel 9.8. Niet verstrekken van inlichtingen over studielast
 
-1. Indien een school als bedoeld in de artikelen 2.4 tot en met 2.10, niet uiterlijk 1 mei de gegevens, bedoeld in artikel 9.4, derde lid, heeft verstrekt, ontstaat er een vordering van de IB-Groep op de school ter grootte van de tegemoetkomingen op grond van de hoofdstukken 3 en 4 die ten behoeve van leerlingen aan die opleiding in het schooljaar waarin deze in gebreke was, is toegekend.
-
-2. Indien een school als bedoeld in artikel 2.7, ten onrechte op grond van [artikel 7.4.8, eerste lid, onderdeel f, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.8) heeft vastgesteld dat een opleidingstraject voldoet aan hoofdstuk 3 of ten onrechte aan de IB-Groep de melding, bedoeld in artikel 9.4, tweede lid, heeft gedaan, ontstaat er een vordering van de IB-Groep op de school ter grootte van het bedrag van de tegemoetkomingen dat ten behoeve van de deelnemers aan dat opleidingstraject in de studiejaren waarop de vaststelling betrekking heeft, is toegekend.
+Indien een school als bedoeld in de [artikelen 2.4 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2008-04-30&g=2008-04-30) en [2.8 tot en met 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-04-30&g=2008-04-30), niet uiterlijk 1 mei de gegevens, bedoeld in [artikel 9.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=9&paragraaf=9.2&artikel=9.4&z=2008-04-30&g=2008-04-30), heeft verstrekt, ontstaat er een vordering van de IB-Groep op de school ter grootte van de tegemoetkomingen op grond van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-04-30&g=2008-04-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30) die ten behoeve van leerlingen aan die opleiding in het schooljaar waarin deze in gebreke was, is toegekend.
 
 #### Paragraaf 9.4. Strafbepalingen
 
 ##### Artikel 9.9. Niet verstrekken van inlichtingen
 
-Hij die niet voldoet aan een van de verplichtingen, bedoeld in [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=9&paragraaf=9.2&artikel=9.4&z=2008-01-01&g=2008-01-01), wordt gestraft met hechtenis van ten hoogste 6 maanden of geldboete van de derde categorie.
+Hij die niet voldoet aan een van de verplichtingen, bedoeld in [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=9&paragraaf=9.2&artikel=9.4&z=2008-04-30&g=2008-04-30), wordt gestraft met hechtenis van ten hoogste 6 maanden of geldboete van de derde categorie.
 
 ##### Artikel 9.10. Overtreding van een bepaling krachtens deze wet
 
@@ -951,7 +941,7 @@ Voor tegemoetkoming kan een leerling in aanmerking komen die is ingeschreven voo
 
 ##### Artikel 10.3. Lerarenopleiding in tekortvakken
 
-Voor tegemoetkoming kan een student in aanmerking komen die als student is ingeschreven aan een instelling als bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2008-01-01&g=2008-01-01) voor een lerarenopleiding in vakken waarin een tekort aan leraren bestaat. Het betreft de vakken die bij ministeriële regeling op grond van hoofdstuk IV van de Wet tegemoetkoming studiekosten op 31 juli 2001 zijn aangewezen.
+Voor tegemoetkoming kan een student in aanmerking komen die als student is ingeschreven aan een instelling als bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2008-04-30&g=2008-04-30) voor een lerarenopleiding in vakken waarin een tekort aan leraren bestaat. Het betreft de vakken die bij ministeriële regeling op grond van hoofdstuk IV van de Wet tegemoetkoming studiekosten op 31 juli 2001 zijn aangewezen.
 
 ##### Artikel 10.4. Geen aanspraak
 
@@ -1047,9 +1037,9 @@ Voor tegemoetkoming kan een student in aanmerking komen die als student is inges
 
 ##### Artikel 11.1. Aanpassing van bedragen
 
-1. Per 1 januari van ieder kalenderjaar past Onze Minister de bedragen, genoemd in de [artikelen 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.23&z=2008-01-01&g=2008-01-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-01-01&g=2008-01-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.3&z=2008-01-01&g=2008-01-01), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.6&z=2008-01-01&g=2008-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.4&z=2008-01-01&g=2008-01-01), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.10&z=2008-01-01&g=2008-01-01), [10.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=10&paragraaf=10.3&artikel=10.5&z=2008-01-01&g=2008-01-01), en [10.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=10&paragraaf=10.4&artikel=10.7&z=2008-01-01&g=2008-01-01), aan op een bij of krachtens algemene maatregel van bestuur aan te geven wijze aan de hand van de loon- of prijsontwikkelingen in het tweede daaraan voorafgaande kalenderjaar. De aangepaste bedragen treden in de plaats van de in de eerste volzin bedoelde bedragen.
+1. Per 1 januari van ieder kalenderjaar past Onze Minister de bedragen, genoemd in de [artikelen 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.7&artikel=2.23&z=2008-04-30&g=2008-04-30), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-04-30&g=2008-04-30), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.3&z=2008-04-30&g=2008-04-30), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.6&z=2008-04-30&g=2008-04-30), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.4&z=2008-04-30&g=2008-04-30), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.10&z=2008-04-30&g=2008-04-30), [10.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=10&paragraaf=10.3&artikel=10.5&z=2008-04-30&g=2008-04-30), en [10.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=10&paragraaf=10.4&artikel=10.7&z=2008-04-30&g=2008-04-30), aan op een bij of krachtens algemene maatregel van bestuur aan te geven wijze aan de hand van de loon- of prijsontwikkelingen in het tweede daaraan voorafgaande kalenderjaar. De aangepaste bedragen treden in de plaats van de in de eerste volzin bedoelde bedragen.
 
-2. Bij algemene maatregel van bestuur kunnen de maatstaven, genoemd in de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-01-01&g=2008-01-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.3&z=2008-01-01&g=2008-01-01), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.6&z=2008-01-01&g=2008-01-01) en [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.10&z=2008-01-01&g=2008-01-01), alsmede de bedragen, genoemd in die artikelen, worden gewijzigd.
+2. Bij algemene maatregel van bestuur kunnen de maatstaven, genoemd in de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2008-04-30&g=2008-04-30), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.3&z=2008-04-30&g=2008-04-30), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&paragraaf=4.2&artikel=4.6&z=2008-04-30&g=2008-04-30) en [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.2&paragraaf=5.2.2&artikel=5.10&z=2008-04-30&g=2008-04-30), alsmede de bedragen, genoemd in die artikelen, worden gewijzigd.
 
 3. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -1079,7 +1069,7 @@ Voor tegemoetkoming kan een student in aanmerking komen die als student is inges
 
 - e. het begrip verzamelinkomen, en
 
-- f. [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=1&artikel=1.8&z=2008-01-01&g=2008-01-01).
+- f. [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=1&artikel=1.8&z=2008-04-30&g=2008-04-30).
 
 ### Hoofdstuk 12. Overgangsbepalingen
 
@@ -1257,9 +1247,9 @@ Deze wet wordt aangehaald als: Wet tegemoetkoming onderwijsbijdrage en schoolkos
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 12.3a. Afwijking van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2008-01-01&g=2008-01-01)
+##### Artikel 12.3a. Afwijking van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2008-04-30&g=2008-04-30)
 
-In afwijking van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2008-01-01&g=2008-01-01) komt tot een bij koninklijk besluit te bepalen tijdstip voor tegemoetkoming ingevolge [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2008-01-01&g=2008-01-01) mede in aanmerking een student die is ingeschreven voor het volgen van een voltijdse opleiding als bedoeld in [artikel 18.64 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.64), voorzover die opleiding is geaccrediteerd als bedoeld in [artikel 1.1, onderdeel s, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) of de toets nieuwe opleiding, bedoeld in [artikel 1.1, onderdeel t, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), met positief gevolg heeft ondergaan.
+In afwijking van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=2&paragraaf=2.4&artikel=2.11&z=2008-04-30&g=2008-04-30) komt tot een bij koninklijk besluit te bepalen tijdstip voor tegemoetkoming ingevolge [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5&afdeling=5.1&z=2008-04-30&g=2008-04-30) mede in aanmerking een student die is ingeschreven voor het volgen van een voltijdse opleiding als bedoeld in [artikel 18.64 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.64), voorzover die opleiding is geaccrediteerd als bedoeld in [artikel 1.1, onderdeel s, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) of de toets nieuwe opleiding, bedoeld in [artikel 1.1, onderdeel t, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), met positief gevolg heeft ondergaan.
 
 ### Hoofdstuk 13. Wijzigingen in andere wetten
 
@@ -1269,15 +1259,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 1.8. [AWIR](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) van toepassing
 
-Op deze wet, met uitzondering van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=10&z=2008-01-01&g=2008-01-01), zijn van toepassing van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472):
+Op deze wet, met uitzondering van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=10&z=2008-04-30&g=2008-04-30), zijn van toepassing van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472):
 
 - a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=6),
 
-- b. [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), met dien verstande dat voor de toepassing van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-01-01&g=2008-01-01) voor «belanghebbende» gelezen wordt: TOS-ouder,
+- b. [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), met dien verstande dat voor de toepassing van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4&z=2008-04-30&g=2008-04-30) voor «belanghebbende» gelezen wordt: TOS-ouder,
 
-- c. [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=9), met dien verstande dat het tweede lid niet van toepassing is op [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-01-01&g=2008-01-01) van deze wet, en
+- c. [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=9), met dien verstande dat het tweede lid niet van toepassing is op [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-04-30&g=2008-04-30) van deze wet, en
 
-- d. [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=10), met dien verstande dat deze bepaling niet van toepassing is op [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-01-01&g=2008-01-01) van deze wet.
+- d. [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=10), met dien verstande dat deze bepaling niet van toepassing is op [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3&z=2008-04-30&g=2008-04-30) van deze wet.
 
 ### Hoofdstuk 2. Werkingssfeer
 
