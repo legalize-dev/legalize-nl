@@ -4,7 +4,7 @@ identifier: "BWBR0023796"
 country: "nl"
 rank: "wet"
 publication_date: "2008-04-30"
-last_updated: "2007-08-01"
+last_updated: "2008-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023796"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2008-04-30"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet educatie en beroepsonderwijs.
 
 ##### Artikel II
 
@@ -52,19 +52,19 @@ Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Les- en cursusgeldwet.
 
 ##### Artikel V. Evaluatie
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister zendt binnen 2 jaar na de inwerkingtreding van deze wetswijziging, dat wil zeggen in 2010, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel VII. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking met ingang van 1 augustus 2007. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 juli 2007, treedt deze wet in werking op de dag na de datum van uitgifte van het Staatsblad waarin zij is geplaatst en werkt zij voor wat betreft [artikel II, onderdelen C, D, E, punt 2, en F tot en met I](https://wetten.overheid.nl/jci1.3:c:BWBR0023796&artikel=II&z=2008-04-30&g=2008-04-30), en [artikel III, onderdelen C tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0023796&artikel=III&z=2008-04-30&g=2008-04-30), terug tot en met 1 augustus 2007.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
