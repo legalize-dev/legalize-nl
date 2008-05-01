@@ -4,7 +4,7 @@ identifier: "BWBR0020008"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-03-20"
-last_updated: "2008-04-01"
+last_updated: "2008-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020008"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 - o. [richtlijn 2005/55/EG](32005L0055): richtlijn van het Europese Parlement en de Raad van de Europese Unie van 28 september 2005 inzake de onderlinge aanpassing van de wetgevingen van de lidstaten met betrekking tot maatregelen tegen de emissie van verontreinigende gassen en deeltjes door voertuigmotoren met compressieontsteking en de emissie van verontreinigende gassen door op aardgas of vloeibaar petroleumgas lopende voertuigmotoren met elektrische ontsteking (Pb EU 2005, L 275), zoals deze laatstelijk is gewijzigd bij [richtlijn nr. 2006/51/EG](32006L0051) van de Commissie van de Europese Gemeenschappen van 6 juni 2006 (Pb EU L 152);
 
-- p. mobiel werktuig: mobiel werktuig als bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=III&z=2008-04-01&g=2008-04-01);
+- p. mobiel werktuig: mobiel werktuig als bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=III&z=2008-05-01&g=2008-05-01);
 
 - q. filterlijst: filters behorende tot de categorie ‘Partikelfilter-Systeme für den Dauereinsatz’ van de lijst van BAFU/Suva genaamd ‘Geprüfte und erprobte Partikelfilter-Systeme für die Nachrüstung von Dieselmotoren’;
 
@@ -98,7 +98,7 @@ Deze regeling heeft tot doel een bijdrage te leveren aan de verbetering van de l
 
 ##### Artikel 2.1. Voorwaarden voor subsidie
 
-1. Subsidie kan worden verstrekt voor de inbouw van een ongebruikte emissieverminderende voorziening die voldoet aan de eisen, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2008-04-01&g=2008-04-01), in de volgende voertuigen met een dieselmotor, waarvoor een kenteken is afgegeven overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) of [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37):
+1. Subsidie kan worden verstrekt voor de inbouw van een ongebruikte emissieverminderende voorziening die voldoet aan de eisen, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2008-05-01&g=2008-05-01), in de volgende voertuigen met een dieselmotor, waarvoor een kenteken is afgegeven overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) of [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37):
 
 - a. een personenauto;
 
@@ -116,11 +116,11 @@ Deze regeling heeft tot doel een bijdrage te leveren aan de verbetering van de l
 
 - b. de inbouw heeft gemeld aan de Dienst Wegverkeer door middel van een door die dienst daartoe geaccepteerd netwerk.
 
-4. Het derde lid, onder b, is niet van toepassing op een aanvraag als bedoeld in [artikel 2.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2008-04-01&g=2008-04-01).
+4. Het derde lid, onder b, is niet van toepassing op een aanvraag als bedoeld in [artikel 2.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2008-05-01&g=2008-05-01).
 
 ##### Artikel 2.2. Emissiereductie-eis
 
-1. De inbouw van een ongebruikte emissieverminderende voorziening als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2008-04-01&g=2008-04-01), in een voertuig met een dieselmotor heeft als resultaat dat:
+1. De inbouw van een ongebruikte emissieverminderende voorziening als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2008-05-01&g=2008-05-01), in een voertuig met een dieselmotor heeft als resultaat dat:
 
 - a. de uitstoot van deeltjes door het desbetreffende voertuig voldoet aan een emissiegrenswaarde die 50% lager is dan de waarde die is gehanteerd bij de typegoedkeuring of de individuele goedkeuring voor de toelating op de weg, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22), respectievelijk [26, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26),
 
@@ -134,9 +134,9 @@ Deze regeling heeft tot doel een bijdrage te leveren aan de verbetering van de l
 
 - f. het voertuig na de inbouw voldoet aan de veiligheidseisen gesteld bij of krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) en de geluidsnormen gesteld bij of krachtens de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227).
 
-2. Een emissieverminderende voorziening voldoet in elk geval aan het eerste lid, indien deze ongebruikt is en voldoet aan de eisen die in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=I&z=2008-04-01&g=2008-04-01) zijn opgenomen en zulks blijkt uit een beproeving overeenkomstig [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=I&z=2008-04-01&g=2008-04-01).
+2. Een emissieverminderende voorziening voldoet in elk geval aan het eerste lid, indien deze ongebruikt is en voldoet aan de eisen die in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=I&z=2008-05-01&g=2008-05-01) zijn opgenomen en zulks blijkt uit een beproeving overeenkomstig [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=I&z=2008-05-01&g=2008-05-01).
 
-3. Een emissieverminderende voorziening voldoet in elk geval aan de eisen van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=I&z=2008-04-01&g=2008-04-01), indien deze van een merk en type is waarvoor de Dienst Wegverkeer goedkeuring heeft verleend en geschikt is bevonden voor de toepassing van die voorziening op het merk en het type van het desbetreffende voertuig.
+3. Een emissieverminderende voorziening voldoet in elk geval aan de eisen van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=I&z=2008-05-01&g=2008-05-01), indien deze van een merk en type is waarvoor de Dienst Wegverkeer goedkeuring heeft verleend en geschikt is bevonden voor de toepassing van die voorziening op het merk en het type van het desbetreffende voertuig.
 
 ##### Artikel 2.3. De aanvraag
 
@@ -154,9 +154,9 @@ Deze regeling heeft tot doel een bijdrage te leveren aan de verbetering van de l
 
 - d. de aard van de emissieverminderende voorziening;
 
-- e. het bedrag van de factuur, waarbij het subsidiebedrag, bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2008-04-01&g=2008-04-01), in mindering is gebracht op het eindbedrag, inclusief BTW, van de factuur.
+- e. het bedrag van de factuur, waarbij het subsidiebedrag, bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.4&z=2008-05-01&g=2008-05-01), in mindering is gebracht op het eindbedrag, inclusief BTW, van de factuur.
 
-4. Indien een emissieverminderende voorziening is ingebouwd waarvoor de Dienst Wegverkeer geen goedkeuring heeft verleend, gaat de aanvraag vergezeld van bescheiden waarmee wordt aangetoond dat de ingebouwde voorziening voldoet aan [artikel 2.2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2008-04-01&g=2008-04-01).
+4. Indien een emissieverminderende voorziening is ingebouwd waarvoor de Dienst Wegverkeer geen goedkeuring heeft verleend, gaat de aanvraag vergezeld van bescheiden waarmee wordt aangetoond dat de ingebouwde voorziening voldoet aan [artikel 2.2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2008-05-01&g=2008-05-01).
 
 ##### Artikel 2.4. Het subsidiebedrag
 
@@ -172,7 +172,7 @@ Het subsidieplafond bedraagt tot en met 31 december 2008: € 50.000.000,–
 
 ##### Artikel 2.6. Looptijd van het programma
 
-[Paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&z=2008-04-01&g=2008-04-01) vervalt op 1 januari 2011, met dien verstande dat deze regeling nadien van toepassing blijft op aanvragen die op of voor 31 december 2010 op grond van [paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&z=2008-04-01&g=2008-04-01) zijn ingediend.
+[Paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&z=2008-05-01&g=2008-05-01) vervalt op 1 januari 2011, met dien verstande dat deze regeling nadien van toepassing blijft op aanvragen die op of voor 31 december 2010 op grond van [paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&z=2008-05-01&g=2008-05-01) zijn ingediend.
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -320,7 +320,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.7. Voorwaarden voor subsidie
 
-1. Subsidie kan worden verstrekt voor de inbouw van een ongebruikte emissieverminderende voorziening die voldoet aan de eisen, bedoeld in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-04-01&g=2008-04-01), in de volgende voertuigen met een dieselmotor, waarvoor een kenteken is afgegeven overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) of [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37):
+1. Subsidie kan worden verstrekt voor de inbouw van een ongebruikte emissieverminderende voorziening die voldoet aan de eisen, bedoeld in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-05-01&g=2008-05-01), in de volgende voertuigen met een dieselmotor, waarvoor een kenteken is afgegeven overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) of [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37):
 
 - a. een vrachtauto,
 
@@ -340,11 +340,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. de inbouw heeft gemeld aan de Dienst Wegverkeer door middel van een door die dienst daartoe geaccepteerd netwerk.
 
-4. Het derde lid, onder b, is niet van toepassing op een aanvraag als bedoeld in [artikel 2.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2008-04-01&g=2008-04-01).
+4. Het derde lid, onder b, is niet van toepassing op een aanvraag als bedoeld in [artikel 2.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2008-05-01&g=2008-05-01).
 
 ##### Artikel 2.8. Emissiereductie-eisen
 
-1. De inbouw van een ongebruikte emissieverminderende voorziening als bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2008-04-01&g=2008-04-01), heeft als resultaat dat:
+1. De inbouw van een ongebruikte emissieverminderende voorziening als bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2008-05-01&g=2008-05-01), heeft als resultaat dat:
 
 - a. de uitstoot van deeltjes door het desbetreffende voertuig voldoet aan een emissiegrenswaarde die ten minste 50% lager is dan de waarde die is gehanteerd bij de typegoedkeuring of de individuele goedkeuring voor toelating op de weg, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=22), respectievelijk [26, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=26), dan wel ten minste 30% lager is dan die waarde indien het een voertuig betreft met een motor met een cilinderinhoud van minder dan 0,75 dm3 per cilinder en een nominaal toerental van meer dan 3000 toeren per minuut,
 
@@ -354,9 +354,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. het voertuig na de inbouw voldoet aan de veiligheidseisen gesteld bij of krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) en de geluidsnormen gesteld bij of krachtens de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227).
 
-2. Een emissieverminderende voorziening voldoet in elk geval aan het eerste lid, indien deze ongebruikt is en voldoet aan de eisen die in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01) zijn opgenomen en zulks blijkt uit een beproeving overeenkomstig [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01).
+2. Een emissieverminderende voorziening voldoet in elk geval aan het eerste lid, indien deze ongebruikt is en voldoet aan de eisen die in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01) zijn opgenomen en zulks blijkt uit een beproeving overeenkomstig [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01).
 
-3. Een emissieverminderende voorziening voldoet in elk geval aan de eisen van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01), indien deze van een merk en type is waarvoor de Dienst Wegverkeer goedkeuring heeft verleend en geschikt is bevonden voor de toepassing van die voorziening op het merk en het type van de desbetreffende vrachtauto, toerbus of bus van klasse A of B.
+3. Een emissieverminderende voorziening voldoet in elk geval aan de eisen van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01), indien deze van een merk en type is waarvoor de Dienst Wegverkeer goedkeuring heeft verleend en geschikt is bevonden voor de toepassing van die voorziening op het merk en het type van de desbetreffende vrachtauto, toerbus of bus van klasse A of B.
 
 ##### Artikel 2.9. De aanvraag
 
@@ -374,47 +374,47 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. de aard van de emissieverminderende voorziening.
 
-- e. het bedrag van de factuur, waarbij het toepasselijk subsidiebedrag, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2008-04-01&g=2008-04-01), in mindering is gebracht op het eindbedrag, inclusief BTW, van de factuur.
+- e. het bedrag van de factuur, waarbij het toepasselijk subsidiebedrag, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2008-05-01&g=2008-05-01), in mindering is gebracht op het eindbedrag, inclusief BTW, van de factuur.
 
-4. Indien een emissieverminderende voorziening is ingebouwd waarvoor de Dienst Wegverkeer geen goedkeuring heeft verleend, gaat de aanvraag vergezeld van bescheiden waarmee wordt aangetoond dat de ingebouwde voorziening voldoet aan [artikel 2.8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-04-01&g=2008-04-01).
+4. Indien een emissieverminderende voorziening is ingebouwd waarvoor de Dienst Wegverkeer geen goedkeuring heeft verleend, gaat de aanvraag vergezeld van bescheiden waarmee wordt aangetoond dat de ingebouwde voorziening voldoet aan [artikel 2.8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-05-01&g=2008-05-01).
 
 ##### Artikel 2.10. Subsidiebedragen
 
-1. De subsidie voor inbouw van een emissieverminderende voorziening in een voertuig als bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2008-04-01&g=2008-04-01), met een toegestane maximum massa van niet meer dan 5 ton bedraagt:
+1. De subsidie voor inbouw van een emissieverminderende voorziening in een voertuig als bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2008-05-01&g=2008-05-01), met een toegestane maximum massa van niet meer dan 5 ton bedraagt:
 
-- a. € 1000,– bij inbouw van een voorziening die voldoet aan de eisen van een deeltjesverminderingssysteem van klasse B als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01);
+- a. € 1000,– bij inbouw van een voorziening die voldoet aan de eisen van een deeltjesverminderingssysteem van klasse B als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01);
 
-- b. € 2.000,– bij inbouw van een voorziening die voldoet aan de eisen van een continu regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01);
+- b. € 2.000,– bij inbouw van een voorziening die voldoet aan de eisen van een continu regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01);
 
-- c. € 2.500,– bij inbouw van een voorziening die voldoet aan de eisen van een periodiek regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01).
+- c. € 2.500,– bij inbouw van een voorziening die voldoet aan de eisen van een periodiek regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01).
 
-2. De subsidie voor inbouw van een emissieverminderende voorziening in een voertuig als bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2008-04-01&g=2008-04-01), met een toegestane maximum massa van meer dan 5 ton, bedraagt:
+2. De subsidie voor inbouw van een emissieverminderende voorziening in een voertuig als bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2008-05-01&g=2008-05-01), met een toegestane maximum massa van meer dan 5 ton, bedraagt:
 
 - a. wanneer het voertuig een motorvermogen heeft van minder dan 150 KW:
 
-- 1°. € 2.250,– bij inbouw van een voorziening die voldoet aan de eisen van een deeltjesverminderingssysteem van klasse B als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01),
+- 1°. € 2.250,– bij inbouw van een voorziening die voldoet aan de eisen van een deeltjesverminderingssysteem van klasse B als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01),
 
-- 2°. € 5.000,– bij inbouw van een voorziening die voldoet aan de eisen van een continu regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01),
+- 2°. € 5.000,– bij inbouw van een voorziening die voldoet aan de eisen van een continu regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01),
 
-- 3°. € 6.000,– bij inbouw van een voorziening die voldoet aan de eisen van een periodiek regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01);
+- 3°. € 6.000,– bij inbouw van een voorziening die voldoet aan de eisen van een periodiek regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01);
 
 - b. wanneer het voertuig een motorvermogen heeft van 150 tot 225 KW:
 
-- 1°. € 2.650,– bij inbouw van een voorziening die voldoet aan de eisen van een deeltjesverminderingssysteem van klasse B als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01),
+- 1°. € 2.650,– bij inbouw van een voorziening die voldoet aan de eisen van een deeltjesverminderingssysteem van klasse B als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01),
 
-- 2°. € 5.500,– bij inbouw van een voorziening die voldoet aan de eisen van een continu regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01),
+- 2°. € 5.500,– bij inbouw van een voorziening die voldoet aan de eisen van een continu regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01),
 
-- 3°. € 6.000,– bij inbouw van een voorziening die voldoet aan de eisen van een periodiek regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01);
+- 3°. € 6.000,– bij inbouw van een voorziening die voldoet aan de eisen van een periodiek regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01);
 
 - c. wanneer het voertuig een motorvermogen heeft van 225 KW of meer:
 
-- 1°. € 3.000,– bij inbouw van een voorziening die voldoet aan de eisen van een deeltjesverminderingssysteem van klasse B als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01),
+- 1°. € 3.000,– bij inbouw van een voorziening die voldoet aan de eisen van een deeltjesverminderingssysteem van klasse B als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01),
 
-- 2°. € 6.000,– bij inbouw van een voorziening die voldoet aan de eisen van een continu regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01),
+- 2°. € 6.000,– bij inbouw van een voorziening die voldoet aan de eisen van een continu regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01),
 
-- 3°. € 6.000,– bij inbouw van een voorziening die voldoet aan de eisen van een periodiek regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-04-01&g=2008-04-01).
+- 3°. € 6.000,– bij inbouw van een voorziening die voldoet aan de eisen van een periodiek regenererend deeltjesverminderingssysteem van klasse A als bedoeld in [onderdeel 1 van bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=II&z=2008-05-01&g=2008-05-01).
 
-3. Per voertuig als bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2008-04-01&g=2008-04-01), wordt slechts éénmaal subsidie verstrekt.
+3. Per voertuig als bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2008-05-01&g=2008-05-01), wordt slechts éénmaal subsidie verstrekt.
 
 ##### Artikel 2.11. Subsidieplafond
 
@@ -440,7 +440,7 @@ Het subsidieplafond bedraagt tot en met 31 december 2008: € 150.000.000,–.
 
 2. Een aanvraag tot subsidievaststelling kan worden ingediend voor één of meer vrachtauto’s of bussen.
 
-3. Een aanvraag tot subsidievaststelling wordt ingediend binnen drie maanden na de afgifte van het definitieve kentekenbewijs aan de eerste kentekenhouder, bedoeld in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2008-04-01&g=2008-04-01).
+3. Een aanvraag tot subsidievaststelling wordt ingediend binnen drie maanden na de afgifte van het definitieve kentekenbewijs aan de eerste kentekenhouder, bedoeld in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2008-05-01&g=2008-05-01).
 
 4. De aanvraag gaat vergezeld van een afschrift van:
 
@@ -452,23 +452,25 @@ Het subsidieplafond bedraagt tot en met 31 december 2008: € 150.000.000,–.
 
 ##### Artikel 2.14. Subsidiebedrag
 
-Het subsidiebedrag bedraagt:
+1. Het subsidiebedrag bedraagt:
 
 - a. wanneer het voertuig een motorvermogen heeft van minder dan 225 kW:
 
-- 1°. € 2.500,– per vrachtauto of bus die beschikt over een Euro 5 dieselmotor;
+- 1°. € 1.500,– per vrachtauto of bus die beschikt over een Euro 5 dieselmotor;
 
-- 2°. € 5.000,– per vrachtauto of bus die beschikt over een motor die voldoet aan de EEV-norm;
+- 2°. € 2.500,– per vrachtauto of bus die beschikt over een motor die voldoet aan de EEV-norm;
 
 - b. wanneer het voertuig een motorvermogen heeft van 225 kW of meer:
 
 - 1°. € 500,– per vrachtauto of bus die beschikt over een Euro 5 dieselmotor;
 
-- 2°. € 5.000,– per vrachtauto of bus die beschikt over een motor die voldoet aan de EEV-norm.
+- 2°. € 1.500,– per vrachtauto of bus die beschikt over een motor die voldoet aan de EEV-norm.
+
+2. Indien op het tijdstip van de afgifte van het kentekenbewijs, bedoeld in [artikel 2.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2008-05-01&g=2008-05-01), een ander subsidiebedrag in het eerste lid was genoemd, bedraagt het subsidiebedrag dat andere bedrag.
 
 ##### Artikel 2.15. Subsidieplafond
 
-Het subsidieplafond bedraagt tot en met 31 december 2008: € 30.000.000,–.
+Het subsidieplafond bedraagt tot en met 31 december 2008: € 37.000.000,–.
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -664,7 +666,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.16. Voorwaarden voor subsidie
 
-1. Subsidie kan worden verstrekt voor de inbouw van een ongebruikte emissieverminderende voorziening die voldoet aan [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-04-01&g=2008-04-01) in een mobiel werktuig met dieselmotor met een vermogen van 75 tot en met 560 kW, indien de motor beschikt over een typegoedkeuring overeenkomstig fase II of fase IIIA als bedoeld in richtlijn 97/68/EG.
+1. Subsidie kan worden verstrekt voor de inbouw van een ongebruikte emissieverminderende voorziening die voldoet aan [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-05-01&g=2008-05-01) in een mobiel werktuig met dieselmotor met een vermogen van 75 tot en met 560 kW, indien de motor beschikt over een typegoedkeuring overeenkomstig fase II of fase IIIA als bedoeld in richtlijn 97/68/EG.
 
 2. Subsidie als bedoeld in het eerste lid wordt uitsluitend verstrekt indien de inbouw van de emissieverminderende voorziening plaatsvindt na de inwerkingtreding van dit subsidieprogramma.
 
@@ -676,7 +678,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.17. Emissiereductie-eisen
 
-1. De inbouw van een emissieverminderende voorziening als bedoeld in [artikel 2.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.16&z=2008-04-01&g=2008-04-01), heeft als resultaat dat:
+1. De inbouw van een emissieverminderende voorziening als bedoeld in [artikel 2.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.16&z=2008-05-01&g=2008-05-01), heeft als resultaat dat:
 
 - a. de uitstoot van deeltjes door de motor van het desbetreffende mobiele werktuig voldoet aan een emissiegrenswaarde die ten minste 90% lager is dan de waarde die is gehanteerd bij de typegoedkeuring overeenkomstig richtlijn 97/68/EG,
 
@@ -696,13 +698,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Een emissieverminderende voorziening voldoet, onverminderd het bepaalde in het tweede lid, in elk geval aan het eerste lid indien deze:
 
-- a. voldoet aan de eisen die in [bijlage IV-A](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=IV-A&z=2008-04-01&g=2008-04-01) zijn opgenomen en zulks blijkt uit een beproeving overeenkomstig die bijlage, of
+- a. voldoet aan de eisen die in [bijlage IV-A](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=IV-A&z=2008-05-01&g=2008-05-01) zijn opgenomen en zulks blijkt uit een beproeving overeenkomstig die bijlage, of
 
-- b. voldoet aan de eisen die in [bijlage IV-B](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=IV-B&z=2008-04-01&g=2008-04-01) zijn opgenomen en zulks blijkt uit een beproeving overeenkomstig die bijlage.
+- b. voldoet aan de eisen die in [bijlage IV-B](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=IV-B&z=2008-05-01&g=2008-05-01) zijn opgenomen en zulks blijkt uit een beproeving overeenkomstig die bijlage.
 
-4. Een emissieverminderende voorziening voldoet, onverminderd het bepaalde in het tweede lid, in elk geval aan het bepaalde in [bijlage IV-A](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=IV-A&z=2008-04-01&g=2008-04-01), indien de betreffende voorziening een deeltjesverminderingssysteem is als bedoeld in die bijlage en van een merk en type is waarvoor de Dienst Wegverkeer goedkeuring heeft verleend en geschikt is bevonden voor toepassing in een vrachtauto of bus.
+4. Een emissieverminderende voorziening voldoet, onverminderd het bepaalde in het tweede lid, in elk geval aan het bepaalde in [bijlage IV-A](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=IV-A&z=2008-05-01&g=2008-05-01), indien de betreffende voorziening een deeltjesverminderingssysteem is als bedoeld in die bijlage en van een merk en type is waarvoor de Dienst Wegverkeer goedkeuring heeft verleend en geschikt is bevonden voor toepassing in een vrachtauto of bus.
 
-5. Een emissieverminderende voorziening voldoet in elk geval aan het bepaalde in [bijlage IV-B](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=IV-B&z=2008-04-01&g=2008-04-01), indien deze is opgenomen in de filterlijst.
+5. Een emissieverminderende voorziening voldoet in elk geval aan het bepaalde in [bijlage IV-B](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=IV-B&z=2008-05-01&g=2008-05-01), indien deze is opgenomen in de filterlijst.
 
 ##### Artikel 2.18. De aanvraag
 
@@ -710,7 +712,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Een aanvraag tot subsidievaststelling kan worden ingediend voor de inbouw van een of meer emissieverminderende voorzieningen.
 
-3. De aanvraag gaat vergezeld van een door de aanvrager en de inbouwer van de emissieverminderende voorziening ingevulde en ondertekende verklaring als bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=V&z=2008-04-01&g=2008-04-01).
+3. De aanvraag gaat vergezeld van een door de aanvrager en de inbouwer van de emissieverminderende voorziening ingevulde en ondertekende verklaring als bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=V&z=2008-05-01&g=2008-05-01).
 
 4. De aanvraag gaat tevens vergezeld van een afschrift van de factuur die uitsluitend de aanschaf en inbouw van de emissieverminderende voorziening betreft en een betalingsbewijs van die factuur. Op de factuur is ten minste vermeld:
 
@@ -718,13 +720,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. de aard van de emissieverminderende voorziening, en
 
-- 1°. indien een voorziening is ingebouwd als bedoeld in [artikel 2.17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-04-01&g=2008-04-01), de merknaam, het type en het goedkeuringsnummer van de voorziening, of
+- 1°. indien een voorziening is ingebouwd als bedoeld in [artikel 2.17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-05-01&g=2008-05-01), de merknaam, het type en het goedkeuringsnummer van de voorziening, of
 
-- 2°. indien een voorziening is ingebouwd als bedoeld in [artikel 2.17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-04-01&g=2008-04-01), de merknaam, het type en het controlenummer van de geschiktheidstest van de voorziening.
+- 2°. indien een voorziening is ingebouwd als bedoeld in [artikel 2.17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-05-01&g=2008-05-01), de merknaam, het type en het controlenummer van de geschiktheidstest van de voorziening.
 
 5. In geval van een aanvraag voor de inbouw van meer dan een emissieverminderende voorziening kan één factuur als bedoeld in het vierde lid worden ingediend, waarin de in dat lid, onder a en b, vermelde gegevens per mobiel werktuig op de factuur zijn gespecificeerd.
 
-6. Indien geen emissieverminderende voorziening is ingebouwd als bedoeld in [artikel 2.17, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-04-01&g=2008-04-01), gaat de aanvraag vergezeld van bescheiden waarmee wordt aangetoond dat de ingebouwde voorziening voldoet aan [artikel 2.17, eerste en tweede lid, juncto derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-04-01&g=2008-04-01).
+6. Indien geen emissieverminderende voorziening is ingebouwd als bedoeld in [artikel 2.17, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-05-01&g=2008-05-01), gaat de aanvraag vergezeld van bescheiden waarmee wordt aangetoond dat de ingebouwde voorziening voldoet aan [artikel 2.17, eerste en tweede lid, juncto derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-05-01&g=2008-05-01).
 
 ##### Artikel 2.19. Subsidiabele kosten
 
@@ -988,7 +990,7 @@ Eisen en testprocedure deeltjesverminderingssystemen voor dieselmotoren van niet
 
 - 4. Het geluidsdrukniveau van de machine met geïnstalleerd filter bedraagt niet meer dan dat van de machine met het oorspronkelijke uitlaatsysteem, gemeten op korte afstand van de uitmonding van de uitlaat.
 
-## Bijlage IV-B. , behorende bij artikel [2.17, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-04-01&g=2008-04-01)
+## Bijlage IV-B. , behorende bij artikel [2.17, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-05-01&g=2008-05-01)
 
 Eisen en testprocedure deeltjesverminderingssystemen voor dieselmotoren van niet-voor-de-weg-bestemde mobiele machines
 
@@ -1100,7 +1102,7 @@ Subsidie kan worden verstrekt voor de inbouw van een ongebruikte emissieverminde
 
 ### Hoofdstuk 3. Slotbepalingen
 
-## Bijlage I. , behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2008-04-01&g=2008-04-01).
+## Bijlage I. , behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2008-05-01&g=2008-05-01).
 
 ### **1. Begripsomschrijvingen en afkortingen**
 
@@ -1112,7 +1114,7 @@ Subsidie kan worden verstrekt voor de inbouw van een ongebruikte emissieverminde
 
 ### **F. Beoordeling van de beproeving**
 
-## Bijlage II. , behorende bij [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-04-01&g=2008-04-01)
+## Bijlage II. , behorende bij [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-05-01&g=2008-05-01)
 
 ### **1. Begripsomschrijvingen en afkortingen**
 
@@ -1134,7 +1136,7 @@ Na het bereiken van de maximale systeembelading onderscheidenlijk na maximaal 10
 
 ### **7. Meting van de opaciteit van de uitlaatgassen**
 
-Het meten van de opaciteit van de uitlaatgassen vindt bij Euro 3 motoren plaats in een ELR- testcyclus volgens de voorschriften van de punten 3 en 6 van aanhangsel 1 van bijlage III van [richtlijn 2005/55/EG](32005L0055). Voor Euro 2 motoren vindt de meting van de opaciteit plaats tijdens een vrije acceleratietest overeenkomstig [richtlijn 72/306/EEG](31972L0306). In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=I&z=2008-04-01&g=2008-04-01) is aangegeven wanneer de opaciteitsmeting wordt uitgevoerd.
+Het meten van de opaciteit van de uitlaatgassen vindt bij Euro 3 motoren plaats in een ELR- testcyclus volgens de voorschriften van de punten 3 en 6 van aanhangsel 1 van bijlage III van [richtlijn 2005/55/EG](32005L0055). Voor Euro 2 motoren vindt de meting van de opaciteit plaats tijdens een vrije acceleratietest overeenkomstig [richtlijn 72/306/EEG](31972L0306). In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=I&z=2008-05-01&g=2008-05-01) is aangegeven wanneer de opaciteitsmeting wordt uitgevoerd.
 
 ### **8. Testbrandstof**
 
@@ -1150,7 +1152,7 @@ Het meten van de opaciteit van de uitlaatgassen vindt bij Euro 3 motoren plaats 
 
 ### **13. Schematische testprocedure**
 
-## Bijlage III. , behorende bij [artikel 2.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.16&z=2008-04-01&g=2008-04-01)
+## Bijlage III. , behorende bij [artikel 2.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.16&z=2008-05-01&g=2008-05-01)
 
 De vermelde bestemming bij de mobiele werktuigen beoogt niet deze categorieën in te perken of nader af te bakenen.
 
@@ -1210,7 +1212,7 @@ Bestemd voor: het verwijderen van asfalt.
 
 Bestemd voor: het verdichten van materiaal als steenslag, zand of asfalt.
 
-## Bijlage IV-A. , behorende bij [artikel 2.17, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-04-01&g=2008-04-01)
+## Bijlage IV-A. , behorende bij [artikel 2.17, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-05-01&g=2008-05-01)
 
 Eisen aan retrofit deeltjesverminderingssystemen voor dieselmotoren voor niet voor de weg bestemde mobiele machines als bedoeld in richtlijn 97/68/EG
 
@@ -1240,7 +1242,7 @@ Tijdens de regeneratiefasen mogen de van toepassing zijnde grenswaarden worden o
 
 ### **8. Aanvullende bepalingen**
 
-## Bijlage V. , behorende bij [artikel 2.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2008-04-01&g=2008-04-01)
+## Bijlage V. , behorende bij [artikel 2.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2008-05-01&g=2008-05-01)
 
 ### **VERKLARING**
 
