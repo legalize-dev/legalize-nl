@@ -4,7 +4,7 @@ identifier: "BWBR0001833"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "1992-01-01"
+last_updated: "2008-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001833"
 soort: "wet"
@@ -68,7 +68,7 @@ De wetten betreffende de regten, den staat en de bevoegheid der personen, verbin
 
 ##### Artikel 7
 
-Ten opzigte van onroerende goederen, geldt de wet van het land of der plaats alwaar die goederen gelegen zijn.
+Vervallen
 
 ##### Artikel 8
 
