@@ -4,7 +4,7 @@ identifier: "BWBV0001990"
 country: "nl"
 rank: "verdrag"
 publication_date: "2008-05-01"
-last_updated: "2006-07-17"
+last_updated: "2008-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001990"
 soort: "verdrag"
@@ -83,25 +83,68 @@ Zijn als volgt overeengekomen:
 
 ##### Artikel 1. Middelen van het tiende EOF
 
-1. Dit lid wordt niet voorlopig toegepast.
+1. De lidstaten stellen een Tiende Europees Ontwikkelingsfonds in, hierna „het tiende EOF’’ genoemd.
 
-2. Dit lid wordt niet voorlopig toegepast.
+2. Het tiende EOF is als volgt samengesteld:
 
-3. Dit lid wordt niet voorlopig toegepast.
+- a. een bedrag van maximaal 22,682 miljard EUR, waaraan de lidstaten als volgt bijdragen: Dit bedrag van 22,682 miljard EUR is beschikbaar vanaf het moment van inwerkingtreding van het financiële meerjarenkader en wordt als volgt verdeeld:
 
-4. Dit lid wordt niet voorlopig toegepast.
+- i. 21,966 miljard EUR voor de ACS-staten;
 
-5. Dit lid wordt niet voorlopig toegepast.
+- ii. 286 miljoen EUR voor de LGO;
 
-6. Dit lid wordt niet voorlopig toegepast.
+- iii. 430 miljoen EUR voor de Commissie voor de in artikel 6 bedoelde ondersteunende uitgaven in verband met de programmering en uitvoering van het EOF door de Commissie.
+
+| Lidstaat | Verdeelsleutel | Bijdrage in miljoen EUR |
+| --- | --- | --- |
+| België | 3,53 | 800,6746 |
+| Bulgarije | 0,14 | 31,7548 |
+| Tsjechië | 0,51 | 115,6782 |
+| Denemarken | 2,00 | 453,6400 |
+| Duitsland | 20,50 | 4 649,8100 |
+| Estland | 0,05 | 11,3410 |
+| Griekenland | 1,47 | 333,4254 |
+| Spanje | 7,85 | 1 780,5370 |
+| Frankrijk | 19,55 | 4 434,3310 |
+| Ierland | 0,91 | 206,4062 |
+| Italië | 12,86 | 2 916,9052 |
+| Cyprus | 0,09 | 20,4138 |
+| Letland | 0,07 | 15,8774 |
+| Litouwen | 0,12 | 27,2184 |
+| Luxemburg | 0,27 | 61,2414 |
+| Hongarije | 0,55 | 124,7510 |
+| Malta | 0,03 | 6,8046 |
+| Nederland | 4,85 | 1 100,0770 |
+| Oostenrijk | 2,41 | 546,6362 |
+| Polen | 1,30 | 294,8660 |
+| Portugal | 1,15 | 260,8430 |
+| Roemenië | 0,37 | 83,9234 |
+| Slovenië | 0,18 | 40,8276 |
+| Slowakije | 0,21 | 47,6322 |
+| Finland | 1,47 | 333,4254 |
+| Zweden | 2,74 | 621,4868 |
+| Verenigd Koninkrijk | 14,82 | 3 361,4724 |
+|   |   | 22 682 000 |
+
+- b. de in bijlage I bij de ACS-EG-Partnerschapsovereenkomst en in bijlage II A van het LGO-besluit vermelde middelen, die uit hoofde van het negende EOF werden toegewezen aan de Investeringsfaciliteit, genoemd in bijlage II C van het Associatiebesluit (hierna „Investeringsfaciliteit’’ te noemen), vallen niet onder Besluit 2005/446/EG, waarin de datum wordt bepaald waarna de middelen van het negende EOF niet langer kunnen worden vastgelegd. Deze middelen worden overgedragen naar het tiende EOF en worden beheerd overeenkomstig de uitvoeringsregeling voor het tiende EOF vanaf de datum van inwerkingtreding van het meerjarig financieel kader voor de periode 2008-2013 met betrekking tot de ACS-EG-Partnerschapsovereenomst en van de besluiten van de Raad inzake de financiële bijstand aan de LGO voor de periode 2008-2013.
+
+3. Na 31 december 2007, of na de datum van inwerkingtreding van het meerjarig financieel kader voor de periode 2008-2013, indien deze datum later valt, worden de resterende middelen uit hoofde van het negende EOF of uit eerdere EOF’s niet langer vastgelegd, met uitzondering van saldi en middelen die na deze datum van inwerkingtreding zijn geannuleerd uit hoofde van het stelsel voor de stabilisatie van de exportopbrengsten van landbouwgrondstoffen (STABEX) in het kader van EOF’s voorafgaand aan het negende en met uitzondering van de in lid 2, onder b, bedoelde middelen. De middelen die mogelijk worden vastgelegd na 31 december 2007 doch voor de inwerkingtreding van dit akkoord, zoals hierboven bedoeld, worden uitsluitend gebruikt om ervoor te zorgen dat de EU-administratie kan blijven werken en om de lopende kosten te dekken voor de instandhouding van lopende projecten tot de inwerkingtreding van het tiende EOF.
+
+4. Na 31 december 2007 worden geannuleerde middelen voor projecten in het kader van het negende EOF of voorgaande EOF’s niet langer vastgelegd, tenzij de Raad met eenparigheid van stemmen anders besluit, met uitzondering van de middelen die na deze datum van inwerkingtreding zijn geannuleerd uit hoofde van het stelsel voor de stabilisatie van de exportopbrengsten van landbouwgrondstoffen (STABEX) in het kader van EOF’s voorafgaand aan het negende EOF, die automatisch worden overgedragen naar de respectieve nationale indicatieve programma’s, bedoeld in artikel 2, onder a, i, en artikel 3, lid 1, en van de middelen, bedoeld in lid 2, onder b.
+
+5. Het totaalbedrag voor het tiende EOF is bestemd voor de periode van 1 januari 2008 tot en met 31 december 2013. De middelen van het tiende EOF mogen worden vastgelegd tot en met 31 december 2013, tenzij de Raad met eenparigheid van stemmen en op voorstel van de Commissie anders besluit.
+
+6. De rentebaten uit in het kader van eerdere EOF’s gefinancierde maatregelen en uit de middelen van het tiende EOF die door de Commissie worden beheerd en bij de betalingsgemachtigden in Europa als bedoeld in artikel 37, lid 1, van bijlage IV bij de ACS-EG-Partnerschapsovereenkomst zijn gedeponeerd, worden gecrediteerd op een of meerdere ten name van de Commissie geopende rekeningen, en worden gebruikt overeenkomstig artikel 6. In het kader van het in artikel 10, lid 2, onder a, bedoelde financieel reglement wordt bepaald hoe de rentebaten uit de door de EIB beheerde middelen van het tiende EOF zullen worden gebruikt.
 
 7. In geval van toetreding van een nieuwe staat tot de EU kan de in lid 2 bedoelde verdeling worden gewijzigd op voorstel van de Commissie bij een door de Raad met eenparigheid van stemmen genomen besluit.
 
-8. Dit lid wordt niet voorlopig toegepast.
+8. De financiële middelen kunnen voorts worden aangepast bij een door de Raad met eenparigheid van stemmen genomen besluit, overeenkomstig artikel 62, lid 2, van de ACS-EG-Partnerschapsovereenkomst.
 
-9. Dit lid wordt niet voorlopig toegepast.
+9. Iedere lidstaat kan, onverminderd de besluitvormingsvoorschriften en -procedures van artikel 8, vrijwillige bijdragen ter beschikking van de Commissie of de EIB stellen ter ondersteuning van de doelstellingen van de ACS-EG-Partnerschapsovereenkomst. De lidstaten mogen ook projecten of programma’s medefinancieren, bijvoorbeeld in het kader van specifieke initiatieven die door de Commissie of de EIB moeten worden beheerd. Gegarandeerd moet worden dat de ACS-staten op nationaal niveau de verantwoordelijkheid dragen in dergelijke initiatieven.
 
-10. Dit lid wordt niet voorlopig toegepast.
+De uitvoeringsverordening en het financieel reglement bedoeld in artikel 10 bevatten de nodige bepalingen voor medefinanciering door het EOF en voor medefinancieringsactiviteiten die door de lidstaten worden uitgevoerd. De lidstaten stellen de Raad vooraf in kennis van hun vrijwillige bijdragen.
+
+10. De Raad zal, overeenkomstig punt 7 van het Financieel Protocol bij de ACS-EG-Partnerschapsovereenkomst, tezamen met de ACS-staten een prestatie-evaluatie uitvoeren, waarbij zal worden nagegaan in welke mate de vastleggingen en betalingen zijn gerealiseerd en wat het resultaat en het effect zijn van de steun. De evaluatie zal worden uitgevoerd op basis van een voorstel dat de Commissie in 2010 zal opstellen. Deze prestatie-evaluatie draagt bij aan een besluit over het bedrag van de financiële samenwerking na 2013.
 
 ##### Artikel 2. Middelen voor de ACS-staten
 
