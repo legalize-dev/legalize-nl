@@ -217,15 +217,3 @@ Dit besluit treedt in werking met ingang van 1 mei 2008.
 Dit besluit wordt aangehaald als: Maatregelenbesluit socialezekerheidswetten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10a. Grondslag
-
-Dit besluit is mede gebaseerd op [artikel 6aa, zesde lid, van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=6aa).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 7a. Vijfde categorie
-
-De verplichtingen op grond van de in [artikel 1, onderdelen b tot en met g en i tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=1&z=2015-01-01&g=2015-01-01), genoemde wetten, worden ingedeeld in de vijfde categorie voor zover zij betrekking hebben op het zich onthouden van zeer ernstige misdragingen als bedoeld in de [artikelen 26, eerste lid, onderdeel a, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), [45, eerste lid, onderdeel r, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45), [28, onderdeel l, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=28), [27, tweede lid, onderdeel f, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=27), [46, eerste lid, onderdeel k, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=46), [2:7, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:7), en [3:38, eerste lid, onderdeel k, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:38), [13, tweede lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=13), [15, derde lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=15), [36, derde lid, van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=36), [16, derde lid, van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=16), en [15, onderdeel f, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
