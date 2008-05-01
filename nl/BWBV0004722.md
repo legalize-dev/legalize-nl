@@ -4,7 +4,7 @@ identifier: "BWBV0004722"
 country: "nl"
 rank: "verdrag"
 publication_date: "2008-05-01"
-last_updated: "2000-10-17"
+last_updated: "2008-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004722"
 soort: "verdrag"
@@ -74,7 +74,7 @@ Niets in dit Verdrag wordt uitgelegd als een beperking van het recht van de Stat
 
 ##### Artikel 4. Toetreding
 
-Dit Verdrag staat, na het verstrijken van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004722&artikel=3&z=2000-10-17&g=2000-10-17), genoemde termijn voor ondertekening, open voor toetreding door elke Verdragsluitende Staat bij het [Europese Octrooiverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819) en elke Staat die gerechtigd is toe te treden tot dat Verdrag. Akten van toetreding worden nedergelegd bij de Regering van de Bondsrepubliek Duitsland.
+Dit Verdrag staat, na het verstrijken van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004722&artikel=3&z=2008-05-01&g=2008-05-01), genoemde termijn voor ondertekening, open voor toetreding door elke Verdragsluitende Staat bij het [Europese Octrooiverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819) en elke Staat die gerechtigd is toe te treden tot dat Verdrag. Akten van toetreding worden nedergelegd bij de Regering van de Bondsrepubliek Duitsland.
 
 ##### Artikel 5. Verbod van voorbehouden
 
@@ -114,7 +114,7 @@ Dit Verdrag wordt opgesteld in één exemplaar in de Duitse, de Engelse en de Fr
 
 - c. de datum van inwerkingtreding van dit Verdrag;
 
-- d. elke ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004722&artikel=8&z=2000-10-17&g=2000-10-17) ontvangen opzegging en de datum waarop deze van kracht wordt.
+- d. elke ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004722&artikel=8&z=2008-05-01&g=2008-05-01) ontvangen opzegging en de datum waarop deze van kracht wordt.
 
 De Regering van de Bondsrepubliek Duitsland laat dit Verdrag registeren bij het Secretariaat van de Verenigde Naties.
 
