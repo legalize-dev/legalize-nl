@@ -4,7 +4,7 @@ identifier: "BWBR0016709"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-01"
-last_updated: "2007-04-30"
+last_updated: "2008-05-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016709"
 soort: "ministeriele-regeling"
@@ -70,13 +70,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2.1
 
-1. Het maandelijkse tarief, bedoeld in [artikel 2.5, derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=2.5) bedraagt ten hoogste € 10,83.
+1. Het maandelijkse tarief, bedoeld in [artikel 2.5, derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=2.5) bedraagt ten hoogste € 11,00.
 
 2. De in [artikel 2.5, derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=2.5) bedoelde gebruiksafhankelijke tarieven mogen voor oproepen naar abonnees waaraan een geografisch nummer in gebruik is gegeven:
 
-- a. binnen het basistariefgebied ten hoogste € 0,108 per minuut bedragen in de piekuren met een starttarief van ten hoogste € 0,055 per gesprek, en ten hoogste € 0,055 per minuut in de daluren met een starttarief van ten hoogste € 0,055 per gesprek;
+- a. binnen het basistariefgebied ten hoogste € 0,109 per minuut bedragen in de piekuren met een starttarief van ten hoogste € 0,056 per gesprek, en ten hoogste € 0,056 per minuut in de daluren met een starttarief van ten hoogste € 0,056 per gesprek;
 
-- b. buiten het basistariefgebied ten hoogste € 0,327 per minuut bedragen in de piekuren met een starttarief van ten hoogste € 0,055 per gesprek, en ten hoogste € 0,163 per minuut in de daluren met een starttarief van ten hoogste € 0,055 per gesprek.
+- b. buiten het basistariefgebied ten hoogste € 0,332 per minuut bedragen in de piekuren met een starttarief van ten hoogste € 0,056 per gesprek, en ten hoogste € 0,166 per minuut in de daluren met een starttarief van ten hoogste € 0,056 per gesprek.
 
 3. De in dit artikel genoemde tarieven zijn inclusief omzetbelasting.
 
@@ -84,13 +84,13 @@ In deze regeling wordt verstaan onder:
 
 1. De aanbieder van openbare telefoondiensten op een vaste locatie die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen verstrekt, onverminderd het bepaalde bij of krachtens [hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11), op verzoek van zijn abonnee een gespecificeerde rekening van de kosten voor het gebruik van de openbare telefoondienst op een vaste locatie.
 
-2. De aanbieder, bedoeld in het eerste lid, kan slechts een redelijke vergoeding voor een gespecificeerde rekening vragen van de abonnee indien deze rekening meer gespecificeerd is dan het in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.3&z=2007-04-30&g=2007-04-30) bepaalde basisniveau van specificatie.
+2. De aanbieder, bedoeld in het eerste lid, kan slechts een redelijke vergoeding voor een gespecificeerde rekening vragen van de abonnee indien deze rekening meer gespecificeerd is dan het in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.3&z=2008-05-08&g=2008-05-08) bepaalde basisniveau van specificatie.
 
 3. Gesprekken die voor de oproepende abonnee kosteloos zijn worden niet op de gespecificeerde rekening van de oproepende abonnee vermeld.
 
 ##### Artikel 2.3
 
-Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.2&z=2007-04-30&g=2007-04-30) bedoelde basisniveau van specificatie van rekeningen voor het gebruik van de openbare telefoondienst op een vaste locatie omvat:
+Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.2&z=2008-05-08&g=2008-05-08) bedoelde basisniveau van specificatie van rekeningen voor het gebruik van de openbare telefoondienst op een vaste locatie omvat:
 
 - a. de periode waarop de rekening betrekking heeft;
 
@@ -202,7 +202,7 @@ Een aanbieder richt de in [artikel 11.9, eerste lid, van de wet](https://wetten.
 
 ##### Artikel 4.5
 
-Onverminderd [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2&z=2007-04-30&g=2007-04-30), draagt een aanbieder er zorg voor dat voor eenieder op genoegzame wijze informatie beschikbaar is met betrekking tot nummeridentificatie, de daarbij geboden mogelijkheden tot weigering en blokkering van deze faciliteit, en de financiële aspecten daarvan.
+Onverminderd [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2&z=2008-05-08&g=2008-05-08), draagt een aanbieder er zorg voor dat voor eenieder op genoegzame wijze informatie beschikbaar is met betrekking tot nummeridentificatie, de daarbij geboden mogelijkheden tot weigering en blokkering van deze faciliteit, en de financiële aspecten daarvan.
 
 #### § 5. Slotbepalingen
 
@@ -272,9 +272,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3.5a
 
-1. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2007-04-30&g=2007-04-30), biedt de consument die een klacht bij hem heeft ingediend, de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening tijdens de behandeling van de klacht.
+1. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-05-08&g=2008-05-08), biedt de consument die een klacht bij hem heeft ingediend, de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening tijdens de behandeling van de klacht.
 
-2. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2007-04-30&g=2007-04-30), biedt de consument de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening, indien de consument een geschil aanhangig maakt bij een op grond van [artikel 12.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.1) erkende geschillencommissie binnen de door die geschillencommissie gehanteerde termijn en de consument zijn aanbieder hiervan op de hoogte stelt.
+2. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-05-08&g=2008-05-08), biedt de consument de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening, indien de consument een geschil aanhangig maakt bij een op grond van [artikel 12.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.1) erkende geschillencommissie binnen de door die geschillencommissie gehanteerde termijn en de consument zijn aanbieder hiervan op de hoogte stelt.
 
 #### § 4. Nummeridentificatie
 
