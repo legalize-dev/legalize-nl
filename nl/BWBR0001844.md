@@ -4,7 +4,7 @@ identifier: "BWBR0001844"
 country: "nl"
 rank: "wet"
 publication_date: "2018-09-19"
-last_updated: "1998-01-01"
+last_updated: "2008-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001844"
 soort: "wet"
@@ -93,7 +93,7 @@ Zij, die de aanklagt hebben ingediend, zijn van deze commissie uitgesloten, doch
 
 1. De commissie van onderzoek is belast met het opsporen en verzamelen van alle bescheiden, inlichtingen en bewijzen, die tot opheldering van de feiten, in de aanklagt vermeld, kunnen leiden.
 
-2. De bepalingen der wet tot regeling van het regt van onderzoek (enquête) zijn daarbij van toepassing.
+2. De [Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825) is van toepassing.
 
 3. De bloedverwanten en aanverwanten van de betrokken minister, in de rechte linie en tot in de derde graad, alsmede zijn echtgenoot of zijn geregistreerde partner, zelfs na echtscheiding onderscheidenlijk beëindiging van het geregistreerd partnerschap anders dan door de dood of vermissing, kunnen niet genoodzaakt worden verklaringen af te leggen.
 
@@ -129,7 +129,7 @@ Zij, die de aanklagt hebben ingediend, zijn van deze commissie uitgesloten, doch
 
 3. Bij sluiting der zitting van de Staten-Generaal gedurende den loop van het onderzoek, begint, met den dag der opening van de volgende zitting, een nieuwe termijn van drie maanden te loopen.
 
-4. Bij ontbinding der Tweede Kamer vervalt eene, bij haar aanhangige, aanklagt van regtswege, onverminderd de bevoegdheid tot het doen eener nieuwe aanklagt overeenkomstig [art. 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001844&artikel=7&z=1998-01-01&g=1998-01-01).
+4. Bij ontbinding der Tweede Kamer vervalt eene, bij haar aanhangige, aanklagt van regtswege, onverminderd de bevoegdheid tot het doen eener nieuwe aanklagt overeenkomstig [art. 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001844&artikel=7&z=2008-05-09&g=2008-05-09).
 
 ##### Artikel 17
 
