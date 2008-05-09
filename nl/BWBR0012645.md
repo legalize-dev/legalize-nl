@@ -4,7 +4,7 @@ identifier: "BWBR0012645"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-06-27"
-last_updated: "2007-08-01"
+last_updated: "2008-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012645"
 soort: "AMvB"
@@ -68,9 +68,9 @@ De vreemdeling die tegemoetkoming op grond van [hoofdstuk 3 van de wet](https://
 
 ##### Artikel 3. Nationaliteit voor [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) en [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5)
 
-1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2007-08-01&g=2007-08-01) is van overeenkomstige toepassing op de vreemdeling die tegemoetkoming op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) aanvraagt, met dien verstande dat de verblijfsvergunning, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2007-08-01&g=2007-08-01), verleend is onder de beperking:
+1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2008-05-09&g=2008-05-09) is van overeenkomstige toepassing op de vreemdeling die tegemoetkoming op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) aanvraagt, met dien verstande dat de verblijfsvergunning, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2008-05-09&g=2008-05-09), verleend is onder de beperking:
 
-- a. verband houdend met gezinshereniging of gezinsvorming als bedoeld in [artikel 15 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=15) met een Nederlander of met een vreemdeling als bedoeld in [artikel 2, onderdelen a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2007-08-01&g=2007-08-01), of hiermee verband houdend voortgezet verblijf,
+- a. verband houdend met gezinshereniging of gezinsvorming als bedoeld in [artikel 15 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=15) met een Nederlander of met een vreemdeling als bedoeld in [artikel 2, onderdelen a, b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2008-05-09&g=2008-05-09), of hiermee verband houdend voortgezet verblijf,
 
 - b. verblijf als alleenstaande minderjarige vreemdeling of hiermee verband houdend voortgezet verblijf,
 
@@ -90,7 +90,7 @@ De vreemdeling die tegemoetkoming op grond van [hoofdstuk 3 van de wet](https://
 
 - b. [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) en ten behoeve van wie of aan wie een tegemoetkoming is verstrekt op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3) of [4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of aan wie studiefinanciering is verstrekt ingevolge de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453), of
 
-- c. [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) en houder is van een verblijfsvergunning, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2007-08-01&g=2007-08-01), die verleend is onder de beperking verrichten van arbeid.
+- c. [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) en houder is van een verblijfsvergunning, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2008-05-09&g=2008-05-09), die verleend is onder de beperking verrichten van arbeid.
 
 ##### Artikel 4. Verstrekken van inlichtingen
 
@@ -102,13 +102,13 @@ De vreemdeling die tegemoetkoming op grond van [hoofdstuk 3 van de wet](https://
 
 1. Onze Minister past de bedragen, genoemd in de [artikelen 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.23), en [10.5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.5), per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die het indexcijfer van de CAO-lonen in het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.
 
-2. Onze Minister past de bedragen, genoemd in de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=3.5), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.3), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.10) en [10.7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.7) per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die de consumentenprijsindex over het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.
+2. Onze Minister past de bedragen, genoemd in de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=3.5), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.3), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.4), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.10) en [10.7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.7) per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die de consumentenprijsindex over het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.
 
 3. Bij ministeriële regeling wordt bepaald wat onder de consumentenprijsindex en het indexcijfer van de CAO-lonen wordt verstaan.
 
 ### Hoofdstuk 2. Overgangsrecht
 
-##### Artikel 6. Overgangsbepaling [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2007-08-01&g=2007-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=3&z=2007-08-01&g=2007-08-01)
+##### Artikel 6. Overgangsbepaling [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=2&z=2008-05-09&g=2008-05-09) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=3&z=2008-05-09&g=2008-05-09)
 
 Degenen die op 31 juli 2001 op grond van het [Besluit tegemoetkoming studiekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0008149) rechtmatig tegemoetkoming ontvingen, voldoen aan de nationaliteitseis, bedoeld in [artikel 2.2, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2).
 
