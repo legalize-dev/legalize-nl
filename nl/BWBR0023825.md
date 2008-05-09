@@ -439,39 +439,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 Deze wet wordt aangehaald als: Wet op de parlementaire enquête, met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9a
-
-1. De commissie kan bij het college van burgemeester en wethouders van de gemeente ’s-Gravenhage dan wel, indien het niet-ingezetenen betreft, bij de Minister van Binnenlandse Zaken en Koninkrijksrelaties een verzoek indienen tot het verstrekken van adresgegevens van:
-
-- a. personen met wie zij een voorgesprek wenst;
-
-- b. getuigen, of
-
-- c. deskundigen.
-
-2. [Artikel 3.5, eerste en tweede lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.5) zijn van overeenkomstige toepassing.
-
-#### Paragraaf 3. Bijzondere bepalingen ten aanzien van de bevoegdheid van de commissie getuigen en deskundigen te horen
-
-### Hoofdstuk 4. De positie van personen die verplicht zijn medewerking te verlenen aan een parlementaire enquête
-
-#### Paragraaf 1. Algemene bepalingen
-
-#### Paragraaf 2. Verschoningsgronden
-
-##### Artikel 24a
-
-Indien een persoon van wie informatie wordt gevorderd zich genoodzaakt ziet de gevorderde informatie te weigeren op grond van een van de verschoningsgronden genoemd in de [artikelen 19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&hoofdstuk=4&paragraaf=2&artikel=19&z=2019-03-09&g=2019-03-09), verstrekt hij bij zijn weigering een deugdelijke motivering.
-
-### Hoofdstuk 5. Dwangmiddelen
-
-### Hoofdstuk 6. De verhouding tot andere procedures
-
-### Hoofdstuk 7. De beëindiging van een parlementaire enquête en het einde van het lidmaatschap van de commissie
-
-### Hoofdstuk 8. Openbaarheid en vertrouwelijkheid van documenten
-
-### Hoofdstuk 9. Slot- en overgangsbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
