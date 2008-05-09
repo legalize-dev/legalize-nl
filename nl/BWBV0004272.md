@@ -4,7 +4,7 @@ identifier: "BWBV0004272"
 country: "nl"
 rank: "verdrag"
 publication_date: "2008-05-09"
-last_updated: "2001-09-29"
+last_updated: "2008-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004272"
 soort: "verdrag"
@@ -346,7 +346,7 @@ Deze Statuten treden in werking honderd twintig dagen nadat eenenvijftig Staten 
 
 ##### Artikel 38
 
-De officiële talen van de Organisatie zijn Frans, Engels, Spaans en Russisch.
+De officiële talen van de Organisatie zijn Frans, Engels, Arabisch, Spaans en Russisch.
 
 ##### Artikel 39
 
