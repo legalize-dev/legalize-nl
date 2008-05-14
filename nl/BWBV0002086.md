@@ -4,7 +4,7 @@ identifier: "BWBV0002086"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-06-21"
-last_updated: "2002-02-25"
+last_updated: "2008-05-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002086"
 soort: "verdrag"
@@ -185,15 +185,23 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - b. haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen over 1989.
 
-2. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2004 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan vijfenzestig procent van de in het eerste lid van dit artikel bedoelde som.
+2. Elke Partij die een of meer van deze stoffen produceert verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2004 en in elk tijdvak van twaalf maanden daarna haar berekende productie van de in Groep I van Bijlage C aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan het gemiddelde van:
 
-3. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2010 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan vijfendertig procent van de in het eerste lid van dit artikel bedoelde som.
+- a. de som van haar berekend gebruik in 1989 van de in Groep I van Bijlage C aan uitworpbeheersing onderworpen stoffen en twee komma acht procent van haar berekende gebruik in 1989 van de in Groep I van Bijlage A aan uitworpbeheersing onderworpen stoffen; en
 
-4. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2015 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan tien procent van de in het eerste lid van dit artikel bedoelde som.
+- b. de som van haar berekende productie in 1989 van de in Groep I van Bijlage C aan uitworpbeheersing onderworpen stoffen en twee komma acht procent van haar berekende productie in 1989 van de in Groep I van Bijlage A aan uitworpbeheersing onderworpen stoffen. Om te voorzien in de fundamentele binnenlandse behoeften van de in artikel 5, eerste lid, bedoelde Partijen mag haar berekende productie deze limiet evenwel overschrijden met ten hoogste vijftien procent van haar berekende productie van de in Groep I van Bijlage C aan uitworpbeheersing onderworpen stoffen als hierboven omschreven.
 
-5. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2020 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan nul komma vijf procent van de in het eerste lid van dit artikel bedoelde som. Dit gebruik dient evenwel te worden beperkt tot het onderhoud van op die datum bestaande koel- en luchtbehandelingsapparatuur.
+3. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2004 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan vijfenzestig procent van de in het eerste lid van dit artikel bedoelde som.
 
-6. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2030 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen nihil is.
+4. Elke Partij verzekert dat gedurende het tijdvak dat begint op 1 januari 2010 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan vijfentwintig procent van de in het eerste lid van dit artikel bedoelde som. Elke Partij die een of meer van deze stoffen produceert, verzekert, voor dezelfde tijdvakken, dat haar berekende productie van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan vijfentwintig procent van het in het tweede lid van dit artikel bedoelde niveau. Om te voorzien in de fundamentele binnenlandse behoeften van de onder de werking van het eerste lid van artikel 5 vallende Partijen, mag haar berekende productie deze limiet evenwel overschrijden met ten hoogste tien procent van haar berekende productie van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen, zoals bedoeld in het tweede lid.
+
+5. Elke Partij verzekert dat gedurende het tijdvak dat begint op 1 januari 2015 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan tien procent van de in het eerste lid van dit artikel bedoelde som. Elke Partij die een of meer van deze stoffen produceert, verzekert, voor dezelfde tijdvakken, dat haar berekende productie van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan tien procent van het in het tweede lid van dit artikel bedoelde niveau. Om te voorzien in de fundamentele binnenlandse behoeften van de onder de werking van het eerste lid van artikel 5 vallende Partijen, mag haar berekende productie deze limiet evenwel overschrijden met ten hoogste tien procent van haar berekende productie van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen, zoals bedoeld in het tweede lid.
+
+6. Elke Partij verzekert dat gedurende het tijdvak dat begint op 1 januari 2020 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen tot nul is teruggebracht. Elke Partij die een of meer van deze stoffen produceert, verzekert, voor dezelfde tijdvakken, dat haar berekende productie van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen tot nul is teruggebracht. Echter:
+
+- a. Elke Partij mag deze gebruikslimiet overschrijden met ten hoogste 0,5% van de in het eerste lid van dit artikel bedoelde som in elk tijdvak van twaalf maanden dat eindigt voor 1 januari 2030, mits dit gebruik beperkt blijft tot het onderhoud van op 1 januari 2020 bestaande koel- en luchtbehandelingsapparatuur;
+
+- b. Elke Partij mag deze productielimiet overschrijden met ten hoogste 0,5% van het in het tweede lid van dit artikel bedoelde gemiddelde in elk tijdvak van twaalf maanden dat eindigt voor 1 januari 2030, mits deze productie beperkt blijft tot het onderhoud van op 1 januari 2020 bestaande koel- en luchtbehandelingsapparatuur.
 
 7. Vanaf 1 januari 1996 streeft elke Partij ernaar te verzekeren dat:
 
@@ -202,12 +210,6 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 - b. het gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen niet vóórkomt buiten de gebieden waarop thans de in de Bijlagen A, B en C genoemde aan uitworpbeheersing onderworpen stoffen worden toegepast, behoudens in de zeldzame gevallen waarin zulks geschiedt ter bescherming van mensenlevens of de gezondheid van de mens; en
 
 - c. de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen worden gekozen om te worden gebruikt op een wijze die de ozonlaag zo min mogelijk afbreekt, naast andere vereisten waaraan deze moeten voldoen uit milieu- en veiligheidsoverwegingen en economische overwegingen.
-
-8. Elke Partij die een of meer van deze stoffen produceert verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2004 en in elk tijdvak van twaalf maanden daarna haar berekende productie van de in Groep I van Bijlage C aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan het gemiddelde van:
-
-- a. de som van haar berekend gebruik in 1989 van de in Groep I van Bijlage C aan uitworpbeheersing onderworpen stoffen en twee komma acht procent van haar berekende gebruik in 1989 van de in Groep I van Bijlage A aan uitworpbeheersing onderworpen stoffen; en
-
-- b. de som van haar berekende productie in 1989 van de in Groep I van Bijlage C aan uitworpbeheersing onderworpen stoffen en twee komma acht procent van haar berekende productie in 1989 van de in Groep I van Bijlage A aan uitworpbeheersing onderworpen stoffen. Om te voorzien in de fundamentele binnenlandse behoeften van de in artikel 5, eerste lid, bedoelde Partijen mag haar berekende productie deze limiet evenwel overschrijden met ten hoogste vijftien procent van haar berekende productie van de in Groep I van Bijlage C aan uitworpbeheersing onderworpen stoffen als hierboven omschreven.
 
 ##### Artikel 2G. : Broomfluorkoolwaterstoffen
 
@@ -357,13 +359,23 @@ Voor de toepassing van de artikelen 2, 2A tot en met 2I, en 5 dient elke Partij 
 
 8ter. Overeenkomstig lid 1bis hierboven:
 
-- a. verzekert elke onder het eerste lid van dit artikel vallende Partij dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2016 en in elk tijdvak van twaalf maanden daarna haar berekende gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan haar berekende gebruik over 2015; Met ingang van 1 januari 2016 voldoet elke in het eerste lid van dit artikel bedoelde Partij aan de in artikel 2F, achtste lid, omschreven controlemaatregelen; als grondslag voor het voldoen aan deze controlemaatregelen gebruikt zij het gemiddelde van haar berekende productie en berekend gebruik in 2015;
+- a. Elke Partij die onder de werking van het eerste lid van dit artikel valt, verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2013 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan het gemiddelde van haar berekend gebruik in 2009 en 2010. Elke Partij die onder de werking van het eerste lid van dit artikel valt, verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2013 en in elk tijdvak van twaalf maanden daarna haar berekende productie van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan het gemiddelde van haar berekende productie in 2009 en 2010;
 
-- b. verzekert elke onder het eerste lid van dit artikel vallende Partij dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2040 en in elk tijdvak van twaalf maanden daarna haar berekende gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar nihil is;
+- b. Elke Partij die onder de werking van het eerste lid van dit artikel valt, verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2015 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan negentig procent van het gemiddelde van haar berekend gebruik in 2009 en 2010. Elke Partij die een of meer van deze stoffen produceert, verzekert, voor dezelfde tijdvakken, dat haar berekende productie van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan negentig procent van het gemiddelde van haar berekende productie in 2009 en 2010;
 
-- c. neemt elke onder het eerste lid van dit artikel vallende Partij artikel 2G in acht;
+- c. Elke Partij die onder de werking van het eerste lid van dit artikel valt, verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2020 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan vijfenzestig procent van het gemiddelde van haar berekend gebruik in 2009 en 2010. Elke Partij die een of meer van deze stoffen produceert, verzekert, voor dezelfde tijdvakken, dat haar berekende productie van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan vijfenzestig procent van het gemiddelde van haar berekende productie in 2009 en 2010;
 
-- d. met betrekking tot de in Bijlage E genoemde aan uitworpbeheersing onderworpen stof:
+- d. Elke Partij die onder de werking van het eerste lid van dit artikel valt, verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2025 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan tweeëndertig en een half procent van het gemiddelde van haar berekend gebruik in 2009 en 2010. Elke Partij die een of meer van deze stoffen produceert, verzekert, voor dezelfde tijdvakken, dat haar berekende productie van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan tweeëndertig en een half procent van het gemiddelde van haar berekende productie in 2009 en 2010;
+
+- e. Elke Partij die onder de werking van het eerste lid van dit artikel valt, verzekert dat gedurende het tijdvak dat begint op 1 januari 2030 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen tot nul is teruggebracht. Elke Partij die een of meer van deze stoffen produceert, verzekert, voor dezelfde tijdvakken, dat haar berekende productie van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen tot nul is teruggebracht. Echter:
+
+- i. Elke Partij mag deze gebruikslimiet in elk tijdvak van twaalf maanden overschrijden zolang de som van haar berekend gebruik over het tijdvak van tien jaar dat begint op 1 januari 2030 en eindigt op 1 januari 2040, gedeeld door tien, niet meer bedraagt dan twee en een half procent van het gemiddelde van haar berekend gebruik in 2009 en 2010 en mits dit gebruik beperkt blijft tot het onderhoud van op 1 januari 2030 bestaande koel- en luchtbehandelingsapparatuur;
+
+- ii. Elke Partij mag deze productielimiet in elk tijdvak van twaalf maanden overschrijden zolang de som van haar berekende productie over het tijdvak van tien jaar dat begint op 1 januari 2030 en eindigt op 1 januari 2040, gedeeld door tien, niet meer bedraagt dan twee en een half procent van het gemiddelde van haar berekende productie in 2009 en 2010 en mits deze productie beperkt blijft tot het onderhoud van op 1 januari 2030 bestaande koel- en luchtbehandelingsapparatuur.
+
+- f. neemt elke onder het eerste lid van dit artikel vallende Partij artikel 2G in acht;
+
+- g. met betrekking tot de in Bijlage E genoemde aan uitworpbeheersing onderworpen stof:
 
 - i. leeft elke onder het eerste lid van dit artikel vallende Partij met ingang van 1 januari 2002 de in artikel 2H, eerste lid, genoemde beheersingsmaatregelen na en hanteert zij als uitgangspunt voor de naleving van deze beheersingsmaatregelen het gemiddelde van haar jaarlijkse berekende gebruik, respectievelijk haar jaarlijkse berekende produktie, over 1995 tot en met 1998;
 
