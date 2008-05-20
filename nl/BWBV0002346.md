@@ -4,7 +4,7 @@ identifier: "BWBV0002346"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-05-27"
-last_updated: "1987-09-12"
+last_updated: "2008-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002346"
 soort: "verdrag"
@@ -268,6 +268,70 @@ Behalve van de kennisgevingen en mededelingen bedoeld in de artikelen 23 en 24 d
 ##### Artikel 26. Voor eensluidend gewaarmerkte afschriften
 
 Na 31 maart 1984 doet de Secretaris-Generaal van de Verenigde Naties twee voor eensluidend gewaarmerkte afschriften van deze Overeenkomst toekomen aan elke Overeenkomstsluitende Partij en aan alle Staten die geen Overeenkomstsluitende Partij zijn.
+
+DONE at Geneva, this twenty-first day of October one thousand nine hundred and eighty-two, in a single original, of which the English, French, Russian and Spanish texts are equally authentic.
+
+IN WITNESS WHEREOF, the undersigned plenipotentiaries, being duly authorized thereto, have signed this Convention.
+
+##### Artikel 1. Beginselen
+
+Deze bijlage, die de bepalingen van de Overeenkomst en met name die van bijlage 1 aanvult, bevat maatregelen die moeten worden uitgevoerd met het oog op de vereenvoudiging van de grensprocedures voor het internationale wegvervoer.
+
+##### Artikel 2. Vereenvoudiging van de visumprocedures voor beroepschauffeurs
+
+1. De overeenkomstsluitende partijen streven ernaar de procedures voor de toekenning van visa aan beroepschauffeurs in het internationale wegvervoer te vereenvoudigen overeenkomstig de beste nationale praktijken voor alle visumaanvragers, de nationale immigratieregels en de internationale verbintenissen.
+
+2. De overeenkomstsluitende partijen komen overeen regelmatig informatie uit te wisselen over de beste praktijken voor de vereenvoudiging van de visumprocedures voor beroepschauffeurs.
+
+##### Artikel 3. Internationaal wegvervoer
+
+1. Om het internationale goederenvervoer te vergemakkelijken lichten de overeenkomstsluitende partijen alle bij dit vervoer betrokken partijen regelmatig op geharmoniseerde en gecoördineerde wijze in over van toepassing zijnde of geplande grenscontrolevoorschriften voor het internationale wegvervoer en over de feitelijke toestand aan de grenzen.
+
+2. De overeenkomstsluitende partijen streven ernaar alle noodzakelijke controleprocedures voorzover mogelijk, en niet alleen voor douanevervoer, te laten plaatsvinden op de plaatsen van oorsprong en bestemming van de over de weg vervoerde goederen, met de bedoeling de congestie aan de grensposten te verminderen.
+
+3. Met betrekking tot met name artikel 7 van deze Overeenkomst wordt voorrang gegeven aan dringende zendingen, bijv. levende dieren en aan bederf onderhevige goederen. Met name moeten de bevoegde diensten aan de grensposten:
+
+- i. de nodige maatregelen treffen om voor in het kader van de [ATP-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004371) goedgekeurde voertuigen die aan bederf onderhevige levensmiddelen vervoeren of voor voertuigen die levende dieren vervoeren, de wachttijd tussen hun aankomst aan de grens en het ogenblik waarop de wettelijke controles, de administratieve controles, de douanecontroles en de sanitaire controles worden verricht, zoveel mogelijk te beperken;
+
+- ii. ervoor zorgen dat de voorgeschreven wettelijke controles zo snel mogelijk worden uitgevoerd;
+
+- iii. voorzover mogelijk toestaan dat de benodigde koeleenheden van voertuigen die aan bederf onderhevige levensmiddelen vervoeren, bij de grensoverschrijding blijven functioneren, tenzij dit wegens de voorgeschreven controleprocedure onmogelijk is;
+
+- iv. samenwerken, met name door voorafgaande uitwisseling van informatie, met hun collega’s in andere overeenkomstsluitende partijen om de grensprocedures voor aan bederf onderhevige goederen en levende dieren te versnellen wanneer op die ladingen sanitaire controles moeten worden uitgevoerd.
+
+##### Artikel 4. Voertuiginspectie
+
+1. De overeenkomstsluitende partijen die nog geen partij zijn bij de Overeenkomst van 1997 betreffende het aannemen van eenvormige eisen voor periodieke technische inspecties van wielvoertuigen en de wederzijdse erkenning van dergelijke inspecties, streven ernaar om, met inachtneming van de terzake geldende nationale en internationale wet- en regelgeving, de grensovergang voor wegvoertuigen te vergemakkelijken, en wel door het internationaal certificaat van technische inspectie waarin deze Overeenkomst voorziet, te aanvaarden. Aanhangsel 1 bij deze bijlage bevat een model van het certificaat van technische inspectie zoals het sinds 1 januari 2002 in de Overeenkomst is opgenomen.
+
+2. Om de in het kader van de [ATP-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004371) goedgekeurde voertuigen die aan bederf onderhevige levensmiddelen vervoeren, te kunnen identificeren mogen de overeenkomstsluitende partijen gebruik maken van de identificatietekens die op die vervoermiddelen zijn aangebracht en van het ATP-certificaat of de ATP-goedkeuringsplaat waarin is voorzien bij de Overeenkomst van 1970 inzake het internationale vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer.
+
+##### Artikel 5. Internationaal weegcertificaat voor voertuigen
+
+1. Om de grensovergang te versnellen streven de overeenkomstsluitende partijen, met inachtneming van de terzake geldende nationale en internationale wet- en regelgeving, ernaar te voorkomen dat voertuigen bij het oversteken van de grenzen herhaaldelijk moeten worden gewogen, en wel door het internationaal weegcertificaat voor voertuigen, waarvan een model is opgenomen in aanhangsel 2 bij deze bijlage, te aanvaarden en wederzijds te erkennen. Als de overeenkomstsluitende partijen die certificaten aanvaarden, worden, afgezien van steekproefsgewijze controles en controles in geval van een vermoeden van onregelmatigheid, geen verdere wegingen uitgevoerd. De wegingen waarvan de resultaten op die certificaten worden genoteerd, vinden uitsluitend plaats in het land van oorsprong van de internationale vervoertransactie. De weegresultaten worden naar behoren op die certificaten vermeld en gecertificeerd.
+
+2. Elke overeenkomstsluitende partij die het internationaal weegcertificaat voor voertuigen aanvaardt, laat een lijst van alle weegstations in haar land die overeenkomstig internationale beginselen zijn erkend, en alle eventuele wijzigingen in die lijst publiceren. Deze lijst en de eventuele wijzigingen worden aan de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) voorgelegd om te worden verspreid bij alle overeenkomstsluitende partijen en bij de internationale organisaties als bedoeld in artikel 2 van bijlage 7 bij deze Overeenkomst.
+
+3. De minimumvoorschriften voor erkende weegstations, de beginselen voor de verlening van de erkenning en de basiskenmerken van de toe te passen weegmethoden zijn opgenomen in aanhangsel 2 bij deze bijlage.
+
+##### Artikel 6. Grensposten
+
+Om ervoor te zorgen dat de vereiste formaliteiten aan de grensposten worden gestroomlijnd en sneller worden afgehandeld, zien de overeenkomstsluitende partijen erop toe dat er voorzover mogelijk wordt voldaan aan de volgende minimumvoorschriften voor grensposten voor het internationale goederenverkeer:
+
+- i. deze posten moeten beschikken over voorzieningen die het mogelijk maken om, telkens als dit vanuit commercieel standpunt gerechtvaardigd is, 24 uur per dag gezamenlijke controles tussen buurlanden te verrichten (systeem van de één enkele stop), met inachtneming van het verkeersreglement;
+
+- ii. aan beide zijden van de grens zijn de verschillende soorten verkeer van elkaar gescheiden, waardoor voorrang kan worden gegeven aan voertuigen met een geldig internationaal douanevervoerdocument (TIR, T) of aan voertuigen waarmee levende dieren of aan bederf onderhevige levensmiddelen worden vervoerd;
+
+- iii. er zijn van de rijweg verwijderde inspectiezones voor steekproefsgewijze controles van ladingen en voertuigen;
+
+- iv. er zijn adequate parkeerplaatsen en terminals;
+
+- v. er zijn behoorlijke sanitaire voorzieningen, ontmoetingsplaatsen en telecommunicatiefaciliteiten voor chauffeurs;
+
+- vi. de installatie van expediteurs aan de grensposten wordt bevorderd doordat er adequate voorzieningen worden aangeboden, waardoor diensten tegen concurrentiële prijzen aan vervoerondernemers kunnen worden verleend.
+
+##### Artikel 7. Verslaggeving
+
+Met betrekking tot de artikelen 1 tot en met 6 van deze bijlage verricht de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) om de twee jaar bij de overeenkomstsluitende partijen een onderzoek naar de vorderingen die zijn gemaakt om de grensprocedures in hun landen te verbeteren.
 
 DONE at Geneva, this twenty-first day of October one thousand nine hundred and eighty-two, in a single original, of which the English, French, Russian and Spanish texts are equally authentic.
 
