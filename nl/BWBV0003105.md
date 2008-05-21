@@ -4,7 +4,7 @@ identifier: "BWBV0003105"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-03-31"
-last_updated: "2007-12-07"
+last_updated: "2008-05-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003105"
 soort: "verdrag"
@@ -84,7 +84,7 @@ The Netherlands Party’s contribution shall not exceed EUR 3,453,565. This cont
 
 ##### Article V. (Delegation)
 
-Each of the executive Authorities, mentioned in [Article IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003105&artikel=IV&z=2008-05-21&g=2007-12-07), shall be entitled to delegate under its own responsibility, partly or entirely, its duties in connection with the Project to a third party. In doing so, the Executive Authorities shall inform each other immediately in writing of the names of persons or institutions delegated and of the extent of such delegation.
+Each of the executive Authorities, mentioned in [Article IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003105&artikel=IV&z=2008-05-21&g=2008-05-21), shall be entitled to delegate under its own responsibility, partly or entirely, its duties in connection with the Project to a third party. In doing so, the Executive Authorities shall inform each other immediately in writing of the names of persons or institutions delegated and of the extent of such delegation.
 
 ##### Article VI. (The Team leader)
 
@@ -136,7 +136,7 @@ Any disputes concerning the implementation of this Administrative Arrangement, w
 
 ##### Article XIII. (Entry into Force and Duration)
 
-The Administrative Arrangement shall enter into force with retroactive effect to 7 December 2007 on the date of signature by both Parties and shall expire at the end of the period mentioned in [Article I, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003105&artikel=I&z=2008-05-21&g=2007-12-07), of this Arrangement or on the date on which the Project has been completed in conformity with the provisions of the Arrangement and the Schedule of Operations, whichever date is the later.
+The Administrative Arrangement shall enter into force with retroactive effect to 7 December 2007 on the date of signature by both Parties and shall expire at the end of the period mentioned in [Article I, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003105&artikel=I&z=2008-05-21&g=2008-05-21), of this Arrangement or on the date on which the Project has been completed in conformity with the provisions of the Arrangement and the Schedule of Operations, whichever date is the later.
 
 DONE in Cairo on the 21st of May 2008, in two originals in the English language.
 
