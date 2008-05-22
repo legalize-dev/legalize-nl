@@ -4,7 +4,7 @@ identifier: "BWBR0013753"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2008-02-08"
+last_updated: "2008-05-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013753"
 soort: "AMvB"
@@ -100,7 +100,7 @@ In het geval van binnenlandse en buitenlandse dienstreizen worden de noodzakelij
 
 1. Ministers en staatssecretarissen hebben voor de duur van de vervulling van hun ambt een dienstauto met chauffeur ter beschikking.
 
-2. De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,54 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar. In geval van een dienstauto die wordt afgenomen overeenkomstig de door het Rijk gesloten raamovereenkomst betreffende innovatieve milieuauto's of die vóór 1 september 2009 wordt afgenomen overeenkomstig de door het Rijk gesloten raamovereenkomst betreffende auto's die voldoen aan verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad van 20 juni 2007 betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEG L 171) bedraagt de prijs per kilometer van de dienstauto niet meer dan € 0,62 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
+2. De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,55 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar. In geval van een dienstauto die wordt afgenomen overeenkomstig de door het Rijk gesloten raamovereenkomst betreffende innovatieve milieuauto's of die vóór 1 september 2009 wordt afgenomen overeenkomstig de door het Rijk gesloten raamovereenkomst betreffende auto's die voldoen aan verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad van 20 juni 2007 betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEG L 171) bedraagt de prijs per kilometer van de dienstauto niet meer dan € 0,63 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
 
 3. De in het tweede lid genoemde bedragen worden jaarlijks bij ministeriële regeling gewijzigd voor zover de gemiddelde prijsindexcijfers autolease over de laatste vier kwartalen, zoals per 1 januari van elk jaar door het Centraal Bureau voor de Statistiek gepubliceerd, daartoe aanleiding geven.
 
@@ -182,13 +182,13 @@ Aan ministers en staatssecretarissen worden de overige voorzieningen ter beschik
 
 2. De maandelijkse vergoeding, bedoeld in het eerste lid, bedraagt
 
-- a. voor Onze Minister-President, Minister van Algemene Zaken € 1251,51;
+- a. voor Onze Minister-President, Minister van Algemene Zaken € 1267,78;
 
-- b. voor Onze Minister van Buitenlandse Zaken € 1251,51;
+- b. voor Onze Minister van Buitenlandse Zaken € 1267,78;
 
-- c. voor een andere minister € 625,75;
+- c. voor een andere Minister € 633,88;
 
-- d. voor een staatssecretaris € 520,78.
+- d. voor een Staatssecretaris € 527,55.
 
 3. De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd voor zover de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar, daartoe aanleiding geeft.
 
