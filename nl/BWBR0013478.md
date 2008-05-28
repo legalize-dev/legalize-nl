@@ -4,7 +4,7 @@ identifier: "BWBR0013478"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2006-07-09"
+last_updated: "2008-05-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013478"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ Als personen belast met het toezicht op de naleving bedoeld in [artikel 102, eer
 
 ##### Artikel 3
 
-Als personen, bedoeld in [artikel 73, eerste lid, onderdeel b, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73) worden aangewezen, de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1&z=2006-07-09&g=2006-07-09) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=2&z=2006-07-09&g=2006-07-09) van dit Besluit genoemde ambtenaren, alsmede de havenmeesters en assistent-havenmeesters van de luchtvaartterreinen Ameland, Budel, Drachten, Eelde, Eindhoven, Hilversum, Hoogeveen, Lelystad, Maastricht-Aachen, Midden Zeeland, Onstwedde, Rotterdam, Schiphol, Seppe, Terlet, Teuge en Texel.
+Als personen, bedoeld in [artikel 73, eerste lid, onderdeel b, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=73) worden aangewezen, de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1&z=2008-05-28&g=2008-05-28) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=2&z=2008-05-28&g=2008-05-28) van dit Besluit genoemde ambtenaren, alsmede de havenmeesters en assistent-havenmeesters van de luchtvaartterreinen Ameland, Budel, Drachten, Eelde, Eindhoven, Hilversum, Hoogeveen, Lelystad, Maastricht-Aachen, Midden Zeeland, Onstwedde, Rotterdam, Schiphol, Seppe, Terlet, Teuge en Texel.
 
 ##### Artikel 4
 
@@ -72,5 +72,17 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders luchtvaart.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Als ambtenaren belast met het toezicht op de naleving bedoeld in [artikel 11.1, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.1) worden aangewezen:
+
+- a. de directeur-generaal van het Directoraat-Generaal Transport en Luchtvaart;
+
+- b. de inspecteur-generaal van de Inspectie Verkeer en Waterstaat;
+
+- c. de ambtenaren van de Inspectie Verkeer en Waterstaat, die zijn belast met toezicht.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
