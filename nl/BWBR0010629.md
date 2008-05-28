@@ -4,7 +4,7 @@ identifier: "BWBR0010629"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-09"
-last_updated: "2008-03-05"
+last_updated: "2008-05-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010629"
 soort: "AMvB"
@@ -73,6 +73,8 @@ FI: bevoegdverklaring vlieginstructeur (Flight Instructor);
 grondverkeer: alle verkeer op een landingsterrein met uitzondering van startend en landend verkeer;
 
 helikopter: gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn rotorbladen;
+
+ICAO-locatie-indicator: de uit vier letters bestaande code die is samengesteld door de Internationale Burgerluchtvaartorganisatie overeenkomstig in haar handboek DOC 7910 gegeven regels en is toegewezen aan de locatie van een vast luchtverkeersstation;
 
 IFR-vlucht: vlucht als bedoeld in [artikel 1, onderdeel i, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1);
 
@@ -171,6 +173,8 @@ RT: bevoegdverklaring radiotelefonie;
 schermvliegtuig: zweeftoestel zonder starre hoofdstructuur, dat kan worden gedragen en slechts gestart en geland kan worden door gebruik te maken van de benen van de bestuurder;
 
 SE: eenmotorig (Single-Engine);
+
+sector: een deel van een luchtverkeersleidingsgebied of van een vluchtinformatiegebied;
 
 SFI: instructeur STD (Synthetic Flight Instructor);
 
@@ -322,11 +326,11 @@ Vervallen
 
 ##### Artikel 4
 
-1. De in [artikel 3, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-03-05&g=2008-03-05), genoemde bevoegdverklaring wordt voor onbepaalde duur afgegeven.
+1. De in [artikel 3, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-05-28&g=2008-05-28), genoemde bevoegdverklaring wordt voor onbepaalde duur afgegeven.
 
-2. De in [artikel 3, eerste lid, onderdeel b, en tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-03-05&g=2008-03-05), genoemde bevoegdverklaringen worden voor de duur van ten hoogste twee jaar afgegeven.
+2. De in [artikel 3, eerste lid, onderdeel b, en tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-05-28&g=2008-05-28), genoemde bevoegdverklaringen worden voor de duur van ten hoogste twee jaar afgegeven.
 
-3. De in [artikel 3, tweede lid, onderdelen d tot en met j, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-03-05&g=2008-03-05), genoemde bevoegdverklaringen worden voor de duur van ten hoogste drie jaar afgegeven.
+3. De in [artikel 3, tweede lid, onderdelen d tot en met j, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-05-28&g=2008-05-28), genoemde bevoegdverklaringen worden voor de duur van ten hoogste drie jaar afgegeven.
 
 4. De geldigheidsduur, bedoeld in het tweede en derde lid, wordt, indien de bevoegdverklaring niet is afgegeven per de eerste dag van de maand van afgifte, berekend vanaf de eerste dag van de maand, volgend op de maand van afgifte.
 
@@ -354,19 +358,19 @@ Vervallen
 
 ##### Artikel 7
 
-1. Met uitzondering van het tweede lid is de houder van een bewijs van bevoegdheid, als bedoeld in [artikel 2, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-03-05&g=2008-03-05), die de leeftijd van 60 jaar heeft bereikt, niet bevoegd op te treden als bestuurder van een luchtvaartuig tijdens verkeersvluchten.
+1. Met uitzondering van het tweede lid is de houder van een bewijs van bevoegdheid, als bedoeld in [artikel 2, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-05-28&g=2008-05-28), die de leeftijd van 60 jaar heeft bereikt, niet bevoegd op te treden als bestuurder van een luchtvaartuig tijdens verkeersvluchten.
 
-2. De houder van een bewijs van bevoegdheid, als bedoeld in [artikel 2, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-03-05&g=2008-03-05), die zich bevindt in de leeftijdscategorie tussen 60 en 65 jaar, is uitsluitend bevoegd op te treden als bestuurder van een luchtvaartuig tijdens verkeersvluchten, indien de bemanning van het luchtvaartuig bestaat uit meerdere houders van deze bewijzen van bevoegdheid en de eerstgenoemde houder de enige is in de hiervoor-genoemde leeftijdscategorie.
+2. De houder van een bewijs van bevoegdheid, als bedoeld in [artikel 2, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-05-28&g=2008-05-28), die zich bevindt in de leeftijdscategorie tussen 60 en 65 jaar, is uitsluitend bevoegd op te treden als bestuurder van een luchtvaartuig tijdens verkeersvluchten, indien de bemanning van het luchtvaartuig bestaat uit meerdere houders van deze bewijzen van bevoegdheid en de eerstgenoemde houder de enige is in de hiervoor-genoemde leeftijdscategorie.
 
 ##### Artikel 8
 
-1. Met inachtneming van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-03-05&g=2008-03-05), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-03-05&g=2008-03-05) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=6&z=2008-03-05&g=2008-03-05) wordt het bewijs van bevoegdheid of de bevoegdverklaring op aanvraag afgegeven aan een ieder die:
+1. Met inachtneming van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-05-28&g=2008-05-28), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-05-28&g=2008-05-28) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=6&z=2008-05-28&g=2008-05-28) wordt het bewijs van bevoegdheid of de bevoegdverklaring op aanvraag afgegeven aan een ieder die:
 
 - a. voldoet aan de bij ministeriële regeling vast te stellen vereisten inzake kennis, bedrevenheid, ervaring en opleiding, en,
 
-- b. met uitzondering van de bewijzen van bevoegdheid, bedoeld in [artikel 2, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-03-05&g=2008-03-05)„ en de daarbij behorende bevoegdverklaringen, in het bezit is van een geldige medische verklaring, en,
+- b. met uitzondering van de bewijzen van bevoegdheid, bedoeld in [artikel 2, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-05-28&g=2008-05-28)„ en de daarbij behorende bevoegdverklaringen, in het bezit is van een geldige medische verklaring, en,
 
-- c. voldoet aan de in JAR-FCL 1.010 , JAR-FCL 2.010 of de in Bijlage 1 bij het verdrag gestelde vereisten inzake het vermogen tot beheersing van de Engelse taal op de niveaus 4, 5 of 6, indien het de aanvraag betreft van een bewijs van bevoegdheid als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-03-05&g=2008-03-05), waaraan de algemene bevoegdverklaring, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-03-05&g=2008-03-05), wordt verbonden.
+- c. voldoet aan de in JAR-FCL 1.010 , JAR-FCL 2.010 of de in Bijlage 1 bij het verdrag gestelde vereisten inzake het vermogen tot beheersing van de Engelse taal op de niveaus 4, 5 of 6, indien het de aanvraag betreft van een bewijs van bevoegdheid als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-05-28&g=2008-05-28), waaraan de algemene bevoegdverklaring, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-05-28&g=2008-05-28), wordt verbonden.
 
 2. De aanvraag tot afgifte van een bewijs van bevoegdheid of bevoegdverklaring wordt gedaan op een daartoe door Onze Minister verstrekt aanvraagformulier.
 
@@ -374,7 +378,7 @@ Vervallen
 
 ##### Artikel 9
 
-De bevoegdverklaringen, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-03-05&g=2008-03-05) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=5&z=2008-03-05&g=2008-03-05), worden verlengd indien de houder van het bewijs van bevoegdheid op bij ministeriële regeling te bepalen wijze heeft aangetoond, dat hij zijn kennis, bedrevenheid en ervaring heeft behouden.
+De bevoegdverklaringen, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-05-28&g=2008-05-28) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=5&z=2008-05-28&g=2008-05-28), worden verlengd indien de houder van het bewijs van bevoegdheid op bij ministeriële regeling te bepalen wijze heeft aangetoond, dat hij zijn kennis, bedrevenheid en ervaring heeft behouden.
 
 ##### Artikel 10
 
@@ -422,7 +426,7 @@ De bevoegdverklaringen, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3
 
 - l. het bedienen van een zweefvliegtuig;
 
-- m. het bedienen van een vrije ballon, niet tegen vergoeding, die luchtwaardig is bevonden voor maximaal vier inzittenden, tijdens vluchten zonder baat onder de in [artikel 2, eerste lid, onder a, ten 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-03-05&g=2008-03-05) bedoelde beperkingen;
+- m. het bedienen van een vrije ballon, niet tegen vergoeding, die luchtwaardig is bevonden voor maximaal vier inzittenden, tijdens vluchten zonder baat onder de in [artikel 2, eerste lid, onder a, ten 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-05-28&g=2008-05-28) bedoelde beperkingen;
 
 - n. het uitoefenen van de bevoegdheden die behoren bij de bevoegdverklaringen SFI, MCCI, STI of een specifieke autorisatie, genoemd in JAR-FCL 1.300, indien:
 
@@ -466,7 +470,7 @@ Onze Minister kan nadere regels geven met betrekking tot het afgeven van bewijze
 
 - 3. de afgifte, geldigheidsduur, verlenging, intrekking en wijziging.
 
-2. Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.9) worden vergoed.
+2. Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.9) worden vergoed.
 
 3. Onze Minister geeft nadere regels met betrekking tot de kwalificatie van STD's. Deze regels omvatten in ieder geval bepalingen betreffende:
 
@@ -480,15 +484,15 @@ Onze Minister kan nadere regels geven met betrekking tot het afgeven van bewijze
 
 ##### Artikel 14
 
-1. Als bewijs, dat wordt voldaan aan de eisen met betrekking tot de nodige kennis en bedrevenheid voor een bewijs van bevoegdheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-03-05&g=2008-03-05) of een bevoegdverklaring als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-03-05&g=2008-03-05) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=5&z=2008-03-05&g=2008-03-05), wordt met goed gevolg een examen afgelegd.
+1. Als bewijs, dat wordt voldaan aan de eisen met betrekking tot de nodige kennis en bedrevenheid voor een bewijs van bevoegdheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-05-28&g=2008-05-28) of een bevoegdverklaring als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-05-28&g=2008-05-28) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=5&z=2008-05-28&g=2008-05-28), wordt met goed gevolg een examen afgelegd.
 
 2. Het examen kan bestaan uit een theorie- en een praktijkgedeelte.
 
-3. Voor de bewijzen van bevoegdheid, bedoeld in [artikel 2, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-03-05&g=2008-03-05), en voor de daarbij behorende bevoegdverklaringen kan aan de eisen als bedoeld in het eerste lid tevens worden voldaan door het met goed gevolg afronden van een opleiding aan een door Onze Minister daartoe erkende opleidingsinstelling dan wel aan een door de bevoegde autoriteit van een JAA-land daartoe erkende opleidingsinstelling.
+3. Voor de bewijzen van bevoegdheid, bedoeld in [artikel 2, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-05-28&g=2008-05-28), en voor de daarbij behorende bevoegdverklaringen kan aan de eisen als bedoeld in het eerste lid tevens worden voldaan door het met goed gevolg afronden van een opleiding aan een door Onze Minister daartoe erkende opleidingsinstelling dan wel aan een door de bevoegde autoriteit van een JAA-land daartoe erkende opleidingsinstelling.
 
 4. Onze Minister kan nadere regels geven met betrekking tot het examen.
 
-5. Het derde lid is van overeenkomstige toepassing op het verkrijgen van de algemene bevoegdverklaring, bedoeld in [artikel 3, tweede lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-03-05&g=2008-03-05).
+5. Het derde lid is van overeenkomstige toepassing op het verkrijgen van de algemene bevoegdverklaring, bedoeld in [artikel 3, tweede lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-05-28&g=2008-05-28).
 
 ##### Artikel 15
 
@@ -504,7 +508,7 @@ Onze Minister kan nadere regels geven met betrekking tot het afgeven van bewijze
 
 - d. het onderscheid in bevoegdheden naar soort autorisatie.
 
-3. De examens ter verkrijging van de bewijzen van bevoegdheid, bedoeld in [artikel 2, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-03-05&g=2008-03-05), en van de daarbij behorende bevoegdverklaringen worden afgelegd voor een door Onze Minister daartoe in te stellen examencommissie of aan te wijzen erkende opleidingsinstelling. Bij ministeriële regeling geeft Onze Minister nadere regels, die in ieder geval regels bevatten met betrekking tot:
+3. De examens ter verkrijging van de bewijzen van bevoegdheid, bedoeld in [artikel 2, eerste lid, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-05-28&g=2008-05-28), en van de daarbij behorende bevoegdverklaringen worden afgelegd voor een door Onze Minister daartoe in te stellen examencommissie of aan te wijzen erkende opleidingsinstelling. Bij ministeriële regeling geeft Onze Minister nadere regels, die in ieder geval regels bevatten met betrekking tot:
 
 - a. de samenstelling en werkwijze van de commissie;
 
@@ -578,21 +582,47 @@ Onze Minister kan bewijzen van bevoegdheid afgeven voor:
 
 ##### Artikel 18
 
-1. Onze Minister geeft op de bewijzen van bevoegdheid voor luchtverkeersleider, voor leerling-luchtverkeersleider, voor vluchtinformatieverstrekker en voor luchtvaartterreininformatieverstrekker een of meer algemene bevoegdverklaringen en de daarbij behorende bevoegdheden weer zoals aangegeven in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&bijlage=II&z=2008-03-05&g=2008-03-05) bij dit besluit.
+1. Onze Minister kan op de bewijzen van bevoegdheid voor luchtverkeersleider, leerling-luchtverkeersleider, vluchtinformatieverstrekker en luchtvaartterreininformatieverstrekker een of meer van de onderstaande bevoegdverklaringen weergeven op de wijze zoals aangegeven in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&bijlage=II&z=2008-05-28&g=2008-05-28) bij dit besluit:
 
-2. Onze Minister kan aan de algemene bevoegdverklaringen, bedoeld in het eerste lid, beperkingen verbinden zoals aangegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&bijlage=II&z=2008-03-05&g=2008-03-05) bij dit besluit.
+- a. ADV: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten ten behoeve van het luchtvaartterreinverkeer op of in de nabijheid van een luchtvaartterrein dat niet over gepubliceerde procedures voor nadering of vertrek op instrumenten beschikt (Aerodrome Control Visual);
 
-3. Onze Minister kan op de bewijzen van bevoegdheid voor luchtverkeersleider, vluchtinformatieverstrekker en luchtvaartterreininformatieverstrekker tevens één of meer bijzondere bevoegdverklaringen weergeven zoals aangegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&bijlage=II&z=2008-03-05&g=2008-03-05) bij dit besluit.
+- b. ADI: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten ten behoeve van het luchtvaartterreinverkeer op of in de nabijheid van een luchtvaartterrein dat over gepubliceerde procedures voor nadering of vertrek op instrumenten beschikt (Aerodrome Control Instrument);
 
-4. De bijzondere bevoegdverklaringen, bedoeld in het derde lid, en de daarbij behorende bevoegdheden zijn slechts geldig in samenhang met de bij de desbetreffende bewijzen van bevoegdheid behorende algemene bevoegdverklaringen, bevoegdheden en beperkingen.
+- c. APP: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten ten behoeve van aankomende, vertrekkende of doorvliegende vliegtuigen zonder hulp van surveillanceapparatuur (Approach Control Procedural);
 
-5. Op de bewijzen van bevoegdheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-03-05&g=2008-03-05), wordt de bevoegdverklaring RT weergegeven.
+- d. APS: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten ten behoeve van aankomende, vertrekkende of doorvliegende vliegtuigen met behulp van surveillanceapparatuur (Approach Control Surveillance);
+
+- e. ACP: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten zonder surveillanceapparatuur (Area Control Procedural);
+
+- f. ACS: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten met behulp van surveillanceapparatuur (Area Control Surveillance);
+
+- g. ADR: bevoegdheid van:
+
+- 1°. vluchtinformatieverstrekkers tot het verstrekken van advies en inlichtingen aan luchtvaartterreinverkeer en luchtverkeer op en nabij een luchtvaartterrein dan wel het verstrekken van alarmering;
+
+- 2°. luchtvaartterreininformatieverstrekkers tot het verstrekken van luchtvaartterreininformatie aan luchtvaartterreinverkeer op een luchtvaartterrein (Aerodrome);
+
+- h. AER: bevoegdheid tot het verstrekken van advies en inlichtingen aan luchtverkeer dan wel tot verstrekken van alarmering (Area).
+
+2. Onze Minister kan op de bewijzen van bevoegdheid voor luchtverkeersleider, leerling-luchtverkeersleider, vluchtinformatieverstrekker en luchtvaartterreininformatieverstrekker een of meer van onderstaande aantekeningen weergeven op de wijze zoals aangegeven in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&bijlage=II&z=2008-05-28&g=2008-05-28) bij dit besluit:
+
+- a. aantekening bij de bevoegdverklaring: op het bewijs van bevoegdheid aangebrachte en hiervan deel uitmakende machtiging waarin de specifieke aan de bevoegdverklaring verbonden voorwaarden, rechten of beperkingen zijn weergegeven (rating endorsement);
+
+- b. aantekening bij het bewijs van bevoegdheid: op het bewijs van bevoegdheid aangebracht en hiervan deel uitmakende machtiging waarin de specifieke aan het bewijs van bevoegdheid verbonden voorwaarden, rechten of beperkingen zijn weergegeven (licence endorsement);
+
+- c. aantekening betreffende de eenheid: op het bewijs van bevoegdheid aangebracht en hiervan deel uitmakende machtiging waarin de ICAO-locatie-indicator wordt weergegeven alsook de sectoren of werkplekken waarvoor de houder van het bewijs van bevoegdheid bevoegd is (unit endorsement);
+
+- d. aantekening betreffende de taalvaardigheid: op het bewijs van bevoegdheid aangebracht en hiervan deel uitmakende machtiging waarin de taalvaardigheid van de houder wordt aangegeven (language endorsement);
+
+3. Een bevoegdverklaring als bedoeld in het eerste lid is slechts geldig indien aan deze bevoegdverklaring de relevante aantekening betreffende de luchtverkeersleidingseenheid en de overige noodzakelijke aantekeningen zoals weergegeven in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&bijlage=II&z=2008-05-28&g=2008-05-28) bij dit besluit zijn verbonden.
+
+4. Een aantekening als bedoeld in het tweede lid is slechts geldig in samenhang met het bewijs van bevoegdheid of de bevoegdverklaring waarvan zij deel uitmaakt.
 
 ##### Artikel 19
 
-De minimumleeftijd voor de afgifte van een bewijs van bevoegdheid als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-03-05&g=2008-03-05) bedraagt voor:
+1. De minimumleeftijd voor de afgifte van een bewijs van bevoegdheid als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-05-28&g=2008-05-28) bedraagt voor:
 
-- a. luchtverkeersleider: 19 jaar;
+- a. luchtverkeersleider: 21 jaar;
 
 - b. leerling-luchtverkeersleider: 18 jaar;
 
@@ -600,9 +630,11 @@ De minimumleeftijd voor de afgifte van een bewijs van bevoegdheid als bedoeld in
 
 - d. luchtvaartterreininformatieverstrekker: 18 jaar.
 
+2. Onze Minister kan in gerechtvaardigde gevallen ambtshalve de leeftijd voor de afgifte van een bewijs van bevoegdheid voor luchtverkeersleider verlagen tot minimaal 19 jaar.
+
 ##### Artikel 20
 
-1. Met inachtneming van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=19&z=2008-03-05&g=2008-03-05) worden een bewijs van bevoegdheid en een bevoegdverklaring voor luchtverkeersleider, leerling-luchtverkeersleider en vluchtinformatieverstrekker op aanvraag verleend aan een ieder die:
+1. Met inachtneming van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=19&z=2008-05-28&g=2008-05-28) wordt een bewijs van bevoegdheid voor luchtverkeersleider, leerling-luchtverkeersleider en vluchtinformatieverstrekker op aanvraag verleend aan een ieder die:
 
 - a. in het bezit is van een geldige medische verklaring,
 
@@ -610,23 +642,21 @@ De minimumleeftijd voor de afgifte van een bewijs van bevoegdheid als bedoeld in
 
 - c. dit onderdeel is nog niet in werking getreden.
 
-2. Het eerste lid, onderdeel b, is van overeenkomstige toepassing op het verlenen van bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvaartterreininformatieverstrekker.
+2. Het eerste lid, onderdeel b, is van overeenkomstige toepassing op het verlenen van bewijzen van bevoegdheid voor luchtvaartterreininformatieverstrekker en op het verlenen van bevoegdverklaringen en aantekeningen als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18&z=2008-05-28&g=2008-05-28).
 
 3. Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.3, zesde lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.3), worden vergoed.
 
 ##### Artikel 21
 
-1. De bewijzen van bevoegdheid, bevoegdverklaringen en de daarbij behorende bevoegdheden, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-03-05&g=2008-03-05) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18&z=2008-03-05&g=2008-03-05), worden voor de volgende termijnen afgegeven:
+1. Een bewijs van bevoegdheid voor luchtverkeersleider, vluchtinformatieverstrekker of luchtvaartterreininformatieverstrekker, een bevoegdverklaring of een aantekening bij de bevoegdverklaring als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18&z=2008-05-28&g=2008-05-28) wordt voor onbepaalde tijd afgegeven.
 
-- a. bewijzen van bevoegdheid: voor onbepaalde tijd;
+2. Het bewijs van bevoegdheid voor leerling-luchtverkeersleider wordt afgegeven voor een termijn van 24 maanden. In uitzonderlijk gevallen kan Onze Minister het bewijs van bevoegdheid nogmaals voor maximaal 24 maanden verlengen mits de houder aantoont over voldoende kennis, bedrevenheid en ervaring te beschikken. Het bewijs van bevoegdheid voor leerling-luchtverkeersleider vervalt zodra aan de houder daarvan een bewijs van bevoegdheid voor luchtverkeersleider met ten minste één bevoegdverklaring en de relevante aantekening is afgegeven.
 
-- b. algemene bevoegdverklaringen: voor een termijn van 12 maanden;
+3. De aantekening betreffende de eenheid wordt voor een termijn van 12 maanden weergegeven.
 
-- c. bijzondere bevoegdverklaringen: voor een termijn van 36 maanden.
+4. De aantekening bij het bewijs van bevoegdheid wordt voor een termijn van 36 maanden weergegeven.
 
-2. De termijnen, bedoeld in het eerste lid, onderdelen b en c, worden met eenzelfde termijn verlengd indien de houder overeenkomstig de op grond van [artikel 5.16, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.16) door Onze Minister goed te keuren regels heeft aangetoond dat hij de daartoe vereiste kennis, bedrevenheid en ervaring heeft behouden.
-
-3. Het bewijs van bevoegdheid voor leerling-luchtverkeersleider vervalt zodra aan de houder daarvan een bewijs van bevoegdheid voor luchtverkeersleider met ten minste één algemene bevoegdverklaring is afgegeven.
+5. De termijnen, bedoeld in het derde en vierde lid, worden met eenzelfde termijn verlengd indien de houder voldoet aan bij ministeriële regeling te stellen regels inzake kennis, bedrevenheid en ervaring.
 
 ##### Artikel 22
 
@@ -650,7 +680,7 @@ Vervallen
 
 ##### Artikel 25
 
-1. Als bewijs dat is voldaan aan de eisen met betrekking tot de nodige kennis, bedrevenheid en ervaring, bedoeld in [artikel 20, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=20&z=2008-03-05&g=2008-03-05), geldt een met goed gevolg afgelegd examen.
+1. Als bewijs dat is voldaan aan de eisen met betrekking tot de nodige kennis, bedrevenheid en ervaring, bedoeld in [artikel 20, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=20&z=2008-05-28&g=2008-05-28), geldt een met goed gevolg afgelegd examen.
 
 2. Het examen bestaat uit:
 
@@ -662,7 +692,7 @@ Vervallen
 
 ##### Artikel 26
 
-1. Het examen, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=3&artikel=25&z=2008-03-05&g=2008-03-05), wordt afgenomen door een door Onze Minister in te stellen examencommissie.
+1. Het examen, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=3&artikel=25&z=2008-05-28&g=2008-05-28), wordt afgenomen door een door Onze Minister in te stellen examencommissie.
 
 2. Onze Minister benoemt, telkens voor een periode van ten hoogste twee jaar, de volgende leden van de examencommissie:
 
@@ -674,13 +704,13 @@ Vervallen
 
 - d. minimaal twee beheerders van de examenvragendatabank.
 
-3. De benoeming van de in het tweede lid, onderdelen b, c en d, bedoelde leden vindt plaats op voordracht van de voorzitter van de examencommissie, in overleg met de in de [artikelen 5.13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.13), en [5.14, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.14) bedoelde instanties voor luchtverkeersdienstverlening.
+3. De benoeming van de in het tweede lid, onderdelen b, c en d, bedoelde leden vindt plaats op voordracht van de voorzitter van de examencommissie, in overleg met de in de [artikelen 5.13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.13), en [5.14, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.14) bedoelde instanties voor luchtverkeersdienstverlening.
 
 4. Bij ontstentenis van de voorzitter en de plaatsvervangend voorzitter worden hun werkzaamheden verricht door de secretaris.
 
 ##### Artikel 38
 
-1. Met uitzondering van diegene die in aanmerking komt voor een bewijs van bevoegdheid als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=6&artikel=41&z=2008-03-05&g=2008-03-05), wordt aan de houder van een geldig bewijs van bevoegdheid of bevoegdverklaring, zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2008-03-05&g=2008-03-05), van dit besluit gestelde eisen, een nieuw bewijs van bevoegdheid of bevoegdverklaring afgegeven voor de nog lopende periode van onderscheidenlijk het bewijs van bevoegdheid of de bevoegdverklaring, met dien verstande dat:
+1. Met uitzondering van diegene die in aanmerking komt voor een bewijs van bevoegdheid als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=6&artikel=41&z=2008-05-28&g=2008-05-28), wordt aan de houder van een geldig bewijs van bevoegdheid of bevoegdverklaring, zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2008-05-28&g=2008-05-28), van dit besluit gestelde eisen, een nieuw bewijs van bevoegdheid of bevoegdverklaring afgegeven voor de nog lopende periode van onderscheidenlijk het bewijs van bevoegdheid of de bevoegdverklaring, met dien verstande dat:
 
 - a. aan een houder van een vliegbewijs B1, als bedoeld in [artikel 12, eerste lid, onderdeel a, sub 6, van de R.T.L.](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=12) een ATPL wordt afgegeven in een overeenkomende categorie luchtvaartuigen;
 
@@ -700,17 +730,17 @@ Vervallen
 
 - i. aan een houder van een beperkt vliegbewijs A, als bedoeld in [artikel 12, eerste lid, onderdeel a, sub 2, van de R.T.L.](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=12), een RPL wordt afgegeven in een overeenkomende categorie luchtvaartuigen met een overeenkomende bijzondere bevoegdverklaring;
 
-- j. aan een houder van een oefenbewijs, als bedoeld in [artikel 12, eerste lid, onderdeel a, sub 1, van de R.T.L.](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=12), in een van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-03-05&g=2008-03-05), genoemde categorieën luchtvaartuigen vrijstelling wordt verleend als bedoeld in [artikel 11, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=11&z=2008-03-05&g=2008-03-05) van dit besluit.
+- j. aan een houder van een oefenbewijs, als bedoeld in [artikel 12, eerste lid, onderdeel a, sub 1, van de R.T.L.](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=12), in een van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-05-28&g=2008-05-28), genoemde categorieën luchtvaartuigen vrijstelling wordt verleend als bedoeld in [artikel 11, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=11&z=2008-05-28&g=2008-05-28) van dit besluit.
 
-2. Aan andere dan de in het eerste lid genoemde houders van een geldig bewijs van bevoegdheid wordt, zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2008-03-05&g=2008-03-05) van dit besluit genoemde eisen, een nieuw bewijs van bevoegdheid verstrekt, dat gelijkwaardig is aan hun huidige bewijs van bevoegdheid;
+2. Aan andere dan de in het eerste lid genoemde houders van een geldig bewijs van bevoegdheid wordt, zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2008-05-28&g=2008-05-28) van dit besluit genoemde eisen, een nieuw bewijs van bevoegdheid verstrekt, dat gelijkwaardig is aan hun huidige bewijs van bevoegdheid;
 
-3. Aan andere dan de in het eerste lid genoemde houders van een geldige algemene bevoegdverklaring wordt, zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2008-03-05&g=2008-03-05), van dit besluit, genoemde eisen, een nieuwe bevoegdverklaring op het document weergegeven dat gelijkwaardig is aan hun huidige bevoegdverklaring;
+3. Aan andere dan de in het eerste lid genoemde houders van een geldige algemene bevoegdverklaring wordt, zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2008-05-28&g=2008-05-28), van dit besluit, genoemde eisen, een nieuwe bevoegdverklaring op het document weergegeven dat gelijkwaardig is aan hun huidige bevoegdverklaring;
 
-4. Aan degene die vliegonderricht geeft of heeft gegeven, als bedoeld in [artikel 3, tweede lid, onderdeel g, h of j](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-03-05&g=2008-03-05), wordt op verzoek een TRI onderscheidenlijk CRI onderscheidenlijk SFI afgegeven, indien hij aantoont voor de inwerkingtreding van dit besluit ten minste 5 uur het bedoelde vliegonderricht te hebben gegeven in de voorafgaande periode van 12 maanden.
+4. Aan degene die vliegonderricht geeft of heeft gegeven, als bedoeld in [artikel 3, tweede lid, onderdeel g, h of j](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-05-28&g=2008-05-28), wordt op verzoek een TRI onderscheidenlijk CRI onderscheidenlijk SFI afgegeven, indien hij aantoont voor de inwerkingtreding van dit besluit ten minste 5 uur het bedoelde vliegonderricht te hebben gegeven in de voorafgaande periode van 12 maanden.
 
-5. Aan andere dan de in het eerste lid genoemde houders van een geldige bijzondere bevoegdverklaring wordt, zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2008-03-05&g=2008-03-05), van dit besluit genoemde eisen, een bijzondere bevoegdverklaring als bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&bijlage=I&z=2008-03-05&g=2008-03-05) bij dit besluit weergegeven op het document.
+5. Aan andere dan de in het eerste lid genoemde houders van een geldige bijzondere bevoegdverklaring wordt, zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2008-05-28&g=2008-05-28), van dit besluit genoemde eisen, een bijzondere bevoegdverklaring als bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&bijlage=I&z=2008-05-28&g=2008-05-28) bij dit besluit weergegeven op het document.
 
-6. Aan degenen die op het moment van inwerkingtreding van dit besluit aan kunnen tonen bevoegd te zijn om praktijkexamens af te nemen en te beoordelen wordt, zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2008-03-05&g=2008-03-05), van dit besluit genoemde eisen een autorisatiedocument verstrekt met inbegrip van bevoegdheden gelijkwaardig aan de bevoegdheden die zij op dat moment hebben.
+6. Aan degenen die op het moment van inwerkingtreding van dit besluit aan kunnen tonen bevoegd te zijn om praktijkexamens af te nemen en te beoordelen wordt, zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2008-05-28&g=2008-05-28), van dit besluit genoemde eisen een autorisatiedocument verstrekt met inbegrip van bevoegdheden gelijkwaardig aan de bevoegdheden die zij op dat moment hebben.
 
 7. Aan een houder van een geldige ontheffing voor het besturen van een ultra licht vliegtuig, die op grond van [artikel 8a, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=8a) is verstrekt, wordt op verzoek en op afgifte van de ontheffing een RPL afgegeven in de categorie vliegtuigen, met de bijzondere bevoegdverklaring MLA.
 
@@ -718,21 +748,21 @@ Vervallen
 
 9. Aan een houder van een geldige ontheffing voor het besturen van een gyrocopter, die op grond van [artikel 8a, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=8a) is verstrekt, wordt op verzoek en op afgifte van de ontheffing een RPL afgegeven in de categorie helicopters, met de bijzondere bevoegdverklaring gyroplane voor het overeenkomende type gyroplane.
 
-10. Aan een houder van een ontheffing, die op grond van de Regeling havendienstradio is verleend, wordt met ingang van 1 oktober 1999 een bewijs van bevoegdheid verstrekt als bedoeld in [artikel 17, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-03-05&g=2008-03-05).
+10. Aan een houder van een ontheffing, die op grond van de Regeling havendienstradio is verleend, wordt met ingang van 1 oktober 1999 een bewijs van bevoegdheid verstrekt als bedoeld in [artikel 17, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-05-28&g=2008-05-28).
 
 11. Bewijzen van bevoegdheid die op het tijdstip van inwerkingtreding van dit besluit op grond van artikel 2 van het Besluit kwalificaties luchtverkeersdienstverlening zijn afgegeven, worden aangemerkt als zijnde afgegeven op grond van dit besluit, met dien verstande dat zij hun geldigheid blijven behouden voor de in het bewijs genoemde termijn.
 
-12. Bewijzen van bevoegdheid, bevoegdverklaringen, autorisaties en ontheffingen, die op grond van dit artikel zijn verstrekt danwel afgegeven kunnen, voor zover zij betrekking hebben op danwel samenhangen met het ATPL, CPL of PPL tot uiterlijk acht jaar na inwerkingtreding van het desbetreffende lid of onderdeel van dit artikel worden verlengd zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=6&artikel=41&z=2008-03-05&g=2008-03-05) van dit besluit gestelde eisen, na welk tijdstip zij komen te vervallen.
+12. Bewijzen van bevoegdheid, bevoegdverklaringen, autorisaties en ontheffingen, die op grond van dit artikel zijn verstrekt danwel afgegeven kunnen, voor zover zij betrekking hebben op danwel samenhangen met het ATPL, CPL of PPL tot uiterlijk acht jaar na inwerkingtreding van het desbetreffende lid of onderdeel van dit artikel worden verlengd zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=6&artikel=41&z=2008-05-28&g=2008-05-28) van dit besluit gestelde eisen, na welk tijdstip zij komen te vervallen.
 
 ##### Artikel 28
 
-1. Bij regeling van Onze Minister worden regels vastgesteld voor het examen, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=3&artikel=25&z=2008-03-05&g=2008-03-05).
+1. Bij regeling van Onze Minister worden regels vastgesteld voor het examen, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=3&artikel=25&z=2008-05-28&g=2008-05-28).
 
 2. De regels, bedoeld in het eerste lid, betreffen in ieder geval:
 
 - a. de taken en verantwoordelijkheden van de examencommissie;
 
-- b. de taken en verantwoordelijkheden van luchtverkeersdienstverleningsorganisaties en exploitanten van luchtvaartterreinen en hun personeel met betrekking tot examens;
+- b. de taken en verantwoordelijkheden van verleners van luchtvaartnavigatiediensten en exploitanten van luchtvaartterreinen en hun personeel met betrekking tot examens;
 
 - c. de wijze van het afnemen van examens;
 
@@ -892,7 +922,7 @@ Vervallen
 
 2. Aan houders van andere vliegbewijzen dan in het eerste lid genoemde wordt een gelijkwaardige medische verklaring klasse II afgegeven voor de nog lopende periode van het bewijs van bevoegdheid.
 
-3. Aan houders van een medische verklaring weergegeven op een bewijs van bevoegdheid als bedoeld in [artikel 17, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-03-05&g=2008-03-05), wordt een gelijkwaardige medische verklaring klasse III afgegeven voor de nog lopende periode van eerstgenoemde medische verklaring.
+3. Aan houders van een medische verklaring weergegeven op een bewijs van bevoegdheid als bedoeld in [artikel 17, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2008-05-28&g=2008-05-28), wordt een gelijkwaardige medische verklaring klasse III afgegeven voor de nog lopende periode van eerstgenoemde medische verklaring.
 
 4. Na overleg van een geldig medisch keuringsrapport kan Onze Minister een gelijkwaardige medische verklaring van de bijbehorende klasse afgegeven voor de nog lopende periode van de medische verklaring.
 
@@ -900,17 +930,43 @@ Vervallen
 
 Vervallen
 
-##### Artikel 27
+##### Artikel 41. Conversie
 
-Vervallen
+1. Aan degene die op grond van artikel 38 in aanmerking komt voor een ATPL of CPL in de categorie vliegtuigen wordt op verzoek voor de duur van dat bewijs een gelijkwaardig bewijs van bevoegdheid afgegeven op een document als bedoeld in Appendix 1 behorend bij JAR-FCL 1 075, indien hij aantoonbaar voldoet aan de eisen als bedoeld in Appendix 1 behorend bij JAR-FCL 1 005 en RT heeft behaald en geldig gehouden.
+
+2. Aan degene die op grond van artikel 38 in aanmerking komt voor een PPL in de categorie vliegtuigen wordt op verzoek voor de duur van dat bewijs een gelijkwaardig bewijs van bevoegdheid afgegeven op een document, als bedoeld in Appendix 1 behorend bij JAR-FCL 1 075, indien hij aantoonbaar:
+
+- a. met goed gevolg de bekwaamheidsproef voor de desbetreffende bijzondere bevoegdverklaring heeft afgelegd;
+
+- b. aan Onze Minister verklaard heeft de relevante bepalingen van JAR-FCL te kennen;
+
+- c. ten minste 70 uur totale vliegervaring heeft in de desbetreffende bijzondere bevoegdverklaring;
+
+- d. RT heeft behaald en geldig gehouden.
+
+3. Aan degene die op grond van artikel 38 in aanmerking komt voor een ATPL, CPL of PPL in de categorie helicopters wordt op verzoek voor de duur van dat bewijs een gelijkwaardig bewijs van bevoegdheid afgegeven op een document als bedoeld in Appendix 1 behorend bij JAR-FCL 2 075, indien hij aantoonbaar voldoet aan de eisen, bedoeld in Appendix 1 behorend bij JAR-FCL 2 005 en in het bezit is van een geldig RT.
+
+4. Aan degene die op grond van artikel 38 in aanmerking komt voor een CFEL in de categorie vliegtuigen wordt op verzoek, voor de duur van dat bewijs, een gelijkwaardig bewijs van bevoegdheid afgegeven op een document als bedoeld in Appendix 1 behorend bij JAR-FCL 4 075, indien hij aantoonbaar voldoet aan de eisen, bedoeld in Appendix 1 behorend bij JAR-FCL 4 005 en in het bezit is van een geldig RT.
+
+5. Het eerste tot en met vierde lid is van overeenkomstige toepassing op een algemene bevoegdverklaring, voor zover het verzoek tot afgifte van die bevoegdverklaring tezamen met het verzoek als bedoeld in het eerste tot en met het vierde lid wordt ingediend.
+
+6. Aan degene die op grond van artikel 38, eerste lid, onderdeel m, eerste lid, subonderdeel 3°, in aanmerking komt voor een RPL met een algemene bevoegdverklaring RFI in de categorie vliegtuigen, klasse touring-motorglider, en een PPL voor de categorie vliegtuigen met de bijzondere bevoegdverklaring TMG, wordt de bevoegdverklaring FI afgegeven in een overeenkomende categorie, indien hij aantoonbaar:
+
+- a. voldoet aan de eisen voorafgaand aan de FI-cursus als bedoeld in JAR-FCL 1 335;
+
+- b. met goed gevolg de FI-cursus als bedoeld in JAR-FCL 1 340 heeft gevolgd;
+
+- c. theoretische kennis op CPL-niveau heeft;
+
+- d. met goed gevolg een praktisch examen als bedoeld in JAR-FCL 1 345 met Appendix 1 bij JAR-FCL 1 330 en 1 345 heeft afgelegd, met dien verstande dat tot 1 juli 2002 in plaats van de gevraagde 150 uur ervaring als gezagvoerder met een PPL voor de categorie vliegtuigen deze uren ook als houder van een zweefvliegbewijs met de bevoegdverklaring motorzweefvliegen worden geaccepteerd.
 
 ##### Artikel 42
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen, onderdelen daarvan, bewijzen van bevoegdheid, algemene of bijzondere bevoegdverklaringen verschillend kan worden vastgesteld.
 
-##### Artikel 43
+##### Artikel 27
 
-Dit besluit wordt aangehaald als: Besluit bewijzen van bevoegdheid voor de luchtvaart.
+Vervallen
 
 ## Bijlage. als bedoeld in artikel 38, vijfde lid, van het besluit bewijzen van bevoegdheid
 
@@ -920,7 +976,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 24a
 
-1. Voor het geven van opleidingen tot luchtverkeersleider vluchtinformatieverstrekker of luchtvaartterreininformatieverstrekker is een door Onze Minister goed te keuren opleidingenplan noodzakelijk.
+1. Voor het verzorgen van opleidingen tot luchtverkeersleider vluchtinformatieverstrekker of luchtvaartterreininformatieverstrekker is een door Onze Minister goed te keuren opleidingenplan noodzakelijk.
 
 2. Bij regeling van Onze Minister worden nadere regels gesteld voor de goedkeuring van het in het eerste lid bedoelde opleidingenplan, die in ieder geval betrekking hebben op:
 
@@ -928,11 +984,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. de in het opleidingplan op te nemen gegevens;
 
-- c. de geldigheidsduur en wijze van de goedkeuring.
+- c. de geldigheidsduur en wijze van de goedkeuring;
+
+- d. de onderdelen waaruit een opleidingenplan kan bestaan.
 
 ##### Artikel 24b
 
-Onze Minister geeft regels met betrekking tot de kwalificatie van STD’s voor luchtverkeersleider. [Artikel 13, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=2&artikel=13&z=2008-03-05&g=2008-03-05), is van overeenkomstige toepassing.
+Onze Minister geeft regels met betrekking tot de kwalificatie van STD’s voor luchtverkeersleider. [Artikel 13, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=2&artikel=13&z=2008-05-28&g=2008-05-28), is van overeenkomstige toepassing.
 
 #### Paragraaf 3. Het examen
 
@@ -942,7 +1000,7 @@ Onze Minister geeft regels met betrekking tot de kwalificatie van STD’s voor l
 
 ### Hoofdstuk 5. Schorsing
 
-### Hoofdstuk 6. Overgangs- en slotbepalingen
+### Hoofdstuk 5. Schorsing
 
 ##### Artikel 41. Conversie
 
@@ -1116,5 +1174,260 @@ Onze Minister geeft regels met betrekking tot de kwalificatie van STD’s voor l
 ### **Toelichting**
 
 In de bovenstaande voetnoten zijn de omschrijvingen opgenomen van de algemene en bijzondere bevoegdverklaringen en de daarbij behorende bevoegdheden die bij bewijzen van bevoegdheid voor luchtverkeersleider, leerlingluchtverkeersleider, vluchtinformatieverstrekker en luchtvaartterreininformatieverstrekker kunnen worden opgenomen. Conform de Eurocontrol richtlijnen zijn met name de algemene bevoegdverklaringen via een vast structuurschema verder onderverdeeld. De afgeleide algemene bevoegdverklaringen kunnen daarbij slechts in combinatie met de bevoegdverklaring waarvan ze zijn afgeleid gebruikt worden. Zo is blijkens het schema op pagina 1 van deze bijlage bijvoorbeeld de algemene bevoegdverklaring AIR een afgeleide van de algemene bevoegdverklaring ADI. Eerstgenoemde bevoegdverklaring kan slechts bij de aanwezigheid van de bevoegdverklaring ADI gebruikt worden.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlagen in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a
+
+Dit besluit berust tevens op [artikel 2.9, tweede en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.9).
+
+### Hoofdstuk 2. Luchtvarenden, boordwerktuigkundigen en onderhoudstechnici
+
+#### Paragraaf 1. Bewijzen van bevoegdheid en bevoegdverklaringen
+
+#### Paragraaf 2. De opleidingsinstelling
+
+#### Paragraaf 3. Het examen
+
+### Hoofdstuk 3. Luchtverkeersleiders, vluchtinformatieverstrekkers en luchtvaartterreininformatieverstrekkers
+
+#### Paragraaf 1. Bewijzen van bevoegdheid en bevoegdverklaringen
+
+#### Paragraaf 2. Opleiding en kwalificatie
+
+##### Artikel 24c
+
+1. Onze Minister geeft regels met betrekking tot de certificering van opleidingsinstellingen voor het verlenen van luchtverkeersdiensten. Deze regels omvatten in ieder geval bepalingen betreffende:
+
+- a. de aanvraag, afgifte, intrekking en wijziging van de certificering;
+
+- b. de bij de aanvraag in te dienen gegevens;
+
+- c. de geldigheidsduur van de certificering;
+
+- d. de technische en operationele bekwaamheden van de opleidingsinstelling;
+
+- e. het vermogen van de opleidingsinstelling opleidingen te organiseren.
+
+2. Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.9) worden vergoed.
+
+#### Paragraaf 3. Het examen
+
+### Hoofdstuk 4. Medische verklaring
+
+#### Paragraaf 1. Keuring
+
+#### Paragraaf 2. Herbeoordeling
+
+### Hoofdstuk 6. Overgangs- en slotbepalingen
+
+##### Artikel 43
+
+Dit besluit wordt aangehaald als: Besluit bewijzen van bevoegdheid voor de luchtvaart.
+
+## Bijlage I. behorende bij [artikel 38, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=6&artikel=38&z=2008-05-28&g=2008-05-28), van het Besluit bewijzen van bevoegdheid voor de luchtvaart
+
+| huidige klasse/typebevoegdverklaring | nieuwe bijzondere bevoegdverklaring |
+| --- | --- |
+| AIR TRACTOR AT-301 | SE piston(land) |
+| AIRBUS 319/320/321 | A319/320/321 |
+| AIRBUS A300 | A300 |
+| AIRBUS A310 | A310/300-600 |
+| ALOUETTE II | Alouette II |
+| ALOUETTE III | Alouette III |
+| ANTONOV AN2 | SE piston(land) |
+| AS-355 | AS 355/355N |
+| AS 350 | AS 350 |
+| ATR-42 | ATR42/72 |
+| ATR-72 | ATR42/72 |
+| AYRES S2R | Snow/Ayres SET |
+| BAE-146 | AVRORJ/BAe146 |
+| BEECH 1900D | Beech300/1900 |
+| BEECH 200 | Beech100/200 |
+| BEECH 300 | Beech300/1900 |
+| BEECH 65-80 | ME piston(land) |
+| BEECH 65-A90 | ME piston(land) |
+| BEECH 90/99 | Beech90/99 |
+| BEECH 95-A55 | Beech90/99 |
+| BEECH BE-300 | Beech300/1900 |
+| BEECH BE-58 | ME piston(land) |
+| BEECH C90 | Beech90/99 |
+| BEECH D18S | ME piston(land) |
+| BELL 2 0 6 | Bell 206/ 206 L |
+| BELL 206 | Bell 206/ 206 L |
+| BELL 222U | Bell 222/ 230/ 430 |
+| BN2A | ME piston(land) |
+| BN2B | ME piston(land) |
+| BN2T | BN2T |
+| BO 105 | BO 105/105 LS |
+| BOEING 707 | B707/720 |
+| BOEING 727 | B727 |
+| BOEING 737 | B737 100-200 |
+| BOEING 737-300 | B737 300-800 |
+| BOEING 737-400 | B737 300-800 |
+| BOEING 737-500 | B737 300-800 |
+| BOEING 737-800 | B737 300-800 |
+| BOEING 747 | B747 100-300 |
+| BOEING 747–400 | B747 400 |
+| BOEING 757 | B757/767 |
+| BOEING 767 | B757/767 |
+| C-300 SER.PIST.ENG | ME piston(land) |
+| CATALINA PBY-5A | Catalina |
+| CESSNA 208 | Cessna SET |
+| CESSNA 310 | ME piston(land) |
+| CESSNA 337 | ME piston(land) |
+| CESSNA 340 | ME piston(land) |
+| CESSNA 400 SERIES | ME piston(land) |
+| CESSNA 402 | ME piston(land) |
+| CESSNA 404 | ME piston(land) |
+| CESSNA 406 | C406/425 |
+| CESSNA 414 | ME piston(land) |
+| CESSNA 421 | ME piston(land) |
+| CESSNA 425 | C406/425 |
+| CESSNA 441 | C441 |
+| CESSNA 500 SERIES | C500/550/560 |
+| CESSNA 550 | C500/550/560 |
+| CESSNA 650 | C650 |
+| CESSNA T303 | ME piston(land) |
+| DAUPHIN SA 365 | SA 365/ 365 N |
+| DHC-2 | SE piston(land) |
+| DHC-6 | DHC6 |
+| DHC-8 | DHC8 |
+| DORNIER 228 | D228 |
+| DORNIER 328 | DO328 |
+| DOUGLAS DC- 9 | DC9 10–50 |
+| DOUGLAS DC-10 | DC10 |
+| DOUGLAS DC-2 | DC2 |
+| DOUGLAS DC-3 | DC3 |
+| DOUGLAS DC-4 | DC4 |
+| DOUGLAS DC-8 | DC8 |
+| DOUGLAS DC-9–80 | DC9 80/MD88/MD90 |
+| DOUGLAS MD-11 | MD11 |
+| EMB-110 | EMB110 |
+| EMBRAER 120 | EMB120 |
+| ENSTROM 280 FX | E N F 280 |
+| FALCON 900 | Falcon50/900 |
+| FALCON 900EX | Falcon50/900 |
+| FOKKER 0100 | F70/100 |
+| FOKKER 050 | F50 |
+| FOKKER 70 | F70/100 |
+| FOKKER 70/100 | F70/100 |
+| FOKKER F-27 | F27 |
+| FOKKER F-28 | F28 |
+| GRUMMAN G-164 | SE piston(land) |
+| HARVARD | SE piston(land) |
+| HFB-320 | HFB320 |
+| HILLER-12 | UH 12/ UH 12 T |
+| HS-125 | HS125 |
+| HUGHES 269/300 | HU 269 |
+| HUGHES 369/500 | HU 369 |
+| JETSTREAM 31 | Jetstream31/32 |
+| KEN BROCK KB-2 | B8/KB-2 series |
+| LEARJET | Learjet20/30 |
+| LOCKHEED L-382 | Hercules |
+| MD-900 | MD 900 |
+| METRO II | SA226AT/TC/227 |
+| MITSUBISHI MU2B | MU2B |
+| MYSTERE 20 | Falcon20/200 |
+| MYSTERE 50 | Falcon50/900 |
+| NOMAD N24A | Asta MET |
+| PA-31T TURBO PROP | PA31/42 |
+| PILATUS PC-6 | SE piston(land) |
+| PILATUS PC6 TURBO | PC6 |
+| PIPER AEROSTAR 601P | ME piston(land) |
+| PIPER PA-23 | ME piston(land) |
+| PIPER PA-31 | ME piston(land) |
+| PIPER PA-31T2 | PA31/42 |
+| PIPER PA-34 | ME piston(land) |
+| PIPER PA-42 | PA31/42 |
+| PIPER PA-44 | ME piston(land) |
+| ROBINSON R22 | R 22 |
+| ROBINSON R44 | R 44 |
+| ROCKWELL 700 | ME piston(land) |
+| ROGWELL AC 690B | Rockwell MET |
+| SA 330 J | SA 330 |
+| SA 365 | SA 365/ 365 N |
+| SA 315 | SA 316/319/315 |
+| SAAB SF340 | SAAB340 |
+| SCHWEIZER 330/269D | HU 369 |
+| SIKORSKY S-58T | SK 55/ 58/ 58 T |
+| SIKORSKY S-61N | SK 61 |
+| SIKORSKY S-76 | SK 76/ 76 B/ 76C |
+| SIKORSKY S-76A | SK 76/ 76 B/ 76C |
+| SN 601 | SN601 |
+| SOCATA. TBM-700 | Aerospatiale SET |
+| VK1A | SE piston(land) |
+| VK2A | ME piston(land) |
+| VK5 | TMG |
+
+## Bijlage II. behorende bij [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=18&z=2008-05-28&g=2008-05-28) van het Besluit bewijzen van bevoegdheid voor de luchtvaart
+
+Verklarende afkortingenlijst:
+
+- •. ACS: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten met behulp van surveillanceapparatuur (Area Control Surveillance);
+
+- •. ADR: bevoegdheid van:
+
+- o. vluchtinformatieverstrekkers tot het verstrekken van advies en inlichtingen aan luchtvaartterreinverkeer en luchtverkeer op en nabij een luchtvaartterrein dan wel het verstrekken van alarmering;
+
+- o. luchtvaartterreininformatieverstrekkers tot het verstrekken van luchtvaartterreininformatie aan luchtvaartterreinverkeer op een niet gecontroleerd luchtvaartterrein (Aerodrome);
+
+- •. ACP: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten zonder surveillanceapparatuur (Area Control Procedural);
+
+- •. ADI: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten ten behoeve van het luchtvaartterreinverkeer op of in de nabijheid van een luchtvaartterrein dat over gepubliceerde procedures voor nadering of vertrek op instrumenten beschikt (Aerodrome Control Instrument);
+
+- •. ADR: bevoegdheid van:
+
+- o. vluchtinformatieverstrekkers tot het verstrekken van advies en inlichtingen aan luchtvaartterreinverkeer en luchtverkeer op en nabij een luchtvaartterrein dan wel het verstrekken van alarmering;
+
+- o. 2° luchtvaartterreininformatieverstrekkers tot het verstrekken van luchtvaartterreininformatie aan luchtvaartterreinverkeer op een luchtvaartterrein (Aerodrome);
+
+- •. ADS: bevoegdheid tot het verlenen van naderingsluchtverkeersleidingsdiensten en verstrekken van luchtverkeersleiding met behulp van een ADS-systeem waarmee luchtvaartuigen onder andere informatie uitzenden over hun actuele positie, snelheid, vluchtplan en type luchtvaartuig (Automatic Dependent Surveillance);
+
+- •. ADV: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten ten behoeve van het luchtvaartterreinverkeer op of in de nabijheid van een luchtvaartterrein dat niet over gepubliceerde procedures voor nadering of vertrek op instrumenten beschikt (Aerodrome Control Visual);
+
+- •. AER: bevoegdheid tot het verstrekken van advies en inlichtingen aan luchtverkeer dan wel tot verstrekken van alarmering (Area);
+
+- •. AIR: bevoegdheid tot het verstrekken van luchtverkeersleiding aan luchtverkeer en luchtvaartterreinverkeer met uitzondering van grondverkeer zonder gebruik te maken van surveillance apparatuur;
+
+- •. APN: bevoegdheid tot het verstrekken van dienstberichten aan voertuigen niet zijnde luchtvaartuigen op en in het nabijheid van een luchtvaartterrein (Apron);
+
+- •. APP: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten ten behoeve van aankomende, vertrekkende of doorvliegende vliegtuigen zonder hulp van surveillanceapparatuur (Approach Control Procedural);
+
+- •. APS: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten ten behoeve van aankomende, vertrekkende of doorvliegende vliegtuigen met behulp van surveillanceapparatuur (Approach Control Surveillance);
+
+- •. ASE: bevoegdheid tot het instellen van een onderzoek naar de kennis, bedrevenheid en ervaring van luchtverkeersleider, leerling luchtverkeersleider en vluchtinformatieverstrekker door middel van een continue beoordeling (Assessor);
+
+- •. CLD: bevoegdheid tot het verstrekken van een klaring in opdracht en onder verantwoordelijkheid van een luchtverkeersleider (Clearance Delivery);
+
+- •. DIS: met bevoegdheid tot het door:
+
+- o. een luchtverkeersleider verstrekken van luchtverkeersleiding aan luchtverkeer dat deelneemt aan een luchtvaartvertoning;
+
+- o. een luchtvaartterreininformatieverstrekker verstrekken van luchtvaartterreinformatie aan luchtverkeer dat deelneemt aan een luchtvaartvertoning.
+
+- •. EXM: bevoegdheid tot het instellen van een onderzoek naar de kennis, bedrevenheid en ervaring van luchtverkeersleider, leerling luchtverkeersleider, vluchtinformatieverstrekker en luchtvaartterreininformatieverstrekker door het afnemen van een examen (Examiner);
+
+- •. GMC: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten aan grondverkeer zonder gebruik te maken van surveillance apparatuur (Ground Movement Control) ;
+
+- •. GMS: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten met behulp van grondsurveillance apparatuur (Ground Movement Surveilance);
+
+- •. OFS: bevoegdheid tot het verstrekken van luchtvaartterreininformatie aan luchtvaartterreinverkeer op en nabij een offshore productieplatform (Offshore);
+
+- •. OJT: bevoegdheid tot het geven van praktijkinstructie op één of meer operationele posities (On the Job Training instructor);
+
+- •. PAR: bevoegdheid tot het verlenen van luchtverkeersleidingdiensten aan luchtverkeer in de eindnadering met behulp van precisie-radarnaderingsapparatuur (Precision Approach Radar);
+
+- •. SRA: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten aan luchtverkeer in de eindnadering met behulp van surveillance apparatuur (Surveillance Rader Approach);
+
+- •. TCL: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten in een naderingsluchtverkeersleidinggebied of in aangrenzende gebieden met behulp van surveillanceapparatuur (Terminal Control);
+
+- •. TWR: bevoegdheid tot het verlenen van luchtverkeersleidingsdiensten vanuit één operationele aan luchtvaartterreinverkeer zonder gebruik te maken van surveillance apparatuur op luchtvaarterreinen waar de algemene bevoegdverklaringen GMC en AIR niet van toepassing zijn (Tower Control);
+
+- •. RAD: bevoegdheid tot:
+
+- –. het verstrekken van plaatselijke luchtverkeersleiding met behulp van primaire of secundaire radarapparatuur indien AIR, TWR, APS, of ACS van toepassing zijn;
+
+- –. het verstrekken van advies en inlichtingen met behulp van primaire of secundaire radarapparatuur indien AER van toepassing is (Aerodrome Radar Control);
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlagen in het Staatsblad zal worden geplaatst.
