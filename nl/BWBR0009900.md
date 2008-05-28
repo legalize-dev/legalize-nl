@@ -4,7 +4,7 @@ identifier: "BWBR0009900"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2007-11-22"
+last_updated: "2008-05-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009900"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
-- Air Operations Control Station Nieuw Milligen (AOCS Nieuw Milligen): dienstonderdeel van het Ministerie van Defensie belast met het verlenen van luchtverkeersdienstverlening;
+- Air Operations Control Station Nieuw Milligen (AOCS Nieuw Milligen): dienstonderdeel van het Ministerie van Defensie belast met het verlenen van luchtverkeersdiensten;
 
 - Air Traffic Flow Management (ATFM): luchtverkeersstroomregeling; een dienstverlening aan het luchtverkeer met het doel een optimale luchtverkeersstroom te verzekeren naar of via gebieden waarin het luchtverkeersaanbod de beschikbare capaciteit van het luchtverkeersleidingssysteem overtreft;
 
-- Area Control Centre Amsterdam (ACC Amsterdam): een algemene luchtverkeersleidingsdienst belast met de uitoefening van luchtverkeersleiding, vluchtinformatieverstrekking en alarmering;
+- Area Control Centre Amsterdam (ACC Amsterdam): een verlener van luchtverkeersdiensten, belast met het verlenen van luchtverkeersleidingsdiensten, vluchtinlichtingendiensten, alarmeringsdiensten en adviesdiensten voor het luchtverkeer;
 
 - ECAC-Staten: lid-staten van de European Civil Aviation Conference;
 
@@ -62,9 +62,9 @@ In deze regeling wordt verstaan onder:
 
 - luchtvaartgids: de luchtvaartgids, bedoeld in [artikel 61, onderdeel a, onder 1, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=61);
 
-- luchtvaartgids, volume I, hoofdstuk En Route (ENR): het hoofdstuk uit de luchtvaartgids dat handelt over ?En Route?;
+- luchtvaartgids, volume I, hoofdstuk En Route (ENR): het hoofdstuk uit de luchtvaartgids dat handelt over 'En Route';
 
-- luchtverkeersmeldingspost; een luchtverkeersdienst belast met het ontvangen van vliegplannen vóór de vlucht en rapporten betreffende de luchtverkeersdienstverlening;
+- luchtverkeersmeldingspost: een verlener van luchtverkeersdiensten, belast met het ontvangen van vliegplannen vóór de vlucht en rapporten betreffende het verlenen van luchtverkeersdiensten;
 
 - North Sea Area Amsterdam (NSA Amsterdam): gebied, als aangegeven in [bijlage A van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=A), onder verwijzing naar de luchtvaartgids, volume I, hoofdstuk ENR 6;
 
@@ -122,35 +122,35 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Een vliegplan voor een GAT IFR-vlucht of een gedeelte daarvan wordt door middel van een vliegplanverzendsysteem vanaf het luchtvaartterrein van vertrek ingediend bij het IFPS. Indien op het luchtvaartterrein van vertrek geen vliegplanverzendsysteem beschikbaar is, wordt het vliegplan ingediend bij een luchtverkeersmeldingspost, als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=B&z=2007-11-22&g=2007-11-22).
+1. Een vliegplan voor een GAT IFR-vlucht of een gedeelte daarvan wordt door middel van een vliegplanverzendsysteem vanaf het luchtvaartterrein van vertrek ingediend bij het IFPS. Indien op het luchtvaartterrein van vertrek geen vliegplanverzendsysteem beschikbaar is, wordt het vliegplan ingediend bij een luchtverkeersmeldingspost, als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=B&z=2008-05-28&g=2008-05-28).
 
-2. Een vliegplan voor andere vluchten als bedoeld in het eerste lid, wordt ingediend bij een luchtverkeersmeldingspost op het luchtvaartterrein van vertrek. Indien op het luchtvaartterrein van vertrek geen luchtverkeersmeldingspost aanwezig is wordt het vliegplan ingediend bij een luchtverkeersmeldingspost, als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=B&z=2007-11-22&g=2007-11-22).
+2. Een vliegplan voor andere vluchten als bedoeld in het eerste lid, wordt ingediend bij een luchtverkeersmeldingspost op het luchtvaartterrein van vertrek. Indien op het luchtvaartterrein van vertrek geen luchtverkeersmeldingspost aanwezig is wordt het vliegplan ingediend bij een luchtverkeersmeldingspost, als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=B&z=2008-05-28&g=2008-05-28).
 
 3. Een vliegplan wordt ten minste zestig minuten vóór de aanvang van de vlucht ingediend. Wanneer op de voorgenomen route maatregelen van kracht zijn met betrekking tot ATFM, wordt een vliegplan ten minste drie uur vóór de aanvang van de vlucht ingediend.
 
-4. Indien een vliegplan slechts betrekking heeft op een deel van de vlucht en tijdens de vlucht per radio wordt gezonden naar de betrokken luchtverkeersdienst, geschiedt dit, in afwijking van het derde lid, op een zodanig tijdstip, dat de ontvangst door die luchtverkeersdienst is verzekerd op ten minste tien minuten vóór het tijdstip waarop wordt verwacht dat het luchtvaartuig de grens van het betrokken luchtverkeersleidingsgebied zal passeren.
+4. Indien een vliegplan slechts betrekking heeft op een deel van de vlucht en tijdens de vlucht per radio wordt gezonden naar de betrokken verlener van luchtverkeersdiensten, geschiedt dit, in afwijking van het derde lid, op een zodanig tijdstip, dat de ontvangst door die verlener van luchtverkeersdiensten is verzekerd op ten minste tien minuten vóór het tijdstip waarop wordt verwacht dat het luchtvaartuig de grens van het betrokken luchtverkeersleidingsgebied zal passeren.
 
-5. In afwijking van het tweede en het derde lid, wordt een vliegplan als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2007-11-22&g=2007-11-22), voor de aanvang van de vlucht ingediend, bij de havendienst van het luchtvaartterrein van vertrek en bij de havendienst van het luchtvaartterrein van bestemming.
+5. In afwijking van het tweede en het derde lid, wordt een vliegplan als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2008-05-28&g=2008-05-28), voor de aanvang van de vlucht ingediend, bij de havendienst van het luchtvaartterrein van vertrek en bij de havendienst van het luchtvaartterrein van bestemming.
 
 ##### Artikel 5. Wijzigen en annuleren van het ingediende vliegplan
 
 1. Indien het vertrek van een GAT IFR-vlucht of een gedeelte daarvan, waarvoor een vliegplan is ingediend, dertig minuten of langer wordt vertraagd, wordt het vliegplan gewijzigd, dan wel wordt een nieuw vliegplan ingediend door middel van het vliegplanverzendsysteem bij het IFPS nadat het oorspronkelijke vliegplan is geannuleerd.
 
-2. Indien het vertrek van een vlucht anders dan bedoeld in het eerste lid, waarvoor een vliegplan is ingediend, dertig minuten of langer wordt vertraagd, wordt het vliegplan gewijzigd, dan wel wordt een nieuw vliegplan ingediend bij de betrokken luchtverkeersdienst nadat het oorspronkelijke vliegplan is geannuleerd.
+2. Indien het vertrek van een vlucht anders dan bedoeld in het eerste lid, waarvoor een vliegplan is ingediend, dertig minuten of langer wordt vertraagd, wordt het vliegplan gewijzigd, dan wel wordt een nieuw vliegplan ingediend bij de betrokken verlener van luchtverkeersdiensten nadat het oorspronkelijke vliegplan is geannuleerd.
 
 3. Indien een GAT IFR-vlucht of een gedeelte daarvan, waarvoor een vliegplan is ingediend, geen doorgang vindt, wordt door middel van het vliegplanverzendsysteem het IFPS daarover terstond ingelicht door annulering van het vliegplan.
 
-4. Indien een vlucht anders dan bedoeld in het eerste lid, waarvoor een vliegplan is ingediend geen doorgang vindt wordt de betrokken luchtverkeersdienst daarover terstond ingelicht door annulering van het vliegplan.
+4. Indien een vlucht anders dan bedoeld in het eerste lid, waarvoor een vliegplan is ingediend geen doorgang vindt wordt de betrokken verlener van luchtverkeersdiensten daarover terstond ingelicht door annulering van het vliegplan.
 
 ##### Artikel 6. Wijze van afsluiten van het vliegplan
 
-1. Zo spoedig mogelijk na afloop van een vlucht of deel van een vlucht, waarvoor een vliegplan is ingediend tot aan het luchtvaartterrein van bestemming, wordt in persoon of per radio een aankomstmelding gedaan aan de betrokken luchtverkeersdienst op het luchtvaartterrein van aankomst.
+1. Zo spoedig mogelijk na afloop van een vlucht of deel van een vlucht, waarvoor een vliegplan is ingediend tot aan het luchtvaartterrein van bestemming, wordt in persoon of per radio een aankomstmelding gedaan aan de betrokken verlener van luchtverkeersdiensten op het luchtvaartterrein van aankomst.
 
-2. Een vliegplan dat slechts betrekking heeft op een deel van de vlucht, anders dan tot het luchtvaartterrein van bestemming, wordt afgesloten door een desbetreffende aankomstmelding aan de betrokken luchtverkeersdienst.
+2. Een vliegplan dat slechts betrekking heeft op een deel van de vlucht, anders dan tot het luchtvaartterrein van bestemming, wordt afgesloten door een desbetreffende aankomstmelding aan de betrokken verlener van luchtverkeersdiensten.
 
-3. Indien op het luchtvaartterrein van bestemming geen luchtverkeersdienst is gevestigd, wordt de aankomstmelding zo spoedig mogelijk na aankomst en op de snelst mogelijke wijze gedaan aan de luchtverkeersdienst als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=B&z=2007-11-22&g=2007-11-22).
+3. Indien op het luchtvaartterrein van bestemming geen verlener van luchtverkeersdiensten is gevestigd, wordt de aankomstmelding zo spoedig mogelijk na aankomst en op de snelst mogelijke wijze gedaan aan de verlener van luchtverkeersdiensten als vermeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&bijlage=B&z=2008-05-28&g=2008-05-28).
 
-4. Indien bekend is dat de verbindingsmiddelen op het luchtvaartterrein van aankomst ontoereikend zijn en er geen vervangende handelwijze is voorgeschreven, wordt de aankomstmelding voor zover mogelijk direct vóór de landing per radio gedaan aan de betrokken luchtverkeersdienst.
+4. Indien bekend is dat de verbindingsmiddelen op het luchtvaartterrein van aankomst ontoereikend zijn en er geen vervangende handelwijze is voorgeschreven, wordt de aankomstmelding voor zover mogelijk direct vóór de landing per radio gedaan aan de betrokken verlener van luchtverkeersdiensten.
 
 5. Een aankomstmelding bevat de volgende gegevens:
 
@@ -164,27 +164,27 @@ In deze regeling wordt verstaan onder:
 
 - e. de tijd van aankomst.
 
-6. Het eerste lid is in het vluchtinformatiegebied Amsterdam niet van toepassing, indien de vlucht volgens vliegplan wordt beëindigd op een gecontroleerd luchtvaartterrein tijdens de periode waarin plaatselijke luchtverkeersleiding wordt verleend.
+6. Het eerste lid is in het vluchtinformatiegebied Amsterdam niet van toepassing, indien de vlucht volgens vliegplan wordt beëindigd op een gecontroleerd luchtvaartterrein tijdens de periode waarin plaatselijke verlener van luchtverkeersleidingsdiensten wordt verleend.
 
 #### Afwijkingen voor bepaalde vluchten
 
 ##### Artikel 7
 
-De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2007-11-22&g=2007-11-22), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=4&z=2007-11-22&g=2007-11-22), zijn in het vluchtinformatiegebied Amsterdam niet van toepassing op een vlucht vertrekkend van een gecontroleerd luchtvaartterrein, indien de betrokken luchtverkeersleidingsdienst anders heeft bepaald, met dien verstande dat geen afbreuk wordt gedaan aan de volledigheid en tijdige verzending van vliegplangegevens ten behoeve van andere luchtverkeersdiensten.
+De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2008-05-28&g=2008-05-28), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=4&z=2008-05-28&g=2008-05-28), zijn in het vluchtinformatiegebied Amsterdam niet van toepassing op een vlucht vertrekkend van een gecontroleerd luchtvaartterrein, indien de betrokken verlener van luchtverkeersdiensten anders heeft bepaald, met dien verstande dat geen afbreuk wordt gedaan aan de volledigheid en tijdige verzending van vliegplangegevens ten behoeve van andere verleners van luchtverkeersdiensten.
 
 ##### Artikel 8
 
 1. Indien op het luchtvaartterrein van vertrek geen luchtverkeersmeldingspost aanwezig is dan wel gesloten is, wordt vóór de aanvang van de in het eerste lid genoemde vlucht het vliegplan bij de havenmeester of de vliegcoördinator van het luchtvaartterrein van vertrek ingediend.
 
-2. De in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2007-11-22&g=2007-11-22), opgenomen vliegplangegevens worden vóór de aanvang van de in het eerste lid genoemde vlucht gemeld aan de havenmeester of de vliegcoördinator van het luchtvaart-terrein van bestemming.
+2. De in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2008-05-28&g=2008-05-28), opgenomen vliegplangegevens worden vóór de aanvang van de in het eerste lid genoemde vlucht gemeld aan de havenmeester of de vliegcoördinator van het luchtvaart-terrein van bestemming.
 
-3. De aankomstmelding wordt gedaan aan de havenmeester of de vliegcoördinator van het luchtvaartterrein van aankomst tenzij de landing plaatsvindt op een gecontroleerd militair luchtvaartterrein tijdens de openstellingsuren van de plaatselijke luchtverkeersleidingsdienst.
+3. De aankomstmelding wordt gedaan aan de havenmeester of de vliegcoördinator van het luchtvaartterrein van aankomst tenzij de landing plaatsvindt op een gecontroleerd militair luchtvaartterrein tijdens de openstellingsuren van de plaatselijke verlener van luchtverkeersleidingsdiensten.
 
 4. Indien de aankomst plaats vindt op een luchtvaartterrein anders dan het luchtvaartterrein van bestemming volgens het geldende vliegplan, wordt de aankomstmelding zo spoedig mogelijk na afloop van de vlucht telefonisch gedaan aan de havenmeester, de vliegcoördinator of de luchtverkeersmeldingspost van het luchtvaartterrein van bestemming.
 
 ##### Artikel 9. Initiëren van alarmering voor vluchten naar ongecontroleerde luchtvaartterreinen
 
-1. Voor een vlucht met als bestemming een ongecontroleerd luchtvaartterrein in Nederland, of een gecontroleerd militair luchtvaartterrein in het vluchtinformatiegebied Amsterdam waarvoor recreatief burgermedegebruik is toegestaan, is de havenmeester of de vliegcoördinator buiten de openstellingsuren van de plaatselijke luchtverkeersleidingsdienst van het luchtvaartterrein van bestemming, als de vlucht bij hem bekend is, belast met het initiëren van de alarmering.
+1. Voor een vlucht met als bestemming een ongecontroleerd luchtvaartterrein in Nederland, of een gecontroleerd militair luchtvaartterrein in het vluchtinformatiegebied Amsterdam waarvoor recreatief burgermedegebruik is toegestaan, is de havenmeester of de vliegcoördinator buiten de openstellingsuren van de plaatselijke verlener van luchtverkeersleidingsdiensten van het luchtvaartterrein van bestemming, als de vlucht bij hem bekend is, belast met het initiëren van de alarmering.
 
 2. De havenmeester of de vliegcoördinator van het luchtvaartterrein van bestemming, vraagt, als de vlucht bij hem bekend is en de aankomstmelding van het luchtvaartuig niet is verkregen binnen dertig minuten na de verwachte tijd van aankomst volgens het ingediende vliegplan, de actuele tijd van vertrek alsmede de van belang zijnde gegevens van het geldende vliegplan telefonisch op bij de havenmeester, de vliegcoördinator of de luchtverkeersmeldingspost van het luchtvaartterrein van vertrek.
 
@@ -198,7 +198,7 @@ Voor vluchten die zijn vertrokken van het luchtvaartterrein Valkenburg of Lelyst
 
 ##### Artikel 10. Gebruik RPL
 
-1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2007-11-22&g=2007-11-22), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=4&z=2007-11-22&g=2007-11-22) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=5&z=2007-11-22&g=2007-11-22) zijn niet van toepassing op een IFR-vlucht waarvoor een RPL is ingediend. Een RPL kan worden gebruikt voor een IFR-vlucht die regelmatig wordt uitgevoerd op dezelfde dagen van opeenvolgende weken voor ten minste 10 keer, dan wel op elke dag over een periode van ten minste 10 opeenvolgende dagen.
+1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3&z=2008-05-28&g=2008-05-28), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=4&z=2008-05-28&g=2008-05-28) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=5&z=2008-05-28&g=2008-05-28) zijn niet van toepassing op een IFR-vlucht waarvoor een RPL is ingediend. Een RPL kan worden gebruikt voor een IFR-vlucht die regelmatig wordt uitgevoerd op dezelfde dagen van opeenvolgende weken voor ten minste 10 keer, dan wel op elke dag over een periode van ten minste 10 opeenvolgende dagen.
 
 2. Een RPL wordt slechts gebruikt voor vluchten, die vanaf het luchtvaartterrein van vertrek tot het luchtvaartterrein van bestemming worden uitgevoerd.
 
@@ -206,11 +206,11 @@ Voor vluchten die zijn vertrokken van het luchtvaartterrein Valkenburg of Lelyst
 
 1. Een RPL wordt ingediend in de vorm van een lijst die de vereiste vliegplangegevens bevat, gebruik makend van het model in bijlage C1, overeenkomstig de aanwijzigingen gegeven in bijlage C2 of in een andere overeengekomen vorm.
 
-2. De lijst wordt ingediend bij het IFPS, welke instantie zorg draagt voor het doorgeven van de toepasselijke vliegplangegevens aan andere betrokken luchtverkeersdiensten in de desbetreffende vluchtinformatiegebieden.
+2. De lijst wordt ingediend bij het IFPS, welke instantie zorg draagt voor het doorgeven van de toepasselijke vliegplangegevens aan andere betrokken verleners van luchtverkeersdiensten in de desbetreffende vluchtinformatiegebieden.
 
 3. Een RPL wordt tijdig ingediend doch uiterlijk op een zodanig tijdstip dat de geadresseerde ten minste 21 dagen voorafgaand aan de datum van de eerste vlucht van de betrokken reeks vluchten wordt bereikt.
 
-4. De in bijlage C1 genoemde vliegplangegevens worden verstrekt. Voor zover de betrokken luchtverkeersdienst dit nodig acht, worden vliegplangegevens verstrekt inzake de berekende duur van de vlucht vanaf het opstijgen tot het passeren van de grens tussen bepaalde vluchtinformatiegebieden en de voornaamste uitwijkhaven.
+4. De in bijlage C1 genoemde vliegplangegevens worden verstrekt. Voor zover de betrokken verlener van luchtverkeersdiensten dit nodig acht, worden vliegplangegevens verstrekt inzake de berekende duur van de vlucht vanaf het opstijgen tot het passeren van de grens tussen bepaalde vluchtinformatiegebieden en de voornaamste uitwijkhaven.
 
 5. Vliegplangegevens die niet van repeterende aard zijn worden door of namens de gezagvoerder ten tijde van het vertrek van het luchtvaartuig verzonden naar het IFPS.
 
@@ -218,15 +218,15 @@ Voor vluchten die zijn vertrokken van het luchtvaartterrein Valkenburg of Lelyst
 
 1. RPL-wijzigingen van duurzame aard, betreffende het invoegen van nieuwe vluchten en het annuleren of wijzigen van bestaande vluchten, worden ingediend in de vorm van gewijzigde lijsten, die het IFPS ten minste twee weken voordat ze van kracht worden bereiken.
 
-2. RPL-wijzigingslijsten worden opgesteld overeenkomstig [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=11&z=2007-11-22&g=2007-11-22).
+2. RPL-wijzigingslijsten worden opgesteld overeenkomstig [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=11&z=2008-05-28&g=2008-05-28).
 
 ##### Artikel 13. RPL-wijziging van incidentele aard
 
-1. RPL-wijzigingen van incidentele aard met betrekking tot het type luchtvaartuig en de zogturbulentie-categorie, snelheid of kruishoogte, worden voor elke individuele vlucht zo snel mogelijk en niet later dan 60 minuten voor vertrek ingediend bij het IFPS. Slechts een wijziging van de kruishoogte kan bij het eerste radiocontact met de plaatselijke luchtverkeersleidingsdienst worden doorgegeven.
+1. RPL-wijzigingen van incidentele aard met betrekking tot het type luchtvaartuig en de zogturbulentie-categorie, snelheid of kruishoogte, worden voor elke individuele vlucht zo snel mogelijk en niet later dan 60 minuten voor vertrek ingediend bij het IFPS. Slechts een wijziging van de kruishoogte kan bij het eerste radiocontact met de verlener van plaatselijke luchtverkeersleidingsdiensten worden doorgegeven.
 
 2. Voor een incidentele wijziging van de identificatie van het luchtvaartuig, het luchtvaartterrein van vertrek, de route of het luchtvaartterrein van bestemming, wordt het repeterend vliegplan voor die dag geannuleerd, waarna een gewoon vliegplan wordt ingediend.
 
-3. Wanneer een vertraging wordt verwacht voor een bepaalde vlucht waarvoor een repeterend vliegplan is ingediend, die waarschijnlijk dertig minuten of meer zal bedragen ten opzichte van de in dat vliegplan opgegeven vertrektijd, wordt het IFPS hiervan onmiddellijk in kennis gesteld; bij niet nakoming hiervan kan het repeterend vliegplan voor die dag door één of meer van de betrokken luchtverkeersdiensten automatisch worden geannuleerd.
+3. Wanneer een vertraging wordt verwacht voor een bepaalde vlucht waarvoor een repeterend vliegplan is ingediend, die waarschijnlijk dertig minuten of meer zal bedragen ten opzichte van de in dat vliegplan opgegeven vertrektijd, wordt het IFPS hiervan onmiddellijk in kennis gesteld; bij niet nakoming hiervan kan het repeterend vliegplan voor die dag door één of meer van de betrokken verleners van luchtverkeersdiensten automatisch worden geannuleerd.
 
 4. Zodra bekend is dat een vlucht waarvoor een repeterend vliegplan is ingediend is geannuleerd, wordt dit onmiddellijk gemeld aan het IFPS.
 
@@ -244,7 +244,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling vliegplannen.
 
-## Bijlage B. behorende bij [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=4&z=2007-11-22&g=2007-11-22), en [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=6&z=2007-11-22&g=2007-11-22)
+## Bijlage B. behorende bij [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=4&z=2008-05-28&g=2008-05-28), en [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=6&z=2008-05-28&g=2008-05-28)
 
 | **Luchtvaartterrein** | **Bevoegde luchtverkeersmeldingspost** |
 | --- | --- |
