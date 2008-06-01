@@ -4,7 +4,7 @@ identifier: "BWBR0014611"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2004-12-08"
+last_updated: "2008-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014611"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Besluit:
 
 a. weg: weg, pad, erfverharding of gedeelte daarvan, alsmede andere grond die bestemd is om door rij- of ander verkeer te worden gebruikt, uitgezonderd aangrenzende bermen; b. stroken: gedeelten van de aan een weg grenzende bermen met een breedte van ten hoogste een halve meter; c. asbestbevattende weg: weg waarin de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, beide bepaald volgens NEN 5897, uitgave februari 1999, meer is dan honderd milligram per kilogram; d. asbestbevattende stroken: stroken waarin de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, beide bepaald volgens NEN 5897, uitgave februari 1999, meer is dan honderd milligram per kilogram; e. Eternit: Eternit Fabrieken B.V., Eternit B.V. of Eternit Holding B.V., te Hof van Twente; f. Asbestona: Martinit B.V. te Hof van Twente; g. eigenaar: eigenaar of degene die uit anderen hoofde bevoegd is handelingen te verrichten aan een asbestbevattende weg of aan asbestbevattende stroken; h. de minister: de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-2. Onder asbest, serpentijnasbest en amfiboolasbest wordt verstaan hetgeen daaronder wordt verstaan in het [Besluit asbestwegen Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0011619).
+2. Onder asbest, serpentijnasbest en amfiboolasbest wordt verstaan hetgeen daaronder wordt verstaan in het [Besluit asbestwegen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011619).
 
 ##### Artikel 2
 
@@ -91,7 +91,7 @@ De minister kan op aanvraag:
 
 ##### Artikel 4
 
-1. De minister kan een handeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08) slechts doen verrichten indien:
+1. De minister kan een handeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01) slechts doen verrichten indien:
 
 - a. de desbetreffende weg of strook niet in eigendom is van een publiekrechtelijke rechtspersoon, Asbestona, Eternit, een dochtermaatschappij van Asbestona of Eternit, een rechtspersoon waarin Asbestona of Eternit deelneemt of deelnam of een anderszins organisatorisch aan Asbestona of Eternit verbonden eenheid;
 
@@ -99,11 +99,11 @@ De minister kan op aanvraag:
 
 - c. deze in overeenstemming is met de bij of krachtens de wet gegeven regels.
 
-2. De minister kan een handeling als bedoeld in [artikel 3, onderdeel a, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08), slechts doen verrichten indien de eigenaar van de desbetreffende weg bereid is de meerkosten te vergoeden ingeval de kosten van het verrichten van een zodanige handeling, uitgezonderd de regiekosten, een bedrag van € 14,- per vierkante meter te boven gaan.
+2. De minister kan een handeling als bedoeld in [artikel 3, onderdeel a, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), slechts doen verrichten indien de eigenaar van de desbetreffende weg bereid is de meerkosten te vergoeden ingeval de kosten van het verrichten van een zodanige handeling, uitgezonderd de regiekosten, een bedrag van € 14,- per vierkante meter te boven gaan.
 
 ##### Artikel 5
 
-De minister kan aan de beschikking op een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08) nadere voorwaarden verbinden.
+De minister kan aan de beschikking op een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01) nadere voorwaarden verbinden.
 
 ##### Artikel 6
 
@@ -111,7 +111,7 @@ De minister draagt er zorg voor dat:
 
 - a. het verwijderen van asbest uit een asbestbevattende weg of asbestbevattende stroken plaatsvindt door een deskundig bedrijf, bedoeld in [artikel 1, onder c, van het Asbestverwijderingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006006&artikel=1);
 
-- b. de handelingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08), worden verricht overeenkomstig de bij of krachtens de wet gegeven regels.
+- b. de handelingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), worden verricht overeenkomstig de bij of krachtens de wet gegeven regels.
 
 ##### Artikel 7
 
@@ -119,49 +119,49 @@ Zolang de handelingen waarvoor een beschikking op de aanvraag is gegeven, nog ni
 
 ##### Artikel 8
 
-1. Aanvragen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08) kunnen uitsluitend worden ingediend door eigenaren van wegen of stroken.
+1. Aanvragen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01) kunnen uitsluitend worden ingediend door eigenaren van wegen of stroken.
 
 2. Een aanvraag wordt ingediend bij de gedeputeerde staten van de Provincie Overijssel, met gebruikmaking van het formulier dat is opgenomen in de bijlage bij deze regeling.
 
-3. Bij een aanvraag met betrekking tot een weg of strook, gelegen buiten een straal van twaalf kilometer rond de voormalige gemeente Goor of buiten een straal van twaalf kilometer rond de gemeente Harderwijk, te rekenen vanaf de gemeentegrenzen, worden stukken gevoegd waaruit blijkt dat de weg of strook niet is aan te merken als een weg of strook, als bedoeld in [artikel 2, tweede lid, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=1&artikel=2&z=2004-12-08&g=2004-12-08).
+3. Bij een aanvraag met betrekking tot een weg of strook, gelegen buiten een straal van twaalf kilometer rond de voormalige gemeente Goor of buiten een straal van twaalf kilometer rond de gemeente Harderwijk, te rekenen vanaf de gemeentegrenzen, worden stukken gevoegd waaruit blijkt dat de weg of strook niet is aan te merken als een weg of strook, als bedoeld in [artikel 2, tweede lid, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=1&artikel=2&z=2008-06-01&g=2008-06-01).
 
-4. Een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08) wordt ingediend voor 1 juni 2003, tenzij toepassing is gegeven aan [artikel 9, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=9&z=2004-12-08&g=2004-12-08).
+4. Een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01) wordt ingediend voor 1 juni 2003, tenzij toepassing is gegeven aan [artikel 9, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=9&z=2008-06-01&g=2008-06-01).
 
 ##### Artikel 9
 
-1. Een eigenaar van een weg kan een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08) slechts indienen voor één van de in [artikel 3, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08), genoemde handelingen, met dien verstande dat een aanvraag voor een handeling als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08), zowel betrekking kan hebben op het uit een asbestbevattende weg doen verwijderen van asbest als op het op die weg vervolgens zand of menggranulaat doen aanbrengen.
+1. Een eigenaar van een weg kan een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01) slechts indienen voor één van de in [artikel 3, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), genoemde handelingen, met dien verstande dat een aanvraag voor een handeling als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), zowel betrekking kan hebben op het uit een asbestbevattende weg doen verwijderen van asbest als op het op die weg vervolgens zand of menggranulaat doen aanbrengen.
 
-2. Indien een aanvraag als bedoeld in het eerste lid wordt afgewezen omdat de aanvraag betrekking heeft op een weg als bedoeld in [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=1&artikel=2&z=2004-12-08&g=2004-12-08), stelt de minister in afwijking van het eerste lid de betrokken eigenaar in de gelegenheid binnen vier weken een aanvraag voor één van de andere in [artikel 3, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08), genoemde handelingen in te dienen.
+2. Indien een aanvraag als bedoeld in het eerste lid wordt afgewezen omdat de aanvraag betrekking heeft op een weg als bedoeld in [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=1&artikel=2&z=2008-06-01&g=2008-06-01), stelt de minister in afwijking van het eerste lid de betrokken eigenaar in de gelegenheid binnen vier weken een aanvraag voor één van de andere in [artikel 3, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), genoemde handelingen in te dienen.
 
-3. Indien een aanvraag als bedoeld in het eerste lid wordt afgewezen omdat het doen verrichten van de handeling waarop de aanvraag betrekking heeft, in strijd zou zijn met het ter plaatse geldende bestemmingsplan of de krachtens dat plan gestelde eisen, of voor het doen verrichten van die handeling een aanlegvergunning als bedoeld in [artikel 14 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=14) niet wordt verleend, stelt de minister in afwijking van het eerste lid de betrokken eigenaar in de gelegenheid binnen vier weken een aanvraag voor één van de andere in [artikel 3, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08), genoemde handelingen in te dienen.
+3. Indien een aanvraag als bedoeld in het eerste lid wordt afgewezen omdat het doen verrichten van de handeling waarop de aanvraag betrekking heeft, in strijd zou zijn met het ter plaatse geldende bestemmingsplan of de krachtens dat plan gestelde eisen, of voor het doen verrichten van die handeling een aanlegvergunning als bedoeld in [artikel 14 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=14) niet wordt verleend, stelt de minister in afwijking van het eerste lid de betrokken eigenaar in de gelegenheid binnen vier weken een aanvraag voor één van de andere in [artikel 3, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), genoemde handelingen in te dienen.
 
 4. De termijn, bedoeld in het tweede en derde lid, vangt aan met ingang van de dag na die waarop de desbetreffende beschikking op de voorgeschreven wijze is bekendgemaakt.
 
 ##### Artikel 10
 
-Alvorens een besluit op een aanvraag voor een handeling als bedoeld in [artikel 3, onderdeel a, onder 2° of 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08), te nemen, geeft de minister de betrokken eigenaar schriftelijk een raming van de door de eigenaar te vergoeden meerkosten en stelt hij de eigenaar binnen vier weken na de dag waarop de raming aan de betrokken eigenaar is toegezonden, in de gelegenheid:
+Alvorens een besluit op een aanvraag voor een handeling als bedoeld in [artikel 3, onderdeel a, onder 2° of 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), te nemen, geeft de minister de betrokken eigenaar schriftelijk een raming van de door de eigenaar te vergoeden meerkosten en stelt hij de eigenaar binnen vier weken na de dag waarop de raming aan de betrokken eigenaar is toegezonden, in de gelegenheid:
 
-- a. schriftelijk aan de minister kenbaar te maken dat hij niet bereid is de meerkosten te vergoeden ingeval de kosten van het verrichten van de desbetreffende handeling, uitgezonderd de regiekosten, het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=4&z=2004-12-08&g=2004-12-08) voor die handeling genoemde bedrag per vierkante meter te boven gaan, en
+- a. schriftelijk aan de minister kenbaar te maken dat hij niet bereid is de meerkosten te vergoeden ingeval de kosten van het verrichten van de desbetreffende handeling, uitgezonderd de regiekosten, het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=4&z=2008-06-01&g=2008-06-01) voor die handeling genoemde bedrag per vierkante meter te boven gaan, en
 
-- b. de aanvraag zodanig te wijzigen dat de aanvraag betrekking heeft op een handeling als bedoeld in [artikel 3, onderdeel a, onder 1°, of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08).
+- b. de aanvraag zodanig te wijzigen dat de aanvraag betrekking heeft op een handeling als bedoeld in [artikel 3, onderdeel a, onder 1°, of b](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01).
 
 #### § 3. Saneringen voor de datum van inwerkingtreding van deze regeling
 
 ##### Artikel 11
 
-1. De minister kan op aanvraag een subsidie vaststellen ter vergoeding van kosten die een eigenaar van een asbestbevattende weg of asbestbevattende stroken heeft gemaakt in verband met het verrichten van een handeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08).
+1. De minister kan op aanvraag een subsidie vaststellen ter vergoeding van kosten die een eigenaar van een asbestbevattende weg of asbestbevattende stroken heeft gemaakt in verband met het verrichten van een handeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01).
 
-2. Met betrekking tot een subsidie in verband met de uitvoering van een handeling als bedoeld in [artikel 3, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08), worden als subsidiabele kosten in aanmerking genomen de kosten, inclusief de voorbereidingskosten, die de betrokken eigenaar voor het aanbrengen van een asfaltlaag ter afdekking van de asbestbevattende weg heeft gemaakt.
+2. Met betrekking tot een subsidie in verband met de uitvoering van een handeling als bedoeld in [artikel 3, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), worden als subsidiabele kosten in aanmerking genomen de kosten, inclusief de voorbereidingskosten, die de betrokken eigenaar voor het aanbrengen van een asfaltlaag ter afdekking van de asbestbevattende weg heeft gemaakt.
 
-3. Met betrekking tot een subsidie in verband met de uitvoering van een handeling als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08), worden als subsidiabele kosten in aanmerking genomen de kosten, inclusief de voorbereidingskosten, die de betrokken eigenaar voor het verwijderen van asbest uit de asbestbevattende stroken heeft gemaakt.
+3. Met betrekking tot een subsidie in verband met de uitvoering van een handeling als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), worden als subsidiabele kosten in aanmerking genomen de kosten, inclusief de voorbereidingskosten, die de betrokken eigenaar voor het verwijderen van asbest uit de asbestbevattende stroken heeft gemaakt.
 
-4. De subsidie in verband met de uitvoering van een handeling als bedoeld in [artikel 3, onderdeel a, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08), bedraagt € 14,- per vierkante meter weg waarop een klinkerbestrating of betonlaag is aangebracht, vermeerderd met de voorbereidingskosten die de betrokken eigenaar voor het aanbrengen van een klinkerbestrating of een betonlaag ter afdekking van de asbestbevattende weg heeft gemaakt.
+4. De subsidie in verband met de uitvoering van een handeling als bedoeld in [artikel 3, onderdeel a, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), bedraagt € 14,- per vierkante meter weg waarop een klinkerbestrating of betonlaag is aangebracht, vermeerderd met de voorbereidingskosten die de betrokken eigenaar voor het aanbrengen van een klinkerbestrating of een betonlaag ter afdekking van de asbestbevattende weg heeft gemaakt.
 
-5. Met betrekking tot een subsidie in verband met de uitvoering van een handeling als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2004-12-08&g=2004-12-08), worden als subsidiabele kosten in aanmerking genomen de kosten, inclusief de voorbereidingskosten, die de betrokken eigenaar voor het verwijderen van asbest uit de asbestbevattende weg en, indien van toepassing, voor het op de weg aanbrengen van zand of menggranulaat heeft gemaakt.
+5. Met betrekking tot een subsidie in verband met de uitvoering van een handeling als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), worden als subsidiabele kosten in aanmerking genomen de kosten, inclusief de voorbereidingskosten, die de betrokken eigenaar voor het verwijderen van asbest uit de asbestbevattende weg en, indien van toepassing, voor het op de weg aanbrengen van zand of menggranulaat heeft gemaakt.
 
 ##### Artikel 12
 
-De minister kan een subsidie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=3&artikel=11&z=2004-12-08&g=2004-12-08) slechts vaststellen indien:
+De minister kan een subsidie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=3&artikel=11&z=2008-06-01&g=2008-06-01) slechts vaststellen indien:
 
 - a. de opdracht voor het verrichten van de desbetreffende handeling is verleend tussen:
 
@@ -179,11 +179,11 @@ De minister kan een subsidie als bedoeld in [artikel 11](https://wetten.overheid
 
 ##### Artikel 13
 
-1. Aanvragen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=3&artikel=11&z=2004-12-08&g=2004-12-08) kunnen uitsluitend worden ingediend door eigenaren van wegen of stroken.
+1. Aanvragen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=3&artikel=11&z=2008-06-01&g=2008-06-01) kunnen uitsluitend worden ingediend door eigenaren van wegen of stroken.
 
 2. Een aanvraag wordt ingediend bij de gedeputeerde staten van de Provincie Overijssel, met gebruikmaking van het formulier dat is opgenomen in de bijlage bij deze regeling.
 
-3. Bij een aanvraag als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=3&artikel=11&z=2004-12-08&g=2004-12-08) worden stukken gevoegd waaruit blijkt:
+3. Bij een aanvraag als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=3&artikel=11&z=2008-06-01&g=2008-06-01) worden stukken gevoegd waaruit blijkt:
 
 - a. wat de gemaakte kosten zijn;
 
@@ -191,7 +191,7 @@ De minister kan een subsidie als bedoeld in [artikel 11](https://wetten.overheid
 
 - c. dat de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, beide bepaald volgens NEN 5897, uitgave februari 1999, in de weg of de stroken voor de uitvoering van de desbetreffende handeling meer was dan honderd milligram per kilogram.
 
-4. Een aanvraag als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=3&artikel=11&z=2004-12-08&g=2004-12-08) wordt ingediend voor 1 juni 2003.
+4. Een aanvraag als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014611&paragraaf=3&artikel=11&z=2008-06-01&g=2008-06-01) wordt ingediend voor 1 juni 2003.
 
 #### § 4. Slotbepalingen
 
