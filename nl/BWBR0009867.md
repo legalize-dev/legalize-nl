@@ -4,7 +4,7 @@ identifier: "BWBR0009867"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-03-01"
-last_updated: "2001-04-01"
+last_updated: "2008-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009867"
 soort: "AMvB"
@@ -54,13 +54,13 @@ In dit besluit wordt verstaan onder:
 
 - b. vergunning: vergunning als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&artikel=8);
 
-- c. stoffen: stoffen in de zin van de [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892);
+- c. stoffen: stoffen in de zin van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245);
 
-- d. preparaten: preparaten in de zin van de [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892);
+- d. preparaten: preparaten in de zin van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245);
 
-- e. gevaarlijke stoffen en preparaten: stoffen en preparaten die behoren tot een of meer van de in [artikel 34, tweede lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=34) aangewezen categorieën;
+- e. gevaarlijke stoffen en preparaten: stoffen en preparaten die behoren tot een of meer van de in [artikel 9.2.3.1, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.1) aangewezen categorieën;
 
-- f. genetisch gemodificeerde organismen: genetisch gemodificeerde organismen als bedoeld in [artikel 1, eerste lid, onder f, van het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=1).
+- f. genetisch gemodificeerde organismen: genetisch gemodificeerde organismen als bedoeld in [artikel 1, eerste lid, onder f, van het Besluit genetisch gemodificeerde organismen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=1).
 
 #### § 2. De wijze waarop de aanvraag om een vergunning moet geschieden
 
@@ -198,7 +198,7 @@ Indien de aanvraag mede betrekking heeft op het bezoeken van speciaal beschermd 
 
 - 2°. de precieze aanduiding van de plaatsen waar en data en tijden waarop deze handelingen worden uitgevoerd;
 
-- 3°. een specificatie van de gegevens als bedoeld in [artikel 3, onderdeel c tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=3&z=2001-04-01&g=2001-04-01), met betrekking tot deze handelingen;
+- 3°. een specificatie van de gegevens als bedoeld in [artikel 3, onderdeel c tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=3&z=2008-06-01&g=2008-06-01), met betrekking tot deze handelingen;
 
 - b. de wijze waarop wordt gewaarborgd dat aan het op het gebied betrekking hebbende beheersplan, als bedoeld in artikel 5 van bijlage V bij het Protocol, wordt voldaan.
 
