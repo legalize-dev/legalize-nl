@@ -4,7 +4,7 @@ identifier: "BWBR0011619"
 country: "nl"
 rank: "amvb"
 publication_date: "2008-06-01"
-last_updated: "2000-10-25"
+last_updated: "2008-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011619"
 soort: "AMvB"
@@ -80,7 +80,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=2&z=2000-10-25&g=2000-10-25), is tot 1 juli 2001 niet van toepassing op:
+1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=2&z=2008-06-01&g=2008-06-01), is tot 1 juli 2001 niet van toepassing op:
 
 - a. een weg die is gelegen in de gemeente Harderwijk of binnen een straal van twaalf kilometer rond die gemeente, te rekenen vanaf de gemeentegrens;
 
@@ -90,7 +90,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4
 
-Onze Minister kan, zolang aan een asbestbevattende weg als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=2&z=2000-10-25&g=2000-10-25), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=3&z=2000-10-25&g=2000-10-25), geen maatregelen zijn genomen die strekken tot het tegengaan van blootstelling van gebruikers van die weg aan asbest, de eigenaar of degene die uit anderen hoofde bevoegd is tot het nemen van die maatregelen, het nemen van tijdelijke maatregelen bij of aan die weg opleggen.
+Onze Minister kan, zolang aan een asbestbevattende weg als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=2&z=2008-06-01&g=2008-06-01), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), geen maatregelen zijn genomen die strekken tot het tegengaan van blootstelling van gebruikers van die weg aan asbest, de eigenaar of degene die uit anderen hoofde bevoegd is tot het nemen van die maatregelen, het nemen van tijdelijke maatregelen bij of aan die weg opleggen.
 
 ##### Artikel 5
 
@@ -104,11 +104,11 @@ Onze Minister kan, zolang aan een asbestbevattende weg als bedoeld in de [artike
 
 - c. de plaats of plaatsen op de weg, waar het asbest zich bevindt, en
 
-- d. de maatregelen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=2&z=2000-10-25&g=2000-10-25), die aan de weg zijn of worden genomen.
+- d. de maatregelen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=2&z=2008-06-01&g=2008-06-01), die aan de weg zijn of worden genomen.
 
 3. Op verzoek van Onze Minister legt de eigenaar van de weg binnen de door Onze Minister te bepalen termijn nadere gegevens over.
 
-4. Het eerste lid is niet van toepassing op een weg als bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=2&z=2000-10-25&g=2000-10-25), en [3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=3&z=2000-10-25&g=2000-10-25). Het eerste lid is voorts niet van toepassing op een weg waarvoor binnen de in de Saneringsregeling overige asbestwegen gestelde termijn overeenkomstig die regeling een aanvraag voor een saneringsmaatregel is ingediend.
+4. Het eerste lid is niet van toepassing op een weg als bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=2&z=2008-06-01&g=2008-06-01), en [3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01). Het eerste lid is voorts niet van toepassing op een weg waarvoor binnen de in de Saneringsregeling overige asbestwegen gestelde termijn overeenkomstig die regeling een aanvraag voor een saneringsmaatregel is ingediend.
 
 #### § 3. Overgangs- en slotbepalingen
 
@@ -118,6 +118,12 @@ Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verst
 
 ##### Artikel 7
 
-Dit besluit wordt aangehaald als: Besluit asbestwegen Wms.
+Dit besluit wordt aangehaald als: Besluit asbestwegen milieubeheer.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5a
+
+Dit besluit berust op [artikel 9.2.2.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
