@@ -4,7 +4,7 @@ identifier: "BWBR0023530"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023530"
 soort: "ministeriele-regeling"
@@ -47,8 +47,6 @@ Als wetgeving, genoemd in [artikel 4: 2, tweede lid, van het Besluit politiegege
 [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245)
 
 Europese Verordening Overbrengen Afvalstoffen ([Verordening (EEG) nr. 259/93](31993R0259) van de Raad van Europese Gemeenschappen van 1 februari 1993)
-
-[Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892)
 
 [Bestrijdingsmiddelenwet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002380)
 
