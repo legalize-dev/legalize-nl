@@ -4,7 +4,7 @@ identifier: "BWBR0018037"
 country: "nl"
 rank: "amvb"
 publication_date: "2008-06-01"
-last_updated: "2005-03-11"
+last_updated: "2008-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018037"
 soort: "AMvB"
@@ -55,7 +55,7 @@ Wijzigt het Reglement rijbewijzen.
 
 ##### Artikel III
 
-De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=14) en [15 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=15) zoals deze luidden voor het tijdstip van inwerkingtreding van dit besluit blijven ten aanzien van organisaties die de belangen van de automobielbranche behartigen als bedoeld in [artikel 9, onderdeel d, van dat reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9) en die voor de datum van inwerkingtreding van dit besluit als zodanig zijn aangewezen, van toepassing tot 1 maart 2007.
+De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=14) en [15 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=15) zoals deze luidden voor het tijdstip van inwerkingtreding van dit besluit blijven ten aanzien van organisaties die de belangen van de automobielbranche behartigen als bedoeld in [artikel 9, onderdeel d, van dat reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9) en die voor de datum van inwerkingtreding van dit besluit als zodanig zijn aangewezen, van toepassing tot 1 maart 2007. Ten aanzien van gegevens die voor 1 maart 2007 zijn verstrekt blijft het gebruik ten behoeve van de op het tijdstip van de verstrekking toegestane doeleinden toegestaan.
 
 ##### Artikel IV
 
