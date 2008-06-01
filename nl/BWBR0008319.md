@@ -4,7 +4,7 @@ identifier: "BWBR0008319"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-06"
-last_updated: "2004-04-01"
+last_updated: "2008-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008319"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ De Rijkscommissie heeft tot taak overleg te voeren over (inter)nationale ontwikk
 
 2. De leden zijn:
 
-- a. vertegenwoordigers van De Nederlandsche Bank N.V., die worden benoemd door de Minister van Financiën;
+- a. de voorzitter, die wordt benoemd door de Minister van Financiën;
 
 - b. deskundigen op het gebied van industrie, landbouw, handel, dienstverleningsbedrijven, bank- en verzekeringswezen en daarin werkzaam, die worden benoemd door de Minister van Financiën in overeenstemming met Onze Minister van Economische Zaken.
 
@@ -70,19 +70,23 @@ De Rijkscommissie heeft tot taak overleg te voeren over (inter)nationale ontwikk
 
 - e. twee vertegenwoordigers van de Minister van Financiën en de Minister van Economische Zaken, die worden benoemd door de Minister van Financiën.
 
-3. Naast de in het tweede lid genoemde leden kan de Minister van Financiën plaatsvervangende leden benoemen.
+3. Voor de in het tweede lid onder de onderdelen b. tot en met e. genoemde leden kan de Minister van Financiën plaatsvervangende leden benoemen.
+
+4. De Rijkscommissie wordt ondersteund door een secretaris, die benoemd en ontslagen wordt door de Minister van Financiën. De secretaris is geen lid van de Rijkscommissie.
 
 ##### Artikel 5
 
-1. De Minister van Financiën benoemt de voorzitter, de secretaris, en hun plaatsvervangers uit de kring van vertegenwoordigers van De Neder-landsche Bank N.V.
+1. De Rijkscommissie kan besluiten een van haar leden aan te wijzen als plaatsvervanger van de voorzitter voor het geval de voorzitter tijdelijk niet in staat zal zijn om zijn taak te vervullen en onverwijld in het voorzitterschap moet worden voorzien.
 
-2. De leden en de plaatsvervangende leden worden benoemd voor een periode van vijf jaar, waarna herbenoeming mogelijk is. De onder [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008319&artikel=4&z=2004-04-01&g=2004-04-01), bedoelde leden worden niet meer dan eenmaal herbenoemd.
+2. Indien de secretaris tijdelijk niet in staat is om zijn taak te vervullen en onverwijld in het secretariaat moet worden voorzien, zorgt de voorzitter dat de taak van de secretaris naar behoren wordt uitgevoerd.
 
-3. Bij tussentijdse vacature treedt de nieuwbenoemde, wat de duur van zijn benoeming betreft, in de plaats van zijn voorganger.
+3. De leden en de plaatsvervangende leden worden benoemd voor een periode van vijf jaar, waarna herbenoeming mogelijk is. De onder [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008319&artikel=4&z=2008-06-01&g=2008-06-01), bedoelde leden worden niet meer dan eenmaal herbenoemd.
 
-4. Het lidmaatschap vervalt indien een lid de functie, waaraan de deskundigheid wordt ontleend, niet meer bekleedt.
+4. Bij tussentijdse vacature treedt de nieuwbenoemde, wat de duur van zijn benoeming betreft, in de plaats van zijn voorganger.
 
-5. Het plaatsvervangend lidmaatschap vervalt indien een plaatsvervangend lid de functie, waaraan de deskundigheid wordt ontleend, niet meer bekleedt.
+5. Het lidmaatschap vervalt indien een lid de functie, waaraan de deskundigheid wordt ontleend, niet meer bekleedt.
+
+6. Het plaatsvervangend lidmaatschap vervalt indien een plaatsvervangend lid de functie, waaraan de deskundigheid wordt ontleend, niet meer bekleedt.
 
 ##### Artikel 6
 
@@ -102,7 +106,7 @@ De Rijkscommissie heeft tot taak overleg te voeren over (inter)nationale ontwikk
 
 ##### Artikel 8
 
-Het beheer van de bescheiden betreffende de werkzaamheden van de Rijkscommissie geschiedt op overeenkomstige wijze als bij de Nederlandsche Bank N.V. De bescheiden worden bij opheffing van de Rijkscommissie opgenomen in het centraal archief van het Ministerie van Financiën.
+Vervallen
 
 ##### Artikel 9
 
