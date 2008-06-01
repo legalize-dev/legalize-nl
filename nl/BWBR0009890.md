@@ -4,7 +4,7 @@ identifier: "BWBR0009890"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2007-02-01"
+last_updated: "2008-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009890"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit wordt verstaan onder kwikhoudend product: product of onderdeel daarvan, waarin kwik of een kwikverbinding is toegepast of waaraan kwik of een kwikverbinding is toegevoegd.
 
-2. Onder kwikhoudend product wordt niet verstaan een stof of een preparaat als bedoeld in [artikel 1 van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=1).
+2. Onder kwikhoudend product wordt niet verstaan een stof of een preparaat als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
 
 ##### Artikel 1.2
 
@@ -86,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2.2
 
-Het verbod, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2007-02-01&g=2007-02-01), geldt tot 1 januari 2002 niet met betrekking tot het vervaardigen of in Nederland invoeren van de volgende kwikhoudende producten:
+Het verbod, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2008-06-01&g=2008-06-01), geldt tot 1 januari 2002 niet met betrekking tot het vervaardigen of in Nederland invoeren van de volgende kwikhoudende producten:
 
 - a. een verwarmingsthermostaat, alsmede de kwikschakelaar die uitsluitend bestemd is voor toepassing in een verwarmingsthermostaat, en
 
@@ -100,7 +100,7 @@ Het verbod, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1
 
 ##### Artikel 2.4
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2007-02-01&g=2007-02-01), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2007-02-01&g=2007-02-01), gelden niet met betrekking tot de volgende kwikhoudende producten:
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2008-06-01&g=2008-06-01), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2008-06-01&g=2008-06-01), gelden niet met betrekking tot de volgende kwikhoudende producten:
 
 - a. een pycno- of porosimeter ter bepaling van het poriënvolume van grond of andere poreuze vaste stoffen;
 
@@ -136,13 +136,13 @@ De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.n
 
 ##### Artikel 2.5
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2007-02-01&g=2007-02-01), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2007-02-01&g=2007-02-01), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2008-06-01&g=2008-06-01), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2008-06-01&g=2008-06-01), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
 
 #### § 3. Slotbepalingen
 
 ##### Artikel 3.1
 
-Het [Besluit kwikbevattende arm- en beenbanden Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0005942) wordt met ingang van 1 januari 2003 ingetrokken.
+Dit besluit berust op [artikel 9.2.2.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
 
 ##### Artikel 3.2
 
@@ -150,6 +150,6 @@ Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalende
 
 ##### Artikel 3.3
 
-Dit besluit wordt aangehaald als: Besluit kwikhoudende producten Wms 1998.
+Dit besluit wordt aangehaald als: Besluit kwikhoudende producten milieubeheer.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
