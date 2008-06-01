@@ -4,7 +4,7 @@ identifier: "BWBR0018234"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2005-10-08"
+last_updated: "2008-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018234"
 soort: "AMvB"
@@ -68,6 +68,12 @@ Dit besluit treedt in werking met ingang van 8 oktober 2005.
 
 ##### Artikel 6
 
-Dit besluit wordt aangehaald als: Besluit detergentia Wms.
+Dit besluit wordt aangehaald als: Besluit detergentia milieubeheer.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3a
+
+Dit besluit berust mede op de [artikelen 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1) en [9.2.3.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.2).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
