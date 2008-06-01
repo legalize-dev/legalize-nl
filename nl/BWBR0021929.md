@@ -4,7 +4,7 @@ identifier: "BWBR0021929"
 country: "nl"
 rank: "wet"
 publication_date: "2008-06-13"
-last_updated: "2007-06-01"
+last_updated: "2008-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021929"
 soort: "wet"
@@ -49,11 +49,11 @@ Wijzigt de Wet milieubeheer.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 6.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringswet verdrag chemische wapens.
 
 ##### Artikel IV
 
@@ -69,19 +69,23 @@ Wijzigt deze wet.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Na de inwerkingtreding van [artikel I, onder D, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021929&artikel=I&z=2008-06-01&g=2008-06-01) berusten algemene maatregelen van bestuur voorzover deze berustten op de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=26), [32, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=32), [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=34), [35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=35), [36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=37) en [39, tweede tot en met vierde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=39), zoals die artikelen luidden onmiddellijk voor het tijdstip van inwerkingtreding van dat onderdeel van deze wet, op de [artikelen 1.1, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), [9.2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.1.3), [9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1), [9.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.3), [9.2.3.1, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.1), [9.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.2), [9.2.3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.3), en [9.2.3.5 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.5).
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien de aanvraag tot het geven van een beschikking is ingediend of het voornemen tot het geven van een beschikking krachtens wettelijk voorschrift aan degene tot wie de beschikking zal zijn gericht, is bekendgemaakt voor het tijdstip waarop deze wet met betrekking tot een zodanige beschikking in werking treedt, blijft het voor dat tijdstip ten aanzien van zodanige beschikkingen geldende recht van toepassing tot het tijdstip waarop de beschikking onherroepelijk is geworden.
+
+2. Een vergunning of ontheffing, die voor het tijdstip van inwerkingtreding van [artikel I, onder D, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021929&artikel=I&z=2008-06-01&g=2008-06-01) is verleend krachtens de [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892) dan wel na dat tijdstip met toepassing van het eerste lid, wordt, voorzover zij betrekking heeft op gedragingen waarvoor na dat tijdstip een vergunning of ontheffing krachtens [artikel 9.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.1.4), [9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1), [9.2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.6) of [9.2.2.7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.7) vereist is, gelijkgesteld met een vergunning, onderscheidenlijk ontheffing, verleend krachtens de betrokken bepaling van die titel.
+
+3. Indien voor het tijdstip waarop [artikel I, onder D](https://wetten.overheid.nl/jci1.3:c:BWBR0021929&artikel=I&z=2008-06-01&g=2008-06-01), in werking treedt, een beschikking tot toepassing van bestuursdwang is gegeven dan wel een last onder dwangsom is opgelegd wegens overtreding van het bij of krachtens de [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892) bepaalde, blijft het voor dat tijdstip ten aanzien van een zodanige beschikking geldende recht van toepassing tot het tijdstip waarop die beschikking onherroepelijk is geworden.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+De [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892) wordt ingetrokken.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Ten aanzien van de voor het tijdstip van inwerkingtreding van [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0021929&artikel=IX&z=2008-06-01&g=2008-06-01) overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=3), onderscheidenlijk [artikel 13, eerste lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=13) gedane kennisgevingen, onderscheidenlijk meldingen, en overeenkomstig [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=14), of [15, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=15) verstrekte gegevens, blijven de bij of krachtens [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003892) gestelde regels, zoals die onmiddellijk voorafgaand aan dat tijdstip luidden, van toepassing tot het tijdstip waarop twee maanden na dat tijdstip datum zijn verstreken.
 
 ##### Artikel XI
 
