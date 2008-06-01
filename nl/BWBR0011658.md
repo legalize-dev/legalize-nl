@@ -4,7 +4,7 @@ identifier: "BWBR0011658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-11-30"
-last_updated: "2002-09-14"
+last_updated: "2008-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011658"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder Besluit: het [Besluit asbestwegen Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0011619).
+In deze regeling wordt verstaan onder Besluit: het [Besluit asbestwegen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011619).
 
 ##### Artikel 2
 
@@ -62,10 +62,16 @@ Een asbestbevattende weg mag voorhanden worden gehouden indien de weg behoort to
 
 ##### Artikel 4
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst of, indien op die datum het [Besluit asbestwegen Wms](https://wetten.overheid.nl/jci1.3:c:BWBR0011619) nog niet in werking is getreden, met ingang van de dag waarop dat besluit in werking treedt.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst of, indien op die datum het [Besluit asbestwegen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011619) nog niet in werking is getreden, met ingang van de dag waarop dat besluit in werking treedt.
 
 ##### Artikel 5
 
-Deze regeling wordt aangehaald als: Regeling nadere voorschriften asbestwegen Wms.
+Deze regeling wordt aangehaald als: Regeling nadere voorschriften asbestwegen milieubeheer.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+Deze regeling berust op [artikel 2, tweede en vierde lid, van het Besluit asbestwegen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&artikel=2).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
