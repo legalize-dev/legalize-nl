@@ -4,7 +4,7 @@ identifier: "BWBR0005289"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2006-02-01"
+last_updated: "2008-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005289"
 soort: "wet"
@@ -87,11 +87,11 @@ Op natuurlijke verbintenissen zijn de wettelijke bepalingen betreffende verbinte
 
 1. Indien twee of meer schuldenaren hoofdelijk verbonden zijn, heeft de schuldeiser tegenover ieder van hen recht op nakoming voor het geheel.
 
-2. Nakoming door een der schuldenaren bevrijdt ook zijn medeschuldenaren tegenover de schuldeiser. Hetzelfde geldt, wanneer de schuld wordt gedelgd door inbetalinggeving of verrekening, alsmede wanneer de rechter op vordering van een der schuldenaren [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=60&z=2006-02-01&g=2006-02-01) toepast, tenzij hij daarbij anders bepaalt.
+2. Nakoming door een der schuldenaren bevrijdt ook zijn medeschuldenaren tegenover de schuldeiser. Hetzelfde geldt, wanneer de schuld wordt gedelgd door inbetalinggeving of verrekening, alsmede wanneer de rechter op vordering van een der schuldenaren [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=60&z=2008-06-01&g=2008-06-01) toepast, tenzij hij daarbij anders bepaalt.
 
 ##### Artikel 8
 
-Op de rechtsbetrekkingen tussen de hoofdelijke schuldenaren onderling is [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=1&artikel=2&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+Op de rechtsbetrekkingen tussen de hoofdelijke schuldenaren onderling is [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=1&artikel=2&z=2008-06-01&g=2008-06-01) van overeenkomstige toepassing.
 
 ##### Artikel 9
 
@@ -125,7 +125,7 @@ Op de rechtsbetrekkingen tussen de hoofdelijke schuldenaren onderling is [artike
 
 ##### Artikel 13
 
-1. Blijkt verhaal op een hoofdelijke schuldenaar voor een vordering als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=2&artikel=10&z=2006-02-01&g=2006-02-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=2&artikel=12&z=2006-02-01&g=2006-02-01) geheel of gedeeltelijk onmogelijk, dan wordt het onverhaalbaar gebleken deel over al zijn medeschuldenaren omgeslagen naar evenredigheid van de gedeelten waarvoor de schuld ieder van hen in hun onderlinge verhouding aanging.
+1. Blijkt verhaal op een hoofdelijke schuldenaar voor een vordering als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=2&artikel=10&z=2008-06-01&g=2008-06-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=2&artikel=12&z=2008-06-01&g=2008-06-01) geheel of gedeeltelijk onmogelijk, dan wordt het onverhaalbaar gebleken deel over al zijn medeschuldenaren omgeslagen naar evenredigheid van de gedeelten waarvoor de schuld ieder van hen in hun onderlinge verhouding aanging.
 
 2. Werd de schuld geheel of gedeeltelijk gedelgd ten laste van een hoofdelijke schuldenaar wie de schuld zelf niet aanging en blijkt op geen van de medeschuldenaren wie de schuld wel aanging verhaal mogelijk, dan wordt het onverhaalbaar gebleken deel over alle medeschuldenaren wie de schuld niet aanging, omgeslagen naar evenredigheid van de bedragen waarvoor ieder op het tijdstip van de delging van de schuld jegens de schuldeiser aansprakelijk was.
 
@@ -199,7 +199,7 @@ Een opschortende voorwaarde doet de werking der verbintenis eerst met het plaats
 
 ##### Artikel 25
 
-Is een krachtens een verbintenis onder opschortende voorwaarde verschuldigde prestatie vóór de vervulling van de voorwaarde verricht, dan kan overeenkomstig [afdeling 2 van titel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=4&afdeling=2&z=2006-02-01&g=2006-02-01) ongedaanmaking van de prestatie worden gevorderd, zolang de voorwaarde niet in vervulling is gegaan.
+Is een krachtens een verbintenis onder opschortende voorwaarde verschuldigde prestatie vóór de vervulling van de voorwaarde verricht, dan kan overeenkomstig [afdeling 2 van titel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=4&afdeling=2&z=2008-06-01&g=2008-06-01) ongedaanmaking van de prestatie worden gevorderd, zolang de voorwaarde niet in vervulling is gegaan.
 
 ##### Artikel 26
 
@@ -411,7 +411,7 @@ Gedurende het verzuim van de schuldeiser is deze niet bevoegd maatregelen tot ex
 
 ##### Artikel 63
 
-De schuldenaar heeft, binnen de grenzen der redelijkheid, recht op vergoeding van de kosten, gevallen op een aanbod of een inbewaringstelling als bedoeld in de [artikelen 66-70](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=66&z=2006-02-01&g=2006-02-01) of op andere wijze als gevolg van het verzuim gemaakt.
+De schuldenaar heeft, binnen de grenzen der redelijkheid, recht op vergoeding van de kosten, gevallen op een aanbod of een inbewaringstelling als bedoeld in de [artikelen 66-70](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=66&z=2008-06-01&g=2008-06-01) of op andere wijze als gevolg van het verzuim gemaakt.
 
 ##### Artikel 64
 
@@ -427,7 +427,7 @@ Strekt de verbintenis tot betaling van een geldsom of tot aflevering van een zaa
 
 ##### Artikel 67
 
-De inbewaringstelling van een geldsom geschiedt door consignatie overeenkomstig de wet, die van een af te leveren zaak door deze in bewaring te geven aan iemand die zijn bedrijf maakt van het bewaren van zaken als de betrokkene ter plaatse waar de aflevering moet geschieden. Op deze bewaring zijn de regels betreffende gerechtelijke bewaring van toepassing, voor zover uit de [artikelen 68-71](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=68&z=2006-02-01&g=2006-02-01) niet anders voortvloeit.
+De inbewaringstelling van een geldsom geschiedt door consignatie overeenkomstig de wet, die van een af te leveren zaak door deze in bewaring te geven aan iemand die zijn bedrijf maakt van het bewaren van zaken als de betrokkene ter plaatse waar de aflevering moet geschieden. Op deze bewaring zijn de regels betreffende gerechtelijke bewaring van toepassing, voor zover uit de [artikelen 68-71](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=68&z=2008-06-01&g=2008-06-01) niet anders voortvloeit.
 
 ##### Artikel 68
 
@@ -453,7 +453,7 @@ In geval van hoofdelijke verbondenheid gelden de rechtsgevolgen van het verzuim 
 
 ##### Artikel 73
 
-Weigert de schuldeiser een aanbod van een derde, dan zijn de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=60&z=2006-02-01&g=2006-02-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=62&z=2006-02-01&g=2006-02-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=63&z=2006-02-01&g=2006-02-01) en [66-70](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=66&z=2006-02-01&g=2006-02-01) ten behoeve van de derde van overeenkomstige toepassing, mits het aanbod aan de verbintenis beantwoordt en de derde bij de voldoening een gerechtvaardigd belang heeft.
+Weigert de schuldeiser een aanbod van een derde, dan zijn de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=60&z=2008-06-01&g=2008-06-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=62&z=2008-06-01&g=2008-06-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=63&z=2008-06-01&g=2008-06-01) en [66-70](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=8&artikel=66&z=2008-06-01&g=2008-06-01) ten behoeve van de derde van overeenkomstige toepassing, mits het aanbod aan de verbintenis beantwoordt en de derde bij de voldoening een gerechtvaardigd belang heeft.
 
 ### Afdeling 9. De gevolgen van het niet nakomen van een verbintenis
 
@@ -463,7 +463,7 @@ Weigert de schuldeiser een aanbod van een derde, dan zijn de [artikelen 60](http
 
 1. Iedere tekortkoming in de nakoming van een verbintenis verplicht de schuldenaar de schade die de schuldeiser daardoor lijdt te vergoeden, tenzij de tekortkoming de schuldenaar niet kan worden toegerekend.
 
-2. Voor zover nakoming niet reeds blijvend onmogelijk is, vindt lid 1 slechts toepassing met inachtneming van hetgeen is bepaald in de [tweede paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=2&z=2006-02-01&g=2006-02-01) betreffende het verzuim van de schuldenaar.
+2. Voor zover nakoming niet reeds blijvend onmogelijk is, vindt lid 1 slechts toepassing met inachtneming van hetgeen is bepaald in de [tweede paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=2&z=2008-06-01&g=2008-06-01) betreffende het verzuim van de schuldenaar.
 
 ##### Artikel 75
 
@@ -503,7 +503,7 @@ Is de schuldeiser wiens schuldenaar door een hem niet toe te rekenen oorzaak ver
 
 ##### Artikel 81
 
-De schuldenaar is in verzuim gedurende de tijd dat de prestatie uitblijft nadat zij opeisbaar is geworden en aan de eisen van de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=2&artikel=82&z=2006-02-01&g=2006-02-01) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=2&artikel=83&z=2006-02-01&g=2006-02-01) is voldaan, behalve voor zover de vertraging hem niet kan worden toegerekend of nakoming reeds blijvend onmogelijk is.
+De schuldenaar is in verzuim gedurende de tijd dat de prestatie uitblijft nadat zij opeisbaar is geworden en aan de eisen van de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=2&artikel=82&z=2008-06-01&g=2008-06-01) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=2&artikel=83&z=2008-06-01&g=2008-06-01) is voldaan, behalve voor zover de vertraging hem niet kan worden toegerekend of nakoming reeds blijvend onmogelijk is.
 
 ##### Artikel 82
 
@@ -517,7 +517,7 @@ Het verzuim treedt zonder ingebrekestelling in:
 
 - a. wanneer een voor de voldoening bepaalde termijn verstrijkt zonder dat de verbintenis is nagekomen, tenzij blijkt dat de termijn een andere strekking heeft;
 
-- b. wanneer de verbintenis voortvloeit uit onrechtmatige daad of strekt tot schadevergoeding als bedoeld in [artikel 74 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=1&artikel=74&z=2006-02-01&g=2006-02-01) en de verbintenis niet terstond wordt nagekomen;
+- b. wanneer de verbintenis voortvloeit uit onrechtmatige daad of strekt tot schadevergoeding als bedoeld in [artikel 74 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=1&artikel=74&z=2008-06-01&g=2008-06-01) en de verbintenis niet terstond wordt nagekomen;
 
 - c. wanneer de schuldeiser uit een mededeling van de schuldenaar moet afleiden dat deze in de nakoming van de verbintenis zal tekortschieten.
 
@@ -629,9 +629,9 @@ Heeft een zelfde gebeurtenis voor de benadeelde naast schade tevens voordeel opg
 
 ##### Artikel 102
 
-1. Rust op ieder van twee of meer personen een verplichting tot vergoeding van dezelfde schade, dan zijn zij hoofdelijk verbonden. Voor de bepaling van hetgeen zij krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=2&artikel=10&z=2006-02-01&g=2006-02-01) in hun onderlinge verhouding jegens elkaar moeten bijdragen, wordt de schade over hen verdeeld met overeenkomstige toepassing van [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=10&artikel=101&z=2006-02-01&g=2006-02-01), tenzij uit wet of rechtshandeling een andere verdeling voortvloeit.
+1. Rust op ieder van twee of meer personen een verplichting tot vergoeding van dezelfde schade, dan zijn zij hoofdelijk verbonden. Voor de bepaling van hetgeen zij krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=2&artikel=10&z=2008-06-01&g=2008-06-01) in hun onderlinge verhouding jegens elkaar moeten bijdragen, wordt de schade over hen verdeeld met overeenkomstige toepassing van [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=10&artikel=101&z=2008-06-01&g=2008-06-01), tenzij uit wet of rechtshandeling een andere verdeling voortvloeit.
 
-2. Wanneer de schade mede een gevolg is van een omstandigheid die aan de benadeelde kan worden toegerekend, vindt [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=10&artikel=101&z=2006-02-01&g=2006-02-01) toepassing op de vergoedingsplicht van ieder van de in het vorige lid bedoelde personen afzonderlijk, met dien verstande dat de benadeelde in totaal van hen niet meer kan vorderen dan hem zou zijn toegekomen, indien voor de omstandigheden waarop hun vergoedingsplichten berusten, slechts één persoon aansprakelijk zou zijn geweest. Indien verhaal op een der tot bijdragen verplichte personen niet ten volle mogelijk blijkt, kan de rechter op verlangen van een hunner bepalen dat bij toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=2&artikel=13&z=2006-02-01&g=2006-02-01) het onvoldaan gebleven deel mede over de benadeelde omgeslagen wordt.
+2. Wanneer de schade mede een gevolg is van een omstandigheid die aan de benadeelde kan worden toegerekend, vindt [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=10&artikel=101&z=2008-06-01&g=2008-06-01) toepassing op de vergoedingsplicht van ieder van de in het vorige lid bedoelde personen afzonderlijk, met dien verstande dat de benadeelde in totaal van hen niet meer kan vorderen dan hem zou zijn toegekomen, indien voor de omstandigheden waarop hun vergoedingsplichten berusten, slechts één persoon aansprakelijk zou zijn geweest. Indien verhaal op een der tot bijdragen verplichte personen niet ten volle mogelijk blijkt, kan de rechter op verlangen van een hunner bepalen dat bij toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=2&artikel=13&z=2008-06-01&g=2008-06-01) het onvoldaan gebleven deel mede over de benadeelde omgeslagen wordt.
 
 ##### Artikel 103
 
@@ -723,7 +723,7 @@ Vervallen
 
 ##### Artikel 115
 
-De plaats waar de betaling moet geschieden wordt bepaald door de [artikelen 116-118](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=116&z=2006-02-01&g=2006-02-01), tenzij uit wet, gewoonte of rechtshandeling voortvloeit dat op een andere plaats moet of mag worden betaald.
+De plaats waar de betaling moet geschieden wordt bepaald door de [artikelen 116-118](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=116&z=2008-06-01&g=2008-06-01), tenzij uit wet, gewoonte of rechtshandeling voortvloeit dat op een andere plaats moet of mag worden betaald.
 
 ##### Artikel 116
 
@@ -733,11 +733,11 @@ De plaats waar de betaling moet geschieden wordt bepaald door de [artikelen 116-
 
 ##### Artikel 117
 
-Indien de betaling overeenkomstig [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=116&z=2006-02-01&g=2006-02-01) moet geschieden op een andere plaats dan de woonplaats van de schuldeiser op het tijdstip van het ontstaan van de verbintenis en het voldoen aan de verbintenis daardoor voor de schuldenaar aanmerkelijk bezwaarlijker zou worden, is deze bevoegd de betaling op te schorten, totdat de schuldeiser in een der in [artikel 116, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=116&z=2006-02-01&g=2006-02-01) bedoelde landen een andere plaats voor de betaling heeft aangewezen, waaraan een zodanig bezwaar niet is verbonden.
+Indien de betaling overeenkomstig [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=116&z=2008-06-01&g=2008-06-01) moet geschieden op een andere plaats dan de woonplaats van de schuldeiser op het tijdstip van het ontstaan van de verbintenis en het voldoen aan de verbintenis daardoor voor de schuldenaar aanmerkelijk bezwaarlijker zou worden, is deze bevoegd de betaling op te schorten, totdat de schuldeiser in een der in [artikel 116, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=116&z=2008-06-01&g=2008-06-01) bedoelde landen een andere plaats voor de betaling heeft aangewezen, waaraan een zodanig bezwaar niet is verbonden.
 
 ##### Artikel 118
 
-Indien de verbintenis is ontstaan bij de uitoefening van bedrijfs- of beroepsbezigheden van de schuldeiser, geldt in de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=116&z=2006-02-01&g=2006-02-01) en [117](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=117&z=2006-02-01&g=2006-02-01) de plaats van vestiging waar die bezigheden worden uitgeoefend, als woonplaats van de schuldeiser.
+Indien de verbintenis is ontstaan bij de uitoefening van bedrijfs- of beroepsbezigheden van de schuldeiser, geldt in de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=116&z=2008-06-01&g=2008-06-01) en [117](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=117&z=2008-06-01&g=2008-06-01) de plaats van vestiging waar die bezigheden worden uitgeoefend, als woonplaats van de schuldeiser.
 
 ##### Artikel 119
 
@@ -749,9 +749,9 @@ Indien de verbintenis is ontstaan bij de uitoefening van bedrijfs- of beroepsbez
 
 ##### Artikel 120
 
-1. De wettelijke rente bedoeld in [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=119&z=2006-02-01&g=2006-02-01) wordt bij algemene maatregel van bestuur vastgesteld. Wettelijke rente die loopt op het tijdstip van inwerkingtreding van een nieuwe bij algemene maatregel van bestuur vastgestelde rentevoet, wordt met ingang van dat tijdstip volgens de nieuwe rentevoet berekend.
+1. De wettelijke rente bedoeld in [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=119&z=2008-06-01&g=2008-06-01) wordt bij algemene maatregel van bestuur vastgesteld. Wettelijke rente die loopt op het tijdstip van inwerkingtreding van een nieuwe bij algemene maatregel van bestuur vastgestelde rentevoet, wordt met ingang van dat tijdstip volgens de nieuwe rentevoet berekend.
 
-2. De wettelijke rente bedoeld in [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=119a&z=2006-02-01&g=2006-02-01) is gelijk aan de herfinancieringsrente die door de Europese Centrale Bank is vastgesteld voor haar meest recente basisherfinancieringstransactie die heeft plaatsgevonden voor de eerste kalenderdag van het betreffende halfjaar, vermeerderd met zeven procentpunten. Wettelijke rente die loopt op de eerste dag van het betreffende halfjaar, wordt met ingang van dat tijdstip volgens de nieuwe rentevoet berekend gedurende een half jaar.
+2. De wettelijke rente bedoeld in [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=119a&z=2008-06-01&g=2008-06-01) is gelijk aan de herfinancieringsrente die door de Europese Centrale Bank is vastgesteld voor haar meest recente basisherfinancieringstransactie die heeft plaatsgevonden voor de eerste kalenderdag van het betreffende halfjaar, vermeerderd met zeven procentpunten. Wettelijke rente die loopt op de eerste dag van het betreffende halfjaar, wordt met ingang van dat tijdstip volgens de nieuwe rentevoet berekend gedurende een half jaar.
 
 ##### Artikel 121
 
@@ -775,11 +775,11 @@ Indien de verbintenis is ontstaan bij de uitoefening van bedrijfs- of beroepsbez
 
 ##### Artikel 124
 
-Wordt de verbintenis als gevolg van toepassing van de [artikelen 121](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=121&z=2006-02-01&g=2006-02-01), [122](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=122&z=2006-02-01&g=2006-02-01) of [123](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=123&z=2006-02-01&g=2006-02-01) of van omzetting in een vordering tot schadevergoeding overeenkomstig het bepaalde in [afdeling 9 van titel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&z=2006-02-01&g=2006-02-01) voldaan in ander geld dan tot betaling waarvan zij strekt, dan geschiedt de omrekening naar de koers van de dag waarop de betaling plaatsvindt.
+Wordt de verbintenis als gevolg van toepassing van de [artikelen 121](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=121&z=2008-06-01&g=2008-06-01), [122](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=122&z=2008-06-01&g=2008-06-01) of [123](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=123&z=2008-06-01&g=2008-06-01) of van omzetting in een vordering tot schadevergoeding overeenkomstig het bepaalde in [afdeling 9 van titel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&z=2008-06-01&g=2008-06-01) voldaan in ander geld dan tot betaling waarvan zij strekt, dan geschiedt de omrekening naar de koers van de dag waarop de betaling plaatsvindt.
 
 ##### Artikel 125
 
-1. [Artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=119&z=2006-02-01&g=2006-02-01) laat onverlet het recht van de schuldeiser op vergoeding van de schade die hij heeft geleden, doordat na het intreden van het verzuim de koers van het geld tot betaling waarvan de verbintenis strekt, zich ten opzichte van die van het geld van een of meer andere landen heeft gewijzigd.
+1. [Artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=11&artikel=119&z=2008-06-01&g=2008-06-01) laat onverlet het recht van de schuldeiser op vergoeding van de schade die hij heeft geleden, doordat na het intreden van het verzuim de koers van het geld tot betaling waarvan de verbintenis strekt, zich ten opzichte van die van het geld van een of meer andere landen heeft gewijzigd.
 
 2. Het vorige lid is niet van toepassing, indien de verbintenis strekt tot betaling van Nederlands geld, de betaling in Nederland moet geschieden en de schuldeiser op het tijdstip van het ontstaan van de verbintenis zijn woonplaats in Nederland had.
 
@@ -853,9 +853,9 @@ De rechter kan een vordering ondanks een beroep van de gedaagde op verrekening t
 
 ##### Artikel 137
 
-1. Voor zover een verrekeningsverklaring onvoldoende aangeeft welke verbintenissen in de verrekening zijn betrokken, geldt de volgorde van toerekening, aangegeven in de [artikelen 43 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=6&artikel=43&z=2006-02-01&g=2006-02-01) en [44 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=6&artikel=44&z=2006-02-01&g=2006-02-01).
+1. Voor zover een verrekeningsverklaring onvoldoende aangeeft welke verbintenissen in de verrekening zijn betrokken, geldt de volgorde van toerekening, aangegeven in de [artikelen 43 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=6&artikel=43&z=2008-06-01&g=2008-06-01) en [44 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=6&artikel=44&z=2008-06-01&g=2008-06-01).
 
-2. De wederpartijj van degene die heeft verklaard te verrekenen, kan door een onverwijld protest aan die verklaring haar werking ontnemen, indien de toerekening op de haar verschuldigde hoofdsom, kosten en met inachtneming van [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=12&artikel=129&z=2006-02-01&g=2006-02-01) te berekenen rente in deze verklaring in een andere volgorde is geschied dan die van [artikel 44 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=6&artikel=44&z=2006-02-01&g=2006-02-01).
+2. De wederpartijj van degene die heeft verklaard te verrekenen, kan door een onverwijld protest aan die verklaring haar werking ontnemen, indien de toerekening op de haar verschuldigde hoofdsom, kosten en met inachtneming van [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=12&artikel=129&z=2008-06-01&g=2008-06-01) te berekenen rente in deze verklaring in een andere volgorde is geschied dan die van [artikel 44 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=6&artikel=44&z=2008-06-01&g=2008-06-01).
 
 ##### Artikel 138
 
@@ -871,7 +871,7 @@ De rechter kan een vordering ondanks een beroep van de gedaagde op verrekening t
 
 ##### Artikel 140
 
-1. Moeten tussen twee partijen krachtens wet, gewoonte of rechtshandeling geldvorderingen en geldschulden in één rekening worden opgenomen, dan worden zij in de volgorde waarin partijen volgens de voorgaande artikelen van deze afdeling of krachtens hun onderlinge rechtsverhouding tot verrekening bevoegd worden, dadelijk van rechtswege verrekend en is op ieder tijdstip alleen het saldo verschuldigd. [Artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=12&artikel=137&z=2006-02-01&g=2006-02-01) is niet van toepassing.
+1. Moeten tussen twee partijen krachtens wet, gewoonte of rechtshandeling geldvorderingen en geldschulden in één rekening worden opgenomen, dan worden zij in de volgorde waarin partijen volgens de voorgaande artikelen van deze afdeling of krachtens hun onderlinge rechtsverhouding tot verrekening bevoegd worden, dadelijk van rechtswege verrekend en is op ieder tijdstip alleen het saldo verschuldigd. [Artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=12&artikel=137&z=2008-06-01&g=2008-06-01) is niet van toepassing.
 
 2. De partij die de rekening bijhoudt, sluit deze jaarlijks af en deelt het op dat tijdstip verschuldigde saldo mede aan de wederpartij met opgave van de aan deze nog niet eerder medegedeelde posten waaruit het is samengesteld.
 
@@ -883,7 +883,7 @@ De rechter kan een vordering ondanks een beroep van de gedaagde op verrekening t
 
 ##### Artikel 141
 
-Indien een verbintenis geheel of gedeeltelijk door verrekening tenietgaat, zijn de [leden 1 en 2 van artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=6&artikel=48&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+Indien een verbintenis geheel of gedeeltelijk door verrekening tenietgaat, zijn de [leden 1 en 2 van artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=6&artikel=48&z=2008-06-01&g=2008-06-01) van overeenkomstige toepassing.
 
 ## Titel 2. Overgang van vorderingen en schulden en afstand van vorderingen
 
@@ -927,7 +927,7 @@ In geval van overdracht van een papier aan toonder of aan order verliest degene 
 
 ##### Artikel 148
 
-De [artikelen 146](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=1&artikel=146&z=2006-02-01&g=2006-02-01) en [147](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=1&artikel=147&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing in geval van vestiging van een beperkt recht op een vordering aan toonder of aan order.
+De [artikelen 146](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=1&artikel=146&z=2008-06-01&g=2008-06-01) en [147](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=1&artikel=147&z=2008-06-01&g=2008-06-01) zijn van overeenkomstige toepassing in geval van vestiging van een beperkt recht op een vordering aan toonder of aan order.
 
 ##### Artikel 149
 
@@ -953,13 +953,13 @@ Een vordering gaat bij wijze van subrogatie over op een derde:
 
 ##### Artikel 151
 
-1. Subrogatie overeenkomstig [artikel 150](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=2&artikel=150&z=2006-02-01&g=2006-02-01) vindt niet plaats voor zover de schuld de derde aangaat in zijn verhouding tot de schuldenaar.
+1. Subrogatie overeenkomstig [artikel 150](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=2&artikel=150&z=2008-06-01&g=2008-06-01) vindt niet plaats voor zover de schuld de derde aangaat in zijn verhouding tot de schuldenaar.
 
 2. De rechten van de schuldeiser jegens borgen en personen die geen schuldenaar zijn, gaan slechts op de derde over tot ten hoogste de bedragen, waarvoor de schuld ieder van hen aangaat in hun verhouding tot de schuldenaar.
 
 ##### Artikel 152
 
-1. Blijkt verhaal krachtens subrogatie overeenkomstig [artikel 150](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=2&artikel=150&z=2006-02-01&g=2006-02-01) geheel of gedeeltelijk onmogelijk, dan wordt het onvoldaan gebleven deel over de gesubrogeerde en andere in lid 2 van het vorige artikel genoemde derden omgeslagen naar evenredigheid van de bedragen waarvoor ieder op het tijdstip van de voldoening jegens de schuldeiser aansprakelijk was.
+1. Blijkt verhaal krachtens subrogatie overeenkomstig [artikel 150](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=2&artikel=150&z=2008-06-01&g=2008-06-01) geheel of gedeeltelijk onmogelijk, dan wordt het onvoldaan gebleven deel over de gesubrogeerde en andere in lid 2 van het vorige artikel genoemde derden omgeslagen naar evenredigheid van de bedragen waarvoor ieder op het tijdstip van de voldoening jegens de schuldeiser aansprakelijk was.
 
 2. De gesubrogeerde kan van geen der andere bij de omslag betrokken derden een groter bedrag vorderen dan de oorspronkelijke schuldeiser op het tijdstip van de voldoening op deze had kunnen verhalen.
 
@@ -1005,7 +1005,7 @@ Indien de rechtsverhouding tussen de vorige en de nieuwe schuldenaar op grond wa
 
 2. Hierdoor gaan alle rechten en verplichtingen over op de derde, voor zover niet ten aanzien van bijkomstige of reeds opeisbaar geworden rechten of verplichtingen anders is bepaald.
 
-3. [Artikel 156](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=3&artikel=156&z=2006-02-01&g=2006-02-01) en de [leden 1-3 van artikel 157](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=3&artikel=157&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+3. [Artikel 156](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=3&artikel=156&z=2008-06-01&g=2008-06-01) en de [leden 1-3 van artikel 157](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=3&artikel=157&z=2008-06-01&g=2008-06-01) zijn van overeenkomstige toepassing.
 
 ### Afdeling 4. Afstand en vermenging
 
@@ -1015,7 +1015,7 @@ Indien de rechtsverhouding tussen de vorige en de nieuwe schuldenaar op grond wa
 
 2. Een door de schuldeiser tot de schuldenaar gericht aanbod tot afstand om niet geldt als aanvaard, wanneer de schuldenaar van het aanbod heeft kennisgenomen en het niet onverwijld heeft afgewezen.
 
-3. De [artikelen 48 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=6&artikel=48&z=2006-02-01&g=2006-02-01) en[49 leden 1-3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=6&artikel=49&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 48 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=6&artikel=48&z=2008-06-01&g=2008-06-01) en[49 leden 1-3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=6&artikel=49&z=2008-06-01&g=2008-06-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 161
 
@@ -1075,7 +1075,7 @@ Een gedraging van een kind dat de leeftijd van veertien jaren nog niet heeft ber
 
 1. De rechter kan een vordering, strekkende tot verbod van een onrechtmatige gedraging, afwijzen op de grond dat deze gedraging op grond van zwaarwegende maatschappelijke belangen behoort te worden geduld. De benadeelde behoudt zijn recht op vergoeding van de schade overeenkomstig de onderhavige titel.
 
-2. In het geval van [artikel 170](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=170&z=2006-02-01&g=2006-02-01) is de ondergeschikte voor deze schade niet aansprakelijk.
+2. In het geval van [artikel 170](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=170&z=2008-06-01&g=2008-06-01) is de ondergeschikte voor deze schade niet aansprakelijk.
 
 3. Wordt aan een veroordeling tot schadevergoeding of tot het stellen van zekerheid daarvoor niet voldaan, dan kan de rechter alsnog een verbod van de gedraging opleggen.
 
@@ -1107,11 +1107,11 @@ Indien een gedraging van een vertegenwoordiger ter uitoefening van de hem als zo
 
 1. De bezitter van een roerende zaak waarvan bekend is dat zij, zo zij niet voldoet aan de eisen die men in de gegeven omstandigheden aan de zaak mag stellen, een bijzonder gevaar voor personen of zaken oplevert, is, wanneer dit gevaar zich verwezenlijkt, aansprakelijk, tenzij aansprakelijkheid op grond van de vorige afdeling zou hebben ontbroken indien hij dit gevaar op het tijdstip van ontstaan daarvan zou hebben gekend.
 
-2. Indien de zaak niet aan de in het vorige lid bedoelde eisen voldoet wegens een gebrek als bedoeld in [afdeling 3 van titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&z=2006-02-01&g=2006-02-01), bestaat geen aansprakelijkheid op grond van het vorige lid voor schade als in die afdeling bedoeld, tenzij
+2. Indien de zaak niet aan de in het vorige lid bedoelde eisen voldoet wegens een gebrek als bedoeld in [afdeling 3 van titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&z=2008-06-01&g=2008-06-01), bestaat geen aansprakelijkheid op grond van het vorige lid voor schade als in die afdeling bedoeld, tenzij
 
 - a. alle omstandigheden in aanmerking genomen, aannemelijk is dat het gebrek niet bestond op het tijdstip waarop het produkt in het verkeer is gebracht of dat het gebrek op een later tijdstip is ontstaan; of
 
-- b. het betreft zaakschade ter zake waarvan krachtens [afdeling 3 van titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&z=2006-02-01&g=2006-02-01) geen recht op vergoeding bestaat op grond van de in die afdeling geregelde franchise.
+- b. het betreft zaakschade ter zake waarvan krachtens [afdeling 3 van titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&z=2008-06-01&g=2008-06-01) geen recht op vergoeding bestaat op grond van de in die afdeling geregelde franchise.
 
 3. De vorige leden zijn niet van toepassing op dieren, schepen en luchtvaartuigen.
 
@@ -1131,7 +1131,7 @@ Indien een gedraging van een vertegenwoordiger ter uitoefening van de hem als zo
 
 ##### Artikel 175
 
-1. Degene die in de uitoefening van zijn beroep of bedrijf een stof gebruikt of onder zich heeft, terwijl van deze stof bekend is dat zij zodanige eigenschappen heeft, dat zij een bijzonder gevaar van ernstige aard voor personen of zaken oplevert, is aansprakelijk, wanneer dit gevaar zich verwezenlijkt. Onder degene die een bedrijf uitoefent, wordt mede begrepen elke rechtspersoon die de stof in de uitoefening van zijn taak gebruikt of onder zich heeft. Als bijzonder gevaar van ernstige aard geldt in elk geval dat de stof ontplofbaar, oxyderend, ontvlambaar, licht ontvlambaar of zeer licht ontvlambaar, dan wel vergiftig of zeer vergiftig is volgens de criteria en methoden, vastgesteld krachtens [artikel 34, derde lid, Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=34) (**Stb.** 1985, 639).
+1. Degene die in de uitoefening van zijn beroep of bedrijf een stof gebruikt of onder zich heeft, terwijl van deze stof bekend is dat zij zodanige eigenschappen heeft, dat zij een bijzonder gevaar van ernstige aard voor personen of zaken oplevert, is aansprakelijk, wanneer dit gevaar zich verwezenlijkt. Onder degene die een bedrijf uitoefent, wordt mede begrepen elke rechtspersoon die de stof in de uitoefening van zijn taak gebruikt of onder zich heeft. Als bijzonder gevaar van ernstige aard geldt in elk geval dat de stof ontplofbaar, oxyderend, ontvlambaar, licht ontvlambaar of zeer licht ontvlambaar, dan wel vergiftig of zeer vergiftig is volgens de criteria en methoden, vastgesteld krachtens [artikel 9.2.3.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.1).
 
 2. Bevindt de stof zich in de macht van een bewaarder die er zijn bedrijf van maakt zodanige stoffen te bewaren, dan rust de aansprakelijkheid uit het eerste lid op deze. Met een zodanige bewaarder wordt gelijkgesteld de vervoerder, expediteur, stuwadoor, bewaarder of soortgelijke ondernemer, die de stof ten vervoer of uit hoofde van een met het vervoer samenhangende overeenkomst in ontvangst heeft genomen, zulks voor de periode waarin de stof zich in zijn macht bevindt zonder dat [afdeling 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [4 van titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [1 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1) of [4 van titel 19 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4) van toepassing is.
 
@@ -1139,9 +1139,9 @@ Indien een gedraging van een vertegenwoordiger ter uitoefening van de hem als zo
 
 4. Is de schade een gevolg van verontreiniging met de stof van lucht, water of bodem, dan rust de aansprakelijkheid uit het eerste lid op degene die bij de aanvang van de tot verontreiniging leidende gebeurtenis door dit artikel als aansprakelijke persoon werd aangewezen. Heeft de verontreiniging plaatsgevonden doordat de stof in verpakte toestand in water of bodem is gekomen of op de bodem is achtergelaten, dan wordt die gebeurtenis geacht op dit tijdstip reeds te zijn aangevangen.
 
-5. Vormt de stof, al of niet tezamen met andere bestanddelen, een roerende zaak als bedoeld in [artikel 173 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2006-02-01&g=2006-02-01), is zij in een zodanige zaak verpakt of is zij opgeslagen in een daartoe bestemd gebouw of werk als bedoeld in [artikel 174, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2006-02-01&g=2006-02-01), dan rust de aansprakelijkheid uit de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2006-02-01&g=2006-02-01) en [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2006-02-01&g=2006-02-01), voor wat betreft de schade die door verwezenlijking van het aan de stof verbonden gevaar is veroorzaakt, op dezelfde persoon als op wie krachtens de voorgaande leden aansprakelijkheid ter zake van de stof rust.
+5. Vormt de stof, al of niet tezamen met andere bestanddelen, een roerende zaak als bedoeld in [artikel 173 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2008-06-01&g=2008-06-01), is zij in een zodanige zaak verpakt of is zij opgeslagen in een daartoe bestemd gebouw of werk als bedoeld in [artikel 174, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2008-06-01&g=2008-06-01), dan rust de aansprakelijkheid uit de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2008-06-01&g=2008-06-01) en [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2008-06-01&g=2008-06-01), voor wat betreft de schade die door verwezenlijking van het aan de stof verbonden gevaar is veroorzaakt, op dezelfde persoon als op wie krachtens de voorgaande leden aansprakelijkheid ter zake van de stof rust.
 
-6. Een stof wordt geacht aan de omschrijving van de eerste zin van het eerste lid te voldoen, wanneer zij bij algemene maatregel van bestuur als zodanig is aangewezen. Een stof kan in elk geval worden aangewezen, als zij volgens de criteria en methoden, vastgesteld krachtens [artikel 34, derde lid, Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=34) (**Stb.** 1985, 639), behoort tot een der categorieën bedoeld in het tweede lid van dat artikel. De aanwijzing kan worden beperkt tot bepaalde concentraties van de stof, tot bepaalde in de algemene maatregel van bestuur te omschrijven gevaren die aan de stof verbonden zijn, en tot bepaalde daarin te omschrijven situaties waarin de stof zich bevindt.
+6. Een stof wordt geacht aan de omschrijving van de eerste zin van het eerste lid te voldoen, wanneer zij bij algemene maatregel van bestuur als zodanig is aangewezen. Een stof kan in elk geval worden aangewezen, als zij volgens de criteria en methoden, vastgesteld krachtens [artikel 9.2.3.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.1), behoort tot een der categorieën bedoeld in het tweede lid van dat artikel. De aanwijzing kan worden beperkt tot bepaalde concentraties van de stof, tot bepaalde in de algemene maatregel van bestuur te omschrijven gevaren die aan de stof verbonden zijn, en tot bepaalde daarin te omschrijven situaties waarin de stof zich bevindt.
 
 ##### Artikel 176
 
@@ -1157,7 +1157,7 @@ Indien een gedraging van een vertegenwoordiger ter uitoefening van de hem als zo
 
 4. Indien de schade is bekend geworden na de sluiting van de stortplaats, rust de aansprakelijkheid op degene die de laatste exploitant was. Geen aansprakelijkheid op grond van dit artikel bestaat, wanneer op het tijdstip waarop de schade bekend wordt, meer dan twintig jaren waren verstreken nadat de stortplaats was gesloten met inachtneming van de geldende overheidsvoorschriften, of de schade een gevolg is van gebruik van de grond in strijd met hetgeen wegens de aanwezigheid van de gesloten stortplaats omtrent dit gebruik is voorgeschreven.
 
-5. Indien de exploitatie als stortplaats wettelijk is toegelaten, zijn degenen die de stoffen waardoor de verontreiniging is opgetreden, daar hebben gestort of doen storten, noch aansprakelijk krachtens [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2006-02-01&g=2006-02-01), noch krachtens [afdeling 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [4 van titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [1 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1) of [4 van titel 19 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4). Indien op de stortplaats een zaak als bedoeld in [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2006-02-01&g=2006-02-01) of een stof als bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2006-02-01&g=2006-02-01) is gestort, rust de aansprakelijkheid uit die artikelen op degene die krachtens de voorgaande leden als exploitant van de stortplaats aansprakelijk is.
+5. Indien de exploitatie als stortplaats wettelijk is toegelaten, zijn degenen die de stoffen waardoor de verontreiniging is opgetreden, daar hebben gestort of doen storten, noch aansprakelijk krachtens [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2008-06-01&g=2008-06-01), noch krachtens [afdeling 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [4 van titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [1 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1) of [4 van titel 19 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4). Indien op de stortplaats een zaak als bedoeld in [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2008-06-01&g=2008-06-01) of een stof als bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2008-06-01&g=2008-06-01) is gestort, rust de aansprakelijkheid uit die artikelen op degene die krachtens de voorgaande leden als exploitant van de stortplaats aansprakelijk is.
 
 6. Onder stortplaats is begrepen elk terrein dat door de exploitant daarvan is bestemd voor het storten van al of niet verpakte, geheel of ten dele van anderen afkomstige stoffen met als doel dat de exploitant of die anderen zich van die stoffen ontdoen door ze daar op of in de bodem te brengen. Onder storten wordt mede begrepen elke vorm van deponeren of afgeven van de stof op de stortplaats.
 
@@ -1179,21 +1179,21 @@ Indien een gedraging van een vertegenwoordiger ter uitoefening van de hem als zo
 
 4. Voor schade door beweging van de bodem is aansprakelijk degene die ten tijde van het bekend worden van deze schade exploitant is. Indien na het bekend worden een ander exploitant wordt, blijft de aansprakelijkheid rusten op degene die ten tijde van dit bekend worden exploitant was. Indien deze schade bekend wordt na sluiting van het mijnbouwwerk, rust de aansprakelijkheid op degene die de laatste exploitant was.
 
-5. Indien op de gebeurtenis waardoor de uitstroming of de beweging van de bodem is ontstaan, tevens een aansprakelijkheid uit [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2006-02-01&g=2006-02-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2006-02-01&g=2006-02-01) of [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2006-02-01&g=2006-02-01) kan worden gegrond, rust die aansprakelijkheid, wat betreft de door die uitstroming of beweging van de bodem veroorzaakte schade, op dezelfde persoon als op wie de aansprakelijkheid ter zake van het mijnbouwwerk rust.
+5. Indien op de gebeurtenis waardoor de uitstroming of de beweging van de bodem is ontstaan, tevens een aansprakelijkheid uit [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2008-06-01&g=2008-06-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2008-06-01&g=2008-06-01) of [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2008-06-01&g=2008-06-01) kan worden gegrond, rust die aansprakelijkheid, wat betreft de door die uitstroming of beweging van de bodem veroorzaakte schade, op dezelfde persoon als op wie de aansprakelijkheid ter zake van het mijnbouwwerk rust.
 
 ##### Artikel 178
 
-Geen aansprakelijkheid krachtens [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2006-02-01&g=2006-02-01), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=176&z=2006-02-01&g=2006-02-01) of [177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2006-02-01&g=2006-02-01) bestaat indien:
+Geen aansprakelijkheid krachtens [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2008-06-01&g=2008-06-01), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=176&z=2008-06-01&g=2008-06-01) of [177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2008-06-01&g=2008-06-01) bestaat indien:
 
 - a. de schade is veroorzaakt door gewapend conflict, burgeroorlog, opstand, binnenlandse onlusten, oproer of muiterij;
 
-- b. de schade is veroorzaakt door een natuurgebeuren van uitzonderlijke, onvermijdelijke en onweerstaanbare aard, behoudens de in [artikel 177 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2006-02-01&g=2006-02-01) bedoelde ondergrondse natuurkrachten in het geval van dat artikel;
+- b. de schade is veroorzaakt door een natuurgebeuren van uitzonderlijke, onvermijdelijke en onweerstaanbare aard, behoudens de in [artikel 177 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2008-06-01&g=2008-06-01) bedoelde ondergrondse natuurkrachten in het geval van dat artikel;
 
 - c. de schade is veroorzaakt uitsluitend door voldoening aan een bevel of dwingend voorschrift van de overheid;
 
-- d. de schade is veroorzaakt bij een handeling met een stof als bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2006-02-01&g=2006-02-01) in het belang van de benadeelde zelf, waarbij het jegens deze redelijk was hem aan het gevaar voor schade bloot te stellen;
+- d. de schade is veroorzaakt bij een handeling met een stof als bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2008-06-01&g=2008-06-01) in het belang van de benadeelde zelf, waarbij het jegens deze redelijk was hem aan het gevaar voor schade bloot te stellen;
 
-- e. de schade is veroorzaakt uitsluitend door een handelen of nalaten van een derde, geschied met het opzet schade te veroorzaken, zulks onverminderd het bepaalde in de [artikelen 170](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=170&z=2006-02-01&g=2006-02-01) en [171](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=171&z=2006-02-01&g=2006-02-01);
+- e. de schade is veroorzaakt uitsluitend door een handelen of nalaten van een derde, geschied met het opzet schade te veroorzaken, zulks onverminderd het bepaalde in de [artikelen 170](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=170&z=2008-06-01&g=2008-06-01) en [171](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=171&z=2008-06-01&g=2008-06-01);
 
 - f. het gaat om hinder, verontreiniging of andere gevolgen, ter zake waarvan aansprakelijkheid op grond van de vorige afdeling zou hebben ontbroken, zo zij door de aangesprokene bewust zouden zijn veroorzaakt.
 
@@ -1203,31 +1203,31 @@ De bezitter van een dier is aansprakelijk voor de door het dier aangerichte scha
 
 ##### Artikel 180
 
-1. In de gevallen van de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2006-02-01&g=2006-02-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2006-02-01&g=2006-02-01) en [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=179&z=2006-02-01&g=2006-02-01) zijn medebezitters hoofdelijk aansprakelijk.
+1. In de gevallen van de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2008-06-01&g=2008-06-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2008-06-01&g=2008-06-01) en [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=179&z=2008-06-01&g=2008-06-01) zijn medebezitters hoofdelijk aansprakelijk.
 
-2. In geval van overdracht van een zaak onder opschortende voorwaarde van voldoening van een tegenprestatie rust de aansprakelijkheid die de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2006-02-01&g=2006-02-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2006-02-01&g=2006-02-01) en [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=179&z=2006-02-01&g=2006-02-01) op de bezitter leggen, vanaf het tijdstip van deze overdracht op de verkrijger.
+2. In geval van overdracht van een zaak onder opschortende voorwaarde van voldoening van een tegenprestatie rust de aansprakelijkheid die de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2008-06-01&g=2008-06-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2008-06-01&g=2008-06-01) en [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=179&z=2008-06-01&g=2008-06-01) op de bezitter leggen, vanaf het tijdstip van deze overdracht op de verkrijger.
 
 ##### Artikel 181
 
-1. Worden de in de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2006-02-01&g=2006-02-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2006-02-01&g=2006-02-01) en [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=179&z=2006-02-01&g=2006-02-01) bedoelde zaken, opstallen of dieren gebruikt in de uitoefening van een bedrijf, dan rust de aansprakelijkheid uit de [artikelen 173 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2006-02-01&g=2006-02-01), [174 lid 1 en lid 2, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2006-02-01&g=2006-02-01), en [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=179&z=2006-02-01&g=2006-02-01) op degene die dit bedrijf uitoefent, tenzij het een opstal betreft en het ontstaan van de schade niet met de uitoefening van het bedrijf in verband staat.
+1. Worden de in de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2008-06-01&g=2008-06-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2008-06-01&g=2008-06-01) en [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=179&z=2008-06-01&g=2008-06-01) bedoelde zaken, opstallen of dieren gebruikt in de uitoefening van een bedrijf, dan rust de aansprakelijkheid uit de [artikelen 173 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2008-06-01&g=2008-06-01), [174 lid 1 en lid 2, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2008-06-01&g=2008-06-01), en [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=179&z=2008-06-01&g=2008-06-01) op degene die dit bedrijf uitoefent, tenzij het een opstal betreft en het ontstaan van de schade niet met de uitoefening van het bedrijf in verband staat.
 
 2. Wanneer de zaken, opstallen of dieren in de uitoefening van een bedrijf worden gebruikt door ze ter beschikking te stellen voor gebruik in de uitoefening van het bedrijf van een ander, dan wordt die ander als de uit hoofde van het vorige lid aansprakelijke persoon aangemerkt.
 
-3. Wanneer een stof als bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2006-02-01&g=2006-02-01) in de uitoefening van een bedrijf wordt gebruikt door deze stof ter beschikking te stellen voor gebruik in de uitoefening van het beroep of bedrijf van een ander, wordt die ander als de uit hoofde van [artikel 175 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2006-02-01&g=2006-02-01) aansprakelijke persoon aangemerkt.
+3. Wanneer een stof als bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2008-06-01&g=2008-06-01) in de uitoefening van een bedrijf wordt gebruikt door deze stof ter beschikking te stellen voor gebruik in de uitoefening van het beroep of bedrijf van een ander, wordt die ander als de uit hoofde van [artikel 175 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2008-06-01&g=2008-06-01) aansprakelijke persoon aangemerkt.
 
 ##### Artikel 182
 
-Indien er in de gevallen van de [artikelen 176](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=176&z=2006-02-01&g=2006-02-01) en [177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2006-02-01&g=2006-02-01) tegelijkertijd twee of meer al of niet gezamenlijk handelende exploitanten zijn, zijn zij hoofdelijk aansprakelijk.
+Indien er in de gevallen van de [artikelen 176](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=176&z=2008-06-01&g=2008-06-01) en [177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2008-06-01&g=2008-06-01) tegelijkertijd twee of meer al of niet gezamenlijk handelende exploitanten zijn, zijn zij hoofdelijk aansprakelijk.
 
 ##### Artikel 183
 
 1. Ter zake van aansprakelijkheid op grond van deze afdeling kan de aangesprokene geen beroep doen op zijn jeugdige leeftijd of geestelijke of lichamelijke tekortkoming.
 
-2. Degene die het ouderlijk gezag of voogdij uitoefent over een kind dat nog niet de leeftijd van veertien jaren heeft bereikt, is in zijn plaats uit de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2006-02-01&g=2006-02-01) en [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=179&z=2006-02-01&g=2006-02-01) voor de daar bedoelde zaken en dieren aansprakelijk, tenzij deze worden gebruikt in de uitoefening van een bedrijf.
+2. Degene die het ouderlijk gezag of voogdij uitoefent over een kind dat nog niet de leeftijd van veertien jaren heeft bereikt, is in zijn plaats uit de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2008-06-01&g=2008-06-01) en [179](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=179&z=2008-06-01&g=2008-06-01) voor de daar bedoelde zaken en dieren aansprakelijk, tenzij deze worden gebruikt in de uitoefening van een bedrijf.
 
 ##### Artikel 184
 
-1. Onder de schade waarvoor op grond van de [artikelen 173-182](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2006-02-01&g=2006-02-01) aansprakelijkheid bestaat, vallen ook:
+1. Onder de schade waarvoor op grond van de [artikelen 173-182](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2008-06-01&g=2008-06-01) aansprakelijkheid bestaat, vallen ook:
 
 - a. de kosten van iedere redelijke maatregel ter voorkoming of beperking van schade door wie dan ook genomen, nadat een ernstige en onmiddellijke dreiging is ontstaan dat schade zal worden veroorzaakt die krachtens die artikelen voor vergoeding in aanmerking komt;
 
@@ -1273,7 +1273,7 @@ Indien er in de gevallen van de [artikelen 176](https://wetten.overheid.nl/jci1.
 
 1. Onder product wordt voor de toepassing van deze afdeling verstaan een roerende zaak, ook nadat deze een bestanddeel is gaan vormen van een andere roerende of onroerende zaak, alsmede elektriciteit.
 
-2. Onder "producent" wordt voor de toepassing van [artikel 185 tot en met 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2006-02-01&g=2006-02-01) verstaan de fabrikant van een eindprodukt, de producent van een grondstof of de fabrikant van een onderdeel, alsmede een ieder die zich als producent presenteert door zijn naam, zijn merk of een ander onderscheidingsteken op het produkt aan te brengen.
+2. Onder "producent" wordt voor de toepassing van [artikel 185 tot en met 193](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2008-06-01&g=2008-06-01) verstaan de fabrikant van een eindprodukt, de producent van een grondstof of de fabrikant van een onderdeel, alsmede een ieder die zich als producent presenteert door zijn naam, zijn merk of een ander onderscheidingsteken op het produkt aan te brengen.
 
 3. Onverminderd de aansprakelijkheid van de producent, wordt een ieder die een produkt in de Europese Economische Ruimte invoert om dit te verkopen, te verhuren, te leasen of anderszins te verstrekken in het kader van zijn commerciële activiteiten, beschouwd als producent; zijn aansprakelijkheid is dezelfde als die van de producent.
 
@@ -1285,11 +1285,11 @@ De benadeelde moet de schade, het gebrek en het oorzakelijk verband tussen het g
 
 ##### Artikel 189
 
-Indien verschillende personen op grond van [artikel 185, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2006-02-01&g=2006-02-01), aansprakelijk zijn voor dezelfde schade, is elk hunner voor het geheel aansprakelijk.
+Indien verschillende personen op grond van [artikel 185, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2008-06-01&g=2008-06-01), aansprakelijk zijn voor dezelfde schade, is elk hunner voor het geheel aansprakelijk.
 
 ##### Artikel 190
 
-1. De aansprakelijkheid, bedoeld in [artikel 185, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2006-02-01&g=2006-02-01), bestaat voor
+1. De aansprakelijkheid, bedoeld in [artikel 185, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2008-06-01&g=2008-06-01), bestaat voor
 
 - a. schade door dood of lichamelijk letsel;
 
@@ -1299,9 +1299,9 @@ Indien verschillende personen op grond van [artikel 185, eerste lid](https://wet
 
 ##### Artikel 191
 
-1. De rechtsvordering tot schadevergoeding van de benadeelde tegen de producent ingevolge [artikel 185, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2006-02-01&g=2006-02-01), verjaart door verloop van drie jaren na de aanvang van de dag, volgende op die waarop de benadeelde met de schade, het gebrek en de identiteit van de producent bekend is geworden of had moeten worden.
+1. De rechtsvordering tot schadevergoeding van de benadeelde tegen de producent ingevolge [artikel 185, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2008-06-01&g=2008-06-01), verjaart door verloop van drie jaren na de aanvang van de dag, volgende op die waarop de benadeelde met de schade, het gebrek en de identiteit van de producent bekend is geworden of had moeten worden.
 
-2. Het recht op schadevergoeding van de benadeelde jegens de producent ingevolge [artikel 185, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2006-02-01&g=2006-02-01), vervalt door verloop van tien jaren na de aanvang van de dag, volgende op die waarop de producent de zaak die de schade heeft veroorzaakt, in het verkeer heeft gebracht. Hetzelfde geldt voor het recht van een derde die mede voor de schade aansprakelijk is, terzake van regres jegens de producent.
+2. Het recht op schadevergoeding van de benadeelde jegens de producent ingevolge [artikel 185, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2008-06-01&g=2008-06-01), vervalt door verloop van tien jaren na de aanvang van de dag, volgende op die waarop de producent de zaak die de schade heeft veroorzaakt, in het verkeer heeft gebracht. Hetzelfde geldt voor het recht van een derde die mede voor de schade aansprakelijk is, terzake van regres jegens de producent.
 
 ##### Artikel 192
 
@@ -1363,27 +1363,27 @@ Hij die omtrent goederen of diensten die door hem of degene ten behoeve van wie 
 
 ##### Artikel 195
 
-1. Indien een vordering ingevolge [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194&z=2006-02-01&g=2006-02-01) of [artikel 194a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194a&z=2006-02-01&g=2006-02-01) wordt ingesteld tegen iemand die inhoud en inkleding van de mededeling geheel of ten dele heeft bepaald of doen bepalen, rust op hem de bewijslast ter zake van de juistheid of volledigheid van de feiten die in de mededeling zijn vervat of daardoor worden gesuggereerd en waarop het beweerde misleidende karakter van de mededeling berust onderscheidenlijk waarop de ongeoorloofdheid van de vergelijkende reclame berust. Ingeval van vergelijkende reclame dient degene die inhoud en inkleding van de mededeling geheel of ten dele zelf heeft bepaald of doen bepalen binnen korte termijn de bewijzen aan te dragen waarop de materiële juistheid en volledigheid van de feitelijke gegevens in de reclame rust.
+1. Indien een vordering ingevolge [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194&z=2008-06-01&g=2008-06-01) of [artikel 194a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194a&z=2008-06-01&g=2008-06-01) wordt ingesteld tegen iemand die inhoud en inkleding van de mededeling geheel of ten dele heeft bepaald of doen bepalen, rust op hem de bewijslast ter zake van de juistheid of volledigheid van de feiten die in de mededeling zijn vervat of daardoor worden gesuggereerd en waarop het beweerde misleidende karakter van de mededeling berust onderscheidenlijk waarop de ongeoorloofdheid van de vergelijkende reclame berust. Ingeval van vergelijkende reclame dient degene die inhoud en inkleding van de mededeling geheel of ten dele zelf heeft bepaald of doen bepalen binnen korte termijn de bewijzen aan te dragen waarop de materiële juistheid en volledigheid van de feitelijke gegevens in de reclame rust.
 
-2. Indien volgens [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194&z=2006-02-01&g=2006-02-01) en [artikel 194a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194a&z=2006-02-01&g=2006-02-01) onrechtmatig is gehandeld door iemand die inhoud en inkleding van de mededeling geheel of ten dele zelf heeft bepaald of doen bepalen, is hij voor de dientengevolge ontstane schade aansprakelijk, tenzij hij bewijst dat zulks noch aan zijn schuld is te wijten noch op andere grond voor zijn rekening komt.
+2. Indien volgens [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194&z=2008-06-01&g=2008-06-01) en [artikel 194a](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194a&z=2008-06-01&g=2008-06-01) onrechtmatig is gehandeld door iemand die inhoud en inkleding van de mededeling geheel of ten dele zelf heeft bepaald of doen bepalen, is hij voor de dientengevolge ontstane schade aansprakelijk, tenzij hij bewijst dat zulks noch aan zijn schuld is te wijten noch op andere grond voor zijn rekening komt.
 
 ##### Artikel 196
 
-1. Indien iemand door het openbaar maken of laten openbaar maken van een in [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194&z=2006-02-01&g=2006-02-01) omschreven mededeling of een ongeoorloofde vergelijkende reclame aan een ander schade heeft toegebracht of dreigt toe te brengen, kan de rechter hem op vordering van die ander niet alleen het openbaar maken of laten openbaar maken van zodanige mededeling of zodanige ongeoorloofde vergelijkende reclame verbieden, maar ook hem laten veroordelen tot het op een door de rechter aangegeven wijze openbaar maken of laten openbaar maken van een rectificatie van die mededeling of die ongeoorloofde vergelijkende reclame.
+1. Indien iemand door het openbaar maken of laten openbaar maken van een in [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=194&z=2008-06-01&g=2008-06-01) omschreven mededeling of een ongeoorloofde vergelijkende reclame aan een ander schade heeft toegebracht of dreigt toe te brengen, kan de rechter hem op vordering van die ander niet alleen het openbaar maken of laten openbaar maken van zodanige mededeling of zodanige ongeoorloofde vergelijkende reclame verbieden, maar ook hem laten veroordelen tot het op een door de rechter aangegeven wijze openbaar maken of laten openbaar maken van een rectificatie van die mededeling of die ongeoorloofde vergelijkende reclame.
 
-2. Indien een vordering als in het vorige lid bedoeld wordt toegewezen jegens iemand die niet tevens aansprakelijk is voor de in [artikel 195 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=195&z=2006-02-01&g=2006-02-01) bedoelde schade, is [artikel 167 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=167&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+2. Indien een vordering als in het vorige lid bedoeld wordt toegewezen jegens iemand die niet tevens aansprakelijk is voor de in [artikel 195 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=4&artikel=195&z=2008-06-01&g=2008-06-01) bedoelde schade, is [artikel 167 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=167&z=2008-06-01&g=2008-06-01) van overeenkomstige toepassing.
 
 ### Afdeling 5. Tijdelijke regeling verhaalsrechten
 
 ##### Artikel 197
 
-1. De [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=165&z=2006-02-01&g=2006-02-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=166&z=2006-02-01&g=2006-02-01), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=169&z=2006-02-01&g=2006-02-01), [171](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=171&z=2006-02-01&g=2006-02-01), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2006-02-01&g=2006-02-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2006-02-01&g=2006-02-01), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2006-02-01&g=2006-02-01), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=176&z=2006-02-01&g=2006-02-01), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2006-02-01&g=2006-02-01) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2006-02-01&g=2006-02-01), alsmede de [afdelingen 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [4 van titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [1 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1) en [4 van titel 19 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4) blijven buiten toepassing:
+1. De [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=165&z=2008-06-01&g=2008-06-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=166&z=2008-06-01&g=2008-06-01), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=169&z=2008-06-01&g=2008-06-01), [171](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=171&z=2008-06-01&g=2008-06-01), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2008-06-01&g=2008-06-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2008-06-01&g=2008-06-01), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2008-06-01&g=2008-06-01), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=176&z=2008-06-01&g=2008-06-01), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2008-06-01&g=2008-06-01) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2008-06-01&g=2008-06-01), alsmede de [afdelingen 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [4 van titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [1 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1) en [4 van titel 19 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4) blijven buiten toepassing:
 
 - a. bij de vaststelling van het totale bedrag waarvoor aansprakelijkheid naar burgerlijk recht zou bestaan, vereist voor de berekening van het bedrag waarvoor verhaal bestaat krachtens artikel 107a en de [artikelen 99 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=99), [90 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=90), [68 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=68), [60 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=60), [52a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52a), [61 van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=61), [65b van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=65b) en [8 van de Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&artikel=8);
 
 - b. bij de vaststelling van het bedrag, bedoeld in [artikel 3 van de Verhaalswet ongevallen ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0002500&artikel=3) waarboven de gehoudenheid krachtens die wet of krachtens [artikel 70 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=70) zich niet uitstrekt.
 
-2. Rechten uit de [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=165&z=2006-02-01&g=2006-02-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=166&z=2006-02-01&g=2006-02-01), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=169&z=2006-02-01&g=2006-02-01), [171](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=171&z=2006-02-01&g=2006-02-01), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2006-02-01&g=2006-02-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2006-02-01&g=2006-02-01), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2006-02-01&g=2006-02-01), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=176&z=2006-02-01&g=2006-02-01), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2006-02-01&g=2006-02-01) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2006-02-01&g=2006-02-01), alsmede de [afdelingen 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [4 van titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [1 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1) en [4 van titel 19 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4) zijn niet vatbaar voor subrogatie:
+2. Rechten uit de [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=165&z=2008-06-01&g=2008-06-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=1&artikel=166&z=2008-06-01&g=2008-06-01), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=169&z=2008-06-01&g=2008-06-01), [171](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=171&z=2008-06-01&g=2008-06-01), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=173&z=2008-06-01&g=2008-06-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=174&z=2008-06-01&g=2008-06-01), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=175&z=2008-06-01&g=2008-06-01), [176](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=176&z=2008-06-01&g=2008-06-01), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=2&artikel=177&z=2008-06-01&g=2008-06-01) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=3&afdeling=3&artikel=185&z=2008-06-01&g=2008-06-01), alsmede de [afdelingen 4 van titel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [4 van titel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4), [1 van titel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1) en [4 van titel 19 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=4) zijn niet vatbaar voor subrogatie:
 
 - a. krachtens [artikel 962 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=962), behoudens voor zover de uitkering door de verzekeraar de aansprakelijkheid van de verzekerde betreft en een ander krachtens deze artikelen mede aansprakelijk was;
 
@@ -1445,7 +1445,7 @@ De [artikelen 120](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=120),
 
 ##### Artikel 207
 
-De ontvanger heeft, tenzij hij het goed te kwader trouw heeft aangenomen, binnen de grenzen van de redelijkheid ook recht op vergoeding van de kosten van het ontvangen en teruggeven van het goed, alsmede van uitgaven in de in [artikel 204](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=4&afdeling=2&artikel=204&z=2006-02-01&g=2006-02-01) bedoelde periode die zouden zijn uitgebleven als hij het goed niet had ontvangen.
+De ontvanger heeft, tenzij hij het goed te kwader trouw heeft aangenomen, binnen de grenzen van de redelijkheid ook recht op vergoeding van de kosten van het ontvangen en teruggeven van het goed, alsmede van uitgaven in de in [artikel 204](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=4&afdeling=2&artikel=204&z=2008-06-01&g=2008-06-01) bedoelde periode die zouden zijn uitgebleven als hij het goed niet had ontvangen.
 
 ##### Artikel 208
 
@@ -1457,7 +1457,7 @@ Op de onbekwame die een onverschuldigde betaling heeft ontvangen, rusten de in d
 
 ##### Artikel 210
 
-1. Op de ongedaanmaking van prestaties die niet in het geven van een goed hebben bestaan, zijn de [artikelen 204-209](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=4&afdeling=2&artikel=204&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+1. Op de ongedaanmaking van prestaties die niet in het geven van een goed hebben bestaan, zijn de [artikelen 204-209](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=4&afdeling=2&artikel=204&z=2008-06-01&g=2008-06-01) van overeenkomstige toepassing.
 
 2. Sluit de aard van de prestatie uit dat zij ongedaan wordt gemaakt, dan treedt, voor zover dit redelijk is, vergoeding van de waarde van de prestatie op het ogenblik van ontvangst daarvoor in de plaats, indien de ontvanger door de prestatie is verrijkt, indien het aan hem is toe te rekenen dat de prestatie is verricht, of indien hij erin had toegestemd een tegenprestatie te verrichten.
 
@@ -1513,7 +1513,7 @@ Hetgeen in deze en de volgende drie afdelingen is bepaald, vindt overeenkomstige
 
 1. Een overeenkomst komt tot stand door een aanbod en de aanvaarding daarvan.
 
-2. De [artikelen 219-225](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=219&z=2006-02-01&g=2006-02-01) zijn van toepassing, tenzij iets anders voortvloeit uit het aanbod, uit een andere rechtshandeling of uit een gewoonte.
+2. De [artikelen 219-225](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=219&z=2008-06-01&g=2008-06-01) zijn van toepassing, tenzij iets anders voortvloeit uit het aanbod, uit een andere rechtshandeling of uit een gewoonte.
 
 ##### Artikel 218
 
@@ -1587,7 +1587,7 @@ Een overeenkomst die de strekking heeft voort te bouwen op een reeds tussen part
 
 ##### Artikel 230
 
-1. De bevoegdheid tot vernietiging op grond van de [artikelen 228](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=228&z=2006-02-01&g=2006-02-01) en [229](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=229&z=2006-02-01&g=2006-02-01) vervalt, wanneer de wederpartij tijdig een wijziging van de gevolgen van de overeenkomst voorstelt, die het nadeel dat de tot vernietiging bevoegde bij intstandhouding van de overeenkomst lijdt, op afdoende wijze opheft.
+1. De bevoegdheid tot vernietiging op grond van de [artikelen 228](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=228&z=2008-06-01&g=2008-06-01) en [229](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=229&z=2008-06-01&g=2008-06-01) vervalt, wanneer de wederpartij tijdig een wijziging van de gevolgen van de overeenkomst voorstelt, die het nadeel dat de tot vernietiging bevoegde bij intstandhouding van de overeenkomst lijdt, op afdoende wijze opheft.
 
 2. Bovendien kan de rechter op verlangen van een der partijen, in plaats van de vernietiging uit te spreken, de gevolgen van de overeenkomst ter opheffing van dit nadeel wijzigen.
 
@@ -1617,7 +1617,7 @@ Een beding in algemene voorwaarden is vernietigbaar
 
 ##### Artikel 234
 
-1. De gebruiker heeft aan de wederpartij de in [artikel 233 onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2006-02-01&g=2006-02-01) bedoelde mogelijkheid geboden, indien hij
+1. De gebruiker heeft aan de wederpartij de in [artikel 233 onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2008-06-01&g=2008-06-01) bedoelde mogelijkheid geboden, indien hij
 
 - a. hetzij de algemene voorwaarden voor of bij het sluiten van de overeenkomst aan de wederpartij ter hand heeft gesteld,
 
@@ -1631,15 +1631,15 @@ Een beding in algemene voorwaarden is vernietigbaar
 
 ##### Artikel 235
 
-1. Op de vernietigingsgronden bedoeld in de [artikelen 233](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2006-02-01&g=2006-02-01) en [234](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=234&z=2006-02-01&g=2006-02-01) kan geen beroep worden gedaan door
+1. Op de vernietigingsgronden bedoeld in de [artikelen 233](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2008-06-01&g=2008-06-01) en [234](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=234&z=2008-06-01&g=2008-06-01) kan geen beroep worden gedaan door
 
 - a. een rechtspersoon bedoeld in [artikel 360 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=360), die ten tijde van het sluiten van de overeenkomst laatstelijk zijn jaarrekening openbaar heeft gemaakt, of ten aanzien waarvan op dat tijdstip laatstelijk [artikel 403 lid 1 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=403) is toegepast;
 
 - b. een partij op wie het onder **a** bepaalde niet van toepassing is, indien op voormeld tijdstip bij haar vijftig of meer personen werkzaam zijn of op dat tijdstip uit een opgave krachtens de [Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893) blijkt dat bij haar vijftig of meer personen werkzaam zijn.
 
-2. Op de vernietigingsgrond bedoeld in [artikel 233 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2006-02-01&g=2006-02-01), kan mede een beroep worden gedaan door een partij voor wie de algemene voorwaarden door een gevolmachtigde zijn gebruikt, mits de wederpartij meermalen overeenkomsten sluit waarop dezelfde of nagenoeg dezelfde algemene voorwaarden van toepassing zijn.
+2. Op de vernietigingsgrond bedoeld in [artikel 233 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2008-06-01&g=2008-06-01), kan mede een beroep worden gedaan door een partij voor wie de algemene voorwaarden door een gevolmachtigde zijn gebruikt, mits de wederpartij meermalen overeenkomsten sluit waarop dezelfde of nagenoeg dezelfde algemene voorwaarden van toepassing zijn.
 
-3. Op de vernietigingsgronden bedoeld in de [artikelen 233](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2006-02-01&g=2006-02-01) en [234](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=234&z=2006-02-01&g=2006-02-01), kan geen beroep worden gedaan door een partij die meermalen dezelfde of nagenoeg dezelfde algemene voorwaarden in haar overeenkomsten gebruikt.
+3. Op de vernietigingsgronden bedoeld in de [artikelen 233](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2008-06-01&g=2008-06-01) en [234](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=234&z=2008-06-01&g=2008-06-01), kan geen beroep worden gedaan door een partij die meermalen dezelfde of nagenoeg dezelfde algemene voorwaarden in haar overeenkomsten gebruikt.
 
 4. De termijn bedoeld in [artikel 52 lid 1 onder **d** van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=52), begint met de aanvang van de dag, volgende op die waarop een beroep op het beding is gedaan.
 
@@ -1649,13 +1649,13 @@ Bij een overeenkomst tussen een gebruiker en een wederpartij, natuurlijk persoon
 
 - a. dat de wederpartij geheel en onvoorwaardelijk het recht ontneemt de door de gebruiker toegezegde prestatie op te eisen;
 
-- b. dat de aan de wederpartij toekomende bevoegdheid tot ontbinding, zoals deze in [afdeling 5 van titel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=5&z=2006-02-01&g=2006-02-01) is geregeld, uitsluit of beperkt;
+- b. dat de aan de wederpartij toekomende bevoegdheid tot ontbinding, zoals deze in [afdeling 5 van titel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=5&z=2008-06-01&g=2008-06-01) is geregeld, uitsluit of beperkt;
 
 - c. dat een de wederpartij volgens de wet toekomende bevoegdheid tot opschorting van de nakoming uitsluit of beperkt of de gebruiker een verdergaande bevoegdheid tot opschorting verleent dan hem volgens de wet toekomt;
 
 - d. dat de beoordeling van de vraag of de gebruiker in de nakoming van een of meer van zijn verbintenissen is te kort geschoten aan hem zelf overlaat, of dat de uitoefening van de rechten die de wederpartij ter zake van een zodanige tekortkoming volgens de wet toekomen, afhankelijk stelt van de voorwaarde dat deze eerst een derde in rechte heeft aangesproken;
 
-- e. krachtens hetwelk de wederpartij aan de gebruiker bij voorbaat toestemming verleent zijn uit de overeenkomst voortvloeiende verplichtingen op een der in [afdeling 3 van titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=3&z=2006-02-01&g=2006-02-01) bedoelde wijzen op een derde te doen overgaan, tenzij de wederpartij te allen tijde de bevoegdheid heeft de overeenkomst te ontbinden, of de gebruiker jegens de wederpartij aansprakelijk is voor de nakoming door de derde, of de overgang plaatsvindt in verband met de overdracht van een onderneming waartoe zowel die verplichtingen als de daartegenover bedongen rechten behoren;
+- e. krachtens hetwelk de wederpartij aan de gebruiker bij voorbaat toestemming verleent zijn uit de overeenkomst voortvloeiende verplichtingen op een der in [afdeling 3 van titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=2&afdeling=3&z=2008-06-01&g=2008-06-01) bedoelde wijzen op een derde te doen overgaan, tenzij de wederpartij te allen tijde de bevoegdheid heeft de overeenkomst te ontbinden, of de gebruiker jegens de wederpartij aansprakelijk is voor de nakoming door de derde, of de overgang plaatsvindt in verband met de overdracht van een onderneming waartoe zowel die verplichtingen als de daartegenover bedongen rechten behoren;
 
 - f. dat voor het geval uit de overeenkomst voor de gebruiker voortvloeiende rechten op een derde overgaan, ertoe strekt bevoegdheden of verweermiddelen die de wederpartij volgens de wet jegens die derde zou kunnen doen gelden, uit te sluiten of te beperken;
 
@@ -1699,7 +1699,7 @@ Bij een overeenkomst tussen een gebruiker en een wederpartij, natuurlijk persoon
 
 - j. dat de wederpartij verplicht tot het sluiten van een overeenkomst met de gebruiker of met een derde, tenzij dit, mede gelet op het verband van die overeenkomst met de in dit artikel bedoelde overeenkomst, redelijkerwijze van de wederpartij kan worden gevergd;
 
-- k. dat voor een overeenkomst als bedoeld in [artikel 236 onder **j**](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2006-02-01&g=2006-02-01) een duur bepaalt van meer dan een jaar, tenzij de wederpartij de bevoegdheid heeft de overeenkomst telkens na een jaar op te zeggen;
+- k. dat voor een overeenkomst als bedoeld in [artikel 236 onder **j**](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2008-06-01&g=2008-06-01) een duur bepaalt van meer dan een jaar, tenzij de wederpartij de bevoegdheid heeft de overeenkomst telkens na een jaar op te zeggen;
 
 - l. dat de wederpartij aan een opzegtermijn bindt die langer is dan drie maanden of langer dan de termijn waarop de gebruiker de overeenkomst kan opzeggen;
 
@@ -1709,17 +1709,17 @@ Bij een overeenkomst tussen een gebruiker en een wederpartij, natuurlijk persoon
 
 ##### Artikel 238
 
-1. Bij een overeenkomst als bedoeld in de [artikelen 236](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2006-02-01&g=2006-02-01) en [237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2006-02-01&g=2006-02-01), kan jegens de wederpartij geen beroep worden gedaan
+1. Bij een overeenkomst als bedoeld in de [artikelen 236](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2008-06-01&g=2008-06-01) en [237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2008-06-01&g=2008-06-01), kan jegens de wederpartij geen beroep worden gedaan
 
 - a. op het feit dat de overeenkomst in naam van een derde is gesloten, indien dit beroep berust op het enkele feit dat een beding van deze strekking in de algemene voorwaarden voorkomt;
 
 - b. op het feit dat de algemene voorwaarden beperkingen bevatten van de bevoegdheid van een gevolmachtigde van de gebruiker, die zo ongebruikelijk zijn dat de wederpartij ze zonder het beding niet behoefde te verwachten, tenzij zij ze kende.
 
-2. Bij een overeenkomst als bedoeld in de [artikelen 236](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2006-02-01&g=2006-02-01) en [237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2006-02-01&g=2006-02-01) moeten de bedingen duidelijk en begrijpelijk zijn opgesteld. Bij twijfel over de betekenis van een beding, prevaleert de voor de wederpartij gunstigste uitleg.
+2. Bij een overeenkomst als bedoeld in de [artikelen 236](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2008-06-01&g=2008-06-01) en [237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2008-06-01&g=2008-06-01) moeten de bedingen duidelijk en begrijpelijk zijn opgesteld. Bij twijfel over de betekenis van een beding, prevaleert de voor de wederpartij gunstigste uitleg.
 
 ##### Artikel 239
 
-1. Bij algemene maatregel van bestuur kunnen de [onderdelen **a-n** van artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2006-02-01&g=2006-02-01) worden gewijzigd en kan hun toepassingsgebied worden beperkt.
+1. Bij algemene maatregel van bestuur kunnen de [onderdelen **a-n** van artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2008-06-01&g=2008-06-01) worden gewijzigd en kan hun toepassingsgebied worden beperkt.
 
 2. Alvorens een voordracht tot vaststelling, wijziging of intrekking van een maatregel als bedoeld in het eerste lid te doen, kan Onze Minister van Justitie de naar zijn oordeel representatieve organisaties van hen die bij het sluiten van de overeenkomsten waarop de maatregel betrekking heeft, algemene voorwaarden plegen te gebruiken en van hen die bij die overeenkomsten als hun wederpartij plegen op te treden, horen.
 
@@ -1727,7 +1727,7 @@ Bij een overeenkomst tussen een gebruiker en een wederpartij, natuurlijk persoon
 
 ##### Artikel 240
 
-1. Op vordering van een rechtspersoon als bedoeld in lid 3 kunnen bepaalde bedingen in bepaalde algemene voorwaarden onredelijk bezwarend worden verklaard; de [artikelen 233 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2006-02-01&g=2006-02-01), [236](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2006-02-01&g=2006-02-01) en [237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2006-02-01&g=2006-02-01) zijn van overeenkomstige toepassing. Voor de toepassing van de vorige zin wordt een beding in algemene voorwaarden dat in strijd is met een dwingende wetsbepaling, als onredelijk bezwarend aangemerkt. Bij de beoordeling van een beding blijft de uitlegregel van [artikel 238 lid 2, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=238&z=2006-02-01&g=2006-02-01), buiten toepassing.
+1. Op vordering van een rechtspersoon als bedoeld in lid 3 kunnen bepaalde bedingen in bepaalde algemene voorwaarden onredelijk bezwarend worden verklaard; de [artikelen 233 onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=233&z=2008-06-01&g=2008-06-01), [236](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=236&z=2008-06-01&g=2008-06-01) en [237](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=237&z=2008-06-01&g=2008-06-01) zijn van overeenkomstige toepassing. Voor de toepassing van de vorige zin wordt een beding in algemene voorwaarden dat in strijd is met een dwingende wetsbepaling, als onredelijk bezwarend aangemerkt. Bij de beoordeling van een beding blijft de uitlegregel van [artikel 238 lid 2, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=238&z=2008-06-01&g=2008-06-01), buiten toepassing.
 
 2. De vordering kan worden ingesteld tegen de gebruiker, alsmede tegen een rechtspersoon met volledige rechtsbevoegdheid die ten doel heeft de behartiging van de belangen van personen die een beroep of bedrijf uitoefenen, indien hij het gebruik van de algemene voorwaarden door die personen bevordert.
 
@@ -1757,29 +1757,29 @@ Bij een overeenkomst tussen een gebruiker en een wederpartij, natuurlijk persoon
 
 5. Geschillen terzake van de tenuitvoerlegging van de in lid 3 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het Gerechtshof te 's-Gravenhage beslist.
 
-6. Tot kennisneming van vorderingen in kort geding strekkende tot veroordelingen als bedoeld in lid 3, ingesteld door rechtspersonen als bedoeld in [artikel 240 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2006-02-01&g=2006-02-01), is de voorzieningenrechter van de rechtbank te 's-Gravenhage bij uitsluiting bevoegd. Lid 5, alsmede de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=62), [116 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=116), [1003](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1003), [1005](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1005), [1006 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1006) zijn van overeenkomstige toepassing.
+6. Tot kennisneming van vorderingen in kort geding strekkende tot veroordelingen als bedoeld in lid 3, ingesteld door rechtspersonen als bedoeld in [artikel 240 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2008-06-01&g=2008-06-01), is de voorzieningenrechter van de rechtbank te 's-Gravenhage bij uitsluiting bevoegd. Lid 5, alsmede de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=62), [116 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=116), [1003](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1003), [1005](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1005), [1006 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1006) zijn van overeenkomstige toepassing.
 
 ##### Artikel 242
 
-1. Op vordering van een of meer van degenen tegen wie de in [artikel 240 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2006-02-01&g=2006-02-01) bedoelde uitspraak is gedaan, kan de rechter die uitspraak wijzigen of opheffen op grond dat zij tengevolge van een wijziging in de omstandigheden niet langer gerechtvaardigd is. De vordering wordt ingesteld tegen de rechtspersoon op wiens vordering de uitspraak was gedaan.
+1. Op vordering van een of meer van degenen tegen wie de in [artikel 240 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2008-06-01&g=2008-06-01) bedoelde uitspraak is gedaan, kan de rechter die uitspraak wijzigen of opheffen op grond dat zij tengevolge van een wijziging in de omstandigheden niet langer gerechtvaardigd is. De vordering wordt ingesteld tegen de rechtspersoon op wiens vordering de uitspraak was gedaan.
 
-2. Indien de rechtspersoon op wiens vordering de uitspraak was gedaan, is ontbonden, wordt de zaak met een verzoekschrift ingeleid. Voor de toepassing van [artikel 279 lid 1 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=279) worden rechtspersonen als bedoeld in [artikel 240 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2006-02-01&g=2006-02-01) als belanghebbenden aangemerkt.
+2. Indien de rechtspersoon op wiens vordering de uitspraak was gedaan, is ontbonden, wordt de zaak met een verzoekschrift ingeleid. Voor de toepassing van [artikel 279 lid 1 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=279) worden rechtspersonen als bedoeld in [artikel 240 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2008-06-01&g=2008-06-01) als belanghebbenden aangemerkt.
 
-3. [Artikel 241 leden 1, 2, 3 onder **c** en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=241&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing.
+3. [Artikel 241 leden 1, 2, 3 onder **c** en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=241&z=2008-06-01&g=2008-06-01) is van overeenkomstige toepassing.
 
 4. De vorige leden zijn niet van toepassing voor zover de uitspraak betrekking had op een beding dat door de wet als onredelijk bezwarend wordt aangemerkt.
 
 ##### Artikel 243
 
-Een beding in algemene voorwaarden dat door degene jegens wie een verbod tot gebruik ervan is uitgesproken, in strijd met het verbod in een overeenkomst wordt opgenomen, is vernietigbaar. [Artikel 235](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=235&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing.
+Een beding in algemene voorwaarden dat door degene jegens wie een verbod tot gebruik ervan is uitgesproken, in strijd met het verbod in een overeenkomst wordt opgenomen, is vernietigbaar. [Artikel 235](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=235&z=2008-06-01&g=2008-06-01) is van overeenkomstige toepassing.
 
 ##### Artikel 244
 
-1. Een persoon die handelt in de uitoefening van een beroep of bedrijf, kan geen beroep doen op een beding in een overeenkomst met een partij die terzake van de goederen of diensten waarop die overeenkomst betrekking heeft, met gebruikmaking van algemene voorwaarden overeenkomsten met haar afnemers heeft gesloten, voor zover een beroep op dat beding onredelijk zou zijn wegens zijn nauwe samenhang met een in de algemene voorwaarden voorkomend beding dat krachtens deze afdeling is vernietigd of door een uitspraak als bedoeld in [artikel 240 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2006-02-01&g=2006-02-01) is getroffen.
+1. Een persoon die handelt in de uitoefening van een beroep of bedrijf, kan geen beroep doen op een beding in een overeenkomst met een partij die terzake van de goederen of diensten waarop die overeenkomst betrekking heeft, met gebruikmaking van algemene voorwaarden overeenkomsten met haar afnemers heeft gesloten, voor zover een beroep op dat beding onredelijk zou zijn wegens zijn nauwe samenhang met een in de algemene voorwaarden voorkomend beding dat krachtens deze afdeling is vernietigd of door een uitspraak als bedoeld in [artikel 240 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2008-06-01&g=2008-06-01) is getroffen.
 
-2. Is tegen de gebruiker een vordering als bedoeld in [artikel 240 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2006-02-01&g=2006-02-01) ingesteld, dan is hij bevoegd die persoon in het geding te roepen teneinde voor recht te horen verklaren dat een beroep als bedoeld in het vorige lid onredelijk zou zijn. [Artikel 241 leden 2, 3 onder **c**, 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=241&z=2006-02-01&g=2006-02-01) alsmede de [artikelen 210](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=210), [211](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=211) en [215 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=215) zijn van overeenkomstige toepassing.
+2. Is tegen de gebruiker een vordering als bedoeld in [artikel 240 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=240&z=2008-06-01&g=2008-06-01) ingesteld, dan is hij bevoegd die persoon in het geding te roepen teneinde voor recht te horen verklaren dat een beroep als bedoeld in het vorige lid onredelijk zou zijn. [Artikel 241 leden 2, 3 onder **c**, 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=241&z=2008-06-01&g=2008-06-01) alsmede de [artikelen 210](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=210), [211](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=211) en [215 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=215) zijn van overeenkomstige toepassing.
 
-3. Op de uitspraak is [artikel 242](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=242&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+3. Op de uitspraak is [artikel 242](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=242&z=2008-06-01&g=2008-06-01) van overeenkomstige toepassing.
 
 4. Op eerdere overeenkomsten met betrekking tot de voormelde goederen en diensten zijn de leden 1-3 van overeenkomstige toepassing.
 
@@ -1789,7 +1789,7 @@ Deze afdeling is noch van toepassing op arbeidsovereenkomsten, noch op collectie
 
 ##### Artikel 246
 
-Noch van de [artikelen 231-244](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=231&z=2006-02-01&g=2006-02-01), noch van de bepalingen van de in [artikel 239 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=239&z=2006-02-01&g=2006-02-01) bedoelde algemene maatregelen van bestuur kan worden afgeweken. De bevoegdheid om een beding krachtens deze afdeling door een buitengerechtelijke verklaring te vernietigen, kan niet worden uitgesloten.
+Noch van de [artikelen 231-244](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=231&z=2008-06-01&g=2008-06-01), noch van de bepalingen van de in [artikel 239 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=239&z=2008-06-01&g=2008-06-01) bedoelde algemene maatregelen van bestuur kan worden afgeweken. De bevoegdheid om een beding krachtens deze afdeling door een buitengerechtelijke verklaring te vernietigen, kan niet worden uitgesloten.
 
 ##### Artikel 247
 
@@ -1815,7 +1815,7 @@ De rechtsgevolgen van een overeenkomst gelden mede voor de rechtverkrijgenden on
 
 ##### Artikel 250
 
-Bij overeenkomst kan worden afgeweken van de volgende artikelen van deze afdeling, met uitzondering van de [artikelen 251 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=251&z=2006-02-01&g=2006-02-01), [252 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=252&z=2006-02-01&g=2006-02-01) voor zover het de eis van een notariële akte betreft, en lid 3, [253 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=253&z=2006-02-01&g=2006-02-01), [257](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=257&z=2006-02-01&g=2006-02-01), [258](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=258&z=2006-02-01&g=2006-02-01), [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=259&z=2006-02-01&g=2006-02-01) en [260](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=260&z=2006-02-01&g=2006-02-01).
+Bij overeenkomst kan worden afgeweken van de volgende artikelen van deze afdeling, met uitzondering van de [artikelen 251 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=251&z=2008-06-01&g=2008-06-01), [252 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=252&z=2008-06-01&g=2008-06-01) voor zover het de eis van een notariële akte betreft, en lid 3, [253 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=253&z=2008-06-01&g=2008-06-01), [257](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=257&z=2008-06-01&g=2008-06-01), [258](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=258&z=2008-06-01&g=2008-06-01), [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=259&z=2008-06-01&g=2008-06-01) en [260](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=260&z=2008-06-01&g=2008-06-01).
 
 ##### Artikel 251
 
@@ -1895,13 +1895,13 @@ Kan een partij bij een overeenkomst ter afwering van haar aansprakelijkheid voor
 
 ##### Artikel 260
 
-1. Een wijziging of ontbinding als bedoeld in de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=258&z=2006-02-01&g=2006-02-01) en [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=259&z=2006-02-01&g=2006-02-01) kan worden uitgesproken onder door de rechter te stellen voorwaarden.
+1. Een wijziging of ontbinding als bedoeld in de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=258&z=2008-06-01&g=2008-06-01) en [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=259&z=2008-06-01&g=2008-06-01) kan worden uitgesproken onder door de rechter te stellen voorwaarden.
 
 2. Indien hij op grond van die artikelen de overeenkomst wijzigt of gedeeltelijk ontbindt, kan hij bepalen dat een of meer der partijen de overeenkomst binnen een bij de uitspraak vast te stellen termijn door een schriftelijke verklaring geheel zal kunnen ontbinden. De wijziging of gedeeltelijke ontbinding treedt niet in, voordat deze termijn is verstreken.
 
-3. Is de overeenkomst die op grond van de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=258&z=2006-02-01&g=2006-02-01) en [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=259&z=2006-02-01&g=2006-02-01) wordt gewijzigd of geheel of gedeeltelijk ontbonden, ingeschreven in de openbare registers, dan kan ook de uitspraak waarbij de wijziging of ontbinding plaatsvond, daarin worden ingeschreven, mits deze uitspraak in kracht van gewijsde is gegaan of uitvoerbaar bij voorraad is.
+3. Is de overeenkomst die op grond van de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=258&z=2008-06-01&g=2008-06-01) en [259](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=259&z=2008-06-01&g=2008-06-01) wordt gewijzigd of geheel of gedeeltelijk ontbonden, ingeschreven in de openbare registers, dan kan ook de uitspraak waarbij de wijziging of ontbinding plaatsvond, daarin worden ingeschreven, mits deze uitspraak in kracht van gewijsde is gegaan of uitvoerbaar bij voorraad is.
 
-4. Wordt iemand te dier zake gedagvaard aan zijn overeenkomstig [artikel 252 lid 2, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=252&z=2006-02-01&g=2006-02-01), gekozen woonplaats, dan zijn daarmee tevens gedagvaard al zijn rechtverkrijgenden die geen nieuwe inschrijving hebben genomen. [Artikel 29 lid 2 en lid 3, tweede tot en met vierde zin, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=29) zijn van overeenkomstige toepassing.
+4. Wordt iemand te dier zake gedagvaard aan zijn overeenkomstig [artikel 252 lid 2, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=4&artikel=252&z=2008-06-01&g=2008-06-01), gekozen woonplaats, dan zijn daarmee tevens gedagvaard al zijn rechtverkrijgenden die geen nieuwe inschrijving hebben genomen. [Artikel 29 lid 2 en lid 3, tweede tot en met vierde zin, van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=29) zijn van overeenkomstige toepassing.
 
 5. Andere rechtsfeiten die een ingeschreven overeenkomst wijzigen of beëindigen, zijn eveneens inschrijfbaar, voor zover het rechterlijke uitspraken betreft mits zij in kracht van gewijsde zijn gegaan of uitvoerbaar bij voorraad zijn.
 
@@ -1927,7 +1927,7 @@ Kan een partij bij een overeenkomst ter afwering van haar aansprakelijkheid voor
 
 ##### Artikel 264
 
-In geval van opschorting op grond van de [artikelen 262](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=5&artikel=262&z=2006-02-01&g=2006-02-01) en [263](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=5&artikel=263&z=2006-02-01&g=2006-02-01) zijn de [artikelen 54 onder **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=7&artikel=54&z=2006-02-01&g=2006-02-01) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=7&artikel=55&z=2006-02-01&g=2006-02-01) niet van toepassing.
+In geval van opschorting op grond van de [artikelen 262](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=5&artikel=262&z=2008-06-01&g=2008-06-01) en [263](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=5&artikel=263&z=2008-06-01&g=2008-06-01) zijn de [artikelen 54 onder **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=7&artikel=54&z=2008-06-01&g=2008-06-01) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=7&artikel=55&z=2008-06-01&g=2008-06-01) niet van toepassing.
 
 ##### Artikel 265
 
@@ -1943,7 +1943,7 @@ In geval van opschorting op grond van de [artikelen 262](https://wetten.overheid
 
 ##### Artikel 267
 
-1. De ontbinding vindt plaats door een schriftelijke verklaring van de daartoe gerechtigde. Indien de overeenkomst langs elektronische weg is totstandgekomen, kan deze tevens door een langs elektronische weg uitgebrachte verklaring worden ontbonden. [Artikel 227a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=227a&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing.
+1. De ontbinding vindt plaats door een schriftelijke verklaring van de daartoe gerechtigde. Indien de overeenkomst langs elektronische weg is totstandgekomen, kan deze tevens door een langs elektronische weg uitgebrachte verklaring worden ontbonden. [Artikel 227a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=2&artikel=227a&z=2008-06-01&g=2008-06-01) is van overeenkomstige toepassing.
 
 2. Zij kan ook op zijn vordering door de rechter worden uitgesproken.
 
@@ -1971,7 +1971,7 @@ Een ontbinding bevrijdt de partijen van de daardoor getroffen verbintenissen. Vo
 
 ##### Artikel 273
 
-Een partij die een prestatie heeft ontvangen, is vanaf het tijdstip dat zij redelijkerwijze met een ontbinding rekening moet houden, verplicht er als een zorgvuldig schuldenaar zorg voor te dragen dat de ingevolge die ontbinding verschuldigde ongedaanmaking van de prestatie mogelijk zal zijn. [Artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=1&artikel=78&z=2006-02-01&g=2006-02-01) is van overeenkomstige toepassing.
+Een partij die een prestatie heeft ontvangen, is vanaf het tijdstip dat zij redelijkerwijze met een ontbinding rekening moet houden, verplicht er als een zorgvuldig schuldenaar zorg voor te dragen dat de ingevolge die ontbinding verschuldigde ongedaanmaking van de prestatie mogelijk zal zijn. [Artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=1&artikel=78&z=2008-06-01&g=2008-06-01) is van overeenkomstige toepassing.
 
 ##### Artikel 274
 
@@ -1989,7 +1989,7 @@ Op de onbekwame die een prestatie heeft ontvangen, rusten de in deze afdeling om
 
 1. Wordt een overeenkomst geheel of gedeeltelijk ontbonden, dan is de partij wier tekortkoming een grond voor ontbinding heeft opgeleverd, verplicht haar wederpartij de schade te vergoeden die deze lijdt, doordat geen wederzijdse nakoming doch ontbinding van de overeenkomst plaatsvindt.
 
-2. Indien de tekortkoming niet aan de schuldenaar kan worden toegerekend, is het vorige lid slechts van toepassing binnen de grenzen van het in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=1&artikel=78&z=2006-02-01&g=2006-02-01) bepaalde.
+2. Indien de tekortkoming niet aan de schuldenaar kan worden toegerekend, is het vorige lid slechts van toepassing binnen de grenzen van het in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=1&afdeling=9&paragraaf=1&artikel=78&z=2008-06-01&g=2008-06-01) bepaalde.
 
 ##### Artikel 278
 
@@ -2187,7 +2187,7 @@ is de certificatiedienstverlener aansprakelijk voor de dientengevolge door deze 
 
 - e. de gedragscodes waaraan hij zich heeft onderworpen en de wijze waarop deze gedragscodes voor de wederpartij langs elektronische weg te raadplegen zijn.
 
-2. De dienstverlener stelt voor of bij het sluiten van de overeenkomst de voorwaarden daarvan, niet zijnde algemene voorwaarden als bedoeld in [artikel 231](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=231&z=2006-02-01&g=2006-02-01), op zodanige wijze aan de wederpartij ter beschikking, dat deze door hem kunnen worden opgeslagen zodat deze voor hem toegankelijk zijn ten behoeve van latere kennisneming.
+2. De dienstverlener stelt voor of bij het sluiten van de overeenkomst de voorwaarden daarvan, niet zijnde algemene voorwaarden als bedoeld in [artikel 231](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&boek=6&titeldeel=5&afdeling=3&artikel=231&z=2008-06-01&g=2008-06-01), op zodanige wijze aan de wederpartij ter beschikking, dat deze door hem kunnen worden opgeslagen zodat deze voor hem toegankelijk zijn ten behoeve van latere kennisneming.
 
 3. Lid 1 is niet van toepassing op overeenkomsten die uitsluitend door middel van de uitwisseling van elektronische post of een soortgelijke vorm van individuele communicatie tot stand zijn gekomen.
 
