@@ -4,7 +4,7 @@ identifier: "BWBR0004501"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2002-05-08"
+last_updated: "2008-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004501"
 soort: "AMvB"
@@ -74,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2002-05-08&g=2002-05-08) gestelde verboden gelden niet voor zover het betreft:
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2008-06-01&g=2008-06-01) gestelde verboden gelden niet voor zover het betreft:
 
 - a. de toepassing, het bewaren of het voorhanden hebben in of het zich ontdoen door afgifte vanuit particuliere huishoudens;
 
@@ -84,9 +84,9 @@ In dit besluit wordt verstaan onder:
 
 - d. brandstoffen, aanwezig in de brandstoffentank van een vaartuig, voertuig of luchtvaartuig dat binnen Nederlands grondgebied wordt gebracht.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2002-05-08&g=2002-05-08) gestelde verboden gelden voorts niet voor zover:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2008-06-01&g=2008-06-01) gestelde verboden gelden voorts niet voor zover:
 
-- a. de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2002-05-08&g=2002-05-08) genoemde handelingen worden verricht in overeenstemming met een vergunning of ontheffing, verleend krachtens de [artikelen 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) of [10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.54) juncto [10.63, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.63) of [artikel 4 van de Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975&artikel=4), waarbij uitdrukkelijk de bevoegdheid is verleend handelingen te verrichten ten aanzien van gevaarlijke afvalstoffen, waarin zich polychloorbifenylen of andere organische halogeenverbindingen bevinden;
+- a. de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2008-06-01&g=2008-06-01) genoemde handelingen worden verricht in overeenstemming met een vergunning of ontheffing, verleend krachtens de [artikelen 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) of [10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.54) juncto [10.63, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.63) of [artikel 4 van de Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975&artikel=4), waarbij uitdrukkelijk de bevoegdheid is verleend handelingen te verrichten ten aanzien van gevaarlijke afvalstoffen, waarin zich polychloorbifenylen of andere organische halogeenverbindingen bevinden;
 
 - b. het betreft het zich ontdoen door afgifte aan of het bewaren of voorhanden hebben met het oog op het zich ontdoen door afgifte aan een persoon als bedoeld onder **a**. Dit moet blijken uit een schriftelijke overeenkomst met deze persoon;
 
@@ -103,5 +103,11 @@ Onze Minister stelt regels omtrent de methoden volgens welke het gehalte aan pol
 1. Dit besluit treedt in werking met ingang van de eenendertigste dag na de datum van de uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
 2. Het kan worden aangehaald als Besluit organisch-halogeengehalte van brandstoffen.
+
+Lasten en bevelen dat dit besluit met daarbijbehorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 4a
+
+Dit besluit berust op [artikel 9.2.2.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
 
 Lasten en bevelen dat dit besluit met daarbijbehorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
