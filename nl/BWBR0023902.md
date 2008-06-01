@@ -363,17 +363,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 Dit besluit wordt aangehaald als: Besluit gebruik burgerservicenummer in de zorg.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 10a
-
-Voor de toepassing van dit hoofdstuk wordt verstaan onder:
-
-- **jeugdzorgaanbieder:** natuurlijke persoon of rechtspersoon die jeugdzorg verleent waarop aanspraak bestaat ingevolge de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&wetgeving).
-
-### Hoofdstuk IV. Toegangsmiddelen
-
-### Hoofdstuk V. Vaststellen identiteit cliënt
-
-### Hoofdstuk VI. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
