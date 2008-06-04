@@ -565,27 +565,3 @@ Dit besluit treedt in werking met ingang van de dag na uitgifte van het Staatsbl
 Dit besluit wordt aangehaald als: Besluit luchtvaartuigen 2008.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 1b
-
-Dit onderdeel is nog niet inwerking getreden
-
-### Hoofdstuk 2. Nationaliteit en inschrijving van luchtvaartuigen
-
-### Hoofdstuk 3. Aanvullende type-certificaten
-
-### Hoofdstuk 4. Bewijzen van luchtwaardigheid
-
-### Hoofdstuk 5. Geluidscertificaten, geluidsverklaringen en aanvullende geluidsverklaringen
-
-### Hoofdstuk 6. Erkenningen
-
-### Hoofdstuk 7. Vergoedingen
-
-### Hoofdstuk 9. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
