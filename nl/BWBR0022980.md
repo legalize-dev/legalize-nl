@@ -4,7 +4,7 @@ identifier: "BWBR0022980"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2008-06-05"
-last_updated: "2008-05-01"
+last_updated: "2008-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022980"
 soort: "rijkswet"
@@ -45,11 +45,11 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Rijksoctrooiwet 1995.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+De [wet van 25 april 1963, houdende goedkeuring van het Beneluxverdrag met eenvormige wet inzake de warenmerken, alsmede enkele daarmede verband houdende voorzieningen](onbekend) (Stb. 1963, 221) wordt ingetrokken.
 
 ##### Artikel III
 
@@ -57,19 +57,21 @@ Wijzigt de Rijkswet tot goedkeuring en uitvoering Akte tot herziening van artike
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Zaaizaad- en plantgoedwet 2005.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Op octrooiaanvragen die zijn ingediend voor het tijdstip waarop [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0022980&artikel=I&z=2008-06-05&g=2008-06-05), in werking treedt, blijven de [artikelen 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=24), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=28), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=32), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=33) en [36 van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=36), zoals deze luidden op de dag voor dat tijdstip, van toepassing.
+
+2. Op octrooien die ingevolge [artikel 33, eerste lid, van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=33) zijn verleend, blijven de [artikelen 33, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=33), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=37), en [58, vierde lid, van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=58), zoals deze luidden op de dag voor dat tijdstip, van toepassing.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Op een akte van afstand van een octrooi die in het octrooiregister is ingeschreven blijft [artikel 63 van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=63) van toepassing zoals dat voor het tijdstip van inwerking van deze rijkswet gold.
 
 ##### Artikel VIII
 
