@@ -4,7 +4,7 @@ identifier: "BWBR0018936"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-02"
-last_updated: "2005-11-05"
+last_updated: "2008-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018936"
 soort: "ministeriele-regeling"
@@ -66,9 +66,21 @@ Besluit:
 
 2. Het eerste lid is niet van toepassing op:
 
-- a. de levering, verkoop of overdracht aan de missie van de Verenigde Naties in de Democratische Republiek Congo (MONUC) en de geïntegreerde Congolese nationale leger- en politietroepen, mits tot deze activiteiten machtiging werd verleend door de bevoegde instantie, genoemd in de bijlage bij [Verordening (EG) nr. 889/2005](32005R0889), daarvan vooraf melding werd gedaan aan het comité, bedoeld in punt 8 van resolutie 1533 (2004) van de VN-Veiligheidsraad en de levering, verkoop of overdracht geschiedt aan locaties die zijn aangewezen door de overgangsregering van nationale eenheid;
+- a. de levering, verkoop of overdracht van wapens en aanverwant materiaal of financiële tussenhandel en andere met wapens en aanverwant materieel gerelateerde diensten uitsluitend bestemd ter ondersteuning van of voor gebruik door leger- en politie-eenheden van de Democratische Republiek Congo, mits die eenheden:
 
-- b. de levering, verkoop of overdracht van niet-dodelijke militaire uitrusting uitsluitend bestemd voor humanitaire of beschermende doeleinden, mits de bevoegde instantie, genoemd in de bijlage bij [Verordening (EG) nr. 889/2005](32005R0889), tot deze activiteiten machtiging heeft verleend, daarvan vooraf melding werd gedaan aan het comité, bedoeld in punt 8 van resolutie 1533 (2004) van de VN-Veiligheidsraad en de levering, verkoop of overdracht geschiedt aan locaties die zijn aangewezen door de overgangsregering van nationale eenheid.
+- –. hun integratieproces hebben voltooid, of
+
+- –. onder het bevel opereren van de geïntegreerde staf van de strijdkrachten of de nationale politie van de Democratische Republiek Congo, of
+
+- –. zich in een integratieproces bevinden, op het grondgebied van de Democratische Republiek Congo buiten de provincies Noord- en Zuid-Kivu en het Ituri-district;
+
+- b. de levering, verkoop of overdracht van wapens en aanverwant materiaal of financiële tussenhandel en andere met wapens en aanverwant materieel gerelateerde diensten uitsluitend bestemd ter ondersteuning van of voor gebruik door de VN-missie in de Democratische Republiek Congo (MONUC);
+
+- c. de levering, verkoop of overdracht van niet-dodelijke militaire uitrusting die uitsluitend voor humanitaire of beschermende doeleinden bestemd is, mits die levering of verstrekking vooraf aan het comité, bedoeld in punt 8 van resolutie 1533 (2004) van de VN-Veiligheidsraad is medegedeeld.
+
+3. De levering, verkoop of overdracht van wapens en aanverwant materiaal, bedoeld in het tweede lid, vindt uitsluitend plaats aan locaties die zijn aangewezen door de regering van de Democratische Republiek Congo, in coördinatie met MONUC, en wordt vooraf aan het comité, bedoeld in punt 8 van resolutie 1533 (2004) van de VN-Veiligheidsraad, medegedeeld.
+
+4. De levering, verkoop of overdracht van wapens en aanverwant materiaal of de verstrekking van diensten of technische opleiding en bijstand, bedoeld in het tweede lid, is onderworpen aan een door de bevoegde autoriteiten verleende vergunning.
 
 ##### Artikel 4
 
@@ -81,5 +93,11 @@ Deze regeling wordt aangehaald als: Sanctieregeling Congo 2005.
 ##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, van Verordening (EG) nr. 889/2005 van de Raad van de Europese Unie van 13 juni 2005 tot vaststelling van bepaalde beperkende maatregelen ten aanzien van de Democratische Republiek Congo en tot intrekking van Verordening (EG) nr. 1727/2003 (Pb EG L 152), is de Minister van Economische Zaken voor zover het betreft technische bijstand, bedoeld in voornoemd artikel 3, eerste lid. De bevoegde autoriteit is de Minister van Financiën voor zover het betreft financiering en financiële bijstand, bedoeld in voornoemd artikel 3, eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
