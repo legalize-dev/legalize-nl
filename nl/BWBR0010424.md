@@ -4,7 +4,7 @@ identifier: "BWBR0010424"
 country: "nl"
 rank: "wet"
 publication_date: "2023-10-01"
-last_updated: "2006-01-01"
+last_updated: "2008-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010424"
 soort: "wet"
@@ -49,7 +49,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Binnenlandse Zaken;
+- a. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie;
 
 - b. minderheidsgroep: een door Onze Minister aangewezen doelgroep van het integratiebeleid;
 
@@ -59,7 +59,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - e. bestemmingsland: land waarin een remigrant zich gaat vestigen;
 
-- f. remigrant: een persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2006-01-01&g=2006-01-01), die met de toepassing van deze wet voornemens is zijn rechtmatig hoofdverblijf in Nederland op te geven om te remigreren, dan wel is geremigreerd en sindsdien in een bestemmingsland is gevestigd;
+- f. remigrant: een persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2008-06-13&g=2008-06-13), die met de toepassing van deze wet voornemens is zijn rechtmatig hoofdverblijf in Nederland op te geven om te remigreren, dan wel is geremigreerd en sindsdien in een bestemmingsland is gevestigd;
 
 - g. partner: de meeremigrerende echtgenoot van de remigrant, de meeremigrerende geregistreerde partner van de remigrant of de ongehuwd meerderjarige die met de remigrant, die geen bloedverwant is in de eerste graad, een gezamenlijke huishouding voert waarbij betrokkenen hun hoofdverblijf hebben in dezelfde woning en die met deze remigrant meeremigreert, met dien verstande dat deze gezamenlijke huishouding uit niet meer dan twee meerderjarige personen bestaat;
 
@@ -107,7 +107,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. De voorwaarden, bedoeld in het eerste lid, betreffen in ieder geval:
 
-- a. het afleggen van een verklaring als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2006-01-01&g=2006-01-01), door een meerderjarige Nederlander die behoort tot een minderheidsgroep;
+- a. het afleggen van een verklaring als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2008-06-13&g=2008-06-13), door een meerderjarige Nederlander die behoort tot een minderheidsgroep;
 
 - b. in overeenstemming met deze verklaring al hetgeen te doen wat in redelijkheid mogelijk is, om binnen een redelijke termijn de nationaliteit van het bestemmingsland te verkrijgen.
 
@@ -117,25 +117,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Aan een remigrant als bedoeld in het eerste lid, wordt een tegemoetkoming verstrekt in de kosten van een door hem te sluiten verzekering tegen ziektekosten in het bestemmingsland, indien hij niet met toepassing van een Verordening van de Raad van de Europese Gemeenschappen of een door Nederland met een of meer andere staten gesloten verdrag inzake sociale zekerheid, recht kan doen gelden op verstrekkingen, die hem in beginsel ten laste van de middelen van het Zorgverzekeringsfonds als bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39) worden verleend.
 
-3. Aan een persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2006-01-01&g=2006-01-01), die is geremigreerd naar een bestemmingsland en die geen aanspraak heeft op verstrekking van een periodieke uitkering als bedoeld in het eerste lid, uitsluitend vanwege het feit, dat hij voorafgaande aan zijn vertrek uit Nederland geen aanvraag daarvoor heeft ingediend, wordt overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, bedoeld in het eerste lid, op aanvraag een periodieke uitkering verstrekt, indien hij op de dag van vertrek recht had op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke uitkering na zijn vertrek uit Nederland op grond de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36) of [43 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43) is verlaagd of ingetrokken.
+3. Aan een persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2008-06-13&g=2008-06-13), die is geremigreerd naar een bestemmingsland en die geen aanspraak heeft op verstrekking van een periodieke uitkering als bedoeld in het eerste lid, uitsluitend vanwege het feit, dat hij voorafgaande aan zijn vertrek uit Nederland geen aanvraag daarvoor heeft ingediend, wordt overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, bedoeld in het eerste lid, op aanvraag een periodieke uitkering verstrekt, indien hij op de dag van vertrek recht had op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke uitkering na zijn vertrek uit Nederland op grond de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36) of [43 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43) is verlaagd of ingetrokken.
 
-4. Het tweede lid en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2006-01-01&g=2006-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6&z=2006-01-01&g=2006-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=7&z=2006-01-01&g=2006-01-01) zijn van overeenkomstige toepassing op de persoon, bedoeld in het derde lid.
+4. Het tweede lid en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2008-06-13&g=2008-06-13), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6&z=2008-06-13&g=2008-06-13) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=7&z=2008-06-13&g=2008-06-13) zijn van overeenkomstige toepassing op de persoon, bedoeld in het derde lid.
 
 ##### Artikel 5
 
-1. Indien de remigrant een partner heeft en hij ophoudt met deze persoon een gezamenlijke huishouding te voeren, verkrijgt ieder der partijen een recht op de voorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2006-01-01&g=2006-01-01), als ware hij een alleenstaande remigrant.
+1. Indien de remigrant een partner heeft en hij ophoudt met deze persoon een gezamenlijke huishouding te voeren, verkrijgt ieder der partijen een recht op de voorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2008-06-13&g=2008-06-13), als ware hij een alleenstaande remigrant.
 
-2. Indien de remigrant een partner heeft en hij of zijn partner overlijdt, verkrijgt de langstlevende een recht op de voorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2006-01-01&g=2006-01-01), als ware hij een alleenstaande remigrant.
+2. Indien de remigrant een partner heeft en hij of zijn partner overlijdt, verkrijgt de langstlevende een recht op de voorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2008-06-13&g=2008-06-13), als ware hij een alleenstaande remigrant.
 
-3. Indien de remigrant en zijn partner overlijden, verkrijgen de minderjarige kinderen een evenredig deel van het recht op de helft van de voorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2006-01-01&g=2006-01-01), waarop de remigrant en zijn partner bij leven recht zouden hebben gehad.
+3. Indien de remigrant en zijn partner overlijden, verkrijgen de minderjarige kinderen een evenredig deel van het recht op de helft van de voorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2008-06-13&g=2008-06-13), waarop de remigrant en zijn partner bij leven recht zouden hebben gehad.
 
-4. Onder partner wordt in het eerste, tweede en derde lid mede verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01).
+4. Onder partner wordt in het eerste, tweede en derde lid mede verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2008-06-13&g=2008-06-13).
 
-5. Onder kinderen wordt in het derde lid mede verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01).
+5. Onder kinderen wordt in het derde lid mede verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2008-06-13&g=2008-06-13).
 
 ##### Artikel 6
 
-Indien niet wordt voldaan aan de voorwaarden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=3&z=2006-01-01&g=2006-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2006-01-01&g=2006-01-01), wordt het recht op de voorzieningen, bedoeld in die artikelen beëindigd, de betaling van op grond van dat recht uit te keren bedragen geschorst en de op grond daarvan reeds betaalde bedragen geheel of gedeeltelijk teruggevorderd, voorzover dat bij of krachtens algemene maatregel van bestuur wordt bepaald.
+Indien niet wordt voldaan aan de voorwaarden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=3&z=2008-06-13&g=2008-06-13) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2008-06-13&g=2008-06-13), wordt het recht op de voorzieningen, bedoeld in die artikelen beëindigd, de betaling van op grond van dat recht uit te keren bedragen geschorst en de op grond daarvan reeds betaalde bedragen geheel of gedeeltelijk teruggevorderd, voorzover dat bij of krachtens algemene maatregel van bestuur wordt bepaald.
 
 ##### Artikel 7
 
@@ -149,7 +149,7 @@ Indien niet wordt voldaan aan de voorwaarden, bedoeld in de [artikelen 3](https:
 
 - d. de termijn waarbinnen tot remigratie moet zijn overgegaan, nadat op een aanvraag is beslist;
 
-- e. de datum waarop het recht op de voorzieningen ingaat en het recht op de voorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2006-01-01&g=2006-01-01), vervalt.
+- e. de datum waarop het recht op de voorzieningen ingaat en het recht op de voorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2008-06-13&g=2008-06-13), vervalt.
 
 2. Een krachtens het eerste lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan vier weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
@@ -173,7 +173,7 @@ Indien niet wordt voldaan aan de voorwaarden, bedoeld in de [artikelen 3](https:
 
 1. Aan de Sociale verzekeringsbank worden de uitgaven door Onze Minister vergoed van de voorzieningen die op grond van deze wet door de Sociale verzekeringsbank zijn betaald.
 
-2. Aan de Sociale verzekeringsbank worden de kosten door Onze Minister vergoed die door de Sociale verzekeringsbank bij de uitvoering van haar taak, bedoeld in [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8a&z=2006-01-01&g=2006-01-01), worden gemaakt.
+2. Aan de Sociale verzekeringsbank worden de kosten door Onze Minister vergoed die door de Sociale verzekeringsbank bij de uitvoering van haar taak, bedoeld in [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8a&z=2008-06-13&g=2008-06-13), worden gemaakt.
 
 3. Onze Minister kan regels stellen over de systematiek van de kosten, bedoeld in het tweede lid.
 
@@ -181,13 +181,13 @@ Indien niet wordt voldaan aan de voorwaarden, bedoeld in de [artikelen 3](https:
 
 1. Ten behoeve van de uitvoering van deze wet biedt de Sociale verzekeringsbank aan Onze Minister aan:
 
-- a. een begroting en een vijfjarige raming van de in [artikel 8b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8b&z=2006-01-01&g=2006-01-01), bedoelde uitgaven en kosten, alsmede van de te verwachten ontvangsten. De begroting behoeft goedkeuring van Onze Minister;
+- a. een begroting en een vijfjarige raming van de in [artikel 8b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8b&z=2008-06-13&g=2008-06-13), bedoelde uitgaven en kosten, alsmede van de te verwachten ontvangsten. De begroting behoeft goedkeuring van Onze Minister;
 
 - b. een aanvraag om een voorschot ten behoeve van een komend begrotingsjaar. Onze Minister stelt de hoogte van het voorschot vast;
 
-- c. een tussentijdse rapportage over het lopende kalenderjaar over de in [artikel 8b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8b&z=2006-01-01&g=2006-01-01), gerealiseerde uitgaven en kosten ten opzichte van de verstrekte voorschotten;
+- c. een tussentijdse rapportage over het lopende kalenderjaar over de in [artikel 8b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8b&z=2008-06-13&g=2008-06-13), gerealiseerde uitgaven en kosten ten opzichte van de verstrekte voorschotten;
 
-- d. een jaarrekening, een verslag van werkzaamheden en het gevoerde beleid in het algemeen en de doelmatigheid van werkzaamheden en werkwijze in het bijzonder en een aanvraag tot vaststelling van de in [artikel 8b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8b&z=2006-01-01&g=2006-01-01), bedoelde uitgaven, kosten en ontvangsten. Onze Minister stelt de hoogte van het definitieve bedrag van de eindafrekening vast;
+- d. een jaarrekening, een verslag van werkzaamheden en het gevoerde beleid in het algemeen en de doelmatigheid van werkzaamheden en werkwijze in het bijzonder en een aanvraag tot vaststelling van de in [artikel 8b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8b&z=2008-06-13&g=2008-06-13), bedoelde uitgaven, kosten en ontvangsten. Onze Minister stelt de hoogte van het definitieve bedrag van de eindafrekening vast;
 
 - e. een verklaring omtrent de getrouwheid van de jaarrekening, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) en een rechtmatigheidsrapportage over de uitvoering van deze wet, afgegeven door de interne accountant van de Sociale verzekeringsbank. Ten behoeve van de rechtmatigheid, met inbegrip van de getrouwheid, stelt Onze Minister een controleprotocol vast.
 
@@ -199,17 +199,17 @@ Indien niet wordt voldaan aan de voorwaarden, bedoeld in de [artikelen 3](https:
 
 2. Indien gedurende het boekjaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke uitgaven en inkomsten en de begrote uitgaven en inkomsten doet de Sociale verzekeringsbank daarvan onverwijld mededeling aan Onze Minister onder vermelding van de oorzaak van de verschillen.
 
-3. Onze Minister kan naar aanleiding van een mededeling als bedoeld in het tweede lid het voorschot, bedoeld in [artikel 8c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8c&z=2006-01-01&g=2006-01-01), aanpassen.
+3. Onze Minister kan naar aanleiding van een mededeling als bedoeld in het tweede lid het voorschot, bedoeld in [artikel 8c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8c&z=2008-06-13&g=2008-06-13), aanpassen.
 
 ##### Artikel 8e
 
-Ten behoeve van de controle van de in [artikel 8b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8b&z=2006-01-01&g=2006-01-01), bedoelde uitgaven en kosten verschaft de Sociale verzekeringsbank desgevraagd aan de door Onze Minister daartoe aangewezen ambtenaren van de accountantsdienst, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=66), de voor deze controle benodigde informatie en verleent desgevraagd aan deze ambtenaren toegang tot en inzage in alle gegevens die bij de controle op enigerlei wijze een rol spelen.
+Ten behoeve van de controle van de in [artikel 8b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8b&z=2008-06-13&g=2008-06-13), bedoelde uitgaven en kosten verschaft de Sociale verzekeringsbank desgevraagd aan de door Onze Minister daartoe aangewezen ambtenaren van de accountantsdienst, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=66), de voor deze controle benodigde informatie en verleent desgevraagd aan deze ambtenaren toegang tot en inzage in alle gegevens die bij de controle op enigerlei wijze een rol spelen.
 
 ##### Artikel 8f
 
-1. De Sociale verzekeringsbank voert een zodanig ingerichte afzonderlijke administratie, dat daaruit te allen tijde de voor de vaststelling van de in [artikel 8b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8b&z=2006-01-01&g=2006-01-01), bedoelde uitgaven en kosten van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan.
+1. De Sociale verzekeringsbank voert een zodanig ingerichte afzonderlijke administratie, dat daaruit te allen tijde de voor de vaststelling van de in [artikel 8b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8b&z=2008-06-13&g=2008-06-13), bedoelde uitgaven en kosten van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan.
 
-2. In de administratie, bedoeld in het eerste lid, wordt het sociaal-fiscaal nummer opgenomen van de remigrant, zijn partner en hun kinderen, waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), en waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01).
+2. In de administratie, bedoeld in het eerste lid, wordt het sociaal-fiscaal nummer opgenomen van de remigrant, zijn partner en hun kinderen, waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2008-06-13&g=2008-06-13), en waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2008-06-13&g=2008-06-13).
 
 3. Onze Minister kan regels stellen omtrent de inrichting van de administratie, bedoeld in het eerste lid.
 
@@ -217,7 +217,7 @@ Ten behoeve van de controle van de in [artikel 8b, eerste en tweede lid](https:/
 
 1. De Sociale verzekeringsbank is bevoegd controlevoorschriften vast te stellen. Deze voorschriften mogen niet verder gaan dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
-2. De personen die aanspraak hebben op de voorzieningen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=3&z=2006-01-01&g=2006-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2006-01-01&g=2006-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2006-01-01&g=2006-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=11&z=2006-01-01&g=2006-01-01), zijn verplicht de voorschriften op te volgen die de Sociale verzekeringsbank ten behoeve van een doelmatige controle stelt.
+2. De personen die aanspraak hebben op de voorzieningen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=3&z=2008-06-13&g=2008-06-13), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2008-06-13&g=2008-06-13), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2008-06-13&g=2008-06-13) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=11&z=2008-06-13&g=2008-06-13), zijn verplicht de voorschriften op te volgen die de Sociale verzekeringsbank ten behoeve van een doelmatige controle stelt.
 
 3. De controlevoorschriften, bedoeld in het eerste lid, behoeven goedkeuring van Onze Minister.
 
@@ -243,7 +243,7 @@ Ten behoeve van de controle van de in [artikel 8b, eerste en tweede lid](https:/
 
 2. [Artikel 34, eerste lid, onderdeel g, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=34) is van overeenkomstige toepassing, met dien verstande dat wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister voor Vreemdelingenzaken en Integratie;
+- a. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie;
 
 - b. onderwerpen als bedoeld in dit artikel: onderwerpen die geregeld zijn in deze wet.
 
@@ -257,19 +257,19 @@ Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet aan de 
 
 1. Personen die op de dag voor de inwerkingtreding van deze wet zijn geremigreerd en een uitkering ontvingen op basis van de Remigratieregeling 1985 behoeven geen aanvraag in te dienen voor het verkrijgen van een periodieke uitkering op basis van deze wet. De bedragen van bedoelde uitkering worden van rechtswege aangepast aan het niveau van de bedragen op basis van deze wet.
 
-2. [Artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2006-01-01&g=2006-01-01), is niet van toepassing op personen die op de dag voor de inwerkingtreding van deze wet zijn geremigreerd.
+2. [Artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2008-06-13&g=2008-06-13), is niet van toepassing op personen die op de dag voor de inwerkingtreding van deze wet zijn geremigreerd.
 
-3. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2006-01-01&g=2006-01-01), is niet van toepassing op personen die voor de inwerkingtreding van deze wet zijn geremigreerd en die op de dag voor de inwerkingtreding van deze wet geen uitkering ontvingen op basis van de Remigratieregeling 1985.
+3. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2008-06-13&g=2008-06-13), is niet van toepassing op personen die voor de inwerkingtreding van deze wet zijn geremigreerd en die op de dag voor de inwerkingtreding van deze wet geen uitkering ontvingen op basis van de Remigratieregeling 1985.
 
-4. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2006-01-01&g=2006-01-01), is niet van toepassing op de partner van de remigrant die op de dag voor de inwerkingtreding van deze wet is geremigreerd en bij inwerkingtreding van deze wet geen gezamenlijke huishouding meer voert met de remigrant, waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01).
+4. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2008-06-13&g=2008-06-13), is niet van toepassing op de partner van de remigrant die op de dag voor de inwerkingtreding van deze wet is geremigreerd en bij inwerkingtreding van deze wet geen gezamenlijke huishouding meer voert met de remigrant, waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2008-06-13&g=2008-06-13).
 
-5. [Artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2006-01-01&g=2006-01-01), is niet van toepassing op minderjarige kinderen die op de dag voor de inwerkingtreding van deze wet zijn meegeremigreerd en bij inwerkingtreding van deze wet de remigrant en zijn partner met wie de minderjarige kinderen zijn meegeremigreerd, zijn overleden, waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), en waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01).
+5. [Artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2008-06-13&g=2008-06-13), is niet van toepassing op minderjarige kinderen die op de dag voor de inwerkingtreding van deze wet zijn meegeremigreerd en bij inwerkingtreding van deze wet de remigrant en zijn partner met wie de minderjarige kinderen zijn meegeremigreerd, zijn overleden, waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2008-06-13&g=2008-06-13), en waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2008-06-13&g=2008-06-13).
 
 ##### Artikel 11
 
-1. Aan een persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2006-01-01&g=2006-01-01), die voor de dag van inwerkingtreding van deze wet is geremigreerd naar een bestemmingsland en die geen aanspraak heeft op een recht op uitkering op grond van de Remigratieregeling 1985 uitsluitend vanwege het feit, dat hij voorafgaande aan zijn vertrek uit Nederland geen aanvraag daarvoor heeft ingediend, wordt zo nodig in afwijking van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=10&z=2006-01-01&g=2006-01-01), overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2006-01-01&g=2006-01-01), op aanvraag een periodieke uitkering verstrekt, indien hij op de dag van vertrek recht had op een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke uitkering na zijn vertrek uit Nederland op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36) of [43 van Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43) is verlaagd of ingetrokken.
+1. Aan een persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2008-06-13&g=2008-06-13), die voor de dag van inwerkingtreding van deze wet is geremigreerd naar een bestemmingsland en die geen aanspraak heeft op een recht op uitkering op grond van de Remigratieregeling 1985 uitsluitend vanwege het feit, dat hij voorafgaande aan zijn vertrek uit Nederland geen aanvraag daarvoor heeft ingediend, wordt zo nodig in afwijking van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=10&z=2008-06-13&g=2008-06-13), overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2008-06-13&g=2008-06-13), op aanvraag een periodieke uitkering verstrekt, indien hij op de dag van vertrek recht had op een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke uitkering na zijn vertrek uit Nederland op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36) of [43 van Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43) is verlaagd of ingetrokken.
 
-2. [Artikel 10, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=10&z=2006-01-01&g=2006-01-01), is van overeenkomstige toepassing op een persoon als bedoeld in het eerste lid, zijn partner en zijn minderjarige kinderen die voor de inwerkingtreding van deze wet zijn geremigreerd respectievelijk zijn meegeremigreerd, waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), en waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01).
+2. [Artikel 10, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=10&z=2008-06-13&g=2008-06-13), is van overeenkomstige toepassing op een persoon als bedoeld in het eerste lid, zijn partner en zijn minderjarige kinderen die voor de inwerkingtreding van deze wet zijn geremigreerd respectievelijk zijn meegeremigreerd, waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2008-06-13&g=2008-06-13), en waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2008-06-13&g=2008-06-13).
 
 ##### Artikel 12
 
@@ -287,7 +287,7 @@ De Emigratiewet wordt ingetrokken, met dien verstande dat de op grond van de Bas
 
 ##### Artikel 15
 
-De archiefbescheiden van het Emigratiebestuur, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=14&z=2006-01-01&g=2006-01-01), worden op het tijdstip waarop deze wet in werking treedt overgedragen aan de Staat.
+De archiefbescheiden van het Emigratiebestuur, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=14&z=2008-06-13&g=2008-06-13), worden op het tijdstip waarop deze wet in werking treedt overgedragen aan de Staat.
 
 ##### Artikel 16
 
