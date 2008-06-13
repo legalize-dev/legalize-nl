@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2008-01-01"
+last_updated: "2008-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -395,7 +395,7 @@ Onder een geregistreerde, achtergestelde geldlening als bedoeld in [artikel 5.17
 
 4. Als een deelneming als bedoeld in [artikel 5.18, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18) wordt aangemerkt de deelneming waarbij het in de rechtspersoon te storten kapitaal dient ter financiering van bestanddelen die tot het verplichte ondernemingsvermogen zouden behoren indien de onderneming van de rechtspersoon voor rekening van een natuurlijk persoon zou worden gedreven.
 
-5. Met betrekking tot het verzoek om aanwijzing als participatiemaatschappij, de afhandeling van dat verzoek, de informatieverstrekking en de intrekking van de aanwijzing zijn de [artikelen 29 tot en met 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29&z=2009-02-12&g=2008-01-01) van overeenkomstige toepassing.
+5. Met betrekking tot het verzoek om aanwijzing als participatiemaatschappij, de afhandeling van dat verzoek, de informatieverstrekking en de intrekking van de aanwijzing zijn de [artikelen 29 tot en met 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29&z=2009-02-12&g=2008-06-13) van overeenkomstige toepassing.
 
 ##### Artikel 33a. Beleggingen in durfkapitaal; vrijstelling culturele beleggingen
 
@@ -724,11 +724,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2008-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2008-06-13) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2008-01-01) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2008-06-13) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2008-01-01) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2008-06-13) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -808,7 +808,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 - c. uit de regelgeving van de instelling en de feiten blijkt dat een natuurlijk persoon noch een rechtspersoon over het vermogen van de instelling kan beschikken als ware het zijn eigen vermogen; de inspecteur kan, zonodig onder door hem te stellen voorwaarden, toestaan dat een steunstichting en de instelling of instellingen welke door deze stichting worden ondersteund, over en weer kunnen beschikken over elkaars vermogen als ware het eigen vermogen;
 
-- d. de instelling niet meer vermogen aanhoudt dan is aangegeven in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=41b&z=2009-02-12&g=2008-01-01);
+- d. de instelling niet meer vermogen aanhoudt dan is aangegeven in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=41b&z=2009-02-12&g=2008-06-13);
 
 - e. de leden van het orgaan van de instelling dat het beleid bepaalt, ter zake van de door hen voor de instelling verrichte werkzaamheden geen andere beloning ontvangen dan een vergoeding voor gemaakte onkosten en een niet bovenmatig vacatiegeld;
 
@@ -932,9 +932,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 5. Ingeval het fonds is aangewezen met een ingroeiperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
 
-6. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2009-02-12&g=2008-01-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
+6. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2009-02-12&g=2008-06-13), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
 
-7. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2009-02-12&g=2008-01-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
+7. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2009-02-12&g=2008-06-13), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
 
 ### Hoofdstuk 6. Persoonsgebonden aftrek
 
