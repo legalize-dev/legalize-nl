@@ -4,7 +4,7 @@ identifier: "BWBR0019516"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2006-05-25"
+last_updated: "2008-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019516"
 soort: "wet"
@@ -95,13 +95,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. In geval overwogen wordt een tunnel te bouwen of het gebruik te veranderen, stelt de tunnelbeheerder na overleg met de veiligheidsbeambte een tunnelveiligheidsplan op waarin alle veiligheidsaspecten die een rol spelen bij de keuze van de locatie, het ontwerp en het beoogde gebruik, worden afgewogen. De risicoanalyses, bedoeld in het eerste lid, maken daarvan onderdeel uit. Bij ministeriële regeling worden nadere regels gesteld ten aanzien van de vorm en inhoud van het tunnelveiligheidsplan.
 
-3. De tunnelbeheerder vraagt advies aan de Commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=3&z=2006-05-25&g=2006-05-25), over:
+3. De tunnelbeheerder vraagt advies aan de Commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=3&z=2008-06-13&g=2008-06-13), over:
 
 - a. het tunnelveiligheidsplan; en
 
 - b. het bouwplan waarvoor bouwvergunning zal worden aangevraagd.
 
-4. In afwijking van [artikel 2, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=2&z=2006-05-25&g=2006-05-25), is het derde lid van overeenkomstige toepassing ten aanzien van tunnels, langer dan 250 meter, bestemd voor verkeer over spoorstaven of geleiderails.
+4. In afwijking van [artikel 2, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=2&z=2008-06-13&g=2008-06-13), is het derde lid van overeenkomstige toepassing ten aanzien van tunnels, langer dan 250 meter, bestemd voor verkeer over spoorstaven of geleiderails.
 
 ##### Artikel 7
 
@@ -113,7 +113,7 @@ Voor de openstelling van een tunnel stelt de tunnelbeheerder na overleg met de v
 
 - a. na het bouwen open te stellen zonder daartoe strekkende vergunning van het bevoegd college van burgemeester en wethouders;
 
-- b. in gebruik te hebben zonder of in afwijking van het veiligheidsbeheerplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=7&z=2006-05-25&g=2006-05-25).
+- b. in gebruik te hebben zonder of in afwijking van het veiligheidsbeheerplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=7&z=2008-06-13&g=2008-06-13).
 
 2. Bij ministeriële regeling wordt bepaald welke gegevens en bescheiden bij een aanvraag om vergunning, bedoeld in het eerste lid, verstrekt, onderscheidenlijk overgelegd, worden.
 
@@ -133,13 +133,13 @@ De tunnelbeheerder draagt zorg voor een actueel tunnelveiligheidsdossier. Bij mi
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van het bevoegd college van burgemeester en wethouders aangewezen ambtenaren.
 
-2. Het bevoegd college van burgemeester en wethouders draagt er zorg voor dat elke tunnel ten minste eenmaal in de zes jaar wordt onderzocht ten einde vast te stellen of voldaan wordt aan de van toepassing zijnde bepalingen. Het college zendt de resultaten van dit onderzoek onverwijld naar de tunnelbeheerder, de veiligheidsbeambte, Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en geeft daarbij aan welke maatregelen naar zijn oordeel genomen moeten worden om de gebleken tekortkomingen weg te nemen.
+2. Het bevoegd college van burgemeester en wethouders draagt er zorg voor dat elke tunnel ten minste eenmaal in de zes jaar wordt onderzocht ten einde vast te stellen of voldaan wordt aan de van toepassing zijnde bepalingen. Het college zendt de resultaten van dit onderzoek onverwijld naar de tunnelbeheerder, de veiligheidsbeambte, Onze Minister en Onze Minister voor Wonen, Wijken en Integratie en geeft daarbij aan welke maatregelen naar zijn oordeel genomen moeten worden om de gebleken tekortkomingen weg te nemen.
 
 3. In geval van overtreding van het bepaalde bij of krachtens deze wet of het bepaalde ten aanzien van de veiligheid van tunnels bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181):
 
-- a. doet het bevoegd college van burgemeester en wethouders daarvan onverwijld mededeling aan de tunnelbeheerder, de veiligheidsbeambte, Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+- a. doet het bevoegd college van burgemeester en wethouders daarvan onverwijld mededeling aan de tunnelbeheerder, de veiligheidsbeambte, Onze Minister en Onze Minister voor Wonen, Wijken en Integratie;
 
-- b. kan het bevoegd college van burgemeester en wethouders de vergunning, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=8&z=2006-05-25&g=2006-05-25), intrekken.
+- b. kan het bevoegd college van burgemeester en wethouders de vergunning, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=8&z=2008-06-13&g=2008-06-13), intrekken.
 
 ##### Artikel 12
 
