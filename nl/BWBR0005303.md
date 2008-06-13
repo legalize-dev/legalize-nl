@@ -4,7 +4,7 @@ identifier: "BWBR0005303"
 country: "nl"
 rank: "wet"
 publication_date: "2008-06-13"
-last_updated: "1991-12-25"
+last_updated: "2008-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005303"
 soort: "wet"
@@ -52,7 +52,7 @@ De Wet Bezitsvormingsfonds (**Stb.** 1977, 194) wordt ingetrokken. De middelen v
 
 - b. een krachtens het bepaalde in artikel 9 van de Wet Bezitsvormingsfonds teruggevorderd bedrag in afwijking van het bepaalde in het eerste lid van dat artikel in 's Rijks kas wordt gestort.
 
-2. Indien Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer na het tijdstip van inwerkingtreding van deze wet deelneemt in het verlies dat voor een gemeente voortvloeit uit een gegarandeerde lening als bedoeld in artikel 10 van de Wet Bezitsvormingsfonds, waarvoor op dat tijdstip de in dat artikel, tweede lid, onderdeel **a**, genoemde termijn van ten hoogste dertig jaren nog niet is verstreken, wordt die deelneming beheerst door de Wet Bezitsvormingsfonds zoals deze luidde voor dat tijdstip, met dien verstande dat in afwijking van het bepaalde in de artikelen 4, derde lid, aanhef en onderdeel **b**, en 10, eerste lid, van die wet, de uitgaven die voortvloeien uit die deelneming ten laste komen van 's Rijks kas.
+2. Indien Onze Minister voor Wonen, Wijken en Integratie na het tijdstip van inwerkingtreding van deze wet deelneemt in het verlies dat voor een gemeente voortvloeit uit een gegarandeerde lening als bedoeld in artikel 10 van de Wet Bezitsvormingsfonds, waarvoor op dat tijdstip de in dat artikel, tweede lid, onderdeel **a**, genoemde termijn van ten hoogste dertig jaren nog niet is verstreken, wordt die deelneming beheerst door de Wet Bezitsvormingsfonds zoals deze luidde voor dat tijdstip, met dien verstande dat in afwijking van het bepaalde in de artikelen 4, derde lid, aanhef en onderdeel **b**, en 10, eerste lid, van die wet, de uitgaven die voortvloeien uit die deelneming ten laste komen van 's Rijks kas.
 
 3. Premiëring als bedoeld in artikel 13 van de Wet Bezitsvormingsfonds van een spaareffect, gekocht voor 1 januari 1991, wordt beheerst door de Wet Bezitsvormingsfonds zoals deze luidde voor het tijdstip van inwerkingtreding van deze wet, met dien verstande dat:
 
