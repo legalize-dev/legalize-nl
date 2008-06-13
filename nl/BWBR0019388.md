@@ -4,7 +4,7 @@ identifier: "BWBR0019388"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2007-12-20"
+last_updated: "2008-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019388"
 soort: "wet"
@@ -58,13 +58,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. huisvestingsverordening: verordening als bedoeld in [artikel 2 van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=2);
 
-- e. Onze Minister: Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties.
+- e. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie.
 
 ### Hoofdstuk 2. Onroerendezaakbelastingen
 
 ##### Artikel 2
 
-Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aangewezen overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=2&artikel=3&z=2007-12-20&g=2007-12-20).
+Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aangewezen overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=2&artikel=3&z=2008-06-13&g=2008-06-13).
 
 ##### Artikel 3
 
@@ -108,33 +108,33 @@ Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aa
 
 ##### Artikel 5
 
-1. Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan op aanvraag van de gemeenteraad gebieden aanwijzen waarin aan woningzoekenden op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=8&z=2007-12-20&g=2007-12-20) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=9&z=2007-12-20&g=2007-12-20) eisen kunnen worden gesteld.
+1. Onze Minister kan op aanvraag van de gemeenteraad gebieden aanwijzen waarin aan woningzoekenden op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=8&z=2008-06-13&g=2008-06-13) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=9&z=2008-06-13&g=2008-06-13) eisen kunnen worden gesteld.
 
-2. De aanwijzing, bedoeld in het eerste lid, geschiedt voor de duur van ten hoogste vier jaar. Deze termijn kan op aanvraag van de gemeenteraad een maal met ten hoogste vier jaar worden verlengd. Het eerste lid van dit artikel en de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=6&z=2007-12-20&g=2007-12-20) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=7&z=2007-12-20&g=2007-12-20) zijn van overeenkomstige toepassing.
+2. De aanwijzing, bedoeld in het eerste lid, geschiedt voor de duur van ten hoogste vier jaar. Deze termijn kan op aanvraag van de gemeenteraad een maal met ten hoogste vier jaar worden verlengd. Het eerste lid van dit artikel en de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=6&z=2008-06-13&g=2008-06-13) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=7&z=2008-06-13&g=2008-06-13) zijn van overeenkomstige toepassing.
 
 ##### Artikel 6
 
-1. Bij de aanvraag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2007-12-20&g=2007-12-20), maakt de gemeenteraad naar het oordeel van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer voldoende aannemelijk dat de beoogde aanwijzing van de in de aanvraag genoemde gebieden:
+1. Bij de aanvraag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), maakt de gemeenteraad naar het oordeel van Onze Minister voldoende aannemelijk dat de beoogde aanwijzing van de in de aanvraag genoemde gebieden:
 
 - a. noodzakelijk en geschikt is voor het bestrijden van grootstedelijke problematiek in de gemeente, en
 
 - b. voldoet aan de eisen van subsidiariteit en proportionaliteit.
 
-2. De aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2007-12-20&g=2007-12-20), geschiedt uitsluitend indien is voldaan aan het eerste lid, en de gemeenteraad naar het oordeel van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer voldoende aannemelijk heeft gemaakt dat woningzoekenden, aan wie als gevolg van die aanwijzing geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, voldoende mogelijkheden houden om binnen de regio waarin de gemeente is gelegen passende huisvesting te vinden.
+2. De aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), geschiedt uitsluitend indien is voldaan aan het eerste lid, en de gemeenteraad naar het oordeel van Onze Minister voldoende aannemelijk heeft gemaakt dat woningzoekenden, aan wie als gevolg van die aanwijzing geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, voldoende mogelijkheden houden om binnen de regio waarin de gemeente is gelegen passende huisvesting te vinden.
 
-3. Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan gedeputeerde staten dan wel, indien de gemeente is gelegen in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104), het dagelijks bestuur van die plusregio advies vragen over de mogelijkheden, bedoeld in het tweede lid.
+3. Onze Minister kan gedeputeerde staten dan wel, indien de gemeente is gelegen in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104), het dagelijks bestuur van die plusregio advies vragen over de mogelijkheden, bedoeld in het tweede lid.
 
-4. Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer neemt binnen dertien weken na verzending door de gemeenteraad van de aanvraag tot aanwijzing van een gebied, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2007-12-20&g=2007-12-20), een besluit omtrent die aanwijzing. Indien Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zijn besluit niet binnen de termijn, genoemd in de eerste volzin, aan de gemeenteraad bekend heeft gemaakt, wordt het besluit tot aanwijzing geacht te zijn genomen.
+4. Onze Minister neemt binnen dertien weken na verzending door de gemeenteraad van de aanvraag tot aanwijzing van een gebied, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), een besluit omtrent die aanwijzing. Indien Onze Minister zijn besluit niet binnen de termijn, genoemd in de eerste volzin, aan de gemeenteraad bekend heeft gemaakt, wordt het besluit tot aanwijzing geacht te zijn genomen.
 
 ##### Artikel 7
 
-1. Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2007-12-20&g=2007-12-20), in indien hem is gebleken dat:
+1. Onze Minister trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), in indien hem is gebleken dat:
 
-- a. niet langer wordt voldaan aan de voorwaarden gesteld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=6&z=2007-12-20&g=2007-12-20), of
+- a. niet langer wordt voldaan aan de voorwaarden gesteld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=6&z=2008-06-13&g=2008-06-13), of
 
-- b. de woningzoekenden, aan wie als gevolg van de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2007-12-20&g=2007-12-20), geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, onvoldoende mogelijkheden hebben om binnen de regio waarin de gemeente is gelegen voor hen passende huisvesting te vinden.
+- b. de woningzoekenden, aan wie als gevolg van de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, onvoldoende mogelijkheden hebben om binnen de regio waarin de gemeente is gelegen voor hen passende huisvesting te vinden.
 
-2. Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2007-12-20&g=2007-12-20), voorts in indien de gemeenteraad daarom verzoekt.
+2. Onze Minister trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), voorts in indien de gemeenteraad daarom verzoekt.
 
 ##### Artikel 8
 
@@ -166,9 +166,9 @@ Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aa
 
 ##### Artikel 10
 
-1. In afwijking van [artikel 2, derde lid, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=2) stelt de gemeenteraad van een gemeente die is gelegen in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104), ten aanzien van de gebieden aangewezen op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2007-12-20&g=2007-12-20), de huisvestingsverordening vast.
+1. In afwijking van [artikel 2, derde lid, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=2) stelt de gemeenteraad van een gemeente die is gelegen in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104), ten aanzien van de gebieden aangewezen op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), de huisvestingsverordening vast.
 
-2. De op grond van het eerste lid vastgestelde huisvestingsverordening treedt voor de op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2007-12-20&g=2007-12-20) aangewezen gebieden, in de plaats van de huisvestingsverordening die door het algemeen bestuur van de plusregio is vastgesteld.
+2. De op grond van het eerste lid vastgestelde huisvestingsverordening treedt voor de op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13) aangewezen gebieden, in de plaats van de huisvestingsverordening die door het algemeen bestuur van de plusregio is vastgesteld.
 
 ### Hoofdstuk 4. Wijziging van enkele wetten
 
@@ -200,7 +200,7 @@ Wijzigt deze wet.
 
 ##### Artikel 17
 
-Onze Minister zendt in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel 18
 
