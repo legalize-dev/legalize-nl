@@ -4,7 +4,7 @@ identifier: "BWBR0009810"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "1998-12-01"
+last_updated: "2008-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009810"
 soort: "wet"
@@ -50,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+- a. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie;
 
 - b. woongelegenheid:
 
@@ -118,21 +118,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De verhuurder informeert de betrokken huurdersorganisatie eigener beweging schriftelijk over zijn voornemens
 
-- a. tot wijzigingen in het door hem gevoerde beleid, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=1998-12-01&g=1998-12-01); en
+- a. tot wijzigingen in het door hem gevoerde beleid, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2008-06-13&g=2008-06-13); en
 
 - b. inzake het beleid tot vervreemden en bezwaren van woongelegenheden.
 
-[Artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=1998-12-01&g=1998-12-01), is van overeenkomstige toepassing.
+[Artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2008-06-13&g=2008-06-13), is van overeenkomstige toepassing.
 
 2. De verhuurder geeft daarbij aan, wat de beweegredenen zijn voor zijn voornemens en welke gevolgen daaruit voor de betrokken huurders voortvloeien.
 
-3. De verhuurder en de huurdersorganisatie kunnen, onverminderd [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=1998-12-01&g=1998-12-01), schriftelijk nadere afspraken maken over de onderwerpen, waarover informatie wordt gegeven.
+3. De verhuurder en de huurdersorganisatie kunnen, onverminderd [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2008-06-13&g=2008-06-13), schriftelijk nadere afspraken maken over de onderwerpen, waarover informatie wordt gegeven.
 
 4. Indien de huurdersorganisatie de verhuurder te kennen heeft gegeven, overleg met hem te willen voeren over de verstrekte informatie, stelt de verhuurder de huurdersorganisatie daartoe in de gelegenheid.
 
 ##### Artikel 5
 
-1. De verhuurder voert een voornemen tot wijziging in het door hem gevoerde beleid, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=1998-12-01&g=1998-12-01), niet uit dan nadat hij binnen een door hem aan te geven periode van ten minste vier weken na het verstrekken van de informatie overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=4&z=1998-12-01&g=1998-12-01) de huurdersorganisatie in staat heeft gesteld met hem over de verstrekte informatie overleg te voeren en, indien de huurdersorganisatie dat wenst, daarover een schriftelijk advies uit te brengen.
+1. De verhuurder voert een voornemen tot wijziging in het door hem gevoerde beleid, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2008-06-13&g=2008-06-13), niet uit dan nadat hij binnen een door hem aan te geven periode van ten minste vier weken na het verstrekken van de informatie overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=4&z=2008-06-13&g=2008-06-13) de huurdersorganisatie in staat heeft gesteld met hem over de verstrekte informatie overleg te voeren en, indien de huurdersorganisatie dat wenst, daarover een schriftelijk advies uit te brengen.
 
 2. Binnen veertien dagen na ontvangst van een schriftelijk advies als bedoeld in het eerste lid deelt de verhuurder, indien hij het advies geheel of gedeeltelijk niet volgt, schriftelijk aan de huurdersorganisatie de redenen daarvoor mee.
 
@@ -150,9 +150,9 @@ Bij schriftelijke overeenkomst tussen de verhuurder en de huurdersorganisatie ku
 
 ##### Artikel 7
 
-1. De verhuurder vergoedt aan de huurdersorganisatie de kosten die rechtstreeks samenhangen met en redelijkerwijs noodzakelijk zijn voor de vervulling van de taken, genoemd in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=1998-12-01&g=1998-12-01). Onder deze kosten worden mede de kosten van scholingsactiviteiten begrepen.
+1. De verhuurder vergoedt aan de huurdersorganisatie de kosten die rechtstreeks samenhangen met en redelijkerwijs noodzakelijk zijn voor de vervulling van de taken, genoemd in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2008-06-13&g=2008-06-13). Onder deze kosten worden mede de kosten van scholingsactiviteiten begrepen.
 
-2. De verhuurder vergoedt ten minste 50% van de door de huurdersorganisatie uit hoofde van de in [artikel 1, eerste lid, onderdeel f, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=1&artikel=1&z=1998-12-01&g=1998-12-01), bedoelde activiteiten gemaakte kosten, voor zover deze kosten rechtstreeks uit die activiteiten voortvloeien.
+2. De verhuurder vergoedt ten minste 50% van de door de huurdersorganisatie uit hoofde van de in [artikel 1, eerste lid, onderdeel f, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=1&artikel=1&z=2008-06-13&g=2008-06-13), bedoelde activiteiten gemaakte kosten, voor zover deze kosten rechtstreeks uit die activiteiten voortvloeien.
 
 3. Vergoeding van de in het eerste en tweede lid bedoelde kosten geschiedt binnen vier weken na het tijdstip waarop de verhuurder van de huurdersorganisatie een voldoende gespecificeerde rekening heeft ontvangen. De verhuurder is slechts verplicht tot betaling, voor zover de kosten betrekking hebben op een tijdvak van ten hoogste vijftien maanden, voorafgaande aan het tijdstip van indiening van de rekening.
 
@@ -176,7 +176,7 @@ Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet aan de 
 
 2. Indien voor het tijdstip van inwerkingtreding van deze wet enig orgaan, niet zijnde een huurdersorganisatie, in het bijzonder werkzaam is ter behartiging van de gemeenschappelijke belangen van de huurders bij een verhuurder, wordt dat orgaan tot twee jaar na de inwerkingtreding van deze wet, doch uiterlijk tot het tijdstip met ingang waarvan een huurdersorganisatie voor de betrokken huurders is opgericht, aangemerkt als huurdersorganisatie.
 
-3. De in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=7&z=1998-12-01&g=1998-12-01), genoemde verplichting voor de huurdersorganisatie tot indiening van een begroting dient voor het kalenderjaar waarin deze wet in werking treedt, te worden ingediend binnen twee maanden na de inwerkingtreding van deze wet.
+3. De in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=7&z=2008-06-13&g=2008-06-13), genoemde verplichting voor de huurdersorganisatie tot indiening van een begroting dient voor het kalenderjaar waarin deze wet in werking treedt, te worden ingediend binnen twee maanden na de inwerkingtreding van deze wet.
 
 ##### Artikel 11
 
