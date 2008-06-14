@@ -4,7 +4,7 @@ identifier: "BWBR0018486"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-04"
-last_updated: "2005-07-20"
+last_updated: "2008-06-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018486"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Als toevoeging aan de graden Bachelor en Master, verleend na het met goed gevolg
 
 ##### Artikel 1a. Afkorting
 
-De graden met toevoeging, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018486&artikel=1&z=2008-06-14&g=2005-07-20), worden als volgt afgekort:
+De graden met toevoeging, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018486&artikel=1&z=2008-06-14&g=2008-06-14), worden als volgt afgekort:
 
 - a. Bachelor met de toevoeging ‘of Laws’: LLB;
 
