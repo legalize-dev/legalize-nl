@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2008-04-01"
+last_updated: "2008-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -242,7 +242,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34032 | Alendroninezuur a tablet 70mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| ALFACALCIDOL-.00025-MG-CAPSULE | ALFACALCIDOL-.00025-MG-CAPSULE | 0.22614300 per stuk |
+| ALFACALCIDOL-.00025-MG-CAPSULE | ALFACALCIDOL-.00025-MG-CAPSULE | 0,233893 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 10890 | Alfacalcidol pch capsule 0,25mcg |   |
 | 29586/8318 | Alfacalcidol capsule 0,25mcg |   |
@@ -497,7 +497,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 57443 | Amoxicillinum suikervrij pdr v susp 125mg/5ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-CLAVULANIC ACID-6.25-MG/ML-OPLOS | AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-CLAVULANIC ACID-6.25-MG/ML-OPLOS | 0.06287500 per ml |
+| AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-CLAVULANIC ACID-6.25-MG/ML-OPLOS | AMOXICILLIN-25-MG/ML-OPLOSSING/SUSPENSIE, ORAAL-CLAVULANIC ACID-6.25-MG/ML-OPLOS | 0,063431 per ml |
 | Registratienummer | Artikelnaam |   |
 | 9842 | Augmentin suikervrij pdr v susp 125/31,25mg/5ml |   |
 |   |   |   |
@@ -760,7 +760,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34142/21083 | Lipitor tablet omhuld 40mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| ATROPINE-10-MG/ML-OOGDRUPPELS | ATROPINE-10-MG/ML-OOGDRUPPELS | 0.27191900 per ml |
+| ATROPINE-10-MG/ML-OOGDRUPPELS | ATROPINE-10-MG/ML-OOGDRUPPELS | 0,276553 per ml |
 | Registratienummer | Artikelnaam |   |
 | 50101 | Atropinesulfaat pch oogdruppels 1% flacon 10ml |   |
 | 57398 | Atropinesulfaat hps oogdruppels 1% flacon 10ml |   |
@@ -875,7 +875,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34150 | Beclometason sandoz aer 50mcg/do spbs 200do+inh |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| BECLOMETASONE-.05-MG-NEUSSPRAY | BECLOMETASONE-.05-MG-NEUSSPRAY | 0.02719200 per dosis |
+| BECLOMETASONE-.05-MG-NEUSSPRAY | BECLOMETASONE-.05-MG-NEUSSPRAY | 0,027348 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 10728 | Beclometasoni dipropionas neussp 50mcg/do fl 200do |   |
 | 10957 | Beclometason nevel sandoz neussp 50mcg/do fl 200do |   |
@@ -1729,7 +1729,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 31689/256 | Leukeran tablet filmomhuld 2mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| CHLORAMPHENICOL-10-MG/G-OOGZALF | CHLORAMPHENICOL-10-MG/G-OOGZALF | 0.69949300 per g |
+| CHLORAMPHENICOL-10-MG/G-OOGZALF | CHLORAMPHENICOL-10-MG/G-OOGZALF | 0,704950 per g |
 | Registratienummer | Artikelnaam |   |
 | 17418 | Chlooramfenicol pos oogzalf 10mg/g tube 5g |   |
 | 57557 | Chlooramfenicol rp oogzalf 10mg/g tube 5g |   |
@@ -2433,7 +2433,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/00/160/033 | Aerius tablet filmomhuld 5mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| DESMOPRESSIN-.01-MG-NEUSSPRAY | DESMOPRESSIN-.01-MG-NEUSSPRAY | 0.62201400 per dosis |
+| DESMOPRESSIN-.01-MG-NEUSSPRAY | DESMOPRESSIN-.01-MG-NEUSSPRAY | 0,635512 per dosis |
 | Registratienummer | Artikelnaam |   |
 | 13958 | Minrin neusspray 0,1mg/ml spuitbus 5ml |   |
 | 16982=13958 | Desmopressine ferring neusspr 10mcg/do flacon 50do |   |
@@ -3657,7 +3657,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 15757 | Diflucan poeder voor suspensie 10mg/ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| FLUCONAZOLE-150-MG-CAPSULE | FLUCONAZOLE-150-MG-CAPSULE | 5.50009200 per stuk |
+| FLUCONAZOLE-150-MG-CAPSULE | FLUCONAZOLE-150-MG-CAPSULE | 5,531656 per stuk |
 | Registratienummer | Artikelnaam |   |
 | 13039 | Diflucan capsule 150mg |   |
 | 24548/13039 | Fluconazol capsule 150mg |   |
@@ -4834,7 +4834,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/00/142/004 | Novomix 30 penfill inj 100e/ml patroon 3ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, ASPART INTERM-70-IE/ML-IN | INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, ASPART INTERM-70-IE/ML-IN | 2.76272400 per ml |
+| INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, ASPART INTERM-70-IE/ML-IN | INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, ASPART INTERM-70-IE/ML-IN | 2,916471 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/142/009 | Novomix 30 flexpen inj 100e/ml wwsp 3ml |   |
 |   |   |   |
@@ -5156,7 +5156,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/05/316/010 | Procoralan tablet filmomhuld 7,5mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| KETOCONAZOLE-20-MG/G-HUIDGEL | KETOCONAZOLE-20-MG/G-HUIDGEL | 0.11135200 per ml |
+| KETOCONAZOLE-20-MG/G-HUIDGEL | KETOCONAZOLE-20-MG/G-HUIDGEL | 0,112463 per ml |
 | Registratienummer | Artikelnaam |   |
 | 12586 | Nizoral hoofdgel 20mg/g |   |
 | 22751=12586 | Ketoconazol jc shampoo 20mg/g |   |
@@ -5497,7 +5497,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 12996 | Betagan liquifilm oogdruppels 0,25% flacon 5ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| LEVOBUNOLOL-5-MG/ML-OOGDRUPPELS | LEVOBUNOLOL-5-MG/ML-OOGDRUPPELS | 0.74409600 per ml |
+| LEVOBUNOLOL-5-MG/ML-OOGDRUPPELS | LEVOBUNOLOL-5-MG/ML-OOGDRUPPELS | 0,753042 per ml |
 | Registratienummer | Artikelnaam |   |
 | 11203 | Betagan liquifilm oogdruppels 0,50% flacon 5ml |   |
 | 21539/11203 | Betagan liquifilm oogdruppels 0,50% flacon 5ml |   |
@@ -7363,7 +7363,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 2976 | Diphantoine-z 100 tablet 92mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| PILOCARPINE-20-MG/ML-OOGDRUPPELS | PILOCARPINE-20-MG/ML-OOGDRUPPELS | 0.22301500 per ml |
+| PILOCARPINE-20-MG/ML-OOGDRUPPELS | PILOCARPINE-20-MG/ML-OOGDRUPPELS | 0,231527 per ml |
 | Registratienummer | Artikelnaam |   |
 | 51372 | Pilocarpine hcl pch oogdruppels 2% flacon 10ml |   |
 | 57399 | Pilocarpine hcl rp oogdruppels 2% flacon 10ml |   |
@@ -9143,7 +9143,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 57607 | Timolol sandoz oogdruppels 1mg/ml flacon 5ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-2.5-MG/ML-OOGDRUPPELS | TIMOLOL-2.5-MG/ML-OOGDRUPPELS | 0.68665000 per ml |
+| TIMOLOL-2.5-MG/ML-OOGDRUPPELS | TIMOLOL-2.5-MG/ML-OOGDRUPPELS | 0,693903 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14583 | Timolol sandoz oogdruppels 2,5mg/ml flacon 5ml |   |
 | 15699 | Timolol pch oogdruppels 2,5mg/ml flacon 5ml |   |
@@ -9164,7 +9164,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 17017 | Timoptol xe oogdruppels 2,5mg/ml flacon 2,5ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| TIMOLOL-5-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS | 0.65524100 per ml |
+| TIMOLOL-5-MG/ML-OOGDRUPPELS | TIMOLOL-5-MG/ML-OOGDRUPPELS | 0,669344 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14584 | Timolol sandoz oogdruppels 5mg/ml flacon 5ml |   |
 | 15700 | Timolol pch oogdruppels 5mg/ml flacon 5ml |   |
