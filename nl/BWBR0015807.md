@@ -4,7 +4,7 @@ identifier: "BWBR0015807"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015807"
 soort: "ministeriele-regeling"
@@ -48,7 +48,9 @@ De verklaringen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c
 
 1. Deze regeling treedt in werking met ingang 1 januari 2004.
 
-2. In afwijking van het eerste lid treedt [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015807&artikel=1&z=2008-01-01&g=2008-01-01), met betrekking tot de bijlage, die uitvoering geeft aan [artikel 14h, vierde lid, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=14h) in werking op het tijdstip waarop de regels over de observatiemachtiging in de [wet van 13 juli 2002, houdende wijziging van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen (voorwaardelijke machtiging en observatiemachtiging) (Stb. 431)](https://wetten.overheid.nl/jci1.3:c:BWBR0013892) in werking treden.
+2. In afwijking van het eerste lid treedt [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015807&artikel=1&z=2008-06-22&g=2008-06-22), met betrekking tot de bijlage, die uitvoering geeft aan [artikel 14h, vierde lid, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=14h) in werking op het tijdstip waarop de regels over de observatiemachtiging in de [wet van 13 juli 2002, houdende wijziging van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen (voorwaardelijke machtiging en observatiemachtiging) (Stb. 431)](https://wetten.overheid.nl/jci1.3:c:BWBR0013892) in werking treden.
+
+## Bijlage 1
 
 ## Bijlage 1
 
@@ -64,9 +66,15 @@ De verklaringen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c
 
 ## Bijlage 7
 
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
 ## Bijlage 8
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3
+
+Deze regeling wordt aangehaald als: Regeling vaststelling modellen Wet bopz.
 
 ## Bijlage 9
 
