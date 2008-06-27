@@ -4,7 +4,7 @@ identifier: "BWBR0024048"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-06-27"
-last_updated: "2008-01-01"
+last_updated: "2008-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024048"
 soort: "ministeriele-regeling"
@@ -50,13 +50,13 @@ tot vaststelling van de navolgende beleidsregeling en het navolgende instellings
 
 In deze regeling wordt verstaan onder:
 
-- a. verzoek: verzoek als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024048&paragraaf=2&artikel=2&z=2008-06-27&g=2008-01-01).
+- a. verzoek: verzoek als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024048&paragraaf=2&artikel=2&z=2008-06-27&g=2008-06-27).
 
 - b. aanleg van de Tweede Maasvlakte: uitvoering van het deelproject Landaanwinning en bijbehorende natuurcompensatie, zoals omschreven in de Planologische Kernbeslissing Project Mainportontwikkeling Rotterdam (deel 4) (Stcrt. 2006, 246);
 
 - c. bevoegd gezag: bestuursorgaan dat beslist op verzoeken;
 
-- d. commissie: schadebeoordelingscommissie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024048&paragraaf=3&artikel=5&z=2008-06-27&g=2008-01-01);
+- d. commissie: schadebeoordelingscommissie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024048&paragraaf=3&artikel=5&z=2008-06-27&g=2008-06-27);
 
 #### § 2. Beleidsregeling coördinatie schadevergoeding Tweede Maasvlakte
 
