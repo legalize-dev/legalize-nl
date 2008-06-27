@@ -4,7 +4,7 @@ identifier: "BWBR0022060"
 country: "nl"
 rank: "wet"
 publication_date: "2008-06-27"
-last_updated: "2007-08-01"
+last_updated: "2008-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022060"
 soort: "wet"
@@ -58,7 +58,7 @@ Wijzigt de Wijzigingswet Wet inburgering, enz. (vervallen van de mogelijkheid om
 
 ##### Artikel IV
 
-Wijzigt de Wijzigingswet Wet inburgering, enz. (vervallen van de mogelijkheid om Nederlandse onderdanen tot inburgering te verplichten)(kamerstuk 30877).
+Vervallen
 
 ##### Artikel V
 
