@@ -4,7 +4,7 @@ identifier: "BWBR0024284"
 country: "nl"
 rank: "pbo"
 publication_date: "2008-06-29"
-last_updated: "2001-01-01"
+last_updated: "2008-06-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024284"
 soort: "pbo"
@@ -82,13 +82,13 @@ De heffing wordt berekend naar de door het energiebedrijf gefactureerde hoeveelh
 
 ##### Artikel 4
 
-1. De heffing, te berekenen overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024284&paragraaf=3&artikel=3&z=2008-06-29&g=2001-01-01), bedraagt ten hoogste 0,75 cent per m3 aardgas.
+1. De heffing, te berekenen overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024284&paragraaf=3&artikel=3&z=2008-06-29&g=2008-06-29), bedraagt ten hoogste 0,75 cent per m3 aardgas.
 
 2. Het bedrag van de heffing per m3 aardgas wordt door het bestuur vastgesteld.
 
 ##### Artikel 5
 
-1. In afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024284&paragraaf=2&artikel=2&z=2008-06-29&g=2001-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0024284&paragraaf=3&artikel=3&z=2008-06-29&g=2001-01-01) wordt terzake van de heffingsplichtige die eigenaar is van een warmte/kracht-installatie ten behoeve van de tuinbouwonderneming de heffing berekend over 70% van de door het energiebedrijf gefactureerde hoeveelheid m3 aardgas of aardgasequivalent, verbruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten.
+1. In afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024284&paragraaf=2&artikel=2&z=2008-06-29&g=2008-06-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0024284&paragraaf=3&artikel=3&z=2008-06-29&g=2008-06-29) wordt terzake van de heffingsplichtige die eigenaar is van een warmte/kracht-installatie ten behoeve van de tuinbouwonderneming de heffing berekend over 70% van de door het energiebedrijf gefactureerde hoeveelheid m3 aardgas of aardgasequivalent, verbruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten.
 
 2. In het geval dat de situatie in zijn onderneming vergelijkbaar is met de situatie waar het eerste lid betrekking op heeft, kan de voorzitter op verzoek van de heffingsplichtige besluiten het eerste lid van overeenkomstige toepassing te verklaren.
 
@@ -118,7 +118,7 @@ Bedoelde periodieke voorschotten zullen door het energiebedrijf op basis van en 
 
 ##### Artikel 8
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024284&paragraaf=3&artikel=6&z=2008-06-29&g=2001-01-01), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024284&paragraaf=3&artikel=6&z=2008-06-29&g=2008-06-29), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 9
 
@@ -132,11 +132,11 @@ Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de
 
 - c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.
 
-3. Indien sprake is van voorschotten als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024284&paragraaf=3&artikel=7&z=2008-06-29&g=2001-01-01), geschiedt betaling binnen de door het energiebedrijf aangegeven periode.
+3. Indien sprake is van voorschotten als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024284&paragraaf=3&artikel=7&z=2008-06-29&g=2008-06-29), geschiedt betaling binnen de door het energiebedrijf aangegeven periode.
 
 ##### Artikel 10
 
-Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024284&paragraaf=3&artikel=9&z=2008-06-29&g=2001-01-01) bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal ƒ 50,– in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
+Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024284&paragraaf=3&artikel=9&z=2008-06-29&g=2008-06-29) bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal ƒ 50,– in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
 
 ##### Artikel 11
 
