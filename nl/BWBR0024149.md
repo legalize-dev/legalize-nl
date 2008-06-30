@@ -4,7 +4,7 @@ identifier: "BWBR0024149"
 country: "nl"
 rank: "wet"
 publication_date: "2009-01-01"
-last_updated: "2008-02-01"
+last_updated: "2008-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024149"
 soort: "wet"
@@ -156,7 +156,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2008.
 
 ##### Artikel XXX
 
