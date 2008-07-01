@@ -4,7 +4,7 @@ identifier: "BWBR0004579"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "1997-10-01"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004579"
 soort: "wet"
@@ -42,11 +42,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Voor de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004579&artikel=1&z=1997-10-01&g=1997-10-01) tot en met [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004579&artikel=8&z=1997-10-01&g=1997-10-01) van deze wet wordt onder "Verordening" verstaan de [Verordening nr. 2137/85](31985R2137) van de Raad van de Europese Gemeenschappen van 25 juli 1985 tot instelling van de Europese economische samenwerkingsverbanden (**PbEG** L 199/1).
+Voor de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004579&artikel=1&z=2008-07-01&g=2008-07-01) tot en met [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004579&artikel=8&z=2008-07-01&g=2008-07-01) van deze wet wordt onder "Verordening" verstaan de [Verordening nr. 2137/85](31985R2137) van de Raad van de Europese Gemeenschappen van 25 juli 1985 tot instelling van de Europese economische samenwerkingsverbanden (**PbEG** L 199/1).
 
 ##### Artikel 2
 
-Ter uitvoering van artikel 39 van de Verordening wordt als register voor de inschrijving van een Europees economisch samenwerkingsverband met zetel in Nederland of van een Nederlandse vestiging van een ander Europees economisch samenwerkingsverband aangewezen: het handelsregister bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2).
+Ter uitvoering van artikel 39 van de Verordening wordt als register voor de inschrijving van een Europees economisch samenwerkingsverband met zetel in Nederland of van een Nederlandse vestiging van een ander Europees economisch samenwerkingsverband aangewezen: het handelsregister bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2).
 
 ##### Artikel 3
 
