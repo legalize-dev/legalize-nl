@@ -4,7 +4,7 @@ identifier: "BWBR0012694"
 country: "nl"
 rank: "wet"
 publication_date: "2008-07-01"
-last_updated: "2001-07-27"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012694"
 soort: "wet"
@@ -54,7 +54,7 @@ In afwijking van het bepaalde in artikel 9, eerste lid, van het Frequentiebeslui
 
 ##### ARTIKEL III
 
-Het bepaalde in [artikel 3.3, zevende lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3), alsmede het bepaalde in [artikel 3.3a, achtste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3a), is slechts van toepassing op de uitgifte van vergunningen volgende op de verlening van vergunningen die heeft plaatsgevonden na de inwerkingtreding van deze wet.
+Vervallen
 
 ##### ARTIKEL IV
 
