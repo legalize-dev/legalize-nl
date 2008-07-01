@@ -4,7 +4,7 @@ identifier: "BWBV0004680"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-01-01"
-last_updated: "2007-04-01"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004680"
 soort: "verdrag"
@@ -82,17 +82,17 @@ Voor de toepassing van dit Verdrag en het Reglement en tenzij uitdrukkelijk ande
 
 - (xi). wordt onder „datum van voorrang” voor de berekening van termijnen verstaan:
 
-- a). indien de internationale aanvrage een beroep op een recht van voorrang ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=8&z=2007-04-01&g=2007-04-01) bevat, de dagtekening van het depot van de aanvrage waarop het beroep op recht van voorrang berust;
+- a). indien de internationale aanvrage een beroep op een recht van voorrang ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=8&z=2008-07-01&g=2008-07-01) bevat, de dagtekening van het depot van de aanvrage waarop het beroep op recht van voorrang berust;
 
-- b). indien de internationale aanvrage een beroep op meer dan één recht van voorrang ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=8&z=2007-04-01&g=2007-04-01) bevat, de dagtekening van het depot van de eerste aanvrage waarop het beroep op recht van voorrang berust;
+- b). indien de internationale aanvrage een beroep op meer dan één recht van voorrang ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=8&z=2008-07-01&g=2008-07-01) bevat, de dagtekening van het depot van de eerste aanvrage waarop het beroep op recht van voorrang berust;
 
-- c). indien de internationale aanvrage geen beroep op een recht van voorrang ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=8&z=2007-04-01&g=2007-04-01) bevat, de dagtekening van het internationale depot van een zodanige aanvrage;
+- c). indien de internationale aanvrage geen beroep op een recht van voorrang ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=8&z=2008-07-01&g=2008-07-01) bevat, de dagtekening van het internationale depot van een zodanige aanvrage;
 
 - (xii). wordt onder „nationaal bureau” verstaan de overheidsinstantie van een Verdragsluitende Staat die belast is met de verlening van octrooien; verwijzingen naar een „nationaal bureau” gelden tevens als verwijzingen naar enige intergouvernementele instantie die door meer dan één Staat is belast met de taak regionale octrooien te verlenen, mits ten minste één van deze Staten een Verdragsluitende Staat is en mits de genoemde Staten deze instantie hebben gemachtigd de verplichtingen op zich te nemen en de bevoegdheden uit te oefenen waarin dit Verdrag en het Reglement ten aanzien van nationale bureaus voorzien;
 
-- (xiii). wordt onder „aangewezen bureau” verstaan het nationale bureau van of optredend voor de Staat, door de aanvrager ingevolge [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&z=2007-04-01&g=2007-04-01) van dit Verdrag aangewezen;
+- (xiii). wordt onder „aangewezen bureau” verstaan het nationale bureau van of optredend voor de Staat, door de aanvrager ingevolge [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&z=2008-07-01&g=2008-07-01) van dit Verdrag aangewezen;
 
-- (xiv). wordt onder „gekozen bureau” verstaan het nationale bureau van of optredend voor de Staat, door de aanvrager ingevolge [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2007-04-01&g=2007-04-01) van dit Verdrag gekozen;
+- (xiv). wordt onder „gekozen bureau” verstaan het nationale bureau van of optredend voor de Staat, door de aanvrager ingevolge [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2008-07-01&g=2008-07-01) van dit Verdrag gekozen;
 
 - (xv). wordt onder „ontvangend bureau” verstaan het nationale bureau of de intergouvernementele organisatie waarbij de internationale aanvrage is ingediend;
 
@@ -142,7 +142,7 @@ Voor de toepassing van dit Verdrag en het Reglement en tenzij uitdrukkelijk ande
 
 (2). Iedere aanwijzing is onderworpen aan de betaling van de voorgeschreven taks binnen de voorgeschreven termijn.
 
-(3). Tenzij de aanvrager om een van de andere soorten van bescherming als genoemd in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=43&z=2007-04-01&g=2007-04-01) verzoekt, betekent de aanwijzing dat de verlangde bescherming bestaat uit de verlening van een octrooi door of voor de aangewezen Staat. Voor de toepassing van dit lid is [artikel 2, (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&artikel=2&z=2007-04-01&g=2007-04-01) niet van toepassing.
+(3). Tenzij de aanvrager om een van de andere soorten van bescherming als genoemd in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=43&z=2008-07-01&g=2008-07-01) verzoekt, betekent de aanwijzing dat de verlangde bescherming bestaat uit de verlening van een octrooi door of voor de aangewezen Staat. Voor de toepassing van dit lid is [artikel 2, (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&artikel=2&z=2008-07-01&g=2008-07-01) niet van toepassing.
 
 (4). Het niet vermelden in het verzoekschrift van de naam van en de andere voorgeschreven gegevens betreffende de uitvinder heeft geen gevolgen in een aangewezen Staat welks nationale wetgeving het verstrekken van zodanige gegevens vereist, doch toestaat dat zij worden verstrekt op een later tijdstip dan dat van de indiening van een nationale aanvrage. Het niet verstrekken van de genoemde gegevens in een afzonderlijke kennisgeving heeft geen gevolgen in een aangewezen Staat welks nationale wetgeving het verstrekken van de genoemde gegevens niet vereist.
 
@@ -208,13 +208,13 @@ De internationale aanvrage wordt ingediend bij het voorgeschreven ontvangende bu
 
 - b). Indien de aanvrager aan het verzoek voldoet, zoals bepaald in het Reglement, kent het ontvangende bureau als dagtekening van het internationale depot de datum van ontvangst van de vereiste verbetering toe.
 
-(3). Onverminderd [artikel 64, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2007-04-01&g=2007-04-01), zijn aan internationale aanvragen die voldoen aan de vereisten, opgesomd in het eerste lid, onder (i) tot en met (iii) en waaraan een dagtekening van het internationale depot is toegekend de rechtsgevolgen verbonden van een regelmatige nationale aanvrage in elke aangewezen Staat met ingang van de dagtekening van het internationale depot die als de werkelijke dagtekening van het depot in elke aangewezen Staat geldt.
+(3). Onverminderd [artikel 64, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2008-07-01&g=2008-07-01), zijn aan internationale aanvragen die voldoen aan de vereisten, opgesomd in het eerste lid, onder (i) tot en met (iii) en waaraan een dagtekening van het internationale depot is toegekend de rechtsgevolgen verbonden van een regelmatige nationale aanvrage in elke aangewezen Staat met ingang van de dagtekening van het internationale depot die als de werkelijke dagtekening van het depot in elke aangewezen Staat geldt.
 
 (4). Een internationale aanvrage die voldoet aan de vereisten, opgesomd in het eerste lid onder (i) tot en met (iii), is gelijkwaardig aan een regelmatig nationaal depot in de zin van het [Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120).
 
 ##### Artikel 12. Toezending van de internationale aanvrage aan het Internationale Bureau en de Instantie voor Internationaal Nieuwheidsonderzoek
 
-(1). Eén exemplaar van de internationale aanvrage wordt bewaard door het ontvangende bureau („archiefexemplaar”), één exemplaar („oorspronkelijk exemplaar”) wordt toegezonden aan het Internationale Bureau en een ander exemplaar („exemplaar voor het nieuwheidsonderzoek”) wordt, zoals bepaald in het Reglement, toegezonden aan de bevoegde Instantie voor Internationaal Nieuwheidsonderzoek, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=16&z=2007-04-01&g=2007-04-01).
+(1). Eén exemplaar van de internationale aanvrage wordt bewaard door het ontvangende bureau („archiefexemplaar”), één exemplaar („oorspronkelijk exemplaar”) wordt toegezonden aan het Internationale Bureau en een ander exemplaar („exemplaar voor het nieuwheidsonderzoek”) wordt, zoals bepaald in het Reglement, toegezonden aan de bevoegde Instantie voor Internationaal Nieuwheidsonderzoek, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=16&z=2008-07-01&g=2008-07-01).
 
 (2). Het oorspronkelijke exemplaar wordt beschouwd als het rechtsgeldige exemplaar van de internationale aanvrage.
 
@@ -222,7 +222,7 @@ De internationale aanvrage wordt ingediend bij het voorgeschreven ontvangende bu
 
 ##### Artikel 13. Beschikbaarheid van een afschrift van de internationale aanvrage voor de aangewezen bureaus
 
-(1). Elk aangewezen bureau kan het Internationale Bureau verzoeken om toezending van een afschrift van de internationale aanvrage vooruitlopend op de mededeling, voorzien in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2007-04-01&g=2007-04-01) en het Internationale Bureau zendt een zodanig afschrift zo spoedig mogelijk na het verstrijken van een jaar na de datum van voorrang toe aan het aangewezen bureau.
+(1). Elk aangewezen bureau kan het Internationale Bureau verzoeken om toezending van een afschrift van de internationale aanvrage vooruitlopend op de mededeling, voorzien in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01) en het Internationale Bureau zendt een zodanig afschrift zo spoedig mogelijk na het verstrijken van een jaar na de datum van voorrang toe aan het aangewezen bureau.
 
 - a). De aanvrager kan te allen tijde een afschrift van zijn internationale aanvrage aan een aangewezen bureau toezenden.
 
@@ -248,11 +248,11 @@ De internationale aanvrage wordt ingediend bij het voorgeschreven ontvangende bu
 
 (2). Indien de internationale aanvrage verwijst naar tekeningen die in feite niet in die aanvrage zijn opgenomen, geeft het ontvangende bureau de aanvrager daarvan kennis en de aanvrager kan het bureau binnen de voorgeschreven termijn die tekeningen verstrekken en indien hij zulks doet is de dagtekening van het internationale depot de datum waarop de tekeningen door het ontvangende bureau worden ontvangen. In het andere geval wordt een verwijzing naar de genoemde tekeningen als ongedaan beschouwd.
 
-- a). Indien het ontvangende bureau vaststelt dat de taksen voorgeschreven ingevolge [artikel 3, vierde lid, onder (iv)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=3&z=2007-04-01&g=2007-04-01), niet binnen de voorgeschreven termijnen zijn betaald of geen taks voorgeschreven ingevolge [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=4&z=2007-04-01&g=2007-04-01), is betaald met betrekking tot welke aangewezen Staat ook, wordt de internationale aanvrage als ingetrokken beschouwd en verklaart het ontvangende bureau dit.
+- a). Indien het ontvangende bureau vaststelt dat de taksen voorgeschreven ingevolge [artikel 3, vierde lid, onder (iv)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=3&z=2008-07-01&g=2008-07-01), niet binnen de voorgeschreven termijnen zijn betaald of geen taks voorgeschreven ingevolge [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=4&z=2008-07-01&g=2008-07-01), is betaald met betrekking tot welke aangewezen Staat ook, wordt de internationale aanvrage als ingetrokken beschouwd en verklaart het ontvangende bureau dit.
 
-- b). Indien het ontvangende bureau vaststelt, dat de ingevolge [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=4&z=2007-04-01&g=2007-04-01), voorgeschreven taks met betrekking tot een of meer, maar niet alle, aangewezen Staten binnen de voorgeschreven termijn is betaald, wordt de aanwijzing van Staten waarvoor de taks niet binnen de voorgeschreven termijn is betaald, als ingetrokken beschouwd en verklaart het ontvangende bureau dit.
+- b). Indien het ontvangende bureau vaststelt, dat de ingevolge [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=4&z=2008-07-01&g=2008-07-01), voorgeschreven taks met betrekking tot een of meer, maar niet alle, aangewezen Staten binnen de voorgeschreven termijn is betaald, wordt de aanwijzing van Staten waarvoor de taks niet binnen de voorgeschreven termijn is betaald, als ingetrokken beschouwd en verklaart het ontvangende bureau dit.
 
-(4). Indien het ontvangende bureau, na de internationale aanvrage een dagtekening van internationaal depot te hebben toegekend, binnen de voorgeschreven termijn vaststelt, dat op dat tijdstip niet aan een van de eisen opgesomd in [artikel 11, eerste lid, onder (i) tot en met (iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=11&z=2007-04-01&g=2007-04-01), was voldaan, wordt genoemde aanvrage als ingetrokken beschouwd en verklaart het ontvangende bureau dit.
+(4). Indien het ontvangende bureau, na de internationale aanvrage een dagtekening van internationaal depot te hebben toegekend, binnen de voorgeschreven termijn vaststelt, dat op dat tijdstip niet aan een van de eisen opgesomd in [artikel 11, eerste lid, onder (i) tot en met (iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=11&z=2008-07-01&g=2008-07-01), was voldaan, wordt genoemde aanvrage als ingetrokken beschouwd en verklaart het ontvangende bureau dit.
 
 ##### Artikel 15. Het internationale nieuwheidsonderzoek
 
@@ -262,13 +262,13 @@ De internationale aanvrage wordt ingediend bij het voorgeschreven ontvangende bu
 
 (3). Het internationale nieuwheidsonderzoek geschiedt op grond van de conclusies, met inachtneming van de beschrijving en de mogelijke tekeningen.
 
-(4). De Instantie voor Internationaal Nieuwheidsonderzoek bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=16&z=2007-04-01&g=2007-04-01) tracht zoveel van de van belang zijnde stand van de techniek te vinden als haar mogelijkheden toelaten en raadpleegt in elk geval de in het Reglement aangegeven documentatie.
+(4). De Instantie voor Internationaal Nieuwheidsonderzoek bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=16&z=2008-07-01&g=2008-07-01) tracht zoveel van de van belang zijnde stand van de techniek te vinden als haar mogelijkheden toelaten en raadpleegt in elk geval de in het Reglement aangegeven documentatie.
 
 - a). Indien de nationale wetgeving van de Verdragsluitende Staat zulks toelaat, kan de aanvrager die een nationale aanvrage indient bij het nationale bureau van of optredend voor een zodanige Staat, met inachtneming van de bepalingen van deze wetgeving, verzoeken met betrekking tot een zodanige aanvrage een nieuwheidsonderzoek te verrichten dat gelijksoortig is met een internationaal nieuwheidsonderzoek („nieuwheidsonderzoek van internationaal type”).
 
 - b). Indien de nationale wetgeving van de Verdragsluitende Staat zulks toelaat kan het nationale bureau van of optredend voor een zodanige Staat een bij hem ingediende nationale aanvrage aan een nieuwheidsonderzoek van internationaal type onderwerpen.
 
-- c). Het nieuwheidsonderzoek van internationaal type wordt verricht door de Instantie voor Internationaal Nieuwheidsonderzoek, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=16&z=2007-04-01&g=2007-04-01), die bevoegd zou zijn voor een internationaal nieuwheidsonderzoek indien de nationale aanvrage een internationale aanvrage zou zijn en zou zijn ingediend bij het bureau bedoeld onder **a)** en **b)**. Indien de nationale aanvrage is gesteld in een taal, waarin de Instantie voor Internationaal Nieuwheidsonderzoek zich niet in staat acht die aanvrage te behandelen, wordt het nieuwheidsonderzoek van internationaal type verricht op basis van een vertaling die door de aanvrager is opgesteld in een voor internationale aanvragen voorgeschreven taal die de Instantie voor Internationaal Nieuwheidsonderzoek op zich heeft genomen voor internationale aanvragen te aanvaarden. De nationale aanvrage en de eventueel vereiste vertaling worden ingediend in de voor internationale aanvragen voorgeschreven vorm.
+- c). Het nieuwheidsonderzoek van internationaal type wordt verricht door de Instantie voor Internationaal Nieuwheidsonderzoek, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=16&z=2008-07-01&g=2008-07-01), die bevoegd zou zijn voor een internationaal nieuwheidsonderzoek indien de nationale aanvrage een internationale aanvrage zou zijn en zou zijn ingediend bij het bureau bedoeld onder **a)** en **b)**. Indien de nationale aanvrage is gesteld in een taal, waarin de Instantie voor Internationaal Nieuwheidsonderzoek zich niet in staat acht die aanvrage te behandelen, wordt het nieuwheidsonderzoek van internationaal type verricht op basis van een vertaling die door de aanvrager is opgesteld in een voor internationale aanvragen voorgeschreven taal die de Instantie voor Internationaal Nieuwheidsonderzoek op zich heeft genomen voor internationale aanvragen te aanvaarden. De nationale aanvrage en de eventueel vereiste vertaling worden ingediend in de voor internationale aanvragen voorgeschreven vorm.
 
 ##### Artikel 16. De Instantie voor Internationaal Nieuwheidsonderzoek
 
@@ -284,7 +284,7 @@ De internationale aanvrage wordt ingediend bij het voorgeschreven ontvangende bu
 
 - d). De aanwijzing geldt voor een vaste termijn en kan met nieuwe termijnen worden verlengd.
 
-- e). Voordat de Algemene Vergadering een besluit neemt over de aanwijzing van een nationaal bureau of een intergouvernementele organisatie, of over de verlenging van een zodanige aanwijzing, of voordat een zodanige aanwijzing laat vervallen, hoort de Algemene Vergadering het betrokken bureau of de betrokken organisatie en wint zij het advies in van de Commissie voor technische samenwerking genoemd in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=56&z=2007-04-01&g=2007-04-01), zodra deze Commissie in het leven is geroepen.
+- e). Voordat de Algemene Vergadering een besluit neemt over de aanwijzing van een nationaal bureau of een intergouvernementele organisatie, of over de verlenging van een zodanige aanwijzing, of voordat een zodanige aanwijzing laat vervallen, hoort de Algemene Vergadering het betrokken bureau of de betrokken organisatie en wint zij het advies in van de Commissie voor technische samenwerking genoemd in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=56&z=2008-07-01&g=2008-07-01), zodra deze Commissie in het leven is geroepen.
 
 ##### Artikel 17. Procedure voor de Instantie voor Internationaal Nieuwheidsonderzoek
 
@@ -296,7 +296,7 @@ De internationale aanvrage wordt ingediend bij het voorgeschreven ontvangende bu
 
 - (ii). dat de beschrijving, de conclusies of de tekeningen niet voldoen aan de voorgeschreven vereisten en wel in die mate dat geen zinvol nieuwheidsonderzoek verricht zou kunnen worden,
 
-- b). Indien een van de omstandigheden genoemd onder **a)** alleen in verband met bepaalde conclusies aanwezig wordt geacht, vermeldt het verslag van het internationale nieuwheidsonderzoek dit met betrekking tot zodanige conclusies, terwijl voor de andere conclusies genoemd verslag wordt opgesteld zoals bepaald in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=18&z=2007-04-01&g=2007-04-01).
+- b). Indien een van de omstandigheden genoemd onder **a)** alleen in verband met bepaalde conclusies aanwezig wordt geacht, vermeldt het verslag van het internationale nieuwheidsonderzoek dit met betrekking tot zodanige conclusies, terwijl voor de andere conclusies genoemd verslag wordt opgesteld zoals bepaald in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=18&z=2008-07-01&g=2008-07-01).
 
 - a). Indien de Instantie voor Internationaal Nieuwheidsonderzoek van oordeel is dat de internationale aanvrage niet voldoet aan het vereiste van eenheid van uitvinding zoals neergelegd in het Reglement, verzoekt zij de aanvrager extra taksen te betalen. De Instantie voor internationaal nieuwheidsonderzoek stelt het verslag van het internationale nieuwheidsonderzoek op voor die delen van de internationale aanvrage die betrekking hebben op de uitvinding die als eerste in de conclusies is genoemd („hoofduitvinding”) en, mits de vereiste extra taksen binnen de voorgeschreven termijn zijn betaald, voor die delen van de internationale aanvrage die betrekking hebben op uitvindingen waarvoor de genoemde taksen zijn betaald.
 
@@ -308,7 +308,7 @@ De internationale aanvrage wordt ingediend bij het voorgeschreven ontvangende bu
 
 (2). Het verslag van het internationale nieuwheidsonderzoek wordt, zodra het is opgesteld, door de Instantie voor Internationaal Nieuwheidsonderzoek toegezonden aan de aanvrager en aan het Internationale Bureau.
 
-(3). Het verslag van het internationale nieuwheidsonderzoek of de verklaring bedoeld in [artikel 17, tweede lid, onder **a)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2007-04-01&g=2007-04-01), wordt vertaald zoals bepaald in het Reglement. De vertalingen worden gemaakt door of onder verantwoordelijkheid van het Internationale Bureau.
+(3). Het verslag van het internationale nieuwheidsonderzoek of de verklaring bedoeld in [artikel 17, tweede lid, onder **a)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), wordt vertaald zoals bepaald in het Reglement. De vertalingen worden gemaakt door of onder verantwoordelijkheid van het Internationale Bureau.
 
 ##### Artikel 19. Wijziging van de conclusies die aan het Internationale Bureau zijn voorgelegd
 
@@ -320,11 +320,11 @@ De internationale aanvrage wordt ingediend bij het voorgeschreven ontvangende bu
 
 ##### Artikel 20. Toezending aan aangewezen bureaus
 
-- a). De internationale aanvrage, vergezeld van het verslag van het internationale nieuwheidsonderzoek (met inbegrip van de aanduidingen bedoeld in [artikel 17, tweede lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2007-04-01&g=2007-04-01) of de verklaring bedoeld in artikel 17, tweede lid, onder **a)**, wordt toegezonden aan elk aangewezen bureau, zoals bepaald in het Reglement, tenzij het aangewezen bureau geheel of gedeeltelijk afstand doet van het voldoen aan een zodanig vereiste.
+- a). De internationale aanvrage, vergezeld van het verslag van het internationale nieuwheidsonderzoek (met inbegrip van de aanduidingen bedoeld in [artikel 17, tweede lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01) of de verklaring bedoeld in artikel 17, tweede lid, onder **a)**, wordt toegezonden aan elk aangewezen bureau, zoals bepaald in het Reglement, tenzij het aangewezen bureau geheel of gedeeltelijk afstand doet van het voldoen aan een zodanig vereiste.
 
 - b). Eveneens wordt toegezonden de vertaling (zoals voorgeschreven) van het genoemde verslag of de genoemde verklaring.
 
-(2). Indien de conclusies zijn gewijzigd ingevolge [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=19&z=2007-04-01&g=2007-04-01), wordt toegezonden hetzij de volledige tekst zowel van de ingediende als van de gewijzigde conclusies, hetzij de volledige tekst van de conclusies zoals die is ingediend met vermelding van de wijzigingen, en voorts de eventuele verklaring bedoeld in artikel 19, eerste lid.
+(2). Indien de conclusies zijn gewijzigd ingevolge [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=19&z=2008-07-01&g=2008-07-01), wordt toegezonden hetzij de volledige tekst zowel van de ingediende als van de gewijzigde conclusies, hetzij de volledige tekst van de conclusies zoals die is ingediend met vermelding van de wijzigingen, en voorts de eventuele verklaring bedoeld in artikel 19, eerste lid.
 
 (3). Op verzoek van het aangewezen bureau of van de aanvrager zendt de Instantie voor Internationaal Nieuwheidsonderzoek genoemd bureau, onderscheidenlijk de aanvrager, afschriften toe van de literatuurplaatsen, aangehaald in het verslag van het internationale nieuwheidsonderzoek, zoals bepaald in het Reglement.
 
@@ -332,11 +332,11 @@ De internationale aanvrage wordt ingediend bij het voorgeschreven ontvangende bu
 
 (1). Het Internationale Bureau publiceert de internationale aanvragen.
 
-- a). Onverminderd de uitzonderingen bepaald onder **b)** en in [artikel 64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2007-04-01&g=2007-04-01), geschiedt de internationale publikatie van de internationale aanvrage onverwijld na het verstrijken van 18 maanden te rekenen van de datum van voorrang van die aanvrage.
+- a). Onverminderd de uitzonderingen bepaald onder **b)** en in [artikel 64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2008-07-01&g=2008-07-01), geschiedt de internationale publikatie van de internationale aanvrage onverwijld na het verstrijken van 18 maanden te rekenen van de datum van voorrang van die aanvrage.
 
 - b). De aanvrager kan het Internationale Bureau verzoeken zijn internationale aanvrage op enig tijdstip voor het verstrijken van de termijn bedoeld onder **a)** te publiceren. Het Internationale Bureau handelt dienovereenkomstig, zoals bepaald in het Reglement.
 
-(3). Het verslag van het internationale nieuwheidsonderzoek of de verklaring bedoeld in [artikel 17, tweede lid, onder **a)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2007-04-01&g=2007-04-01) wordt gepubliceerd zoals voorgeschreven in het Reglement.
+(3). Het verslag van het internationale nieuwheidsonderzoek of de verklaring bedoeld in [artikel 17, tweede lid, onder **a)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01) wordt gepubliceerd zoals voorgeschreven in het Reglement.
 
 (4). De taal en de vorm van de internationale publikatie en andere bijzonderheden worden geregeld in het Reglement.
 
@@ -346,33 +346,33 @@ De internationale aanvrage wordt ingediend bij het voorgeschreven ontvangende bu
 
 ##### Artikel 22. Afschrift, vertaling en taks aan aangewezen bureaus
 
-1. Uiterlijk tot het tijdstip waarop 30 maanden vanaf de datum van voorrang zijn verstreken, verstrekt de aanvrager elk aangewezen bureau een afschrift van de internationale aanvrage (tenzij de toezending voorzien in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2007-04-01&g=2007-04-01) reeds heeft plaatsgevonden) en een vertaling daarvan (zoals voorgeschreven) en betaalt hij de (eventuele) nationale taks. Wanneer de nationale wetgeving van de aangewezen Staat de vermelding van de naam van en andere voorgeschreven gegevens betreffende de uitvinder vereist, maar toelaat dat deze gegevens worden verstrekt op een later tijdstip dan dat van de indiening van een nationale aanvrage, verstrekt de aanvrager, tenzij de gegevens in het verzoekschrift waren vervat, deze uiterlijk tot het tijdstip waarop 30 maanden vanaf de datum van voorrang zijn verstreken, aan het nationale bureau van of optredend voor die Staat.
+1. Uiterlijk tot het tijdstip waarop 30 maanden vanaf de datum van voorrang zijn verstreken, verstrekt de aanvrager elk aangewezen bureau een afschrift van de internationale aanvrage (tenzij de toezending voorzien in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01) reeds heeft plaatsgevonden) en een vertaling daarvan (zoals voorgeschreven) en betaalt hij de (eventuele) nationale taks. Wanneer de nationale wetgeving van de aangewezen Staat de vermelding van de naam van en andere voorgeschreven gegevens betreffende de uitvinder vereist, maar toelaat dat deze gegevens worden verstrekt op een later tijdstip dan dat van de indiening van een nationale aanvrage, verstrekt de aanvrager, tenzij de gegevens in het verzoekschrift waren vervat, deze uiterlijk tot het tijdstip waarop 30 maanden vanaf de datum van voorrang zijn verstreken, aan het nationale bureau van of optredend voor die Staat.
 
-2. Wanneer de Instantie voor Internationaal Nieuwheidsonderzoek een verklaring ingevolge [artikel 17, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2007-04-01&g=2007-04-01), aflegt, dat er geen verslag van het internationale nieuwheidsonderzoek zal worden opgesteld, is de termijn voor het verrichten van de handelingen bedoeld in het eerste lid van dit artikel gelijk aan die voorzien in het eerste lid.
+2. Wanneer de Instantie voor Internationaal Nieuwheidsonderzoek een verklaring ingevolge [artikel 17, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), aflegt, dat er geen verslag van het internationale nieuwheidsonderzoek zal worden opgesteld, is de termijn voor het verrichten van de handelingen bedoeld in het eerste lid van dit artikel gelijk aan die voorzien in het eerste lid.
 
 3. In de nationale wetgevingen kunnen, voor het verrichten van de handelingen bedoeld in het eerste of het tweede lid, termijnen worden vastgesteld die later verstrijken dan de in deze leden bepaalde termijn.
 
 ##### Artikel 23. Uitstel van de nationale procedure
 
-(1). Een aangewezen bureau behandelt of beoordeelt de internationale aanvrage niet vóór het verstrijken van de ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2007-04-01&g=2007-04-01) geldende termijn.
+(1). Een aangewezen bureau behandelt of beoordeelt de internationale aanvrage niet vóór het verstrijken van de ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) geldende termijn.
 
 (2). Niettegenstaande het bepaalde in het eerste lid kan een aangewezen bureau, op uitdrukkelijk verzoek van de aanvrager, de internationale aanvrage te allen tijde behandelen of beoordelen.
 
 ##### Artikel 24. Mogelijk te niet gaan van de rechtsgevolgen in aangewezen Staten
 
-(1). Onverminderd - in het onder (ii) genoemde geval - de bepalingen van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=25&z=2007-04-01&g=2007-04-01), gaan de rechtsgevolgen van de internationale aanvrage zoals bepaald in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=11&z=2007-04-01&g=2007-04-01), in een aangewezen Staat te niet met dezelfde gevolgen als de intrekking van een nationale aanvrage in die Staat:
+(1). Onverminderd - in het onder (ii) genoemde geval - de bepalingen van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=25&z=2008-07-01&g=2008-07-01), gaan de rechtsgevolgen van de internationale aanvrage zoals bepaald in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=11&z=2008-07-01&g=2008-07-01), in een aangewezen Staat te niet met dezelfde gevolgen als de intrekking van een nationale aanvrage in die Staat:
 
 - (i). indien de aanvrager zijn internationale aanvrage of de aanwijzing van die Staat intrekt;
 
-- (ii). indien de internationale aanvrage als ingetrokken wordt beschouwd krachtens [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=12&z=2007-04-01&g=2007-04-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=14&z=2007-04-01&g=2007-04-01), onder **b)**, 14, derde lid, onder **d)** of 14, vierde lid, of indien de aanwijzing van die Staat als ingetrokken wordt beschouwd krachtens artikel 14, derde lid, onder **b)**;
+- (ii). indien de internationale aanvrage als ingetrokken wordt beschouwd krachtens [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=12&z=2008-07-01&g=2008-07-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=14&z=2008-07-01&g=2008-07-01), onder **b)**, 14, derde lid, onder **d)** of 14, vierde lid, of indien de aanwijzing van die Staat als ingetrokken wordt beschouwd krachtens artikel 14, derde lid, onder **b)**;
 
-- (iii). indien de aanvrager nalaat binnen de geldende termijn de handelingen te verrichten bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2007-04-01&g=2007-04-01).
+- (iii). indien de aanvrager nalaat binnen de geldende termijn de handelingen te verrichten bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01).
 
-(2). Onverminderd het bepaalde in het eerste lid kan elk aangewezen bureau de rechtsgevolgen bepaald in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=11&z=2007-04-01&g=2007-04-01), handhaven zelfs indien zodanige rechtsgevolgen niet behoeven te worden gehandhaafd krachtens [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=25&z=2007-04-01&g=2007-04-01).
+(2). Onverminderd het bepaalde in het eerste lid kan elk aangewezen bureau de rechtsgevolgen bepaald in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=11&z=2008-07-01&g=2008-07-01), handhaven zelfs indien zodanige rechtsgevolgen niet behoeven te worden gehandhaafd krachtens [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=25&z=2008-07-01&g=2008-07-01).
 
 ##### Artikel 25. Beoordeling door aangewezen bureaus
 
-- a). Indien het ontvangende bureau heeft geweigerd een dagtekening van internationaal depot toe te kennen of heeft verklaard dat de internationale aanvrage als ingetrokken wordt beschouwd, of indien het Internationale Bureau een gevolgtrekking ingevolge [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=12&z=2007-04-01&g=2007-04-01), heeft gemaakt, zendt het Internationale Bureau onverwijld, op verzoek van de aanvrager, afschriften van enig document dat zich in het dossier bevindt, aan een door de aanvrager genoemd aangewezen bureau.
+- a). Indien het ontvangende bureau heeft geweigerd een dagtekening van internationaal depot toe te kennen of heeft verklaard dat de internationale aanvrage als ingetrokken wordt beschouwd, of indien het Internationale Bureau een gevolgtrekking ingevolge [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=12&z=2008-07-01&g=2008-07-01), heeft gemaakt, zendt het Internationale Bureau onverwijld, op verzoek van de aanvrager, afschriften van enig document dat zich in het dossier bevindt, aan een door de aanvrager genoemd aangewezen bureau.
 
 - b). Indien het ontvangende bureau heeft verklaard, dat de aanwijzing van een bepaalde Staat als ingetrokken wordt beschouwd, zendt het Internationale Bureau onverwijld, op verzoek van de aanvrager, afschriften van enig document dat zich in het dossier bevindt, aan het nationale bureau van die Staat.
 
@@ -380,7 +380,7 @@ De internationale aanvrage wordt ingediend bij het voorgeschreven ontvangende bu
 
 - a). Onverminderd het bepaalde onder **b)**, besluit elk aangewezen bureau, mits binnen de voorgeschreven termijn de (eventuele) nationale taks is betaald en de passende vertaling (zoals voorgeschreven) is verstrekt, of de weigering, verklaring of gevolgtrekking bedoeld in het eerste lid gerechtvaardigd was ingevolge de bepalingen van dit Verdrag en van het Reglement en, indien het tot de gevolgtrekking komt dat de weigering of verklaring voortvloeide uit een vergissing of een verzuim van het ontvangende bureau of dat de gevolgtrekking voortvloeide uit een vergissing of een verzuim van het Internationale Bureau, behandelt het de internationale aanvrage, voor zover het gevolgen in de Staat van het aangewezen bureau betreft, alsof een zodanige vergissing of een zodanig verzuim zich niet had voorgedaan.
 
-- b). Indien het oorspronkelijke exemplaar het Internationale Bureau heeft bereikt na het verstrijken van de termijn, voorgeschreven ingevolge [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=12&z=2007-04-01&g=2007-04-01), wegens een vergissing of een verzuim van de aanvrager, is het bepaalde onder **a)** alleen van toepassing onder de omstandigheden bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=48&z=2007-04-01&g=2007-04-01).
+- b). Indien het oorspronkelijke exemplaar het Internationale Bureau heeft bereikt na het verstrijken van de termijn, voorgeschreven ingevolge [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=12&z=2008-07-01&g=2008-07-01), wegens een vergissing of een verzuim van de aanvrager, is het bepaalde onder **a)** alleen van toepassing onder de omstandigheden bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=48&z=2008-07-01&g=2008-07-01).
 
 ##### Artikel 26. Gelegenheid tot verbetering ten overstaan van de aangewezen bureaus
 
@@ -390,7 +390,7 @@ Een aangewezen bureau mag een internationale aanvrage niet afwijzen op de grond 
 
 (1). Geen nationale wetgeving mag de eis stellen dat wordt voldaan aan vereisten betreffende de vorm of de inhoud van de internationale aanvrage die afwijken van of toegevoegd worden aan de vereisten die in dit Verdrag en in het Reglement zijn gesteld.
 
-(2). De bepalingen van het eerste lid zijn niet van invloed op de toepassing van het bepaalde in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=7&z=2007-04-01&g=2007-04-01), en sluiten evenmin uit dat een nationale wetgeving, zodra de behandeling van de internationale aanvrage in het aangewezen bureau is begonnen, eist dat worden verstrekt:
+(2). De bepalingen van het eerste lid zijn niet van invloed op de toepassing van het bepaalde in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=7&z=2008-07-01&g=2008-07-01), en sluiten evenmin uit dat een nationale wetgeving, zodra de behandeling van de internationale aanvrage in het aangewezen bureau is begonnen, eist dat worden verstrekt:
 
 - (i). indien de aanvrager een rechtspersoon is, de naam van een functionaris die bevoegd is die rechtspersoon te vertegenwoordigen,
 
@@ -434,27 +434,27 @@ Een aangewezen bureau mag een internationale aanvrage niet afwijzen op de grond 
 
 (3). De nationale wetgeving van een aangewezen Staat kan bepalen dat, wanneer de internationale publikatie op verzoek van de aanvrager is verricht voordat 18 maanden zijn verstreken te rekenen van de datum van voorrang, de rechtsgevolgen bedoeld in het eerste lid slechts zullen intreden na het verstrijken van 18 maanden te rekenen van de datum van voorrang.
 
-(4). De nationale wetgeving van een aangewezen Staat kan bepalen dat de rechtsgevolgen bedoeld in het eerste lid slechts zullen intreden vanaf de datum waarop een afschrift van de internationale aanvrage gepubliceerd ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=21&z=2007-04-01&g=2007-04-01) bij het nationale bureau van of optredend voor deze Staat is ontvangen. Het genoemde bureau maakt de datum van ontvangst zo spoedig mogelijk bekend in zijn mededelingenblad.
+(4). De nationale wetgeving van een aangewezen Staat kan bepalen dat de rechtsgevolgen bedoeld in het eerste lid slechts zullen intreden vanaf de datum waarop een afschrift van de internationale aanvrage gepubliceerd ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=21&z=2008-07-01&g=2008-07-01) bij het nationale bureau van of optredend voor deze Staat is ontvangen. Het genoemde bureau maakt de datum van ontvangst zo spoedig mogelijk bekend in zijn mededelingenblad.
 
 ##### Artikel 30. Vertrouwelijke aard van de internationale aanvrage
 
 - a). Onverminderd het bepaalde onder **b)** geven het Internationale Bureau en de Instanties voor Internationaal Nieuwheidsonderzoek aan geen persoon of instantie toegang tot de internationale aanvrage voordat de internationale publikatie van die aanvrage is verricht, tenzij zulks is verzocht of daartoe machtiging is verleend door de aanvrager.
 
-- b). Het bepaalde onder **a)** is niet van toepassing op toezendingen aan de bevoegde Instantie voor Internationaal Nieuwheidsonderzoek, op de toezendingen ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=13&z=2007-04-01&g=2007-04-01) en op mededelingen ingevolge [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2007-04-01&g=2007-04-01).
+- b). Het bepaalde onder **a)** is niet van toepassing op toezendingen aan de bevoegde Instantie voor Internationaal Nieuwheidsonderzoek, op de toezendingen ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=13&z=2008-07-01&g=2008-07-01) en op mededelingen ingevolge [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01).
 
 - a). Een nationaal bureau geeft aan derden geen toegang tot de internationale aanvrage, tenzij zulks is verzocht of daartoe machtiging is verleend door de aanvrager, vóór de eerste van de onderstaande tijdstippen:
 
 - (i). de datum van de internationale publikatie van de internationale aanvrage,
 
-- (ii). de datum van ontvangst van de mededeling van de internationale aanvrage ingevolge [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2007-04-01&g=2007-04-01),
+- (ii). de datum van ontvangst van de mededeling van de internationale aanvrage ingevolge [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01),
 
-- (iii). de datum van ontvangst van een afschrift van de internationale aanvrage ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2007-04-01&g=2007-04-01).
+- (iii). de datum van ontvangst van een afschrift van de internationale aanvrage ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01).
 
 - b). Het bepaalde onder **a)** belet een nationaal bureau niet derden ervan in kennis te stellen dat het is aangewezen of dit feit bekend te maken. Een zodanige inlichting of bekendmaking mag evenwel slechts de volgende gegevens bevatten: identificatie van het ontvangende bureau, naam van de aanvrager, datum van de internationale indiening, nummer van de internationale aanvrage en titel van de uitvinding.
 
 - c). Het bepaalde onder **a)** belet een aangewezen bureau niet de gerechtelijke autoriteiten toegang tot de internationale aanvrage te geven.
 
-(3). Het bepaalde in het tweede lid, onder **a)**, is van toepassing op elk ontvangend bureau behalve voor zover het toezendingen ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=12&z=2007-04-01&g=2007-04-01), betreft.
+(3). Het bepaalde in het tweede lid, onder **a)**, is van toepassing op elk ontvangend bureau behalve voor zover het toezendingen ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=12&z=2008-07-01&g=2008-07-01), betreft.
 
 (4). Voor de toepassing van dit artikel omvat de uitdrukking „toegang” alle middelen waardoor derden kennis kunnen verkrijgen, met inbegrip van individuele mededeling en algemene bekendmaking, met dien verstande evenwel dat een nationaal bureau een internationale aanvrage of de vertaling daarvan niet vóór de internationale publikatie algemeen openbaar maakt of, indien de internationale publikatie niet heeft plaats gevonden na het verstrijken van 20 maanden te rekenen van de datum van voorrang, vóór het verstrijken van 20 maanden vanaf genoemde datum van voorrang.
 
@@ -464,19 +464,19 @@ Een aangewezen bureau mag een internationale aanvrage niet afwijzen op de grond 
 
 (1). Op verzoek van de aanvrager wordt zijn internationale aanvrage onderworpen aan een internationale voorlopige beoordeling zoals voorzien in de onderstaande bepalingen en in het Reglement.
 
-- a). Een aanvrager die, zoals omschreven in het Reglement, inwoner of onderdaan is van een Verdragsluitende Staat die gebonden is door [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2007-04-01&g=2007-04-01) en wiens internationale aanvrage is ingediend bij het ontvangende bureau van of optredend voor die Staat kan een verzoek tot een internationale voorlopige beoordeling indienen.
+- a). Een aanvrager die, zoals omschreven in het Reglement, inwoner of onderdaan is van een Verdragsluitende Staat die gebonden is door [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2008-07-01&g=2008-07-01) en wiens internationale aanvrage is ingediend bij het ontvangende bureau van of optredend voor die Staat kan een verzoek tot een internationale voorlopige beoordeling indienen.
 
-- b). De Algemene Vergadering kan besluiten, dat personen bevoegd tot het indienen van internationale aanvragen wordt toegestaan een verzoek te doen tot een internationale voorlopige beoordeling, zelfs indien zij inwoners of onderdanen zijn van een Staat die geen partij is bij dit Verdrag of die niet is gebonden door [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2007-04-01&g=2007-04-01).
+- b). De Algemene Vergadering kan besluiten, dat personen bevoegd tot het indienen van internationale aanvragen wordt toegestaan een verzoek te doen tot een internationale voorlopige beoordeling, zelfs indien zij inwoners of onderdanen zijn van een Staat die geen partij is bij dit Verdrag of die niet is gebonden door [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2008-07-01&g=2008-07-01).
 
 (3). Het verzoek tot een internationale voorlopige beoordeling wordt gescheiden van de internationale aanvrage ingediend. Het verzoek dient de voorgeschreven gegevens te bevatten en in de voorgeschreven taal en vorm te zijn gesteld.
 
-- a). Het verzoek vermeldt de Verdragsluitende Staat of Staten waarin de aanvrager voornemens is de resultaten van de internationale voorlopige beoordeling te gebruiken („gekozen Staten”). Bijkomende Verdragsluitende Staten kunnen later worden gekozen. De keuze kan alleen betrekking hebben op reeds krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=4&z=2007-04-01&g=2007-04-01) aangewezen Verdragsluitende Staten.
+- a). Het verzoek vermeldt de Verdragsluitende Staat of Staten waarin de aanvrager voornemens is de resultaten van de internationale voorlopige beoordeling te gebruiken („gekozen Staten”). Bijkomende Verdragsluitende Staten kunnen later worden gekozen. De keuze kan alleen betrekking hebben op reeds krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=4&z=2008-07-01&g=2008-07-01) aangewezen Verdragsluitende Staten.
 
-- b). Aanvragers bedoeld in het tweede lid, onder **a)**, kunnen elke Verdragsluitende Staat kiezen die gebonden is door [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2007-04-01&g=2007-04-01). Aanvragers bedoeld in het tweede lid onder **b)**, kunnen alleen die door Hoofdstuk II gebonden Verdragsluitende Staten kiezen, die hebben verklaard dat zij bereid zijn door zodanige aanvragers te worden gekozen.
+- b). Aanvragers bedoeld in het tweede lid, onder **a)**, kunnen elke Verdragsluitende Staat kiezen die gebonden is door [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2008-07-01&g=2008-07-01). Aanvragers bedoeld in het tweede lid onder **b)**, kunnen alleen die door Hoofdstuk II gebonden Verdragsluitende Staten kiezen, die hebben verklaard dat zij bereid zijn door zodanige aanvragers te worden gekozen.
 
 (5). Het verzoek is onderworpen aan de betaling van de voorgeschreven taksen binnen de voorgeschreven termijn.
 
-- a). Het verzoek wordt ingediend bij de bevoegde Instantie voor de internationale voorlopige beoordeling bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=32&z=2007-04-01&g=2007-04-01).
+- a). Het verzoek wordt ingediend bij de bevoegde Instantie voor de internationale voorlopige beoordeling bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=32&z=2008-07-01&g=2008-07-01).
 
 - b). Latere keuzen worden voorgelegd aan het Internationale Bureau.
 
@@ -486,9 +486,9 @@ Een aangewezen bureau mag een internationale aanvrage niet afwijzen op de grond 
 
 (1). De internationale voorlopige beoordeling wordt verricht door de Instantie voor Internationale Voorlopige Beoordeling.
 
-(2). In het geval van verzoeken zoals bedoeld in [artikel 31, tweede lid, onder **a)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=31&z=2007-04-01&g=2007-04-01), wordt door het ontvangende bureau en, in het geval van verzoeken als bedoeld in artikel 31, tweede lid, onder **b)**, wordt (worden) door de Algemene Vergadering, overeenkomstig de van toepassing zijnde overeenkomst tussen de betrokken Instantie of Instanties voor de Internationale Voorlopige Beoordeling en het Internationale Bureau, de Instantie of Instanties voor de Internationale Voorlopige Beoordeling aangewezen die bevoegd zijn de voorlopige beoordeling te verrichten.
+(2). In het geval van verzoeken zoals bedoeld in [artikel 31, tweede lid, onder **a)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=31&z=2008-07-01&g=2008-07-01), wordt door het ontvangende bureau en, in het geval van verzoeken als bedoeld in artikel 31, tweede lid, onder **b)**, wordt (worden) door de Algemene Vergadering, overeenkomstig de van toepassing zijnde overeenkomst tussen de betrokken Instantie of Instanties voor de Internationale Voorlopige Beoordeling en het Internationale Bureau, de Instantie of Instanties voor de Internationale Voorlopige Beoordeling aangewezen die bevoegd zijn de voorlopige beoordeling te verrichten.
 
-(3). Het bepaalde in [artikel 1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=16&z=2007-04-01&g=2007-04-01), is van overeenkomstige toepassing op de Instanties voor de Internationale Voorlopige Beoordeling.
+(3). Het bepaalde in [artikel 1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=16&z=2008-07-01&g=2008-07-01), is van overeenkomstige toepassing op de Instanties voor de Internationale Voorlopige Beoordeling.
 
 ##### Artikel 33. De internationale voorlopige beoordeling
 
@@ -514,11 +514,11 @@ Een aangewezen bureau mag een internationale aanvrage niet afwijzen op de grond 
 
 - c). De aanvrager ontvangt ten minste één schriftelijk oordeel van de Instantie voor de Internationale Voorlopige Beoordeling, tenzij deze Instantie van mening is dat aan alle onderstaande vereisten is voldaan:
 
-- (i). de uitvinding voldoet aan de maatstaven vermeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=33&z=2007-04-01&g=2007-04-01),
+- (i). de uitvinding voldoet aan de maatstaven vermeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=33&z=2008-07-01&g=2008-07-01),
 
 - (ii). de internationale aanvrage voldoet aan de eisen van dit Verdrag en van het Reglement voor zover nagegaan door deze Instantie,
 
-- (iii). er bestaat geen voornemen tot het maken van opmerkingen ingevolge [artikel 35, tweede lid, laatste zin](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=35&z=2007-04-01&g=2007-04-01).
+- (iii). er bestaat geen voornemen tot het maken van opmerkingen ingevolge [artikel 35, tweede lid, laatste zin](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=35&z=2008-07-01&g=2008-07-01).
 
 - d). De aanvrager kan reageren op het schriftelijke oordeel.
 
@@ -528,7 +528,7 @@ Een aangewezen bureau mag een internationale aanvrage niet afwijzen op de grond 
 
 - c). Indien de aanvrager niet binnen de voorgeschreven termijn voldoet aan het verzoek bedoeld onder **a)**, stelt de Instantie voor de Internationale Voorlopige Beoordeling een verslag op van de internationale voorlopige beoordeling over die delen van de internationale aanvrage die betrekking hebben op wat de hoofduitvinding lijkt te zijn en vermeldt zij de van belang zijnde feiten in het genoemde verslag. De nationale wetgeving van een gekozen Staat kan bepalen dat, wanneer zijn nationale bureau het verzoek van de Instantie voor de Internationale Voorlopige Beoordeling gerechtvaardigd acht, die delen van de internationale aanvrage die geen betrekking hebben op de hoofduitvinding, voor zover het rechtsgevolgen in die Staat betreft, als ingetrokken worden beschouwd, tenzij de aanvrager een bijzondere taks betaalt aan dat bureau.
 
-- a). Indien de Instantie voor de Internationale Voorlopige Beoordeling van oordeel is dat gaat de genoemde Instantie niet in op de vragen bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=33&z=2007-04-01&g=2007-04-01), en stelt zij de aanvrager in kennis van haar oordeel en de daaraan ten grondslag liggende redenen.
+- a). Indien de Instantie voor de Internationale Voorlopige Beoordeling van oordeel is dat gaat de genoemde Instantie niet in op de vragen bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=33&z=2008-07-01&g=2008-07-01), en stelt zij de aanvrager in kennis van haar oordeel en de daaraan ten grondslag liggende redenen.
 
 - (i). de internationale aanvrage betrekking heeft op een onderwerp waarover de Instantie voor de Internationale Voorlopige Beoordeling niet krachtens het Reglement een internationale voorlopige beoordeling behoeft te geven en in dat bijzondere geval besluit een zodanige beoordeling niet te geven, of
 
@@ -540,11 +540,11 @@ Een aangewezen bureau mag een internationale aanvrage niet afwijzen op de grond 
 
 (1). Het verslag van de internationale voorlopige beoordeling wordt opgesteld binnen de voorgeschreven termijn en in de voorgeschreven vorm.
 
-(2). Het verslag van de internationale voorlopige beoordeling bevat geen verklaring over de vraag of de uitvinding waarvoor uitsluitende rechten worden verlangd, al dan niet octrooieerbaar is of lijkt overeenkomstig de nationale wetgeving. Het verklaart, met inachtneming van het bepaalde in het derde lid, ten aanzien van elke conclusie, of zij lijkt te voldoen aan de maatstaven van nieuwheid, uitvinderswerkzaamheid (het niet voor de hand liggen) en het vatbaar zijn voor toepassing op het gebied van de nijverheid, zoals deze voor de internationale voorlopige beoordeling zijn omschreven in [artikel 33, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=33&z=2007-04-01&g=2007-04-01). De verklaring gaat vergezeld van de aanhaling van de literatuurplaatsen waarvan wordt aangenomen dat zij de uiteengezette gevolgtrekking staven met de toelichtingen die de omstandigheden van de zaak mogelijk vereisen. De verklaring gaat tevens vergezeld van eventuele andere opmerkingen zoals bepaald in het Reglement.
+(2). Het verslag van de internationale voorlopige beoordeling bevat geen verklaring over de vraag of de uitvinding waarvoor uitsluitende rechten worden verlangd, al dan niet octrooieerbaar is of lijkt overeenkomstig de nationale wetgeving. Het verklaart, met inachtneming van het bepaalde in het derde lid, ten aanzien van elke conclusie, of zij lijkt te voldoen aan de maatstaven van nieuwheid, uitvinderswerkzaamheid (het niet voor de hand liggen) en het vatbaar zijn voor toepassing op het gebied van de nijverheid, zoals deze voor de internationale voorlopige beoordeling zijn omschreven in [artikel 33, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=33&z=2008-07-01&g=2008-07-01). De verklaring gaat vergezeld van de aanhaling van de literatuurplaatsen waarvan wordt aangenomen dat zij de uiteengezette gevolgtrekking staven met de toelichtingen die de omstandigheden van de zaak mogelijk vereisen. De verklaring gaat tevens vergezeld van eventuele andere opmerkingen zoals bepaald in het Reglement.
 
-- a). Indien, op het tijdstip van opstelling van het verslag van de internationale voorlopige beoordeling de Instantie voor de internationale voorlopige beoordeling van oordeel is dat een van de omstandigheden zoals bedoeld in [artikel 34, vierde lid, onder **a)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=34&z=2007-04-01&g=2007-04-01), bestaat, dient dit verslag haar oordeel en de daaraan ten grondslag liggende redenen te vermelden. Het bevat geen verklaring zoals bepaald in het tweede lid.
+- a). Indien, op het tijdstip van opstelling van het verslag van de internationale voorlopige beoordeling de Instantie voor de internationale voorlopige beoordeling van oordeel is dat een van de omstandigheden zoals bedoeld in [artikel 34, vierde lid, onder **a)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=34&z=2008-07-01&g=2008-07-01), bestaat, dient dit verslag haar oordeel en de daaraan ten grondslag liggende redenen te vermelden. Het bevat geen verklaring zoals bepaald in het tweede lid.
 
-- b). Indien een omstandigheid ingevolge [artikel 34, vierde lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=34&z=2007-04-01&g=2007-04-01) wordt bevonden te bestaan, dient het verslag van de internationale voorlopige beoordeling ten aanzien van de betrokken conclusies de verklaring zoals voorzien onder **a)** te bevatten, terwijl het, ten aanzien van de andere conclusies, de verklaring zoals voorzien in het tweede lid dient te bevatten.
+- b). Indien een omstandigheid ingevolge [artikel 34, vierde lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=34&z=2008-07-01&g=2008-07-01) wordt bevonden te bestaan, dient het verslag van de internationale voorlopige beoordeling ten aanzien van de betrokken conclusies de verklaring zoals voorzien onder **a)** te bevatten, terwijl het, ten aanzien van de andere conclusies, de verklaring zoals voorzien in het tweede lid dient te bevatten.
 
 ##### Artikel 36. Toezending, vertaling en mededeling van het verslag van de internationale voorlopige beoordeling
 
@@ -558,7 +558,7 @@ Een aangewezen bureau mag een internationale aanvrage niet afwijzen op de grond 
 
 - b). De voorgeschreven vertaling van de bijlagen wordt binnen de voorgeschreven termijn door de aanvrager toegezonden aan de gekozen bureaus.
 
-(4). Het bepaalde in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2007-04-01&g=2007-04-01), is van overeenkomstige toepassing op afschriften van elke literatuurplaats die in het verslag van internationale voorlopige beoordeling en niet in het verslag van het internationale nieuwheidsonderzoek is aangehaald.
+(4). Het bepaalde in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01), is van overeenkomstige toepassing op afschriften van elke literatuurplaats die in het verslag van internationale voorlopige beoordeling en niet in het verslag van het internationale nieuwheidsonderzoek is aangehaald.
 
 ##### Artikel 37. Intrekking van het verzoek of de keuze
 
@@ -572,27 +572,27 @@ Een aangewezen bureau mag een internationale aanvrage niet afwijzen op de grond 
 
 - a). Onverminderd het bepaalde onder **b)** wordt de intrekking van het verzoek of van de keuze van een Verdragsluitende Staat, tenzij de nationale wetgeving van die Staat anders bepaalt, beschouwd als intrekking van de internationale aanvrage voor zover het die Staat betreft.
 
-- b). Intrekking van het verzoek of van de keuze wordt niet beschouwd als intrekking van de internationale aanvrage, indien deze intrekking geschiedt vóór het verstrijken van de ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2007-04-01&g=2007-04-01) geldende termijn; elke Verdragsluitende Staat kan evenwel in zijn nationale wetgeving bepalen dat het voorgaande alleen geldt indien zijn nationale bureau binnen genoemde termijn een exemplaar van de internationale aanvrage, te zamen met een vertaling (zoals voorgeschreven) en de nationale taks heeft ontvangen.
+- b). Intrekking van het verzoek of van de keuze wordt niet beschouwd als intrekking van de internationale aanvrage, indien deze intrekking geschiedt vóór het verstrijken van de ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) geldende termijn; elke Verdragsluitende Staat kan evenwel in zijn nationale wetgeving bepalen dat het voorgaande alleen geldt indien zijn nationale bureau binnen genoemde termijn een exemplaar van de internationale aanvrage, te zamen met een vertaling (zoals voorgeschreven) en de nationale taks heeft ontvangen.
 
 ##### Artikel 38. Vertrouwelijke aard van de internationale voorlopige beoordeling
 
-(1). Noch het Internationale Bureau noch de Instantie voor de internationale voorlopige beoordeling geeft, tenzij daartoe verzocht of gemachtigd door de aanvrager, te eniger tijd toegang in de zin en met het voorbehoud van [artikel 30, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=30&z=2007-04-01&g=2007-04-01), tot het dossier van de internationale voorlopige beoordeling aan personen of instanties, behalve aan de gekozen bureaus wanneer het verslag van de internationale voorlopige beoordeling eenmaal is opgesteld.
+(1). Noch het Internationale Bureau noch de Instantie voor de internationale voorlopige beoordeling geeft, tenzij daartoe verzocht of gemachtigd door de aanvrager, te eniger tijd toegang in de zin en met het voorbehoud van [artikel 30, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=30&z=2008-07-01&g=2008-07-01), tot het dossier van de internationale voorlopige beoordeling aan personen of instanties, behalve aan de gekozen bureaus wanneer het verslag van de internationale voorlopige beoordeling eenmaal is opgesteld.
 
-(2). Onverminderd het bepaalde in het eerste lid en in de [artikelen 36, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=36&z=2007-04-01&g=2007-04-01), en [37, derde lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=37&z=2007-04-01&g=2007-04-01) verstrekken noch het Internationale Bureau, noch de Instantie voor de internationale voorlopige beoordeling, tenzij daartoe verzocht of gemachtigd door de aanvrager, inlichtingen over het al dan niet uitbrengen van een verslag van de internationale voorlopige beoordeling of over het al dan niet intrekken van het verzoek of van een keuze.
+(2). Onverminderd het bepaalde in het eerste lid en in de [artikelen 36, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=36&z=2008-07-01&g=2008-07-01), en [37, derde lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=37&z=2008-07-01&g=2008-07-01) verstrekken noch het Internationale Bureau, noch de Instantie voor de internationale voorlopige beoordeling, tenzij daartoe verzocht of gemachtigd door de aanvrager, inlichtingen over het al dan niet uitbrengen van een verslag van de internationale voorlopige beoordeling of over het al dan niet intrekken van het verzoek of van een keuze.
 
 ##### Artikel 39. Afschrift, vertaling en taks voor de gekozen bureaus
 
-- a). Indien de keuze van een Verdragsluitende Staat is gedaan vóór het verstrijken van de 19de maand, te rekenen van de datum van voorrang, is het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2007-04-01&g=2007-04-01) niet van toepassing op deze Staat en verstrekt de aanvrager een afschrift van de internationale aanvrage (tenzij de mededeling krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2007-04-01&g=2007-04-01) reeds heeft plaatsgevonden en een vertaling daarvan (zoals voorgeschreven) en betaalt hij de (eventuele) nationale taks aan elk gekozen bureau vóór het verstrijken van dertig maanden, te rekenen van de datum van voorrang.
+- a). Indien de keuze van een Verdragsluitende Staat is gedaan vóór het verstrijken van de 19de maand, te rekenen van de datum van voorrang, is het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) niet van toepassing op deze Staat en verstrekt de aanvrager een afschrift van de internationale aanvrage (tenzij de mededeling krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01) reeds heeft plaatsgevonden en een vertaling daarvan (zoals voorgeschreven) en betaalt hij de (eventuele) nationale taks aan elk gekozen bureau vóór het verstrijken van dertig maanden, te rekenen van de datum van voorrang.
 
 - b). Elke nationale wetgeving kan voor het verrichten van de handelingen bedoeld onder **a)** termijnen vaststellen die later verstrijken dan de onder **a)** bepaalde termijn.
 
-(2). Het rechtsgevolg voorzien in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=11&z=2007-04-01&g=2007-04-01), houdt in de gekozen Staat op te bestaan met dezelfde gevolgen als de intrekking van een nationale aanvrage in die Staat indien de aanvrager nalaat, binnen de termijn van toepassing krachtens het eerste lid, onder **a)** of **b)**, de handelingen te verrichten bedoeld in het eerste lid, onder **a)**.
+(2). Het rechtsgevolg voorzien in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=11&z=2008-07-01&g=2008-07-01), houdt in de gekozen Staat op te bestaan met dezelfde gevolgen als de intrekking van een nationale aanvrage in die Staat indien de aanvrager nalaat, binnen de termijn van toepassing krachtens het eerste lid, onder **a)** of **b)**, de handelingen te verrichten bedoeld in het eerste lid, onder **a)**.
 
-(3). Een gekozen bureau kan het rechtsgevolg, voorzien in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=11&z=2007-04-01&g=2007-04-01), handhaven, zelfs indien de aanvrager niet voldoet aan de eisen genoemd in het eerste lid, onder **a)** of **b)**.
+(3). Een gekozen bureau kan het rechtsgevolg, voorzien in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=11&z=2008-07-01&g=2008-07-01), handhaven, zelfs indien de aanvrager niet voldoet aan de eisen genoemd in het eerste lid, onder **a)** of **b)**.
 
 ##### Artikel 40. Uitstel van de nationale beoordeling en andere behandelingen
 
-(1). Indien de keuze van een Verdragsluitende Staat is verricht vóór het verstrijken van de 19de maand, te rekenen van de datum van voorrang, is het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=23&z=2007-04-01&g=2007-04-01) niet van toepassing op die Staat en gaat het nationale bureau van of optredend voor die Staat, onverminderd het bepaalde in het tweede lid, niet over tot de beoordeling en tot andere behandeling van de internationale aanvrage vóór het verstrijken van de krachtens [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=39&z=2007-04-01&g=2007-04-01) geldende termijn.
+(1). Indien de keuze van een Verdragsluitende Staat is verricht vóór het verstrijken van de 19de maand, te rekenen van de datum van voorrang, is het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=23&z=2008-07-01&g=2008-07-01) niet van toepassing op die Staat en gaat het nationale bureau van of optredend voor die Staat, onverminderd het bepaalde in het tweede lid, niet over tot de beoordeling en tot andere behandeling van de internationale aanvrage vóór het verstrijken van de krachtens [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=39&z=2008-07-01&g=2008-07-01) geldende termijn.
 
 (2). Niettegenstaande het bepaalde in het eerste lid kan een gekozen bureau, op uitdrukkelijk verzoek van de aanvrager, te allen tijde overgaan tot de beoordeling en de andere behandeling van de internationale aanvrage.
 
@@ -614,15 +614,15 @@ Een gekozen bureau dat het verslag van de internationale voorlopige beoordeling 
 
 ##### Artikel 43. Het verzoeken om bepaalde soorten van bescherming
 
-Ten aanzien van elke aangewezen of gekozen Staat waarvan de wetgeving voorziet in het verlenen van uitvinderscertificaten, gebruikscertificaten, gebruiksmodellen, aanvullingsoctrooien of aanvullingscertificaten, aanvullingen van uitvinderscertificaten of aanvullingen van gebruikscertificaten, kan de aanvrager, zoals voorgeschreven in het Reglement, vermelden dat zijn internationale aanvrage bedoeld is voor het verlenen, voor zover het die Staat betreft, van een uitvinderscertificaat, een gebruikscertificaat, of een gebruiksmodel, en niet van een octrooi of dat zij bedoeld is voor het verlenen van een aanvullingsoctrooi of aanvullingscertificaat, een aanvulling van een uitvinderscertificaat of een aanvulling van een gebruikscertificaat; de daaruit voortvloeiende rechtsgevolgen worden beheerst door de keuze van de aanvrager. Voor de toepassing van dit artikel en van enige ingevolge dit artikel gegeven regel, is [artikel 2, onder (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&artikel=2&z=2007-04-01&g=2007-04-01), niet van toepassing.
+Ten aanzien van elke aangewezen of gekozen Staat waarvan de wetgeving voorziet in het verlenen van uitvinderscertificaten, gebruikscertificaten, gebruiksmodellen, aanvullingsoctrooien of aanvullingscertificaten, aanvullingen van uitvinderscertificaten of aanvullingen van gebruikscertificaten, kan de aanvrager, zoals voorgeschreven in het Reglement, vermelden dat zijn internationale aanvrage bedoeld is voor het verlenen, voor zover het die Staat betreft, van een uitvinderscertificaat, een gebruikscertificaat, of een gebruiksmodel, en niet van een octrooi of dat zij bedoeld is voor het verlenen van een aanvullingsoctrooi of aanvullingscertificaat, een aanvulling van een uitvinderscertificaat of een aanvulling van een gebruikscertificaat; de daaruit voortvloeiende rechtsgevolgen worden beheerst door de keuze van de aanvrager. Voor de toepassing van dit artikel en van enige ingevolge dit artikel gegeven regel, is [artikel 2, onder (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&artikel=2&z=2008-07-01&g=2008-07-01), niet van toepassing.
 
 ##### Artikel 44. Het verzoeken om twee soorten van bescherming
 
-Ten aanzien van elke aangewezen of gekozen Staat, waarvan de wetgeving toestaat, dat een aanvrage dienend voor het verlenen van een octrooi of van een van de andere soorten van bescherming genoemd in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=43&z=2007-04-01&g=2007-04-01), tevens dient voor de verlening van een van de andere genoemde soorten van bescherming, kan, zoals voorgeschreven in het Reglement, de aanvrager de twee soorten van bescherming vermelden die hij beoogt en de daaruit voortvloeiende rechtsgevolgen worden beheerst door de vermeldingen van de aanvrager. Voor de toepassing van dit artikel is [artikel 2, onder (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&artikel=2&z=2007-04-01&g=2007-04-01), niet van toepassing.
+Ten aanzien van elke aangewezen of gekozen Staat, waarvan de wetgeving toestaat, dat een aanvrage dienend voor het verlenen van een octrooi of van een van de andere soorten van bescherming genoemd in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=43&z=2008-07-01&g=2008-07-01), tevens dient voor de verlening van een van de andere genoemde soorten van bescherming, kan, zoals voorgeschreven in het Reglement, de aanvrager de twee soorten van bescherming vermelden die hij beoogt en de daaruit voortvloeiende rechtsgevolgen worden beheerst door de vermeldingen van de aanvrager. Voor de toepassing van dit artikel is [artikel 2, onder (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&artikel=2&z=2008-07-01&g=2008-07-01), niet van toepassing.
 
 ##### Artikel 45. Regionale octrooiverdragen
 
-(1). Elk verdrag dat voorziet in de verlening van regionale octrooien („regionaal octrooiverdrag”) en dat alle personen, die overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=9&z=2007-04-01&g=2007-04-01) bevoegd zijn internationale aanvragen in te dienen, het recht toekent aanvragen voor zodanige octrooien in te dienen, kan bepalen, dat internationale aanvragen waarbij een Staat wordt aangewezen of gekozen, die zowel bij het regionale octrooiverdrag als bij dit Verdrag partij is, kunnen worden ingediend als aanvragen voor regionale octrooien.
+(1). Elk verdrag dat voorziet in de verlening van regionale octrooien („regionaal octrooiverdrag”) en dat alle personen, die overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=9&z=2008-07-01&g=2008-07-01) bevoegd zijn internationale aanvragen in te dienen, het recht toekent aanvragen voor zodanige octrooien in te dienen, kan bepalen, dat internationale aanvragen waarbij een Staat wordt aangewezen of gekozen, die zowel bij het regionale octrooiverdrag als bij dit Verdrag partij is, kunnen worden ingediend als aanvragen voor regionale octrooien.
 
 (2). De nationale wetgeving van genoemde aangewezen of gekozen Staat kan bepalen, dat een aanwijzing of keuze van een zodanige Staat in de internationale aanvrage de rechtsgevolgen heeft van een vermelding van de wens tot het verkrijgen van een regionaal octrooi ingevolge het regionale octrooiverdrag.
 
@@ -634,7 +634,7 @@ Indien, wegens een onjuiste vertaling van de internationale aanvrage, de omvang 
 
 (1). De bijzonderheden voor de berekening van de termijnen genoemd in dit Verdrag worden geregeld in het Reglement.
 
-- a). Alle termijnen vastgesteld in de [Hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&z=2007-04-01&g=2007-04-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2007-04-01&g=2007-04-01) van dit Verdrag kunnen, buiten een herziening ingevolge [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VII&artikel=60&z=2007-04-01&g=2007-04-01), worden gewijzigd bij besluit van de Verdragsluitende Staten.
+- a). Alle termijnen vastgesteld in de [Hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&z=2008-07-01&g=2008-07-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2008-07-01&g=2008-07-01) van dit Verdrag kunnen, buiten een herziening ingevolge [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VII&artikel=60&z=2008-07-01&g=2008-07-01), worden gewijzigd bij besluit van de Verdragsluitende Staten.
 
 - b). Zodanige besluiten worden met eenparigheid van stemmen genomen, hetzij in de Algemene Vergadering hetzij door een schriftelijke stemming.
 
@@ -664,7 +664,7 @@ Elke advocaat, octrooigemachtigde of andere persoon die het recht heeft op te tr
 
 (4). De inlichtingendiensten staan ter beschikking van de Regeringen van Verdragsluitende Staten en hun onderdanen en inwoners. De Algemene Vergadering kan besluiten deze diensten ook aan anderen ter beschikking te stellen.
 
-- a). Elke dienst aan Regeringen van Verdragsluitende Staten wordt verleend tegen kostprijs, met dien verstande dat indien het de Regering betreft van een Verdragsluitende Staat die een ontwikkelingsland is, de dienst wordt verleend tegen minder dan de kostprijs, indien het verschil kan worden gedekt uit winsten gemaakt op diensten, verleend aan anderen dan Regeringen van Verdragsluitende Staten of uit de middelen bedoeld in [artikel 51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=IV&artikel=51&z=2007-04-01&g=2007-04-01).
+- a). Elke dienst aan Regeringen van Verdragsluitende Staten wordt verleend tegen kostprijs, met dien verstande dat indien het de Regering betreft van een Verdragsluitende Staat die een ontwikkelingsland is, de dienst wordt verleend tegen minder dan de kostprijs, indien het verschil kan worden gedekt uit winsten gemaakt op diensten, verleend aan anderen dan Regeringen van Verdragsluitende Staten of uit de middelen bedoeld in [artikel 51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=IV&artikel=51&z=2008-07-01&g=2008-07-01).
 
 - b). Onder de kostprijs bedoeld onder **a)** dient te worden verstaan de kosten die uitgaan boven die welke normaal verbonden zijn aan het verrichten van de diensten door een nationaal bureau of de vervulling van de verplichtingen door een Instantie voor Internationaal Nieuwheidsonderzoek.
 
@@ -696,7 +696,7 @@ Het bepaalde in dit Hoofdstuk laat de financiële bepalingen neergelegd in enig 
 
 ##### Artikel 53. Algemene Vergadering
 
-- a). Behoudens het bepaalde in [artikel 57, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=57&z=2007-04-01&g=2007-04-01), bestaat de Algemene Vergadering uit de Verdragsluitende Staten.
+- a). Behoudens het bepaalde in [artikel 57, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=57&z=2008-07-01&g=2008-07-01), bestaat de Algemene Vergadering uit de Verdragsluitende Staten.
 
 - b). De Regering van elke Verdragsluitende Staat is vertegenwoordigd door een afgevaardigde, die zich kan doen bijstaan door plaatsvervangers, adviseurs en deskundigen.
 
@@ -732,11 +732,11 @@ Het bepaalde in dit Hoofdstuk laat de financiële bepalingen neergelegd in enig 
 
 - b). Wanneer er geen quorum aanwezig is kan de Algemene Vergadering besluiten nemen, maar, met uitzondering van die welke haar eigen procedure betreffen, worden al deze besluiten rechtens eerst uitvoerbaar indien het quorum en de vereiste meerderheid zijn bereikt door middel van een schriftelijke stemming zoals bepaald in het Reglement.
 
-- a). Onverminderd het bepaalde in de [artikelen 47, tweede lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=47&z=2007-04-01&g=2007-04-01), [58, tweede lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=58&z=2007-04-01&g=2007-04-01), 58, derde lid, en [61, tweede lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VII&artikel=61&z=2007-04-01&g=2007-04-01), worden besluiten van de Algemene Vergadering genomen met een meerderheid van twee/derde van de uitgebrachte stemmen.
+- a). Onverminderd het bepaalde in de [artikelen 47, tweede lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=47&z=2008-07-01&g=2008-07-01), [58, tweede lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=58&z=2008-07-01&g=2008-07-01), 58, derde lid, en [61, tweede lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VII&artikel=61&z=2008-07-01&g=2008-07-01), worden besluiten van de Algemene Vergadering genomen met een meerderheid van twee/derde van de uitgebrachte stemmen.
 
 - b). Onthouding geldt niet als stem.
 
-(7). Ten aanzien van vraagstukken die uitsluitend van belang zijn voor de Staten die zijn gebonden door [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2007-04-01&g=2007-04-01) wordt elke verwijzing naar Verdragsluitende Staten in het vierde, het vijfde en het zesde lid beschouwd als uitsluitend geldend voor Staten die zijn gebonden door Hoofdstuk II.
+(7). Ten aanzien van vraagstukken die uitsluitend van belang zijn voor de Staten die zijn gebonden door [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2008-07-01&g=2008-07-01) wordt elke verwijzing naar Verdragsluitende Staten in het vierde, het vijfde en het zesde lid beschouwd als uitsluitend geldend voor Staten die zijn gebonden door Hoofdstuk II.
 
 (8). Elke intergouvernementele organisatie die als Instantie voor Internationaal Nieuwheidsonderzoek of als Instantie voor de Internationale Voorlopige Beoordeling is aangewezen, wordt als waarnemer tot de Vergadering toegelaten.
 
@@ -754,7 +754,7 @@ Het bepaalde in dit Hoofdstuk laat de financiële bepalingen neergelegd in enig 
 
 (1). Wanneer de Algemene Vergadering een Uitvoerende Commissie heeft ingesteld is deze Commissie onderworpen aan de hierna gegeven bepalingen.
 
-- a). De Uitvoerende Commissie is, onverminderd het bepaalde in [artikel 57, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=57&z=2007-04-01&g=2007-04-01), samengesteld uit Staten, door de Algemene Vergadering gekozen uit de Staten die lid zijn van de Algemene Vergadering.
+- a). De Uitvoerende Commissie is, onverminderd het bepaalde in [artikel 57, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=57&z=2008-07-01&g=2008-07-01), samengesteld uit Staten, door de Algemene Vergadering gekozen uit de Staten die lid zijn van de Algemene Vergadering.
 
 - b). De Regering van elke Staat die lid is van de Uitvoerende Commissie is vertegenwoordigd door een afgevaardigde, die zich kan doen bijstaan door plaatsvervangers, adviseurs en deskundigen.
 
@@ -936,7 +936,7 @@ Het bepaalde in dit Hoofdstuk laat de financiële bepalingen neergelegd in enig 
 
 ##### Artikel 59. Geschillen
 
-Onverminderd [artikel 64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2007-04-01&g=2007-04-01), kan elk geschil tussen twee of meer Verdragsluitende Staten betreffende de uitlegging of de toepassing van dit Verdrag of van het Reglement, dat niet door onderhandelingen wordt beslecht, door een der betrokken Staten worden voorgelegd aan het Internationale Gerechtshof door middel van een verzoek overeenkomstig het [Statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), tenzij de betrokken Staten een andere wijze ter beslechting van het geschil overeenkomen. Het Internationale Bureau dient door de eisende Verdragsluitende Staat in kennis te worden gesteld van het aan het Hof voorgelegde geschil; het Internationale Bureau stelt de andere Verdragsluitende Staten hiervan in kennis.
+Onverminderd [artikel 64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2008-07-01&g=2008-07-01), kan elk geschil tussen twee of meer Verdragsluitende Staten betreffende de uitlegging of de toepassing van dit Verdrag of van het Reglement, dat niet door onderhandelingen wordt beslecht, door een der betrokken Staten worden voorgelegd aan het Internationale Gerechtshof door middel van een verzoek overeenkomstig het [Statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), tenzij de betrokken Staten een andere wijze ter beslechting van het geschil overeenkomen. Het Internationale Bureau dient door de eisende Verdragsluitende Staat in kennis te worden gesteld van het aan het Hof voorgelegde geschil; het Internationale Bureau stelt de andere Verdragsluitende Staten hiervan in kennis.
 
 ### HOOFDSTUK VII. Herziening en wijziging
 
@@ -948,11 +948,11 @@ Onverminderd [artikel 64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 (3). Intergouvernementele organisaties die zijn aangewezen als Instantie voor internationaal nieuwheidsonderzoek of voor de Internationale Voorlopige Beoordeling worden als waarnemer tot een herzieningsconferentie toegelaten.
 
-(4). De [artikelen 53, vijfde, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=53&z=2007-04-01&g=2007-04-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=54&z=2007-04-01&g=2007-04-01), [55, vierde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=55&z=2007-04-01&g=2007-04-01), [56](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=56&z=2007-04-01&g=2007-04-01) en [57](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=57&z=2007-04-01&g=2007-04-01) kunnen worden gewijzigd door een herzieningsconferentie of overeenkomstig het bepaalde in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VII&artikel=61&z=2007-04-01&g=2007-04-01).
+(4). De [artikelen 53, vijfde, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=53&z=2008-07-01&g=2008-07-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=54&z=2008-07-01&g=2008-07-01), [55, vierde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=55&z=2008-07-01&g=2008-07-01), [56](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=56&z=2008-07-01&g=2008-07-01) en [57](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=57&z=2008-07-01&g=2008-07-01) kunnen worden gewijzigd door een herzieningsconferentie of overeenkomstig het bepaalde in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VII&artikel=61&z=2008-07-01&g=2008-07-01).
 
 ##### Artikel 61. Wijziging van enige bepalingen van het Verdrag
 
-- a). Voorstellen tot wijziging van de [artikelen 53, vijfde, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=53&z=2007-04-01&g=2007-04-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=54&z=2007-04-01&g=2007-04-01), [55, vierde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=55&z=2007-04-01&g=2007-04-01), [56](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=56&z=2007-04-01&g=2007-04-01) en [57](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=57&z=2007-04-01&g=2007-04-01) kunnen worden ingediend door iedere Staat die lid is van de Algemene Vergadering, door de Uitvoerende Commissie of door de Directeur-Generaal.
+- a). Voorstellen tot wijziging van de [artikelen 53, vijfde, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=53&z=2008-07-01&g=2008-07-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=54&z=2008-07-01&g=2008-07-01), [55, vierde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=55&z=2008-07-01&g=2008-07-01), [56](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=56&z=2008-07-01&g=2008-07-01) en [57](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=V&artikel=57&z=2008-07-01&g=2008-07-01) kunnen worden ingediend door iedere Staat die lid is van de Algemene Vergadering, door de Uitvoerende Commissie of door de Directeur-Generaal.
 
 - b). Deze voorstellen worden door de Directeur-Generaal ten minste zes maanden voordat zij aan het onderzoek der Algemene Vergadering worden onderworpen, medegedeeld aan de Verdragsluitende Staten.
 
@@ -996,25 +996,25 @@ Onverminderd [artikel 64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 (2). Onverminderd het bepaalde in het derde lid wordt een Staat die geen partij bij dit Verdrag wordt bij de inwerkingtreding krachtens het eerste lid, door dit Verdrag gebonden drie maanden na de datum waarop deze Staat zijn akte van bekrachtiging of toetreding heeft nedergelegd.
 
-(3). De bepalingen van [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2007-04-01&g=2007-04-01) en de overeenkomstige bepalingen van het aan dit Verdrag gehechte Reglement worden evenwel eerst van toepassing op de datum waarop drie Staten die elk voldoen aan ten minste een van de in het eerste lid aangegeven vereisten, partij bij dit Verdrag zijn geworden zonder overeenkomstig [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2007-04-01&g=2007-04-01), te verklaren dat zij zich niet gebonden achten door de bepalingen van Hoofdstuk II. Die datum kan evenwel niet voor de datum van de eerste inwerkingtreding ingevolge het eerste lid liggen.
+(3). De bepalingen van [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2008-07-01&g=2008-07-01) en de overeenkomstige bepalingen van het aan dit Verdrag gehechte Reglement worden evenwel eerst van toepassing op de datum waarop drie Staten die elk voldoen aan ten minste een van de in het eerste lid aangegeven vereisten, partij bij dit Verdrag zijn geworden zonder overeenkomstig [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2008-07-01&g=2008-07-01), te verklaren dat zij zich niet gebonden achten door de bepalingen van Hoofdstuk II. Die datum kan evenwel niet voor de datum van de eerste inwerkingtreding ingevolge het eerste lid liggen.
 
 ##### Artikel 64. Voorbehouden
 
-- a). Elke Staat kan verklaren dat hij niet is gebonden door de bepalingen van [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2007-04-01&g=2007-04-01).
+- a). Elke Staat kan verklaren dat hij niet is gebonden door de bepalingen van [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2008-07-01&g=2008-07-01).
 
-- b). Staten die een verklaring afleggen als bedoeld onder **a)** zijn niet gebonden door de bepalingen van [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2007-04-01&g=2007-04-01) en de overeenkomstige bepalingen van het Reglement.
+- b). Staten die een verklaring afleggen als bedoeld onder **a)** zijn niet gebonden door de bepalingen van [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2008-07-01&g=2008-07-01) en de overeenkomstige bepalingen van het Reglement.
 
 - a). Een Staat die geen verklaring ingevolge het eerste lid, onder **a)**, heeft afgelegd, kan verklaren dat:
 
-- (i). hij niet is gebonden door de bepalingen van [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=39&z=2007-04-01&g=2007-04-01) ten aanzien van het verschaffen van een afschrift van de internationale aanvrage en een vertaling daarvan (zoals voorgeschreven),
+- (i). hij niet is gebonden door de bepalingen van [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=39&z=2008-07-01&g=2008-07-01) ten aanzien van het verschaffen van een afschrift van de internationale aanvrage en een vertaling daarvan (zoals voorgeschreven),
 
-- (ii). de verplichting de nationale behandeling uit te stellen, zoals voorzien in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=40&z=2007-04-01&g=2007-04-01), niet de openbaarmaking van de internationale aanvrage of een vertaling daarvan, door of via zijn nationale bureau belet, met dien verstande evenwel, dat hij niet is vrijgesteld van de verplichtingen, voorzien in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=30&z=2007-04-01&g=2007-04-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=38&z=2007-04-01&g=2007-04-01).
+- (ii). de verplichting de nationale behandeling uit te stellen, zoals voorzien in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=40&z=2008-07-01&g=2008-07-01), niet de openbaarmaking van de internationale aanvrage of een vertaling daarvan, door of via zijn nationale bureau belet, met dien verstande evenwel, dat hij niet is vrijgesteld van de verplichtingen, voorzien in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=30&z=2008-07-01&g=2008-07-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=38&z=2008-07-01&g=2008-07-01).
 
 - b). Staten die een zodanige verklaring afleggen zijn dienovereenkomstig gebonden.
 
 - a). Een Staat kan verklaren dat, voor zover het hem betreft, internationale openbaarmaking van internationale aanvragen niet vereist is.
 
-- b). Indien, na het verstrijken van 18 maanden van de datum van voorrang, de internationale aanvrage de aanwijzing bevat van alleen die Staten die verklaringen hebben afgelegd als bedoeld onder **a),** wordt de internationale aanvrage niet openbaar gemaakt krachtens [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=21&z=2007-04-01&g=2007-04-01).
+- b). Indien, na het verstrijken van 18 maanden van de datum van voorrang, de internationale aanvrage de aanwijzing bevat van alleen die Staten die verklaringen hebben afgelegd als bedoeld onder **a),** wordt de internationale aanvrage niet openbaar gemaakt krachtens [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=21&z=2008-07-01&g=2008-07-01).
 
 - c). Indien het bepaalde onder **b)** van toepassing is, wordt de internationale aanvrage niettemin door het Internationale Bureau openbaar gemaakt:
 
@@ -1024,11 +1024,11 @@ Onverminderd [artikel 64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 - a). Elke Staat waarvan de nationale wetgeving aan zijn octrooien gevolgen wat betreft de stand van de techniek verbindt vanaf de datum voor de openbaarmaking, maar niet voor de bepaling van de stand van de techniek, de datum van voorrang waarop men zich beroept ingevolge het [Verdrag van Parijs tot Bescherming van de Industriële Eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120), gelijkstelt met de werkelijke datum van indiening in die Staat, kan verklaren dat de indiening buiten die Staat van een internationale aanvrage, waarin die Staat is aangewezen, niet gelijk wordt gesteld aan een werkelijke indiening in die Staat voor de bepaling van de stand van de techniek.
 
-- b). Een Staat die een verklaring als bedoeld onder **a)** aflegt, is in zoverre niet gebonden door het bepaalde in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=11&z=2007-04-01&g=2007-04-01).
+- b). Een Staat die een verklaring als bedoeld onder **a)** aflegt, is in zoverre niet gebonden door het bepaalde in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=11&z=2008-07-01&g=2008-07-01).
 
 - c). Een Staat die een verklaring als bedoeld onder **a)** aflegt, geeft tegelijkertijd schriftelijk aan met ingang van welke datum en onder welke voorwaarden de gevolgen voor de stand van de techniek van internationale aanvragen, waarin die Staat wordt aangewezen, in die Staat van kracht worden. Deze verklaring kan te allen tijde worden gewijzigd door een kennisgeving gericht tot de Directeur-Generaal.
 
-(5). Elke Staat kan verklaren, dat hij zich niet gebonden acht door [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VI&artikel=59&z=2007-04-01&g=2007-04-01). Ten aanzien van geschillen tussen een Verdragsluitende Staat die een zodanige verklaring heeft afgelegd en een andere Verdragsluitende Staat zijn de bepalingen van artikel 59 niet van toepassing.
+(5). Elke Staat kan verklaren, dat hij zich niet gebonden acht door [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VI&artikel=59&z=2008-07-01&g=2008-07-01). Ten aanzien van geschillen tussen een Verdragsluitende Staat die een zodanige verklaring heeft afgelegd en een andere Verdragsluitende Staat zijn de bepalingen van artikel 59 niet van toepassing.
 
 - a). Een verklaring volgens dit artikel dient schriftelijk te worden afgelegd. Zij kan worden afgelegd op het tijdstip van de ondertekening van dit Verdrag, op het tijdstip van de nederlegging van de akte van bekrachtiging of toetreding, of, behalve in het geval genoemd in het vijfde lid, op elk later tijdstip door middel van een tot de Directeur-Generaal gerichte kennisgeving. In het geval van genoemde kennisgeving wordt de verklaring van kracht zes maanden na de dag waarop de Directeur-Generaal de kennisgeving heeft ontvangen en heeft zij geen invloed op internationale aanvragen die zijn ingediend voor het verstrijken van deze termijn van zes maanden.
 
@@ -1038,9 +1038,9 @@ Onverminderd [artikel 64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 ##### Artikel 65. Geleidelijke toepassing
 
-(1). Indien de overeenkomst met een Instantie voor Internationaal Nieuwheidsonderzoek of voor de Internationale Voorlopige Beoordeling als overgangsmaatregel voorziet in beperkingen van het aantal of de aard van de internationale aanvragen die een zodanige Instantie op zich neemt te behandelen, neemt de Algemene Vergadering de noodzakelijke maatregelen voor de geleidelijke toepassing van dit Verdrag en van het Reglement ten aanzien van bepaalde categorieën internationale aanvragen. Deze bepaling is eveneens van toepassing op verzoeken voor een nieuwheidsonderzoek van internationaal type ingevolge [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=15&z=2007-04-01&g=2007-04-01).
+(1). Indien de overeenkomst met een Instantie voor Internationaal Nieuwheidsonderzoek of voor de Internationale Voorlopige Beoordeling als overgangsmaatregel voorziet in beperkingen van het aantal of de aard van de internationale aanvragen die een zodanige Instantie op zich neemt te behandelen, neemt de Algemene Vergadering de noodzakelijke maatregelen voor de geleidelijke toepassing van dit Verdrag en van het Reglement ten aanzien van bepaalde categorieën internationale aanvragen. Deze bepaling is eveneens van toepassing op verzoeken voor een nieuwheidsonderzoek van internationaal type ingevolge [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=15&z=2008-07-01&g=2008-07-01).
 
-(2). De Algemene Vergadering stelt de data vast met ingang waarvan, behoudens het bepaalde in het eerste lid, internationale aanvragen kunnen worden ingediend en verzoeken om internationale voorlopige beoordeling kunnen worden ingediend. Deze data liggen uiterlijk zes maanden nadat dit Verdrag in werking is getreden overeenkomstig de bepalingen van [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=63&z=2007-04-01&g=2007-04-01), onderscheidenlijk nadat [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2007-04-01&g=2007-04-01) van toepassing is geworden ingevolge artikel 63, derde lid.
+(2). De Algemene Vergadering stelt de data vast met ingang waarvan, behoudens het bepaalde in het eerste lid, internationale aanvragen kunnen worden ingediend en verzoeken om internationale voorlopige beoordeling kunnen worden ingediend. Deze data liggen uiterlijk zes maanden nadat dit Verdrag in werking is getreden overeenkomstig de bepalingen van [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=63&z=2008-07-01&g=2008-07-01), onderscheidenlijk nadat [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2008-07-01&g=2008-07-01) van toepassing is geworden ingevolge artikel 63, derde lid.
 
 ##### Artikel 66. Opzegging
 
@@ -1070,19 +1070,19 @@ Onverminderd [artikel 64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 De Directeur-Generaal stelt de Regeringen van alle Staten die partij zijn bij het [Verdrag van Parijs tot Bescherming van de Industriële Eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120) in kennis van:
 
-- (i). ondertekeningen ingevolge [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=62&z=2007-04-01&g=2007-04-01),
+- (i). ondertekeningen ingevolge [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=62&z=2008-07-01&g=2008-07-01),
 
-- (ii). nederlegging van akten van bekrachtiging of toetreding ingevolge [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=62&z=2007-04-01&g=2007-04-01),
+- (ii). nederlegging van akten van bekrachtiging of toetreding ingevolge [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=62&z=2008-07-01&g=2008-07-01),
 
-- (iii). de datum van inwerkingtreding van dit Verdrag en de datum met ingang waarvan [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2007-04-01&g=2007-04-01) van toepassing is overeenkomstig [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=63&z=2007-04-01&g=2007-04-01),
+- (iii). de datum van inwerkingtreding van dit Verdrag en de datum met ingang waarvan [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2008-07-01&g=2008-07-01) van toepassing is overeenkomstig [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=63&z=2008-07-01&g=2008-07-01),
 
-- (iv). alle verklaringen afgelegd ingevolge [artikel 64, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2007-04-01&g=2007-04-01),
+- (iv). alle verklaringen afgelegd ingevolge [artikel 64, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2008-07-01&g=2008-07-01),
 
-- (v). intrekkingen van verklaringen, verricht ingevolge [artikel 64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2007-04-01&g=2007-04-01), onder **b)**,
+- (v). intrekkingen van verklaringen, verricht ingevolge [artikel 64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2008-07-01&g=2008-07-01), onder **b)**,
 
-- (vi). opzeggingen ontvangen ingevolge [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=66&z=2007-04-01&g=2007-04-01), en
+- (vi). opzeggingen ontvangen ingevolge [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=66&z=2008-07-01&g=2008-07-01), en
 
-- (vii). verklaringen afgelegd ingevolge [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2007-04-01&g=2007-04-01).
+- (vii). verklaringen afgelegd ingevolge [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&z=2008-07-01&g=2008-07-01).
 
 ## DEEL A. Inleidende regels
 
@@ -1102,11 +1102,11 @@ Het woord „aanvrager” wordt zo uitgelegd dat het ook de gemachtigde of ander
 
 2.2. **„Gemachtigde”**
 
-Het woord „gemachtigde” wordt zo uitgelegd, dat het een gemachtigde aanduidt die is benoemd ingevolge [Regel 90.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=F&artikel=90&z=2007-04-01&g=2007-04-01), tenzij het tegendeel duidelijk blijkt uit de bewoordingen of de aard van de bepaling of het zinsverband waarin het woord is gebruikt.
+Het woord „gemachtigde” wordt zo uitgelegd, dat het een gemachtigde aanduidt die is benoemd ingevolge [Regel 90.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=F&artikel=90&z=2008-07-01&g=2008-07-01), tenzij het tegendeel duidelijk blijkt uit de bewoordingen of de aard van de bepaling of het zinsverband waarin het woord is gebruikt.
 
 2.2bis. **„Gemeenschappelijke vertegenwoordiger”**
 
-De uitdrukking „gemeenschappelijke vertegenwoordiger” wordt zo uitgelegd, dat zij een aanvrager aanduidt die ingevolge [Regel 90.2](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=F&artikel=90&z=2007-04-01&g=2007-04-01) is benoemd of wordt beschouwd als de gemeenschappelijke vertegenwoordiger.
+De uitdrukking „gemeenschappelijke vertegenwoordiger” wordt zo uitgelegd, dat zij een aanvrager aanduidt die ingevolge [Regel 90.2](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=F&artikel=90&z=2008-07-01&g=2008-07-01) is benoemd of wordt beschouwd als de gemeenschappelijke vertegenwoordiger.
 
 2.3. **„Ondertekening”**
 
@@ -1116,7 +1116,7 @@ Het woord „ondertekening” wordt zo verstaan dat, indien de nationale wetgevi
 
 - a. Indien de uitdrukking „termijn van voorrang” wordt gebruikt in verband met een beroep op een recht van voorrang, wordt dit verstaan als het tijdvak van 12 maanden vanaf de datum van indiening van de eerdere aanvrage, waarvoor aldus een beroep op een recht van voorrang wordt gedaan. De datum van indiening van de eerdere aanvrage wordt niet bij dat tijdvak inbegrepen.
 
-- b. [Regel 80.5](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=D&artikel=80&z=2007-04-01&g=2007-04-01) is van overeenkomstige toepassing op de termijn van voorrang.
+- b. [Regel 80.5](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=D&artikel=80&z=2008-07-01&g=2008-07-01) is van overeenkomstige toepassing op de termijn van voorrang.
 
 ## DEEL B. Regels betreffende hoofdstuk I van het Verdrag
 
@@ -1146,7 +1146,7 @@ Exemplaren van het gedrukte formulier worden gratis aan de aanvragers verstrekt 
 
 Onverminderd Regel 3.3 worden de nadere bijzonderheden van het gedrukte formulier voor het verzoekschrift en van een in de vorm van een computeruitdraai ingediend verzoekschrift voorgeschreven in de Administratieve Instructies.
 
-##### Regel 4. Het verzoekschrift (inhoud)
+##### Regel 4. Het Verzoekschrift (inhoud)
 
 4.1. **Verplichte en facultatieve inhoud; ondertekening**
 
@@ -1164,7 +1164,7 @@ Onverminderd Regel 3.3 worden de nadere bijzonderheden van het gedrukte formulie
 
 - (i). een beroep op een recht van voorrang,
 
-- (ii). een verwijzing naar een eerder internationaal nieuwheidsonderzoek, een eerder nieuwheidsonderzoek van internationaal type of een eerder ander nieuwheidsonderzoek,
+- (ii). gegevens met betrekking tot een eerder nieuwheidsonderzoek zoals voorzien in de Regels 4.12 i en 12**bis**.1 c en f,
 
 - (iii). een verwijzing naar een hoofdaanvrage of hoofdoctrooi,
 
@@ -1178,7 +1178,11 @@ Onverminderd Regel 3.3 worden de nadere bijzonderheden van het gedrukte formulie
 
 - iii. verklaringen zoals voorzien in Regel 4.17,
 
-- iv. een verklaring zoals voorzien in Regel 4.18, v. een verzoek om herstel van het recht van voorrang.
+- iv. een verklaring zoals voorzien in Regel 4.18,
+
+- v. een verzoek om herstel van het recht van voorrang,
+
+- vi. een verklaring zoals voorzien in Regel 4.12 ii.
 
 - d). Het verzoekschrift dient te zijn ondertekend.
 
@@ -1210,7 +1214,7 @@ De titel van de uitvinding dient kort (bij voorkeur tussen twee en zeven woorden
 
 - iii. de nationaliteit en de woonplaats van de aanvrager, of indien er meerdere aanvragers zijn, van ieder van hen.
 
-- b). De nationaliteit van de aanvrager dient te worden aangegeven door de naam van de Staat waarvan hij onderdaan is.
+- b). Indien de aanvrager de uitvinder is dient het verzoekschrift in plaats van de vermelding ingevolge paragraaf a) een verklaring hieromtrent te bevatten.
 
 - c). De woonplaats van de aanvrager dient te worden aangegeven door de naam van de Staat waarvan hij inwoner is.
 
@@ -1222,7 +1226,7 @@ De titel van de uitvinding dient kort (bij voorkeur tussen twee en zeven woorden
 
 - a). Wanneer Regel 4.1 a iv of c i van toepassing is, dient het verzoekschrift de naam en het adres van de uitvinder te vermelden of, indien er meer dan een uitvinder is, van ieder van hen.
 
-- b). Indien de aanvrager de uitvinder is dient het verzoekschrift in plaats van de vermelding ingevolge paragraaf a) een verklaring hieromtrent te bevatten.
+- b). Indien de aanvrager de uitvinder is dient het verzoekschrift in plaats van de vermelding ingevolge paragraaf **a)** een verklaring hieromtrent te bevatten of in de ruimte voor de vermelding van de uitvinder de naam van de aanvrager te herhalen.
 
 - c). Het verzoekschrift kan voor verschillende aangewezen Staten verschillende personen als uitvinder vermelden wanneer de vereisten van de nationale wetgevingen van de aangewezen Staten in dit opzicht niet gelijk zijn. In zulk een geval dient het verzoekschrift een afzonderlijke verklaring te bevatten voor elke aangewezen Staat of groep Staten waarin een bepaalde persoon of dezelfde persoon als de uitvinder dient te worden beschouwd of waarin bepaalde personen of dezelfde personen als de uitvinder dienen te worden beschouwd.
 
@@ -1250,13 +1254,13 @@ Indien een gemeenschappelijke vertegenwoordiger is benoemd dient het verzoekschr
 
 4.10. **Beroep op een recht van voorrang**
 
-- a. In elke verklaring bedoeld in artikel 8, eerste lid, (Beroep op een recht van voorrang) kan een beroep worden gedaan op een recht van voorrang van een of meer eerdere aanvragen ingediend hetzij in, hetzij voor een land dat partij is bij het Verdrag van Parijs tot bescherming van de industriële eigendom of in of voor elk lid van de Wereldhandelsorganisatie dat geen partij is bij dat verdrag. Een beroep op een recht van voorrang wordt gedaan in het verzoekschrift; het bestaat uit een verklaring met de strekking dat een beroep wordt gedaan op een recht van voorrang van een eerdere aanvrage en bevat:
+- a. In elke verklaring bedoeld in artikel 8, eerste lid, (Beroep op een recht van voorrang) kan een beroep worden gedaan op een recht van voorrang van een of meer eerdere aanvragen ingediend hetzij in, hetzij voor een land dat partij is bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120) of in of voor elk lid van de Wereldhandelsorganisatie dat geen partij is bij dat verdrag. Een beroep op een recht van voorrang wordt gedaan in het verzoekschrift; het bestaat uit een verklaring met de strekking dat een beroep wordt gedaan op een recht van voorrang van een eerdere aanvrage en bevat:
 
 - i. de datum waarop de eerdere aanvrage werd ingediend;
 
 - ii. het nummer waaronder de eerdere aanvrage is ingediend;
 
-- iii. wanneer de eerdere aanvrage een nationale aanvrage is, het land dat partij is bij het Verdrag van Parijs tot bescherming van de industriële eigendom of het Lid van de Wereldhandelsorganisatie dat niet partij is bij dat Verdrag, waar de aanvrage is ingediend;
+- iii. wanneer de eerdere aanvrage een nationale aanvrage is, het land dat partij is bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120) of het Lid van de Wereldhandelsorganisatie dat niet partij is bij dat Verdrag, waar de aanvrage is ingediend;
 
 - iv. wanneer de eerdere aanvrage een regionale aanvrage is, de instantie belast met de verlening van regionale octrooien ingevolge het regionale verdrag inzake octrooien dat van toepassing is;
 
@@ -1264,29 +1268,31 @@ Indien een gemeenschappelijke vertegenwoordiger is benoemd dient het verzoekschr
 
 - b. In aanvulling op de ingevolge paragraaf a onder iv of v vereiste gegevens:
 
-- i. wanneer de eerdere aanvrage een regionale aanvrage of een internationale aanvrage is, kan het beroep op een recht van voorrang een of meer landen vermelden die partij zijn bij het Verdrag van Parijs tot bescherming van de industriële eigendom waarvoor die eerdere aanvrage is ingediend;
+- i. wanneer de eerdere aanvrage een regionale aanvrage of een internationale aanvrage is, kan het beroep op een recht van voorrang een of meer landen vermelden die partij zijn bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120) waarvoor die eerdere aanvrage is ingediend;
 
-- ii. wanneer de eerdere aanvrage een regionale aanvrage is en ten minste een van de landen die partij zijn bij het verdrag inzake regionale octrooien noch partij is bij het Verdrag van Parijs tot bescherming van de industriële eigendom noch Lid is van de Wereldhandelsorganisatie, geeft het beroep op een recht van voorrang ten minste een land aan dat partij is bij dat Verdrag of een Lid van die Organisatie waarvoor die eerdere aanvrage is ingediend.
+- ii. wanneer de eerdere aanvrage een regionale aanvrage is en ten minste een van de landen die partij zijn bij het verdrag inzake regionale octrooien noch partij is bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120) noch Lid is van de Wereldhandelsorganisatie, geeft het beroep op een recht van voorrang ten minste een land aan dat partij is bij dat Verdrag of een Lid van die Organisatie waarvoor die eerdere aanvrage is ingediend.
 
 - c. Voor de toepassing van de paragrafen a en b, is artikel 2, onder vi, niet van toepassing.
 
 - d. Indien op 29 september 1999 de paragrafen a en b, zoals gewijzigd met ingang van 1 januari 2000, niet verenigbaar zijn met het nationale recht toegepast door een aangewezen bureau, blijven deze paragrafen, zoals zij van kracht zijn tot 31 december 1999, na die datum van toepassing ten aanzien van dat aangewezen bureau zolang de genoemde paragrafen, als gewijzigd, onverenigbaar blijven met dat recht, mits het betreffende bureau het Internationale Bureau daarvan uiterlijk 31 oktober 1999 in kennis stelt. De ontvangen informatie wordt onverwijld door het Internationale Bureau bekendgemaakt in het mededelingenblad.
 
-4.11. **Verwijzing naar eerder nieuwheidsonderzoek, voortzetting of gedeeltelijke voortzetting, of hoofdaanvrage of verleend hoofdoctrooi**
+4.11. **Verwijzing naar voortzetting of gedeeltelijke voortzetting, of hoofdaanvrage of verleend hoofdoctrooi**
 
-- a. Indien
+- a. Indien dient zulks alsmede de desbetreffende hoofdaanvrage, hoofdoctrooi of ander verleend hoofdrecht te zijn vermeld in het verzoekschrift.
 
-- i. ingevolge artikel 15, vijfde lid, om een internationaal nieuwheidsonderzoek of nieuwheidsonderzoek van internationaal type is verzocht;
+- i. de aanvrager ingevolge Regel 49**bis.**1 a of b beoogt aan te geven dat hij verlangt dat de internationale aanvrage in elke aangewezen Staat wordt behandeld als een aanvrage om een aanvullingsoctrooi, een aanvullingscertificaat, een aanvulling bij een uitvinderscertificaat of een aanvulling bij een gebruikscertificaat; of
 
-- ii. de aanvrager verlangt dat de Instantie voor Internationaal Nieuwheidsonderzoek het verslag van het internationale nieuwheidsonderzoek geheel of gedeeltelijk baseert op de uitkomsten van een onderzoek anders dan een internationaal nieuwheidsonderzoek of een nieuwheidsonderzoek van internationaal type, door het nationaal bureau dat of de intergouvernementele organisatie die de Instantie voor Internationaal Nieuwheidsonderzoek is en bevoegd is voor de internationale aanvrage;
+- ii. de aanvrager ingevolge Regel 49**bis**.1 d beoogt aan te geven dat hij verlangt dat de internationale aanvrage in elke aangewezen Staat wordt behandeld als een aanvrage om voortzetting of gedeeltelijke voortzetting van een eerdere aanvrage;
 
-- iii. de aanvrager voornemens is ingevolge Regel 49**bis**. 1.a. of b. aan te geven dat hij verlangt dat de internationale aanvrage in elke aangewezen Staat wordt behandeld als een aanvrage om een aanvullingsoctrooi, een aanvullingscertificaat, een aanvulling bij een uitvinderscertificaat of een aanvulling bij een gebruikscertificaat; of
+- b. Het opnemen in het verzoekschrift van een vermelding ingevolge paragraaf a laat de werking van Regel 4.9 onverlet.
 
-- iv. de aanvrager ingevolge Regel 49**bis**. 1 d beoogt aan te geven dat hij verlangt dat de internationale aanvrage in elke aangewezen staat wordt behandeld als een aanvrage om voortzetting of gedeeltelijke voortzetting van een eerdere aanvrage; dient zulks in het verzoekschrift te worden aangegeven en, in voorkomend geval, dient daarin tevens de aanvrage ter zake waarvan het eerdere onderzoek is gedaan te worden aangegeven, of dient het nieuwheidsonderzoek anders te worden aangegeven, of dient de betrokken hoofdaanvrage, het hoofdoctrooi of een ander verleend hoofd-recht te worden aangegeven.
+4.12. **In aanmerking nemen van uitkomsten van eerder nieuwheidsonderzoek**
 
-- b. Het opnemen in het verzoekschrift van een vermelding ingevolge paragraaf a iii of iv laat de werking van Regel 4.9 onverlet.
+Indien de aanvrager wenst dat de Instantie voor Internationaal Nieuwheidsonderzoek bij het verrichten van het internationale nieuwheidsonderzoek de uitkomsten van een eerder internationaal nieuwheidsonderzoek, van een nieuwheidsonderzoek van internationaal type of van een nationaal nieuwheidsonderzoek verricht door dezelfde of een andere Instantie voor Internationaal Nieuwheidsonderzoek of door een nationaal bureau („eerder nieuwheidsonderzoek”) in aanmerking neemt:
 
-4.12. Vervallen.
+- i. dient zulks in het verzoekschrift te worden vermeld, waarbij ook de desbetreffende instantie of het desbetreffende bureau en de aanvrage ter zake waarvan het eerdere nieuwheidsonderzoek werd verricht worden vermeld;
+
+- ii. kan het verzoekschrift in voorkomend geval een verklaring bevatten dat de internationale aanvrage gelijk is aan, of in hoofdzaak gelijk is aan, de aanvrage ter zake waarvan het eerdere nieuwheidsonderzoek werd verricht, of dat de internationale aanvrage gelijk is aan, of in hoofdzaak gelijk is aan, die eerdere aanvrage, met dien verstande dat zij wordt ingediend in een andere taal.
 
 4.13. Vervallen.
 
@@ -1390,7 +1396,7 @@ Indien in de internationale aanvrage op de datum waarop een of meer elementen va
 
 6.4. **Afhankelijke conclusies**
 
-- a). Een conclusie die alle kenmerken van een of meer andere conclusies omvat (conclusie in afhankelijke vorm, hierna te noemen „afhankelijke conclusie”) dient zulks te doen door een verwijzing, indien mogelijk aan het begin, naar de andere conclusie of conclusies en vervolgens de bijkomende kenmerken te vermelden waarop de conclusie betrekking heeft. Afhankelijke conclusies die verwijzen naar meer dan één andere conclusie („meervoudig afhankelijke conclusies”), dienen alleen in de vorm van een alternatief naar zodanige conclusies te verwijzen. Meervoudig afhankelijke conclusies mogen geen grondslag vormen voor een andere meervoudig afhankelijke conclusie. Wanneer de nationale wetgeving van het nationale bureau dat optreedt als Instantie voor Internationaal Nieuwheidsonderzoek, niet toestaat dat meervoudig afhankelijke conclusies worden opgesteld op een wijze die afwijkt van hetgeen is aangegeven in de voorafgaande twee zinnen, kan het niet-volgen van die wijze van opstellen uitlopen op een vermelding ingevolge [artikel 17, tweede lid, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2007-04-01&g=2007-04-01), in het verslag van het internationale nieuwheidsonderzoek. Het niet-volgen van genoemde wijze van opstellen heeft geen rechtsgevolgen in een aangewezen Staat indien de feitelijk gevolgde wijze van opstellen van de conclusies voldoet aan de nationale wetgeving van die Staat.
+- a). Een conclusie die alle kenmerken van een of meer andere conclusies omvat (conclusie in afhankelijke vorm, hierna te noemen „afhankelijke conclusie”) dient zulks te doen door een verwijzing, indien mogelijk aan het begin, naar de andere conclusie of conclusies en vervolgens de bijkomende kenmerken te vermelden waarop de conclusie betrekking heeft. Afhankelijke conclusies die verwijzen naar meer dan één andere conclusie („meervoudig afhankelijke conclusies”), dienen alleen in de vorm van een alternatief naar zodanige conclusies te verwijzen. Meervoudig afhankelijke conclusies mogen geen grondslag vormen voor een andere meervoudig afhankelijke conclusie. Wanneer de nationale wetgeving van het nationale bureau dat optreedt als Instantie voor Internationaal Nieuwheidsonderzoek, niet toestaat dat meervoudig afhankelijke conclusies worden opgesteld op een wijze die afwijkt van hetgeen is aangegeven in de voorafgaande twee zinnen, kan het niet-volgen van die wijze van opstellen uitlopen op een vermelding ingevolge [artikel 17, tweede lid, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), in het verslag van het internationale nieuwheidsonderzoek. Het niet-volgen van genoemde wijze van opstellen heeft geen rechtsgevolgen in een aangewezen Staat indien de feitelijk gevolgde wijze van opstellen van de conclusies voldoet aan de nationale wetgeving van die Staat.
 
 - b). Onder een afhankelijke conclusie dient te worden verstaan een conclusie die alle beperkingen omvat welke zijn neergelegd in de conclusie waarnaar zij verwijst of, indien de afhankelijke conclusie een meervoudig afhankelijke conclusie is, alle beperkingen, opgenomen in de conclusie in samenhang waarmee zij wordt beschouwd.
 
@@ -1398,7 +1404,7 @@ Indien in de internationale aanvrage op de datum waarop een of meer elementen va
 
 6.5. **Gebruiksmodellen**
 
-Een aangewezen Staat waar de verlening van een gebruiksmodel wordt gevraagd op basis van een internationale aanvrage kan, in plaats van de Regels 6.1 tot en met 6.4, ten aanzien van de in die Regels geregelde aangelegenheden, de bepalingen van zijn nationale wetgeving betreffende gebruiksmodellen toepassen, wanneer de behandeling van de internationale aanvrage in die Staat eenmaal is begonnen, met dien verstande dat de aanvrager ten minste 2 maanden na het verstrijken van de ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2007-04-01&g=2007-04-01) van toepassing zijnde termijn zal worden toegestaan om zijn aanvrage aan te passen aan de vereisten van genoemde bepalingen in de nationale wetgeving.
+Een aangewezen Staat waar de verlening van een gebruiksmodel wordt gevraagd op basis van een internationale aanvrage kan, in plaats van de Regels 6.1 tot en met 6.4, ten aanzien van de in die Regels geregelde aangelegenheden, de bepalingen van zijn nationale wetgeving betreffende gebruiksmodellen toepassen, wanneer de behandeling van de internationale aanvrage in die Staat eenmaal is begonnen, met dien verstande dat de aanvrager ten minste 2 maanden na het verstrijken van de ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) van toepassing zijnde termijn zal worden toegestaan om zijn aanvrage aan te passen aan de vereisten van genoemde bepalingen in de nationale wetgeving.
 
 ##### Regel 7. De tekeningen
 
@@ -1428,9 +1434,9 @@ De termijn genoemd in artikel 7, tweede lid, onder (ii), dient in de gegeven oms
 
 8.2. **Figuur**
 
-- a). Indien de aanvrager niet de opgave genoemd in [Regel 3.3 a) (iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=3&z=2007-04-01&g=2007-04-01) verstrekt of indien de Instantie voor Internationaal Nieuwheidsonderzoek vaststelt dat (een) andere figu(u)r(en) dan door de aanvrager voorgesteld uit alle figuren van alle tekeningen de uitvinding beter zou(den) kenschetsen, dient zij, onverminderd het bepaalde onder paragraaf b), de figu(u)r(en) aan te geven die het uittreksel moet(en) vergezellen wanneer dit wordt gepubliceerd door het Internationale Bureau. In zo'n geval gaat het uittreksel vergezeld van de aldus door de Instantie voor Internationaal Nieuwheidsonderzoek aangegeven figu(u)r(en). Anders gaat het uittreksel, onverminderd het bepaalde onder paragraaf b), vergezeld van de door de aanvrager voorgestelde figu(u)r(en).
+- a). Indien de aanvrager niet de opgave genoemd in [Regel 3.3 a) (iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=3&z=2008-07-01&g=2008-07-01) verstrekt of indien de Instantie voor Internationaal Nieuwheidsonderzoek vaststelt dat (een) andere figu(u)r(en) dan door de aanvrager voorgesteld uit alle figuren van alle tekeningen de uitvinding beter zou(den) kenschetsen, dient zij, onverminderd het bepaalde onder paragraaf b), de figu(u)r(en) aan te geven die het uittreksel moet(en) vergezellen wanneer dit wordt gepubliceerd door het Internationale Bureau. In zo'n geval gaat het uittreksel vergezeld van de aldus door de Instantie voor Internationaal Nieuwheidsonderzoek aangegeven figu(u)r(en). Anders gaat het uittreksel, onverminderd het bepaalde onder paragraaf b), vergezeld van de door de aanvrager voorgestelde figu(u)r(en).
 
-- b). Indien de Instantie voor Internationaal Nieuwheidsonderzoek bemerkt dat geen van de figuren van de tekeningen nuttig is voor het begrijpen van het uittreksel, stelt zij het Internationale Bureau daarvan in kennis. In zo'n geval gaat het uittreksel, wanneer het wordt gepubliceerd door het Internationale Bureau, niet vergezeld van enige figuur van de tekeningen, zelfs wanneer de aanvrager een voorstel heeft gedaan ingevolge [Regel 3.3 a) (iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=3&z=2007-04-01&g=2007-04-01).
+- b). Indien de Instantie voor Internationaal Nieuwheidsonderzoek bemerkt dat geen van de figuren van de tekeningen nuttig is voor het begrijpen van het uittreksel, stelt zij het Internationale Bureau daarvan in kennis. In zo'n geval gaat het uittreksel, wanneer het wordt gepubliceerd door het Internationale Bureau, niet vergezeld van enige figuur van de tekeningen, zelfs wanneer de aanvrager een voorstel heeft gedaan ingevolge [Regel 3.3 a) (iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=3&z=2008-07-01&g=2008-07-01).
 
 8.3. **Leidende beginselen bij de opstelling**
 
@@ -1482,9 +1488,9 @@ In een bepaalde internationale aanvrage dienen overal dezelfde terminologie en d
 
 11.1. **Aantal exemplaren**
 
-- a). Onverminderd het bepaalde onder paragraaf **b)** dienen de internationale aanvrage en elk in de controlelijst ([Regel 3.3 (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=3&z=2007-04-01&g=2007-04-01)) genoemd document in een enkel exemplaar te worden ingediend.
+- a). Onverminderd het bepaalde onder paragraaf **b)** dienen de internationale aanvrage en elk in de controlelijst ([Regel 3.3 (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=3&z=2008-07-01&g=2008-07-01)) genoemd document in een enkel exemplaar te worden ingediend.
 
-- b). Een ontvangend bureau kan verlangen dat de internationale aanvrage en elk in de controlelijst ([Regel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=3&z=2007-04-01&g=2007-04-01)**a)** (ii)) genoemd document, behalve het ontvangstbewijs voor de betaalde taksen of de cheque voor betaling van de taksen, in twee of drie exemplaren worden ingediend. In dat geval is het ontvangende bureau verantwoordelijk voor het nagaan van de gelijkluidendheid van het tweede en derde exemplaar met het oorspronkelijke exemplaar.
+- b). Een ontvangend bureau kan verlangen dat de internationale aanvrage en elk in de controlelijst ([Regel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=3&z=2008-07-01&g=2008-07-01)**a)** (ii)) genoemd document, behalve het ontvangstbewijs voor de betaalde taksen of de cheque voor betaling van de taksen, in twee of drie exemplaren worden ingediend. In dat geval is het ontvangende bureau verantwoordelijk voor het nagaan van de gelijkluidendheid van het tweede en derde exemplaar met het oorspronkelijke exemplaar.
 
 11.2. **Geschiktheid voor reproduktie**
 
@@ -1624,7 +1630,7 @@ Elk blad dient redelijk vrij te zijn van doorhalingen en vrij van veranderingen 
 
 11.14. **Latere documenten**
 
-De [Regels 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=10&z=2007-04-01&g=2007-04-01) en 11.1 tot en met 11.13 zijn ook van toepassing op documenten – bijvoorbeeld vervangende bladen, gewijzigde conclusies, vertalingen – die worden overgelegd na de indiening van de internationale aanvrage.
+De [Regels 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=10&z=2008-07-01&g=2008-07-01) en 11.1 tot en met 11.13 zijn ook van toepassing op documenten – bijvoorbeeld vervangende bladen, gewijzigde conclusies, vertalingen – die worden overgelegd na de indiening van de internationale aanvrage.
 
 ##### Regel 12. Taal van de internationale aanvrage en vertaling ten behoeve van internationaal nieuwheidsonderzoek en internationale publicatie
 
@@ -1752,7 +1758,7 @@ Elke verwijzing naar gedeponeerd biologisch materiaal geschiedt overeenkomstig d
 
 - b. Indien de nationale wetgeving die van toepassing is op een aangewezen bureau dat voor nationale aanvragen vereist, kan dat bureau eisen dat de in Regel 13bis 3 a genoemde vermeldingen eerder worden verstrekt dan binnen 16 maanden na de datum van voorrang, onder de voorwaarde dat het Internationaal Bureau van dat vereiste in kennis is gesteld ingevolge Regel 13bis 7 a ii en dat vereiste tenminste twee maanden voor de indiening van de internationale aanvrage in overeenstemming met Regel 13bis 7 c heeft gepubliceerd in het mededelingenblad.
 
-- c. Wanneer de aanvrager ingevolge [artikel 21, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=21&z=2007-04-01&g=2007-04-01) verzoekt om eerdere publicatie, kan een aangewezen bureau een vermelding die niet is verstrekt voordat de technische voorbereidingen voor internationale publicatie zijn afgerond beschouwen als niet op tijd verstrekt.
+- c. Wanneer de aanvrager ingevolge [artikel 21, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=21&z=2008-07-01&g=2008-07-01) verzoekt om eerdere publicatie, kan een aangewezen bureau een vermelding die niet is verstrekt voordat de technische voorbereidingen voor internationale publicatie zijn afgerond beschouwen als niet op tijd verstrekt.
 
 - d. Het Internationale Bureau stelt de aanvrager in kennis van de datum waarop het een krachtens paragraaf a verstrekte vermelding heeft ontvangen, en zal
 
@@ -1772,7 +1778,7 @@ Elke verwijzing naar gedeponeerd biologisch materiaal geschiedt overeenkomstig d
 
 - a). Vervallen.
 
-- b). Ingevolge de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=23&z=2007-04-01&g=2007-04-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=40&z=2007-04-01&g=2007-04-01) vindt, behalve met machtiging van de aanvrager, geen verstrekking plaats van monsters van het gedeponeerde biologisch materiaal waarnaar in een internationale aanvrage wordt verwezen, vóór het verstrijken van de toepasselijke termijnen na welke ingevolge bedoelde artikelen een nationale behandeling kan aanvangen. Wanneer de aanvrager evenwel de handelingen verricht, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2007-04-01&g=2007-04-01) of [39](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=39&z=2007-04-01&g=2007-04-01) na de internationale publicatie doch vóór het verstrijken van bedoelde termijnen, kan het verstrekken van monsters van het gedeponeerde biologisch materiaal plaatsvinden, zodra genoemde handelingen zijn verricht. Niettegenstaande de voorgaande bepaling kan het verstrekken van monsters van het gedeponeerde biologisch materiaal plaatsvinden ingevolge de door een aangewezen bureau toe te passen nationale wetgeving zodra ingevolge die wetgeving de internationale publicatie de werking heeft van de verplichte nationale publicatie van een niet-beoordeelde nationale aanvrage.
+- b). Ingevolge de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=23&z=2008-07-01&g=2008-07-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=40&z=2008-07-01&g=2008-07-01) vindt, behalve met machtiging van de aanvrager, geen verstrekking plaats van monsters van het gedeponeerde biologisch materiaal waarnaar in een internationale aanvrage wordt verwezen, vóór het verstrijken van de toepasselijke termijnen na welke ingevolge bedoelde artikelen een nationale behandeling kan aanvangen. Wanneer de aanvrager evenwel de handelingen verricht, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) of [39](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=39&z=2008-07-01&g=2008-07-01) na de internationale publicatie doch vóór het verstrijken van bedoelde termijnen, kan het verstrekken van monsters van het gedeponeerde biologisch materiaal plaatsvinden, zodra genoemde handelingen zijn verricht. Niettegenstaande de voorgaande bepaling kan het verstrekken van monsters van het gedeponeerde biologisch materiaal plaatsvinden ingevolge de door een aangewezen bureau toe te passen nationale wetgeving zodra ingevolge die wetgeving de internationale publicatie de werking heeft van de verplichte nationale publicatie van een niet-beoordeelde nationale aanvrage.
 
 13bis.7. **Nationale vereisten: Kennisgeving en publicatie**
 
@@ -2302,7 +2308,7 @@ Het ontvangende bureau beslist of de aanvrager de verbetering binnen de van toep
 
 - c. Indien een beroep op een recht van voorrang ter zake van de eerdere aanvrage niet in de internationale aanvrage opgenomen is, dient de aanvrager binnen de ingevolge paragraaf e van toepassing zijnde termijn een kennisgeving overeenkomstig Regel 26**bis** 1 a in te dienen waarbij het beroep op een recht van voorrang wordt toegevoegd.
 
-- d. Het ontvangende bureau kan voor de indiening van een verzoek om herstel uit hoofde van paragraaf a als voorwaarde stellen dat ten gunste van hem binnen de uit hoofde van paragraaf e van toepassing zijnde termijn een taks wordt betaald. Het bedrag van deze eventuele taks wordt vastgesteld door het ontvangende bureau.
+- d. Het ontvangende bureau kan voor de indiening van een verzoek om herstel uit hoofde van paragraaf a als voorwaarde stellen dat ten gunste van hem binnen de uit hoofde van paragraaf e van toepassing zijnde termijn een taks wordt betaald. Het bedrag van deze eventuele taks wordt vastgesteld door het ontvangende bureau. De termijn voor de betaling van de taks kan naar keuze van het ontvangende bureau worden verlengd tot een termijn van ten hoogste twee maanden na het verstrijken van de termijn die ingevolge paragraaf e van toepassing is.
 
 - e. De in de paragrafen b onder i, c en d bedoelde termijn is twee maanden vanaf de datum waarop de termijn van voorrang is verstreken, met dien verstande dat, indien de aanvrager verzoekt om vroegtijdige publicatie ingevolge artikel 21, tweede lid, onder b, een verzoekschrift ingevolge paragraaf a, een kennisgeving zoals bedoeld in paragraaf c of een taks bedoeld in paragraaf d, ingediend of betaald nadat de technische voorbereidingen voor internationale publicatie zijn voltooid, niet geacht wordt tijdig te zijn ingediend of betaald.
 
@@ -2322,15 +2328,15 @@ Het ontvangende bureau beslist of de aanvrager de verbetering binnen de van toep
 
 - j. Indien de paragrafen a tot en met i op 5 oktober 2005 niet verenigbaar zijn met de door het ontvangende bureau toegepaste nationale wetgeving, zijn die paragrafen niet van toepassing op dat bureau zolang zij niet verenigbaar zijn met die wetgeving, mits genoemd bureau het Internationale Bureau hiervan in kennis stelt voor 5 april 2006. De ontvangen informatie wordt door het Internationale Bureau onverwijld gepubliceerd in het mededelingenblad.
 
-##### Regel 26ter. Verbetering of aanvulling van verklaringen ingevolge [regel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=4&z=2007-04-01&g=2007-04-01)
+##### Regel 26ter. Verbetering of aanvulling van verklaringen ingevolge [regel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=4&z=2008-07-01&g=2008-07-01)
 
 26ter.1. **Verbetering of aanvulling van verklaringen**
 
-De aanvrager kan een verklaring zoals bedoeld in [Regel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=4&z=2007-04-01&g=2007-04-01) verbeteren of aan het verzoekschrift toevoegen bij een kennisgeving gericht aan het Internationale Bureau binnen een termijn van zestien maanden na de voorrangsdatum, met dien verstande dat een door het Internationaal Bureau na het verstrijken van die termijn ontvangen kennisgeving geacht wordt te zijn ontvangen op de laatste dag van die termijn indien zij daar binnenkomt voordat de technische voorbereidingen voor internationale publicatie zijn voltooid.
+De aanvrager kan een verklaring zoals bedoeld in [Regel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=4&z=2008-07-01&g=2008-07-01) verbeteren of aan het verzoekschrift toevoegen bij een kennisgeving gericht aan het Internationale Bureau binnen een termijn van zestien maanden na de voorrangsdatum, met dien verstande dat een door het Internationaal Bureau na het verstrijken van die termijn ontvangen kennisgeving geacht wordt te zijn ontvangen op de laatste dag van die termijn indien zij daar binnenkomt voordat de technische voorbereidingen voor internationale publicatie zijn voltooid.
 
 26ter.2. **Behandeling van verklaringen**
 
-- a. Wanneer het ontvangende bureau of het Internationale Bureau bemerkt dat een verklaring als bedoeld in [Regel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=4&z=2007-04-01&g=2007-04-01) niet is geformuleerd zoals vereist of, in het geval van de verklaring van uitvinderschap bedoeld in regel 4.17 iv niet is ondertekend zoals vereist, kan het ontvangende bureau of het Internationale Bureau, naar gelang van het geval, de aanvrager uitnodigen de verklaring te verbeteren binnen een termijn van 16 maanden na de voorrangsdatum.
+- a. Wanneer het ontvangende bureau of het Internationale Bureau bemerkt dat een verklaring als bedoeld in [Regel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=4&z=2008-07-01&g=2008-07-01) niet is geformuleerd zoals vereist of, in het geval van de verklaring van uitvinderschap bedoeld in regel 4.17 iv niet is ondertekend zoals vereist, kan het ontvangende bureau of het Internationale Bureau, naar gelang van het geval, de aanvrager uitnodigen de verklaring te verbeteren binnen een termijn van 16 maanden na de voorrangsdatum.
 
 - b. Wanneer het Internationale Bureau een verklaring of verbetering ingevolge Regel 26**ter**.1 ontvangt, na het verstrijken van de termijn ingevolge Regel 26 ter.1, stelt het Internationale Bureau de aanvrager daarvan dienovereenkomstig in kennis en handelt het zoals is bepaald in de Administratieve Instructies.
 
@@ -2666,15 +2672,15 @@ De vormvoorschriften betreffende het verslag van het internationale nieuwheidson
 
 43bis.1. **Schriftelijk oordeel**
 
-- a. Onverminderd [Regel 69. 1 b**bis**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=69&z=2007-04-01&g=2007-04-01) stelt de Instantie voor Internationaal Nieuwheidsonderzoek tegelijk met het opstellen van het verslag van het internationale nieuwheidsonderzoek of de in [artikel 17, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2007-04-01&g=2007-04-01), bedoelde verklaring, een schriftelijk oordeel op inzake: Het schriftelijk oordeel gaat tevens vergezeld van eventuele andere opmerkingen waarin dit Reglement voorziet.
+- a. Onverminderd [Regel 69. 1 b**bis**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=69&z=2008-07-01&g=2008-07-01) stelt de Instantie voor Internationaal Nieuwheidsonderzoek tegelijk met het opstellen van het verslag van het internationale nieuwheidsonderzoek of de in [artikel 17, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), bedoelde verklaring, een schriftelijk oordeel op inzake: Het schriftelijk oordeel gaat tevens vergezeld van eventuele andere opmerkingen waarin dit Reglement voorziet.
 
 - i. de vraag of de uitvinding waarvoor uitsluitende rechten worden verlangd nieuw lijkt, een inventieve stap inhoudt (niet voor de hand ligt) en industrieel toepasbaar is;
 
 - ii. de vraag of de internationale aanvrage voldoet aan de vereisten van het Verdrag en dit Reglement voor zover gecontroleerd door de Instantie voor Internationaal Nieuwheidsonderzoek.
 
-- b. Ten behoeve van het opstellen van het schriftelijk oordeel zijn de [artikelen 33, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=33&z=2007-04-01&g=2007-04-01), en [35, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=35&z=2007-04-01&g=2007-04-01), alsmede de [Regels 43.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=43&z=2007-04-01&g=2007-04-01), 43.6**bis**, [64](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=64&z=2007-04-01&g=2007-04-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=65&z=2007-04-01&g=2007-04-01), [66.1 e](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=66&z=2007-04-01&g=2007-04-01), 66.7, [67](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=67&z=2007-04-01&g=2007-04-01), [70.2 b](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=70&z=2007-04-01&g=2007-04-01) en d, 70.3, 70.4 ii, 70.5 a, 70.6 tot en met 70.10, 70.12, 70.14 en 70.15 a van overeenkomstige toepassing.
+- b. Ten behoeve van het opstellen van het schriftelijk oordeel zijn de [artikelen 33, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=33&z=2008-07-01&g=2008-07-01), en [35, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=35&z=2008-07-01&g=2008-07-01), alsmede de [Regels 43.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=43&z=2008-07-01&g=2008-07-01), 43.6**bis**, [64](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=64&z=2008-07-01&g=2008-07-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=65&z=2008-07-01&g=2008-07-01), [66.1 e](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=66&z=2008-07-01&g=2008-07-01), 66.7, [67](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=67&z=2008-07-01&g=2008-07-01), [70.2 b](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=70&z=2008-07-01&g=2008-07-01) en d, 70.3, 70.4 ii, 70.5 a, 70.6 tot en met 70.10, 70.12, 70.14 en 70.15 a van overeenkomstige toepassing.
 
-- c. Het schriftelijk oordeel bevat een bericht aan de aanvrager, dat indien verzocht wordt om een internationale voorlopige beoordeling, het schriftelijk oordeel ingevolge [Regel 66.1**bis**. a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=66&z=2007-04-01&g=2007-04-01) maar onverminderd Regel 66.1**bis**. b. zal worden aangemerkt als een schriftelijk oordeel van de Instantie voor Internationale Voorlopige Beoordeling voor de toepassing van Regel 66.2 a, in welk geval de aanvrager verzocht wordt voor het verstrijken van de termijn ingevolge [Regel 54**bis**. 1 a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=54&z=2007-04-01&g=2007-04-01). een schriftelijk antwoord, waar nodig vergezeld van wijzigingen, te zenden aan deze Instantie.
+- c. Het schriftelijk oordeel bevat een bericht aan de aanvrager, dat indien verzocht wordt om een internationale voorlopige beoordeling, het schriftelijk oordeel ingevolge [Regel 66.1**bis**. a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=66&z=2008-07-01&g=2008-07-01) maar onverminderd Regel 66.1**bis**. b. zal worden aangemerkt als een schriftelijk oordeel van de Instantie voor Internationale Voorlopige Beoordeling voor de toepassing van Regel 66.2 a, in welk geval de aanvrager verzocht wordt voor het verstrijken van de termijn ingevolge [Regel 54**bis**. 1 a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=54&z=2008-07-01&g=2008-07-01). een schriftelijk antwoord, waar nodig vergezeld van wijzigingen, te zenden aan deze Instantie.
 
 ##### Regel 44. Toezending van het verslag van het internationale nieuwheidsonderzoek, schriftelijk oordeel, etc.
 
@@ -2700,17 +2706,17 @@ Het verslag van het internationale nieuwheidsonderzoek dient te verklaren dat de
 
 44bis.1. **Opstelling van verslag; toezending aan de aanvrager**
 
-- a. Tenzij een verslag van de internationale voorlopige beoordeling is of dient te worden opgesteld, stelt het Internationaal Bureau namens de Instantie voor Internationaal Nieuwheidsonderzoek een verslag (in deze Regel aangeduid als „het verslag”) op aangaande de zaken bedoeld in [Regel 43**bis**. 1 a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=43&z=2007-04-01&g=2007-04-01). De inhoud van het verslag is gelijk aan die van het ingevolge Regel 43**bis**. 1 opgestelde schriftelijke oordeel.
+- a. Tenzij een verslag van de internationale voorlopige beoordeling is of dient te worden opgesteld, stelt het Internationaal Bureau namens de Instantie voor Internationaal Nieuwheidsonderzoek een verslag (in deze Regel aangeduid als „het verslag”) op aangaande de zaken bedoeld in [Regel 43**bis**. 1 a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=43&z=2008-07-01&g=2008-07-01). De inhoud van het verslag is gelijk aan die van het ingevolge Regel 43**bis**. 1 opgestelde schriftelijke oordeel.
 
-- b. Het verslag heeft als titel „Internationaal voorlopig verslag inzake octrooieerbaarheid ([Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&z=2007-04-01&g=2007-04-01) van het Verdrag tot samenwerking inzake octrooien)” en bevat de vermelding dat het ingevolge deze Regel namens de Instantie voor Internationaal Nieuwheidsonderzoek is opgesteld door het Internationaal Bureau.
+- b. Het verslag heeft als titel „Internationaal voorlopig verslag inzake octrooieerbaarheid ([Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&z=2008-07-01&g=2008-07-01) van het Verdrag tot samenwerking inzake octrooien)” en bevat de vermelding dat het ingevolge deze Regel namens de Instantie voor Internationaal Nieuwheidsonderzoek is opgesteld door het Internationaal Bureau.
 
 - c. Het Internationale Bureau zendt onverwijld een afschrift van het krachtens paragraaf a opgestelde verslag toe aan de aanvrager.
 
 44bis.2. **Toezending aan de aangewezen bureaus**
 
-- a. Wanneer een verslag is opgesteld ingevolge Regel 44**bis**. 1, zendt het Internationaal Bureau het in overeenstemming met [Regel 93**bis**. 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=F&artikel=93&z=2007-04-01&g=2007-04-01) toe aan elk aangewezen bureau, evenwel niet voor het verstrijken van 30 maanden na de datum van voorrang.
+- a. Wanneer een verslag is opgesteld ingevolge Regel 44**bis**. 1, zendt het Internationaal Bureau het in overeenstemming met [Regel 93**bis**. 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=F&artikel=93&z=2008-07-01&g=2008-07-01) toe aan elk aangewezen bureau, evenwel niet voor het verstrijken van 30 maanden na de datum van voorrang.
 
-- b. Wanneer de aanvrager een uitdrukkelijk verzoek indient bij een aangewezen bureau ingevolge [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=23&z=2007-04-01&g=2007-04-01), zendt het Internationaal Bureau op verzoek van dat bureau of van de aanvrager onverwijld een exemplaar van het ingevolge [Regel 43**bis**. 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=43&z=2007-04-01&g=2007-04-01) door de Instantie voor Internationaal Nieuwheidsonderzoek opgestelde schriftelijke oordeel toe aan dat bureau.
+- b. Wanneer de aanvrager een uitdrukkelijk verzoek indient bij een aangewezen bureau ingevolge [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=23&z=2008-07-01&g=2008-07-01), zendt het Internationaal Bureau op verzoek van dat bureau of van de aanvrager onverwijld een exemplaar van het ingevolge [Regel 43**bis**. 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=43&z=2008-07-01&g=2008-07-01) door de Instantie voor Internationaal Nieuwheidsonderzoek opgestelde schriftelijke oordeel toe aan dat bureau.
 
 44bis.3. **Vertaling voor aangewezen bureaus**
 
@@ -2720,7 +2726,7 @@ Het verslag van het internationale nieuwheidsonderzoek dient te verklaren dat de
 
 - c. Het Internationaal Bureau doet een exemplaar van de vertaling aan alle betrokken aangewezen bureaus en aan de aanvrager toekomen tegelijk met de toezending van het verslag aan die bureaus.
 
-- d. In het geval bedoeld in Regel 44**bis**. 2 b wordt het ingevolge [Regel 43**bis**. 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=43&z=2007-04-01&g=2007-04-01) opgestelde schriftelijke oordeel op verzoek van het betrokken aangewezen bureau door of onder de verantwoordelijkheid van het Internationaal Bureau vertaald in het Engels. Het Internationaal Bureau doet binnen twee maanden na de datum van ontvangst van het verzoek om een vertaling een exemplaar van de vertaling toekomen aan het betrokken aangewezen bureau en doet op hetzelfde tijdstip een exemplaar toekomen aan de aanvrager.
+- d. In het geval bedoeld in Regel 44**bis**. 2 b wordt het ingevolge [Regel 43**bis**. 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=43&z=2008-07-01&g=2008-07-01) opgestelde schriftelijke oordeel op verzoek van het betrokken aangewezen bureau door of onder de verantwoordelijkheid van het Internationaal Bureau vertaald in het Engels. Het Internationaal Bureau doet binnen twee maanden na de datum van ontvangst van het verzoek om een vertaling een exemplaar van de vertaling toekomen aan het betrokken aangewezen bureau en doet op hetzelfde tijdstip een exemplaar toekomen aan de aanvrager.
 
 44bis.4. **Commentaar op de vertaling**
 
@@ -2994,19 +3000,19 @@ Geen aanvrager behoeft een nationaal formulier te gebruiken voor het verrichten 
 
 49bis.1. **Keuze van bepaalde soorten bescherming**
 
-- a. Indien de aanvrager verlangt dat de internationale aanvrage in een aangewezen Staat waarop [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=43&z=2007-04-01&g=2007-04-01) van toepassing is, niet wordt behandeld als een aanvrage om de verlening van een octrooi, maar om de verlening van een ander soort bescherming bedoeld in dat artikel, meldt de aanvrager bij het verrichten van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2007-04-01&g=2007-04-01) bedoelde handelingen dit aan het aangewezen bureau.
+- a. Indien de aanvrager verlangt dat de internationale aanvrage in een aangewezen Staat waarop [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=43&z=2008-07-01&g=2008-07-01) van toepassing is, niet wordt behandeld als een aanvrage om de verlening van een octrooi, maar om de verlening van een ander soort bescherming bedoeld in dat artikel, meldt de aanvrager bij het verrichten van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) bedoelde handelingen dit aan het aangewezen bureau.
 
-- b. Indien de aanvrager verlangt dat de internationale aanvrage in een aangewezen Staat waarop [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=44&z=2007-04-01&g=2007-04-01) van toepassing is, wordt behandeld als een aanvrage om verlening van meer dan een soort bescherming bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=43&z=2007-04-01&g=2007-04-01), meldt de aanvrager, bij het verrichten van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2007-04-01&g=2007-04-01) bedoelde handelingen, dit aan het aangewezen bureau en geeft, indien van toepassing, aan welke soort bescherming primair wordt verlangd en welke subsidiair.
+- b. Indien de aanvrager verlangt dat de internationale aanvrage in een aangewezen Staat waarop [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=44&z=2008-07-01&g=2008-07-01) van toepassing is, wordt behandeld als een aanvrage om verlening van meer dan een soort bescherming bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=III&artikel=43&z=2008-07-01&g=2008-07-01), meldt de aanvrager, bij het verrichten van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) bedoelde handelingen, dit aan het aangewezen bureau en geeft, indien van toepassing, aan welke soort bescherming primair wordt verlangd en welke subsidiair.
 
-- c. In de in paragrafen a en b bedoelde gevallen, indien de aanvrager verlangt dat de internationale aanvrage in een aangewezen Staat wordt behandeld als een aanvrage om een aanvullingsoctrooi, een aanvullingscertificaat, een aanvulling van een uitvinderscertificaat of een aanvulling van een gebruikscertificaat, vermeldt de aanvrager bij het verrichten van de handelingen bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2007-04-01&g=2007-04-01), de desbetreffende hoofdaanvrage, het hoofdoctrooi of een ander verleend hoofdrecht.
+- c. In de in paragrafen a en b bedoelde gevallen, indien de aanvrager verlangt dat de internationale aanvrage in een aangewezen Staat wordt behandeld als een aanvrage om een aanvullingsoctrooi, een aanvullingscertificaat, een aanvulling van een uitvinderscertificaat of een aanvulling van een gebruikscertificaat, vermeldt de aanvrager bij het verrichten van de handelingen bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01), de desbetreffende hoofdaanvrage, het hoofdoctrooi of een ander verleend hoofdrecht.
 
-- d. Indien de aanvrager verlangt dat de internationale aanvrage in een aangewezen Staat wordt behandeld als een aanvrage om voortzetting of gedeeltelijke voortzetting van een eerdere aanvrage, meldt de aanvrager bij het verrichten van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2007-04-01&g=2007-04-01) bedoelde handelingen, dit aan het aangewezen bureau en vermeldt daarbij de desbetreffende hoofdaanvrage.
+- d. Indien de aanvrager verlangt dat de internationale aanvrage in een aangewezen Staat wordt behandeld als een aanvrage om voortzetting of gedeeltelijke voortzetting van een eerdere aanvrage, meldt de aanvrager bij het verrichten van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) bedoelde handelingen, dit aan het aangewezen bureau en vermeldt daarbij de desbetreffende hoofdaanvrage.
 
-- e. Wanneer de aanvrager bij het verrichten van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2007-04-01&g=2007-04-01) bedoelde handelingen geen uitdrukkelijke melding ingevolge paragraaf a heeft gedaan, maar de door hem betaalde nationale taks bedoeld in artikel 22 overeenkomt met de nationale taks voor een specifiek soort bescherming, wordt de betaling van die taks beschouwd als melding van de wens van de aanvrager dat de internationale aanvrage dient te worden behandeld als een aanvrage om dat soort bescherming en stelt het aangewezen bureau de aanvrager daarvan in kennis.
+- e. Wanneer de aanvrager bij het verrichten van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) bedoelde handelingen geen uitdrukkelijke melding ingevolge paragraaf a heeft gedaan, maar de door hem betaalde nationale taks bedoeld in artikel 22 overeenkomt met de nationale taks voor een specifiek soort bescherming, wordt de betaling van die taks beschouwd als melding van de wens van de aanvrager dat de internationale aanvrage dient te worden behandeld als een aanvrage om dat soort bescherming en stelt het aangewezen bureau de aanvrager daarvan in kennis.
 
 49bis.2. **Tijdstip voor meldingen**
 
-- a. Aangewezen bureaus mogen niet verlangen dat de aanvrager, vóór het verrichten van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2007-04-01&g=2007-04-01) bedoelde handelingen, meldingen doet als bedoeld in Regel 49**bis**.1, of, indien van toepassing, meldt of hij verlening van een nationaal octrooi of een regionaal octrooi verlangt.
+- a. Aangewezen bureaus mogen niet verlangen dat de aanvrager, vóór het verrichten van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) bedoelde handelingen, meldingen doet als bedoeld in Regel 49**bis**.1, of, indien van toepassing, meldt of hij verlening van een nationaal octrooi of een regionaal octrooi verlangt.
 
 - b. De aanvrager kan, indien zulks is toegestaan krachtens de nationale wetgeving die moet worden toegepast door het betrokken aangewezen bureau, op een later tijdstip een dergelijke melding doen of, indien van toepassing, van de ene soort bescherming overstappen op de andere.
 
@@ -4346,9 +4352,9 @@ Een nationaal bureau of intergouvernementele organisatie kan bepalen dat, wannee
 
 - ii. in het geval van een fout in de beschrijving, conclusies of tekeningen of in een verbetering daarvan, tenzij de Instantie voor de Internationale Voorlopige Beoordeling bevoegd is ingevolge iii – door de Instantie voor Internationaal Nieuwheidsonderzoek;
 
-- iii. in het geval van een fout in de beschrijving, conclusies of tekeningen of in een verbetering daarvan, of in een wijziging ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=19&z=2007-04-01&g=2007-04-01) of [34](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=34&z=2007-04-01&g=2007-04-01), indien een verzoek om internationale voorlopige beoordeling is gedaan en niet is ingetrokken en de datum waarop de internationale voorlopige beoordeling aanvangt in overeenstemming met [Regel 69.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=69&z=2007-04-01&g=2007-04-01) verstreken is – door de Instantie voor de Internationale Voorlopige Beoordeling;
+- iii. in het geval van een fout in de beschrijving, conclusies of tekeningen of in een verbetering daarvan, of in een wijziging ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=19&z=2008-07-01&g=2008-07-01) of [34](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=34&z=2008-07-01&g=2008-07-01), indien een verzoek om internationale voorlopige beoordeling is gedaan en niet is ingetrokken en de datum waarop de internationale voorlopige beoordeling aanvangt in overeenstemming met [Regel 69.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=69&z=2008-07-01&g=2008-07-01) verstreken is – door de Instantie voor de Internationale Voorlopige Beoordeling;
 
-- iv. in het geval van een fout in een document dat niet genoemd wordt onder i tot iii en ingediend is bij het ontvangende bureau, de Instantie voor Internationaal Nieuwheidsonderzoek, de Instantie voor de Internationale Voorlopige Beoordeling of het Internationale Bureau, niet zijnde een fout in het uittreksel of in een wijziging ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=19&z=2007-04-01&g=2007-04-01) – door dat bureau of die instantie, naargelang van het geval.
+- iv. in het geval van een fout in een document dat niet genoemd wordt onder i tot iii en ingediend is bij het ontvangende bureau, de Instantie voor Internationaal Nieuwheidsonderzoek, de Instantie voor de Internationale Voorlopige Beoordeling of het Internationale Bureau, niet zijnde een fout in het uittreksel of in een wijziging ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=19&z=2008-07-01&g=2008-07-01) – door dat bureau of die instantie, naargelang van het geval.
 
 - c. De bevoegde autoriteit geeft uitsluitend een machtiging voor de verbetering van een fout ingevolge deze Regel indien het de bevoegde autoriteit duidelijk is dat op de van toepassing zijnde datum ingevolge paragraaf f iets anders beoogd was dan hetgeen in het desbetreffende document voorkomt en dat niets anders beoogd had kunnen zijn dan de voorgestelde verbetering.
 
@@ -4362,21 +4368,21 @@ Een nationaal bureau of intergouvernementele organisatie kan bepalen dat, wannee
 
 - ii. in het geval van een fout in een document niet zijnde de internationale aanvrage zoals ingediend, met inbegrip van fouten in een verbetering of wijziging van de internationale aanvrage – de datum waarop het document was ingediend.
 
-- g. Een fout kan ingevolge deze Regel niet verbeterd worden indien: met dien verstande dat deze paragraaf de werking van de [Regels 20.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=20&z=2007-04-01&g=2007-04-01), 20.5, [26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=26bis&z=2007-04-01&g=2007-04-01) en [38.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=38&z=2007-04-01&g=2007-04-01) onverlet laat.
+- g. Een fout kan ingevolge deze Regel niet verbeterd worden indien: met dien verstande dat deze paragraaf de werking van de [Regels 20.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=20&z=2008-07-01&g=2008-07-01), 20.5, [26**bis**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=26bis&z=2008-07-01&g=2008-07-01) en [38.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=38&z=2008-07-01&g=2008-07-01) onverlet laat.
 
-- i. de fout gelegen is het ontbreken van een of meer volledige elementen van de internationale aanvrage bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=3&z=2007-04-01&g=2007-04-01), of van een of meer volledige bladen van de internationale aanvrage;
+- i. de fout gelegen is het ontbreken van een of meer volledige elementen van de internationale aanvrage bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=3&z=2008-07-01&g=2008-07-01), of van een of meer volledige bladen van de internationale aanvrage;
 
 - ii. de fout zich in het uittreksel bevindt;
 
-- iii. de fout zich in een wijziging ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=19&z=2007-04-01&g=2007-04-01) bevindt, tenzij de Instantie voor de Internationale Voorlopige Beoordeling bevoegd is een machtiging af te geven voor de verbetering van een dergelijke fout ingevolge paragraaf b iii; of
+- iii. de fout zich in een wijziging ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=19&z=2008-07-01&g=2008-07-01) bevindt, tenzij de Instantie voor de Internationale Voorlopige Beoordeling bevoegd is een machtiging af te geven voor de verbetering van een dergelijke fout ingevolge paragraaf b iii; of
 
-- iv. de fout zich in een beroep op een recht van voorrang of in een kennisgeving ten behoeve van verbetering of toevoeging van een beroep op een recht van voorrang ingevolge [Regel 26**bis** 1 a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=26&z=2007-04-01&g=2007-04-01) bevindt, indien de verbetering van de fout tot wijziging van de datum van voorrang zou leiden;
+- iv. de fout zich in een beroep op een recht van voorrang of in een kennisgeving ten behoeve van verbetering of toevoeging van een beroep op een recht van voorrang ingevolge [Regel 26**bis** 1 a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=26&z=2008-07-01&g=2008-07-01) bevindt, indien de verbetering van de fout tot wijziging van de datum van voorrang zou leiden;
 
 - h. Indien het ontvangende bureau, de Instantie voor Internationaal Nieuwheidsonderzoek, de Instantie voor de Internationale Voorlopige Beoordeling of het Internationale Bureau een voor verbetering vatbare kennelijke fout ontdekt in de internationale aanvrage of in een ander document, kan dat bureau of die instantie de aanvrager uitnodigen te verzoeken om verbetering ingevolge deze Regel.
 
 91.2. **Verzoeken om verbetering**
 
-Een verzoek om verbetering ingevolge Regel 91.1 wordt binnen 26 maanden na de datum van voorrang ingediend bij de bevoegde autoriteit. In het verzoek dient de te verbeteren fout te worden aangeduid alsmede de voorgestelde verbetering, en kan, naar keuze van de aanvrager, een korte toelichting zijn opgenomen. [Regel 26.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=26&z=2007-04-01&g=2007-04-01) is van overeenkomstige toepassing op de wijze waarop de voorgestelde verbetering wordt aangegeven.
+Een verzoek om verbetering ingevolge Regel 91.1 wordt binnen 26 maanden na de datum van voorrang ingediend bij de bevoegde autoriteit. In het verzoek dient de te verbeteren fout te worden aangeduid alsmede de voorgestelde verbetering, en kan, naar keuze van de aanvrager, een korte toelichting zijn opgenomen. [Regel 26.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=26&z=2008-07-01&g=2008-07-01) is van overeenkomstige toepassing op de wijze waarop de voorgestelde verbetering wordt aangegeven.
 
 91.3. **Machtiging en rechtsgevolgen van verbeteringen**
 
@@ -4390,7 +4396,7 @@ Een verzoek om verbetering ingevolge Regel 91.1 wordt binnen 26 maanden na de da
 
 - ii. in het geval van een fout in een document niet zijnde de internationale aanvrage zoals ingediend, met inbegrip van fouten in een verbetering of wijziging van de internationale aanvrage – vanaf de datum waarop dat document was ingediend.
 
-- d. Indien de bevoegde autoriteit een machtiging ingevolge Regel 91.1 weigert, publiceert het Internationale Bureau op een door de aanvrager bij het bureau ingediend verzoek binnen twee maanden na de datum van de weigering en op voorwaarde van de betaling van een bijzondere taks waarvan het bedrag is vastgesteld in de Administratieve Instructies, het verzoek om verbetering, de redenen voor de weigering door de autoriteit en eventueel nader kort commentaar dat door de aanvrager kan zijn ingediend, zo mogelijk tezamen met de internationale aanvrage. Een afschrift van het verzoek, de redenen en het eventuele commentaar worden overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2007-04-01&g=2007-04-01) meegezonden wanneer de internationale aanvrage uit hoofde van [artikel 64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2007-04-01&g=2007-04-01), niet gepubliceerd wordt.
+- d. Indien de bevoegde autoriteit een machtiging ingevolge Regel 91.1 weigert, publiceert het Internationale Bureau op een door de aanvrager bij het bureau ingediend verzoek binnen twee maanden na de datum van de weigering en op voorwaarde van de betaling van een bijzondere taks waarvan het bedrag is vastgesteld in de Administratieve Instructies, het verzoek om verbetering, de redenen voor de weigering door de autoriteit en eventueel nader kort commentaar dat door de aanvrager kan zijn ingediend, zo mogelijk tezamen met de internationale aanvrage. Een afschrift van het verzoek, de redenen en het eventuele commentaar worden overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01) meegezonden wanneer de internationale aanvrage uit hoofde van [artikel 64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=VIII&artikel=64&z=2008-07-01&g=2008-07-01), niet gepubliceerd wordt.
 
 - e. De verbetering van een kennelijke fout behoeft door een aangewezen bureau niet in aanmerking te worden genomen waar de behandeling of de beoordeling van de internationale aanvrage reeds is aangevangen voor de datum waarop dat bureau ingevolge Regel 91.3 a in kennis is gesteld van de machtiging voor de verbetering door de bevoegde autoriteit.
 
@@ -4522,21 +4528,21 @@ De bedragen van de in de Regels 15 en 57 bedoelde taksen worden uitgedrukt in Zw
 
 ##### Taksenschaal
 
-| **Taksen** | **Taksen** | **Taksen** | **Bedragen** |   |
-| --- | --- | --- | --- | --- |
-| 1. | Internationale indieningstaks: (Regel 15.2) | Internationale indieningstaks: (Regel 15.2) | 1.400 | Zwitserse frank vermeerderd met 15 Zwitserse frank voor elk blad van de internationale aanvrage boven de 30 bladen |
-| 2. | Behandelingstaks: (Regel 57.2) | Behandelingstaks: (Regel 57.2) | 200 | Zwitserse frank Verminderingen |
-| 3. | De internationale indieningstaks wordt met het onderstaande bedrag verminderd indien de internationale aanvrage, op de wijze die is voorzien in de Administratieve Instructies, wordt ingediend: | De internationale indieningstaks wordt met het onderstaande bedrag verminderd indien de internationale aanvrage, op de wijze die is voorzien in de Administratieve Instructies, wordt ingediend: |   |   |
-| . | a. | op papier, tezamen met een kopie in elektronische vorm, in tekencodeformaat, van het verzoekschrift en het uittreksel: | 100 | Zwitserse frank |
-|   | b. | in elektronische vorm, waarbij het verzoekschrift niet in tekencodeformaat is opgesteld: | 100 | Zwitserse frank |
-| . | c. | in elektronische vorm, waarbij het verzoekschrift in tekencodeformaat is opgesteld: | 200 | Zwitserse frank |
-|   | d. | in elektronische vorm, waarbij het verzoekschrift, de beschrijving, de conclusies en het uittreksel in tekencode-formaat zijn opgesteld: | 300 | Zwitserse frank |
-
-- 4. De internationale indieningstaks (indien van toepassing verminderd overeenkomstig punt 3) en de behandelingstaks worden verminderd met 75% indien de internationale aanvrage wordt ingediend door:
-
-- a. een aanvrager die een natuurlijke persoon is en onderdaan en inwoner van een staat waarvan het nationale inkomen per hoofd van de bevolking lager is dan USD 3.000 (volgens de cijfers van het gemiddelde nationale inkomen per hoofd van de bevolking die door de Verenigde Naties worden gebruikt ter bepaling van haar contributieschaal voor de verschuldigde contributies voor de jaren 1995, 1996 en 1997); of
-
-- b. een aanvrager, ongeacht of het een natuurlijke persoon is, die onderdaan en inwoner is van een staat die door de Verenigde Naties wordt aangemerkt als een minstontwikkeld land; met dien verstande dat, indien er verscheidene aanvragers zijn, ieder moet voldoen aan de criteria vervat in hetzij onderdeel a hetzij onderdeel b.
+| **Taksen** | **Taksen** | **Taksen** | **Bedragen** |
+| --- | --- | --- | --- |
+| 1. | Internationale indieningstaks: (Regel 15.2) | Internationale indieningstaks: (Regel 15.2) | 1.330 Zwitserse frank vermeerderd met 15 Zwitserse frank voor elk blad van de internationale aanvrage boven de 30 bladen |
+| 2. | Behandelingstaks voor aanvullend nieuwheidsonderzoek: (Regel 45bis.2) | Behandelingstaks voor aanvullend nieuwheidsonderzoek: (Regel 45bis.2) | 200 Zwitserse frank |
+| 3. | Behandelingstaks: (Regel 57.2) | Behandelingstaks: (Regel 57.2) | 200 Zwitserse frank |
+| **Verminderingen** | **Verminderingen** | **Verminderingen** | **Verminderingen** |
+| 4. | De internationale indieningstaks wordt met het onderstaande bedrag verminderd indien de internationale aanvrage, op de wijze die is voorzien in de Administratieve Instructies, wordt ingediend: | De internationale indieningstaks wordt met het onderstaande bedrag verminderd indien de internationale aanvrage, op de wijze die is voorzien in de Administratieve Instructies, wordt ingediend: | De internationale indieningstaks wordt met het onderstaande bedrag verminderd indien de internationale aanvrage, op de wijze die is voorzien in de Administratieve Instructies, wordt ingediend: |
+|   | (a) | op papier, tezamen met een kopie in elektronische vorm, in tekencodeformaat, van het verzoekschrift en het uittreksel | 100 Zwitserse frank |
+|   | (b) | in elektronische vorm, waarbij het verzoekschrift niet in tekencodeformaat is opgesteld: | 100 Zwitserse frank |
+|   | (c) | in elektronische vorm, waarbij het verzoekschrift in tekencodeformaat is opgesteld: | 200 Zwitserse frank |
+|   | (d) | in elektronische vorm, waarbij het verzoekschrift, de beschrijving, de conclusies en het uittreksel in tekencodeformaat zijn opgesteld: | 300 Zwitserse frank |
+| 5. | De internationale indieningstaks overeenkomstig punt 1 (indien van toepassing verminderd overeenkomstig punt 4), de behandelingstaks voor aanvullend nieuwheidsonderzoek overeenkomstig punt 2 en de behandelingstaks overeenkomstig punt 3 worden verminderd met 90% indien de internationale aanvrage wordt ingediend door: | De internationale indieningstaks overeenkomstig punt 1 (indien van toepassing verminderd overeenkomstig punt 4), de behandelingstaks voor aanvullend nieuwheidsonderzoek overeenkomstig punt 2 en de behandelingstaks overeenkomstig punt 3 worden verminderd met 90% indien de internationale aanvrage wordt ingediend door: | De internationale indieningstaks overeenkomstig punt 1 (indien van toepassing verminderd overeenkomstig punt 4), de behandelingstaks voor aanvullend nieuwheidsonderzoek overeenkomstig punt 2 en de behandelingstaks overeenkomstig punt 3 worden verminderd met 90% indien de internationale aanvrage wordt ingediend door: |
+|   | (a) | een aanvrager die een natuurlijke persoon is en onderdaan en inwoner van een staat waarvan het nationale inkomen per hoofd van de bevolking lager is dan USD 3.000 (volgens de cijfers van het gemiddelde nationale inkomen per hoofd van de bevolking die door de Verenigde Naties worden gebruikt ter bepaling van haar contributieschaal voor de verschuldigde contributies voor de jaren 1995, 1996 en 1997) of, in afwachting van een beslissing van de Algemene Vergadering van de PCT aangaande criteria die gehanteerd worden bij het bepalen wie in aanmerking komt en die omschreven staan in dit onderdeel, één van de volgende staten: Antigua en Barbuda, Bahrein, Barbados, Libië, Oman, de Seychellen, Singapore, Trinidad en Tobago en de Verenigde Arabische Emiraten; of | een aanvrager die een natuurlijke persoon is en onderdaan en inwoner van een staat waarvan het nationale inkomen per hoofd van de bevolking lager is dan USD 3.000 (volgens de cijfers van het gemiddelde nationale inkomen per hoofd van de bevolking die door de Verenigde Naties worden gebruikt ter bepaling van haar contributieschaal voor de verschuldigde contributies voor de jaren 1995, 1996 en 1997) of, in afwachting van een beslissing van de Algemene Vergadering van de PCT aangaande criteria die gehanteerd worden bij het bepalen wie in aanmerking komt en die omschreven staan in dit onderdeel, één van de volgende staten: Antigua en Barbuda, Bahrein, Barbados, Libië, Oman, de Seychellen, Singapore, Trinidad en Tobago en de Verenigde Arabische Emiraten; of |
+|   | (b) | een aanvrager, ongeacht of het een natuurlijke persoon is, die onderdaan en inwoner is van een staat die door de Verenigde Naties wordt aangemerkt als een minstontwikkeld land; | een aanvrager, ongeacht of het een natuurlijke persoon is, die onderdaan en inwoner is van een staat die door de Verenigde Naties wordt aangemerkt als een minstontwikkeld land; |
+|   | met dien verstande dat, indien er verscheidene aanvragers zijn, ieder moet voldoen aan de criteria vervat in hetzij onderdeel a hetzij onderdeel b. | met dien verstande dat, indien er verscheidene aanvragers zijn, ieder moet voldoen aan de criteria vervat in hetzij onderdeel a hetzij onderdeel b. | met dien verstande dat, indien er verscheidene aanvragers zijn, ieder moet voldoen aan de criteria vervat in hetzij onderdeel a hetzij onderdeel b. |
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Treaty.
 
@@ -4939,6 +4945,1626 @@ Voor de toepassing van [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3
 65.2. **Van belang zijnde datum**
 
 Voor de toepassing van [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=33&z=2007-04-01&g=2007-04-01), is de van belang zijnde datum voor de beoordeling van uitvinderswerkzaamheid (het niet voor de hand liggen) de in [Regel 64.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=64&z=2007-04-01&g=2007-04-01) voorgeschreven datum.
+
+##### Regel 66. Procedure voor de Instantie voor de Internationale Voorlopige Beoordeling
+
+66.1. **Grondslag van de internationale voorlopige beoordeling**
+
+- a. Behoudens het in de paragrafen b tot en met d bepaalde, wordt de internationale voorlopige beoordeling gebaseerd op de internationale aanvrage zoals ingediend.
+
+- b. De aanvrager kan wijzigingen ingevolge artikel 34 indienen bij de indiening van het verzoek of, onverminderd Regel 66.4**bis**, totdat het verslag van de internationale voorlopige beoordeling wordt opgesteld.
+
+- c. Wijzigingen ingevolge artikel 19 die zijn aangebracht voordat het verzoek werd ingediend, worden in aanmerking genomen voor de internationale voorlopige beoordeling, tenzij deze worden vervangen, of worden geacht te zijn achterhaald, door een wijziging ingevolge artikel 34.
+
+- d. Wijzigingen ingevolge artikel 19 die zijn aangebracht nadat het verzoek werd ingediend en wijzigingen ingevolge artikel 34 die zijn ingediend bij de Instantie voor de Internationale Voorlopige Beoordeling, worden, onverminderd Regel 66.4**bis**, in aanmerking genomen voor de internationale voorlopige beoordeling.
+
+- d-bis. Een ingevolge Regel 91.1 toegestane verbetering van een kennelijke fout wordt ten behoeve van de internationale voorlopige beoordeling met inachtneming van Regel 66.4**bis** in aanmerking genomen door de Instantie voor de Internationale Voorlopige Beoordeling.
+
+- e. Conclusies met betrekking tot uitvindingen ten aanzien waarvan geen verslag van een internationaal nieuwheidsonderzoek is opgesteld, behoeven niet het voorwerp te vormen van de internationale voorlopige beoordeling.
+
+66.1bis. **Schriftelijk oordeel van de Instantie voor Internationaal Nieuwheidsonderzoek**
+
+- a. Onverminderd paragraaf b., wordt het ingevolge Regel 43**bis**. 1 door de Instantie voor Internationaal Nieuwheidsonderzoek opgestelde schriftelijke oordeel beschouwd als een schriftelijk oordeel van de Instantie voor de Internationale Voorlopige Beoordeling voor de toepassing van Regel 66.2 a.
+
+- b. Een Instantie voor de Internationale Voorlopige Beoordeling kan het Internationaal Bureau ervan in kennis stellen dat op de voor haar te voeren procedure paragraaf a. niet van toepassing is ter zake van schriftelijke oordelen ingevolge Regel 43**bis.**1, opgesteld door de in de kennisgeving vermelde Instantie of Instanties voor Internationaal Nieuwheidsonderzoek, met dien verstande dat deze kennisgeving niet van toepassing is op gevallen waarin het nationaal bureau of de intergouvernementele organisatie die is opgetreden als Instantie voor Internationaal Nieuwheidsonderzoek tevens optreedt als Instantie voor de Internationale Voorlopige Beoordeling. Het Internationaal Bureau publiceert een dergelijke kennisgeving onverwijld in het mededelingenblad.
+
+- c. Wanneer het ingevolge Regel 43**bis**. 1 door de Instantie voor Internationaal Nieuwheidsonderzoek opgestelde schriftelijk oordeel, uit hoofde van een kennisgeving ingevolge paragraaf b., niet wordt aangemerkt als een schriftelijk oordeel van de Instantie voor de Internationale Voorlopige Beoordeling voor de toepassing van Regel 66.2 a., stelt de Instantie voor de Internationale Voorlopige Beoordeling de aanvrager dienovereenkomstig schriftelijk daarvan in kennis.
+
+- d. Een ingevolge Regel 43**bis**. 1 door de Instantie voor Internationaal Nieuwheidsonderzoek opgesteld schriftelijk oordeel, dat uit hoofde van een kennisgeving ingevolge paragraaf b., niet wordt aangemerkt als een schriftelijk oordeel van de Instantie voor de Internationale Voorlopige beoordeling voor de toepassing van Regel 66.2 a., wordt desalniettemin door de Instantie voor de Internationale Voorlopige beoordeling in aanmerking genomen in de procedure ingevolge Regel 66.2 a.
+
+66.2. **Schriftelijk oordeel van de Instantie voor de Internationale Voorlopige Beoordeling**
+
+- a). Indien de Instantie voor de Internationale Voorlopige Beoordeling dient genoemde Instantie de aanvrager daarvan schriftelijk in kennis te stellen. Wanneer de nationale wetgeving van het nationale bureau dat als Instantie voor de Internationale Voorlopige Beoordeling optreedt, niet toestaat dat er meervoudig afhankelijke conclusies worden opgesteld op een andere wijze dan voorgeschreven in de tweede en derde volzin van Regel 6.4 a, kan de Instantie voor de Internationale Voorlopige Beoordeling, ingeval de conclusies niet op die wijze worden ingediend, artikel 34, vierde lid, b, toepassen. In dat geval dient zij de aanvrager daarvan schriftelijk in kennis te stellen.
+
+- (i). van oordeel is dat er sprake is van een van de in artikel 34, vierde lid, bedoelde omstandigheden,
+
+- (ii). van oordeel is dat het verslag van de internationale voorlopige beoordeling negatief dient te zijn ten aanzien van enige conclusie omdat de uitvinding waarvoor daarin bescherming wordt gevraagd niet nieuw lijkt te zijn, niet op uitvinderswerkzaamheid lijkt te berusten (niet voor de hand lijkt te liggen) of niet vatbaar lijkt voor toepassing op het gebied van de nijverheid,
+
+- (iii). opmerkt dat er een gebrek is in de vorm of de inhoud van de internationale aanvrage ingevolge het Verdrag of dit Reglement,
+
+- (iv). van oordeel is dat een wijziging verder gaat dan de openbaarmaking in de internationale aanvrage zoals ingediend,
+
+- (v). het verslag van de internationale voorlopige beoordeling vergezeld wenst te doen gaan van opmerkingen over de duidelijkheid van de conclusies, de beschrijving en de tekeningen of de vraag of de conclusies ten volle door de beschrijving worden ondersteund, dient genoemde Instantie de aanvrager daarvan schriftelijk in kennis te stellen. Wanneer de nationale wetgeving van het nationale bureau dat optreedt als Instantie voor de Internationale Voorlopige Beoordeling niet toestaat dat meervoudig afhankelijke conclusies worden opgesteld op een wijze die afwijkt van hetgeen is aangegeven in de tweede en derde zin van Regel 6.4 a), kan de Instantie voor de Internationale Voorlopige Beoordeling, ingeval van niet-volgen van die wijze van opstellen, artikel 34, vierde lid, onder b) toepassen. In zo'n geval stelt het de aanvrager hiervan schriftelijk in kennis,
+
+- (vi). van oordeel is dat een conclusie betrekking heeft op een uitvinding ten aanzien waarvan geen verslag van het internationale nieuwheidsonderzoek is opgesteld en heeft besloten geen internationale voorlopige beoordeling te verrichten ten aanzien van die conclusie, of
+
+- (vii). van oordeel is dat er geen sequentie-opsomming van nucleotiden en/of aminozuren beschikbaar is in zodanige vorm dat er een zinvolle internationale voorlopige beoordeling kan worden verricht,
+
+- b). De kennisgeving dient een volledige uiteenzetting te geven van de redenen voor het oordeel van de Instantie voor de Internationale Voorlopige Beoordeling.
+
+- c). In de kennisgeving wordt de aanvrager uitgenodigd een schriftelijk antwoord in te dienen, waar passend vergezeld van wijzigingen.
+
+- d). In de kennisgeving wordt een termijn vastgesteld voor het antwoord. De termijn dient redelijk te zijn gegeven de omstandigheden. De termijn bedraagt gewoonlijk twee maanden vanaf de datum van de kennisgeving. In geen geval mag de termijn korter zijn dan een maand na de bedoelde datum. De termijn dient ten minste twee maanden na de bedoelde datum te zijn wanneer het verslag van het internationale nieuwheidsonderzoek tegelijkertijd met de kennisgeving wordt verzonden. De termijn mag, onverminderd paragraaf e. niet langer zijn dan drie maanden na de bedoelde datum.
+
+- e). De termijn voor het beantwoorden van de kennisgeving kan worden verlengd indien de aanvrager voor het verstrijken ervan daarom verzoekt.
+
+66.3. **Formeel antwoord aan de Instantie voor de Internationale Voorlopige Beoordeling**
+
+- a). De aanvrager kan aan de in Regel 66.2 c) bedoelde uitnodiging van de Instantie voor de Internationale Voorlopige Beoordeling gehoor geven door wijzigingen aan te brengen, of - indien hij het niet eens is met het oordeel van die Instantie - door argumenten aan te voeren, al naar het geval, dan wel beide doen.
+
+- b). Een antwoord dient rechtstreeks bij de Instantie voor de Internationale Voorlopige Beoordeling te worden ingediend.
+
+66.4. **Bijkomende gelegenheid voor het indienen van wijzigingen of het aanvoeren van argumenten**
+
+- a). Indien de Instantie voor de Internationale Voorlopige Beoordeling een of meer bijkomende schriftelijke oordelen wenst te geven, kan zij zulks doen; in dit geval zijn de Regels 66.2 en 66.3 van toepassing.
+
+- b). Op verzoek van de aanvrager kan de Instantie voor de Internationale Voorlopige Beoordeling hem één of meer bijkomende gelegenheden bieden om wijzigingen in te dienen of argumenten aan te voeren.
+
+66.4bis. **In aanmerking nemen van wijzigingen, argumenten en verbeteringen van kennelijke fouten**
+
+De Instantie voor de Internationale Voorlopige Beoordeling behoeft geen wijzigingen, argumenten en verbeteringen van kennelijke fouten in aanmerking te nemen ten behoeve van een schriftelijk oordeel of het verslag van de internationale voorlopige beoordeling indien deze worden ontvangen of toegestaan door of ter kennis gebracht van die Instantie, naargelang hetgeen van toepassing is, nadat deze begonnen is met het opstellen van dat oordeel of verslag.
+
+66.5. **Wijziging**
+
+Een verandering, niet zijnde een verbetering van een kennelijke fout, in de conclusies, de beschrijving of de tekeningen, met inbegrip van de intrekking van conclusies, het schrappen van passages in de beschrijving of het schrappen van bepaalde tekeningen wordt aangemerkt als een wijziging.
+
+66.6. **Informele contacten met de aanvrager**
+
+De Instantie voor de Internationale Voorlopige Beoordeling kan te allen tijde informeel, telefonisch, schriftelijk of door middel van persoonlijke gesprekken contact met de aanvrager onderhouden. De genoemde Instantie beslist naar eigen goeddunken, of zij meer dan één persoonlijk onderhoud wenst toe te staan, indien de aanvrager daarom verzoekt, dan wel of zij wenst te antwoorden op een informele schriftelijke mededeling van de aanvrager.
+
+66.7. **Afschrift en vertaling van een eerdere aanvrage op grond waarvan de voorrang wordt ingeroepen**
+
+- a). Indien de Instantie voor de Internationale Voorlopige Beoordeling een afschrift nodig heeft van de eerdere aanvrage op grond waarvan de voorrang wordt ingeroepen in de internationale aanvrage, dient het Internationaal Bureau dat desgevraagd onverwijld te verstrekken. Indien dat afschrift niet wordt verstrekt aan de Instantie voor de Internationale Voorlopige Beoordeling, omdat de aanvrager verzuimd heeft te voldoen aan de vereisten van Regel 17.1 en indien de eerdere aanvrage niet was ingediend bij die Instantie in haar hoedanigheid van nationaal bureau of indien het voorrangsbewijs voor die Instantie niet beschikbaar is via een digitale bibliotheek in overeenstemming met de Administratieve Instructies, kan het verslag van de internationale voorlopige beoordeling worden opgesteld als zou geen voorrang zijn ingeroepen.
+
+- b). Indien de aanvrage op grond waarvan in de internationale aanvrage een recht van voorrang is ingeroepen in een andere taal is gesteld dan de taal of een van de talen van de Instantie voor de Internationale Voorlopige Beoordeling kan die Instantie, wanneer de geldigheid van het beroep op een recht van voorrang van betekenis is voor het formuleren van het in artikel 33, eerste lid, bedoelde oordeel, de aanvrager uitnodigen een vertaling in die taal of een van die talen te verstrekken binnen 2 maanden te rekenen vanaf de datum van de uitnodiging. Indien de vertaling niet wordt verstrekt binnen die termijn, kan het verslag van de internationale voorlopige beoordeling worden opgesteld alsof het recht van voorrang niet was ingeroepen.
+
+66.8. **Vorm van de wijzigingen**
+
+- a. Onverminderd paragraaf b wordt van de aanvrager verlangd dat hij een vervangend blad indient voor elk blad van de internationale aanvrage dat wegens wijziging verschilt van het eerder ingediende blad. De begeleidende brief bij de vervangende bladen dient de aandacht te vestigen op de verschillen tussen de vervangen en de vervangende bladen en bij voorkeur ook de redenen voor de wijziging te verklaren.
+
+- b. Wanneer de wijziging bestaat in het schrappen van passages of in kleine veranderingen of toevoegingen, kan het in paragraaf a genoemde vervangende blad een afschrift van het desbetreffende blad van de internationale aanvrage met de veranderingen of toevoegingen zijn, mits de duidelijkheid en de mogelijkheid tot directe verveelvoudiging van dat blad niet nadelig worden beïnvloed. Voor zover een wijziging leidt tot het vervallen van een geheel blad, wordt deze wijziging medegedeeld in een brief die bij voorkeur ook de redenen voor de wijziging verklaart.
+
+66.9. **Taal van de wijzigingen**
+
+- a. Indien de internationale aanvrage is ingediend in een andere taal dan de taal waarin zij is gepubliceerd, dient elke wijziging, evenals elke in Regel 66.8 genoemde brief, onverminderd de paragrafen b en c, te worden ingediend in de taal van publicatie.
+
+- b. Indien de internationale voorlopige beoordeling overeenkomstig Regel 55.2 wordt verricht op basis van een vertaling van de internationale aanvrage, dient elke wijziging, alsmede elke brief bedoeld in paragraaf a, te worden ingediend in de taal van die vertaling.
+
+- c. Onverminderd het in Regel 55.3 bepaalde, nodigt de Instantie voor de Internationale Voorlopige Beoordeling, indien een wijziging of een brief niet wordt ingediend in een ingevolge paragraaf a of b vereiste taal, de aanvrager uit, indien zulks gelet op de termijn voor het opstellen van het verslag van de internationale voorlopige beoordeling uitvoerbaar is, de wijziging of de brief te verstrekken in de vereiste taal binnen een termijn die gezien de omstandigheden redelijk is.
+
+- d. Indien de aanvrager niet binnen de in paragraaf c bedoelde termijn gevolg geeft aan de uitnodiging om een wijziging in de vereiste taal te verstrekken, wordt de wijziging niet in aanmerking genomen voor de internationale voorlopige beoordeling. Indien de aanvrager niet binnen de in paragraaf c bedoelde termijn gevolg geeft aan de uitnodiging om een in paragraaf a bedoelde brief te verstrekken in de vereiste taal, behoeft de desbetreffende wijziging niet in aanmerking te worden genomen voor de internationale voorlopige beoordeling.
+
+##### Regel 67. Onderwerpen ingevolge artikel 34, vierde lid, onder a) sub (i)
+
+67.1. **Begripsomschrijving**
+
+Van een Instantie voor de Internationale Voorlopige Beoordeling mag niet worden verlangd, dat zij een internationale voorlopige beoordeling verricht van een internationale aanvrage, indien en voor zover het onderwerp op een van de onderstaande gebieden ligt:
+
+- (i). natuurwetenschappelijke en wiskundige theorieën,
+
+- (ii). planten- of dierenrassen of werkwijzen van wezenlijk biologische aard voor de voortbrenging van planten en dieren, die geen microbiologische werkwijzen en hierdoor verkregen voortbrengselen zijn,
+
+- (iii). stelsels, regels of methoden voor de bedrijfsvoering, voor het verrichten van uitsluitend geestelijke handelingen of voor het spelen,
+
+- (iv). methoden voor de behandeling van het menselijke of het dierlijke lichaam door chirurgische ingrepen of geneeskundige behandeling, alsmede methoden voor het stellen van een diagnose,
+
+- (v). enkele presentatie van gegevens,
+
+- (vi). programma's voor rekenautomaten voor zover de Instantie voor de Internationale Voorlopige Beoordeling niet is uitgerust voor het verrichten van een internationale voorlopige beoordeling van zodanige programma's.
+
+##### Regel 68. Gebrek aan eenheid van uitvinding (internationale voorlopige beoordeling)
+
+68.1. **Geen uitnodiging tot beperking of betaling**
+
+Wanneer de Instantie voor de Internationale Voorlopige Beoordeling vaststelt dat niet is voldaan aan het vereiste van eenheid van uitvinding en verkiest de aanvrager niet uit te nodigen de conclusies te beperken of bijkomende taksen te betalen, zet zij de internationale voorlopige beoordeling voort, behoudens artikel 34, vierde lid, b, en Regel 66.1 e, ten aanzien van de gehele internationale aanvrage, maar vermeldt zij in elk schriftelijk oordeel en het verslag van de internationale voorlopige beoordeling dat zij van oordeel is dat niet is voldaan aan het vereiste van eenheid van uitvinding en geeft zij de redenen daarvoor aan.
+
+68.2. **Uitnodiging tot beperking of betaling**
+
+Wanneer de Instantie voor de Internationale Voorlopige Beoordeling vaststelt dat niet is voldaan aan de vereiste eenheid van uitvinding en verkiest de aanvrager uit te nodigen, naar zijn keuze, de conclusies te beperken of aanvullende taksen te betalen, dient in de uitnodiging:
+
+- i. ten minste een mogelijkheid tot beperking te worden aangegeven die naar het oordeel van de Instantie voor de Internationale Voorlopige Beoordeling in overeenstemming zou zijn met het van toepassing zijnde vereiste;
+
+- ii. aangegeven te worden op welke gronden de internationale aanvrage geacht wordt niet te voldoen aan de vereiste eenheid van uitvinding;
+
+- iii. de aanvrager te worden uitgenodigd binnen een maand na de datum van de uitnodiging te voldoen aan de uitnodiging;
+
+- iv. het bedrag van de te betalen vereiste bijkomende taksen te worden aangegeven, mocht de aanvrager daartoe besluiten; en
+
+- v. dient de aanvrager, indien van toepassing, te worden uitgenodigd binnen een maand na de datum van de uitnodiging de in Regel 68.3 e bedoelde protesttaks te betalen en dient het te betalen bedrag te worden vermeld.
+
+68.3. **Bijkomende taksen**
+
+- a. Het bedrag voor de bijkomende taksen verschuldigd voor een internationale voorlopige beoordeling ingevolge artikel 34, derde lid, onder a, wordt bepaald door de bevoegde Instantie voor de Internationale Voorlopige Beoordeling.
+
+- b. De ingevolge artikel 34, derde lid, onder a, verschuldigde bijkomende taksen voor de internationale voorlopige beoordeling dienen rechtstreeks te worden betaald aan de Instantie voor de Internationale Voorlopige Beoordeling.
+
+- c. Een aanvrager kan de bijkomende taksen onder protest betalen, dat wil zeggen, vergezeld van een met redenen omklede uiteenzetting dat de internationale aanvrage voldoet aan de vereiste eenheid van uitvinding of dat het bedrag van de vereiste bijkomende taksen buitensporig hoog is. Een zodanig protest dient te worden onderzocht door een in het kader van de Instantie voor de Internationale Voorlopige Beoordeling ingesteld toetsingsorgaan, dat, voorzover het het protest gerechtvaardigd acht, beveelt dat de bijkomende taksen geheel of gedeeltelijk aan de aanvrager dienen te worden terugbetaald. Op verzoek van de aanvrager worden de tekst van het protest en van de beslissing dienaangaande als bijlage bij het verslag omtrent de internationale voorlopige beoordeling ter kennis van de gekozen bureaus gebracht.
+
+- d. In het in paragraaf c bedoelde toetsingsorgaan kan de persoon zitting hebben die de beslissing nam waarop het protest betrekking heeft, met dien verstande dat deze niet het enige lid van het orgaan mag zijn.
+
+- e. De Instantie voor de Internationale Voorlopige Beoordeling kan het onderzoek naar aanleiding van een protest zoals bedoeld in paragraaf c afhankelijk stellen van de betaling ten gunste van de Instantie van een protesttaks. Indien de aanvrager verzuimt binnen de termijn ingevolge Regel 68.2 v de vereiste protesttaks te betalen, wordt het protest geacht niet te zijn aangetekend en de Instantie voor de Internationale Voorlopige Beoordeling zal dienaangaande een verklaring doen uitgaan. De protesttaks wordt aan de aanvrager terugbetaald indien het in paragraaf c bedoelde toetsingsorgaan van oordeel is dat het protest volledig gerechtvaardigd was.
+
+68.4. **Procedure in geval van onvoldoende beperking van de conclusies**
+
+Indien de aanvrager de conclusies beperkt, doch niet voldoende om te voldoen aan het vereiste van eenheid van uitvinding, handelt de Instantie voor de Internationale Voorlopige Beoordeling zoals bepaald in artikel 34, derde lid, onder **c)**.
+
+68.5. **Hoofduitvinding**
+
+In geval van twijfel welke uitvinding de hoofduitvinding is voor de toepassing van artikel 34, derde lid, onder **c)**, wordt de als eerste in de conclusies genoemde uitvinding als de hoofduitvinding beschouwd.
+
+##### Regel 69. Aanvang van en termijn voor de internationale voorlopige beoordeling
+
+69.1. **Aanvang van de internationale voorlopige beoordeling**
+
+- a. Onverminderd de paragrafen b tot en met e vangt de Instantie voor de Internationale Voorlopige Beoordeling de internationale voorlopige beoordeling aan zodra zij beschikt over al het volgende: met dien verstande dat de Instantie voor de Internationale Voorlopige Beoordeling de internationale voorlopige beoordeling niet aanvangt voor het verstrijken van de toepasselijke termijn ingevolge Regel 54**bis** 1 a, tenzij de aanvrager uitdrukkelijk verzoekt om eerdere aanvang.
+
+- i. het verzoek;
+
+- ii. het (volledige) verschuldigde bedrag voor de behandelingstaks en de taks voor de voorlopige beoordeling, met inbegrip van, indien van toepassing, de taks wegens te late betaling ingevolge Regel 58**bis**. 2; en
+
+- iii. hetzij het verslag van het internationale nieuwheidsonderzoek, hetzij de verklaring door de Instantie voor Internationaal Nieuwheidsonderzoek ingevolge artikel 17, tweede lid, onder a, dat er geen verslag van een internationaal nieuwheidsonderzoek zal worden opgesteld en het schriftelijk oordeel opgesteld ingevolge Regel 43bis 1;
+
+- b. Indien het nationaal bureau of de intergouvernementele organisatie die optreedt als Instantie voor Internationaal Nieuwheidsonderzoek tevens optreedt als Instantie voor de Internationale Voorlopige Beoordeling, kan de internationale voorlopige beoordeling, indien het nationaal bureau of de intergouvernementele organisatie zulks wenst en met inachtneming van de paragrafen d. en e., op hetzelfde tijdstip aanvangen als het internationale nieuwheidsonderzoek.
+
+- b-bis. Indien, in overeenstemming met paragraaf b, het nationaal bureau dat of de intergouvernementele organisatie die optreedt als zowel de Instantie voor Internationaal Nieuwheidsonderzoek als de Instantie voor de Internationale Voorlopige Beoordeling, de internationale voorlopige beoordeling gelijktijdig met het internationale nieuwheidsonderzoek wenst aan te vangen en oordeelt dat aan alle in artikel 34, tweede lid, onder c., i. tot en met iii. genoemde voorwaarden is voldaan, behoeft dat nationaal bureau of die intergouvernementele organisatie, in zijn of haar hoedanigheid van Instantie voor Internationaal Nieuwheidsonderzoek, geen schriftelijk oordeel ingevolge Regel 43**bis**. 1 op te stellen.
+
+- c. Wanneer de verklaring betreffende wijzigingen een vermelding bevat dat wijzigingen ingevolge artikel 19 in aanmerking moeten worden genomen (Regel 53.9 a i), begint de Instantie voor de Internationale Voorlopige Beoordeling niet met de internationale voorlopige beoordeling voordat zij een afschrift van de desbetreffende wijzigingen heeft ontvangen.
+
+- d. Indien in de verklaring inzake wijzigingen wordt vermeld dat de aanvang van de internationale voorlopige beoordeling dient te worden uitgesteld (Regel 53.9 b), vangt de Instantie voor de Internationale Voorlopige Beoordeling de internationale voorlopige beoordeling niet aan vóór de zich het eerst voordoende van de volgende situaties:
+
+- i. voordat zij een afschrift van de wijzigingen ingevolge artikel 19 heeft ontvangen;
+
+- ii. voordat zij een kennisgeving van de aanvrager heeft ontvangen dat hij geen wijzigingen ingevolge artikel 19 wenst door te voeren; of
+
+- iii. het verstrijken van de toepasselijke termijn ingevolge Regel 46.1
+
+- e. Wanneer de verklaring betreffende wijzigingen een vermelding bevat dat er wijzigingen ingevolge artikel 34 worden ingediend met het verzoek (Regel 53.9 c), maar er in feite geen wijzigingen ingevolge artikel 34 zijn ingediend, begint de Instantie voor de Internationale Voorlopige Beoordeling niet met de internationale voorlopige beoordeling voordat zij de wijzigingen heeft ontvangen of voordat de termijn vastgesteld in de in Regel 60.1 g bedoelde uitnodiging is verstreken, naar gelang van welke datum het eerst valt.
+
+69.2. **Termijn voor de internationale voorlopige beoordeling**
+
+De termijn voor het opstellen van het verslag van de internationale voorlopige beoordeling is van een van de volgende tijdvakken degene die het laatst verstrijkt:
+
+- i. 28 maanden te rekenen van de datum van voorrang, of
+
+- ii. zes maanden, te rekenen vanaf het tijdstip ingevolge Regel 69.1 voor de aanvang van de internationale voorlopige beoordeling; of
+
+- iii. zes maanden te rekenen van de datum van ontvangst door de Instantie voor de Internationale Voorlopige Beoordeling van de ingevolge Regel 55.2 verstrekte vertaling,
+
+## DEEL D. Regels betreffende hoofdstuk III van het Verdrag
+
+## DEEL E. Regels betreffende hoofdstuk V van het Verdrag
+
+## DEEL F. Regels betreffende verscheidene hoofdstukken van het Verdrag
+
+IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Treaty.
+
+DONE at Washington, on June 19, 1970.
+
+##### Regel 12bis. Afschrift van uitkomsten van eerder nieuwheidsonderzoek en van eerdere aanvrage; vertaling
+
+12bis.1. **Afschrift van uitkomsten van eerder nieuwheidsonderzoek en van eerdere aanvrage; vertaling**
+
+- a. Indien de aanvrager de Instantie voor Internationaal Nieuwheidsonderzoek ingevolge Regel 4.12 heeft verzocht de uitkomsten van een eerder nieuwheidsonderzoek verricht door dezelfde of een andere Instantie voor Internationaal Nieuwheidsonderzoek of door een nationaal bureau in aanmerking te nemen, overlegt de aanvrager, onverminderd de paragrafen c tot en met f, aan het ontvangende bureau, tezamen met de internationale aanvrage, een afschrift van de uitkomsten van het eerdere nieuwheidsonderzoek, ongeacht in welke vorm (bijvoorbeeld in de vorm van een verslag van het nieuwheidsonderzoek, een overzicht van de aangehaalde stand van de techniek of een verslag van de beoordeling) zij door de betreffende Instantie of het betreffende bureau worden gepresenteerd.
+
+- b. De Instantie voor Internationaal Nieuwheidsonderzoek kan, onverminderd de paragrafen c tot en met f, de aanvrager uitnodigen binnen een gelet op de omstandigheden redelijke termijn het volgende in te dienen:
+
+- i. een afschrift van de desbetreffende eerdere aanvrage;
+
+- ii. indien de eerdere aanvrage is gesteld in een taal die niet wordt aanvaard door de Instantie voor Internationaal Nieuwheidsonderzoek, een vertaling van de eerdere aanvrage in een taal die door die Instantie wordt aanvaard;
+
+- iii. indien de uitkomsten van het eerdere nieuwheidsonderzoek zijn gesteld in een taal die niet wordt aanvaard door de Instantie voor Internationaal Nieuwheidsonderzoek, een vertaling van die uitkomsten in een taal die door die Instantie wordt aanvaard;
+
+- iv. een afschrift van elk document aangehaald in de uitkomsten van het eerdere nieuwheidsonderzoek.
+
+- c. Indien het eerdere nieuwheidsonderzoek door hetzelfde bureau is verricht als het bureau dat optreedt als het ontvangende bureau, kan de aanvrager in plaats van de in de paragrafen a en b i en iv bedoelde afschriften te overleggen, de wens kenbaar maken dat het ontvangende bureau deze verzorgt en doet toekomen aan de Instantie voor Internationaal Nieuwheidsonderzoek. Een dergelijk verzoek wordt gedaan in het verzoekschrift en het ontvangende bureau kan als voorwaarde stellen dat ten gunste van hem een taks wordt betaald.
+
+- d. Indien het eerdere nieuwheidsonderzoek werd verricht door dezelfde Instantie voor Internationaal Nieuwheidsonderzoek of hetzelfde bureau als de instantie die of het bureau dat optreedt als de Instantie voor Internationaal Nieuwheidsonderzoek, behoeft geen afschrift of vertaling bedoeld in de paragrafen a en b uit hoofde van die paragrafen te worden overgelegd.
+
+- e. Indien het verzoekschrift een verklaring ingevolge Regel 4.12 ii bevat met de strekking dat de internationale aanvrage gelijk is aan, of in hoofdzaak gelijk is aan, de aanvrage ter zake waarvan het eerdere nieuwheidsonderzoek is verricht, of dat de internationale aanvrage gelijk is aan, of in hoofdzaak gelijk is aan, die eerdere aanvrage, met dien verstande dat zij wordt ingediend in een andere taal, behoeft geen afschrift of vertaling bedoeld in de paragrafen b i en ii uit hoofde van die paragrafen te worden overgelegd.
+
+- f. Indien de Instantie voor Internationaal Nieuwheidsonderzoek beschikt over een afschrift of vertaling zoals bedoeld in de paragrafen a en b in een vorm en op een wijze die voor haar aanvaardbaar is, bijvoorbeeld uit een digitaal archief of in de vorm van het voorrangsbewijs, en de aanvrager dat aangeeft in het verzoekschrift, behoeft uit hoofde van die paragrafen geen afschrift of vertaling te worden overgelegd.
+
+##### Regel 13. Eenheid van uitvinding
+
+13.1. **Vereiste**
+
+De internationale aanvrage dient betrekking te hebben op slechts één uitvinding of op een groep van uitvindingen die zodanig onderling verbonden zijn dat zij op één enkele algemene uitvindersgedachte berusten („vereiste van eenheid van uitvinding”).
+
+13.2. **Omstandigheden waarin wordt geacht te zijn voldaan aan het vereiste van eenheid van uitvinding**
+
+Wanneer in een en dezelfde internationale aanvrage de conclusies zijn gericht op een groep van uitvindingen, wordt slechts aan het in Regel 13.1 bedoelde vereiste van eenheid van uitvinding voldaan wanneer er een technisch verband bestaat tussen die uitvindingen bestaande uit één of meer dezelfde of overeenkomstige bijzondere technische kenmerken. Onder de term „bijzondere technische kenmerken” wordt verstaan de technische kenmerken die bepalend zijn voor een bijdrage die elk van de uitvindingen waarop de conclusies zijn gericht, als een geheel beschouwd, vormt ten opzichte van de stand van de techniek.
+
+13.3. **Wijze van concluderen niet bepalend voor de eenheid van uitvinding**
+
+Om te bepalen of een groep van uitvindingen zodanig onderling zijn verbonden dat zij op één enkele algemene uitvindingsgedachte berusten, doet het niet ter zake of de uitvindingen zijn vervat in afzonderlijke conclusies dan wel als varianten zijn opgenomen in één enkele conclusie.
+
+13.4. **Afhankelijke conclusies**
+
+Onverminderd Regel 13.1 is het toegestaan in dezelfde internationale aanvrage een redelijk aantal afhankelijke conclusies op te nemen, gericht op bijzondere vormen van de uitvinding waarop een onafhankelijke conclusie is gericht, zelfs wanneer de kenmerken van een afhankelijke conclusie op zich zelf als een uitvinding zouden kunnen worden beschouwd.
+
+13.5. **Gebruiksmodellen**
+
+Een aangewezen Staat waarin de verlening van een gebruiksmodel wordt verzocht op basis van een internationale aanvrage kan, in plaats van de Regels 13.1 tot en met 13.4, ten aanzien van de in deze Regels geregelde aangelegenheden de bepalingen van zijn nationale wetgeving betreffende gebruiksmodellen toepassen, wanneer de behandeling van de internationale aanvrage in die Staat eenmaal is begonnen, met dien verstande dat de aanvrager ten minste 2 maanden vanaf het verstrijken van de ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) van toepassing zijnde termijn wordt toegestaan om zijn aanvrage aan te passen aan de vereisten van genoemde bepalingen van de nationale wetgeving.
+
+##### Regel 14. De toezendingstaks
+
+14.1. **De toezendingstaks**
+
+- a). Een ontvangend bureau kan verlangen, dat de aanvrager aan en ten behoeve van dat bureau een taks betaalt voor de inontvangstneming van de internationale aanvrage, de toezending van exemplaren aan het Internationale Bureau en de bevoegde Instantie voor Internationaal Nieuwheidsonderzoek en het verrichten van alle andere taken die het, in zijn hoedanigheid van ontvangend bureau, moet verrichten in verband met de internationale aanvrage („toezendingstaks”).
+
+- b). Het bedrag van de eventuele toezendingstaks wordt vastgesteld door het ontvangende bureau.
+
+- c). De toezendingstaks dient binnen een maand na de datum van ontvangst van de internationale aanvrage te worden betaald. Het te betalen bedrag is het bedrag dat van toepassing is op die datum van ontvangst.
+
+##### Regel 15. De internationale indieningstaks
+
+15.1. **De internationale indieningstaks**
+
+Elke internationale aanvrage is onderworpen aan de betaling van een taks ten gunste van het Internationaal Bureau (“internationale indieningstaks”), te innen door het ontvangende bureau.
+
+15.2. **Bedrag**
+
+- a. Het bedrag van de internationale indieningstaks is vermeld in de Taksenschaal.
+
+- b. De internationale indieningstaks dient te worden betaald in de valuta of een van de valuta's die door het ontvangende bureau zijn voorgeschreven (“voorgeschreven valuta”), met dien verstande dat deze taks, wanneer zij door het ontvangende bureau wordt overgemaakt naar het Internationaal Bureau, vrij inwisselbaar dient te zijn in Zwitserse valuta. Het bedrag van de internationale indieningstaks wordt voor elk ontvangend bureau dat betaling van die taks voorschrijft in een andere valuta dan de Zwitserse valuta, door de Directeur-Generaal vastgesteld na overleg met het ontvangende bureau van, of ingevolge Regel 19.1 b. optredend voor, de Staat waarvan de officiële valuta dezelfde is als de voorgeschreven valuta. Het op die manier vastgestelde bedrag zal het equivalent in ronde bedragen zijn van het in de Taksenschaal genoemde bedrag in Zwitserse valuta. Het wordt door het Internationaal Bureau bekendgemaakt aan elk ontvangend bureau dat betaling in die voorgeschreven valuta voorschrijft en in het mededelingenblad gepubliceerd.
+
+- c. Wanneer het bedrag van de internationale indieningstaks vermeld in de Taksenschaal wordt gewijzigd, wordt het daarmee overeenkomende bedrag in de voorgeschreven valuta vanaf dezelfde datum toegepast als het bedrag vermeld in de gewijzigde Taksenschaal.
+
+- d. Wanneer de wisselkoers tussen de Zwitserse valuta en een voorgeschreven valuta anders wordt dan de laatst toegepaste wisselkoers, stelt de Directeur-Generaal het nieuwe bedrag vast in de voorgeschreven valuta, conform door de Algemene Vergadering gegeven richtlijnen. Het nieuw vastgestelde bedrag wordt twee maanden na de datum van publicatie in het mededelingenblad van toepassing, met dien verstande dat het in de tweede zin van paragraaf b. genoemde ontvangende bureau en de Directeur-Generaal een datum kunnen overeenkomen binnen de genoemde periode van twee maanden, in welk geval het genoemde bedrag vanaf die datum van toepassing zal zijn.
+
+15.3. Vervallen.
+
+15.4. **Termijn voor betaling; te betalen bedrag**
+
+De internationale indieningstaks dient binnen een maand na de datum van ontvangst van de internationale aanvrage te worden betaald. Het te betalen bedrag is het bedrag dat van toepassing is op die datum van ontvangst.
+
+15.5. Vervallen.
+
+15.6. **Terugbetaling**
+
+Het ontvangende bureau betaalt de internationale indieningstaks aan de aanvrager terug:
+
+- i. indien de vaststelling ingevolge artikel 11, eerste lid, negatief uitvalt,
+
+- ii. indien de internationale aanvrage wordt ingetrokken of wordt geacht te zijn ingetrokken vóór de toezending van het oorspronkelijke exemplaar aan het Internationaal Bureau, of
+
+- iii. indien vanwege voorschriften met betrekking tot nationale veiligheid de internationale aanvrage niet als zodanig wordt behandeld.
+
+##### Regel 16. De taks voor het nieuwheidsonderzoek
+
+16.1. **Het recht een taks te vragen**
+
+- a). Elke Instantie voor Internationaal Nieuwheidsonderzoek kan verlangen, dat de aanvrager te haren gunste een taks („taks voor het nieuwheidsonderzoek”) betaalt voor het verrichten van het internationale nieuwheidsonderzoek en voor het vervullen van alle andere taken die door het Verdrag en dit Reglement aan Instanties voor Nieuwheidsonderzoek zijn opgedragen.
+
+- b). De taks voor het nieuwheidsonderzoek wordt geïnd door het ontvangende bureau. Genoemde taks is betaalbaar in de valuta of een van de valuta's die door dat bureau zijn voorgeschreven („ontvangend bureau-valuta”), met dien verstande dat, indien een ontvangend bureau-valuta niet die valuta of een van die valuta's is waarin de Instantie voor Internationaal Nieuwheidsonderzoek de genoemde taks heeft vastgesteld („vastgestelde valuta”), deze taks bij overmaking door het ontvangende bureau aan de Instantie voor Internationaal Nieuwheidsonderzoek vrij inwisselbaar dient te zijn in de valuta van de Staat waarin de Instantie voor Internationaal Nieuwheidsonderzoek haar zetel heeft („zetel-valuta”). Het bedrag van de taks voor nieuwheidsonderzoek in een ontvangend bureau-valuta, niet zijnde de vastgestelde valuta, wordt door de Directeur-Generaal vastgesteld na overleg met het ontvangende bureau van, of krachtens Regel 19.1 b optredend voor, de staat waarvan de officiële valuta dezelfde is als de ontvangend bureau-valuta. De op die manier vastgestelde bedragen zijn de equivalenten in ronde bedragen van de door de Instantie voor Internationaal Nieuwheidsonderzoek in de zetel-valuta vastgestelde bedragen. Zij worden door het Internationaal Bureau bekendgemaakt aan elk ontvangend bureau dat betaling in die ontvangend bureau-valuta voorschrijft en in het mededelingenblad gepubliceerd.
+
+- c). Dit onderdeel is nog niet in werking getreden.
+
+- d). Wanneer de wisselkoers tussen de zetel-valuta en een ontvangend bureau-valuta, niet zijnde de vastgestelde valuta of valuta's, anders wordt dan de laatst toegepaste wisselkoers, stelt de Directeur-Generaal het nieuwe bedrag vast in genoemde ontvangend bureau-valuta, conform door de Vergadering gegeven richtlijnen. Het nieuw vastgestelde bedrag wordt twee maanden na de datum van publicatie in het mededelingenblad van toepassing, met dien verstande dat een in de derde zin van paragraaf b genoemd ontvangend bureau en de Directeur-Generaal een datum kunnen overeenkomen binnen de genoemde periode van twee maanden, in welk geval het genoemde bedrag voor dat kantoor vanaf die datum van toepassing zal zijn.
+
+- e). Dit onderdeel is nog niet in werking getreden.
+
+- f). Met betrekking tot de termijn voor betaling van de taks voor nieuwheidsonderzoek en het te betalen bedrag zijn de bepalingen van Regel 15.4 inzake de internationale indieningstaks van overeenkomstige toepassing.
+
+16.2. **Terugbetaling**
+
+Het ontvangende bureau betaalt de taks voor het nieuwheidsonderzoek aan de aanvrager terug:
+
+- i. indien de vaststelling ingevolge artikel 11, eerste lid, negatief uitvalt,
+
+- ii. indien de internationale aanvrage wordt ingetrokken of wordt geacht te zijn ingetrokken vóór de toezending van het exemplaar voor het nieuwheidsonderzoek aan de Instantie voor Internationaal Nieuwheidsonderzoek, of
+
+- iii. indien vanwege voorschriften met betrekking tot nationale veiligheid de internationale aanvrage niet als zodanig wordt behandeld.
+
+16.3. **Gedeeltelijke terugbetaling**
+
+Indien de Instantie voor Internationaal Nieuwheidsonderzoek ingevolge Regel 41.1 de uitkomsten van een eerder nieuwheidsonderzoek in aanmerking neemt bij het verrichten van het internationale nieuwheidsonderzoek, betaalt die Instantie de in verband met de internationale aanvrage betaalde taks voor het nieuwheidsonderzoek terug voor zover en onder de voorwaarden voorzien in de overeenkomst uit hoofde van artikel 16, derde lid, onder b.
+
+##### Regel 17. Het voorrangsbewijs
+
+17.1. **Verplichting een afschrift van een eerdere nationale of internationale aanvrage over te leggen**
+
+- a. Wanneer ingevolge artikel 8 de voorrang op grond van een eerdere nationale of internationale aanvrage wordt ingeroepen, dient een afschrift van die eerdere aanvrage, gewaarmerkt door de instantie waarbij zij was ingediend (“het voorrangsbewijs”), tenzij reeds bij het ontvangende bureau ingediend, tezamen met de internationale aanvrage waarin de voorrang wordt ingeroepen, en met inachtneming van de paragrafen b. en b-**bis**., uiterlijk 16 maanden na de datum van voorrang door de aanvrager aan het Internationaal Bureau of aan het ontvangende bureau te worden overgelegd, met dien verstande dat een afschrift van genoemde eerdere aanvrage dat het Internationaal Bureau ontvangt na het verstrijken van die termijn wordt geacht door dat bureau te zijn ontvangen op de laatste dag van die termijn indien het bureau het ontvangt vóór de datum van internationale publicatie van de internationale aanvrage.
+
+- b. Wanneer het voorrangsbewijs door het ontvangende bureau wordt afgegeven, kan de aanvrager, in plaats van het voorrangsbewijs over te leggen, het ontvangende bureau verzoeken het voorrangsbewijs op te stellen en toe te zenden aan het Internationaal Bureau. Een dergelijk verzoek dient niet later te worden gedaan dan 16 maanden na de datum van voorrang en kan door het ontvangende bureau worden onderworpen aan de betaling van een taks.
+
+- b-bis. Wanneer het ontvangende bureau of het Internationaal Bureau, in overeenstemming met de Administratieve Instructies, via een digitale bibliotheek kan beschikken over het voorrangsbewijs, kan de aanvrager, naar gelang van het geval, in plaats van het voorrangsbewijs over te leggen:
+
+- i. het ontvangende bureau verzoeken het voorrangsbewijs op te vragen uit een dergelijke digitale bibliotheek en het te verzenden aan het Internationaal Bureau; of
+
+- ii. het Internationaal Bureau verzoeken het voorrangsbewijs op te vragen uit een dergelijke digitale bibliotheek. Een dergelijk verzoek dient uiterlijk 16 maanden na de datum van voorrang te worden gedaan en kan door het ontvangende bureau of het Internationaal Bureau worden onderworpen aan de betaling van een taks.
+
+- c. Indien aan geen van de vereisten van de drie voorgaande paragrafen is voldaan, kan een aangewezen bureau met inachtneming van paragraaf d, het beroep op het recht van voorrang buiten beschouwing laten, mits een aangewezen bureau het beroep op het recht van voorrang niet buiten beschouwing laat voordat de aanvrager in de gelegenheid is gesteld het voorrangsbewijs binnen een onder de omstandigheden redelijke termijn te verstrekken.
+
+- d. Een aangewezen bureau mag een beroep op het recht van voorrang ingevolge paragraaf c. niet buiten beschouwing laten, indien de eerdere aanvrage bedoeld in paragraaf a. bij dat bureau in de hoedanigheid van nationaal bureau is ingediend of indien het, in overeenstemming met de Administratieve Instructies, via een digitale bibliotheek over het voorrangsbewijs kan beschikken.
+
+17.2. **Beschikbaarheid van afschriften**
+
+- a). Wanneer de aanvrager heeft voldaan aan Regel 17.1 a, b of b-**bis** verstrekt het Internationale Bureau, op het daartoe strekkende verzoek van het aangewezen bureau, onverwijld maar niet voor de internationale publicatie van de internationale aanvrage, een afschrift van het voorrangsbewijs aan dat bureau. Dat bureau mag de aanvrager niet zelf om een afschrift vragen. De aanvrager is niet verplicht vóór het verstrijken van de desbetreffende termijn krachtens artikel 22 een vertaling te verstrekken aan het aangewezen bureau. Indien de aanvrager voorafgaand aan de internationale publicatie van de internationale aanvrage een uitdrukkelijk verzoek krachtens artikel 23, tweede lid, doet aan het aangewezen bureau, verstrekt het Internationale Bureau na ontvangst van het daartoe strekkende verzoek van het aangewezen bureau onverwijld een afschrift van het voorrangsbewijs aan dat bureau.
+
+- b). Het Internationale Bureau stelt geen afschriften van het voorrangsbewijs ter beschikking van het publiek voor de internationale publikatie van de internationale aanvrage.
+
+- c). Wanneer de internationale aanvrage is gepubliceerd ingevolge artikel 21, verstrekt het Internationaal Bureau een ieder, op diens verzoek, een afschrift van het voorrangsbewijs tegen vergoeding van de kosten, tenzij, vóór die publicatie:
+
+- i. de internationale aanvrage werd ingetrokken,
+
+- ii. het desbetreffende beroep op een recht van voorrang werd ingetrokken of, ingevolge Regel 26bis 2 b, als niet gedaan werd beschouwd.
+
+##### Regel 18. De aanvrager
+
+18.1. **Woonplaats en nationaliteit**
+
+- a. Onverminderd het in de paragrafen b en c bepaalde, is de vraag of een aanvrager inwoner of onderdaan is van de Verdragsluitende Staat waarvan hij beweert inwoner of onderdaan te zijn, afhankelijk van de nationale wetgeving van die Staat en wordt hierover beslist door het ontvangende bureau.
+
+- b. In elk geval,
+
+- i. wordt het hebben van een daadwerkelijke en wezenlijke inrichting van nijverheid of handel in een Verdragsluitende Staat als bewijs van woonplaats in die Staat beschouwd, en
+
+- ii. wordt een rechtspersoon, opgericht volgens de nationale wetgeving van een Verdragsluitende Staat, als onderdaan van die Staat beschouwd.
+
+- c. Wanneer de internationale aanvrage wordt ingediend bij het Internationale Bureau dat als ontvangend bureau fungeert, verzoekt het Internationale Bureau, in de in de Administratieve Instructies genoemde omstandigheden, het nationale bureau van, of dat optreedt voor, de betrokken Verdragsluitende Staat te beslissen over de in paragraaf a bedoelde vraag. Het Internationale Bureau stelt de aanvrager van een eventueel verzoek hiertoe in kennis. De aanvrager dient de mogelijkheid te hebben rechtstreeks aan het nationale bureau argumenten voor te leggen. Het nationale bureau beslist onverwijld over deze vraag.
+
+18.2. Vervallen.
+
+18.3. **Meer dan één aanvrager**
+
+Indien er meer dan één aanvrager is, bestaat het recht tot het indienen van een internationale aanvrage indien ten minste één van hen ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=9&z=2008-07-01&g=2008-07-01) bevoegd is een internationale aanvrage in te dienen.
+
+18.4. **Gegevens over voorwaarden met betrekking tot aanvragers op grond van nationale wetgeving**
+
+- a). De internationale aanvrage kan verschillende aanvragers vermelden voor verschillende aangewezen Staten mits ten aanzien van elke aangewezen Staat ten minste één van de voor die Staat vermelde aanvragers ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=9&z=2008-07-01&g=2008-07-01) bevoegd is een internationale aanvrage in te dienen.
+
+- b). Indien aan het vereiste van paragraaf **a)** niet is voldaan ten aanzien van een aangewezen Staat, wordt de aanwijzing van die Staat als niet gedaan beschouwd.
+
+- c). Het internationale Bureau publiceert van tijd tot tijd gegevens over de verschillende nationale wetgevingen met betrekking tot de vraag wie bevoegd is (uitvinder, rechtsopvolger van de uitvinder, rechthebbende op de uitvinding of anderen) een nationale aanvrage in te dienen en voegt aan deze gegevens een waarschuwing toe dat de rechtsgevolgen van de internationale aanvrage in een aangewezen Staat kunnen afhangen van het feit of de in de internationale aanvrage voor die Staat als aanvrager vermelde persoon een persoon is die, ingevolge de nationale wetgeving van die Staat, bevoegd is een nationale aanvrage in te dienen.
+
+##### Regel 19. Het bevoegde ontvangende bureau
+
+19.1. **Waar in te dienen**
+
+- a). Behoudens het in paragraaf b bepaalde, wordt de internationale aanvrage, naar keuze van de aanvrager, ingediend,
+
+- i. bij het nationale bureau van, of dat optreedt voor, de Verdragsluitende Staat waarvan de aanvrager inwoner is,
+
+- ii. bij het nationale bureau van, of dat optreedt voor, de Verdragsluitende Staat waarvan de aanvrager onderdaan is, of
+
+- iii. ongeacht de Verdragsluitende Staat waarvan de aanvrager inwoner of onderdaan is, bij het Internationale Bureau.
+
+- b). Een Verdragsluitende Staat kan met een andere Verdragsluitende Staat of een intergouvernementele organisatie overeenkomen, dat het nationale bureau van laatstgenoemde Staat of de intergouvernementele organisatie voor alle of enkele aangelegenheden in plaats van het nationale bureau van de eerstgenoemde Staat optreedt als ontvangend bureau voor aanvragers die inwoner of onderdaan van die eerstgenoemde Staat zijn. Niettegenstaande een zodanige overeenkomst wordt het nationale bureau van de eerstgenoemde Staat beschouwd als het bevoegde ontvangende bureau voor de toepassing van artikel 15, vijfde lid.
+
+- c). In verband met besluiten genomen ingevolge artikel 9, tweede lid, wijst de Algemene Vergadering aan het nationale bureau dat, of de intergouvernementele organisatie die zal optreden als ontvangend bureau voor aanvragen van inwoners of onderdanen van door de Algemene Vergadering aangegeven Staten. Voor een zodanige aanwijzing is de voorafgaande toestemming van het genoemde nationaal bureau of de genoemde intergouvernementele organisatie vereist.
+
+19.2. **Meer dan één aanvrager**
+
+Indien er meer dan één aanvrager is:
+
+- i. wordt aan de vereisten van Regel 19.1 geacht te zijn voldaan indien het nationale bureau waarbij de internationale aanvrage is ingediend, het nationale bureau is van, of dat optreedt voor, een Verdragsluitende Staat waarvan ten minste één van de aanvragers inwoner of onderdaan is;
+
+- ii. kan de internationale aanvrage worden ingediend bij het Internationale Bureau ingevolge Regel 19.1 a iii, indien ten minste één van de aanvragers inwoner of onderdaan is van een Verdragsluitende Staat.
+
+19.3. **Bekendmaking van delegatie van de taken van het ontvangende bureau**
+
+- a). Van een overeenkomst zoals bedoeld in Regel 19.1**b)** wordt door de Verdragsluitende Staat die de taken van het ontvangende bureau delegeert aan het nationale bureau van of optredend voor een andere gsluitende Staat of een intergouvernementele organisatie, onverwijld kennis gegeven aan het Internationale Bureau.
+
+- b). Het Internationale Bureau maakt de kennisgeving onverwijld na ontvangst bekend in het mededelingenblad.
+
+19.4. **Toezending aan het Internationaal Bureau als ontvangend bureau**
+
+- a. Wanneer een internationale aanvrage wordt ingediend bij een nationaal bureau dat ingevolge het Verdrag optreedt als ontvangend bureau, maar
+
+- i. dat nationale bureau ingevolge Regel 19.1 of 19.2 niet bevoegd is om die internationale aanvrage te ontvangen, of
+
+- ii. die internationale aanvrage niet in een taal is gesteld die ingevolge Regel 12.1 a door dat nationale bureau wordt geaccepteerd, maar in een taal die ingevolge die Regel door het Internationaal Bureau als ontvangende bureau wordt geaccepteerd, of
+
+- iii. dat nationale bureau en het Internationaal Bureau, om redenen anders dan die welke in i en ii zijn genoemd en met toestemming van de aanvrager, overeenkomen dat de procedure ingevolge deze Regel van toepassing is, dan wordt die internationale aanvrage, met inachtneming van paragraaf b, geacht te zijn ontvangen door dat bureau namens het Internationaal Bureau als ontvangend bureau ingevolge Regel 19.1 a iii.
+
+- b. Wanneer ingevolge paragraaf a een internationale aanvrage door een nationaal bureau wordt ontvangen namens het Internationale Bureau dat fungeert als ontvangend bureau ingevolge Regel 19.1 a iii, zendt dat nationale bureau de internationale aanvrage onverwijld toe aan het Internationale Bureau, tenzij voorschriften inzake de nationale veiligheid zulks beletten. Deze toezending kan door het nationale bureau afhankelijk worden gesteld van de betaling van een taks, ten gunste van dat bureau, die gelijk is aan de toezendingstaks die dat bureau int ingevolge Regel 14. De aldus toegezonden internationale aanvrage wordt geacht te zijn ontvangen door het Internationale Bureau dat fungeert als ontvangend bureau ingevolge Regel 19.1 a iii, op de datum van ontvangst van de internationale aanvrage door dat nationale bureau.
+
+- c. Voor de toepassing van de Regels 14.1 c., 15.4 en 16.1 f. wordt, wanneer de internationale aanvrage ingevolge paragraaf b. is verzonden aan het Internationaal Bureau, de datum waarop de internationale aanvrage daadwerkelijk door het Internationaal Bureau werd ontvangen beschouwd als de datum van ontvangst van de internationale aanvrage. Voor de toepassing van deze paragraaf is de laatste zin van paragraaf b. niet van toepassing.
+
+##### Regel 20. Datum van internationale indiening
+
+20.1. **Vaststelling ingevolge artikel 11, eerste lid**
+
+- a. Onverwijld na de ontvangst van de bescheiden die bedoeld zijn als een internationale aanvrage, stelt het ontvangende bureau vast of deze voldoen aan de vereisten van artikel 11, eerste lid.
+
+- b. Voor de toepassing van artikel 11, eerste lid, iii, onder c, kan volstaan worden met het vermelden van de naam van de aanvrager op een wijze die het mogelijk maakt de identiteit van de aanvrager vast te stellen, zelfs wanneer de naam verkeerd is gespeld, de voornamen niet volledig zijn vermeld, of, in het geval van rechtspersonen, de naamsaanduiding afgekort of onvolledig is.
+
+- c. Voor de toepassing van artikel 11, eerste lid, onder ii, is het voldoende dat het deel dat een beschrijving lijkt te zijn (niet zijnde een sequentie-opsommingsdeel daarvan) en het deel dat een conclusie of conclusies lijkt te zijn, zijn gesteld in een door het ontvangende bureau ingevolge Regel 12.1 a geaccepteerde taal.
+
+- d. Indien paragraaf c op 1 oktober 1997 niet verenigbaar is met de door het ontvangende bureau toegepaste nationale wetgeving, is paragraaf c niet van toepassing op dat ontvangende bureau zolang deze bepaling niet verenigbaar is met die wetgeving, mits genoemd bureau het Internationale Bureau hiervan in kennis stelt voor 31 december 1997. De ontvangen informatie wordt door het Internationale Bureau onverwijld gepubliceerd in het mededelingenblad.
+
+20.2. **Positieve vaststelling ingevolge artikel 11, eerste lid**
+
+- a. Indien het ontvangende bureau op het tijdstip van de ontvangst van de bescheiden die bedoeld zijn als een internationale aanvrage vaststelt dat aan de vereisten van artikel 11, eerste lid, is voldaan, kent het ontvangende bureau de datum van ontvangst van de internationale aanvrage toe als de datum van internationale indiening.
+
+- b. Het ontvangende bureau stempelt het verzoekschrift van de internationale aanvrage waaraan het een datum van internationale indiening heeft toegekend zoals voorgeschreven in de Administratieve Instructies. Het aldus gestempelde exemplaar van het verzoekschrift is het oorspronkelijke exemplaar van de internationale aanvrage.
+
+- c. Het ontvangende bureau stelt de aanvrager onverwijld in kennis van het nummer van de internationale aanvrage en datum van internationale indiening. Op hetzelfde tijdstip zendt het het Internationale Bureau een afschrift van de kennisgeving toe die aan de aanvrager is gezonden, tenzij het het oorspronkelijke exemplaar ingevolge Regel 22.1 a reeds aan het Internationale Bureau heeft gezonden of dat op hetzelfde tijdstip verzendt.
+
+20.3. **Gebreken ingevolge artikel 11, eerste lid**
+
+- a. Indien bij het bepalen of de bescheiden die bedoeld zijn als een internationale aanvrage voldoen aan de vereisten van artikel 11, eerste lid, het ontvangende bureau vaststelt dat niet aan alle vereisten van artikel 11, eerste lid, is of lijkt te zijn voldaan, nodigt het de aanvrager uit om, naar keuze van de aanvrager:
+
+- i. de benodigde verbetering ingevolge artikel 11, tweede lid, te verstrekken; of
+
+- ii. indien de desbetreffende vereisten een element als bedoeld in artikel 11, eerste lid, iii, onder d of e, betreffen, in overeenstemming met Regel 20.6 a te bevestigen dat het element is opgenomen door middel van verwijzing ingevolge Regel 4.18; en eventueel bezwaar te maken binnen de van toepassing zijnde termijn ingevolge Regel 20.7. Indien deze termijn verstrijkt na afloop van 12 maanden na de datum van indiening van een aanvrage waarvoor een beroep op een recht van voorrang wordt gedaan, brengt het ontvangende bureau dit onder de aandacht van de aanvrager.
+
+- b. Indien naar aanleiding van een uitnodiging ingevolge paragraaf a of anderszins:
+
+- i. de aanvrager het ontvangende bureau de vereiste verbetering verstrekt overeenkomstig artikel 11, tweede lid, na de datum van ontvangst van de beoogde internationale aanvrage maar op een latere datum binnen de van toepassing zijnde termijn overeenkomstig Regel 20.7, kent het ontvangende bureau die latere datum toe als de datum van internationale indiening en handelt het zoals voorzien in Regel 20.2, b en c;
+
+- ii. een element bedoeld in artikel 11, eerste lid, iii, onder d of e, ingevolge Regel 20.6 b wordt beschouwd als zijnde vervat in de internationale aanvrage vanaf de datum waarop een of meer elementen als bedoeld in artikel 11, eerste lid, onder iii, voor het eerst werden ontvangen door het ontvangende bureau, kent het ontvangende bureau de datum waarop aan alle vereisten van artikel 11, eerste lid, is voldaan toe als datum van internationale indiening en handelt het zoals voorzien in Regel 20.2 b en c.
+
+- c. Indien het ontvangende bureau later ontdekt of op grond van het antwoord van de aanvrager vaststelt dat het ten onrechte een uitnodiging ingevolge paragraaf a heeft gedaan, aangezien voldaan was aan de vereisten van artikel 11, eerste lid, toen de bescheiden werden ontvangen, dient het te handelen zoals voorzien in Regel 20.2.
+
+20.4. **Negatieve vaststelling ingevolge artikel 11, eerste lid**
+
+Indien het ontvangende bureau niet binnen de van toepassing zijnde termijn ingevolge Regel 20.7, een verbetering of bevestiging heeft ontvangen zoals bedoeld in Regel 20.3 a of indien een verbetering of bevestiging ontvangen is, maar de aanvrage nog niet voldoet aan de vereisten van artikel 11, eerste lid, dient het ontvangende bureau:
+
+- i. de aanvrager er onverwijld van in kennis te stellen dat de aanvrage niet wordt en niet zal worden behandeld als een internationale aanvrage en de redenen daarvoor te vermelden;
+
+- ii. het Internationale Bureau ervan in kennis te stellen dat het nummer dat het op de bescheiden heeft aangetekend niet als een nummer van een internationale aanvrage zal worden gebruikt;
+
+- iii. de bescheiden die de als internationaal bedoelde aanvrage vormen en daarop betrekking hebbende correspondentie te bewaren zoals voorzien in Regel 93.1; en
+
+- iv. een afschrift van de genoemde bescheiden te zenden aan het Internationale Bureau, naar aanleiding van een verzoek door de aanvrager ingevolge artikel 25, eerste lid, wanneer het Internationale Bureau een dergelijk afschrift nodig heeft en daar speciaal om verzoekt.
+
+20.5. **Ontbrekende onderdelen**
+
+- a. Indien het ontvangende bureau bij het bepalen of de bescheiden die bedoeld zijn als een internationale aanvrage voldoen aan de vereisten van artikel 11, eerste lid, vaststelt dat een deel van de beschrijving, conclusies of tekeningen ontbreekt of lijkt te ontbreken, met inbegrip van de gevallen waarin alle tekeningen ontbreken of lijken te ontbreken, evenwel met uitzondering van de gevallen waarin een volledig element zoals bedoeld in artikel 11, eerste lid, iii, onder d of e, ontbreekt of lijkt te ontbreken, nodigt het de aanvrager onverwijld uit, naar keuze van de aanvrager: en eventueel binnen de van toepassing zijnde termijn ingevolge Regel 20.7 bezwaar te maken. Indien deze termijn verstrijkt na het verstrijken van 12 maanden na de datum van indiening van een aanvrage waarvoor een beroep op een recht van voorrang wordt gedaan, brengt het ontvangende bureau dat onder de aandacht van de aanvrager.
+
+- i. de als internationaal bedoelde aanvrage te voltooien door het ontbrekende onderdeel te verstrekken; of
+
+- ii. in overeenstemming met Regel 20.6 a te bevestigen dat het onderdeel overeenkomstig Regel 4.18 was opgenomen door middel van verwijzing;
+
+- b. Indien de aanvrager naar aanleiding van een uitnodiging uit hoofde van paragraaf a of anderszins, het ontvangende bureau op of voor de datum waarop aan alle vereisten van artikel 11, eerste lid, is voldaan en binnen de van toepassing zijnde termijn ingevolge Regel 20.7 een ontbrekend onderdeel zoals bedoeld in paragraaf a verstrekt teneinde de internationale aanvrage te voltooien, wordt dat onderdeel opgenomen in de aanvrage en kent het ontvangende bureau de datum waarop aan alle vereisten van artikel 11, eerste lid, is voldaan als datum van internationale indiening toe, en handelt zoals voorzien in Regel 20.2 b en c.
+
+- c. Indien de aanvrager naar aanleiding van een uitnodiging uit hoofde van paragraaf a of anderszins, het ontvangende bureau na de datum waarop aan alle vereisten van artikel 11, eerste lid, is voldaan en binnen de van toepassing zijnde termijn ingevolge Regel 20.7 een ontbrekend onderdeel zoals bedoeld in paragraaf a verstrekt teneinde de internationale aanvrage te voltooien, wordt dat onderdeel opgenomen in de aanvrage en wijzigt het ontvangende bureau de datum van internationale indiening in de datum waarop het dat onderdeel heeft ontvangen, stelt de aanvrager dienovereenkomstig in kennis en handelt zoals voorzien in de Administratieve Instructies.
+
+- d. Indien naar aanleiding van een uitnodiging ingevolge paragraaf a of anderszins een onderdeel bedoeld in paragraaf a, ingevolge Regel 20.6 b wordt beschouwd als zijnde vervat in de als internationaal bedoelde aanvrage vanaf de datum waarop een of meer elementen als bedoeld in artikel 11, eerste lid, iii, voor het eerst werden ontvangen door het ontvangende bureau, kent het ontvangende bureau de datum waarop aan alle vereisten van artikel 11, eerste lid, is voldaan toe als datum van internationale indiening en handelt zoals voorzien in Regel 20.2 b en c.
+
+- e. Indien de datum van internationale indiening verbeterd is ingevolge paragraaf c, kan de aanvrager in een kennisgeving aan het ontvangende bureau binnen een maand na de datum van de kennisgeving ingevolge paragraaf c, het ontvangende bureau verzoeken het ontbrekende onderdeel te negeren, in welk geval het ontbrekende onderdeel geacht wordt niet te zijn verstrekt en de datum van internationale indiening uit hoofde van die paragraaf niet te zijn verbeterd en handelt het ontvangende bureau zoals voorzien in de Administratieve Instructies.
+
+20.6. **Bevestiging van opneming van elementen en onderdelen door middel van verwijzing**
+
+- a. De aanvrager kan bij het ontvangende bureau binnen de van toepassing zijnde termijn ingevolge Regel 20.7 een schriftelijke kennisgeving indienen teneinde te bevestigen dat een element of onderdeel door middel van verwijzing ingevolge Regel 4.18 is opgenomen in de internationale aanvrage, vergezeld van:
+
+- i. een blad dat of bladen die het volledige element belichamen zoals vervat in de eerdere aanvrage of het desbetreffende deel vertegenwoordigen;
+
+- ii. indien de aanvrager niet reeds heeft voldaan aan Regel 17.1 a of b-**bis** met betrekking tot het voorrangsbewijs, een afschrift van de eerdere aanvrage zoals ingediend;
+
+- iii. indien de eerdere aanvrage niet in de taal gesteld is waarin de internationale aanvrage is ingediend, een vertaling van de eerdere aanvrage in die taal of, indien een vertaling van de internationale aanvrage vereist is ingevolge Regel 12.3 a of 12.4 a, een vertaling van de eerdere aanvrage in zowel de taal waarin de internationale aanvrage is ingediend als de taal van die vertaling; en
+
+- iv. in het geval van een deel van de beschrijving, conclusies of tekeningen, een aanduiding waar dat onderdeel is opgenomen in de eerdere aanvrage en, indien van toepassing, in een eventuele vertaling zoals bedoeld onder iii.
+
+- b. Indien het ontvangende bureau vaststelt dat voldaan is aan de vereisten van Regel 4.18 en paragraaf a en dat het element of onderdeel bedoeld in paragraaf a volledig opgenomen is in de desbetreffende eerdere aanvrage, wordt dat element of onderdeel beschouwd als zijnde vervat in de als internationaal bedoelde aanvrage vanaf de datum waarop een of meer elementen bedoeld in artikel 11, eerste lid, iii, voor het eerst werden ontvangen door het ontvangende bureau.
+
+- c. Indien het ontvangende bureau vaststelt dat niet voldaan is aan een vereiste uit hoofde van Regel 4.18 of paragraaf a of dat het element of onderdeel bedoeld in paragraaf a niet volledig vervat is in de desbetreffende eerdere aanvrage, handelt het ontvangende bureau zoals voorzien in Regel 20.3 b i, 20.5 b of 20.5 c, al naargelang van het geval.
+
+20.7. **Termijn**
+
+- a. De van toepassing zijnde termijn bedoeld in de Regels 20.3 a en b, 20.4, 20.5 a, b en c en 20.6 a is:
+
+- i. indien een uitnodiging ingevolge Regel 20.3 a of 20.5 a, indien van toepassing, aan de aanvrager is verzonden, twee maanden te rekenen vanaf de datum van de uitnodiging;
+
+- ii. indien een dergelijke uitnodiging niet aan de aanvrager is verzonden, twee maanden vanaf de datum waarop een of meer elementen zoals bedoeld in artikel 11, eerste lid, iii, voor het eerst werden ontvangen door het ontvangende bureau.
+
+- b. Indien een verbetering uit hoofde van artikel 11, tweede lid, of een kennisgeving ingevolge Regel 20.6 a ter bevestiging van de opneming door verwijzing van een element bedoeld in artikel 11, eerste lid, iii, onder d of e, wordt ontvangen door het ontvangende bureau na het verstrijken van de van toepassing zijnde termijn ingevolge paragraaf a maar voordat het bureau de aanvrager ingevolge Regel 20.4 i een kennisgeving toezendt, wordt die verbetering of kennisgeving geacht binnen die termijn te zijn ontvangen.
+
+20.8. **Onverenigbaarheid met de nationale wetgeving**
+
+- a. Indien een van de Regels 20.3 a ii en b ii, 20.5 a ii en d en 20.6 op 5 oktober 2005 niet verenigbaar is met de door het ontvangende bureau toegepaste nationale wetgeving, is de desbetreffende Regel niet van toepassing op een internationale aanvrage die bij dat ontvangende bureau is ingediend zolang deze niet verenigbaar is met die wetgeving, mits genoemd bureau het Internationale Bureau hiervan in kennis stelt voor 5 april 2006. De ontvangen informatie wordt door het Internationale Bureau onverwijld gepubliceerd in het mededelingenblad.
+
+- a-bis. Wanneer een ontbrekend element of deel niet ingevolge Regel 4.18 en 20.6 door middel van verwijzing in de internationale aanvrage kan worden opgenomen vanwege de toepassing van paragraaf a van deze Regel, handelt het ontvangende bureau zoals voorzien in Regel 20.3 b i, 20.5 b of 20.5 c, al naargelang van het geval. Wanneer het ontvangende bureau handelt zoals voorzien in Regel 20.5 c, mag de aanvrager handelen zoals voorzien in Regel 20.5 e.
+
+- b. Indien een van de Regels 20.3 a ii en b ii, 20.5 a ii en d en 20.6 op 5 oktober 2005 niet verenigbaar is met de door het aangewezen bureau toegepaste nationale wetgeving, is de desbetreffende Regel niet van toepassing op dat bureau ter zake van een internationale aanvrage waarvoor de in artikel 22 bedoelde handelingen zijn verricht voor dat bureau, zolang deze niet verenigbaar is met die wetgeving, mits genoemd bureau het Internationale Bureau hiervan in kennis stelt voor 5 april 2006. De ontvangen informatie wordt door het Internationale Bureau onverwijld gepubliceerd in het mededelingenblad.
+
+- c. Wanneer een element of deel door middel van verwijzing geacht wordt te zijn opgenomen in de internationale aanvrage uit hoofde van een vaststelling van het ontvangende bureau ingevolge Regel 20.6 b, maar deze opneming door verwijzing niet van toepassing is op de internationale aanvrage ten behoeve van een procedure voor een aangewezen bureau vanwege de toepassing van paragraaf b van deze Regel, kan het aangewezen bureau de aanvrage behandelen als was de datum van internationale indiening toegekend ingevolge Regel 20.3 b i of 20.5 b, of verbeterd ingevolge Regel 20.5 c, al naargelang van het geval, met dien verstande dat Regel 82**ter**.1 c en d van overeenkomstige toepassing zijn.
+
+##### Regel 21. Het maken van afschriften
+
+21.1. **Verantwoordelijkheid van het ontvangende bureau**
+
+- a). Wanneer de internationale aanvrage in één exemplaar moet worden ingediend, is het ontvangende bureau verantwoordelijk voor het maken van het ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=12&z=2008-07-01&g=2008-07-01), vereiste archiefexemplaar en het exemplaar voor het nieuwheidsonderzoek.
+
+- b). Wanneer de internationale aanvrage in twee exemplaren moet worden ingediend, is het ontvangende bureau verantwoordelijk voor het maken van het archiefexemplaar.
+
+- c). Indien de internationale aanvrage in minder exemplaren is ingediend dan het ingevolge [Regel 11.1 **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=11&z=2008-07-01&g=2008-07-01) vereiste aantal is het ontvangende bureau verantwoordelijk voor de onverwijlde vervaardiging van het aantal exemplaren en heeft het het recht voor het verrichten van deze taak een taks vast te stellen en deze van de aanvrager te innen.
+
+21.2. **Gewaarmerkt afschrift voor de aanvrager**
+
+Tegen betaling van een taks verstrekt het ontvangende bureau de aanvrager op verzoek gewaarmerkte afschriften van de internationale aanvrage zoals ingediend en van eventuele verbeteringen daarvan.
+
+##### Regel 22. Toezending van het oorspronkelijke exemplaar en de vertaling
+
+22.1. **Procedure**
+
+- a). Indien de vaststelling ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=11&z=2008-07-01&g=2008-07-01), positief uitvalt en tenzij voorschriften betreffende de nationale veiligheid beletten, dat de internationale aanvrage als zodanig wordt behandeld, zendt het ontvangende bureau het oorspronkelijke exemplaar toe aan het Internationale Bureau. Deze toezending geschiedt onverwijld na ontvangst van de internationale aanvrage of, indien een controle voor de bescherming van de nationale veiligheid moet worden verricht, zodra de vereiste toestemming is verkregen. In elk geval zendt het ontvangende bureau het oorspronkelijke exemplaar zo tijdig toe dat het het Internationale Bureau bereikt bij het verstrijken van de 13de maand vanaf de datum van voorrang. Indien de toezending per post geschiedt, dient het ontvangende bureau het oorspronkelijke exemplaar uiterlijk 5 dagen voor het verstrijken van de 13de maand vanaf de datum van voorrang te verzenden.
+
+- b). Indien het Internationale Bureau een afschrift van de kennisgeving ingevolge [Regel 20.2 c](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=20&z=2008-07-01&g=2008-07-01) heeft ontvangen, maar na het verstrijken van 13 maanden na de datum van voorrang niet in het bezit is van het oorspronkelijke exemplaar, herinnert het het ontvangende bureau eraan dat het het oorspronkelijke exemplaar onverwijld naar het Internationale Bureau dient te zenden.
+
+- c). Indien het Internationale Bureau een afschrift van de kennisgeving ingevolge [Regel 20.2 c](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=20&z=2008-07-01&g=2008-07-01) heeft ontvangen, maar na het verstrijken van 14 maanden na de datum van voorrang niet in het bezit is van het oorspronkelijke exemplaar, stelt het de aanvrager en het ontvangende bureau daarvan in kennis.
+
+- d). Na het verstrijken van 14 maanden, te rekenen van de datum van voorrang, kan de aanvrager het ontvangende bureau verzoeken een afschrift van zijn internationale aanvrage te waarmerken als zijnde gelijkluidend aan de ingediende internationale aanvrage en kan hij een dergelijk gewaarmerkt afschrift toezenden aan het Internationale Bureau.
+
+- e). Een waarmerking ingevolge paragraaf d) is kosteloos en kan slechts op een van de volgende gronden worden geweigerd:
+
+- (i). het afschrift welke het ontvangende bureau is verzocht te waarmerken, is niet gelijkluidend aan de ingediende internationale aanvrage;
+
+- (ii). voorschriften betreffende de nationale veiligheid beletten, dat de internationale aanvrage als zodanig wordt behandeld;
+
+- (iii). het ontvangende bureau heeft reeds het oorspronkelijke exemplaar toegezonden aan het Internationale Bureau en dit Bureau heeft het ontvangende bureau ervan in kennis gesteld dat het het oorspronkelijke exemplaar heeft ontvangen.
+
+- f). Tenzij het Internationale Bureau het oorspronkelijke exemplaar heeft ontvangen, of tot het het oorspronkelijke exemplaar ontvangt, wordt het ingevolge paragraaf e) gewaarmerkte en door het Internationale Bureau ontvangen afschrift beschouwd als zijnde het oorspronkelijke exemplaar.
+
+- g). Indien, bij het aflopen van de termijn van toepassing ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01), de aanvrager de handelingen als bedoeld in dat artikel heeft verricht, maar het aangewezen bureau niet in kennis is gesteld door het Internationale Bureau van de ontvangst van het oorspronkelijke exemplaar, brengt het aangewezen bureau het Internationale Bureau daarvan op de hoogte. Indien het Internationale Bureau niet in het bezit is van het oorspronkelijke exemplaar, stelt het onverwijld de aanvrager en het ontvangende bureau daarvan in kennis, tenzij het deze ingevolge paragraaf c) daarvan reeds op de hoogte heeft gesteld.
+
+- h). Wanneer de internationale aanvrage moet worden gepubliceerd in de taal van een ingevolge [Regel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=12&z=2008-07-01&g=2008-07-01) of 12.4 verstrekte vertaling, wordt die vertaling door het ontvangende bureau aan het Internationaal Bureau toegezonden, tezamen met het oorspronkelijke exemplaar ingevolge paragraaf a of, indien het ontvangende bureau het oorspronkelijke exemplaar reeds ingevolge die paragraaf aan het Internationaal Bureau heeft verzonden, zo spoedig mogelijk na ontvangst van de vertaling.
+
+22.2. Vervallen.
+
+22.3. **Termijn ingevolge artikel 12, derde lid**
+
+De termijn genoemd in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=12&z=2008-07-01&g=2008-07-01), beloopt 3 maanden te rekenen van de datum van de kennisgeving gezonden door het Internationale Bureau aan de aanvrager ingevolge Regel 22.1 c) of g).
+
+##### Regel 23. Toezending van het exemplaar voor het nieuwheidsonderzoek, de vertaling en de sequentie-opsomming
+
+23.1. **Procedure**
+
+- a. Wanneer een vertaling van de internationale aanvrage niet vereist is ingevolge [Regel 12.3 a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=12&z=2008-07-01&g=2008-07-01), dient het exemplaar voor het nieuwheidsonderzoek uiterlijk op de dag waarop het oorspronkelijke exemplaar wordt toegezonden aan het Internationaal Bureau, door het ontvangende bureau te worden toegezonden aan de Instantie voor Internationaal Nieuwheidsonderzoek, tenzij er geen taks voor het nieuwheidsonderzoek is betaald. In laatstbedoeld geval wordt het zo spoedig mogelijk na de betaling van de taks voor het nieuwheidsonderzoek toegezonden.
+
+- b. Wanneer een vertaling van de internationale aanvrage ingevolge [Regel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=12&z=2008-07-01&g=2008-07-01) wordt verstrekt, dient een exemplaar van die vertaling en van het verzoekschrift, die tezamen worden beschouwd als het exemplaar voor het nieuwheidsonderzoek ingevolge [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=12&z=2008-07-01&g=2008-07-01), door het ontvangende bureau te worden toegezonden aan de Instantie voor Internationaal Nieuwheidsonderzoek, tenzij er geen taks voor het nieuwheidsonderzoek is betaald. In laatstbedoeld geval wordt een exemplaar van de genoemde vertaling en van het verzoekschrift zo spoedig mogelijk na de betaling van de taks voor het nieuwheidsonderzoek toegezonden.
+
+- c. Een sequentie-opsomming in elektronische vorm die voor de toepassing van [Regel 13**ter**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=13ter&z=2008-07-01&g=2008-07-01) is verstrekt, maar ingediend is bij het ontvangende bureau in plaats van bij de Instantie voor Internationaal Nieuwheidsonderzoek wordt door dat bureau onverwijld doorgezonden naar die Instantie.
+
+##### Regel 24. Ontvangst van het oorspronkelijke exemplaar door het Internationaal Bureau
+
+24.1. Vervallen.
+
+24.2. **Kennisgeving van ontvangst van het oorspronkelijke exemplaar**
+
+- a. Het Internationaal Bureau stelt onverwijld: in kennis van de ontvangst alsmede de datum van ontvangst van het oorspronkelijke exemplaar. De kennisgeving duidt de internationale aanvrage aan met haar nummer, de datum van internationale indiening en de naam van de aanvrager en vermeldt de datum van indiening van elke eerdere aanvrage op grond waarvan de voorrang wordt ingeroepen. De kennisgeving aan de aanvrager omvat tevens een lijst van de aangewezen bureaus, en in het geval van een aangewezen bureau dat verantwoordelijk is voor het verlenen van regionale octrooien, van de Verdragsluitende Staten die voor een dergelijk regionaal octrooi zijn aangewezen.
+
+- i. de aanvrager,
+
+- ii. het ontvangende bureau, en
+
+- iii. de Instantie voor Internationaal Nieuwheidsonderzoek (tenzij deze het Internationale Bureau heeft laten weten dat zij geen kennisgeving wenst te ontvangen)
+
+- b. Vervallen.
+
+- c. Indien het oorspronkelijke exemplaar is ontvangen na het verstrijken van de in [Regel 22.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=22&z=2008-07-01&g=2008-07-01) bepaalde termijn, stelt het Internationale Bureau de aanvrager, het ontvangende bureau en de Instantie voor Internationaal Nieuwheidsonderzoek hiervan onverwijld in kennis.
+
+##### Regel 25. Ontvangst van het exemplaar voor het nieuwheidsonderzoek door de Instantie voor Internationaal Nieuwheidsonderzoek
+
+25.1. **Kennisgeving van ontvangst van het exemplaar voor het nieuwheidsonderzoek**
+
+De Instantie voor Internationaal Nieuwheidsonderzoek stelt onverwijld het Internationale Bureau, de aanvrager en - tenzij de Instantie voor Internationaal Nieuwheidsonderzoek dezelfde is als het ontvangende bureau - het ontvangende bureau, in kennis van het feit en de datum van ontvangst van het exemplaar voor het nieuwheidsonderzoek.
+
+##### Regel 26. Controle en verbetering van bepaalde elementen van de internationale aanvrage bij het ontvangende bureau
+
+26.1. **Uitnodiging tot verbetering uit hoofde van artikel 14, eerste lid, onder b**
+
+Het ontvangende bureau doet de uitnodiging tot verbetering voorzien in [artikel 14, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=14&z=2008-07-01&g=2008-07-01), zo spoedig mogelijk, bij voorkeur binnen een maand na ontvangst van de internationale aanvrage. In de uitnodiging nodigt het ontvangende bureau de aanvrager uit de vereiste verbetering te verstrekken en stelt het de aanvrager binnen de termijn ingevolge Regel 26.2 in de gelegenheid bezwaar te maken.
+
+26.2. **Termijn voor verbetering**
+
+De termijn bedoeld in Regel 26.1 is twee maanden vanaf de datum van de uitnodiging tot verbetering. Het ontvangende bureau kan deze te allen tijde voordat een beslissing is genomen verlengen.
+
+26.2bis. **Controle van de vormvoorschriften ingevolge artikel 14, eerste lid, onder a., sub i. en ii.**
+
+- a. Voor de toepassing van [artikel 14, eerste lid, onder a., sub i](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=14&z=2008-07-01&g=2008-07-01)., volstaat het wanneer er meer dan een aanvrager is, dat het verzoekschrift door een van hen wordt ondertekend.
+
+- b. Voor de toepassing van [artikel 14, eerste lid, onder a., sub ii.](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=14&z=2008-07-01&g=2008-07-01), volstaat het, wanneer er meer dan een aanvrager is, dat de ingevolge [Regel 4.5, paragraaf a. ii. en iii.](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=4&z=2008-07-01&g=2008-07-01) vereiste gegevens worden verstrekt betreffende een van hen die ingevolge [Regel 19.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=19&z=2008-07-01&g=2008-07-01) bevoegd is de internationale aanvrage in te dienen bij het ontvangende bureau.
+
+26.3. **Controle van de vormvoorschriften ingevolge artikel 14, eerste lid, onder a, sub v**
+
+- a. Wanneer de internationale aanvrage wordt ingediend in een taal van publicatie, controleert het ontvangende bureau:
+
+- i. of de internationale aanvrage voldoet aan de in [Regel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=11&z=2008-07-01&g=2008-07-01) genoemde vormvoorschriften alleen voor zover dat noodzakelijk is voor een redelijk eenvormige internationale publicatie;
+
+- ii. of een ingevolge [Regel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=12&z=2008-07-01&g=2008-07-01) verstrekte vertaling voldoet aan de in [Regel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=11&z=2008-07-01&g=2008-07-01) genoemde vormvoorschriften voor zover dat noodzakelijk is voor een bevredigende reproductie;
+
+- b. Wanneer de internationale aanvrage wordt ingediend in een taal waarin zij niet wordt gepubliceerd, controleert het ontvangende bureau:
+
+- i. of de internationale aanvrage voldoet aan de in [Regel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=11&z=2008-07-01&g=2008-07-01) genoemde vormvoorschriften voor zover dat noodzakelijk is voor een bevredigende reproductie;
+
+- ii. of een ingevolge [Regel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=12&z=2008-07-01&g=2008-07-01) of 12.4 verstrekte vertaling en de tekeningen voldoen aan de in [Regel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=11&z=2008-07-01&g=2008-07-01) genoemde vormvoorschriften voor zover dat noodzakelijk is voor een redelijk eenvormige internationale publicatie.
+
+26.3bis. **Uitnodiging ingevolge artikel 14, eerste lid, onder b, tot herstel van gebreken ingevolge Regel 11**
+
+Het ontvangende bureau behoeft de uitnodiging ingevolge [artikel 14, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=14&z=2008-07-01&g=2008-07-01), tot verbetering van het gebrek ingevolge [Regel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=11&z=2008-07-01&g=2008-07-01) niet te doen wanneer aan de in die Regel genoemde vormvoorschriften is voldaan in de ingevolge Regel 26.3 vereiste mate.
+
+26.3ter. **Uitnodiging tot herstel van gebreken genoemd in artikel 3, vierde lid, onder i**
+
+- a. Wanneer het uittreksel of de tekst bij de tekeningen wordt ingediend in een taal anders dan de taal van de beschrijving en de conclusies, zal het ontvangende bureau, tenzij de aanvrager uitnodigen een vertaling van het uittreksel of de tekst bij de tekeningen te verstrekken in de taal waarin de internationale aanvrage dient te worden gepubliceerd. De Regels 26.1, 26.2, 26.3, 26.3**bis**, 26.5 en [29.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=29&z=2008-07-01&g=2008-07-01) zijn van overeenkomstige toepassing.
+
+- i. een vertaling van de internationale aanvrage vereist is ingevolge [Regel 12.3 a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=12&z=2008-07-01&g=2008-07-01), of
+
+- ii. het uittreksel of de tekst bij de tekeningen is gesteld in de taal waarin de internationale aanvrage moet worden gepubliceerd,
+
+- b. Indien paragraaf a op 1 oktober 1997 niet verenigbaar is met de door het ontvangende bureau toegepaste nationale wetgeving, is paragraaf a niet van toepassing op dat ontvangende bureau zolang deze bepaling niet verenigbaar is met die wetgeving, mits genoemd bureau het Internationaal Bureau hiervan in kennis stelt voor 31 december 1997. De ontvangen informatie wordt door het Internationaal Bureau zo spoedig mogelijk gepubliceerd in het mededelingenblad.
+
+- c. Wanneer het verzoekschrift niet voldoet aan [Regel 12.1 c](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=12&z=2008-07-01&g=2008-07-01), nodigt het ontvangende bureau de aanvrager uit een vertaling in te dienen om aan die Regel te voldoen. De Regels 3, 26.1, 26.2, 26.5 en [29.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=29&z=2008-07-01&g=2008-07-01) zijn van overeenkomstige toepassing.
+
+- d. Indien paragraaf c op 1 oktober 1997 niet verenigbaar is met de door het ontvangende bureau toegepaste nationale wetgeving, is paragraaf c niet van toepassing op dat ontvangende bureau zolang deze bepaling niet verenigbaar is met die wetgeving, mits genoemd bureau het Internationaal Bureau hiervan in kennis stelt voor 31 december 1997. De ontvangen informatie wordt door het Internationaal Bureau zo spoedig mogelijk gepubliceerd in het mededelingenblad.
+
+26.4. **Procedure**
+
+Een verbetering van het verzoekschrift die aan het ontvangende bureau wordt voorgelegd kan in een aan dat bureau gerichte brief vervat worden indien de verbetering van dien aard is dat zij van de brief in het verzoekschrift kan worden overgenomen zonder de duidelijkheid en de mogelijkheid tot directe verveelvoudiging van het blad waarop de verbetering wordt aangebracht nadelig te beïnvloeden. Indien dit niet mogelijk is, en in het geval van een verbetering van een element van de internationale aanvrage anders dan het verzoekschrift, wordt van de aanvrager verlangd dat hij een vervangend blad indient dat de verbetering bevat en dient de begeleidende brief bij het vervangende blad de aandacht te vestigen op de verschillen tussen het vervangen en het vervangende blad.
+
+26.5. **Beslissing van het ontvangende bureau**
+
+Het ontvangende bureau beslist of de aanvrager de verbetering binnen de van toepassing zijnde termijn ingevolge Regel 26.2 heeft ingediend en, indien de verbetering binnen die termijn is ingediend, of de aldus verbeterde internationale aanvrage al dan niet wordt aangemerkt als zijnde ingetrokken, met dien verstande dat internationale aanvragen niet worden aangemerkt als zijnde ingetrokken, met dien verstande dat een internationale aanvrage niet wordt aangemerkt als zijnde ingetrokken wegens niet-voldoen aan de vormvereisten bedoeld in [Regel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=11&z=2008-07-01&g=2008-07-01), indien zij aan die vereisten voldoet in die mate die nodig is voor een redelijk uniforme internationale publicatie.
+
+##### Regel 27. Niet-betaling van taksen
+
+27.1. **Taksen**
+
+- a. Voor de toepassing van [artikel 14, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=14&z=2008-07-01&g=2008-07-01). wordt onder „ingevolge artikel 3, vierde lid, sub iv. voorgeschreven taksen” verstaan: de toezendingstaks ([Regel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=14&z=2008-07-01&g=2008-07-01)), de taks voor internationale indiening ([Regel 15.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=15&z=2008-07-01&g=2008-07-01)), de taks voor het nieuwheidsonderzoek ([Regel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=16&z=2008-07-01&g=2008-07-01)) en, indien vereist, de taks wegens te late betaling ([Regel 16**bis**. 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=16bis&z=2008-07-01&g=2008-07-01)).
+
+- b. Voor de toepassing van [artikel 14, derde lid, onder a. en b](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=14&z=2008-07-01&g=2008-07-01)., wordt onder „de ingevolge artikel 4, tweede lid, voorgeschreven taks” verstaan: de taks voor internationale indiening ([Regel 15.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=15&z=2008-07-01&g=2008-07-01)) en, indien vereist, de taks wegens late betaling ([Regel 16**bis**. 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=16bis&z=2008-07-01&g=2008-07-01)).
+
+##### Regel 28. Gebreken vastgesteld door het Internationale Bureau
+
+28.1. **Vaststelling van bepaalde gebreken**
+
+- a). Indien, naar het oordeel van het Internationale Bureau de internationale aanvrage enig gebrek vertoont genoemd in [artikel 14, eerste lid, onder a), sub (i), (ii) of (v)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=14&z=2008-07-01&g=2008-07-01), brengt het Internationale Bureau dit gebrek onder de aandacht van het ontvangende bureau.
+
+- b). Het ontvangende bureau handelt, tenzij het niet instemt met dit oordeel, zoals bepaald in [artikel 14, eerste lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=14&z=2008-07-01&g=2008-07-01), en [Regel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=26&z=2008-07-01&g=2008-07-01).
+
+##### Regel 29. Internationale aanvragen die als ingetrokken worden beschouwd
+
+29.1. **Vaststelling door het ontvangende bureau**
+
+Indien het ontvangende bureau ingevolge artikel 14, eerste lid, onder b, en Regel 26.5 (Nalaten bepaalde gebreken te herstellen), of ingevolge artikel 14, derde lid, onder a (Niet-betaling van de ingevolge Regel 27.1 a voorgeschreven taksen), of ingevolge artikel 14, vierde lid (Latere vaststelling dat niet voldaan is aan de vereisten genoemd in artikel 11, eerste lid, sub i tot en met iii), of ingevolge Regel 12.3 d of 12.4 d (Niet-verstrekking van een vereiste vertaling of, wanneer van toepassing, niet-betaling van een taks wegens te late verstrekking), of ingevolge Regel 92.4 g i (Niet-verstrekking van het origineel van een document), verklaart dat de internationale aanvrage als ingetrokken wordt beschouwd:
+
+- (i). zendt het ontvangende bureau het oorspronkelijke exemplaar (tenzij reeds toegezonden) en de door de aanvrager aangeboden verbeteringen toe aan het Internationale Bureau;
+
+- (ii). stelt het ontvangende bureau de aanvrager en het Internationale Bureau onverwijld in kennis van genoemde verklaring en doet het Internationale Bureau op zijn beurt kennisgeving aan elk aangewezen bureau dat reeds van zijn aanwijzing in kennis is gesteld;
+
+- (iii). zendt het ontvangende bureau het exemplaar voor het nieuwheidsonderzoek niet toe zoals bepaald in Regel 23, of, indien dit exemplaar reeds werd toegezonden, stelt het de Instantie voor Internationaal Nieuwheidsonderzoek in kennis van de genoemde verklaring;
+
+- (iv). is het Internationale Bureau niet verplicht de aanvrager in kennis te stellen van de ontvangst van het oorspronkelijke exemplaar;
+
+- (v). geschiedt geen internationale publicatie van de internationale aanvrage indien de kennisgeving inzake bedoelde verklaring verzonden door het ontvangende bureau het Internationale Bureau bereikt voordat de technische voorbereidingen voor internationale publicatie zijn voltooid.
+
+29.2. Vervallen.
+
+29.3. **Het brengen van bepaalde feiten onder de aandacht van het ontvangende bureau**
+
+Indien het Internationale Bureau of de Instantie voor Internationaal Nieuwheidsonderzoek van oordeel is dat het ontvangende bureau een vaststelling ingevolge artikel 14, vierde lid, dient te verrichten brengt het of zij de desbetreffende feiten onder de aandacht van het ontvangende bureau.
+
+29.4. **Kennisgeving van het voornemen een verklaring ingevolge artikel 14, vierde lid, af te leggen**
+
+Voordat het ontvangende bureau een verklaring ingevolge artikel 14, vierde lid, aflegt, dient het de aanvrager in kennis te stellen van zijn voornemen een zodanige verklaring af te leggen en van de daartoe strekkende redenen. De aanvrager kan, indien hij niet instemt met de voorlopige vaststelling van het ontvangende bureau, binnen een maand na de kennisgeving zijn argumenten dienaangaande indienen.
+
+##### Regel 30. Termijn ingevolge [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=14&z=2008-07-01&g=2008-07-01)
+
+30.1. **Termijn**
+
+De termijn bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=14&z=2008-07-01&g=2008-07-01), beloopt 4 maanden, te rekenen van de datum van de internationale indiening.
+
+##### Regel 31. Afschriften vereist ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=13&z=2008-07-01&g=2008-07-01)
+
+31.1. **Verzoek om afschriften**
+
+- a). Verzoeken ingevolge [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=13&z=2008-07-01&g=2008-07-01), kunnen betrekking hebben op alle, enkele soorten, of afzonderlijke internationale aanvragen waarin het nationale bureau dat het verzoek doet is aangewezen. Verzoeken om alle of enkele soorten van deze internationale aanvragen moeten elk jaar worden herhaald door middel van een vóór 30 november van het voorgaande jaar door dat bureau aan het Internationale Bureau gerichte kennisgeving.
+
+- b). Voor verzoeken ingevolge [artikel 13, tweede lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=13&z=2008-07-01&g=2008-07-01) is een taks verschuldigd ter dekking van de kosten voor het maken en per post toezenden van het afschrift.
+
+31.2. **Vervaardigen van afschriften**
+
+Het vervaardigen van de ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=13&z=2008-07-01&g=2008-07-01) vereiste afschriften behoort tot de verantwoordelijkheid van het Internationale Bureau.
+
+##### Regel 32. Uitbreiding van de rechtsgevolgen van de internationale aanvrage tot bepaalde opvolgerstaten
+
+32.1. **Uitbreiding van de internationale aanvrage tot een opvolgerstaat**
+
+- a. De rechtsgevolgen van een internationale aanvrage waarvan de datum van internationale indiening valt in de in paragraaf b omschreven periode, kunnen worden uitgebreid tot een Staat („de opvolgerstaat”) waarvan het grondgebied vóór de onafhankelijkheid van die Staat deel uitmaakte van het grondgebied van een in de internationale aanvrage aangewezen Verdragsluitende Staat die vervolgens is opgehouden te bestaan (de „voorgangerstaat”), op voorwaarde dat de opvolgerstaat Verdragsluitende Staat is geworden door middel van de nederlegging bij de Directeur-Generaal van een verklaring van voortgezette gebondenheid, ertoe strekkende dat het Verdrag wordt toegepast door de opvolgerstaat.
+
+- b. Het in paragraaf a bedoelde tijdvak begint op de dag volgend op de laatste dag van het bestaan van de voorgangerstaat en eindigt twee maanden na de datum waarop de in paragraaf a bedoelde verklaring door de Directeur-Generaal ter kennis is gebracht van de Regeringen van de Staten die partij zijn bij het [Verdrag van Parijs tot Bescherming van de Industriële Eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120). Wanneer de onafhankelijkheidsdatum van de opvolgerstaat echter eerder valt dan de datum van de dag volgend op de laatste dag van het bestaan van de voorgangerstaat, kan de opvolgerstaat verklaren dat bedoeld tijdvak begint op de datum van haar onafhankelijkheid; deze verklaring dient te worden afgegeven te zamen met de in paragraaf a bedoelde verklaring en de onafhankelijkheidsdatum dient daarin te zijn genoemd.
+
+- c. Gegevens over internationale aanvragen waarvan de indieningsdatum valt binnen de ingevolge paragraaf b. van toepassing zijnde periode en waarvan de rechtsgevolgen worden uitgebreid tot de opvolgerstaat, worden door het Internationaal Bureau gepubliceerd in het mededelingenblad.
+
+32.2. **Rechtsgevolgen van de uitbreiding tot de opvolgerstaat**
+
+- a. Wanneer de rechtsgevolgen van de internationale aanvrage in overeenstemming met Regel 32.1 worden uitgebreid tot de opvolgerstaat,
+
+- i. wordt de opvolgerstaat beschouwd als te zijn aangewezen in de internationale aanvrage, en
+
+- ii. wordt de ingevolge de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) of [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=39&z=2008-07-01&g=2008-07-01), geldende termijn met betrekking tot die Staat verlengd tot het verstrijken van ten minste zes maanden te rekenen vanaf de datum van publicatie van de gegevens ingevolge Regel 32.1 c.
+
+- b. De opvolgerstaat kan een termijn vaststellen die later verstrijkt dan de in paragraaf a ii voorziene termijn. Het Internationaal Bureau publiceert de informatie inzake dergelijke termijnen in het mededelingenblad.
+
+##### Regel 33. Stand van de techniek die voor het internationale nieuwheidsonderzoek van belang is
+
+33.1. **Stand van de techniek die voor het internationale nieuwheidsonderzoek van belang is**
+
+- a). Voor de toepassing van [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=15&z=2008-07-01&g=2008-07-01), bestaat de van belang zijnde stand van de techniek uit alles wat waar ook ter wereld ter beschikking van het publiek is gesteld door middel van schriftelijke publikatie (met inbegrip van tekeningen en andere illustraties) en dat van belang kan zijn bij de beslissing of de uitvinding waarvoor bescherming wordt gevraagd, al dan niet nieuw is en of zij al dan niet op uitvinderswerkzaamheid berust (d.w.z. al dan niet voor de hand ligt) mits het ter beschikking stellen aan het publiek heeft plaatsgevonden vóór de datum van de internationale indiening.
+
+- b). Wanneer enige schriftelijke publikatie verwijst naar een mondelinge uiteenzetting, een gebruik, een tentoonstelling of een ander middel waardoor de inhoud van de schriftelijke publikatie ter beschikking van het publiek is gesteld en dit ter beschikking van het publiek stellen heeft plaatsgevonden op een datum voorafgaande aan de internationale indiening, dient het verslag van het internationale nieuwheidsonderzoek dit feit en de datum waarop het heeft plaatsgevonden afzonderlijk te vermelden indien de terbeschikkingstelling van de schriftelijke publikatie aan het publiek heeft plaatsgevonden op een datum die dezelfde is als, of later valt dan, de datum van de internationale indiening.
+
+- c). Een bekendgemaakte aanvrage of een octrooi waarvan de datum van bekendmaking dezelfde is als, of later valt dan, maar waarvan de datum van indiening of, indien van toepassing, de datum van de voorrang waarop men zich beroept, voorafgaat aan de datum van internationale indiening van de aan een nieuwheidsonderzoek onderworpen internationale aanvrage, en die een voor de toepassing van [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=15&z=2008-07-01&g=2008-07-01), van belang zijnde stand van de techniek zou vormen indien zij was gepubliceerd vóór de datum van internationale indiening, dient speciaal te worden vermeld in het verslag van het internationale nieuwheidsonderzoek.
+
+33.2. **Gebieden die het internationale nieuwheidsonderzoek moet bestrijken**
+
+- a). Het internationale nieuwheidsonderzoek bestrijkt al die technische gebieden en dient te worden verricht op de grondslag van al die systematische zoeksystemen die materiaal kunnen bevatten dat voor de uitvinding van belang is.
+
+- b). Derhalve dient niet alleen de techniek waarbij de uitvinding kan worden ingedeeld te worden bezien, maar ook overeenkomstige technieken, ongeacht waarbij zij zijn ingedeeld.
+
+- c). De vraag welke technieken in een bepaald geval als overeenkomstig moeten worden beschouwd, dient te worden bezien in het licht van wat de onontbeerlijk wezenlijke functie of het wezenlijke gebruik van de uitvinding lijkt te zijn en niet alleen de specifieke functies die uitdrukkelijk in de internationale aanvrage zijn vermeld.
+
+- d). Het internationale nieuwheidsonderzoek dient alle onderwerpen te omvatten die algemeen worden erkend als gelijkwaardig te zijn aan het onderwerp van de uitvinding waarvoor bescherming wordt gevraagd, voor alle of bepaalde kenmerken daarvan, zelfs indien het onderwerp van de in de internationale aanvrage beschreven uitvinding in haar bijzonderheden daarvan verschilt.
+
+33.3. **Gerichtheid van het internationale nieuwheidsonderzoek**
+
+- a). Het internationale nieuwheidsonderzoek dient te worden verricht op basis van de conclusies, met inachtneming van de beschrijving en de (eventuele) tekeningen en met bijzondere nadruk op de inventieve idee waarop de conclusies zijn gericht.
+
+- b). Voor zover mogelijk en redelijk dient het internationale nieuwheidsonderzoek het gehele onderwerp te bestrijken waarop de conclusies zijn gericht of waarop zij naar redelijke verwachting zullen zijn gericht, nadat zij zijn gewijzigd.
+
+##### Regel 34. Minimumdocumentatie
+
+34.1. **Begripsomschrijving**
+
+- a). De begripsomschrijvingen vervat in artikel 2, sub (i) en (ii), zijn voor deze Regel niet van toepassing.
+
+- b). De documentatie bedoeld in artikel 15, vierde lid („minimumdocumentatie”) dient te bestaan uit:
+
+- (i). de „nationale octrooibescheiden” zoals nader aangegeven in paragraaf **c)**,
+
+- (ii). de gepubliceerde internationale (PCT) aanvragen, de gepubliceerde regionale aanvragen om octrooien en om uitvinderscertificaten en de gepubliceerde regionale octrooien en uitvinderscertificaten,
+
+- (iii). ander niet tot de octrooiliteratuur behorend gepubliceerd materiaal waarover de Instanties voor Internationaal Nieuwheidsonderzoek overeenstemming bereiken en dat door het Internationale Bureau dient te worden bekendgemaakt in een lijst wanneer die overeenstemming voor de eerste maal is bereikt en na elke wijziging.
+
+- c). Onverminderd het bepaalde onder de paragrafen d en e zijn de „nationale octrooibescheiden” de volgende:
+
+- (i). de octrooien verleend in en na 1920 door Frankrijk, het vroegere Reichspatentamt van Duitsland, Japan, de voormalige Sovjet-Unie, Zwitserland (alleen in de Franse en de Duitse taal), het Verenigd Koninkrijk en de Verenigde Staten van Amerika,
+
+- (ii). de octrooien verleend door de Bondsrepubliek Duitsland, de Republiek Korea en de Russische Federatie,
+
+- (iii). de mogelijke octrooiaanvragen gepubliceerd in en na 1920 in de landen genoemd sub (i) en (ii),
+
+- (iv). de door de voormalige Sovjet-Unie afgegeven uitvinderscertificaten,
+
+- (v). de door Frankrijk afgegeven gebruikscertificaten en de in Frankrijk gepubliceerde aanvragen voor gebruikscertificaten,
+
+- (vi). de octrooien die na 1920 zijn verleend door en de octrooiaanvragen die zijn gepubliceerd in enig ander land en zijn gesteld in de Engelse, de Franse, de Duitse of de Spaanse taal en waarin geen voorrang wordt ingeroepen, met dien verstande dat het nationale bureau van het betrokken land deze documenten ordent en ter beschikking stelt van elke Instantie voor Internationaal Nieuwheidsonderzoek.
+
+- d). Wanneer een aanvrage eens of meer dan eens opnieuw wordt gepubliceerd (bijvoorbeeld een „Offenlegungsschrift” als „Auslegeschrift”), is een Instantie voor Internationaal Nieuwheidsonderzoek niet verplicht alle versies in haar documentatie te bewaren; elke Instantie is derhalve bevoegd niet meer dan één versie te bewaren. Wanneer bovendien een aanvrage is toegestaan en verleend in de vorm van een octrooi of een gebruikscertificaat (Frankrijk), is een Instantie voor Internationaal Nieuwheidsonderzoek niet verplicht zowel de aanvrage als het octrooi of het gebruikscertificaat (Frankrijk) in haar documentatie te bewaren; derhalve is elke zodanige Instantie bevoegd alleen de aanvrage dan wel het octrooi of het gebruikscertificaat (Frankrijk) te bewaren.
+
+- e). Een Instantie voor Internationaal Nieuwheidsonderzoek waarvan de officiële taal of waarvan een van de officiële talen niet Japans, Koreaans, Russisch of Spaans is, is bevoegd in haar documentatie niet de octrooibescheiden van onderscheidenlijk Japan, de Republiek Korea, de Russische Federatie en de voormalige Sovjet-Unie alsmede de octrooibescheiden in de Spaanse taal, op te nemen, waarvan geen uittreksels in de Engelse taal algemeen beschikbaar zijn. Met betrekking tot Engelse uittreksels die algemeen beschikbaar komen na de datum van inwerkingtreding van dit Reglement is de opneming van de octrooibescheiden waarop de uittreksels betrekking hebben vereist uiterlijk zes maanden nadat deze uittreksels algemeen beschikbaar zijn geworden. In geval van een onderbreking van het maken van uittreksels in het Engels op technische gebieden waar de Engelse uittreksels voordien algemeen beschikbaar waren, neemt de Algemene Vergadering passende maatregelen om te voorzien in het onverwijlde herstel van deze diensten op de genoemde gebieden.
+
+- f). Voor de toepassing van deze Regel worden aanvragen die alleen ter inzage van het publiek zijn gelegd, niet als gepubliceerde aanvragen beschouwd.
+
+##### Regel 35. De bevoegde Instantie voor Internationaal Nieuwheidsonderzoek
+
+35.1. **Wanneer slechts één enkele Instantie voor Internationaal Nieuwheidsonderzoek bevoegd is**
+
+Elk ontvangend bureau stelt, overeenkomstig de bepalingen van de van toepassing zijnde overeenkomst bedoeld in [artikel 16, derde lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=16&z=2008-07-01&g=2008-07-01), het Internationale Bureau ervan in kennis, welke Instantie voor Internationaal Nieuwheidsonderzoek bevoegd is voor het nieuwheidsonderzoek van de bij het bureau ingediende internationale aanvragen en het Internationale Bureau maakt deze gegevens onverwijld bekend.
+
+35.2. **Wanneer meer dan één Instantie voor Internationaal Nieuwheidsonderzoek bevoegd is**
+
+- a). Een ontvangend bureau kan, overeenkomstig de bepalingen van de van toepassing zijnde overeenkomst bedoeld in [artikel 16, derde lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=16&z=2008-07-01&g=2008-07-01), meer dan één Instantie voor Internationaal Nieuwheidsonderzoek aangeven:
+
+- (i). door hen alle bevoegd te verklaren voor alle bij het bureau ingediende internationale aanvragen en de keuze over te laten aan de aanvrager, of
+
+- (ii). door één of meer van die Instanties bevoegd te verklaren voor bepaalde, bij het bureau ingediende soorten internationale aanvragen en één of meer andere bevoegd te verklaren voor andere bij het bureau ingediende internationale aanvragen, met dien verstande dat voor die soorten internationale aanvragen waarvoor meer dan één Instantie voor Internationaal Nieuwheidsonderzoek bevoegd wordt verklaard, de keuze aan de aanvrager wordt overgelaten.
+
+- b). Een ontvangend bureau dat gebruik maakt van de onder paragraaf **a)** bepaalde mogelijkheid stelt onverwijld het Internationale Bureau hiervan in kennis en het Internationale Bureau maakt deze gegevens onverwijld bekend.
+
+35.3. **Wanneer het Internationale Bureau fungeert als ontvangend bureau ingevolge Regel 19.1 a iii**
+
+- a. Wanneer de internationale aanvrage wordt ingediend bij het Internationale Bureau dat fungeert als ontvangend bureau ingevolge [Regel 19.1 a iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=19&z=2008-07-01&g=2008-07-01), is een Instantie voor Internationaal Nieuwheidsonderzoek bevoegd het nieuwheidsonderzoek van die internationale aanvrage te verrichten indien zij daartoe bevoegd zou zijn wanneer de internationale aanvrage zou zijn ingediend bij een ontvangend bureau bevoegd ingevolge Regel 19.1 a i of ii, b of c, dan wel Regel 19.2 i.
+
+- b. Wanneer ingevolge paragraaf a meer dan één Instantie voor Internationaal Nieuwheidsonderzoek bevoegd is, wordt de keuze aan de aanvrager overgelaten.
+
+- c. De [Regels 35.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=35&z=2008-07-01&g=2008-07-01) en 35.2 zijn niet van toepassing op het Internationale Bureau dat fungeert als ontvangend bureau ingevolge [Regel 19.1 a iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=19&z=2008-07-01&g=2008-07-01).
+
+##### Regel 36. Minimumvereisten voor de Instanties voor Internationaal Nieuwheidsonderzoek
+
+36.1. **Omschrijving van de minimumvereisten**
+
+De in [artikel 16, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=16&z=2008-07-01&g=2008-07-01), bedoelde minimumvereisten zijn de volgende:
+
+- (i). het nationale bureau of de intergouvernementele organisatie moet ten minste 100 personeelsleden met een volledige dagtaak in dienst hebben die over voldoende technische bekwaamheden beschikken om nieuwheidsonderzoeken te verrichten;
+
+- (ii). dat bureau of die organisatie moet ten minste de in [Regel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=34&z=2008-07-01&g=2008-07-01) bedoelde minimumdocumentatie in zijn of haar bezit hebben, of hiertoe toegang hebben, op de juiste wijze gerangschikt voor doeleinden van nieuwheidsonderzoek op papier, in microvorm of opgeslagen op elektronische gegevensdragers;
+
+- (iii). dat bureau of die organisatie moet beschikken over personeel dat in staat is het nieuwheidsonderzoek op de vereiste technische gebieden te verrichten en dat over de talenkennis beschikt om althans die talen te begrijpen waarin de in [Regel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=34&z=2008-07-01&g=2008-07-01) bedoelde minimumdocumentatie is gesteld of vertaald;
+
+- (iv). dat bureau of die organisatie moet een kwaliteitsbeheersysteem en een interne beoordelingsprocedure hebben ingesteld in overeenstemming met de gemeenschappelijke regels voor internationaal nieuwheidsonderzoek;
+
+- (v). dat bureau of die organisatie moet zijn aangewezen als Instantie voor de Internationale Voorlopige Beoordeling.
+
+##### Regel 37. Ontbrekende of onjuiste titel
+
+37.1. **Ontbreken van een titel**
+
+Indien de internationale aanvrage geen titel bevat en het ontvangende bureau aan de Instantie voor Internationaal Nieuwheidsonderzoek heeft medegedeeld dat het de aanvrager heeft uitgenodigd, dit gebrek te verbeteren, gaat de Instantie voor Internationaal Nieuwheidsonderzoek over tot het internationale nieuwheidsonderzoek, tenzij en totdat zij een mededeling ontvangt dat genoemde aanvrage als ingetrokken wordt beschouwd.
+
+37.2. **Vaststelling van de titel**
+
+Indien de internationale aanvrage geen titel bevat en de Instantie voor Internationaal Nieuwheidsonderzoek geen mededeling van het ontvangende bureau heeft ontvangen dat de aanvrager is uitgenodigd een titel te verstrekken of indien genoemde instantie vaststelt dat de titel niet voldoet aan [Regel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=4&z=2008-07-01&g=2008-07-01) stelt zij zelf een titel vast. Die titel wordt vastgesteld in de taal waarin de internationale aanvrage zal worden gepubliceerd of, indien een vertaling in een andere taal ingevolge [Regel 23.1 b](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=23&z=2008-07-01&g=2008-07-01) is toegezonden en de Instantie voor Internationaal Nieuwheidsonderzoek dat wenst, in de taal van die vertaling.
+
+##### Regel 38. Ontbrekend of onjuist uittreksel
+
+38.1. **Ontbreken van een uittreksel**
+
+Indien de internationale aanvrage geen uittreksel bevat en het ontvangende bureau aan de Instantie voor Internationaal Nieuwheidsonderzoek heeft medegedeeld dat het de aanvrager heeft uitgenodigd, dit gebrek te herstellen, gaat de Instantie voor Internationaal Nieuwheidsonderzoek over tot het internationale nieuwheidsonderzoek, tenzij en totdat zij een mededeling ontvangt dat genoemde aanvrage als ingetrokken wordt beschouwd.
+
+38.2. **Opstelling van het uittreksel**
+
+Indien de internationale aanvrage geen uittreksel bevat en de Instantie voor Internationaal Nieuwheidsonderzoek geen mededeling van het ontvangende bureau heeft ontvangen dat de aanvrager is uitgenodigd een uittreksel te verstrekken of indien de genoemde instantie vaststelt dat het uittreksel niet voldoet aan [Regel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=8&z=2008-07-01&g=2008-07-01), stelt zij zelf een uittreksel op. Dat uittreksel wordt opgesteld in de taal waarin de internationale aanvrage zal worden gepubliceerd of, indien een vertaling in een andere taal ingevolge [Regel 23.1 b](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=23&z=2008-07-01&g=2008-07-01) is toegezonden en de Instantie voor Internationaal Nieuwheidsonderzoek dat wenst, in de taal van die vertaling.
+
+38.3. **Wijziging van het uittreksel**
+
+De aanvrager kan tot een maand na de datum van verzending van het verslag van het internationale nieuwheidsonderzoek bij de Instantie voor Internationaal Nieuwheidsonderzoek:
+
+- i. voorstellen voor wijziging van de uittreksel indienen; of
+
+- ii. indien het uittreksel is vastgesteld door de Instantie, voorstellen voor wijzigingen van of commentaar op dat uittreksel of zowel wijzigingen als commentaar indienen;
+
+en de Instantie beslist of de samenvatting dienovereenkomstig wordt gewijzigd. Indien de Instantie de uittreksel wijzigt, stelt zij het Internationale Bureau in kennis van de wijziging.
+
+##### Regel 39. Onderwerpen ingevolge [artikel 17, tweede lid, onder a), sub (i)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01)
+
+39.1. **Begripsomschrijving**
+
+Van een Instantie voor Internationaal Nieuwheidsonderzoek mag niet worden verlangd, dat zij het nieuwheidsonderzoek betreffende een internationale aanvrage verricht, indien en voor zover het onderwerp op een van de onderstaande gebieden ligt:
+
+- (i). natuurwetenschappelijke en wiskundige theorieën,
+
+- (ii). planten- of dierenrassen of werkwijzen van wezenlijk biologische aard voor de voortbrenging van planten en dieren die geen microbiologische werkwijzen en hierdoor verkregen voortbrengselen zijn,
+
+- (iii). stelsels, regels of methoden voor de bedrijfsvoering, voor het uitsluitend verrichten van geestelijke handelingen of voor het spelen,
+
+- (iv). methoden voor de behandeling van het menselijke of het dierlijke lichaam door chirurgische ingrepen of geneeskundige behandeling, alsmede methoden voor het stellen van een diagnose,
+
+- (v). enkele presentatie van gegevens,
+
+- (vi). programma's voor rekenautomaten, voor zover de Instantie voor Internationaal Nieuwheidsonderzoek niet is uitgerust voor het onderzoek naar de stand van de techniek betreffende zodanige programma's.
+
+##### Regel 40. Gebrek aan eenheid van uitvinding (internationaal nieuwheidsonderzoek)
+
+40.1. **Uitnodiging tot betaling van bijkomende taksen; termijn**
+
+In de uitnodiging om bijkomende taksen te betalen zoals voorzien in [artikel 17, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), dient
+
+- i. aangegeven te worden op welke gronden de internationale aanvrage geacht wordt niet te voldoen aan de vereiste eenheid van uitvinding;
+
+- ii. de aanvrager uitgenodigd te worden de bijkomende taksen te voldoen binnen een maand na de datum van de uitnodiging, en dient het te betalen bedrag van die taksen vermeld te worden; en
+
+- iii. de aanvrager, indien van toepassing, te worden uitgenodigd binnen een maand na de datum van de uitnodiging de in Regel 40.2 e bedoelde protesttaks te betalen en dient het te betalen bedrag te worden vermeld.
+
+40.2. **Bijkomende taksen**
+
+- a. Het bedrag voor de bijkomende taksen verschuldigd voor een nieuwheidsonderzoek ingevolge [artikel 17, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), wordt bepaald door de bevoegde Instantie voor Internationaal Nieuwheidsonderzoek.
+
+- b. De ingevolge [artikel 17, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), verschuldigde bijkomende taksen dienen rechtstreeks te worden betaald aan de Instantie voor Internationaal Nieuwheidsonderzoek.
+
+- c. Een aanvrager kan de bijkomende taksen onder protest betalen, dat wil zeggen, vergezeld van een met redenen omklede uiteenzetting dat de internationale aanvrage voldoet aan de vereiste eenheid van uitvinding of dat het bedrag van de vereiste bijkomende taksen buitensporig hoog is. Een zodanig protest dient te worden onderzocht door een in het kader van de Instantie voor Internationaal Nieuwheidsonderzoek ingesteld toetsingsorgaan, dat, voor zover het het protest gerechtvaardigd acht, beveelt dat de bijkomende taksen geheel of gedeeltelijk aan de aanvrager dienen te worden terugbetaald. Op verzoek van de aanvrager worden de tekst van het protest en van de beslissing dienaangaande tezamen met het verslag omtrent het internationale nieuwheidsonderzoek ter kennis van de aangewezen bureaus gebracht. De aanvrager dient een vertaling daarvan over te leggen tezamen met de vertaling van de internationale aanvrage, vereist ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01).
+
+- d. In het in paragraaf c bedoelde toetsingsorgaan kan de persoon zitting hebben die de beslissing nam waarop het protest betrekking heeft, met dien verstande dat deze niet het enige lid van het orgaan mag zijn.
+
+- e. De Instantie voor Internationaal Nieuwheidsonderzoek kan het onderzoek naar aanleiding van een protest zoals bedoeld in paragraaf c afhankelijk stellen van de betaling ten gunste van de Instantie van een protesttaks. Indien de aanvrager verzuimt binnen de termijn ingevolge Regel 40.1 iii de vereiste protesttaks te betalen, wordt het protest geacht niet te zijn aangetekend en de Instantie voor Internationaal Nieuwheidsonderzoek zal dienaangaande een verklaring doen uitgaan. De protesttaks wordt aan de aanvrager terugbetaald indien het in paragraaf c bedoelde toetsingsorgaan van oordeel is dat het protest volledig gerechtvaardigd was.
+
+##### Regel 41. In aanmerking nemen van uitkomsten van eerder nieuwheidsonderzoek
+
+41.1. **In aanmerking nemen van uitkomsten van eerder nieuwheidsonderzoek**
+
+Indien de aanvrager ingevolge Regel 4.12 de Instantie voor Internationaal Nieuwheidsonderzoek heeft verzocht de uitkomsten van een eerder nieuwheidsonderzoek in aanmerking te nemen en heeft voldaan aan Regel 12**bis**.1 en:
+
+- i. het eerdere nieuwheidsonderzoek is verricht door dezelfde Instantie voor Internationaal Nieuwheidsonderzoek, of door hetzelfde bureau als het bureau dat optreedt als de Instantie voor Internationaal Nieuwheidsonderzoek, neemt de Instantie voor Internationaal Nieuwheidsonderzoek deze uitkomsten, voor zover mogelijk, in aanmerking bij het verrichten van het internationale nieuwheidsonderzoek;
+
+- ii. het eerdere nieuwheidsonderzoek is verricht door een andere Instantie voor Internationaal Nieuwheidsonderzoek, of door een bureau niet zijnde het bureau dat optreedt als de Instantie voor Internationaal Nieuwheidsonderzoek, kan de Instantie voor Internationaal Nieuwheidsonderzoek deze uitkomsten in aanmerking nemen bij het verrichten van het internationaal nieuwheidsonderzoek.
+
+##### Regel 42. Termijn voor internationaal nieuwheidsonderzoek
+
+42.1. **Termijn voor internationaal nieuwheidsonderzoek**
+
+De termijn voor de opstelling van het verslag van het internationale nieuwheidsonderzoek of de verklaring bedoeld in [artikel 17, tweede lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), is 3 maanden te rekenen van de datum van ontvangst van het exemplaar voor nieuwheidsonderzoek door de Instantie voor Internationaal Nieuwheidsonderzoek, of 9 maanden te rekenen van de datum van voorrang, afhankelijk van welke van beide termijnen het laatst verstrijkt.
+
+##### Regel 43. Het verslag van het internationale nieuwheidsonderzoek
+
+43.1. **Gegevens**
+
+Het verslag van het internationale nieuwheidsonderzoek dient de Instantie voor Internationaal Nieuwheidsonderzoek die het verslag heeft opgesteld aan te geven door de naam van deze Instantie te vermelden, en de internationale aanvrage door het nummer van de internationale aanvrage, de naam van de aanvrager en de datum van de internationale indiening te vermelden.
+
+43.2. **Data**
+
+Het verslag van het internationale nieuwheidsonderzoek dient gedateerd te zijn en dient de datum te vermelden waarop het internationale nieuwheidsonderzoek daadwerkelijk was voltooid. Het dient ook de indieningsdatum te vermelden van elke eerdere aanvrage op grond waarvan een beroep op een recht van voorrang wordt gedaan of, indien een beroep op een recht van voorrang wordt gedaan op grond van meer dan één eerdere aanvrage, de indieningsdatum van de eerste daarvan.
+
+43.3. **Classificatie**
+
+- a). Het verslag van het internationale nieuwheidsonderzoek dient de classificatie van het onderwerp te bevatten tenminste overeenkomstig de Internationale Classificatie van Octrooien.
+
+- b). Deze classificatie wordt verricht door de Instantie voor Internationaal Nieuwheidsonderzoek.
+
+43.4. **Taal**
+
+Elk verslag van het internationale nieuwheidsonderzoek en elke verklaring afgelegd ingevolge [artikel 17, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), dient te zijn gesteld in de taal waarin de internationale aanvrage waarop het (zij) betrekking heeft wordt gepubliceerd, met dien verstande dat:
+
+- i. indien een vertaling van de internationale aanvrage in een andere taal is toegezonden ingevolge [Regel 23.1 b](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=23&z=2008-07-01&g=2008-07-01), en de Instantie voor Internationaal Nieuwheidsonderzoek dat wenst, het verslag van het internationale nieuwheidsonderzoek en een ingevolge [artikel 17, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), afgelegde verklaring in de taal van die vertaling mogen zijn gesteld;
+
+- ii. indien de internationale aanvrage zal worden gepubliceerd in de taal van een ingevolge [Regel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=12&z=2008-07-01&g=2008-07-01) verstrekte vertaling die niet wordt aanvaard door de Instantie voor Internationaal Nieuwheidsonderzoek en deze Instantie dit wenst, het verslag van het internationale nieuwheidsonderzoek en een ingevolge [artikel 17, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), afgelegde verklaring in een taal mogen worden gesteld die zowel een taal is die door deze Instantie wordt aanvaard als een in [Regel 48.3 a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=48&z=2008-07-01&g=2008-07-01), bedoelde taal van publicatie.
+
+43.5. **Aanhalingen**
+
+- a). Het verslag van het internationale nieuwheidsonderzoek dient de aanhalingen van de van belang geachte literatuurplaatsen te bevatten.
+
+- b). De wijze van vermelding van een aangehaalde literatuurplaats wordt geregeld in de Administratieve Instructies.
+
+- c). Aanhalingen die van bijzonder belang zijn dienen speciaal te worden aangegeven.
+
+- d). Aanhalingen die niet voor alle conclusies van belang zijn, dienen te worden aangehaald met betrekking tot de conclusie of conclusies waarvoor zij van belang zijn.
+
+- e). Indien slechts bepaalde passages uit de aangehaalde literatuurplaats van belang of van bijzonder belang zijn, dienen zij te worden aangegeven, bijvoorbeeld door de bladzijde, de kolom, of de regels aan te geven waar de passage staat. Indien de gehele literatuurplaats van belang is, maar enkele passages van bijzonder belang zijn, dienen deze passages te worden aangegeven, tenzij dit niet te verwezenlijken is.
+
+43.6. **Onderzochte gebieden**
+
+- a). Het verslag van het internationale nieuwheidsonderzoek dient de classificatie-aanduiding te geven van de onderzochte gebieden. Indien deze aanduiding geschiedt op basis van een andere classificatie dan de Internationale Classificatie van Octrooien, dient de Instantie voor Internationaal Nieuwheidsonderzoek de gebruikte classificatie te publiceren.
+
+- b). Indien het internationale nieuwheidsonderzoek zich uitstrekte tot octrooien, uitvinderscertificaten, gebruikscertificaten, gebruiksmodellen, aanvullingsoctrooien of aanvullingscertificaten, aanvullingen van uitvinderscertificaten, aanvullingen van gebruikscertificaten of gepubliceerde aanvragen voor een van deze soorten van bescherming, van Staten, tijdvakken of talen die niet zijn begrepen in de minimumdocumentatie zoals omschreven in [Regel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=34&z=2008-07-01&g=2008-07-01), dient het verslag van het internationale nieuwheidsonderzoek, wanneer doenlijk, de soorten documenten, Staten, tijdvakken en talen waarover het zich uitstrekte, te vermelden. Voor de toepassing van deze paragraaf is [artikel 2, sub (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&artikel=2&z=2008-07-01&g=2008-07-01) niet van toepassing.
+
+- c). Indien het internationale nieuwheidsonderzoek was gebaseerd op, of was uitgebreid tot een electronisch gegevensbestand, kan het verslag van het internationale nieuwheidsonderzoek de naam van het gegevensbestand vermelden en, wanneer dit nuttig voor anderen en uitvoerbaar wordt geacht, de gehanteerde termen bij het nieuwheidsonderzoek.
+
+43.6 bis. **Behandeling van verbeteringen van kennelijke fouten**
+
+- a. De Instantie voor Internationaal Nieuwheidsonderzoek houdt, met inachtneming van paragraaf b, ten behoeve van het internationale nieuwheidsonderzoek rekening met een verbetering van een kennelijke fout die is goedgekeurd ingevolge [Regel 91.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=F&artikel=91&z=2008-07-01&g=2008-07-01) en zulks wordt vermeld in het verslag van het internationaal nieuwheidsonderzoek.
+
+- b. De Instantie voor Internationaal Nieuwheidsonderzoek behoeft ten behoeve van het internationaal nieuwheidsonderzoek geen rekening te houden met een verbetering van een kennelijke fout indien deze door haar is goedgekeurd of haar is toegezonden, naargelang van het geval, nadat zij begonnen was met het opstellen van het verslag van het internationaal nieuwheidsonderzoek, in welk geval zulks indien mogelijk in het verslag wordt vermeld, en indien dat niet geschiedt, stelt de Instantie voor Internationaal Nieuwheidsonderoek het Internationale Bureau daarvan in kennis en handelt het Internationale Bureau zoals voorzien in de Administratieve Instructies.
+
+43.7. **Opmerkingen betreffende eenheid van uitvinding**
+
+Indien de aanvrager bijkomende taksen voor het internationale nieuwheidsonderzoek heeft betaald, dient het verslag van het internationale nieuwheidsonderzoek dit te vermelden. Bovendien dient het verslag van het internationale nieuwheidsonderzoek, wanneer het internationale nieuwheidsonderzoek alleen voor de hoofduitvinding is verricht of niet op alle uitvindingen betrekking had ([artikel 17, derde lid, a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), aan te geven voor welke delen van de internationale aanvrage het internationale nieuwheidsonderzoek wel en voor welke delen het niet is verricht.
+
+43.8. **Bevoegde functionaris**
+
+Het verslag van het internationale nieuwheidsonderzoek dient de naam te vermelden van de voor het verslag verantwoordelijke functionaris van de Instantie voor Internationaal Nieuwheidsonderzoek.
+
+43.9. **Andere onderwerpen**
+
+Het verslag van het internationale nieuwheidsonderzoek dient geen andere onderwerpen te bevatten dan die genoemd in de [Regels 33.1 b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=33&z=2008-07-01&g=2008-07-01), 43.1 tot en met 43.3, 43.5 tot en met 43.8 en [44.2](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=44&z=2008-07-01&g=2008-07-01) en de vermelding genoemd in [artikel 17, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), met dien verstande dat de Administratieve Instructies kunnen toestaan dat in het verslag van het internationale nieuwheidsonderzoek andere onderwerpen worden opgenomen die zijn genoemd in de Administratieve Instructies. Het verslag van het internationale nieuwheidsonderzoek dient geen oordelen, redeneringen, argumenten of toelichtingen te bevatten en de Administratieve Instructies staan het opnemen daarvan niet toe.
+
+43.10. **Vorm**
+
+De vormvoorschriften betreffende het verslag van het internationale nieuwheidsonderzoek worden voorgeschreven in de Administratieve Instructies.
+
+##### Regel 44. Toezending van het verslag van het internationale nieuwheidsonderzoek, schriftelijk oordeel, etc.
+
+44.1. **Exemplaren van verslag of verklaring en schriftelijk oordeel**
+
+De Instantie voor Internationaal Nieuwheidsonderzoek zendt op dezelfde dag een afschrift van het internationale nieuwheidsonderzoek of van de in [artikel 17, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), bedoelde verklaring en van het ingevolge[Regel 43**bis** 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=16&z=2008-07-01&g=2008-07-01) opgestelde schriftelijke oordeel aan het Internationale Bureau en aan de aanvrager.
+
+44.2. **Titel of uittreksel**
+
+Het verslag van het internationale nieuwheidsonderzoek dient te verklaren dat de Instantie voor Internationaal Nieuwheidsonderzoek haar goedkeuring hecht aan de titel en het uittreksel zoals overgelegd door de aanvrager, dan wel vergezeld te gaan van de tekst van de titel en/of het uittreksel zoals ingevolge de [Regels 37](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=37&z=2008-07-01&g=2008-07-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=38&z=2008-07-01&g=2008-07-01) opgesteld door de Instantie voor Internationaal Nieuwheidsonderzoek.
+
+44.3. **Afschriften van aangehaalde literatuurplaatsen**
+
+- a). Het in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01), bedoelde verzoek kan op elk tijdstip worden ingediend gedurende 7 jaar vanaf de datum van internationale indiening waarop het verslag van het internationale nieuwheidsonderzoek betrekking heeft.
+
+- b). De Instantie voor Internationaal Nieuwheidsonderzoek kan verlangen, dat de partij (aanvrager of aangewezen bureau) die het verzoek indient, haar de kosten voor het maken en per post verzenden van de afschriften vergoedt. Het tarief van de kosten voor het maken van afschriften wordt bepaald in de in [artikel 16, derde lid, onder **b)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=16&z=2008-07-01&g=2008-07-01) genoemde overeenkomsten tussen de Instanties voor Internationaal Nieuwheidsonderzoek en het Internationale Bureau.
+
+- c). Vervallen.
+
+- d). Een Instantie voor Internationaal Nieuwheidsonderzoek kan de verplichtingen genoemd in de paragrafen a en b vervullen door bemiddeling van een ander tegenover haar verantwoordelijk bureau.
+
+##### Regel 45. Vertaling van het verslag van het internationale nieuwheidsonderzoek
+
+45.1. **Talen**
+
+Verslagen van het internationale nieuwheidsonderzoek en verklaringen zoals bedoeld in artikel 17, tweede lid, onder **a)**, dienen, wanneer zij niet in het Engels zijn gesteld, in het Engels te worden vertaald.
+
+##### Regel 46. Wijziging van conclusies bij het Internationale Bureau
+
+46.1. **Termijn**
+
+De in artikel 19 bedoelde termijn beloopt 2 maanden, te rekenen van de datum waarop de Instantie voor Internationaal Nieuwheidsonderzoek het verslag van het internationale nieuwheidsonderzoek aan het Internationale Bureau en aan de aanvrager toezendt, of 16 maanden te rekenen vanaf de datum van voorrang, afhankelijk van welke van beide termijnen het laatste verstrijkt, met dien verstande dat een wijziging ingevolge artikel 19 aangebracht, die is ontvangen door het Internationale Bureau na het verstrijken van de van toepassing zijnde termijn, wordt beschouwd als te zijn ontvangen door dat Bureau op de laatste dag van die termijn, indien zij het Bureau bereikt voordat de technische voorbereidingen voor internationale publikatie zijn voltooid.
+
+46.2. **Waar in te dienen**
+
+Wijzigingen ingevolge artikel 19 dienen rechtstreeks bij het Internationale Bureau te worden ingediend.
+
+46.3. **Taal van de wijzigingen**
+
+Indien de internationale aanvrage is ingediend in een andere taal dan de taal waarin zij wordt gepubliceerd, dient een ingevolge artikel 19 aangebrachte wijziging te zijn gesteld in de taal waarin de aanvrage wordt gepubliceerd.
+
+46.4. **Verklaring**
+
+- a). De verklaring bedoeld in artikel 19, eerste lid, dient te zijn gesteld in de taal waarin de internationale aanvrage wordt gepubliceerd en dient niet langer te zijn dan 500 woorden, indien zij in het Engels is gesteld of in die taal is vertaald. De verklaring dient als zodanig te worden aangeduid door een opschrift, waarbij bij voorkeur de woorden worden gebruikt „Verklaring bedoeld in artikel 19, eerste lid” of een equivalent daarvan in de taal van de verklaring.
+
+- b). De verklaring dient geen kleinerende opmerkingen te bevatten over het verslag van het internationale nieuwheidsonderzoek of over het belang van in dat verslag genoemde aanhalingen. Alleen in verband met een wijziging van een bepaalde conclusie kan er verwezen worden naar aanhalingen in het verslag van het internationale nieuwheidsonderzoek, die van belang zijn voor die conclusie.
+
+46.5. **Vorm van de wijzigingen**
+
+Van de aanvrager wordt verlangd dat hij een vervangend blad overlegt voor elk blad conclusies dat, wegens een wijziging of wijzigingen ingevolge artikel 19, verschilt van het oorspronkelijk ingediende blad. De begeleidende brief bij de vervangende bladen dient de aandacht te vestigen op de verschillen tussen de vervangen en de vervangende bladen. Voor zover een wijziging leidt tot het vervallen van een gehele bladzijde, dient deze wijziging in een brief te worden medegedeeld.
+
+##### Regel 47. Toezending aan de aangewezen bureaus
+
+47.1. **Procedure**
+
+- a). De in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01) voorziene toezending aan elk aangewezen bureau dient via het Internationaal Bureau te geschieden in overeenstemming met [Regel 93**bis**. 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=F&artikel=93&z=2008-07-01&g=2008-07-01), echter, onverminderd Regel 47.4, niet voorafgaand aan de internationale publicatie van de internationale aanvrage.
+
+- a-bis). Het Internationaal Bureau stelt elk aangewezen bureau in overeenstemming met [Regel 93**bis**. 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=F&artikel=93&z=2008-07-01&g=2008-07-01) in kennis van de ontvangst en de datum van ontvangst van het oorspronkelijke exemplaar en van een eventueel voorrangsbewijs.
+
+- b). Wijzigingen die het Internationaal Bureau binnen de termijn ingevolge [Regel 46.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=46&z=2008-07-01&g=2008-07-01) heeft ontvangen en die nog niet waren toegezonden als voorzien in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01), worden onverwijld aan de aangewezen bureaus toegezonden door het Internationaal Bureau en laatstgenoemd Bureau stelt de aanvrager hiervan in kennis.
+
+- c). Direct na het verstrijken van de termijn van 28 maanden vanaf de voorrangsdatum zendt het Internationaal Bureau een kennisgeving aan de aanvrager met vermelding van:
+
+- i. de aangewezen bureaus die hebben verzocht om de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01) voorziene toezending ingevolge [Regel 93**bis**. 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=F&artikel=93&z=2008-07-01&g=2008-07-01) en de datum van de mededeling aan die bureaus; en
+
+- ii. de aangewezen bureaus die niet hebben verzocht om de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01) voorziene toezending ingevolge [Regel 93**bis**. 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=F&artikel=93&z=2008-07-01&g=2008-07-01).
+
+- c-bis). De in paragraaf c bedoelde kennisgeving wordt aanvaard door de aangewezen bureaus:
+
+- i. in het geval van een aangewezen bureau als bedoeld in paragraaf c. i., als afdoende bewijs dat de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01) voorziene toezending heeft plaatsgevonden op de in de kennisgeving vermelde datum;
+
+- ii. in het geval van een aangewezen bureau als bedoeld in paragraaf c. ii., als afdoende bewijs dat de Verdragsluitende Staat waarvoor dat bureau optreedt als aangewezen bureau niet verlangt dat de aanvrager ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) een afschrift van de internationale aanvrage verstrekt.
+
+- d). Elk aangewezen bureau ontvangt, wanneer het zulks verlangt, de verslagen van het internationale nieuwheidsonderzoek en de verklaringen bedoeld in [artikel 17, tweede lid, onder **a)**](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=17&z=2008-07-01&g=2008-07-01), ook in de vertaling bedoeld in [Regel 45.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=45&z=2008-07-01&g=2008-07-01)
+
+- e). Wanneer een aangewezen bureau, voor het verstrijken van de termijn van 28 maanden vanaf de voorrangsdatum, het Internationaal Bureau niet heeft verzocht om de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01) voorziene toezending in overeenstemming met [Regel 93**bis**. 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=F&artikel=93&z=2008-07-01&g=2008-07-01), wordt dat uitgelegd als zou de Verdragsluitende Staat waarvoor dat bureau optreedt als aangewezen bureau, het Internationaal Bureau er ingevolge [Regel 49.1 (a-**bis**.)](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=49&z=2008-07-01&g=2008-07-01) van in kennis hebben gesteld dat hij niet verlangt dat de aanvrager ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=22&z=2008-07-01&g=2008-07-01) een afschrift van de internationale aanvrage verschaft.
+
+47.2. **Afschriften**
+
+De voor toezending vereiste afschriften worden gemaakt door het Internationaal Bureau. Nadere vereisten inzake de voor toezending vereiste afschriften kunnen worden vastgelegd in de Administratieve Instructies.
+
+47.3. **Talen**
+
+- a. De internationale aanvrage die wordt toegezonden ingevolge [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01), dient te zijn gesteld in de taal van publicatie.
+
+- b. Wanneer de taal waarin de internationale aanvrage wordt gepubliceerd verschilt van de taal waarin zij is ingediend, verstrekt het Internationaal Bureau aan een aangewezen bureau, op verzoek van dat bureau, een afschrift van die aanvrage in de taal waarin zij werd ingediend.
+
+47.4. **Uitdrukkelijk verzoek ingevolge artikel 23, tweede lid, voorafgaand aan internationale publicatie**
+
+Wanneer de aanvrager voorafgaand aan de internationale publicatie van de internationale aanvrage een uitdrukkelijk verzoek ingevolge [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=23&z=2008-07-01&g=2008-07-01), indient bij het aangewezen bureau, verricht het Internationaal Bureau op verzoek van de aanvrager of het aangewezen bureau onverwijld de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=I&artikel=20&z=2008-07-01&g=2008-07-01) voorziene toezending aan dat bureau.
+
+##### Regel 48. Internationale publicatie
+
+48.1. **Vorm en middelen**
+
+De vorm waarin en de middelen waarmee internationale aanvragen worden gepubliceerd worden bepaald door de Administratieve Instructies.
+
+48.2. **Inhoud**
+
+- a). De publicatie van de internationale aanvrage bevat:
+
+- i. een gestandaardiseerd voorblad;
+
+- ii. de beschrijving;
+
+- iii. de conclusies;
+
+- iv. de tekeningen, indien aanwezig;
+
+- v. met inachtneming van paragraaf g, het verslag van het internationale nieuwheidsonderzoek of de in artikel 17, tweede lid, onder a, bedoelde verklaring;
+
+- vi. elke ingevolge artikel 19, eerste lid, ingediende verklaring, tenzij het Internationale Bureau van oordeel is dat de verklaring niet voldoet aan de bepalingen van Regel 46.4;
+
+- vii. indien het Internationale Bureau het verzoek om publicatie uit hoofde van Regel 91.3 d ontvangt voordat de technische voorbereidingen voor internationale publicatie zijn afgerond, elk verzoek om verbetering van een kennelijke fout, elke reden en elk commentaar bedoeld in Regel 91.3 d;
+
+- viii. de vermeldingen met betrekking tot gedeponeerd biologisch materiaal, los van de beschrijving verstrekt ingevolge Regel 13**bis,**tezamen met een vermelding van de datum waarop het Internationale Bureau deze vermeldingen heeft ontvangen;
+
+- ix. alle informatie betreffende een beroep op een recht van voorrang bedoeld in Regel 26**bis** 2 d;
+
+- x. elke verklaring bedoeld in Regel 4.17 en elke verbetering daarvan ingevolge Regel 26**ter** 1, die voor het verstrijken van de termijn ingevolge Regel 26**ter** 1 door het Internationale Bureau is ontvangen;
+
+- xi. alle informatie betreffende een verzoek uit hoofde van Regel 26**bis** 3 om herstel van een recht van voorrang en de beslissing van het ontvangende bureau naar aanleiding van een dergelijk verzoek, met inbegrip van informatie betreffende het criterium voor herstel waarop de beslissing gebaseerd is.
+
+- b). Met inachtneming van paragraaf c bevat het voorblad:
+
+- i. gegevens uit het aanvraagformulier en andere gegevens die zijn voorgeschreven door de Administratieve Instructies;
+
+- ii. een figuur of figuren indien de internationale aanvrage tekeningen bevat, tenzij Regel 8.2 b van toepassing is;
+
+- iii. het uittreksel; indien het uittreksel zowel in het Engels als in een andere taal is gesteld, komt de Engelse tekst vooraan;
+
+- iv. indien van toepassing, een vermelding dat het verzoekschrift een verklaring bedoeld in Regel 4.17 bevat die het Internationale Bureau heeft ontvangen voordat de termijn ingevolge Regel 26**ter** 1 verstreken was;
+
+- v. indien de datum van internationale indiening door het ontvangende bureau ingevolge Regel 20.3 b ii of 20.5 d is toegekend op basis van de opneming door verwijzing ingevolge de Regels 4.18 en 20.6 van een element of onderdeel, een vermelding daaromtrent tezamen met een vermelding of de aanvrager voor de toepassing van Regel 20.6 a ii uitging van een voldoen aan Regel 17.1 a, b of b-**bis** met betrekking tot het voorrangsbewijs of op een afzonderlijk ingediend afschrift van de desbetreffende eerdere aanvrage;
+
+- vi. indien van toepassing, een vermelding dat de gepubliceerde internationale aanvrage informatie ingevolge Regel 26**bis** 2 d bevat;
+
+- vii. indien van toepassing, een vermelding dat de gepubliceerde internationale aanvrage informatie bevat betreffende een verzoek ingevolge Regel 26**bis** 3 om herstel van het recht van voorrang en de beslissing van het ontvangende bureau over een dergelijk verzoek;
+
+- viii. indien van toepassing, een vermelding dat de aanvrager ingevolge Regel 26**bis** 3 f het Internationale Bureau afschriften heeft verstrekt van elke verklaring of andere bewijzen.
+
+- c). Wanneer een verklaring ingevolge artikel 17, tweede lid, onder **a)** is afgelegd, dient op de voorpagina zeer duidelijk naar dit feit te worden verwezen en behoeft deze geen tekening of uittreksel te bevatten.
+
+- d). De figuur of figuren bedoeld onder paragraaf **b)**(ii) dienen te worden gekozen zoals bepaald in Regel 8.2. Deze figuur of figuren kunnen op de voorpagina in verkleinde vorm worden gereproduceerd.
+
+- e). Indien er op de voorpagina niet voldoende ruimte is voor het hele onder paragraaf**b)**(iii) bedoelde uittreksel, dient dit uittreksel te worden afgedrukt op de achterzijde van de voorpagina. Hetzelfde geldt voor de vertaling van het uittreksel, wanneer deze vertaling dient te worden gepubliceerd ingevolge Regel 48.3**c)**.
+
+- f). Indien de conclusies ingevolge artikel 19 zijn gewijzigd, bevat de publicatie van de internationale aanvrage de volledige tekst van de conclusies zoals ingediend en zoals gewijzigd. Voorts dient een verklaring bedoeld in artikel 19, eerste lid, te worden opgenomen, tenzij het Internationale Bureau van oordeel is dat de verklaring niet voldoet aan de bepalingen van Regel 46.4. De datum van ontvangst door het Internationale Bureau van de gewijzigde conclusies dient te worden vermeld.
+
+- g). Indien op het tijdstip waarop de technische voorbereidingen voor de internationale publicatie zijn afgerond, het verslag van het internationale nieuwheidsonderzoek nog niet beschikbaar is, dient op het voorblad te worden vermeld dat dat verslag nog niet beschikbaar was en dat het verslag van het internationale nieuwheidsonderzoek (zodra het beschikbaar wordt) afzonderlijk zal worden gepubliceerd met een herzien voorblad.
+
+- h). Indien, op het tijdstip van de afronding van de technische voorbereidingen voor de internationale publicatie, de termijn voor wijziging van de conclusies ingevolge artikel 19 niet verstreken is, dient zulks op het voorblad te worden vermeld alsmede dat, indien de conclusies ingevolge artikel 19 mochten worden gewijzigd, onverwijld na de ontvangst door het Internationale Bureau van zulke wijzigingen binnen de termijn ingevolge Regel 46.1, de volledige tekst van de conclusies zoals gewijzigd met een herzien voorblad zal worden gepubliceerd. Indien een verklaring ingevolge artikel 19, eerste lid, is ingediend, wordt deze eveneens gepubliceerd, tenzij het Internationale Bureau van oordeel is dat de verklaring niet voldoet aan de bepalingen van Regel 46.4.
+
+- i). Indien de goedkeuring van een verbetering van een kennelijke fout in de internationale aanvrage bedoeld in Regel 91.1 door het Internationale Bureau wordt ontvangen of, indien van toepassing, wordt gegeven nadat de technische voorbereidingen voor internationale publicatie zijn afgerond, wordt een verklaring met een weergave van alle verbeteringen gepubliceerd tezamen met de bladen die de verbeteringen bevatten of de vervangende bladen en de brief verstrekt ingevolge Regel 91.2, naargelang van het geval, en het voorblad dient opnieuw te worden gepubliceerd.
+
+- j). Indien ten tijde van de afronding van de technische voorbereidingen voor internationale publicatie een verzoek ingevolge Regel 26**bis** 3 om herstel van het recht van voorrang nog in behandeling is, dient de gepubliceerde internationale aanvrage in plaats van de beslissing van het ontvangende bureau over dat verzoek aan te geven dat deze beslissing nog niet beschikbaar was en dat deze, zodra deze beschikbaar is, afzonderlijk zal worden gepubliceerd.
+
+- k). Indien een verzoek om publicatie ingevolge Regel 91.3 d door het Internationale Bureau ontvangen werd na de afronding van de technische voorbereidingen voor internationale publicatie, worden het verzoek om verbetering, de redenen en het eventuele commentaar bedoeld in die Regel onverwijld gepubliceerd na de ontvangst van dat verzoek om publicatie en wordt het voorblad opnieuw gepubliceerd.
+
+48.3. **Talen van publicatie**
+
+- a). Indien de internationale aanvrage is ingediend in het Arabisch, het Chinees, het Duits, het Engels, het Frans, het Japans, het Russisch of het Spaans, (“talen van publicatie”), wordt deze aanvrage gepubliceerd in de taal waarin zij werd ingediend.
+
+- b). Indien de internationale aanvrage niet is ingediend in een taal van publicatie en een vertaling in een taal van publicatie is verstrekt ingevolge Regel 12.3 of 12.4, wordt deze aanvrage gepubliceerd in de taal van die vertaling.
+
+- c). Indien de internationale aanvrage in een andere taal dan het Engels wordt gepubliceerd, dienen het verslag van het internationale nieuwheidsonderzoek, voor zover dit ingevolge Regel 48.2 a v gepubliceerd wordt, of de in artikel 17, tweede lid, onder a bedoelde verklaring, de titel van de uitvinding, het uittreksel en enige tekst bij de figuur of figuren bij het uittreksel, zowel in die taal als in het Engels gepubliceerd te worden. De vertalingen, indien deze niet ingevolge Regel 12.3 door de aanvrager worden verstrekt, worden vervaardigd onder de verantwoordelijkheid van het Internationaal Bureau
+
+48.4. **Vervroegde publikatie op verzoek van de aanvrager**
+
+- a). Wanneer de aanvrager verzoekt om publikatie ingevolge de rtikelen 21, tweede lid, onder **b)** en 64, derde lid, onder **c)**, sub (i), en het verslag van het internationale nieuwheidsonderzoek, of de verklaring bedoeld in artikel 17, tweede lid, onder **a)**, nog niet beschikbaar is voor publikatie te zamen met de internationale aanvrage, int het internationale Bureau een speciale publikatietaks waarvan het bedrag in de Admitieve Instructies wordt vastgesteld.
+
+- b). Publikatie ingevolge de artikelen 21, tweede lid, onder **b)** en 64, derde lid, onder **c)**, sub (i), dient te worden verricht door het Internationale Bureau en wel onverwijld nadat de aanvrager daarom heeft verzocht en, wanneer ingevolge het bepaalde onder paragraaf **a)** een bijzondere taks is verschuldigd, na ontvangst van deze taks.
+
+48.5. **Kennisgeving van nationale publikatie**
+
+Wanneer de publikatie van de internationale aanvrage door het Internationale Bureau wordt beheerst door artikel 64, derde lid, onder **c)**, sub (ii), dient het betrokken nationale bureau, onverwijld na het verrichten van de in die bepaling bedoelde nationale publikatie, het Internationale Bureau van deze nationale publikatie in kennis te stellen.
+
+48.6. **Aankondiging van bepaalde feiten**
+
+- a). Indien een kennisgeving ingevolge Regel 29.1 ii. het Internationaal Bureau bereikt op een later tijdstip dan dat waarop het de internationale publicatie van de internationale aanvrage kon voorkomen, dient het Internationaal Bureau onverwijld een aankondiging in het mededelingenblad te plaatsen waarin de voornaamste inhoud van deze kennisgeving wordt weergegeven.
+
+- b). Vervallen.
+
+- c). Indien de internationale aanvrage, de aanwijzing van een aangewezen Staat of het beroep op een recht van voorrang ingevolge Regel 90**bis** wordt ingetrokken nadat de technische voorbereidingen voor de internationale publikatie zijn voltooid, dient een kennisgeving van de intrekking te worden gepubliceerd in het mededelingenblad.
+
+##### Regel 49. Afschrift, vertaling en taks ingevolge artikel 22
+
+49.1. **Kennisgeving**
+
+- a). Een Verdragsluitende Staat die verlangt dat ingevolge artikel 22 een vertaling wordt verstrekt of een nationale taks wordt betaald, of beide, geeft het Internationale Bureau kennis van:
+
+- (i). de talen waaruit en de taal waarin hij vertaling verlangt,
+
+- (ii). het bedrag van de nationale taks.
+
+- a-bis). Een Verdragsluitende Staat die niet verlangt dat ingevolge artikel 22 door de aanvrager een afschrift van de internationale aanvrage wordt verstrekt (zelfs indien de toezending van het afschrift van de internationale aanvrage door het Internationale Bureau ingevolge Regel 47 niet heeft plaatsgevonden voor het verstrijken van de ingevolge artikel 22 van toepassing zijnde termijn) stelt het Internationale Bureau daarvan in kennis.
+
+- a-ter). Een Verdragsluitende Staat die, indien hij een aangewezen Staat is, ingevolge artikel 24, tweede lid, de rechtsgevolgen bepaald in artikel 11, derde lid, handhaaft, zelfs indien een afschrift van de internationale aanvrage niet is verstrekt door de aanvrager voor het verstrijken van de ingevolge artikel 22 van toepassing zijnde termijn, stelt het Internationale Bureau daarvan in kennis.
+
+- b). Een kennisgeving ontvangen door het Internationale Bureau ingevolge het bepaalde onder de paragrafen a), a-bis) of a-ter) wordt door het Internationale Bureau onverwijld bekendgemaakt in het mededelingenblad.
+
+- c). Indien de onder paragraaf **a)** gestelde vereisten later veranderen, dienen deze veranderingen door de Verdragsluitende Staat ter kennis te worden gebracht van het Internationale Bureau en dit Bureau maakt de kennisgeving onverwijld bekend in het mededelingenblad. Indien de verandering inhoudt dat vertaling is vereist in een taal die vóór de verandering niet was vereist, geldt deze verandering slechts ten aanzien van internationale aanvragen die meer dan 2 maanden na de bekendmaking van de kennisgeving in het mededelingenblad worden ingediend. In de andere gevallen wordt de datum waarop een verandering ingaat, bepaald door de Verdragsluitende Staat.
+
+49.2. **Talen**
+
+De taal waarin een vertaling kan worden verlangd, moet een officiële taal van het aangewezen bureau zijn. Indien er meer dan één officiële taal is, kan geen vertaling worden geëist, indien de internationale aanvrage in een van deze talen is gesteld. Indien er meer dan één officiële taal is en een vertaling moet worden verstrekt, kan de aanvrager een van deze talen kiezen. Niettegenstaande de voorgaande bepalingen van deze paragraaf kan, indien er meer dan één officiële taal is, maar de nationale wetgeving het gebruik van een dezer talen voorschrijft voor vreemdelingen, een vertaling in die taal worden geëist.
+
+49.3. **Verklaringen ingevolge artikel 19; vermeldingen ingevolge Regel 13bis.4**
+
+Voor de toepassing van artikel 22 en van de onderhavige Regel worden een ingevolge artikel 19, eerste lid, afgelegde verklaring en een vermelding verstrekt ingevolge Regel 13bis.4, onverminderd het bepaalde in Regel 49.5 c) en h), als een deel van de internationale aanvrage beschouwd.
+
+49.4. **Gebruik van een nationaal formulier**
+
+Geen aanvrager behoeft een nationaal formulier te gebruiken voor het verrichten van de in artikel 22 bedoelde handelingen.
+
+49.5. **Inhoud en vormvoorschriften van de vertaling**
+
+- a). Voor de toepassing van artikel 22 dient de vertaling van de internationale aanvrage te bevatten de beschrijving (onverminderd paragraaf a-**bis**), de conclusies, de tekst bij de tekeningen en het uittreksel. Indien het aangewezen bureau daarom verzoekt, dient de vertaling, onverminderd het bepaalde in de paragrafen b, c-**bis** en e, tevens
+
+- (i). het verzoekschrift te bevatten,
+
+- (ii). zowel de oorspronkelijke als de gewijzigde conclusies te bevatten, indien de conclusies ingevolge artikel 19 zijn gewijzigd; alsmede
+
+- (iii). vergezeld te gaan van een afschrift van de tekeningen.
+
+- a-bis). Een aangewezen bureau mag de aanvrager niet vragen om een vertaling van tekst in het sequentie-opsommingsdeel van de beschrijving indien dit sequentie-opsommingsdeel voldoet aan Regel 12.1 d en indien de beschrijving voldoet aan Regel 5.2 b.
+
+- b). Een aangewezen bureau dat het verstrekken van een vertaling van het verzoekschrift verlangt, dient afschriften van het formulier van het verzoekschrift in de taal van de vertaling kosteloos aan de aanvragers te verschaffen. Vorm en inhoud van het formulier van het verzoekschrift in de taal van de vertaling dienen niet af te wijken van die van het verzoekschrift ingevolge de Regels 3 en 4; het formulier in de taal van de vertaling dient in het bijzonder geen gegevens te vragen die niet in het oorspronkelijke verzoekschrift zijn opgenomen. Het gebruik van het formulier van het verzoekschrift in de taal van de vertaling dient vrij te zijn.
+
+- c). Wanneer de aanvrager geen vertaling verstrekt van een ingevolge artikel 19, eerste lid, afgelegde verklaring, kan het aangewezen bureau een dergelijke verklaring buiten beschouwing laten.
+
+- c-bis). Wanneer de aanvrager aan een aangewezen bureau dat ingevolge paragraaf a ii een vertaling verlangt van zowel de conclusies zoals ingediend als de conclusies zoals gewijzigd, slechts één van de twee verlangde vertalingen verstrekt, kan het aangewezen bureau de conclusies waarvan geen vertaling is verstrekt buiten beschouwing laten of de aanvrager uitnodigen de ontbrekende vertaling te verstrekken binnen een termijn die gezien de omstandigheden redelijk is en in de uitnodiging is vastgesteld. Wanneer het aangewezen bureau verkiest de aanvrager uit te nodigen de ontbrekende vertaling te verstrekken en deze niet is verstrekt binnen de in de uitnodiging vastgestelde termijn, kan het aangewezen bureau de conclusies waarvan geen vertaling is verstrekt buiten beschouwing laten of de internationale aanvrage als ingetrokken beschouwen.
+
+- d). Indien een tekening tekst bevat, dient de vertaling van die tekst verstrekt te worden, hetzij in de vorm van een afschrift van de oorspronkelijke tekening met de vertaling geplakt op de originele tekst, hetzij in de vorm van een opnieuw uitgevoerde tekening.
+
+- e). Een aangewezen bureau dat ingevolge paragraaf a het verstrekken van een afschrift van de tekeningen verlangt, dient, wanneer de aanvrager niet binnen de termijn bepaald in artikel 22 dit afschrift heeft verstrekt, de aanvrager uit te nodigen dit afschrift te verstrekken binnen een termijn die gezien de omstandigheden redelijk is en in de uitnodiging is vastgesteld.
+
+- f). De uitdrukking „Fig.” behoeft in geen enkele taal vertaald te worden.
+
+- g). Wanneer een afschrift van de tekeningen of een opnieuw uitgevoerde tekening die is verstrekt ingevolge paragraaf d) of e), onverenigbaar is met de in Regel 11 genoemde vormvoorschriften, kan het aangewezen bureau de aanvrager verzoeken het gebrek binnen een termijn die naar de omstandigheden redelijk is en opgenomen is in het verzoek, te verbeteren.
+
+- h). Wanneer de aanvrager geen vertaling heeft verstrekt van het uittreksel of een ingevolge Regel 13**bis**.4 verstrekte vermelding, nodigt het aangewezen bureau de aanvrager uit de vertaling alsnog te verstrekken, indien het zulks noodzakelijk acht, binnen een termijn die gezien de omstandigheden redelijk is en in de uitnodiging is vastgesteld.
+
+- i). Gegevens inzake een vereiste en de handelwijze van aangewezen bureaus, met betrekking tot de tweede zin van paragraaf a), wordendoor het Internationale Bureau in het mededelingenblad bekendgemaakt.
+
+- j). Een aangewezen bureau mag niet verlangen dat de vertaling van de internationale aanvrage voldoet aan andere vormvoorschriften dan die welke voorgeschreven zijn voor de oorspronkelijke internationale aanvrage.
+
+- k). Wanneer een titel door de Instantie voor Internationaal Nieuwheidsonderzoek is vastgesteld ingevolge Regel 37.2, dient de vertaling de titel te bevatten zoals vastgesteld door die Instantie.
+
+- l). Indien paragraaf c**-bis** of paragraaf k op 12 juli 1991 niet verenigbaar is met de door het aangewezen bureau toegepaste nationale wetgeving, is de desbetreffende bepaling niet van toepassing op dat aangewezen bureau zolang deze niet verenigbaar is met die wetgeving, mits genoemd bureau het Internationale Bureau hiervan in kennis stelt voor 31 december 1991. De ontvangen informatie wordt door het Internationale Bureau onverwijld gepubliceerd in het mededelingenblad.
+
+49.6. **Herstel van rechten indien verzuimd is de in artikel 22 bedoelde handelingen te verrichten**
+
+- a. Indien de rechtsgevolgen van de internationale aanvrage voorzien in artikel 11, derde lid, zijn vervallen, omdat de aanvrager verzuimd heeft binnen de desbetreffende termijn de in artikel 22 bedoelde handelingen te verrichten, herstelt het aangewezen bureau de aanvrager op diens verzoek en met inachtneming van het gestelde in de paragrafen b tot en met e van deze regel, in zijn rechten met betrekking tot die internationale aanvrage, indien het oordeelt dat de vertraging bij de inachtneming van die termijn onopzettelijk is ontstaan, of, naar keuze van het aangewezen bureau, dat die termijn niet in acht is genomen ondanks het betrachten van in de gegeven omstandigheden geboden zorgvuldigheid.
+
+- b. Het verzoek krachtens paragraaf a wordt ingediend bij het aangewezen bureau en de in artikel 22 bedoelde handelingen dienen te worden verricht binnen de termijn die het eerst verstrijkt:
+
+- i. twee maanden na de datum waarop de oorzaak van de niet-inachtneming van de desbetreffende termijn krachtens artikel 22 is weggenomen; of
+
+- ii. twaalf maanden na de datum waarop de desbetreffende termijn krachtens artikel 22 verstrijkt; mits de aanvrager het verzoek op een later tijdstip mag indienen indien zulks wordt toegestaan door het van toepassing zijnde en door het aangewezen bureau toegepaste nationale recht.
+
+- c. In het verzoek krachtens paragraaf a worden de redenen vermeld voor het niet in acht nemen van de desbetreffende termijn krachtens artikel 22.
+
+- d. Het van toepassing zijnde, door het aangewezen bureau toegepaste nationale recht kan voorschrijven dat:
+
+- i. een taks wordt betaald ter zake van een verzoek krachtens paragraaf a;
+
+- ii. een verklaring of andere bewijzen worden ingediend ter staving van de in paragraaf c bedoelde redenen.
+
+- e. Het aangewezen bureau wijst geen verzoeken krachtens paragraaf a af zonder de aanvrager in de gelegenheid te stellen binnen een gegeven de omstandigheden redelijke termijn bezwaar te maken tegen de beoogde afwijzing.
+
+- f. Indien de paragrafen a tot en met e op 1 oktober 2002 niet verenigbaar zijn met de door het aangewezen bureau toegepaste nationale wetgeving, zijn deze paragrafen niet van toepassing op dat aangewezen bureau zolang zij niet verenigbaar zijn met die wetgeving, mits genoemd bureau het Internationaal Bureau hiervan in kennis stelt voor 1 januari 2003. De ontvangen informatie wordt door het Internationaal Bureau onverwijld gepubliceerd in het mededelingenblad.
+
+##### Regel 50. Bevoegdheid ingevolge artikel 22, derde lid
+
+50.1. **Uitoefening van bevoegdheid**
+
+- a). Een Verdragsluitende Staat die een termijn toestaat welke later verstrijkt dan de in artikel 22, eerste of tweede lid, bepaalde termijnen, dient het Internationale Bureau de vastgestelde termijnen mede te delen.
+
+- b). Een door het Internationale Bureau ingevolge het bepaalde onder paragraaf **a)** ontvangen mededeling wordt door het Internationale Bureau onverwijld bekendgemaakt in het mededelingenblad.
+
+- c). Mededelingen over de verkorting van de voordien vastgestelde termijn hebben rechtsgevolgen voor de internationale aanvragen, ingediend na het verstrijken van 3 maanden na de datum waarop de mededeling door het Internationale Bureau is bekendgemaakt.
+
+- d). Mededelingen over de verlenging van de voordien vastgestelde termijn worden van kracht op het tijdstip van de bekendmaking door het Internationale Bureau in het mededelingenblad ten aanzien van internationale aanvragen die op dat tijdstip aanhangig zijn of die na de datum van deze bekendmaking zijn ingediend, dan wel, indien de Verdragsluitende Staat die de mededeling doet een latere datum vaststelt, met ingang van die latere datum.
+
+##### Regel 51. Bestudering door aangewezen bureaus
+
+51.1. **Termijn voor indiening van het verzoek afschriften te zenden**
+
+De termijn bedoeld in artikel 25, eerste lid, onder c, is twee maanden, te rekenen vanaf de datum van de kennisgeving gezonden aan de aanvrager ingevolge de Regels 20.4 i, 24.2 c of 29.1 ii.
+
+51.2. **Afschrift van de kennisgeving**
+
+Indien de aanvrager, na een negatieve beslissing ingevolge artikel 11, eerste lid, te hebben ontvangen, het Internationale Bureau ingevolge artikel 25, eerste lid, verzoekt afschriften van het dossier van de als internationaal bedoelde aanvrage toe te zenden aan een van de bureaus die hij heeft gepoogd aan te wijzen, dient hij aan zijn verzoek een afschrift te hechten van de kennisgeving bedoeld in Regel 20.4 i.
+
+51.3. **Termijn voor betaling van de nationale taks en verstrekking van een vertaling**
+
+De termijn bedoeld in artikel 25, tweede lid, onder **a)** verstrijkt op hetzelfde tijdstip als de termijn voorgeschreven in Regel 51.1.
+
+##### Regel 52. Wijziging van de conclusies, de beschrijving en de tekeningen voor aangewezen bureaus
+
+52.1. **Termijn**
+
+- a). In een aangewezen Staat waar de behandeling of beoordeling zonder speciaal verzoek begint, dient de aanvrager, indien hij zulks wenst, het recht ingevolge artikel 28 uit te oefenen binnen een maand nadat aan de vereisten ingevolge artikel 22 is voldaan, met dien verstande dat, indien de toezending ingevolge Regel 47.1 niet vóór het verstrijken van de ingevolge artikel 22 van toepassing zijnde termijn is gedaan, hij genoemd recht dient uit te oefenen uiterlijk vier maanden na deze datum van verstrijken. In beide gevallen kan de aanvrager dit recht op elk later tijdstip uitoefenen, indien de nationale wetgeving van de genoemde Staat zulks toestaat.
+
+- b). In een aangewezen Staat waarin de nationale wetgeving bepaalt dat de beoordeling slechts op speciaal verzoek begint, dient de termijn waarbinnen of het tijdstip waarop de aanvrager het recht ingevolge artikel 28 kan uitoefenen dezelfde of hetzelfde te zijn als die welke bij de nationale wetgeving is bepaald voor de indiening van wijzigingen in het geval van beoordeling, op speciaal verzoek, van nationale aanvragen, met dien verstande dat deze termijn niet mag zijn verstreken vóór, of dit tijdstip niet mag vallen vóór, het verstrijken van de ingevolge het bepaalde onder paragraaf **a)** van toepassing zijnde termijn.
+
+## DEEL C. Voorschriften betreffende hoofdstuk II van het Verdrag
+
+##### Regel 53. Het verzoek
+
+53.1. **Vorm**
+
+- a. Het verzoek dient te worden gesteld op een gedrukt formulier of te worden ingediend in de vorm van een computeruitdraai. De nadere bijzonderheden van het gedrukte formulier en het in de vorm van een computeruitdraai ingediende verzoek worden voorgeschreven in de Administratieve Instructies.
+
+- b. Exemplaren van gedrukte formulieren voor het verzoek worden kosteloos verstrekt door het ontvangende bureau of de Instantie voor de Internationale Voorlopige Beoordeling.
+
+53.2. **Inhoud**
+
+- a). Het verzoek dient te bevatten:
+
+- (i). een verzoek,
+
+- (ii). gegevens betreffende de aanvrager en de gemachtigde, indien er een gemachtigde is,
+
+- (iii). gegevens over de internationale aanvrage waarop zij betrekking heeft,
+
+- (iv). een verklaring inzake wijzigingen, indien van toepassing.
+
+- b). Het verzoek dient te zijn ondertekend.
+
+53.3. **Het verzoek**
+
+Het verzoek dient de volgende strekking te hebben en bij voorkeur als volgt te luiden: „Verzoek ingevolge artikel 31 van het Verdrag tot samenwerking inzake octrooien: De ondergetekende verzoekt dat de hieronder nader aangegeven internationale aanvrage zal worden onderworpen aan een internationale voorlopige beoordeling overeenkomstig het Verdrag tot samenwerking inzake octrooien”.
+
+53.4. **De aanvrager**
+
+Ten aanzien van de gegevens betreffende de aanvrager zijn de Regels 4.4 en 4.16 van toepassing en is Regel 4.5 van overeenkomstige toepassing.
+
+53.5. **De gemachtigde of gemeenschappelijke vertegenwoordiger**
+
+Indien er een gemachtigde of een gemeenschappelijke vertegenwoordiger is benoemd, dient het verzoek zulks te vermelden. Regels 4.4 en 4.16 zijn van toepassing en Regel 4.7 is van overeenkomstige toepassing.
+
+53.6. **Gegevens over de internationale aanvrage**
+
+De internationale aanvrage dient te worden aangegeven door de naam en het adres van de aanvrager, de titel van de uitvinding, de datum van de internationale indiening (indien deze de aanvrager bekend is) en het nummer van de internationale aanvrage of, wanneer dit nummer de aanvrager niet bekend is, de naam van het ontvangende bureau waarbij de internationale aanvrage werd ingediend.
+
+53.7. **Keuze van Staten**
+
+Het indienen van een verzoek geldt als de keuze van alle Verdragsluitende Staten die zijn aangewezen en gebonden zijn door Hoofdstuk II van het Verdrag.
+
+53.8. **Ondertekening**
+
+- a. Behoudens het in paragraaf b bepaalde, dient het verzoek te zijn ondertekend door de aanvrager, of, indien er meer aanvragers zijn, door alle aanvragers die het verzoek doen.
+
+- b. Wanneer door meer dan één aanvrager een verzoek wordt ingediend waarin een Staat wordt gekozen waarvan de nationale wetgeving voorschrijft dat de nationale aanvragen moeten worden ingediend door de uitvinder en wanneer een aanvrager voor die gekozen Staat die een uitvinder is, heeft geweigerd het verzoek te ondertekenen of na naarstige pogingen niet kon worden gevonden of bereikt, behoeft het verzoek niet te worden ondertekend door die aanvrager („de betrokken aanvrager”) indien het door ten minste één aanvrager is ondertekend en
+
+- i. een verklaring wordt overgelegd waarin, ten genoegen van de Instantie voor de Internationale Voorlopige Beoordeling, het ontbreken van de handtekening van de betrokken aanvrager wordt toegelicht, of
+
+- ii. de betrokken aanvrager het verzoekschrift niet heeft ondertekend, maar aan de vereisten van Regel 4.15 b werd voldaan.
+
+53.9. **Verklaring betreffende wijzigingen**
+
+- a. Indien wijzigingen ingevolge artikel 19 zijn aangebracht, dient de verklaring betreffende wijzigingen aan te geven of, met het oog op de internationale voorlopige beoordeling, de aanvrager wenst dat die wijzigingen
+
+- i. in aanmerking worden genomen, in welk geval een afschrift van de wijzigingen bij voorkeur met het verzoek moet worden ingediend, of
+
+- ii. worden geacht te zijn achterhaald door een wijziging ingevolge artikel 34.
+
+- b. Indien geen wijzigingen ingevolge artikel 19 zijn aangebracht en de termijn voor de indiening van zodanige wijzigingen niet is verstreken, kan in de verklaring worden aangeven dat, indien de Instantie voor de Internationale Voorlopige Beoordeling de internationale voorlopige beoordeling tegelijkertijd met het internationale nieuwheidsonderzoek overeenkomstig Regel 69.1 b wenst aan te vangen, de aanvrager de aanvang van de internationale voorlopige beoordeling wenst uit te stellen overeenkomstig Regel 69.1 d.
+
+- c. Indien er wijzigingen ingevolge artikel 34 worden ingediend met het verzoek, dient dit in de verklaring te worden vermeld.
+
+##### Regel 54. De aanvrager die bevoegd is een verzoek te doen
+
+54.1. **Woonplaats en nationaliteit**
+
+- a. Behoudens het in paragraaf b bepaalde, worden de woonplaats en de nationaliteit van de aanvrager voor de toepassing van artikel 31, tweede lid, bepaald overeenkomstig Regel 18.1 a en b.
+
+- b. De Instantie voor de Internationale Voorlopige Beoordeling verzoekt, in de in de Administratieve Instructies genoemde omstandigheden, het ontvangende bureau of, indien de internationale aanvrage werd ingediend bij het Internationale Bureau dat fungeert als ontvangend bureau, het nationale bureau van, of dat optreedt voor, de betrokken Verdragsluitende Staat te beslissen over de vraag of de aanvrager inwoner of onderdaan is van de Verdragsluitende Staat waarvan hij beweert inwoner of onderdaan te zijn. De Instantie voor de Internationale Voorlopige Beoordeling stelt de aanvrager van een eventueel verzoek hiertoe in kennis. De aanvrager dient de mogelijkheid te hebben rechtstreeks aan het betrokken bureau argumenten voor te leggen. Het betrokken bureau beslist onverwijld over deze vraag.
+
+54.2. **Het recht om een verzoek te doen**
+
+Het recht om een verzoek te doen ingevolge artikel 31, tweede lid, bestaat indien de aanvrager die het verzoek doet of, indien er twee of meer aanvragers zijn, ten minste een van hen, domicilie heeft of onderdaan is van een Verdragsluitende Staat die is gebonden door Hoofdstuk II, en de internationale aanvrage is ingediend bij een ontvangend bureau van, of bij een bureau dat optreedt voor, een Verdragsluitende Staat die is gebonden door Hoofdstuk II.
+
+54.3. **Internationale aanvragen ingediend bij het Internationale Bureau dat fungeert als ontvangend bureau**
+
+Wanneer de internationale aanvrage wordt ingediend bij het Internationale Bureau dat fungeert als ontvangend bureau ingevolge Regel 19.1 a iii, wordt voor de toepassing van artikel 31, tweede lid, a, het Internationale Bureau geacht op te treden voor de Verdragsluitende Staat waarvan de aanvrager inwoner of onderdaan is.
+
+54.4. **De aanvrager die niet bevoegd is een verzoek te doen**
+
+Indien de aanvrager niet gerechtigd een verzoek te doen of, in het geval van meer dan één aanvrager, indien geen van hen gerechtigd is een verzoek te doen ingevolge Regel 54.2, wordt het verzoek als niet ingediend beschouwd.
+
+##### Regel 55. Talen (internationale voorlopige beoordeling)
+
+55.1. **Taal van het verzoek**
+
+Het verzoek dient te zijn gesteld in de taal van de internationale aanvrage of, indien de internationale aanvrage is ingediend in een andere taal dan die waarin zij wordt gepubliceerd, in de taal van de publikatie. Indien er echter een vertaling van de internationale aanvrage vereist is ingevolge Regel 55.2, dient het verzoek te zijn gesteld in de taal van die vertaling.
+
+55.2. **Vertaling van de internationale aanvrage**
+
+- a. Wanneer noch de taal waarin de internationale aanvrage wordt ingediend, noch de taal waarin de internationale aanvrage wordt gepubliceerd, door de Instantie voor de Internationale Voorlopige Beoordeling die de internationale voorlopige beoordeling moet uitvoeren wordt geaccepteerd, dient de aanvrager, onverminderd paragraaf b, tezamen met het verzoek een vertaling van de internationale aanvrage te verstrekken in een taal die zowel:
+
+- i. door die Instantie wordt geaccepteerd, als
+
+- ii. een taal van publicatie is.
+
+- a-bis. Een vertaling van de internationale aanvrage in een taal bedoeld in paragraaf a dient een element te bevatten zoals bedoeld in artikel 11, eerste lid, onder iii d of e, verstrekt door de aanvrager ingevolge Regel 20.3 b of 20.6 a en elk deel van de beschrijving, conclusies of tekeningen verstrekt door de aanvrager ingevolge Regel 20.5 b of 20.6 a. dat geacht wordt te zijn begrepen in de internationale aanvrage ingevolge Regel 20.6 b.
+
+- a-ter. De Instantie voor de Internationale Voorlopige Beoordeling controleert of elke ingevolge paragraaf a verstrekte vertaling aan de in Regel 11 genoemde vormvoorschriften voldoet voor zover dat noodzakelijk is voor een internationale voorlopige beoordeling.
+
+- b. Wanneer een vertaling van de internationale aanvrage in een in paragraaf a bedoelde taal ingevolge Regel 23.1 b aan de Instantie voor Internationaal Nieuwheidsonderzoek is toegezonden en de Instantie voor de Internationale Voorlopige Beoordeling deel uitmaakt van hetzelfde nationale bureau of dezelfde intergouvernementele organisatie als de Instantie voor Internationaal Nieuwheidsonderzoek, behoeft de aanvrager geen vertaling ingevolge paragraaf a te verstrekken. In dat geval wordt, tenzij de aanvrager een vertaling verstrekt ingevolge paragraaf a, de internationale voorlopige beoordeling verricht op basis van de ingevolge Regel 23.1 b toegezonden vertaling.
+
+- c. Indien niet voldaan wordt aan een in de paragrafen a, a-**bis** en a-**ter** genoemde eis en paragraaf b niet van toepassing is, nodigt de Instantie voor de Internationale Voorlopige Beoordeling de aanvrager uit de vereiste vertaling of de vereiste verbetering, al naargelang van het geval, te verstrekken binnen een gegeven de omstandigheden redelijke termijn. Die termijn mag niet korter zijn dan een maand na de datum van de uitnodiging. De termijn kan te allen tijde voordat een beslissing is genomen worden verlengd door de Instantie voor de Internationale Voorlopige Beoordeling.
+
+- d. Indien de aanvrager binnen de in paragraaf c genoemde termijn aan de uitnodiging gevolg geeft, wordt de genoemde eis als verwezenlijkt beschouwd. Indien de aanvrager dat verzuimt, wordt het verzoek geacht niet te zijn ingediend en zal de Instantie voor de Internationale Voorlopige Beoordeling dit bekendmaken.
+
+55.3. **Vertaling van wijzigingen**
+
+- a. Wanneer een vertaling van de internationale aanvrage vereist is ingevolge Regel 55.2, dienen wijzigingen waarnaar wordt verwezen in de verklaring betreffende wijzigingen ingevolge Regel 53.9 en die de aanvrager in aanmerking wenst te doen nemen voor de internationale voorlopige beoordeling, alsmede wijzigingen ingevolge artikel 19 die ingevolge Regel 66.1 c in aanmerking moeten worden genomen, te zijn gesteld in de taal van die vertaling. Wanneer deze wijzigingen zijn of worden ingediend in een andere taal, dient ook een vertaling te worden verstrekt.
+
+- b. Wanneer de vereiste vertaling van een in paragraaf a bedoelde wijziging niet wordt verstrekt, nodigt de Instantie voor de Internationale Voorlopige Beoordeling de aanvrager uit de ontbrekende vertaling te verstrekken binnen een termijn die gezien de omstandigheden redelijk is. De termijn dient niet korter te zijn dan een maand te rekenen van de datum van de uitnodiging. De termijn kan door de Instantie voor de Internationale Voorlopige Beoordeling te allen tijde worden verlengd voordat een beslissing wordt genomen.
+
+- c. Indien de aanvrager niet binnen de in paragraaf b bedoelde termijn aan de uitnodiging gevolg geeft, wordt de wijziging niet in aanmerking genomen voor de internationale voorlopige beoordeling.
+
+##### Regel 56. Latere keuzen
+
+Vervallen
+
+##### Regel 57. De behandelingstaks
+
+57.1. **Vereiste van betaling**
+
+Voor elk verzoek om een internationale voorlopige beoordeling is een taks ten gunste van het Internationale Bureau („behandelingstaks”) verschuldigd, te innen door de Instantie voor de Internationale Voorlopige Beoordeling waarbij het verzoek is ingediend.
+
+57.2. **Bedrag**
+
+- a). Het bedrag van de behandelingstaks is vermeld in de Taksenschaal.
+
+- b). Vervallen.
+
+- c). De behandelingstaks dient te worden betaald in de valuta of een van de valuta’s die door de Instantie voor de Internationale Voorlopige Beoordeling zijn voorgeschreven (,,voorgeschreven valuta’’), met dien verstande dat zij, wanneer zij door die Instantie worden overgemaakt naar het Internationaal Bureau, vrij inwisselbaar dienen te zijn in Zwitserse valuta. Het bedrag van de behandelingstaks wordt, in elke voorgeschreven valuta, voor elke Instantie voor de Internationale Voorlopige Beoordeling die betaling van de behandelingstaks voorschrijft in een andere valuta dan de Zwitserse valuta, door de Directeur-Generaal vastgesteld na overleg met het bureau waarmee overleg plaatsvindt ingevolge Regel 15.2 b met betrekking tot die valuta, of, bij gebreke van zo’n bureau, met de instantie die betaling in die valuta voorschrijft. Het op die manier vastgestelde bedrag zal het equivalent in ronde bedragen zijn van het in de taksenschaal genoemde bedrag in Zwitserse valuta. Het wordt door het Internationaal Bureau bekendgemaakt aan elke Instantie voor de Internationale Voorlopige Beoordeling die betaling in die voorgeschreven valuta voorschrijft en in het mededelingenblad gepubliceerd.
+
+- d). Wanneer het in de Taksenschaal vermelde bedrag wordt gewijzigd, worden de overeenkomstige bedragen in de voorgeschreven valuta van kracht met ingang van dezelfde datum als het in de gewijzigde Taksenschaal vermelde bedrag.
+
+- e). Wanneer de wisselkoers tussen de Zwitserse valuta en een voorgeschreven valuta gaat verschillen van de laatst toegepaste wisselkoers, stelt de Directeur-Generaal het nieuwe bedrag in de voorgeschreven valuta vast volgens door de Algemene Vergadering gestelde richtlijnen. Het nieuw vastgestelde bedrag wordt twee maanden na de datum van de bekendmaking daarvan in het mededelingenblad van kracht met dien verstande, dat de betrokken Instantie voor de Internationale Voorlopige Beoordeling en de Directeur-Generaal een datum kunnen overeenkomen die binnen genoemde periode van twee maanden valt, in welk geval bedoeld bedrag voor dat bureau met ingang van die datum van kracht wordt.
+
+57.3. **Termijn voor betaling; te betalen bedrag**
+
+- a. Onverminderd het bepaalde onder de paragrafen b en c dient de behandelingstaks te worden betaald binnen een maand na de datum waarop het verzoek is ingediend of 22 maanden na de datum van voorrang, naar gelang van welke termijn het laatst verstrijkt.
+
+- b. Onverminderd het bepaalde onder paragraaf c dient, wanneer het verzoek ingevolge Regel 59.3 verzonden is aan de Instantie voor de Internationale Voorlopige Beoordeling, de behandelingstaks te worden betaald binnen een maand na de datum van ontvangst door die Instantie of 22 maanden na de datum van voorrang, naar gelang van welke termijn het laatst verstrijkt.
+
+- c. Wanneer, in overeenstemming met Regel 69.1 b de Instantie voor de Internationale Voorlopige Beoordeling de internationale voorlopige beoordeling gelijktijdig met het internationale nieuwheidsonderzoek wenst te starten, nodigt deze Instantie de aanvrager uit de behandelingstaks binnen 1 maand na de datum van de uitnodiging te betalen.
+
+- d. Het bedrag van de behandelingstaks is het bedrag dat van toepassing is op de datum van betaling.
+
+57.4. Vervallen.
+
+57.5. Vervallen.
+
+57.6. **Terugbetaling**
+
+De Instantie voor de Internationale Voorlopige Beoordeling betaalt de behandelingstaks aan de aanvrager terug:
+
+- i. indien het verzoek wordt ingetrokken voordat het door die Instantie is toegezonden aan het Internationale Bureau, of
+
+- ii. indien het verzoek ingevolge Regel 54.4 of 54bis. 1 b. als niet ingediend wordt beschouwd.
+
+##### Regel 58. De taks voor voorlopige beoordeling
+
+58.1. **Het recht een taks te vragen**
+
+- a. Elke Instantie voor de Internationale Voorlopige Beoordeling kan verlangen dat de aanvrager te haren gunste een taks betaalt („taks voor voorlopige beoordeling”) voor het verrichten van de internationale voorlopige beoordeling en voor het vervullen van alle andere taken die ingevolge het Verdrag en dit Reglement aan Instanties voor de Internationale Voorlopige Beoordeling zijn opgedragen.
+
+- b. Het bedrag van de taks voor voorlopige beoordeling, indien verschuldigd, wordt vastgesteld door de Instantie voor de Internationale Voorlopige Beoordeling. Met betrekking tot de termijn voor betaling van de taks voor voorlopige beoordeling en het te betalen bedrag zijn de bepalingen van Regel 57.3 inzake de behandelingstaks van overeenkomstige toepassing.
+
+- c. De taks voor voorlopige beoordeling dient rechtstreeks aan de Instantie voor de Internationale Voorlopige Beoordeling te worden betaald. Wanneer deze Instantie een nationaal bureau is, dient de taks te worden betaald in de door dat bureau voorgeschreven valuta en wanneer de Instantie een intergouvernementele organisatie is, dient de taks te worden betaald in de valuta van de Staat waarin de intergouvernementele organisatie is gevestigd of in een andere valuta die vrij inwisselbaar is in de valuta van de genoemde Staat.
+
+58.2. Vervallen.
+
+58.3. **Terugbetaling**
+
+De Instantie voor de Internationale Voorlopige Beoordeling deelt het Internationale Bureau mede of zij, en zo ja, in welke mate en onder welke voorwaarden, een bedrag dat als taks voor voorlopige beoordeling is betaald zal terugbetalen, indien het verzoek als niet ingediend wordt beschouwd, en het Internationale Bureau zal zodanige mededeling onverwijld publiceren.
+
+##### Regel 59. De bevoegde Instantie voor de Internationale Voorlopige Beoordeling
+
+59.1. **Verzoeken ingevolge artikel 31, tweede lid, a**
+
+- a. Met betrekking tot verzoeken gedaan ingevolge artikel 31, tweede lid, a, dient elk ontvangend bureau van, of dat optreedt voor, een Verdragsluitende Staat die is gebonden door de bepalingen van Hoofdstuk II, overeenkomstig de van toepassing zijnde overeenkomst bedoeld in artikel 32, tweede en derde lid, het Internationale Bureau mede te delen welke Instantie(s) voor de Internationale Voorlopige Beoordeling bevoegd is (zijn) voor de internationale voorlopige beoordeling van internationale aanvragen die bij dat bureau zijn ingediend. Het Internationale Bureau maakt deze inlichtingen onverwijld bekend. Wanneer meer dan één Instantie voor de Internationale Voorlopige Beoordeling bevoegd is, zijn de bepalingen van Regel 35.2 van overeenkomstige toepassing.
+
+- b. Wanneer de internationale aanvrage werd ingediend bij het Internationale Bureau dat fungeert als ontvangend bureau ingevolge Regel 19.1 a iii, is Regel 35.3 a en b, van overeenkomstige toepassing. Het in paragraaf a van de onderhavige Regel bepaalde is niet van toepassing op het Internationale Bureau dat fungeert als ontvangend bureau ingevolge Regel 19.1 a iii.
+
+59.2. **Verzoeken ingevolge artikel 31, tweede lid, onder b)**
+
+Met betrekking tot verzoeken gedaan ingevolge artikel 31, tweede lid, onder **b)**, geeft de Algemene Vergadering, bij het aanwijzen van de Instantie voor de Internationale Voorlopige Beoordeling die bevoegd is voor internationale aanvragen ingediend bij een nationaal bureau dat een Instantie voor de Internationale Voorlopige Beoordeling is, de voorkeur aan die Instantie; indien het nationale bureau geen Instantie voor de Internationale Voorlopige Beoordeling is, dient de Algemene Vergadering de voorkeur te geven aan de door dat bureau aanbevolen Instantie voor de Internationale Voorlopige Beoordeling.
+
+59.3. **Toezending van een verzoek aan de bevoegde Instantie voor de Internationale Voorlopige Beoordeling**
+
+- a. Indien het verzoek wordt ingediend bij een ontvangend bureau, een Instantie voor Internationaal Nieuwheidsonderzoek, of een Instantie voor de Internationale Voorlopige Beoordeling die niet bevoegd is voor de internationale voorlopige beoordeling van de desbetreffende internationale aanvrage, zal dat bureau of die Instantie de datum van ontvangst op het verzoek vermelden en het, tenzij het besluit over te gaan tot de handelingen ingevolge paragraaf f, zo spoedig mogelijk aan het Internationaal Bureau toezenden.
+
+- b. Indien het verzoek wordt ingediend bij het Internationaal Bureau, vermeldt het Internationaal Bureau de datum van ontvangst op het verzoek.
+
+- c. Wanneer het verzoek aan het Internationaal Bureau wordt toegezonden ingevolge paragraaf a of bij dit Bureau wordt ingediend ingevolge paragraaf b, zal het Internationaal Bureau onverwijld:
+
+- i. indien er slechts één bevoegde Instantie voor de Internationale Voorlopige Beoordeling is, het verzoek aan die Instantie toezenden en de aanvrager daarvan op de hoogte brengen, of
+
+- ii. indien twee of meer Instanties voor de Internationale Voorlopige Beoordeling bevoegd zijn, de aanvrager uitnodigen binnen de ingevolge Regel 54**bis**. 1 a toepasselijke termijn of 15 dagen na de datum van de uitnodiging, naargelang van welke datum het laatst is, aan te geven aan welke bevoegde Instantie voor de Internationale Voorlopige Beoordeling het verzoek moet worden toegezonden.
+
+- d. Wanneer een vermelding als vereist ingevolge paragraaf c ii wordt verstrekt, zendt het Internationaal Bureau het verzoek zo spoedig mogelijk aan de door de aanvrager aangewezen bevoegde Instantie voor de Internationale Voorlopige Beoordeling. Wanneer deze vermelding niet wordt verstrekt, wordt het verzoek beschouwd als niet ingediend en zal het Internationaal Bureau dit bekendmaken.
+
+- e. Wanneer het verzoek ingevolge paragraaf c wordt toegezonden aan een bevoegde Instantie voor de Internationale Voorlopige Beoordeling, wordt het beschouwd als ontvangen namens die Instantie op de ingevolge paragraaf a dan wel b erop vermelde datum, en wordt het aldus toegezonden verzoek beschouwd als op die datum door die Instantie ontvangen.
+
+- f. Wanneer een bureau of Instantie waarbij het verzoek ingevolge paragraaf a is ingediend besluit dat verzoek rechtstreeks aan de bevoegde Instantie voor de Internationale Voorlopige Beoordeling toe te zenden, zijn de paragrafen c tot en met e van overeenkomstige toepassing.
+
+##### Regel 60. Bepaalde gebreken in het verzoek
+
+60.1. **Gebreken in het verzoek**
+
+- a. Onverminderd het bepaalde onder de paragrafen a-**bis** en a-**ter**nodigt de Instantie voor de Internationale Voorlopige Beoordeling, indien het verzoek niet voldoet aan de vereisten neergelegd in de [Regels 53.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=53&z=2008-07-01&g=2008-07-01), 53.2 a i tot en met iii, 53.2 b, 53.3 tot en met 53.8 en [55.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=55&z=2008-07-01&g=2008-07-01), de aanvrager uit de gebreken te verbeteren binnen een gegeven de omstandigheden redelijke termijn. Die termijn mag niet korter zijn dan een maand na de datum van de uitnodiging. De termijn kan te allen tijde voordat een besluit is genomen worden verlengd door de Instantie voor de Internationale Voorlopige Beoordeling.
+
+- a-bis. Voor de toepassing van [Regel 53.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=53&z=2008-07-01&g=2008-07-01) volstaat het, wanneer er meer dan een aanvrager is, dat de gegevens bedoeld in [Regel 4.5 a ii. en iii.](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=B&artikel=4&z=2008-07-01&g=2008-07-01) ten aanzien van een van hen worden verstrekt die ingevolge [Regel 54.2](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=54&z=2008-07-01&g=2008-07-01) het recht heeft een verzoek in te dienen.
+
+- a-ter. Voor de toepassing van [Regel 53.8](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=53&z=2008-07-01&g=2008-07-01) volstaat het, indien er meer dan een aanvrager is, dat het verzoek door een van hen wordt ondertekend.
+
+- b. Indien de aanvrager binnen de in paragraaf a genoemde termijn gevolg geeft aan het verzoek, wordt het verzoek beschouwd als ontvangen op de feitelijke datum van indiening, mits de internationale aanvrage aan de hand van het ingediende verzoek kan worden achterhaald; in het andere geval wordt het verzoek beschouwd als ontvangen op de datum waarop de Instantie voor de Internationale Voorlopige Beoordeling de verbetering ontvangt.
+
+- c. Indien de aanvrager niet binnen de in paragraaf a bedoelde termijn gevolg geeft aan de uitnodiging, wordt het verzoek als niet ingediend beschouwd en wordt dit bekendgemaakt door de Instantie voor de Internationale Voorlopige Beoordeling.
+
+- d. Vervallen.
+
+- e. Indien het gebrek wordt ontdekt door het Internationale Bureau, brengt het het gebrek ter kennis van de Instantie voor de Internationale Voorlopige Beoordeling, die vervolgens handelt zoals voorzien in de paragrafen a tot en met c.
+
+- f. Indien het verzoek geen verklaring betreffende wijzigingen bevat, handelt de Instantie voor de Internationale Voorlopige Beoordeling als bepaald in de [Regels 66.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=66&z=2008-07-01&g=2008-07-01) en [69.1 a of b](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=69&z=2008-07-01&g=2008-07-01).
+
+- g. Wanneer de verklaring betreffende wijzigingen een vermelding bevat dat er wijzigingen ingevolge [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=34&z=2008-07-01&g=2008-07-01) worden ingediend met het verzoek ([Regel 53.9 c](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=53&z=2008-07-01&g=2008-07-01)), maar er in feite geen wijzigingen zijn ingediend ingevolge artikel 34, nodigt de Instantie voor de Internationale Voorlopige Beoordeling de aanvrager uit de wijzigingen in te dienen binnen een in de uitnodiging vastgestelde termijn en handelt zij als bepaald in [Regel 69.1 e](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=69&z=2008-07-01&g=2008-07-01).
+
+##### Regel 61. Kennisgeving van het verzoek en de keuzen
+
+61.1. **Kennisgeving aan het Internationale Bureau en de aanvrager**
+
+- a). De Instantie voor de Internationale Voorlopige Beoordeling vermeldt op het verzoek de datum van ontvangst of, wanneer van toepassing, de datum bedoeld in Regel 60.1 b. De Instantie voor de Internationale Voorlopige Beoordeling zal zo spoedig mogelijk hetzij het verzoek aan het Internationaal Bureau toezenden en een afschrift in haar dossiers bewaren, hetzij een afschrift aan het Internationaal Bureau toezenden en het verzoek in haar dossiers bewaren.
+
+- b). De Instantie voor de Internationale Voorlopige Beoordeling stelt de aanvrager onverwijld in kennis van de datum van ontvangst van het verzoek. Indien het verzoek ingevolge de Regels 54.4, 55.2 d, 58**bis**. 1 b of 60.1 c als niet-ingediend wordt beschouwd, stelt de Instantie voor de Internationale Voorlopige Beoordeling de aanvrager en het Internationale Bureau daarvan in kennis.
+
+61.2. **Kennisgeving aan de gekozen bureaus**
+
+- a). De kennisgeving bedoeld in artikel 31, zevende lid, wordt verricht door het Internationale Bureau.
+
+- b). De kennisgeving dient het nummer en de datum van indiening van de internationale aanvrage te vermelden, alsmede de naam van de aanvrager, de datum van indiening van de aanvrage op grond waarvan het recht van voorrang wordt ingeroepen (indien een recht van voorrang wordt ingeroepen) en de datum van ontvangst van het verzoek door de Instantie voor de Internationale Voorlopige Beoordeling.
+
+- c). De kennisgeving wordt aan het gekozen bureau gezonden te zamen met de in artikel 20 bedoelde toezending. Van keuzen die na deze toezending plaatsvinden, wordt onverwijld kennisgeving gedaan nadat deze zijn geschied.
+
+- d). Wanneer de aanvrager voorafgaand aan de internationale publicatie van de internationale aanvrage een uitdrukkelijk verzoek ingevolge artikel 40, tweede lid, indient bij een gekozen bureau, voert het Internationaal Bureau op verzoek van de aanvrager of het gekozen bureau onverwijld de in artikel 20 voorziene toezending uit aan dat bureau.
+
+61.3. **Mededeling aan de aanvrager**
+
+Het Internationale Bureau doet de aanvrager schriftelijk mededeling van de in Regel 61.2 bedoelde kennisgeving en van de gekozen bureaus die in kennis zijn gesteld ingevolge artikel 31, zevende lid.
+
+61.4. **Publicatie in het mededelingenblad**
+
+Onverwijld na de indiening van het verzoek doch niet voor de internationale publicatie van de internationale aanvrage, publiceert het Internationaal Bureau in het mededelingenblad informatie over het verzoek en de betrokken gekozen Staten, zoals voorzien in de Administratieve Instructies.
+
+##### Regel 62. Afschrift van het schriftelijk oordeel van de Instantie voor Internationaal Nieuwheidsonderzoek en van wijzigingen ingevolge artikel 19 voor de Instantie voor de Internationale Voorlopige Beoordeling
+
+62.1. **Afschrift van het schriftelijk oordeel van de Instantie voor Internationaal Nieuwheidsonderzoek en van wijzigingen aangebracht voordat het verzoek wordt ingediend**
+
+Na ontvangst van een verzoek, of van een afschrift daarvan, van de Instantie voor de Internationale Voorlopige Beoordeling, doet het Internationaal Bureau haar onverwijld toekomen:
+
+- i. een afschrift van het schriftelijk oordeel opgesteld ingevolge Regel 43**bis**.1, tenzij het nationaal bureau of de intergouvernementele organisatie die als Instantie voor Internationaal Nieuwheidsonderzoek is opgetreden, tevens optreedt als Instantie voor de Internationale Voorlopige Beoordeling; en
+
+- ii. een afschrift van een wijziging ingevolge artikel 19, en een eventuele verklaring als bedoeld in dat artikel, tenzij de Instantie heeft aangegeven dat zij een dergelijk afschrift reeds heeft ontvangen.
+
+62.2. **Wijzigingen aangebracht nadat het verzoek is ingediend**
+
+Indien op het tijdstip van indiening van wijzigingen ingevolge artikel 19 reeds een verzoek is ingediend, behoort de aanvrager op het tijdstip waarop hij de wijzigingen indient bij het Internationaal Bureau, bij voorkeur ook bij de Instantie voor de Internationale Voorlopige Beoordeling een afschrift van die wijzigingen en een eventuele in dat artikel bedoelde verklaring in te dienen. In elk geval zendt het Internationaal Bureau zo spoedig mogelijk een afschrift van die wijzigingen en verklaring toe aan die Instantie.
+
+##### Regel 63. Minimumvereisten voor de Instanties voor de Internationale Voorlopige Beoordeling
+
+63.1. **Omschrijving van de minimumvereisten**
+
+De in artikel 32, derde lid, bedoelde minimumvereisten zijn de volgende:
+
+- (i). het nationale bureau of de intergouvernementele organisatie moet ten minste 100 personeelsleden met een volledige dagtaak in dienst hebben die over voldoende technische bekwaamheden beschikken om beoordelingen te verrichten;
+
+- (ii). dat bureau of die organisatie moet onmiddellijk kunnen beschikken over ten minste de minimumdocumentatie bedoeld in Regel 34, op de juiste wijze gerangschikt voor beoordelingen;
+
+- (iii). dat bureau of die organisatie moet beschikken over personeel dat in staat is de beoordelingen op de vereiste technische gebieden te verrichten en dat over de talenkennis beschikt om althans die talen te begrijpen waarin de in Regel 34 bedoelde minimumdocumentatie is gesteld of vertaald;
+
+- (iv). dat bureau of die organisatie moet een kwaliteitsbeheersysteem en een interne beoordelingsprocedure hebben ingesteld in overeenstemming met de gemeenschappelijke regels voor de internationale voorlopige beoordeling;
+
+- (v). dat bureau of die organisatie moet zijn aangewezen als Instantie voor Internationaal Nieuwheidsonderzoek.
+
+##### Regel 64. Stand van de techniek voor de internationale voorlopige beoordeling
+
+64.1. **Stand van de techniek**
+
+- a). Voor de toepassing van artikel 33, tweede en derde lid, wordt alles wat, waar ook ter wereld, ter beschikking van het publiek is gesteld door middel van schriftelijke publikatie (met inbegrip van tekeningen en andere illustraties) als stand van de techniek beschouwd, mits dit ter beschikking stellen van het publiek plaatsvond voor de van belang zijnde datum.
+
+- b). Voor de toepassing van paragraaf a is de van belang zijnde datum:
+
+- i. onverminderd ii en iii, de datum van internationale indiening van de internationale aanvrage die het voorwerp is van een internationale voorlopige beoordeling;
+
+- ii. indien in de internationale aanvrage die het voorwerp is van een internationale voorlopige beoordeling een beroep wordt gedaan op een recht van voorrang van een eerdere aanvrage en die aanvrage een datum van internationale indiening heeft die valt binnen de termijn van voorrang, de datum van indiening van de eerdere aanvrage, tenzij de Instantie voor de Internationale Voorlopige Beoordeling oordeelt dat het beroep op een recht van voorrang niet rechtsgeldig is;
+
+- iii. indien in de internationale aanvrage die het voorwerp is van een internationale voorlopige beoordeling een beroep wordt gedaan op een recht van voorrang van een eerdere aanvrage en die aanvrage een datum van internationale indiening heeft die later valt dan de datum waarop de termijn van voorrang verstreek maar minder dan twee maanden na die datum, de datum van indiening van die eerdere aanvrage, tenzij de Instantie voor de Internationale Voorlopige Beoordeling oordeelt dat het beroep op een recht van voorrang niet rechtsgeldig is om andere redenen dan het feit dat de internationale aanvrage een datum van internationale indiening heeft die later valt dan de datum waarop de termijn van voorrang verstreek.
+
+64.2. **Niet-schriftelijke openbaarmakingen**
+
+In gevallen waarin het ter beschikking stellen van het publiek plaatsvond door middel van een mondelinge uiteenzetting, een gebruik, een tentoonstelling of op andere niet-schriftelijke wijze („niet-schriftelijke openbaarmaking”) voor de van belang zijnde datum als omschreven in Regel 64.1 b en de datum van deze niet-schriftelijke openbaarmaking is aangegeven in een schriftelijke publikatie die ter beschikking van het publiek is gesteld op een datum die dezelfde is als, of later valt dan, de van belang zijnde datum, wordt de niet-schriftelijke openbaarmaking voor de toepassing van artikel 33, tweede en derde lid, niet tot de stand van de techniek gerekend. Niettemin dient het verslag van de internationale voorlopige beoordeling de aandacht op deze niet-schriftelijke openbaarmaking te vestigen op de in Regel 70.9 voorgeschreven wijze.
+
+64.3. **Bepaalde gepubliceerde literatuurplaatsen**
+
+In gevallen waarin een aanvrage die, of een octrooi dat voor de toepassing van artikel 33, tweede en derde lid, zou behoren tot de stand van de techniek, indien zij of het zou zijn gepubliceerd voor de in Regel 64.1 bedoelde van belang zijnde datum, werd gepubliceerd op een datum die dezelfde is als, of later valt dan, de van belang zijnde datum, doch werd ingediend voor de van belang zijnde datum of daarbij een beroep werd gedaan op een recht van voorrang ten aanzien van een eerdere aanvrage die was ingediend voor de van belang zijnde datum, wordt deze gepubliceerde aanvrage of dit gepubliceerde octrooi voor de toepassing van artikel 33, tweede en derde lid, niet tot de stand van de techniek gerekend. Niettemin dient het verslag van de internationale voorlopige beoordeling de aandacht op deze aanvrage of dit octrooi te vestigen op de in Regel 70.10 voorgeschreven wijze.
+
+##### Regel 65. Uitvinderswerkzaamheid of niet voor de hand liggen
+
+65.1. **Samenhang met de stand van de techniek**
+
+Voor de toepassing van [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=33&z=2008-07-01&g=2008-07-01), wordt bij de internationale voorlopige beoordeling rekening gehouden met de samenhang tussen een bepaalde conclusie en de stand van de techniek in zijn geheel. Er dient rekening te worden gehouden met de samenhang van de conclusie niet alleen met afzonderlijke literatuurplaatsen of afzonderlijk daarvan beschouwde delen, maar ook met haar samenhang met combinaties van deze literatuurplaatsen of delen van literatuurplaatsen, wanneer deze combinaties voor een deskundige voor de hand liggen.
+
+65.2. **Van belang zijnde datum**
+
+Voor de toepassing van [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&hoofdstuk=II&artikel=33&z=2008-07-01&g=2008-07-01), is de van belang zijnde datum voor de beoordeling van uitvinderswerkzaamheid (het niet voor de hand liggen) de in [Regel 64.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&deel=C&artikel=64&z=2008-07-01&g=2008-07-01) voorgeschreven datum.
 
 ##### Regel 66. Procedure voor de Instantie voor de Internationale Voorlopige Beoordeling
 
