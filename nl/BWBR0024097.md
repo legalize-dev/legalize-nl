@@ -65,11 +65,3 @@ Deze regeling wordt aangehaald als: Handelsregisterregeling
 Deze regeling treedt in werking met ingang van 1 juli 2008.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-1. Als publicatieblad, bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=24), wordt aangewezen, voor zover de publicatie betrekking heeft op een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid of een Europees economisch samenwerkingsverband: de Staatscourant.
-
-2. Als publicatieblad, bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=24), wordt aangewezen, voor zover de publicatie betrekking heeft op een Europese naamloze vennootschap of een Europese coöperatieve vennootschap: het Publicatieblad van de Europese Unie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
