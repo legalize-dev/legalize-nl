@@ -4,7 +4,7 @@ identifier: "BWBR0022116"
 country: "nl"
 rank: "zbo"
 publication_date: "2008-07-01"
-last_updated: "2007-07-01"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022116"
 soort: "zbo"
@@ -67,6 +67,8 @@ In dit besluit wordt verstaan onder:
 3. Het tweede lid is niet van toepassing indien de vermelding of vertoning bedoeld in het eerste lid een programma-aankondiging bevat van een programmaonderdeel bestaande uit het verslag of de weergave van een evenement;
 
 4. Het eerste tot en met het derde lid van dit artikel zijn van overeenkomstige toepassing op programma-aankondigingen ten behoeve van televisie- respectievelijk radioprogrammaonderdelen die worden uitgezonden door een omroepinstelling met dezelfde moedermaatschappij als de omroepinstelling in wiens programma de programma-aankondiging wordt uitgezonden, indien en voor zover deze niet de vorm van een reclameboodschap hebben.
+
+5. Dit artikel is niet van toepassing op namen of (beeld)merken van de omroepinstelling, voor zover deze gelijk zijn aan namen of (beeld)merken van een bedrijf dat producten, diensten en activiteiten aanbiedt of verricht welke niet bestaan uit het verzorgen van een programma, zoals bedoeld in [artikel 1, onder f, van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=1).
 
 ### Producten
 
