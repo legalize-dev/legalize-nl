@@ -4,7 +4,7 @@ identifier: "BWBV0002893"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-01-01"
-last_updated: "2006-06-01"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002893"
 soort: "verdrag"
@@ -141,183 +141,193 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 2. De bestaande belastingen waarop dit Verdrag van toepassing is, zijn met name:
 
-- a. in België:
+- i. in België:
 
-- -. de personenbelasting/impôt des personnes physiques,
+- a. impôt des personnes physiques/personenbelasting
 
-- -. de vennootschapsbelasting/impôt des sociétés,
+- b. impôt des sociétés/vennootschapsbelasting
 
-- -. de rechtspersonenbelasting/impôt des personnes morales,
+- c. impôt des personnes morales/rechtspersonenbelasting
 
-- -. de belasting der niet-verblijfhouders/impôt des non-résidents,
+- d. impôt des non-résidents/belasting der nietverblijfhouders
 
-- -. de aanvullende gemeente- en de agglomeratiebelasting op de personenbelasting/taxe communale et taxe d'agglomération additionnelles a l'impôt des personnes physiques;
+- e. taxe communale et la taxe d’agglomération additionnelles à l’impôt des personnes physiques/aanvullende gemeentebelasting en agglomeratiebelasting op de personenbelasting
 
-- b. in de Tsjechische Republiek:
+- ii. in Bulgarije:
 
-- -. dan z příjmů fyzických osob,
+- iii. in Tsjechië:
 
-- -. danò z příjmů právnických osob;
+- a. daň z příjmů fyzických osob
 
-- c. in Denemarken:
+- b. daň z příjmů právnických osob
 
-- -. indkomstskat til staten,
+- iv. in Denemarken:
 
-- -. den kommunale indkomstskat,
+- a. indkomstskat til staten
 
-- -. den amtskommunale indkomstskat;
+- b. den kommunale indkomstskat
 
-- d. in Duitsland:
+- c. den amtskommunale indkomstskat
 
-- -. Einkommensteuer,
+- v. in Duitsland:
 
-- -. Körperschaftsteuer,
+- a. Einkommensteuer
 
-- -. Gewerbesteuer, voor zover deze belasting naar de ondernemingswinst wordt berekend:
+- b. Koerperschaftsteuer
 
-- e. in de Republiek Estland:
+- c. Gewerbesteuer, voor zover deze belasting naar de ondernemingswinst wordt berekend
 
-- -. tulumaks;
+- vi. in Estland:
 
-- f. in Griekenland:
+- a. tulumaks
 
-- -. φόρος εισοδήματος φυσικών προσώπων,
+- vii. in Ierland:
 
-- -. φόρος εισοδήματος νομικών προσώπων,
+- a. Cáin Ioncaim
 
-- -. εισφορά υπέρ των επιχειρήσεων ύδρευσης και αποχέτευσης;
+- b. Cáin Chorparáide
 
-- g. in Spanje:
+- viii. in Griekenland:
 
-- -. Impuesto sobre la Renta de las Personas Físicas,
+- a. φόρος εισοδήματος φυσικών προσώπων
 
-- -. Impuesto sobre Sociedades,
+- b. φόρος εισοδήματος νομικών προσώπων
 
-- -. Impuesto sobre la Renta de no Residentes;
+- c. εισφορά υπέρ των επιχειρήσεων ύδρευσης και αποχέτευσης
 
-- h. in Frankrijk:
+- ix. in Spanje:
 
-- -. impôt sur le revenu,
+- a. Impuesto sobre la Renta de las Personas Físicas
 
-- -. impôt sur les sociétés;
+- b. Impuesto sobre Sociedades
 
-- i. in Ierland:
+- c. Impuesto sobre la Renta de no Residentes
 
-- -. income tax,
+- x. in Frankrijk:
 
-- -. corporation tax;
+- a. impôt sur le revenu
 
-- j. in Italië:
+- b. impôt sur les sociétés
 
-- -. imposta sul reddito delle persone fisiche,
+- xi. in Italië:
 
-- -. imposta sul reddito delle società,
+- a. imposta sul reddito delle persone fisiche
 
-- -. imposta regionale sulle attività produttive;
+- b. imposta sul reddito delle società
 
-- k. in de Republiek Cyprus:
+- c. imposta regionale sulle attività produttive
 
-- -. Φόρος Εισδήματος,
+- xii. in Cyprus:
 
-- -. Εκτακτη Εισϕορά για την 'Αμυνα της Δημοκρατίας
+- a. Φόρος Εισοδήματος
 
-- l. in de Republiek Letland:
+- b. Έκτακτη Εισφορά για την Άμυνα της ∆ημοκρατίας
 
-- -. uznēmumu ienākuma nodoklis,
+- xiii. in Letland:
 
-- -. iedzīvotāju ienākuma nodoklis;
+- a. uzņēmumu ienākuma nodoklis
 
-- m. in de Republiek Litouwen:
+- b. iedzīvotāju ienākuma nodoklis
 
-- -. Gyventoju pajamu mokestis,
+- xiv. in Litouwen:
 
-- -. Pelno mokestis;
+- a. Gyventojų pajamų mokestis
 
-- n. in Luxemburg:
+- b. Pelno mokestis
 
-- -. impôt sur le revenu des personnes physiques,
+- xv. in Luxemburg:
 
-- -. impôt sur le revenu des collectivités,
+- a. impôt sur le revenu des personnes physiques
 
-- -. impôt commercial, voor zover deze belasting naar de ondernemingswinst wordt berekend;
+- b. impôt sur le revenu des collectivités
 
-- o. in de Republiek Hongarije:
+- c. impôt commercial, voor zover deze belasting naar de ondernemingswinst wordt berekend
 
-- -. személyi jövedelemadó,
+- xvi. in Hongarije:
 
-- -. társasági adó,
+- a. személyi jövedelemadó
 
-- -. osztalékadó;
+- b. társasági adó
 
-- p. in de Republiek Malta:
+- c. osztalékadó
 
-- -. taxxa fuq l – **income**;
+- xvii. in Malta:
 
-- q. in Nederland:
+- a. taxxa fuq l-income
 
-- -. de inkomstenbelasting,
+- xviii. in Nederland:
 
-- -. de vennootschapsbelasting;
+- a. inkomstenbelasting
 
-- r. in Oostenrijk:
+- b. vennootschapsbelasting
 
-- -. Einkommensteuer;
+- xix. in Oostenrijk:
 
-- -. Körperschaftsteuer;
+- a. Einkommensteuer
 
-- s. in de Republiek Polen:
+- b. Körperschaftsteuer
 
-- -. podatek dochodowy od osób fizycznych,
+- xx. in Polen:
 
-- -. podatek dochodowy od osób prawnych;
+- a. podatek dochodowy od osób fizycznych
 
-- t. in Portugal:
+- b. podatek dochodowy od osób prawnych
 
-- -. imposto sobre o rendimento das pessoas singulares,
+- xxi. in Portugal:
 
-- -. imposto sobre o rendimento das pessoas colectivas,
+- a. imposto sobre o rendimento das pessoas singulares
 
-- -. derrama para os munipios sobre o imposto sobre o rendimento das pessoas colectivas;
+- b. imposto sobre o rendimento das pessoas colectivas
 
-- u. in de Republiek Slovenië:
+- c. derrama para os municípios sobre o imposto sobre o rendimento das pessoas colectivas
 
-- -. dohodnina,
+- xxii. in Roemenië:
 
-- -. davek od dobička pravnih oseb;
+- a. impozitul pe venit
 
-- v. in de Slowaakse Republiek:
+- b. impozitul pe profit
 
-- -. dan z príjmov právnických osôb,
+- c. impozitul pe veniturile obţinute din România de nerezidenţi
 
-- -. dan z príjmov fyzických osôb;
+- xxiii. in Slovenië:
 
-- w. in Finland:
+- a. dohodnina
 
-- -. valtion tuloverot/de statliga inkomstskatterna,
+- b. davek od dobička pravnih oseb
 
-- -. yhteisöjen tulovero/inkomstskatten för samfund,
+- xxiv. in Slowakije:
 
-- -. kunnallisvero/kommunalskatten,
+- a. daň z príjmov právnických osôb
 
-- -. kirkollisvero/kyrkoskatten,
+- b. daň z príjmov fyzických osôb
 
-- -. kortotulon ländevero/källskatten å ränteinkomst,
+- xxv. in Finland:
 
-- -. rajoitetusti verovelvollisen lähdevero/källskatten för begränsat skattsykyldig;
+- a. valtion tuloverot/de statliga inkomstskatterna
 
-- x. in Zweden:
+- b. yhteisöjen tulovero/inkomstskatten för samfund
 
-- -. statlig inkomstskatt,
+- c. kunnallisvero/kommunalskatten
 
-- -. kupongskatt,
+- d. kirkollisvero/kyrkoskatten
 
-- -. kommunal inkomstskatt;
+- e. korkotulon lähdevero/källskatten å ränteinkomst
 
-- y. in het Verenigd Koninkrijk:
+- f. rajoitetusti verovelvollisen lähdevero/källskatten för begränsat skattskyldig
 
-- -. income tax,
+- xxvi. in Zweden:
 
-- -. corporation tax.
+- a. statlig inkomstskatt
+
+- b. kupongskatt
+
+- c. kommunal inkomstskatt
+
+- xxvii. in het Verenigd Koninkrijk:
+
+- a. Income Tax
+
+- b. Corporation Tax.
 
 3. Dit Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van dit verdrag naast of in plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Verdragsluitende Staten delen elkaar alle wijzigingen mee die in hun onderscheiden nationale wetgevingen zijn aangebracht.
 
@@ -355,6 +365,8 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 | - in de Republiek Polen: | Minister Finansów of zijn bevoegde vertegenwoordiger; |
 | - in de Republiek Slovenië: | Ministrstvo za finance of zijn bevoegde vertegenwoordiger; |
 | - in de Slowaakse Republiek: | Minister financií of zijn bevoegde vertegenwoordiger. |
+| - in Bulgarije: |   |
+| - in Roemenië: | Preşedintele Agenţiei Naţionale de Administrare Fiscală sau un reprezentant autorizat. |
 
 2. Iedere uitdrukking die in dit Verdrag niet nader is omschreven, heeft, tenzij het zinsverband anders vereist, de betekenis welke zij heeft in het kader van het verdrag tot het vermijden van dubbele belasting dat tussen de betrokken Staten is gesloten.
 
