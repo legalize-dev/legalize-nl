@@ -4,7 +4,7 @@ identifier: "BWBR0018189"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-03-19"
-last_updated: "2006-07-09"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018189"
 soort: "ministeriele-regeling"
@@ -41,17 +41,17 @@ Besluit:
 
 ##### Artikel 1
 
-1. De ambtenaren van de Inspectie van Verkeer en Waterstaat worden aangewezen als ambtenaren belast met het toezicht op de naleving, bedoeld in [artikel 69, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), van het bepaalde bij of krachtens deze wet.
+1. De ambtenaren van de Inspectie van Verkeer en Waterstaat worden aangewezen als ambtenaren belast met het toezicht op de naleving, bedoeld in [artikel 69, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), van het bepaalde bij of krachtens [deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
 2. In afwijking van het eerste lid worden:
 
-- a. voor [artikel 17 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=17), de directeur-generaal Personenvervoer en de onder hem werkzame ambtenaren aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens dit artikel, met uitzondering van het bepaalde krachtens de onderdelen a, b en c, van het eerste lid, van dit artikel voor zover dit het toezicht op de veiligheid van de spoorweginfrastructuur betreft;
+- a. voor [artikel 17 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=17), de directeur-generaal Mobiliteit en de onder hem werkzame ambtenaren aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens dit artikel, met uitzondering van het bepaalde krachtens de onderdelen a, b en c, van het eerste lid, van dit artikel voor zover dit het toezicht op de veiligheid van de spoorweginfrastructuur betreft;
 
 - b. voor de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=20), en [21, eerste en tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=21), en [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=40), met betrekking tot [artikel 12, eerste lid, van het Besluit spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=12), de directeuren van de bedrijfseenheden Inframanagement en Verkeersleiding en de onder hen werkzame medewerkers van ProRail B.V. belast met het toezicht op de naleving van het bepaalde bij of krachtens die artikelen.
 
 ##### Artikel 2
 
-De directeur-generaal Personenvervoer en de onder hem werkzame ambtenaren worden aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=12) en [hoofdstuk II van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II), voor zover dit betrekking heeft op concessies verleend door onze Minister voor het openbaar vervoer per trein.
+De directeur-generaal Mobiliteit en de onder hem werkzame ambtenaren worden aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=12) en [hoofdstuk II van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II), voor zover dit betrekking heeft op concessies verleend door onze Minister voor het openbaar vervoer per trein.
 
 ##### Artikel 3
 
