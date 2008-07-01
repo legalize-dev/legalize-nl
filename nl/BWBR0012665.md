@@ -4,7 +4,7 @@ identifier: "BWBR0012665"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2002-05-08"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012665"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - c. waterbodem die niet uit de bodem is weggenomen via het oppervlaktewater of de voor dat water bestemde ruimte;
 
-- d. gebaggerde specie die is ontwaterd of gerijpt met het oog op de toepassing als grond, voorzover zij geschikt is voor de toepassing als grond overeenkomstig de eisen van het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0007667);
+- d. baggerspecie die is ontwaterd of gerijpt met het oog op de toepassing als grond, voorzover zij en voldoet aan de eisen van het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929);
 
 - e. stoffen en producten die zijn ontstaan door de behandeling of toepassing van baggerspecie, het residu van de behandeling daaronder niet begrepen.
 
@@ -98,29 +98,29 @@ Het is verboden op een stortplaats voor baggerspecie op land gevaarlijke baggers
 
 3. De gegevens, bedoeld in het eerste en tweede lid, worden berekend:
 
-- a. op de wijze als aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&bijlage=2&z=2002-05-08&g=2002-05-08), en
+- a. op de wijze als aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&bijlage=2&z=2008-07-01&g=2008-07-01), en
 
 - b. met behulp van een berekeningsmodel waarmee het bevoegd gezag schriftelijk heeft ingestemd.
 
 ##### Artikel 6
 
-1. Tevens wordt in of bij de aanvraag vermeld welke maatregelen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&artikel=11&z=2002-05-08&g=2002-05-08) zijn voorzien om:
+1. Tevens wordt in of bij de aanvraag vermeld welke maatregelen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&artikel=11&z=2008-07-01&g=2008-07-01) zijn voorzien om:
 
 - a. de verspreiding van verontreinigende stoffen buiten de stortplaats te voorkomen of te beperken, en
 
 - b. in elk geval te voorkomen dat de streefwaarde voor enige stof wordt overschreden buiten het toelaatbaar beïnvloed gebied.
 
-2. Berekend overeenkomstig [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2002-05-08&g=2002-05-08), wordt in de aanvraag vermeld of de voorziene maatregelen voldoende zijn om het beoogde doel te bereiken.
+2. Berekend overeenkomstig [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2008-07-01&g=2008-07-01), wordt in de aanvraag vermeld of de voorziene maatregelen voldoende zijn om het beoogde doel te bereiken.
 
 3. Voorts wordt in de aanvraag vermeld of de exploitant van de stortplaats in de directe nabijheid van de inrichting kan aanleggen en in werking stellen en houden:
 
 - a. een geohydrologisch isolatiesysteem;
 
-- b. een controlesysteem als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=16&z=2002-05-08&g=2002-05-08).
+- b. een controlesysteem als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=16&z=2008-07-01&g=2008-07-01).
 
 ##### Artikel 7
 
-Ingeval van een aanvraag om een wijziging van de vergunning behoeven de gegevens, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2002-05-08&g=2002-05-08) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=6&z=2002-05-08&g=2002-05-08), slechts te worden overgelegd, indien de feitelijk bestaande of de aangevraagde situatie niet overeenstemt met de aannames die ten grondslag hebben gelegen aan de gegevens die krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2002-05-08&g=2002-05-08) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=6&z=2002-05-08&g=2002-05-08) reeds bij een eerdere aanvraag aan het bevoegd gezag waren overgelegd.
+Ingeval van een aanvraag om een wijziging van de vergunning behoeven de gegevens, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2008-07-01&g=2008-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=6&z=2008-07-01&g=2008-07-01), slechts te worden overgelegd, indien de feitelijk bestaande of de aangevraagde situatie niet overeenstemt met de aannames die ten grondslag hebben gelegen aan de gegevens die krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2008-07-01&g=2008-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=6&z=2008-07-01&g=2008-07-01) reeds bij een eerdere aanvraag aan het bevoegd gezag waren overgelegd.
 
 ### Hoofdstuk III. De exploitatiefase
 
@@ -136,21 +136,21 @@ Dit hoofdstuk is niet van toepassing op bestaande stortplaatsen voor baggerspeci
 
 Het bevoegd gezag verbindt aan de vergunning voorschriften, inhoudende dat geen baggerspecie wordt gestort alvorens:
 
-- a. het bevoegd gezag na inspectie van de stortplaats schriftelijk aan degene die de inrichting drijft heeft medegedeeld dat is voldaan aan de voorschriften die aan de vergunning zijn verbonden ingevolge de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&artikel=10&z=2002-05-08&g=2002-05-08) tot en met [15](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&artikel=15&z=2002-05-08&g=2002-05-08);
+- a. het bevoegd gezag na inspectie van de stortplaats schriftelijk aan degene die de inrichting drijft heeft medegedeeld dat is voldaan aan de voorschriften die aan de vergunning zijn verbonden ingevolge de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&artikel=10&z=2008-07-01&g=2008-07-01) tot en met [15](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&artikel=15&z=2008-07-01&g=2008-07-01);
 
-- b. de concentratie van elke parameter, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=20&z=2002-05-08&g=2002-05-08), is bepaald op ten minste drie daartoe aangewezen meetpunten, met inachtneming van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=17&z=2002-05-08&g=2002-05-08);
+- b. de concentratie van elke parameter, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=20&z=2008-07-01&g=2008-07-01), is bepaald op ten minste drie daartoe aangewezen meetpunten, met inachtneming van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=17&z=2008-07-01&g=2008-07-01);
 
-- c. degene die de stortplaats drijft schriftelijk bewijs aan het bevoegd gezag heeft overgelegd dat overeenkomstig [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=6&artikel=28&z=2002-05-08&g=2002-05-08), financiële zekerheid is gesteld dan wel dat overeenkomstig [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=6&artikel=29&z=2002-05-08&g=2002-05-08), een gelijkwaardige voorziening is getroffen.
+- c. degene die de stortplaats drijft schriftelijk bewijs aan het bevoegd gezag heeft overgelegd dat overeenkomstig [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=6&artikel=28&z=2008-07-01&g=2008-07-01), financiële zekerheid is gesteld dan wel dat overeenkomstig [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=6&artikel=29&z=2008-07-01&g=2008-07-01), een gelijkwaardige voorziening is getroffen.
 
 #### § 3. De voorzieningen en de exploitatie van de stortplaats
 
 ##### Artikel 10
 
-Indien is berekend dat de streefwaarde voor enige stof zal worden overschreden buiten het toelaatbaar beïnvloed gebied, verbindt het bevoegd gezag aan de vergunning voorschriften die strekken tot het treffen van zodanige maatregelen dat de berekeningen conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&bijlage=2&z=2002-05-08&g=2002-05-08), rekening houdend met deze maatregelen, geen zodanige overschrijding uitwijzen.
+Indien is berekend dat de streefwaarde voor enige stof zal worden overschreden buiten het toelaatbaar beïnvloed gebied, verbindt het bevoegd gezag aan de vergunning voorschriften die strekken tot het treffen van zodanige maatregelen dat de berekeningen conform [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&bijlage=2&z=2008-07-01&g=2008-07-01), rekening houdend met deze maatregelen, geen zodanige overschrijding uitwijzen.
 
 ##### Artikel 11
 
-1. De voorschriften, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&artikel=10&z=2002-05-08&g=2002-05-08), houden in dat een of meer van de volgende maatregelen worden getroffen:
+1. De voorschriften, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&artikel=10&z=2008-07-01&g=2008-07-01), houden in dat een of meer van de volgende maatregelen worden getroffen:
 
 - a. het aanbrengen van een organisch stofrijke minerale laag op de bodem dan wel op de bodem en de taluds van de stortplaats, of
 
@@ -208,7 +208,7 @@ Het bevoegd gezag verbindt aan de vergunning voorts voorschriften, inhoudende da
 
 - b. of het interventiepunt voor enige stof in het grondwater zal worden of is bereikt.
 
-3. Het ontwerp van het controlesysteem moet zijn gekoppeld aan het ontwerp voor het geohydrologisch isolatiesysteem en hetgeen overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&bijlage=2&z=2002-05-08&g=2002-05-08) is berekend.
+3. Het ontwerp van het controlesysteem moet zijn gekoppeld aan het ontwerp voor het geohydrologisch isolatiesysteem en hetgeen overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&bijlage=2&z=2008-07-01&g=2008-07-01) is berekend.
 
 ##### Artikel 17
 
@@ -246,7 +246,7 @@ Het bevoegd gezag verbindt aan de vergunning voorschriften, inhoudende de verpli
 
 2. In de vergunning wordt voorts bepaald dat de parameters worden gemeten:
 
-- a. op de referentiepunten en de controlemeetpunten, bepaald op de wijze, aangegeven in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=21&z=2002-05-08&g=2002-05-08), en
+- a. op de referentiepunten en de controlemeetpunten, bepaald op de wijze, aangegeven in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=21&z=2008-07-01&g=2008-07-01), en
 
 - b. met een bij de vergunning aangegeven frequentie, welke ten minste eenmaal per jaar bedraagt.
 
@@ -264,7 +264,7 @@ Het bevoegd gezag verbindt aan de vergunning voorschriften, inhoudende de verpli
 
 ##### Artikel 22
 
-1. In de vergunning wordt bepaald dat voor de parameters die ingevolge [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=20&z=2002-05-08&g=2002-05-08) in het grondwater moeten worden gemeten, signaalwaarden worden vastgesteld.
+1. In de vergunning wordt bepaald dat voor de parameters die ingevolge [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=20&z=2008-07-01&g=2008-07-01) in het grondwater moeten worden gemeten, signaalwaarden worden vastgesteld.
 
 2. Indien één referentiepunt is aangewezen, is:
 
@@ -338,7 +338,7 @@ Het bevoegd gezag verbindt aan de vergunning voorschriften, inhoudende dat aan h
 
 ##### Artikel 27
 
-Het bevoegd gezag zendt een afschrift van het verslag, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=5&artikel=26&z=2002-05-08&g=2002-05-08), aan de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+Het bevoegd gezag zendt een afschrift van het verslag, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=5&artikel=26&z=2008-07-01&g=2008-07-01), aan de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
 #### § 6. Financiële zekerheid
 
@@ -348,13 +348,13 @@ Het bevoegd gezag zendt een afschrift van het verslag, bedoeld in [artikel 26](h
 
 - a. zo nodig alsnog aanbrengen van een geohydrologisch isolatiesysteem;
 
-- b. zo nodig overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=7&artikel=30&z=2002-05-08&g=2002-05-08) aanbrengen van een afdeklaag op de gestorte baggerspecie.
+- b. zo nodig overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=7&artikel=30&z=2008-07-01&g=2008-07-01) aanbrengen van een afdeklaag op de gestorte baggerspecie.
 
 2. Het bevoegd gezag geeft daarbij het bedrag aan waarvoor de zekerheid in stand moet worden gehouden. Dit bedrag bedraagt ten hoogste € 1 per ton droge stof.
 
 ##### Artikel 29
 
-1. [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=6&artikel=28&z=2002-05-08&g=2002-05-08) is niet van toepassing op stortplaatsen voor baggerspecie op land die worden gedreven of mede worden gedreven door de Minister van Verkeer en Waterstaat.
+1. [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=6&artikel=28&z=2008-07-01&g=2008-07-01) is niet van toepassing op stortplaatsen voor baggerspecie op land die worden gedreven of mede worden gedreven door de Minister van Verkeer en Waterstaat.
 
 2. Indien burgemeester en wethouders, gedeputeerde staten of het bestuur van een waterschap vergunninghouder zijn, kan in plaats van financiële zekerheid een gelijkwaardige voorziening worden getroffen.
 
@@ -372,11 +372,11 @@ Dit hoofdstuk is niet van toepassing op stortplaatsen die op grond van [artikel 
 
 ##### Artikel 32
 
-1. Ten aanzien van een gesloten stortplaats zijn de [artikelen 16 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=16&z=2002-05-08&g=2002-05-08), [26, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=5&artikel=26&z=2002-05-08&g=2002-05-08), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=5&artikel=27&z=2002-05-08&g=2002-05-08) van overeenkomstige toepassing, met dien verstande dat:
+1. Ten aanzien van een gesloten stortplaats zijn de [artikelen 16 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=16&z=2008-07-01&g=2008-07-01), [26, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=5&artikel=26&z=2008-07-01&g=2008-07-01), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=5&artikel=27&z=2008-07-01&g=2008-07-01) van overeenkomstige toepassing, met dien verstande dat:
 
-- a. in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=18&z=2002-05-08&g=2002-05-08), in plaats van `drie maanden' wordt gelezen: zes maanden;
+- a. in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=18&z=2008-07-01&g=2008-07-01), in plaats van `drie maanden' wordt gelezen: zes maanden;
 
-- b. in het uitgewerkte urgentieplan, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=24&z=2002-05-08&g=2002-05-08), mede wordt aangegeven of het noodzakelijk is dat alsnog een afdeklaag wordt aangebracht.
+- b. in het uitgewerkte urgentieplan, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=24&z=2008-07-01&g=2008-07-01), mede wordt aangegeven of het noodzakelijk is dat alsnog een afdeklaag wordt aangebracht.
 
 2. Indien de stortplaats niet langer zodanig gevaar voor het milieu kan opleveren dat de verplichtingen, bedoeld in het eerste lid, ongewijzigd moeten worden voorgezet, kan het bevoegd gezag besluiten dat deze verplichtingen geheel of ten dele worden beëindigd of aangepast, dan wel worden vervangen door andere verplichtingen.
 
@@ -390,11 +390,11 @@ Dit hoofdstuk is van toepassing op bestaande stortplaatsen voor baggerspecie op 
 
 Degene die een bestaande stortplaats voor baggerspecie op land drijft, dient voor 16 juli 2002 bij het bevoegd gezag een plan in waarin zijn opgenomen:
 
-- a. de gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2002-05-08&g=2002-05-08), voorzover deze op het genoemde tijdstip redelijkerwijs vergaard kunnen zijn, alsmede de gegevens, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=6&z=2002-05-08&g=2002-05-08);
+- a. de gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2008-07-01&g=2008-07-01), voorzover deze op het genoemde tijdstip redelijkerwijs vergaard kunnen zijn, alsmede de gegevens, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=6&z=2008-07-01&g=2008-07-01);
 
 - b. de in de vijf jaren voorafgaande aan het indienen van het plan beschikbaar gekomen controlegegevens, voorzover deze niet eerder aan het bevoegd gezag zijn overgelegd;
 
-- c. de wijze waarop financiële zekerheid, als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=6&artikel=28&z=2002-05-08&g=2002-05-08), is of wordt gesteld, dan wel een gelijkwaardige voorziening als bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=6&artikel=29&z=2002-05-08&g=2002-05-08), is of wordt getroffen.
+- c. de wijze waarop financiële zekerheid, als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=6&artikel=28&z=2008-07-01&g=2008-07-01), is of wordt gesteld, dan wel een gelijkwaardige voorziening als bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=6&artikel=29&z=2008-07-01&g=2008-07-01), is of wordt getroffen.
 
 ##### Artikel 35
 
@@ -430,13 +430,13 @@ Wijzigt deze regeling.
 
 2. Indien het Besluit van 5 juli 2001 tot wijziging van het [Inrichtingen- en vergunningenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0005829) en enige andere besluiten ter uitvoering van [richtlijn 1999/31/EG](31999L0031) van de Raad van de Europese Unie van 26 april 1999 betreffende het storten van afvalstoffen (PbEG L 182) (Stb. 336) op het in het eerste lid bedoelde tijdstip nog niet inwerking is getreden, treedt deze regeling inwerking met ingang van het tijdstip waarop dat besluit in werking treedt.
 
-3. In afwijking van het eerste en tweede lid treedt [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=I&artikel=4&z=2002-05-08&g=2002-05-08) in werking op de dag waarop de Europese lijst van gevaarlijke afvalstoffen (beschikking 2000/532/EG van 3 mei 2000 tot vervanging van Beschikking 94/3/EG houdende vaststelling van een lijst van afvalstoffen overeenkomstig artikel 1, onder a, van [Richtlijn nr. 75/442/EEG](31975L0442) van de Raad betreffende afvalstoffen en Beschikking 94/904/EG van de Raad tot vaststelling van een lijst van gevaarlijke afvalstoffen overeenkomstig artikel 1, vierde lid, van [Richtlijn 91/689/EEG](31991L0689) van de Raad betreffende gevaarlijke afvalstoffen (PbEG L 226)) in de Nederlandse wetgeving is geïmplementeerd.
+3. In afwijking van het eerste en tweede lid treedt [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=I&artikel=4&z=2008-07-01&g=2008-07-01) in werking op de dag waarop de Europese lijst van gevaarlijke afvalstoffen (beschikking 2000/532/EG van 3 mei 2000 tot vervanging van Beschikking 94/3/EG houdende vaststelling van een lijst van afvalstoffen overeenkomstig artikel 1, onder a, van [Richtlijn nr. 75/442/EEG](31975L0442) van de Raad betreffende afvalstoffen en Beschikking 94/904/EG van de Raad tot vaststelling van een lijst van gevaarlijke afvalstoffen overeenkomstig artikel 1, vierde lid, van [Richtlijn 91/689/EEG](31991L0689) van de Raad betreffende gevaarlijke afvalstoffen (PbEG L 226)) in de Nederlandse wetgeving is geïmplementeerd.
 
 ##### Artikel 40
 
 Deze regeling wordt aangehaald als: [Regeling stortplaatsen voor baggerspecie op land](https://wetten.overheid.nl/jci1.3:c:BWBR0012665).
 
-## Bijlage 1. Behorende bij [artikel 1 onder g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=I&artikel=1&z=2002-05-08&g=2002-05-08)
+## Bijlage 1. Behorende bij [artikel 1 onder g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=I&artikel=1&z=2008-07-01&g=2008-07-01)
 
 | **Stof** | **Streefwaarde grondwater** | **Maximaal toelaatbare flux** |
 | --- | --- | --- |
@@ -549,7 +549,7 @@ Deze regeling wordt aangehaald als: [Regeling stortplaatsen voor baggerspecie op
 | tetrahydrofuran | 0,5 | 1 |
 | tetrahydrothiofeen | 0,5 | 1 |
 
-## Bijlage 2. Behorende bij [artikel 1 onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=I&artikel=1&z=2002-05-08&g=2002-05-08), [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2002-05-08&g=2002-05-08), [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&artikel=10&z=2002-05-08&g=2002-05-08) en [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=16&z=2002-05-08&g=2002-05-08)
+## Bijlage 2. Behorende bij [artikel 1 onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=I&artikel=1&z=2008-07-01&g=2008-07-01), [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2008-07-01&g=2008-07-01), [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&artikel=10&z=2008-07-01&g=2008-07-01) en [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=16&z=2008-07-01&g=2008-07-01)
 
 ### 1. Bepaling van de kwaliteit van de poriënwaterconcentraties
 
@@ -581,11 +581,11 @@ Indien het uitvoeren van veldmetingen van het poriënwater voor zware metalen om
 
 In de vergunningaanvraag moet worden aangegeven hoe de poriënwaterconcentraties zijn verkregen. Indien gebruik is gemaakt van veldmetingen dient aangegeven te worden waar en hoe de veldmetingen zijn verricht en in hoeverre de verkregen waarden representatief zijn voor de in de stortplaats te bergen specie.
 
-De kwaliteit van het poriënwater moet vergeleken worden met de streefwaarden zoals opgenomen in [kolom 1 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&bijlage=1&z=2002-05-08&g=2002-05-08) van deze regeling.
+De kwaliteit van het poriënwater moet vergeleken worden met de streefwaarden zoals opgenomen in [kolom 1 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&bijlage=1&z=2008-07-01&g=2008-07-01) van deze regeling.
 
 Indien de streefwaarden niet overschreden worden moet geconcludeerd worden dat de stortplaats de grondwaterkwaliteit niet nadelig zal beïnvloeden.
 
-Indien de streefwaarden voor het grondwater overschreden worden moet voor deze parameters de berekening worden voortgezet zoals in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=2&z=2002-05-08&g=2002-05-08) is beschreven.
+Indien de streefwaarden voor het grondwater overschreden worden moet voor deze parameters de berekening worden voortgezet zoals in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=2&z=2008-07-01&g=2008-07-01) is beschreven.
 
 ### 2. De uit de stortplaats tredende flux van verontreinigingen
 
@@ -605,19 +605,19 @@ De modellering van het optredend stoftransport moet gebaseerd worden op ten mins
 
 **2.2. Berekening**
 
-De berekening van de uit de stortplaats tredende verontreiniging (fluxberekening) moet aansluiten op de wijze waarop de poriënwaterconcentraties zijn berekend in [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=1&z=2002-05-08&g=2002-05-08). Als in [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=1&z=2002-05-08&g=2002-05-08) veldwaarden voor de schijnbare verdelingscoëfficiënt zijn gebruikt moeten deze ook gebruikt worden ten behoeve van de verdere beoordeling van de beïnvloeding van het grondwater.
+De berekening van de uit de stortplaats tredende verontreiniging (fluxberekening) moet aansluiten op de wijze waarop de poriënwaterconcentraties zijn berekend in [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=1&z=2008-07-01&g=2008-07-01). Als in [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=1&z=2008-07-01&g=2008-07-01) veldwaarden voor de schijnbare verdelingscoëfficiënt zijn gebruikt moeten deze ook gebruikt worden ten behoeve van de verdere beoordeling van de beïnvloeding van het grondwater.
 
-De in [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=1&z=2002-05-08&g=2002-05-08) berekende poriënwaterconcentraties moeten in het model worden ingevoerd waardoor de emissie (flux) uit de stortplaats voor meerdere tijdstappen (bijvoorbeeld 100, 1000 en 10.000 jaar) moet worden berekend in gram per hectare per jaar. Volstaan kan worden met het berekenen van de flux voor die stoffen die in het (poriën)water voorkomen boven de streefwaarden. Indien dit voor een groot aantal stoffen geldt kan een selectie worden gemaakt op grond van de concentraties (mede in relatie tot de normering) en de mobiliteit van de stoffen. Gedacht moet worden aan een selectie van 6 tot 10 gidsstoffen. Als gidsstoffen moeten die stoffen worden aangewezen waarvan de grootste normoverschrijdingen worden verwacht.
+De in [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=1&z=2008-07-01&g=2008-07-01) berekende poriënwaterconcentraties moeten in het model worden ingevoerd waardoor de emissie (flux) uit de stortplaats voor meerdere tijdstappen (bijvoorbeeld 100, 1000 en 10.000 jaar) moet worden berekend in gram per hectare per jaar. Volstaan kan worden met het berekenen van de flux voor die stoffen die in het (poriën)water voorkomen boven de streefwaarden. Indien dit voor een groot aantal stoffen geldt kan een selectie worden gemaakt op grond van de concentraties (mede in relatie tot de normering) en de mobiliteit van de stoffen. Gedacht moet worden aan een selectie van 6 tot 10 gidsstoffen. Als gidsstoffen moeten die stoffen worden aangewezen waarvan de grootste normoverschrijdingen worden verwacht.
 
 **2.3. Toetsing**
 
-De per tijdstap berekende fluxen moeten getoetst worden aan de in [kolom 2 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&bijlage=1&z=2002-05-08&g=2002-05-08) van deze regeling opgenomen waarden voor de `toelaatbare flux'. Indien de toelaatbare flux niet wordt overschreden kan de toetsing worden beëindigd. Als de toelaatbare flux wordt overschreden moet de toetsing voor deze stoffen worden voortgezet zoals beschreven in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&z=2002-05-08&g=2002-05-08).
+De per tijdstap berekende fluxen moeten getoetst worden aan de in [kolom 2 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&bijlage=1&z=2008-07-01&g=2008-07-01) van deze regeling opgenomen waarden voor de `toelaatbare flux'. Indien de toelaatbare flux niet wordt overschreden kan de toetsing worden beëindigd. Als de toelaatbare flux wordt overschreden moet de toetsing voor deze stoffen worden voortgezet zoals beschreven in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&z=2008-07-01&g=2008-07-01).
 
 ### 3. Het door de stortplaats beïnvloed gebied
 
 **3.1. Berekenen**
 
-Met het numerieke model zoals beschreven in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=2&z=2002-05-08&g=2002-05-08) moet de beïnvloeding van het grondwater en de bodem door de stortplaats worden gekwantificeerd (in m³). Hierbij wordt het bodemvolume bedoeld in m³ dat binnen de streefwaardecontour na 10.000 jaar ligt. Het gaat hier om de parameters die de toelaatbare flux overschrijden. Uitgangspunt bij deze berekening is dat het grondwater in de uitgangssituatie géén verontreinigingen bevat.
+Met het numerieke model zoals beschreven in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=2&z=2008-07-01&g=2008-07-01) moet de beïnvloeding van het grondwater en de bodem door de stortplaats worden gekwantificeerd (in m³). Hierbij wordt het bodemvolume bedoeld in m³ dat binnen de streefwaardecontour na 10.000 jaar ligt. Het gaat hier om de parameters die de toelaatbare flux overschrijden. Uitgangspunt bij deze berekening is dat het grondwater in de uitgangssituatie géén verontreinigingen bevat.
 
 **3.2. Toetsing**
 
@@ -625,23 +625,23 @@ Per te toetsen parameter moet het door de stortplaats beïnvloede gebied (m³ bi
 
 Het toelaatbaar beïnvloed gebied komt overeen met de grootte van de nuttige inhoud van de stortplaats (volumecriterium). Met de nuttige inhoud van de stortplaats wordt het depotvolume (m³) bedoeld dat beschikbaar is voor het bergen van baggerspecie (ontwerpcapaciteit).
 
-Indien het beïnvloede gebied na 10.000 jaar (berekening) kleiner is dan het toelaatbaar beïnvloed gebied, (de nuttige inhoud van de stortplaats) dan zijn de effecten van de stortplaats op het grondwater toelaatbaar. Indien dit het geval is moet worden aangegeven of dit het gevolg is van locatie specifieke omstandigheden ([artikel 5, tweede lid, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2002-05-08&g=2002-05-08)).
+Indien het beïnvloede gebied na 10.000 jaar (berekening) kleiner is dan het toelaatbaar beïnvloed gebied, (de nuttige inhoud van de stortplaats) dan zijn de effecten van de stortplaats op het grondwater toelaatbaar. Indien dit het geval is moet worden aangegeven of dit het gevolg is van locatie specifieke omstandigheden ([artikel 5, tweede lid, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2008-07-01&g=2008-07-01)).
 
-Als er wel overschrijding van het toelaatbaar beïnvloed gebied plaatsvindt moet worden aangegeven of direct buiten het toelaatbaar beïnvloed gebied natuurlijke en effectieve geohydrologische isolatie optreedt ([artikel 5, tweede lid, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2002-05-08&g=2002-05-08)).
+Als er wel overschrijding van het toelaatbaar beïnvloed gebied plaatsvindt moet worden aangegeven of direct buiten het toelaatbaar beïnvloed gebied natuurlijke en effectieve geohydrologische isolatie optreedt ([artikel 5, tweede lid, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2008-07-01&g=2008-07-01)).
 
-Daarnaast moet worden aangegeven wat de vracht aan verontreinigingen is in het poriënwater ([artikel 5, eerste lid, c2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2002-05-08&g=2002-05-08)). Voor het beoordelen van een berekende vracht op het oppervlaktewater staat het WvO-instrumentarium ter beschikking.
+Daarnaast moet worden aangegeven wat de vracht aan verontreinigingen is in het poriënwater ([artikel 5, eerste lid, c2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=II&artikel=5&z=2008-07-01&g=2008-07-01)). Voor het beoordelen van een berekende vracht op het oppervlaktewater staat het WvO-instrumentarium ter beschikking.
 
 ### 4. Isolerende maatregelen (artikel 10)
 
-Als uit de berekening blijkt dat de berekende effecten niet toelaatbaar zijn, moeten maatregelen worden genomen die de effecten op het grondwater tegengaan ([artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&artikel=10&z=2002-05-08&g=2002-05-08)). De maatregel(en) moet(en) in het numerieke model worden gebracht waarna de fluxberekeningen ([paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=2&z=2002-05-08&g=2002-05-08)) en de berekening van het beïnvloed gebied ([paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&z=2002-05-08&g=2002-05-08)) moeten worden herhaald, zodat de effectiviteit van de maatregelen inzichtelijk wordt gemaakt.
+Als uit de berekening blijkt dat de berekende effecten niet toelaatbaar zijn, moeten maatregelen worden genomen die de effecten op het grondwater tegengaan ([artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&artikel=10&z=2008-07-01&g=2008-07-01)). De maatregel(en) moet(en) in het numerieke model worden gebracht waarna de fluxberekeningen ([paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=2&z=2008-07-01&g=2008-07-01)) en de berekening van het beïnvloed gebied ([paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=3&z=2008-07-01&g=2008-07-01)) moeten worden herhaald, zodat de effectiviteit van de maatregelen inzichtelijk wordt gemaakt.
 
 Het gaat hierbij om de isolerende werking van de organische stofrijke minerale lagen en de werking van een geohydrologisch isolatiesysteem op de betreffende locatie.
 
-Een geohydrologisch isolatiesysteem kan een onderdeel vormen van een samenhangend geheel van isolerende maatregelen dat in het ontwerp van een stortplaats is opgenomen. Daarnaast is het een maatregel die altijd moet kunnen worden aangelegd als vangnet. Gekoppeld aan deze laatste functie is het logisch om het ontwerp van het controlesysteem ([artikel 16.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=16&z=2002-05-08&g=2002-05-08)) te koppelen aan het ontwerp van het geohydrologisch isolatiesysteem.
+Een geohydrologisch isolatiesysteem kan een onderdeel vormen van een samenhangend geheel van isolerende maatregelen dat in het ontwerp van een stortplaats is opgenomen. Daarnaast is het een maatregel die altijd moet kunnen worden aangelegd als vangnet. Gekoppeld aan deze laatste functie is het logisch om het ontwerp van het controlesysteem ([artikel 16.3](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=16&z=2008-07-01&g=2008-07-01)) te koppelen aan het ontwerp van het geohydrologisch isolatiesysteem.
 
 De werking van het geohydrologisch isolatiesysteem moet in de vergunning inzichtelijk worden gemaakt. Daarbij moet worden aangegeven:
 
-## Bijlage 3. Behorende bij [artikel 17, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=17&z=2002-05-08&g=2002-05-08)
+## Bijlage 3. Behorende bij [artikel 17, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=4&artikel=17&z=2008-07-01&g=2008-07-01)
 
 De Vereniging Kwaliteitsborging Bodemonderzoek (VKB) heeft een aantal protocollen ontwikkeld waarin eisen worden gesteld aan de betrouwbaarheid van meetapparatuur en calibratie daarvan. De protocollen bevatten verwijzingen naar de relevante beschikbare normen (o.a. NEN, ISO, NPR). Van deze protocollen en de betrokken normen moet gebruik worden gemaakt. Het betreft:
 
@@ -657,6 +657,6 @@ De Vereniging Kwaliteitsborging Bodemonderzoek (VKB) heeft een aantal protocolle
 
 - protocol 6 Verpakkingen en conservering van grondwatermonsters in het veld (30/9/1996).
 
-Voordat de stortplaats wordt aangelegd moet de kwaliteit van het grondwater bekend zijn ([artikel 9, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=2&artikel=9&z=2002-05-08&g=2002-05-08)). Dit onderzoek moet worden uitgevoerd worden volgens NEN 5740 (1999) `Bodem - Onderzoeksstrategie bij verkennend onderzoek' en de daarin genoemde meetvoorschriften.
+Voordat de stortplaats wordt aangelegd moet de kwaliteit van het grondwater bekend zijn ([artikel 9, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012665&hoofdstuk=III&paragraaf=2&artikel=9&z=2008-07-01&g=2008-07-01)). Dit onderzoek moet worden uitgevoerd worden volgens NEN 5740 (1999) `Bodem - Onderzoeksstrategie bij verkennend onderzoek' en de daarin genoemde meetvoorschriften.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
