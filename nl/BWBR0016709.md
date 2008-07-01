@@ -4,7 +4,7 @@ identifier: "BWBR0016709"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-01"
-last_updated: "2008-05-08"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016709"
 soort: "ministeriele-regeling"
@@ -64,7 +64,9 @@ In deze regeling wordt verstaan onder:
 
 - f. daluren: maandag tot en met vrijdag van 0.00 uur tot 8.00 uur en van 20.00 uur tot 24.00 uur, en zaterdag en zondag van 0.00 uur tot 24.00 uur;
 
-- g. nummer met bijzondere toegang: nummer uit het Nummerplan telefoon- en ISDN-diensten of een internationaal nummer dat voor toegang gebruik maakt van een voor dat nummer specifieke voorziening in een randapparaat van de eindgebruiker die wordt aangeboden door een aanbieder anders dan de aanbieder van een openbare elektronische communicatiedienst die de eindgebruiker toegang verschaft tot nummers uit het Nummerplan telefoon- en ISDN-diensten of internationale nummers.
+- g. nummer met bijzondere toegang: nummer uit het Nummerplan telefoon- en ISDN-diensten of een internationaal nummer dat voor toegang gebruik maakt van een voor dat nummer specifieke voorziening in een randapparaat van de eindgebruiker die wordt aangeboden door een aanbieder anders dan de aanbieder van een openbare elektronische communicatiedienst die de eindgebruiker toegang verschaft tot nummers uit het Nummerplan telefoon- en ISDN-diensten of internationale nummers;
+
+- h. platformaanbieder: aanbieder van een openbare elektronische communicatiedienst die zich jegens een nummerhouder of een nummergebruiker ertoe verbindt om een dienst die verbonden is aan een oproep naar een nummer dat aan die nummerhouder is toegekend of door die nummergebruiker wordt gebruikt, toegankelijk te maken.
 
 #### § 2. Universele dienstverlening
 
@@ -84,13 +86,13 @@ In deze regeling wordt verstaan onder:
 
 1. De aanbieder van openbare telefoondiensten op een vaste locatie die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen verstrekt, onverminderd het bepaalde bij of krachtens [hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11), op verzoek van zijn abonnee een gespecificeerde rekening van de kosten voor het gebruik van de openbare telefoondienst op een vaste locatie.
 
-2. De aanbieder, bedoeld in het eerste lid, kan slechts een redelijke vergoeding voor een gespecificeerde rekening vragen van de abonnee indien deze rekening meer gespecificeerd is dan het in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.3&z=2008-05-08&g=2008-05-08) bepaalde basisniveau van specificatie.
+2. De aanbieder, bedoeld in het eerste lid, kan slechts een redelijke vergoeding voor een gespecificeerde rekening vragen van de abonnee indien deze rekening meer gespecificeerd is dan het in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.3&z=2008-07-01&g=2008-07-01) bepaalde basisniveau van specificatie.
 
 3. Gesprekken die voor de oproepende abonnee kosteloos zijn worden niet op de gespecificeerde rekening van de oproepende abonnee vermeld.
 
 ##### Artikel 2.3
 
-Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.2&z=2008-05-08&g=2008-05-08) bedoelde basisniveau van specificatie van rekeningen voor het gebruik van de openbare telefoondienst op een vaste locatie omvat:
+Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.2&z=2008-07-01&g=2008-07-01) bedoelde basisniveau van specificatie van rekeningen voor het gebruik van de openbare telefoondienst op een vaste locatie omvat:
 
 - a. de periode waarop de rekening betrekking heeft;
 
@@ -202,7 +204,7 @@ Een aanbieder richt de in [artikel 11.9, eerste lid, van de wet](https://wetten.
 
 ##### Artikel 4.5
 
-Onverminderd [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2&z=2008-05-08&g=2008-05-08), draagt een aanbieder er zorg voor dat voor eenieder op genoegzame wijze informatie beschikbaar is met betrekking tot nummeridentificatie, de daarbij geboden mogelijkheden tot weigering en blokkering van deze faciliteit, en de financiële aspecten daarvan.
+Onverminderd [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2&z=2008-07-01&g=2008-07-01), draagt een aanbieder er zorg voor dat voor eenieder op genoegzame wijze informatie beschikbaar is met betrekking tot nummeridentificatie, de daarbij geboden mogelijkheden tot weigering en blokkering van deze faciliteit, en de financiële aspecten daarvan.
 
 #### § 5. Slotbepalingen
 
@@ -222,23 +224,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3.2a
 
-1. Een aanbieder van een openbare elektronische communicatiedienst die eindgebruikers toegang verschaft tot nummers uit de reeksen 0900, 0906, 0909 of 18 uit het Nummerplan telefoon- en ISDN-diensten, en waarvan de tarieven door die aanbieder bij de consument in rekening worden gebracht, draagt er zorg voor dat voorafgaand aan een oproep worden vermeld:
+1. Een aanbieder van een openbare elektronische communicatiedienst die eindgebruikers toegang verschaft tot nummers uit de reeksen 0900, 0906, 0909 of 18 uit het Nummerplan telefoon- en ISDN-diensten waarvan de tarieven door die aanbieder bij de consument in rekening worden gebracht, draagt er zorg voor dat voorafgaand aan een oproep worden vermeld:
 
-- a. het tarief per minuut of per oproep, met, indien dit van toepassing is, de vermelding dat het genoemde tarief exclusief een aanvullend verkeerstarief is en
-
-- b. het nummer dat wordt opgeroepen.
-
-2. Een aanbieder van een openbare elektronische communicatiedienst die eindgebruikers toegang verschaft tot nummers met bijzondere toegang uit het Nummerplan telefoon- en ISDN-diensten en waarvan de tarieven door die aanbieder bij de consument in rekening worden gebracht, uitgezonderd geografische nummers, nummers uit de reeks 0670… tot en met 0679… en nummers als bedoeld in het eerste lid, draagt er zorg voor dat voorafgaand aan een oproep worden vermeld:
-
-- a. het tarief per minuut of per oproep, met, indien dit van toepassing is, de vermelding dat het genoemde tarief exclusief een aanvullend verkeerstarief is en
+- a. het tarief, exclusief verkeerstarief, per minuut of per oproep, met de vermelding dat het genoemde tarief exclusief een verkeerstarief is, dan wel het tarief, inclusief verkeerstarief, per minuut of per oproep, en
 
 - b. het nummer dat wordt opgeroepen.
 
-3. Een aanbieder van een openbare elektronische communicatiedienst die eindgebruikers toegang verschaft tot internationale nummers met bijzondere toegang, waarvan de tarieven door die aanbieder bij de consument in rekening worden gebracht, vermeldt voorafgaand aan een oproep:
+2. Een aanbieder van een openbare elektronische communicatiedienst die eindgebruikers toegang verschaft tot nummers met bijzondere toegang uit het Nummerplan telefoon- en ISDN-diensten waarvan de tarieven door die aanbieder bij de consument in rekening worden gebracht, uitgezonderd geografische nummers, nummers uit de reeks 0670 tot en met 0679, en nummers als bedoeld in het eerste lid, draagt er zorg voor dat voorafgaand aan een oproep de in het eerste lid bedoelde vermelding plaatsvindt.
 
-- a. het tarief per minuut of per oproep, met, indien dit van toepassing is, de vermelding dat het genoemde tarief exclusief een aanvullend verkeerstarief is en
-
-- b. het nummer dat wordt opgeroepen.
+3. Een aanbieder van een openbare elektronische communicatiedienst die eindgebruikers toegang verschaft tot internationale nummers met bijzondere toegang waarvan de tarieven door die aanbieder bij de consument in rekening worden gebracht, draagt er zorg voor dat voorafgaand aan een oproep de in het eerste lid bedoelde vermelding plaatsvindt.
 
 4. In afwijking van het eerste, tweede en derde lid kan een aanbieder van een openbare elektronische communicatiedienst volstaan met het bieden van een voorziening voor gebruik in een randapparaat die het tarief en het nummer overeenkomstig het bepaalde in het eerste, tweede en derde lid vermeldt. De aanbieder bericht in dat geval haar eindgebruikers schriftelijk of elektronisch omtrent:
 
@@ -246,13 +240,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. het aanbod van een voorziening voor gebruik in een randapparaat.
 
-5. Het eerste en tweede lid zijn niet van toepassing op oproepen vanuit het buitenland.
+5. Het eerste en tweede lid zijn niet van toepassing op oproepen van buiten Nederland.
 
 6. De melding bedoeld in het eerste, tweede en derde lid en de voorziening voor gebruik in een randapparaat zijn kosteloos voor de consument en zijn ondubbelzinnig en duidelijk leesbaar of verstaanbaar.
 
 ##### Artikel 3.4
 
-1. Een aanbieder van een elektronische communicatiedienst die eindgebruikers toegang verschaft tot nummers met bijzondere toegang uit het Nummerplan telefoon- en ISDN-diensten en waarvan de tarieven door die aanbieder bij de consument in rekening worden gebracht, uitgezonderd geografische nummers en nummers uit de reeks 0670… tot en met 0679…, of internationale nummers, biedt de consument tenminste een van de volgende voorzieningen voor het begrenzen van het gebruik van nummers met bijzondere toegang aan:
+1. Een aanbieder van een elektronische communicatiedienst die eindgebruikers toegang verschaft tot nummers met bijzondere toegang uit het Nummerplan telefoon- en ISDN-diensten en waarvan de tarieven door die aanbieder bij de consument in rekening worden gebracht, uitgezonderd geografische nummers en nummers uit de reeks 0670 tot en met 0679, of internationale nummers, biedt de consument tenminste een van de volgende voorzieningen voor het begrenzen van het gebruik van nummers met bijzondere toegang aan:
 
 - a. de maximale duur van de oproep;
 
@@ -272,9 +266,79 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3.5a
 
-1. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-05-08&g=2008-05-08), biedt de consument die een klacht bij hem heeft ingediend, de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening tijdens de behandeling van de klacht.
+1. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), biedt de consument die een klacht bij hem heeft ingediend, de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening tijdens de behandeling van de klacht.
 
-2. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-05-08&g=2008-05-08), biedt de consument de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening, indien de consument een geschil aanhangig maakt bij een op grond van [artikel 12.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.1) erkende geschillencommissie binnen de door die geschillencommissie gehanteerde termijn en de consument zijn aanbieder hiervan op de hoogte stelt.
+2. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), biedt de consument de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening, indien de consument een geschil aanhangig maakt bij een op grond van [artikel 12.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.1) erkende geschillencommissie binnen de door die geschillencommissie gehanteerde termijn en de consument zijn aanbieder hiervan op de hoogte stelt.
+
+#### § 4. Nummeridentificatie
+
+#### § 5. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3.2b
+
+1. Een nummergebruiker die een nummer gebruikt uit de reeks 0900, 0906, 0909 of 18 uit het Nummerplan telefoon- en ISDN-diensten waarvan het tarief door een aanbieder van een elektronische communicatiedienst bij de consument in rekening wordt gebracht draagt er zorg voor dat voorafgaand aan een oproep de in [artikel 3.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), bedoelde vermelding plaatsvindt.
+
+2. Een nummergebruiker die een nummer met bijzondere toegang gebruikt uit het Nummerplan telefoon- en ISDN-diensten waarvan het tarief door een aanbieder van een elektronische communicatiedienst bij de consument in rekening wordt gebracht, uitgezonderd geografische nummers, nummers uit de reeks 0670 tot en met 0679 en nummers als bedoeld in het eerste lid, draagt er zorg voor dat voorafgaand aan een oproep de in [artikel3.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), bedoelde vermelding plaatsvindt.
+
+3. Het eerste en tweede lid zijn niet van toepassing op oproepen van buiten Nederland.
+
+4. De in het eerste en tweede lid bedoelde vermeldingen zijn kosteloos voor de consument en zijn ondubbelzinnig en duidelijk leesbaar of verstaanbaar.
+
+##### Artikel 3.2c
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 3.2d
+
+1. Indien het gebruik van een nummer als bedoeld in [artikel 3.2b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-07-01&g=2008-07-01), wordt aangeprezen in het openbaar, zorgt de nummergebruiker ervoor dat daarbij de in [artikel 3.2a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), bedoelde informatie wordt vermeld.
+
+2. Indien het gebruik van een nummer als bedoeld in [artikel 3.2c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01), wordt aangeprezen in het openbaar, zorgt de nummergebruiker ervoor dat daarbij de in [artikel 3.2c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01), bedoelde informatie wordt vermeld.
+
+3. De vermeldingen, bedoeld in het eerste en tweede lid, zijn ondubbelzinnig en duidelijk leesbaar of verstaanbaar.
+
+##### Artikel 3.2e
+
+Indien in een vermelding als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), [artikel 3.2b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-07-01&g=2008-07-01), [artikel 3.2c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01), en [artikel 3.2d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2d&z=2008-07-01&g=2008-07-01), wordt vermeld dat het tarief exclusief een verkeerstarief is, gaat de vermelding vergezeld van:
+
+- a. dat verkeerstarief, of
+
+- b. indien de aanbieder dat verkeerstarief via andere weg bekend heeft gemaakt, de relevante informatie over dat verkeerstarief.
+
+##### Artikel 3.2f
+
+1. Voor zover een aanbieder als bedoeld in [artikel 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01) ten aanzien van een nummer ervoor heeft zorg gedragen dat de vermeldingen, bedoeld in de [artikelen 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01) en [3.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-07-01&g=2008-07-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01), worden gedaan, is de nummergebruiker van dat nummer ontheven van de verplichting zorg te dragen voor de desbetreffende vermeldingen.
+
+2. Voor zover een nummergebruiker als bedoeld in [artikel 3.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-07-01&g=2008-07-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01) ten aanzien van een nummer ervoor heeft zorg gedragen dat de vermeldingen, bedoeld in de [artikelen 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01) en [3.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-07-01&g=2008-07-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01), worden gedaan, is een aanbieder van de openbare elektronische communicatiedienst die toegang verschaft tot het aangekozen 090x nummer ontheven van de verplichting zorg te dragen voor de desbetreffende vermeldingen.
+
+##### Artikel 3.6
+
+De nummergebruiker die een nummer met bijzondere toegang gebruikt uit het Nummerplan telefoon- en ISDN-diensten, waarvan het tarief door een aanbieder van een elektronische communicatiedienst bij de consument in rekening wordt gebracht, uitgezonderd geografische nummers en nummers uit de reeks 0670 tot en met 0679, beëindigt de oproep naar dat nummer onmiddellijk nadat de oproeper van het nummer heeft aangegeven de ontvangst van de aan dat nummer verbonden dienst te willen beëindigen.
+
+##### Artikel 3.7
+
+De in [artikel 4.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.3), [artikel 4.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.7), [artikel 4.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.9), [artikel 7.3a , eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.3a) en [artikel 7.3b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.3b) bedoelde categorieën van nummers zijn:
+
+- a. nummers die behoren tot de reeksen 0900, 0906, 0909 of 18 uit het Nummerplan telefoon- en ISDN-diensten;
+
+- b. nummers met bijzondere toegang uit het Nummerplan telefoon- en ISDN-diensten, uitgezonderd geografische nummers, nummers uit de reeks 0670 tot en met 0679 en nummers als bedoeld in onderdeel a.
+
+##### Artikel 3.8
+
+De in [artikel 4.9, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.9) bedoelde gegevens met betrekking tot een nummer uit de in dat lid bedoelde categorie van nummers zijn:
+
+- a. naam;
+
+- b. adres en woonplaats of vestigingsplaats;
+
+- c. telefoonnummer;
+
+- d. de periode dat dit nummer in gebruik is;
+
+- e. de periode waarin voor een aan de oproep verbonden dienst geen bijkomend tarief wordt gerekend op het tarief voor het overbrengen van elektronische signalen;
+
+- f. de gegevens, genoemd onder a tot en met c, van de platformaanbieder die de aan een oproep naar dat nummer verbonden dienst toegankelijk maakt gedurende de in onderdeel d bedoelde periode.
 
 #### § 4. Nummeridentificatie
 
