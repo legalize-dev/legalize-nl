@@ -4,7 +4,7 @@ identifier: "BWBR0020302"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2008-03-26"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020302"
 soort: "wet"
@@ -47,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Voor de toepassing van de [artikelen 2 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020302&hoofdstuk=1&artikel=2&z=2008-03-26&g=2008-03-26) van deze wet wordt verstaan onder:
+Voor de toepassing van de [artikelen 2 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020302&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01) van deze wet wordt verstaan onder:
 
 - a. Verordening: de [Verordening (EG) nr. 1435/2003](32003R1435) van de Raad van de Europese Unie van 22 juli 2003 betreffende het statuut voor een Europese Coöperatieve Vennootschap (SCE) (PbEU L 207);
 
@@ -85,7 +85,7 @@ Ten behoeve van de verplaatsing van de statutaire zetel naar een andere lidstaat
 
 ##### Artikel 7
 
-1. Als register voor de inschrijving van een Europese coöperatieve vennootschap met statutaire zetel in Nederland of van een Nederlandse nevenvestiging van een Europese coöperatieve vennootschap wordt aangewezen: het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2).
+1. Als register voor de inschrijving van een Europese coöperatieve vennootschap met statutaire zetel in Nederland of van een Nederlandse nevenvestiging van een Europese coöperatieve vennootschap wordt aangewezen: het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2).
 
 2. Bij inschrijving van de zetelverplaatsing van een Europese coöperatieve vennootschap naar Nederland wordt een notariële akte die de statuten van de vennootschap bevat en is verleden door een notaris met standplaats in Nederland neergelegd ten kantore van het handelsregister. De [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=65) en [69 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=69) zijn van overeenkomstige toepassing.
 
