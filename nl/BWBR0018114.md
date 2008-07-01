@@ -4,7 +4,7 @@ identifier: "BWBR0018114"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2005-04-01"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018114"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Voor de toepassing van de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018114&hoofdstuk=1&artikel=2&z=2005-04-01&g=2005-04-01) van deze wet wordt onder «Verordening» verstaan de [Verordening (EG) nr. 2157/2001](32001R2157) van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG L 294).
+Voor de toepassing van de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018114&hoofdstuk=1&artikel=2&z=2008-07-01&g=2008-07-01) van deze wet wordt onder «Verordening» verstaan de [Verordening (EG) nr. 2157/2001](32001R2157) van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG L 294).
 
 ##### Artikel 2
 
@@ -76,7 +76,7 @@ Ten behoeve van de verplaatsing van de statutaire zetel naar een andere lidstaat
 
 ##### Artikel 6
 
-1. Als register voor de inschrijving van een Europese naamloze vennootschap met statutaire zetel in Nederland of van een Nederlandse nevenvestiging van een Europese naamloze vennootschap wordt aangewezen: het handelsregister bedoeld in [artikel 2 van de Handelsregisterwet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007893&artikel=2).
+1. Als register voor de inschrijving van een Europese naamloze vennootschap met statutaire zetel in Nederland of van een Nederlandse nevenvestiging van een Europese naamloze vennootschap wordt aangewezen: het handelsregister bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2).
 
 2. Bij inschrijving van de zetelverplaatsing van een Europese naamloze vennootschap naar Nederland wordt een notariële akte die de statuten van de vennootschap bevat en is verleden door een notaris met standplaats in Nederland neergelegd ten kantore van het handelsregister. De [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=65) en [69 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=69) zijn van overeenkomstige toepassing.
 
