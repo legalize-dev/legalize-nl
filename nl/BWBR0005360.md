@@ -4,7 +4,7 @@ identifier: "BWBR0005360"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005360"
 soort: "AMvB"
@@ -63,27 +63,51 @@ Hebben goedgevonden en verstaan:
 
 2. Het geleidedocument wordt opgemaakt door de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht.
 
-3. Het geleidedocument of een afschrift daarvan dient binnen één maand na de aanvang van de overbrenging van de goederen te zijn terugontvangen door de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen zijn overgebracht, voorzien van een verklaring van de vergunninghouder van de accijnsgoederenplaats waarnaar de accijnsgoederen zijn overgebracht dat de accijnsgoederen hun bestemming hebben bereikt en in de administratie van zijn accijnsgoederenplaats zijn opgenomen.
+3. Het derde exemplaar van het geleidedocument moet binnen één maand na de datum van verzending van de accijnsgoederen zijn terugontvangen door de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen zijn overgebracht, voorzien van een verklaring van de vergunninghouder van de accijnsgoederenplaats waarnaar de accijnsgoederen zijn overgebracht dat de accijnsgoederen hun bestemming hebben bereikt en in de administratie van zijn accijnsgoederenplaats zijn opgenomen.
 
-4. De vergunninghouder van de accijnsgoederenplaats waarnaar de accijnsgoederen zijn overgebracht, draagt zorg voor de terugzending van het in het derde lid bedoelde geleidedocument of van een afschrift daarvan.
+4. De vergunninghouder van de accijnsgoederenplaats waarnaar de accijnsgoederen zijn overgebracht, draagt zorg voor de terugzending van het in het derde lid bedoelde exemplaar van het geleidedocument.
 
-5. Het geleidedocument als bedoeld in het eerste lid kan op verzoek achterwege blijven indien:
+5. Indien het in het derde lid bedoelde exemplaar van het geleidedocument niet wordt terugontvangen voorzien van de in het derde lid bedoelde verklaring, stelt de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen zijn overgebracht, de inspecteur daarvan in kennis uiterlijk binnen twee maanden na de datum van verzending van de accijnsgoederen.
 
-- a. de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht beschikt over een administratie waarin deze overbrengingen afzonderlijk worden bijgehouden en waaruit naar het oordeel van de inspecteur de overbrengingen op overzichtelijke wijze zijn af te lezen; en
+6. Het geleidedocument, bedoeld in het eerste lid, kan op verzoek achterwege blijven indien:
 
-- b. de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht bij zijn aangifte opgave doet van de door hem in het tijdvak waarover aangifte wordt gedaan zonder geleidedocument overgebrachte accijnsgoederen.
+- a. zowel de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht, als de vergunninghouder van de accijnsgoederenplaats waarnaar de accijnsgoederen worden overgebracht, beschikt over een administratie waarin deze overbrengingen afzonderlijk worden bijgehouden en waaruit naar het oordeel van de inspecteur de overbrengingen op overzichtelijke wijze zijn af te lezen;
 
-6. In de opgave als bedoeld in het vijfde lid, onderdeel **b**, worden per overbrenging vermeld:
+- b. gebruik wordt gemaakt van een maandverklaring, waarin de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht opgave doet van de door hem in een kalendermaand zonder geleidedocument naar een andere accijnsgoederenplaats overgebrachte accijnsgoederen; en
+
+- c. de maandverklaring na afloop van een kalendermaand wordt verstrekt aan elke vergunninghouder van een accijnsgoederenplaats waarnaar in die kalendermaand accijnsgoederen zijn overgebracht.
+
+7. De toestemming voor toepassing van het zesde lid wordt opgenomen in de vergunning voor beide in het zesde lid bedoelde accijnsgoederenplaatsen. Op de toestemming zijn de [artikelen 43 tot en met 50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=43) van overeenkomstige toepassing.
+
+8. De administratie van de in het zesde lid bedoelde vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht bevat in ieder geval:
 
 - a. de naam, het adres en het vergunningnummer van de vergunninghouder van de accijnsgoederenplaats waarnaar de accijnsgoederen zijn overgebracht;
 
-- b. de soort, de hoeveelheid en de voor de accijnsheffing van belang zijnde samenstelling van de accijnsgoederen; en
+- b. de soort, de hoeveelheid en de voor de accijnsheffing van belang zijnde samenstelling van de accijnsgoederen;
 
-- c. de datum waarop de overbrenging van de accijnsgoederen is aangevangen.
+- c. de datum van verzending van de accijnsgoederen; en
 
-7. Indien met inachtneming van het vijfde en zesde lid zonder geleidedocument overgebrachte accijnsgoederen de opgegeven bestemming niet binnen één maand na de aanvang van de overbrenging blijken te hebben bereikt, worden zij aangemerkt als te zijn uitgeslagen uit de accijnsgoederenplaats van waaruit de overbrenging is aangevangen.
+- d. per overbrenging het nummer van de maandverklaring waarin die overbrenging is begrepen.
 
-8. De toestemming voor toepassing van het vijfde lid wordt opgenomen in de vergunning voor de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht. Op de toestemming zijn de [artikelen 48, onderdelen a, c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=48), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=49) en [50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50) van overeenkomstige toepassing.
+9. De administratie van de in het zesde lid bedoelde vergunninghouder van de accijnsgoederenplaats waarnaar de accijnsgoederen worden overgebracht, bevat in ieder geval:
+
+- a. de naam, het adres en het vergunningnummer van de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen zijn overgebracht;
+
+- b. de soort, de hoeveelheid en de voor de accijnsheffing van belang zijnde samenstelling van de accijnsgoederen;
+
+- c. de datum van verzending van de accijnsgoederen;
+
+- d. de datum waarop de accijnsgoederen zijn ontvangen; en
+
+- e. per overbrenging het nummer van de maandverklaring waarin die overbrenging is begrepen.
+
+10. De vergunninghouder van de accijnsgoederenplaats waarnaar de accijnsgoederen zijn overgebracht, draagt zorg voor de terugzending van de in het zesde lid bedoelde maandverklaring.
+
+11. De in het zesde lid bedoelde maandverklaring moet binnen één maand na de maand waarop de maandverklaring betrekking heeft zijn terugontvangen door de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen zijn overgebracht, voorzien van een verklaring van de vergunninghouder van de accijnsgoederenplaats waarnaar de accijnsgoederen zijn overgebracht, dat de accijnsgoederen hun bestemming hebben bereikt en in de administratie van zijn accijnsgoederenplaats zijn opgenomen.
+
+12. Indien de maandverklaring niet wordt terugontvangen voorzien van de in het elfde lid bedoelde verklaring, stelt de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen zijn overgebracht de inspecteur daarvan onverwijld in kennis, maar uiterlijk binnen één week na afloop van de maand waarin de maandverklaring door hem moet zijn terugontvangen.
+
+13. Bij toepassing van het zesde lid is [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=34&z=2008-07-01&g=2008-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 2a
 
@@ -145,15 +169,15 @@ Hebben goedgevonden en verstaan:
 
 4. Het brengen, bedoeld in [artikel 2, derde lid, onderdeel **e**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), van een accijnsgoed vanuit een accijnsgoederenplaats naar een derde land, dient in de gevallen waarin dit geschiedt met toepassing van de communautaire douaneregeling douanevervoer, te kunnen worden aangetoond met een voor uitvoer afgetekend exemplaar van de op grond van de wettelijke bepalingen, bedoeld in [artikel 2, tweede lid , onderdeel **a**, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2), vereiste aangifte ten uitvoer.
 
-5. Indien het brengen, bedoeld in [artikel 2, derde lid, onderdeel **e**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), van een accijnsgoed vanuit een accijnsgoederenplaats naar een derde land, geschiedt met toepassing van de communautaire douaneregeling douanevervoer ten behoeve waarvan gebruik wordt gemaakt van enig document, is [artikel 2**a**, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2a&z=2007-07-01&g=2008-01-01), van overeenkomstige toepassing.
+5. Indien het brengen, bedoeld in [artikel 2, derde lid, onderdeel **e**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), van een accijnsgoed vanuit een accijnsgoederenplaats naar een derde land, geschiedt met toepassing van de communautaire douaneregeling douanevervoer ten behoeve waarvan gebruik wordt gemaakt van enig document, is [artikel 2**a**, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2a&z=2008-07-01&g=2008-07-01), van overeenkomstige toepassing.
 
-6. In de gevallen waarin het brengen van een accijnsgoed vanuit een accijnsgoederenplaats naar een derde land overeenkomstig het eerste lid dient te worden aangetoond met een geleidedocument en het douanekantoor van uitgang, bedoeld in artikel 793 van de toepassingsverordening Communautair douanewetboek, is gelegen in een andere lidstaat dan Nederland, is [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2b&z=2007-07-01&g=2008-01-01) van overeenkomstige toepassing.
+6. In de gevallen waarin het brengen van een accijnsgoed vanuit een accijnsgoederenplaats naar een derde land overeenkomstig het eerste lid dient te worden aangetoond met een geleidedocument en het douanekantoor van uitgang, bedoeld in artikel 793 van de toepassingsverordening Communautair douanewetboek, is gelegen in een andere lidstaat dan Nederland, is [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2b&z=2008-07-01&g=2008-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 3a
 
-1. Het brengen, bedoeld in [artikel 2**a**, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a), van een accijnsgoed vanuit een belastingentrepot naar een in Nederland gevestigd geregistreerd bedrijf of naar een niet-geregistreerd bedrijf dient, behoudens in de gevallen waarin dit brengen geschiedt met toepassing van de communautaire douaneregeling douanevervoer, te kunnen worden aangetoond met een geleidedocument.
+1. Het brengen, bedoeld in [artikel 2a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a), van een accijnsgoed vanuit een belastingentrepot naar een in Nederland gevestigd geregistreerd bedrijf of naar een niet-geregistreerd bedrijf dient, behoudens in de gevallen waarin dit brengen geschiedt met toepassing van de communautaire douaneregeling douanevervoer, te kunnen worden aangetoond met een geleidedocument.
 
-2. De vergunninghouder van het in het eerste lid bedoelde geregistreerde bedrijf of niet-geregistreerde bedrijf legt het derde en vierde exemplaar van het geleidedocument, voorzien van de in het derde lid bedoelde vermeldingen, ter visering over bij de in [artikel 53**a** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=53a) bedoelde aangifte. Na het doen van aangifte draagt hij zorg voor terugzending van het derde exemplaar van het geleidedocument, en wel uiterlijk binnen twee weken na afloop van de maand waarin de accijnsgoederen door hem zijn ontvangen. Het vierde exemplaar van het geleidedocument is bestemd voor de inspecteur.
+2. De vergunninghouder van het in het eerste lid bedoelde geregistreerde bedrijf of niet-geregistreerde bedrijf legt, uiterlijk op het in [artikel 53a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=53a), onderscheidenlijk [artikel 53a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=53a) bedoelde tijdstip, het derde en het vierde exemplaar van het geleidedocument, voorzien van de in het derde lid bedoelde vermeldingen, ter visering over aan de inspecteur. Na visering door de inspecteur draagt hij zorg voor terugzending van het derde exemplaar van het geleidedocument, en wel uiterlijk binnen twee weken na afloop van de maand waarin de accijnsgoederen door hem zijn ontvangen. Het vierde exemplaar van het geleidedocument is bestemd voor de inspecteur.
 
 3. Het terugzendingsexemplaar, bedoeld in het tweede lid, dient door de in het tweede lid bedoelde vergunninghouder te worden voorzien van de volgende vermeldingen:
 
@@ -167,7 +191,7 @@ Hebben goedgevonden en verstaan:
 
 4. Het vierde exemplaar van het geleidedocument dient door de in het tweede lid bedoelde vergunninghouder te worden voorzien van de in het derde lid, onderdelen b, c en d, bedoelde vermeldingen.
 
-5. Indien het brengen, bedoeld in [artikel 2**a**, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a), van een accijnsgoed vanuit een belastingentrepot naar een in Nederland gevestigd geregistreerd bedrijf of naar een niet-geregistreerd bedrijf geschiedt met toepassing van de communautaire douaneregeling douanevervoer, kan dit brengen worden aangetoond door middel van de ter zake aanvaarde aangifte voor douanevervoer.
+5. Indien het brengen, bedoeld in [artikel 2a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a), van een accijnsgoed vanuit een belastingentrepot naar een in Nederland gevestigd geregistreerd bedrijf of naar een niet-geregistreerd bedrijf geschiedt met toepassing van de communautaire douaneregeling douanevervoer, kan dit brengen worden aangetoond door middel van de ter zake aanvaarde aangifte voor douanevervoer.
 
 ##### Artikel 3b
 
@@ -213,7 +237,7 @@ indien het sigaretten betreft, 200 stuks indien het sigaren betreft en 1 kg indi
 
 ##### Artikel 3d
 
-1. In afwijking van de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2a&z=2007-07-01&g=2008-01-01) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3c&z=2007-07-01&g=2008-01-01) behoeft het door middel van een pijpleiding brengen van minerale oliën vanuit een accijnsgoederenplaats naar een belastingentrepot, alsmede het door middel van een pijpleiding brengen van minerale oliën vanuit een belastingentrepot naar een accijnsgoederenplaats niet te worden aangetoond met een geleidedocument.
+1. In afwijking van de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2a&z=2008-07-01&g=2008-07-01) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3c&z=2008-07-01&g=2008-07-01) behoeft het door middel van een pijpleiding brengen van minerale oliën vanuit een accijnsgoederenplaats naar een belastingentrepot, alsmede het door middel van een pijpleiding brengen van minerale oliën vanuit een belastingentrepot naar een accijnsgoederenplaats niet te worden aangetoond met een geleidedocument.
 
 2. Van het brengen, bedoeld in het eerste lid, dient door de vergunninghouder van de accijnsgoederenplaats maandelijks een opgaaf te worden verstrekt aan de inspecteur.
 
@@ -227,11 +251,11 @@ indien het sigaretten betreft, 200 stuks indien het sigaren betreft en 1 kg indi
 
 ##### Artikel 5
 
-Het brengen, bedoeld in [artikel 3, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=3), van een accijnsgoed vanuit een derde land naar een plaats voor tijdelijke opslag, het in Nederland plaatsen, bedoeld in [artikel 3, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3&z=2007-07-01&g=2008-01-01), onder een communautaire douaneregeling van een vanuit een derde land binnengebracht accijnsgoed, alsmede het onder ambtelijk toezicht vernietigen, bedoeld in [artikel 3, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3&z=2007-07-01&g=2008-01-01), van een accijnsgoed dat onder een communautaire douaneregeling is geplaatst, dienen te geschieden met inachtneming van de formaliteiten die op grond van de wettelijke bepalingen, bedoeld in [artikel 2, tweede lid, onderdeel a, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2), moeten worden vervuld.
+Het brengen, bedoeld in [artikel 3, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=3), van een accijnsgoed vanuit een derde land naar een plaats voor tijdelijke opslag, het in Nederland plaatsen, bedoeld in [artikel 3, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3&z=2008-07-01&g=2008-07-01), onder een communautaire douaneregeling van een vanuit een derde land binnengebracht accijnsgoed, alsmede het onder ambtelijk toezicht vernietigen, bedoeld in [artikel 3, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3&z=2008-07-01&g=2008-07-01), van een accijnsgoed dat onder een communautaire douaneregeling is geplaatst, dienen te geschieden met inachtneming van de formaliteiten die op grond van de wettelijke bepalingen, bedoeld in [artikel 2, tweede lid, onderdeel a, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2), moeten worden vervuld.
 
 ##### Artikel 6
 
-1. In de vervoersopdracht als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=4&z=2007-07-01&g=2008-01-01) worden vermeld:
+1. In de vervoersopdracht als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=4&z=2008-07-01&g=2008-07-01) worden vermeld:
 
 - a. de naam en het adres van degene die de vervoersopdracht opmaakt dan wel van degene in wiens opdracht zij wordt opgemaakt;
 
@@ -251,11 +275,11 @@ Het brengen, bedoeld in [artikel 3, derde lid, onderdeel a, van de wet](https://
 
 ##### Artikel 6a
 
-Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het geleidedocument, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2007-07-01&g=2008-01-01), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2a&z=2007-07-01&g=2008-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3&z=2007-07-01&g=2008-01-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3a&z=2007-07-01&g=2008-01-01) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3c&z=2007-07-01&g=2008-01-01).
+Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het geleidedocument, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2008-07-01&g=2008-07-01), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2a&z=2008-07-01&g=2008-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3&z=2008-07-01&g=2008-07-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3a&z=2008-07-01&g=2008-07-01) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3c&z=2008-07-01&g=2008-07-01).
 
 ##### Artikel 6b
 
-Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het geleidedocument, bedoeld in de [artikelen 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3b&z=2007-07-01&g=2008-01-01), [31a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=2&artikel=31a&z=2007-07-01&g=2008-01-01) en [34a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=34a&z=2007-07-01&g=2008-01-01).
+Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het geleidedocument, bedoeld in de [artikelen 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3b&z=2008-07-01&g=2008-07-01), [31a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=2&artikel=31a&z=2008-07-01&g=2008-07-01) en [34a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=34a&z=2008-07-01&g=2008-07-01).
 
 ### Afdeling 2a. Gebruik als brandstof in een accijnsgoederenplaats
 
@@ -271,15 +295,13 @@ Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het g
 
 5. In de energiebalans worden opgenomen de binnen de produktielokatie opgewekte hoeveelheid energie en de hoeveelheid en de soort van de daartoe aangewende brandstoffen, alsmede de hoeveelheid afgegeven energie en alle produktie-eenheden waaraan de energie is afgegeven, onderscheiden in die waarin in enigszins betekenende mate minerale oliën worden vervaardigd en andere produktie-eenheden.
 
-6. Van het in het eerste lid bedoelde verbruik van minerale oliën dient opgave te worden gedaan bij de aangifte van de in een tijdvak verschuldigde accijns.
-
 ### Afdeling 3. Ontheffing algemene verbodsbepalingen
 
 ##### Artikel 7
 
 1. De ontheffing als bedoeld in [artikel 5, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=5) vindt uitsluitend toepassing indien uit de administratie van degene die de accijnsgoederen vervaardigt uit andere accijnsgoederen blijkt dat het accijnsbedrag dat eerstbedoelde accijnsgoederen vertegenwoordigen niet hoger is dan het accijnsbedrag dat de accijnsgoederen vertegenwoordigen waaruit zij zijn vervaardigd en dat de accijns voor deze laatstbedoelde goederen is betaald.
 
-2. De ontheffing als bedoeld in [artikel 5, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=5) vindt uitsluitend toepassing indien degene die de accijnsgoederen vervaardigt in het bezit is van een op grond van [artikel 18, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=18&z=2007-07-01&g=2008-01-01), voor de vervaardiging van de desbetreffende accijnsgoederen verleende vergunning.
+2. De ontheffing als bedoeld in [artikel 5, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=5) vindt uitsluitend toepassing indien degene die de accijnsgoederen vervaardigt in het bezit is van een op grond van [artikel 18, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=18&z=2008-07-01&g=2008-07-01), voor de vervaardiging van de desbetreffende accijnsgoederen verleende vergunning.
 
 3. De ontheffing als bedoeld in [artikel 5, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=5) vindt uitsluitend toepassing indien de thuis vervaardigde accijnsgoederen worden verbruikt door de vervaardiger, zijn huisgenoten of zijn gasten.
 
@@ -301,7 +323,7 @@ Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het g
 
 - a. de uitgeslagen accijnsgoederen en de daarvoor uitgereikte facturen;
 
-- b. de geleidedocumenten en de vervoersopdrachten of, indien [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2007-07-01&g=2008-01-01), toepassing vindt, de overgebrachte accijnsgoederen met de daarbij behorende gegevens en de daarvoor uitgereikte facturen;
+- b. de geleidedocumenten en de vervoersopdrachten of, indien [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2008-07-01&g=2008-07-01), toepassing vindt, de overgebrachte accijnsgoederen met de daarbij behorende gegevens en de daarvoor uitgereikte facturen;
 
 - c. de uit Nederland betrokken accijnsgoederen;
 
@@ -313,7 +335,7 @@ Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het g
 
 ##### Artikel 9
 
-1. Indien degene die om een vergunning voor een accijnsgoederenplaats verzoekt naar het oordeel van de inspecteur niet volledig kan voldoen aan het bepaalde in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=1&artikel=8&z=2007-07-01&g=2008-01-01), stelt de inspecteur voorwaarden met betrekking tot de locatie en de inrichting van de accijnsgoederenplaats, alsmede met betrekking tot het stelsel van toezicht.
+1. Indien degene die om een vergunning voor een accijnsgoederenplaats verzoekt naar het oordeel van de inspecteur niet volledig kan voldoen aan het bepaalde in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=1&artikel=8&z=2008-07-01&g=2008-07-01), stelt de inspecteur voorwaarden met betrekking tot de locatie en de inrichting van de accijnsgoederenplaats, alsmede met betrekking tot het stelsel van toezicht.
 
 2. De in het eerste lid bedoelde inrichting van een accijnsgoederenplaats heeft mede betrekking op de daar aanwezige produktie-, transport- en opslaginstallaties.
 
@@ -327,7 +349,7 @@ Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het g
 
 - a. de ontvangen accijnsgoederen en de daarbij behorende facturen; en
 
-- b. de geleidedocumenten bedoeld in [artikel 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3a&z=2007-07-01&g=2008-01-01).
+- b. de geleidedocumenten bedoeld in [artikel 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3a&z=2008-07-01&g=2008-07-01).
 
 ##### Artikel 9b
 
@@ -339,7 +361,7 @@ Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het g
 
 - a. de per vergunning ontvangen accijnsgoederen en de daarbij behorende facturen; en
 
-- b. de geleidedocumenten bedoeld in [artikel 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3a&z=2007-07-01&g=2008-01-01).
+- b. de geleidedocumenten bedoeld in [artikel 3**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3a&z=2008-07-01&g=2008-07-01).
 
 ### Afdeling 3. Fiscaal vertegenwoordiger van de vergunninghouder van een belastingentrepot
 
@@ -383,9 +405,9 @@ Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het g
 
 1. Het bepaalde in [artikel 51, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=51) vindt uitsluitend toepassing met betrekking tot minerale oliën die zijn uitgeslagen uit een accijnsgoederenplaats op basis van een schriftelijke opdracht van een vergunninghouder van een andere accijnsgoederenplaats voor minerale oliën.
 
-2. De vergunninghouder in wiens opdracht de uitslag heeft plaatsgevonden doet bij de aangifte van de in een tijdvak verschuldigde accijns opgave van de accijnsgoederenplaats waaruit de uitslag heeft plaatsgevonden, van de naam van de vergunninghouder van de desbetreffende accijnsgoederenplaats en van het nummer van de vergunning van die vergunninghouder.
+2. De vergunninghouder in wiens opdracht de uitslag heeft plaatsgevonden maakt in zijn administratie aantekening van de accijnsgoederenplaats waaruit de uitslag heeft plaatsgevonden, van de naam van de vergunninghouder van de desbetreffende accijnsgoederenplaats en van het nummer van de vergunning van die vergunninghouder.
 
-3. De vergunninghouder van de accijnsgoederenplaats waaruit minerale oliën zijn uitgeslagen doet bij de aangifte van de in een tijdvak verschuldigde accijns opgave van die uitslag, van de naam van de vergunninghouder van de accijnsgoederenplaats in wiens opdracht de accijnsgoederen zijn uitgeslagen en van het nummer van de vergunning van die vergunninghouder.
+3. De vergunninghouder van de accijnsgoederenplaats waaruit minerale oliën zijn uitgeslagen maakt in zijn administratie aantekening van die uitslag, van de naam van de vergunninghouder van de accijnsgoederenplaats in wiens opdracht de accijnsgoederen zijn uitgeslagen en van het nummer van de vergunning van die vergunninghouder.
 
 ### Hoofdstuk IV. Vrijstellingen en teruggaven
 
@@ -445,11 +467,11 @@ Vrijstelling van accijns ter zake van de uitslag en de invoer van sigaretten en 
 
 2. Om de in het eerste lid bedoelde vergunning te kunnen verkrijgen dient de administratie van degene die om de vergunning verzoekt zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens omtrent alle voor de vrijstelling van accijns van belang zijnde bedrijfshandelingen zijn opgenomen. Daarin moeten in ieder geval de gegevens zijn opgenomen omtrent de betrokken accijnsgoederen en omtrent de daarvan vervaardigde accijnsgoederen en niet-accijnsgoederen, dan wel omtrent het gebruik van de desbetreffende accijnsgoederen.
 
-3. Voor de toepassing van het eerste lid, onderdeel **a**, zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=12&z=2007-07-01&g=2008-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=15&z=2007-07-01&g=2008-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=17&z=2007-07-01&g=2008-01-01) van overeenkomstige toepassing op de door degene die de goederen met vrijstelling betrekt vervaardigde accijnsgoederen.
+3. Voor de toepassing van het eerste lid, onderdeel **a**, zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=12&z=2008-07-01&g=2008-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=15&z=2008-07-01&g=2008-07-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=17&z=2008-07-01&g=2008-07-01) van overeenkomstige toepassing op de door degene die de goederen met vrijstelling betrekt vervaardigde accijnsgoederen.
 
 4. Degene die de accijnsgoederen met vrijstelling betrekt dient zekerheid te stellen voor de accijns die hij verschuldigd kan worden. De [artikelen 56, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=56), en [57 tot en met 60, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=57) zijn van overeenkomstige toepassing.
 
-5. Met betrekking tot het brengen van een accijnsgoed vanuit een accijnsgoederenplaats, een derde land, een entrepot of een plaats voor tijdelijke opslag naar degene die de goederen met vrijstelling betrekt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2007-07-01&g=2008-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=4&z=2007-07-01&g=2008-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=6&z=2007-07-01&g=2008-01-01) van overeenkomstige toepassing, met dien verstande dat het nummer van de vergunning van degene die de accijnsgoederen met vrijstelling mag betrekken dient te worden vermeld op het geleidedocument dan wel op de vervoersopdracht, dan wel dient te worden opgenomen in de administratie van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht met overeenkomstige toepassing van [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2007-07-01&g=2008-01-01).
+5. Met betrekking tot het brengen van een accijnsgoed vanuit een accijnsgoederenplaats, een derde land, een entrepot of een plaats voor tijdelijke opslag naar degene die de goederen met vrijstelling betrekt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2008-07-01&g=2008-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=4&z=2008-07-01&g=2008-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=6&z=2008-07-01&g=2008-07-01) van overeenkomstige toepassing, met dien verstande dat het nummer van de vergunning van degene die de accijnsgoederen met vrijstelling mag betrekken dient te worden vermeld op het geleidedocument dan wel op de vervoersopdracht, dan wel dient te worden opgenomen in de administratie van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht met overeenkomstige toepassing van [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2008-07-01&g=2008-07-01).
 
 ##### Artikel 19
 
@@ -465,11 +487,11 @@ Vrijstelling van accijns ter zake van de uitslag of de invoer van minerale olië
 
 ##### Artikel 19a
 
-[Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19&z=2007-07-01&g=2008-01-01) is van overeenkomstige toepassing op het verlenen van vrijstelling van accijns ter zake van de uitslag en invoer van andere accijnsgoederen dan de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19&z=2007-07-01&g=2008-01-01) bedoelde minerale oliën, die worden gebruikt aan boord van schepen in het verkeer van Nederland naar een andere lidstaat, anders dan over de binnenwateren.
+[Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19&z=2008-07-01&g=2008-07-01) is van overeenkomstige toepassing op het verlenen van vrijstelling van accijns ter zake van de uitslag en invoer van andere accijnsgoederen dan de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19&z=2008-07-01&g=2008-07-01) bedoelde minerale oliën, die worden gebruikt aan boord van schepen in het verkeer van Nederland naar een andere lidstaat, anders dan over de binnenwateren.
 
 ##### Artikel 20
 
-Vrijstelling van accijns als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19&z=2007-07-01&g=2008-01-01) wordt voor lichte olie niet verleend en voor halfzware olie en gasolie uitsluitend verleend indien die oliën zijn voorzien van de in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27) bedoelde herkenningsmiddelen.
+Vrijstelling van accijns als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19&z=2008-07-01&g=2008-07-01) wordt voor lichte olie niet verleend en voor halfzware olie en gasolie uitsluitend verleend indien die oliën zijn voorzien van de in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27) bedoelde herkenningsmiddelen.
 
 ##### Artikel 21
 
@@ -527,7 +549,7 @@ Vervallen
 
 ##### Artikel 24
 
-Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen in gevallen waarin deze accijnsgoederen op de voet van [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65) zouden kunnen worden betrokken met vrijstelling, is [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=18&z=2007-07-01&g=2008-01-01) van overeenkomstige toepassing met uitzondering van het bepaalde in het vierde en vijfde lid van dat artikel.
+Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen in gevallen waarin deze accijnsgoederen op de voet van [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65) zouden kunnen worden betrokken met vrijstelling, is [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=18&z=2008-07-01&g=2008-07-01) van overeenkomstige toepassing met uitzondering van het bepaalde in het vierde en vijfde lid van dat artikel.
 
 ##### Artikel 25
 
@@ -541,49 +563,19 @@ Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen in gevallen
 
 - d. een exemplaar van de verklaring op overzichtelijke wijze wordt bewaard bij de administratie aan boord van het schip of bij de administratie van de eigenaar of exploitant van het luchtvaartuig.
 
-2. Bij de toepassing van het eerste lid is [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=20&z=2007-07-01&g=2008-01-01) van overeenkomstige toepassing.
+2. Bij de toepassing van het eerste lid is [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=20&z=2008-07-01&g=2008-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 26
 
-1. Teruggaaf van accijns voor halfzware olie en gasolie die zijn belast naar het tarief als bedoeld in [artikel 27, eerste lid, onderdeel **b**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27) en die voor andere doeleinden is gebruikt dan voor het op de weg aandrijven van motorrijtuigen, wordt, indien die oliën zijn gebruikt voor de aandrijving van in het derde lid aangewezen hulpapparatuur, verleend naar de in het vierde lid aangegeven maatstaven.
-
-2. De teruggaaf wordt uitsluitend verleend indien de hulpapparatuur wordt aangedreven door de motor die dient voor de aandrijving van het motorrijtuig.
-
-3. Als hulpapparatuur worden aangewezen:
-
-- a. pompen voor het laden en lossen van melk in en uit de motorrijtuigen of de daarmee verbonden aanhangwagens waarmee de melk wordt opgehaald bij de melkveehouder;
-
-- b. pompen, andere dan die bedoeld in onderdeel **a**, en compressoren voor het laden en lossen van vloeibare stoffen in en uit de motorrijtuigen of de daarmee verbonden aanhangwagens waarmee zij worden vervoerd;
-
-- c. compressoren voor het lossen van poeder- of korrelvormige stoffen uit de motorrijtuigen of de daarmee verbonden aanhangwagens waarmee zij worden vervoerd;
-
-- d. betonmixers en betonpompmixers; en
-
-- e. kraakpers- en draaitrommelinstallaties van huisvuilwagens.
-
-4. Voor de in het derde lid aangewezen hulpapparatuur bedraagt de hoeveelheid halfzware olie en gasolie waarvoor teruggaaf van accijns wordt verleend:
-
-het derde lid:
-
-- -. voor de in het derde lid, onderdeel **a**, aangewezen hulpapparatuur: 0,3 L per 1 000 kg vervoerde melk;
-
-- -. voor de in het derde lid, onderdeel **b**, aangewezen hulpapparatuur: 0,25 L per 1 000 kg vervoerde stoffen;
-
-- -. voor de in het derde lid, onderdeel **c**, aangewezen hulpapparatuur: 0,5 L per 1 000 kg vervoerde stoffen;
-
-- -. voor de in het derde lid, onderdeel **d**, aangewezen hulpapparatuur: 1,1 L per m3 vervoerd beton voor betonmixers en 0,9 L per m3 verpompt beton voor betonpompmixers;
-
-- -. voor de in het derde lid, onderdeel **e**, aangewezen hulpapparatuur: 50% onderscheidenlijk 60% van de totale hoeveelheid halfzware olie en gasolie gebruikt voor kraakperswagens onderscheidenlijk draaitrommelwagens.
-
-5. De hoeveelheid halfzware olie en gasolie waarvoor aanspraak op teruggaaf wordt gemaakt dient uit de administratie te blijken. Tevens dient daaruit te blijken dat die hoeveelheid in Nederland is betrokken en gebruikt.
-
-6. Bij het verzoek dient een berekening te worden overgelegd naar de onderscheidingen van het vierde lid.
+Vervallen
 
 ##### Artikel 27
 
-1. Teruggaaf van accijns voor halfzware olie en gasolie die zijn belast naar het tarief als bedoeld in [artikel 27, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27) en die voor andere doeleinden is gebruikt dan voor het op de weg aandrijven van motorrijtuigen, wordt in andere gevallen dan bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=2&artikel=26&z=2007-07-01&g=2008-01-01) verleend indien de belanghebbende vóór het gebruik aan de inspecteur aannemelijk maakt dat om technische of logistieke redenen geen halfzware olie of gasolie als bedoeld in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27) kan worden gebruikt.
+1. Teruggaaf van accijns voor halfzware olie en gasolie die zijn belast naar het tarief, bedoeld in [artikel 27, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27) en die voor andere doeleinden zijn gebruikt dan voor het op de weg aandrijven van motorrijtuigen, wordt verleend indien de belanghebbende vóór het gebruik aan de inspecteur aannemelijk maakt dat om technische of logistieke redenen geen halfzware olie of gasolie als bedoeld in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27) kan worden gebruikt.
 
-2. [Artikel 26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=2&artikel=26&z=2007-07-01&g=2008-01-01), is van overeenkomstige toepassing.
+2. Het eerste lid is niet van toepassing indien de halfzware olie of gasolie zich bevindt in de brandstoftank van een motorrijtuig, niet zijnde een motorrijtuig als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=VI&afdeling=1&artikel=40&z=2008-07-01&g=2008-07-01), en wordt gebruikt of medegebruikt voor de aandrijving van werktuigen, hulpapparatuur en installaties, die op of in het motorrijtuig zijn aangebracht.
+
+3. De hoeveelheid halfzware olie en gasolie waarvoor aanspraak op teruggaaf wordt gemaakt, blijkt uit de administratie van belanghebbende. Tevens blijkt daaruit dat die hoeveelheid is gebruikt voor de doeleinden, bedoeld in het eerste lid, en in Nederland is betrokken.
 
 ##### Artikel 27a
 
@@ -603,7 +595,7 @@ het derde lid:
 
 ##### Artikel 29
 
-Voor de toepassing van de teruggaaf voor onder ambtelijk toezicht vernietigde accijnsgoederen is [artikel 28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=2&artikel=28&z=2007-07-01&g=2008-01-01), van overeenkomstige toepassing.
+Voor de toepassing van de teruggaaf voor onder ambtelijk toezicht vernietigde accijnsgoederen is [artikel 28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=2&artikel=28&z=2008-07-01&g=2008-07-01), van overeenkomstige toepassing.
 
 ##### Artikel 30
 
@@ -645,7 +637,7 @@ Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen die zijn ge
 
 ##### Artikel 33
 
-Bij een verzoek om teruggaaf van accijns dient steeds de aankoopfactuur van de desbetreffende accijnsgoederen te worden overgelegd.
+Behoudens in het in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=2&artikel=31&z=2008-07-01&g=2008-07-01), bedoelde geval, wordt bij een verzoek om teruggaaf van accijns steeds de aankoopfactuur van de desbetreffende accijnsgoederen overgelegd.
 
 ### Hoofdstuk V. Bijzondere bepalingen
 
@@ -673,7 +665,7 @@ Bij een verzoek om teruggaaf van accijns dient steeds de aankoopfactuur van de d
 
 4. Het vervoer van accijnsgoederen die in een andere lid-staat zijn uitgeslagen dan wel ingevoerd en waarvan in Nederland de accijns niet is geheven via het grondgebied van Nederland naar een bestemming in die andere lid-staat, dient te kunnen worden aangetoond met een geleidedocument.
 
-5. [Artikel 34, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=34&z=2007-07-01&g=2008-01-01), is van overeenkomstige toepassing.
+5. [Artikel 34, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=34&z=2008-07-01&g=2008-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 35
 
@@ -699,7 +691,7 @@ Van ruwe en van gedeeltelijk tot verbruik bereide tabak die wordt vervoerd moet 
 
 ##### Artikel 37
 
-Met betrekking tot het verlenen, het aanpassen en het intrekken van op grond van dit besluit te verlenen vergunningen zijn de [artikelen 45 tot en met 50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=45) van overeenkomstige toepassing.
+Met betrekking tot het verlenen, het aanpassen en het intrekken van op grond van dit besluit te verlenen vergunningen zijn de [artikelen 43 tot en met 50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=43) van overeenkomstige toepassing.
 
 ##### Artikel 38
 
@@ -711,15 +703,15 @@ In een douane-entrepot of een vrij entrepot in de zin van de wettelijke bepaling
 
 ##### Artikel 39
 
-1. De voor opslag bestemde inrichtingen van de vergunninghouder van een entrepot van het type E, bedoeld in artikel 525, tweede lid, onderdeel b, van de toepassingsverordening Communautair douanewetboek, kunnen voor de opslag van accijnsgoederen als accijnsgoederenplaats worden aangewezen.
+1. De voor opslag bestemde inrichtingen van de vergunninghouder van een entrepot van het type E of van het type C, bedoeld in artikel 525, tweede lid, onderdeel b, onderscheidenlijk onderdeel c, van de toepassingsverordening Communautair douanewetboek, kunnen voor de opslag van accijnsgoederen als accijnsgoederenplaats worden aangewezen.
 
-2. Uit de administratie van de vergunninghouder voor de accijnsgoederenplaats en voor het in het eerste lid bedoelde entrepot dient op overzichtelijke wijze te blijken welke goederen in de accijnsgoederenplaats zijn opgeslagen en welke in het entrepot.
+2. Uit de administratie van de vergunninghouder voor de accijnsgoederenplaats en voor een entrepot als bedoeld in het eerste lid, blijkt op overzichtelijke wijze welke goederen in de accijnsgoederenplaats zijn opgeslagen en welke in het entrepot.
 
 3. Met betrekking tot plaatsen waarvoor een vergunning is verleend als bedoeld in het eerste lid, wordt onder het in [artikel 3, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=3) bedoelde brengen van accijnsgoederen die zijn geplaatst onder een communautaire douaneregeling vanuit het entrepot naar een accijnsgoederenplaats die voor dat soort accijnsgoederen als zodanig is aangewezen, mede verstaan het in de administratie overboeken van de goederen van het entrepot naar de accijnsgoederenplaats.
 
 4. Voor de in het derde lid bedoelde overbrengingen is geen vervoersopdracht vereist.
 
-5. Op verzoek kunnen accijnsgoederen worden aangemerkt als voorhanden te zijn in plaatsen waarvoor een in het eerste lid bedoelde vergunning is verleend indien zij in de administratie van de accijnsgoederenplaats, dan wel van het entrepot zijn opgenomen. In afwijking in zoverre van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2007-07-01&g=2008-01-01), worden de geleidedocumenten alsdan voorzien van de verklaring dat de accijnsgoederen in de administratie zijn opgenomen.
+5. Op verzoek kunnen accijnsgoederen worden aangemerkt als voorhanden te zijn in plaatsen waarvoor een in het eerste lid bedoelde vergunning is verleend indien zij in de administratie van de accijnsgoederenplaats, dan wel van het entrepot zijn opgenomen. In afwijking in zoverre van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2008-07-01&g=2008-07-01), worden de geleidedocumenten alsdan voorzien van de verklaring dat de accijnsgoederen in de administratie zijn opgenomen.
 
 ##### Artikel 39a
 
@@ -745,9 +737,7 @@ Halfzware olie en gasolie die zijn voorzien van herkenningsmiddelen als bedoeld 
 
 - b. die zijn ingericht en uitsluitend worden gebezigd voor de aanleg en het onderhoud van wegen;
 
-- c. die zijn ingericht voor het gebruik elders dan op wegen en uitsluitend worden gebruikt voor het landbouw- en bosbouwbedrijf; of
-
-- d. die bestaan uit een chassis met een mechanisch werktuig en zich uitsluitend op de weg bevinden voor de verplaatsing naar een andere werkplek.
+- c. die zijn ingericht voor het gebruik elders dan op wegen en uitsluitend worden gebruikt voor het landbouw- en bosbouwbedrijf.
 
 ### Afdeling 2. Tabaksprodukten
 
@@ -763,11 +753,11 @@ Halfzware olie en gasolie die zijn voorzien van herkenningsmiddelen als bedoeld 
 
 Strafbare feiten zijn:
 
-- a. het nalaten te voldoen aan een in de [artikelen 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2007-07-01&g=2008-01-01), [2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2a&z=2007-07-01&g=2008-01-01), [2b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2b&z=2007-07-01&g=2008-01-01), [3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3&z=2007-07-01&g=2008-01-01), [3a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3a&z=2007-07-01&g=2008-01-01), [3b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3b&z=2007-07-01&g=2008-01-01), [3c, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3c&z=2007-07-01&g=2008-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=1&artikel=8&z=2007-07-01&g=2008-01-01), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=2&artikel=9a&z=2007-07-01&g=2008-01-01), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=2&artikel=9b&z=2007-07-01&g=2008-01-01), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=3&artikel=9c&z=2007-07-01&g=2008-01-01), [9d](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=4&artikel=9d&z=2007-07-01&g=2008-01-01), [9e](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=5&artikel=9e&z=2007-07-01&g=2008-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19&z=2007-07-01&g=2008-01-01), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19a&z=2007-07-01&g=2008-01-01), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=21a&z=2007-07-01&g=2008-01-01), [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=34&z=2007-07-01&g=2008-01-01), en [34a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=34a&z=2007-07-01&g=2008-01-01) opgenomen verplichting en een op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=1&artikel=9&z=2007-07-01&g=2008-01-01) opgelegde verplichting;
+- a. het nalaten te voldoen aan een in de [artikelen 2, vierde, vijfde, zesde, achtste, negende, tiende en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2008-07-01&g=2008-07-01), [2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2a&z=2008-07-01&g=2008-07-01), [2b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2b&z=2008-07-01&g=2008-07-01), [3, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3&z=2008-07-01&g=2008-07-01), [3a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3a&z=2008-07-01&g=2008-07-01), [3b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3b&z=2008-07-01&g=2008-07-01), [3c, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3c&z=2008-07-01&g=2008-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=1&artikel=8&z=2008-07-01&g=2008-07-01), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=2&artikel=9a&z=2008-07-01&g=2008-07-01), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=2&artikel=9b&z=2008-07-01&g=2008-07-01), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=3&artikel=9c&z=2008-07-01&g=2008-07-01), [9d](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=4&artikel=9d&z=2008-07-01&g=2008-07-01), [9e](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=5&artikel=9e&z=2008-07-01&g=2008-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19&z=2008-07-01&g=2008-07-01), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19a&z=2008-07-01&g=2008-07-01), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=21a&z=2008-07-01&g=2008-07-01), [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=34&z=2008-07-01&g=2008-07-01), en [34a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=34a&z=2008-07-01&g=2008-07-01) opgenomen verplichting en een op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=1&artikel=9&z=2008-07-01&g=2008-07-01) opgelegde verplichting;
 
-- b. het in strijd met [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=34&z=2007-07-01&g=2008-01-01) vervoeren of voorhanden hebben van accijnsgoederen, andere dan tabaksprodukten die zijn voorzien van de wettelijk voorgeschreven accijnszegels, zonder bescheid aan de hand waarvan de herkomst kan worden aangetoond;
+- b. het in strijd met [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=34&z=2008-07-01&g=2008-07-01) vervoeren of voorhanden hebben van accijnsgoederen, andere dan tabaksprodukten die zijn voorzien van de wettelijk voorgeschreven accijnszegels, zonder bescheid aan de hand waarvan de herkomst kan worden aangetoond;
 
-- c. het in strijd met [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=35&z=2007-07-01&g=2008-01-01) vervoeren van ruwe en van gedeeltelijk tot verbruik bereide tabak zonder bescheiden aan de hand waarvan de herkomst kan worden aangetoond;
+- c. het in strijd met [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=35&z=2008-07-01&g=2008-07-01) vervoeren van ruwe en van gedeeltelijk tot verbruik bereide tabak zonder bescheiden aan de hand waarvan de herkomst kan worden aangetoond;
 
 - d. het drijven van handel in ruwe of in gedeeltelijk tot verbruik bereide tabak zonder een daartoe strekkende vergunning;
 
@@ -829,8 +819,16 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 22
 
-1. Vrijstelling van accijns ter zake van de uitslag en de invoer van minerale oliën, andere dan koolwaterstoffen, die zijn bestemd voor gebruik, worden aangeboden voor verkoop of worden gebruikt voor verwarmingsdoeleinden, wordt verleend indien degene die de minerale oliën gebruikt voor verwarmingsdoeleinden aan de vergunninghouder van de accijnsgoederenplaats een schriftelijke verklaring in tweevoud heeft verstrekt waarin hij vermeldt dat de aan hem te leveren accijnsgoederen worden gebruikt voor deze doeleinden dan wel, in geval van invoer, deze verklaring in tweevoud wordt overgelegd bij de aangifte tot plaatsing onder de douaneregeling vrij verkeer.
+Vrijstelling van accijns ter zake van de uitslag en de invoer van minerale oliën, andere dan koolwaterstoffen, die zijn bestemd voor gebruik, worden aangeboden voor verkoop of worden gebruikt voor verwarmingsdoeleinden, wordt verleend, indien:
 
-2. In de in het eerste lid bedoelde verklaring wordt tevens de plaats vermeld waar het gebruik zal plaatsvinden.
+- a. degene die de minerale oliën gebruikt verklaart dat de aan hem te leveren minerale oliën worden gebruikt voor het in de aanhef bedoelde gebruik;
 
-3. [Artikel 19, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19&z=2007-07-01&g=2008-01-01), is van overeenkomstige toepassing.
+- b. in de verklaring de plaats wordt vermeld waar het gebruik zal plaatsvinden;
+
+- c. de verklaring in tweevoud geschiedt;
+
+- d. de verklaring is verstrekt aan de vergunninghouder van de accijnsgoederenplaats in geval van uitslag, dan wel deze verklaring wordt overgelegd bij de aangifte tot plaatsing onder de douaneregeling in het vrije verkeer brengen in geval van invoer;
+
+- e. degene die de minerale oliën gebruikt beide exemplaren van de verklaring ondertekent; en
+
+- f. een exemplaar op overzichtelijke wijze wordt bewaard bij de administratie van de vergunninghouder van de accijnsgoederenplaats in geval van uitslag, dan wel bij de administratie van degene die de aangifte tot plaatsing onder de douaneregeling in het vrije verkeer brengen doet, in geval van invoer. Het andere exemplaar wordt op overzichtelijke wijze bewaard bij de administratie van degene die de minerale oliën gebruikt.
