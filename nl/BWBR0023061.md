@@ -4,7 +4,7 @@ identifier: "BWBR0023061"
 country: "nl"
 rank: "zbo"
 publication_date: "2008-07-01"
-last_updated: "2008-01-01"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023061"
 soort: "zbo"
@@ -99,96 +99,93 @@ Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2
 
 Dit besluit treedt in werking met ingang van 1 januari 2008. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt dit besluit in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 januari 2008.
 
-## Bijlage. Beleidsregels UWV normbedragen voorzieningen 2008
+## Bijlage
 
-| Code | Beschrijving | Oud t/m 31-12-07 | Nieuw per 01-01-08 |
+| code | beschrijving | oud t/m 30-06-08 | nieuw per 01-07-08 |
 | --- | --- | --- | --- |
 |   | Drempelbedrag voorzieningen |   |   |
-| B11 | drempelbedrag, waar beneden geen vergoeding wordt verleend (kostenbedrag inclusief BTW) | € 112,= | € 114,= |
+| B11 | drempelbedrag, waar beneden geen vergoeding wordt verleend (kostenbedrag inclusief BTW) | € 114,= | € 115,= |
 |   |   |   |   |
 |   | Motorinvalidenwagen |   |   |
-| C11 | - in bruikleen, vergoeding per km | € 0,10 | € 0,10 |
-| C13 | - in eigen bezit, vergoeding per km | € 0,34 | € 0,39 |
-|   |   |   |   |
-|   | Bovengrenzen standaardaanpassingen aan eigen auto |   |   |
-| C18-I - | de normbedragen C18-I – 1 t/m C18-I – 9 zijn m.i.v. 1 januari 2008 vervallen | diverse bedragen | vervallen |
+| C11 | – in bruikleen, vergoeding per km | € 0,10 | € 0,11 |
+| C13 | – in eigen bezit, vergoeding per km | € 0,39 | € 0,42 |
 |   |   |   |   |
 |   | Afweging taxivervoer t.o.v. (bruikleen)auto |   |   |
-| C18-IA | normbedrag (inclusief BTW) | € 22.100,= | € 22.500,= |
+| C18-IA | normbedrag (inclusief BTW) | € 22.500,= | € 23.300,= |
 |   |   |   |   |
 |   | Referentieauto |   |   |
-| C18-II | normbedrag referentieauto (aanschafbedrag inclusief BTW) | € 16.900,= | €17.100,= |
-| C18-III | eigen bijdrage verzekeringskosten eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand | € 31,70 | € 31,20 |
-| C18-IV | eigen bijdrage motorrijtuigenbelasting eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand | € 22,35 | € 24,= |
+| C18-II | normbedrag referentieauto (aanschafbedrag inclusief BTW) | € 17.100,= | €16.900,= |
+| C18-III | eigen bijdrage verzekeringskosten eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand | € 31,20 | € 31,45 |
+| C18-IV | eigen bijdrage motorrijtuigenbelasting eigen auto (bij vergoeding aanschaf boven referentiewaarde) per maand | € 24,= | € 24,= |
 |   |   |   |   |
 |   | Inkomensgrenzen vervoersvoorziening |   |   |
-| C20-I | inkomensgrens werk- en leefvervoer | € 31.500,= | €32.300,= |
-| C20-III | inkomensgrens tweede auto | € 47.300,= | €48.500,= |
+| C20-I | inkomensgrens werk- en leefvervoer | € 32.300,= | €32.300,= |
+| C20-III | inkomensgrens tweede auto | € 48.500,= | €48.500,= |
 |   |   |   |   |
 |   | Kilometervergoeding bruikleenauto’s |   |   |
-| C22-BA | brandstof benzine, automatische transmissie, bedrag per km. | € 0,10 | € 0,11 |
-| C22-BS | brandstof benzine, handgeschakeld, bedrag per km. | € 0,09 | € 0,09 |
-| C22-D | brandstof dieselolie, bedrag per km. | € 0,10 | € 0,11 |
+| C22-BA | brandstof benzine, automatische transmissie, bedrag per km. | € 0,11 | € 0,12 |
+| C22-BS | brandstof benzine, handgeschakeld, bedrag per km. | € 0,09 | € 0,10 |
+| C22-D | brandstof dieselolie, bedrag per km. | € 0,11 | € 0,13 |
 |   |   |   |   |
 |   | Reparaties vervoersvoorziening – eigen bijdrage c.q. risico bedragen inclusief BTW |   |   |
-| C24-I | eigen bijdrage bij schade: (bruikleencontract volgens model 1994 t/m 2004) | € 62,= | € 63,= |
-| C41 | eigen risico bij frequent voorkomende aanrijdingschade: | € 123,= | € 125,= |
+| C24-I | eigen bijdrage bij schade: (bruikleencontract volgens model 1994 t/m 2004) | € 63,= | € 65,= |
+| C41 | eigen risico bij frequent voorkomende aanrijdingschade: | € 125,= | € 130,= |
 |   |   |   |   |
 |   | Kilometervergoeding voor auto’s in eigen bezit |   |   |
-| C25-I | personenauto | € 0,34 | € 0,39 |
-| C25-V | bestelauto | € 0,44 | € 0,51 |
+| C25-I | personenauto | € 0,39 | € 0,42 |
+| C25-V | bestelauto | € 0,51 | € 0,53 |
 |   |   |   |   |
 |   | Aftrek algemeen gebruikelijke kosten per kilometer |   |   |
-| C26-I | beneden inkomensgrens C20-I, resp. C 20-III | € 0,09 | € 0,09 |
-| C26-II | boven inkomensgrens C-20-I, resp. C20-III | € 0,34 | € 0,39 |
+| C26-I | beneden inkomensgrens C20-I, resp. C 20-III | € 0,09 | € 0,10 |
+| C26-II | boven inkomensgrens C-20-I, resp. C20-III | € 0,39 | € 0,42 |
 |   |   |   |   |
 |   | Taxikostenvergoeding leefvervoer (maximaal) |   |   |
-| C31 | algemeen | € 1.190,= | € 1.378,= |
-| C32 | gehalveerd (visueel gehandicapten) | € 595,= | € 689,= |
-| C33 | rolstoeltaxikosten | € 1.785,= | € 2.067,= |
+| C31 | algemeen | € 1.378,= | € 1.460,= |
+| C32 | gehalveerd (visueel gehandicapten) | € 689,= | € 730,= |
+| C33 | rolstoeltaxikosten | € 2.067,= | € 2.190,= |
 |   |   |   |   |
 |   | Rijles |   |   |
-| C51 | vaste leskilometervergoeding bij het lesrijden in een eigen auto | € 0,25 | € 0,30 |
-|   |   |   |   |
+| C51 | vaste leskilometervergoeding bij het lesrijden in een eigen auto | € 0,30 | € 0,32 |
 |   | Begeleidingskosten |   |   |
-| C71 | maximale vergoeding reiskosten van de begeleider per jaar | € 743,= | € 753,= |
-|   | Communicatievoorziening voor doven en slechthorenden in werk- en onderwijssituaties bedragen exclusief BTW |   |   |
-|   |   |   |   |
+| C71 | maximale vergoeding reiskosten van de begeleider per jaar | € 753,= | € 793,= |
+
+|   | Communicatievoorziening voor doven en slechthorenden in werk- en onderwijssituaties bedragen exclusief BTW | Communicatievoorziening voor doven en slechthorenden in werk- en onderwijssituaties bedragen exclusief BTW | Communicatievoorziening voor doven en slechthorenden in werk- en onderwijssituaties bedragen exclusief BTW |
+| --- | --- | --- | --- |
 |   | uurvergoeding voor: |   |   |
-| E17-I | – doventolk (geregistreerd) | € 47,10 | € 47,40 |
-| E17-III | – communicatieassistent, tolk in opleiding bij Hogeschool Utrecht (HU) | € 17,= | € 17,20 |
+| E17-I | – doventolk (geregistreerd) | € 47,40 | € 47,40 |
+| E17-III | – communicatieassistent, tolk in opleiding bij Hogeschool Utrecht (HU) | € 17,20 | € 17,40 |
 |   |   |   |   |
 |   | vergoeding reizen, bedrag per kilometer, voor: |   |   |
-| E17-A1 | – doventolk (geregistreerd) | € 0,90 | € 0,90 |
-| E17-A3 | – tolk in opleiding HU, communicatieassistent | € 0,36 | € 0,36 |
+| E17-A1 | - doventolk (geregistreerd) | € 0,90 | € 0,90 |
+| E17-A3 | – tolk in opleiding HU, communicatieassistent | € 0,36 | € 0,37 |
 |   |   |   |   |
 |   | vergoeding mentor (via HU): |   |   |
-| E17-C1 | – uurvergoeding mentor (= gediplomeerde tolk) | € 47,10 | € 47,40 |
+| E17-C1 | – uurvergoeding mentor (= gediplomeerde tolk) | € 47,40 | € 47,40 |
 | E17-C2 | – vergoeding reizen mentor, per kilometer | € 0,90 | € 0,90 |
 |   |   |   |   |
 |   | Technische apparatuur (maximaal) aanschafprijzen inclusief BTW |   |   |
 | G21 | Daisyspeler | € 475,= | € 475,= |
 | G22-I | PC-configuratie (exclusief aanpassingen), één maal per drie jaar | € 1.415,= | € 1.415,= |
 | G22-II | eenmalige bijdrage verzekering PC-configuratie voor drie jaar | € 200,= | € 200,= |
-| G23 | Hoortoestel | nieuw | € 700,= |
+| G23 | Hoortoestel | € 700,= | € 700,= |
 |   |   |   |   |
 |   | Voorzieningen met beheersaspecten |   |   |
-| I-11 | verstrekkingen in eigendom, kosten minder dan: | € 2.900,= | € 2.950,= |
-| I-12 | eenvoudige verklaring voor bruikleen, indien hogere kosten tot: | € 5.800,= | € 5.900,= |
-| I-13 | bruikleencontract, indien kosten gelijk zijn aan of meer dan: | € 5.800,= | € 5.900,= |
+| I-11 | verstrekkingen in eigendom, kosten minder dan: | € 2.950,= | € 3.050,= |
+| I-12 | eenvoudige verklaring voor bruikleen, indien hogere kosten tot: | € 5.900,= | € 6.150,= |
+| I-13 | bruikleencontract, indien kosten gelijk zijn aan of meer dan: | € 5.900,= | € 6.150,= |
 |   |   |   |   |
-|   | Kosten m.b.t. opleiding - per opleidingsdag, uitsluitend geldig voor opleidingen, gestart vóór 1 januari 2006 |   |   |
-| L1 | Hoensbroeck | € 102,= | € 107,= |
-| L2 | Werkenrode | € 122,= | € 128,= |
-| L3 | Sonneheerdt | € 80,= | € 84,= |
-| L4 | Eega | € 77,= | € 81,= |
-| L5 | Heliomare | € 77,= | € 81,= |
+|   | Kosten m.b.t. opleiding – per opleidingsdag, uitsluitend geldig voor opleidingen, gestart vóór 1 januari 2006 |   |   |
+| L1 | Hoensbroeck | € 107,= | € 107,= |
+| L2 | Werkenrode | € 128,= | € 128,= |
+| L3 | Sonneheerdt | € 84,= | € 84,= |
+| L4 | Eega | € 81,= | € 81,= |
+| L5 | Heliomare | € 81,= | € 81,= |
 |   |   |   |   |
 |   | Persoonlijke ondersteuning gehandicapten bedrag vergoeding per uur, exclusief BTW |   |   |
-| Q1 | persoonlijke ondersteuning (jobcoach) | € 74,50 | € 76,20 |
+| Q1 | persoonlijke ondersteuning (jobcoach) | € 76,20 | € 76,20 |
 |   |   |   |   |
 |   | Intermediaire activiteiten bedrag vergoeding per uur, exclusief BTW |   |   |
-| S1 | uurvergoeding | € 10,30 | € 17,20 |
-| S1-R | vergoeding reizen, bedrag per kilometer | € 0,36 | € 0,36 |
+| S1 | Uurvergoeding | € 17,20 | € 17,40 |
+| S1-R | vergoeding reizen, bedrag per kilometer | € 0,36 | € 0,37 |
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
