@@ -4,7 +4,7 @@ identifier: "BWBR0020852"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-01"
-last_updated: "2007-01-02"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020852"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ In deze regeling wordt verstaan onder:
 
 - a. uitvoeringskosten: kosten voor personeel, onderzoek en communicatie;
 
-- b. Prestatiekaart gemeenten: het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020852&bijlage=1&z=2007-01-02&g=2007-01-02) bij deze regeling opgenomen overzicht van thema's en doelstellingen, onderscheiden in een actief, voorlopend en innovatief niveau, die zijn gericht op CO2-reductie;
+- b. Prestatiekaart gemeenten: het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020852&bijlage=1&z=2008-07-01&g=2008-07-01) bij deze regeling opgenomen overzicht van thema's en doelstellingen, onderscheiden in een actief, voorlopend en innovatief niveau, die zijn gericht op CO2-reductie;
 
-- c. Prestatiekaart provincies: het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020852&bijlage=2&z=2007-01-02&g=2007-01-02) bij deze regeling opgenomen overzicht van thema's en doelstellingen, onderscheiden naar niveaus, die zijn gericht op CO2-reductie;
+- c. Prestatiekaart provincies: het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020852&bijlage=2&z=2008-07-01&g=2008-07-01) bij deze regeling opgenomen overzicht van thema's en doelstellingen, onderscheiden naar niveaus, die zijn gericht op CO2-reductie;
 
 - d. basispakket: pakket van ten minste twee, door de gemeente of provincie aan de Prestatiekaart gemeenten onderscheidenlijk de Prestatiekaart provincies ontleende doelstellingen of ten minste twee door de gemeente of de provincie zelf gedefiniëerde doelstellingen met daarbij behorende projecten, ter uitvoering van het gemeentelijk onderscheidenlijk provinciaal klimaatbeleid;
 
@@ -170,7 +170,7 @@ waaraan op grond van de [Subsidieregeling BANS klimaatconvenant](https://wetten.
 
 ##### Artikel 9. Voorschotten
 
-Aan een bestuursorgaan als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020852&artikel=8&z=2007-01-02&g=2007-01-02), waaraan subsidie is verleend, worden voorschotten ter beschikking gesteld ter grootte van:
+Aan een bestuursorgaan als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020852&artikel=8&z=2008-07-01&g=2008-07-01), waaraan subsidie is verleend, worden voorschotten ter beschikking gesteld ter grootte van:
 
 - a. 50% van het verleende subsidiebedrag en wel binnen vier weken na de dagtekening van de beschikking tot subsidieverlening, en
 
@@ -263,9 +263,9 @@ Deze regeling wordt aangehaald als: Vervolgsubsidieregeling BANS klimaatconvenan
 |   | Actief | Voorlopend | Innovatief |
 | **Energie in de bouw** | **Energie in de bouw** | **Energie in de bouw** |   |
 | Nieuwbouw (prioritair thema) | – Implementeren en uitvoeren van een actieplan voor het op regionaal niveau organiseren en faciliteren van de uitvoering van nieuwbouwactiviteiten op het actieve niveau prestatiekaart door (met name kleinere) gemeenten. | – Implementeren en faciliteren van een actieplan voor de uitvoering van projecten (van gemeenten, projectontwikkelaars, woningcorporaties) met een voorlopend niveau prestatiekaart gemeenten. – Bij het toetsen van alle | – Implementeren en faciliteren van een actieplan voor de uitvoering van projecten (van gemeenten, projectontwikkelaars, woningcorporaties) met een innovatief niveau prestatiekaart gemeenten. |
-|   | – In het vooroverleg [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) principes energiebesparing en duurzame energie inbrengen. | bestemmingsplannen duurzame energiehuishouding als criterium meenemen. |   |
+|   | – In het vooroverleg [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449) principes energiebesparing en duurzame energie inbrengen. | bestemmingsplannen duurzame energiehuishouding als criterium meenemen. |   |
 | Bestaande bouw (prioritair thema) | – Implementeren en uitvoeren van een actieplan voor het op regionaal niveau organiseren en faciliteren van de uitvoering van bestaande bouw activiteiten op het actieve niveau prestatiekaart | – Implementeren en faciliteren van een actieplan voor de uitvoering van projecten (van gemeenten, projectontwikkelaars, woningcorporaties) met een voorlopend niveau prestatiekaart gemeenten. – Bij het toetsen van alle | – Implementeren en faciliteren van een actieplan voor de uitvoering van projecten (van gemeenten, projectontwikkelaars, woningcorporaties) met een innovatief niveau prestatiekaart gemeenten. |
-|   | door (met name kleinere) gemeenten. – In het vooroverleg [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) principes energiebesparing en duurzame energie inbrengen. | bestemmingsplannen duurzame energiehuishouding als criterium meenemen. |   |
+|   | door (met name kleinere) gemeenten. – In het vooroverleg [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449) principes energiebesparing en duurzame energie inbrengen. | bestemmingsplannen duurzame energiehuishouding als criterium meenemen. |   |
 
 | Beleidsthema | Ambitieniveau | Ambitieniveau | Ambitieniveau |
 | --- | --- | --- | --- |
