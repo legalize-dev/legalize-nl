@@ -4,7 +4,7 @@ identifier: "BWBR0006895"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-01"
-last_updated: "2006-01-04"
+last_updated: "2008-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006895"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ De SAR-dienst is belast met de opsporing en redding van in nood verkerende beman
 
 ##### Artikel 4
 
-De SAR-dienst beschikt voor de uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=3&z=2006-01-04&g=2006-01-04) genoemde taak te allen tijde over:
+De SAR-dienst beschikt voor de uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=3&z=2008-07-01&g=2008-07-01) genoemde taak te allen tijde over:
 
 - a. een gecombineerd aëronautisch en maritiem reddingscoördinatiecentrum (JRCC),
 
@@ -62,7 +62,7 @@ De SAR-dienst beschikt voor de uitvoering van de in [artikel 3](https://wetten.o
 
 ##### Artikel 5
 
-Het kustwachtcentrum in Den Helder fungeert als het gecombineerde aëronautisch en maritiem reddingscoördinatiecentrum, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=4&z=2006-01-04&g=2006-01-04), en behoort tot de aangelegenheden waarmee het Directoraat-Generaal Transport en Luchtvaart is belast.
+Het kustwachtcentrum in Den Helder fungeert als het gecombineerde aëronautisch en maritiem reddingscoördinatiecentrum, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=4&z=2008-07-01&g=2008-07-01), en behoort tot de aangelegenheden waarmee het Directoraat-Generaal Luchtvaart en Maritieme Zaken is belast.
 
 ##### Artikel 6
 
@@ -78,7 +78,7 @@ De directeur Kustwachtcentrum verzekert zich van de beschikbaarheid van de in Ne
 
 ##### Artikel 9
 
-In aanvulling op de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=4&z=2006-01-04&g=2006-01-04) genoemde middelen kan de directeur Kustwachtcentrum zich verzekeren van de beschikbaarheid van andere middelen.
+In aanvulling op de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=4&z=2008-07-01&g=2008-07-01) genoemde middelen kan de directeur Kustwachtcentrum zich verzekeren van de beschikbaarheid van andere middelen.
 
 ##### Artikel 10
 
