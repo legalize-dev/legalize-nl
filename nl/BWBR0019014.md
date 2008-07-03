@@ -4,7 +4,7 @@ identifier: "BWBR0019014"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-07-03"
-last_updated: "2007-11-01"
+last_updated: "2008-07-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019014"
 soort: "ministeriele-regeling"
@@ -40,11 +40,13 @@ Gelet op [artikel 4b, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop artikel I, onderdelen A, B, F tot en met H, en artikel IV van de Wijzigingswet Wegenverkeerswet 1994 (verlenen ontheffingen door Dienst Wegverkeer) in werking treden.
+
 ##### Artikel 1
 
 1. Er is een Overleg exceptionele transporten, dat minimaal twee maal per jaar overlegt over de uitvoering van de [artikelen 149a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a) en [149b van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149b).
 
-2. Naast het overleg, bedoeld in het eerste lid, overlegt het Overleg exceptionele transporten minimaal twee maal per jaar over de uitvoering van de [artikelen 149a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a) en [149b van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149b) met betrekking tot samenstellen, met een laadlengte van tenminste 18 meter of een vergelijkbare laadlengte indien de voertuigen zijn ingericht voor het vervoer van afneembare laadstructuren, bestaande uit ten hoogste drie voertuigen en ingericht voor het vervoer van goederen waarvan de totale lengte niet meer bedraagt dan 25,25 meter.
+2. Naast het overleg, bedoeld in het eerste lid, overlegt het Overleg exceptionele transporten minimaal twee maal per jaar over de uitvoering van de [artikelen 149a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a) en [149b van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149b) met betrekking tot samenstellen, met een laadlengte van tenminste 18 meter of een vergelijkbare laadlengte indien de voertuigen zijn ingericht voor het vervoer van afneembare laadstructuren, bestaande uit ten hoogste drie voertuigen en ingericht voor het vervoer van goederen waarvan de totale lengte niet meer bedraagt dan 25,25 meter en de totale massa niet meer dan 60 ton.
 
 3. Het secretariaat wordt vervuld door de Dienst Wegverkeer.
 
@@ -74,7 +76,7 @@ Besluit:
 
 3. Als representatieve organisatie van transportbegeleiders als bedoeld in [artikel 7, eerste lid, onderdeel g, van het Besluit ontheffingverlening exceptionele transporten](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&artikel=7) wordt aangewezen: de Vereniging Transportbegeleiders.
 
-4. Ten behoeve van een overleg als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019014&artikel=1&z=2007-11-01&g=2007-11-01), wordt voorts de representatieve overkoepelende organisaties van de volgende nationale belangen de gelegenheid geboden als agendalid alle stukken te ontvangen en zich, indien voor hen relevante onderwerpen aan de orde zijn, voor dat onderwerp bij de vergadering te voegen:
+4. Ten behoeve van een overleg als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019014&artikel=1&z=2008-07-03&g=2008-07-03), wordt voorts de representatieve overkoepelende organisaties van de volgende nationale belangen de gelegenheid geboden als agendalid alle stukken te ontvangen en zich, indien voor hen relevante onderwerpen aan de orde zijn, voor dat onderwerp bij de vergadering te voegen:
 
 - a. ten hoogste twee vertegenwoordigers van het belang verkeersveiligheid;
 
