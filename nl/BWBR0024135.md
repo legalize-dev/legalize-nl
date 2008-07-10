@@ -4,7 +4,7 @@ identifier: "BWBR0024135"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-23"
-last_updated: "2007-12-21"
+last_updated: "2008-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024135"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ Een dienstverrichter als bedoeld in [artikel 21 van de wet](https://wetten.overh
 
 #### § 3. Erkenning bewijzen van bevoegdheid
 
-#### § 4. Slotbepalingen
+#### § 3. Erkenning bewijzen van bevoegdheid
 
 Gelet op [artikel 2.8 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.8), [artikel 33, eerste en tweede lid, van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33), [richtlijn nr. 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255) en [richtlijn nr. 2006/23/EG](32006L0023) van het Europees Parlement en de Raad van de Europese Unie van 5 april 2006 inzake een communautaire vergunning van luchtverkeersleiders;
 
@@ -115,15 +115,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties en bewijzen van bevoegdheid luchtvaart.
-
-Deze regeling zal met de toelichting de in Staatscourant worden geplaatst.
-
-##### Artikel 7a
-
-1. Een bewijs van bevoegdheid als bedoeld in [artikel 3.30 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.30) dat onder het toepassingsbereik valt van richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255) en is afgegeven door een lidstaat van de Europese Unie, de Europese Economische Ruimte of door Zwitserland, wordt door de Minister erkend.
-
-2. Een wijziging van richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255) gaat voor de toepassing van onderhavige regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
-
-#### § 4. Slotbepalingen
 
 Deze regeling zal met de toelichting de in Staatscourant worden geplaatst.
