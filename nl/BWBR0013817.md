@@ -4,7 +4,7 @@ identifier: "BWBR0013817"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2007-01-01"
+last_updated: "2008-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013817"
 soort: "wet"
@@ -60,7 +60,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. bijdrage: bijdrage aan een publiekrechtelijk lichaam of regionaal openbaar lichaam ter financiering van uitgaven inzake omzetbelasting onder bij deze wet te stellen voorwaarden;
 
-- g. tijdvak: kalenderkwartaal waarin het recht op bijdrage of de verschuldigdheid ervan ontstaat;
+- g. tijdvak: kalenderjaar waarin het recht op bijdrage of de verschuldigdheid ervan ontstaat;
 
 - h. fonds: het BTW-compensatiefonds;
 
@@ -74,7 +74,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Er is een BTW-compensatiefonds.
 
-2. Het fonds is een begrotingsfonds als bedoeld in [artikel 2 van de Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=2).
+2. Het fonds is een begrotingsfonds als bedoeld in [artikel 9 van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=9).
 
 3. Onze Minister voert het beheer over de begroting van het fonds.
 
@@ -94,7 +94,7 @@ Onze Minister kan nadere regels stellen ter bepaling van de wijze van uitkering 
 
 7. Ten laste van de begroting van het fonds van enig jaar wordt het gerealiseerde nadelig saldo van het fonds van het voorafgaande jaar gebracht.
 
-8. In afwijking van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=4), en [65, tweede lid, aanhef en onder a, van de Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=65) hebben de begroting en de financiële verantwoording betrekking op de uitgaven en ontvangsten van het fonds.
+8. In afwijking van [artikel 2, derde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=2) bevat de begroting van het fonds geen ramingen van de verplichtingen. [Artikel 53, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=53), is niet van toepassing.
 
 9. De inspecteur verstrekt de gegevens die nodig zijn ten behoeve van het beheer van het fonds.
 
@@ -122,13 +122,11 @@ voorzover die belasting betrekking heeft op goederen en diensten die het publiek
 
 ##### Artikel 4
 
-1. Het recht op een bijdrage wordt uitgesloten voor de omzetbelasting op de in artikel 3 bedoelde goederen en diensten welke gebezigd worden:
+1. Het recht op een bijdrage wordt uitgesloten voor de omzetbelasting op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=3&z=2008-07-11&g=2008-07-11) bedoelde goederen en diensten welke gebezigd worden:
 
-- a. om verstrekt, verleend of ter beschikking gesteld te worden aan een of meer individuele derden;
+- a. om verstrekt, verleend of ter beschikking gesteld te worden aan een of meer individuele derden, of
 
-- b. voor het aan het personeel van het publiekrechtelijk lichaam of het regionaal openbaar lichaam verlenen van huisvesting, uitkering van loon in natura, geven van gelegenheid tot sport, ontspanning of privé-vervoer, dan wel voor andere persoonlijke doeleinden van het personeel of
-
-- c. voor het verrichten van prestaties, al dan niet tegen vergoeding, die, indien zij door een ondernemer worden verricht, zijn vrijgesteld ingevolge [artikel 11 van de Wet op de omzetbelasting 1968](onbekend).
+- b. voor het verrichten van prestaties, al dan niet tegen vergoeding, die, indien zij door een ondernemer worden verricht, zijn vrijgesteld ingevolge [artikel 11 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11).
 
 2. Het in het eerste lid bepaalde geldt niet voor bij algemene maatregel van bestuur aangewezen gevallen.
 
@@ -150,15 +148,15 @@ Het recht op bijdrage ontstaat op het tijdstip waarop de omzetbelasting aan het 
 
 ##### Artikel 8
 
-Onze Minister kan nadere regels stellen omtrent de bijdrage ingeval de goederen en diensten zowel worden bestemd of gebezigd in het kader van de onderneming van het publiekrechtelijk lichaam of regionaal openbaar lichaam als in het kader van andere doeleinden van het publiekrechtelijk lichaam of regionaal openbaar lichaam. Onze Minister kan voorts nadere regels stellen omtrent de bijdrage ingeval de goederen en diensten worden bestemd of gebezigd mede ten behoeve van prestaties als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=4&z=2006-01-01&g=2007-01-01).
+Onze Minister kan nadere regels stellen omtrent de bijdrage ingeval de goederen en diensten zowel worden bestemd of gebezigd in het kader van de onderneming van het publiekrechtelijk lichaam of regionaal openbaar lichaam als in het kader van andere doeleinden van het publiekrechtelijk lichaam of regionaal openbaar lichaam. Onze Minister kan voorts nadere regels stellen omtrent de bijdrage ingeval de goederen en diensten worden bestemd of gebezigd mede ten behoeve van prestaties als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=4&z=2008-07-11&g=2008-07-11).
 
 ##### Artikel 9
 
-1. De inspecteur als bedoeld in [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=1&z=2006-01-01&g=2007-01-01), is mede bevoegd voor de toepassing van deze wet ten aanzien van het publiekrechtelijk lichaam of regionaal openbaar lichaam.
+1. De inspecteur als bedoeld in [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=1&z=2008-07-11&g=2008-07-11), is mede bevoegd voor de toepassing van deze wet ten aanzien van het publiekrechtelijk lichaam of regionaal openbaar lichaam.
 
 2. Voor het einde van de maand volgend op het tijdvak waarin het recht op bijdrage is ontstaan, dan wel een eerder verstrekte of nog te verstrekken bijdrage geheel of gedeeltelijk verschuldigd is geworden, wordt daarvan opgave gedaan. De inspecteur kan bij beschikking afwijken van de opgave.
 
-3. Na afloop van het kalenderjaar stelt de inspecteur de bijdrage over dat jaar op grond van de bepalingen van deze wet bij beschikking vast. Het verschil tussen de bij de in de vorige volzin bedoelde beschikking vastgestelde bijdrage en de over het kalenderjaar verstrekte voorschotten wordt zes maanden na het kalenderjaar uitbetaald, teruggevorderd dan wel verrekend met omzetbelasting die verschuldigd is op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), met inachtneming van het bepaalde in [artikel 2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2&z=2006-01-01&g=2007-01-01), over de minimale hoogte van de bijdrage.
+3. Na afloop van het kalenderjaar stelt de inspecteur de bijdrage over dat jaar op grond van de bepalingen van deze wet bij beschikking vast. Het verschil tussen de bij de in de vorige volzin bedoelde beschikking vastgestelde bijdrage en de over het kalenderjaar verstrekte voorschotten wordt zes maanden na het kalenderjaar uitbetaald, teruggevorderd dan wel verrekend met omzetbelasting die verschuldigd is op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), met inachtneming van het bepaalde in [artikel 2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2&z=2008-07-11&g=2008-07-11), over de minimale hoogte van de bijdrage.
 
 4. Indien uiterlijk vijf jaren na het einde van het kalenderjaar blijkt dat bijdrage over dat jaar is verstrekt tot een hoger of lager bedrag dan waarop het publiekrechtelijk lichaam of regionaal openbaar lichaam op grond van deze wet recht heeft, stelt de inspecteur de hoogte van de bijdrage over het desbetreffende kalenderjaar vast bij beschikking en wordt het verschil met de over dat kalenderjaar verstrekte bijdrage uitbetaald, teruggevorderd dan wel verrekend met omzetbelasting en de daarover berekende heffingsrente. Voor de toepassing van dit lid wordt rente berekend op grond van het vijfde lid beschouwd als bijdrage.
 
