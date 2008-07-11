@@ -4,7 +4,7 @@ identifier: "BWBR0020645"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2007-02-06"
+last_updated: "2008-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020645"
 soort: "wet"
@@ -100,7 +100,7 @@ Wijzigt de Wijzigingswet van enkele belastingwetten (implementatie van Richtlijn
 
 ##### Artikel VIIIb
 
-De wijziging ingevolge [artikel II, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=II&z=2007-02-06&g=2007-02-06), van [artikel 10d, zevende lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10d) vindt geen toepassing op schulden voortvloeiend uit een overeenkomst welke vergelijkbaar is met een overeenkomst van geldlening, die is aangegaan vóór 1 januari 2007.
+De wijziging ingevolge [artikel II, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=II&z=2008-07-11&g=2008-07-11), van [artikel 10d, zevende lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10d) vindt geen toepassing op schulden voortvloeiend uit een overeenkomst welke vergelijkbaar is met een overeenkomst van geldlening, die is aangegaan vóór 1 januari 2007.
 
 ##### Artikel VIIIc
 
@@ -108,7 +108,9 @@ De rente, bedoeld in de [artikelen 14a, achtste lid](https://wetten.overheid.nl/
 
 ##### Artikel VIIId
 
-Ingeval de belastingplichtige een belang bezit dat geen deelneming is maar waarop tot en met 31 december 2006 bij hem de deelnemingsvrijstelling van [artikel 13 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), zoals [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) toen luidde, wel van toepassing was omdat dat bezit ingevolge [artikel 13, derde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), met een deelneming werd gelijkgesteld, wordt tot 1 januari 2010 dat belang gelijkgesteld met een deelneming als waarvan sprake is in [artikel 13, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) zoals [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) luidt met ingang van 1 januari 2007.
+1. Ingeval de belastingplichtige een belang bezit dat geen deelneming is maar waarop tot en met 31 december 2006 bij hem de deelnemingsvrijstelling van [artikel 13 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), zoals [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) toen luidde, wel van toepassing was omdat dat bezit ingevolge [artikel 13, derde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), met een deelneming werd gelijkgesteld, wordt tot 1 januari 2010 dat belang gelijkgesteld met een deelneming als waarvan sprake is in [artikel 13, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) zoals [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) luidt met ingang van 1 januari 2007.
+
+2. Het eerste lid is van overeenkomstige toepassing met betrekking tot een belang van een commanditaire vennoot in een open commanditaire vennootschap waarop tot en met 31 december 2006 de deelnemingsvrijstelling, bedoeld in [artikel 13 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) zoals [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) toen luidde, werd toegepast, mits de belastingplichtige voor 1 april 2007 om die overeenkomstige toepassing heeft verzocht.
 
 ##### Artikel IX
 
@@ -142,17 +144,17 @@ Ingeval ten aanzien van een belastingplichtige voor de inwerkingtreding van deze
 
 1. Deze wet treedt in werking met ingang van 1 januari 2007.
 
-2. In afwijking van het eerste lid treedt [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=IV&z=2007-02-06&g=2007-02-06) in werking met ingang van 31 december 2006.
+2. In afwijking van het eerste lid treedt [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=IV&z=2008-07-11&g=2008-07-11) in werking met ingang van 31 december 2006.
 
-3. De wijzigingen met betrekking tot de vennootschapsbelasting, uitgezonderd [artikel II, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=II&z=2007-02-06&g=2007-02-06), voor zover dat betrekking heeft op de in te voegen [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b) en [12c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12c), vinden voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 2007.
+3. De wijzigingen met betrekking tot de vennootschapsbelasting, uitgezonderd [artikel II, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=II&z=2008-07-11&g=2008-07-11), voor zover dat betrekking heeft op de in te voegen [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b) en [12c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12c), vinden voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 2007.
 
-4. In afwijking van het eerste lid treedt [artikel II, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=II&z=2007-02-06&g=2007-02-06), voor zover dat betrekking heeft op het in te voegen [artikel 12b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben en vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na dat tijdstip van inwerkingtreding.
+4. In afwijking van het eerste lid treedt [artikel II, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=II&z=2008-07-11&g=2008-07-11), voor zover dat betrekking heeft op het in te voegen [artikel 12b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben en vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na dat tijdstip van inwerkingtreding.
 
-5. In afwijking van het eerste lid treedt [artikel II, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=II&z=2007-02-06&g=2007-02-06), voor zover dat betrekking heeft op het in te voegen [artikel 12c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12c), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben en vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na dat tijdstip van inwerkingtreding.
+5. In afwijking van het eerste lid treedt [artikel II, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=II&z=2008-07-11&g=2008-07-11), voor zover dat betrekking heeft op het in te voegen [artikel 12c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12c), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben en vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na dat tijdstip van inwerkingtreding.
 
-6. In afwijking van het eerste lid treden [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=I&z=2007-02-06&g=2007-02-06), wat betreft het [achtste lid van artikel 3.30a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30a), en onderdelen Da en Ea, in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben.
+6. In afwijking van het eerste lid treden [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=I&z=2008-07-11&g=2008-07-11), wat betreft het [achtste lid van artikel 3.30a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30a), en onderdelen Da en Ea, in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben.
 
-7. De wijzigingen ingevolge [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=III&z=2007-02-06&g=2007-02-06) vinden toepassing op de opbrengst van de in [artikel 1 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=1) bedoelde aandelen, winstbewijzen en geldleningen, die op of na 1 januari 2007 ter beschikking is gesteld.
+7. De wijzigingen ingevolge [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=III&z=2008-07-11&g=2008-07-11) vinden toepassing op de opbrengst van de in [artikel 1 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=1) bedoelde aandelen, winstbewijzen en geldleningen, die op of na 1 januari 2007 ter beschikking is gesteld.
 
 ##### Artikel XIV
 
