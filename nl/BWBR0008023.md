@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2008-06-15"
+last_updated: "2008-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -1075,16 +1075,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 24008 | Bisoprololfumaraat pch tablet 5mg |   |
 | 25204 | Bisoprololfumaraat pch tablet 5mg |   |
 | 26063 | Bisoprololfumaraat cf tablet 5mg |   |
-|   |   |   |
-| Productgroep |   | Maximumprijs |
-| BOSENTAN-125-MG-TABLET | BOSENTAN-125-MG-TABLET | 45.66234800 per stuk |
-| Registratienummer | Artikelnaam |   |
-| EU/1/02/220/004 | Tracleer tablet filmomhuld 125mg |   |
-|   |   |   |
-| Productgroep |   | Maximumprijs |
-| BOSENTAN-62.5-MG-TABLET | BOSENTAN-62.5-MG-TABLET | 45.66234800 per stuk |
-| Registratienummer | Artikelnaam |   |
-| EU/1/02/220/002 | Tracleer tablet filmomhuld 62,5mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
 | BOTULINUM TOXIN-100-IE-POED. V. INJECTIE, FLACON | BOTULINUM TOXIN-100-IE-POED. V. INJECTIE, FLACON | 222.06534700 per stuk |
