@@ -4,7 +4,7 @@ identifier: "BWBR0018832"
 country: "nl"
 rank: "wet"
 publication_date: "2008-10-22"
-last_updated: "2006-03-08"
+last_updated: "2008-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018832"
 soort: "wet"
@@ -355,7 +355,7 @@ Wijzigt de Ziektewet.
 
 ##### Artikel LXIII
 
-Wijzigt de Algemene Wet Bijzondere Ziektekosten.
+Vervallen
 
 ##### Artikel LXIV
 
