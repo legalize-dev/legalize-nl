@@ -260,32 +260,3 @@ Deze regeling wordt aangehaald als: Subsidieregeling vaccinatie stageplaatsen zo
 | 34561 | Medisch Beeldvormende en Radiotherapeutische Techniek |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&wetgeving) niet van toepassing.
-
-## Bijlage 2. Codes Centraal register opleidingen hoger onderwijs
-
-| Studiejaar | Code | Naam |
-| --- | --- | --- |
-| vanaf 2011/2012 | 80084 | Ad Medische Laboratoriumdiagnostiek. |
-| vanaf 2008/2009 | 30008 | Applied Science |
-| vanaf 2011/2012 | 30023 | B Medische Hulpverlening |
-| vanaf 2011/2012 | 34571 | B Oefentherapie Cesar |
-| vanaf 2011/2012 | 34572 | B Opleiding tot Oefentherapeut-Mensendieck |
-| vanaf 2009/2010 | 34549 | B Optometrie |
-| vanaf 2009/2010 | 34577 | B Orthoptie |
-| vanaf 2010/2011 | 34953 | B Orthopedische technologie |
-| vanaf 2015/2016 | 34134 | B Verloskunde |
-| vanaf 2008/2009 | 34397 | Biologie en medisch laboratorium onderzoek |
-| vanaf 2009/2010 | 39217 | Biometrie |
-| vanaf 2008/2009 | 34331 | Biotechnologie |
-| vanaf 2008/2009 | 34091 | Huidtherapie |
-| vanaf 2008/2009 | 34561 | Medisch Beeldvormende en Radiotherapeutische Techniek |
-| vanaf 2008/2009 | 34576 | Mondzorgkunde |
-| vanaf 2008/2009 | 34581 | Opleiding Podotherapie |
-| vanaf 2008/2009 | 34570 | Opleiding tot fysiotherapeut |
-| vanaf 2008/2009 | 34560 | Opleiding tot verpleegkundige |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
