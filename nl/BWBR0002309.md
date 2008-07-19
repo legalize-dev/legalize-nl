@@ -4,7 +4,7 @@ identifier: "BWBR0002309"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-07-01"
-last_updated: "2004-10-01"
+last_updated: "2008-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002309"
 soort: "AMvB"
@@ -513,79 +513,37 @@ Vervallen
 
 ##### Artikel 94. Toepasbaarheid
 
-De bij of krachtens dit hoofdstuk vastgestelde bepalingen zijn van toepassing op:
-
-- a. Nederlandse luchtvaartuigen waar zij zich ook bevinden, voor zover deze bepalingen niet in strijd zijn met de wetgeving van het gebied waar het luchtvaartuig zich bevindt;
-
-- b. buitenlandse luchtvaartuigen binnen Nederland, waar dit uitdrukkelijk is voorgeschreven.
+Vervallen
 
 ##### Artikel 95. Aanwijzing gezagvoerder
 
-1. Indien het stuurhutpersoneel van een luchtvaartuig uit meer dan één lid bestaat, moet de houder een bestuurder, die bevoegd is aan boord van dit luchtvaartuig dienst te doen als eerste bestuurder, aanwijzen als gezagvoerder. Hij moet hiervan vóór de aanvang van elke vlucht aantekening stellen dan wel doen stellen in het journaal als bedoeld in artikel 101. Wijzigingen in de gezagvoering tijdens de vlucht moeten eveneens in het journaal worden aangetekend.
-
-2. Houder in de zin van dit artikel is hij, die recht van gebruik heeft van een luchtvaartuig anders dan ingevolge een hem in dienstverband verstrekte opdracht.
-
-3. Het is verboden zich tijdens de vlucht als lid van het stuurhutpersoneel aan boord van een luchtvaartuig te bevinden, indien niet aan het bepaalde in het eerste lid is voldaan.
+Vervallen
 
 ##### Artikel 96. Orde en veiligheid; verantwoordelijkheid gezagvoerder
 
-1. De gezagvoerder is gedurende de vlucht van het luchtvaartuig verantwoordelijk voor de vluchtuitvoering en voor de veiligheid van het luchtvaartuig en de inzittenden daarvan.
+1. Vervallen.
 
-2. Hij is bevoegd de nodige maatregelen te nemen ter waarborging van de veiligheid van de vlucht, alsmede tot het nemen van alle redelijke maatregelen, vrijheidsbeperking daaronder begrepen, ter verzekering van de orde en discipline aan boord en om hem in staat te stellen personen die de orde aan boord verstoren of de veiligheid van de vlucht in gevaar brengen aan de bevoegde autoriteiten over te dragen.
+2. Vervallen.
 
-3. De gezagvoerder moet zorg dragen dat
-
-- a. tijdens de start en de landing ieder lid van het stuurhutpersoneel, dat betrokken is bij de bediening van een luchtvaartuig, zich op zijn post in de stuurhut bevindt;
-
-- b. tijdens de start en de landing alle inzittenden het (de) voor hen bestemde veiligheidstuig (veiligheidsgordel) hebben omgegord;
-
-- c. tijdens de vlucht ieder lid van het stuurhutpersoneel, dat betrokken is bij de bediening van een luchtvaartuig, zich op zijn post in de stuurhut bevindt, behalve wanneer zijn afwezigheid noodzakelijk is in verband met de uitvoering van taken ten behoeve van de vluchtuitvoering of voor persoonlijke verzorging.
-
-- d. zij, die zich tijdens de vlucht op een bestuurderszitplaats of op een zitplaats voor de boordwerktuigkundige bevinden, het (de) voor die zitplaats bestemde veiligheidstuig (veiligheidsgordel) hebben omgegord;
-
-- e. indien zulks op grond van bijzondere omstandigheden als turbulentie of noodtoestand gedurende een vlucht noodzakelijk wordt geacht, alle door de eigenaar of houder in desbetreffende instructies aangewezen personen van het boordpersoneel het (de) voor hen bestemde veiligheidstuig (-gordel) hebben omgegord.
+3. Vervallen.
 
 4. Een passagier is verplicht de tijdens de vlucht door of namens de gezagvoerder gegeven aanwijzingen op te volgen.
 
-5. In een noodtoestand tijdens de vlucht is de gezagvoerder verplicht ervoor te zorgen, dat de passagiers worden ingelicht hoe te handelen.
+5. Vervallen.
 
-6. Het bepaalde in het derde lid, onder **b**, geldt niet, indien en voor zover door Onze Minister ontheffing is verleend.
+6. Vervallen.
 
 ##### Artikel 97. Vervoer van passagiers en lading
 
-1. Het is verboden in een luchtvaartuig personen te vervoeren of te doen vervoeren , die kennelijk gevaarlijk zijn voor de veiligheid of gezondheid van de overige inzittenden, tenzij zodanige personen onder toezicht staan van deskundige begeleiders en de voor de veiligheid en de gezondheid vereiste voorzorgen in acht worden genomen.
-
-2. Wanneer in een luchtvaartuig personen als bedoeld in het eerste lid worden vervoerd is de houder of de eigenaar van het luchtvaartuig verplicht er zorg voor te dragen, dat zulks voor de aanvang van de vlucht op duidelijke wijze ter kennis van de gezagvoerder wordt gebracht.
+Vervallen
 
 ##### Artikel 98. Bescheiden en boeken
 
-1. De gezagvoerder van een luchtvaartuig is verplicht ervoor te zorgen dat bij elke vlucht het volgende wordt meegevoerd:
-
-- a. het bewijs van inschrijving als bedoeld in [artikel 5 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=5), behoudens in gevallen als bedoeld in [artikel 4, tweede lid onder **a** en **b** , van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=4);
-
-- b. het bewijs van luchtwaardigheid of van gelijkstelling als bedoeld in [artikel 7 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=7), behoudens in gevallen als bedoeld in [artikel 4, tweede lid onder **a** en **b**, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=4);
-
-- c. de op het luchtvaartuig betrekking hebbende gebruiksbeperkingen, gebruiksaanwijzingen en gebruiksgegevens in een vorm die de instemming heeft van Onze Minister of in de vorm van een vlieghandboek dat de instemming heeft van Onze Minister;
-
-- d. het bewijs van bevoegdheid of van gelijkstelling als bedoeld in [artikel 9 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=9) van ieder lid van het stuurhutpersoneel van het luchtvaartuig;
-
-- e. het journaal als bedoeld in het tweede lid;
-
-- f. indien het luchtvaartuig is voorzien van (een) radio-elektrische zendinrichting(en) zoals bedoeld in artikel 3**ter**, eerste lid, van de Telegraaf- en Telefoonwet 1904 (**Stb.**nr. 7) zoals sedertdien gewijzigd: een bewijs van zendmachtiging, waarop is vermeld dat degene op wiens naam het luchtvaartuig is ingeschreven in het bezit is van de machtiging voor de aanleg, het aanwezig hebben en gebruik van die inrichting(en).
-
-2. De gezagvoerder van een luchtvaartuig is verplicht een journaal te houden of te doen houden door een lid van het stuurhutpersoneel, waarin bijzonderheden omtrent elke vlucht met het luchtvaartuig moeten worden opgenomen. Ten aanzien van een Nederlands luchtvaartuig geschiedt dit tijdens of dadelijk na afloop van elke vlucht in daartoe bestemde boeken of op daartoe bestemde formulieren, met de modellen waarvan Onze Minister heeft ingestemd, en met inachtneming van de door Onze Minister te stellen regelen.
-
-3. De gezagvoerder van een luchtvaartuig is verplicht ervoor te zorgen, dat bij elke internationale verkeersvlucht:
-
-- a. wordt medegevoerd een exemplaar van de laatste voor het betrokken luchtvaartuig opgestelde onderhoudsverklaring als bedoeld in artikel 88, vierde lid onder a;
-
-- b. waarbij het luchtvaartuig lading vervoert, in het luchtvaartuig een manifest en waar nodig een gespecificeerde verklaring omtrent die lading aanwezig is.
-
-4. Door Onze Minister kunnen nadere aanwijzingen omtrent de vorm en inhoud van de in het derde lid onder **b** voorgeschreven documenten worden gegeven.
+Vervallen
 
 ##### Artikel 99. Kennisgeving van ongevallen
 
-De gezagvoerder of de houder van een luchtvaartuig is verplicht Onze Minister, zo nodig door tussenkomst van de politie of de Koninklijke marechaussee, zo spoedig mogelijk in kennis te stellen of te doen stellen van enig ongeval met het luchtvaartuig, dat verwonding of dood van een of meer personen dan wel belangrijke schade aan het luchtvaartuig of aan eigendommen van derden tengevolge heeft gehad.
+Vervallen
 
 ##### Artikel 100
 
@@ -593,47 +551,33 @@ Vervallen
 
 ##### Artikel 101. Kennisgeving door gezagvoerder
 
-1. De gezagvoerder is verplicht om tijdens de vlucht waargenomen omstandigheden, welke gevaar voor de luchtvaart opleveren, zo spoedig mogelijk te melden of te doen melden aan de daarvoor in aanmerking komende luchtvaartautoriteiten. Deze meldingen moeten die gegevens inhouden, welke van belang kunnen zijn voor de veiligheid van andere luchtvaartuigen.
-
-2. Indien een noodtoestand enig lid van het boordpersoneel noopt tot handelingen, die inbreuk maken op plaatselijke voorschriften en regelingen, is de gezagvoerder verplicht de daarvoor aangewezen autoriteiten van de Staat, binnen welks gebied het voorval plaats heeft, hiervan onverwijld op de hoogte te stellen. De gezagvoerder is verplicht zo spoedig mogelijk een rapport betreffende het voorval over te leggen aan de bedoelde autoriteiten, indien deze zulks verzoeken. In dat geval moet de gezagvoerder eveneens een rapport overleggen aan Onze Minister.
-
-3. In geval van wederrechtelijke inmenging in de vluchtuitvoering is de gezagvoerder verplicht hiervan onverwijld bij Onze Minister een rapport in te dienen.
+Vervallen
 
 ##### Artikel 102
 
-1. Met het toezicht op de naleving van de bij of krachtens dit hoofdstuk gestelde voorschriften zijn tijdens de vluchtvoorbereiding, de vlucht en de vluchtafhandeling belast de bij besluit van Onze Minister aangewezen personen.
-
-2. Bij ministeriële regeling worden nadere voorschriften gegeven voor het aan boord van het luchtvaartuig toelaten van toezichthouders.
+Vervallen
 
 ##### Artikel 102a. Gebruiksbeperkingen
 
-De uitvoering van vluchten mag slechts geschieden met inachtneming van de op het betrokken luchtvaartuig betrekking hebbende gebruiksbeperkingen.
+Vervallen
 
 ##### Artikel 102b. Afwijking van de regelen
 
-In bijzondere gevallen kan, onder voorwaarden als voor elk geval afzonderlijk te bepalen, afwijking van de bij of krachtens dit Hoofdstuk gestelde regelen door Onze Minister worden toegestaan.
+Vervallen
 
 ### Afdeling II. Verkeersvluchten
 
 ##### Artikel 103. Algemeen
 
-De artikelen 104 t/m 111 van deze afdeling gelden uitsluitend ten aanzien van verkeersvluchten, met uitzondering van rondvluchten. De voorschriften, gegeven in afdeling I van dit Hoofdstuk, zijn onverminderd van toepassing.
+Vervallen
 
 ##### Artikel 104. Vergunning tot vluchtuitvoering
 
-1. Onverminderd het bepaalde in [artikel 16 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16) is de luchtvaartmaatschappij verplicht aan te tonen, dat het luchtvervoer op veilige wijze zal worden verricht.
-
-2. Indien aan het gestelde in het eerste lid is voldaan, zal door Onze Minister een vergunning tot vluchtuitvoering worden afgegeven.
-
-3. De uitvoering van vluchten waartoe een vergunning als bedoeld in [artikel 16 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16) is vereist, mag slechts geschieden krachtens de in het vorige lid genoemde vergunning.
-
-4. Vervallen.
-
-5. Door Onze Minister worden regelen gesteld met betrekking tot de uitvoering van het in dit artikel gestelde.
+Vervallen
 
 ##### Artikel 105. Vluchtvoorbereiding en vluchtuitvoering
 
-Door Onze Minister worden regelen gesteld ten aanzien van de voorbereiding en uitvoering van vluchten met inbegrip van regelen voor de instrumenten, uitrustingsstukken en installaties, welke naar gelang het type van het luchtvaartuig, de aard van de vlucht, en de omstandigheden, waaronder de vlucht wordt uitgevoerd, aan boord van het luchtvaartuig aanwezig en voor het gebruik gereed moeten zijn.
+Vervallen
 
 ##### Artikel 105a. Werk- en rusttijden
 
@@ -641,23 +585,19 @@ Vervallen
 
 ##### Artikel 106. Het gebruik van ademhalingszuurstof
 
-De leden van het stuurhutpersoneel, die werkzaamheden verrichten welke nodig zijn voor het uitvoeren van de vlucht, moeten voortdurend gebruik maken van ademhalingszuurstof, wanneer zij in de omstandigheden verkeren, waarvoor krachtens de ingevolge artikel 105 gestelde regelen voor hen ademhalingszuurstof aan boord aanwezig moet zijn.
+Vervallen
 
 ##### Artikel 107. Kennisgeving door gezagvoerder van meteorologische omstandigheden
 
-De gezagvoerder moet zorg dragen dat voor zover dit mogelijk is, gevolg wordt gegeven aan verzoeken van de meteorologische dienst om op aangegeven tijden of posities de tijdens de vlucht waargenomen meteorologische omstandigheden te rapporteren.
+Vervallen
 
 ##### Artikel 108. Samenstelling en bevoegdheden stuurhutpersoneel
 
-1. Door Onze Minister kunnen nadere regelen worden gesteld ten aanzien van de samenstelling en bevoegdheden van het stuurhutpersoneel.
-
-2. Door Onze Minister worden nadere regelen gesteld ten aanzien van de aanwijzing als gezagvoerder.
-
-3. Het is verboden een vlucht aan te vangen of te doen aanvangen, indien niet is voldaan aan het bepaalde krachtens dit artikel.
+Vervallen
 
 ##### Artikel 109. Kajuitpersoneel
 
-De luchtvaartmaatschappij is verplicht ten genoegen van Onze Minister het vereiste minimum aantal leden kajuitpersoneel vast te stellen voor ieder type luchtvaartuig, gebaseerd op de capaciteit of het aantal te vervoeren passagiers, opdat in geval van een noodlanding een veilige en vlugge evacuatie kan plaatsvinden.
+Vervallen
 
 ##### Artikel 109a. Werk- en rusttijden kajuitpersoneel
 
@@ -665,7 +605,7 @@ Vervallen
 
 ##### Artikel 110. Geoefendheid kajuitpersoneel
 
-Door Onze Minister worden nadere regelen gesteld ten aanzien van de geoefendheid van het kajuitpersoneel.
+Vervallen
 
 ##### Artikel 111
 
@@ -673,61 +613,43 @@ Vervallen
 
 ##### Artikel 112. Kennisgeving door gezagvoerder van gebreken
 
-De gezagvoerder moet zorg dragen dat aan het einde van de vlucht alle bekende en vermoede gebreken van het luchtvaartuig aan de luchtvaartmaatschappij worden gerapporteerd.
+Vervallen
 
 ##### Artikel 113. Het onderhoud van luchtvaartuigen
 
-De luchtvaartmaatschappij is verplicht:
-
-- a. te voorzien in een organisatie met geoefend personeel alsmede werkplaatsen, uitrusting en installaties voor het in een luchtwaardige toestand houden van haar in gebruik zijnde luchtvaartuigen;
-
-- b. te waarborgen, dat het onderhoud, de revisies, de herstellingen en de wijzigingen aan haar luchtvaartuigen worden uitgevoerd op de wijze als in of krachtens het bepaalde in Hoofdstuk IV en in de onderhoudshandleiding als bedoeld onder **c** is voorgeschreven;
-
-- c. een handleiding voor het onderhoud van haar in gebruik zijnde luchtvaartuigen, in deze regeling verder aangeduid met onderhoudshandleiding, samen te stellen en ieder lid van het personeel, dat met dit onderhoud is belast, met de inhoud van de voor dat lid van belang zijnde delen van de onderhoudshandleiding in kennis te stellen. Alle aanvullingen en wijzigingen van de onderhoudshandleiding moeten schriftelijk bekend worden gemaakt aan de desbetreffende leden van het personeel. De onderhoudshandleiding moet ten minste de volgende gegevens of instructies bevatten:
-
-- 1°. de gang van zaken bij het bedrijfsgereed maken en bij het onderhoud, de revisie en de herstelling van luchtvaartuigen;
-
-- 2°. de frequentie van deze werkzaamheden;
-
-- 3°. de taakomschrijving van het bij deze werkzaamheden betrokken personeel;
-
-- 4°. de bij deze werkzaamheden toegepaste werkwijzen, alsmede de aanwijzingen als bedoeld in artikel 88, tweede lid;
-
-- 5°. de wijze, waarop een onderhoudsverklaring tot stand komt, de omstandigheden, waaronder deze verklaring ongeldig wordt en een vermelding, welk personeel deze verklaring mag tekenen;
-
-- d. er voor te zorgen, dat het met het onderhoud belaste personeel wordt onderricht met betrekking tot de gebezigde onderhoudsmethoden, in het bijzonder indien nieuwe luchtvaartuigen dan wel nieuwe of ongewone uitrusting in gebruik worden dan wel wordt genomen.
+Vervallen
 
 ##### Artikel 114. Rondvluchten
 
-Door Onze Minister worden regelen gesteld ten aanzien van de voorbereiding en uitvoering van rondvluchten met inbegrip van regelen voor de instrumenten, uitrustingsstukken en installaties, welke naar gelang het type luchtvaartuig, de aard van de rondvlucht en de omstandigheden, waaronder de rondvlucht wordt uitgevoerd, aan boord van het luchtvaartuig aanwezig en voor het gebruik gereed moeten zijn.
+Vervallen
 
 ### Afdeling III. Niet-verkeersvluchten
 
 ##### Artikel 115. Algemeen
 
-De voorschriften van deze afdeling gelden uitsluitend ten aanzien van niet-verkeersvluchten. De voorschriften, gegeven in Afdeling I van dit Hoofdstuk, zijn onverminderd van toepassing.
+Vervallen
 
 ##### Artikel 116. Vluchtvoorbereiding en vluchtuitvoering
 
-Door Onze Minister worden regelen gesteld ten aanzien van de voorbereiding en uitvoering van de vluchten, met inbegrip van regelen voor de instrumenten, uitrustingsstukken en installaties, welke naar gelang het type luchtvaartuig, de aard van de vlucht en de omstandigheden, waaronder de vlucht wordt uitgevoerd, aan boord van het luchtvaartuig aanwezig en voor het gebruik gereed moeten zijn.
+Vervallen
 
 ##### Artikel 116a. Samenstelling stuurhutpersoneel
 
-Tijdens een vlucht met een vliegtuig, waarvan de maximale startmassa meer dan 5700 kg bedraagt, moet het stuurhutpersoneel ten minste zowel een eerste als een tweede bestuurder omvatten.
+Vervallen
 
 ##### Artikel 116b. Ontheffing luchtvervoersvergunning
 
-Bij vervoer met een luchtvaartuig, waarvan de massa tenminste 2 ton bedraagt, ten behoeve van eigen bedrijf, waarvoor krachtens [artikel 16**d**, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16d) ontheffing is verleend van de in [artikel 16 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16) vervatte verplichting, moeten de door Onze Minister te geven voorschriften of beperkingen in acht worden genomen.
+Vervallen
 
 ### Afdeling IV. Het gebruik van zweefvliegtuigen en motorzweefvliegtuigen
 
 ##### Artikel 117. Middelen voor de opstijging
 
-De opstijging van zweefvliegtuigen en van motorzweefvliegtuigen met uitgeschakelde voortstuwingsinstallatie mag slechts geschieden met behulp van middelen, welke voldoen aan de door Onze Minister te stellen technische voorschriften. Lieren moeten zijn voorzien van een geldig bewijs van deugdelijkheid als bedoeld in artikel 92, eerste lid.
+Vervallen
 
 ##### Artikel 117a. Uitrusting
 
-Bij kunstvluchten en bij wolkenvluchten moet iedere inzittende van een zweef- of motorzweefvliegtuig voorzien zijn van een in goede staat verkerend valscherm.
+Vervallen
 
 ##### Artikel 117b. Oefen- en examenvluchten
 
@@ -1166,17 +1088,17 @@ Vervallen
 
 ##### Artikel 166. Strafbepalingen
 
-1. Overtreding van de artikelen 8, eerste lid, tweede volzin, 9, vierde lid, 10, tweede en derde lid, 11, 21, 21**a**, 27, derde en zesde lid, tweede volzin, 28, vierde en zesde lid, 43, 50, tweede volzin, 77, eerste lid, 80, derde lid, 81, derde lid, 82, tweede lid, 83, tweede en derde lid, 88, tweede lid, onder **a**, derde, vierde en vijfde lid, 92, zesde lid, 95, eerste en derde lid, 96, derde, vierde en vijfde lid, 97, 98, 99, 101, 102, tweede lid, 102**a**, 104, derde lid, 106, 107, 108, derde lid, 109, 112, 113, 116**a**, 117, tweede volzin, 117**a**, 123, eerste lid, 124, aanhef en onder **a**, 125, eerste lid, 126, 127, 128, 129, eerste, tweede, derde en vierde lid, 130, eerste en tweede lid, 131, 133, eerste en tweede lid, 136, 137, 138, 139, 140, 141, 142, en 143, is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
+1. Overtreding van de [artikelen 96, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=V&afdeling=I&artikel=96&z=2008-07-19&g=2008-07-19), [123, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=123&z=2008-07-19&g=2008-07-19), [124, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=124&z=2008-07-19&g=2008-07-19), [125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=125&z=2008-07-19&g=2008-07-19), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=126&z=2008-07-19&g=2008-07-19), [127](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=127&z=2008-07-19&g=2008-07-19), [128](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=128&z=2008-07-19&g=2008-07-19), [129, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=129&z=2008-07-19&g=2008-07-19), [130, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=130&z=2008-07-19&g=2008-07-19), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=131&z=2008-07-19&g=2008-07-19), [133, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=133&z=2008-07-19&g=2008-07-19), [136 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=136&z=2008-07-19&g=2008-07-19), is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
 
 2. Een overtreding van:
 
-- a. artikel 85, vierde lid, voor zover het betreft het niet voldoen aan de van overeenkomstige toepassing zijnde artikelen 80, derde lid, 81, derde lid, 82, tweede lid, en 83, tweede en derde lid;
+- a. [artikel 85, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=85&z=2008-07-19&g=2008-07-19), voor zover het betreft het niet voldoen aan de van overeenkomstige toepassing zijnde [artikelen 80, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=80&z=2008-07-19&g=2008-07-19), [81, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=81&z=2008-07-19&g=2008-07-19), [82, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=82&z=2008-07-19&g=2008-07-19), en [83, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=83&z=2008-07-19&g=2008-07-19);
 
-- b. artikel 89, eerste lid, voor zover het betreft het niet voldoen aan het van overeenkomstige toepassing zijnde artikel 88, derde lid, onder **a** en **b**, en vijfde lid, is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
+- b. [artikel 89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=89&z=2008-07-19&g=2008-07-19), voor zover het betreft het niet voldoen aan het van overeenkomstige toepassing zijnde [artikel 88, derde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=88&z=2008-07-19&g=2008-07-19), en vijfde lid, is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
 
-3. Overtreding van een aanwijzing, regel of voorschrift gegeven krachtens de artikelen 76, eerste lid, 77, tweede lid, 87, derde lid, 88, tweede lid, onder **a** en **b**, 93**a**, 105, 105**a**, 109**a**, 110, 114, 116, 116**b**, 117, 123, tweede lid, 124 aanhef en onder **b**, 125, tweede lid, 126, 129, vijfde lid, 130, derde lid, artikel 132, eerste lid, 132**a**, 133, derde lid, 139, derde lid, is, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt, een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
+3. Overtreding van een aanwijzing, regel of voorschrift gegeven krachtens de [artikelen 123, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=123&z=2008-07-19&g=2008-07-19), [124 aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=124&z=2008-07-19&g=2008-07-19), [125, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=125&z=2008-07-19&g=2008-07-19), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=126&z=2008-07-19&g=2008-07-19), [129, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=129&z=2008-07-19&g=2008-07-19), [130, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=130&z=2008-07-19&g=2008-07-19), [132, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=132&z=2008-07-19&g=2008-07-19), [132a](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=132a&z=2008-07-19&g=2008-07-19), [133, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=133&z=2008-07-19&g=2008-07-19), [139, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=139&z=2008-07-19&g=2008-07-19), is, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt, een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
 
-4. Een overtreding van een regel gegeven krachtens artikel 88, zesde lid, voor zover het betreft het niet voldoen aan het van overeenkomstige toepassing zijnde artikel 77, tweede lid, is, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt, een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
+4. Een overtreding van een regel gegeven krachtens [artikel 88, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=88&z=2008-07-19&g=2008-07-19), voor zover het betreft het niet voldoen aan het van overeenkomstige toepassing zijnde [artikel 77, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=77&z=2008-07-19&g=2008-07-19), is, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt, een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
 
 ##### Artikel 167. Overgangsbepalingen
 
