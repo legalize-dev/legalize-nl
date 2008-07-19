@@ -4,7 +4,7 @@ identifier: "BWBR0020528"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-01"
-last_updated: "2007-07-22"
+last_updated: "2008-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020528"
 soort: "ministeriele-regeling"
@@ -46,23 +46,25 @@ Als staat in de zin van de [artikelen 2:6, tweede lid](https://wetten.overheid.n
 
 ##### Artikel 2
 
-Als staat in de zin van [artikel 2:66, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:66) worden aangewezen:
+1. Als staat in de zin van [artikel 2:66, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:66) worden aangewezen:
 
-- a. Guernsey, voorzover het betreft het toezicht op:
+- a. Frankrijk;
 
-- 1°. ‘Class A’ of ‘Class B’ beleggingsinstellingen waarvan de rechten van deelneming op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald; en
+- b. Guernsey;
 
-- 2°. beleggingsinstellingen waarvan de rechten van deelneming niet op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald;
+- c. Ierland;
 
-- b. Ierland;
+- d. Jersey;
 
-- c. Jersey;
+- e. Luxemburg;
 
-- d. Luxemburg;
+- f. Malta;
 
-- e. Malta; en
+- g. het Verenigd Koninkrijk van Groot Brittannië en Noord-Ierland;
 
-- f. de Verenigde Staten van Amerika, voorzover het betreft het toezicht op belegginginstellingen die bij de Securities and Exchange Commission zijn geregistreerd.
+- h. de Verenigde Staten van Amerika, voor zover het betreft het toezicht op beleggingsinstellingen die bij de Securities and Exchange Commission zijn geregistreerd.
+
+2. Het eerste lid is niet van toepassing voor zover het betreft het aanbieden van rechten van deelneming in een beleggingsinstelling waaraan in de desbetreffende staat beperkingen zijn gesteld met betrekking tot de personen aan wie rechten van deelneming mogen worden aangeboden.
 
 ##### Artikel 3
 
