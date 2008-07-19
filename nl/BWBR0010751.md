@@ -4,7 +4,7 @@ identifier: "BWBR0010751"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-03-15"
-last_updated: "2001-11-01"
+last_updated: "2008-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010751"
 soort: "ministeriele-regeling"
@@ -41,19 +41,19 @@ Besluit:
 
 ##### Artikel 1
 
-1. De houder van een RPL, PPL, CPL of ATPL houdt de gegevens van door hem uitgevoerde vluchten bij in een logboek waarvan het model gelijk is aan het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&bijlage=1&z=2001-11-01&g=2001-11-01) bij deze regeling opgenomen model.
+1. De houder van een RPL, PPL, CPL of ATPL houdt de gegevens van door hem uitgevoerde vluchten bij in een logboek waarvan het model gelijk is aan het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&bijlage=1&z=2008-07-19&g=2008-07-19) bij deze regeling opgenomen model.
 
-2. In afwijking van het eerste lid, houdt de houder van een bewijs van bevoegdheid die vluchten uitvoert met een luchtvaartuig van de categorie zweeftoestellen (G) de gegevens van door hem uitgevoerde vluchten bij in een logboek waarvan het model gelijk is aan het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&bijlage=2&z=2001-11-01&g=2001-11-01) bij deze regeling opgenomen model.
+2. In afwijking van het eerste lid, houdt de houder van een bewijs van bevoegdheid die vluchten uitvoert met een luchtvaartuig van de categorie zweeftoestellen (G) de gegevens van door hem uitgevoerde vluchten bij in een logboek waarvan het model gelijk is aan het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&bijlage=2&z=2008-07-19&g=2008-07-19) bij deze regeling opgenomen model.
 
-3. De houder van een CFEL houdt de gegevens van door hem uitgevoerde vluchten bij in een logboek waarvan het model gelijk is aan het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&bijlage=3&z=2001-11-01&g=2001-11-01) bij deze regeling opgenomen model.
+3. De houder van een CFEL houdt de gegevens van door hem uitgevoerde vluchten bij in een logboek waarvan het model gelijk is aan het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&bijlage=3&z=2008-07-19&g=2008-07-19) bij deze regeling opgenomen model.
 
-4. De houder kan de gegevens van vluchten uitgevoerd onder een vergunning tot vluchtuitvoering als bedoeld in [artikel 104 van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=104) door de luchtvaartmaatschappij in een geautomatiseerd logboek doen bijhouden, waarvan het model voor houders van een CPL of ATPL gelijk is aan het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&bijlage=1&z=2001-11-01&g=2001-11-01) en voor houders van een CFEL gelijk is aan het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&bijlage=3&z=2001-11-01&g=2001-11-01) bij deze regeling opgenomen model, mits de houder met de luchtvaartmaatschappij overeenkomt dat het logboek telkens op verzoek van de houder beschikbaar wordt gesteld.
+4. De houder kan de gegevens van vluchten uitgevoerd onder een AOC door de luchtvaartmaatschappij in een geautomatiseerd logboek doen bijhouden, waarvan het model voor houders van een CPL of ATPL gelijk is aan het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&bijlage=1&z=2008-07-19&g=2008-07-19) en voor houders van een CFEL gelijk is aan het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&bijlage=3&z=2008-07-19&g=2008-07-19) bij deze regeling opgenomen model, mits de houder met de luchtvaartmaatschappij overeenkomt dat het logboek telkens op verzoek van de houder beschikbaar wordt gesteld.
 
 ##### Artikel 2
 
-1. De houder van het logboek, bedoeld in [artikel 1, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&artikel=1&z=2001-11-01&g=2001-11-01), houdt de gegevens, bedoeld in JAR-FCL 1.080, onderdeel b voor de categorie vliegtuigen, bij op de wijze, bedoeld in JAR-FCL 1.080, onderdeel c.
+1. De houder van het logboek, bedoeld in [artikel 1, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&artikel=1&z=2008-07-19&g=2008-07-19), houdt de gegevens, bedoeld in JAR-FCL 1.080, onderdeel b voor de categorie vliegtuigen, bij op de wijze, bedoeld in JAR-FCL 1.080, onderdeel c.
 
-2. De houder van het logboek, bedoeld in [artikel 1, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&artikel=1&z=2001-11-01&g=2001-11-01), houdt de gegevens, bedoeld in JAR-FCL 2.080, onderdeel b voor de categorie helikopters, bij op de wijze, bedoeld in JAR-FCL 2.080, onderdeel c.
+2. De houder van het logboek, bedoeld in [artikel 1, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010751&artikel=1&z=2008-07-19&g=2008-07-19), houdt de gegevens, bedoeld in JAR-FCL 2.080, onderdeel b voor de categorie helikopters, bij op de wijze, bedoeld in JAR-FCL 2.080, onderdeel c.
 
 ##### Artikel 2a
 
