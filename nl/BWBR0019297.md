@@ -4,7 +4,7 @@ identifier: "BWBR0019297"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019297"
 soort: "ministeriele-regeling"
@@ -116,7 +116,9 @@ Indien een persoon in het kalenderjaar waarin hij een vervoersvoorziening heeft 
 
 ##### Artikel 11. Afwijking inkomensgrens
 
-Voor de persoon die een vervoersvoorziening aanvraagt of aan wie een vervoersvoorziening is toegekend en van wie de echtgenoot of een ander gezinslid aanspraak op een vervoersvoorziening heeft, of van wie de echtgenoot of een ander gezinslid om een andere reden dan ziekte of gebrek is aangewezen op het gebruik van een vervoermiddel, wordt het percentage, bedoeld in [artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5), vastgesteld op 105%.
+1. Indien de echtgenoot of een ander gezinslid van de persoon die een vervoersvoorziening aanvraagt of aan wie een vervoersvoorziening is toegekend, aanspraak heeft op een vervoersvoorziening of om een andere reden dan ziekte of gebrek is aangewezen op het gebruik van een vervoermiddel, wordt voor de verlening of beëindiging van de tweede in het gezin benodigde vervoersvoorziening het percentage, bedoeld in [artikel 5, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=5), vastgesteld op 105%.
+
+2. Het eerste lid is niet van toepassing indien één van de in het gezin benodigde vervoersvoorzieningen of het naast de vervoersvoorziening benodigde vervoermiddel niet voor ten minste driekwart wordt bekostigd uit het gezinsinkomen.
 
 ##### Artikel 12. Buiten toepassing blijven van inkomensgrens
 
@@ -128,9 +130,9 @@ Voor de persoon die een vervoersvoorziening aanvraagt of aan wie een vervoersvoo
 
 - 3°. een vergoeding van de meerkosten van de aanschaf en het gebruik van een bijzonder type auto die samenhangt met ziekte of gebrek, voorzover deze meerkosten niet meer bedragen dan het verschil tussen de kosten van de aanschaf en het gebruik van een auto die door het UWV wordt beschouwd als een referentie-auto en de kosten van de aanschaf en het gebruik van een auto die door het UWV zou zijn toegekend indien er sprake zou zijn geweest van een bruikleensituatie;
 
-- 4°. de vergoeding van het gebruik van een rolstoeltaxi en die vergoeding niet meer bedraagt dan het verschil tussen het door het UWV vastgestelde normbedrag voor de vergoeding van het gebruik van een rolstoeltaxi en het door het UWV werknemersverzekeringen vastgestelde normbedrag voor de vergoeding van het gebruik van een taxi;
+- 4°. de vergoeding van het gebruik van een rolstoeltaxi die strekt tot verbetering van de leefomstandigheden, en die vergoeding niet meer bedraagt dan het verschil tussen het door het UWV vastgestelde normbedrag voor de vergoeding van het gebruik van een rolstoeltaxi en het door het UWV vastgestelde normbedrag voor de vergoeding van het gebruik van een taxi;
 
-- 5°. de vergoeding van het gebruik van een taxi om de werkplek te kunnen bereiken en die vergoeding niet meer bedraagt het verschil tussen de kosten van het gebruik van een taxi en het door het UWV vastgestelde normbedrag voor het gebruik van een eigen auto;
+- 5°. de vergoeding van het gebruik van een taxi of rolstoeltaxi om de werkplek te kunnen bereiken en die vergoeding niet meer bedraagt dan het verschil tussen de kosten van het gebruik van een taxi of rolstoeltaxi en het door het UWV vastgestelde normbedrag voor het gebruik van een eigen auto;
 
 - 6°. een vergoeding van de kosten die iemand moet maken voor het kunnen volgen van rijlessen in een aangepaste auto en die vergoeding niet meer bedraagt dan het verschil tussen de kosten van het volgen van autorijlessen in een niet aangepaste auto en het volgen van autorijlessen in een aangepaste auto;
 
