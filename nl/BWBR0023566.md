@@ -4,7 +4,7 @@ identifier: "BWBR0023566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-10-09"
-last_updated: "2008-04-02"
+last_updated: "2008-07-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023566"
 soort: "ministeriele-regeling"
@@ -94,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Het subsidieplafond voor het in 2008 verlenen van subsidies voor de productie van hernieuwbare elektriciteit bedraagt € 1328 miljoen.
+Het subsidieplafond voor het in 2008 verlenen van subsidies voor de productie van hernieuwbare elektriciteit bedraagt € 1401 miljoen.
 
 #### § 2.2. Windenergie op land
 
@@ -106,13 +106,13 @@ Het subsidieplafond voor het in 2008 verlenen van subsidies voor de productie va
 
 ##### Artikel 4
 
-1. Het subsidieplafond voor het in de [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2008-04-01&g=2008-04-02), bedoelde periode verlenen van subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2008-04-01&g=2008-04-02), bedraagt € 796 miljoen.
+1. Het subsidieplafond voor het in de [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2008-07-23&g=2008-07-23), bedoelde periode verlenen van subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2008-07-23&g=2008-07-23), bedraagt € 796 miljoen.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 5
 
-Subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2008-04-01&g=2008-04-02), wordt voor een periode van 15 jaar verstrekt.
+Subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2008-07-23&g=2008-07-23), wordt voor een periode van 15 jaar verstrekt.
 
 ##### Artikel 6
 
@@ -120,11 +120,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ##### Artikel 7
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2008-04-01&g=2008-04-02), bedraagt € 0,110 per kWh.
+Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2008-07-23&g=2008-07-23), bedraagt € 0,110 per kWh.
 
 ##### Artikel 8
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2008-04-01&g=2008-04-02), bedraagt € 0,050 per kWh.
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2008-07-23&g=2008-07-23), bedraagt € 0,050 per kWh.
 
 #### § 2.3. Fotovoltaïsche zonnepanelen
 
@@ -136,13 +136,13 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 ##### Artikel 10
 
-1. Het subsidieplafond voor het in de [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2008-04-01&g=2008-04-02), bedoelde periode verlenen van subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2008-04-01&g=2008-04-02), bedraagt € 46 miljoen.
+1. Het subsidieplafond voor het in de [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2008-07-23&g=2008-07-23), bedoelde periode verlenen van subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2008-07-23&g=2008-07-23), bedraagt € 83 miljoen.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 11
 
-Subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2008-04-01&g=2008-04-02), wordt voor een periode van 15 jaar verstrekt.
+Subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2008-07-23&g=2008-07-23), wordt voor een periode van 15 jaar verstrekt.
 
 ##### Artikel 12
 
@@ -150,11 +150,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ##### Artikel 13
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2008-04-01&g=2008-04-02), bedraagt € 0,564 per kWh.
+Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2008-07-23&g=2008-07-23), bedraagt € 0,564 per kWh.
 
 ##### Artikel 14
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2008-04-01&g=2008-04-02), bedraagt € 0,205 per kWh.
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2008-07-23&g=2008-07-23), bedraagt € 0,205 per kWh.
 
 #### § 2.4. Afvalverbranding
 
@@ -166,17 +166,17 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 ##### Artikel 16
 
-Voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-04-01&g=2008-04-02), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
+Voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-07-23&g=2008-07-23), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
 
 ##### Artikel 17
 
-1. Het subsidieplafond voor het in de [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-04-01&g=2008-04-02), bedoelde periode verlenen van subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-04-01&g=2008-04-02), bedraagt € 187 miljoen.
+1. Het subsidieplafond voor het in de [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-07-23&g=2008-07-23), bedoelde periode verlenen van subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-07-23&g=2008-07-23), bedraagt € 187 miljoen.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 18
 
-Subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-04-01&g=2008-04-02), wordt voor een periode van 15 jaar verstrekt.
+Subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-07-23&g=2008-07-23), wordt voor een periode van 15 jaar verstrekt.
 
 ##### Artikel 19
 
@@ -184,7 +184,7 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ##### Artikel 20
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-04-01&g=2008-04-02), bedraagt:
+Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-07-23&g=2008-07-23), bedraagt:
 
 - a. bij een gewogen maandelijks rendement groter dan 22% en kleiner of gelijk aan 23%, € 0,115 per kWh;
 
@@ -208,7 +208,7 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid
 
 ##### Artikel 21
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-04-01&g=2008-04-02), bedraagt € 0,093 per kWh.
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-07-23&g=2008-07-23), bedraagt € 0,093 per kWh.
 
 #### § 2.5. Stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties
 
@@ -220,17 +220,17 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 ##### Artikel 23
 
-Voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-04-01&g=2008-04-02), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
+Voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-07-23&g=2008-07-23), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
 
 ##### Artikel 24
 
-1. Het subsidieplafond voor het in de [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-04-01&g=2008-04-02), bedoelde periode verlenen van subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-04-01&g=2008-04-02), bedraagt € 10 miljoen.
+1. Het subsidieplafond voor het in de [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-07-23&g=2008-07-23), bedoelde periode verlenen van subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-07-23&g=2008-07-23), bedraagt € 10 miljoen.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 25
 
-Subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-04-01&g=2008-04-02), wordt voor een periode van 12 jaar verstrekt.
+Subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-07-23&g=2008-07-23), wordt voor een periode van 12 jaar verstrekt.
 
 ##### Artikel 26
 
@@ -238,11 +238,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ##### Artikel 27
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-04-01&g=2008-04-02), bedraagt € 0,058 per kWh.
+Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-07-23&g=2008-07-23), bedraagt € 0,058 per kWh.
 
 ##### Artikel 28
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-04-01&g=2008-04-02), bedraagt € 0,045 per kWh.
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-07-23&g=2008-07-23), bedraagt € 0,045 per kWh.
 
 #### § 2.6. Biomassa
 
@@ -260,13 +260,13 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 ##### Artikel 30
 
-1. Het subsidieplafond voor het in de [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2008-04-01&g=2008-04-02), bedoelde periode verlenen van subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2008-04-01&g=2008-04-02), bedraagt € 289 miljoen.
+1. Het subsidieplafond voor het in de [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2008-07-23&g=2008-07-23), bedoelde periode verlenen van subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2008-07-23&g=2008-07-23), bedraagt € 325 miljoen.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 31
 
-Subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2008-04-01&g=2008-04-02), wordt voor een periode van 12 jaar verstrekt.
+Subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2008-07-23&g=2008-07-23), wordt voor een periode van 12 jaar verstrekt.
 
 ##### Artikel 32
 
@@ -280,11 +280,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ##### Artikel 33
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2008-04-01&g=2008-04-02), bedraagt € 0,120 per kWh.
+Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2008-07-23&g=2008-07-23), bedraagt € 0,120 per kWh.
 
 ##### Artikel 34
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2008-04-01&g=2008-04-02), bedraagt € 0,045 per kWh.
+De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2008-07-23&g=2008-07-23), bedraagt € 0,045 per kWh.
 
 #### § 3. Hernieuwbaar gas
 
@@ -292,7 +292,7 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 ##### Artikel 35
 
-Het subsidieplafond voor het in 2008 verlenen van subsidies voor de productie van hernieuwbaar gas bedraagt € 16 miljoen.
+Het subsidieplafond voor het in 2008 verlenen van subsidies voor de productie van hernieuwbaar gas bedraagt € 58 miljoen.
 
 #### § 3.2. Stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties
 
@@ -304,17 +304,17 @@ Het subsidieplafond voor het in 2008 verlenen van subsidies voor de productie va
 
 ##### Artikel 37
 
-Voor subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-04-01&g=2008-04-02), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
+Voor subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-07-23&g=2008-07-23), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
 
 ##### Artikel 38
 
-1. Het subsidieplafond voor het in de [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-04-01&g=2008-04-02), bedoelde periode verlenen van subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-04-01&g=2008-04-02), bedraagt € 16 miljoen.
+1. Het subsidieplafond voor het in de [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-07-23&g=2008-07-23), bedoelde periode verlenen van subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-07-23&g=2008-07-23), bedraagt € 16 miljoen.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 39
 
-Subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-04-01&g=2008-04-02), wordt voor een periode van 12 jaar verstrekt.
+Subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-07-23&g=2008-07-23), wordt voor een periode van 12 jaar verstrekt.
 
 ##### Artikel 40
 
@@ -322,11 +322,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ##### Artikel 41
 
-Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), voor subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-04-01&g=2008-04-02), bedraagt € 0,277 per Nm3.
+Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), voor subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-07-23&g=2008-07-23), bedraagt € 0,277 per Nm3.
 
 ##### Artikel 42
 
-De basisgasprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-04-01&g=2008-04-02), bedraagt € 0,140 per Nm3.
+De basisgasprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-07-23&g=2008-07-23), bedraagt € 0,140 per Nm3.
 
 #### § 4. Wijzigingen in andere regelgeving
 
@@ -347,6 +347,70 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing categorieën duurzame en
 ## Bijlage
 
 De emissie-eisen voor productie-installaties waarbij in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-04-01&g=2008-04-02), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-04-01&g=2008-04-02), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2008-04-01&g=2008-04-02) en [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-04-01&g=2008-04-02), van de regeling wordt verwezen naar deze bijlage, luiden als volgt.
+
+- a. Uitstoot van maximaal 200 milligram zwaveldioxide per m3 rookgas, herleid naar een temperatuur van 273 K en een druk van 101,3 kPa, na aftrek van het volume van het erin aanwezige water, berekend als waterdamp.
+
+- b. Uitstoot van maximaal 5 milligram fijn stof per m3 rookgas, herleid naar een temperatuur van 273 K en een druk van 101,3 kPa, na aftrek van het volume van het erin aanwezige water, berekend als waterdamp.
+
+- c. Uitstoot van maximaal 1200 milligram gasvormige en vluchtige organische stoffen uitgedrukt in totaal organische koolstof per m3 rookgas, herleid naar een temperatuur van 273 K en een druk van 101,3 kPa, na aftrek van het volume van het erin aanwezige water, berekend als waterdamp.
+
+- d. Uitstoot van maximaal 40 gram stikstofoxiden per GJ verbrandingswarmte.
+
+De concentratie-eisen betreffen de daggemiddelde waarden met uitzondering van de stikstofoxide -emissie-eis voor de AVI’s. Daarvoor gelden de maandgemiddelde waarden. Bij het bepalen van de maand- en daggemiddelden dient te worden uitgegaan van de aantal dagen en uren die een installatie in werking is. Voor de berekening van de uitstoot van een installatie wordt de massaconcentratie aan zwaveldioxide , gasvormige en vluchtige organische stoffen uitgedrukt in totaal organische koolstof en totaal stof in het rookgas herleid op een rookgas met een volumegehalte aan zuurstof van:
+
+- –. 6 procent, indien het een installatie betreft voor vaste brandstof;
+
+- –. 3 procent, indien het een installaties betreft anders dan vaste brandstof.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 3.3. Biomassa
+
+##### Artikel 42a
+
+1. De Minister verstrekt op aanvraag subsidie aan producenten van hernieuwbaar gas geproduceerd door een productie-installatie voor de productie van hernieuwbaar gas met gebruik van:
+
+- a. biogas uit co-vergisting van dierlijke mest, of
+
+- b. biogas uit vergisting van groente-, fruit- en tuinafval, die voldoet aan de in de bijlage bij deze regeling opgenomen emissie-eisen.
+
+2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ingediend in de periode die aanvangt op de eerste dag van de tweede week na de dag van inwerkingtreding van de regeling tot 1 december 2008.
+
+##### Artikel 42b
+
+1. Het subsidieplafond voor het in de [artikel 42a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.3&artikel=42a&z=2008-07-23&g=2008-07-23), bedoelde periode verlenen van subsidie als bedoeld in [artikel 42a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.3&artikel=42a&z=2008-07-23&g=2008-07-23), bedraagt € 42 miljoen.
+
+2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
+
+##### Artikel 42c
+
+Subsidie als bedoeld in [artikel 42a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.3&artikel=42a&z=2008-07-23&g=2008-07-23), wordt voor een periode van 12 jaar verstrekt.
+
+##### Artikel 42d
+
+Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbaar gas met gebruik van
+
+- a. biogas uit co-vergisting van dierlijke mest, of
+
+- b. biogas uit vergisting van groente-, fruit- en tuinafval,
+
+bedraagt 8000 uren per jaar.
+
+##### Artikel 42e
+
+Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), voor subsidie als bedoeld in [artikel 42a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.3&artikel=42a&z=2008-07-23&g=2008-07-23), bedraagt € 0,44 per Nm3.
+
+##### Artikel 42f
+
+De basisgasprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 42a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.3&artikel=42a&z=2008-07-23&g=2008-07-23), bedraagt € 0,140 per Nm3.
+
+#### § 4. Wijzigingen in andere regelgeving
+
+#### § 5. Slotbepalingen
+
+## Bijlage
+
+De emissie-eisen voor productie-installaties waarbij in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2008-07-23&g=2008-07-23), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2008-07-23&g=2008-07-23), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2008-07-23&g=2008-07-23), [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2008-07-23&g=2008-07-23), en [42a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.3&artikel=42a&z=2008-07-23&g=2008-07-23), van de regeling wordt verwezen naar deze bijlage, luiden als volgt.
 
 - a. Uitstoot van maximaal 200 milligram zwaveldioxide per m3 rookgas, herleid naar een temperatuur van 273 K en een druk van 101,3 kPa, na aftrek van het volume van het erin aanwezige water, berekend als waterdamp.
 
