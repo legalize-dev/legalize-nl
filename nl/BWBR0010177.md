@@ -4,7 +4,7 @@ identifier: "BWBR0010177"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2008-07-25"
-last_updated: "1998-12-30"
+last_updated: "2008-07-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010177"
 soort: "rijkswet"
@@ -50,33 +50,23 @@ Het op 2 oktober 1997 te Amsterdam tot stand gekomen Verdrag van Amsterdam houde
 
 ##### Artikel 2
 
-Met de verklaringen gehecht aan de Slotakte van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010177&artikel=1&z=1998-12-30&g=1998-12-30) genoemde Verdrag wordt ingestemd, voor zover deze een nadere uitleg bevatten van bepalingen van het Verdrag.
+Met de verklaringen gehecht aan de Slotakte van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010177&artikel=1&z=2008-07-25&g=2008-07-25) genoemde Verdrag wordt ingestemd, voor zover deze een nadere uitleg bevatten van bepalingen van het Verdrag.
 
 ##### Artikel 3
 
-1. Een ontwerp van een besluit dat beoogt het Koninkrijk te binden, wordt voordat daaromtrent enigerlei besluitvorming door de Raad overeenkomstig Titel VI van het door het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010177&artikel=1&z=1998-12-30&g=1998-12-30) genoemde Verdrag gewijzigde Verdrag betreffende de Europese Unie plaatsvindt, terstond nadat de tekst van dat ontwerp tot stand is gekomen openbaar gemaakt en aan de Staten-Generaal voorgelegd.
-
-2. Een ontwerp-besluit als bedoeld in het eerste lid kan, in afwijking van het bepaalde in dat lid, ter vertrouwelijke kennisneming door de leden van de Staten-Generaal worden voorgelegd indien buitengewone omstandigheden van dwingende aard het bepaald noodzakelijk maken dat het ontwerp een geheim of vertrouwelijk karakter draagt.
-
-3. Instemming van de Staten-Generaal is vereist voordat de vertegenwoordiger van het Koninkrijk zijn medewerking kan verlenen aan het totstandkomen van een besluit als bedoeld in het eerste lid.
-
-4. Stilzwijgende instemming is verleend indien niet binnen vijftien dagen na overlegging van het ontwerp-besluit aan de Staten-Generaal door of namens een van de Kamers de wens te kennen wordt gegeven dat het ontwerp-besluit de uitdrukkelijke instemming behoeft.
-
-5. Het derde lid is niet van toepassing op de vaststelling van verdragen.
+Vervallen
 
 ##### Artikel 4
 
-1. Het bepaalde in [artikel 3, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010177&artikel=3&z=1998-12-30&g=1998-12-30), is van toepassing op een ontwerp van een besluit krachtens Titel IIIA van het door het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010177&artikel=1&z=1998-12-30&g=1998-12-30) genoemde Verdrag gewijzigde Verdrag tot oprichting van de Europese Gemeenschap dat beoogt het Koninkrijk te binden genomen, voorzover en voor zolang het bepaalde in artikel 73 O, tweede en vierde lid, van deze Titel ten aanzien van dat ontwerp-besluit geen toepassing vindt.
-
-2. Het bepaalde in het eerste lid blijft buiten toepassing met betrekking tot maatregelen welke worden aangenomen door de Raad volgens de procedure als bedoeld in het derde lid van artikel 73 O van het bij het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010177&artikel=1&z=1998-12-30&g=1998-12-30) genoemde Verdrag tot wijziging van het Verdrag tot oprichting van de Europese Gemeenschap.
+Vervallen
 
 ##### Artikel 5
 
-Het bepaalde in [artikel 3, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010177&artikel=3&z=1998-12-30&g=1998-12-30), is van toepassing op een ontwerp van een besluit krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010177&artikel=2&z=1998-12-30&g=1998-12-30), eerste tot en met derde alinea, van het Protocol tot opneming van het Schengen-acquis in het kader van de Europese Unie, welk Protocol behoort bij het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010177&artikel=1&z=1998-12-30&g=1998-12-30) genoemde Verdrag, dat beoogt het Koninkrijk te binden.
+Vervallen
 
 ##### Artikel 6
 
-De overeenkomsten bedoeld in artikel 6 van het Protocol tot opneming van het Schengen-acquis in het kader van de Europese Unie bij het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010177&artikel=1&z=1998-12-30&g=1998-12-30) genoemde Verdrag behoeven niet de goedkeuring van de Staten-Generaal.
+De overeenkomsten bedoeld in artikel 6 van het Protocol tot opneming van het Schengen-acquis in het kader van de Europese Unie bij het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010177&artikel=1&z=2008-07-25&g=2008-07-25) genoemde Verdrag behoeven niet de goedkeuring van de Staten-Generaal.
 
 ##### Artikel 7
 
