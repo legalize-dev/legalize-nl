@@ -4,7 +4,7 @@ identifier: "BWBR0013236"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2008-07-25"
-last_updated: "2001-12-28"
+last_updated: "2008-07-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013236"
 soort: "rijkswet"
@@ -50,25 +50,15 @@ Het op 26 februari 2001 te Nice tot stand gekomen Verdrag van Nice houdende wijz
 
 ##### Artikel 2
 
-Met de verklaringen gehecht aan de Slotakte van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013236&artikel=1&z=2001-12-28&g=2001-12-28) genoemde Verdrag wordt ingestemd, voor zover deze een nadere uitleg bevatten van bepalingen van het Verdrag.
+Met de verklaringen gehecht aan de Slotakte van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013236&artikel=1&z=2008-07-25&g=2008-07-25) genoemde Verdrag wordt ingestemd, voor zover deze een nadere uitleg bevatten van bepalingen van het Verdrag.
 
 ##### Artikel 3
 
-1. Een ontwerp van een besluit dat beoogt het Koninkrijk te binden, wordt voordat daaromtrent enigerlei besluitvorming door de Raad overeenkomstig [Titel VI van het door het in artikel 1 genoemde Verdrag gewijzigde Verdrag betreffende de Europese Unie](onbekend) plaatsvindt, terstond nadat de tekst van dat ontwerp tot stand is gekomen openbaar gemaakt en aan de Staten-Generaal voorgelegd.
-
-2. Een ontwerp-besluit als bedoeld in het eerste lid kan, in afwijking van het bepaalde in dat lid, ter vertrouwelijke kennisneming door de leden van de Staten-Generaal worden voorgelegd indien buitengewone omstandigheden van dwingende aard het bepaald noodzakelijk maken dat het ontwerp een geheim of vertrouwelijk karakter draagt.
-
-3. Instemming van de Staten-Generaal is vereist voordat de vertegenwoordiger van het Koninkrijk zijn medewerking kan verlenen aan het totstandkomen van een besluit als bedoeld in het eerste lid.
-
-4. Stilzwijgende instemming is verleend indien niet binnen vijftien dagen na overlegging van het ontwerp-besluit aan de Staten-Generaal door of namens een van de Kamers de wens te kennen wordt gegeven dat het ontwerp-besluit de uitdrukkelijke instemming behoeft.
-
-5. Het derde lid is niet van toepassing op de vaststelling van verdragen.
+Vervallen
 
 ##### Artikel 4
 
-1. Het bepaalde in [artikel 3, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013236&artikel=3&z=2001-12-28&g=2001-12-28), is van toepassing op een ontwerp van een besluit, genomen krachtens [Titel IV van het door het in artikel 1 genoemde Verdrag gewijzigde Verdrag tot oprichting van de Europese Gemeenschap](onbekend), dat beoogt het Koninkrijk te binden, voorzover dat besluit door de Raad niet wordt aangenomen met toepassing van de procedure, bedoeld in [artikel 251 van het Verdrag tot oprichting van de Europese Gemeenschap](onbekend).
-
-2. Het bepaalde in het eerste lid blijft buiten toepassing met betrekking tot maatregelen welke worden aangenomen door de Raad volgens de procedure, bedoeld in het [derde lid van artikel 67 van het door het in artikel 1 genoemde Verdrag gewijzigde Verdrag tot oprichting van de Europese Gemeenschap](onbekend) en in het Protocol betreffende [artikel 67 van het Verdrag tot oprichting van de Europese Gemeenschap](onbekend), behorend bij het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013236&artikel=1&z=2001-12-28&g=2001-12-28) genoemde Verdrag.
+Vervallen
 
 ##### Artikel 5
 
