@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-06-05"
+last_updated: "2008-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -64,19 +64,15 @@ In deze regeling wordt verstaan onder:
 
 1. Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam is een luchtvaartuig uitgerust met:
 
-- a. een VHF-zend/ontvanginstallatie met een kanaalafstand van 25kHz, geschikt voor omgevingen waar offset-carrier technieken worden toegepast, waarmee een voortdurende tweezijdige radioverbinding kan worden onderhouden met de betrokken luchtverkeersdiensten op de daartoe bestemde frequenties zoals gepubliceerd in de luchtvaartgids;
+- a. een VHF-zend/ontvanginstallatie met een kanaalafstand van 25kHz, geschikt voor omgevingen waar offset-carrier technieken worden toegepast, waarmee een voortdurende tweezijdige radioverbinding kan worden onderhouden met de betrokken verleners van luchtverkeersdiensten op de daartoe bestemde frequenties zoals gepubliceerd in de luchtvaartgids;
 
 - b. een VHF-zend/ontvanginstallatie met een kanaalafstand van 8,33kHz indien IFR-vluchten boven vliegniveau 195 worden uitgevoerd;
 
-- c. een installatie die het mogelijk maakt een VOR te gebruiken, van welke installatie voor het uitvoeren van vluchten op vliegniveau 100 en hoger een dubbele uitvoering nodig is;
+- c. navigatieboordapparatuur waarmee de vlucht kan worden uitgevoerd volgens het operationeel vliegplan waarbij gebruik gemaakt wordt van luchtverkeersroutes en -procedures vastgesteld door de Minister, die voldoet aan de eisen gesteld in bijlage 10, boek I, van het Verdrag inzake de internationale burgerluchtvaart;
 
-- d. een DME;
+- d. een SSR-transponder met mode S/ELS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
 
-- e. een ADF;
-
-- f. een SSR-transponder met mode S/ELS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
-
-- g. indien in door de Minister daartoe aangewezen delen van het luchtruim wordt gevlogen: een SSR-transponder met mode S/EHS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart.
+- e. een SSR transponder met Mode S/EHS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, voor het uitvoeren van vluchten als GAT op vliegniveau 245 of hoger, met een luchtvaartuig met een maximum toegelaten startmassa boven 5700 kg, of een maximum ware luchtsnelheid tijdens de kruisvlucht van meer dan 250 knopen.
 
 2. Het eerste lid, onderdelen a, b, c, d, en e, is niet van toepassing voor staatsluchtvaartuigen, indien deze beschikken over een UHF-zend/ontvangstinstallatie en beschikken over een systeem met een gelijkwaardig veiligheidsniveau als de systemen genoemd in de onderdelen c, d en e.
 
@@ -112,11 +108,11 @@ Voor het uitvoeren van een IFR-vlucht in het RVSM-luchtruim in het vluchtinforma
 
 1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam, behalve in gebieden met de classificatie G beneden 1200 voet AMSL buiten de NSA Amsterdam, is een luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS of 4096 codemogelijkheden in mode A met automatische hoogterapportering in mode C, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
 
-- a. uitgerust met een SSR-transponder met mode S/⁠ELS, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, of
+- a. uitgerust met een SSR-transponder met mode S/ELS, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, of
 
 - b. indien het eerste bewijs van luchtwaardigheid met betrekking tot het desbetreffende luchtvaartuig is afgegeven na 30 maart 2005, uitgerust met een SSR-transponder met mode S/ELS, die voldoet aan de eisen bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart.
 
-2. Het eerste lid is niet van toepassing op een zweefvliegtuig, zeilvliegtuig of schermvliegtuig in de door de Minister in overeenstemming met de Minister van Defensie als uitzonderingsgebieden aangewezen bijzondere luchtverkeersgebieden, waarbinnen het gebruik van een SSR-transponder voor die luchtvaartuigen niet nodig is.
+2. Het eerste lid is niet van toepassing op een zweefvliegtuig, zeilvliegtuig, schermvliegtuig of ballon tenzij een zweefvliegtuig, zeilvliegtuig, schermvliegtuig of ballon zich bevindt in de door de Minister in overeenstemming met de Minister van Defensie voor transpondergebruik aangewezen bijzondere luchtverkeersgebieden als bedoeld in de [Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899).
 
 #### Gebruik van transponders
 
@@ -128,43 +124,43 @@ Voor het uitvoeren van een vlucht in het vluchtinformatiegebied Amsterdam wordt 
 
 - b. behalve in geval van nood, bij verlies van tweezijdige radioverbinding of indien het luchtvaartuig is onderworpen aan wederrechtelijke inmenging, wordt door de gezagvoerder de hoogteuitlezing in mode C aangezet, en
 
-- 1°. de mode A code geselecteerd die individueel is verstrekt door de betrokken luchtverkeersdienst waarmee contact wordt onderhouden,
+- 1°. de mode A code geselecteerd die individueel is verstrekt door de betrokken verlener van luchtverkeersdiensten waarmee contact wordt onderhouden,
 
 - 2°. de transponder aangezet en de mode A code geselecteerd in overeenstemming met de regionale burgerluchtvaartovereenkomst, of
 
-- 3°. bij afwezigheid van aanwijzingen van de betrokken luchtverkeersdienst en regionale burgerluchtvaartovereenkomst mode A code 2000 ingesteld, tenzij door de betreffende luchtverkeersdienst een andere opdracht is verstrekt.
+- 3°. bij afwezigheid van aanwijzingen van de betrokken verlener van luchtverkeersdiensten en regionale burgerluchtvaartovereenkomst mode A code 2000 ingesteld, tenzij door de betreffende verlener van luchtverkeersdiensten een andere opdracht is verstrekt.
 
-- c. indien de luchtverkeersdienst vraagt de mogelijkheden van de aan boord aanwezige SSR-transponder te specificeren, geeft de gezagvoerder van het luchtvaartuig dit aan door de letters te gebruiken die voor dat doel zijn omschreven bij punt 10 van het vliegplanformulier bedoeld in [artikel 3, eerste lid, van de Regeling vliegplannen](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3);
+- c. indien de verlener van luchtverkeersdiensten vraagt de mogelijkheden van de aan boord aanwezige SSR-transponder te specificeren, geeft de gezagvoerder van het luchtvaartuig dit aan door de letters te gebruiken die voor dat doel zijn omschreven bij punt 10 van het vliegplanformulier bedoeld in [artikel 3, eerste lid, van de Regeling vliegplannen](https://wetten.overheid.nl/jci1.3:c:BWBR0009900&artikel=3);
 
-- d. indien de luchtverkeersdienst middels de term `confirm squawk' vraagt om de geselecteerde code te bevestigen, verifieert de gezagvoerder de code op de SSR-transponder, stelt zo nodig de toegewezen code opnieuw in, en bevestigt de luchtverkeersdienst de geselecteerde code zoals weergegeven op de SSR-transponder;
+- d. indien de verlener van luchtverkeersdiensten middels de term `confirm squawk' vraagt om de geselecteerde code te bevestigen, verifieert de gezagvoerder de code op de SSR-transponder, stelt zo nodig de toegewezen code opnieuw in, en bevestigt de verlener van luchtverkeersdiensten de geselecteerde code zoals weergegeven op de SSR-transponder;
 
-- e. de bijzondere identificatiemogelijkheid SPI of IDENT wordt uitsluitend gebruikt op verzoek van de betrokken luchtverkeersdienst;
+- e. de bijzondere identificatiemogelijkheid SPI of IDENT wordt uitsluitend gebruikt op verzoek van de betrokken verlener van luchtverkeersdiensten;
 
-- f. indien een luchtverkeersdienst om informatie over de vlieghoogte vraagt tijdens mondelinge communicatie, verstrekt de gezagvoerder deze informatie door de vlieghoogte te melden die op zijn hoogtemeter wordt aangegeven en wel in de dichtstbijzijnde eenheid van 30 meter of 100 voet;
+- f. indien een verlener van luchtverkeersdiensten om informatie over de vlieghoogte vraagt tijdens mondelinge communicatie, verstrekt de gezagvoerder deze informatie door de vlieghoogte te melden die op zijn hoogtemeter wordt aangegeven en wel in de dichtstbijzijnde eenheid van 30 meter of 100 voet;
 
 - g. in luchtvaartuigen die zijn uitgerust met een SSR-transponder met mode S met de mogelijkheid om het luchtvaartuig te identificeren, stelt de gezagvoerder die identificatie zodanig in dat deze correspondeert met de identificatie die is gespecificeerd onder punt 7 van het vliegplan of, als geen vliegplan wordt ingediend, het nationaliteits- en inschrijvingskenmerk van het luchtvaartuig;
 
 - h. in geval van nood stelt de gezagvoerder de SSR-transponder in op mode A code 7700, tenzij tevoren een individuele identificatiecode is verstrekt en ingesteld en de gezagvoerder geen bijzondere reden aanwezig acht om mode A code 7700 alsnog in te stellen;
 
-- i. bij verlies van tweezijdige radioverbinding met de betrokken luchtverkeersdienst tijdens een gecontroleerde vlucht stelt de gezagvoerder de transponder in op mode A code 7600;
+- i. bij verlies van tweezijdige radioverbinding met de betrokken verlener van luchtverkeersdiensten tijdens een gecontroleerde vlucht stelt de gezagvoerder de transponder in op mode A code 7600;
 
 - j. indien het luchtvaartuig is onderworpen aan wederrechtelijke inmenging, tracht de gezagvoerder de SSR-transponder in te stellen op mode A code 7500, tenzij de omstandigheden het gebruik van mode A code 7700 rechtvaardigen;
 
-- k. indien een gezagvoerder mode A code 7500 heeft geselecteerd en de luchtverkeersdienst vraagt deze selectie te bevestigen, antwoordt hij afhankelijk van de omstandigheden bevestigend of helemaal niet.
+- k. indien een gezagvoerder mode A code 7500 heeft geselecteerd en de verlener van luchtverkeersdiensten vraagt deze selectie te bevestigen, antwoordt hij afhankelijk van de omstandigheden bevestigend of helemaal niet.
 
 ##### Artikel 9
 
-Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wordt, tenzij door de betreffende luchtverkeersdienst een andere opdracht is verstrekt of afwijkende voorschriften van toepassing zijn door de aard van het luchtvaartuig of het doel van de vlucht, een SSR-transponder als volgt gebruikt:
+Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wordt, tenzij door de betreffende verlener van luchtverkeersdiensten een andere opdracht is verstrekt of afwijkende voorschriften van toepassing zijn door de aard van het luchtvaartuig of het doel van de vlucht, een SSR-transponder als volgt gebruikt:
 
 - a. de SSR-transponder wordt onmiddellijk voorafgaande aan de opstijging in werking gesteld en in werking gehouden tot de landing;
 
-- b. de SSR-transponder wordt ingesteld op de individuele identificatiecode die laatstelijk is verstrekt door de betrokken luchtverkeersdienst;
+- b. de SSR-transponder wordt ingesteld op de individuele identificatiecode die laatstelijk is verstrekt door de betrokken verlener van luchtverkeersdiensten;
 
 - c. zolang geen individuele identificatiecode is verstrekt, wordt mode A code 2000 ingesteld;
 
 - d. indien voor het vertrek blijkt dat de SSR-transponder niet of niet goed werkt en niet voor vertrek kan worden hersteld, wordt
 
-- 1º. de betrokken luchtverkeersdienst hierover zo spoedig mogelijk en bij voorkeur voorafgaand aan het indienen van het vliegplan ingelicht, en
+- 1º. de betrokken verlener van luchtverkeersdiensten hierover zo spoedig mogelijk en bij voorkeur voorafgaand aan het indienen van het vliegplan ingelicht, en
 
 - 2º. een vliegplan ingediend met als bestemming het dichtstbijzijnde geschikte luchtvaartterrein waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10;
 
@@ -172,7 +168,7 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 - f. na de landing al het mogelijke wordt verricht om de SSR-transponder te laten herstellen of vervangen voor de volgende vlucht; g. Indien herstel of vervanging ter plaatse niet mogelijk is, wordt
 
-- 1º. de betrokken luchtverkeersdienst hierover zo spoedig mogelijk en bij voorkeur voorafgaand aan het indienen van het vliegplan ingelicht, en
+- 1º. de betrokken verlener van luchtverkeersdiensten hierover zo spoedig mogelijk en bij voorkeur voorafgaand aan het indienen van het vliegplan ingelicht, en
 
 - 2º. een vliegplan ingediend met als bestemming het dichtstbijzijnde geschikte luchtvaartterrein waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10.
 
@@ -180,7 +176,7 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam zijn de volgende voorschriften voor het gebruik van een SSR-transponder van toepassing: a. het gebruik van een SSR-transponder met de mode S of 4096 codemogelijkheden in mode A met automatische hoogterapportering in mode C is verplicht in het luchtruim met de classificatie A, B, C, D, E of F en in de NSA Amsterdam; b. mode A code 7000 wordt ingesteld.
 
-2. De verplichtingen, bedoeld in het eerste lid, zijn niet van toepassing wanneer door de betreffende luchtverkeersdienst een andere opdracht is verstrekt of afwijkende voorschriften van toepassing zijn door de aard van het luchtvaartuig of het doel van de vlucht.
+2. De verplichtingen, bedoeld in het eerste lid, zijn niet van toepassing wanneer door de betreffende verlener van luchtverkeersdiensten een andere opdracht is verstrekt of afwijkende voorschriften van toepassing zijn door de aard van het luchtvaartuig of het doel van de vlucht.
 
 ##### Artikel 11
 
@@ -218,11 +214,13 @@ Vervallen
 
 7. Voor luchtvaartuigen die een 24-bit luchtvaartuigadres voor andere doeleinden in gebruik hebben, wordt dit adres gebruikt voor de bij het luchtvaartuig behorende ELT’s.
 
+8. Details ten behoeve van de registratie worden middels een AIC als bedoeld in [artikel 1 van de Regeling Burgerluchtvaartinlichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&artikel=1) of middels de website van de Inspectie Verkeer en Waterstaat bekend gesteld.
+
 #### Strafbepaling
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2008-03-31&g=2008-06-05) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2008-07-26&g=2008-07-26) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
