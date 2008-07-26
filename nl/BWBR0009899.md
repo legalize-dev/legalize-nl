@@ -4,7 +4,7 @@ identifier: "BWBR0009899"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-21"
-last_updated: "2008-07-04"
+last_updated: "2008-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009899"
 soort: "ministeriele-regeling"
@@ -122,7 +122,7 @@ De instantie, belast met het geven van AFIS, verstrekt in ieder geval de volgend
 
 - f. Soesterberg TMA.
 
-3. De volgende gebieden worden lateraal en verticaal begrensd als aangegeven in de [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=B&z=2008-03-13&g=2008-07-04), onder verwijzing naar de bladzijden in de luchtvaartgids, volume I, hoofdstuk ENR2 en 6, waar deze luchtverkeersleidingsgebieden worden gepubliceerd:
+3. De volgende gebieden worden lateraal en verticaal begrensd als aangegeven in de [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=B&z=2008-07-26&g=2008-07-26), onder verwijzing naar de bladzijden in de luchtvaartgids, volume I, hoofdstuk ENR2 en 6, waar deze luchtverkeersleidingsgebieden worden gepubliceerd:
 
 - a. Amsterdam UTA;
 
@@ -140,7 +140,7 @@ De instantie, belast met het geven van AFIS, verstrekt in ieder geval de volgend
 
 - h. Eelde TMA.
 
-4. De volgende gebieden worden lateraal en verticaal begrensd als aangegeven in de [bijlage B1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=B1&z=2008-03-13&g=2008-07-04):
+4. De volgende gebieden worden lateraal en verticaal begrensd als aangegeven in de [bijlage B1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=B1&z=2008-07-26&g=2008-07-26):
 
 - a. Nieuw Milligen CTA Noord;
 
@@ -152,13 +152,13 @@ De instantie, belast met het geven van AFIS, verstrekt in ieder geval de volgend
 
 ##### Artikel 3. Luchtverkeersroutes
 
-1. De luchtverkeersroutes, alsmede de per route geldende gebruiksbeperkingen in de Amsterdam FIR worden vastgesteld als aangegeven in de [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=C&z=2008-03-13&g=2008-07-04), onder verwijzing naar de bladzijden in de luchtvaartgids, volume I, hoofdstuk ENR 3 en 6.
+1. De luchtverkeersroutes, alsmede de per route geldende gebruiksbeperkingen in de Amsterdam FIR worden vastgesteld als aangegeven in de [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=C&z=2008-07-26&g=2008-07-26), onder verwijzing naar de bladzijden in de luchtvaartgids, volume I, hoofdstuk ENR 3 en 6.
 
-2. Binnen de Shaded Area kunnen bij overeenkomst als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=17&z=2008-03-13&g=2008-07-04) tussen AOCS Nieuw Milligen en ACC Amsterdam respectievelijk UAC Maastricht afspraken worden gemaakt over de uitvoering van militaire vluchten.
+2. Binnen de Shaded Area kunnen bij overeenkomst als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=17&z=2008-07-26&g=2008-07-26) tussen AOCS Nieuw Milligen en ACC Amsterdam respectievelijk UAC Maastricht afspraken worden gemaakt over de uitvoering van militaire vluchten.
 
 ##### Artikel 4. Helicopter main routes, helicopter protected zones en helicopter traffic zones
 
-De HMR’s, de HPZ’s en de HTZ’s binnen de Amsterdam FIR, het gedeelte van de London FIR en de Scottisch FIR, waarvoor luchtverkeersdienstverlening gedelegeerd is aan Nederland, worden vastgesteld als aangegeven in de [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=D&z=2008-03-13&g=2008-07-04), onder verwijzing naar de bladzijde in de luchtvaartgids, volume 1, hoofdstuk ENR 3 en 6, waar deze worden gepubliceerd.
+De HMR’s, de HPZ’s en de HTZ’s binnen de Amsterdam FIR, het gedeelte van de London FIR en de Scottisch FIR, waarvoor het verlenen van luchtverkeersdiensten gedelegeerd is aan Nederland, worden vastgesteld als aangegeven in de [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=D&z=2008-07-26&g=2008-07-26), onder verwijzing naar de bladzijde in de luchtvaartgids, volume 1, hoofdstuk ENR 3 en 6, waar deze worden gepubliceerd.
 
 ##### Artikel 5. Gecontroleerde luchtvaartterreinen en plaatselijke luchtverkeersleidingsgebieden
 
@@ -196,23 +196,23 @@ De HMR’s, de HPZ’s en de HTZ’s binnen de Amsterdam FIR, het gedeelte van d
 
 3. Als plaatselijk luchtverkeersleidingsgebied zijn tevens aangewezen het boven Nederlands grondgebied gelegen deel van de Niederrhein CTR, en de Kleine-Brogel CTR.
 
-4. De plaatselijke luchtverkeersleidingsgebieden worden vastgesteld als aangegeven in de [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=E&z=2008-03-13&g=2008-07-04), onder verwijzing naar bladzijde ENR 6-2.1 van de luchtvaartgids.
+4. De plaatselijke luchtverkeersleidingsgebieden worden vastgesteld als aangegeven in de [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=E&z=2008-07-26&g=2008-07-26), onder verwijzing naar bladzijde ENR 6-2.1 van de luchtvaartgids.
 
-5. De in het tweede en derde lid genoemde gebieden, met uitzondering van Soesterberg CTR, worden lateraal en verticaal begrensd als aangegeven in de [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=E&z=2008-03-13&g=2008-07-04), onder verwijzing naar de bladzijden in de luchtvaartgids, volume I, hoofdstuk EHAM AD, EHRD AD, EHGG AD, EHBK AD, en MIL AD 2, waar deze plaatselijke luchtverkeersleidingsgebieden worden gepubliceerd.
+5. De in het tweede en derde lid genoemde gebieden, met uitzondering van Soesterberg CTR, worden lateraal en verticaal begrensd als aangegeven in de [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=E&z=2008-07-26&g=2008-07-26), onder verwijzing naar de bladzijden in de luchtvaartgids, volume I, hoofdstuk EHAM AD, EHRD AD, EHGG AD, EHBK AD, en MIL AD 2, waar deze plaatselijke luchtverkeersleidingsgebieden worden gepubliceerd.
 
 6. Soesterberg CTR wordt lateraal en verticaal begrensd als aangegeven in de bijlage E1.
 
-##### Artikel 6. Luchtverkeersdienstverlening in een plaatselijk luchtverkeersleidingsgebied buiten de openstellingsuren van een gecontroleerd luchtvaartterrein
+##### Artikel 6. Het verlenen van luchtverkeersdiensten in een plaatselijk luchtverkeersleidingsgebied buiten de openstellingsuren van een gecontroleerd luchtvaartterrein
 
-Buiten de openstellingsuren van een gecontroleerd luchtvaartterrein is de uitoefening van de luchtverkeersdienstverlening met betrekking tot niet-luchtvaartterreinverkeer in een plaatselijk luchtverkeersleidingsgebied overgedragen aan een bij overeenkomst bepaalde luchtverkeersleidingsdienst, die wordt bekend gesteld in de luchtvaartgids.
+Buiten de openstellingsuren van een gecontroleerd luchtvaartterrein is het verlenen van luchtverkeersdiensten met betrekking tot niet-luchtvaartterreinverkeer in een plaatselijk luchtverkeersleidingsgebied overgedragen aan een bij overeenkomst bepaalde verlener van luchtverkeersdiensten, die wordt bekend gesteld in de luchtvaartgids.
 
 ##### Artikel 7. Aerodrome Trafffic Zones op militaire luchtvaartterreinen
 
 1. Buiten de openstellingsuren van een gecontroleerd militair luchtvaartterrein is het gebied met een straal van twee zeemijlen (3.70 km) rond het middelpunt van het plaatselijk luchtverkeersleidingsgebied, tot een hoogte van 450 m (1500 ft) AAL, aangewezen als bijzonder luchtverkeersgebied ter bescherming van het luchtvaartterreinverkeer. Dit gebied wordt aangeduid als ATZ voorafgegaan door de naam van het luchtvaartterrein.
 
-2. De ATZ’s, bedoeld in het eerste lid, worden vastgesteld als aangegeven in de [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=F&z=2008-03-13&g=2008-07-04), onder verwijzing naar de bladzijden in de luchtvaartgids, volume I, hoofdstuk ENR 5.
+2. De ATZ’s, bedoeld in het eerste lid, worden vastgesteld als aangegeven in de [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=F&z=2008-07-26&g=2008-07-26), onder verwijzing naar de bladzijden in de luchtvaartgids, volume I, hoofdstuk ENR 5.
 
-3. De in het eerste en tweede lid genoemde gebieden worden lateraal en verticaal begrensd als aangegeven in de [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=F&z=2008-03-13&g=2008-07-04), onder verwijzing naar de bladzijden in de luchtvaartgids, volume I, hoofdstuk ENR 5, waar deze ATZ’s worden gepubliceerd.
+3. De in het eerste en tweede lid genoemde gebieden worden lateraal en verticaal begrensd als aangegeven in de [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=F&z=2008-07-26&g=2008-07-26), onder verwijzing naar de bladzijden in de luchtvaartgids, volume I, hoofdstuk ENR 5, waar deze ATZ’s worden gepubliceerd.
 
 4. VFRvluchten in de in het tweede lid bedoelde ATZ’s zijn verboden.
 
@@ -228,7 +228,7 @@ Buiten de openstellingsuren van een gecontroleerd luchtvaartterrein is de uitoef
 
 1. De luchtruimte rond het luchtvaartterrein Budel geldt gedurende de openstellingsuren van dat luchtvaartterrein als ATZ en wordt aangeduid als ATZ Budel.
 
-2. De ATZ Budel is lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G&z=2008-03-13&g=2008-07-04).
+2. De ATZ Budel is lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G&z=2008-07-26&g=2008-07-26).
 
 3. Tijdens de daglichtperiode gelden de volgende regels voor het luchtverkeer dat gebruik maakt van de ATZ Budel:
 
@@ -242,7 +242,7 @@ Buiten de openstellingsuren van een gecontroleerd luchtvaartterrein is de uitoef
 
 - b. alleen VFR-vluchten zijn toegestaan;
 
-- c. in afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=18&z=2008-03-13&g=2008-07-04) zijn de regels volgens luchtverkeersdienstverleningsklasse G van overeenkomstige toepassing.
+- c. in afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=18&z=2008-07-26&g=2008-07-26) zijn de regels volgens luchtverkeersdienstverleningsklasse G van overeenkomstige toepassing.
 
 4. Buiten de daglichtperiode gelden de volgende regels voor het luchtverkeer dat gebruik maakt van de ATZ Budel:
 
@@ -256,19 +256,19 @@ Buiten de openstellingsuren van een gecontroleerd luchtvaartterrein is de uitoef
 
 - b. alleen IFR-vluchten zijn toegestaan;
 
-- c. in afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=18&z=2008-03-13&g=2008-07-04) zijn de regels volgens luchtverkeersdienstverleningsklasse F van overeenkomstige toepassing;
+- c. in afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=18&z=2008-07-26&g=2008-07-26) zijn de regels volgens luchtverkeersdienstverleningsklasse F van overeenkomstige toepassing;
 
-- d. voortdurend wordt de radiofrequentie van de luchtverkeersdienst die ter plaatse vluchtinformatie verstrekt beluisterd en zo nodig wordt een tweezijdige radioverbinding tot stand gebracht met AFIS-unit Budel.
+- d. voortdurend wordt de radiofrequentie van de verlener van luchtverkeersdiensten die ter plaatse vluchtinformatie verstrekt beluisterd en zo nodig wordt een tweezijdige radioverbinding tot stand gebracht met AFIS-unit Budel.
 
-5. De exploitant van luchtvaartterrein Budel zorgt er tijdens de daglichtperiode voor dat gedurende openstellingsuren van het luchtvaartterrein Budel voorafgaand aan de eerste vliegactiviteit en na afloop van de laatste vliegactiviteit door of namens hem contact wordt opgenomen met de plaatselijke luchtverkeersleidingdienst Kleine-Brogel en het MilATCC Nieuw Milligen.
+5. De exploitant van luchtvaartterrein Budel zorgt er tijdens de daglichtperiode voor dat gedurende openstellingsuren van het luchtvaartterrein Budel voorafgaand aan de eerste vliegactiviteit en na afloop van de laatste vliegactiviteit door of namens hem contact wordt opgenomen met de verlener van plaatselijke luchtverkeersleidingsdiensten Kleine-Brogel en het AOCS Nieuw Milligen.
 
-6. De AFIS-unit Budel neemt buiten de daglichtperiode tijdens de openstellingsuren van het luchtvaartterrein Budel voorafgaand aan de eerste vliegactiviteit en na afloop van de laatste vliegactiviteit contact op met de plaatselijke luchtverkeersleidingdienst Kleine-Brogel en het MilATCC Nieuw Milligen.
+6. De AFIS-unit Budel neemt buiten de daglichtperiode tijdens de openstellingsuren van het luchtvaartterrein Budel voorafgaand aan de eerste vliegactiviteit en na afloop van de laatste vliegactiviteit contact op met de verlener van plaatselijke luchtverkeersleidingsdiensten Kleine-Brogel en het AOCS Nieuw Milligen.
 
 ##### Artikel 7b. Aerodrome Traffic Zone (ATZ) op luchtvaartterrein Lelystad
 
 1. De luchtruimte rond het luchtvaartterrein Lelystad geldt gedurende de openstellingsuren van dat luchtvaartterrein als ATZ en wordt aangeduid als ATZ Lelystad.
 
-2. De ATZ Lelystad is lateraal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G&z=2008-03-13&g=2008-07-04).
+2. De ATZ Lelystad is lateraal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G&z=2008-07-26&g=2008-07-26).
 
 3. Tijdens de daglichtperiode gelden de volgende regels voor het luchtverkeer dat gebruik maakt van de ATZ Lelystad:
 
@@ -282,7 +282,7 @@ Buiten de openstellingsuren van een gecontroleerd luchtvaartterrein is de uitoef
 
 - b. alleen VFR-vluchten zijn toegestaan,
 
-- c. voortdurend wordt de radiofrequentie van de luchtverkeersdienst die ter plaatse vluchtinformatie verstrekt beluisterd en zo nodig wordt een tweezijdige radioverbinding tot stand gebracht met de luchtvaartterreininformatieverstrekker ter plaatse.
+- c. voortdurend wordt de radiofrequentie van de verlener van luchtverkeersdiensten die ter plaatse vluchtinformatie verstrekt beluisterd en zo nodig wordt een tweezijdige radioverbinding tot stand gebracht met de luchtvaartterreininformatieverstrekker ter plaatse.
 
 4. Buiten de daglichtperiode gelden de volgende regels voor het luchtverkeer dat gebruik maakt van de ATZ Lelystad:
 
@@ -296,9 +296,9 @@ Buiten de openstellingsuren van een gecontroleerd luchtvaartterrein is de uitoef
 
 - b. alleen IFR-vluchten zijn toegestaan;
 
-- c. in afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=18&z=2008-03-13&g=2008-07-04) zijn de regels volgens luchtverkeersdienstverleningsklasse F van overeenkomstige toepassing;
+- c. in afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=18&z=2008-07-26&g=2008-07-26) zijn de regels volgens luchtverkeersdienstverleningsklasse F van overeenkomstige toepassing;
 
-- d. voortdurend wordt de radiofrequentie van de luchtverkeersdienst die ter plaatse vluchtinformatie verstrekt beluisterd en zo nodig wordt een tweezijdige radioverbinding tot stand gebracht met de AFIS-unit Lelystad.
+- d. voortdurend wordt de radiofrequentie van de verlener van luchtverkeersdiensten die ter plaatse vluchtinformatie verstrekt beluisterd en zo nodig wordt een tweezijdige radioverbinding tot stand gebracht met de AFIS-unit Lelystad.
 
 ##### Artikel 8. Aerodrome Flight Information Zones (AFIZ) op burgerluchtvaartterreinen
 
@@ -308,13 +308,17 @@ Buiten de daglichtperiode gelden de volgende gebieden als AFIZ:
 
 - b. de luchtruimte rond het luchtvaartterrein Lelystad waarvan de grenzen gelijk zijn aan de grenzen van de ATZ Lelystad.
 
-##### Artikel 9. Genofic Area
+##### Artikel 9. Transponder Mandatory Zones (TMZ’s)
 
-Vervallen
+1. Als bijzondere luchtverkeersgebieden, aangeduid als TMZ’s, worden aangewezen de gebieden, bedoeld in [bijlage G1, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G1&z=2008-07-26&g=2008-07-26), waarbij een CTR die zich binnen de laterale grenzen van een TMZ bevindt, niet tot de TMZ wordt gerekend.
+
+2. Onverminderd de in het betrokken luchtruim geldende regels is het voeren van een Mode-S SSR-transponder verplicht voor alle luchtvaartuigen die gebruik maken van een TMZ.
+
+3. Met ingang van 9 april 2009 worden op werkdagen tussen 08:00-16:00 uur lokale tijd de TMZ’s uitgebreid op de wijze bedoeld in [bijlage G1, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G1&z=2008-07-26&g=2008-07-26).
 
 ##### Artikel 10. Luchtverkeersdiensten
 
-De instanties, genoemd in de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.13) en [5.14 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.14), zijn volgens de volgende indeling belast met het geven van luchtverkeersdienstverlening:
+1. De instanties, genoemd in de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.13) en [5.14 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.14), zijn volgens de volgende indeling belast met het geven van luchtverkeersdienstverlening:
 
 | Verantwoordelijke instantie | Soort luchtverkeersdienst | Eenheid |
 | --- | --- | --- |
@@ -360,27 +364,29 @@ De instanties, genoemd in de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:
 | Minister van Defensie | ” | AIS-unit Volkel |
 | Minister van Defensie | ” | AIS-unit Woensdrecht |
 
+2. De instanties, bedoeld in het eerste lid, verlenen luchtverkeersdiensten aan GAT, in overeenstemming met de van toepassing zijnde bepalingen uit de bijlagen 10 en 11 en documenten 4444 en 7030 van het Verdrag inzake de burgerluchtvaart.
+
 ##### Artikel 11. ACC Amsterdam
 
-1. ACC Amsterdam geeft luchtverkeersdienstverlening aan vluchten in de volgende algemene luchtverkeersleidingsgebieden:
+1. ACC Amsterdam verleent luchtverkeersdiensten aan vluchten in de volgende algemene luchtverkeersleidingsgebieden:
 
-- a. Amsterdam UTA, met uitzondering van vluchten waaraan luchtverkeersdienstverlening wordt gegeven door AOCS Nieuw Milligen als bedoeld in [artikel 13, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2008-03-13&g=2008-07-04), door UAC Maastricht als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=12&z=2008-03-13&g=2008-07-04), dan wel door een instantie van een andere staat in de gebieden die zijn aangewezen door de Minister van Verkeer en Waterstaat en de Minister van Defensie;
+- a. Amsterdam UTA, met uitzondering van vluchten waaraan luchtverkeersdienstverlening wordt gegeven door AOCS Nieuw Milligen als bedoeld in [artikel 13, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2008-07-26&g=2008-07-26), door UAC Maastricht als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=12&z=2008-07-26&g=2008-07-26), dan wel door een instantie van een andere staat in de gebieden die zijn aangewezen door de Minister van Verkeer en Waterstaat en de Minister van Defensie;
 
 - b. Amsterdam CTA's Oost, West, Zuid 1 en Zuid 2;
 
 - c. Rotterdam TMA 3.
 
-2. ACC Amsterdam geeft vluchtinformatie en verzorgt alarmering aan vluchten in de Amsterdam FIR buiten luchtverkeersleidingsgebieden, voor zover die luchtverkeersdienstverlening niet is opgedragen aan een andere luchtverkeersleidingsdienst.
+2. ACC Amsterdam geeft vluchtinformatie en verzorgt alarmering aan vluchten in de Amsterdam FIR buiten luchtverkeersleidingsgebieden, voor zover het verlenen van luchtverkeersdiensten niet is opgedragen aan een andere verlener van luchtverkeersdiensten.
 
-3. De taakverdeling tussen ACC Amsterdam en AOCS Nieuw Milligen met betrekking tot luchtverkeersdienstverlening aan vluchten in Amsterdam UTA, als bedoeld in het eerste lid, onder a, houdt voor ACC Amsterdam in dat:
+3. De taakverdeling tussen ACC Amsterdam en AOCS Nieuw Milligen met betrekking tot het verlenen van luchtverkeersdiensten aan vluchten in Amsterdam UTA, als bedoeld in het eerste lid, onder a, houdt voor ACC Amsterdam in dat:
 
-- a. vluchten in de Amsterdam UTA met uitzondering van vluchten binnen de Shaded Area die onder haar verantwoordelijkheid berusten, de luchtverkeersroutes volgen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-03-13&g=2008-07-04);
+- a. vluchten in de Amsterdam UTA met uitzondering van vluchten binnen de Shaded Area die onder haar verantwoordelijkheid berusten, de luchtverkeersroutes volgen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-07-26&g=2008-07-26);
 
-- b. de geldende vliegplangegevens voor de onder a genoemde vluchten tijdig worden verstrekt aan MilATCC Nieuw Milligen;
+- b. de geldende vliegplangegevens voor de onder a genoemde vluchten tijdig worden verstrekt aan AOCS Nieuw Milligen;
 
-- c. ACC Amsterdam bepaalt, met uitzondering van vluchten binnen de Shaded Area, in overeenstemming met MilATCC Nieuw-Milligen het afwijken van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-03-13&g=2008-07-04), genoemde luchtverkeersroutes;
+- c. ACC Amsterdam bepaalt, met uitzondering van vluchten binnen de Shaded Area, in overeenstemming met AOCS Nieuw Milligen het afwijken van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-07-26&g=2008-07-26), genoemde luchtverkeersroutes;
 
-- d. de vluchten, bedoeld in het eerste lid, onder a, en de vluchten binnen de Shaded Area waarvoor de verantwoordelijkheid rust bij MilATCC Nieuw-Milligen worden gesepareerd, zonder enige beïnvloeding van de laatstgenoemde vluchten.
+- d. de vluchten, bedoeld in het eerste lid, onder a, en de vluchten binnen de Shaded Area waarvoor de verantwoordelijkheid rust bij AOCS Nieuw Milligen worden gesepareerd, zonder enige beïnvloeding van de laatstgenoemde vluchten.
 
 4. Behoudens uitzonderingen vermeld in de overeenkomst met AOCS Nieuw Milligen, worden de geldende vliegplangegevens, van vluchten waarvoor de verantwoordelijkheid berust bij ACC Amsterdam, tijdig verstrekt aan MilATCC Nieuw Milligen, ten einde een mogelijke militaire noodzaak tot onderschepping van de betreffende luchtvaartuigen voor identificatiedoeleinden te voorkomen.
 
@@ -388,23 +394,23 @@ De instanties, genoemd in de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 12. UAC Maastricht
 
-1. UAC Maastricht geeft luchtverkeersdienstverlening aan vluchten in de Amsterdam UTA en daarboven, die worden uitgevoerd op of boven vliegniveau 245, met uitzondering van vluchten waaraan luchtverkeersdienstverlening wordt gegeven door AOCS Nieuw Milligen, bedoeld in [artikel 13, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2008-03-13&g=2008-07-04), dan wel door een instantie van een andere staat in de gebieden die zijn aangewezen door de Minister van Verkeer en Waterstaat en de Minister van Defensie.
+1. UAC Maastricht verleent luchtverkeersdiensten aan vluchten in de Amsterdam UTA en daarboven, die worden uitgevoerd op of boven vliegniveau 245, met uitzondering van vluchten waaraan luchtverkeersdiensten worden verleend door AOCS Nieuw Milligen, bedoeld in [artikel 13, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2008-07-26&g=2008-07-26), dan wel door een instantie van een andere staat in de gebieden die zijn aangewezen door de Minister van Verkeer en Waterstaat en de Minister van Defensie.
 
-2. Het gestelde in [artikel 11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=11&z=2008-03-13&g=2008-07-04), met betrekking tot ACC Amsterdam is van overeenkomstige toepassing op UAC Maastricht.
+2. Het gestelde in [artikel 11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=11&z=2008-07-26&g=2008-07-26), met betrekking tot ACC Amsterdam is van overeenkomstige toepassing op UAC Maastricht.
 
 ##### Artikel 13. AOCS Nieuw Milligen
 
-1. AOCS Nieuw Milligen geeft luchtverkeersdienstverlening aan vluchten in de volgende algemene luchtverkeersleidingsgebieden:
+1. AOCS Nieuw Milligen verleent luchtverkeersdiensten aan vluchten in de volgende algemene luchtverkeersleidingsgebieden:
 
-- a. Amsterdam UTA, binnen de Shaded Area, uitsluitend voor wat betreft de vluchten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-03-13&g=2008-07-04);
+- a. Amsterdam UTA, binnen de Shaded Area, uitsluitend voor wat betreft de vluchten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-07-26&g=2008-07-26);
 
-- b. Amsterdam UTA, buiten de Shaded Area, uitsluitend voor wat betreft vluchten die vanwege de aard en de uitrusting van het luchtvaartuig of het doel van de vlucht, de luchtverkeersroutes, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-03-13&g=2008-07-04), niet kunnen of mogen volgen;.
+- b. Amsterdam UTA, buiten de Shaded Area, uitsluitend voor wat betreft vluchten die vanwege de aard en de uitrusting van het luchtvaartuig of het doel van de vlucht, de luchtverkeersroutes, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-07-26&g=2008-07-26), niet kunnen of mogen volgen;
 
 - c. Nieuw Milligen CTA Noord;
 
-- d. Nieuw Milligen TMA ’s, met uitzondering van vluchten waarvoor luchtverkeersdienstverlening wordt verzorgd door de betrokken naderingsluchtverkeersleidingsdienst, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=15&z=2008-03-13&g=2008-07-04).
+- d. Nieuw Milligen TMA’s, met uitzondering van vluchten waaraan luchtverkeersdiensten worden verleend door de betrokken verlener van naderingsluchtverkeersleidingsdiensten, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=15&z=2008-07-26&g=2008-07-26).
 
-2. AOCS Nieuw Milligen geeft vluchtinformatie en alarmering aan militaire vluchten in de Amsterdam FIR met uitzondering van vluchten waarvoor deze dienstverlening is opgedragen aan een andere luchtverkeersleidingsdienst, alsmede aan niet-militaire vluchten beneden de ondergrens en binnen de laterale begrenzing van de Nieuw Milligen TMA’s.
+2. AOCS Nieuw Milligen geeft vluchtinformatie en alarmering aan militaire vluchten in de Amsterdam FIR met uitzondering van vluchten waarvoor deze dienstverlening is opgedragen aan een andere verlener van luchtverkeersdiensten, alsmede aan niet-militaire vluchten beneden de ondergrens en binnen de laterale begrenzing van de Nieuw Milligen TMA’s.
 
 3. De taakverdeling met betrekking tot vluchten in de Amsterdam UTA tussen MilATCC Nieuw Milligen enerzijds en ACC Amsterdam en UAC Maastricht anderzijds, houdt voor AOCS Nieuw Milligen in, dat de vluchten, bedoeld in het eerste lid, onder b, en de vluchten waarvoor de verantwoordelijkheid berust bij ACC Amsterdam of UAC Maastricht worden gesepareerd, zonder enige beïnvloeding van de laatstgenoemde vluchten.
 
@@ -428,23 +434,23 @@ De instanties, genoemd in de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:
 
 4. Ten aanzien van de in het derde lid genoemde luchtvaartuigen maken ACC Amsterdam en AOCS Nieuw Milligen nadere afspraken.
 
-##### Artikel 15. Overdracht van verantwoordelijkheid met betrekking tot luchtverkeersdienstverlening van AOCS Nieuw Milligen aan ACC Amsterdam/UAC Maastricht
+##### Artikel 15. Overdracht van verantwoordelijkheid met betrekking tot het verlenen van luchtverkeersdiensten van AOCS Nieuw Milligen aan ACC Amsterdam/UAC Maastricht
 
-1. De verantwoordelijkheid van AOCS Nieuw Milligen voor de onderlinge separatie, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2008-03-13&g=2008-07-04), kan in onderlinge overeenstemming met betrekking tot de gehele Amsterdam UTA of een deel daarvan worden overgedragen aan ACC Amsterdam of UAC Maastricht, voor de duur van een overeengekomen periode met geringe intensiteit van militair luchtverkeer.
+1. De verantwoordelijkheid van AOCS Nieuw Milligen voor de onderlinge separatie, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2008-07-26&g=2008-07-26), kan in onderlinge overeenstemming met betrekking tot de gehele Amsterdam UTA of een deel daarvan worden overgedragen aan ACC Amsterdam of UAC Maastricht, voor de duur van een overeengekomen periode met geringe intensiteit van militair luchtverkeer.
 
-2. De verantwoordelijkheid van AOCS Nieuw Milligen in de gebieden, bedoeld in [artikel 13, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2008-03-13&g=2008-07-04), kan in onderling overleg met betrekking tot die gebieden of een deel daarvan worden overgedragen aan ACC Amsterdam voor de duur van een overeengekomen periode met geringe intensiteit van militair luchtverkeer.
+2. De verantwoordelijkheid van AOCS Nieuw Milligen in de gebieden, bedoeld in [artikel 13, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2008-07-26&g=2008-07-26), kan in onderling overleg met betrekking tot die gebieden of een deel daarvan worden overgedragen aan ACC Amsterdam voor de duur van een overeengekomen periode met geringe intensiteit van militair luchtverkeer.
 
-3. Tijdens de overeengekomen periode verstrekt AOCS Nieuw Milligen de geldende vliegplangegevens van onder haar verantwoordelijkheid berustende militaire vluchten aan ACC Amsterdam of UAC Maastricht. Een klaring houdende afwijking van reeds verstrekte gegevens wordt uitsluitend verstrekt in overeenstemming met het betrokken luchtverkeersleidingscentrum.
+3. Tijdens de overeengekomen periode verstrekt AOCS Nieuw Milligen de geldende vliegplangegevens van onder haar verantwoordelijkheid berustende militaire vluchten aan ACC Amsterdam of UAC Maastricht. Een klaring houdende afwijking van reeds verstrekte gegevens wordt uitsluitend verstrekt in overeenstemming met de betrokken verlener van luchtverkeersdiensten.
 
 4. Tijdens de overeengekomen periode separeert ACC Amsterdam of UAC Maastricht de vluchten die onder haar verantwoordelijkheid berusten enerzijds en de vluchten waarvoor de verantwoordelijkheid berust bij AOCS Nieuw Milligen anderzijds, zonder enige beïnvloeding van de laatstgenoemde vluchten.
 
-5. Tijdens de overeengekomen periode bepaalt ACC Amsterdam of UAC Maastricht het afwijken van de luchtverkeersroutes als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-03-13&g=2008-07-04).
+5. Tijdens de overeengekomen periode bepaalt ACC Amsterdam of UAC Maastricht het afwijken van de luchtverkeersroutes als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-07-26&g=2008-07-26).
 
 ##### Artikel 16. Plaatselijke en naderingsluchtverkeersleidingsdiensten
 
-1. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=10&z=2008-03-13&g=2008-07-04) genoemde naderingsluchtverkeersleidingsdiensten geven luchtverkeersdienstverlening in de in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=B&z=2008-03-13&g=2008-07-04) en B1 bedoelde naderingsluchtverkeersleidingsgebieden, aan vluchten die aankomen op, dan wel vertrekken van de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2008-03-13&g=2008-07-04), bedoelde luchtvaartterreinen, met uitzondering van die vluchten waaraan luchtverkeersdienstverlening wordt gegeven door een andere luchtverkeersleidingsdienst.
+1. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=10&z=2008-07-26&g=2008-07-26) genoemde verleners van naderingsluchtverkeersleidingsdiensten verlenen luchtverkeersdiensten in de in de [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=B&z=2008-07-26&g=2008-07-26) en [B1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=B1&z=2008-07-26&g=2008-07-26) bedoelde naderingsluchtverkeersleidingsgebieden aan vluchten die aankomen op, dan wel vertrekken van de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2008-07-26&g=2008-07-26), bedoelde luchtvaartterreinen, met uitzondering van die vluchten waaraan luchtverkeersdiensten worden verleend door een andere verlener van luchtverkeersdiensten.
 
-2. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=10&z=2008-03-13&g=2008-07-04) genoemde bedoelde plaatselijke luchtverkeersleidingsdiensten geven luchtverkeersdienstverlening aan vluchten in de in [bijlagen E](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=E&z=2008-03-13&g=2008-07-04) en E1 bedoelde plaatselijke luchtverkeersleidingsgebieden, met uitzondering van die vluchten waaraan luchtverkeersdienstverlening wordt gegeven door een andere luchtverkeersleidingsdienst.
+2. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=10&z=2008-07-26&g=2008-07-26) genoemde verleners van plaatselijke luchtverkeersleidingsdiensten verlenen luchtverkeersleidingsdiensten aan vluchten in de in de [bijlagen E](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=E&z=2008-07-26&g=2008-07-26) en [E1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=E1&z=2008-07-26&g=2008-07-26) bedoelde plaatselijke luchtverkeersleidingsgebieden, met uitzondering van die vluchten waaraan luchtverkeersdiensten worden verleend door een andere verlener van luchtverkeersdiensten.
 
 3. APP Maastricht geeft vluchtinformatie en alarmering aan niet-militaire vluchten beneden de ondergrens en binnen de laterale grenzen van de Maastricht TMA’s.
 
@@ -452,11 +458,11 @@ De instanties, genoemd in de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 17. Overdracht van verantwoordelijkheid
 
-1. De overdracht van verantwoordelijkheid tussen luchtverkeersleidingsdiensten voor een vlucht en onderlinge (tijdelijke) overdracht van verantwoordelijkheid voor een groep vluchten of voor luchtverkeersleidingsgebieden in de Amsterdam FIR wordt uitgevoerd in overeenstemming met een door de hoofden van de betrokken luchtverkeersleidingsdiensten gesloten overeenkomst; zodanige overeenkomst behoeft de goedkeuring van de LVNL en de Minister van Defensie, ieder voor zoveel hem aangaat.
+1. De overdracht van verantwoordelijkheid tussen verleners van luchtverkeersdiensten voor een vlucht en onderlinge (tijdelijke) overdracht van verantwoordelijkheid voor een groep vluchten of voor luchtverkeersleidingsgebieden in de Amsterdam FIR wordt uitgevoerd in overeenstemming met een door de hoofden van de betrokken verleners van luchtverkeersdiensten gesloten overeenkomst; zodanige overeenkomst behoeft de goedkeuring van de LVNL en de Minister van Defensie, ieder voor zoveel hem aangaat.
 
-2. Tussen twee luchtverkeersleidingscentra vindt de overdracht van verantwoordelijkheid met betrekking tot een vlucht plaats bij het passeren van de gemeenschappelijke grens tussen de desbetreffende luchtverkeersleidingsgebieden, of op zodanige andere positie, tijd of vlieghoogte als is overeengekomen tussen de twee luchtverkeersleidingsdiensten.
+2. Tussen twee verleners van luchtverkeersleidingsdiensten vindt de overdracht van verantwoordelijkheid met betrekking tot een vlucht plaats bij het passeren van de gemeenschappelijke grens tussen de desbetreffende luchtverkeersleidingsgebieden, of op zodanige andere positie, tijd of vlieghoogte als is overeengekomen tussen de twee verleners van luchtverkeersdiensten.
 
-3. Tussen een luchtverkeersleidingscentrum en een naderingsluchtverkeersleidingsdienst, een naderingsluchtverkeersleidingsdienst en een plaatselijke luchtverkeersleidingsdienst, een luchtverkeersleidingscentrum en een plaatselijke luchtverkeersleidingsdienst, vindt de overdracht van verantwoordelijkheid met betrekking tot een vlucht plaats op een wijze zoals is overeengekomen tussen een luchtverkeersleidingscentrum en een luchtverkeersleidingsdienst of tussen de luchtverkeersleidingsdiensten onderling.
+3. De overdracht van verantwoordelijkheid met betrekking tot een vlucht tussen een verlener van luchtverkeersleidingsdiensten, een verlener van naderingsluchtverkeersleidingsdiensten of een verlener van plaatselijke luchtverkeersleidingsdiensten vindt plaats op een wijze zoals overeengekomen tussen de betrokken verleners.
 
 ##### Artikel 18. Classificatie van Luchtverkeersdienstverleningsgebieden
 
@@ -508,7 +514,7 @@ de verticale afstand tussen het luchtvaartuig en de wolken is gelijk aan of grot
 
 ##### Artikel 21
 
-In afwijking van [artikel 43, eerste lid, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=43), worden ten behoeve van luchtvaartuigen die, tijdens een VFR-vlucht, landen op of opstijgen van een militair luchtvaartterrein binnen de ATZ’s als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7&z=2008-03-13&g=2008-07-04), van deze regeling, de volgende waarden vastgesteld:
+In afwijking van [artikel 43, eerste lid, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=43), worden ten behoeve van luchtvaartuigen die, tijdens een VFR-vlucht, landen op of opstijgen van een militair luchtvaartterrein binnen de ATZ’s als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7&z=2008-07-26&g=2008-07-26), van deze regeling, de volgende waarden vastgesteld:
 
 - a. de wolkenbasis is gelijk aan of groter dan 305 m (1000 ft), of
 
@@ -532,7 +538,7 @@ langs de Veluwemeerkust naar 52°22’05”NB 005°33’50”OL;
 
 ##### Artikel 23. Wijzigingen luchtvaartgids
 
-Van wijzigingen in de bladzijden van de luchtvaartgids genoemd in de [artikelen 1, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=1&z=2008-03-13&g=2008-07-04), [2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2008-03-13&g=2008-07-04)[3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-03-13&g=2008-07-04), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=4&z=2008-03-13&g=2008-07-04), [5, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2008-03-13&g=2008-07-04), [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7&z=2008-03-13&g=2008-07-04), en [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=23a&z=2008-03-13&g=2008-07-04) wordt mededeling gedaan in de Staatscourant.
+Van wijzigingen in de bladzijden van de luchtvaartgids genoemd in de [artikelen 1, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=1&z=2008-07-26&g=2008-07-26), [2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2008-07-26&g=2008-07-26)[3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-07-26&g=2008-07-26), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=4&z=2008-07-26&g=2008-07-26), [5, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2008-07-26&g=2008-07-26), [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7&z=2008-07-26&g=2008-07-26), en [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=23a&z=2008-07-26&g=2008-07-26) wordt mededeling gedaan in de Staatscourant.
 
 #### Slotbepalingen
 
@@ -785,25 +791,35 @@ b. Soesterberg CTR heeft een ondergrens vanaf de grond en een bovengrens van 250
 
 c. Het luchtruim binnen Soesterberg CTR heeft classificatie C.
 
-## Bijlage E. , behorende bij [artikel 5, derde, vierde en vijfdelid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2008-03-13&g=2008-07-04), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=16&z=2008-03-13&g=2008-07-04), van de Regeling luchtverkeersdienstverlening
+## Bijlage D. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=4&z=2008-07-26&g=2008-07-26) van de Regeling luchtverkeersdienstverlening
 
-| AD 2.EHAM-8 | d.d. 13 maart 2008 | EHAM AD 2.17 ATS Airspace |
+| ENR 3.4-1 | d.d. 23 november 2006 | Helicopter Routes |
+| --- | --- | --- |
+| ENR 3.4-2 | d.d. 20 december 2007 | Helicopter Routes |
+| ENR 3.4-3/8 | d.d. 22 november 2007 | Helicopter Routes |
+| ENR 3.4-9/10 | d.d. 20 december 2007 | Helicopter Routes |
+| ENR 3.4-11/20 | d.d. 22 november 2007 | Helicopter Routes |
+| ENR 3.4-21/22 | d.d. 23 november 2006 | Helicopter Routes |
+| ENR 3.4-23 | d.d. 10 april 2008 | Helicopter Routes |
+| ENR 6-3.3 | d.d. 5 juni 2008 | North Sea Operations |
+
+## Bijlage E. behorende bij de [artikelen 5, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2008-07-26&g=2008-07-26), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=16&z=2008-07-26&g=2008-07-26), van de Regeling luchtverkeersdienstverlening
+
+| AD 2.EHAM-8 | d.d. 10 april 2008 | EHAM AD 2.17 ATS Airspace |
 | --- | --- | --- |
 | AD 2.EHBK-5 | d.d. 14 februari 2008 | EHBK AD 2.17 ATS Airspace |
-| AD 2.EHGG-5 | d.d. 14 februari 2008 | EHGG AD 2.17 ATS Airspace |
-| AD 2.EHRD-5 | d.d. 14 februari 2008 | EHRD AD 2.17 ATS Airspace |
-| ENR 2.1-9 | d.d. 30 augustus 2007 | Deelen control Zone |
-| ENR 2.1-9 | d.d. 30 augustus 2007 | De Peel control Zone |
-| ENR 2.1-9 | d.d. 30 augustus 2007 | Gilze-Rijen control Zone |
-| ENR 2.1-10 | d.d. 20 december 2007 | Leeuwarden control Zone |
-| ENR 2.1-10 | d.d. 20 december 2007 | Soesterberg control Zone |
-| ENR 2.1-10 | d.d. 20 december 2007 | Valkenburg control Zone |
-| ENR 2.1-10 | d.d. 20 december 2007 | Volkel control Zone |
-| ENR 2.1-10 | d.d. 17 januari 2008 | Woensdrecht control Zone |
-| ENR 2.1-11 | d.d. 17 januari 2008 | Kleine-Brogel control Zone 2 |
-| ENR 2.1-11 | d.d. 17 januari 2008 | Niederrhein control Zone |
-
-## Bijlage E1. behorende bij de [artikelen 5, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2008-03-13&g=2008-07-04), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=16&z=2008-03-13&g=2008-07-04)
+| AD 2.EHGG-5 | d.d. 10 april 2008 | EHGG AD 2.17 ATS Airspace |
+| AD 2.EHRD-5 | d.d. 8 mei 2008 | EHRD AD 2.17 ATS Airspace |
+| ENR 2.1-10 | d.d. 10 april 2008 | Deelen control Zone |
+| ENR 2.1-10 | d.d. 10 april 2008 | De Peel control Zone |
+| ENR 2.1-11 | d.d. 10 april 2008 | Gilze-Rijen control Zone |
+| ENR 2.1-11 | d.d. 10 april 2008 | Leeuwarden control Zone |
+| ENR 2.1-11 | d.d. 10 april 2008 | Soesterberg control Zone |
+| ENR 2.1-11 | d.d. 10 april 2008 | Valkenburg control Zone |
+| ENR 2.1-12 | d.d. 10 april 2008 | Volkel control Zone |
+| ENR 2.1-12 | d.d. 10 april 2008 | Woensdrecht control Zone |
+| ENR 2.1-12 | d.d. 10 april 2008 | Kleine-Brogel control Zone 2 |
+| ENR 2.1-12 | d.d. 10 april 2008 | Niederrhein control Zone |
 
 ##### 1. ATZ Budel
 
@@ -937,16 +953,72 @@ Behorende bij de artikelen 5, vierde en vijfde lid, en 16, tweede lid, van de Re
 | ENR 3.2-56 | d.d. 7 juni 2007 | Upper ATS Routes |
 | ENR 6-3.1 | d.d. 13 maart 2008 | ATS Routes |
 
-## Bijlage D. , behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=4&z=2008-03-13&g=2008-07-04) van de Regeling luchtverkeersdienstverlening
+## Bijlage C. , behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-07-26&g=2008-07-26), van de Regeling luchtverkeersdienstverlening
 
-| ENR 3.4-1 | d.d. 23 november 2006 | Helicopter Routes |
+| ENR 3.1-1/2 | d.d. 22 november 2007 | Lower ATS Routes |
 | --- | --- | --- |
-| ENR 3.4-2/8 | d.d. 22 november 2007 | Helicopter Routes |
-| ENR 3.4-9/10 | d.d. 20 december 2007 | Helicopter Routes |
-| ENR 3.4-11/20 | d.d. 22 november 2007 | Helicopter Routes |
-| ENR 3.4-21/22 | d.d. 23 november 2006 | Helicopter Routes |
-| ENR 3.4-23 | d.d. 20 december 2007 | Helicopter Routes |
-| ENR 6-3.3 | d.d. 22 november 2007 | North Sea Operations |
+| ENR 3.1-3/6 | d.d. 12 april 2007 | Lower ATS Routes |
+| ENR 3.1-7 | d.d. 22 november 2007 | Lower ATS Routes |
+| ENR 3.1-8 | d.d. 15 maart 2007 | Lower ATS Routes |
+| ENR 3.1-9 | d.d. 12 april 2007 | Lower ATS Routes |
+| ENR 3.1-10 | d.d. 22 november 2007 | Lower ATS Routes |
+| ENR 3.1-11 | d.d. 12 april 2007 | Lower ATS Routes |
+| ENR 3.1-12 | d.d. 13 maart 2008 | Lower ATS Routes |
+| ENR 3.1-13 | d.d. 12 april 2007 | Lower ATS Routes |
+| ENR 3.1-14 | d.d. 13 maart 2008 | Lower ATS Routes |
+| ENR 3.1-15/17 | d.d. 15 maart 2007 | Lower ATS Routes |
+| ENR 3.1-18 | d.d. 13 maart 2008 | Lower ATS Routes |
+| ENR 3.1-19 | d.d. 15 maart 2007 | Lower ATS Routes |
+| ENR 3.1-20 | d.d. 13 maart 2008 | Lower ATS Routes |
+| ENR 3.1-21 | d.d. 12 april 2007 | Lower ATS Routes |
+| ENR 3.1-22/23 | d.d. 22 november 2007 | Lower ATS Routes |
+| ENR 3.1-24 | d.d. 17 januari 2008 | Lower ATS Routes |
+| ENR 3.1-25 | d.d. 15 maart 2007 | Lower ATS Routes |
+| ENR 3.1-26 | d.d. 25 oktober 2007 | Lower ATS Routes |
+| ENR 3.1-27/31 | d.d. 12 april 2007 | Lower ATS Routes |
+| ENR 3.1-32 | d.d. 13 maart 2008 | Lower ATS Routes |
+| ENR 3.1-33 | d.d. 15 maart 2007 | Lower ATS Routes |
+| ENR 3.1-34/35 | d.d. 12 april 2007 | Lower ATS Routes |
+| ENR 3.1-36/38 | d.d. 22 november 2007 | Lower ATS Routes |
+| ENR 3.1-39 | d.d. 12 april 2007 | Lower ATS Routes |
+| ENR 3.2-1 | d.d. 13 maart 2008 | Upper ATS Routes |
+| ENR 3.2-2 | d.d. 17 januari 2008 | Upper ATS Routes |
+| ENR 3.2-3/6 | d.d. 12 april 2007 | Upper ATS Routes |
+| ENR 3.2-7 | d.d. 22 november 2007 | Upper ATS Routes |
+| ENR 3.2-8 | d.d. 15 maart 2007 | Upper ATS Routes |
+| ENR 3.2-9 | d.d. 22 november 2007 | Upper ATS Routes |
+| ENR 3.2-10 | d.d. 12 april 2007 | Upper ATS Routes |
+| ENR 3.2-11 | d.d. 25 oktober 2007 | Upper ATS Routes |
+| ENR 3.2-12 | d.d. 22 november 2007 | Upper ATS Routes |
+| ENR 3.2-13 | d.d. 13 maart 2008 | Upper ATS Routes |
+| ENR 3.2-14 | d.d. 12 april 2007 | Upper ATS Routes |
+| ENR 3.2-15 | d.d. 13 maart 2008 | Upper ATS Routes |
+| ENR 3.2-16 | d.d. 15 maart 2007 | Upper ATS Routes |
+| ENR 3.2-17 | d.d. 12 april 2007 | Upper ATS Routes |
+| ENR 3.2-18 | d.d. 22 november 2007 | Upper ATS Routes |
+| ENR 3.2-19 | d.d. 15 maart 2007 | Upper ATS Routes |
+| ENR 3.2-20 | d.d. 13 maart 2008 | Upper ATS Routes |
+| ENR 3.2-21 | d.d. 12 april 2007 | Upper ATS Routes |
+| ENR 3.2-22 | d.d. 13 maart 2008 | Upper ATS Routes |
+| ENR 3.2-23 | d.d. 12 april 2007 | Upper ATS Routes |
+| ENR 3.2-24 | d.d. 22 november 2007 | Upper ATS Routes |
+| ENR 3.2-25 | d.d. 15 maart 2007 | Upper ATS Routes |
+| ENR 3.2-26/27 | d.d. 12 april 2007 | Upper ATS Routes |
+| ENR 3.2-28 | d.d. 22 november 2007 | Upper ATS Routes |
+| ENR 3.2-29/31 | d.d. 15 maart 2007 | Upper ATS Routes |
+| ENR 3.2-32 | d.d. 22 november 2007 | Upper ATS Routes |
+| ENR 3.2-33 | d.d. 14 februari 2008 | Upper ATS Routes |
+| ENR 3.2-34 | d.d. 15 maart 2007 | Upper ATS Routes |
+| ENR 3.2-35 | d.d. 17 januari 2008 | Upper ATS Routes |
+| ENR 3.2-36/40 | d.d. 12 april 2007 | Upper ATS Routes |
+| ENR 3.2-41 | d.d. 22 november 2007 | Upper ATS Routes |
+| ENR 3.2-42 | d.d. 17 januari 2008 | Upper ATS Routes |
+| ENR 3.2-43 | d.d. 14 februari 2008 | Upper ATS Routes |
+| ENR 3.2-44/45 | d.d. 17 januari 2008 | Upper ATS Routes |
+| ENR 3.2-46 | d.d. 22 november 2007 | Upper ATS Routes |
+| ENR 3.2-47/55 | d.d. 17 januari 2008 | Upper ATS Routes |
+| ENR 3.2-56 | d.d. 7 juni 2007 | Upper ATS Routes |
+| ENR 6-3.1 | d.d. 13 maart 2008 | ATS Routes |
 
 ##### 1. ATZ Budel
 
@@ -988,7 +1060,7 @@ langs de weg naar:
 
 - 1. 52°26'39" NB 005°26'19" OL
 
-## Bijlage E1. behorende bij de [artikelen 5, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2008-07-26&g=2008-07-04), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=16&z=2008-07-26&g=2008-07-04)
+## Bijlage E1. behorende bij de [artikelen 5, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5&z=2008-07-26&g=2008-07-26), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=16&z=2008-07-26&g=2008-07-26)
 
 ### **Soesterberg CTR**
 
@@ -1012,7 +1084,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. vlucht kan worden uitgevoerd vrij van bewolking met zicht op grond of water.
 
-2. In afwijking van het eerste lid, onderdeel a, kan op de luchtvaartterreinen Eelde en Maastricht door de plaatselijke luchtverkeersleidingsdienst een bijzondere VFR-vlucht worden toegestaan aan ten hoogste twee vliegtuigen, voor vluchten binnen het luchtverkeerscircuit, indien het vliegzicht niet minder is dan 1500 m.
+2. In afwijking van het eerste lid, onderdeel a, kan op de luchtvaartterreinen Eelde en Maastricht door de plaatselijke verlener van luchtverkeersleidingsdiensten een bijzondere VFR-vlucht worden toegestaan aan ten hoogste twee vliegtuigen, voor vluchten binnen het luchtverkeerscircuit, indien het vliegzicht niet minder is dan 1500 m.
 
 ##### Artikel 21b
 
@@ -1032,7 +1104,7 @@ In afwijking van [artikel 43, eerste lid van het Luchtverkeersreglement](https:/
 
 ##### Artikel 22a. Verticale separatie
 
-1. Verticale separatie tussen luchtvaartuigen wordt bewerkstelligd door het toewijzen door de luchtverkeersleidingsdienst van een overeenkomstig de [artikelen 9 tot en met 12 van de Regeling gebruik hoogtemeter](https://wetten.overheid.nl/jci1.3:c:BWBR0006076&artikel=9) vastgestelde vlieghoogte.
+1. Verticale separatie tussen luchtvaartuigen wordt bewerkstelligd door het toewijzen door de verlener van luchtverkeersdiensten van een overeenkomstig de [artikelen 9 tot en met 12 van de Regeling gebruik hoogtemeter](https://wetten.overheid.nl/jci1.3:c:BWBR0006076&artikel=9) vastgestelde vlieghoogte.
 
 2. De minimale verticale separatie tussen luchtvaartuigen, bedoeld in het eerste lid, bedraagt tenminste 305 m (1000 ft) beneden FL 410 en 610 m (2000 ft) op en boven dit vliegniveau.
 
@@ -1224,7 +1296,7 @@ langs de weg naar:
 
 - 1. 52°26'39" NB 005°26'19" OL
 
-## Bijlage G. behorende bij de [artikelen 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7a&z=2008-07-26&g=2008-07-04), en [artikel 7b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7b&z=2008-07-26&g=2008-07-04), en [7c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7c&z=2008-07-26&g=2008-07-04) van de Regeling luchtverkeersdienstverlening
+## Bijlage G. behorende bij de [artikelen 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7a&z=2008-07-26&g=2008-07-26), en [artikel 7b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7b&z=2008-07-26&g=2008-07-26), en [7c, tweede lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7c&z=2008-07-26&g=2008-07-26), en [artikel 7d, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7d&z=2008-07-26&g=2008-07-26), van de Regeling luchtverkeersdienstverlening
 
 ### 1
 
@@ -1234,234 +1306,7 @@ De laterale grenzen van het Nederlandse deel van het plaatselijke luchtverkeersl
 
 De verticale grenzen van de Niederrhein CTR zijn:
 
-## Bijlage I. behorende bij artikel 23a van de Regeling luchtverkeersdienstverlening
-
-| Luchtvaartterrein Schiphol (EHAM) | Luchtvaartterrein Schiphol (EHAM) | Luchtvaartterrein Schiphol (EHAM) |
-| --- | --- | --- |
-| AD 2.EHAM-17 | d.d. 12 mei 2005 | Noise abatement procedures |
-| AD 2.EHAM-18 | d.d. 24 november 2005 | Noise abatement procedures |
-| AD 2.EHAM-19 | d.d. 12 mei 2005 | Instrument departure procedures Schiphol Airport |
-| AD 2.EHAM-20 | d.d. 16 februari 2006 | Instrument departure procedures Schiphol Airport |
-| AD 2.EHAM-21 | d.d. 22 december 2005 | Instrument departure procedures Schiphol Airport |
-| AD 2.EHAM-22/32 | d.d. 24 november 2005 | Instrument departure procedures Schiphol Airport |
-| AD 2.EHAM-33 | d.d. 22 december 2005 | Instrument departure procedures Schiphol Airport |
-| AD 2.EHAM-34 | d.d. 24 november 2005 | Instrument departure procedures Schiphol Airport |
-| AD 2.EHAM-35/37 | d.d. 22 december 2005 | Instrument departure procedures Schiphol Airport |
-| AD 2.EHAM-38/41 | d.d. 24 november 2005 | Instrument departure procedures Schiphol Airport |
-| AD 2.EHAM-41/42 | d.d. 24 november 2005 | VFR flight procedures Schiphol Airport |
-| AD 2.EHAM-SID-OVERVIEW | d.d. 16 maart 2006 | Standard instrument departure chart |
-| AD 2.EHAM-SID-04 | d.d. 24 november 2005 | Standard instrument departure chart RWY 04 |
-| AD 2.EHAM-SID-06 | d.d. 24 november 2005 | Standard instrument departure chart RWY 06 |
-| AD 2.EHAM-SID-SUP-06 | d.d. 24 november 2005 | Standard instrument departure chart RWY 06 supplementary |
-| AD 2.EHAM-SID-09 | d.d. 24 november 2005 | Standard instrument departure chart RWY 09 |
-| AD 2.EHAM-SID-18C | d.d. 24 november 2005 | Standard instrument departure chart RWY 18C |
-| AD 2.EHAM-SID-18L | d.d. 24 november 2005 | Standard instrument departure chart RWY 18L |
-| AD 2.EHAM-SID-22 | d.d. 24 november 2005 | Standard instrument departure chart RWY 22 |
-| AD 2.EHAM-SID-24 | d.d. 24 november 2005 | Standard instrument departure chart RWY 24 |
-| AD 2.EHAM-SID-27 | d.d. 24 november 2005 | Standard instrument departure chart RWY 27 |
-| AD 2.EHAM-SID-36C | d.d. 24 november 2005 | Standard instrument departure chart RWY 36C |
-| AD 2.EHAM-SID-36L | d.d. 24 november 2005 | Standard instrument departure chart RWY 36L |
-| AD 2.EHAM-SID-SUP-36L | d.d. 24 november 2005 | Standard instrument departure chart RWY 36L supplementary |
-| AD 2.EHAM-STAR.1 | d.d. 19 januari 2006 | Standard arrival chart |
-| AD 2.EHAM-STAR.2 | d.d. 19 januari 2006 | Standard arrival chart |
-| AD 2.EHAM-IAC-06.1 | d.d. 16 maart 2006 | Instrument approach chart RWY 06 ILS and SOKSI APCH |
-| AD 2.EHAM-IAC-06.2 | d.d. 01 september 2005 | Instrument approach chart RWY 06 RNAV night transitions |
-| AD 2.EHAM-IAC-06.3 | d.d. 16 maart 2006 | Instrument approach chart RWY 06 NDB/DME |
-| AD 2.EHAM-IAC-09.1 | d.d. 12 mei 2005 | Instrument approach chart RWY 09 VOR/DME |
-| AD 2.EHAM-IAC-18C.1 | d.d. 16 maart 2006 | Instrument approach chart RWY 18C ILS and REGSU APCH |
-| AD 2.EHAM-IAC-18C.2 | d.d. 27 oktober 2005 | Instrument approach chart RWY 18C NDB/DME |
-| AD 2.EHAM-IAC-18R.1 | d.d. 16 maart 2006 | Instrument approach chart RWY 18R ILS and NIRSI APCH |
-| AD 2.EHAM-IAC-18R.2 | d.d. 12 mei 2005 | Instrument approach chart RWY 18R RNAV night transitions |
-| AD 2.EHAM-IAC-18R.3 | d.d. 12 mei 2005 | Instrument approach chart RWY 18R VOR/DME AMS |
-| AD 2.EHAM-IAC-18R.4 | d.d. 12 mei 2005 | Instrument approach chart RWY 18R SRE |
-| AD 2.EHAM-IAC-22.1 | d.d. 16 maart 2006 | Instrument approach chart RWY 22 ILS |
-| AD 2.EHAM-IAC-22.2 | d.d. 12 mei 2005 | Instrument approach chart RWY 22 SRE |
-| AD 2.EHAM-IAC-24.1 | d.d. 12 mei 2005 | Instrument approach chart RWY 24 VOR/DME PAM |
-| AD 2.EHAM-IAC-27.1 | d.d. 16 maart 2006 | Instrument approach chart RWY 27 ILS |
-| AD 2.EHAM-IAC-27.2 | d.d. 16 maart 2006 | Instrument approach chart RWY 27 VOR/DME |
-| AD 2.EHAM-IAC-36C.1 | d.d. 16 maart 2006 | Instrument approach chart RWY 36C ILS and LOMKO APCH |
-| AD 2.EHAM-IAC-36C.2 | d.d. 12 mei 2005 | Instrument approach chart RWY 36C VOR/DME |
-| AD 2.EHAM-IAC-36R.1 | d.d. 16 maart 2006 | Instrument approach chart RWY 36R ILS and MONUT APCH |
-| AD 2.EHAM-IAC-36R.2 | d.d. 16 maart 2006 | Instrument approach chart RWY 36R NDB/DME |
-| AD 2.EHAM-IAC-MISC | d.d. 01 september 2005 | Instrument approach chart SRE |
-| AD 2.EHAM-VAC.1 | d.d. 16 maart 2006 | Visual approach chart |
-| AD 2.EHAM-VAC.2 | d.d. 22 december 2005 | Visual approach chart VFR traffic circuits |
-|   |   |   |
-| Luchtvaartterrein Budel (EHBD) | Luchtvaartterrein Budel (EHBD) | Luchtvaartterrein Budel (EHBD) |
-| AD 2.EHBD-5 | d.d. 12 mei 2005 | Instrument departure procedures Budel/Kempen Airport |
-| AD 2.EHBD-6 | d.d. 19 januari 2006 | Instrument departure procedures Budel/Kempen Airport |
-| AD 2.EHBD-7/8 | d.d. 29 september 2005 | Instrument departure procedures Budel/Kempen Airport |
-| AD 2.EHBD-9/10 | d.d. 12 mei 2005 | Instrument approach procedures Budel/Kempen Airport |
-| AD 2.EHBD-10/11 | d.d. 12 mei 2005 | VFR flight procedures Budel/Kempen Airport |
-| AD 2.EHBD-SID-OVERVIEW | d.d. 19 januari 2006 | Standard instrument departure chart |
-| AD 2.EHBD-SID-03 | d.d. 29 september 2005 | Standard instrument departure chart RWY 03 |
-| AD 2.EHBD-SID-21 | d.d. 29 september 2005 | Standard instrument departure chart RWY 21 |
-| AD 2.EHBD-STAR | d.d. 16 maart 2006 | Standard arrival chart |
-| AD 2.EHBD-IAC-21 | d.d. 01 september 2005 | Instrument approach chart RWY 21 NDB/DME |
-| AD 2.EHBD-VAC.1 | d.d. 12 mei 2005 | Visual approach chart |
-| AD 2.EHBD-VAC.2 | d.d. 12 mei 2005 | Visual approach chart VFR traffic circuits |
-|   |   |   |
-| Luchtvaartterrein Maastricht Aachen (EHBK) | Luchtvaartterrein Maastricht Aachen (EHBK) | Luchtvaartterrein Maastricht Aachen (EHBK) |
-| AD 2.EHBK-6 | d.d. 16 februari 2006 | Instrument departure procedures Maastricht Aachen Airport |
-| AD 2.EHBK-7 | d.d. 19 januari 2006 | Instrument departure procedures Maastricht Aachen Airport |
-| AD 2.EHBK-8/10 | d.d. 16 maart 2006 | Instrument departure procedures Maastricht Aachen Airport |
-| AD 2.EHBK-11/12 | d.d. 19 januari 2006 | Instrument departure procedures Maastricht Aachen Airport |
-| AD 2.EHBK-13 | d.d. 16 maart 2006 | Instrument departure procedures Maastricht Aachen Airport |
-| AD 2.EHBK-14 | d.d. 27 oktober 2005 | Instrument departure procedures Maastricht Aachen Airport |
-| AD 2.EHBK-15 | d.d. 16 maart 2006 | Instrument departure procedures Maastricht Aachen Airport |
-| AD 2.EHBK-16 | d.d. 19 januari 2006 | Instrument departure procedures Maastricht Aachen Airport |
-| AD 2.EHBK-16/17 | d.d. 19 januari 2006 | VFR flight procedures Maastricht Aachen Airport |
-| AD 2.EHBK-SID-OVERVIEW | d.d. 16 maart 2006 | Standard instrument departure chart |
-| AD 2.EHBK-SID-03 | d.d. 16 maart 2006 | Standard instrument departure chart RWY 04 |
-| AD 2.EHBK-SID-21 | d.d. 16 maart 2006 | Standard instrument departure chart RWY 22 |
-| AD 2.EHBK-STAR.1 | d.d. 16 maart 2006 | Standard arrival chart |
-| AD 2.EHBK-STAR.2 | d.d. 16 maart 2006 | Standard arrival chart |
-| AD 2.EHBK-IAC-03.1 | d.d. 27 oktober 2005 | Instrument approach chart RWY 04 ILS/DME and BEMTI approach |
-| AD 2.EHBK-IAC-03.2 | d.d. 16 maart 2006 | Instrument approach chart RWY 04 BAXIM, BOBMO, MODRU, OLNO, RUMER and THORN RNAV transitions |
-| AD 2.EHBK-IAC-03.3 | d.d. 24 november 2005 | Instrument approach chart RWY 04 NDB/DME and BEMTI approach |
-| AD 2.EHBK-IAC-03.4 | d.d. 27 oktober 2005 | Instrument approach chart RWY 04 SRE |
-| AD 2.EHBK-IAC-21.1 | d.d. 27 oktober 2005 | Instrument approach chart RWY 22 ILS/DME |
-| AD 2.EHBK-IAC-21.2 | d.d. 16 maart 2006 | Instrument approach chart RWY 22 BAXIM, BOBMO, MODRU, OLNO, RUMER and THORN RNAV transitions |
-| AD 2.EHBK-IAC-21.3 | d.d. 27 oktober 2005 | Instrument approach chart RWY 22 NDB/DME |
-| AD 2.EHBK-IAC-21.4 | d.d. 27 oktober 2005 | Instrument approach chart RWY 22 SRE |
-| AD 2.EHBK-VAC.1 | d.d. 27 oktober 2005 | Visual approach chart |
-| AD 2.EHBK-VAC.2 | d.d. 27 oktober 2005 | Visual approach chart visual traffic circuits for light ACFT |
-|   |   |   |
-| Luchtvaartterrein Eelde (EHGG) | Luchtvaartterrein Eelde (EHGG) | Luchtvaartterrein Eelde (EHGG) |
-| AD 2.EHGG-6 | d.d. 16 februari 2006 | Instrument departure procedures Eelde Airport |
-| AD 2.EHGG-7/10 | d.d. 19 januari 2006 | Instrument departure procedures Eelde Airport |
-| AD 2.EHGG-10/12 | d.d. 19 januari 2006 | Instrument approach procedures Eelde Airport |
-| AD 2.EHGG-14/15 | d.d. 19 januari 2006 | VFR flight procedures Eelde Airport |
-| AD 2.EHGG-SID-OVERVIEW | d.d. 19 januari 2006 | Standard instrument departure chart |
-| AD 2.EHGG-SID-05 | d.d. 19 januari 2006 | Standard instrument departure chart RWY 05 |
-| AD 2.EHGG-SID-23 | d.d. 19 januari 2006 | Standard instrument departure chart RWY 23 |
-| AD 2.EHGG-STAR | d.d. 19 januari 2006 | Standard arrival chart |
-| AD 2.EHGG-IAC-05.1 | d.d. 19 januari 2006 | Instrument approach chart RWY 05 VOR/DME |
-| AD 2.EHGG-IAC-05.2 | d.d. 19 januari 2006 | Instrument approach chart RWY 05 NDB |
-| AD 2.EHGG-IAC-23.1 | d.d. 19 januari 2006 | Instrument approach chart RWY 23 ILS |
-| AD 2.EHGG-IAC-23.2 | d.d. 19 januari 2006 | Instrument approach chart RWY 23 VOR/DME |
-| AD 2.EHGG-IAC-23.3 | d.d. 19 januari 2006 | Instrument approach chart RWY 23 NDB |
-| AD 2.EHGG-IAC-MISC | d.d. 19 januari 2006 | Instrument approach chart all RWYs SRE |
-| AD 2.EHGG-VAC.1 | d.d. 19 januari 2006 | Visual approach chart |
-| AD 2.EHGG-VAC.2 | d.d. 19 januari 2006 | Visual approach chart VFR traffic circuits RWY 01/19 |
-| AD 2.EHGG-VAC.3 | d.d. 19 januari 2006 | Visual approach chart VFR traffic circuits RWY 05/23 |
-|   |   |   |
-| Luchtvaartterrein Lelystad (EHLE) | Luchtvaartterrein Lelystad (EHLE) | Luchtvaartterrein Lelystad (EHLE) |
-| AD 2.EHLE-5/6 | d.d. 01 september 2005 | Instrument departure procedures Lelystad Aerodrome |
-| AD 2.EHLE-7/8 | d.d. 01 september 2005 | Instrument approach procedures Lelystad Aerodrome |
-| AD 2.EHLE-8/9 | d.d. 01 september 2005 | VFR flight procedures Lelystad Aerodrome |
-| AD 2.EHLE-SID-OVERVIEW | d.d. 16 maart 2006 | Standard instrument departure chart |
-| AD 2.EHLE-SID-05 | d.d. 12 mei 2005 | Standard instrument departure chart RWY 05 |
-| AD 2.EHLE-SID-23 | d.d. 12 mei 2005 | Standard instrument departure chart RWY 23 |
-| AD 2.EHLE-STAR | d.d. 19 januari 2006 | Standard arrival chart |
-| AD 2.EHLE-IAC-05.1 | d.d. 12 mei 2005 | Instrument approach chart RWY 05 NDB/DME |
-| AD 2.EHLE-IAC-05.2 | d.d. 12 mei 2005 | Instrument approach chart RWY 05 NDB |
-| AD 2.EHLE-IAC-23.1 | d.d. 12 mei 2005 | Instrument approach chart RWY 23 NDB/DME |
-| AD 2.EHLE-IAC-23.2 | d.d. 12 mei 2005 | Instrument approach chart RWY 23 NDB |
-| AD 2.EHLE-VAC | d.d. 12 mei 2005 | Visual approach chart RWY 05/23 and MLA RWY |
-|   |   |   |
-| Luchtvaartterrein Rotterdam (EHRD) | Luchtvaartterrein Rotterdam (EHRD) | Luchtvaartterrein Rotterdam (EHRD) |
-| AD 2.EHRD-7 | d.d. 04 augustus 2005 | Instrument departure procedures Rotterdam Airport |
-| AD 2.EHRD-8/11 | d.d. 12 mei 2005 | Instrument departure procedures Rotterdam Airport |
-| AD 2.EHRD-11 | d.d. 12 mei 2005 | Instrument approach procedures Rotterdam Airport |
-| AD 2.EHRD-12/13 | d.d. 27 oktober 2005 | Instrument approach procedures Rotterdam Airport |
-| AD 2.EHRD-13/15 | d.d. 27 oktober 2005 | VFR flight procedures Rotterdam Airport |
-| AD 2.EHRD-SID-OVERVIEW | d.d. 19 januari 2006 | Standard instrument departure chart |
-| AD 2.EHRD-SID-06 | d.d. 12 mei 2005 | Standard instrument departure chart RWY 06 |
-| AD 2.EHRD-SID-24 | d.d. 27 oktober 2005 | Standard instrument departure chart RWY 24 |
-| AD 2.EHRD-STAR | d.d. 19 januari 2006 | Standard arrival chart |
-| AD 2.EHRD-IAC-06.1 | d.d. 12 mei 2005 | Instrument approach chart RWY 06 VOR/DME |
-| AD 2.EHRD-IAC-24.1 | d.d. 12 mei 2005 | Instrument approach chart RWY 24 ILS |
-| AD 2.EHRD-IAC-24.2 | d.d. 12 mei 2005 | Instrument approach chart RWY 24 VOR/DME |
-| AD 2.EHRD-VAC.1 | d.d. 16 maart 2006 | Visual approach chart |
-| AD 2.EHRD-VAC.2 | d.d. 27 oktober 2005 | Visual approach chart VFR traffic circuits radio equipped light aircraft |
-| AD 2.EHRD-VAC.3 | d.d. 27 oktober 2005 | Visual approach chart VFR training circuits |
-|   |   |   |
-| Luchtvaartterrein (MIL) Eindhoven (EHEH) | Luchtvaartterrein (MIL) Eindhoven (EHEH) | Luchtvaartterrein (MIL) Eindhoven (EHEH) |
-| AD 2.EHEH-7 | d.d. 01 september 2005 | Instrument departure procedures Eindhoven Airport |
-| AD 2.EHEH-8 | d.d. 19 januari 2006 | Instrument departure procedures Eindhoven Airport |
-| AD 2.EHEH-9/10 | d.d. 29 september 2005 | Instrument departure procedures Eindhoven Airport |
-| AD 2.EHEH-11 | d.d. 01 september 2005 | Instrument departure procedures Eindhoven Airport |
-| AD 2.EHEH-11/15 | d.d. 01 september 2005 | Instrument approach procedures Eindhoven Airport |
-| AD 2.EHEH-SID-OVERVIEW | d.d. 19 januari 2006 | Standard instrument departure chart |
-| AD 2.EHEH-SID-04 | d.d. 29 september 2005 | Standard instrument departure chart RWY 04 |
-| AD 2.EHEH-SID-22 | d.d. 29 september 2005 | Standard instrument departure chart RWY 22 |
-| AD 2.EHEH-STAR | d.d. 16 maart 2006 | Standard arrival chart |
-| AD 2.EHEH-IAC-04.1 | d.d. 12 mei 2005 | Instrument approach chart RWY 04 ILS/DME |
-| AD 2.EHEH-IAC-04.2 | d.d. 12 mei 2005 | Instrument approach chart RWY 04 NDB/DME |
-| AD 2.EHEH-IAC-22.1 | d.d. 12 mei 2005 | Instrument approach chart RWY 22 ILS/DME |
-| AD 2.EHEH-IAC-22.2 | d.d. 12 mei 2005 | Instrument approach chart RWY 22 NDB/DME |
-| AD 2.EHEH-VAC.1 | d.d. 12 mei 2005 | Visual approach chart |
-| AD 2.EHEH-VAC.2 | d.d. 12 mei 2005 | Visual approach chart VFR traffic circuits |
-|   |   |   |
-| Luchtvaartterrein (MIL) De Kooy (EHKD) | Luchtvaartterrein (MIL) De Kooy (EHKD) | Luchtvaartterrein (MIL) De Kooy (EHKD) |
-| AD 2.EHKD-5 | d.d. 19 januari 2006 | Instrument departure procedures De Kooy Aerodrome (MIL) |
-| AD 2.EHKD-6 | d.d. 12 mei 2005 | Instrument departure procedures De Kooy Aerodrome (MIL) |
-| AD 2.EHKD-6/7 | d.d. 12 mei 2005 | Initial approach procedures De Kooy Aerodrome (MIL) |
-| AD 2.EHKD-IAC-04.1 | d.d. 12 mei 2005 | Instrument approach chart RWY 04 VOR/DME |
-| AD 2.EHKD-IAC-22.1 | d.d. 12 mei 2005 | Instrument approach chart RWY 22 ILS |
-| AD 2.EHKD-IAC-22.2 | d.d. 12 mei 2005 | Instrument approach chart RWY 22 VOR/DME |
-| AD 2.EHKD-IAC-MISC | d.d. 12 mei 2005 | Instrument approach chart RWY 04/22 SRE |
-| AD 2.EHKD-VAC | d.d. 16 maart 2006 | Visual approach chart |
-|   |   |   |
-| Luchtvaartterrein (MIL) Soesterberg (EHSB) | Luchtvaartterrein (MIL) Soesterberg (EHSB) | Luchtvaartterrein (MIL) Soesterberg (EHSB) |
-| AD 2.EHSB-1 | d.d. 12 mei 2005 | Departure procedures Soesterberg (MIL) |
-| AD 2.EHSB-2/3 | d.d. 07 juli 2005 | Initial approach procedures Soesterberg (MIL) |
-| AD 2.EHSB-SID-OVERVIEW | d.d. 19 januari 2006 | Standard instrument departure chart |
-| AD 2.EHSB-STAR | d.d. 19 januari 2006 | Standard arrival chart |
-|   |   |   |
-| Luchtvaartterrein (MIL) Twenthe (EHTW) | Luchtvaartterrein (MIL) Twenthe (EHTW) | Luchtvaartterrein (MIL) Twenthe (EHTW) |
-| AD 2.EHTW-1 | d.d. 12 mei 2005 | Departure procedures Twenthe (MIL) |
-| AD 2.EHTW-2/3 | d.d. 07 juli 2005 | Initial approach procedures Twenthe (MIL) |
-| AD 2.EHTW-SID-OVERVIEW | d.d. 19 januari 2006 | Standard instrument departure chart |
-| AD 2.EHTW-SID-06 | d.d. 12 mei 2005 | Standard instrument departure chart RWY 06 |
-| AD 2.EHTW-SID-24 | d.d. 12 mei 2005 | Standard instrument departure chart RWY 24 |
-|   |   |   |
-| Luchtvaartterrein (MIL) Valkenburg (EHVB) | Luchtvaartterrein (MIL) Valkenburg (EHVB) | Luchtvaartterrein (MIL) Valkenburg (EHVB) |
-| AD 2.EHVB-1 | d.d. 19 januari 2006 | Departure procedures Valkenburg (MIL) |
-| AD 2.EHVB-1/5 | d.d. 12 mei 2005 | Departure procedures Valkenburg (MIL) |
-| AD 2.EHVB-5/6 | d.d. 12 mei 2005 | Initial approach procedures Valkenburg (MIL) |
-| AD 2.EHVB-SID-OVERVIEW | d.d. 16 maart 2006 | Standard instrument departure chart |
-| AD 2.EHVB-SID-05 | d.d. 12 mei 2005 | Standard instrument departure chart RWY 05 |
-| AD 2.EHVB-SID-16 | d.d. 12 mei 2005 | Standard instrument departure chart RWY 16 |
-| AD 2.EHVB-SID-23 | d.d. 12 mei 2005 | Standard instrument departure chart RWY 23 |
-| AD 2.EHVB-SID-34 | d.d. 12 mei 2005 | Standard instrument departure chart RWY 34 |
-| AD 2.EHVB-STAR | d.d. 19 januari 2006 | Standard arrival chart |
-
-| Luchtvaartterrein Budel (EHBD) | Luchtvaartterrein Budel (EHBD) | Luchtvaartterrein Budel (EHBD) |
-| --- | --- | --- |
-| AD 2.EHBD-7/8 | d.d. 12 mei 2005 | Vliegprocedures |
-| AD 2.EHBD-VAC.1 | d.d. 12 mei 2005 | Visual approach chart |
-| AD 2.EHBD-VAC.2 | d.d. 12 mei 2005 | Visual approach chart VFR traffic circuits |
-|   |   |   |
-| Luchtvaartterrein Drachten (EHDR) | Luchtvaartterrein Drachten (EHDR) | Luchtvaartterrein Drachten (EHDR) |
-| AD 2.EHDR-VAC | d.d. 12 mei 2005 | Visual approach chart |
-|   |   |   |
-| Luchtvaartterrein Hoogeveen (EHHO) | Luchtvaartterrein Hoogeveen (EHHO) | Luchtvaartterrein Hoogeveen (EHHO) |
-| AD 2.EHHO-VAC | d.d. 12 mei 2005 | Visual approach chart |
-|   |   |   |
-| Luchtvaartterrein Hilversum (EHHV) | Luchtvaartterrein Hilversum (EHHV) | Luchtvaartterrein Hilversum (EHHV) |
-| AD 2.EHHV-VAC.1 | d.d. 16 maart 2006 | Visual approach chart |
-| AD 2.EHHV-VAC.2 | d.d. 16 maart 2006 | Visual approach chart |
-|   |   |   |
-| Luchtvaartterrein Lelystad (EHLE) | Luchtvaartterrein Lelystad (EHLE) | Luchtvaartterrein Lelystad (EHLE) |
-| AD 2.EHLE-VAC | d.d. 12 mei 2005 | Visual approach chart RWY 05/23 and MLA RWY |
-|   |   |   |
-| Luchtvaartterrein Midden Zeeland (EHMZ) | Luchtvaartterrein Midden Zeeland (EHMZ) | Luchtvaartterrein Midden Zeeland (EHMZ) |
-| AD 2.EHMZ-VAC.1 | d.d. 12 mei 2005 | Visual approach chart RWY 09 |
-| AD 2.EHMZ-VAC.2 | d.d. 12 mei 2005 | Visual approach chart RWY 27 |
-|   |   |   |
-| Luchtvaartterrein Seppe (EHSE) | Luchtvaartterrein Seppe (EHSE) | Luchtvaartterrein Seppe (EHSE) |
-| AD 2.EHSE-VAC | d.d. 12 mei 2005 | Visual approach chart |
-|   |   |   |
-| Luchtvaartterrein Teuge (EHTE) | Luchtvaartterrein Teuge (EHTE) | Luchtvaartterrein Teuge (EHTE) |
-| AD 2.EHTE-VAC | d.d. 12 mei 2005 | Visual approach chart |
-|   |   |   |
-| Luchtvaartterrein Texel (EHTX) | Luchtvaartterrein Texel (EHTX) | Luchtvaartterrein Texel (EHTX) |
-| AD 2.EHTX-VAC | d.d. 12 mei 2005 | Visual approach chart |
-|   |   |   |
-| Luchtvaartterrein Ameland (EHAL) | Luchtvaartterrein Ameland (EHAL) | Luchtvaartterrein Ameland (EHAL) |
-| AD 2.EHAL-VAC | d.d. 12 mei 2005 | Visual approach chart |
+## Bijlage G1. behorende bij [artikel 9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=9&z=2008-07-26&g=2008-07-26), van de Regeling luchtverkeersdienstverlening
 
 ## Bijlage H. Shaded Area, behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=1&z=2008-07-26&g=2008-07-04), onderdeel Shaded Area, [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-07-26&g=2008-07-04), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=11&z=2008-07-26&g=2008-07-04), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2008-07-26&g=2008-07-04)
 
@@ -1627,26 +1472,21 @@ langs de weg naar:
 | --- | --- | --- |
 | ENR 5.1-8 | d.d. 12 mei 2005 | Military ATZs |
 
-## Bijlage G. behorende bij de [artikelen 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7a&z=2008-03-13&g=2008-07-04), en [artikel 7b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7b&z=2008-03-13&g=2008-07-04), en [7c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7c&z=2008-03-13&g=2008-07-04) van de Regeling luchtverkeersdienstverlening
+## Bijlage F. behorende bij [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=7&z=2008-07-26&g=2008-07-26)
+
+| Aerodrome Traffic Zones | Aerodrome Traffic Zones | Aerodrome Traffic Zones |
+| --- | --- | --- |
+| ENR 5.1-8 | d.d. 12 mei 2005 | Military ATZs |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Slotbepalingen
 
-## Bijlage B. , behorende bij de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2008-03-13&g=2008-07-04), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=16&z=2008-03-13&g=2008-07-04), van de Regeling luchtverkeersdienstverlening
+## Bijlage A. , behorende bij [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=1&z=2008-07-26&g=2008-07-26) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=14&z=2008-07-26&g=2008-07-26) van de Regeling luchtverkeersdienstverlening
 
-| ENR 1.4-1/3 | d.d. 12 april 2007 | ATS Airspace |
+| GENOFIC AREA | GENOFIC AREA | GENOFIC AREA |
 | --- | --- | --- |
-| ENR 1.4-4 | d.d. 22 november 2007 | ATS Airspace |
-| ENR 2.1-1 | d.d. 20 december 2007 | Air Traffic Services Airspace |
-| ENR 2.1-2/3 | d.d. 30 augustus 2007 | Air Traffic Services Airspace |
-| ENR 2.1-4 | d.d. 17 januari 2008 | Air Traffic Services Airspace |
-| ENR 2.1-5 | d.d. 30 augustus 2007 | Air Traffic Services Airspace |
-| ENR 2.1-6 | d.d. 14 februari 2008 | Air Traffic Services Airspace |
-| ENR 2.1-7/9 | d.d. 30 augustus 2007 | Air Traffic Services Airspace |
-| ENR 2.1-10 | d.d. 20 december 2007 | Air Traffic Services Airspace |
-| ENR 2.1-11 | d.d. 17 januari 2008 | Air Traffic Services Airspace |
-| ENR 6-2.1 | d.d. 22 november 2007 | Airspace Structure and ATS Airspace Classification |
+| ENR 6-2.5 | d.d. 11 mei 2006 | GENOFIC AREA |
 
 Alle posities worden uitgedrukt in WGS-84.
 
@@ -2051,19 +1891,67 @@ langs de weg naar:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 7c. Transponder Mandatory Zone Eindhoven
+##### Artikel 7c. Aerodrome Traffic Zone op zweefvliegterrein Schinveld en Special Rules Zone Schinveld
 
-1. Als bijzonder luchtverkeersgebied wordt aangewezen een deel van het luchtruim boven en in de omgeving van luchtvaartterrein Eindhoven, aangeduid als TMZ Eindhoven.
+1. De luchtruimte rond het zweefvliegterrein Schinveld geldt als ATZ en wordt aangeduid als ATZ Schinveld.
 
-2. De TMZ Eindhoven is begrensd zoals aangegeven in de bij deze regeling behorende [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G&z=2008-03-13&g=2008-07-04).
+2. De ATZ Schinveld is lateraal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G&z=2008-07-26&g=2008-07-26).
 
-3. Onverminderd de in het betrokken luchtruim geldende regels is het voeren van een werkende SSR-transponder verplicht voor alle luchtvaartuigen die gebruik maken van de TMZ Eindhoven.
+3. De luchtruimte zuid van de ATZ Schinveld wordt aangeduid als SRZ Schinveld.
 
-4. In afwijking van het derde lid kan de betreffende luchtverkeersdienst afhankelijk van de verkeerssituatie toestemming geven voor een vlucht in het gebied zonder werkende SSR-transponder.
+4. De SRZ Schinveld is lateraal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G&z=2008-07-26&g=2008-07-26).
+
+5. De ATZ en SRZ Schinveld worden aangemerkt als Transponder Free Zone Schinveld.
+
+6. De ATZ en SRZ Schinveld worden door andere luchtvaartuigen vermeden gedurende de periode waarin zweefvliegactiviteiten binnen deze gebieden plaatsvinden.
+
+7. De verleners van betrokken luchtverkeersleidingsdiensten van Geilenkirchen en Maastricht geven aanwijzingen ten aanzien van het aanvangen, uitvoeren, beëindigen of opschorten van zweefvliegactiviteiten in de ATZ en SRZ Schinveld.
+
+8. Gedurende zweefvliegactiviteiten in de ATZ en SRZ Schinveld is een functionaris op het zweefvliegterrein Schinveld aanwezig die verantwoordelijk is voor alle zweefvliegactiviteiten.
+
+9. Gedurende operationele openstelling van het militaire vliegveld Geilenkirchen mogen zweefvliegtuigen, motorzweefvliegtuigen en sleepvliegtuigen die opereren vanaf het zweefvliegterrein Schinveld, met in achtneming van het bepaalde in dit artikel, vluchten in de ATZ Schinveld uitvoeren onder de volgende condities:
+
+- a. tussen 06:00 en 23:00 uur plaatselijke tijd binnen de uniforme daglichtperiode;
+
+- b. indien het vliegzicht 5 km of meer is, en
+
+- c. waarbij vrij wordt gebleven van bewolking met zicht op de grond.
+
+10. Buiten operationele openstelling van het militaire vliegveld Geilenkirchen mogen zweefvliegtuigen, motorzweefvliegtuigen en sleepvliegtuigen die opereren vanaf het zweefvliegterrein Schinveld, met in achtneming van het bepaalde in dit artikel, vluchten in de ATZ Schinveld uitvoeren onder de volgende condities:
+
+- a. tussen 06:00 en 23:00 uur plaatselijke tijd binnen de uniforme daglichtperiode;
+
+- b. indien voor zweefvliegtuigen het vliegzicht 3 km of meer is;
+
+- c. indien voor motorzweefvliegtuigen en sleepvliegtuigen het vliegzicht 5 km of meer is, en
+
+- d. waarbij vrij wordt gebleven van bewolking met zicht op de grond.
+
+11. Buiten operationele openstelling van het militaire vliegveld Geilenkirchen mogen zweefvliegtuigen, motorzweefvliegtuigen en sleepvliegtuigen die opereren vanaf het zweefvliegterrein Schinveld, met in achtneming van het bepaalde in dit artikel, vluchten in de SRZ Schinveld uitvoeren onder de volgende condities:
+
+- a. tussen 06:00 en 23:00 uur plaatselijke tijd binnen de uniforme daglichtperiode;
+
+- b. indien het vliegzicht 5 km of meer is, en
+
+- c. waarbij vrij wordt gebleven van bewolking met zicht op de grond.
+
+12. De betrokken luchtverkeersleidingsdiensten van Maastricht en Geilenkirchen en de partijen die de ATZ en SRZ Schinveld gebruiken voor zweefvliegactiviteiten stellen een convenant op ten aanzien van de vluchtuitvoering, coördinatie en communicatie gedurende deze zweefvliegactiviteiten in de ATZ en SRZ Schinveld.
 
 #### Slotbepalingen
 
-## Bijlage B1. behorende bij [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2008-03-13&g=2008-07-04), van de Regeling luchtverkeersdienstverlening
+## Bijlage B. behorende bij de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2008-07-26&g=2008-07-26), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=16&z=2008-07-26&g=2008-07-26), van de Regeling luchtverkeersdienstverlening
+
+| ENR 1.4-1 | d.d. 10 april 2008 | ATS Airspace |
+| --- | --- | --- |
+| ENR 1.4-2/3 | d.d. 3 juli 2008 | ATS Airspace |
+| ENR 1.4-4 | d.d. 10 april 2008 | ATS Airspace |
+| ENR 2.1-1 | d.d. 20 december 2007 | Air Traffic Services Airspace |
+| ENR 2.1-2 | d.d. 30 augustus 2007 | Air Traffic Services Airspace |
+| ENR 2.1-3/4 | d.d. 5 juni 2008 | Air Traffic Services Airspace |
+| ENR 2.1-5 | d.d. 30 augustus 2007 | Air Traffic Services Airspace |
+| ENR 2.1-6 | d.d. 14 februari 2008 | Air Traffic Services Airspace |
+| ENR 2.1-7/12 | d.d. 10 april 2008 | Air Traffic Services Airspace |
+| ENR 6-2.1 | d.d. 5 juni 2008 | Airspace Structure and ATS Airspace Classification |
 
 ### **12. Nieuw Milligen TMA D**
 
@@ -2133,13 +2021,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De luchtruimte rond het zweefvliegterrein Veendam geldt als ATZ en wordt aangeduid als ATZ Veendam.
 
-2. De ATZ Veendam is lateraal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G&z=2008-07-26&g=2008-07-04).
+2. De ATZ Veendam is lateraal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G&z=2008-07-26&g=2008-07-26).
 
 3. De luchtruimte noordoost van de ATZ Veendam wordt aangeduid als SRZ A Veendam.
 
 4. De luchtruimte zuidoost van de ATZ Veendam wordt aangeduid als SRZ B Veendam.
 
-5. De SRZ A en B Veendam zijn lateraal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G&z=2008-07-26&g=2008-07-04).
+5. De SRZ A en B Veendam zijn lateraal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G&z=2008-07-26&g=2008-07-26).
 
 6. De ATZ Veendam wordt door andere luchtvaartuigen vermeden gedurende de periode waarin zweefvliegactiviteiten binnen dit gebied plaatsvinden.
 
@@ -2163,7 +2051,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. op zaterdag, zondag en officiële feestdagen tussen 07:30 en 21:30 uur plaatselijke tijd binnen de uniforme daglichtperiode, en
 
-- c. het vliegzicht en de afstand tot de wolken is in overeenstemming met het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=18&z=2008-07-26&g=2008-07-04) van deze regeling.
+- c. het vliegzicht en de afstand tot de wolken is in overeenstemming met het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=18&z=2008-07-26&g=2008-07-26) van deze regeling.
 
 11. Gedurende operationele openstelling van de luchthaven Eelde mogen zweefvliegtuigen die opereren vanaf het zweefvliegterrein Veendam, met in achtneming van het bepaalde in dit artikel, vluchten in de SRZ B Veendam uitvoeren onder de volgende condities:
 
@@ -2171,13 +2059,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. op vrijdag tussen 17:00 en 23:00 uur plaatselijke tijd binnen de uniforme daglicht periode, en
 
-- c. het vliegzicht en de afstand tot de wolken is in overeenstemming met het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=18&z=2008-07-26&g=2008-07-04) van deze regeling.
+- c. het vliegzicht en de afstand tot de wolken is in overeenstemming met het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=18&z=2008-07-26&g=2008-07-26) van deze regeling.
 
 12. De betrokken luchtverkeersleidingsdiensten van Eelde en de partijen die de ATZ en SRZ Veendam gebruiken voor zweefvliegactiviteiten stellen een convenant op ten aanzien van de vluchtuitvoering, coördinatie en communicatie gedurende deze zweefvliegactiviteiten in de ATZ en SRZ Veendam.
 
 #### Slotbepalingen
 
-## Bijlage B1. behorende bij [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2008-07-26&g=2008-07-04), van de Regeling luchtverkeersdienstverlening
+## Bijlage B1. behorende bij [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=2&z=2008-07-26&g=2008-07-26), van de Regeling luchtverkeersdienstverlening
 
 Alle posities worden uitgedrukt in WGS-84.
 
@@ -2223,12 +2111,6 @@ langs de weg naar:
 
 - 1. 52°26'39" NB 005°26'19" OL
 
-3. TMZ Eindhoven
-
-- a. de laterale grenzen van de TMZ Eindhoven zijn: Vanaf positie 51°46'48"N 005°22'26"E naar positie 51°40'17"N 005°28'40"E, via positie 51°35'40"N 005°39'12"E en positie 51°38'26"N 005°48'58"E via een deel van een cirkel met een straal van 8,5 NM met als middelpunt 51°32'48"N 005°38'46"E (GEMTI) naar positie 51°27'54"N 005°49'52"E, via positie 51°15'45"N 005°36'10"E en positie 51°17'49"N 005°33'11"E naar positie 51°17'16"N 005° 31'16"E via de Nederlands/Belgische naar positie 51°29'14"N 005°01'59"E, via positie 51°29'47"N 004°59'15"E en positie 51°43'25"N 005°14'27"E via een deel van een cirkel met een straal van 8,5 NM met als middelpunt 51°38'33"N 005°25'39"E (BESTI) naar positie 51°46'48"N 005°22'26"E.
-
-- b. De TMZ Eindhoven heeft een ondergrens van 2500 voet boven gemiddeld zeeniveau buiten de CTR’s Eindhoven, Volkel, De Peel, Woensdrecht en Kleine Brogel en boven deze CTR’s een ondergrens van 3000 voet boven gemiddeld zeeniveau. De TMZ Eindhoven heeft een bovengrens van vliegniveau 065.
-
 ## Bijlage I. behorende bij [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=23a&z=2008-07-26&g=2008-07-04) van de Regeling luchtverkeersdienstverlening
 
 ### Luchtvaartgids, Volume I
@@ -2236,3 +2118,340 @@ langs de weg naar:
 ### Luchtvaartgids, Volume II
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### 3. ATZ en SRZ Schinveld
+
+- a). De laterale grenzen van de ATZ Schinveld wordt gevormd door de lijnen tussen de posities: 50°58’34”NB 005°58’18”OL, 50°58’48”NB 005°58’19”OL, langs de Nederlands/Duitse grens naar 50°59’00”NB 006°01’36”OL, langs de Nederlands/Duitse grens naar 50°58’54”NB 006°01’37”OL, 50°58’56”NB 006°01’17”OL, 50°58’50”NB 006°00’58”OL, 50°58’33”NB 006°00’20”OL, 50°58’34”NB 005°58’18”OL.
+
+- b). De laterale grenzen van de SRZ Schinveld wordt gevormd door de lijnen tussen de posities: 50°58’34”NB 005°58’18”OL, 50°58’33”NB 006°00’20”OL, 50°58’50”NB 006°00’58”OL, 50°58’56”NB 006°01’17”OL, 50°58’54”NB 006°01’37”OL, langs de Nederlands/Duitse grens naar 50°54’42”NB 006°05’04”OL, 50°54’45”NB 005°58’40”OL, 50°58’34”NB 005°58’18”OL.
+
+- c). De ATZ en SRZ Schinveld hebben een ondergrens vanaf de grond en een bovengrens van 3000 voet boven gemiddeld zeeniveau.
+
+##### 4. ATZ en SRZ A en B Veendam
+
+- a). De laterale grenzen van de ATZ Veendam worden gevormd door de lijnen tussen de posities: 53°04’15”NB 006°48’52”OL langs een boog van een cirkel met een straal van 0,88 nautische mijlen gecentreerd rond positie 53°05’04”NB 006°49’25”OL, 53°05’14”NB 006°50’51”OL, 53°04’46”NB 006°51’00”OL, 53°04’44”NB 006°52’58”OL, 53°03’51”NB 006°52’25”OL, 53°03’03”NB 006°51’12”OL, 53°03’23”NB 006°50’14”OL, 53°04’15”NB 006°48’52”OL.
+
+- b). De laterale grenzen van de SRZ A Veendam worden gevormd door de lijnen tussen de posities: 53°07’11”NB 006°51’43”OL, 53°07’10”NB 006°53’57”OL, 53°06’22”NB 006°53’55”OL, 53°05’56”NB 006°53’45”OL, 53°04’44”NB 006°52’58”OL, 53°04’46”NB 006°51’00”OL, 53°05’14”NB 006°50’51”OL langs een boog van een cirkel met een straal van 0,88 nautische mijlen gecentreerd rond positie 53°05’04”NB 006°49’25”OL, 53°05’51”NB 006°50’05”OL, 53°07’11”NB 006°51’43”OL.
+
+- c). De laterale grenzen van de SRZ B Veendam worden gevormd door de lijnen tussen de posities: 53°05’56”NB 006°53’45”OL, 53°05’34”NB 006°54’32”OL, 53°05’11”NB 006°57’58”OL, 53°06’08”NB 006°59’18”OL, 53°06’53”NB 007°01’17”OL, 53°06’45”NB 007°03’58”OL, 53°06’30”NB 007°05’46”OL, 53°06’08”NB 007°08’47”OL, 53°04’17”NB 007°12’04”OL langs de Nederlands/Duitse grens naar 53°00’00”NB 007°12’34”OL, 52°57’01”NB 006°47’02”OL, 52°58’30”NB 006°46’34”OL, 52°59’50”NB 006°45’17”OL, 53°00’38”NB 006°45’00”OL, 53°04’15”NB 006°48’52”OL, 53°03’23”NB 006°50’14”OL, 53°03’03”NB 006°51’12”OL, 53°03’51”NB 006°52’25”OL, 53°04’44”NB 006°52’58”OL, 53°05’56”NB 006°53’45”OL.
+
+- d). De ATZ en SRZ A en B Veendam hebben een ondergrens vanaf de grond en een bovengrens van 3000 voet boven gemiddeld zeeniveau.
+
+### **1. TMZ – fase 1**
+
+### **2. TMZ fase 2**
+
+## Bijlage H. Shaded Area, behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=1&z=2008-07-26&g=2008-07-26), onderdeel Shaded Area, [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=3&z=2008-07-26&g=2008-07-26), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=11&z=2008-07-26&g=2008-07-26), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=13&z=2008-07-26&g=2008-07-26)
+
+## Bijlage I. behorende bij [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=23a&z=2008-07-26&g=2008-07-26) van de Regeling luchtverkeersdienstverlening
+
+| Luchtvaartterrein Ameland (EHAL) | Luchtvaartterrein Ameland (EHAL) | Luchtvaartterrein Ameland (EHAL) |   |
+| --- | --- | --- | --- |
+| AD 2.EHAL-4 | d.d. 8 mei 2008 | Flight procedures |   |
+| AD 2.EHAL-VAC | d.d. 5 juni 2008 | Visual approach chart |   |
+|   |   |   |   |
+| Luchtvaartterrein Schiphol (EHAM) | Luchtvaartterrein Schiphol (EHAM) | Luchtvaartterrein Schiphol (EHAM) |   |
+| AD 2.EHAM-18/20 | d.d. 10 april 2008 | Noise abatement procedures |   |
+| AD 2.EHAM-21/25 | d.d. 10 april 2008 | Instrument departure procedures Schiphol Airport |   |
+| AD 2.EHAM-26/27 | d.d. 8 mei 2008 | Instrument departure procedures Schiphol Airport |   |
+| AD 2.EHAM-28/30 | d.d. 10 april 2008 | Instrument departure procedures Schiphol Airport |   |
+| AD 2.EHAM-31 | d.d. 8 mei 2008 | Instrument departure procedures Schiphol Airport |   |
+| AD 2.EHAM-32/43 | d.d. 10 april 2008 | Instrument departure procedures Schiphol Airport |   |
+| AD 2.EHAM-43/44 | d.d. 10 april 2008 | VFR flight procedures Schiphol Airport |   |
+| AD 2.EHAM-SID-OVERVIEW | d.d. 13 maart 2008 | Standard instrument departure chart |   |
+| AD 2.EHAM-SID-04 | d.d. 13 maart 2008 | Standard instrument departure chart RWY 04 |   |
+| AD 2.EHAM-SID-06 | d.d. 13 maart 2008 | Standard instrument departure chart RWY 06 |   |
+| AD 2.EHAM-SID-SUP-06 | d.d. 13 maart 2008 | Standard instrument departure chart RWY 06 supplementary |   |
+| AD 2.EHAM-SID-09 | d.d. 13 maart 2008 | Standard instrument departure chart RWY 09 |   |
+| AD 2.EHAM-SID-18C | d.d. 13 maart 2008 | Standard instrument departure chart RWY 18C |   |
+| AD 2.EHAM-SID-18L | d.d. 13 maart 2008 | Standard instrument departure chart RWY 18L |   |
+| AD 2.EHAM-SID-22 | d.d. 13 maart 2008 | Standard instrument departure chart RWY 22 |   |
+| AD 2.EHAM-SID-24 | d.d. 13 maart 2008 | Standard instrument departure chart RWY 24 |   |
+| AD 2.EHAM-SID-27 | d.d. 13 maart 2008 | Standard instrument departure chart RWY 27 |   |
+| AD 2.EHAM-SID-36C | d.d. 13 maart 2008 | Standard instrument departure chart RWY 36C |   |
+| AD 2.EHAM-SID-36L | d.d. 13 maart 2008 | Standard instrument departure chart RWY 36L |   |
+| AD 2.EHAM-SID-SUP-36L | d.d. 13 maart 2008 | Standard instrument departure chart RWY 36L supplementary |   |
+| AD 2.EHAM-STAR.1 | d.d. 30 augustus 2007 | Standard arrival chart |   |
+| AD 2.EHAM-STAR.2 | d.d. 13 maart 2008 | Standard arrival chart |   |
+| AD 2.EHAM-IAC-06.1 | d.d. 25 oktober 2007 | Instrument approach chart RWY 06 ILS and SOKSI APCH |   |
+| AD 2.EHAM-IAC-06.2 | d.d. 3 juli 2008 | Instrument approach chart RWY 06 RNAV night transitions |   |
+| AD 2.EHAM-IAC-06.3 | d.d. 25 oktober 2007 | Instrument approach chart RWY 06 NDB/DME |   |
+| AD 2.EHAM-IAC-09.1 | d.d. 14 februari 2008 | Instrument approach chart RWY 09 VOR/DME |   |
+| AD 2.EHAM-IAC-18C.1 | d.d. 25 oktober 2007 | Instrument approach chart RWY 18C ILS and REGSU APCH |   |
+| AD 2.EHAM-IAC-18C.2 | d.d. 25 oktober 2007 | Instrument approach chart RWY 18C NDB/DME |   |
+| AD 2.EHAM-IAC-18R.1 | d.d. 25 oktober 2007 | Instrument approach chart RWY 18R ILS and NIRSI APCH |   |
+| AD 2.EHAM-IAC-18R.2 | d.d. 13 maart 2008 | Instrument approach chart RWY 18R RNAV night transitions |   |
+| AD 2.EHAM-IAC-18R.3 | d.d. 25 oktober 2007 | Instrument approach chart RWY 18R VOR/DME AMS |   |
+| AD 2.EHAM-IAC-18R.4 | d.d. 25 oktober 2007 | Instrument approach chart RWY 18R SRE |   |
+| AD 2.EHAM-IAC-22.1 | d.d. 3 juli 2008 | Instrument approach chart RWY 22 ILS |   |
+| AD 2.EHAM-IAC-22.2 | d.d. 25 oktober 2007 | Instrument approach chart RWY 22 SRE |   |
+| AD 2.EHAM-IAC-24.1 | d.d. 25 oktober 2007 | Instrument approach chart RWY 24 VOR/DME PAM |   |
+| AD 2.EHAM-IAC-27.1 | d.d. 25 oktober 2007 | Instrument approach chart RWY 27 ILS |   |
+| AD 2.EHAM-IAC-27.2 | d.d. 25 oktober 2007 | Instrument approach chart RWY 27 VOR/DME |   |
+| AD 2.EHAM-IAC-36C.1 | d.d. 25 oktober 2007 | Instrument approach chart RWY 36C ILS and LOMKO APCH |   |
+| AD 2.EHAM-IAC-36C.2 | d.d. 25 oktober 2007 | Instrument approach chart RWY 36C VOR/DME |   |
+| AD 2.EHAM-IAC-36R.1 | d.d. 25 oktober 2007 | Instrument approach chart RWY 36R ILS and MONUT APCH |   |
+| AD 2.EHAM-IAC-36R.2 | d.d. 25 oktober 2007 | Instrument approach chart RWY 36R NDB/DME |   |
+| AD 2.EHAM-IAC-MISC | d.d. 25 oktober 2007 | Instrument approach chart SRE |   |
+| AD 2.EHAM-VAC.1 | d.d. 25 oktober 2007 | Visual approach chart |   |
+| AD 2.EHAM-VAC.2 | d.d. 22 december 2005 | Visual approach chart VFR traffic circuits |   |
+|   |   |   |   |
+| Luchtvaartterrein Budel (EHBD) | Luchtvaartterrein Budel (EHBD) | Luchtvaartterrein Budel (EHBD) |   |
+| AD 2.EHBD-5/9 | d.d. 10 april 2008 | Instrument departure procedures Budel/Kempen Airport |   |
+| AD 2.EHBD-9/11 | d.d. 10 april 2008 | Instrument approach procedures Budel/Kempen Airport |   |
+| AD 2.EHBD-11/12 | d.d. 10 april 2008 | VFR flight procedures Budel/Kempen Airport |   |
+| AD 2.EHBD-SID-OVERVIEW | d.d. 17 januari 2008 | Standard instrument departure chart |   |
+| AD 2.EHBD-SID-03 | d.d. 17 januari 2008 | Standard instrument departure chart RWY 03 |   |
+| AD 2.EHBD-SID-21 | d.d. 17 januari 2008 | Standard instrument departure chart RWY 21 |   |
+| AD 2.EHBD-STAR | d.d. 22 november 2007 | Standard arrival chart |   |
+| AD 2.EHBD-IAC-21 | d.d. 17 januari 2008 | Instrument approach chart RWY 21 NDB/DME |   |
+| AD 2.EHBD-VAC.1 | d.d. 17 januari 2008 | Visual approach chart |   |
+| AD 2.EHBD-VAC.2 | d.d. 17 januari 2008 | Visual approach chart VFR traffic circuits |   |
+|   |   |   |   |
+| Luchtvaartterrein Maastricht Aachen (EHBK) | Luchtvaartterrein Maastricht Aachen (EHBK) | Luchtvaartterrein Maastricht Aachen (EHBK) |   |
+| AD 2.EHBK-7 | d.d. 14 februari 2008 | Instrument departure procedures Maastricht Aachen Airport |   |
+| AD 2.EHBK-8 | d.d. 10 april 2008 | Instrument departure procedures Maastricht Aachen Airport |   |
+| AD 2.EHBK-9/10 | d.d. 14 februari 2008 | Instrument departure procedures Maastricht Aachen Airport |   |
+| AD 2.EHBK-10/12 | d.d. 14 februari 2008 | Instrument approach procedures Maastricht Aachen Airport |   |
+| AD 2.EHBK-13 | d.d. 10 april 2008 | Instrument approach procedures Maastricht Aachen Airport |   |
+| AD 2.EHBK-14/15 | d.d. 14 februari 2008 | Instrument approach procedures Maastricht Aachen Airport |   |
+| AD 2.EHBK-16 | d.d. 10 april 2008 | Instrument approach procedures Maastricht Aachen Airport |   |
+| AD 2.EHBK-17 | d.d. 3 juli 2008 | Instrument approach procedures Maastricht Aachen Airport |   |
+| AD 2.EHBK-17/18 | d.d. 3 juli 2008 | VFR flight procedures Maastricht Aachen Airport |   |
+| AD 2.EHBK-SID-OVERVIEW | d.d. 20 december 2007 | Standard instrument departure chart |   |
+| AD 2.EHBK-SID-03 | d.d. 13 maart 2008 | Standard instrument departure chart RWY 03 |   |
+| AD 2.EHBK-SID-21 | d.d. 13 maart 2008 | Standard instrument departure chart RWY 21 |   |
+| AD 2.EHBK-STAR.1 | d.d. 20 december 2007 | Standard arrival chart |   |
+| AD 2.EHBK-STAR.2 | d.d. 13 maart 2008 | Standard arrival chart |   |
+| AD 2.EHBK-IAC-03.1 | d.d. 5 juni 2008 | Instrument approach chart RWY 03 ILS/DME and BEMTI approach |   |
+| AD 2.EHBK-IAC-03.2 | d.d. 5 juni 2008 | Instrument approach chart RWY 03 BAXIM, BOBMO, MODRU, OLNO, RUMER and OSGOS RNAV transitions |   |
+| AD 2.EHBK-IAC-03.3 | d.d. 5 juni 2008 | Instrument approach chart RWY 03 NDB/DME and BEMTI approach |   |
+| AD 2.EHBK-IAC-03.4 | d.d. 5 juni 2008 | Instrument approach chart RWY 03 SRE |   |
+| AD 2.EHBK-IAC-21.1 | d.d. 13 maart 2008 | Instrument approach chart RWY 21 ILS/DME |   |
+| AD 2.EHBK-IAC-21.2 | d.d. 13 maart 2008 | Instrument approach chart RWY 21 BAXIM, BOBMO, MODRU, OLNO, RUMER and OSGOS RNAV transitions |   |
+| AD 2.EHBK-IAC-21.3 | d.d. 13 maart 2008 | Instrument approach chart RWY 21 NDB/DME |   |
+| AD 2.EHBK-IAC-21.4 | d.d. 15 maart 2007 | Instrument approach chart RWY 21 SRE |   |
+| AD 2.EHBK-VAC.1 | d.d. 5 juni 2008 | Visual approach chart |   |
+| AD 2.EHBK-VAC.2 | d.d. 13 maart 2008 | Visual approach chart visual traffic circuits for light ACFT |   |
+|   |   |   |   |
+| Luchtvaartterrein Drachten (EHDR) | Luchtvaartterrein Drachten (EHDR) | Luchtvaartterrein Drachten (EHDR) |   |
+| AD 2.EHDR-4 | d.d. 10 april 2008 | VFR Flight procedures and regulations |   |
+| AD 2.EHDR-VAC | d.d. 14 februari 2008 | Visual approach chart |   |
+|   |   |   |   |
+| Luchtvaartterrein Eelde (EHGG) | Luchtvaartterrein Eelde (EHGG) | Luchtvaartterrein Eelde (EHGG) |   |
+| AD 2.EHGG-7 | d.d. 10 april 2008 | Instrument departure procedures Eelde Airport |   |
+| AD 2.EHGG-8/11 | d.d. 5 juni 2008 | Instrument departure procedures Eelde Airport |   |
+| AD 2.EHGG-11/14 | d.d. 5 juni 2008 | Instrument approach procedures Eelde Airport |   |
+| AD 2.EHGG-14/16 | d.d. 5 juni 2008 | VFR flight procedures Eelde Airport |   |
+| AD 2.EHGG-SID-OVERVIEW | d.d. 13 maart 2008 | Standard instrument departure chart |   |
+| AD 2.EHGG-SID-05 | d.d. 5 juni 2008 | Standard instrument departure chart RWY 05 |   |
+| AD 2.EHGG-SID-23 | d.d. 5 juni 2008 | Standard instrument departure chart RWY 23 |   |
+| AD 2.EHGG-STAR | d.d. 13 maart 2008 | Standard arrival chart |   |
+| AD 2.EHGG-IAC-05.1 | d.d. 13 maart 2008 | Instrument approach chart RWY 05 VOR/DME |   |
+| AD 2.EHGG-IAC-05.2 | d.d. 13 maart 2008 | Instrument approach chart RWY 05 NDB |   |
+| AD 2.EHGG-IAC-23.1 | d.d. 13 maart 2008 | Instrument approach chart RWY 23 ILS |   |
+| AD 2.EHGG-IAC-23.2 | d.d. 13 maart 2008 | Instrument approach chart RWY 23 VOR/DME |   |
+| AD 2.EHGG-IAC-23.3 | d.d. 13 maart 2008 | Instrument approach chart RWY 23 NDB |   |
+| AD 2.EHGG-IAC-MISC | d.d. 13 maart 2008 | Instrument approach chart all RWYs SRE |   |
+| AD 2.EHGG-VAC.1 | d.d. 5 juni 2008 | Visual approach chart |   |
+| AD 2.EHGG-VAC.2 | d.d. 13 maart 2008 | Visual approach chart VFR traffic circuits RWY 01/19 |   |
+| AD 2.EHGG-VAC.3 | d.d. 13 maart 2008 | Visual approach chart VFR traffic circuits RWY 05/23 |   |
+|   |   |   |   |
+| Luchtvaartterrein Hoogeveen (EHHO) | Luchtvaartterrein Hoogeveen (EHHO) | Luchtvaartterrein Hoogeveen (EHHO) |   |
+| AD 2.EHHO-4 | d.d. 10 april 2008 | Flight procedures |   |
+| AD 2.EHHO-VAC | d.d. 13 maart 2008 | Visual approach chart |   |
+|   |   |   |   |
+| Luchtvaartterrein Hilversum (EHHV) | Luchtvaartterrein Hilversum (EHHV) | Luchtvaartterrein Hilversum (EHHV) |   |
+| AD 2.EHHV-4 | d.d. 10 april 2008 | Flight procedures |   |
+| AD 2.EHHV-VAC.1 | d.d. 16 maart 2006 | Visual approach chart |   |
+| AD 2.EHHV-VAC.2 | d.d. 16 maart 2006 | Visual approach chart |   |
+|   |   |   |   |
+| Luchtvaartterrein Lelystad (EHLE) | Luchtvaartterrein Lelystad (EHLE) | Luchtvaartterrein Lelystad (EHLE) |   |
+| AD 2.EHLE-6/7 | d.d. 10 april 2008 | Instrument departure procedures Lelystad Aerodrome |   |
+| AD 2.EHLE-7/9 | d.d. 10 april 2008 | Instrument approach procedures Lelystad Aerodrome |   |
+| AD 2.EHLE-9/10 | d.d. 17 januari 2008 | VFR flight procedures Lelystad Aerodrome |   |
+| AD 2.EHLE-SID-OVERVIEW | d.d. 2 augustus 2007 | Standard instrument departure chart |   |
+| AD 2.EHLE-SID-05 | d.d. 21 december 2006 | Standard instrument departure chart RWY 05 |   |
+| AD 2.EHLE-SID-23 | d.d. 21 december 2006 | Standard instrument departure chart RWY 23 |   |
+| AD 2.EHLE-STAR | d.d. 22 november 2007 | Standard arrival chart |   |
+| AD 2.EHLE-IAC-05.1 | d.d. 21 december 2006 | Instrument approach chart RWY 05 NDB/DME |   |
+| AD 2.EHLE-IAC-05.2 | d.d. 21 december 2006 | Instrument approach chart RWY 05 NDB |   |
+| AD 2.EHLE-IAC-23.1 | d.d. 21 december 2006 | Instrument approach chart RWY 23 NDB/DME |   |
+| AD 2.EHLE-IAC-23.2 | d.d. 21 december 2006 | Instrument approach chart RWY 23 NDB |   |
+| AD 2.EHLE-VAC | d.d. 17 januari 2008 | Visual approach chart RWY 05/23 and MLA RWY |   |
+|   |   |   |   |
+| Luchtvaartterrein Midden Zeeland (EHMZ) | Luchtvaartterrein Midden Zeeland (EHMZ) | Luchtvaartterrein Midden Zeeland (EHMZ) |   |
+| AD 2.EHMZ-4 | d.d. 14 februari 2008 | Flight procedures |   |
+| AD 2.EHMZ-VAC.1 | d.d. 12 mei 2005 | Visual approach chart RWY 09 |   |
+| AD 2.EHMZ-VAC.2 | d.d. 12 mei 2005 | Visual approach chart RWY 27 |   |
+|   |   |   |   |
+| Luchtvaartterrein Rotterdam (EHRD) | Luchtvaartterrein Rotterdam (EHRD) | Luchtvaartterrein Rotterdam (EHRD) |   |
+| AD 2.EHRD-7/12 | d.d. 14 februari 2008 | Instrument departure procedures Rotterdam Airport |   |
+| AD 2.EHRD-13/15 | d.d. 14 februari 2008 | VFR flight procedures Rotterdam Airport |   |
+| AD 2.EHRD-SID-OVERVIEW | d.d. 7 juni 2007 | Standard instrument departure chart |   |
+| AD 2.EHRD-SID-06 | d.d. 7 juni 2007 | Standard instrument departure chart RWY 06 |   |
+| AD 2.EHRD-SID-24 | d.d. 7 juni 2007 | Standard instrument departure chart RWY 24 |   |
+| AD 2.EHRD-STAR | d.d. 22 november 2007 | Standard arrival chart |   |
+| AD 2.EHRD-IAC-06.1 | d.d. 22 november 2007 | Instrument approach chart RWY 06 VOR/DME |   |
+| AD 2.EHRD-IAC-24.1 | d.d. 22 november 2007 | Instrument approach chart RWY 24 ILS |   |
+| AD 2.EHRD-IAC-24.2 | d.d. 22 november 2007 | Instrument approach chart RWY 24 VOR/DME |   |
+| AD 2.EHRD-VAC.1 | d.d. 20 december 2007 | Visual approach chart |   |
+| AD 2.EHRD-VAC.2 | d.d. 7 juni 2007 | Visual approach chart VFR traffic circuits radio equipped light aircraft |   |
+| AD 2.EHRD-VAC.3 | d.d. 7 juni 2007 | Visual approach chart VFR training circuits |   |
+|   |   |   |   |
+| Luchtvaartterrein Seppe (EHSE) | Luchtvaartterrein Seppe (EHSE) | Luchtvaartterrein Seppe (EHSE) |   |
+| AD 2.EHSE-4 | d.d. 10 april 2008 | Flight procedures |   |
+| AD 2.EHSE-VAC | d.d. 20 december 2007 | Visual approach chart |   |
+|   |   |   |   |
+| Luchtvaartterrein Stadskanaal (EHST) | Luchtvaartterrein Stadskanaal (EHST) | Luchtvaartterrein Stadskanaal (EHST) |   |
+| AD 2.EHST-2/3 | d.d. 10 april 2008 | Flight procedures |   |
+| AD 2.EHST-VAC | d.d. 5 juli 2007 | Visual approach chart |   |
+|   |   |   |   |
+| Luchtvaartterrein Teuge (EHTE) | Luchtvaartterrein Teuge (EHTE) | Luchtvaartterrein Teuge (EHTE) |   |
+| AD 2.EHTE-5/6 | d.d. 10 april 2008 | Flight procedures |   |
+| AD 2.EHTE-VAC | d.d. 13 maart 2008 | Visual approach chart |   |
+|   |   |   |   |
+| Luchtvaartterrein Terlet (EHTL) | Luchtvaartterrein Terlet (EHTL) | Luchtvaartterrein Terlet (EHTL) |   |
+| AD 2.EHTL-VAC | d.d. 17 januari 2008 | Visual approach chart |   |
+|   |   |   |   |
+| Luchtvaartterrein Texel (EHTX) | Luchtvaartterrein Texel (EHTX) |   |   |
+| AD 2.EHTX-4 | d.d. 5 juni 2008 | Flight procedures |   |
+| AD 2.EHTX-VAC | d.d. 5 juni 2008 | Visual approach chart |   |
+|   |   |   |   |
+| Luchtvaartterrein (MIL) Eindhoven (EHEH) | Luchtvaartterrein (MIL) Eindhoven (EHEH) | Luchtvaartterrein (MIL) Eindhoven (EHEH) |   |
+| AD 2.EHEH-6 | d.d. 5 juni 2008 | Instrument departure procedures Eindhoven Airport |   |
+| AD 2.EHEH-7 | d.d. 14 februari 2008 | Instrument departure procedures Eindhoven Airport |   |
+| AD 2.EHEH-8/10 | d.d. 5 juni 2008 | Instrument departure procedures Eindhoven Airport |   |
+| AD 2.EHEH-10/14 | d.d. 5 juni 2008 | Instrument approach procedures Eindhoven Airport |   |
+| AD 2.EHEH-14/16 | d.d. 5 juni 2008 | VFR flight procedures and regulations Eindhoven Airport |   |
+| AD 2.EHEH-SID-OVERVIEW | d.d. 5 juni 2008 | Standard instrument departure chart |   |
+| AD 2.EHEH-SID-04 | d.d. 5 juni 2008 | Standard instrument departure chart RWY 04 |   |
+| AD 2.EHEH-SID-22 | d.d. 5 juni 2008 | Standard instrument departure chart RWY 22 |   |
+| AD 2.EHEH-STAR | d.d. 5 juni 2008 | Standard arrival chart |   |
+| AD 2.EHEH-IAC-04.1 | d.d. 3 juli 2008 | Instrument approach chart RWY 04 ILS/DME |   |
+| AD 2.EHEH-IAC-04.2 | d.d. 30 augustus 2007 | Instrument approach chart RWY 04 NDB/DME |   |
+| AD 2.EHEH-IAC-22.1 | d.d. 3 juli 2008 | Instrument approach chart RWY 22 ILS/DME |   |
+| AD 2.EHEH-IAC-22.2 | d.d. 30 augustus 2007 | Instrument approach chart RWY 22 NDB/DME |   |
+| AD 2.EHEH-VAC.1 | d.d. 12 april 2007 | Visual approach chart |   |
+| AD 2.EHEH-VAC.2 | d.d. 20 december 2007 | Visual approach chart VFR traffic circuits |   |
+|   |   |   |   |
+| Luchtvaartterrein (MIL) De Kooy (EHKD) | Luchtvaartterrein (MIL) De Kooy (EHKD) | Luchtvaartterrein (MIL) De Kooy (EHKD) |   |
+| AD 2.EHKD-6 | d.d. 10 april 2008 | Departure procedures De Kooy Aerodrome (MIL) |   |
+| AD 2.EHKD-6/7 | d.d. 10 april 2008 | Initial approach procedures De Kooy Aerodrome (MIL) |   |
+| AD 2.EHKD-7 | d.d. 10 april 2008 | VFR flight procedures |   |
+| AD 2.EHKD-IAC-04.1 | d.d. 10 april 2008 | Instrument approach chart RWY 04 VOR/DME |   |
+| AD 2.EHKD-IAC-04.2 | d.d. 10 april 2008 | Instrument approach chart RWY 04 VOR/DME (copter) |   |
+| AD 2.EHKD-IAC-22.1 | d.d. 3 juli 2008 | Instrument approach chart RWY 22 ILS |   |
+| AD 2.EHKD-IAC-22.2 | d.d. 10 april 2008 | Instrument approach chart RWY 22 VOR/DME |   |
+| AD 2.EHKD-IAC-MISC | d.d. 10 april 2008 | Instrument approach chart RWY 04/22 SRE |   |
+| AD 2.EHKD-VAC | d.d. 10 april 2008 | Visual approach chart |   |
+|   |   |   |   |
+| Luchtvaartterrein (MIL) Soesterberg (EHSB) | Luchtvaartterrein (MIL) Soesterberg (EHSB) | Luchtvaartterrein (MIL) Soesterberg (EHSB) |   |
+| AD 2.EHSB-1/2 | d.d. 10 april 2008 | Departure procedures Soesterberg (MIL) |   |
+| AD 2.EHSB-2/3 | d.d. 10 april 2008 | Initial approach procedures Soesterberg (MIL) |   |
+| AD 2.EHSB-SID-OVERVIEW | d.d. 15 maart 2007 | Standard instrument departure chart |   |
+| AD 2.EHSB-STAR | d.d. 22 november 2007 | Standard arrival chart |   |
+|   |   |   |   |
+| Luchtvaartterrein (MIL) Twenthe (EHTW) | Luchtvaartterrein (MIL) Twenthe (EHTW) | Luchtvaartterrein (MIL) Twenthe (EHTW) |   |
+| AD 2.EHTW-5 | d.d. 21 december 2006 | Departure procedures Twenthe (MIL) |   |
+| AD 2.EHTW-6/7 | d.d. 10 april 2008 | Departure procedures Twenthe (MIL) |   |
+| AD 2.EHTW-7 | d.d. 10 april 2008 | Initial approach procedures Twenthe (MIL) |   |
+| AD 2.EHTW-SID-OVERVIEW | d.d. 10 mei 2007 | Standard instrument departure chart |   |
+| AD 2.EHTW-SID-06 | d.d. 10 mei 2007 | Standard instrument departure chart RWY 06 |   |
+| AD 2.EHTW-SID-24 | d.d. 10 mei 2007 | Standard instrument departure chart RWY 24 |   |
+| AD 2.EHTW-IAC-06.1 | d.d. 15 maart 2007 | Instrument approach chart RWY 06 NDB/DME |   |
+| AD 2.EHTW-IAC-06.2 | d.d. 15 maart 2007 | Instrument approach chart RWY 06 SRE |   |
+| AD 2.EHTW-IAC-24.1 | d.d. 15 maart 2007 | Instrument approach chart RWY 24 NDB/DME |   |
+| AD 2.EHTW-IAC-24.2 | d.d. 15 maart 2007 | Instrument approach chart RWY 24 SRE |   |
+|   |   |   |   |
+| Helihaven Amsterdam Heliport (EHHA) | Helihaven Amsterdam Heliport (EHHA) | Helihaven Amsterdam Heliport (EHHA) |   |
+| AD 3.EHHA-1 | d.d. 8 mei 2008 | Flight procedures |   |
+| AD 3.EHHA-2 | d.d. 10 april 2008 | Flight procedures |   |
+| AD 3.EHHA-VAC | d.d. 30 augustus 2007 | Visual approach chart |   |
+|   |   |   |   |
+
+| Luchtvaartterrein Ameland (EHAL) | Luchtvaartterrein Ameland (EHAL) | Luchtvaartterrein Ameland (EHAL) |
+| --- | --- | --- |
+| AD 2.EHAL-6 | d.d. 8 mei 2008 | Vliegprocedures |
+| AD 2.EHAL-VAC | d.d. 5 juni 2008 | Visual approach chart |
+|   |   |   |
+| Luchtvaartterrein Schiphol (EHAM) | Luchtvaartterrein Schiphol (EHAM) | Luchtvaartterrein Schiphol (EHAM) |
+| AD 2.EHAM-18/20 | d.d. 10 april 2008 | Vliegprocedures |
+| AD 2.EHAM-VAC.1 | d.d. 25 oktober 2007 | Visual approach chart |
+| AD 2.EHAM-VAC.2 | d.d. 22 december 2005 | Visual approach chart |
+|   |   |   |
+| Luchtvaartterrein Budel (EHBD) | Luchtvaartterrein Budel (EHBD) | Luchtvaartterrein Budel (EHBD) |
+| AD 2.EHBD-7/9 | d.d. 10 april 2008 | Vliegprocedures |
+| AD 2.EHBD-VAC.1 | d.d. 17 januari 2008 | Visual approach chart |
+| AD 2.EHBD-VAC.2 | d.d. 17 januari 2008 | Visual approach chart VFR traffic circuits |
+|   |   |   |
+| Luchtvaartterrein Maastricht Aachen (EHBK) | Luchtvaartterrein Maastricht Aachen (EHBK) | Luchtvaartterrein Maastricht Aachen (EHBK) |
+| AD 2.EHBK-10/12 | d.d. 3 juli 2008 | Vliegprocedures |
+| AD 2.EHBK-VAC.1 | d.d. 5 juni 2008 | Visual approach chart |
+| AD 2.EHBK-VAC.2 | d.d. 13 maart 2008 | Visual approach chart visual traffic circuits for light ACFT |
+|   |   |   |
+| Luchtvaartterrein Drachten (EHDR) | Luchtvaartterrein Drachten (EHDR) | Luchtvaartterrein Drachten (EHDR) |
+| AD 2.EHDR-5 | d.d. 10 april 2008 | Vliegprocedures |
+| AD 2.EHDR-VAC | d.d. 14 februari 2008 | Visual approach chart |
+|   |   |   |
+| Luchtvaartterrein (MIL) Eindhoven (EHEH) | Luchtvaartterrein (MIL) Eindhoven (EHEH) | Luchtvaartterrein (MIL) Eindhoven (EHEH) |
+| AD 2.EHEH-9/12 | d.d. 10 april 2008 | Vliegprocedures |
+| AD 2.EHEH-VAC.1 | d.d. 12 april 2007 | Visual approach chart |
+| AD 2.EHEH-VAC.2 | d.d. 20 december 2007 | VFR traffic circuits |
+|   |   |   |
+| Luchtvaartterrein Eelde (EHGG) | Luchtvaartterrein Eelde (EHGG) | Luchtvaartterrein Eelde (EHGG) |
+| AD 2.EHGG-10/12 | d.d. 10 april 2008 | Vliegprocedures |
+| AD 2.EHGG-VAC.1 | d.d. 5 juni 2008 | Visual approach chart |
+| AD 2.EHGG-VAC.2 | d.d. 13 maart 2008 | Visual approach chart VFR traffic circuits RWY 01/19 |
+| AD 2.EHGG-VAC.3 | d.d. 13 maart 2008 | Visual approach chart VFR traffic circuits RWY 05/23 |
+|   |   |   |
+| Luchtvaartterrein Hoogeveen (EHHO) | Luchtvaartterrein Hoogeveen (EHHO) | Luchtvaartterrein Hoogeveen (EHHO) |
+| AD 2.EHHO-6 | d.d. 10 april 2008 | Vliegprocedures |
+| AD 2.EHHO-VAC | d.d. 13 maart 2008 | Visual approach chart |
+|   |   |   |
+| Luchtvaartterrein Hilversum (EHHV) | Luchtvaartterrein Hilversum (EHHV) | Luchtvaartterrein Hilversum (EHHV) |
+| AD 2.EHHV-6/7 | d.d. 10 april 2008 | Vliegprocedures |
+| AD 2.EHHV-VAC.1 | d.d. 16 maart 2006 | Visual approach chart |
+| AD 2.EHHV-VAC.2 | d.d. 16 maart 2006 | Visual approach chart |
+|   |   |   |
+| Luchtvaartterrein (MIL) De Kooy (EHKD) | Luchtvaartterrein (MIL) De Kooy (EHKD) | Luchtvaartterrein (MIL) De Kooy (EHKD) |
+| AD 2.EHKD-8/9 | d.d. 10 april 2008 | Vliegprocedures |
+| AD 2.EHKD-VAC | d.d. 10 april 2008 | Visual approach chart |
+|   |   |   |
+| Luchtvaartterrein Lelystad (EHLE) | Luchtvaartterrein Lelystad (EHLE) | Luchtvaartterrein Lelystad (EHLE) |
+| AD 2.EHLE-8/10 | d.d. 10 april 2008 | Vliegprocedures |
+| AD 2.EHLE-VAC | d.d. 17 januari 2008 | Visual approach chart RWY 05/23 and MLA RWY |
+|   |   |   |
+| Luchtvaartterrein Midden Zeeland (EHMZ) | Luchtvaartterrein Midden Zeeland (EHMZ) | Luchtvaartterrein Midden Zeeland (EHMZ) |
+| AD 2.EHMZ-6/7 | d.d. 14 februari 2008 | Vliegprocedures |
+| AD 2.EHMZ-VAC.1 | d.d. 12 mei 2005 | Visual approach chart RWY 09 |
+| AD 2.EHMZ-VAC.2 | d.d. 12 mei 2005 | Visual approach chart RWY 27 |
+|   |   |   |
+| Luchtvaartterrein Rotterdam (EHRD) | Luchtvaartterrein Rotterdam (EHRD) | Luchtvaartterrein Rotterdam (EHRD) |
+| AD 2.EHRD-10/13 | d.d. 10 april 2008 | Vliegprocedures |
+| AD 2.EHRD-VAC.1 | d.d. 20 december 2007 | Visual approach chart |
+| AD 2.EHRD-VAC.2 | d.d. 7 juni 2007 | Visual approach chart VFR traffic circuits radio equipped light aircraft |
+| AD 2.EHRD-VAC.3 | d.d. 7 juni 2007 | Visual approach chart VFR training circuits |
+|   |   |   |
+| Luchtvaartterrein Seppe (EHSE) | Luchtvaartterrein Seppe (EHSE) | Luchtvaartterrein Seppe (EHSE) |
+| AD 2.EHSE-6 | d.d. 10 april 2008 | Vliegprocedures |
+| AD 2.EHSE-VAC | d.d. 12 mei 2005 | Visual approach chart |
+|   |   |   |
+| Luchtvaartterrein Stadskanaal (EHST) | Luchtvaartterrein Stadskanaal (EHST) | Luchtvaartterrein Stadskanaal (EHST) |
+| AD 2.EHST-4 | d.d. 10 april 2008 | Flight procedures |
+| AD 2.EHST-VAC | d.d. 5 juli 2007 | Visual approach chart |
+|   |   |   |
+| Luchtvaartterrein Teuge (EHTE) |   |   |
+| AD 2.EHTE-7/8 | d.d. 10 april 2008 | Vliegprocedures |
+| AD 2.EHTE-VAC | d.d. 13 maart 2008 | Visual approach chart |
+|   |   |   |
+| Luchtvaartterrein Terlet (EHTL) | Luchtvaartterrein Terlet (EHTL) |   |
+| AD 2.EHTL-VAC | d.d. 17 januari 2008 | Visual approach chart |
+|   |   |   |
+| Luchtvaartterrein Texel (EHTX) | Luchtvaartterrein Texel (EHTX) | Luchtvaartterrein Texel (EHTX) |
+| AD 2.EHTX-6 | d.d. 5 juni 2008 | Vliegprocedures |
+| AD 2.EHTX-VAC | d.d. 5 juni 2008 | Visual approach chart |
+|   |   |   |
+| Helihaven Amsterdam Heliport (EHHA) | Helihaven Amsterdam Heliport (EHHA) | Helihaven Amsterdam Heliport (EHHA) |
+| AD 3.EHHA-2/3 | d.d. 10 april 2008 | Vliegprocedures |
+| AD 3.EHHA-VAC | d.d. 30 augustus 2007 | Visual approach chart |
