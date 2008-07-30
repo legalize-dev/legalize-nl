@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2008-02-24"
+last_updated: "2008-07-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -112,7 +112,7 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 2°. de United Nations Advanced Mission in Sudan ‘UNAMIS’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan;
 
-- 3°. de United Nations World Food Program Mission ‘UNWFP’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak, alsmede op en vanaf de luchthaven van Amman in Jordanië;
+- 3°. de United Nations World Food Program Mission ‘UNWFP’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak, op en vanaf de luchthaven van Amman in Jordanië alsmede bij de zeetransporten naar en in de wateren van Somalië;
 
 - 4°. de Mission de l'Organisation des Nations Unies en République démocratique du Congo ‘MONUC’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de volksrepubliek Congo;
 
