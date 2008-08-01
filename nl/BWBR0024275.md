@@ -161,19 +161,3 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling Wet ter voorkoming van w
 Deze regeling treedt in werking met ingang van het tijdstip waarop de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) in werking treedt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-Dit onderdeel is nog niet inwerking getreden
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-1. De toezichthoudende autoriteiten, bedoeld in [artikel 1d, eerste lid, onderdelen a en b, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1d), met uitzondering voor zover het betreft de instellingen als bedoeld in [artikel 1a, vierde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), en onderdelen e en f van de wet, verstrekken aan de Minister van Financiën op diens verzoek onverwijld alle inlichtingen die van belang kunnen zijn voor de nakoming van internationale afspraken en verplichtingen of voor een onderzoek naar de toereikendheid van de wet.
-
-2. De toezichthoudende autoriteiten, bedoeld in het eerste lid, dragen bij aan de totstandkoming van procedurele afspraken met betrekking tot de handhaving tussen hen en de betrokken ministeries en andere overheidsinstellingen.
-
-3. De toezichthoudende autoriteiten, bedoeld in het eerste lid, maken afspraken met andere autoriteiten die belast zijn met de uitvoering en handhaving van de wet over de onderlinge samenwerking en informatie-uitwisseling ten behoeve van de uitoefening van hun taken.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
