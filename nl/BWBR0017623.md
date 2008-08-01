@@ -4,7 +4,7 @@ identifier: "BWBR0017623"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-06-16"
-last_updated: "2007-05-16"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017623"
 soort: "AMvB"
@@ -79,7 +79,7 @@ Een spoorwegonderneming bezit een goede naam als bedoeld in [artikel 28, eerste 
 
 - 2°. [artikel 32 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=32),
 
-- 3°. de [artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=9), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=11), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=14), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=17), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=32), [44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=44), [45 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=45), [48, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=48), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=50) of [51 van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=51),
+- 3°. de [artikelen 1:11](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:11), [1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23), [1:27](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:27), [1:28](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:28), [1:32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:32), [10:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:1), [10:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:2), [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:4), [10:5, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:5), of [10:9 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:9),
 
 - 4°. de artikelen 14 en 69, tweede lid, van het Communautair douanewetboek, en
 
@@ -87,11 +87,11 @@ Een spoorwegonderneming bezit een goede naam als bedoeld in [artikel 28, eerste 
 
 ##### Artikel 4
 
-1. Op een bestuurder van een spoorwegonderneming is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2007-05-16&g=2007-05-16) van overeenkomstige toepassing.
+1. Op een bestuurder van een spoorwegonderneming is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2008-08-01&g=2008-08-01) van overeenkomstige toepassing.
 
 2. Indien natuurlijke personen dan wel rechtspersonen gezamenlijk als spoorwegonderneming optreden, voldoet ieder van de natuurlijke personen en ieder van de bestuurders van de rechtspersonen aan het vereiste van goede naam.
 
-3. Indien de permanente en daadwerkelijke leiding door een ander dan de natuurlijke persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-05-16&g=2007-05-16), dan wel door een ander dan de in het eerste lid genoemde bestuurder wordt verricht, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2007-05-16&g=2007-05-16) op die ander van overeenkomstige toepassing.
+3. Indien de permanente en daadwerkelijke leiding door een ander dan de natuurlijke persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-08-01&g=2008-08-01), dan wel door een ander dan de in het eerste lid genoemde bestuurder wordt verricht, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2008-08-01&g=2008-08-01) op die ander van overeenkomstige toepassing.
 
 #### § 3. Financiële draagkracht
 
@@ -137,7 +137,7 @@ Aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 28, eerste lid, van
 
 3. Een spoorwegonderneming die louter activiteiten uitoefent als bedoeld in het tweede lid voldoet aan de uit [artikel 55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=55) voortvloeiende verzekeringsplicht indien zij de uit de wettelijke aansprakelijkheid voortvloeiende financiële risico’s heeft gedekt door middel van een verzekering die Nederland als dekkingsgebied heeft en een dekkingsbedrag heeft van minimaal € 2.500.000 per gebeurtenis.
 
-4. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=5&artikel=7&z=2007-05-16&g=2007-05-16), is van overeenkomstige toepassing.
+4. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=5&artikel=7&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing.
 
 #### § 7. Aanvraag
 
@@ -185,7 +185,7 @@ Een aanvraag tot verlening van een bedrijfsvergunning bevat met het oog op het v
 
 ##### Artikel 13
 
-Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=8&artikel=12&z=2007-05-16&g=2007-05-16), legt de spoorwegonderneming elke vijf jaar, gerekend vanaf de dag waarop de bedrijfsvergunning in werking is getreden, aan Onze Minister over:
+Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=8&artikel=12&z=2008-08-01&g=2008-08-01), legt de spoorwegonderneming elke vijf jaar, gerekend vanaf de dag waarop de bedrijfsvergunning in werking is getreden, aan Onze Minister over:
 
 - a. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28),
 
@@ -193,7 +193,7 @@ Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofds
 
 - c. een bewijs van dekking van de uit wettelijke aansprakelijkheid voortvloeiende financiële risico’s, en
 
-- d. een verklaring dat zij voldoet aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=4&artikel=6&z=2007-05-16&g=2007-05-16).
+- d. een verklaring dat zij voldoet aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=4&artikel=6&z=2008-08-01&g=2008-08-01).
 
 #### § 10. Overig
 
@@ -235,7 +235,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van:
 
 ##### Artikel 19
 
-1. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2007-05-16&g=2007-05-16), geen toepassing heeft gevonden, stelt over ieder kalenderjaar een jaarverslag op met betrekking tot de spoorwegveiligheid en zendt dat in het daaropvolgende jaar telkens voor 30 juni aan Onze Minister.
+1. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2008-08-01&g=2008-08-01), geen toepassing heeft gevonden, stelt over ieder kalenderjaar een jaarverslag op met betrekking tot de spoorwegveiligheid en zendt dat in het daaropvolgende jaar telkens voor 30 juni aan Onze Minister.
 
 2. Het jaarverslag bevat in elk geval de in artikel 9, vierde lid, onderdeel a tot en met d, van richtlijn 2004/49/EG bedoelde informatie.
 
@@ -257,15 +257,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 16a
 
-1. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2007-05-16&g=2007-05-16), geen toepassing heeft gevonden:
+1. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2008-08-01&g=2008-08-01), geen toepassing heeft gevonden:
 
-- a. draagt er zorg voor dat het veiligheidszorgsysteem blijft voldoen aan [artikel 33, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=33) en [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2007-05-16&g=2007-05-16);
+- a. draagt er zorg voor dat het veiligheidszorgsysteem blijft voldoen aan [artikel 33, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=33) en [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2008-08-01&g=2008-08-01);
 
 - b. maakt binnen een jaar na de afgifte daarvan gebruik van de hoofdspoorweginfrastructuur, en
 
 - c. maakt aan Onze Minister zo spoedig mogelijk melding van wijzigingen ten aanzien waarvan redelijkerwijs moet worden aangenomen dat zij gevolgen hebben voor het afgegeven veiligheidsattest of voor de daaraan verbonden beperkingen en voorschriften.
 
-2. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2007-05-16&g=2007-05-16), toepassing heeft gevonden:
+2. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2008-08-01&g=2008-08-01), toepassing heeft gevonden:
 
 - a. blijft beschikken over een geldige certificering als bedoeld in artikel 10, tweede lid, onderdeel a, van richtlijn 2004/49/EG, en
 
@@ -273,11 +273,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 17a
 
-Onze Minister gebruikt zijn bevoegdheid tot intrekking van het veiligheidsattest als bedoeld in [artikel 33, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=33), indien de houder van het attest niet meer voldoet aan de in [artikel 16a, eerste lid, onderdelen a en b en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16a&z=2007-05-16&g=2007-05-16), gestelde eisen.
+Onze Minister gebruikt zijn bevoegdheid tot intrekking van het veiligheidsattest als bedoeld in [artikel 33, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=33), indien de houder van het attest niet meer voldoet aan de in [artikel 16a, eerste lid, onderdelen a en b en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16a&z=2008-08-01&g=2008-08-01), gestelde eisen.
 
 ##### Artikel 19a
 
-Een wijziging van artikel 9, vierde lid, en van bijlage III van richtlijn 2004/49/EG gaat voor de toepassing van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=19&z=2007-05-16&g=2007-05-16), onderscheidenlijk van [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2007-05-16&g=2007-05-16), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+Een wijziging van artikel 9, vierde lid, en van bijlage III van richtlijn 2004/49/EG gaat voor de toepassing van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=19&z=2008-08-01&g=2008-08-01), onderscheidenlijk van [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2008-08-01&g=2008-08-01), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
