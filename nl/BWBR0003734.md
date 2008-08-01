@@ -4,7 +4,7 @@ identifier: "BWBR0003734"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2005-03-16"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003734"
 soort: "wet"
@@ -60,7 +60,7 @@ De bij deze wet aan Onze Minister van Economische Zaken verleende bevoegdheden w
 
 ##### Artikel 3
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2005-03-16&g=2005-03-16) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=8&z=2005-03-16&g=2005-03-16) gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2008-08-01&g=2008-08-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=8&z=2008-08-01&g=2008-08-01) gezamenlijk of afzonderlijk in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -122,9 +122,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 16
 
-1. Bij algemene maatregel van bestuur worden de autoriteiten aangewezen die krachtens algemeen mandaat of krachtens mandaat voor een bepaald geval en met inachtneming van de bij die maatregel gestelde regelen, in enig gebied de bevoegdheden uitoefenen welke krachtens deze wet, de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389), de [Noodwet voedselvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002392), de [Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393), de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252) en de [In- en uitvoerwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002376) toekomen aan Onze Minister.
+1. Bij algemene maatregel van bestuur worden de autoriteiten aangewezen die krachtens algemeen mandaat of krachtens mandaat voor een bepaald geval en met inachtneming van de bij die maatregel gestelde regelen, in enig gebied de bevoegdheden uitoefenen welke krachtens deze wet, de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389), de [Noodwet voedselvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002392), de [Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393), de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252) en de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) toekomen aan Onze Minister.
 
-2. Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, worden tevens de autoriteiten aangewezen die krachtens algemeen mandaat of krachtens mandaat voor een bepaald geval en met inachtneming van de bij die maatregel gestelde regelen, in enig gebied de bevoegdheden uitoefenen welke krachtens deze wet, de [Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) en de [In- en uitvoerwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002376) toekomen aan een van Onze andere Ministers, niet zijnde Onze Minister-President of Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
+2. Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, worden tevens de autoriteiten aangewezen die krachtens algemeen mandaat of krachtens mandaat voor een bepaald geval en met inachtneming van de bij die maatregel gestelde regelen, in enig gebied de bevoegdheden uitoefenen welke krachtens deze wet, de [Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) en de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) toekomen aan een van Onze andere Ministers, niet zijnde Onze Minister-President of Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
 
 3. Een algemeen mandaat als bedoeld in het eerste en het tweede lid wordt niet voor onbepaalde tijd gegeven. Zij bevat tenminste de naam of de functie van de mandataris, de bevoegdheid die wordt gemandateerd en de periode waarin het mandaat geldt.
 
@@ -158,8 +158,8 @@ Bevat wijzigingen in andere regelgeving.
 
 1. Deze wet kan worden aangehaald als: Prijzennoodwet.
 
-2. Met uitzondering van de [artikelen 5-15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2005-03-16&g=2005-03-16) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
+2. Met uitzondering van de [artikelen 5-15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2008-08-01&g=2008-08-01) treedt zij in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
 
-3. De [artikelen 5 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2005-03-16&g=2005-03-16) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+3. De [artikelen 5 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003734&artikel=5&z=2008-08-01&g=2008-08-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
