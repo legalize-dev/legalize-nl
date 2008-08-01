@@ -4,7 +4,7 @@ identifier: "BWBR0002633"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002633"
 soort: "AMvB"
@@ -77,7 +77,7 @@ Hebben goedgevonden en verstaan:
 
 - b. de assurantiekosten welke de ondernemer die de prestatie verricht, aan een andere ondernemer moet voldoen, mits zij afzonderlijk in rekening worden gebracht;
 
-- c. de voor degene aan wie de dienst wordt bewezen, aan rechten bij invoer als bedoeld in [artikel 1, tweede lid, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=1) en andere belastingen en heffingen gedane uitschotten, alsmede andere bij ministeriële regeling aan te wijzen met doorlopende posten gelijk te stellen bedragen betreffende niet belastbare of vrijgestelde prestaties.
+- c. de voor degene aan wie de dienst wordt bewezen, aan rechten bij invoer als bedoeld in [artikel 7:3 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:3) en andere belastingen en heffingen gedane uitschotten, alsmede andere bij ministeriële regeling aan te wijzen met doorlopende posten gelijk te stellen bedragen betreffende niet belastbare of vrijgestelde prestaties.
 
 2. Voorts behoort bij levering van gebruikte personenauto’s, gebruikte motorrijwielen en gebruikte bestelauto’s anders dan met toepassing van [artikel 28b](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28b) of [28d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28d), niet tot de vergoeding, het bij de personenauto, het motorrijwiel of de bestelauto nog behorende bedrag aan belasting bedoeld in en berekend overeenkomstig het bij of krachtens [artikel 10, derde en zesde lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=10) bepaalde. In afwijking hiervan behoort bij levering van gebruikte motorrijtuigen waarvoor op de voet van de in de vorige volzin genoemde [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) een vrijstelling of een teruggaaf is verleend, niet tot de vergoeding het bedrag dat ingevolge [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) bij het afstoten van het motorrijtuig moet worden voldaan door de ondernemer die het motorrijtuig levert, met dien verstande dat de eerste volzin van overeenkomstige toepassing is voor zover de belasting voor het motorrijtuig al op een eerder tijdstip is voldaan omdat niet langer aan de voorwaarden van de vrijstelling, onderscheidenlijk de teruggaaf, werd voldaan.
 
@@ -93,7 +93,7 @@ Hebben goedgevonden en verstaan:
 
 4. Bij levering onder voorbehoud van grondrente of van met grondrente bezwaarde eigendom behoort de waarde van de uitkering tot de vergoeding, met dien verstande dat de vergoeding hierdoor niet hoger kan zijn dan de waarde in het economische verkeer van de zaak waarop het recht betrekking heeft.
 
-5. De waarde van een canon, een retributie, een huur of een uitkering wordt bepaald met inachtneming van de bij dit besluit behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=A&z=2008-01-01&g=2008-01-01).
+5. De waarde van een canon, een retributie, een huur of een uitkering wordt bepaald met inachtneming van de bij dit besluit behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=A&z=2008-08-01&g=2008-08-01).
 
 6. Het tweede tot en met het vijfde lid is niet van toepassing voor zover de vestiging, overdracht, wijziging, afstand en opzegging van rechten waaraan onroerende zaken zijn onderworpen niet op grond van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3), van de wet, met toepassing van de voorgaande leden, als levering van goederen wordt aangemerkt.
 
@@ -109,9 +109,9 @@ Voor de toepassing van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 7
 
-1. Als leveringen en diensten van sociale of culturele aard als bedoeld in [artikel 11, eerste lid, onderdeel f , van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), worden aangewezen de leveringen en diensten, genoemd in de bij dit besluit behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2008-01-01&g=2008-01-01).
+1. Als leveringen en diensten van sociale of culturele aard als bedoeld in [artikel 11, eerste lid, onderdeel f , van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), worden aangewezen de leveringen en diensten, genoemd in de bij dit besluit behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2008-08-01&g=2008-08-01).
 
-2. Tot de in het eerste lid bedoelde leveringen en diensten behoren niet, behoudens voor zover in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2008-01-01&g=2008-01-01) bij dit besluit anders is bepaald:
+2. Tot de in het eerste lid bedoelde leveringen en diensten behoren niet, behoudens voor zover in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2008-08-01&g=2008-08-01) bij dit besluit anders is bepaald:
 
 - a. het verstrekken van spijzen en dranken;
 
@@ -169,51 +169,51 @@ Vervallen
 
 ##### Artikel 12
 
-1. De aanspraak op toepassing van het tarief van nihil voor leveringen, intracommunautaire verwervingen en invoer van goederen en voor diensten, genoemd in [de bij de wet behorende tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), geldt slechts, indien de toepasselijkheid van dat tarief uit boeken en bescheiden blijkt.
+1. De aanspraak op toepassing van het tarief van nihil voor leveringen, intracommunautaire verwervingen en invoer van goederen en voor diensten, genoemd in de bij de [wet behorende tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), geldt slechts, indien de toepasselijkheid van dat tarief uit boeken en bescheiden blijkt.
 
 2. Onverminderd het bepaalde in het eerste lid, is het tarief van nihil slechts van toepassing:
 
 - a.
 
-- 1°. voor wat betreft de levering, de intracommunautaire verwerving en de invoer van luchtvaartuigen, alsmede de diensten welke ten aanzien van luchtvaartuigen worden verricht, indien de ondernemer kan overleggen een schriftelijke verklaring van de afnemer van de luchtvaartuigen, onderscheidenlijk degene aan wie de diensten ten aanzien van luchtvaartuigen worden verleend, dat het luchtvaartuigen betreft als bedoeld in [de bij de wet behorende tabel II, onderdeel a, post 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II);
+- 1°. voor wat betreft de levering, de intracommunautaire verwerving en de invoer van luchtvaartuigen, alsmede de diensten welke ten aanzien van luchtvaartuigen worden verricht, indien de ondernemer kan overleggen een schriftelijke verklaring van de afnemer van de luchtvaartuigen, onderscheidenlijk degene aan wie de diensten ten aanzien van luchtvaartuigen worden verleend, dat het luchtvaartuigen betreft als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II);
 
-- 2°. voor wat betreft de leveringen van goederen als bedoeld in [de bij de wet behorende tabel II, onderdeel a, post 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), indien de ondernemer beschikt over het btw-identificatienummer van degene die de goederen afneemt;
+- 2°. voor wat betreft de leveringen van goederen als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), indien de ondernemer beschikt over het btw-identificatienummer van degene die de goederen afneemt;
 
 - b.
 
-- 1°. voor wat betreft de leveringen van accijnsgoederen als bedoeld in [de bij de wet behorende tabel II, onderdeel a, post 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de accijnsgoederen afneemt dat deze de goederen geleverd krijgt en in opslag neemt in een accijnsgoederenplaats als bedoeld in de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) die voor die soort accijnsgoederen als zodanig is aangewezen, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is;
+- 1°. voor wat betreft de leveringen van accijnsgoederen als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de accijnsgoederen afneemt dat deze de goederen geleverd krijgt en in opslag neemt in een accijnsgoederenplaats als bedoeld in de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) die voor die soort accijnsgoederen als zodanig is aangewezen, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is;
 
-- 2°. voor wat betreft de leveringen van minerale oliën als bedoeld in [de bij de wet behorende tabel II, onderdeel a, post 7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), indien de ondernemer kan overleggen een afschrift van het geleidedocument alsmede een schriftelijke verklaring van de ondernemer die de minerale oliën afneemt dat deze de minerale oliën niet aan het geleidedocument zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is;
+- 2°. voor wat betreft de leveringen van minerale oliën als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), indien de ondernemer kan overleggen een afschrift van het geleidedocument alsmede een schriftelijke verklaring van de ondernemer die de minerale oliën afneemt dat deze de minerale oliën niet aan het geleidedocument zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is;
 
-- c. voor wat betreft de leveringen van goederen als bedoeld in [de bij de wet behorende tabel II, onderdeel a, post 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de goederen afneemt dat deze die goederen opneemt in zijn niet-plaatsgebonden entrepot als bedoeld in die post, onder vermelding van het nummer van zijn entrepotvergunning, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is.
+- c. voor wat betreft de leveringen van goederen als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de goederen afneemt dat deze die goederen opneemt in zijn niet-plaatsgebonden entrepot als bedoeld in die post, onder vermelding van het nummer van zijn entrepotvergunning, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) door die ondernemer mogelijk is.
 
-- d. voor wat betreft de achtereenvolgende leveringen die plaatsvinden ingeval door meer dan één persoon overeenkomsten worden gesloten met de verplichting tot levering van eenzelfde goed dat vervolgens door de eerste persoon rechtstreeks aan de laatste afnemer buiten de Gemeenschap of in een entrepot wordt afgeleverd, indien een door iedere afnemer - behalve de buitenlandse - aan zijn leverancier uit te reiken schriftelijke opdracht tot uitvoer uit de Gemeenschap of tot plaatsing onder het stelsel van douane-entrepots op basis van artikel 98, eerste lid, onderdeel b, van het Communautair douanewetboek kan worden overgelegd;
+- d. voor wat betreft de achtereenvolgende leveringen die plaatsvinden ingeval door meer dan één persoon overeenkomsten worden gesloten met de verplichting tot levering van eenzelfde goed dat vervolgens door de eerste persoon rechtstreeks aan de laatste afnemer buiten de Gemeenschap of in een entrepot wordt afgeleverd, indien een door iedere afnemer - behalve de buitenlandse - aan zijn leverancier uit te reiken schriftelijke opdracht tot uitvoer uit de Gemeenschap of tot plaatsing onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek kan worden overgelegd;
 
-- e. voor wat betreft de levering van een motorrijtuig waarvoor ter zake van de in [artikel 36 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) bedoelde opgaaf van een kenteken een bewijs is afgegeven en welk motorrijtuig door een ondernemer wordt vervoerd naar een andere Lid-Staat, wordt uitgevoerd uit de Gemeenschap of wordt gebracht onder het stelsel van douane-entrepots op basis van artikel 98, eerste lid, onderdeel b, van het Communautair douanewetboek, indien de ondernemer een terzake door de Dienst Wegverkeer (RDW) opgemaakte verklaring kan overleggen;
+- e. voor wat betreft de levering van een motorrijtuig waarvoor ter zake van de in [artikel 36 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) bedoelde opgaaf van een kenteken een bewijs is afgegeven en welk motorrijtuig door een ondernemer wordt vervoerd naar een andere Lid-Staat, wordt uitgevoerd uit de Gemeenschap of wordt gebracht onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek, indien de ondernemer een terzake door de Dienst Wegverkeer (RDW) opgemaakte verklaring kan overleggen;
 
 - f. voor wat betreft de levering door een ondernemer als bedoeld in [artikel 7, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), van een nieuw vervoermiddel dat wordt vervoerd naar een andere Lid-Staat, indien de ondernemer aan de inspecteur de naam en het adres meldt van degene aan wie de levering is verricht.
 
-In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b en c niet in Nederland woont of is gevestigd dan wel aldaar geen vaste inrichting heeft, dient deze voor de toepassing van het tarief van nihil een fiscaal vertegenwoordiger als bedoeld in [artikel 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2008-01-01&g=2008-01-01) te hebben aangesteld.
+In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b en c niet in Nederland woont of is gevestigd dan wel aldaar geen vaste inrichting heeft, dient deze voor de toepassing van het tarief van nihil een fiscaal vertegenwoordiger als bedoeld in [artikel 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2008-08-01&g=2008-08-01) te hebben aangesteld.
 
 3. In geval een ondernemer die een verklaring als bedoeld in het tweede lid, onderdeel b of c, heeft afgegeven, aan de desbetreffende goederen een andere bestemming geeft, wordt de belasting ter zake van de aan hem verrichte levering van die goederen alsnog verschuldigd naar het tarief als bedoeld in [artikel 9, eerste lid, dan wel tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9).
 
-4. In geval het derde lid toepassing vindt met betrekking tot accijnsgoederen als bedoeld in [de bij de wet behorende tabel II, onderdeel a, post 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), wordt de maatstaf van heffing verhoogd met het bedrag van de accijns dat voor die goederen ingevolge de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) bij uitslag verschuldigd zou zijn.
+4. In geval het derde lid toepassing vindt met betrekking tot accijnsgoederen als bedoeld in de bij de [wet behorende tabel II, onderdeel a, post 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), wordt de maatstaf van heffing verhoogd met het bedrag van de accijns dat voor die goederen ingevolge de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) bij uitslag verschuldigd zou zijn.
 
 5. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven met betrekking tot de wijze waarop de aanspraak op toepassing van het tarief van nihil wordt aangetoond.
 
 ##### Artikel 12a
 
-1. Met betrekking tot de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, onder **a**, die zich bevinden in een accijnsgoederenplaats is [artikel 12, tweede lid, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2008-01-01&g=2008-01-01), niet van toepassing indien ter zake van die accijnsgoederenplaats de bijzondere bepaling van tabel II, onderdeel **a**, post 7, van toepassing is.
+1. Met betrekking tot de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, onder **a**, die zich bevinden in een accijnsgoederenplaats is [artikel 12, tweede lid, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2008-08-01&g=2008-08-01), niet van toepassing indien ter zake van die accijnsgoederenplaats de bijzondere bepaling van tabel II, onderdeel **a**, post 7, van toepassing is.
 
-2. Met betrekking tot de leveringen bedoeld in het eerste lid is [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2008-01-01&g=2008-01-01), slotzin, niet van toepassing.
+2. Met betrekking tot de leveringen bedoeld in het eerste lid is [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2008-08-01&g=2008-08-01), slotzin, niet van toepassing.
 
 ##### Artikel 13
 
-Bij ministeriële regeling kunnen aan de teruggaaf op de voet van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=24), van de wet voorwaarden worden verbonden welke betrekking kunnen hebben op:
+Bij ministeriële regeling kunnen aan de teruggaaf op de voet van [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=24) voorwaarden worden verbonden welke betrekking kunnen hebben op:
 
 - a. het overleggen van bescheiden bij de aangifte ter verkrijging van de teruggaaf;
 
-- b. de wijze waarop wordt aangetoond, dat de goederen waarvan de belasting wordt teruggevraagd, de Gemeenschap hebben verlaten of onder het stelsel van douane-entrepots zijn gebracht op basis van artikel 98, eerste lid, onderdeel **b**, van het Communautair douanewetboek.
+- b. de wijze waarop wordt aangetoond, dat de goederen waarvan de belasting wordt teruggevraagd, de Gemeenschap hebben verlaten of onder het stelsel van douane-entrepots zijn gebracht op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek.
 
 ##### Artikel 14
 
@@ -311,7 +311,7 @@ Bij een tariefwijziging met ingang van een boekjaar wordt met betrekking tot het
 
 ##### Artikel 16b
 
-1. Bij een tariefwijziging in de loop van een boekjaar handelt de ondernemer, in afwijking in zoverre van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2008-01-01&g=2008-01-01) voor methode I in de onderdelen **a** tot en met **h** bepaalde, als is aangegeven in het tweede tot en met het vijfde lid.
+1. Bij een tariefwijziging in de loop van een boekjaar handelt de ondernemer, in afwijking in zoverre van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2008-08-01&g=2008-08-01) voor methode I in de onderdelen **a** tot en met **h** bepaalde, als is aangegeven in het tweede tot en met het vijfde lid.
 
 2. Met betrekking tot een in het boekjaar gelegen belastingtijdvak na het tijdstip van tariefwijziging kan de ondernemer voor de toepassing van het voor methode I in de onderdelen **c** en **d** bepaalde:
 
@@ -335,7 +335,7 @@ Bij een tariefwijziging met ingang van een boekjaar wordt met betrekking tot het
 
 ##### Artikel 16d
 
-Bij een wijziging van de hoogte van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2008-01-01&g=2008-01-01) bij methode II in onderdeel **h** vermelde tarief met ingang van een boekjaar of in de loop daarvan is het bepaalde in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2008-01-01&g=2008-01-01) van overeenkomstige toepassing.
+Bij een wijziging van de hoogte van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2008-08-01&g=2008-08-01) bij methode II in onderdeel **h** vermelde tarief met ingang van een boekjaar of in de loop daarvan is het bepaalde in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2008-08-01&g=2008-08-01) van overeenkomstige toepassing.
 
 ##### Artikel 17
 
@@ -359,7 +359,7 @@ Bij een wijziging van de hoogte van het in [artikel 16](https://wetten.overheid.
 
 ##### Artikel 17a
 
-Het bepaalde in de [artikelen 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16a&z=2008-01-01&g=2008-01-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16b&z=2008-01-01&g=2008-01-01), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2008-01-01&g=2008-01-01) en [16d](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16d&z=2008-01-01&g=2008-01-01) is van overeenkomstige toepassing ten aanzien van een ondernemer als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=17&z=2008-01-01&g=2008-01-01).
+Het bepaalde in de [artikelen 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16a&z=2008-08-01&g=2008-08-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16b&z=2008-08-01&g=2008-08-01), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2008-08-01&g=2008-08-01) en [16d](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16d&z=2008-08-01&g=2008-08-01) is van overeenkomstige toepassing ten aanzien van een ondernemer als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=17&z=2008-08-01&g=2008-08-01).
 
 ##### Artikel 18
 
@@ -423,9 +423,9 @@ Vervallen
 
 ##### Artikel 24a
 
-1. Van niet in het vrije verkeer zijnde goederen waarmee in Nederland een vervoermiddel wordt bevoorraad, moet degene voor wie de goederen zijn bestemd, niet zijnde een ondernemer of lichaam in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), aangifte doen. Op de aangifte en de goederen zijn de wettelijke bepalingen, bedoeld in [artikel 2, tweede lid, onderdeel **a**, van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=2), van toepassing als ware sprake van een aangifte voor het vrije verkeer en van voor de douaneregeling vrij verkeer aangegeven goederen.
+1. Van niet in het vrije verkeer zijnde goederen waarmee in Nederland een vervoermiddel wordt bevoorraad, moet degene voor wie de goederen zijn bestemd, niet zijnde een ondernemer of lichaam in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), aangifte doen. Op de aangifte en de goederen zijn de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), van toepassing als ware sprake van een aangifte voor het vrije verkeer en van voor de douaneregeling vrij verkeer aangegeven goederen.
 
-2. De toestemming tot lading als bedoeld in [artikel 80 van het Douanebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007925&artikel=80), wordt voor de in het eerste lid bedoelde goederen slechts gegeven indien wordt aangetoond, dat de in dat lid bedoelde aangifte is gedaan.
+2. De in het eerste lid bedoelde goederen worden slechts vrijgegeven als bedoeld in artikel 73, eerste lid, van het Communautair douanewetboek indien wordt aangetoond dat de in het eerste lid van dit artikel bedoelde aangifte is gedaan.
 
 ### Afdeling E. Verlegging
 
@@ -475,7 +475,7 @@ Vervallen
 
 - e. een onroerende zaak of een recht waaraan deze is onderworpen, wordt geleverd aan een ondernemer op grond van een executoriale titel door de executieschuldenaar.
 
-2. [Artikel 24b, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=E&artikel=24b&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+2. [Artikel 24b, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=E&artikel=24b&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing.
 
 ### Afdeling F. Fiscaal vertegenwoordiger
 
@@ -525,7 +525,7 @@ Vervallen
 
 - 4°. de intracommunautaire verwerving van goederen die voorafgaat aan een levering als bedoeld onder 3°;
 
-- 5°. de levering van goederen met toepassing van het tarief van nihil op de voet van tabel II, onderdeel **a**, post 2 of 6, van de wet die volgt op een levering als bedoeld [onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2008-01-01&g=2008-01-01);
+- 5°. de levering van goederen met toepassing van het tarief van nihil op de voet van tabel II, onderdeel **a**, post 2 of 6, van de wet die volgt op een levering als bedoeld [onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=F&artikel=24c&z=2008-08-01&g=2008-08-01);
 
 - 6°. de levering bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, Bijzondere bepaling, dan wel post 8, Bijzondere bepaling, voor de buitenlandse ondernemer indien de levering aan hem is verricht, alsmede voor de door die ondernemer te verrichten volgende levering.
 
@@ -677,7 +677,7 @@ Vervallen
 
 - a. Vervallen;
 
-- b. De leveringen en diensten als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=II&artikel=7&z=2008-01-01&g=2008-01-01) van het besluit, die als zodanig worden verricht door de hierna genoemde instellingen:
+- b. De leveringen en diensten als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=II&artikel=7&z=2008-08-01&g=2008-08-01) van het besluit, die als zodanig worden verricht door de hierna genoemde instellingen:
 
 - 1. kruisverenigingen;
 
@@ -749,7 +749,7 @@ Vervallen
 
 - 33. instellingen die werkzaam zijn op het gebied van schuldhulpverlening, met uitzondering van bewindvoering in het kader van de wettelijke schuldregeling, voorzover de diensten niet reeds kunnen worden gerangschikt onder [artikel 11, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11).
 
-- c. Voorzover niet vallend onder onderdeel b worden voorts als leveringen en diensten als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=II&artikel=7&z=2008-01-01&g=2008-01-01) van het besluit aangewezen: welke worden verricht door een publiekrechtelijk lichaam of door een andere organisatie die, na een daartoe gedaan schriftelijk verzoek, door de inspecteur terzake bij voor bezwaar vatbare beschikking is erkend als instelling van sociale of culturele aard.
+- c. Voorzover niet vallend onder onderdeel b worden voorts als leveringen en diensten als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=II&artikel=7&z=2008-08-01&g=2008-08-01) van het besluit aangewezen: welke worden verricht door een publiekrechtelijk lichaam of door een andere organisatie die, na een daartoe gedaan schriftelijk verzoek, door de inspecteur terzake bij voor bezwaar vatbare beschikking is erkend als instelling van sociale of culturele aard.
 
 - 1. leveringen en diensten die nauw samenhangen met maatschappelijk werk, met de sociale zekerheid en met de bescherming van kinderen en jongeren; en
 
@@ -781,7 +781,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 - f. de levering van resten en afval dat ontstaat bij de bewerking van grondstoffen.
 
-2. [Artikel 24b, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=E&artikel=24b&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+2. [Artikel 24b, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=E&artikel=24b&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing.
 
 ### Afdeling F. Fiscaal vertegenwoordiger
 
