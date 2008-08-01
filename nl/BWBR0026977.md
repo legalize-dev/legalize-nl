@@ -4,7 +4,7 @@ identifier: "BWBR0026977"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026977"
 soort: "wet"
@@ -122,7 +122,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet waardering onroerende zaken.
 
 ##### Artikel XVI
 
