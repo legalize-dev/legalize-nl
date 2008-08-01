@@ -4,7 +4,7 @@ identifier: "BWBR0014119"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-01"
-last_updated: "2007-01-01"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014119"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. Meldpunt: het meldpunt, bedoeld in [artikel 2 van de Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=2);
+- a. Meldpunt: het meldpunt, bedoeld in [artikel 12 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=12);
 
 - b. Lijst: de opsomming van personen, groepen en entiteiten, neergelegd in:
 
@@ -118,13 +118,13 @@ De melding bevat, voor zover mogelijk, de volgende gegevens:
 
 ##### Artikel 4
 
-1. Het meldpunt is bevoegd bij degene die een melding heeft gedaan, alsmede bij degene die bij een financiële dienst als bedoeld in [artikel 1, onderdeel d, onder 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=1&z=2007-01-01&g=2007-01-01), bij een transactie is betrokken waarover het meldpunt gegevens heeft verzameld, nadere gegevens of inlichtingen te vragen, teneinde te kunnen beoordelen of verzamelde gegevens dienen te worden verstrekt op grond van zijn taak bedoeld in [artikel 3, onderdeel b, van de Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=3).
+1. Het meldpunt is bevoegd bij degene die een melding heeft gedaan, alsmede bij degene die bij een financiële dienst als bedoeld in [artikel 1, onderdeel d, onder 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=1&z=2008-08-01&g=2008-08-01), bij een transactie is betrokken waarover het meldpunt gegevens heeft verzameld, nadere gegevens of inlichtingen te vragen, teneinde te kunnen beoordelen of verzamelde gegevens dienen te worden verstrekt op grond van zijn taak bedoeld in [artikel 13, onderdeel b, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=13).
 
 2. Degene aan wie overeenkomstig het eerste lid deze gegevens of inlichtingen zijn gevraagd, is verplicht deze aan het meldpunt schriftelijk, alsmede in spoedeisende gevallen mondeling, te verstrekken binnen de door het meldpunt gestelde termijn.
 
 ##### Artikel 5
 
-Degene die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=2&z=2007-01-01&g=2007-01-01) een melding doet, is verplicht tot geheimhouding daarvan, onverminderd het bepaalde in [artikel 10 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10), behoudens voor zover uit de doelstelling van dit besluit de noodzaak tot bekendmaking voortvloeit.
+Degene die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=2&z=2008-08-01&g=2008-08-01) een melding doet, is verplicht tot geheimhouding daarvan, onverminderd het bepaalde in [artikel 10 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10), behoudens voor zover uit de doelstelling van dit besluit de noodzaak tot bekendmaking voortvloeit.
 
 ##### Artikel 6
 
