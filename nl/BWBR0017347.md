@@ -4,7 +4,7 @@ identifier: "BWBR0017347"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2007-01-01"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017347"
 soort: "AMvB"
@@ -201,7 +201,7 @@ Aan de volgende instanties of personen worden als vaste gebruikers als bedoeld i
 
 - d. de faillissementscuratoren en de rechters-commissarissen in faillissementen, voor zover dat noodzakelijk is voor het beheer en de vereffening van een failliete boedel alsmede voor de uitoefening van het toezicht hierop;
 
-- e. het Meldpunt Ongebruikelijke Transacties, voor zover dat noodzakelijk is voor het verkrijgen van informatie omtrent geregistreerde personen uit het register, bedoeld in [artikel 4 van de Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=4);
+- e. het Meldpunt Ongebruikelijke Transacties, voor zover dat noodzakelijk is voor het verkrijgen van informatie omtrent personen die het Meldpunt ongebruikelijke transacties heeft geregistreerd ter uitvoering van zijn taak, bedoeld in [artikel 13 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=13);
 
 - f. de Koninklijke Marine, voor zover dat noodzakelijk is voor de voorkoming en bestrijding van ambtelijke en niet-ambtelijke corruptie;
 
