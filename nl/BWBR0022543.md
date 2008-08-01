@@ -4,7 +4,7 @@ identifier: "BWBR0022543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-14"
-last_updated: "2007-09-28"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022543"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ De Stichting Skal kan, op aanvraag, in de vorm van een ontheffing een goedkeurin
 
 ##### Artikel 7
 
-Het aantal grootvee-eenheden, bedoeld in bijlage I, onderdeel B, punt 7.2, van [verordening (EEG) 2092/91](31991R2092), wordt vastgesteld door 170 kg stikstof per jaar per hectare cultuurgrond te delen door de omvang van de mestproductie per dier van de betreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof. De omvang van de mestproductie per dier van de onderscheiden diercategorieën per jaar, uitgedrukt in kilogrammen stikstof, is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2007-09-28&g=2007-09-28) bij deze regeling.
+Het aantal grootvee-eenheden, bedoeld in bijlage I, onderdeel B, punt 7.2, van [verordening (EEG) 2092/91](31991R2092), wordt vastgesteld door 170 kg stikstof per jaar per hectare cultuurgrond te delen door de omvang van de mestproductie per dier van de betreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof. De omvang van de mestproductie per dier van de onderscheiden diercategorieën per jaar, uitgedrukt in kilogrammen stikstof, is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2008-08-01&g=2008-08-01) bij deze regeling.
 
 ##### Artikel 8
 
@@ -80,7 +80,7 @@ De periode waarin uitlopen leeg moeten blijven als bedoeld in bijlage I, onderde
 
 ##### Artikel 9
 
-Marktdeelnemers die groenten en fruit in de handel brengen als bedoeld in artikel 3, eerste lid, van [verordening (EG) 1148/2001](32001R1148) verstrekken overeenkomstig het derde en vierde lid van dit artikel gegevens aan de Stichting KCB ten behoeve van het beheer van de gegevensbank door deze Stichting.
+Marktdeelnemers die groenten en fruit in de handel brengen als bedoeld in artikel 9, eerste lid, van verordening (EG) 1580/2007 verstrekken overeenkomstig het vierde en vijfde lid van dit artikel gegevens aan de Stichting KCB ten behoeve van het beheer van de gegevensbank door deze Stichting.
 
 ##### Artikel 10
 
@@ -88,15 +88,15 @@ Marktdeelnemers die bananen in de handel brengen, die op grond van artikel 7, ee
 
 ##### Artikel 11
 
-De Minister is als coördinerende autoriteit belast met de taken, vermeld in de artikelen 3, derde lid, 4, vierde lid, 7, zesde lid, en 10, eerste en tweede lid, van [verordening (EG) 1148/2001](32001R1148).
+De Minister is als coördinerende autoriteit belast met de taken, vermeld in de artikelen 9, derde lid, 10, vierde en vijfde lid, 12, zesde lid, en 17 van verordening (EG) 1580/2007.
 
 ##### Artikel 12
 
 De Stichting KCB is belast met:
 
-- a. het verlenen van de in artikel 4, derde lid van [verordening (EG) 1148/2001](32001R1148) bedoelde toestemming;
+- a. het verlenen van de in artikel 10, derde lid, van verordening (EG) 1580/2007 bedoelde toestemming;
 
-- b. het bepalen van het minimumpercentage van de zendingen en hoeveelheden, die bij uitvoer aan een normcontrole moeten zijn onderworpen als bedoeld in artikel 5, eerste lid bis van [verordening (EG) 1148/2001](32001R1148);
+- b. het bepalen van het minimumpercentage van de zendingen en hoeveelheden, die bij de uitvoer aan een normcontrole onderworpen moeten zijn als bedoeld in artikel 11, tweede lid, van verordening (EG) 1580/2007;
 
 - c. het verlenen van vrijstellingen en de afgifte van vrijstellingscertificaten, bedoeld in artikel 7, eerste lid, van [verordening (EG) 2898/95](31995R2898).
 
@@ -104,13 +104,13 @@ De Stichting KCB is belast met:
 
 1. De controle van groenten en fruit door de Stichting KCB geschiedt overeenkomstig:
 
-- a. de artikelen 4 en 9, en bijlage IV van [verordening (EG) 1148/2001](32001R1148) en artikel 7 en titel VI van [verordening (EG) 2200/96](31996R2200) bij de normcontroles op de interne markt;
+- a. de artikelen 10 en 20 en bijlage VI van verordening (EG) 1580/2007 en artikel 113 bis, vierde lid en de krachtens artikel 194 van verordening (EG) 1234/2007 vastgestelde voorschriften bij de normcontroles op de interne markt;
 
-- b. artikel 5 en 9 van [verordening (EG) 1148/2001](32001R1148) bij de uitvoer naar derde landen;
+- b. de artikelen 11 en 20 van verordening (EG) 1580/2007 bij de uitvoer naar derde landen;
 
-- c. artikel 6 en 9 van [verordening (EG) 1148/2001](32001R1148) bij de invoer uit derde landen;
+- c. de artikelen 12 en 20 van verordening (EG) 1580/2007 bij de uitvoer uit derde landen;
 
-- d. artikel 8 en 9 van [verordening (EG) 1148/2001](32001R1148) bij voor industriële verwerking bestemde producten.
+- d. de artikelen 19 en 20 van verordening (EG) 1580/2007 bij voor industriële verwerking bestemde producten.
 
 2. De keuring en controle van bananen door de Stichting KCB geschiedt overeenkomstig de artikelen 2 tot en met 7 van [verordening (EG) 2898/95](31995R2898).
 
@@ -118,9 +118,9 @@ De Stichting KCB is belast met:
 
 ##### Artikel 14
 
-1. Indien door de Stichting KCB bij een normcontrole wordt vastgesteld dat een partij groenten of fruit, die zich in het vrije verkeer binnen de Europese Unie bevindt, niet voldoet aan de in de [verordening (EG) 1148/2001](32001R1148) en de [verordening (EG) 2200/96](31996R2200) gestelde eisen, wordt een verklaring van niet-conformiteit opgesteld als bedoeld in artikel 9, derde lid, van [verordening (EG) 1148/2001](32001R1148).
+1. Indien door de Stichting KCB bij een normcontrole wordt vastgesteld dat een partij groenten of fruit, die zich in het vrije verkeer binnen de Europese Unie bevindt, niet voldoet aan de in de verordening (EG) 1580/2007 en de bij of krachtens verordening (EG) 1234/2007 gestelde eisen, wordt een verklaring van niet-conformiteit opgesteld als bedoeld in artikel 20, derde lid, van verordening (EG) 1580/2007.
 
-2. Een partij groenten of fruit, waarvoor de Stichting KCB een verklaring van niet-conformiteit heeft afgegeven, mag niet worden vervoerd, verplaatst, verhandeld of vernietigd zonder toestemming van de Stichting KCB overeenkomstig artikel 9, derde lid, van [verordening (EG) 1148/2001](32001R1148).
+2. Een partij groenten of fruit, waarvoor de Stichting KCB een verklaring van niet-conformiteit heeft afgegeven, mag niet worden vervoerd, verplaatst, verhandeld of vernietigd zonder toestemming van de Stichting KCB overeenkomstig artikel 20, derde lid, van verordening (EG) 1580/2007.
 
 3. Voor de toestemming, bedoeld in het tweede lid kan als voorwaarde worden gesteld dat aan door de Stichting KCB gestelde eisen wordt voldaan.
 
@@ -128,11 +128,11 @@ De Stichting KCB is belast met:
 
 ##### Artikel 15
 
-Een slachterij die op grond van artikel 10, eerste lid, van [verordening (EEG) 1538/91](31991R1538) het houderijsysteem bij de etikettering van zijn producten vermeldt, wordt overeenkomstig artikel 11, eerste lid, van die verordening geregistreerd bij de Stichting CPE.
+Een slachterij die op grond van artikel 11, eerste lid, van verordening (EG) 543/2008 het houderijsysteem bij de etikettering van zijn producten vermeldt, wordt overeenkomstig artikel 12, eerste lid, van die verordening geregistreerd bij de Stichting CPE.
 
 ##### Artikel 16
 
-Indien pluimveevlees afkomstig uit landen buiten de Europese Unie de vermeldingen en aanduidingen vastgesteld op grond van artikel 9 en 10 van [verordening (EEG) 1538/91](31991R1538) voert, gaat dit vlees vergezeld van een certificaat dat is afgegeven door de bevoegde autoriteit van het land van oorsprong overeenkomstig artikel 13 van [verordening (EEG) 1538/91](31991R1538).
+Indien pluimveevlees afkomstig uit landen buiten de Europese Unie de vermeldingen en aanduidingen vastgesteld op grond van artikelen 10 en 11 van verordening (EG) 543/2008 voert, gaat dit vlees vergezeld van een certificaat dat is afgegeven door de bevoegde autoriteit van het land van oorsprong overeenkomstig artikel 14 van verordening (EG) 543/2008.
 
 ### Hoofdstuk 4. Het in de handel brengen van landbouwproducten en levensmiddelen met een beschermde geografische aanduiding, oorsprongsbenaming en een bescherming als een gegarandeerde traditionele specialiteit
 
@@ -196,7 +196,7 @@ Volledige zuigelingenvoeding en opvolgzuigelingenvoeding worden slechts uit Nede
 
 ##### Artikel 23
 
-Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2007-09-28&g=2007-09-28) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
+Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2008-08-01&g=2008-08-01) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
 
 ##### Artikel 24
 
@@ -270,7 +270,7 @@ Deze regeling wordt aangehaald als: Landbouwkwaliteitsregeling 2007.
 
 Deze regeling treedt in werking op het tijdstip waarop het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) in werking treedt.
 
-## Bijlage I. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=7&z=2007-09-28&g=2007-09-28) van de Landbouwkwaliteitsregeling 2007
+## Bijlage I. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=7&z=2008-08-01&g=2008-08-01) van de Landbouwkwaliteitsregeling 2007
 
 **Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 7**
 
@@ -347,7 +347,7 @@ Deze regeling treedt in werking op het tijdstip waarop het [Landbouwkwaliteitsbe
 |   |   |   |
 | IX Parelhoenders | – Vleesparelhoenders | 0,437 |
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2007-09-28&g=2007-09-28) van de Landbouwkwaliteitsregeling 2007
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2008-08-01&g=2008-08-01) van de Landbouwkwaliteitsregeling 2007
 
 | I | II |
 | --- | --- |
@@ -780,7 +780,7 @@ In dit hoofdstuk wordt verstaan onder marktdeelnemer: iedere natuurlijke persoon
 
 - 4°. de omvang van het risico op niet-naleving van het bij of krachtens de wet bepaalde door de desbetreffende marktdeelnemer.
 
-## Bijlage I. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=7&z=2011-07-02&g=2007-09-28) van de Landbouwkwaliteitsregeling 2007
+## Bijlage I. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=7&z=2011-07-02&g=2008-08-01) van de Landbouwkwaliteitsregeling 2007
 
 **Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 7**
 
@@ -857,7 +857,7 @@ In dit hoofdstuk wordt verstaan onder marktdeelnemer: iedere natuurlijke persoon
 |   |   |   |
 | IX Parelhoenders | – Vleesparelhoenders | 0,437 |
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2011-07-02&g=2007-09-28) van de Landbouwkwaliteitsregeling 2007
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2011-07-02&g=2008-08-01) van de Landbouwkwaliteitsregeling 2007
 
 | I | II |
 | --- | --- |
