@@ -4,7 +4,7 @@ identifier: "BWBR0007286"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2006-02-22"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007286"
 soort: "wet"
@@ -127,15 +127,11 @@ Vervallen
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast:
 
-- a. de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane;
+- a. de buitengewone opsporingsambtenaren van de Belastingdienst / Fiscale inlichtingen- en opsporingsdienst – Economische controledienst van het Ministerie van Financiën;
 
-- b. de buitengewone opsporingsambtenaren van de Belastingdienst / Fiscale inlichtingen- en opsporingsdienst – Economische controledienst van het Ministerie van Financiën;
-
-- c. de bij besluit van Onze Minister aangewezen ambtenaren.
+- b. de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid, onder c, wordt mededeling gedaan door plaatsing in de Staatscourant.
-
-3. Op de in het eerste lid, onder a, bedoelde ambtenaren zijn de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&hoofdstuk=2) en [3 van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&hoofdstuk=3) van overeenkomstige toepassing met uitzondering van [artikel 10 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=10).
 
 ##### Artikel 14
 
