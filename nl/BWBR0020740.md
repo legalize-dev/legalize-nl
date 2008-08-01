@@ -4,7 +4,7 @@ identifier: "BWBR0020740"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-06-27"
-last_updated: "2007-01-01"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020740"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 - l. vlees: vers of gekoeld vlees in de vorm van hele dieren of halve dieren, compensated quarters, voorvoeten of achtervoeten, als bedoeld in artikel 1, tweede lid, van [verordening 32/82](31982R0032);
 
-- m. technische delen: de in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=1&z=2007-01-01&g=2007-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=2&z=2007-01-01&g=2007-01-01) bij deze regeling omschreven afzonderlijk verpakte delen, zonder been, met een magervleesaandeel van ten minste 55% afkomstig van verse of gekoelde voor- en achtervoeten van volwassen mannelijke runderen, als bedoeld in artikel 1 van [verordening 1964/82](31982R1964);
+- m. technische delen: de in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=1&z=2008-08-01&g=2008-08-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=2&z=2008-08-01&g=2008-08-01) bij deze regeling omschreven afzonderlijk verpakte delen, zonder been, met een magervleesaandeel van ten minste 55% afkomstig van verse of gekoelde voor- en achtervoeten van volwassen mannelijke runderen, als bedoeld in artikel 1 van [verordening 1964/82](31982R1964);
 
 - n. belanghebbende: degene die aanspraak maakt op een bijzondere restitutie of degene die namens deze handelt;
 
@@ -98,7 +98,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het in artikel 2, tweede lid, van [verordening 32/82](31982R0032) bedoelde bewijs dat de uitgevoerde producten afkomstig zijn van volwassen mannelijke runderen wordt afgegeven door de Algemene Inspectiedienst.
 
-3. Het productschap neemt bij de berekening van de restitutie overeenkomstig het bepaalde in de [Regeling in- en uitvoer landbouwgoederen](https://wetten.overheid.nl/jci1.3:c:BWBR0003381) mede in acht de bevindingen of vaststellingen van de Algemene Inspectiedienst zoals neergelegd in het identificatieattest, onderscheidenlijk het attest uitgebeend vlees.
+3. Het productschap neemt bij de berekening van de restitutie overeenkomstig het bepaalde in de [Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291) mede in acht de bevindingen of vaststellingen van de Algemene Inspectiedienst zoals neergelegd in het identificatieattest, onderscheidenlijk het attest uitgebeend vlees.
 
 4. Alle handelingen in het kader van deze regeling vinden plaats op werkdagen tussen 7.00 uur en 17.00 uur onder toezicht van een ambtenaar van de Algemene Inspectiedienst.
 
@@ -140,13 +140,13 @@ In deze paragraaf wordt verstaan onder:
 
 1. Een identificatieattest wordt uitsluitend opgemaakt voor partijen rundvlees waarvan het gewicht 500 kg of meer bedraagt.
 
-2. Om voor afgifte van het identificatieattest in aanmerking te komen worden op het tijdstip van de identificatie de minimumgewichten zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=3&z=2007-01-01&g=2007-01-01) en de overige voorwaarden in acht genomen.
+2. Om voor afgifte van het identificatieattest in aanmerking te komen worden op het tijdstip van de identificatie de minimumgewichten zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=3&z=2008-08-01&g=2008-08-01) en de overige voorwaarden in acht genomen.
 
 3. Het gewicht wordt onmiddellijk na identificatie onder toezicht van de ambtenaar van de Algemene Inspectiedienst vastgesteld. Het gewicht met bijbehorend oormerknummer of slachtnummer wordt door het slachthuis vermeld op een weeglijst.
 
 4. De in het tweede lid genoemde minimumgewichten zijn niet van toepassing indien het ter identificatie aangeboden vlees in karkassen wordt aangeboden. In dat geval bedraagt het minimumgewicht van het geslachte dier 150 kg.
 
-5. Als het vlees wordt aangeboden met aan het product vastzittende slachtafvallen worden de minimumgewichten verhoogd volgens de bepalingen uit [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=4&z=2007-01-01&g=2007-01-01).
+5. Als het vlees wordt aangeboden met aan het product vastzittende slachtafvallen worden de minimumgewichten verhoogd volgens de bepalingen uit [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=4&z=2008-08-01&g=2008-08-01).
 
 6. Het slachthuis beschikt over een aantal van een geldig ijkmerk voorziene toetsgewichten van 20 of 25 kg elk voor een totaalgewicht van ten minste 200 kg.
 
@@ -182,7 +182,7 @@ AID. XMY
 
 ##### Artikel 8
 
-Het in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=7&z=2007-01-01&g=2007-01-01), bedoelde merk wordt aangebracht op:
+Het in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=7&z=2008-08-01&g=2008-08-01), bedoelde merk wordt aangebracht op:
 
 - –. de voorvoet: op de fijne rib of op de naborst;
 
@@ -194,7 +194,7 @@ Onmiddellijk nadat het vlees van het merk is voorzien wordt het vlees onder toez
 
 ##### Artikel 10
 
-1. Het identificatieattest wordt in 4-voud uiterlijk op het moment van of direct na de verzegeling van het vervoermiddel opgemaakt door de ambtenaar van de Algemene Inspectiedienst die het merk als bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=7&z=2007-01-01&g=2007-01-01), op het vlees heeft aangebracht.
+1. Het identificatieattest wordt in 4-voud uiterlijk op het moment van of direct na de verzegeling van het vervoermiddel opgemaakt door de ambtenaar van de Algemene Inspectiedienst die het merk als bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=7&z=2008-08-01&g=2008-08-01), op het vlees heeft aangebracht.
 
 2. De in het eerste lid bedoelde ambtenaar van de Algemene Inspectiedienst behoudt twee afschriften, waarvan één afschrift naar het productschap wordt gestuurd.
 
@@ -202,9 +202,9 @@ Onmiddellijk nadat het vlees van het merk is voorzien wordt het vlees onder toez
 
 4. Voor elke partij afkomstig van één slachthuis wordt een afzonderlijk identificatieattest opgemaakt. Een identificatieattest kan hoogstens betrekking hebben op één vervoermiddel.
 
-5. Het nummer van het identificatieattest wordt op het formulier L, als bedoeld in [artikel 19 van de Regeling In- en uitvoer landbouwgoederen](https://wetten.overheid.nl/jci1.3:c:BWBR0003381&artikel=19) vermeld.
+5. Het nummer van het identificatieattest wordt bij de aangifte ten invoer vermeld.
 
-6. Indien verschillende partijen in één vervoermiddel zijn geladen worden de nummers van de afzonderlijke attesten op één formulier L, als bedoeld in [artikel 19 van de Regeling in- en uitvoer landbouwgoederen](https://wetten.overheid.nl/jci1.3:c:BWBR0003381&artikel=19) vermeld.
+6. Indien verschillende partijen in één vervoermiddel zijn geladen worden de nummers van de afzonderlijke attesten bij de aangifte ten invoer vermeld.
 
 #### Paragraaf 3. Bepalingen betreffende de bijzondere restitutie voor technische delen
 
@@ -244,15 +244,15 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 13
 
-1. De voor- of achtervoeten worden ter identificatie aangeboden in het slachthuis waar de dieren zijn geslacht. Het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=5&z=2007-01-01&g=2007-01-01), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=6&z=2007-01-01&g=2007-01-01) en [artikel 7, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=7&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing, met dien verstande, dat de weging van de voor- of achtervoeten onmiddellijk na de identificatie in hetzelfde slachthuis dient plaats te vinden waar de identificatie plaatsvindt.
+1. De voor- of achtervoeten worden ter identificatie aangeboden in het slachthuis waar de dieren zijn geslacht. Het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=5&z=2008-08-01&g=2008-08-01), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=6&z=2008-08-01&g=2008-08-01) en [artikel 7, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=7&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing, met dien verstande, dat de weging van de voor- of achtervoeten onmiddellijk na de identificatie in hetzelfde slachthuis dient plaats te vinden waar de identificatie plaatsvindt.
 
-2. Naast het in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=7&z=2007-01-01&g=2007-01-01), genoemde merk wordt door de ambtenaar van de Algemene Inspectiedienst op de technische delen die belanghebbende in zijn aanmelding heeft omschreven en waarin elke voor- of achtervoet zal worden uitgebeend een merk aangebracht met zijn kenmerk. Onverminderd het bepaalde in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=17&z=2007-01-01&g=2007-01-01), worden de merken op de technische delen aangebracht op de door belanghebbende aangewezen plaats.
+2. Naast het in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=7&z=2008-08-01&g=2008-08-01), genoemde merk wordt door de ambtenaar van de Algemene Inspectiedienst op de technische delen die belanghebbende in zijn aanmelding heeft omschreven en waarin elke voor- of achtervoet zal worden uitgebeend een merk aangebracht met zijn kenmerk. Onverminderd het bepaalde in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=17&z=2008-08-01&g=2008-08-01), worden de merken op de technische delen aangebracht op de door belanghebbende aangewezen plaats.
 
 ##### Artikel 14
 
 1. Na het aanbrengen van de merken en de weging van de voor- of achtervoeten onder toezicht van de ambtenaar van de Algemene Inspectiedienst maakt deze in 4-voud een identificatieattest op en vermeldt hij het nettogewicht van de voor- of achtervoeten in het daartoe bestemde vak.
 
-2. Het origineel wordt aan belanghebbende ter hand gesteld en dient door of namens hem bij de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=15&z=2007-01-01&g=2007-01-01), bedoelde verklaring te worden overgelegd.
+2. Het origineel wordt aan belanghebbende ter hand gesteld en dient door of namens hem bij de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=15&z=2008-08-01&g=2008-08-01), bedoelde verklaring te worden overgelegd.
 
 ##### Artikel 15
 
@@ -280,9 +280,9 @@ Het uitbenen van de voor- of achtervoeten en het verpakken van de door uitbening
 
 ##### Artikel 17
 
-1. De voor- of achtervoeten mogen uitsluitend worden uitgebeend in de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=1&z=2007-01-01&g=2007-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=2&z=2007-01-01&g=2007-01-01) bij deze regeling omschreven technische delen. Een combinatie van deze delen is toegestaan mits de delen die worden gecombineerd op natuurlijke wijze met elkaar verbonden blijven.
+1. De voor- of achtervoeten mogen uitsluitend worden uitgebeend in de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=1&z=2008-08-01&g=2008-08-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=2&z=2008-08-01&g=2008-08-01) bij deze regeling omschreven technische delen. Een combinatie van deze delen is toegestaan mits de delen die worden gecombineerd op natuurlijke wijze met elkaar verbonden blijven.
 
-2. Op verzoek van belanghebbende kan in gevallen waarin voldoende waarborgen bestaan voor de identificatie van de door uitbening te verkrijgen delen en het voorkomen van hun vervanging door andere producten, door het productschap ontheffing worden verleend om in andere delen uit te benen dan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=1&z=2007-01-01&g=2007-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=2&z=2007-01-01&g=2007-01-01) omschreven delen. Aan de ontheffing kunnen voorschriften worden verbonden. Aanvragen tot ontheffing worden bij het productschap ingediend.
+2. Op verzoek van belanghebbende kan in gevallen waarin voldoende waarborgen bestaan voor de identificatie van de door uitbening te verkrijgen delen en het voorkomen van hun vervanging door andere producten, door het productschap ontheffing worden verleend om in andere delen uit te benen dan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=1&z=2008-08-01&g=2008-08-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=2&z=2008-08-01&g=2008-08-01) omschreven delen. Aan de ontheffing kunnen voorschriften worden verbonden. Aanvragen tot ontheffing worden bij het productschap ingediend.
 
 ##### Artikel 18
 
@@ -292,7 +292,7 @@ Bij het uitbenen en verpakken worden de volgende voorschriften in acht genomen:
 
 - b. de werkzaamheden van het uitbenen en verpakken vinden plaats op werkdagen tussen 07.00 uur en 17.00 uur en uitsluitend onder toezicht van een ambtenaar van de Algemene Inspectiedienst;
 
-- c. de door de ambtenaar van de Algemene Inspectiedienst overeenkomstig [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=13&z=2007-01-01&g=2007-01-01), aangebrachte merken mogen tijdens het uitbenen niet worden beschadigd of uitgewist;
+- c. de door de ambtenaar van de Algemene Inspectiedienst overeenkomstig [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=13&z=2008-08-01&g=2008-08-01), aangebrachte merken mogen tijdens het uitbenen niet worden beschadigd of uitgewist;
 
 - d. de ruimte waar wordt uitgebeend en uitgesneden is afsluitbaar;
 
@@ -302,11 +302,11 @@ Bij het uitbenen en verpakken worden de volgende voorschriften in acht genomen:
 
 1. De door uitbening verkregen technische delen worden individueel verpakt.
 
-2. De verpakking is zodanig, dat het onder [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=13&z=2007-01-01&g=2007-01-01), bedoelde merk op het eerste gezicht door de ambtenaar van de Algemene Inspectiedienst kan worden gecontroleerd of zichtbaar gemaakt.
+2. De verpakking is zodanig, dat het onder [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=13&z=2008-08-01&g=2008-08-01), bedoelde merk op het eerste gezicht door de ambtenaar van de Algemene Inspectiedienst kan worden gecontroleerd of zichtbaar gemaakt.
 
 3. De verzamelverpakking, waarin de individueel verpakte technische delen zijn verpakt is ten minste voorzien van de volgende aanduidingen:
 
-- a. de code en benaming van het technische deel volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=1&z=2007-01-01&g=2007-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=2&z=2007-01-01&g=2007-01-01);
+- a. de code en benaming van het technische deel volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=1&z=2008-08-01&g=2008-08-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&bijlage=2&z=2008-08-01&g=2008-08-01);
 
 - b. een volgnummer;
 
@@ -318,7 +318,7 @@ Bij het uitbenen en verpakken worden de volgende voorschriften in acht genomen:
 
 ##### Artikel 20
 
-1. Per partij, waarop de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=15&z=2007-01-01&g=2007-01-01), bedoelde verklaring betrekking heeft, houdt de uitsnijderij dagelijks paklijsten bij die ten minste de volgende gegevens bevatten:
+1. Per partij, waarop de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=15&z=2008-08-01&g=2008-08-01), bedoelde verklaring betrekking heeft, houdt de uitsnijderij dagelijks paklijsten bij die ten minste de volgende gegevens bevatten:
 
 - a. naam en plaats aanvrager
 
@@ -348,7 +348,7 @@ Bij het uitbenen en verpakken worden de volgende voorschriften in acht genomen:
 
 ##### Artikel 21
 
-1. De ambtenaar van de Algemene Inspectiedienst voorziet de verpakkingen van een onuitwisbaar merk volgens het model uit [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=7&z=2007-01-01&g=2007-01-01). [Artikel 7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=7&z=2007-01-01&g=2007-01-01), is van overeenkomstige toepassing. Op de met het teken Y aangeduide plaats wordt het nummer van het attest uitgebeend vlees opgenomen.
+1. De ambtenaar van de Algemene Inspectiedienst voorziet de verpakkingen van een onuitwisbaar merk volgens het model uit [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=7&z=2008-08-01&g=2008-08-01). [Artikel 7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=7&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing. Op de met het teken Y aangeduide plaats wordt het nummer van het attest uitgebeend vlees opgenomen.
 
 2. Onmiddellijk na deze stempeling worden onder toezicht van de ambtenaar van de Algemene Inspectiedienst de technische delen gewogen en in een vervoermiddel geladen.
 
@@ -356,19 +356,19 @@ Bij het uitbenen en verpakken worden de volgende voorschriften in acht genomen:
 
 ##### Artikel 22
 
-1. Het attest uitgebeend vlees wordt in 4-voud uiterlijk op het moment van of direct na de verzegeling van het vervoermiddel, opgemaakt door de ambtenaar van de Algemene Inspectiedienst die de verzegeling heeft verricht. Er wordt één enkel attest opgemaakt voor de hoeveelheid technische delen waarop de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=15&z=2007-01-01&g=2007-01-01), bedoelde verklaring betrekking heeft.
+1. Het attest uitgebeend vlees wordt in 4-voud uiterlijk op het moment van of direct na de verzegeling van het vervoermiddel, opgemaakt door de ambtenaar van de Algemene Inspectiedienst die de verzegeling heeft verricht. Er wordt één enkel attest opgemaakt voor de hoeveelheid technische delen waarop de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=15&z=2008-08-01&g=2008-08-01), bedoelde verklaring betrekking heeft.
 
 2. De ambtenaar van de Algemene Inspectiedienst die het attest uitgebeend vlees heeft opgemaakt, vermeldt op dat attest:
 
-- a. het nummer van het in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=14&z=2007-01-01&g=2007-01-01), bedoelde identificatieattest;
+- a. het nummer van het in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=14&z=2008-08-01&g=2008-08-01), bedoelde identificatieattest;
 
-- b. het overeenkomstig [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=21&z=2007-01-01&g=2007-01-01), vastgestelde gewicht.
+- b. het overeenkomstig [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=21&z=2008-08-01&g=2008-08-01), vastgestelde gewicht.
 
 3. Op het identificatieattest vermeldt de Algemene Inspectiedienst het nummer van het attest uitgebeend vlees. De Algemene Inspectiedienst zendt het origineel van het identificatieattest naar het productschap.
 
 4. Het origineel van het attest uitgebeend vlees vergezelt de partij en wordt door of namens belanghebbende bij het vervullen van de douaneformaliteiten bij uitvoer overgelegd.
 
-5. De nummers van zowel het identificatieattest als van het attest uitgebeend vlees dienen op het formulier L, als bedoeld in [artikel 19 van de Regeling in- en uitvoer landbouwgoederen](https://wetten.overheid.nl/jci1.3:c:BWBR0003381&artikel=19) onderscheidenlijk op de in [artikel 95, onder d, van de Regeling in- en uitvoer landbouwgoederen](https://wetten.overheid.nl/jci1.3:c:BWBR0003381&artikel=95) bedoelde staat, te worden vermeld.
+5. De nummers van zowel het identificatieattest als van het attest uitgebeend vlees dienen op bij de aangifte ten invoer onderscheidenlijk op de maandstaat als bedoeld in [artikel 3:24 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=3:24), te worden vermeld.
 
 #### Paragraaf 4. Bijzondere bepalingen betreffende de douaneformaliteiten bij uitvoer
 
@@ -380,9 +380,9 @@ Bij het uitbenen en verpakken worden de volgende voorschriften in acht genomen:
 
 3. Na beëindiging van de verificatie viseert de douaneambtenaar het origineel van het identificatieattest onderscheidenlijk het attest uitgebeend vlees door invulling van het daartoe bestemde vak.
 
-4. De douaneambtenaar zendt het identificatieattest onderscheidenlijk het attest uitgebeend vlees tezamen met het formulier L, als bedoeld in [artikel 19 van de Regeling in- en uitvoer landbouwgoederen](https://wetten.overheid.nl/jci1.3:c:BWBR0003381&artikel=19) toe aan het productschap.
+4. De douaneambtenaar zendt het identificatieattest onderscheidenlijk het attest uitgebeend vlees tezamen met de aangifte ten invoer toe aan het productschap.
 
-5. In geval van levering als bedoeld in [artikel 95 van de Regeling in- en uitvoer landbouwgoederen](https://wetten.overheid.nl/jci1.3:c:BWBR0003381&artikel=95), zendt de douaneambtenaar het betrokken attest rechtstreeks toe aan het productschap.
+5. In geval van scheepsproviandering als bedoeld in [artikel 3:23, eerste lid, van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=3:23), zendt de douaneambtenaar het betrokken attest rechtstreeks toe aan het productschap.
 
 #### Paragraaf 5. Slotbepalingen
 
@@ -432,9 +432,39 @@ Technische delen afkomstig van achtervoeten, zoals genoemd in [artikel 17](https
 
 - M. vang (inclusief vinkenlap) van de achtervoet.
 
+## Bijlage 1
+
+Technische delen afkomstig van achtervoeten, zoals genoemd in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=17&z=2008-08-01&g=2008-08-01) van deze regeling:
+
+- A. achterschenkel;
+
+- B. platte bil;
+
+- C. muis;
+
+- D. peeseind;
+
+- E. bovenbil;
+
+- F. spierstuk
+
+- G. staartstuk
+
+- H. dikke lende;
+
+- I. slip van de lende;
+
+- J. fijne rib van de achtervoet;
+
+- K. dunne lende;
+
+- L. haas;
+
+- M. vang (inclusief vinkenlap) van de achtervoet.
+
 ## Bijlage 2
 
-Technische delen van voorvoeten, zoals genoemd in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=17&z=2007-01-01&g=2007-01-01) van deze regeling:
+Technische delen van voorvoeten, zoals genoemd in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=3&artikel=17&z=2008-08-01&g=2008-08-01) van deze regeling:
 
 - P. voorschenkel;
 
@@ -452,7 +482,7 @@ Technische delen van voorvoeten, zoals genoemd in [artikel 17](https://wetten.ov
 
 ## Bijlage 3
 
-Minimumgewichten overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=5&z=2007-01-01&g=2007-01-01), van deze regeling:
+Minimumgewichten overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020740&paragraaf=2&artikel=5&z=2008-08-01&g=2008-08-01), van deze regeling:
 
 | Hele geslachte dier | 150 kg |
 | --- | --- |
@@ -463,6 +493,20 @@ Minimumgewichten overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.
 | Achterspan | 80 kg |
 | Achtervoet met meer dan acht ribben | 45 kg |
 | Achterspan met meer dan acht paar ribben | 90 kg |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust op [artikel 3:3, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:3), en [3:4, eerste lid, van het Algemeen douanebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:4).
+
+#### Paragraaf 2. Bepalingen betreffende de bijzondere restitutie voor vlees
+
+#### Paragraaf 3. Bepalingen betreffende de bijzondere restitutie voor technische delen
+
+#### Paragraaf 4. Bijzondere bepalingen betreffende de douaneformaliteiten bij uitvoer
+
+#### Paragraaf 5. Slotbepalingen
 
 ## Bijlage 4
 
