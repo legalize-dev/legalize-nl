@@ -4,7 +4,7 @@ identifier: "BWBR0013506"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "2006-10-31"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013506"
 soort: "ministeriele-regeling"
@@ -87,13 +87,11 @@ Tenzij in deze regeling anders is bepaald, oefent de uitvoeringsautoriteit de he
 
 ##### Artikel 5
 
-1. De uitvoeringsautoriteit bedoeld in [artikel 2, onder a Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) die een optieverklaring heeft bevestigd aan de persoon, die bij hem een optieverklaring heeft afgelegd, of aan wie de verlening van het Nederlanderschap aan een persoon, die door zijn tussenkomst is genaturaliseerd, is medegedeeld, nodigt de betrokken persoon uit voor een bijeenkomst waarin deze verkrijging of verlening op ceremoniële wijze wordt gevierd en waarbij de optiebevestiging of het uittreksel van het besluit tot verlening van het Nederlanderschap wordt uitgereikt op de in de [artikelen 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) voorgeschreven wijze. Uitgenodigd voor de ceremonie wordt in ieder geval de persoon aan wie een besluit tot verkrijging of verlening dan wel een besluit tot medeverlening moet worden uitgereikt.
+1. De uitvoeringsautoriteit bedoeld in [artikel 2, onder a, b of c Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) die een optieverklaring heeft bevestigd aan de persoon, die bij hem een optieverklaring heeft afgelegd, of aan wie de verlening van het Nederlanderschap aan een persoon, die door zijn tussenkomst is genaturaliseerd, is medegedeeld, nodigt de betrokken persoon uit voor een bijeenkomst waarin deze verkrijging of verlening op ceremoniële wijze wordt gevierd en waarbij de optiebevestiging of het uittreksel van het besluit tot verlening van het Nederlanderschap wordt uitgereikt op de in de [artikelen 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) voorgeschreven wijze. Uitgenodigd voor de ceremonie wordt in ieder geval de persoon aan wie een besluit tot verkrijging of verlening dan wel een besluit tot medeverlening moet worden uitgereikt.
 
-2. De in het vorige lid bedoelde ceremoniële bijeenkomst wordt ten minste op 24 augustus gehouden. Indien 24 augustus op een zaterdag of een zondag valt, vindt de bijeenkomst plaats op de eerstvolgende werkdag.
+2. De in het vorige lid bedoelde ceremoniële bijeenkomst wordt ten minste op 15 december gehouden. Indien 15 december op een zaterdag of een zondag valt, vindt de bijeenkomst plaats op de eerstvolgende werkdag.
 
 3. Burgemeesters van naburige gemeenten kunnen tot een gemeenschappelijke bijeenkomst beslissen.
-
-4. De uitvoeringsautoriteit gevestigd op de Nederlandse Antillen of Aruba die een optieverklaring heeft bevestigd aan de persoon, die bij hem een optieverklaring heeft afgelegd, of aan wie de verlening van het Nederlanderschap aan een persoon, die door zijn tussenkomst is genaturaliseerd, is medegedeeld, kan de betrokken persoon uitnodigen voor een bijeenkomst waarin deze verkrijging of verlening op ceremoniële wijze wordt gevierd. Hij doet daarvan melding aan mijn ministerie ter attentie van het Hoofd van de Immigratie- en Naturalisatiedienst.
 
 - a. De uitvoeringsautoriteit bedoeld in [artikel 2, onder d Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) die een optieverklaring heeft bevestigd aan de persoon, die bij hem een optieverklaring heeft afgelegd, of aan wie de verlening van het Nederlanderschap aan een persoon, die door zijn tussenkomst is genaturaliseerd, is medegedeeld, nodigt in beginsel de betrokken persoon uit voor een bijeenkomst waarin deze verkrijging of verlening op ceremoniële wijze wordt gevierd en waarbij de optiebevestiging of het uittreksel van het besluit tot verlening van het Nederlanderschap wordt uitgereikt op de in de [artikelen 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60a) en [60b Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=60b) voorgeschreven wijze.
 
@@ -153,7 +151,7 @@ Onder rechtstreeks betrokken persoon wordt eveneens verstaan, voor zover zij daa
 
 ##### Artikel 9
 
-De uitvoeringsautoriteit kan van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=8&z=2006-10-31&g=2006-10-31) bedoelde bevoegdheden ondermandaat verlenen aan onder hem ressorterende functionarissen, voor zover dat in overeenstemming is met de aard van de werkzaamheden van die functionarissen en de aard van de bevoegdheid zich daartegen niet verzet.
+De uitvoeringsautoriteit kan van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=8&z=2008-08-01&g=2008-08-01) bedoelde bevoegdheden ondermandaat verlenen aan onder hem ressorterende functionarissen, voor zover dat in overeenstemming is met de aard van de werkzaamheden van die functionarissen en de aard van de bevoegdheid zich daartegen niet verzet.
 
 ##### Artikel 10
 
@@ -217,6 +215,6 @@ De [Machtigingsregeling naturalisatie en naturalisatiegelden 1998](onbekend) ver
 
 1. Deze regeling wordt met de toelichting in de Staatscourant, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba geplaatst.
 
-2. Deze regeling treedt, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=12&z=2006-10-31&g=2006-10-31) en [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=IV&artikel=14&z=2006-10-31&g=2006-10-31), in werking met ingang van 1 april 2003; [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=II&afdeling=III&artikel=6&z=2006-10-31&g=2006-10-31) is slechts van toepassing op Nederland en de Nederlandse Antillen.
+2. Deze regeling treedt, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=12&z=2008-08-01&g=2008-08-01) en [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=IV&artikel=14&z=2008-08-01&g=2008-08-01), in werking met ingang van 1 april 2003; [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=II&afdeling=III&artikel=6&z=2008-08-01&g=2008-08-01) is slechts van toepassing op Nederland en de Nederlandse Antillen.
 
 3. Deze regeling wordt aangehaald als Regeling verkrijging en verlies Nederlanderschap.
