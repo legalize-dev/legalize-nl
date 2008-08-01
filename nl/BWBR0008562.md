@@ -4,7 +4,7 @@ identifier: "BWBR0008562"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2007-01-01"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008562"
 soort: "AMvB"
@@ -60,7 +60,7 @@ d. avo: hoger algemeen voortgezet onderwijs als bedoeld in [artikel 8 van de wet
 
 e. vbo: voorbereidend beroepsonderwijs als bedoeld in [artikel 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10);
 
-f. praktijkonderwijs: een school of afdeling voor praktijkonderwijs als bedoeld in [artikel 10f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10f);
+f. praktijkonderwijs: een school voor praktijkonderwijs als bedoeld in [artikel 10f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10f);
 
 g. vwo/avo: een scholengemeenschap die ten minste bestaat uit een school voor vwo en een school voor avo;
 
@@ -84,7 +84,7 @@ Vervallen
 
 2. De bruto vloeroppervlakte per gelijktijdig aanwezige leerling die een speciale school voor basisonderwijs tenminste dient te bevatten, bedraagt 6,6 m2. Tevens geldt per school en per nevenvestiging een vaste voet van ten minste 90 m2.
 
-3. Indien aan een speciale school voor basisonderwijs een schoolsoort voor het speciaal of het voortgezet speciaal onderwijs is verbonden, is de schoolsoort met het grootste aantal leerlingen bepalend voor de vaste voet van de school, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008562&paragraaf=3&artikel=4&z=2007-01-01&g=2007-01-01).
+3. Indien aan een speciale school voor basisonderwijs een schoolsoort voor het speciaal of het voortgezet speciaal onderwijs is verbonden, is de schoolsoort met het grootste aantal leerlingen bepalend voor de vaste voet van de school, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008562&paragraaf=3&artikel=4&z=2008-08-01&g=2008-08-01).
 
 ##### Artikel 4. Bruto vloeroppervlakte (voortgezet) speciaal onderwijs
 
