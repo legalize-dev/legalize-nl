@@ -4,7 +4,7 @@ identifier: "BWBR0023456"
 country: "nl"
 rank: "amvb"
 publication_date: "2008-08-01"
-last_updated: "2008-02-13"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023456"
 soort: "AMvB"
@@ -52,14 +52,12 @@ Wijzigt het Besluit voorkoming verontreiniging door schepen.
 
 ##### Artikel II
 
-1. In afwijking van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=29), zijn tot 1 augustus 2008 ten aanzien van lozingen in het Golfgebied de voorschriften 15 en 34 van Bijlage I wat betreft lozingen buiten bijzondere gebieden van toepassing.
-
-2. In afwijking van [artikel 29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=29), is tot 1 augustus 2008 ten aanzien van lozingen in het Golfgebied voorschrift 5 van bijlage V van toepassing.
+Vervallen
 
 ##### Artikel III
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0023456&artikel=II&z=2008-02-13&g=2008-02-13) vervalt met ingang van 1 augustus 2008.
+2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0023456&artikel=II&z=2008-08-01&g=2008-08-01) vervalt met ingang van 1 augustus 2008.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
