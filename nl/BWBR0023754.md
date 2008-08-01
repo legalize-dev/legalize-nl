@@ -312,23 +312,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet wordt aangehaald als: Aanpassingswet Algemene douanewet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel XIIIba
-
-Wijzigt de Algemene douanewet.
-
-### Justitie
-
-### Landbouw, Natuur en Voedselkwaliteit
-
-### Onderwijs, Cultuur en Wetenschap
-
-### Verkeer en Waterstaat
-
-### Volksgezondheid, Welzijn en Sport
-
-### Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-
-### Overige bepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
