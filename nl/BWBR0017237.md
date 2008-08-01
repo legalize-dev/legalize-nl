@@ -4,7 +4,7 @@ identifier: "BWBR0017237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2008-03-05"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017237"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ De kandidaat wordt slechts toegelaten tot het examen indien hij het verschuldigd
 
 - a. een wettig en geldig legitimatiebewijs, en
 
-- b. een geldig toelatingsbewijs als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2008-03-05&g=2008-03-05).
+- b. een geldig toelatingsbewijs als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2008-08-01&g=2008-08-01).
 
 ##### Artikel 5
 
@@ -96,7 +96,7 @@ De kandidaat wordt slechts toegelaten tot het examen indien hij het verschuldigd
 
 2. Indien de examineringinstantie uiterlijk acht dagen vóór de voor het desbetreffende theorie-examen vastgestelde datum schriftelijk bericht heeft ontvangen, dat de kandidaat niet aan het examen of een onderdeel daarvan zal deelnemen, zal het examengeld, verminderd met de administratiekosten, aan de kandidaat worden gerestitueerd.
 
-3. Bij het niet dan wel niet tijdig verschijnen op het theorie-examen of op grond van geweigerde toegang als gevolg van het niet kunnen tonen van een geldig legitimatiebewijs of een geldig toelatingsbewijs als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2008-03-05&g=2008-03-05), dan wel bij ongeldigverklaring van de uitslag van het desbetreffende theorie-examen, wordt het examengeld niet gerestitueerd.
+3. Bij het niet dan wel niet tijdig verschijnen op het theorie-examen of op grond van geweigerde toegang als gevolg van het niet kunnen tonen van een geldig legitimatiebewijs of een geldig toelatingsbewijs als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2008-08-01&g=2008-08-01), dan wel bij ongeldigverklaring van de uitslag van het desbetreffende theorie-examen, wordt het examengeld niet gerestitueerd.
 
 ##### Artikel 6
 
@@ -110,11 +110,11 @@ Met inachtneming van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 7
 
-Voor andere dan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=6&z=2008-03-05&g=2008-03-05) bedoelde theorie-examens geldt dat:
+Voor andere dan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=6&z=2008-08-01&g=2008-08-01) bedoelde theorie-examens geldt dat:
 
 - a. de bepalingen van JAR-FCL 1.490 zijn van toepassing met dien verstande dat geen beperkingen tot RPL en CPL(FB) gelden ten aanzien van het aantal examenpogingen en -zittingen;
 
-- b. voor CPL(FB) de eisen, bedoeld in tabel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=1&z=2008-03-05&g=2008-03-05) behorende bij deze regeling, van toepassing zijn.
+- b. voor CPL(FB) de eisen, bedoeld in tabel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=1&z=2008-08-01&g=2008-08-01) behorende bij deze regeling, van toepassing zijn.
 
 ##### Artikel 8
 
@@ -132,7 +132,7 @@ Voor andere dan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR001723
 
 5. Ten behoeve van het theorie-examen wordt een huishoudelijk reglement opgesteld.
 
-6. Het gebruik van andere dan de in [tabel 2 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=1&z=2008-03-05&g=2008-03-05), behorende bij deze regeling, vermelde materialen is tijdens het theorie-examen niet toegestaan.
+6. Het gebruik van andere dan de in [tabel 2 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=1&z=2008-08-01&g=2008-08-01), behorende bij deze regeling, vermelde materialen is tijdens het theorie-examen niet toegestaan.
 
 7. Na afloop van het theorie-examen wordt het gemaakte examenwerk tezamen met de verstrekte materialen, bedoeld in het zesde lid, en de examenopgaven ingeleverd.
 
@@ -154,7 +154,7 @@ Voor andere dan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR001723
 
 2. Het eindresultaat van de beoordeling per examen luidt:
 
-- a. indien alle vakken zijn behaald binnen het toegestane aantal pogingen en examenzittingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=7&z=2008-03-05&g=2008-03-05): geslaagd;
+- a. indien alle vakken zijn behaald binnen het toegestane aantal pogingen en examenzittingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=7&z=2008-08-01&g=2008-08-01): geslaagd;
 
 - b. in de overige gevallen: afgewezen.
 
@@ -176,7 +176,7 @@ Na het afleggen van een of meer vakken dan wel de afronding van het theorie-exam
 
 ##### Artikel 13
 
-Een praktijkexamen en een proeve van bekwaamheid worden afgenomen op een luchtvaartuig dan wel een STD, die daartoe gekwalificeerd is op grond van de [Regeling kwalificatie STD’s](https://wetten.overheid.nl/jci1.3:c:BWBR0010764).
+Een praktijkexamen en een proeve van bekwaamheid worden afgenomen op een luchtvaartuig dan wel een FSTD, die daartoe gekwalificeerd is op grond van de [Regeling kwalificatie FSTD’s](https://wetten.overheid.nl/jci1.3:c:BWBR0010764).
 
 ##### Artikel 14
 
@@ -202,15 +202,15 @@ Een praktijkexamen en een proeve van bekwaamheid worden afgenomen op een luchtva
 
 1. Een kandidaat is voor het afleggen van een praktijkexamen of proeve van bekwaamheid een vergoeding verschuldigd aan:
 
-- a. indien [artikel 15, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2008-03-05&g=2008-03-05), van toepassing is: de protocolhouder, voor zover deze de kosten doorberekent;
+- a. indien [artikel 15, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2008-08-01&g=2008-08-01), van toepassing is: de protocolhouder, voor zover deze de kosten doorberekent;
 
-- b. indien [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2008-03-05&g=2008-03-05), van toepassing is: de minister.
+- b. indien [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2008-08-01&g=2008-08-01), van toepassing is: de minister.
 
 2. Het bedrag van de vergoeding, bedoeld in het eerste lid, wordt vastgesteld op grondslag van [artikel 4 van de Regeling examinatoren voor luchtvarenden 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&artikel=4).
 
 ##### Artikel 17
 
-De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van bekwaamheid indien hij voor aanvang aan de examinator, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2008-03-05&g=2008-03-05), de volgende bescheiden overlegt:
+De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van bekwaamheid indien hij voor aanvang aan de examinator, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2008-08-01&g=2008-08-01), de volgende bescheiden overlegt:
 
 - a. een wettig en geldig legitimatiebewijs; en
 
@@ -218,11 +218,11 @@ De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van be
 
 ##### Artikel 18
 
-1. De kandidaat dan wel de opleidingsinstelling draagt zorg voor de beschikbaarheid van een luchtvaartuig of STD, voor zover van toepassing, voor het afleggen van een praktijkexamen of een proeve van bekwaamheid.
+1. De kandidaat dan wel de opleidingsinstelling draagt zorg voor de beschikbaarheid van een luchtvaartuig of FSTD, voor zover van toepassing, voor het afleggen van een praktijkexamen of een proeve van bekwaamheid.
 
-2. Praktijkexamens en proeven van bekwaamheid voor een ATPL, CFEL of een multi-pilot type bevoegdverklaring worden uitgevoerd in een STD als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=13&z=2008-03-05&g=2008-03-05), tenzij er geen STD beschikbaar is die het voor een examenonderdeel vereiste niveau van kwalificatie heeft, dan wel er voor het desbetreffende type luchtvaartuig geen gekwalificeerde STD voorhanden is.
+2. Praktijkexamens en proeven van bekwaamheid voor een ATPL, CFEL of een multi-pilot type bevoegdverklaring worden uitgevoerd in een FSTD als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=13&z=2008-08-01&g=2008-08-01), tenzij er geen FSTD beschikbaar is die het voor een examenonderdeel vereiste niveau van kwalificatie heeft, dan wel er voor het desbetreffende type luchtvaartuig geen gekwalificeerde FSTD voorhanden is.
 
-3. De examenonderdelen die niet geëxamineerd kunnen worden in een STD, worden afgenomen in een luchtvaartuig van het desbetreffende type of de desbetreffende klasse.
+3. De examenonderdelen die niet geëxamineerd kunnen worden in een FSTD, worden afgenomen in een luchtvaartuig van het desbetreffende type of de desbetreffende klasse.
 
 ##### Artikel 19
 
@@ -230,11 +230,11 @@ De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van be
 
 2. Het praktijkexamen of een proeve van bekwaamheid voor ATPL, CPL(A) en CPL(H),MPL en PPL wordt afgenomen met inachtneming van [artikel 2 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=2) met dien verstande dat alle examensecties binnen ten hoogte 6 maanden worden behaald.
 
-3. Onverminderd het tweede lid is bij het afnemen van het praktijkexamen [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2008-03-05&g=2008-03-05), behorende bij deze regeling van toepassing. Onze Minister kan van deze bijlage afwijken indien de strikte naleving ervan in het concrete geval niet nodig is en een onevenredig nadeel voor de kandidaat zou opleveren
+3. Onverminderd het tweede lid is bij het afnemen van het praktijkexamen [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2008-08-01&g=2008-08-01), behorende bij deze regeling van toepassing. Onze Minister kan van deze bijlage afwijken indien de strikte naleving ervan in het concrete geval niet nodig is en een onevenredig nadeel voor de kandidaat zou opleveren
 
 ##### Artikel 20
 
-1. Voor andere dan de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=19&z=2008-03-05&g=2008-03-05) bedoelde praktijkexamens of proeven van bekwaamheid geldt dat:
+1. Voor andere dan de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=19&z=2008-08-01&g=2008-08-01) bedoelde praktijkexamens of proeven van bekwaamheid geldt dat:
 
 - a. dat alle examensecties binnen ten hoogste 6 maanden worden behaald;
 
@@ -260,17 +260,17 @@ De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van be
 
 - 7°. de examinator niet betrokken is bij de bediening van het luchtvaartuig tenzij diens tussenkomst noodzakelijk is in het belang van de veiligheid of teneinde vertraging van overig verkeer te voorkomen.
 
-2. Onverminderd het eerste lid is bij het afnemen van het praktijkexamen [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2008-03-05&g=2008-03-05), behorende bij deze regeling van toepassing. Van [deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2008-03-05&g=2008-03-05) kan worden afgeweken indien de strikte naleving ervan in het concrete geval niet nodig is en een onevenredig nadeel voor de kandidaat zou opleveren.
+2. Onverminderd het eerste lid is bij het afnemen van het praktijkexamen [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2008-08-01&g=2008-08-01), behorende bij deze regeling van toepassing. Van [deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2008-08-01&g=2008-08-01) kan worden afgeweken indien de strikte naleving ervan in het concrete geval niet nodig is en een onevenredig nadeel voor de kandidaat zou opleveren.
 
 ##### Artikel 21
 
 1. Bij het afnemen van een praktijkexamen of een proeve van bekwaamheid wordt, wat betreft de bevoegdverklaringen, uitgegaan van de volgende eisen en procedures, zoals gesteld in de bij Subdeel F JAR-FCL 1, 2 en 4 behorende bijlagen met betrekking tot praktijkexamen of een proeve van bekwaamheid met dien verstande dat alle examensecties binnen ten hoogste 6 maanden behaald worden.
 
-2. Onverminderd het eerste lid is bij het afnemen van het praktijkexamen [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2008-03-05&g=2008-03-05), behorende bij deze regeling van toepassing. Van [deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2008-03-05&g=2008-03-05) kan worden afgeweken indien de strikte naleving ervan in het concrete geval niet nodig is en een onevenredig nadeel voor de kandidaat zou opleveren.
+2. Onverminderd het eerste lid is bij het afnemen van het praktijkexamen [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2008-08-01&g=2008-08-01), behorende bij deze regeling van toepassing. Van [deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2008-08-01&g=2008-08-01) kan worden afgeweken indien de strikte naleving ervan in het concrete geval niet nodig is en een onevenredig nadeel voor de kandidaat zou opleveren.
 
 ##### Artikel 22
 
-1. De uitslag van een praktijkexamen wordt vastgesteld door Onze Minister aan de hand van de gegevens die door de examinator, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2008-03-05&g=2008-03-05), op het examenformulier zijn aangetekend.
+1. De uitslag van een praktijkexamen wordt vastgesteld door Onze Minister aan de hand van de gegevens die door de examinator, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2008-08-01&g=2008-08-01), op het examenformulier zijn aangetekend.
 
 2. De uitslag van een praktijkexamen wordt bepaald volgens de eisen gesteld in Bijlage 1 bij JAR-FCL 1.240 en 1.295, onder 3 en 4, Bijlage 1 bij JAR-FCL 2.240 en 2.295, onder 3 en 4, en Bijlage 1 bij 4.240.
 
@@ -280,7 +280,7 @@ De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van be
 
 ##### Artikel 23
 
-1. Met betrekking tot de vaststelling van de uitslag van een proeve van bekwaamheid is [artikel 22, behoudens het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=22&z=2008-03-05&g=2008-03-05), van overeenkomstige toepassing.
+1. Met betrekking tot de vaststelling van de uitslag van een proeve van bekwaamheid is [artikel 22, behoudens het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=22&z=2008-08-01&g=2008-08-01), van overeenkomstige toepassing.
 
 2. Indien de examinator een proeve van bekwaamheid positief beoordeelt, tekent hij dit aan op het examenformulier en tekent hij namens Onze Minister de verlenging dan wel de hernieuwde afgifte aan op het document waarop bewijzen van bevoegdheid en bevoegdverklaringen zijn weergegeven.
 
@@ -292,7 +292,7 @@ Vervallen
 
 ##### Artikel 25
 
-1. In afwijking van [artikel 14 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=14&z=2008-03-05&g=2008-03-05) kan de kandidaat aantonen te voldoen aan de bedrevenheidseisen voor afgifte, verlenging of hernieuwde afgifte, bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001, door met goed gevolg een praktijkexamen of proeve van bekwaamheid af te leggen, afgenomen door een examinator die in overeenstemming met de bepalingen van JAR-FCL is geautoriseerd door de bevoegde autoriteit van een staat, bedoeld in [artikel 1 van de Regeling aanwijzing JAA-landen 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015115&artikel=1).
+1. In afwijking van [artikel 14 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=14&z=2008-08-01&g=2008-08-01) kan de kandidaat aantonen te voldoen aan de bedrevenheidseisen voor afgifte, verlenging of hernieuwde afgifte, bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001, door met goed gevolg een praktijkexamen of proeve van bekwaamheid af te leggen, afgenomen door een examinator die in overeenstemming met de bepalingen van JAR-FCL is geautoriseerd door de bevoegde autoriteit van een staat, bedoeld in [artikel 1 van de Regeling aanwijzing JAA-landen 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015115&artikel=1).
 
 2. Het gestelde in het eerste lid geldt niet:
 
@@ -302,7 +302,7 @@ Vervallen
 
 3. Een praktijkexamen of proeve van bekwaamheid, bedoeld in het eerste lid, wordt door de kandidaat afgelegd en door de examinator afgenomen in overeenstemming met de voor het relevante praktijkexamen of de relevante proeve van bekwaamheid op JAR-FCL gebaseerde in de desbetreffende staat geldende regels.
 
-4. Met betrekking tot de vaststelling van de uitslag van zowel een praktijkexamen als een proeve van bekwaamheid is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=22&z=2008-03-05&g=2008-03-05) van overeenkomstige toepassing.
+4. Met betrekking tot de vaststelling van de uitslag van zowel een praktijkexamen als een proeve van bekwaamheid is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=22&z=2008-08-01&g=2008-08-01) van overeenkomstige toepassing.
 
 5. De uitslag wordt slechts vastgesteld na het overleggen aan de minister van een bewijs dat de examinator is toegedeeld in overeenstemming met de in de desbetreffende staat, bedoeld in het eerste en derde lid, geldende regels.
 
@@ -320,9 +320,9 @@ Vervallen
 
 1. Een Nationaal Expert Team bestaat uit een door Onze Minister vast te stellen aantal leden, die door Onze Minister worden benoemd voor een periode van ten hoogste 3 jaar. De leden kunnen telkens voor ten hoogste 3 jaar worden herbenoemd.
 
-2. Leden van een Nationaal Expert Team als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=4&artikel=26&z=2008-03-05&g=2008-03-05), kunnen worden benoemd uit de kring van deskundigen met betrekking tot de relevante theorie-examenvakken.
+2. Leden van een Nationaal Expert Team als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=4&artikel=26&z=2008-08-01&g=2008-08-01), kunnen worden benoemd uit de kring van deskundigen met betrekking tot de relevante theorie-examenvakken.
 
-3. Leden van het Nationaal Expert Team-Praktijk als bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=4&artikel=26&z=2008-03-05&g=2008-03-05), kunnen worden benoemd uit de kring van examinatoren en senior-examinatoren, als bedoeld in de [Regeling examinatoren voor luchtvarenden 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017236).
+3. Leden van het Nationaal Expert Team-Praktijk als bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=4&artikel=26&z=2008-08-01&g=2008-08-01), kunnen worden benoemd uit de kring van examinatoren en senior-examinatoren, als bedoeld in de [Regeling examinatoren voor luchtvarenden 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017236).
 
 4. Onze Minister verleent tussentijds ontslag aan een lid van een Nationaal Expert Team:
 
@@ -332,7 +332,7 @@ Vervallen
 
 5. Elk Nationaal Expert Team stelt een reglement vast ter nadere regeling van haar werkzaamheden. Het reglement behoeft de goedkeuring van Onze Minister.
 
-6. De leden van een Nationaal Expert Team als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=4&artikel=26&z=2008-03-05&g=2008-03-05), houden de inhoud van theorie-examenvragen geheim.
+6. De leden van een Nationaal Expert Team als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=4&artikel=26&z=2008-08-01&g=2008-08-01), houden de inhoud van theorie-examenvragen geheim.
 
 ##### Artikel 28
 
