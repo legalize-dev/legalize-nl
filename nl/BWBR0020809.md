@@ -4,7 +4,7 @@ identifier: "BWBR0020809"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020809"
 soort: "wet"
@@ -76,9 +76,9 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - –. bijdragende onderneming: een onderneming of ander lichaam, ongeacht of deze een of meer natuurlijke personen of rechtspersonen die optreden als werkgever of zelfstandige, dan wel een combinatie daarvan, omvat of hieruit bestaat, en die aan een pensioenfonds, beroepspensioenfonds of pensioeninstelling uit een andere lidstaat bijdragen betaalt;
 
-- –. bijzonder partnerpensioen: de aanspraak op partnerpensioen die op grond van [artikel 57, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=57&z=2008-01-01&g=2008-01-01), verkregen wordt door de gewezen partner;
+- –. bijzonder partnerpensioen: de aanspraak op partnerpensioen die op grond van [artikel 57, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=57&z=2008-08-01&g=2008-08-01), verkregen wordt door de gewezen partner;
 
-- –. buitenlandse instelling: een instelling met zetel buiten Nederland, niet zijnde een pensioeninstelling uit een andere lidstaat, een verzekeraar met een zetel buiten Nederland, een van de Europese Gemeenschappen of een instelling als bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=70&z=2008-01-01&g=2008-01-01);
+- –. buitenlandse instelling: een instelling met zetel buiten Nederland, niet zijnde een pensioeninstelling uit een andere lidstaat, een verzekeraar met een zetel buiten Nederland, een van de Europese Gemeenschappen of een instelling als bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=70&z=2008-08-01&g=2008-08-01);
 
 - –. deelnemer: de werknemer of gewezen werknemer die op grond van een pensioenovereenkomst pensioenaanspraken verwerft jegens een pensioenuitvoerder;
 
@@ -162,7 +162,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - –. [richtlijn 2003/41/EG](32003L0041): [richtlijn nr. 2003/41/EG](32003L0041) van het Europees Parlement en de Raad van de Europese Unie van 3 juni 2003 betreffende de werkzaamheden van en het toezicht op instellingen voor bedrijfspensioenvoorziening (PbEG L 235/10);
 
-- –. scheiding: echtscheiding, ontbinding na scheiding van tafel en bed, beëindiging van een geregistreerd partnerschap anders dan door dood of vermissing of beëindiging van een partnerrelatie in de zin van de pensioenovereenkomst;
+- –. scheiding: echtscheiding, ontbinding van het huwelijk na scheiding van tafel en bed, beëindiging van een geregistreerd partnerschap anders dan door dood, vermissing of omzetting van een geregistreerd partnerschap in een huwelijk of beëindiging van een partnerrelatie in de zin van de pensioenovereenkomst;
 
 - –. schriftelijk: in schrifttekens op papier;
 
@@ -170,11 +170,13 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - a. een pensioenrecht;
 
-- b. een pensioenaanspraak van een gewezen deelnemer, mits die verhoging bij een kapitaalovereenkomst niet voortvloeit uit rente- of winstdeling of bij een premieovereenkomst niet voorvloeit uit behaald beleggingsrendement; of
+- b. een pensioenaanspraak van een gewezen deelnemer, mits die verhoging bij een kapitaalovereenkomst niet voortvloeit uit rente- of winstdeling of bij een premieovereenkomst niet voorvloeit uit behaald beleggingsrendement;
 
-- c. een pensioenaanspraak van een deelnemer op grond van een uitkeringsovereenkomst gebaseerd op het middelloonstelsel of gebaseerd op een vastebedragenregeling, mits de verhoging geen verband houdt met een verhoging van de pensioengrondslag, de toename van het in aanmerking te nemen aantal jaren of een wijziging van de pensioenovereenkomst;
+- c. een pensioenaanspraak van een deelnemer op grond van een uitkeringsovereenkomst gebaseerd op het middelloonstelsel of gebaseerd op een vastebedragenregeling, mits de verhoging geen verband houdt met een verhoging van de pensioengrondslag, de toename van het in aanmerking te nemen aantal jaren of een wijziging van de pensioenovereenkomst; of
 
-- –. toezichthouder: de Stichting Autoriteit Financiële Markten of De Nederlandsche Bank N.V., ieder voor zover belast met de uitoefening van het toezicht bij of krachtens [artikel 151](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.1&artikel=151&z=2008-01-01&g=2008-01-01);
+- d. een pensioenaanspraak van een gepensioneerde ten behoeve van zijn partner;
+
+- –. toezichthouder: de Stichting Autoriteit Financiële Markten of De Nederlandsche Bank N.V., ieder voor zover belast met de uitoefening van het toezicht bij of krachtens [artikel 151](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.1&artikel=151&z=2008-08-01&g=2008-08-01);
 
 - –. uitkeringsovereenkomst: een pensioenovereenkomst inzake een vastgestelde pensioenuitkering;
 
@@ -182,11 +184,11 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - –. uitvoeringsreglement:
 
-- a. de door een verplichtgesteld bedrijftakpensioenfonds opgestelde regeling met betrekking tot de verhouding tussen pensioenuitvoerder en werkgever;
+- a. de door een bedrijftakpensioenfonds opgestelde regeling met betrekking tot de verhouding tussen pensioenuitvoerder en werkgever;
 
 - b. de door een pensioenuitvoerder opgestelde regeling inzake de uitvoering van de pensioenovereenkomsten met zijn werknemers;
 
-- –. verplichtgesteld bedrijfstakpensioenfonds: een bedrijfstakpensioenfonds waarin de deelneming verplicht is gesteld als bedoeld in [artikel 2, eerste lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=2);
+- –. verplichtgesteld bedrijfstakpensioenfonds: een bedrijfstakpensioenfonds waarin de deelneming verplicht is gesteld als bedoeld in [artikel 2, eerste lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=2) en [artikel 21, eerste lid, van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=21);
 
 - –. verzekeraar: een verzekeraar die op grond van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van levensverzekeraar of schadeverzekeraar mag uitoefenen;
 
@@ -240,17 +242,21 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 6. Een uitkering voor een gemoedsbezwaarde als bedoeld in [artikel 64, eerste lid, onderdeel a, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=64) is geen pensioen in de zin van deze wet.
 
+7. Bij algemene maatregel van bestuur kunnen regels worden gesteld op grond waarvan aanvullingen op een loonaanvullingsuitkering of een vervolguitkering als bedoeld in [artikel 60, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=60) die geen arbeidsongeschiktheidspensioen zijn als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2008-08-01&g=2008-08-01) worden aangemerkt als arbeidsongeschiktheidspensioen als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2008-08-01&g=2008-08-01).
+
+8. De voordracht voor een krachtens het zevende lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
 #### § 1.2. Toepassingsgebied van de wet
 
 ##### Artikel 3. Gedeeltelijke toepasselijkheid bij personen, niet zijnde werknemer of werkgever, die onder de werkingssfeer van een verplichtgesteld bedrijfstakpensioenfonds vallen
 
-1. Deze wet is met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2008-01-01&g=2008-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2008-01-01&g=2008-01-01) van overeenkomstige toepassing op de persoon die geen werkgever of werknemer is, die in een arbeidsverhouding werkt waarbij tegen beloning persoonlijke arbeid wordt verricht en die onder de werkingssfeer valt van een door een verplichtgesteld bedrijfstakpensioenfonds uitgevoerde pensioenregeling.
+1. Deze wet is met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2008-08-01&g=2008-08-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2008-08-01&g=2008-08-01) van overeenkomstige toepassing op de persoon die geen werkgever of werknemer is, die in een arbeidsverhouding werkt waarbij tegen beloning persoonlijke arbeid wordt verricht en die onder de werkingssfeer valt van een door een verplichtgesteld bedrijfstakpensioenfonds uitgevoerde pensioenregeling.
 
-2. Deze wet is met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2008-01-01&g=2008-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2008-01-01&g=2008-01-01) van overeenkomstige toepassing op de persoon die als zelfstandige onder de werkingssfeer valt van een door een verplichtgesteld bedrijfstakpensioenfonds uitgevoerde pensioenregeling.
+2. Deze wet is met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2008-08-01&g=2008-08-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2008-08-01&g=2008-08-01) van overeenkomstige toepassing op de persoon die als zelfstandige onder de werkingssfeer valt van een door een verplichtgesteld bedrijfstakpensioenfonds uitgevoerde pensioenregeling.
 
 ##### Artikel 4. Gedeeltelijke toepasselijkheid bij pensioenverevening
 
-Op een pensioenaanspraak die of een pensioenrecht dat een tot verevening gerechtigde echtgenoot of geregistreerde partner op grond van [artikel 5 van de Wet verevening pensioenrechten bij scheiding](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=5) verwerft, zijn de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=58&z=2008-01-01&g=2008-01-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=61&z=2008-01-01&g=2008-01-01), [71 tot en met 74](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01), [78 tot en met 80](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=78&z=2008-01-01&g=2008-01-01), [85 tot en met 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=85&z=2008-01-01&g=2008-01-01) niet van overeenkomstige toepassing.
+Op een pensioenaanspraak die of een pensioenrecht dat een tot verevening gerechtigde echtgenoot of geregistreerde partner op grond van [artikel 5 van de Wet verevening pensioenrechten bij scheiding](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=5) verwerft, zijn de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=58&z=2008-08-01&g=2008-08-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=61&z=2008-08-01&g=2008-08-01), [71 tot en met 74](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01), [78 tot en met 80](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=78&z=2008-08-01&g=2008-08-01), [85 tot en met 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=85&z=2008-08-01&g=2008-08-01) niet van overeenkomstige toepassing.
 
 ##### Artikel 5. Relatie met verzekeringsovereenkomsten
 
@@ -264,7 +270,7 @@ Op een pensioenaanspraak die of een pensioenrecht dat een tot verevening gerecht
 
 ##### Artikel 6. Relatie met [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
 
-De [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) is niet van toepassing op de verhouding tussen een verzekeraar en een aanspraak- of pensioengerechtigde.
+De [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) is niet van toepassing op de verhouding tussen een verzekeraar en een aanspraak- of pensioengerechtigde, tenzij in deze wet anders is bepaald.
 
 ### Hoofdstuk 2. Pensioenovereenkomst
 
@@ -334,7 +340,7 @@ In de pensioenovereenkomst wordt bepaald of er toeslagen worden verleend en, zo 
 
 1. Het verwerven van ouderdomspensioenaanspraken op basis van een pensioenovereenkomst begint uiterlijk op de 21-jarige leeftijd van de werknemer of op de latere datum van indiensttreding, tenzij het een ouderdomspensioen betreft dat uitsluitend voorziet in een uitkering tot het bereiken van de pensioenleeftijd op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of tot het bereiken van de pensioenleeftijd voor het levenslange ouderdomspensioen.
 
-2. Het in het eerste lid genoemde tijdstip waarop de verwerving begint kan, indien in de pensioenovereenkomst is voorzien in een wachttijd of drempelperiode, met betrekking tot ouderdomspensioen worden uitgesteld met ten hoogste twee maanden. Wachttijden of drempelperioden zijn niet toegestaan voor het nabestaandenpensioen en het arbeidsongeschiktheidspensioen.
+2. Het in het eerste lid genoemde tijdstip waarop de verwerving begint kan, indien in de pensioenovereenkomst is voorzien in een wachttijd of drempelperiode, met betrekking tot ouderdompensioen worden uitgesteld met ten hoogste twee maanden of, indien sprake is van een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), tot de werknemer in meer dan 26 weken arbeid heeft verricht. Voor de berekening van de termijn van 26 weken is [artikel 691, vierde en vijfde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) van overeenkomstige toepassing. Wachttijden of drempelperioden zijn niet toegestaan voor het nabestaandenpensioen en het arbeidsongeschiktheidspensioen.
 
 3. In geval een werkgever die nog geen enkele pensioenovereenkomst heeft gesloten of die alleen een pensioenovereenkomst heeft gesloten met werknemers die tot een bepaalde groep behoren, over gaat tot het sluiten van een of meer pensioenovereenkomsten, geldt ten aanzien van zijn werknemers die bij het sluiten van de pensioenovereenkomst ouder zijn dan 21 jaar, niet de eis dat de verwerving van pensioen op 21-jarige leeftijd moet zijn begonnen.
 
@@ -360,7 +366,7 @@ De verwerving van pensioenaanspraken in het kader van een uitkeringsovereenkomst
 
 1. In geval van verlaging van de pensioengrondslag van een werknemer worden de op grond van de pensioenovereenkomst tot het tijdstip van verlaging opgebouwde pensioenaanspraken niet gewijzigd.
 
-2. In geval van verlaging van de pensioengrondslag blijven de opgebouwde pensioenaanspraken behouden en worden de pensioenaanspraken vastgesteld overeenkomstig [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=55&z=2008-01-01&g=2008-01-01).
+2. In geval van verlaging van de pensioengrondslag blijven de opgebouwde pensioenaanspraken behouden en worden de pensioenaanspraken vastgesteld overeenkomstig [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=55&z=2008-08-01&g=2008-08-01).
 
 3. Elk beding in strijd met het eerste of tweede lid is nietig.
 
@@ -372,7 +378,7 @@ Een werkgever kan de pensioenovereenkomst zonder instemming van de werknemer wij
 
 ##### Artikel 20. Gevolgen van wijziging van een pensioenovereenkomst
 
-In geval van een wijziging van een pensioenovereenkomst worden de voor de aanspraakgerechtigden tot het tijdstip van wijziging opgebouwde pensioenaanspraken niet gewijzigd, behoudens het bepaalde in de [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-01-01&g=2008-01-01), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=78&z=2008-01-01&g=2008-01-01), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=83&z=2008-01-01&g=2008-01-01) en [134](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-01-01&g=2008-01-01).
+In geval van een wijziging van een pensioenovereenkomst worden de voor de aanspraakgerechtigden tot het tijdstip van wijziging opgebouwde pensioenaanspraken niet gewijzigd, behoudens het bepaalde in de [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-08-01&g=2008-08-01), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=78&z=2008-08-01&g=2008-08-01), [83](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=83&z=2008-08-01&g=2008-08-01) en [134](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-08-01&g=2008-08-01).
 
 #### § 2.4. Informatie- en hoorplicht werkgever
 
@@ -432,7 +438,7 @@ In geval van een wijziging van een pensioenovereenkomst worden de voor de aanspr
 
 - a. een pensioenuitvoerder;
 
-- b. een pensioeninstelling uit een andere lidstaat die beschikt over een daartoe verleende vergunning als bedoeld in [artikel 199](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.3&artikel=199&z=2008-01-01&g=2008-01-01) en de bevoegde autoriteiten in kennis heeft gesteld overeenkomstig [artikel 199](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.3&artikel=199&z=2008-01-01&g=2008-01-01); of
+- b. een pensioeninstelling uit een andere lidstaat die beschikt over een daartoe verleende vergunning als bedoeld in [artikel 199](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.3&artikel=199&z=2008-08-01&g=2008-08-01) en de bevoegde autoriteiten in kennis heeft gesteld overeenkomstig [artikel 199](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.3&artikel=199&z=2008-08-01&g=2008-08-01); of
 
 - c. een verzekeraar met een zetel buiten Nederland, mits die verzekeraar op grond van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van levensverzekeraar of schadeverzekeraar mag uitoefenen.
 
@@ -440,7 +446,7 @@ In geval van een wijziging van een pensioenovereenkomst worden de voor de aanspr
 
 - a. mits de werkgever gehouden is of zich verbonden heeft door lid te zijn van een werkgeversvereniging tot naleving van de statuten en reglementen van dit bedrijfstakpensioenfonds; en
 
-- b. een uitvoeringsreglement door het bedrijfstakpensioenfonds is opgesteld dat voldoet aan de eisen die in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=25&z=2008-01-01&g=2008-01-01) ten aanzien van de uitvoeringsovereenkomst zijn gesteld.
+- b. een uitvoeringsreglement door het bedrijfstakpensioenfonds is opgesteld dat voldoet aan de eisen die in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=25&z=2008-08-01&g=2008-08-01) ten aanzien van de uitvoeringsovereenkomst zijn gesteld.
 
 3. De in het eerste lid opgenomen verplichtingen van de werkgever tot onderbrenging en het sluiten en in stand houden van een schriftelijke uitvoeringsovereenkomst gelden niet wanneer een pensioenovereenkomst is gesloten door een werkgever die tevens pensioenuitvoerder is, mits:
 
@@ -448,11 +454,11 @@ In geval van een wijziging van een pensioenovereenkomst worden de voor de aanspr
 
 - b. een uitvoeringsreglement door de werkgever is opgesteld.
 
-4. Wanneer een werkgever het voornemen heeft een pensioenovereenkomst onder te brengen bij een pensioeninstelling uit een andere lidstaat of bij een pensioenfonds dat op grond van [artikel 212](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=212&z=2008-01-01&g=2008-01-01) ontheffing heeft gekregen van het bepaalde in de [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=99&z=2008-01-01&g=2008-01-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=100&z=2008-01-01&g=2008-01-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=101&z=2008-01-01&g=2008-01-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=109&z=2008-01-01&g=2008-01-01) en [110](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=99&z=2008-01-01&g=2008-01-01), is [artikel 27 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=27) van overeenkomstige toepassing.
+4. Wanneer een werkgever het voornemen heeft een pensioenovereenkomst onder te brengen bij een pensioeninstelling uit een andere lidstaat of bij een pensioenfonds dat op grond van [artikel 212](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=212&z=2008-08-01&g=2008-08-01) ontheffing heeft gekregen van het bepaalde in de [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=99&z=2008-08-01&g=2008-08-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=100&z=2008-08-01&g=2008-08-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=101&z=2008-08-01&g=2008-08-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=109&z=2008-08-01&g=2008-08-01) en [110](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=99&z=2008-08-01&g=2008-08-01), is [artikel 27 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=27) van overeenkomstige toepassing.
 
 ##### Artikel 24. Premie aan pensioenuitvoerder door werkgever
 
-De werkgever voldoet de pensioenuitvoerder de verschuldigde premie, tenzij er sprake is van voldoening door de gewezen werknemer in geval van een vrijwillige voortzetting als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=54&z=2008-01-01&g=2008-01-01).
+De werkgever voldoet de pensioenuitvoerder de verschuldigde premie, tenzij er sprake is van voldoening door de gewezen werknemer in geval van een vrijwillige voortzetting als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=54&z=2008-08-01&g=2008-08-01).
 
 #### § 3.2. Inhoud uitvoeringsovereenkomst
 
@@ -462,7 +468,7 @@ De werkgever voldoet de pensioenuitvoerder de verschuldigde premie, tenzij er sp
 
 - a. de wijze waarop de verschuldigde premie wordt vastgesteld;
 
-- b. de wijze waarop en termijnen waarin de verschuldigde premie moet worden voldaan met inachtneming van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=26&z=2008-01-01&g=2008-01-01);
+- b. de wijze waarop en termijnen waarin de verschuldigde premie moet worden voldaan met inachtneming van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=26&z=2008-08-01&g=2008-08-01);
 
 - c. de informatie welke door de werkgever aan de pensioenuitvoerder wordt verstrekt;
 
@@ -474,7 +480,7 @@ De werkgever voldoet de pensioenuitvoerder de verschuldigde premie, tenzij er sp
 
 - g. de uitgangspunten en procedures welke gelden ten aanzien van de besluitvorming over vermogenstekorten en vermogensoverschotten dan wel winstdeling; en
 
-- h. de voorwaarden die gelden bij beëindiging van een met een verzekeraar gesloten uitvoeringsovereenkomst. In deze regeling worden de belangen van zowel de verzekeraar als de werkgever vanuit actuarieel en bedrijfseconomisch oogpunt op evenwichtige wijze gewaarborgd door rekening te houden met:
+- h. de voorwaarden die gelden bij beëindiging van een met een verzekeraar gesloten uitvoeringsovereenkomst. In deze regeling worden de belangen van zowel de verzekeraar als de werkgever vanuit actuarieel en bedrijfseconomisch oogpunt op evenwichtige wijze gewaarborgd door rekening te houden met: De regeling kan geen uitsluiting van collectieve waardeoverdracht inhouden.
 
 - 1°. de overige voorwaarden in de uitvoeringsovereenkomst;
 
@@ -484,7 +490,7 @@ De werkgever voldoet de pensioenuitvoerder de verschuldigde premie, tenzij er sp
 
 2. In de uitvoeringsovereenkomst wordt, voor zover overeengekomen, een regeling opgenomen met betrekking tot de volgende onderwerpen:
 
-- a. een voorbehoud van de werkgever als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2008-01-01&g=2008-01-01);
+- a. een voorbehoud van de werkgever als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2008-08-01&g=2008-08-01);
 
 - b. in geval van premiekorting of terugstorting: de voorwaarden waaronder sprake is van premiekorting of terugstorting, de wijze van vaststelling van de hoogte van de premiekorting of terugstorting en de bestemming ervan;
 
@@ -508,17 +514,27 @@ In de uitvoeringsovereenkomst wordt vastgelegd hoe de betaling van de premies do
 
 ##### Artikel 27. Premiebetaling bij beëindiging deelneming
 
-De in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=26&z=2008-01-01&g=2008-01-01) genoemde termijnen gelden niet indien sprake is van een beëindiging van de deelneming. In dat geval wordt de ten tijde van de beëindiging nog verschuldigde premie binnen dertien weken voldaan.
+De in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=26&z=2008-08-01&g=2008-08-01) genoemde termijnen gelden niet indien sprake is van een beëindiging van de deelneming. In dat geval wordt de ten tijde van de beëindiging nog verschuldigde premie binnen dertien weken voldaan.
 
 ##### Artikel 28. Melding door pensioenfonds inzake premieachterstand en tekort minimaal vereist eigen vermogen
 
-1. Een pensioenfonds informeert elk kwartaal schriftelijk de deelnemersraad en, bij het ontbreken daarvan, de deelnemers, gewezen deelnemers en pensioengerechtigden wanneer sprake is van een premieachterstand ter grootte van 5% van de totale door het pensioenfonds te ontvangen jaarpremie en tevens niet voldaan wordt aan de bij of krachtens [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=131&z=2008-01-01&g=2008-01-01) geldende eisen inzake het minimaal vereist eigen vermogen.
+1. Een pensioenfonds informeert elk kwartaal schriftelijk de deelnemersraad en, bij het ontbreken daarvan, de deelnemers, gewezen deelnemers en pensioengerechtigden wanneer sprake is van een premieachterstand ter grootte van 5% van de totale door het pensioenfonds te ontvangen jaarpremie en tevens niet voldaan wordt aan de bij of krachtens [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=131&z=2008-08-01&g=2008-08-01) geldende eisen inzake het minimaal vereist eigen vermogen.
 
 2. Gedurende de in het eerste lid bedoelde situatie informeert een pensioenfonds tevens elk kwartaal de ondernemingsraad van de onderneming die nog premie aan het pensioenfonds verschuldigd is.
 
 ##### Artikel 29. Melding door verzekeraar bij premieachterstand en gevolgen van premieachterstand
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een verzekeraar informeert de deelnemers en de werkgever wanneer de premieachterstand het noodzakelijk maakt de opbouw van pensioenaanspraken te beëindigen door premievrijmaking of pensioenaanspraken zonder premievrije waarde te laten vervallen.
+
+2. Een verzekeraar kan de in het eerste lid bedoelde mededeling aan de deelnemers pas doen indien hij zich aantoonbaar heeft ingespannen om de achterstallige premie te innen.
+
+3. De verzekeraar kan op zijn vroegst drie maanden na de in het eerste lid bedoelde mededeling de opbouw van pensioenaanspraken beëindigen door premievrijmaking of pensioenaanspraken zonder premievrije waarde laten vervallen.
+
+4. De premievrijmaking, bedoeld in het derde lid, vindt op zijn vroegst plaats per de datum die vijf maanden voor het tijdstip van informeren van de deelnemers is gelegen.
+
+5. De dekking van het arbeidsongeschiktheidsrisico of het overlijdensrisico blijft volledig in stand tot drie maanden na de in het eerste lid bedoelde mededeling.
+
+6. Bij de premievrijmaking wordt de verzekering premievrij voortgezet zonder verrekening van premie en rente met de pensioenaanspraken. Kosten, voor zover voortvloeiend uit het premievrij maken, worden evenmin verrekend met de pensioenaanspraken.
 
 ##### Artikel 30. Toepasselijk recht
 
@@ -570,9 +586,9 @@ Een pensioenuitvoerder heeft tot taak een pensioenovereenkomst uit te voeren op 
 
 - a. de wijze waarop de pensioenuitvoerder omgaat met inkomende waarden in het kader van waardeoverdracht;
 
-- b. de hoogte van de ruilvoet en de opbouwkeuzevoet, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=60&z=2008-01-01&g=2008-01-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=61&z=2008-01-01&g=2008-01-01), en de afkoopvoet, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-01-01&g=2008-01-01); en
+- b. de hoogte van de ruilvoet en de opbouwkeuzevoet, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=60&z=2008-08-01&g=2008-08-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=61&z=2008-08-01&g=2008-08-01), en de afkoopvoet, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-08-01&g=2008-08-01); en
 
-- c. de kortingsregel, bedoeld in [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-01-01&g=2008-01-01).
+- c. de kortingsregel, bedoeld in [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-08-01&g=2008-08-01).
 
 ##### Artikel 36. Registreren deelnemingsjaren
 
@@ -598,21 +614,25 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. De in het eerste lid bedoelde informatie wordt verstrekt in de vorm van een door de pensioenuitvoerders op te stellen uniform pensioenoverzicht.
 
-3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de in het eerste lid bedoelde opgaven en informatie en de wijze waarop deze worden verstrekt.
+3. De in het eerste lid bedoelde informatie kan in afwijking van het bepaalde in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=49&z=2008-08-01&g=2008-08-01) elektronisch ter beschikking worden gesteld indien de verworven pensioenaanspraak minder bedraagt dan het op basis van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-08-01&g=2008-08-01) bepaalde bedrag, tenzij de deelnemer hiertegen bezwaar maakt.
+
+4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de in het eerste lid bedoelde opgaven en informatie en de wijze waarop deze worden verstrekt.
 
 ##### Artikel 39. Verstrekken informatie aan deelnemers bij beëindiging deelneming
 
 1. De pensioenuitvoerder verstrekt de deelnemer bij beëindiging van de deelneming:
 
-- a. een opgave van de opgebouwde pensioenaanspraken op grond van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=55&z=2008-01-01&g=2008-01-01);
+- a. een opgave van de opgebouwde pensioenaanspraken op grond van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=55&z=2008-08-01&g=2008-08-01);
 
 - b. informatie over toeslagverlening;
 
 - c. informatie die voor de deelnemer specifiek in het kader van de beëindiging relevant is; en
 
-- d. omstandigheden die betrekking hebben op het functioneren van de pensioenuitvoerder.
+- d. informatie over omstandigheden die betrekking hebben op het functioneren van de pensioenuitvoerder.
 
-2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de in het eerste lid bedoelde opgave en informatie en de wijze waarop deze worden verstrekt.
+2. De in het eerste lid bedoelde informatie kan in afwijking van het bepaalde in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=49&z=2008-08-01&g=2008-08-01) elektronisch ter beschikking worden gesteld indien de verworven pensioenopbouw minder bedraagt dan het op basis van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-08-01&g=2008-08-01) bepaalde bedrag, tenzij de deelnemer hiertegen bezwaar maakt.
+
+3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de in het eerste lid bedoelde opgave en informatie en de wijze waarop deze worden verstrekt.
 
 ##### Artikel 40. Verstrekken informatie aan gewezen deelnemers periodiek
 
@@ -624,7 +644,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. De pensioenuitvoerder informeert de gewezen deelnemer binnen drie maanden na een wijziging van het toeslagbeleid over die wijziging.
 
-3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de in het eerste lid bedoelde opgave en informatie en de wijze waarop deze worden verstrekt.
+3. De in het eerste lid bedoelde informatie kan in afwijking van het bepaalde in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=49&z=2008-08-01&g=2008-08-01) elektronisch ter beschikking worden gesteld indien de verworven pensioenopbouw minder bedraagt dan het op basis van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-08-01&g=2008-08-01) bepaalde bedrag, tenzij de deelnemer hiertegen bezwaar maakt.
+
+4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de in het eerste lid bedoelde opgave en informatie en de wijze waarop deze worden verstrekt.
 
 ##### Artikel 41. Verstrekken informatie aan gewezen partner bij scheiding
 
@@ -642,7 +664,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. De pensioenuitvoerder verstrekt de gewezen partner ten minste een keer in de vijf jaar:
 
-- a. een opgave van zijn opgebouwde aanspraak op partnerpensioen op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=41&z=2008-01-01&g=2008-01-01); en
+- a. een opgave van zijn opgebouwde aanspraak op partnerpensioen op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=41&z=2008-08-01&g=2008-08-01); en
 
 - b. informatie over toeslagverlening.
 
@@ -718,7 +740,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 48. Informatie tijdig en duidelijk
 
-1. De pensioenuitvoerder verstrekt de informatie, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2008-01-01&g=2008-01-01), [38 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-01-01&g=2008-01-01), [46, eerste lid, onderdeel d, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=46&z=2008-01-01&g=2008-01-01), en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=47&z=2008-01-01&g=2008-01-01) tijdig en in duidelijke en begrijpelijke bewoordingen.
+1. De pensioenuitvoerder verstrekt de informatie, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2008-08-01&g=2008-08-01) en [38 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-08-01&g=2008-08-01), tijdig. De informatie, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2008-08-01&g=2008-08-01), [38 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-08-01&g=2008-08-01), [46, eerste lid, onderdeel d, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=46&z=2008-08-01&g=2008-08-01), en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=47&z=2008-08-01&g=2008-08-01) verstrekt de pensioenuitvoerder in duidelijke en begrijpelijke bewoordingen.
 
 2. Dit lid is nog niet in werking getreden.
 
@@ -732,13 +754,13 @@ De pensioenuitvoerder verstrekt de informatie schriftelijk, tenzij de deelnemer,
 
 ##### Artikel 50. Verstrekken informatie door pensioenuitvoerder
 
-1. De pensioenuitvoerder kan zich voor het schriftelijk verstrekken van de informatie, bedoeld in de [artikelen 38 tot en met 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-01-01&g=2008-01-01), houden aan het laatst hem bekende adres van de deelnemer, gewezen deelnemer, pensioengerechtigde of gewezen partner.
+1. De pensioenuitvoerder kan zich voor het schriftelijk verstrekken van de informatie, bedoeld in de [artikelen 38 tot en met 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-08-01&g=2008-08-01), houden aan het laatst hem bekende adres van de deelnemer, gewezen deelnemer, pensioengerechtigde of gewezen partner.
 
 2. Indien dit adres onjuist blijkt te zijn doet de pensioenuitvoerder navraag bij de gemeentelijke basisadministratie in de laatst bekende woonplaats van de deelnemer, gewezen deelnemer, pensioengerechtigde of gewezen partner.
 
 3. Indien de pensioenuitvoerder kosten maakt in verband met werkzaamheden die voortvloeien uit het feit dat de deelnemer, gewezen deelnemer, pensioengerechtigde of gewezen partner verzuimd heeft de pensioenuitvoerder omtrent een wijziging van adres te informeren, kan de pensioenuitvoerder deze kosten bij deze in rekening brengen, maar kunnen deze kosten niet direct in mindering worden gebracht op de uitkering.
 
-4. Indien de deelnemer, gewezen deelnemer, pensioengerechtigde of gewezen partner heeft ingestemd met elektronische verstrekking van informatie en het bij de pensioenuitvoerder bekende adres voor deze elektronische verstrekking blijkt onjuist, verstrekt de pensioenuitvoerder de informatie schriftelijk.
+4. Indien het bij de pensioenuitvoerder bekende adres voor de elektronische verstrekking van informatie onjuist blijkt, verstrekt de pensioenuitvoerder de informatie schriftelijk.
 
 ##### Artikel 51. Pensioenregister
 
@@ -746,7 +768,7 @@ De pensioenuitvoerders richten een pensioenregister in dat uiterlijk op 1 januar
 
 ##### Artikel 52. Zorgplicht pensioenuitvoerder bij premieovereenkomsten met beleggingsvrijheid
 
-1. Bij de uitvoering van een premieovereenkomst met beleggingsvrijheid is de pensioenuitvoerder verantwoordelijk voor de beleggingen en handelt daarbij overeenkomstig [artikel 135](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=135&z=2008-01-01&g=2008-01-01).
+1. Bij de uitvoering van een premieovereenkomst met beleggingsvrijheid is de pensioenuitvoerder verantwoordelijk voor de beleggingen en handelt daarbij overeenkomstig [artikel 135](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=135&z=2008-08-01&g=2008-08-01).
 
 2. De pensioenuitvoerder biedt de deelnemer en de gewezen deelnemer de mogelijkheid de verantwoordelijkheid voor de beleggingen over te nemen.
 
@@ -780,7 +802,7 @@ De pensioenuitvoerder betaalt de uitkering uit hoofde van een pensioenrecht op v
 
 ##### Artikel 55. Behoud aanspraak op pensioen bij beëindiging deelneming
 
-1. Bij beëindiging van de deelneming behoudt de gewezen deelnemer de tot dat moment op grond van het pensioenreglement opgebouwde pensioenaanspraken indien er sprake is van een uitkeringsovereenkomst of een kapitaalovereenkomst. Deze pensioenaanspraak dient volledig gefinancierd te zijn op het moment van beëindiging. In geval van premievrijmaking op grond van [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=29&z=2008-01-01&g=2008-01-01), wordt daarmee bij de vaststelling van de opgebouwde aanspraken rekening gehouden.
+1. Bij beëindiging van de deelneming behoudt de gewezen deelnemer de tot dat moment op grond van het pensioenreglement opgebouwde pensioenaanspraken indien er sprake is van een uitkeringsovereenkomst of een kapitaalovereenkomst. Deze pensioenaanspraak dient volledig gefinancierd te zijn op het moment van beëindiging. In geval van premievrijmaking op grond van [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=29&z=2008-08-01&g=2008-08-01), wordt daarmee bij de vaststelling van de opgebouwde aanspraken rekening gehouden.
 
 2. Bij een premieovereenkomst wordt bij beëindiging van de deelneming de vaststelling van de pensioenaanspraken als volgt uitgevoerd: het tot op dat moment ontstane kapitaal voortvloeiend uit de tot de beëindiging beschikbaar gestelde premies wordt:
 
@@ -794,7 +816,7 @@ De pensioenuitvoerder betaalt de uitkering uit hoofde van een pensioenrecht op v
 
 4. Deelnemers en andere aanspraakgerechtigden die na beëindiging van de deelneming aan een pensioenregeling naar een andere lidstaat van de Europese Unie verhuizen behouden hun pensioenaanspraak in dezelfde mate als deelnemers en andere aanspraakgerechtigden die na beëindiging van de deelneming in Nederland blijven.
 
-5. Indien de pensioenovereenkomst voorziet in een partnerpensioen op risicobasis behoudt de deelnemer, die na beëindiging van de deelneming recht heeft op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) gedurende de periode dat hij de uitkering ontvangt, aanspraak op partnerpensioen ten behoeve van zijn partner. De hoogte van het partnerpensioen wordt vastgesteld alsof hetzelfde pensioen op opbouwbasis zou zijn overeengekomen.
+5. Indien de pensioenovereenkomst voorziet in een partnerpensioen op risicobasis behoudt de deelnemer, die na beëindiging van de deelneming recht heeft op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) gedurende de periode dat hij de uitkering ontvangt, aanspraak op partnerpensioen ten behoeve van zijn partner. De hoogte van het partnerpensioen wordt vastgesteld alsof hetzelfde pensioen op opbouwbasis zou zijn overeengekomen, waarbij rekening wordt gehouden met het partnerpensioen verkregen op grond van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=61&z=2008-08-01&g=2008-08-01). Dit lid is van overeenkomstige toepassing op de deelnemer, die na beëindiging van de deelneming recht heeft op werkloosheidsuitkering van zijn woonland.
 
 ##### Artikel 56. Behoud aanspraak op partnerpensioen bij verlof
 
@@ -802,11 +824,11 @@ Indien de pensioenovereenkomst voorziet in een partnerpensioen is het opnemen va
 
 ##### Artikel 57. Behoud aanspraak in geval van scheiding
 
-1. Indien de partnerrelatie van een deelnemer eindigt door scheiding verkrijgt de gewezen partner van de deelnemer een aanspraak op partnerpensioen als de deelnemer ten behoeve van die gewezen partner zou hebben behouden indien op het tijdstip van scheiding zijn deelneming zou zijn geëindigd.
+1. Indien de partnerrelatie van een deelnemer eindigt door scheiding verkrijgt de gewezen partner van de deelnemer een zodanige aanspraak op partnerpensioen als de deelnemer ten behoeve van die gewezen partner zou hebben behouden indien op het tijdstip van scheiding zijn deelneming zou zijn geëindigd.
 
-2. Indien de partnerrelatie van een gewezen deelnemer eindigt door scheiding verkrijgt de gewezen partner van de gewezen deelnemer een aanspraak op partnerpensioen als de gewezen deelnemer ten behoeve van die partner heeft behouden bij het beëindigen van de deelneming.
+2. Indien de partnerrelatie van een gewezen deelnemer eindigt door scheiding, en de gewezen deelnemer ten behoeve van die partner een aanspraak op partnerpensioen heeft behouden bij beëindigen van de deelneming, gaat de aanspraak over op de gewezen partner van de gewezen deelnemer.
 
-3. Indien een partnerrelatie van een gepensioneerde eindigt door scheiding verkrijgt de gewezen partner van de gepensioneerde een aanspraak op partnerpensioen als de gepensioneerde ten behoeve van zijn partner heeft behouden bij het ingaan van het ouderdomspensioen.
+3. Indien de partnerrelatie van een gepensioneerde eindigt door scheiding, en de gepensioneerde ten behoeve van die partner een aanspraak op partnerpensioen heeft behouden bij het ingaan van het ouderdomspensioen, gaat die aanspraak over op de gewezen partner van de gepensioneerde.
 
 4. Het eerste, tweede en derde lid vindt geen toepassing indien de partners bij voorwaarden in verband met de partnerrelatie of een schriftelijk gesloten overeenkomst met betrekking tot de scheiding anders overeenkomen. Deze voorwaarden of overeenkomst zijn respectievelijk is slechts geldig indien de pensioenuitvoerder zich bereid heeft verklaard hiermee in te stemmen en bereid is een uit de afwijking voortvloeiend risico te dekken dan wel het niveau van de uitkering aan te passen.
 
@@ -820,7 +842,35 @@ Indien de pensioenovereenkomst voorziet in een partnerpensioen is het opnemen va
 
 ##### Artikel 58. Gelijke behandeling bij toeslagen
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien een ouderdomspensioenrecht van een gepensioneerde die geen gewezen deelnemer is geweest wordt verhoogd door middel van een toeslag, wordt het ouderdomspensioenrecht van een gepensioneerde die wel gewezen deelnemer is geweest in dezelfde mate verhoogd indien zij in dezelfde pensioenregeling hebben deelgenomen.
+
+2. Indien een recht op partnerpensioen van de partner van een overleden gepensioneerde die geen gewezen deelnemer is geweest wordt verhoogd door middel van een toeslag, worden de partnerpensioenrechten:
+
+- a. ten behoeve van de partners van overleden gepensioneerden die gewezen deelnemer zijn geweest;
+
+- b. ten behoeve van de partners van overleden gewezen deelnemers;
+
+- c. ten behoeve van de partners van overleden deelnemers; en
+
+- d. van de gewezen partners met een bijzonder partnerpensioen;
+
+in dezelfde mate verhoogd, mits deze rechten voortvloeien uit een pensioenovereenkomst die gebaseerd is op dezelfde pensioenregeling als die van de overleden gepensioneerde die geen gewezen deelnemer is geweest.
+
+3. Indien een ouderdomspensioenrecht wordt verhoogd door middel van een toeslag, wordt de aanspraak op ouderdomspensioen van een gewezen deelnemer die in dezelfde pensioenregeling heeft deelgenomen in dezelfde mate verhoogd.
+
+4. Indien een aanspraak op partnerpensioen van een gepensioneerde die geen gewezen deelnemer is geweest wordt verhoogd door middel van een toeslag, worden de partnerpensioenaanspraken:
+
+- a. ten behoeve van de partner van een gepensioneerde die wel gewezen deelnemer is geweest;
+
+- b. ten behoeve van de partner van een gewezen deelnemer; en
+
+- c. van de gewezen partner van de gewezen deelnemer met een bijzonder partnerpensioen;
+
+in dezelfde mate verhoogd, mits deze aanspraken voortvloeien uit een pensioenovereenkomst die is gebaseerd op dezelfde pensioenregeling als die van de gepensioneerde die geen gewezen deelnemer is geweest.
+
+5. Bij de verlening van toeslagen op partnerpensioen wordt geen onderscheid gemaakt tussen partners.
+
+6. Voor de toepassing van dit artikel wordt onder gewezen deelnemer niet verstaan de werknemer als bedoeld in [artikel 1, onderdeel g, van de Wet privatisering FVP](https://wetten.overheid.nl/jci1.3:c:BWBR0009756&artikel=1) die recht heeft op een bijdrage van de Stichting Financiering Voortzetting Pensioenverzekering.
 
 ##### Artikel 59. Geen verjaring ten gunste van de pensioenuitvoerder
 
@@ -850,11 +900,11 @@ Een rechtsvordering tegen een pensioenuitvoerder tot het doen van een uitkering 
 
 7. Het vierde en vijfde lid zijn:
 
-- a. met betrekking tot uitkeringsovereenkomsten en kapitaalovereenkomsten slechts van toepassing op pensioenaanspraken die vanaf 1 januari 2002 zijn opgebouwd;
+- a. met betrekking tot uitkeringsovereenkomsten en kapitaalovereenkomsten van toepassing op pensioenaanspraken die vanaf 1 januari 2002 zijn opgebouwd;
 
-- b. met betrekking tot premieovereenkomsten slechts van toepassing op pensioenaanspraken die vanaf 1 januari 2005 zijn opgebouwd.
+- b. met betrekking tot premieovereenkomsten van toepassing op pensioenaanspraken die vanaf 1 januari 2005 zijn opgebouwd.
 
-8. Voorzover het bij de toepassing van het eerste lid pensioenaanspraken betreft die als gevolg van een premievrije voortzetting van die pensioenaanspraken worden opgebouwd, is het eerste lid slechts van toepassing indien het recht op die premievrije voortzetting is ontstaan op of na 1 januari 2002.
+8. Voorzover het bij de toepassing van het eerste lid pensioenaanspraken betreft die als gevolg van een premievrije voortzetting van die pensioenaanspraken worden opgebouwd, is het eerste lid van toepassing indien het recht op die premievrije voortzetting is ontstaan op of na 1 januari 2002.
 
 9. In afwijking van het zevende lid kunnen het vierde en vijfde lid van toepassing zijn op pensioenaanspraken die zijn opgebouwd voor 1 januari 2002 respectievelijk 1 januari 2005 indien dit is overeengekomen in de pensioenovereenkomst.
 
@@ -892,7 +942,7 @@ waarbij de hoogte van het partnerpensioen maximaal 70 percent bedraagt van het o
 
 1. Indien de pensioenovereenkomst de deelnemer of gewezen deelnemer de mogelijkheid biedt:
 
-- a. in plaats van een bepaald soort pensioen geheel of gedeeltelijk te kiezen voor een ander soort pensioen, dan het pensioen, bedoeld in de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=60&z=2008-01-01&g=2008-01-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=61&z=2008-01-01&g=2008-01-01);
+- a. in plaats van een bepaald soort pensioen geheel of gedeeltelijk te kiezen voor een ander soort pensioen, dan het pensioen, bedoeld in de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=60&z=2008-08-01&g=2008-08-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=61&z=2008-08-01&g=2008-08-01);
 
 - b. de ingangsdatum van het ouderdomspensioen te vervroegen of uit te stellen;
 
@@ -906,11 +956,11 @@ waarborgt de pensioenuitvoerder dat bij gebruikmaking van de keuzemogelijkheid g
 
 3. Het eerste lid is:
 
-- a. met betrekking tot uitkeringsovereenkomsten en kapitaalovereenkomsten slechts van toepassing op pensioenaanspraken die vanaf 1 januari 2002 zijn opgebouwd;
+- a. met betrekking tot uitkeringsovereenkomsten en kapitaalovereenkomsten van toepassing op pensioenaanspraken die vanaf 1 januari 2002 zijn opgebouwd;
 
-- b. met betrekking tot premieovereenkomsten slechts van toepassing op pensioenaanspraken die vanaf 1 januari 2005 zijn opgebouwd.
+- b. met betrekking tot premieovereenkomsten van toepassing op pensioenaanspraken die vanaf 1 januari 2005 zijn opgebouwd.
 
-4. Voorzover het bij de toepassing van het eerste lid pensioenaanspraken betreft die als gevolg van een premievrije voortzetting van die aanspraken worden opgebouwd, is het eerste lid slechts van toepassing indien het recht op die premievrije voortzetting is ontstaan op of na 1 januari 2002.
+4. Voorzover het bij de toepassing van het eerste lid pensioenaanspraken betreft die als gevolg van een premievrije voortzetting van die aanspraken worden opgebouwd, is het eerste lid van toepassing indien het recht op die premievrije voortzetting is ontstaan op of na 1 januari 2002.
 
 5. In afwijking van het derde lid kan het eerste lid van toepassing zijn op pensioenaanspraken die zijn opgebouwd voor 1 januari 2002 respectievelijk 1 januari 2005 indien dit is overeengekomen in de pensioenovereenkomst.
 
@@ -930,15 +980,21 @@ waarborgt de pensioenuitvoerder dat bij gebruikmaking van de keuzemogelijkheid g
 
 1. Vervreemding of elke andere handeling, waardoor de aanspraakgerechtigde of de pensioengerechtigde enig recht op zijn pensioenaanspraken of pensioenrechten aan een ander toekent is nietig, tenzij:
 
-- a. verpanding plaatsvindt voor het verlenen van zekerheid voor het verkrijgen van uitstel van betaling als bedoeld in [artikel 25, vijfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25); of
+- a. verpanding plaatsvindt voor het verlenen van zekerheid voor het verkrijgen van uitstel van betaling als bedoeld in [artikel 25, vijfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25);
 
-- b. vervreemding plaatsvindt op grond van [artikel 57, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=57&z=2008-01-01&g=2008-01-01).
+- b. vervreemding plaatsvindt op grond van [artikel 57, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=57&z=2008-08-01&g=2008-08-01);
+
+- c. verevening plaatsvindt op basis van de [Wet verevening pensioenrechten](https://wetten.overheid.nl/jci1.3:c:BWBR0006641) bij scheiding;
+
+- d. in het kader van een verrekening van pensioenrechten bij scheiding in plaats van de aanspraakgerechtigde of de pensioengerechtigde diens gewezen partner respectievelijk diens partner wordt aangewezen als begunstigde voor het geheel of een deel van het ouderdomspensioen, mits de pensioenuitvoerder hiermee instemt; of
+
+- e. in het kader van een verrekening van pensioenrechten bij scheiding de waarde van het geheel of een deel van het ouderdomspensioen van de aanspraakgerechtigde of de pensioengerechtigde bij dezelfde pensioenuitvoerder wordt aangewend voor een ouderdomspensioen op het leven van diens gewezen partner respectievelijk diens partner, mits de pensioenuitvoerder hiermee instemt.
 
 2. Een volmacht tot invordering van uitkeringen uit hoofde van een pensioenrecht, onder welke vorm of welke benaming ook verleend, is steeds herroepelijk.
 
 ##### Artikel 65. Afkoop
 
-1. Afkoop is slechts mogelijk in bij of krachtens de [artikelen 66 tot en met 69](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-01-01&g=2008-01-01) en [134](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-01-01&g=2008-01-01) bedoelde situaties of in geval van toepassing van [artikel 3:160 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:160).
+1. Afkoop is slechts mogelijk in bij of krachtens de [artikelen 66 tot en met 69](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-08-01&g=2008-08-01) en [134](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-08-01&g=2008-08-01) bedoelde situaties of in geval van toepassing van [artikel 3:160 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:160).
 
 2. Elk beding strijdig met dit artikel is nietig.
 
@@ -948,9 +1004,9 @@ waarborgt de pensioenuitvoerder dat bij gebruikmaking van de keuzemogelijkheid g
 
 - a. dit recht op afkoop in de pensioen- en uitvoeringsovereenkomst is beperkt of uitgesloten; of
 
-- b. de gewezen deelnemer de pensioenuitvoerder binnen twee jaar na beëindiging van de deelneming heeft gemeld dat de gewezen deelnemer een procedure tot waardeoverdracht is gestart.
+- b. de gewezen deelnemer binnen twee jaar na beëindiging van de deelneming een procedure tot waardeoverdracht is gestart.
 
-2. Indien de reguliere ingangsdatum van het ouderdomspensioen ligt voor het verstrijken van de in het eerste lid genoemde termijn van twee jaar, heeft de pensioenuitvoerder het recht om bij de ingang van het ouderdomspensioen een aanspraak op ouderdomspensioen en eventuele andere aanspraken ten behoeve van de gewezen deelnemer of zijn nabestaanden af te kopen, indien de uitkering van het ouderdomspensioen op de ingangsdatum minder bedraagt dan € 400 per 1 januari 2008: € 406,44 per jaar.
+2. Indien de reguliere ingangsdatum van het ouderdomspensioen ligt voor het verstrijken van de in het eerste lid genoemde termijn van twee jaar, heeft de pensioenuitvoerder het recht om bij de ingang van het ouderdomspensioen een aanspraak op ouderdomspensioen en eventuele andere aanspraken ten behoeve van de gepensioneerde of zijn nabestaanden af te kopen, indien de uitkering van het ouderdomspensioen op de ingangsdatum minder bedraagt dan € 400 per 1 januari 2008: € 406,44 per jaar.
 
 3. De pensioenuitvoerder die gebruik wil maken van het in het eerste lid bedoelde recht informeert de gewezen deelnemer over zijn besluit hieromtrent binnen zes maanden na afloop van de periode van twee jaar na beëindiging van de deelneming en gaat over tot de uitbetaling van de afkoopwaarde binnen die termijn van zes maanden.
 
@@ -958,39 +1014,39 @@ waarborgt de pensioenuitvoerder dat bij gebruikmaking van de keuzemogelijkheid g
 
 5. De pensioenuitvoerder stelt de afkoopwaarde van de pensioenaanspraken ter beschikking aan de gewezen deelnemer dan wel de gepensioneerde, met uitzondering van de afkoopwaarde van een bijzonder partnerpensioen, die ter beschikking wordt gesteld aan de gewezen partner.
 
-6. De pensioenuitvoerder vergoedt rente over de periode tussen het besluit tot afkoop en de betaling van de afkoopwaarde.
+6. De pensioenuitvoerder betaalt de uitkering op de dag dat de aanspraken of rechten vervallen in verband met de afkoop.
 
-7. De pensioenuitvoerder kan op het in het tweede lid bedoelde tijdstip of na de in het derde lid bedoelde termijn van 2 jaar en zes maanden afkopen indien:
+7. De pensioenuitvoerder kan na de in het derde lid bedoelde termijn van 2 jaar en zes maanden afkopen indien:
 
 - a. de gewezen deelnemer of gepensioneerde daarmee instemt; en
 
 - b. de hoogte van het ouderdomspensioen op jaarbasis per 1 januari van dat jaar lager is dan het in het eerste lid bedoelde grensbedrag.
 
-8. Het in het eerste lid genoemde bedrag wordt bij regeling van Onze Minister telkens herzien met ingang van 1 januari op basis van de consumentenprijsindex Alle Huishoudens, zoals berekend door het Centraal Bureau voor de Statistiek. De herziening wordt bepaald door de procentuele wijziging die dat indexcijfer over de maand oktober, voorafgaand aan de aanpassing heeft ondergaan ten opzichte van de maand oktober van het daaraan voorafgaande jaar.
+8. Het in het eerste en tweede lid genoemde bedrag wordt bij regeling van Onze Minister telkens herzien met ingang van 1 januari op basis van de consumentenprijsindex Alle Huishoudens, zoals berekend door het Centraal Bureau voor de Statistiek. De herziening wordt bepaald door de procentuele wijziging die dat indexcijfer over de maand oktober, voorafgaand aan de aanpassing heeft ondergaan ten opzichte van de maand oktober van het daaraan voorafgaande jaar.
 
 9. De pensioenuitvoerder waarborgt met betrekking tot perioden van opbouw vanaf 1 januari 2005 bij de vaststelling van de afkoopwaarde door vaststelling van een afkoopvoet dat geen onderscheid gemaakt wordt tussen mannen en vrouwen waarbij voldaan wordt aan het vereiste van collectieve actuariële gelijkwaardigheid.
 
 10. Elk beding strijdig met dit artikel is nietig.
 
-11. Bij of krachtens algemene maatregel van bestuur kunnen er nadere regels worden gesteld aan het vaststellen van de rente en de afkoopwaarde, bedoeld in het zesde lid.
+11. Bij of krachtens algemene maatregel van bestuur kunnen er nadere regels worden gesteld aan het vaststellen van de afkoopwaarde, bedoeld in het zesde lid.
 
-##### Artikel 67. Afkoop klein partnerpensioen bij ingang
+##### Artikel 67. Afkoop klein partnerpensioen of wezenpensioen bij ingang
 
-1. De pensioenuitvoerder heeft jegens de partner het recht om een recht op partnerpensioen en eventuele andere pensioenrechten ten behoeve van de nabestaanden van dezelfde deelnemer, gewezen deelnemer of gepensioneerde af te kopen, indien de uitkering van het partnerpensioen op jaarbasis op de ingangsdatum minder bedraagt dan het op basis van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-01-01&g=2008-01-01) bepaalde bedrag, tenzij dit recht op afkoop in de pensioen- en uitvoeringsovereenkomst is beperkt of uitgesloten.
+1. De pensioenuitvoerder heeft jegens de nabestaanden het recht om een recht op partnerpensioen of wezenpensioen ten behoeve van de nabestaanden van dezelfde deelnemer, gewezen deelnemer of gepensioneerde af te kopen, indien de uitkering van het partnerpensioen of wezenpensioen op jaarbasis op de ingangsdatum minder bedraagt dan het op basis van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-08-01&g=2008-08-01) bepaalde bedrag, tenzij dit recht op afkoop in de pensioen- en uitvoeringsovereenkomst is beperkt of uitgesloten.
 
-2. De pensioenuitvoerder die gebruik maakt van het in het eerste lid bedoelde recht informeert de partner hierover binnen zes maanden na de ingangsdatum en gaat binnen die termijn over tot uitbetaling van de afkoopwaarde aan de partner.
+2. De pensioenuitvoerder die gebruik maakt van het in het eerste lid bedoelde recht informeert de nabestaande hierover binnen zes maanden na de ingangsdatum en gaat binnen die termijn over tot uitbetaling van de afkoopwaarde aan de nabestaande.
 
-3. De pensioenuitvoerder kan na de in het tweede lid bedoelde termijn afkopen indien:
+3. De pensioenuitvoerder kan na de in het tweede lid bedoelde termijn het partnerpensioen of wezenpensioen afkopen indien:
 
-- a. de partner daarmee instemt; en
+- a. de nabestaande daarmee instemt; en
 
-- b. indien de hoogte van het partnerpensioen op jaarbasis per 1 januari van dat jaar lager is dan het op basis van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-01-01&g=2008-01-01) bepaalde bedrag.
+- b. indien de hoogte van het partnerpensioen of wezenpensioen op jaarbasis per 1 januari van dat jaar lager is dan het op basis van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-08-01&g=2008-08-01) bepaalde bedrag.
 
-4. [Artikel 66, zesde en negende tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+4. [Artikel 66, zesde en negende tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing.
 
 ##### Artikel 68. Afkoop klein bijzonder partnerpensioen bij scheiding
 
-1. De pensioenuitvoerder heeft jegens de gewezen partner het recht om een aanspraak op bijzonder partnerpensioen af te kopen indien de uitkering van het partnerpensioen op jaarbasis op de ingangsdatum minder zal bedragen dan het op basis van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-01-01&g=2008-01-01) bepaalde bedrag, tenzij dit recht op afkoop in de pensioen- en uitvoeringsovereenkomst is beperkt of uitgesloten.
+1. De pensioenuitvoerder heeft jegens de gewezen partner het recht om een aanspraak op bijzonder partnerpensioen af te kopen indien de uitkering van het partnerpensioen op jaarbasis op de ingangsdatum minder zal bedragen dan het op basis van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-08-01&g=2008-08-01) bepaalde bedrag, tenzij dit recht op afkoop in de pensioen- en uitvoeringsovereenkomst is beperkt of uitgesloten.
 
 2. De pensioenuitvoerder die gebruik maakt van het in het eerste lid bedoelde recht informeert de gewezen partner hierover binnen zes maanden na de melding van de scheiding en gaat binnen die termijn over tot uitbetaling van de afkoopwaarde aan de gewezen partner.
 
@@ -998,29 +1054,31 @@ waarborgt de pensioenuitvoerder dat bij gebruikmaking van de keuzemogelijkheid g
 
 - a. de gewezen partner daarmee instemt; en
 
-- b. indien de hoogte van het partnerpensioen op jaarbasis per 1 januari van dat jaar lager is dan het op basis van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-01-01&g=2008-01-01) bepaalde bedrag.
+- b. indien de hoogte van het partnerpensioen op jaarbasis per 1 januari van dat jaar lager is dan het op basis van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-08-01&g=2008-08-01) bepaalde bedrag.
 
-4. [Artikel 66, zesde en negende tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+4. [Artikel 66, zesde en negende tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing.
 
 ##### Artikel 69. Bevoegdheid tot afkoop van fiscaal bovenmatig pensioen
 
 1. De pensioenuitvoerder is bevoegd om over te gaan tot afkoop van het deel van de pensioenaanspraken:
 
-- a. dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip van ingang van het pensioen uitgaat boven de begrenzingen, bedoeld in de [artikelen 18a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), [18b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18b), [18c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18c), [18d](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18d), [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18e), [18f](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18f) en [38a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38a); of
+- a. dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip van ingang van het pensioen uitgaat boven de begrenzingen, bedoeld in de [artikelen 18a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), [18b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18b), [18c, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18c), en [18e, vierde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18e), met inachtneming van [artikel 18d, eerste lid, onderdelen a, b en d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18d); of
 
-- b. dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip waarop de deelnemer of de gewezen deelnemer ophoudt binnenlands belastingplichtige te zijn uitgaat boven de begrenzingen, bedoeld in de in onderdeel a genoemde artikelen.
+- b. dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip waarop de deelnemer of de gewezen deelnemer ophoudt binnenlands belastingplichtige te zijn uitgaat boven de begrenzingen, bedoeld in onderdeel a.
 
 2. De afkoopwaarde wordt door de pensioenuitvoerder aan de deelnemer of gewezen deelnemer ter beschikking gesteld, met uitzondering van de afkoopwaarde voor een bijzonder partnerpensioen die ter beschikking wordt gesteld aan de gewezen partner.
 
 3. De pensioenuitvoerder waarborgt bij de vaststelling van de afkoopwaarde door vaststelling van een afkoopvoet dat geen onderscheid gemaakt wordt tussen mannen en vrouwen waarbij voldaan wordt aan het vereiste van collectieve actuariële gelijkwaardigheid.
 
-4. Elk beding strijdig met dit artikel is nietig.
+4. De vorige leden zijn van overeenkomstige toepassing op pensioenaanspraken als bedoeld in de [artikelen 38d](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38d), [38e](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38e) en [38f van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38f).
 
-5. Bij of krachtens algemene maatregel van bestuur kunnen er regels worden gesteld aan het vaststellen van de afkoopwaarde.
+5. Elk beding strijdig met dit artikel is nietig.
+
+6. Bij of krachtens algemene maatregel van bestuur kunnen er regels worden gesteld aan het vaststellen van de afkoopwaarde.
 
 ##### Artikel 70. Begrip en reikwijdte waardeoverdracht
 
-1. Voor de toepassing van de [artikelen 71 tot en met 92](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01) wordt onder ontvangende pensioenuitvoerder mede verstaan:
+1. Voor de toepassing van de [artikelen 71 tot en met 92](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01) wordt onder ontvangende pensioenuitvoerder mede verstaan:
 
 - 1°. een beroepspensioenfonds als bedoeld in [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1); en
 
@@ -1028,21 +1086,21 @@ waarborgt de pensioenuitvoerder dat bij gebruikmaking van de keuzemogelijkheid g
 
 2. Bij regeling van Onze Minister kunnen instellingen worden aangewezen jegens wie een pensioenuitvoerder een verplichting tot waardeoverdracht heeft.
 
-3. Waardeoverdracht is slechts mogelijk in de in de [artikelen 71 tot en met 92](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01) bedoelde situaties.
+3. Waardeoverdracht is slechts mogelijk in de in de [artikelen 71 tot en met 92](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01) bedoelde situaties.
 
-4. Voor de toepassing van de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-01-01&g=2008-01-01), [80, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=80&z=2008-01-01&g=2008-01-01), en [81, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=81&z=2008-01-01&g=2008-01-01), wordt onder een pensioenfonds dat optreedt als ontvangende pensioenuitvoerder mede verstaan een beroepspensioenfonds als bedoeld in [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) of de Stichting Notarieel pensioenfonds, bedoeld in [artikel 113a, eerste lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=113a).
+4. Voor de toepassing van de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-08-01&g=2008-08-01), [80, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=80&z=2008-08-01&g=2008-08-01), en [81, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=81&z=2008-08-01&g=2008-08-01), wordt onder een pensioenfonds dat optreedt als ontvangende pensioenuitvoerder mede verstaan een beroepspensioenfonds als bedoeld in [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) of de Stichting Notarieel pensioenfonds, bedoeld in [artikel 113a, eerste lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=113a).
 
 ##### Artikel 71. Plicht tot waardeoverdracht op verzoek gewezen deelnemer bij wisseling van werkgever of toetreding tot een beroepspensioenregeling
 
 1. De pensioenuitvoerder is verplicht om na een verzoek van de gewezen deelnemer tot waardeoverdracht de overdrachtswaarde van diens pensioenaanspraken over te dragen indien:
 
-- a. er sprake is van een individuele beëindiging van de dienstbetrekking dan wel individuele beëindiging van de deelneming;
+- a. er sprake is van een individuele beëindiging van de dienstbetrekking dan wel individuele beëindiging van de deelneming; en
 
-- b. die waardeoverdracht ertoe strekt het de gewezen deelnemer mogelijk te maken pensioenaanspraken te verwerven bij de ontvangende pensioenuitvoerder van de nieuwe werkgever of de beroepspensioenregeling; en
+- b. die waardeoverdracht ertoe strekt het de gewezen deelnemer mogelijk te maken pensioenaanspraken te verwerven bij de ontvangende pensioenuitvoerder van de nieuwe werkgever of de beroepspensioenregeling;
 
-- c. de partner die begunstigde is voor het partnerpensioen instemt met de overdracht van de waarde van de aanspraak op partnerpensioen;
+tenzij sprake is van een van de in de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-08-01&g=2008-08-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=73&z=2008-08-01&g=2008-08-01) omschreven situaties.
 
-tenzij sprake is van een van de in de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-01-01&g=2008-01-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=73&z=2008-01-01&g=2008-01-01) omschreven situaties.
+Indien het verzoek van de gewezen deelnemer tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt.
 
 2. De ontvangende pensioenuitvoerder is verplicht om na een verzoek tot waardeoverdracht van een deelnemer de overdrachtswaarde aan te wenden ter verwerving van pensioenaanspraken voor die deelnemer.
 
@@ -1050,27 +1108,29 @@ tenzij sprake is van een van de in de [artikelen 72](https://wetten.overheid.nl/
 
 4. De ontvangende pensioenuitvoerder waarborgt dat de actuariële waarde van de door de deelnemer te verwerven pensioenaanspraken ten minste gelijk is aan de op dezelfde grondslagen berekende waarde van de over te dragen pensioenaanspraken.
 
-5. De overdragende en de ontvangende pensioenuitvoerder brengen in het kader van de waardeoverdracht geen kosten in rekening.
+5. De overdragende en de ontvangende pensioenuitvoerder brengen in het kader van de waardeoverdracht geen kosten in rekening bij de gewezen deelnemer.
 
 6. Elk beding strijdig met dit artikel is nietig.
 
 7. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de berekening van de overdrachtswaarde, de waarde van met de overdrachtswaarde te verwerven pensioenaanspraken alsmede de in acht te nemen procedures.
 
-##### Artikel 72. Uitzondering op de plicht tot waardeoverdracht in verband met financiële positie pensioenuitvoerder
+##### Artikel 72. Uitzondering op de plicht tot waardeoverdracht in verband met financiële positie pensioenuitvoerder of werkgever
 
-De in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01) genoemde plicht tot waardeoverdracht geldt niet zolang:
+De in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01) genoemde plicht tot waardeoverdracht geldt niet zolang:
 
-- a. de overdragende of ontvangende pensioenuitvoerder een pensioenfonds is waarbij de technische voorzieningen niet meer volledig door waarden worden gedekt; of
+- a. de overdragende of ontvangende pensioenuitvoerder een pensioenfonds is waarbij de technische voorzieningen niet meer volledig door waarden worden gedekt;
 
 - b. de overdragende of ontvangende pensioenuitvoerder een verzekeraar is:
 
-- 1°. waarop de noodregeling als bedoeld in [artikel 3:160 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:160) van toepassing is; of
+- 1°. waarop de noodregeling, bedoeld in [artikel 3:160 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:160) van toepassing is; of
 
-- 2°. die failliet is.
+- 2°. die failliet is; of
+
+- c. de overdragende pensioenuitvoerder een verzekeraar is en aanvullende bijdragen van de werkgever noodzakelijk zijn maar de financiële toestand van die werkgever blijkens een schriftelijke verklaring van een niet aan de onderneming van de werkgever verbonden registeraccountant of accountant-administratieconsulent die aanvullende bijdragen niet toelaat.
 
 ##### Artikel 73. Uitzondering op plicht tot waardeoverdracht in verband met datum
 
-De in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01) genoemde plicht tot waardeoverdracht geldt niet met betrekking tot pensioenaanspraken ondergebracht bij:
+De in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01) genoemde plicht tot waardeoverdracht geldt niet met betrekking tot pensioenaanspraken ondergebracht bij:
 
 - a. een pensioenfonds, indien de deelneming is geëindigd vóór 8 juli 1994;
 
@@ -1078,47 +1138,47 @@ De in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&p
 
 ##### Artikel 74. Herleving van de plicht tot waardeoverdracht bij wisseling van werkgever of toetreding tot een beroepspensioenregeling
 
-1. Indien de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-01-01&g=2008-01-01) genoemde omstandigheden niet meer van toepassing zijn:
+1. Indien de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-08-01&g=2008-08-01) genoemde omstandigheden niet meer van toepassing zijn:
 
-- a. herleven de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01) bedoelde plichten van de overdragende pensioenuitvoerder en de ontvangende pensioenuitvoerder;
+- a. herleven de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01) bedoelde plichten van de overdragende pensioenuitvoerder en de ontvangende pensioenuitvoerder;
 
-- b. wordt de in [artikel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01), omschreven verplichting van de deelnemer om binnen zes maanden een opgave te vragen en daarna een verzoek tot waardeoverdracht te doen verlengd tot zes maanden na ontvangst van de mededeling, bedoeld in het tweede lid.
+- b. wordt de in [artikel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01), omschreven verplichting van de deelnemer om binnen zes maanden een opgave te vragen en daarna een verzoek tot waardeoverdracht te doen verlengd tot zes maanden na ontvangst van de mededeling, bedoeld in het tweede lid.
 
-2. Een overdragende pensioenuitvoerder die in de periode waarin de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-01-01&g=2008-01-01) bedoelde omstandigheden op hem van toepassing zijn verzoeken tot waardeoverdracht heeft gekregen, informeert, wanneer deze omstandigheden niet meer van toepassing zijn, alle deelnemers die in die periode gewezen deelnemer zijn geworden en de betrokken ontvangende pensioenuitvoerders over de mogelijkheid alsnog waarde over te dragen.
+2. Een overdragende pensioenuitvoerder die in de periode waarin de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-08-01&g=2008-08-01) bedoelde omstandigheden op hem van toepassing zijn verzoeken tot waardeoverdracht heeft gekregen, informeert, wanneer deze omstandigheden niet meer van toepassing zijn, alle deelnemers die in die periode gewezen deelnemer zijn geworden en de betrokken ontvangende pensioenuitvoerders over de mogelijkheid alsnog waarde over te dragen.
 
-3. Een ontvangende pensioenuitvoerder die in de periode waarin de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-01-01&g=2008-01-01) genoemde omstandigheden op hem van toepassing zijn verzoeken tot waardeoverdracht heeft gekregen, informeert wanneer deze omstandigheden niet meer van toepassing zijn, alle deelnemers die in die periode een verzoek tot waardeoverdracht hebben gedaan en de betrokken overdragende pensioenuitvoerders over de mogelijkheid alsnog waarde over te dragen.
+3. Een ontvangende pensioenuitvoerder die in de periode waarin de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-08-01&g=2008-08-01) genoemde omstandigheden op hem van toepassing zijn verzoeken tot waardeoverdracht heeft gekregen, informeert wanneer deze omstandigheden niet meer van toepassing zijn, alle deelnemers die in die periode een verzoek tot waardeoverdracht hebben gedaan en de betrokken overdragende pensioenuitvoerders over de mogelijkheid alsnog waarde over te dragen.
 
 ##### Artikel 75. Bevoegdheid tot waardeoverdracht op verzoek gewezen deelnemer bij wisseling werkgever of toetreding tot een beroepspensioenregeling
 
-1. Indien in de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01) bedoelde situatie geen plicht tot waardeoverdracht bestaat omdat:
+1. Indien in de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01) bedoelde situatie geen plicht tot waardeoverdracht bestaat omdat:
 
-- a. de deelnemer niet voldaan heeft aan de in [artikel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01), omschreven verplichting om binnen zes maanden een opgave te vragen; of
+- a. de deelnemer niet voldaan heeft aan de in [artikel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01), omschreven verplichting om binnen zes maanden een opgave te vragen; of
 
-- b. sprake is van de in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=73&z=2008-01-01&g=2008-01-01) bedoelde situatie;
+- b. sprake is van de in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=73&z=2008-08-01&g=2008-08-01) bedoelde situatie;
 
-is de pensioenuitvoerder bevoegd tot waardeoverdracht indien voldaan wordt aan de in [artikel 71, eerste lid, onderdeel a, b en c, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01), genoemde voorwaarden.
+is de pensioenuitvoerder bevoegd tot waardeoverdracht indien voldaan wordt aan de in [artikel 71, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01), genoemde voorwaarden.
 
-2. Indien in de in artikel 71 bedoelde situatie geen plicht tot waardeoverdracht bestaat, omdat er geen sprake is van een individuele beëindiging, is de pensioenuitvoerder bevoegd tot waardeoverdracht indien:
+2. Indien in de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01) bedoelde situatie geen plicht tot waardeoverdracht bestaat, omdat er geen sprake is van een individuele beëindiging, is de pensioenuitvoerder bevoegd tot waardeoverdracht indien:
 
-- a. wordt voldaan aan de in [artikel 71, eerste lid, onderdeel b en c, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01), genoemde voorwaarden;
+- a. wordt voldaan aan de in [artikel 71, eerste lid, onderdeel b en tweede zin, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01), genoemde voorwaarden;
 
 - b. de overdragende en de ontvangende pensioenuitvoerders aan wie door een groep gewezen deelnemers verzoeken tot waardeoverdracht worden gedaan, dit schriftelijk hebben gemeld aan de toezichthouder; en
 
 - c. de toezichthouder binnen drie maanden na de melding geen verbod tot waardeoverdracht heeft opgelegd aan een van beide pensioenuitvoerders.
 
-3. Indien de financiering van de aanspraken van de gewezen deelnemer bij de overdragende pensioenuitvoerder nog niet is voltooid overeenkomstig [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=55&z=2008-01-01&g=2008-01-01) kan de pensioenuitvoerder ondanks de lagere waarde en de daaruit bij de ontvangende pensioenuitvoerder resulterende lagere pensioenaanspraken de waarde overdragen indien de gewezen deelnemer en zijn partner schriftelijk hiermee instemmen en mits sprake is van de in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=73&z=2008-01-01&g=2008-01-01) bedoelde situatie.
+3. Indien de financiering van de aanspraken van de gewezen deelnemer bij de overdragende pensioenuitvoerder nog niet is voltooid overeenkomstig [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=55&z=2008-08-01&g=2008-08-01) kan de pensioenuitvoerder ondanks de lagere waarde en de daaruit bij de ontvangende pensioenuitvoerder resulterende lagere pensioenaanspraken de waarde overdragen indien de gewezen deelnemer en zijn partner schriftelijk hiermee instemmen en mits sprake is van de in [artikel 72, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-08-01&g=2008-08-01), of de in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=73&z=2008-08-01&g=2008-08-01) bedoelde situatie.
 
 ##### Artikel 76. Plicht tot waardeoverdracht op verzoek deelnemer bij andere pensioenovereenkomst met dezelfde werkgever
 
 1. De pensioenuitvoerder is verplicht om na een verzoek van de gewezen deelnemer tot waardeoverdracht de overdrachtswaarde van diens pensioenaanspraken over te dragen indien:
 
-- a. sprake is van een individuele beëindiging van de deelneming bij een nieuwe of voortgezette dienstbetrekking bij dezelfde werkgever;
+- a. sprake is van een individuele beëindiging van de deelneming bij een nieuwe of voortgezette dienstbetrekking bij dezelfde werkgever; en
 
-- b. die waardeoverdracht ertoe strekt het de gewezen deelnemer mogelijk te maken pensioenaanspraken te verwerven bij de ontvangende pensioenuitvoerder; en
+- b. die waardeoverdracht ertoe strekt het de gewezen deelnemer mogelijk te maken pensioenaanspraken te verwerven bij de ontvangende pensioenuitvoerder;
 
-- c. de partner die begunstigde is voor het partnerpensioen instemt met de overdracht van de waarde van de aanspraak op partnerpensioen;
+tenzij de overdragende en ontvangende pensioenuitvoerder niet identiek zijn en sprake is van de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-08-01&g=2008-08-01) omschreven situaties.
 
-tenzij de overdragende en ontvangende pensioenuitvoerder niet identiek zijn en sprake is van de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-01-01&g=2008-01-01) omschreven situaties.
+Indien het verzoek van de gewezen deelnemer tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt.
 
 2. De ontvangende pensioenuitvoerder is verplicht om na een verzoek tot waardeoverdracht van een deelnemer de overdrachtswaarde aan te wenden ter verwerving van pensioenaanspraken voor die deelnemer.
 
@@ -1134,7 +1194,7 @@ tenzij de overdragende en ontvangende pensioenuitvoerder niet identiek zijn en s
 
 6. In afwijking van het vijfde lid kan het vierde lid van toepassing zijn op pensioenaanspraken die zijn opgebouwd voor 1 januari 2002 respectievelijk 1 januari 2005 indien dit is overeengekomen in de pensioenovereenkomst.
 
-7. De overdragende en de ontvangende pensioenuitvoerder brengen in het kader van de waardeoverdracht geen kosten in rekening.
+7. De overdragende en de ontvangende pensioenuitvoerder brengen in het kader van de waardeoverdracht geen kosten in rekening bij de gewezen deelnemer.
 
 8. Elk beding strijdig met dit artikel is nietig.
 
@@ -1142,15 +1202,15 @@ tenzij de overdragende en ontvangende pensioenuitvoerder niet identiek zijn en s
 
 ##### Artikel 77. Herleving van de plicht tot waardeoverdracht bij andere pensioenovereenkomst met zelfde werkgever
 
-Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-01-01&g=2008-01-01) bedoelde situatie de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-01-01&g=2008-01-01) genoemde omstandigheden niet meer van toepassing zijn herleeft de plicht tot waardeoverdracht overeenkomstig [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=74&z=2008-01-01&g=2008-01-01).
+Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-08-01&g=2008-08-01) bedoelde situatie de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-08-01&g=2008-08-01) genoemde omstandigheden niet meer van toepassing zijn herleeft de plicht tot waardeoverdracht overeenkomstig [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=74&z=2008-08-01&g=2008-08-01).
 
 ##### Artikel 78. Bevoegdheid tot waardeoverdracht op verzoek deelnemer bij andere pensioenovereenkomst met zelfde werkgever
 
-1. Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-01-01&g=2008-01-01) bedoelde situatie geen plicht tot waardeoverdracht bestaat omdat de deelnemer niet voldaan heeft aan de in [artikel 76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-01-01&g=2008-01-01), omschreven verplichting om binnen zes maanden een opgave te vragen, is de pensioenuitvoerder bevoegd tot waardeoverdracht indien voldaan wordt aan de in [artikel 76, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-01-01&g=2008-01-01), opgenomen voorwaarden.
+1. Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-08-01&g=2008-08-01) bedoelde situatie geen plicht tot waardeoverdracht bestaat omdat de deelnemer niet voldaan heeft aan de in [artikel 76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-08-01&g=2008-08-01), omschreven verplichting om binnen zes maanden een opgave te vragen, is de pensioenuitvoerder bevoegd tot waardeoverdracht indien voldaan wordt aan de in [artikel 76, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-08-01&g=2008-08-01), opgenomen voorwaarden.
 
-2. Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-01-01&g=2008-01-01) bedoelde situatie geen plicht tot waardeoverdracht bestaat omdat er geen sprake is van een individuele beëindiging, is de pensioenuitvoerder bevoegd tot waardeoverdracht indien:
+2. Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-08-01&g=2008-08-01) bedoelde situatie geen plicht tot waardeoverdracht bestaat omdat er geen sprake is van een individuele beëindiging, is de pensioenuitvoerder bevoegd tot waardeoverdracht indien:
 
-- a. wordt voldaan aan de in [artikel 76, eerste lid, onderdeel b en c, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-01-01&g=2008-01-01), genoemde voorwaarden;
+- a. wordt voldaan aan de in [artikel 76, eerste lid, onderdeel b en tweede zin, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-08-01&g=2008-08-01), genoemde voorwaarden;
 
 - b. de overdragende en de ontvangende pensioenuitvoerders aan wie door een groep gewezen deelnemers verzoeken tot waardeoverdracht worden gedaan niet identiek zijn hetgeen zij schriftelijk hebben gemeld aan de toezichthouder; en
 
@@ -1158,41 +1218,21 @@ Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoo
 
 ##### Artikel 79. Plicht tot waardeaanwending bij keuzerecht of keuzemogelijkheid
 
-1. De pensioenuitvoerder is verplicht om op verzoek van de deelnemer of gewezen deelnemer de waarde van diens pensioenaanspraken aan te wenden in het kader van het keuzerecht overeenkomstig de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=60&z=2008-01-01&g=2008-01-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=61&z=2008-01-01&g=2008-01-01) of de keuzemogelijkheden overeenkomstig [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=62&z=2008-01-01&g=2008-01-01).
+1. De pensioenuitvoerder is verplicht om op verzoek van de deelnemer of gewezen deelnemer de waarde van diens pensioenaanspraken aan te wenden in het kader van het keuzerecht overeenkomstig de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=60&z=2008-08-01&g=2008-08-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=61&z=2008-08-01&g=2008-08-01) of de keuzemogelijkheden overeenkomstig [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=62&z=2008-08-01&g=2008-08-01).
 
-2. De pensioenuitvoerder brengt in het kader van de waardeoverdracht geen kosten in rekening.
+2. De pensioenuitvoerder brengt in het kader van de waardeoverdracht geen kosten in rekening bij de deelnemer of gewezen deelnemer.
 
-##### Artikel 80. Bevoegdheid tot waardeoverdracht voor pensioenfondsen bij bereiken pensioendatum bij verzoek deelnemer
+##### Artikel 80. Bevoegdheid tot waardeoverdracht voor pensioenfondsen bij bereiken pensioendatum op grond van de pensioenovereenkomst
 
-1. Een pensioenfonds is bevoegd om op verzoek van de deelnemer of gewezen deelnemer de waarde van zijn pensioenaanspraken welke voortvloeien uit een kapitaalovereenkomst of een premieovereenkomst per de pensioendatum rechtstreeks over te dragen aan een andere pensioenuitvoerder indien:
+1. Een pensioenfonds is bevoegd om op verzoek van de deelnemer of gewezen deelnemer de waarde van zijn pensioenaanspraken welke voortvloeien uit een kapitaalovereenkomst of een premieovereenkomst die voorziet in de uitkering van een aan te wenden kapitaal op de pensioendatum, per de pensioendatum rechtstreeks over te dragen aan een andere pensioenuitvoerder indien:
 
 - a. de pensioenovereenkomst hierin voorziet;
 
-- b. de partner die begunstigde is voor het partnerpensioen instemt met de overdracht van de waarde van de aanspraak op partnerpensioen;
-
-- c. de overdrachtswaarde zodanig door het overdragende pensioenfonds wordt vastgesteld dat de voor mannen en vrouwen te verwerven pensioenrechten gelijk zijn waarbij aan het vereiste van collectieve actuariële gelijkwaardigheid op basis van dezelfde grondslagen wordt voldaan; en
-
-- d. indien de ontvangende pensioenuitvoerder een pensioenfonds is, de deelnemer reeds pensioenaanspraken heeft jegens dat pensioenfonds.
-
-2. Het eerste lid, onderdeel c, is van toepassing op pensioenaanspraken die vanaf 1 januari 2005 zijn opgebouwd.
-
-3. Voorzover het bij de toepassing van het eerste lid pensioenaanspraken betreft die als gevolg van een premievrije voortzetting van die aanspraken worden opgebouwd, is het eerste lid, onderdeel c, van toepassing indien het recht op die premievrije voortzetting is ontstaan op of na 1 januari 2002.
-
-4. In afwijking van het tweede lid kunnen de in het eerste lid, onderdeel c, opgenomen voorwaarden van toepassing zijn op pensioenaanspraken die zijn opgebouwd voor 1 januari 2005 indien dit is overeengekomen in de pensioenovereenkomst.
-
-5. Elk beding strijdig met dit artikel is nietig.
-
-6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld aan het vaststellen van de overdrachtswaarde.
-
-##### Artikel 81. Verplichting tot waardeoverdracht voor verzekeraars bij bereiken pensioendatum op grond van de pensioenovereenkomst
-
-1. De verzekeraar is verplicht om op verzoek van de deelnemer of gewezen deelnemer de waarde van zijn pensioenaanspraken welke voortvloeien uit een kapitaalovereenkomst of een premieovereenkomst die voorziet in de uitkering van een aan te wenden kapitaal op de pensioendatum, per de pensioendatum rechtstreeks over te dragen aan een andere pensioenuitvoerder indien:
-
-- a. de partner die begunstigde is voor het partnerpensioen instemt met de overdracht van de waarde van de aanspraak op partnerpensioen;
-
-- b. de overdrachtswaarde zodanig door de overdragende verzekeraar wordt vastgesteld dat de voor mannen en vrouwen te verwerven pensioenrechten gelijk zijn waarbij aan het vereiste van collectieve actuariële gelijkwaardigheid op basis van dezelfde grondslagen wordt voldaan; en
+- b. de overdrachtswaarde zodanig door het overdragende pensioenfonds wordt vastgesteld dat de voor mannen en vrouwen te verwerven pensioenrechten gelijk zijn waarbij aan het vereiste van collectieve actuariële gelijkwaardigheid op basis van dezelfde grondslagen wordt voldaan; en
 
 - c. indien de ontvangende pensioenuitvoerder een pensioenfonds is, de deelnemer reeds pensioenaanspraken heeft jegens dat pensioenfonds.
+
+Indien het verzoek van de deelnemer of gewezen deelnemer tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt.
 
 2. Het eerste lid, onderdeel b, is van toepassing op pensioenaanspraken die vanaf 1 januari 2005 zijn opgebouwd.
 
@@ -1204,17 +1244,37 @@ Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoo
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld aan het vaststellen van de overdrachtswaarde.
 
+##### Artikel 81. Verplichting tot waardeoverdracht voor verzekeraars bij bereiken pensioendatum
+
+1. De verzekeraar is verplicht om op verzoek van de deelnemer of gewezen deelnemer de waarde van zijn pensioenaanspraken welke voortvloeien uit een kapitaalovereenkomst of een premieovereenkomst die voorziet in de uitkering van een aan te wenden kapitaal op de pensioendatum, per de pensioendatum rechtstreeks over te dragen aan een andere pensioenuitvoerder indien:
+
+- a. de overdrachtswaarde zodanig door de overdragende verzekeraar wordt vastgesteld dat de voor mannen en vrouwen te verwerven pensioenrechten gelijk zijn waarbij aan het vereiste van collectieve actuariële gelijkwaardigheid op basis van dezelfde grondslagen wordt voldaan; en
+
+- b. indien de ontvangende pensioenuitvoerder een pensioenfonds is, de deelnemer reeds pensioenaanspraken heeft jegens dat pensioenfonds.
+
+Indien het verzoek van de deelnemer of gewezen deelnemer tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt.
+
+2. Het eerste lid, onderdeel a, is van toepassing op pensioenaanspraken die vanaf 1 januari 2005 zijn opgebouwd.
+
+3. Voorzover het bij de toepassing van het eerste lid pensioenaanspraken betreft die als gevolg van een premievrije voortzetting van die aanspraken worden opgebouwd, is het eerste lid, onderdeel a, van toepassing indien het recht op die premievrije voortzetting is ontstaan op of na 1 januari 2002.
+
+4. In afwijking van het tweede lid kunnen de in het eerste lid, onderdeel a, opgenomen voorwaarden van toepassing zijn op pensioenaanspraken die zijn opgebouwd voor 1 januari 2005 indien dit is overeengekomen in de pensioenovereenkomst.
+
+5. Elk beding strijdig met dit artikel is nietig.
+
+6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld aan het vaststellen van de overdrachtswaarde.
+
 ##### Artikel 82. Overdracht pensioenkapitaal op pensioendatum
 
-1. In geval van overdracht van pensioenkapitaal op de pensioendatum ten behoeve van aankoop van een periodieke pensioenuitkering, is de overdragende pensioenuitvoerder verplicht binnen acht weken na het verzoek hiertoe van de gepensioneerde, het pensioenkapitaal over te dragen aan de door de gepensioneerde aangewezen ontvangende pensioenuitvoerder.
+1. In geval van overdracht van pensioenkapitaal op de pensioendatum ten behoeve van aankoop van een periodieke pensioenuitkering, draagt de overdragende pensioenuitvoerder op de pensioendatum of binnen acht weken na het verzoek hiertoe van de deelnemer of gewezen deelnemer indien deze dat verzoek minder dan acht weken voor de pensioendatum heeft gedaan, het pensioenkapitaal over aan de door de deelnemer of gewezen deelnemer aangewezen ontvangende pensioenuitvoerder.
 
-2. De overdragende pensioenuitvoerder is verplicht tot vergoeding van de schade die de gepensioneerde ondervindt ten gevolge van de aan die pensioenuitvoerder toerekenbare niet tijdige overdracht; de schade is ten minste gelijk aan de wettelijke rente op het uit te keren of over te dragen pensioenkapitaal.
+2. De overdragende pensioenuitvoerder is verplicht tot vergoeding van de schade die de deelnemer of gewezen deelnemer ondervindt ten gevolge van de aan die pensioenuitvoerder toerekenbare niet tijdige overdracht; de schade is ten minste gelijk aan de wettelijke rente op het over te dragen pensioenkapitaal.
 
 ##### Artikel 83. Bevoegdheid tot collectieve waardeoverdracht op verzoek werkgever
 
 1. De pensioenuitvoerder is op verzoek van de werkgever bevoegd tot collectieve waardeoverdracht indien:
 
-- a. de waardeoverdracht ertoe strekt in verband met beëindiging van de uitvoeringsovereenkomst door de werkgever met de overdragende pensioenuitvoerder de waarde onder te brengen bij de ontvangende pensioenuitvoerder met wie de werkgever een uitvoeringsovereenkomst heeft gesloten;
+- a. de waardeoverdracht ertoe strekt in verband met de beëindiging van de uitvoeringsovereenkomst tussen de werkgever en de overdragende pensioenuitvoerder de waarde onder te brengen bij de ontvangende pensioenuitvoerder met wie de werkgever een uitvoeringsovereenkomst heeft gesloten;
 
 - b. de werkgever wordt overgenomen als gevolg van een overgang van een onderneming als bedoeld in [artikel 662 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=662), en de overnemende onderneming een uitvoeringsovereenkomst heeft gesloten of gaat sluiten met een andere pensioenuitvoerder of dezelfde pensioenuitvoerder; of
 
@@ -1234,7 +1294,7 @@ Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoo
 
 - b. premieovereenkomsten en kapitaalovereenkomsten van toepassing op pensioenaanspraken die vanaf 1 januari 2005 zijn opgebouwd.
 
-4. Op pensioenaanspraken die voor de in het derde lid genoemde data zijn opgebouwd is de eis van individuele actuariële gelijkwaardigheid, bedoeld in [artikel 71, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01), van toepassing, tenzij in de pensioenovereenkomst is overeengekomen dat de voorwaarden, bedoeld in het tweede lid, onderdeel b, van toepassing zijn.
+4. Op pensioenaanspraken die voor de in het derde lid genoemde data zijn opgebouwd is de eis van individuele actuariële gelijkwaardigheid, bedoeld in [artikel 71, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01), van toepassing, tenzij in de pensioenovereenkomst is overeengekomen dat de voorwaarden, bedoeld in het tweede lid, onderdeel b, van toepassing zijn.
 
 5. Voorzover het bij de toepassing van het eerste lid pensioenaanspraken betreft die als gevolg van een premievrije voortzetting van die pensioenaanspraken worden opgebouwd is onderdeel b van het tweede lid van toepassing indien het recht op die premievrije voortzetting is ontstaan op of na 1 januari 2002.
 
@@ -1250,7 +1310,7 @@ Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoo
 
 - a. het voornemen tot waardeoverdracht aan een pensioenuitvoerder wordt door de overdragende pensioenuitvoerder uiterlijk drie maanden voor de beoogde datum van waardeoverdracht schriftelijk gemeld aan de toezichthouder en de toezichthouder heeft binnen die periode geen verbod tot waardeoverdracht opgelegd;
 
-- b. de overdrachtswaarde zodanig door de overdragende pensioenuitvoerder wordt vastgesteld dat de voor mannen en vrouwen te verwerven pensioenrechten gelijk zijn, waarbij aan het vereiste van collectieve actuariële gelijkwaardigheid op basis van dezelfde grondslagen wordt voldaan.
+- b. de overdrachtswaarde wordt zodanig door de overdragende pensioenuitvoerder vastgesteld dat de voor mannen en vrouwen te verwerven pensioenrechten gelijk zijn, waarbij aan het vereiste van collectieve actuariële gelijkwaardigheid op basis van dezelfde grondslagen wordt voldaan.
 
 3. Het tweede lid, onderdeel b, is met betrekking tot:
 
@@ -1258,9 +1318,9 @@ Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoo
 
 - b. premieovereenkomsten en kapitaalovereenkomsten van toepassing op pensioenaanspraken die vanaf 1 januari 2005 zijn opgebouwd.
 
-4. Op pensioenaanspraken die voor de in het derde lid genoemde data zijn opgebouwd is de eis van individuele actuariële gelijkwaardigheid, bedoeld in [artikel 71, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01), van toepassing tenzij in de pensioenovereenkomst is overeengekomen dat de voorwaarden, bedoeld in het tweede lid, onderdeel b, van toepassing zijn.
+4. Op pensioenaanspraken die voor de in het derde lid genoemde data zijn opgebouwd is de eis van individuele actuariële gelijkwaardigheid, bedoeld in [artikel 71, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01), van toepassing tenzij in de pensioenovereenkomst is overeengekomen dat de voorwaarden, bedoeld in het tweede lid, onderdeel b, van toepassing zijn.
 
-5. Voorzover het bij de toepassing van het eerste lid pensioenaanspraken betreft die als gevolg van een premievrije voortzetting van die pensioenaanspraken worden opgebouwd is onderdeel b van het tweede lid slechts van toepassing indien het recht op die premievrije voortzetting is ontstaan op of na 1 januari 2002.
+5. Voorzover het bij de toepassing van het eerste lid pensioenaanspraken betreft die als gevolg van een premievrije voortzetting van die pensioenaanspraken worden opgebouwd is onderdeel b van het tweede lid van toepassing indien het recht op die premievrije voortzetting is ontstaan op of na 1 januari 2002.
 
 6. Elk beding strijdig met dit artikel is nietig.
 
@@ -1268,31 +1328,31 @@ Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoo
 
 ##### Artikel 85. Plicht tot waardeoverdracht aan een pensioeninstelling uit een andere lidstaat of verzekeraar met zetel buiten Nederland op verzoek gewezen deelnemer
 
-1. De pensioenuitvoerder is verplicht om na een verzoek van de gewezen deelnemer tot waardeoverdracht de overdrachtswaarde van diens pensioenaanspraken over te dragen aan een pensioeninstelling uit een andere lidstaat of een verzekeraar met een zetel buiten Nederland als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-01-01&g=2008-01-01), indien voldaan wordt aan de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01) genoemde voorwaarden, met dien verstande dat:
+1. De pensioenuitvoerder is verplicht om na een verzoek van de gewezen deelnemer tot waardeoverdracht de overdrachtswaarde van diens pensioenaanspraken over te dragen aan een pensioeninstelling uit een andere lidstaat of een verzekeraar met een zetel buiten Nederland als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-08-01&g=2008-08-01), indien voldaan wordt aan de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01) genoemde voorwaarden, met dien verstande dat:
 
-- a. de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-01-01&g=2008-01-01) gestelde eis inzake de ontvangende pensioenuitvoerder niet van toepassing is; en mits
+- a. de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-08-01&g=2008-08-01) gestelde eis inzake de ontvangende pensioenuitvoerder niet van toepassing is; en mits
 
 - b. de mogelijkheden tot afkoop van de waarde van de overgedragen pensioenaanspraken na de waardeoverdracht niet ruimer zijn dan op basis van deze wet.
 
-2. Indien op grond van de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-01-01&g=2008-01-01) genoemde omstandigheden tijdelijk geen plicht tot waardeoverdracht bestaat, maar deze plicht overeenkomstig [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=74&z=2008-01-01&g=2008-01-01) herleeft, is [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=74&z=2008-01-01&g=2008-01-01), niet van toepassing.
+2. Indien op grond van de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-08-01&g=2008-08-01) genoemde omstandigheden tijdelijk geen plicht tot waardeoverdracht bestaat, maar deze plicht overeenkomstig [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=74&z=2008-08-01&g=2008-08-01) herleeft, is [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=74&z=2008-08-01&g=2008-08-01), niet van toepassing.
 
-3. De overdragende pensioenuitvoerder brengt in het kader van de waardeoverdracht geen kosten in rekening.
+3. De overdragende pensioenuitvoerder brengt in het kader van de waardeoverdracht geen kosten in rekening bij de gewezen deelnemer.
 
 ##### Artikel 86. Plicht tot waardeoverdracht aan een van de Europese Gemeenschappen of aangewezen instelling
 
-1. De pensioenuitvoerder is verplicht om na een verzoek van de gewezen deelnemer tot waardeoverdracht de overdrachtswaarde van diens pensioenaanspraken over te dragen aan een van de Europese Gemeenschappen of aan een op grond van [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=70&z=2008-01-01&g=2008-01-01), door Onze Minister aangewezen instelling, indien:
+1. De pensioenuitvoerder is verplicht om na een verzoek van de gewezen deelnemer tot waardeoverdracht de overdrachtswaarde van diens pensioenaanspraken over te dragen aan een van de Europese Gemeenschappen of aan een op grond van [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=70&z=2008-08-01&g=2008-08-01), door Onze Minister aangewezen instelling, indien:
 
 - a. er sprake is van beëindiging van de dienstbetrekking dan wel beëindiging van de deelneming;
 
-- b. die waardeoverdracht ertoe strekt het de gewezen deelnemer mogelijk te maken pensioenaanspraken te verwerven bij een van de Europese Gemeenschappen of de aangewezen genoemde instelling;
+- b. die waardeoverdracht ertoe strekt het de gewezen deelnemer mogelijk te maken pensioenaanspraken te verwerven bij een van de Europese Gemeenschappen of de aangewezen genoemde instelling; en
 
-- c. de partner die begunstigde is voor het partnerpensioen instemt met de overdracht van de waarde van de aanspraak op partnerpensioen; en
+- c. de waarde rechtstreeks wordt overgedragen aan de betrokken Europese Gemeenschap of de aangewezen instelling.
 
-- d. de waarde rechtstreeks wordt overgedragen aan de betrokken Europese Gemeenschap of de aangewezen instelling.
+Indien het verzoek van de gewezen deelnemer tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt.
 
-2. De overdragende pensioenuitvoerder brengt in het kader van de waardeoverdracht geen kosten in rekening.
+2. De overdragende pensioenuitvoerder brengt in het kader van de waardeoverdracht geen kosten in rekening bij de gewezen deelnemer.
 
-3. De op grond van [artikel 71, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01), bij of krachtens algemene maatregel van bestuur gestelde regels ten aanzien van de berekening van de overdrachtswaarde zijn van overeenkomstige toepassing.
+3. De op grond van [artikel 71, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01), bij of krachtens algemene maatregel van bestuur gestelde regels ten aanzien van de berekening van de overdrachtswaarde zijn van overeenkomstige toepassing.
 
 ##### Artikel 87. Bevoegdheid tot waardeoverdracht aan een andere instelling
 
@@ -1300,9 +1360,9 @@ Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoo
 
 2. Waardeoverdracht aan een buitenlandse instelling is alleen mogelijk wanneer ten genoegen van de toezichthouder wordt aangetoond dat:
 
-- a. voldaan wordt aan de in [artikel 71, eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01), genoemde voorwaarden;
+- a. voldaan wordt aan de in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01), genoemde voorwaarden;
 
-- b. de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-01-01&g=2008-01-01) bedoelde omstandigheden op de overdragende pensioenuitvoerder niet van toepassing zijn;
+- b. de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-08-01&g=2008-08-01) bedoelde omstandigheden op de overdragende pensioenuitvoerder niet van toepassing zijn;
 
 - c. de buitenlandse instelling de pensioenregeling uitvoert van de nieuwe werkgever;
 
@@ -1314,17 +1374,17 @@ Indien in de in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoo
 
 ##### Artikel 88. Bevoegdheid tot waardeoverdracht aan een pensioeninstelling uit een andere lidstaat of verzekeraar met zetel buiten Nederland op verzoek gewezen deelnemer bij wisseling werkgever of toetreding tot een beroepspensioenregeling
 
-De pensioenuitvoerder is bevoegd om op verzoek van de gewezen deelnemer de waarde van zijn pensioenaanspraken over te dragen aan een pensioeninstelling uit een andere lidstaat of een verzekeraar met zetel buiten Nederland als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-01-01&g=2008-01-01), indien wordt voldaan aan de in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=75&z=2008-01-01&g=2008-01-01) opgenomen voorwaarden.
+De pensioenuitvoerder is bevoegd om op verzoek van de gewezen deelnemer de waarde van zijn pensioenaanspraken over te dragen aan een pensioeninstelling uit een andere lidstaat of een verzekeraar met zetel buiten Nederland als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-08-01&g=2008-08-01), indien wordt voldaan aan de in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=75&z=2008-08-01&g=2008-08-01) opgenomen voorwaarden.
 
 ##### Artikel 89. Bevoegdheid tot waardeoverdracht aan een pensioeninstelling uit een andere lidstaat of een verzekeraar met zetel buiten Nederland bij bereiken pensioendatum op grond van de pensioenovereenkomst
 
-De pensioenuitvoerder is bevoegd om op verzoek van de deelnemer of gewezen deelnemer de waarde van zijn pensioenaanspraken welke voortvloeien uit een kapitaalovereenkomst of een premieovereenkomst per de pensioendatum rechtstreeks over te dragen aan een pensioeninstelling uit een andere lidstaat of een verzekeraar met zetel buiten Nederland als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-01-01&g=2008-01-01), indien wordt voldaan aan de in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=80&z=2008-01-01&g=2008-01-01) opgenomen voorwaarden.
+De pensioenuitvoerder is bevoegd om op verzoek van de deelnemer of gewezen deelnemer de waarde van zijn pensioenaanspraken welke voortvloeien uit een kapitaalovereenkomst of een premieovereenkomst per de pensioendatum rechtstreeks over te dragen aan een pensioeninstelling uit een andere lidstaat of een verzekeraar met zetel buiten Nederland als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-08-01&g=2008-08-01), indien wordt voldaan aan de in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=80&z=2008-08-01&g=2008-08-01) opgenomen voorwaarden.
 
 ##### Artikel 90. Collectieve waardeoverdracht naar pensioeninstelling uit een andere lidstaat of verzekeraar met zetel buiten Nederland
 
-1. De pensioenuitvoerder is bevoegd om op verzoek van de werkgever over te gaan tot collectieve waardeoverdracht overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=83&z=2008-01-01&g=2008-01-01) indien de werkgever een uitvoeringsovereenkomst heeft gesloten met een pensioeninstelling uit een andere lidstaat of een verzekeraar met zetel buiten Nederland als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-01-01&g=2008-01-01).
+1. De pensioenuitvoerder is bevoegd om op verzoek van de werkgever over te gaan tot collectieve waardeoverdracht overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=83&z=2008-08-01&g=2008-08-01) indien de werkgever een uitvoeringsovereenkomst heeft gesloten met een pensioeninstelling uit een andere lidstaat of een verzekeraar met zetel buiten Nederland als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-08-01&g=2008-08-01).
 
-2. Aan de in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=84&z=2008-01-01&g=2008-01-01) geformuleerde verplichting tot waardeoverdracht in geval van liquidatie kan ook worden voldaan door waardeoverdracht aan een pensioeninstelling uit een andere lidstaat of een verzekeraar met zetel buiten Nederland als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-01-01&g=2008-01-01), in plaats van aan een pensioenuitvoerder.
+2. Aan de in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=84&z=2008-08-01&g=2008-08-01) geformuleerde verplichting tot waardeoverdracht in geval van liquidatie kan ook worden voldaan door waardeoverdracht aan een pensioeninstelling uit een andere lidstaat of een verzekeraar met zetel buiten Nederland als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-08-01&g=2008-08-01), in plaats van aan een pensioenuitvoerder.
 
 ##### Artikel 91. Verplichting tot medewerking aan inbreng van waarde
 
@@ -1332,13 +1392,13 @@ De pensioenuitvoerder is bevoegd om op verzoek van de deelnemer of gewezen deeln
 
 - a. die waardeoverdracht ertoe strekt het de verzoekende werknemer mogelijk te maken pensioenaanspraken te verwerven bij de ontvangende pensioenuitvoerder;
 
-- b. de partner die begunstigde is voor het partnerpensioen instemt met de overdracht van de waarde van de aanspraak op partnerpensioen;
+- b. op de pensioenuitvoerder de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-08-01&g=2008-08-01) genoemde omstandigheden niet van toepassing zijn; en
 
-- c. op de pensioenuitvoerder de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-01-01&g=2008-01-01) genoemde omstandigheden niet van toepassing zijn; en
+- c. aan de pensioenuitvoerder geen voorwaarden in verband met de waardeoverdracht worden gesteld die in strijd zijn met deze wet.
 
-- d. aan de pensioenuitvoerder geen voorwaarden in verband met de waardeoverdracht worden gesteld die in strijd zijn met deze wet.
+Indien het verzoek tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt.
 
-2. De ontvangende pensioenuitvoerder brengt in het kader van de waardeoverdracht geen kosten in rekening.
+2. De ontvangende pensioenuitvoerder brengt in het kader van de waardeoverdracht geen kosten in rekening bij de deelnemer.
 
 ##### Artikel 92. Bevoegdheid tot medewerking aan inbreng van waarde
 
@@ -1346,11 +1406,11 @@ Indien een pensioenuitvoerder het verzoek krijgt om in het kader van waardeoverd
 
 - a. die waardeoverdracht ertoe strekt het de verzoekende werknemer mogelijk te maken pensioenaanspraken te verwerven bij de ontvangende pensioenuitvoerder;
 
-- b. de partner die begunstigde is voor het partnerpensioen instemt met de overdracht van de waarde van de aanspraak op partnerpensioen;
+- b. op de pensioenuitvoerder de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-08-01&g=2008-08-01) genoemde omstandigheden niet van toepassing zijn; en
 
-- c. op de pensioenuitvoerder de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=72&z=2008-01-01&g=2008-01-01) genoemde omstandigheden niet van toepassing zijn; en
+- c. aan de pensioenuitvoerder geen voorwaarden in verband met de waardeoverdracht worden gesteld die in strijd zijn met deze wet.
 
-- d. aan de pensioenuitvoerder geen voorwaarden in verband met de waardeoverdracht worden gesteld die in strijd zijn met deze wet.
+Indien het verzoek tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt.
 
 #### § 4.4. Rechten van de pensioenuitvoerder in het kader van de uitvoering
 
@@ -1374,9 +1434,11 @@ Inlichtingen uit de gemeentelijke basisadministratie persoonsgegevens en inlicht
 
 1. Bij voorwaardelijke toeslagverlening dient er een consistent geheel te zijn tussen de gewekte verwachtingen, de financiering en het realiseren van voorwaardelijke toeslagen.
 
-2. Een toeslag is alleen voorwaardelijk indien in de pensioenovereenkomst, de uitvoeringsovereenkomst, het pensioenreglement, de opgaven op grond van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2008-01-01&g=2008-01-01), [38 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-01-01&g=2008-01-01) en in de overige informatieverstrekking door de pensioenuitvoerder een voorwaardelijkheidsverklaring is opgenomen.
+2. Bij regeling van Onze Minister wordt invulling gegeven aan het begrip consistentie, bedoeld in het eerste lid. Een regeling als bedoeld in de eerste volzin kan worden vastgesteld vier weken nadat het ontwerp is overgelegd aan de beide kamers der Staten-Generaal.
 
-3. Bij regeling van Onze Minister worden regels gesteld over de inhoud van de voorwaardelijkheidsverklaring.
+3. Een toeslag is alleen voorwaardelijk indien in de pensioenovereenkomst, de uitvoeringsovereenkomst, het pensioenreglement, de opgaven op grond van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2008-08-01&g=2008-08-01), [38 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-08-01&g=2008-08-01) en in de overige informatieverstrekking door de pensioenuitvoerder een voorwaardelijkheidsverklaring is opgenomen.
+
+4. Bij regeling van Onze Minister worden regels gesteld over de inhoud van de voorwaardelijkheidsverklaring.
 
 ##### Artikel 96. Informatie in jaarverslag over dwangsommen en boetes
 
@@ -1384,15 +1446,15 @@ Een pensioenuitvoerder vermeldt in zijn jaarverslag of in het afgelopen boekjaar
 
 - a. aan de pensioenuitvoerder dwangsommen en boetes zijn opgelegd, en zo ja, hoeveel deze in totaal hebben bedragen;
 
-- b. een aanwijzing als bedoeld in [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-01-01&g=2008-01-01) aan de pensioenuitvoerder is gegeven;
+- b. een aanwijzing als bedoeld in [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-08-01&g=2008-08-01) aan de pensioenuitvoerder is gegeven;
 
-- c. een bewindvoerder als bedoeld in [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=173&z=2008-01-01&g=2008-01-01) is aangesteld;
+- c. een bewindvoerder als bedoeld in [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=173&z=2008-08-01&g=2008-08-01) is aangesteld;
 
-- d. een kortetermijnherstelplan als bedoeld in [artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-01-01&g=2008-01-01) van toepassing is;
+- d. een kortetermijnherstelplan als bedoeld in [artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-08-01&g=2008-08-01) van toepassing is;
 
-- e. een langetermijnherstelplan als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-01-01&g=2008-01-01) van toepassing is;
+- e. een langetermijnherstelplan als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-08-01&g=2008-08-01) van toepassing is;
 
-- f. de beëindiging van de situatie, bedoeld in [artikel 172](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=172&z=2008-01-01&g=2008-01-01), waarin de bevoegdheidsuitoefening van alle of bepaalde organen van een pensioenfonds is gebonden aan toestemming van de toezichthouder.
+- f. de beëindiging van de situatie, bedoeld in [artikel 172](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=172&z=2008-08-01&g=2008-08-01), waarin de bevoegdheidsuitoefening van alle of bepaalde organen van een pensioenfonds is gebonden aan toestemming van de toezichthouder.
 
 ##### Artikel 97. Deelneming tijdens detachering
 
@@ -1422,7 +1484,7 @@ Overlijdt een deelnemer, gewezen deelnemer of gepensioneerde ten gevolge van een
 
 - a. na verkiezing van de vertegenwoordigers door en uit de deelnemers;
 
-- b. op voordracht van de vertegenwoordigers van de deelnemers in een deelnemersraad als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=110&z=2008-01-01&g=2008-01-01);
+- b. op voordracht van de vertegenwoordigers van de deelnemers in een deelnemersraad als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=110&z=2008-08-01&g=2008-08-01);
 
 - c. op voordracht van de ondernemingsraad; of
 
@@ -1452,7 +1514,9 @@ stelt een deelnemersraad in waarin vertegenwoordigers van pensioengerechtigden z
 
 2. In afwijking van het eerste lid kunnen vertegenwoordigers van pensioengerechtigden meer zetels bezetten dan werknemersvertegenwoordigers, indien het aantal deelnemers minder bedraagt dan 10% van de som van het aantal deelnemers en pensioengerechtigden.
 
-3. De benoeming van de vertegenwoordigers van pensioengerechtigden in het bestuur van een ondernemingspensioenfonds vindt plaats na verkiezing van de vertegenwoordigers door en uit de pensioengerechtigden.
+3. In afwijking van het eerste lid kunnen vertegenwoordigers van pensioengerechtigden minder zetels bezetten dan het aantal op basis van de onderlinge getalsverhoudingen, bedoeld in het eerste lid, indien pensioengerechtigden bij de raadpleging, bedoeld in [artikel 100, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=100&z=2008-08-01&g=2008-08-01), hebben gekozen voor een deelnemersraad en de vertegenwoordigers van pensioengerechtigden al voor die raadpleging zetels in het bestuur bezetten.
+
+4. De benoeming van de vertegenwoordigers van pensioengerechtigden in het bestuur van een ondernemingspensioenfonds vindt plaats na verkiezing van de vertegenwoordigers door en uit de pensioengerechtigden.
 
 ##### Artikel 102. Melding oprichting van een pensioenfonds
 
@@ -1466,9 +1530,9 @@ stelt een deelnemersraad in waarin vertegenwoordigers van pensioengerechtigden z
 
 - c. een door het bestuur gewaarmerkt afschrift van de uitvoeringsovereenkomst;
 
-- d. een actuariële en bedrijfstechnische nota als bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=145&z=2008-01-01&g=2008-01-01); en
+- d. een actuariële en bedrijfstechnische nota als bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=145&z=2008-08-01&g=2008-08-01); en
 
-- e. een eventuele overeenkomst tot overdracht of herverzekering.
+- e. een eventuele overeenkomst tot herverzekering, overdracht of onderbrenging.
 
 ##### Artikel 103. Toezending wijziging officiële stukken
 
@@ -1480,9 +1544,9 @@ Het pensioenfonds zendt:
 
 - c. een door het bestuur gewaarmerkt afschrift van de wijzigingen in de uitvoeringsovereenkomst;
 
-- d. een door het bestuur gewaarmerkt afschrift van de wijzigingen in de actuariële en bedrijfstechnische nota als bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=145&z=2008-01-01&g=2008-01-01); en
+- d. een door het bestuur gewaarmerkt afschrift van de wijzigingen in de actuariële en bedrijfstechnische nota als bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=145&z=2008-08-01&g=2008-08-01); en
 
-- e. een door het bestuur gewaarmerkt afschrift van de wijzigingen in de eventuele overeenkomst tot herverzekering of tot overdracht;
+- e. een door het bestuur gewaarmerkt afschrift van de wijzigingen in de eventuele overeenkomst tot herverzekering, overdracht of onderbrenging;
 
 binnen twee weken na totstandkoming van die wijziging aan de toezichthouder.
 
@@ -1510,7 +1574,7 @@ binnen twee weken na totstandkoming van die wijziging aan de toezichthouder.
 
 1. Ten minste twee natuurlijke personen bepalen het dagelijks beleid van een pensioenfonds.
 
-2. De personen die het beleid van een pensioenfonds bepalen of mede bepalen richten zich bij de vervulling van hun taak naar de belangen van de bij het pensioenfonds betrokken deelnemers, gewezen deelnemers, andere aanspraakgerechtigden, de pensioengerechtigden en de werkgever dan wel werkgevers en zorgen ervoor dat dezen zich door hen op evenwichtige wijze vertegenwoordigd kunnen voelen.
+2. De personen die het beleid van een pensioenfonds bepalen of mede bepalen richten zich bij de vervulling van hun taak naar de belangen van de bij het pensioenfonds betrokken deelnemers, gewezen deelnemers, andere aanspraakgerechtigden, de pensioengerechtigden en de werkgever en zorgen ervoor dat dezen zich door hen op evenwichtige wijze vertegenwoordigd kunnen voelen.
 
 3. Het beleid van een pensioenfonds wordt bepaald of mede bepaald door personen die deskundig zijn in verband met de uitoefening van het bedrijf van het pensioenfonds.
 
@@ -1564,7 +1628,7 @@ binnen twee weken na totstandkoming van die wijziging aan de toezichthouder.
 
 ##### Artikel 107. Verbod leeftijdsgrens
 
-Iedere bepaling die het lidmaatschap van het bestuur of een deelnemersraad onmogelijk maakt op grond van het bereikt hebben van een bepaalde leeftijd is nietig.
+Iedere bepaling die het lidmaatschap van het bestuur, een deelnemersraad of een verantwoordingsorgaan onmogelijk maakt op grond van het bereikt hebben van een bepaalde leeftijd is nietig.
 
 ##### Artikel 108. Instemmingrecht
 
@@ -1600,7 +1664,7 @@ Iedere bepaling die een instemmingsrecht inhoudt van een partij, die geen orgaan
 
 - b. indien dit wordt verzocht door ten minste 5% van de deelnemers, gewezen deelnemers en pensioengerechtigden; of
 
-- c. indien de pensioengerechtigden in de raadpleging, bedoeld in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=100&z=2008-01-01&g=2008-01-01), zich overeenkomstig [artikel 100, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=100&z=2008-01-01&g=2008-01-01), hebben uitgesproken voor instelling van een deelnemersraad.
+- c. indien de pensioengerechtigden in de raadpleging, bedoeld in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=100&z=2008-08-01&g=2008-08-01), zich overeenkomstig [artikel 100, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=100&z=2008-08-01&g=2008-08-01), hebben uitgesproken voor instelling van een deelnemersraad.
 
 2. In de deelnemersraad zijn de deelnemers en de pensioengerechtigden evenredig op basis van onderlinge getalsverhoudingen vertegenwoordigd.
 
@@ -1622,9 +1686,9 @@ Iedere bepaling die een instemmingsrecht inhoudt van een partij, die geen orgaan
 
 - b. wijziging van de statuten en reglementen van het pensioenfonds;
 
-- c. vaststelling van het jaarverslag, de jaarrekening, de actuariële en bedrijfstechnische nota, bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=145&z=2008-01-01&g=2008-01-01) en een langetermijnherstelplan als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-01-01&g=2008-01-01);
+- c. vaststelling van het jaarverslag, de jaarrekening, de actuariële en bedrijfstechnische nota, bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=145&z=2008-08-01&g=2008-08-01) en een langetermijnherstelplan als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-08-01&g=2008-08-01);
 
-- d. vermindering van de verworven pensioenaanspraken en pensioenrechten indien toepassing wordt gegeven aan [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-01-01&g=2008-01-01);
+- d. vermindering van de verworven pensioenaanspraken en pensioenrechten indien toepassing wordt gegeven aan [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-08-01&g=2008-08-01);
 
 - e. het vaststellen en wijzigen van het toeslagbeleid;
 
@@ -1634,11 +1698,11 @@ Iedere bepaling die een instemmingsrecht inhoudt van een partij, die geen orgaan
 
 - h. het sluiten, wijzigen of beëindigen van een uitvoeringsovereenkomst;
 
-- i. het terugstorten van premie of geven van premiekorting, bedoeld in [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=129&z=2008-01-01&g=2008-01-01).
+- i. het terugstorten van premie of geven van premiekorting, bedoeld in [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=129&z=2008-08-01&g=2008-08-01).
 
 3. Het advies van de deelnemersraad wordt op een zodanig tijdstip gevraagd dat het van wezenlijke invloed kan zijn op de in het tweede lid bedoelde besluiten.
 
-4. Het pensioenfonds stelt de deelnemersraad na de in [artikel 114, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=114&z=2008-01-01&g=2008-01-01), bedoelde mededeling over het kortetermijnherstelplan in de gelegenheid advies uit te brengen over dit kortetermijnherstelplan.
+4. Het pensioenfonds stelt de deelnemersraad na de in [artikel 114, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=114&z=2008-08-01&g=2008-08-01), bedoelde mededeling over het kortetermijnherstelplan in de gelegenheid advies uit te brengen over dit kortetermijnherstelplan.
 
 5. Bij het vragen van advies wordt aan de deelnemersraad een overzicht verstrekt van de beweegredenen voor het besluit en van de gevolgen die het besluit naar verwachting voor de deelnemers, gewezen deelnemers en pensioengerechtigden zal hebben.
 
@@ -1660,13 +1724,13 @@ Het pensioenfonds deelt de deelnemersraad zo spoedig mogelijk schriftelijk mee, 
 
 Een pensioenfonds informeert de deelnemersraad onverwijld schriftelijk over:
 
-- a. de verplichting tot opstelling van een kortetermijnherstelplan als bedoeld in [artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-01-01&g=2008-01-01);
+- a. de verplichting tot opstelling van een kortetermijnherstelplan als bedoeld in [artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-08-01&g=2008-08-01);
 
-- b. de verplichting tot opstelling van een langetermijnherstelplan als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-01-01&g=2008-01-01);
+- b. de verplichting tot opstelling van een langetermijnherstelplan als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-08-01&g=2008-08-01);
 
-- c. de aanstelling van een bewindvoerder als bedoeld in [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=173&z=2008-01-01&g=2008-01-01); en
+- c. de aanstelling van een bewindvoerder als bedoeld in [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=173&z=2008-08-01&g=2008-08-01); en
 
-- d. de beëindiging van de situatie, bedoeld in [artikel 172](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=172&z=2008-01-01&g=2008-01-01), waarin de bevoegdheiduitoefening van alle of bepaalde organen van een pensioenfonds is gebonden aan toestemming van een of meer door de toezichthouder aangewezen personen.
+- d. de beëindiging van de situatie, bedoeld in [artikel 172](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=172&z=2008-08-01&g=2008-08-01), waarin de bevoegdheiduitoefening van alle of bepaalde organen van een pensioenfonds is gebonden aan toestemming van een of meer door de toezichthouder aangewezen personen.
 
 ##### Artikel 115. Voorzieningen deelnemersraad
 
@@ -1764,11 +1828,13 @@ Een pensioenfonds kan de mogelijkheid bieden tot verhoging van de pensioenaanspr
 
 ##### Artikel 125. Vergunning en kennisgeving grensoverschrijdende activiteit
 
-Het is een pensioenfonds verboden bijdragen te ontvangen van een bijdragende onderneming die zetel heeft in een andere lidstaat dan Nederland:
+1. Het is een pensioenfonds verboden bijdragen te ontvangen van een bijdragende onderneming die zetel heeft in een andere lidstaat dan Nederland:
 
 - a. zonder een daartoe door de toezichthouder verleende vergunning; en
 
-- b. zonder de toezichthouder van het voornemen daartoe in kennis te hebben gesteld, op de wijze, bedoeld in [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=194&z=2008-01-01&g=2008-01-01), en met inachtneming van [artikel 196](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=196&z=2008-01-01&g=2008-01-01).
+- b. zonder de toezichthouder van het voornemen daartoe in kennis te hebben gesteld, op de wijze, bedoeld in [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=194&z=2008-08-01&g=2008-08-01), en met inachtneming van [artikel 196](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=196&z=2008-08-01&g=2008-08-01).
+
+2. Voor de toepassing van het eerste lid, [artikel 140, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-08-01&g=2008-08-01), [artikel 141, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=141&z=2008-08-01&g=2008-08-01), en de [paragrafen 7.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&z=2008-08-01&g=2008-08-01) en [7.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.3&z=2008-08-01&g=2008-08-01) wordt onder het ontvangen van bijdragen verstaan het ontvangen van bijdragen voor de uitvoering van een pensioenregeling die afkomstig is uit een andere lidstaat dan de lidstaat waar het pensioenfonds gevestigd is.
 
 ### Hoofdstuk 6. Financieel toetsingskader inzake pensioenfondsen
 
@@ -1794,13 +1860,13 @@ Ouderdomspensioen wordt gefinancierd op basis van kapitaaldekking.
 
 1. Een pensioenfonds stelt een kostendekkende premie vast die bestaat uit:
 
-- a. de premie die actuarieel benodigd is in verband met de pensioenverplichtingen;
+- a. de premie die actuarieel benodigd is in verband met de aangroei van de pensioenverplichtingen;
 
-- b. de opslag die nodig is voor het in stand houden van het vereist eigen vermogen als bedoeld in [artikel 132](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=132&z=2008-01-01&g=2008-01-01);
+- b. de opslag die nodig is voor het bij de aangroei van de pensioenverplichtingen behorende vereist eigen vermogen als bedoeld in [artikel 132](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=132&z=2008-08-01&g=2008-08-01);
 
-- c. de opslag die nodig is voor uitvoeringskosten van het pensioenfonds; en
+- c. de opslag die nodig is voor de bij de aangroei van de pensioenverplichtingen behorende uitvoeringskosten van het pensioenfonds; en
 
-- d. de premie die actuarieel benodigd is ten behoeve van toeslagverlening indien gekozen is voor financiering op de wijze, bedoeld in [artikel 137, onderdeel a, b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=137&z=2008-01-01&g=2008-01-01);
+- d. de premie die actuarieel benodigd is ten behoeve van toeslagverlening indien gekozen is voor financiering op de wijze, bedoeld in [artikel 137, onderdeel a, b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=137&z=2008-08-01&g=2008-08-01);
 
 2. De kostendekkende premie kan worden gedempt.
 
@@ -1808,23 +1874,23 @@ Ouderdomspensioen wordt gefinancierd op basis van kapitaaldekking.
 
 ##### Artikel 129. Terugstorting of premiekorting
 
-1. Het pensioenfonds kan uitsluitend korting verlenen op de kostendekkende premie of de gedempte premie indien ten aanzien van de pensioenverplichtingen wordt voldaan aan de [artikelen 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=126&z=2008-01-01&g=2008-01-01), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=132&z=2008-01-01&g=2008-01-01) en [133](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=133&z=2008-01-01&g=2008-01-01) en de eventuele voorwaardelijke toeslagen kunnen worden nagekomen overeenkomstig de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.5&artikel=95&z=2008-01-01&g=2008-01-01) en [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=137&z=2008-01-01&g=2008-01-01).
+1. Het pensioenfonds kan uitsluitend korting verlenen op de kostendekkende premie of de gedempte premie indien ten aanzien van de pensioenverplichtingen wordt voldaan aan de [artikelen 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=126&z=2008-08-01&g=2008-08-01), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=132&z=2008-08-01&g=2008-08-01) en [133](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=133&z=2008-08-01&g=2008-08-01) en de eventuele voorwaardelijke toeslagen kunnen worden nagekomen overeenkomstig de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.5&artikel=95&z=2008-08-01&g=2008-08-01) en [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=137&z=2008-08-01&g=2008-08-01).
 
 2. Het pensioenfonds kan uitsluitend terugstorten indien:
 
-- a. ten aanzien van de pensioenverplichtingen wordt voldaan aan de [artikelen 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=126&z=2008-01-01&g=2008-01-01), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=132&z=2008-01-01&g=2008-01-01) en [133](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=133&z=2008-01-01&g=2008-01-01);
+- a. ten aanzien van de pensioenverplichtingen wordt voldaan aan de [artikelen 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=126&z=2008-08-01&g=2008-08-01), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=132&z=2008-08-01&g=2008-08-01) en [133](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=133&z=2008-08-01&g=2008-08-01);
 
-- b. de voorwaardelijke toeslagen met betrekking tot de voorgaande tien jaar zijn verleend en kunnen worden verleend overeenkomstig de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.5&artikel=95&z=2008-01-01&g=2008-01-01) en [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=137&z=2008-01-01&g=2008-01-01);
+- b. de voorwaardelijke toeslagen met betrekking tot de voorgaande tien jaar zijn verleend en kunnen worden verleend overeenkomstig de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.5&artikel=95&z=2008-08-01&g=2008-08-01) en [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=137&z=2008-08-01&g=2008-08-01);
 
-- c. de korting op de pensioenaanspraken en pensioenrechten op grond van [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-01-01&g=2008-01-01) in de voorgaande tien jaar gecompenseerd is.
+- c. de korting op de pensioenaanspraken en pensioenrechten op grond van [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-08-01&g=2008-08-01) in de voorgaande tien jaar gecompenseerd is.
 
 ##### Artikel 130. Vermelding premie in jaarrekening en jaarverslag
 
 Een pensioenfonds vermeldt in zijn jaarrekening en jaarverslag:
 
-- a. de hoogte van de totale kostendekkende premie, bedoeld in [artikel 128, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=128&z=2008-01-01&g=2008-01-01);
+- a. de hoogte van de totale kostendekkende premie, bedoeld in [artikel 128, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=128&z=2008-08-01&g=2008-08-01);
 
-- b. de hoogte van de totale gedempte premie, bedoeld in [artikel 128, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=128&z=2008-01-01&g=2008-01-01); en
+- b. de hoogte van de totale gedempte premie, bedoeld in [artikel 128, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=128&z=2008-08-01&g=2008-08-01); en
 
 - c. de hoogte van de totale feitelijke premie.
 
@@ -1858,7 +1924,7 @@ De technische voorzieningen en de aan het pensioenfonds verstrekte leningen word
 
 - b. het pensioenfonds niet in staat is binnen een redelijke termijn de technische voorzieningen en het minimaal vereist eigen vermogen door waarden te dekken zonder dat de belangen van deelnemers, gewezen deelnemers, pensioengerechtigden, andere aanspraakgerechtigden of de werkgever onevenredig worden geschaad; en
 
-- c. alle overige beschikbare sturingsmiddelen, met uitzondering van het beleggingsbeleid, zijn ingezet om uiterlijk binnen een jaar te voldoen aan [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=131&z=2008-01-01&g=2008-01-01).
+- c. alle overige beschikbare sturingsmiddelen, met uitzondering van het beleggingsbeleid, zijn ingezet zoals uitgewerkt in het kortetermijnherstelplan, bedoeld in [artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-08-01&g=2008-08-01).
 
 2. Een pensioenfonds informeert de deelnemers, gewezen deelnemers, pensioengerechtigden en de werkgever schriftelijk over het besluit tot vermindering van pensioenaanspraken en pensioenrechten.
 
@@ -1902,9 +1968,9 @@ De technische voorzieningen en de aan het pensioenfonds verstrekte leningen word
 
 ##### Artikel 138. Langetermijnherstelplan
 
-1. Wanneer een pensioenfonds voorziet of redelijkerwijs kan voorzien dat het niet meer voldoet of zal voldoen aan de bij of krachtens [artikel 132](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=132&z=2008-01-01&g=2008-01-01) gestelde vereisten ten aanzien van het eigen vermogen, meldt het pensioenfonds dit onverwijld aan de toezichthouder.
+1. Wanneer een pensioenfonds voorziet of redelijkerwijs kan voorzien dat het niet meer voldoet of zal voldoen aan de bij of krachtens [artikel 132](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=132&z=2008-08-01&g=2008-08-01) gestelde vereisten ten aanzien van het eigen vermogen, meldt het pensioenfonds dit onverwijld aan de toezichthouder.
 
-2. In de in het eerste lid bedoelde situatie dient het pensioenfonds binnen drie maanden of zoveel eerder als de toezichthouder bepaalt ter instemming bij de toezichthouder een concreet en haalbaar langetermijnherstelplan in. In dit langetermijnherstelplan werkt het pensioenfonds uit hoe het uiterlijk binnen 15 jaar zal voldoen aan [artikel 132](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=132&z=2008-01-01&g=2008-01-01).
+2. In de in het eerste lid bedoelde situatie dient het pensioenfonds binnen drie maanden of zoveel eerder als de toezichthouder bepaalt ter instemming bij de toezichthouder een concreet en haalbaar langetermijnherstelplan in. In dit langetermijnherstelplan werkt het pensioenfonds uit hoe het uiterlijk binnen 15 jaar zal voldoen aan [artikel 132](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=132&z=2008-08-01&g=2008-08-01).
 
 3. Het pensioenfonds handelt onverwijld overeenkomstig het langetermijnherstelplan.
 
@@ -1922,7 +1988,7 @@ De technische voorzieningen en de aan het pensioenfonds verstrekte leningen word
 
 ##### Artikel 139. Ingrijpende wijzigingen tijdens uitvoering langetermijnherstelplan
 
-1. Wanneer gedurende de looptijd van het langetermijnherstelplan, bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-01-01&g=2008-01-01), ingrijpende wijzigingen plaatsvinden in:
+1. Wanneer gedurende de looptijd van het langetermijnherstelplan, bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-08-01&g=2008-08-01), ingrijpende wijzigingen plaatsvinden in:
 
 - a. de samenstelling van de technische voorzieningen; of
 
@@ -1940,15 +2006,15 @@ meldt het pensioenfonds dit onverwijld aan de toezichthouder.
 
 ##### Artikel 140. Kortetermijnherstelplan
 
-1. Wanneer een pensioenfonds voorziet of redelijkerwijs kan voorzien dat het niet meer voldoet of niet zal voldoen aan de bij of krachtens [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=131&z=2008-01-01&g=2008-01-01) gestelde vereisten ten aanzien van het minimaal vereist eigen vermogen, meldt het pensioenfonds dit onverwijld aan de toezichthouder.
+1. Wanneer een pensioenfonds voorziet of redelijkerwijs kan voorzien dat het niet meer voldoet of niet zal voldoen aan de bij of krachtens [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=131&z=2008-08-01&g=2008-08-01) gestelde vereisten ten aanzien van het minimaal vereist eigen vermogen, meldt het pensioenfonds dit onverwijld aan de toezichthouder.
 
-2. In de in het eerste lid bedoelde situatie dient het pensioenfonds binnen twee maanden of zoveel eerder als de toezichthouder bepaalt, een concreet en haalbaar kortetermijnherstelplan ter instemming bij de toezichthouder in. In dit kortetermijnherstelplan werkt het pensioenfonds uit hoe het uiterlijk binnen drie jaar zal voldoen aan [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=131&z=2008-01-01&g=2008-01-01) waarbij:
+2. In de in het eerste lid bedoelde situatie dient het pensioenfonds binnen twee maanden of zoveel eerder als de toezichthouder bepaalt, een concreet en haalbaar kortetermijnherstelplan ter instemming bij de toezichthouder in. In dit kortetermijnherstelplan werkt het pensioenfonds uit hoe het uiterlijk binnen drie jaar zal voldoen aan [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=131&z=2008-08-01&g=2008-08-01) waarbij:
 
 - a. de kans op herstel verbetert;
 
 - b. de risico’s voor de aanspraak- en pensioengerechtigden niet toenemen; en
 
-- c. de kans op toeslagverlening niet negatief worden beïnvloed.
+- c. de kans op toeslagverlening niet negatief wordt beïnvloed.
 
 3. In afwijking van het tweede lid geldt voor het kortetermijnherstelplan een termijn van een jaar indien:
 
@@ -1962,15 +2028,15 @@ meldt het pensioenfonds dit onverwijld aan de toezichthouder.
 
 ##### Artikel 141. Mogelijkheid tot ontheffing
 
-1. De toezichthouder kan, rekening houdend met de specifieke situatie van het pensioenfonds en in het belang van de aanspraak- en pensioengerechtigden, op aanvraag van een pensioenfonds geheel of gedeeltelijk, ontheffing verlenen van het bij of krachtens de [artikelen 131](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=131&z=2008-01-01&g=2008-01-01), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=132&z=2008-01-01&g=2008-01-01), [134, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-01-01&g=2008-01-01), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=137&z=2008-01-01&g=2008-01-01) en [138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-01-01&g=2008-01-01) bepaalde, indien het pensioenfonds aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die deze artikelen beogen te bereiken anderszins worden bereikt.
+1. De toezichthouder kan, rekening houdend met de specifieke situatie van het pensioenfonds en in het belang van de aanspraak- en pensioengerechtigden, op aanvraag van een pensioenfonds geheel of gedeeltelijk, ontheffing verlenen van het bij of krachtens de [artikelen 131](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=131&z=2008-08-01&g=2008-08-01), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=132&z=2008-08-01&g=2008-08-01), [134, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-08-01&g=2008-08-01), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=137&z=2008-08-01&g=2008-08-01) en [138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-08-01&g=2008-08-01) bepaalde, indien het pensioenfonds aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die deze artikelen beogen te bereiken anderszins worden bereikt.
 
-2. De toezichthouder kan in bijzondere gevallen, rekening houdend met de specifieke situatie van het pensioenfonds en in het belang van de aanspraak- en pensioengerechtigden, op aanvraag van een pensioenfonds dat geen bijdragen ontvangt van een in een andere lidstaat gevestigde bijdragende onderneming, geheel of gedeeltelijk, ontheffing verlenen van het bij of krachtens [artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-01-01&g=2008-01-01) bepaalde.
+2. De toezichthouder kan in bijzondere gevallen, rekening houdend met de specifieke situatie van het pensioenfonds en in het belang van de aanspraak- en pensioengerechtigden, op aanvraag van een pensioenfonds dat geen bijdragen ontvangt van een in een andere lidstaat gevestigde bijdragende onderneming, geheel of gedeeltelijk, ontheffing verlenen van het bij of krachtens [artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-08-01&g=2008-08-01) bepaalde.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld waaraan de houder van een ontheffing dient te voldoen en met betrekking tot het verlenen van de ontheffing.
 
 ##### Artikel 142. Langere termijnen bij uitzonderlijke situatie
 
-Onze Minister kan na overleg met de toezichthouder vrijstelling verlenen van de in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-01-01&g=2008-01-01) en [140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-01-01&g=2008-01-01) genoemde termijnen van 15 jaar respectievelijk drie en een jaar, indien er sprake is van een uitzonderlijke economische situatie waardoor een groot aantal pensioenfondsen niet kan voldoen aan de bij of krachtens deze wet gestelde vereisten inzake het vereiste eigen vermogen en het minimaal vereist eigen vermogen.
+Onze Minister kan na overleg met de toezichthouder vrijstelling verlenen van de in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-08-01&g=2008-08-01) en [140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-08-01&g=2008-08-01) genoemde termijnen van 15 jaar respectievelijk drie en een jaar, indien er sprake is van een uitzonderlijke economische situatie waardoor een groot aantal pensioenfondsen niet kan voldoen aan de bij of krachtens deze wet gestelde vereisten inzake het vereiste eigen vermogen en het minimaal vereist eigen vermogen.
 
 ##### Artikel 143. Beheerste en integere bedrijfsvoering
 
@@ -1992,7 +2058,7 @@ Onze Minister kan na overleg met de toezichthouder vrijstelling verlenen van de 
 
 ##### Artikel 144. Parameters
 
-1. Bij algemene maatregel van bestuur worden, ten behoeve van de berekeningen, bedoeld bij de [artikelen 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=126&z=2008-01-01&g=2008-01-01), [128, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=128&z=2008-01-01&g=2008-01-01), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=132&z=2008-01-01&g=2008-01-01), [138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-01-01&g=2008-01-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-01-01&g=2008-01-01) en [143](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=143&z=2008-01-01&g=2008-01-01), regels gesteld over:
+1. Bij algemene maatregel van bestuur worden, ten behoeve van de berekeningen, bedoeld bij de [artikelen 126](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=126&z=2008-08-01&g=2008-08-01), [128](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=128&z=2008-08-01&g=2008-08-01), [138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-08-01&g=2008-08-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-08-01&g=2008-08-01) en [143](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=143&z=2008-08-01&g=2008-08-01), regels gesteld over:
 
 - a. het minimale percentage van het gemiddelde loon- of prijsindexcijfer;
 
@@ -2010,7 +2076,7 @@ Onze Minister kan na overleg met de toezichthouder vrijstelling verlenen van de 
 
 ##### Artikel 145. Actuariële en bedrijfstechnische nota
 
-1. Het pensioenfonds stelt een actuariële en bedrijfstechnische nota vast waarin in elk geval een omschrijving is opgenomen van de wijze waarop uitvoering wordt gegeven aan het bij of krachtens de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=25&z=2008-01-01&g=2008-01-01), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.5&artikel=95&z=2008-01-01&g=2008-01-01), [126 tot en met 137](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=126&z=2008-01-01&g=2008-01-01) en [143](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=143&z=2008-01-01&g=2008-01-01) bepaalde. De actuariële en bedrijfstechnische nota bevat voorts een verklaring inzake beleggingsbeginselen en een beschrijving van de sturingsmiddelen.
+1. Het pensioenfonds stelt een actuariële en bedrijfstechnische nota vast waarin in elk geval een omschrijving is opgenomen van de wijze waarop uitvoering wordt gegeven aan het bij of krachtens de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=25&z=2008-08-01&g=2008-08-01), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.5&artikel=95&z=2008-08-01&g=2008-08-01), [126 tot en met 137](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=126&z=2008-08-01&g=2008-08-01) en [143](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=143&z=2008-08-01&g=2008-08-01) bepaalde. De actuariële en bedrijfstechnische nota bevat voorts een verklaring inzake beleggingsbeginselen en een beschrijving van de sturingsmiddelen.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de actuariële en bedrijfstechnische nota.
 
@@ -2026,7 +2092,7 @@ Een pensioenfonds met zetel in Nederland stelt binnen zes maanden na afloop van 
 
 1. Een pensioenfonds doet het boekjaar gelijk lopen met het kalenderjaar.
 
-2. Een pensioenfonds verstrekt periodiek binnen de daartoe vastgestelde termijnen staten aan de toezichthouder die de toezichthouder nodig heeft voor de juiste uitoefening van zijn taak, bedoeld in [artikel 151](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.1&artikel=151&z=2008-01-01&g=2008-01-01).
+2. Een pensioenfonds verstrekt periodiek binnen de daartoe vastgestelde termijnen staten aan de toezichthouder die de toezichthouder nodig heeft voor de juiste uitoefening van zijn taak, bedoeld in [artikel 151](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.1&artikel=151&z=2008-08-01&g=2008-08-01).
 
 3. De staten omvatten uitsluitend:
 
@@ -2056,7 +2122,7 @@ Een pensioenfonds met zetel in Nederland stelt binnen zes maanden na afloop van 
 
 - m. informatie inzake verplichtingen van het pensioenfonds voor risico van de deelnemers.
 
-4. Met zijn verklaring bedoeld in het derde lid, onderdeel h, bevestigt de actuaris dat hij zich ervan heeft overtuigd dat voldaan is aan de [artikelen 126 tot en met 140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=126&z=2008-01-01&g=2008-01-01). Hij is bevoegd zijn verklaring nader toe te lichten of op enig punt een voorbehoud te maken.
+4. Met zijn verklaring bedoeld in het derde lid, onderdeel h, bevestigt de actuaris dat hij zich ervan heeft overtuigd dat voldaan is aan de [artikelen 126 tot en met 140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=126&z=2008-08-01&g=2008-08-01). Hij is bevoegd zijn verklaring nader toe te lichten of op enig punt een voorbehoud te maken.
 
 5. De staten zijn periodiek voorzien van een verklaring omtrent de getrouwheid, afgegeven door een accountant. Ten bewijze dat de staten door hem zijn onderzocht, waarmerkt de accountant de staten.
 
@@ -2070,11 +2136,11 @@ Een pensioenfonds met zetel in Nederland stelt binnen zes maanden na afloop van 
 
 1. De bevoegde actuaris die het actuarieel verslag waarmerkt, is onafhankelijk van het pensioenfonds en verricht geen andere werkzaamheden voor het pensioenfonds.
 
-2. Het is de waarmerkende actuaris niet toegestaan de werkzaamheden, bedoeld in [artikel 147, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-01-01&g=2008-01-01), uit te oefenen voor een pensioenfonds wanneer een andere actuaris of andere deskundige die behoort tot dezelfde organisatie als de waarmerkende actuaris, andere werkzaamheden verricht voor hetzelfde pensioenfonds, tenzij de organisatie van de waarmerkende actuaris een door de toezichthouder goedgekeurde gedragscode heeft over de onafhankelijkheid van de waarmerkende actuaris.
+2. Het is de waarmerkende actuaris niet toegestaan de werkzaamheden, bedoeld in [artikel 147, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-08-01&g=2008-08-01), uit te oefenen voor een pensioenfonds wanneer een andere actuaris of andere deskundige die behoort tot dezelfde organisatie als de waarmerkende actuaris, andere werkzaamheden verricht voor hetzelfde pensioenfonds, tenzij de organisatie van de waarmerkende actuaris een door de toezichthouder goedgekeurde gedragscode heeft over de onafhankelijkheid van de waarmerkende actuaris.
 
 ##### Artikel 149. Verplichting tot overdracht, herverzekering of onderbrenging
 
-De toezichthouder kan een pensioenfonds de verplichting opleggen om binnen een door de toezichthouder te stellen termijn over te gaan tot herverzekering, overdracht of onderbrenging indien dit naar het oordeel van de toezichthouder noodzakelijk is in verband met:
+De toezichthouder kan een pensioenfonds de verplichting opleggen om binnen een door de toezichthouder te stellen termijn over te gaan tot herverzekering bij een verzekeraar, overdracht aan een verzekeraar of onderbrenging bij een pensioenfonds indien dit naar het oordeel van de toezichthouder noodzakelijk is in verband met:
 
 - a. de actuariële en bedrijfstechnische opzet van het pensioenfonds; of
 
@@ -2086,7 +2152,7 @@ Wanneer een pensioenregeling eindigt tijdens de periode waarin een kortetermijnh
 
 - a. stelt het pensioenfonds de toezichthouder hiervan op de hoogte;
 
-- b. gaat het pensioenfonds binnen een door de toezichthouder te stellen termijn over tot het overdragen, herverzekeren of onderbrengen van de pensioenverplichtingen op basis van een procedure welke ter kennis en instemming van de toezichthouder wordt gebracht; en
+- b. gaat het pensioenfonds binnen een door de toezichthouder te stellen termijn over tot het herverzekeren bij een verzekeraar, overdragen aan een verzekeraar of onderbrengen bij een pensioenfonds van de pensioenverplichtingen op basis van een procedure welke ter kennis en instemming van de toezichthouder wordt gebracht; en
 
 - c. stelt het pensioenfonds een algemeen overzicht van de procedure, bedoeld in onderdeel b, beschikbaar voor de deelnemers, gewezen deelnemers en pensioengerechtigden of de vertegenwoordigers van de genoemde personen in overeenstemming met het vertrouwelijkheidbeginsel.
 
@@ -2098,7 +2164,7 @@ Wanneer een pensioenregeling eindigt tijdens de periode waarin een kortetermijnh
 
 1. De Stichting Autoriteit Financiële Markten is belast met het gedragstoezicht.
 
-2. Gedragstoezicht is toezicht gericht op de naleving van de normen ten aanzien van voorlichting door pensioenuitvoerders aan deelnemers, gewezen deelnemers, gewezen partners en pensioengerechtigden en de normen ten aanzien van het begrenzen van beleggingsvrijheid bij de uitvoering van premieovereenkomsten met beleggingsvrijheid voor de individuele deelnemer of gewezen deelnemer.
+2. Gedragstoezicht is toezicht gericht op de naleving van de normen ten aanzien van voorlichting door pensioenuitvoerders aan deelnemers, gewezen deelnemers, gewezen partners en pensioengerechtigden en de normen ten aanzien van de advisering van de deelnemer of gewezen deelnemer bij de uitvoering van premieovereenkomsten met beleggingsvrijheid waarbij de deelnemer of gewezen deelnemer de verantwoordelijkheid voor de beleggingen heeft overgenomen.
 
 3. De Nederlandsche Bank N.V. is belast met het prudentieel toezicht en het materieel toezicht.
 
@@ -2142,7 +2208,7 @@ Wanneer een pensioenregeling eindigt tijdens de periode waarin een kortetermijnh
 
 2. De toezichthouder treft voorzieningen, waardoor een ieder die met hem in aanraking komt in de gelegenheid is voorstellen tot verbetering van werkwijzen en procedures te doen.
 
-3. In het jaarverslag, bedoeld in [artikel 156](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.2&artikel=156&z=2008-01-01&g=2008-01-01), doet de toezichthouder verslag van hetgeen tot uitvoering van het eerste en het tweede lid is verricht.
+3. In het jaarverslag, bedoeld in [artikel 156](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.2&artikel=156&z=2008-08-01&g=2008-08-01), doet de toezichthouder verslag van hetgeen tot uitvoering van het eerste en het tweede lid is verricht.
 
 #### § 7.2. Rekening en verantwoording
 
@@ -2158,7 +2224,7 @@ Wanneer een pensioenregeling eindigt tijdens de periode waarin een kortetermijnh
 
 ##### Artikel 155. Instemming met begroting
 
-1. De toezichthouder zendt de begroting, bedoeld in [artikel 154, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.2&artikel=154&z=2008-01-01&g=2008-01-01), voor 1 december van het aan het begrotingsjaar voorafgaande jaar, en de begroting, bedoeld in [artikel 154, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.2&artikel=154&z=2008-01-01&g=2008-01-01), onverwijld ter instemming aan Onze Minister.
+1. De toezichthouder zendt de begroting, bedoeld in [artikel 154, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.2&artikel=154&z=2008-08-01&g=2008-08-01), voor 1 december van het aan het begrotingsjaar voorafgaande jaar, en de begroting, bedoeld in [artikel 154, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.2&artikel=154&z=2008-08-01&g=2008-08-01), onverwijld ter instemming aan Onze Minister.
 
 2. De instemming met de begroting kan worden onthouden wegens strijd met het recht of het algemeen belang. Ingeval van gebleken strijdigheid wordt instemming niet onthouden dan nadat de toezichthouder in de gelegenheid is gesteld de begroting aan te passen, binnen een door Onze Minister te stellen redelijke termijn.
 
@@ -2176,7 +2242,7 @@ Wanneer een pensioenregeling eindigt tijdens de periode waarin een kortetermijnh
 
 ##### Artikel 157. Jaarrekening of verantwoording
 
-1. De toezichthouder stelt jaarlijks een jaarrekening of verantwoording op van de bij en krachtens deze wet opgedragen taken en de daaruit voortvloeiende werkzaamheden.
+1. De toezichthouder stelt jaarlijks een jaarrekening of verantwoording op van de bij of krachtens deze wet opgedragen taken en de daaruit voortvloeiende werkzaamheden. De jaarrekening van de Stichting Autoriteit Financiële Markten wordt zoveel mogelijk met overeenkomstige toepassing van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) ingericht.
 
 2. De jaarrekening of verantwoording gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de toezichthouder aangewezen accountant.
 
@@ -2198,13 +2264,13 @@ Bij regeling van Onze Minister worden regels gesteld over de inhoud en indiening
 
 1. Het verschil tussen de aan het eind van een begrotingsjaar gerealiseerde baten en inkomsten van de toezichthouder en de gerealiseerde lasten en uitgaven van de toezichthouder vormt het exploitatiesaldo.
 
-2. Indien in enig boekjaar een exploitatiesaldo ontstaat en de toezichthouder dit exploitatiesaldo wil betrekken bij de in het lopende jaar in rekening te brengen kosten, bedoeld in [artikel 160](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.2&artikel=160&z=2008-01-01&g=2008-01-01), doet de toezichthouder daaromtrent een voorstel in de jaarrekening of verantwoording.
+2. Indien in enig boekjaar een exploitatiesaldo ontstaat en de toezichthouder dit exploitatiesaldo wil betrekken bij de in het lopende jaar in rekening te brengen kosten, bedoeld in [artikel 160](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.2&artikel=160&z=2008-08-01&g=2008-08-01), doet de toezichthouder daaromtrent een voorstel in de jaarrekening of verantwoording.
 
 ##### Artikel 160. Kosten toezicht
 
 1. De toezichthouder brengt de kosten van de werkzaamheden die hij verricht in verband met de uitvoering van de taken op grond van deze wet in rekening bij de pensioenuitvoerders ten aanzien waarvan die werkzaamheden worden verricht, voor zover deze kosten niet ten laste komen van de Rijksbegroting. Tot de kosten behoren onder meer de kosten die hij ter voorbereiding op de uitvoering van nieuwe onderdelen van zijn taak heeft gemaakt, voordat deze aan hem werden opgedragen. De kosten voor verzekeraars en pensioenfondsen worden gescheiden in rekening gebracht.
 
-2. De kosten worden gebaseerd op de begroting waarmee Onze Minister heeft ingestemd en op het exploitatiesaldo, indien Onze Minister heeft ingestemd met de jaarrekening of verantwoording waarin een voorstel als bedoeld in [artikel 159, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.2&artikel=159&z=2008-01-01&g=2008-01-01), is opgenomen.
+2. De kosten worden gebaseerd op de begroting waarmee Onze Minister heeft ingestemd en op het exploitatiesaldo, indien Onze Minister heeft ingestemd met de jaarrekening of verantwoording waarin een voorstel als bedoeld in [artikel 159, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.2&artikel=159&z=2008-08-01&g=2008-08-01), is opgenomen.
 
 3. Op de begrote kosten worden de opbrengsten uit boetes en verbeurde dwangsommen, voor zover de hieraan ten grondslag liggende besluiten van de toezichthouder in het voorafgaande jaar onherroepelijk zijn geworden, in mindering gebracht.
 
@@ -2290,7 +2356,7 @@ De pensioenuitvoerder, de werkgever, de accountant en de actuaris verstrekken aa
 
 2. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
 
-3. Voorzover de toezichthouder voor het uitoefenen van het gedragstoezicht ten aanzien van pensioenfondsen waaraan de andere toezichthouder een vergunning heeft verleend of welke in het register is opgenomen, gegevens nodig heeft over aspecten van de bedrijfsvoering, bedoeld in [artikel 143, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=143&z=2008-01-01&g=2008-01-01), vordert de eerstgenoemde toezichthouder geen inlichtingen, dan nadat de andere toezichthouder is verzocht deze gegevens te verstrekken en is gebleken dat de andere toezichthouder niet aan dit verzoek tegemoet kan komen.
+3. Voorzover de toezichthouder voor het uitoefenen van het gedragstoezicht ten aanzien van pensioenfondsen waaraan de andere toezichthouder een vergunning heeft verleend of welke in het register is opgenomen, gegevens nodig heeft over aspecten van de bedrijfsvoering, bedoeld in [artikel 143, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=143&z=2008-08-01&g=2008-08-01), vordert de eerstgenoemde toezichthouder geen inlichtingen, dan nadat de andere toezichthouder is verzocht deze gegevens te verstrekken en is gebleken dat de andere toezichthouder niet aan dit verzoek tegemoet kan komen.
 
 4. Van het derde lid kan, na overleg met de andere toezichthouder, worden afgeweken indien sprake is van een redelijk vermoeden van een overtreding van de regels bij of krachtens deze wet gesteld en onverwijlde spoed, gelet op de betrokken belangen, dat vereist.
 
@@ -2302,7 +2368,7 @@ De pensioenuitvoerder, de werkgever, de accountant en de actuaris verstrekken aa
 
 ##### Artikel 170. Informatie- en meldingsverplichting accountant en actuaris
 
-1. Een accountant die het onderzoek naar de staten, bedoeld in [artikel 147, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-01-01&g=2008-01-01), uitvoert meldt de toezichthouder zo spoedig mogelijk elke omstandigheid waarvan hij bij de uitvoering van het onderzoek kennis heeft gekregen en die:
+1. Een accountant die het onderzoek naar de staten, bedoeld in [artikel 147, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-08-01&g=2008-08-01), uitvoert meldt de toezichthouder zo spoedig mogelijk elke omstandigheid waarvan hij bij de uitvoering van het onderzoek kennis heeft gekregen en die:
 
 - a. in strijd is met deze wet;
 
@@ -2310,7 +2376,7 @@ De pensioenuitvoerder, de werkgever, de accountant en de actuaris verstrekken aa
 
 - c. leidt tot de weigering van het afgeven van de verklaring omtrent de getrouwheid of tot het maken van voorbehouden.
 
-2. Het eerste lid, aanhef en onderdelen a en b, is van overeenkomstige toepassing op de actuaris die het onderzoek naar de staten, bedoeld in [artikel 147, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-01-01&g=2008-01-01), uitvoert.
+2. Het eerste lid, aanhef en onderdelen a en b, is van overeenkomstige toepassing op de actuaris die het onderzoek naar de staten, bedoeld in [artikel 147, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-08-01&g=2008-08-01), uitvoert.
 
 3. De accountant of actuaris verstrekt zo spoedig mogelijk kosteloos alle inlichtingen aan de toezichthouder die deze redelijkerwijs nodig heeft voor het toezicht op de naleving van deze wet. De toezichthouder stelt het betrokken pensioenfonds in de gelegenheid aanwezig te zijn bij het verstrekken van inlichtingen door de accountant of actuaris.
 
@@ -2320,7 +2386,7 @@ De pensioenuitvoerder, de werkgever, de accountant en de actuaris verstrekken aa
 
 ##### Artikel 171. Aanwijzing
 
-1. De toezichthouder kan een pensioenuitvoerder die niet voldoet aan deze wet, door middel van het geven van een aanwijzing verplichten om binnen een door de toezichthouder gestelde redelijke termijn ten aanzien van in de aanwijzingsbeschikking aangegeven punten een bepaalde gedragslijn te volgen.
+1. De toezichthouder kan een pensioenuitvoerder die niet voldoet aan hetgeen bij of krachtens deze wet is bepaald, door middel van het geven van een aanwijzing verplichten om binnen een door de toezichthouder gestelde redelijke termijn ten aanzien van in de aanwijzingsbeschikking aangegeven punten een bepaalde gedragslijn te volgen.
 
 2. De toezichthouder kan een aanwijzing als bedoeld in het eerste lid eveneens aan een pensioenfonds geven indien hij tekenen ontwaart van een ontwikkeling die het eigen vermogen, de solvabiliteit, de liquiditeit of de bedrijfsvoering van het pensioenfonds in gevaar kunnen brengen.
 
@@ -2330,7 +2396,7 @@ De pensioenuitvoerder, de werkgever, de accountant en de actuaris verstrekken aa
 
 2. Het besluit ingevolge het eerste lid wordt slechts genomen:
 
-- a. nadat door het pensioenfonds niet of niet volledig binnen de gestelde termijn aan een aanwijzing als bedoeld in [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-01-01&g=2008-01-01) gevolg is gegeven;
+- a. nadat door het pensioenfonds niet of niet volledig binnen de gestelde termijn aan een aanwijzing als bedoeld in [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-08-01&g=2008-08-01) gevolg is gegeven;
 
 - b. indien de in het eerste lid bedoelde overtreding een adequate functionering van het pensioenfonds ernstig in gevaar brengt en dat pensioenfonds voorafgaand in de gelegenheid is gesteld zijn zienswijze naar voren te brengen over het voorgenomen besluit; of
 
@@ -2400,7 +2466,7 @@ De pensioenuitvoerder, de werkgever, de accountant en de actuaris verstrekken aa
 
 ##### Artikel 176. Bestuurlijke boete
 
-1. De toezichthouder kan een bestuurlijke boete opleggen ter zake van een overtreding van voorschriften, gesteld bij of krachtens de [artikelen 21, eerste lid, tweede lid, tweede volzin en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2008-01-01&g=2008-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-01-01&g=2008-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=25&z=2008-01-01&g=2008-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=26&z=2008-01-01&g=2008-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=28&z=2008-01-01&g=2008-01-01), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=29&z=2008-01-01&g=2008-01-01), [34 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2008-01-01&g=2008-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=49&z=2008-01-01&g=2008-01-01), [50, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=50&z=2008-01-01&g=2008-01-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=52&z=2008-01-01&g=2008-01-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=58&z=2008-01-01&g=2008-01-01), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=60&z=2008-01-01&g=2008-01-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=61&z=2008-01-01&g=2008-01-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=62&z=2008-01-01&g=2008-01-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=63&z=2008-01-01&g=2008-01-01), [66, derde tot en met zesde, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-01-01&g=2008-01-01), [67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=67&z=2008-01-01&g=2008-01-01), [68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=68&z=2008-01-01&g=2008-01-01), [69, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=69&z=2008-01-01&g=2008-01-01), [71, eerste tot en met vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-01-01&g=2008-01-01), [74, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=74&z=2008-01-01&g=2008-01-01), [76, eerste tot en met vierde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-01-01&g=2008-01-01), [83, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=83&z=2008-01-01&g=2008-01-01), [84, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=84&z=2008-01-01&g=2008-01-01), [85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=85&z=2008-01-01&g=2008-01-01), [86, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=86&z=2008-01-01&g=2008-01-01), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=87&z=2008-01-01&g=2008-01-01), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=91&z=2008-01-01&g=2008-01-01), [94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.4&artikel=94&z=2008-01-01&g=2008-01-01), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.5&artikel=95&z=2008-01-01&g=2008-01-01), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.5&artikel=96&z=2008-01-01&g=2008-01-01), [99](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=99&z=2008-01-01&g=2008-01-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=100&z=2008-01-01&g=2008-01-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=101&z=2008-01-01&g=2008-01-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=102&z=2008-01-01&g=2008-01-01), [103](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=103&z=2008-01-01&g=2008-01-01), [105, eerste tot en met derde, vijfde tot en met achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=105&z=2008-01-01&g=2008-01-01), [106](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=106&z=2008-01-01&g=2008-01-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=109&z=2008-01-01&g=2008-01-01), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=110&z=2008-01-01&g=2008-01-01), [111](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=111&z=2008-01-01&g=2008-01-01), [113](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=113&z=2008-01-01&g=2008-01-01), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=114&z=2008-01-01&g=2008-01-01), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=115&z=2008-01-01&g=2008-01-01), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=116&z=2008-01-01&g=2008-01-01), [117](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=117&z=2008-01-01&g=2008-01-01), [118, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=118&z=2008-01-01&g=2008-01-01), [119, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=119&z=2008-01-01&g=2008-01-01), [120, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=120&z=2008-01-01&g=2008-01-01), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=125&z=2008-01-01&g=2008-01-01), [128](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=128&z=2008-01-01&g=2008-01-01), [129](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=129&z=2008-01-01&g=2008-01-01), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=130&z=2008-01-01&g=2008-01-01), [134, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-01-01&g=2008-01-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=135&z=2008-01-01&g=2008-01-01), [136](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=136&z=2008-01-01&g=2008-01-01), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=137&z=2008-01-01&g=2008-01-01), [138, eerste tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-01-01&g=2008-01-01), [139](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=139&z=2008-01-01&g=2008-01-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-01-01&g=2008-01-01), [143](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=143&z=2008-01-01&g=2008-01-01), [145](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=145&z=2008-01-01&g=2008-01-01), [146](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=146&z=2008-01-01&g=2008-01-01), [147, eerste tot en met derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-01-01&g=2008-01-01), [150](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=150&z=2008-01-01&g=2008-01-01), [167](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=167&z=2008-01-01&g=2008-01-01), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=169&z=2008-01-01&g=2008-01-01), [170, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=170&z=2008-01-01&g=2008-01-01), [171, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-01-01&g=2008-01-01), [172, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=172&z=2008-01-01&g=2008-01-01), [194](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=194&z=2008-01-01&g=2008-01-01), [197](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=197&z=2008-01-01&g=2008-01-01), [199](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.3&artikel=199&z=2008-01-01&g=2008-01-01), [203, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=203&z=2008-01-01&g=2008-01-01), [204](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-01-01&g=2008-01-01) en van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
+1. De toezichthouder kan een bestuurlijke boete opleggen ter zake van een overtreding van voorschriften, gesteld bij of krachtens de [artikelen 21, eerste lid, tweede lid, tweede volzin en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2008-08-01&g=2008-08-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-08-01&g=2008-08-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=25&z=2008-08-01&g=2008-08-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=26&z=2008-08-01&g=2008-08-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=28&z=2008-08-01&g=2008-08-01), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=29&z=2008-08-01&g=2008-08-01), [34 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=34&z=2008-08-01&g=2008-08-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=49&z=2008-08-01&g=2008-08-01), [50, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=50&z=2008-08-01&g=2008-08-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=52&z=2008-08-01&g=2008-08-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.2&artikel=58&z=2008-08-01&g=2008-08-01), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=60&z=2008-08-01&g=2008-08-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=61&z=2008-08-01&g=2008-08-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=62&z=2008-08-01&g=2008-08-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=63&z=2008-08-01&g=2008-08-01), [66, derde tot en met zesde, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=66&z=2008-08-01&g=2008-08-01), [67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=67&z=2008-08-01&g=2008-08-01), [68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=68&z=2008-08-01&g=2008-08-01), [artikel 69, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=69&z=2008-08-01&g=2008-08-01), [71, eerste tot en met vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=71&z=2008-08-01&g=2008-08-01), [74, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=74&z=2008-08-01&g=2008-08-01), [76, eerste tot en met vierde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=76&z=2008-08-01&g=2008-08-01), [83, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=83&z=2008-08-01&g=2008-08-01), [84, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=84&z=2008-08-01&g=2008-08-01), [85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=85&z=2008-08-01&g=2008-08-01), [86, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=86&z=2008-08-01&g=2008-08-01), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=87&z=2008-08-01&g=2008-08-01), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.3&artikel=91&z=2008-08-01&g=2008-08-01), [94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.4&artikel=94&z=2008-08-01&g=2008-08-01), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.5&artikel=95&z=2008-08-01&g=2008-08-01), [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.5&artikel=96&z=2008-08-01&g=2008-08-01), [99](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=99&z=2008-08-01&g=2008-08-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=100&z=2008-08-01&g=2008-08-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=101&z=2008-08-01&g=2008-08-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=102&z=2008-08-01&g=2008-08-01), [103](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=103&z=2008-08-01&g=2008-08-01), [105, eerste tot en met derde, vijfde tot en met achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=105&z=2008-08-01&g=2008-08-01), [106](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=106&z=2008-08-01&g=2008-08-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=109&z=2008-08-01&g=2008-08-01), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=110&z=2008-08-01&g=2008-08-01), [111](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=111&z=2008-08-01&g=2008-08-01), [113](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=113&z=2008-08-01&g=2008-08-01), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=114&z=2008-08-01&g=2008-08-01), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=115&z=2008-08-01&g=2008-08-01), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=116&z=2008-08-01&g=2008-08-01), [117](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=117&z=2008-08-01&g=2008-08-01), [118, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=118&z=2008-08-01&g=2008-08-01), [119, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=119&z=2008-08-01&g=2008-08-01), [120, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=120&z=2008-08-01&g=2008-08-01), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=125&z=2008-08-01&g=2008-08-01), [128](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=128&z=2008-08-01&g=2008-08-01), [129](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=129&z=2008-08-01&g=2008-08-01), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=130&z=2008-08-01&g=2008-08-01), [134, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=134&z=2008-08-01&g=2008-08-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=135&z=2008-08-01&g=2008-08-01), [136](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=136&z=2008-08-01&g=2008-08-01), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=137&z=2008-08-01&g=2008-08-01), [138, eerste tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-08-01&g=2008-08-01), [139](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=139&z=2008-08-01&g=2008-08-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-08-01&g=2008-08-01), [143](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=143&z=2008-08-01&g=2008-08-01), [145](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=145&z=2008-08-01&g=2008-08-01), [146](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=146&z=2008-08-01&g=2008-08-01), [147, eerste tot en met derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-08-01&g=2008-08-01), [150](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=150&z=2008-08-01&g=2008-08-01), [167](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=167&z=2008-08-01&g=2008-08-01), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=169&z=2008-08-01&g=2008-08-01), [170, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=170&z=2008-08-01&g=2008-08-01), [171, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-08-01&g=2008-08-01), [172, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=172&z=2008-08-01&g=2008-08-01), [194](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=194&z=2008-08-01&g=2008-08-01), [197](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=197&z=2008-08-01&g=2008-08-01), [199](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.3&artikel=199&z=2008-08-01&g=2008-08-01), [203, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=203&z=2008-08-01&g=2008-08-01), [204](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-08-01&g=2008-08-01) en van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
 2. De bestuurlijke boete komt toe aan de toezichthouder.
 
@@ -2408,13 +2474,13 @@ De pensioenuitvoerder, de werkgever, de accountant en de actuaris verstrekken aa
 
 ##### Artikel 177. Overtreder
 
-1. In de [artikelen 178 tot en met 187](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=178&z=2008-01-01&g=2008-01-01) wordt verstaan onder overtreder: degene die de overtreding, bedoeld in [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=176&z=2008-01-01&g=2008-01-01), pleegt of medepleegt.
+1. In de [artikelen 178 tot en met 187](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=178&z=2008-08-01&g=2008-08-01) wordt verstaan onder overtreder: degene die de overtreding, bedoeld in [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=176&z=2008-08-01&g=2008-08-01), pleegt of medepleegt.
 
 2. [Artikel 51 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51) is van overeenkomstige toepassing.
 
 ##### Artikel 178. Verwijtbaarheid
 
-De toezichthouder legt geen bestuurlijke boete op wanneer de overtreding van de voorschriften, bedoeld in [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=176&z=2008-01-01&g=2008-01-01), niet aan de overtreder kan worden verweten.
+De toezichthouder legt geen bestuurlijke boete op wanneer de overtreding van de voorschriften, bedoeld in [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=176&z=2008-08-01&g=2008-08-01), niet aan de overtreder kan worden verweten.
 
 ##### Artikel 179. Hoogte bestuurlijke boete
 
@@ -2446,13 +2512,13 @@ De toezichthouder legt geen bestuurlijke boete op wanneer de overtreding van de 
 
 - b. het bedrag van de boete en de gegevens op basis waarvan dit bedrag is bepaald; en
 
-- c. de termijn, bedoeld in [artikel 183, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=183&z=2008-01-01&g=2008-01-01), waarbinnen de boete moet worden betaald.
+- c. de termijn, bedoeld in [artikel 183, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=183&z=2008-08-01&g=2008-08-01), waarbinnen de boete moet worden betaald.
 
 ##### Artikel 183. Betaling, dwangbevel
 
 1. De bestuurlijke boete wordt betaald binnen zes weken na de inwerkingtreding van de beschikking waarbij zij is opgelegd.
 
-2. De bestuurlijke boete wordt vermeerderd met de wettelijke rente, te rekenen vanaf de dag waarop sedert de bekendmaking van de beschikking zes weken zijn verstreken, tenzij het een overtreding betreft die op grond van [artikel 181, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=181&z=2008-01-01&g=2008-01-01), is aangewezen.
+2. De bestuurlijke boete wordt vermeerderd met de wettelijke rente, te rekenen vanaf de dag waarop sedert de bekendmaking van de beschikking zes weken zijn verstreken, tenzij het een overtreding betreft die op grond van [artikel 181, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=181&z=2008-08-01&g=2008-08-01), is aangewezen.
 
 3. Indien de bestuurlijke boete niet tijdig is betaald, stuurt de toezichthouder schriftelijk een aanmaning om binnen twee weken de boete, verhoogd met de kosten van de aanmaning, alsnog te betalen. De aanmaning bevat de aanzegging, dat de boete, voor zover deze niet binnen de gestelde termijn wordt betaald, overeenkomstig het vierde lid zal worden ingevorderd.
 
@@ -2470,13 +2536,13 @@ De toezichthouder legt geen bestuurlijke boete op wanneer de overtreding van de 
 
 1. De werking van de beschikking tot oplegging van een bestuurlijke boete wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
-2. In afwijking van het eerste lid wordt de werking van de beschikking tot oplegging van een boete voor een overtreding die op grond van [artikel 181, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=181&z=2008-01-01&g=2008-01-01), is aangewezen, opgeschort totdat de bezwaartermijn is verstreken of, indien bezwaar is gemaakt, op het bezwaar is beslist.
+2. In afwijking van het eerste lid wordt de werking van de beschikking tot oplegging van een boete voor een overtreding die op grond van [artikel 181, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=181&z=2008-08-01&g=2008-08-01), is aangewezen, opgeschort totdat de bezwaartermijn is verstreken of, indien bezwaar is gemaakt, op het bezwaar is beslist.
 
 ##### Artikel 185. Samenloop strafvervolging
 
 1. De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt indien ter zake van de overtreding op grond waarvan de boete kan worden opgelegd, tegen de overtreder een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvordering is vervallen ingevolge [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74).
 
-2. Het recht tot strafvervolging met betrekking tot een overtreding als bedoeld in [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=176&z=2008-01-01&g=2008-01-01) vervalt, indien de toezichthouder ter zake van die overtreding reeds een bestuurlijke boete heeft opgelegd.
+2. Het recht tot strafvervolging met betrekking tot een overtreding als bedoeld in [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=176&z=2008-08-01&g=2008-08-01) vervalt, indien de toezichthouder ter zake van die overtreding reeds een bestuurlijke boete heeft opgelegd.
 
 ##### Artikel 186. Verjaring
 
@@ -2492,25 +2558,25 @@ De werkzaamheden in verband met het opleggen van een bestuurlijke boete worden v
 
 1. De toezichthouder kan met het oog op de bescherming van de belangen van de pensioen- of aanspraakgerechtigden ter openbare kennis brengen, indien nodig onder vermelding van de overwegingen die tot die kennisgeving hebben geleid:
 
-- a. overtreding van de verbodsbepalingen uit deze wet en de overtredingen, bedoeld in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.3&artikel=201&z=2008-01-01&g=2008-01-01);
+- a. overtreding van de verbodsbepalingen uit deze wet en de overtredingen, bedoeld in [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.3&artikel=201&z=2008-08-01&g=2008-08-01);
 
 - b. het feit ter zake waarvan een aanwijzing is gegeven, het overtreden voorschrift, het feit dat de aanwijzing is gegeven en de door de pensioenuitvoerder te volgen gedragslijn, alsmede de naam, het adres en de vestigingsplaats van de pensioenuitvoerder aan wie de aanwijzing is gegeven;
 
 - c. het feit ter zake waarvan een last onder dwangsom of een bestuurlijke boete is opgelegd, het overtreden voorschrift, het feit dat de last onder dwangsom of de bestuurlijke boete is opgelegd, alsmede de naam, het adres en de vestigingsplaats van de overtreder aan wie de last onder dwangsom of de bestuurlijke boete is opgelegd;
 
-- d. het feit dat een herstelplan als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-01-01&g=2008-01-01) of [artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-01-01&g=2008-01-01) is ingediend, alsmede de naam, het adres en de vestigingsplaats van het pensioenfonds dat het herstelplan heeft ingediend.
+- d. het feit dat een herstelplan als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=138&z=2008-08-01&g=2008-08-01) of [artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=140&z=2008-08-01&g=2008-08-01) is ingediend, alsmede de naam, het adres en de vestigingsplaats van het pensioenfonds dat het herstelplan heeft ingediend.
 
 2. Bij regeling van Onze Minister kunnen regels worden gesteld ter zake van de uitoefening van de bevoegdheden, bedoeld in het eerste lid.
 
 ##### Artikel 189. Kennisgeving openbaarmaking en inhoud beschikking
 
-1. De toezichthouder stelt, indien hij besluit een openbare kennisgeving uit te zullen vaardigen als bedoeld in [artikel 188](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=188&z=2008-01-01&g=2008-01-01) de betrokken pensioenuitvoerder in kennis van het besluit.
+1. De toezichthouder stelt, indien hij besluit een openbare kennisgeving uit te zullen vaardigen als bedoeld in [artikel 188](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=188&z=2008-08-01&g=2008-08-01) de betrokken pensioenuitvoerder in kennis van het besluit.
 
 2. De beschikking vermeldt in ieder geval de geconstateerde overtreding, de inhoud van de kennisgeving, de gronden waarop het besluit berust alsmede de wijze waarop en de termijn waarna de openbare kennisgeving zal worden uitgevaardigd.
 
 ##### Artikel 190. Schorsende werking bij openbaarmaking
 
-1. Het ter openbare kennis brengen geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de bekendmaking van de beschikking, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=189&z=2008-01-01&g=2008-01-01), aan de betrokkene.
+1. Het ter openbare kennis brengen geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de bekendmaking van de beschikking, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=189&z=2008-08-01&g=2008-08-01), aan de betrokkene.
 
 2. Indien de betrokkene verzoekt om een voorlopige voorziening, bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81), wordt de werking van de beschikking opgeschort totdat er een uitspraak is van de voorzieningenrechter van de rechtbank.
 
@@ -2522,17 +2588,17 @@ De toezichthouder maakt een besluit tot het aanstellen van een bewindvoerder ing
 
 ##### Artikel 192. Vergunningverlening
 
-De vergunning, bedoeld in [artikel 125, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=125&z=2008-01-01&g=2008-01-01), wordt op aanvraag door de toezichthouder verleend wanneer het pensioenfonds:
+De vergunning, bedoeld in [artikel 125, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=125&z=2008-08-01&g=2008-08-01), wordt op aanvraag door de toezichthouder verleend wanneer het pensioenfonds:
 
-- a. is ingeschreven in het register, bedoeld in [artikel 210](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=210&z=2008-01-01&g=2008-01-01); en
+- a. is ingeschreven in het register, bedoeld in [artikel 210](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=210&z=2008-08-01&g=2008-08-01); en
 
-- b. voldoet aan de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2008-01-01&g=2008-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=26&z=2008-01-01&g=2008-01-01), [38 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-01-01&g=2008-01-01), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=105&z=2008-01-01&g=2008-01-01), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=126&z=2008-01-01&g=2008-01-01), [143](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=143&z=2008-01-01&g=2008-01-01) en [147, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-01-01&g=2008-01-01).
+- b. voldoet aan de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2008-08-01&g=2008-08-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.2&artikel=26&z=2008-08-01&g=2008-08-01), [38 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-08-01&g=2008-08-01), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=105&z=2008-08-01&g=2008-08-01), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=126&z=2008-08-01&g=2008-08-01), [143](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=143&z=2008-08-01&g=2008-08-01) en [147, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-08-01&g=2008-08-01).
 
 ##### Artikel 193. Nadere voorschriften en intrekking vergunning
 
-De toezichthouder kan de vergunning, bedoeld in [artikel 125, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=125&z=2008-01-01&g=2008-01-01), geheel of gedeeltelijk intrekken of daaraan nadere voorschriften verbinden wanneer:
+De toezichthouder kan de vergunning, bedoeld in [artikel 125, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=125&z=2008-08-01&g=2008-08-01), geheel of gedeeltelijk intrekken of daaraan nadere voorschriften verbinden wanneer:
 
-- a. het pensioenfonds niet langer voldoet aan [artikel 192](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=192&z=2008-01-01&g=2008-01-01);
+- a. het pensioenfonds niet langer voldoet aan [artikel 192](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=192&z=2008-08-01&g=2008-08-01);
 
 - b. de bij de aanvraag verstrekte gegevens onjuist of onvolledig zijn en de verstrekking van de juiste of volledige gegevens tot een andere beschikking op de aanvraag tot verlening van de vergunning zou hebben geleid;
 
@@ -2554,7 +2620,7 @@ De toezichthouder kan de vergunning, bedoeld in [artikel 125, onderdeel a](https
 
 ##### Artikel 195. Toetsing en mededeling van kennisgeving
 
-1. De toezichthouder doet binnen drie maanden na ontvangst van de gegevens, bedoeld in [artikel 194, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=194&z=2008-01-01&g=2008-01-01), mededeling van deze gegevens aan de bevoegde autoriteiten van de lidstaat waarvan de voor bedrijfspensioenvoorziening geldende sociale en arbeidswetgeving van toepassing is op de rechtsverhouding tussen de bijdragende onderneming en de werknemers, tenzij het pensioenfonds niet beschikt over de vergunning, bedoeld in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=125&z=2008-01-01&g=2008-01-01), of de toezichthouder reden heeft te betwijfelen dat de administratieve structuur of de financiële positie van het pensioenfonds, of de deskundigheid en betrouwbaarheid van de personen die het fonds besturen met de in die lidstaat voorgenomen activiteiten verenigbaar zijn.
+1. De toezichthouder doet binnen drie maanden na ontvangst van de gegevens, bedoeld in [artikel 194, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=194&z=2008-08-01&g=2008-08-01), mededeling van deze gegevens aan de bevoegde autoriteiten van de lidstaat waarvan de voor bedrijfspensioenvoorziening geldende sociale en arbeidswetgeving van toepassing is op de rechtsverhouding tussen de bijdragende onderneming en de werknemers, tenzij het pensioenfonds niet beschikt over de vergunning, bedoeld in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=125&z=2008-08-01&g=2008-08-01), of de toezichthouder reden heeft te betwijfelen dat de administratieve structuur of de financiële positie van het pensioenfonds, of de deskundigheid en betrouwbaarheid van de personen die het fonds besturen met de in die lidstaat voorgenomen activiteiten verenigbaar zijn.
 
 2. De toezichthouder doet gelijktijdig mededeling aan het fonds van de verstrekking van de gegevens aan de bevoegde autoriteiten, bedoeld in het eerste lid.
 
@@ -2562,17 +2628,17 @@ De toezichthouder kan de vergunning, bedoeld in [artikel 125, onderdeel a](https
 
 ##### Artikel 196. Uitvoering grensoverschrijdende activiteit
 
-1. Een pensioenfonds kan na ontvangst van de mededeling, bedoeld in [artikel 195, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=195&z=2008-01-01&g=2008-01-01), dan wel nadat twee maanden zijn verstreken na ontvangst van de mededeling, bedoeld in [artikel 195, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=195&z=2008-01-01&g=2008-01-01), beginnen met het uitvoeren van de voorgenomen pensioenregeling.
+1. Een pensioenfonds kan na ontvangst van de mededeling, bedoeld in [artikel 195, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=195&z=2008-08-01&g=2008-08-01), dan wel nadat twee maanden zijn verstreken na ontvangst van de mededeling, bedoeld in [artikel 195, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=195&z=2008-08-01&g=2008-08-01), beginnen met het uitvoeren van de voorgenomen pensioenregeling.
 
 2. Het pensioenfonds neemt bij de uitvoering van de pensioenregeling de op bedrijfspensioenvoorziening toepasselijke sociale en arbeidswetgeving en de voorschriften die krachtens de artikelen 11 en 18, zevende lid, van [richtlijn 2003/41/EG](32003L0041) moeten worden nageleefd, in acht. De Nederlandse sociale en arbeidswetgeving is niet van toepassing op de uitvoering van de pensioenregeling.
 
 ##### Artikel 197. Verbod uitvoering grensoverschrijdende activiteit
 
-1. De toezichthouder verbiedt een pensioenfonds bijdragen te ontvangen van een onderneming met een zetel in een andere lidstaat wanneer de toezichthouder reden heeft tot twijfel als bedoeld in [artikel 195, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=195&z=2008-01-01&g=2008-01-01), of het fonds niet beschikt over een vergunning als bedoeld in [artikel 125, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=125&z=2008-01-01&g=2008-01-01).
+1. De toezichthouder verbiedt een pensioenfonds bijdragen te ontvangen van een onderneming met een zetel in een andere lidstaat wanneer de toezichthouder reden heeft tot twijfel als bedoeld in [artikel 195, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=195&z=2008-08-01&g=2008-08-01), of het fonds niet beschikt over een vergunning als bedoeld in [artikel 125, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.3&artikel=125&z=2008-08-01&g=2008-08-01).
 
 2. De toezichthouder kan een fonds verbieden nog langer bijdragen te ontvangen van een bijdragende onderneming met zetel in een andere lidstaat wanneer door de bevoegde autoriteiten van de lidstaat waarvan de voor bedrijfspensioenvoorziening geldende sociale en arbeidswetgeving van toepassing is, melding heeft gemaakt van een door het fonds gemaakte inbreuk op de toepasselijke sociale en arbeidswetgeving.
 
-3. De toezichthouder legt een verbod als bedoeld in dit artikel op in de vorm van een aanwijzing als bedoeld in [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-01-01&g=2008-01-01).
+3. De toezichthouder legt een verbod als bedoeld in dit artikel op in de vorm van een aanwijzing als bedoeld in [artikel 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-08-01&g=2008-08-01).
 
 ##### Artikel 198. Maatregelen tegen inbreuk sociale en arbeidswetgeving
 
@@ -2590,21 +2656,21 @@ Het is een pensioeninstelling uit een andere lidstaat verboden bijdragen te aanv
 
 ##### Artikel 200. Informatie over toepasselijke sociale en arbeidswetgeving
 
-1. De toezichthouder informeert, binnen twee maanden na de datum van ontvangst van gegevens als bedoeld in [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=194&z=2008-01-01&g=2008-01-01), tweede lid, de bevoegde autoriteiten van de lidstaat waar de pensioeninstelling uit een andere lidstaat haar zetel heeft en die deze gegevens hebben verstrekt, over de bepalingen van de Nederlandse sociale en arbeidswetgeving die van toepassing zijn op de pensioenregeling waaraan wordt bijgedragen door de in Nederland zetel hebbende bijdragende onderneming en de [artikelen 38 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-01-01&g=2008-01-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=52&z=2008-01-01&g=2008-01-01).
+1. De toezichthouder informeert, binnen twee maanden na de datum van ontvangst van gegevens als bedoeld in [artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.2&artikel=194&z=2008-08-01&g=2008-08-01), tweede lid, de bevoegde autoriteiten van de lidstaat waar de pensioeninstelling uit een andere lidstaat haar zetel heeft en die deze gegevens hebben verstrekt, over de bepalingen van de Nederlandse sociale en arbeidswetgeving die van toepassing zijn op de pensioenregeling waaraan wordt bijgedragen door de in Nederland zetel hebbende bijdragende onderneming en de [artikelen 38 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-08-01&g=2008-08-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=52&z=2008-08-01&g=2008-08-01).
 
-2. De toezichthouder stelt de bevoegde autoriteiten, bedoeld in het eerste lid, in kennis van elke significante wijziging in de op de pensioenregeling toepasselijke sociale en arbeidswetgeving die gevolgen kan hebben voor de kenmerken van de pensioenregeling en voorts van iedere wijziging in de [artikelen 38 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-01-01&g=2008-01-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=52&z=2008-01-01&g=2008-01-01).
+2. De toezichthouder stelt de bevoegde autoriteiten, bedoeld in het eerste lid, in kennis van elke significante wijziging in de op de pensioenregeling toepasselijke sociale en arbeidswetgeving die gevolgen kan hebben voor de kenmerken van de pensioenregeling en voorts van iedere wijziging in de [artikelen 38 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-08-01&g=2008-08-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=52&z=2008-08-01&g=2008-08-01).
 
 ##### Artikel 201. Niet-naleving toepasselijke regelgeving
 
-Wanneer de toezichthouder blijkt dat een pensioeninstelling uit een andere lidstaat bij de uitvoering van een pensioenregeling waaraan wordt bijgedragen door een in Nederland zetel hebbende bijdragende onderneming in strijd met de Nederlandse sociale en arbeidswetgeving of de [artikelen 38 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-01-01&g=2008-01-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=52&z=2008-01-01&g=2008-01-01) handelt, stelt de toezichthouder de bevoegde autoriteiten van de lidstaat waar de pensioeninstelling haar zetel heeft hiervan onverwijld in kennis, onder mededeling van deze kennisgeving aan de pensioeninstelling uit een andere lidstaat.
+Wanneer de toezichthouder blijkt dat een pensioeninstelling uit een andere lidstaat bij de uitvoering van een pensioenregeling waaraan wordt bijgedragen door een in Nederland zetel hebbende bijdragende onderneming in strijd met de Nederlandse sociale en arbeidswetgeving of de [artikelen 38 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2008-08-01&g=2008-08-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=52&z=2008-08-01&g=2008-08-01) handelt, stelt de toezichthouder de bevoegde autoriteiten van de lidstaat waar de pensioeninstelling haar zetel heeft hiervan onverwijld in kennis, onder mededeling van deze kennisgeving aan de pensioeninstelling uit een andere lidstaat.
 
 ##### Artikel 202. Handhavingsbevoegdheden
 
 1. Indien een pensioeninstelling uit een andere lidstaat inbreuk blijft maken op de op de pensioenregeling toepasselijke Nederlandse sociale en arbeidswetgeving, in weerwil van de door de bevoegde autoriteiten van de lidstaat waar de pensioeninstelling uit een andere lidstaat haar zetel heeft getroffen maatregelen of omdat die bevoegde autoriteiten geen passende maatregelen hebben getroffen, kan de toezichthouder, na die bevoegde autoriteiten daarvan in kennis te hebben gesteld, passende maatregelen nemen om de inbreuk op de toepasselijke regelgeving door de pensioeninstelling te beëindigen en, voorzover zulks volstrekt noodzakelijk is, de pensioeninstelling te beletten activiteiten te verrichten voor de Nederlandse bijdragende onderneming.
 
-2. De toezichthouder kan, ter uitvoering van het eerste lid, de bevoegdheden, bedoeld in de [artikelen 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-01-01&g=2008-01-01), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=175&z=2008-01-01&g=2008-01-01) en [176](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=176&z=2008-01-01&g=2008-01-01) toepassen.
+2. De toezichthouder kan, ter uitvoering van het eerste lid, de bevoegdheden, bedoeld in de [artikelen 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-08-01&g=2008-08-01), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=175&z=2008-08-01&g=2008-08-01) en [176](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=176&z=2008-08-01&g=2008-08-01) toepassen.
 
-3. De toezichthouder kan, na toepassing van [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.3&artikel=201&z=2008-01-01&g=2008-01-01), de bevoegdheden, bedoeld in de [artikelen 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-01-01&g=2008-01-01), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=175&z=2008-01-01&g=2008-01-01) en [176](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=176&z=2008-01-01&g=2008-01-01) toepassen wanneer een pensioeninstelling uit een andere lidstaat [artikel 199](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.3&artikel=199&z=2008-01-01&g=2008-01-01) niet naleeft.
+3. De toezichthouder kan, na toepassing van [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.3&artikel=201&z=2008-08-01&g=2008-08-01), de bevoegdheden, bedoeld in de [artikelen 171](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-08-01&g=2008-08-01), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=175&z=2008-08-01&g=2008-08-01) en [176](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=176&z=2008-08-01&g=2008-08-01) toepassen wanneer een pensioeninstelling uit een andere lidstaat [artikel 199](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.3&artikel=199&z=2008-08-01&g=2008-08-01) niet naleeft.
 
 #### § 7.5. Overige taken en bevoegdheden
 
@@ -2620,13 +2686,13 @@ Wanneer de toezichthouder blijkt dat een pensioeninstelling uit een andere lidst
 
 ##### Artikel 204. Geheimhoudingsplicht
 
-1. Het is een ieder die uit hoofde van de toepassing van deze wet of van ingevolge deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge [afdeling 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.2) zijn verstrekt of verkregen of van een persoon of instantie als bedoeld in [artikel 203, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=203&z=2008-01-01&g=2008-01-01), onderscheidenlijk [205, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=205&z=2008-01-01&g=2008-01-01), zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of door deze wet wordt geëist.
+1. Het is een ieder die uit hoofde van de toepassing van deze wet of van ingevolge deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge [afdeling 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.2) zijn verstrekt of verkregen of van een persoon of instantie als bedoeld in [artikel 203, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=203&z=2008-08-01&g=2008-08-01), onderscheidenlijk [205, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=205&z=2008-08-01&g=2008-08-01), zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of door deze wet wordt geëist.
 
 2. In afwijking van het eerste lid kan de toezichthouder met gebruikmaking van vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van zijn taak op grond van deze wet, mededelingen doen, indien deze niet kunnen worden herleid tot afzonderlijke personen.
 
 ##### Artikel 205. Verstrekking gegevens of inlichtingen aan andere toezichthouders
 
-1. De toezichthouder kan, in afwijking van [artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-01-01&g=2008-01-01), vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van zijn taak op grond van deze wet, verstrekken aan de andere toezichthouder of een toezichthoudende instantie, tenzij:
+1. De toezichthouder kan, in afwijking van [artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-08-01&g=2008-08-01), vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van zijn taak op grond van deze wet, verstrekken aan de andere toezichthouder of een toezichthoudende instantie, tenzij:
 
 - a. het doel waarvoor de vertrouwelijke gegevens of inlichtingen zullen worden gebruikt onvoldoende bepaald is;
 
@@ -2650,15 +2716,15 @@ Wanneer de toezichthouder blijkt dat een pensioeninstelling uit een andere lidst
 
 - c. na overleg met Onze Minister van Justitie indien het in de aanhef bedoelde verzoek betrekking heeft op een onderzoek naar strafbare feiten.
 
-4. De Autoriteit Financiële Markten dan wel het organisatieonderdeel van de Nederlandsche Bank N.V. dat is belast met de in [artikel 151, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.1&artikel=151&z=2008-01-01&g=2008-01-01), genoemde taak kan vertrouwelijke informatie of gegevens verstrekken aan het organisatieonderdeel van de Nederlandsche Bank N.V. dat is belast met het vervullen van haar monetaire taak, voorzover de vertrouwelijke gegevens of inlichtingen dienstig zijn voor de uitoefening van die taak.
+4. De Autoriteit Financiële Markten dan wel het organisatieonderdeel van de Nederlandsche Bank N.V. dat is belast met de in [artikel 151, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.1&artikel=151&z=2008-08-01&g=2008-08-01), genoemde taak kan vertrouwelijke informatie of gegevens verstrekken aan het organisatieonderdeel van de Nederlandsche Bank N.V. dat is belast met het vervullen van haar monetaire taak, voorzover de vertrouwelijke gegevens of inlichtingen dienstig zijn voor de uitoefening van die taak.
 
 5. Het eerste tot en met derde lid is van overeenkomstige toepassing op het uitwisselen van vertrouwelijke gegevens of inlichtingen tussen de met verschillende taken belaste organisatieonderdelen van de toezichthouder.
 
 ##### Artikel 206. Verstrekking aan anderen met taak op grond van deze wet
 
-1. De toezichthouder kan, in afwijking van [artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-01-01&g=2008-01-01), vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van de hem ingevolge deze wet opgedragen taak, verstrekken aan een persoon als bedoeld in de onderdelen a, b, c, d, of e voorzover de gegevens of inlichtingen dienstig zijn voor de uitoefening van zijn taak:
+1. De toezichthouder kan, in afwijking van [artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-08-01&g=2008-08-01), vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van de hem ingevolge deze wet opgedragen taak, verstrekken aan een persoon als bedoeld in de onderdelen a, b, c, d, of e voorzover de gegevens of inlichtingen dienstig zijn voor de uitoefening van zijn taak:
 
-- a. een bewindvoerder die ingevolge [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=173&z=2008-01-01&g=2008-01-01) is benoemd;
+- a. een bewindvoerder die ingevolge [artikel 173](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=173&z=2008-08-01&g=2008-08-01) is benoemd;
 
 - b. een rechter-commissaris die ingevolge [artikel 223a van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=223a) is benoemd;
 
@@ -2674,23 +2740,23 @@ Wanneer de toezichthouder blijkt dat een pensioeninstelling uit een andere lidst
 
 - b. indien de vertrouwelijke gegevens of inlichtingen zijn verkregen van de andere toezichthouder of een toezichthoudende instantie, en deze andere toezichthouder of die toezichthoudende instantie niet instemt met het verstrekken van de vertrouwelijke gegevens of inlichtingen.
 
-3. De curator die is aangesteld in het faillissement van een pensioenuitvoerder kan, in afwijking van [artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-01-01&g=2008-01-01), vertrouwelijke gegevens of inlichtingen als bedoeld in het eerste lid verstrekken aan de rechtbank, voorzover die geen betrekking hebben op een onderneming die betrokken is of betrokken is geweest bij een poging de pensioenuitvoerder in staat te stellen zijn activiteiten voort te zetten.
+3. De curator die is aangesteld in het faillissement van een pensioenuitvoerder kan, in afwijking van [artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-08-01&g=2008-08-01), vertrouwelijke gegevens of inlichtingen als bedoeld in het eerste lid verstrekken aan de rechtbank, voorzover die geen betrekking hebben op een onderneming die betrokken is of betrokken is geweest bij een poging de pensioenuitvoerder in staat te stellen zijn activiteiten voort te zetten.
 
-4. [Artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-01-01&g=2008-01-01), laat onverlet de toepasselijkheid van de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) welke betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze wet opgedragen taak, voorzover het gaat om vertrouwelijke gegevens of inlichtingen omtrent een pensioenuitvoerder die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden. De vorige volzin is niet van toepassing op vertrouwelijke gegevens of inlichtingen die betrekking hebben op een onderneming die betrokken is of betrokken is geweest bij een poging de desbetreffende pensioenuitvoerder in staat te stellen zijn activiteiten voort te zetten.
+4. [Artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-08-01&g=2008-08-01), laat onverlet de toepasselijkheid van de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) welke betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze wet opgedragen taak, voorzover het gaat om vertrouwelijke gegevens of inlichtingen omtrent een pensioenuitvoerder die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden. De vorige volzin is niet van toepassing op vertrouwelijke gegevens of inlichtingen die betrekking hebben op een onderneming die betrokken is of betrokken is geweest bij een poging de desbetreffende pensioenuitvoerder in staat te stellen zijn activiteiten voort te zetten.
 
 ##### Artikel 207. Informatieverstrekking ten behoeve van strafvorderlijk onderzoek
 
-1. De toezichthouder kan, in afwijking van [artikel 204](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-01-01&g=2008-01-01), vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van de hem ingevolge deze wet opgedragen taak, verstrekken aan een instantie die is belast met de uitoefening van strafvorderlijke bevoegdheden of aan een deskundige die door een dergelijke instantie met een opdracht is belast, voor zover de verlangde gegevens of inlichtingen noodzakelijk zijn voor de uitvoering van die opdracht.
+1. De toezichthouder kan, in afwijking van [artikel 204](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-08-01&g=2008-08-01), vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van de hem ingevolge deze wet opgedragen taak, verstrekken aan een instantie die is belast met de uitoefening van strafvorderlijke bevoegdheden of aan een deskundige die door een dergelijke instantie met een opdracht is belast, voor zover de verlangde gegevens of inlichtingen noodzakelijk zijn voor de uitvoering van die opdracht.
 
-2. Indien de instantie, bedoeld in het eerste lid, het voornemen heeft toepassing te geven aan de bevoegdheid tot het bij de toezichthouder vorderen van de uitlevering van een voor inbeslagneming vatbaar voorwerp of aan de bevoegdheid tot het vorderen van de inzage of een afschrift van bescheiden als bedoeld in [artikel 96a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=96a), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=105) of [126a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126a), of [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=18) of [19 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=19), en de vordering betreft vertrouwelijke gegevens of inlichtingen als bedoeld in [artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-01-01&g=2008-01-01), stelt die instantie voorafgaand aan de uitoefening van haar bevoegdheid de toezichthouder in de gelegenheid zijn zienswijze hierover kenbaar te maken.
+2. Indien de instantie, bedoeld in het eerste lid, het voornemen heeft toepassing te geven aan de bevoegdheid tot het bij de toezichthouder vorderen van de uitlevering van een voor inbeslagneming vatbaar voorwerp of aan de bevoegdheid tot het vorderen van de inzage of een afschrift van bescheiden als bedoeld in [artikel 96a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=96a), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=105) of [126a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126a), of [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=18) of [19 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=19), en de vordering betreft vertrouwelijke gegevens of inlichtingen als bedoeld in [artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-08-01&g=2008-08-01), stelt die instantie voorafgaand aan de uitoefening van haar bevoegdheid de toezichthouder in de gelegenheid zijn zienswijze hierover kenbaar te maken.
 
 ##### Artikel 208. Verstrekking aan anderen
 
-1. De toezichthouder kan, in afwijking van [artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-01-01&g=2008-01-01), vertrouwelijke gegevens of inlichtingen verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak, verstrekken aan:
+1. De toezichthouder kan, in afwijking van [artikel 204, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.5&artikel=204&z=2008-08-01&g=2008-08-01), vertrouwelijke gegevens of inlichtingen verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak, verstrekken aan:
 
-- a. een accountant die het onderzoek naar de staten uitvoert, bedoeld in [artikel 147, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-01-01&g=2008-01-01), of die is belast met de wettelijke controle van de jaarrekening van een pensioenuitvoerder, voorzover de vertrouwelijke gegevens of inlichtingen betrekking hebben op die pensioenuitvoerder en noodzakelijk zijn voor de controle; of
+- a. een accountant die het onderzoek naar de staten uitvoert, bedoeld in [artikel 147, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-08-01&g=2008-08-01), of die is belast met de wettelijke controle van de jaarrekening van een pensioenuitvoerder, voorzover de vertrouwelijke gegevens of inlichtingen betrekking hebben op die pensioenuitvoerder en noodzakelijk zijn voor de controle; of
 
-- b. een actuaris die het onderzoek naar de staten uitvoert, bedoeld in [artikel 147, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-01-01&g=2008-01-01), of die is belast met de wettelijke controle van een pensioenuitvoerder, voorzover de vertrouwelijke gegevens of inlichtingen betrekking hebben op die pensioenuitvoerder en noodzakelijk zijn voor de controle.
+- b. een actuaris die het onderzoek naar de staten uitvoert, bedoeld in [artikel 147, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-08-01&g=2008-08-01), of die is belast met de wettelijke controle van een pensioenuitvoerder, voorzover de vertrouwelijke gegevens of inlichtingen betrekking hebben op die pensioenuitvoerder en noodzakelijk zijn voor de controle.
 
 2. De toezichthouder verstrekt geen vertrouwelijke gegevens of inlichtingen op grond van het eerste lid indien:
 
@@ -2730,9 +2796,9 @@ De toezichthouder is verplicht nauw samen te werken met de Europese Commissie en
 
 ##### Artikel 212. Ontheffing
 
-1. De toezichthouder kan desgevraagd in bijzondere gevallen van het bepaalde bij of krachtens [artikel 147, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-01-01&g=2008-01-01), ontheffing verlenen, indien hij van oordeel is, dat de belangen van de personen die betrokken zijn bij een pensioenregeling voldoende gewaarborgd zijn.
+1. De toezichthouder kan desgevraagd in bijzondere gevallen van het bepaalde bij of krachtens [artikel 147, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=6&artikel=147&z=2008-08-01&g=2008-08-01), ontheffing verlenen, indien hij van oordeel is, dat de belangen van de personen die betrokken zijn bij een pensioenregeling voldoende gewaarborgd zijn.
 
-2. De toezichthouder kan desgevraagd in bijzondere gevallen van het bepaalde bij of krachtens de [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=99&z=2008-01-01&g=2008-01-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=100&z=2008-01-01&g=2008-01-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=101&z=2008-01-01&g=2008-01-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=109&z=2008-01-01&g=2008-01-01) en [110](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=110&z=2008-01-01&g=2008-01-01) ontheffing verlenen, indien het pensioenfonds ook pensioenregelingen uitvoert waarop de sociale en arbeidswetgeving van een andere lidstaat van toepassing is.
+2. De toezichthouder kan desgevraagd in bijzondere gevallen van het bepaalde bij of krachtens de [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=99&z=2008-08-01&g=2008-08-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=100&z=2008-08-01&g=2008-08-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=101&z=2008-08-01&g=2008-08-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=109&z=2008-08-01&g=2008-08-01) en [110](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=110&z=2008-08-01&g=2008-08-01) ontheffing verlenen, indien het pensioenfonds ook pensioenregelingen uitvoert waarop de sociale en arbeidswetgeving van een andere lidstaat van toepassing is.
 
 3. De ontheffing wordt verleend bij beschikking.
 
@@ -2762,7 +2828,7 @@ De toezichthouder is verplicht nauw samen te werken met de Europese Commissie en
 
 ##### Artikel 215. Strafrechtelijke sanctionering
 
-1. Overtreding van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-01-01&g=2008-01-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=102&z=2008-01-01&g=2008-01-01), [167](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=167&z=2008-01-01&g=2008-01-01), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=169&z=2008-01-01&g=2008-01-01), [170, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=170&z=2008-01-01&g=2008-01-01), en [172, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=172&z=2008-01-01&g=2008-01-01), wordt gestraft met een geldboete van de tweede categorie. Overtreding van [artikel 171, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-01-01&g=2008-01-01), wordt gestraft met een geldboete van de vierde categorie.
+1. Overtreding van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2008-08-01&g=2008-08-01), [102](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.1&artikel=102&z=2008-08-01&g=2008-08-01), [167](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=167&z=2008-08-01&g=2008-08-01), [169](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=169&z=2008-08-01&g=2008-08-01), [170, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=170&z=2008-08-01&g=2008-08-01), en [172, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=172&z=2008-08-01&g=2008-08-01), wordt gestraft met een geldboete van de tweede categorie. Overtreding van [artikel 171, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=171&z=2008-08-01&g=2008-08-01), wordt gestraft met een geldboete van de vierde categorie.
 
 2. Met een geldboete van de tweede categorie wordt gestraft overtreding van voorschriften, krachtens deze wet bij algemene maatregel van bestuur gegeven, voor zover uitdrukkelijk als strafbaar feit in de zin dezer wet aangeduid.
 
@@ -2778,7 +2844,7 @@ Zaken betreffende vorderingen uit hoofde van een pensioenovereenkomst, een uitvo
 
 ##### Artikel 217. Beroep deelnemersraad bij ondernemingskamer
 
-1. De deelnemersraad kan bij de ondernemingskamer van het gerechtshof te Amsterdam beroep instellen tegen een besluit betreffende een aangelegenheid als bedoeld in [artikel 111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=111&z=2008-01-01&g=2008-01-01), indien:
+1. De deelnemersraad kan bij de ondernemingskamer van het gerechtshof te Amsterdam beroep instellen tegen een besluit betreffende een aangelegenheid als bedoeld in [artikel 111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=111&z=2008-08-01&g=2008-08-01), indien:
 
 - a. de deelnemersraad met betrekking tot dat besluit niet voorafgaand in de gelegenheid is gesteld advies uit te brengen;
 
@@ -2812,13 +2878,13 @@ Zaken betreffende vorderingen uit hoofde van een pensioenovereenkomst, een uitvo
 
 ##### Artikel 218. Beroep geleding deelnemersraad bij ondernemingskamer
 
-1. Een geleding binnen de deelnemersraad kan bij de ondernemingskamer van het gerechtshof te Amsterdam beroep instellen tegen een besluit als bedoeld in [artikel 111, tweede lid, onderdeel f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=111&z=2008-01-01&g=2008-01-01), van het pensioenfonds, wanneer dat besluit niet in overeenstemming is met het advies van de deelnemersraad.
+1. Een geleding binnen de deelnemersraad kan bij de ondernemingskamer van het gerechtshof te Amsterdam beroep instellen tegen een besluit als bedoeld in [artikel 111, tweede lid, onderdeel f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=5&paragraaf=5.2&artikel=111&z=2008-08-01&g=2008-08-01), van het pensioenfonds, wanneer dat besluit niet in overeenstemming is met het advies van de deelnemersraad.
 
-2. [Artikel 217, tweede tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=8&paragraaf=8.1&artikel=217&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+2. [Artikel 217, tweede tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=8&paragraaf=8.1&artikel=217&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing.
 
 ##### Artikel 219. Enquêterecht
 
-1. Het verantwoordingsorgaan, bedoeld in [artikel 33, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=33&z=2008-01-01&g=2008-01-01), kan een verzoek in het kader van het recht van enquête, bedoeld in [afdeling 2 van titel 8 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=2), indienen bij de ondernemingskamer van het gerechtshof te Amsterdam indien voorafgaand aan de indiening van dat verzoek het intern toezicht, bedoeld in [artikel 33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=33&z=2008-01-01&g=2008-01-01), zich daarover heeft uitgesproken.
+1. Het verantwoordingsorgaan, bedoeld in [artikel 33, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=33&z=2008-08-01&g=2008-08-01), kan een verzoek in het kader van het recht van enquête, bedoeld in [afdeling 2 van titel 8 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=2), indienen bij de ondernemingskamer van het gerechtshof te Amsterdam indien voorafgaand aan de indiening van dat verzoek het intern toezicht, bedoeld in [artikel 33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&hoofdstuk=4&paragraaf=4.1&artikel=33&z=2008-08-01&g=2008-08-01), zich daarover heeft uitgesproken.
 
 2. De [artikelen 346 tot en met 359 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=346) zijn van overeenkomstige toepassing.
 
