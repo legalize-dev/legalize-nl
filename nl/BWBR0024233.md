@@ -4,7 +4,7 @@ identifier: "BWBR0024233"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-09-27"
-last_updated: "2008-01-01"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024233"
 soort: "AMvB"
@@ -38,35 +38,35 @@ entry_into_force: "2008-08-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit ex artikel 37 van de Wet op de economische delicten.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Aanwijzingsbesluit economische noodwetgeving.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit accijns.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit eisen zedelijk gedrag Drank- en Horecawet 1999.
 
 ##### Artikel IX
 
@@ -74,7 +74,7 @@ Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen.
 
 ##### Artikel XI
 
@@ -82,15 +82,21 @@ Wijzigt het Besluit vrijstelling energiebelasting op elektriciteit bij convenant
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Gedurende vijf jaar na inwerkingtreding van dit besluit wordt voor de toepassing van [artikel 4 van het Besluit eisen zedelijk gedrag Drank- en Horecawet 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010673&artikel=4) een onherroepelijke veroordeling tot een onvoorwaardelijke geldboete van € 500 of meer of tot een andere hoofdstraf als bedoeld in [artikel 9, onderdeel a, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9) wegens dan wel mede wegens overtreding van bepalingen van de [Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632), voor zover het alcoholhoudende dranken betreft, aangemerkt als een onherroepelijke veroordeling wegens dan wel mede wegens overtreding van bepalingen van de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746).
+
+2. Gedurende vijf jaar na inwerkingtreding van dit besluit wordt voor de toepassing van [artikel 3 van het Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&artikel=3) een onherroepelijke veroordeling, al dan niet met toepassing van [artikel 51 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51), wegens het herhaaldelijk of ernstig overtreden van de [artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=9), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=11), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=14), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=17), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=32), [44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=44), [45 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=45), [48, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=48), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=50) of [51 van de Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632&artikel=51), aangemerkt als een onherroepelijke veroordeling wegens het herhaaldelijk of ernstig overtreden van de [artikelen 1:11](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:11), [1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23), [1:27](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:27), [1:28](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:28), [1:32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:32), [10:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:1), [10:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:2), [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:4), [10:5, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:5), of [10:9 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:9).
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking op het tijdstip waarop de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) in werking treedt.
+
+2. In afwijking van het eerste lid werken de [artikelen IX, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024233&artikel=IX&z=2008-08-01&g=2008-08-01), en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0024233&artikel=XI&z=2008-08-01&g=2008-08-01) terug tot en met 1 januari 2008.
+
+3. In afwijking van het eerste lid werkt [artikel IX, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024233&artikel=IX&z=2008-08-01&g=2008-08-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Aanpassingsbesluit Algemene douanewet.
 
 Op de voordracht van de staatssecretaris van Financiën van 8 februari 2008, nr. DV2007/958M, gedaan mede namens de staatssecretaris van Economische Zaken;
 
