@@ -4,7 +4,7 @@ identifier: "BWBR0009234"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-12-01"
-last_updated: "2008-05-01"
+last_updated: "2008-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009234"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze beschikking wordt verstaan onder:
 
 - d. het aanwezig hebben van kansspelautomaten in de onder a. tot en met c. bedoelde casino’s.
 
-2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=3&z=2008-05-01&g=2008-05-01) vervatte voorschriften verbonden.
+2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=3&z=2008-08-01&g=2008-08-01) vervatte voorschriften verbonden.
 
 ##### Artikel 3
 
@@ -102,7 +102,7 @@ Ten aanzien van activiteiten van de stichting die betrekking hebben op buitenlan
 
 2. De stichting stelt een spelreglement op betreffende de wijze waarop de in het eerste lid bedoelde casinospelen worden gespeeld.
 
-3. In de speelcasino’s kunnen ook andere casinospelen dan de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2008-05-01&g=2008-05-01), bedoelde casinospelen worden georganiseerd teneinde de exploitatiemogelijkheden hiervan te beproeven. Van de voorgenomen proefopstelling wordt voor de plaatsing door de stichting mededeling gedaan aan de minister, in afschrift aan het college.
+3. In de speelcasino’s kunnen ook andere casinospelen dan de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2008-08-01&g=2008-08-01), bedoelde casinospelen worden georganiseerd teneinde de exploitatiemogelijkheden hiervan te beproeven. Van de voorgenomen proefopstelling wordt voor de plaatsing door de stichting mededeling gedaan aan de minister, in afschrift aan het college.
 
 4. De proefperiode bedraagt ten hoogste een jaar. Uiterlijk drie maanden voor het verstrijken van de periode wordt door de stichting aan de minister en in afschrift aan het college verslag gedaan van de bevindingen inzake de proefopstelling.
 
@@ -112,9 +112,9 @@ Ten aanzien van activiteiten van de stichting die betrekking hebben op buitenlan
 
 ##### Artikel 5
 
-1. De inzet per speelkans bij de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2008-05-01&g=2008-05-01) bedoelde casinospelen varieert van € 5,- tot € 10.000,-.
+1. De inzet per speelkans bij de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2008-08-01&g=2008-08-01) bedoelde casinospelen varieert van € 5,- tot € 10.000,-.
 
-2. De stichting draagt in elk speelcasino afzonderlijk zorg voor ten minste één casinospel als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2008-05-01&g=2008-05-01), waarbij de minimuminzet niet meer dan € 5,- bedraagt.
+2. De stichting draagt in elk speelcasino afzonderlijk zorg voor ten minste één casinospel als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2008-08-01&g=2008-08-01), waarbij de minimuminzet niet meer dan € 5,- bedraagt.
 
 3. In afwijking van het eerste lid zal de stichting in elk casino één of meer casinospelen aanbieden, waarbij de inzet € 2,- of lager is;
 
@@ -194,11 +194,11 @@ Ten aanzien van activiteiten van de stichting die betrekking hebben op buitenlan
 
 8. Meerdere kansspelautomaten kunnen worden bestuurd door één centraal computersysteem, waarbij het proces door de speler in werking wordt gesteld.
 
-9. Het is de stichting toegestaan tijdens te organiseren toernooien kansspelautomaten tijdelijk aan te bieden in toernooivorm, volgens door de stichting op te stellen regels, welke voldoen aan de eisen van [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=8&z=2008-05-01&g=2008-05-01), en i en het tweede lid van de beschikking.
+9. Het is de stichting toegestaan tijdens te organiseren toernooien kansspelautomaten tijdelijk aan te bieden in toernooivorm, volgens door de stichting op te stellen regels, welke voldoen aan de eisen van [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=8&z=2008-08-01&g=2008-08-01), en i en het tweede lid van de beschikking.
 
 De overige bepalingen van lid 8 zijn niet van toepassing. De regels zijn ter inzage voor de bezoekers van het speelcasino en dienen ter kennis te worden gebracht van het college.
 
-10. Het is de stichting toegestaan ‘altijd-prijs-automaten’ aan te bieden voor promotionele doeleinden, volgens door de stichting op te stellen regels, waarbij de speler geen inzet behoeft te doen anders dan met uitgereikte penning en waarbij de uitkering geschiedt in de vorm van prijzen in natura. De maximumhoogte van een te winnen prijs in natura wordt vastgesteld op € 150,- [Artikel 8, eerste lid, onder d, e, f en j](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=8&z=2008-05-01&g=2008-05-01), is niet van toepassing. De regels zijn ter inzage voor de bezoekers van het speelcasino en dienen ter kennisneming te worden toegezonden aan het college.
+10. Het is de stichting toegestaan ‘altijd-prijs-automaten’ aan te bieden voor promotionele doeleinden, volgens door de stichting op te stellen regels, waarbij de speler geen inzet behoeft te doen anders dan met uitgereikte penning en waarbij de uitkering geschiedt in de vorm van prijzen in natura. De maximumhoogte van een te winnen prijs in natura wordt vastgesteld op € 150,- [Artikel 8, eerste lid, onder d, e, f en j](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=8&z=2008-08-01&g=2008-08-01), is niet van toepassing. De regels zijn ter inzage voor de bezoekers van het speelcasino en dienen ter kennisneming te worden toegezonden aan het college.
 
 11. In afwijking van het gestelde in het eerste lid, onder d en j, is het de stichting tevens toegestaan inworp en uitbetaling te doen plaatsvinden in de vorm van tegoeden op een geldige door de stichting uitgegeven chipkaart, waarbij de stichting de volgende voorschriften in acht neemt:
 
@@ -224,7 +224,7 @@ Het is de stichting toegestaan ten behoeve van promotionele acties extra prijzen
 
 ##### Artikel 9b
 
-1. De stichting kan bij casinospelen of kansspelautomaten prijzen in annuïteiten uitkeren, mits het uit te keren prijsbedrag wordt gekapitaliseerd in een contante waarde en de aanspraak daarop wordt ondergebracht bij een financiële instelling als bedoeld in de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330).
+1. De stichting kan bij casinospelen of kansspelautomaten prijzen in annuïteiten uitkeren, mits het uit te keren prijsbedrag wordt gekapitaliseerd in een contante waarde en de aanspraak daarop wordt ondergebracht bij een instelling als bedoeld in [artikel 1, eerste lid, onder 1°, 2° of 3°, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1).
 
 2. Het uitloven van prijzen in annuïteiten is slechts toegestaan indien de speler de keuze heeft om bij soortgelijke casinospelen of kansspelautomaten mee te dingen naar prijzen in geld of in natura met een vergelijkbare waarde als de prijzen in annuïteiten.
 
@@ -288,7 +288,7 @@ Het entreebewijs wordt door de stichting slechts afgegeven nadat de identiteit e
 
 - c. adviseurs van de stichting;
 
-- d. de door de minister overeenkomstig [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=7&z=2008-05-01&g=2008-05-01), aangewezen onafhankelijke deskundige of keuringsinstelling, alsmede de personen in dienst van de keuringsinstelling die zijn belast met goedkeuring en controle als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=7&z=2008-05-01&g=2008-05-01);
+- d. de door de minister overeenkomstig [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=7&z=2008-08-01&g=2008-08-01), aangewezen onafhankelijke deskundige of keuringsinstelling, alsmede de personen in dienst van de keuringsinstelling die zijn belast met goedkeuring en controle als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=7&z=2008-08-01&g=2008-08-01);
 
 - e. de instelling aangewezen bij beschikking van 25 april 1989, Stcrt.82, en de personen aangewezen bij beschikking van 1 juni 1989, Stcrt. 214;
 
@@ -326,7 +326,7 @@ Het entreebewijs wordt door de stichting slechts afgegeven nadat de identiteit e
 
 ##### Artikel 18
 
-1. Onder de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=17&z=2008-05-01&g=2008-05-01) bedoelde netto-opbrengst van de speelcasino’s worden mede begrepen de door het speelzaalpersoneel ontvangen fooien.
+1. Onder de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=17&z=2008-08-01&g=2008-08-01) bedoelde netto-opbrengst van de speelcasino’s worden mede begrepen de door het speelzaalpersoneel ontvangen fooien.
 
 2. In de administratie van het betrokken speelcasino wordt een afzonderlijke rekening aangehouden voor de vermelding van het volledig bedrag van de ontvangen en aan het speelzaalpersoneel uitbetaalde fooien.
 
