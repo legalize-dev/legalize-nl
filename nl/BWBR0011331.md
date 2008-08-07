@@ -4,7 +4,7 @@ identifier: "BWBR0011331"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-08-07"
-last_updated: "2000-05-05"
+last_updated: "2008-08-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011331"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ Doel, verantwoordelijkheid, bevoegdheden en de wijze van gebruik met betrekking 
 
 ##### Artikel 3. (Auteurs- en databankrechtelijk voorbehoud)
 
-1. Het recht op de databank, bedoeld in [artikel 10, derde lid, Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10), wordt overeenkomstig [artikel 15, onder b, Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15) uitdrukkelijk voorbehouden.
+1. Het recht op de databank, bedoeld in [artikel 10, derde lid, Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10), wordt overeenkomstig [artikel 15, onder b, Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15) uitdrukkelijk voorbehouden.
 
-2. Het recht bedoeld in artikel 2 Databankenwet wordt overeenkomstig artkel 8, [tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010591), [Databankenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010591) uitdrukkelijk voorbehouden.
+2. Het recht bedoeld in [artikel 2 Databankenwet](onbekend) wordt overeenkomstig [artkel 8, tweede lid, Databankenwet](onbekend) uitdrukkelijk voorbehouden.
 
 ##### Artikel 4. (Inwerkingtreding)
 
