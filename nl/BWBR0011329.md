@@ -4,7 +4,7 @@ identifier: "BWBR0011329"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-08-07"
-last_updated: "2000-05-03"
+last_updated: "2008-08-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011329"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-De Staat der Nederlanden (Ministerie van Financiën) maakt een voorbehoud als bedoeld in [artikel 15b van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b) met betrekking tot het ontwerp van de voor- en de keerzijde van de vijfguldenmunt ter gelegenheid van het Europees kampioenschap voetbal, als opgenomen in de bijlage bij deze regeling.
+De Staat der Nederlanden (Ministerie van Financiën) maakt een voorbehoud als bedoeld in [artikel 15b van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b) met betrekking tot het ontwerp van de voor- en de keerzijde van de vijfguldenmunt ter gelegenheid van het Europees kampioenschap voetbal, als opgenomen in de bijlage bij deze regeling.
 
 ##### Artikel 2
 
