@@ -4,7 +4,7 @@ identifier: "BWBR0024004"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-08-07"
-last_updated: "2008-06-20"
+last_updated: "2008-08-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024004"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De Staat der Nederlanden (Ministerie van Algemene Zaken) maakt een voorbehoud als bedoeld in [artikel 15b van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b) met betrekking tot het ontwerp van het van nu af aan algemeen geldend Rijkslogo en huisstijl, als opgenomen in de bijlage bij deze regeling.
+De Staat der Nederlanden (Ministerie van Algemene Zaken) maakt een voorbehoud als bedoeld in [artikel 15b van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b) met betrekking tot het ontwerp van het van nu af aan algemeen geldend Rijkslogo en huisstijl, als opgenomen in de bijlage bij deze regeling.
 
 ##### Artikel 2
 
