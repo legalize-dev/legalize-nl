@@ -4,7 +4,7 @@ identifier: "BWBR0010050"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-08-07"
-last_updated: "1998-12-05"
+last_updated: "2008-08-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010050"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ Gelet op [artikel 15b Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 1
 
-Met betrekking tot de ontwerpen van de Nederlandse zijde van de euromunten, als opgenomen in de bijlage bij deze regeling, maakt de Staat der Nederlanden (Ministerie van Financiën) een voorbehoud als bedoeld in [artikel 15b Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b).
+Met betrekking tot de ontwerpen van de Nederlandse zijde van de euromunten, als opgenomen in de bijlage bij deze regeling, maakt de Staat der Nederlanden (Ministerie van Financiën) een voorbehoud als bedoeld in [artikel 15b Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b).
 
 ##### Artikel 2
 
