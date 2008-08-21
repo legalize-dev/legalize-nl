@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2008-07-30"
+last_updated: "2008-08-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -142,7 +142,11 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 5°. de EUFOR DRC missie, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de Democratische Republiek Congo en de Republiek Gabon vanaf mei 2006;
 
-- 6°. de EU politie - en Rule of Law missie ‘EUPOL-Afghanistan’, voor zover deze deelname heeft plaatsgehad op het grondgebied van de republiek Afghanistan, vanaf juni 2007: EU OPERATIES;
+- 6°. de EU politie - en Rule of Law missie ‘EUPOL-Afghanistan’, voor zover deze deelname heeft plaatsgehad op het grondgebied van de republiek Afghanistan, vanaf juni 2007;
+
+- 7°. de EU Rule of Law missie in Kosovo ‘EULEX Kosovo’, voor zover deze deelname heeft plaatsgehad op het grondgebied in KOSOVO vanaf 16 februari 2008;
+
+- 8°. de EU-operatie ‘EUFOR Tchad/RCA’, voor zover deze deelname heeft plaatsgehad in de regio Oost Tsjaad, grenzend aan Darfur en het noorden van de Centraal Afrikaanse Republiek vanaf mei 2008: EU OPERATIES;
 
 - ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa:
 
@@ -154,7 +158,13 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 1°. de African Union Mission in Sudan, ‘AMIS’, voor zover deze deelname heeft plaatsgehad op en rondom het grondgebied van en in het luchtruim boven Sudan vanaf juni 2005;
 
-- 2°. het International Military Advisory Team in Sudan, ‘IMAT’, voor zover deze deelname heeft plaatsgehad op en rondom het grondgebied van en in het luchtruim boven Sudan vanaf november 2005: MULTINATIONALE OPERATIES.
+- 2°. het International Military Advisory Team in Sudan, ‘IMAT’, voor zover deze deelname heeft plaatsgehad op en rondom het grondgebied van en in het luchtruim boven Sudan vanaf november 2005: MULTINATIONALE OPERATIES;
+
+- hh. voor deelname aan SSR operaties van Nederland:
+
+- 1°. SSR Burundi, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi vanaf januari 2007;
+
+- 2°. SSR LAF, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Libanon vanaf januari 2008: NL SSR OPERATIES.
 
 ##### Artikel 2
 
