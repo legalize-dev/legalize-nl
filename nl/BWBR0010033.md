@@ -4,7 +4,7 @@ identifier: "BWBR0010033"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-08"
-last_updated: "2007-09-01"
+last_updated: "2008-08-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010033"
 soort: "ministeriele-regeling"
@@ -44,19 +44,19 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 15.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), zijn, voor zover het de bevoegdheden betreft van de Minister van Economische Zaken, belast de ambtenaren met de functiebenamingen inspecteur, medewerker handhaving en senior medewerker handhaving van de afdeling Toezicht van Agentschap Telecom van het ministerie van Economische Zaken.
+1. Met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 15.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), met uitzondering van de onderdelen e en h, zijn, voor zover het de bevoegdheden betreft van de Minister van Economische Zaken, belast de ambtenaren met de functiebenamingen inspecteur, medewerker handhaving en senior medewerker handhaving van de afdeling Toezicht van Agentschap Telecom van het ministerie van Economische Zaken.
 
-2. Met het toezicht op de bepalingen, bedoeld in [artikel 15.1, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), zijn belast de ambtenaren van de directie markt en ordening, die behoren tot het cluster communicatieregelgeving van het directoraat-generaal Telecommunicatie en Post met uitzondering van de secretariaatsmedewerkers.
+2. Met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 15.1, eerste lid, onder e en h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), zijn belast de senior beleidsmedewerkers van de directie Telecommarkt van het directoraat-generaal voor Energie en Telecom.
 
-3. Met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 15.1, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), voor zover het betreft [artikel 18.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.9) zijn belast ambtenaren van de directie markt en ordening, die behoren tot het cluster veiligheid en kwaliteit van het directoraat-generaal Telecommunicatie en Post met uitzondering van de secretariaatsmedewerkers.
+3. Met het toezicht op de naleving van bepalingen, bedoeld in [artikel 15.1, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), voor zover het betreft [artikel 18.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.9), zijn tevens belast de senior beleidsmedewerkers van de directie Telecommarkt van het directoraat-generaal voor Energie en Telecom.
 
-4. De in het eerste tot en met het derde lid aangewezen ambtenaren zijn belast met het toezicht op de naleving, bedoeld in [artikel 15.1, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), voorzover het betreft [artikel 18.7, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.7).
+4. De in het eerste tot en met het derde lid aangewezen ambtenaren zijn belast met het toezicht op de naleving, bedoeld in [artikel 15.1, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), voorzover het betreft [artikel 18.7, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.7).
 
-5. Met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 15.1, eerste lid, onder a en e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1) zijn voorts belast de ambtenaren, bedoeld in [artikel 3, eerste lid, onder a, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) van:
+5. Met het toezicht op de bepalingen, bedoeld in [artikel 15.1, eerste lid, onder a en f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1) zijn voorts belast de ambtenaren, bedoeld in [artikel 3, eerste lid, onder a, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), van:
 
-- a. de dienst Waterpolitie van het Korps landelijke politiediensten;
+- a. de dienst Waterpolitie van het Korps landelijke politiediensten; en
 
-- b. het regionale politiekorps Rotterdam-Rijnmond.
+- b. dienst zeehavenpolitie van het regionale politiekorps Rotterdam-Rijnmond.
 
 ##### Artikel 3
 
