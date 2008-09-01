@@ -4,7 +4,7 @@ identifier: "BWBR0008900"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-04-01"
-last_updated: "1997-09-26"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008900"
 soort: "AMvB"
@@ -48,15 +48,15 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buitengewone omstandigheden de ambtenaar van de burgerlijke stand van de gemeente, waar een persoon is geboren of overleden, ontbreekt of niet bereikbaar is, kan een voorlopige akte van geboorte of overlijden worden opgemaakt buiten de registers van de burgerlijke stand door een ambtenaar van de burgerlijke stand van een andere gemeente, een buitengewoon ambtenaar van de burgerlijke stand, de burgemeester, de secretaris of een wethouder van de gemeente waar de geboorte of het overlijden plaatsvond, een notaris, of een ten kantore van een notaris werkzame kandidaat-notaris, een advocaat, een procureur, een door Onze Minister van Defensie aangewezen officier van de krijgsmacht of een door Onze Minister van Justitie aangewezen ambtenaar.
+1. Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buitengewone omstandigheden de ambtenaar van de burgerlijke stand van de gemeente, waar een persoon is geboren of overleden, ontbreekt of niet bereikbaar is, kan een voorlopige akte van geboorte of overlijden worden opgemaakt buiten de registers van de burgerlijke stand door een ambtenaar van de burgerlijke stand van een andere gemeente, een buitengewoon ambtenaar van de burgerlijke stand, de burgemeester, de secretaris of een wethouder van de gemeente waar de geboorte of het overlijden plaatsvond, een notaris, of een ten kantore van een notaris werkzame kandidaat-notaris, een advocaat, een door Onze Minister van Defensie aangewezen officier van de krijgsmacht of een door Onze Minister van Justitie aangewezen ambtenaar.
 
 2. De in het eerste lid bedoelde persoon die de akte opmaakt, beoordeelt of de daar vermelde omstandigheden zich voordoen.
 
-3. Hij neemt bij het opmaken van de akte, zoveel als het naar zijn oordeel mogelijk is, de bepalingen van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=4&z=1997-09-26&g=1997-09-26) tot en met [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=9&z=1997-09-26&g=1997-09-26), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=11&z=1997-09-26&g=1997-09-26), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=13&z=1997-09-26&g=1997-09-26) en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=14&z=1997-09-26&g=1997-09-26), in acht.
+3. Hij neemt bij het opmaken van de akte, zoveel als het naar zijn oordeel mogelijk is, de bepalingen van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=4&z=2008-09-01&g=2008-09-01) tot en met [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=9&z=2008-09-01&g=2008-09-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=11&z=2008-09-01&g=2008-09-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=13&z=2008-09-01&g=2008-09-01) en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=14&z=2008-09-01&g=2008-09-01), in acht.
 
 ##### Artikel 2
 
-Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buitengewone omstandigheden de ambtenaar van de burgerlijke stand van de gemeente waar een persoon is geboren of overleden, naar zijn oordeel verhinderd wordt overeenkomstig de bepalingen van het Burgerlijk Wetboek een akte van geboorte of overlijden in de registers op te nemen, maakt hij buiten die registers een voorlopige akte op, waarbij hij voor het overige, zoveel als het naar zijn oordeel mogelijk is, de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=4&z=1997-09-26&g=1997-09-26) tot en met [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=9&z=1997-09-26&g=1997-09-26), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=11&z=1997-09-26&g=1997-09-26), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=13&z=1997-09-26&g=1997-09-26) en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=14&z=1997-09-26&g=1997-09-26), in acht neemt.
+Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buitengewone omstandigheden de ambtenaar van de burgerlijke stand van de gemeente waar een persoon is geboren of overleden, naar zijn oordeel verhinderd wordt overeenkomstig de bepalingen van het Burgerlijk Wetboek een akte van geboorte of overlijden in de registers op te nemen, maakt hij buiten die registers een voorlopige akte op, waarbij hij voor het overige, zoveel als het naar zijn oordeel mogelijk is, de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=4&z=2008-09-01&g=2008-09-01) tot en met [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=9&z=2008-09-01&g=2008-09-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=11&z=2008-09-01&g=2008-09-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=13&z=2008-09-01&g=2008-09-01) en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=14&z=2008-09-01&g=2008-09-01), in acht neemt.
 
 ##### Artikel 3
 
@@ -64,7 +64,7 @@ Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buiteng
 
 2. De in het eerste lid bedoelde militair die de voorlopige akte opmaakt, beoordeelt of de daar bedoelde omstandigheden zich voordoen.
 
-3. Hij neemt bij het opmaken van de voorlopige akte, zoveel als het naar zijn oordeel mogelijk is, de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=4&z=1997-09-26&g=1997-09-26) tot en met [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=8&z=1997-09-26&g=1997-09-26), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=11&z=1997-09-26&g=1997-09-26) en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=14&z=1997-09-26&g=1997-09-26), in acht.
+3. Hij neemt bij het opmaken van de voorlopige akte, zoveel als het naar zijn oordeel mogelijk is, de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=4&z=2008-09-01&g=2008-09-01) tot en met [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=8&z=2008-09-01&g=2008-09-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=11&z=2008-09-01&g=2008-09-01) en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=14&z=2008-09-01&g=2008-09-01), in acht.
 
 4. Hij kan de voorlopige akte van overlijden ook opmaken indien van het overlijden geen aangifte is gedaan, doch het overlijden blijkt uit een rapport, afkomstig van het met berging, identificatie en begraven belaste onderdeel van de krijgsmacht.
 
@@ -74,7 +74,7 @@ Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buiteng
 
 2. Het is verboden overschrijvingen en tussenvoegingen te doen, alsmede woorden, letters, cijfers of leestekens op enigerlei wijze te laten verdwijnen.
 
-3. De akte wordt ondertekend door de aangever, behalve in het geval van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=3&z=1997-09-26&g=1997-09-26), en door degene die haar heeft opgemaakt. Zo mogelijk leest degene die de akte heeft opgemaakt haar, voor de ondertekening plaatsvindt, aan de aangever voor.
+3. De akte wordt ondertekend door de aangever, behalve in het geval van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=3&z=2008-09-01&g=2008-09-01), en door degene die haar heeft opgemaakt. Zo mogelijk leest degene die de akte heeft opgemaakt haar, voor de ondertekening plaatsvindt, aan de aangever voor.
 
 ##### Artikel 5
 
@@ -102,7 +102,7 @@ In de voorlopige akten worden opgenomen:
 
 - b). de plaats en de dag waarop de akte is opgemaakt;
 
-- c). de handtekeningen van degene die de akte heeft opgemaakt en van de aangever, behalve in het geval, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=3&z=1997-09-26&g=1997-09-26).
+- c). de handtekeningen van degene die de akte heeft opgemaakt en van de aangever, behalve in het geval, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=3&z=2008-09-01&g=2008-09-01).
 
 ##### Artikel 8
 
@@ -192,15 +192,15 @@ Degene die de voorlopige akte van geboorte opmaakt, stelt zo mogelijk de identit
 
 ##### Artikel 12
 
-1. Op de akte van aangifte van een kind dat levenloos ter wereld is gekomen, is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=9&z=1997-09-26&g=1997-09-26) van overeenkomstige toepassing, met dien verstande dat de akte alleen een geslachtsnaam en voornamen vermeldt voor zover de ouders dit wensen.
+1. Op de akte van aangifte van een kind dat levenloos ter wereld is gekomen, is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=9&z=2008-09-01&g=2008-09-01) van overeenkomstige toepassing, met dien verstande dat de akte alleen een geslachtsnaam en voornamen vermeldt voor zover de ouders dit wensen.
 
-2. Wanneer een pasgeboren kind overlijdt voordat aangifte van geboorte heeft plaatsgevonden, wordt zowel een voorlopige akte van geboorte als een voorlopige akte van overlijden opgemaakt overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=9&z=1997-09-26&g=1997-09-26) respectievelijk [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=11&z=1997-09-26&g=1997-09-26).
+2. Wanneer een pasgeboren kind overlijdt voordat aangifte van geboorte heeft plaatsgevonden, wordt zowel een voorlopige akte van geboorte als een voorlopige akte van overlijden opgemaakt overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=9&z=2008-09-01&g=2008-09-01) respectievelijk [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=11&z=2008-09-01&g=2008-09-01).
 
 ##### Artikel 13
 
 1. De voorlopige akten worden door de in de voorgaande artikelen genoemde personen in tweevoud opgemaakt, zorgvuldig bewaard en in volgorde van de datum van opmaken gerangschikt.
 
-2. Zodra daartoe de mogelijkheid bestaat wordt een exemplaar van de voorlopige akte van overlijden gezonden aan de ambtenaar van de burgerlijke stand waar het overlijden heeft plaatsgevonden, of, indien het overlijden buiten Nederland heeft plaatsgevonden, van de gemeente 's-Gravenhage, en, indien het betreft een voorlopige akte van geboorte of een akte als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=13&z=1997-09-26&g=1997-09-26), aan de ambtenaar van de burgerlijke stand van de geboorteplaats. De voorlopige akte die is opgemaakt door een tot de krijgsmacht behorende persoon, wordt door tussenkomst van Onze Minister van Defensie aan de ambtenaar van de burgerlijke stand gezonden.
+2. Zodra daartoe de mogelijkheid bestaat wordt een exemplaar van de voorlopige akte van overlijden gezonden aan de ambtenaar van de burgerlijke stand waar het overlijden heeft plaatsgevonden, of, indien het overlijden buiten Nederland heeft plaatsgevonden, van de gemeente 's-Gravenhage, en, indien het betreft een voorlopige akte van geboorte of een akte als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=13&z=2008-09-01&g=2008-09-01), aan de ambtenaar van de burgerlijke stand van de geboorteplaats. De voorlopige akte die is opgemaakt door een tot de krijgsmacht behorende persoon, wordt door tussenkomst van Onze Minister van Defensie aan de ambtenaar van de burgerlijke stand gezonden.
 
 3. De ambtenaar van de burgerlijke stand maakt in het desbetreffende register een akte op aan de hand van de voorlopige akte, met dien verstande dat hij gegevens die ontbreken of hem blijken onjuist te zijn, zoveel mogelijk aanvult of verbetert.
 
