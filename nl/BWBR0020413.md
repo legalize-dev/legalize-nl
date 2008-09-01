@@ -4,7 +4,7 @@ identifier: "BWBR0020413"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2008-08-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020413"
 soort: "AMvB"
@@ -60,7 +60,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: [Wet
 
 ##### Artikel 2
 
-1. Een aanvraag als bedoeld in de [artikelen 2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:5), [2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:7), [2:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:9), [2:12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:12), [2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:13), [2:17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:17), [2:21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:21), [2:22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:22), [2:31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:31), [2:32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:32), [2:36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36), [2:37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:37), [2:39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:39), [2:41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:41), [2:42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:42), [2:45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:45), [2:46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:46), [2:49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:49), [2:51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:51), [2:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:53), [2:55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55), [2:58, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:58), [2:60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60), [2:63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:63), [2:65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65), [2:67, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67), [2:68, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:68), [2:75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:75), [2:78, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:78), [2:80, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80), [2:83, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:83), [2:86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:86), [2:89, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:89), [2:92, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:92), [2:94, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:94), [2:99, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:99), [2:107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:107), [2:108, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:108), [2:110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:110), [2:111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:111), [2:112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:112),[2:115, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:115), [2:117](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:117), [2:118, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:118), [2:120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:120), [2:121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121), [2:122](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:122), [2:127](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:127), en [2:130 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:130) wordt gedaan met gebruikmaking van het daartoe door de toezichthouder vast te stellen formulier dat op verzoek aan de aanvrager ter beschikking wordt gesteld.
+1. Een aanvraag als bedoeld in de [artikelen 2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:5), [2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:7), [2:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:9), [2:12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:12), [2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:13), [2:17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:17), [2:21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:21), [2:22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:22), [2:26b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26b), [2:26e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26e), [2:26f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26f), [2:31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:31), [2:32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:32), [2:36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36), [2:37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:37), [2:39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:39), [2:41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:41), [2:42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:42), [2:45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:45), [2:46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:46), [2:49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:49), [2:51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:51), [2:53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:53), [2:54b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54b), [2:54e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54e), [2:54f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54f), [2:55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55), [2:58, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:58), [2:60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:60), [2:63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:63), [2:65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65), [2:67, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67), [2:68, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:68), [2:75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:75), [2:78, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:78), [2:80, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80), [2:83, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:83), [2:86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:86), [2:89, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:89), [2:92, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:92), [2:94, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:94), [2:99, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:99), [2:107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:107), [2:108, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:108), [2:110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:110), [2:111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:111), [2:112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:112),[2:115, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:115), [2:117](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:117), [2:118, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:118), [2:120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:120), [2:121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121), [2:122](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:122), [2:127](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:127), en [2:130 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:130) wordt gedaan met gebruikmaking van het daartoe door de toezichthouder vast te stellen formulier dat op verzoek aan de aanvrager ter beschikking wordt gesteld.
 
 2. Het aanvraagformulier en de daarbij ingevolge dit besluit te verstrekken gegevens worden in enkelvoud ingediend.
 
@@ -418,7 +418,7 @@ De gegevens, bedoeld in [artikel 2:22, tweede lid, van de wet](https://wetten.ov
 
 ##### Artikel 13
 
-Het programma van werkzaamheden, bedoeld in [artikel 12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2008-08-01&g=2008-08-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van levensverzekeraar, bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van levensverzekeraar, bevat het volgende:
 
 - a. een opgave van de aard van de overeenkomsten die de levensverzekeraar voornemens is te sluiten;
 
@@ -436,7 +436,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 12, eerste lid, onderdeel f
 
 ##### Artikel 14
 
-1. Het programma van werkzaamheden, bedoeld in [artikel12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2008-08-01&g=2008-08-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van schadeverzekeraar, bevat het volgende:
+1. Het programma van werkzaamheden, bedoeld in [artikel12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van schadeverzekeraar, bevat het volgende:
 
 - a. een opgave van de aard van de risico’s die de schadeverzekeraar voornemens is te dekken;
 
@@ -520,17 +520,19 @@ De gegevens, bedoeld in [artikel 2:36, derde lid, van de wet](https://wetten.ove
 
 - j. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10) vanuit het bijkantoor;
 
-- k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) vanuit het bijkantoor;
+- k. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan [artikel 3:16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:16);
 
-- l. de vermelding van de bevoegdheid tot uitoefening van het bedrijf van verzekeraar;
+- l. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) vanuit het bijkantoor;
 
-- m. een opgave van de vertegenwoordiger van de verzekeraar, bedoeld in [artikel 2:74 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:74), alsook, indien de vertegenwoordiger rechtspersoon is, de statuten van deze rechtspersoon, een uittreksel uit diens inschrijving in het handelsregister en het bewijs van aanstelling van de natuurlijke persoon, bedoeld in het vijfde lid van voornoemd artikel;
+- m. de vermelding van de bevoegdheid tot uitoefening van het bedrijf van verzekeraar;
 
-- n. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:47, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47) is bepaald met betrekking tot de deskundigheid van de vertegenwoordiger van de verzekeraar of de natuurlijke persoon, bedoeld in [artikel 3:47, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47);
+- n. een opgave van de vertegenwoordiger van de verzekeraar, bedoeld in [artikel 2:74 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:74), alsook, indien de vertegenwoordiger rechtspersoon is, de statuten van deze rechtspersoon, een uittreksel uit diens inschrijving in het handelsregister en het bewijs van aanstelling van de natuurlijke persoon, bedoeld in het vijfde lid van voornoemd artikel;
 
-- o. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:47, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47) is bepaald met betrekking tot de betrouwbaarheid van de vertegenwoordiger van de verzekeraar of de natuurlijke persoon, bedoeld in [artikel 3:47, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47); en
+- o. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:47, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47) is bepaald met betrekking tot de deskundigheid van de vertegenwoordiger van de verzekeraar of de natuurlijke persoon, bedoeld in [artikel 3:47, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47);
 
-- p. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) van het bijkantoor van de verzekeraar, blijkt en op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge dat artikel is bepaald, en waaruit de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) van het bijkantoor van de verzekeraar blijkt.
+- p. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:47, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47) is bepaald met betrekking tot de betrouwbaarheid van de vertegenwoordiger van de verzekeraar of de natuurlijke persoon, bedoeld in [artikel 3:47, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:47); en
+
+- p. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) van het bijkantoor van de verzekeraar, blijkt en op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) is bepaald, en waaruit de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) van het bijkantoor van de verzekeraar blijkt.
 
 2. De gegevens, bedoeld in het eerste lid, onderdelen h en n, zijn:
 
@@ -604,7 +606,7 @@ De gegevens, bedoeld in [artikel 2:42, tweede lid, van de wet](https://wetten.ov
 
 ##### Artikel 22
 
-1. Het programma van werkzaamheden, bedoeld in [artikel 18, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2008-08-01&g=2008-08-01), dat wordt overgelegd door degene die een vergunning als bedoeld in [artikel 2:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36), of [artikel 2:40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40) aanvraagt voor het uitoefenen van het bedrijf van levensverzekeraar, bevat het volgende:
+1. Het programma van werkzaamheden, bedoeld in [artikel 18, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door degene die een vergunning als bedoeld in [artikel 2:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36), of [artikel 2:40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40) aanvraagt voor het uitoefenen van het bedrijf van levensverzekeraar, bevat het volgende:
 
 - a. een opgave van de aard van de overeenkomsten die de levensverzekeraar voornemens is vanuit het bijkantoor te sluiten;
 
@@ -626,7 +628,7 @@ De gegevens, bedoeld in [artikel 2:42, tweede lid, van de wet](https://wetten.ov
 
 ##### Artikel 23
 
-1. Het programma van werkzaamheden, bedoeld in [artikel 18, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2008-08-01&g=2008-08-01), dat wordt overgelegd door degene die een vergunning als bedoeld in [artikel 2:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36), of [artikel 2:40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40) aanvraagt voor het uitoefenen van het bedrijf van schadeverzekeraar, bevat het volgende:
+1. Het programma van werkzaamheden, bedoeld in [artikel 18, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door degene die een vergunning als bedoeld in [artikel 2:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36), of [artikel 2:40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40) aanvraagt voor het uitoefenen van het bedrijf van schadeverzekeraar, bevat het volgende:
 
 - a. een opgave van de aard van de risico’s die de schadeverzekeraar voornemens is te dekken;
 
@@ -800,7 +802,7 @@ De gegevens, bedoeld in [artikel 2:42, tweede lid, van de wet](https://wetten.ov
 
 ##### Artikel 27
 
-Het programma van werkzaamheden, bedoeld in [artikel 26, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4&artikel=26&z=2008-08-01&g=2008-08-01), bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 26, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4&artikel=26&z=2008-09-01&g=2008-09-01), bevat het volgende:
 
 - a. een opgave van de aard van de overeenkomsten die de natura-uitvaartverzekeraar voornemens is te sluiten;
 
@@ -890,7 +892,7 @@ Onze Minister kan, ter uitvoering van [artikel 2:50, eerste lid, van de wet](htt
 
 ##### Artikel 30
 
-1. Het programma van werkzaamheden, bedoeld in [artikel 29, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4&artikel=29&z=2008-08-01&g=2008-08-01), bevat het volgende:
+1. Het programma van werkzaamheden, bedoeld in [artikel 29, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4&artikel=29&z=2008-09-01&g=2008-09-01), bevat het volgende:
 
 - a. een opgave van de aard van de overeenkomsten die de natura-uitvaartverzekeraar voornemens is te sluiten;
 
@@ -1310,7 +1312,7 @@ De gegevens, bedoeld in [artikel 2:81, vierde lid, van de wet](https://wetten.ov
 
 - b. indien hij afwijkt van de bewaarplicht: het protocol van het adviesproces.
 
-#### § 2.10. Herverzekeringsbemiddelen
+#### § 2.5. Aanbieden van beleggingsobjecten
 
 ##### Artikel 39
 
@@ -1382,7 +1384,7 @@ De gegevens, bedoeld in [artikel 2:81, vierde lid, van de wet](https://wetten.ov
 
 - b. indien hij afwijkt van de bewaarplicht: het protocol van het adviesproces.
 
-#### § 2.10. Herverzekeringsbemiddelen
+#### § 2.6. Aanbieden van krediet
 
 ##### Artikel 40
 
@@ -1454,7 +1456,7 @@ De gegevens, bedoeld in [artikel 2:81, vierde lid, van de wet](https://wetten.ov
 
 - b. indien hij afwijkt van de bewaarplicht: het protocol van het adviesproces.
 
-#### § 2.11. Optreden als gevolgmachtigde agent of ondergevolgmagtigde agent
+#### § 2.7. Aanbieden van rechten van deelneming in beleggingsinstellingen
 
 ##### Artikel 41
 
@@ -1540,7 +1542,7 @@ Indien een vergunning als bedoeld in [artikel 2:105, eerste lid, van de wet](htt
 
 ### Hoofdstuk 3. Toegang tot de buitenlandse financiële markten
 
-#### § 2.13. Overige bepalingen
+#### § 2.9. Bemiddelen
 
 ##### Artikel 43
 
@@ -1660,7 +1662,7 @@ De gegevens, bedoeld in [artikel 2:112, tweede lid, van de wet](https://wetten.o
 
 ##### Artikel 48
 
-Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=47&z=2008-08-01&g=2008-08-01), dat wordt overgelegd door een levensverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een andere lidstaat bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=47&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door een levensverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een andere lidstaat bevat het volgende:
 
 - a. een opgave van de aard van de overeenkomsten die de levensverzekeraar voornemens is te sluiten;
 
@@ -1672,7 +1674,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c
 
 ##### Artikel 49
 
-1. Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=47&z=2008-08-01&g=2008-08-01), dat wordt overgelegd door een schadeverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een andere lidstaat bevat het volgende:
+1. Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=47&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door een schadeverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een andere lidstaat bevat het volgende:
 
 - a. een opgave van de van de risico’s die de schadeverzekeraar voornemens is te dekken;
 
@@ -1766,7 +1768,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 47, eerste lid, onderdeel c
 
 ##### Artikel 53
 
-Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=52&z=2008-08-01&g=2008-08-01), dat wordt overgelegd door een levensverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een staat die geen lidstaat is bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=52&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door een levensverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een staat die geen lidstaat is bevat het volgende:
 
 - a. de aard van de overeenkomsten van levensverzekering die door het bijkantoor zullen worden gesloten; en
 
@@ -1774,13 +1776,13 @@ Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c
 
 ##### Artikel 54
 
-Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=52&z=2008-08-01&g=2008-08-01), dat wordt overgelegd door een schadeverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een staat die geen lidstaat is bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.3&artikel=52&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door een schadeverzekeraar met zetel in Nederland ten behoeve van een bijkantoor in een staat die geen lidstaat is bevat het volgende:
 
 - a. de aard van de risico’s van schadeverzekering die door het bijkantoor zullen worden gedekt; en
 
 - b. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17), van het bijkantoor.
 
-#### § 3.4. Uitoefenen van bedrijf van natura-uitvaartverzekeraar
+#### § 3.2. Uitoefenen van bedrijf van kredietinstelling en financiële instelling
 
 ##### Artikel 55
 
@@ -1826,7 +1828,7 @@ Het programma van werkzaamheden, bedoeld in [artikel 52, eerste lid, onderdeel c
 
 ##### Artikel 56
 
-Het programma van werkzaamheden, bedoeld in [artikel 55, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.4&artikel=55&z=2008-08-01&g=2008-08-01), bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel 55, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=3&paragraaf=3.4&artikel=55&z=2008-09-01&g=2008-09-01), bevat het volgende:
 
 - a. een opgave van de aard van de overeenkomsten van natura-uitvaartverzekering die door het bijkantoor zullen worden gesloten;
 
@@ -1916,39 +1918,39 @@ Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake v
 
 ### **Opiumwet:**
 
+### 1. Strafrechtelijke antecedenten
+
+### 1.1. Veroordelingen
+
+Bij onherroepelijk vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
+
+### 2. Overige strafrechtelijke antecedenten
+
+Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties worden ook verstaan transacties in het buitenland met de ter zake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+
+### 2.3. (Voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging
+
+Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
+
+Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties worden ook verstaan transacties in het buitenland met de ter zake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+
+### 2.3. (Voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging
+
+Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
+
 ### **Wet op de economische delicten (WED):**
-
-### **Wegenverkeerswet 1994:**
-
-– Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
-
-### **Wegenverkeerswet 1994:**
-
-Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties worden ook verstaan transacties in het buitenland met de ter zake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
-
-### 2.3. (Voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging
-
-Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
-
-Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties worden ook verstaan transacties in het buitenland met de ter zake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
-
-### 2.3. (Voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging
-
-Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
-
-### 3. Financiële antecedenten
 
 ### 2.4. Andere feiten of omstandigheden
 
-### 3.1. Persoonlijk
+### **Wet wapens en munitie:**
 
-### 3. Financiële antecedenten
+### **Wegenverkeerswet 1994:**
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de toezichthouder van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
 ### 3.2. Zakelijk
 
-### 3.3. Andere feiten of omstandigheden
+### 2.2. Transacties met de Officier van Justitie
 
 ### 4.1. Toezichtantecedenten
 
@@ -1964,11 +1966,11 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
 
-### 5.3. Andere feiten of omstandigheden
+### 3.1. Persoonlijk
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor de toezichthouder van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 6. Overige antecedenten
+### 3.3. Andere feiten of omstandigheden
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -2018,19 +2020,19 @@ ten aanzien van de personen die het dagelijks beleid bepalen:
 
 4. Het eerste lid, onderdeel f, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de wet door een toezichthouder reeds is vastgesteld.
 
-#### § 2.13. Overige bepalingen
+#### § 2.8. Adviseren
 
 ### Hoofdstuk 3. Toegang tot de buitenlandse financiële markten
 
 #### § 3.1. Uitoefenen van bedrijf van clearinginstelling
 
-#### § 3.1. Uitoefenen van bedrijf van clearinginstelling
+#### § 2.10. Herverzekeringsbemiddelen
 
-#### § 3.3. Uitoefenen van bedrijf van levensverzekeraars en schadeverzekeraars
+#### § 2.12. Verlenen van beleggingsdiensten en verrichten van beleggingsactiviteiten
 
 #### § 3.4. Uitoefenen van bedrijf van natura-uitvaartverzekeraar
 
-#### § 3.5. Aanbieden van rechten van deelneming in instellingen voor collectieve belegging in effecten
+#### § 3.3. Uitoefenen van bedrijf van levensverzekeraars en schadeverzekeraars
 
 #### § 3.5. Aanbieden van rechten van deelneming in instellingen voor collectieve belegging in effecten
 
@@ -2058,35 +2060,35 @@ Door de [WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gesteld
 
 – Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
 
+### 2.1. Veroordelingen
+
+Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van poging tot, voorbereiding van, doen plegen van, uitlokking van, mislukte uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
+
+### **Wetboek van Strafrecht:**
+
+– overtreding fiscale wetgeving ([artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=68) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69)).
+
+### **Opiumwet:**
+
+Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+
 ### **Buitenlandse strafbepalingen**
 
 – Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.
 
-### 2.2. Transacties met de Officier van Justitie
+### 2.3. (Voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging
 
-Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+Betrokkene wordt ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
 
 ### 2.4. Andere feiten of omstandigheden
 
-Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+Andere feiten of omstandigheden die redelijkerwijs voor de toezichthouder van belang kunnen zijn voor de beoordeling van de betrouwbaarheid van betrokkene, zoals blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is (geweest) bij een of meer van de onder 2.1 genoemde strafbare feiten. Onder processen-verbaal of rapporten wordt ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland ter zake van daar geldende strafbepalingen, vergelijkbaar met de onder 2.1 genoemde.
 
-### 3.1. Persoonlijk
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de toezichthouder van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-### 4. Toezichtantecedenten
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor de toezichthouder van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-### 5.1. Persoonlijk
+### 3. Financiële antecedenten
 
 Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
 
-### 5.1. Persoonlijk
-
-Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
-
-### 5.2. Zakelijk
+### 3.2. Zakelijk
 
 Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
 
@@ -2100,13 +2102,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 2.4a. Uitoefenen van bedrijf van entiteit voor risico-acceptatie
 
-#### § 2.7. Aanbieden van rechten van deelneming in beleggingsinstellingen
+#### § 2.4a. Uitoefenen van bedrijf van entiteit voor risico-acceptatie
 
 #### § 2.9. Bemiddelen
 
 ### Hoofdstuk 3. Toegang tot de buitenlandse financiële markten
 
-#### § 3.2. Uitoefenen van bedrijf van kredietinstelling en financiële instelling
+#### § 2.11. Optreden als gevolgmachtigde agent of ondergevolgmagtigde agent
 
 #### § 3.3. Uitoefenen van bedrijf van levensverzekeraars en schadeverzekeraars
 
@@ -2120,7 +2122,467 @@ Door de [WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gesteld
 
 Andere feiten of omstandigheden die redelijkerwijs voor de toezichthouder van belang kunnen zijn voor de beoordeling van de betrouwbaarheid van betrokkene, zoals blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is (geweest) bij een of meer van de onder 2.1 genoemde strafbare feiten. Onder processen-verbaal of rapporten wordt ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland ter zake van daar geldende strafbepalingen, vergelijkbaar met de onder 2.1 genoemde.
 
+Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties worden ook verstaan transacties in het buitenland met de ter zake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor de toezichthouder van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+
+### 4.1. Toezichtantecedenten
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 11a
+
+1. De gegevens, bedoeld in [artikel 2:26b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26b) zijn:
+
+- a. een opgave van de naam, het adres en het telefoon- en faxnummer van de herverzekeraar;
+
+- b. een opgave van de rechtsvorm van de herverzekeraar;
+
+- c. een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;
+
+- d. indien de herverzekeraar is ingeschreven in het handelsregister, een opgave van het nummer van inschrijving;
+
+- e. een gewaarmerkt afschrift van de statuten;
+
+- f. een programma van werkzaamheden die de herverzekeraar voornemens is te verrichten;
+
+- g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;
+
+- h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken;
+
+- i. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10);
+
+- j. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan [artikel 3:16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:16);
+
+- k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17);
+
+- l. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) blijken; en
+
+- m. indien van toepassing:
+
+- 1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95);
+
+- 2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:99) is bepaald met betrekking tot de betrouwbaarheid van de aanvrager of houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en
+
+- 3°. bescheiden waaruit de financiële positie en de juridische groepsstructuur van de aanvrager of houder van een verklaring van geen bezwaar blijken.
+
+2. De gegevens, bedoeld in het eerste lid, onderdeel g, zijn:
+
+- a. een opgave van de naam, geboortedatum, geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
+
+- b. een curriculum vitae;
+
+- c. een opgave van de relevante diploma’s;
+
+- d. een kopie van een geldig identiteitsbewijs; en
+
+- e. een opgave van referenten.
+
+3. De gegevens, bedoeld in het eerste lid, onderdeel h, zijn:
+
+- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
+
+- b. een kopie van een geldig identiteitsbewijs;
+
+- c. gegevens met betrekking tot de antecedenten, bedoeld in de bijlage bij dit besluit; en
+
+- d. een opgave van referenten.
+
+4. Het eerste lid, onderdelen h en m, onder 2°, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
+
+##### Artikel 11b
+
+Het programma van werkzaamheden, bedoeld in [artikel 11a, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.2a&artikel=11a&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat het volgende:
+
+- a. een opgave van de aard van de risico’s die de herverzekeraar voornemens is te dekken;
+
+- b. een uiteenzetting omtrent de leidende beginselen op het gebied van het sluiten van overeenkomsten waarbij de herverzekeraar een gedeelte van het door hem herverzekerde risico, tegen betaling van premie, op zijn beurt aan een andere verzekeraar overdraagt;
+
+- c. een raming van de kosten voor de inrichting van de administratie en van het produktienet en bewijsstukken waaruit blijkt dat de herverzekeraar beschikt over de financiële middelen ter dekking daarvan;
+
+- d. een raming voor de eerste drie boekjaren van de andere dan de in onderdeel c bedoelde kosten van beheer, in het bijzonder van de algemene kosten en provisies;
+
+- e. een raming voor de eerste drie boekjaren van de premies en van de schaden;
+
+- f. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en
+
+- g. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
+
+##### Artikel 11c
+
+1. De gegevens, bedoeld in [artikel 2:26e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26e) zijn:
+
+- a. een opgave van de naam, het adres en het telefoon- en faxnummer van de herverzekeraar;
+
+- b. een opgave van de rechtsvorm van de herverzekeraar;
+
+- c. een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;
+
+- d. indien de herverzekeraar is ingeschreven in het handelsregister, een opgave van het nummer van inschrijving;
+
+- e. het adres van het bijkantoor;
+
+- f. een gewaarmerkt afschrift van de statuten;
+
+- g. een programma van werkzaamheden die de herverzekeraar voornemens is te verrichten vanuit het bijkantoor;
+
+- h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid van het bijkantoor van de herverzekeraar bepalen;
+
+- i. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid van het bijkantoor van de herverzekeraar bepalen of mede bepalen;
+
+- j. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10), vanuit het bijkantoor;
+
+- k. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan [artikel 3:16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:16);
+
+- l. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) vanuit het bijkantoor;
+
+- m. de vermelding van de bevoegdheid tot uitoefening van het bedrijf van herverzekeraar;
+
+- n. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) van het bijkantoor van de herverzekeraar, blijkt en op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge dat artikel is bepaald, en waaruit de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) van het bijkantoor van de herverzekeraar blijkt.
+
+2. De gegevens, bedoeld in het eerste lid, onderdeel h, zijn:
+
+- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
+
+- b. een curriculum vitae;
+
+- c. een opgave van de relevante diploma’s;
+
+- d. een kopie van een geldig identiteitsbewijs; en
+
+- e. een opgave van referenten.
+
+3. De gegevens, bedoeld in het eerste lid, onderdeel i, zijn:
+
+- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
+
+- b. een kopie van een geldig identiteitsbewijs;
+
+- c. gegevens met betrekking tot antecedenten, bedoeld in de bijlage bij dit besluit; en
+
+- d. een opgave van referenten.
+
+4. Het eerste lid, onderdeel i, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
+
+##### Artikel 11d
+
+1. Het programma van werkzaamheden, bedoeld in [artikel 11c, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.2a&artikel=11c&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat het volgende:
+
+- a. een opgave van de aard van de risico’s die de herverzekeraar voornemens is te dekken;
+
+- b. bewijsstukken waaruit blijkt dat het bijkantoor beschikt over het minimumbedrag van het garantiefonds dat ingevolge [artikel 3:62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62), in samenhang met [artikel 3:57, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), voor de betrokken activiteit of activiteiten geldt, dan wel over het minimumbedrag aan solvabiliteitsmarge dat ingevolge [artikel 3:62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62), in samenhang met [artikel 3:57, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) is vereist, indien dit minimumbedrag aan solvabiliteitsmarge hoger is dan het minimumbedrag van het garantiefonds;
+
+- c. een uiteenzetting omtrent de leidende beginselen op het gebied van het sluiten van overeenkomsten waarbij de herverzekeraar een gedeelte van het door hem herverzekerde risico, tegen betaling van premie, op zijn beurt aan een andere verzekeraar overdraagt;
+
+- d. een raming van de kosten voor de inrichting van de administratie en van het produktienet en bewijsstukken waaruit blijkt dat de herverzekeraar beschikt over de financiële middelen ter dekking daarvan;
+
+- e. een raming voor de eerste drie boekjaren van de andere dan de in onderdeel c bedoelde kosten van beheer, in het bijzonder van de algemene kosten en provisies;
+
+- f. een raming voor de eerste drie boekjaren van de premies en van de schaden;
+
+- g. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en
+
+- h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
+
+2. De aanvrager voegt bij het programma van werkzaamheden de jaarrekening van elk van de laatste drie boekjaren. Indien sedert de oprichting van de onderneming van de aanvrager nog geen drie boekjaren zijn verstreken, behoeven deze jaarrekeningen slechts voor de afgesloten boekjaren te worden overgelegd.
+
+3. Het programma van werkzaamheden bevat tevens bewijsstukken betreffende de omvang van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), in samenhang met [artikel 3:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:61).
+
+##### Artikel 11e
+
+1. De gegevens, bedoeld in [artikel 2:26f, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26f) zijn:
+
+- a. een opgave van de naam, het adres en het telefoon- en faxnummer van de herverzekeraar;
+
+- b. een opgave van de rechtsvorm van de herverzekeraar;
+
+- c. een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;
+
+- d. indien de herverzekeraar is ingeschreven in het handelsregister, een opgave van het nummer van inschrijving;
+
+- e. een gewaarmerkt afschrift van de statuten;
+
+- f. de opgave van het adres van zijn zetel en dat van de vestiging van waaruit de herverzekeraar voornemens is de diensten te verrichten;
+
+- g. de vermelding van de bevoegdheid om in de staat van de zetel het bedrijf van verzekeraar uit te oefenen en in welke activiteit of activiteiten de herverzekeraar bevoegd is zijn bedrijf uit te oefenen;
+
+- h. de vermelding van de daadwerkelijke uitoefening van het bedrijf van herverzekeraar vanuit de staat van de zetel;
+
+- i. gegevens waaruit de te verwachte solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) met betrekking tot het gehele door de herverzekeraar uitgeoefende bedrijf blijkt; en
+
+- j. een opgave van de aard van de risico’s die de herverzekeraar voornemens is te dekken.
+
+2. De gegevens, bedoeld in het eerste lid, onderdeel j, zijn:
+
+- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
+
+- b. een curriculum vitae;
+
+- c. een opgave van de relevante diploma’s;
+
+- d. een kopie van een geldig identiteitsbewijs;
+
+- e. een opgave van referenten;
+
+3. De gegevens, bedoeld in het eerste lid, onderdeel k, zijn:
+
+- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
+
+- b. een kopie van een geldig identiteitsbewijs;
+
+- c. gegevens met betrekking tot de antecedenten, bedoeld in de bijlage bij dit besluit;
+
+- d. een opgave van referenten.
+
+4. Het eerste lid, onderdeel k, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
+
+#### § 2.3. Uitoefenen van bedrijf van levensverzekeraar en schadeverzekeraar
+
+#### § 2.4. Uitoefenen van bedrijf van natura-uitvaartverzekeraar
+
+##### Artikel 31a
+
+1. De gegevens, bedoeld in [artikel 2:54b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54b) zijn:
+
+- a. een opgave van de naam, het adres en het telefoon- en faxnummer van de entiteit voor risico-acceptatie;
+
+- b. een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;
+
+- c. indien de entiteit voor risico-acceptatie is ingeschreven in het handelsregister, een opgave van het nummer van inschrijving;
+
+- d. een gewaarmerkt afschrift van de statuten;
+
+- e. een programma van werkzaamheden die de entiteit voor risico-acceptatie voornemens is te verrichten;
+
+- f. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;
+
+- g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken;
+
+- h. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10);
+
+- i. een beschrijving van de zeggenschapstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan [artikel 3:16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:16);
+
+- j. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17);
+
+- k. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) blijken;
+
+- l. indien van toepassing:
+
+- 1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95);
+
+- 2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:99) is bepaald met betrekking tot de betrouwbaarheid van de aanvrager of houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en
+
+- 3°. bescheiden waaruit de financiële positie en de juridische groepsstructuur van de aanvrager of houder van een verklaring van geen bezwaar blijken.
+
+2. De gegevens, bedoeld in het eerste lid, onderdeel f, zijn:
+
+- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
+
+- b. een curriculum vitae;
+
+- c. een opgave van de relevante diploma’s;
+
+- d. een kopie van een geldig identiteitsbewijs; en
+
+- e. een opgave van referenten.
+
+3. De gegevens, bedoeld in het eerste lid, onderdeel g, zijn:
+
+- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
+
+- b. een kopie van een geldig identiteitsbewijs;
+
+- c. gegevens met betrekking tot de antecedenten, bedoeld in de bijlage bij dit besluit; en
+
+- d. een opgave van referenten.
+
+4. Het eerste lid, onderdelen g en l, onder 2°, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
+
+##### Artikel 31b
+
+Het programma van werkzaamheden, bedoeld in [artikel 31a, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4a&artikel=31a&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van entiteit voor risico-acceptatie, bevat het volgende:
+
+- a. een opgave van de aard van de risico’s die de entiteit voor risico-acceptatie voornemens is te dekken;
+
+- b. een uiteenzetting omtrent de leidende beginselen op het gebied van het sluiten van overeenkomsten waarbij de entiteit voor risico-acceptatie een gedeelte van het door hem herverzekerde risico, tegen betaling van premie, op zijn beurt aan een verzekeraar of andere entiteit voor risico-acceptatie overdraagt;
+
+- c. een raming van de kosten voor de inrichting van de administratie en van het produktienet en bewijsstukken waaruit blijkt dat de entiteit voor risico-acceptatie beschikt over de financiële middelen ter dekking daarvan;
+
+- d. een raming voor de eerste drie boekjaren van de andere dan de in onderdeel c bedoelde kosten van beheer, in het bijzonder van de algemene kosten en provisies;
+
+- e. een raming voor de eerste drie boekjaren van de premies en van de schaden;
+
+- f. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en
+
+- g. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
+
+##### Artikel 31c
+
+1. De gegevens, bedoeld in [artikel 2:54e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54e) zijn:
+
+- a. een opgave van de naam, het adres en het telefoon- en faxnummer van de entiteit voor risico-acceptatie;
+
+- b. een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;
+
+- c. indien de entiteit voor risico-acceptatie is ingeschreven in het handelsregister, een opgave van het nummer van inschrijving;
+
+- d. het adres van het bijkantoor;
+
+- e. een gewaarmerkt afschrift van de statuten;
+
+- f. een programma van werkzaamheden die de entiteit voor risico-acceptatie voornemens is te verrichten vanuit het bijkantoor;
+
+- g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid van het bijkantoor van de entiteit voor risico-acceptatie bepalen;
+
+- h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid van het bijkantoor van de entiteit voor risico-acceptatie bepalen of mede bepalen;
+
+- i. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10), vanuit het bijkantoor;
+
+- j. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan [artikel 3:16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:16);
+
+- k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) vanuit het bijkantoor;
+
+- l. de vermelding van de bevoegdheid tot uitoefening van het bedrijf van entiteit voor risico-acceptatie;
+
+- m. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) van het bijkantoor van de entiteit voor risico-acceptatie, blijkt en op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) is bepaald, en waaruit de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) van het bijkantoor van de entiteit voor risico-acceptatie blijkt.
+
+2. De gegevens, bedoeld in het eerste lid, onderdeel h, zijn:
+
+- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
+
+- b. een curriculum vitae;
+
+- c. een opgave van de relevante diploma’s;
+
+- d. een kopie van een geldig identiteitsbewijs; en
+
+- e. een opgave van referenten.
+
+3. De gegevens, bedoeld in het eerste lid, onderdeel i, zijn:
+
+- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
+
+- b. een kopie van een geldig identiteitsbewijs;
+
+- c. gegevens met betrekking tot antecedenten, bedoeld in de bijlage bij dit besluit; en
+
+- d. een opgave van referenten.
+
+4. Het eerste lid, onderdeel i, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
+
+##### Artikel 31d
+
+1. Het programma van werkzaamheden, bedoeld in [artikel 31c, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0020413&hoofdstuk=2&paragraaf=2.4a&artikel=31c&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van entiteit voor risico-acceptatie, bevat het volgende:
+
+- a. een opgave van de aard van de risico’s die de entiteit voor risico-acceptatie voornemens is te dekken;
+
+- b. bewijsstukken waaruit blijkt dat het bijkantoor beschikt over het minimumbedrag van het garantiefonds dat ingevolge [artikel 3:62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62), in samenhang met [artikel 3:57, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), voor de betrokken activiteit of activiteiten geldt, dan wel over het minimumbedrag aan solvabiliteitsmarge dat ingevolge [artikel 3:62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62), in samenhang met [artikel 3:57, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) is vereist, indien dit minimumbedrag aan solvabiliteitsmarge hoger is dan het minimumbedrag van het garantiefonds;
+
+- c. een uiteenzetting omtrent de leidende beginselen op het gebied van het sluiten van overeenkomsten waarbij de entiteit voor risico-acceptatie een gedeelte van het door hem herverzekerde risico, tegen betaling van premie, op zijn beurt aan een verzekeraar of andere entiteit voor risico-acceptatie overdraagt;
+
+- d. een raming van de kosten voor de inrichting van de administratie en van het produktienet en bewijsstukken waaruit blijkt dat de entiteit voor risico-acceptatie beschikt over de financiële middelen ter dekking daarvan;
+
+- e. een raming voor de eerste drie boekjaren van de andere dan de in onderdeel c bedoelde kosten van beheer, in het bijzonder van de algemene kosten en provisies;
+
+- f. een raming voor de eerste drie boekjaren van de premies en van de schaden;
+
+- g. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en
+
+- h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
+
+2. De aanvrager voegt bij het programma van werkzaamheden de jaarrekening van elk van de laatste drie boekjaren. Indien sedert de oprichting van de onderneming van de aanvrager nog geen drie boekjaren zijn verstreken, behoeven deze jaarrekeningen slechts voor de afgesloten boekjaren te worden overgelegd.
+
+3. Het programma van werkzaamheden bevat tevens bewijsstukken betreffende de omvang van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57), in samenhang met [artikel 3:61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:61).
+
+##### Artikel 31e
+
+1. De gegevens, bedoeld in [artikel 2:54f, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54f) zijn:
+
+- a. een opgave van de naam, het adres en het telefoon- en faxnummer van de entiteit voor risico-acceptatie;
+
+- b. een opgave van de rechtsvorm van de entiteit voor risico-acceptatie;
+
+- c. een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;
+
+- d. indien de entiteit voor risico-acceptatie is ingeschreven in het handelsregister, een opgave van het nummer van inschrijving;
+
+- e. een gewaarmerkt afschrift van de statuten;
+
+- f. de opgave van het adres van zijn zetel en dat van de vestiging van waaruit de entiteit voor risico-acceptatie voornemens is de diensten te verrichten;
+
+- g. de vermelding van de bevoegdheid om in de staat van de zetel het bedrijf van entiteit voor risico-acceptatie uit te oefenen en in welke activiteit of activiteiten de entiteit voor risico-acceptatie bevoegd is zijn bedrijf uit te oefenen;
+
+- h. de vermelding van de daadwerkelijke uitoefening van het bedrijf van entiteit voor risico-acceptatie vanuit de staat van de zetel;
+
+- i. gegevens waaruit de te verwachte solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) met betrekking tot het gehele door de entiteit voor risico-acceptatie uitgeoefende bedrijf blijkt; en
+
+- j. een opgave van de aard van de risico’s die de entiteit voor risico-acceptatie voornemens is te dekken.
+
+2. De gegevens, bedoeld in het eerste lid, onderdeel j, zijn:
+
+- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
+
+- b. een curriculum vitae;
+
+- c. een opgave van de relevante diploma’s;
+
+- d. een kopie van een geldig identiteitsbewijs;
+
+- e. een opgave van referenten.
+
+3. De gegevens, bedoeld in het eerste lid, onderdeel k, zijn:
+
+- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
+
+- b. een kopie van een geldig identiteitsbewijs;
+
+- c. gegevens met betrekking tot de antecedenten, bedoeld in de bijlage bij dit besluit;
+
+- d. een opgave van referenten.
+
+4. Het eerste lid, onderdeel k, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
+
+#### § 2.13. Overige bepalingen
+
+### Hoofdstuk 3. Toegang tot de buitenlandse financiële markten
+
+#### § 3.1. Uitoefenen van bedrijf van clearinginstelling
+
+#### § 3.4. Uitoefenen van bedrijf van natura-uitvaartverzekeraar
+
+#### § 3.5. Aanbieden van rechten van deelneming in instellingen voor collectieve belegging in effecten
+
+#### § 3.6. Verlenen van beleggingsdiensten en verrichten van beleggingsactiviteiten
+
+### Hoofdstuk 4. Slotbepalingen
+
+## Bijlage
+
+### **Algemene wet inzake de rijksbelastingen (AWR):**
+
+Door de [WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=4), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=17), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=34).
+
+Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken en maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de toezichthouder van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+
+### 4. Toezichtantecedenten
+
+### 4.2. Andere feiten of omstandigheden
+
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor de toezichthouder van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+
+### 5. Fiscaal bestuursrechtelijke antecedenten
+
+### 5.1. Persoonlijk
+
+Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
+
+### 5.2. Zakelijk
+
+Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
+
+### 5.3. Andere feiten of omstandigheden
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor de toezichthouder van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
