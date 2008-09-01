@@ -4,7 +4,7 @@ identifier: "BWBR0008688"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-01"
-last_updated: "1997-12-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008688"
 soort: "AMvB"
@@ -98,7 +98,7 @@ ln dit besluit wordt verstaan onder «de wet»: de [Wet op de beroepen in de ind
 
 - c. de naam, het werkadres en, voor zover bekend, het woonadres van degene over wie wordt geklaagd;
 
-- d. indien het enig handelen of nalaten, bedoeld in artikel 47, eerste lid, onder **a**, aanhef, van de wet betreft en de in dat onderdeel, onder 1° of 2°, bedoelde persoon niet de klager is, diens naam en, zo mogelijk, diens adres;
+- d. indien het enig handelen of nalaten, bedoeld in [artikel 47, eerste lid, onder a, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=47) betreft en de in dat onderdeel, onder 1° of 2°, bedoelde persoon niet de klager is, diens naam en, zo mogelijk, diens adres;
 
 - e. indien geklaagd wordt door:
 
@@ -106,19 +106,17 @@ ln dit besluit wordt verstaan onder «de wet»: de [Wet op de beroepen in de ind
 
 - 2°. de beroepsbeoefenaar die aan degene over wie wordt geklaagd een opdracht heeft gegeven: een duidelijke omschrijving van de onderlinge verhouding;
 
-- 3°. een persoon of een orgaan als bedoeld in artikel 65, eerste lid, onder **c**, van de wet: een duidelijke omschrijving van de verhouding tot degene over wie wordt geklaagd;
+- 3°. een persoon of een orgaan als bedoeld in [artikel 65, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=65): een duidelijke omschrijving van de verhouding tot degene over wie wordt geklaagd;
 
-- 4°. een hoofdinspecteur of een inspecteur als bedoeld in artikel 65, eerste lid, onder **d**, van de wet: vermelding van diens hoedanigheid.
+- 4°. een hoofdinspecteur of een inspecteur als bedoeld in [artikel 65, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=65): vermelding van diens hoedanigheid.
 
-Caret
-
-2. Het klaagschrift is ondertekend door de klager, zijn advocaat of procureur of een andere gemachtigde.
+2. Het klaagschrift is ondertekend door de klager, zijn advocaat of een andere gemachtigde.
 
 3. De secretaris van het tuchtcollege tekent onverwijld de datum van ontvangst op het klaagschrift aan.
 
 ##### Artikel 5
 
-Indien het klaagschrift niet voldoet aan [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=4&z=1997-12-01&g=1997-12-01), deelt het tuchtcollege de klager, indien deze bekend is, mede in hoeverre het klaagschrift onvolledig is en nodigt hem uit het verzuim binnen een bepaalde termijn te herstellen.
+Indien het klaagschrift niet voldoet aan [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=4&z=2008-09-01&g=2008-09-01), deelt het tuchtcollege de klager, indien deze bekend is, mede in hoeverre het klaagschrift onvolledig is en nodigt hem uit het verzuim binnen een bepaalde termijn te herstellen.
 
 ##### Artikel 6
 
@@ -136,7 +134,7 @@ De terechtzitting vindt plaats op de standplaats van het regionale tuchtcollege.
 
 1. De secretaris nodigt de klager en degene over wie is geklaagd, schriftelijk uit op de terechtzitting te verschijnen, onder mededeling van de plaats, de dag en het uur van aanvang van het onderzoek op de terechtzitting, de samenstelling van het tuchtcollege, de plaats waar en de tijdstippen waarop de processtukken ter inzage liggen, en de namen van de getuigen en de deskundigen die zijn uitgenodigd of opgeroepen.
 
-2. Bij de uitnodiging wordt een termijn van ten minste drie weken in acht genomen. Indien de inspecteur voor de gezondheidszorg een verzoek als bedoeld in artikel 65, zesde lid, van de wet heeft gedaan, mag een kortere termijn in acht worden genomen. In dat geval bepaalt het tuchtcollege welke termijnen in plaats van die genoemd in [de artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=9&z=1997-12-01&g=1997-12-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=1997-12-01&g=1997-12-01), in acht moeten worden genomen. Van het verzoek van de inspecteur en van de door het tuchtcollege vastgestelde termijnen wordt door de secretaris mededeling gedaan in de uitnodiging.
+2. Bij de uitnodiging wordt een termijn van ten minste drie weken in acht genomen. Indien de inspecteur voor de gezondheidszorg een verzoek als bedoeld in artikel 65, zesde lid, van de wet heeft gedaan, mag een kortere termijn in acht worden genomen. In dat geval bepaalt het tuchtcollege welke termijnen in plaats van die genoemd in [de artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=9&z=2008-09-01&g=2008-09-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2008-09-01&g=2008-09-01), in acht moeten worden genomen. Van het verzoek van de inspecteur en van de door het tuchtcollege vastgestelde termijnen wordt door de secretaris mededeling gedaan in de uitnodiging.
 
 ##### Artikel 9
 
@@ -220,9 +218,13 @@ De voorzitter beslist de ter terechtzitting voorkomende geschillen betreffende d
 
 1. Het beroepschrift bevat:
 
-- a. de naam, de voornamen en het adres van degene die het beroep instelt; b. een duidelijke aanduiding van de eindbeslissing waartegen het beroep is gericht; c. de gronden van het beroep.
+- a. de naam, de voornamen en het adres van degene die het beroep instelt;
 
-2. Het beroepschrift is ondertekend door degene die het beroep instelt, zijn advocaat of procureur of een andere gemachtigde.
+- b. een duidelijke aanduiding van de eindbeslissing waartegen het beroep is gericht;
+
+- c. de gronden van het beroep.
+
+2. Het beroepschrift is ondertekend door degene die het beroep instelt, zijn advocaat of een andere gemachtigde.
 
 3. Het beroepschrift wordt ingezonden bij het regionale tuchtcollege dat de eindbeslissing waartegen beroep wordt ingesteld, heeft gegeven.
 
@@ -236,29 +238,29 @@ De voorzitter beslist de ter terechtzitting voorkomende geschillen betreffende d
 
 ##### Artikel 21
 
-Indien het beroepschrift niet voldoet aan [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=3&artikel=19&z=1997-12-01&g=1997-12-01), deelt het centrale tuchtcollege aan de indiener van het beroep mede in hoeverre het beroepschrift onvolledig is en nodigt hem uit het verzuim binnen een bepaalde termijn te herstellen.
+Indien het beroepschrift niet voldoet aan [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=3&artikel=19&z=2008-09-01&g=2008-09-01), deelt het centrale tuchtcollege aan de indiener van het beroep mede in hoeverre het beroepschrift onvolledig is en nodigt hem uit het verzuim binnen een bepaalde termijn te herstellen.
 
 ##### Artikel 22
 
-Op de procedure in beroep zijn de[artikelen 6 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=1997-12-01&g=1997-12-01), [17 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=1997-12-01&g=1997-12-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=1997-12-01&g=1997-12-01) van overeenkomstige toepassing.
+Op de procedure in beroep zijn de[artikelen 6 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2008-09-01&g=2008-09-01), [17 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2008-09-01&g=2008-09-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2008-09-01&g=2008-09-01) van overeenkomstige toepassing.
 
 ### HOOFDSTUK 3. HERZIENING
 
 ##### Artikel 23
 
-1. Herziening van een onherroepelijk geworden eindbeslissing als bedoeld in artikel 52 van de wet, wordt schriftelijk verzocht bij het centrale tuchtcollege door degene over wie was geklaagd.
+1. Herziening van een onherroepelijk geworden eindbeslissing als bedoeld in [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=52), wordt schriftelijk verzocht bij het centrale tuchtcollege door degene over wie was geklaagd.
 
 2. Het verzoekschrift vermeldt de gronden waarop het berust, met bijvoeging van de bescheiden waaruit van die gronden kan blijken.
 
-3. Het verzoekschrift is ondertekend door de indiener van het verzoek, zijn advocaat of procureur of een andere gemachtigde.
+3. Het verzoekschrift is ondertekend door de indiener van het verzoek, zijn advocaat of een andere gemachtigde.
 
 ##### Artikel 24
 
-Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=23&z=1997-12-01&g=1997-12-01), verklaart het centrale tuchtcollege bij met redenen omklede beslissing de indiener niet-ontvankelijk.
+Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=23&z=2008-09-01&g=2008-09-01), verklaart het centrale tuchtcollege bij met redenen omklede beslissing de indiener niet-ontvankelijk.
 
 ##### Artikel 25
 
-1. Indien geen toepassing wordt gegeven aan [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=24&z=1997-12-01&g=1997-12-01), gelast de voorzitter van het centrale tuchtcollege dat het verzoek verder wordt behandeld op een openbare terechtzitting op een door hem te bepalen dag.
+1. Indien geen toepassing wordt gegeven aan [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=24&z=2008-09-01&g=2008-09-01), gelast de voorzitter van het centrale tuchtcollege dat het verzoek verder wordt behandeld op een openbare terechtzitting op een door hem te bepalen dag.
 
 2. Zodra de behandeling op de terechtzitting is gelast, benoemt de voorzitter een ander lid of een plaatsvervangend lid van het college tot rapporteur.
 
@@ -278,7 +280,7 @@ Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [art
 
 3. Het proces-verbaal wordt door de voorzitter en de secretaris ondertekend.
 
-4. Met betrekking tot de behandeling op de terechtzitting zijn [de artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=10&z=1997-12-01&g=1997-12-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=11&z=1997-12-01&g=1997-12-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=12&z=1997-12-01&g=1997-12-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=16&z=1997-12-01&g=1997-12-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=1997-12-01&g=1997-12-01) van overeenkomstige toepassing.
+4. Met betrekking tot de behandeling op de terechtzitting zijn [de artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=10&z=2008-09-01&g=2008-09-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=11&z=2008-09-01&g=2008-09-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=12&z=2008-09-01&g=2008-09-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=16&z=2008-09-01&g=2008-09-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2008-09-01&g=2008-09-01) van overeenkomstige toepassing.
 
 ##### Artikel 28
 
@@ -294,7 +296,7 @@ Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [art
 
 ##### Artikel 30
 
-1. Van een bevel als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=29&z=1997-12-01&g=1997-12-01), wordt een afschrift gezonden aan de indiener van het verzoek tot herziening, aan Onze Minister, aan de hoofdinspecteur en de regionale inspecteur voor de gezondheidszorg wie de aangelegenheid uit hoofde van de aan hun toevertrouwde belangen aangaat, en, indien de indiener van het verzoek tot herziening een militair is, aan Onze Minister van Defensie.
+1. Van een bevel als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=29&z=2008-09-01&g=2008-09-01), wordt een afschrift gezonden aan de indiener van het verzoek tot herziening, aan Onze Minister, aan de hoofdinspecteur en de regionale inspecteur voor de gezondheidszorg wie de aangelegenheid uit hoofde van de aan hun toevertrouwde belangen aangaat, en, indien de indiener van het verzoek tot herziening een militair is, aan Onze Minister van Defensie.
 
 2. Indien bij de eindbeslissing waarvan herziening is verzocht, een van de in artikel 48, eerste lid, onder **d**, **e** en **f**, en derde lid, van de wet omschreven maatregelen was opgelegd, maakt Onze Minister, na ontvangst van het afschrift, bedoeld in het eerste lid, aantekening van de opschorting van de desbetreffende eindbeslissing in het register. Zolang het bevel tot opschorting van kracht is, wordt de betrokkene voor de toepassing van wettelijke bepalingen, betrekking hebbende op degenen die in het desbetreffende register ingeschreven staan, gelijkgesteld met een ingeschrevene, behalve indien bij de desbetreffende eindbeslissing ten aanzien van hem de maatregel, bedoeld in artikel 48, derde lid, van de wet was opgelegd.
 
@@ -302,13 +304,13 @@ Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [art
 
 ##### Artikel 31
 
-1. Na de verwijzing, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=29&z=1997-12-01&g=1997-12-01), gelast de voorzitter van het regionale tuchtcollege waarnaar de zaak is verwezen, een vooronderzoek.
+1. Na de verwijzing, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=29&z=2008-09-01&g=2008-09-01), gelast de voorzitter van het regionale tuchtcollege waarnaar de zaak is verwezen, een vooronderzoek.
 
-2. De behandeling van de verwezen zaak vindt vervolgens plaats met overeenkomstige toepassing van de artikelen 65, negende lid, 66, eerste lid, tweede volzin, en tweede tot en met zevende lid, 67, 68, 69, eerste en derde lid, 70, 71 en 72 van de wet, en [6 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=1997-12-01&g=1997-12-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=1997-12-01&g=1997-12-01) van dit besluit, met dien verstande dat, voor zover in vorengenoemde artikelen verplichtingen van het tuchtcollege ten aanzien van de oorspronkelijke klager zijn opgenomen, deze slechts gelden indien zijn adres hier te lande bekend is. Voorts is [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=1997-12-01&g=1997-12-01) van dit besluit van overeenkomstige toepassing, behoudens voor zover daarin wordt verwezen naar artikel 69, tweede lid, van de wet.
+2. De behandeling van de verwezen zaak vindt vervolgens plaats met overeenkomstige toepassing van de artikelen 65, negende lid, 66, eerste lid, tweede volzin, en tweede tot en met zevende lid, 67, 68, 69, eerste en derde lid, 70, 71 en 72 van de wet, en [6 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2008-09-01&g=2008-09-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2008-09-01&g=2008-09-01) van dit besluit, met dien verstande dat, voor zover in vorengenoemde artikelen verplichtingen van het tuchtcollege ten aanzien van de oorspronkelijke klager zijn opgenomen, deze slechts gelden indien zijn adres hier te lande bekend is. Voorts is [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2008-09-01&g=2008-09-01) van dit besluit van overeenkomstige toepassing, behoudens voor zover daarin wordt verwezen naar artikel 69, tweede lid, van de wet.
 
 ##### Artikel 32
 
-1. Indien het regionale tuchtcollege in de verwezen zaak beslist dat de eindbeslissing waarbij een maatregel als bedoeld in artikel 48, eerste lid, onder **d**, **e** of **f**, of derde lid, van de wet was opgelegd, wordt gehandhaafd, verwijdert Onze Minister de aantekening van de opschorting, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=30&z=1997-12-01&g=1997-12-01), zodra hij het afschrift van de beslissing heeft ontvangen.
+1. Indien het regionale tuchtcollege in de verwezen zaak beslist dat de eindbeslissing waarbij een maatregel als bedoeld in artikel 48, eerste lid, onder **d**, **e** of **f**, of derde lid, van de wet was opgelegd, wordt gehandhaafd, verwijdert Onze Minister de aantekening van de opschorting, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=30&z=2008-09-01&g=2008-09-01), zodra hij het afschrift van de beslissing heeft ontvangen.
 
 2. Indien de beslissing van het regionale tuchtcollege in de verwezen zaak inhoudt dat de eindbeslissing waarvan herziening is gevraagd, wordt vernietigd en dat een maatregel als bedoeld in artikel 48, eerste lid, onder **e**, van de wet wordt opgelegd, wordt die maatregel aangetekend in het register onder gelijktijdige verwijdering van de aantekening van de oorspronkelijk opgelegde maatregel en van die van de opschorting. Indien bij de beslissing van het college in de verwezen zaak de maatregel van schorsing wordt opgelegd, worden de aantekeningen van de oorspronkelijk opgelegde maatregel en van de opschorting daarvan in het register verwijderd. Van de schorsing wordt slechts aantekening gemaakt in het register voor zover de duur daarvan langer is dan de periode gedurende welke de oorspronkelijk opgelegde maatregel reeds ten uitvoer is gelegd.
 
@@ -322,9 +324,9 @@ De voordracht aan het college van medisch toezicht tot het treffen van een voorz
 
 ##### Artikel 34
 
-1. Met betrekking tot de behandeling van een zaak door het college van medisch toezicht zijn [de artikelen 6 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=1997-12-01&g=1997-12-01) van overeenkomstige toepassing, met dien verstande dat in plaats van «de klager» en «degene over wie is geklaagd» telkens wordt gelezen «de inspecteur voor de gezondheidszorg, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=4&artikel=33&z=1997-12-01&g=1997-12-01)» onderscheidenlijk «degene op wie de voordracht betrekking heeft» en dat in [artikel 17, eerste lid, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=1997-12-01&g=1997-12-01), in plaats van «de klacht» wordt gelezen «de voordracht».
+1. Met betrekking tot de behandeling van een zaak door het college van medisch toezicht zijn [de artikelen 6 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2008-09-01&g=2008-09-01) van overeenkomstige toepassing, met dien verstande dat in plaats van «de klager» en «degene over wie is geklaagd» telkens wordt gelezen «de inspecteur voor de gezondheidszorg, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=4&artikel=33&z=2008-09-01&g=2008-09-01)» onderscheidenlijk «degene op wie de voordracht betrekking heeft» en dat in [artikel 17, eerste lid, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2008-09-01&g=2008-09-01), in plaats van «de klacht» wordt gelezen «de voordracht».
 
-2. Op de procedure in beroep tegen een eindbeslissing van het college van medisch toezicht zijn [de artikelen 19 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=3&artikel=19&z=1997-12-01&g=1997-12-01) van overeenkomstige toepassing.
+2. Op de procedure in beroep tegen een eindbeslissing van het college van medisch toezicht zijn [de artikelen 19 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=3&artikel=19&z=2008-09-01&g=2008-09-01) van overeenkomstige toepassing.
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
