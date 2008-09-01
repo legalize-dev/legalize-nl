@@ -4,7 +4,7 @@ identifier: "BWBR0002444"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2002-01-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002444"
 soort: "AMvB"
@@ -57,7 +57,7 @@ Dat zij, middellijk noch onmiddellijk, onder welke naam of voorwendsel, tot het 
 
 Dat zij nimmer enige giften of geschenken zullen aannemen of ontvangen van enig persoon, welke zij weten of vermoeden enige zaak te hebben of te zullen krijgen, in welke hun ambtsverrichtingen zouden kunnen te pas komen.
 
-Dat zij zich noch directelijk of indirectelijk over enige door hen behandelde aangelegenheid, of die zij weten of vermoeden, dat door hen behandeld zal worden, in enig bijzonder onderhoud of gesprek zullen inlaten met partijen of derzelver advocaten, procureurs of gemachtigden, noch daarover enige bijzondere onderrichting, memorie of schrifturen zullen aannemen.
+Dat zij zich noch directelijk of indirectelijk over enige door hen behandelde aangelegenheid, of die zij weten of vermoeden, dat door hen behandeld zal worden, in enig bijzonder onderhoud of gesprek zullen inlaten met partijen of derzelver advocaten of gemachtigden, noch daarover enige bijzondere onderrichting, memorie of schrifturen zullen aannemen.
 
 Dat zij voorts hun posten met eerlijkheid, nauwgezetheid en onzijdigheid, zonder aanzien van personen, zullen waarnemen en zich in de uitoefening van hun bediening gedragen zoals brave en eerlijke ambtenaren betaamt".
 
@@ -75,7 +75,7 @@ Dat zij voorts hun posten met eerlijkheid, nauwgezetheid en onzijdigheid, zonder
 
 ##### Artikel 4
 
-1. De plaatsvervangend voorzitter, de leden, de secretaris en de plaatsvervangende secretarissen van de Kamer leggen de eed (belofte), voorgeschreven bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=2&z=2002-01-01&g=2002-01-01), af in handen van de voorzitter, in een zitting van de Kamer.
+1. De plaatsvervangend voorzitter, de leden, de secretaris en de plaatsvervangende secretarissen van de Kamer leggen de eed (belofte), voorgeschreven bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=2&z=2008-09-01&g=2008-09-01), af in handen van de voorzitter, in een zitting van de Kamer.
 
 2. Van het afleggen van de eed (belofte) wordt een akte opgemaakt.
 
@@ -103,7 +103,7 @@ Betreffende zaken aan de behandeling waarvan zij deelnemen, kunnen de voorzitter
 
 ##### Artikel 9
 
-Uitgezonderd de zaterdag en de zondag en de dagen, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=10&z=2002-01-01&g=2002-01-01), is de secretarie geopend gedurende ten minste zes uren per dag.
+Uitgezonderd de zaterdag en de zondag en de dagen, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=10&z=2008-09-01&g=2008-09-01), is de secretarie geopend gedurende ten minste zes uren per dag.
 
 ##### Artikel 10
 
@@ -125,11 +125,11 @@ Vervallen
 
 - c. alle verzoeken tot het verlengen van overeenkomsten als bedoeld in [artikel 33, eerste lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=33), behoudens voor zover de verhuurder, daartoe uitgenodigd door de voorzitter, kenbaar heeft gemaakt de overeenkomst niet te willen voortzetten.
 
-2. De enkelvoudige afdeling van de Kamer is te allen tijde bevoegd, indien het belang der zaak dit naar haar oordeel vordert, deze naar een meervoudige afdeling, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=13&z=2002-01-01&g=2002-01-01), te verwijzen.
+2. De enkelvoudige afdeling van de Kamer is te allen tijde bevoegd, indien het belang der zaak dit naar haar oordeel vordert, deze naar een meervoudige afdeling, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=13&z=2008-09-01&g=2008-09-01), te verwijzen.
 
 ##### Artikel 13
 
-Een meervoudige afdeling van de Kamer, samengesteld door de voorzitter van de Kamer en bestaande uit de voorzitter en vier leden, behandelt aanvragen en verzoeken als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=12&z=2002-01-01&g=2002-01-01), die door de enkelvoudige afdeling van de Kamer naar haar zijn verwezen, zomede alle andere verzoeken tot afhandeling waarvan de enkelvoudige afdeling van de Kamer niet bevoegd is.
+Een meervoudige afdeling van de Kamer, samengesteld door de voorzitter van de Kamer en bestaande uit de voorzitter en vier leden, behandelt aanvragen en verzoeken als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002444&artikel=12&z=2008-09-01&g=2008-09-01), die door de enkelvoudige afdeling van de Kamer naar haar zijn verwezen, zomede alle andere verzoeken tot afhandeling waarvan de enkelvoudige afdeling van de Kamer niet bevoegd is.
 
 ##### Artikel 14
 
