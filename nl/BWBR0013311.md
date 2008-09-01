@@ -4,7 +4,7 @@ identifier: "BWBR0013311"
 country: "nl"
 rank: "pbo"
 publication_date: "2019-01-01"
-last_updated: "2004-11-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013311"
 soort: "pbo"
@@ -48,7 +48,7 @@ Stelt de navolgende verordening vast:
 
 ##### Artikel 1
 
-In deze verordening wordt verstaan onder advocaat: de in Nederland ingeschreven advocaat, de procureur daaronder begrepen, zoals bedoeld in de [Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093).
+In deze verordening wordt verstaan onder advocaat: de in Nederland ingeschreven advocaat, zoals bedoeld in de [Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093).
 
 ##### Artikel 2
 
