@@ -4,7 +4,7 @@ identifier: "BWBR0002481"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2002-01-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002481"
 soort: "wet"
@@ -47,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-1. Het verlof tot tenuitvoerlegging wordt gevraagd bij verzoekschrift. Het verzoekschrift wordt ingediend door een procureur en houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.
+1. Het verlof tot tenuitvoerlegging wordt gevraagd bij verzoekschrift. Het verzoekschrift wordt ingediend door een advocaat en houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.
 
 2. Bij ongenoegzaamheid van de bij het verzoekschrift overgelegde stukken wordt de verzoeker de gelegenheid tot aanvulling gegeven.
 
@@ -63,13 +63,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-Tegen de beschikking waarbij het verlof is geweigerd, kan alleen de verzoeker binnen een maand na de dag waarop zij is gegeven, hoger beroep bij het gerechtshof instellen. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002481&artikel=2&z=2002-01-01&g=2002-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002481&artikel=3&z=2002-01-01&g=2002-01-01) zijn van overeenkomstige toepassing.
+Tegen de beschikking waarbij het verlof is geweigerd, kan alleen de verzoeker binnen een maand na de dag waarop zij is gegeven, hoger beroep bij het gerechtshof instellen. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002481&artikel=2&z=2008-09-01&g=2008-09-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002481&artikel=3&z=2008-09-01&g=2008-09-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 5
 
 1. Tegen de beschikking van het gerechtshof, waarbij het verlof is geweigerd, kan alleen de verzoeker binnen een maand na de dag waarop zij is gegeven, beroep in cassatie instellen.
 
-2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002481&artikel=3&z=2002-01-01&g=2002-01-01) is van overeenkomstige toepassing.
+2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002481&artikel=3&z=2008-09-01&g=2008-09-01) is van overeenkomstige toepassing.
 
 ##### Artikel 6
 
@@ -81,7 +81,7 @@ De rechtbank tot welker voorzieningenrechter het verzoek om verlof tot tenuitvoe
 
 ##### Artikel 8
 
-Het bepaalde bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002481&artikel=1&z=2002-01-01&g=2002-01-01) tot en met [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002481&artikel=7&z=2002-01-01&g=2002-01-01) vindt overeenkomstige toepassing ten aanzien van de executoriale titels, genoemd in artikel 16 van het Verdrag.
+Het bepaalde bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002481&artikel=1&z=2008-09-01&g=2008-09-01) tot en met [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002481&artikel=7&z=2008-09-01&g=2008-09-01) vindt overeenkomstige toepassing ten aanzien van de executoriale titels, genoemd in artikel 16 van het Verdrag.
 
 ##### Artikel 9
 
