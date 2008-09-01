@@ -4,7 +4,7 @@ identifier: "BWBR0002684"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-09-01"
-last_updated: "2001-06-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002684"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 3. 3. Van een verklaring van de echtgenoten dat de scheiding van tafel en bed heeft opgehouden te bestaan, als bedoeld in [artikel 176 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=176), maakt de griffier een akte op, die de echtgenoten in persoon of bij gevolmachtigde ondertekenen.
 
-4. Indien de in de leden 2 en 3 genoemde gevolmachtigde niet advocaat, procureur of notaris is, moet een authentieke of onderhandse volmacht worden overgelegd. Een onderhandse volmacht wordt aan de akte gehecht.
+4. Indien de in de leden 2 en 3 genoemde gevolmachtigde niet advocaat of notaris is, moet een authentieke of onderhandse volmacht worden overgelegd. Een onderhandse volmacht wordt aan de akte gehecht.
 
 ##### Artikel 2
 
@@ -72,7 +72,7 @@ Een verlenging overeenkomstig [artikel 106 van Boek 1 van het Burgerlijk Wetboek
 
 2. Op de kaart worden de inschrijvingen, met vermelding van hun dagtekening, aangebracht en door de griffier ondertekend.
 
-3. In het omslag worden de stukken, genoemd in [artikel 1, eerste lid onder **a**, **b** en **d**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002684&artikel=1&z=2001-06-01&g=2001-06-01), bewaard.
+3. In het omslag worden de stukken, genoemd in [artikel 1, eerste lid onder **a**, **b** en **d**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002684&artikel=1&z=2008-09-01&g=2008-09-01), bewaard.
 
 4. De kaarten dragen een nummer en worden gerangschikt in alfabetische volgorde naar de geslachtsnaam van de man, indien het een geregistreerd paar betreft, wordt de geslachtsnaam gekozen van die persoon wiens geslachtsnaam op grond van alfabetische volgorde het eerst in aanmerking komt. Het nummer van de kaart wordt op het omslag aangebracht.
 
