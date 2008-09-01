@@ -4,7 +4,7 @@ identifier: "BWBR0002815"
 country: "nl"
 rank: "wet"
 publication_date: "2008-09-01"
-last_updated: "2006-02-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002815"
 soort: "wet"
@@ -47,11 +47,11 @@ In deze wet wordt onder "het verdrag" verstaan, het op 27 september 1968 te Brus
 
 1. Ten aanzien van het verlof tot tenuitvoerlegging bedoeld in artikel 31 van het verdrag, zijn de [artikelen 985-991 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=985) niet van toepassing.
 
-2. Het in het eerste lid bedoelde verlof wordt gevraagd bij verzoekschrift, dat in de Nederlandse taal is gesteld, onverminderd [artikel 7 van de Wet gebruik Friese taal in het rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002219&artikel=7). Het wordt ter griffie ingediend door een procureur en houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank. Het verzoekschrift wordt behandeld en beslist door de voorzieningenrechter van de rechtbank.
+2. Het in het eerste lid bedoelde verlof wordt gevraagd bij verzoekschrift, dat in de Nederlandse taal is gesteld, onverminderd [artikel 7 van de Wet gebruik Friese taal in het rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002219&artikel=7). Het wordt ter griffie ingediend door een advocaat en houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank. Het verzoekschrift wordt behandeld en beslist door de voorzieningenrechter van de rechtbank.
 
 3. Onverminderd het bepaalde bij artikel 48, eerste lid, van het verdrag wordt bij ongenoegzaamheid van de bij het verzoekschrift overgelegde documenten de verzoeker de gelegenheid tot aanvulling gegeven.
 
-4. In afwijking van het gestelde in de tweede zin van het tweede lid is de bijstand van een procureur niet vereist indien het bedrag dat de partij tegen wie de tenuitvoerlegging wordt gevraagd moet voldoen in hoofdsom niet hoger is dan het bedrag, genoemd in [artikel 93 onder a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=93). Is het eerstbedoelde bedrag uitgedrukt in een buitenlandse munteenheid, dan moet het worden omgerekend tegen de koers van de dag van de indiening van het verzoek om verlof tot tenuitvoerlegging.
+4. In afwijking van het gestelde in de tweede zin van het tweede lid is de bijstand van een advocaat niet vereist indien het bedrag dat de partij tegen wie de tenuitvoerlegging wordt gevraagd moet voldoen in hoofdsom niet hoger is dan het bedrag, genoemd in [artikel 93 onder a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=93). Is het eerstbedoelde bedrag uitgedrukt in een buitenlandse munteenheid, dan moet het worden omgerekend tegen de koers van de dag van de indiening van het verzoek om verlof tot tenuitvoerlegging.
 
 ##### Artikel 3
 
@@ -75,7 +75,7 @@ Het beroep in cassatie, bedoeld in artikel 37, laatste lid, van het verdrag, moe
 
 1. Het beroep, bedoeld in artikel 40 van het verdrag, moet worden ingesteld binnen een maand na de dagtekening van de beschikking, waarbij het verlof is geweigerd.
 
-2. In geval van beroep zijn de [leden 1-3 van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002815&artikel=2&z=2006-02-01&g=2006-02-01) van overeenkomstige toepassing.
+2. In geval van beroep zijn de [leden 1-3 van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002815&artikel=2&z=2008-09-01&g=2008-09-01) van overeenkomstige toepassing.
 
 3. Het gerechtshof geeft zijn beschikking met bekwame spoed, doch niet dan na verhoor, althans oproeping van de partijen.
 
@@ -89,7 +89,7 @@ Het beroep in cassatie, bedoeld in artikel 37, laatste lid, van het verdrag, moe
 
 6. Onverminderd het bepaalde in artikel 40, tweede lid, tweede zin, van het verdrag, kan het gerechtshof, indien een opgeroepene niet verschijnt, zijn nadere oproeping bevelen. Hetzelfde geldt, indien een partij ten onrechte niet is opgeroepen.
 
-7. De partijen verschijnen bij procureur.
+7. De partijen verschijnen bij advocaat.
 
 8. Na afloop van het verhoor deelt het gerechtshof mede, wanneer de uitspraak zal plaatsvinden.
 
@@ -105,7 +105,7 @@ Het beroep in cassatie, bedoeld in artikel 37, laatste lid, van het verdrag, moe
 
 1. Het beroep in cassatie, bedoeld in artikel 41 van het verdrag, moet worden ingesteld binnen een maand na de dagtekening van de beschikking van het gerechtshof.
 
-2. [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002815&artikel=7&z=2006-02-01&g=2006-02-01), is van overeenkomstige toepassing.
+2. [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002815&artikel=7&z=2008-09-01&g=2008-09-01), is van overeenkomstige toepassing.
 
 3. Tegen de beschikking van de Hoge Raad is geen verzet toegelaten.
 
