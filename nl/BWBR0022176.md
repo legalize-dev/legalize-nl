@@ -4,7 +4,7 @@ identifier: "BWBR0022176"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-09-01"
-last_updated: "2007-09-02"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022176"
 soort: "ministeriele-regeling"
@@ -40,11 +40,13 @@ Gelet op de [artikelen 1.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Wet op het Waddenfonds in werking treedt.
+
 ##### Artikel 1
 
 1. Als periode in 2007 na afloop waarvan de aanvragen om subsidie krachtens de [Subsidieregeling Wet op het Waddenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0022174) die in die periode zijn ontvangen, worden behandeld, wordt vastgesteld: 10 september 2007 tot en met 19 oktober 2007.
 
-2. Het subsidieplafond voor het verlenen van subsidies op aanvragen als bedoeld in het eerste lid, ontvangen in de daar genoemde periode, wordt vastgesteld op € 33.000.000.
+2. Het subsidieplafond voor het verlenen van subsidies op aanvragen als bedoeld in het eerste lid, ontvangen in de daar genoemde periode, wordt vastgesteld op € 40.463.992.
 
 3. Van het bedrag, genoemd in het tweede lid, wordt € 1.000.000 gereserveerd voor aanvragen waarvan de subsidiabele kosten minder bedragen dan € 200.000.
 
