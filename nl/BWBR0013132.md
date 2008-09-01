@@ -4,7 +4,7 @@ identifier: "BWBR0013132"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-01"
-last_updated: "2004-12-22"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013132"
 soort: "AMvB"
@@ -62,7 +62,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 3
 
-1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2004-12-22&g=2004-12-22).
+1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2008-09-01&g=2008-09-01).
 
 2. Het bestuur van een gerecht kan bepalen dat voor enig ander doel een buitengewone zitting plaatsvindt.
 
@@ -74,7 +74,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 5
 
-1. Iedere rechterlijke ambtenaar met rechtspraak belast is bevoegd aan de procespartijen, advocaten, procureurs en gemachtigden die optreden in zaken in zijn kamer aanhangig, inlichtingen te vragen naar aanleiding van de processtukken en de mondelinge voordrachten.
+1. Iedere rechterlijke ambtenaar met rechtspraak belast is bevoegd aan de procespartijen, advocaten en gemachtigden die optreden in zaken in zijn kamer aanhangig, inlichtingen te vragen naar aanleiding van de processtukken en de mondelinge voordrachten.
 
 2. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer is belast met de handhaving van de orde tijdens de zittingen.
 
@@ -112,7 +112,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 9
 
-1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2004-12-22&g=2004-12-22), ten behoeve van de betekening.
+1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2008-09-01&g=2008-09-01), ten behoeve van de betekening.
 
 2. Indien het parket gevestigd is buiten de gemeente waar het gerecht zijn hoofdplaats heeft, geschiedt de verzending van uitspraken per dienstbrief of op een andere veilige wijze.
 
@@ -152,7 +152,7 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 
 - c. elke zaak een afzonderlijk nummer wordt toegekend;
 
-- d. bij elke zaak tenminste worden vermeld de namen van de partijen en, indien van toepassing, van de advocaten, procureurs of gemachtigden, en
+- d. bij elke zaak tenminste worden vermeld de namen van de partijen en, indien van toepassing, van de advocaten of gemachtigden, en
 
 - e. bij elke zaak aantekening wordt gehouden van het verloop van de procedure en van hetgeen verder dienstig wordt geacht.
 
@@ -172,11 +172,13 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 
 - b. de namen van de behandelende rechterlijke ambtenaren met rechtspraak belast.
 
-2. In afwijking van het eerste lid kan het bestuur ter bescherming van zwaarwegende belangen van anderen, waaronder die van partijen, geen of een beperkt overzicht ter beschikking stellen.
+2. Het in het eerste lid bedoelde overzicht kan ook elektronisch beschikbaar worden gesteld.
 
-3. Indien de zaken gereed zijn voor voordracht, gebeurt dit in de volgorde waarin zij op de rol voorkomen.
+3. In afwijking van het eerste lid kan het bestuur ter bescherming van zwaarwegende belangen van anderen, waaronder die van partijen, geen of een beperkt overzicht ter beschikking stellen.
 
-4. Indien de behandelend rechterlijk ambtenaar met rechtspraak belast dit noodzakelijk acht in verband met de spoedeisendheid van een zaak, kan deze zaak worden voorgedragen in afwijking van de volgorde op de rol.
+4. Indien de zaken gereed zijn voor voordracht, gebeurt dit in de volgorde waarin zij op de rol voorkomen.
+
+5. Indien de behandelend rechterlijk ambtenaar met rechtspraak belast dit noodzakelijk acht in verband met de spoedeisendheid van een zaak, kan deze zaak worden voorgedragen in afwijking van de volgorde op de rol.
 
 ##### Artikel 16
 
@@ -286,7 +288,7 @@ De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen ge
 
 ##### Artikel 28
 
-1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2004-12-22&g=2004-12-22), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=10&z=2004-12-22&g=2004-12-22), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2004-12-22&g=2004-12-22) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2004-12-22&g=2004-12-22), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
+1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2008-09-01&g=2008-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=10&z=2008-09-01&g=2008-09-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2008-09-01&g=2008-09-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2008-09-01&g=2008-09-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
 
 2. De reglementen, bedoeld in het eerste lid, worden gepubliceerd in de Staatscourant.
 
