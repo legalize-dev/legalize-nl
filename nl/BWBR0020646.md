@@ -4,7 +4,7 @@ identifier: "BWBR0020646"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020646"
 soort: "ministeriele-regeling"
@@ -130,9 +130,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Tegelijkertijd met het doen van het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2008-01-01&g=2008-01-01), informeert het college of het bestuur de inburgeraar omtrent de hoofdlijnen van de met hem te sluiten overeenkomst terzake van de vaststelling van zijn inburgeringsvoorziening, dan wel gecombineerde inburgeringsvoorziening.
+1. Tegelijkertijd met het doen van het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2008-01-01&g=2008-09-01), informeert het college of het bestuur de inburgeraar omtrent de hoofdlijnen van de met hem te sluiten overeenkomst terzake van de vaststelling van zijn inburgeringsvoorziening, dan wel gecombineerde inburgeringsvoorziening.
 
-2. Indien de inburgeraar het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2008-01-01&g=2008-01-01), aanvaardt, sluit het college of het bestuur de in het eerste lid bedoelde overeenkomst met de inburgeraar.
+2. Indien de inburgeraar het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2008-01-01&g=2008-09-01), aanvaardt, sluit het college of het bestuur de in het eerste lid bedoelde overeenkomst met de inburgeraar.
 
 3. De overeenkomst bevat ten minste een omschrijving van de inburgeringsvoorziening, dan wel de gecombineerde inburgeringsvoorziening, alsmede een omschrijving van de rechten en verplichtingen van de inburgeraar ten aanzien van:
 
@@ -170,7 +170,7 @@ In deze regeling wordt verstaan onder:
 
 1. De inburgeraar die op 1 januari 2007 deelneemt aan een opleiding educatie als bedoeld in [artikel 7.3.1, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), blijft toegelaten tot deze opleiding.
 
-2. Het college of het bestuur kan de opleidingen educatie, bedoeld in het eerste lid, gedurende het jaar 2007 bekostigen uit de financiële bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=1&artikel=2&z=2008-01-01&g=2008-01-01).
+2. Het college of het bestuur kan de opleidingen educatie, bedoeld in het eerste lid, gedurende het jaar 2007 bekostigen uit de financiële bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=1&artikel=2&z=2008-01-01&g=2008-09-01).
 
 ### Hoofdstuk 3. Verstrekking prestatiegegevens, vaststelling financiële bijdrage
 
@@ -192,7 +192,7 @@ In deze regeling wordt verstaan onder:
 
 - g. het aantal in onderdeel c bedoelde inburgeraars dat uiterlijk respectievelijk 31 december 2009, 31 december 2010 en 31 december 2011 heeft deelgenomen aan het aanvullend praktijkdeel, bedoeld in [artikel 3.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.8).
 
-2. Indien het college of het bestuur toepassing geeft aan [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2008-01-01&g=2008-01-01), doet het college of het bestuur tevens een opgave van het daarmee gemoeide bedrag, alsmede het aantal opleidingen educatie, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2008-01-01&g=2008-01-01).
+2. Indien het college of het bestuur toepassing geeft aan [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2008-01-01&g=2008-09-01), doet het college of het bestuur tevens een opgave van het daarmee gemoeide bedrag, alsmede het aantal opleidingen educatie, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2008-01-01&g=2008-09-01).
 
 3. Het college of het bestuur verstrekt de gegevens en de opgave, bedoeld in het eerste lid, tezamen met de jaarrekening, bedoeld in [artikel 186 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=186), welke betrekking heeft op het jaar 2011. De jaarrekening is voorzien van de accountantsverklaring, bedoeld in [artikel 213, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213).
 
@@ -250,7 +250,7 @@ In deze regeling wordt verstaan onder:
 
 - –. met de letter P: de door de Minister vast te stellen correctiefactor;
 
-- –. met de letter Q: het bedrag, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=3&artikel=9&z=2008-01-01&g=2008-01-01).
+- –. met de letter Q: het bedrag, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=3&artikel=9&z=2008-01-01&g=2008-09-01).
 
 2. De Minister stelt de financiële bijdrage uiterlijk 1 oktober 2012 vast.
 
