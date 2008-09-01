@@ -4,7 +4,7 @@ identifier: "BWBR0015325"
 country: "nl"
 rank: "wet"
 publication_date: "2017-12-23"
-last_updated: "2006-05-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015325"
 soort: "wet"
@@ -51,11 +51,11 @@ In deze wet wordt verstaan onder «de verordening»: de [verordening (EG) nr. 44
 
 1. Ten aanzien van het verlof tot tenuitvoerlegging, bedoeld in artikel 38 van de verordening, zijn de [artikelen 985 tot en met 991 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=985) niet van toepassing.
 
-2. Het verlof tot tenuitvoerlegging, bedoeld in artikel 38 van de verordening, wordt gevraagd bij verzoekschrift, dat in de Nederlandse taal is gesteld, onverminderd [artikel 7 van de Wet gebruik Friese taal in het rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002219&artikel=7). Het wordt ingediend door een deurwaarder of procureur en houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.
+2. Het verlof tot tenuitvoerlegging, bedoeld in artikel 38 van de verordening, wordt gevraagd bij verzoekschrift, dat in de Nederlandse taal is gesteld, onverminderd [artikel 7 van de Wet gebruik Friese taal in het rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002219&artikel=7). Het wordt ingediend door een deurwaarder of advocaat en houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.
 
 3. Onverminderd het bepaalde bij artikel 55, eerste lid, van de verordening, wordt bij ongenoegzaamheid van de bij het verzoekschrift overgelegde documenten aan de verzoeker de gelegenheid tot aanvulling gegeven.
 
-4. In afwijking van het gestelde in het tweede lid, tweede zin, is de bijstand van een deurwaarder of procureur niet vereist indien het bedrag dat de partij tegen wie de tenuitvoerlegging wordt gevraagd, moet voldoen in hoofdsom niet hoger is dan het bedrag, genoemd in [artikel 93, onder a, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=93). Is het eerstbedoelde bedrag uitgedrukt in een andere munteenheid dan de euro, dan moet het worden omgerekend tegen de koers van de dag van de indiening van het verzoek om verlof tot tenuitvoerlegging.
+4. In afwijking van het gestelde in het tweede lid, tweede zin, is de bijstand van een deurwaarder of advocaat niet vereist indien het bedrag dat de partij tegen wie de tenuitvoerlegging wordt gevraagd, moet voldoen in hoofdsom niet hoger is dan het bedrag, genoemd in [artikel 93, onder a, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=93). Is het eerstbedoelde bedrag uitgedrukt in een andere munteenheid dan de euro, dan moet het worden omgerekend tegen de koers van de dag van de indiening van het verzoek om verlof tot tenuitvoerlegging.
 
 ##### Artikel 3
 
