@@ -4,7 +4,7 @@ identifier: "BWBR0002773"
 country: "nl"
 rank: "amvb"
 publication_date: "2008-09-01"
-last_updated: "1971-10-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002773"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 - b. ten aanzien van de echtgenoot, tegen wie de vordering is ingesteld, bij aangetekende brief, tenzij de rechter anders bepaalt.
 
-2. Indien de rechter heeft bepaald dat de in het geding verschenen partijen bij de in het eerste lid van artikel 818 bedoelde persoonlijke verschijning vergezeld dienen te zijn van hun procureurs, wordt dit in de kennisgeving vermeld.
+2. Indien de rechter heeft bepaald dat de in het geding verschenen partijen bij de in het [eerste lid van artikel 818](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=818) bedoelde persoonlijke verschijning vergezeld dienen te zijn van hun advocaten, wordt dit in de kennisgeving vermeld.
 
 ##### Artikel 2
 
