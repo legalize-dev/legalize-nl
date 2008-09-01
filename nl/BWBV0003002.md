@@ -4,7 +4,7 @@ identifier: "BWBV0003002"
 country: "nl"
 rank: "verdrag"
 publication_date: "2008-09-01"
-last_updated: "2006-10-03"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003002"
 soort: "verdrag"
@@ -241,11 +241,13 @@ Wanneer, indien de internationale inschrijving op verzoek van de Administratie v
 
 - (iii). bedoelde aanvrage voldoet aan alle vereisten van de toepasselijke wet, met inbegrip van de vereisten betreffende taksen.
 
-##### Artikel 9sexies. Bescherming van de Schikking van Madrid (Stockholm)
+##### Artikel 9sexies. Betrekkingen tussen Staten die Partij zijn bij zowel dit Protocol als de [Schikking van Madrid (Stockholm)](https://wetten.overheid.nl/jci1.3:c:BWBV0005273)
 
-1. Wanneer met betrekking tot een bepaalde internationale aanvrage of een bepaalde internationale inschrijving de Adminsitratie van oorsprong de Administratie is van een Staat die Partij is bij zowel dit Protocol als de Schikking van Madrid (Stockholm), hebben de bepalingen van dit Protocol geen rechtsgevolgen op het grondgebied van een andere Staat die ook Partij is bij zowel dit Protocol als de Schikking van Madrid (Stockholm).
+- a). Op de onderlinge betrekkingen van de Staten die Partij zijn bij zowel dit Protocol als de [Schikking van Madrid (Stockholm)](https://wetten.overheid.nl/jci1.3:c:BWBV0005273) is uitsluitend dit Protocol van toepassing.
 
-2. De Algemene Vergadering kan met een meerderheid van drie vierde het eerste lid herroepen, of de werkingssfeer van het eerste lid beperken, na het verstrijken van een termijn van tien jaar te rekenen vanaf de inwerkingtreding van dit Protocol, maar niet vóór het verstrijken van een termijn van vijf jaar te rekenen vanaf de datum waarop de meerderheid van de landen die Partij zijn bij de Schikking van Madrid (Stockholm) Partij bij dit Protocol zijn geworden. Slechts de Staten die bij zowel genoemde Schikking als dit Protocol Partij zijn, hebben het recht aan de stemming in de Algemene Vergadering deel te nemen.
+- b). Niettegenstaande het bepaalde in onderdeel a, heeft een ingevolge artikel 5, tweede lid, onderdeel b, artikel 5, tweede lid, onderdeel c of artikel 8, zevende lid van dit Protocol, afgelegde verklaring door een Staat die Partij is bij zowel dit Protocol als de [Schikking van Madrid (Stockholm)](https://wetten.overheid.nl/jci1.3:c:BWBV0005273) geen gevolgen voor de betrekkingen met een andere Staat die Partij is bij zowel dit Protocol als de Schikking van Madrid (Stockholm).
+
+2. De Algemene Vergadering zal, na het verstrijken van een termijn van drie jaar te rekenen vanaf 1 september 2008, de toepassing van het eerste lid, onderdeel b, van dit artikel toetsen en kan op enig tijdstip daarna met een meerderheid van drie vierde dit onderdeel herroepen of de werkingssfeer ervan beperken. Slechts de Staten die Partij zijn bij zowel de [Schikking van Madrid (Stockholm)](https://wetten.overheid.nl/jci1.3:c:BWBV0005273) als dit Protocol, hebben het recht aan de stemming in de Algemene Vergadering deel te nemen.
 
 ##### Artikel 10. De Algemene Vergadering
 
