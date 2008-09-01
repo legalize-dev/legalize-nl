@@ -4,7 +4,7 @@ identifier: "BWBR0005544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2008-02-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005544"
 soort: "ministeriele-regeling"
@@ -121,11 +121,11 @@ De uitslag van de trekking wordt direct na de laatste trekking van die loterij b
 
 De prijzen zijn op afgifte van het lot of deellot betaalbaar gedurende een jaar na de trekking waarbij het lot als winnend lot of deellot is aangewezen:
 
-- a. ten kantore van de officiële verkooppunten voor zover het gaat om een prijs tot en met een bedrag van € 454,– per deelnamebewijs;
+- a. ten kantore van de officiële verkooppunten voor zover het gaat om een prijs tot en met een bedrag van € 600,– per deelnamebewijs;
 
-- b. ten kantore van daartoe door de stichting aangewezen verkooppunten voor zover het gaat om een prijs tot en met een bedrag van € 5.100,– per deelnamebewijs;
+- b. ten kantore van daartoe door de stichting aangewezen verkooppunten voor zover het gaat om een prijs tot en met een bedrag van € 10.100,– per deelnamebewijs;
 
-- c. ten kantore van de stichting voor prijzen boven een bedrag van € 5.100,– per deelnamebewijs.
+- c. ten kantore van de stichting voor prijzen boven een bedrag van € 10.100,– per deelnamebewijs.
 
 ##### Artikel 18
 
