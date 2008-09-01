@@ -4,7 +4,7 @@ identifier: "BWBR0002081"
 country: "nl"
 rank: "wet"
 publication_date: "2008-09-01"
-last_updated: "1999-06-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002081"
 soort: "wet"
@@ -52,7 +52,7 @@ Personen, die met goed gevolg het doctoraal examen, genoemd in [artikel 4](https
 
 - d. in afwijking van het bepaalde in de [artikelen 75](https://wetten.overheid.nl/jci1.3:c:BWBR0002269&artikel=75) en [83, derde lid, van de Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002269&artikel=83) worden benoemd tot secretaris of plaatsvervangend secretaris van een grondkamer dan wel tot griffier van de Centrale Grondkamer.
 
-- e. van Onze Minister van Justitie schriftelijke toestemming verkrijgen om in afwijking van de op dit stuk bestaande bepalingen inschrijving als advocaat en beëdiging als procureur te verzoeken.
+- e. van Onze Minister van Justitie schriftelijke toestemming verkrijgen om in afwijking van de op dit stuk bestaande bepalingen inschrijving en beëdiging als advocaat te verzoeken.
 
 ##### Artikel 2
 
@@ -64,7 +64,7 @@ Personen, die met goed gevolg het doctoraal examen, genoemd in [artikel 4](https
 
 ##### Artikel 3
 
-1. Indien personen als bedoeld in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002081&artikel=2&z=1999-06-01&g=1999-06-01) vóór het in werking treden van deze wet op een of meer notariskantoren in Nederland werkzaam zijn geweest, mag de tijd van deze werkzaamheden worden medegeteld voor de berekening van de werktijd bedoeld in het laatste [lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002081&artikel=2&z=1999-06-01&g=1999-06-01), mits zij binnen één maand na het in werking treden van deze wet hiervan kennis geven aan de Kamer van Toezicht, tot welker ressort de standplaats van de notaris behoort, onder overlegging van de bescheiden vermeld in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002081&artikel=2&z=1999-06-01&g=1999-06-01).
+1. Indien personen als bedoeld in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002081&artikel=2&z=2008-09-01&g=2008-09-01) vóór het in werking treden van deze wet op een of meer notariskantoren in Nederland werkzaam zijn geweest, mag de tijd van deze werkzaamheden worden medegeteld voor de berekening van de werktijd bedoeld in het laatste [lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002081&artikel=2&z=2008-09-01&g=2008-09-01), mits zij binnen één maand na het in werking treden van deze wet hiervan kennis geven aan de Kamer van Toezicht, tot welker ressort de standplaats van de notaris behoort, onder overlegging van de bescheiden vermeld in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002081&artikel=2&z=2008-09-01&g=2008-09-01).
 
 2. Het bepaalde in artikel 20**b**, tweede en vierde lid, der wet op het Notarisambt is van overeenkomstige toepassing op deze kennisgeving.
 
