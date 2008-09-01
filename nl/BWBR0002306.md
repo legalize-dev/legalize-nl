@@ -4,7 +4,7 @@ identifier: "BWBR0002306"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2002-01-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002306"
 soort: "wet"
@@ -97,11 +97,11 @@ Onze Minister van Justitie kan een andere rechterlijke autoriteit dan de kantonr
 
 ##### Artikel 9
 
-Wordt ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=7&z=2002-01-01&g=2002-01-01) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=8&z=2002-01-01&g=2002-01-01) dezer wet de rogatoire commissie overgedragen of tot uitvoering daarvan een andere autoriteit aangewezen dan die, aan welke de toezending der commissie aanvankelijk geschiedde, dan wordt aan laatstgenoemde zo spoedig mogelijk van de overdracht of aanwijzing bericht gezonden door de autoriteit, aan welke de commissie is overgedragen of die tot uitvoering daarvan is aangewezen.
+Wordt ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=7&z=2008-09-01&g=2008-09-01) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=8&z=2008-09-01&g=2008-09-01) dezer wet de rogatoire commissie overgedragen of tot uitvoering daarvan een andere autoriteit aangewezen dan die, aan welke de toezending der commissie aanvankelijk geschiedde, dan wordt aan laatstgenoemde zo spoedig mogelijk van de overdracht of aanwijzing bericht gezonden door de autoriteit, aan welke de commissie is overgedragen of die tot uitvoering daarvan is aangewezen.
 
 ##### Artikel 10
 
-Oordeelt de kantonrechter, door wie de uitvoering der rogatoire commissie zou behoren te geschieden, dat [artikel 11, derde lid, sub 3°, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=11&z=2002-01-01&g=2002-01-01) toepasselijk is, dan zendt hij de commissie onder opgaaf van redenen aan Onze Minister van Justitie, die, zo nodig na overleg met Onze Minister van Buitenlandse Zaken, beslist.
+Oordeelt de kantonrechter, door wie de uitvoering der rogatoire commissie zou behoren te geschieden, dat [artikel 11, derde lid, sub 3°, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=11&z=2008-09-01&g=2008-09-01) toepasselijk is, dan zendt hij de commissie onder opgaaf van redenen aan Onze Minister van Justitie, die, zo nodig na overleg met Onze Minister van Buitenlandse Zaken, beslist.
 
 ##### Artikel 11
 
@@ -163,15 +163,15 @@ De processen-verbaal van de uitvoering der rogatoire commissiën hebben gelijke 
 
 - 2°. een expeditie van de uitspraak;
 
-- 3°. een verklaring, ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=19&z=2002-01-01&g=2002-01-01) dezer wet afgegeven, dat de uitspraak ten aanzien der veroordeling in de kosten kracht van gewijsde zaak heeft verkregen.
+- 3°. een verklaring, ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=19&z=2008-09-01&g=2008-09-01) dezer wet afgegeven, dat de uitspraak ten aanzien der veroordeling in de kosten kracht van gewijsde zaak heeft verkregen.
 
 2. De stukken in het voorgaande lid, sub 1° en 3° genoemd, zijn ieder vergezeld van een vertaling in een der talen, bedoeld in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend); van de uitspraak wordt een zodanige vertaling nopens het gedeelte, dat de beslissing bevat, overgelegd. De vertalingen moeten voor overeenstemmend verklaard zijn door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
 
 ##### Artikel 21
 
-1. Onze Minister van Justitie zendt de stukken, in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2002-01-01&g=2002-01-01) dezer wet genoemd, langs de weg, in [artikel 18 van het verdrag](onbekend) vermeld, aan de bevoegde autoriteit van de Staat waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van een bevestiging, overeenkomstig [artikel 19, derde lid, van het verdrag](onbekend), en een vertaling daarvan in een der talen, in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend). Deze vertaling is voor overeenstemmend verklaard door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
+1. Onze Minister van Justitie zendt de stukken, in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2008-09-01&g=2008-09-01) dezer wet genoemd, langs de weg, in [artikel 18 van het verdrag](onbekend) vermeld, aan de bevoegde autoriteit van de Staat waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van een bevestiging, overeenkomstig [artikel 19, derde lid, van het verdrag](onbekend), en een vertaling daarvan in een der talen, in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend). Deze vertaling is voor overeenstemmend verklaard door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
 
-2. Indien niet voldaan is aan [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2002-01-01&g=2002-01-01) van deze wet, weigert hij de doorzending der stukken, echter niet, dan na getracht te hebben de naleving van dat artikel zoveel mogelijk te bevorderen.
+2. Indien niet voldaan is aan [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2008-09-01&g=2008-09-01) van deze wet, weigert hij de doorzending der stukken, echter niet, dan na getracht te hebben de naleving van dat artikel zoveel mogelijk te bevorderen.
 
 ##### Artikel 22
 
@@ -203,7 +203,7 @@ De uitvoerbaarverklaring van uitspraken overeenkomstig de voorschriften van het 
 
 ##### Artikel 26
 
-Voor verzoekschriften tot uitvoerbaarverklaring van uitspraken overeenkomstig de voorschriften van het verdrag, alsmede voor verzoekschriften, ingevolge het voorgaande artikel tot de Hoge Raad te richten, wordt de medewerking van een procureur of advocaat niet vereist.
+Voor verzoekschriften tot uitvoerbaarverklaring van uitspraken overeenkomstig de voorschriften van het verdrag, alsmede voor verzoekschriften, ingevolge het voorgaande artikel tot de Hoge Raad te richten, wordt de medewerking van een advocaat niet vereist.
 
 ##### Artikel 27
 
