@@ -4,7 +4,7 @@ identifier: "BWBR0020415"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-02-10"
-last_updated: "2007-01-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020415"
 soort: "AMvB"
@@ -156,7 +156,7 @@ De in dit besluit bedoelde financiële ondernemingen passen de in dit besluit be
 
 ## Bepalingen ter uitvoering van de [artikelen 3:284, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:284), [3:285](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:285), en [3:286, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:286)
 
-### Afdeling 3.1. Berekening van de aangepaste solvabiliteit van Nederlandse levensverzekeraars en schadeverzekeraars
+### Afdeling 3.1. Berekening van de aangepaste solvabiliteit van Nederlandse herverzekeraars, levensverzekeraars en schadeverzekeraars
 
 #### § 1. Rapportage van intragroepsovereenkomsten en -posities, keuze van de berekeningsmethode en algemene beginselen
 
@@ -166,7 +166,7 @@ De in dit besluit bedoelde financiële ondernemingen passen de in dit besluit be
 
 2. Onder significante intragroepsovereenkomsten of -posities als bedoeld in [artikel 3:284, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:284) worden verstaan overeenkomsten of posities die een door de Nederlandsche Bank vast te stellen drempel, gerelateerd aan de vereiste solvabiliteit, te boven gaan. Alvorens de drempel vast te stellen, voert de Nederlandsche Bank overleg met de betrokken verzekeraar. De Nederlandsche Bank stelt geen kwalitatieve of andere kwantitatieve drempels vast.
 
-3. De Nederlandsche Bank stelt regels met betrekking tot de categorieën overeenkomsten en posities die in de rapportage worden betrokken en de rapportage. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2007-01-01&g=2007-01-01), is van toepassing.
+3. De Nederlandsche Bank stelt regels met betrekking tot de categorieën overeenkomsten en posities die in de rapportage worden betrokken en de rapportage. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2008-09-01&g=2008-09-01), is van toepassing.
 
 ##### Artikel 6
 
@@ -182,13 +182,13 @@ De in dit besluit bedoelde financiële ondernemingen passen de in dit besluit be
 
 4. De verzekeraar rapporteert de aangepaste solvabiliteit eenmaal per jaar, tenzij de Nederlandsche Bank, indien de aangepaste solvabiliteit door ontwikkelingen bij de verzekeraar in het gedrang is of zou kunnen komen, besluit dat er gerapporteerd moet worden met een hogere frequentie.
 
-5. De Nederlandsche Bank stelt regels met betrekking tot de rapportage, bedoeld in het vierde lid. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2007-01-01&g=2007-01-01), is van toepassing.
+5. De Nederlandsche Bank stelt regels met betrekking tot de rapportage, bedoeld in het vierde lid. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2008-09-01&g=2008-09-01), is van toepassing.
 
 ##### Artikel 7
 
-1. Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01) die met Nederlandse of Europese levensverzekeraars of schadeverzekeraars is verbonden, betrekt in de berekening van de aangepaste solvabiliteit bij toepassing van methode 1 of 2, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&bijlage=A&z=2007-01-01&g=2007-01-01), het gedeelte van het geplaatste kapitaal dat zijn belang vertegenwoordigt, of bij toepassing van methode 3, bedoeld in genoemde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&bijlage=A&z=2007-01-01&g=2007-01-01), de percentages die worden gebruikt voor de opstelling van zijn geconsolideerde jaarrekening, bedoeld in [artikel 405 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=405).
+1. Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2008-09-01&g=2008-09-01) die met een Nederlandse of Europese herverzekeraar, levensverzekeraar of schadeverzekeraar is verbonden, betrekt in de berekening van de aangepaste solvabiliteit bij toepassing van methode 1 of 2, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&bijlage=A&z=2008-09-01&g=2008-09-01), het gedeelte van het geplaatste kapitaal dat zijn belang vertegenwoordigt, of bij toepassing van methode 3, bedoeld in genoemde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&bijlage=A&z=2008-09-01&g=2008-09-01), de percentages die worden gebruikt voor de opstelling van zijn geconsolideerde jaarrekening, bedoeld in [artikel 405 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=405).
 
-2. Ongeacht de methode die wordt toegepast, neemt de verzekeraar, indien een verbonden Nederlandse of Europese levensverzekeraar of schadeverzekeraar een dochteronderneming is en een solvabiliteitstekort vertoont, het totale solvabiliteitstekort van de dochteronderneming in aanmerking.
+2. Ongeacht de methode die wordt toegepast, neemt de verzekeraar, indien een verbonden Nederlandse of Europese herverzekeraar, levensverzekeraar of schadeverzekeraar een dochteronderneming is en een solvabiliteitstekort vertoont, het totale solvabiliteitstekort van de dochteronderneming in aanmerking.
 
 3. De Nederlandsche Bank kan besluiten dat de verzekeraar alleen het proportionele deel van het solvabiliteitstekort van de dochteronderneming, bedoeld in het tweede lid, bij de berekening behoeft te betrekken, indien zij van mening is dat de aansprakelijkheid van de verzekeraar strikt en ondubbelzinnig beperkt is tot zijn belang daarin.
 
@@ -196,35 +196,35 @@ De in dit besluit bedoelde financiële ondernemingen passen de in dit besluit be
 
 ##### Artikel 8
 
-1. Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=12&z=2007-01-01&g=2007-01-01) en ongeacht de gekozen methode, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=3&artikel=20&z=2007-01-01&g=2007-01-01), gebruikt een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01) de vermogensbestanddelen die in aanmerking worden genomen bij de berekening van de solvabiliteitsmarge niet meerdere malen voor de verschillende Nederlandse en Europese levensverzekeraars en schadeverzekeraars die bij die berekening betrokken zijn.
+1. Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=12&z=2008-09-01&g=2008-09-01) en ongeacht de gekozen methode, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=3&artikel=20&z=2008-09-01&g=2008-09-01), gebruikt een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2008-09-01&g=2008-09-01) de vermogensbestanddelen die in aanmerking worden genomen bij de berekening van de solvabiliteitsmarge niet meerdere malen voor de verschillende Nederlandse en Europese herverzekeraars, levensverzekeraars en schadeverzekeraars die bij die berekening betrokken zijn.
 
-2. Voorzover de methoden, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=3&artikel=20&z=2007-01-01&g=2007-01-01), daarin nog niet voorzien, betrekt de verzekeraar bij de berekening van zijn aangepaste solvabiliteit niet:
+2. Voorzover de methoden, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=3&artikel=20&z=2008-09-01&g=2008-09-01), daarin nog niet voorzien, betrekt de verzekeraar bij de berekening van zijn aangepaste solvabiliteit niet:
 
-- a. de waarde van zijn activa die dienen ter dekking van het minimumbedrag aan solvabiliteitsmarge van de met hem verbonden Nederlandse en Europese levensverzekeraars en schadeverzekeraars;
+- a. de waarde van zijn activa die dienen ter dekking van het minimumbedrag aan solvabiliteitsmarge van de met hem verbonden Nederlandse en Europese herverzekeraars, levensverzekeraars en schadeverzekeraars;
 
-- b. de waarde van de activa van met hem verbonden Nederlandse en Europese levensverzekeraars en schadeverzekeraars die dienen ter dekking van het minimumbedrag aan solvabiliteitsmarge van andere met die verbonden levensverzekeraars en schadeverzekeraars verbonden Nederlandse en Europese levensverzekeraars en schadeverzekeraars.
+- b. de waarde van de activa van met hem verbonden Nederlandse en Europese herverzekeraars, levensverzekeraars en schadeverzekeraars die dienen ter dekking van het minimumbedrag aan solvabiliteitsmarge van andere met die verbonden herverzekeraars, levensverzekeraars en schadeverzekeraars verbonden Nederlandse en Europese herverzekeraars, levensverzekeraars en schadeverzekeraars.
 
 ##### Artikel 9
 
-1. Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=8&z=2007-01-01&g=2007-01-01) betrekt een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01) winstreserves en toekomstige winsten die gegenereerd worden in met hem verbonden levensverzekeraars als bedoeld in [artikel 3:281 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:281), alsmede het geplaatste maar niet-gestorte aandelenkapitaal van met hem verbonden Nederlandse en Europese levensverzekeraars en schadeverzekeraars alleen in de berekening voorzover die in aanmerking zijn genomen voor de dekking van het minimumbedrag aan solvabiliteitsmarge van die verbonden Nederlandse en Europese levensverzekeraars en schadeverzekeraars.
+1. Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=8&z=2008-09-01&g=2008-09-01) betrekt een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2008-09-01&g=2008-09-01) meerwaarden op grond van winstverwachtingen die gegenereerd worden in met hem verbonden Nederlandse, Europese of niet-Europese herverzekeraars in de activiteit levensherverzekering, of Nederlandse, Europese of niet-Europese levensverzekeraars, alsmede het geplaatste maar niet-gestorte aandelenkapitaal van met hem verbonden Nederlandse en Europese herverzekeraars, levensverzekeraars en schadeverzekeraars alleen in de berekening voorzover die in aanmerking zijn genomen voor de dekking van het minimumbedrag aan solvabiliteitsmarge van die verbonden Nederlandse en Europese herverzekeraars, levensverzekeraars en schadeverzekeraars.
 
 2. De verzekeraar betrekt geplaatst maar niet-gestort aandelenkapitaal dat een potentiële verplichting van zijn zijde vormt, niet in de berekening.
 
-3. De verzekeraar betrekt zijn geplaatst maar niet-gestort aandelenkapitaal dat een potentiële verplichting van de zijde van een met hem verbonden Nederlandse of Europese levensverzekeraar of schadeverzekeraar vormt, niet in de berekening.
+3. De verzekeraar betrekt zijn geplaatst maar niet-gestort aandelenkapitaal dat een potentiële verplichting van de zijde van een met hem verbonden Nederlandse of Europese herverzekeraar, levensverzekeraar of schadeverzekeraar vormt, niet in de berekening.
 
-4. De verzekeraar betrekt geplaatst maar niet-gestort aandelenkapitaal van een verbonden Nederlandse of Europese levensverzekeraar of schadeverzekeraar dat een potentiële verplichting van de zijde van een andere met hem verbonden onderneming vormt, niet in de berekening.
+4. De verzekeraar betrekt geplaatst maar niet-gestort aandelenkapitaal van een verbonden Nederlandse of Europese herverzekeraar, levensverzekeraar of schadeverzekeraar dat een potentiële verplichting van de zijde van een andere met hem verbonden onderneming vormt, niet in de berekening.
 
 ##### Artikel 10
 
-Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01) betrekt andere dan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=9&z=2007-01-01&g=2007-01-01) bedoelde, voor de berekening van de solvabiliteitsmarge van in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=9&z=2007-01-01&g=2007-01-01) bedoelde verbonden Nederlandse en Europese levensverzekeraars en schadeverzekeraars in aanmerking komende vermogensbestanddelen die naar het oordeel van de Nederlandsche Bank niet beschikbaar zijn ter dekking van het minimumbedrag aan solvabiliteitsmarge van de verzekeraar, slechts in de berekening voorzover zij in aanmerking zijn genomen voor de dekking van het minimumbedrag aan solvabiliteitsmarge van die verbonden levensverzekeraars of schadeverzekeraars.
+Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2008-09-01&g=2008-09-01) betrekt andere dan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=9&z=2008-09-01&g=2008-09-01) bedoelde, voor de berekening van de solvabiliteitsmarge van in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=9&z=2008-09-01&g=2008-09-01) bedoelde verbonden Nederlandse en Europese herverzekeraars, levensverzekeraars en schadeverzekeraars in aanmerking komende vermogensbestanddelen die naar het oordeel van de Nederlandsche Bank niet beschikbaar zijn ter dekking van het minimumbedrag aan solvabiliteitsmarge van de verzekeraar, slechts in de berekening voorzover zij in aanmerking zijn genomen voor de dekking van het minimumbedrag aan solvabiliteitsmarge van die verbonden herverzekeraars, levensverzekeraars of schadeverzekeraars.
 
 ##### Artikel 11
 
-De totale waarde van de in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=9&z=2007-01-01&g=2007-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=10&z=2007-01-01&g=2007-01-01) bedoelde vermogensbestanddelen overschrijdt het minimumbedrag aan solvabiliteitsmarge van de verbonden Nederlandse en Europese levensverzekeraars en schadeverzekeraars niet.
+De totale waarde van de in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=9&z=2008-09-01&g=2008-09-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=10&z=2008-09-01&g=2008-09-01) bedoelde vermogensbestanddelen overschrijdt het minimumbedrag aan solvabiliteitsmarge van de verbonden Nederlandse en Europese herverzekeraars, levensverzekeraars en schadeverzekeraars niet.
 
 ##### Artikel 12
 
-1. Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01) betrekt bij de berekening van de aangepaste solvabiliteit geen vermogensbestanddelen die afkomstig zijn van de wederzijdse financiering tussen hem en:
+1. Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2008-09-01&g=2008-09-01) betrekt bij de berekening van de aangepaste solvabiliteit geen vermogensbestanddelen die afkomstig zijn van de wederzijdse financiering tussen hem en:
 
 - a. met hem verbonden ondernemingen;
 
@@ -232,81 +232,77 @@ De totale waarde van de in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:
 
 - c. andere ondernemingen die verbonden zijn met in hem deelnemende ondernemingen.
 
-2. De verzekeraar betrekt bij de berekening evenmin vermogensbestanddelen van een met hem verbonden Nederlandse of Europese levensverzekeraar of schadeverzekeraar die afkomstig zijn van de wederzijdse financiering tussen die verbonden levensverzekeraar of schadeverzekeraar en een andere daarmee verbonden onderneming.
+2. De verzekeraar betrekt bij de berekening evenmin vermogensbestanddelen van een met hem verbonden Nederlandse of Europese herverzekeraar, levensverzekeraar of schadeverzekeraar die afkomstig zijn van de wederzijdse financiering tussen die verbonden herverzekeraar, levensverzekeraar of schadeverzekeraar en een andere daarmee verbonden onderneming.
 
 #### § 2. Toepassing van de berekeningsmethoden
 
 ##### Artikel 13
 
-1. Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01) betrekt, ongeacht de gekozen methode, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=3&artikel=20&z=2007-01-01&g=2007-01-01), bij de berekening van de aangepaste solvabiliteit iedere rechtstreeks of middellijk met hem verbonden Nederlandse, Europese en niet-Europese levensverzekeraar en schadeverzekeraar.
+1. Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2008-09-01&g=2008-09-01) betrekt, ongeacht de gekozen methode, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=3&artikel=20&z=2008-09-01&g=2008-09-01), bij de berekening van de aangepaste solvabiliteit iedere rechtstreeks of middellijk met hem verbonden Nederlandse, Europese en niet-Europese herverzekeraar, levensverzekeraar en schadeverzekeraar.
 
 2. De Nederlandsche Bank kan besluiten dat de verzekeraar geen aangepaste solvabiliteit behoeft te berekenen, indien:
 
-- a. de verzekeraar een verbonden levensverzekeraar of schadeverzekeraar is van een andere Nederlandse levensverzekeraar of schadeverzekeraar en de verzekeraar in aanmerking wordt genomen bij de voor die andere verzekeraar uitgevoerde berekening;
+- a. de verzekeraar een verbonden herverzekeraar, levensverzekeraar of schadeverzekeraar is van een andere Nederlandse herverzekeraar, levensverzekeraar of schadeverzekeraar en de verzekeraar in aanmerking wordt genomen bij de voor die andere verzekeraar uitgevoerde berekening;
 
-- b. de verzekeraar als moederonderneming dezelfde verzekeringsholding, herverzekeraar of niet-Europese levensverzekeraar of schadeverzekeraar heeft als een andere Nederlandse levensverzekeraar of schadeverzekeraar en in aanmerking wordt genomen bij de voor die andere verzekeraar uitgevoerde berekening; of
+- b. de verzekeraar als moederonderneming dezelfde verzekeringsholding of niet-Europese herverzekeraar, levensverzekeraar of schadeverzekeraar heeft als een andere Nederlandse herverzekeraar, levensverzekeraar of schadeverzekeraar en in aanmerking wordt genomen bij de voor die andere verzekeraar uitgevoerde berekening; of
 
-- c. de verzekeraar als moederonderneming dezelfde verzekeringsholding, herverzekeraar of niet-Europese levensverzekeraar of schadeverzekeraar heeft als een niet-Europese levensverzekeraar of schadeverzekeraar en [artikel 3:288 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:288) is toegepast.
+- c. de verzekeraar als moederonderneming dezelfde verzekeringsholding of niet-Europese herverzekeraar, levensverzekeraar of schadeverzekeraar heeft als een niet-Europese herverzekeraar, levensverzekeraar of schadeverzekeraar en [artikel 3:288 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:288) is toegepast.
 
-3. De Nederlandsche Bank neemt slechts een besluit als bedoeld in het tweede lid, indien de vermogensbestanddelen die in aanmerking komen voor de berekening van de solvabiliteitsmarge van de bij de berekening betrokken levensverzekeraars of schadeverzekeraars, adequaat over de in dat lid bedoelde ondernemingen verdeeld zijn.
+3. De Nederlandsche Bank neemt slechts een besluit als bedoeld in het tweede lid, indien de vermogensbestanddelen die in aanmerking komen voor de berekening van de solvabiliteitsmarge van de bij de berekening betrokken herverzekeraars, levensverzekeraars of schadeverzekeraars, adequaat over de in dat lid bedoelde ondernemingen verdeeld zijn.
 
-4. De Nederlandsche Bank kan besluiten dat de verzekeraar bij de berekening rekening houdt met de solvabiliteit van een verbonden levensverzekeraar of schadeverzekeraar die zijn zetel heeft in een andere lidstaat, zoals die door de toezichthoudende instantie van die andere lidstaat is vastgesteld.
+4. De Nederlandsche Bank kan besluiten dat de verzekeraar bij de berekening rekening houdt met de solvabiliteit van een verbonden herverzekeraar, levensverzekeraar of schadeverzekeraar die zijn zetel heeft in een andere lidstaat, zoals die door de toezichthoudende instantie van die andere lidstaat is vastgesteld.
 
 ##### Artikel 14
 
-1. Bij de berekening van de aangepaste solvabiliteit overeenkomstig deze afdeling wordt een met de verzekeraar verbonden herverzekeraar beschouwd als een verbonden Nederlandse of Europese levensverzekeraar of schadeverzekeraar.
-
-2. Het theoretisch minimumbedrag aan solvabiliteitsmarge wordt berekend voor iedere verbonden herverzekeraar, overeenkomstig het voor Nederlandse schadeverzekeraars te berekenen minimumbedrag aan solvabiliteitsmarge, bedoeld in de [artikelen 3:53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en [3:57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57). De Nederlandsche Bank kan besluiten dat een levensherverzekeraar het theoretisch minimumbedrag aan solvabiliteitsmarge op dezelfde wijze berekent als het minimumbedrag aan solvabiliteitsmarge voor Nederlandse levensverzekeraars, bedoeld in de [artikelen 3:53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en [3:57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
+Vervallen
 
 ##### Artikel 15
 
-Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01) die door middel van een tussenliggende verzekeringsholding deelneemt in een levensverzekeraar of schadeverzekeraar als bedoeld in [artikel 3:281 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:281) of een herverzekeraar als bedoeld in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) betrekt bij de berekening van de aangepaste solvabiliteit deze tussenliggende verzekeringsholding en stelt daarbij het minimumbedrag aan solvabiliteitsmarge van de tussenliggende verzekeringsholding gelijk aan nul. Daarbij is van overeenkomstige toepassing hetgeen ingevolge de [artikelen 3:53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en [3:57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) is bepaald met betrekking tot de toegestane vermogensbestanddelen voor het minimumbedrag aan solvabiliteitsmarge van een Nederlandse levensverzekeraar of schadeverzekeraar.
+Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2008-09-01&g=2008-09-01) die door middel van een tussenliggende verzekeringsholding deelneemt in een Nederlandse, Europese of niet-Europese herverzekeraar, levensverzekeraar of schadeverzekeraar betrekt bij de berekening van de aangepaste solvabiliteit deze tussenliggende verzekeringsholding en stelt daarbij het minimumbedrag aan solvabiliteitsmarge van de tussenliggende verzekeringsholding gelijk aan nul. Daarbij is van overeenkomstige toepassing hetgeen ingevolge de [artikelen 3:53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en [3:57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) is bepaald met betrekking tot de toegestane vermogensbestanddelen voor het minimumbedrag aan solvabiliteitsmarge van een Nederlandse herverzekeraar, levensverzekeraar of schadeverzekeraar.
 
 ##### Artikel 16
 
-1. Bij de berekening van de aangepaste solvabiliteit van een in een niet-Europese levensverzekeraar of schadeverzekeraar deelnemende Nederlandse levensverzekeraar of schadeverzekeraar, wordt de niet-Europese levensverzekeraar of schadeverzekeraar voor de berekening behandeld als een verbonden Nederlandse levensverzekeraar of schadeverzekeraar.
+1. Bij de berekening van de aangepaste solvabiliteit van een in een niet-Europese herverzekeraar, levensverzekeraar of schadeverzekeraar deelnemende Nederlandse herverzekeraar, levensverzekeraar of schadeverzekeraar, wordt de niet-Europese herverzekeraar, levensverzekeraar of schadeverzekeraar voor de berekening behandeld als een verbonden Nederlandse herverzekeraar, levensverzekeraar of schadeverzekeraar.
 
-2. Indien de niet-Europese levensverzekeraar of schadeverzekeraar, bedoeld in het eerste lid, in de staat van zijn zetel een vergunning heeft en beschikt over een solvabiliteitsmarge, die ten minste overeenkomt met de ingevolge de [artikelen 3:53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en [3:57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) voorgeschreven solvabiliteit, kan de Nederlandsche Bank besluiten dat de verzekeraar, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), bij de berekening met betrekking tot die levensverzekeraar of schadeverzekeraar rekening houdt met het minimumbedrag aan solvabiliteitsmarge en met de voor het nakomen van dat minimumbedrag in aanmerking komende vermogensbestanddelen zoals die zijn voorgeschreven door de staat waar de niet-Europese levensverzekeraar of schadeverzekeraar zijn zetel heeft.
+2. Indien de niet-Europese herverzekeraar, levensverzekeraar of schadeverzekeraar, bedoeld in het eerste lid, in de staat van zijn zetel een vergunning heeft en beschikt over een solvabiliteitsmarge, die ten minste overeenkomt met de ingevolge de [artikelen 3:53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en [3:57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) voorgeschreven solvabiliteit, kan de Nederlandsche Bank besluiten dat de verzekeraar, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2008-09-01&g=2008-09-01), bij de berekening met betrekking tot die herverzekeraar, levensverzekeraar of schadeverzekeraar rekening houdt met het minimumbedrag aan solvabiliteitsmarge en met de voor het nakomen van dat minimumbedrag in aanmerking komende vermogensbestanddelen zoals die zijn voorgeschreven door de staat waar de niet-Europese herverzekeraar, levensverzekeraar of schadeverzekeraar zijn zetel heeft.
 
 ##### Artikel 17
 
-Onverminderd de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=14&z=2007-01-01&g=2007-01-01) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=16&z=2007-01-01&g=2007-01-01), kan de Nederlandsche Bank besluiten dat een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01) bij de berekening van de aangepaste solvabiliteit met betrekking tot een verbonden herverzekeraar met zetel in een staat die geen lidstaat is, rekening houdt met het minimumbedrag aan eigen vermogen en met de voor het nakomen van dat minimumbedrag in aanmerking komende vermogensbestanddelen, zoals die zijn voorgeschreven door de staat waar die herverzekeraar zijn zetel heeft. Indien in die staat zodanige voorschriften alleen zijn gesteld voor levensverzekeraars of schadeverzekeraars, kan de verzekeraar het theoretisch minimumbedrag aan eigen vermogen van de verbonden herverzekeraar berekenen alsof het gaat om een verbonden levensverzekeraar of schadeverzekeraar met zetel in die staat. Bij deze berekening houdt de verzekeraar rekening met de voor het nakomen van dat theoretisch minimumbedrag ingevolge de [artikelen 3:53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en [3:57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) aangewezen in aanmerking komende vermogensbestanddelen.
+Vervallen
 
 ##### Artikel 18
 
-Bij de berekening van de aangepaste solvabiliteit van een Nederlandse levensverzekeraar of schadeverzekeraar die een deelnemende onderneming is in een beleggingsonderneming, financiële instelling of kredietinstelling, is hetgeen is bepaald ingevolge [artikel 3:57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) met betrekking tot de mogelijke aftrek van een dergelijke deelneming en de mogelijkheid om alternatieve methoden toe te staan van overeenkomstige toepassing.
+Bij de berekening van de aangepaste solvabiliteit van een Nederlandse herverzekeraar, levensverzekeraar of schadeverzekeraar die een deelnemende onderneming is in een beleggingsonderneming, financiële instelling of kredietinstelling, is hetgeen is bepaald ingevolge [artikel 3:57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) met betrekking tot de mogelijke aftrek van een dergelijke deelneming en de mogelijkheid om alternatieve methoden toe te staan van overeenkomstige toepassing.
 
 ##### Artikel 19
 
-Indien de Nederlandsche Bank niet beschikt over de voor het toezicht op de berekening overeenkomstig deze afdeling noodzakelijke informatie betreffende een verbonden onderneming, brengt de verzekeraar, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), de boekwaarde van deze onderneming in mindering op de vermogensbestanddelen die in aanmerking komen voor de berekening van de aangepaste solvabiliteit. In dat geval worden aan deze deelneming verbonden meerwaarden niet als vermogensbestanddeel in deze berekening betrokken.
+Indien de Nederlandsche Bank niet beschikt over de voor het toezicht op de berekening overeenkomstig deze afdeling noodzakelijke informatie betreffende een verbonden onderneming, brengt de verzekeraar, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2008-09-01&g=2008-09-01), de boekwaarde van deze onderneming in mindering op de vermogensbestanddelen die in aanmerking komen voor de berekening van de aangepaste solvabiliteit. In dat geval worden aan deze deelneming verbonden meerwaarden niet als vermogensbestanddeel in deze berekening betrokken.
 
 #### § 3. Berekeningsmethoden
 
 ##### Artikel 20
 
-Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01) past voor de berekening van de aangepaste solvabiliteit een van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&bijlage=A&z=2007-01-01&g=2007-01-01) bij dit besluit opgenomen berekeningsmethoden toe.
+Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2008-09-01&g=2008-09-01) past voor de berekening van de aangepaste solvabiliteit een van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&bijlage=A&z=2008-09-01&g=2008-09-01) bij dit besluit opgenomen berekeningsmethoden toe.
 
-### Afdeling 3.2. Aanvullend toezicht op levensverzekeraars en schadeverzekeraars die dochteronderneming zijn van een verzekeringsholding, een herverzekeraar of een levensverzekeraar of schadeverzekeraar met zetel in een staat die geen lidstaat is
+### Afdeling 3.2. Aanvullend toezicht op herverzekeraars, levensverzekeraars en schadeverzekeraars die dochteronderneming zijn van een verzekeringsholding, een niet-Europese herverzekeraar, levensverzekeraar of schadeverzekeraar
 
 ##### Artikel 21
 
-1. Een levensverzekeraar of schadeverzekeraar als bedoeld in [artikel 3:286, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:286) berekent de aangepaste solvabiliteit overeenkomstig [afdeling 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&z=2007-01-01&g=2007-01-01).
+1. Een herverzekeraar, levensverzekeraar of schadeverzekeraar als bedoeld in [artikel 3:286, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:286) berekent de aangepaste solvabiliteit overeenkomstig [afdeling 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&z=2008-09-01&g=2008-09-01).
 
-2. De [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=13&z=2007-01-01&g=2007-01-01), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=19&z=2007-01-01&g=2007-01-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2008-09-01&g=2008-09-01), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=13&z=2008-09-01&g=2008-09-01), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=19&z=2008-09-01&g=2008-09-01) zijn van overeenkomstige toepassing.
 
-3. Indien sprake is van middellijke deelnemingen in de verzekeraar, kan de Nederlandsche Bank besluiten dat de verzekeraar slechts de uiteindelijke moederonderneming van de levensverzekeraar of schadeverzekeraar die als verzekeringsholding, herverzekeraar of niet-Europese levensverzekeraar of schadeverzekeraar is aan te merken, in de berekening betrekt.
+3. Indien sprake is van middellijke deelnemingen in de verzekeraar, kan de Nederlandsche Bank besluiten dat de verzekeraar slechts de uiteindelijke moederonderneming van de herverzekeraar, levensverzekeraar of schadeverzekeraar die als verzekeringsholding of niet-Europese herverzekeraar, levensverzekeraar of schadeverzekeraar is aan te merken, in de berekening betrekt.
 
 ##### Artikel 22
 
-1. De verzekeraar, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.2&artikel=21&z=2007-01-01&g=2007-01-01), past bij de berekening van de aangepaste solvabiliteit ten aanzien van een in hem deelnemende verzekeringsholding, herverzekeraar of niet-Europese levensverzekeraar of schadeverzekeraar, de [artikelen 6 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2007-01-01&g=2007-01-01) toe.
+1. De verzekeraar, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.2&artikel=21&z=2008-09-01&g=2008-09-01), past bij de berekening van de aangepaste solvabiliteit ten aanzien van een in hem deelnemende verzekeringsholding of niet-Europese herverzekeraar, levensverzekeraar of schadeverzekeraar, de [artikelen 6 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=6&z=2008-09-01&g=2008-09-01) toe.
 
-2. Voor deze berekening worden de ondernemingen, bedoeld in het eerste lid, beschouwd als een levensverzekeraar of schadeverzekeraar waarvoor geldt:
+2. Voor deze berekening worden de ondernemingen, bedoeld in het eerste lid, beschouwd als een herverzekeraar, levensverzekeraar of schadeverzekeraar waarvoor geldt:
 
-- a. een minimumbedrag aan solvabiliteitsmarge gelijk aan nul indien het een verzekeringsholding betreft;
+- a. dat het minimumbedrag aan solvabiliteitsmarge gelijk aan nul is indien het een verzekeringsholding betreft; en
 
-- b. het theoretisch minimumbedrag aan solvabiliteitsmarge, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=14&z=2007-01-01&g=2007-01-01), indien het een herverzekeraar betreft, of [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=17&z=2007-01-01&g=2007-01-01), indien dat artikel van toepassing is; en
-
-- c. het minimumbedrag aan solvabiliteitsmarge berekend overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=16&z=2007-01-01&g=2007-01-01) indien het een niet-Europese levensverzekeraar of schadeverzekeraar betreft.
+- b. dat het minimumbedrag aan solvabiliteitsmarge wordt berekend overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=16&z=2008-09-01&g=2008-09-01) indien het een niet-Europese herverzekeraar, levensverzekeraar of schadeverzekeraar betreft.
 
 3. Ten aanzien van de ondernemingen, bedoeld in het eerste lid, is hetgeen ingevolge de [artikelen 3:53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en [3:57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) is bepaald met betrekking tot de vermogensbestanddelen die in aanmerking komen voor de solvabiliteitsmarge, van overeenkomstige toepassing.
 
@@ -320,7 +316,7 @@ Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:B
 
 1. Een onderneming als bedoeld in [artikel 3:296, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:296) berekent de aanvullende kapitaaltoereikendheid van het financieel conglomeraat in overeenstemming met de ingevolge dit hoofdstuk voorgeschreven regels.
 
-2. De onderneming past voor de berekening van de aanvullende kapitaaltoereikendheid een van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&bijlage=B&z=2007-01-01&g=2007-01-01) bij dit besluit opgenomen berekeningsmethoden toe.
+2. De onderneming past voor de berekening van de aanvullende kapitaaltoereikendheid een van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&bijlage=B&z=2008-09-01&g=2008-09-01) bij dit besluit opgenomen berekeningsmethoden toe.
 
 3. De aanvullende kapitaaltoereikendheid is voldoende indien de uitkomst van de berekening, bedoeld in het tweede lid, niet negatief is.
 
@@ -330,17 +326,17 @@ Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:B
 
 1. Een onderneming als bedoeld in [artikel 3:296, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:296) verstrekt de in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:296) bedoelde berekening eenmaal per jaar. De Nederlandsche Bank kan, indien ontwikkelingen in de aanvullende kapitaaltoereikendheid daar aanleiding toe geven, besluiten dat die onderneming de berekening met een hogere frequentie verstrekt.
 
-2. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, nadere regels met betrekking tot de rapportage van de aanvullende kapitaaltoereikendheid. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2007-01-01&g=2007-01-01), is van toepassing.
+2. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, nadere regels met betrekking tot de rapportage van de aanvullende kapitaaltoereikendheid. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2008-09-01&g=2008-09-01), is van toepassing.
 
-3. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over de aanvullende kapitaaltoereikendheid en die is opgesteld met gebruikmaking van de procedures, bedoeld in [artikel 28, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2007-01-01&g=2007-01-01).
+3. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over de aanvullende kapitaaltoereikendheid en die is opgesteld met gebruikmaking van de procedures, bedoeld in [artikel 28, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2008-09-01&g=2008-09-01).
 
 ##### Artikel 25
 
-1. Ongeacht welke van de in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2007-01-01&g=2007-01-01), bedoelde methoden wordt toegepast, betrekt de onderneming, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2007-01-01&g=2007-01-01), het totale solvabiliteitstekort van een dochteronderneming bij de berekening, indien het groepslid een dochteronderneming is en zij een solvabiliteitstekort of, indien het groepslid een niet-gereglementeerde entiteit uit de financiële marktsector is, een theoretisch solvabiliteitstekort heeft.
+1. Ongeacht welke van de in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2008-09-01&g=2008-09-01), bedoelde methoden wordt toegepast, betrekt de onderneming, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2008-09-01&g=2008-09-01), het totale solvabiliteitstekort van een dochteronderneming bij de berekening, indien het groepslid een dochteronderneming is en zij een solvabiliteitstekort of, indien het groepslid een niet-gereglementeerde entiteit uit de financiële marktsector is, een theoretisch solvabiliteitstekort heeft.
 
 2. Indien de Nederlandsche Bank coördinator is als bedoeld in [artikel 3:293 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:293) en zij van oordeel is dat de aansprakelijkheid van de moederonderneming die een gedeelte van het kapitaal van de dochteronderneming in eigendom heeft, strikt en ondubbelzinnig tot dat gedeelte van het kapitaal beperkt is, kan zij besluiten dat de onderneming het solvabiliteitstekort van die dochteronderneming proportioneel in aanmerking neemt. Indien tussen de groepsleden geen kapitaalbanden bestaan, bepaalt de Nederlandsche Bank, indien zij coördinator is als bedoeld in [artikel 3:293 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:293), na overleg met de relevante toezichthoudende instanties, het gedeelte van het solvabiliteitstekort dat de onderneming bij de berekening betrekt, rekening houdend met de aansprakelijkheid waartoe de bestaande betrekkingen aanleiding geven.
 
-3. Ongeacht welke van de in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2007-01-01&g=2007-01-01), bedoelde methoden wordt toegepast:
+3. Ongeacht welke van de in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2008-09-01&g=2008-09-01), bedoelde methoden wordt toegepast:
 
 - a. is het meerdere malen gebruiken van vermogensbestanddelen die voor de berekening van het eigen vermogen in aanmerking komen op het niveau van het financiële conglomeraat of de creatie van eigen vermogen binnen de groep niet toegestaan; met het oog daarop zijn de relevante regels van de desbetreffende sectorale voorschriften van overeenkomstige toepassing;
 
@@ -364,9 +360,9 @@ Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:B
 
 3. De Nederlandsche Bank bepaalt, na overleg met de andere toezichthoudende instanties, welke categorieën risico’s van de gereglementeerde entiteiten in een bepaald financieel conglomeraat worden gerapporteerd op basis van [artikel 3:297, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:297). Daarbij houdt de Nederlandsche Bank rekening met de specifieke groeps- en risicobeheerstructuur van het financiële conglomeraat.
 
-4. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, nadere regels met betrekking tot de rapportage van de risicoconcentraties. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2007-01-01&g=2007-01-01), is van toepassing.
+4. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, nadere regels met betrekking tot de rapportage van de risicoconcentraties. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2008-09-01&g=2008-09-01), is van toepassing.
 
-5. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over risicoconcentraties en die is opgesteld met gebruikmaking van de procedures, bedoeld in [artikel 28, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2007-01-01&g=2007-01-01).
+5. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over risicoconcentraties en die is opgesteld met gebruikmaking van de procedures, bedoeld in [artikel 28, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2008-09-01&g=2008-09-01).
 
 ##### Artikel 27
 
@@ -376,9 +372,9 @@ Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:B
 
 3. De Nederlandsche Bank bepaalt, na overleg met de andere toezichthoudende instanties, welke categorieën overeenkomsten of posities van de gereglementeerde entiteiten in een bepaald financieel conglomeraat worden gerapporteerd op basis van [artikel 3:298, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:298). Daarbij houdt de Nederlandsche Bank rekening met de specifieke groeps- en risicobeheerstructuur van het financiële conglomeraat.
 
-4. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, nadere regels met betrekking tot de rapportage van de intragroepsovereenkomsten en -posities. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2007-01-01&g=2007-01-01), is van toepassing.
+4. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, nadere regels met betrekking tot de rapportage van de intragroepsovereenkomsten en -posities. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2008-09-01&g=2008-09-01), is van toepassing.
 
-5. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over intragroepovereenkomsten en -posities en die is opgesteld met gebruikmaking van de procedures bedoeld in [artikel 28, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2007-01-01&g=2007-01-01).
+5. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over intragroepovereenkomsten en -posities en die is opgesteld met gebruikmaking van de procedures bedoeld in [artikel 28, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2008-09-01&g=2008-09-01).
 
 ##### Artikel 28
 
@@ -406,27 +402,27 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 
 Dit besluit wordt aangehaald als: Besluit prudentieel toezicht financiële groepen Wft.
 
-## Bijlage A. bij [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=3&artikel=20&z=2007-01-01&g=2007-01-01)
+## Bijlage A. bij [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.1&paragraaf=3&artikel=20&z=2008-09-01&g=2008-09-01)
 
 ### **Methode 1. Aftrek en aggregatie**
 
-Methode waarbij de aangepaste solvabiliteit van de deelnemende levensverzekeraar of herverzekeraar wordt berekend als het verschil tussen:
+Methode waarbij de aangepaste solvabiliteit van de deelnemende herverzekeraar, levensverzekeraar of schadeverzekeraar wordt berekend als het verschil tussen:
 
-Indien de deelneming in de verbonden levensverzekeraar of schadeverzekeraar geheel of ten dele bestaat uit een middellijk belang wordt in punt ii), eerste streepje, de waarde daarvan in de berekening betrokken met inachtneming van de desbetreffende opeenvolgende deelnemingen. Ook worden in de punten i), tweede streepje, en ii), derde streepje, de proportionele delen van, onderscheidenlijk, de vermogensbestanddelen die in aanmerking komen voor de solvabiliteitsmarge van de verbonden levensverzekeraar of schadeverzekeraar en het minimumbedrag aan solvabiliteitsmarge van die levensverzekeraar of schadeverzekeraar in de berekening begrepen.
+Indien de deelneming in de verbonden herverzekeraar, levensverzekeraar of schadeverzekeraar geheel of ten dele bestaat uit een middellijk belang wordt in punt ii), eerste streepje, de waarde daarvan in de berekening betrokken met inachtneming van de desbetreffende opeenvolgende deelnemingen. Ook worden in de punten i), tweede streepje, en ii), derde streepje, de proportionele delen van, onderscheidenlijk, de vermogensbestanddelen die in aanmerking komen voor de solvabiliteitsmarge van de verbonden herverzekeraar, levensverzekeraar of schadeverzekeraar en het minimumbedrag aan solvabiliteitsmarge van die herverzekeraar, levensverzekeraar of schadeverzekeraar in de berekening begrepen.
 
 ### **Methode 2. Aftrek van een vereiste**
 
-Methode waarbij de aangepaste solvabiliteit van de deelnemende levensverzekeraar of schadeverzekeraar wordt berekend als het verschil tussen:
+Methode waarbij de aangepaste solvabiliteit van de deelnemende herverzekeraar, levensverzekeraar of schadeverzekeraar wordt berekend als het verschil tussen:
 
 Voor de waardering van de vermogensbestanddelen die in aanmerking komen voor de solvabiliteitsmarge worden deelnemingen vastgesteld op basis van de nettovermogenswaarde, overeenkomstig [artikel 389, tweede lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=389).
 
 ### **Methode 3. Methode op basis van consolidatie van jaarrekeningen**
 
-Methode waarbij de aangepaste solvabiliteit van de deelnemende levensverzekeraar of schadeverzekeraar wordt berekend aan de hand van de geconsolideerde jaarrekeningen en is het verschil tussen:
+Methode waarbij de aangepaste solvabiliteit van de deelnemende herverzekeraar, levensverzekeraar of schadeverzekeraar wordt berekend aan de hand van de geconsolideerde jaarrekeningen en is het verschil tussen:
 
 Het bepaalde ingevolge de [artikelen 3:53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en [3:57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) is van overeenkomstige toepassing op de bepaling van de vermogensbestanddelen die in aanmerking komen voor de solvabiliteitsmarge en de berekening van het minimumbedrag aan solvabiliteitsmarge op basis van de geconsolideerde gegevens.
 
-## Bijlage B. bij [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2007-01-01&g=2007-01-01)
+## Bijlage B. bij [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2008-09-01&g=2008-09-01)
 
 ### **Methode 1. Methode op basis van consolidatie van jaarrekeningen**
 
