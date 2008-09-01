@@ -4,7 +4,7 @@ identifier: "BWBR0009255"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2004-07-01"
+last_updated: "2008-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009255"
 soort: "AMvB"
@@ -210,37 +210,37 @@ Vervallen
 
 ##### Artikel 26
 
-Het in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Derde&artikel=21&z=2004-07-01&g=2004-07-01) bedoelde kostuum voor de substituut-griffier van de Hoge Raad is gelijk aan het kostuum dat in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Derde&artikel=22&z=2004-07-01&g=2004-07-01) is voorgeschreven voor de griffier van de Hoge Raad, met dien verstande dat het borduursel op de omslagen van de mouwen de halve breedte heeft.
+Het in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Derde&artikel=21&z=2008-09-01&g=2008-09-01) bedoelde kostuum voor de substituut-griffier van de Hoge Raad is gelijk aan het kostuum dat in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Derde&artikel=22&z=2008-09-01&g=2008-09-01) is voorgeschreven voor de griffier van de Hoge Raad, met dien verstande dat het borduursel op de omslagen van de mouwen de halve breedte heeft.
 
-### hoofdstuk Vierde. Het kostuum van de advocaten en de procureurs
+### hoofdstuk Vierde. Het kostuum van de advocaten
 
 ##### Artikel 27
 
-1. De advocaten en de procureurs, in hun hoedanigheid binnen een gebouw, dat als gerechtsgebouw dienst doet, optredende ter terechtzitting van een in artikel 1 genoemd college of ter gelegenheid van een ambtsverrichting bij de vervulling waarvan het college of de hiervan lid zijnde rechterlijke ambtenaar het kostuum draagt, zomede tijdens hun beëdiging zijn gekleed in toga met bef.
+1. De advocaten, in hun hoedanigheid binnen een gebouw, dat als gerechtsgebouw dienst doet, optredende ter terechtzitting van een in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Eerste&artikel=1&z=2008-09-01&g=2008-09-01) genoemd college of ter gelegenheid van een ambtsverrichting bij de vervulling waarvan het college of de hiervan lid zijnde rechterlijke ambtenaar het kostuum draagt, zomede tijdens hun beëdiging zijn gekleed in toga met bef.
 
 2. De advocaten mogen de toga met bef eveneens dragen, wanneer zij in hun hoedanigheid binnen een gebouw, dat als gerechtsgebouw dienst doet, optreden ter terechtzitting van een kantonrechter of ter gelegenheid van een ambtsverrichting, bij de vervulling waarvan de kantonrechter het kostuum draagt.
 
-3. Het bepaalde in het tweede lid is van overeenkomstige toepassing, indien een advocaat in zijn hoedanigheid optreedt voor een niet in artikel 1 genoemd rechtscollege, waarvan de leden of een lid ter terechtzitting een ambtskostuum dragen of draagt.
+3. Het bepaalde in het tweede lid is van overeenkomstige toepassing, indien een advocaat in zijn hoedanigheid optreedt voor een niet in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Eerste&artikel=1&z=2008-09-01&g=2008-09-01) genoemd rechtscollege, waarvan de leden of een lid ter terechtzitting een ambtskostuum dragen of draagt.
 
-4. Indien het bestuur van een gerecht of de president van de Hoge Raad ter gelegenheid van een terechtzitting of plechtigheid als bedoeld in artikel 20 het dragen van ridderorden en eretekenen heeft voorgeschreven, geldt zijn voorschrift ook voor de advocaten, die de zitting of plechtigheid bijwonen.
+4. Indien het bestuur van een gerecht of de president van de Hoge Raad ter gelegenheid van een terechtzitting of plechtigheid als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Tweede&artikel=20&z=2008-09-01&g=2008-09-01) het dragen van ridderorden en eretekenen heeft voorgeschreven, geldt zijn voorschrift ook voor de advocaten, die de zitting of plechtigheid bijwonen.
 
 ##### Artikel 28
 
-De toga van de advocaten en de procureurs is gelijk aan die, welke is omschreven in artikel 3, met dien verstande, dat de toga is van dof grein of van een hierop gelijkende stof zonder banen met aan de mouwen omslagen van dezelfde stof.
+De toga van de advocaten is gelijk aan die, welke is omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Tweede&artikel=3&z=2008-09-01&g=2008-09-01), met dien verstande, dat de toga is van dof grein of van een hierop gelijkende stof zonder banen met aan de mouwen omslagen van dezelfde stof.
 
 ##### Artikel 29
 
-1. De door de advocaten en de procureurs te dragen bef is gelijk aan die, welke is omschreven in het eerste en tweede lid van artikel 10.
+1. De door de advocaten te dragen bef is gelijk aan die, welke is omschreven in het [eerste en tweede lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Tweede&artikel=10&z=2008-09-01&g=2008-09-01).
 
-2. De bef wordt door de advocaten en de procureurs zodanig bevestigd, dat hetgeen zonder van de toga deel uit te maken om de hals wordt gedragen niet zichtbaar is.
+2. De bef wordt door de advocaten zodanig bevestigd, dat hetgeen zonder van de toga deel uit te maken om de hals wordt gedragen niet zichtbaar is.
 
 3. Het bepaalde in het vorige lid is niet van toepassing, indien en voor zover een gesteven witte boord met witte strik wordt gedragen.
 
 ##### Artikel 30
 
-1. De advocaten en de procureurs mogen in de gevallen, waarin zij een toga met bef dragen, desverkiezende gedekt zijn met een baret.
+1. De advocaten mogen in de gevallen, waarin zij een toga met bef dragen, desverkiezende gedekt zijn met een baret.
 
-2. De door de advocaten en de procureurs gedragen baret is gelijk aan die, welke is omschreven in artikel 11, met dien verstande, dat de baret moet zijn van dezelfde stof als waarvan de daarbij gedragen toga is vervaardigd.
+2. De door de advocaten gedragen baret is gelijk aan die, welke is omschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Tweede&artikel=11&z=2008-09-01&g=2008-09-01), met dien verstande, dat de baret moet zijn van dezelfde stof als waarvan de daarbij gedragen toga is vervaardigd.
 
 ### hoofdstuk Vijfde. Slotbepalingen
 
