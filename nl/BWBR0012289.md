@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2008-08-02"
+last_updated: "2008-09-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -4623,7 +4623,7 @@ Als de Nederlandse hoofdpersoon gebruik maakt of heeft gemaakt van het vrij verk
 
 Ingevolge [artikel 29, eerste lid, onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) komen de echtgeno(o)t(e) en minderjarige kinderen van vreemdelingen die in het bezit zijn van een asielvergunning voor bepaalde tijd eveneens in aanmerking voor een zodanige vergunning indien zij gelijktijdig met deze vreemdeling Nederland zijn ingereisd dan wel zijn nagereisd binnen drie maanden na verlening van de verblijfsvergunning aan de hoofdpersoon.
 
-[Artikel 29, eerste lid, onder e en f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) geeft regels met betrekking tot gezinshereniging (niet: gezinsvorming) met een vreemdeling die houder is van een verblijfsvergunning asiel voor bepaalde tijd. Indien wordt voldaan aan de voorwaarden van [artikel 29, eerste lid, onder e en f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) kan aan de daar genoemde gezinsleden een verblijfsvergunning voor bepaalde tijd asiel worden verleend.Verwezen wordt naar C1/4.6 en C5/23. In de overige gevallen zijn de regels over de verlening van de verblijfsvergunning regulier van toepassing op gezinshereniging en gezinsvorming met een houder van een verblijfsvergunning asiel.
+[Artikel 29, eerste lid, onder e en f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) geeft regels met betrekking tot gezinshereniging (niet: gezinsvorming) met een vreemdeling die houder is van een verblijfsvergunning asiel voor bepaalde tijd. Indien wordt voldaan aan de voorwaarden van [artikel 29, eerste lid, onder e en f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) kan aan de daar genoemde gezinsleden een verblijfsvergunning voor bepaalde tijd asiel worden verleend. Verwezen wordt naar [C1/4.6](onbekend) en [C5/23](onbekend). In de overige gevallen zijn de regels over de verlening van de verblijfsvergunning regulier van toepassing op gezinshereniging en gezinsvorming met een houder van een verblijfsvergunning asiel.
 
 Ingevolge [artikel 29, eerste lid, onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) komen de echtgeno(o)t(e) en minderjarige kinderen van vreemdelingen die in het bezit zijn van een asielvergunning voor bepaalde tijd eveneens in aanmerking voor een zodanige vergunning indien zij gelijktijdig met deze vreemdeling Nederland zijn ingereisd dan wel zijn nagereisd binnen drie maanden na verlening van de verblijfsvergunning aan de hoofdpersoon.
 
@@ -4635,9 +4635,9 @@ In het kader van de hieronder uitgewerkte regeling kan een vreemdeling in aanmer
 
 Vreemdelingen die in aanmerking komen voor verblijf op basis van de onderhavige regeling worden derhalve niet in het bezit gesteld van een verblijfsvergunning asiel bepaalde tijd op grond van [artikel 29, eerste lid, onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
-Aanvragen van vreemdelingen die onder deze regeling vallen, worden getoetst aan de voorwaarden zoals omschreven in C1/4.6 en C5/23, afgezien van de nareistermijn van drie maanden.
+Aanvragen van vreemdelingen die onder deze regeling vallen, worden getoetst aan de voorwaarden zoals omschreven in [C1/4.6](onbekend) en [C5/23](onbekend), afgezien van de nareistermijn van drie maanden.
 
-Bij inwilliging van de aanvraag om afgifte van een mvv dient de vreemdeling erop te worden gewezen dat hij zich binnen drie dagen na aankomst in Nederland in het kader van het vreemdelingentoezicht dient aan te melden bij de Korpschef van het regionale politiekorps waarin de gemeente is gelegen waar hij zijn woon- of verblijfplaats heeft (zie [artikel 4.47 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.47)). Ter indiening van een aanvraag tot verlening van een verblijfsvergunning regulier voor bepaalde tijd onder een beperking verband houdende met gezinshereniging dient de vreemdeling zich vervolgens te vervoegen bij de IND.
+Bij inwilliging van de aanvraag om afgifte van een mvv dient de vreemdeling erop te worden gewezen dat hij zich binnen drie dagen na aankomst in Nederland in het kader van het vreemdelingentoezicht dient aan te melden bij de Korpschef van het regionale politiekorps waarin de gemeente is gelegen waar hij zijn woon- of verblijfplaats heeft (zie [artikel 4.47 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.47)). Ter indiening van een aanvraag tot verlening van een verblijfsvergunning regulier voor bepaalde tijd onder een beperking verband houdende met gezinshereniging dient de vreemdeling zich vervolgens te vervoegen bij de burgemeester van de gemeente waar hij woon- of verblijfplaats heeft of beoogt.
 
 Tevens geldt voor deze categorie vreemdelingen dat de aanvraag tot het verlenen van deze verblijfsvergunning niet wordt afgewezen wegens het ontbreken van een geldige mvv, voorzover nodig, met toepassing van [artikel 3.71, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71). Ook in die gevallen geldt het legesvereiste onverkort.
 
@@ -7425,11 +7425,11 @@ Het beroep in cassatie mag in Nederland worden afgewacht, aangezien de Hoge Raad
 
 ### 8.2. Getuige-aangever
 
-Zodra de strafzaak door het OM wordt geseponeerd of tegen de uitspraak van de rechtbank in het proces tegen de verdachte geen beroep is ingesteld dan wel het gerechtshof uitspraak heeft gedaan en hiertegen geen beroep in cassatie is ingesteld, komt de grond aan de verblijfsvergunning als bedoeld in B9 te ontvallen. Het OM doet hiervan melding aan de contactpersoon mensenhandel van de IND, alsmede aan het slachtoffer van mensenhandel.
+Zodra de strafzaak door het OM wordt geseponeerd of tegen de uitspraak van de rechtbank in het proces tegen de verdachte geen beroep is ingesteld dan wel het gerechtshof uitspraak heeft gedaan, komt de grond aan de verblijfsvergunning als bedoeld in B9 te ontvallen. Het OM doet hiervan melding aan de contactpersoon mensenhandel van de IND, alsmede aan het slachtoffer van mensenhandel.
 
 De verblijfsvergunning wordt dan ingetrokken. Betrokkene dient Nederland uit eigen beweging te verlaten. De rechtsplicht om Nederland te verlaten blijft achterwege, indien betrokkene een aanvraag indient om een verblijfsvergunning voor een ander doel en aan de daaraan gestelde voorwaarden is voldaan.
 
-Het beroep in cassatie mag in Nederland worden afgewacht, aangezien de Hoge Raad de zaak nog terug kan wijzen naar het Hof. Cassatie in het belang der wet mag niet in Nederland worden afgewacht, aangezien cassatie in het belang der wet geen verandering in de rechten en positie van partijen te weeg kan brengen en derhalve geen rechtsgevolgen voor de betrokken partijen heeft.
+Het beroep in cassatie mag niet in Nederland worden afgewacht, aangezien de Hoge Raad enkel oordeelt over de juiste toepassing van het recht en niet over de feiten.
 
 De geldigheidsduur van de verblijfsvergunning van het slachtoffer kan worden verlengd zolang er sprake is van een strafrechtelijk opsporings- of vervolgingsonderzoek naar of berechting in feitelijke aanleg van de verdachte van het strafbare feit ter zake waarvan aangifte is gedaan of waaraan op andere wijze medewerking is verleend. De geldigheid van de verblijfsvergunning wordt niet verlengd indien er geen sprake meer is van een strafrechtelijk opsporings- of vervolgingsonderzoek naar of berechting in feitelijke aanleg van de verdachte van het strafbare feit ter zake waarvan aangifte is gedaan of waaraan op andere wijze medewerking is verleend.
 
