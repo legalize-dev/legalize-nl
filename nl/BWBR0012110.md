@@ -4,7 +4,7 @@ identifier: "BWBR0012110"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-05"
-last_updated: "2007-07-01"
+last_updated: "2008-09-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012110"
 soort: "ministeriele-regeling"
@@ -149,7 +149,7 @@ Vervallen
 
 1. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden maakt op basis van deze regeling een voor zijn inrichting geldende dienstinstructie voor personeelsleden of medewerkers.
 
-2. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden geeft daarin aan onder welke omstandigheden personeelsleden of medewerkers bevoegd zijn, binnen en buiten de inrichting voor verpleging van ter beschikking gestelden, daaronder begrepen tijdens verlof als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2007-07-01&g=2007-07-01) jegens een verpleegde geweld te gebruiken dan wel vrijheidsbeperkende middelen aan te wenden.
+2. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden geeft daarin aan onder welke omstandigheden personeelsleden of medewerkers bevoegd zijn, binnen en buiten de inrichting voor verpleging van ter beschikking gestelden, daaronder begrepen tijdens verlof als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2008-09-03&g=2008-09-03) jegens een verpleegde geweld te gebruiken dan wel vrijheidsbeperkende middelen aan te wenden.
 
 3. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden zendt binnen drie maanden na inwerkingtreding van deze regeling een afschrift van de voor zijn inrichting geldende dienstinstructie aan de Minister van Justitie.
 
@@ -187,11 +187,13 @@ Deze instructie wordt aangehaald als: Geweldsinstructie inrichtingen voor verple
 
 5. De personeelsleden of medewerkers zullen in geval van een onttrekking tijdens begeleid verlof, trachten de vluchtroute of de verblijfplaats van de ter beschikking gestelde of anderszins verpleegde vast te stellen en die melden aan de politie en het hoofd van de inrichting voor verpleging van ter beschikking gestelden.
 
+6. De personeelsleden of medewerkers, die tot taak hebben het verlof te begeleiden en de personeelsleden of medewerkers, die tot taak hebben het verlof te beveiligen, treden voordat het verlof aanvangt met elkaar in overleg. Indien de begeleider en/of de beveiliger van mening zijn dat zij de begeleidingstaak en beveiligingstaak niet op veilige wijze kunnen uitoefenen, wordt dit door hen gemeld aan het hoofd van de inrichting.
+
 #### § 3. Gebruik geweldsmiddelen
 
 ##### Artikel 7a
 
-1. Het hoofd van de inrichting kan met voorafgaande machtiging van de Minister van Justitie besluiten om proeven te houden met andere middelen, dan genoemd in [artikel 1, onder e en f,](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=1&artikel=1&z=2007-07-01&g=2007-07-01) met het doel onttrekkingen aan het toezicht als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2007-07-01&g=2007-07-01) te voorkomen.
+1. Het hoofd van de inrichting kan met voorafgaande machtiging van de Minister van Justitie besluiten om proeven te houden met andere middelen, dan genoemd in [artikel 1, onder e en f,](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=1&artikel=1&z=2008-09-03&g=2008-09-03) met het doel onttrekkingen aan het toezicht als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2008-09-03&g=2008-09-03) te voorkomen.
 
 2. Een ander middel, als bedoeld in het eerste lid, moet ten minste voldoen aan de eisen, die gesteld worden aan een mechanisch middel in de [Regeling toepassing mechanische middelen verpleegden](https://wetten.overheid.nl/jci1.3:c:BWBR0011109).
 
