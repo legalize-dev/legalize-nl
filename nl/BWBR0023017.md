@@ -4,7 +4,7 @@ identifier: "BWBR0023017"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2008-02-01"
+last_updated: "2008-09-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023017"
 soort: "ministeriele-regeling"
@@ -47,5 +47,21 @@ Besluit:
 2. De Nederlandse Transplantatie Stichting te Leiden wordt met ingang van 1 januari 2008 aangewezen als instantie door welker tussenkomst raadpleging van het donorregister plaatsvindt.
 
 3. Aan de aanwijzing van de Nederlandse Transplantatie Stichting wordt het voorschrift verbonden dat de wijze van raadpleging geschiedt overeenkomstig het Handboek NTS donorregister zoals vastgesteld op 3 augustus 1998.
+
+4. Met ingang van 1 september 2008 worden de volgende instellingen die zorg verlenen, als bedoeld in [artikel 5 van de Wet toelating zorginstelling](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5), aangewezen als instanties die rechtstreeks het donorregister kunnen raadplegen:
+
+- a. Academisch Ziekenhuis Maastricht;
+
+- b. Medisch Spectrum Twente;
+
+- c. Universitair Medisch Centrum Utrecht;
+
+- d. Ziekenhuis Bernhoven;
+
+- e. Ziekenhuis De Gelderse Vallei, en
+
+- f. Ziekenhuis Zeeuws-Vlaanderen.
+
+5. Aan de aanwijzing van de in het eerste lid bedoelde instellingen wordt het voorschrift verbonden dat de wijze van raadpleging geschiedt volgens het door het bestuur van de zorginstelling ingevolge [artikel 23 van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=23) vastgesteld protocol.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
