@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -169,7 +169,9 @@ Indien op grond van [artikel 25, eerste lid, van de wet](https://wetten.overheid
 
 - 11°. uitkeringen van de Stichting Individuele Effectenaanspraken Sjoa, opgericht op 22 november 1999, gevestigd te ’s-Gravenhage;
 
-- 12°. uitkeringen uit het DES-Fonds die zijn verstrekt aan slachtoffers van het gebruik van DES-preparaten.
+- 12°. uitkeringen uit het DES-Fonds die zijn verstrekt aan slachtoffers van het gebruik van DES-preparaten;
+
+- 13°. Tegemoetkomingen op grond van de Regeling tegemoetkoming financiële gevolgen in verband met functionele invaliditeit nieuwjaarsbrand Volendam (Stcrt. 2003, 42) en bijdragen op grond van de Regeling tegemoetkoming in kosten nieuwjaarsbrand Volendam II (Stcrt. 2004, 188), uitgekeerd aan de getroffenen zelf.
 
 2. Het eerste lid, onderdeel b, onder 4° tot en met 11°, is eveneens van toepassing ingeval de genoemde uitkeringen zijn verstrekt aan nabestaanden van de gerechtigden.
 
