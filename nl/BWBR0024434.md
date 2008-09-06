@@ -4,7 +4,7 @@ identifier: "BWBR0024434"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2008-09-06"
-last_updated: "2006-02-09"
+last_updated: "2008-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024434"
 soort: "beleidsregel"
@@ -35,13 +35,39 @@ entry_into_force: "2008-09-06"
 ---
 # Omzetbelasting, vrijstelling; artikel 11, eerste lid, onderdeel w, van de Wet op de omzetbelasting 1968, bemiddeling bij gastouderopvang
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit behandelt de gevolgen van het arrest van de Hoge Raad van 2 november 2007, nr. 37 137. Dit besluit bevat een goedkeuring voor bemiddeling door gastouderbureaus die niet zelf ook daadwerkelijke kinderopvang verzorgen.
 
 ### 1. Inleiding
 
 ### 2. Juridisch kader
 
 Dit onderdeel is nog niet inwerking getreden
+
+### 2.1. Reikwijdte van de vrijstelling
+
+vrijstelling: [Artikel 11, eerste lid, onderdeel w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)
+
+btw-richtlijn: [Richtlijn 2006/112/EG](32006L0112) van de Raad van de Europese Unie van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU 2006, L 347 van 11 december 2006)
+
+Wko: [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
+
+Dat laatste is volgens de Hoge Raad het geval als het kindercentrum bij de bemiddelende dienst:
+
+De vrijstelling van omzetbelasting voor kinderopvang is opgenomen in [artikel 11, eerste lid, aanhef en onderdeel w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11). Dit artikel is gebaseerd op artikel 132, lid 1, punten g en h, van de btw-richtlijn. Op basis van deze bepalingen geldt de vrijstelling voor kinderopvang door publiekrechtelijke lichamen en andere organisaties die door de betrokken lidstaat als instellingen van sociale aard worden erkend.
+
+Om op dit punt iedere onduidelijkheid weg te nemen en fiscale gelijkheid te verzekeren, keur ik (voor zover nodig) goed dat de bemiddelingsdiensten door een overeenkomstig de [Wko](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) geregistreerd gastouderbureau dat geen deel uitmaakt van een kindercentrum eveneens in de vrijstelling voor kinderopvang kunnen delen, voor zover het gaat om diensten die gelijk zijn aan de dienstverlening door het kindercentrum in het door de Hoge Raad besliste geval. Dat betekent dat als zo’n gastouderbureau aan de door de Hoge Raad geformuleerde kwaliteitseisen voldoet de vrijstelling kan worden toegepast op de bemiddelingsdiensten.
+
+### 3. Ingetrokken regelingen
+
+### 4. Inwerkingtreding
+
+In dit besluit behandel ik mijn beleid over de heffing van omzetbelasting over de diensten door een overeenkomstig de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) geregistreerd gastouderbureau. Ook bevat dit besluit een goedkeuring.
+
+### 1.1. Gebruikte begrippen en afkortingen
+
+wet: [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629)
+
+### 2. Juridisch kader
 
 ### 2.1. Reikwijdte van de vrijstelling
 
@@ -59,4 +85,10 @@ Om op dit punt iedere onduidelijkheid weg te nemen en fiscale gelijkheid te verz
 
 ### 3. Ingetrokken regelingen
 
+Het Besluit van 14 april 2005, nr. CPP2005/909M, Vrijstelling voor kinderopvang, Wet kinderopvang, heeft zijn belang verloren en is met ingang van de dagtekening van dit besluit ingetrokken.
+
 ### 4. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. Het in het onderdeel 2.1 ingenomen standpunt werkt terug tot de datum van het arrest van het Hof van Justitie van 9 februari 2006, in de zaak nr. C-415/04 (Stichting Kinderopvang Enschede). Dit standpunt is van toepassing in alle situaties waarin de heffing van omzetbelasting nog niet onherroepelijk vaststaat.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
