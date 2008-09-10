@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2006-10-01"
+last_updated: "2008-09-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -307,6 +307,8 @@ De hulptekens die bij de vermelding van de subcodes mogen worden gebruikt zijn:
 « / » wordt gebruikt bij keuzemogelijkheid tussen twee (sub)codes of bij elkaar behoren de codes; **voorbeeld: 40.01/(50 12345678)**
 
 « ( ) » wordt gebruikt om een aantal codes als eenheid samen te voegen bij gebruik van het « / » keuzeteken;
+
+Bestuurder, houder van het getuigschrift, voldoet tot de achter de code vermelde einddatum aan de vakbekwaamheidsvereisten, bedoeld in de richtlijn vakbekwaamheid bestuurders (richtlijn 2003/59/EG) (bijvoorbeeld: 95.01.01.2012).
 
 100. Alleen tijdens privé-gebruik
 
