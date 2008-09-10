@@ -4,7 +4,7 @@ identifier: "BWBR0020606"
 country: "nl"
 rank: "wet"
 publication_date: "2009-05-01"
-last_updated: "2007-03-14"
+last_updated: "2008-09-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020606"
 soort: "wet"
@@ -74,9 +74,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel I, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=I&z=2007-03-14&g=2007-03-14), en [artikel IVb](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=IVb&z=2007-03-14&g=2007-03-14) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+2. [Artikel I, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=I&z=2008-09-10&g=2008-09-10), en [artikel IVb](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=IVb&z=2008-09-10&g=2008-09-10) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
-3. [Artikel IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=IVa&z=2007-03-14&g=2007-03-14) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 oktober 2006.
+3. [Artikel IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=IVa&z=2008-09-10&g=2008-09-10) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 oktober 2006.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
