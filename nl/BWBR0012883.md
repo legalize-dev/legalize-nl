@@ -4,7 +4,7 @@ identifier: "BWBR0012883"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-09-11"
-last_updated: "2001-10-15"
+last_updated: "2008-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012883"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ De eigenaar of houder van een lier is verplicht ervoor te zorgen dat het onderho
 
 De eigenaar of houder is verplicht:
 
-- a. ervoor te zorgen dat het onderhoud wordt uitgevoerd volgens een onderhoudsprogramma waarmee de Minister van Verkeer en Waterstaat heeft ingestemd. In dit onderhoudsprogramma zijn ten minste opgenomen:
+- a. een onderhoudsprogramma op te stellen en ervoor te zorgen dat het onderhoud wordt uitgevoerd volgens het onderhoudsprogramma. In dit onderhoudsprogramma zijn ten minste opgenomen:
 
 - 1. de uit te voeren onderhoudswerkzaamheden, waaronder de dagelijkse inspectie;
 
@@ -64,15 +64,7 @@ De eigenaar of houder is verplicht:
 
 ##### Artikel 4
 
-1. De liertechnicus wordt aangewezen door de eigenaar of houder van de lier.
-
-2. Deze aanwijzing behoeft de instemming van de Minister van verkeer en Waterstaat.
-
-3. Deze instemming geldt voor ten hoogste 24 maanden.
-
-4. Deze instemming kan worden verkregen door indiening bij de minister van een verzoek. Het verzoek wordt ingediend door middel van een volledig ingevuld en ondertekend formulier, waarvan exemplaren kosteloos bij de minister verkrijgbaar zijn.
-
-5. Bij de instemming kunnen aanwijzingen of beperkingen worden gesteld met betrekking tot de uitvoering van werkzaamheden door de liertechnicus.
+De liertechnicus wordt aangewezen door de eigenaar of houder van de lier.
 
 ##### Artikel 5
 
