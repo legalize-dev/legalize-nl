@@ -4,7 +4,7 @@ identifier: "BWBR0024461"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "2008-01-01"
+last_updated: "2008-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024461"
 soort: "AMvB"
@@ -52,11 +52,13 @@ Met betrekking tot een aanvraag als bedoeld in [artikel 3, eerste lid](https://w
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel I, onderdelen J, K, L en M](https://wetten.overheid.nl/jci1.3:c:BWBR0024461&artikel=I&z=2008-09-12&g=2008-09-12), welke onderdelen in werking treden met ingang van 1 januari 2011.
+
+2. De [artikelen I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0024461&artikel=I&z=2008-09-12&g=2008-09-12), en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0024461&artikel=II&z=2008-09-12&g=2008-09-12) werken terug tot en met 1 januari 2008.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Aanpassingsbesluit handel in emissierechten III.
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 14 juli 2008, nr. BJZ2008069982, Directie Bestuurlijke en Juridische Zaken, Afdeling Wetgeving;
 
