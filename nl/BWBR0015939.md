@@ -4,7 +4,7 @@ identifier: "BWBR0015939"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-06-26"
-last_updated: "2003-12-17"
+last_updated: "2008-09-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015939"
 soort: "AMvB"
@@ -48,10 +48,20 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Als verdrag als bedoeld in [artikel 1, onderdeel b, onder 10°, van de Wet havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=1) wordt aangewezen het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie (Trb. 1994, 229), alsmede de daarbij behorende Nederland bindende protocollen, bijlagen en aanhangsels.
+Als verdrag als bedoeld in [artikel 1, onderdeel b, onder 10°, van de Wet havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=1) wordt aangewezen:
+
+- a. het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie (Trb. 1994, 229), alsmede de daarbij behorende Nederland bindende protocollen, bijlagen en aanhangsels;
+
+- b. het op 5 oktober 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de beperking van schadelijk aangroeiwerende verfsystemen op schepen (Trb. 2004, 44).
 
 ##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a
+
+Dit besluit wordt aangehaald als: Besluit aanwijzing verdragen Wet havenstaatcontrole.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
