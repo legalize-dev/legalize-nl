@@ -4,7 +4,7 @@ identifier: "BWBR0018707"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2007-01-01"
+last_updated: "2008-09-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018707"
 soort: "AMvB"
@@ -48,13 +48,17 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Dit besluit geeft uitvoering aan de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) en [38a van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38a).
+1. Dit besluit geeft uitvoering aan de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38), [38a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38a) en [46 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=46).
 
 2. Dit besluit verstaat onder:
 
 - a. wet: [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472);
 
-- b. Hulp- en informatiepunt: een rechtspersoon die belanghebbenden hulp biedt bij het aanvragen van een tegemoetkoming en belanghebbenden informeert over een tegemoetkoming en waarmee de Belastingdienst/Toeslagen een overeenkomst als bedoeld in [artikel 14, tweede lid, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=14) heeft gesloten.
+- b. Hulp- en informatiepunt: een rechtspersoon die belanghebbenden hulp biedt bij het aanvragen van een tegemoetkoming en belanghebbenden informeert over een tegemoetkoming en waarmee de Belastingdienst/Toeslagen een overeenkomst als bedoeld in [artikel 14, tweede lid, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=14) heeft gesloten;
+
+- c. verordening (EEG) nr. 1408/71: verordening (EEG) nr. 1408/71 van de Raad van de Europese Gemeenschappen van 14 juni 1971 betreffende de toepassing van de sociale zekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEG L 149);
+
+- d. verordening (EEG) nr. 574/72: verordening (EEG) nr. 574/72 van de Raad van de Europese Gemeenschappen van 21 maart 1972 tot vaststelling van de wijze van toepassing van verordening (EEG) nr. 1408/71 betreffende de toepassing van de sociale zekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEG L 74).
 
 ##### Artikel 2. Gegevensverstrekking aan Hulp- en informatiepunten
 
@@ -89,5 +93,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ##### Artikel 1b. Gebruik sociaal-fiscaalnummer bij informatieverstrekking aan de Belastingdienst/Toeslagen
 
 De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het sociaal-fiscaalnummer van degene op wie de gegevens betrekking hebben en geschiedt zo mogelijk langs elektronische weg.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2a. Samenloop met buitenlandse tegemoetkomingen
+
+1. Bij regeling van Onze Minister in overeenstemming met Onze Minister voor Jeugd en Gezin worden regels gesteld met betrekking tot de samenloop van tegemoetkomingen op grond van de [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751) met naar aard en strekking daarmee overeenkomende tegemoetkomingen op grond van een regeling van een andere Staat, niet zijnde een lidstaat van de Europese Unie, een Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of Zwitserland.
+
+2. Bij regeling van Onze Minister in overeenstemming met Onze Minister voor Jeugd en Gezin worden regels gesteld met betrekking tot de samenloop van tegemoetkomingen op grond van de [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751) met naar aard en strekking daarmee overeenkomende tegemoetkomingen op grond van een regeling van een volkenrechtelijke organisatie als bedoeld in de [artikelen 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=3), of [14, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=14).
+
+3. Bij regeling van Onze Minister in overeenstemming met Onze Minister voor Jeugd en Gezin en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, worden regels gesteld met betrekking tot de berekeningswijze van tegemoetkomingen op grond van een inkomensafhankelijke regeling in situaties waarin een of meer Nederlandse gezinsbijslagen als bedoeld in artikel 1, onder u), i), van verordening (EEG) nr. 1408/71 met toepassing van die verordening en verordening (EEG) nr. 574/72 worden uitbetaald in de vorm van een aanvulling op een of meer in dat artikel bedoelde gezinsbijslagen van een andere lidstaat.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
