@@ -4,7 +4,7 @@ identifier: "BWBR0010445"
 country: "nl"
 rank: "wet"
 publication_date: "2010-07-07"
-last_updated: "2008-07-19"
+last_updated: "2008-09-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010445"
 soort: "wet"
@@ -58,7 +58,7 @@ Wijzigt de Luchtvaartwet.
 
 ##### Artikel IV
 
-1. Type-certificaten, bewijzen van luchtwaardigheid, en erkenningen, afgegeven op grond van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) en geldig op het tijdstip van inwerkingtreding van deze wet, worden aangemerkt als afgegeven op grond van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), zoals die wet komt te luiden na inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0010445&artikel=I&z=2008-07-19&g=2008-07-19), van deze wet.
+1. Type-certificaten, bewijzen van luchtwaardigheid, en erkenningen, afgegeven op grond van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) en geldig op het tijdstip van inwerkingtreding van deze wet, worden aangemerkt als afgegeven op grond van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), zoals die wet komt te luiden na inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0010445&artikel=I&z=2008-09-24&g=2008-09-24), van deze wet.
 
 2. Ontheffingen, verleend op grond van [artikel 4, tweede lid, onder b, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=4), behouden gedurende een termijn van drie maanden na het tijdstip van inwerkingtreding van deze wet hun geldigheid.
 
@@ -72,13 +72,19 @@ Wijzigt de Luchtvaartwet.
 
 7. Bezwaren en beroepen terzake van type-certificaten, bewijzen van luchtwaardigheid en erkenningen als bedoeld in het eerste lid, welke op het tijdstip van inwerkingtreding van deze wet in behandeling zijn, worden behandeld overeenkomstig de bepalingen van en krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267), zoals die tot dat tijdstip luidden.
 
-8. Op grond dit artikel verleende type-certificaten, bewijzen van luchtwaardigheid, erkenningen en ontheffingen worden aangemerkt als afgegeven op grond van de[Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), zoals deze komt te luiden na inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0010445&artikel=I&z=2008-07-19&g=2008-07-19), van deze wet.
+8. Op grond dit artikel verleende type-certificaten, bewijzen van luchtwaardigheid, erkenningen en ontheffingen worden aangemerkt als afgegeven op grond van de[Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), zoals deze komt te luiden na inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0010445&artikel=I&z=2008-09-24&g=2008-09-24), van deze wet.
 
 9. Bewijzen van gelijkstelling met elders door of vanwege een bevoegd gezag afgegeven bewijzen van luchtwaardigheid, afgegeven op grond van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) en geldig op het tijdstip van inwerkingtreding van deze wet, behouden hun geldigheid voor de termijn, waarvoor zij zijn afgegeven.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+1. Vergunningen tot vluchtuitvoering, verleend op grond van [artikel 104 van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=104), die geldig zijn op het tijdstip van inwerkingtreding van [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0010445&artikel=I&z=2008-09-24&g=2008-09-24), van deze wet, worden voor de duur van die vergunning aangemerkt als AOC op grond van [artikel 4.1, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=4.1).
+
+2. Ontheffingen, verleend op grond van [artikel 102b van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=102b), behouden gedurende een termijn van drie maanden na het tijdstip van inwerkingtreding van deze wet hun geldigheid.
+
+3. Indien de houder van een ontheffing als bedoeld in het tweede lid, gedurende de in dat lid genoemde termijn een aanvraag heeft ingediend voor een AOC of een ontheffing op grond van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), behoudt de eerstgenoemde ontheffing ook na de in dat lid genoemde termijn zijn geldigheid tot het tijdstip, waarop op de aanvraag onherroepelijk is beslist.
+
+4. Voor de behandeling van de aanvraag, bedoeld in het derde lid, is de aanvrager geen vergoeding verschuldigd.
 
 ##### Artikel VI
 
