@@ -115,39 +115,3 @@ Toelichting: geef aan hoe de financiering zal plaatsvinden; bijv. financiering w
 ### **Monitoring (artikel 13 van de regeling)**
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 9.5.2, zevende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2) in samenhang met [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4).
-
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024500&artikel=1&z=2023-07-01&g=2023-07-01)
-
-### **Formulier melding**
-
-WVL, Leefomgeving
-
-Afdeling Circulaire Economie en Afval (LOAC)
-
-Postbus 2232
-
-### **C. Specifieke vragen**
-
-### **Preventie (artikel 3 van de regeling)**
-
-### **Inname (artikel 5 van de regeling)**
-
-Beschrijf op welke wijze u ervoor zorgt dat u industriële batterijen en accu’s die u op de markt heeft gebracht terugneemt van de eindgebruiker wanneer deze batterijen en accu’s worden afgedankt.
-
-8. Autobatterijen en accu’s
-
-11. Op welke wijze gaat u ervoor zorgen dat eindgebruikers van batterijen en accu’s worden geïnformeerd over de mogelijke gezondheidseffecten en milieueffecten van de in de batterijen en accu’s gebruikte stoffen, het belang van gescheiden inzameling en het terugdringen van batterijen en accu’s in het restafval, en de locatie van inzamel- en afgiftepunten?
-
-### **Financiering (artikel 11, eerste lid, van de regeling)**
-
-12. Op welke wijze gaat u de financiering regelen van alle kosten die voortvloeien uit de inzameling, de verwerking, het hergebruik als materiaal van alle afgedankte batterijen en accu’s, en de voorlichting?
-
-Toelichting: geef aan hoe de financiering zal plaatsvinden; bijv. financiering wordt ten laste van de winst gebracht, de financiering is opgenomen in de operationele kosten, er is voor de financiering een voorziening opgenomen in de balans, of een deel van de kosten wordt doorberekend aan de eindgebruiker. Voor draagbare batterijen en accu’s geldt dat de genoemde kosten bij aankoop van dergelijke nieuwe batterijen en accu’s niet apart aan de eindgebruiker getoond mogen worden.
-
-### **Monitoring (artikel 13 van de regeling)**
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
