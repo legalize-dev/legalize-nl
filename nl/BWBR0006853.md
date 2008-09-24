@@ -4,7 +4,7 @@ identifier: "BWBR0006853"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-13"
-last_updated: "1994-08-17"
+last_updated: "2008-09-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006853"
 soort: "ministeriele-regeling"
@@ -42,15 +42,25 @@ Besluit:
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
+- a. **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1, sub j, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+
+- b. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, sub i, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+
+- c. **overwerk:** hetgeen daaronder wordt verstaan in [artikel 27, derde lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=27).
+
 ##### Artikel 2
 
-1. Indien de dagelijkse diensttijd van de ambtenaar op de dag waarop overwerk moet worden verricht met ten minste twee overwerkuren wordt verlengd en het dienstbelang naar het oordeel van het bevoegd gezag dientengevolge niet toelaat dat hij zijn maaltijd op de hiervoor bestemde tijd op de voor hem gebruikelijke plaats nuttigt, wordt hem door het bevoegd gezag een vergoeding toegekend.
+1. Indien de dagelijkse diensttijd van de ambtenaar op de dag waarop overwerk wordt verricht met ten minste twee uren overwerk wordt verlengd, verstrekt het bevoegd gezag hem een lunch of diner met inachtneming van het tweede en derde lid.
 
-2. Het bevoegd gezag stelt nadere regels ten aanzien van de vergoeding, bedoeld in het eerste lid.
+2. De lunch wordt verstrekt als de ambtenaar tussen 12:00 uur en 14:00 uur overwerk verricht.
+
+3. Het diner wordt verstrekt als de ambtenaar tussen 17:00 uur en 20:00 uur vanwege overwerk niet thuis kan eten.
+
+4. Indien verstrekking van een lunch of diner door het bevoegd gezag niet mogelijk is, heeft de ambtenaar, onverminderd het tweede en derde lid, aanspraak op een vergoeding op basis van de werkelijk gemaakte kosten van maximaal € 12,04 voor de lunch en maximaal € 18,22 voor het diner. De ambtenaar legt van de gemaakte kosten bewijsstukken over.
 
 ##### Artikel 3
 
-Het bevoegd gezag is bevoegd deze regeling op overeenkomstige wijze toe te passen voor met overwerk vergelijkbare situaties.
+Vervallen
 
 ##### Artikel 4
 
