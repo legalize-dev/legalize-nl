@@ -4,7 +4,7 @@ identifier: "BWBR0009890"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2008-09-16"
+last_updated: "2008-09-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009890"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1.2
 
-1. Dit besluit geldt niet met betrekking tot een kwikhoudend product, voor zover daaromtrent regels zijn gesteld in het [Besluit beheer batterijen](https://wetten.overheid.nl/jci1.3:c:BWBR0007227).
+1. Dit besluit geldt niet met betrekking tot een kwikhoudend product, voor zover daaromtrent regels zijn gesteld in de [Regeling beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024492).
 
 2. Dit besluit geldt evenmin met betrekking tot het zich ontdoen van kwikhoudende producten overeenkomstig [hoofdstuk 10 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10).
 
@@ -66,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 4. Dit besluit geldt voorts niet met betrekking tot een stof als bedoeld in [artikel 1, onderdeel a, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=1), die kwik bevat.
 
-5. Dit besluit geldt voorts niet met betrekking tot kwikhoudende producten ten aanzien waarvan in het Besluit beheer elektrische en elektronische apparatuur regels zijn gesteld.
+5. Dit besluit geldt voorts niet met betrekking tot kwikhoudende producten ten aanzien waarvan in het [Besluit beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0016990) regels zijn gesteld.
 
 #### § 2. Handelingen met kwikhoudende producten
 
@@ -96,7 +96,7 @@ Vervallen
 
 ##### Artikel 2.4
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2008-09-16&g=2008-09-16), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2008-09-16&g=2008-09-16), gelden niet met betrekking tot de volgende kwikhoudende producten:
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2008-09-26&g=2008-09-26), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2008-09-26&g=2008-09-26), gelden niet met betrekking tot de volgende kwikhoudende producten:
 
 - a. een pycno- of porosimeter ter bepaling van het poriënvolume van grond of andere poreuze vaste stoffen;
 
@@ -132,7 +132,7 @@ De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.n
 
 ##### Artikel 2.5
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2008-09-16&g=2008-09-16), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2008-09-16&g=2008-09-16), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2008-09-26&g=2008-09-26), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2008-09-26&g=2008-09-26), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
 
 #### § 3. Slotbepalingen
 
