@@ -4,7 +4,7 @@ identifier: "BWBR0024527"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-09-28"
-last_updated: "2008-07-01"
+last_updated: "2008-09-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024527"
 soort: "ministeriele-regeling"
@@ -43,9 +43,9 @@ In dit besluit wordt verstaan onder:
 
 - a. Onze minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. Werkgroep: de werkgroep tot bevordering van diversiteit in het burgemeestersambt, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024527&artikel=2&z=2008-09-28&g=2008-07-01).
+- b. Werkgroep: de werkgroep tot bevordering van diversiteit in het burgemeestersambt, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024527&artikel=2&z=2008-09-28&g=2008-09-28).
 
-- c. Stuurgroep: de stuurgroep tot bevordering van diversiteit in het burgemeestersambt, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024527&artikel=6&z=2008-09-28&g=2008-07-01).
+- c. Stuurgroep: de stuurgroep tot bevordering van diversiteit in het burgemeestersambt, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024527&artikel=6&z=2008-09-28&g=2008-09-28).
 
 ##### Artikel 2
 
