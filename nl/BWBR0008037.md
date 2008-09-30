@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2008-09-10"
+last_updated: "2008-09-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -282,7 +282,7 @@ a) de maximaal toegestane massa van het aldus gevormde samenstel ten hoogste 12 
 
 b) de aanhangwagen niet wordt gebruikt om personen te vervoeren (D1+E)
 
-78. Alleen voertuigen met automatische schakeling ([Richtlijn 91/439/EEG](31991L0439), bijlage II, 8.1.1, tweede alinea)
+78. Alleen geldig voor voertuigen zonder koppelingspedaal of voor voertuigen van de categorie A zonder handbediende koppelingshendel
 
 79. (…) Alleen voertuigen conform de specificaties tussen haken, in het kader van de toepassing van artikel 10, lid 1, van de richtlijn:
 
