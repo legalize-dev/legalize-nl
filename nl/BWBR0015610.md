@@ -4,7 +4,7 @@ identifier: "BWBR0015610"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-04-01"
-last_updated: "2006-01-01"
+last_updated: "2008-09-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015610"
 soort: "ministeriele-regeling"
@@ -74,7 +74,9 @@ De aanvrager van het theorie-examen moet blijk geven kennis en inzicht te bezitt
 
 - g. de specifieke risico’s in verband met de deelneming aan het verkeer en het besturen van diverse voertuigtypes en in verband met het verschillende gezichtsveld van de bestuurders van deze voertuigen;
 
-- h. milieuaspecten met betrekking tot het gebruik van het voertuig.
+- h. milieuaspecten met betrekking tot het gebruik van het voertuig;
+
+- i. het veilig rijden in tunnels.
 
 ##### Artikel 3
 
