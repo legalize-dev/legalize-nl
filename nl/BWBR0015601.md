@@ -4,7 +4,7 @@ identifier: "BWBR0015601"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2006-01-01"
+last_updated: "2008-09-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015601"
 soort: "ministeriele-regeling"
@@ -74,7 +74,9 @@ De aanvrager van het theorie-examen moet blijk geven kennis en inzicht te bezitt
 
 - g. de specifieke risico’s in verband met de onervarenheid van medeweggebruikers en de deelneming aan het verkeer door de meest kwetsbare categorieën, zoals kinderen, voetgangers, fietsers, ruiters, bestuurders van brommobielen en voertuigen met beperkte snelheid en personen die in hun mobiliteit gehinderd zijn;
 
-- h. milieuaspecten met betrekking tot het gebruik van het voertuig.
+- h. milieuaspecten met betrekking tot het gebruik van het voertuig;
+
+- i. het veilig rijden in tunnels.
 
 ##### Artikel 3
 
