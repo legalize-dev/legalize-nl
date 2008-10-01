@@ -4,7 +4,7 @@ identifier: "BWBR0023123"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2008-01-01"
+last_updated: "2008-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023123"
 soort: "AMvB"
@@ -58,7 +58,7 @@ binnenhaven: een haven die niet in de bijlage bij dit besluit als zeehaven is aa
 
 call: een combinatie van een loodsreis van zee naar een zeehavengebied en een loodsreis naar zee vanuit hetzelfde zeehavengebied via dezelfde vaarroute;
 
-frequentiekorting: een korting op de loodsgeldtarieven als bedoeld in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=5&artikel=4.15&z=2008-01-01&g=2008-01-01);
+frequentiekorting: een korting op de loodsgeldtarieven als bedoeld in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=5&artikel=4.15&z=2008-10-01&g=2008-10-01);
 
 cluster van zusterschepen: twee of meer zusterschepen die door dezelfde natuurlijke of rechtspersoon worden geëxploiteerd;
 
@@ -86,7 +86,7 @@ zeehavengebied: de havens of ligplaatsen, gelegen in of aan:
 
 - 5°. de scheepvaartwegen, genoemd in onderdeel III, of
 
-- 6°. de scheepvaartwegen, genoemd in [onderdeel IV, onder 4, 5, 6 en 7 van bijlage A bij de Scheepvaartverkeerswet](onbekend);
+- 6°. de scheepvaartwegen, genoemd in onderdeel IV, onder 4, 5, 6 en 7 van de [bijlage bij de Scheepvaartverkeerswet](onbekend);
 
 zeemijl: de mijl van 1852 m;
 
@@ -124,7 +124,7 @@ Kosten die niet kunnen worden toegerekend aan een dienst of taak, bedoeld in [ar
 
 ##### Artikel 2.5
 
-Indien de inkomsten uit andere diensten of taken dan die, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a), minder bedragen dan 1% van de totale inkomsten uit alle tarieven vastgesteld krachtens [artikel 27f, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27f), en de kosten van die andere diensten of taken de inkomsten niet overtreffen, kunnen, in afwijking van de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2008-01-01&g=2008-01-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2008-01-01&g=2008-01-01), de kosten gemoeid met deze diensten of taken worden toegerekend aan diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a). In dat geval worden de opbrengsten van die andere diensten of taken ook aan de desbetreffende diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a) toegerekend.
+Indien de inkomsten uit andere diensten of taken dan die, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a), minder bedragen dan 1% van de totale inkomsten uit alle tarieven vastgesteld krachtens [artikel 27f, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27f), en de kosten van die andere diensten of taken de inkomsten niet overtreffen, kunnen, in afwijking van de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2008-10-01&g=2008-10-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2008-10-01&g=2008-10-01), de kosten gemoeid met deze diensten of taken worden toegerekend aan diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a). In dat geval worden de opbrengsten van die andere diensten of taken ook aan de desbetreffende diensten of taken, bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27a) toegerekend.
 
 ##### Artikel 2.6
 
@@ -164,7 +164,7 @@ Het kostentoerekeningssysteem bevat:
 
 ##### Artikel 2.10
 
-1. De toerekening van de kosten, gemoeid met het loodsen van zeeschepen vindt eerst plaats naar rato van het aantal loodsreizen verricht in elk krachtens [artikel 27d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d) aangewezen zeehavengebied en vervolgens met inachtneming van de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&z=2008-01-01&g=2008-01-01) vastgestelde maatstaven.
+1. De toerekening van de kosten, gemoeid met het loodsen van zeeschepen vindt eerst plaats naar rato van het aantal loodsreizen verricht in elk krachtens [artikel 27d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d) aangewezen zeehavengebied en vervolgens met inachtneming van de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&z=2008-10-01&g=2008-10-01) vastgestelde maatstaven.
 
 2. Bij de toerekening van de kosten gemoeid met het loodsen van zeeschepen wordt inzicht gegeven in de kosten voor de onderscheiden krachtens artikel VII van de Wet markttoezicht registerloodsen vast te stellen klassen van schepen.
 
@@ -280,11 +280,11 @@ Als bijzondere loodsreis worden de volgende loodsreizen aangemerkt:
 
 - c. het loodsen op afstand vanaf de wal onder omstandigheden als bedoeld in [artikel 10, eerste lid, onder a, van het Voorschriftenbesluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394&artikel=10);
 
-- d. het terugkeren van een schip tijdens een loodsreis, zonder dat de loodsreis eindigt op de wijze, bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2008-01-01&g=2008-01-01);
+- d. het terugkeren van een schip tijdens een loodsreis, zonder dat de loodsreis eindigt op de wijze, bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2008-10-01&g=2008-10-01);
 
 - e. het loodsen van een naar het oordeel van de bevoegde autoriteit niet behoorlijk bestuurbaar schip;
 
-- f. het loodsen van een schip waarbij het bevaren van een scheepvaartweg als bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=10), of [11, onder b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11) naar het oordeel van de bevoegde autoriteit ernstig wordt bemoeilijkt als gevolg van ijsgang;
+- f. het loodsen van een schip waarbij het bevaren van een scheepvaartweg als bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=10), of [11, eerste lid, onderdeel b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11) of, voor zover een schip een haven, anker- of ligplaats in Nederland als bestemming of vertrekpunt heeft, de Westerschelde, haar mondingen of het Kanaal van Gent naar Terneuzen, naar het oordeel van de bevoegde autoriteit ernstig wordt bemoeilijkt als gevolg van ijsgang;
 
 - g. het loodsen van een schip dat in een zeegat of op de binnenwateren als gevolg van weersomstandigheden een veilige ligplaats moet innemen;
 
@@ -300,7 +300,7 @@ Als bijzondere loodsreis worden de volgende loodsreizen aangemerkt:
 
 ##### Artikel 4.14
 
-1. De raad van bestuur stelt afzonderlijke Z- en B-tarieven vast voor de zeehavengebieden, genoemd in [artikel 1.1, onder 1°. tot en met 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=1&artikel=1.1&z=2008-01-01&g=2008-01-01).
+1. De raad van bestuur stelt afzonderlijke Z- en B-tarieven vast voor de zeehavengebieden, genoemd in [artikel 1.1, onder 1°. tot en met 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=1&artikel=1.1&z=2008-10-01&g=2008-10-01).
 
 2. Aan deze zeehavengebieden worden ten behoeve van de tarifering achtereenvolgens de volgende benamingen toegekend:
 
@@ -434,7 +434,7 @@ Dit besluit treedt in werking met ingang van 1 januari 2008.
 
 Dit besluit wordt aangehaald als: Besluit markttoezicht registerloodsen.
 
-## Bijlage. als bedoeld in de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=1&artikel=1.1&z=2008-01-01&g=2008-01-01), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2008-01-01&g=2008-01-01) en [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2008-01-01&g=2008-01-01) van het Besluit markttoezicht registerloodsen
+## Bijlage. als bedoeld in de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=1&artikel=1.1&z=2008-10-01&g=2008-10-01), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2008-10-01&g=2008-10-01) en [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2008-10-01&g=2008-10-01) van het Besluit markttoezicht registerloodsen
 
 Als zeehaven worden aangewezen:
 
