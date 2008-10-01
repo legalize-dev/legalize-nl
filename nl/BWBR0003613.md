@@ -4,7 +4,7 @@ identifier: "BWBR0003613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-10-01"
-last_updated: "1983-09-20"
+last_updated: "2008-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003613"
 soort: "ministeriele-regeling"
@@ -42,13 +42,19 @@ Besluit:
 
 In deze beschikking wordt verstaan onder:
 
+- **wet:** de [Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975) (Stb. 1975, 352);
+
+- **stoffen:** afvalstoffen, verontreinigende of schadelijke stoffen;
+
+- **de hoofdingenieur-directeur;** de hoofdingenieur-directeur van de Rijkswaterstaat in de dienst Noordzee.
+
 ##### Artikel 2
 
-Een verzoek om ontheffing als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002975&artikel=4) of tot wijziging van de aan de ontheffing verbonden voorschriften wordt ingediend bij de hoofdingenieur-directeur.
+Een verzoek om ontheffing als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002975&artikel=3) of tot wijziging van de aan de ontheffing verbonden voorschriften wordt ingediend bij de hoofdingenieur-directeur.
 
 ##### Artikel 3
 
-1. Bij het verzoek om ontheffing als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=1983-09-20&g=1983-09-20) dienen, onverminderd het bepaalde in het tweede, derde en vierde lid, de volgende gegevens schriftelijk te worden verstrekt:
+1. Bij het verzoek om ontheffing als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=2008-10-01&g=2008-10-01) dienen, onverminderd het bepaalde in het tweede, derde en vierde lid, de volgende gegevens schriftelijk te worden verstrekt:
 
 - a. naam, adres en telex- of telefoonnummer van de aanvrager en van de door hem aangewezen contactpersoon;
 
@@ -58,7 +64,7 @@ Een verzoek om ontheffing als bedoeld in [artikel 4 van de wet](https://wetten.o
 
 - d. de voorgenomen frequentie van het lozen;
 
-- e. een zo volledig mogelijke karakterisering naar vorm, samenstelling, hoeveelheid en eigenschappen van de stoffen waarop het verzoek betrekking heeft, waaronder de gegevens als bedoeld in de bij dit besluit behorende bijlage 1;
+- e. een zo volledig mogelijke karakterisering naar vorm, samenstelling, hoeveelheid en eigenschappen van de stoffen waarop het verzoek betrekking heeft, waaronder de gegevens als bedoeld in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&bijlage=I&z=2008-10-01&g=2008-10-01);
 
 - f. een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen, teneinde het ontstaan van de te lozen stoffen tegen te gaan, de afvoer naar zee te voorkomen of de af te voeren hoeveelheid te beperken.
 
@@ -86,11 +92,11 @@ Een verzoek om ontheffing als bedoeld in [artikel 4 van de wet](https://wetten.o
 
 ##### Artikel 4
 
-Indien de Minister van Verkeer en Waterstaat van oordeel is dat de verstrekte gegevens voor een voldoende beoordeling van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=1983-09-20&g=1983-09-20) bedoelde verzoek aanvulling behoeven, kan hij verlangen dat daartoe de nodige nadere of verdere, door hem aangeduide, gegevens worden verstrekt.
+Indien de Minister van Verkeer en Waterstaat van oordeel is dat de verstrekte gegevens voor een voldoende beoordeling van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=2008-10-01&g=2008-10-01) bedoelde verzoek aanvulling behoeven, kan hij verlangen dat daartoe de nodige nadere of verdere, door hem aangeduide, gegevens worden verstrekt.
 
 ##### Artikel 5
 
-1. Bij het verzoek tot wijziging van de aan een ontheffing verbonden voorschriften als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=1983-09-20&g=1983-09-20) dienen de volgende gegevens te worden verstrekt:
+1. Bij het verzoek tot wijziging van de aan een ontheffing verbonden voorschriften als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=2008-10-01&g=2008-10-01) dienen de volgende gegevens te worden verstrekt:
 
 - a. naam en adres van de houder van de ontheffing;
 
@@ -98,17 +104,17 @@ Indien de Minister van Verkeer en Waterstaat van oordeel is dat de verstrekte ge
 
 - c. een met redenen omklede beschrijving van de beoogde wijziging;
 
-- d. – voor zover het verzoek verband houdt met onderwerpen waaromtrent voor het verkrijgen van de onder b bedoelde ontheffing ter voldoening aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=3&z=1983-09-20&g=1983-09-20) gegevens zijn verstrekt – een aanvulling van deze gegevens.
+- d. – voor zover het verzoek verband houdt met onderwerpen waaromtrent voor het verkrijgen van de onder b bedoelde ontheffing ter voldoening aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=3&z=2008-10-01&g=2008-10-01) gegevens zijn verstrekt – een aanvulling van deze gegevens.
 
-2. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=4&z=1983-09-20&g=1983-09-20) is van overeenkomstige toepassing.
+2. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=4&z=2008-10-01&g=2008-10-01) is van overeenkomstige toepassing.
 
 ##### Artikel 6
 
-Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=1983-09-20&g=1983-09-20) bedoelde verzoek, alsmede de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=3&z=1983-09-20&g=1983-09-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=4&z=1983-09-20&g=1983-09-20) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=5&z=1983-09-20&g=1983-09-20) bedoelde gegevens dienen in tienvoud te worden verstrekt.
+Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=2008-10-01&g=2008-10-01) bedoelde verzoek, alsmede de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=3&z=2008-10-01&g=2008-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=4&z=2008-10-01&g=2008-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=5&z=2008-10-01&g=2008-10-01) bedoelde gegevens dienen in tienvoud te worden verstrekt.
 
 ##### Artikel 7
 
-1. Ten behoeve van het verstrekken van de gevraagde gegevens in verband met een verzoek als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=1983-09-20&g=1983-09-20) dient gebruik te worden gemaakt van de formulieren waarvan de modellen zijn opgenomen in de bij dit besluit behorende [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&bijlage=II&z=1983-09-20&g=1983-09-20), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&bijlage=III&z=1983-09-20&g=1983-09-20), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&bijlage=IV&z=1983-09-20&g=1983-09-20) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&bijlage=V&z=1983-09-20&g=1983-09-20).
+1. Ten behoeve van het verstrekken van de gevraagde gegevens in verband met een verzoek als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=2008-10-01&g=2008-10-01) dient gebruik te worden gemaakt van de formulieren waarvan de modellen zijn opgenomen in de bij dit besluit behorende [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&bijlage=II&z=2008-10-01&g=2008-10-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&bijlage=III&z=2008-10-01&g=2008-10-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&bijlage=IV&z=2008-10-01&g=2008-10-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&bijlage=V&z=2008-10-01&g=2008-10-01).
 
 2. De in het eerste lid bedoelde formulieren zijn verkrijgbaar bij de hoofdingenieur-directeur.
 
@@ -124,11 +130,25 @@ Dit besluit treedt in werking op de twintigste dag na afkondiging in de Nederlan
 
 ## Bijlage II
 
+RIJKSWATERSTAAT
+
+Dienst Noordzee
+
+Lange Kleiweg 34
+
+Postbus 5807
+
+2280 HV RIJSWIJK (ZH)
+
+tel. (070) 3366600
+
+fax (070) 3900691
+
 Verzoek om ontheffing van bepalingen in de [Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975) betreffende het lozen van stoffen *Zie toelichting
 
-| 1. | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting |
+| 1. | VERZOEKER | VERZOEKER | VERZOEKER | VERZOEKER | VERZOEKER |
 | --- | --- | --- | --- | --- | --- |
-| 1. | 1. naam *Zie toelichting 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon *Zie toelichting | 1. naam *Zie toelichting 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon *Zie toelichting | 1. naam *Zie toelichting 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon *Zie toelichting | 1. naam *Zie toelichting 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon *Zie toelichting | 1. naam *Zie toelichting 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon *Zie toelichting |
+| 1. | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon |
 | 2. | ALGEMENE GEGEVENS | ALGEMENE GEGEVENS | ALGEMENE GEGEVENS | ALGEMENE GEGEVENS | ALGEMENE GEGEVENS |
 | 2.1 | Een globale omschrijving van de aard van het bedrijf of de instelling van waar de stoffen afkomstig zijn (beantwoorden in bijlage) | Een globale omschrijving van de aard van het bedrijf of de instelling van waar de stoffen afkomstig zijn (beantwoorden in bijlage) | Een globale omschrijving van de aard van het bedrijf of de instelling van waar de stoffen afkomstig zijn (beantwoorden in bijlage) | Een globale omschrijving van de aard van het bedrijf of de instelling van waar de stoffen afkomstig zijn (beantwoorden in bijlage) | Een globale omschrijving van de aard van het bedrijf of de instelling van waar de stoffen afkomstig zijn (beantwoorden in bijlage) |
 |   |   |   |   |   |   |
@@ -138,26 +158,26 @@ Verzoek om ontheffing van bepalingen in de [Wet verontreiniging zeewater](https:
 | 2.2 | Betreft het stoffen die op dit moment reeds vrijkomen? Zo ja, | Betreft het stoffen die op dit moment reeds vrijkomen? Zo ja, |   |   |   |
 | 2.3 | Zijn in verband met de be- of verwerking of verwijdering van de stoffen bij andere overheidsinstanties aanvragen ingediend? Zo ja, | Zijn in verband met de be- of verwerking of verwijdering van de stoffen bij andere overheidsinstanties aanvragen ingediend? Zo ja, |   |   |   |
 | 2.4 | Voor welke periode wordt de ontheffing gevraagd? | Voor welke periode wordt de ontheffing gevraagd? |   |   |   |
-| 3. | HERKOMST VAN DE STOFFEN*Zie toelichting | HERKOMST VAN DE STOFFEN*Zie toelichting | HERKOMST VAN DE STOFFEN*Zie toelichting | HERKOMST VAN DE STOFFEN*Zie toelichting | HERKOMST VAN DE STOFFEN*Zie toelichting |
+| 3. | HERKOMST VAN DE STOFFEN | HERKOMST VAN DE STOFFEN | HERKOMST VAN DE STOFFEN | HERKOMST VAN DE STOFFEN | HERKOMST VAN DE STOFFEN |
 | 3.1 | Een procesbeschrijving en een processchema waaruit de opzet van de bedrijfsinstallatie(s) waardoor of waarin processen plaatsvinden die leiden of kunnen leiden tot het vrijkomen van stoffen duidelijk blijkt; zowel in de beschrijving als in het processchema dient te worden aangegeven welke stoffen waar en in welke mate ontstaan en vrijkomen; daarbij dient, indien van toepassing, een beschrijving van inrichtingen die dienen tot het terughouden van bestanddelen uit de te lozen stoffen, zo mogelijk vergezeld van toelichtende tekeningen, te worden verstrekt. (Beantwoorden in bijlage) | Een procesbeschrijving en een processchema waaruit de opzet van de bedrijfsinstallatie(s) waardoor of waarin processen plaatsvinden die leiden of kunnen leiden tot het vrijkomen van stoffen duidelijk blijkt; zowel in de beschrijving als in het processchema dient te worden aangegeven welke stoffen waar en in welke mate ontstaan en vrijkomen; daarbij dient, indien van toepassing, een beschrijving van inrichtingen die dienen tot het terughouden van bestanddelen uit de te lozen stoffen, zo mogelijk vergezeld van toelichtende tekeningen, te worden verstrekt. (Beantwoorden in bijlage) | Een procesbeschrijving en een processchema waaruit de opzet van de bedrijfsinstallatie(s) waardoor of waarin processen plaatsvinden die leiden of kunnen leiden tot het vrijkomen van stoffen duidelijk blijkt; zowel in de beschrijving als in het processchema dient te worden aangegeven welke stoffen waar en in welke mate ontstaan en vrijkomen; daarbij dient, indien van toepassing, een beschrijving van inrichtingen die dienen tot het terughouden van bestanddelen uit de te lozen stoffen, zo mogelijk vergezeld van toelichtende tekeningen, te worden verstrekt. (Beantwoorden in bijlage) | Een procesbeschrijving en een processchema waaruit de opzet van de bedrijfsinstallatie(s) waardoor of waarin processen plaatsvinden die leiden of kunnen leiden tot het vrijkomen van stoffen duidelijk blijkt; zowel in de beschrijving als in het processchema dient te worden aangegeven welke stoffen waar en in welke mate ontstaan en vrijkomen; daarbij dient, indien van toepassing, een beschrijving van inrichtingen die dienen tot het terughouden van bestanddelen uit de te lozen stoffen, zo mogelijk vergezeld van toelichtende tekeningen, te worden verstrekt. (Beantwoorden in bijlage) | Een procesbeschrijving en een processchema waaruit de opzet van de bedrijfsinstallatie(s) waardoor of waarin processen plaatsvinden die leiden of kunnen leiden tot het vrijkomen van stoffen duidelijk blijkt; zowel in de beschrijving als in het processchema dient te worden aangegeven welke stoffen waar en in welke mate ontstaan en vrijkomen; daarbij dient, indien van toepassing, een beschrijving van inrichtingen die dienen tot het terughouden van bestanddelen uit de te lozen stoffen, zo mogelijk vergezeld van toelichtende tekeningen, te worden verstrekt. (Beantwoorden in bijlage) |
 | 3.2 | 1. Welke basisstoffen, eventuele tussenprodukten en hulpstoffen worden gebruikt en in welke hoeveelheden? 2. Wat is het omzettingsrendement? |   |   |   |   |
 | 3.3 | Een opgave van de aard en de hoeveelheid van de grondstoffen, hulpstoffen, tussenprodukten en eindprodukten die naar redelijke verwachting binnen het bedrijf of de instelling aanwezig kunnen zijn, voorzover deze tussen de te lozen stoffen kunnen geraken. (Beantwoorden in bijlage) | Een opgave van de aard en de hoeveelheid van de grondstoffen, hulpstoffen, tussenprodukten en eindprodukten die naar redelijke verwachting binnen het bedrijf of de instelling aanwezig kunnen zijn, voorzover deze tussen de te lozen stoffen kunnen geraken. (Beantwoorden in bijlage) | Een opgave van de aard en de hoeveelheid van de grondstoffen, hulpstoffen, tussenprodukten en eindprodukten die naar redelijke verwachting binnen het bedrijf of de instelling aanwezig kunnen zijn, voorzover deze tussen de te lozen stoffen kunnen geraken. (Beantwoorden in bijlage) | Een opgave van de aard en de hoeveelheid van de grondstoffen, hulpstoffen, tussenprodukten en eindprodukten die naar redelijke verwachting binnen het bedrijf of de instelling aanwezig kunnen zijn, voorzover deze tussen de te lozen stoffen kunnen geraken. (Beantwoorden in bijlage) | Een opgave van de aard en de hoeveelheid van de grondstoffen, hulpstoffen, tussenprodukten en eindprodukten die naar redelijke verwachting binnen het bedrijf of de instelling aanwezig kunnen zijn, voorzover deze tussen de te lozen stoffen kunnen geraken. (Beantwoorden in bijlage) |
 | 3.4 | Een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van storingen, proefdraaien, in bedrijf stellen, uit bedrijf nemen, schoonmaak- en herstelwerkzaamheden tussen de te lozen stoffen kunnen geraken, alsmede een beschrijving van de maatregelen of voorzieningen die door of vanwege de verzoeker zullen worden getroffen om dit te voorkomen of te beperken. (Beantwoorden in bijlage) | Een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van storingen, proefdraaien, in bedrijf stellen, uit bedrijf nemen, schoonmaak- en herstelwerkzaamheden tussen de te lozen stoffen kunnen geraken, alsmede een beschrijving van de maatregelen of voorzieningen die door of vanwege de verzoeker zullen worden getroffen om dit te voorkomen of te beperken. (Beantwoorden in bijlage) | Een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van storingen, proefdraaien, in bedrijf stellen, uit bedrijf nemen, schoonmaak- en herstelwerkzaamheden tussen de te lozen stoffen kunnen geraken, alsmede een beschrijving van de maatregelen of voorzieningen die door of vanwege de verzoeker zullen worden getroffen om dit te voorkomen of te beperken. (Beantwoorden in bijlage) | Een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van storingen, proefdraaien, in bedrijf stellen, uit bedrijf nemen, schoonmaak- en herstelwerkzaamheden tussen de te lozen stoffen kunnen geraken, alsmede een beschrijving van de maatregelen of voorzieningen die door of vanwege de verzoeker zullen worden getroffen om dit te voorkomen of te beperken. (Beantwoorden in bijlage) | Een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van storingen, proefdraaien, in bedrijf stellen, uit bedrijf nemen, schoonmaak- en herstelwerkzaamheden tussen de te lozen stoffen kunnen geraken, alsmede een beschrijving van de maatregelen of voorzieningen die door of vanwege de verzoeker zullen worden getroffen om dit te voorkomen of te beperken. (Beantwoorden in bijlage) |
 |   |   |   |   |   |   |
-| 4. | KARAKTERISERING VAN DE TE LOZEN STOFFEN: *Zie toelichting | KARAKTERISERING VAN DE TE LOZEN STOFFEN: *Zie toelichting | KARAKTERISERING VAN DE TE LOZEN STOFFEN: *Zie toelichting | KARAKTERISERING VAN DE TE LOZEN STOFFEN: *Zie toelichting | KARAKTERISERING VAN DE TE LOZEN STOFFEN: *Zie toelichting |
+| 4. | KARAKTERISERING VAN DE TE LOZEN STOFFEN: | KARAKTERISERING VAN DE TE LOZEN STOFFEN: | KARAKTERISERING VAN DE TE LOZEN STOFFEN: | KARAKTERISERING VAN DE TE LOZEN STOFFEN: | KARAKTERISERING VAN DE TE LOZEN STOFFEN: |
 | 4.1 | 1. In welke **vorm** (vloeibaar, vast of gasvormig) worden de stoffen geloosd? | 1. In welke **vorm** (vloeibaar, vast of gasvormig) worden de stoffen geloosd? |   |   |   |
-|   | 2. Wat is het gehalte aan vaste stoffen? *Zie toelichting | 2. Wat is het gehalte aan vaste stoffen? *Zie toelichting |   | kg/m³ |   |
+|   | 2. Wat is het gehalte aan vaste stoffen? | 2. Wat is het gehalte aan vaste stoffen? |   | kg/m³ |   |
 |   | 3. Zijn de te lozen stoffen verpakt? Zo ja, | 3. Zijn de te lozen stoffen verpakt? Zo ja, |   |   |   |
 | 4.2 | **Chemische samenstelling:** | **Chemische samenstelling:** |   |   |   |
-|   | De gehalten van de bestanddelen *Zie toelichting | De gehalten van de bestanddelen *Zie toelichting |   |   |   |
+|   | De gehalten van de bestanddelen | De gehalten van de bestanddelen |   |   |   |
 |   | 1. **Bestanddelen** | 1. **Bestanddelen** |   |   |   |
-|   |   | n*Zie toelichting | in gew. % |   | analyse-methodiek*Zie toelichting |
+|   |   | n | in gew. % |   | analyse-methodiek |
 |   |   |   | gem. | max. |   |
 |   |   |   |   |   |   |
 |   | 2. **Bestanddelen** | 2. **Bestanddelen** |   |   |   |
-|   |   | n*Zie toelichting | in 10-³ | kg/m³ | analyse-methodiek*Zie toelichting |
+|   |   | n | in 10-³ | kg/m³ | analyse-methodiek |
 |   |   |   | gem. | max. |   |
-|   | organische halogeenverbindingen*Zie toelichting |   |   |   |   |
+|   | organische halogeenverbindingen |   |   |   |   |
 |   | kwik |   |   |   |   |
 |   | cadmium |   |   |   |   |
 |   | lood |   |   |   |   |
@@ -173,21 +193,21 @@ Verzoek om ontheffing van bepalingen in de [Wet verontreiniging zeewater](https:
 |   | cyaniden |   |   |   |   |
 |   | fluoriden |   |   |   |   |
 |   | fenolen |   |   |   |   |
-|   | olie *Zie toelichting |   |   | conform | conform |
-|   | organische siliciumverbindingen *Zie toelichting |   |   | toelichting | toelichting |
+|   | olie |   |   | conform | conform |
+|   | organische siliciumverbindingen |   |   | toelichting | toelichting |
 |   | T.O.C. |   |   |   |   |
 |   | eventuele andere bestanddelen |   |   |   |   |
-| 4.3 | De totale **hoeveelheid** stoffen waarop het verzoek om ontheffing betrekking heeft alsmede de voorgenomen frequentie van het lozen *Zie toelichting | gemiddeld maximaal |   | kg/j kg/j |   |
-| 4.4 | **Eigenschappen** * Zie toelichting |   |   |   |   |
+| 4.3 | De totale **hoeveelheid** stoffen waarop het verzoek om ontheffing betrekking heeft alsmede de voorgenomen frequentie van het lozen | gemiddeld maximaal |   | kg/j kg/j |   |
+| 4.4 | **Eigenschappen** |   |   |   |   |
 |   | kleur |   |   |   |   |
 |   | reuk |   |   |   |   |
-|   |   | n*Zie toelichting | gem. | max | in |
+|   |   | n | gem. | max | in |
 |   | volumieke massa pH-waarde |   |   |   | kg/m³ |
 |   | C.Z.V.20 |   |   |   | kg O22//m³ |
 |   | B.Z.V.5 |   |   |   | kg O22//m³ |
 |   | kjeldahl-N |   |   |   | kg/m³ |
-|   | droogrest *Zie toelichting |   |   |   | kg/m³ |
-|   | gloeirest *Zie toelichting |   |   |   | % d |
+|   | droogrest |   |   |   | kg/m³ |
+|   | gloeirest |   |   |   | % d |
 |   |   |   |   |   |   |
 | 5. | TRANSPORT, OVERSLAG EN OPSLAG VAN DE STOFFEN: | TRANSPORT, OVERSLAG EN OPSLAG VAN DE STOFFEN: | TRANSPORT, OVERSLAG EN OPSLAG VAN DE STOFFEN: | TRANSPORT, OVERSLAG EN OPSLAG VAN DE STOFFEN: | TRANSPORT, OVERSLAG EN OPSLAG VAN DE STOFFEN: |
 | 5.1 | Op welke wijze worden de stoffen getransporteerd van de plaats van herkomst naar de plaats van waaruit de overslag in het lozingsvaartuig plaatsvindt? | Op welke wijze worden de stoffen getransporteerd van de plaats van herkomst naar de plaats van waaruit de overslag in het lozingsvaartuig plaatsvindt? |   |   |   |
@@ -199,11 +219,11 @@ Verzoek om ontheffing van bepalingen in de [Wet verontreiniging zeewater](https:
 |   | 2. vlaggestaat |   |   |   |   |
 |   | 3. type vaartuig |   |   |   |   |
 |   | 4. laadvermogen |   |   | m³ |   |
-|   | 5. lengte *Zie toelichting |   |   | m |   |
-|   | 6. dienstsnelheid *Zie toelichting |   |   | m/sec |   |
+|   | 5. lengte |   |   | m |   |
+|   | 6. dienstsnelheid |   |   | m/sec |   |
 |   | 7. exploitant |   |   |   |   |
-|   | 8. toelichtende tekening of beschrijving van het vaartuig*Zie toelichting | (beantwoorden in bijlage) | (beantwoorden in bijlage) |   |   |
-| 7. | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: *Zie toelichting |
+|   | 8. toelichtende tekening of beschrijving van het vaartuig | (beantwoorden in bijlage) | (beantwoorden in bijlage) |   |   |
+| 7. | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: |
 |   | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen, teneinde: | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen, teneinde: | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen, teneinde: | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen, teneinde: | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen, teneinde: |
 
 De ondergetekende verklaart, dat hij/zij dit formulier en de daarbij behorende bescheiden (te weten bijlage(n)) naar waarheid en zonder voorbehoud heeft ingevuld.
@@ -235,27 +255,41 @@ De ondergetekende verklaart, dat hij/zij dit formulier en de daarbij behorende b
 
 ## Bijlage III
 
-Verzoek om ontheffing van bepalingen in de Wet verontreiniging zeewater betreffende het lozen van baggerspecie
+RIJKSWATERSTAAT
 
-| 1. | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting |
+Dienst Noordzee
+
+Lange Kleiweg 34
+
+Postbus 5807
+
+2280 HV RIJSWIJK (ZH)
+
+tel. (070) 3366600
+
+fax (070) 3900691
+
+Verzoek om ontheffing van bepalingen in de [Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975) betreffende het lozen van baggerspecie
+
+| 1. | VERZOEKER | VERZOEKER | VERZOEKER | VERZOEKER | VERZOEKER | VERZOEKER |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1. | 1. naam *Zie toelichting 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon *Zie toelichting | 1. naam *Zie toelichting 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon *Zie toelichting | 1. naam *Zie toelichting 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon *Zie toelichting | 1. naam *Zie toelichting 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon *Zie toelichting |   |   |
+| 1. | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon |   |   |
 | 2. | ALGEMENE GEGEVENS | ALGEMENE GEGEVENS | ALGEMENE GEGEVENS | ALGEMENE GEGEVENS |   |   |
 | 2.1 | Een aanduiding van de herkomst van de baggerspecie (beantwoorden in bijlage, vergezeld van situatietekeningen) | Een aanduiding van de herkomst van de baggerspecie (beantwoorden in bijlage, vergezeld van situatietekeningen) | Een aanduiding van de herkomst van de baggerspecie (beantwoorden in bijlage, vergezeld van situatietekeningen) | Een aanduiding van de herkomst van de baggerspecie (beantwoorden in bijlage, vergezeld van situatietekeningen) | Een aanduiding van de herkomst van de baggerspecie (beantwoorden in bijlage, vergezeld van situatietekeningen) | Een aanduiding van de herkomst van de baggerspecie (beantwoorden in bijlage, vergezeld van situatietekeningen) |
 |   |   |   |   |   |   |   |
 |   |   | Niet door verzoeker in te vullen | Niet door verzoeker in te vullen | Niet door verzoeker in te vullen | Niet door verzoeker in te vullen | Niet door verzoeker in te vullen |
 |   |   | Datum aanvraag | Datum aanvraag | Datum aanvraag | Datum aanvraag | Datum aanvraag |
 |   |   |   |   |   |   |   |
-| 2.2 | Betreft het baggerspecie t.b.v. onderhoudsbaggerwerk of aanlegwerkzaamheden? *Zie toelichting Indien onderhoudsbaggerwerk, | Betreft het baggerspecie t.b.v. onderhoudsbaggerwerk of aanlegwerkzaamheden? *Zie toelichting Indien onderhoudsbaggerwerk, |   |   |   |   |
+| 2.2 | Betreft het baggerspecie t.b.v. onderhoudsbaggerwerk of aanlegwerkzaamheden? Indien onderhoudsbaggerwerk, | Betreft het baggerspecie t.b.v. onderhoudsbaggerwerk of aanlegwerkzaamheden? Indien onderhoudsbaggerwerk, |   |   |   |   |
 | 2.3 | Zijn in verband met de be- en verwerking en of berging van de baggerspecie bij andere overheidsinstanties aanvragen ingediend? Zo ja, | Zijn in verband met de be- en verwerking en of berging van de baggerspecie bij andere overheidsinstanties aanvragen ingediend? Zo ja, |   |   |   |   |
 | 2.4 | Voor welke periode wordt de ontheffing gevraagd? | Voor welke periode wordt de ontheffing gevraagd? |   |   |   |   |
-| 3. | KARAKTERISERING VAN DE BAGGERSPECIE*Zie toelichting | KARAKTERISERING VAN DE BAGGERSPECIE*Zie toelichting | KARAKTERISERING VAN DE BAGGERSPECIE*Zie toelichting | KARAKTERISERING VAN DE BAGGERSPECIE*Zie toelichting | KARAKTERISERING VAN DE BAGGERSPECIE*Zie toelichting | KARAKTERISERING VAN DE BAGGERSPECIE*Zie toelichting |
+| 3. | KARAKTERISERING VAN DE BAGGERSPECIE | KARAKTERISERING VAN DE BAGGERSPECIE | KARAKTERISERING VAN DE BAGGERSPECIE | KARAKTERISERING VAN DE BAGGERSPECIE | KARAKTERISERING VAN DE BAGGERSPECIE | KARAKTERISERING VAN DE BAGGERSPECIE |
 | 3.1 | 1. De totale hoeveelheid baggerspecie waarop het verzoek om ontheffing betrekking heeft. |   | m³ maximaal m³/maand maximaal m³/j |   |   |   |
-|   | 2. Wat is het gehalte aan vaste stoffen (volume-percentage)? *Zie toelichting |   | % |   |   |   |
+|   | 2. Wat is het gehalte aan vaste stoffen (volume-percentage)? |   | % |   |   |   |
 | 3.2 | **Samenstelling** | **Samenstelling** | **Samenstelling** | **Samenstelling** | **Samenstelling** | **Samenstelling** |
-|   | Per representatief monsterpunt de gehalten van de bestanddelen in de baggerspecie *Zie toelichting | Per representatief monsterpunt de gehalten van de bestanddelen in de baggerspecie *Zie toelichting | Per representatief monsterpunt de gehalten van de bestanddelen in de baggerspecie *Zie toelichting | Per representatief monsterpunt de gehalten van de bestanddelen in de baggerspecie *Zie toelichting | Per representatief monsterpunt de gehalten van de bestanddelen in de baggerspecie *Zie toelichting | Per representatief monsterpunt de gehalten van de bestanddelen in de baggerspecie *Zie toelichting |
+|   | Per representatief monsterpunt de gehalten van de bestanddelen in de baggerspecie | Per representatief monsterpunt de gehalten van de bestanddelen in de baggerspecie | Per representatief monsterpunt de gehalten van de bestanddelen in de baggerspecie | Per representatief monsterpunt de gehalten van de bestanddelen in de baggerspecie | Per representatief monsterpunt de gehalten van de bestanddelen in de baggerspecie | Per representatief monsterpunt de gehalten van de bestanddelen in de baggerspecie |
 |   |   |   |   |   |   |   |
-|   |   | n*Zie toelichting | in gew. % |   | analyse-methodiek*Zie toelichting | analyse-methodiek*Zie toelichting |
+|   |   | n | in gew. % |   | analyse-methodiek | analyse-methodiek |
 |   |   |   | gem. | max. |   |   |
 |   |   |   |   |   |   |   |
 |   | organische stof |   |   |   |   |   |
@@ -277,14 +311,14 @@ Verzoek om ontheffing van bepalingen in de Wet verontreiniging zeewater betreffe
 |   | polycyclische aromatische verbindingen |   |   |   |   |   |
 |   | T.O.C. |   |   |   |   |   |
 |   | eventuele andere bestanddelen |   |   |   |   |   |
-| 3.3 | Eigenschappen | n*Zie toelichting | gem. | max |   |   |
+| 3.3 | Eigenschappen | n | gem. | max |   |   |
 |   | volumieke massa |   |   |   |   |   |
 |   | a. in situ |   |   |   | kg/m³ | kg/m³ |
 |   | b. na baggeren |   |   |   | kg/m³ | kg/m³ |
 |   | C.Z.V.20 |   |   |   | kg O2/m³ | kg O2/m³ |
 |   | B.Z.V.5 |   |   |   | kg O2/m³ | kg O2/m³ |
 |   | gloeirest deeltjesgrootteverdeling van de vaste stof (gewichtspercentage) |   |   |   | % | % |
-| 4. | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING *Zie toelichting |
+| 4. | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING |
 |   | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen, teneinde: | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen, teneinde: | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen, teneinde: | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen, teneinde: |   |   |
 |   | a. het ontstaan van de onderhavige baggerspecie tegen te gaan of de af te voeren hoeveelheid te beperken bijvoorbeeld door wijziging van het baggerproces, of de frequentie van afvoer te beperken, danwel het verloop van de afvoer te wijzigen b. de verontreinigingsgraad van de baggerspecie te verminderen c. alternatieve bergingslokaties te vinden d. de baggerspecie te verwerken, dan wel voor gebruiksdoeleinden aan te wenden. (Beantwoorden in bijlage) | a. het ontstaan van de onderhavige baggerspecie tegen te gaan of de af te voeren hoeveelheid te beperken bijvoorbeeld door wijziging van het baggerproces, of de frequentie van afvoer te beperken, danwel het verloop van de afvoer te wijzigen b. de verontreinigingsgraad van de baggerspecie te verminderen c. alternatieve bergingslokaties te vinden d. de baggerspecie te verwerken, dan wel voor gebruiksdoeleinden aan te wenden. (Beantwoorden in bijlage) | a. het ontstaan van de onderhavige baggerspecie tegen te gaan of de af te voeren hoeveelheid te beperken bijvoorbeeld door wijziging van het baggerproces, of de frequentie van afvoer te beperken, danwel het verloop van de afvoer te wijzigen b. de verontreinigingsgraad van de baggerspecie te verminderen c. alternatieve bergingslokaties te vinden d. de baggerspecie te verwerken, dan wel voor gebruiksdoeleinden aan te wenden. (Beantwoorden in bijlage) | a. het ontstaan van de onderhavige baggerspecie tegen te gaan of de af te voeren hoeveelheid te beperken bijvoorbeeld door wijziging van het baggerproces, of de frequentie van afvoer te beperken, danwel het verloop van de afvoer te wijzigen b. de verontreinigingsgraad van de baggerspecie te verminderen c. alternatieve bergingslokaties te vinden d. de baggerspecie te verwerken, dan wel voor gebruiksdoeleinden aan te wenden. (Beantwoorden in bijlage) |   |   |
 
@@ -311,11 +345,25 @@ De ondergetekende verklaart, dat hij/zij dit formulier en de daarbij behorende b
 
 ## Bijlage IV
 
-Verzoek om ontheffing van bepalingen in de Wet verontreiniging zeewater betreffende het verbranden van stoffen
+RIJKSWATERSTAAT
 
-| 1. | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting | VERZOEKER *Zie toelichting |
+Dienst Noordzee
+
+Lange Kleiweg 34
+
+Postbus 5807
+
+2280 HV RIJSWIJK (ZH)
+
+tel. (070) 3366600
+
+fax (070) 3900691
+
+Verzoek om ontheffing van bepalingen in de [Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975) betreffende het verbranden van stoffen
+
+| 1. | VERZOEKER | VERZOEKER | VERZOEKER | VERZOEKER | VERZOEKER | VERZOEKER | VERZOEKER | VERZOEKER |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. | 1. naam *Zie toelichting 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon *Zie toelichting | 1. naam *Zie toelichting 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon *Zie toelichting | 1. naam *Zie toelichting 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon *Zie toelichting |   |   |   |   |   |
+| 1. | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon |   |   |   |   |   |
 | 2. | ALGEMENE GEGEVENS: | ALGEMENE GEGEVENS: | ALGEMENE GEGEVENS: |   |   |   |   |   |
 | 2.1 | Een globale omschrijving van de aard van het bedrijf of de instelling van waar de stoffen afkomstig zijn. (Beantwoorden in bijlage) | Een globale omschrijving van de aard van het bedrijf of de instelling van waar de stoffen afkomstig zijn. (Beantwoorden in bijlage) | Een globale omschrijving van de aard van het bedrijf of de instelling van waar de stoffen afkomstig zijn. (Beantwoorden in bijlage) | Een globale omschrijving van de aard van het bedrijf of de instelling van waar de stoffen afkomstig zijn. (Beantwoorden in bijlage) | Een globale omschrijving van de aard van het bedrijf of de instelling van waar de stoffen afkomstig zijn. (Beantwoorden in bijlage) | Een globale omschrijving van de aard van het bedrijf of de instelling van waar de stoffen afkomstig zijn. (Beantwoorden in bijlage) | Een globale omschrijving van de aard van het bedrijf of de instelling van waar de stoffen afkomstig zijn. (Beantwoorden in bijlage) | Een globale omschrijving van de aard van het bedrijf of de instelling van waar de stoffen afkomstig zijn. (Beantwoorden in bijlage) |
 |   |   |   |   |   |   |   |   |   |
@@ -325,22 +373,22 @@ Verzoek om ontheffing van bepalingen in de Wet verontreiniging zeewater betreffe
 | 2.2 | Betreft het stoffen die op dit moment reeds vrijkomen? Zo ja, | Betreft het stoffen die op dit moment reeds vrijkomen? Zo ja, | Betreft het stoffen die op dit moment reeds vrijkomen? Zo ja, |   |   |   |   |   |
 | 2.3 | Zijn in verband met de be- of verwerking of verwijdering van de stoffen bij andere overheidsinstanties aanvragen ingediend? Zo ja, | Zijn in verband met de be- of verwerking of verwijdering van de stoffen bij andere overheidsinstanties aanvragen ingediend? Zo ja, | Zijn in verband met de be- of verwerking of verwijdering van de stoffen bij andere overheidsinstanties aanvragen ingediend? Zo ja, |   |   |   |   |   |
 | 2.4 | Voor welke periode wordt de ontheffing gevraagd? | Voor welke periode wordt de ontheffing gevraagd? | Voor welke periode wordt de ontheffing gevraagd? |   |   |   |   |   |
-| 3. | HERKOMST VAN DE STOFFEN *Zie toelichting | HERKOMST VAN DE STOFFEN *Zie toelichting | HERKOMST VAN DE STOFFEN *Zie toelichting | HERKOMST VAN DE STOFFEN *Zie toelichting | HERKOMST VAN DE STOFFEN *Zie toelichting | HERKOMST VAN DE STOFFEN *Zie toelichting | HERKOMST VAN DE STOFFEN *Zie toelichting | HERKOMST VAN DE STOFFEN *Zie toelichting |
+| 3. | HERKOMST VAN DE STOFFEN | HERKOMST VAN DE STOFFEN | HERKOMST VAN DE STOFFEN | HERKOMST VAN DE STOFFEN | HERKOMST VAN DE STOFFEN | HERKOMST VAN DE STOFFEN | HERKOMST VAN DE STOFFEN | HERKOMST VAN DE STOFFEN |
 | 3.1 | Een procesbeschrijving en een processchema waaruit de opzet van de bedrijfsinstallatie(s) waardoor of waarin processen plaatsvinden die leiden of kunnen leiden tot het vrijkomen van stoffen duidelijk blijkt; zowel in de beschrijving als in het processchema dient te worden aangegeven welke stoffen waar en in welke mate ontstaan en vrijkomen; daarbij dient, indien van toepassing, een beschrijving van inrichtingen die dienen tot het terughouden van bestanddelen uit de te lozen stoffen, zo mogelijk vergezeld van toelichtende tekeningen, te worden verstrekt. (Beantwoorden in bijlage) | Een procesbeschrijving en een processchema waaruit de opzet van de bedrijfsinstallatie(s) waardoor of waarin processen plaatsvinden die leiden of kunnen leiden tot het vrijkomen van stoffen duidelijk blijkt; zowel in de beschrijving als in het processchema dient te worden aangegeven welke stoffen waar en in welke mate ontstaan en vrijkomen; daarbij dient, indien van toepassing, een beschrijving van inrichtingen die dienen tot het terughouden van bestanddelen uit de te lozen stoffen, zo mogelijk vergezeld van toelichtende tekeningen, te worden verstrekt. (Beantwoorden in bijlage) | Een procesbeschrijving en een processchema waaruit de opzet van de bedrijfsinstallatie(s) waardoor of waarin processen plaatsvinden die leiden of kunnen leiden tot het vrijkomen van stoffen duidelijk blijkt; zowel in de beschrijving als in het processchema dient te worden aangegeven welke stoffen waar en in welke mate ontstaan en vrijkomen; daarbij dient, indien van toepassing, een beschrijving van inrichtingen die dienen tot het terughouden van bestanddelen uit de te lozen stoffen, zo mogelijk vergezeld van toelichtende tekeningen, te worden verstrekt. (Beantwoorden in bijlage) | Een procesbeschrijving en een processchema waaruit de opzet van de bedrijfsinstallatie(s) waardoor of waarin processen plaatsvinden die leiden of kunnen leiden tot het vrijkomen van stoffen duidelijk blijkt; zowel in de beschrijving als in het processchema dient te worden aangegeven welke stoffen waar en in welke mate ontstaan en vrijkomen; daarbij dient, indien van toepassing, een beschrijving van inrichtingen die dienen tot het terughouden van bestanddelen uit de te lozen stoffen, zo mogelijk vergezeld van toelichtende tekeningen, te worden verstrekt. (Beantwoorden in bijlage) | Een procesbeschrijving en een processchema waaruit de opzet van de bedrijfsinstallatie(s) waardoor of waarin processen plaatsvinden die leiden of kunnen leiden tot het vrijkomen van stoffen duidelijk blijkt; zowel in de beschrijving als in het processchema dient te worden aangegeven welke stoffen waar en in welke mate ontstaan en vrijkomen; daarbij dient, indien van toepassing, een beschrijving van inrichtingen die dienen tot het terughouden van bestanddelen uit de te lozen stoffen, zo mogelijk vergezeld van toelichtende tekeningen, te worden verstrekt. (Beantwoorden in bijlage) | Een procesbeschrijving en een processchema waaruit de opzet van de bedrijfsinstallatie(s) waardoor of waarin processen plaatsvinden die leiden of kunnen leiden tot het vrijkomen van stoffen duidelijk blijkt; zowel in de beschrijving als in het processchema dient te worden aangegeven welke stoffen waar en in welke mate ontstaan en vrijkomen; daarbij dient, indien van toepassing, een beschrijving van inrichtingen die dienen tot het terughouden van bestanddelen uit de te lozen stoffen, zo mogelijk vergezeld van toelichtende tekeningen, te worden verstrekt. (Beantwoorden in bijlage) |   |   |
 | 3.2 | 1. Welke basisstoffen, eventuele tussenprodukten en hulpstoffen worden gebruikt en in welke hoeveelheden? 2. Wat is het omzettingsrendement? | 1. Welke basisstoffen, eventuele tussenprodukten en hulpstoffen worden gebruikt en in welke hoeveelheden? 2. Wat is het omzettingsrendement? | 1. Welke basisstoffen, eventuele tussenprodukten en hulpstoffen worden gebruikt en in welke hoeveelheden? 2. Wat is het omzettingsrendement? | 1. Welke basisstoffen, eventuele tussenprodukten en hulpstoffen worden gebruikt en in welke hoeveelheden? 2. Wat is het omzettingsrendement? | 1. Welke basisstoffen, eventuele tussenprodukten en hulpstoffen worden gebruikt en in welke hoeveelheden? 2. Wat is het omzettingsrendement? | 1. Welke basisstoffen, eventuele tussenprodukten en hulpstoffen worden gebruikt en in welke hoeveelheden? 2. Wat is het omzettingsrendement? |   |   |
 | 3.3 | Een opgave van de aard en de hoeveelheid van de grondstoffen, hulpstoffen, tussenprodukten en eindprodukten die naar redelijke verwachting binnen het bedrijf of de instelling aanwezig kunnen zijn, voorzover deze tussen de te lozen stoffen kunnen geraken. (Beantwoorden in bijlage) | Een opgave van de aard en de hoeveelheid van de grondstoffen, hulpstoffen, tussenprodukten en eindprodukten die naar redelijke verwachting binnen het bedrijf of de instelling aanwezig kunnen zijn, voorzover deze tussen de te lozen stoffen kunnen geraken. (Beantwoorden in bijlage) | Een opgave van de aard en de hoeveelheid van de grondstoffen, hulpstoffen, tussenprodukten en eindprodukten die naar redelijke verwachting binnen het bedrijf of de instelling aanwezig kunnen zijn, voorzover deze tussen de te lozen stoffen kunnen geraken. (Beantwoorden in bijlage) | Een opgave van de aard en de hoeveelheid van de grondstoffen, hulpstoffen, tussenprodukten en eindprodukten die naar redelijke verwachting binnen het bedrijf of de instelling aanwezig kunnen zijn, voorzover deze tussen de te lozen stoffen kunnen geraken. (Beantwoorden in bijlage) | Een opgave van de aard en de hoeveelheid van de grondstoffen, hulpstoffen, tussenprodukten en eindprodukten die naar redelijke verwachting binnen het bedrijf of de instelling aanwezig kunnen zijn, voorzover deze tussen de te lozen stoffen kunnen geraken. (Beantwoorden in bijlage) | Een opgave van de aard en de hoeveelheid van de grondstoffen, hulpstoffen, tussenprodukten en eindprodukten die naar redelijke verwachting binnen het bedrijf of de instelling aanwezig kunnen zijn, voorzover deze tussen de te lozen stoffen kunnen geraken. (Beantwoorden in bijlage) | Een opgave van de aard en de hoeveelheid van de grondstoffen, hulpstoffen, tussenprodukten en eindprodukten die naar redelijke verwachting binnen het bedrijf of de instelling aanwezig kunnen zijn, voorzover deze tussen de te lozen stoffen kunnen geraken. (Beantwoorden in bijlage) | Een opgave van de aard en de hoeveelheid van de grondstoffen, hulpstoffen, tussenprodukten en eindprodukten die naar redelijke verwachting binnen het bedrijf of de instelling aanwezig kunnen zijn, voorzover deze tussen de te lozen stoffen kunnen geraken. (Beantwoorden in bijlage) |
 | 3.4 | Een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van storingen, proefdraaien, in bedrijf stellen, uit bedrijf nemen, schoonmaak- en herstelwerkzaamheden tussen de te lozen stoffen kunnen geraken, alsmede een beschrijving van de maatregelen of voorzieningen die door of vanwege de verzoeker zullen worden getroffen om dit te voorkomen of te beperken. (Beantwoorden in bijlage) | Een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van storingen, proefdraaien, in bedrijf stellen, uit bedrijf nemen, schoonmaak- en herstelwerkzaamheden tussen de te lozen stoffen kunnen geraken, alsmede een beschrijving van de maatregelen of voorzieningen die door of vanwege de verzoeker zullen worden getroffen om dit te voorkomen of te beperken. (Beantwoorden in bijlage) | Een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van storingen, proefdraaien, in bedrijf stellen, uit bedrijf nemen, schoonmaak- en herstelwerkzaamheden tussen de te lozen stoffen kunnen geraken, alsmede een beschrijving van de maatregelen of voorzieningen die door of vanwege de verzoeker zullen worden getroffen om dit te voorkomen of te beperken. (Beantwoorden in bijlage) | Een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van storingen, proefdraaien, in bedrijf stellen, uit bedrijf nemen, schoonmaak- en herstelwerkzaamheden tussen de te lozen stoffen kunnen geraken, alsmede een beschrijving van de maatregelen of voorzieningen die door of vanwege de verzoeker zullen worden getroffen om dit te voorkomen of te beperken. (Beantwoorden in bijlage) | Een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van storingen, proefdraaien, in bedrijf stellen, uit bedrijf nemen, schoonmaak- en herstelwerkzaamheden tussen de te lozen stoffen kunnen geraken, alsmede een beschrijving van de maatregelen of voorzieningen die door of vanwege de verzoeker zullen worden getroffen om dit te voorkomen of te beperken. (Beantwoorden in bijlage) | Een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van storingen, proefdraaien, in bedrijf stellen, uit bedrijf nemen, schoonmaak- en herstelwerkzaamheden tussen de te lozen stoffen kunnen geraken, alsmede een beschrijving van de maatregelen of voorzieningen die door of vanwege de verzoeker zullen worden getroffen om dit te voorkomen of te beperken. (Beantwoorden in bijlage) | Een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van storingen, proefdraaien, in bedrijf stellen, uit bedrijf nemen, schoonmaak- en herstelwerkzaamheden tussen de te lozen stoffen kunnen geraken, alsmede een beschrijving van de maatregelen of voorzieningen die door of vanwege de verzoeker zullen worden getroffen om dit te voorkomen of te beperken. (Beantwoorden in bijlage) | Een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van storingen, proefdraaien, in bedrijf stellen, uit bedrijf nemen, schoonmaak- en herstelwerkzaamheden tussen de te lozen stoffen kunnen geraken, alsmede een beschrijving van de maatregelen of voorzieningen die door of vanwege de verzoeker zullen worden getroffen om dit te voorkomen of te beperken. (Beantwoorden in bijlage) |
-| 4 | KARAKTERISERING VAN DE TE VERBRANDEN STOFFEN: *Zie toelichting | KARAKTERISERING VAN DE TE VERBRANDEN STOFFEN: *Zie toelichting | KARAKTERISERING VAN DE TE VERBRANDEN STOFFEN: *Zie toelichting | KARAKTERISERING VAN DE TE VERBRANDEN STOFFEN: *Zie toelichting | KARAKTERISERING VAN DE TE VERBRANDEN STOFFEN: *Zie toelichting | KARAKTERISERING VAN DE TE VERBRANDEN STOFFEN: *Zie toelichting |   |   |
+| 4 | KARAKTERISERING VAN DE TE VERBRANDEN STOFFEN: | KARAKTERISERING VAN DE TE VERBRANDEN STOFFEN: | KARAKTERISERING VAN DE TE VERBRANDEN STOFFEN: | KARAKTERISERING VAN DE TE VERBRANDEN STOFFEN: | KARAKTERISERING VAN DE TE VERBRANDEN STOFFEN: | KARAKTERISERING VAN DE TE VERBRANDEN STOFFEN: |   |   |
 | 4.1 | 1. In welke **vorm** (vloeibaar, vast of gasvormig) worden de stoffen verbrand? | 1. In welke **vorm** (vloeibaar, vast of gasvormig) worden de stoffen verbrand? | 1. In welke **vorm** (vloeibaar, vast of gasvormig) worden de stoffen verbrand? | 1. In welke **vorm** (vloeibaar, vast of gasvormig) worden de stoffen verbrand? | 1. In welke **vorm** (vloeibaar, vast of gasvormig) worden de stoffen verbrand? |   |   |   |
-|   | 2. Wat is het gehalte aan vaste stoffen? *Zie toelichting | 2. Wat is het gehalte aan vaste stoffen? *Zie toelichting | 2. Wat is het gehalte aan vaste stoffen? *Zie toelichting | 2. Wat is het gehalte aan vaste stoffen? *Zie toelichting | 2. Wat is het gehalte aan vaste stoffen? *Zie toelichting |   | kg/m³ | kg/m³ |
+|   | 2. Wat is het gehalte aan vaste stoffen? | 2. Wat is het gehalte aan vaste stoffen? | 2. Wat is het gehalte aan vaste stoffen? | 2. Wat is het gehalte aan vaste stoffen? | 2. Wat is het gehalte aan vaste stoffen? |   | kg/m³ | kg/m³ |
 |   | 3. Zijn de te verbranden stoffen verpakt? Zo ja, | 3. Zijn de te verbranden stoffen verpakt? Zo ja, | 3. Zijn de te verbranden stoffen verpakt? Zo ja, | 3. Zijn de te verbranden stoffen verpakt? Zo ja, | 3. Zijn de te verbranden stoffen verpakt? Zo ja, |   |   |   |
 | 4.2 | **Chemische samenstelling:** | **Chemische samenstelling:** | **Chemische samenstelling:** | **Chemische samenstelling:** | **Chemische samenstelling:** | **Chemische samenstelling:** |   |   |
-|   | De gehalten van de bestanddelen *Zie toelichting | De gehalten van de bestanddelen *Zie toelichting | De gehalten van de bestanddelen *Zie toelichting | De gehalten van de bestanddelen *Zie toelichting | De gehalten van de bestanddelen *Zie toelichting | De gehalten van de bestanddelen *Zie toelichting |   |   |
+|   | De gehalten van de bestanddelen | De gehalten van de bestanddelen | De gehalten van de bestanddelen | De gehalten van de bestanddelen | De gehalten van de bestanddelen | De gehalten van de bestanddelen |   |   |
 |   | 1. **Bestanddelen:** | 1. **Bestanddelen:** | 1. **Bestanddelen:** |   |   |   |   |   |
-|   |   | n*Zie toelichting | n*Zie toelichting | in gew. % | in gew. % | in gew. % | analyse-methodiek*Zie toelichting | analyse-methodiek*Zie toelichting |
+|   |   | n | n | in gew. % | in gew. % | in gew. % | analyse-methodiek | analyse-methodiek |
 |   |   |   |   | gem. | gem. | max. |   |   |
 |   | 2. **Bestanddelen:** | 2. **Bestanddelen:** | 2. **Bestanddelen:** |   |   |   |   |   |
-|   |   | n*Zie toelichting | n*Zie toelichting | in 10³ kg/m³ | in 10³ kg/m³ | in 10³ kg/m³ | analyse-methodiek*Zie toelichting | analyse-methodiek*Zie toelichting |
+|   |   | n | n | in 10³ kg/m³ | in 10³ kg/m³ | in 10³ kg/m³ | analyse-methodiek | analyse-methodiek |
 |   |   |   |   | gem. | gem. | max. |   |   |
 |   | kwik |   |   |   |   |   |   |   |
 |   | cadmium |   |   |   |   |   |   |   |
@@ -355,26 +403,26 @@ Verzoek om ontheffing van bepalingen in de Wet verontreiniging zeewater betreffe
 |   | vanadium |   |   |   |   |   |   |   |
 |   | beryllium |   |   |   |   |   |   |   |
 |   | eventuele andere bestanddelen |   |   |   |   |   |   |   |
-| 4.3 | De totale **hoeveelheid** stoffen waarop het verzoek om ontheffing betrekking heeft alsmede de voorgenomen frequentie van verbranding *Zie toelichting | gemiddeld maximaal | gemiddeld maximaal |   |   | kg/j kg/j |   |   |
+| 4.3 | De totale **hoeveelheid** stoffen waarop het verzoek om ontheffing betrekking heeft alsmede de voorgenomen frequentie van verbranding | gemiddeld maximaal | gemiddeld maximaal |   |   | kg/j kg/j |   |   |
 |   |   |   |   |   |   |   |   |   |
-| 4.4 | **Eigenschappen** * Zie toelichting | **Eigenschappen** * Zie toelichting | **Eigenschappen** * Zie toelichting |   |   |   |   |   |
+| 4.4 | **Eigenschappen** | **Eigenschappen** | **Eigenschappen** |   |   |   |   |   |
 |   | kleur |   |   |   |   |   |   |   |
 |   | reuk |   |   |   |   |   |   |   |
-|   |   | n*Zie toelichting | n*Zie toelichting | gem. | gem. | max | in | in |
+|   |   | n | n | gem. | gem. | max | in | in |
 |   | volumieke massa |   |   |   |   |   | kg/m³ | kg/m³ |
 | 5 | TRANSPORT, OVERSLAG EN OPSLAG VAN DE STOFFEN: | TRANSPORT, OVERSLAG EN OPSLAG VAN DE STOFFEN: | TRANSPORT, OVERSLAG EN OPSLAG VAN DE STOFFEN: | TRANSPORT, OVERSLAG EN OPSLAG VAN DE STOFFEN: | TRANSPORT, OVERSLAG EN OPSLAG VAN DE STOFFEN: | TRANSPORT, OVERSLAG EN OPSLAG VAN DE STOFFEN: | TRANSPORT, OVERSLAG EN OPSLAG VAN DE STOFFEN: | TRANSPORT, OVERSLAG EN OPSLAG VAN DE STOFFEN: |
 | 5.1 | Op welke wijze worden de stoffen getransporteerd van de plaats van herkomst naar de plaats van waaruit de overslag in het verbrandingsvaartuig plaatsvindt? | Op welke wijze worden de stoffen getransporteerd van de plaats van herkomst naar de plaats van waaruit de overslag in het verbrandingsvaartuig plaatsvindt? | Op welke wijze worden de stoffen getransporteerd van de plaats van herkomst naar de plaats van waaruit de overslag in het verbrandingsvaartuig plaatsvindt? | Op welke wijze worden de stoffen getransporteerd van de plaats van herkomst naar de plaats van waaruit de overslag in het verbrandingsvaartuig plaatsvindt? | Op welke wijze worden de stoffen getransporteerd van de plaats van herkomst naar de plaats van waaruit de overslag in het verbrandingsvaartuig plaatsvindt? | Op welke wijze worden de stoffen getransporteerd van de plaats van herkomst naar de plaats van waaruit de overslag in het verbrandingsvaartuig plaatsvindt? |   |   |
 | 5.2 | Vindt onderweg overslag of opslag plaats? Zo ja, waar? | Vindt onderweg overslag of opslag plaats? Zo ja, waar? | Vindt onderweg overslag of opslag plaats? Zo ja, waar? | Vindt onderweg overslag of opslag plaats? Zo ja, waar? | Vindt onderweg overslag of opslag plaats? Zo ja, waar? | Vindt onderweg overslag of opslag plaats? Zo ja, waar? |   |   |
 | 5.3 | Waar vindt de overslag van de stoffen in het verbrandingsvaartuig plaats? | Waar vindt de overslag van de stoffen in het verbrandingsvaartuig plaats? | Waar vindt de overslag van de stoffen in het verbrandingsvaartuig plaats? | Waar vindt de overslag van de stoffen in het verbrandingsvaartuig plaats? | Waar vindt de overslag van de stoffen in het verbrandingsvaartuig plaats? | Waar vindt de overslag van de stoffen in het verbrandingsvaartuig plaats? |   |   |
 | 5.4 | Worden de stoffen tijdens het transport, de opslag, de overslag of in het verbrandingsvaartuig, vermengd met andere stoffen? Zo ja, geef een indicatie van de aard en herkomst van deze stoffen. | Worden de stoffen tijdens het transport, de opslag, de overslag of in het verbrandingsvaartuig, vermengd met andere stoffen? Zo ja, geef een indicatie van de aard en herkomst van deze stoffen. | Worden de stoffen tijdens het transport, de opslag, de overslag of in het verbrandingsvaartuig, vermengd met andere stoffen? Zo ja, geef een indicatie van de aard en herkomst van deze stoffen. | Worden de stoffen tijdens het transport, de opslag, de overslag of in het verbrandingsvaartuig, vermengd met andere stoffen? Zo ja, geef een indicatie van de aard en herkomst van deze stoffen. | Worden de stoffen tijdens het transport, de opslag, de overslag of in het verbrandingsvaartuig, vermengd met andere stoffen? Zo ja, geef een indicatie van de aard en herkomst van deze stoffen. | Worden de stoffen tijdens het transport, de opslag, de overslag of in het verbrandingsvaartuig, vermengd met andere stoffen? Zo ja, geef een indicatie van de aard en herkomst van deze stoffen. |   |   |
-| 6 | VERBRANDING VAN DE STOFFEN: *Zie toelichting | VERBRANDING VAN DE STOFFEN: *Zie toelichting | VERBRANDING VAN DE STOFFEN: *Zie toelichting | VERBRANDING VAN DE STOFFEN: *Zie toelichting | VERBRANDING VAN DE STOFFEN: *Zie toelichting | VERBRANDING VAN DE STOFFEN: *Zie toelichting |   |   |
+| 6 | VERBRANDING VAN DE STOFFEN: | VERBRANDING VAN DE STOFFEN: | VERBRANDING VAN DE STOFFEN: | VERBRANDING VAN DE STOFFEN: | VERBRANDING VAN DE STOFFEN: | VERBRANDING VAN DE STOFFEN: |   |   |
 | 6.1 | 1. naam verbrandingsvaartuig | 1. naam verbrandingsvaartuig | 1. naam verbrandingsvaartuig | 1. naam verbrandingsvaartuig | 1. naam verbrandingsvaartuig | 1. naam verbrandingsvaartuig |   |   |
 |   | 2. vlaggestaat | 2. vlaggestaat | 2. vlaggestaat | 2. vlaggestaat | 2. vlaggestaat | 2. vlaggestaat |   |   |
 |   | 3. type vaartuig | 3. type vaartuig | 3. type vaartuig | 3. type vaartuig | 3. type vaartuig | 3. type vaartuig |   |   |
 |   | 4. laadvermogen | 4. laadvermogen | 4. laadvermogen | 4. laadvermogen | 4. laadvermogen | 4. laadvermogen | m³ | m³ |
 |   | 5. exploitant | 5. exploitant | 5. exploitant | 5. exploitant | 5. exploitant | 5. exploitant |   |   |
-|   | 6. toelichtende tekening of beschrijving van het vaartuig *Zie toelichting | 6. toelichtende tekening of beschrijving van het vaartuig *Zie toelichting | 6. toelichtende tekening of beschrijving van het vaartuig *Zie toelichting | 6. toelichtende tekening of beschrijving van het vaartuig *Zie toelichting | 6. toelichtende tekening of beschrijving van het vaartuig *Zie toelichting | 6. toelichtende tekening of beschrijving van het vaartuig *Zie toelichting | (beantwoorden in bijlage) | (beantwoorden in bijlage) |
-| 7 | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: *Zie toelichting | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: *Zie toelichting |   |   |
+|   | 6. toelichtende tekening of beschrijving van het vaartuig | 6. toelichtende tekening of beschrijving van het vaartuig | 6. toelichtende tekening of beschrijving van het vaartuig | 6. toelichtende tekening of beschrijving van het vaartuig | 6. toelichtende tekening of beschrijving van het vaartuig | 6. toelichtende tekening of beschrijving van het vaartuig | (beantwoorden in bijlage) | (beantwoorden in bijlage) |
+| 7 | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: | VOORKOMING VAN ONTSTAAN EN VERWERKING/VERWIJDERING: |   |   |
 |   | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen teneinde: | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen teneinde: | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen teneinde: | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen teneinde: | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen teneinde: | Een opgave van de onderzoekingen die zijn of worden verricht en van de maatregelen die zijn of worden getroffen teneinde: |   |   |
 
 De ondergetekende verklaart, dat hij/zij dit formulier en de daarbij behorende bescheiden (te weten bijlage(n)) naar waarheid en zonder voorbehoud heeft ingevuld.
@@ -404,9 +452,23 @@ De ondergetekende verklaart, dat hij/zij dit formulier en de daarbij behorende b
 
 ## Bijlage V
 
-Verzoek tot wijziging van de aan een ontheffing op grond van de Wet verontreiniging zeewater verbonden voorschriften
+RIJKSWATERSTAAT
 
-| 1. | HOUDER VAN DE ONTHEFFING *Zie toelichting | HOUDER VAN DE ONTHEFFING *Zie toelichting |
+Dienst Noordzee
+
+Lange Kleiweg 34
+
+Postbus 5807
+
+2280 HV RIJSWIJK (ZH)
+
+tel. (070) 3366600
+
+fax (070) 3900691
+
+Verzoek tot wijziging van de aan een ontheffing op grond van de [Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975) verbonden voorschriften
+
+| 1. | HOUDER VAN DE ONTHEFFING | HOUDER VAN DE ONTHEFFING |
 | --- | --- | --- |
 | 1. | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon | 1. naam 2. adres 3. woonplaats 4. telefoon 5. telex 6. contactpersoon |
 | 2. | ONTHEFFING | ONTHEFFING |
