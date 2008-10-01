@@ -4,7 +4,7 @@ identifier: "BWBR0017969"
 country: "nl"
 rank: "amvb"
 publication_date: "2008-10-01"
-last_updated: "2008-09-01"
+last_updated: "2008-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017969"
 soort: "AMvB"
@@ -78,6 +78,6 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Het schakelprogramma, bedoeld in het eerste lid, omvat onderwijseenheden op het gebied van het recht die worden aangeboden door een universiteit of de Open Universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), met een totale studielast van ten minste 60 studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4).
 
-3. Voor de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017969&artikel=1&z=2008-10-01&g=2008-09-01) wordt onder afsluitend examen als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0017969&artikel=1&z=2008-10-01&g=2008-09-01) tevens begrepen het schakelprogramma, bedoeld in het eerste en tweede lid.
+3. Voor de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017969&artikel=1&z=2008-10-01&g=2008-10-01) wordt onder afsluitend examen als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0017969&artikel=1&z=2008-10-01&g=2008-10-01) tevens begrepen het schakelprogramma, bedoeld in het eerste en tweede lid.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
