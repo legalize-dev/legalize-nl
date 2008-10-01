@@ -4,7 +4,7 @@ identifier: "BWBV0001543"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-01-01"
-last_updated: "2002-10-01"
+last_updated: "2008-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001543"
 soort: "verdrag"
@@ -68,7 +68,7 @@ Voor de toepassing van dit reglement en de daarop gebaseerde uitvoeringsbesluite
 
 - b. zonder het doel aldaar een economische activiteit uit te voeren,
 
-- 2. bevoegde autoriteit: de door de Vlaamse en Nederlandse ministers die de loodsdiensten in hun bevoegdheid hebben, in onderlinge overeenstemming aangewezen functionaris;
+- 2. bevoegde autoriteit: de Gemeenschappelijke Nautische Autoriteit, genoemd in artikel 5 van het Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake het gemeenschappelijk nautisch beheer in het Scheldegebied;
 
 - 3. loodsgeld: vergoeding voor de diensten van de loods en voor andere kosten van individuele dienstverlening aan de gezagvoerder;
 
@@ -146,13 +146,13 @@ Onverminderd het bepaalde bij of krachtens dit reglement, gelden voor de toelati
 
 ##### Artikel 9
 
-1. De gezagvoerder van een Scheldevaarder is verplicht gebruik te maken van de diensten van een tot de Vlaamse of de Nederlandse loodsdienst behorende loods.
+1. De gezagvoerder van een zeeschip is verplicht gebruik te maken van de diensten van een loods. De gezagvoerder van een Scheldevaarder is verplicht gebruik te maken van een tot de Vlaamse of de Nederlandse loodsdienst behorende loods. De gezagvoerder van een zeeschip dat geen Scheldevaarder is, is verplicht gebruik te maken van de diensten van een tot de Nederlandse loodsdienst behorende loods.
 
 2. Van de in het eerste lid bedoelde verplichting bestaat vrijstelling indien:
 
-- a. het schip behoort tot een der door de Vlaamse en Nederlandse ministers die de loodsdiensten in hun bevoegdheid hebben, in onderlinge overeenstemming aangewezen categorieën Scheldevaarders, of
+- a. het schip behoort tot een der door de Vlaamse en Nederlandse ministers die de loodsdiensten in hun bevoegdheid hebben, in onderlinge overeenstemming aangewezen categorieën zeeschepen, of
 
-- b. de gezagvoerder of een bevoegd officier, die feitelijk de navigatie leidt, voldoet aan de door de Vlaamse en Nederlandse ministers die de loodsdiensten in hun bevoegdheid hebben, in onderlinge overeenstemming voor het traject waarvoor de vrijstelling is aangevraagd, te stellen eisen.
+- b. de gezagvoerder of een bevoegd officier, die feitelijk de navigatie leidt, voldoet aan de door de commissarissen, in onderlinge overeenstemming voor het traject waarvoor de vrijstelling is aangevraagd, te stellen eisen.
 
 3. De commissarissen kunnen regels stellen met betrekking tot de autoriteit of organisatie die is belast met de examinering van de gezagvoerders en officieren, bedoeld in het tweede lid, onderdeel b, de voorwaarden waaronder en de vergoeding waartegen deze examinering plaatsvindt.
 
@@ -194,15 +194,15 @@ Onverminderd het bepaalde bij of krachtens dit reglement, gelden voor de toelati
 
 ##### Artikel 13
 
-1. De gezagvoerder van een Scheldevaarder, die een loods verlangt op een van de kruisposten voor de Scheldemond, moet het verwachte tijdstip van aankomst aldaar tijdig aankondigen, en wordt vervolgens voorzien van een loods, in een volgorde bepaald volgens door de commissarissen vast te stellen regels.
+1. De gezagvoerder van een Scheldevaarder die ingevolge artikel 9 verplicht is gebruik te maken van de diensten van een loods, is verplicht om het verwachte tijdstip van aankomst bij de loodskruispost tijdig aan te kondigen op de door de commissarissen vast te stellen wijze. De gezagvoerder wordt voorzien van een loods in een volgorde bepaald volgens door de commissarissen vast te stellen regels.
 
-2. Onverminderd het bepaalde krachtens het eerste lid, maakt de gezagvoerder bij het naderen van de kruispost zijn verlangen om van een loods te worden voorzien, kenbaar door middel van een der seinen, die in het Internationaal Seinboek als loodsseinen zijn aangegeven.
-
-3. Indien de loods aan boord is voert het schip de in het Internationaal Seinboek voorgeschreven vlag.
+2. De gezagvoerder van een zeeschip dat geen Scheldevaarder is moet het verwachte tijdstip van aankomst bij de loodskruispost melden overeenkomstig de geldende nationale wettelijke voorschriften.
 
 ##### Artikel 14
 
-De gezagvoerder van een Scheldevaarder, die een loods verlangt bij zijn vertrek uit een haven of van een anker- of ligplaats, moet het verwachte tijdstip van vertrek aankondigen op de door de commissarissen vast te stellen wijze.
+1. De gezagvoerder van een Scheldevaarder die ingevolge artikel 9 verplicht is gebruik te maken van de diensten van een loods, is verplicht om het verwachte tijdstip van vertrek uit een haven of van een anker- of ligplaats tijdig aan te kondigen op de door de commissarissen vast te stellen wijze. De gezagvoerder wordt voorzien van een loods in een volgorde bepaald volgens door de commissarissen vast te stellen regels.
+
+2. De gezagvoerder van een zeeschip dat geen Scheldevaarder is moet het verwachte tijdstip van vertrek uit een haven of van een anker- of ligplaats melden overeenkomstig de geldende nationale wettelijke voorschriften.
 
 ##### Artikel 15
 
@@ -216,15 +216,21 @@ De gezagvoerder van een Scheldevaarder, die een loods verlangt bij zijn vertrek 
 
 ##### Artikel 16
 
-De loods heeft bij de uitoefening van zijn diensten de door de commissarissen voorgeschreven middelen voor communicatie en navigatie bij zich en volgt de door de commissarissen gegeven voorschriften voor het gebruik ervan op.
+1. De Vlaamse en Nederlandse loodsdiensten stellen gezamenlijk voorschriften op met betrekking tot:
+
+- a. de door de loodsen bij de uitoefening van hun taak te gebruiken navigatie- en communicatiemiddelen;
+
+- b. de wijze van loodswisseling;
+
+- c. de wijze van beëindiging van de loodsreis;
+
+- d. overige onderwerpen van operationele aard.
+
+2. De voorschriften bedoeld in het eerste lid, zijn uitsluitend gericht tot de loodsen die deel uitmaken van de bevoegde Vlaamse en Nederlandse loodsdiensten. De voorschriften behoeven de goedkeuring van de bevoegde autoriteit.
 
 ##### Artikel 17
 
-1. De loods, die een schip loodst, dient bij het naderen van de plaats waar hij door een andere loods dient te worden vervangen, tijdig op de voorgeschreven wijze daarvan melding te doen, zodat de loods die het loodsen dient over te nemen zich gereed kan maken en het schip geen vertraging ondervindt.
-
-2. De loods die aan boord is dient het overkomen van de loods die hem moet vervangen gemakkelijk te maken.
-
-3. De loodswisseling vindt plaats op de brug van het schip.
+Vervallen
 
 ##### Artikel 18
 
@@ -246,7 +252,7 @@ De loods heeft bij de uitoefening van zijn diensten de door de commissarissen vo
 
 ##### Artikel 19
 
-De loods zal het schip dat hij loodst niet verlaten voordat het de plaats heeft bereikt waar hij geacht wordt het te brengen.
+Vervallen
 
 ##### Artikel 20
 
@@ -288,23 +294,7 @@ De gezagvoerder en de loods zijn verplicht om de voor hen geldende regels met be
 
 ##### Artikel 25
 
-1. De loodsgeldtarieven en loodsvergoedingen worden vastgesteld in Nederlandse munt.
-
-2. De loodsgeldtarieven en loodsvergoedingen in Belgische munt worden verkregen door omrekening van de krachtens artikel 24, eerste lid, vastgestelde loodsgeldtarieven en loodsvergoedingen tegen de wisselkoers van de Nederlandse munt. Deze wisselkoers wordt vastgesteld door het gemiddelde te berekenen van de 15 opeenvolgende officiële noteringen van de Nederlandse munt te Brussel, in de periode voorafgaand aan de omrekening.
-
-3. De aldus verkregen bedragen worden afgerond tot het tiental naar boven, indien het laatste gehele getal 5 of meer bedraagt en tot het tiental naar beneden, indien het laatste gehele getal minder dan 5 bedraagt.
-
-4. Zodra de officiële notering van de wisselkoers van de Nederlandse munt te Brussel meer dan 1,5 % afwijkt van de toegepaste wisselkoers, dient aanpassing van de loodsgeld-tarieven en de loodsvergoedingen in Belgische munt plaats te vinden.
-
-5. Het land dat een aanpassing als bedoeld in het vierde lid noodzakelijk acht, geeft hiervan kennis aan de betrokken minister van het andere land die de loodsdienst in zijn bevoegdheid heeft, met vermelding van de datum met ingang waarvan het 15 opeenvolgende officiële noteringen van de wisselkoers van de Nederlandse munt te Brussel wenst.
-
-6. Door of namens de Vlaamse minister die de loodsdienst in zijn bevoegdheid heeft worden aan de Nederlandse minister die de loodsdienst in zijn bevoegdheid heeft de gevraagde 15 opeenvolgende officiële noteringen van de Nederlandse munt te Brussel meegedeeld. Daarbij wordt een voorstel gedaan inzake de te hanteren representatieve officieel genoteerde wisselkoers van de Nederlandse munt.
-
-7. Na instemming door of namens de betrokken Nederlandse minister worden volgens de aldus overeengekomen nieuwe omrekenkoers de loodsgeldtarieven en de loodsvergoedingen in Belgische munt vastgesteld, met inachtneming van het bepaalde in het tweede lid.
-
-8. De overeenkomstig het bepaalde in het zevende lid vastgestelde loodsgeldtarieven en loodsvergoedingen in Belgische munt worden van kracht met ingang van de eerste dag van de eerste maand volgend op die waarin publikatie daarvan in het Belgisch Staatsblad is geschied.
-
-9. De betrokken Vlaamse minister draagt er zorg voor dat deze publikatie zo spoedig mogelijk na uitvoering van het bepaalde in het zesde lid plaatsvindt.
+De loodsgeldtarieven en loodsvergoedingen worden vastgesteld in Euro.
 
 ##### Artikel 26
 
@@ -352,31 +342,23 @@ In het geval schade wordt veroorzaakt bij de uitoefening van de loodsdienst op g
 
 ##### Artikel 31
 
-1. Het gemeenschappelijk toezicht wordt door de daarmee belaste commissarissen gezamenlijk of afzonderlijk uitgeoefend volgens het bepaalde in dit hoofdstuk, en heeft betrekking op:
+1. Er wordt voorzien in een gemeenschappelijk toezicht op:
 
-- a. alle objecten die dienen voor de bevordering van de veiligheid en vlotte afwikkeling van het scheepvaartverkeer, het behoud van de vaargeulen, het functioneren van die objecten en op de loodsdiensten op de Schelde en haar mondingen;
+- a. alle objecten die dienen voor de bevordering van de veiligheid en vlotte afwikkeling van het scheepvaartverkeer, het behoud van de vaargeulen, en het functioneren van die objecten;
 
-- b. de loodsdiensten op het kanaal van Gent naar Terneuzen.
+- b. de loodsdiensten op de Schelde en haar mondingen en op het Kanaal van Gent naar Terneuzen.
 
-2. De Vlaamse en de Nederlandse regering benoemen ieder twee met het gemeenschappelijk toezicht belaste commissarissen. Benoeming en ontslag vinden plaats op de wijze die de Vlaamse onderscheidenlijk de Nederlandse regering bepaalt.
+2. De Permanente Commissie van Toezicht op de Scheldevaart, bedoeld in het tussen het Koninkrijk der Nederlanden en het Vlaams Gewest op 21 december 2005 gesloten Verdrag inzake het gemeenschappelijk nautisch beheer in het Scheldegebied, is belast met het gemeenschappelijk toezicht, bedoeld in het eerste lid.
+
+3. De commissarissen informeren de loodsdiensten over alle regelingen die zij ingevolge dit reglement vaststellen en over alle besluiten die zij ingevolge dit reglement of de krachtens dit reglement vastgestelde regelingen nemen, voor zover deze besluiten betrekking hebben op de loodsdiensten.
 
 ##### Artikel 32
 
-1. De commissarissen zullen ten minste één maal per drie maanden bijeenkomen, beurtelings in België en in Nederland. Deze bijeenkomsten zullen op in onderling overleg te bepalen dagen worden gehouden.
-
-2. Deze bijeenkomsten hebben onder meer tot doel de algemene inspectie van hetgeen het gemeenschappelijk toezicht als bedoeld in artikel 31 betreft.
-
-3. In deze bijeenkomsten zullen de commissarissen gezamenlijk de maatregelen vaststellen die krachtens dit reglement dan wel andere overeenkomsten tussen beide landen tot hun bevoegdheden behoren.
-
-4. De commissarissen informeren de loodsdiensten over alle regelingen die zij ingevolge dit reglement vaststellen en over alle besluiten die zij ingevolge dit reglement of de krachtens dit reglement vastgestelde regelingen nemen, voor zover deze besluiten betrekking hebben op de loodsdiensten.
+Vervallen
 
 ##### Artikel 33
 
-1. De commissarissen zullen bij hun inspecties in het bijzonder nauwlettend toezien op de noodzaak of, als gevolg van veranderingen in de vaarwateren of de scheepvaart, wijzigingen moeten worden aangebracht in de voorzieningen, inrichtingen en diensten die in beide landen zijn getroffen op grond van de wederzijdse verplichtingen met betrekking tot de vaarwateren van de Schelde en haar mondingen. Mede ten behoeve hiervan zorgen de Vlaamse en de Nederlandse regering dat de vaarwateren van de Schelde en haar mondingen regelmatig worden gepeild, teneinde het verloop daarvan en optredende veranderingen steeds zoveel mogelijk bekend te houden.
-
-2. Van de bijeenkomsten als bedoeld in artikel 32 wordt proces-verbaal opgemaakt. Daarin kunnen voorstellen met betrekking tot de hierboven genoemde wijzigingen worden opgenomen. De zienswijze van de commissarissen wordt desverlangd in het proces-verbaal opgenomen.
-
-3. De commissarissen zullen de resultaten van hun afzonderlijke inspecties aan elkaar toezenden en, indien nodig, bijeenkomen om maatregelen te treffen of voorstellen te doen aan de Vlaamse onderscheidenlijk de Nederlandse regering.
+De commissarissen zullen bij hun inspecties in het bijzonder nauwlettend toezien op de noodzaak of, als gevolg van veranderingen in de vaarwateren of de scheepvaart, wijzigingen moeten worden aangebracht in de voorzieningen, inrichtingen en diensten die in beide landen zijn getroffen op grond van de wederzijdse verplichtingen met betrekking tot de vaarwateren van de Schelde en haar mondingen. Mede ten behoeve hiervan zorgen de Vlaamse en de Nederlandse regering dat de vaarwateren van de Schelde en haar mondingen regelmatig worden gepeild, teneinde het verloop daarvan en optredende veranderingen steeds zoveel mogelijk bekend te houden.
 
 ##### Artikel 34
 
@@ -396,9 +378,35 @@ Het vaartuig waarop de commissarissen zich bevinden voert een onderscheidingstek
 
 ##### Artikel 37
 
-De commissarissen zullen elkaar alle medewerking verlenen om gezamenlijk of afzonderlijk hun taken zo goed mogelijk te kunnen uitvoeren.
+1. De bij en krachtens de artikelen 2, onder a. en b., 4, tweede lid, 5, zesde lid, 9, tweede lid, onder a. en b., derde en vierde lid, 10, derde en vierde lid, 11, 13, eerste lid, 14, eerste lid, 15, derde lid, 16, eerste lid, 18, vierde lid, 21 en 24, eerste lid, vastgestelde voorschriften hebben in Nederland en Vlaanderen geen verbindende kracht dan nadat zij zijn bekendgemaakt in de Nederlandse Staatscourant en het Belgisch Staatsblad. De commissarissen dragen zorg voor de bekendmaking.
 
-Gezien om te worden gevoegd bij het Verdrag,
+2. De voorschriften voorzien in hun inwerkingtreding. Bij gebreke van een voorziening voor hun inwerkingtreding treden de regels in werking op de vijftiende kalenderdag na de datum van verschijning in de Nederlandse Staatscourant, onderscheidenlijk het Belgisch Staatsblad, waarin zij zijn bekendgemaakt. De laatste datum van verschijning is bepalend voor de aanvang van de termijn, bedoeld in de vorige volzin.
+
+TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
+
+GEDAAN te Middelburg, op 11 januari 1995, in drie originele exemplaren,
+
+**Voor de Regering van het Koninkrijk der Nederlanden,**
+
+(w.g.) A. JORRITSMA-LEBBINK
+
+**Voor de Regering van het Koninkrijk België,**
+
+(w.g.) CHR. VERDONCK
+
+**Voor de Vlaamse Regering,**
+
+(w.g.) J. SAUWENS
+
+##### Artikel 22a
+
+De gezagvoerder van een zeeschip dat geen Scheldevaarder is, is gehouden loodsgeld te betalen overeenkomstig de geldende nationale wettelijke voorschriften.
+
+### HOOFDSTUK VI. BIJZONDERE BEPALINGEN
+
+### HOOFDSTUK VII. GEMEENSCHAPPELIJK TOEZICHT
+
+### HOOFDSTUK VIII. VASTSTELLING, BEKENDMAKING EN INWERKINGTREDING VAN VOORSCHRIFTEN
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
