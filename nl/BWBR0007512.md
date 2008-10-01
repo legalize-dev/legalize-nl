@@ -4,7 +4,7 @@ identifier: "BWBR0007512"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-04-01"
-last_updated: "2004-10-29"
+last_updated: "2008-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007512"
 soort: "AMvB"
@@ -58,23 +58,23 @@ Hebben goedgevonden en verstaan:
 
 - c. regionale autoriteit: de voor een regio of gedeelte daarvan door Onze Minister aangewezen bevoegde autoriteit;
 
-- d. register: het Register loodsplicht kleine zeeschepen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=III&artikel=6&z=2004-10-29&g=2004-10-29);
+- d. register: het Register loodsplicht kleine zeeschepen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=III&artikel=6&z=2008-10-01&g=2008-10-01);
 
-- e. lengte: de lengte, zoals bepaald in [artikel 1, onderdeel **n**, van de Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=1) en vermeld in een Internationale Meetbrief (1969) als bedoeld in artikel 1, onderdeel **i**, van die wet;
+- e. lengte over alles: de lengte over alles volgens Lloyd’s Register of Ships;
 
-- f. loodsplicht: de verplichting, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=10), eerste lid, en [11, onderdelen **a** en **b**, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11);
+- f. loodsplicht: de verplichting, bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=10), en [11, eerste lid, onderdelen a en b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11);
 
 - g. zeeschepen met gevaarlijke lading: zeeschepen, gebouwd of geschikt gemaakt en gebezigd voor het vervoer van minerale olie, gas of chemicaliën in bulk, en geheel of gedeeltelijk daarmee geladen, dan wel leeg maar nog niet ontgast of ontdaan van hun gevaarlijke residuen;
 
-- h. Rijnschip: zeeschip dat is voorzien van een certificaat van onderzoek als bedoeld in bijlage B of van een speciaal certificaat als bedoeld in bijlage G van het Reglement onderzoek schepen op de Rijn 1995;
+- h. Rijnschip: zeeschip dat is voorzien van een certificaat van onderzoek als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0007858&bijlage=B) of van een speciaal certificaat als bedoeld in [bijlage G van het Reglement onderzoek schepen op de Rijn 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007858&bijlage=G);
 
 - i. Denemarkenvaarder: zeeschip dat:
 
-- 1°. een lengte heeft van minder dan 80 meter,
+- 1°. een lengte over alles heeft van minder dan 80 meter,
 
 - 2°. een bruto inhoud heeft van minder dan 1600 ton, of een bruto tonnage van minder dan 1600 en een voortstuwingsvermogen van niet meer dan 1125 kW (1500 pk), en
 
-- 3°. een certificaat van deugdelijkheid in de zin van het [Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501) heeft dat slechts geldig is voor:
+- 3°. een internationaal veiligheidscertificaat als bedoeld in [artikel 5, eerste lid, onder b, van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=5) dan wel een nationaal veiligheidscertificaat als bedoeld in [artikel 6, eerste lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6) heeft dat slechts geldig is voor:
 
 - A. de vaart van het Vlie, langs de Nederlandse en Duitse waddeneilanden naar de monden van de Wezer, de Elbe en de Eider, door het Noord-Oostzeekanaal naar de Oostzee tot de lijn Stralsund-Trelleborg, alsmede door de Sont en de Belten naar het Kattegat tot de lijn Grenaa-Kullen, of
 
@@ -82,15 +82,15 @@ Hebben goedgevonden en verstaan:
 
 - j. binnen/buiten-schip: zeeschip dat:
 
-- 1°. een lengte heeft van minder dan 110 meter,
+- 1°. een lengte over alles heeft van minder dan 115 meter,
 
 - 2°. blijkens zijn constructie vergelijkbaar is met een binnenschip, en
 
-- 3°. gebruikt wordt of zal worden gebruikt voor de vaart op de binnenwateren die niet zijn opgenomen in de bijlage bij de Scheepvaartverkeerswet en in een beperkt vaargebied op zee, in het bijzonder de kustwateren;
+- 3°. gebruikt wordt of zal worden gebruikt voor de vaart op de binnenwateren die niet zijn opgenomen in de [bijlage bij de Scheepvaartverkeerswet](onbekend) en in een beperkt vaargebied op zee, in het bijzonder de kustwateren;
 
 - k. lage kruiplijn-coaster: zeeschip dat:
 
-- 1°. een lengte heeft van minder dan 110 meter, en
+- 1°. een lengte over alles heeft van minder dan 115 meter, en
 
 - 2°. een zodanige vorm of constructie heeft dat het geschikt is voor de vaart op niet-loodsplichtige binnenwateren en daarvoor wordt gebruikt of zal worden gebruikt;
 
@@ -104,13 +104,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. De aanwijzing van een scheepvaartweg als bedoeld in [artikel 11, onderdeel **b**, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11) wordt gepubliceerd in de **Staatscourant**.
+1. De aanwijzing van een scheepvaartweg als bedoeld in [artikel 11, eerste lid, onderdeel b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11) wordt gepubliceerd in de **Staatscourant**.
 
 2. De bevoegde autoriteit legt door middel van een aanwijzing loodsplicht op aan de kapitein van een zeeschip:
 
 - a. op een scheepvaartweg als bedoeld in [artikel 10, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=10), indien de kapitein van dat schip van loodsplicht is vrijgesteld, of
 
-- b. op een scheepvaartweg als bedoeld in [artikel 11, onderdeel **b**, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11),
+- b. op een scheepvaartweg als bedoeld in [artikel 11, eerste lid, onderdeel b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11),
 
 uitsluitend indien er naar zijn oordeel sprake is van een situatie waarbij de weersomstandigheden of omstandigheden met betrekking tot het schip, de opvarenden, de lading, de scheepvaart of de scheepvaartweg van dien aard zijn dat het bevaren van die scheepvaartweg zonder gebruik te maken van de diensten van een loods ontoelaatbaar is.
 
@@ -120,65 +120,63 @@ uitsluitend indien er naar zijn oordeel sprake is van een situatie waarbij de we
 
 ##### Artikel 3
 
-1. De bevoegde autoriteit geeft een aanwijzing als bedoeld in [artikel 11, onderdeel **c**, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11) uitsluitend voor zover er naar zijn oordeel sprake is van een situatie waarbij de weersomstandigheden of omstandigheden met betrekking tot het schip, de opvarenden, de lading, de scheepvaart of de scheepvaartweg van dien aard zijn dat het noodzakelijk is, dat op de bij de aanwijzing aangegeven wijze wordt voldaan aan de loodsplicht.
+1. De bevoegde autoriteit geeft een aanwijzing als bedoeld in [artikel 11, eerste lid, onderdeel c, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11) uitsluitend voor zover er naar zijn oordeel sprake is van een situatie waarbij de weersomstandigheden of omstandigheden met betrekking tot het schip, de opvarenden, de lading, de scheepvaart of de scheepvaartweg van dien aard zijn dat het noodzakelijk is, dat op de bij de aanwijzing aangegeven wijze wordt voldaan aan de loodsplicht.
 
 2. Een aanwijzing inhoudende de verplichting tot het gebruikmaken van de diensten van een loods vanaf de wal of vanaf een ander schip, kan uitsluitend worden gegeven voor zover de loods zijn functie niet aan boord van het te loodsen schip kan uitoefenen.
 
-3. Met betrekking tot een aanwijzing als bedoeld in het eerste lid is [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2004-10-29&g=2004-10-29), van overeenkomstige toepassing.
+3. Met betrekking tot een aanwijzing als bedoeld in het eerste lid is [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2008-10-01&g=2008-10-01), van overeenkomstige toepassing.
 
 ### Hoofdstuk III. Vrijstelling van de loodsplicht
 
 ##### Artikel 4
 
-1. Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2004-10-29&g=2004-10-29), zijn de kapiteins van de navolgende categorieën zeeschepen vrijgesteld van de loodsplicht:
+1. Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2008-10-01&g=2008-10-01), zijn de kapiteins van de navolgende categorieën zeeschepen vrijgesteld van de loodsplicht:
 
-- a. zeeschepen, gebouwd of ingericht als vissersvaartuig, tenzij zij tijdens de vaart op een scheepvaartweg voor een ander doel worden gebruikt;
+- a. vaartuigen, gebouwd en ingericht voor het winnen of vervoeren van zand, baggerspecie of grind, tenzij zij tijdens de vaart op een scheepvaartweg voor een ander doel worden gebruikt;
 
-- b. vaartuigen, gebouwd en ingericht voor het winnen of vervoeren van zand, baggerspecie of grind, tenzij zij tijdens de vaart op een scheepvaartweg voor een ander doel worden gebruikt;
+- b. loodsvaartuigen die tijdens de vaart op een scheepvaartweg als zodanig worden gebruikt.
 
-- c. loodsvaartuigen die tijdens de vaart op een scheepvaartweg als zodanig worden gebruikt.
+2. Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2008-10-01&g=2008-10-01), zijn de kapiteins van de navolgende categorieën van zeeschepen op de navolgende scheepvaartwegen vrijgesteld van de loodsplicht:
 
-2. Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2004-10-29&g=2004-10-29), zijn de kapiteins van de navolgende categorieën van zeeschepen op de navolgende scheepvaartwegen vrijgesteld van de loodsplicht:
+- a. zeeschepen met een lengte over alles tot en met 155 meter, of een breedte tot en met 25 meter, of een diepgang tot en met 7 meter, op de in de bijlage bij dit besluit, onder I., aangegeven scheepvaartwegen;
 
-- a. zeeschepen met een lengte tot en met 150 meter, of een breedte tot en met 25 meter, of een diepgang tot en met 7 meter, op de in de bijlage bij dit besluit, onder I., aangegeven scheepvaartwegen;
+- b. zeeschepen gebouwd en ingericht voor het vervoer van voertuigen en deze schepen gerekend vanaf de tanktop tot het bovenste dek, gebouwd en ingericht voor het vervoer van lading, meer dan drie dekken tellen, tenzij zij tijdens de vaart op een scheepvaartweg voor een ander doel worden gebruikt, met een lengte over alles tot en met 125 meter, of een breedte tot en met 20 meter, of een diepgang tot en met 7 meter, op de in de bijlage bij dit besluit, onder I., aangegeven scheepvaartwegen;
 
-- b. zeeschepen gebouwd en ingericht voor het vervoer van voertuigen en deze schepen gerekend vanaf de tanktop tot het bovenste dek, gebouwd en ingericht voor het vervoer van lading, meer dan drie dekken tellen, tenzij zij tijdens de vaart op een scheepvaartweg voor een ander doel worden gebruikt, met een lengte tot en met 120 meter, of een breedte tot en met 20 meter, of een diepgang tot en met 7 meter, op de in de bijlage bij dit besluit, onder I., aangegeven scheepvaartwegen;
+- c. zeeschepen met een lengte over alles tot en met 95 meter, of een breedte tot en met 13 meter, of een diepgang tot en met 7 meter, op de in de bijlage bij dit besluit, onder II., aangegeven scheepvaartwegen;
 
-- c. zeeschepen met een lengte tot en met 90 meter, of een breedte tot en met 13 meter, of een diepgang tot en met 7 meter, op de in de bijlage bij dit besluit, onder II., aangegeven scheepvaartwegen;
+- d. zeeschepen met een lengte over alles tot en met 95 meter, of een breedte tot en met 13 meter, of een diepgang tot en met 6 meter, op de in de bijlage bij dit besluit, onder III., aangegeven scheepvaartwegen;
 
-- d. zeeschepen met een lengte tot en met 90 meter, of een breedte tot en met 13 meter, of een diepgang tot en met 6 meter, op de in de bijlage bij dit besluit, onder III., aangegeven scheepvaartwegen;
+- e. zeeschepen met een lengte over alles tot en met 95 meter, en een diepgang tot en met 7 meter voor zeeschepen met de zeehaven Het Nieuwe Diep te Den Helder als bestemming of vertrekpunt en een diepgang tot en met 5 meter voor zeeschepen met de Koopvaardersbinnenhaven te Den Helder als bestemming of vertrekpunt, op de in de bijlage bij dit besluit, onder IV., aangegeven scheepvaartwegen;
 
-- e. zeeschepen met een lengte tot en met 90 meter, en een diepgang tot en met 7 meter voor zeeschepen met de zeehaven Het Nieuwe Diep te Den Helder als bestemming of vertrekpunt en een diepgang tot en met 5 meter voor zeeschepen met de Koopvaardersbinnenhaven te Den Helder als bestemming of vertrekpunt, op de in de bijlage bij dit besluit, onder IV., aangegeven scheepvaartwegen;
+- f. zeeschepen met een lengte over alles tot en met 65 meter of een diepgang tot en met 4 meter, op de in de bijlage bij dit besluit, onder V., aangegeven scheepvaartwegen;
 
-- f. zeeschepen met een lengte tot en met 60 meter of een diepgang tot en met 4 meter, op de in de bijlage bij dit besluit, onder V., aangegeven scheepvaartwegen;
+- g. zeeschepen met een lengte over alles tot en met 65 meter, of een diepgang tot en met 2,5 meter, op de in de bijlage bij dit besluit, onder VI., VII. en IX., aangegeven scheepvaartwegen;
 
-- g. zeeschepen met een lengte tot en met 60 meter, of een diepgang tot en met 2,5 meter, op de in de bijlage bij dit besluit, onder VI., VII. en IX., aangegeven scheepvaartwegen;
+- h. zeeschepen met een lengte over alles tot en met 75 meter, of een diepgang tot en met 6 meter, op de in de bijlage bij dit besluit, onder VIII., aangegeven scheepvaartwegen;
 
-- h. zeeschepen met een lengte tot en met 70 meter, of een diepgang tot en met 6 meter, op de in de bijlage bij dit besluit, onder VIII., aangegeven scheepvaartwegen;
+- i. zeeschepen met een lengte over alles tot en met 75 meter op de in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, punt II.](onbekend), aangegeven scheepvaartwegen;
 
-- i. zeeschepen met een lengte tot en met 70 meter op de in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, punt II.](onbekend), aangegeven scheepvaartwegen;
+- j. zeeschepen met een lengte over alles tot en met 75 meter op de in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, punt III.](onbekend), aangegeven scheepvaartwegen;
 
-- j. zeeschepen met een lengte tot en met 70 meter op de in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, punt III.](onbekend), aangegeven scheepvaartwegen;
+- k. zeeschepen met een lengte over alles tot en met 80 meter op de in de [bijlage bij de Scheepvaartverkeerswet, punt IV., onder 4 tot en met 7](onbekend), aangegeven scheepvaartwegen;
 
-- k. zeeschepen met een lengte tot en met 75 meter op de in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, punt IV.](onbekend), aangegeven scheepvaartwegen;
+- l. zeeschepen die de in de [bijlage bij de Scheepvaartverkeerswet, punt IV, onder 1.,2. of 3.](onbekend), aangegeven scheepvaartwegen bevaren, indien zij voldoen aan de voorwaarden voor vrijstelling van de loodsplicht krachtens artikel 9, tweede lid, onderdeel a, van het Scheldereglement.
 
-- l. zeeschepen met een lengte tot en met 75 meter en een diepgang tot en met 5,5 meter op de in de bijlage bij dit besluit, onder XIII., aangegeven scheepvaartwegen.
-
-3. Met zeeschepen, bedoeld in het tweede lid, worden gelijkgesteld samenstellen van zeeschepen, tenzij een van de samenstellende delen een grotere lengte, breedte of diepgang heeft dan de lengte, breedte of diepgang, bedoeld in het desbetreffende onderdeel van het tweede lid.
+3. Met zeeschepen, bedoeld in het tweede lid, worden gelijkgesteld samenstellen van zeeschepen, tenzij een van de samenstellende delen een grotere lengte over alles, breedte of diepgang heeft dan de lengte over alles, breedte of diepgang, bedoeld in het desbetreffende onderdeel van het tweede lid.
 
 4. Het tweede lid is niet van toepassing op zeeschepen met gevaarlijke lading.
 
-5. Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2004-10-29&g=2004-10-29), zijn de kapiteins van de navolgende categorieën zeeschepen op de navolgende scheepvaartwegen vrijgesteld van de loodsplicht:
+5. Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2008-10-01&g=2008-10-01), zijn de kapiteins van de navolgende categorieën zeeschepen op de navolgende scheepvaartwegen vrijgesteld van de loodsplicht:
 
-- a. zeeschepen die de gedeelten van de territoriale zee, bedoeld in de [bijlage van de Scheepvaartverkeerswet, onderdeel A, punt I., onder 1.; punt II., onder 1.; punt III., onder 1., en punt IV., onder 1.](onbekend) bevaren, zonder dat dit geschiedt ten behoeve van het aanlopen of verlaten van een binnen Nederland gelegen haven of binnenwater, waartoe dat gedeelte van de territoriale zee toegang geeft;
+- a. zeeschepen die de gedeelten van de territoriale zee, bedoeld in de [bijlage van de Scheepvaartverkeerswet, punt I., onder 1.; punt II., onder 1.; punt III., onder 1., en punt IV., onder 1.](onbekend) bevaren, zonder dat dit geschiedt ten behoeve van het aanlopen of verlaten van een binnen Nederland gelegen haven of binnenwater, waartoe dat gedeelte van de territoriale zee toegang geeft;
 
-- b. zeeschepen die het gedeelte van de territoriale zee, bedoeld in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, punt I., onder 1.; punt II., onder 1.; punt III., onder 1., en punt IV., onder 1.](onbekend), bevaren van of naar de plaats waar het loodsen eindigt of aanvangt.
+- b. zeeschepen die het gedeelte van de territoriale zee, bedoeld in de [bijlage bij de Scheepvaartverkeerswet, punt I., onder 1.; punt II., onder 1.; punt III., onder 1., en punt IV., onder 1.](onbekend), bevaren van of naar de plaats waar het loodsen eindigt of aanvangt.
 
-6. Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2004-10-29&g=2004-10-29), zijn de kapiteins van zeeschepen vrijgesteld van de loodsplicht op een scheepvaartweg, indien de kapitein of stuurman die als verkeersdeelnemer optreedt, in het bezit is van een verklaring van vrijstelling als bedoeld in [artikel 2, eerste lid, van het Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&artikel=2).
+6. Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2008-10-01&g=2008-10-01), zijn de kapiteins van zeeschepen vrijgesteld van de loodsplicht op een scheepvaartweg, indien de kapitein of stuurman die als verkeersdeelnemer optreedt, in het bezit is van een verklaring van vrijstelling als bedoeld in [artikel 2, eerste lid, van het Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&artikel=2) of verleend op grond van artikel 9, tweede lid, onderdeel b, van het Scheldereglement.
 
 ##### Artikel 5
 
-Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2004-10-29&g=2004-10-29), is de kapitein van een Rijnschip, een Denemarkenvaarder of een binnen/buiten-schip, indien het geen zeeschip met gevaarlijke lading betreft, vrijgesteld van de loodsplicht, indien het schip in het register is opgenomen, uitgezonderd op de in de bijlage bij dit besluit onder I., X., XI., XII. en XIII. aangegeven scheepvaartwegen.
+Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2008-10-01&g=2008-10-01), is de kapitein van een Rijnschip, een Denemarkenvaarder of een binnen/buiten-schip, indien het geen zeeschip met gevaarlijke lading betreft, vrijgesteld van de loodsplicht, indien het schip in het register is opgenomen, uitgezonderd op de in de bijlage bij dit besluit onder I., X. en XI. aangegeven scheepvaartwegen.
 
 ##### Artikel 6
 
@@ -188,25 +186,23 @@ Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 3. Opname in het register vindt plaats op aanvraag door of namens de eigenaar of rompbevrachter, ingediend bij een regionale autoriteit, nadat deze regionale autoriteit, na overleg met de desbetreffende regionale loodsencorporatie, heeft vastgesteld dat het desbetreffende schip aan de genoemde vereisten voldoet.
 
-4. De desbetreffende regionale autoriteit geeft ten behoeve van de opname in het register aan de algemene raad van de Nederlandse loodsencorporatie door de naam, het unieke scheepsidentificatienummer, de roepletters, de lengte, en de tonnage, alsmede voor Rijnschepen onderscheidenlijk Denemarkenvaarders het nummer van het certificaat van onderzoek of speciaal certificaat onderscheidenlijk het certificaat van deugdelijkheid van het desbetreffende schip. Deze gegevens worden in het register vermeld.
+4. De desbetreffende regionale autoriteit geeft ten behoeve van de opname in het register aan de algemene raad van de Nederlandse loodsencorporatie door de naam, het unieke scheepsidentificatienummer, de roepletters, de lengte over alles, en de tonnage, alsmede voor Rijnschepen onderscheidenlijk Denemarkenvaarders het nummer van het certificaat van onderzoek of speciaal certificaat onderscheidenlijk het certificaat van deugdelijkheid van het desbetreffende schip. Deze gegevens worden in het register vermeld.
 
-5. Na opname in het register verstrekt de algemene raad van de Nederlandse loodsencorporatie onverwijld kosteloos een uittreksel uit het register aan de door de regionale autoriteit aangegeven aanvrager.
+5. Het register is voor eenieder kosteloos ter inzage. Uittreksels uit het register worden voorts verstrekt tegen het krachtens [artikel 14a, tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=14a) vastgestelde tarief ter dekking van de daarmee verband houdende kosten.
 
-Het register is voor een ieder kosteloos ter inzage. Uittreksels uit het register worden voorts verstrekt tegen een bij ministeriële regeling vast te stellen tarief, ter dekking van de daarmee verband houdende kosten.
-
-6. De eigenaar of rompbevrachter van een in het register opgenomen schip is, indien het schip niet langer voldoet aan de in [artikel 1, onderdelen h, i, onderscheidenlijk j](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=I&artikel=1&z=2004-10-29&g=2004-10-29), genoemde criteria, gehouden daarvan mededeling te doen aan de regionale autoriteit die op de aanvraag tot inschrijving van het schip heeft beslist. Indien de regionale autoriteit op grond van deze informatie, dan wel ambtshalve, constateert dat niet langer wordt voldaan aan de voorwaarden voor de opname van het schip in het register, doet hij daarvan mededeling aan de algemene raad van de Nederlandse loodsencorporatie. Deze draagt zorg voor onmiddellijke doorhaling van de inschrijving van het desbetreffende schip en doet daarvan mededeling aan de belanghebbende.
+6. De eigenaar of rompbevrachter van een in het register opgenomen schip is, indien het schip niet langer voldoet aan de in [artikel 1, onderdelen h, i, onderscheidenlijk j](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=I&artikel=1&z=2008-10-01&g=2008-10-01), genoemde criteria, gehouden daarvan mededeling te doen aan de regionale autoriteit die op de aanvraag tot inschrijving van het schip heeft beslist. Indien de regionale autoriteit op grond van deze informatie, dan wel ambtshalve, constateert dat niet langer wordt voldaan aan de voorwaarden voor de opname van het schip in het register, doet hij daarvan mededeling aan de algemene raad van de Nederlandse loodsencorporatie. Deze draagt zorg voor onmiddellijke doorhaling van de inschrijving van het desbetreffende schip en doet daarvan mededeling aan de belanghebbende.
 
 7. De eigenaar of rompbevrachter doet van andere dan de in het zesde lid bedoelde wijzigingen in de in het register ten aanzien van zijn schip opgenomen gegevens mededeling aan de algemene raad van de Nederlandse loodsencorporatie. Deze draagt zorg voor de aanpassing van de desbetreffende gegevens in het register.
 
 ##### Artikel 7
 
-Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2004-10-29&g=2004-10-29), is de kapitein van een zeeschip vrijgesteld van de loodsplicht:
+Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2008-10-01&g=2008-10-01), is de kapitein van een zeeschip vrijgesteld van de loodsplicht:
 
 - a. indien het schip een verplaatsing maakt langs dezelfde kade, dan wel een soortgelijke korte verplaatsing maakt binnen een scheepvaartweg;
 
-- b. indien het schip een lengte heeft van niet meer dan 90 meter en een verplaatsing maakt binnen een havenbekken in de haven te Delfzijl, dan wel het schip een lengte heeft van niet meer dan 125 meter en een verplaatsing maakt binnen een havenbekken in de Eemshaven, beide havens gelegen binnen de regio Noord, zonder daarbij de hoofdvaarweg binnen het havengebied te bevaren;
+- b. indien het schip een lengte over alles heeft van niet meer dan 95 meter en een verplaatsing maakt binnen een havenbekken in de haven te Delfzijl, dan wel het schip een lengte over alles heeft van niet meer dan 130 meter en een verplaatsing maakt binnen een havenbekken in de Eemshaven, beide havens gelegen binnen de regio Noord, zonder daarbij de hoofdvaarweg binnen het havengebied te bevaren;
 
-- c. indien het schip een lengte heeft van niet meer dan 125 meter en het een verplaatsing maakt binnen een havenbekken, gelegen binnen de regio Amsterdam-IJmond, zonder daarbij de hoofdvaarweg binnen het havengebied te bevaren;
+- c. indien het schip een lengte over alles heeft van niet meer dan 130 meter en het een verplaatsing maakt binnen een havenbekken, gelegen binnen de regio Amsterdam-IJmond, zonder daarbij de hoofdvaarweg binnen het havengebied te bevaren;
 
 - d. indien het schip een verplaatsing maakt binnen een havenbekken, gelegen binnen de regio Rotterdam-Rijnmond, zonder daarbij de hoofdvaarweg binnen het havengebied te bevaren.
 
@@ -224,7 +220,7 @@ een en ander slechts onder de voorwaarde dat het bevaren van de scheepvaartweg o
 
 2. De bevoegde autoriteit kan de kapitein van een zeeschip op diens verzoek ontheffing van de loodsplicht verlenen indien het schip een verplaatsing maakt binnen een havenbekken of een door de bevoegde autoriteit aangewezen havengebied voor zover daardoor naar het redelijk oordeel van de bevoegde autoriteit de veiligheid van het scheepvaartverkeer niet in gevaar komt.
 
-3. Een ontheffing krachtens het eerste of tweede lid wordt gegeven en bevestigd op de wijze, bepaald in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2004-10-29&g=2004-10-29), met dien verstande dat een ontheffing krachtens het tweede lid niet ter kennis gebracht behoeft te worden van de desbetreffende regionale loodsencorporatie.
+3. Een ontheffing krachtens het eerste of tweede lid wordt gegeven en bevestigd op de wijze, bepaald in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2008-10-01&g=2008-10-01), met dien verstande dat een ontheffing krachtens het tweede lid niet ter kennis gebracht behoeft te worden van de desbetreffende regionale loodsencorporatie.
 
 ### Hoofdstuk V. Verplichtingen van de kapitein
 
@@ -234,17 +230,11 @@ De kapitein die verplicht is gebruik te maken van de diensten van een loods, mel
 
 ##### Artikel 10
 
-Indien door onvoorziene omstandigheden [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=9&z=2004-10-29&g=2004-10-29) niet kan worden nagekomen maakt de kapitein van een uit zee komend zeeschip die een loods verlangt, dit bij het naderen van de gebruikelijke beloodsingsplaats op de navolgende wijze kenbaar:
-
-- a. overdag: door middel van het vlaggesein G uit het Internationaal Seinboek;
-
-- b. 's nachts: door middel van lichtseinen het sein G uit het Internationaal Seinboek; en
-
-- c. bij beperkt zicht: door middel van het geluidssein G uit het Internationaal Seinboek.
+Vervallen
 
 ##### Artikel 11
 
-1. Met betrekking tot de beloodsing zijn de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=87) en [162 van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=162) op de kapitein van overeenkomstige toepassing.
+1. Met betrekking tot de beloodsing draagt de kapitein er zorg voor dat wordt voldaan aan Voorschrift V/23 van het op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen.
 
 2. De kapitein treft ook overigens die maatregelen, die noodzakelijk zijn voor een vlot en veilig em- en debarkeren van de loods.
 
@@ -276,7 +266,7 @@ Vervallen
 
 1. De kapitein staat toe dat een loods aan boord van zijn schip wordt vergezeld door een andere persoon ten behoeve van het op peil te brengen of houden van diens specifieke loodskennis voor de betreffende scheepvaartwegen.
 
-2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=14&z=2004-10-29&g=2004-10-29) is van overeenkomstige toepassing ten aanzien van de persoon, bedoeld in het eerste lid, die de loods vergezelt.
+2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=14&z=2008-10-01&g=2008-10-01) is van overeenkomstige toepassing ten aanzien van de persoon, bedoeld in het eerste lid, die de loods vergezelt.
 
 ##### Artikel 18
 
@@ -286,13 +276,13 @@ Bij ministeriële regeling kunnen voorschriften worden gegeven aan kapiteins, ge
 
 ##### Artikel 19
 
-Overtreding van de bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2004-10-29&g=2004-10-29), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=3&z=2004-10-29&g=2004-10-29), [9 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=9&z=2004-10-29&g=2004-10-29), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=15&z=2004-10-29&g=2004-10-29), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=18&z=2004-10-29&g=2004-10-29) en [18a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=18a&z=2004-10-29&g=2004-10-29), gestelde regels is een strafbaar feit.
+Overtreding van de bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2008-10-01&g=2008-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=3&z=2008-10-01&g=2008-10-01), [9 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=9&z=2008-10-01&g=2008-10-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=15&z=2008-10-01&g=2008-10-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=18&z=2008-10-01&g=2008-10-01) en [18a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=18a&z=2008-10-01&g=2008-10-01), gestelde regels is een strafbaar feit.
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
 ##### Artikel 20
 
-Na inwerkingtreding van dit besluit berust de Regeling loodsaanvragen op [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=9&z=2004-10-29&g=2004-10-29) van dit besluit.
+Vervallen
 
 ##### Artikel 21
 
@@ -300,7 +290,7 @@ Vervallen
 
 ##### Artikel 22
 
-Na inwerkingtreding van dit besluit berust de regeling van de minister van Verkeer en Waterstaat van 18 augustus 1988, nr. S/J 31.408/88 (**Stcrt.** 168), houdende regels met betrekking tot de kapiteinsverplichtingen bij het loodsen op afstand, op [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=18&z=2004-10-29&g=2004-10-29) van dit besluit.
+Na inwerkingtreding van dit besluit berust de regeling van de minister van Verkeer en Waterstaat van 18 augustus 1988, nr. S/J 31.408/88 (**Stcrt.** 168), houdende regels met betrekking tot de kapiteinsverplichtingen bij het loodsen op afstand, op [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=V&artikel=18&z=2008-10-01&g=2008-10-01) van dit besluit.
 
 ##### Artikel 23
 
@@ -330,33 +320,33 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8a
 
-1. De bevoegde autoriteit kan, voor zover daardoor naar zijn oordeel de veiligheid van het scheepvaartverkeer niet in gevaar komt, de kapitein van een zeeschip, met uitzondering van een zeeschip met gevaarlijke lading, op een daartoe strekkende aanvraag ontheffing van de loodsplicht verlenen. De ontheffing kan worden verleend voor de vaart op de in de bijlage bij dit besluit, onder I., X., XI., XII. en XIII., genoemde scheepvaartwegen of gedeelten daarvan, indien het een Rijnschip, een Denemarkenvaarder, een binnen/buiten-schip, of een lage kruiplijn-coaster betreft, het desbetreffende schip is opgenomen in het register en degene die het schip als verkeersdeelnemer zal voeren, alsmede de overige bemanningsleden van het schip voldoen aan door de bevoegde autoriteit te stellen eisen met betrekking tot opleidings- en ervaringsniveau en beheersing van de Nederlandse of Engelse taal.
+1. De bevoegde autoriteit kan, voor zover daardoor naar zijn oordeel de veiligheid van het scheepvaartverkeer niet in gevaar komt, de kapitein van een zeeschip, met uitzondering van een zeeschip met gevaarlijke lading, op een daartoe strekkende aanvraag ontheffing van de loodsplicht verlenen. De ontheffing kan worden verleend voor de vaart op de in de bijlage bij dit besluit, onder I., X. en XI., genoemde scheepvaartwegen of gedeelten daarvan, indien het een Rijnschip, een Denemarkenvaarder, een binnen/buiten-schip, of een lage kruiplijn-coaster betreft, het desbetreffende schip is opgenomen in het register en degene die het schip als verkeersdeelnemer zal voeren, alsmede de overige bemanningsleden van het schip voldoen aan door de bevoegde autoriteit te stellen eisen met betrekking tot opleidings- en ervaringsniveau en beheersing van de Nederlandse of Engelse taal.
 
 2. Een besluit als bedoeld in het eerste lid wordt verleend voor de daarbij aan te geven loodsplichtige scheepvaartwegen of gedeelten daarvan.
 
-3. De ontheffing, bedoeld in het eerste lid, wordt bekendgemaakt aan de algemene raad van de Nederlandse loodsencorporatie. De algemene raad draagt zorg voor de inschrijving van het besluit in het register. [Artikel 6, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=III&artikel=6&z=2004-10-29&g=2004-10-29), zijn van overeenkomstige toepassing.
+3. De ontheffing, bedoeld in het eerste lid, wordt bekendgemaakt aan de algemene raad van de Nederlandse loodsencorporatie. De algemene raad draagt zorg voor de inschrijving van het besluit in het register. [Artikel 6, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=III&artikel=6&z=2008-10-01&g=2008-10-01), zijn van overeenkomstige toepassing.
 
-4. De bevoegde autoriteit kan, indien de weersomstandigheden of omstandigheden met betrekking tot het schip, de opvarenden, de lading, de scheepvaart of de scheepvaartweg dit naar zijn oordeel vereisen, aan de ontheffing te verbinden voorschriften of beperkingen geven en bevestigen op de wijze, bepaald in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2004-10-29&g=2004-10-29).
+4. De bevoegde autoriteit kan, indien de weersomstandigheden of omstandigheden met betrekking tot het schip, de opvarenden, de lading, de scheepvaart of de scheepvaartweg dit naar zijn oordeel vereisen, aan de ontheffing te verbinden voorschriften of beperkingen geven en bevestigen op de wijze, bepaald in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2008-10-01&g=2008-10-01).
 
 ##### Artikel 8b
 
 1. De bevoegde autoriteit kan de kapitein van een zeeschip, met uitzondering van een zeeschip met gevaarlijke lading, op een daartoe strekkende aanvraag ontheffing van de loodsplicht verlenen, indien het betreft:
 
-- a. zeeschepen met een lengte tot en met 110 meter, of een diepgang tot en met 7 meter, op de in de bijlage bij dit besluit, onder II., aangegeven scheepvaartwegen;
+- a. zeeschepen met een lengte over alles tot en met 115 meter, of een diepgang tot en met 7 meter, op de in de bijlage bij dit besluit, onder II., aangegeven scheepvaartwegen;
 
-- b. zeeschepen met een lengte tot en met 110 meter, of een diepgang tot en met 6 meter, op de in de bijlage bij dit besluit, onder III., aangegeven scheepvaartwegen;
+- b. zeeschepen met een lengte over alles tot en met 115 meter, of een diepgang tot en met 6 meter, op de in de bijlage bij dit besluit, onder III., aangegeven scheepvaartwegen;
 
-- c. zeeschepen met een lengte tot en met 110 meter, en een diepgang tot en met 7 meter voor zeeschepen met de zeehaven Het Nieuwe Diep te Den Helder als bestemming of vertrekpunt en een diepgang van ten hoogste 5 meter voor zeeschepen met de Koopvaardersbinnenhaven te Den Helder als bestemming of vertrekpunt, op de in de bijlage bij dit besluit, onder IV., aangegeven scheepvaartwegen;
+- c. zeeschepen met een lengte over alles tot en met 115 meter, en een diepgang tot en met 7 meter voor zeeschepen met de zeehaven Het Nieuwe Diep te Den Helder als bestemming of vertrekpunt en een diepgang van ten hoogste 5 meter voor zeeschepen met de Koopvaardersbinnenhaven te Den Helder als bestemming of vertrekpunt, op de in de bijlage bij dit besluit, onder IV., aangegeven scheepvaartwegen;
 
-- d. zeeschepen met een lengte tot en met 90 meter, of een diepgang tot en met 4 meter, op de in de bijlage bij dit besluit, onder V., aangegeven scheepvaartwegen;
+- d. zeeschepen met een lengte over alles tot en met 95 meter, of een diepgang tot en met 4 meter, op de in de bijlage bij dit besluit, onder V., aangegeven scheepvaartwegen;
 
-- e. zeeschepen met een lengte tot en met 90 meter, of een diepgang tot en met 2,5 meter, op de in de bijlage bij dit besluit, onder VI., VII. en IX., aangegeven scheepvaartwegen;
+- e. zeeschepen met een lengte over alles tot en met 95 meter, of een diepgang tot en met 2,5 meter, op de in de bijlage bij dit besluit, onder VI., VII. en IX., aangegeven scheepvaartwegen;
 
-- f. zeeschepen met een lengte tot en met 90 meter, of een diepgang tot en met 6 meter, op de in de bijlage bij dit besluit, onder VIII., aangegeven scheepvaartwegen;
+- f. zeeschepen met een lengte over alles tot en met 95 meter, of een diepgang tot en met 6 meter, op de in de bijlage bij dit besluit, onder VIII., aangegeven scheepvaartwegen;
 
-- g. zeeschepen met een lengte tot en met 90 meter op de in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A., punten II. en III.](onbekend), aangegeven scheepvaartwegen.
+- g. zeeschepen met een lengte over alles tot en met 95 meter op de in de [bijlage bij de Scheepvaartverkeerswet, punten II. en III.](onbekend), aangegeven scheepvaartwegen.
 
-2. De bevoegde autoriteit kan de kapitein van een zeeschip, met uitzondering van een zeeschip met gevaarlijke lading, op een daartoe strekkende aanvraag ontheffing van de loodsplicht verlenen, indien het betreft zeeschepen met een lengte tot en met 90 meter op de in de [bijlage bij de Scheepvaartverkeerswet, onderdeel A, punt IV.](onbekend), aangegeven scheepvaartwegen en zeeschepen met een lengte tot en met 90 meter en een diepgang tot en met 5,5 meter op de in de bijlage bij dit besluit, onder XIII., aangegeven scheepvaartwegen.
+2. De bevoegde autoriteit kan de kapitein van een zeeschip, met uitzondering van een zeeschip met gevaarlijke lading, op een daartoe strekkende aanvraag ontheffing van de loodsplicht verlenen, indien het betreft zeeschepen met een lengte over alles tot en met 95 meter op de in de [bijlage bij de Scheepvaartverkeerswet, punt IV.](onbekend), aangegeven scheepvaartwegen.
 
 3. De ontheffingen, bedoeld in het eerste en tweede lid, kunnen worden verleend indien:
 
@@ -368,21 +358,21 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. De ontheffingen, bedoeld in het eerste en tweede lid, worden verleend voor de daarbij aan te geven loodsplichtige scheepvaartwegen of gedeelten daarvan.
 
-5. De bevoegde autoriteit kan, indien de weersomstandigheden of omstandigheden met betrekking tot het schip, de opvarenden, de lading, de scheepvaart of de scheepvaartweg dit naar zijn oordeel vereisen, aan de ontheffingen te verbinden voorschriften of beperkingen geven en bevestigen op de wijze, bepaald in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2004-10-29&g=2004-10-29).
+5. De bevoegde autoriteit kan, indien de weersomstandigheden of omstandigheden met betrekking tot het schip, de opvarenden, de lading, de scheepvaart of de scheepvaartweg dit naar zijn oordeel vereisen, aan de ontheffingen te verbinden voorschriften of beperkingen geven en bevestigen op de wijze, bepaald in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=II&artikel=2&z=2008-10-01&g=2008-10-01).
 
 ##### Artikel 8c
 
-1. Een aanvraag tot verlening van een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2004-10-29&g=2004-10-29) en [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2004-10-29&g=2004-10-29) wordt ingediend door of namens de eigenaar of rompbevrachter.
+1. Een aanvraag tot verlening van een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2008-10-01&g=2008-10-01) en [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2008-10-01&g=2008-10-01) wordt ingediend door of namens de eigenaar of rompbevrachter.
 
-2. Bij de aanvraag tot verlening van een ontheffing als bedoeld in de [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2004-10-29&g=2004-10-29) en [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2004-10-29&g=2004-10-29) worden de navolgende bescheiden of afschriften daarvan overgelegd:
+2. Bij de aanvraag tot verlening van een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2008-10-01&g=2008-10-01) en [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2008-10-01&g=2008-10-01) worden de navolgende bescheiden of afschriften daarvan overgelegd:
 
 - a. bewijsstukken waaruit blijkt dat degenen die het schip als verkeersdeelnemer zullen voeren de bevoegdheid bezitten om als kapitein op te treden aan boord van het zeeschip;
 
-- b. de op de desbetreffende verkeersdeelnemer betrekking hebbende geldige geneeskundige verklaringen van geschiktheid voor de zeevaart als bedoeld in [artikel 40, tweede lid, van de Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=40), dan wel de door Onze Minister daarmee gelijkgestelde buitenlandse verklaringen;
+- b. een op het desbetreffende bemanningslid betrekking hebbende geldige geneeskundige verklaring zeevaart als bedoeld in [artikel 104, eerste lid, van het Besluit zeevaartbemanning handelsvaart en zeilvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=104), en een verklaring betreffende het gezichtsorgaan en het gehoor als bedoeld in het tweede lid van dat artikel, dan wel door Onze Minister daarmee gelijkgestelde verklaringen;
 
 - c. bewijsstukken waaruit de samenstelling, het opleidings-, ervarings- en taalbeheersingsniveau van de bemanning van het zeeschip blijkt.
 
-2. Bij de aanvraag tot verlening van een ontheffing als bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2004-10-29&g=2004-10-29) worden bovendien de navolgende bescheiden of afschriften daarvan overgelegd:
+3. Bij de aanvraag tot verlening van een ontheffing als bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2008-10-01&g=2008-10-01) worden bovendien de navolgende bescheiden of afschriften daarvan overgelegd:
 
 - a. de meetbrief van het zeeschip waarop de aangevraagde ontheffing betrekking heeft;
 
@@ -390,11 +380,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. bewijsstukken waaruit de manoeuvreereigenschappen van het zeeschip en de specificaties van de daarop aanwezige navigatie- en communicatieapparatuur blijken.
 
-3. De bevoegde autoriteit die niet tevens regionale autoriteit is stelt alvorens op de aanvraag te beslissen de regionale autoriteit in de gelegenheid advies uit te brengen over een aanvraag tot verlening van een ontheffing als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2004-10-29&g=2004-10-29).
+4. De bevoegde autoriteit die niet tevens regionale autoriteit is stelt alvorens op de aanvraag te beslissen de regionale autoriteit in de gelegenheid advies uit te brengen over een aanvraag tot verlening van een ontheffing als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2008-10-01&g=2008-10-01).
 
 ##### Artikel 8d
 
-1. De bevoegde autoriteit kan een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2004-10-29&g=2004-10-29) en [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2004-10-29&g=2004-10-29) geheel of gedeeltelijk wijzigen of intrekken, indien:
+1. De bevoegde autoriteit kan een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2008-10-01&g=2008-10-01) en [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2008-10-01&g=2008-10-01) geheel of gedeeltelijk wijzigen of intrekken, indien:
 
 - a. de kapitein een van de bij dit besluit gestelde verplichtingen, dan wel een aan de ontheffing verbonden voorschrift of beperking niet nakomt;
 
@@ -404,29 +394,29 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - d. de kapitein niet optreedt zoals het een goed verkeersdeelnemer betaamt.
 
-2. Een ontheffing als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2004-10-29&g=2004-10-29) is van rechtswege vervallen, indien de inschrijving van het zeeschip in het register wordt doorgehaald. De algemene raad van de Nederlandse loodsencorporatie doet van het verval mededeling aan de belanghebbende, aan de desbetreffende regionale loodsencorporatie en aan de regionale autoriteit.
+2. Een ontheffing als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2008-10-01&g=2008-10-01) is van rechtswege vervallen, indien de inschrijving van het zeeschip in het register wordt doorgehaald. De algemene raad van de Nederlandse loodsencorporatie doet van het verval mededeling aan de belanghebbende, aan de desbetreffende regionale loodsencorporatie en aan de regionale autoriteit.
 
 ### Hoofdstuk V. Verplichtingen van de kapitein
 
 ##### Artikel 18a
 
-1. De kapitein van een zeeschip aan wie een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2004-10-29&g=2004-10-29) of [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2004-10-29&g=2004-10-29) is verleend controleert voorafgaand aan het bevaren van de scheepvaartweg of het gedeelte daarvan waarop de ontheffing betrekking heeft de goede werking van de voortstuwings- en stuurmachines van het schip en de communicatie- en navigatieapparatuur, en doet van deze controle en het resultaat daarvan melding in het scheepsdagboek.
+1. De kapitein van een zeeschip aan wie een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2008-10-01&g=2008-10-01) of [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2008-10-01&g=2008-10-01) is verleend controleert voorafgaand aan het bevaren van de scheepvaartweg of het gedeelte daarvan waarop de ontheffing betrekking heeft de goede werking van de voortstuwings- en stuurmachines van het schip en de communicatie- en navigatieapparatuur, en doet van deze controle en het resultaat daarvan melding in het scheepsdagboek.
 
-2. De kapitein van een zeeschip aan wie een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2004-10-29&g=2004-10-29) of [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2004-10-29&g=2004-10-29) is verleend meldt zich voor het binnenkomen van de scheepvaartweg waarvoor de ontheffing is afgegeven als zodanig op de door de bevoegde autoriteit aangewezen wijze en verstrekt de door de bevoegde autoriteit verlangde gegevens.
+2. De kapitein van een zeeschip aan wie een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2008-10-01&g=2008-10-01) of [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2008-10-01&g=2008-10-01) is verleend meldt zich voor het binnenkomen van de scheepvaartweg waarvoor de ontheffing is afgegeven als zodanig op de door de bevoegde autoriteit aangewezen wijze en verstrekt de door de bevoegde autoriteit verlangde gegevens.
 
-3. De kapitein van een zeeschip aan wie een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2004-10-29&g=2004-10-29) of [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2004-10-29&g=2004-10-29) is verleend heeft een afschrift van de ontheffing bij zich tijdens de vaart als verkeersdeelnemer over de scheepvaartweg waarvoor deze is afgegeven.
+3. De kapitein van een zeeschip aan wie een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2008-10-01&g=2008-10-01) of [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2008-10-01&g=2008-10-01) is verleend heeft een afschrift van de ontheffing bij zich tijdens de vaart als verkeersdeelnemer over de scheepvaartweg waarvoor deze is afgegeven.
 
-4. De kapitein van een zeeschip aan wie een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2004-10-29&g=2004-10-29) of [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2004-10-29&g=2004-10-29) is verleend doet de bevoegde autoriteit mededeling van elke wijziging die van invloed kan zijn op de geldigheid van de ontheffing.
+4. De kapitein van een zeeschip aan wie een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2008-10-01&g=2008-10-01) of [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2008-10-01&g=2008-10-01) is verleend doet de bevoegde autoriteit mededeling van elke wijziging die van invloed kan zijn op de geldigheid van de ontheffing.
 
-5. De kapitein van een zeeschip aan wie een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2004-10-29&g=2004-10-29) of [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2004-10-29&g=2004-10-29) is verleend doet in geval van een scheepsramp als bedoeld in [artikel 1, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=1), met inbegrip van de daaronder begrepen betekenis voor de toepassing van [hoofdstuk IV van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV), waarbij hij direct of indirect betrokken is, zo spoedig mogelijk een schriftelijke verklaring inzake het gebeurde en zijn navigatiebeleid daarbij toekomen aan de bevoegde autoriteit die voor de scheepvaartweg waar de gebeurtenis heeft plaatsgevonden is aangewezen en verschaft deze desgevraagd nadere informatie. Deze verklaring en de nadere informatie mogen slechts gebruikt worden voor leringsdoeleinden en mogen in geen geval dienen als bewijs tegen de kapitein in geval van vervolging.
+5. De kapitein van een zeeschip aan wie een ontheffing als bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8a&z=2008-10-01&g=2008-10-01) of [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=IV&artikel=8b&z=2008-10-01&g=2008-10-01) is verleend doet in geval van een scheepsramp als bedoeld in [artikel 1, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=1), met inbegrip van de daaronder begrepen betekenis voor de toepassing van [hoofdstuk IV van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&hoofdstuk=IV), waarbij hij direct of indirect betrokken is, zo spoedig mogelijk een schriftelijke verklaring inzake het gebeurde en zijn navigatiebeleid daarbij toekomen aan de bevoegde autoriteit die voor de scheepvaartweg waar de gebeurtenis heeft plaatsgevonden is aangewezen en verschaft deze desgevraagd nadere informatie. Deze verklaring en de nadere informatie mogen slechts gebruikt worden voor leringsdoeleinden en mogen in geen geval dienen als bewijs tegen de kapitein in geval van vervolging.
 
 ### Hoofdstuk VI. Strafbepalingen
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
-## Bijlage. als bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=III&artikel=4&z=2004-10-29&g=2004-10-29), en [5 van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=III&artikel=5&z=2004-10-29&g=2004-10-29).
+## Bijlage. als bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=III&artikel=4&z=2008-10-01&g=2008-10-01), en [5 van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=III&artikel=5&z=2008-10-01&g=2008-10-01).
 
-De scheepvaartwegen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=III&artikel=4&z=2004-10-29&g=2004-10-29), en [5 van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=III&artikel=5&z=2004-10-29&g=2004-10-29) zijn de navolgende:
+De scheepvaartwegen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=III&artikel=4&z=2008-10-01&g=2008-10-01), en [5 van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&hoofdstuk=III&artikel=5&z=2008-10-01&g=2008-10-01) zijn de navolgende:
 
 het gedeelte van de territoriale zee en het daarbij aansluitende gedeelte van de Eemsmonding als bedoeld in het Eems-Dollardverdrag dat ligt binnen het gebied dat begrensd wordt door een lijn die loopt van de Grote Kaap op Rottumeroog, gelegen op 53°32'39" N en 6°34'39" E, naar 53°34'.7 N en 6°21'.9 E, vandaar naar 53°34'.9 N en 6°13'.7 E, vandaar naar 53°37'.1 N en 6°19'.5 E, vandaar naar 53°39'.0 N en 6°27'.1 E, vandaar naar 53°37'.5 N en 6°31'.2 E, vandaar naar de grote lichttoren van Borkum, gelegen op 53°35'22" N en 6°39'48" E, vandaar naar 53°34'.75 N en 6°38'.80 E, vandaar naar 53°32'.55 N en 6°43'.70 E, vandaar naar 53°31.90 N en 6°42'.80 E, vandaar naar 53°34'.20 N en 6°37'.75 E, en vandaar naar de Grote Kaap op Rottumeroog, voor zover dit gedeelte op Nederlands grondgebied ligt, onverminderd artikel 40 van het Eems-Dollardverdrag;
 
@@ -448,10 +438,6 @@ de bevaarbare scheepvaartwegen op de Waddenzee het Inschot, het Scheurrak, de Om
 
 het gedeelte van de territoriale zee dat ligt binnen het gebied dat begrensd wordt door een lijn die loopt van de positie 52° 27'.9 N en 4° 32'.0 E naar 52°27'.8 N en 4°31'.0 E, vandaar naar 52°26'.0 N en 4°27.8 E, vandaar naar 52°26'.9 N en 4°19'.3 E, vandaar naar 52° 31'.9 N en 4°20'.9 E, vandaar naar 52°30'.7 N en 4°31'.2 E, en vandaar naar 52°28'.1 N en 4°32'.6 E;
 
-het gedeelte van de territoriale zee dat ligt binnen het gebied dat begrensd wordt door een lijn die loopt van de positie 51°59'.7 N en 4°2'.9 E, langs de kust naar de positie 51°58'.2 N en 4°0'.5 E, vandaar naar 51°58'.4 N en 3°46'.6 E, vandaar naar 52°4'.9 N en 3°45'.2 E, vandaar naar 52°5'.7 N en 3°51'.0 E, vandaar naar 52°4'.6 N en 3°58'.9 E en vandaar naar 51°59'.7 N en 4°2'.9 E;
-
-het gedeelte van de territoriale zee en de mondingen van de Westerschelde en de Oosterschelde dat ligt binnen het gebied dat begrensd wordt door een lijn die loopt van de positie 51°42'.6 N en 3°41'.6 E, naar 51°39'.1 N en 3°19'.7 E, vandaar naar 51°33'.7 N en 3°10'.0 E, vandaar naar 51°23'.4 N en 2°58'.2 E, vandaar naar 51°22'.3 N en 3°21'.8 E, vandaar langs de kust naar het rode licht van de Gemeentehaven te Breskens, gelegen op 51°24'0" N en 3°34'10" E en vandaar naar het groene licht van de Koopmanshaven te Vlissingen, gelegen op 51°26'22" N en 3°34'45" E;
-
-de scheepvaartweg vanaf de Magneboei, via het Oostgat, de Galgeput, de Sardijngeul, en de rede van Vlissingen tot aan de havens van Vlissingen Oost.
+het gedeelte van de territoriale zee dat ligt binnen het gebied dat begrensd wordt door een lijn die loopt van de positie 51°59'.7 N en 4°2'.9 E, langs de kust naar de positie 51°58'.2 N en 4°0'.5 E, vandaar naar 51°58'.4 N en 3°46'.6 E, vandaar naar 52°4'.9 N en 3°45'.2 E, vandaar naar 52°5'.7 N en 3°51'.0 E, vandaar naar 52°4'.6 N en 3°58'.9 E en vandaar naar 51°59'.7 N en 4°2'.9 E.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
