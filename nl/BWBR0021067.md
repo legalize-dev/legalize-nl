@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2007-04-01"
+last_updated: "2008-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -99,6 +99,24 @@ In deze regeling wordt verstaan onder:
 2. Bij het certificaat, bedoeld in het eerste lid legt de verzoeker de hem door het college van burgemeester en wethouders afgegeven, gewaarmerkte kopie over van de verklaring van de onderwijsinstelling waar de NT2-profieltoets is afgelegd.
 
 3. Van het afleggen van het examen in de kennis van de Nederlandse samenleving, bedoeld in [artikel 3.9, eerste lid, onderdeel c, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) is vrijgesteld de verzoeker die kan aantonen dat hij het onderdeel kennis van de staatsinrichting en maatschappij van de naturalisatietoets, bedoeld in [artikel 2 van de Regeling naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0014809&artikel=2) zoals dit luidde voor de inwerkingtreding van deze regeling heeft behaald.
+
+4. Van het afleggen van het examen in de kennis van de Nederlandse samenleving, bedoeld in [artikel 3.9, eerste lid, onderdeel c, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), is vrijgesteld de verzoeker die een certificaat overlegt als bedoeld in [artikel 13, tweede lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=13), indien uit de vermelding daarop, of anders uit de bijbehorende verklaring van het Regionaal Opleidingencentrum, blijkt dat voor het onderdeel Maatschappij Oriëntatie is behaald het niveau van [artikel 11, eerste lid onderdeel b, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=11). Bij het in dit lid bedoelde certificaat legt de verzoeker tevens de verklaring over van het Regionaal Opleidingencentrum op grond waarvan het certificaat is afgegeven.
+
+5. Van het afleggen van het praktijkdeel als bedoeld in [artikel 3.7 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.7) alsmede van het elektronisch praktijkexamen en de toets gesproken Nederlands, bedoeld in [artikel 3.9, eerste lid, onderdelen a en b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), is vrijgesteld de verzoeker die een certificaat overlegt als bedoeld in [artikel 13, tweede lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=13), indien uit de vermelding daarop, of anders uit de bijbehorende verklaring van het Regionaal Opleidingencentrum, blijkt dat voor het onderdeel Nederlands als tweede taal bij de onderdelen Lezen, Luisteren, Schrijven en Spreken ten minste niveau 2 van de eindtermen Referentiekader Nederlands als Tweede Taal, dan wel ten minste niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen, zijn behaald. Bij het in dit lid bedoelde certificaat legt de verzoeker tevens de verklaring over van het Regionaal Opleidingencentrum op grond waarvan het certificaat is afgegeven.
+
+6. Van het afleggen van het praktijkdeel als bedoeld in [artikel 3.7 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.7) alsmede van het elektronisch praktijkexamen en de toets gesproken Nederlands, bedoeld in [artikel 3.9, eerste lid, onderdelen a en b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), is vrijgesteld de verzoeker die een originele verklaring overlegt van het Regionaal Opleidingencentrum, afgegeven op basis van de resultaten van een toets ter afronding van een NT2-taaltraject, indien uit de verklaring blijkt dat voor het onderdeel Nederlands als tweede taal bij de onderdelen Lezen, Luisteren, Schrijven en Spreken ten minste niveau 2 van de eindtermen Referentiekader Nederlands als Tweede Taal, dan wel ten minste niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen, zijn behaald.
+
+Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens te bevatten:
+
+- a. de naam van het document;
+
+- b. de naam en handtekening van de verantwoordelijke van het regionaal opleidingencentrum;
+
+- c. de echtheidskenmerken van het regionaal opleidingencentrum;
+
+- d. de naam en geboortedatum van de deelnemer aan het NT2-taaltraject die overeenkomen met de naam en geboortedatum zoals vermeld op zijn identiteitsdocument;
+
+- e. de behaalde taalniveaus uitgesplitst naar de vier taalvaardigheden Lezen, Luisteren, Schrijven en Spreken.
 
 #### § 4. Belemmeringen
 
