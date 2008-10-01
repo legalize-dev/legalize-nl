@@ -4,7 +4,7 @@ identifier: "BWBR0024502"
 country: "nl"
 rank: "amvb"
 publication_date: "2008-10-01"
-last_updated: "2008-09-30"
+last_updated: "2008-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024502"
 soort: "AMvB"
@@ -52,16 +52,16 @@ Wijzigt het Reglement rijbewijzen.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit rijonderricht motorrijtuigen.
 
 ##### Artikel III
 
-Ten aanzien van de coderingen 10.02 en 78 die voor 30 september 2008 zijn geregistreerd in het rijbewijzenregister, gelden de bepalingen zoals die golden voor inwerkingtreding van [artikel I, onderdelen A, B, C, D, G, H, I, J, O en P](https://wetten.overheid.nl/jci1.3:c:BWBR0024502&artikel=I&z=2008-09-30&g=2008-09-30).
+Ten aanzien van de coderingen 10.02 en 78 die voor 30 september 2008 zijn geregistreerd in het rijbewijzenregister, gelden de bepalingen zoals die golden voor inwerkingtreding van [artikel I, onderdelen A, B, C, D, G, H, I, J, O en P](https://wetten.overheid.nl/jci1.3:c:BWBR0024502&artikel=I&z=2008-10-01&g=2008-10-01).
 
 ##### Artikel IV
 
-1. De [artikelen I, onderdelen A, B, C, D, G, H, I, J, O en P](https://wetten.overheid.nl/jci1.3:c:BWBR0024502&artikel=I&z=2008-09-30&g=2008-09-30), en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0024502&artikel=III&z=2008-09-30&g=2008-09-30) treden in werking met ingang van 30 september 2008.
+1. De [artikelen I, onderdelen A, B, C, D, G, H, I, J, O en P](https://wetten.overheid.nl/jci1.3:c:BWBR0024502&artikel=I&z=2008-10-01&g=2008-10-01), en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0024502&artikel=III&z=2008-10-01&g=2008-10-01) treden in werking met ingang van 30 september 2008.
 
-2. De [artikelen I, onderdelen E, F, K, L, M en N,](https://wetten.overheid.nl/jci1.3:c:BWBR0024502&artikel=I&z=2008-09-30&g=2008-09-30) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0024502&artikel=II&z=2008-09-30&g=2008-09-30) treden in werking met ingang van 1 oktober 2008.
+2. De [artikelen I, onderdelen E, F, K, L, M en N,](https://wetten.overheid.nl/jci1.3:c:BWBR0024502&artikel=I&z=2008-10-01&g=2008-10-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0024502&artikel=II&z=2008-10-01&g=2008-10-01) treden in werking met ingang van 1 oktober 2008.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
