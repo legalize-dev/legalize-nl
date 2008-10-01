@@ -4,7 +4,7 @@ identifier: "BWBR0016709"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-01"
-last_updated: "2008-07-01"
+last_updated: "2008-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016709"
 soort: "ministeriele-regeling"
@@ -86,13 +86,13 @@ In deze regeling wordt verstaan onder:
 
 1. De aanbieder van openbare telefoondiensten op een vaste locatie die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen verstrekt, onverminderd het bepaalde bij of krachtens [hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11), op verzoek van zijn abonnee een gespecificeerde rekening van de kosten voor het gebruik van de openbare telefoondienst op een vaste locatie.
 
-2. De aanbieder, bedoeld in het eerste lid, kan slechts een redelijke vergoeding voor een gespecificeerde rekening vragen van de abonnee indien deze rekening meer gespecificeerd is dan het in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.3&z=2008-07-01&g=2008-07-01) bepaalde basisniveau van specificatie.
+2. De aanbieder, bedoeld in het eerste lid, kan slechts een redelijke vergoeding voor een gespecificeerde rekening vragen van de abonnee indien deze rekening meer gespecificeerd is dan het in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.3&z=2008-10-01&g=2008-10-01) bepaalde basisniveau van specificatie.
 
 3. Gesprekken die voor de oproepende abonnee kosteloos zijn worden niet op de gespecificeerde rekening van de oproepende abonnee vermeld.
 
 ##### Artikel 2.3
 
-Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.2&z=2008-07-01&g=2008-07-01) bedoelde basisniveau van specificatie van rekeningen voor het gebruik van de openbare telefoondienst op een vaste locatie omvat:
+Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.2&z=2008-10-01&g=2008-10-01) bedoelde basisniveau van specificatie van rekeningen voor het gebruik van de openbare telefoondienst op een vaste locatie omvat:
 
 - a. de periode waarop de rekening betrekking heeft;
 
@@ -204,7 +204,7 @@ Een aanbieder richt de in [artikel 11.9, eerste lid, van de wet](https://wetten.
 
 ##### Artikel 4.5
 
-Onverminderd [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2&z=2008-07-01&g=2008-07-01), draagt een aanbieder er zorg voor dat voor eenieder op genoegzame wijze informatie beschikbaar is met betrekking tot nummeridentificatie, de daarbij geboden mogelijkheden tot weigering en blokkering van deze faciliteit, en de financiële aspecten daarvan.
+Onverminderd [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2&z=2008-10-01&g=2008-10-01), draagt een aanbieder er zorg voor dat voor eenieder op genoegzame wijze informatie beschikbaar is met betrekking tot nummeridentificatie, de daarbij geboden mogelijkheden tot weigering en blokkering van deze faciliteit, en de financiële aspecten daarvan.
 
 #### § 5. Slotbepalingen
 
@@ -266,9 +266,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3.5a
 
-1. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), biedt de consument die een klacht bij hem heeft ingediend, de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening tijdens de behandeling van de klacht.
+1. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-10-01&g=2008-10-01), biedt de consument die een klacht bij hem heeft ingediend, de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening tijdens de behandeling van de klacht.
 
-2. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), biedt de consument de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening, indien de consument een geschil aanhangig maakt bij een op grond van [artikel 12.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.1) erkende geschillencommissie binnen de door die geschillencommissie gehanteerde termijn en de consument zijn aanbieder hiervan op de hoogte stelt.
+2. Een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-10-01&g=2008-10-01), biedt de consument de mogelijkheid tot opschorting van betaling van het betwiste deel van de rekening, indien de consument een geschil aanhangig maakt bij een op grond van [artikel 12.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.1) erkende geschillencommissie binnen de door die geschillencommissie gehanteerde termijn en de consument zijn aanbieder hiervan op de hoogte stelt.
 
 #### § 4. Nummeridentificatie
 
@@ -278,9 +278,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3.2b
 
-1. Een nummergebruiker die een nummer gebruikt uit de reeks 0900, 0906, 0909 of 18 uit het Nummerplan telefoon- en ISDN-diensten waarvan het tarief door een aanbieder van een elektronische communicatiedienst bij de consument in rekening wordt gebracht draagt er zorg voor dat voorafgaand aan een oproep de in [artikel 3.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), bedoelde vermelding plaatsvindt.
+1. Een nummergebruiker die een nummer gebruikt uit de reeks 0900, 0906, 0909 of 18 uit het Nummerplan telefoon- en ISDN-diensten waarvan het tarief door een aanbieder van een elektronische communicatiedienst bij de consument in rekening wordt gebracht draagt er zorg voor dat voorafgaand aan een oproep de in [artikel 3.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-10-01&g=2008-10-01), bedoelde vermelding plaatsvindt.
 
-2. Een nummergebruiker die een nummer met bijzondere toegang gebruikt uit het Nummerplan telefoon- en ISDN-diensten waarvan het tarief door een aanbieder van een elektronische communicatiedienst bij de consument in rekening wordt gebracht, uitgezonderd geografische nummers, nummers uit de reeks 0670 tot en met 0679 en nummers als bedoeld in het eerste lid, draagt er zorg voor dat voorafgaand aan een oproep de in [artikel3.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), bedoelde vermelding plaatsvindt.
+2. Een nummergebruiker die een nummer met bijzondere toegang gebruikt uit het Nummerplan telefoon- en ISDN-diensten waarvan het tarief door een aanbieder van een elektronische communicatiedienst bij de consument in rekening wordt gebracht, uitgezonderd geografische nummers, nummers uit de reeks 0670 tot en met 0679 en nummers als bedoeld in het eerste lid, draagt er zorg voor dat voorafgaand aan een oproep de in [artikel3.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-10-01&g=2008-10-01), bedoelde vermelding plaatsvindt.
 
 3. Het eerste en tweede lid zijn niet van toepassing op oproepen van buiten Nederland.
 
@@ -288,19 +288,31 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3.2c
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een aanbieder van een openbare elektronische communicatiedienst die eindgebruikers toegang verschaft tot een nummer uit de reeks 0900 uit het Nummerplan telefoon- en ISDN-diensten, waarvan het tarief door die aanbieder bij de consument in rekening worden gebracht, en de desbetreffende nummergebruiker stellen het maximale tarief voor een oproep naar dat nummer vast, dat is berekend met inachtneming van het tarief dat ingevolge [artikel 3.2a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-10-01&g=2008-10-01), en [artikel 3.2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-10-01&g=2008-10-01), wordt vermeld.
+
+2. Het eerste lid is uitsluitend van toepassing indien het tarief dat ingevolge [artikel 3.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-10-01&g=2008-10-01), en [artikel 3.2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-10-01&g=2008-10-01), wordt vermeld:
+
+- a. bestaat uit een tarief per tijdseenheid, en
+
+- b. hoger is dan 15 cent per minuut voor een oproep naar het desbetreffende nummer, berekend voor de situatie waarin voor de oproep uitsluitend van een vast netwerk in Nederland gebruik wordt gemaakt.
+
+3. De aanbieder van een openbare elektronische communicatiedienst die eindgebruikers toegang verschaft tot een nummer waarop het eerste lid van toepassing is en de desbetreffende nummergebruiker dragen er zorg voor dat voorafgaand aan de oproep het in het eerste lid bedoelde maximale tarief voor de desbetreffende oproep wordt vermeld.
+
+4. Het eerste, tweede en derde lid zijn niet van toepassing op oproepen van buiten Nederland.
+
+5. De vermeldingen, bedoeld in het derde lid, zijn kosteloos voor de consument en zijn ondubbelzinnig en duidelijk leesbaar of verstaanbaar.
 
 ##### Artikel 3.2d
 
-1. Indien het gebruik van een nummer als bedoeld in [artikel 3.2b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-07-01&g=2008-07-01), wordt aangeprezen in het openbaar, zorgt de nummergebruiker ervoor dat daarbij de in [artikel 3.2a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), bedoelde informatie wordt vermeld.
+1. Indien het gebruik van een nummer als bedoeld in [artikel 3.2b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-10-01&g=2008-10-01), wordt aangeprezen in het openbaar, zorgt de nummergebruiker ervoor dat daarbij de in [artikel 3.2a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-10-01&g=2008-10-01), bedoelde informatie wordt vermeld.
 
-2. Indien het gebruik van een nummer als bedoeld in [artikel 3.2c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01), wordt aangeprezen in het openbaar, zorgt de nummergebruiker ervoor dat daarbij de in [artikel 3.2c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01), bedoelde informatie wordt vermeld.
+2. Indien het gebruik van een nummer als bedoeld in [artikel 3.2c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-10-01&g=2008-10-01), wordt aangeprezen in het openbaar, zorgt de nummergebruiker ervoor dat daarbij de in [artikel 3.2c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-10-01&g=2008-10-01), bedoelde informatie wordt vermeld.
 
 3. De vermeldingen, bedoeld in het eerste en tweede lid, zijn ondubbelzinnig en duidelijk leesbaar of verstaanbaar.
 
 ##### Artikel 3.2e
 
-Indien in een vermelding als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), [artikel 3.2b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-07-01&g=2008-07-01), [artikel 3.2c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01), en [artikel 3.2d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2d&z=2008-07-01&g=2008-07-01), wordt vermeld dat het tarief exclusief een verkeerstarief is, gaat de vermelding vergezeld van:
+Indien in een vermelding als bedoeld in [artikel 3.2a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-10-01&g=2008-10-01), [artikel 3.2b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-10-01&g=2008-10-01), [artikel 3.2c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-10-01&g=2008-10-01), en [artikel 3.2d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2d&z=2008-10-01&g=2008-10-01), wordt vermeld dat het tarief exclusief een verkeerstarief is, gaat de vermelding vergezeld van:
 
 - a. dat verkeerstarief, of
 
@@ -308,9 +320,9 @@ Indien in een vermelding als bedoeld in [artikel 3.2a, eerste, tweede en derde l
 
 ##### Artikel 3.2f
 
-1. Voor zover een aanbieder als bedoeld in [artikel 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01) ten aanzien van een nummer ervoor heeft zorg gedragen dat de vermeldingen, bedoeld in de [artikelen 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01) en [3.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-07-01&g=2008-07-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01), worden gedaan, is de nummergebruiker van dat nummer ontheven van de verplichting zorg te dragen voor de desbetreffende vermeldingen.
+1. Voor zover een aanbieder als bedoeld in [artikel 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-10-01&g=2008-10-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-10-01&g=2008-10-01) ten aanzien van een nummer ervoor heeft zorg gedragen dat de vermeldingen, bedoeld in de [artikelen 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-10-01&g=2008-10-01) en [3.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-10-01&g=2008-10-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-10-01&g=2008-10-01), worden gedaan, is de nummergebruiker van dat nummer ontheven van de verplichting zorg te dragen voor de desbetreffende vermeldingen.
 
-2. Voor zover een nummergebruiker als bedoeld in [artikel 3.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-07-01&g=2008-07-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01) ten aanzien van een nummer ervoor heeft zorg gedragen dat de vermeldingen, bedoeld in de [artikelen 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-07-01&g=2008-07-01) en [3.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-07-01&g=2008-07-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-07-01&g=2008-07-01), worden gedaan, is een aanbieder van de openbare elektronische communicatiedienst die toegang verschaft tot het aangekozen 090x nummer ontheven van de verplichting zorg te dragen voor de desbetreffende vermeldingen.
+2. Voor zover een nummergebruiker als bedoeld in [artikel 3.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-10-01&g=2008-10-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-10-01&g=2008-10-01) ten aanzien van een nummer ervoor heeft zorg gedragen dat de vermeldingen, bedoeld in de [artikelen 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2008-10-01&g=2008-10-01) en [3.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2008-10-01&g=2008-10-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2008-10-01&g=2008-10-01), worden gedaan, is een aanbieder van de openbare elektronische communicatiedienst die toegang verschaft tot het aangekozen 090x nummer ontheven van de verplichting zorg te dragen voor de desbetreffende vermeldingen.
 
 ##### Artikel 3.6
 
