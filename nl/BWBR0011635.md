@@ -4,7 +4,7 @@ identifier: "BWBR0011635"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-10-01"
-last_updated: "2005-09-11"
+last_updated: "2008-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011635"
 soort: "ministeriele-regeling"
@@ -56,9 +56,9 @@ Dit besluit treedt in werking met ingang van 1 oktober 2000.
 
 Dit besluit wordt aangehaald als: Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten.
 
-## Bijlage bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011635&artikel=1&z=2005-09-11&g=2005-09-11) van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten
+## Bijlage bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011635&artikel=1&z=2008-10-01&g=2008-10-01) van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten
 
-Objecten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011635&artikel=1&z=2005-09-11&g=2005-09-11) van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten, zijn:
+Objecten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011635&artikel=1&z=2008-10-01&g=2008-10-01) van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten, zijn:
 
 ##### A.. Vaste objecten
 
@@ -82,7 +82,13 @@ Objecten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011
 
 - 10. het NATO-grondstation te Schoonhoven;
 
-- 11. de vitale onderdelen van de Defensie Pijpleidingen Organisatie.
+- 11. de vitale onderdelen van de Defensie Pijpleidingen Organisatie;
+
+- 12. overige objecten welke gebruikt worden voor:
+
+- a. de opslag van gerubriceerde informatie ten behoeve van een krijgsmacht, of
+
+- b. de opslag of aanwezigheid van voor de bedrijfsvoering van een krijgsmacht vitale infrastructuur of voorzieningen.
 
 ##### B.. Mobiele objecten
 
