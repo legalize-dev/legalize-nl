@@ -4,7 +4,7 @@ identifier: "BWBR0024578"
 country: "nl"
 rank: "kb"
 publication_date: "2008-10-09"
-last_updated: "2008-07-01"
+last_updated: "2008-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024578"
 soort: "KB"
@@ -48,7 +48,7 @@ Aan de leden van de werkgroep bevordering diversiteit in het burgemeestersambt a
 
 ##### Artikel 2
 
-De vaste beloning, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024578&artikel=1&z=2008-10-09&g=2008-07-01) wordt vastgesteld volgens het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De deeltijdfactor wordt vastgesteld op 0,06.
+De vaste beloning, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024578&artikel=1&z=2008-10-09&g=2008-10-09) wordt vastgesteld volgens het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De deeltijdfactor wordt vastgesteld op 0,06.
 
 ##### Artikel 3
 
