@@ -4,7 +4,7 @@ identifier: "BWBR0024571"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-10-09"
-last_updated: "2008-06-13"
+last_updated: "2008-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024571"
 soort: "ministeriele-regeling"
@@ -58,17 +58,17 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Aan EMR wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024571&artikel=2&z=2008-10-09&g=2008-06-13), waaronder begrepen het nemen van beslissingen op bezwaarschriften.
+1. Aan EMR wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024571&artikel=2&z=2008-10-09&g=2008-10-09), waaronder begrepen het nemen van beslissingen op bezwaarschriften.
 
 2. Aan EMR wordt machtiging verleend voor het voeren van verweer in de gevallen waarin beroep is ingesteld tegen een beslissing op bezwaarschrift die EMR heeft genomen.
 
 ##### Artikel 4
 
-In het geval de Minister een mededeling aan EMR doet dat een besluit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024571&artikel=2&z=2008-10-09&g=2008-06-13) niet door EMR zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat en machtiging verleend aan de directeur-generaal van Ondernemen en Innovatie van het Ministerie van Economische Zaken.
+In het geval de Minister een mededeling aan EMR doet dat een besluit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024571&artikel=2&z=2008-10-09&g=2008-10-09) niet door EMR zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat en machtiging verleend aan de directeur-generaal van Ondernemen en Innovatie van het Ministerie van Economische Zaken.
 
 ##### Artikel 5
 
-1. EMR kan voor de in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024571&artikel=2&z=2008-10-09&g=2008-06-13) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0024571&artikel=2&z=2008-10-09&g=2008-06-13) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
+1. EMR kan voor de in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024571&artikel=2&z=2008-10-09&g=2008-10-09) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0024571&artikel=2&z=2008-10-09&g=2008-10-09) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
 2. Het verlenen van ondermandaat alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken.
 
