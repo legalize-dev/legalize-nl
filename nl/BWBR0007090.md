@@ -4,7 +4,7 @@ identifier: "BWBR0007090"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-10-01"
+last_updated: "2008-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007090"
 soort: "ministeriele-regeling"
@@ -101,6 +101,8 @@ In deze regeling wordt verstaan onder:
 - c. een erkend bedrijf, bedoeld in [artikel 46, tweede lid, onderdeel f, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46).
 
 2. De erkenninghouder of diens gemachtigde, bedoeld in [artikel 50, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), verschijnt bij de in het eerste lid, onderdeel a of b, bedoelde instantie.
+
+3. In aanvulling op het eerste en tweede lid kan de aanvraag van een kentekenbewijs als bedoeld in [artikel 4, vijfde lid, onderdeel a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) (exportkentekenbewijs) dan wel een verklaring als bedoeld in de [artikelen 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32), en [33, eerste lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33) (uitvoerverklaring) tevens worden ingediend bij een daartoe door de Minister aangewezen exportdienstverlener.
 
 ##### Artikel 4. Aanwijzing instantie
 
