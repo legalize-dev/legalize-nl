@@ -4,7 +4,7 @@ identifier: "BWBR0020646"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2008-09-01"
+last_updated: "2008-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020646"
 soort: "ministeriele-regeling"
@@ -96,11 +96,19 @@ In deze regeling wordt verstaan onder:
 
 - s. persoonlijk inburgeringsbudget: een budget dat door het college of het bestuur, in het kader van een te sluiten overeenkomst met een inburgeringsbedrijf, ten behoeve van een inburgeraar ter beschikking wordt gesteld en met behulp waarvan de inburgeraar zijn inburgering op een individuele wijze vorm geeft;
 
-- t. staatsexamen: het staatsexamen Nederlands als tweede taal I en II, bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1).
+- t. staatsexamen: het staatsexamen Nederlands als tweede taal I en II, bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1);
+
+- u. duale inburgeringsvoorziening: inburgeringsvoorziening die met het oog op de actieve deelname van de inburgeraar aan de Nederlandse samenleving mede voorziet in activiteiten die in samenhang, en ten minste voor een deel gelijktijdig, met het verwerven van mondelinge en schriftelijke vaardigheden in de Nederlandse taal en kennis van de Nederlandse samenleving worden uitgevoerd;
+
+- v. taalkennisvoorziening: voorziening die is gericht op de verwerving van de kennis van de Nederlandse taal die noodzakelijk is voor het kunnen afronden van een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2).
 
 ##### Artikel 2
 
-1. De Minister kan aan een gemeente of een samenwerkingsverband, onder de in deze regeling genoemde voorwaarden, een financiële bijdrage verlenen teneinde de gemeente of het samenwerkingsverband in staat te stellen inburgeraars deel te laten nemen aan een inburgeringsvoorziening of een gecombineerde inburgeringsvoorziening en deze voorziening te laten afsluiten met het inburgeringsexamen of het staatsexamen.
+1. De Minister kan aan een gemeente of een samenwerkingsverband, onder de in deze regeling genoemde voorwaarden, een financiële bijdrage verlenen teneinde de gemeente of het samenwerkingsverband in staat te stellen inburgeraars deel te laten nemen aan:
+
+- a. een inburgeringsvoorziening of een gecombineerde inburgeringsvoorziening en deze voorziening te laten afsluiten met het inburgeringsexamen of het staatsexamen, dan wel
+
+- b. een taalkennisvoorziening, mits de inburgeraar een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) volgt of gaat volgen.
 
 2. De financiële bijdrage wordt onder voorbehoud van autorisatie van de begrotingswetgever verleend en vastgesteld.
 
@@ -122,21 +130,23 @@ In deze regeling wordt verstaan onder:
 
 1. Het college of het bestuur kan aan een inburgeraar een inburgeringsvoorziening of een gecombineerde inburgeringsvoorziening aanbieden die op de persoonlijke situatie van de inburgeraar is afgestemd. Indien de inburgeraar daarom verzoekt, kan de inburgeringsvoorziening of de inburgeringscomponent van de gecombineerde inburgeringsvoorziening worden aangeboden in de vorm van een persoonlijk inburgeringsbudget.
 
-2. Zowel een inburgeringsvoorziening als een gecombineerde inburgeringsvoorziening bereidt voor op en leidt toe naar het inburgeringsexamen of het staatsexamen en omvat het eenmaal kosteloos afleggen van het desbetreffende examen.
+2. In afwijking van het eerste lid kan het college of bestuur aan een inburgeraar, niet zijnde geestelijke bedienaar, een taalkennisvoorziening aanbieden. Indien de inburgeraar daarom verzoekt, kan de taalkennisvoorziening worden aangeboden in de vorm van een persoonlijk inburgeringsbudget.
 
-3. Het college of het bestuur draagt er zorg voor dat de inburgeringsvoorziening, dan wel de gecombineerde inburgeringsvoorziening, uiterlijk 31 december van het tweede kalenderjaar na het jaar waarin de voorziening is vastgesteld, wordt afgesloten door middel van deelname aan het inburgeringsexamen of het staatsexamen.
+3. Zowel een inburgeringsvoorziening als een gecombineerde inburgeringsvoorziening bereidt voor op en leidt toe naar het inburgeringsexamen of het staatsexamen en omvat het eenmaal kosteloos afleggen van het desbetreffende examen.
 
-4. De inburgeraar is de in [artikel 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=23) bedoelde eigen bijdrage verschuldigd, tenzij hij op last van het college of bestuur, dan wel een andere instantie, genoemd in [artikel 21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=21), een gecombineerde inburgeringsvoorziening dient te volgen.
+4. Het college of het bestuur draagt er zorg voor dat de inburgeringsvoorziening, dan wel de gecombineerde inburgeringsvoorziening, uiterlijk 31 december van het tweede kalenderjaar na het jaar waarin de voorziening is vastgesteld, wordt afgesloten door middel van deelname aan het inburgeringsexamen of het staatsexamen.
+
+5. De inburgeraar is de in [artikel 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=23) bedoelde eigen bijdrage verschuldigd, tenzij hij op last van het college of bestuur, dan wel een andere instantie, genoemd in [artikel 21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=21), een gecombineerde inburgeringsvoorziening dient te volgen.
 
 ##### Artikel 5
 
-1. Tegelijkertijd met het doen van het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2008-01-01&g=2008-09-01), informeert het college of het bestuur de inburgeraar omtrent de hoofdlijnen van de met hem te sluiten overeenkomst terzake van de vaststelling van zijn inburgeringsvoorziening, dan wel gecombineerde inburgeringsvoorziening.
+1. Tegelijkertijd met het doen van het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2008-10-11&g=2008-10-11), informeert het college of het bestuur de inburgeraar omtrent de hoofdlijnen van de met hem te sluiten overeenkomst terzake van de vaststelling van zijn inburgeringsvoorziening, gecombineerde inburgeringsvoorziening dan wel taalkennisvoorziening.
 
-2. Indien de inburgeraar het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2008-01-01&g=2008-09-01), aanvaardt, sluit het college of het bestuur de in het eerste lid bedoelde overeenkomst met de inburgeraar.
+2. Indien de inburgeraar het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2008-10-11&g=2008-10-11), aanvaardt, sluit het college of het bestuur de in het eerste lid bedoelde overeenkomst met de inburgeraar.
 
-3. De overeenkomst bevat ten minste een omschrijving van de inburgeringsvoorziening, dan wel de gecombineerde inburgeringsvoorziening, alsmede een omschrijving van de rechten en verplichtingen van de inburgeraar ten aanzien van:
+3. De overeenkomst bevat ten minste een omschrijving van de inburgeringsvoorziening, de gecombineerde inburgeringsvoorziening dan wel de taalkennisvoorziening, alsmede een omschrijving van de rechten en verplichtingen van de inburgeraar ten aanzien van:
 
-- a. de termijn waarbinnen de inburgeraar moet hebben deelgenomen aan het inburgeringsexamen dan wel het staatsexamen;
+- a. indien van toepassing, de termijn waarbinnen de inburgeraar moet hebben deelgenomen aan het inburgeringsexamen dan wel het staatsexamen;
 
 - b. de verschuldigdheid van de eigen bijdrage en de mogelijkheid van betaling in termijnen;
 
@@ -170,7 +180,7 @@ In deze regeling wordt verstaan onder:
 
 1. De inburgeraar die op 1 januari 2007 deelneemt aan een opleiding educatie als bedoeld in [artikel 7.3.1, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), blijft toegelaten tot deze opleiding.
 
-2. Het college of het bestuur kan de opleidingen educatie, bedoeld in het eerste lid, gedurende het jaar 2007 bekostigen uit de financiële bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=1&artikel=2&z=2008-01-01&g=2008-09-01).
+2. Het college of het bestuur kan de opleidingen educatie, bedoeld in het eerste lid, gedurende het jaar 2007 bekostigen uit de financiële bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=1&artikel=2&z=2008-10-11&g=2008-10-11).
 
 ### Hoofdstuk 3. Verstrekking prestatiegegevens, vaststelling financiële bijdrage
 
@@ -190,9 +200,13 @@ In deze regeling wordt verstaan onder:
 
 - f. het aantal in onderdeel c bedoelde inburgeraars dat uiterlijk respectievelijk 31 december 2009, 31 december 2010 en 31 december 2011 heeft deelgenomen aan het inburgeringsexamen of het staatsexamen;
 
-- g. het aantal in onderdeel c bedoelde inburgeraars dat uiterlijk respectievelijk 31 december 2009, 31 december 2010 en 31 december 2011 heeft deelgenomen aan het aanvullend praktijkdeel, bedoeld in [artikel 3.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.8).
+- g. het aantal in onderdeel c bedoelde inburgeraars dat uiterlijk respectievelijk 31 december 2009, 31 december 2010 en 31 december 2011 heeft deelgenomen aan het aanvullend praktijkdeel, bedoeld in [artikel 3.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.8);
 
-2. Indien het college of het bestuur toepassing geeft aan [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2008-01-01&g=2008-09-01), doet het college of het bestuur tevens een opgave van het daarmee gemoeide bedrag, alsmede het aantal opleidingen educatie, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2008-01-01&g=2008-09-01).
+- h. het aantal inburgeraars met wie in respectievelijk 2008 en 2009 een overeenkomst tot vaststelling van een duale inburgeringsvoorziening is gesloten;
+
+- i. het aantal inburgeraars, niet zijnde geestelijke bedienaar, met wie in respectievelijk 2008 en 2009 een overeenkomst tot vaststelling van een taalkennisvoorziening is gesloten.
+
+2. Indien het college of het bestuur toepassing geeft aan [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2008-10-11&g=2008-10-11), doet het college of het bestuur tevens een opgave van het daarmee gemoeide bedrag, alsmede het aantal opleidingen educatie, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2008-10-11&g=2008-10-11).
 
 3. Het college of het bestuur verstrekt de gegevens en de opgave, bedoeld in het eerste lid, tezamen met de jaarrekening, bedoeld in [artikel 186 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=186), welke betrekking heeft op het jaar 2011. De jaarrekening is voorzien van de accountantsverklaring, bedoeld in [artikel 213, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213).
 
@@ -202,21 +216,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 10
 
-1. De minister stelt de landelijke gemiddelde prijs van een inburgeringscursus vast aan de hand van de door gemeenten met aanbieders overeengekomen inkoopprijzen van inburgeringscursussen.
-
-2. Het college of het bestuur verstrekt de Minister voor 1 juni 2007 een opgave van:
-
-- a. het gemiddelde van alle door de gemeente in de voorafgaande maanden februari, maart en april met aanbieders overeengekomen inkoopprijzen van inburgeringscursussen;
-
-- b. het aantal inburgeraars aan wie de gemeente de in onderdeel a bedoelde inburgeringscursussen zal aanbieden.
-
-3. De Minister stelt een model vast voor de verstrekking van de opgave, bedoeld in het tweede lid.
-
-4. Indien de Minister daarom verzoekt, is de opgave, bedoeld in het tweede lid, voorzien van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Ten behoeve van de verklaring omtrent de getrouwheid stelt de Minister een controleprotocol vast. Aan de Minister wordt op diens verzoek inzicht gegeven in de gegevens die bij de controle op enigerlei wijze een rol spelen en in de controlerapporten van de accountant.
+Vervallen
 
 ##### Artikel 11
 
-1. De Minister stelt de financiële bijdrage vast aan de hand van de formule A – Q = [ ( B × C ) + ( D × E ) + ( F × G ) + ( H × I ) + ( J × K ) + ( L × M ) + ( N × O ) ] × P waarin wordt voorgesteld:
+1. De Minister stelt de financiële bijdrage vast aan de hand van de formule A – Q = [ ( B × C ) + ( D × E ) + ( F × G ) + ( H × I ) + ( J × K ) + ( L × M ) + ( N × O ) + ( R × S ) + ( T × U )] × P waarin wordt voorgesteld:
 
 - –. met de letter A: de financiële bijdrage;
 
@@ -250,7 +254,15 @@ In deze regeling wordt verstaan onder:
 
 - –. met de letter P: de door de Minister vast te stellen correctiefactor;
 
-- –. met de letter Q: het bedrag, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=3&artikel=9&z=2008-01-01&g=2008-09-01).
+- –. met de letter Q: het bedrag, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=3&artikel=9&z=2008-10-11&g=2008-10-11);
+
+- –. met de letter R: het aantal inburgeraars met wie in respectievelijk 2008 en 2009 een overeenkomst tot vaststelling van een duale inburgeringsvoorziening is gesloten;
+
+- –. met de letter S: de bijdragevergoeding ten aanzien van de vaststelling van een duale inburgeringsvoorziening, bedoeld in letter R;
+
+- –. met de letter T: het aantal inburgeraars, niet zijnde geestelijke bedienaar, met wie in respectievelijk 2008 en 2009 een overeenkomst tot vaststelling van een taalkennisvoorziening is gesloten;
+
+- –. met de letter U: de bijdragevergoeding ten aanzien van de vaststelling van een taalkennisvoorziening, bedoeld in letter T.
 
 2. De Minister stelt de financiële bijdrage uiterlijk 1 oktober 2012 vast.
 
@@ -272,7 +284,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4a
 
-1. Indien een inburgeraar in aanmerking wordt gebracht voor een inburgeringsvoorziening of een gecombineerde inburgeringsvoorziening doet het college of het bestuur de inburgeraar terzake een aanbod.
+1. Indien een inburgeraar in aanmerking wordt gebracht voor een inburgeringsvoorziening, een gecombineerde inburgeringsvoorziening dan wel een taalkennisvoorziening doet het college of het bestuur de inburgeraar terzake een aanbod.
 
 2. Indien het aanbod, bedoeld in het eerste lid, geheel of gedeeltelijk bestaat uit een persoonlijk inburgeringsbudget begeleidt het college of het bestuur de inburgeraar op diens verzoek bij de vormgeving van zijn inburgeringsprogramma en de keuze van een inburgeringsbedrijf. Het college of het bestuur beoordeelt het voorstel van de inburgeraar en sluit vervolgens een overeenkomst met het inburgeringsbedrijf.
 
