@@ -4,7 +4,7 @@ identifier: "BWBR0013337"
 country: "nl"
 rank: "amvb"
 publication_date: "2008-10-15"
-last_updated: "2003-03-29"
+last_updated: "2008-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013337"
 soort: "AMvB"
@@ -48,18 +48,42 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De materialen waaruit de bijzondere munten met de hoedanigheid van wettig betaalmiddel worden vervaardigd, de gewichten en afmetingen, worden als volgt vastgesteld:
+1. De materialen, de gewichten en de afmetingen van de bijzondere munten met de hoedanigheid van wettig betaalmiddel die zijn uitgegeven van 2002 tot en met 2007, zijn als volgt vastgesteld:
 
 | Muntsoort | Metaal | Gehalte |   | Gewicht |   | Middellijn |   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |   |   | nominaal | tolerantie | nominaal | tolerantie | nominaal | tolerantie |
-|   |   |   | + of – |   | + of – |   | + of – |
-|   |   | % | %-punt | gram | % |   | millimeter |
-| vijftig-euromunt | goud | Au 90,0 | 0,5 | 13,44 | 0,7 | 27 | 0,10 |
-| twintig-euromunt | goud | Au 90,0 | 0,5 | 8,5 | 0,7 | 25 | 0,10 |
-| tien-euromunt | zilver | Ag 92,5 | 0,5 | 17,8 | 0,7 | 33 | 0,10 |
-|   | goud | Au 90,0 | 0,5 | 6,72 | 0,7 | 22,5 | 0,10 |
-| vijf-euromunt | zilver | Ag 92,5 | 0,5 | 11,9 | 0,7 | 29 | 0,10 |
+|   |   |   | + of - |   | + of - |   | + of - |
+|   |   | % | %-punt | gram | % | millimeter | millimeter |
+| vijftig-euromunt | goud | Au 90,0 | 0,50 | 13,44 | 0,70 | 27,00 | 0,10 |
+| twintig-euromunt | goud | Au 90,0 | 0,50 | 8,50 | 0,70 | 25,00 | 0,10 |
+| tien-euromunt | goud | Au 90,0 | 0,50 | 6,72 | 0,70 | 22,50 | 0,10 |
+|   | zilver | Ag 92,5 | 0,50 | 17,80 | 0,70 | 33,00 | 0,10 |
+| vijf-euromunt | zilver | Ag 92,5 | 0,50 | 11,90 | 0,70 | 29,00 | 0,10 |
+
+2. De materialen, de gewichten en de afmetingen van de bijzondere munten met de hoedanigheid van wettig betaalmiddel die worden uitgegeven met ingang van 2008, worden als volgt vastgesteld:
+
+| Muntsoort | Metaal | Gehalte |   |   | Gewicht |   | Middellijn |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   | nominaal | tolerantie | laagdikte | nominaal | tolerantie | nominaal | tolerantie |
+|   |   |   | + of - |   |   | + of - |   | + of - |
+|   |   | % | %-punt |   | gram | % | millimeter | millimeter |
+|   | Goud: |   |   |   |   |   |   |   |
+| vijftig-euromunt |   | Au 90,0 | 0,5 | n.v.t. | 13,44 | 0,7 | 27,00 | 0,10 |
+| twintig-euromunt |   | Au 90,0 | 0,5 | n.v.t. | 8,50 | 0,7 | 25,00 | 0,10 |
+| tien-euromunt |   | Au 90,0 | 0,5 | n.v.t. | 6,72 | 0,7 | 22,50 | 0,10 |
+|   |   |   |   |   |   |   |   |   |
+|   | Zilver: |   |   |   |   |   |   |   |
+| tien-euromunt |   | Ag 92,5 | 0,5 | n.v.t. | 25,00 | 0,7 | 38,00 | 0,10 |
+| vijf-euromunt |   | Ag 92,5 | 0,5 | n.v.t. | 15,50 | 0,7 | 33,00 | 0,10 |
+|   |   |   |   |   |   |   |   |   |
+|   | Verzilverd koper: |   |   |   |   |   |   |   |
+| tien-euromunt |   | Cu 99,9/ |   |   |   |   |   |   |
+|   |   | Ag 99,9 | n.v.t. | 9–11 micron |   |   |   |   |
+|   |   | samengesteld |   |   | 15,50 | 1,9 | 33,00 | 0,10 |
+| vijf-euromunt |   | Cu 99,9/ |   |   |   |   |   |   |
+|   |   | Ag 99,9 | n.v.t. | 9–11 micron |   |   |   |   |
+|   |   | samengesteld |   |   | 10,50 | 1,9 | 29,00 | 0,10 |
 
 ##### Artikel 2
 
