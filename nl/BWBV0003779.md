@@ -4,7 +4,7 @@ identifier: "BWBV0003779"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-12-03"
-last_updated: "2003-11-24"
+last_updated: "2008-10-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003779"
 soort: "verdrag"
@@ -140,7 +140,7 @@ De grondgebieden van twee Overeenkomstsluitende Partijen waarop zich de ondersch
 
 4. Deze wijziging zal zijn aanvaard indien gedurende een tijdvak van zes maanden na de datum van kennisgeving minder dan één derde van de bevoegde beleidsinstanties van de Overeenkomstsluitende Partijen de Secretaris-Generaal in kennis stelt van hun bezwaar tegen de wijziging.
 
-5. Elke aanvaarde wijziging wordt door de Secretaris-Generaal ter kennis gebracht van alle Overeenkomstsluitende Partijen en treedt drie maanden na de datum van kennisgeving in werking.
+5. Elke aanvaarde wijziging wordt door de Secretaris-Generaal ter kennis gebracht van alle Overeenkomstsluitende Partijen en treedt drie maanden na de datum van kennisgeving in werking voor alle Overeenkomstsluitende Partijen behalve voor degene die, gedurende het tijdvak van zes maanden bedoeld in artikel 9, vierde lid, een verklaring afleggen dat zij de gehele of een deel van de wijziging niet aanvaarden.
 
 ### Kennisgeving van het adres van de beleidsinstantie waaraan de voorstellen tot wijziging van de Bijlagen bij deze Overeenkomst dienen te worden medegedeeld
 
