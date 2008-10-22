@@ -4,7 +4,7 @@ identifier: "BWBR0016944"
 country: "nl"
 rank: "wet"
 publication_date: "2020-04-01"
-last_updated: "2006-08-01"
+last_updated: "2008-10-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016944"
 soort: "wet"
@@ -118,9 +118,9 @@ Een gedane melding onder overlegging van een plan van aanpak als bedoeld in [art
 
 Ten aanzien van onder de [Interimwet zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0011469) afgegeven geschiktheidsverklaringen en bekwaamheidsonderzoeken blijft [artikel 11, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011469&artikel=11) van toepassing.
 
-##### Artikel XVI. Overgangsrecht ho-instellingen erkenning t.b.v. geschiktheidsonderzoek
+##### Artikel XVI. Omzetting bevoegdheid geschiktheidsonderzoek zij-instroom
 
-Instellingen voor hoger onderwijs die op grond van de [Interimwet zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0011469) bevoegd zijn tot het verrichten van het in die wet bedoelde geschiktheidsonderzoek, behouden die bevoegdheid tot een jaar na het tijdstip van inwerkingtreding van de algemene maatregel van bestuur, bedoeld in het eerste lid van de [artikelen 176e van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176e), [162h van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162h) en [118n van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118n).
+Instellingen voor hoger onderwijs die bij inwerkingtreding van dit artikel bevoegd zijn tot het verrichten van het geschiktheidsonderzoek als bedoeld in de [Interimwet zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0011469) worden aangemerkt als instellingen met een erkenning als bedoeld in [artikel 176e van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176e), [162h van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162h) of [118n van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118n).
 
 ##### Artikel XVII. Titulatuur zij-instromers Interimwet zij-instroom leraren primair en voortgezet onderwijs
 
