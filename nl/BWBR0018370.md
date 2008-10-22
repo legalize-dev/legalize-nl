@@ -4,7 +4,7 @@ identifier: "BWBR0018370"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "2005-08-31"
+last_updated: "2008-10-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018370"
 soort: "AMvB"
@@ -70,11 +70,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder
 
 ##### Artikel 2
 
-1. Het is verboden te handelen in strijd met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3&z=2005-08-31&g=2005-08-31), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=5&z=2005-08-31&g=2005-08-31).
+1. Het is verboden te handelen in strijd met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3&z=2008-10-22&g=2008-10-22), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=5&z=2008-10-22&g=2008-10-22).
 
-2. Het is verboden te handelen in strijd met de krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4&z=2005-08-31&g=2005-08-31), gestelde regels.
+2. Het is verboden te handelen in strijd met de krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4&z=2008-10-22&g=2008-10-22), gestelde regels.
 
-3. Het is verboden te handelen in strijd met artikel 3, eerste en tweede lid, artikel 4, tweede tot en met zesde lid, artikel 15, eerste, derde, vierde, zevende, achtste en negende lid en artikel 17 van [verordening (EG) 1935/2004](32004R1935).
+3. Het is verboden te handelen in strijd met de bij artikel 3, eerste en tweede lid, artikel 4, tweede tot en met zesde lid, artikel 15, eerste, derde, vierde, zevende, achtste en negende lid, artikel 17 en de krachtens artikel 5, eerste lid, van verordening (EG) 1935/2004 gestelde voorschriften.
 
 ##### Artikel 3
 
@@ -88,7 +88,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder
 
 2. Stoffen, afkomstig van materialen, bedoeld in het eerste lid, onder a, worden niet gerekend tot
 
-- –. de in eet- of drinkwaren aanwezige stoffen voor zover deze aan die waren zijn afgegeven door een verpakking bedoeld in [artikel 1, onder a, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=1&z=2005-08-31&g=2005-08-31) of een gebruiksartikel, bedoeld in [artikel 1, onder b, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=1&z=2005-08-31&g=2005-08-31),
+- –. de in eet- of drinkwaren aanwezige stoffen voor zover deze aan die waren zijn afgegeven door een verpakking bedoeld in [artikel 1, onder a, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=1&z=2008-10-22&g=2008-10-22) of een gebruiksartikel, bedoeld in [artikel 1, onder b, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=1&z=2008-10-22&g=2008-10-22),
 
 - –. de in de waren, bedoeld onder 1° en 15° van het [Besluit van 26 maart 1921](https://wetten.overheid.nl/jci1.3:c:BWBR0001904) (Stb. 638), aanwezige stoffen, voor zover deze aan die waren zijn afgegeven door de artikelen gebruikt voor het verpakken daarvan.
 
@@ -130,7 +130,7 @@ Dit besluit is niet van toepassing op
 
 ##### Artikel 8
 
-Na de inwerkingtreding van dit besluit, berust de [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003276) op [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3&z=2005-08-31&g=2005-08-31) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4&z=2005-08-31&g=2005-08-31) van dit besluit.
+Na de inwerkingtreding van dit besluit, berust de [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003276) op [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3&z=2008-10-22&g=2008-10-22) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4&z=2008-10-22&g=2008-10-22) van dit besluit.
 
 ##### Artikel 9
 
