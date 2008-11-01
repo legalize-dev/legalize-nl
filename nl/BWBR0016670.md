@@ -4,7 +4,7 @@ identifier: "BWBR0016670"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-11-01"
-last_updated: "2004-05-01"
+last_updated: "2008-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016670"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder centrale commissie: de centrale commissie,
 
 ##### Artikel 2
 
-De vergoeding van de voorzitter van de centrale commissie wordt vastgesteld volgens het maximum salarisnummer, behorend bij schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), rekening houdend met een arbeidsduur van gemiddeld 20 uren per week.
+De vergoeding van de voorzitter van de centrale commissie wordt vastgesteld volgens het maximum salarisnummer, behorend bij schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), rekening houdend met een arbeidsduur van gemiddeld 24 uren per week.
 
 ##### Artikel 3
 
@@ -63,5 +63,11 @@ De voorzitter, de leden en de plaatsvervangende leden van de centrale commissie 
 ##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2004.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7
+
+Deze regeling wordt aangehaald als: Vergoedingenregeling centrale commissie medisch-wetenschappelijk onderzoek.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
