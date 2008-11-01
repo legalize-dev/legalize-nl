@@ -4,7 +4,7 @@ identifier: "BWBR0006736"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-08-13"
+last_updated: "2008-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006736"
 soort: "ministeriele-regeling"
@@ -73,7 +73,7 @@ Besluit:
 
 ##### Artikel 4
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=2&z=2009-01-01&g=2008-08-13) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=3&z=2009-01-01&g=2008-08-13) omschreven verplichtingen gelden mede voor de in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=43) en [44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=44) bedoelde personen.
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=2&z=2008-08-01&g=2008-11-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=3&z=2008-08-01&g=2008-11-01) omschreven verplichtingen gelden mede voor de in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=43) en [44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=44) bedoelde personen.
 
 ### Hoofdstuk 3. Uitnodiging tot het doen van aangifte
 
@@ -149,7 +149,7 @@ Vervallen
 
 ##### Artikel 20
 
-1. Aangifte wordt gedaan door het op de in de aangiftebrief, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=3&artikel=4a&z=2009-01-01&g=2008-08-13), aangegeven wijze, inleveren of toezenden van de gevraagde gegevens of bescheiden.
+1. Aangifte wordt gedaan door het op de in de aangiftebrief, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=3&artikel=4a&z=2008-08-01&g=2008-11-01), aangegeven wijze, inleveren of toezenden van de gevraagde gegevens of bescheiden.
 
 2. Aangifte door een administratieplichtige als bedoeld in [artikel 52, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52) wordt langs elektronische weg gedaan indien het betreft:
 
@@ -173,7 +173,7 @@ Vervallen
 
 - b. de belastingplichtige het stuk dat deze gegevens bevat duidelijk, stellig en zonder voorbehoud opstelt en ondertekent.
 
-2. De belastingplichtige is niet gehouden tot de verplichting, bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=2&z=2009-01-01&g=2008-08-13), indien hij binnen de aldaar gestelde termijnen heeft voldaan aan de in het eerste lid, onderdelen a en b, gestelde voorwaarden.
+2. De belastingplichtige is niet gehouden tot de verplichting, bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=2&artikel=2&z=2008-08-01&g=2008-11-01), indien hij binnen de aldaar gestelde termijnen heeft voldaan aan de in het eerste lid, onderdelen a en b, gestelde voorwaarden.
 
 ##### Artikel 21a
 
@@ -239,7 +239,7 @@ Indien een voorlopige teruggaaf inkomstenbelasting is of zal worden vastgesteld 
 
 ##### Artikel 39
 
-1. De vrijstelling van overdrachtsbelasting, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2009-01-01&g=2008-08-13), wordt verleend voor de belasting die is verschuldigd ter zake van de verkrijging door een vreemde Mogendheid van in Nederland gelegen onroerende zaken die bestemd zijn voor de huisvesting van een diplomatieke of consulaire vertegenwoordiging of die bestemd zijn voor bewoning door het hoofd van een diplomatieke of consulaire vertegenwoordiging, met uitzondering van honoraire consuls. De vrijstelling van overdrachtsbelasting wordt, onder voorwaarde van wederkerigheid, mede verleend voor de belasting die is verschuldigd ter zake van de verkrijging door een vreemde Mogendheid van in Nederland gelegen onroerende zaken die bestemd zijn voor bewoning door andere leden van een diplomatieke of consulaire vertegenwoordiging. Verkrijging wordt opgevat in de zin van de Wet op belastingen van rechtsverkeer.
+1. De vrijstelling van overdrachtsbelasting, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-08-01&g=2008-11-01), wordt verleend voor de belasting die is verschuldigd ter zake van de verkrijging door een vreemde Mogendheid van in Nederland gelegen onroerende zaken die bestemd zijn voor de huisvesting van een diplomatieke of consulaire vertegenwoordiging of die bestemd zijn voor bewoning door het hoofd van een diplomatieke of consulaire vertegenwoordiging, met uitzondering van honoraire consuls. De vrijstelling van overdrachtsbelasting wordt, onder voorwaarde van wederkerigheid, mede verleend voor de belasting die is verschuldigd ter zake van de verkrijging door een vreemde Mogendheid van in Nederland gelegen onroerende zaken die bestemd zijn voor bewoning door andere leden van een diplomatieke of consulaire vertegenwoordiging. Verkrijging wordt opgevat in de zin van de Wet op belastingen van rechtsverkeer.
 
 2. De vrijstelling wordt verleend in de vorm van teruggaaf van belasting, tenzij Onze Minister vooraf een vergunning heeft afgegeven om geen belasting te voldoen.
 
@@ -265,9 +265,9 @@ Indien een voorlopige teruggaaf inkomstenbelasting is of zal worden vastgesteld 
 
 ##### Artikel 29
 
-In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=6&artikel=28&z=2009-01-01&g=2008-08-13), is het tijdvak waarover de loonbelasting moet worden betaald:
+In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=6&artikel=28&z=2008-08-01&g=2008-11-01), is het tijdvak waarover de loonbelasting moet worden betaald:
 
-- a. voor de zelfstandige binnenschipper die woonplaats heeft gekozen ingevolge [artikel 1, eerste lid, van het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1): het kalenderhalfjaar, tenzij de inspecteur vordert dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=6&artikel=28&z=2009-01-01&g=2008-08-13) ten aanzien van deze binnenschipper van toepassing is;
+- a. voor de zelfstandige binnenschipper die woonplaats heeft gekozen ingevolge [artikel 1, eerste lid, van het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002473&artikel=1): het kalenderhalfjaar, tenzij de inspecteur vordert dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=6&artikel=28&z=2008-08-01&g=2008-11-01) ten aanzien van deze binnenschipper van toepassing is;
 
 - b. voor de natuurlijke persoon ter zake van de loonbelasting van de werknemer die uitsluitend of nagenoeg uitsluitend diensten verricht ten behoeve van diens huishouden, daaronder begrepen het verlenen van zorg aan de leden van dat huishouden: het kalenderjaar;
 
@@ -351,7 +351,7 @@ De inspecteur kan nadere voorwaarden en beperkingen stellen.
 
 ##### Artikel 33
 
-1. Van de belastingen, genoemd in het derde lid van dit artikel zijn, met inachtneming van hetgeen is bepaald in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=34&z=2009-01-01&g=2008-08-13), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2009-01-01&g=2008-08-13), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=37&z=2009-01-01&g=2008-08-13) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=38&z=2009-01-01&g=2008-08-13), vrijgesteld de leden van diplomatieke vertegenwoordigingen en, met uitzondering van honoraire consuls, de leden van consulaire vertegenwoordigingen van andere Mogendheden, mits zij:
+1. Van de belastingen, genoemd in het derde lid van dit artikel zijn, met inachtneming van hetgeen is bepaald in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=34&z=2008-08-01&g=2008-11-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2008-08-01&g=2008-11-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=37&z=2008-08-01&g=2008-11-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=38&z=2008-08-01&g=2008-11-01), vrijgesteld de leden van diplomatieke vertegenwoordigingen en, met uitzondering van honoraire consuls, de leden van consulaire vertegenwoordigingen van andere Mogendheden, mits zij:
 
 - a. geen Nederlander zijn; en
 
@@ -381,19 +381,19 @@ De vrijstellingen, bedoeld in het derde lid, onderdelen c, d, e en f, worden ten
 
 4. Het eerste lid is van overeenkomstige toepassing ten aanzien van de functionarissen van internationale organisaties die ingevolge [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) in aanmerking komen voor de vrijstellingen zoals die worden verleend aan leden van diplomatieke vertegenwoordigingen. Het tweede lid is van overeenkomstige toepassing ten aanzien van de inwonende gezinsleden van functionarissen van internationale organisaties die ingevolge [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) in aanmerking komen voor de fiscale vrijstellingen zoals die worden verleend aan de inwonende gezinsleden van leden van diplomatieke vertegenwoordigingen.
 
-5. De vrijstelling van omzetbelasting wordt slechts verleend onder voorwaarde van wederkerigheid; ten aanzien van functionarissen van internationale organisaties die ingevolge [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) in aanmerking komen voor de vrijstellingen zoals die worden verleend aan diplomaten, wordt met inachtneming van [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=32&z=2009-01-01&g=2008-08-13), aangenomen dat aan de voorwaarde van wederkerigheid wordt voldaan.
+5. De vrijstelling van omzetbelasting wordt slechts verleend onder voorwaarde van wederkerigheid; ten aanzien van functionarissen van internationale organisaties die ingevolge [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39) in aanmerking komen voor de vrijstellingen zoals die worden verleend aan diplomaten, wordt met inachtneming van [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=32&z=2008-08-01&g=2008-11-01), aangenomen dat aan de voorwaarde van wederkerigheid wordt voldaan.
 
 ##### Artikel 34
 
-1. De vrijstelling van inkomstenbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2009-01-01&g=2008-08-13), strekt zich niet uit tot het buiten het ambt of de betrekking genoten inkomen, bedoeld in [hoofdstuk 7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7). Bij de berekening van de inkomstenbelasting over de niet-vrijgestelde inkomensbestanddelen wordt geen rekening gehouden met de vrijgestelde inkomensbestanddelen.
+1. De vrijstelling van inkomstenbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-08-01&g=2008-11-01), strekt zich niet uit tot het buiten het ambt of de betrekking genoten inkomen, bedoeld in [hoofdstuk 7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7). Bij de berekening van de inkomstenbelasting over de niet-vrijgestelde inkomensbestanddelen wordt geen rekening gehouden met de vrijgestelde inkomensbestanddelen.
 
-2. De vrijstelling van loonbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2009-01-01&g=2008-08-13), strekt zich niet uit tot het buiten het ambt of de betrekking genoten loon.
+2. De vrijstelling van loonbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-08-01&g=2008-11-01), strekt zich niet uit tot het buiten het ambt of de betrekking genoten loon.
 
-3. De vrijstelling van kansspelbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2009-01-01&g=2008-08-13), strekt zich niet uit tot prijzen van binnenlandse kansspelen.
+3. De vrijstelling van kansspelbelasting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-08-01&g=2008-11-01), strekt zich niet uit tot prijzen van binnenlandse kansspelen.
 
 ##### Artikel 35
 
-1. Van de belastingen, genoemd in het tweede lid van dit artikel zijn, met inachtneming van hetgeen is bepaald in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2009-01-01&g=2008-08-13), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=37&z=2009-01-01&g=2008-08-13), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=38&z=2009-01-01&g=2008-08-13) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=39&z=2009-01-01&g=2008-08-13), vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere Mogendheden, met uitzondering van honoraire consulaire vertegenwoordigingen.
+1. Van de belastingen, genoemd in het tweede lid van dit artikel zijn, met inachtneming van hetgeen is bepaald in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2008-08-01&g=2008-11-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=37&z=2008-08-01&g=2008-11-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=38&z=2008-08-01&g=2008-11-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=39&z=2008-08-01&g=2008-11-01), vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere Mogendheden, met uitzondering van honoraire consulaire vertegenwoordigingen.
 
 2. De in het eerste lid bedoelde vrijstelling vindt toepassing met betrekking tot:
 
@@ -405,7 +405,7 @@ De vrijstellingen, bedoeld in het derde lid, onderdelen c, d, e en f, worden ten
 
 - d. de overdrachtsbelasting.
 
-3. Honoraire consulaire vertegenwoordigingen zijn, met inachtneming van hetgeen is bepaald in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2009-01-01&g=2008-08-13) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=39&z=2009-01-01&g=2008-08-13), vrijgesteld van:
+3. Honoraire consulaire vertegenwoordigingen zijn, met inachtneming van hetgeen is bepaald in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=36&z=2008-08-01&g=2008-11-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=39&z=2008-08-01&g=2008-11-01), vrijgesteld van:
 
 - a. de omzetbelasting;
 
@@ -417,11 +417,11 @@ De vrijstellingen, bedoeld in het derde lid, onderdelen c, d, e en f, worden ten
 
 ##### Artikel 36
 
-1. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2009-01-01&g=2008-08-13) bedoelde personen wordt verleend voor de levering van roerende zaken bestemd voor hun persoonlijk gebruik, met uitzondering van de levering van levensmiddelen, drank of tabakswaren. De vrijstelling wordt slechts verleend indien de vergoeding per factuur ten minste € 225 bedraagt.
+1. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-08-01&g=2008-11-01) bedoelde personen wordt verleend voor de levering van roerende zaken bestemd voor hun persoonlijk gebruik, met uitzondering van de levering van levensmiddelen, drank of tabakswaren. De vrijstelling wordt slechts verleend indien de vergoeding per factuur ten minste € 225 bedraagt.
 
-2. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2009-01-01&g=2008-08-13), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen wordt verleend voor de levering van goederen en het verrichten van diensten bestemd voor officieel gebruik van deze vertegenwoordigingen. Onder officieel gebruik wordt begrepen het huisvesten van leden van de vertegenwoordiging. De vrijstelling wordt slechts verleend indien de vergoeding per factuur ten minste € 225 bedraagt.
+2. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-08-01&g=2008-11-01), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen wordt verleend voor de levering van goederen en het verrichten van diensten bestemd voor officieel gebruik van deze vertegenwoordigingen. Onder officieel gebruik wordt begrepen het huisvesten van leden van de vertegenwoordiging. De vrijstelling wordt slechts verleend indien de vergoeding per factuur ten minste € 225 bedraagt.
 
-3. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2009-01-01&g=2008-08-13), bedoelde honoraire consulaire vertegenwoordigingen wordt beperkt tot de volgende prestaties:
+3. De vrijstelling van omzetbelasting ten behoeve van de in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-08-01&g=2008-11-01), bedoelde honoraire consulaire vertegenwoordigingen wordt beperkt tot de volgende prestaties:
 
 - a. de levering van onroerende zaken en van rechten waaraan deze zijn onderworpen, bestemd voor officieel gebruik van de vertegenwoordiging, daaronder begrepen onroerende zaken en rechten waaraan deze zijn onderworpen bestemd voor het huisvesten van de leden van de vertegenwoordiging, met uitzondering van honoraire consuls;
 
@@ -451,13 +451,13 @@ Zo de vergoeding per factuur een bedrag van € 225 te boven gaat, dient tevens 
 
 ##### Artikel 37
 
-1. De vrijstelling van motorrijtuigenbelasting, bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2009-01-01&g=2008-08-13) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2009-01-01&g=2008-08-13), wordt verleend voor motorrijtuigen bestemd voor persoonlijk gebruik door de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2009-01-01&g=2008-08-13) bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2009-01-01&g=2008-08-13), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.
+1. De vrijstelling van motorrijtuigenbelasting, bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-08-01&g=2008-11-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-08-01&g=2008-11-01), wordt verleend voor motorrijtuigen bestemd voor persoonlijk gebruik door de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-08-01&g=2008-11-01) bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-08-01&g=2008-11-01), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.
 
 2. De vrijstelling van motorrijtuigenbelasting wordt slechts verleend indien voor het motorrijtuig een CD-kenteken is afgegeven, dan wel een BN/GN-kenteken in de serie 70-00 tot en met 88-99 of in de serie 90-00 tot en met 99-99.
 
 ##### Artikel 38
 
-1. De vrijstelling van belasting van personenauto’s en motorrijwielen, bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2009-01-01&g=2008-08-13) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2009-01-01&g=2008-08-13), wordt verleend voor personenauto’s en motorrijwielen bestemd voor persoonlijk gebruik door de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2009-01-01&g=2008-08-13) bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2009-01-01&g=2008-08-13), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.
+1. De vrijstelling van belasting van personenauto’s en motorrijwielen, bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-08-01&g=2008-11-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-08-01&g=2008-11-01), wordt verleend voor personenauto’s en motorrijwielen bestemd voor persoonlijk gebruik door de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=33&z=2008-08-01&g=2008-11-01) bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&hoofdstuk=9&artikel=35&z=2008-08-01&g=2008-11-01), bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.
 
 2. De vrijstelling van belasting van personenauto’s en motorrijwielen wordt slechts verleend indien voor het motorrijtuig een CD-kenteken is afgegeven, dan wel een BN/GN-kenteken in de serie 70-00 tot en met 88-99 of in de serie 90-00 tot en met 99-99. Er wordt geen teruggaaf verleend van voor het motorrijtuig reeds betaalde belasting.
 
