@@ -4,7 +4,7 @@ identifier: "BWBR0014652"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2006-03-26"
+last_updated: "2008-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014652"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Een als klassenbureau aan te wijzen organisatie houdt kantoor in een land van he
 
 1. Een aanwijzing als klassenbureau kan met inachtneming van artikel 10 van de richtlijn worden geschorst, indien door een handeling of nalatigheid van de aangewezen organisatie ernstig gevaar voor de veiligheid of het milieu is of kan ontstaan.
 
-2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2006-03-26&g=2006-03-26).
+2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2006-03-26&g=2008-11-01).
 
 ##### Artikel 6
 
@@ -103,5 +103,27 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 3. De keuring van opblaasbare reddingsvlotten en opblaasbare hulpverleningsboten geschiedt met inachtneming van de dienaangaande in de resolutie genoemd in het eerste lid, opgenomen voorschriften.
 
 4. De aanwijzing van een keuringsstation heeft een geldigheidsduur van ten hoogste vijf jaar.
+
+Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
+
+##### Artikel 5c
+
+1. Als testing ASP kunnen worden aangewezen rechtspersonen die voldoen aan de volgende erkenningscriteria:
+
+- a. de rechtspersoon beschikt over een gecertificeerd kwaliteitssysteem, waarin de procedures alsmede het beheer van alle documentatie met betrekking tot de onderzoeken waarvoor de aanwijzing geldt zijn geborgd,
+
+- b. de rechtspersoon voldoet aan de relevante eisen, opgenomen in paragraaf 5.3. van resolutie MSC.263(84) (Revised Performance Standards and Functional Requirements for the Long-Range Identification and Tracking of Ships) van de Maritieme Veiligheidscommissie van de Internationale Maritieme Organisatie, en
+
+- c. de rechtspersoon heeft de beschikking over een wereldwijd netwerk van bekwaam personeel met voldoende kennis, opleiding en ervaring met betrekking tot de onderzoeken waarvoor de aanwijzing geldt.
+
+2. De uitvoering van de onderzoeken geschiedt met inachtneming van de dienaangaande voorschriften opgenomen in circulaire MSC.1/Circ.1257 (Guidance on the Survey and Certification of Compliance of Ships with the Requirements to Transmit LRIT Information) van de Maritieme Veiligheidscommissie van de Internationale Maritieme Organisatie.
+
+3. De aanwijzing tot testing ASP heeft een geldigheidsduur van ten hoogste vijf jaar.
+
+4. De aanwijzing kan worden ingetrokken, indien niet meer wordt voldaan aan de erkenningscriteria, bedoeld in het eerste lid, dan wel indien bij de uitvoering van de onderzoeken niet wordt voldaan aan het tweede lid.
+
+##### Artikel 5d
+
+De resolutie, bedoeld in [artikel 5c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2008-12-25&g=2008-11-01), en de circulaire, bedoeld in [artikel 5c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2008-12-25&g=2008-11-01), liggen ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
