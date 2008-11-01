@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-07-26"
+last_updated: "2008-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -80,17 +80,17 @@ In deze regeling wordt verstaan onder:
 
 4. Voor het naderen van de luchthaven Schiphol in de nachtperiode tussen 23.00 en 06.30 uur plaatselijke tijd is een luchtvaartuig uitgerust met een installatie die het mogelijk maakt om met RNAV naderingsroutes in het naderingsgebied van Schiphol te vliegen met een afwijking van ten hoogste 1 zeemijl tijdens ten minste 95% van de vliegtijd en die is toegelaten op basis van de eisen van Temporary Guidance Leaflet 10 ‘AIRWORTHINESS AND OPERATIONAL APPROVAL FOR PRECISION RNAV OPERATIONS IN DESIGNATED EUROPEAN AIRSPACE’ van de Joint Aviation Authorities of vergelijkbaar document en gecertificeerd is door de nationale bevoegde autoriteit hetgeen blijkt uit vermelding van het nationaliteits- en inschrijvingskenmerk van het desbetreffende luchtvaartuig op de AOC.
 
-5. De verplichting van het vierde lid geldt niet voor luchtvaartuigen die volgens gepubliceerd schema of origineel vliegplan tussen 06:30 uur en 23:00 uur hadden moeten landen, doch vanwege de hierna te noemen bijzondere en incidentele omstandigheden bij aankomst zijn vertraagd of vervroegd en dit redelijkerwijs kunnen aantonen aan de Minister:
+5. Het vierde lid is niet van toepassing op luchtvaartuigen, die volgens gepubliceerd schema of origineel vliegplan tussen 06:30 en 23:00 hadden moeten landen, doch in een incidenteel geval bij aankomst zijn vertraagd of vervroegd dan wel een andere luchthaven als oorspronkelijke bestemming hebben, doch moeten uitwijken naar Schiphol, ten gevolge van:
 
-- a. onverwachte vertragende omstandigheden die op het moment van vertrek redelijkerwijs niet hadden kunnen worden voorzien;
+- 1°. onverwachte vertragende omstandigheden die op het moment van vertrek niet hadden kunnen worden voorzien;
 
-- b. luchtverkeersleidingstechnische redenen;
+- 2°. luchtverkeersleidingstechnische redenen;
 
-- c. een technische storing van het luchtvaartuig, of van de luchtvaarttechnische gronduitrusting;
+- 3°. een technische storing van het luchtvaartuig of van de luchtvaarttechnische gronduitrusting;
 
-- d. extreme meteorologische omstandigheden die een vertraging rechtvaardigen.
+- 4°. extreme meteorologische omstandigheden die een vertraging danwel uitwijken rechtvaardigen.
 
-6. Op aanvraag kan de Minister besluiten dat het vierde lid tot en met 31 oktober 2008 niet van toepassing is indien de aanvrager in de dienstregeling van 2008 reeds geplande landingstijden gepubliceerd had tussen 06.00 uur en 06.30 uur plaatselijke tijd en niet kan voldoen aan de in het vierde lid gestelde eisen.
+6. Op aanvraag kan de Minister besluiten dat het vierde lid tot en met 31 oktober 2009 niet van toepassing is indien de aanvrager in de dienstregeling van 2009 reeds geplande landingstijden gepubliceerd had tussen 06.00 uur en 06.30 uur plaatselijke tijd en niet kan voldoen aan de in het vierde lid gestelde eisen.
 
 ##### Artikel 4
 
@@ -106,7 +106,7 @@ Voor het uitvoeren van een IFR-vlucht in het RVSM-luchtruim in het vluchtinforma
 
 ##### Artikel 7
 
-1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam, behalve in gebieden met de classificatie G beneden 1200 voet AMSL buiten de NSA Amsterdam, is een luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS of 4096 codemogelijkheden in mode A met automatische hoogterapportering in mode C, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
+1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam, behalve in gebieden met de classificatie G beneden 1200 voet AMSL buiten de NSA Amsterdam, is een luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS en met automatische hoogterapportering in mode C, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
 
 - a. uitgerust met een SSR-transponder met mode S/ELS, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, of
 
@@ -174,7 +174,13 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 ##### Artikel 10
 
-1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam zijn de volgende voorschriften voor het gebruik van een SSR-transponder van toepassing: a. het gebruik van een SSR-transponder met de mode S of 4096 codemogelijkheden in mode A met automatische hoogterapportering in mode C is verplicht in het luchtruim met de classificatie A, B, C, D, E of F en in de NSA Amsterdam; b. mode A code 7000 wordt ingesteld.
+1. Voor het uitvoeren van een VFR vlucht in het vluchtinformatiegebied Amsterdam zijn de volgende voorschriften voor het gebruik van een SSR-transponder van toepassing:
+
+- a. het gebruik van een SSR-transponder met mode S/ELS en met automatische hoogterapportering in mode C is verplicht in het luchtruim met de classificatie A, B, C, D, E of F en in de NSA Amsterdam;
+
+- b. het gebruik van een SSR-transponder met de mode S/ELS en met automatische hoogterapportering in mode C is verplicht in het overige luchtruim met de classificatie G op en boven 1200 voet AMSL, met uitzondering van het luchtruim onder de Schiphol TMA 1;
+
+- c. mode A code 7000 wordt ingesteld.
 
 2. De verplichtingen, bedoeld in het eerste lid, zijn niet van toepassing wanneer door de betreffende verlener van luchtverkeersdiensten een andere opdracht is verstrekt of afwijkende voorschriften van toepassing zijn door de aard van het luchtvaartuig of het doel van de vlucht.
 
@@ -220,7 +226,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2008-07-26&g=2008-07-26) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2008-11-01&g=2008-11-01) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
