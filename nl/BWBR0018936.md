@@ -4,7 +4,7 @@ identifier: "BWBR0018936"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-02"
-last_updated: "2008-06-05"
+last_updated: "2008-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018936"
 soort: "ministeriele-regeling"
@@ -62,25 +62,17 @@ Besluit:
 
 ##### Artikel 3
 
-1. Het is verboden om wapens, munitie en militaire uitrusting, goederen, bewapende en niet-bewapende emplacementen, dan wel onderdelen, reparaties en onderhoud daarvan, alsmede militaire technologie, aangewezen in de [bijlage bij het In- en uitvoerbesluit strategische goederen](onbekend), te verkopen, te leveren of over te dragen aan natuurlijke personen of rechtspersonen in de Democratische Republiek Congo.
+1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024269) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](https://wetten.overheid.nl/jci1.3:c:BWBR0020691&artikel=2), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen of uit te voeren aan alle niet-gouvernementele organisaties en natuurlijke personen die actief zijn in de Democratische Republiek Congo, ongeacht of de goederen oorspronkelijk afkomstig zijn uit de lidstaten van de Europese Unie.
 
 2. Het eerste lid is niet van toepassing op:
 
-- a. de levering, verkoop of overdracht van wapens en aanverwant materiaal of financiële tussenhandel en andere met wapens en aanverwant materieel gerelateerde diensten uitsluitend bestemd ter ondersteuning van of voor gebruik door leger- en politie-eenheden van de Democratische Republiek Congo, mits die eenheden:
+- a. militaire goederen, militaire technologie of onderdelen daarvan uitsluitend bestemd ter ondersteuning van of voor gebruik door de VN-missie in de Democratische Republiek Congo (MONUC);
 
-- –. hun integratieproces hebben voltooid, of
+- b. beschermende kledingstukken, waaronder scherfwerende vesten en militaire helmen, die door VN-personeel, vertegenwoordigers van de media, medewerkers van humanitaire organisaties en ontwikkelingswerkers en aanverwant personeel louter voor hun eigen bescherming tijdelijk naar de Democratische Republiek Congo worden uitgevoerd;
 
-- –. onder het bevel opereren van de geïntegreerde staf van de strijdkrachten of de nationale politie van de Democratische Republiek Congo, of
+- c. niet-dodelijke militaire uitrusting die uitsluitend voor humanitaire of beschermende doeleinden bestemd is.
 
-- –. zich in een integratieproces bevinden, op het grondgebied van de Democratische Republiek Congo buiten de provincies Noord- en Zuid-Kivu en het Ituri-district;
-
-- b. de levering, verkoop of overdracht van wapens en aanverwant materiaal of financiële tussenhandel en andere met wapens en aanverwant materieel gerelateerde diensten uitsluitend bestemd ter ondersteuning van of voor gebruik door de VN-missie in de Democratische Republiek Congo (MONUC);
-
-- c. de levering, verkoop of overdracht van niet-dodelijke militaire uitrusting die uitsluitend voor humanitaire of beschermende doeleinden bestemd is, mits die levering of verstrekking vooraf aan het comité, bedoeld in punt 8 van resolutie 1533 (2004) van de VN-Veiligheidsraad is medegedeeld.
-
-3. De levering, verkoop of overdracht van wapens en aanverwant materiaal, bedoeld in het tweede lid, vindt uitsluitend plaats aan locaties die zijn aangewezen door de regering van de Democratische Republiek Congo, in coördinatie met MONUC, en wordt vooraf aan het comité, bedoeld in punt 8 van resolutie 1533 (2004) van de VN-Veiligheidsraad, medegedeeld.
-
-4. De levering, verkoop of overdracht van wapens en aanverwant materiaal of de verstrekking van diensten of technische opleiding en bijstand, bedoeld in het tweede lid, is onderworpen aan een door de bevoegde autoriteiten verleende vergunning.
+3. Het verkopen, leveren, overdragen of uitvoeren van militaire goederen, militaire technologie of onderdelen daarvan op grond van het tweede lid is onderworpen aan een door de bevoegde autoriteiten vooraf te verlenen vergunning.
 
 ##### Artikel 4
 
