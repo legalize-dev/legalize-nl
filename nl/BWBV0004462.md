@@ -4,7 +4,7 @@ identifier: "BWBV0004462"
 country: "nl"
 rank: "verdrag"
 publication_date: "2008-11-01"
-last_updated: "1971-02-01"
+last_updated: "2008-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004462"
 soort: "verdrag"
@@ -394,9 +394,7 @@ Met betrekking tot de in artikel 1, tweede lid, bedoelde wettelijke bepalingen, 
 
 ##### Artikel 8
 
-1. Degene die, wonende of gevestigd zijnde in een der landen, een levering van goederen verricht aan een persoon wonende of gevestigd zijnde in een der beide andere landen, is hoofdelijk medeaansprakelijk voor de door die persoon terzake van de invoer in dat andere land verschuldigde omzetbelasting, indien hij op enigerlei wijze een onjuiste afdracht van de verschuldigde belasting heeft gevorderd of mogelijk gemaakt, in het bijzonder door het ten onrechte niet afgeven van een factuur, door het afgeven van een factuur met een onjuiste tenaamstelling of zonder tenaamstelling of door het op andere wijze niet of onjuist vermelden van de levering in zijn bedrijfsadministratie.
-
-2. Het bepaalde in het eerste lid is slechts van toepassing indien aannemelijk is dat de persoon die de levering heeft verricht, wist of redelijkerwijze moest vermoeden, dat de verschuldigde belasting niet of niet volledig zou worden voldaan.
+Degene die woont of gevestigd is in een ander land dan het land waar de omzetbelasting/de belasting over de toegevoegde waarde verschuldigd is voor een levering van goederen, dienstverrichting, intracommunautaire verwerving of invoer van goederen is hoofdelijk medeaansprakelijk voor die belasting wanneer de in het land waar de belasting verschuldigd is geldende rechtsregels in deze hoofdelijke aansprakelijkheid voorzien.
 
 ##### Artikel 9
 
