@@ -4,7 +4,7 @@ identifier: "BWBR0023118"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-02-18"
-last_updated: "2008-09-17"
+last_updated: "2008-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023118"
 soort: "ministeriele-regeling"
@@ -63,9 +63,9 @@ Als Europees Programma, bedoeld in [artikel 3, eerste lid](https://wetten.overhe
 
 1. De Minister kan op aanvraag projectsubsidie verlenen indien eveneens projectsubsidie ten laste van het Europees Fonds voor Regionale Ontwikkeling verkregen is of wordt. De projectsubsidie wordt verleend aan:
 
-- a. degene die een project tot stand brengt dat past in één van de programma’s, genoemd in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-09-17);
+- a. degene die een project tot stand brengt dat past in één van de programma’s, genoemd in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01);
 
-- b. de deelnemers in een samenwerkingsverband die voor gezamenlijke rekening en risico een project uitvoeren dat past in één van de programma’s, genoemd in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-09-17).
+- b. de deelnemers in een samenwerkingsverband die voor gezamenlijke rekening en risico een project uitvoeren dat past in één van de programma’s, genoemd in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01).
 
 2. Indien de aanvragers deelnemers in een samenwerkingsverband zijn, wordt de projectsubsidie verstrekt aan de deelnemers gezamenlijk en betaald aan de deelnemer die als indiener van de aanvraag om projectsubsidie is opgetreden.
 
@@ -73,15 +73,15 @@ Als Europees Programma, bedoeld in [artikel 3, eerste lid](https://wetten.overhe
 
 ##### Artikel 4
 
-Het subsidieplafond voor de projectsubsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=3&z=2008-09-17&g=2008-09-17), is:
+Het subsidieplafond voor de projectsubsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=3&z=2008-09-17&g=2008-11-01), is:
 
-- a. voor het programma, bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-09-17): € 4.700.000,–.
+- a. voor het programma, bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01): € 4.700.000,–.
 
 ##### Artikel 5
 
-1. De aanvraag om subsidieverlening wordt gedaan bij de managementautoriteit van het desbetreffende Europees Programma, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-09-17).
+1. De aanvraag om subsidieverlening wordt gedaan bij de managementautoriteit van het desbetreffende Europees Programma, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01).
 
-2. De Minister beslist binnen 13 weken op de aanvraag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=3&z=2008-09-17&g=2008-09-17).
+2. De Minister beslist binnen 13 weken op de aanvraag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=3&z=2008-09-17&g=2008-11-01).
 
 ##### Artikel 6
 
@@ -165,19 +165,19 @@ De Minister verbindt zodanige verplichtingen aan de projectsubsidie dat de subsi
 
 ##### Artikel 14
 
-Als toezichthouder op deze regeling voor het programma, bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-09-17), worden aangewezen de ambtenaren van de Auditdienst van het Ministerie van Economische Zaken.
+Als toezichthouder op deze regeling voor het programma, bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01), worden aangewezen de ambtenaren van de Auditdienst van het Ministerie van Economische Zaken.
 
 ##### Artikel 15
 
-De Minister verstrekt op aanvraag een programmasubsidie aan de managementautoriteit van het programma, bedoeld in [artikel 2, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-09-17), voor het financieren van projecten die vallen onder prioriteit 1 of 4 van het desbetreffende programma.
+De Minister verstrekt op aanvraag een programmasubsidie aan de managementautoriteit van het programma, bedoeld in [artikel 2, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01), voor het financieren van projecten die vallen onder prioriteit 1 of 4 van het desbetreffende programma.
 
 ##### Artikel 16
 
-Het subsidieplafond voor de programmasubsidie bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=4&artikel=15&z=2008-09-17&g=2008-09-17) is:
+Het subsidieplafond voor de programmasubsidie bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=4&artikel=15&z=2008-09-17&g=2008-11-01) is:
 
-- a. voor het programma, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-09-17): € 17.800.000,–;
+- a. voor het programma, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01): € 17.800.000,–;
 
-- b. voor het programma, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-09-17): € 10.200.000,–.
+- b. voor het programma, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01): € 10.200.000,–.
 
 ##### Artikel 17
 
@@ -195,7 +195,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 18
 
-De Minister onthoudt de instemming, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=4&artikel=17&z=2008-09-17&g=2008-09-17), indien:
+De Minister onthoudt de instemming, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=4&artikel=17&z=2008-09-17&g=2008-11-01), indien:
 
 - a. het project niet voldoet aan de Kaderverordening, de EFRO-verordening, de Uitvoeringsverordening of het [Besluit EFRO programmaperiode 2007–2013](https://wetten.overheid.nl/jci1.3:c:BWBR0022685);
 
@@ -227,13 +227,13 @@ De Minister onthoudt de instemming, bedoeld in [artikel 17](https://wetten.overh
 
 ##### Artikel 20
 
-De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=8&z=2008-09-17&g=2008-09-17), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=10&z=2008-09-17&g=2008-09-17) en [11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=11&z=2008-09-17&g=2008-09-17), zijn van overeenkomstige toepassing op programmasubsidies.
+De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=8&z=2008-09-17&g=2008-11-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=10&z=2008-09-17&g=2008-11-01) en [11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=11&z=2008-09-17&g=2008-11-01), zijn van overeenkomstige toepassing op programmasubsidies.
 
 #### § 5. Slotbepalingen
 
 ##### Artikel 21
 
-De programma’s, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-09-17), worden ter inzage gelegd bij het Informatiecentrum van het Ministerie van Economische Zaken, Bezuidenhoutseweg 30 te Den Haag.
+De programma’s, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01), worden ter inzage gelegd bij het Informatiecentrum van het Ministerie van Economische Zaken, Bezuidenhoutseweg 30 te Den Haag.
 
 ##### Artikel 22
 
