@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2008-09-30"
+last_updated: "2008-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 
 Deze regeling wordt aangehaald als: Regeling coderingen beperkingen rijbevoegdheid.
 
-## Bijlage
+## Bijlage. bij de Regeling coderingen beperkingen rijbevoegdheid
 
 Geharmoniseerde communautaire codes
 
