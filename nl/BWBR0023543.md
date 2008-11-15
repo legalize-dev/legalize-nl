@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2008-09-01"
+last_updated: "2008-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -182,7 +182,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. De directeuren zijn budgethouder voor de hun door de directeur-generaal toegewezen budgetten.
 
-3. Voor zover het betreft personele besluiten hebben de directeuren mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2008-09-01&g=2008-09-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2008-09-01&g=2008-09-01), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2008-09-01&g=2008-09-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2008-09-01&g=2008-09-01).
+3. Voor zover het betreft personele besluiten hebben de directeuren mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2008-11-15&g=2008-11-15), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2008-11-15&g=2008-11-15), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2008-11-15&g=2008-11-15) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2008-11-15&g=2008-11-15).
 
 4. Het verlenen van ondermandaat van de in het derde lid bedoelde bevoegdheden is niet mogelijk, tenzij het betreft besluiten met betrekking tot:
 
@@ -236,7 +236,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - g. het vaststellen van de OCW-formatie en de verdeling van de personeelscapaciteit van de OCW-formatie,
 
-- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2008-09-01&g=2008-09-01),
+- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2008-11-15&g=2008-11-15),
 
 - i. het nemen van besluiten die voor alle ambtenaren van het Ministerie gelden
 
@@ -248,7 +248,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - m. de opstelling van het departementale bestedingsplan, waaronder inbegrepen het doen van voorstellen aan de Minister met betrekking tot verschuiven van delen van budgetten tussen directeuren-generaal, hoofden van inspecties en hoofden van agentschappen,
 
-- n. de verlening van voorschotten als bedoeld in de [Regeling verlening voorschotten 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016497), voortvloeiend uit verplichtingen als bedoeld in [artikel 13, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2008-09-01&g=2008-09-01), van bedragen die hoger zijn dan € 5.000.000,
+- n. de verlening van voorschotten als bedoeld in de [Regeling verlening voorschotten 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016497), voortvloeiend uit verplichtingen als bedoeld in [artikel 13, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2008-11-15&g=2008-11-15), van bedragen die hoger zijn dan € 5.000.000,
 
 - o. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en lease-overeenkomsten, een en ander voor een bedrag van meer dan € 500.000 voor de duur van de overeenkomst,
 
@@ -268,7 +268,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. vaststelling of wijziging van het organisatie- en capaciteitsplan van een onder hem ressorterend dienstonderdeel,
 
-- d. het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2008-09-01&g=2008-09-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2008-09-01&g=2008-09-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2008-09-01&g=2008-09-01), voor zover het betreft:
+- d. het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2008-11-15&g=2008-11-15), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2008-11-15&g=2008-11-15) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2008-11-15&g=2008-11-15), voor zover het betreft:
 
 - 1. disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag,
 
@@ -288,11 +288,11 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 3. Het verlenen van ondermandaat van de bevoegdheden, bedoeld in het eerste en tweede lid, is niet mogelijk.
 
-4. De hoofddirecteur van CFI is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 12, eerste lid, onderdelen p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2008-09-01&g=2008-09-01).
+4. De hoofddirecteur van CFI is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 12, eerste lid, onderdelen p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2008-11-15&g=2008-11-15).
 
 ##### Artikel 14. Voorbehouden aan de directeur CO
 
-1. De directeur Concernondersteuning is met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2008-09-01&g=2008-09-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2008-09-01&g=2008-09-01) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2008-09-01&g=2008-09-01), voor zover het betreft:
+1. De directeur Concernondersteuning is met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2008-11-15&g=2008-11-15), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2008-11-15&g=2008-11-15) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2008-11-15&g=2008-11-15), voor zover het betreft:
 
 - a. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben,
 
@@ -310,7 +310,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - h. het volgen van opleidingen,
 
-2. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2008-09-01&g=2008-09-01) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
+2. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2008-11-15&g=2008-11-15) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -382,7 +382,7 @@ Daarnaast wordt hij in zijn taak bijgestaan door de directeur-generaal Hoger Ond
 
 - b. de hierna genoemde organisatieonderdelen die rechtstreeks ressorteren onder de plaatsvervangend secretaris-generaal (PSG): Ondersteunende directies: Agentschap:
 
-- –. Auditdienst (AD)
+- –. Auditdienst (AD
 
 - –. Concernondersteuning (CO)
 
@@ -399,6 +399,8 @@ Daarnaast wordt hij in zijn taak bijgestaan door de directeur-generaal Hoger Ond
 - –. Voortgezet Onderwijs (VO)
 
 - –. Jeugd en Onderwijszorg
+
+- –. Kinderopvang
 
 - –. Leraren
 
@@ -438,7 +440,7 @@ Daarnaast wordt hij in zijn taak bijgestaan door de directeur-generaal Hoger Ond
 
 - –. Raad van Cultuur (RvC)
 
-De directie BOA is verantwoordelijk voor de ondersteuning van de sturing op de politiek-bestuurlijke en organisatorische samenhang van het departement zodat het verkeer tussen de politieke top en de ambtelijke organisatie goed verloopt. De directie is tevens verantwoordelijk voor de inhoudelijke, procesmatige, instrumentele en logistieke ondersteuning van de bewindslieden en de ambtelijke top. De directie is ook verantwoordelijk voor de behandeling van burgerbrieven, daarin zo nodig inhoudelijk bijgestaan door beleidsdirecties.
+De directie BOA is verantwoordelijk voor de ondersteuning van de sturing op de politiek- bestuurlijke en organisatorische samenhang van het departement zodat het verkeer tussen de politieke top en de ambtelijke organisatie goed verloopt. De directie is tevens verantwoordelijk voor de inhoudelijke, procesmatige, instrumentele en logistieke ondersteuning van de bewindslieden en de ambtelijke top. De directie is ook verantwoordelijk voor de behandeling van burgerbrieven, daarin zo nodig inhoudelijk bijgestaan door beleidsdirecties.
 
 De directie Communicatie is verantwoordelijk voor de interne en externe communicatie van het departement.
 
@@ -468,8 +470,6 @@ De directie PO is verantwoordelijk voor de beleidsontwikkeling voor het primair 
 
 Het beleidsterrein van het primair onderwijs omvat de scholen voor basisonderwijs, speciaal basisonderwijs, speciaal onderwijs, en voortgezet speciaal onderwijs.
 
-Ten slotte is de directie belast met de behartiging van de aangelegenheden op het terrein van kinderopvang.
-
 De directie Voortgezet Onderwijs is verantwoordelijk voor de beleidsontwikkeling voor het voortgezet onderwijs. In samenhang daarmee ontwikkelt de directie beleidsvoorstellen op onderwijsinhoudelijk, financieel, bekostigingstechnisch, juridisch en personeels gebied. Tevens is zij verantwoordelijk voor de coördinatie van de inzet van het departement rond het jeugdbeleid voor de hele onderwijssector en meer in het bijzonder voor de operatie Jong en sport.
 
 De directie is ten slotte verantwoordelijk voor de beleidsontwikkeling voor de onderwijsondersteuning en coördineert dit beleid voor de directies PO, VO en BVE.
@@ -477,6 +477,8 @@ De directie is ten slotte verantwoordelijk voor de beleidsontwikkeling voor de o
 Het beleidsterrein van het voortgezet onderwijs omvat de scholen voor voorbereidend wetenschappelijk onderwijs (vwo), het hoger algemeen voortgezet onderwijs (havo), voorbereidend middelbaar beroepsonderwijs (vmbo), praktijkonderwijs en de landelijke ondersteunende instellingen (landelijke pedagogische centra: APS, CPS en KPC-groep, alsmede CITO en SLO).
 
 De directie Jeugd en Onderwijszorg is verantwoordelijk voor de beleidsontwikkeling op het terrein van Jeugd en Zorg, voor de sectoren primair onderwijs, voortgezet onderwijs, en beroepsonderwijs. De directie is in deze ook het aanspreekpunt voor de Minister voor Jeugd en Gezin.
+
+De directie Kinderopvang is verantwoordelijk voor het tot stand brengen van een stelsel van kwalitatief goede en toegankelijke kinderopvang, tussenschoolse opvang en peuterspeelzalen, zodat een dagarrangement ontstaat waardoor ouders arbeid en zorg kunnen combineren en kinderen zich kunnen ontwikkelen.
 
 De directie Leraren is verantwoordelijk voor de beleidsontwikkeling op het terrein van leraren voor alle onderwijssectoren. In het bijzonder is de directie gericht op de kwaliteitsbevordering van leraren en de terugdringing van het lerarentekort.
 
@@ -504,23 +506,21 @@ De directie MLB is verantwoordelijk voor de beleidsontwikkeling op het terrein v
 
 Het ICN beheert op basis van het KB 21, 1984 de Rijkscollectie voor zover niet ondergebracht bij rijksmusea. Tevens is ICN (mede)verantwoordelijk voor de ontwikkeling en uitvoering van het beleid voor roerend cultureel erfgoed en fungeert het op dat terrein als kenniscentrum.
 
-Rijksdienst voor archeologie, cultuurlandschap en monumenten (RACM)
-
 De RACM voert, namens de Minister, de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) met uitzondering van de archeologische monumentenzorg, uit en fungeert als kenniscentrum voor de instandhouding van het gebouwde en cultuurlandschappelijke erfgoed van Nederland. De dienst is (mede) verantwoordelijk voor de beleidsontwikkeling en het uitvoeren van het beleid m.b.t. de monumentenzorg.
 
 Tevens voert de dienst namens de Minister, de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) uit voor zover het betreft de archeologische monumentenzorg. De dienst fungeert als kennisinstituut voor de bescherming van waardevolle sporen van menselijke bewoning en is (mede)verantwoordelijk voor de beleidsontwikkeling en de uitvoering van het beleid voor archeologische monumentenzorg.
 
 De Inspectie van het Onderwijs heeft de volgende taken:
 
-- –. het beoordelen van de kwaliteit van het onderwijs door het uitvoeren van periodiek kwaliteitsonderzoek, waarbij gelet wordt op de in de wet vermelde kwaliteitsaspecten;
+- –. het beoordelen van de kwaliteit van het onderwijs door het uitvoeren van periodiek kwaliteitsonderzoek, waarbij gelet wordt op de in de wet vermelde kwaliteitsaspecten.
 
-- –. via het toezicht stimuleren van de kwaliteit van het onderwijs en de eigen verantwoordelijkheid van scholen en instellingen;
+- –. via het toezicht stimuleren van de kwaliteit van het onderwijs en de eigen verantwoordelijkheid van scholen en instellingen.
 
-- –. rapporteren over de ontwikkelingen in het onderwijs, in het bijzonder de kwaliteit daarvan, op instellings- en op stelselniveau;
+- –. rapporteren over de ontwikkelingen in het onderwijs, in het bijzonder de kwaliteit daarvan, op instellings- en op stelselniveau.
 
-- –. het beoordelen van de rechtmatigheid en de doeltreffendheid van de uitvoering van de taken, opgedragen aan het college van burgemeester en wethouders bij of krachtens de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3) en [6 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=6);
+- –. het beoordelen van de rechtmatigheid en de doeltreffendheid van de uitvoering van de taken, opgedragen aan het college van burgemeester en wethouders bij of krachtens de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=3) en [6 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&hoofdstuk=6).
 
-- –. het beoordelen van de financiële rechtmatigheid door in ieder geval het verrichten van onderzoek naar de controlerapporten van de door het bevoegd gezag aangewezen accountant, naar de rechtmatigheid van de bestedingen en de rechtmatigheid van het financieel beheer van de bekostigde onderwijsinstellingen;
+- –. het beoordelen van de financiële rechtmatigheid door in ieder geval het verrichten van onderzoek naar de controlerapporten van de door het bevoegd gezag aangewezen accountant, naar de rechtmatigheid van de bestedingen en de rechtmatigheid van het financieel beheer van de bekostigde onderwijsinstellingen.
 
 - –. verrichten van overige bij of krachtens de wet aan de inspectie opgedragen taken.
 
@@ -532,9 +532,9 @@ De Erfgoedinspectie ziet toe op de naleving van:
 
 - –. de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en andere regelgeving op het gebied van het archiefbeheer door overheidsorganen;
 
-- –. de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) en andere regelgeving op het gebied van archeologische monumenten, opgravingen en vondsten;
+- –. de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) en andere regelgeving op het gebied van archeologische monumenten, opgravingen en vondsten;
 
-- –. de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) en Besluiten op het gebied van beheer en behoud van gebouwde monumenten en beschermde stads en dorpsgezichten.
+- –. de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) en Besluiten op het gebied van beheer en behoud van gebouwde monumenten en beschermde stads en dorpsgezichten.
 
 Zij rapporteert via de secretaris-generaal aan de bewindspersoon over de bevindingen en doet daarbij aanbevelingen.
 
