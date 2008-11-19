@@ -4,7 +4,7 @@ identifier: "BWBR0009334"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-09-18"
-last_updated: "2004-12-24"
+last_updated: "2008-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009334"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Binnenlandse Zaken;
+- a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
 - b. bewijs: bewijs van typekeuring;
 
@@ -64,15 +64,11 @@ In dit besluit wordt verstaan onder:
 
 - f. onafhankelijk keuringsinstituut: een instituut tot wiens normale takenpakket het keuren van draagbare blustoestellen behoort en dat voldoet aan de criteria, genoemd in onderdeel 1 van bijlage IV van de [richtlijn nr. 97/23/EG](31997L0023) van de Raad van de Europese Unie van 29 mei 1997 inzake de onderlinge aanpassing van de wetgevingen der lidstaten betreffende drukapparatuur (PbEG L 181);
 
-- g. NEN-EN 3-1: Draagbare brandblustoestellen, Deel 1, Beschrijving, spuitduur, beproeving van het blusvermogen voor brandklasse A en B, uitgegeven door het Nederlands Normalisatie-Instituut, zoals dit luidde in maart 1996;
+- g. NEN-EN 3-7+ A1: Draagbare blustoestellen, Deel 7, Eigenschappen, prestatie-eisen en beproevingsmethoden, uitgegeven door het Nederlands Normalisatie-Instituut zoals dit luidde in augustus 2007;
 
-- h. NEN-EN 3-2: Draagbare brandblustoestellen, Deel 2, Beproeving van de dichtheid, beproeving van het elektrisch geleidingsvermogen, beproeving op inklinken, bijzondere bepalingen, uitgegeven door het Nederlands Normalisatie-Instituut, zoals dit luidde in maart 1996;
+- h. NPR-CEN/TR 14922: Draagbare blustoestellen – Model laboratorium – Rapport in overeenkomst met NEN-EN 3-7+A1, uitgegeven door het Nederlands Normalisatie-instituut, zoals dit luidde in januari 2006;
 
-- i. NEN-EN 3-4: Draagbare brandblustoestellen, Deel 4, Vullingen, minimumblusvermogen, uitgegeven door het Nederlands Normalisatie-Instituut, zoals dit luidde in maart 1996;
-
-- j. NEN-EN 3-5: Draagbare blustoestellen, Deel 5, Aanvullende eisen en beproevingen, uitgegeven door het Nederlands Normalisatie-Instituut, zoals dit luidde in april 1997;
-
-- k. NEN-EN 3-6: Brandbestrijding, Draagbare blustoestellen, Deel 6, Voorwaarden voor de vaststelling van de conformiteit van draagbare blustoestellen volgens EN 3 delen 1 tot en met 5, uitgegeven door het Nederlands Normalisatie-Instituut, zoals dit luidde in maart 1995.
+- i. NEN 2033: Draagbare blustoestellen voor brandklasse D, uitgegeven door het Nederlands Normalisatie-Instituut, zoals dit luidde in januari 2006.
 
 #### § 2. Bewijs van typekeuring
 
@@ -86,7 +82,7 @@ Voor elk type draagbaar blustoestel met bijbehorende vulling is een afzonderlijk
 
 ##### Artikel 4
 
-1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=2&z=2004-12-24&g=2004-12-24) is het toegestaan met een machtiging van Onze Minister draagbare blustoestellen met bijbehorende vullingen in te voeren, indien de draagbare blustoestellen uitsluitend:
+1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=2&z=2008-11-19&g=2008-11-19) is het toegestaan met een machtiging van Onze Minister draagbare blustoestellen met bijbehorende vullingen in te voeren, indien de draagbare blustoestellen uitsluitend:
 
 - a. zijn bestemd voor experimentele doeleinden,
 
@@ -122,19 +118,35 @@ De invoer van draagbare blustoestellen met bijbehorende vullingen kan geschieden
 
 - d. een fabriekscertificaat van de vulling;
 
-- e. een ontwerp-etiket of een ontwerp-transfer dat ingericht is overeenkomstig en de gegevens bevat, genoemd in de NEN-EN 3-5, dan wel ingericht is op gelijkwaardige wijze en gegevens van gelijke aard bevat;
+- e. een ontwerp-etiket of een ontwerp-transfer dat ingericht is overeenkomstig en de gegevens bevat, genoemd in de NEN-EN 3-7+A1, dan wel ingericht is op gelijkwaardige wijze en gegevens van gelijke aard bevat;
 
 - f. een rapport van een onafhankelijk keuringsinstituut:
 
-- 1°. dat totstandgekomen is overeenkomstig de procedure zoals omschreven is in de NEN-EN 3-6 dan wel een daaraan gelijkwaardige procedure;
+- 1°. dat totstandgekomen is overeenkomstig de procedure zoals omschreven is in de NPR-CEN/TR 14922 dan wel een daaraan gelijkwaardige procedure;
 
-- 2°. dat opgesteld is overeenkomstig het model zoals opgenomen is in de NEN-EN 3-6 dan wel een model van gelijke aard;
+- 2°. dat opgesteld is overeenkomstig het model zoals opgenomen is in de NPR-CEN/TR 14922 dan wel een model van gelijke aard;
 
-- 3°. waaruit blijkt dat het draagbare blustoestel voldoet aan de eisen inzake veiligheid en deugdelijkheid, genoemd in de NEN-EN 3–1, 3–2, 3–4 en 3–5, dan wel een mate van veiligheid en deugdelijkheid biedt die ten minste gelijk is aan de mate van veiligheid en deugdelijkheid die beoogd is met de NEN-EN 3–1, 3–2, 3–4 en 3–5.
+- 3°. waaruit blijkt dat het draagbare blustoestel voldoet aan de eisen inzake veiligheid en deugdelijkheid, genoemd in de NEN-EN 3-7+A1, dan wel een mate van veiligheid en deugdelijkheid biedt die ten minste gelijk is aan de mate van veiligheid en deugdelijkheid die beoogd is met de NEN-EN 3-7+A1, en
 
-2. De bescheiden, bedoeld in het eerste lid, onder b tot en met f, worden in tweevoud overgelegd.
+- 4°. waaruit blijkt dat het draagbare blustoestel voor brandklasse D tevens voldoen aan de eisen in de NEN 2033 dan wel aan eisen die ten minste gelijkwaardig zijn aan de eisen van de NEN 2033.
 
-3. Bij de aanvraag wordt aan het Rijk een bedrag van € 828,00 betaald. Dit bedrag wordt jaarlijks op 1 maart geïndexeerd conform de door het Centraal bureau voor de statistiek bekendgemaakte afgeleide consumentenprijsindex van het voorgaande jaar.
+2. Een draagbaar blustoestel biedt in ieder geval een mate van veiligheid en deugdelijkheid die ten minste gelijk is aan de mate van veiligheid en deugdelijkheid die beoogd is met de NEN-EN 3-7+A1 zoals bedoeld in het eerste lid, onderdeel f, onder 3°, indien het draagbare blustoestel:
+
+- a. voldoet aan de eisen van de NEN-EN 3.7+A1 met uitzondering van de technische eisen 4.5, 6.1 en 6.3 van de NEN-EN 3-7+A1, of
+
+- b. een kleinere vulling heeft dan in eis 6.4.2 of eis 6.4.3 van de NEN-EN 3-7+A1, maar wel aan de minimum eis van 5A of 21B en de overige eisen van de NEN-EN 3-7+A1voldoet, of
+
+- c. een vulling heeft die ligt tussen de in eis 6.4.2 of eis 6.4.3 van de NEN-EN 3-7+A1 genoemde waarden en voldoet aan de overige eisen van de NEN-EN 3-7+A1. Voor dit blustoestel geldt in dat geval de waarde van de naastliggende kleinere vulhoeveelheid.
+
+3. Een aerosol blustoestel dat voldoet aan richtlijn nr. 75/324/EEG van de Raad van de Europese Gemeenschappen van 20 mei 1975 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake aërosols (PbEG L 147) biedt in ieder geval een mate van veiligheid en deugdelijkheid die ten minste gelijk is aan de mate van veiligheid en deugdelijkheid die beoogd is met de NEN-EN 3-7+A1 zoals bedoeld in het eerste lid, onderdeel f, onder 3°, indien het aerosol blustoestel:
+
+- a. voldoet aan de eisen van de NEN-EN 3-7+A1, met uitzondering van de eisen 4.6, 8 en 14 van de NEN-EN 3-7+A1, of
+
+- b. een kleinere vulling heeft dan in eis 6.4.2 of eis 6.4.3 van de NEN-EN 3-7+A1, maar wel aan de minimum eis van 5A of 21B en de overige eisen van de NEN-EN 3-7+A1 voldoet.
+
+4. De bescheiden, bedoeld in het eerste lid, onder b tot en met f, worden in tweevoud overgelegd.
+
+5. Bij de aanvraag wordt aan het Rijk een bedrag van € 828,00 betaald. Dit bedrag wordt jaarlijks op 1 maart geïndexeerd conform de door het Centraal bureau voor de statistiek bekendgemaakte afgeleide consumentenprijsindex van het voorgaande jaar.
 
 ##### Artikel 7
 
@@ -160,7 +172,7 @@ De invoer van draagbare blustoestellen met bijbehorende vullingen kan geschieden
 
 1. Op aanvraag van de houder wijzigt Onze Minister een bewijs.
 
-2. [De artikelen 6, eerste lid, onder b tot en met f, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=6&z=2004-12-24&g=2004-12-24), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=7&z=2004-12-24&g=2004-12-24), en [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2004-12-24&g=2004-12-24), zijn van overeenkomstige toepassing.
+2. [De artikelen 6, eerste lid, onder b tot en met f, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=6&z=2008-11-19&g=2008-11-19), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=7&z=2008-11-19&g=2008-11-19), en [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2008-11-19&g=2008-11-19), zijn van overeenkomstige toepassing.
 
 3. Het bewijs, bedoeld in het eerste lid, omvat een door Onze Minister gewaarmerkt exemplaar van de bij de wijzigingsaanvraag overgelegde technische beschrijving en constructietekening van het gewijzigde onderdeel of de gewijzigde onderdelen van het draagbare blustoestel.
 
@@ -176,7 +188,7 @@ De invoer van draagbare blustoestellen met bijbehorende vullingen kan geschieden
 
 ##### Artikel 11
 
-De wijziging, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=9&z=2004-12-24&g=2004-12-24), en de overschrijving, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=10&z=2004-12-24&g=2004-12-24), brengen geen verandering in de termijn waarvoor het bewijs is verleend.
+De wijziging, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=9&z=2008-11-19&g=2008-11-19), en de overschrijving, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=10&z=2008-11-19&g=2008-11-19), brengen geen verandering in de termijn waarvoor het bewijs is verleend.
 
 #### § 3. Dwang- en strafbepalingen
 
@@ -186,7 +198,7 @@ De wijziging, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 - a. de houder niet overeenkomstig het bewijs draagbare blustoestellen met bijbehorende vullingen met het oog op gebruik in Nederland vervaardigt, invoert of verhandelt;
 
-- b. de houder niet voldoet aan [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2004-12-24&g=2004-12-24).
+- b. de houder niet voldoet aan [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2008-11-19&g=2008-11-19).
 
 2. Onze Minister doet van de intrekking mededeling in de Nederlandse Staatscourant.
 
@@ -196,9 +208,9 @@ Als strafbare feiten, bedoeld in [artikel 23, eerste lid, van de Brandweerwet 19
 
 - a. het zonder bewijs met het oog op gebruik in Nederland vervaardigen, invoeren of verhandelen van draagbare blustoestellen met bijbehorende vullingen;
 
-- b. het zonder machtiging als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=4&z=2004-12-24&g=2004-12-24), invoeren van draagbare blustoestellen met bijbehorende vullingen;
+- b. het zonder machtiging als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=4&z=2008-11-19&g=2008-11-19), invoeren van draagbare blustoestellen met bijbehorende vullingen;
 
-- c. het met het oog op gebruik in Nederland vervaardigen, invoeren of verhandelen van draagbare blustoestellen met bijbehorende vullingen die niet zijn voorzien van de opschriften, bedoeld in [artikel 8, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2004-12-24&g=2004-12-24).
+- c. het met het oog op gebruik in Nederland vervaardigen, invoeren of verhandelen van draagbare blustoestellen met bijbehorende vullingen die niet zijn voorzien van de opschriften, bedoeld in [artikel 8, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2008-11-19&g=2008-11-19).
 
 #### § 4. Overgangs- en slotbepalingen
 
@@ -250,13 +262,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2a
 
-Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=2&z=2004-12-24&g=2004-12-24), geldt niet voor draagbare blustoestellen voor zover deze bestemd zijn voor plaatsing aan boord van schepen waarop [richtlijn nr. 96/98/EG](31996L0098) van de Raad van de Europese Unie van 20 december 1996 inzake uitrusting van zeeschepen (PbEG 1997, L 46) van toepassing is en zijn voorzien van het merk van overeenstemming, weergegeven in bijlage D van die richtlijn.
+Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=2&z=2008-11-19&g=2008-11-19), geldt niet voor draagbare blustoestellen voor zover deze bestemd zijn voor plaatsing aan boord van schepen waarop [richtlijn nr. 96/98/EG](31996L0098) van de Raad van de Europese Unie van 20 december 1996 inzake uitrusting van zeeschepen (PbEG 1997, L 46) van toepassing is en zijn voorzien van het merk van overeenstemming, weergegeven in bijlage D van die richtlijn.
 
 #### § 3. Dwang- en strafbepalingen
 
 #### § 4. Overgangs- en slotbepalingen
 
-## Bijlage. behorende bij [artikel 8, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2004-12-24&g=2004-12-24), van het Besluit draagbare blustoestellen 1997
+## Bijlage. behorende bij [artikel 8, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=8&z=2008-11-19&g=2008-11-19), van het Besluit draagbare blustoestellen 1997
 
 Het rijkskeurmerk is ingericht naar het volgende model:
 
