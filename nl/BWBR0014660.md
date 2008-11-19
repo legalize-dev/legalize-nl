@@ -4,7 +4,7 @@ identifier: "BWBR0014660"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-05-13"
-last_updated: "2003-01-01"
+last_updated: "2008-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014660"
 soort: "AMvB"
@@ -48,11 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De uitsluiting van het recht op een bijdrage uit het BTW-compensatiefonds volgens [artikel 4, eerste lid, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=4) is niet van toepassing voorzover het goederen of diensten betreft:
-
-- a. die naar hun aard uitsluitend door het publiekrechtelijk lichaam of regionaal openbaar lichaam kunnen worden verstrekt, verleend of ter beschikking gesteld; of
-
-- b. die worden gebezigd voor het ten behoeve van het personeel van het publiekrechtelijk lichaam of regionaal openbaar lichaam verrichten van prestaties als bedoeld in en onder de voorwaarden genoemd in [artikel 1, derde lid, van het Besluit uitsluiting aftrek omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002636&artikel=1).
+De uitsluiting van het recht op een bijdrage uit het BTW-compensatiefonds volgens [artikel 4, eerste lid, aanhef en onder a, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=4) is niet van toepassing voorzover het goederen of diensten betreft die naar hun aard uitsluitend door het publiekrechtelijk lichaam of regionaal openbaar lichaam kunnen worden verstrekt, verleend of ter beschikking gesteld.
 
 ##### Artikel 2
 
