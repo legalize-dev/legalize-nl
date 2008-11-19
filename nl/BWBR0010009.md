@@ -4,7 +4,7 @@ identifier: "BWBR0010009"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-08-01"
-last_updated: "2005-02-25"
+last_updated: "2008-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010009"
 soort: "AMvB"
@@ -50,9 +50,9 @@ Hebben goedgevonden en verstaan:
 
 Het Staatstoezicht op de volksgezondheid bestaat uit de volgende onderdelen:
 
-- a. de Inspectie voor de Gezondheidszorg: op het gebied van de beroepen en instellingen op het terrein van de gezondheidszorg, de gezondheidszorgstatistiek, de bestrijding en voorkoming van ziekten en bevordering van de gezondheid, de geestelijke volksgezondheid, de geneesmiddelen, verdovende middelen daaronder begrepen, de bloedvoorziening en de medische hulpmiddelen;
+- a. de Inspectie voor de Gezondheidszorg;
 
-- b. de Voedsel en Waren Autoriteit: op het gebied van andere dan de onder a genoemde waren en hun keuring, de destructie, het onderzoek van dieren en gewassen en hun omgeving ter voorkoming van besmetting met organismen, stoffen of straling, waaraan bij het omgaan met dieren of bij het nuttigen van producten van dierlijke of plantaardige oorsprong gevaar voor de volksgezondheid kan zijn verbonden.
+- b. de Voedsel en Waren Autoriteit.
 
 ##### Artikel 2
 
@@ -62,19 +62,19 @@ Het Staatstoezicht op de volksgezondheid bestaat uit de volgende onderdelen:
 
 ##### Artikel 3
 
-Het Besluit Staatstoezicht Volksgezondheid wordt ingetrokken.
+Vervallen
 
 ##### Artikel 4
 
-Wijzigt het Warenwetbesluit Bereiding en behandeling van levensmiddelen.
+Vervallen
 
 ##### Artikel 5
 
-Wijzigt het Warenwetbesluit Eiprodukten.
+Vervallen
 
 ##### Artikel 6
 
-Wijzigt het Besluit veiligheid attractie- en speeltoestelle.n
+Vervallen
 
 ##### Artikel 7
 
