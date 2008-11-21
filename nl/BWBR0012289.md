@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2008-10-19"
+last_updated: "2008-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -11645,7 +11645,7 @@ In onderdeel b is bepaald dat bij de berekening van de driejarentermijn buiten b
 
 Indien de asielaanvraag is ontvangen vóór 1 januari 2000 kan de verblijfsvergunning nog op grond van deze bepaling worden verleend indien aan de volgende voorwaarden is voldaan:
 
-Zie [C4/2.4](onbekend) voor toepassing van deze grond.
+Zie [C4/2.5](onbekend) voor toepassing van deze grond.
 
 Uit het gedrag van de vreemdeling moet blijken dat hij kennelijk geen belang meer hecht aan de beslissing op zijn oorspronkelijke aanvraag door (bijvoorbeeld) zijn adres met onbekende bestemming te verlaten of geen contact meer te houden met de bevoegde autoriteiten. Overigens geldt als voorwaarde voor toepassing van deze afwijzingsgrond niet dat de vreemdeling een meldplicht had. De tijd die verstreken is voordat de vreemdeling met onbekende bestemming vertrok, telt niet mee voor het berekenen van de relevante termijn. Pas op het moment dat de vreemdeling zich weer bij de bevoegde autoriteiten meldt, gaat er een nieuwe termijn lopen.
 
