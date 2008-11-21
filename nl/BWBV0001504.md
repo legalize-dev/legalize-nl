@@ -4,7 +4,7 @@ identifier: "BWBV0001504"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-19"
-last_updated: "2001-12-07"
+last_updated: "2008-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001504"
 soort: "verdrag"
@@ -178,7 +178,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **50 PP-94 PP-98** b. het bestuderen van de rapporten van de Raad betreffende de activiteiten van de Unie sinds de laatste Plenipotentiaire Conferentie en betreffende het beleid en de strategische planning van de Unie;
 
-**51 PP-98** c. het leggen van de basis voor de begroting van de Unie en het vaststellen, met inachtneming van de op basis van de in nummer 50 genoemde rapporten genomen beslissingen, van de desbetreffende financiële grenzen tot de volgende Plenipotentiaire Conferentie, na bestudering van alle relevante aspecten van de werkzaamheden van de Unie in het desbetreffende tijdvak;
+**51 PP-98** **c.** het vaststellen, met inachtneming van de op basis van de in nummer 50 genoemde rapporten genomen beslissingen, van het strategisch plan voor de Unie en het leggen van de basis voor de begroting van de Unie, en het vaststellen van de desbetreffende financiële grenzen tot de volgende Plenipotentiaire Conferentie, na bestudering van alle relevante aspecten van de werkzaamheden van de Unie in het desbetreffende tijdvak;
 
 **51A PP-98** cbis. het vaststellen, met gebruikmaking van de in de nummers 161D tot en met 161G van dit Statuut beschreven procedures, van het totale aantal contributie-eenheden voor het tijdvak tot de volgende Plenipotentiaire Conferentie, op basis van de door de Lidstaten aangekondigde contributieklassen;
 
@@ -196,7 +196,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **58** j. het sluiten of herzien, indien nodig, van overeenkomsten tussen de Unie en andere internationale organisaties, het bestuderen van namens de Unie door de Raad met deze organisaties gesloten voorlopige overeenkomsten, en het nemen van de door haar in dit verband nodig geachte maatregelen;
 
-**58A PP-98** jbis. het aannemen en wijzigen van het reglement van orde van conferenties en andere vergaderingen van de Unie;
+**58A PP-98** **jbis.** het aannemen en wijzigen van de algemene regels voor conferenties, assemblees een vergaderingen van de Unie;
 
 **59** k. het voor zover nodig behandelen van andere telecommunicatievraagstukken.
 
@@ -212,27 +212,29 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **60** 1. De Plenipotentiaire Conferentie ziet er bij de in de nummers 54 tot en met 56 genoemde verkiezingen op toe dat:
 
-**61** a. de leden van de Raad***Noot van het Algemeen Secretariaat:** „leden van de Raad" moet luiden „Lidstaten van de Raad" worden gekozen met inachtneming van de behoefte aan een billijke verdeling van de zetels van de Raad over alle regio's van de wereld;
+**61** **a.** de Lidstaten van de Raad worden verkozen met inachtneming van de behoefte aan een billijke verdeling van de zetels van de Raad over alle regio’s van de wereld;
 
-**62 PP-94 PP-98** b. de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal, de directeuren van de Bureaus en de leden van de Radioreguleringsraad worden gekozen uit de door de Lidstaten voorgedragen kandidaten als zijnde hun ingezetenen, dat deze allen ingezetenen zijn van verschillende Lidstaten, en dat bij hun verkiezing naar behoren rekening wordt gehouden met een billijke geografische verdeling over de regio's van de wereld; ten aanzien van de gekozen functionarissen zou eveneens naar behoren rekening moeten worden gehouden met de in nummer 154 van dit Statuut vervatte beginselen;
+**62 PP-94 PP-98** **b.** de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal en de directeuren van de Bureaus worden gekozen uit de door de Lidstaten voorgedragen kandidaten als zijnde hun ingezetenen, dat deze allen ingezetenen zijn van verschillende Lidstaten, en dat bij hun verkiezing naar behoren rekening wordt gehouden met een billijke geografische verdeling over de regio’s van de wereld; eveneens moet naar behoren rekening worden gehouden met de in nummer 154 van dit Statuut vervatte beginselen;
 
-**63 PP-94 PP-98** c. de leden van de Radioreguleringsraad worden gekozen in hun individuele hoedanigheid; elke Lidstaat kan slechts één kandidaat voordragen.
+**63 PP-94 PP-98** **c.** de leden van de Radioreguleringsraad worden gekozen in hun individuele hoedanigheid uit de door de Lidstaten als zijnde hun ingezetenen voorgedragen kandidaten. Elke Lidstaat kan slechts één kandidaat voordragen. De leden van de Radioreguleringsraad mogen geen ingezetenen zijn van dezelfde Lidstaat als de directeur van het Radiocommunicatiebureau; bij hun verkiezing moet naar behoren rekening worden gehouden met een billijke geografische verdeling over de regio’s van de wereld en met de in nummer 93 van dit Statuut vervatte beginselen.
 
-**64** 2. De procedures voor deze verkiezingen worden door de Plenipotentiaire Vergadering vastgesteld. Bepalingen inzake functieaanvaarding, vacatures en herverkiesbaarheid zijn vervat in het Verdrag.
+**64** 2. Bepalingen inzake functieaanvaarding, vacatures en herverkiesbaarheid zijn vervat in het Verdrag.
 
 ##### Artikel 10. De Raad
 
 **65 PP-98** 1. 1) De Raad is samengesteld uit Lidstaten die door de Plenipotentiaire Conferentie in overeenstemming met de bepalingen van nummer 61 van dit Statuut zijn gekozen.
 
-**66** 2) Elk Lid van de Raad***Noot van het Algemeen Secretariaat:** „Lid van de Raad" moet luiden „Lidstaat van de Raad" benoemt een persoon die zitting neemt in de Raad en die kan worden bijgestaan door een of meerdere adviseurs.
+**66** 2) Elke Lidstaat van de Raad benoemt een persoon die zitting neemt in de Raad en die kan worden bijgestaan door een of meerdere adviseurs.
 
-**67** 2. De Raad neemt zijn eigen reglement van orde aan.
+**67** 2.Vervallen.
 
 **68** 3. In het tijdvak tussen de Plenipotentiaire Conferenties treedt de Raad, als bestuurslichaam van de Unie, op namens de Plenipotentiaire Conferentie, binnen de grenzen van de door deze laatste aan hem gedelegeerde bevoegdheden.
 
 **69 PP-98** 4. 1) De Raad neemt alle nodige maatregelen ter vergemakkelijking van de uitvoering door de Lidstaten van de bepalingen van dit Statuut, van het Verdrag, van de Administratieve Reglementen, van de beslissingen van de Plenipotentiaire Conferentie, en, indien van toepassing, van de beslissingen van andere conferenties en vergaderingen van de Unie, en verricht alle andere taken die hem door de Plenipotentiaire Conferentie worden opgedragen.
 
-**70 PP-98** 2) De Raad bestudeert brede beleidsvraagstukken op telecommunicatie-gebied, overeenkomstig de richtlijnen van de Plenipotentiaire Conferentie teneinde er zorg voor te dragen dat het beleid en de strategie van de Unie volledig zijn afgestemd op de voortdurende veranderingen op telecommunicatiegebied, en stelt een rapport op met betrekking tot de voor de Unie aanbevolen beleidslijnen en strategische planning, tezamen met de financiële consequenties daarvan. Hiertoe maakt de Raad gebruik van de door de Secretaris-Generaal ingevolge nummer 74A opgestelde stukken.
+**70 PP-98** 2) De Raad bestudeert brede beleidsvraagstukken op telecommunicatiegebied, overeenkomstig de richtsnoeren van de Plenipotentiaire Conferentie, teneinde er zorg voor te dragen dat het beleid en de strategie van de Unie volledig zijn afgestemd op de veranderingen op telecommunicatiegebied.
+
+**70A** 2**bis.** De Raad stelt een rapport op inzake de voor de Unie aanbevolen beleidslijnen en strategische planning, tezamen met de financiële gevolgen hiervan, waarbij de Raad gebruik maakt van de door de Secretaris-Generaal ingevolge nummer 74A samengestelde gegevens.
 
 **71** 3) De Raad draagt zorg voor de efficiënte coördinatie van de werkzaamheden van de Unie en oefent een doeltreffende financiële controle uit op het Algemeen Secretariaat en de drie Sectoren.
 
@@ -246,7 +248,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **74 PP-98** a. het coördineren van de activiteiten van de Unie, met behulp van het Coördinatiecomité;
 
-**74A PP-98** b. het opstellen, met behulp van het Coördinatiecomité, van stukken benodigd voor de opstelling van een rapport inzake het beleid en het strategische plan voor de Unie en het coördineren van de uitvoering van het plan;
+**74A PP-98** **b.** het samenstellen, met behulp van het Coördinatiecomité, en aan de Lidstaten en Sectorleden verstrekken van die specifieke informatie welke benodigd is voor de opstelling van een rapport inzake het beleid en het strategisch plan voor de Unie en het coördineren van de uitvoering van het plan; dit verslag wordt ter toetsing gedurende de laatste twee regulier geplande zittingen van de Raad voor een plenipotentiaire conferentie aan de Lidstaten en Sectorleden medegedeeld;
 
 **75 PP-98** c. het nemen van alle maatregelen die nodig zijn om het economisch gebruik van de middelen van de Unie te waarborgen en het afleggen van verantwoording aan de Raad voor alle administratieve en financiële aspecten van de activiteiten van de Unie;
 
@@ -306,7 +308,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **94** 2. De taken van de Radioreguleringsraad bestaan uit:
 
-**95 PP-98** a. het goedkeuren van het reglement van orde, dat technische criteria bevat, in overeenstemming met het Radioreglement en met de door de bevoegde radiocommunicatieconferenties genomen besluiten. Dit reglement van orde wordt door de directeur en het Bureau gebruikt bij de toepassing van het Radioreglement voor het registreren van door de Lidstaten toegewezen frequenties. De administraties kunnen commentaar leveren op het reglement van orde en, indien overeenstemming uitblijft, wordt de zaak voorgelegd aan een volgende mondiale radiocommunicatieconferentie;
+**95 PP-98** **a.** het goedkeuren van het reglement van orde, dat technische criteria bevat, in overeenstemming met het Radioreglement en met de door de bevoegde radiocommunicatieconferenties genomen besluiten. Dit reglement van orde wordt door de directeur en het Bureau gebruikt bij de toepassing van het Radioreglement voor het registreren van door de Lidstaten toegewezen frequenties. Dit reglement van orde wordt op doorzichtige wijze opgesteld en de administraties kunnen er commentaar op leveren en, indien overeenstemming uitblijft, wordt de zaak voorgelegd aan een volgende mondiale radiocommunicatieconferentie;
 
 **96** b. het bestuderen van elke andere aangelegenheid die niet kan worden opgelost door middel van de toepassing van bovengenoemd reglement van orde;
 
@@ -436,7 +438,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **145** De taken van de directeur van het Telecommunicatie-ontwikkelingsbureau zijn vermeld in het Verdrag.
 
-### HOOFDSTUK V. OVERIGE BEPALINGEN BETREFFENDE HET FUNCTIONEREN VAN DE UNIE
+### HOOFDSTUK IVA. WERKMETHODEN VAN DE SECTOREN
 
 ##### Artikel 25. Wereldconferenties voor internationale telecommunicatie
 
@@ -480,7 +482,13 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **159C PP-98** 2bis Elke Lidstaat en elk Sectorlid betaalt een bedrag dat gelijk is aan het aantal eenheden dat overeenkomt met de door hem in overeenstemming met nummer 160 tot en met 161I gekozen contributieklasse.
 
-**159D PP-98** 2ter De uitgaven voor de in nummer 43 van dit Statuut bedoelde regionale conferenties worden, in overeenstemming met hun contributieklasse, gedragen door alle Lidstaten van de betrokken regio en, indien van toepassing, op dezelfde basis door Lidstaten van andere regio's die aan deze conferenties hebben deelgenomen.
+**159D PP-98** **2ter** De uitgaven voor de in nummer 43 van dit Statuut bedoelde regionale conferenties worden gedragen door:
+
+**159E** **a.** alle Lidstaten van de betrokken regio, in overeenstemming met hun contributieklasse;
+
+**159F** **b.** door Lidstaten van andere regio’s die aan deze conferenties hebben deelgenomen, in overeenstemming met hun contributieklasse;
+
+**159G** **c.** door geautoriseerde Sectorleden en andere geautoriseerde organisaties die aan deze conferenties hebben deelgenomen, in overeenstemming met de bepalingen van het Verdrag.
 
 **160 PP-98** 3. 1) De Lidstaten en Sectorleden zijn vrij in de keuze van hun contributieklasse voor hun bijdrage in de kosten van de Unie.
 
@@ -494,7 +502,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **161D PP-98** 3) De Plenipotentiaire Conferentie stelt, in haar eerste week, de voorlopige bovengrens van het bedrag van de contributie-eenheid vast dat resulteert uit de door de Secretaris-Generaal ingevolge de nummers 161B en 161C genomen stappen, en waarbij rekening wordt gehouden met de door de Lidstaten aan de Secretaris-Generaal bekendgemaakte wijzigingen van de contributieklasse alsmede met contributieklassen die ongewijzigd zijn gebleven.
 
-**161E PP-98** 4) Aan de hand van het voorlopige financiële plan zoals herzien, stelt de Plenipotentiaire Conferentie de definitieve bovengrens van het bedrag van de contributie-eenheid vast. Vervolgens verzoekt de Secretaris-Generaal de Lidstaten, voor het einde van de voorlaatste week van de Plenipotentiaire Conferentie, hun definitieve keuze van de contributieklasse bekend te maken.
+**161E PP-98** 4) Aan de hand van het voorlopige financiële plan zoals herzien, stelt de Plenipotentiaire Conferentie zo spoedig mogelijk de definitieve bovengrens van het bedrag van de contributie-eenheid vast en stelt zij een datum vast, die valt binnen de voorlaatste week van de Plenipotentiaire Conferentie, waarop de Lidstaten, op verzoek van de Secretaris-Generaal, hun definitieve keuze van de contributieklasse bekendmaken.
 
 **161F PP-98** 5) Lidstaten die hebben verzuimd de Secretaris-Generaal op de door de Plenipotentiaire Conferentie vastgestelde datum van hun besluit kennis te geven, behouden de eerder gekozen contributieklasse.
 
@@ -538,15 +546,13 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **175** De zetel van de Unie bevindt zich te Genève.
 
-##### Artikel 31. Rechtsbevoegdheid
+**145A** De radiocommunicatie-assemblee, de mondiale telecommunicatiestandaardisatie-assemblee en de mondiale telecommunicatie-ontwikkelingsconferentie kunnen werkmethoden en procedures voor het beheer van de activiteiten van hun respectieve Sectoren opstellen en aannemen. Deze werkmethoden en procedures moeten verenigbaar zijn met dit Statuut, met het Verdrag en met de Administratieve Reglementen, en in het bijzonder met de nummers 246D tot en met 246H van het Verdrag.
 
-**176 PP-98** De Unie beschikt op het grondgebied van elk van haar Lidstaten over de rechtsbevoegdheid die zij nodig heeft voor de uitoefening van haar taken en de verwezenlijking van haar doelen.
+##### Artikel 32. Algemene Regels voor conferenties, assemblees en vergaderingen van de Unie
 
-##### Artikel 32. Reglement van orde van conferenties en andere vergaderingen
+**177 PP-98** 1. De Algemene Regels voor conferenties, assemblees en vergaderingen van de Unie die door de Plenipotentiaire Conferentie worden aangenomen, zijn van toepassing op de voorbereiding van conferenties en assemblees en op de organisatie van de werkzaamheden en het voeren van besprekingen in het kader van conferenties, assemblees en vergaderingen van de Unie, alsmede op de verkiezing van de Lidstaten van de Raad, van de Secretaris-Generaal, van de plaatsvervangend Secretaris-Generaal, van de Directeuren van de Bureaus van de Sectoren en van de leden van de Radioreguleringsraad.
 
-**177 PP-98** 1. Voor de organisatie van hun werkzaamheden en het voeren van besprekingen, passen conferenties en andere vergaderingen van de Unie het door de Plenipotentiaire Conferentie aangenomen reglement van orde van conferenties en andere vergaderingen van de Unie toe.
-
-**178 PP-98** 2. De conferenties, assemblees en de Raad kunnen in aanvulling op het reglement van orde andere, door hen noodzakelijk geachte regels aannemen. Deze aanvullende regels moeten evenwel verenigbaar zijn met dit Statuut, het Verdrag en het in nummer 177 bedoelde reglement van orde; aanvullende regels die door conferenties of assemblees worden aangenomen, worden gepubliceerd als documenten van de desbetreffende conferentie of assemblee.
+**178 PP-98** 2. De conferenties, assemblees en de Raad kunnen in aanvulling op de regels van Hoofdstuk II van de Algemene Regels voor conferenties, assemblees en vergaderingen van de Unie, door hen noodzakelijk geachte regels aannemen. Deze aanvullende regels moeten evenwel verenigbaar zijn met dit Statuut, met het Verdrag en met eerdergenoemd Hoofdstuk II; aanvullende regels die door conferenties of assemblees worden aangenomen, worden gepubliceerd als documenten van de desbetreffende conferentie of assemblee.
 
 ### HOOFDSTUK VI. ALGEMENE BEPALINGEN BETREFFENDE TELECOMMUNICATIE
 
@@ -608,9 +614,9 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 ### HOOFDTUK VII. BIJZONDERE BEPALINGEN VOOR RADIOCOMMUNICATIE
 
-##### Artikel 44. PP-98 Gebruik van het radiofrequentiespectrum en van de geostationaire satellietomloopposities en andere satellietomloopposities
+##### Artikel 44. Gebruik van het radiofrequentiespectrum en van de geostationaire satellietomloopposities en andere satellietomloopposities
 
-**195** 1. De Leden ***Noot van het Algemeen Secretariaat:** „Leden" moet luiden „Lidstaten".streven ernaar het aantal frequenties en het gebruikte spectrum te beperken tot het minimum dat nodig is om de nodige diensten op een behoorlijke wijze te verlenen. Hiertoe streven zij ernaar zo snel mogelijk de laatste technische vernieuwingen toe te passen.
+**195** 1. De Lidstaten streven ernaar het aantal frequenties in het gebruikte spectrum te beperken tot het minimum dat nodig is om de nodige diensten op een behoorlijke wijze te verlenen. Hiertoe streven zij ernaar zo snel mogelijk de laatste technische vernieuwingen toe te passen.
 
 **196 PP-98** 2. Bij het gebruik van frequentiebanden voor radiodiensten houden de Lidstaten er rekening mee dat radiofrequenties en bijbehorende banen, met inbegrip van geostationaire satellietomloopposities, beperkte natuurlijke hulpbronnen zijn die, overeenkomstig de bepalingen van het Radioreglement, op rationele, doeltreffende en economische wijze moeten worden gebruikt, zodat landen of groepen van landen billijk toegang tot deze omloopposities en frequenties kunnen krijgen, met inachtneming van de bijzondere behoeften van ontwikkelingslanden en de geografische situatie van sommige landen.
 
@@ -646,7 +652,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 ##### Artikel 50. Betrekkingen met andere internationale organisaties
 
-**206** Ter bevordering van volledige internationale coördinatie van aangelegenheden die betrekking hebben op telecommunicatie, werkt de Unie samen met internationale organisaties met aanverwante belangen en activiteiten.
+**206** Ter bevordering van volledige internationale coördinatie van aangelegenheden die betrekking hebben op telecommunicatie, moet de Unie samenwerken met internationale organisaties met aanverwante belangen en activiteiten.
 
 ##### Artikel 51. Betrekkingen met niet-Lidstaten
 
@@ -704,7 +710,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 ##### Artikel 55. Bepalingen voor het wijzigen van dit Statuut
 
-**224 PP-98** 1. Elke Lidstaat kan wijzigingen van dit Statuut voorstellen. Teneinde de tijdige verzending aan en bestudering door alle Lidstaten van een voorstel te waarborgen, moet dit door de Secretaris-Generaal uiterlijk acht maanden voor de vastgestelde openingsdatum van de Plenipotentiaire Conferentie zijn ontvangen. De Secretaris-Generaal zendt het voorstel zo snel mogelijk, doch uiterlijk zes maanden voorafgaand aan laatstgenoemde datum, door aan alle Lidstaten.
+**224 PP-98** 1. Elke Lidstaat kan wijzigingen van dit Statuut voorstellen. Teneinde de tijdige verzending aan en bestudering dooralle Lidstaten van een voorstel te waarborgen, moet dit door de Secretaris-Generaal uiterlijk acht maanden voor de vastgestelde openingsdatum van de Plenipotentiaire Conferentie zijn ontvangen. De Secretaris-Generaal publiceert het voorstel zo snel mogelijk, doch uiterlijk zes maanden voorafgaand aan het laatstgenoemde datum, ter kennisgeving aan alle Lidstaten.
 
 **225 PP-98** 2. Elke voorgestelde aanpassing van een in overeenstemming met nummer 224 ingediende wijziging kan, evenwel, te allen tijde door een Lidstaat of door zijn delegatie tijdens de Plenipotentiaire Conferentie worden ingediend.
 
@@ -712,7 +718,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **227** 4. Om te worden aangenomen moet een voorgestelde aanpassing van een voorgestelde wijziging alsmede het voorstel in zijn geheel, al dan niet aangepast, tijdens een plenaire vergadering worden goedgekeurd door ten minste tweederde van de bij de bij de Plenipotentiaire Conferentie geaccrediteerde delegaties die stemrecht hebben.
 
-**228 PP-98** 5. Tenzij in de voorgaande leden van dit artikel, die doorslaggevend zijn, anders is vermeld, zijn de algemene bepalingen inzake conferenties en het reglement van orde van conferenties en andere vergaderingen van toepassing.
+**228 PP-98** 5. Tenzij in de voorgaande leden van dit Artikel, die doorslaggevend zijn, anders is vermeld, zijn de Algemene Regels voor conferenties, assemblees en vergaderingen van de Unie van toepassing.
 
 **229 PP-98** 6. Door een Plenipotentiaire Conferentie aangenomen wijzigingen van dit Statuut worden, in hun geheel en in de vorm van een enkele akte van wijziging, op een door de conferentie vastgestelde datum van kracht tussen de Lidstaten die voor die datum hun akte van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot zowel dit Statuut als de akte van wijziging hebben nedergelegd. De bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot slechts een gedeelte van deze akte van wijziging is uitgesloten.
 
@@ -738,7 +744,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 ##### Artikel 58. Inwerkingtreding en aanverwante aangelegenheden
 
-**238** 1. Dit Statuut en het Verdrag treden op 1 juli 1994 in werking tussen de Lidstaten die voor die datum hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd. ***Noot van het Algemeen Secretariaat:** De door de Plenipotentiaire Conferentie van Kyoto (1994) en door de Plenipotentiaire Conferentie van Minneapolis (1998) aangenomen wijzigingen van het Statuut en het Verdrag zijn respectievelijk op 1 januari 1996 en 1 januari 2000 in werking getreden tussen de Lidstaten die op die tijdstippen partij waren bij het Statuut en het Verdrag en vóór die respectieve data hun akte van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot de akten van wijziging hebben nedergelegd.
+**238** 1. Dit Statuut en het Verdrag, aangenomen door de aanvullende Plenipotentiaire Conferentie (Genève, 1992), treden op 1 juli 1994 in werking tussen de Lidstaten die voor die datum hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd.
 
 **239** 2. Op de in nummer 238 bedoelde datum van inwerkingtreding wordt het Verdrag inzake internationale telecommunicatie (Nairobi, 1982) door dit Statuut en het Verdrag opgeheven en vervangen.
 
@@ -930,7 +936,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **82** 16) het aan de Plenipotentiaire Conferentie voorleggen van een rapport inzake de werkzaamheden van de Unie sinds de voorgaande Plenipotentiaire Conferentie en van alle passende aanbevelingen.
 
-### AFDELING 3
+### AFDELING 2
 
 ##### Artikel 5. Algemeen Secretariaat
 
@@ -986,7 +992,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **105** 2. De Secretaris-Generaal of de plaatsvervangend Secretaris-Generaal kan, in de hoedanigheid van adviseur, deelnemen aan conferenties van de Unie; de Secretaris-Generaal of diens vertegenwoordiger kan, in de hoedanigheid van adviseur, deelnemen aan alle andere vergaderingen van de Unie.
 
-### AFDELING 4
+### AFDELING 3
 
 ##### Artikel 6. Coördinatiecomité
 
@@ -1002,7 +1008,7 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 **111** 4. Van de werkzaamheden van het Coördinatiecomité wordt een verslag gemaakt dat op verzoek aan de Leden van de Raad***Noot van het Algemeen Secretariaat:** „Leden van de Raad" moet luiden „Lidstaten van de Raad". beschikbaar wordt gesteld.
 
-### AFDELING 5. RADIOCOMMUNICATIESECTOR
+### AFDELING 4
 
 ##### Artikel 7. Mondiale radiocommunicatieconferenties
 
@@ -1118,11 +1124,13 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 ##### Artikel 11A. PP-98 Radiocommunicatie-adviesgroep
 
-**160A PP-98** 1. De radiocommunicatie-adviesgroep staat open voor vertegenwoordigers van de administraties van Lidstaten en vertegenwoordigers van Sectorleden en voorzitters van de studiegroepen, en treedt op de via de directeur.
+**160A PP-98** 1 De radiocommunicatie-adviesgroep staat open voor vertegenwoordigers van administraties van Lidstaten en vertegenwoordigers van Sectorleden en voor voorzitters van de studiegroepen en andere groepen, en treedt op via de directeur.
 
 **160B PP-98** 2. De radiocommunicatie-adviesgroep:
 
-**160C PP-98** 1) beoordeelt prioriteiten, programma's, activiteiten, financiële aangelegenheden en strategieën met betrekking tot radiocommunicatie-assemblees, studiegroepen en de voorbereiding van radiocommunicatieconferenties en eventuele door een conferentie van de Unie, een radiocommunicatie-assemblee of de Raad opgedragen specifieke aangelegenheden;
+**160C PP-98** 1) beoordeelt prioriteiten, programma’s, activiteiten, financiële aangelegenheden en strategieën met betrekking tot radiocommunicatie-assemblees, studiegroepen en andere groepen en de voorbereiding van radiocommunicatieconferenties en eventuele door een conferentie van de Unie, een radiocommunicatie-assemblee of de Raad opgedragen specifieke aangelegenheden;
+
+**160CA** 1**bis)** beoordeelt de interpretatie van het operationele plan van het voorgaande tijdvak teneinde gebieden te onderkennen waarop het Bureau de in het plan vervatte doeleinden niet heeft verwezenlijkt of niet in staat was deze te verwezenlijken, en adviseert de Directeur bij het nemen van de benodigde corrigerende maatregelen;
 
 **160D PP-98** 2) beoordeelt de vooruitgang van de uitvoering van het ingevolge nummer 132 van dit Verdrag opgestelde werkprogramma;
 
@@ -1133,6 +1141,8 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 **160G PP-98** 5) neemt zijn eigen werkprocedures aan, die verenigbaar zijn met de door de radiocommunicatie-assemblee aangenomen werkprocedures;
 
 **160H PP-98** 6) stelt een rapport op voor de directeur van het Radiocommunicatiebureau waarin maatregelen met betrekking tot bovengenoemde punten worden aangegeven.
+
+**160I** 7) stelt een rapport op voor de Radiocommunicatie-assemblee betreffende aangelegenheden die hem in overeenstemming met nummer 137A van dit Verdrag worden opgedragen en zendt dit naar de Directeur met het oog op voorlegging aan de assemblee.
 
 ##### Artikel 12. Radiocommunicatiebureau
 
@@ -1228,11 +1238,13 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 ##### Artikel 14A. PP-98 Telecommunicatiestandaardisatie-adviesgroep
 
-**197A PP-98** 1. De telecommunicatiestandaardisatie-adviesgroep staat open voor vertegenwoordigers van administraties van Lidstaten en vertegenwoordigers van Sectorleden en voorzitters van de studiegroepen.
+**197A PP-98** 1 De telecommunicatiestandaardisatie-adviesgroep staat open voor vertegenwoordigers van administraties van Lidstaten en vertegenwoordigers van Sectorleden en voor voorzitters van de studiegroepen en andere groepen.
 
 **197B PP-98** 2. De telecommunicatiestandaardisatie-adviesgroep:
 
 **197C PP-98** 1) beoordeelt prioriteiten, programma' s, activiteiten, financiële aangelegenheden en strategieën voor activiteiten in de Telecommunicatiestandaardisatiesector;
+
+**197CA** 1**bis)** beoordeelt de interpretatie van het operationele plan van het voorgaande tijdvak teneinde gebieden te onderkennen waarop het Bureau de in het plan vervatte doeleinden niet heeft verwezenlijkt of niet in staat was deze te verwezenlijken, en adviseert de Directeur bij het nemen van de benodigde corrigerende maatregelen;
 
 **197D PP-98** 2) beoordeelt de voortgang van de uitvoering van het ingevolge nummer 188 van dit Verdrag ingestelde werkprogramma;
 
@@ -1304,11 +1316,13 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 
 ##### Artikel 17A. PP-98 Telecommunicatie-ontwikkelingsadviesgroep
 
-**215C PP-98** 1. De telecommunicatie-ontwikkelingsadviesgroep staat open voor vertegenwoordigers van de administraties van Lidstaten en vertegenwoordigers van Sectorleden en voor voorzitters en vice-voorzitters van de studiegroepen.
+**215C PP-98** 1. De telecommunicatie-ontwikkelingsadviesgroep staat open voor vertegenwoordigers van administraties van Lidstaten en vertegenwoordigers van Sectorleden en voor voorzitters en vice-voorzitters van studiegroepen en andere groepen.
 
 **215D PP-98** 2. De telecommunicatie-ontwikkelingsadviesgroep:
 
 **215E PP-98** 1) beoordeelt prioriteiten, programma's, activiteiten, financiële aangelegenheden en strategieën met betrekking tot activiteiten in de Telecommunicatie-ontwikkelingssector;
+
+**215EA** 1**bis)** beoordeelt de implementatie van het operationele plan van het voorgaande tijdvak teneinde gebieden te onderkennen waarop het Bureau de in het plan vervatte doeleinden niet heeft verwezenlijkt of niet in staat was deze te verwezenlijken, en adviseert de Directeur bij het nemen van de benodigde corrigerende maatregelen.
 
 **215F PP-98** 2) beoordeelt de voortgang van de uitvoering van het ingevolge nummer 209 van dit Verdrag opgestelde werkprogramma;
 
@@ -1319,6 +1333,8 @@ Betreft de Nederlandse tekst van het Statuut en het Verdrag van de International
 **215I PP-98** 5) neemt zijn eigen werkprocedures aan, die verenigbaar zijn met de door de mondiale telecommunicatie-ontwikkelingsconferentie aangenomen werkprocedures;
 
 **215J PP-98** 6) stelt een rapport op voor de directeur van het Telecommunicatie-ontwikkelingsbureau waarin maatregelen met betrekking tot bovengenoemde punten worden aangegeven;
+
+**215JA** 6**bis**) stelt een rapport op voor de mondiale telecommunicatie-ontwikkelingsconferentie betreffende aangelegenheden die hem in overeenstemming met nummer 213A van dit Verdrag worden opgedragen en zendt dit naar de Directeur met het oog op voorlegging aan de conferentie.
 
 **215K PP-98** 3. Vertegenwoordigers van organisaties voor bilaterale samenwerking en ontwikkelingshulp en multilaterale ontwikkelingsorganisaties kunnen door de directeur worden uitgenodigd deel te nemen aan de vergaderingen van de adviesgroep.
 
