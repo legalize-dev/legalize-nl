@@ -4,7 +4,7 @@ identifier: "BWBR0024676"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-11-26"
-last_updated: "2008-11-11"
+last_updated: "2008-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024676"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ Ter uitvoering van dit besluit stelt de zorgautoriteit regels en beleidsregels v
 
 De zorgautoriteit:
 
-- a. voert met ingang van 1 januari 2009 voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=2&z=2008-11-11&g=2008-11-11) bedoelde zorg geleverd door intramurale zorgaanbieders als bedoeld in [artikel 1, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=1&z=2008-11-11&g=2008-11-11), die ultimo 2008 waren toegelaten op grond van de Wet toelating zorgaanbieders en die voor 2008 productieafspraken hebben gemaakt met een zorgkantoor, een bekostigingssystematiek in waarbij:
+- a. voert met ingang van 1 januari 2009 voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=2&z=2008-11-26&g=2008-11-26) bedoelde zorg geleverd door intramurale zorgaanbieders als bedoeld in [artikel 1, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=1&z=2008-11-26&g=2008-11-26), die ultimo 2008 waren toegelaten op grond van de Wet toelating zorgaanbieders en die voor 2008 productieafspraken hebben gemaakt met een zorgkantoor, een bekostigingssystematiek in waarbij:
 
 - 1. de prestatiebeschrijvingen zijn gebaseerd op zorgzwaartepakketten, verder aan te duiden als ZZP’s, met uitzondering van de prestatiebeschrijvingen voor KIB’s, kinder- en jeugdpsychiatrie, observatie, MFC’s, tijdelijk verblijf en afwezigheid;
 
@@ -118,7 +118,7 @@ De zorgautoriteit:
 
 ##### Artikel 4. Budgettaire neutraliteit
 
-De zorgautoriteit hanteert bij het vaststellen van de prestatiebeschrijvingen en ZZP-tarieven, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=3&z=2008-11-11&g=2008-11-11), het budget dat beschikbaar is voor de productieafspraken op grond van de oude bekostigingsparameters, daarboven komen de extra middelen voor de kwaliteitszorg € 246 miljoen voor de V&V en € 42 miljoen voor de gehandicaptenzorg.
+De zorgautoriteit hanteert bij het vaststellen van de prestatiebeschrijvingen en ZZP-tarieven, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=3&z=2008-11-26&g=2008-11-26), het budget dat beschikbaar is voor de productieafspraken op grond van de oude bekostigingsparameters, daarboven komen de extra middelen voor de kwaliteitszorg € 246 miljoen voor de V&V en € 42 miljoen voor de gehandicaptenzorg.
 
 ##### Artikel 5. Herallocatie
 
@@ -126,7 +126,7 @@ De zorgautoriteit hanteert bij het vaststellen van de prestatiebeschrijvingen en
 
 2. De budgetbasis die de intramurale zorgaanbieders met hun zorgkantoor afspreken wordt in 2009 gebaseerd op oude parameters.
 
-3. De zorgautoriteit stelt in de budgetronde van maart 2009 per intramurale zorgaanbieder die de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=2&z=2008-11-11&g=2008-11-11) bedoelde zorg levert een herallocatiebedrag vast.
+3. De zorgautoriteit stelt in de budgetronde van maart 2009 per intramurale zorgaanbieder die de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=2&z=2008-11-26&g=2008-11-26) bedoelde zorg levert een herallocatiebedrag vast.
 
 4. Het op grond van het vorige lid vastgestelde herallocatiebedrag geldt voor de desbetreffende intramurale zorgaanbieder voor de gehele herallocatieperiode.
 
@@ -158,7 +158,7 @@ De zorgautoriteit hanteert bij het vaststellen van de prestatiebeschrijvingen en
 
 2. De bedragen bedoeld in het eerste lid worden aangevuld met 0,25% van de een-procent-marge-regeling van de contracteerruimte.
 
-3. Indien de vaststelling van het herallocatiebedrag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=5&z=2008-11-11&g=2008-11-11), leidt tot de situatie dat er voor de intramurale zorgaanbieder sprake is van opbouw, worden de in het eerste lid bedoelde bedragen door de zorgautoriteit volgens een door die autoriteit ontwikkelde verdeelnorm ingezet voor de opbouw bij die zorgaanbieders.
+3. Indien de vaststelling van het herallocatiebedrag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=5&z=2008-11-26&g=2008-11-26), leidt tot de situatie dat er voor de intramurale zorgaanbieder sprake is van opbouw, worden de in het eerste lid bedoelde bedragen door de zorgautoriteit volgens een door die autoriteit ontwikkelde verdeelnorm ingezet voor de opbouw bij die zorgaanbieders.
 
 4. Voor het jaar 2011 en volgende kan de zorgautoriteit op grond van door haar aan te geven bijzondere omstandigheden op de intramurale zorgaanbieder die meer dan dertien procent ten opzichte van haar budgetbasis moet opbouwen een maatwerkregeling toepassen.
 
@@ -170,7 +170,7 @@ De zorgautoriteit hanteert bij het vaststellen van de prestatiebeschrijvingen en
 
 - a. de ZZP’s en ZZP-tarieven voor de sector Geestelijke Gezondheidszorg onvoldoende stabiel zijn om daarop de herallocatie te baseren, het (tempo van het) herallocatietraject in die sector kan worden heroverwogen;
 
-- b. in de sector Gehandicaptenzorg de herallocatiestap als bedoeld in [artikel 6, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=6&z=2008-11-11&g=2008-11-11), in het jaar 2011 niet haalbaar is, het (tempo van het) herallocatietraject in die sector kan worden heroverwogen.
+- b. in de sector Gehandicaptenzorg de herallocatiestap als bedoeld in [artikel 6, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=6&z=2008-11-26&g=2008-11-26), in het jaar 2011 niet haalbaar is, het (tempo van het) herallocatietraject in die sector kan worden heroverwogen.
 
 2. De zorgautoriteit bericht mij tijdig over de resultaten van de onderzoeken, bedoeld in het vorige lid, en stelt mij daarbij een herzien herallocatietraject voor. De nadere keuze over de herziening van een herallocatietraject zal ik aan de zorgautoriteit bekend maken bij brief, waarvan ik een afschrift stuur aan beide Kamers der Staten-Generaal.
 
@@ -212,13 +212,13 @@ De zorgautoriteit stelt een prestatiebeschrijving vast ten behoeve van de bepali
 
 ##### Artikel 13. Kinderen en jeugdigen in de intramurale GGZ
 
-1. De invoering van een bekostigingssysteem op basis van ZZP’s en ZZP-tarieven is niet van toepassing voor intramurale zorgaanbieders als bedoeld in [artikel 1, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=1&z=2008-11-11&g=2008-11-11), die zorg leveren voor kinderen en jeugdigen in de sector Geestelijke Gezondheidszorg.
+1. De invoering van een bekostigingssysteem op basis van ZZP’s en ZZP-tarieven is niet van toepassing voor intramurale zorgaanbieders als bedoeld in [artikel 1, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=1&z=2008-11-26&g=2008-11-26), die zorg leveren voor kinderen en jeugdigen in de sector Geestelijke Gezondheidszorg.
 
 2. De zorgautoriteit doet onderzoek naar een passende wijze van bekostiging van deze in het vorige lid genoemde cliëntengroepen, bericht mij tijdig over de resultaten van dat onderzoek en doet mij daarbij een voorstel. Mijn beslissing over de invoering van een andere wijze van bekostiging zal ik aan de zorgautoriteit bekend maken bij brief, waarvan ik een afschrift stuur aan beide Kamers der Staten-Generaal.
 
 ##### Artikel 14. Toeslagen WO II
 
-De zorgautoriteit voorziet door middel van een toeslag per individuele verzekerde, in de vorm van een vast tarief als bedoeld in [artikel 57, vierde lid, onder a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57), in de bekostiging van:
+De zorgautoriteit voorziet door middel van individuele component, in de bekostiging van:
 
 - a. bijzondere kosten voor bewoners van Joodse Verzorgingshuizen die te maken hebben met de verwerking van de gevolgen van ervaringen in de Tweede Wereld Oorlog en
 
