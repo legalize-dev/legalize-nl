@@ -161,13 +161,3 @@ De [Regeling eigen bijdrage asielzoekers met inkomen en vermogen](https://wetten
 Deze regeling wordt aangehaald als: Regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst.
-
-##### Artikel 7a
-
-1. [Artikel 1, eerste lid, onder d en f, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=1) en [artikel 3, tweede en derde lid van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=3) zijn van overeenkomstige toepassing.
-
-2. Indien het college overeenkomstig [artikel 22a van de Regeling verstrekkingen asielzoekers en andere categorieën 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=22a) een opvangvoorziening exploiteert zijn de [artikelen 1 tot en met 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=1&artikel=1&z=2024-02-01&g=2024-02-01), van toepassing.
-
-### Hoofdstuk 3. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst.
