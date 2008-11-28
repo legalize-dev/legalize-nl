@@ -4,7 +4,7 @@ identifier: "BWBR0007549"
 country: "nl"
 rank: "pbo"
 publication_date: "2015-03-26"
-last_updated: "2008-07-01"
+last_updated: "2008-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007549"
 soort: "pbo"
@@ -44,7 +44,7 @@ De aanwijzing en voorschriften als bedoeld in [artikel 15a, tweede lid](https://
 
 In dit besluit wordt verstaan onder:
 
-- a. organisatie: de organisatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2000-03-22&g=2008-07-01);
+- a. organisatie: de organisatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2008-11-28&g=2008-11-28);
 
 - b. samenwerkingsverband: een samenwerkingsverband als bedoeld in artikel 2 van de Dienstverleningsverordening registerloodsen;
 
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 2. De organisatie brengt ten laste van ieder samenwerkingsverband in de verhouding als omschreven in het eerste lid de volgende lasten:
 
-- a. De kosten van het funktioneel leeftijdspensioen voor voormalige registerloodsen en de kosten van het krachtens collectieve arbeidsovereenkomst toegekende recht op funktioneel leeftijdsontslag van het personeel, belast met de uitvoering van de taken als bedoeld in onderdeel c;
+- a. De kosten van het functioneel leeftijdspensioen voor voormalige registerloodsen, de kosten van het krachtens collectieve arbeidsovereenkomst toegekende recht op functioneel leeftijdsontslag van het personeel belast met de uitvoering van de taken als bedoeld in onderdeel c en de reserveringen met betrekking tot het functioneel leeftijdspensioen en functioneel leeftijdsontslag bedoeld in de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&artikel=7a) en [8a van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&artikel=8a);
 
 - b. Het budget van de Nederlandse loodsencorporatie ter vergoeding van:
 
@@ -74,31 +74,29 @@ In dit besluit wordt verstaan onder:
 
 - d. Vergoedingen ten behoeve van registerloodsen ter zake van:
 
-- 1°. verrichtingen;
+- 1°. directe productieve loodstaken als bedoeld in de [Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548);
 
-- 2°. loodsen vanaf de wal;
+- 2°. indirecte productieve loodstaken als bedoeld in de [Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548);
 
-- 3°. afbestellingen;
+- 3°. aanspraken waarop krachtens een wettelijk voorschrift een beroep kan worden gedaan.
 
-- 4°. vergoedingen als bedoeld in [artikel 10, tweede lid, van het Loodsgeldbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007342&artikel=10);
+- e. Vervallen.
 
-- e. De voeding van het bufferfonds.
+3. De organisatie draagt zorg voor de uit de lasten, genoemd in het tweede lid, voortvloeiende betalingen, met inachtneming van de regels, vastgesteld bij de verordening als bedoeld in [artikel 26, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=26) en draagt er zorg voor dat de reservering met betrekking tot het functioneel leeftijdsontslag als bedoeld in onderdeel a volgens het door de raad van bestuur van de NMa op grond van [artikel 27e, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27e) vastgestelde schema wordt gestort in het daarvoor krachtens [artikel 8a van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&artikel=8a) aangewezen fonds dan wel voorziening. De volgorde van de opsomming van de lasten, genoemd in het tweede lid, is tevens de rangorde van de betalingen.
 
-3. De organisatie draagt zorg voor de uit de lasten, genoemd in het tweede lid, voortvloeiende betalingen, met inachtneming van de regels, vastgesteld bij de verordening als bedoeld in [artikel 26, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=26). De volgorde van de opsomming van de lasten, genoemd in het tweede lid, is tevens de rangorde van de betalingen.
-
-4. De betalingen betreffende het funktioneel leeftijdspensioen geschieden aan de bij verordening aangewezen rechtspersoon belast met de uitkering van het funktioneel leeftijdspensioen aan voormalige registerloodsen. De betalingen betreffende het funktioneel leeftijdsontslag geschieden aan de betrokken rechthebbende met ingang van de maand volgende op de maand waarin betrokkene de voor hem bepaalde leeftijdsgrens wegens funktioneel leeftijdsontslag heeft bereikt en uit dien hoofde de betreffende arbeisovereenkomst is beëindigd. Betaling eindigt per eerste van de maand volgende op die, waarin betrokkene de leeftijd van vijfenzestig jaar heeft bereikt.
+4. De betalingen betreffende het functioneel leeftijdspensioen en de betaling betreffende de reservering bedoeld in [artikel 7a van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&artikel=7a) geschieden volgens het door de raad van bestuur van de NMa op grond van [artikel 27e, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27e) vastgestelde schema aan de bij verordening aangewezen rechtspersoon belast met de uitkering van het functioneel leeftijdspensioen aan voormalige registerloodsen. De betalingen betreffende het funktioneel leeftijdsontslag geschieden aan de betrokken rechthebbende met ingang van de maand volgende op de maand waarin betrokkene de voor hem bepaalde leeftijdsgrens wegens funktioneel leeftijdsontslag heeft bereikt en uit dien hoofde de betreffende arbeisovereenkomst is beëindigd. Betaling eindigt per eerste van de maand volgende op die, waarin betrokkene de leeftijd van vijfenzestig jaar heeft bereikt.
 
 5. De betalingen ten aanzien van het budget van de Nederlandse loodsencorporatie, bedoeld in het tweede lid, onderdeel b, geschieden aan de Nederlandse loodsencorporatie.
 
 6. De vergoedingen, bedoeld in het tweede lid, onderdeel d, komen ten gunste van het betreffende samenwerkingsverband.
 
-7. De betaling van het bedrag, bedoeld in het tweede lid, onderdeel e, geschiedt aan de rechtspersoon die is belast met het beheer van dat bufferfonds.
+7. Vervallen.
 
 8. De vergoeding als bedoeld in [artikel 13, derde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=13) wordt, op verzoek van de betreffende regionale loodsencorporatie, geïnd door de organisatie en betaald aan het betreffende samenwerkingsverband.
 
 ##### Artikel 4
 
-De algemene raad is gerechtigd op kosten van de organisatie het nodige te doen verrichten hetgeen in strijd met het bepaalde bij of krachtens dit besluit geschiedt of wordt nagelaten. De algemene raad kan de organisatie verplichten tot het stellen van zekerheid voor de betalingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2000-03-22&g=2008-07-01).
+De algemene raad is gerechtigd op kosten van de organisatie het nodige te doen verrichten hetgeen in strijd met het bepaalde bij of krachtens dit besluit geschiedt of wordt nagelaten. De algemene raad kan de organisatie verplichten tot het stellen van zekerheid voor de betalingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2008-11-28&g=2008-11-28).
 
 ##### Artikel 5
 
