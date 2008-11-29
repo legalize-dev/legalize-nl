@@ -161,7 +161,3 @@ De commissie laat de minister weten of naar haar oordeel de situatie bedoeld in 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties beroepen in de individuele gezondheidszorg.
-
-##### Artikel 8
-
-Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties beroepen in de individuele gezondheidszorg.
