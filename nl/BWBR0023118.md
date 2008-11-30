@@ -4,7 +4,7 @@ identifier: "BWBR0023118"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-02-18"
-last_updated: "2008-11-01"
+last_updated: "2008-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023118"
 soort: "ministeriele-regeling"
@@ -57,15 +57,17 @@ Als Europees Programma, bedoeld in [artikel 3, eerste lid](https://wetten.overhe
 
 - b. het Operationeel Programma voor Duitsland-Nederland, goedgekeurd bij beschikking van de Europese Commissie van 3 december 2007, nr. C (2007) 5809;
 
-- c. het Operationeel Programma voor Euregio Maas–Rijn, goedgekeurd bij beschikking van de Europese Commissie van 18 september 2007, nr. C (2007)4250.
+- c. het Operationeel Programma voor Euregio Maas–Rijn, goedgekeurd bij beschikking van de Europese Commissie van 18 september 2007, nr. C (2007)4250;
+
+- d. het Operationeel Programma Twee Zeeën, goedgekeurd bij beschikking van de Europese Commissie van 19 september 2008, nr. C (2008)5113.
 
 ##### Artikel 3
 
 1. De Minister kan op aanvraag projectsubsidie verlenen indien eveneens projectsubsidie ten laste van het Europees Fonds voor Regionale Ontwikkeling verkregen is of wordt. De projectsubsidie wordt verleend aan:
 
-- a. degene die een project tot stand brengt dat past in één van de programma’s, genoemd in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01);
+- a. degene die een project tot stand brengt dat past in één van de programma’s, genoemd in [artikel 2, onderdelen c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30);
 
-- b. de deelnemers in een samenwerkingsverband die voor gezamenlijke rekening en risico een project uitvoeren dat past in één van de programma’s, genoemd in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01).
+- b. de deelnemers in een samenwerkingsverband die voor gezamenlijke rekening en risico een project uitvoeren dat past in één van de programma’s, genoemd in [artikel 2, onderdelen c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30).
 
 2. Indien de aanvragers deelnemers in een samenwerkingsverband zijn, wordt de projectsubsidie verstrekt aan de deelnemers gezamenlijk en betaald aan de deelnemer die als indiener van de aanvraag om projectsubsidie is opgetreden.
 
@@ -73,15 +75,17 @@ Als Europees Programma, bedoeld in [artikel 3, eerste lid](https://wetten.overhe
 
 ##### Artikel 4
 
-Het subsidieplafond voor de projectsubsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=3&z=2008-09-17&g=2008-11-01), is:
+Het subsidieplafond voor de projectsubsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=3&z=2008-11-30&g=2008-11-30), is:
 
-- a. voor het programma, bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01): € 4.700.000,–.
+- a. voor het programma, bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30): € 4.700.000,–;
+
+- b. voor het programma, bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30): € 2.300.000,–.
 
 ##### Artikel 5
 
-1. De aanvraag om subsidieverlening wordt gedaan bij de managementautoriteit van het desbetreffende Europees Programma, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01).
+1. De aanvraag om subsidieverlening wordt gedaan bij de managementautoriteit van het desbetreffende Europees Programma, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30).
 
-2. De Minister beslist binnen 13 weken op de aanvraag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=3&z=2008-09-17&g=2008-11-01).
+2. De Minister beslist binnen 13 weken op de aanvraag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=3&z=2008-11-30&g=2008-11-30).
 
 ##### Artikel 6
 
@@ -97,7 +101,7 @@ Het subsidieplafond voor de projectsubsidie, bedoeld in [artikel 3, eerste lid](
 
 ##### Artikel 7
 
-1. De Minister beslist afwijzend op een aanvraag indien:
+1. De Minister beslist afwijzend op een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=3&z=2008-11-30&g=2008-11-30), indien:
 
 - a. de aanvraag of het project niet voldoet aan de Kaderverordening, de EFRO-verordening, de Uitvoeringsverordening, het [Besluit EFRO programmaperiode 2007–2013](https://wetten.overheid.nl/jci1.3:c:BWBR0022685) of deze regeling;
 
@@ -105,9 +109,11 @@ Het subsidieplafond voor de projectsubsidie, bedoeld in [artikel 3, eerste lid](
 
 - c. de totale subsidiabele kosten van het project minder bedragen dan € 200.000,–;
 
-- d. het project niet valt in prioriteit 1 of prioriteit 4 van het Europees Programma; of
+- d. het project niet valt in prioriteit 1 of prioriteit 4 van het programma, bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30);
 
-- e. het project niet past binnen de criteria, bedoeld in artikel 65, onder a, van de Kaderverordening.
+- e. het project niet valt in prioriteit 1 of prioriteit 5 van het programma, bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30); of
+
+- f. het project niet past binnen de criteria, bedoeld in artikel 65, onder a, van de Kaderverordening.
 
 2. In aanvulling op het eerste lid beslist de Minister afwijzend indien een project valt in prioriteit 1 en het project niet in voldoende mate bijdraagt aan ten minste twee van de volgende doelstellingen:
 
@@ -165,19 +171,19 @@ De Minister verbindt zodanige verplichtingen aan de projectsubsidie dat de subsi
 
 ##### Artikel 14
 
-Als toezichthouder op deze regeling voor het programma, bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01), worden aangewezen de ambtenaren van de Auditdienst van het Ministerie van Economische Zaken.
+Als toezichthouder op deze regeling voor de programma’s, bedoeld in [artikel 2, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30), worden aangewezen de ambtenaren van de Auditdienst van het Ministerie van Economische Zaken.
 
 ##### Artikel 15
 
-De Minister verstrekt op aanvraag een programmasubsidie aan de managementautoriteit van het programma, bedoeld in [artikel 2, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01), voor het financieren van projecten die vallen onder prioriteit 1 of 4 van het desbetreffende programma.
+De Minister verstrekt op aanvraag een programmasubsidie aan de managementautoriteit van het programma, bedoeld in [artikel 2, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30), voor het financieren van projecten die vallen onder prioriteit 1 of 4 van het desbetreffende programma.
 
 ##### Artikel 16
 
-Het subsidieplafond voor de programmasubsidie bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=4&artikel=15&z=2008-09-17&g=2008-11-01) is:
+Het subsidieplafond voor de programmasubsidie bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=4&artikel=15&z=2008-11-30&g=2008-11-30) is:
 
-- a. voor het programma, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01): € 17.800.000,–;
+- a. voor het programma, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30): € 17.800.000,–;
 
-- b. voor het programma, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01): € 10.200.000,–.
+- b. voor het programma, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30): € 10.200.000,–.
 
 ##### Artikel 17
 
@@ -189,13 +195,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 2. Aangewezen programma’s
 
-#### § 3. Projectsubsidies EMR
+#### § 3. Projectsubsidies EMR en Twee Zeeën
 
 #### § 4. Programmasubsidie Nederland-Duitsland en Vlaanderen-Nederland
 
 ##### Artikel 18
 
-De Minister onthoudt de instemming, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=4&artikel=17&z=2008-09-17&g=2008-11-01), indien:
+De Minister onthoudt de instemming, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=4&artikel=17&z=2008-11-30&g=2008-11-30), indien:
 
 - a. het project niet voldoet aan de Kaderverordening, de EFRO-verordening, de Uitvoeringsverordening of het [Besluit EFRO programmaperiode 2007–2013](https://wetten.overheid.nl/jci1.3:c:BWBR0022685);
 
@@ -221,26 +227,68 @@ De Minister onthoudt de instemming, bedoeld in [artikel 17](https://wetten.overh
 
 ##### Artikel 19
 
-1. De Minister verleent op aanvraag ten hoogste vier maal en ten hoogste eenmaal per jaar een voorschot van 20% van het bij de subsidieverlening beschikte bedrag.
+1. De Minister verleent op aanvraag eenmaal per kwartaal een voorschot.
 
-2. Rentebaten over een voorschot worden besteed aan projecten waarmee de Minister heeft ingestemd.
+2. Het voorschot bedraagt 100% van het bedrag dat in de desbetreffende periode voor subsidie in aanmerking komt.
+
+3. De aanvraag gaat vergezeld van stukken waaruit blijkt wat het bedrag is wat in de desbetreffende periode voor subsidie in aanmerking komt.
+
+4. Rentebaten over een voorschot worden besteed aan projecten waarmee de Minister heeft ingestemd.
 
 ##### Artikel 20
 
-De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=8&z=2008-09-17&g=2008-11-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=10&z=2008-09-17&g=2008-11-01) en [11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=11&z=2008-09-17&g=2008-11-01), zijn van overeenkomstige toepassing op programmasubsidies.
+De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=8&z=2008-11-30&g=2008-11-30), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=10&z=2008-11-30&g=2008-11-30) en [11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=11&z=2008-11-30&g=2008-11-30), zijn van overeenkomstige toepassing op programmasubsidies.
 
-#### § 5. Slotbepalingen
+#### § 5. Subsidie Nota Ruimte doelen
 
 ##### Artikel 21
 
-De programma’s, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-09-17&g=2008-11-01), worden ter inzage gelegd bij het Informatiecentrum van het Ministerie van Economische Zaken, Bezuidenhoutseweg 30 te Den Haag.
+De minister verstrekt op aanvraag een subsidie aan:
+
+- a. degene die een project uitvoert dat past in prioriteit 2 van het programma, bedoeld in [artikel 2, onderdelen c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30) en dat in voldoende mate bijdraagt aan een of meer doelen van de Nota Ruimte, zoals deze zijn opgenomen in de [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&bijlage=I&z=2008-11-30&g=2008-11-30) bij deze regeling;
+
+- b. de managementautoriteit van het programma, bedoeld in [artikel 2, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30), voor het financieren van een project dat past in prioriteit 2 van het programma, bedoeld in [artikel 2, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30) en dat in voldoende mate bijdraagt aan de doelen van de Nota Ruimte, zoals deze zijn opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&bijlage=I&z=2008-11-30&g=2008-11-30) bij deze regeling.
 
 ##### Artikel 22
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+1. Het subsidieplafond voor de subsidie, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=5&artikel=21&z=2008-11-30&g=2008-11-30), bedraagt € 3.900.000,–.
+
+2. Per project dat bijdraagt aan de doelen van de Nota Ruimte wordt ten hoogste € 500.000,– verleend.
 
 ##### Artikel 23
 
+De subsidie, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=5&artikel=21&z=2008-11-30&g=2008-11-30), wordt verleend, gehoord de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 24
+
+1. Indien de subsidie, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=5&artikel=21&z=2008-11-30&g=2008-11-30), een projectsubsidie is, zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=5&z=2008-11-30&g=2008-11-30), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=6&z=2008-11-30&g=2008-11-30) en [8 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=8&z=2008-11-30&g=2008-11-30) van overeenkomstige toepassing.
+
+2. Indien de subsidie, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=5&artikel=21&z=2008-11-30&g=2008-11-30), een programmasubsidie is, zijn de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=3&artikel=8&z=2008-11-30&g=2008-11-30), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=4&artikel=17&z=2008-11-30&g=2008-11-30), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=4&artikel=19&z=2008-11-30&g=2008-11-30) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=4&artikel=20&z=2008-11-30&g=2008-11-30) van overeenkomstige toepassing.
+
+#### § 6. Slotbepaling
+
+##### Artikel 25
+
+De programma’s, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023118&paragraaf=2&artikel=2&z=2008-11-30&g=2008-11-30), worden ter inzage gelegd bij het Informatiecentrum van het Ministerie van Economische Zaken, Bezuidenhoutseweg 30 te Den Haag.
+
+##### Artikel 26
+
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+##### Artikel 27
+
 Deze regeling wordt aangehaald als: Regeling EFRO doelstelling 3 programmaperiode 2007–2013.
+
+## Bijlage I
+
+De doelen van de Nota Ruimte (Kamerstukken II 2003/2004, 29435, nr. 2):
+
+### Stedelijke Netwerken
+
+### Water en Groene Ruimte
+
+### Gebieden en Thema’s
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
