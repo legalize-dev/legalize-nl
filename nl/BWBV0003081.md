@@ -4,7 +4,7 @@ identifier: "BWBV0003081"
 country: "nl"
 rank: "verdrag"
 publication_date: "2008-12-01"
-last_updated: "2008-03-31"
+last_updated: "2008-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003081"
 soort: "verdrag"
@@ -83,7 +83,7 @@ Dit Verdrag is uitsluitend van toepassing op voorraden waarop de Richtlijn van t
 
 - b. door een in Nederland gevestigde onderneming, namens de in Italië gevestigde onderneming.
 
-3. Voorraden komen uitsluitend in aanmerking voor aanvaarding uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003081&artikel=2&z=2008-03-31&g=2008-03-31) van dit Verdrag indien de onderneming die aanvaarding van deze voorraden uit hoofde van [genoemd artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0003081&artikel=2&z=2008-03-31&g=2008-03-31) nastreeft, erin heeft toegestemd deze voorraden aan te houden, hetzij door haarzelf, hetzij door de andere onderneming, vanaf de eerste dag van een kalendermaand gedurende ten minste drie of meer volledige kalendermaanden, na aanvaarding door de bevoegde autoriteiten.
+3. Voorraden komen uitsluitend in aanmerking voor aanvaarding uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003081&artikel=2&z=2008-12-01&g=2008-12-01) van dit Verdrag indien de onderneming die aanvaarding van deze voorraden uit hoofde van [genoemd artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0003081&artikel=2&z=2008-12-01&g=2008-12-01) nastreeft, erin heeft toegestemd deze voorraden aan te houden, hetzij door haarzelf, hetzij door de andere onderneming, vanaf de eerste dag van een kalendermaand gedurende ten minste drie of meer volledige kalendermaanden, na aanvaarding door de bevoegde autoriteiten.
 
 4. Indien een onderneming voorraden aanhoudt namens een andere onderneming in overeenstemming met het eerste lid, onderdeel b, of het tweede lid, onderdeel b, van dit artikel, dan mogen deze voorraden niet worden meegeteld in de Staat waar zij worden aangehouden, maar dienen zij te worden meegeteld door de Verdragsluitende Partij waar de onderneming die aanspraak kan maken op de voorradenis gevestigd.
 
@@ -93,7 +93,7 @@ Geen van de Verdragsluitende Partijen verzet zich tegen de verwijdering van voor
 
 ##### Artikel 5
 
-De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003081&artikel=3&z=2008-03-31&g=2008-03-31) omschreven regeling dient te worden goedgekeurd door de bevoegde autoriteit van elke Verdragsluitende Partij en verzoeken hiertoe dienen vooraf te worden ingediend in overeenstemming met de in de artikelen 6 en 7 vastgelegde procedure.
+De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003081&artikel=3&z=2008-12-01&g=2008-12-01) omschreven regeling dient te worden goedgekeurd door de bevoegde autoriteit van elke Verdragsluitende Partij en verzoeken hiertoe dienen vooraf te worden ingediend in overeenstemming met de in de artikelen 6 en 7 vastgelegde procedure.
 
 ##### Artikel 6
 
@@ -123,7 +123,7 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003081&artikel=3&z=20
 
 ##### Artikel 7
 
-1. Wanneer een onderneming om toestemming verzoekt in het kader van dit Verdrag voorraden aan te houden in omstandigheden waarin zij niet de eigenaar van deze voorraden zal zijn, zoals bedoeld in [artikel 3, eerste lid, onderdeel b, en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003081&artikel=3&z=2008-03-31&g=2008-03-31), geeft geen van beide bevoegde autoriteiten toestemming voor het aanhouden van de desbetreffende voorraden in het kader van dit Verdrag tenzij:
+1. Wanneer een onderneming om toestemming verzoekt in het kader van dit Verdrag voorraden aan te houden in omstandigheden waarin zij niet de eigenaar van deze voorraden zal zijn, zoals bedoeld in [artikel 3, eerste lid, onderdeel b, en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003081&artikel=3&z=2008-12-01&g=2008-12-01), geeft geen van beide bevoegde autoriteiten toestemming voor het aanhouden van de desbetreffende voorraden in het kader van dit Verdrag tenzij:
 
 - a. de onderneming die de voorraden namens de aanvrager aanhoudt een onderneming is die valt onder de rechtsmacht van de Verdragsluitende Partij op het grondgebied waarvan de voorraden worden aangehouden voor zover het de wettelijke bevoegdheid van die Verdragsluitende Partij om het bestaan van die voorraden te controleren en te verifiëren betreft;
 
