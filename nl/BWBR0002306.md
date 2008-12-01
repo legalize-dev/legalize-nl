@@ -4,7 +4,7 @@ identifier: "BWBR0002306"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2008-09-01"
+last_updated: "2008-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002306"
 soort: "wet"
@@ -83,25 +83,29 @@ Alles behoudens het bepaalde bij het [derde en het vierde lid van artikel 1 van 
 
 ##### Artikel 6
 
-1. Als de autoriteit, door welke, overeenkomstig de voorschriften van het verdrag, de uitvoering geschiedt van rogatoire commissiën, afkomstig uit de Staten, waar het verdrag van kracht is, wordt aangewezen de kantonrechter van de rechtbank van het arrondissement waarin de uitvoering, geheel of gedeeltelijk, moet plaatsvinden.
+1. Als de autoriteit, door welke, overeenkomstig de voorschriften van het verdrag, de uitvoering geschiedt van rogatoire commissiën, afkomstig uit de Staten, waar het verdrag van kracht is, wordt aangewezen de rechtbank binnen wier gebied de uitvoering moet geschieden.
 
-2. Moet de uitvoering binnen het gebied van meer rechtbanken geschieden, dan zendt de kantonrechter, door wie de rogatoire commissie, voor zoveel hem betreft, reeds is uitgevoerd, deze met de stukken onverwijld aan de kantonrechter van de rechtbank van het arrondissement waarin de uitvoering alsnog geschieden moet.
+In geval van een getuigenverhoor of deskundigenonderzoek wordt het verzoek gedaan aan de rechtbank binnen wier gebied de getuigen of deskundigen, of het grootste aantal van hen woonachtig zijn of verblijven. Indien de uitvoering van de rogatoire commissie in verschillende rechtsgebieden dient plaats te vinden, is elk van de rechtbanken van deze rechtsgebieden bevoegd de commissie in haar geheel uit te voeren.
+
+2. De rogatoire commissie kan worden verwezen naar de kantonrechter. De kantonrechter is aan deze verwijzing gebonden.
+
+3. Bij algemene maatregel van bestuur kunnen met betrekking tot het eerste lid nadere regels worden gesteld.
 
 ##### Artikel 7
 
-Oordeelt de kantonrechter van de rechtbank, aan wie overeenkomstig de voorschriften van het verdrag de rogatoire commissie is toegezonden, dat de uitvoering niet door hem, doch door een kantonrechter van een andere rechtbank behoort te geschieden, dan zendt hij de commissie aan deze onder opgaaf van redenen. Bij geschil worden de stukken door de kantonrechter van de meest gerede rechtbank toegezonden aan Onze Minister van Justitie, die beslist.
+Oordeelt de rechtbank, aan wie overeenkomstig de voorschriften van het verdrag de rogatoire commissie is toegezonden, dat de uitvoering door een andere rechtbank behoort te geschieden, dan zendt zij de commissie aan deze rechtbank. Deze rechtbank is aan de doorzending gebonden.
 
 ##### Artikel 8
 
-Onze Minister van Justitie kan een andere rechterlijke autoriteit dan de kantonrechter tot uitvoering der rogatoire commissie aanwijzen, in geval dit uitdrukkelijk door de bevoegde autoriteit van de Staat, uit welke de commissie afkomstig is, wordt verlangd.
+Vervallen
 
 ##### Artikel 9
 
-Wordt ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=7&z=2008-09-01&g=2008-09-01) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=8&z=2008-09-01&g=2008-09-01) dezer wet de rogatoire commissie overgedragen of tot uitvoering daarvan een andere autoriteit aangewezen dan die, aan welke de toezending der commissie aanvankelijk geschiedde, dan wordt aan laatstgenoemde zo spoedig mogelijk van de overdracht of aanwijzing bericht gezonden door de autoriteit, aan welke de commissie is overgedragen of die tot uitvoering daarvan is aangewezen.
+Vervallen
 
 ##### Artikel 10
 
-Oordeelt de kantonrechter, door wie de uitvoering der rogatoire commissie zou behoren te geschieden, dat [artikel 11, derde lid, sub 3°, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=11&z=2008-09-01&g=2008-09-01) toepasselijk is, dan zendt hij de commissie onder opgaaf van redenen aan Onze Minister van Justitie, die, zo nodig na overleg met Onze Minister van Buitenlandse Zaken, beslist.
+Oordeelt de rechter, door wie de uitvoering der rogatoire commissie zou behoren te geschieden, dat [artikel 11, derde lid, sub 3°, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=11&z=2008-12-01&g=2008-12-01) toepasselijk is, dan zendt hij de commissie onder opgaaf van redenen aan Onze Minister van Justitie, die, zo nodig na overleg met Onze Minister van Buitenlandse Zaken, beslist.
 
 ##### Artikel 11
 
@@ -111,9 +115,7 @@ Oordeelt de kantonrechter, door wie de uitvoering der rogatoire commissie zou be
 
 ##### Artikel 12
 
-1. Indien personen, die ter zake van rogatoire commissiën moeten worden gehoord, niet vrijwillig verschijnen, geschiedt hun dagvaarding ten verzoeke van de autoriteit, die de commissie uitvoert.
-
-2. De [artikelen 171](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=171), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=172) en [173 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=173) zijn alsdan van overeenkomstige toepassing.
+De rechter kan bepalen welke der partijen zorg draagt voor de oproeping uit hoofde van de uitvoering van een rogatoire commissie. Oproepingen die niet door een der partijen worden verricht geschieden door de griffier van de rechtbank. De [artikelen 171](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=171), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=172), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=173) en [178 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=178) zijn op het verhoor van getuigen van overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -133,11 +135,13 @@ Alle kosten, op de uitvoering van rogatoire commissiën vallende, komen ten last
 
 1. Indien, overeenkomstig de voorschriften van het verdrag, door de Nederlandse rechter een rogatoire commissie wordt opgedragen aan de bevoegde autoriteit van een der Staten, waar het verdrag van kracht is, zendt de rechter de stukken aan Onze Minister van Buitenlandse Zaken.
 
-2. Indien de rogatoire commissie vergezeld is van een vertaling in een der talen, bedoeld in [artikel 10 van het verdrag](onbekend), moet deze voor overeenstemmend verklaard zijn door een beëdigd vertaler in het land van bestemming of door een beëdigd vertaler in Nederland.
+2. Indien de rogatoire commissie vergezeld is van een door een beëdigd vertaler vervaardigde vertaling in een van de talen, bedoeld in artikel 10 van het verdrag, kan de rechter bepalen welke der partijen zorg draagt voor en de kosten betaalt van deze vertaling.
 
 ##### Artikel 16
 
-De kosten, die door de betrokken vreemde Staat worden in rekening gebracht, vormen een deel der proceskosten, waaromtrent overeenkomstig [artikel 237 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=237) door de rechter uitspraak wordt gedaan.
+1. Omtrent de vergoedingen en kosten waarvan door de betrokken aangezochte Staat terugbetaling wordt verzocht, wordt door de rechter overeenkomstig de [artikelen 237](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=237) en [289 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=289) uitspraak gedaan, voorzover deze artikelen daarvoor een vergoeding plegen in te sluiten.
+
+2. De griffier betaalt de in het voorgaande lid bedoelde kosten en vergoedingen aan de aangezochte Staat en brengt deze, voorzover zij in een veroordeling in de proceskosten plegen te worden begrepen, in rekening bij de eiser of verzoeker, tenzij de rechter daartoe in verband met de omstandigheden van het geding de gedaagde, de eiser en gedaagde gezamenlijk, een of meer andere belanghebbenden of dezen met de verzoeker gezamenlijk heeft aangewezen. Met betrekking tot de terugbetaling van de vergoeding voor deskundigen zijn de [derde tot en met vijfde volzin van artikel 195 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=195) van overeenkomstige toepassing. In de in deze zinnen bedoelde gevallen zijn de [artikelen 199, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=199), en [244, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=244) van overeenkomstige toepassing.
 
 ##### Artikel 17
 
@@ -145,7 +149,9 @@ De rechter stelt bij zijn vonnis de dag vast, waarop de zaak weder ter rolle zal
 
 ##### Artikel 18
 
-De processen-verbaal van de uitvoering der rogatoire commissiën hebben gelijke kracht als die van de Nederlandse rechter.
+1. De processen-verbaal van de uitvoering der rogatoire commissiën hebben gelijke kracht als die van de Nederlandse rechter.
+
+2. Andere stukken betreffende de uitvoering van een handeling van instructie of een andere gerechtelijke handeling hebben een gelijke kracht als Nederlandse stukken met betrekking tot eenzelfde handeling.
 
 #### D. Verhaal der proceskosten
 
@@ -163,15 +169,15 @@ De processen-verbaal van de uitvoering der rogatoire commissiën hebben gelijke 
 
 - 2°. een expeditie van de uitspraak;
 
-- 3°. een verklaring, ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=19&z=2008-09-01&g=2008-09-01) dezer wet afgegeven, dat de uitspraak ten aanzien der veroordeling in de kosten kracht van gewijsde zaak heeft verkregen.
+- 3°. een verklaring, ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=19&z=2008-12-01&g=2008-12-01) dezer wet afgegeven, dat de uitspraak ten aanzien der veroordeling in de kosten kracht van gewijsde zaak heeft verkregen.
 
 2. De stukken in het voorgaande lid, sub 1° en 3° genoemd, zijn ieder vergezeld van een vertaling in een der talen, bedoeld in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend); van de uitspraak wordt een zodanige vertaling nopens het gedeelte, dat de beslissing bevat, overgelegd. De vertalingen moeten voor overeenstemmend verklaard zijn door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
 
 ##### Artikel 21
 
-1. Onze Minister van Justitie zendt de stukken, in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2008-09-01&g=2008-09-01) dezer wet genoemd, langs de weg, in [artikel 18 van het verdrag](onbekend) vermeld, aan de bevoegde autoriteit van de Staat waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van een bevestiging, overeenkomstig [artikel 19, derde lid, van het verdrag](onbekend), en een vertaling daarvan in een der talen, in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend). Deze vertaling is voor overeenstemmend verklaard door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
+1. Onze Minister van Justitie zendt de stukken, in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2008-12-01&g=2008-12-01) dezer wet genoemd, langs de weg, in [artikel 18 van het verdrag](onbekend) vermeld, aan de bevoegde autoriteit van de Staat waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van een bevestiging, overeenkomstig [artikel 19, derde lid, van het verdrag](onbekend), en een vertaling daarvan in een der talen, in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend). Deze vertaling is voor overeenstemmend verklaard door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
 
-2. Indien niet voldaan is aan [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2008-09-01&g=2008-09-01) van deze wet, weigert hij de doorzending der stukken, echter niet, dan na getracht te hebben de naleving van dat artikel zoveel mogelijk te bevorderen.
+2. Indien niet voldaan is aan [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2008-12-01&g=2008-12-01) van deze wet, weigert hij de doorzending der stukken, echter niet, dan na getracht te hebben de naleving van dat artikel zoveel mogelijk te bevorderen.
 
 ##### Artikel 22
 
@@ -215,7 +221,7 @@ Alle noodzakelijke kosten, ter zake van de uitvoerbaarverklaring van uitspraken 
 
 Als de autoriteit in Nederland bevoegd om het bewijs van onvermogen af te geven of de verklaring van onvermogen voor zich te doen afleggen, als bedoeld in [artikel 21 van het verdrag](onbekend), met het oog op toelating tot het voorrecht van kosteloze rechtsbijstand in een van de Staten, waar het verdrag van kracht is, wordt aangewezen de burgemeester van de gewone verblijfplaats van de betrokkene of, bij gebreke daarvan, van zijn werkelijk verblijf.
 
-#### Slotbepalingen
+#### E. Kosteloze rechtsbijstand
 
 ##### Artikel 29
 
@@ -224,5 +230,21 @@ In deze wet wordt onder "het verdrag" verstaan het op 1 maart 1954 te ’s-Grave
 ##### Artikel 30
 
 Deze wet treedt in werking op een nader door Ons te bepalen datum.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 7a
+
+De rechter die met de uitvoering van de rogatoire commissie is belast kan, indien dit voor een goede uitvoering van de rogatoire commissie nodig wordt geoordeeld, de stukken door een beëdigd vertaler in het Nederlands doen vertalen.
+
+##### Artikel 14a
+
+Een afwijzende beslissing op grond van artikel 11, tweede lid, en op grond van artikel 11, derde lid, onder 1 en 2, en artikel 14, tweede lid, van het verdrag wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de [vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Vierde), met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing.
+
+#### C. Rogatoire commissieën door de Nederlandse rechter opgedragen
+
+#### D. Verhaal der proceskosten
+
+#### Slotbepalingen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
