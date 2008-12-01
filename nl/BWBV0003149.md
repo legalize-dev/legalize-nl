@@ -4,7 +4,7 @@ identifier: "BWBV0003149"
 country: "nl"
 rank: "verdrag"
 publication_date: "2008-12-01"
-last_updated: "2006-05-30"
+last_updated: "2008-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003149"
 soort: "verdrag"
@@ -66,7 +66,7 @@ Zijn het volgende overeengekomen:
 
 Hetzelfde geldt voor personen die na binnenkomst op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij de nationaliteit van de Staat van de aangezochte Overeenkomstsluitende Partij hebben verloren en die niet ten minste een naturalisatietoezegging van de kant van de verzoekende Overeenkomstsluitende Partij hebben ontvangen.
 
-2. De aangezochte Overeenkomstsluitende Partij verstrekt op verzoek van de verzoekende Overeenkomstsluitende Partij en overeenkomstig de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=6&z=2006-05-30&g=2006-05-30), onverwijld de voor de teruggeleiding van de over te nemen persoon noodzakelijke reisdocumenten.
+2. De aangezochte Overeenkomstsluitende Partij verstrekt op verzoek van de verzoekende Overeenkomstsluitende Partij en overeenkomstig de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=6&z=2008-12-01&g=2008-12-01), onverwijld de voor de teruggeleiding van de over te nemen persoon noodzakelijke reisdocumenten.
 
 3. De verzoekende Overeenkomstsluitende Partij neemt deze persoon onder dezelfde voorwaarden terug, indien later wordt vastgesteld dat deze op het moment van het verlaten van het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij niet de nationaliteit van de Staat van de aangezochte Overeenkomstsluitende Partij had. Dit geldt niet wanneer de verplichting tot overname volgt uit het feit dat de aangezochte Overeenkomstsluitende Partij deze persoon na binnenkomst op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij de eigen nationaliteit heeft ontnomen, zonder ten minste een naturalisatietoezegging van de kant van de verzoekende Overeenkomstsluitende Partij te hebben ontvangen.
 
@@ -90,11 +90,11 @@ Hetzelfde geldt voor personen die na binnenkomst op het grondgebied van de Staat
 
 ##### Artikel 5. Verblijfstitels
 
-Onder verblijfstitels als bedoeld in [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2006-05-30&g=2006-05-30), en artikel 4, wordt verstaan een door een Overeenkomstsluitende Partij afgegeven vergunning, ongeacht van welke aard, die recht geeft op verblijf op het grondgebied van de Staat van die Overeenkomstsluitende Partij. Onder deze omschrijving valt niet de tijdelijke toelating tot verblijf op het grondgebied van de Staat van een Overeenkomstsluitende Partij met het oog op de behandeling van een asielverzoek.
+Onder verblijfstitels als bedoeld in [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2008-12-01&g=2008-12-01), en artikel 4, wordt verstaan een door een Overeenkomstsluitende Partij afgegeven vergunning, ongeacht van welke aard, die recht geeft op verblijf op het grondgebied van de Staat van die Overeenkomstsluitende Partij. Onder deze omschrijving valt niet de tijdelijke toelating tot verblijf op het grondgebied van de Staat van een Overeenkomstsluitende Partij met het oog op de behandeling van een asielverzoek.
 
 ##### Artikel 6. Bewijsmiddelen met betrekking tot eigen onderdanen
 
-1. Het bewijs van de nationaliteit overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2006-05-30&g=2006-05-30) kan worden geleverd door middel van de navolgende documenten:
+1. Het bewijs van de nationaliteit overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2008-12-01&g=2008-12-01) kan worden geleverd door middel van de navolgende documenten:
 
 - (1). voor de Macedoonse onderdanen:
 
@@ -120,7 +120,7 @@ Onder verblijfstitels als bedoeld in [artikel 3, lid 2](https://wetten.overheid.
 
 Wanneer dergelijke documenten worden voorgelegd, erkennen de Overeenkomstsluitende Partijen de nationaliteit zonder verdere formaliteiten.
 
-2. Het begin van bewijs van de nationaliteit overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2006-05-30&g=2006-05-30) kan worden geleverd door middel van de navolgende documenten of elementen:
+2. Het begin van bewijs van de nationaliteit overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2008-12-01&g=2008-12-01) kan worden geleverd door middel van de navolgende documenten of elementen:
 
 - (1). voor de Macedoonse onderdanen:
 
@@ -152,7 +152,7 @@ Wanneer dergelijke documenten of elementen worden voorgelegd, nemen de Overeenko
 
 ##### Artikel 7. Bewijsmiddelen met betrekking tot onderdanen van een derde Staat
 
-1. Het bewijs dat is voldaan aan de in [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2006-05-30&g=2006-05-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2006-05-30&g=2006-05-30) vermelde voorwaarden voor overname van onderdanen van een derde Staat kan worden geleverd door middel van de navolgende bewijsmiddelen:
+1. Het bewijs dat is voldaan aan de in [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2008-12-01&g=2008-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2008-12-01&g=2008-12-01) vermelde voorwaarden voor overname van onderdanen van een derde Staat kan worden geleverd door middel van de navolgende bewijsmiddelen:
 
 - (1). geldige visa of verblijfstitels afgegeven door de aangezochte Overeenkomstsluitende Partij;
 
@@ -168,7 +168,7 @@ Wanneer dergelijke documenten of elementen worden voorgelegd, nemen de Overeenko
 
 Bovengenoemde bewijsmiddelen worden tussen de Overeenkomstsluitende Partijen zonder verdere formaliteiten erkend.
 
-2. Een begin van bewijs dat is voldaan aan de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2006-05-30&g=2006-05-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2006-05-30&g=2006-05-30) genoemde voorwaarden voor overname van onderdanen van een derde Staat kan worden geleverd door middel van de navolgende bewijsmiddelen:
+2. Een begin van bewijs dat is voldaan aan de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2008-12-01&g=2008-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2008-12-01&g=2008-12-01) genoemde voorwaarden voor overname van onderdanen van een derde Staat kan worden geleverd door middel van de navolgende bewijsmiddelen:
 
 - (1). op naam gestelde reisbiljetten, bescheiden of facturen indien daaruit de binnenkomst of het verblijf van de betrokkene op het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij blijkt, of waarmee zijn binnenkomst op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij vanuit het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij kan worden aangetoond (bijvoorbeeld: hotelrekeningen, afspraakkaarten voor bezoek aan arts/tandarts, toegangsbewijzen voor openbare/particuliere instellingen, passagierslijsten voor vlieg- of bootreizen);
 
@@ -192,7 +192,7 @@ Bovengenoemde bewijsmiddelen worden tussen de Overeenkomstsluitende Partijen zon
 
 Wanneer dit begin van bewijs is geleverd, nemen de Overeenkomstsluitende Partijen aan dat aan de voorwaarden is voldaan, tenzij de aangezochte Overeenkomstsluitende Partij het tegendeel kan bewijzen.
 
-3. De verzoekende Overeenkomstsluitende Partij neemt de overgedragen persoon als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2006-05-30&g=2006-05-30) of [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2006-05-30&g=2006-05-30) over onder dezelfde voorwaarden indien uit later onderzoek komt vast te staan dat deze persoon op het moment van het verlaten van het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij niet aan de in die artikelen genoemde voorwaarden voldeed.
+3. De verzoekende Overeenkomstsluitende Partij neemt de overgedragen persoon als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2008-12-01&g=2008-12-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2008-12-01&g=2008-12-01) over onder dezelfde voorwaarden indien uit later onderzoek komt vast te staan dat deze persoon op het moment van het verlaten van het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij niet aan de in die artikelen genoemde voorwaarden voldeed.
 
 ##### Artikel 8. Indiening van het verzoek om overname
 
@@ -230,11 +230,11 @@ Wanneer dit begin van bewijs is geleverd, nemen de Overeenkomstsluitende Partije
 
 ##### Artikel 12. Doorgeleiding
 
-1. Onverminderd [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=16&z=2006-05-30&g=2006-05-30) staan de Overeenkomstsluitende Partijen de doorgeleiding van onderdanen van derde landen over het grondgebied van hun Staat toe, indien een andere Overeenkomstsluitende Partij daarom verzoekt en de doorreis door eventuele derde Staten en de toelating tot de Staat van bestemming verzekerd is.
+1. Onverminderd [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=16&z=2008-12-01&g=2008-12-01) staan de Overeenkomstsluitende Partijen de doorgeleiding van onderdanen van derde landen over het grondgebied van hun Staat toe, indien een andere Overeenkomstsluitende Partij daarom verzoekt en de doorreis door eventuele derde Staten en de toelating tot de Staat van bestemming verzekerd is.
 
 2. Het is niet absoluut noodzakelijk dat de aangezochte Overeenkomstsluitende Partij een transitvisum afgeeft.
 
-3. Ondanks verleende toestemming kunnen voor doorgeleiding overgenomen personen aan de andere Overeenkomstsluitende Partij worden teruggeven, indien zich later omstandigheden als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=16&z=2006-05-30&g=2006-05-30) voordoen of bekend worden, die doorgeleiding in de weg staan, of indien de verdere reis of de overname door de Staat van bestemming niet meer verzekerd is.
+3. Ondanks verleende toestemming kunnen voor doorgeleiding overgenomen personen aan de andere Overeenkomstsluitende Partij worden teruggeven, indien zich later omstandigheden als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=16&z=2008-12-01&g=2008-12-01) voordoen of bekend worden, die doorgeleiding in de weg staan, of indien de verdere reis of de overname door de Staat van bestemming niet meer verzekerd is.
 
 4. De Overeenkomstsluitende Partijen doen het nodige om doorgeleidingen, zoals beschreven in lid 1 hierboven, te beperken tot onderdanen van een derde Staat voor wie de rechtstreekse teruggeleiding naar het land van herkomst niet mogelijk is.
 
@@ -254,9 +254,9 @@ De persoonsgegevens worden alleen verstrekt wanneer dit nodig is voor de tenuitv
 
 ##### Artikel 14. Kosten
 
-1. De kosten verbonden aan het overbrengen van personen die volgens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2006-05-30&g=2006-05-30), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2006-05-30&g=2006-05-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2006-05-30&g=2006-05-30) worden overgenomen komen tot aan de grens van de Staat van de aangezochte Overeenkomstsluitende Partij ten laste van de verzoekende Overeenkomstsluitende Partij.
+1. De kosten verbonden aan het overbrengen van personen die volgens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2008-12-01&g=2008-12-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2008-12-01&g=2008-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2008-12-01&g=2008-12-01) worden overgenomen komen tot aan de grens van de Staat van de aangezochte Overeenkomstsluitende Partij ten laste van de verzoekende Overeenkomstsluitende Partij.
 
-2. De kosten verbonden aan de doorgeleiding tot aan de grens van de Staat van bestemming, alsmede de eventueel uit de teruggeleiding voortvloeiende kosten, komen overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=12&z=2006-05-30&g=2006-05-30) ten laste van de verzoekende Overeenkomstsluitende Partij.
+2. De kosten verbonden aan de doorgeleiding tot aan de grens van de Staat van bestemming, alsmede de eventueel uit de teruggeleiding voortvloeiende kosten, komen overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=12&z=2008-12-01&g=2008-12-01) ten laste van de verzoekende Overeenkomstsluitende Partij.
 
 ##### Artikel 15. Comité van deskundigen
 
@@ -328,7 +328,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1. Verzoek om overname
 
-1. De verzoeken om overname worden gedaan, wanneer de identiteit en de nationaliteit van de over te nemen persoon zijn aangetoond of aannemelijk gemaakt krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=6&z=2006-05-30&g=2006-05-30) en [7 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=7&z=2006-05-30&g=2006-05-30). Deze verzoeken dienen te worden ingediend conform [artikel 8 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=8&z=2006-05-30&g=2006-05-30).
+1. De verzoeken om overname worden gedaan, wanneer de identiteit en de nationaliteit van de over te nemen persoon zijn aangetoond of aannemelijk gemaakt krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=6&z=2008-12-01&g=2008-12-01) en [7 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=7&z=2008-12-01&g=2008-12-01). Deze verzoeken dienen te worden ingediend conform [artikel 8 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=8&z=2008-12-01&g=2008-12-01).
 
 2. De verzoekende Overeenkomstsluitende Partij richt een verzoek tot de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij.
 
@@ -338,7 +338,7 @@ Zijn het volgende overeengekomen:
 
 - –. naam en adres van de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij;
 
-- –. de inleidende tekst die luidt: „Wij vragen dat de persoon ten aanzien van wie kan worden aangenomen dat voor hem/haar de overnameverplichting conform de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2006-05-30&g=2006-05-30), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2006-05-30&g=2006-05-30) en [4 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2006-05-30&g=2006-05-30) bestaat, op het grondgebied van het Koninkrijk België (het Groothertogdom Luxemburg/ het Koninkrijk der Nederlanden op het Macedoonse grondgebied) wordt overgenomen”;
+- –. de inleidende tekst die luidt: „Wij vragen dat de persoon ten aanzien van wie kan worden aangenomen dat voor hem/haar de overnameverplichting conform de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2008-12-01&g=2008-12-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2008-12-01&g=2008-12-01) en [4 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2008-12-01&g=2008-12-01) bestaat, op het grondgebied van het Koninkrijk België (het Groothertogdom Luxemburg/ het Koninkrijk der Nederlanden op het Macedoonse grondgebied) wordt overgenomen”;
 
 - –. de gegevens inzake de over te nemen persoon;
 
@@ -386,7 +386,7 @@ Bijgevoegd worden:
 
 ##### Artikel 2. Antwoord op het verzoek om overname
 
-1. Het antwoord op het verzoek wordt door de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij aan de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij conform de in [artikel 9 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=9&z=2006-05-30&g=2006-05-30) gestelde termijnen overgemaakt.
+1. Het antwoord op het verzoek wordt door de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij aan de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij conform de in [artikel 9 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=9&z=2008-12-01&g=2008-12-01) gestelde termijnen overgemaakt.
 
 2. Het antwoord op het verzoek bevat:
 
@@ -396,7 +396,7 @@ Bijgevoegd worden:
 
 - –. naam en voornamen, geboorteplaats en -datum van de betrokkene;
 
-- –. verklaring ter bevestiging dat er voor de betrokkene een overnameverplichting bestaat conform de bepalingen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2006-05-30&g=2006-05-30), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2006-05-30&g=2006-05-30) en [4 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2006-05-30&g=2006-05-30)
+- –. verklaring ter bevestiging dat er voor de betrokkene een overnameverplichting bestaat conform de bepalingen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2008-12-01&g=2008-12-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2008-12-01&g=2008-12-01) en [4 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2008-12-01&g=2008-12-01)
 
 of
 
@@ -416,7 +416,7 @@ of
 
 1. De bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij stelt de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij, via de diplomatieke vertegenwoordiging, per telefax of via elektronische weg, minimaal drie werkdagen vóór de geplande overdracht in kennis van haar intentie daartoe over te gaan. Daartoe wordt gebruik gemaakt van het formulier dat als bijlage 1 aan dit Uitvoeringsprotocol is gehecht.
 
-2. Indien de verzoekende Overeenkomstsluitende Partij in de onmogelijkheid verkeert de over te nemen persoon binnen de in [artikel 9, lid 2, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=9&z=2006-05-30&g=2006-05-30) genoemde termijn van één maand over te dragen, stelt zij de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij, via de diplomatieke vertegenwoordiging, daarvan onverwijld in kennis. Zodra de effectieve overdracht van de betrokkene kan plaatsvinden, stelt de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij daarvan in kennis, overeenkomstig de in lid 1, bedoelde procedure en termijnen.
+2. Indien de verzoekende Overeenkomstsluitende Partij in de onmogelijkheid verkeert de over te nemen persoon binnen de in [artikel 9, lid 2, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=9&z=2008-12-01&g=2008-12-01) genoemde termijn van één maand over te dragen, stelt zij de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij, via de diplomatieke vertegenwoordiging, daarvan onverwijld in kennis. Zodra de effectieve overdracht van de betrokkene kan plaatsvinden, stelt de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij daarvan in kennis, overeenkomstig de in lid 1, bedoelde procedure en termijnen.
 
 3. Indien medische redenen vervoer over de weg of over zee rechtvaardigen, maken de bevoegde autoriteiten van de verzoekende Overeenkomstsluitende Partij daarvan afzonderlijk melding op het formulier dat als bijlage 1 aan dit Uitvoeringsprotocol is gehecht.
 
@@ -436,7 +436,7 @@ De Overeenkomstsluitende Partijen wisselen uiterlijk vijftien (15) dagen na de s
 
 ##### Artikel 8. Comité van deskundigen
 
-De Overeenkomstsluitende Partijen stellen elkaar binnen de dertig (30) dagen na de inwerkingtreding van de Overeenkomst in kennis van de samenstelling van hun delegatie in het krachtens [artikel 15 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=15&z=2006-05-30&g=2006-05-30) bepaalde Comité van deskundigen. Iedere wijziging in hun delegatie delen zij elkaar onverwijld mede.
+De Overeenkomstsluitende Partijen stellen elkaar binnen de dertig (30) dagen na de inwerkingtreding van de Overeenkomst in kennis van de samenstelling van hun delegatie in het krachtens [artikel 15 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=15&z=2008-12-01&g=2008-12-01) bepaalde Comité van deskundigen. Iedere wijziging in hun delegatie delen zij elkaar onverwijld mede.
 
 ##### Artikel 9. Slotbepaling
 
