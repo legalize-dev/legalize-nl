@@ -4,7 +4,7 @@ identifier: "BWBR0023864"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2008-06-01"
+last_updated: "2008-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023864"
 soort: "wet"
@@ -58,7 +58,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. vorm van hulp voor de kosten waarvan een subsidie wordt verstrekt op grond van [artikel 44 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44) of [artikel 68 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=68);
 
-- 3°. jeugdgezondheidszorg als omschreven bij of krachtens de [Wet collectieve preventie volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004760);
+- 3°. jeugdgezondheidszorg als omschreven bij of krachtens de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705);
 
 - 4°. handelingen op het gebied van de individuele gezondheidszorg als bedoeld in [artikel 1 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=1); één en ander met inbegrip van de financiële afwikkeling;
 
@@ -126,7 +126,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10
 
-Bij ministeriële regeling kan worden bepaald aan welke beveiligingseisen de gegevensverwerking, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=8&z=2008-06-01&g=2008-06-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=9&z=2008-06-01&g=2008-06-01), voldoet.
+Bij ministeriële regeling kan worden bepaald aan welke beveiligingseisen de gegevensverwerking, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=8&z=2008-12-01&g=2008-12-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=9&z=2008-12-01&g=2008-12-01), voldoet.
 
 ##### Artikel 11
 
@@ -152,11 +152,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 15
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het opnemen, wijzigen en verwijderen van gegevens in onderscheidenlijk uit de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3&artikel=14&z=2008-06-01&g=2008-06-01) bedoelde registers van zorgaanbieders, indicatieorganen en zorgverzekeraars, alsmede over het beheer van de registers, in ieder geval wat betreft de beveiliging van persoonsgegevens en het toezicht op het functioneren van de registers.
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het opnemen, wijzigen en verwijderen van gegevens in onderscheidenlijk uit de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3&artikel=14&z=2008-12-01&g=2008-12-01) bedoelde registers van zorgaanbieders, indicatieorganen en zorgverzekeraars, alsmede over het beheer van de registers, in ieder geval wat betreft de beveiliging van persoonsgegevens en het toezicht op het functioneren van de registers.
 
 2. Bij de maatregel, bedoeld in het eerste lid, kunnen bijdragen van de zorgaanbieders, indicatieorganen en zorgverzekeraars worden verlangd in de kosten van de registers.
 
-3. De beheerder van een register als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3&artikel=14&z=2008-06-01&g=2008-06-01) verschaft aan een in het register ingeschreven zorgaanbieder, indicatieorganen en zorgverzekeraar op diens verzoek een middel waarmee deze ten behoeve van de raadpleging, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=7&z=2008-06-01&g=2008-06-01), toegang kan krijgen tot de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3).
+3. De beheerder van een register als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3&artikel=14&z=2008-12-01&g=2008-12-01) verschaft aan een in het register ingeschreven zorgaanbieder, indicatieorganen en zorgverzekeraar op diens verzoek een middel waarmee deze ten behoeve van de raadpleging, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=7&z=2008-12-01&g=2008-12-01), toegang kan krijgen tot de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3).
 
 4. De beheerder kan voor het middel een vergoeding verlangen.
 
