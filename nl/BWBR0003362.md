@@ -4,7 +4,7 @@ identifier: "BWBR0003362"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2002-01-01"
+last_updated: "2008-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003362"
 soort: "wet"
@@ -47,7 +47,7 @@ In deze wet wordt onder "het verdrag" verstaan: het op 18 maart 1970 te 's-Grave
 
 ##### Artikel 2
 
-Als centrale autoriteit, bedoeld in artikel 2 van het verdrag, wordt voor Nederland aangewezen de officier van justitie bij de arrondissementsrechtbank te 's-Gravenhage.
+Als centrale autoriteit, bedoeld in artikel 2 van het verdrag, wordt voor Nederland aangewezen de rechtbank ’s-Gravenhage.
 
 ##### Artikel 3
 
@@ -55,55 +55,51 @@ Rogatoire commissies, waarvan de toezending niet is geschied overeenkomstig de v
 
 ##### Artikel 4
 
-1. Als de autoriteit door welke overeenkomstig de bepalingen van het verdrag de uitvoering geschiedt van rogatoire commissies, afkomstig uit de Staten waar het verdrag van kracht is, wordt aangewezen de kantonrechter.
+1. Als de autoriteit door welke overeenkomstig de bepalingen van het verdrag de uitvoering geschiedt van rogatoire commissies, afkomstig uit de Staten waar het verdrag van kracht is, wordt aangewezen de rechtbank.
 
-2. De Procureur-Generaal bij de Hoge Raad kan een andere rechter dan de kantonrechter tot uitvoering der rogatoire commissie aanwijzen, indien dit uitdrukkelijk door de bevoegde autoriteit van de Staat uit welke de commissie afkomstig is, wordt verlangd of indien dit in verband met de bijzondere aard van de zaak of in het belang van een goede procesgang wenselijk is.
-
-3. De rechter voert de rogatoire commissie onverwijld uit.
+2. De rechter voert de rogatoire commissie onverwijld uit.
 
 ### Hoofdstuk II. De behandeling van uit een verdragsstaat ontvangen rogatoire commissies
 
 ##### Artikel 5
 
-1. De centrale autoriteit gaat na of de rogatoire commissie voldoet aan de bepalingen van het verdrag. Indien dit naar zijn oordeel het geval is en er geen aanleiding is tot toepassing van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003362&hoofdstuk=I&artikel=4&z=2002-01-01&g=2002-01-01), zendt hij de rogatoire commissie toe aan de kantonrechter binnen wiens gebied de uitvoering geheel of gedeeltelijk moet geschieden met verzoek zich met de uitvoering te willen belasten. In geval van een getuigenverhoor of deskundigenverhoor wordt het verzoek gedaan aan de kantonrechter in wiens rechtsgebied de getuigen of deskundigen, of het grootste aantal van hen, woonachtig zijn of verblijven.
+1. De centrale autoriteit gaat na of de rogatoire commissie voldoet aan de bepalingen van het verdrag.
 
-2. Indien de rogatoire commissie betrekking heeft op onderzoekshandelingen welke in verschillende gebieden binnen Nederland moeten worden uitgevoerd, zendt de kantonrechter de commissie, nadat hij voor zijn gebied daaraan uitvoering heeft gegeven, door aan de kantonrechter binnen wiens gebied de verdere uitvoering vervolgens moet plaats vinden.
+2. Is de centrale autoriteit van oordeel dat de rogatoire commissie voldoet aan de bepalingen van het verdrag, dan zendt deze de rogatoire commissie toe aan de rechtbank binnen wier gebied de uitvoering moet geschieden. Deze rechtbank is aan deze toezending gebonden. In geval van een getuigenverhoor of deskundigenonderzoek wordt de rogatoire commissie uitgevoerd door de rechtbank binnen wier gebied de getuigen of deskundigen, of het grootste aantal van hen woonachtig zijn of verblijven. Indien de uitvoering van de rogatoire commissie in verschillende rechtsgebieden dient plaats te vinden, is elk van de rechtbanken van deze rechtsgebieden bevoegd de commissie in haar geheel uit te voeren.
+
+3. De rogatoire commissie kan worden verwezen naar de kantonrechter. De kantonrechter is aan deze verwijzing gebonden.
+
+4. Bij algemene maatregel van bestuur kunnen met betrekking tot het tweede lid nadere regels worden gesteld.
 
 ##### Artikel 6
 
-1. Is de centrale autoriteit van oordeel dat de rogatoire commissie niet voldoet aan de bepalingen van het verdrag, dan stelt hij de autoriteit van de verzoekende Staat die de rogatoire commissie heeft overgemaakt onverwijld daarvan in kennis en doet daarbij nauwkeurige opgave van de bezwaren welke tegen het verzoek zijn gerezen.
+1. Is de centrale autoriteit van oordeel dat de rogatoire commissie niet voldoet aan de bepalingen van het verdrag, dan stelt de centrale autoriteit de autoriteit van de verzoekende Staat die de rogatoire commissie heeft overgemaakt onverwijld daarvan in kennis en doet daarbij nauwkeurige opgave van de bezwaren welke tegen het verzoek zijn gerezen.
 
 2. De in het voorgaande lid bedoelde mededeling moet worden gesteld of vertaald in de taal waarin het verzoek is gesteld of vertaald, indien dit is het Duits, Engels, Frans of Nederlands. In andere gevallen moet de mededeling in het Engels worden gesteld.
 
-3. Is de rechter die de rogatoire commissie moet uitvoeren van oordeel, dat deze niet voldoet aan de bepalingen van het verdrag, dan zendt hij deze terug aan de centrale autoriteit en doet daarbij nauwkeurige opgave van de bezwaren welke tegen het verzoek zijn gerezen. De centrale autoriteit handelt vervolgens zo nodig met de rogatoire commissie overeenkomstig het bepaalde in de voorgaande leden.
-
-4. Een rogatoire commissie die betrekking heeft op een procedure welke in de Staten waar de "common law" geldt bekend is als "pre-trial discovery of documents", wordt behandeld overeenkomstig de bepalingen van de voorgaande leden.
+3. Een rogatoire commissie die betrekking heeft op een procedure welke in de Staten waar de "common law" geldt bekend is als "pre-trial discovery of documents", wordt behandeld overeenkomstig de bepalingen van de voorgaande leden.
 
 ##### Artikel 7
 
-Oordeelt de centrale autoriteit of de rechter die de rogatoire commissie moet uitvoeren, dat artikel 12, eerste lid, onder **b)** van het verdrag van toepassing is, dan zendt hij de stukken onder opgaaf van redenen aan Onze Minister van Justitie die, zo nodig na overleg met Onze Minister van Buitenlandse Zaken, beslist.
+Oordeelt de centrale autoriteit dat artikel 12, eerste lid, onder b, van het verdrag van toepassing is, dan zendt deze de stukken onder opgaaf van redenen aan Onze Minister van Justitie, die zo nodig na overleg met Onze Minister van Buitenlandse Zaken, beslist.
 
 ##### Artikel 8
 
-1. Oordeelt de centrale autoriteit of de kantonrechter dat er aanleiding bestaat tot toepassing van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003362&hoofdstuk=I&artikel=4&z=2002-01-01&g=2002-01-01), dan zendt hij de stukken onder opgaaf van redenen aan de Procureur-Generaal bij de Hoge Raad met verzoek een andere rechter aan te wijzen.
-
-2. De Procureur-Generaal doet de centrale autoriteit of de kantonrechter mededeling van zijn beslissing. Hij zendt de stukken, met zijn beslissing, aan de aangewezen andere rechter, met verzoek zich met de uitvoering van de rogatoire commissie te belasten.
+Vervallen
 
 ##### Artikel 9
 
-1. Oordeelt de kantonrechter aan wie de rogatoire commissie is toegezonden dat de uitvoering niet door hem, doch door een andere kantonrechter behoort te geschieden, dan zendt hij de commissie aan deze, onder opgaaf van redenen.
-
-2. Bij geschil worden de stukken door de meest gerede kantonrechter toegezonden aan de President van de rechtbank in het arrondissement waarin het rechtsgebied van die kantonrechter valt. Deze beslist en zendt vervolgens de stukken aan de bij die beslissing aangewezen kantonrechter, met verzoek de uitvoering van de rogatoire commissie over te nemen. Hij doet hiervan mededeling aan de kantonrechter aan wie de rogatoire commissie aanvankelijk was toegezonden.
+Vervallen
 
 ##### Artikel 10
 
-De rechter die met de uitvoering van de rogatoire commissie is belast kan, indien hij zulks voor een goede uitvoering nodig oordeelt, de stukken in het Nederlands doen vertalen. Hij kan daartoe de tussenkomst van de centrale autoriteit verzoeken. De kosten van de vertaling zijn kosten als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003362&hoofdstuk=II&artikel=13&z=2002-01-01&g=2002-01-01).
+De rechter die met de uitvoering van de rogatoire commissie is belast kan, indien hij zulks voor een goede uitvoering nodig oordeelt, de stukken door een beëdigd vertaler in het Nederlands doen vertalen. Hij kan daartoe de tussenkomst van de centrale autoriteit verzoeken. De kosten van de vertaling zijn kosten als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003362&hoofdstuk=II&artikel=13&z=2008-12-01&g=2008-12-01).
 
 ##### Artikel 11
 
 1. Op het verhoor van personen ter zake van rogatoire commissies vinden zoveel mogelijk de bepalingen van de Nederlandse wet toepassing, als gold het een geding voor een Nederlandse rechter.
 
-2. Indien personen die ter zake van rogatoire commissies moeten worden gehoord niet vrijwillig verschijnen, geschiedt hun dagvaarding ten verzoeke van de rechter die de commissie uitvoert. De [artikelen 171](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=171), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=172), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=173) en [178 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=178) zijn alsdan van overeenkomstige toepassing.
+2. De rechter kan bepalen welke der partijen zorg draagt voor de oproeping uit hoofde van de uitvoering van een rogatoire commissie. Oproepingen die niet door een der partijen worden verricht geschieden door de griffier van de rechtbank. De [artikelen 171](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=171), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=172), [173](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=173) en [178 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=178) zijn op het verhoor van getuigen van overeenkomstige toepassing.
 
 3. De rechter geeft toepassing aan een verschoningsrecht of een verbod tot het afleggen van een verklaring overeenkomstig artikel 11, eerste lid, van het verdrag en oordeelt zelfstandig over de erkenning van een verschoningsrecht of een verbod als bedoeld in artikel 11, tweede lid, van het verdrag.
 
@@ -133,7 +129,7 @@ De rechter die de rogatoire commissie heeft uitgevoerd zendt het proces-verbaal 
 
 1. Indien door de Nederlandse rechter overeenkomstig de voorschriften van het verdrag een rogatoire commissie wordt opgedragen aan de bevoegde autoriteit van een der Staten waar het verdrag van kracht is, zendt de griffier de stukken aan de in artikel 2 van het verdrag bedoelde centrale autoriteit van die Staat, hetzij aan een andere autoriteit die overeenkomstig artikel 24 van het verdrag tevens is aangewezen tot het in ontvangst nemen van rogatoire commissies.
 
-2. De stukken gaan vergezeld van een door de zorg en voor rekening van de partij die de rogatoire commissie heeft verzocht vervaardigde vertaling in de taal van de aangezochte autoriteit dan wel, indien artikel 4, tweede of vierde lid van het verdrag voor de betreffende Staat van toepassing is, in het Frans, het Engels of een andere taal waarin een rogatoire commissie aan de centrale autoriteit van die Staat kan worden gericht. Deze vertaling moet voor overeenstemmend zijn verklaard door een beëdigd vertaler in Nederland of in het land van de aangezochte autoriteit.
+2. De stukken gaan vergezeld van een door een beëdigd vertaler vervaardigde vertaling in de taal van de aangezochte autoriteit dan wel, indien artikel 4, tweede of vierde lid, van het verdrag voor de betreffende Staat van toepassing is, in het Frans, het Engels of een andere taal waarin een rogatoire commissie aan de centrale autoriteit van die Staat kan worden gericht. De rechter kan bepalen welke der partijen zorg draagt voor en de kosten betaalt van deze vertaling.
 
 ##### Artikel 17
 
@@ -163,9 +159,9 @@ De rechter die de rogatoire commissie heeft uitgevoerd zendt het proces-verbaal 
 
 ##### Artikel 18
 
-1. De kosten die door de betrokken aangezochte Staat in rekening worden gebracht vormen een deel der proceskosten, waaromtrent overeenkomstig [artikel 237 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=237) door de rechter uitspraak wordt gedaan.
+1. Omtrent de vergoedingen en kosten waarvan door de betrokken aangezochte Staat terugbetaling wordt verzocht, wordt door de rechter overeenkomstig de [artikelen 237](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=237) en [289 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=289) uitspraak gedaan, voorzover deze artikelen daarvoor een vergoeding plegen in te sluiten.
 
-2. De griffier betaalt de in het voorgaande lid bedoelde kosten aan de centrale autoriteit van die aangezochte Staat en brengt hen vervolgens in rekening aan de partij die de rogatoire commissie heeft verzocht.
+2. De griffier betaalt de in het voorgaande lid bedoelde kosten en vergoedingen aan de centrale autoriteit van die aangezochte Staat en brengt deze, voorzover zij in een veroordeling in de proceskosten plegen te worden begrepen, in rekening bij de eiser of verzoeker, tenzij de rechter daartoe in verband met de omstandigheden van het geding de gedaagde, de eiser en gedaagde gezamenlijk, een of meer andere belanghebbenden of dezen met de verzoeker gezamenlijk heeft aangewezen. Met betrekking tot de terugbetaling van de vergoeding voor deskundigen zijn de derde tot en met vijfde volzin van [artikel 195 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=195) van overeenkomstige toepassing. In de in deze zinnen bedoelde gevallen zijn de [artikelen 199, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=199), en [244, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=244) van overeenkomstige toepassing.
 
 ##### Artikel 19
 
@@ -173,7 +169,9 @@ De rechter stelt zonodig de dag vast, waarop de zaak weder ter rolle zal worden 
 
 ##### Artikel 20
 
-De processen-verbaal van de uitvoering der rogatoire commissies hebben gelijke kracht als die van de Nederlandse rechter.
+1. De processen-verbaal van de uitvoering der rogatoire commissies hebben gelijke kracht als die van de Nederlandse rechter.
+
+2. Andere stukken betreffende de uitvoering van een handeling tot het verkrijgen van bewijs of een andere gerechtelijke handeling hebben een gelijke kracht als Nederlandse stukken met betrekking tot eenzelfde handeling.
 
 ### Hoofdstuk IV. Uitvoering van de artikelen 8 en 17 van het verdrag
 
@@ -181,15 +179,19 @@ De processen-verbaal van de uitvoering der rogatoire commissies hebben gelijke k
 
 1. De autoriteit, bedoeld in artikel 8, tweede zin, van het verdrag, die toestemming moet verlenen aan een rechterlijke ambtenaar van de verzoekende autoriteit tot het bijwonen van de uitvoering van een rogatoire commissie is: de rechter die met de uitvoering van de rogatoire commissie is belast.
 
-2. De in het voorgaande lid bedoelde rechter kan aan zijn toestemming elke voorwaarde verbinden die hij dienstig acht in het belang van een goede uitvoering van de rogatoire commissie.
+2. De in het eerste lid bedoelde rechter kan aan zijn toestemming voorwaarden verbinden die hij uit het oogpunt van een goede procesorde nuttig of noodzakelijk acht.
+
+3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de in het tweede lid bedoelde voorwaarden.
 
 ##### Artikel 22
 
-1. De autoriteit, bedoeld in artikel 17, eerste lid, onder **a)** van het verdrag, die verlof moet verlenen tot de uitvoering van onderzoekshandelingen door een daartoe benoemde commissaris is: de voorzieningenrechter van de rechtbank van het arrondissement waar de onderzoekshandeling moet worden verricht. In geval van een getuigenverhoor of deskundigenverhoor is dit het arrondissement waar de getuigen of deskundigen, of het grootste aantal van hen, woonachtig zijn of verblijven.
+1. De autoriteit, bedoeld in artikel 17, eerste lid, onder a) van het verdrag, die verlof moet verlenen tot de uitvoering van onderzoekshandelingen door een daartoe benoemde commissaris is: de voorzieningenrechter van de rechtbank van het arrondissement waar de onderzoekshandeling moet worden verricht. In geval van een getuigenverhoor of deskundigenverhoor is dit het arrondissement waar de getuigen of deskundigen, of het grootste aantal van hen, woonachtig zijn of verblijven.
 
-2. De voorzieningenrechter kan aan het verlof elke voorwaarde verbinden welke hij voor het verloop van het onderzoek of verhoor dienstig acht. Hij kan bepalen dat het onderzoek of verhoor geschiedt in het gerechtsgebouw onder toezicht van een door hem aan te wijzen rechter.
+2. De voorzieningenrechter kan aan het verlof voorwaarden verbinden die hij uit het oogpunt van een goede procesorde nuttig of noodzakelijk acht. Hij kan bepalen dat het onderzoek of verhoor geschiedt in het gerechtsgebouw onder toezicht van een door hem aan te wijzen rechter.
 
-3. Het in het eerste lid bedoelde verlof wordt, onverminderd het bepaalde in het voorgaande lid, slechts verleend wanneer voldaan is aan de volgende voorwaarden:
+3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de in het tweede lid bedoelde voorwaarden.
+
+4. Het in het eerste lid bedoelde verlof wordt, onverminderd het bepaalde in het voorgaande lid, slechts verleend wanneer voldaan is aan de volgende voorwaarden:
 
 - a). De betrokken getuige of deskundige moet behoorlijk zijn opgeroepen bij een oproeping die is gesteld in het Nederlands of vergezeld gaat van een vertaling in het Nederlands. De oproeping moet bovendien vermelden:
 
@@ -203,7 +205,7 @@ De processen-verbaal van de uitvoering der rogatoire commissies hebben gelijke k
 
 - -. dat de kosten van verschijning door de met het onderzoek belaste commissaris worden vergoed.
 
-- b). Een afschrift van de onder **a)** bedoelde oproeping moet worden toegezonden aan de voorzieningenrechter.
+- b). Een afschrift van de onder a) bedoelde oproeping moet worden toegezonden aan de voorzieningenrechter.
 
 - c). Het verzoek moet de reden aangeven, waarom de onderzoekshandeling aan de commissaris is opgedragen, alsmede de hoedanigheid van de commissaris, tenzij een in Nederland bevoegde advocaat als zodanig is aangewezen.
 
@@ -214,5 +216,17 @@ De processen-verbaal van de uitvoering der rogatoire commissies hebben gelijke k
 ##### Artikel 23
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 15a
+
+Een afwijzende beslissing op grond van artikel 5, artikel 9, tweede lid, en artikel 12, eerste lid, onder a, van het verdrag wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de [vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Vierde), met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing.
+
+### Hoofdstuk III. Rogatoire commissies door de Nederlandse rechter opgedragen
+
+### Hoofdstuk IV. Uitvoering van de artikelen 8 en 17 van het verdrag
+
+### Slotbepaling
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
