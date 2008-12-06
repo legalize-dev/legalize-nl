@@ -4,7 +4,7 @@ identifier: "BWBR0011595"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-09-01"
+last_updated: "2008-12-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011595"
 soort: "ministeriele-regeling"
@@ -67,7 +67,7 @@ De studerende, bedoeld in [artikel 3.25 van de wet](https://wetten.overheid.nl/j
 
 ##### Artikel 2.5. Deel opleiding buiten Nederland: aanvraag voorziening in geld
 
-1. De studerende, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.12&z=2008-01-01&g=2008-09-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de IB-Groep.
+1. De studerende, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.12&z=2008-12-06&g=2008-12-06), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de IB-Groep.
 
 2. Op het aanvraagformulier wordt door de onderwijsinstelling waar de studerende blijft ingeschreven, verklaard:
 
@@ -127,7 +127,7 @@ Indien een studerende de gemaakte kaartkeuze herziet, is hij daarvoor aan de IB-
 
 ##### Artikel 4.8. OV-studentenkaart is strikt persoonlijk
 
-De studerende die in het bezit is van een kaart als bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.5&z=2008-01-01&g=2008-09-01), heeft uitsluitend voor zichzelf recht op kosteloos openbaar vervoer of korting op de vervoerprijs.
+De studerende die in het bezit is van een kaart als bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.5&z=2008-12-06&g=2008-12-06), heeft uitsluitend voor zichzelf recht op kosteloos openbaar vervoer of korting op de vervoerprijs.
 
 ##### Artikel 4.9. Eigendom van de OV-studentenkaart
 
@@ -155,7 +155,7 @@ De kaart die aan een studerende is verstrekt, blijft eigendom van de IB-Groep. D
 
 ##### Artikel 4.12. Voorziening in geld
 
-1. In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2008-01-01&g=2008-09-01) kan de studerende die een opleiding in Nederland volgt en gedurende die opleiding een onderdeel daarvan buiten Nederland gaat volgen, over die periode in het buitenland op aanvraag in plaats van een OV-studentenkaart in aanmerking komen voor een voorziening in geld.
+1. In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2008-12-06&g=2008-12-06) kan de studerende die een opleiding in Nederland volgt en gedurende die opleiding een onderdeel daarvan buiten Nederland gaat volgen, over die periode in het buitenland op aanvraag in plaats van een OV-studentenkaart in aanmerking komen voor een voorziening in geld.
 
 2. De studerende komt in aanmerking voor een voorziening in geld als bedoeld in het eerste lid, indien:
 
@@ -165,7 +165,7 @@ De kaart die aan een studerende is verstrekt, blijft eigendom van de IB-Groep. D
 
 3. De voorziening in geld, bedoeld in het eerste lid, is gelijk aan het bedrag, bedoeld in [5.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
 
-4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde OV-studentenkaart ter beschikking gesteld zonder dat deze kaart opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een OV-studentenkaart worden aangevraagd met inachtneming van de aanvraagtermijn van [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2008-01-01&g=2008-09-01).
+4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde OV-studentenkaart ter beschikking gesteld zonder dat deze kaart opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een OV-studentenkaart worden aangevraagd met inachtneming van de aanvraagtermijn van [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2008-12-06&g=2008-12-06).
 
 ### Hoofdstuk 5. Terugbetaling studieschuld
 
@@ -193,7 +193,7 @@ De kaart die aan een studerende is verstrekt, blijft eigendom van de IB-Groep. D
 
 5. Indien er niet langer betalingen op grond van de wet zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.
 
-6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2008-01-01&g=2008-09-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
+6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2008-12-06&g=2008-12-06) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
 
 7. Over het in het vijfde lid bedoelde bedrag, dat in maandelijkse termijnen wordt terugbetaald, is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengestelde interest en is verschuldigd over het bedrag van iedere terugbetaling afzonderlijk, met dien verstande dat ingeval de terugbetaling niet op de vervaldatum is ontvangen de op voet van deze bepaling berekende rente wordt bijgeschreven bij het verschuldigde bedrag, onverminderd het bepaalde in het negende lid.
 
@@ -203,27 +203,27 @@ De kaart die aan een studerende is verstrekt, blijft eigendom van de IB-Groep. D
 
 ##### Artikel 6.2. Aanpassing
 
-Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2008-01-01&g=2008-09-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
+Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2008-12-06&g=2008-12-06), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
-##### Artikel 7.1. Afwijking van [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.7&z=2008-01-01&g=2008-09-01)
+##### Artikel 7.1. Afwijking van [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.7&z=2008-12-06&g=2008-12-06)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.2. Afwijking van [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.10&z=2008-01-01&g=2008-09-01)
+##### Artikel 7.2. Afwijking van [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.10&z=2008-12-06&g=2008-12-06)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.3. Afwijking van [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.11&z=2008-01-01&g=2008-09-01)
+##### Artikel 7.3. Afwijking van [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.11&z=2008-12-06&g=2008-12-06)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2008-01-01&g=2008-09-01)
+##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2008-12-06&g=2008-12-06)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2008-01-01&g=2008-09-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2008-01-01&g=2008-09-01)
+##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2008-12-06&g=2008-12-06) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2008-12-06&g=2008-12-06)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
@@ -297,36 +297,65 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage. bij de Regeling studiefinanciering 2000
+## Bijlage
 
-| HBO-bachelor | WO-bachelor | Bevoegdheid |
-| --- | --- | --- |
-| Bedrijfseconomie Accountancy Fiscale economie Commerciële economie | Bedrijfseconomie Algemene economie | Leraar economie |
-|   | Nederlands | Leraar Nederlands |
-|   | Engels | Leraar Engels |
-|   | Duits | Leraar Duits |
-|   | Frans | Leraar Frans |
-|   | Spaans | Leraar Spaans |
-|   | Arabisch | Leraar Arabisch |
-|   | Turks | Leraar Turks |
-|   | Fries | Leraar Fries |
-|   | Geografie | Leraar aardrijkskunde |
-|   | Geschiedenis | Leraar geschiedenis |
-| Bedrijfswiskunde | Wiskunde | Leraar wiskunde |
-| Technische natuurkunde | Natuurkunde | Leraar natuurkunde |
-| Industrieel ontwerpen | Industrieel ontwerpen | Leraar techniek |
-| Chemie/ Scheikunde | Chemie/ Scheikunde | Leraar scheikunde |
-|   | Biologie | Leraar biologie |
-| Werktuigbouwkunde | Werktuigbouwkunde | Leraar werktuigbouw |
-| Werktuigbouwkunde | Werktuigbouwkunde | Leraar techniek |
-| Elektrotechniek | Elektrotechniek | Leraar elektrotechniek |
-| Motorvoertuigen |   | Leraar motorvoertuigentechniek |
-| Bouwkunde | Bouwkunde | Leraar bouwkunde |
-| Bouwtechniek |   | Leraar bouwtechniek |
-| Pedagogiek Sociaal Pedagogische Hulpverlening | Pedagogiek | Leraar pedagogiek |
-|   | Politicologie | Leraar maatschappijleer |
-| Sociaal Pedagogische Hulpverlening Maatschappelijk Werk en Dienstverlening Cultureel Maatschappelijke Vorming Pedagogiek Psychologie Personeel en Arbeid | Pedagogiek Psychologie | Leraar omgangskunde |
-|   |   |   |
-| HBO-bachelor (alleen van het Hoger Agrarisch Onderwijs) Landbouw Plantenteelt Veehouderij Tuinbouw en akkerbouw Dier- en veehouderij Tuinbouw Levensmiddelentechnologie Voedingsmiddelentechnologie Tuin- en landschapsinrichting Bedrijfskunde en agribusiness Agrarische bedrijfskunde | WO-bachelor (alleen van de Wageningen Universiteit) Bos- en natuurbeheer Milieukunde Agrotechnologie Plantenwetenschappen Landschapsarchitectuur en ruimtelijke planning Landschap, planning en ontwerp Dierwetenschappen Biologie Voeding en gezondheid Levensmiddelentechnologie | Leraar educatie en kennismanagement voor de groene sector |
+| Hbo-bachelor | Wo-bachelor | B Opleiding tot leraar voortgezet onderwijs van de tweede graad | Crohonr. |
+| --- | --- | --- | --- |
+| Bedrijfseconomie, | Bedrijfseconomie, | Leraar economie* | 35203 35202 |
+| Accountancy, | Algemene economie, | Leraar economie* | 35203 35202 |
+| Fiscale economie, |   | Leraar economie* | 35203 35202 |
+| Commerciële economie, |   | Leraar economie* | 35203 35202 |
+| Management, Economie en Recht |   | Leraar economie* | 35203 35202 |
+|   | Nederlands | Leraar Nederlands | 35198 |
+|   | Engels | Leraar Engels | 35195 |
+|   | Duits | Leraar Duits | 35193 |
+|   | Frans | Leraar Frans | 35196 |
+|   | Spaans | Leraar Spaans | 35255 |
+|   | Arabisch | Leraar Arabisch | 35185 |
+|   | Turks | Leraar Turks | 35186 |
+|   | Fries | Leraar Fries | 35144 |
+|   | Geografie | Leraar aardrijkskunde | 35201 |
+|   | Geschiedenis | Leraar geschiedenis | 35197 |
+| Bedrijfswiskunde | Wiskunde | Leraar wiskunde | 35221 |
+| Technische natuurkunde | Natuurkunde | Leraar natuurkunde | 35261 |
+| Industrieel ontwerpen, | Industrieel ontwerpen | Leraar techniek | 35254 |
+| Werktuigbouwkunde |   |   |   |
+| Chemie/ Scheikunde, | Chemie/ Scheikunde | Leraar scheikunde | 35199 |
+| Applied Science met Scheikunde |   |   |   |
+|   | Biologie | Leraar biologie | 35301 |
+| Werktuigbouwkunde | Werktuigbouwkunde | Leraar werktuigbouw | 35387 |
+| Elektrotechniek | Elektrotechniek | Leraar elektrotechniek | 35384 |
+| Motorvoertuigen |   | Leraar motorvoertuigentechniek | 35386 |
+| Bouwkunde | Bouwkunde | Leraar bouwkunde | 35382 |
+| Bouwtechniek | Bouwtechniek | Leraar bouwtechniek | 35383 |
+| Pedagogiek, | Pedagogiek | Leraar pedagogiek | 35204 |
+| Sociaal Pedagogische Hulpverlening |   |   |   |
+|   | Politicologie | Leraar maatschappijleer | 35411 |
+| Sociaal Pedagogische Hulpverlening, | Pedagogiek, | Leraar omgangskunde | 35421 |
+| Maatschappelijk Werk en Dienstverlening, | Psychologie | Leraar omgangskunde | 35421 |
+| Cultureel Maatschappelijke Vorming, |   | Leraar omgangskunde | 35421 |
+| Creatieve Therapie, |   | Leraar omgangskunde | 35421 |
+| Pedagogiek, |   | Leraar omgangskunde | 35421 |
+| Psychologie, |   | Leraar omgangskunde | 35421 |
+| Personeel en Arbeid |   | Leraar omgangskunde | 35421 |
+| HBO-bachelor (alleen van het Hoger Agrarisch Onderwijs) | WO-bachelor (alleen van de Wageningen Universiteit) |   |   |
+| Plattelandsvernieuwing, | Bos- en natuurbeheer, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Landbouw, | Milieukunde, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Plantenteelt, | Agrotechnologie, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Veehouderij, | Plantenwetenschappen, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Tuinbouw en akkerbouw, | Biotechnologie, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Dier- en veehouderij, | Landschapsarchitectuur en ruimtelijke planning, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Voedingsmiddelentechnologie, | Landschap, planning en ontwerp, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Fooddesign en innovation, | Dierwetenschappen, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Tuinbouw, | Biologie, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Levensmiddelentechnologie, | Voeding en gezondheid, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Bos- en Natuurbeheer, | Levensmiddelentechnologie, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Tuin- en landschapsinrichting, | Voedingsmiddelentechnologie, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Tropische Landbouw, | Plant /Biotechnologie, | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Diermanagement, | Foodquality Management | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Bedrijfskunde en agribusiness, |   | Leraar educatie en kennis-management voor de groene sector | 34899 |
+| Agrarische bedrijfskunde |   | Leraar educatie en kennis-management voor de groene sector | 34899 |
+
+*) Tijdens het intakegesprek zal op basis van programmavergelijking worden vastgesteld in welke opleiding wordt ingestroomd (Algemene economie of Bedrijfseconomie).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
