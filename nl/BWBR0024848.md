@@ -471,25 +471,3 @@ Wat betreft de kostensoorten luidt de indeling als volgt:
 Wat betreft de opbrengstsoorten luidt de indeling als volgt:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4
-
-De kosten- en opbrengstsoorten, bedoeld in de [artikelen 4.74, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.74), en [4.75, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.75) volgen de indeling die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2025-01-01&g=2024-01-01) bij deze regeling.
-
-#### § 5. Bijzondere voorschriften ten aanzien van de informatieverstrekking aan derden
-
-#### § 6. Slotbepalingen
-
-## Bijlage 2
-
-### Kostensoorten
-
-Wat betreft de kostensoorten luidt de indeling als volgt:
-
-### Opbrengstsoorten
-
-Wat betreft de opbrengstsoorten luidt de indeling als volgt:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 4. Voorschriften ten aanzien van de uitvoeringsinformatie en bedrijfsvergelijking
