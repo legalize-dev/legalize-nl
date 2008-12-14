@@ -4,7 +4,7 @@ identifier: "BWBR0018150"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-05-01"
-last_updated: "2008-02-22"
+last_updated: "2008-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018150"
 soort: "ministeriele-regeling"
@@ -77,6 +77,8 @@ In deze regeling wordt verstaan onder:
 
 2. In afwijking van het eerste lid wordt de vergoeding vastgesteld op een bedrag dat gelijk is aan de kosten waarvan de aanbieder naar het oordeel van de opdrachtgever aannemelijk heeft gemaakt dat deze kosten declarabele kosten betreffen en dat deze kosten meer bedragen dan het indicatieve tarief, voor zover deze kosten in redelijkheid als noodzakelijk kunnen worden beschouwd.
 
+3. In afwijking van het eerste en tweede lid kan de opdrachtgever met een groep van aanbieders afspraken maken over de hoogte van de vergoeding voor declarabele kosten en de voorwaarden voor de uitbetaling van die vergoeding.
+
 ##### Artikel 4
 
 1. De indicatieve tarieven, vermeld in de bij deze regeling behorende bijlage, worden jaarlijks met ingang van 1 juni aangepast overeenkomstig het percentage van de ontwikkeling van het contractloon in de marktsector zoals door het Centraal Planbureau vastgesteld in het meest recente Centraal Economisch Plan voor het jaar voorafgaand aan het lopende kalenderjaar. De minister maakt de aangepaste bedragen bekend door publicatie in de Staatscourant.
@@ -105,7 +107,7 @@ Kostenopgaven bevatten voorts de volgende gegevens voor zover van toepassing op 
 
 ### **III. Indicatieve tarieven**
 
-A. Tot het tijdstip dat de eerste keer een indexering overeenkomstig [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018150&artikel=4&z=2008-02-22&g=2008-02-22), van de regeling heeft plaatsgevonden, bedragen de indicatieve tarieven voor de uitvoering van aftap- of informatieverstrekkingsactiviteiten:
+A. Tot het tijdstip dat de eerste keer een indexering overeenkomstig [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018150&artikel=4&z=2008-12-14&g=2008-12-14), van de regeling heeft plaatsgevonden, bedragen de indicatieve tarieven voor de uitvoering van aftap- of informatieverstrekkingsactiviteiten:
 
 B. De onder A genoemde indicatieve tarieven worden met 50% respectievelijk 100 % verhoogd indien spoedshalve aftap- en informatieverstrekkingsactiviteiten buiten kantooruren respectievelijk in de weekeinden of op feestdagen moeten worden uitgevoerd.
 
