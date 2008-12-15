@@ -4,7 +4,7 @@ identifier: "BWBV0005264"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-04-01"
-last_updated: "2008-07-01"
+last_updated: "2008-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005264"
 soort: "verdrag"
@@ -2767,7 +2767,7 @@ Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander
 
 3. Lid 1 is van toepassing op alle tentoonstellingen, beurzen of soortgelijke openbare evenementen met een commercieel, industrieel, agrarisch of ambachtelijk karakter die niet voor particuliere doeleinden in winkels of bedrijfsruimten met het oog op de verkoop van buitenlandse producten worden gehouden, en gedurende welke de producten onder douanetoezicht zijn gebleven.
 
-## TITEL IV. BEWIJS VAN DE OORSPRONG
+## TITEL II. OMSCHRIJVING VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG”
 
 ##### Artikel 14. Algemene eisen
 
@@ -3225,29 +3225,13 @@ Mocht er een teruggang van deze uitvoer ten gevolge van rampen zoals droogte, we
 
 ##### Artikel 4
 
-Er zijn specifieke bepalingen en maatregelen vastgesteld om de insulaire ACS-Staten te steunen in hun streven de natuurlijke en geografische moeilijkheden en andere belemmeringen die hun ontwikkeling in de weg staan, te overwinnen zodat zij hun ontwikkelingstempo kunnen versnellen.
+Indien een van de in artikel 2 genoemde ACS-Staten in een bepaald jaar niet in staat is de totale toegestane hoeveelheid te leveren en niet in aanmerking wenst te komen voor de in artikel 3 bedoelde maatregelen, kan de Commissie het ontbrekende quantum over de andere betrokken ACS-Staten verdelen. In dat geval stellen de betrokken ACS-Staten de Commissie, uiterlijk op 1 september van het betrokken jaar, de ACS-Staat of ACS-Staten voor die een extra hoeveelheid kunnen leveren, terwijl zij ook vermelden welke ACS-Staat niet in staat is het totale hem toegewezen quantum te leveren, met dien verstande dat deze nieuwe tijdelijke toewijzing de aanvankelijke hoeveelheden niet mag wijzigen.
+
+De Commissie ziet erop toe dat uiterlijk op 15 november een besluit zal zijn genomen.
 
 ##### Artikel 5
 
-De insulaire ACS-Staten zijn:
-
-| Antigua en Barbuda | Micronesië |
-| --- | --- |
-| Bahama’s | Nauru |
-| Barbados | Niue |
-| Kaapverdië | Palau |
-| Comoren | Papoea-Nieuw-Guinea |
-| Cookeilanden | Saint Kitts en Nevis |
-| Dominica | Saint Lucia |
-| Dominicaanse Republiek | Saint Vincent en de Grenadines |
-| Fiji | Samoa |
-| Grenada | Sao Tomé en Principe |
-| Haïti | Seychellen |
-| Jamaica | Salomonseilanden |
-| Kiribati | Tonga |
-| Madagaskar | Trinidad en Tobago |
-| Marshalleilanden | Tuvalu |
-| Mauritius | Vanuatu |
+De uitvoering van dit Protocol geschiedt in het kader van het beheer van de gemeenschappelijke marktordening in de sector rund- en kalfsvlees, hetgeen echter geen invloed mag hebben op de verbintenissen van de Gemeenschap uit hoofde van dit Protocol.
 
 De partijen bij de Overeenkomst,
 
@@ -3293,7 +3277,7 @@ Geen enkele vrijstelling wordt verleend van belastingen, heffingen, rechten en r
 
 De Raad van ACS-Ministers is vrijgesteld van alle douanerechten, in- en uitvoerverboden en in- en uitvoerbeperkingen met betrekking tot goederen bestemd voor zijn officiële gebruik; de aldus ingevoerde goederen mogen op het grondgebied van het land waar zij zijn ingevoerd, niet worden verkocht of anderszins onder bezwarende titel of om niet worden overgedragen, tenzij op voorwaarden welke door de Regering van dat land zijn goedgekeurd.
 
-### HOOFDSTUK 3. OFFICIËLE MEDEDELINGEN
+### NIET AAN ZEE GRENZENDE ACS-STATEN
 
 ##### Artikel 6
 
@@ -3373,31 +3357,17 @@ De bepalingen inzake samenwerkingsstategieën van deze Overeenkomst zijn van toe
 
 De aan deze overeenkomst gehechte protocollen en verklaringen betreffende niet op Zuid-Afrika toepasselijke gedeelten van de Overeenkomst, zijn niet op Zuid-Afrika van toepassing. Alle andere verklaringen en protocollen zijn op Zuid-Afrika van toepassing.
 
-##### Artikel 7. Herzieningsclausule
+##### Artikel 7
 
-Dit protocol kan bij besluit van de Raad van Ministers worden herzien.
+1. In de Staat waar de Raad van ACS-Ministers is gevestigd, genieten de secretaris of secretarissen, de adjunct-secretaris of adjunct-secretarissen alsmede de andere door de ACS-Staten aan te wijzen permanente hooggeplaatste personeelsleden van de Raad van ACS-Ministers, onder verantwoordelijkheid van de fungerend voorzitter van het Comité van Ambassadeurs, de voordelen die worden toegekend aan de leden van het diplomatieke personeel van de diplomatieke missies. Hun echtgenoten en minderjarige kinderen met wie zij in gezinsverband leven, genieten onder dezelfde voorwaarden de voordelen die aan de echtgenoten en minderjarige kinderen van diplomatiek personeel worden toegekend.
 
-##### Artikel 8. Toepasselijkheid
+2. De niet in lid 1 genoemde statutaire ACS-personeelsleden worden door het gastland vrijgesteld van elke belasting op de salarissen, emolumenten en vergoedingen die hun door de ACS-Staten worden uitbetaald en dit vanaf de dag waarop deze inkomsten aan een belasting ten bate van de ACS-Staten worden onderworpen.
 
-Onverminderd het bepaalde in voorgaande artikelen worden in volgende tabel de op Zuid-Afrika toepasselijke en niet toepasselijke artikelen van de Overeenkomst en haar bijlagen aangegeven.
+Deze bepaling is niet van toepassing op de door het ACS-secretariaat aan zijn gewezen personeelsleden of hun rechtverkrijgenden uitbetaalde pensioenen en renten, noch op de aan zijn plaatselijke functionarissen uitgekeerde salarissen, emolumenten en vergoedingen.
 
-| **Toepasselijk** | **Opmerkingen** | **Niet toepasselijk** |
-| --- | --- | --- |
-| Preambule |   |   |
-| Deel 1, Titel I, Hoofdstuk 1: **„Doeleinden, beginselen en actoren”** (artikelen 1–7) |   |   |
-| Deel 1, Titel II, **„De politieke dimensie”** artikelen 8–13 |   |   |
-| Deel 2, **„Institutionele bepalingen”;** artikelen 14–17 | **Overeenkomstig artikel 2 van dit protocol heeft Z-A in de gezamenlijke instellingen en organen geen stemrecht ten aanzien van besluiten die moeten worden genomen met betrekking tot bepalingen van de Overeenkomst welke niet op Z-A van toepassing zijn.** |   |
-| Deel 3, Titel I, **„Ontwikkelingsstrategiën”.** |   |   |
-|   | **Overeenkomstig artikel 5 wordt Zuid-Afrika als waarnemer betrokken bij de dialoog tussen de overeenkomstsluitende partijen zoals bedoeld in artikelen 34 tot en met 40.** | Deel 3, Titel II, **Economische en commerciële samenwerking**. |
-| Artikel 75.i (**Bevordering van investeringen, steun voor de dialoog in het particuliere bedrijfsleven op regionaal niveau en tussen ACS en EU**), Artikel 78 (**Bescherming van investeringen**) | **Overeenkomstig artikel 4 heeft Zuid-Afrika het recht op bepaalde gebieden aan de samenwerking inzake ontwikkelingsfinanciering deel te nemen, met dien verstande dat de deelname volledig wordt gefinancierd uit de middelen waarin wordt voorzien onder Titel VII van de TDCA. Overeenkomstig artikel 2 wordt Zuid-Afrika volledig betrokken bij de werkzaamheden van het bij artikel 83 opgerichte ACS-EG-Comité voor samenwerking inzake ontwikkelingsfinanciering zonder evenwel stemrecht te hebben met betrekking tot de bepalingen welke op Zuid-Afrika niet van toepassing zijn.** | Deel 4, **Samenwerking inzake ontwikkelingsfinanciering** |
-| Deel 5, **Algemene bepalingen betreffende de minst ontwikkelde, niet aan zee grenzende en insulaire ACS-Staten**, artikelen 84–90 |   |   |
-| Deel 6, Slotbepalingen, artikelen 91–100 |   |   |
-|   |   | Bijlage I (Financieel protocol) |
-| Bijlage II, **Financieringsvoorwaarden**, Hoofdstuk 5 (link met artikel 78 / bescherming van investeringen) | **Overeenkomstig artikel 4 heeft Zuid-Afrika het recht op bepaalde gebieden aan de samenwerking inzake ontwikkelingsfinanciering deel te nemen, met dien verstande dat de deelname volledig wordt gefinancierd uit de middelen waarin wordt voorzien onder Titel VII van de TDCA.** | Bijlage II,**Financieringsvoorwaarden, Hoofdstukken 1, 2, 3 en 4** |
-| **Bijlage III Institutionele ondersteuning (COD en TCLP)** | **Overeenkomstig artikel 4 heeft Zuid-Afrika het recht op bepaalde gebieden aan de samenwerking inzake ontwikkelingsfinanciering deel te nemen, met dien verstande dat de deelname volledig wordt gefinancierd uit de middelen waarin wordt voorzien onder Titel VII van de TDCA.** |   |
-| Bijlage IV, **Procedures voor tenuitvoerlegging en beheer:** artikelen 6–14, (**Regionale samenwerking**) artikelen20–32 (**Concurrentie en preferenties**) | **Overeenkomstig artikel 4 heeft Zuid-Afrika, voor zover TDCA-middelen worden aangewend voor het deelnemen aan maatregelen in het kader van de ACS-EG-samenwerking inzake ontwikkelingsfinanciering, het recht volwaardig deel te nemen aan de besluitvormingsprocedures betreffende de tenuitvoerlegging van bedoelde steunmaatregelen. Zuid-Afrikaanse natuurlijke personen en rechtspersonen komen bovendien in aanmerking voor het toegewezen krijgen van contracten welke worden gefinancierd uit de middelen waarin de Overeenkomst voorziet. Met betrekking daartoe worden aan Zuid-Afrikaanse inschrijvers echter niet dezelfde preferenties verleend als aan die uit de ACS-Staten.** | Bijlage IV, artikelen 1–5 (**nationale programmering**); 15–19 (**bepalingen betreffende projectcyclus**), 27 **(preferenties voor ACS-contractanten)**en 34–38 (**Uitvoerende instanties**) |
-|   |   | Bijlage V / Handelsregeling tijdens de voorbereidingsperiode |
-| Bijlage VI; Lijsten van de minst ontwikkelde, niet aan zee grenzende en insulaire ACS-Staten |   |   |
+##### Artikel 8
+
+De Staat waar de Raad van ACS-Ministers is gevestigd, verleent aan de andere dan de in artikel 7, lid 1, bedoelde permanente personeelsleden van het secretariaat van de ACS-Staten slechts vrijstelling van rechtsvervolging voor daden die zij in hun officiële hoedanigheid en binnen de grenzen van hun ambtsbevoegdheden stellen. Deze vrijstelling geldt evenwel niet in geval van verkeersovertredingen door een permanent personeelslid van het secretariaat van de ACS-Staten of van schade veroorzaakt door een hem toebehorend of door hem bestuurd motorvoertuig.
 
 De gevolmachtigden van:
 
@@ -3855,7 +3825,7 @@ Halverwege de looptijd en aan het einde van de looptijd van een financieel proto
 
 2. Het recht op aanvullende financiële middelen is van toepassing wanneer de in lid 1 omschreven daling van de exportopbrengsten ten minste 0,5% van het bbp bedraagt. Het recht op aanvullende financiële middelen is beperkt tot drie opeenvolgende jaren.
 
-3. De aanvullende financiële middelen worden opgenomen in de openbare rekeningen van het betrokken land. Zij worden gebruikt overeenkomstig de programmeringsregels en -methoden, inclusief de specifieke bepalingen van [bijlage IV „Procedures voor tenuitvoerlegging en beheer”](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&z=2008-07-01&g=2008-07-01), op basis van vooraf opgestelde overeenkomsten tussen de Gemeenschap en de betrokken ACS-staat in het jaar volgend op het toepassingsjaar. Bij overeenstemming tussen de partijen kunnen de middelen worden gebruikt voor financiering van in de nationale begroting opgenomen programma’s. Een deel van de aanvullende financiële middelen kan evenwel worden bestemd voor specifieke sectoren, met name voor de ontwikkeling van commerciële verzekeringsregelingen die bescherming bieden tegen fluctuaties van exportopbrengsten.
+3. De aanvullende financiële middelen worden opgenomen in de openbare rekeningen van het betrokken land. Zij worden gebruikt overeenkomstig de programmeringsregels en -methoden, inclusief de specifieke bepalingen van [bijlage IV „Procedures voor tenuitvoerlegging en beheer”](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&z=2008-12-15&g=2008-12-15), op basis van vooraf opgestelde overeenkomsten tussen de Gemeenschap en de betrokken ACS-staat in het jaar volgend op het toepassingsjaar. Bij overeenstemming tussen de partijen kunnen de middelen worden gebruikt voor financiering van in de nationale begroting opgenomen programma’s. Een deel van de aanvullende financiële middelen kan evenwel worden bestemd voor specifieke sectoren, met name voor de ontwikkeling van commerciële verzekeringsregelingen die bescherming bieden tegen fluctuaties van exportopbrengsten.
 
 ##### Artikel 10. Voorschotten
 
@@ -4815,7 +4785,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - m. „gebieden”: ook de territoriale wateren.
 
-## TITEL II. OMSCHRIJVING VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG”
+## TITEL I. ALGEMENE BEPALINGEN
 
 ##### Artikel 2. Algemene voorwaarden
 
@@ -5379,7 +5349,7 @@ De verzoeken om afwijkingen worden door de ACS-staten, met inachtneming van bove
 
 6. Ceuta en Melilla worden als één enkel grondgebied beschouwd.
 
-## TITEL VII. SLOTBEPALINGEN
+## TITEL VI. CEUTA EN MELILLA
 
 ##### Artikel 40. Herziening van de oorsprongsregels
 
@@ -5485,7 +5455,7 @@ In het kader van deze Overeenkomst worden als minst ontwikkelde ACS-Staten besch
 | Mauritanië |   |
 | Madagaskar |   |
 
-### NIET AAN ZEE GRENZENDE ACS-STATEN
+### MINST ONTWIKKELDE ACS-STATEN
 
 ##### Artikel 2
 
@@ -5553,7 +5523,7 @@ De vertegenwoordigers van de Regeringen van de lidstaten en van de ACS-Staten en
 
 De vorige alinea is eveneens van toepassing op de leden van de Paritaire Vergadering van de Overeenkomst, op de scheidsrechters die krachtens deze Overeenkomst kunnen worden aangewezen, op de leden van de eventueel op te richten raadgevende instanties van de economische en sociale groeperingen, op de ambtenaren en andere personeelsleden daarvan, op de leden van de organen van de Europese Investeringsbank en het personeel daarvan, alsmede op het personeel van het Centrum voor industriële ontwikkeling en het Centrum voor ontwikkeling van de landbouw.
 
-### HOOFDSTUK 2. EIGENDOMMEN, FONDSEN EN BEZITTINGEN VAN DE RAAD VAN ACS-MINISTERS
+### HOOFDSTUK 1. PERSONEN DIE DEELNEMEN AAN DE WERKZAAMHEDEN MET BETREKKING TOT DE OVEREENKOMST
 
 ##### Artikel 2
 
@@ -5585,7 +5555,7 @@ Voor hun officiële mededelingen en het overbrengen van al hun documenten geniet
 
 De officiële correspondentie en andere officiële mededelingen van de Europese Gemeenschap, van de gezamenlijke instellingen van de Overeenkomst en van de coördinatieorganen mogen niet aan censuur worden onderworpen.
 
-### HOOFDSTUK 4. PERSONEEL VAN HET SECRETARIAAT VAN DE ACS-STATEN
+### HOOFDSTUK 3. OFFICIËLE MEDEDELINGEN
 
 ##### Artikel 7
 
@@ -5611,7 +5581,7 @@ Naam, hoedanigheid en adres van de fungerend voorzitter van het Comité van Amba
 
 2. De in lid 1 bedoelde personeelsleden komen eveneens in aanmerking voor het bepaalde in artikel 31, lid 2, onder g), en in bijlage IV, hoofdstuk 4.
 
-### HOOFDSTUK 6. ALGEMENE BEPALINGEN
+### HOOFDSTUK 5. DELEGATIES VAN DE COMMISSIE
 
 ##### Artikel 11
 
@@ -5887,9 +5857,9 @@ GEDAAN te Cotonou, de drieëntwintigste juni 2000.
 
 1. Het bedrag van de aanvullende financiële middelen is gelijk aan de daling van de exportopbrengsten vermenigvuldigd met het rekenkundig gemiddelde van de verhouding overheidsinkomsten/bruto binnenlands product in de vier aan het toepassingsjaar voorafgaande jaren, waarbij geen rekening wordt gehouden met de meest extreme waarde en het verhoudingscijfer ten hoogste 25% bedraagt.
 
-2. De door de ACS-staten verstrekte gegevens voor het bepalen van de toekenningscriteria en de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2008-07-01&g=2008-07-01) omschreven aanvullende financiële middelen worden door de Commissie geanalyseerd in de plaatselijke munteenheid, gecorrigeerd voor inflatie. De Commissie rekent vervolgens het potentiële bedrag van de aanvullende financiële middelen overeenkomstig haar procedures om in euro.
+2. De door de ACS-staten verstrekte gegevens voor het bepalen van de toekenningscriteria en de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2008-12-15&g=2008-12-15) omschreven aanvullende financiële middelen worden door de Commissie geanalyseerd in de plaatselijke munteenheid, gecorrigeerd voor inflatie. De Commissie rekent vervolgens het potentiële bedrag van de aanvullende financiële middelen overeenkomstig haar procedures om in euro.
 
-3. Binnen de totale toewijzing voor de nationale indicatieve programma’s stelt de Commissie jaarlijks voor alle ACS-staten een toewijzing vast voor steun in geval van kortetermijnfluctuaties van de exportopbrengsten. Indien het bedrag van de financiële middelen dat op basis van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2008-07-01&g=2008-07-01) vastgestelde criteria wordt berekend, hoger is dan die toewijzing, worden de nationale toewijzingen verdeeld naar verhouding van het in euro uitgedrukte potentiële bedrag van de aanvullende financiële middelen voor iedere ACS-staat.
+3. Binnen de totale toewijzing voor de nationale indicatieve programma’s stelt de Commissie jaarlijks voor alle ACS-staten een toewijzing vast voor steun in geval van kortetermijnfluctuaties van de exportopbrengsten. Indien het bedrag van de financiële middelen dat op basis van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2008-12-15&g=2008-12-15) vastgestelde criteria wordt berekend, hoger is dan die toewijzing, worden de nationale toewijzingen verdeeld naar verhouding van het in euro uitgedrukte potentiële bedrag van de aanvullende financiële middelen voor iedere ACS-staat.
 
 ##### Artikel 10. Voorschotten
 
@@ -7405,7 +7375,7 @@ De bijlagen bij dit Protocol maken deel uit van dit Protocol.
 
 De Gemeenschap en de ACS-staten nemen, ieder voor zich, de maatregelen die nodig zijn voor de tenuitvoerlegging van dit Protocol.
 
-De Gemeenschap en de ACS-Staten komen de volgende bijzondere maatregelen overeen om de traditionele rund- en kalfsvleesexporterende ACS-Staten in staat te stellen hun positie op de markt van de Gemeenschap te behouden en hun producenten aldus een bepaald inkomensniveau te garanderen.
+**PROTOCOL 3 betreffende ACS-suiker**
 
 ##### Artikel 1
 
@@ -7594,6 +7564,1474 @@ De Staat waar de Raad van ACS-Ministers is gevestigd, verleent aan de andere dan
 Naam, hoedanigheid en adres van de fungerend voorzitter van het Comité van Ambassadeurs, van de secretaris of secretarissen, de adjunct-secretaris of adjunct-secretarissen van de Raad van ACS-Ministers alsmede van de permanente personeelsleden van het secretariaat van de ACS-Staten worden op gezette tijden door de Voorzitter van de Raad van ACS-Ministers aan de Regering van de Staat waar deze Raad is gevestigd, medegedeeld.
 
 ### HOOFDSTUK 5. DELEGATIES VAN DE COMMISSIE
+
+##### Artikel 10
+
+1. Het hoofd van de delegatie van de Commissie en het gemandateerde personeel van de delegatie, met uitzondering van het plaatselijk aangeworven personeel, zijn vrijgesteld van elke belastingheffing in de ACS-Staat waar zij zijn gevestigd.
+
+2. De in lid 1 bedoelde personeelsleden komen eveneens in aanmerking voor het bepaalde in artikel 31, lid 2, onder g), en in bijlage IV, hoofdstuk 4.
+
+### HOOFDSTUK 6. ALGEMENE BEPALINGEN
+
+##### Artikel 11
+
+De in dit Protocol bedoelde voorrechten, immuniteiten en faciliteiten worden aan de begunstigden uitsluitend in het belang van hun officiële ambt verleend.
+
+De in dit Protocol bedoelde instellingen en organen moeten van de immuniteit afzien in alle gevallen waarin opheffing van de immuniteit naar hun mening niet strijdig is met hun belangen.
+
+##### Artikel 12
+
+Artikel 98 van de Overeenkomst is van toepassing op de geschillen betreffende dit Protocol. De Raad van ACS-Ministers en de Europese Investeringsbank kunnen tijdens een arbitrageprocedure partij zijn in een zaak.
+
+##### Artikel 1. Gekwalificeerde status
+
+1. Zuid-Afrika neemt aan deze Overeenkomst deel onder de in dit protocol omschreven voorwaarden.
+
+2. De bepalingen van de te Pretoria op 11 oktober 1999 ondertekende bilaterale overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap, haar lidstaten en Zuid-Afrika, hierna de „TDCA” (Trade and Development Co-operation Agreement between the European Community, its Member States and South Africa) genoemd, prevaleren boven de bepalingen van deze Overeenkomst.
+
+##### Artikel 2. Algemene bepalingen, politieke dialoog en gezamenlijke instellingen
+
+1. De algemene en institutionele bepalingen evenals de slotbepalingen van deze Overeenkomst zijn op Zuid-Afrika van toepassing.
+
+2. Zuid-Afrika wordt volledig betrokken bij de algemene politieke dialoog en in de werking van de in het kader van deze Overeenkomst opgezette gezamenlijke instellingen en organen. Zuid-Afrika neemt evenwel niet deel aan het besluitvormingsproces ten aanzien van besluiten die moeten worden genomen met betrekking tot bepalingen welke op grond van dit protocol niet op Zuid-Afrika van toepassing zijn.
+
+##### Artikel 3. Samenwerkingsstrategieën
+
+De bepalingen inzake samenwerkingsstategieën van deze Overeenkomst zijn van toepassing op de samenwerking tussen de EG en Zuid-Afrika.
+
+##### Artikel 4. Financiële middelen
+
+1. De bepalingen van deze Overeenkomst betreffende de samenwerking inzake ontwikkelingsfinanciering zijn niet van toepassing op Zuid-Afrika.
+
+2. In afwijking van dit beginsel heeft Zuid-Afrika evenwel het recht aan de ACS-EG-samenwerking inzake ontwikkelingsfinanciering deel te nemen op de gebieden vermeld in artikel 8, met dien verstande dat de deelname van Zuid-Afrika volledig wordt gefinancierd uit de middelen waarin wordt voorzien onder Titel VII van de TDCA. Voor zover TDCA-middelen worden aangewend voor het deelnemen aan maatregelen in het kader van de ACS-EG-samenwerking inzake ontwikkelingsfinanciering heeft Zuid-Afrika het recht volwaardig deel te nemen aan de besluitvormingsprocedures betreffende de tenuitvoerlegging van bedoelde steunmaatregelen.
+
+3. Zuid-Afrikaanse natuurlijke personen en rechtspersonen komen in aanmerking voor het toegewezen krijgen van contracten welke worden gefinancierd uit de middelen waarin deze Overeenkomst voorziet. Met betrekking daartoe worden aan Zuid-Afrikaanse natuurlijke personen en rechtspersonen echter niet dezelfde preferenties verleend als aan natuurlijke personen en rechtspersonen van de ACS-Staten.
+
+##### Artikel 5. Commerciële samenwerking
+
+1. De bepalingen van deze Overeenkomst betreffende economische en commerciële samenwerking zijn niet van toepassing op Zuid-Afrika.
+
+2. Zuid-Afrika wordt niettemin als waarnemer betrokken bij de dialoog tussen de overeenkomstsluitende partijen zoals bedoeld in artikelen 34 tot en met 40 van deze Overeenkomst.
+
+3. Dit protocol vormt voor Zuid-Afrika geen beletsel voor onderhandelingen over en ondertekening van een economische partnerschapsovereenkomst (EPO) als bedoeld in deel 3, titel II, van deze Overeenkomst, als de andere partijen bij die EPO daarmee akkoord gaan.
+
+##### Artikel 6. Toepasselijkheid van protocollen en verklaringen
+
+De aan deze overeenkomst gehechte protocollen en verklaringen betreffende niet op Zuid-Afrika toepasselijke gedeelten van de Overeenkomst, zijn niet op Zuid-Afrika van toepassing. Alle andere verklaringen en protocollen zijn op Zuid-Afrika van toepassing.
+
+##### Artikel 7. Herzieningsclausule
+
+Dit protocol kan bij besluit van de Raad van Ministers worden herzien.
+
+##### Artikel 8. Toepasselijkheid
+
+Onverminderd het bepaalde in voorgaande artikelen worden in volgende tabel de op Zuid-Afrika toepasselijke en niet toepasselijke artikelen van de Overeenkomst en haar bijlagen aangegeven.
+
+| **Toepasselijk** | **Opmerkingen** | **Niet toepasselijk** |
+| --- | --- | --- |
+| Preambule |   |   |
+| Deel 1, Titel I, Hoofdstuk 1: **„Doeleinden, beginselen en actoren”** (artikelen 1–7) |   |   |
+| Deel 1, Titel II, **„De politieke dimensie”** artikelen 8–13 |   |   |
+| Deel 2, **„Institutionele bepalingen”;** artikelen 14–17 | **Overeenkomstig artikel 2 van dit protocol heeft Z-A in de gezamenlijke instellingen en organen geen stemrecht ten aanzien van besluiten die moeten worden genomen met betrekking tot bepalingen van de Overeenkomst welke niet op Z-A van toepassing zijn.** |   |
+| Deel 3, Titel I, **„Ontwikkelingsstrategiën”.** |   |   |
+|   | **Overeenkomstig artikel 5 wordt Zuid-Afrika als waarnemer betrokken bij de dialoog tussen de overeenkomstsluitende partijen zoals bedoeld in artikelen 34 tot en met 40.** | Deel 3, Titel II, **Economische en commerciële samenwerking**. |
+| Artikel 75.i (**Bevordering van investeringen, steun voor de dialoog in het particuliere bedrijfsleven op regionaal niveau en tussen ACS en EU**), Artikel 78 (**Bescherming van investeringen**) | **Overeenkomstig artikel 4 heeft Zuid-Afrika het recht op bepaalde gebieden aan de samenwerking inzake ontwikkelingsfinanciering deel te nemen, met dien verstande dat de deelname volledig wordt gefinancierd uit de middelen waarin wordt voorzien onder Titel VII van de TDCA. Overeenkomstig artikel 2 wordt Zuid-Afrika volledig betrokken bij de werkzaamheden van het bij artikel 83 opgerichte ACS-EG-Comité voor samenwerking inzake ontwikkelingsfinanciering zonder evenwel stemrecht te hebben met betrekking tot de bepalingen welke op Zuid-Afrika niet van toepassing zijn.** | Deel 4, **Samenwerking inzake ontwikkelingsfinanciering** |
+| Deel 5, **Algemene bepalingen betreffende de minst ontwikkelde, niet aan zee grenzende en insulaire ACS-Staten**, artikelen 84–90 |   |   |
+| Deel 6, Slotbepalingen, artikelen 91–100 |   |   |
+|   |   | Bijlage I (Financieel protocol) |
+| Bijlage II, **Financieringsvoorwaarden**, Hoofdstuk 5 (link met artikel 78 / bescherming van investeringen) | **Overeenkomstig artikel 4 heeft Zuid-Afrika het recht op bepaalde gebieden aan de samenwerking inzake ontwikkelingsfinanciering deel te nemen, met dien verstande dat de deelname volledig wordt gefinancierd uit de middelen waarin wordt voorzien onder Titel VII van de TDCA.** | Bijlage II,**Financieringsvoorwaarden, Hoofdstukken 1, 2, 3 en 4** |
+| **Bijlage III Institutionele ondersteuning (COD en TCLP)** | **Overeenkomstig artikel 4 heeft Zuid-Afrika het recht op bepaalde gebieden aan de samenwerking inzake ontwikkelingsfinanciering deel te nemen, met dien verstande dat de deelname volledig wordt gefinancierd uit de middelen waarin wordt voorzien onder Titel VII van de TDCA.** |   |
+| Bijlage IV, **Procedures voor tenuitvoerlegging en beheer:** artikelen 6–14, (**Regionale samenwerking**) artikelen20–32 (**Concurrentie en preferenties**) | **Overeenkomstig artikel 4 heeft Zuid-Afrika, voor zover TDCA-middelen worden aangewend voor het deelnemen aan maatregelen in het kader van de ACS-EG-samenwerking inzake ontwikkelingsfinanciering, het recht volwaardig deel te nemen aan de besluitvormingsprocedures betreffende de tenuitvoerlegging van bedoelde steunmaatregelen. Zuid-Afrikaanse natuurlijke personen en rechtspersonen komen bovendien in aanmerking voor het toegewezen krijgen van contracten welke worden gefinancierd uit de middelen waarin de Overeenkomst voorziet. Met betrekking daartoe worden aan Zuid-Afrikaanse inschrijvers echter niet dezelfde preferenties verleend als aan die uit de ACS-Staten.** | Bijlage IV, artikelen 1–5 (**nationale programmering**); 15–19 (**bepalingen betreffende projectcyclus**), 27 **(preferenties voor ACS-contractanten)**en 34–38 (**Uitvoerende instanties**) |
+|   |   | Bijlage V / Handelsregeling tijdens de voorbereidingsperiode |
+| Bijlage VI; Lijsten van de minst ontwikkelde, niet aan zee grenzende en insulaire ACS-Staten |   |   |
+
+De gevolmachtigden van:
+
+Zijne Majesteit de Koning der Belgen,
+
+Hare Majesteit de Koningin van Denemarken,
+
+De President van de Bondsrepubliek Duitsland,
+
+De President van de Helleense Republiek,
+
+Zijne Majesteit de Koning van Spanje,
+
+De President van de Franse Republiek,
+
+De President van Ierland,
+
+De President van de Italiaanse Republiek,
+
+Zijne Koninklijke Hoogheid de Groothertog van Luxemburg,
+
+Hare Majesteit de Koningin der Nederlanden,
+
+De Federale President van de Republiek Oostenrijk,
+
+De President van de Portugese Republiek,
+
+De President van de Republiek Finland,
+
+De Regering van het Koninkrijk Zweden,
+
+Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
+
+partijen bij het Verdrag tot oprichting van de Europese Gemeenschap van Kolen en Staal en bij het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna „de Gemeenschap” genoemd, wier staten hierna „de lidstaten” worden genoemd,
+
+en van de Raad van de Europese Unie en de Commissie van de Europese Gemeenschappen, enerzijds, en
+
+de gevolmachtigden van:
+
+De President van de Republiek Angola,
+
+Hare Majesteit de Koningin van Antigua en Barbuda,
+
+Het Staatshoofd van het Gemenebest van de Bahama's,
+
+Het Staatshoofd van Barbados,
+
+Hare Majesteit de Koningin van Belize,
+
+De President van de Republiek Benin,
+
+De President van de Republiek Botswana,
+
+De President van Burkina Faso,
+
+De President van de Republiek Boeroendi,
+
+De President van de Republiek Kameroen,
+
+De President van de Republiek Kaapverdië,
+
+De President van de Centraal-Afrikaanse Republiek,
+
+De President van de Republiek Tsjaad,
+
+De President van de Islamitische Bondsrepubliek der Comoren,
+
+De President van de Democratische Republiek Congo,
+
+De President van de Republiek Congo,
+
+De Regering van de Cookeilanden,
+
+De President van de Republiek Ivoorkust,
+
+De President van de Republiek Djibouti,
+
+De Regering van het Gemenebest Dominica,
+
+De President van de Dominicaanse Republiek,
+
+De President van de Staat Eritrea,
+
+De President van de Republiek Equatoriaal-Guinee,
+
+De President van de Democratische Federale Republiek Ethiopië,
+
+De President van de Soevereine Democratische Republiek Fiji,
+
+De President van de Republiek Gabon,
+
+De President en het Staatshoofd van de Republiek Gambia,
+
+De President van de Republiek Ghana,
+
+Hare Majesteit de Koningin van Grenada,
+
+De President van de Republiek Guinee,
+
+De President van de Republiek Guinee-Bissau,
+
+De President van de Republiek Guyana,
+
+De President van de Republiek Haïti,
+
+Het Staatshoofd van Jamaica,
+
+De President van de Republiek Kenia,
+
+De President van de Republiek Kiribati,
+
+Zijne Majesteit de Koning van het Koninkrijk Lesotho,
+
+De President van de Republiek Liberia,
+
+De President van de Republiek Madagaskar,
+
+De President van de Republiek Malawi,
+
+De President van de Republiek Mali,
+
+De Regering van de Republiek der Marshalleilanden,
+
+De President van de Islamitische Republiek Mauritanië,
+
+De President van de Republiek Mauritius,
+
+De Regering van de Federale Staten van Micronesië,
+
+De President van de Republiek Mozambique,
+
+De President van de Republiek Namibië,
+
+De Regering van de Republiek Nauru,
+
+De President van de Republiek Niger,
+
+Het Hoofd van de Federale Republiek Nigeria,
+
+De Regering van Niue,
+
+De Regering van de Republiek Palau,
+
+Hare Majesteit de Koningin van de Onafhankelijke Staat Papoea-Nieuw-Guinea,
+
+De President van de Republiek Rwanda,
+
+Hare Majesteit de Koningin van Saint Kitts en Nevis,
+
+Hare Majesteit de Koningin van Saint Lucia,
+
+Hare Majesteit de Koningin van Saint Vincent en de Grenadines,
+
+Het Staatshoofd van de Onafhankelijke Staat Samoa,
+
+De President van de Democratische Republiek Sao Tomé en Principe,
+
+De President van de Republiek Senegal,
+
+De President van de Republiek der Seychellen,
+
+De President van de Republiek Sierra Leone,
+
+Hare Majesteit de Koningin van de Salomonseilanden,
+
+De President van de Democratische Republiek Somalië,
+
+De President van de Republiek Zuid-Afrika,
+
+De President van de Republiek Soedan,
+
+De President van de Republiek Suriname,
+
+Zijne Majesteit de Koning van het Koninkrijk Swaziland,
+
+De President van de Verenigde Republiek Tanzania,
+
+De President van de Republiek Togo,
+
+Zijne Majesteit Koning Taufa'ahau Tupou IV van Tonga,
+
+De President van de Republiek Trinidad en Tobago,
+
+Hare Majesteit de Koningin van Tuvalu,
+
+De President van de Republiek Oeganda,
+
+De Regering van de Republiek Vanuatu,
+
+De Regering van de Republiek Zambia,
+
+De President van de Republiek Zimbabwe,
+
+wier staten hierna „de ACS-staten” worden genoemd, anderzijds,
+
+op 23 juni 2000 voor de ondertekening van de ACS-EG-Partnerschapsovereenkomst te Cotonou bijeengekomen, hebben de volgende teksten goedgekeurd:
+
+GEDAAN te Cotonou, de drieëntwintigste juni 2000.
+
+##### Artikel 19 quater. Gunning van contracten, toekenning van subsidies en uitvoering van contracten
+
+1. Behalve in gevallen zoals bedoeld in artikel 26 worden contracten en subsidies toegekend en uitgevoerd volgens de communautaire regels en, behalve in de specifieke gevallen zoals bedoeld in deze regels, volgens de door de Commissie vastgestelde en gepubliceerde standaardprocedures en documenten voor de uitvoering van samenwerkingactiviteiten met derde landen die van kracht zijn op het moment dat de desbetreffende procedure van start gaat.
+
+2. Wanneer uit een gezamenlijke evaluatie is gebleken dat procedures voor de gunning van contracten en de toekenning van subsidies van de ACS-staat of de begunstigde regio of de door de financiers goedgekeurde procedures voldoen aan de beginselen van transparantie, evenredigheid, gelijke behandeling en non-discriminatie en belangenconflicten uitsluiten, kan de Commissie bij gedecentraliseerd beheer gebruikmaken van deze lokale procedures, overeenkomstig de Verklaring van Parijs en onverminderd artikel 26, met volledige inachtneming van de toepasselijke regels inzake de uitoefening van haar bevoegdheden op dit vlak.
+
+3. De ACS-staat of de begunstigde regio gaat geregeld na of de door het Fonds gefinancierde acties correct zijn uitgevoerd, treft de nodige maatregelen om onregelmatigheden en fraude te voorkomen en onderneemt in voorkomend geval juridische stappen om onverschuldigde betalingen terug te vorderen.
+
+4. Bij gedecentraliseerd beheer zijn de ACS-staten verantwoordelijk voor de onderhandelingen over en de opstelling, ondertekening en uitvoering van contracten. De staten kunnen de Commissie echter vragen om namens hen te onderhandelen over contracten of deze op te stellen, te ondertekenen of uit te voeren.
+
+5. Overeenkomstig de verbintenis van artikel 50 van de overeenkomst worden door het Fonds gefinancierde contracten en subsidies uitgevoerd overeenkomstig internationaal erkende fundamentele arbeidsnormen.
+
+6. Er zal een groep deskundigen worden samengesteld met vertegenwoordigers van het secretariaat van de Groep van ACS-staten en de Commissie, die op verzoek van een van de partijen passende veranderingen kan voorstellen en wijzigingen en verbeteringen kan suggereren voor de in de leden 1 en 2 bedoelde regels en procedures.
+
+Deze groep brengt regelmatig verslag uit aan het ACS-EG-Comité voor Samenwerking inzake Ontwikkelingsfinanciering om dit comité bij te staan bij zijn taak om problemen met betrekking tot de uitvoering van de samenwerkingsactiviteiten te onderzoeken en passende maatregelen voor te stellen.
+
+##### Artikel 20. Voorwaarden om deel te nemen
+
+Behoudens indien overeenkomstig artikel 22 een uitzondering is toegestaan en onverminderd het bepaalde in artikel 26, gelden de volgende regels:
+
+- 1. de deelname aan aanbestedingen en aan procedures voor de toekenning van subsidies uit het Fonds staat open voor alle natuurlijke personen en rechtspersonen van de ACS-staten en de lidstaten van de Gemeenschap;
+
+- 2. leveringen en materialen die zijn verkregen uit hoofde van een uit het Fonds gefinancierde overeenkomst moeten van oorsprong zijn uit een staat die krachtens punt 1 mag deelnemen. In dit verband wordt de definitie van ,producten van oorsprong’ beoordeeld aan de hand van de relevante internationale overeenkomsten en worden leveringen van oorsprong uit de landen en gebieden overzee aangemerkt als leveringen van oorsprong uit de Gemeenschap;
+
+- 3. de deelname aan aanbestedingen en aan procedures voor de toekenning van subsidies uit het Fonds staat open voor internationale organisaties;
+
+- 4. wanneer de financiering betrekking heeft op een transactie die door een internationale organisatie wordt uitgevoerd, staat deelname aan aanbestedingen en aan procedures voor de toekenning van subsidies open voor alle natuurlijke personen en rechtspersonen die krachtens punt 1 mogen deelnemen, en voor alle natuurlijke personen en rechtspersonen die krachtens het reglement van die organisatie mogen deelnemen, waarbij alle donoren op gelijke voet moeten worden behandeld. Dezelfde regels gelden voor leveringen en materialen;
+
+- 5. wanneer de financiering betrekking heeft op een transactie die in het kader van een regionaal initiatief wordt uitgevoerd, staat de deelname aan aanbestedingen en de procedures voor de toekenning van subsidies open voor alle natuurlijke personen en rechtspersonen die krachtens punt 1 mogen deelnemen, en voor alle natuurlijke personen en rechtspersonen van de staten die aan het betrokken initiatief deelnemen. Dezelfde regels gelden voor leveringen en materialen;
+
+- 6. wanneer de financiering betrekking heeft op een transactie die door een derde staat wordt medegefinancierd, staat de deelname aan aanbestedingen en de procedures voor de toekenning van subsidies open voor alle natuurlijke personen en rechtspersonen die krachtens lid 1 mogen deelnemen, en voor alle natuurlijke personen en rechtspersonen die krachtens de regelgeving van die derde staat mogen deelnemen. Dezelfde regels gelden voor leveringen en materialen.
+
+##### Artikel 21. Deelname op gelijke voorwaarden
+
+Vervallen
+
+##### Artikel 22. Uitzonderingen
+
+1. In uitzonderingsgevallen die deugdelijk gemotiveerd zijn, staat de deelname aan aanbestedingen en de procedures voor de toekenning van subsidies die door de Gemeenschap worden gefinancierd, op gemotiveerd verzoek van de betrokken ACS-staten, toch open voor natuurlijke personen of rechtspersonen uit derde landen die niet mogen deelnemen uit hoofde van artikel 20. De betrokken ACS-staten verstrekken de Commissie voor elk geval de noodzakelijke gegevens om over deze uitzonderingsgevallen een besluit te nemen, waarbij bijzondere aandacht wordt besteed aan:
+
+- a. de geografische ligging van de betrokken ACS-staat;
+
+- b. het concurrentievermogen van aannemers, leveranciers en adviseurs uit de lidstaten en de ACS-staten;
+
+- c. vermijding van buitensporige stijging van de uitvoeringskosten van de overeenkomsten;
+
+- d. vervoersproblemen en vertragingen in verband met levertijden of soortgelijke problemen;
+
+- e. de meest geschikte en aan de lokale omstandigheden optimaal aangepaste technologie;
+
+- f. bijzonder dringende gevallen;
+
+- g. de beschikbaarheid van goederen en diensten op de betrokken markten.
+
+2. De regels voor de gunning van opdrachten van de Bank zijn van toepassing op de projecten die door de Investeringsfaciliteit worden gefinancierd.
+
+##### Artikel 23. Aanbesteding
+
+Vervallen
+
+##### Artikel 24. Uitvoering in eigen beheer
+
+1. Bij uitvoering in eigen beheer worden programma’s en projecten uitgevoerd door overheidsinstellingen of semi-overheidsinstellingen van de betrokken staat of staten of door de rechtspersoon die voor de uitvoering van de activiteit verantwoordelijk is.
+
+2. De Gemeenschap draagt in de uitgaven van de betrokken diensten bij door het verschaffen van ontbrekende uitrusting en/of materieel en/of middelen waarmee het nodige aanvullende personeel kan worden aangeworven, zoals deskundigen uit de betrokken ACS-staten of andere ACS-staten. De bijdrage van de Gemeenschap dekt slechts de kosten van aanvullende maatregelen en tijdelijke uitgaven voor de uitvoering die uitsluitend verband houden met het betrokken project.
+
+3. De programmaramingen waarbij activiteiten in eigen beheer worden uitgevoerd, moeten voldoen aan de communautaire regels, procedures en standaarddocumenten van de Commissie die van toepassing zijn op het ogenblik waarop de betrokken programmaramingen worden goedgekeurd.
+
+##### Artikel 25. Opdrachten voor spoedhulp
+
+Vervallen
+
+##### Artikel 26. Preferenties
+
+1. Om optimaal gebruik van de fysieke en menselijke middelen van de ACS-staten mogelijk te maken, worden maatregelen getroffen om zo breed mogelijke deelname van natuurlijke personen en rechtspersonen uit de ACS-staten aan de uitvoering van door het Fonds gefinancierde opdrachten te bevorderen. Hiertoe geldt het volgende:
+
+- a. bij opdrachten voor werken van minder dan 5 miljoen EUR wordt aan inschrijvers uit ACS-staten bij het vergelijken van inschrijvingen van gelijkwaardige economische, technische en administratieve kwaliteiteen preferentie van 10% toegekend, mits ten minste een vierde van het kapitaal en een vierde van het leidinggevend personeel van oorsprong zijn uit een of meer ACS-staten;
+
+- b. bij opdrachten voor leveringen, ongeacht het bedrag, wordt aan inschrijvers uit ACS-staten die leveringen aanbieden waarvoor ten minste 50% van de contractwaarde van ACS-oorsprong is, bij het vergelijken van inschrijvingen van gelijkwaardige economische, technische en administratieve kwaliteit een preferentie van 15 % toegekend;
+
+- c. bij opdrachten voor diensten wordt bij het vergelijken van inschrijvingen van gelijkwaardige economische en technische kwaliteit voorrang gegeven aan:
+
+- i. deskundigen, instellingen of adviesbureaus uit ACS-staten, mits aan de bekwaamheidseisen is voldaan;
+
+- ii. aanbiedingen van een onderneming uit de ACS die individueel of in een consortium deelneemt met Europese partners, en
+
+- iii. aanbiedingen van Europese inschrijvers met onderaannemers of deskundigen uit de ACS;
+
+- d. gekozen inschrijvers geven, indien zij gebruikmaken van onderaannemers, voorrang aan natuurlijke personen en ondernemingen uit de ACS-staten die in staat zijn de opdracht op het vereiste niveau uit te voeren, en
+
+- e. de ACS-staat kan in de aanbesteding aan gegadigden de bijstand aanbieden van andere ondernemingen, deskundigen of adviseurs uit de ACS die in gezamenlijk overleg zijn gekozen. Deze samenwerking kan gestalte krijgen in de vorm van een gezamenlijke onderneming of onderaanneming of ook in die van opleiding van het personeel bij de werkzaamheden.
+
+2. Indien twee inschrijvingen op grond van bovengenoemde criteria gelijkwaardig worden bevonden, wordt de voorkeur gegeven:
+
+- a. aan de inschrijving van de inschrijver uit een ACS-staat, of
+
+- b. indien een dergelijke inschrijving ontbreekt:
+
+- i. aan de inschrijving die optimaal gebruik van de fysieke en menselijke middelen van de ACS-staten mogelijk maakt;
+
+- ii. aan de inschrijving die ondernemingen of natuurlijke personen uit de ACS-staten de beste mogelijkheden voor onderaanneming biedt, of
+
+- iii. aan een consortium van natuurlijke personen of ondernemingen uit de ACS-staten en de Gemeenschap.
+
+##### Artikel 27. Gunning van opdrachten
+
+Vervallen
+
+##### Artikel 28. Algemene voorschriften voor opdrachten
+
+Vervallen
+
+##### Artikel 29. Algemene voorwaarden voor opdrachten
+
+Vervallen
+
+##### Artikel 30. Geschillenbeslechting
+
+Geschillen tussen de overheidsinstanties van een ACS-staat en een aannemer, leverancier of dienstverlener bij de uitvoering van een uit het Fonds gefinancierde overeenkomst worden beslecht:
+
+- a. in geval van een nationale opdracht volgens de nationale wetgeving van de betrokken ACS-staat; en
+
+- b. in geval van een transnationale overeenkomst:
+
+- i. indien de partijen bij de overeenkomst zulks overeenkomen, overeenkomstig de nationale wetgeving van de betrokken ACS-staat of de gebruikelijke praktijk van die staat voor internationale overeenkomsten; of
+
+- ii. door arbitrage overeenkomstig de procesvoorschriften die tijdens de eerste vergadering na de ondertekening van de Overeenkomst op aanbeveling van het ACS-EG-Comité voor Samenwerking inzake Ontwikkelingsfinanciering, bij besluit van de Raad van Ministers zullen worden vastgesteld.
+
+##### Artikel 31. Belasting- en douaneregelingen
+
+1. De ACS-staten passen op de door de Gemeenschap gefinancierde overeenkomsten een belasting- en douaneregeling toe die niet minder gunstig is dan die welke wordt toegepast op de meest begunstigde staten of de internationale ontwikkelingsorganisaties waarmee zij betrekkingen onderhouden. Voor de bepaling van de meestbegunstigingsbehandeling blijven de door de betrokken ACS-staat ten opzichte van andere ACS-staten of andere ontwikkelingslanden toegepaste regelingen buiten beschouwing.
+
+2. Onder voorbehoud van bovenstaande bepalingen wordt de volgende regeling toegepast op de door de Gemeenschap gefinancierde opdrachten:
+
+- a. op de opdrachten worden geen in de begunstigde ACS-staat bestaande of aldaar in te voeren zegel- en registratierechten of fiscale heffingen van gelijke werking toegepast; deze opdrachten worden echter volgens de in de ACS-staat geldende wetten geregistreerd, en voor deze registratie kan een bedrag worden geheven dat in overeenstemming is met de verleende dienst;
+
+- b. winsten en/of inkomens die voortvloeien uit de uitvoering van de opdrachten zijn belastbaar volgens de nationale belastingregeling van de betrokken ACS-staat, indien de natuurlijke of rechtspersonen die deze winsten en/of inkomens hebben gerealiseerd, in deze ACS-staat over een vaste vestiging beschikken of indien de uitvoeringsduur van de opdrachten meer dan zes maanden bestrijkt;
+
+- c. ondernemingen die professioneel materieel moeten invoeren met het oog op de uitvoering van opdrachten voor werken komen desgevraagd voor de regeling voor tijdelijke invoer met vrijstelling in aanmerking, zoals deze is geregeld in de nationale wetgeving voor genoemd materieel in de begunstigde ACS-staat;
+
+- d. professioneel materieel, nodig voor de uitvoering van de in een opdracht voor diensten omschreven taken, wordt in de begunstigde ACS-staat of -staten overeenkomstig de nationale wetgeving ingevoerd met vrijstelling van belastingen, invoerrechten, douanerechten en andere heffingen van gelijke werking, voorzover deze belastingen, rechten en heffingen niet een beloning voor verrichte diensten vormen;
+
+- e. de invoer in het kader van de uitvoering van een opdracht voor leveringen wordt in de begunstigde ACS-staat met vrijstelling van douanerechten, invoerrechten, belastingen of fiscale rechten van gelijke werking toegelaten. Opdrachten voor leveringen die van oorsprong zijn uit de betrokken ACS-staat worden gegund op basis van de prijs af fabriek, vermeerderd met de fiscale rechten die in voorkomend geval in de ACS-staat op deze leveringen van toepassing zijn;
+
+- f. de aankoop van brandstoffen, smeermiddelen en bindmiddelen met koolwaterstof alsook in het algemeen van alle producten die in het kader van een opdracht voor werken worden gebruikt, wordt geacht op de lokale markt te zijn geschied; hierop is de belastingregeling krachtens de in de begunstigde ACS-staat geldende nationale wetgeving van toepassing; en
+
+- g. invoer van persoonlijke bagage en voorwerpen voor persoonlijk en huishoudelijk gebruik door andere dan ter plaatse aangeworven natuurlijke personen die belast zijn met de uitvoering van de in een opdracht voor diensten omschreven taken alsmede door de leden van hun gezin, geschiedt overeenkomstig de nationale wetgeving die van kracht is in de begunstigde ACS-staat met vrijdom van douanerechten of invoerrechten, belastingen en andere fiscale rechten van gelijke werking.
+
+3. Niet in bovenstaande bepalingen inzake belasting- en douaneregelingen genoemde aangelegenheden blijven onderworpen aan de nationale wetgeving van de betrokken ACS-staat.
+
+### HOOFDSTUK 5. FOLLOW-UP EN EVALUATIE
+
+##### Artikel 32. Doelstellingen
+
+De follow-up en de evaluatie hebben ten doel de ontwikkelingsactiviteiten (voorbereiding en uitvoering en daaropvolgende acties) op onafhankelijke wijze te evalueren ten einde de doeltreffendheid van lopende en toekomstige ontwikkelingsactiviteiten te verbeteren.
+
+##### Artikel 33. Modaliteiten
+
+1. Zonder afbreuk te doen aan de evaluaties die worden uitgevoerd door de ACS-staten of de Commissie, worden deze werkzaamheden door de ACS-staat (staten) en de Gemeenschap gezamenlijk verricht. Het ACS-EG-Comité voor samenwerking inzake ontwikkelingsfinanciering ziet erop toe dat de gezamenlijke activiteiten in het kader van de follow-up en evaluatie gezamenlijk worden uitgevoerd. Om het ACS-EG-Comité voor samenwerking inzake ontwikkelingsfinanciering bij te staan, worden de gezamenlijke follow-up en evaluaties door de Commissie en het Secretariaat-generaal van de ACS voorbereid en uitgevoerd en zij brengen daarover verslag uit aan het comité. Het comité stelt, bij de eerste bijeenkomst na de ondertekening van de overeenkomst, de werkwijze vast waardoor het gezamenlijke karakter van de werkzaamheden wordt gewaarborgd en keurt jaarlijks het werkprogramma goed.
+
+2. De activiteiten in het kader van de follow-up en evaluatie moeten met name:
+
+- a. regelmatige en onafhankelijke beoordelingen van de activiteiten van het fonds verschaffen door de bereikte resultaten met de doelstellingen te vergelijken en aldus
+
+- b. de ACS-staten en de Commissie en de gemeenschappelijke instellingen in staat stellen de opgedane ervaring te gebruiken bij het ontwerp en de uitvoering van het toekomstig beleid en toekomstige activiteiten.
+
+### HOOFDSTUK 6. FUNCTIONARISSEN DIE MET HET BEHEER EN DE UITVOERING VAN DE MIDDELEN VAN HET FONDS ZIJN BELAST
+
+##### Artikel 34. Commissie
+
+1. De Commissie verzekert de financiële uitvoering van de uit het Fonds gefinancierde activiteiten die uit het Fonds worden gefinancierd, met uitsluiting van de Investeringsfaciliteit en de rentesubsidies, hoofdzakelijk aan de hand van de volgende beheersmethoden:
+
+- a. gecentraliseerd;
+
+- b. gedecentraliseerd.
+
+2. De Commissie zorgt in beginsel via gedecentraliseerd beheer voor de financiële uitvoering van de middelen van het Fonds.
+
+In dat geval worden de uitvoeringstaken door de ACS-staten overeenkomstig artikel 35 verricht.
+
+3. Om te zorgen voor de financiële uitvoering van de middelen van het Fonds delegeert de Commissie de uitvoeringsbevoegdheden binnen haar diensten. De Commissie stelt de ACS-staten en het ACS-EG-Comité voor Samenwerking inzake Ontwikkelingsfinanciering in kennis van deze delegatie.
+
+##### Artikel 35. Nationale ordonnateur
+
+1. De regering van elke ACS-staat wijst een nationale ordonnateur aan die haar vertegenwoordigt bij alle transacties voor rekening van het door de Commissie en de Bank beheerde Fonds. De nationale ordonnateur wijst een of meer plaatsvervangende nationale ordonnateurs aan voor het geval hij zijn taken niet kan verrichten en brengt de Commissie hiervan op de hoogte. De nationale ordonnateur kan, wanneer de voorwaarden inzake institutionele capaciteit en gezond financieel beheer vervuld zijn, zijn taken in verband met de uitvoering van de betrokken programma’s en projecten delegeren aan de dienst die binnen de nationale administratie verantwoordelijk is. Hij stelt Commissie in kennis van de delegaties die hij verricht.
+
+Wanneer de Commissie bekend is met problemen in het verloop van de procedures voor het beheer van de middelen van het Fonds, neemt zij met de nationale ordonnateur contact op teneinde deze problemen te verhelpen; zij neemt alle passende maatregelen.
+
+De nationale ordonnateur draagt als enige de financiële verantwoordelijkheid voor de uitvoeringstaken die hem zijn toevertrouwd.
+
+In het kader van het gedecentraliseerde beheer van de middelen van het Fonds en onder voorbehoud van de aanvullende bevoegdheden die aan de Commissie kunnen worden toegekend, heeft de nationale ordonnateur de volgende taken:
+
+- a. hij is belast met de coördinatie, de programmering, de follow-up en de jaarlijkse evaluaties, de tussentijdse evaluaties en de eindevaluatie van de uitvoering van de samenwerking, evenals met de donorcoördinatie;
+
+- b. hij is, in nauwe samenwerking met de Commissie, belast met de voorbereiding, de indiening en het onderzoek van de programma’s en projecten;
+
+- c. hij bereidt de aanbestedingsdossiers voor en in voorkomend geval de documenten voor de oproepen tot het indienen van voorstellen;
+
+- d. alvorens oproepen tot het indienen van inschrijvingen en in voorkomend geval oproepen tot het indienen van voorstellen te doen, legt hij de aanbestedingsdossiers en in voorkomend geval de documenten voor de oproepen tot het indienen van voorstellen ter goedkeuring aan de Commissie voor;
+
+- e. hij doet, in nauwe samenwerking met de Commissie, oproepen tot het indienen van inschrijvingen en in voorkomend geval oproepen tot het indienen van voorstellen;
+
+- f. hij neemt de inschrijvingen en in voorkomend geval de voorstellen in ontvangst en bezorgt de Commissie een kopie van de inschrijvingen, zit voor bij de opening daarvan en stelt het resultaat van de opening vast binnen de geldigheidstermijn van de inschrijvingen, rekening houdend met de voor de goedkeuring van het contract vereiste termijn;
+
+- g. hij nodigt de Commissie uit voor de opening van de inschrijvingen en in voorkomend geval de voorstellen en deelt haar het resultaat van de opening van de inschrijvingen en voorstellen mee, ter goedkeuring van de voorstellen inzake de gunning van opdrachten en de toekenning van subsidies;
+
+- h. hij legt de Commissie de contracten en programmaramingen ter goedkeuring voor evenals de toegevoegde clausules;
+
+- i. hij ondertekent de door de Commissie goedgekeurde contracten en toegevoegde clausules;
+
+- j. hij zorgt voor de betaalbaarstellingen en verstrekt de betalingsopdrachten binnen de grenzen van de hem toegekende kredieten;
+
+- k. hij neemt tijdens de uitvoering van de werkzaamheden alle vereiste aanpassingsmaatregelen voor een in economisch en technisch opzicht bevredigende uitvoering van de goedkeurde programma’s en projecten.
+
+2. Tijdens de uitvoering van de werkzaamheden beslist de nationale ordonnateur, met kennisgeving aan de Commissie, over:
+
+- a. kleine technische wijzigingen en aanpassingen van de programma’s en projecten voorzover deze geen wijziging brengen in de gekozen technische oplossingen en voorzover zij binnen de voorzieningen voor aanpassingen blijven die in de financieringsovereenkomst zijn opgenomen;
+
+- b. wijziging van de plaats van uitvoering om technische, economische of sociale redenen in geval van meervoudige programma’s en projecten;
+
+- c. toepassing of kwijtschelding van boeten wegens tijdslimietoverschrijding;
+
+- d. akten betreffende ontheffing van borgtochten;
+
+- e. aankopen op de plaatselijke markt, ongeacht de oorsprong;
+
+- f. gebruik van bouwmateriaal en -werktuigen die niet van oorsprong uit de lidstaten of de ACS-staten zijn en waarvoor in de lidstaten en de ACS-staten geen vergelijkbare productie bestaat;
+
+- g. onderaannemingen;
+
+- h. definitieve opleveringen, mits de Commissie aanwezig is bij de voorlopige oplevering en de desbetreffende processen-verbaal voor gezien tekent en zo nodig tevens bij de definitieve oplevering, met name wanneer bij de voorlopige oplevering zodanige aanmerkingen zijn gemaakt dat aanzienlijke correcties nodig zijn;
+
+- i. aanwerving van consulenten en andere deskundigen voor technische bijstand.
+
+##### Artikel 36. Hoofd van de delegatie
+
+1. De Commissie wordt in elke ACS-staat of in elke regionale groep die daarom uitdrukkelijk verzoekt, met de goedkeuring van de betrokken ACS-staat of -staten, vertegenwoordigd door een delegatie die onder de leiding staat van het hoofd van de delegatie. Indien een hoofd van de delegatie wordt aangesteld bij een groep ACS-staten, worden passende maatregelen getroffen. Het hoofd van de delegatie vertegenwoordigt de Commissie op alle gebieden die onder haar bevoegdheid vallen en bij al haar activiteiten.
+
+2. Het hoofd van de delegatie is de primaire gesprekspartner van de ACS-staten en instanties die uit hoofde van de Overeenkomst voor financiering in aanmerking komen. Hij werkt nauw samen met de nationale ordonnateur.
+
+3. Het hoofd van de delegatie ontvangt de nodige instructies en bevoegdheden om alle activiteiten in het kader van de Overeenkomst vlot te laten verlopen.
+
+4. Hij brengt op gezette tijden de nationale autoriteiten op de hoogte van activiteiten van de Gemeenschap die rechtstreeks van belang kunnen zijn voor de samenwerking tussen de Gemeenschap en de ACS-staten.
+
+##### Artikel 37. Betalingen
+
+1. Voor het verrichten van betalingen in de nationale valuta van de ACS-staten kunnen in de ACS-staten door en op naam van de Commissie in de valuta van één van de lidstaten of in euro uitgedrukte rekeningen worden geopend bij een gezamenlijk door de ACS-staat en de Commissie gekozen nationale financiële overheids- of semi-overheidsinstelling, die de functie van nationale betalingsgemachtigde uitoefent.
+
+2. De nationale betalingsgemachtigde ontvangt geen vergoeding voor de door hem verleende diensten en over de deposito’s is geen rente verschuldigd. De lokale rekeningen worden, op basis van een raming van de toekomstige liquiditeitsbehoeften en voldoende tijdig om verplichting tot vóórfinanciering door de ACS-staten en vertragingen bij de betalingen te voorkomen, door de Gemeenschap van middelen voorzien in de valuta van een van de lidstaten of in euro.
+
+3. Vervallen.
+
+4. De betalingen worden door de Commissie uitgevoerd overeenkomstig de regels die door de Gemeenschap en de Commissie zijn vastgesteld, eventueel nadat de nationale ordonnateur de betaalbaarstelling en de betalingsopdracht heeft verricht.
+
+5. Vervallen.
+
+6. De procedures inzake betaalbaarstelling, betalingsopdrachten en betaling van de uitgaven moeten zijn afgewikkeld binnen een termijn van ten hoogste 90 dagen na de vervaldag. Uiterlijk 45 dagen vóór de vervaldag geeft de nationale ordonnateur opdracht tot betaling en stelt hij het hoofd van de delegatie daarvan in kennis.
+
+7. Claims inzake betalingsachterstand komen ten laste van de eigen middelen van de betrokken ACS-staat of -staten en van de Commissie, elk voor het deel van de achterstand waarvoor zij overeenkomstig bovengenoemde procedures verantwoordelijk zijn.
+
+### HOOFDSTUK 1. ALGEMENE HANDELSREGELINGEN
+
+##### Artikel 1
+
+Producten van oorsprong uit de ACS-staten worden in de Gemeenschap vrij van douanerechten en heffingen van gelijke werking ingevoerd.
+
+- a. Voor producten van oorsprong uit de ACS-staten: neemt de Gemeenschap de nodige maatregelen om ervoor te zorgen dat zij voor een gunstiger behandeling in aanmerking komen dan dezelfde producten uit derde landen waarop de meestbegunstigingsclausule van toepassing is.
+
+- –. die in bijlage I bij het Verdrag zijn vermeld en die onder een gemeenschappelijke marktordening vallen in de zin van artikel 34 van het Verdrag, of
+
+- –. waarop, bij invoer in de Gemeenschap, bijzondere voorschriften van toepassing zijn die voortvloeien uit de tenuitvoerlegging van het gemeenschappelijke landbouwbeleid,
+
+- b. Indien de ACS-staten, tijdens de toepassing van deze overeenkomst, verzoeken dat nieuwe lijnen landbouwproductie of landbouwproducten die bij de inwerkingtreding van deze overeenkomst niet voor bijzondere regelingen in aanmerking kwamen, toch voor deze regelingen in aanmerking komen, zal de Gemeenschap deze verzoeken in overleg met de ACS-staten onderzoeken.
+
+- c. In afwijking van het bovenstaande zal de Gemeenschap, gezien de bijzondere betrekkingen en de bijzondere aard van de ACS-EG-samenwerking, de verzoeken van ACS-staten voor een preferentiële toegang voor hun landbouwproducten tot de markt van de Gemeenschap per geval onderzoeken en zal zij haar besluiten ten aanzien van deze met redenen omklede verzoeken zo mogelijk binnen vier maanden, en in ieder geval binnen zes maanden, na de indiening mededelen. In het kader van punt a neemt de Gemeenschap haar besluiten met name onder verwijzing naar concessies aan derde landen die ontwikkelingslanden zijn. Zij houdt rekening met de mogelijkheden die het op de markt brengen van producten buiten het normale seizoen biedt.
+
+- d. De onder a bedoelde regelingen treden in werking op het tijdstip waarop deze overeenkomst in werking treedt en blijven van toepassing tijdens de duur van de in artikel 37, lid 1, bedoelde voorbereidingsperiode. Echter, indien de Gemeenschap, tijdens deze periode:
+
+- –. de gemeenschappelijke marktordening of bijzondere voorschriften uit hoofde van de tenuitvoerlegging van het gemeenschappelijke landbouwbeleid op een of meer producten van toepassing verklaart, behoudt zij zich het recht voor de invoerregeling voor deze producten van oorsprong uit de ACS-staten aan te passen, na overleg in de Raad van Ministers. In dit geval is het bepaalde onder a van toepassing;
+
+- –. de gemeenschappelijke marktordening voor een bepaald product of de bijzondere voorschriften uit hoofde van de tenuitvoerlegging van het gemeenschappelijke landbouwbeleid wijzigt, behoudt zij zich het recht voor de regeling voor dat product van oorsprong uit de ACS-staten te wijzigen, na overleg in de Raad van Ministers. In dit geval neemt de Gemeenschap maatregelen om ervoor te zorgen dat het product van oorsprong uit de ACS-staten een behandeling verkrijgt die vergelijkbaar is met de eerder verkregen behandeling en die gunstiger is ten opzichte van het product uit derde landen dat voor de meestbegunstigingsclausule in aanmerking komt.
+
+- e. Wanneer de Gemeenschap voornemens is een preferentiële overeenkomst met derde landen te sluiten, deelt zij dit aan de ACS-staten mede. Overleg zal plaatsvinden indien de ACS-staten hierom verzoeken ten einde hun belangen te beschermen.
+
+##### Artikel 2
+
+1. De Gemeenschap past geen kwantitatieve beperkingen of maatre-gelen van gelijke werking bij invoer van producten van oorsprong uit de ACS-staten.
+
+2. Lid 1 vormt geen beletsel voor verboden of beperkingen op de invoer, uitvoer of doorvoer uit hoofde van de bescherming van de openbare zedelijkheid, de openbare orde, de openbare veiligheid, de volksgezondheid en het leven van personen, dieren of planten, de bescherming van het nationaal artistiek, historisch en archeologisch erfgoed, het behoud van niet-vernieuwbare natuurlijke hulpbronnen, indien deze maatregelen gepaard gaan met beperkingen op de binnenlandse productie of het binnenlandse verbruik, of uit hoofde van de bescherming van de industriële en commerciële eigendom.
+
+3. Deze verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie of een verkapte beperking van de handel in het algemeen vormen.
+
+Wanneer de tenuitvoerlegging van de in lid 2 bedoelde maatregelen tegen de belangen van een of meer ACS-staten indruist, wordt op verzoek van deze ACS-staten overleg gepleegd om tot een bevredigende oplossing te komen.
+
+##### Artikel 3
+
+1. Wanneer nieuwe maatregelen of maatregelen die zijn voorzien in programma's van de Gemeenschap ter harmonisering van de wetgevingen met het oog op de vereenvoudiging van het goederenverkeer nadelige gevolgen kunnen hebben voor een of meer ACS-staten stelt de Gemeenschap, alvorens zij dergelijke maatregelen neemt, de ACS-staten hiervan via de Raad van Ministers in kennis.
+
+2. Om het de Gemeenschap mogelijk te maken de belangen van de betrokken ACS-staat in aanmerking te nemen, wordt op verzoek van deze ACS-staat overleg gepleegd om tot een bevredigende oplossing te komen.
+
+##### Artikel 4
+
+1. Wanneer de bestaande wetgeving van de Gemeenschap ter vereenvoudiging van het goederenverkeer nadelige gevolgen heeft voor een of meer ACS-staten of wanneer deze nadelige gevolgen door de interpretatie, de toepassing of het beheer van deze wetgeving ontstaan, wordt op verzoek van deze ACS-staat of -staten overleg gepleegd om tot een bevredigende oplossing te komen.
+
+2. Met het oog op het vinden van een bevredigende oplossing kunnen de ACS-staten ook andere problemen aan de Raad van Ministers voorleggen die verband houden met het goederenverkeer en die het gevolg kunnen zijn van maatregelen die de lidstaten hebben genomen of voornemens zijn te nemen.
+
+3. Ter bevordering van een doelmatig overleg stellen de betrokken instellingen van de Gemeenschap de Raad van Ministers zoveel mogelijk van dergelijke maatregelen in kennis.
+
+##### Artikel 5
+
+1. Van de ACS-staten wordt niet geëist dat zij, ten aanzien van de invoer van producten van oorsprong uit de Gemeenschap, verplichtingen op zich nemen die overeenstemmen met de verplichtingen die de Gemeenschap op grond van deze bijlage op zich heeft genomen ten aanzien van de invoer van producten van oorsprong uit de ACS-staten.
+
+- a. In hun handel met de Gemeenschap maken de ACS-staten geen onderscheid tussen de lidstaten en geven zij de Gemeenschap geen minder gunstige behandeling dan die van de meestbegunstigde natie.
+
+- b. De onder a bedoelde behandeling van de meestbegunstigde natie is niet van toepassing op de handel of de economische betrekkingen tussen de ACS-staten of tussen een of meer ACS-staten en andere ontwikkelingslanden.
+
+##### Artikel 6
+
+Elke Partij bij de overeenkomst deelt haar douanetarieven binnen drie maanden na de inwerkingtreding van deze overeenkomst aan de Raad van Ministers mede. Elke Partij bij de overeenkomst deelt ook wijzigingen op de douanetarieven mede zodra deze in werking treden.
+
+##### Artikel 7
+
+1. Voor de toepassing van deze bijlage worden het begrip „product van oorsprong” en de methoden van administratieve samenwerking in verband hiermede in het hieraan gehechte Protocol 1 omschreven.
+
+2. De Raad van Ministers kan wijzigingen in Protocol 1 aanbrengen.
+
+3. Wanneer het begrip „product van oorsprong” voor een bepaald product niet overeenkomstig de leden 1 en 2 is omschreven, blijft elke Partij bij de overeenkomst haar eigen regels toepassen.
+
+##### Artikel 8
+
+1. Wanneer een product in dermate toegenomen hoeveelheden en op zulke voorwaarden in de Gemeenschap wordt ingevoerd dat de binnenlandse producenten van het soortgelijke of rechtstreeks concurrerende product hierdoor schade lijden of dreigen te lijden of dat een economische sector hierdoor ernstig verstoord is geraakt of dreigt te raken of dat hierdoor problemen zijn ontstaan of dreigen te ontstaan die de economische situatie van een regio ernstig kunnen verstoren, kan de Gemeenschap overeenkomstig de in artikel 9 omschreven procedures passende maatregelen nemen.
+
+2. De Gemeenschap verbindt zich ertoe geen andere middelen aan te wenden voor protectionistische doeleinden of ter belemmering van de structurele ontwikkeling. De Gemeenschap neemt geen vrijwaringsmaatregelen van gelijke werking.
+
+3. Vrijwaringsmaatregelen worden beperkt tot die maatregelen die de handel tussen de Partijen bij de overeenkomst, ter bevordering van de doelstellingen van deze overeenkomst, het minst verstoren. Deze maatregelen mogen niet ingrijpender zijn dan strikt noodzakelijk is om de problemen op te lossen die zich hebben voorgedaan.
+
+4. Bij het nemen van vrijwaringsmaatregelen wordt rekening gehouden met de bestaande omvang van de uitvoer vanuit het (de) betrokken ACS-sta(a)t(en) naar de Gemeenschap en de ontwikkelingsmogelijkheden van deze uitvoer. Er zal bijzondere aandacht worden besteed aan de belangen van de minstontwikkelde insulaire of niet aan zee grenzende ACS-staten.
+
+##### Artikel 9
+
+1. Voordat de vrijwaringsclausule wordt toegepast, vindt overleg plaats, zowel bij de vaststelling als bij de verlenging van vrijwaringsmaatregelen. De Gemeenschap zal de ACS-staten alle informatie verstrekken die voor dit overleg noodzakelijk is alsmede de gegevens waaruit kan worden opgemaakt in welke mate de invoer van een bepaald product uit een ACS-staat de in artikel 8, lid 1, bedoelde gevolgen heeft gehad.
+
+2. Zodra het overleg heeft plaatsgevonden treden de vrijwaringsmaatregelen of de tussen de betrokken ACS-staten en de Gemeenschap overeengekomen regelingen in werking.
+
+3. Het in de leden 1 en 2 bedoelde voorafgaande overleg verhindert niet dat de Gemeenschap, overeenkomstig artikel 8, lid 1, onmiddellijk besluiten neemt wanneer dit op grond van bijzondere factoren noodzakelijk is.
+
+4. Om het onderzoek naar factoren die de markt kunnen verstoren te vereenvoudigen, wordt een statistisch toezicht ingesteld op de invoer van bepaalde ACS-producten in de Gemeenschap.
+
+5. De Partijen bij de overeenkomst plegen regelmatig overleg teneinde bevredigende oplossingen te vinden voor problemen die uit de toepassing van de vrijwaringsclausule kunnen voortvloeien.
+
+6. Op het voorafgaand overleg, het geregelde overleg en het toezicht als bedoeld in de leden 1 tot en met 5 zijn de regels van toepassing die zijn opgenomen in het hieraan gehechte Protocol 2.
+
+##### Artikel 10
+
+De Raad van Ministers onderzoekt op verzoek van een betrokken Partij bij de overeenkomst de economische en sociale gevolgen van de toepassing van de vrijwaringsclausule.
+
+##### Artikel 11
+
+Wanneer vrijwaringsmaatregelen worden vastgesteld, gewijzigd of ingetrokken, wordt bijzondere aandacht geschonken aan de belangen van de minstontwikkelde, niet aan zee grenzende en insulaire ACS-staten.
+
+##### Artikel 12
+
+De Partijen bij de overeenkomst informeren en raadplegen elkaar om ervoor te zorgen dat deze bijlage daadwerkelijk ten uitvoer wordt gelegd.
+
+Naast de gevallen waarvoor, bij de leden 2 tot en met 9, specifiek in overleg is voorzien, vindt overleg, op verzoek van de Gemeenschap of van de ACS-staten, met name ook plaats in de volgende gevallen:
+
+- 1. wanneer de Partijen bij de overeenkomst voornemens zijn handelsmaatregelen te treffen die de belangen van een of meer partijen bij deze overeenkomst kunnen schaden, delen zij dit mede aan de Raad van Ministers. Op verzoek van de betrokken Partijen bij de overeenkomst vindt overleg plaats ten einde rekening te houden met de belangen van de verschillende partijen;
+
+- 2. indien de ACS-staten, tijdens de geldigheidsduur van de bijlage, van oordeel zijn dat de in lid 1, onder 2 a, bedoelde landbouwproducten die niet onder een bijzondere regeling vallen, eveneens voor deze bijzondere regeling in aanmerking dienen te komen, kan in de Raad van Ministers overleg worden gepleegd;
+
+- 3. wanneer een Partij bij de overeenkomst van oordeel is dat de bestaande voorschriften van een andere Partij bij de overeenkomst of de interpretatie, de toepassing of het beheer van die voorschriften een belemmeringen vormen voor het goederenverkeer;
+
+- 4. wanneer de Gemeenschap vrijwaringsmaatregelen neemt op grond van artikel 8 van deze bijlage, kan op verzoek van de betrokken Partijen bij de overeenkomst in de Raad van Ministers overleg over deze maatregelen worden gepleegd, met name om erop toe te zien dat aan de voorwaarden van lid 8, onder 3, is voldaan. Dit overleg moet binnen drie maanden zijn beëindigd.
+
+### HOOFDSTUK 2. BIJZONDERE VERBINTENISSEN INZAKE SUIKER, RUND- EN KALFSVLEES
+
+##### Artikel 13
+
+1. Overeenkomstig artikel 25 van de op 28 februari 1975 ondertekende ACS-EEG-Overeenkomst van Lomé en Protocol 3 bij die overeenkomst, heeft de Gemeenschap zich er voor onbepaalde tijd toe verbonden, onverminderd de andere bepalingen van deze overeenkomst, bepaalde hoeveelheden rietsuiker, ruw of wit, van oorsprong uit de ACS-staten die rietsuiker produceren en exporteren en die zich ertoe verbonden hebben deze hoeveelheden aan de Gemeenschap te leveren, tegen gegarandeerde prijzen aan te kopen en in te voeren.
+
+2. De voorwaarden voor de tenuitvoerlegging van bovengenoemd artikel 25 zijn in het in lid 1 genoemde Protocol 3 opgenomen. De tekst van het Protocol is als Protocol 3 bij deze bijlage gevoegd.
+
+3. Artikel 8 van deze bijlage is in het kader van genoemd Protocol niet van toepassing.
+
+4. Voor de toepassing van artikel 8 van genoemd Protocol kunnen de instellingen die op grond van deze overeenkomst zijn opgericht tijdens de geldigheidsduur van deze overeenkomst worden gebruikt.
+
+5. Artikel 8, lid 2, van genoemd Protocol is van toepassing indien de werking van deze overeenkomst wordt opgeschort.
+
+6. De verklaringen in de bijlagen XIII, XXI en XXII van de Slotakte bij de op 28 februari 1975 ondertekende ACS-EEG-Overeenkomst van Lomé worden opnieuw bevestigd en de daarin vervatte bepalingen blijven van toepassing. Deze verklaringen zijn als dusdanig aan Protocol 3 gehecht.
+
+7. Dit artikel en Protocol 3 zijn niet van toepassing op de betrekkingen tussen de ACS-staten en de Franse overzeese departementen.
+
+##### Artikel 14
+
+De bijzondere verbintenis inzake rund- en kalfsvlees, als in het hieraan gehechte Protocol 4 omschreven, is van toepassing.
+
+### HOOFDSTUK 3. SLOTBEPALINGEN
+
+##### Artikel 15
+
+De aan deze bijlage gehechte Protocollen maken deel uit van deze bijlage.
+
+##### Artikel 1. Definities
+
+Voor de toepassing van dit Protocol wordt verstaan onder:
+
+- a. „vervaardiging”: elke soort be- of verwerking, met inbegrip van assemblage of speciale behandelingen;
+
+- b. „materiaal”: alle ingrediënten, grondstoffen, componenten, delen enz., die bij de vervaardiging van het product worden gebruikt;
+
+- c. „product”: het verkregen product, zelfs indien het bestemd is om later bij de vervaardiging van een ander product te worden gebruikt;
+
+- d. „goederen”: zowel materialen als producten;
+
+- e. „douanewaarde”: de waarde zoals bepaald bij de Overeenkomst inzake de toepassing van artikel VII van de Algemene Overeenkomst betreffende tarieven en handel van 1994 (Overeenkomst inzake de douanewaarde van de WTO);
+
+- f. „prijs af fabriek”: de prijs die voor het product af fabriek is betaald aan de fabrikant in wiens onderneming de laatste be- of verwerking is verricht, voorzover in die prijs de waarde is begrepen van alle gebruikte materialen, verminderd met alle binnenlandse belastingen die worden of kunnen worden terugbetaald wanneer het verkregen product wordt uitgevoerd;
+
+- g. „waarde van de materialen”: de douanewaarde ten tijde van de invoer van de gebruikte materialen die niet van oorsprong zijn, of, indien deze niet bekend is en niet kan worden vastgesteld, de eerste controleerbare prijs die voor de materialen in het betrokken gebied is betaald;
+
+- h. „waarde van de materialen van oorsprong”: de waarde van deze materialen als omschreven onder g, welke omschrijving van dienovereenkomstige toepassing is;
+
+- i. „toegevoegde waarde”: de prijs af fabriek verminderd met de douanewaarde van de in de Gemeenschap, de ACS-staten of de landen en gebieden overzee (LGO's) ingevoerde materialen uit derde landen;
+
+- j. „hoofdstukken” en „posten”: de hoofdstukken en posten (viercijfercodes) van de nomenclatuur die het geharmoniseerde systeem inzake de omschrijving en codering van goederen vormt, in dit Protocol „het geharmoniseerde systeem” of „GS” genoemd;
+
+- k. „ingedeeld”: de indeling van een product of materiaal onder een bepaalde post;
+
+- l. „zending”: producten die gelijktijdig van een exporteur naar een geadresseerde worden verzonden of die vergezeld gaan van een enkel vervoersdocument dat de verzending van de exporteur naar de geadresseerde dekt, of bij gebreke daarvan, een enkele factuur;
+
+- m. „gebieden”: ook de territoriale wateren.
+
+##### Artikel 2. Algemene voorwaarden
+
+1. Voor de toepassing van de bepalingen inzake de samenwerking op het gebied van de handel van bijlage V worden de volgende producten beschouwd van oorsprong te zijn uit de ACS-staten:
+
+- a. geheel en al in de ACS-staten verkregen producten in de zin van artikel 3 van dit Protocol;
+
+- b. in de ACS-staten verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de ACS-staten een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 4 van dit Protocol.
+
+2. Voor de toepassing van lid 1 worden de gebieden van de ACS-staten als één gebied beschouwd.
+
+Product van oorsprong die gemaakt zijn van materialen die geheel en al zijn verkregen in twee of meer ACS-staten of die daar een toereikende be- of verwerking hebben ondergaan, worden geacht van oorsprong te zijn uit de ACS-staat waar de laatste be- of verwerking heeft plaatsgevonden, mits deze be- of verwerking ingrijpender was dan de in artikel 5 van dit Protocol genoemde be- of verwerkingen.
+
+##### Artikel 3. Geheel en al verkregen producten
+
+1. Als geheel en al verkregen in de ACS-staten, de Gemeenschap of de in bijlage III genoemde landen en gebieden, hierna „de LGO's” genoemd, worden beschouwd:
+
+- a. aldaar uit de bodem of zeebodem gewonnen producten;
+
+- b. aldaar geoogste producten van het plantenrijk;
+
+- c. aldaar geboren en opgefokte levende dieren;
+
+- d. producten afkomstig van aldaar opgefokte levende dieren;
+
+- e. voortbrengselen van de aldaar bedreven jacht en visserij;
+
+- f. producten van de zeevisserij en andere door hun schepen buiten de territoriale wateren uit de zee gewonnen producten;
+
+- g. producten uitsluitend uit de onder f bedoelde producten aan boord van hun fabrieksschepen vervaardigd;
+
+- h. aldaar verzamelde gebruikte artikelen die slechts voor de terugwinning van grondstoffen kunnen dienen, met inbegrip van gebruikte banden die uitsluitend geschikt zijn om van een nieuw loopvlak te worden voorzien of slechts als afval kunnen worden gebruikt;
+
+- i. afval en schroot afkomstig van aldaar verrichte fabrieksbewerkingen;
+
+- j. producten, gewonnen uit de zeebodem of -ondergrond buiten de territoriale wateren, mits zij alleen het recht hebben op ontginning van deze bodem of ondergrond;
+
+- k. goederen die aldaar uitsluitend uit de onder a tot en met j bedoelde producten zijn vervaardigd.
+
+2. De termen „hun schepen” en „hun fabrieksschepen” in lid 1, onder f en g, zijn slechts van toepassing op schepen en fabrieksschepen:
+
+- a. die in een lidstaat van de Gemeenschap, een ACS-staat of een LGO zijn ingeschreven of geregistreerd;
+
+- b. die de vlag van een lidstaat van de Gemeenschap, van een ACS-staat of van een LGO voeren;
+
+- c. die voor ten minste 50 procent toebehoren aan onderdanen van staten die partij zijn bij de Overeenkomst, of van een LGO, of aan een onderneming die haar hoofdkantoor in een van deze staten of een LGO heeft en waarvan de voorzitter van de raad van bestuur of van toezicht en de meerderheid van de leden van deze raad onderdanen zijn van staten die partij zijn bij de overeenkomst, of van een LGO, en waarvan bovendien, in het geval van personenvennootschappen of vennootschappen met beperkte aansprakelijkheid, ten minste de helft van het kapitaal toebehoort aan staten die partij zijn bij de overeenkomst of aan openbare lichamen of onderdanen van deze staten of van een LGO;
+
+- d. waarvan de bemanning, kapitein en officieren inbegrepen, voor ten minste 50% bestaat uit onderdanen van staten die partij zijn bij de overeenkomst of van een LGO.
+
+3. Onverminderd lid 2 erkent de Gemeenschap, op verzoek van een ACS-staat, op de volgende voorwaarden dat door die ACS-staat gehuurde of geleasde vaartuigen als „zijn vaartuigen” worden beschouwd waarmee in de exclusieve economische zone visserijactiviteiten worden beoefend:
+
+- –. de ACS-staat heeft de Gemeenschap aangeboden over een visserijovereenkomst te onderhandelen en de Gemeenschap heeft dit aanbod niet aanvaard;
+
+- –. ten minste 50% van de bemanning, kapitein en officieren inbegrepen, bestaan uit onderdanen van staten die partij zijn bij de overeenkomst of van een LGO;
+
+- –. het huur- of leasecontract is door het ACS-EG-Comité Douanesamenwerking aanvaard als een geschikte wijze om het vermogen van de betrokken ACS-staat te ontwikkelen om voor eigen rekening te vissen, met name indien de betrokken ACS-staat op grond van dit contract gedurende een beduidende periode verantwoordelijk is voor het nautische en commerciële beheer van het te zijner beschikking geplaatste vaartuig.
+
+##### Artikel 4. Toereikende bewerking of verwerking
+
+1. Voor de toepassing van dit Protocol worden niet geheel en al verkregen producten geacht in de ACS-staten, de Gemeenschap of de LGO's een toereikende bewerking of verwerking te hebben ondergaan, wanneer aan de voorwaarden van de lijst in bijlage II is voldaan.
+
+Deze voorwaarden geven voor alle onder de Overeenkomst vallende producten aan welke be- of verwerkingen niet van oorsprong zijnde materialen bij de vervaardiging van deze producten moeten ondergaan en zijn slechts op deze materialen van toepassing. Hieruit volgt dat wanneer een product de oorsprong heeft verkregen doordat het aan de voorwaarden in die lijst heeft voldaan, als materiaal gebruikt wordt bij de vervaardiging van een ander product, de voorwaarden die van toepassing zijn op het product waarin het wordt verwerkt daarvoor niet gelden. Er wordt dan geen rekening gehouden met de niet van oorsprong zijnde materialen die bij de vervaardiging ervan kunnen zijn gebruikt.
+
+2. In afwijking van lid 1 kunnen niet van oorsprong zijnde materialen die volgens de voorwaarden in de lijst bij de vervaardiging van een bepaald product niet mogen worden gebruikt, in de volgende gevallen toch worden gebruikt:
+
+- a. wanneer de totale waarde ervan niet meer dan 15% bedraagt van de prijs af fabriek van het product;
+
+- b. wanneer een in de lijst vermelde maximumwaarde voor niet van oorsprong zijnde materialen door de toepassing van dit lid niet wordt overschreden.
+
+3. De leden 1 en 2 zijn van toepassing behoudens het bepaalde in artikel 5.
+
+##### Artikel 5. Ontoereikende bewerking of verwerking
+
+1. Onverminderd lid 2, worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van artikel 4 is voldaan:
+
+- a. behandelingen om de producten tijdens vervoer en opslag in goede staat te bewaren (luchten, uitspreiden, drogen, koelen, in water zetten waaraan zout, zwaveldioxide of andere producten zijn toegevoegd, verwijderen van beschadigde gedeelten en soortgelijke behandelingen);
+
+- b. eenvoudige behandelingen zoals stofvrij maken, zeven, sorteren, classificeren, assorteren (daaronder begrepen het samenstellen van sets van artikelen), wassen, verven en snijden;
+
+- c.
+
+- i. veranderen van verpakkingen, splitsen en samenvoegen van colli;
+
+- ii. eenvoudig verpakken in flessen, zakken, etuis, dozen of blikken, bevestigen op kaartjes of plankjes, enz., en alle andere eenvoudige handelingen in verband met de opmaak;
+
+- d. het aanbrengen van merken, etiketten en soortgelijke onderscheidingstekens op de producten zelf of op hun verpakkingen;
+
+- e. eenvoudig mengen van producten, ook van verschillende soorten, indien een of meer bestanddelen van het mengsel niet voldoen aan de voorwaarden van dit Protocol om als producten van oorsprong uit een ACS-staat, de Gemeenschap of de LGO's te worden beschouwd;
+
+- f. eenvoudig samenvoegen van delen tot een volledig product;
+
+- g. twee of meer van de onder a tot en met f vermelde behandelingen tezamen;
+
+- h. het slachten van dieren.
+
+2. Alle be- en verwerkingen die een product in hetzij de ACS-staten, de Gemeenschap of LGO's heeft ondergaan worden tezamen genomen om te bepalen of deze ontoereikend zijn in de zin van lid 1.
+
+##### Artikel 6. Cumulatie van de oorsprong
+
+1. Materialen van oorsprong uit de Gemeenschap of de LGO's worden beschouwd van oorsprong te zijn uit de ACS-staten indien zij in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits zij evenwel een be- of verwerking hebben ondergaan die ingrijpender is dan de in artikel 5 genoemde be- of verwerkingen.
+
+2. Be- en verwerkingen die in de Gemeenschap of de LGO's zijn verricht worden geacht in de ACS-staten te zijn verricht wanneer de materialen in de ACS-staten een verdere be- of verwerking ondergaan.
+
+3. Onder voorbehoud van de leden 4, 5, 6, 7 en 8 worden materialen van oorsprong uit Zuid-Afrika als van oorsprong uit de ACS-staten beschouwd wanneer zij zijn opgenomen in een aldaar verkregen product. Zij behoeven geen toereikende be- of verwerking te hebben ondergaan.
+
+4. Producten die op grond van lid 3 de oorsprong hebben verkregen worden uitsluitend als producten van oorsprong uit de ACS-staten beschouwd wanneer de aldaar toegevoegde waarde hoger is dan de waarde van de gebruikte materialen van oorsprong uit Zuid-Afrika. Indien dit niet het geval is, worden de betrokken producten als producten van oorsprong uit Zuid-Afrika beschouwd. Bij het bepalen van de oorsprong wordt geen rekening gehouden met materialen van oorsprong uit Zuid-Afrika die in de ACS-staten een toereikende be- of verwerking hebben ondergaan.
+
+5. De in lid 3 bedoelde cumulatie kan eerst na drie jaar worden toegepast voor de in bijlage XI genoemde producten en eerst na zes jaar voor de in bijlage XII genoemde producten vanaf de voorlopige toepassing van de Overeenkomst inzake Handel, Ontwikkeling en Samenwerking tussen de Europese Gemeenschap en Zuid-Afrika. De in lid 3 bedoelde cumulatie is niet van toepassing op de in bijlage XIII bedoelde producten.
+
+6. Onverminderd lid 5 kan de in lid 3 bedoelde cumulatie op verzoek van de ACS-staten worden toegepast voor de in de bijlagen XI en XII genoemde producten. Het ACS-EG-Comité van Ambassadeurs neemt hierover, op verzoek van ACS-staten, per product een besluit, op grond van een door het ACS-EG-Comité Douanesamenwerking overeenkomstig artikel 37 opgesteld verslag. Bij het onderzoek van de verzoeken wordt rekening gehouden met het risico van een ontwijking van de handelsbepalingen van de Overeenkomst inzake Handel, Ontwikkeling en Samenwerking tussen de Europese Gemeenschap en Zuid-Afrika.
+
+7. De in lid 3 bedoelde cumulatie is uitsluitend van toepassing op de in bijlage XIV genoemde producten wanneer de rechten op deze producten in het kader van de Overeenkomst inzake Handel, Ontwikkeling en Samenwerking tussen de Europese Gemeenschap en Zuid-Afrika zijn afgeschaft. De Europese Commissie maakt in de C-reeks van het Publicatieblad van de Europese Gemeenschappen bekend op welke datum aan de voorwaarden van dit lid is voldaan.
+
+8. De in lid 3 bedoelde cumulatie kan uitsluitend worden toegepast wanneer de gebruikte Zuid-Afrikaanse materialen door toepassing van oorsprongsregels die gelijk zijn aan die van dit Protocol de oorsprong hebben verkregen. De ACS-staten verstrekken de Gemeenschap de gegevens over de overeenkomsten en de desbetreffende oorsprongsregels die met Zuid-Afrika zijn gesloten. De Europese Commissie maakt in de C-reeks van het Publicatieblad van de Europese Gemeenschappen bekend op welke datum de ACS-staten aan de verplichtingen van dit lid hebben voldaan.
+
+9. Onverminderd de leden 5, 6 en 7 worden be- en verwerkingen in Zuid-Afrika beschouwd in een andere lidstaat van de Zuid-Afrikaanse Douane-unie te zijn verricht wanneer de materialen in die andere lidstaat van de Zuid-Afrikaanse Douane-unie een verdere be- of verwerking hebben ondergaan.
+
+10. Onverminderd de leden 5, 6 en 7 worden be- en verwerkingen in Zuid-Afrika, op verzoek van de ACS-staten, beschouwd in de ACS-staten te zijn verricht, wanneer de materialen in een ACS-staat een verdere be- of verwerking hebben ondergaan in het kader van een overeenkomst ter bevordering van de regionale economische integratie.
+
+Tenzij een van de partijen vraagt dat de kwestie voor een besluit aan de ACS-EG-Raad van Ministers wordt voorgelegd, neemt het ACS-EG-Comité Douanesamenwerking, overeenkomstig artikel 37, besluiten over verzoeken van de ACS-staten.
+
+11. Op verzoek van de ACS-staten worden materialen van oorsprong uit een naburig ontwikkelingsland dat geen ACS-staat is, maar tot een samenhangend geografisch gebied behoort, als materialen van oorsprong uit de ACS-staten beschouwd wanneer zij in een aldaar verkregen product zijn opgenomen. Deze materialen behoeven geen toereikende be- of verwerking te hebben ondergaan, mits:
+
+- –. de be- of verwerking in de ACS-staat ingrijpender is dan de in artikel 5 vermelde be- en verwerkingen. Producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem zijn ingedeeld moeten echter in de ACS-staat ten minste een be- of verwerking hebben ondergaan waardoor het verkregen product onder een andere post wordt ingedeeld dan de post waaronder de materialen zijn ingedeeld die bij de vervaardiging ervan zijn gebruikt en die van oorsprong zijn uit het ontwikkelingsland dat geen ACS-staat is. Voor de in bijlage XI bij dit Protocol opgesomde producten zijn uitsluitend de in kolom 3 vermelde be- en verwerkingen van toepassing, ongeacht het feit of het verkregen product onder een andere post wordt ingedeeld;
+
+- –. de ACS-staten, de Gemeenschap en de andere betrokken landen een overeenkomst hebben gesloten die in adequate administratieve procedures voorziet, om de correcte toepassing van dit lid zeker te stellen.
+
+Dit lid is niet van toepassing op tonijnproducten die zijn ingedeeld onder de hoofdstukken 3 of 16 van het geharmoniseerd systeem, rijstproducten van de GS-code 1006 en de textielproducten die in bijlage X bij dit Protocol zijn opgesomd.
+
+Dit Protocol is van toepassing om te bepalen of producten van oorsprong zijn uit een ontwikkelingsland dat geen ACS-staat is.
+
+Tenzij een van de partijen vraagt dat de kwestie voor een besluit aan de ACS-EG-Raad van Ministers wordt voorgelegd, neemt het ACS-EG-Comité Douanesamenwerking, overeenkomstig artikel 37, besluiten over verzoeken van de ACS-staten.
+
+##### Artikel 7. Determinerende eenheid
+
+1. De determinerende eenheid voor de toepassing van de bepalingen van dit Protocol is het product dat bij het vaststellen van de indeling in de nomenclatuur volgens het geharmoniseerde systeem als de basiseenheid wordt beschouwd.
+
+Hieruit volgt dat:
+
+- –. wanneer een product, bestaande uit een groep of verzameling van artikelen, volgens het geharmoniseerde systeem onder één enkele post wordt ingedeeld, het geheel de in aanmerking te nemen eenheid vormt;
+
+- –. wanneer een zending uit een aantal eendere producten bestaat die onder dezelfde post van het geharmoniseerde systeem worden ingedeeld, elk product voor de toepassing van de bepalingen van dit Protocol afzonderlijk moet worden genomen.
+
+2. Wanneer volgens algemene regel 5 voor de interpretatie van het geharmoniseerde systeem de verpakking meetelt voor het vaststellen van de indeling, telt deze ook mee voor het vaststellen van de oorsprong.
+
+##### Artikel 8. Accessoires, vervangingsonderdelen en gereedschappen
+
+Accessoires, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden geleverd en deel uitmaken van de normale uitrusting daarvan en in de prijs daarvan zijn begrepen of niet afzonderlijk in rekening worden gebracht, worden geacht één geheel te vormen met het materieel en de machines, apparaten of voertuigen in kwestie.
+
+##### Artikel 9. Stellen of assortimenten
+
+Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerde systeem, worden als van oorsprong beschouwd indien alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt evenwel als van oorsprong beschouwd indien de waarde van de producten die niet van oorsprong zijn niet meer dan 15 procent van de prijs af fabriek van het stel of assortiment bedraagt.
+
+##### Artikel 10. Neutrale elementen
+
+Om de oorsprong van een product te bepalen behoeft niet te worden nagegaan wat de oorsprong is van de bij de vervaardiging van dat product gebruikte
+
+- a. energie en brandstof,
+
+- b. fabrieksuitrusting,
+
+- c. machines en werktuigen, en
+
+- d. goederen die in de uiteindelijke samenstelling van het product niet voorkomen en ook niet bedoeld waren daarin voor te komen.
+
+## TITEL III. TERRITORIALE VOORWAARDEN
+
+##### Artikel 11. Territorialiteitsbeginsel
+
+1. Aan de in titel II genoemde voorwaarden met betrekking tot het verkrijgen van de oorsprong moet zonder onderbreking in de ACS-staten zijn voldaan, behoudens het bepaalde in artikel 6.
+
+2. Indien uit de ACS-staten, de Gemeenschap of de LGO's naar een ander land uitgevoerde producten van oorsprong terugkeren, worden zij geacht, behoudens het bepaalde in artikel 6, geen product van oorsprong meer te zijn, tenzij ten genoegen van de douaneautoriteiten kan worden aangetoond dat:
+
+- a. de terugkerende goederen dezelfde zijn als de eerder uitgevoerde goederen; en
+
+- b. deze goederen, in de periode dat zij in dat andere land waren of waren uitgevoerd, geen andere be- of verwerkingen hebben ondergaan dan die welke nodig waren om ze in goede staat te bewaren.
+
+##### Artikel 12. Rechtstreeks vervoer
+
+1. De preferentiële regeling waarin de bepalingen inzake handelssamenwerking van bijlage V voorzien is uitsluitend van toepassing op producten die aan de voorwaarden van dit Protocol voldoen en die rechtstreeks, zonder enig ander gebied binnen te komen, tussen het grondgebied van de ACS-staten, de Gemeenschap, de LGO's of Zuid-Afrika, bij toepassing van artikel 6, zijn vervoerd. Producten die één enkele zending vormen, kunnen evenwel via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, mits zij in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
+
+Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander grondgebied dan dat van een ACS-staat, de Gemeenschap of een LGO te vervoeren.
+
+2. Het bewijs dat aan de in lid 1 bedoelde voorwaarden is voldaan, wordt geleverd door overlegging van de volgende stukken aan de douaneautoriteiten van het land van invoer:
+
+- a. hetzij, een enkel vervoerdocument ter dekking van het vervoer vanuit het land van uitvoer door het land van doorvoer;
+
+- b. hetzij een door de douaneautoriteiten van het land van doorvoer afgegeven certificaat, waarin:
+
+- i. de producten nauwkeurig zijn omschreven,
+
+- ii. de data zijn vermeld waarop de producten gelost en opnieuw geladen zijn, in voorkomend geval onder vermelding van de gebruikte schepen of andere vervoermiddelen; en
+
+- iii. wordt verklaard op welke voorwaarden de producten in het land van doorvoer verbleven;
+
+- c. hetzij, bij gebreke van bovengenoemde stukken, enig ander bewijsstuk.
+
+##### Artikel 13. Tentoonstellingen
+
+1. Op producten van oorsprong die vanuit een ACS-staat naar een tentoonstelling in een ander dan de in artikel 6 bedoelde landen zijn verzonden en die na de tentoonstelling voor invoer in de Gemeenschap zijn verkocht, zijn de bepalingen van bijlage V bij invoer in de Gemeenschap van toepassing voorzover ten genoegen van de douaneautoriteiten wordt aangetoond dat:
+
+- a. een exporteur deze producten vanuit een ACS-staat naar het land van de tentoonstelling heeft verzonden en deze daar heeft tentoongesteld;
+
+- b. die exporteur de producten aan een persoon in de Gemeenschap heeft verkocht of op andere wijze afgestaan;
+
+- c. de producten tijdens of onmiddellijk na de tentoonstelling in dezelfde staat als waarin zij naar de tentoonstelling zijn gegaan zijn verzonden; en
+
+- d. de producten, vanaf het moment dat zij naar de tentoonstelling werden verzonden, niet voor andere doeleinden zijn gebruikt dan om op die tentoonstelling te worden vertoond.
+
+2. Een bewijs van de oorsprong wordt overeenkomstig de bepalingen van titel IV afgegeven of opgesteld en op de gebruikelijke wijze bij de douaneautoriteiten van het land van invoer ingediend. Op dit bewijs zijn de naam en het adres van de tentoonstelling vermeld. Zo nodig kunnen aanvullende bewijsstukken worden opgevraagd ten aanzien van de voorwaarden waarop de producten werden tentoongesteld.
+
+3. Lid 1 is van toepassing op alle tentoonstellingen, beurzen of soortgelijke openbare evenementen met een commercieel, industrieel, agrarisch of ambachtelijk karakter die niet voor particuliere doeleinden in winkels of bedrijfsruimten met het oog op de verkoop van buitenlandse producten worden gehouden, en gedurende welke de producten onder douanetoezicht zijn gebleven.
+
+## TITEL IV. BEWIJS VAN DE OORSPRONG
+
+##### Artikel 14. Algemene eisen
+
+1. Producten van oorsprong uit de ACS-staten komen bij invoer in de Gemeenschap voor de voordelen van bijlage V in aanmerking op vertoon van:
+
+- a. een certificaat inzake goederenverkeer EUR.1, waarvan het model in bijlage IV is opgenomen; of,
+
+- b. in de in artikel 19, lid 1, bedoelde gevallen, een verklaring van de exporteur, waarvan de tekst in bijlage V bij dit Protocol is opgenomen, op een factuur, pakbon of een ander handelsdocument waarin de producten voldoende duidelijk zijn omschreven om ze te kunnen identificeren (hierna „factuurverklaring” genoemd).
+
+2. In afwijking van lid 1 komen producten van oorsprong in de zin van dit Protocol in de in artikel 25 bedoelde gevallen voor de voordelen van bijlage V in aanmerking zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
+
+##### Artikel 15. Procedure voor de afgifte van certificaten inzake goederenverkeer EUR.1
+
+1. Een certificaat inzake goederenverkeer EUR.1 wordt afgegeven door de douaneautoriteiten van het land van uitvoer op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde vertegenwoordiger.
+
+2. Te dien einde vult de exporteur of diens gemachtigde vertegenwoordiger zowel het certificaat inzake goederenverkeer EUR.1 als het aanvraagformulier in. Modellen van beide formulieren zijn in bijlage IV opgenomen. Deze formulieren worden overeenkomstig de bepalingen van dit Protocol ingevuld. Indien zij met de hand worden ingevuld, dient dit met inkt en in blokletters te gebeuren. De producten moeten worden omschreven in het daartoe bestemde vak en er mogen geen regels worden opengelaten. Indien dit vak niet volledig is ingevuld, wordt onder de laatste regel een horizontale lijn getrokken en wordt het niet-ingevulde gedeelte doorgekruist.
+
+3. De exporteur die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoekt, moet, op verzoek van de douaneautoriteiten van de ACS-staat van uitvoer waar dit certificaat is afgegeven, steeds bereid zijn de nodige documenten te overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan alle andere voorwaarden van dit Protocol is voldaan.
+
+4. Een certificaat inzake goederenverkeer EUR.1 wordt afgegeven door de douaneautoriteiten van de ACS-staat van uitvoer indien de betrokken goederen kunnen worden beschouwd als producten van oorsprong uit de ACS-staten of uit een van de andere in artikel 6 bedoelde landen en aan de andere voorwaarden van dit Protocol wordt voldaan.
+
+5. De met de afgifte van EUR.1-certificaten belaste douaneautoriteiten nemen de nodige maatregelen om te controleren of de producten van oorsprong zijn en of aan de andere voorwaarden van dit Protocol is voldaan. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de administratie van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten. De met de afgifte van EUR.1-certificaten belaste douaneautoriteiten zien er ook op toe dat de in lid 2 bedoelde formulieren correct zijn ingevuld. Zij gaan met name na of het voor de omschrijving van de goederen bestemde vak zo is ingevuld dat frauduleuze toevoegingen niet mogelijk zijn.
+
+6. De datum van afgifte van het certificaat inzake goederenverkeer EUR.1 wordt vermeld in vak 11 van het certificaat.
+
+7. Een certificaat inzake goederenverkeer EUR.1 wordt door de douaneautoriteiten afgegeven en ter beschikking van de exporteur gesteld zodra de goederen daadwerkelijk worden uitgevoerd of wanneer het zeker is dat ze zullen worden uitgevoerd.
+
+##### Artikel 16. Afgifte achteraf van het certificaat inzake goederenverkeer EUR.1
+
+1. In afwijking van artikel 15, lid 7, kan een certificaat inzake goederenverkeer EUR.1 bij wijze van uitzondering worden afgegeven na de uitvoer van de goederen waarop het betrekking heeft, indien
+
+- a. dit door een vergissing, onopzettelijk verzuim of bijzondere omstandigheden niet bij de uitvoer is gebeurd; of indien
+
+- b. ten genoegen van de douaneautoriteiten wordt aangetoond dat het certificaat inzake goederenverkeer EUR.1 wel was afgegeven, maar bij invoer om technische redenen niet is aanvaard.
+
+2. Bij toepassing van lid 1 dient de exporteur in zijn aanvraag de plaats en de datum van uitvoer te vermelden van de producten waarop het certificaat inzake goederenverkeer EUR.1 betrekking heeft, alsmede de reden van zijn aanvraag.
+
+3. De douaneautoriteiten kunnen eerst tot afgifte achteraf van een certificaat inzake goederenverkeer EUR.1 overgaan na te hebben vastgesteld dat de in de aanvraag van de exporteur voorkomende gegevens overeenstemmen met die in het desbetreffende dossier.
+
+4. Op achteraf afgegeven certificaten inzake goederenverkeer EUR.1 moet een van de volgende vermeldingen worden aangebracht:
+
+„NACHTRÄGLICH AUSGESTELLT”, „DELIVRE A POSTERIORI”,
+
+„RILASCIATO A POSTERIORI”, „AFGEGEVEN A POSTERIORI”,
+
+„ISSUED RETROSPECTIVELY”, „UDSTEDT EFTERFØLGENDE”,
+
+„ΕKΔOΘΕN ΕK TΟN YΣTΕΡΟN” „EXPEDIDO A POSTERIORI”,
+
+„EMITIDO A POSTERIORI”, „ANNETTU JÄLKIKÄTEEN”,
+
+„UTFÄRDAT I EFTERHAND”.
+
+5. De in lid 4 bedoelde vermelding wordt aangebracht in het vak „Opmerkingen” van het certificaat inzake goederenverkeer EUR.1.
+
+##### Artikel 17. Afgifte van een duplicaat van een certificaat inzake goederenverkeer EUR.1
+
+1. In geval van diefstal, verlies of vernietiging van een certificaat inzake goederenverkeer EUR.1, kan de exporteur de douaneautoriteiten die dit certificaat hadden afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.
+
+2. Op het aldus afgegeven certificaat wordt een van de volgende vermeldingen aangebracht:
+
+„DUPLIKAT”, „DUPLICATA”, „DUPLICATO”, „DUPLICAAT”, „DUPLICATE”, „ANTIΓΡAΦO”, „DUPLICADO”, „SEGUNDA VIA”, „KAKSOISKAPPALE”.
+
+3. De in lid 2 bedoelde vermelding wordt aangebracht in het vak 'Opmerkingen' van het duplicaat van het certificaat inzake goederenverkeer EUR.1.
+
+4. Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke EUR.1-certificaat, geldt vanaf die datum.
+
+##### Artikel 18. Afgifte van een EUR.1-certificaat aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
+
+Voor producten van oorsprong die in een ACS-staat of in de Gemeenschap onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong door een of meer EUR.1-certificaten worden vervangen bij verzending van deze producten of een gedeelte daarvan naar een andere plaats binnen de ACS-staten of de Gemeenschap. Dit certificaat of deze certificaten word(t)(en) afgegeven door het douanekantoor dat toezicht houdt op de producten.
+
+##### Artikel 19. Voorwaarden voor het opstellen van een factuurverklaring
+
+1. De in artikel 14, lid 1, onder b, genoemde factuurverklaring kan worden opgesteld door:
+
+- a. een toegelaten exporteur in de zin van artikel 20, of door
+
+- b. een willekeurige exporteur voor zendingen bestaande uit een of meer colli die producten van oorsprong bevatten waarvan de totale waarde niet meer dan EUR 6000 bedraagt.
+
+2. Een factuurverklaring kan worden opgesteld indien de betrokken producten als van oorsprong in de ACS-staten of in een van de andere in artikel 6 bedoelde landen kunnen worden beschouwd en aan de andere voorwaarden van dit Protocol voldoen.
+
+3. De exporteur die de factuurverklaring opstelt moet op verzoek van de douaneautoriteiten van het land of gebied van uitvoer steeds bereid zijn de nodige documenten te overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit Protocol is voldaan.
+
+4. Deze factuurverklaring, waarvan de tekst in bijlage V bij dit Protocol is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlage opgenomen talenversies, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. Indien de factuurverklaring met de hand wordt opgesteld, moet dit met inkt en in blokletters geschieden.
+
+5. De factuurverklaring wordt door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van artikel 20 behoeft deze verklaring echter niet te ondertekenen, mits hij de douaneautoriteiten een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt alsof hij deze eigenhandig had ondertekend.
+
+6. Een factuurverklaring kan door de exporteur worden opgesteld bij of na de uitvoer van de producten waarop zij betrekking heeft, doch dient binnen twee jaar na de invoer van deze producten in het land van invoer te worden aangeboden.
+
+##### Artikel 20. Toegelaten exporteur
+
+1. De douaneautoriteiten van het land van uitvoer kunnen een exporteur die veelvuldig producten verzendt waarop de bepalingen inzake handelssamenwerking van bijlage V van toepassing zijn, vergunning verlenen factuurverklaringen op te stellen, ongeacht de waarde van de betrokken producten. Een exporteur die deze vergunning aanvraagt moet naar het oordeel van de douaneautoriteiten de nodige waarborgen bieden in verband met de controle op de oorsprong van de producten en de naleving van de andere voorwaarden van dit Protocol.
+
+2. De douaneautoriteiten kunnen aan het verlenen van de status van toegelaten exporteur de door hen nodig geachte voorwaarden verbinden.
+
+3. De douaneautoriteiten kennen de toegelaten exporteur een nummer toe dat in de factuurverklaringen wordt vermeld.
+
+4. De douaneautoriteiten houden toezicht op het gebruik van de vergunning door de toegelaten exporteur.
+
+5. De douaneautoriteiten kunnen de vergunning steeds intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet meer de in lid 1 bedoelde garanties biedt, niet meer aan de in lid 2 bedoelde voorwaarden voldoet of de vergunning niet op de juiste wijze gebruikt.
+
+##### Artikel 21. Geldigheid van het bewijs van oorsprong
+
+1. Een bewijs van de oorsprong is tien maanden geldig vanaf de datum van afgifte in het land van uitvoer. Het moet binnen deze periode worden ingediend bij de douaneautoriteiten van het land van invoer.
+
+2. Bewijzen van de oorsprong die na het verstrijken van de in lid 1 genoemde termijn bij de douaneautoriteiten van het land van invoer worden ingediend, kunnen met het oog op de toepassing van de preferentiële behandeling worden aanvaard wanneer de verlate indiening het gevolg is van overmacht of buitengewone omstandigheden.
+
+3. In andere gevallen van verlate indiening kunnen de douaneautoriteiten van het land van invoer de bewijzen van de oorsprong aanvaarden wanneer de producten vóór het verstrijken van genoemde termijn bij hen zijn aangebracht.
+
+##### Artikel 22. Doorvoerprocedure
+
+Wanneer de goederen een andere ACS-staat of een andere LGO dan het land van oorsprong binnenkomen, gaat een nieuwe geldigheidsduur van vier maanden in op de datum waarop de douaneautoriteiten van het land van doorvoer in vak 7 van het certificaat inzake goederenverkeer EUR.1:
+
+- –. het woord „transit”,
+
+- –. de naam van het land van doorvoer,
+
+- –. het officiële stempel, waarvan een voorbeeld overeenkomstig artikel 31 aan de Commissie is toegezonden,
+
+- –. de datum van deze verklaringen,
+
+hebben aangebracht.
+
+##### Artikel 23. Overlegging van het bewijs van oorsprong
+
+Bewijzen van de oorsprong worden bij de douaneautoriteiten van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze autoriteiten kunnen eisen dat het bewijs van de oorsprong wordt vertaald. Zij kunnen voorts eisen dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van bijlage V voldoen.
+
+##### Artikel 24. Invoer in deelzendingen
+
+Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a voor de interpretatie van het geharmoniseerd systeem, vallende onder de afdelingen XVI en XVII of de posten 7308 en 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt één enkel bewijs van oorsprong bij de douaneautoriteiten ingediend bij de invoer van de eerste deelzending.
+
+##### Artikel 25. Vrijstelling van bewijs van de oorsprong
+
+1. Producten die in kleine zendingen door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers worden als producten van oorsprong toegelaten zonder dat een bewijs van oorsprong behoeft te worden overgelegd, voorzover aan zulke producten ieder handelskarakter vreemd is en verklaard wordt dat zij aan de voorwaarden voor de toepassing van dit Protocol voldoen en er over de juistheid van deze verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier CN22/CN23 of op een daaraan gehecht blad worden gesteld.
+
+2. Als invoer waaraan ieder handelskarakter vreemd is wordt beschouwd de invoer van incidentele aard van producten die uitsluitend bestemd zijn voor het persoonlijke gebruik van de geadresseerde, de reiziger of de leden van hun gezin, voorzover noch de aard noch de hoeveelheid van de producten op commerciële doeleinden wijzen.
+
+3. Voorts mag de totale waarde van deze producten niet meer bedragen dan 500 euro voor kleine zendingen of 1200 euro voor producten die deel uitmaken van de persoonlijke bagage van reizigers.
+
+##### Artikel 26. Inlichtingen ten behoeve van de cumulatie
+
+1. Wanneer artikel 2, lid 2, of artikel 6, lid 1, wordt toegepast, wordt het bewijs dat de materialen uit andere ACS-staten, de Gemeenschap of de LGO's van oorsprong zijn in de zin van dit Protocol geleverd door een certificaat inzake goederenverkeer EUR.1 of door een leveranciersverklaring, waarvan het model in bijlage VI A bij dit Protocol is opgenomen, afgegeven door de exporteur in de staat of het LGO waaruit de goederen afkomstig zijn.
+
+2. Wanneer artikel 2, lid 2, artikel 6, lid 2, en artikel 6, lid 9, worden toegepast, wordt het bewijs van de be- of verwerking in de andere ACS-staten, de Gemeenschap, de LGO's of Zuid-Afrika geleverd door de leveranciersverklaring, waarvan het model in bijlage VI B bij dit Protocol is opgenomen, afgegeven door de exporteur in de staat of het LGO waaruit de materialen afkomstig zijn.
+
+3. Voor elke zending materialen moet de leverancier een afzonderlijke leveranciersverklaring opstellen, hetzij op de handelsfactuur betreffende deze zending of op een bijlage bij deze factuur, hetzij op een pakbon of op een ander handelsdocument inzake deze zending waarin de betrokken goederen voldoende nauwkeurig zijn omschreven om ze te kunnen identificeren.
+
+4. De leveranciersverklaring kan op een voorgedrukt formulier worden gesteld.
+
+5. De leveranciersverklaring wordt van een handtekening voorzien. Wanneer de factuur en de leveranciersverklaring per computer worden opgemaakt, behoeft de leveranciersverklaring niet van een handtekening te worden voorzien indien de douaneautoriteiten in het land of gebied waar de leveranciersverklaring wordt opgesteld weten wie de verantwoordelijke is binnen de onderneming van de leverancier. Deze douaneautoriteiten kunnen de toepassingsvoorwaarden van dit lid vaststellen.
+
+6. De leveranciersverklaring wordt ingediend bij het bevoegde douanekantoor in de ACS-staat van uitvoer waarbij het verzoek om de afgifte van een certificaat inzake goederenverkeer EUR.1 is ingediend.
+
+7. Leveranciersverklaringen en inlichtingenbladen die vóór de inwerkingtreding van dit Protocol overeenkomstig artikelen 23 van Protocol 1 bij de Vierde ACS-EEG-Overeenkomst zijn afgegeven, blijven geldig.
+
+##### Artikel 27. Bewijsstukken
+
+De in artikel 15, lid 3, en artikel 19, lid 3, bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een EUR.1-certificaat of een factuurverklaring worden gedekt producten van oorsprong zijn uit een ACS-staat of uit een van de andere in artikel 6 bedoelde landen en aan de andere voorwaarden van dit Protocol voldoen, kunnen onder meer de volgende zijn:
+
+- a. een rechtstreeks bewijs, bijvoorbeeld aan de hand van de boekhouding of de interne administratie van de exporteur of leverancier, van de door deze uitgevoerde be- of verwerkingen om de producten te verkrijgen;
+
+- b. in een ACS-staat of in een van de andere in artikel 6 bedoelde landen afgegeven of opgestelde, en volgens het nationale recht gebruikte documenten waaruit de oorsprong van de gebruikte materialen blijkt;
+
+- c. in een ACS-staat, in de Gemeenschap of in een LGO afgegeven of opgestelde, en volgens het nationale recht gebruikte documenten waaruit de be- of verwerking van de materialen in de ACS-staten, in de Gemeenschap of in de LGO's blijkt;
+
+- d. EUR.1-certificaten of factuurverklaringen waaruit blijkt dat de gebruikte materialen van oorsprong zijn, die overeenkomstig dit Protocol in een ACS-staat of in een van de andere in artikel 6 bedoelde landen zijn afgegeven of opgesteld.
+
+##### Artikel 28. Bewaring van het bewijs van de oorsprong en de bewijsstukken
+
+1. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, bewaart de in artikel 15, lid 3, bedoelde documenten gedurende een periode van ten minste drie jaar.
+
+2. De exporteur die een factuurverklaring opstelt, bewaart een kopie van deze factuurverklaring en van de in artikel 19, lid 3, bedoelde documenten gedurende een periode van ten minste drie jaar.
+
+3. De douaneautoriteiten van het land van uitvoer die een EUR.1-certificaat afgeven bewaren het in artikel 15, lid 2, bedoelde aanvraagformulier gedurende een periode van ten minste drie jaar.
+
+4. De douaneautoriteiten van het land van invoer bewaren de EUR.1-certificaten en factuurverklaringen die bij hen werden ingediend gedurende een periode van ten minste drie jaar.
+
+##### Artikel 29. Verschillen en vormfouten
+
+1. Worden geringe verschillen vastgesteld tussen de gegevens op het bewijs van de oorsprong en de gegevens op de documenten die, met het oog op het vervullen van de formaliteiten bij invoer, bij het douanekantoor worden ingediend, dan is het bewijs van de oorsprong hierdoor niet automatisch ongeldig, indien blijkt dat het wel degelijk met de aangebrachte producten overeenstemt.
+
+2. Kennelijke vormfouten zoals typefouten op het bewijs van de oorsprong maken dit document niet ongeldig indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de in daarin vermelde gegevens.
+
+##### Artikel 30. In euro uitgedrukte bedragen
+
+1. De in een bepaalde nationale valuta van een lidstaat te gebruiken bedragen zijn de tegenwaarde in die nationale valuta van de in euro uitgedrukte bedragen op de eerste werkdag van oktober 1999.
+
+2. De in euro uitgedrukte bedragen en de tegenwaarde in de nationale valuta van sommige lidstaten van de EG kunnen zo nodig door de Gemeenschap worden herzien en worden door de Gemeenschap, uiterlijk een maand voordat de herziening van kracht wordt, aan het Comité Douanesamenwerking medegedeeld. De Gemeenschap draagt er bij deze herziening zorg voor dat de te gebruiken bedragen in nationale valuta's niet worden verminderd en onderzoekt tevens of het wenselijk is de gevolgen van de betreffende limieten in reële termen te handhaven. Het kan in dit verband besluiten de in euro uitgedrukte bedragen te wijzigen.
+
+3. Wanneer de producten gefactureerd zijn in de valuta van een andere lidstaat van de EG, aanvaardt het land van invoer het bedrag dat door de betrokken lidstaat is medegedeeld.
+
+## TITEL V. REGELINGEN VOOR ADMINISTRATIEVE SAMENWERKING
+
+##### Artikel 31. Wederzijdse bijstand
+
+1. De ACS-staten doen de Commissie de afdrukken toekomen van de door hen gebruikte stempels alsmede de adressen van de douaneautoriteiten die belast zijn met de afgifte van certificaten inzake goederenverkeer EUR.1 en de controle van deze certificaten en de factuurverklaringen.
+
+Certificaten inzake goederenverkeer EUR.1 en factuurverklaringen worden met het oog op de toepassing van de preferentiële regeling aanvaard vanaf de ontvangst van deze informatie door de Commissie.
+
+De Commissie geeft deze informatie aan de douaneautoriteiten van de lidstaten door.
+
+2. Ten behoeve van de correcte toepassing van dit Protocol verlenen de Gemeenschap, de ACS-staten en de LGO's elkaar, via de bevoegde douane-instanties, bijstand bij de controle op de echtheid van de EUR.1-certificaten, de factuurverklaringen of de leveranciersverklaringen en de juistheid van de daarin vermelde gegevens.
+
+De geraadpleegde autoriteiten verstrekken de relevante gegevens over de voorwaarden waarop het product is vervaardigd, met name over de voorwaarden waarop de oorsprongsregels in de verschillende betrokken ACS-staten, lidstaten of LGO's in acht zijn genomen.
+
+##### Artikel 32. Controle van de bewijzen van de oorsprong
+
+1. De bewijzen van de oorsprong worden achteraf door middel van steekproeven gecontroleerd of wanneer de douaneautoriteiten van het land van invoer redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit Protocol.
+
+2. Voor de toepassing van lid 1 zenden de douaneautoriteiten van het land van invoer het EUR.1-certificaat, de factuur, indien deze werd voorgelegd, de factuurverklaring of een kopie van deze documenten, terug aan de douaneautoriteiten van het land van uitvoer, in voorkomend geval onder vermelding van de redenen waarom een onderzoek wordt aangevraagd. Zij verstrekken bij deze aanvraag om een controle achteraf alle documenten en gegevens die het vermoeden hebben doen rijzen dat de gegevens op het bewijs van de oorsprong onjuist zijn.
+
+3. De controle wordt verricht door de douaneautoriteiten van het land van uitvoer. Zij kunnen in dit verband bewijsmateriaal opvragen, de administratie van de exporteur inzien en elke andere controle verrichten die zij dienstig achten.
+
+4. Indien de douaneautoriteiten van het land van invoer besluiten de preferentiële behandeling niet toe te kennen zolang de uitslag van de controle niet bekend is, stellen zij de importeur voor de betrokken producten vrij te geven onder voorbehoud van de noodzakelijk geachte conservatoire maatregelen.
+
+5. De douaneautoriteiten die de controle hebben aangevraagd worden zo spoedig mogelijk van de resultaten van de controle in kennis gesteld. In deze mededeling moet duidelijk worden aangegeven of de documenten al dan niet echt zijn, of de betrokken producten als producten van oorsprong uit de ACS-staten of uit een van de andere in artikel 6 bedoelde landen kunnen worden beschouwd en of aan de andere voorwaarden van dit Protocol is voldaan.
+
+6. Indien bij gegronde twijfel binnen tien maanden na de datum van het verzoek om controle geen antwoord is ontvangen of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kennen de aanvragende douaneautoriteiten de preferenties niet toe, behoudens buitengewone omstandigheden.
+
+7. Indien de resultaten van de controle of andere beschikbare gegevens erop lijken te wijzen dat de bepalingen van dit Protocol worden geschonden, stelt de ACS-staat op eigen initiatief of op verzoek van de Gemeenschap met de nodige spoed een onderzoek in of laat hij een onderzoek instellen om eventuele schendingen vast te stellen en te voorkomen. De betrokken ACS-staat kan de Commissie verzoeken aan dit onderzoek deel te nemen.
+
+##### Artikel 33. Controle van de leveranciersverklaring
+
+1. De leveranciersverklaring kan door middel van steekproeven worden gecontroleerd en wanneer de douaneautoriteiten van de staat van invoer redenen hebben om te twijfelen aan de echtheid van het document of de juistheid of volledigheid van de gegevens over de oorsprong van de betrokken materialen.
+
+2. De douaneautoriteiten aan wie een leveranciersverklaring wordt overgelegd, kunnen de douaneautoriteiten van de staat waar de verklaring werd opgesteld, verzoeken om afgifte van een inlichtingenblad volgens het model in bijlage VII bij dit Protocol. De douaneautoriteiten aan wie een leveranciersverklaring wordt overgelegd, kunnen ook de exporteur verzoeken een inlichtingenblad over te leggen, afgegeven door de douaneautoriteiten van de staat waar de verklaring werd opgesteld.
+
+Een kopie van het inlichtingenblad wordt ten minste drie jaar bewaard door het kantoor dat het heeft afgegeven.
+
+3. De verzoekende douaneautoriteiten worden zo spoedig mogelijk van de resultaten van de controle in kennis gesteld. Uit het antwoord moet duidelijk blijken of de verklaring betreffende de status van de materialen juist is.
+
+4. Met het oog op een eventuele controle bewaren de leveranciers een kopie van het document dat de verklaring bevat alsmede elk document waaruit de werkelijke status van de goederen blijkt gedurende ten minste twee jaar.
+
+5. De douaneautoriteiten van de staat waar de leveranciersverklaring is opgesteld, kunnen elk bewijs verlangen en alle controles uitvoeren die zij dienstig achten om de juistheid van de leveranciersverklaring te verifiëren.
+
+6. Een certificaat inzake goederenverkeer EUR. 1 dat is afgegeven of opgesteld op grond van een onjuiste leveranciersverklaring, wordt geacht ongeldig te zijn.
+
+##### Artikel 34. Regeling van geschillen
+
+Geschillen ten aanzien van de in de artikelen 32 en 33 bedoelde controles die de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die de controle moesten uitvoeren niet onderling kunnen regelen, en problemen in verband met de interpretatie van dit Protocol worden voorgelegd aan het bij artikel 37 bedoelde Comité Douanesamenwerking.
+
+In alle gevallen is de wetgeving van het land van invoer van toepassing op de regeling van geschillen tussen de importeur en de douaneautoriteiten van dat land.
+
+##### Artikel 35. Sancties
+
+Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel producten onder de preferentiële regeling te doen vallen, worden sancties getroffen.
+
+##### Artikel 36. Vrije zones
+
+1. De ACS-staten nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een oorsprongsbewijs of een leveranciersverklaring worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.
+
+2. In afwijking van het bepaalde in lid 1 geven de bevoegde autoriteiten, wanneer producten van oorsprong onder dekking van een oorsprongsbewijs in een vrije zone zijn ingevoerd een be- of verwerking ondergaan, op verzoek van de exporteur een nieuw EUR.1-certificaat af, mits deze be- of verwerking in overeenstemming is met de bepalingen van dit Protocol.
+
+##### Artikel 37. Comité voor douanesamenwerking
+
+1. Er wordt een Comité voor douanesamenwerking ingesteld, hierna het „Comité” genoemd, dat ermee belast is de administratieve samenwerking met het oog op de juiste en uniforme toepassing van dit Protocol te waarborgen en elke andere opdracht op douanegebied die het kan worden toevertrouwd, uit te voeren.
+
+2. Het Comité onderzoekt op gezette tijden welke de gevolgen zijn van de toepassing van de oorsprongsregels voor de ACS-staten, in het bijzonder voor de minst ontwikkelde ACS-staten, en doet de Raad van Ministers aanbevelingen voor passende maatregelen toekomen.
+
+3. Het Comité neemt overeenkomstig artikel 6 besluiten over cumulatie.
+
+4. Het Comité neemt overeenkomstig artikel 38 besluiten in verband met afwijkingen van dit Protocol.
+
+5. Het Comité komt op gezette tijden bijeen, met name ter voorbereiding van de besluiten die krachtens artikel 40 door de Raad van Ministers worden genomen.
+
+6. Het Comité is samengesteld uit deskundigen van de lidstaten en ambtenaren van de Commissie onder wier bevoegdheid douaneaangelegenheden vallen, enerzijds, en uit deskundigen die de ACS-staten vertegenwoordigen en ambtenaren van regionale groeperingen van de ACS-staten die verantwoordelijk zijn voor douaneaangelegenheden, anderzijds. Het Comité kan zo nodig een beroep doen op deskundigen.
+
+##### Artikel 38. Afwijkingen
+
+1. Wanneer zulks op grond van de ontwikkeling van bestaande industrieën of de vestiging van nieuwe industrieën gerechtvaardigd is, kan het Comité toestaan dat van dit Protocol wordt afgeweken.
+
+De betrokken ACS-staat of ACS-staten stellen, voordat of wanneer de ACS-staten de kwestie aan het Comité voorleggen, de Gemeenschap in kennis van zijn (hun) verzoek om een afwijking en vermelden de redenen van het verzoek overeenkomstig lid 2.
+
+De Gemeenschap willigt alle verzoeken van ACS-staten in die overeenkomstig dit artikel gerechtvaardigd zijn, tenzij hierdoor ernstige schade kan ontstaan voor een gevestigde industrie van de Gemeenschap.
+
+2. Om het Comité in staat te stellen de verzoeken om afwijking te kunnen beoordelen, verstrekt de aanvragende ACS-staat, met behulp van het formulier waarvan het model in bijlage VIII is opgenomen, ter staving van zijn verzoek zo volledig mogelijke gegevens die met name op de volgende punten betrekking hebben:
+
+- –. omschrijving van het eindproduct,
+
+- –. aard en hoeveelheid van de materialen van oorsprong uit derde landen,
+
+- –. aard en hoeveelheid van de materialen van oorsprong uit de ACS-staten, de Gemeenschap of de LGO of die aldaar een be- of verwerking hebben ondergaan,
+
+- –. fabricageprocédés,
+
+- –. toegevoegde waarde,
+
+- –. aantal werknemers van het betrokken bedrijf,
+
+- –. verwachte omvang van de uitvoer naar de Gemeenschap,
+
+- –. andere mogelijke bronnen waaruit grondstoffen betrokken kunnen worden,
+
+- –. verantwoording van de duur van de gevraagde afwijking, rekening houdend met de andere bronnen waaruit de materialen eventueel betrokken kunnen worden,
+
+- –. andere opmerkingen.
+
+Hetzelfde geldt voor eventuele verlengingen.
+
+Het formulier kan door het Comité worden gewijzigd.
+
+3. Bij het onderzoek van de aanvragen wordt in het bijzonder rekening gehouden met:
+
+- a. het ontwikkelingsniveau of de geografische ligging van de betrokken ACS-staat of ACS-staten;
+
+- b. de gevallen waarin de toepassing van de bestaande oorsprongsregels de mogelijkheden van een bestaande industrie in een ACS-staat om haar uitvoer naar de Gemeenschap voort te zetten duidelijk zou verminderen, met name indien dit tot stopzetting van haar activiteiten zou leiden;
+
+- c. bijzondere gevallen waarin duidelijk kan worden aangetoond dat belangrijke investeringen in een industrie door de toepassing van de oorsprongsregels ontmoedigd worden en waarin, door het toestaan van een afwijking, een investeringsprogramma kan worden uitgevoerd dat er op den duur toe leidt dat deze regels kunnen worden nageleefd.
+
+4. In alle gevallen dient te worden onderzocht of de regels inzake de cumulatie van de oorsprong geen oplossing bieden voor het probleem.
+
+5. Wanneer het verzoek om een afwijking een minstontwikkelde of insulaire ACS-staat betreft, wordt het in een geest van welwillendheid onderzocht, waarbij met name rekening wordt gehouden met:
+
+- a. de economische en sociale weerslag van het te nemen besluit op de werkgelegenheid;
+
+- b. de periode gedurende welke de afwijking moet worden toegepast, bij de vaststelling waarvan de bijzondere situatie van de betrokken ACS-staat en de moeilijkheden waarmede hij te kampen heeft, in aanmerking worden genomen.
+
+6. Elk verzoek wordt afzonderlijk onderzocht, waarbij in het bijzonder rekening wordt gehouden met de mogelijkheid om de oorsprong te verlenen aan producten waarin materialen zijn verwerkt die van oorsprong zijn uit naburige ontwikkelingslanden, minstontwikkelde landen of ontwikkelingslanden waarmee een of meer ACS-staten bijzondere banden hebben, mits met deze landen een bevredigende administratieve samenwerking tot stand kan worden gebracht.
+
+7. Onverminderd de leden 1 tot en met 6 wordt de afwijking toegestaan wanneer de waarde die is toegevoegd aan de niet van oorsprong zijnde producten die in de betrokken ACS-staat of de ACS-staten zijn bewerkt of verwerkt, ten minste 45% van de waarde van het eindproduct bedraagt, mits door deze afwijking geen ernstige schade kan ontstaan voor een economische sector van de Gemeenschap of van een of meer lidstaten.
+
+8. Onverminderd de leden 1 tot en met 7 worden afwijkingen voor tonijnconserven slechts toegestaan binnen een contingent van 8000 ton per jaar en voor tonijnzijden („loins”) binnen een contingent van 2000 ton per jaar.
+
+De verzoeken om afwijkingen worden door de ACS-staten, met inachtneming van bovengenoemd contingenten, ingediend bij het Comité, dat deze afwijkingen automatisch verleent en deze door middel van een besluit in werking doet treden.
+
+9. Het Comité draagt er zorg voor dat zo spoedig mogelijk, en in ieder geval binnen 75 werkdagen na ontvangst van het verzoek door de EEG-co-voorzitter van het Comité, een besluit wordt genomen. Indien de Gemeenschap de ACS-staten binnen deze termijn niet van zijn standpunt inzake het verzoek in kennis stelt, wordt het verzoek geacht te zijn ingewilligd. Indien het Comité geen besluit neemt, wordt het Comité van Ambassadeurs verzocht in de maand volgende op die waarin de kwestie hem werd voorgelegd, een uitspraak te doen.
+
+- a. De afwijkingen gelden voor een door het Comité vast te stellen periode die in het algemeen vijf jaar bedraagt.
+
+- b. Het besluit tot afwijking kan voorzien in verlengingen zonder dat het Comité hiervoor een nieuw besluit behoeft te nemen, op voorwaarde dat door de betrokken ACS-staat of ACS-staten drie maanden vóór het einde van iedere periode wordt aangetoond dat nog niet kan worden voldaan aan de bepalingen van dit Protocol waarop de afwijking betrekking heeft. Indien tegen de verlenging bezwaar wordt gemaakt, wordt dit door het Comité ten spoedigste onderzocht en besluit het of de afwijking kan worden verlengd. Het Comité volgt hierbij de in lid 9 omschreven procedure. Alle dienstige maatregelen worden genomen om te voorkomen dat zich onderbrekingen in de toepassing van de afwijking voordoen.
+
+- c. Tijdens de onder a en b genoemde periodes kan het Comité de voorwaarden voor toepassing van de afwijking opnieuw onderzoeken indien blijkt dat zich belangrijke wijzigingen hebben voorgedaan in de essentiële feiten die aanleiding hebben gegeven tot het goedkeuren van de afwijking. Naar aanleiding van dit onderzoek kan het Comité zijn besluit wijzigen wat het toepassingsgebied van de afwijking of een andere vroeger vastgestelde voorwaarde betreft.
+
+##### Artikel 39. Bijzondere voorwaarden
+
+1. De in dit Protocol gebruikte term „Gemeenschap” heeft geen betrekking op Ceuta en Melilla. Onder „producten van oorsprong uit de Gemeenschap” worden geen producten van oorsprong uit Ceuta en Melilla verstaan.
+
+2. Dit Protocol is van overeenkomstige toepassing om vast te stellen of producten die in Ceuta en Melilla worden ingevoerd, beschouwd kunnen worden van oorsprong te zijn uit de ACS-staten.
+
+3. Wanneer geheel en al in Ceuta, Melilla, de LGO's of de Gemeenschap verkregen producten in de ACS-staten een be- of verwerking ondergaan, worden zij beschouwd geheel en al in de ACS-staten te zijn verkregen.
+
+4. Be- en verwerkingen in Ceuta en Melilla, de LGO's of de Gemeenschap worden geacht in de ACS-staten te zijn verricht wanneer de materialen in de ACS-staten een verdere be- of verwerking ondergaan.
+
+5. Voor de toepassing van de leden 3 en 4 worden de in artikel 5 genoemde ontoereikende be- en verwerkingen niet als een be- of verwerking beschouwd.
+
+6. Ceuta en Melilla worden als één enkel grondgebied beschouwd.
+
+## TITEL VII. SLOTBEPALINGEN
+
+##### Artikel 40. Herziening van de oorsprongsregels
+
+Overeenkomstig artikel 7 van bijlage V worden de toepassing en de economische consequenties van dit Protocol jaarlijks of telkens wanneer de ACS-staten of de Gemeenschap daartoe een verzoek indienen, door de Raad van Ministers aan een onderzoek onderworpen met het doel daarin de noodzakelijk geachte wijzigingen of aanpassingen aan te brengen.
+
+De Raad van Ministers houdt onder meer rekening met de mogelijke gevolgen van de technologische ontwikkelingen voor de regels van oorsprong.
+
+De genomen besluiten worden zo spoedig mogelijk ten uitvoer gelegd.
+
+##### Artikel 41. Bijlagen
+
+De bijlagen bij dit Protocol maken deel uit van dit Protocol.
+
+##### Artikel 42. Tenuitvoerlegging
+
+De Gemeenschap en de ACS-staten nemen, ieder voor zich, de maatregelen die nodig zijn voor de tenuitvoerlegging van dit Protocol.
+
+De Gemeenschap en de ACS-Staten komen de volgende bijzondere maatregelen overeen om de traditionele rund- en kalfsvleesexporterende ACS-Staten in staat te stellen hun positie op de markt van de Gemeenschap te behouden en hun producenten aldus een bepaald inkomensniveau te garanderen.
+
+##### Artikel 1
+
+Binnen de in artikel 2 vastgestelde grenzen worden de douanerechten, andere dan de ad-valoremrechten, op rund- en kalfsvlees van oorsprong uit de ACS-Staten met 92 % verlaagd.
+
+##### Artikel 2
+
+Onverminderd artikel 4, heeft de in artikel 1 vastgestelde verlaging van de douanerechten per kalenderjaar en per land betrekking op de onderstaande hoeveelheden, uitgedrukt in vlees zonder been:
+
+| Botswana | 18.916 ton |
+| --- | --- |
+| Kenia | 142 ton |
+| Madagascar | 7.579 ton |
+| Swaziland | 3.363 ton |
+| Zimbabwe | 9.100 ton |
+| Namibië | 13.000 ton |
+
+##### Artikel 3
+
+Mocht er een teruggang van deze uitvoer ten gevolge van rampen zoals droogte, wervelstormen of veeziekten verwacht of geconstateerd worden, dan is de Gemeenschap bereid passende maatregelen te overwegen zodat de om deze redenen in een bepaald jaar niet geëxporteerde hoeveelheden in het volgende jaar kunnen worden geleverd.
+
+##### Artikel 6
+
+Bij toepassing van de in artikel 8, lid 1, van de bijlage betreffende de handelsregeling die tijdens de voorbereidingsperiode van toepassing is opgenomen vrijwaringsclausule op de sector rund- en kalfsvlees, neemt de Gemeenschap de nodige maatregelen om de uitvoer van de ACS-Staten naar de Gemeenschap te handhaven op een niveau dat verenigbaar is met de verbintenissen uit hoofde van dit Protocol.
+
+##### Artikel 1
+
+De ACS en de EU erkennen het zeer grote economische belang dat de bananenleveranciers in de ACS-Staten hebben bij de uitvoer van hun product naar de EU-markt. De EU stemt ermee in te onderzoeken welke maatregelen zo nodig genomen moeten worden om ervoor te zorgen dat deze leveranciers hun bananen kunnen blijven uitvoeren en op de markt van de Gemeenschap kunnen blijven afzetten.
+
+##### Artikel 2
+
+Elke betrokken ACS-Staat en de Gemeenschap zullen onderling overleg plegen om na te gaan welke maatregelen moeten worden genomen om de voorwaarden voor de productie en de afzet van bananen te verbeteren. Dit doel zal worden nagestreefd met alle middelen waarin de Overeenkomst voorziet uit hoofde van de financiële, technische, industriële en regionale samenwerking en samenwerking op het gebied van de landbouw. Deze maatregelen zullen zodanig zijn dat de ACS-Staten, en met name Somalië, hun concurrentievermogen kunnen verbeteren, gelet op de situatie van ieder van die staten. Er zullen maatregelen worden genomen voor alle stadia tussen productie en verbruik en met name de volgende:
+
+- –. verbetering van de productievoorwaarden en de kwaliteit door acties op het gebied van onderzoek, oogst, verpakking, laden en lossen;
+
+- –. vervoer en opslag;
+
+- –. marketing en handelsbevordering.
+
+##### Artikel 3
+
+Om deze doeleinden te bereiken komen beide partijen overeen overleg te plegen in een permanente gemengde groep, bijgestaan door een groep deskundigen, die tot taak heeft de specifieke problemen die onder hun aandacht worden gebracht doorlopend te bestuderen.
+
+##### Artikel 4
+
+Indien de bananenproducerende ACS-Staten besluiten een gemeenschappelijke organisatie op te richten om deze doelstellingen na te streven, zal de Gemeenschap deze organisatie steunen en de verzoeken in overweging nemen die eventueel tot haar worden gericht ter ondersteuning van de werkzaamheden van die organisatie die passen in het kader van de regionale programma's uit hoofde van de samenwerking inzake ontwikkelingsfinanciering.
+
+Volgende lijsten bevatten de namen van de minst ontwikkelde, niet aan zee grenzende en insulaire ACS-Staten.
+
+##### Artikel 1
+
+In het kader van deze Overeenkomst worden als minst ontwikkelde ACS-Staten beschouwd:
+
+| Angola | Mozambique |
+| --- | --- |
+| Benin | Niger |
+| Burkina Faso | Rwanda |
+| Burundi | Samoa |
+| Kaapverdië | SaoTomé en Principe |
+| Centraal-Afrikaanse Republiek | Sierra Leone |
+| Tsjaad | Salomonseilanden |
+| Comoren | Somalië |
+| Democratische Republiek Congo | Sudan |
+| Djibouti | Tanzania |
+| Ethiopië | Tuvalu |
+| Eritrea | Togo |
+| Gambia | Uganda |
+| Guinee | Vanuatu |
+| Guinee-Bissau | Zambia |
+| Equatoriaal-Guinea |   |
+| Haïti |   |
+| Kiribati |   |
+| Lesotho |   |
+| Liberia |   |
+| Malawi |   |
+| Mali |   |
+| Mauritanië |   |
+| Madagaskar |   |
+
+##### Artikel 2
+
+Er zijn specifieke bepalingen en maatregelen vastgesteld om de niet aan zee grenzende ACS-Staten te steunen in hun streven de geografische moeilijkheden en belemmeringen die hun ontwikkeling in de weg staan, te overwinnen zodat zij hun ontwikkelingstempo kunnen versnellen.
+
+##### Artikel 3
+
+De niet aan zee grenzende ACS-staten zijn:
+
+| Botswana | Mali |
+| --- | --- |
+| Burkina Faso | Niger |
+| Burundi | Rwanda |
+| Centraal-Afrikaanse Republiek | Swaziland |
+| Tsjaad | Uganda |
+| Ethiopië | Zambia |
+| Lesotho | Zimbabwe |
+| Malawi |   |
+
+### INSULAIRE ACS-STATEN
+
+##### Artikel 4
+
+Er zijn specifieke bepalingen en maatregelen vastgesteld om de insulaire ACS-Staten te steunen in hun streven de natuurlijke en geografische moeilijkheden en andere belemmeringen die hun ontwikkeling in de weg staan, te overwinnen zodat zij hun ontwikkelingstempo kunnen versnellen.
+
+##### Artikel 5
+
+De insulaire ACS-Staten zijn:
+
+| Antigua en Barbuda | Micronesië |
+| --- | --- |
+| Bahama’s | Nauru |
+| Barbados | Niue |
+| Kaapverdië | Palau |
+| Comoren | Papoea-Nieuw-Guinea |
+| Cookeilanden | Saint Kitts en Nevis |
+| Dominica | Saint Lucia |
+| Dominicaanse Republiek | Saint Vincent en de Grenadines |
+| Fiji | Samoa |
+| Grenada | Sao Tomé en Principe |
+| Haïti | Seychellen |
+| Jamaica | Salomonseilanden |
+| Kiribati | Tonga |
+| Madagaskar | Trinidad en Tobago |
+| Marshalleilanden | Tuvalu |
+| Mauritius | Vanuatu |
+
+De partijen bij de Overeenkomst,
+
+Verlangende de goede werking van de Overeenkomst alsmede de voorbereiding van de daarmee samenhangende werkzaamheden en de uitvoering van de ter toepassing daarvan getroffen maatregelen te bevorderen door het sluiten van een Protocol betreffende de voorrechten en immuniteiten,
+
+Overwegende dat derhalve de voorrechten en immuniteiten waarop de deelnemers aan werkzaamheden betreffende de toepassing van de Overeenkomst aanspraak kunnen maken, alsmede de regeling voor de officiële mededelingen in verband met deze werkzaamheden dienen te worden bepaald, zulks onverminderd het op 8 april 1965 te Brussel ondertekende Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen;
+
+Overwegende voorts dat er een regeling inzake de eigendommen, fondsen en bezittingen van de Raad van ACS-Ministers en inzake het personeel daarvan dient te worden vastgesteld;
+
+Overwegende dat bij de Overeenkomst van Georgetown van 6 juni 1975 de groep van ACS-Staten is opgericht en een Raad van ACS-Ministers en een Comité van Ambassadeurs zijn ingesteld; dat het secretariaat van de organen van de groep van ACS-Staten wordt waargenomen door het secretariaat van de ACS-Staten,
+
+Hebben overeenstemming bereikt omtrent de volgende bepalingen die aan de Overeenkomst zijn gehecht:
+
+##### Artikel 1
+
+De vertegenwoordigers van de Regeringen van de lidstaten en van de ACS-Staten en de vertegenwoordigers van de Instellingen van de Europese Gemeenschappen alsmede hun adviseurs en deskundigen en de personeelsleden van het secretariaat van de ACS-Staten die op het grondgebied van de lidstaten of van de ACS-Staten deelnemen hetzij aan de werkzaamheden van de instellingen van de Overeenkomst of van de coördinatieorganen, hetzij aan werkzaamheden met betrekking tot de toepassing van de Overeenkomst, genieten aldaar gedurende de uitoefening van hun ambt en op hun reizen naar of van de plaats van hun missie de gebruikelijke voorrechten, immuniteiten en faciliteiten.
+
+De vorige alinea is eveneens van toepassing op de leden van de Paritaire Vergadering van de Overeenkomst, op de scheidsrechters die krachtens deze Overeenkomst kunnen worden aangewezen, op de leden van de eventueel op te richten raadgevende instanties van de economische en sociale groeperingen, op de ambtenaren en andere personeelsleden daarvan, op de leden van de organen van de Europese Investeringsbank en het personeel daarvan, alsmede op het personeel van het Centrum voor industriële ontwikkeling en het Centrum voor ontwikkeling van de landbouw.
+
+### HOOFDSTUK 2. EIGENDOMMEN, FONDSEN EN BEZITTINGEN VAN DE RAAD VAN ACS-MINISTERS
+
+##### Artikel 2
+
+De door de Raad van ACS-Ministers voor officiële doeleinden gebruikte gebouwen en lokalen zijn onschendbaar. Zij zijn vrijgesteld van huiszoeking, vordering, verbeurdverklaring of onteigening.
+
+Tenzij zulks noodzakelijk is voor onderzoek in verband met ongevallen veroorzaakt door een motorvoertuig dat aan deze Raad toebehoort of voor zijn rekening aan het verkeer deelneemt, en behoudens in geval van door een dergelijk motorvoertuig veroorzaakte overtredingen van de verkeerswetgeving of ongevallen, kunnen de eigendommen en bezittingen van de Raad van ACS-Ministers zonder toestemming van de bij de Overeenkomst ingestelde Raad van Ministers niet worden getroffen door enige dwangmaatregel van bestuursrechtelijke of gerechtelijke aard.
+
+##### Artikel 3
+
+Het archief van de Raad van ACS-Ministers is onschendbaar.
+
+##### Artikel 4
+
+De Raad van ACS-Ministers, zijn bezittingen, inkomsten en andere eigendommen zijn vrijgesteld van alle directe belastingen.
+
+Wanneer de Raad van ACS-Ministers belangrijke aankopen doet van onroerende of roerende goederen welke strikt noodzakelijk zijn voor zijn officiële taakuitoefening, waarbij indirecte belastingen of belastingen op de verkoop in de prijs zijn begrepen, zal het gastland, telkens wanneer dit mogelijk is, passende maatregelen treffen tot kwijtschelding of teruggave van deze belastingen.
+
+Geen enkele vrijstelling wordt verleend van belastingen, heffingen, rechten en retributies welke vergoedingen voor verrichte diensten vormen.
+
+##### Artikel 5
+
+De Raad van ACS-Ministers is vrijgesteld van alle douanerechten, in- en uitvoerverboden en in- en uitvoerbeperkingen met betrekking tot goederen bestemd voor zijn officiële gebruik; de aldus ingevoerde goederen mogen op het grondgebied van het land waar zij zijn ingevoerd, niet worden verkocht of anderszins onder bezwarende titel of om niet worden overgedragen, tenzij op voorwaarden welke door de Regering van dat land zijn goedgekeurd.
+
+##### Artikel 6
+
+Voor hun officiële mededelingen en het overbrengen van al hun documenten genieten de Europese Gemeenschap, de gezamenlijke instellingen van de Overeenkomst en de coördinatieorganen op het grondgebied van de Staten die partij zijn bij de Overeenkomst, dezelfde behandeling als de internationale organisaties.
+
+De officiële correspondentie en andere officiële mededelingen van de Europese Gemeenschap, van de gezamenlijke instellingen van de Overeenkomst en van de coördinatieorganen mogen niet aan censuur worden onderworpen.
+
+### HOOFDSTUK 4. PERSONEEL VAN HET SECRETARIAAT VAN DE ACS-STATEN
+
+##### Artikel 9
+
+Naam, hoedanigheid en adres van de fungerend voorzitter van het Comité van Ambassadeurs, van de secretaris of secretarissen, de adjunct-secretaris of adjunct-secretarissen van de Raad van ACS-Ministers alsmede van de permanente personeelsleden van het secretariaat van de ACS-Staten worden op gezette tijden door de Voorzitter van de Raad van ACS-Ministers aan de Regering van de Staat waar deze Raad is gevestigd, medegedeeld.
 
 ##### Artikel 10
 
