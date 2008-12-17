@@ -4,7 +4,7 @@ identifier: "BWBR0010975"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-01-01"
-last_updated: "2000-02-01"
+last_updated: "2008-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010975"
 soort: "AMvB"
@@ -70,13 +70,13 @@ In dit besluit wordt verstaan onder:
 
 2. Indien op grond van [artikel 126dd, tweede lid, eerste volzin, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126dd) een bevel als bedoeld in het eerste lid achterwege blijft, beveelt de officier van justitie de vernietiging van de processen-verbaal en andere voorwerpen zo spoedig mogelijk nadat het onderzoek, bedoeld in [artikel 126dd, eerste lid, onderdeel a, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126dd), is beëindigd, behoudens in het geval dat dit onderzoek ten grondslag ligt aan zaken die nog niet zijn beëindigd. In het laatstgenoemde geval geldt de termijn, genoemd in [artikel 126cc, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126cc).
 
-3. Indien op grond van [artikel 126dd, tweede lid, tweede volzin, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126dd) een bevel als bedoeld in het eerste lid achterwege blijft, beveelt de officier van justitie de vernietiging van de processen-verbaal en andere voorwerpen zo spoedig mogelijk nadat de Wet politieregisters opslag van de gegevens die aan deze processen-verbaal en andere voorwerpen kunnen worden ontleend, niet meer toelaat.
+3. Indien op grond van [artikel 126dd, tweede lid, tweede volzin, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126dd) een bevel als bedoeld in het eerste lid achterwege blijft, beveelt de officier van justitie de vernietiging van de processen-verbaal en andere voorwerpen zo spoedig mogelijk nadat de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) opslag van de gegevens die aan deze processen-verbaal en andere voorwerpen kunnen worden ontleend, niet meer toelaat.
 
 4. Het bevel tot vernietiging is schriftelijk. Het proces-verbaal van vernietiging wordt terstond gezonden aan de officier van justitie. Deze houdt van de ingezonden processen-verbaal van vernietiging een registratie bij.
 
 ##### Artikel 4
 
-1. De opsporingsambtenaar die door de uitoefening van een van de bevoegdheden, genoemd in de [titels IVa tot en met Va van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA), kennisneemt van mededelingen waarvan hij weet of redelijkerwijs kan vermoeden dat deze zijn gedaan door of aan een geheimhouder, stelt hiervan de officier van justitie onverwijld in kennis.
+1. De opsporingsambtenaar die door de uitoefening van een van de bevoegdheden, genoemd in de [titels IVa tot en met Vc van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=IVA), kennisneemt van mededelingen waarvan hij weet of redelijkerwijs kan vermoeden dat deze zijn gedaan door of aan een geheimhouder, stelt hiervan de officier van justitie onverwijld in kennis.
 
 2. Indien de officier van justitie vaststelt dat de mededelingen, bedoeld in het eerste lid, mededelingen zijn als bedoeld in [artikel 126aa, tweede lid, eerste volzin, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126aa), beveelt hij terstond de vernietiging van de processen-verbaal en andere voorwerpen, voorzover zij deze mededelingen behelzen. Het bevel tot vernietiging is schriftelijk. Van de vernietiging wordt proces-verbaal opgemaakt, dat wordt gezonden aan de officier van justitie.
 
