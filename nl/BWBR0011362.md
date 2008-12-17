@@ -4,7 +4,7 @@ identifier: "BWBR0011362"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2008-11-12"
+last_updated: "2008-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011362"
 soort: "ministeriele-regeling"
@@ -574,7 +574,7 @@ Strenge eisen moeten worden gesteld aan aanvragers van een rijbewijs van groep 1
 
 In individuele gevallen kan een uitzondering worden gemaakt op de beperking tot privé-gebruik voor een termijn van maximaal vijf jaren en kan het rijbewijs ook worden gebruikt voor bepaalde vormen van beroepsmatig gebruik. Voorwaarde is keuring door een specialist en een verklaring van de werkgever waaruit blijkt dat niet meer dan vier uren per dag beroepsmatig gebruik wordt gemaakt van het rijbewijs. Deze uitzondering is niet mogelijk indien het beroepsmatig gebruik betrekking heeft op het vervoeren van personen of het onder toezicht doen besturen van derden.
 
-### 7.6.1.1. Aneurysmata en andere misvormingen van de hersenvaten
+### 7.6.1.1. Aneurysmata en andere misvormingen van de hersenarteriën
 
 Mensen met regelmatig terugkerende manische episoden zijn in het algemeen ongeschikt voor het rijbewijs. Hetzelfde geldt voor mensen met een geregeld optredende depressie IEZ. Ook mensen die voor hun aandoening hoge doses sederende psychofarmaca nodig hebben, zijn ongeschikt voor deelname aan het gemotoriseerde verkeer.
 
@@ -1036,7 +1036,7 @@ Bij epilepsie geldt tevens paragraaf 7.2.
 
 ### 7.6.2. Rijbewijzen van groep 2
 
-### 7.6.2.1. Aneurysmata en andere misvormingen van de hersenvaten
+### 7.6.2.1. Aneurysmata en andere misvormingen van de hersenarteriën
 
 ### 7.7. Stationaire defecttoestanden
 
