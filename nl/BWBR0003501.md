@@ -4,7 +4,7 @@ identifier: "BWBR0003501"
 country: "nl"
 rank: "amvb"
 publication_date: "2008-12-17"
-last_updated: "1999-01-01"
+last_updated: "2008-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003501"
 soort: "AMvB"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 "Onze Minister": Onze Minister van Justitie
 
-"gedetineerde": de militair die in het Militair Penitentiair Centrum "Nieuwersluis" hetzij voorlopig arrest in de zin van de Rechtspleging bij de Land- en Luchtmacht of de Rechtspleging bij de Zeemacht, hetzij gevangenisstraf, hechtenis of militaire detentie, ondergaat.
+"gedetineerde": de militair die rechtens van zijn vrijheid is beroofd en verblijft in het Militair Penitentiair Centrum Stroe.
 
 ##### Artikel 2
 
