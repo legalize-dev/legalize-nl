@@ -4,7 +4,7 @@ identifier: "BWBR0023017"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2008-09-03"
+last_updated: "2008-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023017"
 soort: "ministeriele-regeling"
@@ -56,12 +56,12 @@ Besluit:
 
 - c. Universitair Medisch Centrum Utrecht;
 
-- d. Ziekenhuis Bernhoven;
+- d. Medisch Centrum Leeuwarden;
 
 - e. Ziekenhuis De Gelderse Vallei, en
 
-- f. Ziekenhuis Zeeuws-Vlaanderen.
+- f. ZorgSaam Ziekenhuis Terneuzen.
 
-5. Aan de aanwijzing van de in het eerste lid bedoelde instellingen wordt het voorschrift verbonden dat de wijze van raadpleging geschiedt volgens het door het bestuur van de zorginstelling ingevolge [artikel 23 van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=23) vastgesteld protocol.
+5. Aan de aanwijzing van de in het vierde lid bedoelde instellingen wordt het voorschrift verbonden dat de wijze van raadpleging geschiedt volgens het door het bestuur van de zorginstelling ingevolge [artikel 23 van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=23) vastgesteld protocol.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
