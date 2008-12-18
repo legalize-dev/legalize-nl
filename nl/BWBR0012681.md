@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2008-08-21"
+last_updated: "2008-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - f. voor deelname aan de WEU-operatie Multinational Advisory Police Element, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Albanië: WEU MAPE;
 
-- g. voor deelname aan de European Union Monitor Mission, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Balkanstaten: EUMM;
+- g. voor deelname aan de European Union Monitor Mission, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Balkanstaten, Georgië en de grensgebieden van Zuid-Ossetië en Abchazië: EUMM;
 
 - h. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa, voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Albanië: OVSE ALBANIE;
 
