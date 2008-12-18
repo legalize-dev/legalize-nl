@@ -4,7 +4,7 @@ identifier: "BWBR0024867"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-15"
-last_updated: "2008-01-01"
+last_updated: "2008-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024867"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Besluit:
 
 - g. **verantwoordelijke:** minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-2. Namens de verantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door de Directeur van de VROM-IOD, in het bijzonder die genoemd in de [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=5&z=2008-12-18&g=2008-01-01), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=7&z=2008-12-18&g=2008-01-01), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=8&z=2008-12-18&g=2008-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=9&z=2008-12-18&g=2008-01-01).
+2. Namens de verantwoordelijke kunnen de in deze regeling voorgeschreven handelingen worden verricht door de Directeur van de VROM-IOD, in het bijzonder die genoemd in de [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=5&z=2008-12-18&g=2008-12-18), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=7&z=2008-12-18&g=2008-12-18), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=8&z=2008-12-18&g=2008-12-18), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=9&z=2008-12-18&g=2008-12-18).
 
 ##### Artikel 2
 
@@ -92,7 +92,7 @@ Besluit:
 
 2. Ten behoeve van de werkzaamheden, bedoeld in het eerste lid, maakt de criminele-inlichtingeneenheid VROM-IOD gebruik van de door de Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties aangewezen geautomatiseerde verwijsindex.
 
-3. De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onderdeel c, met medewerking van personen als omschreven in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=1&z=2008-12-18&g=2008-01-01), wordt binnen de VROM-IOD uitsluitend verricht door de criminele-inlichtingeneenheid VROM-IOD.
+3. De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onderdeel c, met medewerking van personen als omschreven in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=1&z=2008-12-18&g=2008-12-18), wordt binnen de VROM-IOD uitsluitend verricht door de criminele-inlichtingeneenheid VROM-IOD.
 
 ##### Artikel 4
 
@@ -100,7 +100,7 @@ De criminele-inlichtingeneenheid VROM-IOD streeft naar een zo doelmatig mogelijk
 
 ##### Artikel 5
 
-1. De criminele-inlichtingeneenheid VROM-IOD verstrekt criminele inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Daartoe wordt gebruik gemaakt van het modelformulier dat is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&bijlage=I&z=2008-12-18&g=2008-01-01) bij dit besluit.
+1. De criminele-inlichtingeneenheid VROM-IOD verstrekt criminele inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven, voor zover het betreft misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Daartoe wordt gebruik gemaakt van het modelformulier dat is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&bijlage=I&z=2008-12-18&g=2008-12-18) bij dit besluit.
 
 2. Van de overeenkomstig [artikel 46, tweede lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) aangewezen ambtenaren van de criminele-inlichtingeneenheid VROM-IOD worden door de verantwoordelijke twee ambtenaren voorgedragen met het oog op de autorisatie, bedoeld in [artikel 2:5, eerste lid, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5), ten aanzien van het bestand met criminele inlichtingen bij de overige criminele inlichtingeneenheden.
 
@@ -118,13 +118,13 @@ De criminele-inlichtingeneenheid VROM-IOD streeft naar een zo doelmatig mogelijk
 
 - d. overige informatie die van belang kan zijn voor de landelijke en internationale coördinatie en ondersteuning door de nationale criminele inlichtingen eenheid.
 
-2. Ter uitvoering van het eerste lid, onderdeel b, en met het oog op de verstrekking van de gegevens als opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&bijlage=2&z=2008-12-18&g=2008-01-01) van dit besluit maakt de criminele-inlichtingeneenheid VROM-IOD gebruik van de door de Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties aangewezen geautomatiseerde verwijsindex.
+2. Ter uitvoering van het eerste lid, onderdeel b, en met het oog op de verstrekking van de gegevens als opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&bijlage=2&z=2008-12-18&g=2008-12-18) van dit besluit maakt de criminele-inlichtingeneenheid VROM-IOD gebruik van de door de Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties aangewezen geautomatiseerde verwijsindex.
 
 ##### Artikel 7
 
 1. De verantwoordelijke draagt er zorg voor dat de kennis en vaardigheden van de ambtenaren, die deel uitmaken van de criminele-inlichtingeneenheid VROM-IOD, worden onderhouden op ten minste het niveau van de eisen, bedoeld in [artikel 2:9 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:9).
 
-2. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=3&z=2008-12-18&g=2008-01-01), ononderbroken deel uitmaakt van de criminele-inlichtingeneenheid VROM-IOD.
+2. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024867&artikel=3&z=2008-12-18&g=2008-12-18), ononderbroken deel uitmaakt van de criminele-inlichtingeneenheid VROM-IOD.
 
 3. De termijn, bedoeld in het tweede lid, is ten hoogste vier jaar en kan tweemaal met ten hoogste twee jaar worden verlengd.
 
