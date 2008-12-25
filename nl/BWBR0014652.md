@@ -4,7 +4,7 @@ identifier: "BWBR0014652"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2008-11-01"
+last_updated: "2008-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014652"
 soort: "ministeriele-regeling"
@@ -46,6 +46,16 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- a. richtlijn: [richtlijn nr. 94/57/EG](31994L0057) van de Raad van de Europese Unie van 22 november 1994 inzake gemeenschappelijke voorschriften en normen voor de met inspectie en controle van schepen belaste organisaties en voor de desbetreffende werkzaamheden van maritieme instanties (PbEG L 319);
+
+- b. klassenbureau: rechtspersoon, bevoegd tot het verrichten van bij of krachtens de [artikelen 8 van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=8), en [13 tot en met 18 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=13), voorgeschreven onderzoeken;
+
+- c. erkende beveiligingsorganisatie: rechtspersoon, bevoegd tot het verrichten van bij of krachtens [artikel 19 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19) voorgeschreven onderzoeken;
+
+- d. SOLAS-verdrag: het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
+
+- e. testing ASP: rechtspersoon, bevoegd tot het verrichten van onderzoeken gericht op het testen van geschiktheid van apparatuur voor het automatisch zenden van gegevens, bedoeld in voorschrift V-19/1 van het SOLAS-verdrag.
+
 ##### Artikel 2
 
 1. Als klassenbureau kunnen worden aangewezen de erkende organisaties, bedoeld in artikel 4 van de richtlijn.
@@ -68,7 +78,7 @@ Een als klassenbureau aan te wijzen organisatie houdt kantoor in een land van he
 
 1. Een aanwijzing als klassenbureau kan met inachtneming van artikel 10 van de richtlijn worden geschorst, indien door een handeling of nalatigheid van de aangewezen organisatie ernstig gevaar voor de veiligheid of het milieu is of kan ontstaan.
 
-2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2006-03-26&g=2008-11-01).
+2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2008-12-25&g=2008-12-25).
 
 ##### Artikel 6
 
@@ -124,6 +134,6 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 ##### Artikel 5d
 
-De resolutie, bedoeld in [artikel 5c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2008-12-25&g=2008-11-01), en de circulaire, bedoeld in [artikel 5c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2008-12-25&g=2008-11-01), liggen ter inzage bij het Ministerie van Verkeer en Waterstaat.
+De resolutie, bedoeld in [artikel 5c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2008-12-25&g=2008-12-25), en de circulaire, bedoeld in [artikel 5c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5c&z=2008-12-25&g=2008-12-25), liggen ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
