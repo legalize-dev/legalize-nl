@@ -159,7 +159,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2009.
-
-##### Artikel 1a
-
-Dit onderdeel is nog niet inwerking getreden
