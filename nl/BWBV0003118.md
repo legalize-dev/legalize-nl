@@ -4,7 +4,7 @@ identifier: "BWBV0003118"
 country: "nl"
 rank: "verdrag"
 publication_date: "2008-12-29"
-last_updated: "2008-10-15"
+last_updated: "2008-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003118"
 soort: "verdrag"
@@ -229,9 +229,9 @@ De partijen streven naar samenwerking in alle internationale fora waar aangelege
 
 ##### Artikel 7. Ontwikkelingssamenwerking
 
-1. De partijen erkennen dat ontwikkelingssamenwerking een uiterst belangrijk element van hun partnerschap is en een essentiële factor voor de verwezenlijking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=1&z=2008-10-15&g=2008-10-15) genoemde doelstellingen van deze overeenkomst. Deze samenwerking kan financiële en niet-financiële vormen aannemen.
+1. De partijen erkennen dat ontwikkelingssamenwerking een uiterst belangrijk element van hun partnerschap is en een essentiële factor voor de verwezenlijking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=1&z=2008-12-29&g=2008-12-29) genoemde doelstellingen van deze overeenkomst. Deze samenwerking kan financiële en niet-financiële vormen aannemen.
 
-2. De ontwikkelingssamenwerking ter bevordering van regionale economische samenwerking en integratie, zoals voorzien in de [Overeenkomst van Cotonou](onbekend), wordt zodanig ten uitvoer gelegd dat de verwachte voordelen van deze overeenkomst zo groot mogelijk zijn. In de afzonderlijke hoofdstukken van deze overeenkomst wordt in voorkomend geval uiteengezet op welke gebieden er sprake zal zijn van samenwerking en technische bijstand. De samenwerking vindt plaats op de in dit artikel bedoelde wijze, wordt permanent getoetst en wordt zo nodig herzien overeenkomstig [artikel 246](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=VI&artikel=246&z=2008-10-15&g=2008-10-15) van deze overeenkomst.
+2. De ontwikkelingssamenwerking ter bevordering van regionale economische samenwerking en integratie, zoals voorzien in de [Overeenkomst van Cotonou](onbekend), wordt zodanig ten uitvoer gelegd dat de verwachte voordelen van deze overeenkomst zo groot mogelijk zijn. In de afzonderlijke hoofdstukken van deze overeenkomst wordt in voorkomend geval uiteengezet op welke gebieden er sprake zal zijn van samenwerking en technische bijstand. De samenwerking vindt plaats op de in dit artikel bedoelde wijze, wordt permanent getoetst en wordt zo nodig herzien overeenkomstig [artikel 246](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=VI&artikel=246&z=2008-12-29&g=2008-12-29) van deze overeenkomst.
 
 3. De financiering door de Europese Gemeenschap van de ontwikkelingssamenwerking tussen Cariforum en de Europese Gemeenschap ter ondersteuning van de uitvoering van deze overeenkomst vindt plaats in het kader van de voorschriften en de desbetreffende procedures die zijn neergelegd in de [Overeenkomst van Cotonou](onbekend), met name de programmeringsprocedures van het Europees Ontwikkelingsfonds (EOF), en in het kader van de desbetreffende instrumenten die uit de algemene begroting van de Europese Unie worden gefinancierd. In dit verband is steun bij de uitvoering van deze overeenkomst een van de prioriteiten.
 
@@ -243,7 +243,7 @@ De partijen streven naar samenwerking in alle internationale fora waar aangelege
 
 ##### Artikel 8. Samenwerkingsprioriteiten
 
-1. De in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) bedoelde ontwikkelingssamenwerking is voornamelijk gericht op de volgende gebieden, die verder worden uitgewerkt in de afzonderlijke hoofdstukken van deze overeenkomst:
+1. De in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) bedoelde ontwikkelingssamenwerking is voornamelijk gericht op de volgende gebieden, die verder worden uitgewerkt in de afzonderlijke hoofdstukken van deze overeenkomst:
 
 - i. het verlenen van technische hulp om in de Cariforum-staten een menselijke, juridische en institutionele capaciteit op te bouwen, zodat het voor hen gemakkelijker is de in deze overeenkomst neergelegde verbintenissen na te leven;
 
@@ -259,7 +259,7 @@ De partijen streven naar samenwerking in alle internationale fora waar aangelege
 
 - vii. steun bij de ontwikkeling van de voor de handel benodigde infrastructuur in de Cariforum-staten.
 
-2. De prioriteiten van de ontwikkelingssamenwerking, die in lid 1 in grote lijnen zijn uiteengezet en in de afzonderlijke hoofdstukken van deze overeenkomst nader worden gespecificeerd, worden ten uitvoer gelegd volgens de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) uiteengezette modaliteiten.
+2. De prioriteiten van de ontwikkelingssamenwerking, die in lid 1 in grote lijnen zijn uiteengezet en in de afzonderlijke hoofdstukken van deze overeenkomst nader worden gespecificeerd, worden ten uitvoer gelegd volgens de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) uiteengezette modaliteiten.
 
 3. De partijen zijn het erover eens dat een regionaal, op de belangen van alle Cariforum-staten gericht ontwikkelingsfonds van voordeel is voor de terbeschikkingstelling en kanalisering van het EOF en eventuele andere donoren afkomstige ontwikkelingsmiddelen die verband houden met de economische partnerschapsovereenkomst. De Cariforum-staten streven ernaar binnen twee jaar na de datum van ondertekening van deze overeenkomst een dergelijk fonds op te richten.
 
@@ -281,19 +281,19 @@ Voor de toepassing van dit hoofdstuk worden als „van oorsprong” beschouwd de
 
 Onder douanerechten worden verstaan alle rechten en heffingen, met inbegrip van alle aanvullende heffingen of belastingen, die worden opgelegd in verband met de invoer of de uitvoer van goederen, met uitzondering van:
 
-- a. interne belastingen of andere interne heffingen die in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=3&artikel=27&z=2008-10-15&g=2008-10-15) worden opgelegd;
+- a. interne belastingen of andere interne heffingen die in overeenstemming met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=3&artikel=27&z=2008-12-29&g=2008-12-29) worden opgelegd;
 
-- b. antidumpingmaatregelen, compenserende maatregelen en vrijwaringsmaatregelen die in overeenstemming met [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=2&z=2008-10-15&g=2008-10-15) van deze titel worden toegepast;
+- b. antidumpingmaatregelen, compenserende maatregelen en vrijwaringsmaatregelen die in overeenstemming met [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=2&z=2008-12-29&g=2008-12-29) van deze titel worden toegepast;
 
-- c. vergoedingen en andere heffingen die in overeenstemming met [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=13&z=2008-10-15&g=2008-10-15) worden opgelegd.
+- c. vergoedingen en andere heffingen die in overeenstemming met [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=13&z=2008-12-29&g=2008-12-29) worden opgelegd.
 
 ##### Artikel 12. Indeling van goederen
 
-Goederen die onder deze overeenkomst vallen, worden ingedeeld overeenkomstig het geharmoniseerde systeem inzake de omschrijving en codering van goederen (GS), in overeenstemming met de indelingsregels die daarop van toepassing zijn. Alle vraagstukken betreffende de indeling van goederen die in het kader van de tenuitvoerlegging van deze overeenkomst rijzen, worden behandeld door het in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=4&artikel=36&z=2008-10-15&g=2008-10-15) genoemde Speciaal Comité voor douanesamenwerking en handelsbevordering.
+Goederen die onder deze overeenkomst vallen, worden ingedeeld overeenkomstig het geharmoniseerde systeem inzake de omschrijving en codering van goederen (GS), in overeenstemming met de indelingsregels die daarop van toepassing zijn. Alle vraagstukken betreffende de indeling van goederen die in het kader van de tenuitvoerlegging van deze overeenkomst rijzen, worden behandeld door het in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=4&artikel=36&z=2008-12-29&g=2008-12-29) genoemde Speciaal Comité voor douanesamenwerking en handelsbevordering.
 
 ##### Artikel 13. Vergoedingen en andere heffingen
 
-De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=11&z=2008-10-15&g=2008-10-15) bedoelde vergoedingen en andere heffingen blijven beperkt tot, bij benadering, de kosten van de verleende diensten en beogen geen indirecte bescherming van binnenlandse producten of een belasting op de invoer of de uitvoer voor fiscale doeleinden. Zij gaan de werkelijke waarde van de verleende dienst niet te boven. Voor consulaire diensten worden geen vergoedingen en heffingen verlangd.
+De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=11&z=2008-12-29&g=2008-12-29) bedoelde vergoedingen en andere heffingen blijven beperkt tot, bij benadering, de kosten van de verleende diensten en beogen geen indirecte bescherming van binnenlandse producten of een belasting op de invoer of de uitvoer voor fiscale doeleinden. Zij gaan de werkelijke waarde van de verleende dienst niet te boven. Voor consulaire diensten worden geen vergoedingen en heffingen verlangd.
 
 ##### Artikel 14. Afschaffing van uitvoerrechten op producten van oorsprong
 
@@ -309,11 +309,11 @@ Producten van oorsprong uit de Cariforum-staten worden vrij van rechten in de EG
 
 1. Producten van oorsprong uit de EG worden bij invoer in de Cariforum-staten niet onderworpen aan hogere douanerechten dan die welke zijn vermeld in bijlage III.
 
-2. Producten van oorsprong uit de EG worden bij invoer in de Cariforum-staten vrijgesteld van alle douanerechten in de zin van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=11&z=2008-10-15&g=2008-10-15), met uitzondering van die welke zijn vermeld in bijlage III.
+2. Producten van oorsprong uit de EG worden bij invoer in de Cariforum-staten vrijgesteld van alle douanerechten in de zin van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=11&z=2008-12-29&g=2008-12-29), met uitzondering van die welke zijn vermeld in bijlage III.
 
-3. Tot tien jaar na de ondertekening van deze overeenkomst kunnen de Cariforum-staten douanerechten in de zin van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=11&z=2008-10-15&g=2008-10-15), met uitzondering van die welke zijn vermeld in bijlage III, blijven toepassen op de invoer van producten van oorsprong uit de EG, mits deze rechten al op de datum van ondertekening van deze overeenkomst op deze producten van toepassing waren en dezelfde rechten ook gelden voor soortgelijke producten die uit alle andere landen worden ingevoerd.
+3. Tot tien jaar na de ondertekening van deze overeenkomst kunnen de Cariforum-staten douanerechten in de zin van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=11&z=2008-12-29&g=2008-12-29), met uitzondering van die welke zijn vermeld in bijlage III, blijven toepassen op de invoer van producten van oorsprong uit de EG, mits deze rechten al op de datum van ondertekening van deze overeenkomst op deze producten van toepassing waren en dezelfde rechten ook gelden voor soortgelijke producten die uit alle andere landen worden ingevoerd.
 
-4. De overeenkomstsluitende Cariforum-staten behoeven in de eerste zeven jaar na de ondertekening van deze overeenkomst nog niet te beginnen met de gefaseerde afschaffing van de in lid 2 bedoelde douanerechten, met uitzondering van die welke worden vermeld in bijlage III. Dit proces gaat gepaard met steun bij de noodzakelijke belastinghervorming als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=22&z=2008-10-15&g=2008-10-15).
+4. De overeenkomstsluitende Cariforum-staten behoeven in de eerste zeven jaar na de ondertekening van deze overeenkomst nog niet te beginnen met de gefaseerde afschaffing van de in lid 2 bedoelde douanerechten, met uitzondering van die welke worden vermeld in bijlage III. Dit proces gaat gepaard met steun bij de noodzakelijke belastinghervorming als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=22&z=2008-12-29&g=2008-12-29).
 
 5. Met het oog op de transparantie worden dergelijke rechten binnen zes maanden na de datum van ondertekening van deze overeenkomst gemeld aan het Handels- en ontwikkelingscomité Cariforum-EG. Ook de afschaffing ervan wordt onverwijld aan het Handels- en ontwikkelingscomité Cariforum-EG gemeld.
 
@@ -369,7 +369,7 @@ Voor de toepassing van dit artikel kunnen onregelmatigheden of fraude onder meer
 
 ##### Artikel 20 bis
 
-Ter bevordering van de inspanningen van de partijen om een aanvaardbare oplossing te vinden voor de in [artikel 20, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=20&z=2008-10-15&g=2008-10-15), bedoelde aangelegenheden, kan de partij of de overeenkomstsluitende Cariforum-staat waartegen een conclusie ter kennis van het Handels- en ontwikkelingscomité Cariforum-EG is gebracht, ook, in overeenstemming met [artikel 205, leden 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=1&artikel=205&z=2008-10-15&g=2008-10-15), een beroep doen op een bemiddelaar. Het advies van de bemiddelaar wordt binnen de in [artikel 20, lid 4, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=20&z=2008-10-15&g=2008-10-15), bedoelde periode van drie maanden gemeld.
+Ter bevordering van de inspanningen van de partijen om een aanvaardbare oplossing te vinden voor de in [artikel 20, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=20&z=2008-12-29&g=2008-12-29), bedoelde aangelegenheden, kan de partij of de overeenkomstsluitende Cariforum-staat waartegen een conclusie ter kennis van het Handels- en ontwikkelingscomité Cariforum-EG is gebracht, ook, in overeenstemming met [artikel 205, leden 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=1&artikel=205&z=2008-12-29&g=2008-12-29), een beroep doen op een bemiddelaar. Het advies van de bemiddelaar wordt binnen de in [artikel 20, lid 4, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=20&z=2008-12-29&g=2008-12-29), bedoelde periode van drie maanden gemeld.
 
 ##### Artikel 21. Behandeling van administratieve fouten
 
@@ -379,7 +379,7 @@ Indien de bevoegde autoriteiten bij het beheer van de preferentiële uitvoerrege
 
 1. De partijen erkennen het belang van samenwerking om de belastingdiensten te versterken en de belastinginning te verbeteren.
 
-2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
+2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
 
 - a. technische bijstand op het gebied van belastinghervormingen, zodat er een verschuiving mogelijk is van tarieven en andere rechten en heffingen naar andere vormen van indirecte belastingen, en
 
@@ -417,7 +417,7 @@ Evenzo zien de Cariforum-staten erop toe dat een regionale of subregionale maatr
 
 ##### Artikel 25. Vrijwaringsclausule
 
-1. Niettegenstaande [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=2&artikel=24&z=2008-10-15&g=2008-10-15) kan een partij, na alternatieve oplossingen te hebben onderzocht, vrijwaringsmaatregelen van beperkte duur vaststellen die afwijken van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=15&z=2008-10-15&g=2008-10-15) of [16](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=16&z=2008-10-15&g=2008-10-15), naargelang van het geval, op de voorwaarden van en in overeenstemming met de procedures in dit artikel.
+1. Niettegenstaande [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=2&artikel=24&z=2008-12-29&g=2008-12-29) kan een partij, na alternatieve oplossingen te hebben onderzocht, vrijwaringsmaatregelen van beperkte duur vaststellen die afwijken van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=15&z=2008-12-29&g=2008-12-29) of [16](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=16&z=2008-12-29&g=2008-12-29), naargelang van het geval, op de voorwaarden van en in overeenstemming met de procedures in dit artikel.
 
 2. De in lid 1 bedoelde vrijwaringsmaatregelen kunnen worden getroffen wanneer een product dat van oorsprong is uit een van de partijen op het grondgebied van de andere partij wordt ingevoerd in dermate toegenomen hoeveelheden en onder zodanige omstandigheden dat:
 
@@ -471,9 +471,9 @@ Evenzo zien de Cariforum-staten erop toe dat een regionale of subregionale maatr
 
 ##### Artikel 26. Verbod op kwantitatieve beperkingen
 
-Vanaf de inwerkingtreding van deze overeenkomst worden op producten van oorsprong geen invoer- of uitvoerverboden of invoer- of uitvoerbeperkingen, afgezien van douanerechten en belastingen en de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=13&z=2008-10-15&g=2008-10-15) bedoelde vergoedingen en andere heffingen, gehandhaafd, ongeacht of deze de vorm hebben van contingenten, in- of uitvoervergunningen of andere maatregelen.
+Vanaf de inwerkingtreding van deze overeenkomst worden op producten van oorsprong geen invoer- of uitvoerverboden of invoer- of uitvoerbeperkingen, afgezien van douanerechten en belastingen en de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=1&artikel=13&z=2008-12-29&g=2008-12-29) bedoelde vergoedingen en andere heffingen, gehandhaafd, ongeacht of deze de vorm hebben van contingenten, in- of uitvoervergunningen of andere maatregelen.
 
-Er worden geen nieuwe maatregelen van die aard ingevoerd. Dit artikel doet geen afbreuk aan de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=2&artikel=23&z=2008-10-15&g=2008-10-15) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=2&artikel=24&z=2008-10-15&g=2008-10-15).
+Er worden geen nieuwe maatregelen van die aard ingevoerd. Dit artikel doet geen afbreuk aan de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=2&artikel=23&z=2008-12-29&g=2008-12-29) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=2&artikel=24&z=2008-12-29&g=2008-12-29).
 
 ##### Artikel 27. Nationale behandeling op het gebied van interne belastingen en regelgeving
 
@@ -485,9 +485,9 @@ Er worden geen nieuwe maatregelen van die aard ingevoerd. Dit artikel doet geen 
 
 4. Het bepaalde in dit artikel vormt geen beletsel voor de toekenning van subsidies aan uitsluitend nationale producenten, met inbegrip van betalingen aan nationale producenten uit de opbrengsten van interne belastingen of heffingen die overeenkomstig dit artikel worden geheven en van subsidies in de vorm van aankopen van binnenlandse producten door de overheid.
 
-5. Het bepaalde in dit artikel is niet van toepassing op wettelijke en bestuursrechtelijke bepalingen, procedures of praktijken inzake overheidsopdrachten, die uitsluitend onder de bepalingen in [titel IV, hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&z=2008-10-15&g=2008-10-15), vallen.
+5. Het bepaalde in dit artikel is niet van toepassing op wettelijke en bestuursrechtelijke bepalingen, procedures of praktijken inzake overheidsopdrachten, die uitsluitend onder de bepalingen in [titel IV, hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&z=2008-12-29&g=2008-12-29), vallen.
 
-6. Dit artikel doet geen afbreuk aan [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=2&artikel=23&z=2008-10-15&g=2008-10-15).
+6. Dit artikel doet geen afbreuk aan [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=2&artikel=23&z=2008-12-29&g=2008-12-29).
 
 ##### Artikel 28. Uitvoersubsidies voor landbouwproducten
 
@@ -511,7 +511,7 @@ Er worden geen nieuwe maatregelen van die aard ingevoerd. Dit artikel doet geen 
 
 ##### Artikel 30. Samenwerking op administratief en douanegebied
 
-1. Met het oog op de naleving van de bepalingen in deze titel en om doeltreffend in te spelen op de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=4&artikel=29&z=2008-10-15&g=2008-10-15) genoemde doelstellingen, nemen de EG en de overeenkomstsluitende Cariforum-staten de volgende maatregelen:
+1. Met het oog op de naleving van de bepalingen in deze titel en om doeltreffend in te spelen op de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=4&artikel=29&z=2008-12-29&g=2008-12-29) genoemde doelstellingen, nemen de EG en de overeenkomstsluitende Cariforum-staten de volgende maatregelen:
 
 - a. uitwisseling van informatie over douanewetgeving en -procedures;
 
@@ -585,13 +585,13 @@ De EG en de ondertekenende Cariforum-staten zijn het erover eens:
 
 1. De partijen bevorderen waar mogelijk regionale integratie op douanegebied en streven naar de ontwikkeling van regionale douanewetgeving, -procedures en -eisen, in overeenstemming met de internationale normen ter zake.
 
-2. Het in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=4&artikel=36&z=2008-10-15&g=2008-10-15) bedoelde Speciaal Comité voor douanesamenwerking en handelsbevordering houdt permanent toezicht op de tenuitvoerlegging van dit artikel.
+2. Het in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=4&artikel=36&z=2008-12-29&g=2008-12-29) bedoelde Speciaal Comité voor douanesamenwerking en handelsbevordering houdt permanent toezicht op de tenuitvoerlegging van dit artikel.
 
 ##### Artikel 35. Samenwerking
 
 1. De partijen erkennen het belang van samenwerking op het gebied van maatregelen inzake douane en handelsbevordering, teneinde de doelstellingen van deze overeenkomst te verwezenlijken.
 
-2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
+2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
 
 - a. toepassing van moderne douanetechnieken, zoals risicobeoordeling, bindende uitspraken vooraf, vereenvoudigde procedures voor de binnenkomst en de vrijgave van goederen, controles na de vrijgave en methoden voor de controle van bedrijfsboekhoudingen;
 
@@ -641,7 +641,7 @@ De Cariforum-staten verbinden zich ertoe beleid en institutionele hervormingen v
 
 1. De partijen erkennen dat de verwijdering van belemmeringen van de handel tussen de partijen, zoals beoogd in deze overeenkomst, grote uitdagingen kan meebrengen voor de Cariforum-producenten in de sectoren landbouw, voeding en visserij en voor de consumenten, en zij komen overeen met elkaar over deze onderwerpen te beraadslagen.
 
-2. Wanneer naleving van de bepalingen in deze overeenkomst aanleiding geeft tot problemen met de beschikbaarheid van of de toegang tot voedingsmiddelen en andere producten die van wezenlijk belang zijn voor de voedselzekerheid van een overeenkomstsluitende Cariforum-staat en wanneer deze situatie tot grote moeilijkheden voor die staat leidt of dreigt te leiden, kan deze in overeenstemming met [artikel 25, lid 7, onder b) tot en met d), en de leden 8 en 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=2&artikel=25&z=2008-10-15&g=2008-10-15), passende maatregelen nemen.
+2. Wanneer naleving van de bepalingen in deze overeenkomst aanleiding geeft tot problemen met de beschikbaarheid van of de toegang tot voedingsmiddelen en andere producten die van wezenlijk belang zijn voor de voedselzekerheid van een overeenkomstsluitende Cariforum-staat en wanneer deze situatie tot grote moeilijkheden voor die staat leidt of dreigt te leiden, kan deze in overeenstemming met [artikel 25, lid 7, onder b) tot en met d), en de leden 8 en 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=2&artikel=25&z=2008-12-29&g=2008-12-29), passende maatregelen nemen.
 
 ##### Artikel 41. Uitwisseling van informatie en overleg
 
@@ -669,7 +669,7 @@ De Cariforum-staten verbinden zich ertoe beleid en institutionele hervormingen v
 
 1. De partijen erkennen het belang van de sectoren landbouw, voeding en visserij voor de economie van de Cariforum-staten, en van samenwerking ter bevordering van de omschakeling van deze sectoren, met het doel hun concurrentievermogen te verbeteren en hun capaciteit om toegang tot kwalitatief ontwikkelde markten te verkrijgen, te vergroten, en eventueel een bijdrage te leveren aan de duurzame ontwikkeling van de Cariforum-staten. Zij erkennen de noodzaak de aanpassing van de sectoren landbouw, voeding en visserij en de plattelandseconomie aan de geleidelijke veranderingen die deze overeenkomst teweeg zal brengen, te vergemakkelijken en daarbij aandacht te besteden aan kleinschalige activiteiten.
 
-2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
+2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
 
 - a. verbetering van het concurrentievermogen van de potentieel levensvatbare productie en verwerking van landbouw- en visserijproducten door innovatie, scholing, bevordering van netwerken en andere ondersteunende activiteiten, zowel voor de traditionele als voor de niet-traditionele exportsector;
 
@@ -683,7 +683,7 @@ De Cariforum-staten verbinden zich ertoe beleid en institutionele hervormingen v
 
 - f. opbouw en versterking op regionaal niveau van de wetenschappelijke en technische capaciteiten van personen en instellingen met het oog op een duurzame handel in visserijproducten, met inbegrip van de aquicultuur;
 
-- g. de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=5&artikel=41&z=2008-10-15&g=2008-10-15) bedoelde dialoog.
+- g. de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=5&artikel=41&z=2008-12-29&g=2008-12-29) bedoelde dialoog.
 
 ### HOOFDSTUK 6. TECHNISCHE HANDELSBELEMMERINGEN
 
@@ -735,7 +735,7 @@ De partijen komen overeen om samen te werken in internationale normalisatie-inst
 
 1. De partijen erkennen het belang van samenwerking op het gebied van technische voorschriften, normen en conformiteitsbeoordeling om de doelstellingen van dit hoofdstuk te verwezenlijken.
 
-2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
+2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
 
 - a. vaststelling van passende regelingen voor de uitwisseling van expertise, met inbegrip van een passende scholing waardoor wordt voorzien in een adequate en duurzame technische competentie van de instanties voor normalisatie, metrologie, accreditatie, markttoezicht en conformiteitsbeoordeling, met name van die in de Cariforum-regio;
 
@@ -797,15 +797,15 @@ De partijen bevestigen vastberaden te zijn om de in [bijlage B bij de SPS-Overee
 
 1. De partijen erkennen het belang van samenwerking op het gebied van SPS-maatregelen, teneinde de doelstellingen van deze overeenkomst te bereiken.
 
-2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
+2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
 
-- a. versterking van de regionale integratie en verbetering van het toezicht op en de uitvoering en handhaving van SPS-maatregelen in overeenstemming met [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=7&artikel=56&z=2008-10-15&g=2008-10-15), met inbegrip van scholings- en voorlichtingsacties voor met de regelgeving belast personeel. Met het oog op de verwezenlijking van deze doelstellingen kunnen publiekprivate partnerschappen worden ondersteund;
+- a. versterking van de regionale integratie en verbetering van het toezicht op en de uitvoering en handhaving van SPS-maatregelen in overeenstemming met [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=7&artikel=56&z=2008-12-29&g=2008-12-29), met inbegrip van scholings- en voorlichtingsacties voor met de regelgeving belast personeel. Met het oog op de verwezenlijking van deze doelstellingen kunnen publiekprivate partnerschappen worden ondersteund;
 
 - b. invoering van passende regelingen voor de uitwisseling van expertise op het gebied van de gezondheid van dieren en planten en van de volksgezondheid, en organisatie van scholings- en voorlichtingsacties voor met de regelgeving belast personeel;
 
 - c. verbetering van de capaciteit van ondernemingen, met name ondernemingen in de Cariforum-staten, om aan de regelgeving en marktvereisten te voldoen;
 
-- d. samenwerking in de in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=7&artikel=52&z=2008-10-15&g=2008-10-15) genoemde internationale organisaties, waaronder de bevordering van deelname van vertegenwoordigers van de Cariforum-staten aan bijeenkomsten van deze organisaties.
+- d. samenwerking in de in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=7&artikel=52&z=2008-12-29&g=2008-12-29) genoemde internationale organisaties, waaronder de bevordering van deelname van vertegenwoordigers van de Cariforum-staten aan bijeenkomsten van deze organisaties.
 
 ## TITEL II. INVESTERINGEN, HANDEL IN DIENSTEN EN E-HANDEL
 
@@ -857,7 +857,7 @@ Teneinde de verbintenissen van het Gemenebest van de Bahama's en de Republiek Ha
 
 1. De partijen erkennen dat economische integratie tussen de Cariforum-staten door de geleidelijke verwijdering van de resterende belemmeringen en de invoering van passende regelgeving voor investeringen en de handel in diensten, zal bijdragen tot de verdieping van het proces van hun regionale integratie en de verwezenlijking van de doelstellingen van deze overeenkomst.
 
-2. De partijen erkennen voorts dat de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=5&z=2008-10-15&g=2008-10-15) van deze titel opgenomen beginselen met betrekking tot de steun voor de geleidelijke liberalisering van investeringen en de handel in diensten tussen de partijen een nuttig kader vormen voor de verdere liberalisering van investeringen en de handel in diensten tussen de Cariforum-staten in de context van hun regionale integratie.
+2. De partijen erkennen voorts dat de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=5&z=2008-12-29&g=2008-12-29) van deze titel opgenomen beginselen met betrekking tot de steun voor de geleidelijke liberalisering van investeringen en de handel in diensten tussen de partijen een nuttig kader vormen voor de verdere liberalisering van investeringen en de handel in diensten tussen de Cariforum-staten in de context van hun regionale integratie.
 
 ### HOOFDSTUK 2. COMMERCIËLE AANWEZIGHEID
 
@@ -1069,7 +1069,7 @@ De door de EG en de overeenkomstsluitende Cariforum-staten ingevolge dit hoofdst
 
 ##### Artikel 80. Werkingssfeer en definities
 
-1. Dit hoofdstuk is van toepassing op maatregelen van de partijen of de overeenkomstsluitende Cariforum-staten inzake de toegang tot en het tijdelijke verblijf op hun grondgebied van stafpersoneel, afgestudeerde stagiairs, verkopers van zakelijke diensten, dienstverleners op contractbasis, beoefenaars van een vrij beroep en tijdelijke bezoekers voor zaken, in overeenstemming met [artikel 60, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=1&artikel=60&z=2008-10-15&g=2008-10-15).
+1. Dit hoofdstuk is van toepassing op maatregelen van de partijen of de overeenkomstsluitende Cariforum-staten inzake de toegang tot en het tijdelijke verblijf op hun grondgebied van stafpersoneel, afgestudeerde stagiairs, verkopers van zakelijke diensten, dienstverleners op contractbasis, beoefenaars van een vrij beroep en tijdelijke bezoekers voor zaken, in overeenstemming met [artikel 60, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=1&artikel=60&z=2008-12-29&g=2008-12-29).
 
 2. Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
@@ -1101,13 +1101,13 @@ De door de EG en de overeenkomstsluitende Cariforum-staten ingevolge dit hoofdst
 
 ##### Artikel 81. Stafpersoneel en afgestudeerde stagiairs
 
-1. Voor elke overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-10-15&g=2008-10-15) van deze titel geliberaliseerde sector staan de EG en de overeenkomstsluitende Cariforum-staten, behoudens de in bijlage IV opgenomen voorbehouden, investeerders van de andere partij toe in hun commerciële aanwezigheden natuurlijke personen van die andere partij in dienst te hebben, mits die werknemers behoren tot het stafpersoneel dan wel afgestudeerd stagiair zijn, zoals gedefinieerd in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&artikel=80&z=2008-10-15&g=2008-10-15). De toegang en het tijdelijke verblijf van stafpersoneel en afgestudeerde stagiairs geldt voor een periode van ten hoogste drie jaar voor binnen de onderneming overgeplaatste personen, negentig dagen binnen een periode van twaalf maanden voor zakelijke bezoekers en één jaar voor afgestudeerde stagiairs.
+1. Voor elke overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-12-29&g=2008-12-29) van deze titel geliberaliseerde sector staan de EG en de overeenkomstsluitende Cariforum-staten, behoudens de in bijlage IV opgenomen voorbehouden, investeerders van de andere partij toe in hun commerciële aanwezigheden natuurlijke personen van die andere partij in dienst te hebben, mits die werknemers behoren tot het stafpersoneel dan wel afgestudeerd stagiair zijn, zoals gedefinieerd in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&artikel=80&z=2008-12-29&g=2008-12-29). De toegang en het tijdelijke verblijf van stafpersoneel en afgestudeerde stagiairs geldt voor een periode van ten hoogste drie jaar voor binnen de onderneming overgeplaatste personen, negentig dagen binnen een periode van twaalf maanden voor zakelijke bezoekers en één jaar voor afgestudeerde stagiairs.
 
-2. Voor elke overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-10-15&g=2008-10-15) van deze titel geliberaliseerde sector worden, tenzij anderszins bepaald in bijlage IV, de maatregelen die de EG en de overeenkomstsluitende Cariforum-staten niet mogen handhaven of vaststellen voor hetzij een bepaalde regio hetzij hun gehele grondgebied beschreven als beperking van het totale aantal natuurlijke personen dat een investeerder als stafpersoneel of als afgestudeerde stagiair in een bepaalde sector in dienst mag hebben, in de vorm van een maximaal aantal of van een eis van een onderzoek naar de economische behoefte, en als discriminerende beperking.
+2. Voor elke overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-12-29&g=2008-12-29) van deze titel geliberaliseerde sector worden, tenzij anderszins bepaald in bijlage IV, de maatregelen die de EG en de overeenkomstsluitende Cariforum-staten niet mogen handhaven of vaststellen voor hetzij een bepaalde regio hetzij hun gehele grondgebied beschreven als beperking van het totale aantal natuurlijke personen dat een investeerder als stafpersoneel of als afgestudeerde stagiair in een bepaalde sector in dienst mag hebben, in de vorm van een maximaal aantal of van een eis van een onderzoek naar de economische behoefte, en als discriminerende beperking.
 
 ##### Artikel 82. Verkopers van zakelijke diensten
 
-Voor elke overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-10-15&g=2008-10-15) of [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-10-15&g=2008-10-15) van deze titel geliberaliseerde sector staan de EG en de overeenkomstsluitende Cariforum-staten, behoudens de in bijlage IV opgenomen voorbehouden, de toegang en het tijdelijke verblijf van verkopers van zakelijke diensten toe voor een periode van ten hoogste negentig dagen gedurende een periode van twaalf maanden.
+Voor elke overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-12-29&g=2008-12-29) of [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-12-29&g=2008-12-29) van deze titel geliberaliseerde sector staan de EG en de overeenkomstsluitende Cariforum-staten, behoudens de in bijlage IV opgenomen voorbehouden, de toegang en het tijdelijke verblijf van verkopers van zakelijke diensten toe voor een periode van ten hoogste negentig dagen gedurende een periode van twaalf maanden.
 
 ##### Artikel 83. Dienstverleners op contractbasis en beoefenaars van een vrij beroep
 
@@ -1275,7 +1275,7 @@ Op de verbintenissen van de EG en de overeenkomstsluitende Cariforum-staten zijn
 
 ##### Artikel 86. Transparantie
 
-Behoudens [artikel 235, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=VI&artikel=235&z=2008-10-15&g=2008-10-15), reageren de partijen en de overeenkomstsluitende Cariforum-staten onverwijld op alle verzoeken van de andere partij om specifieke informatie over hun algemene maatregelen of internationale overeenkomsten die betrekking hebben of van invloed zijn op deze overeenkomst. De partijen richten ook één of meer infomatiepunten in om op verzoek specifieke informatie aan investeerders en dienstverleners van de andere partij te verstrekken over alle aangelegenheden van dien aard. Deze informatiepunten worden vermeld in bijlage V. Wetten en regelingen behoeven niet bij de informatiepunten te worden neergelegd.
+Behoudens [artikel 235, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=VI&artikel=235&z=2008-12-29&g=2008-12-29), reageren de partijen en de overeenkomstsluitende Cariforum-staten onverwijld op alle verzoeken van de andere partij om specifieke informatie over hun algemene maatregelen of internationale overeenkomsten die betrekking hebben of van invloed zijn op deze overeenkomst. De partijen richten ook één of meer infomatiepunten in om op verzoek specifieke informatie aan investeerders en dienstverleners van de andere partij te verstrekken over alle aangelegenheden van dien aard. Deze informatiepunten worden vermeld in bijlage V. Wetten en regelingen behoeven niet bij de informatiepunten te worden neergelegd.
 
 ##### Artikel 87. Procedures
 
@@ -1289,7 +1289,7 @@ Wanneer deze procedures niet onafhankelijk zijn van de instantie die bevoegd is 
 
 ##### Artikel 88. Afspraak over diensten in verband met computers
 
-1. Voor zover de handel in diensten in verband met computers in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-10-15&g=2008-10-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-10-15&g=2008-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-10-15&g=2008-10-15) van deze titel geliberaliseerd is, onderschrijven de EG en de overeenkomstsluitende Cariforum-staten de in de leden 2, 3 en 4 neergelegde afspraak.
+1. Voor zover de handel in diensten in verband met computers in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-12-29&g=2008-12-29), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-12-29&g=2008-12-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-12-29&g=2008-12-29) van deze titel geliberaliseerd is, onderschrijven de EG en de overeenkomstsluitende Cariforum-staten de in de leden 2, 3 en 4 neergelegde afspraak.
 
 2. CPC 84, de VN-code voor diensten in verband met computers, heeft betrekking op de basisfuncties voor alle diensten met betrekking tot computers: computerprogramma's, gedefinieerd als de instructies waardoor computers kunnen werken of met elkaar kunnen communiceren (met inbegrip van de ontwikkeling en implementatie ervan), gegevensverwerking en -opslag, en aanverwante diensten, zoals het geven van adviezen en opleidingen aan het personeel van de klanten.
 
@@ -1315,9 +1315,9 @@ Er is echter een groot verschil tussen de ondersteunende dienst (bv. webhosting 
 
 ##### Artikel 89. Werkingssfeer en definities
 
-1. Deze afdeling bevat de beginselen van het regelgevingskader voor alle koeriersdiensten die in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-10-15&g=2008-10-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-10-15&g=2008-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-10-15&g=2008-10-15) van deze titel zijn geliberaliseerd.
+1. Deze afdeling bevat de beginselen van het regelgevingskader voor alle koeriersdiensten die in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-12-29&g=2008-12-29), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-12-29&g=2008-12-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-12-29&g=2008-12-29) van deze titel zijn geliberaliseerd.
 
-2. Voor de toepassing van deze afdeling en van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-10-15&g=2008-10-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-10-15&g=2008-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-10-15&g=2008-10-15) van deze titel wordt verstaan onder:
+2. Voor de toepassing van deze afdeling en van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-12-29&g=2008-12-29), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-12-29&g=2008-12-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-12-29&g=2008-12-29) van deze titel wordt verstaan onder:
 
 - a. „universele dienst”: het overal op het grondgebied van de EG en de overeenkomstsluitende Cariforum-staten permanent aanbieden van een postdienst met een bepaalde kwaliteit tegen prijzen die voor alle gebruikers betaalbaar zijn;
 
@@ -1325,7 +1325,7 @@ Er is echter een groot verschil tussen de ondersteunende dienst (bv. webhosting 
 
 ##### Artikel 90. Voorkoming van concurrentiebeperkende praktijken bij koeriersdiensten
 
-In overeenstemming met de bepalingen van [titel IV, hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&z=2008-10-15&g=2008-10-15), worden door de EG of de overeenkomstsluitende Cariforumstaten passende maatregelen gehandhaafd of ingevoerd om te voorkomen dat dienstverleners die, alleen of samen met anderen, de voorwaarden voor deelneming (wat prijs en aanbod betreft) in de desbetreffende markt voor koeriersdiensten door het gebruik van hun eigen marktpositie in belangrijke mate kunnen beïnvloeden, overgaan tot concurrentieverstorende praktijken of deze voortzetten.
+In overeenstemming met de bepalingen van [titel IV, hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&z=2008-12-29&g=2008-12-29), worden door de EG of de overeenkomstsluitende Cariforumstaten passende maatregelen gehandhaafd of ingevoerd om te voorkomen dat dienstverleners die, alleen of samen met anderen, de voorwaarden voor deelneming (wat prijs en aanbod betreft) in de desbetreffende markt voor koeriersdiensten door het gebruik van hun eigen marktpositie in belangrijke mate kunnen beïnvloeden, overgaan tot concurrentieverstorende praktijken of deze voortzetten.
 
 ##### Artikel 91. Universele dienst
 
@@ -1369,7 +1369,7 @@ Regelgevende instanties moeten wettelijk gescheiden zijn van en mogen geen veran
 
 - f. „universele dienst”: het pakket van diensten van een bepaalde kwaliteit dat op het grondgebied van de EG en de overeenkomstsluitende Cariforum-staten tegen een betaalbare prijs beschikbaar moet worden gesteld voor alle gebruikers, ongeacht hun geografische locatie; de omvang en de implementatie van dit pakket worden door de EG en door de overeenkomstsluitende Cariforum-staten vastgesteld.
 
-2. Deze afdeling bevat de beginselen van het regelgevingskader voor de volgende telecommunicatiediensten, met uitzondering van de omroep, die in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-10-15&g=2008-10-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-10-15&g=2008-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-10-15&g=2008-10-15) van deze titel zijn geliberaliseerd: spraaktelefonie, pakketgeschakelde en circuitgeschakelde datatransmissiediensten, telexdiensten, telegraafdiensten, facsimilediensten, particuliere huurlijnen en mobiele en persoonlijke communicatiediensten en -systemen.
+2. Deze afdeling bevat de beginselen van het regelgevingskader voor de volgende telecommunicatiediensten, met uitzondering van de omroep, die in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-12-29&g=2008-12-29), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-12-29&g=2008-12-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-12-29&g=2008-12-29) van deze titel zijn geliberaliseerd: spraaktelefonie, pakketgeschakelde en circuitgeschakelde datatransmissiediensten, telexdiensten, telegraafdiensten, facsimilediensten, particuliere huurlijnen en mobiele en persoonlijke communicatiediensten en -systemen.
 
 ##### Artikel 95. Regelgevende instantie
 
@@ -1399,7 +1399,7 @@ Regelgevende instanties moeten wettelijk gescheiden zijn van en mogen geen veran
 
 ##### Artikel 97. Concurrentiewaarborgen ten aanzien van grote leveranciers
 
-In overeenstemming met de bepalingen van [titel IV, hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&z=2008-10-15&g=2008-10-15), worden door de EG of de overeenkomstsluitende Cariforumstaten passende maatregelen gehandhaafd of ingevoerd om te voorkomen dat leveranciers, die, alleen of samen met anderen, een grote leverancier zijn, overgaan tot concurrentieverstorende praktijken of deze voortzetten. Deze concurrentiebeperkende praktijken zijn onder meer:
+In overeenstemming met de bepalingen van [titel IV, hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&z=2008-12-29&g=2008-12-29), worden door de EG of de overeenkomstsluitende Cariforumstaten passende maatregelen gehandhaafd of ingevoerd om te voorkomen dat leveranciers, die, alleen of samen met anderen, een grote leverancier zijn, overgaan tot concurrentieverstorende praktijken of deze voortzetten. Deze concurrentiebeperkende praktijken zijn onder meer:
 
 - a. het toepassen van kruissubsidiëring op concurrentiebeperkende wijze;
 
@@ -1425,7 +1425,7 @@ In overeenstemming met de bepalingen van [titel IV, hoofdstuk 1](https://wetten.
 
 5. Grote leveranciers maken hun interconnectieovereenkomsten of hun referentie-interconnectieaanbiedingen algemeen bekend.
 
-6. Een dienstverlener die interconnectie met een grote leverancier verlangt, kan te allen tijde dan wel na een algemeen bekendgemaakte redelijke termijn een beroep doen op een onafhankelijke binnenlandse instantie, zoals een in [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=5&afdeling=4&artikel=95&z=2008-10-15&g=2008-10-15) bedoelde regelgevende instantie, voor de oplossing van geschillen over passende voorwaarden en tarieven voor interconnectie.
+6. Een dienstverlener die interconnectie met een grote leverancier verlangt, kan te allen tijde dan wel na een algemeen bekendgemaakte redelijke termijn een beroep doen op een onafhankelijke binnenlandse instantie, zoals een in [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=5&afdeling=4&artikel=95&z=2008-12-29&g=2008-12-29) bedoelde regelgevende instantie, voor de oplossing van geschillen over passende voorwaarden en tarieven voor interconnectie.
 
 ##### Artikel 99. Schaarse middelen
 
@@ -1459,9 +1459,9 @@ De EG en de overeenkomstsluitende Cariforum-staten waarborgen het vertrouwelijke
 
 ##### Artikel 103. Werkingssfeer en definities
 
-1. Deze afdeling bevat de beginselen van het regelgevingskader voor alle financiële diensten die in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-10-15&g=2008-10-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-10-15&g=2008-10-15) en [4 van deze titel](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-10-15&g=2008-10-15) zijn geliberaliseerd.
+1. Deze afdeling bevat de beginselen van het regelgevingskader voor alle financiële diensten die in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-12-29&g=2008-12-29), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-12-29&g=2008-12-29) en [4 van deze titel](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-12-29&g=2008-12-29) zijn geliberaliseerd.
 
-2. Voor de toepassing van dit hoofdstuk en van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-10-15&g=2008-10-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-10-15&g=2008-10-15) en [4 van deze titel](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-10-15&g=2008-10-15) wordt verstaan onder:
+2. Voor de toepassing van dit hoofdstuk en van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-12-29&g=2008-12-29), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-12-29&g=2008-12-29) en [4 van deze titel](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-12-29&g=2008-12-29) wordt verstaan onder:
 
 - a. „financiële dienst”: elke dienst van financiële aard die door een verlener van financiële diensten uit de EG of de overeenkomstsluitende Cariforum-staten wordt aangeboden. Financiële diensten omvatten de volgende activiteiten:
 
@@ -1553,7 +1553,7 @@ De EG of de betrokken overeenkomstsluitende Cariforum-staat stelt de indiener va
 
 De EG en de overeenkomstsluitende Cariforum-staten streven ernaar de tenuitvoerlegging en de toepassing van internationaal overeengekomen normen voor de regelgeving en het toezicht in de financiëledienstensector te bevorderen.
 
-##### Artikel 106. Nieuwe financiële diensten25)Dit artikel is uitsluitend van toepassing op activiteiten in verband met financiële diensten waarop [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=5&afdeling=5&artikel=103&z=2008-10-15&g=2008-10-15) van toepassing is en die overeenkomstig deze titel zijn geliberaliseerd.
+##### Artikel 106. Nieuwe financiële diensten25)Dit artikel is uitsluitend van toepassing op activiteiten in verband met financiële diensten waarop [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=5&afdeling=5&artikel=103&z=2008-12-29&g=2008-12-29) van toepassing is en die overeenkomstig deze titel zijn geliberaliseerd.
 
 De EG en de overeenkomstsluitende Cariforum-staten staan verleners van financiële diensten van de andere partij toe nieuwe financiële diensten te verlenen die overeenstemmen met de diensten waarvoor zij hun eigen verleners van financiële diensten krachtens hun interne wetgeving onder soortgelijke omstandigheden toestemming verlenen. De EG en de overeenkomstsluitende Cariforum-staten kunnen de rechtsvorm vaststellen waaronder de dienst kan worden verleend en zij kunnen de betrokken dienstverlening aan een vergunningsplicht onderwerpen. Wanneer een vergunning vereist is, wordt hieromtrent binnen een redelijke termijn een besluit genomen en kan de vergunning uitsluitend om prudentiële redenen worden geweigerd.
 
@@ -1575,9 +1575,9 @@ De EG en de overeenkomstsluitende Cariforum-staten staan verleners van financië
 
 ##### Artikel 109. Werkingssfeer, definities en beginselen
 
-1. Deze afdeling bevat de beginselen met betrekking tot de liberalisering van diensten op het gebied van het internationale zeevervoer in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-10-15&g=2008-10-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-10-15&g=2008-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-10-15&g=2008-10-15) van deze titel.
+1. Deze afdeling bevat de beginselen met betrekking tot de liberalisering van diensten op het gebied van het internationale zeevervoer in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-12-29&g=2008-12-29), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-12-29&g=2008-12-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-12-29&g=2008-12-29) van deze titel.
 
-2. Voor de toepassing van deze afdeling en van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-10-15&g=2008-10-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-10-15&g=2008-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-10-15&g=2008-10-15) van deze titel:
+2. Voor de toepassing van deze afdeling en van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-12-29&g=2008-12-29), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-12-29&g=2008-12-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-12-29&g=2008-12-29) van deze titel:
 
 - a. omvat „internationaal zeevervoer” ook vervoer van deur tot deur en multimodaal vervoer, zijnde het vervoer van goederen met behulp van meer dan één wijze van vervoer, waaronder ook vervoer over zee, met een enkel vervoersdocument, en in verband daarmee ook het recht rechtsreeks met ondernemingen op het gebied van andere wijzen van vervoer contracten te sluiten;
 
@@ -1623,11 +1623,11 @@ De EG en de overeenkomstsluitende Cariforum-staten staan verleners van financië
 
 ##### Artikel 110. Werkingssfeer
 
-Deze afdeling bevat de beginselen van het regelgevingskader voor alle toeristische diensten die in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-10-15&g=2008-10-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-10-15&g=2008-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-10-15&g=2008-10-15) van deze titel zijn geliberaliseerd.
+Deze afdeling bevat de beginselen van het regelgevingskader voor alle toeristische diensten die in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&z=2008-12-29&g=2008-12-29), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-12-29&g=2008-12-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=4&z=2008-12-29&g=2008-12-29) van deze titel zijn geliberaliseerd.
 
 ##### Artikel 111. Bestrijding van concurrentiebeperkende praktijken
 
-In overeenstemming met de bepalingen van [titel IV, hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&z=2008-10-15&g=2008-10-15), worden door de EG of de overeenkomstsluitende Cariforumstaten passende maatregelen gehandhaafd of ingevoerd om te beletten dat dienstverleners, met name in de context van distributienetwerken van toeristische producten26)Voor de toepassing van deze afdeling wordt onder distributienetwerken van toeristische producten verstaan reisorganisatoren en andere groothandelaars op toeristisch gebied (zowel uitgaand als inkomend), geautomatiseerde boekingssystemen en wereldwijde distributiesystemen (ook indien niet verbonden met luchtvaartmaatschappijen of via internet), reisbureaus en andere toeristische dienstverleners. , de voorwaarden voor deelneming in de desbetreffende markt voor toeristische diensten in belangrijke mate kunnen beïnvloeden door over te gaan tot concurrentieverstorende praktijken of deze voort te zetten, onder meer door misbruik te maken van hun dominante marktpositie, door de vaststelling van oneerlijke prijzen, exclusiviteitsclausules, weigering overeenkomsten te sluiten, gebonden verkoop, kwantitatieve beperkingen of verticale integratie.
+In overeenstemming met de bepalingen van [titel IV, hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&z=2008-12-29&g=2008-12-29), worden door de EG of de overeenkomstsluitende Cariforumstaten passende maatregelen gehandhaafd of ingevoerd om te beletten dat dienstverleners, met name in de context van distributienetwerken van toeristische producten26)Voor de toepassing van deze afdeling wordt onder distributienetwerken van toeristische producten verstaan reisorganisatoren en andere groothandelaars op toeristisch gebied (zowel uitgaand als inkomend), geautomatiseerde boekingssystemen en wereldwijde distributiesystemen (ook indien niet verbonden met luchtvaartmaatschappijen of via internet), reisbureaus en andere toeristische dienstverleners. , de voorwaarden voor deelneming in de desbetreffende markt voor toeristische diensten in belangrijke mate kunnen beïnvloeden door over te gaan tot concurrentieverstorende praktijken of deze voort te zetten, onder meer door misbruik te maken van hun dominante marktpositie, door de vaststelling van oneerlijke prijzen, exclusiviteitsclausules, weigering overeenkomsten te sluiten, gebonden verkoop, kwantitatieve beperkingen of verticale integratie.
 
 ##### Artikel 112. Toegang tot technologie
 
@@ -1639,7 +1639,7 @@ De EG en de overeenkomstsluitende Cariforum-staten streven ernaar de deelname va
 
 ##### Artikel 114. Wederzijdse erkenning
 
-In overeenstemming met [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=5&afdeling=1&artikel=85&z=2008-10-15&g=2008-10-15) werken de partijen samen op het gebied van de wederzijdse erkenning van eisen, kwalificaties, vergunningen en andere regelingen.
+In overeenstemming met [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=5&afdeling=1&artikel=85&z=2008-12-29&g=2008-12-29) werken de partijen samen op het gebied van de wederzijdse erkenning van eisen, kwalificaties, vergunningen en andere regelingen.
 
 ##### Artikel 115. Grotere impact van het toerisme op de duurzame ontwikkeling
 
@@ -1653,7 +1653,7 @@ De partijen en de overeenkomstsluitende Cariforum-staten stimuleren de naleving,
 
 1. In verband met de asymmetrie tussen de ontwikkelingsniveaus van de partijen werken de partijen samen bij de bevordering van het toerisme in de overeenkomstsluitende Cariforum-staten.
 
-2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
+2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
 
 - a. verbetering van de systemen van nationale rekeningen, teneinde de invoering van satellietrekeningen voor toerisme op regionaal en plaatselijk niveau te vergemakkelijken;
 
@@ -1681,7 +1681,7 @@ De partijen en de overeenkomstsluitende Cariforum-staten stimuleren de naleving,
 
 2. De partijen zijn het erover eens dat de ontwikkeling van de elektronische handel volledig in overeenstemming moet zijn met de hoogste internationale normen inzake gegevensbescherming, teneinde ervoor te zorgen dat de gebruikers vertrouwen in de elektronische handel hebben.
 
-3. De partijen komen overeen leveringen via elektronische middelen te beschouwen als leveringen van diensten in de zin van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-10-15&g=2008-10-15) van deze titel, waarover geen douanerechten verschuldigd zijn.
+3. De partijen komen overeen leveringen via elektronische middelen te beschouwen als leveringen van diensten in de zin van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&z=2008-12-29&g=2008-12-29) van deze titel, waarover geen douanerechten verschuldigd zijn.
 
 ##### Artikel 120. Regelgevende aspecten van elektronische handel
 
@@ -1705,7 +1705,7 @@ De partijen en de overeenkomstsluitende Cariforum-staten stimuleren de naleving,
 
 1. De partijen erkennen het belang van technische samenwerking en bijstand in aanvulling op de liberalisering van diensten en investeringen, ter ondersteuning van de inspanningen van de overeenkomstsluitende Cariforum-staten om hun dienstverleningscapaciteit te versterken, ter bevordering van de uitvoering van de verbintenissen die zij in het kader van deze titel zijn aangegaan en om de doelstellingen van deze overeenkomst te bereiken.
 
-2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) komen de partijen overeen samen te werken, onder meer door ondersteuning te verlenen voor technische bijstand, opleiding en opbouw van capaciteit op, onder meer, de volgende terreinen:
+2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) komen de partijen overeen samen te werken, onder meer door ondersteuning te verlenen voor technische bijstand, opleiding en opbouw van capaciteit op, onder meer, de volgende terreinen:
 
 - a. verbetering van het vermogen van dienstverleners uit de overeenkomstsluitende Cariforum-staten om informatie te verzamelen over en zich te houden aan de regelgeving en de normen van de EG op communautair, nationaal en subnationaal niveau;
 
@@ -1723,11 +1723,11 @@ De partijen en de overeenkomstsluitende Cariforum-staten stimuleren de naleving,
 
 ##### Artikel 122. Lopende betalingen
 
-Onder voorbehoud van [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=III&artikel=124&z=2008-10-15&g=2008-10-15) verbinden de overeenkomstsluitende Cariforum-staten en de EG zich ertoe alle betalingen in vrij converteerbare valuta voor lopende transacties tussen ingezetenen van de EG en van de Cariforum-staten toe te staan en geen beperkingen dienaangaande vast te stellen.
+Onder voorbehoud van [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=III&artikel=124&z=2008-12-29&g=2008-12-29) verbinden de overeenkomstsluitende Cariforum-staten en de EG zich ertoe alle betalingen in vrij converteerbare valuta voor lopende transacties tussen ingezetenen van de EG en van de Cariforum-staten toe te staan en geen beperkingen dienaangaande vast te stellen.
 
 ##### Artikel 123. Kapitaalverkeer
 
-1. Wat de verrichtingen op de kapitaalrekening van de betalingsbalans betreft, verbinden de overeenkomstsluitende Cariforum-staten en de EG zich ertoe geen beperkingen vast te stellen voor het vrije kapitaalverkeer in verband met overeenkomstig de wetgeving van het gastland verrichte directe investeringen en overeenkomstig de bepalingen van [titel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&z=2008-10-15&g=2008-10-15) verrichte investeringen, alsook in verband met de liquidatie en repatriëring van dat kapitaal en van alle opbrengsten daarvan.
+1. Wat de verrichtingen op de kapitaalrekening van de betalingsbalans betreft, verbinden de overeenkomstsluitende Cariforum-staten en de EG zich ertoe geen beperkingen vast te stellen voor het vrije kapitaalverkeer in verband met overeenkomstig de wetgeving van het gastland verrichte directe investeringen en overeenkomstig de bepalingen van [titel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&z=2008-12-29&g=2008-12-29) verrichte investeringen, alsook in verband met de liquidatie en repatriëring van dat kapitaal en van alle opbrengsten daarvan.
 
 2. De partijen plegen overleg teneinde hun onderlinge kapitaalverkeer te vergemakkelijken met het oog op de verwezenlijking van de doelstellingen van deze overeenkomst.
 
@@ -1765,9 +1765,9 @@ De partijen erkennen het belang van een vrije en onvervalste mededinging voor hu
 
 ##### Artikel 127. Tenuitvoerlegging
 
-1. De partijen en de overeenkomstsluitende Cariforum-staten zorgen ervoor dat zij binnen 5 jaar na de inwerkingtreding van deze overeenkomst over wetgeving ter bestrijding van onder hun rechtsbevoegdheid vallend concurrentiebeperkend gedrag beschikken en de in [artikel 125, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&artikel=125&z=2008-10-15&g=2008-10-15), bedoelde instanties hebben opgericht.
+1. De partijen en de overeenkomstsluitende Cariforum-staten zorgen ervoor dat zij binnen 5 jaar na de inwerkingtreding van deze overeenkomst over wetgeving ter bestrijding van onder hun rechtsbevoegdheid vallend concurrentiebeperkend gedrag beschikken en de in [artikel 125, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&artikel=125&z=2008-12-29&g=2008-12-29), bedoelde instanties hebben opgericht.
 
-2. Bij de inwerkingtreding van de wetgeving en de oprichting van de in lid 1 bedoelde instanties geven de partijen uitvoering aan [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&artikel=128&z=2008-10-15&g=2008-10-15). De partijen komen voorts overeen de werking van dit hoofdstuk te beoordelen na een op de tenuitvoerlegging van [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&artikel=128&z=2008-10-15&g=2008-10-15) volgende periode van zes jaar waarin wederzijds vertrouwen tussen hun mededingingsautoriteiten moet worden opgebouwd.
+2. Bij de inwerkingtreding van de wetgeving en de oprichting van de in lid 1 bedoelde instanties geven de partijen uitvoering aan [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&artikel=128&z=2008-12-29&g=2008-12-29). De partijen komen voorts overeen de werking van dit hoofdstuk te beoordelen na een op de tenuitvoerlegging van [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&artikel=128&z=2008-12-29&g=2008-12-29) volgende periode van zes jaar waarin wederzijds vertrouwen tussen hun mededingingsautoriteiten moet worden opgebouwd.
 
 ##### Artikel 128. Uitwisseling van informatie en samenwerking bij de rechtshandhaving
 
@@ -1797,9 +1797,9 @@ De partijen erkennen het belang van een vrije en onvervalste mededinging voor hu
 
 ##### Artikel 130. Samenwerking
 
-1. De partijen zijn het eens over het belang van technische bijstand en capaciteitsopbouw om de tenuitvoerlegging van de verbintenissen uit hoofde van dit hoofdstuk te bevorderen en de doelstellingen van dit hoofdstuk te verwezenlijken en in het bijzonder om te waarborgen dat het mededingingsbeleid en de handhaving van de voorschriften doelmatig en degelijk zijn, met name tijdens de in [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&artikel=127&z=2008-10-15&g=2008-10-15) genoemde periode voor het opbouwen van wederzijds vertrouwen.
+1. De partijen zijn het eens over het belang van technische bijstand en capaciteitsopbouw om de tenuitvoerlegging van de verbintenissen uit hoofde van dit hoofdstuk te bevorderen en de doelstellingen van dit hoofdstuk te verwezenlijken en in het bijzonder om te waarborgen dat het mededingingsbeleid en de handhaving van de voorschriften doelmatig en degelijk zijn, met name tijdens de in [artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=1&artikel=127&z=2008-12-29&g=2008-12-29) genoemde periode voor het opbouwen van wederzijds vertrouwen.
 
-2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
+2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
 
 - a. het efficiënt functioneren van de mededingingsautoriteiten van de Cariforum-staten;
 
@@ -1853,7 +1853,7 @@ De partijen erkennen dat regionale beleidsmaatregelen noodzakelijk zijn om de do
 
 1. De partijen erkennen dat de bevordering van creativiteit en innovatie van wezenlijk belang is voor de ontwikkeling van ondernemerschap en van het concurrentievermogen en om de algemene doelstellingen van deze overeenkomst te bereiken.
 
-2. Behoudens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) en [134](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=1&artikel=134&z=2008-10-15&g=2008-10-15) van deze overeenkomst komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
+2. Behoudens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) en [134](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=1&artikel=134&z=2008-12-29&g=2008-12-29) van deze overeenkomst komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
 
 - a. bevordering van innovatie, diversificatie, modernisering, ontwikkeling en product- en proceskwaliteit in het bedrijfsleven;
 
@@ -1903,7 +1903,7 @@ De partijen erkennen dat regionale beleidsmaatregelen noodzakelijk zijn om de do
 
 1. De partijen erkennen dat de informatie- en communicatietechnologie (ICT) in een moderne maatschappij een belangrijke sector is, die van levensbelang is voor de stimulering van creativiteit, innovatie en het concurrentievermogen en voor een soepele overgang naar de informatiemaatschappij.
 
-2. Behoudens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) en [134](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=1&artikel=134&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
+2. Behoudens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) en [134](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=1&artikel=134&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
 
 - a. de dialoog over de verschillende beleidsaspecten van de bevordering van en het toezicht op de informatiemaatschappij;
 
@@ -1921,7 +1921,7 @@ De partijen erkennen dat regionale beleidsmaatregelen noodzakelijk zijn om de do
 
 1. Met het oog op de verwezenlijking van een duurzame ontwikkeling en om ertoe bij te dragen dat de positieve milieueffecten van deze overeenkomst zo groot mogelijk zijn en negatieve effecten worden vermeden, erkennen de partijen het belang van het stimuleren van innovatievormen die het milieu in alle sectoren van hun economie ten goede komen. Energie-efficiëntie en hernieuwbare energiebronnen zijn ook dergelijke vormen van milieu-innovatie.
 
-2. Behoudens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) en [134](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=1&artikel=134&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
+2. Behoudens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) en [134](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=1&artikel=134&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
 
 - a. projecten met betrekking tot milieuvriendelijke producten, technologieën, productieprocessen, diensten, management- en bedrijfsmethoden, met inbegrip van die welke betrekking hebben op geschikte toepassingen van waterbesparing en het mechanisme voor een schone ontwikkeling;
 
@@ -1957,11 +1957,11 @@ De partijen erkennen dat regionale beleidsmaatregelen noodzakelijk zijn om de do
 
 ##### Artikel 140. Minst ontwikkelde landen
 
-In afwijking van [artikel 139, leden 1 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=139&z=2008-10-15&g=2008-10-15), zijn de minst ontwikkelde landen die partij bij deze overeenkomst zijn, slechts verplicht de volgende bepalingen als volgt toe te passen:
+In afwijking van [artikel 139, leden 1 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=139&z=2008-12-29&g=2008-12-29), zijn de minst ontwikkelde landen die partij bij deze overeenkomst zijn, slechts verplicht de volgende bepalingen als volgt toe te passen:
 
 - a. de verplichtingen uit hoofde van de [TRIPs-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1C) binnen dezelfde termijnen als krachtens de besluiten ter zake van de Raad voor TRIPs of van andere toepasselijke besluiten van de Algemene Raad van de WTO met betrekking tot de tenuitvoerlegging van de [TRIPs-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1C) van hen wordt verlangd;
 
-- b. de verplichtingen uit hoofde van de [onderafdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=2&z=2008-10-15&g=2008-10-15) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=3&z=2008-10-15&g=2008-10-15) van deze afdeling uiterlijk op 1 januari 2021, tenzij het Handels- en ontwikkelingscomité Cariforum-EG, rekening houdend met de onder a) bedoelde besluiten, een andersluidend besluit neemt.
+- b. de verplichtingen uit hoofde van de [onderafdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=2&z=2008-12-29&g=2008-12-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=3&z=2008-12-29&g=2008-12-29) van deze afdeling uiterlijk op 1 januari 2021, tenzij het Handels- en ontwikkelingscomité Cariforum-EG, rekening houdend met de onder a) bedoelde besluiten, een andersluidend besluit neemt.
 
 ##### Artikel 141. Regionale integratie
 
@@ -2009,7 +2009,7 @@ De EG en de overeenkomstsluitende Cariforum-staten zorgen voor een eerlijk gebru
 
 - 1. Geen enkele bepaling in deze overeenkomst verplicht de EG en de overeenkomstsluitende Cariforum-staten op hun grondgebied geografische aanduidingen te beschermen die in hun land van oorsprong niet worden beschermd.
 
-- 2. De overeenkomstsluitende Cariforum-staten stellen uiterlijk op 1 januari 2014 een systeem voor de bescherming van geografische aanduidingen op hun respectieve grondgebied vast. De partijen werken in het kader van het Handels- en ontwikkelingscomité Cariforum-EG en in overeenstemming met de bepalingen van [artikel 164, lid 2, onder c)](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=164&z=2008-10-15&g=2008-10-15), samen bij de ontwikkeling van geografische aanduidingen op het grondgebied van de Cariforum-staten. Hiertoe leggen de Cariforum-staten uiterlijk zes maanden na de inwerkingtreding van de overeenkomst een lijst van potentiële geografische aanduidingen van oorsprong uit de Cariforum-staten ter overweging en bespreking aan het Handels- en ontwikkelingscomité Cariforum-EG voor.
+- 2. De overeenkomstsluitende Cariforum-staten stellen uiterlijk op 1 januari 2014 een systeem voor de bescherming van geografische aanduidingen op hun respectieve grondgebied vast. De partijen werken in het kader van het Handels- en ontwikkelingscomité Cariforum-EG en in overeenstemming met de bepalingen van [artikel 164, lid 2, onder c)](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=164&z=2008-12-29&g=2008-12-29), samen bij de ontwikkeling van geografische aanduidingen op het grondgebied van de Cariforum-staten. Hiertoe leggen de Cariforum-staten uiterlijk zes maanden na de inwerkingtreding van de overeenkomst een lijst van potentiële geografische aanduidingen van oorsprong uit de Cariforum-staten ter overweging en bespreking aan het Handels- en ontwikkelingscomité Cariforum-EG voor.
 
 - 3. De partijen bespreken in het kader van het Handels- en ontwikkelingscomité Cariforum-EG de tenuitvoerlegging van dit artikel in de praktijk, en zij wisselen informatie uit over de ontwikkelingen op wetgevings- en beleidsgebied met betrekking tot geografische aanduidingen.
 
@@ -2109,7 +2109,7 @@ De EG en de overeenkomstsluitende Cariforum-staten erkennen het belang van de Ve
 
 - a. diagnostische, therapeutische en chirurgische methoden voor de behandeling van mensen of dieren;
 
-- b. behoudens [artikel 150](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=150&z=2008-10-15&g=2008-10-15), andere planten en dieren dan micro-organismen en andere werkwijzen van wezenlijk biologische aard voor de voortbrenging van planten of dieren dan niet-biologische en microbiologische werkwijzen.
+- b. behoudens [artikel 150](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=150&z=2008-12-29&g=2008-12-29), andere planten en dieren dan micro-organismen en andere werkwijzen van wezenlijk biologische aard voor de voortbrenging van planten of dieren dan niet-biologische en microbiologische werkwijzen.
 
 - 4. Dit artikel laat bestaande wetgeving van de EG of de overeenkomstsluitende Cariforum-staten onverlet.
 
@@ -2255,9 +2255,9 @@ in staat te stellen bij de bevoegde administratieve of rechterlijke autoriteiten
 
 ##### Artikel 164. Samenwerking
 
-1. De samenwerking is gericht op steun bij de tenuitvoerlegging van de verbintenissen en verplichtingen uit hoofde van deze afdeling. De partijen komen overeen dat samenwerking vooral belangrijk is tijdens de in de [artikelen 139](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=139&z=2008-10-15&g=2008-10-15) en [140](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=140&z=2008-10-15&g=2008-10-15) bedoelde overgangsperiode.
+1. De samenwerking is gericht op steun bij de tenuitvoerlegging van de verbintenissen en verplichtingen uit hoofde van deze afdeling. De partijen komen overeen dat samenwerking vooral belangrijk is tijdens de in de [artikelen 139](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=139&z=2008-12-29&g=2008-12-29) en [140](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=140&z=2008-12-29&g=2008-12-29) bedoelde overgangsperiode.
 
-2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
+2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
 
 - a. versterking van regionale initiatieven, organisaties en bureaus op het gebied van intellectuele-eigendomsrechten, met inbegrip van de opleiding van personeel en de ontwikkeling van openbare databanken, met het oog op verbetering van de regionale regelgevende capaciteit, de regionale wet- en regelgeving en de tenuitvoerlegging daarvan met betrekking tot de in het kader van deze afdeling aangegane verbintenissen, met inbegrip van de rechtshandhaving. Dit behelst in het bijzonder steun aan landen die geen partij zijn, maar die wensen deel te nemen aan regionale initiatieven en het regionale beheer van auteursrechten en naburige rechten;
 
@@ -2375,7 +2375,7 @@ C. Uitzonderingen
 
 ##### Artikel 168. Transparantie op het gebied van overheidsopdrachten
 
-1. Behoudens [artikel 180, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=180&z=2008-10-15&g=2008-10-15), publiceert elke partij of overeenkomstsluitende Cariforum-staat onverwijld in de daarvoor bestemde publicaties genoemd in bijlage VII, met inbegrip van officieel aangewezen elektronische media, alle wetten, voorschriften, rechterlijke uitspraken, algemene administratieve beschikkingen en procedures in verband met overheidsopdrachten waarop het bepaalde in dit hoofdstuk van toepassing is, alsmede de afzonderlijke overheidsopdrachten. Elke partij of overeenkomstsluitende Cariforum-staat publiceert op dezelfde wijze onverwijld alle wijzigingen van dergelijke maatregelen en stelt de andere partijen binnen een redelijke termijn van die wijzigingen in kennis.
+1. Behoudens [artikel 180, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=180&z=2008-12-29&g=2008-12-29), publiceert elke partij of overeenkomstsluitende Cariforum-staat onverwijld in de daarvoor bestemde publicaties genoemd in bijlage VII, met inbegrip van officieel aangewezen elektronische media, alle wetten, voorschriften, rechterlijke uitspraken, algemene administratieve beschikkingen en procedures in verband met overheidsopdrachten waarop het bepaalde in dit hoofdstuk van toepassing is, alsmede de afzonderlijke overheidsopdrachten. Elke partij of overeenkomstsluitende Cariforum-staat publiceert op dezelfde wijze onverwijld alle wijzigingen van dergelijke maatregelen en stelt de andere partijen binnen een redelijke termijn van die wijzigingen in kennis.
 
 2. De partijen en de overeenkomstsluitende Cariforum-staten zien erop toe dat hun aanbestedende diensten de mogelijkheden tot inschrijving op aanbestedingen van overheidsopdrachten effectief bekendmaken en verstrekken in aanmerking komende leveranciers alle informatie die zij nodig hebben om aan deze aanbestedingen deel te nemen. Elke partij creëert en onderhoudt een passende onlinefaciliteit om een effectieve bekendmaking van overheidsopdrachten te bevorderen.
 
@@ -2435,7 +2435,7 @@ C. Uitzonderingen
 
 ##### Artikel 171. Onderhandse aanbesteding
 
-1. Bij een onderhandse aanbesteding kan een aanbestedende dienst besluiten [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=168&z=2008-10-15&g=2008-10-15), [artikel 169, leden 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=169&z=2008-10-15&g=2008-10-15), [artikel 170](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=170&z=2008-10-15&g=2008-10-15), [artikel 173, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=173&z=2008-10-15&g=2008-10-15), en de [artikelen 174](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=174&z=2008-10-15&g=2008-10-15), [175](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=175&z=2008-10-15&g=2008-10-15), [176](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=176&z=2008-10-15&g=2008-10-15) en [178](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=178&z=2008-10-15&g=2008-10-15) niet toe te passen.
+1. Bij een onderhandse aanbesteding kan een aanbestedende dienst besluiten [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=168&z=2008-12-29&g=2008-12-29), [artikel 169, leden 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=169&z=2008-12-29&g=2008-12-29), [artikel 170](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=170&z=2008-12-29&g=2008-12-29), [artikel 173, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=173&z=2008-12-29&g=2008-12-29), en de [artikelen 174](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=174&z=2008-12-29&g=2008-12-29), [175](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=175&z=2008-12-29&g=2008-12-29), [176](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=176&z=2008-12-29&g=2008-12-29) en [178](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=178&z=2008-12-29&g=2008-12-29) niet toe te passen.
 
 2. Aanbestedende diensten kunnen hun overheidsopdrachten in de volgende gevallen gunnen door middel van een onderhandse aanbestedingsprocedure:
 
@@ -2537,7 +2537,7 @@ Voor de toepassing van dit hoofdstuk passen de EG en de overeenkomstsluitende Ca
 
 3. Aanbestedende diensten kunnen besluiten bepaalde gegevens betreffende de plaatsing van de opdracht niet vrij te geven, indien vrijgave de toepassing van wettelijke bepalingen zou belemmeren of anderszins strijdig zou zijn met het algemeen belang, de legitieme commerciële belangen van leveranciers zou schaden dan wel de eerlijke mededinging tussen leveranciers in het gedrang zou brengen.
 
-4. Behoudens [artikel 180, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=180&z=2008-10-15&g=2008-10-15), publiceert een aanbestedende dienst uiterlijk tweeënzeventig (72) dagen na de plaatsing van elke opdracht waarop het bepaalde in dit hoofdstuk van toepassing is, een bericht in het passende bedrukte of elektronische medium als opgenomen in de lijst in bijlage VII.
+4. Behoudens [artikel 180, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=180&z=2008-12-29&g=2008-12-29), publiceert een aanbestedende dienst uiterlijk tweeënzeventig (72) dagen na de plaatsing van elke opdracht waarop het bepaalde in dit hoofdstuk van toepassing is, een bericht in het passende bedrukte of elektronische medium als opgenomen in de lijst in bijlage VII.
 
 Wanneer alleen gebruik wordt gemaakt van een elektronisch medium, dient de informatie gedurende een redelijke termijn gemakkelijk toegankelijk te blijven. Het bericht moet ten minste de volgende gegevens bevatten:
 
@@ -2581,17 +2581,17 @@ Daartoe wordt door elke partij of overeenkomstsluitende Cariforum-staat ten mins
 
 3. In afwijking van de leden 1 en 2 bedraagt de uitvoeringsperiode voor Antigua en Barbuda, Belize, het Gemenebest Dominica, Grenada, de Republiek Haïti, Saint Christopher en Nevis, Saint Lucia en Saint Vincent en de Grenadines vijf (5) jaar.
 
-4. De eisen in [artikel 168, lid 1 en de laatste zin van lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=168&z=2008-10-15&g=2008-10-15), [artikel 170, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=170&z=2008-10-15&g=2008-10-15), en [artikel 177, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=177&z=2008-10-15&g=2008-10-15), treden voor de overeenkomstsluitende Cariforum-staten pas in werking wanneer de vereiste capaciteit om die bepalingen ten uitvoer te leggen, is ontwikkeld, doch niet later dan 5 jaar na de inwerkingtreding van deze overeenkomst.
+4. De eisen in [artikel 168, lid 1 en de laatste zin van lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=168&z=2008-12-29&g=2008-12-29), [artikel 170, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=170&z=2008-12-29&g=2008-12-29), en [artikel 177, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=177&z=2008-12-29&g=2008-12-29), treden voor de overeenkomstsluitende Cariforum-staten pas in werking wanneer de vereiste capaciteit om die bepalingen ten uitvoer te leggen, is ontwikkeld, doch niet later dan 5 jaar na de inwerkingtreding van deze overeenkomst.
 
 ##### Artikel 181. Herzieningsclausule
 
-Het Handels- en ontwikkelingscomité Cariforum-EG beoordeelt de tenuitvoerlegging van dit hoofdstuk, inclusief eventuele wijzigingen in de werkingssfeer, om de drie jaar, en het doet daartoe zo nodig passende aanbevelingen aan de Gezamenlijke Raad Cariforum-EG. Bij de uitvoering van deze taak kan het Handels- en ontwikkelingscomité Cariforum-EG, zonder dat dit afbreuk doet aan [artikel 182](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=182&z=2008-10-15&g=2008-10-15), passende aanbevelingen met betrekking tot de verdere samenwerking van de partijen op het gebied van aanbestedingen en de tenuitvoerlegging van dit hoofdstuk doen.
+Het Handels- en ontwikkelingscomité Cariforum-EG beoordeelt de tenuitvoerlegging van dit hoofdstuk, inclusief eventuele wijzigingen in de werkingssfeer, om de drie jaar, en het doet daartoe zo nodig passende aanbevelingen aan de Gezamenlijke Raad Cariforum-EG. Bij de uitvoering van deze taak kan het Handels- en ontwikkelingscomité Cariforum-EG, zonder dat dit afbreuk doet aan [artikel 182](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=3&artikel=182&z=2008-12-29&g=2008-12-29), passende aanbevelingen met betrekking tot de verdere samenwerking van de partijen op het gebied van aanbestedingen en de tenuitvoerlegging van dit hoofdstuk doen.
 
 ##### Artikel 182. Samenwerking
 
 1. De partijen erkennen het belang van samenwerking om de tenuitvoerlegging van de verbintenissen te bevorderen en de doelstellingen van dit hoofdstuk te bereiken.
 
-2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen en geschikte contactpunten op te richten:
+2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen en geschikte contactpunten op te richten:
 
 - a. uitwisseling van ervaringen en van informatie over goede praktijken en de wet- en regelgeving;
 
@@ -2631,11 +2631,11 @@ De partijen erkennen dat het belangrijk is om bij de opstelling en tenuitvoerleg
 
 ##### Artikel 187. Transparantie
 
-De partijen en de overeenkomstsluitende Cariforum-staten verbinden zich ertoe alle maatregelen ter bescherming van het milieu en de volksgezondheid die van invloed zijn op de handel tussen de partijen op transparante wijze op te stellen, in te voeren en ten uitvoer te leggen, deze maatregelen tijdig aan te kondigen, met het publiek en met elkaar te overleggen en niet-overheidsactoren, waaronder de particuliere sector, op passende wijze tijdig te informeren en te consulteren. De partijen zijn het erover eens dat wanneer aan de bepalingen over transparantie van [titel I, hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=6&z=2008-10-15&g=2008-10-15) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=7&z=2008-10-15&g=2008-10-15), is voldaan, ook is voldaan aan het bepaalde in dit artikel.
+De partijen en de overeenkomstsluitende Cariforum-staten verbinden zich ertoe alle maatregelen ter bescherming van het milieu en de volksgezondheid die van invloed zijn op de handel tussen de partijen op transparante wijze op te stellen, in te voeren en ten uitvoer te leggen, deze maatregelen tijdig aan te kondigen, met het publiek en met elkaar te overleggen en niet-overheidsactoren, waaronder de particuliere sector, op passende wijze tijdig te informeren en te consulteren. De partijen zijn het erover eens dat wanneer aan de bepalingen over transparantie van [titel I, hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=6&z=2008-12-29&g=2008-12-29) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=7&z=2008-12-29&g=2008-12-29), is voldaan, ook is voldaan aan het bepaalde in dit artikel.
 
 ##### Artikel 188. Handhaving van beschermingsniveaus
 
-1. Behoudens [artikel 184, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&artikel=184&z=2008-10-15&g=2008-10-15), komen de partijen overeen de handel of de buitenlandse directe investeringen niet ter vergroting of handhaving van een concurrentievoordeel te stimuleren door:
+1. Behoudens [artikel 184, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&artikel=184&z=2008-12-29&g=2008-12-29), komen de partijen overeen de handel of de buitenlandse directe investeringen niet ter vergroting of handhaving van een concurrentievoordeel te stimuleren door:
 
 - a. het door de binnenlandse milieu- en volksgezondheidswetgeving geboden beschermingsniveau te verlagen;
 
@@ -2647,11 +2647,11 @@ De partijen en de overeenkomstsluitende Cariforum-staten verbinden zich ertoe al
 
 1. De partijen erkennen het belang van controle op en beoordeling van de gevolgen van de tenuitvoerlegging van deze overeenkomst op de duurzame ontwikkeling via hun bestaande participatieprocessen en participatieve instellingen en die welke in het kader van deze overeenkomst in het leven zijn geroepen.
 
-2. De partijen raadplegen elkaar en het Raadgevend Comité Cariforum-EG over milieukwesties waarop de [artikelen 183 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&artikel=183&z=2008-10-15&g=2008-10-15) van toepassing zijn. De leden van het Raadgevend Comité Cariforum-EG kunnen de partijen mondeling of schriftelijk aanbevelingen doen inzake de verspreiding en uitwisseling van goede praktijken over kwesties die onder dit hoofdstuk vallen.
+2. De partijen raadplegen elkaar en het Raadgevend Comité Cariforum-EG over milieukwesties waarop de [artikelen 183 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&artikel=183&z=2008-12-29&g=2008-12-29) van toepassing zijn. De leden van het Raadgevend Comité Cariforum-EG kunnen de partijen mondeling of schriftelijk aanbevelingen doen inzake de verspreiding en uitwisseling van goede praktijken over kwesties die onder dit hoofdstuk vallen.
 
-3. Ten aanzien van alle kwesties waarop de [artikelen 183 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&artikel=183&z=2008-10-15&g=2008-10-15) van toepassing zijn, kunnen de partijen overeenkomen bij de desbetreffende internationale organisaties advies te vragen over goede praktijken, het gebruik van doeltreffende beleidsinstrumenten om handelsgerelateerde uitdagingen op milieugebied het hoofd te bieden en de inventarisatie van belemmeringen voor een doeltreffende tenuitvoerlegging van milieunormen in het kader van de multilaterale milieuovereenkomsten ter zake.
+3. Ten aanzien van alle kwesties waarop de [artikelen 183 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&artikel=183&z=2008-12-29&g=2008-12-29) van toepassing zijn, kunnen de partijen overeenkomen bij de desbetreffende internationale organisaties advies te vragen over goede praktijken, het gebruik van doeltreffende beleidsinstrumenten om handelsgerelateerde uitdagingen op milieugebied het hoofd te bieden en de inventarisatie van belemmeringen voor een doeltreffende tenuitvoerlegging van milieunormen in het kader van de multilaterale milieuovereenkomsten ter zake.
 
-4. Een partij kan om overleg met de andere partij vragen over kwesties betreffende de interpretatie en de toepassing van de [artikelen 183 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&artikel=183&z=2008-10-15&g=2008-10-15). Dit overleg mag niet langer dan drie maanden duren. In het kader van deze procedure kan een partij de desbetreffende internationale instanties om onafhankelijk advies vragen. In dat geval wordt de duur van het overleg verlengd met nog eens drie maanden.
+4. Een partij kan om overleg met de andere partij vragen over kwesties betreffende de interpretatie en de toepassing van de [artikelen 183 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&artikel=183&z=2008-12-29&g=2008-12-29). Dit overleg mag niet langer dan drie maanden duren. In het kader van deze procedure kan een partij de desbetreffende internationale instanties om onafhankelijk advies vragen. In dat geval wordt de duur van het overleg verlengd met nog eens drie maanden.
 
 5. Indien de kwestie niet bevredigend wordt opgelost door overleg tussen de partijen overeenkomstig lid 3, kan elk van de partijen verzoeken een comité van deskundigen bijeen te roepen om de kwestie te onderzoeken.
 
@@ -2661,7 +2661,7 @@ De partijen en de overeenkomstsluitende Cariforum-staten verbinden zich ertoe al
 
 1. De partijen erkennen het belang van samenwerking over milieukwesties teneinde de doelstellingen van deze overeenkomst te verwezenlijken.
 
-2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
+2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
 
 - a. technische bijstand aan producenten om te voldoen aan de relevante productnormen en andere normen die op de EG-markt van toepassing zijn;
 
@@ -2691,11 +2691,11 @@ De partijen en de overeenkomstsluitende Cariforum-staten verbinden zich ertoe al
 
 ##### Artikel 192. Beschermingsniveaus en regelgevingsrecht
 
-In het bewustzijn dat de partijen en de overeenkomstsluitende Cariforum-staten het recht hebben regels te bepalen om hun eigen sociale regelgeving en arbeidsnormen vast te stellen in overeenstemming met hun eigen sociale-ontwikkelingsprioriteiten, en hun wetgeving en beleid ter zake dienovereenkomstig goed te keuren en te wijzigen, zien de partijen en de overeenkomstsluitende Cariforum-staten er elk voor zich op toe dat haar/zijn wetgeving en beleid op sociaal en arbeidsgebied voorzien in sociale en arbeidsnormen van een hoog niveau in overeenstemming met de in [artikel 191](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=191&z=2008-10-15&g=2008-10-15) beschreven internationaal erkende rechten en deze stimuleren, en streven zij ook naar een voortdurende verbetering van die wetgeving en dat beleid.
+In het bewustzijn dat de partijen en de overeenkomstsluitende Cariforum-staten het recht hebben regels te bepalen om hun eigen sociale regelgeving en arbeidsnormen vast te stellen in overeenstemming met hun eigen sociale-ontwikkelingsprioriteiten, en hun wetgeving en beleid ter zake dienovereenkomstig goed te keuren en te wijzigen, zien de partijen en de overeenkomstsluitende Cariforum-staten er elk voor zich op toe dat haar/zijn wetgeving en beleid op sociaal en arbeidsgebied voorzien in sociale en arbeidsnormen van een hoog niveau in overeenstemming met de in [artikel 191](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=191&z=2008-12-29&g=2008-12-29) beschreven internationaal erkende rechten en deze stimuleren, en streven zij ook naar een voortdurende verbetering van die wetgeving en dat beleid.
 
 ##### Artikel 193. Handhaving van beschermingsniveaus
 
-Behoudens [artikel 192](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=192&z=2008-10-15&g=2008-10-15) komen de partijen overeen de handel of de buitenlandse directe investeringen niet ter vergroting of handhaving van een concurrentievoordeel te stimuleren door:
+Behoudens [artikel 192](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=192&z=2008-12-29&g=2008-12-29) komen de partijen overeen de handel of de buitenlandse directe investeringen niet ter vergroting of handhaving van een concurrentievoordeel te stimuleren door:
 
 - a. het door de binnenlandse sociale en arbeidswetgeving geboden beschermingsniveau te verlagen;
 
@@ -2707,13 +2707,13 @@ In het licht van de sociale uitdagingen waarmee hun respectieve regio te maken h
 
 ##### Artikel 195. Raadpleging en controle
 
-1. In overeenstemming met [artikel 191](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=191&z=2008-10-15&g=2008-10-15) erkennen de partijen het belang van controle op en beoordeling van de werking van de overeenkomst op fatsoenlijk werk en op andere gebieden van duurzame ontwikkeling via hun bestaande participatieprocessen en participatieve instellingen en die welke in het kader van deze overeenkomst in het leven zijn geroepen.
+1. In overeenstemming met [artikel 191](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=191&z=2008-12-29&g=2008-12-29) erkennen de partijen het belang van controle op en beoordeling van de werking van de overeenkomst op fatsoenlijk werk en op andere gebieden van duurzame ontwikkeling via hun bestaande participatieprocessen en participatieve instellingen en die welke in het kader van deze overeenkomst in het leven zijn geroepen.
 
-2. De partijen raadplegen elkaar en het Raadgevend Comité Cariforum-EG over sociale kwesties waarop de [artikelen 191 tot en met 194](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=191&z=2008-10-15&g=2008-10-15) van toepassing zijn. De leden van het Raadgevend Comité Cariforum-EG kunnen de partijen mondeling of schriftelijk aanbevelingen doen over de verspreiding en uitwisseling van goede praktijken over kwesties die onder dit hoofdstuk vallen.
+2. De partijen raadplegen elkaar en het Raadgevend Comité Cariforum-EG over sociale kwesties waarop de [artikelen 191 tot en met 194](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=191&z=2008-12-29&g=2008-12-29) van toepassing zijn. De leden van het Raadgevend Comité Cariforum-EG kunnen de partijen mondeling of schriftelijk aanbevelingen doen over de verspreiding en uitwisseling van goede praktijken over kwesties die onder dit hoofdstuk vallen.
 
-3. Ten aanzien van alle kwesties waarop de [artikelen 191 tot en met 194](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=191&z=2008-10-15&g=2008-10-15) van toepassing zijn, kunnen de partijen overeenkomen bij de ILO advies te vragen over goede praktijken, het gebruik van doeltreffende beleidsinstrumenten om handelsgerelateerde sociale uitdagingen, zoals aanpassingen van de arbeidsmarkt, het hoofd te bieden en de inventarisatie van belemmeringen voor een doeltreffende tenuitvoerlegging van fundamentele arbeidsnormen.
+3. Ten aanzien van alle kwesties waarop de [artikelen 191 tot en met 194](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=191&z=2008-12-29&g=2008-12-29) van toepassing zijn, kunnen de partijen overeenkomen bij de ILO advies te vragen over goede praktijken, het gebruik van doeltreffende beleidsinstrumenten om handelsgerelateerde sociale uitdagingen, zoals aanpassingen van de arbeidsmarkt, het hoofd te bieden en de inventarisatie van belemmeringen voor een doeltreffende tenuitvoerlegging van fundamentele arbeidsnormen.
 
-4. Een partij kan vragen om overleg met de andere partij over kwesties betreffende de interpretatie en de toepassing van de [artikelen 191 tot en met 194](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=191&z=2008-10-15&g=2008-10-15). Dit overleg mag niet langer dan drie maanden duren. In het kader van deze procedure kan een partij de ILO om onafhankelijk advies vragen. In dat geval wordt de duur van het overleg verlengd met nog eens drie maanden.
+4. Een partij kan vragen om overleg met de andere partij over kwesties betreffende de interpretatie en de toepassing van de [artikelen 191 tot en met 194](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=191&z=2008-12-29&g=2008-12-29). Dit overleg mag niet langer dan drie maanden duren. In het kader van deze procedure kan een partij de ILO om onafhankelijk advies vragen. In dat geval wordt de duur van het overleg verlengd met nog eens drie maanden.
 
 5. Indien de kwestie door overleg tussen de partijen overeenkomstig lid 3 niet bevredigend wordt opgelost, kan elk van de partijen verzoeken een comité van deskundigen bijeen te roepen om de kwestie te onderzoeken.
 
@@ -2723,7 +2723,7 @@ In het licht van de sociale uitdagingen waarmee hun respectieve regio te maken h
 
 1. De partijen erkennen het belang van samenwerking in sociale en arbeidsaangelegenheden teneinde de doelstellingen van deze overeenkomst te verwezenlijken.
 
-2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
+2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te bevorderen:
 
 - a. uitwisseling van informatie over de respectieve sociale en arbeidswetgeving en het beleid, de regelgeving en andere maatregelen ter zake;
 
@@ -2797,7 +2797,7 @@ De partijen zijn het erover eens dat de vast te stellen wet- en regelgeving en d
 
 1. De partijen erkennen het belang van samenwerking voor de bevordering van de ontwikkeling van passende wettelijke, gerechtelijke en institutionele kaderregelingen en van een passend beschermingsniveau voor persoonsgegevens dat in overeenstemming is met de doelstellingen en beginselen van dit hoofdstuk.
 
-2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te sterken:
+2. Behoudens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) komen de partijen overeen op de volgende terreinen samen te werken, onder meer door ondersteuning te sterken:
 
 - a. uitwisseling van informatie en expertise;
 
@@ -2825,7 +2825,7 @@ Het doel van dit deel is geschillen tussen de partijen te vermijden en te beslec
 
 ##### Artikel 204. Overleg
 
-1. De partijen streven ernaar elk in [artikel 203](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&artikel=203&z=2008-10-15&g=2008-10-15) bedoeld geschil op te lossen door te goeder trouw overleg te voeren teneinde samen tot een oplossing te komen.
+1. De partijen streven ernaar elk in [artikel 203](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&artikel=203&z=2008-12-29&g=2008-12-29) bedoeld geschil op te lossen door te goeder trouw overleg te voeren teneinde samen tot een oplossing te komen.
 
 2. Een partij verzoekt de andere partij schriftelijk om overleg, met kopie aan het Handels- en ontwikkelingscomité Cariforum-EG, waarbij aangegeven wordt om welke maatregel het gaat en met welke bepalingen van de overeenkomst de maatregel niet in overeenstemming zou zijn.
 
@@ -2833,15 +2833,15 @@ Het doel van dit deel is geschillen tussen de partijen te vermijden en te beslec
 
 4. Overleg over urgente kwesties, zoals over bederfelijke waren of seizoensgebonden goederen, vindt plaats binnen vijftien (15) dagen na de datum van indiening van het verzoek en wordt dertig (30) dagen na de datum van indiening van het verzoek geacht te zijn afgerond.
 
-5. Indien het overleg niet binnen de in lid 3 respectievelijk lid 4 genoemde termijnen plaatsvindt, of indien het overleg is afgesloten zonder dat een onderling overeengekomen oplossing kon worden bereikt, kan de klagende partij verzoeken om de instelling van een arbitragepanel overeenkomstig [artikel 206](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=206&z=2008-10-15&g=2008-10-15).
+5. Indien het overleg niet binnen de in lid 3 respectievelijk lid 4 genoemde termijnen plaatsvindt, of indien het overleg is afgesloten zonder dat een onderling overeengekomen oplossing kon worden bereikt, kan de klagende partij verzoeken om de instelling van een arbitragepanel overeenkomstig [artikel 206](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=206&z=2008-12-29&g=2008-12-29).
 
-6. Een partij mag een geschil over de interpretatie en toepassing van de [deel II, titel IV, hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&z=2008-10-15&g=2008-10-15), alleen in het kader van dit deel aan de orde stellen indien voordien een beroep is gedaan op de procedure van [artikel 189, leden, 3, 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&artikel=189&z=2008-10-15&g=2008-10-15), respectievelijk [artikel 195, leden 3, 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=195&z=2008-10-15&g=2008-10-15), maar het geschil niet binnen negen (9) maanden na het begin van het overleg bevredigend is opgelost. Overleg uit hoofde van die bepalingen komt in de plaats van het overleg dat in het kader van dit artikel vereist is.
+6. Een partij mag een geschil over de interpretatie en toepassing van de [deel II, titel IV, hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&z=2008-12-29&g=2008-12-29), alleen in het kader van dit deel aan de orde stellen indien voordien een beroep is gedaan op de procedure van [artikel 189, leden, 3, 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&artikel=189&z=2008-12-29&g=2008-12-29), respectievelijk [artikel 195, leden 3, 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&artikel=195&z=2008-12-29&g=2008-12-29), maar het geschil niet binnen negen (9) maanden na het begin van het overleg bevredigend is opgelost. Overleg uit hoofde van die bepalingen komt in de plaats van het overleg dat in het kader van dit artikel vereist is.
 
 ##### Artikel 205. Bemiddeling
 
 1. Indien overleg niet tot een onderling overeengekomen oplossing leidt, kunnen de partijen overeenkomen een beroep te doen op een bemiddelaar. Tenzij de partijen anders overeenkomen, heeft het mandaat van de bemiddelaar betrekking op de in het verzoek om overleg genoemde aangelegenheid.
 
-2. Tenzij de partijen binnen vijftien (15) dagen na de datum van de overeenstemming over het verzoek om bemiddeling overeenstemming bereiken over een bemiddelaar, wijst de voorzitter van het Handels- en ontwikkelingscomité Cariforum-EG of diens vertegenwoordiger door loting uit de groep personen op de in [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=3&artikel=221&z=2008-10-15&g=2008-10-15) bedoelde lijst een bemiddelaar aan die geen onderdaan van een van de partijen is. De loting vindt binnen vijfentwintig (25) dagen na de datum van de overeenstemming over het verzoek om bemiddeling plaats in aanwezigheid van een vertegenwoordiger van elk van de partijen. De bemiddelaar roept de partijen uiterlijk dertig (30) dagen na zijn aanwijzing bijeen. Hij krijgt de stukken van elk van de partijen uiterlijk vijftien (15) dagen voor de bijeenkomst en hij geeft uiterlijk vijfenveertig (45) dagen na zijn aanwijzing een advies.
+2. Tenzij de partijen binnen vijftien (15) dagen na de datum van de overeenstemming over het verzoek om bemiddeling overeenstemming bereiken over een bemiddelaar, wijst de voorzitter van het Handels- en ontwikkelingscomité Cariforum-EG of diens vertegenwoordiger door loting uit de groep personen op de in [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=3&artikel=221&z=2008-12-29&g=2008-12-29) bedoelde lijst een bemiddelaar aan die geen onderdaan van een van de partijen is. De loting vindt binnen vijfentwintig (25) dagen na de datum van de overeenstemming over het verzoek om bemiddeling plaats in aanwezigheid van een vertegenwoordiger van elk van de partijen. De bemiddelaar roept de partijen uiterlijk dertig (30) dagen na zijn aanwijzing bijeen. Hij krijgt de stukken van elk van de partijen uiterlijk vijftien (15) dagen voor de bijeenkomst en hij geeft uiterlijk vijfenveertig (45) dagen na zijn aanwijzing een advies.
 
 3. Het advies van de bemiddelaar kan een aanbeveling omvatten over de wijze waarop het geschil in overeenstemming met de bepalingen van de overeenkomst kan worden opgelost. Het advies van de bemiddelaar is niet bindend.
 
@@ -2855,7 +2855,7 @@ Het doel van dit deel is geschillen tussen de partijen te vermijden en te beslec
 
 ##### Artikel 206. Inleiding van de arbitrageprocedure
 
-1. Wanneer de partijen er niet in zijn geslaagd het geschil op te lossen door middel van het in [artikel 204](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=1&artikel=204&z=2008-10-15&g=2008-10-15) bedoelde overleg of de in [artikel 205](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=1&artikel=205&z=2008-10-15&g=2008-10-15) bedoelde bemiddeling, kan de klagende partij verzoeken om de instelling van een arbitragepanel.
+1. Wanneer de partijen er niet in zijn geslaagd het geschil op te lossen door middel van het in [artikel 204](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=1&artikel=204&z=2008-12-29&g=2008-12-29) bedoelde overleg of de in [artikel 205](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=1&artikel=205&z=2008-12-29&g=2008-12-29) bedoelde bemiddeling, kan de klagende partij verzoeken om de instelling van een arbitragepanel.
 
 2. Het verzoek om instelling van een arbitragepanel moet schriftelijk worden gedaan bij de partij waartegen wordt geklaagd en bij het Handels- en ontwikkelingscomité Cariforum-EG. De klagende partij vermeldt in zijn verzoek de specifieke maatregelen die in het geding zijn en legt uit waarom die maatregelen een inbreuk op de bepalingen van de overeenkomst zijn.
 
@@ -2865,9 +2865,9 @@ Het doel van dit deel is geschillen tussen de partijen te vermijden en te beslec
 
 2. Binnen tien (10) dagen na de datum van indiening van het verzoek tot instelling van een arbitragepanel bij het Handels- en ontwikkelingscomité Cariforum-EG overleggen de partijen over de samenstelling van het arbitragepanel.
 
-3. Indien de partijen het binnen de in lid 2 genoemde termijn niet eens worden over de samenstelling van het arbitragepanel, kan elk van de partijen de voorzitter van het Handels- en ontwikkelingscomité Cariforum-EG of diens vertegenwoordiger verzoeken alle drie leden door loting aan te wijzen uit de in [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=3&artikel=221&z=2008-10-15&g=2008-10-15) bedoelde lijst, namelijk één lid uit de personen die door de klagende partij werden voorgesteld, één lid uit de lijst van de partij waartegen de klacht gericht is en één lid uit de personen die door de partijen waren geselecteerd om als voorzitter te fungeren. Wanneer de partijen het over één of meer leden van het arbitragepanel eens zijn, worden de overige leden volgens dezelfde procedure geselecteerd.
+3. Indien de partijen het binnen de in lid 2 genoemde termijn niet eens worden over de samenstelling van het arbitragepanel, kan elk van de partijen de voorzitter van het Handels- en ontwikkelingscomité Cariforum-EG of diens vertegenwoordiger verzoeken alle drie leden door loting aan te wijzen uit de in [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=3&artikel=221&z=2008-12-29&g=2008-12-29) bedoelde lijst, namelijk één lid uit de personen die door de klagende partij werden voorgesteld, één lid uit de lijst van de partij waartegen de klacht gericht is en één lid uit de personen die door de partijen waren geselecteerd om als voorzitter te fungeren. Wanneer de partijen het over één of meer leden van het arbitragepanel eens zijn, worden de overige leden volgens dezelfde procedure geselecteerd.
 
-4. In het geval van een geschil over de interpretatie en toepassing van [titel IV, hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&z=2008-10-15&g=2008-10-15), omvat het panel ten minste twee leden met specifieke expertise op het gebied van het betrokken hoofdstuk; deze worden getrokken uit een lijst van vijftien (15) personen, die overeenkomstig [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=3&artikel=221&z=2008-10-15&g=2008-10-15) door het Handels- en ontwikkelingscomité Cariforum-EG is vastgesteld.
+4. In het geval van een geschil over de interpretatie en toepassing van [titel IV, hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&z=2008-12-29&g=2008-12-29), omvat het panel ten minste twee leden met specifieke expertise op het gebied van het betrokken hoofdstuk; deze worden getrokken uit een lijst van vijftien (15) personen, die overeenkomstig [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=3&artikel=221&z=2008-12-29&g=2008-12-29) door het Handels- en ontwikkelingscomité Cariforum-EG is vastgesteld.
 
 5. De voorzitter van het Handels- en ontwikkelingscomité Cariforum-EG of diens vertegenwoordiger wijst in aanwezigheid van een vertegenwoordiger van elk van de partijen binnen vijf (5) dagen nadat een van de partijen het in lid 3 bedoelde verzoek daartoe heeft gedaan, de scheidsrechters aan.
 
@@ -2883,7 +2883,7 @@ Het arbitragepanel legt in het algemeen uiterlijk honderdtwintig (120) dagen na 
 
 2. In dringende gevallen, zoals wanneer de zaak betrekking heeft op bederfelijke waren en seizoensgebonden goederen, stelt het arbitragepanel alles in het werk om de uitspraak binnen vijfenzeventig (75) dagen na de datum waarop het is ingesteld, bekend te maken. De maximumtermijn is in geen geval langer dan negentig (90) dagen na de instelling van het panel. Het arbitragepanel kan binnen tien (10) dagen na zijn instelling een voorlopige uitspraak doen over de vraag of het een zaak dringend acht.
 
-3. Elk van de partijen kan het arbitragepanel verzoeken een aanbeveling te doen over de vraag hoe de partij waartegen de klacht gericht is, weer aan de overeenkomst kan voldoen. In het geval van een geschil over de interpretatie en toepassing van [titel IV, hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&z=2008-10-15&g=2008-10-15), neemt het arbitragepanel in zijn uitspraak een aanbeveling op over de wijze waarop naleving van de desbetreffende bepalingen in die hoofdstukken wordt gewaarborgd.
+3. Elk van de partijen kan het arbitragepanel verzoeken een aanbeveling te doen over de vraag hoe de partij waartegen de klacht gericht is, weer aan de overeenkomst kan voldoen. In het geval van een geschil over de interpretatie en toepassing van [titel IV, hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&z=2008-12-29&g=2008-12-29), neemt het arbitragepanel in zijn uitspraak een aanbeveling op over de wijze waarop naleving van de desbetreffende bepalingen in die hoofdstukken wordt gewaarborgd.
 
 ### AFDELING 2. NALEVING
 
@@ -2899,7 +2899,7 @@ Elk van de partijen neemt alle noodzakelijke maatregelen om de uitspraak van het
 
 3. Het arbitragepanel houdt bij de vaststelling van de redelijke termijn rekening met de tijd die het de partij waartegen de klacht gericht is normaliter kost om wettelijke of bestuursrechtelijke maatregelen goed te keuren die vergelijkbaar zijn met die welke door die partij noodzakelijk worden geacht om naleving te waarborgen. Het arbitragepanel houdt ook rekening met aantoonbare capaciteitsbeperkingen die van invloed kunnen zijn op de goedkeuring van de noodzakelijke maatregelen door de partij waartegen de klacht gericht is.
 
-4. Indien het oorspronkelijke arbitragepanel, of één of meer van de leden ervan, niet opnieuw bijeen kan komen, is de procedure van [artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=207&z=2008-10-15&g=2008-10-15) van toepassing. De termijn voor de kennisgeving van de uitspraak bedraagt vijfenveertig (45) dagen na de datum van indiening van het in lid 2 bedoelde verzoek.
+4. Indien het oorspronkelijke arbitragepanel, of één of meer van de leden ervan, niet opnieuw bijeen kan komen, is de procedure van [artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=207&z=2008-12-29&g=2008-12-29) van toepassing. De termijn voor de kennisgeving van de uitspraak bedraagt vijfenveertig (45) dagen na de datum van indiening van het in lid 2 bedoelde verzoek.
 
 5. Wanneer de partijen het erover eens zijn, kan de redelijke termijn worden verlengd.
 
@@ -2909,15 +2909,15 @@ Elk van de partijen neemt alle noodzakelijke maatregelen om de uitspraak van het
 
 2. In het geval er tussen de partijen onenigheid bestaat over de verenigbaarheid van een maatregel waarvan overeenkomstig lid 1 kennis is gegeven, met een van de bepalingen van deze overeenkomst, kan de klagende partij het arbitragepanel schriftelijk verzoeken uitspraak over de zaak te doen. In dat verzoek wordt aangegeven om welke specifieke maatregel het gaat en wordt uitgelegd waarom die maatregel niet in overeenstemming is met de bepalingen van deze overeenkomst. Het arbitragepanel deelt zijn uitspraak binnen negentig (90) dagen na de datum van indiening van het verzoek mede. In dringende gevallen, zoals wanneer de zaak betrekking heeft op bederfelijke waren en seizoensgebonden goederen, deelt het arbitragepanel zijn uitspraak binnen vijfenveertig (45) dagen na de datum van indiening van het verzoek mee.
 
-3. Indien het oorspronkelijke arbitragepanel, of één of meer van de leden ervan, niet opnieuw bijeen kan komen, is de procedure van [artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=207&z=2008-10-15&g=2008-10-15) van toepassing. De termijn voor de kennisgeving van de uitspraak bedraagt honderdvijf (105) dagen na de datum van indiening van het in lid 2 bedoelde verzoek.
+3. Indien het oorspronkelijke arbitragepanel, of één of meer van de leden ervan, niet opnieuw bijeen kan komen, is de procedure van [artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=207&z=2008-12-29&g=2008-12-29) van toepassing. De termijn voor de kennisgeving van de uitspraak bedraagt honderdvijf (105) dagen na de datum van indiening van het in lid 2 bedoelde verzoek.
 
 ##### Artikel 213. Tijdelijke maatregelen bij niet-naleving
 
-1. Indien de betrokken partij niet voor afloop van de redelijke termijn kennis geeft van de maatregelen die zijn getroffen om de uitspraak van het arbitragepanel na te leven, of indien het arbitragepanel oordeelt dat de maatregel waarvan overeenkomstig [artikel 212, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=2&artikel=212&z=2008-10-15&g=2008-10-15), kennis is gegeven, niet in overeenstemming is met de verplichtingen van de partij uit hoofde van deze overeenkomst, doet de partij waartegen de klacht gericht is de klagende partij, op haar verzoek, een compensatieaanbod. Geen enkele bepaling in deze overeenkomst vereist dat de partij waartegen de klacht gericht is, financiële compensatie aanbiedt.
+1. Indien de betrokken partij niet voor afloop van de redelijke termijn kennis geeft van de maatregelen die zijn getroffen om de uitspraak van het arbitragepanel na te leven, of indien het arbitragepanel oordeelt dat de maatregel waarvan overeenkomstig [artikel 212, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=2&artikel=212&z=2008-12-29&g=2008-12-29), kennis is gegeven, niet in overeenstemming is met de verplichtingen van de partij uit hoofde van deze overeenkomst, doet de partij waartegen de klacht gericht is de klagende partij, op haar verzoek, een compensatieaanbod. Geen enkele bepaling in deze overeenkomst vereist dat de partij waartegen de klacht gericht is, financiële compensatie aanbiedt.
 
-2. Indien niet binnen dertig (30) dagen na het eind van de redelijke periode of van de uitspraak van het arbitragepanel uit hoofde van [artikel 212](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=2&artikel=212&z=2008-10-15&g=2008-10-15) dat een maatregel die is getroffen om de uitspraak van het arbitragepanel na te leven, niet in overeenstemming is met de bepalingen van deze overeenkomst, is de klagende partij gerechtigd om, na de andere partij hiervan in kennis te hebben gesteld, passende maatregelen vast te stellen.
+2. Indien niet binnen dertig (30) dagen na het eind van de redelijke periode of van de uitspraak van het arbitragepanel uit hoofde van [artikel 212](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=2&artikel=212&z=2008-12-29&g=2008-12-29) dat een maatregel die is getroffen om de uitspraak van het arbitragepanel na te leven, niet in overeenstemming is met de bepalingen van deze overeenkomst, is de klagende partij gerechtigd om, na de andere partij hiervan in kennis te hebben gesteld, passende maatregelen vast te stellen.
 
-Wanneer de klagende partij dergelijke maatregelen vaststelt, streeft zij ernaar maatregelen te kiezen die het minst van invloed zijn op de verwezenlijking van de doelstellingen van deze overeenkomst en houdt zij rekening met de gevolgen ervan voor de economie van de partij waartegen de klacht gericht is en voor elk van de Cariforum-staten. Wanneer de EG het recht heeft verkregen dergelijke maatregelen te treffen, kiest zij bovendien maatregelen die er specifiek op zijn gericht de Cariforum-staat of Cariforum-staten waarvan is vastgesteld dat zijn/hun maatregelen een inbreuk op deze overeenkomst vormen, tot naleving te brengen. De andere Cariforum-staten bevorderen de vaststelling van maatregelen die ertoe moeten leiden dat de uitspraak van het arbitragepanel wordt nageleefd door de Cariforum-staat of Cariforum-staten waarvan is vastgesteld dat hij/zij een inbreuk op deze overeenkomst maakte(n). In geval van geschillen met betrekking tot [titel IV, hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&z=2008-10-15&g=2008-10-15), is schorsing van handelsconcessies uit hoofde van deze overeenkomst geen passende maatregel. De klagende partij kan de passende maatregelen tien (10) dagen na de datum van de kennisgeving nemen.
+Wanneer de klagende partij dergelijke maatregelen vaststelt, streeft zij ernaar maatregelen te kiezen die het minst van invloed zijn op de verwezenlijking van de doelstellingen van deze overeenkomst en houdt zij rekening met de gevolgen ervan voor de economie van de partij waartegen de klacht gericht is en voor elk van de Cariforum-staten. Wanneer de EG het recht heeft verkregen dergelijke maatregelen te treffen, kiest zij bovendien maatregelen die er specifiek op zijn gericht de Cariforum-staat of Cariforum-staten waarvan is vastgesteld dat zijn/hun maatregelen een inbreuk op deze overeenkomst vormen, tot naleving te brengen. De andere Cariforum-staten bevorderen de vaststelling van maatregelen die ertoe moeten leiden dat de uitspraak van het arbitragepanel wordt nageleefd door de Cariforum-staat of Cariforum-staten waarvan is vastgesteld dat hij/zij een inbreuk op deze overeenkomst maakte(n). In geval van geschillen met betrekking tot [titel IV, hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&z=2008-12-29&g=2008-12-29), is schorsing van handelsconcessies uit hoofde van deze overeenkomst geen passende maatregel. De klagende partij kan de passende maatregelen tien (10) dagen na de datum van de kennisgeving nemen.
 
 3. De EG handelt met de nodige terughoudendheid bij het vragen van compensatie of bij de vaststelling van passende maatregelen uit hoofde van de leden 1 of 2.
 
@@ -2929,7 +2929,7 @@ Wanneer de klagende partij dergelijke maatregelen vaststelt, streeft zij ernaar 
 
 2. Indien de partijen niet binnen dertig (30) dagen na de datum van indiening van de kennisgeving tot overeenstemming komen over de verenigbaarheid van de maatregel waarvan kennis is gegeven, met de bepalingen van deze overeenkomst, kan de klagende partij het arbitragepanel schriftelijk verzoeken uitspraak over de zaak te doen. Dit verzoek wordt aan de andere partij en aan het Handels- en ontwikkelingscomité Cariforum-EG meegedeeld. Van de uitspraak van het arbitragepanel wordt binnen vijfenveertig (45) dagen na de datum van indiening van het verzoek kennisgegeven aan de partijen en aan het Handels- en ontwikkelingscomité Cariforum-EG. Indien het arbitragepanel oordeelt dat een maatregel die is getroffen om zijn uitspraak na te leven, niet met deze overeenkomst in overeenstemming is, onderzoekt het of de klagende partij de passende maatregelen mag blijven toepassen. Indien het arbitragepanel oordeelt dat een maatregel die is getroffen om de uitspraak na te leven, in overeenstemming met de bepalingen van deze overeenkomst is, worden de passende maatregelen beëindigd.
 
-3. Indien het oorspronkelijke arbitragepanel, of één of meer van de leden ervan, niet opnieuw bijeen kan komen, is de procedure van [artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=207&z=2008-10-15&g=2008-10-15) van toepassing. De termijn voor de kennisgeving van de uitspraak bedraagt zestig (60) dagen na de datum van indiening van het in lid 2 bedoelde verzoek.
+3. Indien het oorspronkelijke arbitragepanel, of één of meer van de leden ervan, niet opnieuw bijeen kan komen, is de procedure van [artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=207&z=2008-12-29&g=2008-12-29) van toepassing. De termijn voor de kennisgeving van de uitspraak bedraagt zestig (60) dagen na de datum van indiening van het in lid 2 bedoelde verzoek.
 
 ### AFDELING 3. GEMEENSCHAPPELIJKE BEPALINGEN
 
@@ -2939,7 +2939,7 @@ De partijen kunnen te allen tijde samen een oplossing voor een onder dit deel va
 
 ##### Artikel 216. Reglement van orde
 
-1. Op de procedures voor de beslechting van geschillen in het kader van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&z=2008-10-15&g=2008-10-15) van dit deel is het reglement van orde van toepassing dat binnen drie (3) maanden na de voorlopige toepassing van deze overeenkomst door de Gezamenlijke Raad Cariforum-EG wordt vastgesteld.
+1. Op de procedures voor de beslechting van geschillen in het kader van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&z=2008-12-29&g=2008-12-29) van dit deel is het reglement van orde van toepassing dat binnen drie (3) maanden na de voorlopige toepassing van deze overeenkomst door de Gezamenlijke Raad Cariforum-EG wordt vastgesteld.
 
 2. Alle vergaderingen van het arbitragepanel zijn overeenkomstig het reglement van orde openbaar, tenzij het arbitragepanel uit eigen initiatief of op verzoek van de partijen anderszins besluit.
 
@@ -2951,7 +2951,7 @@ Het arbitragepanel kan op verzoek van een partij of op eigen initiatief bij alle
 
 1. De schriftelijke stukken en de pleidooien van de partijen worden in een van de officiële talen van de partijen gesteld.
 
-2. De partijen streven ernaar om voor elke specifieke procedure in het kader van dit deel een gemeenschappelijke werktaal overeen te komen. Indien de partijen niet tot overeenstemming kunnen komen over een gemeenschappelijke werktaal, draagt elk van de partijen de zorg en de kosten voor de vertaling van zijn schriftelijke stukken en voor vertolking tijdens hoorzittingen in de taal die wordt gekozen door de partij waartegen de klacht gericht is, tenzij die taal een officiële taal van die partij is31)Voor de toepassing van dit artikel zijn de officiële talen van de Cariforum-staten Engels, Frans, Nederlands en Spaans, en de officiële talen van de EG die welke zijn vermeld in [artikel 249](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=VI&artikel=249&z=2008-10-15&g=2008-10-15). .
+2. De partijen streven ernaar om voor elke specifieke procedure in het kader van dit deel een gemeenschappelijke werktaal overeen te komen. Indien de partijen niet tot overeenstemming kunnen komen over een gemeenschappelijke werktaal, draagt elk van de partijen de zorg en de kosten voor de vertaling van zijn schriftelijke stukken en voor vertolking tijdens hoorzittingen in de taal die wordt gekozen door de partij waartegen de klacht gericht is, tenzij die taal een officiële taal van die partij is31)Voor de toepassing van dit artikel zijn de officiële talen van de Cariforum-staten Engels, Frans, Nederlands en Spaans, en de officiële talen van de EG die welke zijn vermeld in [artikel 249](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=VI&artikel=249&z=2008-12-29&g=2008-12-29). .
 
 ##### Artikel 219. Interpretatieregels
 
@@ -2969,13 +2969,13 @@ Arbitragepanels leggen de bepalingen van deze overeenkomst uit volgens de gebrui
 
 2. De scheidsrechters beschikken over gespecialiseerde kennis of ervaring op het gebied van het recht en de internationale handel. Zij zijn onafhankelijk, treden op persoonlijke titel op, nemen geen instructies aan van enige organisatie of regering, zijn niet verbonden aan de regering van een van de partijen en houden zich aan de aan het reglement van orde gehechte gedragscode.
 
-3. Het Handels- en ontwikkelingscomité Cariforum-EG kan een aanvullende lijst van vijftien (15) personen met sectorale expertise op een van de specifieke onder deze overeenkomst vallende onderwerpen vaststellen. Wanneer gebruik wordt gemaakt van de selectieprocedure van [artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=207&z=2008-10-15&g=2008-10-15) kan de voorzitter van het Handels- en ontwikkelingscomité Cariforum-EG gebruikmaken van die lijst wanneer de partijen ermee instemmen. Het Handels- en ontwikkelingscomité Cariforum-EG stelt een aanvullende lijst vast van vijftien (15) personen met expertise op de onder [titel IV, hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&z=2008-10-15&g=2008-10-15), vallende specifieke onderwerpen.
+3. Het Handels- en ontwikkelingscomité Cariforum-EG kan een aanvullende lijst van vijftien (15) personen met sectorale expertise op een van de specifieke onder deze overeenkomst vallende onderwerpen vaststellen. Wanneer gebruik wordt gemaakt van de selectieprocedure van [artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=207&z=2008-12-29&g=2008-12-29) kan de voorzitter van het Handels- en ontwikkelingscomité Cariforum-EG gebruikmaken van die lijst wanneer de partijen ermee instemmen. Het Handels- en ontwikkelingscomité Cariforum-EG stelt een aanvullende lijst vast van vijftien (15) personen met expertise op de onder [titel IV, hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&z=2008-12-29&g=2008-12-29), vallende specifieke onderwerpen.
 
 ##### Artikel 222. Relatie tot WTO-verplichtingen
 
 1. Arbitragepanels die krachtens deze overeenkomst zijn opgericht, doen geen uitspraak in geschillen die verband houden met de rechten en verplichtingen van elk van de partijen of van de overeenkomstsluitende Cariforum-staten krachtens de [Overeenkomst tot oprichting van de Wereldhandelsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) (WTO).
 
-2. Het beroep op de bepalingen in deze overeenkomst over de beslechting van geschillen doet geen afbreuk aan enige maatregel in het kader van de WTO, met inbegrip van die over de geschillenbeslechting. Wanneer echter een partij of een overeenkomstsluitende Cariforum-staat in verband met een specifieke maatregel een procedure voor de beslechting van een geschil heeft ingeleid, hetzij krachtens [artikel 206, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=206&z=2008-10-15&g=2008-10-15), van dit deel, hetzij krachtens de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), kan deze in verband met dezelfde maatregel geen procedure voor geschillenbeslechting in het andere forum inleiden totdat de eerste procedure is afgesloten. Voor de toepassing van dit lid worden procedures voor geschillenbeslechting krachtens de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) geacht te zijn ingeleid door het verzoek van een partij of een overeenkomstsluitende Cariforum-staat om instelling van een panel overeenkomstig artikel 6 van het WTO-memorandum van overeenstemming inzake de regels en procedures betreffende de beslechting van geschillen.
+2. Het beroep op de bepalingen in deze overeenkomst over de beslechting van geschillen doet geen afbreuk aan enige maatregel in het kader van de WTO, met inbegrip van die over de geschillenbeslechting. Wanneer echter een partij of een overeenkomstsluitende Cariforum-staat in verband met een specifieke maatregel een procedure voor de beslechting van een geschil heeft ingeleid, hetzij krachtens [artikel 206, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=206&z=2008-12-29&g=2008-12-29), van dit deel, hetzij krachtens de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), kan deze in verband met dezelfde maatregel geen procedure voor geschillenbeslechting in het andere forum inleiden totdat de eerste procedure is afgesloten. Voor de toepassing van dit lid worden procedures voor geschillenbeslechting krachtens de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) geacht te zijn ingeleid door het verzoek van een partij of een overeenkomstsluitende Cariforum-staat om instelling van een panel overeenkomstig artikel 6 van het WTO-memorandum van overeenstemming inzake de regels en procedures betreffende de beslechting van geschillen.
 
 3. Geen enkele bepaling van deze overeenkomst belet een partij of een overeenkomstsluitende Cariforum-staat een schorsing van verplichtingen die is toegestaan door het orgaan voor geschillenbeslechting van de WTO, ten uitvoer te leggen. Geen enkele bepaling van de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) belet de partijen voordelen in het kader van deze overeenkomst te schorsen.
 
@@ -2991,7 +2991,7 @@ Arbitragepanels leggen de bepalingen van deze overeenkomst uit volgens de gebrui
 
 1. Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een middel tot willekeurige of ongerechtvaardigde discriminatie tussen de partijen vormen wanneer soortgelijke omstandigheden heersen, of tot een verkapte beperking van de handel in goederen of diensten of de vestiging, wordt geen bepaling in deze overeenkomst uitgelegd als een beletsel voor het vaststellen of toepassen door de EG, de Cariforum-staten of een overeenkomstsluitende Cariforum-staat van maatregelen:
 
-- a. die noodzakelijk zijn voor de bescherming van de openbare veiligheid en de openbare zeden32)De partijen komen overeen dat, in overeenstemming met [titel IV, hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&z=2008-10-15&g=2008-10-15), maatregelen die nodig zijn om kinderarbeid te bestrijden geacht worden tot de maatregelen te behoren die nodig zijn om de openbare zeden of de gezondheid te beschermen.of de handhaving van de openbare orde;
+- a. die noodzakelijk zijn voor de bescherming van de openbare veiligheid en de openbare zeden32)De partijen komen overeen dat, in overeenstemming met [titel IV, hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=IV&hoofdstuk=5&z=2008-12-29&g=2008-12-29), maatregelen die nodig zijn om kinderarbeid te bestrijden geacht worden tot de maatregelen te behoren die nodig zijn om de openbare zeden of de gezondheid te beschermen.of de handhaving van de openbare orde;
 
 - b. die noodzakelijk zijn voor de bescherming van het leven of de gezondheid van mens, dier of plant;
 
@@ -3015,9 +3015,9 @@ Arbitragepanels leggen de bepalingen van deze overeenkomst uit volgens de gebrui
 
 - g. die betrekking hebben op voortbrengselen van gevangenisarbeid;
 
-- h. die strijdig zijn met de [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&artikel=68&z=2008-10-15&g=2008-10-15) en [77](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&artikel=77&z=2008-10-15&g=2008-10-15), mits het verschil in behandeling is bedoeld om directe belastingen op doeltreffende of billijke wijze te kunnen opleggen of innen ten aanzien van economische activiteiten, investeerders of dienstverleners uit de EG of uit een overeenkomstsluitende Cariforum-staat33)Maatregelen die bedoeld zijn om directe belastingen op billijke en doeltreffende wijze te kunnen opleggen en innen omvatten maatregelen die de EG of een overeenkomstsluitende Cariforum-staat op grond van zijn belastingstelsel neemt en die: i) van toepassing zijn op investeerders en dienstverleners die niet ingezeten zijn, gezien het feit dat de fiscale verplichtingen van niet-ingezetenen worden vastgesteld op grond van belastbare feiten die op het grondgebied van de EG of een overeenkomstsluitende Cariforum-staat hun oorsprong vinden of geschieden, of ii) van toepassing zijn op niet ingezetenen om belastingen op het grondgebied van de EG of een overeenkomstsluitende Cariforum-staat te kunnen opleggen en innen, of iii) van toepassing zijn op niet-ingezetenen of ingezetenen ter voorkoming van belastingontwijking of -ontduiking, uitvoeringsbepalingen daaronder begrepen, of iv) van toepassing zijn op gebruikers van diensten die op of vanaf het grondgebied van de andere partij worden verleend, om ervoor te zorgen dat door die gebruiker verschuldigde belastingen die hun bron op het grondgebied van de EG of een overeenkomstsluitende Cariforum-staat hebben, opgelegd of geïnd kunnen worden, of v) een onderscheid maken tussen investeerders en dienstverleners die belastingplichtig zijn ter zake van wereldwijd belastbare feiten en andere investeerder en dienstverleners, gezien het verschil in de aard van de heffingsgrondslag tussen hen, of vi) inkomen, winst, voordeel, verlies, aftrek of krediet van ingezeten personen of filialen, dan wel tussen gelieerde personen of filialen van dezelfde persoon vaststellen, toewijzen of omslaan, om de belastinggrondslag van de EG of de overeenkomstsluitende Cariforum-staat te behouden. De belastingvoorwaarden of -concepten van deze bepaling, onder h), en van deze voetnoot worden vastgesteld volgens de belastingdefinities en -concepten, dan wel gelijkwaardige of soortgelijke definities en concepten van het nationale recht van de EG of de overeenkomstsluitende Cariforumstaat al naargelang van wie de maatregel neemt. .
+- h. die strijdig zijn met de [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=2&artikel=68&z=2008-12-29&g=2008-12-29) en [77](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&hoofdstuk=3&artikel=77&z=2008-12-29&g=2008-12-29), mits het verschil in behandeling is bedoeld om directe belastingen op doeltreffende of billijke wijze te kunnen opleggen of innen ten aanzien van economische activiteiten, investeerders of dienstverleners uit de EG of uit een overeenkomstsluitende Cariforum-staat33)Maatregelen die bedoeld zijn om directe belastingen op billijke en doeltreffende wijze te kunnen opleggen en innen omvatten maatregelen die de EG of een overeenkomstsluitende Cariforum-staat op grond van zijn belastingstelsel neemt en die: i) van toepassing zijn op investeerders en dienstverleners die niet ingezeten zijn, gezien het feit dat de fiscale verplichtingen van niet-ingezetenen worden vastgesteld op grond van belastbare feiten die op het grondgebied van de EG of een overeenkomstsluitende Cariforum-staat hun oorsprong vinden of geschieden, of ii) van toepassing zijn op niet ingezetenen om belastingen op het grondgebied van de EG of een overeenkomstsluitende Cariforum-staat te kunnen opleggen en innen, of iii) van toepassing zijn op niet-ingezetenen of ingezetenen ter voorkoming van belastingontwijking of -ontduiking, uitvoeringsbepalingen daaronder begrepen, of iv) van toepassing zijn op gebruikers van diensten die op of vanaf het grondgebied van de andere partij worden verleend, om ervoor te zorgen dat door die gebruiker verschuldigde belastingen die hun bron op het grondgebied van de EG of een overeenkomstsluitende Cariforum-staat hebben, opgelegd of geïnd kunnen worden, of v) een onderscheid maken tussen investeerders en dienstverleners die belastingplichtig zijn ter zake van wereldwijd belastbare feiten en andere investeerder en dienstverleners, gezien het verschil in de aard van de heffingsgrondslag tussen hen, of vi) inkomen, winst, voordeel, verlies, aftrek of krediet van ingezeten personen of filialen, dan wel tussen gelieerde personen of filialen van dezelfde persoon vaststellen, toewijzen of omslaan, om de belastinggrondslag van de EG of de overeenkomstsluitende Cariforum-staat te behouden. De belastingvoorwaarden of -concepten van deze bepaling, onder h), en van deze voetnoot worden vastgesteld volgens de belastingdefinities en -concepten, dan wel gelijkwaardige of soortgelijke definities en concepten van het nationale recht van de EG of de overeenkomstsluitende Cariforumstaat al naargelang van wie de maatregel neemt. .
 
-2. De bepalingen van [titel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&z=2008-10-15&g=2008-10-15) en van bijlage IV zijn niet van toepassing op het socialezekerheidsstelsel van de EG of van de overeenkomstsluitende Cariforum-staten of op activiteiten op het grondgebied van de partijen die, al dan niet incidenteel, verband houden met de uitoefening van het overheidsgezag.
+2. De bepalingen van [titel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&z=2008-12-29&g=2008-12-29) en van bijlage IV zijn niet van toepassing op het socialezekerheidsstelsel van de EG of van de overeenkomstsluitende Cariforum-staten of op activiteiten op het grondgebied van de partijen die, al dan niet incidenteel, verband houden met de uitoefening van het overheidsgezag.
 
 ##### Artikel 225. Uitzonderingen met betrekking tot de nationale veiligheid
 
@@ -3095,7 +3095,7 @@ Arbitragepanels leggen de bepalingen van deze overeenkomst uit volgens de gebrui
 
 - ii. toezicht houden op de verdere uitwerking van de bepalingen van deze overeenkomst en beoordelen van de resultaten van de toepassing;
 
-- iii. maatregelen treffen om geschillen over de interpretatie of de toepassing van de overeenkomst in overeenstemming met het bepaalde in [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&z=2008-10-15&g=2008-10-15) te vermijden, en eventueel toch ontstane geschillen oplossen;
+- iii. maatregelen treffen om geschillen over de interpretatie of de toepassing van de overeenkomst in overeenstemming met het bepaalde in [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&z=2008-12-29&g=2008-12-29) te vermijden, en eventueel toch ontstane geschillen oplossen;
 
 - iv. de Gezamenlijke Raad Cariforum-EG bijstaan bij de vervulling van zijn taken;
 
@@ -3127,7 +3127,7 @@ Arbitragepanels leggen de bepalingen van deze overeenkomst uit volgens de gebrui
 
 - c. alle onder deze overeenkomst vallende onderwerpen behandelen en passende maatregelen nemen ter uitvoering van zijn taken;
 
-- d. besluiten nemen of aanbevelingen doen in de gevallen waarin deze overeenkomst hierin voorziet of wanneer de Gezamenlijke Raad Cariforum-EG hem deze uitvoeringsbevoegdheid heeft verleend. In die gevallen neemt het comité besluiten en doet het aanbevelingen overeenkomstig het bepaalde in [artikel 229, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=V&artikel=229&z=2008-10-15&g=2008-10-15).
+- d. besluiten nemen of aanbevelingen doen in de gevallen waarin deze overeenkomst hierin voorziet of wanneer de Gezamenlijke Raad Cariforum-EG hem deze uitvoeringsbevoegdheid heeft verleend. In die gevallen neemt het comité besluiten en doet het aanbevelingen overeenkomstig het bepaalde in [artikel 229, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=V&artikel=229&z=2008-12-29&g=2008-12-29).
 
 5. Het Handels- en ontwikkelingscomité Cariforum-EG komt als algemene regel eenmaal per jaar bijeen voor een algehele evaluatie van de tenuitvoerlegging van deze overeenkomst, het ene jaar in de EG en het volgende jaar in een overeenkomstsluitende Cariforum-staat; de datum en de agenda worden tevoren door de partijen in onderling overleg vastgesteld. Het comité houdt speciale werkvergaderingen om zijn taken uit hoofde van lid 3, onder a) en b), uit te voeren.
 
@@ -3187,7 +3187,7 @@ Arbitragepanels leggen de bepalingen van deze overeenkomst uit volgens de gebrui
 
 2. Onverminderd specifieke transparantiebepalingen in deze overeenkomst wordt de in dit artikel bedoelde informatie geacht te zijn verstrekt wanneer de informatie beschikbaar is gemaakt door middel van een passende kennisgeving aan de WTO of wanneer de informatie beschikbaar is gemaakt op een officiële, voor iedereen kosteloos toegankelijke website van de betrokken partij of overeenkomstsluitende Cariforum-staat.
 
-3. Geen enkele bepaling in deze overeenkomst verplicht een partij of de overeenkomstsluitende Cariforum-staten tot verstrekking van vertrouwelijke informatie wanneer bekendmaking ervan de rechtshandhaving belemmert, anderszins in strijd is met het openbaar belang of schadelijk is voor de handelsbelangen van bepaalde, openbare of particuliere, ondernemingen, behalve voor zover bekendmaking nodig mocht zijn in het kader van een procedure voor geschillenbeslechting als bedoeld in [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&z=2008-10-15&g=2008-10-15) van deze overeenkomst. Wanneer een krachtens [artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=207&z=2008-10-15&g=2008-10-15) opgericht panel bekendmaking nodig acht, ziet het erop toe dat de vertrouwelijkheid volledig in acht wordt genomen.
+3. Geen enkele bepaling in deze overeenkomst verplicht een partij of de overeenkomstsluitende Cariforum-staten tot verstrekking van vertrouwelijke informatie wanneer bekendmaking ervan de rechtshandhaving belemmert, anderszins in strijd is met het openbaar belang of schadelijk is voor de handelsbelangen van bepaalde, openbare of particuliere, ondernemingen, behalve voor zover bekendmaking nodig mocht zijn in het kader van een procedure voor geschillenbeslechting als bedoeld in [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&z=2008-12-29&g=2008-12-29) van deze overeenkomst. Wanneer een krachtens [artikel 207](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=III&hoofdstuk=2&afdeling=1&artikel=207&z=2008-12-29&g=2008-12-29) opgericht panel bekendmaking nodig acht, ziet het erop toe dat de vertrouwelijkheid volledig in acht wordt genomen.
 
 ##### Artikel 236. Dialoog over financiële kwesties
 
@@ -3345,27 +3345,27 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 1. Voor de toepassing van de economische partnerschapovereenkomst Cariforum-EG, hierna „de overeenkomst” genoemd, worden de volgende producten beschouwd als van oorsprong uit de EG:
 
-- a. volledig in de EG verkregen producten in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=6&z=2008-10-15&g=2008-10-15) van dit protocol;
+- a. volledig in de EG verkregen producten in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=6&z=2008-12-29&g=2008-12-29) van dit protocol;
 
-- b. in de EG verkregen producten, waarin materialen zijn verwerkt die daar niet volledig zijn verkregen, mits deze materialen in de EG een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=7&z=2008-10-15&g=2008-10-15).
+- b. in de EG verkregen producten, waarin materialen zijn verwerkt die daar niet volledig zijn verkregen, mits deze materialen in de EG een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=7&z=2008-12-29&g=2008-12-29).
 
 2. Voor de toepassing van de overeenkomst worden de volgende producten beschouwd als van oorsprong uit de Cariforum-staten:
 
-- a. volledig in de Cariforum-staten verkregen producten in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=6&z=2008-10-15&g=2008-10-15) van dit protocol;
+- a. volledig in de Cariforum-staten verkregen producten in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=6&z=2008-12-29&g=2008-12-29) van dit protocol;
 
-- b. in de Cariforum-staten verkregen producten, waarin materialen zijn verwerkt die daar niet volledig zijn verkregen, mits deze materialen in de betrokken Cariforum-staat een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=7&z=2008-10-15&g=2008-10-15).
+- b. in de Cariforum-staten verkregen producten, waarin materialen zijn verwerkt die daar niet volledig zijn verkregen, mits deze materialen in de betrokken Cariforum-staat een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=7&z=2008-12-29&g=2008-12-29).
 
 3. Voor de toepassing van lid 2 worden de gebieden van de Cariforum-staten als één gebied beschouwd.
 
-Producten van oorsprong die gemaakt zijn van materialen die volledig zijn verkregen in twee of meer Cariforum-staten of die daar een toereikende be- of verwerking hebben ondergaan, worden geacht van oorsprong te zijn uit de Cariforum-staat waar de laatste be- of verwerking heeft plaatsgevonden, mits deze be- of verwerking ingrijpender was dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-10-15&g=2008-10-15) van dit protocol genoemde be- of verwerkingen.
+Producten van oorsprong die gemaakt zijn van materialen die volledig zijn verkregen in twee of meer Cariforum-staten of die daar een toereikende be- of verwerking hebben ondergaan, worden geacht van oorsprong te zijn uit de Cariforum-staat waar de laatste be- of verwerking heeft plaatsgevonden, mits deze be- of verwerking ingrijpender was dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-12-29&g=2008-12-29) van dit protocol genoemde be- of verwerkingen.
 
 4. Voor de in bijlage X genoemde producten en de producten van tariefpost 1006 zijn de bepalingen van lid 3 pas na 1 oktober 2015 respectievelijk na 1 januari 2010 van toepassing.
 
 ##### Artikel 3. Cumulatie in de EG
 
-1. Voor de toepassing van [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-10-15&g=2008-10-15), worden materialen van oorsprong uit de Cariforum-staten, de LGO's of de andere ACS-staten beschouwd als van oorsprong uit de EG wanneer zij zijn verwerkt in een aldaar verkregen product. Zij behoeven zelf geen toereikende be- of verwerking te hebben ondergaan, mits de be- of verwerking ingrijpender is dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-10-15&g=2008-10-15) genoemde be- of verwerkingen.
+1. Voor de toepassing van [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-12-29&g=2008-12-29), worden materialen van oorsprong uit de Cariforum-staten, de LGO's of de andere ACS-staten beschouwd als van oorsprong uit de EG wanneer zij zijn verwerkt in een aldaar verkregen product. Zij behoeven zelf geen toereikende be- of verwerking te hebben ondergaan, mits de be- of verwerking ingrijpender is dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-12-29&g=2008-12-29) genoemde be- of verwerkingen.
 
-2. Voor de toepassing van [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-10-15&g=2008-10-15), worden be- en verwerkingen die in de Cariforum-staten, de LGO's of in de andere ACS-staten zijn verricht, geacht in de EG te zijn verricht wanneer de materialen in de EG een verdere be- of verwerking ondergaan die ingrijpender is dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-10-15&g=2008-10-15) genoemde be- of verwerkingen.
+2. Voor de toepassing van [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-12-29&g=2008-12-29), worden be- en verwerkingen die in de Cariforum-staten, de LGO's of in de andere ACS-staten zijn verricht, geacht in de EG te zijn verricht wanneer de materialen in de EG een verdere be- of verwerking ondergaan die ingrijpender is dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-12-29&g=2008-12-29) genoemde be- of verwerkingen.
 
 3. De cumulatie waarin de leden 1 en 2 voorzien, kan met betrekking tot de LGO's en de andere ACS-staten slechts worden toegepast indien:
 
@@ -3377,9 +3377,9 @@ Producten van oorsprong die gemaakt zijn van materialen die volledig zijn verkre
 
 ##### Artikel 4. Cumulatie in de Cariforum-staten
 
-1. Voor de toepassing van [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-10-15&g=2008-10-15), worden materialen van oorsprong uit de EG, de LGO's of de andere ACS-staten beschouwd als van oorsprong uit de Cariforum-staten wanneer zij zijn gebruikt bij de vervaardiging van een aldaar verkregen product. Zij behoeven geen toereikende be- of verwerking te hebben ondergaan, mits de be- of verwerking ingrijpender is dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-10-15&g=2008-10-15) genoemde be- of verwerkingen.
+1. Voor de toepassing van [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-12-29&g=2008-12-29), worden materialen van oorsprong uit de EG, de LGO's of de andere ACS-staten beschouwd als van oorsprong uit de Cariforum-staten wanneer zij zijn gebruikt bij de vervaardiging van een aldaar verkregen product. Zij behoeven geen toereikende be- of verwerking te hebben ondergaan, mits de be- of verwerking ingrijpender is dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-12-29&g=2008-12-29) genoemde be- of verwerkingen.
 
-2. Voor de toepassing van [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-10-15&g=2008-10-15), worden be- en verwerkingen die in de EG, de LGO's of in de andere ACS-staten zijn verricht, geacht in de Cariforum-staten te zijn verricht wanneer de materialen in de Cariforum-staten een verdere be- of verwerking ondergaan die ingrijpender is dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-10-15&g=2008-10-15) genoemde be- of verwerkingen.
+2. Voor de toepassing van [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-12-29&g=2008-12-29), worden be- en verwerkingen die in de EG, de LGO's of in de andere ACS-staten zijn verricht, geacht in de Cariforum-staten te zijn verricht wanneer de materialen in de Cariforum-staten een verdere be- of verwerking ondergaan die ingrijpender is dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-12-29&g=2008-12-29) genoemde be- of verwerkingen.
 
 3. De cumulatie waarin de leden 1 en 2 voorzien, kan met betrekking tot de LGO's en de andere ACS-staten slechts worden toegepast indien:
 
@@ -3397,11 +3397,11 @@ Producten van oorsprong die gemaakt zijn van materialen die volledig zijn verkre
 
 1. Op verzoek van de Cariforum-staten worden materialen van oorsprong uit een in bijlage VIII genoemd naburig ontwikkelingsland als materialen van oorsprong uit een Cariforum-staat beschouwd wanneer zij in een aldaar verkregen product zijn verwerkt.
 
-2. De verzoeken worden overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=VII&artikel=42&z=2008-10-15&g=2008-10-15) ingediend bij het speciaal comité voor douanesamenwerking en handelsbevordering.
+2. De verzoeken worden overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=VII&artikel=42&z=2008-12-29&g=2008-12-29) ingediend bij het speciaal comité voor douanesamenwerking en handelsbevordering.
 
 3. Deze materialen behoeven geen toereikende be- of verwerking te hebben ondergaan, mits:
 
-- a. de be- of verwerking in de Cariforum-staat ingrijpender is dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-10-15&g=2008-10-15) vermelde be- en verwerkingen;
+- a. de be- of verwerking in de Cariforum-staat ingrijpender is dan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-12-29&g=2008-12-29) vermelde be- en verwerkingen;
 
 - b. de Cariforum-staten, de EG en de betrokken naburige ontwikkelingslanden een overeenkomst hebben gesloten die voorziet in adequate administratieve samenwerkingsprocedures om de correcte toepassing van dit lid te garanderen.
 
@@ -3459,7 +3459,7 @@ Producten van oorsprong die gemaakt zijn van materialen die volledig zijn verkre
 
 ##### Artikel 7. Toereikende bewerking of verwerking
 
-1. Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-10-15&g=2008-10-15) worden niet volledig verkregen producten geacht een toereikende bewerking of verwerking te hebben ondergaan wanneer aan de voorwaarden van de lijst in bijlage II is voldaan.
+1. Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-12-29&g=2008-12-29) worden niet volledig verkregen producten geacht een toereikende bewerking of verwerking te hebben ondergaan wanneer aan de voorwaarden van de lijst in bijlage II is voldaan.
 
 2. De in lid 1 bedoelde voorwaarden geven voor alle onder de overeenkomst vallende producten aan welke be- of verwerkingen bij de vervaardiging gebruikte, niet van oorsprong zijnde materialen moeten hebben ondergaan, en gelden slechts voor die materialen. Dit betekent dat indien een product dat de oorsprong heeft verkregen doordat het aan de in de lijst genoemde voorwaarden heeft voldaan, als materiaal bij de vervaardiging van een ander product wordt gebruikt, de voorwaarden die van toepassing zijn op het product waarin het is verwerkt daarvoor niet gelden; er wordt dan geen rekening gehouden met de niet van oorsprong zijnde materialen die bij de vervaardiging ervan kunnen zijn gebruikt.
 
@@ -3469,11 +3469,11 @@ Producten van oorsprong die gemaakt zijn van materialen die volledig zijn verkre
 
 - b. de in de lijst vermelde maximumwaarden voor niet van oorsprong zijnde materialen door de toepassing van dit lid niet worden overschreden.
 
-4. De leden 1 tot en met 3 zijn van toepassing behoudens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-10-15&g=2008-10-15).
+4. De leden 1 tot en met 3 zijn van toepassing behoudens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-12-29&g=2008-12-29).
 
 ##### Artikel 8. Ontoereikende bewerking of verwerking
 
-1. Onverminderd lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprongsstatus te verlenen, ongeacht of aan de voorwaarden van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=7&z=2008-10-15&g=2008-10-15) is voldaan:
+1. Onverminderd lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprongsstatus te verlenen, ongeacht of aan de voorwaarden van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=7&z=2008-12-29&g=2008-12-29) is voldaan:
 
 - a. behandelingen om de producten tijdens vervoer en opslag in goede staat te bewaren;
 
@@ -3499,7 +3499,7 @@ Producten van oorsprong die gemaakt zijn van materialen die volledig zijn verkre
 
 - l. het aanbrengen of opdrukken van merken, etiketten, beeldmerken of andere soortgelijke onderscheidingstekens op de producten zelf of op de verpakking;
 
-- m. het mengen van producten, ook van verschillende soorten; mengen van suiker met andere stoffen35)Voor de toepassing van dit punt en met betrekking tot [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=7&z=2008-10-15&g=2008-10-15) (Toereikende bewerking of verwerking) komen de partijen overeen dat aan [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-10-15&g=2008-10-15), de uitleg moet worden gegeven dat het gebruik van één of meer materialen die al van oorsprong zijn uit het land van vervaardiging, betekent dat in dat land al een verwerking is uitgevoerd die verder gaat dan een „minimale bewerking”. ;
+- m. het mengen van producten, ook van verschillende soorten; mengen van suiker met andere stoffen35)Voor de toepassing van dit punt en met betrekking tot [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=7&z=2008-12-29&g=2008-12-29) (Toereikende bewerking of verwerking) komen de partijen overeen dat aan [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-12-29&g=2008-12-29), de uitleg moet worden gegeven dat het gebruik van één of meer materialen die al van oorsprong zijn uit het land van vervaardiging, betekent dat in dat land al een verwerking is uitgevoerd die verder gaat dan een „minimale bewerking”. ;
 
 - n. het eenvoudig samenvoegen van delen van artikelen tot een volledig artikel dan wel het uit elkaar nemen van artikelen;
 
@@ -3545,9 +3545,9 @@ Om de oorsprong van een product te bepalen, behoeft niet te worden nagegaan wat 
 
 ##### Artikel 13. Territorialiteitsbeginsel
 
-1. Aan de in [titel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&z=2008-10-15&g=2008-10-15) genoemde voorwaarden met betrekking tot het verkrijgen van de oorsprongsstatus moet in de Cariforumstaten of in de EG zonder onderbreking zijn voldaan, behoudens het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-10-15&g=2008-10-15).
+1. Aan de in [titel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&z=2008-12-29&g=2008-12-29) genoemde voorwaarden met betrekking tot het verkrijgen van de oorsprongsstatus moet in de Cariforumstaten of in de EG zonder onderbreking zijn voldaan, behoudens het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-12-29&g=2008-12-29).
 
-2. Wanneer uit de Cariforum-staten of de EG naar een ander land uitgevoerde producten van oorsprong terugkeren, worden zij, behoudens het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-10-15&g=2008-10-15), geacht geen product van oorsprong meer te zijn, tenzij ten genoegen van de douaneautoriteiten kan worden aangetoond:
+2. Wanneer uit de Cariforum-staten of de EG naar een ander land uitgevoerde producten van oorsprong terugkeren, worden zij, behoudens het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-12-29&g=2008-12-29), geacht geen product van oorsprong meer te zijn, tenzij ten genoegen van de douaneautoriteiten kan worden aangetoond:
 
 - a. dat de teruggestuurde goederen dezelfde zijn als de eerder uitgevoerde goederen, en
 
@@ -3575,7 +3575,7 @@ Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander
 
 ##### Artikel 15. Tentoonstellingen
 
-1. Op producten van oorsprong die vanuit een Cariforum-staat of vanuit de EG zijn verzonden naar een tentoonstelling in een ander land of gebied dan dat bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-10-15&g=2008-10-15), en die na de tentoonstelling zijn verkocht voor invoer in de EG of een Cariforum-staat, is bij die invoer de overeenkomst van toepassing, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
+1. Op producten van oorsprong die vanuit een Cariforum-staat of vanuit de EG zijn verzonden naar een tentoonstelling in een ander land of gebied dan dat bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-12-29&g=2008-12-29), en die na de tentoonstelling zijn verkocht voor invoer in de EG of een Cariforum-staat, is bij die invoer de overeenkomst van toepassing, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
 
 - a. een exporteur deze producten vanuit een Cariforum-staat of de EG naar het land van de tentoonstelling heeft verzonden en deze daar heeft tentoongesteld;
 
@@ -3585,7 +3585,7 @@ Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander
 
 - d. de producten vanaf het moment dat zij naar de tentoonstelling werden verzonden, niet voor andere doeleinden zijn gebruikt dan om op die tentoonstelling te worden vertoond.
 
-2. Overeenkomstig [titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&z=2008-10-15&g=2008-10-15) wordt een bewijs van oorsprong afgegeven of opgesteld, dat op de gebruikelijke wijze bij de douaneautoriteiten van het land van invoer wordt ingediend. Op dit bewijs moeten de naam en het adres van de tentoonstelling zijn vermeld. Zo nodig kunnen aanvullende bewijsstukken worden gevraagd ten aanzien van de omstandigheden waaronder de producten werden tentoongesteld.
+2. Overeenkomstig [titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&z=2008-12-29&g=2008-12-29) wordt een bewijs van oorsprong afgegeven of opgesteld, dat op de gebruikelijke wijze bij de douaneautoriteiten van het land van invoer wordt ingediend. Op dit bewijs moeten de naam en het adres van de tentoonstelling zijn vermeld. Zo nodig kunnen aanvullende bewijsstukken worden gevraagd ten aanzien van de omstandigheden waaronder de producten werden tentoongesteld.
 
 3. Lid 1 is van toepassing op alle tentoonstellingen, beurzen of soortgelijke openbare evenementen met een commercieel, industrieel, agrarisch of ambachtelijk karakter die niet voor particuliere doeleinden in winkels of bedrijfsruimten met het oog op de verkoop van buitenlandse producten worden gehouden, en gedurende welke de producten onder douanetoezicht blijven.
 
@@ -3597,9 +3597,9 @@ Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander
 
 - a. een certificaat inzake goederenverkeer EUR.1, waarvan het model in bijlage III is opgenomen, of
 
-- b. in de in [artikel 21, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=21&z=2008-10-15&g=2008-10-15), bedoelde gevallen, een verklaring van de exporteur op een factuur, pakbon of ander handelsdocument, waarin de producten voldoende duidelijk zijn omschreven om ze te kunnen identificeren, hierna „factuurverklaring” genoemd; de tekst van deze factuurverklaring is opgenomen in bijlage IV.
+- b. in de in [artikel 21, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=21&z=2008-12-29&g=2008-12-29), bedoelde gevallen, een verklaring van de exporteur op een factuur, pakbon of ander handelsdocument, waarin de producten voldoende duidelijk zijn omschreven om ze te kunnen identificeren, hierna „factuurverklaring” genoemd; de tekst van deze factuurverklaring is opgenomen in bijlage IV.
 
-2. In afwijking van lid 1 komen producten van oorsprong in de zin van dit protocol in de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=26&z=2008-10-15&g=2008-10-15) bedoelde gevallen voor de voordelen van de overeenkomst in aanmerking zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
+2. In afwijking van lid 1 komen producten van oorsprong in de zin van dit protocol in de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=26&z=2008-12-29&g=2008-12-29) bedoelde gevallen voor de voordelen van de overeenkomst in aanmerking zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
 
 3. Voor de toepassing van deze titel streven de exporteurs ernaar een taal te gebruiken die zowel door de Cariforum-staten als de EG wordt gebruikt.
 
@@ -3611,7 +3611,7 @@ Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander
 
 3. Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, moeten op verzoek van de douaneautoriteiten van het land van uitvoer waar dit certificaat wordt afgegeven, steeds de nodige documenten kunnen overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan alle andere voorwaarden van dit protocol is voldaan.
 
-4. Een certificaat inzake goederenverkeer EUR.1 wordt door de douaneautoriteiten van een lidstaat van de Europese Unie of van een Cariforum-staat afgegeven indien de betrokken producten kunnen worden beschouwd als producten van oorsprong uit de EG, uit een Cariforum-staat of uit een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-10-15&g=2008-10-15) genoemde landen en gebieden, en aan de andere voorwaarden van dit protocol is voldaan.
+4. Een certificaat inzake goederenverkeer EUR.1 wordt door de douaneautoriteiten van een lidstaat van de Europese Unie of van een Cariforum-staat afgegeven indien de betrokken producten kunnen worden beschouwd als producten van oorsprong uit de EG, uit een Cariforum-staat of uit een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-12-29&g=2008-12-29) genoemde landen en gebieden, en aan de andere voorwaarden van dit protocol is voldaan.
 
 5. De met de afgifte van het certificaat belaste douaneautoriteiten nemen de nodige maatregelen om te controleren of de producten van oorsprong zijn en of aan de andere voorwaarden van dit protocol is voldaan. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de administratie van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten. Zij zien er ook op toe dat de in lid 2 bedoelde formulieren correct zijn ingevuld. Zij gaan met name na of het voor de omschrijving van de producten bestemde vak zodanig is ingevuld dat frauduleuze toevoegingen niet mogelijk zijn.
 
@@ -3621,7 +3621,7 @@ Het is evenwel toegestaan producten van oorsprong per pijpleiding door een ander
 
 ##### Artikel 18. Afgifte achteraf van het certificaat inzake goederenverkeer EUR.1
 
-1. In afwijking van [artikel 17, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=17&z=2008-10-15&g=2008-10-15), kan een certificaat inzake goederenverkeer EUR.1 bij wijze van uitzondering worden afgegeven na de uitvoer van de producten waarop het betrekking heeft, indien
+1. In afwijking van [artikel 17, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=17&z=2008-12-29&g=2008-12-29), kan een certificaat inzake goederenverkeer EUR.1 bij wijze van uitzondering worden afgegeven na de uitvoer van de producten waarop het betrekking heeft, indien
 
 - a. dit door een vergissing, onopzettelijk verzuim of bijzondere omstandigheden niet bij de uitvoer is gebeurd, of
 
@@ -3653,9 +3653,9 @@ Voor producten van oorsprong die in een Cariforum-staat of in de EG onder toezic
 
 ##### Artikel 21. Voorwaarden voor het opstellen van een factuurverklaring
 
-1. De in [artikel 16, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=16&z=2008-10-15&g=2008-10-15), genoemde factuurverklaring kan worden opgesteld:
+1. De in [artikel 16, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=16&z=2008-12-29&g=2008-12-29), genoemde factuurverklaring kan worden opgesteld:
 
-- a. door een toegelaten exporteur in de zin van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=22&z=2008-10-15&g=2008-10-15), of
+- a. door een toegelaten exporteur in de zin van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=22&z=2008-12-29&g=2008-12-29), of
 
 - b. door elke exporteur, voor zendingen bestaande uit één of meer colli met producten van oorsprong, waarvan de totale waarde niet meer dan 6 000 EUR bedraagt.
 
@@ -3665,7 +3665,7 @@ Voor producten van oorsprong die in een Cariforum-staat of in de EG onder toezic
 
 4. De factuurverklaring, waarvan de tekst in bijlage IV bij dit protocol is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlage opgenomen taalversies, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. Indien de factuurverklaring met de hand wordt geschreven, moet dit met inkt en in hoofdletters geschieden.
 
-5. De factuurverklaring wordt door de exporteur met de hand ondertekend. Een toegelaten exporteur in de zin van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=22&z=2008-10-15&g=2008-10-15) behoeft deze verklaring echter niet te ondertekenen, mits hij de douaneautoriteiten van het land van uitvoer een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt alsof hij deze met de hand had ondertekend.
+5. De factuurverklaring wordt door de exporteur met de hand ondertekend. Een toegelaten exporteur in de zin van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=22&z=2008-12-29&g=2008-12-29) behoeft deze verklaring echter niet te ondertekenen, mits hij de douaneautoriteiten van het land van uitvoer een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt alsof hij deze met de hand had ondertekend.
 
 6. Een factuurverklaring kan door de exporteur worden opgesteld bij of na de uitvoer van de producten waarop zij betrekking heeft, maar moet uiterlijk twee jaar na de invoer van de producten waarop zij betrekking heeft in het land van invoer worden aangeboden.
 
@@ -3707,9 +3707,9 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 ##### Artikel 27. Informatieprocedure in verband met cumulatie
 
-1. Wanneer [artikel 2, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-10-15&g=2008-10-15), [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15), en [artikel 4, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15), worden toegepast, wordt het bewijs dat de materialen in de zin van dit protocol van oorsprong zijn uit een Cariforum-staat, de EG, een andere ACS-staat of een LGO geleverd door een certificaat inzake goederenverkeer EUR.1 of door de leveranciersverklaring waarvan het model in bijlage V A bij dit protocol is opgenomen, afgegeven door de exporteur in de staat of in de EG waaruit de materialen afkomstig zijn.
+1. Wanneer [artikel 2, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-12-29&g=2008-12-29), [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29), en [artikel 4, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29), worden toegepast, wordt het bewijs dat de materialen in de zin van dit protocol van oorsprong zijn uit een Cariforum-staat, de EG, een andere ACS-staat of een LGO geleverd door een certificaat inzake goederenverkeer EUR.1 of door de leveranciersverklaring waarvan het model in bijlage V A bij dit protocol is opgenomen, afgegeven door de exporteur in de staat of in de EG waaruit de materialen afkomstig zijn.
 
-2. Wanneer [artikel 2, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-10-15&g=2008-10-15), [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15), en [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15), worden toegepast, wordt het bewijs van de be- of verwerking in een Cariforum-staat, de EG, een andere ACS-staat of een LGO geleverd door de leveranciersverklaring waarvan het model in de bijlagen V A en V B bij dit protocol is opgenomen, afgegeven door de exporteur in de staat of in de EG waaruit de materialen afkomstig zijn.
+2. Wanneer [artikel 2, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-12-29&g=2008-12-29), [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29), en [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29), worden toegepast, wordt het bewijs van de be- of verwerking in een Cariforum-staat, de EG, een andere ACS-staat of een LGO geleverd door de leveranciersverklaring waarvan het model in de bijlagen V A en V B bij dit protocol is opgenomen, afgegeven door de exporteur in de staat of in de EG waaruit de materialen afkomstig zijn.
 
 3. Voor elke zending van materialen moet door de leverancier een afzonderlijke leveranciersverklaring worden opgesteld, hetzij op de handelsfactuur betreffende die zending of op een bijlage bij die factuur, hetzij op een pakbon of op een ander handelsdocument inzake die zending waarin de betrokken materialen voldoende nauwkeurig zijn omschreven om ze te kunnen identificeren.
 
@@ -3725,25 +3725,25 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 ##### Artikel 28. Bewijsstukken
 
-De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=17&z=2008-10-15&g=2008-10-15), en [artikel 21, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=21&z=2008-10-15&g=2008-10-15), bedoelde documenten aan de hand waarvan wordt aangetoond dat producten waarvoor een certificaat inzake goederenverkeer EUR.1 of een factuurverklaring is opgesteld, als producten van oorsprong uit een Cariforum-staat, uit de EG of uit een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-10-15&g=2008-10-15) bedoelde landen en gebieden kunnen worden aangemerkt en aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn:
+De in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=17&z=2008-12-29&g=2008-12-29), en [artikel 21, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=21&z=2008-12-29&g=2008-12-29), bedoelde documenten aan de hand waarvan wordt aangetoond dat producten waarvoor een certificaat inzake goederenverkeer EUR.1 of een factuurverklaring is opgesteld, als producten van oorsprong uit een Cariforum-staat, uit de EG of uit een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-12-29&g=2008-12-29) bedoelde landen en gebieden kunnen worden aangemerkt en aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn:
 
 - a. een rechtstreeks bewijs, bijvoorbeeld aan de hand van de boekhouding of de interne administratie van de exporteur of leverancier, van de door deze uitgevoerde be- of verwerkingen om de betrokken goederen te verkrijgen;
 
-- b. in een Cariforum-staat, in de EG of in een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-10-15&g=2008-10-15) bedoelde landen en gebieden afgegeven of opgestelde en volgens het nationale recht gebruikte documenten waaruit de oorsprong van de gebruikte materialen blijkt;
+- b. in een Cariforum-staat, in de EG of in een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-12-29&g=2008-12-29) bedoelde landen en gebieden afgegeven of opgestelde en volgens het nationale recht gebruikte documenten waaruit de oorsprong van de gebruikte materialen blijkt;
 
-- c. in een Cariforum-staat, in de EG of in een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15) bedoelde landen en gebieden afgegeven of opgestelde en volgens het nationale recht gebruikte documenten waaruit de be- of verwerking van de materialen in de Cariforum-staten, in de EG of in een of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15) bedoelde landen en gebieden blijkt;
+- c. in een Cariforum-staat, in de EG of in een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29) bedoelde landen en gebieden afgegeven of opgestelde en volgens het nationale recht gebruikte documenten waaruit de be- of verwerking van de materialen in de Cariforum-staten, in de EG of in een of een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29) bedoelde landen en gebieden blijkt;
 
-- d. certificaten inzake goederenverkeer EUR.1 of factuurverklaringen waaruit de oorsprongsstatus van de gebruikte materialen blijkt, die overeenkomstig dit protocol in de Cariforum-staten, in de EG of in een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-10-15&g=2008-10-15) bedoelde landen en gebieden zijn afgegeven of opgesteld.
+- d. certificaten inzake goederenverkeer EUR.1 of factuurverklaringen waaruit de oorsprongsstatus van de gebruikte materialen blijkt, die overeenkomstig dit protocol in de Cariforum-staten, in de EG of in een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-12-29&g=2008-12-29) bedoelde landen en gebieden zijn afgegeven of opgesteld.
 
 ##### Artikel 29. Bewaring van het bewijs van oorsprong en de bewijsstukken
 
-1. Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, bewaren de in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=17&z=2008-10-15&g=2008-10-15), bedoelde documenten gedurende ten minste drie jaar.
+1. Exporteurs die om de afgifte van een certificaat inzake goederenverkeer EUR.1 verzoeken, bewaren de in [artikel 17, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=17&z=2008-12-29&g=2008-12-29), bedoelde documenten gedurende ten minste drie jaar.
 
-2. Exporteurs die een factuurverklaring opstellen, bewaren een kopie van deze factuurverklaring alsmede de in [artikel 21, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=21&z=2008-10-15&g=2008-10-15), bedoelde documenten gedurende ten minste drie jaar.
+2. Exporteurs die een factuurverklaring opstellen, bewaren een kopie van deze factuurverklaring alsmede de in [artikel 21, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=21&z=2008-12-29&g=2008-12-29), bedoelde documenten gedurende ten minste drie jaar.
 
-3. De leverancier die een leveranciersverklaring heeft opgesteld, bewaart kopieën van de verklaring en van de factuur, de pakbon of het andere handelsdocument waaraan zijn verklaring werd gehecht alsmede de in [artikel 27, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=27&z=2008-10-15&g=2008-10-15), bedoelde bewijsstukken gedurende ten minste drie jaar.
+3. De leverancier die een leveranciersverklaring heeft opgesteld, bewaart kopieën van de verklaring en van de factuur, de pakbon of het andere handelsdocument waaraan zijn verklaring werd gehecht alsmede de in [artikel 27, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=27&z=2008-12-29&g=2008-12-29), bedoelde bewijsstukken gedurende ten minste drie jaar.
 
-4. De douaneautoriteiten van het land van uitvoer die een certificaat inzake goederenverkeer EUR.1 afgeven, bewaren het in [artikel 17, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=17&z=2008-10-15&g=2008-10-15), bedoelde aanvraagformulier gedurende ten minste drie jaar.
+4. De douaneautoriteiten van het land van uitvoer die een certificaat inzake goederenverkeer EUR.1 afgeven, bewaren het in [artikel 17, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=IV&artikel=17&z=2008-12-29&g=2008-12-29), bedoelde aanvraagformulier gedurende ten minste drie jaar.
 
 5. De douaneautoriteiten van het land van invoer bewaren de certificaten inzake goederenverkeer EUR.1 en de factuurverklaringen die bij hen worden ingediend gedurende ten minste drie jaar.
 
@@ -3769,9 +3769,9 @@ Certificaten inzake goederenverkeer EUR.1 en factuur- en leveranciersverklaringe
 
 ##### Artikel 33. Wederzijdse bijstand
 
-Ten behoeve van de correcte toepassing van dit protocol verlenen de EG, de Cariforum-staten en de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-10-15&g=2008-10-15) bedoelde landen elkaar, via de bevoegde douaneautoriteiten, bijstand bij de controle van de echtheid van de certificaten inzake goederenverkeer EUR.1, de factuurverklaringen of de leveranciersverklaringen en van de juistheid van de daarin vermelde gegevens.
+Ten behoeve van de correcte toepassing van dit protocol verlenen de EG, de Cariforum-staten en de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-12-29&g=2008-12-29) bedoelde landen elkaar, via de bevoegde douaneautoriteiten, bijstand bij de controle van de echtheid van de certificaten inzake goederenverkeer EUR.1, de factuurverklaringen of de leveranciersverklaringen en van de juistheid van de daarin vermelde gegevens.
 
-De geraadpleegde autoriteiten verstrekken de relevante gegevens over de omstandigheden waaronder het product is vervaardigd, met name over de omstandigheden waaronder de regels van oorsprong in de verschillende betrokken Cariforum-staten, lidstaten van de Europese Unie en andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15), en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-10-15&g=2008-10-15) bedoelde landen in acht zijn genomen.
+De geraadpleegde autoriteiten verstrekken de relevante gegevens over de omstandigheden waaronder het product is vervaardigd, met name over de omstandigheden waaronder de regels van oorsprong in de verschillende betrokken Cariforum-staten, lidstaten van de Europese Unie en andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29), en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-12-29&g=2008-12-29) bedoelde landen in acht zijn genomen.
 
 ##### Artikel 34. Controle van het bewijs van oorsprong
 
@@ -3783,7 +3783,7 @@ De geraadpleegde autoriteiten verstrekken de relevante gegevens over de omstandi
 
 4. Indien de douaneautoriteiten van het land van invoer besluiten de preferentiële behandeling niet toe te kennen zolang de uitslag van de controle niet bekend is, stellen zij de importeur voor de producten vrij te geven onder voorbehoud van de noodzakelijk geachte conservatoire maatregelen.
 
-5. De resultaten van de controle worden zo spoedig mogelijk medegedeeld aan de douaneautoriteiten die de controle hebben aangevraagd. Hierbij moet duidelijk worden aangegeven of de documenten echt zijn, of de betrokken producten als producten van oorsprong uit een Cariforum-staat, uit de EG of uit een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-10-15&g=2008-10-15) bedoelde landen kunnen worden beschouwd en of aan de andere voorwaarden van dit protocol is voldaan.
+5. De resultaten van de controle worden zo spoedig mogelijk medegedeeld aan de douaneautoriteiten die de controle hebben aangevraagd. Hierbij moet duidelijk worden aangegeven of de documenten echt zijn, of de betrokken producten als producten van oorsprong uit een Cariforum-staat, uit de EG of uit een van de andere in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-12-29&g=2008-12-29) bedoelde landen kunnen worden beschouwd en of aan de andere voorwaarden van dit protocol is voldaan.
 
 6. Indien bij gegronde twijfel binnen tien maanden na de controleaanvraag geen antwoord is ontvangen of indien het antwoord onvoldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kennen de aanvragende douaneautoriteiten de preferentiële behandeling niet toe, behoudens in buitengewone omstandigheden.
 
@@ -3805,7 +3805,7 @@ Het kantoor dat het inlichtingenblad heeft afgegeven, bewaart gedurende ten mins
 
 ##### Artikel 36. Geschillenbeslechting
 
-Geschillen ten aanzien van de in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=V&artikel=34&z=2008-10-15&g=2008-10-15) en [35](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=V&artikel=35&z=2008-10-15&g=2008-10-15) bedoelde controles tussen de douaneautoriteiten die de controle aanvragen en de douaneautoriteiten die de controle moeten uitvoeren die niet onderling kunnen worden geregeld, alsmede problemen in verband met de interpretatie van dit protocol worden voorgelegd aan het speciaal comité voor douanesamenwerking en handelsbevordering.
+Geschillen ten aanzien van de in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=V&artikel=34&z=2008-12-29&g=2008-12-29) en [35](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=V&artikel=35&z=2008-12-29&g=2008-12-29) bedoelde controles tussen de douaneautoriteiten die de controle aanvragen en de douaneautoriteiten die de controle moeten uitvoeren die niet onderling kunnen worden geregeld, alsmede problemen in verband met de interpretatie van dit protocol worden voorgelegd aan het speciaal comité voor douanesamenwerking en handelsbevordering.
 
 Op de regeling van geschillen tussen de importeur en de douaneautoriteiten van het land van invoer is in alle gevallen de wetgeving van het land van invoer van toepassing.
 
@@ -3835,7 +3835,7 @@ Er worden sancties getroffen tegen eenieder die een document met onjuiste gegeve
 
 - –. aard en hoeveelheid van de materialen die van oorsprong zijn uit derde landen,
 
-- –. aard en hoeveelheid van de materialen die van oorsprong zijn uit de Cariforum-staten of de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-10-15&g=2008-10-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15) bedoelde landen en gebieden, of van de materialen die in die landen of gebieden een verwerking hebben ondergaan,
+- –. aard en hoeveelheid van de materialen die van oorsprong zijn uit de Cariforum-staten of de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=3&z=2008-12-29&g=2008-12-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29) bedoelde landen en gebieden, of van de materialen die in die landen of gebieden een verwerking hebben ondergaan,
 
 - –. fabricageprocedés,
 
@@ -3883,7 +3883,7 @@ Het formulier kan door het comité worden gewijzigd.
 
 4. Be- en verwerkingen in Ceuta, Melilla of de EG worden geacht in een Cariforum-staat te zijn verricht wanneer de materialen in een Cariforum-staat een verdere be- of verwerking ondergaan.
 
-5. Voor de toepassing van de leden 3 en 4 worden de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-10-15&g=2008-10-15) van dit protocol genoemde ontoereikende be- en verwerkingen niet als be- of verwerking beschouwd.
+5. Voor de toepassing van de leden 3 en 4 worden de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=8&z=2008-12-29&g=2008-12-29) van dit protocol genoemde ontoereikende be- en verwerkingen niet als be- of verwerking beschouwd.
 
 6. Ceuta en Melilla worden als een enkel gebied beschouwd.
 
@@ -3895,17 +3895,17 @@ De Gezamenlijke Raad Cariforum-EG kan besluiten dit protocol te wijzigen.
 
 ##### Artikel 42. Taken van het speciaal comité voor douanesamenwerking en handelsbevordering
 
-Overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=V&artikel=36&z=2008-10-15&g=2008-10-15) van de overeenkomst heeft het speciaal comité voor douanesamenwerking en handelsbevordering tot taak:
+Overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=V&artikel=36&z=2008-12-29&g=2008-12-29) van de overeenkomst heeft het speciaal comité voor douanesamenwerking en handelsbevordering tot taak:
 
-- a. overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-10-15&g=2008-10-15) besluiten te nemen over cumulatie;
+- a. overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=5&z=2008-12-29&g=2008-12-29) besluiten te nemen over cumulatie;
 
-- b. overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=V&artikel=39&z=2008-10-15&g=2008-10-15) besluiten te nemen over afwijkingen van dit protocol;
+- b. overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=V&artikel=39&z=2008-12-29&g=2008-12-29) besluiten te nemen over afwijkingen van dit protocol;
 
 - c. toezicht te houden op de uitvoering en het beheer van dit protocol.
 
 ##### Artikel 43. Nieuw onderzoek
 
-Drie jaar na de ondertekening van de overeenkomst onderzoeken de partijen opnieuw de bepalingen van [artikel 2, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-10-15&g=2008-10-15), en [artikel 4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-10-15&g=2008-10-15), teneinde na te gaan of de lijst van producten in bijlage X bij dit protocol moet worden ingekort.
+Drie jaar na de ondertekening van de overeenkomst onderzoeken de partijen opnieuw de bepalingen van [artikel 2, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=2&z=2008-12-29&g=2008-12-29), en [artikel 4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&titeldeel=II&artikel=4&z=2008-12-29&g=2008-12-29), teneinde na te gaan of de lijst van producten in bijlage X bij dit protocol moet worden ingekort.
 
 ##### Artikel 44. Bijlagen
 
@@ -4025,7 +4025,7 @@ Verzoeken om de verstrekking van documenten of de kennisgeving van besluiten wor
 
 - a. de soevereiniteit van een overeenkomstsluitende Cariforumstaat of van een lidstaat van de Europese Unie waaraan op grond van dit protocol om bijstand is gevraagd, zou kunnen aantasten, of
 
-- b. de openbare orde, de veiligheid of andere wezenlijke belangen in gevaar zou kunnen brengen, in het bijzonder in de in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&artikel=10&z=2008-10-15&g=2008-10-15), bedoelde gevallen, of
+- b. de openbare orde, de veiligheid of andere wezenlijke belangen in gevaar zou kunnen brengen, in het bijzonder in de in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&artikel=10&z=2008-12-29&g=2008-12-29), bedoelde gevallen, of
 
 - c. tot schending van een industrieel geheim, handelsgeheim of beroepsgeheim zou leiden.
 
@@ -4071,7 +4071,7 @@ De partijen en de overeenkomstsluitende Cariforum-staten brengen elkaar geen kos
 
 3. Onverminderd het bepaalde in lid 1 prevaleert dit protocol boven bilaterale overeenkomsten inzake wederzijdse bijstand die tussen afzonderlijke lidstaten van de Europese Unie en een overeenkomstsluitende Cariforum-staat zijn of kunnen worden gesloten, indien de bepalingen van die overeenkomsten strijdig zijn met die van dit protocol.
 
-4. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de partijen onderling overleg om deze op te lossen in het kader van het bij [artikel 36 van de economische partnerschapsovereenkomst Cariforum-EG](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=4&artikel=36&z=2008-10-15&g=2008-10-15) ingestelde speciaal comité voor douanesamenwerking en handelsbevordering.
+4. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de partijen onderling overleg om deze op te lossen in het kader van het bij [artikel 36 van de economische partnerschapsovereenkomst Cariforum-EG](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&hoofdstuk=4&artikel=36&z=2008-12-29&g=2008-12-29) ingestelde speciaal comité voor douanesamenwerking en handelsbevordering.
 
 De partijen en de overeenkomstsluitende Cariforum-staten,
 
@@ -4119,7 +4119,7 @@ Komen het volgende overeen:
 
 ##### Artikel 3. Kunstenaars en andere professionals uit de cultuursector en cultuurbeoefenaars
 
-1. De partijen en de overeenkomstsluitende Cariforum-staten streven ernaar om in overeenstemming met hun respectieve wetgeving de binnenkomst en het tijdelijke verblijf op hun grondgebied te vergemakkelijken van kunstenaars en andere professionals uit de cultuursector en cultuurbeoefenaars van de andere partij of, in voorkomend geval, uit de overeenkomstsluitende Cariforum-staten, die geen baat hebben bij de krachtens [titel II van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&z=2008-10-15&g=2008-10-15) aangegane verplichtingen en die
+1. De partijen en de overeenkomstsluitende Cariforum-staten streven ernaar om in overeenstemming met hun respectieve wetgeving de binnenkomst en het tijdelijke verblijf op hun grondgebied te vergemakkelijken van kunstenaars en andere professionals uit de cultuursector en cultuurbeoefenaars van de andere partij of, in voorkomend geval, uit de overeenkomstsluitende Cariforum-staten, die geen baat hebben bij de krachtens [titel II van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=II&z=2008-12-29&g=2008-12-29) aangegane verplichtingen en die
 
 - a. kunstenaars, acteurs, technici en andere professionals uit de cultuursector en cultuurbeoefenaars van de andere partij zijn en betrokken zijn bij de opname van speelfilms of televisieprogramma's, of die
 
@@ -4145,7 +4145,7 @@ mits zij hun diensten niet aan het grote publiek verkopen of deze niet zelf aanb
 
 1. De partijen streven ernaar de overeenkomstsluitende Cariforum-staten technische bijstand te verlenen, teneinde hen te helpen bij de ontwikkeling van hun cultuurindustrie, de ontwikkeling en uitvoering van hun cultuurbeleid en de bevordering van de productie en uitwisseling van culturele goederen en diensten.
 
-2. Onverminderd [artikel 7 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) stemmen de partijen ermee in samen te werken, onder meer door ondersteuning door middel van diverse maatregelen, zoals opleiding, de uitwisseling van informatie, kennis en ervaringen, de verlening van advies over beleid en wetgeving en over het gebruik en de overdracht van technologie en knowhow, te bevorderen.
+2. Onverminderd [artikel 7 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) stemmen de partijen ermee in samen te werken, onder meer door ondersteuning door middel van diverse maatregelen, zoals opleiding, de uitwisseling van informatie, kennis en ervaringen, de verlening van advies over beleid en wetgeving en over het gebruik en de overdracht van technologie en knowhow, te bevorderen.
 
 Technische bijstand kan ook de samenwerking tussen particuliere ondernemingen, niet-gouvernementele organisaties en publiekprivate partnerschappen bevorderen.
 
@@ -4155,7 +4155,7 @@ Technische bijstand kan ook de samenwerking tussen particuliere ondernemingen, n
 
 1. De partijen stimuleren onderhandelingen over nieuwe en de uitvoering van bestaande coproductieovereenkomsten tussen één of meer lidstaten van de Europese Unie en één of meer overeenkomstsluitende Cariforum-staten.
 
-2. De partijen en de overeenkomstsluitende Cariforum-staten vergemakkelijken, in overeenstemming met hun respectieve wetgeving, de toegang tot hun markt voor coproducties tussen één of meer producenten uit de EG en één of meer producenten uit overeenkomstsluitende Cariforum-staten, onder meer door de toekenning van een preferentiële behandeling en, onverminderd [artikel 7 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15), de bevordering van ondersteuning door middel van de organisatie van festivals, seminars en dergelijke initiatieven.
+2. De partijen en de overeenkomstsluitende Cariforum-staten vergemakkelijken, in overeenstemming met hun respectieve wetgeving, de toegang tot hun markt voor coproducties tussen één of meer producenten uit de EG en één of meer producenten uit overeenkomstsluitende Cariforum-staten, onder meer door de toekenning van een preferentiële behandeling en, onverminderd [artikel 7 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29), de bevordering van ondersteuning door middel van de organisatie van festivals, seminars en dergelijke initiatieven.
 
 - a. Audiovisuele coproducties genieten in de EG een preferentiële markttoegang in de zin van lid 2 wanneer zij als Europese producties overeenkomstig artikel 1, onder n) i), van [Richtlijn 89/552/EEG](31989L0552)36)[Richtlijn 89/552/EEG](31989L0552) van het Europees Parlement en de Raad van 3 oktober betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake de uitoefening van televisieomroepactiviteiten (PB L 298 van 17.10.1989, blz. 23). Richtlijn laatstelijk gewijzigd bij [Richtlijn 2007/65/EG](32007L0065) (PB L 332, van 18.12.2007, blz. 27). kunnen worden beschouwd, met het oog op de bevordering van audiovisuele werken overeenkomstig artikel 3 decies, lid 1, en artikel 4, lid 1, van [Richtlijn 89/552/EEG](31989L0552). Een dergelijke preferentiële behandeling wordt onder de volgende voorwaarden toegekend:
 
@@ -4179,11 +4179,11 @@ Technische bijstand kan ook de samenwerking tussen particuliere ondernemingen, n
 
 1. Elke partij stimuleert waar nodig de bevordering van zijn gebied als locatie voor de opname van speelfilms en televisieprogramma's.
 
-2. In afwijking van [titel I van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&z=2008-10-15&g=2008-10-15) staan de partijen en de overeenkomstsluitende Cariforum-staten, in overeenstemming met hun respectieve wetgeving, toe dat het technische materiaal en de technische uitrusting die door professionals uit de cultuursector en cultuurbeoefenaars voor de opname van speelfilms en televisieprogramma's worden benodigd, tijdelijk uit het grondgebied van de ene partij in dat van de andere partij worden ingevoerd.
+2. In afwijking van [titel I van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=II&titeldeel=I&z=2008-12-29&g=2008-12-29) staan de partijen en de overeenkomstsluitende Cariforum-staten, in overeenstemming met hun respectieve wetgeving, toe dat het technische materiaal en de technische uitrusting die door professionals uit de cultuursector en cultuurbeoefenaars voor de opname van speelfilms en televisieprogramma's worden benodigd, tijdelijk uit het grondgebied van de ene partij in dat van de andere partij worden ingevoerd.
 
 ##### Artikel 7. Uitvoerende kunsten
 
-1. Onverminderd [artikel 7 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) stemmen de partijen ermee in om in overeenstemming met hun respectieve wetgeving samen te werken, onder meer door de bevordering van nauwere contacten tussen beoefenaren van de uitvoerende kunsten op gebieden als beroepsuitwisselingen en -opleiding, met name ten aanzien van de deelname aan audities, de ontwikkeling van netwerken en de bevordering van netwerking.
+1. Onverminderd [artikel 7 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) stemmen de partijen ermee in om in overeenstemming met hun respectieve wetgeving samen te werken, onder meer door de bevordering van nauwere contacten tussen beoefenaren van de uitvoerende kunsten op gebieden als beroepsuitwisselingen en -opleiding, met name ten aanzien van de deelname aan audities, de ontwikkeling van netwerken en de bevordering van netwerking.
 
 2. De partijen en de overeenkomstsluitende Cariforum-staten stimuleren gezamenlijke producties op het gebied van de uitvoerende kunsten tussen producenten uit één of meer lidstaten van de Europese Unie en één of meer overeenkomstsluitende Cariforum-staten.
 
@@ -4191,7 +4191,7 @@ Technische bijstand kan ook de samenwerking tussen particuliere ondernemingen, n
 
 ##### Artikel 8. Publicaties
 
-Onverminderd [artikel 7 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) stemmen de partijen ermee in om in overeenstemming met hun respectieve wetgeving samen te werken, onder meer door de bevordering van de uitwisseling van publicaties met de andere partij en de verspreiding van publicaties van de andere partij op gebieden als
+Onverminderd [artikel 7 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) stemmen de partijen ermee in om in overeenstemming met hun respectieve wetgeving samen te werken, onder meer door de bevordering van de uitwisseling van publicaties met de andere partij en de verspreiding van publicaties van de andere partij op gebieden als
 
 - a. de organisatie van beurzen, seminars en literaire en dergelijke evenementen in verband met publicaties, met inbegrip van mobiele faciliteiten voor openbare lezingen;
 
@@ -4201,6 +4201,6 @@ Onverminderd [artikel 7 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 9. Bescherming van bezienswaardigheden en historische monumenten
 
-Onverminderd [artikel 7 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-10-15&g=2008-10-15) stemmen de partijen ermee in samen te werken, onder meer door de bevordering van ondersteuning om de uitwisseling van kennis en goede praktijken betreffende de bescherming van bezienswaardigheden en historische monumenten te stimuleren met het oog op de werelderfgoedlijst van Unesco; hiertoe bevorderen zij de uitwisseling van deskundigen, werken zij samen op het gebied van beroepsopleiding, organiseren zij bewustmakingscampagnes onder de plaatselijke bevolking en adviseren zij over de bescherming van historische monumenten en beschermde zones en over wetgeving en maatregelen ten behoeve van het culturele erfgoed, en met name de integratie van dat erfgoed in het lokale leven. Deze samenwerking geschiedt in overeenstemming met de respectieve wetgeving van de partijen en overeenkomstsluitende Cariforum-staten en laat de voorbehouden in de lijst van verbintenissen in bijlage IV bij de overeenkomst onverlet.
+Onverminderd [artikel 7 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003118&deel=I&artikel=7&z=2008-12-29&g=2008-12-29) stemmen de partijen ermee in samen te werken, onder meer door de bevordering van ondersteuning om de uitwisseling van kennis en goede praktijken betreffende de bescherming van bezienswaardigheden en historische monumenten te stimuleren met het oog op de werelderfgoedlijst van Unesco; hiertoe bevorderen zij de uitwisseling van deskundigen, werken zij samen op het gebied van beroepsopleiding, organiseren zij bewustmakingscampagnes onder de plaatselijke bevolking en adviseren zij over de bescherming van historische monumenten en beschermde zones en over wetgeving en maatregelen ten behoeve van het culturele erfgoed, en met name de integratie van dat erfgoed in het lokale leven. Deze samenwerking geschiedt in overeenstemming met de respectieve wetgeving van de partijen en overeenkomstsluitende Cariforum-staten en laat de voorbehouden in de lijst van verbintenissen in bijlage IV bij de overeenkomst onverlet.
 
 GEDAAN te Bridgetown, Barbados, de vijftiende oktober tweeduizend acht.
