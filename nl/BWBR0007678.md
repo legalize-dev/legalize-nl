@@ -4,7 +4,7 @@ identifier: "BWBR0007678"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2008-10-01"
+last_updated: "2008-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007678"
 soort: "wet"
@@ -56,7 +56,7 @@ Het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing va
 
 ##### Artikel 2
 
-Het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2008-10-01&g=2008-10-01) genoemde verdrag, wordt in Nederland onder de naam "belasting zware motorrijtuigen" geheven ter zake van het gebruik van de autosnelweg met een zwaar motorrijtuig.
+Het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2008-12-30&g=2008-12-30) genoemde verdrag, wordt in Nederland onder de naam "belasting zware motorrijtuigen" geheven ter zake van het gebruik van de autosnelweg met een zwaar motorrijtuig.
 
 ### Afdeling 2. Definities
 
@@ -108,7 +108,7 @@ Als houder wordt aangemerkt:
 
 ##### Artikel 7
 
-1. Indien een motorrijtuig als bedoeld in [artikel 6, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=6&z=2008-10-01&g=2008-10-01), feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het opgegeven kenteken is gesteld, kan de inspecteur:
+1. Indien een motorrijtuig als bedoeld in [artikel 6, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=6&z=2008-12-30&g=2008-12-30), feitelijk en niet geheel voorbijgaand ter beschikking staat van een ander dan degene op wiens naam het opgegeven kenteken is gesteld, kan de inspecteur:
 
 - a. deze op gezamenlijk verzoek aanmerken als degene die het motorrijtuig houdt;
 
@@ -200,7 +200,7 @@ Het tijdvak waarover de belasting moet worden betaald is een dag, een week, een 
 
 3. Op bij ministeriële regeling aangewezen aangiftepunten kan door invoering van tijdvak, tarief alsmede identiteit en nationaliteit van het motorrijtuig in de op deze aangiftepunten aanwezige betalingsapparatuur aangifte worden gedaan, gelijktijdig met de ingevolge het tweede lid te verrichten betaling.
 
-4. [Hoofdstuk II van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II) is, met uitzondering van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=8&z=2008-10-01&g=2008-10-01), niet van toepassing op de in het derde lid bedoelde aangifte.
+4. [Hoofdstuk II van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II) is, met uitzondering van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=III&artikel=8&z=2008-12-30&g=2008-12-30), niet van toepassing op de in het derde lid bedoelde aangifte.
 
 ### Hoofdstuk V. Het certificaat
 
@@ -222,13 +222,13 @@ Vervallen
 
 ##### Artikel 14
 
-1. Op verzoek wordt teruggaaf verleend van belasting die voor een tijdvak van een jaar is betaald.
+1. Op verzoek wordt aan de houder van het motorrijtuig teruggaaf van belasting verleend.
 
-2. De teruggaaf wordt verleend over het op de datum van indiening van het verzoek nog niet verstreken aantal hele maanden van het tijdvak en bedraagt per hele maand een twaalfde deel van de over het tijdvak betaalde belasting.
+2. De teruggaaf wordt verleend over het op de datum van indiening van het verzoek nog niet verstreken aantal dagen van het tijdvak. [Artikel 14a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2008-12-30&g=2008-12-30), is van overeenkomstige toepassing.
 
 3. Het verzoek om teruggaaf wordt gedaan bij de inspecteur, die daarop bij voor bezwaar vatbare beschikking beslist.
 
-4. De ingevolge het tweede lid berekende teruggaaf wordt verminderd met een bedrag van € 25 voor administratiekosten.
+4. De ingevolge het tweede lid berekende teruggaaf wordt verminderd met een bedrag van € 25 voor administratiekosten. Onder bij ministeriële regeling te stellen voorwaarden wordt geen vermindering toegepast.
 
 ##### Artikel 14a
 
@@ -282,7 +282,7 @@ Vrijstelling van belasting wordt, onder bij algemene maatregel van bestuur te st
 
 ##### Artikel 16
 
-Voor motorrijtuigen die in Griekenland geregistreerd staan wordt tot 1 juli 2002 een reductie van 50% toegepast op het tarief, genoemd in [artikel 10, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2008-10-01&g=2008-10-01).
+Voor motorrijtuigen die in Griekenland geregistreerd staan wordt tot 1 juli 2002 een reductie van 50% toegepast op het tarief, genoemd in [artikel 10, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2008-12-30&g=2008-12-30).
 
 ##### Artikel 17
 
@@ -296,13 +296,13 @@ Bij algemene maatregel van bestuur kunnen met name om redenen van verkeersveilig
 
 ##### Artikel 19
 
-De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VIII&artikel=18&z=2008-10-01&g=2008-10-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig, alsmede het daarmee verbonden voertuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig of bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
+De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VIII&artikel=18&z=2008-12-30&g=2008-12-30) bedoelde ambtenaren zijn bevoegd een motorrijtuig, alsmede het daarmee verbonden voertuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig of bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
 
 ##### Artikel 20
 
-1. Voorzover ter zake van een motorrijtuig het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2008-10-01&g=2008-10-01) genoemde verdrag, buiten Nederland is voldaan vóór aanvang van het gebruik van de autosnelweg in Nederland, blijft de heffing in Nederland achterwege.
+1. Voorzover ter zake van een motorrijtuig het gemeenschappelijke gebruiksrecht, bedoeld in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2008-12-30&g=2008-12-30) genoemde verdrag, buiten Nederland is voldaan vóór aanvang van het gebruik van de autosnelweg in Nederland, blijft de heffing in Nederland achterwege.
 
-2. Indien het gemeenschappelijke gebruiksrecht buiten Nederland is voldaan, is daarop [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2008-10-01&g=2008-10-01) van overeenkomstige toepassing. De teruggaaf wordt verleend op basis van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2008-10-01&g=2008-10-01) bedoelde tarief, zoals dat gold voor het tijdvak waarvoor het gemeenschappelijke gebruiksrecht is voldaan.
+2. Indien het gemeenschappelijke gebruiksrecht buiten Nederland is voldaan, is daarop [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=VII&afdeling=1&artikel=14a&z=2008-12-30&g=2008-12-30) van overeenkomstige toepassing. De teruggaaf wordt verleend op basis van het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=IV&afdeling=2&artikel=10&z=2008-12-30&g=2008-12-30) bedoelde tarief, zoals dat gold voor het tijdvak waarvoor het gemeenschappelijke gebruiksrecht is voldaan.
 
 ##### Artikel 21
 
@@ -332,7 +332,7 @@ Bevat wijzigingen in deze regelgeving.
 
 ##### Artikel 26
 
-1. Deze wet treedt in werking met ingang van 1 december 1995, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2008-10-01&g=2008-10-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
+1. Deze wet treedt in werking met ingang van 1 december 1995, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007678&hoofdstuk=I&artikel=1&z=2008-12-30&g=2008-12-30), dat in werking treedt met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
 2. In afwijking in zoverre van het eerste lid vangt het eerste tijdvak waarover de belasting ingevolge deze wet kan worden geheven, aan met ingang van 1 januari 1996.
 
