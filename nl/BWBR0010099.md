@@ -4,7 +4,7 @@ identifier: "BWBR0010099"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2008-12-31"
-last_updated: "1999-06-17"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010099"
 soort: "ministeriele-regeling"
@@ -45,7 +45,9 @@ De volgende enzymen mogen worden toegevoegd aan meel en bij de bereiding van bro
 
 - a. glucose-oxidase;
 
-- b. lipase.
+- b. lipase;
+
+- c. asparaginase van Aspergillus niger.
 
 ##### Artikel 2
 
