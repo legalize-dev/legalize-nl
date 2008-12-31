@@ -4,7 +4,7 @@ identifier: "BWBR0026986"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2007-01-01"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026986"
 soort: "wet"
@@ -90,7 +90,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2009.
 
 ##### Artikel XI
 
@@ -98,7 +98,7 @@ Wijzigt de Wet werken aan winst.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (Fiscale Onderhoudswet 2009).
 
 ##### Artikel XIII
 
