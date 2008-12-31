@@ -4,7 +4,7 @@ identifier: "BWBR0025024"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2008-10-06"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025024"
 soort: "wet"
@@ -86,11 +86,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2007.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Overige fiscale maatregelen 2008.
 
 ##### Artikel XIII
 
