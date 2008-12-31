@@ -4,7 +4,7 @@ identifier: "BWBR0024975"
 country: "nl"
 rank: "wet"
 publication_date: "2010-12-31"
-last_updated: "2008-09-16"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024975"
 soort: "wet"
@@ -170,7 +170,29 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIX
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van 1 januari 2009, met dien verstande dat:
+
+- a. [artikel I, onderdelen A, P, Q, S, T, V, W en X](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=I&z=2009-01-01&g=2008-12-31), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2009 is toegepast;
+
+- b. [artikel IV, onderdelen B, D, E, F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=IV&z=2009-01-01&g=2008-12-31), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2009 is toegepast.
+
+2. In afwijking van het eerste lid treedt [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=I&z=2009-01-01&g=2008-12-31), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met 1 januari 2009. Het [artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=I&z=2009-01-01&g=2008-12-31) vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na dat tijdstip van inwerkingtreding.
+
+3. In afwijking van het eerste lid werkt [artikel VI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=VI&z=2009-01-01&g=2008-12-31), terug tot en met 1 januari 2008.
+
+4. In afwijking van het eerste lid treedt [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=VIII&z=2009-01-01&g=2008-12-31) in werking met ingang van 1 juli 2009.
+
+5. In afwijking van het eerste lid werkt [artikel IX, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=IX&z=2009-01-01&g=2008-12-31), terug tot en met 1 juli 2008.
+
+6. In afwijking van het eerste lid werken de [artikelen IX, onderdelen C, E, F, eerste lid, H tot en met J, L, P tot en met R](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=IX&z=2009-01-01&g=2008-12-31), [X](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=X&z=2009-01-01&g=2008-12-31), [XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XXI&z=2009-01-01&g=2008-12-31), en [XXIII, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XXIII&z=2009-01-01&g=2008-12-31), terug tot en met 1 januari 2008.
+
+7. In afwijking van het eerste lid werkt [artikel IX, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=IX&z=2009-01-01&g=2008-12-31), terug tot en met 1 april 2008.
+
+8. In afwijking van het eerste lid treden de [artikelen XVIII, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XVIII&z=2009-01-01&g=2008-12-31), en [XXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XXVII&z=2009-01-01&g=2008-12-31) in werking met ingang van 1 april 2009.
+
+9. In afwijking van het eerste lid treedt [artikel XVIII, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XVIII&z=2009-01-01&g=2008-12-31), in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+10. In afwijking van het eerste lid werkt [artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XXII&z=2009-01-01&g=2008-12-31) terug tot en met 16 september 2008 voor aanslagen die op die datum nog niet onherroepelijk vaststaan.
 
 ##### Artikel XXX
 
