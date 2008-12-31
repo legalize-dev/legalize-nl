@@ -4,7 +4,7 @@ identifier: "BWBR0006192"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2008-01-01"
+last_updated: "2008-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006192"
 soort: "AMvB"
@@ -62,19 +62,19 @@ In dit besluit wordt verstaan onder:
 
 "examenjaar": het tijdvak dat aanvangt op 1 januari van een jaar en eindigt op 31 december van dat jaar,
 
-"examenonderdeel": een onderdeel van het examen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2006-01-01&g=2008-01-01),
+"examenonderdeel": een onderdeel van het examen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2008-12-31&g=2008-12-31),
 
-"examenprogramma": het examenprogramma, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=II&artikel=8&z=2006-01-01&g=2008-01-01),
+"examenprogramma": het examenprogramma, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=II&artikel=8&z=2008-12-31&g=2008-12-31),
 
-"examenreglement": het examenreglement, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=III&artikel=10&z=2006-01-01&g=2008-01-01),
+"examenreglement": het examenreglement, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=III&artikel=10&z=2008-12-31&g=2008-12-31),
 
-"commissie": de staatsexamencommissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=3&z=2006-01-01&g=2008-01-01),
+"commissie": de staatsexamencommissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=3&z=2008-12-31&g=2008-12-31),
 
 "examenleider": degene die door de commissie is belast met de leiding bij het afnemen van het examen,
 
 "diploma": het diploma Nederlands als tweede taal,
 
-"certificaat": een certificaat als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2006-01-01&g=2008-01-01),
+"certificaat": een certificaat als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2008-12-31&g=2008-12-31),
 
 "kandidaat": degene die aan een of meer examenonderdelen deelneemt.
 
@@ -214,7 +214,7 @@ Het examen wordt ten minste twee maal per jaar afgenomen.
 
 2. Aan de kandidaat die voor een of meer examenonderdelen een voldoende resultaat heeft behaald, wordt een certificaat uitgereikt. Op het certificaat wordt ten minste vermeld het examenonderdeel waarvoor het certificaat is verleend.
 
-3. Een diploma, als bedoeld in het eerste lid, wordt tevens uitgereikt aan degene die certificaten overlegt van alle examenonderdelen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2006-01-01&g=2008-01-01).
+3. Een diploma, als bedoeld in het eerste lid, wordt tevens uitgereikt aan degene die certificaten overlegt van alle examenonderdelen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2008-12-31&g=2008-12-31).
 
 4. De commissie stelt modellen van de diploma's en de certificaten voor programma I onderscheidenlijk programma II vast.
 
@@ -228,7 +228,9 @@ Het examen wordt ten minste twee maal per jaar afgenomen.
 
 2. Na afloop van de zes maanden kan het werk worden vernietigd.
 
-3. De commissie kan, met goedvinden van de kandidaat, de examenresultaten aan derden bekend maken.
+3. De commissie verstrekt de examenresultaten van de inburgeringsplichtige, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=1), en de inburgeraar, bedoeld in [artikel 1, eerste lid, onderdeel r, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=1) of [artikel 1, onderdeel h, van de Regeling vrijwillige inburgering niet-G31 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&artikel=1), aan de Informatie Beheer Groep ten behoeve van opname in het Informatiesysteem Inburgering, bedoeld in [artikel 47 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=47).
+
+4. De commissie kan, met goedvinden van de kandidaat, de examenresultaten aan derden bekend maken.
 
 ##### Artikel 18. Onvoorziene omstandigheden
 
@@ -254,7 +256,7 @@ De commissie kan toestaan dat een gehandicapte kandidaat het examen geheel of ge
 
 2. De commissie kan ten behoeve van de toetsontwikkeling de kandidaat verzoeken om meer gegevens dan die bedoeld in het eerste lid. De commissie deelt de kandidaat mede dat hij niet verplicht is deze gegevens te verstrekken.
 
-3. De gegevens, bedoeld in het eerste en tweede lid, worden bewaard op een niet op de persoon herleidbare wijze. De gegevens kunnen langer worden bewaard dan het examenwerk, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=2006-01-01&g=2008-01-01).
+3. De gegevens, bedoeld in het eerste en tweede lid, worden bewaard op een niet op de persoon herleidbare wijze. De gegevens kunnen langer worden bewaard dan het examenwerk, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=2008-12-31&g=2008-12-31).
 
 ##### Artikel 22. Geheimhouding
 
@@ -264,7 +266,7 @@ Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de besch
 
 ##### Artikel 23. Gelijkstelling certificaten
 
-Certificaten, voor 1 januari 1994 toegekend door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ingesteld bij besluit van Onze Minister van 12 maart 1992 (**Uitleg OenW-Regelingen** 1992, nr. 8) worden aangemerkt als certificaten, verkregen op grond van dit besluit. Degene die certificaten overlegt van alle examenonderdelen, behorend tot een programma, als geëxamineerd door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ontvangt een diploma als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2006-01-01&g=2008-01-01).
+Certificaten, voor 1 januari 1994 toegekend door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ingesteld bij besluit van Onze Minister van 12 maart 1992 (**Uitleg OenW-Regelingen** 1992, nr. 8) worden aangemerkt als certificaten, verkregen op grond van dit besluit. Degene die certificaten overlegt van alle examenonderdelen, behorend tot een programma, als geëxamineerd door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ontvangt een diploma als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2008-12-31&g=2008-12-31).
 
 ##### Artikel 24. Examens voor 1 januari 1994
 
