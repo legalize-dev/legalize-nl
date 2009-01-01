@@ -4,7 +4,7 @@ identifier: "BWBR0022396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-17"
-last_updated: "2007-09-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022396"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - –. Minister: Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- –. provincie: provincie die als secretariaat is aangewezen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=2&z=2007-09-01&g=2007-09-01).
+- –. provincie: provincie die als secretariaat is aangewezen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=2&z=2009-01-01&g=2009-01-01).
 
 ##### Artikel 2
 
@@ -82,13 +82,11 @@ In deze regeling wordt verstaan onder:
 
 - –. Utrechtse Heuvelrug;
 
-- –. De Weerribben;
+- –. Weerribben-Wieden;
 
 - –. Zuid-Kennemerland.
 
-2. Als nationaal park in oprichting wordt aangewezen: Weerribben-Wieden.
-
-3. De nationale parken, bedoeld in het eerste lid, en het nationale park in oprichting, bedoeld in het tweede lid, omvatten de gebieden, zoals aangegeven op de kaarten, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=1&z=2007-09-01&g=2007-09-01) bij deze regeling.
+2. De nationale parken, bedoeld in het eerste lid, omvatten de gebieden, zoals aangegeven op de kaarten, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=1&z=2009-01-01&g=2009-01-01) bij deze regeling.
 
 #### § 2. Het overlegorgaan
 
@@ -98,7 +96,7 @@ De nationale parken hebben elk een overlegorgaan.
 
 ##### Artikel 4
 
-Het overlegorgaan heeft tot taak zorg te dragen voor de inrichting en het beheer en het functioneren van het nationaal park overeenkomstig het goedgekeurde beheer- en inrichtingsplan. Daartoe behoort onder meer:
+Het overlegorgaan heeft tot taak zorg te dragen voor de inrichting en het beheer en het functioneren van het nationaal park overeenkomstig een door gedeputeerde staten van de provincie goedgekeurd beheer- en inrichtingsplan. Daartoe behoort onder meer:
 
 - a. het actualiseren van het beheer- en inrichtingsplan;
 
@@ -116,13 +114,13 @@ In het overlegorgaan nemen zitting:
 
 - a. een voorzitter, tevens lid van het overlegorgaan;
 
-- b. de vertegenwoordigers van de organisaties, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=2&z=2007-09-01&g=2007-09-01);
+- b. de vertegenwoordigers van de organisaties, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=2&z=2009-01-01&g=2009-01-01);
 
 - c. de directeur van de Directie Regionale Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, van de regio waarin het nationaal park grotendeels is gelegen.
 
 ##### Artikel 6
 
-1. De organisaties, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=2&z=2007-09-01&g=2007-09-01), wijzen een vertegenwoordiger aan.
+1. De organisaties, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=2&z=2009-01-01&g=2009-01-01), wijzen een vertegenwoordiger aan.
 
 2. Van de aanwijzing van de vertegenwoordigers, bedoeld in het eerste lid, wordt door de organisaties mededeling gedaan aan de secretaris van het overlegorgaan, die hiervan mededeling doet aan de Minister.
 
@@ -136,7 +134,7 @@ In het overlegorgaan nemen zitting:
 
 ##### Artikel 8
 
-1. Het secretariaat van het overlegorgaan berust bij een door de provincie, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=2&z=2007-09-01&g=2007-09-01), te benoemen ambtenaar in dienst van deze provincie.
+1. Het secretariaat van het overlegorgaan berust bij een door de provincie, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=2&z=2009-01-01&g=2009-01-01), te benoemen ambtenaar in dienst van deze provincie.
 
 2. Het overlegorgaan regelt de openbaarheid en de plaats van zijn vergadering, alsmede de overige aspecten van zijn inrichting en werkwijze.
 
@@ -150,17 +148,11 @@ Indien in het overlegorgaan belangrijke verschillen van inzicht blijken te besta
 
 ##### Artikel 10
 
-1. Tot het moment van inwerkingtreding van het beheer- en inrichtingplan nationaal park in oprichting Weerribben-Wieden voert het overlegorgaan zijn taak in het gebied de Weerribben uit overeenkomstig het beheer- en inrichtingsplan nationaal park De Weerribben.
-
-2. Tot het moment van inwerkingtreding van het beheer- en inrichtingsplan nationaal park in oprichting Weerribben-Wieden voert het overlegorgaan zijn taak in het gebied de Wieden uit overeenkomstig de aanwijzingen van de Minister, bedoeld in de brief van de Minister aan de provincie van 16 januari 2007 (DN. 2007/94).
-
-3. Het overlegorgaan van het nationaal park in oprichting Weerribben-Wieden houdt bij de uitoefening van zijn taken mede rekening met de behartiging van de belangen, opgedragen aan het overlegorgaan De Weerribben.
+Vervallen
 
 ##### Artikel 11
 
-1. Het overlegorgaan van het nationaal park in oprichting heeft tot taak, vooruitlopend op de definitieve aanwijzing van het gebied als nationaal park, de inrichting, het beheer en het functioneren van het nationaal park in oprichting overeenkomstig de doelstellingen van het nationaal park in oprichting te bevorderen.
-
-2. Tot de taak, bedoeld in het eerste lid, behoort naast de taken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&paragraaf=2&artikel=4&z=2007-09-01&g=2007-09-01), onder meer het binnen twee jaar opstellen van een beheer- en inrichtingsplan, dat als basis kan dienen om het gebied aan te wijzen als nationaal park.
+Vervallen
 
 #### § 4. Slotbepalingen
 
@@ -216,11 +208,9 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing nationale parken.
 
 ## Bijlage 1
 
-Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
-
 ## Bijlage 2
 
-Bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&paragraaf=1&artikel=1&z=2007-09-01&g=2007-09-01), [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&paragraaf=2&artikel=5&z=2007-09-01&g=2007-09-01), en [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&paragraaf=2&artikel=8&z=2007-09-01&g=2007-09-01), van de regeling.
+Bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&paragraaf=1&artikel=1&z=2009-01-01&g=2009-01-01), [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&paragraaf=2&artikel=5&z=2009-01-01&g=2009-01-01), en [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&paragraaf=2&artikel=8&z=2009-01-01&g=2009-01-01), van de regeling.
 
 ### **I Nationaal park De Alde Feanen**
 
@@ -350,11 +340,11 @@ Aangewezen per 21 november 1995
 
 2. Het secretariaat van het overlegorgaan berust bij de provincie Noord-Holland.
 
-### **XVII Nationaal Park De Weerribben**
+### **XVII Nationaal Park Weerribben-Wieden**
 
-Aangewezen per 24 juni 1992
+Aangewezen per 1 januari 2009
 
-1. Negen leden als vertegenwoordiger van onderscheidenlijk:
+1. Vijftien leden, als vertegenwoordiger van onderscheidenlijk:
 
 2. Het secretariaat van het overlegorgaan berust bij de provincie Overijssel.
 
@@ -367,3 +357,5 @@ Aangewezen per 1 september 2007
 2. Het secretariaat van het overlegorgaan berust bij de provincie Overijssel.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=1&z=2007-09-01&g=2007-09-01) die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=1&z=2009-01-01&g=2009-01-01) die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
