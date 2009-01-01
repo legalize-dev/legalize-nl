@@ -4,7 +4,7 @@ identifier: "BWBR0023056"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023056"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Wijzigt het Besluit etikettering energiegebruik personenauto’s.
 
 ##### Artikel II
 
-In afwijking van het bepaalde in [artikel 8, eerste en tweede lid, van het Besluit etikettering energiegebruik personenauto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=8) gelden voor 2008 de constanten en waarden die door de Rijksdienst Wegverkeer zijn vastgesteld voor het kalenderjaar 2007.
+Vervallen
 
 ##### Artikel III
 
