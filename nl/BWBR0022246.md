@@ -4,7 +4,7 @@ identifier: "BWBR0022246"
 country: "nl"
 rank: "wet"
 publication_date: "2009-01-01"
-last_updated: "2008-02-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022246"
 soort: "wet"
@@ -69,6 +69,6 @@ Wijzigt deze wet.
 
 ##### Artikel VI
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel I, onderdeel F, en H, onder 4, Q, S en U](https://wetten.overheid.nl/jci1.3:c:BWBR0022246&artikel=I&z=2008-02-01&g=2008-02-01), die in werking treden met ingang van 1 januari 2009.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel I, onderdeel F, en H, onder 4, Q, S en U](https://wetten.overheid.nl/jci1.3:c:BWBR0022246&artikel=I&z=2009-01-01&g=2009-01-01), die in werking treden met ingang van 1 januari 2009.
 
 Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
