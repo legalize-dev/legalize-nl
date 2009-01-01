@@ -4,7 +4,7 @@ identifier: "BWBR0031040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2005-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031040"
 soort: "ministeriele-regeling"
@@ -72,8 +72,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel V
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
