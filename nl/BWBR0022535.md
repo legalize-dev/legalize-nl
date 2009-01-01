@@ -4,7 +4,7 @@ identifier: "BWBR0022535"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-29"
-last_updated: "2008-08-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022535"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 - b. in de handel brengen: bedrijfsmatig ter beschikking of in voorraad houden, uitstallen of te koop aanbieden, verkopen, bezitten met het oog op de verkoop, alsmede tegen of zonder vergoeding aan derden beschikbaar stellen, leveren of overdragen;
 
-- c. verordening (EEG) 2092/91: verordening (EEG) nr. 2092/91 van de Raad van de Europese Gemeenschappen van 24 juni 1991 inzake de biologische productiemethode en aanduidingen dienaangaande op landbouwproducten en levensmiddelen (PbEG L 198);
+- c. verordening (EG) 834/2007: verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU L 189);
 
 - d. verordening (EG) 2257/94: verordening (EG) nr. 2257/94 van de Commissie van 16 september 1994 tot vaststelling van kwaliteitsnormen voor bananen (PbEG L 245);
 
@@ -84,7 +84,7 @@ Hebben goedgevonden en verstaan:
 
 - p. richtlijn 98/56/EG: richtlijn nr. 1998/56/EG van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226);
 
-- q. biologische productiemethode: voortbrenging van plantaardige en dierlijke landbouwproducten en houden van dieren overeenkomstig de bij of krachtens de verordening (EEG) 2092/91 gestelde voorschriften;
+- q. biologische productiemethode: voortbrenging van plantaardige en dierlijke producten en houden van dieren overeenkomstig de bij of krachtens verordening (EG) 834/2007 gestelde voorschriften;
 
 - r. teeltmateriaal van bloembollen: teeltmateriaal als bedoeld in artikel 2, eerste lid, van richtlijn 98/56/EG, van bloembollen;
 
@@ -120,7 +120,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Bij het in de handel brengen van of het maken van reclame voor landbouwproducten wordt slechts verwezen naar de biologische productiemethode indien voldaan is aan het bepaalde bij of krachtens verordening (EEG) 2092/91 en bij of krachtens dit besluit gestelde regels.
+Bij het in de handel brengen of etiketteren van of reclame maken voor producten wordt slechts verwezen naar de biologische productiemethode en wordt het logo, bedoeld in artikel 25 van verordening (EG) 834/2007, slechts gebruikt indien is voldaan aan het bepaalde bij of krachtens verordening (EG) 834/2007 en bij of krachtens dit besluit gestelde regels.
 
 ##### Artikel 3
 
@@ -168,7 +168,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 - d. het uitreiken, aanbrengen, vervaardigen, voorhanden en in voorraad hebben, alsmede het afleveren en gebruiken van bewijsstukken en merken;
 
-- e. de nadere aanduiding van het begrip bloembollen, bedoeld in [artikel 1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1&z=2008-08-01&g=2008-08-01).
+- e. de nadere aanduiding van het begrip bloembollen, bedoeld in [artikel 1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1&z=2009-01-01&g=2009-01-01).
 
 3. Onze Minister kan vrijstelling en, op aanvraag, ontheffing verlenen van het bepaalde bij of krachtens dit besluit voor zover het belang van een goede uitvoering van de in het eerste lid bedoelde Europese verordeningen en richtlijnen zich daartegen niet verzet.
 
@@ -226,17 +226,17 @@ De Stichting KCB is de controle-instantie, bedoeld in artikel 8, eerste lid, ond
 
 ##### Artikel 15
 
-De Stichting Skal is de instantie, bedoeld in artikel 9, eerste lid, van verordening (EEG) 2092/91 en belast met:
+De Stichting Skal is de instantie, bedoeld in artikel 27, vierde lid, onder a, van verordening (EG) 834/2007 en belast met:
 
 - a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien de biologische productiemethoden en van productiemethoden die bij ministeriële regeling daaraan gelijkgesteld zijn;
 
-- b. uitvoering van de registratie, bedoeld in artikel 8 van verordening (EEG) 2092/91;
+- b. uitvoering van de registratie, bedoeld in artikel 28 van verordening (EG) 834/2007;
 
 - c. overige uitvoeringshandelingen die noodzakelijk zijn voor een goede uitvoering van de in de aanhef bedoelde verordening.
 
 ##### Artikel 16
 
-De Stichting COKZ, de Stichting CPE en de Stichting KCB zijn voor zover het producten betreft die reeds op grond van respectievelijk [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=12&z=2008-08-01&g=2008-08-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=13&z=2008-08-01&g=2008-08-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2008-08-01&g=2008-08-01) onder de bevoegdheid van deze instellingen vallen, dan wel voor zover het producten betreft die bij ministeriële regeling zijn aangewezen, de instanties, bedoeld in artikel 10, eerste lid, van verordening (EG) 510/2006 of artikel 14, eerste lid, van verordening (EG) 509/2006 en belast met:
+De Stichting COKZ, de Stichting CPE en de Stichting KCB zijn voor zover het producten betreft die reeds op grond van respectievelijk [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=12&z=2009-01-01&g=2009-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=13&z=2009-01-01&g=2009-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2009-01-01&g=2009-01-01) onder de bevoegdheid van deze instellingen vallen, dan wel voor zover het producten betreft die bij ministeriële regeling zijn aangewezen, de instanties, bedoeld in artikel 10, eerste lid, van verordening (EG) 510/2006 of artikel 14, eerste lid, van verordening (EG) 509/2006 en belast met:
 
 - a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van geografische aanduidingen, oorsprongsbenamingen en traditionele specialiteiten ;
 
@@ -246,11 +246,13 @@ De Stichting COKZ, de Stichting CPE en de Stichting KCB zijn voor zover het prod
 
 Onze Minister is belast met:
 
-- a. de keuring van de producten waarop verordening (EG) 509/2006 en verordening (EG) 510/2006 betrekking hebben en die naar hun aard of ingevolge de voorschriften van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Commissie van de Europese Gemeenschappen niet onder de bevoegdheid van de controle-instellingen vallen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16&z=2008-08-01&g=2008-08-01);
+- a. de keuring van de producten waarop verordening (EG) 509/2006 en verordening (EG) 510/2006 betrekking hebben en die naar hun aard of ingevolge de voorschriften van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Commissie van de Europese Gemeenschappen niet onder de bevoegdheid van de controle-instellingen vallen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16&z=2009-01-01&g=2009-01-01);
 
 - b. de erkenning van de productspecificaties, bedoeld in artikel 16 van verordening (EG) 1760/2000;
 
-- c. de controles, bedoeld in Bijlage XI bis, punt VII, van verordening (EG) 1234/2007.
+- c. de controles, bedoeld in Bijlage XI bis, punt VII, van verordening (EG) 1234/2007;
+
+- d. controles, bedoeld in artikel 27, eerste lid, van verordening (EG) 834/2007.
 
 ##### Artikel 18
 
