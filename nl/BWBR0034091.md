@@ -4,7 +4,7 @@ identifier: "BWBR0034091"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2006-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034091"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2014-01-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
