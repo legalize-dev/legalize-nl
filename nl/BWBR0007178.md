@@ -4,7 +4,7 @@ identifier: "BWBR0007178"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2008-08-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007178"
 soort: "AMvB"
@@ -49,7 +49,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=6), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), [27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), [44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), en [70, vierde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+1. Dit besluit geeft uitvoering aan de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=6), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), [27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), [44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), en [78, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=78).
 
 2. In dit besluit wordt verstaan onder de wet: de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168).
 
@@ -123,7 +123,7 @@ Voor de toepassing van [artikel 11i, eerste lid, van de wet](https://wetten.over
 
 ##### Artikel 5
 
-1. Het tarief, bedoeld in [artikel 28, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), is op de afvalstoffen, bedoeld in [artikel 28, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), slechts van toepassing indien aan de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=6&z=2008-08-01&g=2008-08-01) wordt voldaan.
+1. Het tarief, bedoeld in [artikel 28, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), is op de afvalstoffen, bedoeld in [artikel 28, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), slechts van toepassing indien aan de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=6&z=2009-01-01&g=2009-01-01) wordt voldaan.
 
 2. De volumieke massa van de aangevoerde afvalstoffen wordt bepaald door het gewicht van de afvalstoffen te delen door de met het registratienummer van de container, kipwagen of het vaartuig corresponderende inhoud.
 
@@ -173,7 +173,7 @@ Voor de bepaling van het verschuldigde tarief van de afvalstoffenbelasting over 
 
 ##### Artikel 6
 
-Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=5&z=2008-08-01&g=2008-08-01) worden de afvalstoffen niet geperst aangeleverd.
+Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=5&z=2009-01-01&g=2009-01-01) worden de afvalstoffen niet geperst aangeleverd.
 
 ##### Artikel 6a
 
@@ -207,7 +207,7 @@ Voor de toepassing van [artikel 18c, eerste lid, van de wet](https://wetten.over
 
 ##### Artikel 7
 
-1. De afvalstoffen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=5&z=2008-08-01&g=2008-08-01), worden aangevoerd in een container, een kipwagen, een vaartuig of in een big bag waarvan de inhoud in kubieke meter bekend is.
+1. De afvalstoffen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=5&z=2009-01-01&g=2009-01-01), worden aangevoerd in een container, een kipwagen, een vaartuig of in een big bag waarvan de inhoud in kubieke meter bekend is.
 
 2. De eigenaar van een container, laadbak van een kipwagen of laadruim van een vaartuig stelt de inhoud daarvan tot op één decimaal nauwkeurig vast in kubieke meter door:
 
@@ -247,9 +247,9 @@ Vervallen
 
 ##### Artikel 8
 
-1. De aanbieder van de afvalstoffen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=5&z=2008-08-01&g=2008-08-01), overhandigt aan de houder van de inrichting voorafgaand aan de aanvoer een lijst van de door hem gebruikte containers, kipwagens of vaartuigen met hun inhoud en registratienummer.
+1. De aanbieder van de afvalstoffen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=5&z=2009-01-01&g=2009-01-01), overhandigt aan de houder van de inrichting voorafgaand aan de aanvoer een lijst van de door hem gebruikte containers, kipwagens of vaartuigen met hun inhoud en registratienummer.
 
-2. Indien de inhoud van een container, laadbak van een kipwagen of laadruim van een vaartuig is vastgesteld op de wijze, bedoeld in [artikel 7, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-08-01&g=2008-08-01), overhandigt de aanbieder van de afvalstoffen aan de houder van de inrichting tevens een gewaarmerkte kopie van het meetrapport dat door het geaccrediteerde laboratorium met betrekking tot de vaststelling van het volume is opgemaakt. De gewaarmerkte kopie bevat tevens het unieke registratienummer, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-08-01&g=2008-08-01).
+2. Indien de inhoud van een container, laadbak van een kipwagen of laadruim van een vaartuig is vastgesteld op de wijze, bedoeld in [artikel 7, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2009-01-01&g=2009-01-01), overhandigt de aanbieder van de afvalstoffen aan de houder van de inrichting tevens een gewaarmerkte kopie van het meetrapport dat door het geaccrediteerde laboratorium met betrekking tot de vaststelling van het volume is opgemaakt. De gewaarmerkte kopie bevat tevens het unieke registratienummer, bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2009-01-01&g=2009-01-01).
 
 3. De aanbieder van afvalstoffen in big bags stelt voorafgaand aan de aanvoer van de afvalstoffen de houder van de inrichting in kennis van de aanvoer van afvalstoffen in big bags en geeft daarbij aan het aantal big bags en de inhoud per big bag.
 
@@ -379,9 +379,9 @@ Vervallen
 
 ##### Artikel 9
 
-1. Voor de bepaling van het verschuldigde tarief, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=5&z=2008-08-01&g=2008-08-01), wordt de inhoud toegepast die op de plaat, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-08-01&g=2008-08-01), is vermeld, onderscheidenlijk in de zijwanden van de big bag, bedoeld in [artikel 7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-08-01&g=2008-08-01), is aangebracht, ongeacht de mate waarin de container, de laadbak, het laadruim of de big bag met afvalstoffen is gevuld.
+1. Voor de bepaling van het verschuldigde tarief, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=5&z=2009-01-01&g=2009-01-01), wordt de inhoud toegepast die op de plaat, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2009-01-01&g=2009-01-01), is vermeld, onderscheidenlijk in de zijwanden van de big bag, bedoeld in [artikel 7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2009-01-01&g=2009-01-01), is aangebracht, ongeacht de mate waarin de container, de laadbak, het laadruim of de big bag met afvalstoffen is gevuld.
 
-2. Indien de inhoud die op de plaat, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-08-01&g=2008-08-01), is vermeld kennelijk niet overeenkomt met de inhoud, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-08-01&g=2008-08-01), wordt in afwijking van het eerste lid de inhoud toegepast, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2008-08-01&g=2008-08-01).
+2. Indien de inhoud die op de plaat, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2009-01-01&g=2009-01-01), is vermeld kennelijk niet overeenkomt met de inhoud, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2009-01-01&g=2009-01-01), wordt in afwijking van het eerste lid de inhoud toegepast, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=7&z=2009-01-01&g=2009-01-01).
 
 ##### Artikel 10
 
@@ -397,19 +397,19 @@ Vervallen
 
 ##### Artikel 12
 
-1. Het vervoer van kolen, bedoeld in [artikel 33, derde lid, onderdeel a, b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), naar een inrichting, een andere lidstaat via Nederland of een derde land, wordt aangetoond met een bescheid.
+1. Het vervoer van kolen, bedoeld in [artikel 33, derde lid, onderdeel a, b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), naar een inrichting, een andere lidstaat via Nederland of een derde land, alsmede het brengen van kolen, bedoeld in [artikel 34, eerste lid, onderdeel a, b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=34), vanuit een inrichting naar een andere inrichting, een ondernemer in een andere lidstaat, een publiekrechtelijk lichaam, anders dan als ondernemer, in een andere lidstaat of een derde land, wordt aangetoond met een bescheid.
 
 2. In het bescheid, bedoeld in het eerste lid, worden vermeld:
 
 - a. de naam en het adres van degene van wie de kolen afkomstig zijn;
 
-- b. de naam en het adres van degene naar wie de kolen worden vervoerd;
+- b. de naam en het adres van degene naar wie de kolen worden vervoerd dan wel overgebracht;
 
-- c. de naam en het adres van degene die de kolen vervoert;
+- c. de naam en het adres van degene die de kolen vervoert dan wel overbrengt;
 
 - d. de hoeveelheid kolen, en
 
-- e. de datum waarop het vervoer van de kolen is aangevangen.
+- e. de datum waarop het vervoer dan wel de overbrenging van de kolen is aangevangen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
@@ -449,7 +449,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 13
 
-De in [artikel 33, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33) bedoelde personen of publiekrechtelijke lichamen richten hun administratie zodanig in dat daarin op overzichtelijke wijze alle voor de heffing van kolen van belang zijnde gegevens zijn opgenomen.
+De in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), en [artikel 34, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=34) bedoelde personen of publiekrechtelijke lichamen richten hun administratie zodanig in dat daarin op overzichtelijke wijze alle voor de heffing van kolen van belang zijnde gegevens zijn opgenomen.
 
 ##### Artikel 14
 
@@ -465,7 +465,7 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 ##### Artikel 16
 
-1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2008-08-01&g=2008-08-01), worden vermeld:
+1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2009-01-01&g=2009-01-01), worden vermeld:
 
 - a. de naam en het adres van degene die de vervoersopdracht opmaakt dan wel van degene in wiens opdracht zij wordt opgemaakt;
 
@@ -511,7 +511,7 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 3. Bij het verzoek om teruggaaf worden de aankoopfactuur en de van belang zijnde gegevens over de bestemming van de kolen waarop de teruggaaf betrekking heeft overgelegd.
 
-4. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=17&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44).
+4. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=17&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44).
 
 5. De administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
@@ -621,19 +621,31 @@ De buitenlandse leverancier wordt van de intrekking van de vergunning in kennis 
 
 3. Teruggaaf wordt alleen verleend indien de aankoopfactuur en de van belang zijnde gegevens en verklaringen over de bestemming van het aardgas of de elektriciteit waarop de teruggaaf betrekking heeft, worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
-4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
 
 ### Hoofdstuk VII. Vliegbelasting
 
 ##### Artikel 28
 
-(gereserveerd)
+1. Een verzoek om teruggaaf als bedoeld in [artikel 78, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=78) wordt gedaan met betrekking tot één of meer bedragen die door de exploitant van de luchthaven in rekening zijn gebracht aan dezelfde luchtvaartmaatschappij, voor zover deze bedragen niet zijn ontvangen en oninbaar zijn gebleken.
+
+2. Het verzoek wordt door de exploitant van de luchthaven ingediend binnen 13 weken na afloop van het kalenderkwartaal waarin is komen vast te staan dat de in rekening gebrachte belasting niet is en niet zal worden ontvangen.
+
+3. Bij het verzoek worden kopieën overgelegd van de facturen waarmee de niet ontvangen belasting aan de luchtvaartmaatschappij in rekening is gebracht. In het verzoek worden de volgende gegevens vermeld:
+
+- a. naam en adres van de luchtvaartmaatschappij;
+
+- b. per factuur het bedrag van de belasting dat niet is en niet zal worden ontvangen;
+
+- c. het totale bedrag waarvoor ten aanzien van die luchtvaartmaatschappij teruggaaf wordt gevraagd.
+
+4. De administratie van de exploitant van de luchthaven is zodanig ingericht dat daarin op overzichtelijke wijze alle voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens zijn opgenomen.
 
 ### Hoofdstuk VIII. Algemene bepaling
 
 ##### Artikel 29
 
-1. De inspecteur beslist op het verzoek, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2008-08-01&g=2008-08-01), bij een voor bezwaar vatbare beschikking.
+1. De inspecteur beslist op het verzoek, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=II&artikel=2&z=2009-01-01&g=2009-01-01), bij een voor bezwaar vatbare beschikking.
 
 2. Binnen acht weken na ontvangst van het verzoek geeft de inspecteur een beschikking op dat verzoek, dan wel zendt hij de in het derde lid bedoelde kennisgeving.
 
@@ -683,7 +695,7 @@ De regels, genoemd in deze afdeling, gelden voor de producent van sierteeltprodu
 
 ##### Artikel 28b
 
-Voor zover de producent, genoemd in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=1&artikel=28a&z=2010-01-01&g=2008-08-01), verpakte sierteeltproducten voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 68%.
+Voor zover de producent, genoemd in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=1&artikel=28a&z=2010-01-01&g=2009-01-01), verpakte sierteeltproducten voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 68%.
 
 ##### Artikel 28c
 
@@ -691,7 +703,7 @@ Voor zover de producent verpakte sierteeltproducten bij de eerste terbeschikking
 
 ##### Artikel 28d
 
-Op de producent, bedoeld in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=1&artikel=28a&z=2010-01-01&g=2008-08-01), is de exportvermindering, bedoeld in [hoofdstuk VIII, afdeling 5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&afdeling=5a), niet van toepassing.
+Op de producent, bedoeld in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=1&artikel=28a&z=2010-01-01&g=2009-01-01), is de exportvermindering, bedoeld in [hoofdstuk VIII, afdeling 5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&afdeling=5a), niet van toepassing.
 
 ### Afdeling 2. Groenten en fruit
 
@@ -713,7 +725,7 @@ De regels, genoemd in deze afdeling, gelden voor de producent van verse groenten
 
 ##### Artikel 28g
 
-1. Voor zover de producent, bedoeld in [artikel 28f,](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=2&artikel=28f&z=2010-01-01&g=2008-08-01) verpakte verse groenten of verpakt vers fruit voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 72%.
+1. Voor zover de producent, bedoeld in [artikel 28f,](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=2&artikel=28f&z=2010-01-01&g=2009-01-01) verpakte verse groenten of verpakt vers fruit voor het eerst aan een ander ter beschikking stelt in Nederland of bij de eerste terbeschikkingstelling exporteert vanuit Nederland, geeft hij alle hiermee verband houdende kilogrammen verpakking op bij zijn aangifte en past vervolgens een kortingspercentage toe in verband met kilogrammen verpakking van producten die direct of indirect worden geëxporteerd. Het kortingspercentage, genoemd in de eerste volzin, bedraagt 72%.
 
 2. In afwijking van het eerste lid bedraagt het kortingspercentage voor de producent, bedoeld in het eerste lid, voor zover deze verpakte verse uien ter beschikking stelt, 72%.
 
@@ -729,7 +741,7 @@ Voor zover de producent verpakte verse groenten of verpakt vers fruit bij de eer
 
 ##### Artikel 28j
 
-Op de producent, bedoeld in [artikel 28f](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=2&artikel=28f&z=2010-01-01&g=2008-08-01), is de exportvermindering, bedoeld in [hoofdstuk VIII, afdeling 5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&afdeling=5a), niet van toepassing.
+Op de producent, bedoeld in [artikel 28f](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VII&afdeling=2&artikel=28f&z=2010-01-01&g=2009-01-01), is de exportvermindering, bedoeld in [hoofdstuk VIII, afdeling 5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&afdeling=5a), niet van toepassing.
 
 ### Hoofdstuk VIII. Algemene bepaling
 
