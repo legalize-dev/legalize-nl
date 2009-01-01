@@ -4,7 +4,7 @@ identifier: "BWBR0004447"
 country: "nl"
 rank: "wet"
 publication_date: "2018-08-01"
-last_updated: "2008-03-26"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004447"
 soort: "wet"
@@ -51,15 +51,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 **buitenlands kind:** een buiten Nederland geboren, de Nederlandse nationaliteit niet bezittende minderjarige in de zin van de Nederlandse wet, die in Nederland met het oog op adoptie in een ander gezin dan het ouderlijke wordt of zal worden verzorgd en opgevoed in zodanige omstandigheden dat de verzorgers in feite de plaats van de ouders innemen;
 
-aspirant-adoptiefouders: echtgenoten van verschillend geslacht of een persoon die een buitenlands kind met het oog op adoptie wensen op te nemen of hebben opgenomen;
+**aspirant-adoptiefouders:** echtgenoten of een persoon die een buitenlands kind met het oog op adoptie wensen op te nemen of hebben opgenomen;
 
-adoptiefouders: echtgenoten van verschillend geslacht of een persoon die een buitenlands kind hebben geadopteerd;
+**adoptiefouders:** echtgenoten of een persoon die een buitenlands kind hebben geadopteerd;
 
-**beginseltoestemming:** de schriftelijke mededeling van Onze Minister omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2008-03-26&g=2008-03-26);
+**beginseltoestemming:** de schriftelijke mededeling van Onze Minister omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2009-01-01&g=2009-01-01);
 
-**vergunninghouder:** de rechtspersoon die houder is van een vergunning als bedoeld in de[artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=15&z=2008-03-26&g=2008-03-26) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=16&z=2008-03-26&g=2008-03-26).
+**vergunninghouder:** de rechtspersoon die houder is van een vergunning als bedoeld in de[artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=15&z=2009-01-01&g=2009-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=16&z=2009-01-01&g=2009-01-01).
 
-bemiddeling: elke activiteit van een vergunninghouder gericht op totstandkoming van, of ondersteuning bij, de plaatsing van een buitenlands kind met het oog op adoptie bij aspirant-adoptiefouders.
+**bemiddeling:** elke activiteit van een vergunninghouder gericht op totstandkoming van, of ondersteuning bij, de plaatsing van een buitenlands kind met het oog op adoptie bij aspirant-adoptiefouders.
 
 ### Hoofdstuk 2. De beginseltoestemming
 
@@ -69,15 +69,15 @@ De opneming in Nederland van een buitenlands kind met het oog op adoptie is uits
 
 ##### Artikel 3
 
-1. De beginseltoestemming geldt voor een periode van drie jaren en kan telkens voor een periode van drie jaren worden verlengd. De periode waarvoor zij wordt verleend of verlengd, overschrijdt evenwel niet het tijdstip waarop een van de aspirant-adoptiefouders de leeftijd van zesenveertig jaren zal hebben bereikt.
+1. De beginseltoestemming geldt voor een periode van vier jaren en kan telkens voor een periode van vier jaren worden verlengd. De periode waarvoor zij wordt verleend of verlengd, overschrijdt evenwel niet het tijdstip waarop een van de aspirant-adoptiefouders de leeftijd van zesenveertig jaren zal hebben bereikt, tenzij bijzondere omstandigheden daartoe aanleiding geven.
 
-2. Een beginseltoestemming betreft slechts de opneming van één buitenlands kind, tenzij Onze Minister in verband met bijzondere omstandigheden toestemming verleent tot opneming van meer dan één kind.
+2. Een beginseltoestemming betreft de opneming van een buitenlands kind of in het geval van broers en zussen, dan wel van kinderen die op andere wijze zodanig aan elkaar gehecht zijn dat zij bezwaarlijk van elkaar gescheiden kunnen worden, van twee buitenlandse kinderen tegelijk. Onze Minister kan in verband met bijzondere omstandigheden toestemming verlenen tot opneming van meer kinderen tegelijk.
 
 ##### Artikel 4
 
 Een verzoek tot verlening van een beginseltoestemming of tot verlenging van de geldigheidsduur ervan wordt slechts in behandeling genomen, indien:
 
-- a. het verzoek door de aspirant-adoptiefouders is ingediend Zijn de aspirant-adoptiefouders echtgenoten, dan dient het verzoek door hen tezamen te zijn ingediend;
+- a. het verzoek door de aspirant-adoptiefouders is ingediend. Is de aspirant-adoptiefouder die het verzoek alleen indient, gehuwd of heeft deze een geregistreerde partner of andere levensgezel, dan kan het verzoek slechts met instemming van diens echtgenoot, geregistreerde partner of levensgezel worden ingediend;
 
 - b. het verzoek, indien het strekt tot verlenging van de geldigheidsduur van een beginseltoestemming, ten minste twaalf weken voor het verstrijken van de geldigheidsduur van de bestaande beginseltoestemming is ingediend;
 
@@ -89,11 +89,11 @@ Een verzoek tot verlening van een beginseltoestemming of tot verlenging van de g
 
 - d. de aspirant-adoptiefouders, ingeval in hun gezin reeds één of meer eigen kinderen of met het oog op adoptie opgenomen kinderen verblijven, deze kinderen gedurende ten minste een jaar hebben verzorgd en opgevoed;
 
-- e. de aspirant-adoptiefouders vóór de aanvang van het ingevolge [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=5&z=2008-03-26&g=2008-03-26), in te stellen onderzoek het bij algemene maatregel van bestuur vastgestelde bedrag ter bestrijding van de kosten van de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=5&z=2008-03-26&g=2008-03-26), bedoelde voorlichting hebben voldaan.
+- e. de aspirant-adoptiefouders vóór de aanvang van het ingevolge [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01), in te stellen onderzoek het bij algemene maatregel van bestuur vastgestelde bedrag ter bestrijding van de kosten van de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01), bedoelde voorlichting hebben voldaan.
 
 ##### Artikel 5
 
-1. Behoudens het geval bedoeld in het vijfde lid, onder **b**, tweede volzin, beslist Onze Minister op het verzoek tot verlening van een beginseltoestemming of tot verlenging van de geldigheidsduur ervan eerst nadat de raad voor de kinderbescherming een onderzoek heeft ingesteld naar de geschiktheid van de aspirant-adoptiefouders voor de verzorging en opvoeding van een buitenlands kind.
+1. Onze Minister beslist op het verzoek tot verlening van een beginseltoestemming of tot verlenging van de geldigheidsduur ervan eerst nadat de raad voor de kinderbescherming een onderzoek heeft ingesteld naar de geschiktheid van de aspirant-adoptiefouders voor de verzorging en opvoeding van een buitenlands kind of, indien de aspirant-adoptiefouders hierom hebben verzocht, van twee buitenlandse kinderen tegelijk.
 
 2. Ter voorbereiding van het in het eerste lid bedoelde onderzoek ontvangen de aspirant-adoptiefouders, indien het de opneming van een eerste buitenlands kind betreft, algemene voorlichting omtrent de opneming en de adoptie van buitenlandse kinderen, welke voorlichting onder toezicht van Onze Minister zal worden verstrekt.
 
@@ -105,7 +105,7 @@ Een verzoek tot verlening van een beginseltoestemming of tot verlenging van de g
 
 - a. indien hij een aspirant-adoptiefouder niet geschikt acht voor de verzorging en opvoeding van een buitenlands kind;
 
-- b. indien een der aspirant-adoptiefouders op het tijdstip van de indiening van het verzoek de leeftijd van tweeënveertig jaren heeft bereikt, tenzij bijzondere omstandigheden inwilliging van het verzoek naar zijn oordeel wenselijk maken. Op bijzondere omstandigheden kan geen beroep worden gedaan indien beide aspirant-adoptiefouders op het tijdstip van de indiening van het verzoek de leeftijd van vierenveertig jaren hebben bereikt.
+- b. indien een der aspirant-adoptiefouders op het tijdstip van de indiening van het verzoek de leeftijd van tweeënveertig jaren heeft bereikt, tenzij bijzondere omstandigheden inwilliging van het verzoek naar zijn oordeel wenselijk maken.
 
 6. Onze Minister beslist afwijzend op een verzoek tot verlening of verlenging van de geldigheidsduur van een beginseltoestemming indien te verwachten is dat op het tijdstip waarop een buitenlands kind zou kunnen worden opgenomen, het verschil in leeftijd tussen een der aspirant-adoptiefouders en het buitenlandse kind meer dan veertig jaren bedraagt, tenzij bijzondere omstandigheden inwilliging van het verzoek naar zijn oordeel wenselijk maken.
 
@@ -127,9 +127,9 @@ Een verzoek tot verlening van een beginseltoestemming of tot verlenging van de g
 
 3. Het eerste en het tweede lid zijn niet van toepassing:
 
-- a. indien bezwaar wordt gemaakt tegen een besluit tot afwijzing van het verzoek tot verlening van een beginseltoestemming op grond van [artikel 5, vijfde lid, onder **b**, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=5&z=2008-03-26&g=2008-03-26), en beide aspirant-adoptiefouders op het tijdstip van indiening van het verzoek de leeftijd van vierenveertig jaren hebben bereikt; of
+- a. indien bezwaar wordt gemaakt tegen een besluit tot afwijzing van het verzoek tot verlening van een beginseltoestemming op grond van [artikel 5, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01), en de aspirant-adoptiefouders zich bij het bezwaar niet op bijzondere omstandigheden hebben beroepen;
 
-- b. indien bezwaar wordt gemaakt tegen een besluit tot verlenging van de geldigheidsduur van de beginseltoestemming voor een duur korter dan drie jaren en [artikel 3, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=3&z=2008-03-26&g=2008-03-26), van toepassing is.
+- b. indien bezwaar wordt gemaakt tegen een besluit tot verlenging van de geldigheidsduur van de beginseltoestemming voor een duur korter dan vier jaren en [artikel 3, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=3&z=2009-01-01&g=2009-01-01), van toepassing is, en de aspirant-adoptiefouders zich bij het bezwaar niet op bijzondere omstandigheden hebben beroepen.
 
 ##### Artikel 7a
 
@@ -137,7 +137,7 @@ Een verzoek tot verlening van een beginseltoestemming of tot verlenging van de g
 
 2. Naar aanleiding van het in het eerste lid bedoelde onderzoek brengt de vergunninghouder schriftelijk, met redenen omkleed, advies uit aan Onze Minister. Van de toezending van het advies doet hij schriftelijk mededeling aan de aspirant-adoptiefouders.
 
-3. Na ontvangst van het advies besluit Onze Minister of de doorzending van het rapport en de bemiddeling zullen plaatsvinden. Aan dat besluit kan hij voorwaarden verbinden. De doorzending en de bemiddeling zullen niet plaatsvinden indien aannemelijk is dat de aspirant-adoptiefouders bij de opneming van een buitenlands kind niet zullen handelen in overeenstemming met het bepaalde in [artikel 8, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3&artikel=8&z=2008-03-26&g=2008-03-26), of door hun handelen schade zullen toebrengen aan de door de vergunninghouder opgebouwde relaties met instellingen, autoriteiten of personen in het buitenland, dan wel indien er gegronde redenen zijn om te twijfelen aan de zuiverheid en de zorgvuldigheid van hun handelen. Tot die redenen behoort in ieder geval de omstandigheid dat aan de bemiddeling voor aspirant-adoptiefouders onevenredig hoge kosten zijn verbonden.
+3. Na ontvangst van het advies besluit Onze Minister of de doorzending van het rapport en de bemiddeling zullen plaatsvinden. Aan dat besluit kan hij voorwaarden verbinden. De doorzending en de bemiddeling zullen niet plaatsvinden indien aannemelijk is dat de aspirant-adoptiefouders bij de opneming van een buitenlands kind niet zullen handelen in overeenstemming met het bepaalde in [artikel 8, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3&artikel=8&z=2009-01-01&g=2009-01-01), of door hun handelen schade zullen toebrengen aan de door de vergunninghouder opgebouwde relaties met instellingen, autoriteiten of personen in het buitenland, dan wel indien er gegronde redenen zijn om te twijfelen aan de zuiverheid en de zorgvuldigheid van hun handelen. Tot die redenen behoort in ieder geval de omstandigheid dat aan de bemiddeling voor aspirant-adoptiefouders onevenredig hoge kosten zijn verbonden.
 
 4. Indien het in het tweede lid bedoelde advies niet aan Onze Minister is toegezonden binnen acht weken nadat opgave is gedaan van de in het buitenland gelegde contacten, kunnen aspirant-adoptiefouders zich tot Onze Minister wenden met het verzoek over de doorzending te beslissen. Het besluit omtrent de doorzending wordt binnen acht weken na de ontvangst van dat verzoek genomen.
 
@@ -163,33 +163,33 @@ Onverminderd het bepaalde bij en krachtens de [Vreemdelingenwet 2000](https://we
 
 1. De aspirant-adoptiefouders dan wel de adoptiefouders zijn vanaf het tijdstip van het vertrek van het buitenlandse kind naar Nederland verplicht te voorzien in de kosten van verzorging en opvoeding van dat kind als ware het hun eigen kind. De kosten van terugkeer naar het land van herkomst komen eveneens te hunnen laste.
 
-2. De in het eerste lid omschreven verplichtingen rusten eveneens op degene die in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2008-03-26&g=2008-03-26) heeft gehandeld.
+2. De in het eerste lid omschreven verplichtingen rusten eveneens op degene die in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2009-01-01&g=2009-01-01) heeft gehandeld.
 
 3. De bepalingen van [titel 17 van boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=17) zijn zoveel mogelijk van overeenkomstige toepassing.
 
 ##### Artikel 10
 
-1. Indien is gehandeld in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2008-03-26&g=2008-03-26) kan de kinderrechter een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1) belasten met de voorlopige voogdij over de minderjarige, tenzij dit niet verenigbaar is met het belang van de minderjarige. In geval van voorlopige voogdij wendt de raad voor de kinderbescherming zich binnen zes weken tot de rechter ten einde een voorziening in het gezag over de minderjarige te verkrijgen. [Artikel 241, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241) alsmede [artikel 306**a** van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=306) zijn van overeenkomstige toepassing. [Artikel 813, tweede lid van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=813) is van overeenkomstige toepassing.
+1. Indien is gehandeld in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2009-01-01&g=2009-01-01) kan de kinderrechter een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1) belasten met de voorlopige voogdij over de minderjarige, tenzij dit niet verenigbaar is met het belang van de minderjarige. In geval van voorlopige voogdij wendt de raad voor de kinderbescherming zich binnen zes weken tot de rechter ten einde een voorziening in het gezag over de minderjarige te verkrijgen. [Artikel 241, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241) alsmede [artikel 306**a** van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=306) zijn van overeenkomstige toepassing. [Artikel 813, tweede lid van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=813) is van overeenkomstige toepassing.
 
 2. De voorlopige voogdij eindigt, behoudens eerdere intrekking, op het tijdstip waarop hetzij de voogdij over de minderjarige, dan wel diens verblijf bij aspirant-adoptiefouders aan wie een beginseltoestemming is verleend, een aanvang neemt, hetzij de minderjarige in het land van herkomst wordt teruggeplaatst.
 
-3. De kosten die de stichting ten behoeve van de minderjarige moet maken, komen ten laste van degene die de minderjarige in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2008-03-26&g=2008-03-26) heeft opgenomen. De [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=69) en [71 tot en met 76 van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=71) zijn van overeenkomstige toepassing.
+3. De kosten die de stichting ten behoeve van de minderjarige moet maken, komen ten laste van degene die de minderjarige in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2009-01-01&g=2009-01-01) heeft opgenomen. De [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=69) en [71 tot en met 76 van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=71) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Het gezinsonderzoek na binnenkomst in Nederland van een tijdens gewoon verblijf in het buitenland opgenomen buitenlands kind
 
 ##### Artikel 11
 
-Wanneer het buitenlandse kind, na opneming door aspirant-adoptiefouders in een periode waarin zij hun gewone verblijfplaats in het buitenland hadden, te zamen met de aspirant-adoptiefouders in Nederland is binnengekomen, wordt ambtshalve het onderzoek bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=5&z=2008-03-26&g=2008-03-26), ingesteld.
+Wanneer het buitenlandse kind, na opneming door aspirant-adoptiefouders in een periode waarin zij hun gewone verblijfplaats in het buitenland hadden, te zamen met de aspirant-adoptiefouders in Nederland is binnengekomen, wordt ambtshalve het onderzoek bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01), ingesteld.
 
 ##### Artikel 12
 
-1. Op grond van het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=4&artikel=11&z=2008-03-26&g=2008-03-26) bedoelde onderzoek beslist Onze Minister of hij de aspirant-adoptiefouders geschikt acht voor de verzorging en opvoeding van het buitenlandse kind.
+1. Op grond van het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=4&artikel=11&z=2009-01-01&g=2009-01-01) bedoelde onderzoek beslist Onze Minister of hij de aspirant-adoptiefouders geschikt acht voor de verzorging en opvoeding van het buitenlandse kind.
 
 2. Indien Onze Minister de aspirant-adoptiefouders niet geschikt acht voor de verzorging en opvoeding van het buitenlandse kind, doet hij van zijn beslissing tevens mededeling aan de officier van justitie. Artikel 10 is van overeenkomstige toepassing.
 
 ##### Artikel 13
 
-In geval van bezwaar bij Onze Minister tegen het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=4&artikel=12&z=2008-03-26&g=2008-03-26) bedoelde besluit is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=7&z=2008-03-26&g=2008-03-26) van overeenkomstige toepassing. Een zodanig bezwaar schorst niet een maatregel die met overeenkomstige toepasing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3&artikel=10&z=2008-03-26&g=2008-03-26) is genomen.
+In geval van bezwaar bij Onze Minister tegen het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=4&artikel=12&z=2009-01-01&g=2009-01-01) bedoelde besluit is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=7&z=2009-01-01&g=2009-01-01) van overeenkomstige toepassing. Een zodanig bezwaar schorst niet een maatregel die met overeenkomstige toepasing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3&artikel=10&z=2009-01-01&g=2009-01-01) is genomen.
 
 ##### Artikel 14
 
@@ -289,13 +289,13 @@ Onze Minister beslist afwijzend op een verzoek tot verlening van een vergunning 
 
 1. Inlichtingen over, inzage in of afschrift van bescheiden kan worden geweigerd indien de persoonlijke levenssfeer van een ander dan het buitenlandse kind daardoor zou worden geschaad.
 
-2. Van het rapport, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=5&z=2008-03-26&g=2008-03-26), wordt geen afschrift verstrekt.
+2. Van het rapport, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01), wordt geen afschrift verstrekt.
 
 3. Voor de verstrekking van een afschrift kan de kostprijs daarvan in rekening worden gebracht.
 
 ##### Artikel 17g
 
-In het geval, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=7a&z=2008-03-26&g=2008-03-26), blijft [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=17a&z=2008-03-26&g=2008-03-26) buiten toepassing, behoudens het eerste lid onder e. Voorts blijven in dat geval buiten toepassing de[artikelen 17b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=17b&z=2008-03-26&g=2008-03-26), en [artikel 17e](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=17e&z=2008-03-26&g=2008-03-26).
+In het geval, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=7a&z=2009-01-01&g=2009-01-01), blijft [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=17a&z=2009-01-01&g=2009-01-01) buiten toepassing, behoudens het eerste lid onder e. Voorts blijven in dat geval buiten toepassing de[artikelen 17b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=17b&z=2009-01-01&g=2009-01-01), en [artikel 17e](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=17e&z=2009-01-01&g=2009-01-01).
 
 ##### Artikel 18
 
@@ -303,17 +303,17 @@ In het geval, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - a. indien de gegevens die met het oog op de verkrijging van de vergunning zijn verstrekt, zodanig onjuist of onvolledig blijken dat op het verzoek een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest;
 
-- b. indien niet langer wordt voldaan aan een der eisen gesteld bij of krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=16&z=2008-03-26&g=2008-03-26).
+- b. indien niet langer wordt voldaan aan een der eisen gesteld bij of krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=16&z=2009-01-01&g=2009-01-01).
 
 2. Onze Minister kan een vergunning intrekken:
 
-- a. indien de vergunninghouder het bepaalde bij of krachtens de[artikelen 20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=20&z=2008-03-26&g=2008-03-26), dan wel het bepaalde bij de[artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3&artikel=8&z=2008-03-26&g=2008-03-26) of [32](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=7&artikel=32&z=2008-03-26&g=2008-03-26) niet heeft nageleefd;
+- a. indien de vergunninghouder het bepaalde bij of krachtens de[artikelen 20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=20&z=2009-01-01&g=2009-01-01), dan wel het bepaalde bij de[artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3&artikel=8&z=2009-01-01&g=2009-01-01) of [32](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=7&artikel=32&z=2009-01-01&g=2009-01-01) niet heeft nageleefd;
 
 - b. indien de vergunninghouder gedurende ten minste twee jaren geen bemiddeling inzake de opneming van een buitenlands kind heeft voltooid.
 
 ##### Artikel 19
 
-Indien [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=18&z=2008-03-26&g=2008-03-26) wordt toegepast, beslist Onze Minister desgewenst door welke vergunninghouder of vergunninghouders de werkzaamheden van de rechtspersoon wiens vergunning is ingetrokken, voortgezet en zo nodig beëindigd zullen worden.
+Indien [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=18&z=2009-01-01&g=2009-01-01) wordt toegepast, beslist Onze Minister desgewenst door welke vergunninghouder of vergunninghouders de werkzaamheden van de rechtspersoon wiens vergunning is ingetrokken, voortgezet en zo nodig beëindigd zullen worden.
 
 ##### Artikel 20
 
@@ -371,9 +371,9 @@ Ingeval aspirant-adoptiefouders hun inschrijving bij een vergunninghouder beëin
 
 ##### Artikel 25
 
-1. Met het toezicht op de naleving door de vergunninghouders van de voor hen geldende voorschriften, gesteld bij of krachtens de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=16&z=2008-03-26&g=2008-03-26) en [20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=20&z=2008-03-26&g=2008-03-26), zijn belast de door de Inspectie jeugdzorg aangewezen personen. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het toezicht.
+1. Met het toezicht op de naleving door de vergunninghouders van de voor hen geldende voorschriften, gesteld bij of krachtens de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=16&z=2009-01-01&g=2009-01-01) en [20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=20&z=2009-01-01&g=2009-01-01), zijn belast de door de Inspectie jeugdzorg aangewezen personen. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het toezicht.
 
-2. Met het toezicht op de naleving van het bepaalde bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2008-03-26&g=2008-03-26) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3&artikel=8&z=2008-03-26&g=2008-03-26), zijn belast:
+2. Met het toezicht op de naleving van het bepaalde bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2009-01-01&g=2009-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3&artikel=8&z=2009-01-01&g=2009-01-01), zijn belast:
 
 - 1°. de directeur van de raad voor de kinderbescherming alsmede de door hem aangewezen ambtenaren;
 
@@ -385,13 +385,13 @@ De toezichthouders beschikken niet over de bevoegdheden genoemd in de [artikelen
 
 ##### Artikel 27
 
-1. Hij die uit winstbejag handelt in strijd met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=15&z=2008-03-26&g=2008-03-26) of [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=20&z=2008-03-26&g=2008-03-26), wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
+1. Hij die uit winstbejag handelt in strijd met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=15&z=2009-01-01&g=2009-01-01) of [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=20&z=2009-01-01&g=2009-01-01), wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
 2. De in het eerste lid strafbaar gestelde feiten zijn misdrijven.
 
 ##### Artikel 28
 
-1. Hij die handelt in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2008-03-26&g=2008-03-26), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3&artikel=8&z=2008-03-26&g=2008-03-26), [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=15&z=2008-03-26&g=2008-03-26) of [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=20&z=2008-03-26&g=2008-03-26), wordt gestraft met geldboete van de derde categorie.
+1. Hij die handelt in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=2&artikel=2&z=2009-01-01&g=2009-01-01), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3&artikel=8&z=2009-01-01&g=2009-01-01), [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=15&z=2009-01-01&g=2009-01-01) of [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=20&z=2009-01-01&g=2009-01-01), wordt gestraft met geldboete van de derde categorie.
 
 2. De in het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
@@ -419,7 +419,7 @@ Vervallen
 
 2. Deze wet is niet van toepassing op verzoeken tot verlening van een beginseltoestemming welke voorafgaande aan de dag van haar inwerkingtreding zijn ingediend.
 
-3. Voor verenigingen en stichtingen die gedurende tenminste drie jaren onmiddellijk voorafgaande aan de inwerkingtreding van deze wet bemiddeling hebben verleend bij de opneming in Nederland van buitenlandse pleegkinderen geldt het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=15&z=2008-03-26&g=2008-03-26) niet gedurende een maand na de inwerkingtreding van deze wet, en, indien zij binnen die maand een vergunning tot bemiddeling hebben aangevraagd, evenmin zolang op die aanvrage niet onherroepelijk is beslist.
+3. Voor verenigingen en stichtingen die gedurende tenminste drie jaren onmiddellijk voorafgaande aan de inwerkingtreding van deze wet bemiddeling hebben verleend bij de opneming in Nederland van buitenlandse pleegkinderen geldt het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=5&artikel=15&z=2009-01-01&g=2009-01-01) niet gedurende een maand na de inwerkingtreding van deze wet, en, indien zij binnen die maand een vergunning tot bemiddeling hebben aangevraagd, evenmin zolang op die aanvrage niet onherroepelijk is beslist.
 
 ##### Artikel 34
 
