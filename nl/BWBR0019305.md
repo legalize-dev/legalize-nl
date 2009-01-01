@@ -4,7 +4,7 @@ identifier: "BWBR0019305"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-09-01"
-last_updated: "2006-10-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019305"
 soort: "ministeriele-regeling"
@@ -131,8 +131,6 @@ Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, ond
 - 2°. die onmiddellijk voorafgaande aan de eerste werkloosheidsdag een recht op ziekengeld had op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) dat is ontstaan op of voor 1 januari 2003;
 
 - e. die 57,5 jaar of ouder is op 31 december 2003, wiens eerste werkloosheidsdag is gelegen op of na 1 januari 2004 en die onmiddellijk voorafgaande aan de eerste werkloosheidsdag een recht op uitkering had op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) dan wel een uitkering die naar aard en strekking daarmee overeenkomt, dat is ontstaan op of voor 1 januari 2003.
-
-2. [Artikel 3, eerste lid, aanhef en onderdeel d, onder 3°, en vierde lid, van de Regeling vrijstelling verplichtingen WW](https://wetten.overheid.nl/jci1.3:c:BWBR0015999&artikel=3), zoals dit luidde op de dag voorafgaande aan die waarop de regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 april 2005, nr. SV/F&W/2005/30639, houdende wijziging van de Regeling vrijstelling verplichtingen WW en van de Vakantieregeling WW in verband met vrijstelling van de sollicitatieplicht voor oudere werklozen die vrijwilligerswerk of mantelzorg verrichten (Stcrt. 2005, nr. 88) in werking treedt, blijft van toepassing op de werknemer die op die dag op grond van die artikelleden was vrijgesteld van de verplichtingen bedoeld in het eerste lid, aanhef, met dien verstande dat met betrekking tot die werknemer niet het vereiste geldt dat hij woonachtig is in district Noord of Zuid-West als bedoeld in bijlage 2 van het Besluit werkgebieden CWI.
 
 ##### Artikel 9. Intrekken [Regeling vrijstelling verplichtingen WW](https://wetten.overheid.nl/jci1.3:c:BWBR0015999)
 
