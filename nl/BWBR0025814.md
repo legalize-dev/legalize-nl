@@ -225,5 +225,3 @@ Deze regeling wordt aangehaald als: Regeling studiefaciliteiten politie.
 [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025814&hoofdstuk=3&artikel=11&z=2009-05-13&g=2009-01-01)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
