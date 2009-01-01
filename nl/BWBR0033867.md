@@ -4,7 +4,7 @@ identifier: "BWBR0033867"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033867"
 soort: "AMvB"
@@ -48,24 +48,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Dit onderdeel is nog niet inwerking getreden
 
-## Bijlage. behorende bij [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033867&artikel=II&z=2013-12-01&g=2008-01-01) van het Besluit tot wijziging van het Besluit financiële verhouding 2001 in verband met het vaststellen en wijzigen van enkele verdeelmaatstaven (2013)
+## Bijlage. behorende bij [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033867&artikel=II&z=2013-12-01&g=2009-01-01) van het Besluit tot wijziging van het Besluit financiële verhouding 2001 in verband met het vaststellen en wijzigen van enkele verdeelmaatstaven (2013)
 
 Dit onderdeel is nog niet inwerking getreden
-
-### Compensatie voor het afschaffen van het gebruikersdeel van de OZB voor woningen over de jaren 2010 tot en met 2013
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 31 mei 2013, nr. 2013-0000324183 DCB/CZW/S&B, gedaan mede namens de Staatssecretaris van Financiën;
-
-Gelet op de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=8), en [22, onderdeel b, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=22);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 26 juni 2013, no. W04.13.0159/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 12 augustus 2013, nr. 2013-0000403308 DCB/CZW/S&B, uitgebracht mede namens de Staatssecretaris van Financiën;
-
-Hebben goedgevonden en verstaan:
-
-## Bijlage. behorende bij [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033867&artikel=II&z=2013-12-01&g=2013-12-01) van het Besluit tot wijziging van het Besluit financiële verhouding 2001 in verband met het vaststellen en wijzigen van enkele verdeelmaatstaven (2013)
-
-### Compensatie voor het afschaffen van het gebruikersdeel van de OZB voor woningen over de jaren 2010 tot en met 2013
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
