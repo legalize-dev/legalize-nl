@@ -4,7 +4,7 @@ identifier: "BWBR0004490"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-02-01"
-last_updated: "1994-07-27"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004490"
 soort: "AMvB"
@@ -68,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 - c. de netto-winst in de zin van de Wet op de inkomstenbelasting 1964 (**Stb.** 1990, 103).
 
-3. Indien inkomen wordt verkregen uit hoofde van de sociale zekerheidswetgeving, kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) (**Stb.** 1990, 128) daaronder niet begrepen, wordt voor de verrekening van dat inkomensbestanddeel met het buitengewoon pensioen in aanmerking genomen de uitkering met inbegrip van de daarover door de gepensioneerde verschuldigde premies, welke uit hoofde van de sociale zekerheidswetgeving worden geheven, dan wel de daarmede overeenkomende bijdrage, als bedoeld in [artikel 11, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=11&z=1994-07-27&g=1994-07-27), ten tweede, van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) (**Stb.** 1990, 104).
+3. Indien inkomen wordt verkregen uit hoofde van de sociale zekerheidswetgeving, kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) (**Stb.** 1990, 128) daaronder niet begrepen, wordt voor de verrekening van dat inkomensbestanddeel met het buitengewoon pensioen in aanmerking genomen de uitkering met inbegrip van de daarover door de gepensioneerde verschuldigde premies, welke uit hoofde van de sociale zekerheidswetgeving worden geheven, dan wel de daarmede overeenkomende bijdrage, als bedoeld in [artikel 11, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=11&z=1994-07-27&g=2009-01-01), ten tweede, van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) (**Stb.** 1990, 104).
 
 4. Indien inkomen in verband met arbeid in beroep of bedrijf wordt genoten, wordt voor de verrekening van dat inkomensbestanddeel met het buitengewoon pensioen het totale bedrag in aanmerking genomen of, voor zover het pensioenen of wachtgelden betreft, welke krachtens een van overheidswege vastgesteld voorschrift in verband met het genot van inkomsten aan vermindering onderworpen zijn, het uit dien hoofde verminderde bedrag.
 
@@ -118,7 +118,7 @@ Ten aanzien van in het buitenland verworven inkomensbestanddelen vergelijkbaar m
 
 ##### Artikel 7
 
-Zolang het bedrag van de te verrekenen inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=2&z=1994-07-27&g=1994-07-27), niet bekend is, wordt dit bedrag door de Raad, voor zoveel mogelijk met inachtneming van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=2&z=1994-07-27&g=1994-07-27) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=6&z=1994-07-27&g=1994-07-27), voorlopig geschat.
+Zolang het bedrag van de te verrekenen inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=2&z=1994-07-27&g=2009-01-01), niet bekend is, wordt dit bedrag door de Raad, voor zoveel mogelijk met inachtneming van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=2&z=1994-07-27&g=2009-01-01) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=6&z=1994-07-27&g=2009-01-01), voorlopig geschat.
 
 ##### Artikel 8
 
@@ -134,9 +134,9 @@ De te verrekenen inkomsten van buiten Nederland woonachtige gepensioneerden word
 
 ##### Artikel 11
 
-Tot 1 april 1988 luidt [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=1994-07-27&g=1994-07-27) van dit besluit als volgt.
+Tot 1 april 1988 luidt [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=1994-07-27&g=2009-01-01) van dit besluit als volgt.
 
-[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=1994-07-27&g=1994-07-27).
+[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=1994-07-27&g=2009-01-01).
 
 Indien een ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), zoals deze wet luidde vóór 1 april 1988, wordt genoten, wordt voor de verrekening van dat inkomensbestanddeel met het buitengewoon pensioen in aanmerking genomen:
 
@@ -150,15 +150,15 @@ Indien een ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten
 
 ##### Artikel 12
 
-In afwijking van het in de [aanhef van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=11&z=1994-07-27&g=1994-07-27) bepaalde blijft [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=1994-07-27&g=1994-07-27), zoals dat ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=11&z=1994-07-27&g=1994-07-27) luidt tot 1 april 1988, ook nadien gelden voor de gehuwde pensioengerechtigde krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), van wie de echtgenoot jonger is dan 65 jaar en die vóór 1 april 1988 reeds recht had op ouderdomspensioen en toeslag ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8), 9, [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=10) of [12 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=12), zoals die artikelen vóór 1 april 1988 luidden.
+In afwijking van het in de [aanhef van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=11&z=1994-07-27&g=2009-01-01) bepaalde blijft [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=1994-07-27&g=2009-01-01), zoals dat ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=11&z=1994-07-27&g=2009-01-01) luidt tot 1 april 1988, ook nadien gelden voor de gehuwde pensioengerechtigde krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), van wie de echtgenoot jonger is dan 65 jaar en die vóór 1 april 1988 reeds recht had op ouderdomspensioen en toeslag ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8), 9, [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=10) of [12 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=12), zoals die artikelen vóór 1 april 1988 luidden.
 
 ##### Artikel 13
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt met uitzondering van de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=1994-07-27&g=1994-07-27), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=1994-07-27&g=1994-07-27) terug tot en met 1 januari 1983.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt met uitzondering van de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=1994-07-27&g=2009-01-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=1994-07-27&g=2009-01-01) terug tot en met 1 januari 1983.
 
-2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=1994-07-27&g=1994-07-27), werkt terug tot en met 1 januari 1987.
+2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=1994-07-27&g=2009-01-01), werkt terug tot en met 1 januari 1987.
 
-3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=1994-07-27&g=1994-07-27) werkt terug tot en met 1 april 1988.
+3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=1994-07-27&g=2009-01-01) werkt terug tot en met 1 april 1988.
 
 ##### Artikel 14
 
