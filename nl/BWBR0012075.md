@@ -4,7 +4,7 @@ identifier: "BWBR0012075"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-04-05"
-last_updated: "2004-12-12"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012075"
 soort: "ministeriele-regeling"
@@ -102,11 +102,11 @@ Het renterisico op de vaste schuld in een jaar wordt als volgt berekend: de som 
 
 ##### Artikel 5
 
-Het Centraal Bureau voor de Statistiek zendt iedere drie maanden voor het einde van het eerstvolgende kwartaal verzamelopgaven van de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012075&artikel=4&z=2004-12-12&g=2004-12-12), bedoelde gegevens aan Onze Minister van Financiën.
+Het Centraal Bureau voor de Statistiek zendt iedere drie maanden voor het einde van het eerstvolgende kwartaal verzamelopgaven van de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012075&artikel=4&z=2004-12-12&g=2009-01-01), bedoelde gegevens aan Onze Minister van Financiën.
 
 ##### Artikel 6
 
-De opgaven bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012075&artikel=4&z=2004-12-12&g=2004-12-12), worden verstrekt overeenkomstig de als bijlage bij deze regeling gevoegde modelstaten.
+De opgaven bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012075&artikel=4&z=2004-12-12&g=2009-01-01), worden verstrekt overeenkomstig de als bijlage bij deze regeling gevoegde modelstaten.
 
 ##### Artikel 7
 
