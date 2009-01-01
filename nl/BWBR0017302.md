@@ -4,7 +4,7 @@ identifier: "BWBR0017302"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-08-26"
-last_updated: "2004-11-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017302"
 soort: "ministeriele-regeling"
@@ -51,9 +51,11 @@ In deze regeling wordt verstaan onder:
 
 - c. bestuurder CBA: de persoon die tot 1 november 2004 de functie van lid van het Centraal Bestuur voor de Arbeidsvoorziening vervulde;
 
-- d. CWI: de Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4);
+- d. CWI: de Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4) zoals dit luidde op 31 december 2008;
 
-- e. Arbeidsvoorzieningsorganisatie: de Arbeidsvoorzieningsorganisatie, genoemd in [artikel 2 van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=2) zoals deze voor 1 november 2004 luidde.
+- e. Arbeidsvoorzieningsorganisatie: de Arbeidsvoorzieningsorganisatie, genoemd in [artikel 2 van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=2) zoals deze voor 1 november 2004 luidde;
+
+- e. UWV: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
 
 ##### Artikel 2. Aanwijzing persoon belast met afwikkeling
 
@@ -75,7 +77,7 @@ Deelnemingen van de Arbeidsvoorzieningsorganisatie in stichtingen, maatschappen,
 
 ##### Artikel 5. Personeel
 
-In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=3&z=2004-11-01&g=2004-11-01) gaan de rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie die voortvloeien uit een collectieve arbeidsovereenkomst of regeling van arbeidsvoorwaarden dan wel enige andere algemene regeling, jegens werknemers die voor 1 november 2004 in haar dienst zijn geweest, alsmede de rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie die voortvloeien uit een overeenkomst met een werknemer die voor 1 november 2004 in haar dienst is geweest, over op de CWI.
+In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=3&z=2009-01-01&g=2009-01-01) gaan de rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie die voortvloeien uit een collectieve arbeidsovereenkomst of regeling van arbeidsvoorwaarden dan wel enige andere algemene regeling, jegens werknemers die voor 1 november 2004 in haar dienst zijn geweest, alsmede de rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie die voortvloeien uit een overeenkomst met een werknemer die voor 1 november 2004 in haar dienst is geweest, over op de CWI.
 
 De eerste zin is eveneens van toepassing ten aanzien van andere civielrechtelijke rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie in haar kwaliteit van werkgever.
 
@@ -83,41 +85,41 @@ De eerste zin is eveneens van toepassing ten aanzien van andere civielrechtelijk
 
 1.
 
-De publiekrechtelijke rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie gaan over op de minister, tenzij het een onderwerp betreft als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2004-11-01&g=2004-11-01), in welk geval deze rechten en verplichtingen overgaan op de CWI.
+De publiekrechtelijke rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie gaan over op de minister, tenzij het een onderwerp betreft als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01), in welk geval deze rechten en verplichtingen overgaan op de CWI.
 
-2. Een besluit van de Arbeidsvoorzieningsorganisatie geldt als een besluit van de minister, tenzij het een onderwerp betreft als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2004-11-01&g=2004-11-01), in welk geval het geldt als een besluit van de CWI.
+2. Een besluit van de Arbeidsvoorzieningsorganisatie geldt als een besluit van de minister, tenzij het een onderwerp betreft als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01), in welk geval het geldt als een besluit van de CWI.
 
-3. Op een voor 1 november 2004 bij de Arbeidsvoorzieningsorganisatie ingediende aanvraag tot het geven van een beschikking wordt na die datum beslist door de minister, tenzij de aanvraag een onderwerp betreft als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2004-11-01&g=2004-11-01), in welk geval de CWI daarop beslist.
+3. Op een voor 1 november 2004 bij de Arbeidsvoorzieningsorganisatie ingediende aanvraag tot het geven van een beschikking wordt na die datum beslist door de minister, tenzij de aanvraag een onderwerp betreft als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01), in welk geval de CWI daarop beslist.
 
 ### Hoofdstuk 3. Overgang procedures
 
 ##### Artikel 7. Civielrechtelijke en bestuursrechtelijke gedingen
 
-1. In civielrechtelijke en bestuursrechtelijke gedingen, met uitzondering van die bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=8&z=2004-11-01&g=2004-11-01), waarin de Arbeidsvoorzieningsorganisatie partij is, treedt de Staat onderscheidenlijk de minister in haar plaats, zonder dat daarvoor een betekening nodig is.
+1. In civielrechtelijke en bestuursrechtelijke gedingen, met uitzondering van die bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=8&z=2009-01-01&g=2009-01-01), waarin de Arbeidsvoorzieningsorganisatie partij is, treedt de Staat onderscheidenlijk de minister in haar plaats, zonder dat daarvoor een betekening nodig is.
 
 2. Beroep of hoger beroep waarvoor de termijn is aangevangen voor 1 november 2004 staat voor de Staat onderscheidenlijk de minister open gedurende het resterende gedeelte van de beroepstermijn.
 
 ##### Artikel 8. Arbeidsgeschillen
 
-1. In civielrechtelijke en bestuursrechtelijke gedingen met betrekking tot onderwerpen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2004-11-01&g=2004-11-01), waarin de Arbeidsvoorzieningsorganisatie partij is, treedt de CWI in haar plaats, zonder dat daarvoor een betekening nodig is.
+1. In civielrechtelijke en bestuursrechtelijke gedingen met betrekking tot onderwerpen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01), waarin de Arbeidsvoorzieningsorganisatie partij is, treedt de CWI in haar plaats, zonder dat daarvoor een betekening nodig is.
 
-2. Bij de Arbeidsvoorzieningsorganisatie aanhangige bezwaarschriften met betrekking tot onderwerpen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2004-11-01&g=2004-11-01) gaan, in de stand waarin zij zich bevinden, over naar de CWI.
+2. Bij de Arbeidsvoorzieningsorganisatie aanhangige bezwaarschriften met betrekking tot onderwerpen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01) gaan, in de stand waarin zij zich bevinden, over naar de CWI.
 
 3. Bezwaar, beroep of hoger beroep waarvoor de termijn is aangevangen voor 1 november 2004 staat voor de CWI open gedurende het resterende gedeelte van de bezwaar- onderscheidenlijk beroepstermijn.
 
 ##### Artikel 9. Bezwaarschriften
 
-1. Bij de Arbeidsvoorzieningsorganisatie aanhangige bezwaarschriften, met uitzondering van die bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=8&z=2004-11-01&g=2004-11-01), gaan, in de stand waarin zij zich bevinden, over naar de minister.
+1. Bij de Arbeidsvoorzieningsorganisatie aanhangige bezwaarschriften, met uitzondering van die bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=8&z=2009-01-01&g=2009-01-01), gaan, in de stand waarin zij zich bevinden, over naar de minister.
 
 2. Bezwaar waarvoor de termijn is aangevangen voor 1 november 2004 staat voor de minister open gedurende het resterende gedeelte van de bezwaartermijn.
 
 ##### Artikel 10. Beëindiging procedures
 
-1. Bestuursrechtelijke gedingen waarin door toepassing van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=7&z=2004-11-01&g=2004-11-01), de minister eiser en verweerder dan wel appellant en gedaagde is geworden, worden door de minister zo spoedig mogelijk door intrekking van het beroep beëindigd.
+1. Bestuursrechtelijke gedingen waarin door toepassing van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=7&z=2009-01-01&g=2009-01-01), de minister eiser en verweerder dan wel appellant en gedaagde is geworden, worden door de minister zo spoedig mogelijk door intrekking van het beroep beëindigd.
 
-2. Bezwaarschriftprocedures waarin door toepassing van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=9&z=2004-11-01&g=2004-11-01), de minister indiener van het bezwaarschrift en bestuursorgaan tegen wiens besluit het bezwaar is gericht is geworden, worden door de minister zo spoedig mogelijk door intrekking van het bezwaar beëindigd.
+2. Bezwaarschriftprocedures waarin door toepassing van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=9&z=2009-01-01&g=2009-01-01), de minister indiener van het bezwaarschrift en bestuursorgaan tegen wiens besluit het bezwaar is gericht is geworden, worden door de minister zo spoedig mogelijk door intrekking van het bezwaar beëindigd.
 
-3. In gevallen als bedoeld in het eerste en tweede lid, waarin voor de minister met toepassing van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=7&z=2004-11-01&g=2004-11-01), of [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=9&z=2004-11-01&g=2004-11-01), bezwaar, beroep of hoger beroep openstaat, maakt de minister van die bevoegdheid geen gebruik.
+3. In gevallen als bedoeld in het eerste en tweede lid, waarin voor de minister met toepassing van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=7&z=2009-01-01&g=2009-01-01), of [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=9&z=2009-01-01&g=2009-01-01), bezwaar, beroep of hoger beroep openstaat, maakt de minister van die bevoegdheid geen gebruik.
 
 ### Hoofdstuk 4. Financiële afwikkeling
 
@@ -129,21 +131,21 @@ De publiekrechtelijke rechten en verplichtingen van de Arbeidsvoorzieningsorgani
 
 ##### Artikel 12. Afwikkeling door CWI
 
-1. De Staat draagt de liquide middelen die deel uitmaken van de vermogensbestanddelen die ingevolge deze regeling overgaan op de Staat alsmede de ontvangsten en uitgaven van de Staat gedurende de periode, bedoeld in het tweede lid, die kunnen worden toegerekend aan de Arbeidsvoorzieningsorganisatie, over aan de CWI. De CWI houdt hiervoor een rekening-courant aan bij de Minister van Financiën.
+1. De Staat draagt de liquide middelen die deel uitmaken van de vermogensbestanddelen die ingevolge deze regeling overgaan op de Staat alsmede de ontvangsten en uitgaven van de Staat gedurende de periode, bedoeld in het tweede lid, die kunnen worden toegerekend aan de Arbeidsvoorzieningsorganisatie, over aan het UWV. Het UWV houdt hiervoor een rekening-courant aan bij de Minister van Financiën.
 
-2. Tot een door de minister te bepalen datum administreert de CWI de ingevolge deze regeling op de Staat, onderscheidenlijk de CWI overgaande middelen, ontvangsten en uitgaven, alsmede, ten behoeve van de Staat, de overige ingevolge deze regeling op de Staat overgaande vermogensbestanddelen, in een afzonderlijke administratie.
+2. Tot een door de minister te bepalen datum administreert het UWV de ingevolge deze regeling op de Staat, onderscheidenlijk het UWV overgaande middelen, ontvangsten en uitgaven, alsmede, ten behoeve van de Staat, de overige ingevolge deze regeling op de Staat overgaande vermogensbestanddelen, in een afzonderlijke administratie.
 
-3. De kosten die voor de CWI uit de uitvoering van deze regeling voortvloeien komen ten laste van de in het eerste lid bedoelde middelen en ontvangsten. Zo nodig stelt de minister aan de CWI hiervoor aanvullende middelen ter beschikking. De CWI dient elk jaar vóór 1 oktober, en voorzover het betreft het jaar 2005, vóór 31 december 2004, een begroting van de inkomsten en uitgaven op grond van deze regeling bij de minister in.
+3. De kosten die voor het UWV uit de uitvoering van deze regeling voortvloeien komen ten laste van de in het eerste lid bedoelde middelen en ontvangsten. Zo nodig stelt de minister aan het UWV hiervoor aanvullende middelen ter beschikking. Het UWV dient elk jaar vóór 1 oktober, en voorzover het betreft het jaar 2005, vóór 31 december 2004, een begroting van de inkomsten en uitgaven op grond van deze regeling bij de minister in.
 
-4. Met betrekking tot de verantwoording door de CWI over de toepassing van het eerste tot en met het derde lid, is [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49) van overeenkomstige toepassing. De minister stelt jaarlijks aan de hand van de jaarrekening het bedrag van de kosten, bedoeld in het derde lid, voor het betrokken kalenderjaar vast.
+4. Met betrekking tot de verantwoording door het UWV over de toepassing van het eerste tot en met het derde lid, is [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49) van overeenkomstige toepassing. De minister stelt jaarlijks aan de hand van de jaarrekening het bedrag van de kosten, bedoeld in het derde lid, voor het betrokken kalenderjaar vast.
 
-5. De CWI draagt op verzoek van de minister middelen als bedoeld in het eerste lid af aan de Staat.
+5. Het UWV draagt op verzoek van de minister middelen als bedoeld in het eerste lid af aan de Staat.
 
-6. De verantwoording van de CWI over het jaar 2005 heeft ook betrekking op de maanden november en december van het jaar 2004.
+6. De verantwoording van het UWV over het jaar 2005 heeft ook betrekking op de maanden november en december van het jaar 2004.
 
-7. De CWI legt binnen zes maanden na de door de minister op grond van het tweede lid vastgestelde datum aan de minister rekening en verantwoording af over de periode van 1 januari van het jaar waarin die datum is gelegen tot aan die datum over de toepassing van het eerste tot en met het derde lid.
+7. Het UWV legt binnen zes maanden na de door de minister op grond van het tweede lid vastgestelde datum aan de minister rekening en verantwoording af over de periode van 1 januari van het jaar waarin die datum is gelegen tot aan die datum over de toepassing van het eerste tot en met het derde lid.
 
-8. De CWI draagt het saldo van de rekening-courant, bedoeld in het eerste lid, terstond na de in het tweede lid bedoelde datum over aan de Staat.
+8. Het UWV draagt het saldo van de rekening-courant, bedoeld in het eerste lid, terstond na de in het tweede lid bedoelde datum over aan de Staat.
 
 ### Hoofdstuk 5. Slotbepalingen
 
