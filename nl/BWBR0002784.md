@@ -4,7 +4,7 @@ identifier: "BWBR0002784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002784"
 soort: "ministeriele-regeling"
@@ -39,13 +39,13 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
+1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
 
 2. Deze regeling verstaat onder de wet: de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672).
 
 ##### Artikel 2
 
-De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2&z=2007-01-01&g=2008-01-01), bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 5 percent.
+De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2&z=2009-01-01&g=2009-01-01), bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 5 percent.
 
 ##### Artikel 2a
 
@@ -117,4 +117,6 @@ Vervallen
 
 ##### Artikel 2bis
 
-Vervallen
+1. Voor de toepassing van [artikel 10, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) wordt onder werknemers verstaan werknemers in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
+
+2. Voor de toepassing van [artikel 10, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) wordt onder het loon op jaarbasis verstaan het loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) dat de werknemer heeft genoten in het laatste kalenderjaar dat voor aanvang van het jaar is geëindigd.
