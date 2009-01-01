@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 - a. **de wet:** de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746);
 
-- b. de Centrale organisatie werk en inkomen: de Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4);
+- b. het UWV: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 2 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=2);
 
 - c. **detachering:** terbeschikkingstelling van een werknemer door de inhoudingsplichtige met wie een arbeidsovereenkomst bestaat, ten behoeve van een derde;
 
@@ -76,13 +76,13 @@ Vervallen
 
 - b. ingeval op jaarbasis aanspraken worden verleend voor 19 of minder vakantiedagen: met defactor 260 : 245.
 
-3. Met betrekking tot de in het tweede lid bedoelde werknemer bedraagt de afdrachtvermindering onderwijs per kalenderjaar niet meer dan het desbetreffende bedrag genoemd in [artikel 5, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5).
+3. Met betrekking tot de in het tweede lid bedoelde werknemer bedraagt de afdrachtvermindering onderwijs per kalenderjaar niet meer dan het desbetreffende bedrag genoemd in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5).
 
 4. Voor de toepassing van het tweede lid wordt het aantal vakantiedagen in aanmerking genomen tot het krachtens de publiekrechtelijke regeling of de collectieve arbeidsovereenkomst voor een volwassen werknemer geldende aantal zonder rekening te houden met feestdagen en met extra vakantiedagen die aan de werknemer worden toegekend in verband met zijn leeftijd of de duur van zijn dienstverband.
 
 ##### Artikel 3
 
-Voor de toepassing van [artikel 5, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5) blijft het aanmerken van het kwartaal als loontijdvak op de voet van [artikel 64, eerste lid, van de Uitvoeringsregeling loonbelasting 2001](onbekend)achterwege.
+Voor de toepassing van [artikel 5, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5) blijft het aanmerken van het kwartaal als loontijdvak op de voet van [artikel 64, eerste lid, van de Uitvoeringsregeling loonbelasting 2001](onbekend)achterwege.
 
 ##### Artikel 4
 
@@ -102,17 +102,17 @@ Ingeval de vermindering op de voet van [artikel 6, derde lid, van de wet](https:
 
 1. Ingeval het loon niet per tijdseenheid wordt berekend, is bij de bepaling van de vermindering op de voet van [artikel 6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [artikel 1, eerste lid, onderdeel c, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=1) niet van toepassing op dat loon. In dat geval vindt die vermindering, in afwijking van [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), inkomensevenredig plaats aan de hand van de verhouding van het in het loontijdvak ten minste op nihil te stellen genoten loon van de werknemer en het bedrag dat per kalenderjaar beloopt
 
-| indien hij de leeftijd heeft bereikt van | doch niet de leeftijd van |   |
+| Indien hij de leeftijd heeft bereikt van | doch niet de leeftijd van |   |
 | --- | --- | --- |
-| 15 jaren | 16 jaren: | € 5.152 |
-| 16 jaren | 17 jaren: | € 5.926 |
-| 17 jaren | 18 jaren: | € 6.784 |
-| 18 jaren | 19 jaren: | € 7.815 |
-| 19 jaren | 20 jaren: | € 9.017 |
-| 20 jaren | 21 jaren: | € 10.562 |
-| 21 jaren | 22 jaren: | € 12.451 |
-| 22 jaren | 23 jaren: | € 14.598 |
-| 23 jaren |   | € 17.170 |
+| 15 jaren | 16 jaren: | € 5 316 |
+| 16 jaren | 17 jaren: | € 6 113 |
+| 17 jaren | 18 jaren: | € 6 999 |
+| 18 jaren | 19 jaren: | € 8 062 |
+| 19 jaren | 20 jaren: | € 9 303 |
+| 20 jaren | 21 jaren: | € 10 897 |
+| 21jaren | 22 jaren | € 12 846 |
+| 22 jaren | 23 jaren: | € 15 060 |
+| 23 jaren |   | € 17 718 |
 
 2. Ingeval het eerste lid toepassing vindt administreert de inhoudingsplichtige per werknemer en per tijdvak waarover de vermindering wordt toegepast de in het eerste lid, tweede volzin, bedoelde verhouding.
 
@@ -318,7 +318,7 @@ Zolang de inhoudingsplichtige nog niet beschikt over een door alle betrokken par
 
 - c. de periode waarin de in de onderneming werkzame persoon de opleiding heeft gevolgd.
 
-3. De in [artikel 14, vijfde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) bedoelde verklaring van de Centrale organisatie werk en inkomen is een schriftelijk stuk en bevat ten minste:
+3. De in [artikel 14, vijfde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) bedoelde verklaring van het UWV is een schriftelijk stuk en bevat ten minste:
 
 - a. gegevens waaruit blijkt dat de werknemer een werkloze was op het tijdstip voorafgaand aan de aanvang van de dienstbetrekking;
 
@@ -468,13 +468,13 @@ Met betrekking tot het op 31 december 2004 nog niet verrekende gedeelte van de a
 
 ##### Artikel 12bb
 
-Als instanties als bedoeld in [artikel 14, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) worden aangewezen:
+Als instantie als bedoeld in [artikel 14, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) worden aangewezen:
 
-- a. het Kwaliteitscentrum examinering beroepsonderwijs, bedoeld in [artikel 7.4.9a, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.9a);
+- a. de Inspectie van het onderwijs, bedoeld in [artikel 2 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=2);
 
-- b. een Visiterende en Beoordelende Instantie als bedoeld in [artikel 5a.8a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.8a);
+- b. een beoordelende instantie als bedoeld in [artikel 5a.8a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.8a);
 
-- c. een door de Minister van Onderwijs, Cultuur en Wetenschappen nader te bepalen accrediterende partij.
+- c. een door de Minister van Onderwijs, Cultuur en Wetenschap nader te bepalen accrediterende partij.
 
 ### Hoofdstuk IVA. Afdrachtvermindering scholing
 
