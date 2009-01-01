@@ -4,7 +4,7 @@ identifier: "BWBR0024889"
 country: "nl"
 rank: "wet"
 publication_date: "2009-01-01"
-last_updated: "2007-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024889"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel II
 
@@ -53,7 +53,7 @@ Wijzigt de Invoerings- en aanpassingswet Wet op het financieel toezicht.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Faillissementswet.
 
 ##### Artikel IV
 
@@ -61,38 +61,38 @@ Wijzigt de Wet handhaving consumentenbescherming.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het consumentenkrediet.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 2.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Strafvordering.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Tijdelijke regeling invoering Wft.
 
 ##### Artikel VIIIA
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel VIIIB
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet, de Wet op het financieel toezicht en de Wet op de economische delicten.
 
 ##### Artikel VIIIC
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet op het financieel toezicht, enz. (transparantievereisten informatie uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten).
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel II, onderdelen E en G](https://wetten.overheid.nl/jci1.3:c:BWBR0024889&artikel=II&z=2009-01-01&g=2009-01-01), en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0024889&artikel=IV&z=2009-01-01&g=2009-01-01) werken terug tot en met 1 januari 2007.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Reparatiewet Wft.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
