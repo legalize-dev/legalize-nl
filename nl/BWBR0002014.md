@@ -4,7 +4,7 @@ identifier: "BWBR0002014"
 country: "nl"
 rank: "kb"
 publication_date: "2020-01-01"
-last_updated: "2007-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002014"
 soort: "KB"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - 1°. de werkgever, bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
 
-- 2°. de natuurlijke of rechtspersoon, voor wie [de onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Eerste&artikel=1&z=2007-01-01&g=2007-01-01) sub 2°. genoemde arbeid wordt verricht;
+- 2°. de natuurlijke of rechtspersoon, voor wie de onder b sub 2°. genoemde arbeid wordt verricht;
 
 - d. arbeidsverhouding: de rechtsbetrekking tussen werkgever en werknemer;
 
@@ -70,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 - f. dringende reden voor de werkgever: daden, eigenschappen of gedragingen van de werknemer, welke ten gevolge hebben dat van de werkgever redelijkerwijze niet kan worden gevergd de arbeidsverhouding te laten voortduren;
 
-- g. Centrale organisatie werk en inkomen: de Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4).
+- g. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
 
 ##### Artikel 2
 
@@ -104,7 +104,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. De werkgever behoeft voor de opzegging van de arbeidsverhouding voorafgaande toestemming van de Centrale organisatie werk en inkomen.
+1. De werkgever behoeft voor de opzegging van de arbeidsverhouding voorafgaande toestemming van het Uitvoeringsinstituut werknemersverzekeringen.
 
 2. De werkgever behoeft deze toestemming niet:
 
@@ -116,19 +116,19 @@ Vervallen
 
 3. Bij ministeriële regeling worden regels gesteld met betrekking tot de toestemming als bedoeld in het eerste lid.
 
-4. Alvorens een beslissing inzake het verlenen van toestemming krachtens het eerste lid wordt genomen, hoort de Centrale organisatie werk en inkomen vertegenwoordigers van de in aanmerking komende organisaties van werkgevers en werknemers, behoudens in bij ministeriële regeling bepaalde gevallen.
+4. Alvorens een beslissing inzake het verlenen van toestemming krachtens het eerste lid wordt genomen, hoort het Uitvoeringsinstituut werknemersverzekeringen vertegenwoordigers van de in aanmerking komende organisaties van werkgevers en werknemers, behoudens in bij ministeriële regeling bepaalde gevallen.
 
-5. Onze Minister kan de Centrale organisatie werk en inkomen aanwijzingen geven met betrekking tot de uitoefening van de bevoegdheid tot het verlenen van toestemming als bedoeld in het eerste lid. Hij treedt daarbij niet in de besluitvorming in individuele gevallen.
+5. Onze Minister kan het Uitvoeringsinstituut werknemersverzekeringen aanwijzingen geven met betrekking tot de uitoefening van de bevoegdheid tot het verlenen van toestemming als bedoeld in het eerste lid. Hij treedt daarbij niet in de besluitvorming in individuele gevallen.
 
-6. Bij ministeriële regeling kunnen voorzieningen worden getroffen voor het geval de Centrale organisatie werk en inkomen zijn uit dit artikel voortvloeiende verplichtingen niet naar behoren nakomt.
+6. Bij ministeriële regeling kunnen voorzieningen worden getroffen voor het geval het Uitvoeringsinstituut werknemersverzekeringen zijn uit dit artikel voortvloeiende verplichtingen niet naar behoren nakomt.
 
-7. De Centrale organisatie werk en inkomen brengt aan Onze Minister verslag uit over de wijze waarop de bevoegdheid tot het verlenen van de toestemming is uitgeoefend. Bij ministeriële regeling worden hieromtrent nadere regels gesteld.
+7. Het Uitvoeringsinstituut werknemersverzekeringen brengt aan Onze Minister verslag uit over de wijze waarop de bevoegdheid tot het verlenen van de toestemming is uitgeoefend. Bij ministeriële regeling worden hieromtrent nadere regels gesteld.
 
-8. De Centrale organisatie werk en inkomen is verplicht aan Onze Minister desgevraagd binnen een daartoe gestelde termijn en op de aangegeven wijze kosteloos alle opgaven te verstrekken betreffende de wijze waarop de bevoegdheid tot het verlenen van de toestemming is uitgeoefend.
+8. Het Uitvoeringsinstituut werknemersverzekeringen is verplicht aan Onze Minister desgevraagd binnen een daartoe gestelde termijn en op de aangegeven wijze kosteloos alle opgaven te verstrekken betreffende de wijze waarop de bevoegdheid tot het verlenen van de toestemming is uitgeoefend.
 
 9. Van het eerste lid kan bij ministeriële regeling voor bepaalde werknemers of groepen van werknemers voorwaardelijk of onvoorwaardelijk ontheffing of vrijstelling worden verleend.
 
-10. Tegen beslissingen van de Centrale organisatie werk en inkomen inzake het verlenen van toestemming op grond van het eerste lid staat geen beroep open bij het College van Beroep voor het Bedrijfsleven.
+10. Tegen beslissingen van het Uitvoeringsinstituut werknemersverzekeringen inzake het verlenen van toestemming op grond van het eerste lid staat geen beroep open bij het College van Beroep voor het Bedrijfsleven.
 
 ##### Artikel 7
 
@@ -144,15 +144,15 @@ Vervallen
 
 - b. ten aanzien van die werknemers, wier week- of maandloon op een vast bedrag is vastgesteld en niet daaronder daalt bij de werktijdverkorting;
 
-- c. voor de tijd, gedurende welke een door Onze Minister goedgekeurde wachtgeldregeling, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=10&z=2007-01-01&g=2007-01-01), van kracht is, ten aanzien van de onder die wachtgeldregeling vallende werknemers.
+- c. voor de tijd, gedurende welke een door Onze Minister goedgekeurde wachtgeldregeling, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=10&z=2009-01-01&g=2009-01-01), van kracht is, ten aanzien van de onder die wachtgeldregeling vallende werknemers.
 
 3. Van het bepaalde in het eerste lid kan voorts door of vanwege Onze Minister voor bepaalde werknemers of groepen van werknemers voorwaardelijk of onvoorwaardelijk ontheffing worden verleend.
 
 ##### Artikel 9
 
-1. Een opzegging zonder de op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=6&z=2007-01-01&g=2007-01-01) vereiste toestemming is vernietigbaar.
+1. Een opzegging zonder de op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=6&z=2009-01-01&g=2009-01-01) vereiste toestemming is vernietigbaar.
 
-2. Handelingen in strijd met [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=8&z=2007-01-01&g=2007-01-01), zijn vernietigbaar.
+2. Handelingen in strijd met [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=8&z=2009-01-01&g=2009-01-01), zijn vernietigbaar.
 
 3. De werknemer kan gedurende zes maanden een beroep op deze vernietigingsgrond doen.
 
@@ -254,7 +254,7 @@ Vervallen
 
 ##### Artikel 32
 
-Onze Minister kan bevoegdheden, welke krachtens dit besluit aan hem of aan de Centrale organisatie werk en inkomen toekomen, overdragen aan organisaties uit het bedrijfsleven.
+Onze Minister kan bevoegdheden, welke krachtens dit besluit aan hem of aan het Uitvoeringsinstituut werknemersverzekeringen toekomen, overdragen aan organisaties uit het bedrijfsleven.
 
 ##### Artikel 33
 
