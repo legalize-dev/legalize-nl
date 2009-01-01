@@ -213,19 +213,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2009.
 Dit besluit wordt aangehaald als: Besluit vervuilingswaarde ingenomen water 2009.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit berust mede op [artikel 7.5, vijfde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6a
-
-In afwijking van [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025073&artikel=2&z=2026-01-01&g=2026-01-01), wordt voor de heffingplichtige op wie [artikel 166 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=166) van toepassing is onder geschatte vervuilingswaarde verstaan hetgeen artikel 4, tweede lid, van het Besluit vervuilingswaarde ingenomen water 2009, daaronder verstaat zoals dat luidde voor inwerkingtreding van het Besluit van 22 april 2025, houdende wijziging van het Besluit vervuilingswaarde ingenomen water 2009 en enkele andere besluiten in verband met het opnemen van een praktische regeling voor de bepaling van de vervuilingswaarde per m3 ingenomen water en enkele technische wijzigingen (Stb. 2025, 130).
-
-##### Artikel 9
-
-Dit besluit wordt aangehaald als: Besluit vervuilingswaarde ingenomen water 2009.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
