@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-09-06"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1. Reikwijdte
 
-Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=6),[8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=17),[25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=31), en [47 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47)
+Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=6), [8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=17),[25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=31), en [47 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47)
 
 ##### Artikel 2. Definities
 
@@ -71,7 +71,7 @@ Deze regeling verstaat onder wet: [Algemene wet inkomensafhankelijke regelingen]
 
 ##### Artikel 4. Herleiding toetsingsinkomen
 
-Het verzoek, bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), kan worden gedaan tot het tijdstip waarop de toekenning van de tegemoetkoming over het desbetreffende berekeningsjaar onherroepelijk is geworden.
+Het verzoek, bedoeld in [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), kan worden gedaan tot het tijdstip waarop de toekenning van de tegemoetkoming over het desbetreffende berekeningsjaar onherroepelijk is geworden.
 
 ##### Artikel 5. Melding wijziging omstandigheden
 
@@ -89,7 +89,7 @@ Het verzoek, bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overh
 
 - a. een wijziging in de huurprijs;
 
-- b. het aangaan van of het beëindigen van een huurcontract, waaronder begrepen een schriftelijke overeenkomst als bedoeld in [artikel 2, eerste lid, onderdeel g, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=2);
+- b. het aangaan van of het beëindigen van een huurcontract, waaronder begrepen een schriftelijke overeenkomst als bedoeld in [artikel 2, eerste lid, onderdeel f, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=2);
 
 - c. een verandering van verhuurder;
 
@@ -133,7 +133,7 @@ Indien op grond van [artikel 25, eerste lid, van de wet](https://wetten.overheid
 
 1. Indien de belanghebbende tijdig een gemotiveerd bezwaar heeft ingediend tegen de terugvordering dan wel beroep of hoger beroep heeft ingediend tegen de uitspraak op een bezwaar, verleent de Belastingdienst/Toeslagen uitstel van betaling van de terugvordering tot het moment waarop op het bezwaar, het beroep of hoger beroep is beslist.
 
-2. Het eerste lid vindt overeenkomstige toepassing indien bezwaar, beroep, hoger beroep of beroep in cassatie is ingediend tegen een aanslag inkomstenbelasting dan wel een beschikking inzake het belastbare loon die is afgegeven op grond van [artikel 8, negende of tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), die bepalend is voor de draagkracht waarmee bij de terugvordering rekening is gehouden.
+2. Het eerste lid vindt overeenkomstige toepassing indien bezwaar, beroep, hoger beroep of beroep in cassatie, dan wel een verzoek om ambtshalve vermindering is ingediend ter zake van een inkomensgegeven als bedoeld in [artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21), dat bepalend is voor de draagkracht waarmee bij de terugvordering rekening is gehouden.
 
 ##### Artikel 9. Hardheidsclausule
 
