@@ -4,7 +4,7 @@ identifier: "BWBR0018053"
 country: "nl"
 rank: "wet"
 publication_date: "2014-12-20"
-last_updated: "2008-08-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018053"
 soort: "wet"
@@ -115,6 +115,6 @@ Deze wet wordt aangehaald als: Wet aanpassing fiscale behandeling VUT/prepensioe
 
 1. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 januari 2005.
 
-2. [Artikel 10, vierde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10), zoals dat komt te luiden ingevolge [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018053&artikel=I&z=2008-08-01&g=2008-08-01), werkt terug tot en met 16 september 2004 voor uitkeringen die worden genoten als gevolg van afkoop, vervreemding of het formeel of feitelijk onderwerp van zekerheid worden van de aanspraak, anders dan ten behoeve van uitstel van betaling op grond van [artikel 25, vijfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
+2. [Artikel 10, vierde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10), zoals dat komt te luiden ingevolge [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018053&artikel=I&z=2008-08-01&g=2009-01-01), werkt terug tot en met 16 september 2004 voor uitkeringen die worden genoten als gevolg van afkoop, vervreemding of het formeel of feitelijk onderwerp van zekerheid worden van de aanspraak, anders dan ten behoeve van uitstel van betaling op grond van [artikel 25, vijfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
