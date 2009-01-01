@@ -4,7 +4,7 @@ identifier: "BWBR0024975"
 country: "nl"
 rank: "wet"
 publication_date: "2010-12-31"
-last_updated: "2008-12-31"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024975"
 soort: "wet"
@@ -46,23 +46,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel VI
 
@@ -70,7 +70,7 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Successiewet 1956.
 
 ##### Artikel VIII
 
@@ -86,47 +86,59 @@ Voor de producent, bedoeld in [artikel 84a, eerste lid, van de Wet belastingen o
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) vindt geen toepassing bij het begin van het kalenderjaar 2009 op de bedragen, genoemd in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=86).
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel 16a, eerste en tweede lid, van de Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16a) is van overeenkomstige toepassing op de wijzigingen van het belastingbedrag in de [artikelen 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9b), [9ba](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9ba) en [9c van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9c) ingevolge [artikel XII, onderdelen Ba, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XII&z=2009-01-01&g=2009-01-01).
+
+2. [Artikel XII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XII&z=2009-01-01&g=2009-01-01), vindt geen toepassing ten aanzien van personenauto’s die vóór 1 januari 2009 voor het eerst in gebruik zijn genomen.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel XIXA
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+1. Bij ministeriële regeling worden de in [artikel 23 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23) opgenomen bedragen voor de jaren 2010 tot en met 2013 telkens verhoogd met een percentage van die bedragen, welk percentage wordt berekend met behulp van de volgende formule V/((OM – V) x AP) x 100% waarbij:
+
+V staat voor: € 185 miljoen voor de jaren 2010, 2011 en 2012 en € 480 miljoen voor het jaar 2013;
+
+OM staat voor: de voor het desbetreffende jaar in de Miljoenennota voor dat jaar geraamde opbrengst van de motorrijtuigenbelasting in miljoenen euro;
+
+AP staat voor: het aandeel van de geraamde opbrengst motorrijtuigenbelasting personenauto’s en bestelauto’s van particulieren in OM zoals vermeld in het Belastingplan voor het desbetreffende jaar.
+
+2. Bij ministeriële regeling wordt het in [artikel 25 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25) opgenomen bedrag voor de jaren 2010 tot en met 2013 telkens verhoogd met het ingevolge het eerste lid berekende percentage.
+
+3. De in het eerste en tweede lid bedoelde verhogingen van de motorrijtuigenbelasting vinden eerst toepassing nadat [artikel 81a van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=81a) voor het desbetreffende jaar is toegepast.
 
 ##### Artikel XXI
 
@@ -142,19 +154,21 @@ Wijzigt het Belastingplan 2008.
 
 ##### Artikel XXIIIA
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeid en zorg.
 
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel 6:2 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:2) is niet van toepassing op de werknemer die voor een kind het verlof, bedoeld in [artikel 6:2 van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:2), geheel of gedeeltelijk heeft opgenomen. Op die werknemer blijft voor dat kind genoemd artikel van toepassing zoals dat luidde op 31 december 2008.
+
+2. De regeling in een voor 1 januari 2009 geldende collectieve arbeidsovereenkomst over het geheel of gedeeltelijk doorbetalen van het loon gedurende de periode van het verlof, bedoeld in [artikel 6:2 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:2), en de invulling van het verlof, geldt uitsluitend voor het verlof zoals dat gold voor 1 januari 2009.
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+**Vervallen**
 
 ##### Artikel XXVII
 
@@ -162,40 +176,40 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVIIA
 
-Dit onderdeel is nog niet inwerking getreden
+Ingeval de samenloop van wetten die in 2008 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
 ##### Artikel XXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+De wijziging ingevolge [artikel VI, onderdeel 0A](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=VI&z=2009-01-01&g=2009-01-01), van [artikel 10, eerste lid, onderdeel j, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) vindt geen toepassing met betrekking tot vóór 1 januari 2009 aan werknemers toegekende rechten welke zijn uitgeoefend of vervreemd vóór 1 januari 2010.
 
 ##### Artikel XXIX
 
 1. Deze wet treedt in werking met ingang van 1 januari 2009, met dien verstande dat:
 
-- a. [artikel I, onderdelen A, P, Q, S, T, V, W en X](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=I&z=2009-01-01&g=2008-12-31), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2009 is toegepast;
+- a. [artikel I, onderdelen A, P, Q, S, T, V, W en X](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=I&z=2009-01-01&g=2009-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2009 is toegepast;
 
-- b. [artikel IV, onderdelen B, D, E, F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=IV&z=2009-01-01&g=2008-12-31), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2009 is toegepast.
+- b. [artikel IV, onderdelen B, D, E, F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=IV&z=2009-01-01&g=2009-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2009 is toegepast.
 
-2. In afwijking van het eerste lid treedt [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=I&z=2009-01-01&g=2008-12-31), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met 1 januari 2009. Het [artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=I&z=2009-01-01&g=2008-12-31) vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na dat tijdstip van inwerkingtreding.
+2. In afwijking van het eerste lid treedt [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=I&z=2009-01-01&g=2009-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met 1 januari 2009. Het [artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=I&z=2009-01-01&g=2009-01-01) vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na dat tijdstip van inwerkingtreding.
 
-3. In afwijking van het eerste lid werkt [artikel VI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=VI&z=2009-01-01&g=2008-12-31), terug tot en met 1 januari 2008.
+3. In afwijking van het eerste lid werkt [artikel VI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=VI&z=2009-01-01&g=2009-01-01), terug tot en met 1 januari 2008.
 
-4. In afwijking van het eerste lid treedt [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=VIII&z=2009-01-01&g=2008-12-31) in werking met ingang van 1 juli 2009.
+4. In afwijking van het eerste lid treedt [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=VIII&z=2009-01-01&g=2009-01-01) in werking met ingang van 1 juli 2009.
 
-5. In afwijking van het eerste lid werkt [artikel IX, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=IX&z=2009-01-01&g=2008-12-31), terug tot en met 1 juli 2008.
+5. In afwijking van het eerste lid werkt [artikel IX, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=IX&z=2009-01-01&g=2009-01-01), terug tot en met 1 juli 2008.
 
-6. In afwijking van het eerste lid werken de [artikelen IX, onderdelen C, E, F, eerste lid, H tot en met J, L, P tot en met R](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=IX&z=2009-01-01&g=2008-12-31), [X](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=X&z=2009-01-01&g=2008-12-31), [XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XXI&z=2009-01-01&g=2008-12-31), en [XXIII, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XXIII&z=2009-01-01&g=2008-12-31), terug tot en met 1 januari 2008.
+6. In afwijking van het eerste lid werken de [artikelen IX, onderdelen C, E, F, eerste lid, H tot en met J, L, P tot en met R](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=IX&z=2009-01-01&g=2009-01-01), [X](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=X&z=2009-01-01&g=2009-01-01), [XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XXI&z=2009-01-01&g=2009-01-01), en [XXIII, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XXIII&z=2009-01-01&g=2009-01-01), terug tot en met 1 januari 2008.
 
-7. In afwijking van het eerste lid werkt [artikel IX, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=IX&z=2009-01-01&g=2008-12-31), terug tot en met 1 april 2008.
+7. In afwijking van het eerste lid werkt [artikel IX, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=IX&z=2009-01-01&g=2009-01-01), terug tot en met 1 april 2008.
 
-8. In afwijking van het eerste lid treden de [artikelen XVIII, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XVIII&z=2009-01-01&g=2008-12-31), en [XXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XXVII&z=2009-01-01&g=2008-12-31) in werking met ingang van 1 april 2009.
+8. In afwijking van het eerste lid treden de [artikelen XVIII, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XVIII&z=2009-01-01&g=2009-01-01), en [XXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XXVII&z=2009-01-01&g=2009-01-01) in werking met ingang van 1 april 2009.
 
-9. In afwijking van het eerste lid treedt [artikel XVIII, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XVIII&z=2009-01-01&g=2008-12-31), in werking op een bij koninklijk besluit te bepalen tijdstip.
+9. In afwijking van het eerste lid treedt [artikel XVIII, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XVIII&z=2009-01-01&g=2009-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-10. In afwijking van het eerste lid werkt [artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XXII&z=2009-01-01&g=2008-12-31) terug tot en met 16 september 2008 voor aanslagen die op die datum nog niet onherroepelijk vaststaan.
+10. In afwijking van het eerste lid werkt [artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XXII&z=2009-01-01&g=2009-01-01) terug tot en met 16 september 2008 voor aanslagen die op die datum nog niet onherroepelijk vaststaan.
 
 ##### Artikel XXX
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Belastingplan 2009.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
