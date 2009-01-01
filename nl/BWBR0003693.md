@@ -4,7 +4,7 @@ identifier: "BWBR0003693"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2003-08-27"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003693"
 soort: "AMvB"
@@ -76,13 +76,13 @@ In dit besluit wordt verstaan onder:
 
 De financiële draagkracht wordt eenmalig berekend en bepaald op:
 
-- a. 10 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2003-08-27&g=2003-08-27) vastgestelde inkomen dat de maximum-grondslag niet overschrijdt, met dien verstande dat van dat deel 80 procent van de minimum-grondslag wordt vrijgelaten;
+- a. 10 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2003-08-27&g=2009-01-01) vastgestelde inkomen dat de maximum-grondslag niet overschrijdt, met dien verstande dat van dat deel 80 procent van de minimum-grondslag wordt vrijgelaten;
 
-- b. 50 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2003-08-27&g=2003-08-27) vastgestelde inkomen dat de maximum-grondslag overschrijdt.
+- b. 50 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2003-08-27&g=2009-01-01) vastgestelde inkomen dat de maximum-grondslag overschrijdt.
 
 ##### Artikel 4
 
-De tegemoetkoming in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2003-08-27&g=2003-08-27), bedoelde kosten van voorzieningen wordt vastgesteld op het bedrag waarmede die kosten de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=3&z=2003-08-27&g=2003-08-27) berekende financiële draagkracht overschrijden.
+De tegemoetkoming in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2003-08-27&g=2009-01-01), bedoelde kosten van voorzieningen wordt vastgesteld op het bedrag waarmede die kosten de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=3&z=2003-08-27&g=2009-01-01) berekende financiële draagkracht overschrijden.
 
 ##### Artikel 5
 
