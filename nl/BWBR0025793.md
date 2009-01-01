@@ -59,9 +59,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Vergoedingenregeling Raad voor cultuur.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Dit onderdeel is nog niet inwerking getreden
-
-Deze regeling zal in de Staatscourant worden geplaatst.
