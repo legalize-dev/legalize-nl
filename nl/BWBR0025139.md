@@ -4,7 +4,7 @@ identifier: "BWBR0025139"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2008-11-16"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025139"
 soort: "pbo"
@@ -115,7 +115,7 @@ Besluit:
 
 ##### Artikel 5
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025139&paragraaf=4&artikel=4&z=2008-11-16&g=2008-11-16), niet in overeenstemming blijkt met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025139&paragraaf=4&artikel=4&z=2008-11-16&g=2009-01-01), niet in overeenstemming blijkt met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 6
 
