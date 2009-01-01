@@ -4,7 +4,7 @@ identifier: "BWBR0007397"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2008-02-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007397"
 soort: "AMvB"
@@ -78,17 +78,21 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-De commissie heeft tot taak Onze Minister met betrekking tot een in het buitenland genoten opleiding tot een in artikel 3 van de wet genoemd beroep of een krachtens artikel 34 van de wet aangewezen beroep van advies te dienen over de vraag:
+1. De commissie heeft tot taak Onze Minister met betrekking tot een in het buitenland genoten opleiding tot een in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) genoemd beroep of een krachtens [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34) aangewezen beroep van advies te dienen over de vraag:
 
-- a. welke buiten het EER-gebied behaalde getuigschriften in aanmerking komen voor aanwijzing krachtens artikel 41, eerste lid, onder **a**, dan wel 45, eerste lid, onder **a**, van de wet;
+- a. welke buiten het EER-gebied behaalde getuigschriften in aanmerking komen voor aanwijzing krachtens [artikel 41, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), dan wel [45, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45);
 
-- b. of aan een buitenslands gediplomeerde op aanvraag een verklaring als bedoeld in artikel 41, eerste lid, onder **b**, van de wet behoort te worden afgegeven;
+- b. of aan een buitenslands gediplomeerde op aanvraag een verklaring als bedoeld in [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41) behoort te worden afgegeven;
 
-- c. of aan een buitenslands gediplomeerde op aanvraag een verklaring als bedoeld in artikel 45, eerste lid, onder **b**, van de wet behoort te worden afgegeven;
+- c. of aan een buitenslands gediplomeerde op aanvraag een verklaring als bedoeld in [artikel 45, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45) behoort te worden afgegeven;
 
-- d. of aan de onder **b** bedoelde verklaring beperkingen als bedoeld in artikel 41, derde lid, van de wet moeten worden verbonden;
+- d. of aan de onder b bedoelde verklaring beperkingen als bedoeld in [artikel 41, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41) moeten worden verbonden;
 
-- e. of sprake is van een bijzonder geval als bedoeld in artikel 41, vierde lid, van de wet.
+- e. of sprake is van een bijzonder geval als bedoeld in [artikel 41, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41).
+
+2. De commissie heeft voorts tot taak Onze Minister van advies te dienen over de vraag of werkervaring als bedoeld in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8), welke is opgedaan buiten het EER-gebied en buiten Zwitserland, kan meetellen bij het vaststellen van het aantal uren waarbinnen de werkzaamheden zijn verricht op het terrein van het desbetreffende beroep binnen de individuele gezondheidszorg.
+
+3. Op verzoek van Onze Minister adviseert de commissie Onze Minister over de vraag of de werkervaring die een fysiotherapeut heeft opgedaan buiten Nederland, doch binnen het EER-gebied of in Zwitserland, kan meetellen bij het vaststellen van het aantal uren waarbinnen de werkzaamheden zijn verricht op het terrein van de fysiotherapie.
 
 ##### Artikel 4
 
@@ -104,7 +108,7 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 2. De commissie kan externe deskundigen raadplegen.
 
-3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2008-02-01&g=2008-02-01), voor het desbetreffende beroep bedoelde samenstelling.
+3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2009-01-01&g=2009-01-01), voor het desbetreffende beroep bedoelde samenstelling.
 
 ##### Artikel 7
 
@@ -130,9 +134,9 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 ##### Artikel 8
 
-1. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een door Onze Minister aangewezen getuigschrift als bedoeld in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register de bescheiden, bedoeld in [artikel 7, eerste lid, onder b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=2008-02-01&g=2008-02-01).
+1. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een door Onze Minister aangewezen getuigschrift als bedoeld in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register de bescheiden, bedoeld in [artikel 7, eerste lid, onder b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=2009-01-01&g=2009-01-01).
 
-2. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een verklaring als bedoeld in [artikel 41, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register het document, bedoeld in [artikel 7, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=2008-02-01&g=2008-02-01).
+2. Onverminderd [artikel 2 van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), verstrekt degene die in het bezit is van een verklaring als bedoeld in [artikel 41, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), bij zijn aanvrage om inschrijving in het desbetreffende register het document, bedoeld in [artikel 7, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7&z=2009-01-01&g=2009-01-01).
 
 ##### Artikel 9
 
@@ -150,7 +154,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a
 
-1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2008-02-01&g=2008-02-01).
+1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2009-01-01&g=2009-01-01).
 
 2. Onze Minister stelt per beroepsgroep een tarief vast voor de kennis- en vaardighedentoets.
 
