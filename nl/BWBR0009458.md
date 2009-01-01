@@ -4,7 +4,7 @@ identifier: "BWBR0009458"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2008-02-27"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009458"
 soort: "wet"
@@ -50,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&hoofdstuk=1&artikel=2&z=2008-02-27&g=2008-02-27);
+- a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=2&z=2009-01-01&g=2009-01-01);
 
 - b. projectsubsidie: subsidie die anders dan per boekjaar wordt verstrekt.
 
@@ -72,7 +72,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Reikwijdte
 
-1. Deze wet is niet van toepassing op subsidie die Onze Minister verstrekt krachtens een andere wet, behoudens de tweede volzin en het tweede lid. De [artikelen 4 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&hoofdstuk=1&artikel=4&z=2008-02-27&g=2008-02-27) zijn van toepassing op subsidie die Onze Minister verstrekt krachtens de [artikelen 70 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=70), [71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71), [46, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=46), [47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=47), en [75d van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=75d) en [2.7 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.7).
+1. Deze wet is niet van toepassing op subsidie die Onze Minister verstrekt krachtens een andere wet, behoudens de tweede volzin en het tweede lid. De [artikelen 4 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=4&z=2009-01-01&g=2009-01-01) zijn van toepassing op subsidie die Onze Minister verstrekt krachtens de [artikelen 70 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=70), [71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71), [46, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=46), [47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=47), en [75d van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=75d) en [2.7 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.7).
 
 2. Onze Minister kan in afwijking van een andere wet als bedoeld in het eerste lid, in dringende gevallen subsidie op grond van deze wet verstrekken ten behoeve van extra activiteiten van bepaalde omvang en duur of extra voorzieningen, een en ander gericht op een specifieke bestemming der middelen. Verstrekking van subsidie als bedoeld in de eerste volzin, vindt slechts plaats indien die subsidie incidenteel van aard is of de subsidieverstrekking vooruitloopt op de totstandkoming van wetgeving terzake. Deze subsidieverstrekking geschiedt dan:
 
@@ -84,7 +84,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De in het tweede lid bedoelde algemene maatregel van bestuur of ministeriële regeling wordt aan de beide kamers der Staten-Generaal overgelegd. De algemene maatregel van bestuur of ministeriële regeling treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een der kamers de wens wordt te kennen gegeven dat het in die algemene maatregel van bestuur of ministeriële regeling geregelde onderwerp bij wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.
 
-4. In geval van subsidieverstrekking als bedoeld in het tweede lid is [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&hoofdstuk=1&artikel=4&z=2008-02-27&g=2008-02-27), niet van toepassing.
+4. In geval van subsidieverstrekking als bedoeld in het tweede lid is [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=4&z=2009-01-01&g=2009-01-01), niet van toepassing.
 
 ##### Artikel 4. Vereisten subsidieverstrekking
 
@@ -237,5 +237,41 @@ Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte
 ##### Artikel 23. Citeertitel
 
 Deze wet wordt aangehaald als: Wet overige OCW-subsidies.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+## Deel I. Subsidies
+
+### Hoofdstuk 1. Algemene bepalingen
+
+### Hoofdstuk 2. Per boekjaar verstrekte subsidies
+
+### Hoofdstuk 3. Projectsubsidies
+
+## Deel II. Onderwijsvoorzieningen voor jongeren met een handicap
+
+##### Artikel 19a. Onderwijsvoorzieningen voor jongeren met een handicap
+
+1. Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), heeft tot taak te bevorderen dat belemmeringen worden weggenomen die de ingezetene, bedoeld in [artikel 3 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3), vanwege ziekte of gebrek ondervindt bij het volgen van onderwijs, indien het een persoon betreft die:
+
+- a. jonger is dan 17 jaar;
+
+- b. studerende is als bedoeld in [artikel 5 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=5);
+
+- c. jonger is dan 30 jaar en uitsluitend vanwege zijn ziekte of gebrek niet kan worden aangemerkt als studerende bedoeld in [artikel 5 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=5).
+
+2. Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag aan de persoon, bedoeld in het eerste lid, voorzieningen toekennen die hem in staat stellen onderwijs te volgen.
+
+3. Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag van de persoon, bedoeld in het eerste lid, vervoersvoorzieningen toekennen die strekken tot verbetering van zijn leefomstandigheden en die deel uitmaken van dan wel rechtstreeks samenhangen met voorzieningen als bedoeld in het tweede lid.
+
+4. Onder voorzieningen als bedoeld in het tweede lid wordt niet verstaan financiering van of kinderopvangtoeslag in de kosten van kinderopvang.
+
+5. De [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=16), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=33), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=55), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=56), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=58), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59) en [62 van de Wet arbeidsongeschiktheidsvoorziening jongehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=62) zijn van overeenkomstige toepassing op de toekenning van voorzieningen als bedoeld in het tweede lid.
+
+6. Beschikkingen op grond van [artikel 2.17 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.17) worden na de inwerkingtreding van deze wet aangemerkt als beschikkingen op grond van deze wet.
+
+7. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot dit artikel nadere regels worden gesteld.
+
+### Hoofdstuk 4. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
