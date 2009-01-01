@@ -4,7 +4,7 @@ identifier: "BWBR0003026"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2004-05-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003026"
 soort: "wet"
@@ -49,7 +49,7 @@ In deze wet wordt verstaan onder:
 
 - b. **werkgever** en **werknemer:** partijen bij een arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
 
-- c. bevoegd gezag: de Centrale organisatie werk en inkomen, genoemd in [hoofdstuk 4 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=4) dan wel een organisatie uit het bedrijfsleven waaraan door Onze Minister op grond van [artikel 32 van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=32) de bevoegdheid tot het verlenen van toestemming krachtens [artikel 6, eerste lid, van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=6) is overgedragen;
+- c. bevoegd gezag: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5) dan wel een organisatie uit het bedrijfsleven waaraan door Onze Minister op grond van [artikel 32 van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=32) de bevoegdheid tot het verlenen van toestemming krachtens [artikel 6, eerste lid, van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=6) is overgedragen;
 
 - d. **werkgebied:** een door Onze Minister vastgesteld gebied.
 
@@ -63,7 +63,7 @@ In deze wet wordt verstaan onder:
 
 2. Deze wet is voorts niet van toepassing op het doen eindigen van dienstbetrekkingen wegens het aflopen van de seizoenarbeid voor het verrichten waarvan zij werden aangegaan. Onze Minister kan arbeid aanwijzen, die voor de toepassing van de vorige volzin in ieder geval als seizoenarbeid wordt beschouwd. Een zodanige aanwijzing wordt in de **Nederlandse Staatscourant** bekend gemaakt.
 
-3. In afwijking van het eerste lid zijn de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01) en [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=4&z=2004-05-01&g=2004-05-01) van deze wet tevens van toepassing op het doen eindigen van dienstbetrekkingen ten gevolge van faillissement van de werkgever of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen.
+3. In afwijking van het eerste lid zijn de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2009-01-01&g=2009-01-01) en [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=4&z=2009-01-01&g=2009-01-01) van deze wet tevens van toepassing op het doen eindigen van dienstbetrekkingen ten gevolge van faillissement van de werkgever of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen.
 
 #### § 2. Verplichting tot melding collectief ontslag
 
@@ -79,7 +79,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De werkgever doet bij de meldingen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01), opgave van de overwegingen die tot het daar bedoelde voornemen hebben geleid.
+1. De werkgever doet bij de meldingen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2009-01-01&g=2009-01-01), opgave van de overwegingen die tot het daar bedoelde voornemen hebben geleid.
 
 2. De werkgever doet bij de meldingen voorts zo nauwkeurig mogelijk opgave van:
 
@@ -105,11 +105,11 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 5
 
-Indien bij een melding aan het bevoegd gezag de ingevolge [artikel 4, eerste t/m vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=4&z=2004-05-01&g=2004-05-01) vereiste gegevens niet volledig zijn verstrekt, zendt het bevoegd gezag aan de werkgever een schriftelijke mededeling, aangevende welke gegevens nog ontbreken. Zolang de ontbrekende gegevens niet zijn verstrekt, wordt de melding geacht niet te zijn gedaan.
+Indien bij een melding aan het bevoegd gezag de ingevolge [artikel 4, eerste t/m vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=4&z=2009-01-01&g=2009-01-01) vereiste gegevens niet volledig zijn verstrekt, zendt het bevoegd gezag aan de werkgever een schriftelijke mededeling, aangevende welke gegevens nog ontbreken. Zolang de ontbrekende gegevens niet zijn verstrekt, wordt de melding geacht niet te zijn gedaan.
 
 ##### Artikel 6
 
-1. Het bevoegd gezag neemt verzoeken om toestemming tot het doen eindigen van de dienstbetrekkingen van werknemers ter uitvoering van een voornemen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01), niet eerder in behandeling dan een maand nadat dat voornemen is gemeld zoals bedoeld in de[artikelen 3-5](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01).
+1. Het bevoegd gezag neemt verzoeken om toestemming tot het doen eindigen van de dienstbetrekkingen van werknemers ter uitvoering van een voornemen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2009-01-01&g=2009-01-01), niet eerder in behandeling dan een maand nadat dat voornemen is gemeld zoals bedoeld in de[artikelen 3-5](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2009-01-01&g=2009-01-01).
 
 2. Indien uit de melding blijkt, dat de ondernemingsraad van de betrokken onderneming alsnog geraadpleegd dient te worden of indien de belanghebbende verenigingen van werknemers door de werkgever nog niet voor het plegen van overleg zijn uitgenodigd, neemt het bevoegd gezag de in het eerste lid bedoelde verzoeken niet eerder in behandeling dan nadat aan dit gezag gebleken is dat die raadpleging heeft plaatsgevonden, onderscheidenlijk dat die uitnodiging is gedaan.
 
@@ -125,19 +125,19 @@ Indien de melding wordt ondersteund door een verklaring van de belanghebbende ve
 
 ##### Artikel 7
 
-1. Zodra het bevoegd gezag heeft vastgesteld dat een werkgever binnen een tijdvak van drie maanden heeft verzocht om toestemming tot het doen eindigen van de dienstbetrekkingen van ten minste twintig werknemers zonder dat die werkgever een die werknemers omvattende melding als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01), heeft gedaan, neemt het bevoegd gezag de verzoeken waarop het nog niet heeft beslist niet of niet verder in behandeling. Van de toepassing van de vorige volzin doet het bevoegd gezag schriftelijk mededeling aan de werkgever.
+1. Zodra het bevoegd gezag heeft vastgesteld dat een werkgever binnen een tijdvak van drie maanden heeft verzocht om toestemming tot het doen eindigen van de dienstbetrekkingen van ten minste twintig werknemers zonder dat die werkgever een die werknemers omvattende melding als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2009-01-01&g=2009-01-01), heeft gedaan, neemt het bevoegd gezag de verzoeken waarop het nog niet heeft beslist niet of niet verder in behandeling. Van de toepassing van de vorige volzin doet het bevoegd gezag schriftelijk mededeling aan de werkgever.
 
 2. De werkgever wordt alsdan geacht voornemens te zijn de dienstbetrekkingen van de in het eerste lid bedoelde werknemers binnen een tijdvak van drie maanden te doen eindigen.
 
-3. De behandeling van de verzoeken waarop nog niet is beslist, wordt niet eerder aangevangen of voortgezet dan twee maanden nadat de werkgever overeenkomstig de[artikelen 3-5](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01) een melding heeft gedaan welke alle in het eerste lid bedoelde werknemers omvat.
+3. De behandeling van de verzoeken waarop nog niet is beslist, wordt niet eerder aangevangen of voortgezet dan twee maanden nadat de werkgever overeenkomstig de[artikelen 3-5](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2009-01-01&g=2009-01-01) een melding heeft gedaan welke alle in het eerste lid bedoelde werknemers omvat.
 
-4. [Artikel 6, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=6&z=2004-05-01&g=2004-05-01), en [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=6a&z=2004-05-01&g=2004-05-01) zijn van overeenkomstige toepassing.
+4. [Artikel 6, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=6&z=2009-01-01&g=2009-01-01), en [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=6a&z=2009-01-01&g=2009-01-01) zijn van overeenkomstige toepassing.
 
 #### § 4. Slotbepalingen
 
 ##### Artikel 8
 
-Ieder die uit hoofde van zijn functie bij een vereniging van werknemers of in een commissie die het bevoegd gezag van advies dient, kennis neemt van een melding als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01) is verplicht tot geheimhouding van deze melding en van de inhoud daarvan, indien de werkgever dit bij die melding, onder opgave van redenen, uitdrukkelijk heeft verzocht. Deze verplichting vervalt zodra de verzoeken om toestemming tot ontslag in behandeling worden genomen, dan wel zoveel eerder als daaromtrent overeenstemming wordt bereikt tussen de werkgever en de verenigingen van werknemers aan welke de melding is gedaan.
+Ieder die uit hoofde van zijn functie bij een vereniging van werknemers of in een commissie die het bevoegd gezag van advies dient, kennis neemt van een melding als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2009-01-01&g=2009-01-01) is verplicht tot geheimhouding van deze melding en van de inhoud daarvan, indien de werkgever dit bij die melding, onder opgave van redenen, uitdrukkelijk heeft verzocht. Deze verplichting vervalt zodra de verzoeken om toestemming tot ontslag in behandeling worden genomen, dan wel zoveel eerder als daaromtrent overeenstemming wordt bereikt tussen de werkgever en de verenigingen van werknemers aan welke de melding is gedaan.
 
 ##### Artikel 9
 
