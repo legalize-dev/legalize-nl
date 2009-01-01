@@ -4,7 +4,7 @@ identifier: "BWBR0022751"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2008-09-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022751"
 soort: "wet"
@@ -64,17 +64,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Het kindgebonden budget bedraagt voor een berekeningsjaar:
 
-- a. indien de ouder aanspraak heeft voor één kind : € 994;
+- a. indien de ouder aanspraak heeft voor één kind : € 1011,–;
 
-- b. indien de ouder aanspraak heeft voor twee kinderen: € 1299;
+- b. indien de ouder aanspraak heeft voor twee kinderen: € 1322,–;
 
-- c. indien de ouder aanspraak heeft voor drie kinderen: € 1479;
+- c. indien de ouder aanspraak heeft voor drie kinderen: € 1505,–;
 
-- d. indien de ouder aanspraak heeft voor vier kinderen: € 1584;
+- d. indien de ouder aanspraak heeft voor vier kinderen: € 1611,–;
 
-- e. indien de ouder aanspraak heeft voor meer dan vier kinderen: € 1 584, verhoogd met zoveel maal € 50 als het aantal kinderen meer bedraagt dan vier.
+- e. indien de ouder aanspraak heeft voor meer dan vier kinderen: € 1611,–, verhoogd met zoveel maal € 51,– als het aantal kinderen meer bedraagt dan vier.
 
-3. Bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van meer dan € 29 413 wordt het bedrag waarop recht bestaat op grond van het tweede lid verminderd met 6,5% van het verschil tussen het gezamenlijke toetsingsinkomen en € 29 413.
+3. Bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van meer dan € 29914,– wordt het bedrag waarop recht bestaat op grond van het tweede lid verminderd met 6,5% van het verschil tussen het gezamenlijke toetsingsinkomen en € 29914,–.
 
 4. Een ouder als bedoeld in het eerste lid en zijn partner die tevens ouder is als bedoeld in het eerste lid worden voor de toepassing van deze wet geacht gezamenlijk één aanspraak te hebben.
 
@@ -84,11 +84,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3. Wijziging bedragen
 
-1. Bij het begin van het kalenderjaar worden de bedragen, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2008-09-01&g=2008-09-01) en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2008-09-01&g=2008-09-01), bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
+1. Bij het begin van het kalenderjaar worden de bedragen, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-01-01&g=2009-01-01) en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-01-01&g=2009-01-01), bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
 
 2. Indien er aanleiding is om de bedragen, bedoeld in het eerste lid, te verhogen op een andere wijze dan op grond van het eerste lid, worden de bedragen vastgesteld bij algemene maatregel van bestuur.
 
-3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2008-09-01&g=2008-09-01).
+3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-01-01&g=2009-01-01).
 
 4. Indien een verhoging als bedoeld in het tweede lid wordt toegepast, vindt deze verhoging plaats nadat het eerste lid toepassing heeft gevonden.
 
@@ -116,7 +116,7 @@ Degene bij wie in het jaar 2006 bij de vaststelling van de verschuldigde inkomst
 
 ##### Artikel 6a. Overgangsbepaling kindertoeslag voor het jaar 2008
 
-1. In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2008-09-01&g=2008-09-01), wordt de ouder, bedoeld in dat lid, geacht voor het berekeningsjaar 2008 ongeacht het aantal kinderen één aanspraak te hebben in de vorm van een kindertoeslag, met dien verstande dat die aanspraak geacht wordt te bestaan met ingang van 1 januari 2008, maar niet eerder dan de kalendermaand na de maand waarin het oudste kind is geboren dan wel tot zijn huishouden gaat behoren, tot en met 31 december 2008, maar uiterlijk tot en met de kalendermaand waarin het jongste kind de leeftijd van 18 jaar bereikt.
+1. In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-01-01&g=2009-01-01), wordt de ouder, bedoeld in dat lid, geacht voor het berekeningsjaar 2008 ongeacht het aantal kinderen één aanspraak te hebben in de vorm van een kindertoeslag, met dien verstande dat die aanspraak geacht wordt te bestaan met ingang van 1 januari 2008, maar niet eerder dan de kalendermaand na de maand waarin het oudste kind is geboren dan wel tot zijn huishouden gaat behoren, tot en met 31 december 2008, maar uiterlijk tot en met de kalendermaand waarin het jongste kind de leeftijd van 18 jaar bereikt.
 
 2. In 2008 bedraagt de kindertoeslag:
 
