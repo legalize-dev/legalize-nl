@@ -4,7 +4,7 @@ identifier: "BWBR0012054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012054"
 soort: "ministeriele-regeling"
@@ -47,9 +47,9 @@ Deze regeling verstaat onder wet: [Wet inkomstenbelasting 2001](https://wetten.o
 
 ##### Artikel 2
 
-1. Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) worden aangewezen: de investeringen in bedrijfsmiddelen of in onderdelen daarvan, opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=I&z=2008-01-01&g=2008-01-01) van deze regeling, mits:
+1. Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) worden aangewezen: de investeringen in bedrijfsmiddelen of in onderdelen daarvan, opgenomen in bijlage I van deze regeling, mits:
 
-- a. het bedrijfsmiddel of het onderdeel in overeenstemming is met de bestemming voor zover aangegeven in die [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=I&z=2008-01-01&g=2008-01-01), niet eerder is gebruikt en bestaat uit de in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=I&z=2008-01-01&g=2008-01-01) genoemde bestanddelen; en
+- a. het bedrijfsmiddel of het onderdeel in overeenstemming is met de bestemming voor zover aangegeven in die bijlage, niet eerder is gebruikt en bestaat uit de in die bijlage genoemde bestanddelen; en
 
 - b. – voor zover een bouwvergunning noodzakelijk is - door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een bouwvergunning is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42);
 
@@ -57,15 +57,15 @@ Deze regeling verstaat onder wet: [Wet inkomstenbelasting 2001](https://wetten.o
 
 - d. – voor zover voor het bedrijfsmiddel ten behoeve van het aanwenden of toepassen van duurzame energie een vergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) noodzakelijk is – de belastingplichtige ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) houder is van een door het bevoegde gezag voor dat bedrijfsmiddel afgegeven vergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1);
 
-- e. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in [artikel 1, onderdeel D, onder 2, van Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=I&z=2008-01-01&g=2008-01-01) van deze regeling – de belastingplichtige ten tijde van de aanmelding houder is van een SDE-beschikking ter grootte van een bedrag per kWh, dat groter is dan nihil;
+- e. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in [artikel 1, onderdeel D, onder 2.1.A, letter b, van Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2009-01-01&g=2009-01-01) van deze regeling – de belastingplichtige ten tijde van de aanmelding houder is van een SDE-beschikking ter grootte van een bedrag per kWh, dat groter is dan nihil;
 
 - f. – voor zover het bedrijfsmiddel of het onderdeel uitsluitend bestemd is voor toepassing in of bij een nieuw op te richten opstand van een glastuinbouwbedrijf als bedoeld in het [Besluit glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0013430) – door het bevoegde gezag voor die opstand een bouwvergunning is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42).
 
-2. Voor de toepassing van het eerste lid, onderdeel e, en van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2008-01-01&g=2008-01-01), wordt onder een SDE-beschikking verstaan: een beschikking waarbij een subsidie als bedoeld in [artikel 2 van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), is verleend.
+2. Voor de toepassing van het eerste lid, onderdeel e, en van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2009-01-01&g=2009-01-01), wordt onder een SDE-beschikking verstaan: een beschikking waarbij een subsidie als bedoeld in [artikel 2 van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), is verleend.
 
 ##### Artikel 3
 
-1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2008-01-01&g=2008-01-01) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
+1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2009-01-01&g=2009-01-01) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen;
 
@@ -81,19 +81,19 @@ De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskoste
 
 1. De verklaring van de Minister van Economische Zaken, bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven ter zake.
 
-2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2008-01-01&g=2008-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2008-01-01&g=2008-01-01).
+2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2009-01-01&g=2009-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2009-01-01&g=2009-01-01).
 
 3. De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een berekening van de energiebesparing over.
 
-4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven bouw vergunning over indien [artikel 2, onderdeel b respectievelijk onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2008-01-01&g=2008-01-01), van toepassing is.
+4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven bouw vergunning over indien [artikel 2, onderdeel b respectievelijk onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2009-01-01&g=2009-01-01), van toepassing is.
 
-5. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de SDE-beschikking alsmede van de afgegeven vergunning op grond van de [Wet beheer Rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) over indien [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2008-01-01&g=2008-01-01), van toepassing is.
+5. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de SDE-beschikking alsmede van de afgegeven vergunning op grond van de [Wet beheer Rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) over indien [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2009-01-01&g=2009-01-01), van toepassing is.
 
-6. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven vergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1)over indien [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2008-01-01&g=2008-01-01), van toepassing is.
+6. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven vergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1)over indien [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2009-01-01&g=2009-01-01), van toepassing is.
 
 ##### Artikel 6
 
-1. De Minister van Economische Zaken kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2008-01-01&g=2008-01-01) bedoelde verklaring wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
+1. De Minister van Economische Zaken kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2009-01-01&g=2009-01-01) bedoelde verklaring wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
 
 2. De bevoegdheid tot het intrekken of wijzigen van een verklaring ingevolge het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
@@ -109,9 +109,9 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling energie-investeringsaftrek 2001.
 
-## Bijlage I
+## Bijlage 1
 
-### **Artikel 1**
+### Artikel 1
 
 Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) worden aangemerkt:
 
@@ -421,7 +421,7 @@ Een energie-advies ter verbetering van de energie-efficiency van objecten door m
 
 - Helder en eenvoudig plan voor het uitvoeren van de energiebesparende maatregelen.
 
-### Artikel 2
+### D. Investeringen ten behoeve van het aanwenden of toepassen van duurzame energie
 
 ### Artikel 3
 
@@ -433,37 +433,37 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-### **A. Investeringen ten behoeve van energiebesparing in of bij bouwwerken**
+### A. Investeringen ten behoeve van energiebesparing in of bij bedrijfsgebouwen
 
-Technische voorzieningen ten behoeve van energiebesparing in of bij bouwwerken, door:
+Technische voorzieningen ten behoeve van energiebesparing in of bij bedrijfsgebouwen, door:
 
-### **1. De verbetering van de energie-efficiëntie door:**
+### B. Investeringen ten behoeve van energiebesparing bij processen
 
-1.1.A. Toepassing van automatische meet- en regelapparatuur.
+Technische voorzieningen ten behoeve van energiebesparing bij processen door:
 
 1.2.A. Toepassing van efficiëntere apparatuur.
 
-1.2.B. Warmtepomp voor het verwarmen van ruimten in woningen of bedrijfsgebouwen, en bestaande uit: elektrisch gedreven warmtepomp met een COP ≥ 3,6 gemeten conform NEN EN14511 of absorptiewarmtepomp. Bij een gasgestookte (absorptie)warmtepomp dient de gas utilization efficiency ≥ 1,4 te zijn, gemeten conform NEN-EN 12309-2, (eventueel) bodemwarmtewisselaar of grondwaterbron, (eventueel) restwarmteopslagvat.
+Technische voorzieningen in of aan voertuigen voor het vervoer over de weg, vaartuigen bij de binnenvaart of bij railgebonden voertuigen ten behoeve van energiebesparing:
 
 1.2.C. Warmtepompboiler waarbij de warmte nuttig wordt aangewend voor de verwarming van tapwater in woningen of bedrijfsgebouwen, en bestaande uit: elektrisch gedreven warmtepompboiler met een COP ≥ 2,5 gemeten conform NEN-EN 255-3, (eventueel) bodemwarmtewisselaar of grondwaterbron, (eventueel) restwarmteopslagvat.
 
-1.2.D. Vermindering van de inzet van energie voor het conditioneren van lucht met behulp van:
+Technische voorzieningen die er toe strekken de inzet van fossiele brandstoffen te beperken door gebruik te maken van duurzame energie door:
 
 1.2.G. Direct gasgestookt stralingspaneel voor het verwarmen van gesloten binnenruimten in bedrijfsgebouwen met een gemiddelde hoogte groter dan 5 meter, niet zijnde tuinbouwkassen, en bestaande uit:
 
 1.2.H. HR-pomp bestemd voor centrale verwarming, airconditioning of tapwater in bedrijfsgebouwen en bestaande uit: stand-alone natloper centrifugaalpomp tot 2.500 Watt met een EEI < 0,4 gemeten conform EN 1151 en geclassificeerd door Europump.
 
-1.2.I. Warmtekrachtinstallatie met behulp van een zuigermotor voor het gelijktijdig opwekken van warmte en kracht, onder de voorwaarde dat het totaal energetisch rendement gemiddeld op jaarbasis ten minste 70% bedraagt, en bestaande uit: warmtekrachtinstallatie, (eventueel) aansluiting op het elektriciteitsnet. Het maximum investeringsbedrag dat voor energie-investeringsaftrek in aanmerking komt bedraagt EUR 350 per kW elektrisch vermogen. Het elektrisch vermogen is bepaald bij het nominaal motorvermogen.
+Bij de berekening van de besparing gelden de volgende omrekenfactoren:
 
-Onder een warmtekrachtinstallatie wordt verstaan de gecombineerde opwekking van warmte en elektriciteit of mechanische energie door verstoking van een brandstof, waarvan de warmte nuttig gebruikt wordt, anders dan voor de productie van elektriciteit.
+Hierbij wordt X berekend door de onderste verbrandingswaarde in MJ/Nm3 van het ingezette aardgas te delen door 31,65 MJ/Nm3.
 
-Onder het totaal energetisch rendement wordt verstaan de som van het energetisch rendement van de opwekking van kracht en tweederde deel van het energetisch rendement van de productie van nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof.
+Indien wordt bespaard op een brandbare stof die niet is genoemd in de voorgaande opsomming, dient de omrekenfactor bepaald te worden door de onderste verbrandingswaarde van deze stof in MJ per eenheid gewicht of volume te delen door 31,65 MJ/Nm3.
 
 Onder een zuigermotor wordt verstaan een inwendige explosiemotor met elektrische ontsteking of compressieontsteking.
 
-### **3. Warmtehergebruik door:**
+### Artikel 5
 
-Onder een warmtekrachtinstallatie wordt verstaan de gecombineerde opwekking van warmte en elektriciteit of mechanische energie door verstoking van een brandstof, waarvan de warmte nuttig gebruikt wordt, anders dan voor de productie van elektriciteit.
+Voor investeringen onder A.5 Energieprestatieverbetering van bestaande bedrijfsgebouwen geldt dat op het moment van melden alle noodzakelijke investeringsverplichtingen, waarmee wordt voldaan aan de gestelde eisen genoemd onder A.5, moeten zijn aangegaan.
 
 Onder het totaal energetisch rendement wordt verstaan de som van het energetisch rendement van de opwekking van kracht en tweederde deel van het energetisch rendement van de productie van nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof.
 
@@ -711,7 +711,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De verbetering van de energie-efficiëntie door:
 
-1.2.F. Hoogrendement luchtverwarmer voor het verwarmen van ruimten in bedrijfsgebouwen, en bestaande uit: een direct gasgestookte luchtverwarmer met een deellastrendement groter of gelijk aan 101% gemeten conform NEN-EN 1196, verbrandingsgasafvoersysteem, (eventueel) luchttoevoersysteem, (eventueel) voor ruimten met een gemiddelde hoogte groter dan 5 meter een inducerend uitblaassysteem op de luchtverwarmer met nozzles of verstelbare inducerende schoepen of een individueel thermostatisch geregelde steunventilator in een omkasting aan het plafond gemonteerd die verticaal naar beneden blaast met nozzles of verstelbare inducerende schoepen;
+Een energie-advies ter verbetering van de energie-efficiency van objecten door middel van een verkenning van de mogelijkheden om maatregelen te treffen, en bestaande uit:
 
 1.2.J. Warmtekrachtinstallatie anders dan met behulp van een zuigermotor voor het gelijktijdig opwekken van warmte en kracht met een nominaal elektrisch vermogen tot 150 MWe, onder de voorwaarde dat het totaal energetisch rendement gemiddeld op jaarbasis ten minste 65% bedraagt, en bestaande uit: warmtekrachtinstallatie, (eventueel) aansluiting op het elektriciteitsnet. Het maximum investeringsbedrag dat voor energie-investeringsaftrek in aanmerking komt bedraagt EUR 600 per kW elektrisch vermogen. Het elektrisch vermogen is bepaald bij het nominaal motorvermogen. Een warmtekrachtinstallatie anders dan met behulp van een zuigermotor met een nominaal elektrisch vermogen groter dan 150 MWe komt niet in aanmerking voor energie-investeringsaftrek.
 
@@ -860,5 +860,17 @@ Bij de berekening van de besparing gelden de volgende omrekenfactoren:
 ### **Artikel 4**
 
 1. De voorwaarden als bedoeld in [artikel 3.42, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) waaronder de kosten van een daar bedoeld advies inzake energiebesparende maatregelen kunnen worden begrepen onder de aanschaffings- of voortbrengingskosten van een energie-investering, zijn:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### C. Investeringen ten behoeve van energiebesparing bij transportmiddelen
+
+### E. Energie-advies of een maatwerkadvies zoals dit is vastgelegd in ISSO 75.2.
+
+### Artikel 2
+
+### Artikel 3
+
+### Artikel 4
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
