@@ -4,7 +4,7 @@ identifier: "BWBR0012056"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2007-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012056"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. De aanmelding, bedoeld in [artikel 3.42a, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a), van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een bedrijfsmiddel als bedoeld in de [bijlage 1 van de Aanwijzingsregeling willekeurige afschrijving milieu-investeringen en milieu-investeringsaftrek 2007](onbekend) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
+1. De aanmelding, bedoeld in [artikel 3.42a, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a), van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een bedrijfsmiddel als bedoeld in de bijlage 1 van de Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichting;
 
