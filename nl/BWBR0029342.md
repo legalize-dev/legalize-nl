@@ -4,7 +4,7 @@ identifier: "BWBR0029342"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2008-08-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029342"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel IA
 
