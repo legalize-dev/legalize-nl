@@ -4,7 +4,7 @@ identifier: "BWBR0020183"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020183"
 soort: "AMvB"
@@ -54,47 +54,23 @@ In dit besluit wordt verstaan onder:
 
 - a. wet: [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
 
-- b. werkdeel: de uitkering, bedoeld in [artikel 69, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69);
+- b. werkdeel: de uitkering, bedoeld in [artikel 69, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), zoals die luidde op 31 december 2008;
 
-- c. inkomensdeel: de uitkering, bedoeld in [artikel 69, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69);
+- c. inkomensdeel: de uitkering, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69);
 
-- d. gemeentelijke bijstandslasten 2005 voor personen jonger dan 65 jaar: de volgens het verslag over de uitvoering, bedoeld in [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77), in het jaar 2005 door het college gedane uitgaven voor personen jonger dan 65 jaar vermenigvuldigd met het aantal huishoudens waarvan de referentiepersoon tot de leeftijdscategorie van 15 tot en met 64 jaar behoort, in de gemeente op 1 januari 2007, gedeeld door het aantal dergelijke huishoudens in de gemeente op 1 januari 2005;
+- d. gemeentelijke bijstandslasten 2007 voor personen jonger dan 65 jaar: de volgens het verslag over de uitvoering, bedoeld in [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77), in het jaar 2007 door het college gedane uitgaven voor personen jonger dan 65 jaar vermenigvuldigd met het aantal huishoudens waarvan de referentiepersoon tot de leeftijdscategorie van 15 tot en met 64 jaar behoort, in de gemeente op 1 januari 2008, gedeeld door het aantal dergelijke huishoudens in de gemeente op 1 januari 2007;
 
-- e. gemeentelijke bijstandslasten 2005 voor personen van 65 jaar of ouder: het saldo van de volgens het verslag over de uitvoering, bedoeld in [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77), in het jaar 2005 door het college gedane uitgaven en de ontvangsten, in verband met de toepassing van de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=48) en [hoofdstuk 6, paragraaf 6.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=6.4), voor personen van 65 jaar of ouder.
+- e. gemeentelijke bijstandslasten 2007 voor personen van 65 jaar of ouder: het saldo van de volgens het verslag over de uitvoering, bedoeld in [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77), in het jaar 2007 door het college gedane uitgaven en de ontvangsten, in verband met de toepassing van de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=48) en [hoofdstuk 6, paragraaf 6.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=6.4), voor personen van 65 jaar of ouder.
 
 #### § 2. Werkdeel
 
 ##### Artikel 2. Berekening bedrag werkdeel
 
-1. Het werkdeel voor een gemeente wordt berekend aan de hand van de volgende formule:
-
-W = (a × (OW / OTW) + (1-a) × (KW / TKW) ) × TBW
-
-waarbij:
-
-- a. W het werkdeel voor de gemeente is;
-
-- b. a, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&bijlage=1&z=2008-01-01&g=2008-01-01) van dit besluit, het aandeel van het totale bedrag is dat beschikbaar is voor het werkdeel dat objectief verdeeld wordt;
-
-- c. OW het aan de hand van het verdeelmodel, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&bijlage=1&z=2008-01-01&g=2008-01-01) van dit besluit, bepaalde gewicht van de gemeente is;
-
-- d. OTW het totaal is van de aan de hand van het verdeelmodel, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&bijlage=1&z=2008-01-01&g=2008-01-01) van dit besluit, bepaalde gewichten van alle gemeenten samen;
-
-- e. KW het gemeentelijk werkdeel 2003 is;
-
-- f. TKW het totaal is van de gemeentelijke werkdelen 2003 voor alle gemeenten samen;
-
-- g. TBW het totale bedrag is dat beschikbaar is voor het werkdeel.
-
-2. Indien het aan de hand van het verdeelmodel, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&bijlage=1&z=2008-01-01&g=2008-01-01) van dit besluit, bepaalde gewicht van de gemeente negatief is, wordt dat voor de toepassing van het eerste lid, onderdelen c en d, op nihil gesteld.
+Vervallen
 
 ##### Artikel 3. Meeneem- en voorschotregeling werkdeel
 
-1. Indien in een kalenderjaar het werkdeel niet volledig is besteed aan voorzieningen als bedoeld in [artikel 7, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), kan het college het niet bestede deel tot maximaal 75% van het voor dat jaar toegekende werkdeel toevoegen aan het werkdeel voor het daaropvolgende kalenderjaar.
-
-2. Indien in een kalenderjaar meer dan het werkdeel is besteed aan voorzieningen als bedoeld in [artikel 7, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), kan het college het meer bestede bedrag tot maximaal 75% van het voor dat jaar toegekende werkdeel ten laste brengen van het werkdeel voor het daaropvolgende kalenderjaar.
-
-3. Het percentage van de uitkering dat op grond van [artikel 70, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=70) wordt teruggevorderd, bedraagt 100%. Indien volledige terugvordering naar het oordeel van Onze Minister tot een onbillijkheid van overwegende aard leidt, stelt Onze Minister de terugvordering op een lager percentage vast.
+Vervallen
 
 #### § 3. Inkomensdeel
 
@@ -114,9 +90,9 @@ waarbij:
 
 - d. TB64 het totale bedrag is dat beschikbaar is voor het inkomensdeel voor personen jonger dan 65 jaar;
 
-- e. K65 de gemeentelijke bijstandslasten 2005 voor personen van 65 jaar en ouder zijn;
+- e. K65 de gemeentelijke bijstandslasten 2007 voor personen van 65 jaar en ouder zijn;
 
-- f. TK65 het totaal is van de gemeentelijke bijstandsuitgaven 2005 voor personen van 65 jaar en ouder voor alle gemeenten samen;
+- f. TK65 het totaal is van de gemeentelijke bijstandslasten 2007 voor personen van 65 jaar en ouder voor alle gemeenten samen;
 
 - g. TB65 het totale bedrag is dat beschikbaar is voor het inkomensdeel voor personen van 65 jaar en ouder.
 
@@ -128,15 +104,15 @@ waarbij:
 
 - c. 40.000 of meer inwoners.
 
-3. Voor de vaststelling van het aantal inwoners, bedoeld in het tweede lid, geldt als peildatum 1 januari 2007.
+3. Voor de vaststelling van het aantal inwoners, bedoeld in het tweede lid, geldt als peildatum 1 januari 2008.
 
 4. Het aantal inwoners wordt ontleend aan de statistiek «Demografische kerncijfers per gemeente» van het Centraal Bureau voor de Statistiek.
 
-5. Indien de gemeentelijke bijstandslasten 2004 voor personen van 65 jaar en ouder negatief zijn, worden die voor de toepassing van het eerste lid, onderdelen e en f, op nihil gesteld.
+5. Indien de gemeentelijke bijstandslasten 2007 voor personen van 65 jaar en ouder negatief zijn, worden die voor de toepassing van het eerste lid, onderdelen e en f, op nihil gesteld.
 
 ##### Artikel 5. Berekening budgetgrondslag kleine gemeenten
 
-Voor gemeenten met 25.000 inwoners of minder is de budgetgrondslag voor personen jonger dan 65 jaar gelijk aan de gemeentelijke bijstandslasten 2005 voor personen jonger dan 65 jaar.
+Voor gemeenten met 25.000 inwoners of minder is de budgetgrondslag voor personen jonger dan 65 jaar gelijk aan de gemeentelijke bijstandslasten 2007 voor personen jonger dan 65 jaar.
 
 ##### Artikel 6. Berekening budgetgrondslag middelgrote gemeenten
 
@@ -150,7 +126,7 @@ waarbij:
 
 - b. O de objectief vastgestelde gemeentelijke bijstandskosten voor personen jonger dan 65 jaar zijn;
 
-- c. K64 de gemeentelijke bijstandslasten 2005 voor personen jonger dan 65 jaar zijn.
+- c. K64 de gemeentelijke bijstandslasten 2007 voor personen jonger dan 65 jaar zijn.
 
 ##### Artikel 7. Berekening budgetgrondslag grote gemeenten
 
@@ -158,27 +134,29 @@ Voor gemeenten met 40.000 inwoners of meer is de budgetgrondslag voor personen j
 
 ##### Artikel 8. Objectief verdeelmodel en macrobudget
 
-1. Aan de hand van het verdeelmodel dat is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&bijlage=2&z=2008-01-01&g=2008-01-01) bij dit besluit worden de objectief vastgestelde gemeentelijke bijstandskosten voor personen jonger dan 65 jaar vastgesteld.
+1. Aan de hand van het verdeelmodel dat is opgenomen in bijlage 1 bij dit besluit worden de objectief vastgestelde gemeentelijke bijstandskosten voor personen jonger dan 65 jaar vastgesteld.
 
 2. Het totale bedrag dat beschikbaar is voor de inkomensdelen van de gemeenten betreft: TB64 + TB65.
 
 ##### Artikel 8a. Samenwerkingsverbanden
 
-1. Indien het college de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) heeft overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) en de gemeentelijke bijstandslasten 2005 voor personen jonger dan 65 jaar als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=5&z=2008-01-01&g=2008-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2008-01-01&g=2008-01-01) van de desbetreffende gemeente niet beschikbaar zijn, worden deze benaderd aan de hand van de volgende formule:
+1. Indien niet van alle gemeenten de bijlage bij de jaarrekening met verantwoordingsinformatie over specifieke uitkeringen, bedoeld in [artikel 58a, eerste lid, van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a), voor zover deze betrekking heeft op de uitvoering van de wet over 2007, en de daarbij behorende goedkeurende verklaring van de accountant door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zijn ontvangen uiterlijk op 15 augustus 2008 wordt voor de toepassing van de [artikelen 4, eerste lid, onderdelen e en f, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=4&z=2009-01-01&g=2009-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=5&z=2009-01-01&g=2009-01-01), en [6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2009-01-01&g=2009-01-01), voor «de gemeentelijke bijstandslasten 2007» gelezen: de gemeentelijke bijstandslasten 2006.
+
+2. Indien het eerste lid van toepassing is en het college de uitvoering van de wet in 2006 had overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) en de gemeentelijke bijstandslasten 2006 voor personen jonger dan 65 jaar als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=5&z=2009-01-01&g=2009-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2009-01-01&g=2009-01-01) van de desbetreffende gemeente niet beschikbaar zijn, worden deze benaderd aan de hand van de volgende formule:
 
 GB (G) = V(G) / V(S) x TU(S)
 
-waarbij :
+waarbij:
 
-- a. GB(G) staat voor de gemeentelijke bijstandslasten 2005 voor personen jonger dan 65 jaar van gemeente G;
+- a. GB(G) staat voor de gemeentelijke bijstandslasten 2006 voor personen jonger dan 65 jaar van gemeente G;
 
-- b. V(G) staat voor het gemiddelde jaarvolume aan WWB-uitkeringen in gemeente G in 2005;
+- b. V(G) staat voor het gemiddelde jaarvolume aan WWB-uitkeringen in gemeente G in 2006;
 
-- c. V(S) staat voor het gemiddelde jaarvolume aan WWB-uitkeringen in 2005 in het samenwerkingsverband waar gemeente G in 2005 toe behoorde;
+- c. V(S) staat voor het gemiddelde jaarvolume aan WWB-uitkeringen in 2006 in het samenwerkingsverband waar gemeente G in 2006 toe behoorde;
 
-- d. TU(S) het totaal is van de historische uitgaven (of budgetten) in 2005 voor het openbaar lichaam.
+- d. TU(S) het totaal is van de historische uitgaven (of budgetten) in 2006 voor het openbaar lichaam.
 
-2. Bij het bepalen van het werkdeel 2003 als bedoeld in [artikel 2 is het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=2&z=2008-01-01&g=2008-01-01) van overeenkomstige toepassing.
+3. Bij het bepalen van het werkdeel 2003, bedoeld in [artikel 2 van het Besluit participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&artikel=2), en de gemeentelijke bijstandslasten 2006 voor personen van 65 jaar of ouder is het tweede lid van overeenkomstige toepassing.
 
 ##### Artikel 9. Toetsingscommissie
 
@@ -232,65 +210,65 @@ Dit besluit wordt aangehaald als: Besluit WWB 2007.
 
 ### Verdeling macrobudget W-deel WWB
 
-### Verdeelmodel
+### Objectief verdeelmodel
 
-Het verdeelmodel voor de budgetten die gemeenten krijgen uitgekeerd voor re-integratieactiviteiten op grond van de [Wet Werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015808) (WWB) (het W-deel) bestaat uit een aantal stappen.
+Bij de berekening van de budgetten voor uitkeringen aan personen jonger dan 65 jaar, wordt voor elke gemeente een budgetgrondslag berekend. Voor de gemeenten met 25.000 inwoners of minder is dit het historisch bepaalde budget: de uitgaven, opgeschaald met de groei in huishoudens. Bij de berekening van de budgetten voor uitkeringen aan personen jonger dan 65 jaar voor gemeenten met meer dan 25.000 inwoners ([artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2009-01-01&g=2009-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=7&z=2009-01-01&g=2009-01-01)) wordt gebruik gemaakt van objectief vastgestelde gemeentelijke uitkeringskosten. Deze objectieve gemeentelijke uitkeringskosten worden, op grond van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=8&z=2009-01-01&g=2009-01-01), vastgesteld aan de hand van een zogenoemd objectief verdeelmodel. Dit objectief verdeelmodel is opgenomen in deze bijlage.
 
-De belangrijkste stap wordt gevormd door het model waarmee voor gemeenten het gewicht Ow (zie [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=2&z=2008-01-01&g=2008-01-01)) wordt bepaald op basis waarvan een steeds groter deel van het beschikbare macrobudget naar rato over de gemeenten wordt verdeeld.
+Voor gemeenten tussen de 25.000 en 40.000 inwoners worden de budgetten niet geheel vastgesteld op basis van de uitkomsten van het objectieve verdeelmodel. Voor deze categorie wordt zowel het historisch als het objectief bepaalde budget berekend. De budgetgrondslag voor deze categorie wordt vervolgens vastgesteld als een gewogen gemiddelde van deze twee budgetten, waarbij het gewicht afhankelijk is van het aantal inwoners boven de 25.000.
 
-De gewichten worden bepaald op basis van vier verdeelmaatstaven die elk een eigen parameter hebben. Verdeelmaatstaven en parameters zijn zodanig bepaald dat zij in grote mate aansluiten bij de behoefte aan re-integratiemiddelen.
+De budgetgrondslagen worden voor alle gemeenten opgeteld. Door voor elke gemeente de grondslag te delen door het totaal van de grondslagen, wordt het aandeel dat de gemeente heeft in het macrobudget WWB I-deel voor personen jonger dan 65 jaar bepaald.
 
 ### A. Verdeelmaatstaven
 
-Het schema geeft de verdeelmaatstaven weer en de bron waaraan deze ontleend worden.
+Onderdeel B geeft aan hoe het beleidsmatig indammen van herverdeeleffecten plaatsvindt.
 
-Definitie verdeelmaatstaven:
+In onderdeel C worden de gewichten per verdeelmaatstaf vermeld.
 
-**Aantal bijstandsontvangers:** aantal huishoudens dat in het peiljaar op enig moment een uitkering op grond van de [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015808) ontvangt en jonger is dan 65 jaar of een uitkering ontvangt op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) (IOAW), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)(IOAZ) of het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) (Bbz 2004). Eén huishouden telt hooguit één keer mee. Huishoudens die in de loop van het meetjaar een tussentijdse onderbreking van de WWB-uitkering hebben zijn dus één huishouden. Huishoudens die in de loop van het meetjaar verhuizen van gemeente A naar gemeente B en in beide gemeenten een uitkering hebben ontvangen, tellen voor beide gemeenten mee naar rato van het aantal ingeschreven maanden van de aanvrager volgens de gemeentelijke basisadministratie (GBA). Aanvragers die niet ingeschreven zijn in de GBA van een Nederlandse gemeente tellen niet mee.
+De objectieve uitkeringskosten van gemeenten met meer dan 25.000 inwoners worden vastgesteld met behulp van veertien verdeelmaatstaven met bijbehorende bedragen. Onderdeel A van deze bijlage geeft informatie over de verdeelmaatstaven:
 
-**Aantal WW-ontvangers:** het aantal personen dat in het peiljaar op enig moment een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002109) (WW) ontvangt. Ook nu weer geldt: een persoon telt hooguit één keer mee. Personen die in de loop van het meetjaar zowel een WW-uitkering als een WWB-uitkering hebben ontvangen, worden gerekend tot de groep bijstandsontvangers, en zijn dus uitgesloten van de categorie WW-uitkeringen. Personen die in de loop van het meetjaar verhuizen van gemeente A naar gemeente B en in beide gemeenten een WW-uitkering hebben ontvangen, tellen voor beide gemeenten mee naar rato van het aantal ingeschreven maanden van de persoon volgens de GBA. Personen die niet zijn ingeschreven in de GBA van een Nederlandse gemeente tellen niet mee.
+Het bedrag aan objectief vastgestelde uitkeringskosten van een gemeente ten behoeve van personen jonger dan 65 jaar wordt verkregen door eerst de kosten per huishouden van de gemeentelijke bevolking (waarvan de referentiepersoonHiermee wordt aangesloten bij de definitie van het CBS. een leeftijd heeft van 15 tot en met 64 jaar) te bepalen en daarna deze kosten te vermenigvuldigen met het aantal huishoudens van de gemeente van 15 tot en met 64 jaar.
 
-**Omvang beroepsbevolking:** alle personen tussen 15 en 65 jaar die meer dan 12 uur per week werken of willen werken. Bij deze variabele wordt gerekend met een driejaarsgemiddelde.
+De kosten per huishouden worden berekend door het aantal eenheden per verdeelmaatstaf voor die gemeente te vermenigvuldigen met het gewicht per eenheid. Als bijvoorbeeld de bevolking van gemeente X van 15 tot en met 64 jaar voor 28,2 procent bestaat uit huishoudens met een laag inkomen, dan wordt dit getal (28,2 = het aantal van de eenheid) vermenigvuldigd met het in de tabel van onderdeel C bij deze verdeelmaatstaf genoemde gewicht van 27,384 euro’s. Zo wordt voor elke verdeelmaatstaf het voor gemeente X geldend aantal eenheden vermenigvuldigd met het bijbehorende gewicht per eenheid. De optelling van de resulterende bedragen geeft, met de toevoeging van een basisbedrag, de objectief vastgestelde uitkeringskosten per huishouden (van 15 tot en met 64 jaar) van gemeente X. Het basisbedrag is het bedrag dat voor iedere gemeente met meer dan 25.000 inwoners dezelfde waarde heeft.
 
 **Kwalitatieve discrepantie laaggeschoolde arbeid:** de omvang van de laaggeschoolde beroepsbevolking minus de omvang van de laaggeschoolde werkzame beroepsbevolking. Bij deze variabele wordt gerekend met een driejaarsgemiddelde.
 
-De maatstaven zijn alle afkomstig van bestanden, die bij het Centraal bureau voor de statistiek (CBS) in beheer zijn. De verdeelkenmerken aantal WW- en bijstandsontvangers worden door het CBS berekend. De verdeelkenmerken omvang beroepsbevolking en kwalitatieve discrepantie laaggeschoolde arbeid zijn afkomstig uit de Enquête beroepsbevolking (EBB), en worden door het CBS voor gemeenten met meer dan 10.000 inwoners op Statline gepubliceerd. Voor gemeenten met minder dan 10.000 inwoners levert het CBS de betreffende gegevens aan SZW.
+Het schema geeft de verdeelmaatstaven weer en de factoren op basis waarvan de eenheden van die verdeelmaatstaven worden vastgesteld. Zo staat bijvoorbeeld niet alleen de verdeelmaatstaf «lage inkomens» vermeld, maar ook «huishoudens van 15–64 jaar met inkomen» om het aantal in de bij deze verdeelmaatstaf behorende eenheid, «het percentage van huishoudens van 15–64 jaar met inkomen» te kunnen uitdrukken.
 
-Uitgangspunt is dat bij alle berekeningen (voorlopig en definitief) steeds de meest recente beschikbare informatie wordt gebruikt.
+¹ Ongewogen driejaarsgemiddelde van het percentage lage inkomens.² Driejaarsgemiddelde.
 
-### B. Gewichten
+### Vaststelling aantal eenheden per verdeelmaatstaf
 
-Door de realisatie van de verdeelmaatstaven voor de gemeenten in te vullen, kan men het gewicht van de eenheid berekenen.
+1. Bij de vaststelling van de objectieve gemeentelijke uitkeringskosten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=8&z=2009-01-01&g=2009-01-01), worden de verdeelmaatstaven gehanteerd die hierboven zijn omschreven. De budgetberekening geschiedt op grond van de cijfers zoals die beschikbaar zijn voor bekendmaking van de budgetten. Indien deze cijfers na bekendmaking van de budgetten nog wijzigen om andere redenen dan evidente fouten (bijvoorbeeld door toepassing van een alternatieve meetmethode of nagekomen informatie), dan zullen de reeds berekende en bekend gemaakte budgetten hiervoor niet worden aangepast.
 
-Gewicht eenheid :
+2. Bij de vaststelling van de objectieve gemeentelijke uitkeringskosten wordt het aantal eenheden per verdeelmaatstaf ontleend aan de opgave van het als bron vermelde orgaan of de vermelde instantie.
+
+### Vaststelling aantal eenheden per verdeelmaatstaf
+
+4. Indien op grond van punt 3 een peildatum moet worden gehanteerd die ligt vóór de datum van instelling van de gemeente of vóór de datum waarop de grenzen van de gemeente zijn gewijzigd, stelt de Minister het aantal eenheden vast op basis van een redelijke schatting van de toestand zoals die op de peildatum zou zijn geweest als de instelling of de wijziging op die datum reeds was ingegaan. Bij vaststelling van het aantal eenheden per verdeelmaatstaf gaat de Minister uit van de op het moment van vaststelling door het parlement goedgekeurde indeling van gemeenten voor 2009.
+
+5. Bij verandering van de gemeentelijke indeling voor 2009 na het moment van vaststelling stelt de Minister voor de nieuwe gemeenten het aantal eenheden vast op basis van een redelijke schatting van de toestand zoals die op het moment van vaststelling zou zijn geweest als de instelling of de wijziging op die datum reeds was ingegaan.
+
+3. De vaststelling van het aantal eenheden per verdeelmaatstaf voor een gemeente geschiedt naar de toestand op 1 januari 2008, tenzij een andere peildatum bij een verdeelmaatstaf is vermeld. In dat geval geschiedt de vaststelling naar de toestand op deze datum.
 
 ### Berekeningswijze voor gemeenten met minder dan 30.000 inwoners
 
-– 0,20 * aantal WW-ontvangers
+– Voor gemeenten met een herverdeeleffect groter dan 10% is de grenswaarde 7,5%.
 
-– 0,01 * omvang beroepsbevolking
+– Voor gemeenten met een herverdeeleffect tussen 5% en 10% is de grenswaarde gelijk aan 5% plus de helft van het verschil tussen het herverdeeleffect en 5%.
 
-+ 0,45 * kwalitatieve discrepantie laaggeschoolde arbeid.
+– Voor gemeenten met een herverdeeleffect kleiner dan 5% is de grenswaarde 5%.
 
-### Berekeningswijze voor gemeenten met minder dan 30.000 inwoners
+Dit betekent dat het verschil tussen het historische aandeel en het objectieve aandeel van een gemeente in het budget (in absolute zin) niet groter mag zijn dan de grenswaarde maal het objectieve aandeel. Voor gemeenten waar dat verschil groter is, wordt het objectieve budgetaandeel naar boven of naar beneden bijgesteld zodat wel aan deze randvoorwaarde voldaan wordt. Deze aanpassing geschiedt met behulp van een algoritme zodat ook na deze rekenslag nog steeds 100% van het macrobudget verdeeld wordt.
 
-Omdat er bij kleine gemeenten forse uitschieters kunnen optreden, wordt voor gemeenten met minder dan 30.000 inwoners het gewicht mede bepaald op basis van de gewichten van gemeenten in het COROP-gebied (de indeling in COROP-gebieden is aan het begin van de jaren zeventig opgesteld door de toenmalige Coördinatiecommissie Regionaal Onderzoeks Programma voor de beschikbaarstelling van statistische gegevens ten behoeve van het regionaal economisch beleid).
-
-Voor het bepalen van het aantal gemeenten met minder dan 30.000 inwoners is de situatie op 1 januari 2007 bepalend. Met gemeentelijke herindeling wordt op gelijke wijze omgegaan zoals omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&bijlage=2&z=2008-01-01&g=2008-01-01) bij de verdeling van de middelen voor het Inkomensdeel.
-
-De volgende twee stappen worden onderscheiden in het bepalen van het gewicht Ow dat een gemeente met minder dan 30.000 inwoners krijgt:
-
-1. bepaal gemeenten met minder dan 30.000 inwoners;
-
-2. bereken de gewichten conform het model voor deze gemeenten:
+– Voor gemeenten met een herverdeeleffect tussen 5% en 10% is de grenswaarde gelijk aan 5% plus de helft van het verschil tussen het herverdeeleffect en 5%.
 
 ### Toedeling declaratiedeel WIW-dienstbetrekkingen:
 
-b. Voor COROP-gebieden met maar één gemeente met minder dan 30.000 inwoners wordt het gewicht van alle gemeenten uit het COROP-gebied gezamenlijk bepaald, en wordt het gewicht van die ene gemeente met minder dan 30.000 inwoners bepaald naar rato van het aantal bijstandsontvangers van deze gemeente ten opzichte van het COROP-gebied. Het gewicht van de gemeenten met meer dan 30.000 inwoners wordt naar rato van hun gewicht gecorrigeerd voor het verschil tussen het via het model berekende gewicht van de gemeente met minder dan 30.000 inwoners en het gewicht dat op deze wijze is berekend.
+Dit betekent dat het verschil tussen het historische aandeel en het objectieve aandeel van een gemeente in het budget (in absolute zin) niet groter mag zijn dan de grenswaarde maal het objectieve aandeel. Voor gemeenten waar dat verschil groter is, wordt het objectieve budgetaandeel naar boven of naar beneden bijgesteld zodat wel aan deze randvoorwaarde voldaan wordt. Deze aanpassing geschiedt met behulp van een algoritme zodat ook na deze rekenslag nog steeds 100% van het macrobudget verdeeld wordt.
 
-### Overgang van historische kosten naar verdeelmodel
+### C. Bedragen per eenheid
 
-Voor de verdeling van het macrobudget over de gemeenten wordt een overgangsregeling gehanteerd. Het aandeel van een gemeente in het beschikbare macrobudget wordt bepaald door een combinatie van het historische budgetaandeel in 2003 in de totale subsidie die in dat jaar op grond van [artikel 18 van de Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083&artikel=18) en [artikel 13, eerste tot en met derde lid, van het Besluit in- en doorstroombanen](https://wetten.overheid.nl/jci1.3:c:BWBR0010994&artikel=13) beschikbaar was (KW / TKW) en het verdeelmodel. In formulevorm (zie [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=2&z=2008-01-01&g=2008-01-01) voor een toelichting):
+De bedragen per eenheid voor het model voor de gemeenten met meer dan 25.000 inwoners zijn weergegeven in onderstaande tabel.
 
 W = ( a × (OW / OTW) + (1-a) × (KW / TKW) ) × TBW
 
@@ -348,9 +326,9 @@ Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota v
 
 De verdeelmaatstaven hebben de volgende gewichten:
 
-= 1,20 * aantal bijstandsontvangers
+3. De vaststelling van het aantal eenheden per verdeelmaatstaf voor een gemeente geschiedt naar de toestand op 1 januari 2008, tenzij een andere peildatum bij een verdeelmaatstaf is vermeld. In dat geval geschiedt de vaststelling naar de toestand op deze datum.
 
-a. Voor COROP-gebieden met meer dan 1 gemeente met minder dan 30.000 inwoners wordt het gewicht van alle gemeenten met minder dan 30.000 inwoners gezamenlijk bepaald, en wordt dit gewicht vervolgens verdeeld over de betrokken gemeenten naar rato van het aantal bijstandsontvangers.
+De bedragen per eenheid voor het model voor de gemeenten met meer dan 25.000 inwoners zijn weergegeven in onderstaande tabel.
 
 1. WIW-normbudget;
 
@@ -401,5 +379,105 @@ Dit betekent dat het verschil tussen het historische aandeel en het objectieve a
 ### C. Bedragen per eenheid
 
 De bedragen per eenheid voor het model voor de gemeenten met meer dan 25.000 inwoners zijn weergegeven in onderstaande tabel.
+
+Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota van toelichting in het Staatsblad zullen worden geplaatst.
+
+##### Artikel 11a. Minimumbescherming inkomensdeel voor het jaar 2009
+
+1. Het inkomensdeel voor een gemeente voor het jaar 2009 bedraagt ten minste 90 procent van het inkomensdeel dat voor de desbetreffende gemeente voor het jaar 2008 is berekend.
+
+2. Het bedrag dat nodig is voor de toepassing van het eerste lid wordt telkens in mindering gebracht op het inkomensdeel van de gemeenten waarvan het inkomensdeel niet wordt aangepast op grond van het eerste lid, naar rato van het aandeel van diens inkomensdeel op het totaal van de inkomensdelen voor de toepassing van het eerste lid.
+
+## Bijlage 1. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=8&z=2009-01-01&g=2009-01-01) van het Besluit WWB 2007
+
+De objectieve uitkeringskosten van gemeenten met meer dan 25.000 inwoners worden vastgesteld met behulp van veertien verdeelmaatstaven met bijbehorende bedragen. Onderdeel A van deze bijlage geeft informatie over de verdeelmaatstaven:
+
+### Berekeningswijze objectief vastgestelde gemeentelijke uitkeringskosten
+
+### A. Verdeelmaatstaven
+
+### B. Beleidsmatig indammen herverdeeleffecten
+
+Net als in 2008 is de ex ante inperking van de herverdeeleffecten op maximaal 7,5 % bepaald:
+
+### C. Bedragen per eenheid
+
+Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota van toelichting in het Staatsblad zullen worden geplaatst.
+
+##### Artikel 10a. Verzoek meerjarige aanvullende uitkering
+
+1. Tot een inhoudelijke beoordeling van een verzoek om een meerjarige aanvullende uitkering wordt overgegaan, nadat de toetsingscommissie heeft vastgesteld dat:
+
+- a. voldaan is aan bij ministeriële regeling te stellen vormvoorschriften;
+
+- b. de budgetgrondslag over elk van de drie kalenderjaren voorafgaande aan het kalenderjaar waarin het verzoek tot een meerjarige aanvullende uitkering wordt ingediend berekend is op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2010-10-06&g=2009-01-01) of [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=7&z=2010-10-06&g=2009-01-01);
+
+- c. in elk van de drie kalenderjaren voorafgaande aan het kalenderjaar waarin het verzoek, bedoeld in onderdeel b, wordt ingediend de gemaakte kosten, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), de verstrekte uitkering met minimaal 2,5% plus een bij ministeriële regeling vast te stellen percentage voor elk van die drie kalenderjaren overstijgen;
+
+- d. het aannemelijk is dat een overstijging als bedoeld in onderdeel c niet geheel het gevolg is van het gemeentelijke beleid en de uitvoering daarvan;
+
+- e. het aannemelijk is dat een overstijging als bedoeld in onderdeel c zich zal voordoen in het kalenderjaar waarin het verzoek, bedoeld in onderdeel b, wordt ingediend en de twee daaropvolgende kalenderjaren;
+
+- f. het college een analyserapport heeft opgesteld over de mogelijke oorzaken van de overstijgingen, bedoeld in onderdeel c, en een overzicht heeft toegevoegd van de genomen en eventueel nog te treffen maatregelen ter verbetering van het gemeentelijke beleid en de uitvoering daarvan;
+
+- g. de gemeenteraad heeft ingestemd met indiening van het verzoek, bedoeld in onderdeel b.
+
+2. De meerjarige aanvullende uitkering ziet op het kalenderjaar waarin het verzoek, bedoeld in het eerste lid, onderdeel b, wordt ingediend en de twee daaropvolgende kalenderjaren.
+
+3. Indien de toetsingscommissie van oordeel is, dat niet voldaan is aan de vereisten, genoemd in het eerste lid, adviseert de toetsingscommissie Onze Minister geen meerjarige aanvullende uitkering toe te kennen.
+
+##### Artikel 10c. Hoogte meerjarige aanvullende uitkering
+
+1. Voor de toepassing van dit artikel wordt verstaan onder:
+
+- a. **overstijging:** de overstijging, bedoeld in [artikel 10a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2010-10-06&g=2009-01-01);
+
+- b. **verzoek:** het verzoek, bedoeld in [artikel 10a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2010-10-06&g=2009-01-01).
+
+2. De meerjarige aanvullende uitkering bestaat uit drie delen: U(1), U(2) en U(3) waarbij:
+
+- a. U(1) staat voor het deel van de meerjarige aanvullende uitkering dat ziet op het kalenderjaar waarin het verzoek wordt ingediend;
+
+- b. U(2) staat voor het deel van de meerjarige aanvullende uitkering dat ziet op het kalenderjaar volgend op het kalenderjaar waarop U(1) ziet;
+
+- c. U(3) staat voor het deel van de meerjarige aanvullende uitkering dat ziet op het kalenderjaar volgend op het kalenderjaar waarop U(2) ziet.
+
+3. De hoogte van U(1), U(2) respectievelijk U(3) is gelijk aan:
+
+(A – B) x m
+
+waarbij:
+
+- a. A staat voor de werkelijk gemaakte kosten in het kalenderjaar waarop het desbetreffende deel van de meerjarige aanvullende uitkering betrekking heeft;
+
+- b. B staat voor:
+
+- 1°. 102,5% plus een bij ministeriële regeling vast te stellen percentage van de uitkering, indien de overstijging niet mede het gevolg is van het gemeentelijke beleid en de uitvoering daarvan;
+
+- 2°. 105% plus een bij ministeriële regeling vast te stellen percentage van de uitkering, indien de overstijging gedeeltelijk het gevolg is van het gemeentelijke beleid en de uitvoering daarvan; dan wel
+
+- 3°. 107,5% plus een bij ministeriële regeling vast te stellen percentage van de uitkering, indien de overstijging bijna uitsluitend het gevolg is van het gemeentelijke beleid en de uitvoering daarvan;
+
+- c. m staat voor:
+
+- 1°. 1, indien de budgetgrondslag in het kalenderjaar waarop het desbetreffende deel van de meerjarige aanvullende uitkering betrekking heeft, berekend is op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=7&z=2010-10-06&g=2009-01-01); dan wel
+
+- 2°. het aantal inwoners in de gemeente, verminderd met 25.000 en vervolgens gedeeld door 15.000, indien de budgetgrondslag in het kalenderjaar waarop het desbetreffende deel van de meerjarige aanvullende uitkering betrekking heeft, berekend is op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2010-10-06&g=2009-01-01).
+
+4. De in het derde lid bedoelde uitkering is ten minste gelijk aan het verschil tussen A en 110% van de over het betreffende kalenderjaar toegekende uitkering als bedoeld in [artikel 69 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69).
+
+5. Onze Minister kan van het derde lid afwijken voor zover toepassing gelet op het belang dat de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2010-10-06&g=2009-01-01), 10b en [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10d&z=2010-10-06&g=2009-01-01) beogen te beschermen zal leiden tot een onbillijkheid van overwegende aard.
+
+##### Artikel 10d. Aanpassing berekeningen meerjarige aanvullende uitkering
+
+Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoeld in de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718) worden de gegevens waarmee de berekeningen op grond van de [artikelen 10a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2010-10-06&g=2009-01-01), en [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2010-10-06&g=2009-01-01), worden uitgevoerd, vastgesteld op basis van een redelijke schatting van de toestand van die gegevens zoals die zou zijn geweest als de wijziging op de datum waarop die gegevens betrekking hebben reeds was ingegaan.
+
+#### § 4. Overige en slotbepalingen
+
+## Bijlage 1. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=8&z=2010-10-06&g=2009-01-01) van het Besluit WWB 2007
+
+### Objectief verdeelmodel
+
+### B. Beleidsmatig indammen herverdeeleffecten
 
 Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota van toelichting in het Staatsblad zullen worden geplaatst.
