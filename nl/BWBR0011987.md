@@ -4,7 +4,7 @@ identifier: "BWBR0011987"
 country: "nl"
 rank: "wet"
 publication_date: "2013-12-15"
-last_updated: "2006-05-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011987"
 soort: "wet"
@@ -56,23 +56,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 3°. waterschappen;
 
-- 4°. de regio's bedoeld in [artikel 21, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=21), alsmede de krachtens [artikel 47a, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=47a) ingestelde rechtspersonen;
+- 4°. lichamen, ingesteld met toepassing van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), die bevoegd zijn tot het aangaan, garanderen en verstrekken van geldleningen;
 
-- 5°. lichamen, ingesteld met toepassing van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), die bevoegd zijn tot het aangaan, garanderen en verstrekken van geldleningen;
-
-- 6°. door Onze Ministers aan te wijzen andere bij wet ingestelde lichamen en organen;
+- 5°. door Onze Ministers aan te wijzen andere bij wet ingestelde lichamen en organen;
 
 - b. rentetypische looptijd: het tijdsinterval gedurende de looptijd van een geldlening, waarin op basis van de leningvoorwaarden van de geldlening sprake is van een door de verstrekker van de geldlening niet beïnvloedbare constante rentevergoeding;
 
 - c. financiële derivaten: financiële instrumenten belichaamd in contracten waarin de voorwaarden zijn vastgelegd waartegen een transactie op een bepaald moment zal of kan plaatsvinden en waarvan de waarde afhankelijk is van één of meer onderliggende activa, referentieprijzen of indices;
 
-- d. vaste schuld: het gezamenlijk bedrag van:
-
-- 1°. de schuld uit hoofde van geldleningen met een oorspronkelijke rentetypische looptijd van één jaar of langer, en
-
-- 2°. de voor een termijn van één jaar of langer ontvangen waarborgsommen;
-
-- e. netto-vlottende schuld: het gezamenlijk bedrag van:
+- d. netto-vlottende schuld: het gezamenlijk bedrag van:
 
 - 1°. de opgenomen gelden met een oorspronkelijke rentetypische looptijd van korter dan één jaar;
 
@@ -88,25 +80,27 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 7°. de overige uitstaande gelden met een rentetypische looptijd van korter dan één jaar;
 
-- f. gemiddelde netto-vlottende schuld per kwartaal: het gemiddelde van de netto-vlottende schuld op de eerste dag van iedere maand in het desbetreffende kwartaal;
+- e. gemiddelde netto-vlottende schuld per kwartaal: het gemiddelde van de netto-vlottende schuld op de eerste dag van iedere maand in het desbetreffende kwartaal;
 
-- g. kasgeldlimiet: een bedrag ter grootte van een percentage van het totaal van de jaarbegroting van het openbare lichaam bij aanvang van het jaar;
+- f. kasgeldlimiet: een bedrag ter grootte van een percentage van het totaal van de jaarbegroting van het openbare lichaam bij aanvang van het jaar;
 
-- h. renterisico op de vaste schuld: mate waarin het saldo van rentelasten en rentebaten van een openbaar lichaam verandert door wijzigingen in het rentepercentage op leningen en uitzettingen met een oorspronkelijke rentetypische looptijd van één jaar of langer;
+- g. renterisico op de vaste schuld: mate waarin het saldo van rentelasten en rentebaten van een openbaar lichaam verandert door wijzigingen in het rentepercentage op leningen en uitzettingen met een oorspronkelijke rentetypische looptijd van één jaar of langer;
 
-- i. de renterisiconorm: een bedrag ter grootte van een percentage van het totaal van de vaste schuld van het openbare lichaam bij aanvang van het jaar;
+- h. de renterisiconorm: een bedrag ter grootte van een percentage van het totaal van het begrotingstotaal van het openbare lichaam bij aanvang van het jaar;
 
-- j. 3%-norm voor het EMU-saldo van de overheid: de referentiewaarde voor het vorderingensaldo van de overheid zoals vastgelegd in artikel 104C en Protocol nr. 5 van het Verdrag betreffende de Europese Unie;
+- i. 3%-norm voor het EMU-saldo van de overheid: de referentiewaarde voor het vorderingensaldo van de overheid zoals vastgelegd in artikel 104C en Protocol nr. 5 van het Verdrag betreffende de Europese Unie;
 
-- k. toezichthouder: het bestuursorgaan dat op grond van enige wettelijke bepaling is belast met het toezicht op de begroting van een openbaar lichaam;
+- j. toezichthouder: het bestuursorgaan dat op grond van enige wettelijke bepaling is belast met het toezicht op de begroting van een openbaar lichaam;
 
-- l. Onze Ministers:
+- k. Onze Ministers:
 
-- 1°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 1°, 2°, 4° en 6° bedoelde lichamen en organen betreft;
+- 1°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 1°, 2° en 5° bedoelde lichamen en organen betreft;
 
 - 2°. Onze Minister van Financiën en Onze Minister van Verkeer en Waterstaat indien het de in onderdeel a, onder 3°, bedoelde lichamen betreft;
 
-- 3°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 5°, bedoelde lichamen en organen betreft alsmede Onze Minister van Verkeer en Waterstaat voor zover aan de in onderdeel a, onder 5°, bedoelde lichamen en organen waterschappen deelnemen.
+- 3°. Onze Minister van Financiën en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties indien het de in onderdeel a, onder 4°, bedoelde lichamen en organen betreft alsmede Onze Minister van Verkeer en Waterstaat voor zover aan de in onderdeel a, onder 4°, bedoelde lichamen en organen waterschappen deelnemen;
+
+- l. begrotingstotaal: de totale lasten op de begroting.
 
 ##### Artikel 2
 
@@ -115,6 +109,8 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 2. Openbare lichamen kunnen derivaten hanteren of, in afwijking van het eerste lid, middelen uitzetten anders dan ten behoeve van de publieke taak, indien deze uitzettingen of derivaten een prudent karakter hebben en niet zijn gericht op het genereren van inkomen door het lopen van overmatig risico. Terzake van de uitvoering van dit lid worden bij ministeriële regeling nadere regels gesteld.
 
 3. Openbare lichamen kunnen geldleningen slechts aangaan en verstrekken, dan wel de nakoming van uit geldleningen voortvloeiende verplichtingen ten aanzien van de betaling van rente en aflossing slechts garanderen, indien de geldleningen voldoen aan de daarvoor bij algemene maatregel van bestuur te stellen regels.
+
+4. Openbare lichamen sluiten ten gunste van personeel of politieke ambtsdragers van openbare lichamen geen contracten met betrekking tot hypothecaire leningen of garanties op de verstrekking van hypothecaire leningen door andere financiële instellingen.
 
 ##### Artikel 3
 
@@ -126,31 +122,33 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het op basis van het eerste lid vast te stellen percentage voor de kasgeldlimiet en het op basis van het derde lid vast te stellen minimumbedrag kunnen verschillend zijn voor de verschillende categorieën openbare lichamen.
 
+5. De toezichthouder van de openbare lichamen, bedoeld in [artikel 1, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=1&z=2009-01-01&g=2009-01-01), kan na overleg met het bestuur van de gemeenschappelijke regeling een afwijkend percentage voor de kasgeldlimiet voor een gemeenschappelijke regeling vaststellen.
+
 ##### Artikel 4
 
 1. De gemiddelde netto-vlottende schuld per kwartaal van een openbaar lichaam overschrijdt de kasgeldlimiet niet.
 
-2. Indien een openbaar lichaam twee kwartalen achtereen niet aan het eerste lid heeft voldaan, geeft de toezichthouder het openbare lichaam een aanwijzing om hieraan alsnog te voldoen.
+2. Indien een openbaar lichaam voor het derde achtereenvolgende kwartaal de kasgeldlimiet overschrijdt, stelt het daarvan de toezichthouder op de hoogte, en legt het de kwartaalrapportage en een plan om binnen de kasgeldlimiet te blijven ter goedkeuring voor aan de toezichthouder.
 
-3. Indien uit de eerstvolgende kwartaalrapportage van het openbare lichaam na de aanwijzing van de toezichthouder blijkt dat nog steeds niet wordt voldaan aan het eerste lid, legt het openbare lichaam een plan om aan het eerste lid te voldoen ter goedkeuring voor aan de toezichthouder. Zolang dit plan niet is goedgekeurd dan wel indien blijkt dat het plan niet ten uitvoer wordt gelegd, kan de toezichthouder bepalen dat voor het aangaan van nieuwe geldleningen met een oorspronkelijke rentetypische looptijd korter dan één jaar voorafgaande toestemming van de toezichthouder is vereist, en kan de toezichthouder een maximum vaststellen voor de schuld in rekening-courant van het openbare lichaam. Dit plafond wordt vastgesteld met inachtneming van de op dat moment bestaande betalingsverplichtingen van het openbare lichaam.
+3. Zolang het plan, bedoeld in het tweede lid, niet is goedgekeurd dan wel indien blijkt dat het plan niet ten uitvoer wordt gelegd kan de toezichthouder een aanwijzing geven om alsnog een aangepast plan in te zenden en om maatregelen te treffen om te voldoen aan de kasgeldlimiet. De toezichthouder kan voorts bepalen dat voor het aangaan van nieuwe geldleningen met een oorspronkelijke rentetypische looptijd van minder dan één jaar voorafgaande toestemming van de toezichthouder is vereist. De toezichthouder kan daarbij een maximum vaststellen voor de schuld in rekening-courant van het openbare lichaam met inachtneming van de op dat moment bestaande betalingsverplichtingen van het openbare lichaam.
 
-4. Het voorafgaand toezicht, bedoeld in het derde lid, vervalt zodra het in het derde lid bedoelde plan naar het oordeel van de toezichthouder voldoende ten uitvoer wordt gelegd.
+4. Het toezicht, bedoeld in het derde lid, vervalt zodra het in het derde lid bedoelde plan naar het oordeel van de toezichthouder voldoende ten uitvoer wordt gelegd.
 
 5. De toezichthouder kan bij incidentele wijzigingen in het inkomsten- en uitgavenpatroon ontheffing verlenen van de in het eerste lid genoemde verplichting voor een periode van maximaal twee kwartalen. Aan de ontheffing kunnen voorschriften worden verbonden en beperkingen gesteld.
 
 ##### Artikel 5
 
-1. Onze Ministers stellen bij ministeriële regeling een percentage voor de berekening van de renterisiconorm en een minimumbedrag voor de renterisiconorm vast, alsmede regels ten aanzien van de bepaling van het renterisico op de vaste schuld.
+1. Onze Ministers stellen bij ministeriële regeling een percentage voor de berekening van de renterisiconorm en een minimumbedrag voor de renterisiconorm vast, alsmede regels ten aanzien van de bepaling van het renterisico op het begrotingstotaal.
 
 2. Het op basis van het eerste lid vast te stellen percentage voor de renterisiconorm en minimumbedrag kunnen verschillend zijn voor de verschillende categorieën openbare lichamen.
 
 ##### Artikel 6
 
-1. Het renterisico op de vaste schuld van een openbaar lichaam overschrijdt de renterisiconorm niet.
+1. Het renterisico op het begrotingstotaal van een openbaar lichaam overschrijdt de renterisiconorm niet.
 
-2. De toezichthouder geeft, indien door een openbaar lichaam niet wordt voldaan aan het eerste lid, het openbare lichaam een aanwijzing om maatregelen te nemen ten einde het renterisico op de vaste schuld te verminderen.
+2. De toezichthouder geeft, indien door een openbaar lichaam niet wordt voldaan aan het eerste lid, het openbare lichaam een aanwijzing om maatregelen te nemen ten einde het renterisico op het begrotingstotaal te verminderen.
 
-3. Indien het openbare lichaam geen gehoor geeft aan de aanwijzing van de toezichthouder, bedoeld in het tweede lid, legt het openbare lichaam een plan om aan het eerste lid te voldoen ter goedkeuring voor aan de toezichthouder. Zolang dit plan niet is goedgekeurd dan wel indien blijkt dat het plan niet ten uitvoer wordt gelegd, kan de toezichthouder bepalen dat voor het aangaan van vaste schuld voorafgaande toestemming van de toezichthouder is vereist.
+3. Indien het openbare lichaam geen gehoor geeft aan de aanwijzing van de toezichthouder, bedoeld in het tweede lid, legt het openbare lichaam een plan om aan het eerste lid te voldoen ter goedkeuring voor aan de toezichthouder. Zolang dit plan niet is goedgekeurd dan wel indien blijkt dat het plan niet ten uitvoer wordt gelegd, kan de toezichthouder bepalen dat voor het aangaan van het begrotingstotaal voorafgaande toestemming van de toezichthouder is vereist.
 
 4. Het voorafgaand toezicht, bedoeld in het derde lid, vervalt zodra het in het derde lid bedoelde plan naar het oordeel van de toezichthouder voldoende ten uitvoer wordt gelegd.
 
@@ -161,6 +159,8 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 1. Indien een dreigende overschrijding van de 3%-norm voor het EMU-saldo van de overheid door een ongewenste ontwikkeling van het EMU-saldo van de openbare lichamen wordt veroorzaakt, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld ter beheersing van het EMU-saldo van de openbare lichamen.
 
 2. Een krachtens het eerste lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan vier weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
+
+3. Indien aan Nederland een boete wegens overschrijding van de EMU-norm wordt opgelegd en de decentrale overheden daarin een aandeel hebben, kan de minister van Financiën vaststellen voor welk deel decentrale overheden bijdragen in de boete, na regulier bestuurlijk overleg tussen de fondsbeheerders en de instanties die representatief geacht kunnen worden voor de desbetreffende decentrale overheden.
 
 ##### Artikel 8
 
@@ -174,7 +174,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de kasgeldlimiet;
 
-- d. het renterisico op de vaste schuld;
+- d. het renterisico op het begrotingstotaal;
 
 - e. de renterisiconorm;
 
@@ -208,7 +208,7 @@ De Wet financiering lagere overheid wordt ingetrokken.
 
 ##### Artikel 14
 
-Onze Ministers kunnen gedurende een door hen te bepalen termijn en onder door hen te stellen voorwaarden aan openbare lichamen ontheffing verlenen van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2&z=2006-05-01&g=2006-05-01), in verband met een zorgvuldige beëindiging van op het tijdstip van inwerkingtreding van deze wet bestaande aanspraken en verplichtingen.
+Onze Ministers kunnen gedurende een door hen te bepalen termijn en onder door hen te stellen voorwaarden aan openbare lichamen ontheffing verlenen van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2&z=2009-01-01&g=2009-01-01), in verband met een zorgvuldige beëindiging van op het tijdstip van inwerkingtreding van deze wet bestaande aanspraken en verplichtingen.
 
 ##### Artikel 15
 
