@@ -4,7 +4,7 @@ identifier: "BWBR0020412"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-01-01"
-last_updated: "2007-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020412"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Als beleggingsobject in de zin van onderdeel b van de definitie van beleggingsob
 
 ##### Artikel 3
 
-Als professionele marktpartij in de zin van onderdeel c van de definitie van professionele marktpartij in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) worden aangewezen:
+1. Als professionele marktpartij in de zin van onderdeel c van de definitie van professionele marktpartij in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) worden aangewezen:
 
 - a. rechtspersonen of vennootschappen waarvan het balanstotaal voorafgaand aan het ter beschikking stellen van de opvorderbare gelden € 500.000.000 of meer bedraagt;
 
@@ -75,6 +75,12 @@ Als professionele marktpartij in de zin van onderdeel c van de definitie van pro
 - 2°. voor het verrichten van transacties ter belegging in subparticipaties of afgeleide instrumenten voor de overdracht van kredietrisico die kunnen worden afgewikkeld door de vorderingen aan hen over te dragen, waarbij de rechten die voor hen voortvloeien uit de subparticipaties of uit de afgeleide instrumenten strekken tot zekerheid van aangeboden of aan te bieden effecten; of
 
 - 3°. om kredietuitzettingen te verrichten ten behoeve van uitsluitend een of meer professionele marktpartijen als bedoeld in [artikel 1:1, onderdeel a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+
+2. Personen of vennootschappen van wie opvorderbare gelden worden aangetrokken, ter beschikking worden verkregen of ter beschikking worden gehouden, worden in hun rechtsverhouding tot degene die de opvorderbare gelden aantrekt, ter beschikking verkrijgt onderscheidenlijk ter beschikking heeft, aangewezen als professionele marktpartij in de zin van onderdeel c van de definitie van professionele marktpartij in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), indien:
+
+- a. de nominale waarde van de eerste vordering dan wel van de eerste gezamenlijk verworven vorderingen tezamen, binnen deze rechtsverhouding ten minste € 50.000 bedraagt en dit bedrag ineens wordt verstrekt; of
+
+- b. de eerste vordering dan wel de eerste gezamenlijk verworven vorderingen tezamen, binnen deze rechtsverhouding slechts kunnen worden dan wel zijn verworven voor een bedrag van ten minste € 50.000 ineens.
 
 ##### Artikel 4
 
