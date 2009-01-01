@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2008-03-26"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -65,7 +65,7 @@ De rechtsgebieden van de tot het ressort Amsterdam behorende rechtbanken bestaan
 
 - 2. Arrondissement Amsterdam: Aalsmeer, Amstelveen, Amsterdam, Blaricum, Bussum, Diemen, Hilversum, Huizen, Laren (N.-H.), Muiden, Naarden, Ouder-Amstel, Uithoorn, Weesp, Wijdemeren.
 
-- 3. Arrondissement Haarlem: Beemster, Bennebroek, Beverwijk, Bloemendaal, Edam-Volendam, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Landsmeer, Oostzaan, Purmerend, Uitgeest, Velsen, Waterland, Wormerland, Zaanstad, Zandvoort, Zeevang.
+- 3. Arrondissement Haarlem: Beemster, Beverwijk, Bloemendaal, Edam-Volendam, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Landsmeer, Oostzaan, Purmerend, Uitgeest, Velsen, Waterland, Wormerland, Zaanstad, Zandvoort, Zeevang.
 
 - 4. Arrondissement Utrecht: Abcoude, Amersfoort, Baarn, Breukelen, Bunnik, Bunschoten, De Bilt, De Ronde Venen, Eemnes, Houten, Leusden, Loenen, Lopik, Maarssen, Montfoort, Nieuwegein, Oudewater, Renswoude, Rhenen, Soest, Utrecht, Utrechtse Heuvelrug, Veenendaal, Vianen, Woerden, Woudenberg, Wijk bij Duurstede, IJsselstein, Zeist.
 
@@ -111,7 +111,7 @@ De rechtsgebieden van de tot het ressort 's-Gravenhage behorende rechtbanken bes
 
 - 1. Arrondissement Dordrecht: Alblasserdam, Binnenmaas, Cromstrijen, Dordrecht, Giessenlanden, Gorinchem, Graafstroom, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Korendijk, Leerdam, Liesveld, Nieuw-Lekkerland, Oud-Beijerland, Papendrecht, Sliedrecht, Strijen, Zederik, Zwijndrecht.
 
-- 2. Arrondissement 's-Gravenhage: Alkemade, Alphen aan den Rijn, Bergambacht, Bodegraven, Boskoop, Delft, Gouda, 's-Gravenhage, Hillegom, Jacobswoude, Katwijk, Leiden, Leiderdorp, Leidschendam-Voorburg, Lisse, Midden-Delfland, Moordrecht, Nederlek, Nieuwerkerk aan den IJssel, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Ouderkerk, Pijnacker-Nootdorp, Reeuwijk, Rijnwoude, Rijswijk, Schoonhoven, Teylingen, Vlist, Voorschoten, Waddinxveen, Wassenaar, Westland, Zevenhuizen-Moerkapelle, Zoetermeer, Zoeterwoude.
+- 2. Arrondissement 's-Gravenhage: Alphen aan den Rijn, Bergambacht, Bodegraven, Boskoop, Delft, Gouda, 's-Gravenhage, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Leidschendam-Voorburg, Lisse, Midden-Delfland, Moordrecht, Nederlek, Nieuwerkerk aan den IJssel, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Ouderkerk, Pijnacker-Nootdorp, Reeuwijk, Rijnwoude, Rijswijk, Schoonhoven, Teylingen, Vlist, Voorschoten, Waddinxveen, Wassenaar, Westland, Zevenhuizen-Moerkapelle, Zoetermeer, Zoeterwoude.
 
 - 3. Arrondissement Middelburg: Borsele, Goes, Hulst, Kapelle, Middelburg, Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen.
 
