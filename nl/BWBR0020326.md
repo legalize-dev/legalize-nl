@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) worden aangewezen de werkzaamheden van:
 
-- a. het Pathologisch Anatomisch Landelijk Geautomatiseerd Archief (PALGA);
+- a. vervallen;
 
 - b. instellingen waarvan de werkzaamheden zijn gericht op donatie of transplantatie van weefsel of organen;
 
