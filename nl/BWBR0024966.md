@@ -4,7 +4,7 @@ identifier: "BWBR0024966"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024966"
 soort: "AMvB"
@@ -48,19 +48,19 @@ Hebben goed gevonden en verstaan:
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit bekostiging financieel toezicht.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit definitiebepalingen Wft.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit reikwijdtebepalingen Wft.
 
 ##### Artikel V
 
@@ -68,23 +68,23 @@ Wijzigt het Besluit prudentiële regels Wft.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit prudentieel toezicht financiële groepen Wft.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt Besluit Gedragstoezicht financiële ondernemingen Wft.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit openbare biedingen Wft.
 
 ##### Artikel XI
 
@@ -92,18 +92,18 @@ Wijzigt het Besluit fondsen en spaarregelingen.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit implementatie kapitaalakkoord Bazel 2.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit Wet ter voorkoming van witwassen en financieren van terrorisme.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel V, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0024966&artikel=V&z=2009-01-01&g=2009-01-01), werkt terug tot en met 1 januari 2008. [Artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0024966&artikel=XI&z=2009-01-01&g=2009-01-01) werkt terug tot en met 1 januari 2007.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Reparatiebesluit Wft.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
