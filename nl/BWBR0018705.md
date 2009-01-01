@@ -4,7 +4,7 @@ identifier: "BWBR0018705"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-01-01"
-last_updated: "2005-09-03"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018705"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De projectdirectie Leren en Werken ressorteert onder de directeur-generaal Arbeidsmarktbeleid en Bijstand, en tevens onder de directeur-generaal Hoger Onderwijs en Beroepsonderwijs van het ministerie van Onderwijs, Cultuur en Wetenschap.
+De projectdirectie Leren en Werken ressorteert onder de directeur-generaal Werk, en tevens onder de directeur-generaal Hoger Onderwijs en Beroepsonderwijs van het ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 2
 
@@ -50,7 +50,7 @@ De projectdirecteur Leren en Werken heeft tot taak om in lijn met de Lissabondoe
 
 ##### Artikel 3
 
-De projectdirecteur Leren en Werken is bevoegd om namens de Minister van Sociale Zaken en Werkgelegenheid besluiten te nemen en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018705&artikel=2&z=2005-09-03&g=2005-09-03).
+De projectdirecteur Leren en Werken is bevoegd om namens de Minister van Sociale Zaken en Werkgelegenheid besluiten te nemen en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018705&artikel=2&z=2009-01-01&g=2009-01-01).
 
 ##### Artikel 4
 
