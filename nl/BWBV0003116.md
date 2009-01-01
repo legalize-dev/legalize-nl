@@ -4,7 +4,7 @@ identifier: "BWBV0003116"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-01-01"
-last_updated: "2007-02-22"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003116"
 soort: "verdrag"
@@ -148,7 +148,7 @@ De aangezochte administratie verstrekt op verzoek de verzoekende administratie m
 
 1. De douaneadministraties verlenen elkaar bijstand met het oog op de invordering van douanevorderingen overeenkomstig hun respectieve nationale wettelijke en administratieve bepalingen voor het invorderen van hun eigen vorderingen betreffende rechten en belastingen.
 
-2. De douaneadministraties zullen in onderlinge overeenstemming regels voorschrijven met betrekking tot de toepassing van dit artikel, in overeenstemming met [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003116&hoofdstuk=XII&artikel=18&z=2007-02-22&g=2007-02-22), van dit Verdrag. Deze regels kunnen voorwaarden en bepalingen omvatten op grond waarvan de toepassing door de aangezochte douaneadministratie van haar nationale wettelijke en administratieve bepalingen als bedoeld in het eerste lid van dit artikel wordt overgelaten aan het oordeel van die administratie.
+2. De douaneadministraties zullen in onderlinge overeenstemming regels voorschrijven met betrekking tot de toepassing van dit artikel, in overeenstemming met [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003116&hoofdstuk=XII&artikel=18&z=2009-01-01&g=2009-01-01), van dit Verdrag. Deze regels kunnen voorwaarden en bepalingen omvatten op grond waarvan de toepassing door de aangezochte douaneadministratie van haar nationale wettelijke en administratieve bepalingen als bedoeld in het eerste lid van dit artikel wordt overgelaten aan het oordeel van die administratie.
 
 ### HOOFDSTUK V. INFORMATIE
 
@@ -182,7 +182,7 @@ De aangezochte administratie machtigt op verzoek haar ambtenaren om ter zake van
 
 3. Een verzoek van een van de douaneadministraties om een bepaalde procedure te volgen wordt ingewilligd, met inachtneming van de wettelijke en administratieve bepalingen van de aangezochte Verdragsluitende Partij.
 
-4. De in dit Verdrag bedoelde informatie wordt alleen aan ambtenaren medegedeeld die door elke douaneadministratie hiertoe zijn aangewezen. Een lijst van aldus aangewezen ambtenaren wordt aan de douaneadministratie van de andere Verdragsluitende Partij verstrekt in overeenstemming met [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003116&hoofdstuk=XII&artikel=18&z=2007-02-22&g=2007-02-22), van dit Verdrag.
+4. De in dit Verdrag bedoelde informatie wordt alleen aan ambtenaren medegedeeld die door elke douaneadministratie hiertoe zijn aangewezen. Een lijst van aldus aangewezen ambtenaren wordt aan de douaneadministratie van de andere Verdragsluitende Partij verstrekt in overeenstemming met [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003116&hoofdstuk=XII&artikel=18&z=2009-01-01&g=2009-01-01), van dit Verdrag.
 
 ### HOOFDSTUK VIII. UITVOERING VAN VERZOEKEN
 
@@ -200,7 +200,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 - c. aanwezig zijn bij een door de aangezochte administratie geleid onderzoek in het douanegebied van de aangezochte Verdragsluitende Partij dat van belang is voor de verzoekende administratie.
 
-2. Wanneer, onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003116&hoofdstuk=VI&artikel=10&z=2007-02-22&g=2007-02-22) of in het eerste lid van dit artikel bedoelde omstandigheden, ambtenaren van de douaneadministratie aanwezig zijn op het grondgebied van de andere Verdragsluitende Partij, moeten zij te allen tijde in staat zijn hun ambtelijke hoedanigheid aan te tonen.
+2. Wanneer, onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003116&hoofdstuk=VI&artikel=10&z=2009-01-01&g=2009-01-01) of in het eerste lid van dit artikel bedoelde omstandigheden, ambtenaren van de douaneadministratie aanwezig zijn op het grondgebied van de andere Verdragsluitende Partij, moeten zij te allen tijde in staat zijn hun ambtelijke hoedanigheid aan te tonen.
 
 3. Gedurende hun verblijf aldaar genieten zij dezelfde bescherming als die welke wordt toegekend aan douaneambtenaren van de andere Verdragsluitende Partij, in overeenstemming met de aldaar geldende wetgeving en zijn zij verantwoordelijk voor de strafbare feiten die zij eventueel begaan.
 
@@ -212,7 +212,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 2. Voor alle uit hoofde van dit Verdrag ontvangen informatie gelden ten minste dezelfde bescherming en vertrouwelijkheid als die welke voor soortgelijke informatie gelden krachtens de nationale wetgeving die van toepassing is op de onderdanen van de Verdragsluitende Partij op wier grondgebied deze wordt ontvangen, ongeacht nationaliteit, staatsburgerschap of verblijfplaats van de betrokken personen.
 
-3. Indien informatie door een van de douaneadministraties uit hoofde van de verplichtingen van het Koninkrijk der Nederlanden of van de Republiek ten Oosten van de Uruguay, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003116&hoofdstuk=II&artikel=2&z=2007-02-22&g=2007-02-22), van dit Verdrag, bekend wordt gemaakt, wordt de andere douaneadministratie daarvan vooraf in kennis gesteld.
+3. Indien informatie door een van de douaneadministraties uit hoofde van de verplichtingen van het Koninkrijk der Nederlanden of van de Republiek ten Oosten van de Uruguay, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003116&hoofdstuk=II&artikel=2&z=2009-01-01&g=2009-01-01), van dit Verdrag, bekend wordt gemaakt, wordt de andere douaneadministratie daarvan vooraf in kennis gesteld.
 
 ##### Artikel 15
 
@@ -220,7 +220,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 2. De Verdragsluitende Partijen verschaffen elkaar alle wetgeving inzake de bescherming van persoonsgegevens in hun respectieve staten welke van belang is voor dit artikel.
 
-3. Persoonsgegevens worden niet uitgewisseld voordat de Verdragsluitende Partijen overeenkomstig [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003116&hoofdstuk=XII&artikel=18&z=2007-02-22&g=2007-02-22), van dit Verdrag zijn overeengekomen dat het beschermingsniveau in beide Verdragsluitende Partijen gelijk is.
+3. Persoonsgegevens worden niet uitgewisseld voordat de Verdragsluitende Partijen overeenkomstig [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003116&hoofdstuk=XII&artikel=18&z=2009-01-01&g=2009-01-01), van dit Verdrag zijn overeengekomen dat het beschermingsniveau in beide Verdragsluitende Partijen gelijk is.
 
 ### HOOFDSTUK X. ONTHEFFING
 
@@ -278,7 +278,7 @@ Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de Verd
 
 2. De beëindiging wordt van kracht drie maanden na de datum van de kennisgeving van opzegging aan de andere Verdragsluitende Partij. Lopende procedures op het tijdstip van beëindiging worden niettemin voltooid in overeenstemming met de bepalingen van dit Verdrag.
 
-3. Tenzij anders overeengekomen, wordt door de beëindiging van dit Verdrag niet tegelijkertijd de toepassing daarvan op de Nederlandse Antillen of op Aruba beëindigd, indien het daartoe is uitgebreid overeenkomstig de bepalingen van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003116&hoofdstuk=XIII&artikel=19&z=2007-02-22&g=2007-02-22).
+3. Tenzij anders overeengekomen, wordt door de beëindiging van dit Verdrag niet tegelijkertijd de toepassing daarvan op de Nederlandse Antillen of op Aruba beëindigd, indien het daartoe is uitgebreid overeenkomstig de bepalingen van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003116&hoofdstuk=XIII&artikel=19&z=2009-01-01&g=2009-01-01).
 
 ##### Artikel 22
 
