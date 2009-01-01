@@ -4,7 +4,7 @@ identifier: "BWBR0020705"
 country: "nl"
 rank: "zbo"
 publication_date: "2009-01-01"
-last_updated: "2008-09-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020705"
 soort: "zbo"
@@ -42,6 +42,8 @@ Na raadpleging van de betrokken representatieve organisaties;
 
 Besluit:
 
+Treedt in werking op tijdstip waarop het Besluit prudentieel toezicht financiële groepen Wft in werking treedt.
+
 #### § 1. Inleidende bepalingen
 
 ##### Artikel 1
@@ -70,13 +72,13 @@ In deze regeling wordt verstaan onder:
 
 2. Van een significante individuele intragroepovereenkomst is sprake wanneer het bedrag van de hieruit voortvloeiende positie meer bedraagt dan twintig procent van de kapitaaltoereikendheidsvereiste van de kredietinstelling, die de overeenkomst is aangegaan. Van een significante totale positie is sprake indien deze positie meer bedraagt dan twintig procent van de kapitaaltoereikendheidsvereiste van de kredietinstelling.
 
-3. Een kredietinstelling, die tevens is onderworpen aan het toezicht als bedoeld in [artikel 3:298 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:298), kan in plaats van de in het eerste lid bedoelde rapportage volstaan met de rapportage als bedoeld in [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=7&z=2008-09-01&g=2008-09-01) van deze regeling.
+3. Een kredietinstelling, die tevens is onderworpen aan het toezicht als bedoeld in [artikel 3:298 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:298), kan in plaats van de in het eerste lid bedoelde rapportage volstaan met de rapportage als bedoeld in [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=7&z=2009-01-01&g=2009-01-01) van deze regeling.
 
 4. Op verzoek van de kredietinstelling en na overleg met relevante toezichthoudende instanties kan DNB afwijken van het eerste en tweede lid.
 
 ##### Artikel 3
 
-1. Voor de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=2&artikel=2&z=2008-09-01&g=2008-09-01), wordt ten aanzien van elke significante individuele intragroepovereenkomst aangegeven:
+1. Voor de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=2&artikel=2&z=2009-01-01&g=2009-01-01), wordt ten aanzien van elke significante individuele intragroepovereenkomst aangegeven:
 
 - a. het bedrag van de vordering: de financiële verhouding die uit de overeenkomst voortvloeit. Alleen actiefposten en daarmee vergelijkbare off balance sheet instrumenten worden gerapporteerd;
 
@@ -100,25 +102,25 @@ In deze regeling wordt verstaan onder:
 
 2. Van een significante individuele intragroepovereenkomst is sprake wanneer het bedrag van de hieruit voortvloeiende positie meer bedraagt dan twintig procent van de vereiste solvabiliteitsmarge van de verzekeraar. Van een significante totale positie is sprake indien deze positie meer bedraagt dan twintig procent van de vereiste solvabiliteitsmarge van de verzekeraar.
 
-3. Een verzekeraar, die tevens is onderworpen aan het toezicht als bedoeld in [artikel 3:298 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:298), kan in plaats van de in het eerste lid bedoelde rapportage volstaan met de rapportage, bedoeld in [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=7&z=2008-09-01&g=2008-09-01) van deze regeling, aangevuld met een rapportage over significantie intragroepposities met betrekking tot de in [artikel 5, derde lid, onder e tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=3&artikel=5&z=2008-09-01&g=2008-09-01), van deze regeling bedoelde categorieën van intragroepovereenkomsten en -posities, zoals opgenomen in blad 2 van het rapportageformulier.
+3. Een verzekeraar, die tevens is onderworpen aan het toezicht als bedoeld in [artikel 3:298 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:298), kan in plaats van de in het eerste lid bedoelde rapportage volstaan met de rapportage, bedoeld in [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=7&z=2009-01-01&g=2009-01-01) van deze regeling, aangevuld met een rapportage over significantie intragroepposities met betrekking tot de in [artikel 5, derde lid, onder e tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=3&artikel=5&z=2009-01-01&g=2009-01-01), van deze regeling bedoelde categorieën van intragroepovereenkomsten en -posities, zoals opgenomen in blad 2 van het rapportageformulier.
 
 4. Op verzoek van de verzekeraar en na overleg met relevante toezichthoudende instanties kan DNB afwijken van het eerste en tweede lid.
 
 ##### Artikel 5
 
-1. Voor de toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=3&artikel=4&z=2008-09-01&g=2008-09-01), wordt ten aanzien van elke significante individuele intragroepovereenkomst aangegeven:
+1. Voor de toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=3&artikel=4&z=2009-01-01&g=2009-01-01), wordt ten aanzien van elke significante individuele intragroepovereenkomst aangegeven:
 
 - a. het bedrag van de vordering: de financiële verhouding die uit de overeenkomst voortvloeit. Alleen actiefposten en daarmee vergelijkbare off balance sheet instrumenten worden gerapporteerd.
 
 - b. met welke onderneming van de groep de intragroepovereenkomst is aangegaan.
 
-2. Voor de toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=3&artikel=4&z=2008-09-01&g=2008-09-01), wordt ten aanzien van elke significante totale positie aangegeven:
+2. Voor de toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=3&artikel=4&z=2009-01-01&g=2009-01-01), wordt ten aanzien van elke significante totale positie aangegeven:
 
 - a. het bedrag van de totale positie;
 
 - b. met welke onderneming van de groep de intragroepovereenkomst is aangegaan.
 
-3. Voor de toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=3&artikel=4&z=2008-09-01&g=2008-09-01), worden de significante intragroepovereenkomsten en -posities ondergebracht in één van de volgende categorieën:
+3. Voor de toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=3&artikel=4&z=2009-01-01&g=2009-01-01), worden de significante intragroepovereenkomsten en -posities ondergebracht in één van de volgende categorieën:
 
 - a. beleggingen;
 
@@ -180,7 +182,7 @@ De gerapporteerde overige vorderingen, bedoeld in onderdeel d, gaan vergezeld va
 
 ##### Artikel 9
 
-1. Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=6&artikel=8&z=2008-09-01&g=2008-09-01) wordt ten aanzien van elke significante risicoconcentratie aangegeven:
+1. Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=6&artikel=8&z=2009-01-01&g=2009-01-01) wordt ten aanzien van elke significante risicoconcentratie aangegeven:
 
 - a. de naam van het individu of instelling dan wel de naam van de groep van onderling verbonden individuen of instellingen;
 
@@ -212,19 +214,19 @@ De gerapporteerde afgegeven garanties, inclusief financiële derivaten, en overi
 
 ##### Artikel 11
 
-1. Voor de toepassing van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=7&artikel=10&z=2008-09-01&g=2008-09-01), wordt ten aanzien van elke significante individuele intragroepovereenkomst aangegeven:
+1. Voor de toepassing van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=7&artikel=10&z=2009-01-01&g=2009-01-01), wordt ten aanzien van elke significante individuele intragroepovereenkomst aangegeven:
 
 - a. het bedrag van de vordering; de financiële verhouding die uit de overeenkomst voortvloeit. Alleen actiefposten en daarmee vergelijkbare off balance sheet instrumenten worden gerapporteerd;
 
 - b. met welke onderneming van het financieel conglomeraat de intragroepovereenkomst is aangegaan.
 
-2. Voor de toepassing van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=7&artikel=10&z=2008-09-01&g=2008-09-01), wordt ten aanzien van elke significante totale positie aangegeven:
+2. Voor de toepassing van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=7&artikel=10&z=2009-01-01&g=2009-01-01), wordt ten aanzien van elke significante totale positie aangegeven:
 
 - a. het bedrag van de totale positie;
 
 - b. met welke onderneming van het financieel conglomeraat de intragroepovereenkomst is aangegaan.
 
-3. Voor de toepassing van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=7&artikel=10&z=2008-09-01&g=2008-09-01), wordt elke significante intragroepvordering ondergebracht in één van de volgende categorieën:
+3. Voor de toepassing van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=7&artikel=10&z=2009-01-01&g=2009-01-01), wordt elke significante intragroepvordering ondergebracht in één van de volgende categorieën:
 
 - a. beleggingen;
 
