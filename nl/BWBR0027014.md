@@ -4,7 +4,7 @@ identifier: "BWBR0027014"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-18"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027014"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
 ##### Artikel II
 
