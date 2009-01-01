@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2008-09-16"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -310,6 +310,8 @@ N. Handhaving voorwaarden met betrekking tot stamrechten van voor 1 januari 1992
 
 - 6. Op aanspraken op lijfrenten als bedoeld in artikel 25, tweede en derde lid, van de Wet op de inkomstenbelasting 1964 zoals dat artikel luidde op 31 december 1991 waarop ingevolge artikel 75 van die wet de regels van kracht zijn die daarvoor op 31 december 1991 golden, zijn in aanvulling op het eerste lid ook [artikel 1.7, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7) en de daarop berustende bepalingen, van overeenkomstige toepassing.
 
+- 7. Indien voor het bepalen van het inkomen uit een recht op periodieke uitkeringen of verstrekkingen het eerste lid, aanhef en onderdeel d, toepassing vindt, vindt artikel 3.107a van de Wet inkomstenbelasting 2001 geen toepassing bij het bepalen van de omvang van belastbare periodieke uitkeringen en verstrekkingen ingevolge dat recht.
+
 - 1. Op bij de aangifte inkomstenbelasting over het jaar 2001 gedaan verzoek van de verzekeringnemer dan wel, indien deze is overleden of de uitkeringen op grond van het recht zijn ingegaan, de begunstigde, blijft toepassing van onderdeel O, eerste lid, met ingang van 1 januari 2001 achterwege op een recht op periodieke uitkeringen of verstrekkingen waarvan de daarvoor betaalde premies op grond van de Wet op de inkomstenbelasting 1964 niet als persoonlijke verplichtingen in aanmerking konden worden genomen dan wel voor de verkrijging waarvan geen vrijstelling van toepassing is geweest.
 
 - 2. In het geval bedoeld in het eerste lid wordt op 1 januari 2001 een uitkering of verstrekking als bedoeld in [artikel 3.100 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.100) in aanmerking genomen bij de in het eerste lid bedoelde persoon tot het bedrag van de waarde in het economische verkeer van het recht verminderd met het gezamenlijke bedrag van de ter zake van dat recht betaalde premies voorzover die niet reeds ter zake van een eerdere uitkering of verstrekking in aanmerking zijn genomen.
@@ -358,7 +360,7 @@ U. Aangewezen periodieke uitkeringen en verstrekkingen. Uitkeringen ingevolge [a
 
 V. Tijdstip genieten. Voor de toepassing van [artikel 3.146, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.146) is [artikel 39 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39) van overeenkomstige toepassing.
 
-- 1. Verlies als bedoeld in hoofdstuk IV van de Wet op de inkomstenbelasting 1964 dat niet verrekenbaar is met inkomens van aan het kalenderjaar 2001 voorafgaande kalenderjaren, wordt voor de toepassing van [afdeling 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.13)[artikel 7.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), en [artikel 9.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.3), aangemerkt als verlies uit werk en woning van het jaar waarin dit is ontstaan.
+- 1. Verlies als bedoeld in hoofdstuk IV van de Wet op de inkomstenbelasting 1964 dat niet verrekenbaar is met inkomens van aan het kalenderjaar 2001 voorafgaande kalenderjaren, wordt voor de toepassing van [afdeling 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.13) en [artikel 7.2, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), aangemerkt als verlies uit werk en woning van het jaar waarin dit is ontstaan.
 
 - 2. Het verlies, bedoeld in het eerste lid, voorzover dit is voortgevloeid uit andere bestanddelen van het inkomen dan zijn bedoeld in artikel 5, tweede en derde lid, van de Wet op de inkomstenbelasting 1964 en niet kan worden verrekend met inkomens van de jaren waarin het huwelijk heeft bestaan, wordt ingeval het huwelijk door overlijden van de belastingplichtige wordt ontbonden, verrekend met inkomens van de echtgenoot mits zowel de belastingplichtige als zijn echtgenoot op het tijdstip van ontbinding van het huwelijk binnenlands belastingplichtig was.
 
@@ -770,9 +772,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2008-01-01&g=2008-09-16), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2012-01-01&g=2009-01-01), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2008-01-01&g=2008-09-16), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2012-01-01&g=2009-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
