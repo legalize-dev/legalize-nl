@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2008-06-13"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ Uitvoeringsregeling inkomstenbelasting 2001
 
 ##### Artikel 2. In belangrijke mate onderhouden van kinderen
 
-Een kind wordt in belangrijke mate op kosten van de ouder onderhouden indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 400 per kwartaal beloopt. De ouder wordt geacht een kind in belangrijke mate op zijn kosten te onderhouden indien hij voor het kind recht heeft op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of op een tegemoetkoming volgens een naar aard en strekking met de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) overeenkomende buitenlandse regeling.
+Een kind wordt in belangrijke mate op kosten van de ouder onderhouden indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 408 per kwartaal beloopt. De ouder wordt geacht een kind in belangrijke mate op zijn kosten te onderhouden indien hij voor het kind recht heeft op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of op een tegemoetkoming volgens een naar aard en strekking met de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) overeenkomende buitenlandse regeling.
 
 ### Hoofdstuk 2. Raamwerk (hoofdstuk 2 van de wet)
 
@@ -109,11 +109,7 @@ Voor de toepassing van [artikel 3.16, tweede lid, onderdeel c, van de wet](https
 
 ##### Artikel 8. Belastbare winst uit onderneming; in aftrek beperkte kosten ten behoeve van de belastingplichtige; verhuizing in kader van onderneming
 
-1. Voor de toepassing van [artikel 3.17, eerste lid, onderdeel a, onder 1° van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), verhuist de ondernemer in ieder geval in het kader van de onderneming ingeval hij binnen twee jaar na de verplaatsing van de onderneming:
-
-- a. verhuist naar een woning binnen een afstand van 10 kilometer van de nieuwe vestigingsplaats van de onderneming terwijl hij op een afstand groter dan 10 kilometer van deze vestigingsplaats woonde;
-
-- b. door verhuizing de afstand tussen zijn woning en de vestigingsplaats van de onderneming met ten minste 50 percent en ten minste 10 kilometer bekort.
+1. Voor de toepassing van [artikel 3.17, eerste lid, onderdeel a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17) verhuist de ondernemer in ieder geval in het kader van de onderneming ingeval hij binnen twee jaar na de verplaatsing van de onderneming verhuist naar een woning binnen een afstand van 10 kilometer van de nieuwe vestigingsplaats van de onderneming terwijl hij op een afstand groter dan 25 kilometer van deze vestigingsplaats woonde.
 
 2. Onder afstand als bedoeld in het eerste lid wordt verstaan de afstand gemeten langs de meest gebruikelijke weg.
 
@@ -291,7 +287,7 @@ De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](https://wetten
 
 - a. inspecteur: de voorzitter van het managementteam van de Belastingdienst/Amsterdam;
 
-- b. groenproject: een project waarvoor ingevolge de [Regeling groenprojecten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018466) dan wel de [Regeling groenprojecten buitenland 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013272) een verklaring als bedoeld in [artikel 5.14, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) is afgegeven;
+- b. groenproject: een project waarvoor ingevolge de [Regeling groenprojecten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018466), de [Regeling groenprojecten buitenland 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013272) dan wel de [Regeling groenprojecten Nederlandse Antillen en Aruba 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013273) een verklaring als bedoeld in [artikel 5.14, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) is afgegeven;
 
 - c. sociaal-ethisch project: een project waarvoor ingevolge de [Regeling sociaal-ethische projecten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019536) een verklaring als bedoeld in [artikel 5.15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15) is afgegeven;
 
@@ -334,6 +330,8 @@ De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](https://wetten
 3. De inspecteur beslist op het verzoek tot aanwijzing bij voor bezwaar vatbare beschikking.
 
 4. De aanwijzing vindt plaats met ingang van de datum waarop het verzoek is ingediend, dan wel met ingang van een latere datum indien daarom is verzocht.
+
+5. De inspecteur maakt het aanwijzen als een fonds als bedoeld in [artikel 28, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=28&z=2012-01-01&g=2009-01-01), op een daartoe geschikte wijze publiek bekend. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking ook op een daartoe geschikte wijze publiek bekend.
 
 ##### Artikel 30. Beleggingen in durfkapitaal; vrijstelling directe beleggingen in durfkapitaal; beginnende ondernemer-natuurlijke persoon
 
@@ -395,7 +393,7 @@ Onder een geregistreerde, achtergestelde geldlening als bedoeld in [artikel 5.17
 
 4. Als een deelneming als bedoeld in [artikel 5.18, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18) wordt aangemerkt de deelneming waarbij het in de rechtspersoon te storten kapitaal dient ter financiering van bestanddelen die tot het verplichte ondernemingsvermogen zouden behoren indien de onderneming van de rechtspersoon voor rekening van een natuurlijk persoon zou worden gedreven.
 
-5. Met betrekking tot het verzoek om aanwijzing als participatiemaatschappij, de afhandeling van dat verzoek, de informatieverstrekking en de intrekking van de aanwijzing zijn de [artikelen 29 tot en met 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29&z=2009-02-12&g=2008-06-13) van overeenkomstige toepassing.
+5. Met betrekking tot het verzoek om aanwijzing als participatiemaatschappij, de afhandeling van dat verzoek, de informatieverstrekking , de intrekking, alsmede het publiek bekend maken van de aanwijzing en intrekking van de aanwijzing zijn de [artikelen 29 tot en met 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29&z=2012-01-01&g=2009-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 33a. Beleggingen in durfkapitaal; vrijstelling culturele beleggingen
 
@@ -431,19 +429,19 @@ Ingeval een beginnende ondernemer binnen de eerste acht jaren na het verstrekken
 
 1. De in [artikel 6.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.15) bedoelde uitgaven voor levensonderhoud van een kind worden, indien de kosten van dat onderhoud in belangrijke mate op de belastingplichtige drukken, in aanmerking genomen tot een bedrag van:
 
-- a. € 285 per kalenderkwartaal indien het kind jonger dan 6 jaar is;
+- a. € 290 per kalenderkwartaal indien het kind jonger dan 6 jaar is;
 
-- b. € 345 per kalenderkwartaal indien het kind 6 jaar of ouder doch jonger dan 12 jaar is;
+- b. € 350 per kalenderkwartaal indien het kind 6 jaar of ouder doch jonger dan 12 jaar is;
 
-- c. € 405 per kalenderkwartaal indien het kind 12 jaar of ouder doch jonger dan 18 jaar is;
+- c. € 410 per kalenderkwartaal indien het kind 12 jaar of ouder doch jonger dan 18 jaar is;
 
-- d. € 345 per kalenderkwartaal indien het kind 18 jaar of ouder is.
+- d. € 350 per kalenderkwartaal indien het kind 18 jaar of ouder is.
 
 2. Het in het eerste lid, onderdeel d, vermelde bedrag wordt verhoogd tot:
 
-- a. € 690, indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 690 per kwartaal belopen en de kosten van het onderhoud van het kind tevens grotendeels op de belastingplichtige drukken;
+- a. € 700, indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 700 per kwartaal belopen en de kosten van het onderhoud van het kind tevens grotendeels op de belastingplichtige drukken;
 
-- b. € 1035, indien het kind niet tot het huishouden van de belastingplichtige behoort, de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 1035 per kwartaal belopen en de kosten van het onderhoud van het kind tevens geheel of nagenoeg geheel op de belastingplichtige drukken.
+- b. € 1050, indien het kind niet tot het huishouden van de belastingplichtige behoort, de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 1050 per kwartaal belopen en de kosten van het onderhoud van het kind tevens geheel of nagenoeg geheel op de belastingplichtige drukken.
 
 3. Indien zowel de belastingplichtige als zijn partner uitgaven voor levensonderhoud van kinderen in aanmerking nemen, worden de in aanmerking te nemen bedragen gesteld op de helft van de bedragen vermeld in het eerste en tweede lid, zonodig naar boven af te ronden op een geheel getal.
 
@@ -592,7 +590,7 @@ Voor overige diëten worden de extra uitgaven gesteld op nihil.
 
 - a. € 9 per dag van verzorging van de gehandicapte door de belastingplichtige, alsmede
 
-- b. het in [artikel 6.18, zesde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.18) genoemde bedrag per kilometer voor het vervoer per auto van de gehandicapte door de belastingplichtige over de reisafstand tussen de plaats waar de gehandicapte doorgaans verblijft en de plaats waar de belastingplichtige doorgaans verblijft.
+- b. € 0,19 per kilometer voor het vervoer per auto van de gehandicapte door de belastingplichtige over de reisafstand tussen de plaats waar de gehandicapte doorgaans verblijft en de plaats waar de belastingplichtige doorgaans verblijft.
 
 Dagen van verzorging van de gehandicapte door de belastingplichtige zijn de dagen waarop de gehandicapte bij de belastingplichtige verblijft, met inbegrip van de dagen waarop de gehandicapte wordt gehaald of gebracht.
 
@@ -724,11 +722,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2008-06-13) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2009-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2008-06-13) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2009-01-01) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2009-02-12&g=2008-06-13) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2009-01-01) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -736,7 +734,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 9a. Constatering van het niet afgenomen zijn van de netto-tonnage van bepaalde schepen
 
-Met betrekking tot het kalenderjaar 2008 wordt voor de toepassing van artikel [3.22, zesde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) vastgesteld dat de netto-tonnage van kwalificerende schepen in de periode 2004 tot en met 2006 ten opzichte van de periode 2003 tot en met 2005 niet is afgenomen.
+Vervallen
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang (hoofdstuk 4 van de wet)
 
@@ -780,13 +778,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 40a. Scholingsuitgaven; afgifte EVC-verklaringen
 
-Als instanties als bedoeld in [artikel 6.27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.27) worden aangewezen:
+Als instantie als bedoeld in [artikel 6.27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.27) worden aangewezen:
 
-- a. het Kwaliteitscentrum examinering beroepsonderwijs, bedoeld in [artikel 7.4.9a, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.9a);
+- a. de Inspectie van het onderwijs, bedoeld in [artikel 2 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=2);
 
-- b. een Visiterende en Beoordelende Instantie als bedoeld in [artikel 5a.8a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.8a);
+- b. een beoordelende instantie als bedoeld in [artikel 5a.8a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.8a);
 
-- c. een door de Minister van Onderwijs, Cultuur en Wetenschappen nader te bepalen accrediterende partij.
+- c. een door de Minister van Onderwijs, Cultuur en Wetenschap nader te bepalen accrediterende partij.
 
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
@@ -808,7 +806,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 - c. uit de regelgeving van de instelling en de feiten blijkt dat een natuurlijk persoon noch een rechtspersoon over het vermogen van de instelling kan beschikken als ware het zijn eigen vermogen; de inspecteur kan, zonodig onder door hem te stellen voorwaarden, toestaan dat een steunstichting en de instelling of instellingen welke door deze stichting worden ondersteund, over en weer kunnen beschikken over elkaars vermogen als ware het eigen vermogen;
 
-- d. de instelling niet meer vermogen aanhoudt dan is aangegeven in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=41b&z=2009-02-12&g=2008-06-13);
+- d. de instelling niet meer vermogen aanhoudt dan is aangegeven in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=41b&z=2012-01-01&g=2009-01-01);
 
 - e. de leden van het orgaan van de instelling dat het beleid bepaalt, ter zake van de door hen voor de instelling verrichte werkzaamheden geen andere beloning ontvangen dan een vergoeding voor gemaakte onkosten en een niet bovenmatig vacatiegeld;
 
@@ -932,9 +930,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 5. Ingeval het fonds is aangewezen met een ingroeiperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
 
-6. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2009-02-12&g=2008-06-13), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
+6. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2012-01-01&g=2009-01-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
 
-7. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2009-02-12&g=2008-06-13), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
+7. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2012-01-01&g=2009-01-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
+
+8. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend.
 
 ### Hoofdstuk 6. Persoonsgebonden aftrek
 
