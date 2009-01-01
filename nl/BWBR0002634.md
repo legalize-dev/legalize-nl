@@ -4,7 +4,7 @@ identifier: "BWBR0002634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2008-12-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002634"
 soort: "ministeriele-regeling"
@@ -125,7 +125,7 @@ Vervallen
 
 - b. is bij uittreding van een natuurlijk persoon of lichaam in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) uit de fiscale eenheid, het tweede lid van overeenkomstige toepassing.
 
-4. De voorgaande leden gelden niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2008-12-01&g=2008-12-01).
+4. De voorgaande leden gelden niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2009-01-01&g=2009-01-01).
 
 ### Hoofdstuk III. Regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten
 
@@ -243,9 +243,9 @@ Als met doorlopende posten gelijk te stellen bedragen, bedoeld in [artikel 4, ee
 
 ##### Artikel 6
 
-1. Het verzoek om te worden uitgezonderd van de vrijstelling van belasting voor de levering van onroerende zaken en van rechten waaraan deze zijn onderworpen kan voor elke onroerende zaak en voor elk recht waaraan een onroerende zaak is onderworpen worden gedaan.
+1. De keuze blijkens de notariële akte of het verzoek om te worden uitgezonderd van de vrijstelling van belasting voor de levering van onroerende zaken en van rechten waaraan deze zijn onderworpen kan voor elke onroerende zaak en voor elk recht waaraan een onroerende zaak is onderworpen worden gedaan.
 
-2. In het verzoek wordt vermeld een omschrijving van de onroerende zaak en het recht waaraan deze is onderworpen met plaatselijke en kadastrale aanduiding alsmede de datum van aanvang van het boekjaar. Bij het verzoek wordt een door de afnemer ondertekende verklaring gevoegd waaruit blijkt dat hij de onroerende zaak gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) bestaat.
+2. In de notariële akte of het verzoek wordt vermeld een omschrijving van de onroerende zaak en het recht waaraan deze is onderworpen met plaatselijke en kadastrale aanduiding alsmede de datum van aanvang van het boekjaar. In de notariële akte of het verzoek wordt een door de afnemer ondertekende verklaring gevoegd waaruit blijkt dat hij de onroerende zaak gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) bestaat.
 
 3. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
@@ -261,9 +261,9 @@ Als met doorlopende posten gelijk te stellen bedragen, bedoeld in [artikel 4, ee
 
 ##### Artikel 6a
 
-1. Het verzoek om te worden uitgezonderd van de vrijstelling van belasting voor verhuur van onroerende zaken kan voor elke onroerende zaak afzonderlijk worden gedaan.
+1. De keuze blijkens de schriftelijke huurovereenkomst of het verzoek om te worden uitgezonderd van de vrijstelling van belasting voor verhuur van onroerende zaken kan voor elke onroerende zaak afzonderlijk worden gedaan.
 
-2. In het verzoek wordt vermeld een omschrijving van de onroerende zaak met plaatselijke en kadastrale aanduiding alsmede de datum van aanvang van het boekjaar van de huurder. Bij het verzoek wordt een door de huurder ondertekende verklaring gevoegd waaruit blijkt dat hij de onroerende zaak gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) bestaat.
+2. In de schriftelijke huurovereenkomst of het verzoek wordt vermeld een omschrijving van de onroerende zaak met plaatselijke en kadastrale aanduiding alsmede de datum van aanvang van het boekjaar van de huurder. In de schriftelijke huurovereenkomst of het verzoek wordt een door de huurder ondertekende verklaring gevoegd waaruit blijkt dat hij de onroerende zaak gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) bestaat.
 
 3. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking, waarin de datum met ingang waarvan de vrijstelling buiten toepassing blijft, wordt vermeld.
 
@@ -273,7 +273,7 @@ Als met doorlopende posten gelijk te stellen bedragen, bedoeld in [artikel 4, ee
 
 6. Ingeval de onroerende zaak niet vóór het einde van het boekjaar waarin de huurder de onroerende zaak, met toepassing van het keuzerecht voor belasting, is gaan huren, door de huurder in gebruik is genomen, is niet voldaan aan de in het vijfde lid bedoelde voorwaarde.
 
-7. De huurder stelt binnen vier weken na afloop van het boekjaar waarin hij de onroerende zaak, met toepassing van het keuzerecht voor belasting, is gaan huren, de verhuurder er door middel van een door hem ondertekende verklaring van in kennis of voor dat boekjaar is voldaan aan de in het vijfde lid bedoelde voorwaarde. Voorts stelt de huurder, ingeval in een daarop volgend boekjaar niet is voldaan aan de in het vijfde lid bedoelde voorwaarde, de verhuurder binnen vier weken na afloop van het desbetreffende boekjaar door middel van een door hem ondertekende verklaring hiervan in kennis. In beide gevallen zendt de huurder binnen dezelfde termijn een afschrift van de verklaring aan de inspecteur.
+7. Ingeval niet meer wordt voldaan aan de in het vijfde lid bedoelde voorwaarde stelt de huurder de verhuurder binnen vier weken na afloop van het desbetreffende boekjaar daarvan in kennis door middel van een door hem ondertekende verklaring. Tevens zendt de huurder binnen dezelfde termijn een afschrift hiervan aan de inspecteur.
 
 8. Ingeval in een boekjaar dat is aangevangen na het boekjaar waarin de huurder de onroerende zaak is gaan huren, de vrijstelling buiten toepassing is gebleven en na afloop van dat boekjaar blijkt dat de huurder niet meer voldoet aan de in het vijfde lid bedoelde voorwaarde, kan de vrijstelling in dat boekjaar buiten toepassing blijven, tenzij de huurder redelijkerwijs kon voorzien dat hij niet langer zou voldoen aan deze voorwaarde. Blijkt in het daarop volgende boekjaar evenmin te worden voldaan aan voormelde voorwaarde, dan vindt de vrijstelling toepassing met ingang van laatstgemeld boekjaar, ook als de huurder redelijkerwijs niet kon voorzien dat hij in het desbetreffende boekjaar niet zou voldoen aan die voorwaarde.
 
@@ -287,7 +287,7 @@ De vrijstelling van belasting voor voordrachten en dergelijke diensten, als zijn
 
 1. In het geval, bedoeld in[artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=31), wordt hij aan wie de overdracht is geschied, voor het berekenen van de door hem verschuldigde belasting wat de onderneming of het overgedragen gedeelte betreft, geacht in plaats te zijn getreden van degene die de onderneming of een gedeelte daarvan heeft overgedragen.
 
-2. Het eerste lid geldt niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2008-12-01&g=2008-12-01).
+2. Het eerste lid geldt niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2009-01-01&g=2009-01-01).
 
 ##### Artikel 9
 
@@ -361,7 +361,7 @@ Door de ondernemer kan in aftrek worden gebracht de belasting die blijkens zijn 
 
 ##### Artikel 13a
 
-1. In geval van levering door de ondernemer van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2008-12-01&g=2008-12-01), bedoelde goederen binnen de termijn waarin de aftrek wordt herzien, is [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2008-12-01&g=2008-12-01), van overeenkomstige toepassing. Daarbij wordt de ondernemer geacht tot het einde van die termijn het gebruik van het goed voor bedrijfsdoeleinden voort te zetten uitsluitend ten behoeve van:
+1. In geval van levering door de ondernemer van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2009-01-01&g=2009-01-01), bedoelde goederen binnen de termijn waarin de aftrek wordt herzien, is [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2009-01-01&g=2009-01-01), van overeenkomstige toepassing. Daarbij wordt de ondernemer geacht tot het einde van die termijn het gebruik van het goed voor bedrijfsdoeleinden voort te zetten uitsluitend ten behoeve van:
 
 - a. belaste handelingen, indien ter zake van de levering van het goed belasting verschuldigd is dan wel geen belasting verschuldigd is omdat het gaat om een handeling als bedoeld in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15);
 
@@ -375,13 +375,13 @@ Het afstoten van goederen welke de ondernemer in zijn bedrijf heeft gebruikt, wo
 
 ##### Artikel 14a
 
-Handelingen ter zake waarvan op grond van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27) geen belasting verschuldigd is, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2008-12-01&g=2008-12-01) aangemerkt als handelingen, andere dan die bedoeld in [artikel 15, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27).
+Handelingen ter zake waarvan op grond van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27) geen belasting verschuldigd is, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2009-01-01&g=2009-01-01) aangemerkt als handelingen, andere dan die bedoeld in [artikel 15, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27).
 
 ##### Artikel 15
 
 1. De belasting welke drukt op het houden - met inbegrip van de aanschaffing - door de ondernemer, van een auto welke mede wordt gebruikt voor eigen privé-doeleinden (privé-gebruik), wordt eerst in aftrek gebracht alsof de auto uitsluitend voor bedrijfsdoeleinden wordt gebruikt; vervolgens is ter zake van het privé-gebruik jaarlijks 12 percent belasting verschuldigd over het bedrag dat bij de heffing van de inkomstenbelasting als onttrekking wordt aangemerkt. Indien de auto bij de heffing van de inkomstenbelasting niet tot het bedrijfsvermogen wordt gerekend, is ter zake van het privé-gebruik 12 percent belasting verschuldigd over het bedrag dat bij de heffing van de inkomstenbelasting als onttrekking in aanmerking zou zijn genomen indien de auto bij die heffing tot het bedrijfsvermogen zou zijn gerekend. Deze belasting is verschuldigd in het laatste belastingtijdvak van het boekjaar.
 
-2. Indien de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2008-12-01&g=2008-12-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2008-12-01&g=2008-12-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2008-12-01&g=2008-12-01) toepassing vinden, wordt de in het eerste lid bedoelde heffing van 12 percent naar evenredigheid verlaagd.
+2. Indien de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2009-01-01&g=2009-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2009-01-01&g=2009-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2009-01-01&g=2009-01-01) toepassing vinden, wordt de in het eerste lid bedoelde heffing van 12 percent naar evenredigheid verlaagd.
 
 ##### Artikel 16
 
@@ -423,7 +423,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2008-12-01&g=2008-12-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2008-12-01&g=2008-12-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
+1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2009-01-01&g=2009-01-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2009-01-01&g=2009-01-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
 
 2. Het verzoek wordt slechts ingewilligd, indien de belanghebbende:
 
@@ -443,7 +443,7 @@ Vervallen
 
 5. Tenzij de inspecteur anders bepaalt, moet de belanghebbende voldoen aan de volgende voorwaarden:
 
-- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2008-12-01&g=2008-12-01);
+- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2009-01-01&g=2009-01-01);
 
 - b. bij aangifte ten invoer van de goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moet het btw-identificatienummer zijn vermeld.
 
@@ -467,9 +467,9 @@ Vervallen
 
 3. De belanghebbende moet voldoen aan de volgende voorwaarden:
 
-- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2008-12-01&g=2008-12-01);
+- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2009-01-01&g=2009-01-01);
 
-- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2008-12-01&g=2008-12-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
+- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2009-01-01&g=2009-01-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
 
 4. De inspecteur is bevoegd in bepaalde gevallen nadere voorwaarden te stellen.
 
@@ -621,7 +621,7 @@ Voor de bepaling van de vermindering als bedoeld in [artikel 25, eerste lid, van
 
 - 11°. exploitanten van horecabedrijven;
 
-- 12°. advocaten en procureurs, die hun praktijk alleen uitoefenen;
+- 12°. advocaten die hun praktijk alleen uitoefenen;
 
 - 13°. houders van autorijscholen;
 
@@ -677,7 +677,7 @@ De ondernemer of de tussenpersoon die het recht uitoefent om overeenkomstig [art
 
 ##### Artikel 29c
 
-Handelingen die op grond van [artikel 28k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28k) van de belasting zijn vrijgesteld, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2008-12-01&g=2008-12-01) aangemerkt als handelingen waarvoor geen recht op aftrek van voorbelasting bestaat.
+Handelingen die op grond van [artikel 28k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28k) van de belasting zijn vrijgesteld, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2009-01-01&g=2009-01-01) aangemerkt als handelingen waarvoor geen recht op aftrek van voorbelasting bestaat.
 
 ##### Artikel 29d
 
@@ -831,15 +831,19 @@ Als hulpmiddelen die speciaal zijn ontworpen dan wel bestemd voor het exclusieve
 
 ##### Artikel 34a
 
-1. Ter zake van de levering van gas door middel van pijpleidingen vindt de bij de wet behorende tabel I, onderdeel a, post 32, slechts toepassing, indien die levering geschiedt aan een tuinbouwer en mits de leverancier per aansluiting een door de tuinbouwer ondertekende verklaring kan overleggen waaruit blijkt, dat deze het gas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwprodukten, en waarin voorts zijn vermeld:
+1. Ter zake van de levering en het vervoer van gas door middel van pijpleidingen vinden de bij de [wet behorende tabel I, onderdeel a, post 32, onderscheidenlijk onderdeel b, post 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), slechts toepassing, indien de afnemer van die prestaties een tuinbouwer is en mits per aansluiting een door de tuinbouwer ondertekende verklaring aan de leverancier onderscheidenlijk netbeheerder kan worden overlegd waaruit blijkt, dat deze het gas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten, en waarin voorts zijn vermeld:
 
-- a. naam en adres van de afnemer;
+- a. de dagtekening;
 
-- b. naam en adres van de leverancier;
+- b. naam en adres van de afnemer, en
 
-- c. het kalenderjaar waarop de verklaring betrekking heeft.
+- c. naam en adres van de leverancier onderscheidenlijk de netbeheerder.
 
-2. De in het eerste lid bedoelde verklaring heeft betrekking op al het per aansluiting in het kalenderjaar door de leverancier aan de tuinbouwer te leveren gas; indien slechts een deel van dat gas wordt gebruikt voor het in het eerste lid vermelde doel, moet dit in de verklaring worden vermeld en wordt dat deel uitgedrukt in een percentage van het geheel.
+2. De in het eerste lid bedoelde verklaring heeft betrekking op al het per aansluiting door de tuinbouwer afgenomen gas; indien slechts een deel van dat gas wordt gebruikt voor het in het eerste lid vermelde doel, moet dit in de verklaring worden vermeld en wordt dat deel uitgedrukt in een percentage van het geheel.
+
+3. Indien een gegeven als bedoeld in het eerste lid, onderdeel b of c, of het tweede lid, wijzigt, geeft de tuinbouwer binnen zes weken een nieuwe verklaring af aan de leverancier onderscheidenlijk de netbeheerder.
+
+4. De tuinbouwer trekt de verklaring binnen zes weken schriftelijk in, indien het door hem afgenomen gas niet langer wordt gebruikt voor het hiervoor vermelde doel. In de te ondertekenen verklaring wordt de datum van wijziging van gebruik opgenomen.
 
 ##### Artikel 34b
 
@@ -2269,10 +2273,10 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 
 ## Bijlage L
 
-### Lijst van gouden munten als bedoeld in [artikel 28j, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28j) ([artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XA&artikel=29a&z=2008-12-01&g=2008-12-01) van de Uitvoeringsbeschikking omzetbelasting 1968)
+### Lijst van gouden munten als bedoeld in [artikel 28j, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28j) ([artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XA&artikel=29a&z=2009-01-01&g=2009-01-01) van de Uitvoeringsbeschikking omzetbelasting 1968)
 
-(Publicatieblad van de Europese Unie 2007/C 286/47)
+(Publicatieblad van de Europese Unie 2008/C 306/6)
 
-Geldig voor het jaar 2008
+Geldig voor het jaar 2009
 
 Geldig voor het jaar 2007
