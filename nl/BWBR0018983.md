@@ -4,7 +4,7 @@ identifier: "BWBR0018983"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018983"
 soort: "AMvB"
@@ -116,25 +116,25 @@ alsmede instellingen voor:
 
 ##### Artikel 2.1
 
-1. Niet tot de in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01) genoemde instellingen behoren militaire instellingen als ziekenboegen, gezondheidscentra en operationeel geneeskundige instellingen.
+1. Niet tot de in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01) genoemde instellingen behoren militaire instellingen als ziekenboegen, gezondheidscentra en operationeel geneeskundige instellingen.
 
-2. Op de instellingen, genoemd in [artikel 1.2, onder nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01), voor zover het betreft militaire ziekenhuizen en militaire revalidatiecentra, zijn de [artikelen 7, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=7), [9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=9), en [13, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=13) niet van toepassing.
+2. Op de instellingen, genoemd in [artikel 1.2, onder nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01), voor zover het betreft militaire ziekenhuizen en militaire revalidatiecentra, zijn de [artikelen 7, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=7), [9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=9), en [13, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=13) niet van toepassing.
 
-3. Op de instellingen, genoemd in [artikel 1.2, onder nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01), voor zover het betreft academische ziekenhuizen, zijn de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VI&paragraaf=1&artikel=6.1&z=2008-01-01&g=2008-01-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VI&paragraaf=1&artikel=6.2&z=2008-01-01&g=2008-01-01) van dit besluit niet van toepassing.
+3. Op de instellingen, genoemd in [artikel 1.2, onder nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01), voor zover het betreft academische ziekenhuizen, zijn de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VI&paragraaf=1&artikel=6.1&z=2008-01-01&g=2009-01-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VI&paragraaf=1&artikel=6.2&z=2008-01-01&g=2009-01-01) van dit besluit niet van toepassing.
 
-4. [Artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VI&paragraaf=1&artikel=6.1&z=2008-01-01&g=2008-01-01) is uitsluitend van toepassing op:
+4. [Artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VI&paragraaf=1&artikel=6.1&z=2008-01-01&g=2009-01-01) is uitsluitend van toepassing op:
 
 - a. de instellingen, bedoeld in het vijfde lid, met uitzondering van academische ziekenhuizen, en
 
 - b. op overige instellingen wanneer daarop [artikel 2, eerste lid, van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=2) van toepassing is.
 
-5. De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=15) en [16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=16) zijn uitsluitend van toepassing op de instellingen, bedoeld in [artikel 1.2, onder de nummers 1 en 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01).
+5. De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=15) en [16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=16) zijn uitsluitend van toepassing op de instellingen, bedoeld in [artikel 1.2, onder de nummers 1 en 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01).
 
-6. [Artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=17) is uitsluitend van toepassing op de instellingen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.2&z=2008-01-01&g=2008-01-01), met uitzondering van de kleinschalige woonvoorzieningen, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.4&z=2008-01-01&g=2008-01-01).
+6. [Artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=17) is uitsluitend van toepassing op de instellingen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.2&z=2008-01-01&g=2009-01-01), met uitzondering van de kleinschalige woonvoorzieningen, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.4&z=2008-01-01&g=2009-01-01).
 
 7. [Artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=18) is uitsluitend van toepassing op:
 
-- a. de instellingen, bedoeld in [artikel 1.2, nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01),
+- a. de instellingen, bedoeld in [artikel 1.2, nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01),
 
 - –. die zorg verlenen in combinatie met Zvw-verblijf;
 
@@ -144,11 +144,11 @@ alsmede instellingen voor:
 
 - b. een en ander met uitzondering van militaire instellingen;
 
-- c. de instellingen, bedoeld in [artikel 5.2, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.2&z=2008-01-01&g=2008-01-01), met uitzondering van de kleinschalige woonvoorzieningen, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.4&z=2008-01-01&g=2008-01-01).
+- c. de instellingen, bedoeld in [artikel 5.2, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.2&z=2008-01-01&g=2009-01-01), met uitzondering van de kleinschalige woonvoorzieningen, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.4&z=2008-01-01&g=2009-01-01).
 
 ##### Artikel 2.2
 
-De instellingen, genoemd in [artikel 1.2, onder de nummers 5 tot en met 14, 23 en 24](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01) worden voor de toepassing van [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5) aangemerkt als in het bezit van een toelating.
+De instellingen, genoemd in [artikel 1.2, onder de nummers 5 tot en met 14, 23 en 24](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01) worden voor de toepassing van [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5) aangemerkt als in het bezit van een toelating.
 
 ### Hoofdstuk III. Winstoogmerk
 
@@ -156,13 +156,13 @@ De instellingen, genoemd in [artikel 1.2, onder de nummers 5 tot en met 14, 23 e
 
 Als instellingen waarvoor winstoogmerk is toegestaan, worden aangewezen:
 
-- a. de instellingen, behorend tot de categorie, genoemd in [artikel 1.2, onder nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01), die uitsluitend de daar genoemde zorg verlenen in verband met een psychiatrische aandoening, niet in combinatie met Zvw-verblijf;
+- a. de instellingen, behorend tot de categorie, genoemd in [artikel 1.2, onder nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01), die uitsluitend de daar genoemde zorg verlenen in verband met een psychiatrische aandoening, niet in combinatie met Zvw-verblijf;
 
-- b. de instellingen, behorend tot de categorieën, genoemd in [artikel 1.2, onder de nummers 2, 3, 5 tot en met 12, 14, 23 en 24](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01);
+- b. de instellingen, behorend tot de categorieën, genoemd in [artikel 1.2, onder de nummers 2, 3, 5 tot en met 12, 14, 23 en 24](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01);
 
-- c. de instellingen, behorend tot de categorieën, genoemd in [artikel 1.2, onder de nummers 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01), voor zover de desbetreffende zorg niet wordt verleend in combinatie met AWBZ-verblijf;
+- c. de instellingen, behorend tot de categorieën, genoemd in [artikel 1.2, onder de nummers 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01), voor zover de desbetreffende zorg niet wordt verleend in combinatie met AWBZ-verblijf;
 
-- d. de instellingen, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.4&z=2008-01-01&g=2008-01-01).
+- d. de instellingen, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.4&z=2008-01-01&g=2009-01-01).
 
 ### Hoofdstuk IV. Aanvraag toelating
 
@@ -192,11 +192,11 @@ De aanvraag aan Onze Minister om een toelating wordt ingediend onder gebruikmaki
 
 ##### Artikel 5.2
 
-Als categorieën van organisatorische verbanden, over de toelating waarvan Onze Minister beslist met toepassing van [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=7) in geval van een bij [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.3&z=2008-01-01&g=2008-01-01) aangewezen vorm van bouw, worden aangewezen:
+Als categorieën van organisatorische verbanden, over de toelating waarvan Onze Minister beslist met toepassing van [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=7) in geval van een bij [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.3&z=2008-01-01&g=2009-01-01) aangewezen vorm van bouw, worden aangewezen:
 
-- a. instellingen als bedoeld in [artikel 1.2, onder nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01), die de daar genoemde zorg verlenen in combinatie met Zvw-verblijf, uitsluitend in verband met een psychiatrische aandoening, met uitzondering van militaire instellingen;
+- a. instellingen als bedoeld in [artikel 1.2, onder nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01), die de daar genoemde zorg verlenen in combinatie met Zvw-verblijf, uitsluitend in verband met een psychiatrische aandoening, met uitzondering van militaire instellingen;
 
-- b. AWBZ-instellingen die een of meer vormen van zorg verlenen als bedoeld in [artikel 1.2, nummers 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01), in combinatie met AWBZ-verblijf, in verband met:
+- b. AWBZ-instellingen die een of meer vormen van zorg verlenen als bedoeld in [artikel 1.2, nummers 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01), in combinatie met AWBZ-verblijf, in verband met:
 
 - 1°. een somatische aandoening of beperking;
 
@@ -210,13 +210,13 @@ Als categorieën van organisatorische verbanden, over de toelating waarvan Onze 
 
 - 6°. een psychosociaal probleem;
 
-- c. AWBZ-instellingen die zorg verlenen als bedoeld in [artikel 1.2, nummer 17 of 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01), in combinatie met AWBZ-verblijf, in verband met een psychiatrische aandoening;
+- c. AWBZ-instellingen die zorg verlenen als bedoeld in [artikel 1.2, nummer 17 of 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01), in combinatie met AWBZ-verblijf, in verband met een psychiatrische aandoening;
 
-- d. kinderdagcentra, zijnde AWBZ-instellingen die zorg verlenen als bedoeld in [artikel 1.2, nummers 17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01), niet in combinatie met verblijf, aan kinderen in verband met een verstandelijke en een lichamelijke of zintuiglijke handicap.
+- d. kinderdagcentra, zijnde AWBZ-instellingen die zorg verlenen als bedoeld in [artikel 1.2, nummers 17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01), niet in combinatie met verblijf, aan kinderen in verband met een verstandelijke en een lichamelijke of zintuiglijke handicap.
 
 ##### Artikel 5.3
 
-Als vormen van bouw ten behoeve van de instellingen, genoemd in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.2&z=2008-01-01&g=2008-01-01), worden aangewezen:
+Als vormen van bouw ten behoeve van de instellingen, genoemd in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.2&z=2008-01-01&g=2009-01-01), worden aangewezen:
 
 - a. bouw, gericht op de oprichting van een nieuwe instelling;
 
@@ -226,7 +226,7 @@ Als vormen van bouw ten behoeve van de instellingen, genoemd in [artikel 5.2](ht
 
 - d. bouw, gericht op de uitbreiding van het aantal bedden of plaatsen van een bestaande instelling;
 
-- e. bouw, gericht op instandhouding van het gebouw van een instelling als bedoeld in [artikel 5.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.2&z=2008-01-01&g=2008-01-01), die zorg verleent als bedoeld in [artikel 1.2, onder nummer 17, 18 of 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01), ten behoeve van de doelgroepen, genoemd in de punten 1°, 2° en 6°, voor zover de kosten hoger zijn dan het bedrag dat voor de betrokken instelling beschikbaar is ingevolge de op grond van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) vastgestelde beleidsregel inzake instandhoudingsinvesteringen;
+- e. bouw, gericht op instandhouding van het gebouw van een instelling als bedoeld in [artikel 5.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.2&z=2008-01-01&g=2009-01-01), die zorg verleent als bedoeld in [artikel 1.2, onder nummer 17, 18 of 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01), ten behoeve van de doelgroepen, genoemd in de punten 1°, 2° en 6°, voor zover de kosten hoger zijn dan het bedrag dat voor de betrokken instelling beschikbaar is ingevolge de op grond van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) vastgestelde beleidsregel inzake instandhoudingsinvesteringen;
 
 - f. bouw, gericht op instandhouding van het gebouw van een academisch ziekenhuis, voor zover de kosten meer bedragen dan voor het desbetreffende ziekenhuis voor instandhoudingsinvesteringen beschikbaar is op grond van een besluit krachtens [artikel 2.25, zesde lid, van het Bekostigingsbesluit WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0006338&artikel=2.25);
 
@@ -234,7 +234,7 @@ Als vormen van bouw ten behoeve van de instellingen, genoemd in [artikel 5.2](ht
 
 ##### Artikel 5.4
 
-1. [Artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.3&z=2008-01-01&g=2008-01-01) is niet van toepassing voor zover het betreft bouw ten behoeve van kleinschalige woonvoorzieningen, zijnde instellingen of delen daarvan waar de desbetreffende zorg wordt verleend:
+1. [Artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.3&z=2008-01-01&g=2009-01-01) is niet van toepassing voor zover het betreft bouw ten behoeve van kleinschalige woonvoorzieningen, zijnde instellingen of delen daarvan waar de desbetreffende zorg wordt verleend:
 
 - a. uitsluitend aan personen in verband met een psychiatrische aandoening of een psychosociaal probleem, gepaard gaande met een beschermende woonomgeving, en
 
@@ -256,9 +256,9 @@ Als vormen van bouw ten behoeve van de instellingen, genoemd in [artikel 5.2](ht
 
 2. Onder postcode als bedoeld in het eerste lid, onder a en b, wordt verstaan de combinatie van vier cijfers en twee letters.
 
-3. [Artikel 5.3, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.3&z=2008-01-01&g=2008-01-01), is voorts niet van toepassing voor zover het betreft bouw ten behoeve van het verlenen van zorg als bedoeld in [artikel 5.2, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.2&z=2008-01-01&g=2008-01-01), aan personen aan wie niet AWBZ-verblijf wordt geleverd.
+3. [Artikel 5.3, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.3&z=2008-01-01&g=2009-01-01), is voorts niet van toepassing voor zover het betreft bouw ten behoeve van het verlenen van zorg als bedoeld in [artikel 5.2, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.2&z=2008-01-01&g=2009-01-01), aan personen aan wie niet AWBZ-verblijf wordt geleverd.
 
-4. [Artikel 5.3, onder a tot en met d, en f](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.3&z=2008-01-01&g=2008-01-01), is voorts niet van toepassing voor zover het betreft bouw van instellingen als bedoeld in [artikel 1.2, nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2008-01-01), ten behoeve van het verlenen van zorg in verband met een psychiatrische aandoening aan personen die niet in een instelling verblijven.
+4. [Artikel 5.3, onder a tot en met d, en f](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=V&artikel=5.3&z=2008-01-01&g=2009-01-01), is voorts niet van toepassing voor zover het betreft bouw van instellingen als bedoeld in [artikel 1.2, nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=I&artikel=1.2&z=2008-01-01&g=2009-01-01), ten behoeve van het verlenen van zorg in verband met een psychiatrische aandoening aan personen die niet in een instelling verblijven.
 
 ### Hoofdstuk VI. Transparantie-eisen
 
@@ -300,7 +300,7 @@ In de financiële administratie van de instelling zijn ontvangsten en betalingen
 
 ##### Artikel 7.1
 
-Dit hoofdstuk heeft betrekking op de in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=16) bedoelde gegevens van de in [artikel 2.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=II&artikel=2.1&z=2008-01-01&g=2008-01-01), bedoelde instellingen, voor zover die betreffen:
+Dit hoofdstuk heeft betrekking op de in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=16) bedoelde gegevens van de in [artikel 2.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=II&artikel=2.1&z=2008-01-01&g=2009-01-01), bedoelde instellingen, voor zover die betreffen:
 
 - –. de structuur van de instellingen;
 
@@ -320,11 +320,11 @@ in de volgende artikelen «gegevens» genoemd.
 
 ##### Artikel 7.3
 
-1. De gegevens bedoeld in [artikel 7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VII&artikel=7.2&z=2008-01-01&g=2008-01-01), dienen jaarlijks uiterlijk vijf maanden na het verstrijken van het jaar waarop zij betrekking hebben te worden verstrekt.
+1. De gegevens bedoeld in [artikel 7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VII&artikel=7.2&z=2008-01-01&g=2009-01-01), dienen jaarlijks uiterlijk vijf maanden na het verstrijken van het jaar waarop zij betrekking hebben te worden verstrekt.
 
-2. De gegevens, bedoeld in [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VII&artikel=7.2&z=2008-01-01&g=2008-01-01), dienen te worden verstrekt telkens uiterlijk zes maanden na een desbetreffend verzoek van Onze Minister.
+2. De gegevens, bedoeld in [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VII&artikel=7.2&z=2008-01-01&g=2009-01-01), dienen te worden verstrekt telkens uiterlijk zes maanden na een desbetreffend verzoek van Onze Minister.
 
-3. Met betrekking tot academische ziekenhuizen en militaire ziekenhuizen geeft Onze Minister in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen onderscheidenlijk in overeenstemming met Onze Minister van Defensie aan, op welke termijn de gegevens bedoeld in [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VII&artikel=7.2&z=2008-01-01&g=2008-01-01), dienen te worden verstrekt.
+3. Met betrekking tot academische ziekenhuizen en militaire ziekenhuizen geeft Onze Minister in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen onderscheidenlijk in overeenstemming met Onze Minister van Defensie aan, op welke termijn de gegevens bedoeld in [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VII&artikel=7.2&z=2008-01-01&g=2009-01-01), dienen te worden verstrekt.
 
 ##### Artikel 7.4
 
@@ -408,7 +408,7 @@ Het College sanering kan de instelling voorschotten verlenen.
 
 ##### Artikel 8.7
 
-1. De [artikelen 8.2 tot en met 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VIII&artikel=8.2&z=2008-01-01&g=2008-01-01), met uitzondering van [artikel 8.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VIII&artikel=8.2&z=2008-01-01&g=2008-01-01), zijn van overeenkomstige toepassing ten aanzien van de financiële gevolgen van sanering als bedoeld in [artikel 12a van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=12a).
+1. De [artikelen 8.2 tot en met 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VIII&artikel=8.2&z=2008-01-01&g=2009-01-01), met uitzondering van [artikel 8.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&hoofdstuk=VIII&artikel=8.2&z=2008-01-01&g=2009-01-01), zijn van overeenkomstige toepassing ten aanzien van de financiële gevolgen van sanering als bedoeld in [artikel 12a van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=12a).
 
 2. De subsidieverlening in het kader van het eerste lid kan worden geweigerd indien de aanvraag wordt gedaan nadat met de sanering een aanvang is gemaakt.
 
