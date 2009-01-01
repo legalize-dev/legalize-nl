@@ -4,7 +4,7 @@ identifier: "BWBV0001543"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-01-01"
-last_updated: "2008-10-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001543"
 soort: "verdrag"
@@ -288,7 +288,7 @@ De gezagvoerder en de loods zijn verplicht om de voor hen geldende regels met be
 
 ##### Artikel 24
 
-1. De Vlaamse en Nederlandse ministers die de loodsdiensten in hun bevoegdheid hebben, stellen in onderlinge overeenstemming de loodsgeldtarieven, de loodsvergoedingen en de maatstaven daarvoor vast, alsmede de regels voor de toepassing daarvan.
+1. De Vlaamse minister die de loodsdienst in zijn bevoegdheid heeft, stelt de loodsgeldtarieven, de loodsvergoedingen en de maatstaven daarvoor vast, alsmede de regels voor de toepassingen daarvan. De Vlaamse minister doet de commissarissen mededeling van zijn besluiten.
 
 2. Bij of krachtens de besluiten als bedoeld in het eerste lid kan worden verplicht tot het stellen van zekerheid voor de betaling van loodsgeld en loodsvergoedingen.
 
