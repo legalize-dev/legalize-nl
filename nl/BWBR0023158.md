@@ -4,7 +4,7 @@ identifier: "BWBR0023158"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-24"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023158"
 soort: "ministeriele-regeling"
@@ -62,11 +62,11 @@ de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
 - a. als gevolg van tegenstrijdige informatie van afzonderlijke deskundigen onduidelijkheid bestaat of de aanvrager al dan niet tot de doelgroep behoort, of
 
-- b. anderszins bij de Centrale organisatie werk en inkomen gerede twijfel bestaat of de aanvrager al dan niet tot de doelgroep behoort.
+- b. anderszins bij het Uitvoeringsinstituut werknemersverzekeringen gerede twijfel bestaat of de aanvrager al dan niet tot de doelgroep behoort.
 
 ##### Artikel 3. Onverenigbare functies
 
-1. Een deskundige als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=2&artikel=2&z=2008-01-01&g=2008-01-01) kan niet tevens zijn:
+1. Een deskundige als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=2&artikel=2&z=2009-01-01&g=2009-01-01) kan niet tevens zijn:
 
 - a. werknemer in dienst van de gemeente waarvan de aanvrager ingezetene is of lid van het college of van de gemeenteraad van die gemeente;
 
@@ -98,7 +98,13 @@ de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 5. Garantiestelling
 
-Het totaal aantal arbeidsjaren, bedoeld in factor D in [artikel 16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=16), bedraagt 3.826,66.
+1. Het percentage, bedoeld in [artikel 16, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=16), bedraagt 97 voor het jaar 2009.
+
+2. Het totaal aantal arbeidsjaren, bedoeld in factor D in [artikel 16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=16), bedraagt:
+
+- –. voor het jaar 2008 3.826,66;
+
+- –. voor het jaar 2009 1.371,36.
 
 ##### Artikel 6. Betaalbaarstelling
 
@@ -108,11 +114,9 @@ Het totaal aantal arbeidsjaren, bedoeld in factor D in [artikel 16, eerste lid, 
 
 ##### Artikel 7. Opschorting van betaling
 
-1. Indien de bijlage bij de jaarrekening, bedoeld in [artikel 13, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=13) en de daarop betrekking hebbende goedkeurende accountantsverklaring niet door de Minister van Binnenlandse Zaken en Koninkrijksrelaties zijn ontvangen uiterlijk op 15 juli van het kalenderjaar volgend op het kalenderjaar waarop zij betrekking hebben, schort de minister de betaling van de uitkeringen, bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=8) voor het lopende vergoedingsjaar op met ingang van 15 augustus van dat jaar, doch niet gedurende de periode waarover de Minister van Binnenlandse Zaken en Koninkrijksrelaties uitstel heeft verleend.
+1. Indien het college in gebreke blijft om binnen een door de minister vastgestelde termijn aanvullende informatie te verstrekken noodzakelijk voor het financieel beheer van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), schort de minister de betaling van de uitkering, bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=8), voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de minister aan het college in geval van overmacht uitstel is verleend.
 
-2. De betaling van de uitkeringen, bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=8) wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin de bijlage en de verklaring, bedoeld in het eerste lid, zijn ontvangen door de Minister van Binnenlandse Zaken en Koninkrijksrelaties maar niet eerder dan 15 september van het kalenderjaar volgend op het kalenderjaar waarop zij betrekking hebben.
-
-3. Het eerste lid is van overeenkomstige toepassing, indien het college in gebreke blijft om binnen een door de minister vastgestelde termijn aanvullende informatie te verstrekken noodzakelijk voor het financieel beheer van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
+2. De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin de aanvullende informatie, bedoeld in het eerste lid, is ontvangen door de minister.
 
 ##### Artikel 8. Nadere voorwaarden Stimuleringsuitkering begeleid werken
 
@@ -126,7 +130,7 @@ Het college draagt er zorg voor dat de minister desgevraagd aanvullende informat
 
 ##### Artikel 10. Verstrekken van gegevens of informatie aan derden
 
-Op verzoek van de minister verstrekt het college gegevens of informatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=9&z=2008-01-01&g=2008-01-01) aan personen of instanties die in zijn opdracht informatie vragen of de gegevens bewerken.
+Op verzoek van de minister verstrekt het college gegevens of informatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=9&z=2009-01-01&g=2009-01-01) aan personen of instanties die in zijn opdracht informatie vragen of de gegevens bewerken.
 
 ##### Artikel 11. Statistische basisgegevens gemeente
 
@@ -146,7 +150,7 @@ Op verzoek van de minister verstrekt het college gegevens of informatie als bedo
 
 ##### Artikel 12. De bewerker
 
-1. De bewerker, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2008-01-01&g=2008-01-01), verwerkt de persoonsgegevens op een door de minister te bepalen wijze.
+1. De bewerker, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2009-01-01&g=2009-01-01), verwerkt de persoonsgegevens op een door de minister te bepalen wijze.
 
 2. De persoonsgegevens worden slechts in opdracht van de minister aan derden verstrekt ten behoeve van onderzoek waarvoor de persoonsgegevens noodzakelijk zijn.
 
