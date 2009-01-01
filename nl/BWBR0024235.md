@@ -4,7 +4,7 @@ identifier: "BWBR0024235"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-10"
-last_updated: "2008-08-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024235"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Treedt in werking op het tijdstip waarop de Algemene douanewet in werking treedt
 
 ##### Artikel 1:1
 
-Deze regeling geeft uitvoering aan de [artikelen 1:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), [1:19](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:19), [1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:25), [1:28](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:28), [1:30](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:30), [3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1), [4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=4:1), [9:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:5), [10:10](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:10) en [12:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=12:1).
+Dit besluit geeft uitvoering aan de [artikelen 1:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), [1:19](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:19), [1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:25), [1:28](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:28), [1:30](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:30), [3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1), [4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=4:1), [9:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:5), [10:10](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:10) en [12:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=12:1).
 
 ### Afdeling 1.1. Internationaal recht
 
@@ -116,9 +116,9 @@ Voor de toepassing van deze afdeling wordt verstaan onder:
 
 - c. **geweld**: elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of goederen;
 
-- d. **geweldsmiddel**: de wapens en uitrusting, waarmee geweld kan worden uitgeoefend, die krachtens artikel 3a, derde lid, van de Wet wapens en munitie zijn toegestaan;
+- d. **geweldsmiddel**: de wapens en uitrusting waarmee met overeenkomstige toepassing van [artikel 3a, derde lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=3a) geweld kan worden uitgeoefend;
 
-- e. **aanwenden van een geweldsmiddel**: het gebruiken van een geweldsmiddel, daaronder begrepen het dreigen met een geweldsmiddel, waaronder niet wordt begrepen het ter hand nemen van een vuurwapen.
+- e. **aanwenden van een geweldsmiddel**: het gebruiken van een geweldsmiddel, daaronder begrepen het dreigen met een geweldsmiddel, waaronder niet wordt begrepen het uit voorzorg ter hand nemen van een vuurwapen.
 
 ##### Artikel 1:7
 
@@ -130,7 +130,7 @@ Voor de toepassing van deze afdeling wordt verstaan onder:
 
 1. De ambtenaar wendt bij de uitoefening van zijn dienst uitsluitend het geweldsmiddel aan dat door of vanwege Onze minister wie het aangaat is verstrekt.
 
-2. Het aanwenden van een geweldsmiddel is uitsluitend toegestaan aan een ambtenaar die in het gebruik van dat geweldsmiddel is geoefend.
+2. Het aanwenden van een geweldsmiddel is uitsluitend toegestaan aan een ambtenaar die in het gebruik van dat geweldsmiddel is geoefend en is uitgerust met een geweldsmiddel in het kader van zijn taak als buitengewoon opsporingsambtenaar.
 
 ##### Artikel 1:9
 
@@ -258,9 +258,9 @@ Onze minister is bevoegd:
 
 ##### Artikel 3:4
 
-1. Onze minister kan bevoegdheden welke hem ingevolge de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2008-08-01&g=2008-08-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2008-08-01&g=2008-08-01) toekomen, aan het bestuur van een door hem aan te wijzen bedrijfslichaam overdragen.
+1. Onze minister kan bevoegdheden welke hem ingevolge de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2009-01-01&g=2009-01-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2009-01-01&g=2009-01-01) toekomen, aan het bestuur van een door hem aan te wijzen bedrijfslichaam overdragen.
 
-2. Wanneer een bestuur van een bedrijfslichaam ingevolge het eerste lid wordt aangewezen, kan het desbetreffende bestuur bij verordening, voor zover het voor een goede uitvoering van een communautaire verplichting nodig is, met betrekking tot de uitoefening van de bevoegdheden, bedoeld in de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2008-08-01&g=2008-08-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2008-08-01&g=2008-08-01), nadere regels stellen. Zodanige verordening behoeft de goedkeuring van Onze minister.
+2. Wanneer een bestuur van een bedrijfslichaam ingevolge het eerste lid wordt aangewezen, kan het desbetreffende bestuur bij verordening, voor zover het voor een goede uitvoering van een communautaire verplichting nodig is, met betrekking tot de uitoefening van de bevoegdheden, bedoeld in de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2009-01-01&g=2009-01-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2009-01-01&g=2009-01-01), nadere regels stellen. Zodanige verordening behoeft de goedkeuring van Onze minister.
 
 ### Hoofdstuk 4. Administratie
 
@@ -290,11 +290,11 @@ Indien de belanghebbende, bedoeld in artikel 799 van de Toepassingsverordening C
 
 ##### Artikel 6:2
 
-Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2008-08-01&g=2008-08-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
+Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2009-01-01&g=2009-01-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
 
 ##### Artikel 6:3
 
-Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2008-08-01&g=2008-08-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
+Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2009-01-01&g=2009-01-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
@@ -304,11 +304,11 @@ De belanghebbende, bedoeld in artikel 799 van de Toepassingsverordening Communau
 
 ##### Artikel 7:2
 
-Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2008-08-01&g=2008-08-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2009-01-01&g=2009-01-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ##### Artikel 7:3
 
-Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2008-08-01&g=2008-08-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2009-01-01&g=2009-01-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ### Hoofdstuk 8. Slotbepalingen
 
