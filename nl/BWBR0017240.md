@@ -4,7 +4,7 @@ identifier: "BWBR0017240"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-28"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017240"
 soort: "AMvB"
@@ -80,17 +80,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2. De aanvraag
 
-1. Een aanvraag tot indicatie wordt ingediend door of namens de aanvrager bij de Centrale organisatie werk en inkomen. Ondertekent de aanvrager de aanvraag tot indicatie niet zelf, dan wordt de reden daarvan vermeld.
+1. Een aanvraag tot indicatie wordt ingediend door of namens de aanvrager bij het Uitvoeringsinstituut werknemersverzekeringen. Ondertekent de aanvrager de aanvraag tot indicatie niet zelf, dan wordt de reden daarvan vermeld.
 
 2. In de aanvraag wordt aangegeven of de aanvrager toestemming geeft tot het zo nodig raadplegen van behandelend artsen of psychologen en het gebruik maken van bij dezen aanwezige medische of psychologische gegevens.
 
-3. Na ontvangst van de aanvraag toetst de Centrale organisatie werk en inkomen de woonplaats van de aanvrager en draagt er zonodig zorg voor dat de aanvrager als werkzoekende ingeschreven staat bij haar organisatie.
+3. Na ontvangst van de aanvraag toetst het Uitvoeringsinstituut werknemersverzekeringen de woonplaats van de aanvrager en draagt er zonodig zorg voor dat de aanvrager als werkzoekende ingeschreven staat bij haar organisatie.
 
-4. De Centrale organisatie werk en inkomen tekent onverwijld de datum van ontvangst van de aanvraag aan, en zendt de aanvrager, of, indien namens hem een aanvraag is ingediend, degene die namens hem de aanvraag heeft ingediend, een bewijs van ontvangst.
+4. Het Uitvoeringsinstituut werknemersverzekeringen tekent onverwijld de datum van ontvangst van de aanvraag aan, en zendt de aanvrager, of, indien namens hem een aanvraag is ingediend, degene die namens hem de aanvraag heeft ingediend, een bewijs van ontvangst.
 
 ##### Artikel 3. Het onderzoek
 
-1. In het kader van de aanvraag tot indicatie verricht de Centrale organisatie werk en inkomen, met inachtneming van de bijlage behorend bij dit besluit, onderzoek naar:
+1. In het kader van de aanvraag tot indicatie verricht het Uitvoeringsinstituut werknemersverzekeringen, met inachtneming van de bijlage behorend bij dit besluit, onderzoek naar:
 
 - a. de beperkingen van de aanvrager van lichamelijke, verstandelijke en psychische aard;
 
@@ -100,7 +100,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. de mogelijkheid, dat de aanvrager met de aanpassingen in staat is regelmatig arbeid in de sociale werkvoorziening of begeleid werken te verrichten;
 
-- e. de indeling in een arbeidshandicapcategorie als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=4&z=2008-01-01&g=2008-01-01);
+- e. de indeling in een arbeidshandicapcategorie als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=4&z=2009-01-01&g=2009-01-01);
 
 - f. de mogelijkheid, dat de aanvrager een advies voor begeleid werken kan worden gegeven.
 
@@ -108,13 +108,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële regeling wordt bepaald wanneer bij het onderzoek een arbeidsdeskundige, een arts en een psycholoog wordt betrokken. Daarbij worden ook regels gesteld met betrekking tot de onverenigbaarheid van andere functies met die van deskundige als bedoeld in dit lid.
 
-4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop de Centrale organisatie werk en inkomen het onderzoek uitvoert.
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop het Uitvoeringsinstituut werknemersverzekeringen het onderzoek uitvoert.
 
 ##### Artikel 4. De indicatie
 
-1. De Centrale organisatie werk en inkomen deelt de geïndiceerde in de arbeidshandicapcategorie matig of ernstig in, op grond van de noodzakelijke aanpassingen en van het prestatieniveau volgens de bijlage behorend bij dit besluit.
+1. Het Uitvoeringsinstituut werknemersverzekeringen deelt de geïndiceerde in de arbeidshandicapcategorie matig of ernstig in, op grond van de noodzakelijke aanpassingen en van het prestatieniveau volgens de bijlage behorend bij dit besluit.
 
-2. De Centrale organisatie werk en inkomen stelt van de geïndiceerde de geldigheidsduur van de indicatie vast. Deze bedraagt minimaal een en maximaal 50 jaar.
+2. Het Uitvoeringsinstituut werknemersverzekeringen stelt van de geïndiceerde de geldigheidsduur van de indicatie vast. Deze bedraagt minimaal een en maximaal 50 jaar.
 
 3. De indicatiebeschikking bevat bij een geïndiceerde tevens:
 
@@ -122,7 +122,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. een advies of hij in staat is tot begeleid werken.
 
-4. Indien de aanvrager niet wordt geïndiceerd, omdat hij ook onder normale omstandigheden tot regelmatige arbeid in staat wordt geacht, bevat de indicatie tevens het advies, bedoeld in [artikel 21a, eerste lid, onderdeel c, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=21a).
+4. Indien de aanvrager niet wordt geïndiceerd, omdat hij ook onder normale omstandigheden tot regelmatige arbeid in staat wordt geacht, bevat de indicatie tevens het advies, bedoeld in [artikel 30d, eerste lid, onderdeel c, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30d).
 
 5. Indien de aanvrager niet wordt geïndiceerd, omdat hij ook onder aangepaste omstandigheden niet tot regelmatige arbeid is staat wordt geacht, bevat de indicatie tevens een gericht advies betreffende de doorgeleiding naar een indicatie voor een voorziening voor ondersteunende en activerende begeleiding in het kader van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
 
@@ -130,35 +130,35 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5. Mededeling indicatie en intrekking beschikking
 
-1. De indicatiebeschikking wordt door de Centrale organisatie werk en inkomen zo spoedig mogelijk na vaststelling toegezonden aan de geïndiceerde, of, indien namens hem een aanvraag is ingediend, degene die namens hem de aanvraag heeft ingediend, aan het college van de gemeente waar de geïndiceerde woonachtig is en, voor zover van toepassing, aan de in[artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2) bedoelde rechtspersoon. Indien de geïndiceerde een uitkering ontvangt van het Uitvoeringsinstituut werknemersverzekeringen, ontvangt dat instituut zo spoedig mogelijk na de vaststelling de mededeling dat de aanvrager een geïndiceerde is.
+1. De indicatiebeschikking wordt door het Uitvoeringsinstituut werknemersverzekeringen zo spoedig mogelijk na vaststelling toegezonden aan de geïndiceerde, of, indien namens hem een aanvraag is ingediend, degene die namens hem de aanvraag heeft ingediend, aan het college van de gemeente waar de geïndiceerde woonachtig is en, voor zover van toepassing, aan de in[artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2) bedoelde rechtspersoon.
 
-2. Indien de aanvrager niet wordt geïndiceerd wordt dat besluit door de Centrale organisatie werk en inkomen zo spoedig mogelijk na vaststelling toegezonden aan hem, het college van de gemeente waar de aanvrager woonachtig is, en het Uitvoeringsinstituut werknemersverzekeringen indien de aanvrager van genoemd instituut een uitkering ontvangt.
+2. Indien de aanvrager niet wordt geïndiceerd wordt dat besluit door het Uitvoeringsinstituut werknemersverzekeringen zo spoedig mogelijk na vaststelling toegezonden aan hem, het college van de gemeente waar de aanvrager woonachtig is.
 
-3. Indien de indicatiebeschikking of herindicatiebeschikking is ingetrokken of vervallen op grond van [artikel 12, derde lid, of vierde lid, onderdeel a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=12) bericht het college van de gemeente waar de voormalig geïndiceerde woont in afschrift de Centrale organisatie werk en inkomen. Het college bericht eveneens het Uitvoeringsinstituut werknemersverzekeringen indien de voormalig geïndiceerde van genoemd instituut een uitkering ontvangt.
+3. Indien de indicatiebeschikking of herindicatiebeschikking is ingetrokken of vervallen op grond van [artikel 12, derde lid, of vierde lid, onderdeel a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=12) bericht het college van de gemeente waar de voormalig geïndiceerde woont in afschrift de Centrale organisatie werk en inkomen.
 
 4. Bij de toepassing van het derde lid wordt de werknemer die buiten Nederland woont als inwoner aangemerkt van de gemeente waarin hij laatstelijk in Nederland woonde.
 
 ##### Artikel 6. Herindicatie
 
-1. Telkens uiterlijk 16 weken voor het verstrijken van de geldigheidsduur van een indicatie vraagt het college van de gemeente waar de geïndiceerde woont namens de geïndiceerde een herindicatie aan bij de Centrale organisatie werk en inkomen.
+1. Telkens uiterlijk 16 weken voor het verstrijken van de geldigheidsduur van een indicatie vraagt het college van de gemeente waar de geïndiceerde woont namens de geïndiceerde een herindicatie aan bij het Uitvoeringsinstituut werknemersverzekeringen.
 
-2. Bij de aanvraag voor een herindicatie verstrekt het college aan de Centrale organisatie werk en inkomen in ieder geval recente gegevens betreffende:
+2. Bij de aanvraag voor een herindicatie verstrekt het college aan het Uitvoeringsinstituut werknemersverzekeringen in ieder geval recente gegevens betreffende:
 
 - a. de wijze van functioneren van de geïndiceerde in de sociale werkvoorziening of het begeleid werken, en
 
-- b. de uitvoering van de door de Centrale organisatie werk en inkomen afgegeven adviezen.
+- b. de uitvoering van de door het Uitvoeringsinstituut werknemersverzekeringen afgegeven adviezen.
 
 3. Bij de aanvraag voor een herindicatie op grond van [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=11) verstrekt het college in ieder geval tevens een re-integratieverslag als bedoeld in [artikel 25, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25).
 
-4. Onverminderd het eerste lid vraagt het college van de gemeente waar de geïndiceerde woont op verzoek van of namens de geïndiceerde een herindicatie aan bij de Centrale organisatie werk en inkomen op een eerder tijdstip dan bedoeld in het eerste lid. Het tweede lid is van toepassing.
+4. Onverminderd het eerste lid vraagt het college van de gemeente waar de geïndiceerde woont op verzoek van of namens de geïndiceerde een herindicatie aan bij het Uitvoeringsinstituut werknemersverzekeringen op een eerder tijdstip dan bedoeld in het eerste lid. Het tweede lid is van toepassing.
 
-5. De [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=2&z=2008-01-01&g=2008-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=3&z=2008-01-01&g=2008-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=4&z=2008-01-01&g=2008-01-01) en[5, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=5&z=2008-01-01&g=2008-01-01), zijn op een aanvraag tot herindicatie van overeenkomstige toepassing.
+5. De [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=2&z=2009-01-01&g=2009-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=3&z=2009-01-01&g=2009-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=4&z=2009-01-01&g=2009-01-01) en[5, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=5&z=2009-01-01&g=2009-01-01), zijn op een aanvraag tot herindicatie van overeenkomstige toepassing.
 
-6. De Centrale organisatie werk en inkomen betrekt bij een besluit over de herindicatie de op grond van het tweede lid van het college verkregen gegevens.
+6. Het Uitvoeringsinstituut werknemersverzekeringen betrekt bij een besluit over de herindicatie de op grond van het tweede lid van het college verkregen gegevens.
 
 ##### Artikel 7. Advies bij voorgenomen opzegging van de dienstbetrekking
 
-Bij haar advies, bedoeld in [artikel 6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=6), betrekt de Centrale organisatie werk en inkomen de krachtens [artikel 6 van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=6) gestelde regels met betrekking tot de toestemming.
+Bij zijn advies, bedoeld in [artikel 6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=6), betrekt het Uitvoeringsinstituut werknemersverzekeringen de krachtens [artikel 6 van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=6) gestelde regels met betrekking tot de toestemming.
 
 ##### Artikel 8. Wachtlijst
 
@@ -224,7 +224,7 @@ Vervallen
 
 ##### Artikel 15. Arbeidsjaren
 
-Bij de bepaling van het aantal gerealiseerde arbeidsjaren, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=9) en [10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=10) en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=18&z=2008-01-01&g=2008-01-01), wordt:
+Bij de bepaling van het aantal gerealiseerde arbeidsjaren, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=9) en [10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=10) en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=18&z=2009-01-01&g=2009-01-01), wordt:
 
 - a. onder het vervullen van een dienstbetrekking niet verstaan de situatie dat de werknemer niet werkt tenzij hij loon geniet op grond van [artikel 628](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=628), [629](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of [639 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=639);
 
@@ -274,9 +274,9 @@ D staat voor het bij ministeriële regeling vastgestelde totaal aantal arbeidsja
 
 waarbij:
 
-E staat voor het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01) berekende minimumaantal arbeidsjaren voor de gemeente voor het jaar T;
+E staat voor het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-01-01&g=2009-01-01) berekende minimumaantal arbeidsjaren voor de gemeente voor het jaar T;
 
-F staat voor het na toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01) vastgestelde minimumaantal arbeidsjaren voor alle gemeenten samen voor het jaar T;
+F staat voor het na toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-01-01&g=2009-01-01) vastgestelde minimumaantal arbeidsjaren voor alle gemeenten samen voor het jaar T;
 
 G staat voor het voor het jaar T bij wet vast te stellen totale bedrag dat beschikbaar is voor de uitkeringen, bedoeld in [artikel 8, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=8);
 
@@ -352,9 +352,9 @@ Vervallen
 
 ##### Artikel 28. Overgangsrecht voorrangsgarantie
 
-1. In afwijking van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=9&z=2008-01-01&g=2008-01-01), wordt een persoon die op 31 december 1997 werkzaam was met toepassing van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=11) en [12 van de Regeling samenloop arbeidsongeschikheidsuitkering met inkomsten uit arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=12) en de Regeling vergoeding persoonlijke ondersteuning gehandicapte werknemers, zoals deze regelingen luidde tot die datum en die na die datum deze arbeidsovereenkomst in het kader van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) heeft voortgezet, op zijn verzoek, door het college op de wachtlijst geplaatst op de volgorde van de datum waarop hij tot genoemde regelingen was toegelaten en krijgt hij bij voorrang begeleid werken aangeboden, indien hij onvrijwillig werkloos wordt.
+1. In afwijking van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=9&z=2009-01-01&g=2009-01-01), wordt een persoon die op 31 december 1997 werkzaam was met toepassing van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=11) en [12 van de Regeling samenloop arbeidsongeschikheidsuitkering met inkomsten uit arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=12) en de Regeling vergoeding persoonlijke ondersteuning gehandicapte werknemers, zoals deze regelingen luidde tot die datum en die na die datum deze arbeidsovereenkomst in het kader van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) heeft voortgezet, op zijn verzoek, door het college op de wachtlijst geplaatst op de volgorde van de datum waarop hij tot genoemde regelingen was toegelaten en krijgt hij bij voorrang begeleid werken aangeboden, indien hij onvrijwillig werkloos wordt.
 
-2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=9&z=2008-01-01&g=2008-01-01), wordt een persoon die op 31 december 1997 een dienstbetrekking heeft krachtens de Wet Sociale Werkvoorziening (Stb. 1967, 687) zoals die luidde tot die datum en die na die datum deze dienstbetrekking heeft voortgezet, op zijn verzoek, door het college wederom op de wachtlijst geplaatst op de volgorde van de datum waarop hij tot de personenkring van de Wet Sociale Werkvoorziening (Stb. 1967, 687) was toegelaten en krijgt hij bij voorrang een dienstbetrekking aangeboden, indien hij in aansluiting op zijn dienstbetrekking arbeid gaat verrichten buiten het kader van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) en vervolgens binnen drie jaar onvrijwillig werkloos wordt. Daarbij wordt zijn nieuwe dienstbetrekking aangemerkt als een voortzetting van zijn eerdere dienstbetrekking in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
+2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=9&z=2009-01-01&g=2009-01-01), wordt een persoon die op 31 december 1997 een dienstbetrekking heeft krachtens de Wet Sociale Werkvoorziening (Stb. 1967, 687) zoals die luidde tot die datum en die na die datum deze dienstbetrekking heeft voortgezet, op zijn verzoek, door het college wederom op de wachtlijst geplaatst op de volgorde van de datum waarop hij tot de personenkring van de Wet Sociale Werkvoorziening (Stb. 1967, 687) was toegelaten en krijgt hij bij voorrang een dienstbetrekking aangeboden, indien hij in aansluiting op zijn dienstbetrekking arbeid gaat verrichten buiten het kader van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) en vervolgens binnen drie jaar onvrijwillig werkloos wordt. Daarbij wordt zijn nieuwe dienstbetrekking aangemerkt als een voortzetting van zijn eerdere dienstbetrekking in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
 
 ##### Artikel 29. Overgangsrecht financiële indeling oude populatie
 
@@ -382,17 +382,17 @@ Dit besluit wordt aangehaald als: Besluit uitvoering sociale werkvoorziening en 
 
 ### TOELICHTING
 
-### Beslisschema behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=3&z=2008-01-01&g=2008-01-01) van het Besluit uitvoering sociale werkvoorziening en begeleid werken
+### Beslisschema behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=3&z=2009-01-01&g=2009-01-01) van het Besluit uitvoering sociale werkvoorziening en begeleid werken
 
 Het werken met beslisschema’s in het kader van de indicatiestelling [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) is een goed functionerende methode sinds de invoering van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903). CWI neemt deze methode van de gemeenten over. Van de gelegenheid is gebruik gemaakt de voorheen bestaande beslistabellen «behoren tot de doelgroep», «indeling in arbeidshandicapcategorie» en «geïndiceerd voor begeleid werken» te incorporeren. De belistabel «geïndiceerd voor scholing» is vervallen nu dat geen onderdeel meer uitmaakt van het advies dat CWI bij de indicatiestelling afgeeft.
 
 Het komen tot een indicatiestelling van het behoren tot de doelgroep van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), de arbeidshandicapcategorie en het begeleid werkenadvies is een proces dat geordend kan worden in een aantal te onderscheiden of opeenvolgende beslissingen. Voor de helderheid en de toetsbaarheid van de gedachtegang zijn deze te nemen beslissingen geformuleerd als opeenvolgende ja/nee keuzes, hoewel het gaat om oordelen die in de praktijk in samenhang gevormd zullen worden.
 
-Het werken met beslisschema’s in het kader van de indicatiestelling [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) is een goed functionerende methode sinds de invoering van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903). CWI neemt deze methode van de gemeenten over. Van de gelegenheid is gebruik gemaakt de voorheen bestaande beslistabellen «behoren tot de doelgroep», «indeling in arbeidshandicapcategorie» en «geïndiceerd voor begeleid werken» te incorporeren. De belistabel «geïndiceerd voor scholing» is vervallen nu dat geen onderdeel meer uitmaakt van het advies dat CWI bij de indicatiestelling afgeeft.
+Het werken met beslisschema’s in het kader van de indicatiestelling [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) is een goed functionerende methode sinds de invoering van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903). UWV neemt deze methode van de gemeenten over. Van de gelegenheid is gebruik gemaakt de voorheen bestaande beslistabellen «behoren tot de doelgroep», «indeling in arbeidshandicapcategorie» en «geïndiceerd voor begeleid werken» te incorporeren. De belistabel «geïndiceerd voor scholing» is vervallen nu dat geen onderdeel meer uitmaakt van het advies dat UWV bij de indicatiestelling afgeeft.
 
 Het komen tot een indicatiestelling van het behoren tot de doelgroep van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), de arbeidshandicapcategorie en het begeleid werkenadvies is een proces dat geordend kan worden in een aantal te onderscheiden of opeenvolgende beslissingen. Voor de helderheid en de toetsbaarheid van de gedachtegang zijn deze te nemen beslissingen geformuleerd als opeenvolgende ja/nee keuzes, hoewel het gaat om oordelen die in de praktijk in samenhang gevormd zullen worden.
 
-Het is voor de toetsbaarheid van de beoordeling van belang dat alle overwegingen die tot het eindoordeel leiden, schriftelijk worden vastgelegd, onder verwijzing naar in het dossier aanwezige bevindingen van eigen of door anderen verricht onderzoek. Het door anderen verricht onderzoek zal door CWI gewogen worden op kwaliteit en onafhankelijkheid.
+Het is voor de toetsbaarheid van de beoordeling van belang dat alle overwegingen die tot het eindoordeel leiden, schriftelijk worden vastgelegd, onder verwijzing naar in het dossier aanwezige bevindingen van eigen of door anderen verricht onderzoek. Het door anderen verricht onderzoek zal door UWV gewogen worden op kwaliteit en onafhankelijkheid.
 
 ### Vraag 1 tot en met 6 (Beoordeling wel of geen doelgroep (boven- en ondergrens))
 
@@ -406,11 +406,11 @@ Voor het beantwoorden van de eerste vraag moet uitsluitsel worden verkregen op g
 
 ### ad 2
 
-Het kan voorkomen dat in medische dossiers niet de internationale codeclassificatie is opgenomen. Om te voorkomen dat CWI alleen voor het verkrijgen van de juiste code een arts moet inschakelen, kan CWI daarvan afzien. Voorwaarde is wel dat overduidelijk moet zijn dat de verkregen informatie op zich voldoende is om tot een besluit te komen.
+Het kan voorkomen dat in medische dossiers niet de internationale codeclassificatie is opgenomen. Om te voorkomen dat UWV alleen voor het verkrijgen van de juiste code een arts moet inschakelen, kan UWV daarvan afzien. Voorwaarde is wel dat overduidelijk moet zijn dat de verkregen informatie op zich voldoende is om tot een besluit te komen.
 
 ### ad 2
 
-Bij het beantwoorden van de tweede vraag gaat het meer in het bijzonder in hoeverre de geconstateerde beperkingen – afzonderlijk, dan wel in samenhang gezien – het functioneren van de aanvrager in een normale arbeidsomgeving in de weg staan. Hierbij moet CWI rekening houden met hetgeen voor de aanvrager als passende arbeid kan worden beschouwd. Over het algemeen kan worden gesteld dat lichamelijke, verstandelijke of psychische beperkingen – strikt genomen – gezien moeten worden in het licht van feitelijk te verrichten activiteiten, om te kunnen beoordelen of er sprake is van een handicap. Daarbij moet dan bovendien in beschouwing worden genomen in hoeverre er compensatiemogelijkheden zijn, bij de persoon zelf of met behulp van aanpassingen en hulpmiddelen in de omgeving. In extremo kan dit inhouden dat een vergaand of volledig verlies van doorgaans onmisbare lichamelijke functies in sommige gevallen óf geen rol van betekenis speelt bij bepaalde activiteiten, óf nagenoeg geheel gecompenseerd kan worden door technische of personele voorzieningen of door buitengewone vaardigheden van de persoon. Het kan echter ook zo zijn dat forse fysieke beperkingen bij anderen op voorhand een onmiskenbare handicap betekenen in vele situaties, zeker als de verstandelijke capaciteiten en de psychische gesteldheid geen beduidend tegenwicht bieden. Evenzo zullen aanmerkelijke verstandelijke of psychische beperkingen in veel omstandigheden een niet te miskennen handicap zijn, die een als normaal geaccepteerd functioneren in de weg staan. In het bijzonder kan het samengaan van meerdere beperkingen leiden tot een beduidende handicap in uiteenlopende situaties, zelfs als deze beperkingen afzonderlijk mogelijk relatief mild zijn.
+Bij het beantwoorden van de tweede vraag gaat het meer in het bijzonder in hoeverre de geconstateerde beperkingen – afzonderlijk, dan wel in samenhang gezien – het functioneren van de aanvrager in een normale arbeidsomgeving in de weg staan. Hierbij moet UWV rekening houden met hetgeen voor de aanvrager als passende arbeid kan worden beschouwd. Over het algemeen kan worden gesteld dat lichamelijke, verstandelijke of psychische beperkingen – strikt genomen – gezien moeten worden in het licht van feitelijk te verrichten activiteiten, om te kunnen beoordelen of er sprake is van een handicap. Daarbij moet dan bovendien in beschouwing worden genomen in hoeverre er compensatiemogelijkheden zijn, bij de persoon zelf of met behulp van aanpassingen en hulpmiddelen in de omgeving. In extremo kan dit inhouden dat een vergaand of volledig verlies van doorgaans onmisbare lichamelijke functies in sommige gevallen óf geen rol van betekenis speelt bij bepaalde activiteiten, óf nagenoeg geheel gecompenseerd kan worden door technische of personele voorzieningen of door buitengewone vaardigheden van de persoon. Het kan echter ook zo zijn dat forse fysieke beperkingen bij anderen op voorhand een onmiskenbare handicap betekenen in vele situaties, zeker als de verstandelijke capaciteiten en de psychische gesteldheid geen beduidend tegenwicht bieden. Evenzo zullen aanmerkelijke verstandelijke of psychische beperkingen in veel omstandigheden een niet te miskennen handicap zijn, die een als normaal geaccepteerd functioneren in de weg staan. In het bijzonder kan het samengaan van meerdere beperkingen leiden tot een beduidende handicap in uiteenlopende situaties, zelfs als deze beperkingen afzonderlijk mogelijk relatief mild zijn.
 
 ### ad 3
 
@@ -426,7 +426,7 @@ Dergelijke taakdelingen zijn in beginsel wel mogelijk in de sociale werkvoorzien
 
 ### ad 5
 
-Diegenen, die tot arbeid in staat zijn en voor wie de noodzakelijke aanpassingen over het algemeen gerealiseerd kunnen worden in een overigens normale arbeidsomgeving, worden geacht tot de reïntegratiedoelgroep van gemeente of UWV te behoren. Deze groep komt in aanmerking voor een door CWI op te stellen reïntegratieadvies.
+Diegenen, die tot arbeid in staat zijn en voor wie de noodzakelijke aanpassingen over het algemeen gerealiseerd kunnen worden in een overigens normale arbeidsomgeving, worden geacht tot de reïntegratiedoelgroep van gemeente of UWV te behoren. Deze groep komt in aanmerking voor een door UWV op te stellen reïntegratieadvies.
 
 Verder moet de aanvrager tenminste in staat worden geacht te kunnen functioneren op een rustige plek in een kleine industriële afdeling, kantoor of buitenobject; enig contact met collega’s zal daarbij niet uitgesloten zijn. Voor een redelijke grens van aanpassing van de werktijd geldt een maximale reductie tot een dagdeel per werkdag. Diegenen voor wie de noodzakelijke aanpassingen redelijkerwijs niet gerealiseerd kunnen worden binnen de sociale werkvoorziening worden geacht tot de doelgroep van een voorziening voor ondersteunende en activerende begeleiding in het kader van de AWBZ (dagopvang) te behoren. Deze aanvragers zullen via de gemeenten voor die indicatieprocedure kunnen worden aangemeld.
 
@@ -474,7 +474,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 30a. Overgangsartikel voor het jaar 2008
 
-1. Voor de toepassing van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01), voor het jaar 2008 staat bij de berekening van de factoren A en B:
+1. Voor de toepassing van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-01-01&g=2009-01-01), voor het jaar 2008 staat bij de berekening van de factoren A en B:
 
 A voor het aantal geïndiceerde inwoners van de gemeente dat een dienstbetrekking dan wel een arbeidsovereenkomst heeft of op de wachtlijst staat op 31 december 2006 volgens de op verzoek van Onze Minister verstrekte inlichtingen dienaangaande zoals deze luiden op 10 december 2007;
 
@@ -482,29 +482,29 @@ B voor het aantal geïndiceerde inwoners van alle gemeenten samen dat een dienst
 
 2. Indien de inlichtingen, bedoeld in het eerste lid, niet uiterlijk op 10 december 2007 in het bezit zijn gesteld van Onze Minister of niet zijn voorzien van een goedkeurende verklaring van de accountant, wordt bij de toepassing van het eerste lid voor de desbetreffende gemeente voor «31 december 2006» gelezen: 31 december 2005.
 
-3. Voor de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01), voor het jaar 2008 wordt voor «een bij ministeriële regeling bepaald percentage van het voor de desbetreffende gemeente vastgestelde minimumaantal arbeidsjaren voor het jaar T-1» gelezen: 97,5 procent van het aantal voor de inwoners van de desbetreffende gemeente op 30 juni 2007 gerealiseerde dienstbetrekkingen en arbeidsovereenkomsten als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2) en [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3), zoals die luidde op die datum, uitgedrukt in standaardeenheden, volgens de op verzoek van Onze Minister verstrekte inlichtingen dienaangaande, zoals deze luiden op 10 december 2007.
+3. Voor de toepassing van [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-01-01&g=2009-01-01), voor het jaar 2008 wordt voor «een bij ministeriële regeling bepaald percentage van het voor de desbetreffende gemeente vastgestelde minimumaantal arbeidsjaren voor het jaar T-1» gelezen: 97,5 procent van het aantal voor de inwoners van de desbetreffende gemeente op 30 juni 2007 gerealiseerde dienstbetrekkingen en arbeidsovereenkomsten als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2) en [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3), zoals die luidde op die datum, uitgedrukt in standaardeenheden, volgens de op verzoek van Onze Minister verstrekte inlichtingen dienaangaande, zoals deze luiden op 10 december 2007.
 
-4. Indien de inlichtingen, bedoeld in het derde lid, niet uiterlijk op 10 december 2007 in het bezit zijn gesteld van Onze Minister of niet zijn voorzien van een goedkeurende verklaring van de accountant, zijn het derde lid en [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01), voor de desbetreffende gemeente niet van toepassing.
+4. Indien de inlichtingen, bedoeld in het derde lid, niet uiterlijk op 10 december 2007 in het bezit zijn gesteld van Onze Minister of niet zijn voorzien van een goedkeurende verklaring van de accountant, zijn het derde lid en [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-01-01&g=2009-01-01), voor de desbetreffende gemeente niet van toepassing.
 
-5. Indien het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01) in samenhang met de eerste vier leden van dit artikel vastgestelde minimumaantal arbeidsjaren voor een gemeente voor het jaar 2008 minder bedraagt dan hetgeen het geval zou zijn indien factor D, bedoeld in [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01), nihil zou bedragen en het derde lid en [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01), niet van toepassing zouden zijn, wordt het minimumaantal arbeidsjaren van de desbetreffende gemeente opgehoogd met:
+5. Indien het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-01-01&g=2009-01-01) in samenhang met de eerste vier leden van dit artikel vastgestelde minimumaantal arbeidsjaren voor een gemeente voor het jaar 2008 minder bedraagt dan hetgeen het geval zou zijn indien factor D, bedoeld in [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-01-01&g=2009-01-01), nihil zou bedragen en het derde lid en [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-01-01&g=2009-01-01), niet van toepassing zouden zijn, wordt het minimumaantal arbeidsjaren van de desbetreffende gemeente opgehoogd met:
 
 (K-L) / M x 986,71
 
 waarbij:
 
-K staat voor het voor de desbetreffende gemeente voor het jaar 2008 vast te stellen aantal arbeidsjaren indien factor D, bedoeld in het eerste lid, nihil zou bedragen en het derde lid en [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01), niet van toepassing zouden zijn;
+K staat voor het voor de desbetreffende gemeente voor het jaar 2008 vast te stellen aantal arbeidsjaren indien factor D, bedoeld in het eerste lid, nihil zou bedragen en het derde lid en [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-01-01&g=2009-01-01), niet van toepassing zouden zijn;
 
-L staat voor het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01) in samenhang met de eerste vier leden van dit artikel vastgestelde minimumaantal arbeidsjaren voor de desbetreffende gemeente voor het jaar 2008;
+L staat voor het op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-01-01&g=2009-01-01) in samenhang met de eerste vier leden van dit artikel vastgestelde minimumaantal arbeidsjaren voor de desbetreffende gemeente voor het jaar 2008;
 
 M staat voor (K-L) voor alle desbetreffende gemeenten samen.
 
-6. Indien het vijfde lid van toepassing is wordt de uitkering aan het college, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=17&z=2008-01-01&g=2008-01-01), verhoogd met:
+6. Indien het vijfde lid van toepassing is wordt de uitkering aan het college, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=17&z=2009-01-01&g=2009-01-01), verhoogd met:
 
 (K-L) / M x € 25 miljoen.
 
 ##### Artikel 30b. Overgangsartikel voor het jaar 2009
 
-Voor de toepassing van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01), voor het jaar 2009 staat bij de berekening van de factoren A en B:
+Voor de toepassing van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2009-01-01&g=2009-01-01), voor het jaar 2009 staat bij de berekening van de factoren A en B:
 
 A voor het aantal geïndiceerde inwoners van de gemeente dat een dienstbetrekking dan wel een arbeidsovereenkomst heeft of op de wachtlijst staat en beschikbaar is om een dienstbetrekking als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2), of [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=7) te aanvaarden op 31 december 2007 volgens de bijlage, bedoeld in [artikel 13, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=13) zoals die bijlage luidt op 1 september 2008;
 
