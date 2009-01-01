@@ -4,7 +4,7 @@ identifier: "BWBR0002999"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2007-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002999"
 soort: "AMvB"
@@ -46,25 +46,23 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Voor het leiden van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de plaatsvervangende voorzitter een vergoeding toegekend van € 90,76 per dag.
+Voor het leiden van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de plaatsvervangende voorzitter een vergoeding toegekend van € 67,– per uur.
 
 ##### Artikel 2
 
-Voor het bijwonen van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de leden een vergoeding toegekend van € 90,76 per dag.
+Voor het bijwonen van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de leden een vergoeding toegekend van € 67,– per uur.
 
 ##### Artikel 3
 
-Voor het houden van besprekingen, welke buiten de zittingen en andere bijeenkomsten van de Kamer voor de Binnenvisserij op voorstel van de voorzitter elders plaatsvinden, wordt aan de leden een vergoeding toegekend van € 20,42 per uur met een maximum van € 45,38 per dag.
+Voor het houden van besprekingen, welke buiten de zittingen en andere bijeenkomsten van de Kamer voor de Binnenvisserij op voorstel van de voorzitter elders plaatsvinden, wordt aan de leden een vergoeding toegekend van € 67,– per uur.
 
 ##### Artikel 4
 
-De in de voorgaande artikelen bedoelde vergoedingen worden niet toegekend, indien de aldaar genoemde personen bij het Rijk een bezoldigd ambt bekleden, voor zover Onze Minister van Landbouw en Visserij niet anders bepaalt.
+De in de voorgaande artikelen bedoelde vergoedingen worden niet toegekend, indien de aldaar genoemde personen bij het Rijk een bezoldigd ambt bekleden, voor zover Onze Minister van Landbouw, Natuur en Voedselkwaliteit niet anders bepaalt.
 
 ##### Artikel 5
 
-1. De plaatsvervangende voorzitter en de leden van de Kamer voor de Binnenvisserij genieten in verband met de in de vorige artikelen genoemde werkzaamheden een vergoeding voor reis- en verblijfkosten op de voet van het bepaalde in het Reisbesluit 1971 en de Reisbeschikking Nederland.
-
-2. De plaatsvervangende voorzitter wordt ingedeeld in categorie A van de Reisbeschikking Nederland; de leden worden ingedeeld in categorie B van deze beschikking.
+Vervallen
 
 ##### Artikel 6
 
@@ -80,7 +78,7 @@ Lasten en bevelen dat dit besluit in het **Staatsblad** zal worden geplaatst en 
 
 ##### Artikel 3a
 
-1. De vergoedingen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002999&artikel=1&z=2009-01-01&g=2007-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002999&artikel=2&z=2009-01-01&g=2007-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002999&artikel=3&z=2009-01-01&g=2007-01-01), worden jaarlijks per 1 januari aangepast aan de mate waarin het prijspeil in de periode van 1 juli in het voorafgaande jaar tot en met 1 juli van het daaraan voorafgaande jaar gemiddeld is gestegen volgens de Consumentenprijsindex voor alle huishoudens zoals gepubliceerd door het Centraal Bureau voor de Statistiek. De bedragen worden afgerond op hele euro’s.
+1. De vergoedingen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002999&artikel=1&z=2009-01-01&g=2009-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002999&artikel=2&z=2009-01-01&g=2009-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002999&artikel=3&z=2009-01-01&g=2009-01-01), worden jaarlijks per 1 januari aangepast aan de mate waarin het prijspeil in de periode van 1 juli in het voorafgaande jaar tot en met 1 juli van het daaraan voorafgaande jaar gemiddeld is gestegen volgens de Consumentenprijsindex voor alle huishoudens zoals gepubliceerd door het Centraal Bureau voor de Statistiek. De bedragen worden afgerond op hele euro’s.
 
 2. Onze Minister van Landbouw, Natuur en Voedselkwaliteit maakt de aanpassing, bedoeld in het eerste lid, uiterlijk 1 oktober van het voorgaande jaar bekend in de Staatscourant.
 
