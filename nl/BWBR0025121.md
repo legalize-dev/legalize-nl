@@ -4,7 +4,7 @@ identifier: "BWBR0025121"
 country: "nl"
 rank: "pbo"
 publication_date: "2010-07-25"
-last_updated: "2008-11-16"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025121"
 soort: "pbo"
@@ -79,7 +79,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025121&paragraaf=2&artikel=2&z=2008-11-16&g=2008-11-16) doet de kweker of importeur bij het productschap aangifte van de door hem verhandelde, voor zover door hem gekweekte, onderscheidenlijk door hem geïmporteerde bloemkwekerijproducten of geïmporteerd teeltmateriaal.
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025121&paragraaf=2&artikel=2&z=2008-11-16&g=2009-01-01) doet de kweker of importeur bij het productschap aangifte van de door hem verhandelde, voor zover door hem gekweekte, onderscheidenlijk door hem geïmporteerde bloemkwekerijproducten of geïmporteerd teeltmateriaal.
 
 2. De opgave als bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
@@ -154,7 +154,7 @@ Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de
 
 ##### Artikel 7
 
-Een kweker, onderscheidenlijk een importeur van bloemkwekerijproducten wordt geacht, indien hij door hem gekweekte, onderscheidenlijk geïmporteerde bloemkwekerijproducten of teeltmateriaal door tussenkomst van een veiling verhandelt, aan zijn verplichtingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025121&paragraaf=2&artikel=2&z=2008-11-16&g=2008-11-16) ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij de desbetreffende veiling heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en deze heffing door het productschap is ontvangen.
+Een kweker, onderscheidenlijk een importeur van bloemkwekerijproducten wordt geacht, indien hij door hem gekweekte, onderscheidenlijk geïmporteerde bloemkwekerijproducten of teeltmateriaal door tussenkomst van een veiling verhandelt, aan zijn verplichtingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025121&paragraaf=2&artikel=2&z=2008-11-16&g=2009-01-01) ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij de desbetreffende veiling heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en deze heffing door het productschap is ontvangen.
 
 ##### Artikel 8
 
