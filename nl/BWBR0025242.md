@@ -109,17 +109,3 @@ Dit besluit kan worden aangehaald als:
 Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2009.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7a
-
-1. Voor verbindingskantoren waarvan het college op grond van [artikel 4.6 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.6) heeft vastgesteld dat deze per 31 december 2009 een negatieve reserve hebben die groter is dan 10 procent van het op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=7&z=2010-02-07&g=2010-01-01) nader vastgestelde budget, stelt het college een tegemoetkoming vast.
-
-2. Het college sommeert de door hem op grond van [artikel 4.6 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.6) vastgestelde overschrijdingen van de reserve uitvoering [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
-
-3. Vooruitlopend op de vaststelling van de tegemoetkoming voor de verbindingskantoren, bedoeld in het eerste lid, stelt het college binnen drie maanden na het uitbrengen van de financiële verantwoording door de verbindingskantoren, een voorlopige tegemoetkoming vast.
-
-4. Het college stelt de voorlopige tegemoetkoming, bedoeld in het derde lid, vast door de som, bedoeld in het tweede lid, naar evenredigheid over de verbindingskantoren, bedoeld in het eerste lid, te verdelen, waarbij het maximum van de tegemoetkoming per verbindingskantoor het verschil is tussen de stand van de negatieve reserve van het verbindingskantoor op 31 december 2009 en 10 procent van het op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=7&z=2010-02-07&g=2010-01-01) nader vastgestelde budget van het verbindingskantoor.
-
-5. Binnen drie maanden nadat de Nederlandse Zorgautoriteit haar Rapport uitvoering AWBZ 2009 voor alle verbindingskantoren heeft uitgebracht, stelt het college de tegemoetkoming definitief vast, overeenkomstig het bepaalde in het vierde lid.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
