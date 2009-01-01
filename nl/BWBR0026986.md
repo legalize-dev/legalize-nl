@@ -4,7 +4,7 @@ identifier: "BWBR0026986"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2008-12-31"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026986"
 soort: "wet"
@@ -54,7 +54,7 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel IIIa
 
@@ -74,7 +74,7 @@ Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel VII
 
@@ -82,11 +82,11 @@ Wijzigt de Invorderingswet 1990.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling.
 
 ##### Artikel X
 
