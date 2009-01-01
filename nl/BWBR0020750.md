@@ -4,7 +4,7 @@ identifier: "BWBR0020750"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-02-16"
-last_updated: "2007-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020750"
 soort: "AMvB"
@@ -112,7 +112,7 @@ Wijzigt het Besluit Marktmisbruik Wft.
 
 - b. de beleggingsonderneming dergelijke beleggingsdiensten en beleggingsactiviteiten niet voor of namens particuliere cliënten als bedoeld in artikel 4, eerste lid, onder punt 10, van de richtlijn verricht;
 
-- c. overschrijdingen van de limieten, bedoeld in de aanhef, in verband met risico’s die voorvloeien uit overeenkomsten die financiële instrumenten zijn als bedoeld in onderdeel a, en betrekking hebben op grondstoffen of onderliggende waarden als bedoeld in bijlage I, afdeling C, punt 10, van de richtlijn, en worden berekend in overeenstemming met het bij of krachtens [artikel 61, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=61), en [bijlage B van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=B) bepaalde, of uit overeenkomsten over de levering van grondstoffen of emissievergunningen; en
+- c. overschrijdingen van de limieten, bedoeld in de aanhef, in verband met risico’s die voorvloeien uit overeenkomsten die financiële instrumenten zijn als bedoeld in onderdeel a, en betrekking hebben op grondstoffen of onderliggende waarden als bedoeld in bijlage I, afdeling C, punt 10, van de richtlijn, en worden berekend in overeenstemming met het bij of krachtens [artikel 61, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=61), en [bijlage B van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=B) bepaalde, of uit overeenkomsten over de levering van grondstoffen of emissierechten; en
 
 - d. de beleggingsonderneming beschikt over een vastgelegde strategie voor beheer.
 
