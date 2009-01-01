@@ -4,7 +4,7 @@ identifier: "BWBR0014919"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2003-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014919"
 soort: "AMvB"
@@ -105,5 +105,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit vergoedingen Raad voor strafrechtstoepassing en jeugdbescherming.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 11
+
+Dit besluit wordt aangehaald als: Besluit vergoedingen Raad voor strafrechtstoepassing en jeugdbescherming.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
