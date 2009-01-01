@@ -4,7 +4,7 @@ identifier: "BWBR0026049"
 country: "nl"
 rank: "wet"
 publication_date: "2010-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026049"
 soort: "wet"
@@ -48,7 +48,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel IV
 
@@ -56,7 +56,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel VI
 
@@ -68,7 +68,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 81a van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=81a) vindt geen toepassing bij het begin van het kalenderjaar 2009 op de bedragen, genoemd in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23) en [25 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25).
 
 ##### Artikel IX
 
@@ -84,7 +84,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ##### Artikel XIII
 
