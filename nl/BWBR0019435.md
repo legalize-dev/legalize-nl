@@ -4,7 +4,7 @@ identifier: "BWBR0019435"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019435"
 soort: "ministeriele-regeling"
@@ -154,7 +154,7 @@ De Raad kan de beoordeling van een aanvraag tot toelating van een ras of tot ver
 
 - a. het onderzoek waarop het over te nemen rapport is gebaseerd, zal worden uitgevoerd, wordt uitgevoerd of is uitgevoerd in opdracht van een andere met rassentoelating of kwekersrechtverlening belaste autoriteit van een Unie-staat;
 
-- b. de Raad de instelling, belast met het technisch onderzoek, bedoeld in [artikel 35, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=2&artikel=35&z=2008-01-01&g=2008-01-01), heeft erkend als onderzoeksinstelling voor het desbetreffende gewas, en
+- b. de Raad de instelling, belast met het technisch onderzoek, bedoeld in [artikel 35, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=2&artikel=35&z=2009-01-01&g=2009-01-01), heeft erkend als onderzoeksinstelling voor het desbetreffende gewas, en
 
 - c. de aanvrager aangeeft dat het identiteitsmonster dat zal worden onderzocht, wordt onderzocht of is onderzocht behoort bij de aanvraag in Nederland.
 
@@ -184,7 +184,11 @@ van de vergoeding die in het handelsverkeer verschuldigd is voor het gebruik van
 
 ##### Artikel 14
 
-Voor de rassen van het gewas aardappel, aardbei, acacia, appel, es, esdoorn, freesia, iep, kers, kornoelje, krent, lelie, lijsterbes, linde, magnolia, peer, populier, pruim, tulp en wilg bedraagt de duur van het kwekersrecht 30 jaar.
+Voor de volgende rassen bedraagt de duur van het kwekersrecht 30 jaar:
+
+- a. De rassen van het gewas aardappel, aardbei, acacia, anthurium, appel, es, esdoorn, iep, kers, kornoelje, krent, lijsterbes, linde, magnolia, peer, populier, pruim en wilg.
+
+- b. De rassen van bolgewassen als bedoeld in [bijlage II van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II), alsmede freesia en nerine.
 
 ### Hoofdstuk 5. Aanvragen en verzoeken bij de Raad voor plantenrassen
 
@@ -244,23 +248,23 @@ is de aanvrager aan de Raad een bedrag verschuldigd van € 400.
 
 ##### Artikel 19
 
-[Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2008-01-01&g=2008-01-01) is niet van toepassing op een instandhouder van een aardappelras die uitsluitend op basis van gegevens van de keuringsinstelling als zodanig is geregistreerd.
+[Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2009-01-01&g=2009-01-01) is niet van toepassing op een instandhouder van een aardappelras die uitsluitend op basis van gegevens van de keuringsinstelling als zodanig is geregistreerd.
 
 ##### Artikel 20
 
-1. Indien binnen veertien dagen na de dag, bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2008-01-01&g=2008-01-01), niet is betaald, wordt de betrokken instandhouder door de Raad bij aangetekende brief aan zijn betalingsverplichting herinnerd.
+1. Indien binnen veertien dagen na de dag, bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2009-01-01&g=2009-01-01), niet is betaald, wordt de betrokken instandhouder door de Raad bij aangetekende brief aan zijn betalingsverplichting herinnerd.
 
-2. De inschrijving van een instandhouder in het rassenregister wordt van rechtswege doorgehaald, zodra zes maanden zijn verstreken sinds de vergoeding, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2008-01-01&g=2008-01-01), verschuldigd is geworden zonder dat deze betaald is.
+2. De inschrijving van een instandhouder in het rassenregister wordt van rechtswege doorgehaald, zodra zes maanden zijn verstreken sinds de vergoeding, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2009-01-01&g=2009-01-01), verschuldigd is geworden zonder dat deze betaald is.
 
 ##### Artikel 21
 
-1. Indien het onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), door een Nederlandse onderzoeksinstelling zal worden uitgevoerd, is per teeltperiode een bedrag verschuldigd, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&bijlage=1&z=2008-01-01&g=2008-01-01) bij deze regeling voor de gewasgroep waartoe het desbetreffende ras behoort, vermeerderd met het van toepassing zijnde BTW- percentage ingeval de onderzoeksinstelling gehouden is dit te heffen.
+1. Indien het onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), door een Nederlandse onderzoeksinstelling zal worden uitgevoerd, is per teeltperiode een bedrag verschuldigd, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&bijlage=1&z=2009-01-01&g=2009-01-01) bij deze regeling voor de gewasgroep waartoe het desbetreffende ras behoort, vermeerderd met het van toepassing zijnde BTW- percentage ingeval de onderzoeksinstelling gehouden is dit te heffen.
 
 2. Indien het onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), door een buitenlandse onderzoeksinstelling zal worden uitgevoerd, is per teeltperiode een bedrag verschuldigd dat gelijk is aan de vergoeding die de desbetreffende instelling voor dat onderzoek rekent.
 
 3. De Raad publiceert periodiek de hoogte van de vergoedingen, bedoeld in het tweede lid.
 
-4. De vergoedingen, bedoeld in het eerste en tweede lid, verschuldigd voor de eerste teeltperiode, worden gelijktijdig met de vergoeding, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2008-01-01&g=2008-01-01), voldaan. De vergoedingen verschuldigd voor tweede en volgende teeltperioden worden voldaan binnen een door de Raad gestelde termijn.
+4. De vergoedingen, bedoeld in het eerste en tweede lid, verschuldigd voor de eerste teeltperiode, worden gelijktijdig met de vergoeding, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2009-01-01&g=2009-01-01), voldaan. De vergoedingen verschuldigd voor tweede en volgende teeltperioden worden voldaan binnen een door de Raad gestelde termijn.
 
 5. Het eerste lid is niet van toepassing ingeval de Raad heeft toegestaan dat het desbetreffende onderzoek in opdracht van de aanvrager wordt uitgevoerd bij een door de Raad aangewezen instelling.
 
@@ -268,45 +272,45 @@ is de aanvrager aan de Raad een bedrag verschuldigd van € 400.
 
 ##### Artikel 22
 
-1. In afwijking van [artikel 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2008-01-01&g=2008-01-01), is de aanvrager een bedrag van € 240 verschuldigd ingeval de Raad voornemens is uitvoering te geven aan [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=19).
+1. In afwijking van [artikel 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2009-01-01&g=2009-01-01), is de aanvrager een bedrag van € 240 verschuldigd ingeval de Raad voornemens is uitvoering te geven aan [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=19).
 
-2. De vergoeding, bedoeld in het eerste lid, wordt gelijktijdig voldaan met de vergoeding, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2008-01-01&g=2008-01-01).
+2. De vergoeding, bedoeld in het eerste lid, wordt gelijktijdig voldaan met de vergoeding, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2009-01-01&g=2009-01-01).
 
-3. Ingeval het niet mogelijk is het voornemen, bedoeld in het eerste lid, te realiseren, is, onder verrekening van het bedrag, bedoeld in het eerste lid, [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2008-01-01&g=2008-01-01) van toepassing met dien verstande dat het bedrag verschuldigd voor de eerste teeltperiode binnen een door de Raad gestelde termijn moet worden voldaan.
+3. Ingeval het niet mogelijk is het voornemen, bedoeld in het eerste lid, te realiseren, is, onder verrekening van het bedrag, bedoeld in het eerste lid, [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2009-01-01&g=2009-01-01) van toepassing met dien verstande dat het bedrag verschuldigd voor de eerste teeltperiode binnen een door de Raad gestelde termijn moet worden voldaan.
 
 ##### Artikel 23
 
-Ingeval de Raad op verzoek van de aanvrager en op grond van na de aanvang van het onderzoek, bedoeld in [artikel 35, eerste lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), van de aanvrager ontvangen gegevens tot een verdergaand onderzoek besluit, kunnen in afwijking van de bedragen, bedoeld in [artikel 21 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2008-01-01&g=2008-01-01), en [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2008-01-01&g=2008-01-01), de werkelijke kosten van dat onderzoek in rekening worden gebracht.
+Ingeval de Raad op verzoek van de aanvrager en op grond van na de aanvang van het onderzoek, bedoeld in [artikel 35, eerste lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), van de aanvrager ontvangen gegevens tot een verdergaand onderzoek besluit, kunnen in afwijking van de bedragen, bedoeld in [artikel 21 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2009-01-01&g=2009-01-01), en [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2009-01-01&g=2009-01-01), de werkelijke kosten van dat onderzoek in rekening worden gebracht.
 
 ##### Artikel 24
 
-1. Ingeval een aanvraag wordt ingetrokken of afgewezen voordat het onderzoek bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), in een teeltperiode is aangevangen, wordt het bedrag dat voor het onderzoek gedurende de nog aan te vangen teeltperiode is betaald ingevolge [artikel 21, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2008-01-01&g=2008-01-01), gerestitueerd.
+1. Ingeval een aanvraag wordt ingetrokken of afgewezen voordat het onderzoek bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), in een teeltperiode is aangevangen, wordt het bedrag dat voor het onderzoek gedurende de nog aan te vangen teeltperiode is betaald ingevolge [artikel 21, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2009-01-01&g=2009-01-01), gerestitueerd.
 
-2. Ingeval een aanvraag wordt ingetrokken of afgewezen voordat de Raad de resultaten van het in [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=19) bedoelde onderzoek heeft ontvangen, wordt het in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2008-01-01&g=2008-01-01), bedoelde bedrag gerestitueerd.
+2. Ingeval een aanvraag wordt ingetrokken of afgewezen voordat de Raad de resultaten van het in [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=19) bedoelde onderzoek heeft ontvangen, wordt het in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2009-01-01&g=2009-01-01), bedoelde bedrag gerestitueerd.
 
 ##### Artikel 25
 
-1. Indien de Raad voor de beoordeling van een bezwaar tegen zijn beslissing een voortzetting van onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), nodig acht, is [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=23&z=2008-01-01&g=2008-01-01) van overeenkomstige toepassing met dien verstande dat het bedrag verschuldigd voor de eerste teeltperiode binnen de door de Raad gestelde termijn moet worden voldaan.
+1. Indien de Raad voor de beoordeling van een bezwaar tegen zijn beslissing een voortzetting van onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), nodig acht, is [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=23&z=2009-01-01&g=2009-01-01) van overeenkomstige toepassing met dien verstande dat het bedrag verschuldigd voor de eerste teeltperiode binnen de door de Raad gestelde termijn moet worden voldaan.
 
 2. De op grond van het eerste lid verrichte betaling wordt gerestitueerd, indien het bezwaar gegrond wordt verklaard.
 
 ##### Artikel 26
 
-1. Voor de behandeling van een verzoek om advies als bedoeld in [artikel 58, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=58), is een bedrag verschuldigd van € 65.
+1. Voor de behandeling van een verzoek om advies als bedoeld in [artikel 58, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=58), is een bedrag verschuldigd van € 68.
 
 2. Onverminderd het eerste lid is degene op wiens verzoek het advies, bedoeld in het eerste lid, wordt gegeven binnen een door de Raad gestelde termijn een bedrag verschuldigd dat overeenkomt met de kosten van het onderzoek dat ten behoeve van dat advies is uitgevoerd.
 
 ##### Artikel 27
 
-Voor de behandeling van een verzoek strekkende tot aanvulling van de beschrijving als bedoeld in [artikel 31, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=31) is een bedrag verschuldigd van € 65.
+Voor de behandeling van een verzoek strekkende tot aanvulling van de beschrijving als bedoeld in [artikel 31, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=31) is een bedrag verschuldigd van € 68.
 
 ##### Artikel 28
 
-Voor de inschrijving van een verzoek tot verlening van een licentie door de Raad als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=62) is een bedrag verschuldigd van € 65.
+Voor de inschrijving van een verzoek tot verlening van een licentie door de Raad als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=62) is een bedrag verschuldigd van € 68.
 
 ##### Artikel 29
 
-Voor de inschrijving van een akte van overdracht als bedoeld in [artikel 65, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=65) alsmede van overgang van het recht door vererving is met betrekking tot een ras een bedrag verschuldigd van € 20.
+Voor de inschrijving van een akte van overdracht als bedoeld in [artikel 65, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=65) alsmede van overgang van het recht door vererving is met betrekking tot een ras een bedrag verschuldigd van € 21.
 
 ##### Artikel 30
 
@@ -320,21 +324,21 @@ Voor iedere inschrijving in het rassenregister van
 
 - d. de titel waaruit de toewijzing van de verkoop van een in beslag genomen kwekersrecht blijkt, of
 
-- e. andere stukken, waarvan de belanghebbende inschrijving heeft verzocht, is per ras een bedrag verschuldigd van € 20.
+- e. andere stukken, waarvan de belanghebbende inschrijving heeft verzocht, is per ras een bedrag verschuldigd van € 21.
 
 ##### Artikel 31
 
-Indien op verzoek van de aanvrager, de houder van het kwekersrecht, een instandhouder of hun rechtsopvolgers een wijziging, verbetering of aanvulling van de in het register ingeschreven gegevens noodzakelijk is, is, voor zover voor die wijziging, verbetering of aanvulling geen bijzonder tarief is gegeven, een bedrag van € 7 verschuldigd per ingeschreven ras.
+Indien op verzoek van de aanvrager, de houder van het kwekersrecht, een instandhouder of hun rechtsopvolgers een wijziging, verbetering of aanvulling van de in het register ingeschreven gegevens noodzakelijk is, is, voor zover voor die wijziging, verbetering of aanvulling geen bijzonder tarief is gegeven, een bedrag van € 7,50 verschuldigd per ingeschreven ras.
 
 ##### Artikel 32
 
 1. Voor de verstrekking van een afschrift of uittreksel uit het register is per bladzijde een bedrag verschuldigd van € 3,50.
 
-2. Voor bij abonnement verstrekte afschriften van beschrijvingen van alle rassen van één of meer gewassen is telkens een bedrag verschuldigd van € 2.
+2. Voor bij abonnement verstrekte afschriften van beschrijvingen van alle rassen van één of meer gewassen is telkens een bedrag verschuldigd van € 2,10.
 
-3. De Raad kan afschriften of uittreksels kosteloos verstrekken aan commissies of instellingen, die betrokken zijn bij de uitvoering van de wet, alsmede aan de met verlening van kwekersrecht of rassentoelating belaste autoriteiten in Unie-staten.
+3. De Raad kan afschriften of uittreksels kosteloos verstrekken aan commissies of instellingen, die betrokken zijn bij de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040), alsmede aan de met verlening van kwekersrecht of rassentoelating belaste autoriteiten in Unie-staten.
 
-4. Voor de verstrekking van een in het Engels vertaalde beschrijving is een bedrag verschuldigd van € 42,–.
+4. Voor de verstrekking van een in het Engels vertaalde beschrijving is een bedrag verschuldigd van € 44,–.
 
 ##### Artikel 33
 
@@ -496,52 +500,54 @@ Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
 
 ##### Artikel 32a
 
-De bedragen, genoemd in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2008-01-01&g=2008-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2008-01-01&g=2008-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2008-01-01&g=2008-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=26&z=2008-01-01&g=2008-01-01) en [27 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=27&z=2008-01-01&g=2008-01-01), worden vermeerderd met het van toepassing zijnde BTW-percentage indien het bureau als bedoeld in [artikel 3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=3) gehouden is dit te heffen.
+De bedragen, genoemd in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=17&z=2009-01-01&g=2009-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=18&z=2009-01-01&g=2009-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=22&z=2009-01-01&g=2009-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=26&z=2009-01-01&g=2009-01-01) en [27 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=27&z=2009-01-01&g=2009-01-01), worden vermeerderd met het van toepassing zijnde BTW-percentage indien het bureau als bedoeld in [artikel 3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=3) gehouden is dit te heffen.
 
 #### § 2. Oplegging en inning
 
 ### Hoofdstuk 7. Overige bepalingen
 
-## Bijlage 1
+## Bijlage 1. behorende bij [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&hoofdstuk=6&paragraaf=1&artikel=21&z=2009-01-01&g=2009-01-01), van de Regeling werkzaamheden Raad voor plantenrassen
 
-| Nr. | Gewasgroep | Bedrag |
-| --- | --- | --- |
-| Landbouwgewassen | Landbouwgewassen | Landbouwgewassen |
-| 1 | Zaadgewassen | € 1290 |
-| 2 | Vegetatief vermeerderde gewassen | € 1870 |
-| 3 | Oliehoudende gewassen | € 1340 |
-| 4 | Grassen (Engels raaigras, veldbeemdgras) | € 1230 |
-| 4A | Grassen (overige) | € 1540 |
-| 5 | Bieten | € 1390 |
-| 6 | Vezelgewassen | € 1230 |
-| 7 | Gewassen met bijzonder onderzoeksprogramma | € 1450 |
-| 8 | Andere landbouwgewassen | € 1450 |
-| Siergewassen | Siergewassen | Siergewassen |
-| 9 | Gewassen met levende referentiecollectie, onderzoek onder glas, lange teelt | € 1870 |
-| 9A | Gewassen met levende referentiecollectie, onderzoek onder glas, lange teelt, bijzondere fytosanitaire maatregelen | € 2390 |
-| 10 | Gewassen met levende referentiecollectie, onderzoek onder glas, korte teelt | € 1760 |
-| 11 | Gewassen met levende referentiecollectie, veldonderzoek, lange teelt | € 1550 |
-| 12 | Gewassen met levende referentiecollectie, veldonderzoek, korte teelt | € 1390 |
-| 13 | Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange teelt | € 1550 |
-| 13A | Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange teelt met verdere vermeerdering | € 2390 |
-| 14 | Gewassen zonder levende referentiecollectie, onderzoek onder glas, korte teelt | € 1340 |
-| 15 | Gewassen zonder levende referentiecollectie, veldonderzoek, lange teelt | € 1340 |
-| 16 | Gewassen zonder levende referentiecollectie, veldonderzoek, korte teelt | € 1340 |
-| 17 | Nieuwe gewassen, onderzoek onder glas | € 1340 |
-| 18 | Nieuwe gewassen, veldonderzoek | € 1340 |
-| 19 | Zaadgewassen, anders dan bedoeld onder 9 t/m 18 | € 1970 |
-| Groentegewassen | Groentegewassen | Groentegewassen |
-| 20 | Zaadgewassen, veldonderzoek | € 1550 |
-| 20A | Zaadgewassen, tweede en volgende teeltperiode | € 780 |
-| 21 | Zaadgewassen, onderzoek onder glas | € 1970 |
-| 21A | Zaadgewassen, onderzoek onder glas, tweede en volgende teeltperiode | € 990 |
-| 22 | Vegetatieve gewassen, veldonderzoek | € 2180 |
-| 22A | Vegetatieve gewassen, veldonderzoek, tweede en volgende teeltperiode | € 1090 |
-| 23 | Vegetatieve gewassen, onderzoek onder glas | € 1760 |
-| 23A | Vegetatieve gewassen, onderzoek onder glas, tweede en volgende teeltperiode | € 880 |
-| Fruitgewassen | Fruitgewassen | Fruitgewassen |
-| 24 | Fruitgewassen | € 1970 |
-| 24A | Fruitgewassen met grote permanente referentiecollectie | € 2810 |
-| 25 | Struiken | € 1340 |
+| Nr. Gewasgroep | Bedrag |
+| --- | --- |
+| Landbouwgewassen |   |
+| 1. Zaadgewassen | € 1.360,00 |
+| 2. Vegetatief vermeerderende gewassen | € 1.600,00 |
+| 3. Oliehoudende gewassen | € 1.735,00 |
+| 4A Grassen (Engelse raaigras, veldbeemgras) | € 1.600,00 |
+| 4B Grasgewassen (overige) | € 1.600,00 |
+| 5 Bieten | € 1.500,00 |
+| 6. Vezelgewassen | € 2.000,00 |
+| 7. Gewassen met bijzonder onderzoeksprogramma | € 1.580,00 |
+| 8. Andere landbouwgewassen | € 1.735,00 |
+| Siergewassen |   |
+| 9. Gewassen met levende referentiecollectie, onderzoek onder glas, lange teelt | € 2.100,00 |
+| 9A. Gewassen met levende referentiecollectie, onderzoek onder glas, lange teelt, bijzondere fytosanitaire maatregelen | € 2.670,00 |
+| 10. Gewassen met levende referentiecollectie, onderzoek onder glas, korte teelt | € 1.970,00 |
+| 11. Gewassen met levende referentiecollectie, veldonderzoek, lange teelt | € 1.740,00 |
+| 12. Gewassen met levende referentiecollectie, veldonderzoek, korte teelt | € 1.270,00 |
+| 13. Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange teelt | € 1.630,00 |
+| 13A. Gewassen zonder levende referentiecollectie, onderzoek onder glas, lange teelt met verder vermeerdering | € 2.670,00 |
+| 14. Gewassen zonder levende referentiecollectie, onderzoek onder glas, korte teelt | € 1.400,00 |
+| 15. Gewassen zonder levende referentiecollectie, veldonderzoek, lange teelt | € 1.370,00 |
+| 16. Gewassen zonder levende referentiecollectie, veldonderzoek, korte teelt | € 1.370,00 |
+| 17. Nieuwe gewassen, onderzoek onder glas | – |
+| 17A. Zaadgewassen, veldonderzoek | € 1.700,00 |
+| 18 Nieuwe gewassen, veldonderzoek | - |
+| 18A Zaadgewassen, onderzoek onder glas | € 2.350,00 |
+| 19 Zaadgewassen, anders dan bedoeld onder 9 t/m 18A | – |
+| Groentegewassen |   |
+| 20 Zaadgewassen, veldonderzoek | € 1.650,00 |
+| 20A Zaadgewassen, tweede en volgende teeltperiode | € 1.240,00 |
+| 21 Zaadgewassen, onderzoek onder glas | € 2.100,00 |
+| 21A Zaadgewassen, onderzoek onder glas, tweede en volgende teeltperiode | € 1.580,00 |
+| 22 Vegetatieve gewassen, veldonderzoek | € 2.100,00 |
+| 22A Vegetatieve gewassen, veldonderzoek, tweede en volgende teeltperiode | € 1.580,00 |
+| 23 Vegetatieve gewassen, onderzoek onder glas | € 1.890,00 |
+| 23A Vegetatieve gewassen, onderzoek onder glas, tweede en volgende teeltperiode | € 1.420,00 |
+| Fruitgewassen |   |
+| 24 Fruitgewassen | € 2.310,00 |
+| 24A Fruitgewassen met grote permanente referentiecollectie | € 3.235,00 |
+| 25 Struiken | € 2.310,00 |
 
 Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
