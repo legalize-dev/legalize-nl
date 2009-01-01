@@ -4,7 +4,7 @@ identifier: "BWBR0024904"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2008-11-16"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024904"
 soort: "pbo"
@@ -55,7 +55,7 @@ Besluit:
 
 - a. het braakland: de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld;
 
-- b. de cultuurgrond: beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024904&paragraaf=3&artikel=4&z=2008-11-16&g=2008-11-16) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet;
+- b. de cultuurgrond: beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024904&paragraaf=3&artikel=4&z=2008-11-16&g=2009-01-01) genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet;
 
 - c. de teelt onder glas: iedere andere teelt dan die in de open grond;
 
@@ -110,7 +110,7 @@ De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van
 
 ##### Artikel 5
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024904&paragraaf=3&artikel=4&z=2008-11-16&g=2008-11-16), wordt onder de bij de onderneming behorende cultuurgrond mede verstaan cultuurgrond die:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024904&paragraaf=3&artikel=4&z=2008-11-16&g=2009-01-01), wordt onder de bij de onderneming behorende cultuurgrond mede verstaan cultuurgrond die:
 
 - a. zaai-of pootklaar is gehuurd;
 
@@ -120,9 +120,9 @@ De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van
 
 - d. door de ondernemer wordt beteeld voor contractteelt.
 
-2. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024904&paragraaf=3&artikel=4&z=2008-11-16&g=2008-11-16), wordt cultuurgrond gerekend naar de gemeten maat.
+2. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024904&paragraaf=3&artikel=4&z=2008-11-16&g=2009-01-01), wordt cultuurgrond gerekend naar de gemeten maat.
 
-3. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024904&paragraaf=3&artikel=4&z=2008-11-16&g=2008-11-16), worden met betrekking tot de groepen 1 toten met 13 en 15, gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.
+3. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024904&paragraaf=3&artikel=4&z=2008-11-16&g=2009-01-01), worden met betrekking tot de groepen 1 toten met 13 en 15, gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.
 
 #### § 4. Oplegging en inning
 
@@ -134,7 +134,7 @@ De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van
 
 ##### Artikel 7
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024904&paragraaf=4&artikel=6&z=2008-11-16&g=2008-11-16), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024904&paragraaf=4&artikel=6&z=2008-11-16&g=2009-01-01), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 8
 
