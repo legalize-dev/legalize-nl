@@ -4,7 +4,7 @@ identifier: "BWBR0006612"
 country: "nl"
 rank: "wet"
 publication_date: "2024-12-11"
-last_updated: "2002-05-29"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006612"
 soort: "wet"
@@ -57,7 +57,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. ambtenaar bij een ministerie, alsmede de daaronder ressorterende instellingen, diensten en bedrijven;
 
-- e. lid van de Raad van bestuur of de Raad van advies van de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank, genoemd in de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
+- e. lid van de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank, genoemd in de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
 
 - f. lid van de commissie van toezicht, bedoeld in [artikel 64 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=64).
 
@@ -81,7 +81,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. Nationale ombudsman of substituut-ombudsman;
 
-- g. lid van de Raad van bestuur of de Raad van advies van de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank, genoemd in de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
+- g. lid van de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank, genoemd in de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
 
 - h. lid van de commissie van toezicht, bedoeld in [artikel 64 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=64).
 
@@ -103,7 +103,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De militair behorende tot het beroepspersoneel van de krijgsmacht die tot het lidmaatschap van de Eerste Kamer der Staten-Generaal is toegelaten, is van rechtswege op non-activiteit gesteld.
 
-2. Degene die een in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=1&z=2002-05-29&g=2002-05-29), of [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=2&z=2002-05-29&g=2002-05-29), bedoeld ambt bekleedt en tot het lidmaatschap van de Eerste Kamer der Staten-Generaal is toegelaten, is van rechtswege op non-activiteit gesteld.
+2. Degene die een in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=1&z=2009-01-01&g=2009-01-01), of [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=2&z=2009-01-01&g=2009-01-01), bedoeld ambt bekleedt en tot het lidmaatschap van de Eerste Kamer der Staten-Generaal is toegelaten, is van rechtswege op non-activiteit gesteld.
 
 3. Degene die op non-activiteit is gesteld, is van het ogenblik af dat hij is toegelaten, ontheven van de waarneming van het ambt, zulks, voor zover de ambtsbetrekking niet eerder eindigt, tot op het ogenblik, waarop hij, nadat hij heeft opgehouden lid te zijn, in actieve dienst wordt hersteld.
 
@@ -111,7 +111,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. De militair behorende tot het reserve-personeel van de krijgsmacht, de dienstplichtige militair en de tewerkgestelde erkend gewetensbezwaarde is van het ogenblik dat hij tot het lidmaatschap van de Eerste Kamer der Staten-Generaal is toegelaten en voorzolang hij dat lidmaatschap uitoefent, van rechtswege met groot verlof.
 
-6. Degene die een in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=1&z=2002-05-29&g=2002-05-29), bedoeld ambt bekleedt en die tot het lidmaatschap van de Tweede Kamer der Staten-Generaal of het Europees Parlement is toegelaten, wordt in verband daarmee eervol ontslag verleend met ingang van de dag van zijn toelating, dan wel op zijn verzoek met ingang van die dag tijdelijk ontheven van de waarneming van zijn ambt.
+6. Degene die een in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=1&z=2009-01-01&g=2009-01-01), bedoeld ambt bekleedt en die tot het lidmaatschap van de Tweede Kamer der Staten-Generaal of het Europees Parlement is toegelaten, wordt in verband daarmee eervol ontslag verleend met ingang van de dag van zijn toelating, dan wel op zijn verzoek met ingang van die dag tijdelijk ontheven van de waarneming van zijn ambt.
 
 ##### Artikel 4
 
@@ -133,13 +133,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 6
 
-Indien de op non-activiteit gestelde uit het ambt een ontslag, dat aanspraak geeft op wachtgeld, wordt verleend, worden voor de toepassing van de desbetreffende bepalingen inkomsten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=5&z=2002-05-29&g=2002-05-29) beschouwd als inkomsten, genoten uit of in verband met arbeid of bedrijf na het ontslag ter hand genomen.
+Indien de op non-activiteit gestelde uit het ambt een ontslag, dat aanspraak geeft op wachtgeld, wordt verleend, worden voor de toepassing van de desbetreffende bepalingen inkomsten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=5&z=2009-01-01&g=2009-01-01) beschouwd als inkomsten, genoten uit of in verband met arbeid of bedrijf na het ontslag ter hand genomen.
 
 ##### Artikel 7
 
 1. Bij het einde van het lidmaatschap wordt degene die op non-activiteit was gesteld, voor zoveel zulks naar het oordeel van het bevoegd gezag mogelijk is, in actieve dienst hersteld.
 
-2. Is herstel in actieve dienst niet mogelijk, dan wordt betrokkene eervol ontslag verleend. Dit ontslag heeft dezelfde rechtsgevolgen als een ontslag verleend wegens opheffing van zijn betrekking, met dien verstande dat op degene voor wie een wachtgeldregeling bij de opheffing van zijn betrekking niet is vastgesteld, voor dit geval het [Rijkswachtgeldbesluit 1959](https://wetten.overheid.nl/jci1.3:c:BWBR0002326) (**Stb.** 1986, 489) op overeenkomstige wijze wordt toegepast en voorts dat inkomsten, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=6&z=2002-05-29&g=2002-05-29), worden beschouwd als inkomsten, genoten uit of in verband met arbeid of bedrijf na het ontslag ter hand genomen.
+2. Is herstel in actieve dienst niet mogelijk, dan wordt betrokkene eervol ontslag verleend. Dit ontslag heeft dezelfde rechtsgevolgen als een ontslag verleend wegens opheffing van zijn betrekking, met dien verstande dat op degene voor wie een wachtgeldregeling bij de opheffing van zijn betrekking niet is vastgesteld, voor dit geval het [Rijkswachtgeldbesluit 1959](https://wetten.overheid.nl/jci1.3:c:BWBR0002326) (**Stb.** 1986, 489) op overeenkomstige wijze wordt toegepast en voorts dat inkomsten, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=6&z=2009-01-01&g=2009-01-01), worden beschouwd als inkomsten, genoten uit of in verband met arbeid of bedrijf na het ontslag ter hand genomen.
 
 ##### Artikel 8
 
