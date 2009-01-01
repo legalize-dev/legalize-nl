@@ -4,7 +4,7 @@ identifier: "BWBR0012066"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2008-08-01"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012066"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Dit besluit geeft uitvoering aan de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.6), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.11), [3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.64), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.126](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126), [3.127](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.25), [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.7), [5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22), [5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.23), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1), [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.25), [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.6), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2), [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8) en [10.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.9).
+1. Dit besluit geeft uitvoering aan de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.6), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.11), [3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.64), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.126](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126), [3.126a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a), [3.127](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.25), [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.7), [5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22), [5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.23), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1), [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.25), [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.6), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2), [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8) en [10.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.9).
 
 2. Dit besluit verstaat onder wet: de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353).
 
@@ -58,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering verschuldigde inkomstenbelasting bij kiezende belastingplichtige
 
-1. Aan een kiezende belastingplichtige wordt volgens de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2008-08-01&g=2008-08-01) een vermindering op de verschuldigde inkomstenbelasting verleend voor de belasting die betrekking heeft op niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen.
+1. Aan een kiezende belastingplichtige wordt volgens de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2009-01-01&g=2009-01-01) een vermindering op de verschuldigde inkomstenbelasting verleend voor de belasting die betrekking heeft op niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen.
 
 2. Onder een kiezende belastingplichtige wordt verstaan:
 
@@ -66,11 +66,11 @@ Hebben goedgevonden en verstaan:
 
 - b. een buitenlandse belastingplichtige, die volgens [artikel 2.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5) kiest voor toepassing van de regels van de wet voor binnenlandse belastingplichtigen.
 
-3. Voor de toepassing van dit artikel en de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2008-08-01&g=2008-08-01) blijft te conserveren inkomen en de daarover verschuldigde belasting buiten beschouwing.
+3. Voor de toepassing van dit artikel en de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2009-01-01&g=2009-01-01) blijft te conserveren inkomen en de daarover verschuldigde belasting buiten beschouwing.
 
 ##### Artikel 3. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering bij inkomen uit werk en woning
 
-1. De vermindering vanwege in het inkomen uit werk en woning begrepen niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=2&z=2008-08-01&g=2008-08-01)volgens de wet over het belastbare inkomen uit werk en woning verschuldigd zou zijn, in dezelfde verhouding staat als het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen staat tot het noemerinkomen.
+1. De vermindering vanwege in het inkomen uit werk en woning begrepen niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=2&z=2009-01-01&g=2009-01-01)volgens de wet over het belastbare inkomen uit werk en woning verschuldigd zou zijn, in dezelfde verhouding staat als het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen staat tot het noemerinkomen.
 
 2. Onder het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen wordt verstaan: de som van:
 
@@ -98,15 +98,15 @@ De dividendbelasting geheven over tot het inkomen uit werk en woning behorende d
 
 ##### Artikel 5. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; doorschuifregeling
 
-1. Voorzover het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de verrekening volgens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=6&z=2008-08-01&g=2008-08-01) – groter is dan het noemerinkomen, wordt het overgebracht naar het volgend jaar. Deze overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+1. Voorzover het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de verrekening volgens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=6&z=2009-01-01&g=2009-01-01) – groter is dan het noemerinkomen, wordt het overgebracht naar het volgend jaar. Deze overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
-2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2008-08-01&g=2008-08-01) het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen verhoogd met het over te brengen bedrag aan niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen. Het noemerinkomen wordt niet verhoogd.
+2. In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2009-01-01&g=2009-01-01) het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen verhoogd met het over te brengen bedrag aan niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen. Het noemerinkomen wordt niet verhoogd.
 
 3. [Artikel 26 van het Besluit voorkoming dubbele belasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=26) is van overeenkomstige toepassing.
 
 ##### Artikel 6. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; inhaalregeling
 
-1. Indien het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de overbrenging volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=5&z=2008-08-01&g=2008-08-01) – negatief is, wordt het voor de toepassing van de vermindering volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2008-08-01&g=2008-08-01) aangemerkt als een negatief niet of tegen een beperkt tarief in Nederland te belasten bestanddeel van het noemerinkomen van het volgend jaar. De inspecteur stelt het naar het volgend jaar over te brengen bedrag vast bij voor bezwaar vatbare beschikking.
+1. Indien het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de overbrenging volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01) – negatief is, wordt het voor de toepassing van de vermindering volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2009-01-01&g=2009-01-01) aangemerkt als een negatief niet of tegen een beperkt tarief in Nederland te belasten bestanddeel van het noemerinkomen van het volgend jaar. De inspecteur stelt het naar het volgend jaar over te brengen bedrag vast bij voor bezwaar vatbare beschikking.
 
 2. De [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=26) en [27 van het Besluit voorkoming dubbele belasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=27) zijn van overeenkomstige toepassing.
 
@@ -120,7 +120,7 @@ De dividendbelasting geheven over tot het inkomen uit werk en woning behorende d
 
 - b. de inkomensbestanddelen die daartoe wel behoren maar waarover het heffingsrecht op grond van een regeling ter voorkoming van dubbele belasting niet of tot een beperkt tarief aan Nederland is toegewezen.
 
-[Artikel 3, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing.
+[Artikel 3, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing.
 
 3. De vermindering van het eerste lid wordt bij de aanwezigheid van in het tweede lid, onderdeel b, bedoelde inkomensbestanddelen die Nederland volgens regelingen ter voorkoming van dubbele belasting slechts tegen een beperkt tarief mag belasten, verlaagd met de belasting die Nederland volgens die regelingen over de inkomensbestanddelen mag heffen.
 
@@ -132,7 +132,7 @@ De dividendbelasting geheven over tot het inkomen uit werk en woning behorende d
 
 - b. verminderd met de – met overeenkomstige toepassing van [afdeling 4.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=4.10) – te verrekenen negatieve bedragen aan noemerinkomen uit andere jaren.
 
-6. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit aanmerkelijk belang verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit aanmerkelijk belang als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) verminderd met een evenredig deel van het belastingdeel van de heffingskorting. [Artikel 3, zesde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing.
+6. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit aanmerkelijk belang verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit aanmerkelijk belang als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) verminderd met een evenredig deel van het belastingdeel van de heffingskorting. [Artikel 3, zesde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 8. Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij inkomen uit aanmerkelijk belang
 
@@ -152,7 +152,7 @@ De dividendbelasting geheven over tot het inkomen uit aanmerkelijk belang behore
 
 Bij een belastingplichtige die niet het gehele jaar in Nederland woont, wordt de naar tijdsgelang herleide gemiddelde waarde van de rendementsgrondslag buiten Nederland over de periode dat hij niet in Nederland woonde, in aanmerking genomen. Gedeelten van kalendermaanden worden hierbij als volle maand beschouwd.
 
-4. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit sparen en beleggen verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit sparen en beleggen als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) verminderd met een evenredig deel van het belastingdeel van de heffingskorting. [Artikel 3, zesde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing.
+4. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit sparen en beleggen verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit sparen en beleggen als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) verminderd met een evenredig deel van het belastingdeel van de heffingskorting. [Artikel 3, zesde lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=2&artikel=3&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing.
 
 5. [Artikel 5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) is bij het overlijden van de belastingplichtige van overeenkomstige toepassing.
 
@@ -182,7 +182,7 @@ De dividendbelasting geheven over dividenden uit rechten die tot de bezittingen,
 
 De waarde in het economische verkeer van opgebouwde aanspraken uit een pensioenregeling als bedoeld in [artikel 3.83 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83) wordt gesteld op de bedragen die bij een derde zouden moeten worden gestort ten einde de aanspraken te dekken.
 
-##### Artikel 14. Uitgaven voor inkomensvoorzieningen; toegelaten aanbieders
+##### Artikel 14. Uitgaven voor inkomensvoorzieningen via een lijfrenteverzekering; toegelaten aanbieders
 
 1. Als een lichaam dat bevoegd het verzekeringsbedrijf uitoefent als bedoeld in [artikel 3.126, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126) kan door Onze Minister worden aangewezen een verzekeraar die op grond van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) bevoegd is diensten naar Nederland te verrichten.
 
@@ -195,6 +195,8 @@ De waarde in het economische verkeer van opgebouwde aanspraken uit een pensioenr
 5. De aanwijzing kan door Onze Minister worden ingetrokken wanneer de verzekeraar of het pensioenfonds niet meer aan de verplichtingen met betrekking tot het verschaffen van inlichtingen of het stellen van zekerheid voldoet of niet aan een juiste wijze van uitvoering van een verpanding of van de in het derde lid bedoelde overeenkomst inzake aansprakelijkheid meewerkt.
 
 6. Indien de aanwijzing wordt ingetrokken, worden bij de verzekeringnemers van de bij deze verzekeraar of dit pensioenfonds gesloten lijfrenteovereenkomsten, dan wel indien een verzekeringnemer is overleden, bij de gerechtigden tot de lijfrenten, geen negatieve uitgaven voor inkomensvoorzieningen in aanmerking genomen indien de lijfrenten onder door Onze Minister te stellen voorwaarden alsnog overgaan op een toegelaten aanbieder als bedoeld in [artikel 3.126, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126).
+
+7. Onze Minister maakt het aanwijzen als een lichaam als bedoeld in het eerste lid, dan wel het aanwijzen als een pensioenfonds als bedoeld in het tweede lid, op een daartoe geschikte wijze publiek bekend. Indien Onze Minister een aanwijzing intrekt, maakt hij die intrekking ook op een daartoe geschikte wijze publiek bekend.
 
 ##### Artikel 15. Uitgaven voor inkomensvoorzieningen; in aanmerking te nemen premies voor lijfrenten; waardeaangroei
 
@@ -261,7 +263,7 @@ De waarde in het economische verkeer van opgebouwde aanspraken uit een pensioenr
 
 12. Voor de toepassing van het eerste tot en met het elfde lid worden met de [artikelen 4.16, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16), [7.5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.5), en [4.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.18) achtereenvolgens gelijkgesteld de artikelen 20a, zesde lid, onderdeel i, 49, vijfde lid, en 20a, achtste lid, van de Wet op de inkomstenbelasting 1964 zoals deze artikelonderdelen luidden op 31 december 2000. Met de artikelen [25, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), en [26, derde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) worden achtereenvolgens gelijkgesteld de artikelen [25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), en [26, tweede lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) zoals deze artikelonderdelen luidden op 31 december 2000.
 
-### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen ([Hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5))
+### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang ([Hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4))
 
 ##### Artikel 17. Vrijstellingen; vrijstelling bos- en natuurterreinen en landgoederen
 
@@ -269,7 +271,7 @@ Onder natuurterreinen als bedoeld in [artikel 5.7 van de wet](https://wetten.ove
 
 ##### Artikel 18. Waardering; waardering genotsrechten
 
-1. De waarde van een genotsrecht als bedoeld in [artikel 5.22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22) wordt gesteld op het overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=19&z=2008-08-01&g=2008-08-01) tot kapitaal gebrachte bedrag van de jaarlijkse voordelen uit de gerechtigdheid.
+1. De waarde van een genotsrecht als bedoeld in [artikel 5.22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22) wordt gesteld op het overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=19&z=2009-01-01&g=2009-01-01) tot kapitaal gebrachte bedrag van de jaarlijkse voordelen uit de gerechtigdheid.
 
 2. Voor de toepassing van het eerste lid worden de jaarlijkse voordelen gesteld op 4% van de waarde van hetgeen aan het genotsrecht is onderworpen, naar het tijdstip waarop de waardering van het genotsrecht plaatsvindt.
 
@@ -360,11 +362,11 @@ De overeenkomstig de eerste volzin vastgestelde waarde kan niet meer bedragen da
 
 ##### Artikel 19a. Aangewezen drukkende uitgaven
 
-Bij de bepaling van de omvang van hetgeen op de belastingplichtige aan buitengewone uitgaven drukt blijven buiten beschouwing:
+Bij de bepaling van de omvang van hetgeen op de belastingplichtige aan uitgaven voor specifieke zorgkosten drukt blijven buiten beschouwing:
 
-- a. bijzondere bijstand in de zin van de [artikelen 35, eerste en derde lid, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=35) en [10, tweede lid, van de Invoeringswet Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015704&artikel=10), die, ondanks een aanspraak op deze bijzondere bijstand, niet is genoten en niet wordt genoten;
+- a. bijzondere bijstand in de zin van [artikel 35, eerste, derde en vierde lid, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=35) die, ondanks een aanspraak op deze bijzondere bijstand, niet is genoten en niet wordt genoten;
 
-- b. tegemoetkomingen in de zin van het [Tijdelijk besluit tegemoetkoming buitengewone uitgaven](https://wetten.overheid.nl/jci1.3:c:BWBR0016555).
+- b. tegemoetkomingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=2) en [10 van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=10).
 
 ##### Artikel 20. Definities ernstig gehandicapt en zorgafhankelijk
 
@@ -374,11 +376,7 @@ Bij de bepaling van de omvang van hetgeen op de belastingplichtige aan buitengew
 
 ##### Artikel 20a. Hulpmiddelen
 
-Tot de andere hulpmiddelen, bedoeld in [artikel 6.17, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17) worden gerekend:
-
-- aanpassingen van een woning, woonboot, woonwagen of aanhorigheid daarvan, die vanwege een functiebeperking op medisch voorschrift zijn aangebracht ten behoeve van een persoon als bedoeld in [artikel 6.16, onderdelen a en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16), voorzover de aanpassingen niet leiden tot een waardevermeerdering van de woning, woonboot, woonwagen of aanhorigheid daarvan welke uitgaat boven tien procent van de op de belastingplichtige drukkende aanpassingskosten;
-
-- zaken en aanpassingen van zaken, niet zijnde een aanpassing van een woning, woonboot, woonwagen of aanhorigheid daarvan, ten behoeve van een persoon als bedoeld in [artikel 6.16, onderdelen a en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16), voorzover deze zaken en aanpassingen van een zodanige aard zijn dat zij hoofdzakelijk door zieke of invalide personen worden gebruikt.
+Vervallen
 
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([Hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
@@ -388,13 +386,13 @@ Tot de andere hulpmiddelen, bedoeld in [artikel 6.17, eerste lid, onderdeel a, v
 
 2. Voor de toepassing van het eerste lid wordt met [artikel 26, tweede en vierde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) gelijkgesteld [artikel 26, tweede lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) zoals dit artikel luidde tot 1 januari 2001.
 
-### Hoofdstuk 7A. Wijze van heffing ([Hoofdstuk 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=9))
+### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([Hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
 ##### Artikel 21a. Als voorheffing aangewezen bronbelasting
 
 Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Guernsey, Isle of Man, Jersey, Liechtenstein, Monaco, Nederlandse Antillen, San Marino, Turks and Caicos Islands en Zwitserland geheven bronbelasting over een uit die mogendheid als uiteindelijk gerechtigde als bedoeld in artikel 2 van de [richtlijn nr. 2003/48/EG](32003L0048) van de Raad van de Europese Unie van 3 juni 2003 betreffende belastingheffing op inkomsten uit spaargelden in de vorm van rentebetaling (PbEU L 157), genoten rentebetaling, mits de bronbelasting vergelijkbaar is met die in artikel 11 van die richtlijn en de rentebetaling valt onder de begripsomschrijving van artikel 6 van die richtlijn.
 
-### Hoofdstuk 8. Aanvullende regelingen ([Hoofdstuk 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10))
+### Hoofdstuk 7A. Wijze van heffing ([Hoofdstuk 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=9))
 
 ##### Artikel 22. Overige aanvullende regelingen; verstrekken van gegevens en inlichtingen
 
@@ -478,7 +476,7 @@ Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Guernsey
 
 ##### Artikel 24
 
-[Artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=12&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop [hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel.
+[Artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=12&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop [hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel.
 
 ##### Artikel 25. Overgangsbepaling opgave waardeaangroei
 
@@ -525,6 +523,26 @@ Als nationale regelgeving die leidt tot herstructurering van een bedrijfstak als
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([Hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
 ### Hoofdstuk 7A. Wijze van heffing ([Hoofdstuk 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=9))
+
+### Hoofdstuk 8. Aanvullende regelingen ([Hoofdstuk 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10))
+
+### Hoofdstuk 9. Overgangs- en slotbepalingen ([Hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 14a. Uitgaven voor inkomensvoorzieningen via een lijfrentespaarrekening of een lijfrentebeleggingsrecht; toegelaten aanbieders
+
+1. Als een onderneming of instelling die bevoegd als kredietinstelling of als beheerder van een beleggingsinstelling optreedt als bedoeld in [artikel 3.126a, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a) kan door Onze Minister worden aangewezen een onderneming of instelling die op grond van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) bevoegd is diensten naar Nederland te verrichten.
+
+2. Alvorens tot een aanwijzing wordt overgegaan, dient de onderneming of instelling zich tegenover Onze Minister, onder door hem te stellen voorwaarden, te verplichten om met betrekking tot de bij deze onderneming of instelling aangehouden lijfrentespaarrekeningen, onderscheidenlijk met betrekking tot de door deze onderneming of instelling beheerde lijfrentebeleggingsrechten, bedoeld in [artikel 3.126a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a), inlichtingen te verstrekken over de uitvoering van de overeenkomsten en een in Nederland uitwinbare zekerheid jegens de ontvanger te stellen voor de invordering van de belasting die mocht worden verschuldigd door toepassing van de [artikelen 3.133](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133), [3.135](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.135) of [3.136 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.136). In afwijking van de eerste volzin behoeft een in een van de lidstaten van de Europese Unie gevestigde onderneming of instelling jegens de ontvanger geen in Nederland uitwinbare zekerheid te stellen indien deze onderneming of instelling, onder door Onze Minister te stellen voorwaarden, ingevolge een overeenkomst met de ontvanger aansprakelijkheid aanvaardt voor de in die volzin bedoelde belasting.
+
+3. De aanwijzing kan eveneens plaatsvinden indien de in het tweede lid bedoelde zekerheid niet door de onderneming of instelling maar door de belastingplichtige wordt gesteld, waarbij de belastingplichtige tevens de mogelijkheid heeft zekerheid te stellen door middel van verpanding van de aanspraken op het tegoed van een lijfrentespaarrekening, onderscheidenlijk van de aanspraken op de waarde van een lijfrentebeleggingsrecht aan de ontvanger, mits de onderneming of instelling instemt met deze verpanding.
+
+4. [Artikel 14, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=14&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing.
+
+### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen ([Hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5))
+
+### Hoofdstuk 6. Persoonsgebonden aftrek ([Hoofdstuk 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6))
 
 ### Hoofdstuk 8. Aanvullende regelingen ([Hoofdstuk 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10))
 
