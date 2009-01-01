@@ -171,9 +171,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Besluit tegemoetkoming specifieke zorgkosten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 12a
-
-Dit besluit berust mede op [artikel 46, tweede lid, van de Uitvoeringswet Algemene Verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=46).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
