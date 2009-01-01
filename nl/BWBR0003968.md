@@ -4,7 +4,7 @@ identifier: "BWBR0003968"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2008-02-22"
+last_updated: "2009-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003968"
 soort: "wet"
@@ -96,7 +96,7 @@ Vervallen
 
 1. De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de **Staatscourant** is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.
 
-2. Ten aanzien van de in de artikelen 35, eerste lid en 43, derde lid, bedoelde algemene maatregelen van bestuur is het eerste lid niet van toepassing.
+2. Ten aanzien van de in [artikel 43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Achtste&artikel=43&z=2009-01-01&g=2009-01-01), bedoelde algemene maatregel van bestuur is het eerste lid niet van toepassing.
 
 ### hoofdstuk Tweede. Het buitengewoon pensioen van de deelnemers aan het verzet
 
@@ -138,9 +138,9 @@ Het blijvend buitengewoon pensioen wordt toegekend, indien, hetzij bij eerste to
 
 1. Ingeval krachtens deze wet aanspraak op buitengewoon pensioen bestaat, stelt de Raad de pensioengrondslag vast, waarnaar het buitengewoon pensioen wordt berekend.
 
-- a. Indien de deelnemer aan het verzet voor het bereiken van de leeftijd, waarop gelijksoortige valide personen in de regel hun werkzaamheden beëindigen, ten gevolge van de verwonding, verminking, ziekten of gebreken, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2008-02-22&g=2008-02-22), gedwongen werd of wordt zijn werkzaamheden in beroep of bedrijf te beëindigen of blijvend te verminderen, wordt de pensioengrondslag vastgesteld naar het inkomen uit arbeid, dat de deelnemer aan het verzet ten tijde van de aanvraag, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2008-02-22&g=2008-02-22), in Nederland, ware hij niet invalide geweest, zou hebben genoten uit het door hem uitgeoefende beroep of bedrijf, waarin hij voor het eerst ten gevolge van zijn invaliditeit zijn werkzaamheden moest beëindigen of blijvend verminderen;
+- a. Indien de deelnemer aan het verzet voor het bereiken van de leeftijd, waarop gelijksoortige valide personen in de regel hun werkzaamheden beëindigen, ten gevolge van de verwonding, verminking, ziekten of gebreken, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2009-01-01&g=2009-01-01), gedwongen werd of wordt zijn werkzaamheden in beroep of bedrijf te beëindigen of blijvend te verminderen, wordt de pensioengrondslag vastgesteld naar het inkomen uit arbeid, dat de deelnemer aan het verzet ten tijde van de aanvraag, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2009-01-01&g=2009-01-01), in Nederland, ware hij niet invalide geweest, zou hebben genoten uit het door hem uitgeoefende beroep of bedrijf, waarin hij voor het eerst ten gevolge van zijn invaliditeit zijn werkzaamheden moest beëindigen of blijvend verminderen;
 
-- b. indien de deelnemer aan het verzet, bedoeld onder a, na het tot uiting komen van de invaliditeit ten gevolge waarvan hij zijn werkzaamheden in beroep of bedrijf heeft moeten beëindigen of blijvend verminderen, arbeid heeft aanvaard in een ander beroep of bedrijf, wordt, indien dat voor hem gunstiger is, de pensioengrondslag vastgesteld naar het inkomen dat de deelnemer aan het verzet ten tijde van de aanvraag, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Vijfde&artikel=26&z=2008-02-22&g=2008-02-22), in Nederland uit arbeid in laatstbedoeld beroep of bedrijf zou hebben genoten, indien hij deze werkzaamheden door of in verband met zijn invaliditeit niet had moeten beëindigen of blijvend verminderen;
+- b. indien de deelnemer aan het verzet, bedoeld onder a, na het tot uiting komen van de invaliditeit ten gevolge waarvan hij zijn werkzaamheden in beroep of bedrijf heeft moeten beëindigen of blijvend verminderen, arbeid heeft aanvaard in een ander beroep of bedrijf, wordt, indien dat voor hem gunstiger is, de pensioengrondslag vastgesteld naar het inkomen dat de deelnemer aan het verzet ten tijde van de aanvraag, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Vijfde&artikel=26&z=2009-01-01&g=2009-01-01), in Nederland uit arbeid in laatstbedoeld beroep of bedrijf zou hebben genoten, indien hij deze werkzaamheden door of in verband met zijn invaliditeit niet had moeten beëindigen of blijvend verminderen;
 
 - c. onder arbeid in een ander beroep of bedrijf, bedoeld onder b, wordt verstaan: arbeid, welke gedurende een aaneengesloten periode van tenminste drie jaar in de voor dat beroep of bedrijf gebruikelijke arbeidstijd is verricht;
 
@@ -152,9 +152,9 @@ Het blijvend buitengewoon pensioen wordt toegekend, indien, hetzij bij eerste to
 
 5. Bij door Onze Minister te stellen regelen wordt bepaald wat onder inkomen uit arbeid in beroep of bedrijf, bedoeld in het tweede lid, moet worden verstaan.
 
-6. Indien de deelnemer aan het verzet vóór het tot uiting komen van zijn invaliditeit ten gevolge van de verwonding, verminking, ziekten of gebreken, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2008-02-22&g=2008-02-22), door of in verband met het volgen van onderwijs nog geen arbeid in beroep of bedrijf uitoefende, en hij ten gevolge van die invaliditeit nimmer in staat is geweest door arbeid in beroep of bedrijf een inkomen te verwerven dat in overeenstemming was met het niveau van het gevolgde onderwijs, wordt de pensioengrondslag vastgesteld met inachtneming van door Onze Minister te stellen regelen.
+6. Indien de deelnemer aan het verzet vóór het tot uiting komen van zijn invaliditeit ten gevolge van de verwonding, verminking, ziekten of gebreken, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2009-01-01&g=2009-01-01), door of in verband met het volgen van onderwijs nog geen arbeid in beroep of bedrijf uitoefende, en hij ten gevolge van die invaliditeit nimmer in staat is geweest door arbeid in beroep of bedrijf een inkomen te verwerven dat in overeenstemming was met het niveau van het gevolgde onderwijs, wordt de pensioengrondslag vastgesteld met inachtneming van door Onze Minister te stellen regelen.
 
-7. Indien de deelnemer aan het verzet ten tijde van het tot uiting komen van de invaliditeit, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2008-02-22&g=2008-02-22), niet was aangewezen op inkomen uit arbeid in beroep of bedrijf dan wel de leeftijd heeft of had bereikt waarop gelijksoortige valide personen in de regel hun werkzaamheden beëindigen dan wel indien die invaliditeit niet heeft geleid tot beëindiging of vermindering van zijn werkzaamheden in beroep of bedrijf, wordt de pensioengrondslag vastgesteld op het bedrag genoemd in het achtste lid, onder a.
+7. Indien de deelnemer aan het verzet ten tijde van het tot uiting komen van de invaliditeit, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=1&artikel=6&z=2009-01-01&g=2009-01-01), niet was aangewezen op inkomen uit arbeid in beroep of bedrijf dan wel de leeftijd heeft of had bereikt waarop gelijksoortige valide personen in de regel hun werkzaamheden beëindigen dan wel indien die invaliditeit niet heeft geleid tot beëindiging of vermindering van zijn werkzaamheden in beroep of bedrijf, wordt de pensioengrondslag vastgesteld op het bedrag genoemd in het achtste lid, onder a.
 
 8. De pensioengrondslag bedraagt per 1 januari 1983 op jaarbasis:
 
@@ -227,25 +227,23 @@ Tenzij de belanghebbende reeds op grond van het bepaalde in artikel 12 recht hee
 
 1. Bij of krachtens algemene maatregel van bestuur worden met inachtneming van de volgende leden regelen vastgesteld betreffende de inkomsten, die voor verrekening met het buitengewoon pensioen in aanmerking komen.
 
-- a. De over enig kalenderjaar genoten inkomsten van de betrokkene worden op het buitengewoon pensioen in mindering gebracht voor het bedrag, waarmede het buitengewoon pensioen, ongeacht de vermeerdering of vergoeding ingevolge de artikelen 12, 13, 14 en 15, vermeerderd met de inkomsten uit vermogen, alsmede met 75% van het genoten pensioen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) (**Stb.** 1965, 429) en de uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en 70% van de overige inkomsten de grondslag, waarover het buitengewoon pensioen is berekend, overschrijdt.
+- a. De inkomsten van de betrokkene worden op het buitengewoon pensioen in mindering gebracht voor het bedrag, waarmede het buitengewoon pensioen, ongeacht de vermeerdering of vergoeding ingevolge de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=12&z=2009-01-01&g=2009-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=13&z=2009-01-01&g=2009-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=14&z=2009-01-01&g=2009-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=15&z=2009-01-01&g=2009-01-01), vermeerderd met de inkomsten uit vermogen, alsmede met 75% van het genoten pensioen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) (**Stb.** 1965, 429) en de uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en 70% van de overige inkomsten de grondslag, waarover het buitengewoon pensioen is berekend, overschrijdt.
 
-- b. Tot de inkomsten van betrokkene als bedoeld onder **a** worden niet gerekend:
+- b. Tot de inkomsten van betrokkene als bedoeld onder a worden niet gerekend:
 
 - 1e. inkomsten uit arbeid indien de betrokkene 65 jaar of ouder is;
 
 - 2e. inkomsten uit arbeid, arbeidsvervangende inkomsten en inkomsten uit onderneming van zijn echtgenoot;
 
-- 3e. inkomsten uit vermogen, tot een bedrag van f 984,-per 1 januari 2008: zevenhonderdenvierenvijftig euro en zevenenzeventig eurocent.
+- 3e. inkomsten uit vermogen, tot een bedrag van f 984,-per 1 januari 2009: zevenhonderdenvijfenzeventig euro en zesenzeventig eurocent.
 
-3. Indien op grond van hetzelfde feit, als waaraan het genot van een buitengewoon pensioen wordt ontleend, gelijktijdig een uitkering, een pensioen of andere inkomsten worden genoten ten laste van het Rijk, de Republiek Suriname, de Nederlandse Antillen, Aruba, de Republiek Indonesië, een publiekrechtelijk lichaam in een van deze gebieden of een door het openbaar gezag aldaar ingesteld fonds, wordt het bedrag van het buitengewoon pensioen, ongeacht de vermeerdering of vergoeding ingevolge de artikelen 12, 13, 14 en 15, met het bedrag van die uitkering, dat pensioen of die andere inkomsten verminderd, nadat daarvan is afgetrokken het bedrag der compensatie ter zake van de premie ingevolge de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), hetwelk daarin is of naar de voor de buitengewone pensioen geldende wettelijke maatstaven moet worden geacht te zijn begrepen. Voor zover echter die uitkering, dat pensioen of die andere inkomsten worden genoten uit hoofde van een vrijwillige verzekering, welke werd gesloten op grond van een wettelijk verleende bevoegdheid, of uit hoofde van een verplichte verzekering, welke voor eigen rekening is voortgezet, en door de Raad als zodanig wordt aangemerkt, dan wel krachtens een wettelijke regeling van overeenkomstige strekking als de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), is het bepaalde in de vorige volzin niet van toepassing. Indien onder het pensioen of andere inkomsten, bedoeld in de eerste volzin zijn begrepen bedragen, welke worden genoten krachtens in andere wettelijke regelingen voorkomende bepalingen van overeenkomstige strekking als die van de artikelen 12, 13, 14 en 15 worden die bedragen niet op het buitengewoon pensioen in mindering gebracht; is evenwel een vermeerdering of vergoeding ingevolge de artikelen 12, 13, 14 en 15 toegekend, dan wordt die vermeerdering of vergoeding verminderd met het bedrag, dat genoten wordt krachtens de met die artikelen overeenkomende bepalingen in andere wettelijke regelingen.
+3. Indien op grond van hetzelfde feit, als waaraan het genot van een buitengewoon pensioen wordt ontleend, gelijktijdig een uitkering, een pensioen of andere inkomsten worden genoten ten laste van het Rijk, de Republiek Suriname, de Nederlandse Antillen, Aruba, de Republiek Indonesië, een publiekrechtelijk lichaam in een van deze gebieden of een door het openbaar gezag aldaar ingesteld fonds, wordt het bedrag van het buitengewoon pensioen, ongeacht de vermeerdering of vergoeding ingevolge de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=12&z=2009-01-01&g=2009-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=13&z=2009-01-01&g=2009-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=14&z=2009-01-01&g=2009-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=15&z=2009-01-01&g=2009-01-01), met het bedrag van die uitkering, dat pensioen of die andere inkomsten verminderd, nadat daarvan is afgetrokken het bedrag der compensatie ter zake van de premie ingevolge de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), hetwelk daarin is of naar de voor de buitengewone pensioen geldende wettelijke maatstaven moet worden geacht te zijn begrepen. Voor zover echter die uitkering, dat pensioen of die andere inkomsten worden genoten uit hoofde van een vrijwillige verzekering, welke werd gesloten op grond van een wettelijk verleende bevoegdheid, of uit hoofde van een verplichte verzekering, welke voor eigen rekening is voortgezet, en door de Raad als zodanig wordt aangemerkt, dan wel krachtens een wettelijke regeling van overeenkomstige strekking als de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), is het bepaalde in de vorige volzin niet van toepassing. Indien onder het pensioen of andere inkomsten, bedoeld in de eerste volzin zijn begrepen bedragen, welke worden genoten krachtens in andere wettelijke regelingen voorkomende bepalingen van overeenkomstige strekking als die van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=12&z=2009-01-01&g=2009-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=13&z=2009-01-01&g=2009-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=14&z=2009-01-01&g=2009-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=15&z=2009-01-01&g=2009-01-01) worden die bedragen niet op het buitengewoon pensioen in mindering gebracht; is evenwel een vermeerdering of vergoeding ingevolge de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=12&z=2009-01-01&g=2009-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=13&z=2009-01-01&g=2009-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=14&z=2009-01-01&g=2009-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=15&z=2009-01-01&g=2009-01-01) toegekend, dan wordt die vermeerdering of vergoeding verminderd met het bedrag, dat genoten wordt krachtens de met die artikelen overeenkomende bepalingen in andere wettelijke regelingen.
 
 4. Tot de inkomsten bedoeld in dit artikel worden niet gerekend uitkeringen onder welke benaming ook ingevolge of op de voet van de [Wet uitkeringen vervolgingsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844) (**Stb.** 1977, 494), de [Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664) (**Stb.** 1984, 94) en de Algemene Oorlogsongevallenregeling (Indonesië) (**Stb.** Ned.-Indië 1946, nr. 48) dan wel de kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) (**Stb.** 1980, 1).
 
-5. De inkomsten worden aanvankelijk voorlopig geschat. Dit geschiedt voor de eerste maal bij de toekenning van het buitengewoon pensioen en daarna zo vaak zulks door de Raad nodig wordt geoordeeld. Na afloop van elk kalenderjaar worden de inkomsten definitief vastgesteld. Bedragen zij minder dan is geschat, dan wordt het te veel ingehoudene alsnog uitgekeerd; in het tegenovergestelde geval wordt het te weinig ingehoudene hetzij teruggevorderd, hetzij door de Raad in door deze te bepalen termijnen op de gepensioneerde of diens rechtverkrijgende(n) verhaald.
-
 ##### Artikel 17
 
-Het bedrag, genoemd in [artikel 16, tweede lid, onder b, ten derde](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=16&z=2008-02-22&g=2008-02-22), wordt door Onze Minister telkens herzien met ingang van 1 januari, indien en voor zover de ontwikkeling van de consumentenprijsindex in de periode 1 november tot en met 31 oktober daaraan voorafgaand, daartoe aanleiding geeft.
+Het bedrag, genoemd in [artikel 16, tweede lid, onder b, ten derde](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=16&z=2009-01-01&g=2009-01-01), wordt door Onze Minister telkens herzien met ingang van 1 januari, indien en voor zover de ontwikkeling van de consumentenprijsindex in de periode 1 november tot en met 31 oktober daaraan voorafgaand, daartoe aanleiding geeft.
 
 #### § 5. Het geneeskundig onderzoek
 
@@ -325,33 +323,33 @@ Het buitengewoon pensioen van de weduwe, wier echtgenoot over een periode van te
 
 ##### Artikel 23
 
-1. Op de buitengewone pensioenen, toegekend aan de personen, bedoeld in artikel 22, is het bepaalde in artikel 16, eerste lid, tweede lid, onder b, ten eerste, alsmede het derde, vierde en vijfde lid, van overeenkomstige toepassing.
+1. Op de buitengewone pensioenen, toegekend aan de personen, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=3&artikel=22&z=2009-01-01&g=2009-01-01), is het bepaalde in [artikel 16, eerste lid, tweede lid, onder b, ten eerste, alsmede het derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=16&z=2009-01-01&g=2009-01-01), van overeenkomstige toepassing.
 
-2. Voor zover door de weduwe of de gewezen echtgenote inkomsten uit vermogen worden genoten, worden deze voor 50% van die over enig kalenderjaar verkregen inkomsten op het buitengewoon pensioen in mindering gebracht, met dien verstande, dat indien die inkomsten minder dan € 680,67 per jaar bedragen, slechts een zodanig bedrag in mindering wordt gebracht als waarmede die inkomsten een som van € 340,34 mochten te boven gaan.
+2. Voor zover door de weduwe of de gewezen echtgenote inkomsten uit vermogen worden genoten, worden deze voor 50% van die inkomsten op het buitengewoon pensioen in mindering gebracht, met dien verstande, dat indien die inkomsten minder dan € 680,67 per jaar bedragen, slechts een zodanig bedrag in mindering wordt gebracht als waarmede die inkomsten een som van € 340,34 mochten te boven gaan.
 
-3. Voor zover door de weduwe of de gewezen echtgenote andere inkomsten dan waarop in het eerste en tweede lid wordt gedoeld, worden genoten, wordt 50% van het bedrag, waarmede die over enig kalenderjaar verkregen inkomsten de som van € 453,78 overschrijden, op het buitengewoon pensioen in mindering gebracht. Onverminderd het bepaalde in de vorige volzin worden, indien de daar bedoelde overschrijding uitsluitend of mede het gevolg is van het genot van een pensioen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) van meer dan € 453,78, van het bedrag, waarmede dat ouderdomspensioen de som van € 453,78 overschrijdt, in plaats van 50% de volgende percentages op het buitengewoon pensioen in mindering gebracht:
+3. Voor zover door de weduwe of de gewezen echtgenote andere inkomsten dan waarop in het eerste en tweede lid wordt gedoeld, worden genoten, wordt 50% van het bedrag, waarmede die inkomsten de som van € 453,78 overschrijden, op het buitengewoon pensioen in mindering gebracht. Onverminderd het bepaalde in de vorige volzin worden, indien de daar bedoelde overschrijding uitsluitend of mede het gevolg is van het genot van een pensioen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) van meer dan € 453,78, van het bedrag, waarmede dat ouderdomspensioen de som van € 453,78 overschrijdt, in plaats van 50% de volgende percentages op het buitengewoon pensioen in mindering gebracht:
 
-- a. op een buitengewoon weduwenpensioen, dat geen vermindering als bedoeld in artikel 22, onder **a** en **b**, heeft ondergaan: 60;
+- a. op een buitengewoon weduwenpensioen, dat geen vermindering als bedoeld in [artikel 22, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=3&artikel=22&z=2009-01-01&g=2009-01-01), heeft ondergaan: 60;
 
-- b. op een buitengewoon weduwenpensioen, dat een vermindering als bedoeld in artikel 22, onder **a** en **b**, heeft ondergaan: een evenredig deel van het onder **a** genoemde percentage;
+- b. op een buitengewoon weduwenpensioen, dat een vermindering als bedoeld in [artikel 22, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=3&artikel=22&z=2009-01-01&g=2009-01-01), heeft ondergaan: een evenredig deel van het onder **a** genoemde percentage;
 
-- c. op het buitengewoon pensioen van de gewezen echtgenote, bedoeld in artikel 22, onder **c** en **d**, een deel van 60%, hetwelk tot dat percentage in dezelfde verhouding staat als het aantal jaren, hetwelk in de in die artikelonderdelen genoemde berekeningsformule door de letter p onderscheidenlijk x wordt voorgesteld, zich verhoudt tot 40 jaar.
+- c. op het buitengewoon pensioen van de gewezen echtgenote, bedoeld in [artikel 22, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=3&artikel=22&z=2009-01-01&g=2009-01-01), een deel van 60%, hetwelk tot dat percentage in dezelfde verhouding staat als het aantal jaren, hetwelk in de in die artikelonderdelen genoemde berekeningsformule door de letter p onderscheidenlijk x wordt voorgesteld, zich verhoudt tot 40 jaar.
 
-Voor een buitengewoon pensioen, toegekend aan de in artikel 22, onder **b**, bedoelde weduwe alsook voor een buitengewoon pensioen, toegekend aan de gewezen echtgenote, bedoeld in artikel 22, onder **d**, wordt het op deze pensioenen ingevolge de vorige volzin in mindering te brengen bedrag beperkt tot een percentage daarvan, gelijk aan dat der invaliditeit, waarnaar het buitengewoon pensioen van de overleden echtgenoot onderscheidenlijk gewezen echtgenoot van de vrouw laatstelijk was of zou zijn berekend.
+Voor een buitengewoon pensioen, toegekend aan de in [artikel 22, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=3&artikel=22&z=2009-01-01&g=2009-01-01), bedoelde weduwe alsook voor een buitengewoon pensioen, toegekend aan de gewezen echtgenote, bedoeld in [artikel 22, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=3&artikel=22&z=2009-01-01&g=2009-01-01), wordt het op deze pensioenen ingevolge de vorige volzin in mindering te brengen bedrag beperkt tot een percentage daarvan, gelijk aan dat der invaliditeit, waarnaar het buitengewoon pensioen van de overleden echtgenoot onderscheidenlijk gewezen echtgenoot van de vrouw laatstelijk was of zou zijn berekend.
 
-4. Indien door de weduwe of de gewezen echtgenote zowel inkomsten bedoeld in het tweede lid als inkomsten bedoeld in het derde lid worden genoten, worden, in afwijking van het bepaalde aan het slot van het tweede lid, de inkomsten uit vermogen voor 50% van die over enig kalenderjaar verkregen inkomsten op het buitengewoon pensioen in mindering gebracht, met dien verstande, dat in elk geval een bedrag van € 340,34 van het totaal der inkomsten buiten mindering blijft.
+4. Indien door de weduwe of de gewezen echtgenote zowel inkomsten bedoeld in het tweede lid als inkomsten bedoeld in het derde lid worden genoten, worden, in afwijking van het bepaalde aan het slot van het tweede lid, de inkomsten uit vermogen voor 50% van die inkomsten op het buitengewoon pensioen in mindering gebracht, met dien verstande, dat in elk geval een bedrag van € 340,34 van het totaal der inkomsten buiten mindering blijft.
 
 5. Indien een uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) wordt genoten, wordt die uitkering niet gerekend tot de met het buitengewoon pensioen verrekenbare inkomsten, als in de voorgaande leden bedoeld. In dat geval worden echter, nadat de voorgaande leden zijn toegepast, van het bedrag van de uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) de volgende percentages op het buitengewoon pensioen in mindering gebracht:
 
-- a. op een buitengewoon weduwenpensioen, dat geen vermindering als bedoeld in artikel 22, onder **a** en **b**, heeft ondergaan: 60;
+- a. op een buitengewoon weduwenpensioen, dat geen vermindering als bedoeld in [artikel 22, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=3&artikel=22&z=2009-01-01&g=2009-01-01), heeft ondergaan: 60;
 
-- b. op een buitengewoon weduwenpensioen, dat een vermindering als bedoeld in artikel 22, onder **a** en **b**, heeft ondergaan: een evenredig deel van het onder **a** genoemde percentage;
+- b. op een buitengewoon weduwenpensioen, dat een vermindering als bedoeld in [artikel 22, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=3&artikel=22&z=2009-01-01&g=2009-01-01), heeft ondergaan: een evenredig deel van het onder **a** genoemde percentage;
 
-- c. op het buitengewoon pensioen van de gewezen echtgenote, bedoeld in artikel 22, onder **c** en **d**, een deel van 60%, hetwelk tot dat percentage in dezelfde verhouding staat als het aantal jaren, hetwelk in de in die artikelonderdelen genoemde berekeningsformule door de letter p onderscheidenlijk x wordt voorgesteld, zich verhoudt tot 40 jaar.
+- c. op het buitengewoon pensioen van de gewezen echtgenote, bedoeld in [artikel 22, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=3&artikel=22&z=2009-01-01&g=2009-01-01), een deel van 60%, hetwelk tot dat percentage in dezelfde verhouding staat als het aantal jaren, hetwelk in de in die artikelonderdelen genoemde berekeningsformule door de letter p onderscheidenlijk x wordt voorgesteld, zich verhoudt tot 40 jaar.
 
 Het bepaalde in de derde volzin van het derde lid van dit artikel is van overeenkomstige toepassing. Ten aanzien van degene, die aantoont, dat uit hoofde van zijn aanspraak op uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) mede een vermindering plaatsvindt van enig ander pensioen of enige andere verplichte periodieke uitkering, en dat het gezamenlijke bedrag der verminderingen 60% van het bedrag van bedoeld bodempensioen overschrijdt, wordt de vermindering, in de vorige volzinnen van dit artikellid bedoeld, zodanig beperkt, dat het inkomen van de belanghebbende zo mogelijk 40% van het bedrag van bedoeld bodempensioen meer bedraagt dan ingeval geen uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) wordt genoten.
 
-6. Het ingevolge het eerste tot en met het vijfde lid met het buitengewoon pensioen van de weduwe en/of de gewezen echtgenote wegens het genot van neveninkomsten verrekenbare bedrag wordt beperkt tot het bedrag, waarmede het buitengewoon pensioen, vermeerderd met die neveninkomsten, 65% van de in artikel 16, tweede lid, onder **a**, bedoelde grondslag overschrijdt, met dien verstande evenwel, dat de verrekening van een pensioen of uitkering als bedoeld in artikel 16, derde lid, zomede de verrekening ter zake van een genoten uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en ter zake van een genoten pensioen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) onverkort gehandhaafd blijft.
+6. Het ingevolge het eerste tot en met het vijfde lid met het buitengewoon pensioen van de weduwe en/of de gewezen echtgenote wegens het genot van neveninkomsten verrekenbare bedrag wordt beperkt tot het bedrag, waarmede het buitengewoon pensioen, vermeerderd met die neveninkomsten, 65% van de in [artikel 16, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=16&z=2009-01-01&g=2009-01-01), bedoelde grondslag overschrijdt, met dien verstande evenwel, dat de verrekening van een pensioen of uitkering als bedoeld in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=16&z=2009-01-01&g=2009-01-01), zomede de verrekening ter zake van een genoten uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en ter zake van een genoten pensioen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) onverkort gehandhaafd blijft.
 
 ### hoofdstuk Vierde
 
@@ -381,9 +379,9 @@ Vervallen
 
 1. Alvorens op een aanvraag om een buitengewoon pensioen dan wel een aanvraag erkend te worden als deelnemer aan het verzet wordt beslist, wordt een rapport opgesteld omtrent de omstandigheden waarop de aanvraag berust.
 
-2. Binnen vier maanden nadat de opdracht daartoe is ingekomen, wordt door de Stichting Pelita in de opstelling van het rapport voorzien, met dien verstande dat in de opstelling van het rapport binnen vier weken wordt voorzien, indien de aanvraag afkomstig is van een persoon als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=19&z=2008-02-22&g=2008-02-22) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=20&z=2008-02-22&g=2008-02-22) en de overledene aan wie de aanvrager zijn aanspraken wenst te ontlenen, aanspraken op deze wet heeft doen gelden.
+2. Binnen vier maanden nadat de opdracht daartoe is ingekomen, wordt door de Stichting Pelita in de opstelling van het rapport voorzien, met dien verstande dat in de opstelling van het rapport binnen vier weken wordt voorzien, indien de aanvraag afkomstig is van een persoon als bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=19&z=2009-01-01&g=2009-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=20&z=2009-01-01&g=2009-01-01) en de overledene aan wie de aanvrager zijn aanspraken wenst te ontlenen, aanspraken op deze wet heeft doen gelden.
 
-3. De Stichting Pelita voegt binnen de in het tweede lid genoemde termijn van vier maanden aan het rapport een verklaring toe dat op grond van de daarin opgenomen gegevens naar haar oordeel de aanvrager of de overledene al dan niet kan worden aangemerkt als deelnemer aan het verzet in de zin van deze wet en dat een omstandigheid als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Eerste&artikel=3&z=2008-02-22&g=2008-02-22), al dan niet aanwezig is. Indien de aanvraag afkomstig is van een persoon, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=19&z=2008-02-22&g=2008-02-22) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=20&z=2008-02-22&g=2008-02-22), en de overledene aan wie de aanvrager zijn aanspraken wenst te ontlenen aanspraken op deze wet heeft doen gelden, geeft de Stichting Pelita de verklaring, waaruit blijkt of ten aanzien van de aanvrager een omstandigheid als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Eerste&artikel=3&z=2008-02-22&g=2008-02-22), al dan niet aanwezig is, binnen de in het tweede lid gestelde termijn van vier weken af.
+3. De Stichting Pelita voegt binnen de in het tweede lid genoemde termijn van vier maanden aan het rapport een verklaring toe dat op grond van de daarin opgenomen gegevens naar haar oordeel de aanvrager of de overledene al dan niet kan worden aangemerkt als deelnemer aan het verzet in de zin van deze wet en dat een omstandigheid als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Eerste&artikel=3&z=2009-01-01&g=2009-01-01), al dan niet aanwezig is. Indien de aanvraag afkomstig is van een persoon, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=19&z=2009-01-01&g=2009-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=1&artikel=20&z=2009-01-01&g=2009-01-01), en de overledene aan wie de aanvrager zijn aanspraken wenst te ontlenen aanspraken op deze wet heeft doen gelden, geeft de Stichting Pelita de verklaring, waaruit blijkt of ten aanzien van de aanvrager een omstandigheid als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Eerste&artikel=3&z=2009-01-01&g=2009-01-01), al dan niet aanwezig is, binnen de in het tweede lid gestelde termijn van vier weken af.
 
 4. Indien de Stichting Pelita niet tijdig in de rapportage en de verklaring voorziet, kan de Raad, met instemming van de betrokkene, besluiten op andere wijze de benodigde informatie in te winnen.
 
@@ -469,15 +467,15 @@ Het buitengewoon pensioen van de weduwe en dat van een gewezen echtgenote worden
 
 ##### Artikel 35
 
-1. Indien de op 31 december 1995 reeds ingegane pensioenen en reeds bestaande uitzichten op pensioen, bedoeld in [artikel 10 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=10), ingevolge dat artikel worden aangepast aan een algemene bezoldigingswijziging, worden de pensioengrondslagen, bedoeld in artikel 10, eerste, tweede en zesde lid, naar overeenkomstige normen en voorwaarden aangepast. Onze Minister stelt de regels voor de uitvoering van de eerste volzin. Indien de algemene bezoldigingswijziging een verhoging is, werken deze regels zo nodig terug tot en met de datum waarop bedoelde algemene bezoldigingswijziging is ingegaan.
+1. Het buitengewoon pensioen of de garantietoeslag wordt door de Raad aangepast overeenkomstig de normen en voorwaarden waarmee het bedrag, genoemd in [artikel 8, eerste lid, onder a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) ingevolge [artikel 14 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14) wordt herzien.
 
-2. In dezelfde mate waarin en met ingang van hetzelfde tijdstip waarop de pensioengrondslagen ingevolge het eerste lid worden aangepast, worden bij de ministeriële regeling als in het eerste lid bedoeld, gewijzigd de bedragen, genoemd in artikel 10, achtste lid.
+2. De pensioengrondslagen, bedoeld in [artikel 10, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=3&artikel=10&z=2009-01-01&g=2009-01-01), en de bedragen, genoemd in [artikel 10, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=3&artikel=10&z=2009-01-01&g=2009-01-01), worden door Onze Minister aangepast overeenkomstig de normen en voorwaarden waarmee het bedrag, genoemd in [artikel 8, eerste lid, onder a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) ingevolge [artikel 14 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14) wordt herzien.
 
-3. De overeenkomstig het eerste en tweede lid aangepaste pensioengrondslagen en de bedragen genoemd in artikel 10, achtste lid, treden in de plaats van de pensioengrondslagen en de bedragen genoemd in artikel 10, achtste lid, zoals die golden op de dag, voorafgaande aan de datum van ingang van de aanpassing.
+3. Bij de aanpassing, bedoeld in het eerste lid, wordt uitgegaan van het laatst vastgestelde dan wel overeenkomstig het eerste lid aangepaste buitengewoon pensioen of de laatst vastgestelde dan wel overeenkomstig het eerste lid aangepaste garantietoeslag.
 
-4. Indien de op 31 december 1995 reeds ingegane pensioenen en reeds bestaande uitzichten op pensioen, bedoeld in [artikel 10 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=10), ingevolge dat artikel worden aangepast aan een eenmalige uitkering met een algemeen karakter, stelt Onze Minister de regels over de wijze waarop deze eenmalige uitkering naar overeenkomstige normen en voorwaarden leidt tot een eenmalige uitkering aan de buitengewoon gepensioneerden. Deze regels werken zo nodig terug tot en met de datum waarop de in de eerste volzin bedoelde aanpassing van pensioenen en uitzichten op pensioen plaatsvindt.
+4. De aanpassing, bedoeld in het eerste lid, vindt plaats zonder dat dit bij beschikking is vastgesteld.
 
-5. Indien daartoe naar het oordeel van de Kroon een bijzondere aanleiding bestaat, kunnen de pensioengrondslagen en de bedragen genoemd in artikel 10, achtste lid, bij algemene maatregel van bestuur met ingang van een bij die algemene maatregel van bestuur aan te geven datum worden aangepast, waarbij kan worden bepaald dat de aanpassing verschilt naar gelang de hoogte van de pensioengrondslagen en de bedragen genoemd in artikel 10, achtste lid. De ingevolge de vorige volzin aangepaste pensioengrondslagen en bedragen genoemd in artikel 10, achtste lid, treden in de plaats van de pensioengrondslagen en de bedragen genoemd in artikel 10, achtste lid , zoals die golden op de dag, voorafgaande aan de datum van ingang van de aanpassing.
+5. Het aangepaste buitengewoon pensioen of de aangepaste garantietoeslag, bedoeld in het vierde lid, wordt betaald bij de eerstvolgende betaling nadat de aanpassing heeft plaatsgevonden.
 
 ### Hoofdstuk 7A. De garantietoeslag
 
@@ -505,9 +503,7 @@ Het van toepassing zijnde normbedrag bedraagt:
 
 ##### Artikel 35c
 
-1. De garantietoeslag gaat in op de eerste dag van de maand, waarin het recht op de garantietoeslag is ontstaan.
-
-2. De hoogte van het maandinkomen, bedoeld in artikel 35**a**, wordt aanvankelijk voorlopig geschat. Na afloop van elk kalenderjaar wordt het inkomen definitief vastgesteld. Indien blijkt dat er aanspraak bestaat op een hoger bedrag aan garantietoeslag dan is uitgekeerd, dan wordt het te weinig uitgekeerde bedrag uitbetaald; in het tegenovergestelde geval wordt het te veel uitgekeerde hetzij teruggestort, hetzij door de Raad in door deze te bepalen termijnen op de gepensioneerde of diens rechtverkrijgende(n) verhaald.
+De garantietoeslag gaat in op de eerste dag van de maand, waarin het recht op de garantietoeslag is ontstaan.
 
 ### hoofdstuk Achtste. Bijzondere bepalingen aan alle buitengewone pensioenen en garantietoeslagen gemeen
 
@@ -567,17 +563,15 @@ De Raad is bevoegd geheel of gedeeltelijk van invordering af te zien van uit de 
 
 ##### Artikel 43
 
-1. Op de buitengewone pensioenen, verminderd overeenkomstig de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=16&z=2008-02-22&g=2008-02-22) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=3&artikel=23&z=2008-02-22&g=2008-02-22), en vermeerderd met de garantietoeslagen, bedoeld in artikel 35a, wordt een bedrag ingehouden, dat gelijk is aan het bedrag van de premie, dat een werkgever ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) op het overeenkomstige loon van een werknemer, die verzekerd is ingevolge die wet, inhoudt.
+1. Op de buitengewone pensioenen, verminderd overeenkomstig de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=16&z=2009-01-01&g=2009-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Derde&paragraaf=3&artikel=23&z=2009-01-01&g=2009-01-01), en vermeerderd met de garantietoeslagen, bedoeld in [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=7A&artikel=35a&z=2009-01-01&g=2009-01-01), wordt een bedrag ingehouden, dat gelijk is aan het bedrag van de premie, dat een werkgever ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) op het overeenkomstige loon van een werknemer, die verzekerd is ingevolge die wet, inhoudt.
 
 2. Indien de gepensioneerde op grond van hetzelfde feit, als waaraan het genot van een buitengewoon pensioen wordt ontleend, een uitkering geniet ingevolge de [Wet op de Arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), waarover premie ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) wordt ingehouden, wordt het eerste lid zodanig toegepast, dat het totaal van de in te houden bedragen niet meer bedraagt dan het maximaal ingevolge het eerste lid in te houden bedrag.
 
 3. Indien ingevolge de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) een premie wordt ingehouden waarvan het percentage per bedrijfstak verschilt, wordt met inachtneming van bij algemene maatregel van bestuur te stellen regelen door Onze Minister voor de toepassing van het eerste lid een gemiddeld percentage vastgesteld.
 
-4. Het bepaalde in het eerste lid is van overeenkomstige toepassing op de uitkering (overlijdensuitkering) bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Zesde&artikel=34&z=2008-02-22&g=2008-02-22).
+4. Het bepaalde in het eerste lid is van overeenkomstige toepassing op de uitkering (overlijdensuitkering) bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Zesde&artikel=34&z=2009-01-01&g=2009-01-01).
 
 5. Het eerste en tweede lid zijn niet van toepassing indien de buitengewoon pensioengerechtigde 65 jaar of ouder is.
-
-6. Onze Minister kan nadere en zonodig afwijkende regelen stellen met betrekking tot de berekening van de ingevolge het eerste lid op de aldaar bedoelde buitengewone pensioenen in te houden bedragen.
 
 ### hoofdstuk Negende. Bezwaar en beroep
 
@@ -655,7 +649,7 @@ Vervallen
 
 Vervallen
 
-### hoofdstuk Twaalfde. Ministerieel toezicht
+### hoofdstuk Elfde. Verstrekken van inlichtingen
 
 ##### Artikel 53
 
@@ -731,9 +725,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Het in aanmerking te nemen bijdrage-inkomen bedraagt op jaarbasis ten hoogste het bedrag, bedoeld in [artikel 43, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=43).
 
-4. In afwijking van [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=16&z=2008-02-22&g=2008-02-22), worden de toeslagen, bedoeld in het eerste en tweede lid, in de maand waarin de betaling plaatsvindt definitief vastgesteld.
-
-5. Op de toeslagen, bedoeld in het eerste en tweede lid, is het [achtste hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Achtste&z=2008-02-22&g=2008-02-22) van toepassing, met uitzondering van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Achtste&artikel=36&z=2008-02-22&g=2008-02-22) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Achtste&artikel=41&z=2008-02-22&g=2008-02-22).
+4. Op de toeslagen, bedoeld in het eerste en tweede lid, is het [achtste hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Achtste&z=2009-01-01&g=2009-01-01) van toepassing, met uitzondering van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Achtste&artikel=36&z=2009-01-01&g=2009-01-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Achtste&artikel=41&z=2009-01-01&g=2009-01-01).
 
 ### hoofdstuk Achtste. Bijzondere bepalingen aan alle buitengewone pensioenen en garantietoeslagen gemeen
 
@@ -742,6 +734,44 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 ### hoofdstuk Tiende. Wijziging en herziening van gegeven beschikkingen
 
 ### hoofdstuk Elfde. Verstrekken van inlichtingen
+
+### hoofdstuk Twaalfde. Ministerieel toezicht
+
+### hoofdstuk Dertiende. Wijziging andere wetten
+
+### hoofdstuk Veertiende. Slotbepalingen
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 49b
+
+1. Het buitengewoon pensioen of de garantietoeslag wordt, met uitzondering van de op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=3&artikel=10&z=2009-01-01&g=2009-01-01) vastgestelde pensioengrondslag en het invaliditeitspercentage, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=11&z=2009-01-01&g=2009-01-01), opnieuw vastgesteld:
+
+- a. wanneer de pensioengerechtigde of zijn echtgenoot de 65-jarige leeftijd bereikt;
+
+- b. wanneer de pensioengerechtigde in het huwelijk treedt of zijn huwelijk wordt beëindigd door echtscheiding of overlijden van zijn echtgenoot;
+
+- c. wanneer de pensioengerechtigde duurzaam gescheiden van zijn echtgenoot gaat leven;
+
+- d. wanneer een kind of pleegkind van de pensioengerechtigde meerderjarig wordt;
+
+- e. wanneer de pensioengerechtigde aanspraak maakt op de betaling uit een nieuwe bron van inkomsten, of
+
+- f. wanneer de pensioengerechtigde geen aanspraak meer kan maken op de betaling uit een bron van inkomsten, tenzij hij het vervallen van die aanspraak heeft bewerkstelligd.
+
+2. Het eerste lid, onder e en f, is van overeenkomstige toepassing op de inkomsten van de echtgenoot van de pensioengerechtigde, voor zover die inkomsten de hoogte van het buitengewoon pensioen of de garantietoeslag mede bepalen.
+
+3. De beschikking, bedoeld in het eerste en tweede lid, wordt genomen binnen 13 weken nadat de noodzakelijke gegevens ter kennis van de Raad zijn gebracht.
+
+4. Hetgeen als gevolg van een beschikking als bedoeld in het eerste of tweede lid te veel dan wel te weinig is uitbetaald, wordt door de Raad teruggevorderd of verrekend dan wel nabetaald. De terugvordering kan in door de Raad te bepalen termijnen plaatsvinden.
+
+##### Artikel 49c
+
+1. Op aanvraag van de gerechtigde wordt het buitengewoon pensioen of de garantietoeslag, met uitzondering van de op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=3&artikel=10&z=2009-01-01&g=2009-01-01) vastgestelde pensioengrondslag en het invaliditeitspercentage, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Tweede&paragraaf=4&artikel=11&z=2009-01-01&g=2009-01-01), opnieuw vastgesteld indien het vast te stellen pensioen ten minste 1% van de op de datum van deze aanvraag geldende pensioengrondslag of de vast te stellen garantietoeslag ten minste 1% van de op de datum van deze aanvraag geldende minimum-pensioengrondslag op maandbasis hoger is dan het laatst vastgestelde of aangepaste pensioen of de laatst vastgestelde of aangepaste garantietoeslag, mits dit niet uitsluitend het gevolg is van de koersomrekening van inkomsten die door de gerechtigde of zijn echtgenoot worden ontvangen.
+
+2. Indien toepassing is gegeven aan het eerste lid gaat het opnieuw vastgestelde buitengewoon pensioen of de opnieuw vastgestelde garantietoeslag in op de eerste dag van de maand waarin de aanvraag is ingediend.
+
+3. Op een beschikking, voortvloeiende uit de toepassing van het eerste lid, is [artikel 28, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&hoofdstuk=Vijfde&artikel=28&z=2009-01-01&g=2009-01-01), van overeenkomstige toepassing.
 
 ### hoofdstuk Twaalfde. Ministerieel toezicht
 
