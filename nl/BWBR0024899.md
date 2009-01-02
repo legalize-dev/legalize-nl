@@ -4,7 +4,7 @@ identifier: "BWBR0024899"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-06-16"
-last_updated: "2009-01-01"
+last_updated: "2009-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024899"
 soort: "ministeriele-regeling"
@@ -210,9 +210,9 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel VII
 
-1. Voor zover nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2009-01-01&g=2009-01-01), plaats.
+1. Voor zover nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2009-01-01&g=2009-01-02), plaats.
 
-2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2009-01-01&g=2009-01-01), blijven in stand.
+2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2009-01-01&g=2009-01-02), blijven in stand.
 
 3. Indien innovatievouchers op basis van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019805&artikel=2), of [3, eerste lid van de Subsidieregeling innovatievouchers](https://wetten.overheid.nl/jci1.3:c:BWBR0019805&artikel=3) zijn afgegeven voor de inwerkingtreding van deze regeling en deze vouchers nog niet zijn ingediend, blijft de [Subsidieregeling innovatievouchers](https://wetten.overheid.nl/jci1.3:c:BWBR0019805) van toepassing voor de indiening van deze innovatievouchers.
 
