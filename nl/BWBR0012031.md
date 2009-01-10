@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2009-01-01"
+last_updated: "2009-01-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -331,7 +331,7 @@ De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](https://wetten
 
 4. De aanwijzing vindt plaats met ingang van de datum waarop het verzoek is ingediend, dan wel met ingang van een latere datum indien daarom is verzocht.
 
-5. De inspecteur maakt het aanwijzen als een fonds als bedoeld in [artikel 28, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=28&z=2012-01-01&g=2009-01-01), op een daartoe geschikte wijze publiek bekend. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking ook op een daartoe geschikte wijze publiek bekend.
+5. De inspecteur maakt het aanwijzen als een fonds als bedoeld in [artikel 28, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=28&z=2012-01-01&g=2009-01-10), op een daartoe geschikte wijze publiek bekend. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking ook op een daartoe geschikte wijze publiek bekend.
 
 ##### Artikel 30. Beleggingen in durfkapitaal; vrijstelling directe beleggingen in durfkapitaal; beginnende ondernemer-natuurlijke persoon
 
@@ -393,7 +393,7 @@ Onder een geregistreerde, achtergestelde geldlening als bedoeld in [artikel 5.17
 
 4. Als een deelneming als bedoeld in [artikel 5.18, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18) wordt aangemerkt de deelneming waarbij het in de rechtspersoon te storten kapitaal dient ter financiering van bestanddelen die tot het verplichte ondernemingsvermogen zouden behoren indien de onderneming van de rechtspersoon voor rekening van een natuurlijk persoon zou worden gedreven.
 
-5. Met betrekking tot het verzoek om aanwijzing als participatiemaatschappij, de afhandeling van dat verzoek, de informatieverstrekking , de intrekking, alsmede het publiek bekend maken van de aanwijzing en intrekking van de aanwijzing zijn de [artikelen 29 tot en met 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29&z=2012-01-01&g=2009-01-01) van overeenkomstige toepassing.
+5. Met betrekking tot het verzoek om aanwijzing als participatiemaatschappij, de afhandeling van dat verzoek, de informatieverstrekking , de intrekking, alsmede het publiek bekend maken van de aanwijzing en intrekking van de aanwijzing zijn de [artikelen 29 tot en met 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29&z=2012-01-01&g=2009-01-10) van overeenkomstige toepassing.
 
 ##### Artikel 33a. Beleggingen in durfkapitaal; vrijstelling culturele beleggingen
 
@@ -447,64 +447,64 @@ Ingeval een beginnende ondernemer binnen de eerste acht jaren na het verstrekken
 
 4. Voor de toepassing van de vorige leden is beslissend de toestand bij het begin van het kalenderkwartaal.
 
-##### Artikel 37. Buitengewone uitgaven; uitgaven wegens ziekte, invaliditeit en bevalling; dieetkosten
+##### Artikel 37. Uitgaven voor specifieke zorgkosten; dieetkosten
 
-1. De extra uitgaven voor een op medisch voorschrift gehouden dieet, die meer bedragen dan het drempelbedrag, genoemd in [artikel 6.17, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), worden bepaald aan de hand van de navolgende tabel:
+1. De extra kosten van een op medisch voorschrift gehouden dieet, bedoeld in [artikel 6.17, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), worden bepaald aan de hand van de navolgende tabel:
 
 | Voor het dieet bij het ziektebeeld en de aandoening | Voor het dieet bij het ziektebeeld en de aandoening | Op welk dieet de typering van toepassing is | Bedragen de extra uitgaven |
 | --- | --- | --- | --- |
-| Algemene symptomen | groei-achterstand bij kinderen | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
-|   |   | energieverrijkt | € 1118 |
-|   |   | vloeibaar energieverrijkt | € 639 |
-|   | ondervoeding | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
-|   |   | energieverrijkt | € 1118 |
-|   |   | vloeibaar energieverrijkt | € 809 |
-|   | decubitus | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
-| Hypertensie en hartziekten | hypertensie | natriumbeperkt | € 420 |
-|   | decompensatio cordis, hartfalen | natriumbeperkt | € 420 |
-|   |   | sterk natriumbeperkt | € 505 |
-| Luchtwegen | chronische obstructieve longziekten (COPD) | energieverrijkt | € 1118 |
-| Maag-, darm- en leverziekten | dumping syndroom | lactosebeperkt | € 431 |
-|   | chronische pancreatitis | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
-|   | cystic fibrosis | energieverrijkt | € 1118 |
-|   |   | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
-|   | coeliakie en ziekte van Dühring | glutenvrij | € 1222 |
-|   |   | glutenvrij in combinatie met lactosebeperkt | € 1484 |
-|   | short bowel | energieverrijkt | € 1118 |
-|   |   | energieverrijkt in combinatie met MCT verrijkt | € 1696 |
-|   | leverziekte | energieverrijkt in combinatie met MCT verrijkt, tevens alcoholvrij | € 1612 |
-|   |   | energieverrijkt in combinatie met MCT verrijkt, tevens natriumbeperkt en alcoholvrij | € 2021 |
-|   | overige | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
-|   |   | energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt | € 1361 |
-|   |   | matig vetbeperkt in combinatie met MCT of ander preparaat, tevens energieverrijkt | € 1035 |
-| Metabole ziekten | diabetes | diabetes dieet | € 288 |
-|   |   | diabetes dieet natriumbeperkt | € 420 |
-|   | hypercholesterolemie | verzadigd vetzurenbeperkt en cholesterolbeperkt in combinatie met visverrijkt, groentenverrijkt en fruitverrijkt | € 288 |
-|   |   | verzadigd-vetbeperkt en cholesterolbeperkt in combinatie met visverrijkt, groentenverrijkt en fruitverrijkt met plantensterolen | € 304 |
-|   |   | cholesterolverlagend en natriumbeperkt | € 420 |
-|   | vetstofwisselingsstoornis | sterk vetbeperkt in combinatie met MCT of ander preparaat | € 1035 |
-|   | fructose intolerantie | sterk fructosebeperkt | € 740 |
-|   | galactosemie | galactosevrij | € 657 |
-|   | sacharase isomaltase deficiëntie | polysacharidenverrijkt meervoudig-onverzadigde- vetzurenverrijkt in combinatie met sacharosebeperkt, fructosebeperkt, matig vetbeperkt, matig natriumbeperkt en calciumbeperkt | € 1746 |
-|   | eiwitstofwisselingsstoornis (b.v. PKU en hyperlysinemie) | natuurlijk eiwitbeperkt | € 2145 |
-| Infectieziekten | aids | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
-| Nierziekten | nierziekten | natriumbeperkt | € 394 |
-|   | chronische nierinsufficiëntie met hemodialyse | eiwitaangewezen in combinatie met matig natriumbeperkt | € 394 |
-|   | nefrotisch syndroom | natriumbeperkt | € 394 |
-| Oncologie | oncologie | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
-| Overige | voedselovergevoeligheid | koemelkeiwitvrij | € 535 |
+| Algemene symptomen | groei-achterstand bij kinderen | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
+|   |   | energieverrijkt | € 1.092 |
+|   |   | vloeibaar energieverrijkt | € 629 |
+|   | ondervoeding | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
+|   |   | energieverrijkt | € 1.092 |
+|   |   | vloeibaar energieverrijkt | € 813 |
+|   | decubitus | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
+| Hypertensie en hartziekten | hypertensie | natriumbeperkt | € 304 |
+| Hypertensie en hartziekten | decompensatio cordis, hartfalen | natriumbeperkt | € 304 |
+|   |   | sterk natriumbeperkt | € 387 |
+| Luchtwegen | chronische obstructieve longziekten (COPD) | energieverrijkt | € 1.092 |
+| Maag-, darm- en leverziekten | dumping syndroom | lactosebeperkt | € 487 |
+| Maag-, darm- en leverziekten | chronische pancreatitis | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
+|   | cystic fibrosis | energieverrijkt | € 1.092 |
+|   |   | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
+|   | coeliakie en ziekte van Dühring | glutenvrij | € 1.090 |
+|   |   | glutenvrij in combinatie met lactosebeperkt | € 1.343 |
+|   | short bowel | energieverrijkt | € 1.092 |
+|   |   | energieverrijkt in combinatie met MCT verrijkt | € 1.741 |
+|   | leverziekte | energieverrijkt in combinatie met MCT verrijkt, tevens alcoholvrij | € 1.656 |
+|   |   | energieverrijkt in combinatie met MCT verrijkt, tevens natriumbeperkt en alcoholvrij | € 1.871 |
+|   | overige | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
+|   |   | energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt | € 1.470 |
+|   |   | matig vetbeperkt in combinatie met MCT of ander preparaat, tevens energieverrijkt | € 1.124 |
+| Metabole ziekten | diabetes | diabetes dieet | € 282 |
+|   |   | diabetes dieet natriumbeperkt | € 387 |
+|   | hypercholesterolemie | verzadigd vetzurenbeperkt en cholesterolbeperkt in combinatie met visverrijkt, groentenverrijkt en fruitverrijkt | € 282 |
+|   |   | verzadigd-vetbeperkt en cholesterolbeperkt in combinatie met visverrijkt, groentenverrijkt en fruitverrijkt met plantensterolen | € 300 |
+|   |   | cholesterolverlagend en natriumbeperkt | € 387 |
+|   | vetstofwisselingsstoornis | sterk vetbeperkt in combinatie met MCT of ander preparaat | € 1.124 |
+|   | fructose intolerantie | sterk fructosebeperkt | € 653 |
+|   | galactosemie | galactosevrij | € 820 |
+|   | sacharase isomaltase deficiëntie | polysacharidenverrijkt meervoudig-onverzadigde vetzurenverrijkt in combinatie met sacharosebeperkt, fructosebeperkt, matig vetbeperkt, matig natriumbeperkt en calciumbeperkt | € 1.567 |
+|   | eiwitstofwisselingsstoornis (b.v. PKU en hyperlysinemie) | natuurlijk eiwitbeperkt | € 2.091 |
+| Infectieziekten | aids | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
+| Nierziekten | nierziekten | natriumbeperkt | € 294 |
+|   | chronische nierinsufficiëntie met hemodialyse | eiwitaangewezen in combinatie met matig natriumbeperkt | € 387 |
+|   | nefrotisch syndroom | natriumbeperkt | € 294 |
+| Oncologie | oncologie | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
+| Overige | voedselovergevoeligheid | koemelkeiwitvrij | € 635 |
 |   |   | soja-eiwitvrij | € 358 |
-|   |   | kippenei-eiwitvrij | € 360 |
-|   |   | lactosebeperkt | € 431 |
-|   |   | tarwevrij | € 1026 |
-|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij | € 503 |
-|   |   | koemelkeiwitvrij in combinatie met soja-eiwitvrij | € 664 |
-|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij | € 1338 |
-|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwit en tarwe-vrij | € 1717 |
-|   |   | koemelkeiwitvrij in combinatie met glutenvrij | € 1514 |
-|   | brandwonden | energieverrijkt in combinatie met eiwitverrijkt | € 1118 |
+|   |   | kippenei-eiwitvrij | € 336 |
+|   |   | lactosebeperkt | € 487 |
+|   |   | tarwevrij | € 856 |
+|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij | € 633 |
+|   |   | koemelkeiwitvrij in combinatie met soja-eiwitvrij | € 829 |
+|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij | € 1.617 |
+|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwit en tarwe-vrij | € 1.821 |
+|   |   | koemelkeiwitvrij in combinatie met glutenvrij | € 1.370 |
+|   | brandwonden | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
 
-Voor overige diëten worden de extra uitgaven gesteld op nihil.
+Voor overige diëten worden de extra kosten gesteld op nihil.
 
 2. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -556,33 +556,19 @@ Voor overige diëten worden de extra uitgaven gesteld op nihil.
 
 4. Ingeval extra uitgaven voor een op medisch voorschrift gehouden dieet niet gedurende het gehele kalenderjaar worden gedaan, worden de in het eerste lid genoemde bedragen naar tijdsgelang in aanmerking genomen.
 
-##### Artikel 38. Buitengewone uitgaven; uitgaven wegens ziekte, invaliditeit en bevalling; extra uitgaven voor kleding en beddengoed
+##### Artikel 38. Uitgaven voor specifieke zorgkosten; extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven
 
-1. Extra uitgaven voor kleding en beddengoed worden tot een bedrag van € 300 dan wel, indien blijkt dat die uitgaven € 600 te boven gaan, tot een bedrag van € 750 aangemerkt als uitgaven ter zake van ziekte en invaliditeit indien:
+1. Uitgaven voor extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven als bedoeld in [artikel 6.17, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17) worden in aanmerking genomen voor een bedrag van € 300 dan wel, indien blijkt dat die uitgaven € 600 te boven gaan, voor een bedrag van € 750, indien:
 
-- a. uit ziekte of invaliditeit van een persoon als bedoeld in [artikel 6.16, onderdelen a en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16) extra uitgaven voor kleding en beddengoed voortvloeien;
+- a. de genoemde uitgaven voortvloeien uit ziekte of invaliditeit van een persoon als bedoeld in [artikel 6.16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16) die tot het huishouden van de belastingplichtige behoort; en
 
-- b. de ziekte of invaliditeit ten minste een jaar heeft geduurd of vermoedelijk zal duren; en
-
-- c. de zieke of invalide tot het huishouden van de belastingplichtige behoort.
+- b. de ziekte of invaliditeit ten minste een jaar heeft geduurd of vermoedelijk zal duren.
 
 2. Ingeval aan de in het eerste lid gestelde voorwaarden niet gedurende het gehele kalenderjaar is voldaan, wordt dat lid naar tijdsgelang toegepast.
 
 ##### Artikel 39. Buitengewone uitgaven; uitgaven wegens adoptie
 
-1. Als uitgaven wegens adoptie van een kind dat in een ander land woonde dan de adoptanten voordat het kind door de adoptanten feitelijk werd verzorgd en opgevoed, worden in aanvulling op de uitgaven bedoeld in [artikel 6.23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.23) uitsluitend aangemerkt de uitgaven:
-
-- a. voor de algemene voorlichting, bedoeld in [artikel 5, tweede lid, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=5) dan wel daarmee overeenkomende uitgaven indien laatstgenoemde wet op deze adoptie niet van toepassing is;
-
-- b. voor bemiddeling als bedoeld in [artikel 1van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=1) tot een bedrag van ten hoogste € 1.000 dan wel daarmee overeenkomende uitgaven tot ten hoogste het eerder genoemde bedrag indien laatstgenoemde wet op deze adoptie niet van toepassing is;
-
-- c. verband houdende met de indiening en de behandeling van een verzoek tot het uitspreken van adoptie volgens het recht van het land van herkomst van het kind;
-
-- d. voor vervoer en begeleiding van het kind naar de woning of verblijfplaats van de adoptanten, met dien verstande dat als reis- en verblijfkosten van de adoptanten in totaal niet meer dan de reis- en verblijfkosten met betrekking tot een heen- en terugreis per persoon in aanmerking worden genomen.
-
-2. De in het eerste lid bedoelde reis- en verblijfkosten worden niet eerder in aanmerking genomen dan nadat het ter zake van de adoptie bevoegde gezag de beginseltoestemming of toestemming heeft verleend tot het opnemen van het kind in het gezin dan wel, zo deze beginseltoestemming of toestemming ontbreekt, nadat de uitspraak van de rechter waarbij het verzoek om adoptie is toegewezen, kracht van gewijsde heeft gekregen.
-
-3. Indien de adoptanten partner zijn en beiden uitgaven voor bemiddeling ter adoptie van een kind als bedoeld in het eerste lid, onderdeel b, in aanmerking nemen, wordt het door hen beiden tezamen voor die uitgaven in aanmerking te nemen bedrag gesteld op ten hoogste het in het eerste lid, onderdeel b, vermelde bedrag.
+Vervallen
 
 ##### Artikel 40. Weekenduitgaven voor gehandicapten; het in aanmerking te nemen bedrag
 
@@ -722,11 +708,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2009-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2009-01-10) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2009-01-01) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2009-01-10) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2009-01-01) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2009-01-10) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -806,7 +792,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 - c. uit de regelgeving van de instelling en de feiten blijkt dat een natuurlijk persoon noch een rechtspersoon over het vermogen van de instelling kan beschikken als ware het zijn eigen vermogen; de inspecteur kan, zonodig onder door hem te stellen voorwaarden, toestaan dat een steunstichting en de instelling of instellingen welke door deze stichting worden ondersteund, over en weer kunnen beschikken over elkaars vermogen als ware het eigen vermogen;
 
-- d. de instelling niet meer vermogen aanhoudt dan is aangegeven in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=41b&z=2012-01-01&g=2009-01-01);
+- d. de instelling niet meer vermogen aanhoudt dan is aangegeven in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=41b&z=2012-01-01&g=2009-01-10);
 
 - e. de leden van het orgaan van de instelling dat het beleid bepaalt, ter zake van de door hen voor de instelling verrichte werkzaamheden geen andere beloning ontvangen dan een vergoeding voor gemaakte onkosten en een niet bovenmatig vacatiegeld;
 
@@ -930,9 +916,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 5. Ingeval het fonds is aangewezen met een ingroeiperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
 
-6. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2012-01-01&g=2009-01-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
+6. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2012-01-01&g=2009-01-10), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
 
-7. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2012-01-01&g=2009-01-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
+7. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2012-01-01&g=2009-01-10), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
 
 8. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend.
 
