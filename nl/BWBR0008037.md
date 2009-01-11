@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2008-11-07"
+last_updated: "2009-01-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 1. De beperkingen met betrekking tot de rijbevoegdheid, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=24), [103, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=103), [111 tot en met 116](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=111), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118), [145, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=145), [191](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=191) en [193 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=193), worden in het rijbewijs aangeduid met de coderingen die zijn vastgesteld in de bij deze regeling behorende bijlage.
 
-2. In het rijbewijs worden van de in de bij deze regeling behorende bijlage vastgestelde coderingen uitsluitend de hoofdcoderingen vermeld. De subcoderingen worden uitsluitend vermeld voor zover de vermelding op grond van de [richtlijn nr. 91/439/EG](31991L0439) van de Raad van de Europese Gemeenschappen van 29 juli 1991 betreffende het rijbewijs (Pb EG L 237) verplicht is.
+2. In het rijbewijs worden van de in de bij deze regeling behorende bijlage vastgestelde coderingen uitsluitend de hoofdcoderingen vermeld. De subcoderingen worden uitsluitend vermeld voor zover de vermelding op grond van richtlijn 2006/126/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (Pb EU L 403) verplicht is.
 
 3. In het rijbewijzenregister worden hoofdcoderingen en subcoderingen geregistreerd.
 
@@ -100,7 +100,7 @@ Geharmoniseerde communautaire codes
 
 10.03 Elektronisch bediende schakeling
 
-10.04 Aangepaste keuze/schakelhendel
+10.04 Aangepaste hendel
 
 10.05 Geen hulpversnellingsbak
 
@@ -114,13 +114,13 @@ Geharmoniseerde communautaire codes
 
 20.01 Aangepast rempedaal
 
-20.02 Verbreed rempedaal
+20.02 Groter rempedaal
 
 20.03 Rempedaal geschikt voor bediening met linkervoet
 
-20.04 Remslof
+20.04 Rempedaal met slof
 
-20.05 Kantelpedaal
+20.05 Kantelbaar rempedaal
 
 20.06 (Aangepaste) handbedrijfsrem
 
@@ -142,13 +142,13 @@ Geharmoniseerde communautaire codes
 
 25.01 Aangepast gaspedaal
 
-25.02 Gasslof
+25.02 Gaspedaal met slof
 
-25.03 Kantelgaspedaal
+25.03 Kantelbaar gaspedaal
 
-25.04 Handgas
+25.04 Handmatig gas geven
 
-25.05 Kniegas
+25.05 Gas geven met de knie
 
 25.06 Servo-acceleratiesysteem (elektronisch, pneumatisch, enz.)
 
@@ -160,19 +160,19 @@ Geharmoniseerde communautaire codes
 
 30.01 Parallelpedalen
 
-30.02 Gas- en rempedaal op (nagenoeg) gelijke hoogte
+30.02 Pedalen op (nagenoeg) gelijke hoogte
 
-30.03 Gas-remschuif
+30.03 Gas geven en remmen door middel van schuifsysteem
 
-30.04 Gas-remschuif met orthese
+30.04 Gas geven en remmen door middel van schuifsysteem met orthese
 
 30.05 Opklapbare/uitneembare gas- en rempedalen
 
 30.06 Vloerverhoging
 
-30.07 Afscherming .......... van het rempedaal
+30.07 Afscherming aan de kant van het rempedaal
 
-30.08 Afscherming voor prothese ........... van het rempedaal
+30.08 Afscherming voor prothese aan de kant van het rempedaal
 
 30.09 Afscherming vóór gas- en rempedalen
 
@@ -194,7 +194,7 @@ Geharmoniseerde communautaire codes
 
 40.01 Standaard stuurbekrachtiging
 
-40.02 Versterkte stuurbekrachtiging
+40.02 Extra stuurbekrachtiging
 
 40.03 Stuurinrichting met back-upsysteem
 
@@ -208,21 +208,21 @@ Geharmoniseerde communautaire codes
 
 40.08 Horizontaal stuurwiel
 
-40.09 Voetstuur
+40.09 Voetbediend stuur
 
-40.10 Aangepaste stuurinrichting (joystick, enz.)
+40.10 Eventuele andere aangepaste stuurinrichting (joystick, enz.)
 
 40.11 Stuurknop
 
-40.12 Handspalk
+40.12 Handspalk op stuurwiel
 
-40.13 Polsspalk
+40.13 Polsspalk op stuurwiel
 
-42.01 Rechterbuitenspiegel
+42.01 Linker- of rechterbuitenspiegel
 
 42.02 Rechterbuitenspiegel op voorspatbord
 
-42.03 Extra binnenspiegel om het verkeer van ............... waar te kunnen nemen
+42.03 Extra binnenspiegel voor goed zicht op het verkeer
 
 42.04 Panoramische binnenspiegel
 
@@ -246,15 +246,15 @@ Geharmoniseerde communautaire codes
 
 44.01 Eén remelement voor alle remhandelingen
 
-44.02 (Aangepaste) voorrem
+44.02 (Aangepaste) handbediende rem (voorwiel)
 
-44.03 (Aangepaste) achterrem
+44.03 (Aangepaste) voetbediende rem (achterwiel)
 
 44.04 (Aangepaste) gashendel
 
 44.05 (Aangepaste) handschakeling en handkoppeling
 
-44.06 (Aangepaste) achteruitkijkspiegel .........
+44.06 (Aangepaste) achteruitkijkspiegel(s)
 
 44.07 (Aangepaste) bedieningsorganen (richtingaanwijzers, remlichten, enz.)
 
