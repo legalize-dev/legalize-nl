@@ -4,7 +4,7 @@ identifier: "BWBR0025183"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-01-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025183"
 soort: "ministeriele-regeling"
@@ -44,15 +44,33 @@ Besluiten:
 
 ##### Artikel 1. Begripsbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+In deze regeling wordt verstaan onder:
+
+- –. **kinderbijslag:** de kinderbijslag op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368);
+
+- –. **kindgebonden budget:** het kindgebonden budget op grond van de [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751);
+
+- –. **kinderopvangtoeslag:** de kinderopvangtoeslag op grond van de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017);
+
+- –. **tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen:** de tegemoetkoming op grond van de [Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0010997);
+
+- –. **Verordening (EEG) nr. 1408/71:** Verordening (EEG) nr. 1408/71 van de Raad van 14 juni 1971 betreffende de toepassing van de socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEG L 149);
+
+- –. **Verordening (EEG) nr. 574/72:** Verordening (EEG) nr. 574/72 tot vaststelling van de wijze van toepassing van [Verordening (EEG) nr. 1408/71](31971R1408) betreffende de toepassing van de socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEGL 74);
+
+- –. **gezinsbijslag:** gezinsbijslag als bedoeld in artikel 1, onderdeel u, onder i, van Verordening (EEG) nr. 1408/71.
 
 ##### Artikel 2. Samenloop met buitenlandse tegemoetkoming
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien ten aanzien van hetzelfde kind over eenzelfde tijdvak in Nederland recht bestaat op kinderbijslag of kindgebonden budget en tevens recht bestaat op een of meer daarmee naar aard en strekking overeenkomende tegemoetkomingen bestaande in een andere Staat, niet zijnde een lidstaat van de Europese Unie, een Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of Zwitserland, worden de kinderbijslag onderscheidenlijk het kindgebonden budget slechts uitbetaald voor zover deze de tegemoetkoming of tegemoetkomingen op grond van de rechtens geldende regeling in het andere land overtreffen.
+
+2. Indien met toepassing van het eerste lid een bedrag wordt uitbetaald, wordt deze uitbetaling achtereenvolgens toegerekend aan de kinderbijslag en het kindgebonden budget.
 
 ##### Artikel 3. Samenloop met uitkering van volkenrechtelijke organisatie
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien ten aanzien van hetzelfde kind over eenzelfde tijdvak in Nederland recht bestaat op kinderbijslag of kindgebonden budget en tevens recht bestaat op een of meer daarmee naar aard en strekking overeenkomende tegemoetkomingen op grond van een regeling van een volkenrechtelijke organisatie als bedoeld in de [artikelen 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=3), of [14, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=14) worden de kinderbijslag onderscheidenlijk het kindgebonden budget slechts uitbetaald voor zover deze de tegemoetkoming of tegemoetkomingen op grond van een regeling van een volkenrechtelijke organisatie overtreffen.
+
+2. Indien met toepassing van het eerste lid een bedrag wordt uitbetaald, wordt deze uitbetaling achtereenvolgens toegerekend aan de kinderbijslag en het kindgebonden budget.
 
 ##### Artikel 4. Aanvulling na toepassing prioriteitsregels Verordening (EEG) nr. 1408/71 en Verordening (EEG) nr. 574/72 bij cumulatie gezinsbijslagen
 
@@ -60,18 +78,18 @@ Indien met toepassing van de Verordening (EEG) nr. 1408/71 en Verordening (EEG) 
 
 ##### Artikel 5. Overgangsbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling is van overeenkomstige toepassing op de kindertoeslag, bedoeld in [artikel 6a van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=6a)
 
 ##### Artikel 6. Intrekking ministeriële regeling
 
-Dit onderdeel is nog niet inwerking getreden
+De [Regeling samenloop kinderbijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0009357) op grond van de Algemene Kinderbijslagwet met buitenlandse kinderbijslag of kinderbijslag op grond van een regeling van een volkenrechtelijke organisatie wordt ingetrokken
 
 ##### Artikel 7. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025183&artikel=4&z=2009-01-17&g=2009-01-17) terugwerkt tot en met 1 januari 2008.
 
 ##### Artikel 8. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling wordt aangehaald als: Regeling samenloop met buitenlandse tegemoetkomingen 2008.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
