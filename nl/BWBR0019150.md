@@ -4,7 +4,7 @@ identifier: "BWBR0019150"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-01-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019150"
 soort: "ministeriele-regeling"
@@ -232,13 +232,13 @@ De sector uitzendbedrijven wordt ingedeeld in de volgende sectoronderdelen, bedo
 
 ##### Artikel 3.8. Vaststelling WW-deel van het sectorpremiepercentage
 
-1. Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten voor de sector uitzendbedrijven, wordt verschillend vastgesteld voor de sectoronderdelen, genoemd in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.6&z=2008-09-07&g=2009-01-01).
+1. Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten voor de sector uitzendbedrijven, wordt verschillend vastgesteld voor de sectoronderdelen, genoemd in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.6&z=2009-01-17&g=2009-01-17).
 
 2. Per sectoronderdeel wordt het gewogen gemiddelde vastgesteld van het percentage, bedoeld in het eerste lid.
 
 ##### Artikel 3.9. Vaststelling ZW-deel van het sectorpremiepercentage
 
-1. Het op grond van [artikel 2.2, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde opslagpercentage ter dekking van de ziekengeldlasten voor de sector uitzendbedrijven, wordt verschillend vastgesteld voor de subpremiegroepen, genoemd in [artikel 3.6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.6&z=2008-09-07&g=2009-01-01).
+1. Het op grond van [artikel 2.2, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde opslagpercentage ter dekking van de ziekengeldlasten voor de sector uitzendbedrijven, wordt verschillend vastgesteld voor de subpremiegroepen, genoemd in [artikel 3.6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.6&z=2009-01-17&g=2009-01-17).
 
 2. Per sectoronderdeel wordt een gewogen gemiddelde vastgesteld van het percentage, bedoeld in het eerste lid.
 
@@ -250,11 +250,11 @@ De sector grafische industrie wordt ingedeeld in de volgende sectoronderdelen, b
 
 - a. de grafische industrie exclusief het fotografisch bedrijf, bedoeld in onderdeel b;
 
-- b. het fotografisch bedrijf, al of niet verbonden met een detailhandel in fotoartikelen, bedoeld in sector 9, onderdeel 5, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2008-09-07&g=2009-01-01) bij deze regeling.
+- b. het fotografisch bedrijf, al of niet verbonden met een detailhandel in fotoartikelen, bedoeld in sector 9, onderdeel 5, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2009-01-17&g=2009-01-17) bij deze regeling.
 
 ##### Artikel 3.11. Vaststelling WW-deel en ZW-deel van het sectorpremiepercentage
 
-1. Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten en het op grond van [artikel 2.2, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde opslagpercentage ter dekking van de ziekengeldlasten voor de sector grafische industrie, worden verschillend vastgesteld voor de sectoronderdelen, genoemd in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.10&z=2008-09-07&g=2009-01-01).
+1. Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten en het op grond van [artikel 2.2, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde opslagpercentage ter dekking van de ziekengeldlasten voor de sector grafische industrie, worden verschillend vastgesteld voor de sectoronderdelen, genoemd in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.10&z=2009-01-17&g=2009-01-17).
 
 2. Het deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten wordt per sectoronderdeel berekend aan de hand van het gemiddelde risico per sectoronderdeel over de laatste vier jaar.
 
@@ -346,21 +346,19 @@ Vervallen
 
 ### Afdeling 5. Premievrijstellingen en premiekorting
 
-##### Artikel 3.19. Indienstneming voor vrijstelling oudere werknemer
+##### Artikel 3.19. Aangiftetijdvak
 
-1. Onder in dienst nemen als bedoeld in [artikel 47, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=47) wordt verstaan het aanvangen van een dienstbetrekking, tenzij die dienstbetrekking aanvangt binnen zes maanden na het eindigen van een dienstbetrekking tussen de werknemer en de werkgever.
-
-2. Onder in dienst nemen als bedoeld in [artikel 47, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=47) wordt mede verstaan het in het kader van overgang van onderneming als bedoeld in [Boek 7, Titel 10, Afdeling 8, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=8) overgaan van een werknemer van de vervreemdende werkgever naar de verkrijgende werkgever, voorzover vóór de overgang over het loon van deze werknemer reeds geen basispremie werd geheven.
+In deze afdeling wordt onder aangiftetijdvak verstaan: het tijdvak, waarover premies werknemersverzekeringen worden betaald.
 
 ##### Artikel 3.20. Nieuwe dienstbetrekking bij dezelfde werkgever na volledig genoten premiekortingsperioden
 
-1. De werkgever kan de premiekorting, bedoeld in [artikel 49, eerste lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=49) niet toepassen, indien de werknemer binnen drie jaar na ommekomst van de in dat artikellid bedoelde periode van drie jaar, na beëindiging van de dienstbetrekking, wederom bij die werkgever in dienst treedt.
+1. De werkgever kan de premiekorting, bedoeld in de [artikelen 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=47), en [49, eerste lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=49) niet toepassen, indien de werknemer binnen drie jaar na ommekomst van de in die artikelleden bedoelde periode van drie jaar, na beëindiging van de dienstbetrekking, wederom bij die werkgever in dienst treedt.
 
 2. De werkgever kan de premiekorting, bedoeld in [artikel 49, eerste lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=49) niet toepassen, indien de werknemer binnen één jaar na ommekomst van de in [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=49) bedoelde periode van één jaar, na beëindiging van de dienstbetrekking, wederom bij die werkgever in dienst treedt.
 
 ##### Artikel 3.21. Nieuwe dienstbetrekking bij dezelfde werkgever na niet volledig genoten premiekortingsperiode
 
-1. Indien een werkgever niet gedurende een periode van in totaal drie respectievelijk één jaar premiekorting als bedoeld in [artikel 49, eerste, respectievelijk tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=49) heeft toegepast:
+1. Indien een werkgever niet gedurende een periode van in totaal drie respectievelijk één jaar premiekorting als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=47), en [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=49), respectievelijk [artikel 49, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=49) heeft toegepast:
 
 - a. worden dienstbetrekkingen bij dezelfde werkgever die elkaar met tussenpozen van minder dan drie maanden opvolgen, geacht niet te zijn onderbroken en worden de perioden waarin de premiekorting wordt toegepast opgeteld totdat in totaal drie respectievelijk één jaar premiekorting is toegepast;
 
@@ -370,15 +368,13 @@ Vervallen
 
 ##### Artikel 3.22. Premiekortingsperioden bij overgang van ondernemingen
 
-1. In geval van overgang van een onderneming als bedoeld in [Boek 7, Titel 10, Afdeling 8, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=8), waarbij door de werkgever die de onderneming overdraagt de premiekorting, bedoeld in [artikel 49, eerste, respectievelijk tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=49), is toegepast, wordt voor de toepassing van genoemd artikel de premiekorting aangemerkt als een premiekorting toegepast door de werkgever die de onderneming overneemt.
+1. In geval van overgang van een onderneming als bedoeld in [Boek 7, Titel 10, Afdeling 8, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=8), waarbij door de werkgever die de onderneming overdraagt een premiekorting als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=47), of [artikel 49 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=49), is toegepast, wordt voor de toepassing van genoemde artikelen de premiekorting aangemerkt als een premiekorting toegepast door de werkgever die de onderneming overneemt.
 
 2. Indien slechts een deel van de onderneming overgaat als bedoeld in het eerste lid, vindt het eerste lid uitsluitend toepassing, indien de werknemers voor wie premiekortingen zijn toegepast als bedoeld in het eerste lid, hun werkzaamheden uitoefenen bij het deel van de onderneming dat wordt overgenomen.
 
-##### Artikel 3.23. Verdeling premiekorting over premies op grond van [afdeling 4 van hoofdstuk 3 Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&afdeling=4)
+##### Artikel 3.23. Ingangsdatum toepassing premiekorting werknemer van 62 jaar en ouder
 
-1. De werkgever past de premiekorting, bedoeld in [artikel 49 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=49), op de verschuldigde premies op grond van [afdeling 4 van hoofdstuk 3 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&afdeling=4), toe op de basispremie, bedoeld in [artikel 36 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=36).
-
-2. Voor zover de premiekorting op de verschuldigde premies op grond van [afdeling 4 van hoofdstuk 3 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&afdeling=4) hoger is dan de verschuldigde basispremie, past de werkgever de resterende premiekorting eerst toe op de premie, bedoeld in [artikel 37 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=37) en vervolgens op de premie, bedoeld in [artikel 38 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38), voor zover de werkgever deze premies is verschuldigd.
+Indien voor een werknemer, die de leeftijd van 62 jaar heeft bereikt, premiekorting wordt toegepast op grond van [artikel 47, eerste lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=47), wordt de premiekorting op grond van [artikel 47, derde lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=47) toegepast met ingang van de eerste dag van het aangiftetijdvak, waarin de termijn van drie jaar, bedoeld in [artikel 47, eerste lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=47), verstrijkt. De toepassing van de premiekorting, bedoeld in [artikel 47, eerste lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=47), eindigt met ingang van die dag.
 
 ### Hoofdstuk 4. Gemoedsbezwaarden
 
@@ -402,11 +398,11 @@ Vervallen
 
 1. Wanneer het verzoek een rechtspersoon betreft, wordt de verklaring ingediend bij de SVB door het op grond van een wettelijk voorschrift of statuten van die rechtspersoon daartoe bevoegde orgaan.
 
-2. Onverminderd [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.2&z=2008-09-07&g=2009-01-01) houdt de verklaring, bedoeld in het eerste lid, tevens in, dat de natuurlijke personen, die behoren tot het orgaan, dat op grond van een wettelijk voorschrift of de statuten bevoegd is te besluiten de ontheffing aan te vragen, in meerderheid overwegende gemoedsbezwaren hebben.
+2. Onverminderd [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.2&z=2009-01-17&g=2009-01-17) houdt de verklaring, bedoeld in het eerste lid, tevens in, dat de natuurlijke personen, die behoren tot het orgaan, dat op grond van een wettelijk voorschrift of de statuten bevoegd is te besluiten de ontheffing aan te vragen, in meerderheid overwegende gemoedsbezwaren hebben.
 
 3. Bij het verzoek, bedoeld in het eerste lid, worden gevoegd:
 
-- a. een afschrift van de aan elk van de tot de in het tweede lid bedoelde meerderheid behorende natuurlijke personen verleende ontheffing, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.1&z=2008-09-07&g=2009-01-01);
+- a. een afschrift van de aan elk van de tot de in het tweede lid bedoelde meerderheid behorende natuurlijke personen verleende ontheffing, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.1&z=2009-01-17&g=2009-01-17);
 
 - b. een gewaarmerkt afschrift van de statuten van de rechtspersoon, en
 
@@ -442,7 +438,7 @@ Degene, die is ontheven van zijn verplichtingen als werkgever, is verplicht te z
 
 - b. indien naar het oordeel van de SVB de gemoedsbezwaren, op grond waarvan de ontheffing is verleend, niet langer geacht kunnen worden te bestaan.
 
-2. De ontheffing kan worden ingetrokken, indien verplichtingen, die nog op de degene aan wie ontheffing is verleend rusten ingevolge de in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.1&z=2008-09-07&g=2009-01-01) genoemde wetten, of die hem bij deze regeling zijn opgelegd, niet door hem worden nageleefd.
+2. De ontheffing kan worden ingetrokken, indien verplichtingen, die nog op de degene aan wie ontheffing is verleend rusten ingevolge de in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.1&z=2009-01-17&g=2009-01-17) genoemde wetten, of die hem bij deze regeling zijn opgelegd, niet door hem worden nageleefd.
 
 3. De SVB kan bij de intrekking tevens bepalen, dat een verzoek om ontheffing gedaan binnen twee jaren na de dagtekening van de intrekking, enkel op die grond niet-ontvankelijk kan worden verklaard.
 
@@ -452,7 +448,7 @@ Degene, die is ontheven van zijn verplichtingen als werkgever, is verplicht te z
 
 6. Ten aanzien van de werknemer, die niet aan de loonbelasting is onderworpen, wordt eenzelfde mededeling als bedoeld in het vorige lid gedaan aan diens werkgever.
 
-7. [Artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.9&z=2008-09-07&g=2009-01-01) vindt overeenkomstige toepassing ten aanzien van de mededeling van de intrekking van de ontheffing.
+7. [Artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.9&z=2009-01-17&g=2009-01-17) vindt overeenkomstige toepassing ten aanzien van de mededeling van de intrekking van de ontheffing.
 
 8. Onverminderd het overigens in dit artikel bepaalde vervalt de ontheffing, die is verleend aan een rechtspersoon, na verloop van vijf jaar na de datum van ingang van de ontheffing. Met ingang van de datum, waarop een ontheffing is vervallen, kan een nieuwe ontheffing worden verleend.
 
@@ -524,7 +520,7 @@ Het bedrijfs- en beroepsleven wordt ingedeeld in de volgende genummerde sectoren
 
 - 27. Vervoer posterijen
 
-- 28. Taxi- en ambulancevervoer
+- 28. Taxivervoer
 
 - 29. Openbaar Vervoer
 
@@ -604,13 +600,13 @@ Het bedrijfs- en beroepsleven wordt ingedeeld in de volgende genummerde sectoren
 
 - 69. Telecommunicatie
 
-##### Artikel 5.2. Werkzaamheden in [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2008-09-07&g=2009-01-01)
+##### Artikel 5.2. Werkzaamheden in [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2009-01-17&g=2009-01-17)
 
-Tot elke sector van het bedrijfs- en beroepsleven worden gerekend de werkzaamheden, verricht in de takken van bedrijf of beroep of gedeelten daarvan, welke in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2008-09-07&g=2009-01-01) zijn vermeld. Werkzaamheden die een overheidswerkgever als werkgever doet verrichten, worden gerekend tot een van de sectoren 61 tot en met 66.
+Tot elke sector van het bedrijfs- en beroepsleven worden gerekend de werkzaamheden, verricht in de takken van bedrijf of beroep of gedeelten daarvan, welke in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2009-01-17&g=2009-01-17) zijn vermeld. Werkzaamheden die een overheidswerkgever als werkgever doet verrichten, worden gerekend tot een van de sectoren 61 tot en met 66.
 
-##### Artikel 5.3. Werkzaamheden niet in [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2008-09-07&g=2009-01-01)
+##### Artikel 5.3. Werkzaamheden niet in [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2009-01-17&g=2009-01-17)
 
-Werkzaamheden, verricht in takken van bedrijf en beroep, welke niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2008-09-07&g=2009-01-01) bij deze regeling zijn vermeld, worden geacht te behoren tot een sector van het bedrijfs- en beroepsleven, waartoe takken van bedrijf en beroep behoren, waarin werkzaamheden worden verricht, welke naar de aard het meest met de eerstbedoelde werkzaamheden overeenkomen.
+Werkzaamheden, verricht in takken van bedrijf en beroep, welke niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2009-01-17&g=2009-01-17) bij deze regeling zijn vermeld, worden geacht te behoren tot een sector van het bedrijfs- en beroepsleven, waartoe takken van bedrijf en beroep behoren, waarin werkzaamheden worden verricht, welke naar de aard het meest met de eerstbedoelde werkzaamheden overeenkomen.
 
 ##### Artikel 5.4. Concernregelen en aansluiting van nevenbedrijven en neveninstellingen
 
@@ -642,7 +638,7 @@ Werkzaamheden, verricht in takken van bedrijf en beroep, welke niet in [bijlage 
 
 ##### Artikel 5.7. Generaalpardonregeling
 
-1. Een werkgever als bedoeld in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.6&z=2008-09-07&g=2009-01-01) of de ondernemingsraad die aan de onderneming van die werkgever is verbonden, kan aan de inspecteur verzoeken te beslissen dat die werkgever is aangesloten bij die sector waarbij hij op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.5&z=2008-09-07&g=2009-01-01) en zonder het bepaalde in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.6&z=2008-09-07&g=2009-01-01) zou zijn aangesloten.
+1. Een werkgever als bedoeld in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.6&z=2009-01-17&g=2009-01-17) of de ondernemingsraad die aan de onderneming van die werkgever is verbonden, kan aan de inspecteur verzoeken te beslissen dat die werkgever is aangesloten bij die sector waarbij hij op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.5&z=2009-01-17&g=2009-01-17) en zonder het bepaalde in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.6&z=2009-01-17&g=2009-01-17) zou zijn aangesloten.
 
 2. Een verzoek als bedoeld in het eerste lid, wordt ingewilligd indien tussen de werkgever en de aan zijn onderneming verbonden ondernemingsraad daarover overeenstemming bestaat.
 
@@ -672,17 +668,17 @@ Werkzaamheden, verricht in takken van bedrijf en beroep, welke niet in [bijlage 
 
 ##### Artikel 5.10. Informatieverplichting SVB
 
-Binnen twee maanden na afloop van enig kalenderjaar verstrekt de SVB aan het UWV een lijst met namen van de werknemers, bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.9&z=2008-09-07&g=2009-01-01), alsmede een overzicht van de aan hen in dat jaar verstrekte remigratiebijdragen.
+Binnen twee maanden na afloop van enig kalenderjaar verstrekt de SVB aan het UWV een lijst met namen van de werknemers, bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.9&z=2009-01-17&g=2009-01-17), alsmede een overzicht van de aan hen in dat jaar verstrekte remigratiebijdragen.
 
 ##### Artikel 5.11. Betalingsverplichting UWV
 
-Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.10&z=2008-09-07&g=2009-01-01), betaalt het UWV de vergoeding, bedoeld in [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.9&z=2008-09-07&g=2009-01-01), onder overlegging van een lijst met namen van de personen op wie de vergoeding betrekking heeft.
+Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.10&z=2009-01-17&g=2009-01-17), betaalt het UWV de vergoeding, bedoeld in [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.9&z=2009-01-17&g=2009-01-17), onder overlegging van een lijst met namen van de personen op wie de vergoeding betrekking heeft.
 
 #### § 3. Reserve-vorming
 
 ##### Artikel 5.12. Begripsbepalingen
 
-1. In [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2008-09-07&g=2009-01-01) wordt verstaan onder:
+1. In [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2009-01-17&g=2009-01-17) wordt verstaan onder:
 
 - a. de verzekerde loonsom: het totaalbedrag van het loon, bedoeld in [artikel 26 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=26), waarover het UWV in een kalenderjaar de premies ten gunste van het Algemeen Werkloosheidsfonds zou ontvangen, indien [artikel 17, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) buiten toepassing zou blijven;
 
@@ -690,7 +686,7 @@ Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](htt
 
 - c. de drempelwaarde: 0,2 procentpunt.
 
-2. In [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.14&z=2008-09-07&g=2009-01-01) wordt verstaan onder:
+2. In [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.14&z=2009-01-17&g=2009-01-17) wordt verstaan onder:
 
 - a. de verzekerde loonsom: het totaalbedrag van het loon, bedoeld in [artikel 26 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=26), waarover het UWV in een kalenderjaar de premies ten gunste van een sectorfonds ontvangt, met uitzondering van het loon, waarop [artikel 28, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=28) van toepassing is;
 
@@ -700,7 +696,7 @@ Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](htt
 
 - d. de drempelwaarde: tot 1996 0,2 procentpunt, daarna 0,4 procentpunt.
 
-3. In de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2008-09-07&g=2009-01-01) en[5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.14&z=2008-09-07&g=2009-01-01) wordt verstaan onder:
+3. In de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2009-01-17&g=2009-01-17) en[5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.14&z=2009-01-17&g=2009-01-17) wordt verstaan onder:
 
 - a. het lastenpercentage: het percentage van de verzekerde loonsom in een kalenderjaar waarin de werkloosheidslasten van dat kalenderjaar tot uitdrukking komen;
 
@@ -720,9 +716,9 @@ Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](htt
 
 3. Het UWV wijst, met inachtneming van het vierde lid, de sectorfondsen aan waarvoor een reserve voor de werkloosheidslasten wordt gevormd en instandgehouden.
 
-4. Een reserve voor de werkloosheidslasten wordt niet gevormd en instandgehouden als niet wordt voldaan aan de voorwaarden als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2008-09-07&g=2009-01-01), onder toepassing van [artikel 5.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.12&z=2008-09-07&g=2009-01-01).
+4. Een reserve voor de werkloosheidslasten wordt niet gevormd en instandgehouden als niet wordt voldaan aan de voorwaarden als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2009-01-17&g=2009-01-17), onder toepassing van [artikel 5.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.12&z=2009-01-17&g=2009-01-17).
 
-5. [Artikel 5.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2008-09-07&g=2009-01-01), is van overeenkomstige toepassing op de omvang van de reserve voor de werkloosheidslasten, onder toepassing van [artikel 5.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.12&z=2008-09-07&g=2009-01-01).
+5. [Artikel 5.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2009-01-17&g=2009-01-17), is van overeenkomstige toepassing op de omvang van de reserve voor de werkloosheidslasten, onder toepassing van [artikel 5.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.12&z=2009-01-17&g=2009-01-17).
 
 6. Bij de toepassing van het vierde lid wordt de wijziging van het lastenpercentage van de werkloosheidslasten in 1996 op nihil gesteld en worden de lastenpercentages in 1998 herberekend met een correctiefactor die door het UWV per sector is vastgesteld.
 
@@ -730,7 +726,7 @@ Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](htt
 
 ##### Artikel 5.15. Begripsbepalingen
 
-In deze afdeling en [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&z=2008-09-07&g=2009-01-01) wordt verstaan onder:
+In deze afdeling en [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&z=2009-01-17&g=2009-01-17) wordt verstaan onder:
 
 - a. een rekening-courant: een rekening in de centrale administratie van ’s Rijks schatkist bij het ministerie van Financiën op naam van een rekening-couranthouder, waarop dagelijks het geldelijk tegoed (positief of negatief) wordt bijgehouden van de betrokken rekening-couranthouder bij het Rijk en de mutaties in het tegoed;
 
@@ -762,7 +758,7 @@ In de centrale administratie van 's Rijks schatkist worden de volgende rekeninge
 
 - b. de afdrachten van de door de rijksbelastingdienst geïnde premies aan de rekening-couranthouders ten behoeve van de desbetreffende fondsen;
 
-- c. de creditrente, bedoeld in [artikel 5.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.18&z=2008-09-07&g=2009-01-01);
+- c. de creditrente, bedoeld in [artikel 5.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.18&z=2009-01-17&g=2009-01-17);
 
 - d. de bijschrijvingen op het tegoed van ’s Rijks schatkist bij een bankinstelling door de rekening-couranthouders.
 
@@ -772,7 +768,7 @@ In de centrale administratie van 's Rijks schatkist worden de volgende rekeninge
 
 - b. de eventuele terugbetalingen aan de rijksbelastingdienst samenhangende met de afdrachten, bedoeld in het eerste lid, onderdeel b;
 
-- c. de debetrente, bedoeld in [artikel 5.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.18&z=2008-09-07&g=2009-01-01);
+- c. de debetrente, bedoeld in [artikel 5.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.18&z=2009-01-17&g=2009-01-17);
 
 - d. de afschrijvingen van het tegoed van ’s Rijks schatkist bij een bankinstelling door de rekening-couranthouders.
 
@@ -824,7 +820,7 @@ De rekening-couranthouder is bevoegd een bedrag van ten hoogste € 2,5 miljoen 
 
 ##### Artikel 5.22. Rapportageverplichting rijksbelastingdienst
 
-1. De rijksbelastingdienst rapporteert uiterlijk de tiende werkdag na afloop van de maand over de opbrengsten, bedoeld in de [artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.20&z=2008-09-07&g=2009-01-01) en [5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.21&z=2008-09-07&g=2009-01-01) aan de Minister van Financiën en de SVB, het UWV en het College zorgverzekeringen.
+1. De rijksbelastingdienst rapporteert uiterlijk de tiende werkdag na afloop van de maand over de opbrengsten, bedoeld in de [artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.20&z=2009-01-17&g=2009-01-17) en [5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.21&z=2009-01-17&g=2009-01-17) aan de Minister van Financiën en de SVB, het UWV en het College zorgverzekeringen.
 
 2. In afwijking van het eerste lid vindt de rapportage over de laatste maand van het kalenderjaar uiterlijk de vijftiende werkdag na afloop van het kalenderjaar plaats.
 
@@ -870,7 +866,7 @@ In deze afdeling wordt verstaan onder:
 
 ##### Artikel 5.25. Afdracht kinderbijslagen
 
-1. Met als valutadag de eerste dag van elke maand stort de Minister voor Jeugd en Gezin het bedrag van de geraamde kinderbijslagen in die maand op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2008-09-07&g=2009-01-01). De Minister voor Jeugd en Gezin kan, na overleg met de SVB, van het geraamde bedrag afwijken.
+1. Met als valutadag de eerste dag van elke maand stort de Minister voor Jeugd en Gezin het bedrag van de geraamde kinderbijslagen in die maand op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2009-01-17&g=2009-01-17). De Minister voor Jeugd en Gezin kan, na overleg met de SVB, van het geraamde bedrag afwijken.
 
 2. Met als valutadag de eerste dag van elk kwartaal verrekent de Minister voor Jeugd en Gezin het verschil tussen de uitbetaalde kinderbijslagen en de geraamde kinderbijslagen over het kwartaal gelegen twee kwartalen voor dat kwartaal met het bedrag, bedoeld in het eerste lid.
 
@@ -880,7 +876,7 @@ In het jaarplan met begroting verstrekt de SVB elk jaar aan de Minister van Soci
 
 ##### Artikel 5.27. Afdracht uitvoeringskosten
 
-Met als valutadag de eerste dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid ééntwaalfde van het bedrag van de geraamde uitvoeringskosten per jaar op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2008-09-07&g=2009-01-01). De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met de SVB, van dit bedrag afwijken.
+Met als valutadag de eerste dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid ééntwaalfde van het bedrag van de geraamde uitvoeringskosten per jaar op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2009-01-17&g=2009-01-17). De Minister van Sociale Zaken en Werkgelegenheid kan, na overleg met de SVB, van dit bedrag afwijken.
 
 ##### Artikel 5.28. Afrekening
 
@@ -900,9 +896,9 @@ De Minister van Sociale Zaken en Werkgelegenheid en de Minister voor Jeugd en Ge
 
 1. Uiterlijk op de zesde dag van elke maand verstrekt het UWV aan de Minister van Sociale Zaken en Werkgelegenheid afzonderlijk per wet een opgave van:
 
-- a. overeenkomstig de bij deze regeling behorende [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=2&z=2008-09-07&g=2009-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=3&z=2008-09-07&g=2009-01-01) de geraamde toeslagen, uitkeringen en overige posten in deze maand, en
+- a. overeenkomstig de bij deze regeling behorende [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=2&z=2009-01-17&g=2009-01-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=3&z=2009-01-17&g=2009-01-17) de geraamde toeslagen, uitkeringen en overige posten in deze maand, en
 
-- b. overeenkomstig de bij deze regeling behorende [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=4&z=2008-09-07&g=2009-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=5&z=2008-09-07&g=2009-01-01) de uitbetaalde toeslagen, uitkeringen en overige posten over de maand gelegen twee maanden voor deze maand.
+- b. overeenkomstig de bij deze regeling behorende [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=4&z=2009-01-17&g=2009-01-17) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=5&z=2009-01-17&g=2009-01-17) de uitbetaalde toeslagen, uitkeringen en overige posten over de maand gelegen twee maanden voor deze maand.
 
 2. Indien de dag, bedoeld in het eerste lid, een zaterdag, zondag of algemeen erkende feestdag is, vindt de verstrekking plaats op de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is.
 
@@ -914,7 +910,7 @@ De Minister van Sociale Zaken en Werkgelegenheid en de Minister voor Jeugd en Ge
 
 ##### Artikel 5.31. Afdracht toeslagen en uitkeringen
 
-1. Met als valutadag de elfde dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid het bedrag van de geraamde toeslagen, uitkeringen en overige posten in die maand op een rekening-courant als bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2008-09-07&g=2009-01-01). De Minister kan, na overleg met het UWV, van dit bedrag afwijken.
+1. Met als valutadag de elfde dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid het bedrag van de geraamde toeslagen, uitkeringen en overige posten in die maand op een rekening-courant als bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2009-01-17&g=2009-01-17). De Minister kan, na overleg met het UWV, van dit bedrag afwijken.
 
 2. Met als valutadag de elfde dag van elke maand verrekent de Minister het verschil tussen de uitbetaalde toeslagen, uitkeringen en overige posten en de geraamde toeslagen, uitkeringen en overige posten in de maand gelegen twee maanden voor de maand, bedoeld in het eerste lid, met het bedrag, bedoeld in het eerste lid.
 
@@ -924,7 +920,7 @@ In het jaarplan met begroting verstrekt het UWV elk jaar aan de Minister van Soc
 
 ##### Artikel 5.33. Afdracht uitvoeringskosten
 
-Met als valutadag de elfde dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid ééntwaalfde van het bedrag van de geraamde uitvoeringskosten per jaar van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de [Tijdelijke wet BIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) en de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) op een rekening-courant als bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2008-09-07&g=2009-01-01). De Minister kan, na overleg met het UWV, van dit bedrag afwijken.
+Met als valutadag de elfde dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid ééntwaalfde van het bedrag van de geraamde uitvoeringskosten per jaar van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de [Tijdelijke wet BIA](https://wetten.overheid.nl/jci1.3:c:BWBR0007891) en de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) op een rekening-courant als bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2009-01-17&g=2009-01-17). De Minister kan, na overleg met het UWV, van dit bedrag afwijken.
 
 ##### Artikel 5.34. Afrekening
 
@@ -944,15 +940,15 @@ De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktober
 
 1. Uiterlijk op de zesde dag van elke maand verstrekt het UWV aan de Minister van Sociale Zaken en Werkgelegenheid voor de uitkeringen op grond van [hoofdstuk 3, afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=2), en [artikel 3:30 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) opgave van:
 
-- a. overeenkomstig de bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=6&z=2008-09-07&g=2009-01-01) het totaalbedrag aan geraamde uitkeringen in deze maand, en
+- a. overeenkomstig de bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=6&z=2009-01-17&g=2009-01-17) het totaalbedrag aan geraamde uitkeringen in deze maand, en
 
-- b. overeenkomstig de bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=7&z=2008-09-07&g=2009-01-01) het totaalbedrag aan uitbetaalde uitkeringen over de maand gelegen twee maanden voor deze maand.
+- b. overeenkomstig de bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=7&z=2009-01-17&g=2009-01-17) het totaalbedrag aan uitbetaalde uitkeringen over de maand gelegen twee maanden voor deze maand.
 
 2. Indien de dag, bedoeld in het eerste lid, een zaterdag, zondag of algemeen erkende feestdag is, vindt de verstrekking plaats op de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is.
 
 ##### Artikel 5.37. Afdracht uitkeringen
 
-1. Met als valutadag de elfde dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid het bedrag van de geraamde uitkeringen in die maand op een rekening-courant als bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2008-09-07&g=2009-01-01). De Minister kan, na overleg met het UWV, van dit bedrag afwijken.
+1. Met als valutadag de elfde dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid het bedrag van de geraamde uitkeringen in die maand op een rekening-courant als bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2009-01-17&g=2009-01-17). De Minister kan, na overleg met het UWV, van dit bedrag afwijken.
 
 2. Met als valutadag de elfde dag van elke maand verrekent de Minister het verschil tussen de uitbetaalde uitkeringen en de geraamde uitkeringen in de maand gelegen twee maanden voor de maand, bedoeld in het eerste lid, met het bedrag, bedoeld in het eerste lid.
 
@@ -998,7 +994,7 @@ Arbeidsongeschiktheidsfonds.
 
 ##### Artikel 6.2. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2006 waarbij [onderdeel 19 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2008-09-07&g=2009-01-01) bij deze regeling terug werkt tot en met 1 januari 2005.
+Deze regeling treedt in werking met ingang van 1 januari 2006 waarbij [onderdeel 19 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2009-01-17&g=2009-01-17) bij deze regeling terug werkt tot en met 1 januari 2005.
 
 ##### Artikel 6.3. Citeertitel
 
@@ -1096,7 +1092,7 @@ Contractcatering.
 
 ### **30. Besloten busvervoer**
 
-### **28. Taxi-en ambulancevervoer**
+### **28. Taxivervoer**
 
 ### **29. Openbaar vervoer**
 
@@ -1403,7 +1399,7 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ### Afdeling 4. Verhaal op werknemer
 
-### Afdeling 5. Premievrijstellingen en premiekorting
+### Afdeling 5. Premiekortingen en overgangsrecht premievrijstelling oudere werknemers
 
 ### Hoofdstuk 4. Gemoedsbezwaarden
 
@@ -1492,7 +1488,7 @@ In het jaarplan met begroting verstrekt het UWV elk jaar aan de Minister van Soc
 
 ##### Artikel 5.37b. Afdracht uitvoeringskosten
 
-Met als valutadag de elfde dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid ééntwaalfde van het bedrag van de geraamde uitvoeringskosten per jaar op grond van [hoofdstuk 3, afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=2), en [artikel 3:30 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) op een rekening-courant als bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2008-09-07&g=2009-01-01). De Minister kan, na overleg met het UWV, van dit bedrag afwijken.
+Met als valutadag de elfde dag van elke maand stort de Minister van Sociale Zaken en Werkgelegenheid ééntwaalfde van het bedrag van de geraamde uitvoeringskosten per jaar op grond van [hoofdstuk 3, afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=2), en [artikel 3:30 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) op een rekening-courant als bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2009-01-17&g=2009-01-17). De Minister kan, na overleg met het UWV, van dit bedrag afwijken.
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -1506,7 +1502,7 @@ Gedetailleerde omschrijving van de metaalindustrie:
 
 Onder vervaardigen, als bedoeld onder I en II, wordt eveneens verstaan het assembleren, monteren en samenstellen uit van derden betrokken onderdelen.
 
-Warenhuizen en filiaalbedrijven in de detailhandel die een loonsom WW van tenminste € 5.162.885 hebben
+Warenhuizen en filiaalbedrijven in de detailhandel die een loonsom WW van tenminste € 5.330.163 hebben
 
 Werkgevers die postzendingen verzorgen als bedoeld in [artikel 1 van de Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004423&artikel=1).
 
@@ -1590,7 +1586,7 @@ De werkgever kan de premiekorting, bedoeld in [artikel 47, eerste lid, van de Wf
 
 ### Hoofdstuk 6. Slotbepalingen
 
-## Bijlage 1. , behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.1&z=2009-01-17&g=2009-01-01)
+## Bijlage 1. , behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.1&z=2009-01-17&g=2009-01-17)
 
 Hier worden bedoeld schoonmaakbedrijven, glazenwassersbedrijven, gevelreinigingsbedrijven e.d.
 
