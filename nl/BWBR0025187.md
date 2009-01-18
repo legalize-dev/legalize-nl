@@ -4,7 +4,7 @@ identifier: "BWBR0025187"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-01-18"
-last_updated: "2009-01-01"
+last_updated: "2009-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025187"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025187&artikel=2&z=2009-01-18&g=2009-01-01) bedraagt de vaste vergoeding van een lid, waaronder de voorzitter, per kalenderjaar maximaal 50% van de jaarwedde volgens het eerste niveau na schaal 18 per jaar.
+Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025187&artikel=2&z=2009-01-18&g=2009-01-18) bedraagt de vaste vergoeding van een lid, waaronder de voorzitter, per kalenderjaar maximaal 50% van de jaarwedde volgens het eerste niveau na schaal 18 per jaar.
 
 ##### Artikel 4
 
