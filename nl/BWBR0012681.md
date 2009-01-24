@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2008-12-18"
+last_updated: "2009-01-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -120,7 +120,9 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 6°. de United Nations Interim Force in Lebanon, voor zover deze deelname heeft plaatsgehad op het grondgebied van Libanon, in het luchtruim daarboven en in de aangrenzende wateren van de Middellandse Zee;
 
-- 7°. de missie ten behoeve van het Bureau Intégré des Nations Unies au Burundi ‘BINUB’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi: VN OPERATIES;
+- 7°. de missie ten behoeve van het Bureau Intégré des Nations Unies au Burundi ‘BINUB’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Burundi;
+
+- 8°. de missie ten behoeve van de United Nations African Union Mission in Darfur ‘UNAMID’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan, provincie Darfur: VN OPERATIES;
 
 - dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie:
 
@@ -146,7 +148,9 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 7°. de EU Rule of Law missie in Kosovo ‘EULEX Kosovo’, voor zover deze deelname heeft plaatsgehad op het grondgebied in KOSOVO vanaf 16 februari 2008;
 
-- 8°. de EU-operatie ‘EUFOR Tchad/RCA’, voor zover deze deelname heeft plaatsgehad in de regio Oost Tsjaad, grenzend aan Darfur en het noorden van de Centraal Afrikaanse Republiek vanaf mei 2008: EU OPERATIES;
+- 8°. de EU-operatie ‘EUFOR Tchad/RCA’, voor zover deze deelname heeft plaatsgehad in de regio Oost Tsjaad, grenzend aan Darfur en het noorden van de Centraal Afrikaanse Republiek vanaf mei 2008;
+
+- 9°. de maritieme EVDB-operatie Atalanta in de wateren van en in de nabijheid van Somalië vanaf 8 december 2008: EU OPERATIES;
 
 - ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa:
 
