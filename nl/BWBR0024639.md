@@ -4,7 +4,7 @@ identifier: "BWBR0024639"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2008-10-26"
+last_updated: "2009-01-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024639"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 1. Een geregistreerde opleidingsinstelling beschikt over een bewijs waarop de opleiding waarop de registratie van toepassing is, is vermeld.
 
-2. De registratie van een opleidingsinstelling blijft gehandhaafd indien er opleidingen voor het examen conform de eisen van Part-66 of de [bijlagen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2008-10-26&g=2008-10-26) bij deze regeling, inzake basiskennis worden verzorgd of totdat de laatste deelnemer van het cohort dat gestart is met de opleiding vóór 28 september 2006, deze heeft afgerond.
+2. De registratie van een opleidingsinstelling kan worden gehandhaafd zolang er opleidingen voor het examen conform de eisen van Part-66 inzake basiskennis worden verzorgd, doch uiterlijk totdat de laatste deelnemer van het cohort dat gestart is met de opleiding vóór 28 september 2005, deze heeft beëindigd.
 
 3. De opleidingsinstelling dient het registratiebewijs in te leveren bij de Minister indien geen actieve deelnemers meer aan de opleidingsinstelling zijn verbonden of wanneer de laatste deelnemer van het in het tweede lid genoemd cohort de opleiding heeft afgerond.
 
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-De examencommissie voor onderhoudstechnici in de luchtvaart is bevoegd tot het afnemen van het examen waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis of typekennis voor afgifte van de bijzondere bevoegdverklaringen die kunnen worden vermeld op een AML of een Part-66-AML.
+De examencommissie voor onderhoudstechnici in de luchtvaart is bevoegd tot het afnemen van het examen waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis of typekennis voor afgifte van de bijzondere bevoegdverklaringen die kunnen worden vermeld op een AML of een Part-66 AML.
 
 ##### Artikel 4
 
@@ -118,9 +118,9 @@ De examinator is verplicht tot geheimhouding met betrekking tot de examenopgaven
 
 ##### Artikel 7
 
-1. De autorisatie kan worden geschorst wanneer een ernstig vermoeden bestaat dat de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2008-10-26&g=2008-10-26), of het examenreglement.
+1. De autorisatie kan worden geschorst wanneer een ernstig vermoeden bestaat dat de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2009-01-24&g=2009-01-24), of het examenreglement.
 
-2. De autorisatie kan worden ingetrokken wanneer de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2008-10-26&g=2008-10-26), of het examenreglement.
+2. De autorisatie kan worden ingetrokken wanneer de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2009-01-24&g=2009-01-24), of het examenreglement.
 
 ### Hoofdstuk 4. Examenreglement
 
@@ -132,18 +132,18 @@ De examinator is verplicht tot geheimhouding met betrekking tot de examenopgaven
 
 ##### Artikel 9
 
-1. De basiskennismodules voor de in tabel 1 genoemde bevoegdverklaringen op een AML waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis voor afgifte van die bevoegdverklaringen, zijn vastgelegd in de bij deze regeling behorende [bijlagen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2008-10-26&g=2008-10-26) en de tabellen 2 en 3.
+1. De basiskennismodules voor de in tabel 1 genoemde bevoegdverklaringen op een AML waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis voor afgifte van die bevoegdverklaringen, zijn vastgelegd in de bij deze regeling behorende [bijlagen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2009-01-24&g=2009-01-24) en de tabellen 2 en 3.
 
 | Bevoegdverklaring | Basiskennis | Examen duur |
 | --- | --- | --- |
-| AB1Z/T | [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2008-10-26&g=2008-10-26) (voorheen 70) | tabel 2 |
-| AB2Z/T | [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=2&z=2008-10-26&g=2008-10-26) (voorheen 71) | tabel 2 |
-| AB3Z/T | [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=3&z=2008-10-26&g=2008-10-26) (voorheen 72) | tabel 2 |
-| C(E)F | [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=4&z=2008-10-26&g=2008-10-26) (voorheen 73) | tabel 2 |
-| DG | [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=5&z=2008-10-26&g=2008-10-26) (voorheen 74) | tabel 2 |
-| A | [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=6&z=2008-10-26&g=2008-10-26) (voorheen 75) | tabel 3 |
-| B | [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=7&z=2008-10-26&g=2008-10-26) (voorheen 76) | tabel 3 |
-| C | [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=8&z=2008-10-26&g=2008-10-26) (voorheen 77) | tabel 3 |
+| AB1Z/T | [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2009-01-24&g=2009-01-24) (voorheen 70) | tabel 2 |
+| AB2Z/T | [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=2&z=2009-01-24&g=2009-01-24) (voorheen 71) | tabel 2 |
+| AB3Z/T | [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=3&z=2009-01-24&g=2009-01-24) (voorheen 72) | tabel 2 |
+| C(E)F | [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=4&z=2009-01-24&g=2009-01-24) (voorheen 73) | tabel 2 |
+| DG | [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=5&z=2009-01-24&g=2009-01-24) (voorheen 74) | tabel 2 |
+| A | [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=6&z=2009-01-24&g=2009-01-24) (voorheen 75) | tabel 3 |
+| B | [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=7&z=2009-01-24&g=2009-01-24) (voorheen 76) | tabel 3 |
+| C | [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=8&z=2009-01-24&g=2009-01-24) (voorheen 77) | tabel 3 |
 
 |   | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -188,11 +188,11 @@ Tabel 4. Examen voor deelnemers die houder zijn van een AML.
 
 ##### Artikel 10
 
-1. Het examen voor de bevoegdverklaringen op een Part-66-AML, waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis voor afgifte van die bevoegdverklaringen, is vastgelegd in Part-66, inzake kwalificaties van onderhoudspersoneel, Bijlage III bij verordening (EG) nr. 2042/2003 van de Commissie van de Europese Gemeenschappen van 20 november 2003 (PbEG L 315).
+1. Het examen voor de bevoegdverklaringen op een Part-66 AML, waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis voor afgifte van die bevoegdverklaringen, is vastgelegd in Part-66, inzake kwalificaties van onderhoudspersoneel, Bijlage III bij verordening (EG) nr. 2042/2003 van de Commissie van de Europese Gemeenschappen van 20 november 2003 (PbEG L 315).
 
-2. Wanneer de examenkandidaat houder is van een Part-66-AML omvat het examen, bedoeld in het eerste lid, de modules opgenomen in de bij deze regeling behorende tabel 6.
+2. Wanneer de examenkandidaat houder is van een Part-66 AML omvat het examen, bedoeld in het eerste lid, de modules opgenomen in de bij deze regeling behorende tabel 6.
 
-Tabel 6. Examen voor deelnemers die houder zijn van een Part-66-AML.
+Tabel 6. Examen voor deelnemers die houder zijn van een Part-66 AML.
 
 • = examenmodule die deel uitmaakt van het examen.
 
@@ -214,11 +214,11 @@ Tabel 6. Examen voor deelnemers die houder zijn van een Part-66-AML.
 
 3. Toelating vindt plaats nadat de kosten volgens de [Regeling tarieven luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0023145) zijn vergoed en de examinandus een wettig en geldig legitimatiebewijs heeft overgelegd.
 
-4. In afwijking van het eerste, tweede en derde lid behoeft geen aanvraag te worden ingediend en geen vergoeding van de kosten plaats te vinden wanneer sprake is van een examen bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=11&z=2008-10-26&g=2008-10-26).
+4. In afwijking van het eerste, tweede en derde lid behoeft geen aanvraag te worden ingediend en geen vergoeding van de kosten plaats te vinden wanneer sprake is van een examen bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=11&z=2009-01-24&g=2009-01-24).
 
 ##### Artikel 13
 
-1. De examinandus kan door de examinator van verdere deelname aan het examen worden uitgesloten indien deze in strijd handelt met het reglement, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=8&z=2008-10-26&g=2008-10-26).
+1. De examinandus kan door de examinator van verdere deelname aan het examen worden uitgesloten indien deze in strijd handelt met het reglement, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=8&z=2009-01-24&g=2009-01-24).
 
 2. De voorzitter wordt door de examinator over een uitsluiting, bedoeld in het eerste lid, geïnformeerd.
 
@@ -226,7 +226,7 @@ Tabel 6. Examen voor deelnemers die houder zijn van een Part-66-AML.
 
 1. Het examenresultaat wordt als regel beoordeeld door de examinator die het examen heeft afgenomen. De voorzitter is evenwel bevoegd een andere examinator voor de beoordeling van het examenresultaat aan te wijzen.
 
-2. De uitslag van het examen wordt namens de Minister vastgesteld door de beoordelende examinator met instemming van de voorzitter. Bij een uitsluiting bedoeld in [artikel 13, het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=13&z=2008-10-26&g=2008-10-26), wordt als uitslag van het examen het cijfer 1,0 of 0% vastgesteld.
+2. De uitslag van het examen wordt namens de Minister vastgesteld door de beoordelende examinator met instemming van de voorzitter. Bij een uitsluiting bedoeld in [artikel 13, het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=13&z=2009-01-24&g=2009-01-24), wordt als uitslag van het examen het cijfer 1,0 of 0% vastgesteld.
 
 3. De uitslag van het examen wordt uiterlijk zes weken nadat het examen is afgelegd schriftelijk aan de examinandus bekend gemaakt.
 
@@ -242,7 +242,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 17
 
-Deze regeling wordt aangehaald als: Regeling opleiding en examen bevoegdverklaringen AML en Part-66-AML.
+Deze regeling wordt aangehaald als: Regeling opleiding en examen bevoegdverklaringen AML en Part-66 AML.
 
 ## Bijlage 1
 
