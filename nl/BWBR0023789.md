@@ -4,7 +4,7 @@ identifier: "BWBR0023789"
 country: "nl"
 rank: "zbo"
 publication_date: "2015-03-31"
-last_updated: "2008-05-01"
+last_updated: "2009-01-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023789"
 soort: "zbo"
@@ -93,7 +93,7 @@ In dit besluit wordt verstaan onder:
 
 3. Van verhoogde ernst of verwijtbaarheid, die aanleiding is voor toepassing van een verhoogd percentage, is sprake indien:
 
-- d. het niet naleven van de verplichting buitengewoon nadelige gevolgen heeft gehad voor de werkzaamheden van het UWV of de CWI of voor de re-integratie van de betrokkene; of
+- d. het niet naleven van de verplichting buitengewoon nadelige gevolgen heeft gehad voor de werkzaamheden van het UWV of voor de re-integratie van de betrokkene; of
 
 - e. het niet naleven van de verplichting, gelet op de omstandigheden waaronder dit heeft plaatsgevonden, moet worden aangemerkt als buitengewoon laakbaar.
 
@@ -103,7 +103,7 @@ In dit besluit wordt verstaan onder:
 
 1. Het UWV ziet af van het opleggen van een maatregel en volstaat met het geven van een schriftelijke waarschuwing indien wordt voldaan aan alle bij of krachtens de wet daaraan gestelde voorwaarden.
 
-2. In afwijking van het eerste lid wordt bij het niet naleven van een termijngebonden verplichting een maatregel opgelegd indien de termijnoverschrijding groter is dan veertien kalenderdagen. Indien in de periode van veertien kalenderdagen een of meer werkdagen voorkomen waarop de kantoren van het UWV of de CWI gesloten zijn, wordt die periode met even zo veel werkdagen verlengd.
+2. In afwijking van het eerste lid wordt bij het niet naleven van een termijngebonden verplichting een maatregel opgelegd indien de termijnoverschrijding groter is dan veertien kalenderdagen. Indien in de periode van veertien kalenderdagen een of meer werkdagen voorkomen waarop de kantoren van het UWV gesloten zijn, wordt die periode met even zo veel werkdagen verlengd.
 
 ##### Artikel 5. Bijzonderheden eerste categorie
 
@@ -135,7 +135,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 8. Bijzonderheden vierde categorie
 
-1. Bij het niet naleven van een verplichting uit de vierde categorie wordt de hoogte van de maatregel vastgesteld op 50 procent indien er sprake is van verminderde ernst of verwijtbaarheid.
+1. Bij het niet naleven van een verplichting uit de vierde categorie wordt de hoogte van de maatregel vastgesteld op 50 procent indien er sprake is van verminderde verwijtbaarheid.
 
 2. Bij het niet naleven van de verplichting, genoemd in [artikel 88, eerste lid, onder d, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=88), wordt de uitkering geweigerd voor de duur van het verlengde tijdvak, bedoeld in [artikel 25, negende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25).
 
