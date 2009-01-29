@@ -4,7 +4,7 @@ identifier: "BWBR0025239"
 country: "nl"
 rank: "zbo"
 publication_date: "2010-03-08"
-last_updated: "2009-01-01"
+last_updated: "2009-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025239"
 soort: "zbo"
@@ -50,7 +50,7 @@ Het college verdeelt in het jaar 2009 een totaal bedrag van 3,776 miljoen euro o
 
 ##### Artikel 3
 
-Het college verdeelt het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025239&artikel=2&z=2009-01-29&g=2009-01-01) genoemde totaalbedrag als volgt:
+Het college verdeelt het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025239&artikel=2&z=2009-01-29&g=2009-01-29) genoemde totaalbedrag als volgt:
 
 - a. een derde deel van het bedrag, welk deel geacht wordt betrekking te hebben op de op verzekerden gerichte administratiedelen, verdeelt het college over de zorgverzekeraars op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
 
@@ -60,11 +60,11 @@ Het college verdeelt het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 4
 
-Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025239&artikel=2&z=2009-01-29&g=2009-01-01) gebruikt het college de opgaven van de zorgverzekeraars van de verzekerdenaantallen per 1 juli 2008.
+Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025239&artikel=2&z=2009-01-29&g=2009-01-29) gebruikt het college de opgaven van de zorgverzekeraars van de verzekerdenaantallen per 1 juli 2008.
 
 ##### Artikel 5
 
-Na ommekomst van het budgetjaar stelt het college de budgetten, met toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025239&artikel=3&z=2009-01-29&g=2009-01-01), nader vast. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025239&artikel=4&z=2009-01-29&g=2009-01-01) gaat het college bij de nadere vaststelling uit van de opgaven van de zorgverzekeraars van de verzekerdenaantallen per 1 juli 2009.
+Na ommekomst van het budgetjaar stelt het college de budgetten, met toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025239&artikel=3&z=2009-01-29&g=2009-01-29), nader vast. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025239&artikel=4&z=2009-01-29&g=2009-01-29) gaat het college bij de nadere vaststelling uit van de opgaven van de zorgverzekeraars van de verzekerdenaantallen per 1 juli 2009.
 
 ##### Artikel 6
 
