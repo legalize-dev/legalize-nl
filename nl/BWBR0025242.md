@@ -4,7 +4,7 @@ identifier: "BWBR0025242"
 country: "nl"
 rank: "zbo"
 publication_date: "2010-02-07"
-last_updated: "2009-01-01"
+last_updated: "2009-01-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025242"
 soort: "zbo"
@@ -52,7 +52,7 @@ Het college verdeelt in het jaar 2009 een totaal bedrag van 163,600 miljoen euro
 
 ##### Artikel 3
 
-Het college verdeelt het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=2&z=2009-01-30&g=2009-01-01) genoemde totaalbedrag als volgt:
+Het college verdeelt het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=2&z=2009-01-30&g=2009-01-30) genoemde totaalbedrag als volgt:
 
 - a. een bedrag van 21,567 miljoen euro wordt op basis van een bedrag van € 177,36 per PGB budgethouder verdeeld;
 
@@ -64,7 +64,7 @@ Het college verdeelt het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 4
 
-Het college verdeelt het na toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=3&z=2009-01-30&g=2009-01-01) resterende bedrag als volgt:
+Het college verdeelt het na toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=3&z=2009-01-30&g=2009-01-30) resterende bedrag als volgt:
 
 - a. 15% op basis van een vast bedrag per verbindingskantoor, vermeerderd met een zelfde bedrag per regio waarvoor het verbindingskantoor is aangewezen;
 
@@ -72,7 +72,7 @@ Het college verdeelt het na toepassing van [artikel 3](https://wetten.overheid.n
 
 ##### Artikel 5
 
-1. De resultaten van de berekeningen ingevolge de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=3&z=2009-01-30&g=2009-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=4&z=2009-01-30&g=2009-01-01) sommeert het college per regio.
+1. De resultaten van de berekeningen ingevolge de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=3&z=2009-01-30&g=2009-01-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=4&z=2009-01-30&g=2009-01-30) sommeert het college per regio.
 
 2. Ter verkrijging van het voorlopige budget voor beheerskosten [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) per verbindingskantoor sommeert het college het berekende bedrag per regio voor de regio’s waarvoor het verbindingskantoor is aangewezen.
 
@@ -80,7 +80,7 @@ Het college verdeelt het na toepassing van [artikel 3](https://wetten.overheid.n
 
 ##### Artikel 6
 
-1. De volgende incidentele en structurele toevoegingen die onderdeel vormen van het totaal bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=2&z=2009-01-30&g=2009-01-01), worden verdeeld onder de voorwaarde dat het verbindingskantoor zich hierover in het uitvoeringsverslag voldoende verantwoordt:
+1. De volgende incidentele en structurele toevoegingen die onderdeel vormen van het totaal bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=2&z=2009-01-30&g=2009-01-30), worden verdeeld onder de voorwaarde dat het verbindingskantoor zich hierover in het uitvoeringsverslag voldoende verantwoordt:
 
 - a. incidentele en structurele toevoeging voor verbetering publieksinformatie door zorgkantoren;
 
@@ -94,9 +94,9 @@ Het college verdeelt het na toepassing van [artikel 3](https://wetten.overheid.n
 
 ##### Artikel 7
 
-1. Na ommekomst van het budgetjaar stelt het college, met toepassing van de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=3&z=2009-01-30&g=2009-01-01), de budgetten over het jaar 2009 nader vast op basis van de werkelijke inwoneraantallen per januari 2009 en de werkelijke aantallen PGB budgethouders per 1 juli 2009. Voor de bepaling van de werkelijke inwoneraantallen en budgethouders baseert het CVZ zich op de gegevens van dezelfde instanties als die aan wier gegevens voor de voorlopige budgetberekeningen zijn ontleend.
+1. Na ommekomst van het budgetjaar stelt het college, met toepassing van de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=3&z=2009-01-30&g=2009-01-30), de budgetten over het jaar 2009 nader vast op basis van de werkelijke inwoneraantallen per januari 2009 en de werkelijke aantallen PGB budgethouders per 1 juli 2009. Voor de bepaling van de werkelijke inwoneraantallen en budgethouders baseert het CVZ zich op de gegevens van dezelfde instanties als die aan wier gegevens voor de voorlopige budgetberekeningen zijn ontleend.
 
-2. Bij de nadere vaststelling, bedoeld in het eerste lid, controleert het college of de verbindingskantoren aan de voorwaarden genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=6&z=2009-01-30&g=2009-01-01) hebben voldaan.
+2. Bij de nadere vaststelling, bedoeld in het eerste lid, controleert het college of de verbindingskantoren aan de voorwaarden genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025242&artikel=6&z=2009-01-30&g=2009-01-30) hebben voldaan.
 
 ##### Artikel 8
 
