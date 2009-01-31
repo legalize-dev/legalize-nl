@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2009-01-01"
+last_updated: "2009-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -7583,31 +7583,31 @@ Ingevolge artikel 17, eerste lid, EG-Verdrag is een ieder die de nationaliteit v
 
 De kring van familieleden die aan de richtlijn het (accessoire) recht op vrij verkeer ontlenen, omvat de volgende personen:
 
-De vreemdeling, die een geldig nationaal paspoort of geldige identiteitskaart van een lidstaat toont, toont daarmee aan burger te zijn van de Unie en wordt daarom geacht verblijfsrecht te ontlenen aan het gemeenschapsrecht en daarmee als gemeenschapsonderdaan rechtmatig hier te lande te verblijven in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), zolang en indien onderzoek niet heeft uitgewezen dat daaraan niet wordt voldaan. Dergelijk onderzoek is uitsluitend toegestaan indien er redelijke twijfel bestaat of aan de voorwaarden voor verblijf is voldaan. Hiervan kan bijvoorbeeld sprake zijn in de situatie waarin een economisch niet-actieve die het bewijs heeft geleverd dat hij aan de voorwaarden van artikel 7, eerste lid, onder b, van de richtlijn voldoet, of een van zijn familieleden, enige tijd na inschrijving niettemin een aanvraag indient voor bijstand. Of de situatie waarin een student die heeft verklaard over voldoende middelen van bestaan te beschikken na inschrijving toch een beroep doet op de bijstand of studiefinanciering voor het levensonderhoud. Ook kan gedacht worden aan een werknemer die door middel van een werkgeversverklaring heeft aangetoond over voltijds werk voor tenminste een jaar te beschikken, maar die binnen dat jaar een beroep doet op volledige bijstand of die zijn werk tijdens of kort na de wettelijke proeftijd, en derhalve ruim binnen het jaar, opgeeft en vervolgens een beroep doet op studiefinanciering voor het levensonderhoud voor een studie die geen verband houdt met zijn voorafgaande beroepsactiviteit. Ook valt te denken aan situaties waarin een familielid, dat niet de nationaliteit van een EU- of EER-lidstaat bezit, na vertrek van degene van wie zijn verblijfsrecht afhankelijk was of na diens overlijden, beroep doet op de bijstand. In al deze gevallen kan het verblijf, in geval is vastgesteld dat niet langer aan de relevante voorwaarden voor verblijf is voldaan, per beschikking worden beëindigd. Van een automatische beëindiging van het verblijf kan daarbij echter geen sprake zijn.
+De richtlijn bepaalt voorts dat binnenkomst en verblijf worden vergemakkelijkt voor de volgende categorieën van personen:
 
-Vanzelfsprekend geldt bij het vorenstaande dat bedoeld onderzoek door de Minister zich richt op de door de betrokken burger daartoe verschafte gegevens en bescheiden, ter onderbouwing van diens stelling dat hij een verblijfsrecht aan het gemeenschapsrecht ontleent, en voor zover die bescheiden ingevolge de ter zake geldende regels van gemeenschapsrecht mogen worden verlangd (zie B10/5.2).
+In alle gevallen dient het om een (nog immer) bestaande relatie te gaan.
 
 ### 4.3. Beroep op de publieke middelen
 
-Voor familieleden van EU- en EER-onderdanen en onderdanen van Zwitserland, die niet de nationaliteit bezitten van een EU- of EER-lidstaat of Zwitserland, blijkt het rechtmatig verblijf uit een document of verklaring dat een aanvraag is ingediend (sticker voor verblijfsaantekeningen). Op grond van [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) wordt zo’n document of verklaring dat een aanvraag is ingediend afgegeven door de Minister. Ingevolge [artikel 3.9, eerste lid, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.9) is de IND, bevoegd dit document of deze verklaring af te geven.
+De vreemdeling die onderdaan is van de EU, EER of Zwitserland, die in het bezit is van een geldig nationaal paspoort of geldige identiteitskaart van een lidstaat toont daarmee aan burger te zijn van de Unie. Deze vreemdeling wordt daarom geacht verblijfsrecht te ontlenen aan het gemeenschapsrecht en daarmee als gemeenschapsonderdaan rechtmatig hier te lande te verblijven in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), zolang en indien onderzoek niet heeft uitgewezen dat zulks niet het geval is. Dergelijk onderzoek is uitsluitend toegestaan indien er redelijke twijfel bestaat of aan de voorwaarden voor verblijf is voldaan. Hiervan kan bijvoorbeeld sprake zijn in de situatie waarin een economisch niet-actieve die het bewijs heeft geleverd dat hij aan de voorwaarden van artikel 7, eerste lid, onder b, van de richtlijn voldoet, of een van zijn familieleden, enige tijd na inschrijving niettemin een aanvraag indient voor bijstand. Of de situatie waarin een student die heeft verklaard over voldoende middelen van bestaan te beschikken na inschrijving toch een beroep doet op de bijstand of studiefinanciering voor het levensonderhoud. Ook kan gedacht worden aan een werknemer die door middel van een werkgeversverklaring heeft aangetoond over voltijds werk voor tenminste een jaar te beschikken, maar die binnen dat jaar een beroep doet op volledige bijstand of die zijn werk tijdens of kort na de wettelijke proeftijd, en derhalve ruim binnen het jaar, opgeeft en vervolgens een beroep doet op studiefinanciering voor het levensonderhoud voor een studie die geen verband houdt met zijn voorafgaande beroepsactiviteit. Ook valt te denken aan situaties waarin een familielid, dat niet de nationaliteit van een EU- of EER-lidstaat bezit, na vertrek van degene van wie zijn verblijfsrecht afhankelijk was of na diens overlijden, beroep doet op de bijstand. In al deze gevallen kan het verblijf, in geval is vastgesteld dat niet langer aan de relevante voorwaarden voor verblijf is voldaan, per beschikking worden beëindigd. Van een automatische beëindiging van het verblijf kan daarbij echter geen sprake zijn.
 
-Slechts het duurzame verblijfsrecht van EU- en EER-onderdanen en onderdanen van Zwitserland en hun familieleden, ongeacht hun nationaliteit, blijkt uit een op aanvraag te verstrekken document ‘Duurzaam verblijf burgers van de Unie’.
+Vanzelfsprekend geldt bij het vorenstaande dat bedoeld onderzoek door de Minister zich richt op de door de betrokken burger daartoe verschafte gegevens en bescheiden, ter onderbouwing van diens stelling dat hij een verblijfsrecht aan het gemeenschapsrecht ontleent, en voor zover die bescheiden ingevolge de ter zake geldende regels van gemeenschapsrecht mogen worden verlangd (zie B10/5.2).
 
 ### 2.6.1. Niet betalen van leges
 
-### 2.2. Mvv-vereiste
+### 2. Algemeen
 
 Onderdanen van de EU/EER en van Zwitserland zijn vrijgesteld van de plicht te beschikken over een geldige mvv. Voor familieleden van de onderdanen van de EU/EER of Zwitserland, die zelf niet EU/EER-onderdaan of onderdaan van Zwitserland zijn en afkomstig zijn uit een visumplichtig derde land (niet afkomstig uit een land genoemd in [bijlage 2 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=2)), houdt dit in dat zij als gezinslid zonder mvv kort verblijf Nederland kunnen inreizen, teneinde alhier de gemeenschapsrechten uit te oefenen. De vrijstelling van het mvv-vereiste geldt eveneens indien genoemd gezinslid een geldige verblijfskaart van een andere lidstaat toont. Indien zij alleen reizen en uitsluitend de nationaliteit hebben van een visumplichtig derde land, geldt onverkort de visumplicht of het mvv-vereiste. Vorenstaande geldt ingevolge [artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) ook voor familie- en gezinsleden van onderdanen uit Zwitserland.
 
-EU- en EER-onderdanen en onderdanen van Zwitserland mogen op grond van het EG-Verdrag vrij in Nederland werken. Daarom mag voor het laten werken van een EU- of EER- onderdaan of Zwitserse onderdaan geen TWV worden verlangd. De bepalingen in de Wav zijn evenmin van toepassing op gemeenschapsonderdanen, die zelf geen EU- of EER-onderdaan of Zwitserse onderdaan zijn (zie B10/8 inzake het overgangsrecht).
+Voor de regels met betrekking tot toegang van onderdanen van de EU, de EER en Zwitserland en hun familieleden of gezinsleden wordt verwezen naar [A2/6.2.2.2](onbekend).
 
 Onderdanen van de EU, EER, en van Zwitserland zijn niet verplicht hun aanwezigheid te melden bij de autoriteiten belast met toezicht. Indien zij verblijf beogen van langer dan drie maanden zijn zij wel verplicht zich aan te melden ter inschrijving bij de IND (zie [artikel 8.12, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)).
 
-Op het moment dat de EU- of EER-onderdaan of Zwitserse onderdaan reële en daadwerkelijke arbeid als werknemer of als zelfstandige verricht, geldt hetgeen in de volgende paragrafen (inzake economisch actieven) wordt vermeld. Indien de werkzoekende EU- of EER-onderdaan of Zwitserse onderdaan zelfstandig – niet uit arbeid maar uit andere bronnen – over middelen van bestaan beschikt, dient te worden beoordeeld of de EU/EER-onderdaan of Zwitserse onderdaan wellicht als economisch niet-actieve verblijfsrecht heeft.
+Onderdanen van de EU, de EER en Zwitserland zijn vrijgesteld van de plicht te beschikken over een geldige mvv. De vrijstelling van het mvv-vereiste geldt eveneens indien een familielid van een onderdaan van de EU, de EER of Zwitserland een door een andere lidstaat afgegeven geldige verblijfskaart met de aantekening ‘familielid van een burger van de Unie’ toont.
 
 ### 3.1. Verblijfstermijn voor werkzoekenden
 
-EU- en EER-onderdanen en onderdanen van Zwitserland hebben het recht om gedurende drie maanden in Nederland werk te zoeken. Hoofdregel voor werkzoekenden is dat, zolang er reëel uitzicht is op werk, het rechtmatig verblijf ook na deze periode van drie maanden steeds voortduurt (zie [artikel 8.16, tweede lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.16)).
+Wanneer een visumplichtige ongehuwde partner van een onderdaan van de EU, de EER en Zwitserland zich wenst te vestigen bij de in Nederland verblijvende en van zijn recht op vrij verkeer gebruik makende onderdaan van de EU, de EER of Zwitserland, dient beoordeeld te worden of sprake is van een deugdelijk bewezen duurzame relatie in de zin van [artikel 8.7, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7). Eerst indien daarvan sprake is kan een visumplichtige ongehuwde partner van een onderdaan van de EU, de EER en Zwitserland Nederland inreizen ten behoeve van vestiging bij die partner zonder dat hij in het bezit is van een mvv (maar slechts van een visum kort verblijf). Voor de gevallen waarin wordt aangenomen dat sprake is van een deugdelijk bewezen duurzame relatie in de zin van [artikel 8.7, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) wordt verwezen naar [A2/6.2.2.2](onbekend) of B10/1.7 Vc.
 
 Burgers van de Unie, onderdanen van de EER en onderdanen van Zwitserland, alsmede hun gezinsleden ongeacht hun nationaliteit, genieten rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), tenzij zij verblijf houden in strijd met een beperking op grond van een regeling vastgesteld krachtens het EG-Verdrag of de Overeenkomst EG-Zwitserland. Voor andere EU/EER-onderdanen, Zwitserse onderdanen en hun gezinsleden zijn de overige bepalingen van [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) voor de vaststelling van het rechtmatig verblijf van toepassing. Burgers van de Unie hebben het recht vrij op het grondgebied van de lidstaten te verblijven, onder voorbehoud van de beperkingen en voorwaarden die bij het EG-Verdrag en de bepalingen ter uitvoering daarvan zijn vastgesteld. Onderdanen van de EER en van Zwitserland hebben daaraan gelijkwaardige rechten. Het vrije verkeer van personen brengt echter geen absoluut verblijfsrecht mee in de zin dat iedere burger van de Unie te allen tijde in Nederland verblijfsgerechtigd is. Ingevolge artikel 18, eerste lid, EG-Verdrag hebben zij, onder voorbehoud van de beperkingen en de voorwaarden van het EG-Verdrag en de bepalingen die ter uitvoering daarvan zijn vastgesteld, het recht vrij te reizen en te verblijven op het grondgebied van de lidstaten van de EU. Het stelsel van [Richtlijn 2004/38](32004L0038) kent hierbij verschillende fasen van het verblijf van de burger van de Unie en diens familieleden:
 
@@ -7615,19 +7615,19 @@ Burgers van de Unie, onderdanen van de EER en onderdanen van Zwitserland, alsmed
 
 De eerste periode van verblijf van de burger van de Unie bedraagt drie maanden. In deze periode worden geen andere voorwaarden gesteld dan het bezit van een geldig paspoort of een geldige identiteitskaart. De burger van de Unie die door middel van een identiteitskaart zijn identiteit en nationaliteit aantoont, bezit recht op verblijf. Het niet beschikken over een geldige identiteitskaart of een geldig paspoort doet echter niet af aan de rechtmatigheid van het verblijf, indien het bewijs van identiteit en nationaliteit ondubbelzinnig met andere middelen kan worden geleverd (zie [artikel 8.11 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.11)). Ten aanzien van burgers van de Unie wordt niet langer onderscheid gemaakt tussen rechtmatig verblijf in de zogeheten vrije termijn ([artikel 8, onder i, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8)) en rechtmatig verblijf als gemeenschapsonderdaan ([artikel 8, onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8)). Ingevolge artikel 18, eerste lid, EG-Verdrag hebben burgers van de Unie het recht om in Nederland te verblijven, met dien verstande dat daaraan voorwaarden en beperkingen kunnen worden gesteld. Het uit artikel 18 EG-Verdrag voortvloeiende verblijfsrecht wordt aangenomen, zolang en indien het onderzoek niet heeft uitgewezen dat niet wordt voldaan aan die voorwaarden en beperkingen, zodat de burger van de Unie moet worden aangemerkt als gemeenschapsonderdaan (in de zin van [artikel 1, onderdeel e, onder 1, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1)) met rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
-Het onderscheid tussen rechtmatig verblijf in de vrije termijn en rechtmatig verblijf als gemeenschapsonderdaan is wel gehandhaafd ten aanzien van de familieleden die geen onderdaan zijn van EU- of EER- lidstaat of onderdaan van Zwitserland. Deze nemen een andere positie in dan de burgers van de Unie en artikel 18 EG-Verdrag is op hen niet van toepassing (zie verder B10/5).
+Om met succes beroep te kunnen doen op het gestelde in [artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) en verder, dienen EU/EER onderdanen of Zwitserse onderdanen een geldige identiteitskaart of een geldig paspoort over te leggen (conform bijlage IV GVI) dan wel op andere wijze ondubbelzinnig (zonder enige twijfel) hun identiteit en nationaliteit aan te tonen. De identiteitskaart of het paspoort dient overeenkomstig de wetgeving in de Lidstaat, waarvan zij onderdaan zijn, te zijn verstrekt. Hierop dient de nationaliteit van de onderdaan van de Lidstaat te zijn vermeld. Het enkele verlopen van de identiteitskaart of paspoort gedurende het rechtmatig verblijf in Nederland leidt niet tot verblijfsbeëindiging.
 
 Het rechtmatige verblijf van de EU- of EER-onderdaan of onderdaan van Zwitserland, dat gelet op het bovenstaande vanaf zijn inreis rechtmatig is, kan slechts met een beschikking worden beëindigd. In dat geval wordt in de vreemdelingenadministratie aangetekend dat het rechtmatige verblijf is beëindigd.
 
-Uitgangspunt is dat zolang het merendeel van de inkomsten – hiermee wordt bedoeld meer dan 50% van de betreffende bijstandsnorm – wordt verkregen uit arbeid, het er niet toe doet of deze inkomsten verder worden aangevuld uit eigen bron of uit de publieke middelen.
+Burgers van de Unie, onderdanen van de EER en onderdanen van Zwitserland, alsmede hun gezinsleden ongeacht hun nationaliteit, genieten rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), tenzij zij verblijf houden in strijd met een beperking op grond van een regeling vastgesteld krachtens het EG-Verdrag of de Overeenkomst EG-Zwitserland. Voor andere EU/EER-onderdanen, Zwitserse onderdanen en hun gezinsleden zijn de overige bepalingen van [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) voor de vaststelling van het rechtmatig verblijf van toepassing. Burgers van de Unie hebben het recht vrij op het grondgebied van de lidstaten te verblijven, onder voorbehoud van de beperkingen en voorwaarden die bij het EG-Verdrag en de bepalingen ter uitvoering daarvan zijn vastgesteld. Onderdanen van de EER en van Zwitserland hebben daaraan gelijkwaardige rechten. Het vrije verkeer van personen brengt echter geen absoluut verblijfsrecht mee in de zin dat iedere burger van de Unie te allen tijde in Nederland verblijfsgerechtigd is. Ingevolge artikel 18, eerste lid, EG-Verdrag hebben zij, onder voorbehoud van de beperkingen en de voorwaarden van het EG-Verdrag en de bepalingen die ter uitvoering daarvan zijn vastgesteld, het recht vrij te reizen en te verblijven op het grondgebied van de lidstaten van de EU. Het stelsel van [Richtlijn 2004/38](32004L0038) kent hierbij verschillende fasen van het verblijf van de burger van de Unie en diens familieleden:
 
-### 8.6. Reguliere verblijfsaanvraag
+### 2.5.1. Verblijfsrecht van maximaal drie maanden
 
-[Richtlijn 2004/38](32004L0038) voorziet, ter voorkoming van misbruik, in de mogelijkheid voor lidstaten van de burgers van de Unie te verlangen het bewijs te leveren dat zij voldoen aan de voorwaarden voor verblijf van langer dan drie maanden. In Nederland is voor EU- en EER-onderdanen en onderdanen van Zwitserland voorzien in een verplichting tot aanmelding ter inschrijving in de vreemdelingenadministratie, waarbij de in het [VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002) omschreven bewijzen moeten worden overgelegd. Als het bewijs dat aan de voorwaarden voor verblijf van langer dan drie maanden wordt voldaan is geleverd, wordt de burger van de Unie ingeschreven in de vreemdelingenadministratie en wordt onmiddellijk een verklaring van inschrijving afgegeven. Aan de inschrijving in de vreemdelingenadministratie en afgifte van een verklaring van inschrijving zijn geen leges verbonden. Ingevolge [artikel 8.12, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12) is deze aanmelding tot inschrijving verplicht. Het niet voldoen aan deze verplichting is in [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) strafbaar gesteld.
+De eerste periode van verblijf van de burger van de Unie bedraagt drie maanden. In deze periode worden geen andere voorwaarden gesteld dan het bezit van een geldig paspoort of een geldige identiteitskaart. De burger van de Unie die door middel van een identiteitskaart zijn identiteit en nationaliteit aantoont, bezit recht op verblijf. Het niet beschikken over een geldige identiteitskaart of een geldig paspoort doet echter niet af aan de rechtmatigheid van het verblijf, indien het bewijs van identiteit en nationaliteit ondubbelzinnig met andere middelen kan worden geleverd (zie [artikel 8.11 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.11)). Ten aanzien van burgers van de Unie wordt niet langer onderscheid gemaakt tussen rechtmatig verblijf in de zogeheten vrije termijn ([artikel 8, onder i, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8)) en rechtmatig verblijf als gemeenschapsonderdaan ([artikel 8, onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8)). Ingevolge artikel 18, eerste lid, EG-Verdrag hebben burgers van de Unie het recht om in Nederland te verblijven, met dien verstande dat daaraan voorwaarden en beperkingen kunnen worden gesteld. Het uit artikel 18 EG-Verdrag voortvloeiende verblijfsrecht wordt aangenomen, zolang en indien het onderzoek niet heeft uitgewezen dat niet wordt voldaan aan die voorwaarden en beperkingen, zodat de burger van de Unie moet worden aangemerkt als gemeenschapsonderdaan (in de zin van [artikel 1, onderdeel e, onder 1, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1)) met rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 ### 3. Economisch actieven
 
-Voor de voorwaarden voor verblijf van langer dan drie maanden als werknemer, zelfstandige, economisch niet-actieve of student wordt verwezen naar B10/3 en B10/4.
+Het rechtmatige verblijf van de EU- of EER-onderdaan of onderdaan van Zwitserland, dat gelet op het bovenstaande vanaf zijn inreis rechtmatig is, kan slechts met een beschikking worden beëindigd. In dat geval wordt in de vreemdelingenadministratie aangetekend dat het rechtmatige verblijf is beëindigd.
 
 Om aan te tonen dat de EU- of EER-onderdaan of onderdaan van Zwitserland voldoet aan de voorwaarden voor verblijf van langer dan drie maanden, bedoeld in [artikel 8.12, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12), dienen de hierna genoemde bewijzen te worden geleverd. In het [VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002) zijn per categorie de vereiste documenten die dit bewijs moeten leveren opgesomd.
 
@@ -7635,19 +7635,29 @@ Om aan te tonen dat de EU- of EER-onderdaan of onderdaan van Zwitserland voldoet
 
 ### 5.1. Samenwoningvereiste
 
-Het duurzame verblijfsrecht komt onder omstandigheden ook toe aan burgers van de Unie en hun familieleden ongeacht hun nationaliteit, die nog geen ononderbroken periode van vijf jaar in Nederland hebben verbleven (zie [artikel 8.17, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17) en B10/3.6).
+Slechts in geval van een zodanig, specifiek geval van redelijke twijfel of aan de voorwaarden wordt voldaan, wordt de inschrijving en daarmee de afgifte van de verklaring van inschrijving aangehouden tot onderzoek deze twijfel heeft weggenomen. Daarna vindt, indien is komen vast te staan dat aan de voorwaarden is voldaan, alsnog inschrijving plaats en wordt de verklaring van inschrijving afgegeven. Indien na onderzoek is komen vast te staan, dat niet aan de relevante voorwaarden is voldaan, wordt een beschikking gegeven waarin gemotiveerd wordt aangegeven dat niet is voldaan aan de voorwaarden voor inschrijving. Daarnaast kan de inschrijving dan wel afgifte van de verklaring van inschrijving worden aangehouden, indien het inwinnen van antecedenten bij de lidstaat van oorsprong of andere lidstaten onontbeerlijk wordt geacht voor de beoordeling of de EU- of EER-onderdaan een gevaar vormt voor de openbare orde of de openbare veiligheid. De inschrijving kan uiteraard vervolgens worden geweigerd, indien van een zodanig gevaar sprake blijkt te zijn. Een zodanige weigering geschiedt per beschikking (zie B10/7).
 
-De arbeidsverhouding van een werknemer in het internationale transport wordt verondersteld voldoende nauwe aanknoping met het Nederlands grondgebied te hebben, indien voldaan is aan de volgende voorwaarden:
+Voor de voorwaarden voor verblijf van langer dan drie maanden als werknemer, zelfstandige, economisch niet-actieve of student wordt verwezen naar B10/3 en B10/4.
 
 Op grond van Richtlijn 2004/38 wordt aan EU- en EER-onderdanen en onderdanen van Zwitserland geen document of schriftelijke verklaring (sticker voor verblijfsaantekeningen), waaruit het rechtmatig verblijf blijkt, afgegeven.
+
+Iedere burger van de Unie die gedurende een ononderbroken periode van vijf jaar legaal in Nederland heeft verbleven, heeft duurzaam verblijfsrecht in Nederland. Dit geldt ook voor familieleden van burgers van de Unie die niet de nationaliteit van een EU- of EER-lidstaat bezitten en die gedurende een ononderbroken periode van vijf jaar legaal in Nederland bij de burger van de Unie hebben gewoond ([artikel 8.17, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17)). Het duurzame verblijfsrecht van de EU- en EER-onderdanen en van onderdanen van Zwitserland en hun familieleden die niet de nationaliteit van een EU- of EER-lidstaat bezitten, blijkt uit het op aanvraag te verstrekken document ‘Duurzaam verblijf burgers van de Unie’. Terzake van de afdoening van een aanvraag tot afgifte van een document ‘Duurzaam verblijf burgers van de Unie’ dient leges te worden betaald.
+
+Het ononderbroken karakter van de periode van vijf jaar legaal verblijf wordt niet onderbroken door tijdelijke afwezigheden van niet meer dan zes maanden per jaar, door afwezigheden van langere duur voor de vervulling van militaire verplichtingen, door één afwezigheid van ten hoogste twaalf achtereenvolgende maanden om belangrijke redenen zoals zwangerschap en bevalling, ernstige ziekte, studie of beroepsopleiding, noch door uitzending om werkzaamheden te verrichten in een andere lidstaat of derde land. Het is aan de vreemdeling om zulks met documenten te staven (zie [artikel 8.17, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17)).
+
+### 2.6.1. Niet betalen van leges
+
+### 2.6. Bewijs van rechtmatig verblijf
+
+### 2.7. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
 
 Voor familieleden van EU- en EER-onderdanen en onderdanen van Zwitserland, die niet de nationaliteit bezitten van een EU- of EER-lidstaat of Zwitserland, blijkt het rechtmatig verblijf uit een document of verklaring dat een aanvraag is ingediend (sticker voor verblijfsaantekeningen). Op grond van [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) wordt zo’n document of verklaring dat een aanvraag is ingediend afgegeven door de Minister. Ingevolge [artikel 3.9, eerste lid, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.9) is de IND, bevoegd dit document of deze verklaring af te geven.
 
 Slechts het duurzame verblijfsrecht van EU- en EER-onderdanen en onderdanen van Zwitserland en hun familieleden, ongeacht hun nationaliteit, blijkt uit een op aanvraag te verstrekken document ‘Duurzaam verblijf burgers van de Unie’.
 
-### 2.6.1. Niet betalen van leges
+De werknemer dient een door de werkgever verstrekte verklaring van indienstneming of tewerkstelling over te leggen. Om vast te kunnen stellen of het reële en daadwerkelijke arbeid betreft, zal uit de verklaring moeten blijken voor hoelang de werknemer te werk zal worden gesteld, wat de hoogte van de inkomsten zullen zijn en voor hoeveel uren per week de werknemer arbeid zal verrichten.
 
-### 3.5.2. Onvrijwillige werkloosheid
+### 3.1. Verblijfstermijn voor werkzoekenden
 
 ### 2.7. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
 
@@ -7655,25 +7665,15 @@ EU- en EER-onderdanen en onderdanen van Zwitserland mogen op grond van het EG-Ve
 
 Op het af te geven bewijs van rechtmatig verblijf aan gemeenschapsonderdanen, die geen EU- of EER- onderdaan of Zwitserse onderdaan zijn, dient de aantekening: ‘arbeid vrij toegestaan. TWV niet vereist’ te worden geplaatst, zodat een werkgever zich daarvan gemakkelijk kan vergewissen.
 
-De werknemer dient een door de werkgever verstrekte verklaring van indienstneming of tewerkstelling over te leggen. Om vast te kunnen stellen of het reële en daadwerkelijke arbeid betreft, zal uit de verklaring moeten blijken voor hoelang de werknemer te werk zal worden gesteld, wat de hoogte van de inkomsten zullen zijn en voor hoeveel uren per week de werknemer arbeid zal verrichten.
-
-### 3.1. Verblijfstermijn voor werkzoekenden
-
-### 3.3.2. Zelfstandigen
-
-Het verblijfsrecht kan worden beëindigd als de werkzoekende EU- of EER-onderdaan of onderdaan van Zwitserland:
-
-Op het moment dat de EU- of EER-onderdaan of Zwitserse onderdaan reële en daadwerkelijke arbeid als werknemer of als zelfstandige verricht, geldt hetgeen in de volgende paragrafen (inzake economisch actieven) wordt vermeld. Indien de werkzoekende EU- of EER-onderdaan of Zwitserse onderdaan zelfstandig – niet uit arbeid maar uit andere bronnen – over middelen van bestaan beschikt, dient te worden beoordeeld of de EU/EER-onderdaan of Zwitserse onderdaan wellicht als economisch niet-actieve verblijfsrecht heeft.
-
 Indien een EU/EER-onderdaan of Zwitserse onderdaan voor zijn 65e levensjaar stopt met het verrichten van arbeid, kan hij in aanmerking komen voor verblijf als economisch niet-actieve.
 
 Iedere EU- of EER-onderdaan of onderdaan van Zwitserland die reële en daadwerkelijke arbeid al dan niet in loondienst verricht, heeft rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en wordt aangemerkt als gemeenschapsonderdaan. Het begrip reële en daadwerkelijke arbeid moet volgens vaste jurisprudentie ruim uitgelegd worden. De omvang van de arbeid mag niet zo gering zijn dat het om louter marginale en bijkomstige werkzaamheden gaat. Uit verschillende arresten van het Hof van Justitie van de EG (HvJ EG, 23 maart 1982, Levin; 3 juni 1986, Kempf) blijkt echter, dat dit niet inhoudt dat het om een voltijds baan moet gaan, noch dat de inkomsten ten minste ter hoogte zijn van het minimumloon. Een gemeenschapsonderdaan, die werkzaamheden verricht die zijn aan te merken als reële en daadwerkelijke arbeid, kan bovendien naar de mening van het Hof een aanvullend beroep doen op de publieke middelen. Het criterium ‘reële en daadwerkelijke arbeid’ wordt zowel op arbeid in loondienst als op arbeid als zelfstandige toegepast.
 
-De categorieën dienstverlener of -ontvanger zijn in de richtlijn niet teruggekomen. De dienstenverlener is hetzij een werknemer, hetzij een zelfstandige. De dienstenontvanger geldt als economisch niet-actieve. Ook de grensarbeider is als zodanig niet teruggekomen in de richtlijn. Deze geldt immers ook als werknemer of zelfstandige, met dien verstande dat de grensarbeider nimmer de vrije termijn van drie maanden zal overschrijden, omdat de grensarbeider dagelijks of wekelijks Nederland verlaat om terug te keren naar zijn woning in een andere lidstaat. Dit geldt voor burgers van de Unie. De familieleden die onderdaan zijn van een derde land, zijn als regel in het bezit van een verblijfskaart, afgegeven door een andere lidstaat en mogen op grond daarvan circuleren binnen de Unie en derhalve ook grensarbeid etc. verrichten.
+EU- en EER-onderdanen en onderdanen van Zwitserland hebben het recht om gedurende drie maanden in Nederland werk te zoeken. Hoofdregel voor werkzoekenden is dat, zolang er reëel uitzicht is op werk, het rechtmatig verblijf ook na deze periode van drie maanden steeds voortduurt (zie [artikel 8.16, tweede lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.16)).
 
-Uitgangspunt is dat zolang het merendeel van de inkomsten – hiermee wordt bedoeld meer dan 50% van de betreffende bijstandsnorm – wordt verkregen uit arbeid, het er niet toe doet of deze inkomsten verder worden aangevuld uit eigen bron of uit de publieke middelen.
+Het verblijfsrecht kan worden beëindigd als de werkzoekende EU- of EER-onderdaan of onderdaan van Zwitserland:
 
-Indien de inkomsten uit arbeid voor het merendeel worden aangevuld met andere inkomsten (bijvoorbeeld voor 50% of meer uit de publieke middelen) is er grond voor twijfel aan het serieuze karakter van de economische activiteit en dus aan het reële en daadwerkelijke karakter van de arbeidsverrichting.
+Op het moment dat de EU- of EER-onderdaan of Zwitserse onderdaan reële en daadwerkelijke arbeid als werknemer of als zelfstandige verricht, geldt hetgeen in de volgende paragrafen (inzake economisch actieven) wordt vermeld. Indien de werkzoekende EU- of EER-onderdaan of Zwitserse onderdaan zelfstandig – niet uit arbeid maar uit andere bronnen – over middelen van bestaan beschikt, dient te worden beoordeeld of de EU/EER-onderdaan of Zwitserse onderdaan wellicht als economisch niet-actieve verblijfsrecht heeft.
 
 Aan de eis van reële en daadwerkelijke arbeid is in beginsel voldaan, indien ten minste 40% van de gebruikelijke volledige arbeidstijd wordt gewerkt. Wat de volledige arbeidstijd is, is afhankelijk van de in de betreffende branche gebruikelijke volledige arbeidstijd. Dit kan worden afgeleid uit de arbeidsovereenkomst of uit de CAO of het kan worden nagevraagd bij de betreffende bedrijfsvereniging.
 
@@ -7683,9 +7683,9 @@ Indien hij blijvend arbeidsongeschikt wordt door een arbeidsongeval of door een 
 
 ### 3.6.3. Voortdurend in Nederland werken ([artikel 8.17, vierde lid Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17))
 
-Perioden van afwezigheid, die in totaal zes maanden per jaar niet overschrijden zijn niet van invloed op het bij voortduring in Nederland wonen. Afwezigheid van langere tijd, is niet van invloed op het bij voortduring in Nederland wonen in de volgende gevallen:
+Indien de inkomsten uit arbeid voor het merendeel worden aangevuld met andere inkomsten (bijvoorbeeld voor 50% of meer uit de publieke middelen) is er grond voor twijfel aan het serieuze karakter van de economische activiteit en dus aan het reële en daadwerkelijke karakter van de arbeidsverrichting.
 
-De werknemer dient een door de werkgever verstrekte verklaring van indienstneming of tewerkstelling over te leggen. Om vast te kunnen stellen of het reële en daadwerkelijke arbeid betreft, zal uit de verklaring moeten blijken voor hoelang de werknemer te werk zal worden gesteld, wat de hoogte van de inkomsten zullen zijn en voor hoeveel uren per week de werknemer arbeid zal verrichten.
+Aan de eis van reële en daadwerkelijke arbeid is in beginsel voldaan, indien ten minste 40% van de gebruikelijke volledige arbeidstijd wordt gewerkt. Wat de volledige arbeidstijd is, is afhankelijk van de in de betreffende branche gebruikelijke volledige arbeidstijd. Dit kan worden afgeleid uit de arbeidsovereenkomst of uit de CAO of het kan worden nagevraagd bij de betreffende bedrijfsvereniging.
 
 ### 3.6.2. Bij voortduring in Nederland wonen
 
@@ -7697,19 +7697,19 @@ Het Gemeenschapsrecht is slechts van toepassing op werkzaamheden die buiten Nede
 
 ### 2. EVRM
 
-De arbeidsverhouding van een werknemer in het internationale transport wordt verondersteld voldoende nauwe aanknoping met het Nederlands grondgebied te hebben, indien voldaan is aan de volgende voorwaarden:
+Minderjarigen die de leeftijd van achttien jaar nog niet hebben bereikt, dienen een verklaring van de ouders of verzorgers te overleggen. Uit deze verklaring moet blijken dat zij instemmen met de tewerkstelling van de minderjarige in Nederland. Het verrichten van arbeid is eerst toegestaan vanaf het dertiende levensjaar in overeenstemming met de Arbowetgeving.
 
-### 3. Associatieovereenkomst EG en Turkije, besluit nr. 1/80
+### 3.3.2. Zelfstandigen
 
 Na vijf jaren verblijf als gemeenschapsonderdaan kan hij in aanmerking komen voor een document ‘Duurzaam verblijf burgers van de Unie’, na betaling van de ter afdoening van de aanvraag verschuldigde leges.
 
 ### 3.5. Verblijfsrecht bij onderbreking of beëindiging werkzaamheden
 
-Indien het familielid reeds duurzaam verblijf heeft (zie [artikel 8.17 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17)) dan blijft dit recht behouden. Indien er nog geen sprake is van duurzaam verblijf kan betrokkene het verblijf voortzetten als economisch actieve of economisch niet-actieve, mits er geen onevenredig beroep op de publieke middelen wordt gedaan.
+Een dergelijke situatie kan zich voordoen bij werknemers in het internationale transport (bijvoorbeeld werknemers op zeeschepen en op schepen in de internationale binnenvaart en daarmee gelijkgestelde inrichtingen, baggermolens, zandzuigers).
 
 ### 3.5.2. Onvrijwillige werkloosheid
 
-Het rechtmatig verblijf krachtens [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) eindigt niet indien de EU/EER-onderdaan of onderdaan van Zwitserland, na werkzaamheden als werknemer of zelfstandige van ten minste één jaar, onvrijwillig werkloos is en als werkzoekende is ingeschreven bij het CWI (zie [artikel 8.12, tweede lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)). Dat de gemeenschapsonderdaan volledig ten laste komt van de publieke middelen, doet hieraan niet af.
+Deze voorwaarden gelden ook voor werknemers op een mijnbouwinstallatie op het continentale plat, met dien verstande dat in plaats van een in Nederland geregistreerd vervoermiddel sprake moet zijn van een installatie op het Nederlands deel van het continentale plat.
 
 ### 3.1. Begunstigde
 
@@ -7718,6 +7718,16 @@ Het rechtmatig verblijf eindigt niet indien betrokkene een beroepsopleiding gaat
 Economisch niet-actieve EU/EER-onderdanen en dito Zwitserse onderdanen komen voor verblijf als gemeenschapsonderdaan in aanmerking, indien en zolang zij over voldoende bestaansmiddelen beschikken om te voorkomen dat zij tijdens hun verblijf ten laste komen van de publieke middelen. Tevens geldt dat zij voor zichzelf en – voor zover van toepassing – hun familieleden moeten beschikken over een ziektekostenverzekering die alle risico’s in Nederland dekt (zie [artikel 8.12, eerste lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)).
 
 De EU/EER-onderdaan of Zwitserse onderdaan kan (aan de hand van de documenten genoemd in B10/3.3) aantonen dat hij voortdurend reële en daadwerkelijke arbeid heeft verricht. Perioden van afwezigheid als gevolg van ziekte of ongeval (zie B10/3.5.1) en van onvrijwillige werkloosheid (zie B10/3.5.2) worden aangemerkt als perioden van tewerkstelling.
+
+Het rechtmatig verblijf krachtens [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) eindigt niet indien de EU/EER-onderdaan of onderdaan van Zwitserland, na werkzaamheden als werknemer of zelfstandige van ten minste één jaar, onvrijwillig werkloos is en als werkzoekende is ingeschreven bij het CWI (zie [artikel 8.12, tweede lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)). Dat de gemeenschapsonderdaan volledig ten laste komt van de publieke middelen, doet hieraan niet af.
+
+Het rechtmatig verblijf eindigt niet gedurende een periode van ten minste zes maanden, nadat de onderdaan onvrijwillig werkloos is geworden door afloop van een arbeidsovereenkomst van korter dan één jaar, dan wel nadat hij gedurende de eerste twaalf maanden onvrijwillig werkloos geworden is, indien hij als werkzoekende bij de CWI is ingeschreven (zie [artikel 8.12, tweede lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)).
+
+Het rechtmatig verblijf eindigt niet indien betrokkene een beroepsopleiding gaat volgen, die verband houdt met de voorafgaande beroepsactiviteit. Dit verband met de eerdere beroepsactiviteit hoeft er niet te zijn bij onvrijwillige werkloosheid (zie [artikel 8.12, tweede lid, onder d, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)).
+
+Indien een EU/EER-onderdaan of Zwitserse onderdaan voor zijn 65e levensjaar stopt met het verrichten van arbeid, kan hij in aanmerking komen voor verblijf als economisch niet-actieve.
+
+Het recht op duurzaam verblijf hier te lande geldt ook voor de werknemer die:
 
 Er kan ook recht op voortzetting van verblijf ontstaan, voor EU/EER-onderdanen en Zwitserse onderdanen die hun hoofdverblijf in Nederland hebben, omdat in bepaalde situaties ook eerder dan na vijf jaar al duurzaam verblijf verkregen kan worden. De verblijfscategorieën waar dit op van toepassing is staan vermeld in [artikel 8.17, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17).
 
@@ -7732,16 +7742,6 @@ Het recht op duurzaam verblijf hier te lande geldt ook voor de werknemer die:
 De EU/EER-onderdaan of Zwitserse onderdaan, die blijvend arbeidsongeschikt wordt gedurende zijn werkzaamheden in Nederland, heeft het recht om duurzaam verblijf te houden hier te lande, indien hij ten minste twee jaar, onmiddellijk voorafgaande aan zijn arbeidsongeschiktheid, voortdurend in Nederland heeft gewoond en rechtmatig verblijf heeft gehad in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 Indien hij blijvend arbeidsongeschikt wordt door een arbeidsongeval of door een beroepsziekte, op grond waarvan hij in aanmerking komt voor een ZW-uitkering of een uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)/[WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), is bovengenoemde termijn van twee jaar niet van belang
-
-De EU/EER-onderdaan of Zwitserse onderdaan, die zijn werkzaamheden buiten Nederland verplaatst, maar zijn hoofdverblijf in Nederland behoudt, heeft het recht om duurzaam verblijf te houden hier te lande, indien hij:
-
-In voorkomende gevallen wordt beoordeeld of de betrokkene een onredelijke last vormt voor de publieke middelen van Nederland. De in dit verband eventueel toe te passen sanctie (verblijfsbeëindiging) moet voorts worden getoetst aan het evenredigheidsbeginsel. Het gaat daarbij om evenredigheid tussen het beroep dat op de publieke middelen wordt gedaan, en de middelen die het gastland inzet (verblijfsbeëindiging). Er is, met andere woorden, een belangenafweging vereist.
-
-De bovengenoemde termijnen van wonen en tewerkstelling gelden niet, indien de echtgeno(o)t(e) of partner met wie een geregistreerd partnerschap is aangegaan van de EU/EER-onderdaan of Zwitserse onderdaan:
-
-In het tweede jaar van verblijf wordt een eerste, meer dan aanvullend, beroep op een dergelijke uitkering als regel een onredelijke last geacht, indien het beroep daarop drie maanden of langer voortduurt. Hetzelfde geldt voor een aanvullend beroep gedurende zes maanden of meer.
-
-Het bij voortduring in Nederland wonen kan worden aangetoond aan de hand van een historisch overzicht uit de GBA (zie [artikel 8.17, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17)).
 
 ### 4.2. Studenten
 
@@ -7765,55 +7765,65 @@ Indien het verblijfsrecht van de EU/EER-onderdaan of Zwitserse onderdaan als eco
 
 Uitgangspunt is dat degenen die verblijfsrecht genieten als economisch niet-actieven geen onredelijke belasting mogen vormen voor de publieke middelen van het gastland.
 
-Het vorenstaande laat overigens onverlet dat een lidstaat niet verplicht is binnen de periode van verblijf op grond van [artikel 8.11 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.11) (verblijf tot maximaal drie maanden) een uitkering ten behoeve van het levensonderhoud te verstrekken die ten laste van de publieke middelen komt.
+Aan EU/EER-onderdanen of Zwitserse onderdanen, die aan deze regelingen recht op duurzaam verblijf ontlenen, wordt een document ‘Duurzaam verblijf burger van de Unie’ verstrekt (zie bijlage [VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002)).
 
 Economisch niet-actieve EU/EER-onderdanen en dito Zwitserse onderdanen komen voor verblijf als gemeenschapsonderdaan in aanmerking, indien en zolang zij over voldoende bestaansmiddelen beschikken om te voorkomen dat zij tijdens hun verblijf ten laste komen van de publieke middelen. Tevens geldt dat zij voor zichzelf en – voor zover van toepassing – hun familieleden moeten beschikken over een ziektekostenverzekering die alle risico’s in Nederland dekt (zie [artikel 8.12, eerste lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)).
 
-De lidstaten zijn niet verplicht om aan studenten die het verblijfsrecht genieten beurzen uit te betalen om in het levensonderhoud te voorzien (studiefinanciering voor het levensonderhoud). Deze regel is bevestigd in de jurisprudentie van het Hof van Justitie van de EG (zaak C-184/99 Grzelczyk).
+Indien het verblijfsrecht van de EU/EER-onderdaan of Zwitserse onderdaan als economisch actieve van rechtswege is vervallen en hij niet in aanmerking komt voor voortzetting van verblijf op grond van één van bovengenoemde regelingen, dient te worden beoordeeld of de EU/EER-onderdaan of Zwitserse onderdaan verblijfsrecht kan ontlenen aan de regels met betrekking tot de economisch niet-actieven.
 
 De economisch niet-actieve EU/EER-onderdanen of Zwitserse onderdanen, als bedoeld in B10/4.1, dienen – voor zover hier van belang – aan te tonen dat zij over voldoende middelen van bestaan -beschikken om te voorkomen dat zij tijdens hun verblijf ten laste van de publieke middelen komen. Onder voldoende wordt verstaan: voldoende hoog, dat wil zeggen tenminste het netto normbedrag voor de desbetreffende categorie (alleenstaande, echtparen/gezinnen), zijnde de bedragen waaronder ingevolge de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) aan eigen onderdanen bijstand wordt verleend (zie [artikel 8.12, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)).
 
-Verblijfsbeëindiging kan in deze gevallen echter niet het automatische gevolg zijn. In deze gevallen vindt een evenredigheidstoets plaats. N.B. Indien sprake is van vijf jaren ononderbroken rechtmatig verblijf, is het duurzame verblijfsrecht verkregen. Het feit dat de vreemdeling in die periode niet of niet langer aan de voorwaarden voldeed is in dat geval niet langer relevant.
+Uitgangspunt is dat degenen die verblijfsrecht genieten als economisch niet-actieven geen onredelijke belasting mogen vormen voor de publieke middelen van het gastland.
 
 EU/EER-studenten of Zwitserse studenten komen voor verblijf als gemeenschapsonderdaan in aanmerking voor de duur van hun opleiding, indien en zolang zij zijn ingeschreven bij een particuliere dan wel openbare erkende onderwijsinstelling of opleidingsinstituut om hier te lande als hoofdbezigheid een studie, waarbij inbegrepen een beroepsopleiding, te volgen (zie [artikel 8.12, eerste lid onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)).
 
-Het familie- of gezinslid van een EU- of EER-onderdaan of Zwitserse onderdaan, die rechtmatig verblijf heeft in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), wordt eveneens aangemerkt als gemeenschapsonderdaan. Het is daarbij voor het verblijfsrecht niet van belang of het familie- of gezinslid zelf EU/EER-onderdaan of Zwitserse onderdaan is. Het familie- of gezinslid heeft ook rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+Economisch niet-actieve EU/EER-onderdanen en dito Zwitserse onderdanen komen voor verblijf als gemeenschapsonderdaan in aanmerking, indien en zolang zij over voldoende bestaansmiddelen beschikken om te voorkomen dat zij tijdens hun verblijf ten laste komen van de publieke middelen. Tevens geldt dat zij voor zichzelf en – voor zover van toepassing – hun familieleden moeten beschikken over een ziektekostenverzekering die alle risico’s in Nederland dekt (zie [artikel 8.12, eerste lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)).
 
 Het begrip ‘beroepsopleiding’ moet hier ruim geïnterpreteerd worden. Een beroepsopleiding is iedere onderwijsvorm die opleidt voor een speciaal beroep, vak of betrekking of die een bijzondere bekwaamheid verleent om een dergelijk beroep uit te oefenen, ongeacht de leeftijd en het opleidingsniveau van leerling of student, zelfs indien er in het studieprogramma algemene vakken zijn opgenomen (een universitaire studie valt ook onder dit begrip). Ook stage valt hieronder. Wanneer er een lage stagevergoeding tegenover staat en er geen sprake is van reële en daadwerkelijke arbeid.
 
-De juridische band tussen de gemeenschapsonderdaan en het familie- of gezinslid is bepalend voor het verblijfsrecht. Het bestaan van een feitelijke band is daarbij niet van belang. Voor het verblijf van de partner in de zin van [artikel 8.7, derde lid, onder f, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7), geldt dat er deugdelijk bewijs van de duurzame relatie (relatieverklaring) moet zijn. Bij twijfel omtrent het bestaan van de familierechtelijke relatie of omtrent de afhankelijke positie van het familielid, moet contact worden opgenomen met het Ministerie van Justitie.
+De economisch niet-actieve EU/EER-onderdanen of Zwitserse onderdanen, als bedoeld in B10/4.1, dienen – voor zover hier van belang – aan te tonen dat zij over voldoende middelen van bestaan -beschikken om te voorkomen dat zij tijdens hun verblijf ten laste van de publieke middelen komen. Onder voldoende wordt verstaan: voldoende hoog, dat wil zeggen tenminste het netto normbedrag voor de desbetreffende categorie (alleenstaande, echtparen/gezinnen), zijnde de bedragen waaronder ingevolge de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) aan eigen onderdanen bijstand wordt verleend (zie [artikel 8.12, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)).
 
 Met betrekking tot familie- of gezinsleden van Nederlanders wordt verwezen naar B10/5.3.
 
-Studenten, die verblijfsrecht hebben op grond van [artikel 8.12, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12), hebben geen recht op een studiebeurs op grond van de [WSF](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) om in hun levensonderhoud te voorzien. Zij kunnen wel in aanmerking komen voor vergoeding van les- en collegegelden ingevolge de [WSF](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
+EU/EER-studenten of Zwitserse studenten komen voor verblijf als gemeenschapsonderdaan in aanmerking voor de duur van hun opleiding, indien en zolang zij zijn ingeschreven bij een particuliere dan wel openbare erkende onderwijsinstelling of opleidingsinstituut om hier te lande als hoofdbezigheid een studie, waarbij inbegrepen een beroepsopleiding, te volgen (zie [artikel 8.12, eerste lid onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)).
 
 Het is niet vereist dat de hier bedoelde familieleden permanent met de EU- of EER-onderdaan of Zwitserse onderdaan, of diens echtgenoot of geregistreerd partner, samenwonen, mits de juridische familieband niet is verbroken en aan de overige vereisten is voldaan.
 
-Indien een student niet meer is ingeschreven bij een erkende onderwijsinstelling of opleidingsinstituut en geen beroepsopleiding meer volgt, is niet langer voldaan aan de voorwaarden voor verblijf als student en ontleent hij aan de hoedanigheid van student niet langer een verblijfsrecht. Hij kan niettemin zijn verblijf voortzetten als werkzoekende, economisch actieve dan wel als economisch niet-actieve, of als familielid van een dergelijke burger van de Unie, indien hij aan de relevante voorwaarden voldoet. Indien hij echter inmiddels het duurzame verblijfsrecht heeft verkregen, behoeft hij niet aan die voorwaarden te voldoen. Grond om tot beëindiging van het verblijf over te gaan door middel van een beschikking om reden dat de betrokkene niet langer aan de voorwaarden voldoet, kan tot de verkrijging van het duurzame verblijfsrecht slechts plaatsvinden op de grond dat hij een onredelijke belasting vormt voor het sociale bijstandsstelsel, onverminderd eventuele bezwaren uit hoofde van openbare orde en veiligheid (zie B10/7).
+Het begrip ‘beroepsopleiding’ moet hier ruim geïnterpreteerd worden. Een beroepsopleiding is iedere onderwijsvorm die opleidt voor een speciaal beroep, vak of betrekking of die een bijzondere bekwaamheid verleent om een dergelijk beroep uit te oefenen, ongeacht de leeftijd en het opleidingsniveau van leerling of student, zelfs indien er in het studieprogramma algemene vakken zijn opgenomen (een universitaire studie valt ook onder dit begrip). Ook stage valt hieronder. Wanneer er een lage stagevergoeding tegenover staat en er geen sprake is van reële en daadwerkelijke arbeid.
 
 De lidstaten zijn niet verplicht om aan studenten die het verblijfsrecht genieten beurzen uit te betalen om in het levensonderhoud te voorzien (studiefinanciering voor het levensonderhoud). Deze regel is bevestigd in de jurisprudentie van het Hof van Justitie van de EG (zaak C-184/99 Grzelczyk).
 
 Indien de EU/EER-onderdaan of Zwitserse onderdaan een (aanvullend) beroep doet op de publieke middelen, kan dat tot gevolg hebben dat zijn rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) vervalt, tenzij de betrokkene inmiddels het duurzame verblijfsrecht heeft verkregen (na vijf jaren ononderbroken rechtmatig verblijf en soms ook eerder).
 
-In voorkomende gevallen wordt beoordeeld of de betrokkene een onredelijke last vormt voor de publieke middelen van Nederland. De in dit verband eventueel toe te passen sanctie (verblijfsbeëindiging) moet voorts worden getoetst aan het evenredigheidsbeginsel. Het gaat daarbij om evenredigheid tussen het beroep dat op de publieke middelen wordt gedaan, en de middelen die het gastland inzet (verblijfsbeëindiging). Er is, met andere woorden, een belangenafweging vereist.
+Studenten, die verblijfsrecht hebben op grond van [artikel 8.12, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12), hebben geen recht op een studiebeurs op grond van de [WSF](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) om in hun levensonderhoud te voorzien. Zij kunnen wel in aanmerking komen voor vergoeding van les- en collegegelden ingevolge de [WSF](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
-### 5. Familie- en gezinsleden van gemeenschapsonderdanen
+### 4.2.4. Beëindiging van de studie
 
-In het tweede jaar van verblijf wordt een eerste, meer dan aanvullend, beroep op een dergelijke uitkering als regel een onredelijke last geacht, indien het beroep daarop drie maanden of langer voortduurt. Hetzelfde geldt voor een aanvullend beroep gedurende zes maanden of meer.
+Indien een student niet meer is ingeschreven bij een erkende onderwijsinstelling of opleidingsinstituut en geen beroepsopleiding meer volgt, is niet langer voldaan aan de voorwaarden voor verblijf als student en ontleent hij aan de hoedanigheid van student niet langer een verblijfsrecht. Hij kan niettemin zijn verblijf voortzetten als werkzoekende, economisch actieve dan wel als economisch niet-actieve, of als familielid van een dergelijke burger van de Unie, indien hij aan de relevante voorwaarden voldoet. Indien hij echter inmiddels het duurzame verblijfsrecht heeft verkregen, behoeft hij niet aan die voorwaarden te voldoen. Grond om tot beëindiging van het verblijf over te gaan door middel van een beschikking om reden dat de betrokkene niet langer aan de voorwaarden voldoet, kan tot de verkrijging van het duurzame verblijfsrecht slechts plaatsvinden op de grond dat hij een onredelijke belasting vormt voor het sociale bijstandsstelsel, onverminderd eventuele bezwaren uit hoofde van openbare orde en veiligheid (zie B10/7).
 
 In het derde jaar van verblijf wordt een dergelijk eerste, meer dan aanvullend, beroep als regel onredelijk geacht, indien het zes maanden of meer voortduurt. Hetzelfde geldt voor een aanvullend beroep gedurende negen maanden of meer.
 
-In het vierde jaar van verblijf wordt een dergelijk eerste, meer dan aanvullend, beroep als regel onredelijk geacht, indien het negen maanden of meer voortduurt.
+Indien de EU/EER-onderdaan of Zwitserse onderdaan een (aanvullend) beroep doet op de publieke middelen, kan dat tot gevolg hebben dat zijn rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) vervalt, tenzij de betrokkene inmiddels het duurzame verblijfsrecht heeft verkregen (na vijf jaren ononderbroken rechtmatig verblijf en soms ook eerder).
 
-Hetzelfde geldt voor een aanvullend beroep gedurende twaalf maanden of meer. Indien betrokkene in meer achtereenvolgende jaren van verblijf of binnen een jaar meermalen een beroep doet op een zodanige uitkering, vormt hij daardoor als regel een onredelijke last en is verblijfsbeëindiging in het algemeen een evenredig middel.
+In voorkomende gevallen wordt beoordeeld of de betrokkene een onredelijke last vormt voor de publieke middelen van Nederland. De in dit verband eventueel toe te passen sanctie (verblijfsbeëindiging) moet voorts worden getoetst aan het evenredigheidsbeginsel. Het gaat daarbij om evenredigheid tussen het beroep dat op de publieke middelen wordt gedaan, en de middelen die het gastland inzet (verblijfsbeëindiging). Er is, met andere woorden, een belangenafweging vereist.
 
 ### 5.3.1. Discriminatie eigen onderdanen
 
-Onder aanvullend beroep op de bijstand wordt in dit verband verstaan een beroep ter hoogte van minder dan 50% van de toepasselijke bijstandsnorm ingevolge de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
+In het tweede jaar van verblijf wordt een eerste, meer dan aanvullend, beroep op een dergelijke uitkering als regel een onredelijke last geacht, indien het beroep daarop drie maanden of langer voortduurt. Hetzelfde geldt voor een aanvullend beroep gedurende zes maanden of meer.
 
 ### 5.2. Het verblijfsrecht van het familie- of gezinslid
 
 ### 5.3. Familie- of gezinsleden van Nederlanders
+
+Hetzelfde geldt voor een aanvullend beroep gedurende twaalf maanden of meer. Indien betrokkene in meer achtereenvolgende jaren van verblijf of binnen een jaar meermalen een beroep doet op een zodanige uitkering, vormt hij daardoor als regel een onredelijke last en is verblijfsbeëindiging in het algemeen een evenredig middel.
+
+Indien betrokkene een aanvullend beroep terzake doet van achttien maanden of meer in totaal, binnen drie jaren van verblijf, is verblijfsbeëindiging in het algemeen eveneens een evenredig middel.
+
+Onder aanvullend beroep op de bijstand wordt in dit verband verstaan een beroep ter hoogte van minder dan 50% van de toepasselijke bijstandsnorm ingevolge de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
+
+Bij de in dit kader vereiste belangenafweging wordt – naast de vorenbedoelde duur van het verblijf, de duur, de frequentie en de omvang van het beroep dat op de middelen van de lidstaat wordt gedaan – betrokken de reden waarom de betrokkene tijdelijk dan wel permanent niet in staat is in zijn levensonderhoud te voorzien, alsmede de banden die betrokkene nog heeft met zijn land van herkomst, alsmede diens gezinssituatie en diens medische situatie.
+
+### 8.5. Leges
 
 Indien door de IND is vastgesteld dat betrokkene een onredelijke last vormt voor de Nederlandse publieke middelen en verblijfsbeëindiging een evenredig middel is, wordt het verblijfsrecht beëindigd.
 
@@ -7823,19 +7833,9 @@ Het verschil met de (andere) economisch niet-actieven, die als regel langere tij
 
 De lidstaten zijn niet verplicht om aan studenten die het verblijfsrecht genieten beurzen uit te betalen om in het levensonderhoud te voorzien (studiefinanciering voor het levensonderhoud). Deze regel is bevestigd in de jurisprudentie van het Hof van Justitie van de EG (zaak C-184/99 Grzelczyk).
 
-### 8.5. Leges
+Een beroep op studiefinanciering, of bijstand, voor het levensonderhoud kan – ook al wordt dat beroep niet gehonoreerd – betekenen dat niet meer wordt voldaan aan de voorwaarden die aan het verblijfsrecht als student zijn verbonden, in welk geval het verblijf kan worden beëindigd.
 
 Verblijfsbeëindiging kan in deze gevallen echter niet het automatische gevolg zijn. In deze gevallen vindt een evenredigheidstoets plaats. N.B. Indien sprake is van vijf jaren ononderbroken rechtmatig verblijf, is het duurzame verblijfsrecht verkregen. Het feit dat de vreemdeling in die periode niet of niet langer aan de voorwaarden voldeed is in dat geval niet langer relevant.
-
-Het recht gaat verloren, indien de Nederlander niet meer voldoet aan de beperkingen van het EG-Verdrag.
-
-Het familie- of gezinslid van een EU- of EER-onderdaan of Zwitserse onderdaan, die rechtmatig verblijf heeft in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), wordt eveneens aangemerkt als gemeenschapsonderdaan. Het is daarbij voor het verblijfsrecht niet van belang of het familie- of gezinslid zelf EU/EER-onderdaan of Zwitserse onderdaan is. Het familie- of gezinslid heeft ook rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
-
-Het algemene uitgangspunt is dat het verblijfsrecht van het familie- of gezinslid een afhankelijk recht is. Door dit afhankelijk karakter eindigt het verblijfsrecht van het familie- of gezinslid in beginsel op het moment dat degene van wie dit familielid afhankelijk is, niet langer rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) heeft. Het verblijfsrecht vervalt eveneens indien het familie- of gezinslid verblijf houdt in strijd met een beperking op grond van een regeling vastgesteld krachtens het EG-Verdrag of de Overeenkomst EG-Zwitserland dan wel de (voortzetting van) het verblijf is geweigerd op grond van een actuele bedreiging van de openbare orde, openbare veiligheid of de volksgezondheid.
-
-De juridische band tussen de gemeenschapsonderdaan en het familie- of gezinslid is bepalend voor het verblijfsrecht. Het bestaan van een feitelijke band is daarbij niet van belang. Voor het verblijf van de partner in de zin van [artikel 8.7, derde lid, onder f, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7), geldt dat er deugdelijk bewijs van de duurzame relatie (relatieverklaring) moet zijn. Bij twijfel omtrent het bestaan van de familierechtelijke relatie of omtrent de afhankelijke positie van het familielid, moet contact worden opgenomen met het Ministerie van Justitie.
-
-Met betrekking tot familie- of gezinsleden van Nederlanders wordt verwezen naar B10/5.3.
 
 Met betrekking tot het verrichten van dergelijke arbeid, anders dan in loondienst, gelden de regels van B10/3.3.2.
 
@@ -7845,7 +7845,7 @@ Met betrekking tot het verrichten van dergelijke arbeid, anders dan in loondiens
 
 Het recht gaat verloren, indien de Nederlander niet meer voldoet aan de beperkingen van het EG-Verdrag.
 
-Het familielid, dat zelf EU- of EER-onderdaan of onderdaan van Zwitserland is, heeft dezelfde verblijfsrechtelijke positie als de burger van de Unie. De eerste periode van verblijf bedraagt drie maanden (zie [artikel 8.11 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.11)). In deze periode worden geen andere voorwaarden gesteld dan het bezit van een geldig paspoort of een geldige identiteitskaart. De burger van de Unie die door middel van een identiteitskaart zijn identiteit en nationaliteit aantoont, bezit recht op verblijf. Het niet beschikken over een geldige identiteitskaart of een geldig paspoort doet echter niet af aan de rechtmatigheid van het verblijf, indien het bewijs van identiteit en nationaliteit ondubbelzinnig met andere middelen kan worden geleverd.
+Voor ongehuwde partners van een onderdaan van de EU, de EER en Zwitserland geldt dat zij in Nederland met hun partner dienen samen te wonen. Voor hetgeen onder samenwonen wordt verstaan wordt verwezen naar B2/4.9. Het is niet vereist dat de overige familieleden, bedoeld in [artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7), permanent met de onderdaan van de EU, de EER en Zwitserland, of diens echtgenoot of geregistreerd partner, samenwonen, mits de juridische familieband niet is verbroken en aan de overige vereisten is voldaan.
 
 Ook voor het verblijfsrecht voor langer dan drie maanden geldt voor deze familieleden, die EU- of EER-onderdaan of onderdaan van Zwitserland zijn, de verplichting tot aanmelding ter inschrijving in de vreemdelingenadministratie als opgenomen in [artikel 8.12, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12). Zie verder B10/2.5.2, welke van overeenkomstige toepassing is. Als het bewijs dat aan de voorwaarden voor verblijf van langer dan drie maanden wordt voldaan is geleverd, wordt de burger van de Unie ingeschreven in de vreemdelingenadministratie en wordt onmiddellijk een verklaring van inschrijving afgegeven.
 
@@ -7855,17 +7855,17 @@ Iedere burger van de Unie die gedurende een ononderbroken periode van vijf jaar 
 
 ### 5.4.2. Familielid onderdaan van EU/EER of Zwitserland
 
-Het familielid, dat niet zelf EU- of EER-onderdaan of onderdaan van Zwitserland is, wordt bij een verblijf van langer dan drie maanden na aanvraag in bezit gesteld van een document EU/EER, met de aantekening ‘familielid van een burger van de Unie’ (zie [bijlage 7e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7e)). De geldigheidsduur van dit document bedraagt vijf jaar vanaf de datum van afgifte, of is gelijk aan de (voorgenomen) periode van verblijf van de EU- of EER-onderdaan of onderdaan van Zwitserland van wie het rechtmatig verblijf afhankelijk is, indien dat voorgenomen verblijf korter dan vijf jaren bedraagt. In overige gevallen wordt de geldigheidsduur van het verblijfsdocument bepaald op vijf jaren.
+Iedere burger van de Unie die gedurende een ononderbroken periode van vijf jaar legaal in Nederland heeft verbleven, heeft een duurzaam verblijfsrecht in Nederland. Het duurzame verblijfsrecht van de EU- en EER-onderdanen en hun familieleden die niet de nationaliteit van een EU- of EER-lidstaat bezitten, blijkt uit het op aanvraag te verstrekken document ‘Duurzaam verblijf burgers van de Unie’. Zie verder B10/2.5.3, welke van overeenkomstige toepassing is.
 
 Op het verblijfsdocument wordt de volgende aantekening geplaatst: ‘arbeid vrij toegestaan; TWV niet vereist’. Dit houdt in dat het familie- of gezinslid, ongeacht de nationaliteit, het recht heeft om arbeid, al dan niet in loondienst, te verrichten. Voor de behandeling van de aanvraag om toetsing aan het gemeenschapsrecht en afgifte van het daaraan verbonden verblijfsdocument is een legesbedrag verschuldigd. De aanmelding voor het indienen van een aanvraag moet ingevolge [artikel 8.13, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.13), plaatsvinden binnen één maand na afloop van de periode van drie maanden rechtmatig verblijf op grond van [artikel 8.11 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.11).
 
-Bij de aanvraag tot afgifte van het verblijfsdocument overlegt bedoeld familielid ingevolge [artikel 8.13, derde lid, onder a tot en met g, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.13), de volgende documenten:
+Het onderscheid tussen rechtmatig verblijf in de vrije termijn en rechtmatig verblijf als gemeenschapsonderdaan blijft wel gehandhaafd ten aanzien van de familieleden die geen onderdaan zijn van een EU- of EER-lidstaat of Zwitserland. Het rechtmatig verblijf (in de zin van [artikel 8, onder i, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8)) van het familielid dat niet de nationaliteit heeft van een EU- of EER-lidstaat of Zwitserland, blijkt in de eerste periode van drie maanden uit diens geldige paspoort met een op grond van [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) gestelde aantekening omtrent rechtmatig verblijf. Het rechtmatige verblijf kan voorts blijken uit het geldige paspoort, voorzien van het eventueel voor inreis benodigde visum of een recente aantekening omtrent inreis (inreisstempel, zie [artikel 4.21 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21)) dan wel uit het geldige paspoort en een door een andere lidstaat afgegeven geldige verblijfskaart.
 
-Na indiening van deze aanvraag dient onmiddellijk een bewijs van aanvraag te worden verstrekt (verblijfsaantekening gemeenschapsonderdaan).
+Het familielid, dat niet zelf EU- of EER-onderdaan of onderdaan van Zwitserland is, wordt bij een verblijf van langer dan drie maanden na aanvraag in bezit gesteld van een document EU/EER, met de aantekening ‘familielid van een burger van de Unie’. De geldigheidsduur van dit document bedraagt vijf jaar vanaf de datum van afgifte, of is gelijk aan de (voorgenomen) periode van verblijf van de EU- of EER-onderdaan of onderdaan van Zwitserland van wie het rechtmatig verblijf afhankelijk is, indien dat voorgenomen verblijf korter dan vijf jaren bedraagt. In overige gevallen wordt de geldigheidsduur van het verblijfsdocument bepaald op vijf jaren.
 
 ### 6. Onderdanen van België en Luxemburg
 
-In [artikel 8.15, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.15) gelezen in samenhang met [artikel 8.15, tweede lid, onder b, en derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.15), wordt met betrekking tot voortzetting van verblijf en een beroep op de publieke middelen een uitzondering gemaakt voor studerende kinderen en hun verzorgende ouder.
+Om vast te kunnen stellen dat sprake is van een familie- of gezinslid in de zin van [artikel 8.7, tweede, derde of vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) dient het familie- of gezinslid bij de aanvraag tot afgifte van het verblijfsdocument middels het overleggen van documenten zijn familierechtelijke of duurzame relatie met de EU- of EER-onderdaan of onderdaan van Zwitserland te kunnen aantonen (zie ook B10/1.7). Voorts schrijft [artikel 8.13, derde lid, onder a tot en met g, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.13) voor dat bij de aanvraag de volgende documenten worden overgelegd:
 
 Het rechtmatig verblijf van burgers van de Unie en hun gezinsleden eindigt niet, zolang zij voldoen aan de voorwaarden voor verblijf (zie [artikelen 8.12 tot en met 8.15 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)). In specifieke gevallen van redelijke twijfel over de vraag of een burger van de Unie of zijn familieleden wel voldoen aan de voorwaarden, kan daartoe een onderzoek ter verificatie worden ingesteld. De verificatie geschiedt evenwel niet stelselmatig. Een beroep van de burger van de Unie of zijn familieleden op het sociale bijstandsstelsel leidt niet automatisch tot beëindiging van het rechtmatige verblijf. Het verblijf van een burger van de Unie of zijn familieleden kan, buiten de aanwezigheid van een actuele en (voldoende) ernstige bedreiging van de openbare orde of openbare veiligheid, in geen geval worden beëindigd indien de burger van de Unie werknemer of zelfstandige is, of indien hij Nederland is binnengekomen om werk te zoeken. In dat laatste geval kunnen de burger van de Unie en zijn gezinsleden niet worden verwijderd zolang de burger van de Unie kan bewijzen dat hij nog immer werk zoekt en een reële kans maakt te worden aangesteld.
 
@@ -7873,31 +7873,31 @@ Het Hof van Justitie van de EG (HvJEG, 27 oktober 1982, Morson en Jhanjan) heeft
 
 ### 6.1. Verblijfsdocument
 
-Nederlanders zijn weliswaar EU/EER-onderdanen, maar zij zijn in beginsel geen gemeenschapsonderdaan als hier bedoeld. Nederlanders kunnen daarom in het algemeen geen beroep doen op het gemeenschapsrecht voor verblijf van familie- of gezinsleden. Voor de verlening van een verblijfsvergunning aan familie- of gezinsleden van Nederlanders zijn daarom, behoudens enkele uitzonderingen, ingevolge [artikel 13 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=13) de regels voor verlening van een verblijfsvergunning als genoemd in B2 onverkort van toepassing.
+De verdragsbepalingen betreffende het vrije verkeer van werknemers en de uitvoeringsregeling hiervan, kunnen volgens het Hof niet worden toegepast op situaties die geen enkel aanknopingspunt hebben met één van de situaties waarvoor het gemeenschapsrecht is geschreven.
 
 ### 6. Onderdanen van België en Luxemburg
 
-Uit de Benelux Overeenkomst, die in 1960 is afgesloten tussen België, Nederland en Luxemburg, vloeien voor onderdanen van België en Luxemburg enige uitzonderingen voort op het verblijfsrecht dat op grond van het gemeenschapsrecht ontstaat.
+Met name een verrichter van diensten, van Nederlandse nationaliteit, kan onder omstandigheden worden aangemerkt als dienstverrichter bedoeld in artikel 49 EG-Verdrag, als gevolg waarvan weigering van een verblijfsvergunning aan de echtgenote van die dienstverrichter – onder omstandigheden – een niet te rechtvaardigen inmenging in het familie- en gezinsleven van de dienstverrichter kan betekenen (zie in dit verband B10/3.6).
 
-### 5.3.2.1. Terugkeer naar Nederland
+### 5.3.2. Nederlanders die rechten kunnen ontlenen aan gemeenschapsrecht
 
 Uit jurisprudentie van het Hof van Justitie van de EG (HvJEG, 7 juli 1992, Surinder Singh) kan worden afgeleid dat een lidstaat verblijf moet toestaan aan het familie- of gezinslid – ongeacht diens nationaliteit – van een eigen onderdaan die met dit familie- of gezinslid in een andere lidstaat op grond van het EG-Verdrag heeft verbleven en die zich daarna weer vestigt in eigen land. Voorwaarde is wel dat de eigen onderdaan verblijf in eigen land houdt conform het EG-Verdrag.
 
-Dit betekent dat een Nederlander bij terugkeer in Nederland als gemeenschapsonderdaan kan worden beschouwd, wanneer hij alhier reële en daadwerkelijke arbeid verricht of als economisch niet-actieve in de zin van het EG-Verdrag kan worden aangemerkt. Voor het rechtmatig verblijf van de familie- of gezinsleden die in de andere lidstaat bij hem verbleven op grond van het EG-Verdrag geldt dan het gemeenschapsrecht in plaats van de regels als genoemd in B2. Aan deze familie- of gezinsleden worden minstens dezelfde rechten toegekend als die zij krachtens het gemeenschapsrecht zouden hebben in een andere lidstaat. Deze familie- of gezinsleden worden aangemerkt als gemeenschapsonderdaan in de zin van [artikel 1, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1).
+Uit jurisprudentie van het Hof van Justitie van de EG (HvJEG, 7 juli 1992, Surinder Singh) kan worden afgeleid dat een lidstaat verblijf moet toestaan aan het familie- of gezinslid – ongeacht diens nationaliteit – van een eigen onderdaan die met dit familie- of gezinslid in een andere lidstaat op grond van het EG-Verdrag heeft verbleven en die zich daarna weer vestigt in eigen land. Uit jurisprudentie van het Hof van Justitie (HvJEG, 11 december 2007, Eind) blijkt dat bij terugkeer van een werknemer naar de lidstaat waarvan hij de nationaliteit heeft nadat hij betaald werk heeft verricht in een andere EU-lidstaat, een in die andere lidstaat tot het gezin van die werknemer behorend persoon met de nationaliteit van een derde land, een recht van verblijf heeft in de lidstaat waarvan de werknemer de nationaliteit heeft, ook indien deze laatste aldaar geen reële en daadwerkelijke economische activiteit verricht. Dit is van belang voor het rechtmatig verblijf van de familie- of gezinsleden die in de andere lidstaat bij hem verbleven op grond van het EG-Verdrag. Voor hen geldt dan het gemeenschapsrecht in plaats van de regels als genoemd in B2. Aan deze familie- of gezinsleden worden minstens dezelfde rechten toegekend als die zij krachtens het gemeenschapsrecht zouden hebben in een andere lidstaat. Deze familie- of gezinsleden worden aangemerkt als gemeenschapsonderdaan in de zin van [artikel 1, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1) indien middels documenten kan worden aangetoond dat dit familie- of gezinslid in de andere lidstaat waar de Nederlander met dit familie- of gezinslid heeft verbleven op grond van het EG-Verdrag verblijfsrecht is toegekend.
 
 ### 7.1. Verblijfsbeëindiging
 
 Het recht gaat verloren, indien de Nederlander niet meer voldoet aan de beperkingen van het EG-Verdrag.
 
-Ten aanzien van Belgen en Luxemburgers dient te worden afgezien van het doen ondertekenen van een antecedentenverklaring. Ingevolge de Beneluxovereenkomst kunnen zij bij het indienen van een aanvraag om een verblijfsvergunning eigener beweging een bewijs van goed zedelijk gedrag overleggen.
-
 Volgens het Hof van Justitie EG (HvJEG, 23 februari 1994, Scholz) kan verwerving van de nationaliteit van het verblijfsland, vooral als die verwerving het verlies van de oorspronkelijke nationaliteit tot gevolg heeft, niet tot verlies van op grond van het vrij verkeer van werknemers verkregen rechten leiden. Naturalisatie leidt niet tot verlies van de rechten die de gemeenschapsonderdaan op dat moment aan het gemeenschapsrecht kon ontlenen.
 
 Voor gemeenschapsonderdanen die tot Nederlander naturaliseren geldt dat zolang zij rechten kunnen ontlenen aan het EG-Verdrag, het gemeenschapsrecht van toepassing blijft, ongeacht of zij hun oude nationaliteit hebben verloren of behouden. Voor het rechtmatig verblijf van de familie- of gezinsleden die in de andere lidstaat bij hem verbleven op grond van het EG-Verdrag geldt dan het gemeenschapsrecht in plaats van de regels als genoemd in B2. Aan deze familie- of gezinsleden worden minstens dezelfde rechten toegekend als die zij krachtens het gemeenschapsrecht zouden hebben in een andere Lidstaat. Deze familie- of gezinsleden worden aangemerkt als gemeenschapsonderdaan in de zin van [artikel 1, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1).
 
-### 7. Verblijfsbeëindiging en uitzetting
+Het recht gaat verloren, indien de Nederlander niet meer voldoet aan de beperkingen van het EG-Verdrag.
 
-Het rechtmatig verblijf wordt niet om redenen van volksgezondheid beëindigd indien de ziekte later dan drie maanden na inreis is opgetreden (zie [artikel 8.23, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.23)).
+### 5.4. Recht op voortzetting van verblijf van het familie- of gezinslid
+
+In dit onderdeel wordt nader ingegaan op het recht op voortzetting van verblijf van familie- en gezinsleden van EU/EER-onderdanen en familie- en gezinsleden van Zwitserse onderdanen.
 
 In dit onderdeel wordt nader ingegaan op het recht op voortzetting van verblijf van familie- en gezinsleden van EU/EER-onderdanen en familie- en gezinsleden van Zwitserse onderdanen.
 
@@ -7907,15 +7907,15 @@ Zolang de familierelatie of de gezinsband met de hoofdpersoon in stand blijft en
 
 ### 5.4.2. Familielid onderdaan van EU/EER of Zwitserland
 
-Het rechtmatig verblijf van het familielid dat zelf onderdaan is van de EU/EER of van Zwitserland eindigt niet door:
+Indien het familielid reeds duurzaam verblijf heeft (zie [artikel 8.17 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17)) dan blijft dit recht behouden. Indien er nog geen sprake is van duurzaam verblijf kan betrokkene het verblijf voortzetten als economisch actieve of economisch niet-actieve, mits er geen onevenredig beroep op de publieke middelen wordt gedaan.
 
-### 6.1.2. Antecedentenverklaring
+### 5.4.3. Familielid onderdaan derde land
 
-Verblijfsbeëindiging om redenen van volksgezondheid is, gezien ook het gestelde in [artikel 8.23, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.23), niet mogelijk.
+In dit onderdeel wordt nader ingegaan op het recht op voortzetting van verblijf van familieleden van EU- EER-onderdanen en familieleden van onderdanen van Zwitserland, die zelf niet de nationaliteit van een EU- of EER-lidstaat of van Zwitserland hebben. [Artikel 8.15 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.15) ziet op het (niet-) beëindigen van het verblijfsrecht van deze familieleden. Het verblijfsrecht eindigt niet:
 
 ### 7.1.1. Actuele bedreiging van de openbare orde en openbare veiligheid
 
-Het verblijfsrecht van familieleden, die geen EU- of EER-onderdaan of onderdaan van Zwitserland zijn, voordat zij het duurzame verblijfsrecht te verkrijgen, blijft onderworpen aan de voorwaarde dat is aangetoond dat zij werknemer of zelfstandige zijn, of voor zichzelf en hun familieleden beschikken over toereikende bestaansmiddelen om te voorkomen dat zij tijdens hun verblijf ten laste komen van het sociale bijstandsstelsel en om te garanderen dat zij beschikken over een verzekering die de ziektekosten in Nederland volledig dekt. Onder toereikende middelen wordt verstaan dat de vreemdeling beschikt over een inkomen ter hoogte van het normbedrag dat ingevolge de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) voor de desbetreffende categorie is vastgesteld. Het vorenstaande is eveneens van toepassing, indien het familielid gezinslid is van het reeds in Nederland gevormde gezin van een persoon die aan deze voorwaarden voldoet.
+In [artikel 8.15, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.15) gelezen in samenhang met [artikel 8.15, tweede lid, onder b, en derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.15), wordt met betrekking tot voortzetting van verblijf en een beroep op de publieke middelen een uitzondering gemaakt voor studerende kinderen en hun verzorgende ouder.
 
 ### 7. Verblijfsbeëindiging en uitzetting
 
@@ -7927,15 +7927,15 @@ Het rechtmatig verblijf van burgers van de Unie en hun gezinsleden eindigt niet,
 
 Wanneer het kind niet meer ten laste komt van de gemeenschapsonderdaan en zelf geen verblijfsrecht kan ontlenen aan het EG-Verdrag of de Overeenkomst EG-Zwitserland, zijn de regels vermeld in B2 van toepassing.
 
-Het rechtmatig verblijf wordt niet om redenen van volksgezondheid beëindigd indien de ziekte later dan drie maanden na inreis is opgetreden (zie [artikel 8.23, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.23)).
+Uit de Benelux Overeenkomst, die in 1960 is afgesloten tussen België, Nederland en Luxemburg, vloeien voor onderdanen van België en Luxemburg enige uitzonderingen voort op het verblijfsrecht dat op grond van het gemeenschapsrecht ontstaat.
 
 Uit de Benelux Overeenkomst, die in 1960 is afgesloten tussen België, Nederland en Luxemburg, vloeien voor onderdanen van België en Luxemburg enige uitzonderingen voort op het verblijfsrecht dat op grond van het gemeenschapsrecht ontstaat.
 
-Het verbod om vreemdelingen zonder TWV te werk te stellen is op grond van [artikel 1e van het Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1e) niet van toepassing op werkzaamheden in het kader van grensoverschrijdende dienstverlening als aan de volgende voorwaarden wordt voldaan:
+Aan een Belg of Luxemburger die geen verblijfsrecht heeft op grond van het gestelde in [artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7), kan op grond van [artikel 8.6, eerste en derde lid Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.6) direct bij eerste binnenkomst een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) of een verblijfsvergunning voor bepaalde tijd bedoeld in [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) ([document I, bijlage 7a, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a)), worden afgegeven, indien hij:
 
 Aan een Belg of Luxemburger die geen verblijfsrecht heeft op grond van het gestelde in [artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7), kan op grond van [artikel 8.6, eerste en derde lid Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.6) direct bij eerste binnenkomst een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) of een verblijfsvergunning voor bepaalde tijd bedoeld in [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) ([document I, bijlage 7a, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a)), worden afgegeven, indien hij:
 
-De notificatie geldt voor alle buitenlandse dienstverleners voor wie het vrij verkeer van diensten geldt, die een dienst in Nederland willen verlenen met eigen werknemers voor wie op enig moment geen vrij verkeer van werknemers met ons land geldt (zie ook B5/4.4).
+Aan een Belg of Luxemburger kan een verblijfsrecht niet worden geweigerd op de enkele grond dat hij een gevaar vormt voor de volksgezondheid.
 
 Aan een Belg of Luxemburger kan een verblijfsrecht niet worden geweigerd op de enkele grond dat hij een gevaar vormt voor de volksgezondheid.
 
@@ -7943,13 +7943,11 @@ Aan een Belg of Luxemburger kan een verblijfsrecht niet worden geweigerd op de e
 
 Ten aanzien van Belgen en Luxemburgers dient te worden afgezien van het doen ondertekenen van een antecedentenverklaring. Ingevolge de Beneluxovereenkomst kunnen zij bij het indienen van een aanvraag om een verblijfsvergunning eigener beweging een bewijs van goed zedelijk gedrag overleggen.
 
-De notificatie geldt voor alle buitenlandse dienstverleners voor wie het vrij verkeer van diensten geldt, die een dienst in Nederland willen verlenen met eigen werknemers voor wie op enig moment geen vrij verkeer van werknemers met ons land geldt (zie ook B5/4.4).
+De weigering van de verlenging van de geldigheidsduur van een verblijfsdocument, afgegeven aan een Belg of Luxemburger, alsmede de inname daarvan of van intrekking van een afgegeven verblijfsvergunning voor onbepaalde tijd, kan niet geschieden op grond van de omstandigheid dat hij niet meer over voldoende middelen van bestaan beschikt (zie [artikel 8.6, tweede en vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.6)). Dit kan slechts geschieden, indien hij een actuele bedreiging van de openbare orde of de openbare veiligheid vormt.
 
 De weigering van de verlenging van de geldigheidsduur van een verblijfsdocument, afgegeven aan een Belg of Luxemburger, alsmede de inname daarvan of van intrekking van een afgegeven verblijfsvergunning voor onbepaalde tijd, kan niet geschieden op grond van de omstandigheid dat hij niet meer over voldoende middelen van bestaan beschikt (zie [artikel 8.6, tweede en vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.6)). Dit kan slechts geschieden, indien hij een actuele bedreiging van de openbare orde of de openbare veiligheid vormt.
 
 Ingevolge artikel IX Richtlijn 2004/38, wordt aan onderdanen van staten, die op 1 mei 2004 zijn toegetreden of daarna toetreden tot de EU alsmede hun gezinsleden, ongeacht hun nationaliteit, een document rechtmatig verblijf verleend waaruit rechtmatig verblijf blijkt, voor de duur van vijf jaar of tenminste voor de duur van de dienstverlening.
-
-De arbeidsmarktaantekening luidt: ‘arbeid in loondienst alleen toegestaan indien de werkgever beschikt over TWV’.
 
 Het verblijfsrecht van een burger van de Unie en zijn familieleden, ongeacht hun nationaliteit kan worden ontzegd of worden beëindigd om redenen van openbare orde of openbare veiligheid indien het persoonlijk gedrag van de vreemdeling een actuele, werkelijke en ernstige bedreiging voor een fundamenteel belang van de samenleving vormt (zie [artikel 8.22 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.22) en B10/7.1.1).
 
@@ -7957,15 +7955,15 @@ Het verblijfsrecht van een burger van de Unie en zijn familieleden, ongeacht hun
 
 Hierbij kan, naast de in de gezondheidswetgeving gebruikelijke ziekten als pest, cholera en gele koorts worden gedacht aan een ziekte als Sars (zie [artikel 2, onderdeel a, Infectieziektenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009684&artikel=2)).
 
+Het rechtmatig verblijf wordt niet om redenen van volksgezondheid beëindigd indien de ziekte later dan drie maanden na inreis is opgetreden (zie [artikel 8.23, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.23)).
+
 ### 8.2. Werknemers
 
-Het rechtmatig verblijf kan voorts worden beëindigd indien de vreemdeling onjuiste gegevens heeft verstrekt, dan wel gegevens heeft achtergehouden, terwijl die gegevens zouden hebben geleid tot weigering van toegang of verblijf (zie [artikel 8.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.25)). Het gaat hier om maatregelen die getroffen kunnen worden tegen misbruik van recht of fraude, zoals schijnhuwelijk. Deze maatregelen moeten evenredig zijn (zie [artikel 3:4 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:4)). Toepassing van [artikel 8.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.25) leidt tot een beschikking waartegen rechtsmiddelen mogelijk zijn.
+Duurzaam verblijfsrecht kan slechts worden beëindigd in de volgende situaties (zie [artikel 8.18 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.18)):
 
 ### 6.3.1. Arbeid als zelfstandige
 
 Verblijfsbeëindiging om redenen van volksgezondheid is, gezien ook het gestelde in [artikel 8.23, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.23), niet mogelijk.
-
-Pas indien op enige datum na toetreding van de desbetreffende lidstaat een TWV is verleend ter zake van de door de vreemdeling te verrichten werkzaamheden, wordt vervolgens op aanvraag een nieuw verblijfsdocument EU/EER afgegeven, met toepassing van B10/8.2 onder b, voor zover sprake is van reële en daadwerkelijke arbeid, anders dan marginaal en bijkomstig van aard, en voor zover de TWV is afgegeven met een geldigheidsduur van tenminste 12 maanden.
 
 De beoordeling of sprake is van een actuele, werkelijke en ernstige bedreiging voor een fundamenteel belang van de samenleving mag uitsluitend gebaseerd zijn op het persoonlijke gedrag van de betrokkene. Het enkele feit van een strafrechtelijke veroordeling is een onvoldoende deugdelijke motivering (in de zin van [artikel 3:46 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:46)) bij verblijfsbeëindiging op deze grond. Dit geldt ook voor motiveringen die los staan van het individuele geval of die verband houden met algemene preventieve redenen. Beëindiging van het verblijfsrecht op deze grond zal in de regel plaatsvinden door een ongewenstverklaring (zie [A5/6.1](onbekend) en verder), indien en zolang de betrokkene nog niet het recht van duurzaam verblijf heeft verkregen. In geval hij dat recht wel heeft verkregen zal de beëindiging van het verblijfsrecht plaatsvinden door middel van een beschikking tot intrekking van het duurzame verblijfsrecht, al dan niet in combinatie met ongewenstverklaring.
 
@@ -7973,41 +7971,41 @@ De vaststelling van een actuele bedreiging van de openbare orde of van de openba
 
 Het evenredigheidsbeginsel is van toepassing (zie [artikel 3:4 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:4)). In voorkomende gevallen beëindigt de Minister het verblijfsrecht per beschikking.
 
-### 8.3. Gezinsleden van werknemers
+Van burgers van de Unie en hun familieleden, ongeacht hun nationaliteit, mag niet worden verlangd dat zij bewijzen van goed gedrag, uittreksels uit het strafregister en dergelijke overleggen.
 
-Indien dit onontbeerlijk wordt geacht ter beoordeling of sprake is van een gevaar voor de openbare orde of openbare veiligheid kan bij de lidstaat van oorsprong of eventuele andere lidstaten worden verzocht om mededeling van gerechtelijke antecedenten betreffende de vreemdeling. Deze raadpleging kan plaatsvinden bij de afgifte van de verklaring van inschrijving of de afgifte van de verblijfskaart waarmee het verblijfsrecht van het familielid dat niet de nationaliteit van een lidstaat bezit wordt aangetoond.
+### 8.3. Gezinsleden van werknemers
 
 Bij de bevoegde diensten van de Staat van herkomst van de betrokken gemeenschapsonderdaan, zullen door de Minister nadere inlichtingen omtrent zijn antecedenten worden ingewonnen. Indien blijkt van eerder verblijf van de gemeenschapsonderdaan in ons land, dienen omtrent hem tevens inlichtingen te worden ingewonnen bij de Korpschef van zijn vroegere woon- of verblijfplaats.
 
-Terzake van het verrichten van arbeid in loondienst, geheel of ten dele bestaande uit het verrichten van seksuele handelingen met derden of voor derden, geldt ingevolge [artikel 2 Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), in samenhang met [artikel 3 Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=3), een verbod op tewerkstelling doordat een TWV wordt geweigerd. Zolang dit geldt, wordt terzake van het door onderdanen van Bulgarije en Roemenië verrichten van zodanige werkzaamheden geen verblijfsdocument EU/EER afgegeven.
+Bij de bevoegde diensten van de Staat van herkomst van de betrokken gemeenschapsonderdaan, zullen door de Minister nadere inlichtingen omtrent zijn antecedenten worden ingewonnen. Indien blijkt van eerder verblijf van de gemeenschapsonderdaan in ons land, dienen omtrent hem tevens inlichtingen te worden ingewonnen bij de Korpschef van zijn vroegere woon- of verblijfplaats.
+
+Voor de toepasselijke regelgeving met betrekking tot uitzetting van EU/EER-onderdanen en onderdanen van Zwitserland wordt verwezen naar [A4/3](onbekend).
 
 Voor de toepasselijke regelgeving met betrekking tot uitzetting van EU/EER-onderdanen en onderdanen van Zwitserland wordt verwezen naar [A4/3](onbekend).
 
 Ter zake van de afdoening van deze aanvragen leiden de legesbepalingen van de [artikelen 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34), [3.34c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34c) en [3.34d, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34d) tot hogere legesverplichtingen.
 
-### 8.1. Werkzoekenden
-
 ### 8.2. Werknemers
 
-Met betrekking tot het verrichten van dergelijke arbeid, anders dan in loondienst, gelden de regels van B10/3.3.2.
+### 8.2.1. Grensoverschrijdende dienstverrichters
 
 Het verbod om vreemdelingen zonder TWV te werk te stellen is op grond van [artikel 1e van het Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1e) niet van toepassing op werkzaamheden in het kader van grensoverschrijdende dienstverlening als aan de volgende voorwaarden wordt voldaan:
 
 Als niet aan deze voorwaarden wordt voldaan, blijft een TWV vereist.
 
+De notificatie geldt voor alle buitenlandse dienstverleners voor wie het vrij verkeer van diensten geldt, die een dienst in Nederland willen verlenen met eigen werknemers voor wie op enig moment geen vrij verkeer van werknemers met ons land geldt (zie ook B5/4.4).
+
 ### 3. Associatieovereenkomst EG en Turkije, besluit nr. 1/80
 
-Gevraagde bescheiden:
+Ingevolge artikel IX Richtlijn 2004/38, wordt aan onderdanen van staten, die op 1 mei 2004 zijn toegetreden of daarna toetreden tot de EU alsmede hun gezinsleden, ongeacht hun nationaliteit, een document rechtmatig verblijf verleend waaruit rechtmatig verblijf blijkt, voor de duur van vijf jaar of tenminste voor de duur van de dienstverlening.
 
 ### 2. EVRM
 
 De arbeidsmarktaantekening luidt: ‘arbeid in loondienst alleen toegestaan indien de werkgever beschikt over TWV’.
 
-Indien de in B10/8.5 bedoelde onderdanen dan wel gezinsleden niet voor afgifte van een verblijfsdocument in aanmerking komen in het kader van B10/8.2 tot en met B10/8.4, noch in het kader van een der voorafgaande paragrafen van dit hoofdstuk, omdat zij geen verblijfsrecht aan het gemeenschapsrecht ontlenen, staat het hen vanzelfsprekend vrij om een aanvraag in te dienen tot het verlenen, verlengen of wijzigen van een verblijfsvergunning regulier voor bepaalde tijd onder beperkingen, verband houdende met een door hen aan te geven verblijfsdoel. Zij dienen daarbij in beginsel een keuze te maken uit de verblijfsdoelen, omschreven in [artikel 3.4, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4). Daarbij is het gestelde in B1/2.1 van toepassing, alsmede het gestelde in de desbetreffende materiehoofdstukken, afhankelijk van het aangegeven verblijfsdoel.
-
 Ten aanzien van gezinsleden van werknemers met de nationaliteit van Bulgarije en Roemenië geldt het volgende.
 
-De Associatieovereenkomst EG-Turkije heeft ten doel de voortdurende en evenwichtige versterking van de commerciële en economische betrekkingen tussen de overeenkomstsluitende partijen te bevorderen, teneinde de levensstandaard van het Turkse volk te verbeteren en in een later stadium de toetreding van Turkije tot de EG te vergemakkelijken. Dit geschiedt door geleidelijk het vrije verkeer van werknemers tot stand te brengen en door de beperkingen van de vrijheid van vestiging en het vrij verrichten van diensten op te heffen.
+Ten aanzien van gezinsleden van werknemers met de nationaliteit van Bulgarije en Roemenië geldt het volgende.
 
 Aan de vreemdeling, die voor een ander doel dan het zoeken of verrichten van arbeid in loondienst in Nederland verblijft (zelfstandige, dienstenverlener, dienstenontvanger, gepensioneerde, blijvend arbeidsongeschikte, economisch niet-actieve en student), wordt door Nederland geen vrije toegang tot de Nederlandse arbeidsmarkt verleend, zolang Nederland als nationale maatregel de TWV-plicht handhaaft.
 
@@ -8019,57 +8017,59 @@ Op het verblijfsdocument van de gezins- of familieleden wordt in beginsel dezelf
 
 Pas indien op enige datum na toetreding van de desbetreffende lidstaat een TWV is verleend ter zake van de door de vreemdeling te verrichten werkzaamheden, wordt vervolgens op aanvraag een nieuw verblijfsdocument EU/EER afgegeven, met toepassing van B10/8.2 onder b, voor zover sprake is van reële en daadwerkelijke arbeid, anders dan marginaal en bijkomstig van aard, en voor zover de TWV is afgegeven met een geldigheidsduur van tenminste 12 maanden.
 
+Voor wat betreft studenten, die in Nederland verblijven op grond van [artikel 8.12, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12), en die geen verblijfsrecht kunnen ontlenen aan één der andere bepalingen van het gemeenschapsrecht, geldt het volgende.
+
 ### 3.3.2. Recht voortzetting verblijf
 
-Indien zij arbeid (willen gaan) verrichten in het kader van een stage als verplicht onderdeel van de opleiding, of arbeid van niet meer dan tien uren per week dan wel seizoenarbeid in de maanden juni, juli en augustus, is het gestelde in B6/5 van overeenkomstige toepassing.
+Daarbij wordt voorts verwezen naar de [paragrafen 24 en 26 van de Uitvoeringsregels bij het Delegatie- en uitvoeringsbesluit Wav](onbekend), inzake stagiaires, respectievelijk arbeid van bijkomende aard (zie D2/2).
 
 ### 3.3.1. Begrippen
 
 Ook in de daar omschreven gevallen, van door een student te verrichten arbeid, is een TWV vereist, ook al wordt die arbeid aangemerkt als zijnde van bijkomende aard.
 
-**Werknemer**: de persoon die reële en daadwerkelijke arbeid verricht, met uitsluiting van werkzaamheden van zo geringe omvang dat zij slechts marginaal en bijkomstig van aard zijn. Het hoofdkenmerk van de arbeidsverhouding is, dat iemand gedurende een bepaalde tijd voor een ander en onder diens gezag prestaties levert en als tegenprestatie een (geldelijke) vergoeding ontvangt. Dit is niet anders indien de arbeidsverhouding voortkomt uit sociale wetgeving, de productiviteit van betrokkene gering is, de beloning niet ten minste ter hoogte is van het minimumloon, de vergoeding voor de arbeid geschiedt vanuit publieke middelen als bijvoorbeeld gesubsidieerde banen (zie Hof van Justitie van de EG, 19 november 2002, Kurz, C-188/00 en 26 november 1998, Birden, C-1/97; zie B10/3.2 en B10/3.2.1).
+De in voorgaande subparagrafen bedoelde onderdanen en hun gezinsleden, ongeacht hun nationaliteit, worden desgewenst in de gelegenheid gesteld een aanvraag te doen om toetsing aan het gemeenschapsrecht en afgifte van het daarmee corresponderende verblijfsdocument, ter zake waarvan leges zijn verschuldigd.
 
-### 6.1. Inleiding
-
-De vaststelling of betrokkene aan bovenstaande voorwaarden voldoet, vindt plaats aan de hand van de overgelegde arbeidscontracten, jaarloonopgaven en het registratiebericht Melding Sociale Voorzieningen. Het registratiebericht ontvangt iedere werknemer als bewijs dat de werkgever hem heeft aangemeld bij het UWV. Indien twijfel bestaat of betrokkene voldoet aan bovenstaand drietal voorwaarden, dient informatie over de in het verleden afgegeven TWV(en) te worden ingewonnen bij CWI.
+### 8.6. Reguliere verblijfsaanvraag
 
 Indien de in B10/8.5 bedoelde onderdanen dan wel gezinsleden niet voor afgifte van een verblijfsdocument in aanmerking komen in het kader van B10/8.2 tot en met B10/8.4, noch in het kader van een der voorafgaande paragrafen van dit hoofdstuk, omdat zij geen verblijfsrecht aan het gemeenschapsrecht ontlenen, staat het hen vanzelfsprekend vrij om een aanvraag in te dienen tot het verlenen, verlengen of wijzigen van een verblijfsvergunning regulier voor bepaalde tijd onder beperkingen, verband houdende met een door hen aan te geven verblijfsdoel. Zij dienen daarbij in beginsel een keuze te maken uit de verblijfsdoelen, omschreven in [artikel 3.4, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4). Daarbij is het gestelde in B1/2.1 van toepassing, alsmede het gestelde in de desbetreffende materiehoofdstukken, afhankelijk van het aangegeven verblijfsdoel.
 
-### 6.2. Begunstigde
+Ter zake van de afdoening van deze aanvragen leiden de legesbepalingen van de [artikelen 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34), [3.34c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34c) en [3.34d, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34d) tot hogere legesverplichtingen.
 
 ### 8.7. Seksuele dienstverlening
 
-Terzake van het verrichten van arbeid in loondienst, geheel of ten dele bestaande uit het verrichten van seksuele handelingen met derden of voor derden, geldt ingevolge [artikel 2 Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), in samenhang met [artikel 3 Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=3), een verbod op tewerkstelling doordat een TWV wordt geweigerd. Zolang dit geldt, wordt terzake van het door onderdanen van Bulgarije en Roemenië verrichten van zodanige werkzaamheden geen verblijfsdocument EU/EER afgegeven.
+### 8.7. Seksuele dienstverlening
 
 Met betrekking tot het verrichten van dergelijke arbeid, anders dan in loondienst, gelden de regels van B10/3.3.2.
 
-### 11. Verdragen
+Met betrekking tot het verrichten van dergelijke arbeid, anders dan in loondienst, gelden de regels van B10/3.3.2.
 
-De vaststelling of betrokkene drie jaar legale arbeid in hetzelfde beroep bij dezelfde werkgever heeft verricht vindt plaats op de wijze als vermeld onder a.
+### 1. Inleiding
+
+Er zijn diverse verdragen relevant voor het Nederlandse vreemdelingenrecht. Het internationale recht, waaronder Verdragen, gaat vóór het Nederlandse recht en eist dat de verdragspartij zijn aangegane verplichtingen nakomt. De wijze waarop verdragsbepalingen in de Nederlandse rechtsorde doorwerken wordt echter niet geregeld door het internationale recht; dit is een aangelegenheid van nationaal procedureel recht.
 
 ### 3.3.3. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
 Het Nederlandse reguliere vreemdelingenrecht is zo ingericht dat een vreemdeling dient aan te geven in verband met welk verblijfsdoel hij een verblijfsvergunning wenst te verkrijgen. Ieder opgegeven verblijfsdoel brengt op zijn beurt weer een specifiek toetsingskader van voorwaarden en beperkingen met zich mee. Dit laat onverlet dat ingevolge de directe werking van verdragsbepalingen in de Nederlandse rechtsorde aan de vreemdeling in bepaalde gevallen een recht op (voortgezette) toelating toekomt. [Artikel 8.26 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.26) geeft een overzicht van verdragen. De Minister kan regels stellen over de rechten die vreemdelingen aan de in dit artikel genoemde verdragen kunnen ontlenen.
 
-Bij de berekening van tijdvakken van legale arbeid moet rekening gehouden worden met tijdvakken waarin betrokkene geen arbeid (heeft) verricht (zie artikel 6, tweede lid, Associatiebesluit 1/80).
+Voor artikel 8 EVRM wordt verwezen naar B2/10. Voor artikel 3 EVRM wordt verwezen naar [deel C](https://wetten.overheid.nl/jci1.3:c:BWBR0012288).
 
 Voor artikel 8 EVRM wordt verwezen naar B2/10. Voor artikel 3 EVRM wordt verwezen naar [deel C](https://wetten.overheid.nl/jci1.3:c:BWBR0012288).
 
 ### 3. Associatieovereenkomst EG en Turkije, besluit nr. 1/80
 
-Op 12 september 1963 is een overeenkomst, waarbij een associatie tot stand wordt gebracht tussen de EG en Turkije, namens die EG gesloten, goedgekeurd en bevestigd bij besluit 64/732 EG van de Raad van de EG van 23 december 1963 (PB 1964, 217).
-
 De Associatieovereenkomst EG-Turkije heeft ten doel de voortdurende en evenwichtige versterking van de commerciële en economische betrekkingen tussen de overeenkomstsluitende partijen te bevorderen, teneinde de levensstandaard van het Turkse volk te verbeteren en in een later stadium de toetreding van Turkije tot de EG te vergemakkelijken. Dit geschiedt door geleidelijk het vrije verkeer van werknemers tot stand te brengen en door de beperkingen van de vrijheid van vestiging en het vrij verrichten van diensten op te heffen.
 
-### 6.3.2. Arbeid in loondienst
+Op 23 november 1970 is een Aanvullend Protocol bij de Associatieovereenkomst EG-Turkije ondertekend en namens de EG gesloten en goedgekeurd en bevestigd bij [verordening 2760/72](31972R2760) van de Raad van de EG van 19 december 1972. Het aanvullend protocol is voor Nederland op 1 januari 1973 in werking getreden. De bij de Associatieovereenkomst EG-Turkije ingestelde Associatieraad heeft op 19 september 1980 Associatiebesluit 1/80 vastgesteld.
 
-Verder wordt ingevolge de nationale regelgeving aan het minderjarige gezinslid die als minderjarige in het bezit is gesteld van een verblijfsvergunning in verband met gezinshereniging bij een persoon met een niet-tijdelijke verblijfsrecht, reeds na een jaar op aanvraag een zelfstandige verblijfsvergunning voor voortgezet verblijf verleend (zie [artikel 3.50 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) en B16).
+### 3.1. Begunstigde
+
+Besluit nr. 1/80 is van toepassing op Turkse werknemers en hun gezinsleden die op grond van nationale wet- en regelgeving in Nederland rechtmatig verblijf hebben verkregen. Besluit nr. 1/80 is derhalve niet van toepassing op de eerste toelating (zie Hof van Justitie van de EG, 11 november 2004, Cetinkaya C-467/02 en 21 oktober 2003, Abatay e.a., C-317/01 en 369/01, JV 2004, 2).
 
 ### 6.3.3. Vestiging
 
-### 3.4.1. Nationaal recht
+### 3.2. Aard van het verblijf van Turkse werknemers en hun gezinsleden
 
-De nationale regels inzake gezinshereniging en -vorming (zie B2) bieden de gezinsleden in de regel al meteen het recht om te werken en gaan derhalve verder dan waartoe het Associatiebesluit nr. 1/80 verplicht.
+Turkse werknemers en hun gezinsleden die voldoen aan de voorwaarden van een bepaling van besluit nr. 1/80 ontlenen hun recht op arbeid, en het daarmee samenhangend recht op verblijf, rechtstreeks aan besluit nr. 1/80. Het recht op verblijf is in die gevallen daarom in beginsel onafhankelijk van de afgifte van een verblijfsvergunning, hetgeen het bestaan van dit (rechtstreeks toegekende) recht slechts bevestigt (zie Hof van Justitie van de EG, 6 juni 1995, Bozkurt, C-434/93 en 16 maart 2000, Ergat, C-329/97; zie [artikel 8, aanhef en onder l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8)).
 
 Turkse werknemers en hun gezinsleden die voldoen aan de voorwaarden van een bepaling van besluit nr. 1/80 ontlenen hun recht op arbeid, en het daarmee samenhangend recht op verblijf, rechtstreeks aan besluit nr. 1/80. Het recht op verblijf is in die gevallen daarom in beginsel onafhankelijk van de afgifte van een verblijfsvergunning, hetgeen het bestaan van dit (rechtstreeks toegekende) recht slechts bevestigt (zie Hof van Justitie van de EG, 6 juni 1995, Bozkurt, C-434/93 en 16 maart 2000, Ergat, C-329/97; zie [artikel 8, aanhef en onder l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8)).
 
@@ -8077,13 +8077,11 @@ Daarnaast kunnen bovenstaande gezinsleden reeds na drie jaar rechtmatig verblijf
 
 ### 3.3.1. Begrippen
 
-In B11/3.3 wordt een aantal begrippen gehanteerd. Hieronder wordt aangegeven wat onder de diverse begrippen wordt verstaan.
-
 **Werknemer**: de persoon die reële en daadwerkelijke arbeid verricht, met uitsluiting van werkzaamheden van zo geringe omvang dat zij slechts marginaal en bijkomstig van aard zijn. Het hoofdkenmerk van de arbeidsverhouding is, dat iemand gedurende een bepaalde tijd voor een ander en onder diens gezag prestaties levert en als tegenprestatie een (geldelijke) vergoeding ontvangt. Dit is niet anders indien de arbeidsverhouding voortkomt uit sociale wetgeving, de productiviteit van betrokkene gering is, de beloning niet ten minste ter hoogte is van het minimumloon, de vergoeding voor de arbeid geschiedt vanuit publieke middelen als bijvoorbeeld gesubsidieerde banen (zie Hof van Justitie van de EG, 19 november 2002, Kurz, C-188/00 en 26 november 1998, Birden, C-1/97; zie B10/3.2 en B10/3.2.1).
 
 **Legale arbeidsmarkt**: de werknemer behoort tot de legale arbeidsmarkt als zijn arbeidsverhouding rechtens kan worden gelokaliseerd op het grondgebied van Nederland of voldoende nauwe aanknopingspunten met Nederland heeft. Hierbij moet in aanmerking worden genomen:
 
-Vorenstaande betekent dat de vrije toegang tot de arbeidsmarkt als bepaald in artikel 7, eerste lid, onder b, besluit nr. 1/80 (waarin is bepaald dat de gezinsleden vrije toegang tot de arbeidsmarkt hebben wanneer zij ten minste vijf jaar aldaar legaal wonen) reeds na drie jaar legaal wonen van toepassing is. Met deze voor de gezinsleden van een Turkse werknemer gunstigere regel wordt afgeweken van het bepaalde in artikel 7, eerste lid, onder a, Associatiebesluit 1/80. Deze gunstigere regel moet altijd worden toegepast.
+**Legale arbeidsmarkt**: de werknemer behoort tot de legale arbeidsmarkt als zijn arbeidsverhouding rechtens kan worden gelokaliseerd op het grondgebied van Nederland of voldoende nauwe aanknopingspunten met Nederland heeft. Hierbij moet in aanmerking worden genomen:
 
 Een Turkse werknemer:
 
@@ -8101,21 +8099,23 @@ Turkse werknemers die werkzaam zijn in het internationaal verkeer als chauffeur,
 
 Op grond van nationaal beleid geldt dat de Turkse werknemer, nadat hij drie jaar onafgebroken legale arbeid in hetzelfde beroep bij dezelfde werkgever heeft verricht, vrije toegang heeft tot iedere arbeid van zijn keuze (zie B5/3.2.2). Dit betekent dat het bepaalde in artikel 6, eerste lid, derde gedachtestreepje, Associatiebesluit 1/80 reeds na drie jaar legale arbeid van toepassing is.
 
-### 3.6. Turkse zelfstandige
+De vaststelling of betrokkene drie jaar legale arbeid in hetzelfde beroep bij dezelfde werkgever heeft verricht vindt plaats op de wijze als vermeld onder a.
 
-De Turkse werknemer die drie jaar legale arbeid heeft verricht, heeft daarmee het recht om zijn dienstbetrekking vrijwillig te beëindigen, onder voorwaarde dat hij binnen een redelijke termijn een nieuwe dienstbetrekking vindt en gedurende deze periode blijft behoren tot de legale arbeidsmarkt en geen beroep doet op de publieke middelen. Er is sprake van het blijven behoren tot de legale arbeidsmarkt als betrokkene zich na de vrijwillige beëindiging van zijn dienstbetrekking onmiddellijk inschrijft bij een arbeidsbureau en zich volledig beschikbaar stelt voor het verrichten van werkzaamheden.
+### 3.6. Turkse zelfstandige
 
 Indien betrokkene na het verstrijken van de redelijke termijn en ondanks bemiddeling van het arbeidsbureau geen nieuwe dienstbetrekking heeft gevonden, behoort betrokkene nog slechts tot de legale arbeidsmarkt indien hij een reële en daadwerkelijke kans maakt om binnen een maand tewerkgesteld te worden (zie Hof van Justitie van de EG, 23 januari 1997, Tetik, C-171/95).
 
+Bij de berekening van tijdvakken van legale arbeid moet rekening gehouden worden met tijdvakken waarin betrokkene geen arbeid (heeft) verricht (zie artikel 6, tweede lid, Associatiebesluit 1/80).
+
 ### 4.2. Waarborgen
 
-Jaarlijkse vakanties en perioden van afwezigheid wegens zwangerschap, arbeidsongeval of kortdurende ziekte worden gelijkgesteld met tijdvakken van legale arbeid.
+Tijdvakken van onvrijwillige werkloosheid die naar behoren zijn geconstateerd door de bevoegde autoriteiten, alsmede perioden van afwezigheid wegens langdurige ziekte worden niet gelijkgesteld met tijdvakken van legale arbeid. Op het moment dat de werkzaamheden worden hervat, wordt weer verder gegaan met de opbouw van tijdvakken van legale arbeid.
 
 ### 4.1. Begunstigde
 
 Vrijwillige werkloosheid gedurende de opbouw van de eerste drie jaar legale arbeid heeft tot gevolg dat reeds opgebouwde rechten verloren gaan. Ook werkloosheid ten gevolge van een detentie heeft gedurende de opbouw van de eerste drie jaar legale arbeid tot gevolg dat de reeds opgebouwde rechten verloren gaan. In het geval van hervatting van werkzaamheden, wordt weer van voor af aan begonnen met de opbouw van tijdvakken van legale arbeid en daarmee de opbouw van rechten.
 
-Indien een tot bovenbedoelde categorie behorende vreemdeling voldoet aan de eis van twee jaren rechtmatig wonen, gelden de volgende afwijkingen van het algemeen geldende vreemdelingenrecht:
+Voor zover de aan de vergunning verbonden beperking nog niet luidde: ‘arbeid in loondienst’, wordt de beperking (de vergunning) alsnog in die zin gewijzigd, met als aanvulling: ‘bij (naam werkgever) op grond van het Turkse Associatie Verdrag.’
 
 Voor zover de aan de vergunning verbonden beperking nog niet luidde: ‘arbeid in loondienst’, wordt de beperking (de vergunning) alsnog in die zin gewijzigd, met als aanvulling: ‘bij (naam werkgever) op grond van het Turkse Associatie Verdrag.’
 
@@ -8123,17 +8123,15 @@ Voor zover de aan de vergunning verbonden beperking nog niet luidde: ‘arbeid i
 
 Onder gezinsleden wordt verstaan, de echtgenoot van de Turkse werknemer, hun bloedverwanten in neergaande lijn beneden de leeftijd van 21 jaar of die te hunnen laste zijn en de bloedverwanten in opgaande lijn van deze werknemer en van zijn echtgenoot, die te hunnen laste zijn (zie Hof van Justitie van de EG, 30 september 2004, Ayaz, C-275/02; zie B10). Gelet op de gelijkstelling in Nederland tussen echtgenoten en geregistreerd partners is hetgeen is bepaald met betrekking tot de echtgeno(o)t(e) ook van toepassing op de geregistreerde partner van een Turkse werknemer.
 
-Indien een tot bovenbedoelde categorie behorende vreemdeling voldoet aan de eis van twee jaren rechtmatig wonen, gelden de volgende afwijkingen van het algemeen geldende vreemdelingenrecht:
-
 De nationale regels inzake gezinshereniging en -vorming (zie B2) bieden de gezinsleden in de regel al meteen het recht om te werken en gaan derhalve verder dan waartoe het Associatiebesluit nr. 1/80 verplicht.
 
 Verder wordt ingevolge de nationale regelgeving aan het minderjarige gezinslid die als minderjarige in het bezit is gesteld van een verblijfsvergunning in verband met gezinshereniging bij een persoon met een niet-tijdelijke verblijfsrecht, reeds na een jaar op aanvraag een zelfstandige verblijfsvergunning voor voortgezet verblijf verleend (zie [artikel 3.50 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) en B16).
 
 Daarnaast kunnen bovenstaande gezinsleden reeds na drie jaar rechtmatig verblijf hier te lande aanspraak maken op een zelfstandige verblijfsvergunning onder de beperking voortgezet verblijf (zie B16/3). Op grond van deze verblijfsvergunning hebben zij ook de vrije toegang tot iedere arbeid van keuze.
 
-### 3.4.2. Voorwaarden Associatiebesluit 1/80
+Daarnaast kunnen bovenstaande gezinsleden reeds na drie jaar rechtmatig verblijf hier te lande aanspraak maken op een zelfstandige verblijfsvergunning onder de beperking voortgezet verblijf (zie B16/3). Op grond van deze verblijfsvergunning hebben zij ook de vrije toegang tot iedere arbeid van keuze.
 
-Gezinsleden hebben vrije toegang tot iedere arbeid van hun keuze indien zij:
+### 3.4.2. Voorwaarden Associatiebesluit 1/80
 
 In artikel 7, Associatiebesluit 1/80 is bepaald onder welke voorwaarden gezinsleden van een tot de legale arbeidsmarkt van een lidstaat behorende Turkse werknemer, toegang hebben tot de arbeidsmarkt. Om rechten te kunnen ontlenen aan het Associatiebesluit 1/80 dient de verblijfgever in ieder geval op het moment van toelating van het gezinslid, werknemer in de zin van het Associatiebesluit 1/80 te zijn (geweest).
 
@@ -8145,15 +8143,17 @@ Vorenstaande betekent dat de vrije toegang tot de arbeidsmarkt als bepaald in ar
 
 Na de periode van drie jaar legaal wonen worden ingevolge artikel 7 van het Associatiebesluit 1/80 aan het verblijf van het gezinslid geen voorwaarden meer verbonden. De omstandigheid dat de Turkse werknemer na deze periode niet meer behoort tot de legale arbeidsmarkt of dat de gezinsband is verbroken, heeft geen gevolgen voor het verblijfsrecht van het gezinslid (zie voornoemde zaak Cetinkaya). Dit geldt ongeacht of het gezinslid in het bezit is van een zelfstandige verblijfsvergunning onder de beperking voortgezet verblijf.
 
+Na de periode van drie jaar legaal wonen worden ingevolge artikel 7 van het Associatiebesluit 1/80 aan het verblijf van het gezinslid geen voorwaarden meer verbonden. De omstandigheid dat de Turkse werknemer na deze periode niet meer behoort tot de legale arbeidsmarkt of dat de gezinsband is verbroken, heeft geen gevolgen voor het verblijfsrecht van het gezinslid (zie voornoemde zaak Cetinkaya). Dit geldt ongeacht of het gezinslid in het bezit is van een zelfstandige verblijfsvergunning onder de beperking voortgezet verblijf.
+
 ### 3.5. Verlies van opgebouwde rechten
 
-De Turkse werknemers en zijn gezinsleden die vallen onder de reikwijdte van een van de bepalingen van besluit nr. 1/80, verliezen hun opgebouwde rechten in de volgende gevallen.
+Gedurende de opbouw van de eerste drie jaar legale arbeid heeft vrijwillige werkloosheid tot gevolg dat reeds opgebouwde rechten verloren gaan (zie B11/3.3.2).
 
 ### 4.2.2. Tien jaar rechtmatig verblijf
 
-Het verblijfsrecht wordt beëindigd om redenen van openbare orde of openbare veiligheid indien het persoonlijk gedrag van betrokkene een actuele, werkelijke en voldoende ernstige bedreiging voor een fundamenteel belang van de samenleving vormt (zie artikel 14, eerste lid, besluit nr. 1/80; zie Hof van Justitie van de EG, 10 februari 2000, Nazli, C-340/97en zie B10/7.1.1).
-
 De omstandigheid dat de Turkse werknemer na drie jaar legale arbeid te hebben verricht een gevangenisstraf ondergaat, heeft niet tot gevolg dat de opgebouwde rechten verloren gaan (zie voornoemde zaak Nazli), ook niet indien de werkgever daarin aanleiding heeft gevonden om de werknemer te ontslaan. Immers, de met de gevangenisstraf gepaard gaande periode van tijdelijke afwezigheid op de arbeidsmarkt belet in de regel niet dat betrokkene nadien weer deelneemt aan het beroepsleven. Dit lijdt slechts uitzondering in geval van het gestelde hierboven.
+
+Het verblijfsrecht gaat verloren indien het grondgebied van Nederland voor zes maanden of langer is verlaten, tenzij deze afwezigheid is gelegen in het vervullen van de militaire dienstplicht (zie bovengenoemde zaak Ergat en B10/7.1).
 
 ### 10. ESH
 
@@ -8163,21 +8163,19 @@ De door de Turkse werknemer opgebouwde rechten gaan verloren wanneer hij de Nede
 
 Het Associatiebesluit 1/80 heeft geen betrekking op Turkse zelfstandigen en zijn gezinsleden. Een Turkse onderdaan die in Nederland wenst te verblijven in verband met het verrichten van arbeid als zelfstandige dient te voldoen aan de algemene voorwaarden voor zelfstandigen, met uitzondering van de voorwaarde dat de leeftijd van 60 jaar nog niet bereikt is (zie B5/7.7). Voorts is niet het communautaire openbare orde-criterium van toepassing is, maar het nationale openbare orde beleid.
 
-Hoewel het aan betrokkene is om aan te tonen dat hij beschikt over voldoende middelen van bestaan in de zin van dit verdrag, kunnen eventuele vragen/twijfels bestaan over de daadwerkelijke hoogte van het gestelde netto bedrag. Inlichtingen over (de invloed van) Duitse uitkeringen (op de heffing inkomstenbelasting en/of premie voor de volksverzekeringen) in Nederland kunnen worden verkregen bij het Bureau voor Duitse Zaken te Nijmegen.
-
 Het Europees vestigingsverdrag met Protocol, goedgekeurd bij de wet van 28 oktober 1959 (Stb. 395) en voor Nederland in werking getreden op 21 mei 1969, voorziet in het toekennen van bepaalde voorrechten aan de onderdanen van landen die bij dit Verdrag Partij zijn.
 
-### 5.1. Begunstigde
+Partij bij voornoemd verdrag zijn: Nederland, België, Denemarken, Duitsland, Griekenland, Ierland, Italië, Luxemburg, Noorwegen, Turkije, het Verenigd Koninkrijk en Zweden.
 
-Hier wordt aangesloten bij de lijst van besmettelijke ziekten die als [bijlage bij het Vb](onbekend) is gevoegd.
+### 4.1. Begunstigde
 
 Omdat voor gemeenschapsonderdanen de verblijfsrechten die voortvloeien uit het gemeenschapsrecht gunstiger zijn, is dit Verdrag voor onderdanen van de landen die Partij zijn bij het Verdrag slechts van belang voor zover zij niet (langer) een verblijfsrecht kunnen ontlenen aan het gemeenschapsrecht. Voor onderdanen van Turkije is het verdrag slechts van belang voorzover zij geen aanspraken op voortzetting van verblijf kunnen ontlenen aan het Associatiebesluit 1/80 (zie B11/3).
 
-Op 21 juni 1999 is de Overeenkomst EG-Zwitserland tot stand gekomen. Bij [wet van 14 september 2001](onbekend) heeft Nederland deze Overeenkomst goedgekeurd (Stb. 2001, 432) en op 16 november 2001 geratificeerd. De Overeenkomst is per 1 juni 2002 in werking getreden.
+Omdat voor gemeenschapsonderdanen de verblijfsrechten die voortvloeien uit het gemeenschapsrecht gunstiger zijn, is dit Verdrag voor onderdanen van de landen die Partij zijn bij het Verdrag slechts van belang voor zover zij niet (langer) een verblijfsrecht kunnen ontlenen aan het gemeenschapsrecht. Voor onderdanen van Turkije is het verdrag slechts van belang voorzover zij geen aanspraken op voortzetting van verblijf kunnen ontlenen aan het Associatiebesluit 1/80 (zie B11/3).
 
-### 6.2. Begunstigde
+Het Europees vestigingsverdrag verschaft de onderdanen van alle bedoelde landen (in de praktijk alleen de Turkse onderdanen) (extra) procedurele waarborgen in geval van voorgenomen verblijfsbeëindiging, bij rechtmatig verblijf (rechtmatig wonen) van ten minste twee (B11/4.2.1) respectievelijk tien jaar (B11/4.2.2). Onder ‘rechtmatig op het grondgebied wonen’ wordt verstaan het hoofdverblijf in Nederland hebben tijdens een rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder a tot en met e, of onder l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8). Verblijf gedurende de vrije termijn ([artikel 8, aanhef en onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), in samenhang met [artikel 12 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=12) en [artikel 3.3 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.3)) telt dus voor de berekening van de twee- of tienjarentermijn niet mee.
 
-Tevens wordt de verblijfsvergunning voorzien van de aantekening: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
+### 4.2.1. Twee jaar rechtmatig verblijf
 
 Een onderdaan van een Verdragsluitende Partij die langer dan de twee voorafgaande jaren rechtmatig op het grondgebied van enige andere Partij heeft gewoond, wordt niet verwijderd zonder dat hem eerst wordt toegestaan tegen deze verwijdering gronden aan te voeren alsmede zich te wenden tot, en zich te dien einde te doen vertegenwoordigen bij, een bevoegde autoriteit of persoon of één of meer speciaal door de bevoegde autoriteiten aangewezen personen.
 
@@ -8185,17 +8183,19 @@ Indien een tot bovenbedoelde categorie behorende vreemdeling voldoet aan de eis 
 
 De vorenvermelde speciale waarborgen gelden niet, indien dwingende overwegingen van nationale veiligheid de uitzetting van de vreemdeling rechtvaardigen. Het begrip dwingende overwegingen van nationale veiligheid dient te worden onderscheiden van het begrip ‘bezwaren uit hoofde van de openbare orde’, zoals bedoeld in B1/4.4.
 
+De vorenvermelde speciale waarborgen gelden niet, indien dwingende overwegingen van nationale veiligheid de uitzetting van de vreemdeling rechtvaardigen. Het begrip dwingende overwegingen van nationale veiligheid dient te worden onderscheiden van het begrip ‘bezwaren uit hoofde van de openbare orde’, zoals bedoeld in B1/4.4.
+
 ### 4.2.2. Tien jaar rechtmatig verblijf
 
-Onderdanen van een Verdragsluitende Partij, die langer dan tien jaar rechtmatig op het grondgebied van enige andere Partij wonen, kunnen slechts worden verwijderd om redenen van nationale veiligheid dan wel openbare orde of goede zeden van bijzonder ernstige aard (zie artikel 3, derde lid, van het Verdrag).
+Deze bepaling is niet vertaald in het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825), maar de algemene regeling van [artikel 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) en [3.87 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.87) geeft – materieel inhoudelijk bekeken – een rechtsbescherming die ten minste even sterk is als de rechtsbescherming die voortvloeit uit het Verdrag.
 
 ### 11.1. Begunstigde
 
-Bij beantwoording van de vraag of de redenen voor verwijdering van bijzonder ernstige aard in de zin van het Verdrag zijn, dient het gedrag van de betrokken persoon gedurende de hele periode van verblijf in aanmerking te worden genomen. Tevens dient rekening te worden gehouden met familiebanden en de duur van het verblijf van de betrokken persoon op het Nederlands grondgebied.
+Zulks is niet meer dan al geldt ingevolge de algemene regels inzake verblijfsbeëindiging op grond van openbare orde (zie B1/4.4).
 
-### 6.3. Toegang en verblijf in Nederland
+### 4.3. Aantekening in de identiteitspapieren
 
-Het Nederlands-Zwitsers Traktaat voorziet in de mogelijkheid van vrije toegang en vestiging van wederzijdse onderdanen in de beide verdragstaten. Een onderdaan van Zwitserland heeft op grond van het Nederlands-Zwitsers Traktaat recht op een behandeling die niet minder gunstig is dan de behandeling van een Nederlander, indien hij zich in Nederland wil vestigen en/of alhier economische activiteiten wil gaan verrichten.
+Wanneer, door toepassing van dit Verdrag, de uitzetting achterwege blijft, dient in het identiteitspapier van de vreemdeling, al naar gelang het geval, één van de aantekeningen voorgeschreven bij [artikel 4.29](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29) en [4.34 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.34) te worden gesteld.
 
 Wanneer, door toepassing van dit Verdrag, de uitzetting achterwege blijft, dient in het identiteitspapier van de vreemdeling, al naar gelang het geval, één van de aantekeningen voorgeschreven bij [artikel 4.29](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.29) en [4.34 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.34) te worden gesteld.
 
@@ -8203,13 +8203,11 @@ Wanneer, door toepassing van dit Verdrag, de uitzetting achterwege blijft, dient
 
 Op 17 december 1904 is het Nederlands-Duits Vestigingsverdrag in werking getreden. Het Nederlands-Duits Vestigingsverdrag voorziet in de mogelijkheid van vrije vestiging van wederzijdse onderdanen in de beide verdragstaten.
 
-Onder middelen van bestaan wordt verstaan een netto-inkomen dat ten minste gelijk is aan het bestaansminimum voor de betrokken categorie (alleenstaande, echtpaar) in de zin van de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
-
 Het Verdrag is slechts van belang voor Duitse onderdanen die aan het gemeenschapsrecht geen aanspraak op verblijf kunnen ontlenen. Voorts is het Verdrag van belang voor Duitse onderdanen die in Duitsland werken, maar in Nederland (willen gaan) wonen.
 
 Overigens heeft verlening van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) op grond van het Nederlands-Duits Vestigingsverdrag niet tot gevolg dat betrokkene rechtmatig verblijf als gemeenschapsonderdaan in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) verkrijgt.
 
-Op een Zwitsers onderdaan, die zich in Nederland wil vestigen om alhier economische activiteiten als zelfstandige te gaan verrichten, is [artikel 3.30, eerste lid, onder a en b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30) niet van toepassing. Dit betekent dat hij niet behoeft te voldoen aan de voorwaarden als genoemd in B5/7.5 en B5/7.7. De aanvraag hoeft dus niet aan het Ministerie van EZ te worden voorgelegd voor een toetsing aan het wezenlijk Nederlands economisch belang.
+Overigens heeft verlening van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) op grond van het Nederlands-Duits Vestigingsverdrag niet tot gevolg dat betrokkene rechtmatig verblijf als gemeenschapsonderdaan in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) verkrijgt.
 
 Ingevolge het Nederlands-Duits Vestigingsverdrag wordt in geval van een aanvraag om verlenging van de geldigheidsduur van de verblijfsvergunning niet tegengeworpen dat niet aan de beperking wordt voldaan, mits betrokkene beschikt over voldoende middelen van bestaan. Met andere woorden, (voortzetting van) verblijf wordt toegestaan indien:
 
@@ -8219,11 +8217,13 @@ Een uitkering krachtens de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703
 
 Op grond van de overeenkomst tussen Nederland en Duitsland tot het vermijden van dubbele belasting zijn Duitse uitkeringen uit de sociale verzekering voor in Nederland wonende Duitsers in principe onderworpen aan de Duitse belastingheffing. Echter, in de praktijk wordt in Duitsland geen loonbelasting op deze uitkeringen ingehouden en wordt evenmin een aanslag Duitse inkomstenbelasting opgelegd, behalve indien nog andere inkomsten uit Duitsland worden genoten. Dit heeft tot gevolg dat in de regel op een in Nederland ontvangen Duitse uitkering door Nederland noch door Duitsland een enkele inhouding heeft plaatsgevonden.
 
+Bovenstaande ‘belastingovereenkomst’ doet echter geen afbreuk aan de bevoegdheid van Nederland om, als woonstaat van de rechthebbende, de uitbetaalde Duitse uitkering op te nemen in de grondslag waarnaar de Nederlandse belasting wordt geheven. Nu een ontvanger van een Duitse uitkering in Nederland vrijwel altijd aangifteplichtig is, is een ontvangen Duitse uitkering niet zonder meer geheel aan te merken als netto-inkomen. Rekening dient immers te worden gehouden met de Nederlandse belasting- en premieheffing over deze uitkering. Ter zake kan overigens vrijstelling van verzekeringsplicht en premiebetaling voor de volksverzekeringen zijn verleend door de SVB.
+
 ### 2.1.1. Algemeen
 
-Hoewel het aan betrokkene is om aan te tonen dat hij beschikt over voldoende middelen van bestaan in de zin van dit verdrag, kunnen eventuele vragen/twijfels bestaan over de daadwerkelijke hoogte van het gestelde netto bedrag. Inlichtingen over (de invloed van) Duitse uitkeringen (op de heffing inkomstenbelasting en/of premie voor de volksverzekeringen) in Nederland kunnen worden verkregen bij het Bureau voor Duitse Zaken te Nijmegen.
-
 De verlening van een verblijfsvergunning, evenals verlenging van de geldigheidsduur ervan, kan worden geweigerd in geval van een in rechte onaantastbare strafrechtelijke uitspraak. Weigering kan tevens plaatsvinden in geval de vreemdeling gevaar oplevert voor de nationale veiligheid. Bij aanvragen om verlening van een verblijfsvergunning wordt daarbij op grond van het bovenstaande afgeweken van [artikel 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.77) en [3.78 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.78).
+
+In geval van een aanvraag tot het verlengen van de geldigheidsduur is [artikel 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) en [3.87 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.87) onverkort van toepassing. Voor Duitsers die zijn aan te merken als gemeenschapsonderdanen is het communautaire openbare orde-criterium van toepassing (Zie B10).
 
 ### 2.2. Duurzaam verblijvend personeel
 
@@ -8231,47 +8231,47 @@ De verlening van een verblijfsvergunning, evenals verlenging van de geldigheidsd
 
 Verwezen wordt naar [artikel 21 tot en met 27 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), [hoofdstuk 3, afdeling 3, van het Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&afdeling=3) en naar B1/6.
 
-De EG en hun lidstaten hebben met Bulgarije (PB EG 1994, L 358, bladzijde 1)
-
 De verblijfsvergunning regulier voor bepaalde tijd wordt verleend onder de beperking: ‘Verblijf op grond van het Nederlands-Duits Vestigingsverdrag’ met de arbeidsmarktaantekening: ‘Arbeid vrij toegestaan. TWV niet vereist.’
 
 Tevens wordt de verblijfsvergunning voorzien van de aantekening: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
 
-### 6. Het Nederlands-Zwitserse Traktaat
+Tevens wordt de verblijfsvergunning voorzien van de aantekening: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
 
-Het Verdrag geeft aan een buitenlands kind op zichzelf geen aanspraak op verblijf in Nederland, voorzover de bepalingen van het Verdrag (met name de artikelen 9 en 10) al zijn aan te merken als een ieder verbindende bepalingen die rechtstreekse werking hebben en niet slechts als instructienormen die tot de Staten, die Partij zijn, zijn gericht.
+### 6.1. Inleiding
 
 Op 19 augustus 1875 is tussen Nederland en Duitsland in Bern het Nederlands-Zwitsers Traktaat gesloten. Grondslag voor het sluiten van dit Traktaat is gelegen in de wens de vriendschapsbanden tussen Nederland en Zwitserland nauwer aan te halen en de handelsbetrekkingen tussen beide landen te verbeteren en uit te breiden. Op 22 juli 1972 is te Brussel een overeenkomst gesloten tussen de EEG en Zwitserland. Deze overeenkomst vormde aanleiding om het Nederlands-Zwitsers Traktaat aan te passen. Naar aanleiding van een notawisseling tussen de Nederlandse en Zwitserse Regering van respectievelijk 13 juni 1996 en 24 juni 1996 is het Traktaat gewijzigd (Trb. 1996, nr. 217). Het gewijzigd Nederlands-Zwitsers Traktaat is op 10 januari 1997 in werking getreden. Artikel 1 van het Traktaat en het Protocol is daarbij ongewijzigd gebleven en thans nog steeds van kracht.
 
-### 7.1.2. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
+Op 21 juni 1999 is de Overeenkomst EG-Zwitserland tot stand gekomen. Bij [wet van 14 september 2001](onbekend) heeft Nederland deze Overeenkomst goedgekeurd (Stb. 2001, 432) en op 16 november 2001 geratificeerd. De Overeenkomst is per 1 juni 2002 in werking getreden.
 
-De verblijfsvergunning wordt verleend onder de beperking ‘verblijf op grond van het Nederlands-Zwitserse Traktaat’. De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan. TWV niet vereist.’
+### 6.2. Begunstigde
 
 Per 1 juni 2002 worden Zwitserse onderdanen, alsmede hun familie- en gezinsleden, die de nationaliteit van een derde staat bezitten, en die op grond van vorenvermelde Overeenkomst in Nederland verblijven, aangemerkt als gemeenschapsonderdanen. Ten aanzien van Zwitserse onderdanen is dit bepaald bij eerder genoemde [wet van 14 september 2001](onbekend) (Stb. 2001, 432). Voor het verblijf als gemeenschapsonderdaan wordt verwezen naar B10.
 
 Het Nederlands-Zwitsers Traktaat is slechts van belang voor Zwitserse onderdanen die aan de Overeenkomst EG-Zwitserland, over het vrije verkeer van personen geen aanspraak op verblijf kunnen ontlenen.
 
-Onderdanen van de Verenigde Staten van Amerika mogen in Nederland verblijven:
+Het Nederlands-Zwitsers Traktaat is slechts van belang voor Zwitserse onderdanen die aan de Overeenkomst EG-Zwitserland, over het vrije verkeer van personen geen aanspraak op verblijf kunnen ontlenen.
+
+Het Nederlands-Zwitsers Traktaat voorziet in de mogelijkheid van vrije toegang en vestiging van wederzijdse onderdanen in de beide verdragstaten. Een onderdaan van Zwitserland heeft op grond van het Nederlands-Zwitsers Traktaat recht op een behandeling die niet minder gunstig is dan de behandeling van een Nederlander, indien hij zich in Nederland wil vestigen en/of alhier economische activiteiten wil gaan verrichten.
 
 ### 8. Het Nederlands-Amerikaans Vriendschapsverdrag
 
-In het Protocol is opgenomen dat aan een Zwitsers onderdaan de toegang tot Nederland kan worden geweigerd en hij kan worden verwijderd dan wel uitgezet, indien hij:
-
 Het Protocol vermeldt als vereiste onder meer paspoort. Daaronder wordt verstaan een geldig nationaal paspoort.
+
+Onder ten laste van de openbare liefdadigheid wordt verstaan ten laste van de publieke middelen. Een uitkering ingevolge de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) wordt daarom niet aangemerkt als middelen van bestaan in de zin van dit Verdrag en Protocol.
 
 ### 15.1.1. Binnenkomst vóór 25 november 1980
 
-Onder middelen van bestaan wordt verstaan een netto-inkomen dat ten minste gelijk is aan het bestaansminimum voor de betrokken categorie (alleenstaande, echtpaar) in de zin van de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
+De bron waaruit deze middelen komen (erfenis, pensioen, vermogen) is niet van belang, mits betrokkene zelf maar daadwerkelijk over de middelen of het recht op (periodieke) uitkering ervan beschikt. Een toezegging hiertoe van een partner is overigens niet voldoende.
 
-### 7.1.1. Verblijfsvoorwaarden
+### 6.3.1. Arbeid als zelfstandige
 
-Onder het begrip ‘bedrijfsuitoefening van een onderneming’ dient mede te worden verstaan een persoon die een Amerikaanse onderneming in Nederland vertegenwoordigt en in dienst van deze onderneming in een sleutelfunctie werkzaam is (zie artikel 2 van het Protocol). De vrije uitoefening van een beroep valt niet onder het begrip ‘bedrijfsuitoefening van een onderneming’ (zie artikel 8 van het bijbehorende Protocol).
+Op een Zwitsers onderdaan, die zich in Nederland wil vestigen om alhier economische activiteiten als zelfstandige te gaan verrichten, is [artikel 3.30, eerste lid, onder a en b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30) niet van toepassing. Dit betekent dat hij niet behoeft te voldoen aan de voorwaarden als genoemd in B5/7.5 en B5/7.7. De aanvraag hoeft dus niet aan het Ministerie van EZ te worden voorgelegd voor een toetsing aan het wezenlijk Nederlands economisch belang.
 
 ### 7.2. Verblijf van zelfstandigen
 
 De aanvraag om een verblijfsvergunning wordt echter afgewezen, indien niet is voldaan aan een of meer van de algemene voorwaarden als genoemd in [artikel 16, eerste lid, aanhef en onder d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en B5/7.3 en B5/7.4.
 
-De onderneming dient te zijn ingeschreven in het handelsregister met een omschrijving van het bedrijf of de bedrijven die in de onderneming worden uitgeoefend.
+Op een onderdaan van Zwitserland, die zich in Nederland wil vestigen voor het verrichten van arbeid in loondienst, is het bepaalde in B10/3 van toepassing.
 
 Op een onderdaan van Zwitserland, die zich in Nederland wil vestigen voor het verrichten van arbeid in loondienst, is het bepaalde in B10/3 van toepassing.
 
@@ -8279,7 +8279,7 @@ Op een onderdaan van Zwitserland, die zich in Nederland wil vestigen voor het ve
 
 Een onderdaan van Zwitserland die geen economische activiteiten verricht en niet op grond van een ander verblijfsdoel in Nederland verblijft, komt op grond van het Nederlands-Zwitsers Traktaat voor verblijf in Nederland in aanmerking indien en zolang hij beschikt over voldoende middelen van bestaan.
 
-Aan de echtgeno(o)t(e) of ongehuwd minderjarig kind – ongeacht hun nationaliteit – van een persoon die op grond van artikel II, eerste lid, onder a of b, van het Verdrag is toegelaten (de hoofdpersoon), kan verblijf worden toegestaan, indien zij hem vergezellen of voor gezinshereniging nareizen.
+De verblijfsvergunning wordt verleend onder de beperking ‘verblijf op grond van het Nederlands-Zwitserse Traktaat’. De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan. TWV niet vereist.’
 
 ### 15.2.1. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
@@ -8287,21 +8287,21 @@ Aan de echtgeno(o)t(e) of ongehuwd minderjarig kind – ongeacht hun nationalite
 
 Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende te zijn verzekerd tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
-De afhankelijke verblijfsvergunning regulier voor bepaalde tijd aan echtgenoten en de minderjarige kinderen wordt verleend onder de beperking: ‘Verblijf bij (naam hoofdpersoon).’ De arbeidsmarktaantekening luidt: ‘arbeid uitsluitend toegestaan indien werkgever beschikt over TWV’. In alle gevallen wordt tevens toegevoegd: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
-
 De EG en hun lidstaten hebben met Bulgarije (PB EG 1994, L 358, bladzijde 1)
+
+en Roemenië (PB EG 1994, L 357, bladzijde 1) Europa-overeenkomsten gesloten.
 
 ### 9. Europees verdrag betreffende sociale en medische bijstand
 
-Deze Europa-overeenkomsten hadden tot doel een associatie tot stand te brengen om uitbreiding van de handel en economische betrekkingen tussen de verdragspartijen te bevorderen en daarmee de dynamische ontwikkeling en welvaart in Bulgarije en Roemenië te stimuleren, teneinde de toetreding tot de EG te vergemakkelijken. Door de toetreding van Bulgarije en Roemenië tot de EU op 1 januari 2007 hebben deze overeenkomsten hun betekenis verloren.
+Het gemeenschapsrecht, dat is beschreven in B10 Vc, is met ingang van 1 januari 2007 van toepassing op onderdanen van Bulgarije en Roemenië alsmede hun gezins- of familieleden, ongeacht hun nationaliteit.
 
 Het gemeenschapsrecht, dat is beschreven in B10 Vc, is met ingang van 1 januari 2007 van toepassing op onderdanen van Bulgarije en Roemenië alsmede hun gezins- of familieleden, ongeacht hun nationaliteit.
 
 De bepalingen van het Europees verdrag betreffende sociale en medische bijstand zijn in het kader van de uitvoering van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) slechts van belang voor houders van een verblijfsvergunning voor bepaalde tijd, als bedoeld in [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14). De [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) verleent aan houders van een verblijfsvergunning voor onbepaalde tijd, als bedoeld in [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), een rechtspositie die ten minste even sterk is als die welke zij krachtens het Europees verdrag betreffende sociale en medische bijstand hebben.
 
-### 7.1.1. Verblijfsvoorwaarden
-
 ### 7.1.2. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
+
+### 7.2. Verblijf van zelfstandigen
 
 Een Verdragspartij repatrieert een rechtmatig verblijvende onderdaan van een andere Partij niet om de enkele reden dat hij bijstand behoeft (zie artikel 6 van het Verdrag).
 
@@ -8311,21 +8311,21 @@ De vreemdeling die bijstand geniet, mag voortzetting van verblijf slechts worden
 
 De afhankelijke verblijfsvergunning regulier voor bepaalde tijd aan echtgenoten en de minderjarige kinderen wordt verleend onder de beperking: ‘Verblijf bij (naam hoofdpersoon).’ De arbeidsmarktaantekening luidt: ‘arbeid uitsluitend toegestaan indien werkgever beschikt over TWV’. In alle gevallen wordt tevens toegevoegd: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
 
-Als regel zal aan de verblijfsvergunning voor bepaalde tijd van de betrokkene steeds een beperking zijn verbonden. Indien ingevolge het Verdrag niet tot verblijfsbeëindiging kan worden overgegaan, wordt de beperking waaronder de verblijfsvergunning voor bepaalde tijd laatstelijk is verleend, gehandhaafd.
+Het Nederlands-Amerikaans Vriendschapsverdrag met bijbehorend Protocol (Trb. 1956, 40) beoogt de handel tussen de beide partijen te vergemakkelijken.
 
 Het Nederlands-Amerikaans Vriendschapsverdrag met bijbehorend Protocol (Trb. 1956, 40) beoogt de handel tussen de beide partijen te vergemakkelijken.
 
 ### 8.1. Verblijfsvoorwaarden
 
-Onderdanen van de Verenigde Staten van Amerika mogen in Nederland verblijven:
-
 Overigens zijn de onderdanen van de Verenigde Staten van Amerika in Nederland onderworpen aan de voor vreemdelingen in het algemeen geldende bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) inzake toegang en verblijf en inzake de gronden waarop hun verblijf of voortzetting van verblijf kan worden ontzegd (zie artikel II, vierde lid, van het Verdrag).
 
 Het laat onverlet om maatregelen toe te passen welke noodzakelijk zijn ter handhaving van de openbare orde en ter bescherming van de volksgezondheid, de goede zeden en de veiligheid. Hiermee wordt, voorzover hier van belang, bedoeld maatregelen die zijn voorzien bij de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), zoals weigering van de toegang, van een verblijfsvergunning voor bepaalde tijd, weigering verlenging van een dergelijke vergunning, alsmede intrekking ervan, weigering van een verblijfsvergunning voor onbepaalde tijd of intrekking daarvan en ongewenstverklaring. Voor wat betreft de maatregelen ter bescherming van de volksgezondheid wordt aangesloten bij de lijst van besmettelijke ziekten die als bijlage bij het Vb is gevoegd.
 
+Onder het begrip ‘bedrijfsuitoefening van een onderneming’ dient mede te worden verstaan een persoon die een Amerikaanse onderneming in Nederland vertegenwoordigt en in dienst van deze onderneming in een sleutelfunctie werkzaam is (zie artikel 2 van het Protocol). De vrije uitoefening van een beroep valt niet onder het begrip ‘bedrijfsuitoefening van een onderneming’ (zie artikel 8 van het bijbehorende Protocol).
+
 ### 1. Inleiding
 
-Hieronder volgt een uitleg van het begrip ‘aanzienlijk kapitaal’ ten aanzien van de diverse mogelijke ondernemingsvormen (zie circulaire van de Minister van EZ van 4 november 1992, DMO/DCM/ AM92081647):
+Het dient te gaan om eigen kapitaal, niet om geleend geld. Het belegde ‘aanzienlijk kapitaal’ dient op peil te worden gehouden. Dit houdt in dat het kapitaal nooit lager mag zijn dan het voor de desbetreffende ondernemingsvorm geldende minimum. De vreemdeling dient ter staving van zijn aanvraag recente cijfers over te leggen die zijn gecontroleerd door een daartoe bevoegde externe deskundige.
 
 ### 2. Personeel van ambassades en consulaten, alsmede de gezinsleden
 
@@ -8335,7 +8335,7 @@ De onderneming dient te zijn ingeschreven in het handelsregister met een omschri
 
 Indien een op grond van het Nederlands-Amerikaans Vriendschapsverdrag hier te lande verblijvende Amerikaanse vreemdeling (hoofdpersoon) arbeid in loondienst wenst te verrichten, dient wijziging van de vergunning te worden gevraagd en dient de werkgever te beschikken over een TWV (zie B5 en artikel 11 van het bijbehorende Protocol).
 
-De verblijfsvergunning van de rechtmatig verblijvende werknemer en zijn gezinsleden kan slechts worden ingetrokken, indien zij een gevaar opleveren voor de nationale veiligheid, of inbreuk maken op de openbare orde of goede zeden (zie artikel 19, achtste lid, van het Handvest).
+Aan de echtgeno(o)t(e) of ongehuwd minderjarig kind – ongeacht hun nationaliteit – van een persoon die op grond van artikel II, eerste lid, onder a of b, van het Verdrag is toegelaten (de hoofdpersoon), kan verblijf worden toegestaan, indien zij hem vergezellen of voor gezinshereniging nareizen.
 
 ### 11. Europees Verdrag inzake de rechtspositie van migrerende werknemers
 
@@ -8343,65 +8343,65 @@ Het verblijf van de echtgeno(o)t(e) of ongehuwd minderjarig kind van de hoofdper
 
 ### 8.4. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
-De verblijfsvergunning regulier voor bepaalde tijd wordt, al naar gelang de situatie, verleend onder de beperking:
-
 De afhankelijke verblijfsvergunning regulier voor bepaalde tijd aan echtgenoten en de minderjarige kinderen wordt verleend onder de beperking: ‘Verblijf bij (naam hoofdpersoon).’ De arbeidsmarktaantekening luidt: ‘arbeid uitsluitend toegestaan indien werkgever beschikt over TWV’. In alle gevallen wordt tevens toegevoegd: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
 
-### 11.2. Verblijfsvoorwaarden migrerende werknemer
+Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende te zijn verzekerd tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
-De nationale vreemdelingrechtelijke voorwaarden/voorschriften zijn op deze onderdanen van toepassing.
+### 9. Europees verdrag betreffende sociale en medische bijstand
 
 Het Europees verdrag betreffende sociale en medische bijstand verplicht de verdragsluitende partijen de wederzijdse onderdanen op gelijke voet als eigen onderdanen recht te geven op sociale en medische bijstand.
 
-Gezinshereniging met onderdanen die reeds rechtmatig verblijf hebben, is toegestaan volgens nationale procedures.
+Het Europees verdrag betreffende sociale en medische bijstand verplicht de verdragsluitende partijen de wederzijdse onderdanen op gelijke voet als eigen onderdanen recht te geven op sociale en medische bijstand.
+
+De bepalingen van het Europees verdrag betreffende sociale en medische bijstand zijn in het kader van de uitvoering van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) slechts van belang voor houders van een verblijfsvergunning voor bepaalde tijd, als bedoeld in [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14). De [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) verleent aan houders van een verblijfsvergunning voor onbepaalde tijd, als bedoeld in [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), een rechtspositie die ten minste even sterk is als die welke zij krachtens het Europees verdrag betreffende sociale en medische bijstand hebben.
 
 De bepalingen van het Europees verdrag betreffende sociale en medische bijstand zijn in het kader van de uitvoering van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) slechts van belang voor houders van een verblijfsvergunning voor bepaalde tijd, als bedoeld in [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14). De [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) verleent aan houders van een verblijfsvergunning voor onbepaalde tijd, als bedoeld in [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), een rechtspositie die ten minste even sterk is als die welke zij krachtens het Europees verdrag betreffende sociale en medische bijstand hebben.
 
 ### 9.2. Repatriëring en bijstand
 
-Onder repatriëring wordt verstaan verblijfsbeëindiging inclusief uitzetting. Onder het behoeven van bijstand wordt verstaan het beroep doen op de publieke middelen.
-
 Een Verdragspartij repatrieert een rechtmatig verblijvende onderdaan van een andere Partij niet om de enkele reden dat hij bijstand behoeft (zie artikel 6 van het Verdrag).
 
 Er kan wel tot repatriëring worden overgegaan, indien:
 
-### 12.1. Belang
+De vreemdeling die bijstand geniet, mag voortzetting van verblijf slechts worden ontzegd, indien:
 
-In bedoelde overeenkomsten is slechts het beginsel van gelijke behandeling inzake de arbeidsvoorwaarden en de lonen neergelegd.
+### 9.3. Beperking, arbeidsmarktaantekening en voorschrift
 
 Als regel zal aan de verblijfsvergunning voor bepaalde tijd van de betrokkene steeds een beperking zijn verbonden. Indien ingevolge het Verdrag niet tot verblijfsbeëindiging kan worden overgegaan, wordt de beperking waaronder de verblijfsvergunning voor bepaalde tijd laatstelijk is verleend, gehandhaafd.
+
+De op de eerder verleende verblijfsvergunning geplaatste arbeidsmarktaantekening wordt gehandhaafd.
 
 ### 13.1. Begunstigde en belang
 
 Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende te zijn verzekerd tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
-Het is hem toegestaan, zijn bezwaren tegen zijn uitzetting kenbaar te maken en zijn geval opnieuw te doen beoordelen door en zich met dit doel te doen vertegenwoordigen bij de bevoegde autoriteit dan wel door een of meer personen die daartoe speciaal door de bevoegde autoriteit zijn aangewezen, tenzij dwingende redenen van nationale veiligheid een tegengestelde beslissing rechtvaardigen.
+Nederland, Turkije en de landen van de EU/EER (zie B10), behoudens Estland, Litouwen en Slovenië, hebben het [ESH](onbekend) geratificeerd.
 
 Nederland, Turkije en de landen van de EU/EER (zie B10), behoudens Estland, Litouwen en Slovenië, hebben het [ESH](onbekend) geratificeerd.
 
-Op 8 maart 1995 is voor Nederland het IVRK in werking getreden.
+Het [ESH](onbekend) is alleen van belang voor Turkse onderdanen, voorzover zij geen aanspraken kunnen ontlenen aan het Associatiebesluit 1/80 en voorzover zij geen gezins- of familielid zijn van een onderdaan van de EU/EER of Zwitserland.
 
-### 14.1. Begunstigde
-
-Het is hem toegestaan, zijn bezwaren tegen zijn uitzetting kenbaar te maken en zijn geval opnieuw te doen beoordelen door en zich met dit doel te doen vertegenwoordigen bij de bevoegde autoriteit dan wel door een of meer personen die daartoe speciaal door de bevoegde autoriteit zijn aangewezen, tenzij dwingende redenen van nationale veiligheid een tegengestelde beslissing rechtvaardigen.
+### 10.2. Verblijf gezinsleden migrerende werknemer
 
 Nederland heeft zich ingevolge [artikel 19, zesde lid, van het ESH](onbekend) verbonden te waarborgen dat zoveel mogelijk de hereniging van het gezin van een migrerende werknemer, die toestemming heeft gekregen om zich op het grondgebied te vestigen, wordt vergemakkelijkt. Deze bepaling heeft geen rechtstreekse werking (zie ABRvS, 16 april 1984, RV 1984/ 117).
 
 Het ‘gezin van een migrerende werknemer’ wordt geacht ten minste te omvatten zijn echtgenote, en kinderen te zijnen laste die de leeftijd van 21 jaar nog niet hebben bereikt (zie de Bijlage bij het ESH, deel II).
 
-### 14.1. Begunstigde
+Dat laat echter onverlet dat voor gezinshereniging, met hier te lande rechtmatig verblijvende Turkse werknemers, aanvullende eisen kunnen worden gesteld indien het gaat om (verruimde) gezinshereniging. Dat betekent dat, voorzover hier van belang, op ‘kinderen’ tussen de 18 en 21 jaar, die ten laste van de werknemer komen, niet dezelfde regeling behoeft te worden toegepast zoals die geldt voor EU/EER-onderdanen en onderdanen van Zwitserland.
 
-Het Verdrag geeft aan een buitenlands kind op zichzelf geen aanspraak op verblijf in Nederland, voorzover de bepalingen van het Verdrag (met name de artikelen 9 en 10) al zijn aan te merken als een ieder verbindende bepalingen die rechtstreekse werking hebben en niet slechts als instructienormen die tot de Staten, die Partij zijn, zijn gericht.
+### 10.3. Intrekking verblijfsvergunning
 
-### 2.2.2.1. Verblijfsvoorwaarden
+De verblijfsvergunning van de rechtmatig verblijvende werknemer en zijn gezinsleden kan slechts worden ingetrokken, indien zij een gevaar opleveren voor de nationale veiligheid, of inbreuk maken op de openbare orde of goede zeden (zie artikel 19, achtste lid, van het Handvest).
 
-Het eerste lid van artikel 10 is de instructie aan de Partijen om aanvragen van het kind om een Staat die partij is, voor gezinshereniging binnen te gaan of te verlaten, te behandelen met welwillendheid, menselijkheid en spoed en ziet daarom niet op het verlenen van een verblijfsvergunning.
+### 11. Europees Verdrag inzake de rechtspositie van migrerende werknemers
 
-### 13. Het BuPo
+Partij bij het Verdrag zijn: Nederland, Frankrijk, Italië, Noorwegen, Portugal, Spanje, Turkije en Zweden.
 
-Deze bepalingen laten daarom de mogelijkheid in stand om uit hoofde van nationaal recht eisen te stellen in het kader van verblijf, met name in geval van gezinshereniging.
+### 11.1. Begunstigde
 
 Het Europees Verdrag migrerende werknemers heeft betrekking op onderdanen van een Verdragsluitende Partij die in Nederland werkzaam zijn en rechtmatig verblijf hebben.
+
+Het verdrag lijkt met name van belang te zijn voor onderdanen van Turkije en voor vreemdelingen met de nationaliteit van de overige landen, alleen voorzover zij geen aanspraken kunnen ontlenen aan het recht van de EU/EER, niet aan het Europees vestigingsverdrag en evenmin aan het Associatiebesluit 1/80.
 
 Het verdrag lijkt met name van belang te zijn voor onderdanen van Turkije en voor vreemdelingen met de nationaliteit van de overige landen, alleen voorzover zij geen aanspraken kunnen ontlenen aan het recht van de EU/EER, niet aan het Europees vestigingsverdrag en evenmin aan het Associatiebesluit 1/80.
 
@@ -8417,7 +8417,7 @@ Gezinshereniging met onderdanen die reeds rechtmatig verblijf hebben, is toegest
 
 Er dient vijf maanden verblijf te worden toegestaan voor het zoeken naar ander werk, revalidatie dan wel herscholing, als bedoeld in artikel 25 van het Verdrag, in geval van:
 
-Wanneer in Nederland, uit een verklaring van de behandelend geneesheer, mocht blijken dat een verblijf van langer dan drie maanden noodzakelijk is, zal de verblijfstermijn worden verlengd. Bij een verlenging tot maximaal zes maanden wordt het visum verlengd.
+Op 27 april 1976 is te Rabat de samenwerkingsovereenkomst EEG-Marokko ondertekend, die namens de EG is goedgekeurd bij [verordening (EEG) nr. 2211/78](31978R2211) van de Raad van 26 september 1978 (PB L 264, blz. 1).
 
 ### 3.2. Categorieën geprivilegieerden internationale organisaties
 
@@ -8425,37 +8425,37 @@ Er zijn ook samenwerkingsovereenkomsten gesloten tussen de EEG en Algerije en Tu
 
 ### 12.1. Belang
 
-In bedoelde overeenkomsten is slechts het beginsel van gelijke behandeling inzake de arbeidsvoorwaarden en de lonen neergelegd.
+Het Hof van Justitie van de EG (2 maart 1999, El-Yassini, C-416/96) heeft geoordeeld dat het in artikel 40, eerste alinea, van de Overeenkomst EEG-Marokko neergelegde beginsel van gelijke behandeling inzake de arbeidsvoorwaarden en de lonen, op zich niet tot gevolg heeft dat het de autoriteiten van de lidstaat van ontvangst verboden is de verlenging van de verblijfstitel van een op het grondgebied van die lidstaat werkzame Marokkaanse migrerende werknemer te weigeren, ook al kan die maatregel naar haar aard niet worden genomen jegens de onderdanen van de betrokken lidstaat.
 
 ### 3.3.1. Verblijfsvoorwaarden (ex)geprivilegieerden
 
-Bovengenoemde jurisprudentie kan ook van belang zijn voor bepaling van de verblijfspositie van vreemdelingen die de nationaliteit bezitten van Algerije, Israël, Jordanië of Tunesië.
+Bedoelde overeenkomsten en jurisprudentie leiden echter niet tot aanspraak op (voortzetting van) verblijf voor onderdanen van genoemde landen.
 
-### 16.1. Begunstigde
+### 13. Het BuPo
 
-Onder ‘staatloze’ wordt blijkens het op 28 september 1954 te New York gesloten Staatlozenverdrag verstaan een persoon die door geen enkele staat, krachtens de wetgeving ervan, als onderdaan wordt beschouwd.
+Op 11 maart 1979 is voor Nederland in werking getreden het BuPo.
 
 Op 11 maart 1979 is voor Nederland in werking getreden het BuPo.
 
 ### 13.1. Begunstigde en belang
 
-Een vreemdeling die wettig op het grondgebied verblijft van een Staat die partij is bij dit verdrag, kan slechts uit die Staat worden gezet krachtens een overeenkomstig de wet genomen beslissing (zie artikel 13 van het Verdrag).
+Het is hem toegestaan, zijn bezwaren tegen zijn uitzetting kenbaar te maken en zijn geval opnieuw te doen beoordelen door en zich met dit doel te doen vertegenwoordigen bij de bevoegde autoriteit dan wel door een of meer personen die daartoe speciaal door de bevoegde autoriteit zijn aangewezen, tenzij dwingende redenen van nationale veiligheid een tegengestelde beslissing rechtvaardigen.
 
 Het is hem toegestaan, zijn bezwaren tegen zijn uitzetting kenbaar te maken en zijn geval opnieuw te doen beoordelen door en zich met dit doel te doen vertegenwoordigen bij de bevoegde autoriteit dan wel door een of meer personen die daartoe speciaal door de bevoegde autoriteit zijn aangewezen, tenzij dwingende redenen van nationale veiligheid een tegengestelde beslissing rechtvaardigen.
 
-Ten aanzien van de vraag hoe de staatloosheid dient te worden bewezen, bevat het Staatlozenverdrag geen bepalingen. Iedere staat is dus vrij om zelf te bepalen welke bewijzen hij nodig acht om de beweerde staatloosheid van een bepaalde persoon te kunnen aannemen.
+Op 8 maart 1995 is voor Nederland het IVRK in werking getreden.
 
 Op 8 maart 1995 is voor Nederland het IVRK in werking getreden.
 
 ### 14.1. Begunstigde
 
-Het Verdrag geeft aan een buitenlands kind op zichzelf geen aanspraak op verblijf in Nederland, voorzover de bepalingen van het Verdrag (met name de artikelen 9 en 10) al zijn aan te merken als een ieder verbindende bepalingen die rechtstreekse werking hebben en niet slechts als instructienormen die tot de Staten, die Partij zijn, zijn gericht.
+Artikel 9 houdt onder meer in dat een kind niet wordt gescheiden van zijn ouders tegen hun wil en schept procedurele waarborgen.
 
 ### 3.3.2. Verblijfsvoorwaarden gezinsleden van (ex-)geprivilegieerden
 
-Het eerste lid van artikel 10 is de instructie aan de Partijen om aanvragen van het kind om een Staat die partij is, voor gezinshereniging binnen te gaan of te verlaten, te behandelen met welwillendheid, menselijkheid en spoed en ziet daarom niet op het verlenen van een verblijfsvergunning.
-
 Het tweede lid van dit artikel, vermeldt weliswaar dat een kind van wie de ouders in verschillende staten verblijven het recht heeft op regelmatige basis persoonlijke betrekkingen en rechtstreekse contacten te onderhouden met beide ouders, doch dit artikellid draagt de Partijen slechts op daartoe het recht van het kind en de ouders te eerbiedigen om welk land ook, met inbegrip van het eigen land, te verlaten en het eigen land binnen te gaan.
+
+Deze bepalingen laten daarom de mogelijkheid in stand om uit hoofde van nationaal recht eisen te stellen in het kader van verblijf, met name in geval van gezinshereniging.
 
 ### 16.3.1. Uitzetting, afwijzing en intrekking van de aanvraag
 
@@ -8465,13 +8465,13 @@ Blijkens jurisprudentie (Rechtbank Den Haag, 25 september 1997, Wieczorek en Rec
 
 Op 24 november 1980 eindigde de geldigheidsduur van de Overeenkomst Nederland-Suriname 1975. Er is geen nieuwe overeenkomst inzake het verblijf en de vestiging van wederzijdse onderdanen gesloten, maar bij overeenkomst van 25 februari 1981 is een overlegstructuur met betrekking tot het door beide landen gevoerde vreemdelingenbeleid in het leven geroepen.
 
-Het hierboven in deze paragraaf gestelde is niet van toepassing:
+Met betrekking tot de binnenkomst en het verblijf van Surinaamse onderdanen wordt onderscheid gemaakt tussen:
 
 Met betrekking tot de binnenkomst en het verblijf van Surinaamse onderdanen wordt onderscheid gemaakt tussen:
 
-Indien de vreemdeling een staatloze is in de zin van het Staatlozenverdrag en hij in de vreemdelingenadministratie expliciet als staatloze staat ingeschreven (en dus niet als vreemdeling met ‘onbekende’ nationaliteit), kan hij op grond van het Staatlozenverdrag een reisdocument voor vreemdelingen krijgen (zie [C21/3](onbekend)).
-
 Hoewel de geldigheidsduur van de Overeenkomst Nederland-Suriname 1975 is verstreken op 24 november 1980, zijn de bepalingen van deze Overeenkomst nog van toepassing op bepaalde Surinaamse onderdanen (verkregen rechten). In het algemeen kan worden gesteld dat het vreemdelingen van Surinaamse nationaliteit betreft die vóór 25 november 1980 in het bezit zijn gesteld van een verblijfsvergunning op grond van de Overeenkomst Nederland-Suriname 1975.
+
+Voor aanvragen door Surinaamse onderdanen (zelfstandigen) met verkregen rechten (zie B5/7.9.1).
 
 Voor aanvragen door Surinaamse onderdanen (zelfstandigen) met verkregen rechten (zie B5/7.9.1).
 
@@ -8481,77 +8481,77 @@ Voor deze categorie vreemdelingen zijn de in het algemeen geldende wettelijke be
 
 ### 15.2. Medische behandeling
 
-Surinaamse onderdanen die op medische indicatie voor een behandeling naar Nederland reizen, zal een visum worden verstrekt, mits de financiering van deze behandeling deugdelijk is geregeld. Dit houdt in dat moet worden aangetoond dat een toereikende ziektekostenverzekering is afgesloten. In beginsel kan geen genoegen worden genomen met een garantverklaring van een referent.
+Wanneer in Nederland, uit een verklaring van de behandelend geneesheer, mocht blijken dat een verblijf van langer dan drie maanden noodzakelijk is, zal de verblijfstermijn worden verlengd. Bij een verlenging tot maximaal zes maanden wordt het visum verlengd.
 
 ### 2.1. Niet-duurzaam verblijvend personeel
 
-Op grond van [artikel 3.47, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.47) kan aan de Surinaamse onderdaan een verblijfsvergunning regulier voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) voor dit doel worden verleend, indien hij:
-
 In deze situatie wordt dus niet getoetst of Nederland het meest aangewezen land is. Over de vraag of de medische behandeling in Nederland noodzakelijk is, adviseert het BMA (zie B8).
 
-### 16.3.2. Reisdocumenten
+Voor een Surinaamse onderdaan die op een toeristenvisum Nederland binnenkomt om hier een medische behandeling te ondergaan, gelden naast de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) de bijzondere voorwaarden van [artikel 3.46 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.46) en B8.
 
-Deze vreemdelingen zijn óf beroepskoeriers óf als zodanig voor één reis aangewezen (zie verder [A2/6.2.3.2](onbekend)).
+### 15.2.1. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
+
+De verblijfsvergunning wordt verleend onder de beperking: ‘Het ondergaan van medische behandeling’ met de arbeidsmarktaantekening: ‘Arbeid niet toegestaan’.
 
 ### 3.4.1.6. Registratie
 
-Tevens wordt de verblijfsvergunning voorzien van de aantekening: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
+Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
 Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
 Indien de ex-geprivilegieerde hieraan niet voldoet, gelden [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en [17 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) onverkort.
 
-Na beëindiging van het dienstverband met een ambassade of consulaat komt de uitgezonden status van de categorieën als genoemd onder B12/2.1.1, onder 3, te vervallen. De bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) worden alsdan onverkort van toepassing op deze vreemdelingen.
-
 Onder ‘staatloze’ wordt blijkens het op 28 september 1954 te New York gesloten Staatlozenverdrag verstaan een persoon die door geen enkele staat, krachtens de wetgeving ervan, als onderdaan wordt beschouwd.
 
-### 2.1. Niet-duurzaam verblijvend personeel
+De voordelen van het Staatlozenverdrag komen niet toe aan staatlozen:
 
-Indien de ex-geprivilegieerde hieraan niet voldoet, gelden [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en [17 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) onverkort.
+### 16.2. Bewijs staatloosheid
 
 Ten aanzien van de vraag hoe de staatloosheid dient te worden bewezen, bevat het Staatlozenverdrag geen bepalingen. Iedere staat is dus vrij om zelf te bepalen welke bewijzen hij nodig acht om de beweerde staatloosheid van een bepaalde persoon te kunnen aannemen.
 
 Het bewijs van de staatloosheid is niet aan bepaalde middelen gebonden en de beoordeling daarvan niet voorbehouden aan een speciaal daarvoor aangewezen rechterlijke of administratieve instantie.
 
-### 16.3. Belang
+Het bewijs van de staatloosheid is niet aan bepaalde middelen gebonden en de beoordeling daarvan niet voorbehouden aan een speciaal daarvoor aangewezen rechterlijke of administratieve instantie.
 
 ### 16.3.1. Uitzetting, afwijzing en intrekking van de aanvraag
 
-Het Verdrag verbiedt – behoudens om redenen van openbare of nationale veiligheid – de uitzetting van staatlozen die rechtmatig op het grondgebied van partijen verblijven (zie artikel 31 van het Verdrag en B14/3). Onder rechtmatig verblijf wordt verstaan een rechtmatig verblijf in de zin van [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+### 16.3.1. Uitzetting, afwijzing en intrekking van de aanvraag
 
 Gelet op vorenstaande, geldt het volgende:
+
+Afwijzing van de aanvraag tot het verlengen van de geldigheidsduur en het intrekken van een verblijfsvergunning van een staatloze kan slechts geschieden:
 
 ### 2.1.2. Positie na verlies van de bijzondere status
 
 Het hierboven in deze paragraaf gestelde is niet van toepassing:
 
-Lokaal geworven personeel bestaat uit een tweetal categorieën:
+Indien de vreemdeling een staatloze is in de zin van het Staatlozenverdrag en hij in de vreemdelingenadministratie expliciet als staatloze staat ingeschreven (en dus niet als vreemdeling met ‘onbekende’ nationaliteit), kan hij op grond van het Staatlozenverdrag een reisdocument voor vreemdelingen krijgen (zie [C21/3](onbekend)).
 
 ### 2.2.1.1. Verblijfsvoorwaarden lokaal geworven personeel
 
-### 2.3. Afwijzingsgronden
+### 12. Diplomaten
 
 Aan vreemdelingen jonger dan twaalf jaar kan niettegenstaande het voorgaande een document als bedoeld in [bijlage 7a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a) worden verleend, namelijk indien geen van de beide ouders van de vreemdeling in het bezit hoeft te worden gesteld van een dergelijk document.
 
-Lokaal geworven personeel bestaat uit een tweetal categorieën:
+In dit hoofdstuk wordt de verblijfsstatus van vreemdelingen die in Nederland werkzaamheden verrichten of hebben verricht voor een diplomatieke zending of consulaire post, hun afhankelijke gezinsleden en hun personeel behandeld, alsmede de verblijfsstatus van vreemdelingen die in Nederland werkzaamheden verrichten of hebben verricht voor een internationale organisatie en hun gezinsleden.
 
 In dit hoofdstuk wordt de verblijfsstatus van vreemdelingen die in Nederland werkzaamheden verrichten of hebben verricht voor een diplomatieke zending of consulaire post, hun afhankelijke gezinsleden en hun personeel behandeld, alsmede de verblijfsstatus van vreemdelingen die in Nederland werkzaamheden verrichten of hebben verricht voor een internationale organisatie en hun gezinsleden.
 
-Ad b. Lokaal geworven personeel is op een missie werkzaam personeel dat op de lokale (Nederlandse) arbeidsmarkt is geworven en dat werkzaamheden ten behoeve van de missie verricht. Het gaat hier veelal om administratief, technisch en bedienend personeel dat niet door een zendstaat is uitgezonden. De missies kunnen vanaf 1 januari 2000 slechts personen werven op de lokale arbeidsmarkt aan wie het verrichten van arbeid in Nederland vrij is toegestaan en die rechtmatig in Nederland verblijf hebben op grond van [artikel 8, onder a tot en met e, of l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+Sinds 1 augustus 1987 wordt onderscheid gemaakt tussen duurzaam en niet-duurzaam verblijvend personeel.
 
-### 2.2.1.1. Verblijfsvoorwaarden lokaal geworven personeel
+### 2.1. Niet-duurzaam verblijvend personeel
 
 De bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) zijn en blijven onverkort van toepassing op de twee bovengenoemde categorieën.
 
-Ad a. Het betreft door de zendstaat na 1 augustus 1987 uitgezonden administratief, technisch en bedienend personeel, dat niet zoals gebruikelijk na enkele jaren de ontvangststaat weer verlaat, maar in Nederland zijn werkzaamheden voor ambassades of consulaten van dezelfde zendstaat ononderbroken voortzet. Dit geldt mede voor lokaal geworven personen die niet onder de eerdere definitie van ‘duurzaam verblijf houdend’ vielen en daarom als ‘uitgezonden personeel’ zijn aangemerkt.
-
 Niet-duurzaam verblijvend personeel bezit een bijzondere status op grond van het Diplomatenverdrag en het Consulaire verdrag. Op dit personeel alsmede op hun afhankelijke gezinsleden en particuliere bedienden zijn de bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet van toepassing. Zij zijn in het algemeen niet onderworpen aan de verplichtingen die in het belang van het toezicht op vreemdelingen zijn gesteld. Evenmin kunnen op hen de maatregelen van uitzetting en bewaring krachtens de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) worden toegepast (zie [A2/6.2.3.1](onbekend) en [A2/6.2.3.4](onbekend)). Hun toegang, toelating en verblijf hier te lande richten zich naar de algemene regelen van volkenrecht.
+
+Als niet-duurzaam verblijvend personeel worden aangemerkt:
 
 ### 2.2.2. Personeel dat uitgezonden status per 1 januari 2000 verliest
 
 ### 1. Inleiding
 
-Ten aanzien van diplomatieke en consulaire ambtenaren, hun gezinsleden en het administratief, technisch en bedienend personeel die slechts op doorreis in Nederland zijn, zijn de bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet van toepassing voor zover het de doorreis naar of terugkeer van de diplomatieke zending of consulaire post in een derde land betreft.
+Het betreft hier:
 
 ### 2.2.1. Lokaal geworven personeel
 
@@ -8559,37 +8559,35 @@ Van de bovenstaande drie categorieën wordt alleen de derde categorie door de Mi
 
 ### 2.1.2. Positie na verlies van de bijzondere status
 
-### 1. Inleiding
-
-Desalniettemin worden de inkomsten uit arbeid in loondienst voor werk bij een ambassade of consulaat van een andere mogendheid – ondanks dat geen premies sociale verzekeringen en belastingen zijn afgedragen – aangemerkt als zelfstandige middelen van bestaan.
+### 2.1.2.1. Verblijfsvoorwaarden ex-geprivilegieerden
 
 Indien is voldaan aan de voorwaarden van [artikel 3.93, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) juncto [artikel 3.93, zesde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) kan de ex-geprivilegieerde in het bezit worden gesteld van een verblijfsvergunning regulier voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20)).
 
 Indien de ex-geprivilegieerde hieraan niet voldoet, gelden [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en [17 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) onverkort.
 
-Indien familie- of gezinsleden zich eerst bij de hoofdpersoon in Nederland willen vervoegen wanneer de hoofdpersoon reeds rechtmatig verblijf heeft op grond van [artikel 8, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), dan zijn de bepalingen van B2 op deze familie- of gezinsleden van toepassing.
+Indien de ex-geprivilegieerde hieraan niet voldoet, gelden [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en [17 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) onverkort.
 
 Onder gezinsleden van (ex-)geprivilegieerden wordt verstaan die personen die door de Minister van BuZa als gezinslid van de hoofdpersoon zijn aangemerkt en die uit dien hoofde door de Minister van BuZa in het bezit werden gesteld van een geprivilegieerdendocument (zie [model M81](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81)).
 
+De verblijfsstatus van de geprivilegieerde (hoofdpersoon) is bepalend voor de status van afhankelijke gezinsleden. Zolang de hoofdpersoon de uitgezonden status behoudt, behouden ook de afhankelijke gezinsleden deze status. Indien de uitgezonden status van de hoofdpersoon komt te vervallen, vervalt tevens de uitgezonden status van de afhankelijke gezinsleden.
+
 ### 2.7. Intrekken van de verblijfsvergunning
 
-Het afhankelijke gezinslid kan in het bezit worden gesteld van een verblijfsvergunning regulier voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20)), indien het gezinslid:
+Het kan voorkomen dat de hoofdpersoon in aanmerking komt voor een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), maar één of meer van de afhankelijke gezinsleden niet.
 
 ### 3.1. Werkzaam met een geprivilegieerde verblijfsstatus
 
-Het afhankelijke gezinslid kan dan in het bezit worden gesteld van een verblijfsvergunning regulier voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) onder de beperking verband houdend met gezinshereniging bij de hoofdpersoon, indien het gezinslid:
-
 In beide gevallen geldt dat moet worden voldaan aan de voorwaarden als genoemd in [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) (zie B1/4), in samenhang met [artikel 3.13 tot en met 3.22 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.13). De aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd van deze afhankelijke gezinsleden kan in behandeling worden genomen met vrijstelling van het mvv-vereiste op grond van het gestelde in [artikel 3.71, tweede lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71), dan wel met toepassing van [artikel 3.71, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71) (zie in dit verband B1/4.1.1).
 
-### 3.2. Categorieën geprivilegieerden internationale organisaties
+Indien het afhankelijke gezinslid niet in aanmerking komt voor een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) en evenmin in aanmerking komt voor een verblijfsvergunning als bedoeld in [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) met als doel gezinshereniging bij de hoofdpersoon, dan kan de vreemdeling een aanvraag om eerste toelating op grond van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) indienen. Hierbij gelden de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en [17 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) onverkort.
 
-In dit verband wordt verwezen naar de internationale organisaties die in Nederland gevestigd zijn en wier personeel in aanmerking komt voor een geprivilegieerde verblijfsstatus middels de door de Minister van BuZa verstrekte identiteitskaart. Voor informatie over de internationale organisaties kan contact worden opgenomen met het Ministerie van BuZa.
+### 2.2. Duurzaam verblijvend personeel
 
 Onder duurzaam verblijvend personeel wordt per 1 januari 2000 verstaan: door de zendstaat uitgezonden personeel dat niet, zoals gebruikelijk, na enkele jaren de ontvangststaat weer verlaat, maar in Nederland zijn werkzaamheden voor ambassades of consulaten van dezelfde zendstaat, ononderbroken voortzet na tien jaar. Vreemdelingen in deze categorie ontvangen vanaf 1 januari 2000 geen legitimatiebewijs afgegeven door het Ministerie van BuZa meer. Zij dienen zich in te schrijven bij de GBA en de vreemdelingenpolitie.
 
 Als duurzaam verblijvend personeel wordt aangemerkt:
 
-Het verblijfsrecht op grond van een bijzondere geprivilegieerde status dient te worden aangetoond aan de hand van een originele verklaring van BuZa waaruit het verblijfsrecht als geprivilegieerde vreemdeling blijkt.
+Als duurzaam verblijvend personeel wordt aangemerkt:
 
 Lokaal geworven personeel bestaat uit een tweetal categorieën:
 
@@ -8597,25 +8595,27 @@ Ad a. Voor 1 januari 2000 konden diplomatieke zendingen of consulaire posten vre
 
 Ad b. Lokaal geworven personeel is op een missie werkzaam personeel dat op de lokale (Nederlandse) arbeidsmarkt is geworven en dat werkzaamheden ten behoeve van de missie verricht. Het gaat hier veelal om administratief, technisch en bedienend personeel dat niet door een zendstaat is uitgezonden. De missies kunnen vanaf 1 januari 2000 slechts personen werven op de lokale arbeidsmarkt aan wie het verrichten van arbeid in Nederland vrij is toegestaan en die rechtmatig in Nederland verblijf hebben op grond van [artikel 8, onder a tot en met e, of l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
-Het verblijfsrecht op grond van een bijzondere geprivilegieerde status dient te worden aangetoond aan de hand van een originele verklaring van BuZa waaruit het verblijfsrecht als geprivilegieerde vreemdeling blijkt.
+Ad b. Lokaal geworven personeel is op een missie werkzaam personeel dat op de lokale (Nederlandse) arbeidsmarkt is geworven en dat werkzaamheden ten behoeve van de missie verricht. Het gaat hier veelal om administratief, technisch en bedienend personeel dat niet door een zendstaat is uitgezonden. De missies kunnen vanaf 1 januari 2000 slechts personen werven op de lokale arbeidsmarkt aan wie het verrichten van arbeid in Nederland vrij is toegestaan en die rechtmatig in Nederland verblijf hebben op grond van [artikel 8, onder a tot en met e, of l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
-### 3. Beperking, arbeidsmarktaantekeningen en voorschrift
+De bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) zijn en blijven onverkort van toepassing op de twee bovengenoemde categorieën.
 
-Voor ‘zelfstandig’: zie [artikel 3.73 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.73) en B1/4.3.1. Voor ‘voldoende’: zie [artikel 3.74 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.74) en B1/4.3.3. Ten aanzien van de duurzaamheid van de middelen geldt ingevolge [artikel 3.93, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) een afwijkende bepaling. De middelen van bestaan zijn duurzaam indien zij op het tijdstip waarop de aanvraag werd ingediend of waarop de beschikking wordt gegeven, of enig tussenliggend moment nog gedurende ten minste één jaar beschikbaar zijn.
+### 2.2.1.2. Verblijfsvoorwaarden gezinsleden
+
+De bepalingen als genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en [17 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) in samenhang met [artikel 3.13 tot en met 3.22 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.13) zijn onverkort van toepassing op de toelating van gezinsleden van de twee bovengenoemde categorieën vreemdelingen.
 
 De bepalingen als genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en [17 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) in samenhang met [artikel 3.13 tot en met 3.22 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.13) zijn onverkort van toepassing op de toelating van gezinsleden van de twee bovengenoemde categorieën vreemdelingen.
 
 ### 2.2.2. Personeel dat uitgezonden status per 1 januari 2000 verliest
 
-Het betreft de volgende categorieën:
-
 Ad a. Het betreft door de zendstaat na 1 augustus 1987 uitgezonden administratief, technisch en bedienend personeel, dat niet zoals gebruikelijk na enkele jaren de ontvangststaat weer verlaat, maar in Nederland zijn werkzaamheden voor ambassades of consulaten van dezelfde zendstaat ononderbroken voortzet. Dit geldt mede voor lokaal geworven personen die niet onder de eerdere definitie van ‘duurzaam verblijf houdend’ vielen en daarom als ‘uitgezonden personeel’ zijn aangemerkt.
+
+Ad b. Het gaat hier om particulier bedienden die in persoonlijke dienst van een uitgezonden medewerker (de werkgever) zijn en die na afloop van het dienstverband van de uitgezonden diplomatieke medewerker in dienst zijn getreden bij de opvolger van de vertrekkende werkgever. Voorwaarde is wel dat het salaris in de periode tussen het vertrek van de oude werkgever en de aankomst van de nieuwe werkgever wordt betaald door de missie.
 
 Ad b. Het gaat hier om particulier bedienden die in persoonlijke dienst van een uitgezonden medewerker (de werkgever) zijn en die na afloop van het dienstverband van de uitgezonden diplomatieke medewerker in dienst zijn getreden bij de opvolger van de vertrekkende werkgever. Voorwaarde is wel dat het salaris in de periode tussen het vertrek van de oude werkgever en de aankomst van de nieuwe werkgever wordt betaald door de missie.
 
 ### 2.2.2.1. Verblijfsvoorwaarden
 
-Indien wordt voldaan aan de voorwaarden als genoemd in [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) in samenhang met [artikel 3.93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) juncto [artikel 3.93, zesde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) (zie hieronder zelfstandige middelen) kan het personeelslid in bezit worden gesteld van een verblijfsvergunning regulier voor onbepaalde tijd. Indien de vreemdeling hieraan niet voldoet, gelden de [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en [17 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17).
+Voor wat betreft de zelfstandige middelen van bestaan geldt een uitzondering. Middelen van bestaan worden in ieder geval als zelfstandige middelen geaccepteerd, indien daarover door de werkgever premies sociale verzekeringen en belastingen worden afgedragen. Voor personeel dat in dienst is van een ambassade of consulaat van een andere mogendheid vindt er géén inhouding plaats van de premies sociale verzekeringen en belastingen, omdat ambassades en consulaten ingevolge [artikel 6, vierde lid, Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=6) niet inhoudingsplichtig zijn.
 
 ### 3.4. NAVO
 
@@ -8623,23 +8623,23 @@ Desalniettemin worden de inkomsten uit arbeid in loondienst voor werk bij een am
 
 ### 2.2.2.2. Verblijfsvoorwaarden gezinsleden
 
-Het bepaalde in B12/2.1.2.2 is van overeenkomstige toepassing op de aanvraag tot het verlenen van een verblijfsvergunning regulier voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) of voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20)).
+Indien familie- of gezinsleden zich eerst bij de hoofdpersoon in Nederland willen vervoegen wanneer de hoofdpersoon reeds rechtmatig verblijf heeft op grond van [artikel 8, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), dan zijn de bepalingen van B2 op deze familie- of gezinsleden van toepassing.
 
 Indien familie- of gezinsleden zich eerst bij de hoofdpersoon in Nederland willen vervoegen wanneer de hoofdpersoon reeds rechtmatig verblijf heeft op grond van [artikel 8, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), dan zijn de bepalingen van B2 op deze familie- of gezinsleden van toepassing.
 
-Op grond van het Verdrag van Ottawa, het Navo-statusverdrag en het Partnership for Peace-statusverdrag zijn een aantal categorieën vreemdelingen geprivilegieerd (B12/3.4.1). Op hen zijn de bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet van toepassing. Daarnaast is er een groep NAVO-vreemdelingen, die niet vallen onder voornoemde verdragen, doch met wiens verblijf wordt geacht dat een wezenlijk Nederlands belang wordt gediend. De categorieën worden genoemd in [artikel 3.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40). Voor deze groep niet-geprivilegieerde NAVO-vreemdelingen is een verblijfsregeling opgenomen in B12/3.4.2.
+Bij de afgifte van de gevraagde verblijfsvergunning voor onbepaalde tijd of verblijfsvergunning voor bepaalde tijd dient de vreemdeling het door het Ministerie van BuZa afgegeven identiteitsbewijs geprivilegieerden in te leveren bij de IND.
 
-### 3.4.1. Geprivilegieerde NAVO-vreemdelingen
+### 3. Vreemdelingen werkzaam bij een internationale organisatie
 
 Zie B1/5.3.3.
 
-Op grond van het Verdrag van Ottawa zijn twee categorieën vreemdelingen geprivilegieerd:
-
 Op grond van de Zetelovereenkomsten, waarin (mede) bepalingen zijn opgenomen omtrent hun verblijfsrechtelijke positie, komt aan vreemdelingen die in Nederland werkzaamheden verrichten voor een internationale organisatie en hun gezinsleden – tenzij anders in de Zetelovereenkomst bepaald – de uitgezonden status toe.
 
-### 2.2.1. Minderjarigheid
+Deze personen worden door de Minister van BuZa in het bezit gesteld van een geprivilegieerdendocument ([model M81](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81); zie [bijlage 3, onder A, derde lid VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3) juncto [artikel 2.3 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=2.3)). Dit houdt onder meer in dat zij niet behoeven te beschikken over een verblijfsvergunning. Voor wat betreft de grenscontrole en het toezicht wordt verwezen naar [A2/6.2.3.3](onbekend) en [A2/6.2.3.4](onbekend).
 
-Voor de toelichting op de voorwaarden 1 tot en met 7 wordt verwezen naar de toelichting op deze artikelen zoals vermeld in B12/3.3.1. Verder geldt wat betreft voorwaarde 2 (middelenvereiste) dat het duurzame en zelfstandige inkomen van de hoofdpersoon wordt meegeteld, indien het gezinslid over dit inkomen kan beschikken en, indien het meerderjarig afhankelijk gezinslid als partner bij de hoofdpersoon verblijft, de hoofdpersoon een garantverklaring heeft ondertekend. Dat het gezinslid over het inkomen kan beschikken wordt aangetoond met een schriftelijke verklaring van de hoofdpersoon.
+### 3.2. Categorieën geprivilegieerden internationale organisaties
+
+In dit verband wordt verwezen naar de internationale organisaties die in Nederland gevestigd zijn en wier personeel in aanmerking komt voor een geprivilegieerde verblijfsstatus middels de door de Minister van BuZa verstrekte identiteitskaart. Voor informatie over de internationale organisaties kan contact worden opgenomen met het Ministerie van BuZa.
 
 In dit verband wordt verwezen naar de internationale organisaties die in Nederland gevestigd zijn en wier personeel in aanmerking komt voor een geprivilegieerde verblijfsstatus middels de door de Minister van BuZa verstrekte identiteitskaart. Voor informatie over de internationale organisaties kan contact worden opgenomen met het Ministerie van BuZa.
 
@@ -8651,29 +8651,29 @@ Na beëindiging van het dienstverband met een internationale organisatie of wann
 
 ### 2.10.2. Bijzonder overgangsrecht voor achttienjarigen
 
-Bij de berekening van de periode van tien aaneengesloten jaren van verblijf worden mede in aanmerking genomen de perioden waarin de vreemdeling rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e, of l, van de Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) heeft gehad. Wel dient de vreemdeling direct voorafgaand aan de aanvraag om een verblijfsvergunning voor onbepaalde tijd verblijfsrecht op grond van een bijzondere geprivilegieerde status te hebben gehad.
-
 Het is niet van belang of de bijzondere geprivilegieerde status (de zogenoemde uitgezonden status) al dan niet door eigen toedoen verloren is gegaan.
+
+Het verblijfsrecht op grond van een bijzondere geprivilegieerde status dient te worden aangetoond aan de hand van een originele verklaring van BuZa waaruit het verblijfsrecht als geprivilegieerde vreemdeling blijkt.
 
 ### 3.4.1.6. Registratie
 
-Zie B1/7.1.3.
+Voor ‘zelfstandig’: zie [artikel 3.73 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.73) en B1/4.3.1. Voor ‘voldoende’: zie [artikel 3.74 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.74) en B1/4.3.3. Ten aanzien van de duurzaamheid van de middelen geldt ingevolge [artikel 3.93, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) een afwijkende bepaling. De middelen van bestaan zijn duurzaam indien zij op het tijdstip waarop de aanvraag werd ingediend of waarop de beschikking wordt gegeven, of enig tussenliggend moment nog gedurende ten minste één jaar beschikbaar zijn.
 
 ### 3.4.1.7. Beperking, arbeidsmarktaantekening en voorschrift
 
-Ten aanzien van deze voorwaarde wordt aangesloten bij [artikel 3.95 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.95). Dit betekent dat de aanvraag wordt afgewezen, indien de vreemdeling wegens een misdrijf waartegen een gevangenisstraf van drie jaren of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis een gevangenisstraf, een taakstraf of de maatregel, bedoeld in [artikel 37a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a), dan wel het buitenlandse equivalent daarvan, is opgelegd, en de totale duur van de straffen of maatregelen ten minste gelijk is aan de norm, bedoeld in [artikel 3.86, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86). Verder is [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) van overeenkomstige toepassing (zie B1/4.4 en B1/5.3.6).
+Het eerdere verblijfsrecht op grond van de bijzondere geprivilegieerde status telt niet mee bij de bepaling van de totale verblijfsduur zoals genoemd in [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86). Dit betekent dat alleen eventueel eerder rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e, of l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) meetelt bij de bepaling van de totale verblijfsduur.
 
 ### 3.4.2.1. Verblijfsvoorwaarden
 
-Zie B1/4.4.
+Zie B1/5.3.3.
 
 ### 3.4.2.2. Verblijfsdocument
 
 Indien de vreemdeling niet voldoet aan de voorwaarden 1 tot en met 5 zoals hierboven vermeld, dan wordt de aanvraag om een verblijfsvergunning voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20)) afgewezen. De vreemdeling zal dan, indien hij in aanmerking wil komen voor toelating tot Nederland, een aanvraag om eerste toelating op grond van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) moeten indienen. Hierbij gelden de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en [17 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) onverkort.
 
-De gezinsleden als hier bedoeld komen in aanmerking voor verblijfsvergunning indien aan de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) voor verlening van een verblijfsvergunning wordt voldaan (zie B1/4).
-
 Het meerderjarige afhankelijke gezinslid kan op aanvraag (net als de (ex-)geprivilegieerde) in aanmerking komen voor een verblijfsvergunning regulier voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) en [artikel 3.93 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93)). Dit is ook mogelijk indien de geprivilegieerde hoofdpersoon in dienst blijft van een internationale organisatie of uit Nederland vertrekt. Dit is in tegenstelling tot de afhankelijke gezinsleden van personeelsleden van ambassades en consulaten, hun verblijfsrecht is afhankelijk van dat van de geprivilegieerde hoofdpersoon (zie B12/2.1.2.2). Het meerderjarige afhankelijke gezinslid kan in aanmerking komen voor een verblijfsvergunning regulier voor onbepaalde tijd, indien het gezinslid:
+
+Voor de toelichting op de voorwaarden 1 tot en met 7 wordt verwezen naar de toelichting op deze artikelen zoals vermeld in B12/3.3.1. Verder geldt wat betreft voorwaarde 2 (middelenvereiste) dat het duurzame en zelfstandige inkomen van de hoofdpersoon wordt meegeteld, indien het gezinslid over dit inkomen kan beschikken en, indien het meerderjarig afhankelijk gezinslid als partner bij de hoofdpersoon verblijft, de hoofdpersoon een garantverklaring heeft ondertekend. Dat het gezinslid over het inkomen kan beschikken wordt aangetoond met een schriftelijke verklaring van de hoofdpersoon.
 
 ### 2.10.3.3. Uitgeprocedeerde meerderjarigen
 
@@ -8681,9 +8681,9 @@ Het bepaalde in B12/2.1.2.2 met betrekking tot de verblijfsvergunning regulier v
 
 ### 3.3.3. Inleveren identiteitsbewijs geprivilegieerden
 
-### 3.4.2.4. Beperking, arbeidsmarktaantekening en voorschrift
+### 3.4. NAVO
 
-Aan vreemdelingen jonger dan twaalf jaar kan niettegenstaande het voorgaande een document als bedoeld in [bijlage 7a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a) worden verleend, namelijk indien geen van de beide ouders van de vreemdeling in het bezit hoeft te worden gesteld van een dergelijk document.
+Op grond van het Verdrag van Ottawa, het Navo-statusverdrag en het Partnership for Peace-statusverdrag zijn een aantal categorieën vreemdelingen geprivilegieerd (B12/3.4.1). Op hen zijn de bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet van toepassing. Daarnaast is er een groep NAVO-vreemdelingen, die niet vallen onder voornoemde verdragen, doch met wiens verblijf wordt geacht dat een wezenlijk Nederlands belang wordt gediend. De categorieën worden genoemd in [artikel 3.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40). Voor deze groep niet-geprivilegieerde NAVO-vreemdelingen is een verblijfsregeling opgenomen in B12/3.4.2.
 
 Op grond van het Verdrag van Ottawa, het Navo-statusverdrag en het Partnership for Peace-statusverdrag zijn een aantal categorieën vreemdelingen geprivilegieerd (B12/3.4.1). Op hen zijn de bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet van toepassing. Daarnaast is er een groep NAVO-vreemdelingen, die niet vallen onder voornoemde verdragen, doch met wiens verblijf wordt geacht dat een wezenlijk Nederlands belang wordt gediend. De categorieën worden genoemd in [artikel 3.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40). Voor deze groep niet-geprivilegieerde NAVO-vreemdelingen is een verblijfsregeling opgenomen in B12/3.4.2.
 
@@ -8691,21 +8691,21 @@ De burgemeester van de gemeente waar de vreemdeling woon- of verblijfplaats heef
 
 ### 3.4.1.1. Verdrag van Ottawa
 
-Op grond van het Verdrag van Ottawa zijn twee categorieën vreemdelingen geprivilegieerd:
-
 Het betreft hier het personeel van het NATO AEW&C Programme Management Agency, gevestigd in Brunssum en het NATO C3 Agentschap in Den Haag.
 
 Dit personeel dat in Nederland geen militaire status heeft, is in het bezit van een geprivilegieerdendocument afgegeven door de Minister van BuZa (zie [model M81](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81) en [bijlage 3, onder A, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3)).
 
-Aan vreemdelingen als bedoeld in [artikel 3.40, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) die onderdaan zijn van een lidstaat van de EU/EER of van Zwitserland, wordt een verblijfsvergunning voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) verleend onder de beperking: ‘verblijf als NAVO-vreemdeling.’ De arbeidsmarktaantekening luidt: ‘arbeid vrij toegestaan. TWV niet vereist.’
+Dit personeel dat in Nederland geen militaire status heeft, is in het bezit van een geprivilegieerdendocument afgegeven door de Minister van BuZa (zie [model M81](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81) en [bijlage 3, onder A, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3)).
 
-### 3.4.2.5. Geldigheidsduur verblijfsvergunning
+Op grond van het NAVO-statusverdrag en het daarbij behorende Hoofdkwartieren Protocol dan wel op grond van het Partnership for Peace-statusverdrag en het daarbij behorende Tweede Aanvullende Protocol, zijn militairen van een krijgsmacht van een lidstaat geprivilegieerd, indien zij verbonden zijn aan een hier te lande gevestigd internationaal militair hoofdkwartier (Joint Force Command- headquarters) of een daarmee gelijkgestelde organisatie dan wel behoren tot een hier te lande gelegerd of op doortocht zijnd onderdeel van zodanige krijgsmacht.
+
+### 3.4.1.3. Gezinsleden
 
 ### 3.4.1.3. Gezinsleden
 
 De gezinsleden van de militairen van de Joint Force Command- headquarters te Brunssum, komen op grond van [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) juncto [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) in aanmerking voor een verblijfsvergunning regulier voor bepaalde tijd, voor verblijf als gezinslid van een militair die behoort tot een hier te lande gevestigd internationaal militair hoofdkwartier en die geprivilegieerd is. Voor wat betreft de invulling van het begrip gezinsleden wordt aangesloten naar [artikel 3.40, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40).
 
-EU- en EER-onderdanen, Zwitserse onderdanen en hun gezinsleden die een uitgezonden status hebben, worden aangemerkt als gemeenschapsonderdanen en hebben rechtmatig verblijf in de zin van [artikel 8, onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) in Nederland.
+De gezinsleden als hier bedoeld komen in aanmerking voor verblijfsvergunning indien aan de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) voor verlening van een verblijfsvergunning wordt voldaan (zie B1/4).
 
 De gezinsleden als hier bedoeld komen in aanmerking voor verblijfsvergunning indien aan de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) voor verlening van een verblijfsvergunning wordt voldaan (zie B1/4).
 
@@ -8713,17 +8713,17 @@ De gezinsleden als hier bedoeld komen in aanmerking voor verblijfsvergunning ind
 
 Voor zover zij de leeftijd van twaalf jaar hebben bereikt, wordt aan de gezinsleden van de militairen van de Joint Force Command- headquarters voor hun verblijf een document uitgereikt als bedoeld in [bijlage 7a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a).
 
-In beginsel wordt verblijf voor familiebezoek voor maximaal drie maanden toegestaan. Voor deze periode kan aan visumplichtige vreemdelingen een reisvisum worden verleend. Niet-visumplichtige vreemdelingen kunnen gedurende hun vrije termijn voor familiebezoek in Nederland verblijven (zie [A2/4.2.2](onbekend) en [A2/4.4](onbekend)).
+De burgemeester van de gemeente waar de vreemdeling woon- of verblijfplaats heeft, is belast met de administratie van de gezinsleden van de militairen van de Joint Force Command- headquarters. Zij zijn, ingevolge de wet- en regelgeving van de GBA, niet verpicht voor de duur van hun verblijf te worden opgenomen in de persoonsregisters.
 
-### 3.4.2. Ambtshalve verlening
-
-Onder bloedverwanten wordt verstaan: ouders (1e graad), kinderen (1e graad), broers/zussen (2e graad) grootouders (2e graad), ooms/tantes (3e graad) en neven/nichten (4e graad).
+### 3.4.1.7. Beperking, arbeidsmarktaantekening en voorschrift
 
 Aan vreemdelingen als hier bedoeld wordt een verblijfsvergunning voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) verleend op grond van [artikel 3.4, derde lid Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) met de beperking ‘conform beschikking Staatssecretaris’, met de arbeidsmarktaantekening: ‘arbeid vrij toegestaan. TWV niet vereist.’
 
-### 3.4.2.5. Geldigheidsduur verblijfsvergunning
+Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten, met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
-Voor verblijf voor familiebezoek worden de volgende personen als familieleden aangemerkt:
+### 3.4.1.8. Geldigheidsduur verblijfsvergunning
+
+De algemene bepalingen inzake de geldigheidsduur zijn van toepassing (zie B1/3). De totale tijdsduur waarvoor de vergunning geldig is, mag de duur van de stationering van het hoofd van het gezin niet overschrijden (zie B1/3.2).
 
 De algemene bepalingen inzake de geldigheidsduur zijn van toepassing (zie B1/3). De totale tijdsduur waarvoor de vergunning geldig is, mag de duur van de stationering van het hoofd van het gezin niet overschrijden (zie B1/3.2).
 
@@ -8731,25 +8731,23 @@ Onder aanverwanten wordt verstaan: zwagers/schoonzussen (2e graad), schoonzoons/
 
 ### 3.4.2.1. Verblijfsvoorwaarden
 
-Vreemdelingen behorend tot één van de categorieën genoemd in [artikel 3.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) komen in aanmerking voor een verblijfsvergunning regulier voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)), indien aan de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) voor verlening van een verblijfsvergunning wordt voldaan (zie B1/4).
+Zij zijn vrijgesteld van het legesvereiste (zie [artikel 3.34b, eerste lid, onder a, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34)). Voor de behandeling van aanvragen om een mvv wordt verwezen naar B1/1.
 
 ### 1. Inleiding
 
 Op de overige hier te lande woonachtige vreemdelingen, die bijvoorbeeld in dienst zijn van vreemdelingen als in [artikel 3.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) bedoeld, zijn de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) van toepassing (zie B1/4). Tot deze categorie behoren bijvoorbeeld dienstboden, tuinlieden, kindermeisjes en chauffeurs.
 
-Het familielid of een andere relatie dient te beschikken over voldoende, zelfstandig verworven middelen van bestaan voor zichzelf (en zijn gezin) en voor de kosten van het levensonderhoud van de vreemdeling voor de duur van het voorgenomen verblijf van de vreemdeling. Onder voldoende middelen van bestaan wordt verstaan een netto-inkomen, gelijk aan het bestaansminimum, bedoeld in de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), voor de desbetreffende categorie, aangevuld met het bestaansminimum voor alleenstaanden van 21 jaar of ouder ([artikel 3.29, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.29)).
+Voor zover zij de leeftijd van twaalf jaar hebben bereikt, wordt aan vreemdelingen behorend tot een van deze categorieën voor hun verblijf een document uitgereikt als bedoeld in [bijlage 7a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a).
 
 ### 2. Voorwaarden familiebezoek
 
-### 3.1. Algemeen
+### 3.4.2.3. Registratie
 
-Bij de berekening van het inkomen worden de inkomsten van eventuele familie- en gezinsleden, en van andere relaties van de garantsteller niet meegeteld, met uitzondering van het inkomen van de (geregistreerd of huwelijks-)partner. Indien ook de bestaansmiddelen van de garantsteller niet voldoende zijn, wordt de aanvraag afgewezen en worden de (eveneens ontoereikende) eigen financiële middelen van de vreemdeling daar niet bij opgeteld.
+De burgemeester van de gemeente waar de vreemdeling woon- of verblijfplaats heeft, is belast met de administratie van de vreemdelingen bedoeld in [artikel 3.40, eerste lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) en hun gezinsleden, bedoeld in [artikel 3.40, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40). De bedoelde vreemdelingen zijn, ingevolge de wet- en regelgeving van de GBA, niet verplicht voor de duur van hun verblijf te worden opgenomen in de persoonsregisters.
 
 De burgemeester van de gemeente waar de vreemdeling woon- of verblijfplaats heeft, is belast met de administratie van de vreemdelingen bedoeld in [artikel 3.40, eerste lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) en hun gezinsleden, bedoeld in [artikel 3.40, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40). De bedoelde vreemdelingen zijn, ingevolge de wet- en regelgeving van de GBA, niet verplicht voor de duur van hun verblijf te worden opgenomen in de persoonsregisters.
 
 ### 3.4.2.4. Beperking, arbeidsmarktaantekening en voorschrift
-
-Aan vreemdelingen als bedoeld in [artikel 3.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) wordt een verblijfsvergunning voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) verleend met de beperking ‘verblijf als NAVO-vreemdeling’, met de arbeidsmarktaantekening: ‘andere arbeid alleen toegestaan indien werkgever beschikt over TWV.’
 
 Aan de echtgeno(o)t(e) (zie [artikel 3.40 tweede lid, onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40)) wordt een verblijfsvergunning voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) verleend met de beperking ‘verblijf bij echtgeno(o)t(e)….’, met de arbeidsmarktaantekening: ‘andere arbeid alleen toegestaan indien werkgever beschikt over TWV.’
 
@@ -8757,41 +8755,41 @@ Aan de kinderen en meerderjarige gezinsleden (zie [artikel 3.40, tweede lid, ond
 
 Aan vreemdelingen als bedoeld in [artikel 3.40, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) die onderdaan zijn van een lidstaat van de EU/EER of van Zwitserland, wordt een verblijfsvergunning voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) verleend onder de beperking: ‘verblijf als NAVO-vreemdeling.’ De arbeidsmarktaantekening luidt: ‘arbeid vrij toegestaan. TWV niet vereist.’
 
-Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
+Aan vreemdelingen als bedoeld in [artikel 3.40, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) die onderdaan zijn van een lidstaat van de EU/EER of van Zwitserland, wordt een verblijfsvergunning voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) verleend onder de beperking: ‘verblijf als NAVO-vreemdeling.’ De arbeidsmarktaantekening luidt: ‘arbeid vrij toegestaan. TWV niet vereist.’
 
 De geldigheidsduur van de verblijfsvergunning voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) te verlenen aan deze vreemdelingen bedraagt maximaal drie jaar. Echter, de totale tijdsduur waarvoor de vergunning geldig is, mag de duur van de tewerkstelling (indien het burgerpersoneel betreft) of de duur van de tewerkstelling dan wel stationering van het hoofd van het gezin (indien het gezins- en familieleden betreft) niet overschrijden (zie [artikel 3.63 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.63)).
 
-De verblijfsvergunning wordt verleend met een geldigheidsduur van maximaal zes maanden, te berekenen vanaf de dag na inreis in Nederland (zie [artikel 3.70 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.70)).
+De geldigheidsduur van de verblijfsvergunning voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) te verlenen aan deze vreemdelingen bedraagt maximaal drie jaar. Echter, de totale tijdsduur waarvoor de vergunning geldig is, mag de duur van de tewerkstelling (indien het burgerpersoneel betreft) of de duur van de tewerkstelling dan wel stationering van het hoofd van het gezin (indien het gezins- en familieleden betreft) niet overschrijden (zie [artikel 3.63 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.63)).
 
 EU- en EER-onderdanen, Zwitserse onderdanen en hun gezinsleden die een uitgezonden status hebben, worden aangemerkt als gemeenschapsonderdanen en hebben rechtmatig verblijf in de zin van [artikel 8, onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) in Nederland.
 
 De verblijfsregeling, zoals genoemd in B12/3.4.2, geldt niet voor die vreemdelingen die als EU/EER-onderdaan of Zwitserse onderdaan rechtmatig verblijf in de zin van [artikel 8, onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) in Nederland hebben (zie B10).
 
-In dit hoofdstuk worden de bepalingen inzake de ambtshalve verleende verblijfsvergunningen regulier voor bepaalde tijd voor verblijf als Amv, voor verblijf als vreemdeling die buiten schuld niet uit Nederland kan vertrekken en voor verblijf op grond van het driejarenbeleid uitgewerkt.
+De verblijfsregeling, zoals genoemd in B12/3.4.2, geldt niet voor die vreemdelingen die als EU/EER-onderdaan of Zwitserse onderdaan rechtmatig verblijf in de zin van [artikel 8, onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) in Nederland hebben (zie B10).
 
-Middels [artikel 3.56 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.56) is in een regeling voorzien, inhoudende dat onder bepaalde voorwaarden een verblijfsvergunning regulier voor bepaalde tijd kan worden verleend aan een Amv. Dit artikel geeft geen verplichting, maar een bevoegdheid om een verblijfsvergunning te verlenen. In dit hoofdstuk wordt uiteengezet onder welke voorwaarden van die bevoegdheid gebruik wordt gemaakt en de verblijfsvergunning kan worden verleend. Deze voorwaarden hebben het karakter van beleidsregels. Naast de beleidsregels die in dit hoofdstuk zijn opgenomen, zijn tevens de beleidsregels met betrekking tot de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) van toepassing, tenzij anders is aangegeven.
+In dit hoofdstuk worden de bepalingen inzake de ambtshalve verleende verblijfsvergunningen regulier voor bepaalde tijd voor verblijf als Amv, voor verblijf als vreemdeling die buiten schuld niet uit Nederland kan vertrekken en voor verblijf op grond van het driejarenbeleid uitgewerkt.
 
 In beginsel wordt verblijf voor familiebezoek voor maximaal drie maanden toegestaan. Voor deze periode kan aan visumplichtige vreemdelingen een reisvisum worden verleend. Niet-visumplichtige vreemdelingen kunnen gedurende hun vrije termijn voor familiebezoek in Nederland verblijven (zie [A2/4.2.2](onbekend) en [A2/4.4](onbekend)).
 
 Voorts is familiebezoek voor langer dan drie maanden mogelijk. [Artikel 3.29 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.29) geeft het kader waarbinnen aan een vreemdeling verblijf kan worden toegestaan voor familiebezoek. Indien aan de in dit artikel vermelde voorwaarden is voldaan, is de Minister bevoegd, doch niet verplicht, de verblijfsvergunning regulier voor bepaalde tijd te verlenen. In dit hoofdstuk wordt uiteengezet onder welke voorwaarden van die bevoegdheid gebruik wordt gemaakt en de verblijfsvergunning kan worden verleend. Daarnaast zijn de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en B1/4 van toepassing, tenzij anders is aangegeven.
 
-### 2. Voorwaarden familiebezoek
+Voorts is familiebezoek voor langer dan drie maanden mogelijk. [Artikel 3.29 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.29) geeft het kader waarbinnen aan een vreemdeling verblijf kan worden toegestaan voor familiebezoek. Indien aan de in dit artikel vermelde voorwaarden is voldaan, is de Minister bevoegd, doch niet verplicht, de verblijfsvergunning regulier voor bepaalde tijd te verlenen. In dit hoofdstuk wordt uiteengezet onder welke voorwaarden van die bevoegdheid gebruik wordt gemaakt en de verblijfsvergunning kan worden verleend. Daarnaast zijn de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en B1/4 van toepassing, tenzij anders is aangegeven.
 
-Voor alle vreemdelingen uit mvv-plichtige landen die voor familiebezoek van langer dan drie maanden in Nederland willen verblijven, geldt dat zij tevoren in het buitenland een aanvraag om een mvv moeten hebben ingediend en deze hebben verkregen (zie B1/1.1 en B1/1.2).
+### 2. Voorwaarden familiebezoek
 
 In aanvulling op de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) voor de verlening van een verblijfsvergunning voor bepaalde tijd als genoemd in B1, dient een vreemdeling die voor familiebezoek van maximaal zes maanden in Nederland wil verblijven, te voldoen aan de volgende cumulatieve voorwaarden:
 
 Voor verblijf voor familiebezoek worden de volgende personen als familieleden aangemerkt:
 
+Onder bloedverwanten wordt verstaan: ouders (1e graad), kinderen (1e graad), broers/zussen (2e graad) grootouders (2e graad), ooms/tantes (3e graad) en neven/nichten (4e graad).
+
 ### 3.4.5. Aard van het verblijfsrecht
 
-Onder aanverwanten wordt verstaan: zwagers/schoonzussen (2e graad), schoonzoons/ schoondochters (1e graad), schoonmoeders/schoonvaders (1e graad), stiefkinderen (1e graad), stiefouders (1e graad) en stiefbroers/stiefzussen (2e graad).
+De familierechtelijke betrekking kan worden aangetoond met documenten, zoals een trouwboekje, geboorteakte etcetera.
 
 ### 1. Inleiding
 
 ### 2.2.1. Minderjarigheid
-
-Indien de vreemdeling de duur van het voorgenomen verblijf niet reeds bij het indienen van de aanvraag aantoont, wordt aangenomen dat het voorgenomen verblijf zich zal uitstrekken tot één jaar na het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven. De bestaansmiddelen worden dan duurzaam geacht indien zij nog één jaar beschikbaar zijn op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven, dan wel enig tussenliggend moment.
 
 Indien de eigen financiële middelen van de vreemdeling ontoereikend zijn, kan het verblijf slechts worden toegestaan wanneer het familielid of een andere relatie zich schriftelijk garant (zie [bijlage 6c VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=6c)) heeft gesteld voor de kosten van het levensonderhoud en van de terugreis. Hierbij geldt slechts dat één persoon (het familielid of de andere relatie) en diens (geregistreerde of huwelijks-)partner het verblijf kunnen bekostigen en garant staan.
 
@@ -8801,35 +8799,37 @@ Als het in Nederland gevestigde familielid of de in Nederland gevestigde andere 
 
 Als bijvoorbeeld twee vreemdelingen naar Nederland komen voor familiebezoek geldt als voldoende middelen van bestaan een netto-inkomen, gelijk aan het bestaansminimum, bedoeld in de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), voor de desbetreffende categorie, aangevuld met tweemaal het bestaansminimum voor alleenstaanden van 21 jaar of ouder.
 
+Bij de berekening van het inkomen worden de inkomsten van eventuele familie- en gezinsleden, en van andere relaties van de garantsteller niet meegeteld, met uitzondering van het inkomen van de (geregistreerd of huwelijks-)partner. Indien ook de bestaansmiddelen van de garantsteller niet voldoende zijn, wordt de aanvraag afgewezen en worden de (eveneens ontoereikende) eigen financiële middelen van de vreemdeling daar niet bij opgeteld.
+
 ### 2.1. Algemeen
 
 ### 2.2.3. Zelfstandig handhaven in land van herkomst of een ander land
 
-In deze gevallen zijn de middelen van bestaan voldoende, indien het gezamenlijke netto-inkomen gelijk is aan de bijstandsnorm als bedoeld in [artikel 21, onder c, Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21), voor de categorie echtparen en gezinnen, aangevuld met voor iedere betrokken vreemdeling het bestaansminimum voor alleenstaanden van 21 jaar of ouder.
-
 Als aanvullende voorwaarde geldt dan dat ondertekening van de garantverklaring, bedoeld in [artikel 3.29, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.29) geschiedt door de garantsteller en bedoelde (geregistreerde of huwelijks-)partner.
 
-Zelfstandigheid wordt niet tegengeworpen indien de Amv ten tijde van de beslissing jonger is dan zestien jaar.
+Als aanvullende voorwaarde geldt dan dat ondertekening van de garantverklaring, bedoeld in [artikel 3.29, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.29) geschiedt door de garantsteller en bedoelde (geregistreerde of huwelijks-)partner.
 
 De verblijfsvergunning wordt verleend onder de beperking: ‘voor familiebezoek bij ....... (naam familielid) van ten hoogste zes maanden’, met de arbeidsmarktaantekening ‘Arbeid niet toegestaan.’
 
 In het geval degene die familiebezoek beoogt onderdaan is van een Lidstaat van de EU/EER of van Zwitserland wordt de verblijfsvergunning verleend onder de beperking: ‘voor familiebezoek bij ........ (naam familielid) van ten hoogste zes maanden’. De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan. TWV niet vereist.’
 
-### 3.4.2. Ambtshalve verlening
+Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
-Hiervan is onder meer sprake als de meerderjarige de minderjarige al eerder begeleidde of verzorgde op meer dan incidentele basis.
+### 4. Geldigheidsduur van de verblijfsvergunning
 
-### 2.2.2. Alleenstaand
+De verblijfsvergunning wordt verleend met een geldigheidsduur van maximaal zes maanden, te berekenen vanaf de dag na inreis in Nederland (zie [artikel 3.70 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.70)).
+
+### 14. Ambtshalve verlening van een verblijfsvergunning regulier
 
 Onder adequate opvang wordt verstaan iedere opvang (ongeacht de vorm) waarvan de omstandigheden niet wezenlijk verschillen van de omstandigheden waaronder opvang wordt geboden aan leeftijdsgenoten die zich in een vergelijkbare positie als de betrokkene bevinden. Dit kan bestaan uit opvang door ouders, familieleden, vrienden, buren, stam-, clan- of dorpsgenoten.
-
-Het bestaan van adequate opvang wordt in ieder geval aangenomen indien:
 
 In dit hoofdstuk worden de bepalingen inzake de ambtshalve verleende verblijfsvergunningen regulier voor bepaalde tijd voor verblijf als Amv, voor verblijf als vreemdeling die buiten schuld niet uit Nederland kan vertrekken en voor verblijf op grond van het driejarenbeleid uitgewerkt.
 
 [Artikel 3.56 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.56) houdt in dat onder bepaalde voorwaarden een verblijfsvergunning regulier voor bepaalde tijd kan worden verleend aan een Amv. Dit artikel geeft geen verplichting, maar een bevoegdheid om een verblijfsvergunning te verlenen. In dit hoofdstuk wordt uiteengezet onder welke voorwaarden van die bevoegdheid gebruik wordt gemaakt en de verblijfsvergunning kan worden verleend. Deze voorwaarden hebben het karakter van beleidsregels. Naast de beleidsregels die in dit hoofdstuk zijn opgenomen, zijn tevens de beleidsregels met betrekking tot de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) van toepassing, tenzij anders is aangegeven.
 
 Een andere categorie vreemdelingen aan wie ambtshalve een verblijfsvergunning regulier voor bepaalde tijd kan worden verleend, betreft die vreemdelingen die buiten hun schuld niet uit Nederland kunnen vertrekken. Indien een vreemdeling, van wie de aanvraag om toelating is afgewezen, kan aantonen dat hij buiten zijn schuld niet uit Nederland kan vertrekken, komt hij onder voorwaarden in aanmerking voor een verblijfsvergunning onder de beperking ‘verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken’.
+
+Voorts kan ook ambtshalve een verblijfsvergunning regulier worden verleend aan de vreemdeling op wiens asielaanvraag na drie jaren nog niet onherroepelijk is beslist. Dit driejarenbeleid is weliswaar per 1 januari 2003 afgeschaft, maar kan op grond van het overgangsrecht nog van toepassing zijn op vreemdelingen die hun asielaanvraag voor 1 januari 2000 hebben ingediend.
 
 ### 2.3.2. Frustreren van het onderzoek naar adequate opvang
 
@@ -8839,111 +8839,111 @@ Hiervan is sprake als de betrokkene – ook los van de context van het totale as
 
 ### 2.1. Algemeen
 
-Amv’s van wie de aanvraag tot verlening van een verblijfsvergunning asiel is afgewezen, moeten terugkeren naar het land van herkomst of een ander land waar zij redelijkerwijs naar toe kunnen gaan. Het kan echter voorkomen dat uit feiten en omstandigheden blijkt dat aannemelijk is dat de minderjarige zich in het land van herkomst, of in een ander land waar hij redelijkerwijs naar toe kan gaan, niet zelfstandig kan handhaven en dat daar evenmin adequate opvang aanwezig is. Voor die gevallen is in [artikel 3.56 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.56) in een regeling voorzien, inhoudende dat een verblijfsvergunning regulier voor bepaalde tijd kan worden verleend. Ook na verlening van de verblijfsvergunning blijft het uitgangspunt dat de Amv in beginsel moet terugkeren.
+De uitgangspunten van het in B14/2 neergelegde beleid zijn alleen van toepassing op Amv’s die een asielaanvraag hebben ingediend. De verblijfsvergunning op grond van dit beleid wordt alleen ambtshalve verleend, dus niet op aanvraag (zie B14/2.4.1).
 
 De uitgangspunten van het in B14/2 neergelegde beleid zijn alleen van toepassing op Amv’s die een asielaanvraag hebben ingediend. De verblijfsvergunning op grond van dit beleid wordt alleen ambtshalve verleend, dus niet op aanvraag (zie B14/2.4.1).
 
-Hiervan is sprake als de betrokkene – ook los van de context van het totale asielrelaas – ongeloofwaardige en tegenstrijdige verklaringen aflegt of indien hij vage, summiere verklaringen aflegt en zaken verzwijgt omtrent identiteit, nationaliteit of opvang. Bij het beoordelen of van het vorenstaande sprake is, wordt rekening gehouden met druk, traumata, de geestelijke ontwikkeling en de leeftijd van betrokkene. Van een kind kan immers niet altijd dezelfde mate van volledigheid en gedetailleerdheid worden verwacht als van een volwassene.
+Voor de verlening van een verblijfsvergunning voor bepaalde tijd onder een beperking verband houdend met verblijf als Amv gelden de volgende bijzondere cumulatieve voorwaarden (zie [artikel 3.56 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.56)):
 
 Voor de verlening van een verblijfsvergunning voor bepaalde tijd onder een beperking verband houdend met verblijf als Amv gelden de volgende bijzondere cumulatieve voorwaarden (zie [artikel 3.56 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.56)):
 
-De toetsing aan het bijzondere beleid inzake Amv is ex nunc. Van belang is dus niet de situatie op het moment van het indienen van de asielaanvraag, maar die op het moment van het ambtshalve beslissen.
-
 De minderjarigheid wordt beoordeeld naar Nederlands recht. Ingevolge het bepaalde in [artikel 1:233 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=233) wordt een persoon als minderjarig beschouwd, indien:
+
+Voor de vaststelling of een vreemdeling als gevolg van een in het buitenland gesloten huwelijk als meerderjarig dient te worden beschouwd, is van belang of het huwelijk naar regels van Nederlands internationaal privaatrecht wordt erkend. Op grond van [artikel 5 Wet conflictenrecht huwelijk](https://wetten.overheid.nl/jci1.3:c:BWBR0004619&artikel=5) wordt een huwelijk alleen erkend indien het rechtsgeldig is ingevolge het recht van de staat waar de huwelijksvoltrekking plaatsvond. Een minderjarige wordt dus niet meerderjarig door een niet-erkend traditioneel huwelijk. Op grond van [artikel 6 Wet conflictenrecht huwelijk](https://wetten.overheid.nl/jci1.3:c:BWBR0004619&artikel=6) wordt een huwelijk evenmin erkend als dit onverenigbaar zou zijn met de openbare orde. Hiervan is bijvoorbeeld sprake bij gedwongen huwelijken of huwelijken tussen jonge kinderen.
 
 ### 3.2. Voorwaarden voor de verblijfsvergunning
 
 Ongehuwd samenwonen (ook als er een samenlevingscontract is) leidt op zichzelf niet tot meerderjarigheid.
 
-De toetsing aan het bijzondere beleid inzake Amv is ex nunc. Van belang is dus niet de situatie op het moment van het indienen van de asielaanvraag, maar die op het moment van het ambtshalve beslissen.
-
 Het in B14/2 neergelegde beleid is niet van toepassing op de minderjarige asielzoeker of vreemdeling
 
 Een minderjarige vreemdeling wordt in het kader van dit beleid wél als alleenstaand beschouwd, indien zijn ouder(s) in de bovengenoemde situaties minderjarig is/zijn.
 
-Zolang in de periode tussen de beide leeftijdsonderzoeken geen uitsluitsel bestaat over de juiste leeftijd, krijgt de vreemdeling op dit punt het voordeel van de twijfel in de verdere procedure en wordt de oorspronkelijk opgegeven geboortedatum aangehouden. Dit is echter niet van toepassing indien de vreemdeling op belangrijke punten vage, summiere, tegenstrijdige of ongeloofwaardige verklaringen aflegt.
+Een minderjarige vreemdeling wordt in het kader van dit beleid wél als alleenstaand beschouwd, indien zijn ouder(s) in de bovengenoemde situaties minderjarig is/zijn.
 
 Indien aannemelijk is dat de vreemdeling zich zelfstandig kan handhaven, behoeft voor terugkeer geen adequate opvang in het land van herkomst of een ander land waar hij redelijkerwijs naar toe kan gaan aanwezig te zijn.
 
 Bij de vaststelling of de vreemdeling zich zelfstandig kan handhaven, worden de volgende omstandigheden in overweging genomen:
 
+Zelfstandigheid wordt niet tegengeworpen indien de Amv ten tijde van de beslissing jonger is dan zestien jaar.
+
 ### 2.4.5. Aard van het verblijfsrecht
 
 ### 2.4. Procedurele bepalingen
 
-Het moet voorts gaan om werkzaamheden waarvan in redelijkheid mag worden verwacht dat een minderjarige die weer oppakt. Van minderjarigen die werkzaam waren in de prostitutie, als soldaat of strijder, of ten aanzien van wie sprake was van kinderarbeid, wordt niet verwacht dat zij deze werkzaamheden weer oppakken.
+Indien wordt geconstateerd dat aannemelijk is dat de Amv van zestien jaar of ouder zich zelfstandig kan handhaven en dus geen opvang behoeft, komt hij niet in aanmerking voor een verblijfsvergunning regulier onder de beperking ‘verblijf als alleenstaande minderjarige vreemdeling’.
 
-### 2.4.4. Onderzoek in het buitenland naar adequate opvang
-
-Indien uit feiten en omstandigheden niet aannemelijk is dat de Amv zich zelfstandig staande zal kunnen houden (zie C14/2.2.3), kan onderzoek door het Ministerie van BuZa geïndiceerd zijn indien in het land van herkomst of in een ander land waar de vreemdeling redelijkerwijs naar toe kan gaan, geen adequate opvang, bijvoorbeeld in de vorm van opvangtehuizen, bekend is. Onderzoek is in beginsel niet noodzakelijk indien de vreemdeling zelf verklaart dat adequate opvang aanwezig is, en daarbij voldoende geloofwaardige informatie geeft waaruit blijkt hoe de adequate opvang bij terugkeer bereikt kan worden, zoals adresgegevens.
+### 2.2.4. Adequate opvang
 
 Indien aan de hand van B14/2.2.3 wordt geconstateerd dat de Amv opvang behoeft, is van belang of voor hem adequate opvang voorhanden is in het land van herkomst of in een ander land waar hij redelijkerwijze naar toe kan gaan.
 
 Onder adequate opvang wordt verstaan iedere opvang (ongeacht de vorm) waarvan de omstandigheden niet wezenlijk verschillen van de omstandigheden waaronder opvang wordt geboden aan leeftijdsgenoten die zich in een vergelijkbare positie als de betrokkene bevinden. Dit kan bestaan uit opvang door ouders, familieleden, vrienden, buren, stam-, clan- of dorpsgenoten.
 
+Het bestaan van adequate opvang wordt in ieder geval aangenomen indien:
+
 ### 2.5.2. Ingangsdatum van de verblijfsvergunning
 
 ### 2.5. De verlening van de verblijfsvergunning
 
-Indien in het landgebonden asielbeleid is vastgelegd dat algemene opvangvoorzieningen beschikbaar en toereikend zijn, mag ervan worden uitgegaan dat er adequate opvang is. Daadwerkelijke plaatsing behoeft ten tijde van de beschikking niet te zijn geregeld.
+Indien in het landgebonden asielbeleid is vastgelegd dat de autoriteiten zorgdragen voor de opvang en dat de opvangvoorzieningen adequaat zijn, behoeft geen onderzoek naar een concrete opvangplaats in een opvanginstelling te worden gedaan.
 
 ### 2.5.3. Geldigheidsduur van de verblijfsvergunning
 
 In al deze gevallen wordt verwacht dat de betrokkenen vertrekken naar het land van herkomst of naar een ander land waar zij redelijkerwijs naar toe kunnen gaan.
 
-### 2.3. Afwijzingsgronden
+### 2.3.1. De bepalingen van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16)
 
-Indien de verlening plaatsvindt naar aanleiding van het intrekken van een verblijfsvergunning asiel, ligt de ingangsdatum niet voor de datum van de intrekking van de verblijfsvergunning asiel.
+De afwijzingsgronden van [artikel 16, eerste lid, onder d en e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16), zijn van toepassing (zie [artikel 3.56, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.56), [artikel 3.79 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.79), en B1/4.4 en B1/4.5).
 
-### 2.5.3. Geldigheidsduur van de verblijfsvergunning
-
-De verblijfsvergunning wordt verleend voor een jaar, maar ten hoogste tot de dag waarop de vreemdeling meerderjarig wordt.
+### 2.3.2. Frustreren van het onderzoek naar adequate opvang
 
 Amv’s, die tijdens de procedure een mogelijk onderzoek naar opvangmogelijkheden in het land van herkomst of een ander land (zie B14/2.4.4) frustreren, komen niet in aanmerking voor een verblijfsvergunning regulier onder de beperking ‘verblijf als alleenstaande minderjarige vreemdeling’.
+
+Hiervan is sprake als de betrokkene – ook los van de context van het totale asielrelaas – ongeloofwaardige en tegenstrijdige verklaringen aflegt of indien hij vage, summiere verklaringen aflegt en zaken verzwijgt omtrent identiteit, nationaliteit of opvang. Bij het beoordelen of van het vorenstaande sprake is, wordt rekening gehouden met druk, traumata, de geestelijke ontwikkeling en de leeftijd van betrokkene. Van een kind kan immers niet altijd dezelfde mate van volledigheid en gedetailleerdheid worden verwacht als van een volwassene.
 
 ### 2.4.5. Aard van het verblijfsrecht
 
 Ook indien de aanvraag om een verblijfsvergunning asiel is afgewezen op grond van [artikel 31, tweede lid, onder f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=31) en het relaas mede op grond daarvan als ongeloofwaardig moet worden beschouwd, kan dit leiden tot de conclusie dat de betrokkene het onderzoek frustreert. Het bovenstaande kan ook worden tegengeworpen als de betrokkene jonger is dan vijftien jaar.
 
-### 2.4. Procedurele bepalingen
+### 2.4.1. Ambtshalve toets
 
 ### 2.4.1. Ambtshalve toets
 
 De verblijfsvergunning wordt niet verleend op aanvraag. De verblijfsvergunning op grond van dit beleid kan alleen ambtshalve worden verleend op grond van [artikel 3.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) (zie [C14/6](onbekend)):
 
-Het kan hier gaan om de volgende gevallen:
+De toetsing aan het bijzondere beleid inzake Amv is ex nunc. Van belang is dus niet de situatie op het moment van het indienen van de asielaanvraag, maar die op het moment van het ambtshalve beslissen.
 
-### 2.6.4. Geldigheidsduur van de verblijfsvergunning
+### 2.4.3. Leeftijdsonderzoek
 
-De geldigheidsduur kan twee maal worden verlengd met een jaar, maar ten hoogste tot de dag waarop de vreemdeling meerderjarig wordt.
+Indien getwijfeld wordt aan de leeftijd van de betrokken asielzoeker en deze zijn gestelde leeftijd niet met documenten heeft kunnen aantonen, kan de asielzoeker een leeftijdsonderzoek aanvragen. De procedure en de bepalingen inzake het leeftijdsonderzoek worden nader uitgewerkt in [C12/1.3](onbekend) en [C12/5](onbekend).
 
 Indien getwijfeld wordt aan de leeftijd van de betrokken asielzoeker en deze zijn gestelde leeftijd niet met documenten heeft kunnen aantonen, kan de asielzoeker een leeftijdsonderzoek aanvragen. De procedure en de bepalingen inzake het leeftijdsonderzoek worden nader uitgewerkt in [C12/1.3](onbekend) en [C12/5](onbekend).
 
 ### 2.4.3.1. Herhaald leeftijdsonderzoek
 
-Het is mogelijk dat het leeftijdsonderzoek niet met voldoende zekerheid tot een conclusie omtrent de minderjarigheid kan leiden. In deze gevallen kan de betrokkene na verloop van tijd (dit kan zijn binnen één à twee jaar) opnieuw worden opgeroepen voor een leeftijdsonderzoek om te bezien of de botontwikkeling inmiddels zodanig is, dat een voldoende zekere conclusie (met terugwerkende kracht) mogelijk is over de vraag of de vreemdeling meerder- of minderjarig is.
+Het belang van het herhaald leeftijdsonderzoek is erin gelegen dat zoveel mogelijk dient te worden tegengegaan dat vreemdelingen ten onrechte in het bezit zijn of worden gesteld van een verblijfsvergunning voor verblijf als Amv, of anderszins ten onrechte een behandeling als minderjarige krijgen, terwijl zij feitelijk meerderjarig zijn. Hierbij moet in aanmerking worden genomen dat bij een volledig uitgerijpt sleutelbeen een minimumleeftijd van twintig jaar wordt gehanteerd. Als deze conclusie bij een herhaald onderzoek wordt getrokken, zal dat vaak betekenen dat de vreemdeling al bij de eerste verlening van de vergunning voor verblijf als Amv meerderjarig was en de vergunning dus ten onrechte heeft verkregen. Het herhaald leeftijdsonderzoek is in dit kader dus een belangrijke aanvulling op het eerste leeftijdsonderzoek.
 
 ### 5.6. De verlening van de verblijfsvergunning
 
-Indien uit het resultaat van het herhaald leeftijdsonderzoek volgt dat de vreemdeling onjuiste gegevens heeft verstrekt teneinde op oneigenlijke gronden in het bezit te worden gesteld van een verblijfsvergunning, bijvoorbeeld als blijkt dat hij tijdens de oorspronkelijke aanvraagprocedure al meerderjarig moet zijn geweest, kan de vreemdeling op grond van [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) in bewaring worden gesteld.
-
 Zolang in de periode tussen de beide leeftijdsonderzoeken geen uitsluitsel bestaat over de juiste leeftijd, krijgt de vreemdeling op dit punt het voordeel van de twijfel in de verdere procedure en wordt de oorspronkelijk opgegeven geboortedatum aangehouden. Dit is echter niet van toepassing indien de vreemdeling op belangrijke punten vage, summiere, tegenstrijdige of ongeloofwaardige verklaringen aflegt.
 
-### 2.7. Intrekken van de verblijfsvergunning
+Indien de vreemdeling niet vooraf toestemming heeft gegeven voor een herhaald leeftijdsonderzoek (door middel van een toestemmingsverklaring in het verzoek om een leeftijdsonderzoek of anderszins), kan hij in het kader van een aanvraag om verlenging van de verblijfsvergunning voor verblijf als amv, dan wel om verlening van een verblijfsvergunning voor voortgezet verblijf, opnieuw in de gelegenheid worden gesteld om een verzoek in te dienen voor een leeftijdsonderzoek.
 
 ### 2.4.4. Onderzoek in het buitenland naar adequate opvang
 
-Indien uit feiten en omstandigheden niet aannemelijk is dat de Amv zich zelfstandig staande zal kunnen houden (zie C14/2.2.3), kan onderzoek door het Ministerie van BuZa geïndiceerd zijn indien in het land van herkomst of in een ander land waar de vreemdeling redelijkerwijs naar toe kan gaan, geen adequate opvang, bijvoorbeeld in de vorm van opvangtehuizen, bekend is. Onderzoek is in beginsel niet noodzakelijk indien de vreemdeling zelf verklaart dat adequate opvang aanwezig is, en daarbij voldoende geloofwaardige informatie geeft waaruit blijkt hoe de adequate opvang bij terugkeer bereikt kan worden, zoals adresgegevens.
+### 2.4.4. Onderzoek in het buitenland naar adequate opvang
 
-### 2.10.1. Toepasselijkheid van het beleid
+Indien de informatie niet voldoende geloofwaardig is, gezien de leeftijd of de ontwikkeling van de minderjarige, kan onderzoek wel geïndiceerd zijn ter aanvulling of verificatie van de overgelegde gegevens.
 
-Op 4 januari 2001 heeft een wijziging plaatsgehad van het beleid inzake Amv’s.
+### 2.4.5. Aard van het verblijfsrecht
 
-### 3.5. De verlening van de verblijfsvergunning
+De verblijfsvergunning regulier onder een beperking verband houdend met verblijf als Amv betreft een tijdelijk verblijfsrecht, als bedoeld in [artikel 3.5 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5).
+
+### 2.5. De verlening van de verblijfsvergunning
 
 In de gevallen waarin de aanvraag om toelating als vluchteling is ingediend in de periode van 4 januari 2001 tot en met 31 maart 2001, is het beleid van toepassing zoals beschreven in Tussentijds bericht vreemdelingencirculaire 2000/30.
 
-In de gevallen waarin op of na 1 april 2001 een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd is ingediend, is het beleid van toepassing zoals beschreven in de Vc.
+De verblijfsvergunning wordt verleend onder de beperking: ‘verblijf als alleenstaande minderjarige vreemdeling’.
 
 ### 2.10.2. Bijzonder overgangsrecht voor achttienjarigen
 
@@ -8951,59 +8951,57 @@ De arbeidsmarktaantekening luidt: ‘arbeid uitsluitend toegestaan indien werkge
 
 ### 2.5.2. Ingangsdatum van de verblijfsvergunning
 
-De ingangsdatum is de dag waarop de vreemdeling voor het eerst aan de voorwaarden voldoet, maar valt niet voor de datum waarop de asielaanvraag is ingediend en ondertekend.
+Indien de verlening plaatsvindt naar aanleiding van het intrekken van een verblijfsvergunning asiel, ligt de ingangsdatum niet voor de datum van de intrekking van de verblijfsvergunning asiel.
 
-### 2.10.2. Bijzonder overgangsrecht voor achttienjarigen
+### 2.5.3. Geldigheidsduur van de verblijfsvergunning
 
-In [artikel 9.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=9.4) is een overgangsregeling getroffen voor vreemdelingen die een asielaanvraag hebben ingediend onder het oude beleid inzake Amv’s en die inmiddels achttien jaar oud zijn. Deze vreemdelingen kunnen onder bepaalde voorwaarden in aanmerking komen voor een zelfstandige verblijfsvergunning regulier onder de beperking ‘voortgezet verblijf’ (zie B16/5.1).
+De verblijfsvergunning wordt verleend voor een jaar, maar ten hoogste tot de dag waarop de vreemdeling meerderjarig wordt.
 
-### 2.10.3. Overgangsrecht voor begeleide minderjarigen
+### 2.5.4. Herhaald onderzoek naar adequate opvang
 
-Op grond van het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) moet in de afhandeling onderscheid worden gemaakt naar vreemdelingen die nog minderjarig zijn en vreemdelingen die inmiddels meerderjarig zijn geworden. In de volgende subparagrafen wordt de toetsing beschreven.
+In iedere individuele zaak dient beoordeeld te worden of een herhaald onderzoek in het buitenland naar adequate opvang aangewezen is. Dit is ten eerste afhankelijk van de onderzoeksmogelijkheden in het betreffende land. Een herhaald onderzoek is voorts eerder aangewezen naarmate de vreemdeling jonger is. Een herhaald onderzoek wordt niet aangevraagd indien de vreemdeling bij ontvangst van het onderzoeksresultaat naar verwachting zeventien en een half jaar of ouder is.
 
 ### 3.7. Verlenging van de geldigheidsduur van de verblijfsvergunning
 
-### 2.10.3.2. Uitgeprocedeerde minderjarigen
+### 2.6. Verlenging van de geldigheidsduur van de verblijfsvergunning
 
 Voor wat betreft de ambtshalve toets geldt het nieuwe beleid als novum.
 
-Op grond van het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) moet in de afhandeling onderscheid worden gemaakt naar vreemdelingen die nog minderjarig zijn en vreemdelingen die inmiddels meerderjarig zijn geworden. In de volgende subparagrafen wordt de toetsing beschreven.
+Verlenging van de geldigheidsduur van de verblijfsvergunning vindt alleen plaats indien de betrokken vreemdeling nog voldoet aan de voorwaarden voor verlening van de verblijfsvergunning zoals omschreven in B14/2.2.
 
 Verlenging van de geldigheidsduur van de verblijfsvergunning vindt alleen plaats indien de betrokken vreemdeling nog voldoet aan de voorwaarden voor verlening van de verblijfsvergunning zoals omschreven in B14/2.2.
 
-In de gevallen waarin de aanvraag om toelating als vluchteling is ingediend in de periode van 4 januari 2001 tot en met 31 maart 2001, is het beleid van toepassing zoals beschreven in Tussentijds bericht vreemdelingencirculaire 2000/30.
+De verlengingsaanvraag wordt conform B1/5.3.4 in beginsel niet afgewezen wegens het enkele ontbreken van een geldig document voor grensoverschrijding.
 
-### 4. Driejarenbeleid in de asielprocedure
+### 2.6.3. Gronden voor afwijzing van de aanvraag tot verlenging
 
-Indien wordt geconcludeerd dat de vreemdeling als gevolg van de gewijzigde definitie van het begrip ‘alleenstaand’ in aanmerking komt voor een verblijfsvergunning regulier op grond van het beleid inzake Amv’s wordt de vergunning verleend.
+De aanvraag tot verlenging van de geldigheidsduur van een verblijfsvergunning regulier onder een beperking die verband houdt met verblijf als Amv kan worden afgewezen, indien:
 
 ### 5.3. Contra-indicaties
 
-### 2.10.3.3. Uitgeprocedeerde meerderjarigen
-
-De overgangsregeling van B16 kan niet van toepassing zijn op personen die op het moment van aanvraag inmiddels meerderjarig zijn geworden. Het is immers niet mogelijk een verblijfsvergunning op grond van het beleid inzake Amv’s te verlenen aan een meerderjarige en het is niet mogelijk een verblijfsvergunning onder de beperking ‘voortgezet verblijf’ te verlenen aan een vreemdeling die niet reeds in het bezit is van een verblijfsvergunning.
+### 2.6.4. Geldigheidsduur van de verblijfsvergunning
 
 De geldigheidsduur kan twee maal worden verlengd met een jaar, maar ten hoogste tot de dag waarop de vreemdeling meerderjarig wordt.
 
-De verblijfsvergunning onder deze beperking kan worden verleend aan vreemdelingen aan wie in het verleden een verblijfsvergunning regulier voor bepaalde tijd op grond van het beleid inzake Amv’s is geweigerd op grond van het feit dat zij niet alleenstaand waren en die inmiddels meerderjarig zijn.
+De geldigheidsduur kan twee maal worden verlengd met een jaar, maar ten hoogste tot de dag waarop de vreemdeling meerderjarig wordt.
 
 Amv’s die in afwachting zijn van een beslissing op de aanvraag verlenging van de geldigheidsduur van een verblijfsvergunning regulier onder een beperking die verband houdt met verblijf als Amv worden in het bezit gesteld van het verblijfsdocument conform [bijlage 7f2 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f2) (W2-document), voor zover zij niet reeds in het bezit zijn van een geldig document voor grensoverschrijding.
 
-Deze categorie is vrijgesteld van het vereiste om in het bezit te zijn van een geldige mvv.
+Amv’s die in afwachting zijn van een beslissing op de aanvraag verlenging van de geldigheidsduur van een verblijfsvergunning regulier onder een beperking die verband houdt met verblijf als Amv worden in het bezit gesteld van het verblijfsdocument conform [bijlage 7f2 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f2) (W2-document), voor zover zij niet reeds in het bezit zijn van een geldig document voor grensoverschrijding.
 
-### 4.3. Contra-indicaties
+Op grond van [artikel 19 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) kan de vergunning worden ingetrokken om redenen genoemd in B14/2.6.3 (gronden voor afwijzing van de verlenging).
 
-In afwijking van B1/4.2 wordt de aanvraag niet afgewezen op de enkele grond dat de vreemdeling niet beschikt over een geldig document voor grensoverschrijding
+### 2.8. De zelfstandige verblijfsvergunning voor voortgezet verblijf
 
 De voorwaarden voor verlening van een zelfstandige verblijfsvergunning regulier onder de beperking ‘voortgezet verblijf’, als bedoeld in de [artikelen 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) en [3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52), zijn uitgewerkt in B16/5.
 
-De arbeidsmarktaantekening luidt: ‘arbeid uitsluitend toegestaan indien werkgever beschikt over TWV’.
+De voorwaarden voor verlening van een zelfstandige verblijfsvergunning regulier onder de beperking ‘voortgezet verblijf’, als bedoeld in de [artikelen 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) en [3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52), zijn uitgewerkt in B16/5.
 
-### 3.1. Algemeen
+Indien de vreemdeling op het moment van het indienen van de aanvraag óf het moment van beslissen op de aanvraag in het bezit is van een verblijfsvergunning regulier voor verblijf als Amv, zijnde een verblijfsrecht van tijdelijke aard, dan komt hij ingevolge het bepaalde in [artikel 21, eerste lid, onder f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), niet in aanmerking voor een verblijfsvergunning regulier voor onbepaalde tijd. De voorwaarden voor verlening van een verblijfsvergunning regulier voor onbepaalde tijd zijn uitgewerkt in B1/6.
+
+### 2.10. Overgangsrecht
 
 De verblijfsvergunning wordt verleend voor één jaar.
-
-De verblijfsvergunning onder de beperking ‘verblijf als meerderjarige ex-bama’ kan ten tijde van de eerste verlenging, indien de houder hiertoe een aanvraag indient, worden gewijzigd in een verblijfsvergunning onder de beperking ‘voortgezet verblijf’ op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52). De geldigheidsduur is dan vijf jaar (zie B16).
 
 Op 4 januari 2001 heeft een wijziging plaatsgehad van het beleid inzake Amv’s.
 
@@ -9013,77 +9011,79 @@ In de gevallen waarin de aanvraag om toelating als vluchteling is ingediend in d
 
 In de gevallen waarin op of na 1 april 2001 een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd is ingediend, is het beleid van toepassing zoals beschreven in de Vc.
 
-Hierbij moet gedacht worden aan een verklaring van de ambassade waarin staat dat betrokkene niet in het bezit zal worden gesteld van een vervangend reisdocument, hoewel er niet getwijfeld wordt aan de door betrokkene opgegeven identiteit en nationaliteit. Ook kan gedacht worden aan een ambtsbericht van de DT&V aan de IND waaruit blijkt dat de betreffende ambassade weigert een (vervangend) reisdocument te verstrekken hoewel de nationaliteit en identiteit niet worden betwist.
+In de gevallen waarin op of na 1 april 2001 een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd is ingediend, is het beleid van toepassing zoals beschreven in de Vc.
+
+In [artikel 9.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=9.4) is een overgangsregeling getroffen voor vreemdelingen die een asielaanvraag hebben ingediend onder het oude beleid inzake Amv’s en die inmiddels achttien jaar oud zijn. Deze vreemdelingen kunnen onder bepaalde voorwaarden in aanmerking komen voor een zelfstandige verblijfsvergunning regulier onder de beperking ‘voortgezet verblijf’ (zie B16/5.1).
 
 In [artikel 9.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=9.4) is een overgangsregeling getroffen voor vreemdelingen die een asielaanvraag hebben ingediend onder het oude beleid inzake Amv’s en die inmiddels achttien jaar oud zijn. Deze vreemdelingen kunnen onder bepaalde voorwaarden in aanmerking komen voor een zelfstandige verblijfsvergunning regulier onder de beperking ‘voortgezet verblijf’ (zie B16/5.1).
 
 Van de vreemdeling wordt verwacht dat hij:
 
-Vereist is dat de vreemdeling om bemiddeling van de DT&V heeft gevraagd. De DT&V zal door middel van een ambtsbericht aangeven aan de IND of al dan niet sprake is van buitenschuld.
-
 Op 20 juli 2004 is in een brief aan de Voorzitter van de Tweede Kamer meegedeeld dat het beleid inzake begeleide minderjarige vreemdelingen is gewijzigd. Amv’s, die worden begeleid of verzorgd door een meerderjarige anders dan hun ouder(s) of in het buitenland aangewezen voogd, worden niet langer als ‘begeleid’ aangemerkt.
+
+Vreemdelingen aan wie eerder een verblijfsvergunning voor verblijf als Amv is geweigerd omdat zij begeleid werden, kunnen conform bovengenoemde brief een nieuwe asielaanvraag indienen. [C10/2.5](onbekend) is hierbij van toepassing. Deze aanvraag geeft recht op opvang gedurende de asielprocedure.
 
 ### 3.2.1. Inleiding
 
 ### 5.3.4. De vreemdeling is EU/EER-onderdaan
 
-Op grond van het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) moet in de afhandeling onderscheid worden gemaakt naar vreemdelingen die nog minderjarig zijn en vreemdelingen die inmiddels meerderjarig zijn geworden. In de volgende subparagrafen wordt de toetsing beschreven.
+Het hier beschreven bijzonder overgangsbeleid voor begeleide minderjarigen is alleen van toepassing op nog openstaande procedures waarin de asielaanvraag is ingediend vóór 1 september 2005.
 
 Het hier beschreven bijzonder overgangsbeleid voor begeleide minderjarigen is alleen van toepassing op nog openstaande procedures waarin de asielaanvraag is ingediend vóór 1 september 2005.
 
 ### 2.10.3.2. Uitgeprocedeerde minderjarigen
 
-Indien een nog minderjarige vreemdeling, aan wie eerder een verblijfsvergunning regulier voor bepaalde tijd op grond van het beleid inzake Amv’s is geweigerd omdat hij niet alleenstaand was, een nieuwe asielaanvraag indient, geldt het nieuwe beleid als novum voor wat betreft de ambtshalve toets. In dat geval wordt getoetst aan het huidige geldende beleid.
-
 Indien wordt geconcludeerd dat de vreemdeling als gevolg van de gewijzigde definitie van het begrip ‘alleenstaand’ in aanmerking komt voor een verblijfsvergunning regulier op grond van het beleid inzake Amv’s wordt de vergunning verleend.
 
 De ingangsdatum van deze vergunning kan op grond van [artikel 44, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=44) niet liggen vóór datum van de (nieuwe) aanvraag. Dit kan leiden tot ongewenste gevolgen. Zo kan het voorkomen dat de vreemdeling, indien hij in de eerste procedure in het bezit zou zijn gesteld van deze verblijfsvergunning, in aanmerking zou kunnen komen voor een verblijfsvergunning onder de beperking ‘voortgezet verblijf’, terwijl die mogelijkheid er naar aanleiding van de tweede aanvraag niet meer is, omdat betrokkene op zijn achttiende verjaardag nog geen drie jaar in het bezit zal zijn van bedoelde vergunning. Teneinde het vorengenoemde ongewenste effect te voorkomen is een voorziening getroffen voor die vreemdelingen die voor hun achttiende verjaardag een tweede aanvraag indienen. Onder bepaalde voorwaarden kunnen ook zij in aanmerking komen voor een zelfstandige verblijfsvergunning regulier onder de beperking ‘voortgezet verblijf’ (zie B16).
 
-Het dient daarbij te gaan om objectieve, verifieerbare feiten en omstandigheden die zien op de persoon van betrokkene en die in de eerste plaats zijn onderbouwd met bescheiden. Hierbij moet gedacht worden aan een verklaring van de ambassade waarin staat dat betrokkene niet in het bezit zal worden gesteld van een vervangend reisdocument, hoewel er niet getwijfeld wordt aan de door betrokkene opgegeven identiteit en nationaliteit. Ook kan gedacht worden aan een ambtsbericht van de DT&V aan de IND waaruit blijkt dat de betreffende ambassade weigert een (vervangend) reisdocument te verstrekken hoewel de nationaliteit en identiteit niet worden betwist.
+De ingangsdatum van deze vergunning kan op grond van [artikel 44, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=44) niet liggen vóór datum van de (nieuwe) aanvraag. Dit kan leiden tot ongewenste gevolgen. Zo kan het voorkomen dat de vreemdeling, indien hij in de eerste procedure in het bezit zou zijn gesteld van deze verblijfsvergunning, in aanmerking zou kunnen komen voor een verblijfsvergunning onder de beperking ‘voortgezet verblijf’, terwijl die mogelijkheid er naar aanleiding van de tweede aanvraag niet meer is, omdat betrokkene op zijn achttiende verjaardag nog geen drie jaar in het bezit zal zijn van bedoelde vergunning. Teneinde het vorengenoemde ongewenste effect te voorkomen is een voorziening getroffen voor die vreemdelingen die voor hun achttiende verjaardag een tweede aanvraag indienen. Onder bepaalde voorwaarden kunnen ook zij in aanmerking komen voor een zelfstandige verblijfsvergunning regulier onder de beperking ‘voortgezet verblijf’ (zie B16).
+
+De overgangsregeling van B16 kan niet van toepassing zijn op personen die op het moment van aanvraag inmiddels meerderjarig zijn geworden. Het is immers niet mogelijk een verblijfsvergunning op grond van het beleid inzake Amv’s te verlenen aan een meerderjarige en het is niet mogelijk een verblijfsvergunning onder de beperking ‘voortgezet verblijf’ te verlenen aan een vreemdeling die niet reeds in het bezit is van een verblijfsvergunning.
 
 ### 2. Samenhang [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) en de [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
 
-Om dit te ondervangen is op grond van [artikel 3.6, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) een nieuw [artikel 3.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.17a) gevoegd in het [VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002). Hierdoor is het mogelijk geworden om ambtshalve, in het kader van een asielaanvraag, een verblijfsvergunning te verlenen onder de beperking ‘verblijf als meerderjarige ex-bama’.
+De verblijfsvergunning onder deze beperking kan worden verleend aan vreemdelingen aan wie in het verleden een verblijfsvergunning regulier voor bepaalde tijd op grond van het beleid inzake Amv’s is geweigerd op grond van het feit dat zij niet alleenstaand waren en die inmiddels meerderjarig zijn.
 
 ### 3.2.1. Inleiding
 
-Hierbij gelden de volgende (cumulatieve) voorwaarden:
+Deze categorie is vrijgesteld van het vereiste om in het bezit te zijn van een geldige mvv.
 
 ### 3.2.2. Categorieën vreemdelingen die onder het beleid vallen
-
-**Ontbreken geldig document voor grensoverschrijding**
 
 In afwijking van B1/4.2 wordt de aanvraag niet afgewezen op de enkele grond dat de vreemdeling niet beschikt over een geldig document voor grensoverschrijding
 
 De verblijfsvergunning wordt verleend onder de beperking ‘verblijf als meerderjarige ex-bama’.
 
+De arbeidsmarktaantekening luidt: ‘arbeid uitsluitend toegestaan indien werkgever beschikt over TWV’.
+
 ### 3.4.1. Inleiding
 
 ### 3.3. Afwijzingsgronden
 
-De verblijfsvergunning wordt verleend voor één jaar.
+De verblijfsvergunning onder de beperking ‘verblijf als meerderjarige ex-bama’ kan ten tijde van de eerste verlenging, indien de houder hiertoe een aanvraag indient, worden gewijzigd in een verblijfsvergunning onder de beperking ‘voortgezet verblijf’ op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52). De geldigheidsduur is dan vijf jaar (zie B16).
 
-### 4.1. De verklaring van de werkgever ([bijlage 12a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a))
+### 3. Vreemdelingen die buiten hun schuld niet kunnen vertrekken
 
 Verder komt de vreemdeling niet in aanmerking voor een verblijfsvergunning indien hij:
 
 ### 3.1. Algemeen
 
-Uitgangspunt van het terugkeerbeleid is, dat in beginsel alle vreemdelingen kunnen terugkeren naar hun land van herkomst. Er is op dit moment geen land bekend dat de volkenrechtelijke verplichting, om eigen onderdanen terug te nemen, niet naleeft. Desalniettemin kunnen zich bijzondere situaties voordoen waarin een vreemdeling buiten zijn schuld niet uit Nederland kan vertrekken omdat hij de benodigde reisdocumenten niet kan bemachtigen, terwijl er geen twijfel bestaat omtrent de door hem verstrekte gegevens over zijn identiteit en nationaliteit. Hiervan kan bijvoorbeeld sprake zijn als de vreemdeling staatloos is en hij geen wedertoelating kan verkrijgen tot het land waar hij eerder zijn gewone verblijfplaats (‘former habitual residence’) had.
+In deze gevallen kan de vreemdeling in aanmerking komen voor een verblijfsvergunning op grond van dit beleid.
 
-### 15. Kennismigranten
+### 3.2. Voorwaarden voor de verblijfsvergunning
 
-Dit lijdt echter uitzondering indien de vreemdeling door middel van een begeleidende brief door de Minister is uitgenodigd een verblijfsvergunning op grond van dit beleid aan te vragen. Dit kan zich voordoen in die gevallen waarin gedurende het terugkeertraject door de DT&V wordt geconstateerd dat, ondanks de bereidwilligheid van de vreemdeling om mee te werken aan de eigen terugkeer, het niet lukt om de benodigde reisdocumenten ten behoeve van de terugkeer te verkrijgen.
-
-### 3.4.5. Aard van het verblijfsrecht
-
-Van de vreemdeling wordt verwacht dat hij:
+Het begrip ‘buiten hun schuld’ dient hier te worden opgevat als een objectief criterium, hetgeen betekent dat de vreemdeling aan de hand van objectief toetsbare bescheiden moet kunnen aantonen dat de betrokken autoriteiten van het land van herkomst of van het land alwaar de persoon verblijf heeft (gehad), geen toestemming zullen verlenen aan zijn terugkeer. Veelal gaat het hierbij om het verkrijgen van (vervangende) reisdocumenten waarmee de vreemdeling naar het betreffende land kan reizen en op grond waarvan hij bovendien in beginsel toegang zal krijgen tot het betreffende land. Bij de pogingen om de vereiste medewerking van de betreffende autoriteiten te krijgen, alsmede om in het bezit te komen van de benodigde (vervangende) reisdocumenten, heeft de vreemdeling een eigen verantwoordelijkheid.
 
 ### 3.4.5. Aard van het verblijfsrecht
 
-### 3.4.4. Leges
+Vereist is dat de vreemdeling om bemiddeling van de DT&V heeft gevraagd. De DT&V zal door middel van een ambtsbericht aangeven aan de IND of al dan niet sprake is van buitenschuld.
 
-Voor de behandeling van de aanvraag is de vreemdeling leges verschuldigd.
+### 3.4.5. Aard van het verblijfsrecht
+
+### 3.2.1. Inleiding
+
+Het begrip ‘buiten hun schuld’ dient hier te worden opgevat als een objectief criterium, hetgeen betekent dat de vreemdeling aan de hand van objectief toetsbare bescheiden moet kunnen aantonen dat de betrokken autoriteiten van het land van herkomst of van het land alwaar de persoon verblijf heeft (gehad), geen toestemming zullen verlenen aan zijn terugkeer. Veelal gaat het hierbij om het verkrijgen van vervangende reisdocumenten waarmee de vreemdeling naar het betreffende land kan reizen en op grond waarvan hij bovendien in beginsel toegang zal krijgen tot het betreffende land. Bij de pogingen om de vereiste medewerking van de betreffende autoriteiten te krijgen, alsmede om in het bezit te komen van de benodigde (vervangende) reisdocumenten, heeft de vreemdeling een eigen verantwoordelijkheid.
 
 Het begrip ‘buiten hun schuld’ dient hier te worden opgevat als een objectief criterium, hetgeen betekent dat de vreemdeling aan de hand van objectief toetsbare bescheiden moet kunnen aantonen dat de betrokken autoriteiten van het land van herkomst of van het land alwaar de persoon verblijf heeft (gehad), geen toestemming zullen verlenen aan zijn terugkeer. Veelal gaat het hierbij om het verkrijgen van vervangende reisdocumenten waarmee de vreemdeling naar het betreffende land kan reizen en op grond waarvan hij bovendien in beginsel toegang zal krijgen tot het betreffende land. Bij de pogingen om de vereiste medewerking van de betreffende autoriteiten te krijgen, alsmede om in het bezit te komen van de benodigde (vervangende) reisdocumenten, heeft de vreemdeling een eigen verantwoordelijkheid.
 
@@ -9093,11 +9093,11 @@ Er zijn drie categorieën vreemdelingen die in aanmerking kunnen komen voor een 
 
 ### 3.2.2.1. Vreemdelingen die vruchteloos gepoogd hebben te vertrekken
 
-Om in aanmerking te komen voor een verblijfsvergunning op grond van het hier beschreven bijzondere beleid, dient de vreemdeling zich te wenden tot de vertegenwoordiging van zijn land van herkomst en eventuele landen van eerder verblijf. De vreemdeling komt in aanmerking voor verblijf als cumulatief aan de volgende voorwaarden wordt voldaan:
+Van de vreemdeling wordt verwacht dat hij:
 
 ### 3.4.2. Ambtshalve verlening
 
-Vereist is dat de vreemdeling om bemiddeling van de DT&V heeft gevraagd. De DT&V zal door middel van een ambtsbericht aangeven aan de IND of al dan niet sprake is van buitenschuld.
+Het dient daarbij te gaan om objectieve, verifieerbare feiten en omstandigheden die zien op de persoon van betrokkene en die in de eerste plaats zijn onderbouwd met bescheiden. Hierbij moet gedacht worden aan een verklaring van de ambassade waarin staat dat betrokkene niet in het bezit zal worden gesteld van een vervangend reisdocument, hoewel er niet getwijfeld wordt aan de door betrokkene opgegeven identiteit en nationaliteit. Ook kan gedacht worden aan een ambtsbericht van de DT&V aan de IND waaruit blijkt dat de betreffende ambassade weigert een (vervangend) reisdocument te verstrekken hoewel de nationaliteit en identiteit niet worden betwist.
 
 ### 3.4.3. De aanvraag
 
@@ -9113,15 +9113,15 @@ Voor een verblijfsvergunning op grond van het beleid ten aanzien van vreemdeling
 
 ### 3.2.3. Vrijstelling mvv
 
-### 3.7. Verlenging van de geldigheidsduur van de verblijfsvergunning
-
-De geldigheidsduur kan tweemaal met een jaar worden verlengd, indien de vreemdeling nog voldoet aan de voorwaarden voor verlening.
+### 3.2.4. Ontheffing van het paspoortvereiste
 
 Indien de vreemdeling in aanmerking komt voor verblijf op grond van het hierboven beschreven beleid, wordt een verblijfsvergunning regulier voor bepaalde tijd verleend. Hij wordt daarbij ontheven van het paspoortvereiste.
 
-Indien gedurende de looptijd van in totaal drie jaar nieuwe informatie beschikbaar komt, waaruit blijkt dat de vreemdeling zich redelijkerwijs alsnog kan begeven naar zijn land van herkomst of een ander land, dient tot intrekking of niet-verlenging van de geldigheidsduur van de verblijfsvergunning te worden overgegaan.
+Indien de vreemdeling in aanmerking komt voor verblijf op grond van het hierboven beschreven beleid, wordt een verblijfsvergunning regulier voor bepaalde tijd verleend. Hij wordt daarbij ontheven van het paspoortvereiste.
 
 De aanvraag kan ingevolge het bepaalde in [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) worden afgewezen indien:
+
+Voorts kan de verblijfsvergunning geweigerd worden indien de vreemdeling een afwijzende beschikking op zijn asielaanvraag heeft ontvangen op grond van [artikel 31, tweede lid, onder f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=31) wegens het toerekenbaar ontbreken van documenten die betrekking hebben op identiteit en nationaliteit.
 
 ### 3.5.3. Geldigheidsduur
 
@@ -9133,19 +9133,19 @@ Toetsing aan het driejarenbeleid komt pas aan de orde als de individuele situati
 
 De verblijfsvergunning onder de beperking ‘verblijf als vreemdeling die buiten schuld niet uit Nederland kan vertrekken’ kan hetzij ambtshalve, hetzij op aanvraag worden verleend.
 
-Het driejarenbeleid is een bijzonder beleid binnen het vreemdelingenbeleid. Het enkele tijdsverloop in een procedure omtrent een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd asiel als bedoeld in artikel 28 Vw is geen reden om tot verblijfsaanvaarding over te gaan. Het driejarenbeleid heeft zich gevormd vanuit de volgende overweging: als gevolg van het tijdsverloop in een verblijfsrechtelijke procedure kan, onder omstandigheden, enerzijds bij de vreemdeling de gedachte opkomen dat de Minister in zijn verblijf in Nederland zal berusten en kan anderzijds de Minister in redelijkheid niet meer gebruikmaken van zijn bevoegdheid de vreemdeling verblijf te weigeren.
+Indien tijdens de asielprocedure is gebleken dat een vreemdeling niet in aanmerking komt voor verlening van een verblijfsvergunning asiel, terwijl hij wel heeft aangetoond dat hij in aanmerking komt voor verblijf op grond van het beleid inzake vreemdelingen die buiten hun schuld niet uit Nederland kunnen vertrekken, wordt, behoudens contra-indicaties, de verblijfsvergunning regulier voor bepaalde tijd met de beperking ‘verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken’ ambtshalve verleend. Zie [C14/6](onbekend) voor het toepassen van de ambtshalve toets tijdens de asielprocedure.
 
 Indien tijdens de asielprocedure is gebleken dat een vreemdeling niet in aanmerking komt voor verlening van een verblijfsvergunning asiel, terwijl hij wel heeft aangetoond dat hij in aanmerking komt voor verblijf op grond van het beleid inzake vreemdelingen die buiten hun schuld niet uit Nederland kunnen vertrekken, wordt, behoudens contra-indicaties, de verblijfsvergunning regulier voor bepaalde tijd met de beperking ‘verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken’ ambtshalve verleend. Zie [C14/6](onbekend) voor het toepassen van de ambtshalve toets tijdens de asielprocedure.
 
-Er gelden de volgende contra-indicaties:
+Indien de vreemdeling is uitgeprocedeerd, bijvoorbeeld omdat hij ten tijde van de asielprocedure niet kon aantonen dat hij in aanmerking kwam voor verblijf op grond van het beleid inzake vreemdelingen die buiten hun schuld niet uit Nederland kunnen vertrekken, maar inmiddels meent dat hij aan de voorwaarden voldoet, kan hij de verblijfsvergunning regulier aanvragen bij de IND (zie [artikel 3.33a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.33a) en B1).
 
 Indien de vreemdeling is uitgeprocedeerd, bijvoorbeeld omdat hij ten tijde van de asielprocedure niet kon aantonen dat hij in aanmerking kwam voor verblijf op grond van het beleid inzake vreemdelingen die buiten hun schuld niet uit Nederland kunnen vertrekken, maar inmiddels meent dat hij aan de voorwaarden voldoet, kan hij de verblijfsvergunning regulier aanvragen bij de IND (zie [artikel 3.33a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.33a) en B1).
 
-Indien de asielaanvraag is ontvangen vóór 1 januari 2000 kan de verblijfsvergunning nog op grond van deze bepaling worden verleend indien aan de volgende voorwaarden is voldaan:
-
 Voor de behandeling van de aanvraag is de vreemdeling leges verschuldigd.
 
-### 5.6. De verlening van de verblijfsvergunning
+Dit lijdt echter uitzondering indien de vreemdeling door middel van een begeleidende brief door de Minister is uitgenodigd een verblijfsvergunning op grond van dit beleid aan te vragen. Dit kan zich voordoen in die gevallen waarin gedurende het terugkeertraject door de DT&V wordt geconstateerd dat, ondanks de bereidwilligheid van de vreemdeling om mee te werken aan de eigen terugkeer, het niet lukt om de benodigde reisdocumenten ten behoeve van de terugkeer te verkrijgen.
+
+### 3.4.5. Aard van het verblijfsrecht
 
 ### 3.4.5. Aard van het verblijfsrecht
 
@@ -9153,15 +9153,15 @@ De verblijfsvergunning regulier onder een beperking verband houdend met verblijf
 
 Deze contra-indicatie heeft voor het driejarenbeleid geen absoluut karakter in die zin dat altijd een verblijfsvergunning zal worden onthouden. Als de vreemdeling, na confrontatie met de bevindingen van de Minister (bijvoorbeeld op grond van een onderzoek van de Minister van BuZa) toegeeft dat hij op relevante (essentiële) onderdelen van zijn asielrelaas onjuiste gegevens heeft verstrekt, kan hij vanaf dat moment relevant tijdsverloop in de zin van het driejarenbeleid opbouwen. Dat geldt niet voor zaken waarin de vreemdeling de resultaten van het onderzoek betwist en vervolgens (op dit onderdeel van de procedure) in het ongelijk wordt gesteld. In dat geval blijft de vreemdeling in feite onjuiste gegevens verstrekken en staat dit (nog steeds) in de weg aan het opbouwen van relevant tijdsverloop.
 
-Uit het gedrag van de vreemdeling moet blijken dat hij kennelijk geen belang meer hecht aan de beslissing op zijn oorspronkelijke aanvraag door (bijvoorbeeld) zijn adres met onbekende bestemming te verlaten of geen contact meer te houden met de bevoegde autoriteiten. Overigens geldt als voorwaarde voor toepassing van deze afwijzingsgrond niet dat de vreemdeling een meldplicht had. De tijd die verstreken is voordat de vreemdeling met onbekende bestemming vertrok, telt niet mee voor het berekenen van de relevante termijn. Pas op het moment dat de vreemdeling zich weer bij de bevoegde autoriteiten meldt, gaat er een nieuwe termijn lopen.
+De verblijfsvergunning wordt verleend onder de beperking ‘verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken’. De arbeidsmarktaantekening luidt: ‘arbeid uitsluitend toegestaan indien de werkgever beschikt over een TWV’.
 
-### 8.1. Wijziging van werkgever
-
-Deze grond is bijvoorbeeld van toepassing indien de vreemdeling zich heeft bediend van verschillende personalia (pseudoniemen) en ten aanzien van geen van deze personalia authentieke documenten heeft overgelegd. Ook hier heeft de vreemdeling het zelf in de hand om aan de twijfel een einde te maken, en zolang hij dat niet doet, levert de verstreken tijd in de procedure geen relevante termijn voor het driejarenbeleid op.
+### 3.5.2. Ingangsdatum van de verblijfsvergunning
 
 De verblijfsvergunning wordt verleend met ingang van de dag waarop de vreemdeling voor het eerst heeft voldaan aan de hierboven weergegeven voorwaarden voor verlening, maar niet eerder dan de datum waarop de (asiel)aanvraag is ingediend.
 
-Ingevolge het bepaalde in [artikel 3.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6), zoals dat luidde vóór 15 mei 2004, kon een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) ambtshalve worden verleend onder een beperking verband houdend met het feit dat na drie jaren niet onherroepelijk is beslist op een asielaanvraag.
+De verblijfsvergunning wordt verleend met ingang van de dag waarop de vreemdeling voor het eerst heeft voldaan aan de hierboven weergegeven voorwaarden voor verlening, maar niet eerder dan de datum waarop de (asiel)aanvraag is ingediend.
+
+De verblijfsvergunning wordt verleend voor de duur van een jaar.
 
 De verblijfsvergunning wordt verleend voor de duur van een jaar.
 
@@ -9169,19 +9169,19 @@ De verblijfsvergunning wordt verleend voor de duur van een jaar.
 
 De bepalingen van B2 zijn van toepassing.
 
-Indien de vreemdeling herziening vraagt van de uitspraak in (hoger) beroep wordt evenmin tijdsverloop opgebouwd vanaf de datum waarop het verzoekschrift wordt ontvangen, tenzij het verzoek om herziening wordt toegewezen en het (hoger) beroep alsnog gegrond wordt verklaard met een (partiële) vernietiging van de beslissing zonder instandhouding van de rechtsgevolgen ervan.
+De in Nederland verblijvende (huwelijks)partner alsmede het/ de tot het gezin behorende kind(eren) dat/ die afhankelijk is/ zijn van een vreemdeling aan wie in verband met medische gronden een verblijfsvergunning op grond van het buiten schuld beleid is verleend, respectievelijk de verzorgende ouder(s), kunnen in deze situatie met toepassing van [artikel 3.71, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71) worden vrijgesteld van het mvv-vereiste wanneer zij een verblijfsaanvraag indienen.
 
 De in Nederland verblijvende (huwelijks)partner alsmede het/ de tot het gezin behorende kind(eren) dat/ die afhankelijk is/ zijn van een vreemdeling aan wie in verband met medische gronden een verblijfsvergunning op grond van het buiten schuld beleid is verleend, respectievelijk de verzorgende ouder(s), kunnen in deze situatie met toepassing van [artikel 3.71, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71) worden vrijgesteld van het mvv-vereiste wanneer zij een verblijfsaanvraag indienen.
 
-Indien de vreemdeling beroep heeft ingesteld, eindigt de termijn, behoudens een gegrondverklaring van het beroep met een (partiële) vernietiging van de beslissing zonder instandhouding van de rechtsgevolgen ervan in het geval de vreemdeling de procedure niet in Nederland mocht afwachten, op de datum van de uitspraak, tenzij binnen de daarvoor gestelde termijn hoger beroep tegen de uitspraak wordt ingesteld.
+De geldigheidsduur kan tweemaal met een jaar worden verlengd, indien de vreemdeling nog voldoet aan de voorwaarden voor verlening.
 
 De geldigheidsduur kan tweemaal met een jaar worden verlengd, indien de vreemdeling nog voldoet aan de voorwaarden voor verlening.
 
-Indien de vreemdeling herziening vraagt van de uitspraak in (hoger) beroep wordt evenmin tijdsverloop opgebouwd vanaf de datum waarop het verzoekschrift wordt ontvangen, tenzij het verzoek om herziening wordt toegewezen en het (hoger) beroep alsnog gegrond wordt verklaard met een (partiële) vernietiging van de beslissing zonder instandhouding van de rechtsgevolgen ervan.
+Indien gedurende de looptijd van in totaal drie jaar nieuwe informatie beschikbaar komt, waaruit blijkt dat de vreemdeling zich redelijkerwijs alsnog kan begeven naar zijn land van herkomst of een ander land, dient tot intrekking of niet-verlenging van de geldigheidsduur van de verblijfsvergunning te worden overgegaan.
 
 Indien gedurende de looptijd van in totaal drie jaar nieuwe informatie beschikbaar komt, waaruit blijkt dat de vreemdeling zich redelijkerwijs alsnog kan begeven naar zijn land van herkomst of een ander land, dient tot intrekking of niet-verlenging van de geldigheidsduur van de verblijfsvergunning te worden overgegaan.
 
-Bij het berekenen van de termijn worden bepaalde perioden buiten beschouwing gelaten. Het betreft de volgende perioden, waarin:
+De voorwaarden voor verlening van een zelfstandige verblijfsvergunning regulier onder de beperking ‘voortgezet verblijf’, als bedoeld in de [artikelen 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) en [3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52), zijn uitgewerkt in B16/6.
 
 De voorwaarden voor verlening van een zelfstandige verblijfsvergunning regulier onder de beperking ‘voortgezet verblijf’, als bedoeld in de [artikelen 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) en [3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52), zijn uitgewerkt in B16/6.
 
@@ -9189,47 +9189,45 @@ De verlening van een verblijfsvergunning asiel houdt in dat de vreemdeling heeft
 
 ### 4.1. Inleiding
 
-Met ingang van 1 januari 2003 is het driejarenbeleid afgeschaft, onder handhaving van het bestaande beleid als overgangsrecht voor aanvragen die op dat moment drie jaar oud waren. Een aanspraak op het driejarenbeleid ontstaat pas op het moment dat de driejarentermijn is vol gemaakt. Aanvragen, ontvangen op 1 januari 2000 of latere datum, komen dus niet op grond van het driejarenbeleid in aanmerking voor inwilliging.
-
 Voor aanvragen, ontvangen vóór 1 januari 2000, blijft het driejarenbeleid wel gelden met dien verstande dat na 1 januari 2003 geen relevante tijd meer wordt opgebouwd.
 
 Het driejarenbeleid is een bijzonder beleid binnen het vreemdelingenbeleid. Het enkele tijdsverloop in een procedure omtrent een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd asiel als bedoeld in artikel 28 Vw is geen reden om tot verblijfsaanvaarding over te gaan. Het driejarenbeleid heeft zich gevormd vanuit de volgende overweging: als gevolg van het tijdsverloop in een verblijfsrechtelijke procedure kan, onder omstandigheden, enerzijds bij de vreemdeling de gedachte opkomen dat de Minister in zijn verblijf in Nederland zal berusten en kan anderzijds de Minister in redelijkheid niet meer gebruikmaken van zijn bevoegdheid de vreemdeling verblijf te weigeren.
 
-### 10.3. Beperkingen, arbeidsmarktaantekeningen en voorschriften
+Toetsing aan het driejarenbeleid komt pas aan de orde als de individuele situatie van de aanvrager geen aanleiding geeft om de gevraagde verblijfsvergunning te verlenen. De termijn van drie jaar wordt alleen aan de asielaanvraag gekoppeld. De lange duur van de procedure moet voornamelijk of uitsluitend terug te voeren zijn op effecten van bestuurlijk beleid, dat wil zeggen dat de vreemdeling niet of nauwelijks invloed heeft gehad op het verloop van de procedure. In dat verband is van belang dat de vreemdeling geen handelingen heeft verricht die het bestuursorgaan of de rechter noodzaken tot het uitstellen van de beslissing (traineren). Daarbij kan gedacht worden aan het (telkenmale) aandragen van informatie die moet worden onderzocht (zie B14/4.4 over de berekening van de termijn).
 
-Indien de vreemdeling verzet doet tegen de uitspraak in (hoger) beroep wordt geen tijdsverloop opgebouwd vanaf de datum waarop het verzetschrift ontvangen is, tenzij het verzet gegrond wordt verklaard en het (hoger) beroep vervolgens alsnog gegrond wordt verklaard met een (partiële) vernietiging van de beslissing zonder instandhouding van de rechtsgevolgen ervan.
+### 4.2. Voorwaarden voor verlening van de verblijfsvergunning
 
 Ingevolge het bepaalde in [artikel 3.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6), zoals dat luidde vóór 15 mei 2004, kon een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) ambtshalve worden verleend onder een beperking verband houdend met het feit dat na drie jaren niet onherroepelijk is beslist op een asielaanvraag.
 
-### 4.4.3. Onderbrekingen van de termijn
+Indien de asielaanvraag is ontvangen vóór 1 januari 2000 kan de verblijfsvergunning nog op grond van deze bepaling worden verleend indien aan de volgende voorwaarden is voldaan:
 
 ### 4.3. Contra-indicaties
 
-Er gelden de volgende contra-indicaties:
+### 4.3. Contra-indicaties
 
 Voor de toepassing van deze grond is het tijdstip van het plegen van het delict van belang. Indien tijdens de driejarentermijn een strafbaar feit is gepleegd, terzake waarvan een serieuze verdenking is ontstaan (het gaat dan om een misdrijf), dan wordt aangenomen dat hij een gevaar vormt voor de openbare orde, tenzij de strafzaak is afgerond zonder veroordeling (sepot, vrijspraak of ontslag van rechtsvervolging). Ook als een transactie heeft plaatsgevonden dan wel een strafbeschikking is uitgevaardigd of als de strafzaak nog niet is afgerond, is er sprake van deze contra-indicatie. Is het delict gepleegd voorafgaand aan de asielaanvraag, of na het verstrijken van de driejarentermijn, dan wordt aansluiting gezocht bij het algemene beleid inzake de weigering van verblijf bij gevaar voor de openbare orde of de nationale veiligheid (zie B1/4.4), aangezien het driejarenbeleid ziet op de verlening van een verblijfsvergunning regulier voor bepaalde tijd (zie B1/4.10). Is het delict gepleegd op een moment dat er reeds drie jaar en zes maanden (de normale beslistermijn plus de driejarentermijn) verstreken zijn, dan wordt getoetst aan de glijdende schaal (zie B1/5.3.6).
 
+Zie [C4/2.5](onbekend) voor toepassing van deze grond.
+
 ### 5.2. Voorwaarden voor de verblijfsvergunning
 
-Deze contra-indicatie heeft voor het driejarenbeleid geen absoluut karakter in die zin dat altijd een verblijfsvergunning zal worden onthouden. Als de vreemdeling, na confrontatie met de bevindingen van de Minister (bijvoorbeeld op grond van een onderzoek van de Minister van BuZa) toegeeft dat hij op relevante (essentiële) onderdelen van zijn asielrelaas onjuiste gegevens heeft verstrekt, kan hij vanaf dat moment relevant tijdsverloop in de zin van het driejarenbeleid opbouwen. Dat geldt niet voor zaken waarin de vreemdeling de resultaten van het onderzoek betwist en vervolgens (op dit onderdeel van de procedure) in het ongelijk wordt gesteld. In dat geval blijft de vreemdeling in feite onjuiste gegevens verstrekken en staat dit (nog steeds) in de weg aan het opbouwen van relevant tijdsverloop.
+Uit het gedrag van de vreemdeling moet blijken dat hij kennelijk geen belang meer hecht aan de beslissing op zijn oorspronkelijke aanvraag door (bijvoorbeeld) zijn adres met onbekende bestemming te verlaten of geen contact meer te houden met de bevoegde autoriteiten. Overigens geldt als voorwaarde voor toepassing van deze afwijzingsgrond niet dat de vreemdeling een meldplicht had. De tijd die verstreken is voordat de vreemdeling met onbekende bestemming vertrok, telt niet mee voor het berekenen van de relevante termijn. Pas op het moment dat de vreemdeling zich weer bij de bevoegde autoriteiten meldt, gaat er een nieuwe termijn lopen.
 
 ### 5.1. Algemeen
 
-Gelet op de systematiek van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) is het voeren van een procedure in een ander land in het algemeen een afwijzingsgrond voor de asielaanvraag. Zolang de procedure in het andere land nog niet is afgerond, neemt de relevante periode voor het driejarenbeleid nog geen aanvang. De reden hiervoor is dat de vreemdeling het in eigen hand heeft om een van de procedures te beëindigen. Zaken waarin wordt geprocedeerd over de vaststelling van de verantwoordelijkheid van een ander land voor de asielaanvraag (op grond van [artikel 30, eerste lid, onder a of d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30)) leveren geen relevante periode op voor het driejarenbeleid, omdat dan door het aanwenden van rechtsmiddelen de verantwoordelijkheid automatisch op Nederland zou overgaan, hetgeen niet in overeenstemming is met het karakter van de onderliggende procedure. In het geval de rechter heeft vastgesteld dat Nederland wel de asielaanvraag moet behandelen, en dus af moet zien van een overdracht van de verantwoordelijkheid voor de asielaanvraag, telt de gehele aan die uitspraak voorafgaande procedure mee voor de bepaling van de termijn.
+Deze grond is bijvoorbeeld van toepassing indien de vreemdeling zich heeft bediend van verschillende personalia (pseudoniemen) en ten aanzien van geen van deze personalia authentieke documenten heeft overgelegd. Ook hier heeft de vreemdeling het zelf in de hand om aan de twijfel een einde te maken, en zolang hij dat niet doet, levert de verstreken tijd in de procedure geen relevante termijn voor het driejarenbeleid op.
 
-### 5.2. Voorwaarden voor de verblijfsvergunning
+### 4.4. Berekening termijn
 
 Op grond van deze regeling wordt een vergunning gegeven aan de vreemdeling:
 
 ### 4.4.1. Aanvang termijn
 
-De termijn gaat lopen vanaf de datum van ontvangst van de asielaanvraag door middel van het formulier als bedoeld in [artikel 3.108 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.108) (zie [C11/1.1.1](onbekend)).
-
 De dag van ontvangst van de aanvraag telt dus mee bij de berekening van de termijn.
 
-### 5.3. Contra-indicaties
+Voor de toepassing van dit beleid wordt een bezwaarschrift of een beroepschrift (indien geen bezwaar mogelijk was) tegen de intrekking van een verblijfsvergunning gelijkgesteld met een aanvraag om verlenging van de geldigheidsduur van deze vergunning. In deze gevallen gaat de termijn lopen vanaf de datum van ontvangst van het rechtsmiddel. Let wel, deze procedure staat los van de procedure omtrent de aanvraag van de verblijfsvergunning. Het tijdsverloop van de oorspronkelijke procedure mag niet worden opgeteld bij het tijdsverloop van de intrekkingprocedure.
 
-De verblijfsvergunning wordt niet verleend indien de vreemdeling na 1 april 2001 aantoonbaar is vertrokken uit Nederland. Aantoonbaar vertrek uit Nederland kan onder andere blijken uit een claim ten aanzien van de vreemdeling van een andere EU-lidstaat op Nederland. Voorts kan het vertrek blijken uit een gecontroleerd vertrek (zoals uitzetting of door IOM gefaciliteerd vertrek), een Dublinoverdracht, of anderszins.
+### 4.4.2. Einde termijn
 
 Er wordt geen tijdsverloop meer opgebouwd vanaf de datum waarop de beslissing rechtens onaantastbaar wordt. Daarvan zal in beginsel sprake zijn vier weken na de datum waarop de beslissing, met inachtneming van de [artikelen 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40) en [3:41 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41) in werking treedt, als de vreemdeling tenminste binnen de daarvoor gestelde termijn geen beroep heeft ingesteld tegen deze beslissing.
 
@@ -9237,9 +9235,9 @@ Indien de vreemdeling beroep heeft ingesteld, eindigt de termijn, behoudens een 
 
 Indien de vreemdeling verzet doet tegen de uitspraak in (hoger) beroep wordt geen tijdsverloop opgebouwd vanaf de datum waarop het verzetschrift ontvangen is, tenzij het verzet gegrond wordt verklaard en het (hoger) beroep vervolgens alsnog gegrond wordt verklaard met een (partiële) vernietiging van de beslissing zonder instandhouding van de rechtsgevolgen ervan.
 
-### 5.3.1. Openbare orde
+Indien de vreemdeling herziening vraagt van de uitspraak in (hoger) beroep wordt evenmin tijdsverloop opgebouwd vanaf de datum waarop het verzoekschrift wordt ontvangen, tenzij het verzoek om herziening wordt toegewezen en het (hoger) beroep alsnog gegrond wordt verklaard met een (partiële) vernietiging van de beslissing zonder instandhouding van de rechtsgevolgen ervan.
 
-De verblijfsvergunning op grond van de regeling wordt, in afwijking van het beleid in B1/4.4, niet verleend indien de vreemdeling een gevaar vormt voor de openbare orde. Dit is het geval indien:
+### 4.4.3. Onderbrekingen van de termijn
 
 Bij het berekenen van de termijn worden bepaalde perioden buiten beschouwing gelaten. Het betreft de volgende perioden, waarin:
 
@@ -9255,19 +9253,21 @@ Het besluitmoratorium kan in een individueel geval nooit langer zijn dan een jaa
 
 In onderdeel d is bepaald dat indien de vreemdeling gegevens of bescheiden heeft overgelegd waarnaar onderzoek heeft moeten plaatsvinden, terwijl achteraf blijkt dat die in redelijkheid niet tot inwilliging van de aanvraag zouden hebben kunnen leiden, deze periode niet meetelt voor de opbouw van de driejarentermijn. De noodzaak tot het verrichten van onderzoek wordt dan beschouwd als voort te vloeien uit een handeling van de vreemdeling, waardoor de extra proceduretijd die met het onderzoek gemoeid is voor rekening van de vreemdeling komt.
 
-### 3.2. Drie jaar verblijf verruimde gezinshereniging of ouderenbeleid
+Indien het onderzoek redelijkerwijs tot inwilliging van de aanvraag kan leiden, bestaat er geen aanleiding om de termijn van het onderzoek aan de vreemdeling toe te rekenen. In die gevallen zal de gevraagde vergunning in het algemeen worden verleend en is reeds daarom het driejarenbeleid niet van toepassing.
 
-Een uitzondering wordt gevormd door de vreemdelingen die vóór 1 april 2001 een asielaanvraag in Nederland hebben ingediend en nadien in het bezit zijn gesteld van een verblijfsvergunning asiel voor bepaalde tijd op grond van een beleid van categoriale bescherming dan wel een verblijfsvergunning regulier voor bepaalde tijd onder de beperkingen ‘verblijf vanwege medische noodsituatie’ (zie B8/3), ‘onder beperking als genoemd in de Vc, B9’ (zie B9), ‘verblijf als alleenstaande minderjarige vreemdeling’ (zie B14/2) of ‘verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken’ (zie B14/3).
+### 4.5. Aard van de verblijfsvergunning
+
+Op grond van [artikel 3.61 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.61) (zoals dat luidde vóór 15 mei 2004) kon de verblijfsvergunning onder een beperking verband houdend met het feit dat na drie jaren niet onherroepelijk is beslist op een asielaanvraag, worden verleend voor vijf jaren. De verblijfsvergunning kon op grond van [artikel 3.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.61) (zoals dat luidde vóór 15 mei 2004) ambtshalve worden verleend. Beide bepaling worden nog toegepast in die gevallen waarin op grond van het overgangsrecht een verblijfsvergunning op grond van het driejarenbeleid wordt verleend.
 
 ### 5.3.1. Openbare orde
 
-Het ontbreken van geldig grensoverschrijdingdocument wordt niet tegengeworpen. De verblijfsvergunning behelst naar zijn aard een niet-tijdelijk doel en kan dan ook uiteindelijk aanspraken op een vergunning voor onbepaalde tijd regulier als bedoeld in [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) opleveren.
+In de toelichting op [artikel 3.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) werd aangegeven dat in het geval de in dit artikel bedoelde vergunning niet ambtshalve wordt verleend en de vreemdeling zich daar niet mee kan verenigen, deze de eventuele gronden tegen de niet-verlening van de hier bedoelde verblijfsvergunning bij voorkeur in beroep tegen de afwijzing van de asielaanvraag aanvoert. Dit is van belang voor de voortgang van de verblijfsrechtelijke procedure en de samenhang met de asielprocedure.
 
-### 3.3. Overlijden van de hoofdpersoon
-
-Een uitzondering wordt gevormd door de vreemdelingen die vóór 1 april 2001 een asielaanvraag in Nederland hebben ingediend en nadien in het bezit zijn gesteld van een verblijfsvergunning asiel voor bepaalde tijd op grond van een beleid van categoriale bescherming dan wel een verblijfsvergunning regulier voor bepaalde tijd onder de beperkingen ‘verblijf vanwege medische noodsituatie’ (zie B8/3), ‘onder beperking als genoemd in de Vc, B9’ (zie B9), ‘verblijf als alleenstaande minderjarige vreemdeling’ (zie B14/2) of ‘verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken’ (zie B14/3).
+### 4.6. Beperking en arbeidsmarktaantekeningen
 
 De verblijfsvergunning wordt verleend onder de beperking ‘tijdsverloop in de asielprocedure’.
+
+De arbeidsmarktaantekening luidt: ‘arbeid vrij toegestaan; TWV niet vereist’.
 
 De arbeidsmarktaantekening luidt: ‘arbeid vrij toegestaan; TWV niet vereist’.
 
@@ -9275,35 +9275,35 @@ De verblijfsvergunning op grond van de regeling wordt niet verleend aan vreemdel
 
 Een eventuele strafrechtelijke veroordeling vanwege het naar voren brengen van onjuiste identiteitsgegevens, staat in deze gevallen niet aan vergunningverlening op grond van de regeling in de weg.
 
-### 5.2. Voorwaarden voor de verblijfsvergunning
-
 ### 5.3. Contra-indicaties
+
+### 5.3.1. Openbare orde
 
 Op grond van deze regeling wordt een vergunning gegeven aan de vreemdeling:
 
 Ononderbroken verblijf sinds 1 april 2001 wordt slechts aangenomen indien:
 
-### 5.3.3. De vreemdeling is reeds houder verblijfsvergunning
+### 5.3.4. De vreemdeling is EU/EER-onderdaan
 
 Is dat niet het geval, dan dient het ononderbroken verblijf te blijken uit een verklaring van de burgemeester van de gemeente waar de vreemdeling feitelijk verblijft. In deze verklaring dient te worden bevestigd dat de vreemdeling aantoonbaar ononderbroken sinds 1 januari 2006 – of sinds enig moment voor 13 december 2006 aansluitend op zijn uitstroom uit het project Terugkeer – in het kader van noodopvang in die gemeente heeft verbleven. Indien de vreemdeling in verschillende gemeenten heeft verbleven, omvat de burgemeestersverklaring tevens het verblijf in de andere gemeenten.
 
-### 5.3.5. Twijfel omtrent identiteit of nationaliteit
+### 5.4. Procedurele bepalingen
 
 De verblijfsvergunning wordt niet verleend indien de vreemdeling na 1 april 2001 aantoonbaar is vertrokken uit Nederland. Aantoonbaar vertrek uit Nederland kan onder andere blijken uit een claim ten aanzien van de vreemdeling van een andere EU-lidstaat op Nederland. Voorts kan het vertrek blijken uit een gecontroleerd vertrek (zoals uitzetting of door IOM gefaciliteerd vertrek), een Dublinoverdracht, of anderszins.
 
-### 5.5. Aard van het verblijfsrecht
+### 5.6. De verlening van de verblijfsvergunning
 
 Het doel van deze regeling is om de nalatenschap van de oude Vreemdelingenwet snel en adequaat af te wikkelen, waarbij de capaciteit van de IND zo efficient mogelijk wordt ingezet ter voorkoming van overbelasting. Hieruit vloeit voort dat vooraf schriftelijk dient te worden aangegeven dat lopende procedures onvoorwaardelijk worden ingetrokken bij verblijfsaanvaarding op grond van de regeling. Er zal daarbij geen restitutie van eventueel reeds betaalde leges of griffierechten plaatsvinden.
 
-### 5.6.1. Beperking en arbeidsmarktaantekening
+### 5.6.2. Ingangsdatum van de verblijfsvergunning
 
 Aan vreemdelingen die in verschillende procedures verschillende identiteiten of nationaliteiten hebben opgegeven waarvan in rechte is vastgesteld dat hieraan geen geloof kan worden gehecht, wordt geen verblijf op grond van deze regeling verleend.
 
-### 5.6.3. Geldigheidsduur
+### 5.7. Gezinshereniging en -vorming
 
 Bij de berekening of er sprake is van een straf of maatregel van ten minste één maand, worden meerdere veroordelingen bij elkaar opgeteld. Het is niet vereist dat de uitspraak waarbij de vreemdeling is veroordeeld wegens een misdrijf onherroepelijk is geworden.
 
-### 5.8. Intrekking en niet-verlenging van de verblijfsvergunning
+### 5.9. De zelfstandige verblijfsvergunning voor voortgezet verblijf
 
 Strafbare feiten die in het buitenland zijn gepleegd of bestraft, worden eveneens bij de beoordeling van het gevaar voor de openbare orde betrokken, doch slechts voor zover het gaat om strafbare feiten die naar Nederlands recht misdrijven zijn. Dat geldt ook indien het strafbare feit naar buitenlands recht een overtreding, maar naar Nederlands recht een misdrijf is. Of het feit naar Nederlands recht een misdrijf is, wordt beoordeeld aan de hand van de strafbepalingen in het [WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) of de bijzondere Nederlandse strafwetten.
 
@@ -9311,23 +9311,23 @@ In die gevallen dat sprake is van een lopend onderzoek naar gedragingen als bedo
 
 ### 1. Inleiding
 
-Dit hoofdstuk regelt het verblijf van vreemdelingen die als kennismigrant een bijdrage leveren aan de Nederlandse kenniseconomie. Het betreft dus vreemdelingen die verblijf als kennismigrant beogen dan wel in het bezit zijn van een verblijfsvergunning onder de beperking ‘verblijf als kennismigrant’. Vreemdelingen die arbeid in loondienst, anders dan als kennismigrant, of arbeid als zelfstandige verrichten, vallen onder het bepaalde in B5.
+In aanvulling op de algemene voorwaarden voor de verlening van een verblijfsvergunning voor bepaalde tijd genoemd in B1/4, gelden voor de verlening van een verblijfsvergunning onder de beperking ‘verblijf als kennismigrant’ de in dit hoofdstuk neergelegde bijzondere voorwaarden, zoals het overleggen van een verklaring door de werkgever (zie B15/4.1) en het voldoen aan het looncriterium (zie B15/5.1).
 
 In aanvulling op de algemene voorwaarden voor de verlening van een verblijfsvergunning voor bepaalde tijd genoemd in B1/4, gelden voor de verlening van een verblijfsvergunning onder de beperking ‘verblijf als kennismigrant’ de in dit hoofdstuk neergelegde bijzondere voorwaarden, zoals het overleggen van een verklaring door de werkgever (zie B15/4.1) en het voldoen aan het looncriterium (zie B15/5.1).
 
-Voor de beoordeling of sprake is van verjaring met het oog op deze regeling is 13 december 2006 het bepalende toetsmoment. Indien na deze datum sprake is van verjaring in het kader van de openbare orde zal daaruit geen aanspraak kunnen voortvloeien in het kader van deze regeling.
+Het verbod om vreemdelingen zonder TWV te werk te stellen is op grond van [artikel 1d van het Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1d) niet van toepassing op de tewerkstelling van kennismigranten. De kennismigranten wier werkgevers ingevolge [artikel 1d van het Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1d) niet langer hoeven te beschikken over een TWV, kunnen voor de duur van maximaal vijf achtereenvolgende jaren in aanmerking komen voor een verblijfsvergunning regulier voor bepaalde tijd onder een beperking verband houdend met verblijf als kennismigrant. Deze beperking is opgenomen in [artikel 3.4, eerste lid, onder y, van het Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4).
 
 Het verbod om vreemdelingen zonder TWV te werk te stellen is op grond van [artikel 1d van het Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1d) niet van toepassing op de tewerkstelling van kennismigranten. De kennismigranten wier werkgevers ingevolge [artikel 1d van het Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1d) niet langer hoeven te beschikken over een TWV, kunnen voor de duur van maximaal vijf achtereenvolgende jaren in aanmerking komen voor een verblijfsvergunning regulier voor bepaalde tijd onder een beperking verband houdend met verblijf als kennismigrant. Deze beperking is opgenomen in [artikel 3.4, eerste lid, onder y, van het Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4).
 
-De verblijfsvergunning wordt niet verleend indien de vreemdeling een gevaar vormt voor de nationale veiligheid. Hiervoor is geen strafrechtelijke veroordeling vereist. Wel dienen er concrete aanwijzingen te zijn dat de vreemdeling een gevaar vormt voor de nationale veiligheid. Bij het bestaan van concrete aanwijzingen dient in de eerste plaats te worden gedacht aan een ambtsbericht van de AIVD. In voorkomende gevallen kan echter ook worden uitgegaan van een ambtsbericht van onder andere (buitenlandse) ministeries of inlichtingendiensten.
-
 Voor de definiëring van kennismigranten is in het [Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523) gekozen voor een éénduidig en objectief criterium, namelijk het looncriterium (zie B15/5.1).
+
+Voor bijzondere bepalingen met betrekking tot het looncriterium voor kennismigranten jonger dan dertig jaar wordt verwezen naar B15/5.1. Deze categorie blijft ook na hun dertigste jaar kennismigrant, zolang de kennismigrant in dienst is van dezelfde werkgever en hij een bruto jaarloon verdient, dat tenminste gelijk is aan het geldende looncriterium voor kennismigranten jonger dan dertig jaar.
 
 ### 5.2. Zelfstandige, voldoende en duurzame middelen
 
 ### 5.9. De zelfstandige verblijfsvergunning voor voortgezet verblijf
 
-Tevens worden aangemerkt als kennismigrant vreemdelingen die in Nederland worden tewerkgesteld in het kader van het doen van wetenschappelijk onderzoek in dienst van een bekostigde of aangewezen onderwijsinstelling of een van overheidswege direct of indirect, geheel of gedeeltelijk bekostigde of gesubsidieerde onderzoeksinstelling, of als arts in opleiding tot specialist bij een door de Medisch Specialisten Registratie Commissie, de Sociaal-Geneeskundigen registratie Commissie of de Huisarts en Verpleeghuisarts Registratie Commissie aangewezen opleidingsinstituut. Voor hen geldt geen looncriterium.
+Uitgezonderd van verblijf als kennismigrant zijn beroepssporters in het betaalde voetbal, geestelijke voorgangers en godsdienstleraren, en vreemdelingen die werkzaamheden verrichten die geheel of ten dele bestaan uit het verrichten van seksuele handelingen met derden of voor derden.
 
 ### 5.3.4. De vreemdeling is EU/EER-onderdaan
 
@@ -9341,19 +9341,17 @@ De toelatingsprocedure met betrekking tot de kennismigranten behelst een versnel
 
 ### 1. Inleiding
 
-Om in aanmerking te komen voor de versnelde procedure voor toelating van kennismigranten, dient de werkgever een volledig ingevulde en ondertekende verklaring (zie [bijlage 12a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a)) in te dienen bij de IND. Het gaat hier om de verklaring, bedoeld in [artikel 1d Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1d).
+In deze verklaring geeft de werkgever garanties met betrekking tot onder meer de volledigheid van het verzoek om advies in verband met de afgifte van een mvv of de aanvraag om een verblijfsvergunning die hij ten behoeve van of namens de kennismigrant indient, het voldoen aan de voorwaarden voor verblijf als kennismigrant door de vreemdeling en het niet ten koste komen van de Nederlandse Staat van het verblijf van kennismigranten. Daarnaast neemt de werkgever de verplichting op zich de IND te informeren zodra de situatie van de werknemer zich wijzigt. Doordat de werkgever een aantal verplichtingen op zich neemt, wordt de IND in staat gesteld de aanvragen om verblijf als kennismigrant via een versnelde procedure af te doen.
 
 ### 4. Na medische behandeling
-
-Nu de IND zich verplicht tot een versnelde procedure, is het voor de IND van belang om vast te stellen of het aannemelijk is dat de werkgever de verplichtingen die hij in de verklaring (zie [artikel 3.25a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.25a)) aangaat, ook daadwerkelijk zal (kunnen) nakomen. Daarom dient de werkgever bij de verklaring steeds de volgende stukken te overleggen:
 
 Als de werkgever verzuimt deze stukken samen met de verklaring te overleggen, worden deze ten behoeve van een versnelde behandeling van verzoeken om advies of aanvragen van kennismigranten die de werkgever in dienst wil nemen, alsnog overgelegd bij het eerste verzoek om advies in verband met de afgifte van een mvv of bij de eerste aanvraag ter verlening van een verblijfsvergunning. De – alsnog – overgelegde stukken worden bij de beoordeling van het verzoek om advies of de verblijfsaanvraag betrokken.
 
 Als de stukken niet of niet volledig zijn overgelegd dan wel de inhoud van de stukken daartoe aanleiding geeft, kan de IND nader onderzoek (laten) doen naar de werkgever. De gebruikelijke behandeltermijn van twee weken is in het geval van nader onderzoek niet van toepassing.
 
-### 4. De procedurele aspecten
+Van startende ondernemingen kan niet worden verwacht dat zij een verklaring omtrent betalingsgedrag, afgegeven door de Belastingdienst, overleggen, aangezien het bedrijf nog geen (belasting) verleden in Nederland heeft. Verblijf als kennismigrant bij startende ondernemingen is evenwel mogelijk in de navolgende situaties en onder de daarbij genoemde voorwaarden. Verblijf als kennismigrant kan worden toegestaan bij:
 
-Bij vreemdelingen die een bedrijf uitoefenen op grond van een verblijfsvergunning voor het verrichten van arbeid als zelfstandige, kan verblijf als kennismigrant worden toegestaan. In het geval het bedrijf van deze vreemdeling een startende onderneming is, gelden voor wat betreft verblijf van vreemdelingen als kennismigrant bij dat bedrijf, de hierboven genoemde voorwaarden die van toepassing zijn op startende ondernemingen.
+### 4. De procedurele aspecten
 
 De IND verstrekt een negatief advies aan de werkgever dan wel wijst de aanvraag tot het verlenen van een verblijfsvergunning af als niet aannemelijk is dat de werkgever de in de overgelegde verklaring neergelegde verplichtingen zal (kunnen) nakomen.
 
@@ -9363,11 +9361,11 @@ De verklaring dient elektronisch door de werkgever te worden ingevuld. De door d
 
 Als het loket kennis- en arbeidsmigratie van de IND de volledig ingevulde en ondertekende verklaring, vergezeld van de hierboven genoemde stukken heeft ontvangen, stuurt het loket de werkgever een ontvangstbevestiging. Als de te overleggen stukken geheel of gedeeltelijk ontbreken, wordt de werkgever erop gewezen dat de ontbrekende stukken alsnog in het kader van het eerste verzoek om advies in verband van de afgifte van een mvv dan wel de eerste verblijfsaanvraag dienen te worden overgelegd. Bij de ontvangstbevestiging krijgt de werkgever een toegangscode waarmee hij op de website van de IND toegang krijgt tot:
 
+Als het loket kennis- en arbeidsmigratie van de IND de volledig ingevulde en ondertekende verklaring, vergezeld van de hierboven genoemde stukken heeft ontvangen, stuurt het loket de werkgever een ontvangstbevestiging. Als de te overleggen stukken geheel of gedeeltelijk ontbreken, wordt de werkgever erop gewezen dat de ontbrekende stukken alsnog in het kader van het eerste verzoek om advies in verband van de afgifte van een mvv dan wel de eerste verblijfsaanvraag dienen te worden overgelegd. Bij de ontvangstbevestiging krijgt de werkgever een toegangscode waarmee hij op de website van de IND toegang krijgt tot:
+
 ### 4.2. Verzoek om advies
 
 ### 5.6.2. Ingangsdatum van de verblijfsvergunning
-
-Voorafgaande aan de indiening van de aanvraag om een mvv bij de Nederlandse diplomatieke of consulaire vertegenwoordiging in het buitenland dient de werkgever in Nederland door middel van het formulier ‘Verzoek om advies in verband met afgifte mvv kennismigrant’ te verzoeken om een advies in verband met het voornemen van de kennismigrant om een mvv aan te vragen in het buitenland.
 
 Het aanvraagformulier ‘Verzoek om advies in verband met afgifte mvv kennismigrant’ wordt door het hoofd IND vastgesteld en wordt alleen via de website van de IND (en wel op de kennismigrantenmodule) ter beschikking gesteld.
 
@@ -9379,13 +9377,13 @@ De werkgever kan namens de gezinsleden, te weten de echtgeno(o)te of (geregistre
 
 De werkgever kan namens de gezinsleden te weten de echtgeno(o)te of (geregistreerd) partner van de kennismigrant en hun minderjarige kinderen, die verblijf in Nederland bij de kennismigrant beogen, verzoeken om afgifte van een mvv. In het geval de gezinsleden tegelijkertijd met de kennismigrant een verzoek om advies doen, dient gebruik gemaakt te worden van het formulier ‘Verzoek om advies in verband met afgifte mvv kennismigrant’. In het geval voor de gezinsleden niet gelijktijdig met de kennismigrant een verzoek om advies wordt ingediend, dient gebruik gemaakt te worden van de formulieren voor nareizende gezinsleden. De werkgever kan alleen ten behoeve van de echtgeno(o)t(e) of (geregistreerde) partner, alsmede ten behoeve van de minderjarige kinderen die feitelijk behoren tot het gezin, een verzoek om advies indienen. De algemene bepalingen, uitgezonderd de middelen van bestaan, van B1/4 en B2/2. B2/4 en B2/5 zijn van toepassing, tenzij navolgend anders is bepaald.
 
-Ingeval van gezinsvorming dient de echtgenoot of partner, conform B2/2.5, 21 jaar of ouder te zijn.
+De werkgever kan namens de gezinsleden te weten de echtgeno(o)te of (geregistreerd) partner van de kennismigrant en hun minderjarige kinderen, die verblijf in Nederland bij de kennismigrant beogen, verzoeken om afgifte van een mvv. In het geval de gezinsleden tegelijkertijd met de kennismigrant een verzoek om advies doen, dient gebruik gemaakt te worden van het formulier ‘Verzoek om advies in verband met afgifte mvv kennismigrant’. In het geval voor de gezinsleden niet gelijktijdig met de kennismigrant een verzoek om advies wordt ingediend, dient gebruik gemaakt te worden van de formulieren voor nareizende gezinsleden. De werkgever kan alleen ten behoeve van de echtgeno(o)t(e) of (geregistreerde) partner, alsmede ten behoeve van de minderjarige kinderen die feitelijk behoren tot het gezin, een verzoek om advies indienen. De algemene bepalingen, uitgezonderd de middelen van bestaan, van B1/4 en B2/2. B2/4 en B2/5 zijn van toepassing, tenzij navolgend anders is bepaald.
 
 De aanvraag tot verlening van een verblijfsvergunning als kennismigrant wordt door de vreemdeling in persoon dan wel schriftelijk, al of niet door tussenkomst van de werkgever, ingediend bij het Loket kennis- en arbeidsmigratie van de IND, en wel door middel van een aanvraagformulier:
 
-### 10. Studenten die hun opleiding in Nederland hebben voltooid
+Het verkrijgen van het aanvraagformulier
 
-Het aanvraagformulier kan worden verkregen via de website van de IND, en wel op de kennismigrantenmodule. Het aanvraagformulier dient elektronisch te worden ingevuld.
+### 10. Studenten die hun opleiding in Nederland hebben voltooid
 
 De werkgever dient het ingevulde en door de kennismigrant ondertekende aanvraagformulier (de printversie), vergezeld met de vereiste stukken, per post te verzenden naar het Loket kennis- en arbeidsmigratie van de IND.
 
@@ -9397,15 +9395,15 @@ Als de gezinsleden nareizen nadat de vreemdeling die verblijf als kennismigrant 
 
 De beslistermijn van twee weken is tevens van toepassing op aanvragen om wijziging van de beperking waaronder eerder een verblijfsvergunning regulier voor bepaalde tijd is verleend in de beperking ‘verblijf als kennismigrant’. Hierbij kan worden gedacht aan het geval dat een vreemdeling die in het bezit is van een verblijfsvergunning onder de beperking ‘arbeid in loondienst’, deze beperking wil wijzigen in de beperking ‘verblijf als kennismigrant’.
 
-Voorafgaande aan de indiening van de aanvraag om een mvv bij de Nederlandse diplomatieke of consulaire vertegenwoordiging in het buitenland dient de werkgever in Nederland door middel van het formulier ‘Verzoek om advies in verband met afgifte mvv kennismigrant’ te verzoeken om een advies in verband met het voornemen van de kennismigrant om een mvv aan te vragen in het buitenland.
+De beslistermijn van twee weken is tevens van toepassing op aanvragen om wijziging van de beperking waaronder eerder een verblijfsvergunning regulier voor bepaalde tijd is verleend in de beperking ‘verblijf als kennismigrant’. Hierbij kan worden gedacht aan het geval dat een vreemdeling die in het bezit is van een verblijfsvergunning onder de beperking ‘arbeid in loondienst’, deze beperking wil wijzigen in de beperking ‘verblijf als kennismigrant’.
 
-### 1. Inleiding
+Betaling van de door de betrokken vreemdeling(en) verschuldigde leges vindt plaats door de werkgever door middel van een machtiging tot automatische incasso. Deze machtiging wordt door de werkgever bij elke individuele aanvraag afgegeven. Ten behoeve van de automatische incasso geeft de werkgever een Nederlands bankrekeningnummer op. Als de werkgever geen machtiging tot automatische incasso afgeeft bij de aanvraag ontvangt de vreemdeling die verblijf als kennismigrant beoogt een factuur met een acceptgiro van KPMG ter betaling van de verschuldigde leges. De beslistermijn van twee weken is dan niet van toepassing.
 
-Dit hoofdstuk regelt het verblijf van vreemdelingen die als kennismigrant een bijdrage leveren aan de Nederlandse kenniseconomie. Het betreft dus vreemdelingen die verblijf als kennismigrant beogen dan wel in het bezit zijn van een verblijfsvergunning onder de beperking ‘verblijf als kennismigrant’. Vreemdelingen die arbeid in loondienst, anders dan als kennismigrant, of arbeid als zelfstandige verrichten, vallen onder het bepaalde in B5.
+### 4.3.2. TBC-verklaring
 
-### 10.2. Voorwaarden
+Bij de aanvraag om een verblijfsvergunning voegt de kennismigrant, dan wel voegen de kennismigrant en diens gezinsleden, een kopie van de ingevulde en ondertekende TBC-verklaring (zie [bijlage 13 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=13)) ten aanzien van de bereidheid om een TBC-onderzoek te ondergaan en aan een dergelijk onderzoek mee te werken. De vreemdeling die verblijf als kennismigrant beoogt meldt zich met de originele TBC-verklaring tot de GGD voor het ondergaan van een TBC-onderzoek. Op grond van de ondertekende verklaring kan de verblijfsvergunning worden verleend. Achteraf stelt de IND, op basis van opgave door de GGD, vast of betrokkene aan de verplichting om een TBC-onderzoek te ondergaan heeft voldaan (zie [artikel 3.79 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.79)). Indien blijkt dat zulks niet het geval is wordt de vergunning voor verblijf als kennismigrant ingetrokken op grond van het feit dat onjuiste gegevens zijn verstrekt.
 
-De werkgever kan namens de gezinsleden, te weten de echtgeno(o)te of (geregistreerd) partner van de vreemdeling die verblijf als kennismigrant beoogt, en hun minderjarige kinderen, verzoeken om afgifte van een mvv aan de gezinsleden. De algemene bepalingen, uitgezonderd de middelen van bestaan, van de hoofdstukken B1 en B2 van de Vreemdelingencirculaire 2000 zijn van toepassing, tenzij navolgend anders is bepaald
+### 4.3.3. Sticker verblijfsaantekeningen algemeen
 
 De werkgever neemt contact op met het Loket kennis- en arbeidsmigratie van de IND voor een afspraak om ter plaatse van voornoemd loket de sticker ‘verblijfsaantekening algemeen’(zie [bijlage 7g VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g)) in het reisdocument van de kennismigrant(en) en eventuele gezinsleden te laten plaatsen. Daartoe meldt de vreemdeling dan wel de werkgever zich met het paspoort van de vreemdeling die verblijf als kennismigrant beoogt, en eventuele gezinsleden, bij het Loket kennis- en arbeidsmigratie van de IND (zie [artikel 3.9, derde lid, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.9)).
 
@@ -9417,23 +9415,25 @@ Daarna dient de vreemdeling zich bij de gemeente, waarin hij woonachtig is, te v
 
 Voor de kennismigrant die op grond van [artikel 17, eerste lid, onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) is vrijgesteld van het mvv- vereiste, staat de mogelijkheid open om bij de Nederlandse diplomatieke vertegenwoordiging in het buitenland onverplicht een mvv aan te vragen teneinde zijn verblijfsaanspraak vooraf te laten toetsen (zie B1/4.1.1). De werkgever in Nederland kan voorafgaande aan de indiening van de aanvraag om een mvv middels het formulier ‘Verzoek om advies in verband met afgifte mvv kennismigrant’ verzoeken om een advies omtrent de afgifte van een mvv (zie B15/4.2).
 
-### 5. Looncriterium
+Voor de kennismigrant die op grond van [artikel 17, eerste lid, onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) is vrijgesteld van het mvv- vereiste, staat de mogelijkheid open om bij de Nederlandse diplomatieke vertegenwoordiging in het buitenland onverplicht een mvv aan te vragen teneinde zijn verblijfsaanspraak vooraf te laten toetsen (zie B1/4.1.1). De werkgever in Nederland kan voorafgaande aan de indiening van de aanvraag om een mvv middels het formulier ‘Verzoek om advies in verband met afgifte mvv kennismigrant’ verzoeken om een advies omtrent de afgifte van een mvv (zie B15/4.2).
 
-Uitgezonderd van verblijf als kennismigrant zijn beroepssporters in het betaalde voetbal, geestelijke voorgangers en godsdienstleraren, en vreemdelingen die werkzaamheden verrichten die geheel of ten dele bestaan uit het verrichten van seksuele handelingen met derden of voor derden.
+### 5.1. Het looncriterium
 
 Het looncriterium is een bijzondere voorwaarde voor verlening van een verblijfsvergunning voor verblijf als kennismigrant en wordt derhalve onderscheiden van het vereiste duurzaam te beschikken over voldoende zelfstandig verworven middelen van bestaan.
 
 Voor de vreemdeling die verblijf beoogt als kennismigrant gelden looncriteria, te weten een looncriterium voor vreemdelingen die ouder zijn dan dertig jaar, een looncriterium voor vreemdelingen die jonger zijn dan dertig jaar en een looncriterium voor in Nederland afgestudeerde vreemdelingen die in aansluiting op hun studie dan wel gedurende het zoekjaar, werk als kennismigrant vinden. Het looncriterium houdt in dat uit wettelijk toegestane arbeid in loondienst voor één en dezelfde werkgever, een bruto jaarloon dient te worden ontvangen ten minste ter hoogte van een bedrag dat jaarlijks door de Minister van SZW wordt vastgesteld. Het looncriterium voor kennismigranten wordt conform het gestelde in [artikel 1d, derde lid, van het Besluit tot uitvoering van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1d) (zie paragraaf 21, onderdeel f, inkomenscriterium kennismigranten), jaarlijks met ingang van 1 januari van elk kalenderjaar herzien met de procentuele wijziging van het meest recente indexcijfer van de CAO-lonen, gepubliceerd door het Centraal Bureau voor de Statistiek. Het inkomenscriterium wordt gepubliceerd in paragraaf 21, onderdeel f, inkomenscriterium kennismigranten van de Uitvoeringsregels Wav.
 
-### 2.4. Aantonen verblijfstatus eerste lidstaat
+De vereiste premies en belastingen moeten worden afgedragen.
 
-Op het moment dat een vreemdeling die in het bezit is van een verblijfsvergunning als kennismigrant de leeftijd van dertig jaar bereikt, blijft de vreemdeling, ongeacht de functie die hij vervult, gelet op het gestelde in de toelichting van het Besluit van 28 september 2004 tot wijziging van het Besluit uitvoering Wav voldoen aan de voorwaarden voor verblijf als kennismigrant, mits hij nog steeds voldoet aan de jaarloonbepalingen die voor hem golden bij de eerste verlening van de verblijfsvergunning als kennismigrant en hij niet van werkgever is veranderd. Indien de vreemdeling na het bereiken van het dertigste levensjaar van werkgever verandert en hij verblijf als kennismigrant blijft beogen, dient hij te voldoen aan het jaarloonvereiste voor vreemdelingen van dertig jaar en ouder zoals door de Minister van SZW vastgesteld.
+### 2.4. Aantonen verblijfstatus eerste lidstaat
 
 Indien voor een vreemdeling bij de eerste verlening de verblijfsvergunning als kennismigrant het looncriterium voor afgestudeerde buitenlandse studenten geldt, blijft bij wijziging van werkgever en bij de verlenging van de geldigheidsduur van de verblijfsvergunning dit looncriterium van toepassing.
 
 Er kan verblijf als kennismigrant worden toegestaan zonder dat hoeft te zijn voldaan aan het looncriterium zoals dat door de Minister van SZW is vastgesteld voor verblijf als kennismigrant, aan wetenschappelijk onderzoekers en aan artsen in opleiding tot specialist. Alsdan geldt het algemene middelenvereiste onverkort (Zie B1/4.3).
 
-In deze verklaring geeft de werkgever garanties met betrekking tot onder meer de volledigheid van het verzoek om advies in verband met de afgifte van een mvv of de aanvraag om een verblijfsvergunning die hij ten behoeve van of namens de kennismigrant indient, het voldoen aan de voorwaarden voor verblijf als kennismigrant door de vreemdeling en het niet ten koste komen van de Nederlandse Staat van het verblijf van kennismigranten. Daarnaast neemt de werkgever de verplichting op zich de IND te informeren zodra de situatie van de werknemer zich wijzigt. Doordat de werkgever een aantal verplichtingen op zich neemt, wordt de IND in staat gesteld de aanvragen om verblijf als kennismigrant via een versnelde procedure af te doen.
+Er kan verblijf als kennismigrant worden toegestaan zonder dat hoeft te zijn voldaan aan het looncriterium zoals dat door de Minister van SZW is vastgesteld voor verblijf als kennismigrant, aan wetenschappelijk onderzoekers en aan artsen in opleiding tot specialist. Alsdan geldt het algemene middelenvereiste onverkort (Zie B1/4.3).
+
+In tegenstelling tot het middelenvereiste wordt bij de beoordeling van het looncriterium uitsluitend betekenis toegekend aan het loon in geld. Het gaat daarbij om het vaste contractueel overeengekomen en in geld vastgestelde bruto loon. De waarde van niet in geld uitgekeerd loon en de waarde van onzekere loonbestanddelen als overwerkvergoedingen, fooien en uitkeringen uit fondsen worden derhalve niet meegeteld. Vaste toeslagen zoals de vakantietoeslag en een dertiende maand kunnen bij dit bruto loon wel worden meegerekend.
 
 In tegenstelling tot het middelenvereiste wordt bij de beoordeling van het looncriterium uitsluitend betekenis toegekend aan het loon in geld. Het gaat daarbij om het vaste contractueel overeengekomen en in geld vastgestelde bruto loon. De waarde van niet in geld uitgekeerd loon en de waarde van onzekere loonbestanddelen als overwerkvergoedingen, fooien en uitkeringen uit fondsen worden derhalve niet meegeteld. Vaste toeslagen zoals de vakantietoeslag en een dertiende maand kunnen bij dit bruto loon wel worden meegerekend.
 
@@ -9445,21 +9445,19 @@ Het beschikken over inkomen uit arbeid in loondienst wordt in het kader van dit 
 
 Indien de vreemdeling beschikt over een arbeidsovereenkomst voor een kortere duur dan één jaar, dient de vreemdeling gedurende de duur van de arbeidsovereenkomst naar rato te voldoen aan het criterium van het bruto jaarloon. De vreemdeling dient derhalve een loon in geld te genieten dat de uitkomst is van de rekensom: geldend looncriterium, gedeeld door twaalf en vermenigvuldigd met het aantal maanden van de arbeidsovereenkomst.
 
-De IND verstrekt een negatief advies aan de werkgever dan wel wijst de aanvraag tot het verlenen van een verblijfsvergunning af als niet aannemelijk is dat de werkgever de in de overgelegde verklaring neergelegde verplichtingen zal (kunnen) nakomen.
+Indien een vreemdeling voldoet aan het looncriterium wordt zondermeer aangenomen dat hij voldoet aan het vereiste om duurzaam te beschikken over voldoende zelfstandig verworven middelen van bestaan.
 
 Indien een vreemdeling voldoet aan het looncriterium wordt zondermeer aangenomen dat hij voldoet aan het vereiste om duurzaam te beschikken over voldoende zelfstandig verworven middelen van bestaan.
 
-De verklaring dient elektronisch door de werkgever te worden ingevuld. De door de werkgever ingevulde en ondertekende verklaring (de printversie) dient, met de hierboven vermelde stukken, door de werkgever per post te worden verzonden naar het op de verklaring vermelde adres van de IND.
+Voor beroepen in de individuele gezondheidszorg is registratie in het beroepen in de individuele gezondheidszorg register verplicht. Indien een kennismigrant in Nederland een beroep wil uitoefenen waarvoor beroepen in de individuele gezondheidszorg registratie verplicht is, maar niet in het register geregistreerd staat wordt de aanvraag om een verblijfsvergunning of verzoek om advies voor verblijf als kennismigrant afgewezen omdat er geen sprake is van wettelijk toegestane arbeid (zie B15/5.1). Indien aan de beroepen in de individuele gezondheidszorg registratie voorwaarden zijn verbonden betreffende de inhoud van de uitoefening van het beroep, bijvoorbeeld dat bepaalde handelingen slechts onder supervisie verricht mogen worden, wordt de vergunning verleend. Het is de verantwoordelijkheid van de werkgever dat aan de voorwaarden voor de beroepen in de individuele gezondheidszorg registratie wordt voldaan.
 
 Voor beroepen in de individuele gezondheidszorg is registratie in het beroepen in de individuele gezondheidszorg register verplicht. Indien een kennismigrant in Nederland een beroep wil uitoefenen waarvoor beroepen in de individuele gezondheidszorg registratie verplicht is, maar niet in het register geregistreerd staat wordt de aanvraag om een verblijfsvergunning of verzoek om advies voor verblijf als kennismigrant afgewezen omdat er geen sprake is van wettelijk toegestane arbeid (zie B15/5.1). Indien aan de beroepen in de individuele gezondheidszorg registratie voorwaarden zijn verbonden betreffende de inhoud van de uitoefening van het beroep, bijvoorbeeld dat bepaalde handelingen slechts onder supervisie verricht mogen worden, wordt de vergunning verleend. Het is de verantwoordelijkheid van de werkgever dat aan de voorwaarden voor de beroepen in de individuele gezondheidszorg registratie wordt voldaan.
 
-Voor de vreemdeling die verblijf beoogt als kennismigrant gelden looncriteria, te weten een looncriterium voor vreemdelingen die ouder zijn dan dertig jaar, een looncriterium voor vreemdelingen die jonger zijn dan dertig jaar en een looncriterium voor in Nederland afgestudeerde vreemdelingen die in aansluiting op hun studie dan wel gedurende het zoekjaar, werk als kennismigrant vinden. Het looncriterium houdt in dat uit wettelijk toegestane arbeid in loondienst voor één en dezelfde werkgever, een bruto jaarloon dient te worden ontvangen ten minste ter hoogte van een bedrag dat jaarlijks door de Minister van SZW wordt vastgesteld. Het looncriterium voor kennismigranten wordt conform het gestelde in [artikel 1d, derde lid, van het Besluit tot uitvoering van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1d) (zie paragraaf 21, onderdeel f, inkomenscriterium kennismigranten), jaarlijks met ingang van 1 januari van elk kalenderjaar herzien met de procentuele wijziging van het meest recente indexcijfer van de CAO-lonen, gepubliceerd door het Centraal Bureau voor de Statistiek. Het inkomenscriterium wordt gepubliceerd in paragraaf 21, onderdeel f, inkomenscriterium kennismigranten van de Uitvoeringsregels Wav.
-
 De verblijfsvergunning voor verblijf als kennismigrant wordt verleend voor de duur van de arbeidsovereenkomst tot een maximum van vijf jaar.
 
-### 4.3.3. Sticker verblijfsaantekeningen algemeen
+De verblijfsvergunning kan voor vijf jaar worden verleend als de vreemdeling, die verblijf als kennismigrant beoogt, een arbeidsovereenkomst voor onbepaalde tijd overlegt. Als de vreemdeling, die verblijf als kennismigrant beoogt, een arbeidsovereenkomst voor bepaalde tijd heeft, wordt de verblijfsvergunning voor verblijf als kennismigrant voor ten hoogste de duur van de arbeidsovereenkomst afgegeven (zie [artikelen 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57) en [3.59a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.59a)).
 
-Als de kennismigrant als arts in opleiding tot specialist staat ingeschreven in een opleidingsregister wordt de verblijfsvergunning verleend voor ten hoogste de duur van de opleiding.
+### 4.3.3. Sticker verblijfsaantekeningen algemeen
 
 Indien de vreemdeling voor een beperkte periode in het beroepen in de individuele gezondheidszorg register staat geregistreerd wordt de verblijfsvergunning verleend voor de duur van de registratie.
 
@@ -9467,7 +9465,7 @@ De vreemdeling die in het bezit is gesteld van een verblijfsvergunning als kenni
 
 Echtgenoten en partners van kennismigranten krijgen op grond van [artikel 3.57 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57) een verblijfsvergunning voor de duur van één jaar. Na één jaar kan op grond van [artikel 3.67, eerste lid, onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.67) de verblijfsvergunning worden verlengd voor de duur van vijf jaren (zie B2/9). Voor minderjarige kinderen van kennismigranten wordt tevens verwezen naar het bepaalde in B2/5.
 
-De werkgever kan namens de gezinsleden te weten de echtgeno(o)te of (geregistreerd) partner van de kennismigrant en hun minderjarige kinderen, die verblijf in Nederland bij de kennismigrant beogen, verzoeken om afgifte van een mvv. In het geval de gezinsleden tegelijkertijd met de kennismigrant een verzoek om advies doen, dient gebruik gemaakt te worden van het formulier ‘Verzoek om advies in verband met afgifte mvv kennismigrant’. In het geval voor de gezinsleden niet gelijktijdig met de kennismigrant een verzoek om advies wordt ingediend, dient gebruik gemaakt te worden van de formulieren voor nareizende gezinsleden. De werkgever kan alleen ten behoeve van de echtgeno(o)t(e) of (geregistreerde) partner, alsmede ten behoeve van de minderjarige kinderen die feitelijk behoren tot het gezin, een verzoek om advies indienen. De algemene bepalingen, uitgezonderd de middelen van bestaan, van B1/4 en B2/2. B2/4 en B2/5 zijn van toepassing, tenzij navolgend anders is bepaald.
+Echtgenoten en partners van kennismigranten krijgen op grond van [artikel 3.57 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57) een verblijfsvergunning voor de duur van één jaar. Na één jaar kan op grond van [artikel 3.67, eerste lid, onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.67) de verblijfsvergunning worden verlengd voor de duur van vijf jaren (zie B2/9). Voor minderjarige kinderen van kennismigranten wordt tevens verwezen naar het bepaalde in B2/5.
 
 Indien aan de voorwaarden van het bepaalde in dit hoofdstuk wordt voldaan, wordt aan de vreemdeling op grond van [artikel 3.4, eerste lid, onder y, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) een verblijfsvergunning verleend onder de beperking ‘verblijf als kennismigrant’.
 
@@ -9481,13 +9479,13 @@ De verblijfsvergunning aan echtgeno(o)t(e) of geregistreerd partner wordt verlee
 
 Aan de afgifte van de verblijfsvergunning wordt het voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
-### 8. Wijziging van werkgever, zoekperiode, af- en aanmelding en intrekking
+Aan de afgifte van de verblijfsvergunning wordt het voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
-Als de gezinsleden nareizen nadat de vreemdeling die verblijf als kennismigrant beoogt een aanvraag heeft ingediend, doen deze gezinsleden, zijnde de echtgeno(o)t(e) of (geregistreerd) partner en de minderjarige kinderen, met het daarvoor bestemde aanvraagformulier ter verlening van een verblijfsvergunning regulier voor nareizende gezinsleden, een aanvraag. Voor de behandeling van alle aanvragen van gezinsleden van kennismigranten geldt een streeftermijn van twee weken. Daarbij is de IND afhankelijk van buiten de IND gelegen procedures, zoals de verplichte inschrijving van het huwelijk in de GBA, die moeten zijn afgerond voordat de IND een beslissing kan nemen op de aanvraag.
+### 8.1. Wijziging van werkgever
 
-### 5.1.1. Bestanddelen bruto jaarloon
+Indien de kennismigrant van werkgever verandert, moet hij nog steeds voldoen aan de voorwaarden voor verblijf als kennismigrant. Op de nieuwe werkgever rust de verplichting aan het loket kennis- en arbeidsmigratie van de IND te melden dat betrokken kennismigrant in dienst is getreden en daarbij de van toepassing zijnde bewijsmiddelen zoals genoemd in B15/5.1.2 te overleggen.
 
-De verblijfsvergunning kan voor vijf jaar worden verleend als de vreemdeling, die verblijf als kennismigrant beoogt, een arbeidsovereenkomst voor onbepaalde tijd overlegt. Als de vreemdeling, die verblijf als kennismigrant beoogt, een arbeidsovereenkomst voor bepaalde tijd heeft, wordt de verblijfsvergunning voor verblijf als kennismigrant voor ten hoogste de duur van de arbeidsovereenkomst afgegeven (zie [artikelen 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57) en [3.59a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.59a)).
+### 8.2. Zoekperiode
 
 Indien de arbeidsovereenkomst van de kennismigrant gedurende de geldigheidsduur van zijn verblijfsvergunning door de werkgever voortijdig wordt ontbonden, zonder dat de kennismigrant daarvan een verwijt kan worden gemaakt, wordt hem een zoektermijn van drie maanden gegund. De werkgever maakt schriftelijk melding van de beëindiging van het dienstverband bij het loket kennis- en arbeidsmigratie van de IND. Vanaf de datum waarop de arbeidsovereenkomst is beëindigd geldt een zoekperiode van drie maanden voor de vreemdeling om een nieuwe functie als kennismigrant te verwerven. Indien de vreemdeling erin slaagt opnieuw werk te vinden als kennismigrant doet de (nieuwe) werkgever daarvan schriftelijk mededeling aan het loket kennis- en arbeidsmigratie van de IND onder overlegging van de van toepassing zijnde bewijsmiddelen zoals genoemd in B15/5.1.2 . In het geval dat de kennismigrant een nieuwe werkgever vindt, dient deze toegelaten te zijn tot de kennismigrantenregeling op grond van een ondertekende verklaring (zie [bijlage 12a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a)) en dient de vreemdeling te voldoen aan het looncriterium, respectievelijk dient hij een functie als wetenschappelijk onderzoeker dan wel arts in opleiding tot specialist te vervullen. Slaagt de vreemdeling er niet in binnen drie maanden een dergelijke functie te vinden dan wordt zijn verblijfsvergunning ingetrokken.
 
@@ -9495,19 +9493,19 @@ Indien de zoekperiode van drie maanden zich uitstrekt voorbij de geldigheidsduur
 
 Voor de vreemdeling die als arts in opleiding tot specialist een verblijfsvergunning als kennismigrant aanvraagt geldt dat deze zal worden verleend voor de duur van zijn opleiding. Na beëindiging van zijn opleiding is verlenging van de verblijfsvergunning voor verblijf als kennismigrant slechts mogelijk indien de arts in opleiding tot specialist een andere functie als kennismigrant verwerft. In dat geval dient hij verlenging van de vergunning voor verblijf als kennismigrant aan te vragen.
 
-Echtgenoten en partners van kennismigranten krijgen op grond van [artikel 3.57 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57) een verblijfsvergunning voor de duur van één jaar. Na één jaar kan op grond van [artikel 3.67, eerste lid, onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.67) de verblijfsvergunning worden verlengd voor de duur van vijf jaren (zie B2/9). Voor minderjarige kinderen van kennismigranten wordt tevens verwezen naar het bepaalde in B2/5.
+Voor de vreemdeling die als arts in opleiding tot specialist een verblijfsvergunning als kennismigrant aanvraagt geldt dat deze zal worden verleend voor de duur van zijn opleiding. Na beëindiging van zijn opleiding is verlenging van de verblijfsvergunning voor verblijf als kennismigrant slechts mogelijk indien de arts in opleiding tot specialist een andere functie als kennismigrant verwerft. In dat geval dient hij verlenging van de vergunning voor verblijf als kennismigrant aan te vragen.
 
 Op de vreemdeling rust de verplichting om onmiddellijk aan de Korpschef melding te maken van het feit dat hij niet meer aan de beperking voldoet. Op de werkgever rust de verplichting om de IND schriftelijk in kennis te stellen van het feit dat de kennismigrant niet langer bij deze werkgever werkzaam is, niet langer aan het looncriterium voldoet, of niet langer werkzaamheden als wetenschappelijk onderzoeker of arts in opleiding tot specialist vervult (zie daarvoor ook [artikelen 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.41) en [4.43 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.43) en [A3/7.3.5](onbekend) en [A3/7.3.7](onbekend)).
 
 De verblijfsvergunning onder de beperking ‘verblijf als kennismigrant’ kan op grond van het bepaalde in [artikel 19, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19), juncto [artikel 18 eerste lid, aanhef en onder g, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18), worden ingetrokken als betrokkene niet meer voldoet aan de voorwaarden van de beperking ‘verblijf als kennismigrant’.
 
-Indien de kennismigrant niet over een mvv beschikt wordt de volgende arbeidsmarktaantekening geplaatst: ‘Arbeid niet toegestaan; TWV vereist’. Dit geldt ook voor diens echtgeno(o)t(e) of partner.
+De verblijfsvergunning onder de beperking ‘verblijf als kennismigrant’ kan op grond van het bepaalde in [artikel 19, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19), juncto [artikel 18 eerste lid, aanhef en onder g, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18), worden ingetrokken als betrokkene niet meer voldoet aan de voorwaarden van de beperking ‘verblijf als kennismigrant’.
 
-Daarna dient de vreemdeling zich bij de gemeente, waarin hij woonachtig is, te vervoegen met het oog op inschrijving in de GBA. Afgifte van het verblijfsdocument geschiedt door de IND na de inwilliging van de aanvraag.
+Indien de kennismigrant niet over een mvv beschikt wordt de volgende arbeidsmarktaantekening geplaatst: ‘Arbeid niet toegestaan; TWV vereist’. Dit geldt ook voor diens echtgeno(o)t(e) of partner.
 
 Werkloosheid is van invloed op de verblijfsrechtelijke positie van kennismigranten die houder zijn van een verblijfsvergunning voor bepaalde tijd voor verblijf als kennismigrant.
 
-De verblijfsvergunning aan echtgeno(o)t(e) of geregistreerd partner wordt verleend onder de beperking ‘verblijf bij echtgeno(o)t(e)/geregistreerd)partner/ouder (naam). Arbeid vrij toegestaan. TWV niet vereist’. De verblijfsvergunning aan minderjarige kinderen wordt verleend onder de beperking ‘gezinshereniging bij (naam ouder(s)). Arbeid vrij toegestaan. TWV niet vereist’.
+Werkloosheid is van invloed op de verblijfsrechtelijke positie van kennismigranten die houder zijn van een verblijfsvergunning voor bepaalde tijd voor verblijf als kennismigrant.
 
 Ziekte en arbeidsongeschiktheid zijn van invloed op de verblijfsrechtelijke positie van kennismigranten. Bij ziekte blijft de kennismigrant aan de voorwaarden voldoen zolang er sprake is van een dienstverband met een werkgever die een verklaring heeft afgelegd in het kader van het kennismigrantenbeleid en hij, hetzij vanwege het ontvangen loon, hetzij op grond van een uitkering, hetzij op grond van een combinatie van beide, aan het loonvereiste blijft voldoen.
 
@@ -9515,27 +9513,29 @@ Indien een kennismigrant na een periode van ziekte arbeidsongeschikt wordt verkl
 
 Onder een kennismigrant die arbeidsongeschikt is wordt verstaan de vreemdeling die in het bezit is van een verblijfsvergunning als kennismigrant en die een uitkering uit hoofde van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)/[WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) geniet. De verblijfsvergunning van de kennismigrant wordt ingetrokken bij volledige arbeidsongeschiktheid. Indien sprake is van gedeeltelijke arbeidsongeschiktheid (percentage minder dan 80%) en de kennismigrant in dienst blijft bij de werkgever dient hij, op grond van de uitkering uit hoofde van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)/[WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en zijn inkomen uit het dienstverband met de werkgever, nog steeds te voldoen aan het looncriterium dat geldt voor verblijf als kennismigrant. Als de kennismigrant gedeeltelijk arbeidsgeschikt is en zijn dienstverband bij de werkgever is beëindigd zonder dat hem daarvan een verwijt kan worden gemaakt, kan hij gebruik maken van de zoekperiode van drie maanden na de datum waarop het dienstverband (voortijdig) is beëindigd. Indien betrokken vreemdeling er niet in slaagt om in die periode werk te vinden waarmee hij voldoet aan de voorwaarden voor verblijf als kennismigrant, wordt de verblijfsvergunning voor verblijf als kennismigrant ingetrokken. Bij de beoordeling of de gedeeltelijk arbeidsongeschikte vreemdeling voldoet aan het looncriterium dat geldt voor verblijf als kennismigrant wordt een uitkering uit hoofde van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)/[WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) meegerekend als bestanddeel van het brutoloon.
 
+Onder een kennismigrant die arbeidsongeschikt is wordt verstaan de vreemdeling die in het bezit is van een verblijfsvergunning als kennismigrant en die een uitkering uit hoofde van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)/[WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) geniet. De verblijfsvergunning van de kennismigrant wordt ingetrokken bij volledige arbeidsongeschiktheid. Indien sprake is van gedeeltelijke arbeidsongeschiktheid (percentage minder dan 80%) en de kennismigrant in dienst blijft bij de werkgever dient hij, op grond van de uitkering uit hoofde van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)/[WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en zijn inkomen uit het dienstverband met de werkgever, nog steeds te voldoen aan het looncriterium dat geldt voor verblijf als kennismigrant. Als de kennismigrant gedeeltelijk arbeidsgeschikt is en zijn dienstverband bij de werkgever is beëindigd zonder dat hem daarvan een verwijt kan worden gemaakt, kan hij gebruik maken van de zoekperiode van drie maanden na de datum waarop het dienstverband (voortijdig) is beëindigd. Indien betrokken vreemdeling er niet in slaagt om in die periode werk te vinden waarmee hij voldoet aan de voorwaarden voor verblijf als kennismigrant, wordt de verblijfsvergunning voor verblijf als kennismigrant ingetrokken. Bij de beoordeling of de gedeeltelijk arbeidsongeschikte vreemdeling voldoet aan het looncriterium dat geldt voor verblijf als kennismigrant wordt een uitkering uit hoofde van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)/[WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) meegerekend als bestanddeel van het brutoloon.
+
 De vereiste premies en belastingen moeten worden afgedragen.
 
-Op het moment dat een vreemdeling die in het bezit is van een verblijfsvergunning als kennismigrant de leeftijd van dertig jaar bereikt, blijft de vreemdeling, ongeacht de functie die hij vervult, gelet op het gestelde in de toelichting van het Besluit van 28 september 2004 tot wijziging van het Besluit uitvoering Wav voldoen aan de voorwaarden voor verblijf als kennismigrant, mits hij nog steeds voldoet aan de jaarloonbepalingen die voor hem golden bij de eerste verlening van de verblijfsvergunning als kennismigrant en hij niet van werkgever is veranderd. Indien de vreemdeling na het bereiken van het dertigste levensjaar van werkgever verandert en hij verblijf als kennismigrant blijft beogen, dient hij te voldoen aan het jaarloonvereiste voor vreemdelingen van dertig jaar en ouder zoals door de Minister van SZW vastgesteld.
+Vreemdelingen die met goed gevolg een hogere beroepsopleiding of wetenschappelijke studie in Nederland hebben afgerond, krijgen de mogelijkheid om binnen maximaal één jaar (zoekperiode) na de datum van voltooiing van de studie of opleiding een functie als kennismigrant te vinden. Het gaat hier om vreemdelingen die op basis van een verblijfsvergunning onder de beperking ‘studie’ in Nederland hun studie hebben afgerond. Indien de vreemdeling gebruik wil maken van het zoekjaar, dient de vreemdeling een aanvraag tot wijziging van de beperking in (zie B15/10.2 en B15/10.3).
 
 ### 7. Beperkingen, arbeidsmarktaantekeningen en voorschriften
 
-Indien de vreemdeling erin slaagt binnen de periode van één jaar na voltooiing van zijn opleiding of studie een baan als kennismigrant te vinden, de werkgever op grond van een ondertekende verklaring (zie [bijlage 12a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a)) is toegelaten tot de kennismigrantenregeling en de vreemdeling aan het looncriterium voldoet, kan de vreemdeling een aanvraag om wijziging van de beperking in ‘verblijf als kennismigrant’ indienen (zie B15/3 en verder).
+Het zoekjaar geldt niet voor vreemdelingen die verblijf hebben voor studie aan voortgezet of beroepsonderwijs. Aan hen is verblijf toegestaan onder meer om een positieve bijdrage aan de ontwikkeling in het land van herkomst te kunnen leveren. Het bieden van een mogelijkheid om zich na beëindiging van de studie aan voortgezet en beroepsonderwijs op een functie als kennismigrant te oriënteren, is niet in overeenstemming met de intentie van het toestaan van verblijf voor studie aan voortgezet of beroepsonderwijs.
 
 Het zoekjaar geldt niet voor vreemdelingen die verblijf hebben voor studie aan voortgezet of beroepsonderwijs. Aan hen is verblijf toegestaan onder meer om een positieve bijdrage aan de ontwikkeling in het land van herkomst te kunnen leveren. Het bieden van een mogelijkheid om zich na beëindiging van de studie aan voortgezet en beroepsonderwijs op een functie als kennismigrant te oriënteren, is niet in overeenstemming met de intentie van het toestaan van verblijf voor studie aan voortgezet of beroepsonderwijs.
 
-In tegenstelling tot het middelenvereiste wordt bij de beoordeling van het looncriterium uitsluitend betekenis toegekend aan het loon in geld. Het gaat daarbij om het vaste contractueel overeengekomen en in geld vastgestelde bruto loon. De waarde van niet in geld uitgekeerd loon en de waarde van onzekere loonbestanddelen als overwerkvergoedingen, fooien en uitkeringen uit fondsen worden derhalve niet meegeteld. Vaste toeslagen zoals de vakantietoeslag en een dertiende maand kunnen bij dit bruto loon wel worden meegerekend.
+De verblijfsvergunning kan op aanvraag worden verleend, indien:
 
 ### 5.1.2. Bewijsmiddelen looncriterium
 
-In afwijking van B1/4.3 wordt de verblijfsvergunning ook verleend indien de vreemdeling niet (meer) beschikt over voldoende duurzame middelen van bestaan.
+Als de vreemdeling gedurende het zoekjaar een beroep doet op de algemene middelen kan dit gevolgen hebben voor het verblijfsrecht.
 
 ### 5.1.3. Kortlopende arbeidsovereenkomsten
 
-Indien de vreemdeling gebruik wil maken van het zoekjaar, dient hij een aanvraag tot wijziging van de beperking in door middel van een aanvraagformulier (zie [bijlage 13 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=13)) dat te verkrijgen is bij de Immigratie- en Naturalisatiedienst. Deze aanvraag dient bij één van de loketten van de Immigratie- en Naturalisatiedienst te worden ingediend.
-
 De algemene bepalingen van B1/4, B2/2, B2/4 en B2/5 zijn van toepassing, tenzij navolgend anders is bepaald.
+
+Indien sprake is van eerste toelating geldt het algemene middelenvereiste (zie B1/4.3, B2/2.10, B2/4.11 en B2/5.10). Indien sprake is van voortgezet verblijf geldt het volgende. Als de aanvraag tot het verlengen van de geldigheidsduur van de verblijfsvergunning kan worden afgewezen, omdat het gezinslid bij wie de vreemdeling verblijft niet meer duurzaam en zelfstandig beschikt over voldoende middelen van bestaan, wordt bezien of de gevolgen voor de vreemdeling niet onevenredig zijn in verhouding tot de met het middelenvereiste te dienen doelen. Omtrent die afweging van belangen wordt verwezen naar B2/9.5.2.
 
 Indien sprake is van eerste toelating geldt het algemene middelenvereiste (zie B1/4.3, B2/2.10, B2/4.11 en B2/5.10). Indien sprake is van voortgezet verblijf geldt het volgende. Als de aanvraag tot het verlengen van de geldigheidsduur van de verblijfsvergunning kan worden afgewezen, omdat het gezinslid bij wie de vreemdeling verblijft niet meer duurzaam en zelfstandig beschikt over voldoende middelen van bestaan, wordt bezien of de gevolgen voor de vreemdeling niet onevenredig zijn in verhouding tot de met het middelenvereiste te dienen doelen. Omtrent die afweging van belangen wordt verwezen naar B2/9.5.2.
 
@@ -10943,25 +10943,25 @@ De eerste periode van verblijf van de burger van de Unie bedraagt drie maanden. 
 
 ### 2.5.3. Duurzaam verblijfsrecht
 
-In [Richtlijn 2004/38](32004L0038) staat het burgerschap van de Unie centraal. Overwogen wordt dat het burgerschap van de Unie de fundamentele status dient te zijn van onderdanen van de lidstaten die hun recht van vrij verkeer en verblijf uitoefenen. De richtlijn verbindt het primaat van dit burgerschap met het codificeren en herzien van de bestaande Gemeenschapsinstrumenten waarin afzonderlijke regelingen zijn vastgesteld voor werknemers, zelfstandigen, studenten en andere niet-actieven. [Richtlijn 2004/38](32004L0038) regelt de voorwaarden voor uitoefening van het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten door burgers van de Unie en hun familieleden, en de beperking daarvan om redenen van openbare orde, openbare veiligheid of volksgezondheid. Zij is van toepassing ten aanzien van iedere burger van de Unie die zich begeeft naar, of verblijft in, een andere lidstaat dan die waarvan hij de nationaliteit bezit, en diens familieleden die hem begeleiden of die zich bij hem voegen.
+In Richtlijn 2004/38 staat het burgerschap van de Unie centraal. Overwogen wordt dat het burgerschap van de Unie de fundamentele status dient te zijn van onderdanen van de lidstaten die hun recht van vrij verkeer en verblijf uitoefenen. De richtlijn verbindt het primaat van dit burgerschap met het codificeren en herzien van de bestaande Gemeenschapsinstrumenten waarin afzonderlijke regelingen zijn vastgesteld voor werknemers, zelfstandigen, studenten en andere niet-actieven. Richtlijn 2004/38 regelt de voorwaarden voor uitoefening van het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten door burgers van de Unie en hun familieleden, en de beperking daarvan om redenen van openbare orde, openbare veiligheid of volksgezondheid. Zij is van toepassing ten aanzien van iedere burger van de Unie die zich begeeft naar, of verblijft in, een andere lidstaat dan die waarvan hij de nationaliteit bezit, en diens familieleden die hem begeleiden of die zich bij hem voegen.
 
 ### 2.5.1. Verblijfsrecht van maximaal drie maanden
 
 ### 2.6. Bewijs van rechtmatig verblijf
 
-Voor de EU/EER-onderdaan of Zwitserse onderdaan en zijn gezinsleden, die geen verblijfsrecht aan de bepalingen van het EG-Verdrag of de Overeenkomst EG-Zwitserland kunnen ontlenen, gelden onverkort de overige bepalingen van de Vw en het (restrictieve) beleid. Hier kan bijvoorbeeld worden gedacht aan de EU/EER-onderdaan of Zwitserse onderdaan die verblijf in Nederland beoogt in het kader van gezinsvorming of -hereniging bij een Nederlands onderdaan (zie B2). De rechtsbescherming die onderdanen van de EU/EER en van Zwitserland genieten, ontlenen zij op grond van hun nationaliteit aan [Richtlijn 2004/38](32004L0038) (zie B10/7).
+Blijkens [artikel 8.7, derde en vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) is hetgeen is opgenomen in [artikel 8.8 Vb tot en met artikel 8.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.10) eveneens van toepassing is op de twee hierboven genoemde categorieën van personen.
 
-Voor de regels met betrekking tot toegang van onderdanen van de EU/EER en van de Zwitserland wordt verwezen naar [A2/6.2.2](onbekend).
+Voor de EU/EER-onderdaan of Zwitserse onderdaan en zijn familie- of gezinsleden, die geen verblijfsrecht aan de bepalingen van het EG-Verdrag of de Overeenkomst EG-Zwitserland kunnen ontlenen, gelden onverkort de overige bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) en het (restrictieve) beleid. De rechtsbescherming die onderdanen van de EU/EER en van Zwitserland genieten, ontlenen zij op grond van hun nationaliteit aan Richtlijn 2004/38 (zie B10/7).
 
 Indien het familielid van de EU- of EER-onderdaan of onderdaan van Zwitserland, die zelf niet de nationaliteit bezit van een EU- of EER-lidstaat of Zwitserland niet voldoet aan de legesverplichting, wordt de aanvraag om het verkrijgen van het bewijs van rechtmatig verblijf niet behandeld. Dit heeft geen gevolgen voor het rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), omdat dit van rechtswege is ontstaan en vervalt. Het vorenstaande geldt ook indien de EU- of EER-onderdaan of onderdaan van Zwitserland, of zijn familielid, ongeacht diens nationaliteit, niet voldoet aan de legesverplichting verbonden aan de aanvraag tot afgifte van een document ‘Duurzaam verblijf burgers van de Unie’. Indien opnieuw een aanvraag om afgifte van een document wordt ingediend, zullen alsdan opnieuw leges worden geheven.
 
-Om met succes beroep te kunnen doen op het gestelde in [artikel 8.7 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.7) en verder, dienen EU/EER onderdanen of Zwitserse onderdanen een geldige identiteitskaart of een geldig paspoort over te leggen (conform bijlage IV GVI) dan wel op andere wijze ondubbelzinnig (zonder enige twijfel) hun identiteit en nationaliteit aan te tonen. De identiteitskaart of het paspoort dient overeenkomstig de wetgeving in de Lidstaat, waarvan zij onderdaan zijn, te zijn verstrekt. Hierop dient de nationaliteit van de onderdaan van de Lidstaat te zijn vermeld. Het enkele verlopen van de identiteitskaart of paspoort gedurende het rechtmatig verblijf in Nederland leidt niet tot verblijfsbeëindiging.
+Familieleden of gezinsleden van hier te lande verblijvende onderdanen van de EU, de EER en Zwitserland, die niet zelf onderdaan van genoemde landen zijn maar afkomstig zijn uit een visumplichtig derde land (niet afkomstig uit een land genoemd in [bijlage 2 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=2)) en die niet beschikken over een verblijfskaart met de aantekening ‘familielid van een burger van de Unie’, kunnen Nederland zonder mvv inreizen indien zij het familielid begeleiden of indien zij zich alhier bij hemzullen voegen. De familieleden of gezinsleden dienen dan wel in het bezit te zijn van een visum kort verblijf. Dit visum zal versneld en kosteloos worden verstrekt. Dus ook indien een visumplichtig familielid of gezinslid voor een verblijf bij de onderdaan van de EU, de EER en Zwitserland van langer dan drie maanden naar Nederland komt, hoeft hij niet in het bezit te zijn van een mvv. Hij hoeft in dat geval slechts in het bezit te zijn van een visum kort verblijf om te kunnen inreizen. Voor de te volgen visumprocedure wordt verwezen naar [A2/6.2.2.2](onbekend).
 
-Op het moment dat de EU- of EER-onderdaan of Zwitserse onderdaan reële en daadwerkelijke arbeid als werknemer of als zelfstandige verricht, geldt hetgeen in de volgende paragrafen (inzake economisch actieven) wordt vermeld. Indien de werkzoekende EU- of EER-onderdaan of Zwitserse onderdaan zelfstandig – niet uit arbeid maar uit andere bronnen – over middelen van bestaan beschikt, dient te worden beoordeeld of de EU/EER-onderdaan of Zwitserse onderdaan wellicht als economisch niet-actieve verblijfsrecht heeft.
+Onderdanen van de EU, EER, en van Zwitserland zijn niet verplicht hun aanwezigheid te melden bij de autoriteiten belast met toezicht. Indien zij verblijf beogen van langer dan drie maanden zijn zij wel verplicht zich aan te melden ter inschrijving bij de IND (zie [artikel 8.12, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)).
 
-Slechts in geval van een zodanig, specifiek geval van redelijke twijfel of aan de voorwaarden wordt voldaan, wordt de inschrijving en daarmee de afgifte van de verklaring van inschrijving aangehouden tot onderzoek deze twijfel heeft weggenomen. Daarna vindt, indien is komen vast te staan dat aan de voorwaarden is voldaan, alsnog inschrijving plaats en wordt de verklaring van inschrijving afgegeven. Indien na onderzoek is komen vast te staan, dat niet aan de relevante voorwaarden is voldaan, wordt een beschikking gegeven waarin gemotiveerd wordt aangegeven dat niet is voldaan aan de voorwaarden voor inschrijving. Daarnaast kan de inschrijving dan wel afgifte van de verklaring van inschrijving worden aangehouden, indien het inwinnen van antecedenten bij de lidstaat van oorsprong of andere lidstaten onontbeerlijk wordt geacht voor de beoordeling of de EU- of EER-onderdaan een gevaar vormt voor de openbare orde of de openbare veiligheid. De inschrijving kan uiteraard vervolgens worden geweigerd, indien van een zodanig gevaar sprake blijkt te zijn. Een zodanige weigering geschiedt per beschikking (zie B10/7).
+Het onderscheid tussen rechtmatig verblijf in de vrije termijn en rechtmatig verblijf als gemeenschapsonderdaan is wel gehandhaafd ten aanzien van de familieleden die geen onderdaan zijn van EU- of EER- lidstaat of onderdaan van Zwitserland. Deze nemen een andere positie in dan de burgers van de Unie en artikel 18 EG-Verdrag is op hen niet van toepassing (zie verder B10/5).
 
-Het ononderbroken karakter van de periode van vijf jaar legaal verblijf wordt niet onderbroken door tijdelijke afwezigheden van niet meer dan zes maanden per jaar, door afwezigheden van langere duur voor de vervulling van militaire verplichtingen, door één afwezigheid van ten hoogste twaalf achtereenvolgende maanden om belangrijke redenen zoals zwangerschap en bevalling, ernstige ziekte, studie of beroepsopleiding, noch door uitzending om werkzaamheden te verrichten in een andere lidstaat of derde land. Het is aan de vreemdeling om zulks met documenten te staven (zie [artikel 8.17, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17)).
+[Richtlijn 2004/38](32004L0038) voorziet, ter voorkoming van misbruik, in de mogelijkheid voor lidstaten van de burgers van de Unie te verlangen het bewijs te leveren dat zij voldoen aan de voorwaarden voor verblijf van langer dan drie maanden. In Nederland is voor EU- en EER-onderdanen en onderdanen van Zwitserland voorzien in een verplichting tot aanmelding ter inschrijving in de vreemdelingenadministratie, waarbij de in het [VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002) omschreven bewijzen moeten worden overgelegd. Als het bewijs dat aan de voorwaarden voor verblijf van langer dan drie maanden wordt voldaan is geleverd, wordt de burger van de Unie ingeschreven in de vreemdelingenadministratie en wordt onmiddellijk een verklaring van inschrijving afgegeven. Aan de inschrijving in de vreemdelingenadministratie en afgifte van een verklaring van inschrijving zijn geen leges verbonden. Ingevolge [artikel 8.12, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12) is deze aanmelding tot inschrijving verplicht. Het niet voldoen aan deze verplichting is in [artikel 108 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) strafbaar gesteld.
 
 ### 3.2. Reële en daadwerkelijke arbeid
 
@@ -10969,9 +10969,9 @@ Het ononderbroken karakter van de periode van vijf jaar legaal verblijf wordt ni
 
 Indien het familielid van de EU- of EER-onderdaan of onderdaan van Zwitserland, die zelf niet de nationaliteit bezit van een EU- of EER-lidstaat of Zwitserland niet voldoet aan de legesverplichting, wordt de aanvraag om het verkrijgen van het bewijs van rechtmatig verblijf niet behandeld. Dit heeft geen gevolgen voor het rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), omdat dit van rechtswege is ontstaan en vervalt. Het vorenstaande geldt ook indien de EU- of EER-onderdaan of onderdaan van Zwitserland, of zijn familielid, ongeacht diens nationaliteit, niet voldoet aan de legesverplichting verbonden aan de aanvraag tot afgifte van een document ‘Duurzaam verblijf burgers van de Unie’. Indien opnieuw een aanvraag om afgifte van een document wordt ingediend, zullen alsdan opnieuw leges worden geheven.
 
-Na vijf jaren verblijf als gemeenschapsonderdaan kan hij in aanmerking komen voor een document ‘Duurzaam verblijf burgers van de Unie’, na betaling van de ter afdoening van de aanvraag verschuldigde leges.
+Op grond van Richtlijn 2004/38 wordt aan EU- en EER-onderdanen en onderdanen van Zwitserland geen document of schriftelijke verklaring (sticker voor verblijfsaantekeningen), waaruit het rechtmatig verblijf blijkt, afgegeven.
 
-Het rechtmatig verblijf krachtens [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) eindigt niet indien de EU/EER-onderdaan of onderdaan van Zwitserland, na werkzaamheden als werknemer of zelfstandige van ten minste één jaar, onvrijwillig werkloos is en als werkzoekende is ingeschreven bij het CWI (zie [artikel 8.12, tweede lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)). Dat de gemeenschapsonderdaan volledig ten laste komt van de publieke middelen, doet hieraan niet af.
+Indien het familielid van de EU- of EER-onderdaan of onderdaan van Zwitserland, die zelf niet de nationaliteit bezit van een EU- of EER-lidstaat of Zwitserland niet voldoet aan de legesverplichting, wordt de aanvraag om het verkrijgen van het bewijs van rechtmatig verblijf niet behandeld. Dit heeft geen gevolgen voor het rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), omdat dit van rechtswege is ontstaan en vervalt. Het vorenstaande geldt ook indien de EU- of EER-onderdaan of onderdaan van Zwitserland, of zijn familielid, ongeacht diens nationaliteit, niet voldoet aan de legesverplichting verbonden aan de aanvraag tot afgifte van een document ‘Duurzaam verblijf burgers van de Unie’. Indien opnieuw een aanvraag om afgifte van een document wordt ingediend, zullen alsdan opnieuw leges worden geheven.
 
 ### 3.4. Werkzaamheden buiten Nederlands grondgebied
 
@@ -10979,27 +10979,27 @@ Het rechtmatig verblijf krachtens [artikel 8, aanhef en onder e, Vw](https://wet
 
 ### 3.5. Verblijfsrecht bij onderbreking of beëindiging werkzaamheden
 
-Tot slot zijn zowel de duur als de regelmaat van de werkzaamheden factoren die een rol spelen bij de beoordeling of er sprake is van reële en daadwerkelijke arbeid (HvJEG, 26 februari 1992, Raulin). In dit verband kan worden gedacht aan bijvoorbeeld oproepcontracten.
+Iedere EU- of EER-onderdaan of onderdaan van Zwitserland die reële en daadwerkelijke arbeid al dan niet in loondienst verricht, heeft rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en wordt aangemerkt als gemeenschapsonderdaan. Het begrip reële en daadwerkelijke arbeid moet volgens vaste jurisprudentie ruim uitgelegd worden. De omvang van de arbeid mag niet zo gering zijn dat het om louter marginale en bijkomstige werkzaamheden gaat. Uit verschillende arresten van het Hof van Justitie van de EG (HvJ EG, 23 maart 1982, Levin; 3 juni 1986, Kempf) blijkt echter, dat dit niet inhoudt dat het om een voltijds baan moet gaan, noch dat de inkomsten ten minste ter hoogte zijn van het minimumloon. Een gemeenschapsonderdaan, die werkzaamheden verricht die zijn aan te merken als reële en daadwerkelijke arbeid, kan bovendien naar de mening van het Hof een aanvullend beroep doen op de publieke middelen. Het criterium ‘reële en daadwerkelijke arbeid’ wordt zowel op arbeid in loondienst als op arbeid als zelfstandige toegepast.
 
-Om aan te tonen dat de EU- of EER-onderdaan of onderdaan van Zwitserland voldoet aan de voorwaarden voor verblijf van langer dan drie maanden, bedoeld in [artikel 8.12, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12), dienen de hierna genoemde bewijzen te worden geleverd. In het [VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002) zijn per categorie de vereiste documenten die dit bewijs moeten leveren opgesomd.
+Uitgangspunt is dat zolang het merendeel van de inkomsten – hiermee wordt bedoeld meer dan 50% van de betreffende bijstandsnorm – wordt verkregen uit arbeid, het er niet toe doet of deze inkomsten verder worden aangevuld uit eigen bron of uit de publieke middelen.
 
 ### 3.3.1. Werknemers
 
-Minderjarigen die de leeftijd van achttien jaar nog niet hebben bereikt, dienen een verklaring van de ouders of verzorgers te overleggen. Uit deze verklaring moet blijken dat zij instemmen met de tewerkstelling van de minderjarige in Nederland. Het verrichten van arbeid is eerst toegestaan vanaf het dertiende levensjaar in overeenstemming met de Arbowetgeving.
+Tot slot zijn zowel de duur als de regelmaat van de werkzaamheden factoren die een rol spelen bij de beoordeling of er sprake is van reële en daadwerkelijke arbeid (HvJEG, 26 februari 1992, Raulin). In dit verband kan worden gedacht aan bijvoorbeeld oproepcontracten.
 
-Aan EU/EER-onderdanen of Zwitserse onderdanen, die aan deze regelingen recht op duurzaam verblijf ontlenen, wordt een document ‘Duurzaam verblijf burger van de Unie’ verstrekt (zie bijlage [VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002)).
+Het Gemeenschapsrecht is slechts van toepassing op werkzaamheden die buiten Nederlands grondgebied worden verricht, indien er sprake is van een arbeidsverhouding met een voldoende nauwe aanknoping met het Nederlands grondgebied.
 
 ### 3.5.1. Tijdelijke arbeidsongeschiktheid
 
-Indien het verblijfsrecht van de EU/EER-onderdaan of Zwitserse onderdaan als economisch actieve van rechtswege is vervallen en hij niet in aanmerking komt voor voortzetting van verblijf op grond van één van bovengenoemde regelingen, dient te worden beoordeeld of de EU/EER-onderdaan of Zwitserse onderdaan verblijfsrecht kan ontlenen aan de regels met betrekking tot de economisch niet-actieven.
+De arbeidsverhouding van een werknemer in het internationale transport wordt verondersteld voldoende nauwe aanknoping met het Nederlands grondgebied te hebben, indien voldaan is aan de volgende voorwaarden:
 
-Het rechtmatig verblijf eindigt niet gedurende een periode van ten minste zes maanden, nadat de onderdaan onvrijwillig werkloos is geworden door afloop van een arbeidsovereenkomst van korter dan één jaar, dan wel nadat hij gedurende de eerste twaalf maanden onvrijwillig werkloos geworden is, indien hij als werkzoekende bij de CWI is ingeschreven (zie [artikel 8.12, tweede lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)).
+Na vijf jaren verblijf als gemeenschapsonderdaan kan hij in aanmerking komen voor een document ‘Duurzaam verblijf burgers van de Unie’, na betaling van de ter afdoening van de aanvraag verschuldigde leges.
 
-### 3.5.3. Verwijtbaar werkloos
+### 3.5.1. Tijdelijke arbeidsongeschiktheid
 
 ### 4.2. Studenten
 
-### 4.2.1. Beroepsopleiding
+### 3.5.3. Verwijtbaar werkloos
 
 ### 4.2.2. Voldoende middelen van bestaan
 
@@ -11009,17 +11009,17 @@ Het rechtmatig verblijf eindigt niet gedurende een periode van ten minste zes ma
 
 ### 4.2. Waarborgen
 
+De bovengenoemde termijnen van wonen en tewerkstelling gelden niet, indien de echtgeno(o)t(e) of partner met wie een geregistreerd partnerschap is aangegaan van de EU/EER-onderdaan of Zwitserse onderdaan:
+
+Het bij voortduring in Nederland wonen kan worden aangetoond aan de hand van een historisch overzicht uit de GBA (zie [artikel 8.17, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17)).
+
+Perioden van afwezigheid, die in totaal zes maanden per jaar niet overschrijden zijn niet van invloed op het bij voortduring in Nederland wonen. Afwezigheid van langere tijd, is niet van invloed op het bij voortduring in Nederland wonen in de volgende gevallen:
+
 De EU/EER-onderdaan of Zwitserse onderdaan kan (aan de hand van de documenten genoemd in B10/3.3) aantonen dat hij voortdurend reële en daadwerkelijke arbeid heeft verricht. Perioden van afwezigheid als gevolg van ziekte of ongeval (zie B10/3.5.1) en van onvrijwillige werkloosheid (zie B10/3.5.2) worden aangemerkt als perioden van tewerkstelling.
 
+### 3.6.4. Bedenktijd
+
 De EU/EER-onderdaan of Zwitserse onderdaan, die verblijfsrecht ontleent aan de regelingen omtrent voortzetting van verblijf, beschikt over een termijn van twee jaar om dit recht uit te oefenen. Kortom, hij heeft een bedenktijd van twee jaar, die ingaat op het moment dat het recht op voortzetting van verblijf ontstaat, waarin hij ook het Nederlandse grondgebied kan verlaten. Dit geldt niet voor de grensarbeiders.
-
-Hetzelfde geldt voor een aanvullend beroep gedurende twaalf maanden of meer. Indien betrokkene in meer achtereenvolgende jaren van verblijf of binnen een jaar meermalen een beroep doet op een zodanige uitkering, vormt hij daardoor als regel een onredelijke last en is verblijfsbeëindiging in het algemeen een evenredig middel.
-
-Onder aanvullend beroep op de bijstand wordt in dit verband verstaan een beroep ter hoogte van minder dan 50% van de toepasselijke bijstandsnorm ingevolge de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
-
-### 3.4. Recht op voortzetting van verblijf gezinsleden Turkse werknemers
-
-Het is aan de betrokken burger van de Unie, als daartoe meest gerede partij en gegeven zijn beroep op een uitkering ten behoeve van het levensonderhoud, om relevante gegevens en bescheiden ter zake te verstrekken.
 
 ### 4.2. Studenten
 
@@ -11029,41 +11029,41 @@ Het is aan de betrokken burger van de Unie, als daartoe meest gerede partij en g
 
 Indien betrokkene een (aanvullend) beroep doet op een uitkering voor het levensonderhoud (zoals bijstand) in het eerste jaar van verblijf, vormt betrokkene als regel een onredelijke last in de bovenbedoelde zin en is verblijfsbeëindiging in het algemeen een evenredig middel.
 
-### 5.3. Familie- of gezinsleden van Nederlanders
+### 4.3. Beroep op de publieke middelen
 
 ### 5.3.1. Discriminatie eigen onderdanen
 
-Indien betrokkene een aanvullend beroep terzake doet van achttien maanden of meer in totaal, binnen drie jaren van verblijf, is verblijfsbeëindiging in het algemeen eveneens een evenredig middel.
+Indien betrokkene een (aanvullend) beroep doet op een uitkering voor het levensonderhoud (zoals bijstand) in het eerste jaar van verblijf, vormt betrokkene als regel een onredelijke last in de bovenbedoelde zin en is verblijfsbeëindiging in het algemeen een evenredig middel.
 
-Bij de in dit kader vereiste belangenafweging wordt – naast de vorenbedoelde duur van het verblijf, de duur, de frequentie en de omvang van het beroep dat op de middelen van de lidstaat wordt gedaan – betrokken de reden waarom de betrokkene tijdelijk dan wel permanent niet in staat is in zijn levensonderhoud te voorzien, alsmede de banden die betrokkene nog heeft met zijn land van herkomst, alsmede diens gezinssituatie en diens medische situatie.
+In het derde jaar van verblijf wordt een dergelijk eerste, meer dan aanvullend, beroep als regel onredelijk geacht, indien het zes maanden of meer voortduurt. Hetzelfde geldt voor een aanvullend beroep gedurende negen maanden of meer.
 
-Het is aan de betrokken burger van de Unie, als daartoe meest gerede partij en gegeven zijn beroep op een uitkering ten behoeve van het levensonderhoud, om relevante gegevens en bescheiden ter zake te verstrekken.
+In het vierde jaar van verblijf wordt een dergelijk eerste, meer dan aanvullend, beroep als regel onredelijk geacht, indien het negen maanden of meer voortduurt.
 
 ### 5.3.2. Nederlanders die rechten kunnen ontlenen aan gemeenschapsrecht
 
 ### 5.2.2. Familielid niet zelf EU/EER- of Zwitsers onderdaan
 
-Een beroep op studiefinanciering, of bijstand, voor het levensonderhoud kan – ook al wordt dat beroep niet gehonoreerd – betekenen dat niet meer wordt voldaan aan de voorwaarden die aan het verblijfsrecht als student zijn verbonden, in welk geval het verblijf kan worden beëindigd.
+Het is aan de betrokken burger van de Unie, als daartoe meest gerede partij en gegeven zijn beroep op een uitkering ten behoeve van het levensonderhoud, om relevante gegevens en bescheiden ter zake te verstrekken.
 
-Het is niet vereist dat de hier bedoelde familieleden permanent met de EU- of EER-onderdaan of Zwitserse onderdaan, of diens echtgenoot of geregistreerd partner, samenwonen, mits de juridische familieband niet is verbroken en aan de overige vereisten is voldaan.
+Het familie- of gezinslid van een onderdaan van de EU, de EER en Zwitserland, dat rechtmatig verblijf heeft in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), wordt eveneens aangemerkt als gemeenschapsonderdaan. Het is daarbij voor het verblijfsrecht niet van belang of het familie- of gezinslid zelf onderdaan van de EU, de EER en Zwitserland is. Het familie- of gezinslid heeft ook rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 ### 5.4. Recht op voortzetting van verblijf van het familie- of gezinslid
 
-Het onderscheid tussen rechtmatig verblijf in de vrije termijn en rechtmatig verblijf als gemeenschapsonderdaan blijft wel gehandhaafd ten aanzien van de familieleden die geen onderdaan zijn van een EU- of EER-lidstaat of Zwitserland. Het rechtmatig verblijf (in de zin van [artikel 8, onder i, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8)) van het familielid dat niet de nationaliteit heeft van een EU- of EER-lidstaat of Zwitserland, blijkt in de eerste periode van drie maanden uit diens geldige paspoort met een op grond van [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) gestelde aantekening omtrent rechtmatig verblijf. Het rechtmatige verblijf kan voorts blijken uit het geldige paspoort, voorzien van het eventueel voor inreis benodigde visum of een recente aantekening omtrent inreis (inreisstempel, zie [artikel 4.21 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.21)) dan wel uit het geldige paspoort en een door een andere lidstaat afgegeven geldige verblijfskaart.
+Ook voor het verblijfsrecht voor langer dan drie maanden geldt voor deze familieleden, die EU- of EER-onderdaan of onderdaan van Zwitserland zijn, de verplichting tot aanmelding ter inschrijving in de vreemdelingenadministratie als opgenomen in [artikel 8.12, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12). Zie verder B10/2.5.2, welke van overeenkomstige toepassing is. Als het bewijs dat aan de voorwaarden voor verblijf van langer dan drie maanden wordt voldaan is geleverd, wordt de burger van de Unie ingeschreven in de vreemdelingenadministratie en wordt onmiddellijk een verklaring van inschrijving afgegeven.
 
-### 5.4.4. Kinderen die 21 jaar worden
+### 5.2.2. Familielid niet zelf EU/EER- of Zwitsers onderdaan
 
 ### 5.4.3. Familielid onderdaan derde land
 
-Binnen zes maanden na ontvangst van de aanvraag om het document EU/EER met de aantekening ‘familielid van een burger van de Unie’, dient het verblijfsdocument te worden verstrekt. [Artikel 25, tweede en derde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=25) is niet van toepassing (zie [artikel 8.13, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.13)). Het rechtmatig verblijf van het familielid, dat niet zelf EU- of EER-onderdaan of onderdaan van Zwitserland is, wordt niet beïnvloed door tijdelijke afwezigheid van niet meer dan zes maanden per jaar, door afwezigheden van langere duur voor de vervulling van militaire verplichtingen, door één afwezigheid van ten hoogste twaalf maanden om belangrijke redenen, zoals zwangerschap en bevalling, ernstige ziekte, studie of beroepsopleiding, noch door uitzending om werkzaamheden te verrichten in een andere lidstaat of een derde land. Het is aan de vreemdeling om zulks met documenten te staven (zie [artikel 8.15 Vb, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.15)).
+Op het verblijfsdocument wordt de volgende aantekening geplaatst: ‘arbeid vrij toegestaan; TWV niet vereist’. Dit houdt in dat het familie- of gezinslid, ongeacht de nationaliteit, het recht heeft om arbeid, al dan niet in loondienst, te verrichten. Voor de behandeling van de aanvraag om toetsing aan het gemeenschapsrecht en afgifte van het daaraan verbonden verblijfsdocument is een legesbedrag verschuldigd. De aanmelding voor het indienen van een aanvraag moet ingevolge [artikel 8.13, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.13), plaatsvinden binnen één maand na afloop van de periode van drie maanden rechtmatig verblijf op grond van [artikel 8.11 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.11).
 
 ### 5.3. Familie- of gezinsleden van Nederlanders
 
-### 5.4.4. Kinderen die 21 jaar worden
+### 5.3.1. Discriminatie eigen onderdanen
 
-De verdragsbepalingen betreffende het vrije verkeer van werknemers en de uitvoeringsregeling hiervan, kunnen volgens het Hof niet worden toegepast op situaties die geen enkel aanknopingspunt hebben met één van de situaties waarvoor het gemeenschapsrecht is geschreven.
+Het Hof van Justitie van de EG (HvJEG, 27 oktober 1982, Morson en Jhanjan) heeft aanvaard dat Nederlanders, die nooit gebruik hebben gemaakt van het recht van vrij verkeer van werknemers binnen de EU/EER, op het gebied van gezinsherenigingbeleid in eigen land mogen worden achtergesteld bij gemeenschapsonderdanen in Nederland.
 
-Met name een verrichter van diensten, van Nederlandse nationaliteit, kan onder omstandigheden worden aangemerkt als dienstverrichter bedoeld in artikel 49 EG-Verdrag, als gevolg waarvan weigering van een verblijfsvergunning aan de echtgenote van die dienstverrichter – onder omstandigheden – een niet te rechtvaardigen inmenging in het familie- en gezinsleven van de dienstverrichter kan betekenen (zie in dit verband B10/3.6).
+Nederlanders zijn weliswaar EU/EER-onderdanen, maar zij zijn in beginsel geen gemeenschapsonderdaan als hier bedoeld. Nederlanders kunnen daarom in het algemeen geen beroep doen op het gemeenschapsrecht voor verblijf van familie- of gezinsleden. Voor de verlening van een verblijfsvergunning aan familie- of gezinsleden van Nederlanders zijn daarom, behoudens enkele uitzonderingen, ingevolge [artikel 13 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=13) de regels voor verlening van een verblijfsvergunning als genoemd in B2 onverkort van toepassing.
 
 ### 5.3.2. Nederlanders die rechten kunnen ontlenen aan gemeenschapsrecht
 
@@ -11073,7 +11073,7 @@ Indien het familielid reeds duurzaam verblijf heeft (zie [artikel 8.17 Vb](https
 
 Over de reikwijdte van het behoud van rechten krachtens het gemeenschapsrecht van de eigen onderdaan na terugkeer in het eigen land, heeft het Hof bepaald dat deze strekt zolang er een directe relatie bestaat tussen het gezinsleven en het vrij verkeer van werknemers. Het gaat dus om rechten krachtens het gemeenschapsrecht, waaraan reeds uitvoering is gegeven. Voor de verlening van een verblijfsvergunning aan familie- of gezinsleden van de eigen onderdaan, die niet in de andere lidstaat bij hem hebben verbleven op grond van het EG-Verdrag, zijn daarom de regels als genoemd in B2 onverkort van toepassing.
 
-### 6.1.2. Antecedentenverklaring
+### 5.3.2.2. Voortzetting van verblijf bij naturalisatie
 
 ### 5.3.2.2. Voortzetting van verblijf bij naturalisatie
 
@@ -11081,71 +11081,71 @@ Het recht gaat verloren, indien de Nederlander niet meer voldoet aan de beperkin
 
 ### 5.4. Recht op voortzetting van verblijf van het familie- of gezinslid
 
-Het verblijfsrecht van een burger van de Unie en zijn familieleden, ongeacht hun nationaliteit, kan worden ontzegd of worden beëindigd om redenen van volksgezondheid in het geval van potentieel epidemische ziekten als gedefinieerd in de relevante instrumenten van de Wereldgezondheidsorganisatie dan wel in geval van andere infectieziekten of besmettelijke parasitaire ziekten, ten aanzien waarvan in Nederland beschermende regelingen ten aanzien van Nederlanders worden genomen (zie [artikel 8.23 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.23)).
+Zolang de familierelatie of de gezinsband met de hoofdpersoon in stand blijft en de hoofdpersoon als gemeenschapsonderdaan is aan te merken, is het familie- of gezinslid eveneens als zodanig aan te merken.
 
-Het rechtmatig verblijf wordt niet om redenen van volksgezondheid beëindigd indien de ziekte later dan drie maanden na inreis is opgetreden (zie [artikel 8.23, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.23)).
+Het rechtmatig verblijf van het familielid dat zelf onderdaan is van de EU/EER of van Zwitserland eindigt niet door:
 
 Indien het familielid reeds duurzaam verblijf heeft (zie [artikel 8.17 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17)) dan blijft dit recht behouden. Indien er nog geen sprake is van duurzaam verblijf kan betrokkene het verblijf voortzetten als economisch actieve of economisch niet-actieve, mits er geen onevenredig beroep op de publieke middelen wordt gedaan.
 
-In dit onderdeel wordt nader ingegaan op het recht op voortzetting van verblijf van familieleden van EU- EER-onderdanen en familieleden van onderdanen van Zwitserland, die zelf niet de nationaliteit van een EU- of EER-lidstaat of van Zwitserland hebben. [Artikel 8.15 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.15) ziet op het (niet-) beëindigen van het verblijfsrecht van deze familieleden. Het verblijfsrecht eindigt niet:
+Het verblijfsrecht van familieleden, die geen EU- of EER-onderdaan of onderdaan van Zwitserland zijn, voordat zij het duurzame verblijfsrecht te verkrijgen, blijft onderworpen aan de voorwaarde dat is aangetoond dat zij werknemer of zelfstandige zijn, of voor zichzelf en hun familieleden beschikken over toereikende bestaansmiddelen om te voorkomen dat zij tijdens hun verblijf ten laste komen van het sociale bijstandsstelsel en om te garanderen dat zij beschikken over een verzekering die de ziektekosten in Nederland volledig dekt. Onder toereikende middelen wordt verstaan dat de vreemdeling beschikt over een inkomen ter hoogte van het normbedrag dat ingevolge de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) voor de desbetreffende categorie is vastgesteld. Het vorenstaande is eveneens van toepassing, indien het familielid gezinslid is van het reeds in Nederland gevormde gezin van een persoon die aan deze voorwaarden voldoet.
 
-In [artikel 8.15, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.15) gelezen in samenhang met [artikel 8.15, tweede lid, onder b, en derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.15), wordt met betrekking tot voortzetting van verblijf en een beroep op de publieke middelen een uitzondering gemaakt voor studerende kinderen en hun verzorgende ouder.
-
-Van burgers van de Unie en hun familieleden, ongeacht hun nationaliteit, mag niet worden verlangd dat zij bewijzen van goed gedrag, uittreksels uit het strafregister en dergelijke overleggen.
+Het rechtmatig verblijf van burgers van de Unie en hun gezinsleden eindigt niet, zolang zij voldoen aan de voorwaarden voor verblijf (zie [artikelen 8.12 tot en met 8.15 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)). In specifieke gevallen van redelijke twijfel over de vraag of een burger van de Unie of zijn familieleden wel voldoen aan de voorwaarden, kan daartoe een onderzoek ter verificatie worden ingesteld. De verificatie geschiedt evenwel niet stelselmatig. Een beroep van de burger van de Unie of zijn familieleden op het sociale bijstandsstelsel leidt niet automatisch tot beëindiging van het rechtmatige verblijf. Het verblijf van een burger van de Unie of zijn familieleden kan, buiten de aanwezigheid van een actuele en (voldoende) ernstige bedreiging van de openbare orde of openbare veiligheid, in geen geval worden beëindigd indien de burger van de Unie werknemer of zelfstandige is, of indien hij Nederland is binnengekomen om werk te zoeken. In dat laatste geval kunnen de burger van de Unie en zijn gezinsleden niet worden verwijderd zolang de burger van de Unie kan bewijzen dat hij nog immer werk zoekt en een reële kans maakt te worden aangesteld.
 
 Het afhankelijke verblijfsrecht eindigt in beginsel van rechtswege bij het bereiken van de leeftijd van 21 jaar, behalve indien het kind feitelijk ten laste blijft komen van de ouder van wie zijn verblijfsrecht afhankelijk was, bijvoorbeeld omdat het kind in Nederland studeert. Het kind behoudt in dat geval als bloedverwant in neerdalende lijn zijn afhankelijk verblijfsrecht.
 
-### 8.1. Werkzoekenden
+Wanneer het kind niet meer ten laste komt van de gemeenschapsonderdaan en zelf geen verblijfsrecht kan ontlenen aan het EG-Verdrag of de Overeenkomst EG-Zwitserland, zijn de regels vermeld in B2 van toepassing.
+
+### 6. Onderdanen van België en Luxemburg
 
 ### 6.1. Verblijfsdocument
 
 ### 6.1.1. Gevaar voor de volksgezondheid
 
-Het verbod om vreemdelingen zonder TWV te werk te stellen is op grond van [artikel 1e van het Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1e) niet van toepassing op werkzaamheden in het kader van grensoverschrijdende dienstverlening als aan de volgende voorwaarden wordt voldaan:
+Ten aanzien van Belgen en Luxemburgers dient te worden afgezien van het doen ondertekenen van een antecedentenverklaring. Ingevolge de Beneluxovereenkomst kunnen zij bij het indienen van een aanvraag om een verblijfsvergunning eigener beweging een bewijs van goed zedelijk gedrag overleggen.
 
 ### 6.2. Weigering verlenging of intrekking verblijfsdocument
 
 ### 8.4. Andere verblijfsdoelen dan arbeid in loondienst
 
-Het rechtmatig verblijf wordt niet om redenen van volksgezondheid beëindigd indien de ziekte later dan drie maanden na inreis is opgetreden (zie [artikel 8.23, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.23)).
+Het rechtmatig verblijf kan voorts worden beëindigd indien de vreemdeling onjuiste gegevens heeft verstrekt, dan wel gegevens heeft achtergehouden, terwijl die gegevens zouden hebben geleid tot weigering van toegang of verblijf (zie [artikel 8.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.25)). Het gaat hier om maatregelen die getroffen kunnen worden tegen misbruik van recht of fraude, zoals schijnhuwelijk. Deze maatregelen moeten evenredig zijn (zie [artikel 3:4 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:4)). Toepassing van [artikel 8.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.25) leidt tot een beschikking waartegen rechtsmiddelen mogelijk zijn.
 
-Duurzaam verblijfsrecht kan slechts worden beëindigd in de volgende situaties (zie [artikel 8.18 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.18)):
+Verblijfsbeëindiging om redenen van volksgezondheid is, gezien ook het gestelde in [artikel 8.23, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.23), niet mogelijk.
 
 ### 8.2. Arbeid in loondienst
 
 ### 7.2. Uitzetting
 
-### 8. Overgangsrecht onderdanen van Bulgarije en Roemenië
+### 8.1. Werkzoekenden
 
 Op het verblijfsdocument van de gezins- of familieleden wordt in beginsel dezelfde arbeidsmarktaantekening geplaatst als op het document van de vreemdeling van wie hun verblijfsrecht afhankelijk is. Dat geldt ook voor wat betreft de aantekeningen inzake beroep op de publieke middelen.
 
-Ingevolge artikel IX Richtlijn 2004/38, wordt aan onderdanen van staten, die op 1 mei 2004 zijn toegetreden of daarna toetreden tot de EU alsmede hun gezinsleden, ongeacht hun nationaliteit, een document rechtmatig verblijf verleend waaruit rechtmatig verblijf blijkt, voor de duur van vijf jaar of tenminste voor de duur van de dienstverlening.
+De arbeidsmarktaantekening luidt: ‘arbeid in loondienst alleen toegestaan indien de werkgever beschikt over TWV’.
 
-### 3.2. Aard van het verblijf van Turkse werknemers en hun gezinsleden
+### 8.4. Andere verblijfsdoelen dan arbeid in loondienst
 
 ### 3.2. Aard van het verblijf van Turkse werknemers en hun gezinsleden
 
 ### 3.3. Recht op voortzetting van verblijf voor Turkse werknemers
 
-Daarbij wordt voorts verwezen naar de [paragrafen 24 en 26 van de Uitvoeringsregels bij het Delegatie- en uitvoeringsbesluit Wav](onbekend), inzake stagiaires, respectievelijk arbeid van bijkomende aard (zie D2/2).
+Ook in de daar omschreven gevallen, van door een student te verrichten arbeid, is een TWV vereist, ook al wordt die arbeid aangemerkt als zijnde van bijkomende aard.
 
 De in voorgaande subparagrafen bedoelde onderdanen en hun gezinsleden, ongeacht hun nationaliteit, worden desgewenst in de gelegenheid gesteld een aanvraag te doen om toetsing aan het gemeenschapsrecht en afgifte van het daarmee corresponderende verblijfsdocument, ter zake waarvan leges zijn verschuldigd.
 
 Ter zake van de afdoening van deze aanvragen leiden de legesbepalingen van de [artikelen 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34), [3.34c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34c) en [3.34d, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34d) tot hogere legesverplichtingen.
 
-Bij de beoordeling of de Turkse werknemer recht heeft op voortzetting van verblijf wordt gecontroleerd of:
+Terzake van het verrichten van arbeid in loondienst, geheel of ten dele bestaande uit het verrichten van seksuele handelingen met derden of voor derden, geldt ingevolge [artikel 2 Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), in samenhang met [artikel 3 Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=3), een verbod op tewerkstelling doordat een TWV wordt geweigerd. Zolang dit geldt, wordt terzake van het door onderdanen van Bulgarije en Roemenië verrichten van zodanige werkzaamheden geen verblijfsdocument EU/EER afgegeven.
 
-### 6.3. Toegang en verblijf in Nederland
+### 11. Verdragen
 
 Op grond van nationaal beleid geldt dat de Turkse werknemer, nadat hij drie jaar onafgebroken legale arbeid in hetzelfde beroep bij dezelfde werkgever heeft verricht, vrije toegang heeft tot iedere arbeid van zijn keuze (zie B5/3.2.2). Dit betekent dat het bepaalde in artikel 6, eerste lid, derde gedachtestreepje, Associatiebesluit 1/80 reeds na drie jaar legale arbeid van toepassing is.
 
-### 15.1. Binnenkomst en verblijf
-
-Besluit nr. 1/80 is van toepassing op Turkse werknemers en hun gezinsleden die op grond van nationale wet- en regelgeving in Nederland rechtmatig verblijf hebben verkregen. Besluit nr. 1/80 is derhalve niet van toepassing op de eerste toelating (zie Hof van Justitie van de EG, 11 november 2004, Cetinkaya C-467/02 en 21 oktober 2003, Abatay e.a., C-317/01 en 369/01, JV 2004, 2).
+### 2. EVRM
 
 De werknemer en zijn gezinsleden hebben op basis van het nationale vreemdelingenrecht echter veelal aanspraak op voortzetting van verblijf. Besluit nr. 1/80 is daarom in de regel slechts van belang voor de Turkse werknemer en zijn gezinsleden indien zij geen recht op voortzetting van verblijf kunnen ontlenen aan het nationale vreemdelingenrecht.
 
-### 3.3.3. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
+De werknemer en zijn gezinsleden hebben op basis van het nationale vreemdelingenrecht echter veelal aanspraak op voortzetting van verblijf. Besluit nr. 1/80 is daarom in de regel slechts van belang voor de Turkse werknemer en zijn gezinsleden indien zij geen recht op voortzetting van verblijf kunnen ontlenen aan het nationale vreemdelingenrecht.
+
+### 3.3.2. Recht voortzetting verblijf
 
 ### 3.4. Recht op voortzetting van verblijf gezinsleden Turkse werknemers
 
@@ -11153,33 +11153,33 @@ De werknemer en zijn gezinsleden hebben op basis van het nationale vreemdelingen
 
 ### 4. Het Europees vestigingsverdrag
 
-De vaststelling of betrokkene drie jaar legale arbeid in hetzelfde beroep bij dezelfde werkgever heeft verricht vindt plaats op de wijze als vermeld onder a.
+De Turkse werknemer die drie jaar legale arbeid heeft verricht, heeft daarmee het recht om zijn dienstbetrekking vrijwillig te beëindigen, onder voorwaarde dat hij binnen een redelijke termijn een nieuwe dienstbetrekking vindt en gedurende deze periode blijft behoren tot de legale arbeidsmarkt en geen beroep doet op de publieke middelen. Er is sprake van het blijven behoren tot de legale arbeidsmarkt als betrokkene zich na de vrijwillige beëindiging van zijn dienstbetrekking onmiddellijk inschrijft bij een arbeidsbureau en zich volledig beschikbaar stelt voor het verrichten van werkzaamheden.
 
 ### 4.1. Begunstigde
 
 ### 4. Het Europees vestigingsverdrag
 
-Bij de berekening van tijdvakken van legale arbeid moet rekening gehouden worden met tijdvakken waarin betrokkene geen arbeid (heeft) verricht (zie artikel 6, tweede lid, Associatiebesluit 1/80).
+Jaarlijkse vakanties en perioden van afwezigheid wegens zwangerschap, arbeidsongeval of kortdurende ziekte worden gelijkgesteld met tijdvakken van legale arbeid.
 
-Tijdvakken van onvrijwillige werkloosheid die naar behoren zijn geconstateerd door de bevoegde autoriteiten, alsmede perioden van afwezigheid wegens langdurige ziekte worden niet gelijkgesteld met tijdvakken van legale arbeid. Op het moment dat de werkzaamheden worden hervat, wordt weer verder gegaan met de opbouw van tijdvakken van legale arbeid.
+Vrijwillige werkloosheid gedurende de opbouw van de eerste drie jaar legale arbeid heeft tot gevolg dat reeds opgebouwde rechten verloren gaan. Ook werkloosheid ten gevolge van een detentie heeft gedurende de opbouw van de eerste drie jaar legale arbeid tot gevolg dat de reeds opgebouwde rechten verloren gaan. In het geval van hervatting van werkzaamheden, wordt weer van voor af aan begonnen met de opbouw van tijdvakken van legale arbeid en daarmee de opbouw van rechten.
 
-### 15.1.2. Binnenkomst na 24 november 1980
+### 3.3.3. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
-Het verblijfsrecht gaat verloren indien het grondgebied van Nederland voor zes maanden of langer is verlaten, tenzij deze afwezigheid is gelegen in het vervullen van de militaire dienstplicht (zie bovengenoemde zaak Ergat en B10/7.1).
-
-### 8.2. Arbeid in loondienst
+Onder gezinsleden wordt verstaan, de echtgenoot van de Turkse werknemer, hun bloedverwanten in neergaande lijn beneden de leeftijd van 21 jaar of die te hunnen laste zijn en de bloedverwanten in opgaande lijn van deze werknemer en van zijn echtgenoot, die te hunnen laste zijn (zie Hof van Justitie van de EG, 30 september 2004, Ayaz, C-275/02; zie B10). Gelet op de gelijkstelling in Nederland tussen echtgenoten en geregistreerd partners is hetgeen is bepaald met betrekking tot de echtgeno(o)t(e) ook van toepassing op de geregistreerde partner van een Turkse werknemer.
 
 ### 3.4.1. Nationaal recht
 
-Deze bepaling is niet vertaald in het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825), maar de algemene regeling van [artikel 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) en [3.87 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.87) geeft – materieel inhoudelijk bekeken – een rechtsbescherming die ten minste even sterk is als de rechtsbescherming die voortvloeit uit het Verdrag.
+### 3.4.1. Nationaal recht
+
+Gezinsleden hebben vrije toegang tot iedere arbeid van hun keuze indien zij:
 
 ### 4.3. Aantekening in de identiteitspapieren
 
 ### 16.3.1. Uitzetting, afwijzing en intrekking van de aanvraag
 
-Het verblijfsrecht gaat verloren indien het grondgebied van Nederland voor zes maanden of langer is verlaten, tenzij deze afwezigheid is gelegen in het vervullen van de militaire dienstplicht (zie bovengenoemde zaak Ergat en B10/7.1).
+De door de Turkse werknemer opgebouwde rechten gaan verloren wanneer hij de Nederlandse arbeidsmarkt definitief heeft verlaten en daardoor geen verband meer bestaat tussen (toekomstige) arbeid in loondienst en het daarmee samenhangende recht op verblijf. Daarvan is sprake indien de Turkse werknemer de pensioengerechtigde leeftijd heeft bereikt of blijvend en volledig arbeidsongeschikt is geworden (zie de zaken Nazli en Bozkurt).
 
-Op grond van de overeenkomst tussen Nederland en Duitsland tot het vermijden van dubbele belasting zijn Duitse uitkeringen uit de sociale verzekering voor in Nederland wonende Duitsers in principe onderworpen aan de Duitse belastingheffing. Echter, in de praktijk wordt in Duitsland geen loonbelasting op deze uitkeringen ingehouden en wordt evenmin een aanslag Duitse inkomstenbelasting opgelegd, behalve indien nog andere inkomsten uit Duitsland worden genoten. Dit heeft tot gevolg dat in de regel op een in Nederland ontvangen Duitse uitkering door Nederland noch door Duitsland een enkele inhouding heeft plaatsgevonden.
+Het Associatiebesluit 1/80 heeft geen betrekking op Turkse zelfstandigen en zijn gezinsleden. Een Turkse onderdaan die in Nederland wenst te verblijven in verband met het verrichten van arbeid als zelfstandige dient te voldoen aan de algemene voorwaarden voor zelfstandigen, met uitzondering van de voorwaarde dat de leeftijd van 60 jaar nog niet bereikt is (zie B5/7.7). Voorts is niet het communautaire openbare orde-criterium van toepassing is, maar het nationale openbare orde beleid.
 
 Partij bij voornoemd verdrag zijn: Nederland, België, Denemarken, Duitsland, Griekenland, Ierland, Italië, Luxemburg, Noorwegen, Turkije, het Verenigd Koninkrijk en Zweden.
 
@@ -11191,25 +11191,25 @@ Het Europees vestigingsverdrag verschaft de onderdanen van alle bedoelde landen 
 
 ### 6. Het Nederlands-Zwitserse Traktaat
 
-Op 21 juni 1999 is de Overeenkomst EG-Zwitserland tot stand gekomen. Bij [wet van 14 september 2001](onbekend) heeft Nederland deze Overeenkomst goedgekeurd (Stb. 2001, 432) en op 16 november 2001 geratificeerd. De Overeenkomst is per 1 juni 2002 in werking getreden.
+Onderdanen van een Verdragsluitende Partij, die langer dan tien jaar rechtmatig op het grondgebied van enige andere Partij wonen, kunnen slechts worden verwijderd om redenen van nationale veiligheid dan wel openbare orde of goede zeden van bijzonder ernstige aard (zie artikel 3, derde lid, van het Verdrag).
 
 Zulks is niet meer dan al geldt ingevolge de algemene regels inzake verblijfsbeëindiging op grond van openbare orde (zie B1/4.4).
 
-### 12. Overeenkomst EEG-Algerije, Israël, Jordanië, Marokko en Tunesië
+### 5. Het Nederlands-Duits Vestigingsverdrag
 
-Het Protocol vermeldt als vereiste onder meer paspoort. Daaronder wordt verstaan een geldig nationaal paspoort.
+Op 17 december 1904 is het Nederlands-Duits Vestigingsverdrag in werking getreden. Het Nederlands-Duits Vestigingsverdrag voorziet in de mogelijkheid van vrije vestiging van wederzijdse onderdanen in de beide verdragstaten.
 
 ### 5.1. Begunstigde
 
 ### 6.3.2. Arbeid in loondienst
 
-Bovenstaande ‘belastingovereenkomst’ doet echter geen afbreuk aan de bevoegdheid van Nederland om, als woonstaat van de rechthebbende, de uitbetaalde Duitse uitkering op te nemen in de grondslag waarnaar de Nederlandse belasting wordt geheven. Nu een ontvanger van een Duitse uitkering in Nederland vrijwel altijd aangifteplichtig is, is een ontvangen Duitse uitkering niet zonder meer geheel aan te merken als netto-inkomen. Rekening dient immers te worden gehouden met de Nederlandse belasting- en premieheffing over deze uitkering. Ter zake kan overigens vrijstelling van verzekeringsplicht en premiebetaling voor de volksverzekeringen zijn verleend door de SVB.
+Hoewel het aan betrokkene is om aan te tonen dat hij beschikt over voldoende middelen van bestaan in de zin van dit verdrag, kunnen eventuele vragen/twijfels bestaan over de daadwerkelijke hoogte van het gestelde netto bedrag. Inlichtingen over (de invloed van) Duitse uitkeringen (op de heffing inkomstenbelasting en/of premie voor de volksverzekeringen) in Nederland kunnen worden verkregen bij het Bureau voor Duitse Zaken te Nijmegen.
 
 ### 6.4. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
-Hier wordt aangesloten bij de lijst van besmettelijke ziekten die als [bijlage bij het Vb](onbekend) is gevoegd.
+Verwezen wordt naar [artikel 21 tot en met 27 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), [hoofdstuk 3, afdeling 3, van het Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&afdeling=3) en naar B1/6.
 
-### 7. Europa-overeenkomsten met Bulgarije en Roemenië
+### 5.3. Beperking en (arbeidsmarkt)aantekeningen
 
 ### 7.1.1. Verblijfsvoorwaarden
 
@@ -11219,23 +11219,23 @@ Op 21 juni 1999 is de Overeenkomst EG-Zwitserland tot stand gekomen. Bij [wet va
 
 ### 6.3. Toegang en verblijf in Nederland
 
-Het Nederlands-Zwitsers Traktaat voorziet in de mogelijkheid van vrije toegang en vestiging van wederzijdse onderdanen in de beide verdragstaten. Een onderdaan van Zwitserland heeft op grond van het Nederlands-Zwitsers Traktaat recht op een behandeling die niet minder gunstig is dan de behandeling van een Nederlander, indien hij zich in Nederland wil vestigen en/of alhier economische activiteiten wil gaan verrichten.
+In het Protocol is opgenomen dat aan een Zwitsers onderdaan de toegang tot Nederland kan worden geweigerd en hij kan worden verwijderd dan wel uitgezet, indien hij:
 
 ### 15.1. Binnenkomst en verblijf
 
-Op een Zwitsers onderdaan, die zich in Nederland wil vestigen om alhier economische activiteiten als zelfstandige te gaan verrichten, is [artikel 3.30, eerste lid, onder a en b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30) niet van toepassing. Dit betekent dat hij niet behoeft te voldoen aan de voorwaarden als genoemd in B5/7.5 en B5/7.7. De aanvraag hoeft dus niet aan het Ministerie van EZ te worden voorgelegd voor een toetsing aan het wezenlijk Nederlands economisch belang.
+De aanvraag om een verblijfsvergunning wordt echter afgewezen, indien niet is voldaan aan een of meer van de algemene voorwaarden als genoemd in [artikel 16, eerste lid, aanhef en onder d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en B5/7.3 en B5/7.4.
 
-### 8.3. Gezinshereniging
+### 6.3.2. Arbeid in loondienst
 
-Indien een op grond van het Nederlands-Amerikaans Vriendschapsverdrag hier te lande verblijvende Amerikaanse vreemdeling (hoofdpersoon) arbeid in loondienst wenst te verrichten, dient wijziging van de vergunning te worden gevraagd en dient de werkgever te beschikken over een TWV (zie B5 en artikel 11 van het bijbehorende Protocol).
+Een onderdaan van Zwitserland die geen economische activiteiten verricht en niet op grond van een ander verblijfsdoel in Nederland verblijft, komt op grond van het Nederlands-Zwitsers Traktaat voor verblijf in Nederland in aanmerking indien en zolang hij beschikt over voldoende middelen van bestaan.
 
 ### 6.4. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
-De verblijfsvergunning wordt verleend onder de beperking ‘verblijf op grond van het Nederlands-Zwitserse Traktaat’. De arbeidsmarktaantekening luidt: ‘Arbeid vrij toegestaan. TWV niet vereist.’
+Tevens wordt de verblijfsvergunning voorzien van de aantekening: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
 
 ### 16. Het Staatlozenverdrag
 
-en Roemenië (PB EG 1994, L 357, bladzijde 1) Europa-overeenkomsten gesloten.
+Deze Europa-overeenkomsten hadden tot doel een associatie tot stand te brengen om uitbreiding van de handel en economische betrekkingen tussen de verdragspartijen te bevorderen en daarmee de dynamische ontwikkeling en welvaart in Bulgarije en Roemenië te stimuleren, teneinde de toetreding tot de EG te vergemakkelijken. Door de toetreding van Bulgarije en Roemenië tot de EU op 1 januari 2007 hebben deze overeenkomsten hun betekenis verloren.
 
 ### 16.3. Belang
 
@@ -11243,27 +11243,27 @@ De vreemdeling die bijstand geniet, mag voortzetting van verblijf slechts worden
 
 Onder repatriëring wordt verstaan verblijfsbeëindiging inclusief uitzetting. Onder het behoeven van bijstand wordt verstaan het beroep doen op de publieke middelen.
 
-### 7.2.2. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
+### 7.3. Actuele bedreiging van de openbare orde en nationale veiligheid
 
 ### 8. Het Nederlands-Amerikaans Vriendschapsverdrag
 
 ### 10.1. Begunstigde
 
-Onder het begrip ‘bedrijfsuitoefening van een onderneming’ dient mede te worden verstaan een persoon die een Amerikaanse onderneming in Nederland vertegenwoordigt en in dienst van deze onderneming in een sleutelfunctie werkzaam is (zie artikel 2 van het Protocol). De vrije uitoefening van een beroep valt niet onder het begrip ‘bedrijfsuitoefening van een onderneming’ (zie artikel 8 van het bijbehorende Protocol).
+Hieronder volgt een uitleg van het begrip ‘aanzienlijk kapitaal’ ten aanzien van de diverse mogelijke ondernemingsvormen (zie circulaire van de Minister van EZ van 4 november 1992, DMO/DCM/ AM92081647):
 
 ### 10.2. Verblijf gezinsleden migrerende werknemer
 
-Het dient te gaan om eigen kapitaal, niet om geleend geld. Het belegde ‘aanzienlijk kapitaal’ dient op peil te worden gehouden. Dit houdt in dat het kapitaal nooit lager mag zijn dan het voor de desbetreffende ondernemingsvorm geldende minimum. De vreemdeling dient ter staving van zijn aanvraag recente cijfers over te leggen die zijn gecontroleerd door een daartoe bevoegde externe deskundige.
+De onderneming dient te zijn ingeschreven in het handelsregister met een omschrijving van het bedrijf of de bedrijven die in de onderneming worden uitgeoefend.
 
-Dat laat echter onverlet dat voor gezinshereniging, met hier te lande rechtmatig verblijvende Turkse werknemers, aanvullende eisen kunnen worden gesteld indien het gaat om (verruimde) gezinshereniging. Dat betekent dat, voorzover hier van belang, op ‘kinderen’ tussen de 18 en 21 jaar, die ten laste van de werknemer komen, niet dezelfde regeling behoeft te worden toegepast zoals die geldt voor EU/EER-onderdanen en onderdanen van Zwitserland.
+Indien een op grond van het Nederlands-Amerikaans Vriendschapsverdrag hier te lande verblijvende Amerikaanse vreemdeling (hoofdpersoon) arbeid in loondienst wenst te verrichten, dient wijziging van de vergunning te worden gevraagd en dient de werkgever te beschikken over een TWV (zie B5 en artikel 11 van het bijbehorende Protocol).
 
-De nationale vreemdelingrechtelijke voorwaarden/voorschriften zijn op deze onderdanen van toepassing.
+De verblijfsvergunning regulier voor bepaalde tijd wordt, al naar gelang de situatie, verleend onder de beperking:
 
 ### 4. EU- en EER-onderdanen, Zwitserse onderdanen en hun gezinsleden
 
 ### 9.1. Begunstigde
 
-Er dient vijf maanden verblijf te worden toegestaan voor het zoeken naar ander werk, revalidatie dan wel herscholing, als bedoeld in artikel 25 van het Verdrag, in geval van:
+Onder repatriëring wordt verstaan verblijfsbeëindiging inclusief uitzetting. Onder het behoeven van bijstand wordt verstaan het beroep doen op de publieke middelen.
 
 ### 12. Overeenkomst EEG-Algerije, Israël, Jordanië, Marokko en Tunesië
 
@@ -11271,7 +11271,7 @@ Er dient vijf maanden verblijf te worden toegestaan voor het zoeken naar ander w
 
 De vreemdeling die bijstand geniet, mag voortzetting van verblijf slechts worden ontzegd, indien:
 
-### 14. Het IVRK
+### 10.1. Begunstigde
 
 ### 10.1. Begunstigde
 
@@ -11285,37 +11285,37 @@ De verblijfsvergunning van de rechtmatig verblijvende werknemer en zijn gezinsle
 
 Partij bij het Verdrag zijn: Nederland, Frankrijk, Italië, Noorwegen, Portugal, Spanje, Turkije en Zweden.
 
-### 15. Onderdanen van Suriname
+### 11.2. Verblijfsvoorwaarden migrerende werknemer
 
-Op 24 november 1980 eindigde de geldigheidsduur van de Overeenkomst Nederland-Suriname 1975. Er is geen nieuwe overeenkomst inzake het verblijf en de vestiging van wederzijdse onderdanen gesloten, maar bij overeenkomst van 25 februari 1981 is een overlegstructuur met betrekking tot het door beide landen gevoerde vreemdelingenbeleid in het leven geroepen.
+De nationale vreemdelingrechtelijke voorwaarden/voorschriften zijn op deze onderdanen van toepassing.
 
-### 15.1. Binnenkomst en verblijf
+### 11.3. Gezinshereniging
 
-Met betrekking tot de binnenkomst en het verblijf van Surinaamse onderdanen wordt onderscheid gemaakt tussen:
+Gezinshereniging met onderdanen die reeds rechtmatig verblijf hebben, is toegestaan volgens nationale procedures.
 
-Op 27 april 1976 is te Rabat de samenwerkingsovereenkomst EEG-Marokko ondertekend, die namens de EG is goedgekeurd bij [verordening (EEG) nr. 2211/78](31978R2211) van de Raad van 26 september 1978 (PB L 264, blz. 1).
+Er zijn ook samenwerkingsovereenkomsten gesloten tussen de EEG en Algerije en Tunesië die soortgelijke bepalingen bevatten als artikel 40, eerste lid, van de Samenwerkingsovereenkomst EEG-Marokko. Bovendien zijn in 1995 associatieovereenkomsten gesloten tussen de EEG en Tunesië, Israël en Jordanië, waarin artikel 64 dezelfde inhoud heeft als artikel 40 van de Samenwerkingsovereenkomst EEG- Marokko. In 1996 is de associatieovereenkomst EEG-Marokko gesloten.
 
-Surinaamse onderdanen die op medische indicatie voor een behandeling naar Nederland reizen, zal een visum worden verstrekt, mits de financiering van deze behandeling deugdelijk is geregeld. Dit houdt in dat moet worden aangetoond dat een toereikende ziektekostenverzekering is afgesloten. In beginsel kan geen genoegen worden genomen met een garantverklaring van een referent.
+In bedoelde overeenkomsten is slechts het beginsel van gelijke behandeling inzake de arbeidsvoorwaarden en de lonen neergelegd.
 
-Het Hof van Justitie van de EG (2 maart 1999, El-Yassini, C-416/96) heeft geoordeeld dat het in artikel 40, eerste alinea, van de Overeenkomst EEG-Marokko neergelegde beginsel van gelijke behandeling inzake de arbeidsvoorwaarden en de lonen, op zich niet tot gevolg heeft dat het de autoriteiten van de lidstaat van ontvangst verboden is de verlenging van de verblijfstitel van een op het grondgebied van die lidstaat werkzame Marokkaanse migrerende werknemer te weigeren, ook al kan die maatregel naar haar aard niet worden genomen jegens de onderdanen van de betrokken lidstaat.
+Bovengenoemde jurisprudentie kan ook van belang zijn voor bepaling van de verblijfspositie van vreemdelingen die de nationaliteit bezitten van Algerije, Israël, Jordanië of Tunesië.
 
-### 16.3.1. Uitzetting, afwijzing en intrekking van de aanvraag
+### 14.1. Begunstigde
 
-De voordelen van het Staatlozenverdrag komen niet toe aan staatlozen:
+Het Verdrag geeft aan een buitenlands kind op zichzelf geen aanspraak op verblijf in Nederland, voorzover de bepalingen van het Verdrag (met name de artikelen 9 en 10) al zijn aan te merken als een ieder verbindende bepalingen die rechtstreekse werking hebben en niet slechts als instructienormen die tot de Staten, die Partij zijn, zijn gericht.
 
 ### 16.2. Bewijs staatloosheid
 
-Artikel 9 houdt onder meer in dat een kind niet wordt gescheiden van zijn ouders tegen hun wil en schept procedurele waarborgen.
+Het eerste lid van artikel 10 is de instructie aan de Partijen om aanvragen van het kind om een Staat die partij is, voor gezinshereniging binnen te gaan of te verlaten, te behandelen met welwillendheid, menselijkheid en spoed en ziet daarom niet op het verlenen van een verblijfsvergunning.
 
 ### 1. Inleiding
 
-Deze bepalingen laten daarom de mogelijkheid in stand om uit hoofde van nationaal recht eisen te stellen in het kader van verblijf, met name in geval van gezinshereniging.
+Blijkens jurisprudentie (Rechtbank Den Haag, 25 september 1997, Wieczorek en Rechtseenheidskamer, 25 september 1997, Austin) valt noch uit de tekst, noch uit de wordingsgeschiedenis af te leiden dat door artikel 10 voor de Nederlandse Staat verdergaande verplichtingen bestaan dan hetgeen reeds is neergelegd in het Nederlandse recht en beleid ter zake van gezinsvorming en -hereniging. Evenmin blijkt dat is beoogd een uitbreiding te geven aan de verplichtingen die uit artikel 8 EVRM voortvloeien. In de totstandkomingsgeschiedenis van de [Rijkswet tot goedkeuring van het Verdrag](onbekend) is in de Memorie van Toelichting en een Nota naar aanleiding van het Verslag opgenomen dat hieraan reeds uitvoering is gegeven in de Vw (oud), het Vb (oud), het VV (oud) en de Vc (oud). De verdragsverplichtingen neergelegd in artikel 10 laten onverlet dat met betrekking tot inkomen, onderzoek en termijn van indiening van het verzoek eisen kunnen worden gesteld. De [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825), het [VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&wetgeving) en de Vc beogen daarin geen wijziging te brengen.
 
 ### 15.1.1. Binnenkomst vóór 25 november 1980
 
 ### 3.4.1.3. Gezinsleden
 
-Wanneer in Nederland, uit een verklaring van de behandelend geneesheer, mocht blijken dat een verblijf van langer dan drie maanden noodzakelijk is, zal de verblijfstermijn worden verlengd. Bij een verlenging tot maximaal zes maanden wordt het visum verlengd.
+Op grond van [artikel 3.47, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.47) kan aan de Surinaamse onderdaan een verblijfsvergunning regulier voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) voor dit doel worden verleend, indien hij:
 
 ### 2.1.2. Positie na verlies van de bijzondere status
 
@@ -11323,45 +11323,45 @@ Voor een Surinaamse onderdaan die op een toeristenvisum Nederland binnenkomt om 
 
 ### 15.2.1. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
-De verblijfsvergunning wordt verleend onder de beperking: ‘Het ondergaan van medische behandeling’ met de arbeidsmarktaantekening: ‘Arbeid niet toegestaan’.
+Tevens wordt de verblijfsvergunning voorzien van de aantekening: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
 
 ### 2.1.2.1. Verblijfsvoorwaarden ex-geprivilegieerden
 
-### 16. Het Staatlozenverdrag
+### 16.1. Begunstigde
 
 De voordelen van het Staatlozenverdrag komen niet toe aan staatlozen:
 
 ### 16.2. Bewijs staatloosheid
 
-### 2.5.1. Beperking en arbeidsmarktaantekening
+### 16.3. Belang
 
-Het afhankelijke gezinslid kan in het bezit worden gesteld van een verblijfsvergunning regulier voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20)), indien het gezinslid:
-
-Indien de vreemdeling een staatloze is in de zin van het Staatlozenverdrag en hij in de vreemdelingenadministratie expliciet als staatloze staat ingeschreven (en dus niet als vreemdeling met ‘onbekende’ nationaliteit), kan hij op grond van het Staatlozenverdrag een reisdocument voor vreemdelingen krijgen (zie [C21/3](onbekend)).
+Het Verdrag verbiedt – behoudens om redenen van openbare of nationale veiligheid – de uitzetting van staatlozen die rechtmatig op het grondgebied van partijen verblijven (zie artikel 31 van het Verdrag en B14/3). Onder rechtmatig verblijf wordt verstaan een rechtmatig verblijf in de zin van [artikel 8 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 Nederlandse reisdocumenten voor vreemdelingen worden verstrekt door de burgemeester van de woonplaats van de aanvrager. In dit geval dient de IND, voordat de gemeente tot verstrekking van een reisdocument kan overgaan, de verblijfsgegevens op het aanvraagformulier te verifiëren en dit formulier, voorzien van een advies, retour te zenden naar de gemeente.
 
-### 12. Diplomaten
+Nederlandse reisdocumenten voor vreemdelingen worden verstrekt door de burgemeester van de woonplaats van de aanvrager. In dit geval dient de IND, voordat de gemeente tot verstrekking van een reisdocument kan overgaan, de verblijfsgegevens op het aanvraagformulier te verifiëren en dit formulier, voorzien van een advies, retour te zenden naar de gemeente.
+
+### 1. Inleiding
 
 ### 1. Inleiding
 
 Sinds 1 augustus 1987 wordt onderscheid gemaakt tussen duurzaam en niet-duurzaam verblijvend personeel.
 
-### 2.1. Niet-duurzaam verblijvend personeel
+### 2.1.1. Algemeen
 
-Deze vreemdelingen zijn óf beroepskoeriers óf als zodanig voor één reis aangewezen (zie verder [A2/6.2.3.2](onbekend)).
+Ten aanzien van diplomatieke en consulaire ambtenaren, hun gezinsleden en het administratief, technisch en bedienend personeel die slechts op doorreis in Nederland zijn, zijn de bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet van toepassing voor zover het de doorreis naar of terugkeer van de diplomatieke zending of consulaire post in een derde land betreft.
 
-Indien wordt voldaan aan de voorwaarden als genoemd in [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) in samenhang met [artikel 3.93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) juncto [artikel 3.93, zesde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) (zie hieronder zelfstandige middelen) kan het personeelslid in bezit worden gesteld van een verblijfsvergunning regulier voor onbepaalde tijd. Indien de vreemdeling hieraan niet voldoet, gelden de [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en [17 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17).
+Na beëindiging van het dienstverband met een ambassade of consulaat komt de uitgezonden status van de categorieën als genoemd onder B12/2.1.1, onder 3, te vervallen. De bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) worden alsdan onverkort van toepassing op deze vreemdelingen.
 
 Na beëindiging van het dienstverband met een ambassade of consulaat komt de uitgezonden status van de categorieën als genoemd onder B12/2.1.1, onder 3, te vervallen. De bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) worden alsdan onverkort van toepassing op deze vreemdelingen.
 
 ### 2.1.2.1. Verblijfsvoorwaarden ex-geprivilegieerden
 
-### 3. Vreemdelingen werkzaam bij een internationale organisatie
+### 2.1.2.2. Verblijfsvoorwaarden gezinsleden ex-geprivilegieerden
 
 ### 3. Vreemdelingen werkzaam bij een internationale organisatie
 
-Het kan voorkomen dat de hoofdpersoon in aanmerking komt voor een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), maar één of meer van de afhankelijke gezinsleden niet.
+Het afhankelijke gezinslid kan dan in het bezit worden gesteld van een verblijfsvergunning regulier voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) onder de beperking verband houdend met gezinshereniging bij de hoofdpersoon, indien het gezinslid:
 
 ### 2.5. De verlening van de verblijfsvergunning
 
@@ -11369,17 +11369,17 @@ Indien het afhankelijke gezinslid niet in aanmerking komt voor een verblijfsverg
 
 De bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) zijn en blijven onverkort van toepassing op de twee bovengenoemde categorieën.
 
-Het eerdere verblijfsrecht op grond van de bijzondere geprivilegieerde status telt niet mee bij de bepaling van de totale verblijfsduur zoals genoemd in [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86). Dit betekent dat alleen eventueel eerder rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e, of l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) meetelt bij de bepaling van de totale verblijfsduur.
+Het betreft de volgende categorieën:
 
 ### 3.3. Positie na verlies van de bijzondere verblijfsstatus
 
-De verblijfsvergunning regulier voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20)) kan op aanvraag worden verleend aan de meerderjarige vreemdeling die:
+Indien wordt voldaan aan de voorwaarden als genoemd in [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) in samenhang met [artikel 3.93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) juncto [artikel 3.93, zesde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) (zie hieronder zelfstandige middelen) kan het personeelslid in bezit worden gesteld van een verblijfsvergunning regulier voor onbepaalde tijd. Indien de vreemdeling hieraan niet voldoet, gelden de [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en [17 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17).
 
 ### 2. Amv’s
 
-Voor wat betreft de zelfstandige middelen van bestaan geldt een uitzondering. Middelen van bestaan worden in ieder geval als zelfstandige middelen geaccepteerd, indien daarover door de werkgever premies sociale verzekeringen en belastingen worden afgedragen. Voor personeel dat in dienst is van een ambassade of consulaat van een andere mogendheid vindt er géén inhouding plaats van de premies sociale verzekeringen en belastingen, omdat ambassades en consulaten ingevolge [artikel 6, vierde lid, Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=6) niet inhoudingsplichtig zijn.
+Desalniettemin worden de inkomsten uit arbeid in loondienst voor werk bij een ambassade of consulaat van een andere mogendheid – ondanks dat geen premies sociale verzekeringen en belastingen zijn afgedragen – aangemerkt als zelfstandige middelen van bestaan.
 
-### 3.4.1.1. Verdrag van Ottawa
+### 2.2.2.2. Verblijfsvoorwaarden gezinsleden
 
 Bij de afgifte van de gevraagde verblijfsvergunning voor onbepaalde tijd of verblijfsvergunning voor bepaalde tijd dient de vreemdeling het door het Ministerie van BuZa afgegeven identiteitsbewijs geprivilegieerden in te leveren bij de IND.
 
@@ -11389,41 +11389,41 @@ Bij de afgifte van de gevraagde verblijfsvergunning voor onbepaalde tijd of verb
 
 Deze personen worden door de Minister van BuZa in het bezit gesteld van een geprivilegieerdendocument ([model M81](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81); zie [bijlage 3, onder A, derde lid VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3) juncto [artikel 2.3 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=2.3)). Dit houdt onder meer in dat zij niet behoeven te beschikken over een verblijfsvergunning. Voor wat betreft de grenscontrole en het toezicht wordt verwezen naar [A2/6.2.3.3](onbekend) en [A2/6.2.3.4](onbekend).
 
-### 2.2.3. Zelfstandig handhaven in land van herkomst of een ander land
+### 3.3. Positie na verlies van de bijzondere verblijfsstatus
 
-Ongehuwd samenwonen (ook als er een samenlevingscontract is) leidt op zichzelf niet tot meerderjarigheid.
+Na beëindiging van het dienstverband met een internationale organisatie of wanneer de betreffende vreemdeling na de periode van tien jaar op zijn verzoek (aanvraag) duurzaam een verblijfsstatus onder de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) toegewezen heeft gekregen, komt de uitgezonden (geprivilegieerde) status op basis van de Zetelovereenkomst van de betreffende vreemdeling te vervallen. De bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) worden alsdan onverkort van toepassing op deze vreemdelingen.
 
-### 2.2.2. Alleenstaand
-
-Het in B14/2 neergelegde beleid is niet van toepassing op de minderjarige asielzoeker of vreemdeling
+### 3.3.1. Verblijfsvoorwaarden (ex)geprivilegieerden
 
 De verblijfsvergunning regulier voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20)) kan op aanvraag worden verleend aan de meerderjarige vreemdeling die:
 
+Bij de berekening van de periode van tien aaneengesloten jaren van verblijf worden mede in aanmerking genomen de perioden waarin de vreemdeling rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e, of l, van de Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) heeft gehad. Wel dient de vreemdeling direct voorafgaand aan de aanvraag om een verblijfsvergunning voor onbepaalde tijd verblijfsrecht op grond van een bijzondere geprivilegieerde status te hebben gehad.
+
 ### 3.4.1.1. Verdrag van Ottawa
 
-Het verblijfsrecht op grond van een bijzondere geprivilegieerde status dient te worden aangetoond aan de hand van een originele verklaring van BuZa waaruit het verblijfsrecht als geprivilegieerde vreemdeling blijkt.
+Zie B1/7.1.3.
 
-Het eerdere verblijfsrecht op grond van de bijzondere geprivilegieerde status telt niet mee bij de bepaling van de totale verblijfsduur zoals genoemd in [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86). Dit betekent dat alleen eventueel eerder rechtmatig verblijf als bedoeld in [artikel 8, onder a tot en met e, of l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) meetelt bij de bepaling van de totale verblijfsduur.
+Zie B1/4.4.
 
-Zie B1/5.3.3.
+Indien de vreemdeling niet voldoet aan de voorwaarden 1 tot en met 5 zoals hierboven vermeld, dan wordt de aanvraag om een verblijfsvergunning voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20)) afgewezen. De vreemdeling zal dan, indien hij in aanmerking wil komen voor toelating tot Nederland, een aanvraag om eerste toelating op grond van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) moeten indienen. Hierbij gelden de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) en [17 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) onverkort.
 
 ### 3.4.1.5. Verblijfsdocument
 
-Voor de toelichting op de voorwaarden 1 tot en met 7 wordt verwezen naar de toelichting op deze artikelen zoals vermeld in B12/3.3.1. Verder geldt wat betreft voorwaarde 2 (middelenvereiste) dat het duurzame en zelfstandige inkomen van de hoofdpersoon wordt meegeteld, indien het gezinslid over dit inkomen kan beschikken en, indien het meerderjarig afhankelijk gezinslid als partner bij de hoofdpersoon verblijft, de hoofdpersoon een garantverklaring heeft ondertekend. Dat het gezinslid over het inkomen kan beschikken wordt aangetoond met een schriftelijke verklaring van de hoofdpersoon.
+Het bepaalde in B12/2.1.2.2 met betrekking tot de verblijfsvergunning regulier voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) is van overeenkomstige toepassing.
 
-De burgemeester van de gemeente waar de vreemdeling woon- of verblijfplaats heeft, is belast met de administratie van de vreemdelingen bedoeld in [artikel 3.40, eerste lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) en hun gezinsleden, bedoeld in [artikel 3.40, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40). De bedoelde vreemdelingen zijn, ingevolge de wet- en regelgeving van de GBA, niet verplicht voor de duur van hun verblijf te worden opgenomen in de persoonsregisters.
+Bij de afgifte van de gevraagde verblijfsvergunning voor onbepaalde tijd of verblijfsvergunning voor bepaalde tijd dient de vreemdeling het door het Ministerie van BuZa afgegeven identiteitsbewijs geprivilegieerden in te leveren bij de IND.
 
 Bij de afgifte van de gevraagde verblijfsvergunning voor onbepaalde tijd of verblijfsvergunning voor bepaalde tijd dient de vreemdeling het door het Ministerie van BuZa afgegeven identiteitsbewijs geprivilegieerden in te leveren bij de IND.
 
 ### 3.4.2.5. Geldigheidsduur verblijfsvergunning
 
-### 4. EU- en EER-onderdanen, Zwitserse onderdanen en hun gezinsleden
+### 3.4.1.2. NAVO-statusverdrag en Partnership for Peace-statusverdrag
 
 Op grond van het NAVO-statusverdrag en het daarbij behorende Hoofdkwartieren Protocol dan wel op grond van het Partnership for Peace-statusverdrag en het daarbij behorende Tweede Aanvullende Protocol, zijn militairen van een krijgsmacht van een lidstaat geprivilegieerd, indien zij verbonden zijn aan een hier te lande gevestigd internationaal militair hoofdkwartier (Joint Force Command- headquarters) of een daarmee gelijkgestelde organisatie dan wel behoren tot een hier te lande gelegerd of op doortocht zijnd onderdeel van zodanige krijgsmacht.
 
-De geldigheidsduur van de verblijfsvergunning voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) te verlenen aan deze vreemdelingen bedraagt maximaal drie jaar. Echter, de totale tijdsduur waarvoor de vergunning geldig is, mag de duur van de tewerkstelling (indien het burgerpersoneel betreft) of de duur van de tewerkstelling dan wel stationering van het hoofd van het gezin (indien het gezins- en familieleden betreft) niet overschrijden (zie [artikel 3.63 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.63)).
+De gezinsleden van de militairen van de Joint Force Command- headquarters te Brunssum, komen op grond van [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) juncto [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) in aanmerking voor een verblijfsvergunning regulier voor bepaalde tijd, voor verblijf als gezinslid van een militair die behoort tot een hier te lande gevestigd internationaal militair hoofdkwartier en die geprivilegieerd is. Voor wat betreft de invulling van het begrip gezinsleden wordt aangesloten naar [artikel 3.40, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40).
 
-### 4. EU- en EER-onderdanen, Zwitserse onderdanen en hun gezinsleden
+### 3.4.1.4. Verblijfsvoorwaarden
 
 ### 3.4.1.4. Verblijfsvoorwaarden
 
@@ -11435,9 +11435,9 @@ De burgemeester van de gemeente waar de vreemdeling woon- of verblijfplaats heef
 
 Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten, met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
-Zij zijn vrijgesteld van het legesvereiste (zie [artikel 3.34b, eerste lid, onder a, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.34)). Voor de behandeling van aanvragen om een mvv wordt verwezen naar B1/1.
+Op de overige hier te lande woonachtige vreemdelingen, die bijvoorbeeld in dienst zijn van vreemdelingen als in [artikel 3.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) bedoeld, zijn de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) van toepassing (zie B1/4). Tot deze categorie behoren bijvoorbeeld dienstboden, tuinlieden, kindermeisjes en chauffeurs.
 
-### 3.6.1. Gezinshereniging en -vorming in geval van medische aspecten
+### 3.4.2.2. Verblijfsdocument
 
 ### 1. Inleiding
 
@@ -11445,17 +11445,17 @@ Zij zijn vrijgesteld van het legesvereiste (zie [artikel 3.34b, eerste lid, onde
 
 ### 14. Ambtshalve verlening van een verblijfsvergunning regulier
 
-### 1. Inleiding
+### 13. Familiebezoek
 
 ### 1. Inleiding
 
-### 3. Beperking, arbeidsmarktaantekeningen en voorschrift
+### 2. Voorwaarden familiebezoek
 
-Tenslotte kan ambtshalve een verblijfsvergunning regulier worden verleend aan de vreemdeling die in aanmerking komt voor een verblijfsvergunning op grond van de regeling ‘afwikkeling nalatenschap oude vreemdelingenwet’.
+Voor alle vreemdelingen uit mvv-plichtige landen die voor familiebezoek van langer dan drie maanden in Nederland willen verblijven, geldt dat zij tevoren in het buitenland een aanvraag om een mvv moeten hebben ingediend en deze hebben verkregen (zie B1/1.1 en B1/1.2).
 
 ### 2.1. Algemeen
 
-Op grond van [artikel 3.29, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.29) zijn in afwijking van [artikel 3.75 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.75) middelen van bestaan duurzaam, indien zij voor de duur van het voorgenomen verblijf beschikbaar zijn.
+Indien de vreemdeling de duur van het voorgenomen verblijf niet reeds bij het indienen van de aanvraag aantoont, wordt aangenomen dat het voorgenomen verblijf zich zal uitstrekken tot één jaar na het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven. De bestaansmiddelen worden dan duurzaam geacht indien zij nog één jaar beschikbaar zijn op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven, dan wel enig tussenliggend moment.
 
 ### 2.2.3. Zelfstandig handhaven in land van herkomst of een ander land
 
@@ -11463,11 +11463,11 @@ Op grond van [artikel 3.29, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:
 
 ### 2.2.2. Alleenstaand
 
-Bij de berekening van het inkomen worden de inkomsten van eventuele familie- en gezinsleden, en van andere relaties van de garantsteller niet meegeteld, met uitzondering van het inkomen van de (geregistreerd of huwelijks-)partner. Indien ook de bestaansmiddelen van de garantsteller niet voldoende zijn, wordt de aanvraag afgewezen en worden de (eveneens ontoereikende) eigen financiële middelen van de vreemdeling daar niet bij opgeteld.
-
 Indien de garantsteller (het familielid bij wie de vreemdeling verblijf beoogt) een naar Nederlands internationaal privaatrecht geldig huwelijk of een in Nederland geregistreerd partnerschap is aangegaan, dan wel een relatie onderhoudt in de zin van [artikel 3.14, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.14) met een persoon die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder a tot en met e, dan wel l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), dan wel Nederlander is, kan het duurzame, zelfstandig verworven netto-inkomen van die persoon worden meegeteld bij de berekening van de bestaansmiddelen.
 
-### 2.2. Voorwaarden voor de verblijfsvergunning
+In deze gevallen zijn de middelen van bestaan voldoende, indien het gezamenlijke netto-inkomen gelijk is aan de bijstandsnorm als bedoeld in [artikel 21, onder c, Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21), voor de categorie echtparen en gezinnen, aangevuld met voor iedere betrokken vreemdeling het bestaansminimum voor alleenstaanden van 21 jaar of ouder.
+
+### 3. Beperking, arbeidsmarktaantekeningen en voorschrift
 
 ### 2.2.1. Minderjarigheid
 
@@ -11479,23 +11479,23 @@ De verblijfsvergunning wordt verleend met een geldigheidsduur van maximaal zes m
 
 ### 2.3. Afwijzingsgronden
 
-Voorts kan ook ambtshalve een verblijfsvergunning regulier worden verleend aan de vreemdeling op wiens asielaanvraag na drie jaren nog niet onherroepelijk is beslist. Dit driejarenbeleid is weliswaar per 1 januari 2003 afgeschaft, maar kan op grond van het overgangsrecht nog van toepassing zijn op vreemdelingen die hun asielaanvraag voor 1 januari 2000 hebben ingediend.
+De mogelijkheid om (ambtshalve) een verblijfsvergunning regulier te verlenen aan de vreemdeling die in aanmerking komt voor een verblijfsvergunning op grond van de regeling ‘afwikkeling nalatenschap oude vreemdelingenwet’ is met ingang van 1 januari 2009 vervallen.
 
-### 2.3. Afwijzingsgronden
+### 2. Amv’s
 
-De afwijzingsgronden van [artikel 16, eerste lid, onder d en e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16), zijn van toepassing (zie [artikel 3.56, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.56), [artikel 3.79 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.79), en B1/4.4 en B1/4.5).
+Amv’s van wie de aanvraag tot verlening van een verblijfsvergunning asiel is afgewezen, moeten terugkeren naar het land van herkomst of een ander land waar zij redelijkerwijs naar toe kunnen gaan. Het kan echter voorkomen dat uit feiten en omstandigheden blijkt dat aannemelijk is dat de minderjarige zich in het land van herkomst, of in een ander land waar hij redelijkerwijs naar toe kan gaan, niet zelfstandig kan handhaven en dat daar evenmin adequate opvang aanwezig is. Voor die gevallen is in [artikel 3.56 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.56) in een regeling voorzien, inhoudende dat een verblijfsvergunning regulier voor bepaalde tijd kan worden verleend. Ook na verlening van de verblijfsvergunning blijft het uitgangspunt dat de Amv in beginsel moet terugkeren.
 
-Voor de vaststelling of een vreemdeling als gevolg van een in het buitenland gesloten huwelijk als meerderjarig dient te worden beschouwd, is van belang of het huwelijk naar regels van Nederlands internationaal privaatrecht wordt erkend. Op grond van [artikel 5 Wet conflictenrecht huwelijk](https://wetten.overheid.nl/jci1.3:c:BWBR0004619&artikel=5) wordt een huwelijk alleen erkend indien het rechtsgeldig is ingevolge het recht van de staat waar de huwelijksvoltrekking plaatsvond. Een minderjarige wordt dus niet meerderjarig door een niet-erkend traditioneel huwelijk. Op grond van [artikel 6 Wet conflictenrecht huwelijk](https://wetten.overheid.nl/jci1.3:c:BWBR0004619&artikel=6) wordt een huwelijk evenmin erkend als dit onverenigbaar zou zijn met de openbare orde. Hiervan is bijvoorbeeld sprake bij gedwongen huwelijken of huwelijken tussen jonge kinderen.
+Ongehuwd samenwonen (ook als er een samenlevingscontract is) leidt op zichzelf niet tot meerderjarigheid.
 
 ### 2.4.3. Leeftijdsonderzoek
 
-### 5.2. Voorwaarden voor de verblijfsvergunning
+### 2.2.3. Zelfstandig handhaven in land van herkomst of een ander land
 
 ### 2.4.4. Onderzoek in het buitenland naar adequate opvang
 
-Zelfstandigheid wordt niet tegengeworpen indien de Amv ten tijde van de beslissing jonger is dan zestien jaar.
-
 Indien de vreemdeling ten tijde van de beslissing zestien jaar of ouder is, is van belang of uit overige omstandigheden, die in de persoon zelf zijn gelegen, aannemelijk is dat hij zich zelfstandig kan handhaven in het buitenland, gerelateerd aan de ter plaatse geldende normen. Hiervan is sprake indien de betrokkene voor zijn komst naar Nederland voor zichzelf heeft gezorgd. Dit kan bijvoorbeeld blijken uit het feit dat de betrokkene in het land van herkomst of een ander land waar hij redelijkerwijs naar toe kan gaan werk had en/of op zichzelf woonde en niet aannemelijk is dat dit serieuze problemen heeft opgeleverd, noch dat serieuze problemen te verwachten waren.
+
+Het moet voorts gaan om werkzaamheden waarvan in redelijkheid mag worden verwacht dat een minderjarige die weer oppakt. Van minderjarigen die werkzaam waren in de prostitutie, als soldaat of strijder, of ten aanzien van wie sprake was van kinderarbeid, wordt niet verwacht dat zij deze werkzaamheden weer oppakken.
 
 Indien wordt geconstateerd dat aannemelijk is dat de Amv van zestien jaar of ouder zich zelfstandig kan handhaven en dus geen opvang behoeft, komt hij niet in aanmerking voor een verblijfsvergunning regulier onder de beperking ‘verblijf als alleenstaande minderjarige vreemdeling’.
 
@@ -11503,9 +11503,9 @@ Indien wordt geconstateerd dat aannemelijk is dat de Amv van zestien jaar of oud
 
 ### 2.4.5. Aard van het verblijfsrecht
 
-Het bestaan van adequate opvang wordt in ieder geval aangenomen indien:
+Hiervan is onder meer sprake als de meerderjarige de minderjarige al eerder begeleidde of verzorgde op meer dan incidentele basis.
 
-Indien in het landgebonden asielbeleid is vastgelegd dat de autoriteiten zorgdragen voor de opvang en dat de opvangvoorzieningen adequaat zijn, behoeft geen onderzoek naar een concrete opvangplaats in een opvanginstelling te worden gedaan.
+In al deze gevallen wordt verwacht dat de betrokkenen vertrekken naar het land van herkomst of naar een ander land waar zij redelijkerwijs naar toe kunnen gaan.
 
 ### 2.3.1. De bepalingen van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16)
 
@@ -11513,21 +11513,21 @@ De afwijzingsgronden van [artikel 16, eerste lid, onder d en e, Vw](https://wett
 
 ### 2.3.2. Frustreren van het onderzoek naar adequate opvang
 
-Het kan hier gaan om de volgende gevallen:
+De verblijfsvergunning wordt niet verleend op aanvraag. De verblijfsvergunning op grond van dit beleid kan alleen ambtshalve worden verleend op grond van [artikel 3.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) (zie [C14/6](onbekend)):
 
-### 2.6.4. Geldigheidsduur van de verblijfsvergunning
+### 2.4.2. Toetsing ex nunc
 
 ### 2.4.3. Leeftijdsonderzoek
 
-Het kan hier gaan om de volgende gevallen:
+Het is mogelijk dat het leeftijdsonderzoek niet met voldoende zekerheid tot een conclusie omtrent de minderjarigheid kan leiden. In deze gevallen kan de betrokkene na verloop van tijd (dit kan zijn binnen één à twee jaar) opnieuw worden opgeroepen voor een leeftijdsonderzoek om te bezien of de botontwikkeling inmiddels zodanig is, dat een voldoende zekere conclusie (met terugwerkende kracht) mogelijk is over de vraag of de vreemdeling meerder- of minderjarig is.
 
 ### 2.6.4. Geldigheidsduur van de verblijfsvergunning
 
-Het belang van het herhaald leeftijdsonderzoek is erin gelegen dat zoveel mogelijk dient te worden tegengegaan dat vreemdelingen ten onrechte in het bezit zijn of worden gesteld van een verblijfsvergunning voor verblijf als Amv, of anderszins ten onrechte een behandeling als minderjarige krijgen, terwijl zij feitelijk meerderjarig zijn. Hierbij moet in aanmerking worden genomen dat bij een volledig uitgerijpt sleutelbeen een minimumleeftijd van twintig jaar wordt gehanteerd. Als deze conclusie bij een herhaald onderzoek wordt getrokken, zal dat vaak betekenen dat de vreemdeling al bij de eerste verlening van de vergunning voor verblijf als Amv meerderjarig was en de vergunning dus ten onrechte heeft verkregen. Het herhaald leeftijdsonderzoek is in dit kader dus een belangrijke aanvulling op het eerste leeftijdsonderzoek.
+Indien uit het resultaat van het herhaald leeftijdsonderzoek volgt dat de vreemdeling onjuiste gegevens heeft verstrekt teneinde op oneigenlijke gronden in het bezit te worden gesteld van een verblijfsvergunning, bijvoorbeeld als blijkt dat hij tijdens de oorspronkelijke aanvraagprocedure al meerderjarig moet zijn geweest, kan de vreemdeling op grond van [artikel 59 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59) in bewaring worden gesteld.
 
 ### 2.6.5. Het bescheid rechtmatig verblijf
 
-Op grond van [artikel 19 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) kan de vergunning worden ingetrokken om redenen genoemd in B14/2.6.3 (gronden voor afwijzing van de verlenging).
+Indien uit feiten en omstandigheden niet aannemelijk is dat de Amv zich zelfstandig staande zal kunnen houden (zie C14/2.2.3), kan onderzoek door het Ministerie van BuZa geïndiceerd zijn indien in het land van herkomst of in een ander land waar de vreemdeling redelijkerwijs naar toe kan gaan, geen adequate opvang, bijvoorbeeld in de vorm van opvangtehuizen, bekend is. Onderzoek is in beginsel niet noodzakelijk indien de vreemdeling zelf verklaart dat adequate opvang aanwezig is, en daarbij voldoende geloofwaardige informatie geeft waaruit blijkt hoe de adequate opvang bij terugkeer bereikt kan worden, zoals adresgegevens.
 
 ### 2.8. De zelfstandige verblijfsvergunning voor voortgezet verblijf
 
@@ -11537,19 +11537,19 @@ Indien de informatie niet voldoende geloofwaardig is, gezien de leeftijd of de o
 
 De verblijfsvergunning regulier onder een beperking verband houdend met verblijf als Amv betreft een tijdelijk verblijfsrecht, als bedoeld in [artikel 3.5 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5).
 
-### 2.5. De verlening van de verblijfsvergunning
+### 2.5.1. Beperking en arbeidsmarktaantekening
 
-### 2.6.5. Het bescheid rechtmatig verblijf
+### 2.5.2. Ingangsdatum van de verblijfsvergunning
 
-In de gevallen waarin de aanvraag om toelating als vluchteling is ingediend in de periode van 4 januari 2001 tot en met 31 maart 2001, is het beleid van toepassing zoals beschreven in Tussentijds bericht vreemdelingencirculaire 2000/30.
+De ingangsdatum is de dag waarop de vreemdeling voor het eerst aan de voorwaarden voldoet, maar valt niet voor de datum waarop de asielaanvraag is ingediend en ondertekend.
 
 Indien de verlening plaatsvindt naar aanleiding van het intrekken van een verblijfsvergunning asiel, ligt de ingangsdatum niet voor de datum van de intrekking van de verblijfsvergunning asiel.
 
-In iedere individuele zaak dient beoordeeld te worden of een herhaald onderzoek in het buitenland naar adequate opvang aangewezen is. Dit is ten eerste afhankelijk van de onderzoeksmogelijkheden in het betreffende land. Een herhaald onderzoek is voorts eerder aangewezen naarmate de vreemdeling jonger is. Een herhaald onderzoek wordt niet aangevraagd indien de vreemdeling bij ontvangst van het onderzoeksresultaat naar verwachting zeventien en een half jaar of ouder is.
+Daarnaast is herhaald onderzoek eerder aangewezen bij landen waarvoor weinig aannemelijk is (gegeven de sociale structuur van de samenleving) dat een minderjarige geen opvang heeft bij familie of instellingen. Herhaald onderzoek is in elk geval aangewezen indien:
 
 De verlengingsaanvraag wordt conform B1/5.3.4 in beginsel niet afgewezen wegens het enkele ontbreken van een geldig document voor grensoverschrijding.
 
-De aanvraag tot verlenging van de geldigheidsduur van een verblijfsvergunning regulier onder een beperking die verband houdt met verblijf als Amv kan worden afgewezen, indien:
+Het kan hier gaan om de volgende gevallen:
 
 ### 2.6.4. Geldigheidsduur van de verblijfsvergunning
 
@@ -11557,65 +11557,65 @@ De aanvraag tot verlenging van de geldigheidsduur van een verblijfsvergunning re
 
 Op grond van [artikel 19 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) kan de vergunning worden ingetrokken om redenen genoemd in B14/2.6.3 (gronden voor afwijzing van de verlenging).
 
-### 2.10.3. Overgangsrecht voor begeleide minderjarigen
+### 2.10.3.1. Inleiding
 
-Vreemdelingen aan wie eerder een verblijfsvergunning voor verblijf als Amv is geweigerd omdat zij begeleid werden, kunnen conform bovengenoemde brief een nieuwe asielaanvraag indienen. [C10/2.5](onbekend) is hierbij van toepassing. Deze aanvraag geeft recht op opvang gedurende de asielprocedure.
+Voor wat betreft de ambtshalve toets geldt het nieuwe beleid als novum.
 
 ### 15. Kennismigranten
 
 ### 2.10.3.3. Uitgeprocedeerde meerderjarigen
 
-De overgangsregeling van B16 kan niet van toepassing zijn op personen die op het moment van aanvraag inmiddels meerderjarig zijn geworden. Het is immers niet mogelijk een verblijfsvergunning op grond van het beleid inzake Amv’s te verlenen aan een meerderjarige en het is niet mogelijk een verblijfsvergunning onder de beperking ‘voortgezet verblijf’ te verlenen aan een vreemdeling die niet reeds in het bezit is van een verblijfsvergunning.
+Om dit te ondervangen is op grond van [artikel 3.6, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) een nieuw [artikel 3.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.17a) gevoegd in het [VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002). Hierdoor is het mogelijk geworden om ambtshalve, in het kader van een asielaanvraag, een verblijfsvergunning te verlenen onder de beperking ‘verblijf als meerderjarige ex-bama’.
 
 ### 3.2.2.2. Uitgeprocedeerde Amv’s
 
-De verblijfsvergunning onder deze beperking kan worden verleend aan vreemdelingen aan wie in het verleden een verblijfsvergunning regulier voor bepaalde tijd op grond van het beleid inzake Amv’s is geweigerd op grond van het feit dat zij niet alleenstaand waren en die inmiddels meerderjarig zijn.
+Hierbij gelden de volgende (cumulatieve) voorwaarden:
 
 ### 3.2.2.3. Vreemdelingen die om medische redenen niet kunnen vertrekken
 
-Deze categorie is vrijgesteld van het vereiste om in het bezit te zijn van een geldige mvv.
+**Ontbreken geldig document voor grensoverschrijding**
 
 ### 3.2.3. Vrijstelling mvv
 
-De ingangsdatum is de dag waarop de asielaanvraag in de lopende procedure is ingediend.
+De verblijfsvergunning wordt verleend voor één jaar.
 
 De verblijfsvergunning onder de beperking ‘verblijf als meerderjarige ex-bama’ kan ten tijde van de eerste verlenging, indien de houder hiertoe een aanvraag indient, worden gewijzigd in een verblijfsvergunning onder de beperking ‘voortgezet verblijf’ op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52). De geldigheidsduur is dan vijf jaar (zie B16).
 
-Indien tijdens de asielprocedure is gebleken dat een vreemdeling niet in aanmerking komt voor verlening van een verblijfsvergunning asiel, terwijl hij wel heeft aangetoond dat hij in aanmerking komt voor verblijf op grond van het beleid inzake vreemdelingen die buiten hun schuld niet uit Nederland kunnen vertrekken, wordt, behoudens contra-indicaties, de verblijfsvergunning regulier voor bepaalde tijd met de beperking ‘verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken’ ambtshalve verleend. Zie [C14/6](onbekend) voor het toepassen van de ambtshalve toets tijdens de asielprocedure.
+Uitgangspunt van het terugkeerbeleid is, dat in beginsel alle vreemdelingen kunnen terugkeren naar hun land van herkomst. Er is op dit moment geen land bekend dat de volkenrechtelijke verplichting, om eigen onderdanen terug te nemen, niet naleeft. Desalniettemin kunnen zich bijzondere situaties voordoen waarin een vreemdeling buiten zijn schuld niet uit Nederland kan vertrekken omdat hij de benodigde reisdocumenten niet kan bemachtigen, terwijl er geen twijfel bestaat omtrent de door hem verstrekte gegevens over zijn identiteit en nationaliteit. Hiervan kan bijvoorbeeld sprake zijn als de vreemdeling staatloos is en hij geen wedertoelating kan verkrijgen tot het land waar hij eerder zijn gewone verblijfplaats (‘former habitual residence’) had.
 
 In deze gevallen kan de vreemdeling in aanmerking komen voor een verblijfsvergunning op grond van dit beleid.
 
-Vereist is dat de vreemdeling om bemiddeling van de DT&V heeft gevraagd. De DT&V zal door middel van een ambtsbericht aangeven aan de IND of al dan niet sprake is van buitenschuld.
+Hierbij moet gedacht worden aan een verklaring van de ambassade waarin staat dat betrokkene niet in het bezit zal worden gesteld van een vervangend reisdocument, hoewel er niet getwijfeld wordt aan de door betrokkene opgegeven identiteit en nationaliteit. Ook kan gedacht worden aan een ambtsbericht van de DT&V aan de IND waaruit blijkt dat de betreffende ambassade weigert een (vervangend) reisdocument te verstrekken hoewel de nationaliteit en identiteit niet worden betwist.
 
 Hierbij moet gedacht worden aan een verklaring van de ambassade waarin staat dat betrokkene niet in het bezit zal worden gesteld van een vervangend reisdocument, hoewel er niet getwijfeld wordt aan de door betrokkene opgegeven identiteit en nationaliteit. Ook kan gedacht worden aan een ambtsbericht van de DT&V aan de IND waaruit blijkt dat de betreffende ambassade weigert een (vervangend) reisdocument te verstrekken hoewel de nationaliteit en identiteit niet worden betwist.
 
-De verblijfsvergunning wordt verleend onder de beperking ‘verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken’. De arbeidsmarktaantekening luidt: ‘arbeid uitsluitend toegestaan indien de werkgever beschikt over een TWV’.
+Er zijn drie categorieën vreemdelingen die in aanmerking kunnen komen voor een verblijfsvergunning op grond van het beleid ten aanzien van vreemdelingen die buiten hun schuld niet uit Nederland kunnen vertrekken. Deze categorieën worden hierna uitgewerkt.
 
-De verblijfsvergunning wordt verleend met ingang van de dag waarop de vreemdeling voor het eerst heeft voldaan aan de hierboven weergegeven voorwaarden voor verlening, maar niet eerder dan de datum waarop de (asiel)aanvraag is ingediend.
+Om in aanmerking te komen voor een verblijfsvergunning op grond van het hier beschreven bijzondere beleid, dient de vreemdeling zich te wenden tot de vertegenwoordiging van zijn land van herkomst en eventuele landen van eerder verblijf. De vreemdeling komt in aanmerking voor verblijf als cumulatief aan de volgende voorwaarden wordt voldaan:
 
 ### 3.5.1. Beperking en arbeidsmarktaantekening
 
-Van de vreemdeling wordt verwacht dat hij:
+Vereist is dat de vreemdeling om bemiddeling van de DT&V heeft gevraagd. De DT&V zal door middel van een ambtsbericht aangeven aan de IND of al dan niet sprake is van buitenschuld.
 
 ### 3.5.2. Ingangsdatum van de verblijfsvergunning
 
-Het dient daarbij te gaan om objectieve, verifieerbare feiten en omstandigheden die zien op de persoon van betrokkene en die in de eerste plaats zijn onderbouwd met bescheiden. Hierbij moet gedacht worden aan een verklaring van de ambassade waarin staat dat betrokkene niet in het bezit zal worden gesteld van een vervangend reisdocument, hoewel er niet getwijfeld wordt aan de door betrokkene opgegeven identiteit en nationaliteit. Ook kan gedacht worden aan een ambtsbericht van de DT&V aan de IND waaruit blijkt dat de betreffende ambassade weigert een (vervangend) reisdocument te verstrekken hoewel de nationaliteit en identiteit niet worden betwist.
+Verschillende landen van herkomst en/of nationaliteiten binnen één gezin Indien de leden van één gezin verschillende nationaliteiten hebben en/of afkomstig zijn uit verschillende landen van herkomst, dienen zij de bovenstaande stappen te ondernemen om terugkeer voor het gehele gezin naar één land te bewerkstelligen. De pogingen dienen ten aanzien van alle landen waarvan op basis van het geheel aan feiten en omstandigheden kan worden aangenomen dat het gezin aldaar de toegang zal worden verleend te worden ondernomen.
 
-### 3.5.3. Geldigheidsduur
+### 3.2.2.2. Uitgeprocedeerde Amv’s
 
-De verblijfsvergunning wordt verleend voor de duur van een jaar.
+Een uitgeprocedeerde Amv kan in aanmerking komen voor een verblijfsvergunning op grond van het beleid ten aanzien van vreemdelingen die buiten hun schuld niet uit Nederland kunnen vertrekken, indien:
 
-De bepalingen van B2 zijn van toepassing.
+Voor een verblijfsvergunning op grond van het beleid ten aanzien van vreemdelingen die buiten hun schuld niet uit Nederland kunnen vertrekken komen tevens in aanmerking vreemdelingen op wie de rechtsplicht rust Nederland te verlaten, maar bij wie door het BMA is vastgesteld dat zij vanwege hun gezondheidstoestand blijvend niet kunnen reizen. Hieronder vallen tevens vreemdelingen bij wie door het BMA voorgeschreven fysieke overdracht aan een medische instelling dan wel behandelaar in het land van herkomst in aansluiting op de reis blijvend niet kan plaatsvinden, zodat zij vanwege hun gezondheidstoestand niet kunnen reizen.
 
-De in Nederland verblijvende (huwelijks)partner alsmede het/ de tot het gezin behorende kind(eren) dat/ die afhankelijk is/ zijn van een vreemdeling aan wie in verband met medische gronden een verblijfsvergunning op grond van het buiten schuld beleid is verleend, respectievelijk de verzorgende ouder(s), kunnen in deze situatie met toepassing van [artikel 3.71, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71) worden vrijgesteld van het mvv-vereiste wanneer zij een verblijfsaanvraag indienen.
+Indien de vreemdeling voldoet aan de voorwaarden voor verlening van een verblijfsvergunning, wordt hij vrijgesteld van het vereiste in het bezit te zijn van een geldige mvv.
 
 ### 3.2.4. Ontheffing van het paspoortvereiste
 
 ### 3.9. De zelfstandige verblijfsvergunning voor voortgezet verblijf
 
-Voorts kan de verblijfsvergunning geweigerd worden indien de vreemdeling een afwijzende beschikking op zijn asielaanvraag heeft ontvangen op grond van [artikel 31, tweede lid, onder f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=31) wegens het toerekenbaar ontbreken van documenten die betrekking hebben op identiteit en nationaliteit.
+Verder komt de vreemdeling niet in aanmerking voor een verblijfsvergunning indien hij:
 
-### 4. Driejarenbeleid in de asielprocedure
+### 3.4. Procedurele bepalingen
 
 ### 3.4.2. Ambtshalve verlening
 
@@ -11625,19 +11625,19 @@ Voorts kan de verblijfsvergunning geweigerd worden indien de vreemdeling een afw
 
 Dit lijdt echter uitzondering indien de vreemdeling door middel van een begeleidende brief door de Minister is uitgenodigd een verblijfsvergunning op grond van dit beleid aan te vragen. Dit kan zich voordoen in die gevallen waarin gedurende het terugkeertraject door de DT&V wordt geconstateerd dat, ondanks de bereidwilligheid van de vreemdeling om mee te werken aan de eigen terugkeer, het niet lukt om de benodigde reisdocumenten ten behoeve van de terugkeer te verkrijgen.
 
-Voor de toepassing van deze grond is het tijdstip van het plegen van het delict van belang. Indien tijdens de driejarentermijn een strafbaar feit is gepleegd, terzake waarvan een serieuze verdenking is ontstaan (het gaat dan om een misdrijf), dan wordt aangenomen dat hij een gevaar vormt voor de openbare orde, tenzij de strafzaak is afgerond zonder veroordeling (sepot, vrijspraak of ontslag van rechtsvervolging). Ook als een transactie heeft plaatsgevonden dan wel een strafbeschikking is uitgevaardigd of als de strafzaak nog niet is afgerond, is er sprake van deze contra-indicatie. Is het delict gepleegd voorafgaand aan de asielaanvraag, of na het verstrijken van de driejarentermijn, dan wordt aansluiting gezocht bij het algemene beleid inzake de weigering van verblijf bij gevaar voor de openbare orde of de nationale veiligheid (zie B1/4.4), aangezien het driejarenbeleid ziet op de verlening van een verblijfsvergunning regulier voor bepaalde tijd (zie B1/4.10). Is het delict gepleegd op een moment dat er reeds drie jaar en zes maanden (de normale beslistermijn plus de driejarentermijn) verstreken zijn, dan wordt getoetst aan de glijdende schaal (zie B1/5.3.6).
+De verblijfsvergunning regulier onder een beperking verband houdend met verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken betreft een tijdelijk verblijfsrecht, als bedoeld in [artikel 3.5 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5).
 
-De dag van ontvangst van de aanvraag telt dus mee bij de berekening van de termijn.
+De bepalingen van B2 zijn van toepassing.
 
 ### 3.6.1. Gezinshereniging en -vorming in geval van medische aspecten
 
-### 4.4.3. Onderbrekingen van de termijn
+### 3.7. Verlenging van de geldigheidsduur van de verblijfsvergunning
 
-### 5.8. Intrekking en niet-verlenging van de verblijfsvergunning
+### 3.8. Intrekking en niet-verlenging van de verblijfsvergunning
 
-### 4.4.1. Aanvang termijn
+### 4. Driejarenbeleid in de asielprocedure
 
-In onderdeel b is bepaald dat bij de berekening van de driejarentermijn buiten beschouwing blijft periode waarin de vreemdeling niet in Nederland verbleef. Daarop wordt een uitzondering gemaakt ingeval de vreemdeling geoorloofd buiten Nederland verbleef. Daarvan is in ieder geval sprake indien de vreemdeling voorafgaande aan zijn vertrek van de Korpschef dan wel de Visadienst een verklaring heeft gekregen die recht geeft op terugkeer naar Nederland en hij tijdig, dat wil zeggen voor de aangegeven expiratiedatum, naar Nederland is teruggekeerd. Datzelfde geldt, indien de vreemdeling bijvoorbeeld na afwijzing van een verzoek om voorlopige voorziening uit Nederland vertrekt en daarmee voldoet aan de op hem rustende vertrekplicht, maar de rechtbank zijn beroep vervolgens alsnog gegrond verklaart en het bestreden besluit vernietigt. Ook dan ligt het niet voor de hand het verblijf buiten Nederland tegen te werpen. In de uitzondering van onderdeel b komt de ratio tot uiting dat met geoorloofd verblijf buiten Nederland de opbouw van de driejarentermijn niet eindigt. Wel zal, aangezien het verblijf buiten Nederland berust op een keuze van de vreemdeling, de periode van het verblijf in het buitenland niet meetellen.
+Met ingang van 1 januari 2003 is het driejarenbeleid afgeschaft, onder handhaving van het bestaande beleid als overgangsrecht voor aanvragen die op dat moment drie jaar oud waren. Een aanspraak op het driejarenbeleid ontstaat pas op het moment dat de driejarentermijn is vol gemaakt. Aanvragen, ontvangen op 1 januari 2000 of latere datum, komen dus niet op grond van het driejarenbeleid in aanmerking voor inwilliging.
 
 ### 4.5. Aard van de verblijfsvergunning
 
@@ -11645,13 +11645,13 @@ In onderdeel b is bepaald dat bij de berekening van de driejarentermijn buiten b
 
 Indien de asielaanvraag is ontvangen vóór 1 januari 2000 kan de verblijfsvergunning nog op grond van deze bepaling worden verleend indien aan de volgende voorwaarden is voldaan:
 
-Zie [C4/2.5](onbekend) voor toepassing van deze grond.
+Deze contra-indicatie heeft voor het driejarenbeleid geen absoluut karakter in die zin dat altijd een verblijfsvergunning zal worden onthouden. Als de vreemdeling, na confrontatie met de bevindingen van de Minister (bijvoorbeeld op grond van een onderzoek van de Minister van BuZa) toegeeft dat hij op relevante (essentiële) onderdelen van zijn asielrelaas onjuiste gegevens heeft verstrekt, kan hij vanaf dat moment relevant tijdsverloop in de zin van het driejarenbeleid opbouwen. Dat geldt niet voor zaken waarin de vreemdeling de resultaten van het onderzoek betwist en vervolgens (op dit onderdeel van de procedure) in het ongelijk wordt gesteld. In dat geval blijft de vreemdeling in feite onjuiste gegevens verstrekken en staat dit (nog steeds) in de weg aan het opbouwen van relevant tijdsverloop.
 
-Uit het gedrag van de vreemdeling moet blijken dat hij kennelijk geen belang meer hecht aan de beslissing op zijn oorspronkelijke aanvraag door (bijvoorbeeld) zijn adres met onbekende bestemming te verlaten of geen contact meer te houden met de bevoegde autoriteiten. Overigens geldt als voorwaarde voor toepassing van deze afwijzingsgrond niet dat de vreemdeling een meldplicht had. De tijd die verstreken is voordat de vreemdeling met onbekende bestemming vertrok, telt niet mee voor het berekenen van de relevante termijn. Pas op het moment dat de vreemdeling zich weer bij de bevoegde autoriteiten meldt, gaat er een nieuwe termijn lopen.
+Gelet op de systematiek van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) is het voeren van een procedure in een ander land in het algemeen een afwijzingsgrond voor de asielaanvraag. Zolang de procedure in het andere land nog niet is afgerond, neemt de relevante periode voor het driejarenbeleid nog geen aanvang. De reden hiervoor is dat de vreemdeling het in eigen hand heeft om een van de procedures te beëindigen. Zaken waarin wordt geprocedeerd over de vaststelling van de verantwoordelijkheid van een ander land voor de asielaanvraag (op grond van [artikel 30, eerste lid, onder a of d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30)) leveren geen relevante periode op voor het driejarenbeleid, omdat dan door het aanwenden van rechtsmiddelen de verantwoordelijkheid automatisch op Nederland zou overgaan, hetgeen niet in overeenstemming is met het karakter van de onderliggende procedure. In het geval de rechter heeft vastgesteld dat Nederland wel de asielaanvraag moet behandelen, en dus af moet zien van een overdracht van de verantwoordelijkheid voor de asielaanvraag, telt de gehele aan die uitspraak voorafgaande procedure mee voor de bepaling van de termijn.
 
 ### 4.1. De verklaring van de werkgever ([bijlage 12a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a))
 
-Ononderbroken verblijf sinds 1 april 2001 wordt slechts aangenomen indien:
+De termijn gaat lopen vanaf de datum van ontvangst van de asielaanvraag door middel van het formulier als bedoeld in [artikel 3.108 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.108) (zie [C11/1.1.1](onbekend)).
 
 Voor de toepassing van dit beleid wordt een bezwaarschrift of een beroepschrift (indien geen bezwaar mogelijk was) tegen de intrekking van een verblijfsvergunning gelijkgesteld met een aanvraag om verlenging van de geldigheidsduur van deze vergunning. In deze gevallen gaat de termijn lopen vanaf de datum van ontvangst van het rechtsmiddel. Let wel, deze procedure staat los van de procedure omtrent de aanvraag van de verblijfsvergunning. Het tijdsverloop van de oorspronkelijke procedure mag niet worden opgeteld bij het tijdsverloop van de intrekkingprocedure.
 
@@ -11661,11 +11661,11 @@ Indien de vreemdeling herziening vraagt van de uitspraak in (hoger) beroep wordt
 
 ### 10.2. Voorwaarden
 
-Op grond van [artikel 3.61 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.61) (zoals dat luidde vóór 15 mei 2004) kon de verblijfsvergunning onder een beperking verband houdend met het feit dat na drie jaren niet onherroepelijk is beslist op een asielaanvraag, worden verleend voor vijf jaren. De verblijfsvergunning kon op grond van [artikel 3.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.61) (zoals dat luidde vóór 15 mei 2004) ambtshalve worden verleend. Beide bepaling worden nog toegepast in die gevallen waarin op grond van het overgangsrecht een verblijfsvergunning op grond van het driejarenbeleid wordt verleend.
+Het ontbreken van geldig grensoverschrijdingdocument wordt niet tegengeworpen. De verblijfsvergunning behelst naar zijn aard een niet-tijdelijk doel en kan dan ook uiteindelijk aanspraken op een vergunning voor onbepaalde tijd regulier als bedoeld in [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) opleveren.
 
 In de toelichting op [artikel 3.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) werd aangegeven dat in het geval de in dit artikel bedoelde vergunning niet ambtshalve wordt verleend en de vreemdeling zich daar niet mee kan verenigen, deze de eventuele gronden tegen de niet-verlening van de hier bedoelde verblijfsvergunning bij voorkeur in beroep tegen de afwijzing van de asielaanvraag aanvoert. Dit is van belang voor de voortgang van de verblijfsrechtelijke procedure en de samenhang met de asielprocedure.
 
-### 5.3.4. De vreemdeling is EU/EER-onderdaan
+### 5. Regeling afwikkeling nalatenschap Vw (oud)
 
 In het Coalitieakkoord van het kabinet Balkenende IV van 7 februari 2007 is besloten om de nalatenschap van de Vw (oud) af te wikkelen. Daartoe is een regeling getroffen waarbij onder voorwaarden een verblijfsvergunning wordt verleend aan vreemdelingen die onder de Vw (oud) een asielaanvraag hebben ingediend en die nog immer in Nederland zijn.
 
@@ -11673,11 +11673,11 @@ In de eerste drie gevallen is de verblijfplaats van de vreemdeling in beginsel r
 
 Onder noodopvang wordt verstaan een bij de gemeente bekende vorm van ondersteuning (in termen van het verschaffen van onderdak en voorzien in levensonderhoud) die niet plaatsvindt van rijkswege en die in een gemeente beschikbaar is gesteld.
 
-### 5.4. Procedurele bepalingen
+### 5.5. Aard van het verblijfsrecht
 
 Indien de vreemdeling niet aantoonbaar uit Nederland is vertrokken, wordt, indien uit de verklaring van de burgemeester blijkt dat de vreemdeling gedurende het gehele jaar 2006 in het kader van noodopvang in die gemeente heeft verbleven, ononderbroken verblijf sinds 1 april 2001 aangenomen.
 
-### 5.6. De verlening van de verblijfsvergunning
+### 5.6.1. Beperking en arbeidsmarktaantekening
 
 De verblijfsvergunning regulier onder de beperking ‘afwikkeling nalatenschap oude Vreemdelingenwet’ betreft een niet-tijdelijk verblijfsrecht, als bedoeld in [artikel 3.5 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5).
 
@@ -11685,21 +11685,21 @@ De verblijfsvergunning op grond van de regeling wordt, in afwijking van het bele
 
 In geval van een veroordeling tot een taakstraf wegens drugs-, zeden- dan wel geweldsmisdrijven wordt de duur van de door de rechter bepaalde vervangende hechtenis als uitgangspunt genomen bij de beoordeling. Voor het overige worden taakstraffen niet tegengeworpen.
 
-Voor bijzondere bepalingen met betrekking tot het looncriterium voor kennismigranten jonger dan dertig jaar wordt verwezen naar B15/5.1. Deze categorie blijft ook na hun dertigste jaar kennismigrant, zolang de kennismigrant in dienst is van dezelfde werkgever en hij een bruto jaarloon verdient, dat tenminste gelijk is aan het geldende looncriterium voor kennismigranten jonger dan dertig jaar.
-
 Voorts worden aangemerkt als kennismigrant vreemdelingen die niet langer dan één jaar na het afronden van een hogere beroepsopleiding of een wetenschappelijke studie in Nederland worden tewerkgesteld op basis van een arbeidsovereenkomst of een ambtelijke aanstelling en een bruto jaarloon verdienen dat ten minste gelijk is aan het geldende looncriterium voor afgestudeerde buitenlandse studenten. Voor bijzondere bepalingen met betrekking tot het looncriterium voor afgestudeerde buitenlandse studenten wordt verwezen naar B15/5.1.
 
-Uitgezonderd van verblijf als kennismigrant zijn beroepssporters in het betaalde voetbal, geestelijke voorgangers en godsdienstleraren, en vreemdelingen die werkzaamheden verrichten die geheel of ten dele bestaan uit het verrichten van seksuele handelingen met derden of voor derden.
+Tevens worden aangemerkt als kennismigrant vreemdelingen die in Nederland worden tewerkgesteld in het kader van het doen van wetenschappelijk onderzoek in dienst van een bekostigde of aangewezen onderwijsinstelling of een van overheidswege direct of indirect, geheel of gedeeltelijk bekostigde of gesubsidieerde onderzoeksinstelling, of als arts in opleiding tot specialist bij een door de Medisch Specialisten Registratie Commissie, de Sociaal-Geneeskundigen registratie Commissie of de Huisarts en Verpleeghuisarts Registratie Commissie aangewezen opleidingsinstituut. Voor hen geldt geen looncriterium.
 
-Slechts werkgevers die in Nederland gevestigd zijn, kunnen een beroep op de kennismigrantenregeling doen. De regeling is niet van toepassing op werkgevers die in het buitenland gevestigd zijn, tenzij tevens sprake is van een vestiging in Nederland. De verklaring dient steeds door de in Nederland gevestigde werkgever te worden ondertekend.
+Aan vreemdelingen die voldoen aan het looncriterium dan wel aan de kwalificatie van wetenschappelijk onderzoeker of arts in opleiding tot specialist kan verblijf als kennismigrant worden toegestaan mits de werkgever bij wie zij in dienst treden op grond van een ondertekende verklaring (zie [bijlage 12a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a)), is toegelaten tot de kennismigrantenregeling. Zie voor deze verklaring B15/4.1.
 
-In deze verklaring geeft de werkgever garanties met betrekking tot onder meer de volledigheid van het verzoek om advies in verband met de afgifte van een mvv of de aanvraag om een verblijfsvergunning die hij ten behoeve van of namens de kennismigrant indient, het voldoen aan de voorwaarden voor verblijf als kennismigrant door de vreemdeling en het niet ten koste komen van de Nederlandse Staat van het verblijf van kennismigranten. Daarnaast neemt de werkgever de verplichting op zich de IND te informeren zodra de situatie van de werknemer zich wijzigt. Doordat de werkgever een aantal verplichtingen op zich neemt, wordt de IND in staat gesteld de aanvragen om verblijf als kennismigrant via een versnelde procedure af te doen.
+Om in aanmerking te komen voor de versnelde procedure voor toelating van kennismigranten, dient de werkgever een volledig ingevulde en ondertekende verklaring (zie [bijlage 12a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a)) in te dienen bij de IND. Het gaat hier om de verklaring, bedoeld in [artikel 1d Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1d).
 
-Van startende ondernemingen kan niet worden verwacht dat zij een verklaring omtrent betalingsgedrag, afgegeven door de Belastingdienst, overleggen, aangezien het bedrijf nog geen (belasting) verleden in Nederland heeft. Verblijf als kennismigrant bij startende ondernemingen is evenwel mogelijk in de navolgende situaties en onder de daarbij genoemde voorwaarden. Verblijf als kennismigrant kan worden toegestaan bij:
+Nu de IND zich verplicht tot een versnelde procedure, is het voor de IND van belang om vast te stellen of het aannemelijk is dat de werkgever de verplichtingen die hij in de verklaring (zie [artikel 3.25a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.25a)) aangaat, ook daadwerkelijk zal (kunnen) nakomen. Daarom dient de werkgever bij de verklaring steeds de volgende stukken te overleggen:
 
-Op het verblijfsdocument zal evenwel worden vermeld ‘Speciale regeling 2007. Arbeid vrij toegestaan; TWV niet vereist’.
+Bij vreemdelingen die een bedrijf uitoefenen op grond van een verblijfsvergunning voor het verrichten van arbeid als zelfstandige, kan verblijf als kennismigrant worden toegestaan. In het geval het bedrijf van deze vreemdeling een startende onderneming is, gelden voor wat betreft verblijf van vreemdelingen als kennismigrant bij dat bedrijf, de hierboven genoemde voorwaarden die van toepassing zijn op startende ondernemingen.
 
 De toelatingsprocedure met betrekking tot kennismigranten is bij uitstek een referentprocedure.
+
+Voorafgaande aan de indiening van de aanvraag om een mvv bij de Nederlandse diplomatieke of consulaire vertegenwoordiging in het buitenland dient de werkgever in Nederland door middel van het formulier ‘Verzoek om advies in verband met afgifte mvv kennismigrant’ te verzoeken om een advies in verband met het voornemen van de kennismigrant om een mvv aan te vragen in het buitenland.
 
 ### 3. Kennismigranten
 
@@ -12329,37 +12329,37 @@ Burgers van de Unie, onderdanen van de EER, Zwitserse onderdanen, alsmede hun ge
 
 ### 2.1. Toegang tot Nederland
 
-### 3.2. Reële en daadwerkelijke arbeid
+### 2.2. Mvv-vereiste
 
 ### 2.6.1. Niet betalen van leges
 
 ### 3.3. Voor verblijf van langer dan drie maanden over te leggen stukken
 
+### 2.5.2. Verblijfsrecht voor langer dan drie maanden
+
+Onderdanen van EU/EER-lidstaten en van Zwitserland hebben onder bepaalde voorwaarden het recht om voor een periode van langer dan drie maanden in Nederland te verblijven als werknemer, zelfstandige, economisch niet-actieve of student (zie [artikel 8.12 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)). Dat recht hebben zij uiteraard ook direct na inreis indien zij op dat moment aan de voorwaarden voldoen. Zij worden in geen geval verwijderd indien de burger van de Unie arbeid als zelfstandige of in loondienst verricht of naar Nederland is gekomen om werk te vinden, nog steeds werkzoekende is en een reële kans maakt om dat te vinden. Onder bepaalde voorwaarden gaat het verblijfsrecht niet verloren door werkloosheid, arbeidsongeschiktheid, overlijden of vertrek van de persoon bij wie het familielid verbleef, of echtscheiding of beëindiging van het geregistreerde partnerschap.
+
 ### 2.5.3. Duurzaam verblijfsrecht
 
-Iedere burger van de Unie die gedurende een ononderbroken periode van vijf jaar legaal in Nederland heeft verbleven, heeft duurzaam verblijfsrecht in Nederland. Dit geldt ook voor familieleden van burgers van de Unie die niet de nationaliteit van een EU- of EER-lidstaat bezitten en die gedurende een ononderbroken periode van vijf jaar legaal in Nederland bij de burger van de Unie hebben gewoond ([artikel 8.17, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17)). Het duurzame verblijfsrecht van de EU- en EER-onderdanen en van onderdanen van Zwitserland en hun familieleden die niet de nationaliteit van een EU- of EER-lidstaat bezitten, blijkt uit het op aanvraag te verstrekken document ‘Duurzaam verblijf burgers van de Unie’. Terzake van de afdoening van een aanvraag tot afgifte van een document ‘Duurzaam verblijf burgers van de Unie’ dient leges te worden betaald.
-
-### 3.4. Werkzaamheden buiten Nederlands grondgebied
-
-De arbeidsverhouding van een werknemer in het internationale transport wordt verondersteld voldoende nauwe aanknoping met het Nederlands grondgebied te hebben, indien voldaan is aan de volgende voorwaarden:
+Het duurzame verblijfsrecht komt onder omstandigheden ook toe aan burgers van de Unie en hun familieleden ongeacht hun nationaliteit, die nog geen ononderbroken periode van vijf jaar in Nederland hebben verbleven (zie [artikel 8.17, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17) en B10/3.6).
 
 ### 3.5.1. Tijdelijke arbeidsongeschiktheid
 
-### 8.1. Werkzoekenden
+### 3.1. Verblijfstermijn voor werkzoekenden
 
-Perioden van afwezigheid, die in totaal zes maanden per jaar niet overschrijden zijn niet van invloed op het bij voortduring in Nederland wonen. Afwezigheid van langere tijd, is niet van invloed op het bij voortduring in Nederland wonen in de volgende gevallen:
+Om aan te tonen dat de EU- of EER-onderdaan of onderdaan van Zwitserland voldoet aan de voorwaarden voor verblijf van langer dan drie maanden, bedoeld in [artikel 8.12, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12), dienen de hierna genoemde bewijzen te worden geleverd. In het [VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002) zijn per categorie de vereiste documenten die dit bewijs moeten leveren opgesomd.
 
 ### 4.2.3. Recht op studiefinanciering
 
-Perioden van afwezigheid, die in totaal zes maanden per jaar niet overschrijden zijn niet van invloed op het bij voortduring in Nederland wonen. Afwezigheid van langere tijd, is niet van invloed op het bij voortduring in Nederland wonen in de volgende gevallen:
+De EU/EER-onderdaan of Zwitserse onderdaan, die zijn werkzaamheden buiten Nederland verplaatst, maar zijn hoofdverblijf in Nederland behoudt, heeft het recht om duurzaam verblijf te houden hier te lande, indien hij:
 
-### 3.3.3. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
+### 3.6.3. Voortdurend in Nederland werken ([artikel 8.17, vierde lid Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17))
 
-### 5. Familie- en gezinsleden van gemeenschapsonderdanen
+### 3.6.5. Verblijfskaart
 
 ### 4.2.2. Voldoende middelen van bestaan
 
-### 4.2.4. Beëindiging van de studie
+### 4.2.1. Beroepsopleiding
 
 ### 3.4.1. Nationaal recht
 
@@ -12367,23 +12367,23 @@ Perioden van afwezigheid, die in totaal zes maanden per jaar niet overschrijden 
 
 ### 5.3.2.2. Voortzetting van verblijf bij naturalisatie
 
-Voor gemeenschapsonderdanen die tot Nederlander naturaliseren geldt dat zolang zij rechten kunnen ontlenen aan het EG-Verdrag, het gemeenschapsrecht van toepassing blijft, ongeacht of zij hun oude nationaliteit hebben verloren of behouden. Voor het rechtmatig verblijf van de familie- of gezinsleden die in de andere lidstaat bij hem verbleven op grond van het EG-Verdrag geldt dan het gemeenschapsrecht in plaats van de regels als genoemd in B2. Aan deze familie- of gezinsleden worden minstens dezelfde rechten toegekend als die zij krachtens het gemeenschapsrecht zouden hebben in een andere Lidstaat. Deze familie- of gezinsleden worden aangemerkt als gemeenschapsonderdaan in de zin van [artikel 1, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1).
+Het algemene uitgangspunt is dat het verblijfsrecht van het familie- of gezinslid een afhankelijk recht is. Door dit afhankelijk karakter eindigt het verblijfsrecht van het familie- of gezinslid in beginsel op het moment dat degene van wie dit familielid afhankelijk is, niet langer rechtmatig verblijf in de zin van [artikel 8, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) heeft. Het verblijfsrecht vervalt eveneens indien het familie- of gezinslid verblijf houdt in strijd met een beperking op grond van een regeling vastgesteld krachtens het EG-Verdrag of de Overeenkomst EG-Zwitserland dan wel de (voortzetting van) het verblijf is geweigerd op grond van een actuele bedreiging van de openbare orde, openbare veiligheid of de volksgezondheid. Op grond van [artikel 8.25 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.25) kan het rechtmatige verblijf bovendien worden beëindigd indien onjuiste gegevens zijn verstrekt of gegevens zijn achtergehouden terwijl die gegevens tot weigering van verblijf zouden hebben geleid.
+
+### 5.1. Samenwoningvereiste
 
 ### 5.2.1. Familielid zelf EU/EER- of Zwitsers onderdaan
 
-### 5.4.1. Familierelatie of gezinsband blijft bestaan
+Het familielid, dat zelf EU- of EER-onderdaan of onderdaan van Zwitserland is, heeft dezelfde verblijfsrechtelijke positie als de burger van de Unie. De eerste periode van verblijf bedraagt drie maanden (zie [artikel 8.11 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.11)). In deze periode worden geen andere voorwaarden gesteld dan het bezit van een geldig paspoort of een geldige identiteitskaart. De burger van de Unie die door middel van een identiteitskaart zijn identiteit en nationaliteit aantoont, bezit recht op verblijf. Het niet beschikken over een geldige identiteitskaart of een geldig paspoort doet echter niet af aan de rechtmatigheid van het verblijf, indien het bewijs van identiteit en nationaliteit ondubbelzinnig met andere middelen kan worden geleverd.
 
-Zolang de familierelatie of de gezinsband met de hoofdpersoon in stand blijft en de hoofdpersoon als gemeenschapsonderdaan is aan te merken, is het familie- of gezinslid eveneens als zodanig aan te merken.
-
-### 5.4.3. Familielid onderdaan derde land
+### 5.3.2.1. Terugkeer naar Nederland
 
 ### 7.3. Actuele bedreiging van de openbare orde en nationale veiligheid
 
-### 7.2. Uitzetting
+### 5.4.4. Kinderen die 21 jaar worden
 
-### 8.2.1. Grensoverschrijdende dienstverrichters
+### 6.1. Verblijfsdocument
 
-### 8.1. Werkzoekenden
+### 6.1.1. Gevaar voor de volksgezondheid
 
 ### 8.3. Gezinsleden van werknemers
 
@@ -12393,11 +12393,11 @@ Zolang de familierelatie of de gezinsband met de hoofdpersoon in stand blijft en
 
 ### 8.6. Reguliere verblijfsaanvraag
 
-Van burgers van de Unie en hun familieleden, ongeacht hun nationaliteit, mag niet worden verlangd dat zij bewijzen van goed gedrag, uittreksels uit het strafregister en dergelijke overleggen.
+Indien dit onontbeerlijk wordt geacht ter beoordeling of sprake is van een gevaar voor de openbare orde of openbare veiligheid kan bij de lidstaat van oorsprong of eventuele andere lidstaten worden verzocht om mededeling van gerechtelijke antecedenten betreffende de vreemdeling. Deze raadpleging kan plaatsvinden bij de afgifte van de verklaring van inschrijving of de afgifte van de verblijfskaart waarmee het verblijfsrecht van het familielid dat niet de nationaliteit van een lidstaat bezit wordt aangetoond.
 
 ### 8.5. Leges
 
-### 1. Inleiding
+### 8. Overgangsrecht onderdanen van Bulgarije en Roemenië
 
 Terzake van het verrichten van arbeid in loondienst, geheel of ten dele bestaande uit het verrichten van seksuele handelingen met derden of voor derden, geldt ingevolge [artikel 2 Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), in samenhang met [artikel 3 Besluit uitvoering Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=3), een verbod op tewerkstelling doordat een TWV wordt geweigerd. Zolang dit geldt, wordt terzake van het door onderdanen van Bulgarije en Roemenië verrichten van zodanige werkzaamheden geen verblijfsdocument EU/EER afgegeven.
 
@@ -12405,11 +12405,11 @@ Terzake van het verrichten van arbeid in loondienst, geheel of ten dele bestaand
 
 ### 1. Inleiding
 
-De notificatie geldt voor alle buitenlandse dienstverleners voor wie het vrij verkeer van diensten geldt, die een dienst in Nederland willen verlenen met eigen werknemers voor wie op enig moment geen vrij verkeer van werknemers met ons land geldt (zie ook B5/4.4).
+Gevraagde bescheiden:
 
 ### 1. Inleiding
 
-Er zijn diverse verdragen relevant voor het Nederlandse vreemdelingenrecht. Het internationale recht, waaronder Verdragen, gaat vóór het Nederlandse recht en eist dat de verdragspartij zijn aangegane verplichtingen nakomt. De wijze waarop verdragsbepalingen in de Nederlandse rechtsorde doorwerken wordt echter niet geregeld door het internationale recht; dit is een aangelegenheid van nationaal procedureel recht.
+Het Nederlandse reguliere vreemdelingenrecht is zo ingericht dat een vreemdeling dient aan te geven in verband met welk verblijfsdoel hij een verblijfsvergunning wenst te verkrijgen. Ieder opgegeven verblijfsdoel brengt op zijn beurt weer een specifiek toetsingskader van voorwaarden en beperkingen met zich mee. Dit laat onverlet dat ingevolge de directe werking van verdragsbepalingen in de Nederlandse rechtsorde aan de vreemdeling in bepaalde gevallen een recht op (voortgezette) toelating toekomt. [Artikel 8.26 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.26) geeft een overzicht van verdragen. De Minister kan regels stellen over de rechten die vreemdelingen aan de in dit artikel genoemde verdragen kunnen ontlenen.
 
 ### 2. EVRM
 
@@ -12423,21 +12423,21 @@ Op 23 november 1970 is een Aanvullend Protocol bij de Associatieovereenkomst EG-
 
 ### 3.5. Verlies van opgebouwde rechten
 
-### 15.2. Medische behandeling
+### 3.4. Recht op voortzetting van verblijf gezinsleden Turkse werknemers
 
 ### 5. Het Nederlands-Duits Vestigingsverdrag
 
-### 5.2. Verblijfsvoorwaarden
+### 3.5. Verlies van opgebouwde rechten
 
-Ingevolge het Nederlands-Duits Vestigingsverdrag wordt in geval van een aanvraag om verlenging van de geldigheidsduur van de verblijfsvergunning niet tegengeworpen dat niet aan de beperking wordt voldaan, mits betrokkene beschikt over voldoende middelen van bestaan. Met andere woorden, (voortzetting van) verblijf wordt toegestaan indien:
+De Turkse werknemers en zijn gezinsleden die vallen onder de reikwijdte van een van de bepalingen van besluit nr. 1/80, verliezen hun opgebouwde rechten in de volgende gevallen.
 
-Gedurende de opbouw van de eerste drie jaar legale arbeid heeft vrijwillige werkloosheid tot gevolg dat reeds opgebouwde rechten verloren gaan (zie B11/3.3.2).
+Het verblijfsrecht wordt beëindigd om redenen van openbare orde of openbare veiligheid indien het persoonlijk gedrag van betrokkene een actuele, werkelijke en voldoende ernstige bedreiging voor een fundamenteel belang van de samenleving vormt (zie artikel 14, eerste lid, besluit nr. 1/80; zie Hof van Justitie van de EG, 10 februari 2000, Nazli, C-340/97en zie B10/7.1.1).
 
-### 5.3. Beperking en (arbeidsmarkt)aantekeningen
+### 4. Het Europees vestigingsverdrag
 
-### 2.1. Niet-duurzaam verblijvend personeel
+### 4.2.2. Tien jaar rechtmatig verblijf
 
-Deze bepaling is niet vertaald in het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825), maar de algemene regeling van [artikel 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) en [3.87 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.87) geeft – materieel inhoudelijk bekeken – een rechtsbescherming die ten minste even sterk is als de rechtsbescherming die voortvloeit uit het Verdrag.
+Bij beantwoording van de vraag of de redenen voor verwijdering van bijzonder ernstige aard in de zin van het Verdrag zijn, dient het gedrag van de betrokken persoon gedurende de hele periode van verblijf in aanmerking te worden genomen. Tevens dient rekening te worden gehouden met familiebanden en de duur van het verblijf van de betrokken persoon op het Nederlands grondgebied.
 
 ### 16.2. Bewijs staatloosheid
 
@@ -12453,39 +12453,39 @@ Deze bepaling is niet vertaald in het [Vb](https://wetten.overheid.nl/jci1.3:c:B
 
 ### 6.3.2. Arbeid in loondienst
 
-### 3.3.1. Verblijfsvoorwaarden (ex)geprivilegieerden
+### 7. Europa-overeenkomsten met Bulgarije en Roemenië
 
-### 7.2. Verblijf van zelfstandigen
+### 7.2.1. Verblijfsvoorwaarden
 
-### 10.1. Begunstigde
+### 8.1. Verblijfsvoorwaarden
 
-Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende te zijn verzekerd tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
+Onderdanen van de Verenigde Staten van Amerika mogen in Nederland verblijven:
 
 ### 10. ESH
 
-Aan de echtgeno(o)t(e) of ongehuwd minderjarig kind – ongeacht hun nationaliteit – van een persoon die op grond van artikel II, eerste lid, onder a of b, van het Verdrag is toegelaten (de hoofdpersoon), kan verblijf worden toegestaan, indien zij hem vergezellen of voor gezinshereniging nareizen.
+Het verblijf van de echtgeno(o)t(e) of ongehuwd minderjarig kind van de hoofdpersoon, ongeacht hun nationaliteit, kan met toepassing van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) worden geweigerd, met uitzondering van het middelenvereiste ([artikel 16, eerste lid, aanhef en onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16)). Dit geldt zolang de hoofdpersoon voldoet aan de voorwaarden uit het Verdrag, zowel voor eerste toelating als ook voor de verlengingsaanvraag.
 
 Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende te zijn verzekerd tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
 ### 9.3. Beperking, arbeidsmarktaantekening en voorschrift
 
-### 11.3. Gezinshereniging
+### 10. ESH
 
 ### 14. Het IVRK
 
 Dat laat echter onverlet dat voor gezinshereniging, met hier te lande rechtmatig verblijvende Turkse werknemers, aanvullende eisen kunnen worden gesteld indien het gaat om (verruimde) gezinshereniging. Dat betekent dat, voorzover hier van belang, op ‘kinderen’ tussen de 18 en 21 jaar, die ten laste van de werknemer komen, niet dezelfde regeling behoeft te worden toegepast zoals die geldt voor EU/EER-onderdanen en onderdanen van Zwitserland.
 
-### 15.1.1. Binnenkomst vóór 25 november 1980
+### 11.4. Tijdelijke arbeidsongeschiktheid en werkloosheid
 
-Hoewel de geldigheidsduur van de Overeenkomst Nederland-Suriname 1975 is verstreken op 24 november 1980, zijn de bepalingen van deze Overeenkomst nog van toepassing op bepaalde Surinaamse onderdanen (verkregen rechten). In het algemeen kan worden gesteld dat het vreemdelingen van Surinaamse nationaliteit betreft die vóór 25 november 1980 in het bezit zijn gesteld van een verblijfsvergunning op grond van de Overeenkomst Nederland-Suriname 1975.
+Er dient vijf maanden verblijf te worden toegestaan voor het zoeken naar ander werk, revalidatie dan wel herscholing, als bedoeld in artikel 25 van het Verdrag, in geval van:
 
 ### 15.2.1. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
 Bedoelde overeenkomsten en jurisprudentie leiden echter niet tot aanspraak op (voortzetting van) verblijf voor onderdanen van genoemde landen.
 
-Tevens wordt de verblijfsvergunning voorzien van de aantekening: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
+Een vreemdeling die wettig op het grondgebied verblijft van een Staat die partij is bij dit verdrag, kan slechts uit die Staat worden gezet krachtens een overeenkomstig de wet genomen beslissing (zie artikel 13 van het Verdrag).
 
-### 16. Het Staatlozenverdrag
+### 14. Het IVRK
 
 ### 14. Het IVRK
 
@@ -12493,43 +12493,43 @@ Tevens wordt de verblijfsvergunning voorzien van de aantekening: ‘Een beroep o
 
 ### 15.1. Binnenkomst en verblijf
 
-Het bewijs van de staatloosheid is niet aan bepaalde middelen gebonden en de beoordeling daarvan niet voorbehouden aan een speciaal daarvoor aangewezen rechterlijke of administratieve instantie.
+Voor deze categorie vreemdelingen zijn de in het algemeen geldende wettelijke bepalingen en voorschriften van toepassing. Het gaat hierbij om:
 
-Niet-duurzaam verblijvend personeel bezit een bijzondere status op grond van het Diplomatenverdrag en het Consulaire verdrag. Op dit personeel alsmede op hun afhankelijke gezinsleden en particuliere bedienden zijn de bepalingen van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) niet van toepassing. Zij zijn in het algemeen niet onderworpen aan de verplichtingen die in het belang van het toezicht op vreemdelingen zijn gesteld. Evenmin kunnen op hen de maatregelen van uitzetting en bewaring krachtens de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) worden toegepast (zie [A2/6.2.3.1](onbekend) en [A2/6.2.3.4](onbekend)). Hun toegang, toelating en verblijf hier te lande richten zich naar de algemene regelen van volkenrecht.
+Surinaamse onderdanen die op medische indicatie voor een behandeling naar Nederland reizen, zal een visum worden verstrekt, mits de financiering van deze behandeling deugdelijk is geregeld. Dit houdt in dat moet worden aangetoond dat een toereikende ziektekostenverzekering is afgesloten. In beginsel kan geen genoegen worden genomen met een garantverklaring van een referent.
 
-### 1. Inleiding
+### 16. Het Staatlozenverdrag
 
 ### 2.1.2.1. Verblijfsvoorwaarden ex-geprivilegieerden
 
 ### 2.2.1. Lokaal geworven personeel
 
-Afwijzing van de aanvraag tot het verlengen van de geldigheidsduur en het intrekken van een verblijfsvergunning van een staatloze kan slechts geschieden:
+Het hierboven in deze paragraaf gestelde is niet van toepassing:
 
-### 2.2.1. Lokaal geworven personeel
+### 16.3.2. Reisdocumenten
 
 ### 2. Personeel van ambassades en consulaten, alsmede de gezinsleden
 
 ### 2.4.1. Ambtshalve toets
 
-Als niet-duurzaam verblijvend personeel worden aangemerkt:
+Deze vreemdelingen zijn óf beroepskoeriers óf als zodanig voor één reis aangewezen (zie verder [A2/6.2.3.2](onbekend)).
 
 ### 2.2.2.2. Verblijfsvoorwaarden gezinsleden
 
-Het betreft hier:
+Van de bovenstaande drie categorieën wordt alleen de derde categorie door de Minister van BuZa in het bezit gesteld van een geprivilegieerdendocument ([model M81](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M81); zie [bijlage 3, onder A, derde lid VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=3) juncto [artikel 2.3 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=2.3)). Dit houdt onder meer in dat deze categorie niet behoeft te beschikken over een verblijfsvergunning, maar wel over bovengenoemd geprivilegieerdendocument, vervangend document of visum.
 
 ### 2.1.2.2. Verblijfsvoorwaarden gezinsleden ex-geprivilegieerden
 
-De verblijfsstatus van de geprivilegieerde (hoofdpersoon) is bepalend voor de status van afhankelijke gezinsleden. Zolang de hoofdpersoon de uitgezonden status behoudt, behouden ook de afhankelijke gezinsleden deze status. Indien de uitgezonden status van de hoofdpersoon komt te vervallen, vervalt tevens de uitgezonden status van de afhankelijke gezinsleden.
+Het afhankelijke gezinslid kan in het bezit worden gesteld van een verblijfsvergunning regulier voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20)), indien het gezinslid:
 
-### 2.4.2. Toetsing ex nunc
+### 2.2.1. Lokaal geworven personeel
 
-### 3.3.1. Verblijfsvoorwaarden (ex)geprivilegieerden
+### 2.2.2.1. Verblijfsvoorwaarden
 
-Zie B1/7.1.3.
+Het bepaalde in B12/2.1.2.2 is van overeenkomstige toepassing op de aanvraag tot het verlenen van een verblijfsvergunning regulier voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) of voor onbepaalde tijd (zie [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20)).
 
 ### 3.4.1.8. Geldigheidsduur verblijfsvergunning
 
-Voor ‘zelfstandig’: zie [artikel 3.73 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.73) en B1/4.3.1. Voor ‘voldoende’: zie [artikel 3.74 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.74) en B1/4.3.3. Ten aanzien van de duurzaamheid van de middelen geldt ingevolge [artikel 3.93, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) een afwijkende bepaling. De middelen van bestaan zijn duurzaam indien zij op het tijdstip waarop de aanvraag werd ingediend of waarop de beschikking wordt gegeven, of enig tussenliggend moment nog gedurende ten minste één jaar beschikbaar zijn.
+Ten aanzien van deze voorwaarde wordt aangesloten bij [artikel 3.95 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.95). Dit betekent dat de aanvraag wordt afgewezen, indien de vreemdeling wegens een misdrijf waartegen een gevangenisstraf van drie jaren of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis een gevangenisstraf, een taakstraf of de maatregel, bedoeld in [artikel 37a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a), dan wel het buitenlandse equivalent daarvan, is opgelegd, en de totale duur van de straffen of maatregelen ten minste gelijk is aan de norm, bedoeld in [artikel 3.86, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86). Verder is [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) van overeenkomstige toepassing (zie B1/4.4 en B1/5.3.6).
 
 ### 3.4.2. Niet-geprivilegieerde NAVO-vreemdelingen ([artikel 3.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40))
 
@@ -12537,63 +12537,63 @@ Voor ‘zelfstandig’: zie [artikel 3.73 Vb](https://wetten.overheid.nl/jci1.3:
 
 ### 3.4. NAVO
 
-### 3.4.1. Geprivilegieerde NAVO-vreemdelingen
+### 3.4.1.1. Verdrag van Ottawa
 
-Aan vreemdelingen als bedoeld in [artikel 3.40, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) die onderdaan zijn van een lidstaat van de EU/EER of van Zwitserland, wordt een verblijfsvergunning voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) verleend onder de beperking: ‘verblijf als NAVO-vreemdeling.’ De arbeidsmarktaantekening luidt: ‘arbeid vrij toegestaan. TWV niet vereist.’
+Op grond van het Verdrag van Ottawa zijn twee categorieën vreemdelingen geprivilegieerd:
 
 ### 3.4.2.1. Verblijfsvoorwaarden
 
 ### 3.4.1.2. NAVO-statusverdrag en Partnership for Peace-statusverdrag
 
-### 4. EU- en EER-onderdanen, Zwitserse onderdanen en hun gezinsleden
-
-Voor zover zij de leeftijd van twaalf jaar hebben bereikt, wordt aan vreemdelingen behorend tot een van deze categorieën voor hun verblijf een document uitgereikt als bedoeld in [bijlage 7a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a).
+### 3.4.2. Niet-geprivilegieerde NAVO-vreemdelingen ([artikel 3.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40))
 
 Aan vreemdelingen jonger dan twaalf jaar kan niettegenstaande het voorgaande een document als bedoeld in [bijlage 7a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a) worden verleend, namelijk indien geen van de beide ouders van de vreemdeling in het bezit hoeft te worden gesteld van een dergelijk document.
 
-### 2.6.1. Gronden voor verlenging
+Aan vreemdelingen jonger dan twaalf jaar kan niettegenstaande het voorgaande een document als bedoeld in [bijlage 7a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a) worden verleend, namelijk indien geen van de beide ouders van de vreemdeling in het bezit hoeft te worden gesteld van een dergelijk document.
 
-In deze gevallen zijn de middelen van bestaan voldoende, indien het gezamenlijke netto-inkomen gelijk is aan de bijstandsnorm als bedoeld in [artikel 21, onder c, Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21), voor de categorie echtparen en gezinnen, aangevuld met voor iedere betrokken vreemdeling het bestaansminimum voor alleenstaanden van 21 jaar of ouder.
+### 3.4.2.4. Beperking, arbeidsmarktaantekening en voorschrift
+
+Aan vreemdelingen als bedoeld in [artikel 3.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) wordt een verblijfsvergunning voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)) verleend met de beperking ‘verblijf als NAVO-vreemdeling’, met de arbeidsmarktaantekening: ‘andere arbeid alleen toegestaan indien werkgever beschikt over TWV.’
 
 ### 3. Beperking, arbeidsmarktaantekeningen en voorschrift
 
-### 13. Familiebezoek
+### 1. Inleiding
 
 ### 2. Amv’s
 
-Onder bloedverwanten wordt verstaan: ouders (1e graad), kinderen (1e graad), broers/zussen (2e graad) grootouders (2e graad), ooms/tantes (3e graad) en neven/nichten (4e graad).
+Onder aanverwanten wordt verstaan: zwagers/schoonzussen (2e graad), schoonzoons/ schoondochters (1e graad), schoonmoeders/schoonvaders (1e graad), stiefkinderen (1e graad), stiefouders (1e graad) en stiefbroers/stiefzussen (2e graad).
 
 ### 2.2.4. Adequate opvang
 
-### 14. Ambtshalve verlening van een verblijfsvergunning regulier
+### 1. Inleiding
 
 ### 2.3.1. De bepalingen van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16)
 
-### 2. Amv’s
+### 2.1. Algemeen
 
 ### 2.3.2. Frustreren van het onderzoek naar adequate opvang
 
-### 2.4.2. Toetsing ex nunc
+### 2.2.1. Minderjarigheid
 
 ### 5.3.1. Openbare orde
 
-Hiervan is onder meer sprake als de meerderjarige de minderjarige al eerder begeleidde of verzorgde op meer dan incidentele basis.
+Indien in het landgebonden asielbeleid is vastgelegd dat algemene opvangvoorzieningen beschikbaar en toereikend zijn, mag ervan worden uitgegaan dat er adequate opvang is. Daadwerkelijke plaatsing behoeft ten tijde van de beschikking niet te zijn geregeld.
 
 ### 2.5.1. Beperking en arbeidsmarktaantekening
 
-### 2.5.2. Ingangsdatum van de verblijfsvergunning
+### 2.3. Afwijzingsgronden
 
 De ingangsdatum is de dag waarop de vreemdeling voor het eerst aan de voorwaarden voldoet, maar valt niet voor de datum waarop de asielaanvraag is ingediend en ondertekend.
 
-### 2.6.2. Ontbreken geldig document voor grensoverschrijding
+### 2.4. Procedurele bepalingen
 
 De verlengingsaanvraag wordt conform B1/5.3.4 in beginsel niet afgewezen wegens het enkele ontbreken van een geldig document voor grensoverschrijding.
 
-### 2.6.5. Het bescheid rechtmatig verblijf
+### 2.4.3.1. Herhaald leeftijdsonderzoek
 
 ### 2.5.1. Beperking en arbeidsmarktaantekening
 
-De verblijfsvergunning wordt verleend onder de beperking: ‘verblijf als alleenstaande minderjarige vreemdeling’.
+De arbeidsmarktaantekening luidt: ‘arbeid uitsluitend toegestaan indien werkgever beschikt over TWV’. Het CWI zal alleen een TWV afgeven indien de arbeidsperiode binnen een tijdbestek van 52 weken niet meer dan in totaal 24 weken bedraagt.
 
 ### 2.5.3. Geldigheidsduur van de verblijfsvergunning
 
@@ -12607,15 +12607,15 @@ Daarnaast is herhaald onderzoek eerder aangewezen bij landen waarvoor weinig aan
 
 ### 2.6.3. Gronden voor afwijzing van de aanvraag tot verlenging
 
-### 2. Samenhang [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) en de [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
+### 2.7. Intrekken van de verblijfsvergunning
 
-### 2.10. Overgangsrecht
+### 2.10.1. Toepasselijkheid van het beleid
 
 ### 2.10.3.1. Inleiding
 
-Voor wat betreft de ambtshalve toets geldt het nieuwe beleid als novum.
+Op grond van het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) moet in de afhandeling onderscheid worden gemaakt naar vreemdelingen die nog minderjarig zijn en vreemdelingen die inmiddels meerderjarig zijn geworden. In de volgende subparagrafen wordt de toetsing beschreven.
 
-Het dient daarbij te gaan om objectieve, verifieerbare feiten en omstandigheden die zien op de persoon van betrokkene en die in de eerste plaats zijn onderbouwd met bescheiden. Hierbij moet gedacht worden aan een verklaring van de ambassade waarin staat dat betrokkene niet in het bezit zal worden gesteld van een vervangend reisdocument, hoewel er niet getwijfeld wordt aan de door betrokkene opgegeven identiteit en nationaliteit. Ook kan gedacht worden aan een ambtsbericht van de DT&V aan de IND waaruit blijkt dat de betreffende ambassade weigert een (vervangend) reisdocument te verstrekken hoewel de nationaliteit en identiteit niet worden betwist.
+Indien een nog minderjarige vreemdeling, aan wie eerder een verblijfsvergunning regulier voor bepaalde tijd op grond van het beleid inzake Amv’s is geweigerd omdat hij niet alleenstaand was, een nieuwe asielaanvraag indient, geldt het nieuwe beleid als novum voor wat betreft de ambtshalve toets. In dat geval wordt getoetst aan het huidige geldende beleid.
 
 ### 3.2.2.2. Uitgeprocedeerde Amv’s
 
@@ -12623,17 +12623,17 @@ Het dient daarbij te gaan om objectieve, verifieerbare feiten en omstandigheden 
 
 ### 3.2. Voorwaarden voor de verblijfsvergunning
 
-Het begrip ‘buiten hun schuld’ dient hier te worden opgevat als een objectief criterium, hetgeen betekent dat de vreemdeling aan de hand van objectief toetsbare bescheiden moet kunnen aantonen dat de betrokken autoriteiten van het land van herkomst of van het land alwaar de persoon verblijf heeft (gehad), geen toestemming zullen verlenen aan zijn terugkeer. Veelal gaat het hierbij om het verkrijgen van (vervangende) reisdocumenten waarmee de vreemdeling naar het betreffende land kan reizen en op grond waarvan hij bovendien in beginsel toegang zal krijgen tot het betreffende land. Bij de pogingen om de vereiste medewerking van de betreffende autoriteiten te krijgen, alsmede om in het bezit te komen van de benodigde (vervangende) reisdocumenten, heeft de vreemdeling een eigen verantwoordelijkheid.
+Van de vreemdeling wordt verwacht dat hij:
 
 ### 3.4.3. De aanvraag
 
-### 3.6. Gezinshereniging en -vorming
+### 3.2.2.3. Vreemdelingen die om medische redenen niet kunnen vertrekken
 
 Indien de vreemdeling voldoet aan de voorwaarden voor verlening van een verblijfsvergunning, wordt hij vrijgesteld van het vereiste in het bezit te zijn van een geldige mvv.
 
-Met ingang van 1 januari 2003 is het driejarenbeleid afgeschaft, onder handhaving van het bestaande beleid als overgangsrecht voor aanvragen die op dat moment drie jaar oud waren. Een aanspraak op het driejarenbeleid ontstaat pas op het moment dat de driejarentermijn is vol gemaakt. Aanvragen, ontvangen op 1 januari 2000 of latere datum, komen dus niet op grond van het driejarenbeleid in aanmerking voor inwilliging.
+De verblijfsvergunning onder de beperking ‘verblijf als vreemdeling die buiten schuld niet uit Nederland kan vertrekken’ kan hetzij ambtshalve, hetzij op aanvraag worden verleend.
 
-### 4.3. Contra-indicaties
+### 3.4.3. De aanvraag
 
 ### 4.3. Contra-indicaties
 
@@ -12983,7 +12983,7 @@ De geldigheidsduur van de verblijfsvergunning van de getuige-aangever kan worden
 
 ### 1.7. Aard van het verblijf van een burger van de Unie
 
-### 3.2. Reële en daadwerkelijke arbeid
+### 2.4. Aantonen identiteit en nationaliteit van een lidstaat
 
 Onderdanen van EU/EER-lidstaten en van Zwitserland hebben onder bepaalde voorwaarden het recht om voor een periode van langer dan drie maanden in Nederland te verblijven als werknemer, zelfstandige, economisch niet-actieve of student (zie [artikel 8.12 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12)). Dat recht hebben zij uiteraard ook direct na inreis indien zij op dat moment aan de voorwaarden voldoen. Zij worden in geen geval verwijderd indien de burger van de Unie arbeid als zelfstandige of in loondienst verricht of naar Nederland is gekomen om werk te vinden, nog steeds werkzoekende is en een reële kans maakt om dat te vinden. Onder bepaalde voorwaarden gaat het verblijfsrecht niet verloren door werkloosheid, arbeidsongeschiktheid, overlijden of vertrek van de persoon bij wie het familielid verbleef, of echtscheiding of beëindiging van het geregistreerde partnerschap.
 
@@ -12995,19 +12995,19 @@ EU- en EER-onderdanen en onderdanen van Zwitserland hebben het recht om gedurend
 
 ### 3.5.3. Verwijtbaar werkloos
 
+### 3. Economisch actieven
+
 ### 3.2. Reële en daadwerkelijke arbeid
 
-### 3.6.1. Uitzondering ([artikel 8.17, zesde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17))
-
-Een dergelijke situatie kan zich voordoen bij werknemers in het internationale transport (bijvoorbeeld werknemers op zeeschepen en op schepen in de internationale binnenvaart en daarmee gelijkgestelde inrichtingen, baggermolens, zandzuigers).
+De werknemer dient een door de werkgever verstrekte verklaring van indienstneming of tewerkstelling over te leggen. Om vast te kunnen stellen of het reële en daadwerkelijke arbeid betreft, zal uit de verklaring moeten blijken voor hoelang de werknemer te werk zal worden gesteld, wat de hoogte van de inkomsten zullen zijn en voor hoeveel uren per week de werknemer arbeid zal verrichten.
 
 ### 3.6.4. Bedenktijd
 
 Deze voorwaarden gelden ook voor werknemers op een mijnbouwinstallatie op het continentale plat, met dien verstande dat in plaats van een in Nederland geregistreerd vervoermiddel sprake moet zijn van een installatie op het Nederlands deel van het continentale plat.
 
-### 4.1. Verblijfsrecht economisch niet-actieven algemeen, gepensioneerden
+### 3.5. Verblijfsrecht bij onderbreking of beëindiging werkzaamheden
 
-### 3.6. Recht op duurzaam verblijf voor voormalig economisch actieven
+### 3.5.2. Onvrijwillige werkloosheid
 
 ### 3.6.1. Uitzondering ([artikel 8.17, zesde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17))
 
@@ -13015,11 +13015,11 @@ Deze voorwaarden gelden ook voor werknemers op een mijnbouwinstallatie op het co
 
 ### 4.1.1. Voldoende middelen van bestaan
 
-### 5. Familie- en gezinsleden van gemeenschapsonderdanen
+### 4.1. Verblijfsrecht economisch niet-actieven algemeen, gepensioneerden
 
-### 5.2.1. Familielid zelf EU/EER- of Zwitsers onderdaan
+### 4.1.1. Voldoende middelen van bestaan
 
-### 8.4. Andere verblijfsdoelen dan arbeid in loondienst
+### 4.2.3. Recht op studiefinanciering
 
 ### 5.2.2. Familielid niet zelf EU/EER- of Zwitsers onderdaan
 
@@ -13027,13 +13027,13 @@ Deze voorwaarden gelden ook voor werknemers op een mijnbouwinstallatie op het co
 
 ### 5.3. Familie- of gezinsleden van Nederlanders
 
-### 5.3.2. Nederlanders die rechten kunnen ontlenen aan gemeenschapsrecht
+### 5.2. Het verblijfsrecht van het familie- of gezinslid
 
 ### 3.2. Aard van het verblijf van Turkse werknemers en hun gezinsleden
 
 ### 6.2. Weigering verlenging of intrekking verblijfsdocument
 
-### 8.2. Arbeid in loondienst
+### 5.4.1. Familierelatie of gezinsband blijft bestaan
 
 ### 5.4.3. Familielid onderdaan derde land
 
@@ -13047,21 +13047,21 @@ Deze voorwaarden gelden ook voor werknemers op een mijnbouwinstallatie op het co
 
 ### 3.2. Aard van het verblijf van Turkse werknemers en hun gezinsleden
 
-Voor wat betreft studenten, die in Nederland verblijven op grond van [artikel 8.12, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.12), en die geen verblijfsrecht kunnen ontlenen aan één der andere bepalingen van het gemeenschapsrecht, geldt het volgende.
+Indien zij arbeid (willen gaan) verrichten in het kader van een stage als verplicht onderdeel van de opleiding, of arbeid van niet meer dan tien uren per week dan wel seizoenarbeid in de maanden juni, juli en augustus, is het gestelde in B6/5 van overeenkomstige toepassing.
 
 ### 8.6. Reguliere verblijfsaanvraag
 
-### 3.3.2. Recht voortzetting verblijf
+### 3. Associatieovereenkomst EG en Turkije, besluit nr. 1/80
 
-Tijdvakken van onvrijwillige werkloosheid die naar behoren zijn geconstateerd door de bevoegde autoriteiten, alsmede perioden van afwezigheid wegens langdurige ziekte worden niet gelijkgesteld met tijdvakken van legale arbeid. Op het moment dat de werkzaamheden worden hervat, wordt weer verder gegaan met de opbouw van tijdvakken van legale arbeid.
+Op 12 september 1963 is een overeenkomst, waarbij een associatie tot stand wordt gebracht tussen de EG en Turkije, namens die EG gesloten, goedgekeurd en bevestigd bij besluit 64/732 EG van de Raad van de EG van 23 december 1963 (PB 1964, 217).
 
 ### 3.1. Begunstigde
 
 ### 3.2. Aard van het verblijf van Turkse werknemers en hun gezinsleden
 
-### 13. Het BuPo
-
 ### 3.3. Recht op voortzetting van verblijf voor Turkse werknemers
+
+### 3.3.1. Begrippen
 
 ### 5.2. Verblijfsvoorwaarden
 
@@ -13075,9 +13075,9 @@ Tijdvakken van onvrijwillige werkloosheid die naar behoren zijn geconstateerd do
 
 ### 6.2. Begunstigde
 
-### 6. Het Nederlands-Zwitserse Traktaat
+### 5.1. Begunstigde
 
-### 6.3.1. Arbeid als zelfstandige
+### 5.2. Verblijfsvoorwaarden
 
 ### 7.1.1. Verblijfsvoorwaarden
 
@@ -13085,33 +13085,33 @@ Het gemeenschapsrecht, dat is beschreven in B10 Vc, is met ingang van 1 januari 
 
 ### 6.1. Inleiding
 
-Onder ten laste van de openbare liefdadigheid wordt verstaan ten laste van de publieke middelen. Een uitkering ingevolge de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) wordt daarom niet aangemerkt als middelen van bestaan in de zin van dit Verdrag en Protocol.
+Onder middelen van bestaan wordt verstaan een netto-inkomen dat ten minste gelijk is aan het bestaansminimum voor de betrokken categorie (alleenstaande, echtpaar) in de zin van de [Wwb](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
 ### 6.3.1. Arbeid als zelfstandige
 
-### 8.3. Gezinshereniging
+### 6.4. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
-Tevens wordt de verblijfsvergunning voorzien van de aantekening: ‘Een beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht.’
-
-### 9.1. Begunstigde
+Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende te zijn verzekerd tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
 ### 7.1. Verblijf van werknemers
 
-### 7.2.1. Verblijfsvoorwaarden
+### 7.1.1. Verblijfsvoorwaarden
+
+### 7.2.2. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
 ### 11.2. Verblijfsvoorwaarden migrerende werknemer
 
-De op de eerder verleende verblijfsvergunning geplaatste arbeidsmarktaantekening wordt gehandhaafd.
+Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende te zijn verzekerd tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
 ### 10.3. Intrekking verblijfsvergunning
 
 ### 11. Europees Verdrag inzake de rechtspositie van migrerende werknemers
 
-### 16.1. Begunstigde
+### 13.1. Begunstigde en belang
 
-### 12. Diplomaten
+### 15.1.2. Binnenkomst na 24 november 1980
 
-### 2.1.1. Algemeen
+### 15.2. Medische behandeling
 
 ### 2.1.1. Algemeen
 
@@ -13125,9 +13125,9 @@ De verblijfsstatus van de geprivilegieerde (hoofdpersoon) is bepalend voor de st
 
 ### 2.3.2. Frustreren van het onderzoek naar adequate opvang
 
-### 3.2. Categorieën geprivilegieerden internationale organisaties
+### 2.2.2. Personeel dat uitgezonden status per 1 januari 2000 verliest
 
-### 3. Vreemdelingen werkzaam bij een internationale organisatie
+### 3.1. Werkzaam met een geprivilegieerde verblijfsstatus
 
 ### 3.3.2. Verblijfsvoorwaarden gezinsleden van (ex-)geprivilegieerden
 
@@ -13135,13 +13135,13 @@ De verblijfsstatus van de geprivilegieerde (hoofdpersoon) is bepalend voor de st
 
 ### 3.4.2.3. Registratie
 
-### 14. Ambtshalve verlening van een verblijfsvergunning regulier
+### 3.4.2.5. Geldigheidsduur verblijfsvergunning
 
 ### 2.1. Algemeen
 
 ### 2.2. Voorwaarden voor de verblijfsvergunning
 
-De familierechtelijke betrekking kan worden aangetoond met documenten, zoals een trouwboekje, geboorteakte etcetera.
+Op grond van [artikel 3.29, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.29) zijn in afwijking van [artikel 3.75 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.75) middelen van bestaan duurzaam, indien zij voor de duur van het voorgenomen verblijf beschikbaar zijn.
 
 ### 3.5.2. Ingangsdatum van de verblijfsvergunning
 
@@ -13155,7 +13155,7 @@ De familierechtelijke betrekking kan worden aangetoond met documenten, zoals een
 
 ### 2.5.4. Herhaald onderzoek naar adequate opvang
 
-Hiervan is sprake als de betrokkene – ook los van de context van het totale asielrelaas – ongeloofwaardige en tegenstrijdige verklaringen aflegt of indien hij vage, summiere verklaringen aflegt en zaken verzwijgt omtrent identiteit, nationaliteit of opvang. Bij het beoordelen of van het vorenstaande sprake is, wordt rekening gehouden met druk, traumata, de geestelijke ontwikkeling en de leeftijd van betrokkene. Van een kind kan immers niet altijd dezelfde mate van volledigheid en gedetailleerdheid worden verwacht als van een volwassene.
+Ook indien de aanvraag om een verblijfsvergunning asiel is afgewezen op grond van [artikel 31, tweede lid, onder f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=31) en het relaas mede op grond daarvan als ongeloofwaardig moet worden beschouwd, kan dit leiden tot de conclusie dat de betrokkene het onderzoek frustreert. Het bovenstaande kan ook worden tegengeworpen als de betrokkene jonger is dan vijftien jaar.
 
 ### 2.4.2. Toetsing ex nunc
 
@@ -13169,49 +13169,49 @@ Indien de vreemdeling niet vooraf toestemming heeft gegeven voor een herhaald le
 
 Het kan hier gaan om de volgende gevallen:
 
-### 4.5. Aard van de verblijfsvergunning
+### 2.6.5. Het bescheid rechtmatig verblijf
 
 ### 2.8. De zelfstandige verblijfsvergunning voor voortgezet verblijf
 
 Indien de vreemdeling op het moment van het indienen van de aanvraag óf het moment van beslissen op de aanvraag in het bezit is van een verblijfsvergunning regulier voor verblijf als Amv, zijnde een verblijfsrecht van tijdelijke aard, dan komt hij ingevolge het bepaalde in [artikel 21, eerste lid, onder f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), niet in aanmerking voor een verblijfsvergunning regulier voor onbepaalde tijd. De voorwaarden voor verlening van een verblijfsvergunning regulier voor onbepaalde tijd zijn uitgewerkt in B1/6.
 
-### 3.2.1. Inleiding
+### 2.10.2. Bijzonder overgangsrecht voor achttienjarigen
 
 ### 3.2.2. Categorieën vreemdelingen die onder het beleid vallen
 
-### 15. Kennismigranten
+### 2.10.3.3. Uitgeprocedeerde meerderjarigen
 
-De arbeidsmarktaantekening luidt: ‘arbeid uitsluitend toegestaan indien werkgever beschikt over TWV’.
+De ingangsdatum is de dag waarop de asielaanvraag in de lopende procedure is ingediend.
 
-### 3.6.1. Gezinshereniging en -vorming in geval van medische aspecten
+### 3.2.3. Vrijstelling mvv
 
 ### 3.3. Afwijzingsgronden
 
-### 3.4. Procedurele bepalingen
+### 3.4.1. Inleiding
 
-### 3.6.1. Gezinshereniging en -vorming in geval van medische aspecten
+### 3.4.2. Ambtshalve verlening
 
-### 4.1. Inleiding
+### 3.5. De verlening van de verblijfsvergunning
 
 De verblijfsvergunning wordt verleend onder de beperking ‘verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken’. De arbeidsmarktaantekening luidt: ‘arbeid uitsluitend toegestaan indien de werkgever beschikt over een TWV’.
 
-### 4.4. Berekening termijn
+### 3.5.3. Geldigheidsduur
 
 ### 3.5.3. Geldigheidsduur
 
 ### 3.7. Verlenging van de geldigheidsduur van de verblijfsvergunning
 
-### 4.4.3. Onderbrekingen van de termijn
+### 3.9. De zelfstandige verblijfsvergunning voor voortgezet verblijf
 
 ### 3.9. De zelfstandige verblijfsvergunning voor voortgezet verblijf
 
-### 4. Driejarenbeleid in de asielprocedure
+### 4.1. Inleiding
 
 ### 4.6. Beperking en arbeidsmarktaantekeningen
 
 Toetsing aan het driejarenbeleid komt pas aan de orde als de individuele situatie van de aanvrager geen aanleiding geeft om de gevraagde verblijfsvergunning te verlenen. De termijn van drie jaar wordt alleen aan de asielaanvraag gekoppeld. De lange duur van de procedure moet voornamelijk of uitsluitend terug te voeren zijn op effecten van bestuurlijk beleid, dat wil zeggen dat de vreemdeling niet of nauwelijks invloed heeft gehad op het verloop van de procedure. In dat verband is van belang dat de vreemdeling geen handelingen heeft verricht die het bestuursorgaan of de rechter noodzaken tot het uitstellen van de beslissing (traineren). Daarbij kan gedacht worden aan het (telkenmale) aandragen van informatie die moet worden onderzocht (zie B14/4.4 over de berekening van de termijn).
 
-In de toelichting op [artikel 3.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) werd aangegeven dat in het geval de in dit artikel bedoelde vergunning niet ambtshalve wordt verleend en de vreemdeling zich daar niet mee kan verenigen, deze de eventuele gronden tegen de niet-verlening van de hier bedoelde verblijfsvergunning bij voorkeur in beroep tegen de afwijzing van de asielaanvraag aanvoert. Dit is van belang voor de voortgang van de verblijfsrechtelijke procedure en de samenhang met de asielprocedure.
+Er gelden de volgende contra-indicaties:
 
 ### 4.6. Beperking en arbeidsmarktaantekeningen
 
@@ -13227,17 +13227,17 @@ Deze grond is bijvoorbeeld van toepassing indien de vreemdeling zich heeft bedie
 
 In de overige gevallen waarin twijfel bestaat omtrent de daadwerkelijke identiteit of nationaliteit van de vreemdeling en dit in rechte is vastgesteld, wordt de vreemdeling gedurende een periode van twee maanden in de gelegenheid gesteld de juiste identiteitsgegevens alsnog naar voren te brengen. Op deze wijze kan op basis van de juiste identiteits- en nationaliteitsgegevens een vergunning worden verleend.
 
-### 5.3.1. Openbare orde
+### 5.3.2. Nationale veiligheid
 
-### 15. Kennismigranten
-
-Een eens gepleegd misdrijf wordt – gelijk het staande beleid inzake eerste toelating – niet blijvend tegengeworpen. Hierbij wordt onderscheid gemaakt tussen drugs-, zeden- en geweldsmisdrijven enerzijds en overige misdrijven anderzijds.
-
-### 5.1.1. Bestanddelen bruto jaarloon
+### 1. Inleiding
 
 Dit hoofdstuk regelt het verblijf van vreemdelingen die als kennismigrant een bijdrage leveren aan de Nederlandse kenniseconomie. Het betreft dus vreemdelingen die verblijf als kennismigrant beogen dan wel in het bezit zijn van een verblijfsvergunning onder de beperking ‘verblijf als kennismigrant’. Vreemdelingen die arbeid in loondienst, anders dan als kennismigrant, of arbeid als zelfstandige verrichten, vallen onder het bepaalde in B5.
 
-In de overige gevallen waarin twijfel bestaat omtrent de daadwerkelijke identiteit of nationaliteit van de vreemdeling en dit in rechte is vastgesteld, wordt de vreemdeling gedurende een periode van twee maanden in de gelegenheid gesteld de juiste identiteitsgegevens alsnog naar voren te brengen. Op deze wijze kan op basis van de juiste identiteits- en nationaliteitsgegevens een vergunning worden verleend.
+### 5.1.1. Bestanddelen bruto jaarloon
+
+De toelatingsprocedure met betrekking tot de kennismigranten behelst een versnelde procedure. Dit betekent dat de IND in de regel binnen twee weken na ontvangst van een verzoek om advies of een aanvraag tot het verlenen van een verblijfsvergunning zal beslissen, mits het verzoek of de aanvraag op de voorgeschreven wijze is ingediend, is voorzien van alle vereiste stukken en geen nader onderzoek is vereist. In enkele hierna te noemen gevallen is de behandeltermijn van twee weken niet van toepassing.
+
+Slechts werkgevers die in Nederland gevestigd zijn, kunnen een beroep op de kennismigrantenregeling doen. De regeling is niet van toepassing op werkgevers die in het buitenland gevestigd zijn, tenzij tevens sprake is van een vestiging in Nederland. De verklaring dient steeds door de in Nederland gevestigde werkgever te worden ondertekend.
 
 ### 3. Kennismigranten
 
@@ -13245,7 +13245,7 @@ In de overige gevallen waarin twijfel bestaat omtrent de daadwerkelijke identite
 
 ### 5.5. Aard van het verblijfsrecht
 
-### 1. Inleiding
+### 4.2. Verzoek om advies
 
 ### 5.7. Gezinshereniging en -vorming
 
@@ -13261,7 +13261,7 @@ Betaling van de door de betrokken vreemdeling(en) verschuldigde leges vindt plaa
 
 ### 2.1. Geldig document voor grensoverschrijding
 
-### 4.2. Verzoek om advies
+### 5. Looncriterium
 
 Tevens worden aangemerkt als kennismigrant vreemdelingen die in Nederland worden tewerkgesteld in het kader van het doen van wetenschappelijk onderzoek in dienst van een bekostigde of aangewezen onderwijsinstelling of een van overheidswege direct of indirect, geheel of gedeeltelijk bekostigde of gesubsidieerde onderzoeksinstelling, of als arts in opleiding tot specialist bij een door de Medisch Specialisten Registratie Commissie, de Sociaal-Geneeskundigen registratie Commissie of de Huisarts en Verpleeghuisarts Registratie Commissie aangewezen opleidingsinstituut. Voor hen geldt geen looncriterium.
 
@@ -13271,23 +13271,23 @@ Tevens worden aangemerkt als kennismigrant vreemdelingen die in Nederland worden
 
 ### 4. De procedurele aspecten
 
-De vereiste premies en belastingen moeten worden afgedragen.
+Op het moment dat een vreemdeling die in het bezit is van een verblijfsvergunning als kennismigrant de leeftijd van dertig jaar bereikt, blijft de vreemdeling, ongeacht de functie die hij vervult, gelet op het gestelde in de toelichting van het Besluit van 28 september 2004 tot wijziging van het Besluit uitvoering Wav voldoen aan de voorwaarden voor verblijf als kennismigrant, mits hij nog steeds voldoet aan de jaarloonbepalingen die voor hem golden bij de eerste verlening van de verblijfsvergunning als kennismigrant en hij niet van werkgever is veranderd. Indien de vreemdeling na het bereiken van het dertigste levensjaar van werkgever verandert en hij verblijf als kennismigrant blijft beogen, dient hij te voldoen aan het jaarloonvereiste voor vreemdelingen van dertig jaar en ouder zoals door de Minister van SZW vastgesteld.
 
 ### 4.1. De verklaring van de werkgever ([bijlage 12a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a))
 
 ### 8. Geldigheid en rechtspositie
 
-### 4.3.3. Sticker verblijfsaantekeningen algemeen
+### 5.1.2. Bewijsmiddelen looncriterium
 
-Als de werkgever verzuimt deze stukken samen met de verklaring te overleggen, worden deze ten behoeve van een versnelde behandeling van verzoeken om advies of aanvragen van kennismigranten die de werkgever in dienst wil nemen, alsnog overgelegd bij het eerste verzoek om advies in verband met de afgifte van een mvv of bij de eerste aanvraag ter verlening van een verblijfsvergunning. De – alsnog – overgelegde stukken worden bij de beoordeling van het verzoek om advies of de verblijfsaanvraag betrokken.
+Het beschikken over inkomen uit arbeid in loondienst wordt in het kader van dit beleidsonderdeel aangetoond door het overleggen van:
 
-### 5. Looncriterium
+### 5.1.3. Kortlopende arbeidsovereenkomsten
 
-Van startende ondernemingen kan niet worden verwacht dat zij een verklaring omtrent betalingsgedrag, afgegeven door de Belastingdienst, overleggen, aangezien het bedrijf nog geen (belasting) verleden in Nederland heeft. Verblijf als kennismigrant bij startende ondernemingen is evenwel mogelijk in de navolgende situaties en onder de daarbij genoemde voorwaarden. Verblijf als kennismigrant kan worden toegestaan bij:
+Indien de vreemdeling beschikt over een arbeidsovereenkomst voor een kortere duur dan één jaar, dient de vreemdeling gedurende de duur van de arbeidsovereenkomst naar rato te voldoen aan het criterium van het bruto jaarloon. De vreemdeling dient derhalve een loon in geld te genieten dat de uitkomst is van de rekensom: geldend looncriterium, gedeeld door twaalf en vermenigvuldigd met het aantal maanden van de arbeidsovereenkomst.
 
 ### 5.2. Zelfstandige, voldoende en duurzame middelen
 
-### 5.1.1. Bestanddelen bruto jaarloon
+### 6. Geldigheidsduur van de verblijfsvergunning
 
 ### 5.1.1. Bestanddelen bruto jaarloon
 
@@ -13487,7 +13487,7 @@ Onder “op korte termijn” wordt verstaan binnen een termijn van drie maanden.
 
 ### 4.2.4. Beëindiging van de studie
 
-### 2.7. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
+### 2.1. Toegang tot Nederland
 
 ### 2.3. Meldplicht bij de Korpschef
 
@@ -13495,9 +13495,9 @@ Onder “op korte termijn” wordt verstaan binnen een termijn van drie maanden.
 
 ### 3.6.2. Bij voortduring in Nederland wonen
 
-### 3.6.3. Voortdurend in Nederland werken ([artikel 8.17, vierde lid Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17))
+### 3.6.1. Uitzondering ([artikel 8.17, zesde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17))
 
-### 3.6.4. Bedenktijd
+### 3.6.2. Bij voortduring in Nederland wonen
 
 ### 5.1. Samenwoningvereiste
 
@@ -13507,9 +13507,9 @@ Onder “op korte termijn” wordt verstaan binnen een termijn van drie maanden.
 
 ### 5.4.4. Kinderen die 21 jaar worden
 
-### 7.2.2. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
+### 7. Verblijfsbeëindiging en uitzetting
 
-### 8.6. Reguliere verblijfsaanvraag
+### 8.3. Gezinsleden van werknemers
 
 ### 8.4. Andere verblijfsdoelen dan arbeid in loondienst
 
@@ -13519,41 +13519,41 @@ Onder “op korte termijn” wordt verstaan binnen een termijn van drie maanden.
 
 ### 3.2. Aard van het verblijf van Turkse werknemers en hun gezinsleden
 
-Vorenstaande betekent dat de vrije toegang tot de arbeidsmarkt als bepaald in artikel 7, eerste lid, onder b, besluit nr. 1/80 (waarin is bepaald dat de gezinsleden vrije toegang tot de arbeidsmarkt hebben wanneer zij ten minste vijf jaar aldaar legaal wonen) reeds na drie jaar legaal wonen van toepassing is. Met deze voor de gezinsleden van een Turkse werknemer gunstigere regel wordt afgeweken van het bepaalde in artikel 7, eerste lid, onder a, Associatiebesluit 1/80. Deze gunstigere regel moet altijd worden toegepast.
+In B11/3.3 wordt een aantal begrippen gehanteerd. Hieronder wordt aangegeven wat onder de diverse begrippen wordt verstaan.
 
 ### 3.5. Verlies van opgebouwde rechten
 
 ### 4.3. Aantekening in de identiteitspapieren
 
-### 4.3. Aantekening in de identiteitspapieren
+### 3.4.2. Voorwaarden Associatiebesluit 1/80
 
 ### 5.2. Verblijfsvoorwaarden
 
-### 9.3. Beperking, arbeidsmarktaantekening en voorschrift
+### 3.6. Turkse zelfstandige
 
-### 6. Het Nederlands-Zwitserse Traktaat
+### 4.2. Waarborgen
 
 ### 4.3. Aantekening in de identiteitspapieren
 
-### 7.1.2. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
+### 6. Het Nederlands-Zwitserse Traktaat
 
-### 7.2.2. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
+### 6.3. Toegang en verblijf in Nederland
 
 De bron waaruit deze middelen komen (erfenis, pensioen, vermogen) is niet van belang, mits betrokkene zelf maar daadwerkelijk over de middelen of het recht op (periodieke) uitkering ervan beschikt. Een toezegging hiertoe van een partner is overigens niet voldoende.
 
 ### 8.3. Gezinshereniging
 
-### 11.2. Verblijfsvoorwaarden migrerende werknemer
+### 8.4. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
-### 11.4. Tijdelijke arbeidsongeschiktheid en werkloosheid
+### 9.2. Repatriëring en bijstand
 
 ### 12. Overeenkomst EEG-Algerije, Israël, Jordanië, Marokko en Tunesië
 
-### 15.2. Medische behandeling
+### 12.1. Belang
 
 ### 15.1.2. Binnenkomst na 24 november 1980
 
-### 16. Het Staatlozenverdrag
+### 15.1. Binnenkomst en verblijf
 
 ### 2. Personeel van ambassades en consulaten, alsmede de gezinsleden
 
@@ -13565,31 +13565,31 @@ De bron waaruit deze middelen komen (erfenis, pensioen, vermogen) is niet van be
 
 ### 2.2.1. Lokaal geworven personeel
 
-### 3.4. NAVO
+### 2.2.2.3. Inleveren geprivilegieerdendocument
 
 ### 3.2. Categorieën geprivilegieerden internationale organisaties
 
-### 3.4.2. Niet-geprivilegieerde NAVO-vreemdelingen ([artikel 3.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40))
+### 3.3.2. Verblijfsvoorwaarden gezinsleden van (ex-)geprivilegieerden
 
-### 3.4.2.3. Registratie
+### 3.4.1. Geprivilegieerde NAVO-vreemdelingen
 
-### 3.4.2.3. Registratie
+### 3.4.1.5. Verblijfsdocument
 
-De burgemeester van de gemeente waar de vreemdeling woon- of verblijfplaats heeft, is belast met de administratie van de vreemdelingen bedoeld in [artikel 3.40, eerste lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) en hun gezinsleden, bedoeld in [artikel 3.40, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40). De bedoelde vreemdelingen zijn, ingevolge de wet- en regelgeving van de GBA, niet verplicht voor de duur van hun verblijf te worden opgenomen in de persoonsregisters.
+Voor zover zij de leeftijd van twaalf jaar hebben bereikt, wordt aan de gezinsleden van de militairen van de Joint Force Command- headquarters voor hun verblijf een document uitgereikt als bedoeld in [bijlage 7a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7a).
 
-### 1. Inleiding
+### 3.4.1.6. Registratie
 
 ### 3.4.1.8. Geldigheidsduur verblijfsvergunning
 
-### 3.4.2. Niet-geprivilegieerde NAVO-vreemdelingen ([artikel 3.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40))
+### 3.4.2.1. Verblijfsvoorwaarden
 
-### 2.4.2. Toetsing ex nunc
+### 2.2.2. Alleenstaand
 
 ### 2.2.3. Zelfstandig handhaven in land van herkomst of een ander land
 
 ### 2.5.1. Beperking en arbeidsmarktaantekening
 
-### 2.6. Verlenging van de geldigheidsduur van de verblijfsvergunning
+### 2.6.1. Gronden voor verlenging
 
 ### 2.9. De verblijfsvergunning voor onbepaalde tijd
 
@@ -13599,7 +13599,7 @@ De burgemeester van de gemeente waar de vreemdeling woon- of verblijfplaats heef
 
 ### 2.10.2. Bijzonder overgangsrecht voor achttienjarigen
 
-### 3.5. De verlening van de verblijfsvergunning
+### 3.5.1. Beperking en arbeidsmarktaantekening
 
 ### 3.5.1. Beperking en arbeidsmarktaantekening
 
@@ -13611,11 +13611,11 @@ De burgemeester van de gemeente waar de vreemdeling woon- of verblijfplaats heef
 
 ### 4.3. Aanvraag om een verblijfsvergunning
 
-### 5.7. Gezinshereniging en -vorming
+### 2. Samenhang [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) en de [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
 
 ### 5.3.3. De vreemdeling is reeds houder verblijfsvergunning
 
-### 5.7. Gezinshereniging en -vorming
+### 4.1. De verklaring van de werkgever ([bijlage 12a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a))
 
 ### 5.4. Procedurele bepalingen
 
@@ -13627,11 +13627,11 @@ De burgemeester van de gemeente waar de vreemdeling woon- of verblijfplaats heef
 
 ### 9.2. Ziekte en arbeidsongeschiktheid
 
-### 7. Klemmende redenen van humanitaire aard
+### 4.3. Aanvraag om een verblijfsvergunning
 
 ### 5.9. De zelfstandige verblijfsvergunning voor voortgezet verblijf
 
-### 10.1. Zoekjaar
+### 4.3.1. Leges
 
 ### 4.3.2. TBC-verklaring
 
@@ -13721,41 +13721,41 @@ Wanneer zich een situatie voordoet, waaruit de politie meent te kunnen concluder
 
 ### 2.4. Aantonen identiteit en nationaliteit van een lidstaat
 
-### 3.2.1. Kwantificeren van het begrip reële en daadwerkelijke arbeid
+### 2.3. Meldplicht bij de Korpschef
 
-### 3.2.1. Kwantificeren van het begrip reële en daadwerkelijke arbeid
+### 2.5. Rechtmatig verblijf
 
 ### 3.5. Verblijfsrecht bij onderbreking of beëindiging werkzaamheden
 
-### 3. Economisch actieven
+### 2.6.1. Niet betalen van leges
 
-### 3.6.3. Voortdurend in Nederland werken ([artikel 8.17, vierde lid Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17))
+### 3.3.1. Werknemers
 
-### 3.6.5. Verblijfskaart
+### 3.4. Werkzaamheden buiten Nederlands grondgebied
 
 ### 4. Economisch niet-actieven
 
 ### 4.2.3. Recht op studiefinanciering
 
-### 4.2.3. Recht op studiefinanciering
+### 4.2. Studenten
 
 ### 3.3.3. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
-### 5.3.1. Discriminatie eigen onderdanen
+### 5.3. Familie- of gezinsleden van Nederlanders
 
 ### 7.2. Uitzetting
 
-### 7.2. Verblijf van zelfstandigen
+### 6.2. Weigering verlenging of intrekking verblijfsdocument
 
 ### 7.1. Verblijfsbeëindiging
 
-### 8.7. Seksuele dienstverlening
+### 7.2. Uitzetting
 
 ### 11. Verdragen
 
 ### 3.3. Recht op voortzetting van verblijf voor Turkse werknemers
 
-### 3. Associatieovereenkomst EG en Turkije, besluit nr. 1/80
+### 8.5. Leges
 
 ### 10.1. Begunstigde
 
@@ -13767,25 +13767,25 @@ Wanneer zich een situatie voordoet, waaruit de politie meent te kunnen concluder
 
 ### 13. Het BuPo
 
-In geval van een aanvraag tot het verlengen van de geldigheidsduur is [artikel 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) en [3.87 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.87) onverkort van toepassing. Voor Duitsers die zijn aan te merken als gemeenschapsonderdanen is het communautaire openbare orde-criterium van toepassing (Zie B10).
+Hier wordt aangesloten bij de lijst van besmettelijke ziekten die als [bijlage bij het Vb](onbekend) is gevoegd.
 
 ### 8.1. Verblijfsvoorwaarden
 
 ### 7. Europa-overeenkomsten met Bulgarije en Roemenië
 
-### 10.3. Intrekking verblijfsvergunning
+### 8.3. Gezinshereniging
 
 ### 9. Europees verdrag betreffende sociale en medische bijstand
 
 ### 10. ESH
 
-### 2.2.1. Minderjarigheid
+### 12. Overeenkomst EEG-Algerije, Israël, Jordanië, Marokko en Tunesië
 
 ### 13. Het BuPo
 
-### 16.3.2. Reisdocumenten
+### 15.1.1. Binnenkomst vóór 25 november 1980
 
-### 2.2.2.1. Verblijfsvoorwaarden
+### 2.1.2. Positie na verlies van de bijzondere status
 
 ### 3.3. Positie na verlies van de bijzondere verblijfsstatus
 
@@ -13795,21 +13795,21 @@ In geval van een aanvraag tot het verlengen van de geldigheidsduur is [artikel 3
 
 ### 2. Amv’s
 
-### 2.4.1. Ambtshalve toets
+### 2.2. Voorwaarden voor de verblijfsvergunning
 
 ### 2.4.1. Ambtshalve toets
 
 ### 3.1. Algemeen
 
-### 3.2.1. Inleiding
+### 2.10.3. Overgangsrecht voor begeleide minderjarigen
 
-### 3.5.2. Ingangsdatum van de verblijfsvergunning
+### 3.2.2.1. Vreemdelingen die vruchteloos gepoogd hebben te vertrekken
 
-### 3.8. Intrekking en niet-verlenging van de verblijfsvergunning
+### 3.3. Afwijzingsgronden
 
-### 5.1.2. Bewijsmiddelen looncriterium
+### 3.6. Gezinshereniging en -vorming
 
-### 4.4.3. Onderbrekingen van de termijn
+### 3.6.1. Gezinshereniging en -vorming in geval van medische aspecten
 
 ### 5.3. Contra-indicaties
 
@@ -13821,9 +13821,9 @@ Indien het onderzoek redelijkerwijs tot inwilliging van de aanvraag kan leiden, 
 
 ### 4.6. Beperking en arbeidsmarktaantekeningen
 
-### 1. Inleiding
+### 4. De procedurele aspecten
 
-Het verkrijgen van het aanvraagformulier
+Het aanvraagformulier kan worden verkregen via de website van de IND, en wel op de kennismigrantenmodule. Het aanvraagformulier dient elektronisch te worden ingevuld.
 
 ### 4.2. Verzoek om advies
 
@@ -13833,13 +13833,13 @@ Het verkrijgen van het aanvraagformulier
 
 ### 5.1.1. Bestanddelen bruto jaarloon
 
-De verblijfsvergunning kan voor vijf jaar worden verleend als de vreemdeling, die verblijf als kennismigrant beoogt, een arbeidsovereenkomst voor onbepaalde tijd overlegt. Als de vreemdeling, die verblijf als kennismigrant beoogt, een arbeidsovereenkomst voor bepaalde tijd heeft, wordt de verblijfsvergunning voor verblijf als kennismigrant voor ten hoogste de duur van de arbeidsovereenkomst afgegeven (zie [artikelen 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57) en [3.59a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.59a)).
+Als de kennismigrant als arts in opleiding tot specialist staat ingeschreven in een opleidingsregister wordt de verblijfsvergunning verleend voor ten hoogste de duur van de opleiding.
 
 ### 7. Beperkingen, arbeidsmarktaantekeningen en voorschriften
 
 ### 3.2.2.1. Vreemdelingen die vruchteloos gepoogd hebben te vertrekken
 
-### 3. Vreemdelingen die buiten hun schuld niet kunnen vertrekken
+### 3.1. Algemeen
 
 ### 5. Regeling afwikkeling nalatenschap Vw (oud)
 
@@ -13851,11 +13851,11 @@ De verblijfsvergunning kan voor vijf jaar worden verleend als de vreemdeling, di
 
 ### 8.3. Af- en aanmelding, intrekking
 
-### 5.1. Algemeen
+### 5.2. Voorwaarden voor de verblijfsvergunning
 
-### 5.3.2. Nationale veiligheid
+### 5.3.3. De vreemdeling is reeds houder verblijfsvergunning
 
-### 5.7. Gezinshereniging en -vorming
+### 5.8. Intrekking en niet-verlenging van de verblijfsvergunning
 
 ### 2. Samenhang [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) en de [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
 
@@ -13865,7 +13865,7 @@ De verblijfsvergunning kan voor vijf jaar worden verleend als de vreemdeling, di
 
 ### 3. Specifieke voorwaarde en bepalingen economisch niet-actieve
 
-### 2. Algemene voorwaarden
+### 7. Beperkingen, arbeidsmarktaantekeningen en voorschriften
 
 ### 5.2. Zelfstandige, voldoende en duurzame middelen
 
@@ -13873,19 +13873,19 @@ De verblijfsvergunning kan voor vijf jaar worden verleend als de vreemdeling, di
 
 ### 8.3. Af- en aanmelding, intrekking
 
-### 8. Wijziging van werkgever, zoekperiode, af- en aanmelding en intrekking
+### 9. Werkloosheid, ziekte en arbeidsongeschiktheid
 
 ### 9.1. Werkloosheid
 
 ### 5.1. Het looncriterium
 
-### 10. Studenten die hun opleiding in Nederland hebben voltooid
+### 10.1. Zoekjaar
 
 ### 10.1. Zoekjaar
 
-Vreemdelingen die met goed gevolg een hogere beroepsopleiding of wetenschappelijke studie in Nederland hebben afgerond, krijgen de mogelijkheid om binnen maximaal één jaar (zoekperiode) na de datum van voltooiing van de studie of opleiding een functie als kennismigrant te vinden. Het gaat hier om vreemdelingen die op basis van een verblijfsvergunning onder de beperking ‘studie’ in Nederland hun studie hebben afgerond. Indien de vreemdeling gebruik wil maken van het zoekjaar, dient de vreemdeling een aanvraag tot wijziging van de beperking in (zie B15/10.2 en B15/10.3).
+Indien de vreemdeling erin slaagt binnen de periode van één jaar na voltooiing van zijn opleiding of studie een baan als kennismigrant te vinden, de werkgever op grond van een ondertekende verklaring (zie [bijlage 12a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a)) is toegelaten tot de kennismigrantenregeling en de vreemdeling aan het looncriterium voldoet, kan de vreemdeling een aanvraag om wijziging van de beperking in ‘verblijf als kennismigrant’ indienen (zie B15/3 en verder).
 
-### 5.1.1. Bestanddelen bruto jaarloon
+### 10.2. Voorwaarden
 
 ### 9.1. Werkloosheid
 
@@ -13895,29 +13895,29 @@ Vreemdelingen die met goed gevolg een hogere beroepsopleiding of wetenschappelij
 
 ### 5.6. Arbeidsmarktaantekening
 
-Op het verblijfsdocument wordt de aantekening geplaatst: ‘Arbeid vrij toegestaan; TWV niet vereist. Beroep op publieke middelen kan gevolgen hebben voor het verblijfsrecht’.
-
 De verblijfsvergunning aan echtgeno(o)t(e) of geregistreerd partner wordt verleend onder de beperking ‘verblijf bij echtgeno(o)t(e)/geregistreerd)partner/ouder (naam). Arbeid vrij toegestaan; TWV niet vereist’. De verblijfsvergunning aan minderjarige kinderen wordt verleend onder de beperking ‘gezinshereniging bij (naam ouder(s)). Arbeid vrij toegestaan; TWV niet vereist’.
 
-### 10.1. Zoekjaar
+Aan de afgifte van de verblijfsvergunning wordt het voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
-Als de kennismigrant als arts in opleiding tot specialist staat ingeschreven in een opleidingsregister wordt de verblijfsvergunning verleend voor ten hoogste de duur van de opleiding.
+### 10.4. Verlenging en zoekperiode
 
-### 4.2. Voorschrift
+De verblijfsvergunning onder de beperking ‘verblijf gedurende zoekperiode afgestudeerde’ is van tijdelijke aard en wordt verleend voor ten hoogste één jaar. De geldigheidsduur van de verblijfsvergunning kan derhalve niet worden verlengd.
+
+### 11. Regeling hoogopgeleiden
 
 De vreemdeling die in het bezit is gesteld van een verblijfsvergunning als kennismigrant hoeft geen wijziging van de beperking aan te vragen als hij van werkgever verandert mits nog steeds aan de voorwaarden voor verblijf als kennismigrant wordt voldaan.
 
-Echtgenoten en partners van kennismigranten krijgen op grond van [artikel 3.57 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57) een verblijfsvergunning voor de duur van één jaar. Na één jaar kan op grond van [artikel 3.67, eerste lid, onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.67) de verblijfsvergunning worden verlengd voor de duur van vijf jaren (zie B2/9). Voor minderjarige kinderen van kennismigranten wordt tevens verwezen naar het bepaalde in B2/5.
+Vreemdelingen die in Nederland zijn afgestudeerd aan een geaccrediteerde opleiding, als opgenomen in het Centraal Register Opleidingen Hoger Onderwijs met een Master-graad alsmede vreemdelingen die in Nederland gepromoveerd zijn, krijgen binnen de regeling hoogopgeleiden de mogelijkheid om binnen maximaal één jaar (zoekjaar) een functie als kennismigrant te vinden of een innovatief bedrijf te starten.
 
 ### 7. Beperkingen, arbeidsmarktaantekeningen en voorschriften
 
-Hetzelfde geldt voor vreemdelingen die zijn afgestudeerd met een Master-graad of gepromoveerd aan een opleiding die is opgenomen in de top-150 van de in 2007 gepubliceerde lijsten van de ‘Times Higher Education Supplement’of de ‘Jiao Tong Shanghai University’.
-
 Daarnaast wordt de vreemdeling die om toelating vraagt in het kader van de regeling hoogopgeleiden getoetst aan de hand van een puntensysteem. Er wordt getoetst op opleiding, op leeftijd en op indicatoren voor het welslagen in Nederland. De vreemdeling dient minimaal 35 punten te halen in het puntensysteem om voor toelating in aanmerking te komen.
 
-### 5.1. Inleiding
+Voor de mvv-aanvraag in het kader van de regeling hoogopgeleiden wordt gestreefd naar afhandeling van de aanvraag binnen een termijn van vier weken na voldoening van de leges. Voor de aanvraag om een verblijfsvergunning zal afhandeling binnen zes weken worden na gestreefd.
 
-In het geval de kennismigrant drie onafgebroken jaren in het bezit is geweest van een verblijfsvergunning als kennismigrant en hij daarna wijziging van de beperking in arbeid in loondienst aanvraagt, krijgt hij de arbeidsmarktaantekening ‘Arbeid vrij toegestaan; TWV niet vereist’.
+### 11.2. Voorwaarden
+
+De verblijfsvergunning kan op aanvraag worden verleend, indien:
 
 De verblijfsvergunning kan op aanvraag worden verleend, indien:
 
@@ -13929,17 +13929,15 @@ Op het verblijfsdocument wordt de aantekening geplaatst: ‘Arbeid vrij toegesta
 
 ### 11.5. Verlenging en zoekperiode
 
-De verblijfsvergunning onder de beperking ‘verblijf gedurende zoekperiode hoogopgeleide’ is van tijdelijke aard en wordt verleend voor ten hoogste één jaar. De geldigheidsduur van de verblijfsvergunning kan derhalve niet worden verlengd.
-
 De geldigheidsduur van een TWV verleend in samenhang met een verblijfsvergunning in het kader van de regeling hoogopgeleiden zal gelet hierop in beginsel maximaal een jaar zijn. Aan een langere geldigheidsduur van de TWV kunnen geen verblijfsrechten worden ontleend.
+
+Indien de vreemdeling erin slaagt binnen de periode van één jaar, na verlening van de verblijfsvergunning, een baan als kennismigrant te vinden bij een werkgever die op grond van een ondertekende verklaring (zie [bijlage 12a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a)) is toegelaten tot de kennismigrantenregeling en de vreemdeling aan het looncriterium voldoet, kan de vreemdeling een aanvraag om wijziging van de beperking van de verblijfsvergunning in ‘verblijf als kennismigrant’ indienen (zie B15/3 en verder). Voor de hoogopgeleiden wordt aangesloten bij het looncriterium voor in Nederland afgestudeerde vreemdelingen die in aansluiting op hun studie dan wel gedurende het zoekjaar, werk als kennismigrant vinden.
 
 ### 5.6. Arbeidsmarktaantekening
 
 Indien de vreemdeling erin slaagt binnen de periode van één jaar een innovatief bedrijf te starten en daarmee voldoet aan de toelatingsvoorwaarden voor verblijf als zelfstandige (zie B5/7), kan de vreemdeling een aanvraag om wijziging van de beperking van de verblijfsvergunning in ‘verblijf voor arbeid als zelfstandige’ indienen.
 
-### 16. Voortgezet verblijf
-
-Op de vreemdeling rust de verplichting om onmiddellijk aan de Korpschef melding te maken van het feit dat hij niet meer aan de beperking voldoet. Op de werkgever rust de verplichting om de IND schriftelijk in kennis te stellen van het feit dat de kennismigrant niet langer bij deze werkgever werkzaam is, niet langer aan het looncriterium voldoet, of niet langer werkzaamheden als wetenschappelijk onderzoeker of arts in opleiding tot specialist vervult (zie daarvoor ook [artikelen 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.41) en [4.43 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.43) en [A3/7.3.5](onbekend) en [A3/7.3.7](onbekend)).
+### 1. Inleiding
 
 [Artikel 3.50 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) bevat een bijzondere regeling voor het voortgezet verblijf van de vreemdeling die als minderjarige in het bezit is gesteld van een verblijfsvergunning in het kader van gezinshereniging met een persoon met een niet-tijdelijk verblijfsrecht. [Artikel 3.50 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) bevat algemeen verbindende voorschriften. Indien aan de voorwaarden van [artikel 3.50 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) wordt voldaan, moet de verblijfsvergunning worden verleend (zie B16/2).
 
@@ -13948,6 +13946,8 @@ Ingevolge [artikel 3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&arti
 [Artikel 3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) geeft het kader waarbinnen aan deze vreemdeling een verblijfsvergunning kan worden verleend. Dit artikel bevat algemeen verbindende voorschriften.
 
 Indien niet wordt voldaan aan de voorwaarden van [artikel 3.50](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) of [3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51), wordt de verblijfsvergunning niet verleend. [Artikel 3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) geeft geen verplichting, maar een bevoegdheid om de verblijfsvergunning te verlenen. In B16 wordt uiteengezet onder welke voorwaarden van die bevoegdheid gebruik wordt gemaakt en de verblijfsvergunning in het kader van voortgezet verblijf kan worden verleend. Deze voorwaarden hebben het karakter van beleidsregels.
+
+Indien niet aan de voorwaarden wordt voldaan, is [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52) van belang (zie B16/7) Indien de vreemdeling niet in aanmerking komt voor een verblijfsvergunning voor voortgezet verblijf op grond van [artikel 3.50](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) of [3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51), kan op grond van klemmende redenen van humanitaire aard voortgezet verblijf worden toegestaan. In B16/7 wordt het beleid voor de volgende gevallen nader uitgewerkt:
 
 ### 9.2. Ziekte en arbeidsongeschiktheid
 
@@ -14047,15 +14047,15 @@ Aan de vereisten van de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447)
 
 ### 3.6.3. Voortdurend in Nederland werken ([artikel 8.17, vierde lid Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.17))
 
-### 4.2.4. Beëindiging van de studie
+### 3.6. Recht op duurzaam verblijf voor voormalig economisch actieven
 
-### 4.3. Beroep op de publieke middelen
+### 4.2.2. Voldoende middelen van bestaan
 
 ### 5.3.2.1. Terugkeer naar Nederland
 
 ### 5.4. Recht op voortzetting van verblijf van het familie- of gezinslid
 
-### 5.1. Samenwoningvereiste
+### 5. Familie- en gezinsleden van gemeenschapsonderdanen
 
 ### 8. Overgangsrecht onderdanen van Bulgarije en Roemenië
 
@@ -14067,7 +14067,7 @@ Aan de vereisten van de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447)
 
 ### 5.3. Beperking en (arbeidsmarkt)aantekeningen
 
-### 8.2. Arbeid in loondienst
+### 6.3.3. Vestiging
 
 ### 11.1. Begunstigde
 
@@ -14075,37 +14075,37 @@ Aan de vereisten van de [Wobka](https://wetten.overheid.nl/jci1.3:c:BWBR0004447)
 
 ### 2.2. Duurzaam verblijvend personeel
 
-### 2.2.1.2. Verblijfsvoorwaarden gezinsleden
+### 2. Personeel van ambassades en consulaten, alsmede de gezinsleden
 
 ### 2.1.1. Algemeen
 
-### 3. Vreemdelingen werkzaam bij een internationale organisatie
+### 2.2.1.1. Verblijfsvoorwaarden lokaal geworven personeel
 
 ### 2.2.1.1. Verblijfsvoorwaarden lokaal geworven personeel
 
 ### 3.3.3. Inleveren identiteitsbewijs geprivilegieerden
 
-De familierechtelijke betrekking kan worden aangetoond met documenten, zoals een trouwboekje, geboorteakte etcetera.
+Vreemdelingen behorend tot één van de categorieën genoemd in [artikel 3.40 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.40) komen in aanmerking voor een verblijfsvergunning regulier voor bepaalde tijd (zie [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)), indien aan de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) voor verlening van een verblijfsvergunning wordt voldaan (zie B1/4).
 
 ### 13. Familiebezoek
 
 ### 4. EU- en EER-onderdanen, Zwitserse onderdanen en hun gezinsleden
 
-### 3.9. De zelfstandige verblijfsvergunning voor voortgezet verblijf
+### 2.6.2. Ontbreken geldig document voor grensoverschrijding
 
-### 3.1. Algemeen
+### 2.10.3.2. Uitgeprocedeerde minderjarigen
 
 ### 5.3.3. De vreemdeling is reeds houder verblijfsvergunning
 
-### 5. Regeling afwikkeling nalatenschap Vw (oud)
+### 5.1. Algemeen
 
-### 5.9. De zelfstandige verblijfsvergunning voor voortgezet verblijf
+### 15. Kennismigranten
 
-### 5.3.2. Nationale veiligheid
+### 3. Kennismigranten
 
 ### 4.2. Verzoek om advies
 
-### 5. Looncriterium
+### 5.3. Beroepen in de individuele gezondheidszorg
 
 Indien de kennismigrant van werkgever verandert, moet hij nog steeds voldoen aan de voorwaarden voor verblijf als kennismigrant. Op de nieuwe werkgever rust de verplichting aan het loket kennis- en arbeidsmigratie van de IND te melden dat betrokken kennismigrant in dienst is getreden en daarbij de van toepassing zijnde bewijsmiddelen zoals genoemd in B15/5.1.2 te overleggen.
 
@@ -14113,31 +14113,31 @@ Indien de kennismigrant van werkgever verandert, moet hij nog steeds voldoen aan
 
 ### 7. Beperkingen, arbeidsmarktaantekeningen en voorschriften
 
-### 9. Werkloosheid, ziekte en arbeidsongeschiktheid
+### 9.1. Werkloosheid
 
 ### 8. Wijziging van werkgever, zoekperiode, af- en aanmelding en intrekking
 
 ### 9.1. Werkloosheid
 
-Indien aan de voorwaarden van het bepaalde in dit hoofdstuk wordt voldaan, wordt aan de vreemdeling op grond van [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) een verblijfsvergunning verleend onder de beperking ‘verblijf gedurende zoekjaar afgestudeerde’.
+Op het verblijfsdocument wordt de aantekening geplaatst: ‘Arbeid vrij toegestaan; TWV niet vereist. Beroep op publieke middelen kan gevolgen hebben voor het verblijfsrecht’.
 
 ### 10. Studenten die hun opleiding in Nederland hebben voltooid
 
 Aan de afgifte van de verblijfsvergunning wordt het voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
-### 11. Regeling hoogopgeleiden
+### 11.1. Zoekjaar
 
-Vreemdelingen die in Nederland zijn afgestudeerd aan een geaccrediteerde opleiding, als opgenomen in het Centraal Register Opleidingen Hoger Onderwijs met een Master-graad alsmede vreemdelingen die in Nederland gepromoveerd zijn, krijgen binnen de regeling hoogopgeleiden de mogelijkheid om binnen maximaal één jaar (zoekjaar) een functie als kennismigrant te vinden of een innovatief bedrijf te starten.
+Hetzelfde geldt voor vreemdelingen die zijn afgestudeerd met een Master-graad of gepromoveerd aan een opleiding die is opgenomen in de top-150 van de in 2007 gepubliceerde lijsten van de ‘Times Higher Education Supplement’of de ‘Jiao Tong Shanghai University’.
 
 ### 9.2. Ziekte en arbeidsongeschiktheid
 
-### 10. Studenten die hun opleiding in Nederland hebben voltooid
+### 11.3. Geldigheidsduur van de verblijfsvergunning
 
-### 8. Wijziging van werkgever, zoekperiode, af- en aanmelding en intrekking
+### 11.4. Beperkingen, arbeidsmarktaantekeningen en voorschriften
 
 ### 8.2. Zoekperiode
 
-Indien de vreemdeling erin slaagt binnen de periode van één jaar, na verlening van de verblijfsvergunning, een baan als kennismigrant te vinden bij een werkgever die op grond van een ondertekende verklaring (zie [bijlage 12a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=12a)) is toegelaten tot de kennismigrantenregeling en de vreemdeling aan het looncriterium voldoet, kan de vreemdeling een aanvraag om wijziging van de beperking van de verblijfsvergunning in ‘verblijf als kennismigrant’ indienen (zie B15/3 en verder). Voor de hoogopgeleiden wordt aangesloten bij het looncriterium voor in Nederland afgestudeerde vreemdelingen die in aansluiting op hun studie dan wel gedurende het zoekjaar, werk als kennismigrant vinden.
+Indien de vreemdeling erin slaagt binnen de periode van één jaar een innovatief bedrijf te starten en daarmee voldoet aan de toelatingsvoorwaarden voor verblijf als zelfstandige (zie B5/7), kan de vreemdeling een aanvraag om wijziging van de beperking van de verblijfsvergunning in ‘verblijf voor arbeid als zelfstandige’ indienen.
 
 ### 16. Voortgezet verblijf
 
@@ -14147,23 +14147,23 @@ Indien niet wordt voldaan aan de voorwaarden van [artikel 3.50](https://wetten.o
 
 ### 9.1. Werkloosheid
 
-Indien niet aan de voorwaarden wordt voldaan, is [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52) van belang (zie B16/7) Indien de vreemdeling niet in aanmerking komt voor een verblijfsvergunning voor voortgezet verblijf op grond van [artikel 3.50](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) of [3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51), kan op grond van klemmende redenen van humanitaire aard voortgezet verblijf worden toegestaan. In B16/7 wordt het beleid voor de volgende gevallen nader uitgewerkt:
+Naast de beleidsregels in B16 zijn, tenzij hieronder anders is aangegeven, ook de beleidsregels met betrekking tot de algemene voorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) van toepassing. Verwezen wordt naar B1/4. Voor wat betreft de aanvraag zijn tevens zijn de algemene bepalingen van B1/5 en B1/9 van toepassing.
 
 ### 2. Na verblijf als minderjarige
 
-Indien een kennismigrant na een periode van ziekte arbeidsongeschikt wordt verklaard, geldt het volgende.
-
 Ingevolge [artikel 3.50 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) wordt de verblijfsvergunning voor voortgezet verblijf verleend aan de vreemdeling die:
+
+Tenzij:
 
 ### 10. Studenten die hun opleiding in Nederland hebben voltooid
 
-Onder persoon met niet-tijdelijk verblijfsrecht wordt in dit kader niet verstaan de houder van de verblijfsvergunning asiel voor bepaalde tijd, bedoeld in [artikel 28 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28).
-
 Reden hiervoor is dat het kind van de houder van de verblijfsvergunning voor bepaalde tijd asiel, dat niet zelf in aanmerking is gekomen voor een verblijfsvergunning asiel, maar wel voor een verblijfsvergunning regulier, niet reeds na een jaar in een betere positie komt te verkeren dan de houder van de verblijfsvergunning asiel bij wie het verblijft. Ook komt dit kind niet in een betere positie te verkeren dan waarin het zou hebben verkeerd, indien wel zou zijn voldaan aan de voorwaarden (van [artikel 29, eerste lid, onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)) voor de verlening van de asielvergunning.
+
+Ingevolge [artikel 3.50, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) wordt de verblijfsvergunning voor voortgezet verblijf aan de minderjarige vreemdeling verleend indien een van de ouders in Nederland is gevestigd en de Nederlandse nationaliteit heeft, tenzij de vreemdeling onjuiste gegevens heeft verstrekt dan wel gegevens heeft achtergehouden die tot afwijzing van de oorspronkelijke aanvraag tot het verlenen zouden hebben geleid, of de vreemdeling het hoofdverblijf buiten Nederland heeft verplaatst.
 
 ### 3.1. Drie jaar verblijf op grond van de (huwelijks)relatie
 
-Ook de vreemdeling die in het jaar na zijn verblijfsaanvaarding meerderjarig is geworden, komt in aanmerking voor een zelfstandige verblijfsvergunning.
+Voor de verlening van de verblijfsvergunning is het niet noodzakelijk dat de gezinsband is verbroken. Ook indien het kind nog feitelijk bij de ouder(s) woont, kan de zelfstandige verblijfsvergunning worden verleend, indien aan de voorwaarden wordt voldaan. Wel moet daartoe een aanvraag worden ingediend.
 
 Voor de verlening van de verblijfsvergunning is het niet noodzakelijk dat de gezinsband is verbroken. Ook indien het kind nog feitelijk bij de ouder(s) woont, kan de zelfstandige verblijfsvergunning worden verleend, indien aan de voorwaarden wordt voldaan. Wel moet daartoe een aanvraag worden ingediend.
 
@@ -14173,19 +14173,19 @@ De verblijfsvergunning onder de beperking verband houdend met (verruimde) gezins
 
 ### 3.1. Drie jaar verblijf op grond van de (huwelijks)relatie
 
-De verblijfsvergunning wordt op aanvraag verleend indien:
-
 De verblijfsvergunning wordt niet verleend indien de hoofdpersoon zelf verblijfsrecht van tijdelijk aard heeft. Dat is bijvoorbeeld het geval indien deze een verblijfsvergunning voor studie of medische behandeling heeft. Zie [artikel 3.5 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5). De verblijfsvergunning wordt evenmin verleend indien de hoofdpersoon houder is van de verblijfsvergunning asiel voor bepaalde tijd. Daarmee wordt voorkomen dat de vreemdeling met een verblijfsrecht dat afhankelijk is van een andere vreemdeling die zelf verblijfsrecht van tijdelijke aard heeft, na ommekomst van drie jaren een sterker verblijfsrecht kan verkrijgen dan degene bij wie verblijf was toegestaan.
 
 Indien de vreemdeling aanvankelijk houder was van een verblijfsvergunning op grond van een relatie, en aansluitend houder was van een verblijfsvergunning op grond van een huwelijk of geregistreerd partnerschap met dezelfde hoofdpersoon, wordt de duur van deze perioden opgeteld.
 
 In [artikel 9.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=9.6) is een overgangsregeling getroffen voor die gevallen waarin de vreemdeling ten minste een jaar, maar minder dan drie jaren, houder is geweest van een verblijfsvergunning op grond van een huwelijk dat drie jaren direct voorafgaande aan de ontwrichting of ontbinding daarvan heeft standgehouden. Op grond van deze overgangsregeling kan aan die vreemdeling, mits de verblijfsvergunning is verleend voor 11 december 2000 en geen van de afwijzingsgronden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) zich voordoen, een verblijfsvergunning worden verleend onder de beperking “voor het zoeken en verrichten van arbeid al dan niet in loondienst”. Deze regeling geldt niet, indien de verblijfsvergunning was verleend op grond van een relatie.
 
-Indien aan de voorwaarden van het bepaalde in dit hoofdstuk wordt voldaan, wordt aan de vreemdeling op grond van [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) een verblijfsvergunning verleend onder de beperking ‘verblijf gedurende zoekjaar afgestudeerde’.
+In [artikel 9.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=9.6) is een overgangsregeling getroffen voor die gevallen waarin de vreemdeling ten minste een jaar, maar minder dan drie jaren, houder is geweest van een verblijfsvergunning op grond van een huwelijk dat drie jaren direct voorafgaande aan de ontwrichting of ontbinding daarvan heeft standgehouden. Op grond van deze overgangsregeling kan aan die vreemdeling, mits de verblijfsvergunning is verleend voor 11 december 2000 en geen van de afwijzingsgronden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16) zich voordoen, een verblijfsvergunning worden verleend onder de beperking “voor het zoeken en verrichten van arbeid al dan niet in loondienst”. Deze regeling geldt niet, indien de verblijfsvergunning was verleend op grond van een relatie.
+
+De verblijfsvergunning wordt op aanvraag verleend, indien:
 
 ### 5. Arbeidsmarktaantekening
 
-In afwijking van B1/4.2 en B1/4.3 wordt de verblijfsvergunning ook verleend indien de vreemdeling:
+Voor de verlening van deze verblijfsvergunning is niet noodzakelijk dat de feitelijke gezinsband is verbroken.
 
 ### 2.2. Samenhang beslissing aanvraag TWV en verblijfsvergunning
 
@@ -14243,7 +14243,7 @@ Het COA beëindigt de verstrekking van de uitkering krachtens de [Rvb](https://w
 
 ### 7.2.1. Verblijfsvoorwaarden
 
-### 8.2.1. Grensoverschrijdende dienstverrichters
+### 6.1.2. Antecedentenverklaring
 
 ### 7.2.1. Verblijfsvoorwaarden
 
@@ -14253,9 +14253,9 @@ Het COA beëindigt de verstrekking van de uitkering krachtens de [Rvb](https://w
 
 ### 7.1. Verblijf van werknemers
 
-### 11. Europees Verdrag inzake de rechtspositie van migrerende werknemers
+### 8.2. Arbeid in loondienst
 
-Gelet op vorenstaande, geldt het volgende:
+Op 24 november 1980 eindigde de geldigheidsduur van de Overeenkomst Nederland-Suriname 1975. Er is geen nieuwe overeenkomst inzake het verblijf en de vestiging van wederzijdse onderdanen gesloten, maar bij overeenkomst van 25 februari 1981 is een overlegstructuur met betrekking tot het door beide landen gevoerde vreemdelingenbeleid in het leven geroepen.
 
 ### 2.2.1.2. Verblijfsvoorwaarden gezinsleden
 
@@ -14271,23 +14271,23 @@ Gelet op vorenstaande, geldt het volgende:
 
 ### 3.4.1. Inleiding
 
-### 3.5.1. Beperking en arbeidsmarktaantekening
+### 3.2.2. Categorieën vreemdelingen die onder het beleid vallen
 
 ### 5.3.2. Nationale veiligheid
 
-### 5.3.4. De vreemdeling is EU/EER-onderdaan
+### 5.3.5. Twijfel omtrent identiteit of nationaliteit
 
-### 5.6.2. Ingangsdatum van de verblijfsvergunning
+### 5.6.3. Geldigheidsduur
 
 ### 5.8. Intrekking en niet-verlenging van de verblijfsvergunning
 
 ### 7.1. Voortgezet Verblijf op grond van de Regeling nalatenschap oude Vw
 
-De verblijfsvergunning kan op aanvraag worden verleend, indien:
+In afwijking van B1/4.3 wordt de verblijfsvergunning ook verleend indien de vreemdeling niet (meer) beschikt over voldoende duurzame middelen van bestaan.
 
 ### 9.2. Ziekte en arbeidsongeschiktheid
 
-Ziekte en arbeidsongeschiktheid zijn van invloed op de verblijfsrechtelijke positie van kennismigranten. Bij ziekte blijft de kennismigrant aan de voorwaarden voldoen zolang er sprake is van een dienstverband met een werkgever die een verklaring heeft afgelegd in het kader van het kennismigrantenbeleid en hij, hetzij vanwege het ontvangen loon, hetzij op grond van een uitkering, hetzij op grond van een combinatie van beide, aan het loonvereiste blijft voldoen.
+Indien aan de voorwaarden van het bepaalde in dit hoofdstuk wordt voldaan, wordt aan de vreemdeling op grond van [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) een verblijfsvergunning verleend onder de beperking ‘verblijf gedurende zoekjaar afgestudeerde’.
 
 ### 11.1. Zoekjaar
 
@@ -14295,11 +14295,11 @@ Voor de mvv-aanvraag in het kader van de regeling hoogopgeleiden wordt gestreefd
 
 ### 11.2. Voorwaarden
 
-Aan de afgifte van de verblijfsvergunning wordt het voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
+De verblijfsvergunning zoekjaar hoogopgeleide wordt verleend met ingang van de datum aanvraag van de verblijfsvergunning en wordt altijd, ongeacht de datum van afstuderen of promoveren, verleend voor de duur van één jaar.
 
-### 11.4. Beperkingen, arbeidsmarktaantekeningen en voorschriften
+### 11.5. Verlenging en zoekperiode
 
-Indien de kennismigrant van werkgever verandert, moet hij nog steeds voldoen aan de voorwaarden voor verblijf als kennismigrant. Op de nieuwe werkgever rust de verplichting aan het loket kennis- en arbeidsmigratie van de IND te melden dat betrokken kennismigrant in dienst is getreden en daarbij de van toepassing zijnde bewijsmiddelen zoals genoemd in B15/5.1.2 te overleggen.
+De verblijfsvergunning onder de beperking ‘verblijf gedurende zoekperiode hoogopgeleide’ is van tijdelijke aard en wordt verleend voor ten hoogste één jaar. De geldigheidsduur van de verblijfsvergunning kan derhalve niet worden verlengd.
 
 ### 10.4. Verlenging en zoekperiode
 
@@ -14311,25 +14311,25 @@ Indien de kennismigrant van werkgever verandert, moet hij nog steeds voldoen aan
 
 ### 3. Na (huwelijks)relatie, verruimde gezinshereniging en ouderenbeleid
 
-Tenzij:
+Onder persoon met niet-tijdelijk verblijfsrecht wordt in dit kader niet verstaan de houder van de verblijfsvergunning asiel voor bepaalde tijd, bedoeld in [artikel 28 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28).
 
 ### 10.1. Zoekjaar
 
-Ingevolge [artikel 3.50, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) wordt de verblijfsvergunning voor voortgezet verblijf aan de minderjarige vreemdeling verleend indien een van de ouders in Nederland is gevestigd en de Nederlandse nationaliteit heeft, tenzij de vreemdeling onjuiste gegevens heeft verstrekt dan wel gegevens heeft achtergehouden die tot afwijzing van de oorspronkelijke aanvraag tot het verlenen zouden hebben geleid, of de vreemdeling het hoofdverblijf buiten Nederland heeft verplaatst.
+Ook de vreemdeling die in het jaar na zijn verblijfsaanvaarding meerderjarig is geworden, komt in aanmerking voor een zelfstandige verblijfsvergunning.
 
 ### 7.1. Werkloosheid, ziekte en arbeidsongeschiktheid
 
-De verblijfsvergunning kan op aanvraag worden verleend, indien:
+De verblijfsvergunning onder de beperking verband houdend met (verruimde) gezinshereniging of gezinsvorming kan op aanvraag worden gewijzigd in zelfstandige verblijfsvergunning onder de beperking ‘voortgezet verblijf’. Het betreft hier de wijziging van de afhankelijke verblijfsvergunning naar een zelfstandige verblijfsvergunning.
 
 ### 3.1. Drie jaar verblijf op grond van de (huwelijks)relatie
 
-Als de vreemdeling gedurende het zoekjaar een beroep doet op de algemene middelen kan dit gevolgen hebben voor het verblijfsrecht.
+De verblijfsvergunning wordt op aanvraag verleend indien:
 
 ### 3.3. Overlijden van de hoofdpersoon
 
 ### 3.2. Drie jaar verblijf verruimde gezinshereniging of ouderenbeleid
 
-De verblijfsvergunning wordt op aanvraag verleend, indien:
+In afwijking van B1/4.2 en B1/4.3 wordt de verblijfsvergunning ook verleend indien de vreemdeling:
 
 ### 3.3. Overlijden van de hoofdpersoon
 
@@ -14337,19 +14337,19 @@ Ingevolge [artikel 3.51, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ### 4. Na medische behandeling
 
-Als regel levert het overlijden een zodanig schrijnende situatie op dat het voortgezet verblijf van de vreemdeling in Nederland behoort te worden aanvaard (zie [artikel 3.51, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51)). Daarbij hoeft de aanwezigheid van (andere) klemmende redenen van humanitaire aard niet te worden gesteld of onderzocht.
-
 Het vorengaande geldt echter niet indien verblijf is verleend in het kader van het ouderenbeleid (B2/7).
 
 De verblijfsvergunning wordt niet verleend indien:
 
 In afwijking van B1/4.2 en B1/4.3 wordt de aanvraag niet afgewezen op de grond dat de vreemdeling:
 
-[Artikel 3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) geeft het kader waarbinnen aan deze vreemdeling een verblijfsvergunning kan worden verleend. Dit artikel bevat algemeen verbindende voorschriften.
+In afwijking van B1/4.2 en B1/4.3 wordt de aanvraag niet afgewezen op de grond dat de vreemdeling:
+
+Na drie jaar verblijf als houder van een verblijfsvergunning onder de beperking voor het ondergaan van medische behandeling kan de vreemdeling op grond van [artikel 3.51, eerste lid, aanhef en onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) een aanvraag doen voor een verblijfsvergunning onder een beperking verband houdend met voortgezet verblijf, indien de medische behandeling naar het oordeel van de Minister nog voor ten minste één jaar noodzakelijk zal zijn. De vreemdeling moet gedurende de gehele periode hebben voldaan aan de voorwaarden voor verlenging van de geldigheidsduur van de oorspronkelijke verblijfsvergunning.
 
 ### 5. Na verblijf als Amv
 
-Indien niet aan de voorwaarden wordt voldaan, is [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52) van belang (zie B16/7) Indien de vreemdeling niet in aanmerking komt voor een verblijfsvergunning voor voortgezet verblijf op grond van [artikel 3.50](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) of [3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51), kan op grond van klemmende redenen van humanitaire aard voortgezet verblijf worden toegestaan. In B16/7 wordt het beleid voor de volgende gevallen nader uitgewerkt:
+De verblijfsvergunning onder de beperking verband houdend met verblijf als Amv kan op aanvraag worden gewijzigd in een verblijfsvergunning onder de beperking verband houdend met ‘voortgezet verblijf’.
 
 ### 4.1.1. Vrijstellingen
 
@@ -14411,23 +14411,23 @@ De afwijzing van de aanvraag wordt echter niet louter gebaseerd op het ontbreken
 
 ### 9.4. Document voor grensoverschrijding, middelen en openbare orde
 
-### 3.3.2. Zelfstandigen
+### 3.3. Voor verblijf van langer dan drie maanden over te leggen stukken
 
-### 6.3.1. Arbeid als zelfstandige
+### 5.4.2. Familielid onderdaan van EU/EER of Zwitserland
 
 ### 3.3.3. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
-### 7. Verblijfsbeëindiging en uitzetting
+### 7.1. Verblijfsbeëindiging
 
 ### 3.3.3. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
 ### 3.4.1.5. Verblijfsdocument
 
-### 4. Geldigheidsduur van de verblijfsvergunning
+### 4. EU- en EER-onderdanen, Zwitserse onderdanen en hun gezinsleden
 
 ### 2.2.1. Minderjarigheid
 
-### 3.8. Intrekking en niet-verlenging van de verblijfsvergunning
+### 3.4.4. Leges
 
 ### 4.4.2. Einde termijn
 
@@ -14439,7 +14439,7 @@ De afwijzing van de aanvraag wordt echter niet louter gebaseerd op het ontbreken
 
 ### 8.1. Wijziging van werkgever
 
-### 5.1.3. Kortlopende arbeidsovereenkomsten
+### 8.3. Af- en aanmelding, intrekking
 
 ### 9.2. Ziekte en arbeidsongeschiktheid
 
@@ -14491,7 +14491,7 @@ De verblijfsvergunning onder de beperking ‘verblijf gedurende zoekperiode afge
 
 ### 3.3.3. Beperking, (arbeidsmarkt)aantekeningen en voorschrift
 
-### 7.3. Actuele bedreiging van de openbare orde en nationale veiligheid
+### 8. Het Nederlands-Amerikaans Vriendschapsverdrag
 
 ### 2.2.2.3. Inleveren geprivilegieerdendocument
 
@@ -14503,11 +14503,11 @@ De verblijfsvergunning onder de beperking ‘verblijf gedurende zoekperiode afge
 
 ### 5.1.2. Bewijsmiddelen looncriterium
 
-### 5.3. Beroepen in de individuele gezondheidszorg
+### 8. Wijziging van werkgever, zoekperiode, af- en aanmelding en intrekking
 
 ### 8.2. Zoekperiode
 
-Als de vreemdeling gedurende het zoekjaar een beroep doet op de algemene middelen kan dit gevolgen hebben voor het verblijfsrecht.
+Indien de vreemdeling gebruik wil maken van het zoekjaar, dient hij een aanvraag tot wijziging van de beperking in door middel van een aanvraagformulier (zie [bijlage 13 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=13)) dat te verkrijgen is bij de Immigratie- en Naturalisatiedienst. Deze aanvraag dient bij één van de loketten van de Immigratie- en Naturalisatiedienst te worden ingediend.
 
 ### 6.1. Contactpunt IND
 
@@ -14537,11 +14537,11 @@ Als de vreemdeling gedurende het zoekjaar een beroep doet op de algemene middele
 
 ### 3.2.1. Kwantificeren van het begrip reële en daadwerkelijke arbeid
 
-### 5. Familie- en gezinsleden van gemeenschapsonderdanen
+### 3.7. Overige categorieën
 
 ### 16.3.2. Reisdocumenten
 
-### 3.4.2.3. Registratie
+### 3.3.3. Inleveren identiteitsbewijs geprivilegieerden
 
 ### 1. Inleiding
 
@@ -14551,7 +14551,7 @@ Als de vreemdeling gedurende het zoekjaar een beroep doet op de algemene middele
 
 ### 3.2. Drie jaar verblijf verruimde gezinshereniging of ouderenbeleid
 
-### 8.1. Wijziging van werkgever
+### 9.2. Ziekte en arbeidsongeschiktheid
 
 ### 4.10. Tijdsverloop in reguliere zaken
 
@@ -14575,7 +14575,7 @@ Als de vreemdeling gedurende het zoekjaar een beroep doet op de algemene middele
 
 ### 3.8. Verplichte en onverplichte mvv en verkorte aanvraagprocedure
 
-### 8.1. Werkzoekenden
+### 4. Economisch niet-actieven
 
 ### 6. Onderdanen van België en Luxemburg
 
@@ -14603,7 +14603,7 @@ Als de vreemdeling gedurende het zoekjaar een beroep doet op de algemene middele
 
 ### 1. Inleiding
 
-### 8.5. Leges
+### 7.1.1. Actuele bedreiging van de openbare orde en openbare veiligheid
 
 ### 5.3. Beperking en (arbeidsmarkt)aantekeningen
 
@@ -14611,13 +14611,13 @@ Als de vreemdeling gedurende het zoekjaar een beroep doet op de algemene middele
 
 ### 11.1. Begunstigde
 
-### 16.3.2. Reisdocumenten
+### 15. Onderdanen van Suriname
 
 ### 3.2.1. Inleiding
 
-### 8.1. Wijziging van werkgever
+### 10. Studenten die hun opleiding in Nederland hebben voltooid
 
-### 9.2. Ziekte en arbeidsongeschiktheid
+### 10.3. Beperkingen, arbeidsmarktaantekeningen en voorschriften
 
 ### 4.4.2. Procedurele aspecten
 
@@ -14671,59 +14671,59 @@ Als de vreemdeling gedurende het zoekjaar een beroep doet op de algemene middele
 
 ### 4.3. Verblijf voor Working Holiday Program en Working Holiday Scheme
 
-### 3.1. Algemeen
+### 2.9. De verblijfsvergunning voor onbepaalde tijd
 
 ### 5.6. De verlening van de verblijfsvergunning
 
 ### 10. Beperking en arbeidsmarktaantekening
 
-### 4.3.2. TBC-verklaring
+### 5.1.1. Bestanddelen bruto jaarloon
 
 ### 5.3. Beroepen in de individuele gezondheidszorg
 
 ### 2.5. Arbeidsmarktaantekening
 
-### 3.3. Voor verblijf van langer dan drie maanden over te leggen stukken
+### 3.2.1. Kwantificeren van het begrip reële en daadwerkelijke arbeid
 
 ### 2. Na verblijf als minderjarige
 
 ### 9. Internationale verplichtingen
 
-Ingevolge [artikel 3.51, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) kan de zelfstandige verblijfsvergunning voor voortgezet verblijf na (verruimde) gezinshereniging of gezinsvorming eveneens worden verleend indien de hoofdpersoon met niet-tijdelijk verblijfsrecht is overleden en de gezinsband om die reden is verbroken. In deze gevallen wordt in beginsel altijd gebruikgemaakt van de bevoegdheid om de verblijfsvergunning te verlenen.
+Als regel levert het overlijden een zodanig schrijnende situatie op dat het voortgezet verblijf van de vreemdeling in Nederland behoort te worden aanvaard (zie [artikel 3.51, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51)). Daarbij hoeft de aanwezigheid van (andere) klemmende redenen van humanitaire aard niet te worden gesteld of onderzocht.
 
 Na drie jaar verblijf als houder van een verblijfsvergunning onder de beperking voor het ondergaan van medische behandeling kan de vreemdeling op grond van [artikel 3.51, eerste lid, aanhef en onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) een aanvraag doen voor een verblijfsvergunning onder een beperking verband houdend met voortgezet verblijf, indien de medische behandeling naar het oordeel van de Minister nog voor ten minste één jaar noodzakelijk zal zijn. De vreemdeling moet gedurende de gehele periode hebben voldaan aan de voorwaarden voor verlenging van de geldigheidsduur van de oorspronkelijke verblijfsvergunning.
 
 ### 5. Na verblijf als Amv
 
-De verblijfsvergunning onder de beperking verband houdend met verblijf als Amv kan op aanvraag worden gewijzigd in een verblijfsvergunning onder de beperking verband houdend met ‘voortgezet verblijf’.
-
 Op grond van [artikel 3.51, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) kan aan een Amv op aanvraag een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘voortgezet verblijf’ worden verleend, indien:
+
+De peildatum voor de vraag of de vreemdeling aan deze voorwaarden voldoet, ligt, gezien de bewoordingen van [artikel 3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51), op de laatste dag van geldigheid van de verblijfsvergunning regulier onder de beperking ‘verblijf als Amv’.
 
 ### 3. Procedure
 
-Amv’s die in afwachting zijn van een beslissing op de aanvraag verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘voortgezet verblijf’ worden in het bezit gesteld van het verblijfsdocument conform [bijlage 7f2 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f2) (W2-document), voor zover zij niet reeds in het bezit zijn van een geldig document voor grensoverschrijding.
+Indien er sprake is van een te late indiening van de aanvraag om verlenging of de aanvraag om wijziging van de beperking, is het gestelde in B1/5.1 van toepassing.
 
 ### 2. Algemene voorwaarden
 
 De verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘verblijf als Amv’ wordt in de hierboven genoemde gevallen ten hoogste verlengd tot de dag waarop de vreemdeling meerderjarig wordt.
 
-Ingevolge [artikel 3.50, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) wordt de verblijfsvergunning voor voortgezet verblijf aan de minderjarige vreemdeling verleend indien een van de ouders in Nederland is gevestigd en de Nederlandse nationaliteit heeft, tenzij de vreemdeling onjuiste gegevens heeft verstrekt dan wel gegevens heeft achtergehouden die tot afwijzing van de oorspronkelijke aanvraag tot het verlenen zouden hebben geleid, of de vreemdeling het hoofdverblijf buiten Nederland heeft verplaatst.
-
 Indien er sprake is van een eerste beslissing op de asielaanvraag waarbij ambtshalve een vergunning op grond van het beleid inzake Amv’s wordt verleend, geldt het volgende.
 
 Indien betrokkene vóór 4 januari 2001 (ingangsdatum huidige beleid) achttien jaar oud is geworden, en hij op grond van het toenmalig geldende beleid inzake Amv’s in aanmerking komt voor verblijf, dient voor de periode tot en met 3 januari 2001 een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘verblijf als Amv’ te worden verleend. Vanaf 4 januari 2001 komt betrokkene op grond van [artikel 9.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=9.4) in aanmerking voor een verblijfsvergunning onder de beperking ‘voortgezet verblijf’.
 
-### 3. Na (huwelijks)relatie, verruimde gezinshereniging en ouderenbeleid
+Indien betrokkene op of na 4 januari 2001 achttien jaar oud is geworden, wordt aan hem een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘verblijf als Amv’ verleend tot de datum waarop hij achttien jaar oud wordt. Vanaf de datum waarop betrokkene achttien jaar oud wordt, komt hij in aanmerking voor een verblijfsvergunning onder de beperking ‘voortgezet verblijf’ op grond van [artikel 9.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=9.4).
 
-Als er sprake is van een eerste beslissing op de asielaanvraag en de vreemdeling is inmiddels achttien, dan wordt in deze gevallen de asielaanvraag mede aangemerkt als een aanvraag om een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘voortgezet verblijf’. De vreemdeling hoeft deze vergunning dus niet apart aan te vragen.
+### 3. Na (huwelijks)relatie, verruimde gezinshereniging en ouderenbeleid
 
 De ABRvS heeft in haar uitspraak van 14 mei 2003 (20031352/1) geoordeeld dat de beslissing van destijds, om aan een minderjarige vreemdeling de verblijfsvergunning te weigeren omdat hij begeleid was, niet in overeenstemming is met de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823). Daarom is de volgende voorziening getroffen voor hen die voor hun achttiende verjaardag een tweede aanvraag indienen.
 
+Een Amv, aan wie een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘verblijf als Amv’ wordt verleend, kan in aanmerking komen voor een verblijfsvergunning onder de beperking ‘voortgezet verblijf’ op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52):
+
 ### 3.1. Middelen van bestaan
 
-Hierbij gelden de volgende (cumulatieve) voorwaarden:
+Zie voor het beleid inzake de uitgeprocedeerde begeleide vreemdeling die nog minderjarig is B14/2.10.3.2.
 
-### 11.3. Gezinshereniging
+### 9.1. Begunstigde
 
 ### 3. Kennismigranten
 
@@ -14745,7 +14745,7 @@ Voor de verlening van deze verblijfsvergunning is niet noodzakelijk dat de feite
 
 ### 9.6.3. Gezinsleden van houders van een verblijfsvergunning asiel
 
-### 3.3. Arbeidsmarktaantekening
+### 5.2. Zelfstandige, voldoende en duurzame middelen
 
 ### 4.3.1. Zelfstandige middelen van bestaan
 
@@ -14763,27 +14763,27 @@ Voor de verlening van deze verblijfsvergunning is niet noodzakelijk dat de feite
 
 ### 10.3. Beperkingen, arbeidsmarktaantekeningen en voorschriften
 
-### 10.3. Beperkingen, arbeidsmarktaantekeningen en voorschriften
+### 3.2. Drie jaar verblijf verruimde gezinshereniging of ouderenbeleid
 
 ### 2.3. Aanvraag om een verblijfsvergunning
 
-De peildatum voor de vraag of de vreemdeling aan deze voorwaarden voldoet, ligt, gezien de bewoordingen van [artikel 3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51), op de laatste dag van geldigheid van de verblijfsvergunning regulier onder de beperking ‘verblijf als Amv’.
+Amv’s die in afwachting zijn van een beslissing op de aanvraag verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘voortgezet verblijf’ worden in het bezit gesteld van het verblijfsdocument conform [bijlage 7f2 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7f2) (W2-document), voor zover zij niet reeds in het bezit zijn van een geldig document voor grensoverschrijding.
 
 ### 2.2. Middelen van bestaan
 
-Indien er sprake is van een te late indiening van de aanvraag om verlenging of de aanvraag om wijziging van de beperking, is het gestelde in B1/5.1 van toepassing.
+De verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘verblijf als Amv’ wordt in de hierboven genoemde gevallen ten hoogste verlengd tot de dag waarop de vreemdeling meerderjarig wordt.
 
 ### 5.1. Overgangsrecht
 
-Indien betrokkene op of na 4 januari 2001 achttien jaar oud is geworden, wordt aan hem een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘verblijf als Amv’ verleend tot de datum waarop hij achttien jaar oud wordt. Vanaf de datum waarop betrokkene achttien jaar oud wordt, komt hij in aanmerking voor een verblijfsvergunning onder de beperking ‘voortgezet verblijf’ op grond van [artikel 9.4 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=9.4).
+Als er sprake is van een eerste beslissing op de asielaanvraag en de vreemdeling is inmiddels achttien, dan wordt in deze gevallen de asielaanvraag mede aangemerkt als een aanvraag om een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘voortgezet verblijf’. De vreemdeling hoeft deze vergunning dus niet apart aan te vragen.
 
 ### 2.3. Openbare orde en nationale veiligheid
 
-Een Amv, aan wie een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘verblijf als Amv’ wordt verleend, kan in aanmerking komen voor een verblijfsvergunning onder de beperking ‘voortgezet verblijf’ op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52):
+Hierbij gelden de volgende (cumulatieve) voorwaarden:
 
 ### 6. Na verblijf op grond van het buitenschuldcriterium
 
-Zie voor het beleid inzake de uitgeprocedeerde begeleide vreemdeling die nog minderjarig is B14/2.10.3.2.
+De overgangsregeling kan niet van toepassing zijn op personen die op het moment van aanvraag inmiddels meerderjarig zijn geworden. Het is immers niet mogelijk een verblijfsvergunning op grond van het beleid inzake Amv’s te verlenen aan een meerderjarige en het is niet mogelijk een verblijfsvergunning onder de beperking ‘voortgezet verblijf’ te verlenen aan een vreemdeling die niet reeds in het bezit is van een verblijfsvergunning.
 
 ### 17. Verblijf als (economisch niet-actieve) langdurig ingezetene
 
@@ -14791,9 +14791,9 @@ Zie voor het beleid inzake de uitgeprocedeerde begeleide vreemdeling die nog min
 
 ### 3.1. Drie jaar verblijf op grond van de (huwelijks)relatie
 
-De overgangsregeling kan niet van toepassing zijn op personen die op het moment van aanvraag inmiddels meerderjarig zijn geworden. Het is immers niet mogelijk een verblijfsvergunning op grond van het beleid inzake Amv’s te verlenen aan een meerderjarige en het is niet mogelijk een verblijfsvergunning onder de beperking ‘voortgezet verblijf’ te verlenen aan een vreemdeling die niet reeds in het bezit is van een verblijfsvergunning.
-
 Om dit te ondervangen is op grond van [artikel 3.6, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) een nieuw [artikel 3.17a gevoegd in het VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.17a). Hierdoor is het mogelijk geworden om ambtshalve, in het kader van een asielaanvraag, een verblijfsvergunning te verlenen onder de beperking ‘verblijf als meerderjarige ex-bama’, zie voor het beleid terzake B14/2.10.3.3.
+
+De verblijfsvergunning onder de beperking ‘verblijf als meerderjarige ex-bama’ kan ten tijde van de eerste verlenging, indien de houder hiertoe een aanvraag indient, worden gewijzigd in een verblijfsvergunning onder de beperking ‘voortgezet Verblijf’ op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52).
 
 De verblijfsvergunning onder de beperking ‘verblijf als meerderjarige ex-bama’ kan ten tijde van de eerste verlenging, indien de houder hiertoe een aanvraag indient, worden gewijzigd in een verblijfsvergunning onder de beperking ‘voortgezet Verblijf’ op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52).
 
@@ -14803,23 +14803,21 @@ Op grond van [artikel 3.51, eerste lid, onder d, Vb](https://wetten.overheid.nl/
 
 Indien de vreemdeling niet in aanmerking komt voor een verblijfsvergunning voor voortgezet verblijf op grond van [artikel 3.50](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) of [3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) (zie B16/2 tot en met B16/6), kan op grond van klemmende redenen van humanitaire aard voortgezet verblijf worden toegestaan (zie [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52)). In individuele gevallen, waarin niet aan de voorwaarden voor voortgezet verblijf wordt voldaan, wordt altijd bezien of het voortgezet verblijf moet worden aanvaard op grond van klemmende redenen van humanitaire aard.
 
-Indien de vreemdeling niet in aanmerking komt voor een verblijfsvergunning voor voortgezet verblijf op grond van [artikel 3.50](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50) of [3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) (zie B16/2 tot en met B16/6), kan op grond van klemmende redenen van humanitaire aard voortgezet verblijf worden toegestaan (zie [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52)). In individuele gevallen, waarin niet aan de voorwaarden voor voortgezet verblijf wordt voldaan, wordt altijd bezien of het voortgezet verblijf moet worden aanvaard op grond van klemmende redenen van humanitaire aard.
-
 Indien de (huwelijks)relatie op grond waarvan het verblijf was toegestaan binnen drie jaar na verblijfsaanvaarding en anders dan door overlijden, is verbroken, wordt voortgezet verblijf toegestaan, indien sprake is van een combinatie van klemmende redenen van humanitaire aard die daartoe aanleiding geven. De beoordeling of in het concrete geval op grond van een dergelijke combinatie van klemmende redenen van humanitaire aard in het voortgezet verblijf van de vreemdeling behoort te worden berust, is aan de Minister.
 
 Klemmende redenen van humanitaire aard kunnen zijn gelegen in:
 
+De vreemdeling die zich hierop beroept, geeft aan welke klemmende redenen van humanitaire aard naar zijn mening tot aanvaarding van zijn voortgezet verblijf dienen te leiden en onderbouwt zijn beroep met ter zake relevante gegevens en bescheiden. Het is nadrukkelijk de eigen verantwoordelijkheid van de vreemdeling om bij het indienen van de aanvraag om voortgezet verblijf aan te geven dat er sprake is van een dergelijke combinatie van factoren, en die met ter zake relevante gegevens en bescheiden te onderbouwen. Hij is daartoe de meest gerede partij. Indien het beroep op klemmende redenen van humanitaire aard niet of niet afdoende met terzake relevante gegevens en bescheiden is onderbouwd bij het indienen van de aanvraag om voortgezet verblijf, stelt de IND de vreemdeling in de gelegenheid dit gebrek te herstellen. In beginsel wordt de vreemdeling hiertoe een termijn van twee weken gegund. Bij de beoordeling van het beroep op klemmende redenen van humanitaire aard, wordt altijd een belangenafweging gemaakt, waarbij de belangen van de vreemdeling worden afgewogen tegen die van de staat.
+
 ### 4. Overige algemene bepalingen
 
-Bij de beoordeling wordt in voorkomende gevallen rekening gehouden met de situatie van vreemdelingen en hun eventuele kinderen, die tegen hun wil en zonder identiteits- en verblijfsdocumenten in het land van herkomst zijn achtergelaten (zie ten aanzien hiervan tevens B1/5.1, B1/5.3.2, en B16/7).
+Aan de hand van de door de vreemdeling overgelegde informatie omtrent factoren 1, 2 en 3 kan de IND zonodig een individueel ambtsbericht opvragen bij het Ministerie van BuZa.
 
 ### 4. Na medische behandeling
 
-Van belang is de mate van worteling in de Nederlandse samenleving en de mogelijkheid om het familie- en gezinsleven elders voort te zetten.
+Aan deze laatste factor wordt in de belangenafweging een zwaar gewicht toegekend. Dit betekent dat naast deze factor niet aan één van de andere factoren (nummers 1-4) dient te worden getoetst. Geweld, waaronder seksueel geweld dat heeft geleid tot de feitelijke verbreking van de (huwelijks)relatie, wordt aangetoond aan de hand van een proces-verbaal van de aangifte en een verklaring van een (vertrouwens)arts.
 
 ### 5. Na verblijf als Amv
-
-In gevallen waarin het OM ambtshalve vervolging tegen de dader heeft ingesteld, dus zonder dat betrokkene aangifte van (seksueel) geweld heeft gedaan, kan geweld worden aangetoond door middel van een verklaring van het OM dan wel van de politie. Tevens is een verklaring van een (vertrouwens)arts vereist.
 
 Deze regeling treedt met terugwerkende kracht in werking op 17 oktober 2003. Dit is de datum waarop de brief van de Minister, waarin deze regeling wordt aangekondigd, aan de Tweede Kamer is aangeboden.
 
@@ -14827,37 +14825,37 @@ Indien er een beroep wordt gedaan op (seksueel) geweld, zonder dat dit op de voo
 
 Indien binnen drie jaar na verblijfsaanvaarding, niet meer wordt voldaan aan de voorwaarden van verruimde gezinshereniging of het ouderenbeleid (zie B2/7), wordt voortgezet verblijf toegestaan, indien er sprake is van een combinatie van klemmende redenen van humanitaire aard die daartoe aanleiding geven. De beoordeling of in het concrete geval op grond van een dergelijke combinatie van klemmende redenen van humanitaire aard in het voortgezet verblijf van de vreemdeling behoort te worden berust, is aan de Minister.
 
-### 6. Wijziging werkgever, zoekperiode
+De vreemdeling die zich hierop beroept, geeft aan welke klemmende redenen van humanitaire aard naar zijn mening tot aanvaarding van zijn voortgezet verblijf dienen te leiden en onderbouwt zijn beroep met terzake relevante gegevens en bescheiden. Het is nadrukkelijk de eigen verantwoordelijkheid van de vreemdeling om bij het indienen van de aanvraag om voortgezet verblijf aan te geven dat er sprake is van een dergelijke combinatie van factoren, en die met terzake relevante gegevens en bescheiden te onderbouwen. Hij is daartoe de meest gerede partij. Indien het beroep op klemmende redenen van humanitaire aard niet of niet afdoende met terzake relevante gegevens en bescheiden is onderbouwd bij het indienen van de aanvraag om voortgezet verblijf, stelt de IND de vreemdeling in de gelegenheid dit gebrek te herstellen. In beginsel wordt de vreemdeling hiertoe een termijn van twee weken gegund. Bij de beoordeling van het beroep op klemmende redenen van humanitaire aard, wordt altijd een belangenafweging gemaakt, waarbij de belangen van de vreemdeling worden afgewogen tegen die van de staat.
 
-Indien binnen drie jaar na verblijfsaanvaarding aantoonbaar ondervonden (seksueel) geweld binnen de familie heeft geleid tot verbreking van de familierelatie, wordt hieraan in de belangenafweging een zwaar gewicht toegekend. Dit betekent dat, indien het ondervonden geweld binnen de familie is aangetoond, de vreemdeling in aanmerking komt voor voortgezet verblijf. Geweld, waaronder seksueel geweld, dat heeft geleid tot de feitelijke verbreking van de familierelatie, wordt aangetoond aan de hand van een proces-verbaal van de aangifte en een verklaring van een (vertrouwens)arts.
+### 6. Wijziging werkgever, zoekperiode
 
 In gevallen waarin het OM ambtshalve vervolging tegen de dader heeft ingesteld, dus zonder dat betrokkene aangifte van (seksueel) geweld heeft gedaan, kan geweld worden aangetoond door middel van een verklaring van het OM dan wel van de politie. Ook in dat geval is een verklaring van een (vertrouwens)arts vereist.
 
-### 7. Gronden voor intrekking en niet-verlenging
+Na drie jaar verblijf als houder van een verblijfsvergunning onder de beperking ‘verblijf vanwege medische noodsituatie’ kan de vreemdeling op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52) een aanvraag doen voor een verblijfsvergunning onder de beperking ‘voorgezet verblijf’, indien de medische noodsituatie naar het oordeel van de Minister nog ten minste één jaar zal duren. De vreemdeling moet gedurende de gehele periode hebben voldaan aan de voorwaarden voor verlenging van de geldigheidsduur van de oorspronkelijke verblijfsvergunning.
 
-Een slachtoffer of getuige-aangever van mensenhandel aan wie voor de duur en in het belang van het strafproces tijdelijk verblijf in Nederland was toegestaan en die van oordeel is dat het verblijf dient te worden voortgezet om onaanvaardbare gevolgen bij terugzending te voorkomen, kan een beroep doen op [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52).
+### 7. Gronden voor intrekking en niet-verlenging
 
 Van de volgende categorieën slachtoffers kan de aanvraag om voortgezet verblijf, mits zich verder geen algemene weigeringsgrond voordoet, in ieder geval worden ingewilligd:
 
+Indien de aangifte of het op andere wijze verlenen van medewerking aan een strafzaak door het slachtoffer, terzake mensenhandel tot een veroordeling van de verdachte heeft geleid, wordt aangenomen dat terugkeer voor het slachtoffer risico’s met zich brengt.
+
 ### 7.1. Werkloosheid, ziekte en arbeidsongeschiktheid
 
-Ten aanzien van de strafzaak is van belang dat het slachtoffer medewerking heeft verleend aan de opsporing of vervolging van mensenhandel. Verder wordt opgemerkt dat een veroordeling op grond van één van de andere in de strafzaak ten laste gelegde misdrijven ook voldoende is, mits mensenhandel een onderdeel vormt van de tenlastelegging.
-
 Indien het slachtoffer een aanvraag doet om voortgezet verblijf kan deze om die reden worden ingewilligd. Hierbij is dan wel van belang dat de rechterlijke uitspraak in de strafzaak onherroepelijk is geworden doordat geen rechtsmiddel is aangewend tegen de uitspraak in eerste aanleg óf, indien wel een rechtsmiddel is aangewend, het Gerechtshof in hoger beroep uitspraak heeft gedaan.
+
+Om het recht op voortgezet verblijf niet geheel afhankelijk te maken van het verloop van de strafzaak zal, indien de strafzaak niet tot een veroordeling leidt, doch de uitspraak anders luidt, en er wel tenminste drie jaar is verstreken tussen de verlening van de verblijfsvergunning op grond van dit hoofdstuk en het in kracht van gewijsde gaan van de rechterlijke uitspraak, de verblijfsduur van het slachtoffer als belangrijkste humanitaire factor wegen. Hierbij is dan eveneens van belang dat de rechterlijke uitspraak in de strafzaak onherroepelijk is geworden doordat geen rechtsmiddel is aangewend tegen de uitspraak in eerste aanleg óf, indien wel een rechtsmiddel is aangewend, het Gerechtshof in hoger beroep uitspraak heeft gedaan.
 
 ### 19. Verblijf op religieuze of levensbeschouwelijke gronden
 
 ### 5.6. Arbeidsmarktaantekening
 
-De vreemdeling die onder één van de hierboven genoemde twee categorieën valt, is de eerst aangewezene om dit aan te tonen middels het overleggen van een afschrift van de rechterlijke uitspraak in de strafzaak.
-
 Indien de strafzaak is geseponeerd, er geen beklag is ingesteld, het beklag niet is gehonoreerd, of de zaak binnen drie jaar is geëindigd in vrijspraak kan het slachtoffer voortgezet verblijf aanvragen.
+
+In deze gevallen, wordt de aanvraag om voortgezet verblijf beoordeeld conform het hiernavolgend beleid.
 
 ### 5.7. Geldigheidsduur
 
 ### 6. Na verblijf op grond van het buitenschuldcriterium
-
-Bij de beoordeling van een dergelijke aanvraag kunnen de volgende factoren een belangrijke rol spelen:
 
 Indien een getuige-aangever aangifte heeft gedaan en de aangifte uiteindelijk heeft geleid tot een veroordeling van de verdachte(n), moet bij de beoordeling van het risico van represailles per geval bezien te worden of zwaar gewicht dient te worden toegekend aan deze veroordeling. Indien de veroordeling de conclusie rechtvaardigt dat in geval van de getuige-aangever bij terugkeer naar het land van herkomst gevaar voor represailles aanwezig is, kan hieraan doorslaggevende betekenis worden toegekend bij de belangenafweging op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52).
 
@@ -14865,9 +14863,9 @@ De hiervoor genoemde factoren zijn niet de enige factoren die van belang zijn vo
 
 Buiten de reeds genoemde factoren kan bijvoorbeeld gedacht worden aan psychische problemen waarvoor de vreemdeling in Nederland in behandeling is, de zorg die de vreemdeling heeft voor kinderen die in Nederland zijn geboren of een opleiding volgen, de positie van alleenstaande vrouwen in het land van herkomst. Hierbij is nog van belang dat, indien psychische of andere medische omstandigheden worden aangevoerd, dit slechts als onderdeel van de te wegen factoren kan worden meegenomen. Indien enkel een beroep wordt gedaan op medische omstandigheden dan ligt beoordeling in het kader van het beleid medische behandeling meer in de rede.
 
-### 7.1. Voortgezet Verblijf op grond van de Regeling nalatenschap oude Vw
+De vreemdeling geeft aan welke klemmende redenen van humanitaire aard naar zijn mening tot voortgezet verblijf dienen te leiden en onderbouwt het beroep met terzake relevante gegevens en bescheiden. Het is nadrukkelijk de eigen verantwoordelijkheid van de vreemdeling om bij het indienen van de aanvraag om voortgezet verblijf aan te geven welke factoren van belang zijn, en die met terzake relevante gegevens en bescheiden te onderbouwen. Hij is daartoe de meest gerede partij. Indien het beroep op klemmende redenen van humanitaire aard niet, of niet afdoende met terzake relevante gegevens en bescheiden is onderbouwd bij het indienen van de aanvraag om voortgezet verblijf, stelt de IND de vreemdeling in de gelegenheid dit gebrek te herstellen. In beginsel wordt de vreemdeling hiertoe een termijn van twee weken gegund. Bij de beoordeling van het beroep op klemmende redenen van humanitaire aard, wordt altijd een belangenafweging gemaakt, waarbij de belangen van de vreemdeling worden afgewogen tegen die van de Staat.
 
-Het slachtoffer dat drie jaar op basis van een verblijfsvergunning op grond van B9 in Nederland verblijft, kan ook indien er nog een strafzaak loopt voortgezet verblijf aanvragen. In die gevallen kan de aanvraag, mits zich verder geen algemene weigeringsgrond voordoet, in ieder geval worden ingewilligd.
+### 7.1. Voortgezet Verblijf op grond van de Regeling nalatenschap oude Vw
 
 Indien de Amv niet in aanmerking komt voor een verblijfsvergunning voor voortgezet verblijf op grond van [artikel 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51), kan op grond van klemmende redenen van humanitaire aard voortgezet verblijf worden toegestaan. Hierin voorziet [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52).
 
@@ -14879,39 +14877,41 @@ In afwijking van B1/4.2 en B1/4.3 wordt de aanvraag niet afgewezen op grond van 
 
 Het betreft hier met name vreemdelingen van wie de verblijfsvergunning asiel is ingetrokken, dan wel niet is verlengd, en aan wie vervolgens een verblijfsvergunning is verleend op grond van het bijzondere beleid inzake Amv’s. Indien deze vreemdelingen op het moment dat zij meerderjarig worden meer dan drie jaar op grond van een verblijfsvergunning in Nederland verblijven, maar nog geen drie jaar in het bezit zijn van laatstgenoemde verblijfsvergunning, kunnen zij niet op grond van [artikel 3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) in aanmerking komen voor voortgezet verblijf. Van deze vreemdelingen kan, in de geest van het bijzondere beleid inzake Amv’s, echter niet gevergd worden dat zij na meer dan drie jaar verblijf in Nederland op grond van een verblijfsvergunning Nederland alsnog verlaten. Daarom kan in deze zaken [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52) worden toegepast.
 
-Deze regeling treedt met terugwerkende kracht in werking op 17 oktober 2003. Dit is de datum waarop de brief van de Minister, waarin deze regeling wordt aangekondigd, aan de Tweede Kamer is aangeboden.
+Het betreft hier met name vreemdelingen van wie de verblijfsvergunning asiel is ingetrokken, dan wel niet is verlengd, en aan wie vervolgens een verblijfsvergunning is verleend op grond van het bijzondere beleid inzake Amv’s. Indien deze vreemdelingen op het moment dat zij meerderjarig worden meer dan drie jaar op grond van een verblijfsvergunning in Nederland verblijven, maar nog geen drie jaar in het bezit zijn van laatstgenoemde verblijfsvergunning, kunnen zij niet op grond van [artikel 3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) in aanmerking komen voor voortgezet verblijf. Van deze vreemdelingen kan, in de geest van het bijzondere beleid inzake Amv’s, echter niet gevergd worden dat zij na meer dan drie jaar verblijf in Nederland op grond van een verblijfsvergunning Nederland alsnog verlaten. Daarom kan in deze zaken [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52) worden toegepast.
 
 Een bijzondere categorie verblijfsvergunningen in verband met voortgezet verblijf wordt gevormd door de vergunningen die worden verleend op grond van de Regeling nalatenschap oude Vw.
+
+Op grond van [artikel 3.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) en artikel 17a, onder b, VV wordt de verblijfsvergunning onder de beperking ‘afwikkeling nalatenschap oude Vreemdelingenwet’ ambtshalve verleend (zie B14/5.4).
 
 ### 2. Procedureel
 
 In verband met het bijzondere karakter van de regeling is besloten dat aan de houder van een verblijfsvergunning onder deze beperking ten tijde van de eerste verlenging een verblijfsvergunning onder de beperking ‘Voortgezet Verblijf’ wordt verleend op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52). Dit houdt in dat de verblijfsvergunning regulier onder de beperking ‘afwikkeling nalatenschap oude Vreemdelingenwet’ – behoudens contra-indicaties – na één jaar ambtshalve wordt gewijzigd in een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘voortgezet verblijf na verblijf op grond van de Regeling afwikkeling nalatenschap oude Vreemdelingenwet’ op grond van de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) en [3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52) en [artikel 3.17a, onder c, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.17a).
 
-Indien binnen drie jaar na verblijfsaanvaarding aantoonbaar ondervonden (seksueel) geweld binnen de familie heeft geleid tot verbreking van de familierelatie, wordt hieraan in de belangenafweging een zwaar gewicht toegekend. Dit betekent dat, indien het ondervonden geweld binnen de familie is aangetoond, de vreemdeling in aanmerking komt voor voortgezet verblijf. Geweld, waaronder seksueel geweld, dat heeft geleid tot de feitelijke verbreking van de familierelatie, wordt aangetoond aan de hand van een proces-verbaal van de aangifte en een verklaring van een (vertrouwens)arts.
+De aard van de verblijfsvergunning onder de beperking ‘voortgezet verblijf’ brengt verder met zich dat de verblijfsvergunning niet wordt ingetrokken, en de aanvraag tot verlenging niet wordt afgewezen, indien de vreemdeling niet langer voldoet aan de voorwaarden van het bijzonder beleid op grond waarvan eerder verblijf was toegestaan.
 
 ### 10. Beperking en arbeidsmarktaantekening
 
-Dit laat echter onverlet dat onder toepassing van [artikel 18, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) de aanvraag om verlenging van de geldigheidsduur van de vergunning kan worden afgewezen als blijkt dat de vreemdeling onjuiste gegevens heeft verstrekt of gegevens heeft achtergehouden, terwijl die gegevens tot afwijzing van de oorspronkelijke aanvraag zouden hebben geleid. Op grond van [artikel 19 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) kan de vergunning om dezelfde reden worden ingetrokken.
+Voor wat betreft de geldigheidsduur zie [artikel 3.64 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.64) en B1/3.
 
 ### 9. Internationale verplichtingen
 
-Van de volgende categorieën slachtoffers kan de aanvraag om voortgezet verblijf, mits zich verder geen algemene weigeringsgrond voordoet, in ieder geval worden ingewilligd:
+Een aantal internationale verdragen, waarbij Nederland is aangesloten, kan gevolgen hebben voor het voortgezet verblijf van een vreemdeling in Nederland. Zie hiervoor B10 en B11. Indien de inmenging in het privé- en gezinsleven niet op grond van het tweede lid van artikel 8 EVRM is gerechtvaardigd, is verblijfsbeëindiging niet aan de orde en kan voortgezet verblijf op grond van artikel 8 EVRM worden aanvaard (zie B2/10).
 
 Een aantal internationale verdragen, waarbij Nederland is aangesloten, kan gevolgen hebben voor het voortgezet verblijf van een vreemdeling in Nederland. Zie hiervoor B10 en B11. Indien de inmenging in het privé- en gezinsleven niet op grond van het tweede lid van artikel 8 EVRM is gerechtvaardigd, is verblijfsbeëindiging niet aan de orde en kan voortgezet verblijf op grond van artikel 8 EVRM worden aanvaard (zie B2/10).
 
-Ten aanzien van de strafzaak is van belang dat het slachtoffer medewerking heeft verleend aan de opsporing of vervolging van mensenhandel. Verder wordt opgemerkt dat een veroordeling op grond van één van de andere in de strafzaak ten laste gelegde misdrijven ook voldoende is, mits mensenhandel een onderdeel vormt van de tenlastelegging.
-
 De verblijfsvergunning wordt verleend onder de beperking ‘voortgezet verblijf’.
+
+Indien de eerdere verblijfsvergunning was verleend onder de beperking ‘medische behandeling’ of ‘verblijf vanwege medische noodsituatie’ luidt de arbeidsmarktaantekening: ‘arbeid uitsluitend toegestaan indien werkgever beschikt over TWV’. In de overige gevallen luidt de arbeidsmarktaantekening: arbeid vrij toegestaan. TWV niet vereist’.
 
 ### 17. Verblijf als (economisch niet-actieve) langdurig ingezetene
 
 Bij deze grond tot inwilliging is doorslaggevend dat het slachtoffer drie jaar of langer heeft bijgedragen aan de opsporing of de vervolging én er een rechterlijke uitspraak is gedaan. In het geval de zaak eerder geseponeerd is geweest en de daadwerkelijke vervolging eerst na een beklag ter hand is genomen, telt de termijn van de beklagprocedure mee voor de berekening van de driejaren termijn.
 
-De vreemdeling die onder één van de hierboven genoemde twee categorieën valt, is de eerst aangewezene om dit aan te tonen middels het overleggen van een afschrift van de rechterlijke uitspraak in de strafzaak.
+In deze paragraaf worden de algemene voorwaarden behandeld voor de verlening van de verblijfsvergunning voor bepaalde tijd aan de houder van een, door een andere lidstaat afgegeven, EG-verblijfsvergunning als langdurig ingezetene.
 
 ### 2. Algemene voorwaarden
 
-De houder van een EG-verblijfsvergunning voor langdurig ingezetenen (zie B1/6.1) die door een andere lidstaat (de eerste lidstaat) is afgegeven heeft het recht om onder bepaalde voorwaarden, gedurende een periode van meer dan drie maanden te verblijven in Nederland (de tweede lidstaat) als werknemer of als zelfstandige, om een studie of beroepsopleiding te volgen, of om andere redenen, bijvoorbeeld als economisch niet-actieve.Hij kan hiertoe een verblijfsvergunning voor bepaalde tijd aanvragen.
+De specifieke voorwaarden per verblijfsdoel worden per materiehoofdstuk behandeld (voor arbeid zie B5/4.12 en B5/7.7.1, voor studie zie B6/2.1.1 en B6/3.1 en voor economisch niet-actieve zie B17). Voor zover in de materiehoofdstukken niets is opgenomen over langdurig ingezetenen, geldt dat zij aan alle terzake geldende specifieke voorwaarden dienen te voldoen, met uitzondering van het mvv-vereiste en het vereiste een onderzoek naar of behandeling van TBC aan de ademhalingsorganen te ondergaan.
 
 ### 3. De geldigheidsduur van de verblijfsvergunning voor bepaalde tijd
 
@@ -14931,7 +14931,7 @@ De houder van een EG-verblijfsvergunning voor langdurig ingezetenen (zie B1/6.1)
 
 ### 6. Na verblijf op grond van het buitenschuldcriterium
 
-In afwijking van B1/4.2 en B1/4.3 wordt de verblijfsvergunning ook verleend indien de vreemdeling:
+Op grond van [artikel 3.51, eerste lid, onder d, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) kan aan een vreemdeling aan wie verblijf is verleend omdat hij buiten zijn schuld niet uit Nederland kan vertrekken op aanvraag een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘voortgezet verblijf’ worden verleend, indien:
 
 ### 7. Klemmende redenen van humanitaire aard
 
@@ -14941,35 +14941,35 @@ In afwijking van B1/4.2 en B1/4.3 wordt de verblijfsvergunning ook verleend indi
 
 ### 5. Gezinshereniging
 
-Aan de hand van de door de vreemdeling overgelegde informatie omtrent factoren 1, 2 en 3 kan de IND zonodig een individueel ambtsbericht opvragen bij het Ministerie van BuZa.
+Van belang is de mate van worteling in de Nederlandse samenleving en de mogelijkheid om het familie- en gezinsleven elders voort te zetten.
 
 ### 5.2. Algemene voorwaarden
 
-Aan deze laatste factor wordt in de belangenafweging een zwaar gewicht toegekend. Dit betekent dat naast deze factor niet aan één van de andere factoren (nummers 1-4) dient te worden getoetst. Geweld, waaronder seksueel geweld dat heeft geleid tot de feitelijke verbreking van de (huwelijks)relatie, wordt aangetoond aan de hand van een proces-verbaal van de aangifte en een verklaring van een (vertrouwens)arts.
+In gevallen waarin het OM ambtshalve vervolging tegen de dader heeft ingesteld, dus zonder dat betrokkene aangifte van (seksueel) geweld heeft gedaan, kan geweld worden aangetoond door middel van een verklaring van het OM dan wel van de politie. Tevens is een verklaring van een (vertrouwens)arts vereist.
 
 ### 5.1. Inleiding
 
 ### 5.2. Algemene voorwaarden
 
-De vreemdeling die zich hierop beroept, geeft aan welke klemmende redenen van humanitaire aard naar zijn mening tot aanvaarding van zijn voortgezet verblijf dienen te leiden en onderbouwt zijn beroep met terzake relevante gegevens en bescheiden. Het is nadrukkelijk de eigen verantwoordelijkheid van de vreemdeling om bij het indienen van de aanvraag om voortgezet verblijf aan te geven dat er sprake is van een dergelijke combinatie van factoren, en die met terzake relevante gegevens en bescheiden te onderbouwen. Hij is daartoe de meest gerede partij. Indien het beroep op klemmende redenen van humanitaire aard niet of niet afdoende met terzake relevante gegevens en bescheiden is onderbouwd bij het indienen van de aanvraag om voortgezet verblijf, stelt de IND de vreemdeling in de gelegenheid dit gebrek te herstellen. In beginsel wordt de vreemdeling hiertoe een termijn van twee weken gegund. Bij de beoordeling van het beroep op klemmende redenen van humanitaire aard, wordt altijd een belangenafweging gemaakt, waarbij de belangen van de vreemdeling worden afgewogen tegen die van de staat.
+Indien binnen drie jaar na verblijfsaanvaarding aantoonbaar ondervonden (seksueel) geweld binnen de familie heeft geleid tot verbreking van de familierelatie, wordt hieraan in de belangenafweging een zwaar gewicht toegekend. Dit betekent dat, indien het ondervonden geweld binnen de familie is aangetoond, de vreemdeling in aanmerking komt voor voortgezet verblijf. Geweld, waaronder seksueel geweld, dat heeft geleid tot de feitelijke verbreking van de familierelatie, wordt aangetoond aan de hand van een proces-verbaal van de aangifte en een verklaring van een (vertrouwens)arts.
 
 ### 5.1. Overgangsrecht
 
-Na drie jaar verblijf als houder van een verblijfsvergunning onder de beperking ‘verblijf vanwege medische noodsituatie’ kan de vreemdeling op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52) een aanvraag doen voor een verblijfsvergunning onder de beperking ‘voorgezet verblijf’, indien de medische noodsituatie naar het oordeel van de Minister nog ten minste één jaar zal duren. De vreemdeling moet gedurende de gehele periode hebben voldaan aan de voorwaarden voor verlenging van de geldigheidsduur van de oorspronkelijke verblijfsvergunning.
+Een slachtoffer of getuige-aangever van mensenhandel aan wie voor de duur en in het belang van het strafproces tijdelijk verblijf in Nederland was toegestaan en die van oordeel is dat het verblijf dient te worden voortgezet om onaanvaardbare gevolgen bij terugzending te voorkomen, kan een beroep doen op [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52).
 
 ### 5.6. Arbeidsmarktaantekening
 
-Indien de aangifte of het op andere wijze verlenen van medewerking aan een strafzaak door het slachtoffer, terzake mensenhandel tot een veroordeling van de verdachte heeft geleid, wordt aangenomen dat terugkeer voor het slachtoffer risico’s met zich brengt.
+Ten aanzien van de strafzaak is van belang dat het slachtoffer medewerking heeft verleend aan de opsporing of vervolging van mensenhandel. Verder wordt opgemerkt dat een veroordeling op grond van één van de andere in de strafzaak ten laste gelegde misdrijven ook voldoende is, mits mensenhandel een onderdeel vormt van de tenlastelegging.
 
 ### 5.7. Geldigheidsduur
 
-Om het recht op voortgezet verblijf niet geheel afhankelijk te maken van het verloop van de strafzaak zal, indien de strafzaak niet tot een veroordeling leidt, doch de uitspraak anders luidt, en er wel tenminste drie jaar is verstreken tussen de verlening van de verblijfsvergunning op grond van dit hoofdstuk en het in kracht van gewijsde gaan van de rechterlijke uitspraak, de verblijfsduur van het slachtoffer als belangrijkste humanitaire factor wegen. Hierbij is dan eveneens van belang dat de rechterlijke uitspraak in de strafzaak onherroepelijk is geworden doordat geen rechtsmiddel is aangewend tegen de uitspraak in eerste aanleg óf, indien wel een rechtsmiddel is aangewend, het Gerechtshof in hoger beroep uitspraak heeft gedaan.
-
 Bij deze grond tot inwilliging is doorslaggevend dat het slachtoffer drie jaar of langer heeft bijgedragen aan de opsporing of de vervolging én er een rechterlijke uitspraak is gedaan. In het geval de zaak eerder geseponeerd is geweest en de daadwerkelijke vervolging eerst na een beklag ter hand is genomen, telt de termijn van de beklagprocedure mee voor de berekening van de driejaren termijn.
+
+De vreemdeling die onder één van de hierboven genoemde twee categorieën valt, is de eerst aangewezene om dit aan te tonen middels het overleggen van een afschrift van de rechterlijke uitspraak in de strafzaak.
 
 ### 5.8. overige algemene bepalingen
 
-Aanvragen om voortgezet verblijf na afloop van de B9-regeling van vreemdelingen die niet onder één van de twee hierboven genoemde categorieën vallen, waaronder slachtoffers mensenhandel wier aangifte of andersoortige medewerking niet tot een strafzaak dan wel rechterlijke uitspraak heeft geleid én getuige-aangevers van mensenhandel, kunnen alleen voor inwilliging in aanmerking komen indien naar het oordeel van de Minister wegens bijzondere individuele omstandigheden van de vreemdeling niet gevergd kan worden dat hij Nederland verlaat.
+Bij de beoordeling van een dergelijke aanvraag kunnen de volgende factoren een belangrijke rol spelen:
 
 ### 7.1. Voortgezet Verblijf op grond van de Regeling nalatenschap oude Vw
 
@@ -14979,9 +14979,9 @@ Aanvragen om voortgezet verblijf na afloop van de B9-regeling van vreemdelingen 
 
 ### 7.1. Voortgezet Verblijf op grond van de Regeling nalatenschap oude Vw
 
-De aard van de verblijfsvergunning onder de beperking ‘voortgezet verblijf’ brengt verder met zich dat de verblijfsvergunning niet wordt ingetrokken, en de aanvraag tot verlenging niet wordt afgewezen, indien de vreemdeling niet langer voldoet aan de voorwaarden van het bijzonder beleid op grond waarvan eerder verblijf was toegestaan.
+Dit laat echter onverlet dat onder toepassing van [artikel 18, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) de aanvraag om verlenging van de geldigheidsduur van de vergunning kan worden afgewezen als blijkt dat de vreemdeling onjuiste gegevens heeft verstrekt of gegevens heeft achtergehouden, terwijl die gegevens tot afwijzing van de oorspronkelijke aanvraag zouden hebben geleid. Op grond van [artikel 19 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) kan de vergunning om dezelfde reden worden ingetrokken.
 
-In deze paragraaf worden de algemene voorwaarden behandeld voor de verlening van de verblijfsvergunning voor bepaalde tijd aan de houder van een, door een andere lidstaat afgegeven, EG-verblijfsvergunning als langdurig ingezetene.
+De houder van een EG-verblijfsvergunning voor langdurig ingezetenen (zie B1/6.1) die door een andere lidstaat (de eerste lidstaat) is afgegeven heeft het recht om onder bepaalde voorwaarden, gedurende een periode van meer dan drie maanden te verblijven in Nederland (de tweede lidstaat) als werknemer of als zelfstandige, om een studie of beroepsopleiding te volgen, of om andere redenen, bijvoorbeeld als economisch niet-actieve.Hij kan hiertoe een verblijfsvergunning voor bepaalde tijd aanvragen.
 
 ### 2. Algemene voorwaarden
 
@@ -14989,37 +14989,37 @@ De in de andere (eerste) lidstaat verkregen status wordt derhalve niet direct om
 
 ### 1.1. Procedureel
 
-De vreemdeling die houder is van een door een andere lidstaat afgegeven EG-verblijfsvergunning voor langdurig ingezetenen en diens gezinslid zoals genoemd in B17/5 komt een vrije termijn toe van drie maanden (zie [artikel 3.3, eerste lid, onderdeel d, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.3) en [A2/4.4.7](onbekend)).
+Voor de behandeling van de aanvraag om een verblijfsvergunning voor bepaalde tijd, ingediend door een langdurig ingezetene of diens gezinslid zoals genoemd in B17/3, geldt een afwijkende beslistermijn van vier maanden (zie [artikel 25, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=25) en B1/9.7.3)
 
 ### 2. Algemene voorwaarden
 
-De vreemdeling geeft aan welke klemmende redenen van humanitaire aard naar zijn mening tot voortgezet verblijf dienen te leiden en onderbouwt het beroep met terzake relevante gegevens en bescheiden. Het is nadrukkelijk de eigen verantwoordelijkheid van de vreemdeling om bij het indienen van de aanvraag om voortgezet verblijf aan te geven welke factoren van belang zijn, en die met terzake relevante gegevens en bescheiden te onderbouwen. Hij is daartoe de meest gerede partij. Indien het beroep op klemmende redenen van humanitaire aard niet, of niet afdoende met terzake relevante gegevens en bescheiden is onderbouwd bij het indienen van de aanvraag om voortgezet verblijf, stelt de IND de vreemdeling in de gelegenheid dit gebrek te herstellen. In beginsel wordt de vreemdeling hiertoe een termijn van twee weken gegund. Bij de beoordeling van het beroep op klemmende redenen van humanitaire aard, wordt altijd een belangenafweging gemaakt, waarbij de belangen van de vreemdeling worden afgewogen tegen die van de Staat.
+De algemene voorwaarden waaronder de verblijfsvergunning voor bepaalde tijd onder daarmee verband houdende beperkingen wordt verleend hebben betrekking op:
 
 ### 2.1. Geldig document voor grensoverschrijding
 
-Indien de Amv niet in aanmerking komt voor een verblijfsvergunning voor voortgezet verblijf op grond van [artikel 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51), kan op grond van klemmende redenen van humanitaire aard voortgezet verblijf worden toegestaan. Hierin voorziet [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52).
+Indien de aanvraag plaatsvindt terwijl de langdurig ingezetene zich nog in een andere lidstaat bevindt (onverplichte aanvraag mvv), kan worden volstaan met overlegging van een afschrift van het geldige reisdocument, opdat nog in het bezit van het originele reisdocument kan worden gereisd. Er wordt daarbij niet verlangd dat de over te leggen afschriften gewaarmerkt zijn. De verificatie van het reisdocument vindt immers plaats bij gelegenheid van de indiening van de aanvraag tot het verlenen van de verblijfsvergunning (zie B1/4.2).
 
 ### 2.2. Middelen van bestaan
 
-Van de bevoegdheid om de vergunning in een dergelijk geval aldus te wijzigen zal geen gebruik worden gemaakt indien er een of meer van de algemene gronden voor weigering van toepassing zijn.
+De langdurig ingezetene dient bewijzen over te leggen waaruit blijkt dat hij beschikt over vaste en regelmatige inkomsten die voldoende zijn om zichzelf en zijn gezinsleden te onderhouden zonder een beroep te hoeven doen op het stelsel van sociale bijstand van de betrokken lidstaat. Hierbij wordt aangesloten bij de bestaande invulling van het middelenvereiste zoals dat reeds bij aanvragen om gezinshereniging, niet zijnde gezinsvorming, wordt gehanteerd (zie B1/2.2.2).
 
 De langdurig ingezetene dient bewijzen over te leggen waaruit blijkt dat hij beschikt over vaste en regelmatige inkomsten die voldoende zijn om zichzelf en zijn gezinsleden te onderhouden zonder een beroep te hoeven doen op het stelsel van sociale bijstand van de betrokken lidstaat. Hierbij wordt aangesloten bij de bestaande invulling van het middelenvereiste zoals dat reeds bij aanvragen om gezinshereniging, niet zijnde gezinsvorming, wordt gehanteerd (zie B1/2.2.2).
 
-Het betreft hier met name vreemdelingen van wie de verblijfsvergunning asiel is ingetrokken, dan wel niet is verlengd, en aan wie vervolgens een verblijfsvergunning is verleend op grond van het bijzondere beleid inzake Amv’s. Indien deze vreemdelingen op het moment dat zij meerderjarig worden meer dan drie jaar op grond van een verblijfsvergunning in Nederland verblijven, maar nog geen drie jaar in het bezit zijn van laatstgenoemde verblijfsvergunning, kunnen zij niet op grond van [artikel 3.51 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) in aanmerking komen voor voortgezet verblijf. Van deze vreemdelingen kan, in de geest van het bijzondere beleid inzake Amv’s, echter niet gevergd worden dat zij na meer dan drie jaar verblijf in Nederland op grond van een verblijfsvergunning Nederland alsnog verlaten. Daarom kan in deze zaken [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52) worden toegepast.
-
 Ingevolge [artikel 3.77, vijfde en zesde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.77) wordt bij de toepassing van [artikel 3.77, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.77) mede rekening gehouden met de ernst van de inbreuk of het soort van inbreuk die door de langdurig ingezetene of diens gezinslid op de openbare orde is gepleegd, respectievelijk met het gevaar dat van de langdurig ingezetene of diens gezinslid uitgaat.
 
-### 2.4. Aantonen verblijfstatus eerste lidstaat
+Voorts wordt rekening gehouden met de leeftijd van de vreemdeling, de gevolgen voor de vreemdeling en de leden van zijn gezin, het bestaan van banden met Nederland dan wel het ontbreken van banden met het land van herkomst.
 
-Op grond van [artikel 3.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) en artikel 17a, onder b, VV wordt de verblijfsvergunning onder de beperking ‘afwikkeling nalatenschap oude Vreemdelingenwet’ ambtshalve verleend (zie B14/5.4).
+### 2.4. Aantonen verblijfstatus eerste lidstaat
 
 De langdurig ingezetene dient een afschrift over te leggen van de aan hem door de andere lidstaat afgeven EG-verblijfsvergunning voor langdurig ingezetenen.
 
 Voor een overzicht waarop de equivalenten in alle EU-talen van de aantekening ‘EG-langdurig ingezetene’ zijn vermeld wordt verwezen naar de website van de IND.
 
+Voor een overzicht waarop de equivalenten in alle EU-talen van de aantekening ‘EG-langdurig ingezetene’ zijn vermeld wordt verwezen naar de website van de IND.
+
 De aard van de verblijfsvergunning onder de beperking ‘voortgezet verblijf’ brengt verder met zich dat de verblijfsvergunning niet wordt ingetrokken, en de aanvraag tot verlenging niet wordt afgewezen, indien de vreemdeling niet langer voldoet aan de voorwaarden van het bijzonder beleid op grond waarvan eerder verblijf was toegestaan.
 
-Dit laat echter onverlet dat onder toepassing van [artikel 18, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) de aanvraag om verlenging van de geldigheidsduur van de vergunning kan worden afgewezen als blijkt dat de vreemdeling onjuiste gegevens heeft verstrekt of gegevens heeft achtergehouden, terwijl die gegevens tot afwijzing van de oorspronkelijke aanvraag zouden hebben geleid. Op grond van [artikel 19 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) kan de vergunning om dezelfde reden worden ingetrokken.
+Voor de verblijfsvergunning als economisch niet-actieve geldt, in afwijking van het gestelde onder B17/2.2 het volgende.
 
 ### 2.2. Middelen van bestaan
 
@@ -15037,31 +15037,31 @@ De langdurig ingezetene dient een afschrift over te leggen van de aan hem door d
 
 De verblijfsvergunning wordt niet verleend aan de ongehuwde partner of het kind van die partner, indien de relatie van die partner met de langdurig ingezetene niet duurzaam is of niet naar behoren is geattesteerd.
 
-In deze paragraaf worden de algemene voorwaarden behandeld voor de verlening van de verblijfsvergunning voor bepaalde tijd aan de houder van een, door een andere lidstaat afgegeven, EG-verblijfsvergunning als langdurig ingezetene.
+Aan de vergunning wordt als voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
 ### 5. Gezinshereniging
 
 De specifieke voorwaarden per verblijfsdoel worden per materiehoofdstuk behandeld (voor arbeid zie B5/4.12 en B5/7.7.1, voor studie zie B6/2.1.1 en B6/3.1 en voor economisch niet-actieve zie B17). Voor zover in de materiehoofdstukken niets is opgenomen over langdurig ingezetenen, geldt dat zij aan alle terzake geldende specifieke voorwaarden dienen te voldoen, met uitzondering van het mvv-vereiste en het vereiste een onderzoek naar of behandeling van TBC aan de ademhalingsorganen te ondergaan.
 
-De in de andere (eerste) lidstaat verkregen status wordt derhalve niet direct omgezet in een Nederlandse verblijfsvergunning voor onbepaalde tijd. Daarvoor is vereist dat de langdurig ingezetene uit een andere lidstaat vijf jaar op grond van een verblijfsvergunning voor bepaalde tijd in Nederland (tweede lidstaat) heeft verbleven en ook aan de overige voorwaarden voor verlening van de verblijfsvergunning voor onbepaalde tijd voldoet (zie B1/6).
+De verblijfsvergunning wordt niet verleend aan de ongehuwde partner of het kind van die partner, indien de relatie van die partner met de langdurig ingezetene niet duurzaam is of niet naar behoren is geattesteerd.
 
 ### 1.1. Procedureel
 
 Dit wordt onder meer aangenomen als uit een recent bewijs van inschrijving in het bevolkingsregister van de betreffende EU-lidstaat niet van inschrijving op hetzelfde adres blijkt.
 
-Voor de behandeling van de aanvraag om een verblijfsvergunning voor bepaalde tijd, ingediend door een langdurig ingezetene of diens gezinslid zoals genoemd in B17/3, geldt een afwijkende beslistermijn van vier maanden (zie [artikel 25, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=25) en B1/9.7.3)
+De algemene voorwaarden en bepalingen voor zover deze afwijken van de in B17/2 genoemde bepalingen hebben betrekking op:
 
-### 2. Algemene voorwaarden
-
-De algemene voorwaarden waaronder de verblijfsvergunning voor bepaalde tijd onder daarmee verband houdende beperkingen wordt verleend hebben betrekking op:
+### 5.3. Verblijfstatus in eerste lidstaat
 
 Het betreft hier het gezinslid dat in een andere staat die partij is bij het EG-verdrag is toegelaten als gezinslid van de langdurig ingezetene.
 
-### 5.4. Middelen van bestaan
+Verblijf onder deze beperking wordt slechts verleend aan bovenstaande gezinsleden die reeds in de eerste lidstaat bij de langdurig ingezetene verbleven. Op andere aanvragen, bijvoorbeeld om gezinsvorming of om verruimde gezinshereniging met andere familieleden dan de onder B17/5.1 genoemde meerderjarige kinderen zijn de algemene regels (zie [artikelen 3.13 tot en met 3.28 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.13) en B2) van toepassing. Ook indien het gezin in de andere lidstaat nog niet was gevormd zijn de algemene regels van B2 van toepassing.
 
 ### 5.4. Middelen van bestaan
 
-Het gezinslid als genoemd in [artikel 3.23a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.23a) dient al dan niet tezamen met de langdurig ingezetene duurzaam en zelfstandig te beschikken over een netto-inkomen als bedoeld in [artikel 3.74, onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.74);
+### 5.4. Middelen van bestaan
+
+Het gezinslid dient hiertoe bewijs over te leggen dat de langdurig ingezetene financieel in staat is hem te onderhouden of dat hij zelf duurzaam en zelfstandig beschikt over inkomsten die voldoende zijn om zichzelf te onderhouden zonder een beroep te hoeven doen op het stelsel van sociale bijstand. Hierbij wordt aangesloten bij de invulling van het middelenvereiste zoals dat in B2 wordt gehanteerd.
 
 Het gezinslid dient hiertoe bewijs over te leggen dat de langdurig ingezetene financieel in staat is hem te onderhouden of dat hij zelf duurzaam en zelfstandig beschikt over inkomsten die voldoende zijn om zichzelf te onderhouden zonder een beroep te hoeven doen op het stelsel van sociale bijstand. Hierbij wordt aangesloten bij de invulling van het middelenvereiste zoals dat in B2 wordt gehanteerd.
 
@@ -15071,15 +15071,15 @@ Het gezinslid dient hiertoe bewijs over te leggen dat de langdurig ingezetene fi
 
 Indien het een minderjarig kind betreft, wordt de verblijfsvergunning verleend onder de beperking ‘verblijf bij ….(naam ouder(s))’.
 
-De langdurig ingezetene dient een afschrift over te leggen van de aan hem door de andere lidstaat afgeven EG-verblijfsvergunning voor langdurig ingezetenen.
-
 Op het document wordt aangetekend ‘Arbeid toegestaan, TWV alleen gedurende eerste twaalf maanden vereist’.
+
+Verder wordt op het document de aantekening ‘beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht’ gesteld.
 
 Verder wordt op het document de aantekening ‘beroep op de publieke middelen kan gevolgen hebben voor het verblijfsrecht’ gesteld.
 
 ### 5.7. Geldigheidsduur
 
-De verblijfsvergunning van de echtgeno(o)t(e) van de langdurig ingezetene met rechtmatig verblijf in de zin van [artikel 8, onder a, b dan wel l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en het minderjarige kind van de echtgeno(o)t(e) of de langdurig ingezetene, wordt op grond van [artikel 3.67, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.67), in afwijking van [artikel 3.57 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57), verleend en verlengd met een geldigheidsduur die gelijk is aan de duur van de vergunning van de langdurig ingezetene.
+De geregistreerde partner dan wel ongehuwde partner van de langdurig ingezetene en het kind van die partner worden daarbij gelijk gesteld met de echtgeno(o)t(e) dan wel het kind van die echtgeno(o)t(e).
 
 De geregistreerde partner dan wel ongehuwde partner van de langdurig ingezetene en het kind van die partner worden daarbij gelijk gesteld met de echtgeno(o)t(e) dan wel het kind van die echtgeno(o)t(e).
 
@@ -15089,11 +15089,11 @@ De overige algemene bepalingen van B17/4 zijn van overeenkomstige toepassing
 
 In de volgende gevallen dient Nederland als tweede lidstaat, de (eerste) lidstaat, die de EG-status langdurig ingezetene aan de vreemdeling heeft verleend, te informeren:
 
-In de volgende gevallen dient Nederland als tweede lidstaat, de (eerste) lidstaat, die de EG-status langdurig ingezetene aan de vreemdeling heeft verleend, te informeren:
-
 Indien Nederland als tweede lidstaat een verblijfsvergunning voor bepaalde tijd verleent, (niet) verlengt of intrekt van een vreemdeling die de status van langdurig ingezetene in een andere (eerste) lidstaat heeft verkregen, dient deze eerste lidstaat hiervan in kennis te worden gesteld (zie [artikel 3.103a, eerste en tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.103) en B1/9.4). In het geval Nederland als tweede lidstaat een verblijfsvergunning voor bepaalde tijd niet verlengt of intrekt, dient aan de eerste lidstaat tevens informatie te worden verstrekt betreffende het verwijderingsbesluit. De eerste lidstaat is verplicht de langdurig ingezetene terug te nemen.
 
 Indien de houder van EG-verblijfsvergunning voor langdurig ingezetene die door een andere lidstaat (de eerste lidstaat) is afgegeven, na vijf jaar de status van langdurig ingezetene in Nederland heeft verkregen (zie B1/6) dient de eerste lidstaat hiervan in kennis te worden gesteld (zie [artikel 3.103a, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.103a) en B1/9.7.7.4);
+
+De Minister kan (als tweede lidstaat) om ernstige redenen in verband met de openbare orde of de nationale veiligheid besluiten om de vreemdeling die houder is van een EG-status als langdurig ingezetene, die is afgegeven door een andere EU-lidstaat, uit te zetten naar een staat buiten het grondgebied van de EU. Van zodanige redenen is sprake indien de vreemdeling een actuele en ernstige bedreiging voor de openbare orde of de nationale veiligheid vormt (zie [artikel 22 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=22) en B1/8.3). Hiertoe moet de Minister ingevolge [artikel 3.103a, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.103a) de autoriteiten van de eerste lidstaat raadplegen. Indien de Minister dienovereenkomstig besluit uit te zetten, wordt alle noodzakelijke informatie met betrekking tot de uitzetting aan de betreffende lidstaat verstrekt zodat de eerste lidstaat de status van langdurig ingezetene kan intrekken of de vreemdeling terugneemt.
 
 ### 4.2. Voorschrift
 
@@ -15101,11 +15101,11 @@ Indien de autoriteiten van de tweede lidstaat bereid zijn de betrokken vreemdeli
 
 In de in deze paragraaf genoemde gevallen zal het koppelingsbureau van de IND fungeren als contactpunt voor het verstrekken en ontvangen van informatie.
 
-### 5.1. Inleiding
+### 18. Verblijf als onderzoeker in de zin van Richtlijn 2005/71
 
 De verblijfsvergunning wordt niet verleend aan de ongehuwde partner of het kind van die partner, indien de relatie van die partner met de langdurig ingezetene niet duurzaam is of niet naar behoren is geattesteerd.
 
-### 1. Inleiding
+### 2. Procedureel
 
 De toelatingsaanvragen kunnen worden ingediend door de onderzoekers, al dan niet door tussenkomst van de onderzoeksinstellingen (zie artikel 14 Richtlijn 2005/71). Erkende onderzoeksinstellingen kunnen gebruik maken van een versnelde toelatingsprocedure.
 
@@ -15113,17 +15113,17 @@ De toelatingsaanvragen kunnen worden ingediend door de onderzoekers, al dan niet
 
 Erkende onderzoeksinstellingen komen in aanmerking voor de versnelde procedure. Dit betekent dat de IND in de regel binnen twee weken na ontvangst van een verzoek om advies of een aanvraag tot het verlenen van een verblijfsvergunning zal beslissen, mits het verzoek of de aanvraag op de voorgeschreven wijze is ingediend, is voorzien van alle vereiste stukken en geen nader onderzoek is vereist. In enkele hierna te noemen gevallen is de behandeltermijn van twee weken niet van toepassing.
 
-Erkende onderzoeksinstellingen komen in aanmerking voor de versnelde procedure. Dit betekent dat de IND in de regel binnen twee weken na ontvangst van een verzoek om advies of een aanvraag tot het verlenen van een verblijfsvergunning zal beslissen, mits het verzoek of de aanvraag op de voorgeschreven wijze is ingediend, is voorzien van alle vereiste stukken en geen nader onderzoek is vereist. In enkele hierna te noemen gevallen is de behandeltermijn van twee weken niet van toepassing.
+Nadat het Loket kennis- en arbeidsmigratie het registratieformulier heeft ontvangen en – indien noodzakelijk – de onderzoeksinstelling heeft erkend, wordt hiervan bericht gestuurd aan de onderzoeksinstelling en worden de aanvraagformulieren beschikbaar gesteld.
 
 ### 2.1.1. Erkenning van de onderzoeksinstelling
 
 Toelating in het kader van onderzoek kan ingevolge de richtlijn alleen plaatsvinden bij vooraf erkende onderzoeksinstellingen. Dit vereiste wordt gesteld om de kwaliteit van de ontvangende onderzoeksinstellingen te waarborgen. Een onderzoeksinstelling in de zin van de richtlijn kan zowel publiek als particulier zijn.
 
-Toelating in het kader van onderzoek kan ingevolge de richtlijn alleen plaatsvinden bij vooraf erkende onderzoeksinstellingen. Dit vereiste wordt gesteld om de kwaliteit van de ontvangende onderzoeksinstellingen te waarborgen. Een onderzoeksinstelling in de zin van de richtlijn kan zowel publiek als particulier zijn.
+Bij [artikel 3.18b VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.18b) zijn als erkende onderzoeksinstellingen aangewezen:
 
 ### 6. Voorschriften
 
-De Nederlandse Onderzoek Databank is een openbare online databank met informatie over wetenschappelijk onderzoek, onderzoekers en onderzoekinstituten. De Nederlandse Onderzoek Databank bestrijkt alle wetenschappelijke disciplines en beoordeelt of een project daadwerkelijk valt onder de term wetenschappelijk onderzoek. Bij deze beoordeling wordt door de IND aangesloten.
+Op basis van deze wet hoeft voor werknemers die wetenschappelijk onderzoek doen of nieuwe producten, processen of programmatuur ontwikkelen, minder loonbelasting te worden afgedragen. Teneinde erkend te worden als private onderzoeksinstelling dient de instelling een Speur en Ontwikkelingswerk verklaring te overleggen waaruit blijkt dat met succes een beroep is gedaan op de hier bedoelde regeling.
 
 ### 5.1. Overgangsrecht
 
@@ -15143,7 +15143,7 @@ De Nederlandse Onderzoek Databank is een openbare online databank met informatie
 
 ### 6. In kennis stellen eerste lidstaat
 
-De vreemdeling geeft aan welke klemmende redenen van humanitaire aard naar zijn mening tot voortgezet verblijf dienen te leiden en onderbouwt het beroep met terzake relevante gegevens en bescheiden. Het is nadrukkelijk de eigen verantwoordelijkheid van de vreemdeling om bij het indienen van de aanvraag om voortgezet verblijf aan te geven welke factoren van belang zijn, en die met terzake relevante gegevens en bescheiden te onderbouwen. Hij is daartoe de meest gerede partij. Indien het beroep op klemmende redenen van humanitaire aard niet, of niet afdoende met terzake relevante gegevens en bescheiden is onderbouwd bij het indienen van de aanvraag om voortgezet verblijf, stelt de IND de vreemdeling in de gelegenheid dit gebrek te herstellen. In beginsel wordt de vreemdeling hiertoe een termijn van twee weken gegund. Bij de beoordeling van het beroep op klemmende redenen van humanitaire aard, wordt altijd een belangenafweging gemaakt, waarbij de belangen van de vreemdeling worden afgewogen tegen die van de Staat.
+Het slachtoffer dat drie jaar op basis van een verblijfsvergunning op grond van B9 in Nederland verblijft, kan ook indien er nog een strafzaak loopt voortgezet verblijf aanvragen. In die gevallen kan de aanvraag, mits zich verder geen algemene weigeringsgrond voordoet, in ieder geval worden ingewilligd.
 
 ### 6.1. Contactpunt IND
 
@@ -15153,7 +15153,7 @@ De vreemdeling geeft aan welke klemmende redenen van humanitaire aard naar zijn 
 
 ### 8. Geldigheid en rechtspositie
 
-Indien een getuige-aangever aangifte heeft gedaan en de aangifte uiteindelijk heeft geleid tot een veroordeling van de verdachte(n), moet bij de beoordeling van het risico van represailles per geval bezien te worden of zwaar gewicht dient te worden toegekend aan deze veroordeling. Indien de veroordeling de conclusie rechtvaardigt dat in geval van de getuige-aangever bij terugkeer naar het land van herkomst gevaar voor represailles aanwezig is, kan hieraan doorslaggevende betekenis worden toegekend bij de belangenafweging op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52).
+De vreemdeling die houder is van een door een andere lidstaat afgegeven EG-verblijfsvergunning voor langdurig ingezetenen en diens gezinslid zoals genoemd in B17/5 komt een vrije termijn toe van drie maanden (zie [artikel 3.3, eerste lid, onderdeel d, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.3) en [A2/4.4.7](onbekend)).
 
 Voor de behandeling van de aanvraag om een verblijfsvergunning voor bepaalde tijd, ingediend door een langdurig ingezetene of diens gezinslid zoals genoemd in B17/3, geldt een afwijkende beslistermijn van vier maanden (zie [artikel 25, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=25) en B1/9.7.3)
 
@@ -15171,17 +15171,17 @@ Indien de aanvraag plaatsvindt terwijl de langdurig ingezetene zich nog in een a
 
 ### 3.1. Middelen van bestaan
 
-Voor de verblijfsvergunning als economisch niet-actieve geldt, in afwijking van het gestelde onder B17/2.2 het volgende.
+De economisch niet-actieve langdurig ingezetene dient duurzaam en zelfstandig over de middelen van bestaan te beschikken. De bron waaruit deze middelen komen (erfenis, alimentatie, onroerend goed, arbeid buiten Nederland, een uitkering, pensioen, etcetera) is niet van belang, mits de langdurig ingezetene de vrije beschikking heeft over vaste en regelmatige inkomsten, of het recht op (periodieke) uitkering ervan, die voldoende zijn om zichzelf en zijn gezinsleden te onderhouden zonder een beroep te doen op het stelsel van sociale bijstand. Hierbij wordt aangesloten bij de bestaande invulling van het middelenvereiste zoals dat reeds bij aanvragen om gezinshereniging, niet zijnde gezinsvorming wordt gehanteerd. Voor wat betreft de wijze waarop de inkomsten dienen te worden aangetoond wordt verwezen naar B1/4.3.1.
 
-Een aantal internationale verdragen, waarbij Nederland is aangesloten, kan gevolgen hebben voor het voortgezet verblijf van een vreemdeling in Nederland. Zie hiervoor B10 en B11. Indien de inmenging in het privé- en gezinsleven niet op grond van het tweede lid van artikel 8 EVRM is gerechtvaardigd, is verblijfsbeëindiging niet aan de orde en kan voortgezet verblijf op grond van artikel 8 EVRM worden aanvaard (zie B2/10).
+De verblijfsvergunning wordt verleend onder de beperking: ‘verblijf als economisch niet-actieve langdurig ingezetene’.
 
-De verblijfsvergunning wordt verleend onder de beperking ‘voortgezet verblijf’.
+Op het document wordt aangetekend ‘Arbeid toegestaan, TWV alleen gedurende eerste twaalf maanden vereist’.
 
 ### 4. Overige algemene bepalingen
 
-### 4.1. Vrijstellingen
+### 4.2. Voorschrift
 
-De verblijfsvergunning wordt niet verleend aan de ongehuwde partner of het kind van die partner, indien de relatie van die partner met de langdurig ingezetene niet duurzaam is of niet naar behoren is geattesteerd.
+Dit wordt onder meer aangenomen als uit een recent bewijs van inschrijving in het bevolkingsregister van de betreffende EU-lidstaat niet van inschrijving op hetzelfde adres blijkt.
 
 ### 5.2. Algemene voorwaarden
 
@@ -15195,41 +15195,41 @@ Het gezinslid als genoemd in [artikel 3.23a Vb](https://wetten.overheid.nl/jci1.
 
 ### 5.6. Arbeidsmarktaantekening
 
-Ingevolge [artikel 3.77, vijfde en zesde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.77) wordt bij de toepassing van [artikel 3.77, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.77) mede rekening gehouden met de ernst van de inbreuk of het soort van inbreuk die door de langdurig ingezetene of diens gezinslid op de openbare orde is gepleegd, respectievelijk met het gevaar dat van de langdurig ingezetene of diens gezinslid uitgaat.
+De verblijfsvergunning wordt, indien het de echtgeno(o)t(e) of (geregistreerd) partner betreft, verleend onder de beperking: ‘Verblijf bij echtgeno(o)t(e)/(geregistreerd) partner/ouder (naam).’
 
-### 2.4. Aantonen verblijfstatus eerste lidstaat
+### 5.6. Arbeidsmarktaantekening
 
-### 3. Specifieke voorwaarde en bepalingen economisch niet-actieve
+### 5.7. Geldigheidsduur
 
 ### 6. In kennis stellen eerste lidstaat
 
-De Minister kan (als tweede lidstaat) om ernstige redenen in verband met de openbare orde of de nationale veiligheid besluiten om de vreemdeling die houder is van een EG-status als langdurig ingezetene, die is afgegeven door een andere EU-lidstaat, uit te zetten naar een staat buiten het grondgebied van de EU. Van zodanige redenen is sprake indien de vreemdeling een actuele en ernstige bedreiging voor de openbare orde of de nationale veiligheid vormt (zie [artikel 22 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=22) en B1/8.3). Hiertoe moet de Minister ingevolge [artikel 3.103a, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.103a) de autoriteiten van de eerste lidstaat raadplegen. Indien de Minister dienovereenkomstig besluit uit te zetten, wordt alle noodzakelijke informatie met betrekking tot de uitzetting aan de betreffende lidstaat verstrekt zodat de eerste lidstaat de status van langdurig ingezetene kan intrekken of de vreemdeling terugneemt.
+Indien de autoriteiten van de tweede lidstaat bereid zijn de betrokken vreemdeling tot hun grondgebied toe te laten, kan Nederland volstaan met de minder ingrijpende maatregel van intrekking van de (Nederlandse) verblijfsvergunning regulier voor bepaalde tijd met toepassing van de waarborgen van artikel 17 van richtlijn 2003/109 en met verwijdering van de vreemdeling naar die (eerste) lidstaat in plaats van het land van herkomst. Vorenstaande laat onverlet dat de eerste lidstaat, ook na terugname, kan besluiten de vreemdeling alsnog te verwijderen naar het land van herkomst (na de status van langdurig ingezetene te hebben ingetrokken).
 
 In de in deze paragraaf genoemde gevallen zal het koppelingsbureau van de IND fungeren als contactpunt voor het verstrekken en ontvangen van informatie.
 
 ### 2.1. Versnelde toelatingsprocedure
 
-Bij [artikel 3.18b VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.18b) zijn als erkende onderzoeksinstellingen aangewezen:
+De Nederlandse Onderzoek Databank is een openbare online databank met informatie over wetenschappelijk onderzoek, onderzoekers en onderzoekinstituten. De Nederlandse Onderzoek Databank bestrijkt alle wetenschappelijke disciplines en beoordeelt of een project daadwerkelijk valt onder de term wetenschappelijk onderzoek. Bij deze beoordeling wordt door de IND aangesloten.
 
 ### 2.2. Verzoek om advies
 
-Indien het een minderjarig kind betreft, wordt de verblijfsvergunning verleend onder de beperking ‘verblijf bij ….(naam ouder(s))’.
-
 De toelatingsprocedure met betrekking tot onderzoekers in de zin van Richtlijn 2005/71 is bij uitstek een referentprocedure.
+
+Het aanvraagformulier ‘Verzoek om advies in verband met afgifte mvv onderzoeker in de zin van Richtlijn 2005/71’ dat gebruikt dient te worden voor de aanvragen in het kader van verblijf bij/als onderzoeker in de zin van Richtlijn 2005/71, wordt door het Hoofd IND vastgesteld en wordt alleen elektronisch door de IND ter beschikking gesteld.
 
 ### 2.1. Versnelde toelatingsprocedure
 
-De onderzoeksinstelling vult het formulier in en verzendt het ingevulde en ondertekende formulier (de printversie), vergezeld van de vereiste stukken, per post naar het loket kennis- en arbeidsmigratie van de IND.
+De onderzoeksinstelling kan namens de gezinsleden, te weten de echtgeno(o)te of (geregistreerd) partner van de onderzoeker en hun minderjarige kinderen, die verblijf in Nederland bij de onderzoeker beogen, verzoeken om afgifte van een mvv. Ten behoeve van deze gezinsleden dient gebruik te worden gemaakt van de formulieren ‘Verzoek om advies in verband met afgifte mvv gezinsleden van onderzoeker in de zin van Richtlijn 2005/71’. De onderzoeksinstelling kan alleen ten behoeve van de echtgeno(o)t(e) of (geregistreerde) partner, alsmede ten behoeve van de minderjarige kinderen die feitelijk behoren tot het gezin, een verzoek om advies indienen. De algemene bepalingen van B1/4 en B2/2, B2/4 en B2/5 zijn van toepassing, tenzij navolgend anders is bepaald.
 
 ### 4.3. Middelen van bestaan
 
 ### 1.2. Partijen bij het EG-Verdrag en het EU-Verdrag
 
-De vreemdeling die zich hierop beroept, geeft aan welke klemmende redenen van humanitaire aard naar zijn mening tot aanvaarding van zijn voortgezet verblijf dienen te leiden en onderbouwt zijn beroep met ter zake relevante gegevens en bescheiden. Het is nadrukkelijk de eigen verantwoordelijkheid van de vreemdeling om bij het indienen van de aanvraag om voortgezet verblijf aan te geven dat er sprake is van een dergelijke combinatie van factoren, en die met ter zake relevante gegevens en bescheiden te onderbouwen. Hij is daartoe de meest gerede partij. Indien het beroep op klemmende redenen van humanitaire aard niet of niet afdoende met terzake relevante gegevens en bescheiden is onderbouwd bij het indienen van de aanvraag om voortgezet verblijf, stelt de IND de vreemdeling in de gelegenheid dit gebrek te herstellen. In beginsel wordt de vreemdeling hiertoe een termijn van twee weken gegund. Bij de beoordeling van het beroep op klemmende redenen van humanitaire aard, wordt altijd een belangenafweging gemaakt, waarbij de belangen van de vreemdeling worden afgewogen tegen die van de staat.
+Bij de beoordeling wordt in voorkomende gevallen rekening gehouden met de situatie van vreemdelingen en hun eventuele kinderen, die tegen hun wil en zonder identiteits- en verblijfsdocumenten in het land van herkomst zijn achtergelaten (zie ten aanzien hiervan tevens B1/5.1, B1/5.3.2, en B16/7).
 
-In deze gevallen, wordt de aanvraag om voortgezet verblijf beoordeeld conform het hiernavolgend beleid.
+Aanvragen om voortgezet verblijf na afloop van de B9-regeling van vreemdelingen die niet onder één van de twee hierboven genoemde categorieën vallen, waaronder slachtoffers mensenhandel wier aangifte of andersoortige medewerking niet tot een strafzaak dan wel rechterlijke uitspraak heeft geleid én getuige-aangevers van mensenhandel, kunnen alleen voor inwilliging in aanmerking komen indien naar het oordeel van de Minister wegens bijzondere individuele omstandigheden van de vreemdeling niet gevergd kan worden dat hij Nederland verlaat.
 
-Op grond van [artikel 3.6 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) en artikel 17a, onder b, VV wordt de verblijfsvergunning onder de beperking ‘afwikkeling nalatenschap oude Vreemdelingenwet’ ambtshalve verleend (zie B14/5.4).
+In verband met het bijzondere karakter van de regeling is besloten dat aan de houder van een verblijfsvergunning onder deze beperking ten tijde van de eerste verlenging een verblijfsvergunning onder de beperking ‘Voortgezet Verblijf’ wordt verleend op grond van [artikel 3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52). Dit houdt in dat de verblijfsvergunning regulier onder de beperking ‘afwikkeling nalatenschap oude Vreemdelingenwet’ – behoudens contra-indicaties – na één jaar ambtshalve wordt gewijzigd in een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘voortgezet verblijf na verblijf op grond van de Regeling afwikkeling nalatenschap oude Vreemdelingenwet’ op grond van de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6) en [3.52 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.52) en [artikel 3.17a, onder c, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.17a).
 
 ### 8. Geldigheid en rechtspositie
 
@@ -15241,15 +15241,15 @@ Voorts wordt rekening gehouden met de leeftijd van de vreemdeling, de gevolgen v
 
 ### 2.4. Aantonen verblijfstatus eerste lidstaat
 
-### 8. Geldigheid en rechtspositie
+### 3. Specifieke voorwaarde en bepalingen economisch niet-actieve
 
-### 9. Internationale verplichtingen
+### 3.2. Beperking
 
-### 10. Beperking en arbeidsmarktaantekening
+### 3.3. Arbeidsmarktaantekening
 
-### 2.3. Openbare orde en nationale veiligheid
+### 5.5. Beperking
 
-De verblijfsvergunning wordt, indien het de echtgeno(o)t(e) of (geregistreerd) partner betreft, verleend onder de beperking: ‘Verblijf bij echtgeno(o)t(e)/(geregistreerd) partner/ouder (naam).’
+Indien het een minderjarig kind betreft, wordt de verblijfsvergunning verleend onder de beperking ‘verblijf bij ….(naam ouder(s))’.
 
 ### 5.8. overige algemene bepalingen
 
@@ -15265,7 +15265,7 @@ De verblijfsvergunning van de echtgeno(o)t(e) van de langdurig ingezetene met re
 
 ### 6.1. Contactpunt IND
 
-### 18. Verblijf als onderzoeker in de zin van Richtlijn 2005/71
+### 1. Inleiding
 
 Dit wordt onder meer aangenomen als uit een recent bewijs van inschrijving in het bevolkingsregister van de betreffende EU-lidstaat niet van inschrijving op hetzelfde adres blijkt.
 
@@ -15277,7 +15277,7 @@ Nadat het Loket kennis- en arbeidsmigratie het registratieformulier heeft ontvan
 
 Op basis van deze wet hoeft voor werknemers die wetenschappelijk onderzoek doen of nieuwe producten, processen of programmatuur ontwikkelen, minder loonbelasting te worden afgedragen. Teneinde erkend te worden als private onderzoeksinstelling dient de instelling een Speur en Ontwikkelingswerk verklaring te overleggen waaruit blijkt dat met succes een beroep is gedaan op de hier bedoelde regeling.
 
-Het aanvraagformulier ‘Verzoek om advies in verband met afgifte mvv onderzoeker in de zin van Richtlijn 2005/71’ dat gebruikt dient te worden voor de aanvragen in het kader van verblijf bij/als onderzoeker in de zin van Richtlijn 2005/71, wordt door het Hoofd IND vastgesteld en wordt alleen elektronisch door de IND ter beschikking gesteld.
+De onderzoeksinstelling vult het formulier in en verzendt het ingevulde en ondertekende formulier (de printversie), vergezeld van de vereiste stukken, per post naar het loket kennis- en arbeidsmigratie van de IND.
 
 ### 2.4. Leges
 
@@ -15285,19 +15285,19 @@ De onderzoeksinstelling kan namens de gezinsleden, te weten de echtgeno(o)te of 
 
 ### 2.3. Aanvraag om een verblijfsvergunning
 
-De aanvraag tot verlening van een verblijfsvergunning als onderzoeker in de zin van Richtlijn 2005/71 wordt door de vreemdeling in persoon dan wel schriftelijk, al dan niet door tussenkomst van de onderzoeksinstelling, ingediend bij het Loket kennis- en arbeidsmigratie van de IND, en wel door middel van een aanvraagformulier:
+Het aanvraagformulier kan uitsluitend elektronisch worden verkregen van de IND.
 
 ### 5.8. overige algemene bepalingen
 
-De echtgeno(o)te of (geregistreerd) partner en de minderjarige kinderen die verblijf bij de onderzoeker beogen, doen met het daarvoor bestemde aanvraagformulier ter verlening van een verblijfsvergunning regulier voor gezinsleden van onderzoeker in de zin van Richtlijn 2005/71, een verblijfsaanvraag. Voor de behandeling van alle aanvragen van gezinsleden van een onderzoeker geldt een streeftermijn van twee weken. Daarbij is de IND afhankelijk van buiten de IND gelegen procedures, zoals de verplichte inschrijving van het huwelijk in de GBA, die moeten zijn afgerond voordat de IND een beslissing kan nemen op de aanvraag.
+De beslistermijn van twee weken is tevens van toepassing op aanvragen om wijziging van de beperking waaronder eerder een verblijfsvergunning regulier voor bepaalde tijd is verleend in de beperking ‘verblijf als onderzoeker in de zin van Richtlijn 2005/71/EG ’. Hierbij kan worden gedacht aan het geval dat een vreemdeling die in het bezit is van een verblijfsvergunning onder de beperking ‘arbeid in loondienst’, deze beperking wil wijzigen in de beperking ‘verblijf als onderzoeker’.
 
-### 6. In kennis stellen eerste lidstaat
-
-In de volgende gevallen dient Nederland als tweede lidstaat, de (eerste) lidstaat, die de EG-status langdurig ingezetene aan de vreemdeling heeft verleend, te informeren:
+### 2.4. Leges
 
 Betaling van de door de betrokken vreemdeling(en) verschuldigde leges vindt plaats door de onderzoeksinstelling door middel van een machtiging tot automatische incasso. Deze machtiging wordt door de onderzoeksinstelling bij elke individuele aanvraag afgegeven. Ten behoeve van de automatische incasso geeft de onderzoeksinstelling een Nederlands bankrekeningnummer op. Als de onderzoeksinstelling geen machtiging tot automatische incasso afgeeft bij de aanvraag ontvangt de vreemdeling die verblijf als onderzoeker beoogt een factuur met een acceptgiro van KPMG ter betaling van de verschuldigde leges. De beslistermijn van twee weken is dan niet van toepassing.
 
-Indien de houder van EG-verblijfsvergunning voor langdurig ingezetene die door een andere lidstaat (de eerste lidstaat) is afgegeven, na vijf jaar de status van langdurig ingezetene in Nederland heeft verkregen (zie B1/6) dient de eerste lidstaat hiervan in kennis te worden gesteld (zie [artikel 3.103a, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.103a) en B1/9.7.7.4);
+Betaling van de door de betrokken vreemdeling(en) verschuldigde leges vindt plaats door de onderzoeksinstelling door middel van een machtiging tot automatische incasso. Deze machtiging wordt door de onderzoeksinstelling bij elke individuele aanvraag afgegeven. Ten behoeve van de automatische incasso geeft de onderzoeksinstelling een Nederlands bankrekeningnummer op. Als de onderzoeksinstelling geen machtiging tot automatische incasso afgeeft bij de aanvraag ontvangt de vreemdeling die verblijf als onderzoeker beoogt een factuur met een acceptgiro van KPMG ter betaling van de verschuldigde leges. De beslistermijn van twee weken is dan niet van toepassing.
+
+Ingevolge [artikel 3.71, tweede lid, onder i, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71) is de houder van een verblijfsvergunning voor onderzoekers in de zin van Richtlijn 2005/71 afgegeven door een andere staat die partij is bij het EG-Verdrag dan wel de echtgenoot, partner of het minderjarig kind is van die houder, in geval het gezin reeds was gevormd in die andere staat, vrijgesteld van het mvv-vereiste (zie B1/4.1.1).
 
 Ingevolge [artikel 3.71, tweede lid, onder i, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.71) is de houder van een verblijfsvergunning voor onderzoekers in de zin van Richtlijn 2005/71 afgegeven door een andere staat die partij is bij het EG-Verdrag dan wel de echtgenoot, partner of het minderjarig kind is van die houder, in geval het gezin reeds was gevormd in die andere staat, vrijgesteld van het mvv-vereiste (zie B1/4.1.1).
 
@@ -15305,11 +15305,11 @@ Ingevolge [artikel 3.71, tweede lid, onder i, Vb](https://wetten.overheid.nl/jci
 
 Bij de aanvraag om een verblijfsvergunning voegt de onderzoeker, dan wel voegen de onderzoeker en diens gezinsleden, een kopie van de ingevulde en ondertekende TBC-verklaring (zie [bijlage 13 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=13)) ten aanzien van de bereidheid om een TBC-onderzoek te ondergaan en aan een dergelijk onderzoek mee te werken. De vreemdeling die verblijf als onderzoeker beoogt meldt zich met de originele TBC-verklaring tot de GG&GD voor het ondergaan van een TBC-onderzoek. Op grond van de ondertekende verklaring kan de verblijfsvergunning worden verleend. Achteraf stelt de IND, op basis van opgave door de GG&GD, vast of betrokkene aan de verplichting om een TBC-onderzoek te ondergaan heeft voldaan (zie [artikel 3.79 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.79)). Indien blijkt dat zulks niet het geval is wordt de vergunning voor verblijf als onderzoeker in de zin van Richtlijn 2005/71 ingetrokken op grond van het feit dat onjuiste gegevens zijn verstrekt.
 
-In de in deze paragraaf genoemde gevallen zal het koppelingsbureau van de IND fungeren als contactpunt voor het verstrekken en ontvangen van informatie.
-
 De onderzoeksinstelling neemt contact op met het Loket kennis- en arbeidsmigratie van de IND voor een afspraak om ter plaatse van voornoemd loket de sticker ‘verblijfsaantekening algemeen’ (zie [bijlage 7g VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=7g)) in het reisdocument van de onderzoeker(s) en eventuele gezinsleden te laten plaatsen. Daartoe meldt de vreemdeling dan wel de onderzoeksinstelling zich met het paspoort van de vreemdeling die verblijf als onderzoeker beoogt, en eventuele gezinsleden, bij het Loket kennis- en arbeidsmigratie van de IND (zie [artikel 3.9, derde lid, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.9)).
 
 Op de sticker wordt aangetekend: ‘Arbeid toegestaan; TWV niet vereist’. Dit geldt ook voor de sticker verblijfsaantekening van de echtgeno(o)t(e) of partner en de minderjarige kinderen van de onderzoeker.
+
+Daarna dient de vreemdeling zich bij de gemeente, waarin hij woonachtig is, te vervoegen met het oog op inschrijving in de GBA. Afgifte van het verblijfsdocument geschiedt door de IND na de inwilliging van de aanvraag.
 
 ### 2. Procedureel
 
@@ -15317,27 +15317,27 @@ Voor de onderzoeker die op grond van [artikel 17, eerste lid, onder a, Vw](https
 
 Ingevolge [artikel 3.56a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.56a) kan een verblijfsvergunning onder een beperking verband houdend met het verblijf als onderzoeker in de zin van de richtlijn worden verleend aan de vreemdeling:
 
-Ingevolge [artikel 3.56a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.56a) kan een verblijfsvergunning onder een beperking verband houdend met het verblijf als onderzoeker in de zin van de richtlijn worden verleend aan de vreemdeling:
-
 Het onderzoeksproject dient door de instelling te worden goedgekeurd, waarbij getoetst wordt aan het doel en de duur van het onderzoek inclusief de benodigde financiële middelen.
 
 Er dient een door een notaris of gemeente gewaarmerkte kopie van het vereiste diploma te worden toegevoegd. Voor de beoordeling of de vreemdeling beschikt over een passend diploma wordt aangesloten bij het oordeel van de onderzoeksinstelling.
 
+Het begrip arbeidsvoorwaarden ziet in dit geval niet noodzakelijkerwijs op een dienstverband maar ook op de aard van de rechtsbetrekking waarin is vastgelegd wat de onderzoeksinstelling de onderzoeker aan faciliteiten biedt en wat van de onderzoeker verwacht wordt.
+
 ### 3.1. Middelen van bestaan
 
-Bij [artikel 3.18b VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.18b) zijn als erkende onderzoeksinstellingen aangewezen:
+Voor de beoordeling of de vreemdeling beschikt over voldoende middelen van bestaan wordt in beginsel aangesloten bij het oordeel van de onderzoeksinstelling. De onderzoeksinstelling kan gelet op artikel 6, onder c, Richtlijn 2005/71, immers alleen een gastovereenkomst sluiten indien de onderzoeker gedurende zijn verblijf beschikt over voldoende middelen, uitgaande van het minimumbedrag dat daartoe door de lidstaat is vastgesteld.
 
 ### 3.1.1. Duurzame middelen
 
-Wel dienen schriftelijke bewijsstukken van de inkomsten te worden overgelegd.
+De hierna genoemde bepalingen inzake middelen van bestaan zijn ook van toepassing op de echtgeno(o)te of (geregistreerd) partner van de onderzoeker en de minderjarige kinderen.
 
 ### 2.2. Verzoek om advies
 
-De in B1/4.3 genoemde bepalingen ten aanzien van het middelenvereiste zijn ook hier van toepassing.
+In aanvulling op de inkomstenbronnen genoemd in B1/4.3.1 worden ten aanzien van alle onderzoekers de volgende inkomsten tevens aangemerkt als zelfstandig verworven bestaansmiddel:
 
 In aanvulling op de inkomstenbronnen genoemd in B1/4.3.1 worden ten aanzien van alle onderzoekers de volgende inkomsten tevens aangemerkt als zelfstandig verworven bestaansmiddel:
 
-De onderzoeksinstelling vult het formulier in en verzendt het ingevulde en ondertekende formulier (de printversie), vergezeld van de vereiste stukken, per post naar het loket kennis- en arbeidsmigratie van de IND.
+De middelen van bestaan zijn overeenkomstig [artikel 3.75, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.75)duurzaam, indien zij nog één jaar beschikbaar zijn op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven. Indien de werkzaamheden korter dan één jaar duren, wordt de aanvraag niet afgewezen als wordt aangetoond dat voldoende middelen beschikbaar zijn voor de duur van het beoogde verblijf.
 
 De middelen van bestaan zijn overeenkomstig [artikel 3.75, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.75)duurzaam, indien zij nog één jaar beschikbaar zijn op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven. Indien de werkzaamheden korter dan één jaar duren, wordt de aanvraag niet afgewezen als wordt aangetoond dat voldoende middelen beschikbaar zijn voor de duur van het beoogde verblijf.
 
@@ -15345,25 +15345,25 @@ De middelen van bestaan zijn overeenkomstig [artikel 3.75, eerste lid, Vb](https
 
 Ingevolge [artikel 3.68 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.68) kan, in afwijking van [artikel 3.57 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57) de verblijfsvergunning onder een beperking verband houdend met verblijf als onderzoeker in de zin van de richtlijn worden verleend voor de duur van het onderzoek als omschreven in de gastovereenkomst met een maximum van vijf jaren.
 
-Het aanvraagformulier kan uitsluitend elektronisch worden verkregen van de IND.
+De verblijfsvergunning voor bepaalde tijd wordt, mits ook aan de algemene voorwaarden voor verlening van een verblijfsvergunning wordt voldaan, verleend onder de beperking ‘verblijf als onderzoeker in de zin van Richtlijn 2005/71/EG ’.
 
 ### 7. Gronden voor intrekking en niet-verlenging
 
-Bij de verlening wordt de arbeidsmarktaantekening gesteld ‘‘TWV niet vereist. Andere arbeid niet toegestaan’. Hierbij is van belang dat lesgeven wordt gezien als een onlosmakelijk deel van de werkzaamheden van een onderzoeker, mits het verrichten van onderzoek niet van bijkomende aard is.
-
 Aan de gezinsleden van de onderzoeker wordt de verblijfsvergunning voor bepaalde tijd verleend onder de beperking ‘verblijf bij (naam onderzoeker)’. Bij de verlening aan de gezinsleden wordt de arbeidsmarktaantekening gesteld ‘Arbeid vrij toegestaan. TWV niet vereist.
+
+Aan de afgifte van de verblijfsvergunning wordt het voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
 ### 6. Wijziging werkgever, zoekperiode
 
 Ingevolge [artikel 3.89a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.89a) juncto [artikel 3.91a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.91a) wordt, indien de erkenning van de onderzoeksinstelling niet wordt verlengd of wordt ingetrokken vanwege fraude, eerst aan de vreemdeling – mits die te goeder trouw is – een zoektermijn van drie maanden gegund. Eerst daarna wordt overgegaan tot intrekking of niet verlenging van de verblijfsvergunning van de onderzoeker op grond van [artikel 18, eerste lid, onder f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18).
 
-Ingevolge [artikel 3.89a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.89a) juncto [artikel 3.91a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.91a) wordt, indien de erkenning van de onderzoeksinstelling niet wordt verlengd of wordt ingetrokken vanwege fraude, eerst aan de vreemdeling – mits die te goeder trouw is – een zoektermijn van drie maanden gegund. Eerst daarna wordt overgegaan tot intrekking of niet verlenging van de verblijfsvergunning van de onderzoeker op grond van [artikel 18, eerste lid, onder f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18).
-
-### 2.6. TBC-verklaring
+Voor zover mogelijk zal hij zijn onderzoek zoals voorzien afronden bij de instelling. Als dat niet mogelijk blijkt wordt de onderzoeker de mogelijkheid geboden om een nieuwe gastovereenkomst te sluiten met een andere instelling. Hij krijgt daarvoor drie maanden de tijd. Als binnen drie maanden geen nieuwe gastovereenkomst wordt overgelegd wordt overgegaan tot intrekking van de verblijfsvergunning.
 
 ### 7. Gronden voor intrekking en niet-verlenging
 
-Een verblijfsvergunning kan worden ingetrokken of niet verlengd indien er sprake is geweest van fraude bij de verkrijging, indien de houder niet voldeed of niet langer voldoet aan de voorwaarden voor verkrijging (artikel 6 en 7 Richtlijn 2005/71) of indien hij in de EU verblijft voor een ander doel dan waarvoor hij is toegelaten. Intrekking of niet-verlenging is ook mogelijk op gronden die verband houden met openbare orde, openbare veiligheid of volksgezondheid.
+### 7. Gronden voor intrekking en niet-verlenging
+
+Als uitgangspunt wordt de aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning afgewezen indien niet wordt voldaan aan de beperking waaronder de verblijfsvergunning is verleend of aan een voorschrift dat aan de verblijfsvergunning is verbonden of indien een van de andere in [artikel 18 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) genoemde afwijzingsgronden van toepassing is (zie B1/5.3.1 t/m B1/5.3.6). De vreemdeling die niet meer voldoet aan de beperking verband houdend met het doel waarvoor de oorspronkelijke verblijfsvergunning was verleend, kan uiteraard een aanvraag indienen tot wijziging van de verblijfsvergunning. De tijdig ingediende aanvraag komt voor inwilliging in aanmerking indien wordt voldaan aan de voorwaarden voor de eerste verblijfsaanvaarding voor het nieuw beoogde verblijfsdoel.
 
 Als uitgangspunt wordt de aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning afgewezen indien niet wordt voldaan aan de beperking waaronder de verblijfsvergunning is verleend of aan een voorschrift dat aan de verblijfsvergunning is verbonden of indien een van de andere in [artikel 18 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) genoemde afwijzingsgronden van toepassing is (zie B1/5.3.1 t/m B1/5.3.6). De vreemdeling die niet meer voldoet aan de beperking verband houdend met het doel waarvoor de oorspronkelijke verblijfsvergunning was verleend, kan uiteraard een aanvraag indienen tot wijziging van de verblijfsvergunning. De tijdig ingediende aanvraag komt voor inwilliging in aanmerking indien wordt voldaan aan de voorwaarden voor de eerste verblijfsaanvaarding voor het nieuw beoogde verblijfsdoel.
 
@@ -15375,15 +15375,13 @@ Ziekte en arbeidsongeschiktheid zijn van invloed op de verblijfsrechtelijke posi
 
 Aan de afgifte van de verblijfsvergunning wordt het voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
 
-Ingevolge [artikel 3.56a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.56a) kan een verblijfsvergunning onder een beperking verband houdend met het verblijf als onderzoeker in de zin van de richtlijn worden verleend aan de vreemdeling:
-
 Aan vreemdelingen kan verblijf bij religieuze of levensbeschouwelijke organisaties worden toegestaan indien bij die organisaties de afgelopen vijf jaar aan vreemdelingen verblijf is toegestaan voor religieuze of levensbeschouwelijke doeleinden, niet zijnde arbeid als godsdienstleraar of geestelijk voorganger, of studie. Het betreft hier een overgangsregeling in afwachting van een definitief beleidskader.
+
+Omdat in het geval van verblijf bij organisaties waarbij niet eerder verblijf is toegestaan op religieuze of levensbeschouwelijke gronden, in het verleden geen uitspraak is gedaan over een wezenlijk Nederlands belang, en pas in het kader van een definitieve regeling voor verblijf op religieuze doeleinden een oordeel kan worden uitgesproken over het wezenlijk Nederlands belang dat wordt gediend met (de aard van) het verblijf van een vreemdeling bij deze organisaties, staat de onderhavige regeling niet open voor religieuze of levensbeschouwelijke organisaties bij wie niet in de afgelopen vijf jaar verblijf is verleend. Zoals hierboven gesteld geldt zulks niet voor bovengenoemde categorie kloosters. Onderhavige regeling is evenmin van toepassing op religieuze of levensbeschouwelijke organisaties waarbij tot dusverre uitsluitend verblijf is toegestaan voor het verrichten van arbeid als godsdienstleraar of geestelijk voorganger, of voor studie.
 
 ### 2. Voorwaarden voor verlening van een verblijfsvergunning
 
 Het begrip arbeidsvoorwaarden ziet in dit geval niet noodzakelijkerwijs op een dienstverband maar ook op de aard van de rechtsbetrekking waarin is vastgelegd wat de onderzoeksinstelling de onderzoeker aan faciliteiten biedt en wat van de onderzoeker verwacht wordt.
-
-Verblijf bij een religieuze of levensbeschouwelijke organisatie op religieuze of levensbeschouwelijke gronden kan worden toegestaan bij de navolgende religieuze of levensbeschouwelijke organisaties:
 
 Verblijf bij een religieuze of levensbeschouwelijke organisatie op religieuze of levensbeschouwelijke gronden kan worden toegestaan bij de navolgende religieuze of levensbeschouwelijke organisaties:
 
@@ -15393,27 +15391,29 @@ Géén verblijf zal worden toegestaan bij organisaties waarbij op enig moment is
 
 Bij de inwerkingtreding van deze regeling op 8 januari 2004 zijn bijzondere regelingen met een religieuze of levensbeschouwelijke organisatie vervallen. De afspraken over het maximaal per jaar toe te laten vreemdelingen bij een organisatie blijven echter onverkort gehandhaafd.
 
-In aanvulling op de inkomstenbronnen genoemd in B1/4.3.1 worden ten aanzien van alle onderzoekers de volgende inkomsten tevens aangemerkt als zelfstandig verworven bestaansmiddel:
+Bij de inwerkingtreding van deze regeling op 8 januari 2004 zijn bijzondere regelingen met een religieuze of levensbeschouwelijke organisatie vervallen. De afspraken over het maximaal per jaar toe te laten vreemdelingen bij een organisatie blijven echter onverkort gehandhaafd.
 
 De verblijfsvergunning kan worden verleend aan:
 
-### 2.3. Algemene voorwaarden:
+De ondergrens van 18 jaar wordt gesteld omdat het niet wenselijk wordt geacht om jongeren in de (gedeeltelijk) leerplichtige leeftijd verblijf in Nederland toe te staan met het oog op verblijf bij een religieuze of levensbeschouwelijke organisatie, anders dan voor studiedoeleinden waarop het reguliere beleid van toepassing is.
 
-Zie B19/2.1.
+### 2.3. Algemene voorwaarden:
 
 Vreemdelingen die verblijf beogen bij een religieuze of levensbeschouwelijke organisatie waarbij niet gedurende de laatste vijf jaar aan vreemdelingen verblijf is verleend op religieuze of levensbeschouwelijke gronden, dienen te voldoen aan één van bestaande beperkingen zoals genoemd in artikel 3.4 Vb of een beperking als genoemd in de Vc.
 
+Ten aanzien van verblijf op religieuze of levensbeschouwelijke gronden bij een klooster of een religieuze of levensbeschouwelijke organisatie gelden de navolgende voorwaarden:
+
 ### 5. Beperkingen, arbeidsmarktaantekeningen en voorschriften
 
-Het klooster of de religieuze of levensbeschouwelijke organisatie verschaft ter beoordeling of aan bovengenoemde voorwaarden wordt voldaan, de volgende gegevens en bescheiden:
+Indien verblijf wordt gevraagd bij een klooster, waarbij niet eerder verblijf is toegestaan, dient dat klooster in aanvulling op bovenvermelde bescheiden met schriftelijke bewijsstukken aan te tonen dat eerder verblijf is toegestaan bij (een) ander(e) klooster(s) behorende tot dezelfde orde, congregatie of organisatie.
 
 ### 3. Procedure
 
 Gezinsleden, die verblijf beogen bij een vreemdeling aan wie op grond van onderhavige regeling verblijf is toegestaan voor religieuze of levensbeschouwelijke doeleinden, dienen te voldoen aan de voorwaarden genoemd in B2.
 
-Aan de afgifte van de verblijfsvergunning wordt het voorschrift verbonden de verplichting voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten verbonden aan opname en verpleging in een sanatorium of een psychiatrische inrichting.
-
 Naast voornoemde bijzondere voorwaarden voor toelating, moet worden voldaan aan de algemene toelatingsvoorwaarden van [artikel 16 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16). Daarbij geldt ten aanzien van middelen van bestaan het navolgende.
+
+Vreemdelingen aan wie verblijf wordt toegestaan op religieuze of levensbeschouwelijke gronden, dienen tijdens hun verblijf in Nederland in hun onderhoud te kunnen voorzien. Derhalve dient te kunnen worden beoordeeld of de vreemdeling gedurende zijn verblijf in Nederland bij de levensbeschouwelijke of religieuze organisatie over voldoende middelen van bestaan beschikt. Uit de aard van het verblijf vloeit voort dat in de kosten van levensonderhoud wordt voorzien door derden, in de regel de religieuze of levensbeschouwelijke organisatie. De religieuze of levensbeschouwelijke organisatie waarbij de vreemdeling gaat verblijven dient door middel van een opgave van de aan de vreemdeling te verstrekken voorzieningen gedurende zijn verblijf en een bewijs dat de organisatie over voldoende financiële middelen voor dat doel beschikt, aan te tonen dat deze voorzieningen ook daadwerkelijk (kunnen) worden verstrekt. De religieuze of levensbeschouwelijke organisatie dient zich schriftelijk garant te stellen voor de kosten die voor de Staat en andere openbare lichamen uit het verblijf van de vreemdeling kunnen voortvloeien alsmede voor de kosten van diens reis naar een plaats buiten Nederland waar diens toegang gewaarborgd is door middel van een [model M48-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M48-B). De organisatie verklaart in [model M48-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M48-B) tevens zich bewust te zijn van de in dat model genoemde verplichtingen die uit hoofde van de toelating van een vreemdeling voor verblijf bij de desbetreffende organisatie op de organisatie rusten.
 
 Vreemdelingen aan wie verblijf wordt toegestaan op religieuze of levensbeschouwelijke gronden, dienen tijdens hun verblijf in Nederland in hun onderhoud te kunnen voorzien. Derhalve dient te kunnen worden beoordeeld of de vreemdeling gedurende zijn verblijf in Nederland bij de levensbeschouwelijke of religieuze organisatie over voldoende middelen van bestaan beschikt. Uit de aard van het verblijf vloeit voort dat in de kosten van levensonderhoud wordt voorzien door derden, in de regel de religieuze of levensbeschouwelijke organisatie. De religieuze of levensbeschouwelijke organisatie waarbij de vreemdeling gaat verblijven dient door middel van een opgave van de aan de vreemdeling te verstrekken voorzieningen gedurende zijn verblijf en een bewijs dat de organisatie over voldoende financiële middelen voor dat doel beschikt, aan te tonen dat deze voorzieningen ook daadwerkelijk (kunnen) worden verstrekt. De religieuze of levensbeschouwelijke organisatie dient zich schriftelijk garant te stellen voor de kosten die voor de Staat en andere openbare lichamen uit het verblijf van de vreemdeling kunnen voortvloeien alsmede voor de kosten van diens reis naar een plaats buiten Nederland waar diens toegang gewaarborgd is door middel van een [model M48-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M48-B). De organisatie verklaart in [model M48-B](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M48-B) tevens zich bewust te zijn van de in dat model genoemde verplichtingen die uit hoofde van de toelating van een vreemdeling voor verblijf bij de desbetreffende organisatie op de organisatie rusten.
 
@@ -15421,11 +15421,11 @@ Vreemdelingen aan wie verblijf wordt toegestaan op religieuze of levensbeschouwe
 
 Voor zover op de vreemdeling de plicht berust om te beschikken over een mvv, dient de procedure ter verkrijgen van de mvv bij voorkeur in Nederland te worden gestart door de religieuze of levensbeschouwelijke organisatie waarbij de vreemdeling verblijf beoogt. Daartoe dient de religieuze of levensbeschouwelijke organisatie een verzoek om advies ter verlening van een mvv aan betrokken vreemdeling te richten aan de IND. Bij het verzoek om advies dienen de in B19/2.2 genoemde bescheiden te worden meegezonden. Tevens dient bij het verzoek om advies een aanvullende brief te worden meegezonden waarin uiteengezet wordt dat de vreemdeling verblijf beoogt voor religieuze of levensbeschouwelijke doeleinden, niet zijnde verblijf voor arbeid of studie. Indien door de religieuze of levensbeschouwelijke organisatie op het verzoek om advies een verblijfsdoel is aangekruist terwijl uit de overgelegde bescheiden nadrukkelijk blijkt dat verblijf op religieuze of levensbeschouwelijke gronden wordt beoogd, dient de aanvraag getoetst te worden aan de voorwaarden, verbonden aan de onderhavige regeling.
 
-Een verblijfsvergunning kan worden ingetrokken of niet verlengd indien er sprake is geweest van fraude bij de verkrijging, indien de houder niet voldeed of niet langer voldoet aan de voorwaarden voor verkrijging (artikel 6 en 7 Richtlijn 2005/71) of indien hij in de EU verblijft voor een ander doel dan waarvoor hij is toegelaten. Intrekking of niet-verlenging is ook mogelijk op gronden die verband houden met openbare orde, openbare veiligheid of volksgezondheid.
+De verblijfsvergunning wordt verleend onder de beperking ‘verblijf op religieuze of levensbeschouwelijke gronden bij (naam religieuze of levensbeschouwelijke groepering)’.
 
 ### 6. Voorschriften
 
-Op het verblijfsdocument dat aan de vreemdeling wordt verstrekt, wordt de beperking vermeld ‘verblijf conform beschikking Staatssecretaris’.
+De verblijfsvergunning voor verblijf voor religieuze of levensbeschouwelijke doeleinden wordt conform [artikel 3.57 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57) voor ten hoogste één jaar verleend en kan telkens voor ten hoogste één jaar worden verlengd.
 
 ### 1.2. Afgifte mvv
 
@@ -15481,7 +15481,7 @@ Indien de eerdere verblijfsvergunning was verleend onder de beperking ‘medisch
 
 ### 7.1. Voortgezet Verblijf op grond van de Regeling nalatenschap oude Vw
 
-### 4. Overige algemene bepalingen
+### 4.1. Vrijstellingen
 
 ### 5.1. Inleiding
 
@@ -15493,11 +15493,11 @@ Indien de eerdere verblijfsvergunning was verleend onder de beperking ‘medisch
 
 ### 2.5. mvv-vereiste
 
-Indien de autoriteiten van de tweede lidstaat bereid zijn de betrokken vreemdeling tot hun grondgebied toe te laten, kan Nederland volstaan met de minder ingrijpende maatregel van intrekking van de (Nederlandse) verblijfsvergunning regulier voor bepaalde tijd met toepassing van de waarborgen van artikel 17 van richtlijn 2003/109 en met verwijdering van de vreemdeling naar die (eerste) lidstaat in plaats van het land van herkomst. Vorenstaande laat onverlet dat de eerste lidstaat, ook na terugname, kan besluiten de vreemdeling alsnog te verwijderen naar het land van herkomst (na de status van langdurig ingezetene te hebben ingetrokken).
+Bij de aanvraag om een verblijfsvergunning voegt de onderzoeker, dan wel voegen de onderzoeker en diens gezinsleden, een kopie van de ingevulde en ondertekende TBC-verklaring (zie [bijlage 13 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=13)) ten aanzien van de bereidheid om een TBC-onderzoek te ondergaan en aan een dergelijk onderzoek mee te werken. De vreemdeling die verblijf als onderzoeker beoogt meldt zich met de originele TBC-verklaring tot de GG&GD voor het ondergaan van een TBC-onderzoek. Op grond van de ondertekende verklaring kan de verblijfsvergunning worden verleend. Achteraf stelt de IND, op basis van opgave door de GG&GD, vast of betrokkene aan de verplichting om een TBC-onderzoek te ondergaan heeft voldaan (zie [artikel 3.79 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.79)). Indien blijkt dat zulks niet het geval is wordt de vergunning voor verblijf als onderzoeker in de zin van Richtlijn 2005/71 ingetrokken op grond van het feit dat onjuiste gegevens zijn verstrekt.
 
 ### 2.7. Sticker verblijfsaantekeningen algemeen
 
-Daarna dient de vreemdeling zich bij de gemeente, waarin hij woonachtig is, te vervoegen met het oog op inschrijving in de GBA. Afgifte van het verblijfsdocument geschiedt door de IND na de inwilliging van de aanvraag.
+Voor de onderzoeker die op grond van [artikel 17, eerste lid, onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=17) is vrijgesteld van het mvv-vereiste, staat de mogelijkheid open om bij de Nederlandse diplomatieke vertegenwoordiging in het buitenland onverplicht een mvv aan te vragen teneinde zijn verblijfsaanspraak vooraf te laten toetsen (zie B1/4.1.1). De onderzoeksinstelling in Nederland kan voorafgaande aan de indiening van de aanvraag om een mvv middels het formulier ‘Verzoek om advies in verband met afgifte mvv kennismigrant’ verzoeken om een advies omtrent de afgifte van een mvv aan of bij de onderzoeker in zin van Richtlijn 2005/71.
 
 ### 3. Voorwaarden toelating onderzoeker in de zin van Richtlijn 2005/71
 
@@ -15509,7 +15509,7 @@ Ingevolge [artikel 3.68 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&arti
 
 ### 5. Beperkingen, arbeidsmarktaantekeningen en voorschriften
 
-De verblijfsvergunning voor bepaalde tijd wordt, mits ook aan de algemene voorwaarden voor verlening van een verblijfsvergunning wordt voldaan, verleend onder de beperking ‘verblijf als onderzoeker in de zin van Richtlijn 2005/71/EG ’.
+Bij de verlening wordt de arbeidsmarktaantekening gesteld ‘‘TWV niet vereist. Andere arbeid niet toegestaan’. Hierbij is van belang dat lesgeven wordt gezien als een onlosmakelijk deel van de werkzaamheden van een onderzoeker, mits het verrichten van onderzoek niet van bijkomende aard is.
 
 ### 2.4. Leges
 
@@ -15519,37 +15519,37 @@ Aan de afgifte van de verblijfsvergunning wordt het voorschrift verbonden de ver
 
 Voor zover mogelijk zal hij zijn onderzoek zoals voorzien afronden bij de instelling. Als dat niet mogelijk blijkt wordt de onderzoeker de mogelijkheid geboden om een nieuwe gastovereenkomst te sluiten met een andere instelling. Hij krijgt daarvoor drie maanden de tijd. Als binnen drie maanden geen nieuwe gastovereenkomst wordt overgelegd wordt overgegaan tot intrekking van de verblijfsvergunning.
 
-Bij de aanvraag om een verblijfsvergunning voegt de onderzoeker, dan wel voegen de onderzoeker en diens gezinsleden, een kopie van de ingevulde en ondertekende TBC-verklaring (zie [bijlage 13 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&bijlage=13)) ten aanzien van de bereidheid om een TBC-onderzoek te ondergaan en aan een dergelijk onderzoek mee te werken. De vreemdeling die verblijf als onderzoeker beoogt meldt zich met de originele TBC-verklaring tot de GG&GD voor het ondergaan van een TBC-onderzoek. Op grond van de ondertekende verklaring kan de verblijfsvergunning worden verleend. Achteraf stelt de IND, op basis van opgave door de GG&GD, vast of betrokkene aan de verplichting om een TBC-onderzoek te ondergaan heeft voldaan (zie [artikel 3.79 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.79)). Indien blijkt dat zulks niet het geval is wordt de vergunning voor verblijf als onderzoeker in de zin van Richtlijn 2005/71 ingetrokken op grond van het feit dat onjuiste gegevens zijn verstrekt.
+Een verblijfsvergunning kan worden ingetrokken of niet verlengd indien er sprake is geweest van fraude bij de verkrijging, indien de houder niet voldeed of niet langer voldoet aan de voorwaarden voor verkrijging (artikel 6 en 7 Richtlijn 2005/71) of indien hij in de EU verblijft voor een ander doel dan waarvoor hij is toegelaten. Intrekking of niet-verlenging is ook mogelijk op gronden die verband houden met openbare orde, openbare veiligheid of volksgezondheid.
 
 ### 2.7. Sticker verblijfsaantekeningen algemeen
 
 ### 7.1. Werkloosheid, ziekte en arbeidsongeschiktheid
 
-Op de sticker wordt aangetekend: ‘Arbeid toegestaan; TWV niet vereist’. Dit geldt ook voor de sticker verblijfsaantekening van de echtgeno(o)t(e) of partner en de minderjarige kinderen van de onderzoeker.
-
 Werkloosheid is van invloed op de verblijfsrechtelijke positie van onderzoekers in loondienst, die houder zijn van een verblijfsvergunning voor bepaalde tijd voor verblijf als onderzoeker in de zin van Richtlijn 2005/71.
 
-### 19. Verblijf op religieuze of levensbeschouwelijke gronden
+Ziekte en arbeidsongeschiktheid zijn van invloed op de verblijfsrechtelijke positie van onderzoeker in de zin van Richtlijn 2005/71 indien zij in loondienst zijn. Bij ziekte blijft de onderzoeker aan de voorwaarden voldoen zolang er sprake is van een arbeidsovereenkomst voor het verrichten van onderzoek op basis van een met de onderzoeksinstelling gesloten gastovereenkomst en hij, hetzij vanwege het ontvangen loon, hetzij op grond van een uitkering, hetzij op grond van een combinatie van beide, hetzij vanwege eigen inkomsten uit arbeid in loondienst of arbeid als zelfstandige, gewoonlijk buiten Nederland verricht, over voldoende middelen van bestaan in de hier bedoelde zin blijft beschikken.
 
 ### 19. Verblijf op religieuze of levensbeschouwelijke gronden
+
+### 1. Inleiding
 
 Omdat in het geval van verblijf bij organisaties waarbij niet eerder verblijf is toegestaan op religieuze of levensbeschouwelijke gronden, in het verleden geen uitspraak is gedaan over een wezenlijk Nederlands belang, en pas in het kader van een definitieve regeling voor verblijf op religieuze doeleinden een oordeel kan worden uitgesproken over het wezenlijk Nederlands belang dat wordt gediend met (de aard van) het verblijf van een vreemdeling bij deze organisaties, staat de onderhavige regeling niet open voor religieuze of levensbeschouwelijke organisaties bij wie niet in de afgelopen vijf jaar verblijf is verleend. Zoals hierboven gesteld geldt zulks niet voor bovengenoemde categorie kloosters. Onderhavige regeling is evenmin van toepassing op religieuze of levensbeschouwelijke organisaties waarbij tot dusverre uitsluitend verblijf is toegestaan voor het verrichten van arbeid als godsdienstleraar of geestelijk voorganger, of voor studie.
 
 ### 2.1. Bekende religieuze of levensbeschouwelijke organisaties
 
-De ondergrens van 18 jaar wordt gesteld omdat het niet wenselijk wordt geacht om jongeren in de (gedeeltelijk) leerplichtige leeftijd verblijf in Nederland toe te staan met het oog op verblijf bij een religieuze of levensbeschouwelijke organisatie, anders dan voor studiedoeleinden waarop het reguliere beleid van toepassing is.
+Zie B19/2.1.
 
 ### 2.3. Algemene voorwaarden:
 
-Ten aanzien van verblijf op religieuze of levensbeschouwelijke gronden bij een klooster of een religieuze of levensbeschouwelijke organisatie gelden de navolgende voorwaarden:
+Het klooster of de religieuze of levensbeschouwelijke organisatie verschaft ter beoordeling of aan bovengenoemde voorwaarden wordt voldaan, de volgende gegevens en bescheiden:
 
 ### 2.3. Algemene voorwaarden:
 
-Voor zover mogelijk zal hij zijn onderzoek zoals voorzien afronden bij de instelling. Als dat niet mogelijk blijkt wordt de onderzoeker de mogelijkheid geboden om een nieuwe gastovereenkomst te sluiten met een andere instelling. Hij krijgt daarvoor drie maanden de tijd. Als binnen drie maanden geen nieuwe gastovereenkomst wordt overgelegd wordt overgegaan tot intrekking van de verblijfsvergunning.
+Voor zover op de vreemdeling de plicht berust om te beschikken over een mvv, dient de procedure ter verkrijgen van de mvv bij voorkeur in Nederland te worden gestart door de religieuze of levensbeschouwelijke organisatie waarbij de vreemdeling verblijf beoogt. Daartoe dient de religieuze of levensbeschouwelijke organisatie een verzoek om advies ter verlening van een mvv aan betrokken vreemdeling te richten aan de IND. Bij het verzoek om advies dienen de in B19/2.2 genoemde bescheiden te worden meegezonden. Tevens dient bij het verzoek om advies een aanvullende brief te worden meegezonden waarin uiteengezet wordt dat de vreemdeling verblijf beoogt voor religieuze of levensbeschouwelijke doeleinden, niet zijnde verblijf voor arbeid of studie. Indien door de religieuze of levensbeschouwelijke organisatie op het verzoek om advies een verblijfsdoel is aangekruist terwijl uit de overgelegde bescheiden nadrukkelijk blijkt dat verblijf op religieuze of levensbeschouwelijke gronden wordt beoogd, dient de aanvraag getoetst te worden aan de voorwaarden, verbonden aan de onderhavige regeling.
 
 ### 4. Beperking
 
-De verblijfsvergunning wordt verleend onder de beperking ‘verblijf op religieuze of levensbeschouwelijke gronden bij (naam religieuze of levensbeschouwelijke groepering)’.
+Op het verblijfsdocument dat aan de vreemdeling wordt verstrekt, wordt de beperking vermeld ‘verblijf conform beschikking Staatssecretaris’.
 
 ### 6. Voorschriften
 
@@ -15583,7 +15583,7 @@ Voor bedrijven, onderwijsinstellingen (hieronder begrepen: onderzoeksinstellinge
 
 ### 7.2. Middelen van bestaan
 
-### 4.4. Berekening termijn
+### 4.4.1. Aanvang termijn
 
 ### 4. Na medische behandeling
 
@@ -15591,7 +15591,7 @@ Voor bedrijven, onderwijsinstellingen (hieronder begrepen: onderzoeksinstellinge
 
 ### 10. Beperking en arbeidsmarktaantekening
 
-De specifieke voorwaarden per verblijfsdoel worden per materiehoofdstuk behandeld (voor arbeid zie B5/4.12 en B5/7.7.1, voor studie zie B6/2.1.1 en B6/3.1 en voor economisch niet-actieve zie B17). Voor zover in de materiehoofdstukken niets is opgenomen over langdurig ingezetenen, geldt dat zij aan alle terzake geldende specifieke voorwaarden dienen te voldoen, met uitzondering van het mvv-vereiste en het vereiste een onderzoek naar of behandeling van TBC aan de ademhalingsorganen te ondergaan.
+De in de andere (eerste) lidstaat verkregen status wordt derhalve niet direct omgezet in een Nederlandse verblijfsvergunning voor onbepaalde tijd. Daarvoor is vereist dat de langdurig ingezetene uit een andere lidstaat vijf jaar op grond van een verblijfsvergunning voor bepaalde tijd in Nederland (tweede lidstaat) heeft verbleven en ook aan de overige voorwaarden voor verlening van de verblijfsvergunning voor onbepaalde tijd voldoet (zie B1/6).
 
 ### 1.1. Procedureel
 
@@ -15599,7 +15599,7 @@ De specifieke voorwaarden per verblijfsdoel worden per materiehoofdstuk behandel
 
 ### 2. Algemene voorwaarden
 
-### 3. Specifieke voorwaarde en bepalingen economisch niet-actieve
+### 3.1. Middelen van bestaan
 
 ### 4.2. Voorschrift
 
@@ -15609,13 +15609,13 @@ De specifieke voorwaarden per verblijfsdoel worden per materiehoofdstuk behandel
 
 ### 6.1. Contactpunt IND
 
-Het aanvraagformulier kan uitsluitend elektronisch worden verkregen van de IND.
+De echtgeno(o)te of (geregistreerd) partner en de minderjarige kinderen die verblijf bij de onderzoeker beogen, doen met het daarvoor bestemde aanvraagformulier ter verlening van een verblijfsvergunning regulier voor gezinsleden van onderzoeker in de zin van Richtlijn 2005/71, een verblijfsaanvraag. Voor de behandeling van alle aanvragen van gezinsleden van een onderzoeker geldt een streeftermijn van twee weken. Daarbij is de IND afhankelijk van buiten de IND gelegen procedures, zoals de verplichte inschrijving van het huwelijk in de GBA, die moeten zijn afgerond voordat de IND een beslissing kan nemen op de aanvraag.
 
 De beslistermijn van twee weken is tevens van toepassing op aanvragen om wijziging van de beperking waaronder eerder een verblijfsvergunning regulier voor bepaalde tijd is verleend in de beperking ‘verblijf als onderzoeker in de zin van Richtlijn 2005/71/EG ’. Hierbij kan worden gedacht aan het geval dat een vreemdeling die in het bezit is van een verblijfsvergunning onder de beperking ‘arbeid in loondienst’, deze beperking wil wijzigen in de beperking ‘verblijf als onderzoeker’.
 
 ### 2.4. Leges
 
-### 6.1. Contactpunt IND
+### 2.7. Sticker verblijfsaantekeningen algemeen
 
 ### 3. Voorwaarden toelating onderzoeker in de zin van Richtlijn 2005/71
 
@@ -15625,13 +15625,13 @@ De beslistermijn van twee weken is tevens van toepassing op aanvragen om wijzigi
 
 ### 3.1. Middelen van bestaan
 
-Voor de beoordeling of de vreemdeling beschikt over voldoende middelen van bestaan wordt in beginsel aangesloten bij het oordeel van de onderzoeksinstelling. De onderzoeksinstelling kan gelet op artikel 6, onder c, Richtlijn 2005/71, immers alleen een gastovereenkomst sluiten indien de onderzoeker gedurende zijn verblijf beschikt over voldoende middelen, uitgaande van het minimumbedrag dat daartoe door de lidstaat is vastgesteld.
+Wel dienen schriftelijke bewijsstukken van de inkomsten te worden overgelegd.
 
-De hierna genoemde bepalingen inzake middelen van bestaan zijn ook van toepassing op de echtgeno(o)te of (geregistreerd) partner van de onderzoeker en de minderjarige kinderen.
+De in B1/4.3 genoemde bepalingen ten aanzien van het middelenvereiste zijn ook hier van toepassing.
 
 ### 1. Inleiding
 
-### 2. Voorwaarden voor verlening van een verblijfsvergunning
+### 2.1. Bekende religieuze of levensbeschouwelijke organisaties
 
 ### 7.1. Werkloosheid, ziekte en arbeidsongeschiktheid
 
@@ -15639,15 +15639,15 @@ De hierna genoemde bepalingen inzake middelen van bestaan zijn ook van toepassin
 
 ### 3.1.1. Duurzame middelen
 
-Indien verblijf wordt gevraagd bij een klooster, waarbij niet eerder verblijf is toegestaan, dient dat klooster in aanvulling op bovenvermelde bescheiden met schriftelijke bewijsstukken aan te tonen dat eerder verblijf is toegestaan bij (een) ander(e) klooster(s) behorende tot dezelfde orde, congregatie of organisatie.
+Gezinsleden, die verblijf beogen bij een vreemdeling aan wie op grond van onderhavige regeling verblijf is toegestaan voor religieuze of levensbeschouwelijke doeleinden, dienen te voldoen aan de voorwaarden genoemd in B2.
 
 ### 6. Wijziging werkgever, zoekperiode
 
-De verblijfsvergunning voor verblijf voor religieuze of levensbeschouwelijke doeleinden wordt conform [artikel 3.57 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57) voor ten hoogste één jaar verleend en kan telkens voor ten hoogste één jaar worden verlengd.
+Omdat het een overgangsregeling betreft in afwachting van een definitief beleidskader, wordt gebruik gemaakt van de mogelijkheid die [artikel 3.5, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5) biedt om een beperking, anders dan de in [artikel 3.5, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5) genoemde beperkingen, aan te merken als een tijdelijk verblijfsrecht. In de beschikking op een aanvraag voor verblijf voor religieuze of levensbeschouwelijke doeleinden wordt bepaald dat het verblijfsrecht tijdelijk is. Daartoe dient de vreemdeling een verklaring [M45-A](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M45-A) te tekenen.
 
 ### 5. Arbeidsmarktaantekening
 
-Vreemdelingen die in dit kader verblijf beogen hebben geen TWV nodig voor zover en aangezien het werkzaamheden betreft met een overwegend religieus of levensbeschouwelijk karakter zoals die van kloosterling of uitvoerder van activiteiten ten bate van de organisatie zelf. Dientengevolge geldt de arbeidsmarktaantekening: ‘Arbeid niet toegestaan’ Op het verblijfsdocument wordt de aantekening geplaatst ‘een beroep op publieke middelen kan gevolgen hebben voor verblijfsrecht’.
+In het geval betrokken vreemdeling onderdaan is van een lidstaat van de EU, de EER of Zwitserland is de arbeidsmarktaantekening: ‘Arbeid vrij toegestaan. TWV niet vereist’.
 
 In het geval betrokken vreemdeling onderdaan is van een lidstaat van de EU, de EER of Zwitserland is de arbeidsmarktaantekening: ‘Arbeid vrij toegestaan. TWV niet vereist’.
 
@@ -15695,11 +15695,11 @@ Wanneer bijvoorbeeld in de eerdere procedure verblijf bij partner werd beoogd en
 
 ### 4.3.2. Duurzaamheid van de middelen van bestaan
 
-### 10.2. Voorwaarden
+### 3. Na (huwelijks)relatie, verruimde gezinshereniging en ouderenbeleid
 
-### 17. Verblijf als (economisch niet-actieve) langdurig ingezetene
+### 1. Inleiding
 
-### 5. Gezinshereniging
+### 5.1. Inleiding
 
 ### 5.2. Algemene voorwaarden
 
@@ -15707,9 +15707,9 @@ Wanneer bijvoorbeeld in de eerdere procedure verblijf bij partner werd beoogd en
 
 ### 2.1. Versnelde toelatingsprocedure
 
-### 5.7. Geldigheidsduur
+### 2.3. Aanvraag om een verblijfsvergunning
 
-De verblijfsvergunning van de echtgeno(o)t(e) van de langdurig ingezetene met rechtmatig verblijf in de zin van [artikel 8, onder a, b dan wel l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) en het minderjarige kind van de echtgeno(o)t(e) of de langdurig ingezetene, wordt op grond van [artikel 3.67, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.67), in afwijking van [artikel 3.57 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.57), verleend en verlengd met een geldigheidsduur die gelijk is aan de duur van de vergunning van de langdurig ingezetene.
+De aanvraag tot verlening van een verblijfsvergunning als onderzoeker in de zin van Richtlijn 2005/71 wordt door de vreemdeling in persoon dan wel schriftelijk, al dan niet door tussenkomst van de onderzoeksinstelling, ingediend bij het Loket kennis- en arbeidsmigratie van de IND, en wel door middel van een aanvraagformulier:
 
 ### 2.6. TBC-verklaring
 
@@ -15723,7 +15723,7 @@ De verblijfsvergunning van de echtgeno(o)t(e) van de langdurig ingezetene met re
 
 ### 3. Procedure
 
-### 7. Gronden voor intrekking en niet-verlenging
+### 4. Beperking
 
 ### 5. Arbeidsmarktaantekening
 
@@ -15731,7 +15731,7 @@ Vreemdelingen die in dit kader verblijf beogen hebben geen TWV nodig voor zover 
 
 ### 6. Voorschriften
 
-Omdat in het geval van verblijf bij organisaties waarbij niet eerder verblijf is toegestaan op religieuze of levensbeschouwelijke gronden, in het verleden geen uitspraak is gedaan over een wezenlijk Nederlands belang, en pas in het kader van een definitieve regeling voor verblijf op religieuze doeleinden een oordeel kan worden uitgesproken over het wezenlijk Nederlands belang dat wordt gediend met (de aard van) het verblijf van een vreemdeling bij deze organisaties, staat de onderhavige regeling niet open voor religieuze of levensbeschouwelijke organisaties bij wie niet in de afgelopen vijf jaar verblijf is verleend. Zoals hierboven gesteld geldt zulks niet voor bovengenoemde categorie kloosters. Onderhavige regeling is evenmin van toepassing op religieuze of levensbeschouwelijke organisaties waarbij tot dusverre uitsluitend verblijf is toegestaan voor het verrichten van arbeid als godsdienstleraar of geestelijk voorganger, of voor studie.
+Aan de verblijfsvergunning wordt als voorschrift verbonden het aantonen van voldoende verzekerd te zijn tegen ziektekosten met inbegrip van de kosten van opname en verpleging in een sanatorium of psychiatrische inrichting.
 
 ### 16. Voortgezet verblijf
 
