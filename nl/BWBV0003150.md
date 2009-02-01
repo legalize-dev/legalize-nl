@@ -4,7 +4,7 @@ identifier: "BWBV0003150"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-02-01"
-last_updated: "2007-02-14"
+last_updated: "2009-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003150"
 soort: "verdrag"
@@ -184,7 +184,7 @@ die onder de reikwijdte van dit Verdrag vallen, af te leveren bij respectievelij
 
 3. Een verzoek van een van de douaneautoriteiten om een bepaalde handelwijze te volgen wordt ingewilligd, met inachtneming van de wettelijke en administratieve bepalingen van de aangezochte Verdragsluitende Partij.
 
-4. De in dit Verdrag bedoelde informatie wordt alleen aan ambtenaren toegezonden die door elke douaneautoriteit hiertoe zijn aangewezen in overeenstemming met [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003150&hoofdstuk=XII&artikel=18&z=2007-02-14&g=2007-02-14), van dit Verdrag.
+4. De in dit Verdrag bedoelde informatie wordt alleen aan ambtenaren toegezonden die door elke douaneautoriteit hiertoe zijn aangewezen in overeenstemming met [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003150&hoofdstuk=XII&artikel=18&z=2009-02-01&g=2009-02-01), van dit Verdrag.
 
 ### HOOFDSTUK VIII. UITVOERING VAN VERZOEKEN
 
@@ -212,7 +212,7 @@ Indien de aangezochte autoriteit niet over de gevraagde informatie beschikt, ste
 
 2. Voor alle uit hoofde van dit Verdrag ontvangen informatie gelden ten minste dezelfde bescherming en vertrouwelijkheid als die welke voor soortgelijke informatie gelden krachtens de wetgeving van de Verdragsluitende Partij waar deze wordt ontvangen.
 
-3. Indien informatie moet worden verstrekt aan de Europese Commissie of de douaneautoriteiten van de lidstaten van de Europese Unie ingevolge de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003150&hoofdstuk=II&artikel=2&z=2007-02-14&g=2007-02-14) van dit Verdrag genoemde verplichtingen van het Koninkrijk der Nederlanden, wordt de douaneautoriteit van de Republiek Korea vooraf op de hoogte gesteld.
+3. Indien informatie moet worden verstrekt aan de Europese Commissie of de douaneautoriteiten van de lidstaten van de Europese Unie ingevolge de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003150&hoofdstuk=II&artikel=2&z=2009-02-01&g=2009-02-01) van dit Verdrag genoemde verplichtingen van het Koninkrijk der Nederlanden, wordt de douaneautoriteit van de Republiek Korea vooraf op de hoogte gesteld.
 
 ##### Artikel 15
 
@@ -220,7 +220,7 @@ Indien de aangezochte autoriteit niet over de gevraagde informatie beschikt, ste
 
 2. De Verdragsluitende Partijen verschaffen elkaar alle wetgeving inzake de bescherming van persoonsgegevens in hun respectieve staten welke van belang is voor dit artikel.
 
-3. Persoonsgegevens worden niet uitgewisseld voordat de Verdragsluitende Partijen overeenkomstig [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003150&hoofdstuk=XII&artikel=18&z=2007-02-14&g=2007-02-14), van dit Verdrag zijn overeengekomen dat het beschermingsniveau in beide Verdragsluitende Partijen gelijkwaardig is.
+3. Persoonsgegevens worden niet uitgewisseld voordat de Verdragsluitende Partijen overeenkomstig [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003150&hoofdstuk=XII&artikel=18&z=2009-02-01&g=2009-02-01), van dit Verdrag zijn overeengekomen dat het beschermingsniveau in beide Verdragsluitende Partijen gelijkwaardig is.
 
 ### HOOFDSTUK X. ONTHEFFING
 
