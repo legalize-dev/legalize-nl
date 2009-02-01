@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2008-12-25"
+last_updated: "2009-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -61,6 +61,7 @@ Besluit:
 | 1.7 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (Centres of Entrepreneurschip) | [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=6.12) |   |   |   |
 | 1.8 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (beroepsonderwijs in bedrijf) | [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=7.2) |   | 01-01 t/m 31-12 | 12.000.000 |
 | 1.9 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (borgstelling scheepsnieuwbouw) | [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=8.3) |   | 01-01 t/m 31-12 | 1.000.000.000 |
+| 1.10 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (Veiligheid kleine bedrijven) | [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=9.2) |   | 01-02 t/m 31/08 | € 3.000.000 |
 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) |
 | 2.1 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (Eurostars-projecten) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=2.2) |   | 16-03 t/m 30-03 | 2.000.000 |
 | 2.2a | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatiekredieten) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.2) | Klinische ontwikkelingsprojecten | 01-01 t/m 31-12 | 12.500.000 |
