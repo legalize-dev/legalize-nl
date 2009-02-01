@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-11-01"
+last_updated: "2009-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -186,19 +186,25 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 ##### Artikel 11
 
-1. Vliegtuigen in de categorie ‘International Commercial Air Transport’ die lange afstandvluchten uitvoeren boven water, moeten uitgerust zijn met ten minste twee ELT’s, waarvan één ELT die automatisch geactiveerd wordt.
+1. Alle vliegtuigen die internationale vluchten uitvoeren als commercieel luchtvervoer en die zijn toegelaten voor het vervoer van meer dan 19 passagiers, zijn uitgerust met ten minste één automatische ELT of twee ELTs van om het even welk type.
 
-2. Vliegtuigen in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven door de Minister aangewezen gebieden over land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
+2. Alle vliegtuigen die internationale vluchten uitvoeren als commercieel luchtvervoer en die zijn toegelaten voor het vervoer van meer dan 19 passagiers, voor welk het bewijs van luchtwaardigheid is afgegeven na 1 juli 2008, zijn uitgerust met ten minste twee ELTs waarvan er één ELT automatisch geactiveerd wordt.
 
-3. Vliegtuigen in de categorie ‘International General Aviation’ die lange afstand vluchten uitvoeren boven water of vluchten uitvoeren boven door de Minister aangewezen gebieden over land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
+3. Alle vliegtuigen die internationale vluchten uitvoeren als commercieel luchtvervoer en die zijn toegelaten voor het vervoer van 19 passagiers of minder, zijn uitgerust met ten minste één ELT van om het even welk type.
 
-4. Prestatie klasse 1 en 2 helikopters in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven water en op een afstand van meer dan 10 minuten op normale kruissnelheid vliegen vanaf land en prestatie klasse 3 helikopters die vluchten boven water uitvoeren buiten autorotatie of noodlandingsafstand van land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt en ten minste één overlevings-ELT die met de hand geactiveerd wordt in een reddingsvlot.
+4. Alle vliegtuigen die internationale vluchten uitvoeren als commercieel luchtvervoer en die zijn toegelaten voor het vervoer van 19 passagiers of minder, voor welk het bewijs van luchtwaardigheid is afgegeven na 1 juli 2008, zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt.
 
-5. Helikopters in de categorie ‘International Commercial Air Transport’ die vluchten uitvoeren boven door de Minister aangewezen gebieden boven land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
+5. Alle vliegtuigen die internationale vluchten uitvoeren als General Aviation, zijn uitgerust met ten minste één ELT van om het even welk type.
 
-6. Prestatie klasse 1 en 2 helikopters in de categorie ‘International General Aviation’ die vluchten uitvoeren boven water en prestatie klasse 3 helikopters in dezelfde categorie die vluchten boven water uitvoeren buiten autorotatie of noodlandings afstand van land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt en ten minste één overlevings-ELT die met de hand geactiveerd wordt in een reddingsvlot.
+6. Alle vliegtuigen die internationale vluchten uitvoeren als General Aviation, voor welk het bewijs van luchtwaardigheid is afgegeven na 1 juli 2008, zijn uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
 
-7. Helikopters in de categorie ‘International General Aviation’, die vluchten uitvoeren boven door de Minister aangewezen gebieden boven land, moeten uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
+7. Prestatie klasse 1 en 2 helikopters die internationale vluchten uitvoeren als commercieel luchtvervoer zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt, en ten minste één ELT die automatisch geactiveerd wordt en één ELT(S) in een reddingsvlot of reddingsvest indien de vlucht boven water wordt uitgevoerd.
+
+8. Prestatie klasse 3 helikopters die internationale vluchten uitvoeren als commercieel luchtvervoer zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt, en ten minste één ELT die automatisch geactiveerd wordt en één ELT(S) in een reddingsvlot of reddingsvest indien de vlucht boven water wordt uitgevoerd met normale kruissnelheid op een afstand van meer dan 10 minuten vliegen vanaf land.
+
+9. Prestatie klasse 1 en 2 helikopters die internationale vluchten uitvoeren als General Aviation zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt, en ten minste één ELT die automatisch geactiveerd wordt en één ELT(S) in een reddingsvlot of reddingsvest indien de vlucht boven water wordt uitgevoerd.
+
+10. Prestatie klasse 3 helikopters die internationale vluchten als uitvoeren als General Aviation zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt, en ten minste één ELT die automatisch geactiveerd wordt en één ETL(S) in een reddingsvlot of reddingsvest indien de vlucht boven water wordt uitgevoerd met normale kruissnelheid op een afstand van meer dan 10 minuten vliegen vanaf land.
 
 ##### Artikel 12
 
@@ -226,7 +232,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2008-11-01&g=2008-11-01) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2009-02-01&g=2009-02-01) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
