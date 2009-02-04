@@ -4,7 +4,7 @@ identifier: "BWBR0010199"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-03-13"
-last_updated: "2004-06-18"
+last_updated: "2009-02-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010199"
 soort: "ministeriele-regeling"
@@ -44,15 +44,19 @@ Besluit:
 
 - b. IMSI-nummer: een identiteitsnummer ten behoeve van internationale mobiliteit als bedoeld in de aanbeveling E.212 van Internationale Telecommunicatie Unie bestaande uit een mobiele landencode, een mobiele netwerkcode en een randapparaatnummer of IMSI-abonneenummer, en waarop de in deze aanbeveling gestelde voorwaarden van toepassing zijn;
 
-- c. mobiele landencode: een nummer toegekend door de Internationale Telecommunicatie Unie aan een bepaald land ten behoeve van de identificatie van de in dat land aanwezige openbare elektronische communicatienetwerken of ten behoeve van de identificatie van een in dat land aanwezig netwerk voor GSM-R;
+- c. mobiele landencode: een nummer toegekend door de Internationale Telecommunicatie Unie aan een bepaald land ten behoeve van de identificatie van de in dat land aanwezige elektronische communicatienetwerken;
 
 - d. mobiele netwerkcode: een nummer dat:
 
 - 1. een bepaald openbaar elektronisch communicatienetwerk identificeert ten behoeve van mobiliteitsdiensten;
 
-- 2. een bepaald openbaar elektronisch communicatienetwerk identificeert ten behoeve van interoperabiliteit met openbare elektronische communicatienetwerken over welke mobiliteitsdiensten worden aangeboden; of
+- 2. een bepaald openbaar elektronisch communicatienetwerk identificeert ten behoeve van interoperabiliteit met openbare elektronische communicatienetwerken over welke mobiliteitsdiensten worden aangeboden;
 
 - 3. een netwerk identificeert voor GSM-R;
+
+- 4. een bepaald openbaar elektronisch communicatienetwerk identificeert ten behoeve van draadloze diensten; of
+
+- 5. een netwerk identificeert voor mobiele elektronische communicatie voor interne bedrijfstoepassingen van het Ministerie van Defensie;
 
 - e. randapparaatnummer: het deel van een IMSI-nummer achter de mobiele landencode en de mobiele netwerkcode dat een bepaald randapparaat identificeert;
 
@@ -86,7 +90,7 @@ Dit besluit wordt aangehaald als: Nummerplan voor identiteitsnummers ten behoeve
 
 Dit besluit met bijbehorende bijlage en toelichting zal in de Staatscourant worden geplaatst.
 
-## Bijlage. als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010199&artikel=2&z=2004-06-18&g=2004-06-18), van het Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers)
+## Bijlage. als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010199&artikel=2&z=2009-02-04&g=2009-02-04), van het Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers)
 
 | Beschikbaar voor toe- kenning of reservering | Niet beschikbaar voor toekenning of reservering | Lengte van de nummers |
 | --- | --- | --- |
