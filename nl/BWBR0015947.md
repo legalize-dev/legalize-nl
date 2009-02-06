@@ -4,7 +4,7 @@ identifier: "BWBR0015947"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-02-06"
-last_updated: "2003-12-05"
+last_updated: "2009-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015947"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ In deze regeling wordt verstaan onder transplantatie van eilandjes van Langerhan
 
 ##### Artikel 2
 
-Het is verboden zonder vergunning van de Minister van Volksgezondheid, Welzijn en Sport eilandjes van Langerhans te transplanteren.
+Vervallen
 
 ##### Artikel 3
 
-Voor het uitvoeren of gaan uitvoeren van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015947&artikel=1&z=2003-12-05&g=2003-12-05) genoemde verrichting gelden de voorwaarden, aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015947&bijlage=1&z=2003-12-05&g=2003-12-05).
+Voor het uitvoeren of gaan uitvoeren van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015947&artikel=1&z=2009-02-06&g=2009-02-06) genoemde verrichting gelden de voorwaarden, aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015947&bijlage=1&z=2009-02-06&g=2009-02-06).
 
 ##### Artikel 4
 
@@ -56,7 +56,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 5
 
-Deze regeling wordt aangehaald als: Regeling transplantatie eilandjes van Langerhans.
+Deze regeling wordt aangehaald als: Planningsregeling transplantatie eilandjes van Langerhans.
 
 ## Bijlage 1
 
