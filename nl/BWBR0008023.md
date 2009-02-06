@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2008-10-01"
+last_updated: "2009-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -2325,7 +2325,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 12787 | Fragmin 2500 injvlst 12.500ie/ml wwsp 0,2ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| DALTEPARIN-25000-IE/ML-INJ.VLOEISTOF, WWSP | DALTEPARIN-25000-IE/ML-INJ.VLOEISTOF, WWSP | 15.64165600 per ml |
+| DALTEPARIN-25000-IE/ML-INJ.VLOEISTOF, WWSP | DALTEPARIN-25000-IE/ML-INJ.VLOEISTOF, WWSP | 19,925906 per ml |
 |   | Artikelnaam |   |
 | 12788 | Fragmin 5000 injvlst 25.000ie/ml wwsp 0,2ml |   |
 | 20607 | Fragmin 7500 injvlst 25.000ie/ml wwsp 0,3ml |   |
@@ -5562,7 +5562,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 27878/13968 | Livocab oogdruppels 0,5mg/ml flacon 4ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| LEVOCETIRIZINE-0.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | LEVOCETIRIZINE-0.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.05506500 per ml |
+| LEVOCETIRIZINE-0.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | LEVOCETIRIZINE-0.5-MG/ML-OPLOSSING/SUSPENSIE, ORAAL | 0.055065 per ml |
 | Registratienummer | Artikelnaam |   |
 | 33414 | Xyzal drank 0,5mg/ml |   |
 |   |   |   |
@@ -5663,7 +5663,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | Productgroep |   | Maximumprijs |
 | LEVONORGESTREL-1.5-MG-TABLET | LEVONORGESTREL-1.5-MG-TABLET | 7.65146700 per stuk |
 | Registratienummer | Artikelnaam |   |
-| 32253 | Postinor tablet 1500mcg |   |
 | 32303 | Norlevo tablet 1,5mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
