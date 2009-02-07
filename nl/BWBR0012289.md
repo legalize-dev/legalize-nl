@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2009-02-05"
+last_updated: "2009-02-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -1105,7 +1105,7 @@ Verder verblijf wordt ontzegd, indien de vreemdeling wegens een misdrijf;
 
 ### 6.1.1. De duur van het verblijf in Nederland
 
-Minderjarige vreemdelingen met een in Nederland gevestigde Nederlandse ouder
+Aan het feit dat een straf geheel of gedeeltelijk, voorwaardelijk of onvoorwaardelijk, door Nederlandse of buitenlandse autoriteiten is kwijtgescholden, komt voor de toepassing van deze regels geen zelfstandige betekenis toe.
 
 ### 5.3.4. Geldig document voor grensoverschrijding
 
@@ -3987,9 +3987,9 @@ Bij de ontzegging van voortzetting van verblijf (verblijfsbeëindiging) wordt de
 
 In geval de verblijfsvergunning is verleend onder een beperking verband houdend met gezinshereniging of gezinsvorming houdt de Minister bij de toepassing van [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) ten minste rekening met de aard en de hechtheid van de gezinsband van de vreemdeling, alsmede het bestaan van familiebanden of culturele of sociale banden met het land van herkomst (zie [artikel 3.86, negende lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86)).
 
-Ingevolge [artikel II bij het besluit van 5 juli 2002 tot wijziging van artikel 3.86 Vb 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0013860&artikel=II) (Stb. 2002, 371, in werking getreden op 17 juli 2002) blijft het gewijzigde Besluit buiten toepassing ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor de inwerkingtreding van dit besluit niet kon worden beëindigd, tenzij die vreemdeling wegens een na inwerkingtreding van [dit Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013860) gepleegd misdrijf waartegen een gevangenisstraf van twee jaar of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis is veroordeeld.
+Ingevolge [artikel II bij het besluit van 5 juli 2002 tot wijziging van artikel 3.86 Vb 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0013860&artikel=II) (Stb. 2002, 371, in werking getreden op 17 juli 2002) blijft het gewijzigde [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) buiten toepassing ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor de inwerkingtreding van [dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013860) niet kon worden beëindigd, tenzij die vreemdeling wegens een na inwerkingtreding van [dit Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013860) gepleegd misdrijf waartegen een gevangenisstraf van twee jaar of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis is veroordeeld.
 
-Ingevolge [artikel II bij het besluit van 29 september 2004 tot wijziging van artikel 3.86 Vb 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0017262&artikel=II) (Stb. 2004, 496, in werking getreden op 1 november 2004), blijft het gewijzigde Besluit buiten toepassing ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor de inwerkingtreding van dit besluit niet kon worden beëindigd, tenzij die vreemdeling wegens een na inwerkingtreding van dit Besluit gepleegd misdrijf bij onherroepelijk geworden rechterlijk vonnis is veroordeeld tot jeugddetentie of een maatregel is opgelegd als bedoeld in [artikel 38m](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m) of [77h, vierde lid, onder a, WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h).
+Ingevolge [artikel II bij het besluit van 29 september 2004 tot wijziging van artikel 3.86 Vb 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0017262&artikel=II) (Stb. 2004, 496, in werking getreden op 1 november 2004), blijft het gewijzigde [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) buiten toepassing ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor de inwerkingtreding van [dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017262) niet kon worden beëindigd, tenzij die vreemdeling wegens een na inwerkingtreding van [dit Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017262) gepleegd misdrijf bij onherroepelijk geworden rechterlijk vonnis is veroordeeld tot jeugddetentie of een maatregel is opgelegd als bedoeld in [artikel 38m](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m) of [77h, vierde lid, onder a, WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h).
 
 De ernst van de inbreuk op de openbare orde wordt bepaald aan de hand van de strafmaat. Om te beoordelen of het verdere verblijf aan een vreemdeling kan worden ontzegd, wordt de hoogte van de opgelegde straf gerelateerd aan de duur van het verblijf van de vreemdeling in Nederland, op het moment dat het misdrijf werd gepleegd. Dit is het principe van de zogenaamde glijdende schaal. Deze regels zijn van toepassing op alle gevallen waarin sprake is van verlenging of wijziging van het verblijf, alsmede indien een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in [artikel 14 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) wordt ingetrokken.
 
@@ -4001,7 +4001,7 @@ Tegen de meeste misdrijven is een maximale door de rechter op te leggen straf be
 
 Het vonnis waarbij de straf of maatregel is opgelegd, moet onherroepelijk zijn. Indien het vonnis nog niet onherroepelijk is, of indien er een strafzaak openstaat, wordt contact opgenomen met het OM. De beslistermijn kan met toepassing van [artikel 25, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=25) schriftelijk met maximaal zes maanden worden verlengd.
 
-Indien de aanvraag is ingediend door een langdurig ingezetene of diens gezinslid wordt de termijn met toepassing van [artikel 25, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=25) met maximaal drie maanden verlengd
+Indien de aanvraag is ingediend door een langdurig ingezetene of diens gezinslid wordt de termijn met toepassing van [artikel 25, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=25) met maximaal drie maanden verlengd.
 
 Bij de glijdende schaal worden alleen de onvoorwaardelijk ten uitvoer te leggen gedeelten van de straf meegeteld bij de berekening van de norm in de glijdende schaal.
 
@@ -4009,9 +4009,9 @@ In geval van meerdere veroordelingen worden de onvoorwaardelijke gedeelten bij e
 
 Een taakstraf is ofwel een werkstraf (het verrichten van onbetaalde arbeid ten algemene nutte) ofwel een leerstraf (het volgen van een leertraject) dan wel een combinatie van beiden. De taakstraf komt in plaats van een gevangenisstraf. In geval van een veroordeling tot een taakstraf wordt de duur van de door de rechter bepaalde vervangende hechtenis als uitgangspunt genomen bij de toepassing van de glijdende schaal. Dit betekent dat de taakstraf wordt tegengeworpen ongeacht de duur van de taakstraf (zie de [artikelen 22, c en d, WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=22)).
 
-Aan het feit dat een straf geheel of gedeeltelijk, voorwaardelijk of onvoorwaardelijk, door Nederlandse of buitenlandse autoriteiten is kwijtgescholden, komt voor de toepassing van deze regels geen zelfstandige betekenis toe.
+Terbeschikkingstelling op grond van [artikel 37a WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a) kan leiden tot verblijfsbeëindiging. Indien een vreemdeling ter beschikking is gesteld kan dit met zich meebrengen dat het verblijfsrecht eerst bij verlenging van die terbeschikkingstelling met toepassing van de glijdende schaal kan worden beëindigd. De verlenging kan immers betekenen dat wordt voldaan aan de betreffende norm van [artikel 3.86, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86). Zo spoedig mogelijk nadat een rechterlijk vonnis waarin verlenging van de TBS-maatregel is uitgesproken onherroepelijk is geworden wordt (opnieuw) beoordeeld of tot verblijfsbeëindiging kan worden overgegaan.
 
-Op grond van hun bijzondere banden met Nederland vinden ongewenstverklaring en ontzegging van verder verblijf op grond van gevaar voor de openbare orde niet plaats ten aanzien van deze vreemdelingen (zie [artikel 3.50, vierde lid Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50)).
+Minderjarige vreemdelingen met een in Nederland gevestigde Nederlandse ouder. Op grond van hun bijzondere banden met Nederland vinden ongewenstverklaring en ontzegging van verder verblijf op grond van gevaar voor de openbare orde niet plaats ten aanzien van deze vreemdelingen (zie [artikel 3.50, vierde lid Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.50)).
 
 Om reden van hun bijzondere banden met Nederland geldt voor hen dat bij een verblijfsduur van ten minste tien en minder dan vijftien jaar alleen in geval van veroordeling wegens handel in verdovende middelen ontzegging van verder verblijf en ongewenstverklaring plaats zal vinden en bij een verblijfsduur van ten minste vijftien jaar niet tot verblijfsbeëindiging wordt overgegaan.
 
