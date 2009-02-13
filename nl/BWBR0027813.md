@@ -4,7 +4,7 @@ identifier: "BWBR0027813"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-09-01"
-last_updated: "2009-01-01"
+last_updated: "2009-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027813"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet op de Raad van Sta
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman.
 
 ##### Artikel II
 
