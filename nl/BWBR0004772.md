@@ -4,7 +4,7 @@ identifier: "BWBR0004772"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-12"
-last_updated: "2009-01-01"
+last_updated: "2009-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004772"
 soort: "AMvB"
@@ -48,15 +48,23 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) en [36b van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b).
+1. Dit besluit geeft uitvoering aan de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=15), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) en [36b van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b).
 
 2. Dit besluit verstaat hierna onder wet: de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770).
 
-### Hoofdstuk I
+### Hoofdstuk I. Versnelde tenuitvoerlegging dwangbevel
 
 ##### Artikel 2
 
-Vervallen
+[Artikel 15, eerste lid, aanhef en onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=15) vindt toepassing:
+
+- a. met betrekking tot een naheffingsaanslag als bedoeld in [artikel 9, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9), ingeval een dwangbevel terstond na het opleggen van die aanslag wordt uitgevaardigd;
+
+- b. in situaties als bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=10) indien in het kader van een actie gericht op de toepassing en handhaving van de wet of de belastingwet, bedoeld in [artikel 2, eerste lid, onderdeel a, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), op de uren en dagen, bedoeld in [artikel 64, eerste en tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=64):
+
+- 1°. bekend wordt dat een belastingaanslag aan de belastingschuldige wordt opgelegd ter zake waarvan terstond een dwangbevel wordt uitgevaardigd, of
+
+- 2°. een vermogensbestanddeel van de belastingschuldige aan wie reeds een dwangbevel is betekend, wordt aangetroffen.
 
 ##### Artikel 3
 
@@ -100,7 +108,7 @@ Vervallen
 
 ##### Artikel 8
 
-Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2009-01-01&g=2009-01-01) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2009-01-01&g=2009-01-01), doet, is gehouden aan de ontvanger:
+Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2009-02-13&g=2009-02-13) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2009-02-13&g=2009-02-13), doet, is gehouden aan de ontvanger:
 
 - a. de door deze gevraagde gegevens en inlichtingen te verstrekken die voor de vaststelling van de oorzaak van de betalingsonmacht, of voor de bepaling van de financiële positie van het lichaam van belang kunnen zijn;
 
@@ -108,7 +116,7 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 
 ##### Artikel 9
 
-1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2009-01-01&g=2009-01-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
+1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2009-02-13&g=2009-02-13), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
 
 2. De gegevens en inlichtingen dienen duidelijk, stellig en zonder voorbehoud te worden verstrekt, mondeling, schriftelijk of op andere wijze, zulks ter keuze van de ontvanger.
 
@@ -133,3 +141,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Hoofdstuk IV. Inwerkingtreding en citeertitel
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+### Hoofdstuk II. Renteberekening
+
+### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
