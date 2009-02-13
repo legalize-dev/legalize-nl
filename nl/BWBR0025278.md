@@ -4,7 +4,7 @@ identifier: "BWBR0025278"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2005-01-01"
+last_updated: "2009-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025278"
 soort: "AMvB"
@@ -48,15 +48,27 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+1. De vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de staatsraden en staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4), de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen die in verband met de vervulling van hun ambt zijn verhuisd, ontvangen een verhuiskostenvergoeding, indien zij zich met de verhuizing binnen een afstand van 25 kilometer van de Raad van State, de Algemene Rekenkamer onderscheidenlijk de Nationale ombudsman hebben gevestigd en de afstand tussen de oude woning en de Raad van State, de Algemene Rekenkamer onderscheidenlijk de Nationale ombudsman ten minste 50 kilometer bedroeg.
+
+2. De verhuiskostenvergoeding bestaat uit:
+
+- a. een bedrag voor de kosten verbonden aan het vervoer van de betrokkene en zijn gezinsleden naar de nieuwe woning, welk bedrag zo nodig wordt vermeerderd met een bedrag voor reis- en verblijfkosten, welke de betrokkene en eventueel een of meer van diens gezinsleden vooraf hebben gemaakt ter bezichtiging van woonruimte;
+
+- b. een bedrag voor de kosten van vervoer van de bagage en van de inboedel van de betrokkene naar de nieuwe woning, waaronder begrepen de kosten van het in- en uitpakken;
+
+- c. een bedrag voor alle andere direct uit de verhuizing voortvloeiende kosten.
+
+3. Het bedrag, bedoeld in het tweede lid, onder c, wordt vastgesteld op tien procent van de jaarlijkse bezoldiging op de dag waarop de nieuwe woning wordt betrokken.
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de staatsraden en staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4), de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen worden informatie- en communicatievoorzieningen en lectuur, daarbij inbegrepen de hiervoor benodigde aansluitingen en abonnementen, ter beschikking gesteld voor de duur van de vervulling van hun ambt.
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+1. In het geval van binnenlandse en buitenlandse dienstreizen worden de noodzakelijke faciliteiten ter beschikking gesteld ten behoeve van vervoer en verblijf voor de vice-president van de Raad van State en de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State, de president en de overige leden in gewone dienst van de Algemene Rekenkamer, de Nationale ombudsman en de substituut-ombudsmannen en voor degenen die hen vergezellen.
+
+2. De staatsraden en staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4) ontvangen op de voet van de regeling voor het personeel werkzaam bij de sector Rijk een vergoeding van reis- en verblijfkosten.
 
 ##### Artikel 4
 
@@ -136,38 +148,62 @@ T = het hoogste van de in de tarieftabel van [artikel 20a, eerste lid, van de We
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de staatsraden en staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4), de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen worden de overige voorzieningen ter beschikking gesteld die noodzakelijk zijn voor het vervullen van hun ambt.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+1. De vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de staatsraden en staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4), de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen ontvangen een maandelijkse vergoeding voor de kosten van voorzieningen die voor hun eigen rekening komen en door hen mede worden aangewend ten behoeve van de vervulling van hun ambt.
+
+2. De maandelijkse vergoeding, bedoeld in het eerste lid, bedraagt
+
+- a. voor de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman € 633,88;
+
+- b. voor de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen € 527,55.
+
+3. De staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4) ontvangen voor de kosten die aan de vervulling van het ambt zijn verbonden en die voor eigen rekening komen een zodanig deel van het bedrag, bedoeld in het tweede lid, onderdeel b, als overeenkomt met de vastgestelde omvang van de te vervullen taak.
+
+4. De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+De vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de staatsraden en staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4), de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen ontvangen een vergoeding voor de door hen gemaakte kosten van voorzieningen die niet voor hun eigen rekening komen en die aantoonbaar door hen zijn aangewend voor de vervulling van hun ambt.
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+De vergoeding die de staatsraden in buitengewone dienst, bedoeld in [artikel 4, vierde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4) en de leden in buitengewone dienst van de Algemene Rekenkamer per gehele of gedeeltelijke werkdag ontvangen voor het deelnemen aan de werkzaamheden van de Raad van State onderscheidenlijk de Algemene Rekenkamer, is gelijk aan de vergoeding die raadsheren in buitengewone dienst van de Hoge Raad per zitting ontvangen.
 
 ##### Artikel 9
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Reisbesluit binnenland.
 
 ##### Artikel 10
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Reisbesluit buitenland.
 
 ##### Artikel 11
 
-Dit onderdeel is nog niet inwerking getreden
+De volgende besluiten worden ingetrokken:
+
+- a. Het [besluit van 31 maart 1993, houdende regeling van een vergoeding voor de vice-president van de Raad van State en de staatsraden, alsmede de president en de overige leden in gewone dienst van de Algemene Rekenkamer voor de kosten die aan de vervulling van het ambt zijn verbonden](https://wetten.overheid.nl/jci1.3:c:BWBR0005966) (Stb. 219);
+
+- b. Het [besluit van 19 november 1990, houdende nadere regeling van de rechtspositie van de Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0004905) (Stb. 581);
+
+- c. Het [besluit van 9 juni 1972, houdende regeling van de vergoeding voor staatsraden in buitengewone dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0002823) (Stb. 314);
+
+- d. Het [besluit van 21 september 1992, houdende regeling van de vergoeding voor leden in buitengewone dienst van de Algemene Rekenkamer](https://wetten.overheid.nl/jci1.3:c:BWBR0005656) (Stb. 538) en
+
+- e. Het [besluit van 28 april 1982, houdende vaststelling van de regeling betreffende de uitkering die na het overlijden van Ministers, Commissarissen des Konings, krachtens Grondwet of wet voor hun leven aangestelde ambtenaren, de Nationale ombudsman en substituut-ombudsmannen zal worden uitgekeerd](https://wetten.overheid.nl/jci1.3:c:BWBR0003493) (Stb. 308).
 
 ##### Artikel 12
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat:
+
+- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2009-02-13&g=2009-02-13), terugwerkt tot en met 1 januari 2005;
+
+- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2009-02-13&g=2009-02-13), terugwerkt tot en met 1 oktober 2007.
 
 ##### Artikel 13
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Besluit rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
