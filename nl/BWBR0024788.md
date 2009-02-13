@@ -138,21 +138,3 @@ Wijzigt de Wijzigingswet Wet op de Raad van State (herstructurering Raad van Sta
 Deze wet wordt aangehaald als: Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a
-
-1. Een Nationale ombudsman of een substituut-ombudsman die naar het oordeel van een arts een structurele functionele beperking heeft, kan aanspraak maken op een voorziening als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35).
-
-2. Het gestelde bij of krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) is van overeenkomstige toepassing.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 12a
-
-Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of invorderingen van bezoldiging is geëindigd, ontlasten de Staat, indien een gegeven opdracht tot de betaling of afgifte niet meer tijdig kon worden ingetrokken, toen de Staat van het eindigen van de volmacht kennis kreeg.
-
-##### Artikel 12b
-
-Beslag omvat in deze wet ook de invordering, bedoeld in [artikel 19 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19).
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
