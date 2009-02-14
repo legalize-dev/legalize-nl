@@ -4,7 +4,7 @@ identifier: "BWBR0020566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-04-11"
+last_updated: "2009-02-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020566"
 soort: "ministeriele-regeling"
@@ -137,6 +137,8 @@ Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een
 - b. het model nog steeds voldoet aan de eisen zoals die op grond van de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) waren gesteld en
 
 - c. het model met goed gevolg een onderzoek heeft ondergaan overeenkomstig beoordelingsprocedurebijlage B of beoordelingsprocedurebijlage G en de daarbij van toepassing zijnde voorschriften van de [bijlage bedoeld in artikel 10 van het Meetinstrumentenbesluit II](onbekend).
+
+3. Indien een vloeistofmeetinstallatie wordt aangesloten op onder de werking van de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) toegelaten andere apparatuur en deze apparatuur eveneens het meetresultaat vastlegt en weergeeft, voldoet deze apparatuur wat betreft het vastleggen en weergeven van het meetresultaat aan de eisen van de richtlijn meetinstrumenten en mag de weergave van het meetresultaat op die andere apparatuur niet afwijken van het door de vloeistofmeetinstallatie vastgestelde meetresultaat.
 
 ##### Artikel 10
 
