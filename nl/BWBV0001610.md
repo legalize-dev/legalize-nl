@@ -4,7 +4,7 @@ identifier: "BWBV0001610"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-06-30"
-last_updated: "2003-11-02"
+last_updated: "2009-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001610"
 soort: "verdrag"
@@ -34,27 +34,33 @@ entry_into_force: "2011-06-30"
 ---
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en Bangladesh inzake het project " Integrated Planning for Sustinable Water Management (IPSWAM)"
 
-The Netherlands Minister for Development Co-operation, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ``the Netherlands Party", represented in this matter by Sjef IJzermans, Ambassador of the Kingdom of the Netherlands to Bangladesh,
+The Netherlands Minister for Development Co-operation, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ‘the Netherlands Party’, represented in this matter by Mrs Bea M. ten Tusscher, Ambassador of the Kingdom of the Netherlands to Bangladesh
 
 and
 
-The Economic Relations Division of the Ministry of Finance, Government of the People's Republic of Bangladesh, being the competent Bangladesh Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ``the Bangladesh Party",
+The Economic Relations Division of the Ministry of Finance, Government of the People's Republic of Bangladesh, being the competent Bangladesh Authority for the purpose of this Administrative Arrangement, hereinafter referred to as “the Bangladesh Party”,
 
-Having regard to the provisions of Article I of the Agreement on Technical Co-operation between the Kingdom of the Netherlands and the People's Republic of Bangladesh signed at Dhaka on 19 May 1977, hereinafter referred to as ``the Agreement",
+Having regard to the provisions of Article I of the Agreement on Technical Co-operation between the Kingdom of the Netherlands and the People's Republic of Bangladesh signed at Dhaka on 19 May 1977, hereinafter referred to as “the Agreement”,
 
 Have entered into the following administrative arrangement:
 
 ##### Article I. The Project
 
-1. The two Parties shall jointly carry out a project, entitled ``Integrated Planning for Sustainable Water Management (IPSWAM)", hereinafter referred to as ``the Project".
+1. The two Parties shall jointly carry out a project, entitled “Integrated Planning for Sustainable Water Management (IPSWAM)”, hereinafter referred to as “the Project”.
 
 2. The objective of this Project is to strengthen the capacity of water sector organisations, including local level Water Management Organisations, the different offices of the Bangladesh Water Development Board (headquaters and regional/local level) and to a limited extent Local Government Institutions, to responsibly assume their roles as specified in the National Water Policy and the Guidelines for Participatory Water Management.
 
-3. The aforesaid implementation of the Project by the two Parties is planned to last five years.
+3. The aforesaid implementation of the Project by the two Parties is planned to last till 31st January 2010. This completion date will supersede all other references mentioned in this Administrative Arrangement as the completion date of the Project
 
 ##### Article II. The contribution by the Netherlands Party
 
-The Netherlands Party shall make a total maximum contribution to the project of EUR 11,982,065. Of this contribution a maximum amount of EUR 7,236,180 will be made available as Technical Assistance through direct contracting by the Netherlands Party and a maximum amount of EUR 4,541,685 will be made available as Financial Assistance to the Bangladesh Water Development Board (BWDB). A maximum amount of EUR 204,200 will be available for a Joint Mid Term Review Mission and for Joint Annual Review Missions.
+The Netherlands Party shall make a total maximum contribution to the project as follows:
+
+- •. A maximum amount of EUR 7,236,180 will be made available as Technical Assistance through direct contracting by the Netherlands Party;
+
+- •. A maximum amount of BDT 318,496,863 will be made available as Financial Assistance to the Bangladesh Water Development Board (BWDB).
+
+- •. A maximum amount of EUR 204,200 will be available for a Joint Mid Term Review Mission and for Joint Annual Review Missions.
 
 ##### Article III. The contribution by the Bangladesh Party
 
@@ -62,9 +68,7 @@ The Bangladesh Party shall make the contribution to the Project of Bangladesh Ta
 
 ##### Article IV. The Executive Authorities
 
-1. The Netherlands Party shall appoint the Royal Netherlands Embassy in Dhaka as the Netherlands Executive Authority in charge of the Project.
-
-The Netherlands Executive Authority shall be represented, in as far as the daily operations under the Project are concerned, by the Team Leader of the Project.
+1. The Netherlands Party shall appoint the Embassy of the Kingdom of The Netherlands to Bangladesh as the Netherlands Executive Authority in charge of the Project. The Netherlands Executive Authority shall be represented, in as far as the daily operations under the Project are concerned, by the Team Leader of the Project
 
 2. The Bangladesh Party shall appoint the Ministry of Water Resources as the Bangladesh Executive Authority in charge of the Project.
 
