@@ -4,7 +4,7 @@ identifier: "BWBR0023914"
 country: "nl"
 rank: "zbo"
 publication_date: "2012-08-25"
-last_updated: "2009-01-01"
+last_updated: "2009-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023914"
 soort: "zbo"
@@ -61,11 +61,17 @@ In geval van een herindicatie bedoeld in artikel 11 lid 3 van de Wet Sociale Wer
 
 3. In de in het vorige lid bedoelde deskundigheid wordt voorzien door deskundigen die in dienst zijn van UWV of door deskundigen die door UWV op grond van een raamovereenkomst van een derde worden ingehuurd.
 
-4. Indien de aanvrager niet of onvoldoende medewerking verleent aan het onderzoek, kan UWV daaraan gevolgen verbinden bij de beslissing omtrent het verzoek tot (her)indicatie.
+4. De deskundigen, bedoeld in het derde lid, voldoen aan de volgende opleidings- en ervaringseisen:
+
+- a. een arbeidsdeskundige is in het bezit van een getuigschrift arbeidsdeskundige van een op grond van de [Wet op het onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) erkende instelling en beschikt over kennis en ervaring in de proces- en arbeodsanalyse;
+
+- b. een arts is ingeschreven in het register van sociaal geneeskundigen, tak arbeids- en bedrijfsgeneeskunde, dan wel tak verzekeringsgeneeskunde of het register sociale geneeskunde, hoofdstroom arbeid en gezondheid, van de Sociaal-Geneeskundige Registratiecommissie van de Koninklijke Nederlandse Maatschappij tot bevordering van de Geneeskunst;
+
+- c. een psycholoog staat ingeschreven als Psycholoog NIP in het register van het Nederlands Instituut van Psychologen, dan wel als gezondheidszorgpsycholoog in het register, bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), en beschikt over kennis en ervaring op het gebied van psychodiagnostiek.
 
 5. De deskundigen, bedoeld in het derde lid, voldoen aan de eisen ten aanzien van onafhankelijkheid, zoals neergelegd in de [Regeling uitvoering sociale werkvoorziening en begeleid werken 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023158).
 
-6. De aanvrager is verplicht medewerking te verlenen aan het onderzoek.
+6. Indien de aanvrager niet of onvoldoende medewerking verleent aan het onderzoek, kan UWV daaraan gevolgen verbinden bij de beslissing omtrent het verzoek tot (her)indicatie.
 
 ##### Artikel 3. Geldigheidsduur (her)indicatie
 
