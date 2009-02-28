@@ -4,7 +4,7 @@ identifier: "BWBR0025155"
 country: "nl"
 rank: "wet"
 publication_date: "2010-07-01"
-last_updated: "2006-01-01"
+last_updated: "2009-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025155"
 soort: "wet"
@@ -39,7 +39,7 @@ entry_into_force: "2009-02-28"
 
 ##### Artikel I
 
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
@@ -119,7 +119,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIIl
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 1.
 
 ##### Artikel VIIm
 
