@@ -4,7 +4,7 @@ identifier: "BWBR0005016"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-03-14"
-last_updated: "2002-01-01"
+last_updated: "2009-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005016"
 soort: "AMvB"
@@ -44,11 +44,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van vertraging van een reiziger en verlies, beschadiging of vertraging van diens bagage, is beperkt tot een bedrag van € 1 000.
+1. De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van vertraging van een reiziger en verlies, beschadiging of vertraging van diens bagage, is beperkt tot een bedrag van € 1500.
 
-2. De schadevergoeding die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 1147 van boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1147) is beperkt tot een bedrag van € 137 000 per reiziger.
+2. De schadevergoeding die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 1147 van boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1147) is beperkt tot een bedrag van € 1.000.000 per reiziger met een maximum van € 15.000.000 per gebeurtenis.
 
-3. In het geval dat de schadeloosstelling wordt bepaald in de vorm van een rente mag het gekapitaliseerde bedrag een bedrag van € 137 000 per reiziger niet te boven gaan.
+3. In het geval dat de schadeloosstelling wordt bepaald in de vorm van een rente mag het gekapitaliseerde bedrag het bedrag waartoe de aansprakelijkheid is beperkt op grond van het tweede lid niet te boven gaan.
 
 ##### Artikel 2
 
