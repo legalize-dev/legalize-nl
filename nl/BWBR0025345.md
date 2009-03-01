@@ -163,5 +163,3 @@ Toename van de beheersing van de vaardigheid spreken van de nieuwkomers die hun 
 Toename van de beheersing van de vaardigheid luisteren van de nieuwkomers die hun traject hebben afgerond in in 2007 en 2008.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
