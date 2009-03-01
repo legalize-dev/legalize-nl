@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-02-08"
+last_updated: "2009-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Besluit:
 |   |   |   | Precisietechnologie (periode vooraanmelding) |   | – |
 |   |   |   | Precisietechnologie |   |   |
 |   |   |   | IPCR (periode vooraanmelding) | 01-01 t/m 30-01 | – |
-|   |   |   | IPCR |   |   |
+|   |   |   | IPCR | 15-03 t/m 15-04 | € 4.000.000 |
 |   |   |   | MMI (periode vooraanmelding) |   | – |
 |   |   |   | MMI |   |   |
 |   |   |   | Self healing materials (periode vooraanmelding) |   | – |
@@ -106,11 +106,12 @@ Besluit:
 | 3.12 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationale InnoWATOR-projecten) | [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=7.11) |   |   |   |
 | 3.13 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Maritieme MKB-projecten) | [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=8.2) |   | 01-03 t/m 30-10 | 600.000 |
 | 3.14 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Maritieme innovatieprojecten) | [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=8.8) |   | 01-03 t/m 01-06 | 4.000.000 |
-| 3.15 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Point One MKB-projecten) | [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.2) |   |   |   |
-| 3.16 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) (Point One R&D-projecten) | 9.8 |   |   |   |
-| 3.17 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationale Point One R&D-projecten) | [9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.17) |   |   |   |
-| 3.18 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Polymeren haalbaarheidsprojecten) | [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10.2) |   |   |   |
-| 3.19 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Polymeren MKB-innovatieprojecten) | [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10.8) |   |   |   |
+| 3.15 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Point One MKB-projecten) | [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.2) |   | 01-04 t/m 16-10 | € 1.000.000 |
+| 3.16 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) (Point One R&D-projecten) | 9.8 |   | 02-03 t/m 11-05 | € 7.000.000 |
+| 3.17 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationale Point One R&D-projecten) | [9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.17) |   | 02-03 t/m 13-03 | € 39.000.000 |
+| 3.18 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Polymeren haalbaarheidsprojecten) | [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10.2) |   | 01-04 t/m 01-10 | € 400.000 |
+| 3.19 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Polymeren MKB-innovatieprojecten) | [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10.8) |   | 01-04 t/m 01-10 | € 900.000 |
+| 3.20 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Polymeren innovatieprojecten) | 10.15 |   | 15-05 t/m 01-10 | 900.000 |
 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) |
 | 4 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) (Pieken in de delta) | [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&artikel=2.3) |   |   |   |
 |   |   |   | Oost-Nederland |   |   |
