@@ -120,25 +120,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Algemeen machtigingsbesluit SER.
-
-##### Artikel 2a
-
-1. De bevoegdheid tot het instellen van commissies, alsmede tot het samenstellen daarvan, wordt gemandateerd aan het dagelijks bestuur.
-
-2. Het dagelijks bestuur informeert de Raad regelmatig over de gebruikmaking van het in het eerste lid verleende mandaat.
-
-##### Artikel 2b
-
-1. Het dagelijks bestuur wordt mandaat verleend met betrekking tot het nemen van besluiten ten aanzien van de taken en bevoegdheden die in de statuten van de Stichting Certificering Opleiding Ondernemingsraden aan de Raad zijn opgedragen.
-
-2. Het dagelijks bestuur informeert de Raad regelmatig over de gebruikmaking van het in het eerste lid verleende mandaat.
-
-#### § 3. Slotbepalingen
-
-##### Artikel 2c
-
-1. Het dagelijks bestuur wijst, ten behoeve van de controle van de jaarrekening en de daarop betrekking hebbende boeken en bescheiden, namens de Raad een accountant aan, als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
-
-2. Het dagelijks bestuur verstrekt namens de Raad jaarlijks voor 1 juli een raming van de inkomsten en uitgaven van de Raad in het volgende begrotingsjaar aan de Minister van Sociale Zaken en Werkgelegenheid.
-
-#### § 3. Slotbepalingen
