@@ -4,7 +4,7 @@ identifier: "BWBV0003085"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-03-01"
-last_updated: "2008-04-01"
+last_updated: "2009-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003085"
 soort: "verdrag"
@@ -64,7 +64,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 2
 
-Dit Verdrag is van toepassing op voorraden waarop de IEP-Overeenkomst van toepassing is die door de bevoegde autoriteit van Nederland zijn goedgekeurd in overeenstemming met het goedkeuringsproces vervat in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003085&artikel=5&z=2008-04-01&g=2008-04-01).
+Dit Verdrag is van toepassing op voorraden waarop de IEP-Overeenkomst van toepassing is die door de bevoegde autoriteit van Nederland zijn goedgekeurd in overeenstemming met het goedkeuringsproces vervat in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003085&artikel=5&z=2009-03-01&g=2009-03-01).
 
 ##### Artikel 3
 
@@ -74,7 +74,7 @@ Dit Verdrag is van toepassing op voorraden waarop de IEP-Overeenkomst van toepas
 
 - b. door een in Nederland gevestigde entiteit, namens de in Nieuw-Zeeland gevestigde entiteit.
 
-2. Voorraden komen uitsluitend in aanmerking voor goedkeuring uit hoofde van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003085&artikel=5&z=2008-04-01&g=2008-04-01) van dit Verdrag indien de in Nieuw-Zeeland gevestigde entiteit erin heeft toegestemd deze voorraden aan te houden, hetzij door haarzelf, hetzij door de andere entiteit, vanaf de eerste dag van een kalenderkwartaal gedurende ten minste een of meer volledige kalenderkwartalen.
+2. Voorraden komen uitsluitend in aanmerking voor goedkeuring uit hoofde van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003085&artikel=5&z=2009-03-01&g=2009-03-01) van dit Verdrag indien de in Nieuw-Zeeland gevestigde entiteit erin heeft toegestemd deze voorraden aan te houden, hetzij door haarzelf, hetzij door de andere entiteit, vanaf de eerste dag van een kalenderkwartaal gedurende ten minste een of meer volledige kalenderkwartalen.
 
 3. Indien een in Nieuw-Zeeland gevestigde entiteit voorraden aanhoudt in overeenstemming met het eerste lid van dit artikel, worden deze voorraden niet beschouwd als onderdeel van de voorraadverplichting van Nederland, maar als onderdeel van de voorraadverplichting van Nieuw-Zeeland.
 
@@ -84,9 +84,9 @@ Nederland verzet zich niet tegen de verwijdering van voorraden waarop dit Verdra
 
 ##### Artikel 5
 
-1. Alle in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003085&artikel=3&z=2008-04-01&g=2008-04-01) omschreven regelingen voor het aanhouden van voorraden dienen te worden goedgekeurd door de bevoegde autoriteit van Nederland en verzoeken hiertoe dienen te worden ingediend in overeenstemming met de in dit artikel vastgelegde procedure.
+1. Alle in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003085&artikel=3&z=2009-03-01&g=2009-03-01) omschreven regelingen voor het aanhouden van voorraden dienen te worden goedgekeurd door de bevoegde autoriteit van Nederland en verzoeken hiertoe dienen te worden ingediend in overeenstemming met de in dit artikel vastgelegde procedure.
 
-2. De bevoegde autoriteit van Nieuw-Zeeland stelt de bevoegde autoriteit van Nederland in kennis van de uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003085&artikel=3&z=2008-04-01&g=2008-04-01) vastgestelde regelingen. Deze kennisgeving wordt gedaan ten minste een maand voor aanvang van de periode waarin de regelingen van kracht zullen zijn en dient de volgende informatie te bevatten:
+2. De bevoegde autoriteit van Nieuw-Zeeland stelt de bevoegde autoriteit van Nederland in kennis van de uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003085&artikel=3&z=2009-03-01&g=2009-03-01) vastgestelde regelingen. Deze kennisgeving wordt gedaan ten minste een maand voor aanvang van de periode waarin de regelingen van kracht zullen zijn en dient de volgende informatie te bevatten:
 
 - a. de naam en het adres van de in Nederland gevestigde entiteit waar de voorraden zullen worden aangehouden, en de naam en het adres van de in Nieuw-Zeeland gevestigde entiteit waar de voorraden zullen worden aangehouden of namens welke de voorraden zullen worden aangehouden;
 
@@ -102,7 +102,7 @@ Nederland verzet zich niet tegen de verwijdering van voorraden waarop dit Verdra
 
 5. Goedkeuring van een verzoek kan door de bevoegde autoriteit van Nederland worden ingetrokken indien er een wezenlijke onjuistheid wordt geconstateerd in de gegevens die met betrekking tot die goedkeuring zijn verstrekt uit hoofde van het tweede lid van dit artikel. Alvorens een goedkeuring in te trekken uit hoofde van deze bepaling stelt de bevoegde autoriteit van Nederland de bevoegde autoriteit van Nieuw-Zeeland hiervan in kennis en biedt zij de entiteit met de voorraadverplichting die de gegevens heeft verstrekt in redelijke mate de gelegenheid bezwaar te maken.
 
-6. Onverminderd de in [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003085&artikel=5&z=2008-04-01&g=2008-04-01), vermelde termijnen, kunnen de bevoegde autoriteiten, indien bijzondere omstandigheden daartoe noodzaken, onderling besluiten een of alle termijnen te wijzigen.
+6. Onverminderd de in [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003085&artikel=5&z=2009-03-01&g=2009-03-01), vermelde termijnen, kunnen de bevoegde autoriteiten, indien bijzondere omstandigheden daartoe noodzaken, onderling besluiten een of alle termijnen te wijzigen.
 
 ##### Artikel 6
 
