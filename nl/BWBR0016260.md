@@ -4,7 +4,7 @@ identifier: "BWBR0016260"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2004-02-04"
+last_updated: "2009-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016260"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ In deze regeling wordt verstaan onder:
 
 - a. de minister: de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. de commissie: de commissie genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016260&artikel=2&z=2004-02-04&g=2004-02-04);
+- b. de commissie: de commissie genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016260&artikel=2&z=2009-03-01&g=2009-03-01);
 
 - c. risicobeoordelingsprocedure: het onderwerpen van nieuwe drugs aan een risicobeoordeling volgens vastgelegde criteria en werkwijze.
 
@@ -65,7 +65,7 @@ De commissie heeft tot taak:
 
 ##### Artikel 4
 
-1. De commissie bestaat uit een voorzitter en ten hoogste twintig leden.
+1. De commissie bestaat uit een onafhankelijke voorzitter en ten hoogste twintig leden.
 
 2. De leden van de commissie bestaan uit vertegenwoordigers van organisaties die deskundig zijn op het gebied van drugs, drugsgebruik en drugsverslaving, alsmede uit vertegenwoordigers van de Ministeries van Volksgezondheid, Welzijn en Sport en van Justitie.
 
@@ -79,11 +79,15 @@ De commissie stelt haar eigen werkwijze vast.
 
 ##### Artikel 6
 
+1.
+
 De commissie informeert de minister zo spoedig mogelijk na afronding van elke risicobeoordeling over de uitkomsten.
+
+2. De minister legt zijn reactie op de uitkomsten, alvorens die openbaar te maken, ter advisering voor aan de interdepartementale Stuurgroep Drugsbeleid.
 
 ##### Artikel 7
 
-Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt door het CAM. Het CAM beheert deze bescheiden overeenkomstig de werkwijze van de Inspectie voor de Gezondheidszorg.
+Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt door het CAM. Het CAM beheert deze bescheiden overeenkomstig de werkwijze van het RIVM.
 
 ##### Artikel 8
 
@@ -95,7 +99,7 @@ Wijzigt de regeling Instelling Coördinatiepunt Assessment en Monitoring nieuwe 
 
 ##### Artikel 10
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2003.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 april 2008.
 
 ##### Artikel 11
 
