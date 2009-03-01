@@ -4,7 +4,7 @@ identifier: "BWBR0025278"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2009-02-13"
+last_updated: "2009-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025278"
 soort: "AMvB"
@@ -198,9 +198,9 @@ De volgende besluiten worden ingetrokken:
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat:
 
-- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2009-02-13&g=2009-02-13), terugwerkt tot en met 1 januari 2005;
+- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2009-02-13&g=2009-03-01), terugwerkt tot en met 1 januari 2005;
 
-- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2009-02-13&g=2009-02-13), terugwerkt tot en met 1 oktober 2007.
+- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2009-02-13&g=2009-03-01), terugwerkt tot en met 1 oktober 2007.
 
 ##### Artikel 13
 
