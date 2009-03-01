@@ -4,7 +4,7 @@ identifier: "BWBR0020606"
 country: "nl"
 rank: "wet"
 publication_date: "2009-05-01"
-last_updated: "2008-09-10"
+last_updated: "2009-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020606"
 soort: "wet"
@@ -64,7 +64,9 @@ Wijzigt de Wijzigingswet Wegenverkeerswet 1994 (invoering bromfietsrijbewijs).
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+1. Na de inwerkingtreding van deze wet berusten de bepalingen uit het [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) die betrekking hebben op verkeersregelaars en verkeersbrigadiers, alsmede de hierop gebaseerde uitvoeringsregelingen, op [artikel 12, eerste en derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=12).
+
+2. Na de inwerkingtreding van deze wet berusten de bepalingen uit het [BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826) die betrekking hebben op verkeersregelaars en verkeersbrigadiers, alsmede de hierop gebaseerde uitvoeringsregelingen, op [artikel 12, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=12).
 
 ##### Artikel VI
 
@@ -74,9 +76,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel I, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=I&z=2008-09-10&g=2008-09-10), en [artikel IVb](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=IVb&z=2008-09-10&g=2008-09-10) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+2. [Artikel I, onderdeel Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=I&z=2009-03-01&g=2009-03-01), en [artikel IVb](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=IVb&z=2009-03-01&g=2009-03-01) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
-3. [Artikel IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=IVa&z=2008-09-10&g=2008-09-10) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 oktober 2006.
+3. [Artikel IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0020606&artikel=IVa&z=2009-03-01&g=2009-03-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 oktober 2006.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
