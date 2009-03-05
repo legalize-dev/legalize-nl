@@ -4,7 +4,7 @@ identifier: "BWBR0023744"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-04-25"
-last_updated: "2008-04-13"
+last_updated: "2009-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023744"
 soort: "ministeriele-regeling"
@@ -84,13 +84,17 @@ De Taskforce DeeltijdPlus heeft tot doel te bevorderen dat de omvang van de arbe
 
 - b. als leden:
 
-- 1°. mevrouw mr. D.M. van Gorp;
+- –. mevrouw dr. mr. D.M. van Gorp
 
-- 2°. mevrouw S. Özdemir;
+- –. mevrouw S. Özdemir tot 1 december 2008
 
-- 3°. mevrouw J.D. Ploegman;
+- –. mevrouw S. Boucetta met ingang van 1 januari 2009
 
-- 4°. de heer drs. M.C.J. de Wildt.
+- –. mevrouw J.D. Ploegman
+
+- –. de heer drs. M.C.J. de Wildt
+
+- –. mevrouw L.P. Ntoane met ingang van 1 februari 2009
 
 ##### Artikel 7. Secretariaat en beheer bescheiden
 
@@ -98,7 +102,7 @@ De Taskforce DeeltijdPlus heeft tot doel te bevorderen dat de omvang van de arbe
 
 2. Het beheer van de bescheiden betreffende de werkzaamheden van de Taskforce DeeltijdPlus geschiedt op overeenkomstige wijze als bij het Ministerie.
 
-3. De bescheiden worden na afloop van de periode, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023744&artikel=2&z=2008-04-13&g=2008-04-13), opgenomen in het archief van het Ministerie.
+3. De bescheiden worden na afloop van de periode, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023744&artikel=2&z=2009-03-05&g=2009-03-05), opgenomen in het archief van het Ministerie.
 
 ##### Artikel 8. Reglement
 
