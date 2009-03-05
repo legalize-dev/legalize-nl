@@ -4,7 +4,7 @@ identifier: "BWBR0021556"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2007-03-25"
+last_updated: "2009-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021556"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [bijlage bij het In- en uitvoerbesluit strategische goederen](onbekend), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen of uit te voeren aan entiteiten of personen in Libanon, of voor gebruik in Libanon, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.
+1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024269) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](https://wetten.overheid.nl/jci1.3:c:BWBR0020691&artikel=2), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen of uit te voeren aan entiteiten of personen in Libanon, of voor gebruik in Libanon, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.
 
 2. Het eerste lid is niet van toepassing op de verkoop, levering, overdracht of uitvoer van wapens en aanverwant materieel of de levering van technische bijstand, financiering en financiële bijstand, diensten als tussenhandelaar en andere diensten in verband met wapens en aanverwant materieel, indien vooraf toestemming is verleend door de bevoegde autoriteit, genoemd in de bijlage bij Verordening (EG) nr. 1412/2006, en:
 
