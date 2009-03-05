@@ -4,7 +4,7 @@ identifier: "BWBR0014730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-12"
-last_updated: "2007-10-03"
+last_updated: "2009-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014730"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. Het is verboden om wapens, munitie en militaire uitrusting, goederen, bewapende en niet-bewapende emplacementen, dan wel onderdelen, reparaties en onderhoud daarvan, alsmede militaire technologie, aangewezen in de bijlage bij het In- en uitvoerbesluit strategische goederen, te verkopen of te leveren aan natuurlijke personen of rechtspersonen in Somalië.
+1. Het is verboden om wapens, munitie en militaire uitrusting, goederen, bewapende en niet-bewapende emplacementen, dan wel onderdelen, reparaties en onderhoud daarvan, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024269) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](https://wetten.overheid.nl/jci1.3:c:BWBR0020691&artikel=2), te verkopen of te leveren aan natuurlijke personen of rechtspersonen in Somalië.
 
 2. Het eerste lid is niet van toepassing in geval het leveringen betreft van:
 
