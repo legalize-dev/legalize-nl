@@ -4,7 +4,7 @@ identifier: "BWBR0025040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-24"
-last_updated: "2009-01-01"
+last_updated: "2009-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025040"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ De Stichting dient het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet
 
 ##### Artikel 3. Indiening aanvraag erkenning
 
-1. Omroepverenigingen dienen de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), in de maand juni van het kalenderjaar voorafgaand aan een nieuwe erkenningperiode in.
+1. Omroepverenigingen dienen de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), in de maand juni van het kalenderjaar voorafgaand aan een nieuwe erkenningperiode in bij het Commissariaat. De eerste volzin is van overeenkomstige toepassing op de aanvraag voor erkenning van een educatieve media-instelling als bedoeld in [artikel 2.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.28).
 
 2. De minister beslist uiterlijk op 31 december van het kalenderjaar waarin de aanvraag is ingediend.
 
@@ -106,7 +106,7 @@ Als een aangewezen regionale of lokale publieke media-instelling voor een aanslu
 
 ##### Artikel 8. Afwijken van adviseringsprocedure
 
-Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2009-01-01&g=2009-01-01).
+Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2009-03-08&g=2009-03-08).
 
 ##### Artikel 9. Intrekken aanwijzing
 
@@ -150,7 +150,7 @@ Een besluit tot intrekking van de aanwijzing op grond van [artikel 2.67, eerste 
 
 ##### Artikel 13. Voorschotten Wereldomroep
 
-De regels over het verstrekken van voorschotten in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=12&z=2009-01-01&g=2009-01-01) zijn van overeenkomstige toepassing op de Wereldomroep, met dien verstande dat de bevoegdheden aan het Commissariaat toekomen en de hoogte van de voorschotten mede wordt bepaald op basis van de begroting, bedoeld in [artikel 2.160 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.160).
+De regels over het verstrekken van voorschotten in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=12&z=2009-03-08&g=2009-03-08) zijn van overeenkomstige toepassing op de Wereldomroep, met dien verstande dat de bevoegdheden aan het Commissariaat toekomen en de hoogte van de voorschotten mede wordt bepaald op basis van de begroting, bedoeld in [artikel 2.160 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.160).
 
 ##### Artikel 14. Evaluatiecommissies
 
@@ -190,7 +190,7 @@ Een commerciële omroepinstelling is voor elke verkregen toestemming voor het ve
 
 2. Het Commissariaat beslist uiterlijk op 31 december van het kalenderjaar waarin de aanvraag is ingediend.
 
-### Hoofdstuk 5. Stimuleringsfonds voor de pers
+### Hoofdstuk 4. Overheid
 
 #### § 5.1. Inkomsten uit reclame- en telewinkelboodschappen
 
@@ -224,7 +224,7 @@ Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](ht
 
 1. Het Stimuleringsfonds bevestigt de ontvangst van een aanvraag.
 
-2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2009-01-01&g=2009-01-01) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
+2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2009-03-08&g=2009-03-08) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
 
 ##### Artikel 22. Subsidieverlening
 
@@ -275,6 +275,66 @@ Deze regeling treedt in werking met ingang van 1 januari 2009.
 ##### Artikel 28. Citeertitel
 
 Deze regeling wordt aangehaald als: Mediaregeling 2008.
+
+## Bijlage
+
+### Toezichtskosten commerciële omroepinstellingen
+
+### Artikel 1
+
+### Artikel 2
+
+### Artikel 3
+
+Als een commerciële omroepinstelling beschikt over zowel een toestemming waarop artikel 1 van deze bijlage van toepassing is als een toestemming waarop artikel 2 van deze bijlage van toepassing is, en zij het programma-aanbod van beide toestemmingen steeds aansluitend op hetzelfde kanaal van een omroepnet verspreidt, is de omroepinstelling ten hoogste € 20.400 aan toezichtskosten verschuldigd.
+
+Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a. Inrichting aanvraag erkenning
+
+1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-03-08&g=2009-03-08), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
+
+2. Een aanvraag gaat vergezeld van vier kopieën.
+
+### Afdeling 2.2. Regionale en lokale publieke mediadiensten
+
+#### § 2.2.1. Aanwijzing
+
+#### § 2.2.2. Reclame- en telewinkelboodschappen
+
+### Afdeling 2.3. Nadere voorschriften publieke mediadiensten
+
+##### Artikel 13a. Indiening begroting
+
+De stichting Stimuleringsfonds Nederlandse culturele mediaproducties, genoemd in [artikel 2.125 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.125), dient jaarlijks vóór 15 september een begroting in.
+
+### Hoofdstuk 3. Commerciële omroepdiensten
+
+#### § 3.1. Aanvraag toestemming
+
+#### § 3.2. Toezichtskosten
+
+### Hoofdstuk 4a. Commissariaat voor de media
+
+##### Artikel 18a. Indiening begroting
+
+Het Commissariaat dient jaarlijks vóór 15 september een begroting in.
+
+### Hoofdstuk 5. Stimuleringsfonds voor de pers
+
+#### § 5.1. Inkomsten uit reclame- en telewinkelboodschappen
+
+#### § 5.2. Subsidieverstrekking
+
+##### Artikel 25a. Indiening begroting
+
+Het Stimuleringsfonds dient jaarlijks vóór 15 september een begroting in.
+
+### Hoofdstuk 6. Slot- en overgangsbepalingen
+
+##### Artikel 25b. Indiening aanvraag voor erkenningperiode 2010–2015
+
+In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-03-08&g=2009-03-08), dienen de omroepverenigingen en de educatieve media-instelling, bedoeld in [artikel 2.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.28), de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), voor de erkenningperiode die begint op 1 september 2010, in het tijdvak 27 juli tot en met 31 juli 2009 in bij het Commissariaat.
 
 ## Bijlage
 
