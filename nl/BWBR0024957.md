@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-03-01"
+last_updated: "2009-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -55,6 +55,7 @@ Besluit:
 | 1.1 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (borgstelling MKB-kredieten) | [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=2.3) | Bedrijfsborgstellingskredieten | 01-01 t/m 31-12 | 745.000.000 |
 | 1.2 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (borgstelling MKB-kredieten) | [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=2.3) | Bodemsaneringsborgstellingskredieten | 01-01 t/m 31-12 | 65.344.122 |
 | 1.3 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (groeifaciliteit) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.2) |   | 01-01 t/m 31-12 | 119.000.000 |
+| 1.3.a | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (Tijdelijke garantie ondernemingsfinanciering) | [3.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.12b) |   | Tijdstip van inwerkingtreding van de regeling tijdelijke garantie ondernemingsfinanciering t/m 12-12 | 1.000.000.000 |
 | 1.4 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (seed capital technostarters) | [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=4.3) |   | 01-01 t/m 31-03 | 12.000.000 |
 | 1.5 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (kennisexploitatie) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=5.2) |   |   |   |
 | 1.6 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (ondernemerschapsonderwijsprojecten) | [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=6.2) |   |   |   |
