@@ -4,7 +4,7 @@ identifier: "BWBR0001954"
 country: "nl"
 rank: "kb"
 publication_date: "2009-12-02"
-last_updated: "2003-07-15"
+last_updated: "2009-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001954"
 soort: "KB"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 "Onze Minister": Onze Minister van Justitie;
 
-"de ministerieele toestemming": de toestemming van Onzen Minister, ingevolge [artikel 30**a** der Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=30a) vereischt voor het als bedrijf verleenen van bemiddeling in zake muziekauteursrecht.
+"de ministerieele toestemming": de toestemming van Onzen Minister, ingevolge [artikel 30a der Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=30a) vereischt voor het als bedrijf verleenen van bemiddeling in zake muziekauteursrecht.
 
 ##### Artikel 2
 
