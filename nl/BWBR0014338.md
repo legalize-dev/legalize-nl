@@ -4,7 +4,7 @@ identifier: "BWBR0014338"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-03-10"
-last_updated: "2003-02-01"
+last_updated: "2009-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014338"
 soort: "AMvB"
@@ -48,17 +48,17 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. De vergoeding, bedoeld in [artikel 16h van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16h), bedraagt € 0,045 per gekopieerde pagina.
+1. De vergoeding, bedoeld in [artikel 16h van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16h), bedraagt € 0,045 per gekopieerde pagina.
 
 2. In afwijking van het eerste lid bedraagt de vergoeding € 0,011 per gekopieerde pagina voor het reprografisch verveelvoudigen door andere onderwijsinstellingen dan instellingen die gericht zijn op het verzorgen van wetenschappelijk onderwijs en het verrichten van wetenschappelijk onderzoek.
 
 ##### Artikel 2
 
-De verplichting tot betaling van de vergoeding, bedoeld in het [eerste artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0014338&artikel=1&z=2003-02-01&g=2003-02-01), rust op degene die de verveelvoudigingen vervaardigt of daartoe opdracht geeft.
+De verplichting tot betaling van de vergoeding, bedoeld in het [eerste artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0014338&artikel=1&z=2009-03-10&g=2009-03-10), rust op degene die de verveelvoudigingen vervaardigt of daartoe opdracht geeft.
 
 ##### Artikel 3
 
-Degene die minder dan 50 000 reprografische verveelvoudigingen per jaar maakt, is niet gehouden daarvan opgave te doen bij de in [artikel 16l, eerste lid, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16l) aangewezen rechtspersoon.
+Degene die minder dan 50 000 reprografische verveelvoudigingen per jaar maakt, is niet gehouden daarvan opgave te doen bij de in [artikel 16l, eerste lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16l) aangewezen rechtspersoon.
 
 ##### Artikel 4
 
