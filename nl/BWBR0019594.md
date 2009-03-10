@@ -4,7 +4,7 @@ identifier: "BWBR0019594"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-03-10"
-last_updated: "2006-04-01"
+last_updated: "2009-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019594"
 soort: "AMvB"
@@ -46,9 +46,11 @@ Gezien het nader rapport van Onze Minister van Justitie van 15 februari 2006, nr
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop de Wijzigingswet Auteurswet 1912 (volgrecht t.b.v. auteur oorspronkelijk kunstwerk) (Stb. 2006/60) in werking treedt.
+
 ##### Artikel 1
 
-De vergoeding, bedoeld in [artikel 43a, eerste lid, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=43a) is niet verschuldigd bij de verkoop van een origineel van een kunstwerk:
+De vergoeding, bedoeld in [artikel 43a, eerste lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=43a) is niet verschuldigd bij de verkoop van een origineel van een kunstwerk:
 
 - a. waarvan de verkoopprijs niet hoger is dan € 3.000, of
 
@@ -58,7 +60,7 @@ De vergoeding, bedoeld in [artikel 43a, eerste lid, van de Auteurswet 1912](http
 
 ##### Artikel 2
 
-De vergoeding, bedoeld in [artikel 43a, eerste lid, van de Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=43a) wordt als volgt berekend, met dien verstande dat het totaal niet meer bedraagt dan € 12.500:
+De vergoeding, bedoeld in [artikel 43a, eerste lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=43a) wordt als volgt berekend, met dien verstande dat het totaal niet meer bedraagt dan € 12.500:
 
 - a. 4% van het deel van de verkoopprijs tot en met € 50.000;
 
@@ -72,7 +74,7 @@ De vergoeding, bedoeld in [artikel 43a, eerste lid, van de Auteurswet 1912](http
 
 ##### Artikel 3
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019594&artikel=1&z=2006-04-01&g=2006-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0019594&artikel=2&z=2006-04-01&g=2006-04-01) bedoelde verkoopprijzen zijn de prijzen exclusief belasting.
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019594&artikel=1&z=2009-03-10&g=2009-03-10) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0019594&artikel=2&z=2009-03-10&g=2009-03-10) bedoelde verkoopprijzen zijn de prijzen exclusief belasting.
 
 ##### Artikel 4
 
