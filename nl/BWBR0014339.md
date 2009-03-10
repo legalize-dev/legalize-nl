@@ -4,7 +4,7 @@ identifier: "BWBR0014339"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-03-10"
-last_updated: "2003-02-01"
+last_updated: "2009-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014339"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. wet: [Auteurswet 1912](https://wetten.overheid.nl/jci1.3:c:BWBR0001886)
+- a. wet: [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886)
 
 - b. overheid:
 
@@ -72,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 1. Onverminderd [artikel 16b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16b), wordt, mits de in [artikel 16h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16h) bedoelde vergoeding wordt betaald, niet als inbreuk op het auteursrecht beschouwd het vervaardigen of doen vervaardigen van verveelvoudigingen van werken als bedoeld in [artikel 16h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16h) door de overheid ten behoeve van personen tot haar dienst behorende of ten behoeve van bij de uitoefening van haar taak betrokken derden, doch niet tot een groter aantal dan voor de juiste vervulling van haar taak ten behoeve van de openbare dienst noodzakelijk is.
 
-2. Onverminderd de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014339&artikel=3&z=2003-02-01&g=2003-02-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014339&artikel=4&z=2003-02-01&g=2003-02-01) is het eerste lid van overeenkomstige toepassing op bibliotheken en onderwijsinstellingen, alsmede op andere in het algemeen belang werkzame instellingen.
+2. Onverminderd de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014339&artikel=3&z=2009-03-10&g=2009-03-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014339&artikel=4&z=2009-03-10&g=2009-03-10) is het eerste lid van overeenkomstige toepassing op bibliotheken en onderwijsinstellingen, alsmede op andere in het algemeen belang werkzame instellingen.
 
 ##### Artikel 3
 
@@ -90,7 +90,7 @@ Onverminderd [artikel 16b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 5
 
-Als inbreuk op het auteursrecht wordt niet beschouwd het afgeven van overeenkomstig de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014339&artikel=2&z=2003-02-01&g=2003-02-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014339&artikel=3&z=2003-02-01&g=2003-02-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014339&artikel=4&z=2003-02-01&g=2003-02-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014339&artikel=5&z=2003-02-01&g=2003-02-01) vervaardigde verveelvoudigingen aan degenen te wier behoeve zij zijn vervaardigd.
+Als inbreuk op het auteursrecht wordt niet beschouwd het afgeven van overeenkomstig de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014339&artikel=2&z=2009-03-10&g=2009-03-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014339&artikel=3&z=2009-03-10&g=2009-03-10), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014339&artikel=4&z=2009-03-10&g=2009-03-10) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014339&artikel=5&z=2009-03-10&g=2009-03-10) vervaardigde verveelvoudigingen aan degenen te wier behoeve zij zijn vervaardigd.
 
 ##### Artikel 6
 
