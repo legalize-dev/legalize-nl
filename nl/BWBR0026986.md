@@ -4,7 +4,7 @@ identifier: "BWBR0026986"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026986"
 soort: "wet"
@@ -102,7 +102,7 @@ Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (Fiscale Onderhoudswe
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Aanpassingswet burgerservicenummer.
 
 ##### Artikel XIV
 
