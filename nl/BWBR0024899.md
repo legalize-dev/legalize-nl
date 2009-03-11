@@ -4,7 +4,7 @@ identifier: "BWBR0024899"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-06-16"
-last_updated: "2009-01-02"
+last_updated: "2009-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024899"
 soort: "ministeriele-regeling"
@@ -142,7 +142,9 @@ De volgende regelingen worden ingetrokken:
 
 - l. [Subsidieregeling pilot innovatievouchers 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018050);
 
-- m. [Subsidieregeling pilot innovatievouchers 2005 tweede fase](https://wetten.overheid.nl/jci1.3:c:BWBR0018804).
+- m. [Subsidieregeling pilot innovatievouchers 2005 tweede fase](https://wetten.overheid.nl/jci1.3:c:BWBR0018804);
+
+- n. [Regeling subsidies diensten Kenniswijk 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017203).
 
 #### § 6. Intrekking wijzigings- en intrekkingsregeling van subsidieregelingen en overige regelingen
 
@@ -204,19 +206,44 @@ De volgende regelingen worden ingetrokken:
 
 - aa. [Regeling van de Minister van Economische Zaken van 17 februari 2004, nr. WJZ 4012096, houdende wijziging van de Subsidieregeling scholingsimpuls, vaststelling van tenderperiodes en subsidieplafonds en benoeming leden adviescommissie scholingsimpuls](https://wetten.overheid.nl/jci1.3:c:BWBR0016399) (Stcrt. 37);
 
-- bb. [Regeling van de Staatssecretaris van Economische Zaken van 3 december 2004, nr. WJZ 4074730, tot vaststelling van het subsidieplafond 2005 krachtens het Besluit subsidies regionale investeringsprojecten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0017617) (Stcrt. 240).
+- bb. [Regeling van de Staatssecretaris van Economische Zaken van 3 december 2004, nr. WJZ 4074730, tot vaststelling van het subsidieplafond 2005 krachtens het Besluit subsidies regionale investeringsprojecten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0017617) (Stcrt. 240);
+
+- cc. [Regeling vaststelling subsidieplafonds en tenderperiodes EZ 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020874);
+
+- dd. [Regeling van de Minister van Economische Zaken van 12 december 2008, nr. WJZ/8186338, tot verhoging van een subsidieplafond 2008 (gebiedsgericht programma Zuidoost-Nederland)](https://wetten.overheid.nl/jci1.3:c:BWBR0025015) (Stcrt. 251);
+
+- ee. [Regeling van de Minister van Economische Zaken van 16 december 2008, nr. WJZ/8196329, tot verhoging van subsidieplafonds 2008 voor de Subsidieregeling Point One Boegbeeld – module van de Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0025061) (Stcrt. 252);
+
+- ff. [Subsidieregeling BoegBeeld-module van de Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0019987);
+
+- gg. [Regeling van de Minister van Economische Zaken van 21 september 2000, nr. WJZ/00057737, tot wijziging van de Subsidieregeling innovatiegerichte onderzoekprogramma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011655) (Stcrt. 185).
 
 #### § 7. Overgangs- en slotbepalingen
 
 ##### Artikel VII
 
-1. Voor zover nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2009-01-01&g=2009-01-02), plaats.
+1. Voor zover nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2009-03-11&g=2009-03-11), plaats.
 
-2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2009-01-01&g=2009-01-02), blijven in stand.
+2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2009-03-11&g=2009-03-11), blijven in stand.
 
 3. Indien innovatievouchers op basis van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019805&artikel=2), of [3, eerste lid van de Subsidieregeling innovatievouchers](https://wetten.overheid.nl/jci1.3:c:BWBR0019805&artikel=3) zijn afgegeven voor de inwerkingtreding van deze regeling en deze vouchers nog niet zijn ingediend, blijft de [Subsidieregeling innovatievouchers](https://wetten.overheid.nl/jci1.3:c:BWBR0019805) van toepassing voor de indiening van deze innovatievouchers.
 
 4. Voor zover na 1 januari 2009 in subsidieregelingen wordt verwezen naar de [Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0019494), worden deze verwijzingen geacht te zijn naar de [Experimentele Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0019494) zoals die luidde voor 1 januari 2009.
+
+5. De benoemingen van de leden van de adviescommissies genoemd in kolom 1 krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, gelden als benoemingen tot lid van de adviescommissies genoemd in kolom 4 krachtens de in kolom 5 genoemde subsidieregelingen en de in kolom 6 genoemde artikelen.
+
+| Adviescommissie | Regeling | Artikel | Adviescommissie | Regeling | Artikel |
+| --- | --- | --- | --- | --- | --- |
+| De adviescommissies voor de onderzoeksprogramma’s genoemd in [artikel 18 van de Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0018997&artikel=18) | [Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0018997) | [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018997&artikel=6) | De adviescommissies voor de onderzoeksprogramma’s genoemd in [artikel 3.7 van de Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=3.7) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=3.9) |
+| Adviescommissie innovatieprogramma Food & Nutrition Delta | [Subsidieregeling Food & Nutrition Delta Fase 2-module van de Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0020296) | [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020296&artikel=12) | Adviescommissie Food & Nutrition Delta | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.13) |
+| Adviescommissie HTAS-innovatieprojecten | [Subsidieregeling HTAS-innovatieprojecten – module van de Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0023865) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0023865&artikel=2) | Adviescommissie HTAS-innovatieproejcten | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=6.6) |
+| Adviescommissie innoWATOR | [Subsidieregeling innoWATOR-module van de Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0020316) | [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020316&artikel=6) | Adviescommissie innoWATOR | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=7.6) |
+| Adviescommissie Maritiem Innovatie Programma | [Subsidieregeling maritieme haalbaarheids-, en innovatieprojecten module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0022224) | [11](https://wetten.overheid.nl/jci1.3:c:BWBR0022224&artikel=11) | Adviescommissie Maritiem Innovatie Programma | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=8.12) |
+| Adviescommissie Boegbeeldprogramma | [Subsidieregeling Point One Boegbeeld-module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten](https://wetten.overheid.nl/jci1.3:c:BWBR0022190) | [11](https://wetten.overheid.nl/jci1.3:c:BWBR0022190&artikel=11) | Adviescommissie Point One Programma | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [9.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.11) |
+| Adviescommissie groeifaciliteit | [Regeling Groeifaciliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0020560) | [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020560) | Adviescommissie Groeifaciliteit | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.6) |
+| Adviescommissie seed capital technostarters | [Regeling seed capital technostarters](https://wetten.overheid.nl/jci1.3:c:BWBR0018146) | [4](https://wetten.overheid.nl/jci1.3:c:BWBR0018146&artikel=4) | Adviescommissie seed capital technostarters | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=4.8) |
+| Adviescommissie kennisexploitatie | [Regeling subsidieprogramma kennisexploitatie](https://wetten.overheid.nl/jci1.3:c:BWBR0017312) | [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017312&artikel=5) | Adviescommissie kennisexploitatie | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=5.6) |
+| Adviescommissie ondernemerschap en onderwijs | [Subsidieregeling ondernemerschap en onderwijs 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021101) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0021101&artikel=2) | Adviescommissie ondernemerschap en onderwijs | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=6.7) |
 
 ##### Artikel VIII
 
