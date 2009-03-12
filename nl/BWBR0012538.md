@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-02-01"
+last_updated: "2009-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -178,7 +178,7 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 - a. het gebruik van een SSR-transponder met mode S/ELS en met automatische hoogterapportering in mode C is verplicht in het luchtruim met de classificatie A, B, C, D, E of F en in de NSA Amsterdam;
 
-- b. het gebruik van een SSR-transponder met de mode S/ELS en met automatische hoogterapportering in mode C is verplicht in het overige luchtruim met de classificatie G op en boven 1200 voet AMSL, met uitzondering van het luchtruim onder de Schiphol TMA 1;
+- b. het gebruik van een SSR-transponder met de mode S/ELS en met automatische hoogterapportering in mode C is verplicht in het overige luchtruim met de classificatie G op en boven 1200 voet AMSL;
 
 - c. mode A code 7000 wordt ingesteld.
 
@@ -232,7 +232,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2009-02-01&g=2009-02-01) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2009-03-12&g=2009-03-12) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
