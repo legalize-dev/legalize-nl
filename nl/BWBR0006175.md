@@ -4,7 +4,7 @@ identifier: "BWBR0006175"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-12"
-last_updated: "1993-10-20"
+last_updated: "2009-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006175"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1
 
-De bepalingen van deze regeling zijn van toepassing op luchtvaartuigen behorend tot het luchtvaartterreinverkeer van burgerluchtvaartterreinen waar geen luchtverkeersleiding wordt gegeven.
+De bepalingen van deze regeling zijn van toepassing op luchtvaartuigen behorend tot het luchtvaartterreinverkeer van burgerluchtvaartterreinen waar geen luchtverkeersleiding wordt gegeven en waarvoor de minister geen luchtverkeerscircuits heeft vastgesteld overeenkomstig [artikel 23a van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=23a).
 
 ##### Artikel 2
 
@@ -109,7 +109,7 @@ Het luchtverkeerscircuit wordt verlaten onder een hoek van 45° halverwege het d
 
 ##### Artikel 9
 
-Indien en voor zover het overige circuitverkeer niet wordt gehinderd gelden de [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006175&artikel=2&z=1993-10-20&g=1993-10-20), en 3 tot en met 8 niet ingeval van:
+Indien en voor zover het overige circuitverkeer niet wordt gehinderd gelden de [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006175&artikel=2&z=2009-03-12&g=2009-03-12), en 3 tot en met 8 niet ingeval van:
 
 - a. afwijkende voorschriften, die zijn gegeven op grond van plaatselijke omstandigheden;
 
