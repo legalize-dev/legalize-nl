@@ -4,7 +4,7 @@ identifier: "BWBR0010154"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2006-07-09"
+last_updated: "2009-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010154"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 1. De luchtvaartinlichtingendiensten hebben tot taak door middel van het verstrekken van luchtvaartinlichtingen en het uitgeven van luchtvaartpublicaties en luchtvaartkaarten, een veilig, ordelijk en vlot verloop van het luchtverkeer te bevorderen.
 
-2. De luchtvaartinlichtingendiensten zijn belast met het overeenkomstig bijlage 15 ontvangen of produceren, het nauwkeurig vergelijken, samenvoegen, persklaar maken, indelen, uitgeven en bewaren en verspreiden van luchtvaartinlichtingen, die het gehele vluchtinformatiegebied Amsterdam betreffen, en delen van de aangrenzende vluchtinformatiegebieden waar de LVB-organisatie is belast met het geven van luchtverkeersdienstverlening, bedoeld in artikel 16,(5.14) tweede lid van de Wet Luchtverkeer.
+2. De luchtvaartinlichtingendiensten zijn belast met het overeenkomstig bijlage 15 ontvangen of produceren, het nauwkeurig vergelijken, samenvoegen, persklaar maken, indelen, uitgeven en bewaren en verspreiden van luchtvaartinlichtingen, die het gehele vluchtinformatiegebied Amsterdam betreffen.
 
 ##### Artikel 3
 
@@ -72,9 +72,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Luchtvaartinlichtingen van blijvende aard die essentieel zijn voor de vluchtuitvoering binnen het vluchtinformatiegebied Amsterdam, worden door de LVB-organisatie verstrekt middels de luchtvaartgids, overeenkomstig bijlagen 4 en 15.
-
-2. In aanvulling op het eerste lid kunnen indien de veiligheid, de regelmaat en de doel matigheid van de luchtvaart dit vereist en extra luchtvaartinlichtingen van blijvende aard worden verstrekt.
+Luchtvaartinlichtingen van blijvende aard die essentieel zijn voor de vluchtuitvoering binnen het vluchtinformatiegebied Amsterdam, worden door de LVNL verstrekt middels de luchtvaartgids, overeenkomstig bijlagen 4 en 15.
 
 ##### Artikel 5
 
@@ -110,27 +108,21 @@ Een presentatie van actuele NOTAM-informatie van operationele aard, wordt vóór
 
 De luchtvaartinlichtingen worden in de volgende samenstellingen verstrekt:
 
-- 1. Luchtvaartgids deel I met als doelgroep vliegers die IFR-vluchten uitvoeren met een abonnement op:
+- 1. Luchtvaartgids met als doelgroep vliegers met een abonnement op:
 
-- a. amendements op de luchtvaartgids deel I,
+- a. amendements op de luchtvaartgids,
 
-- b. supplements op de luchtvaartgids deel I,
+- b. supplements op de luchtvaartgids,
 
 - c. AIC's serie A
 
 - d. maandelijkse samenvatting van de op dat moment geldige NOTAM's.
 
-- 2. Luchtvaartgids deel II met als doelgroep vliegers die VFR-vluchten uitvoeren met een abonnement op:
+- 2. AIC's serie B met een abonnement.
 
-- a. amendements op de luchtvaartgids deel II,
+- 3. Een luchtvaartkaart, voor VFR-vluchten, op de schaal van op de schaal van 1:500.000.
 
-- b. supplements op de luchtvaartgids deel II.
-
-- 3. AIC's serie B met een abonnement.
-
-- 4. Een luchtvaartkaart, voor VFR-vluchten, op de schaal van op de schaal van 1:500.000.
-
-- 5. NOTAM middels AFS.
+- 4. NOTAM middels AFS.
 
 ##### Artikel 12
 
@@ -140,7 +132,7 @@ Luchtvaartinlichtingen van operationele aard, of die cartografische werkzaamhede
 
 ##### Artikel 13
 
-1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVB-organisatie, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2006-07-09&g=2006-07-09).
+1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2009-03-12&g=2009-03-12).
 
 2. Als AIS-unit zijn aangewezen:
 
@@ -160,24 +152,28 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 ##### Artikel 15
 
-- a. Op de volgende luchtvaartterreinen in Nederland worden de luchtvaartinlichtingen verstrekt overeenkomstig de beschrijving die behoort bij de aan het terrein gegeven categorie:
+- a. Op de volgende luchthavens en luchtvaartterreinen worden de luchtvaartinlichtingen beschikbaar gesteld via een zelfbedieningsdienst:
 
-| **Internationale luchthavens** | **Cat** | **Nationale luchtvaartterreinen** | **Cat** |
-| --- | --- | --- | --- |
-| EHAM Schiphol | A | EHAL Ameland | D |
-| EHGG Eelde | B | EHDR Drachten | D |
-| EHRD Rotterdam | B | EHNP Noordoostpolder | D |
-| EHBK Maastricht | B | Overige luchtvaartterreinen (inclusief zweefvliegterreinen, ulv-terreinen en helihavens) | D |
-| **Internationale luchtvaartterreinen** | **Cat** | **Militaire luchtvaartterreinen** **(met burgermedegebruik)** | **Cat** |
-| EHBD Budel | C | EHEH Eindhoven | B |
-| EHHO Hoogeveen | C |   |   |
-| EHHV Hilversum | C |   |   |
-| EHLE Lelystad | B |   |   |
-| EHMZ Midden-Zeeland | C |   |   |
-| EHHO Hoogeveen | C |   |   |
-| EHSE Seppe | C |   |   |
-| EHTE Teuge | C |   |   |
-| EHTX Texel | C |   |   |
+| Internationale luchthavens | Cat | Dekkingsgebied |
+| --- | --- | --- |
+| Amsterdam/Schiphol | A | Africa-Indian Ocean Region; Caribbean and South American Region; European and North Atlantic Region; Middle east and South East Asia region; North American Region |
+| Groningen/Eelde | B | België/Luxemburg; Denemarken; Duitsland; Nederland; Verenigd Koninkrijk |
+| Maastricht/Maastricht Aachen | B | België/Luxemburg; Denemarken; Duitsland; Nederland; Verenigd Koninkrijk |
+| Eindhoven/ Eindhoven | B | België/Luxemburg; Denemarken; Duitsland; Nederland; Verenigd Koninkrijk |
+| Rotterdam/Rotterdam | B | België/Luxemburg; Frankrijk; Duitsland; Nederland; Verenigd Koninkrijk |
+
+| Internationale luchtvaartterreinen | Cat | Dekkingsgebied |
+| --- | --- | --- |
+| Deventer/Teuge | C | België/Luxemburg; Denemarken; Frankrijk; Duitsland; Nederland; Zwitserland; Verenigd Koninkrijk |
+| Hilversum/Hilversum | C | België/Luxemburg; Denemarken; Frankrijk; Duitsland; Nederland; Zwitserland; Verenigd Koninkrijk |
+| Hoeven/Seppe | C | België/Luxemburg; Frankrijk; Duitsland; Nederland; Verenigd Koninkrijk |
+| Hoogeveen/Hoogeveen | C | Nederland; Duitsland |
+| Lelystad/Lelystad | C | België/Luxemburg; Denemarken; Frankrijk; Duitsland; Nederland |
+| Middelburg/Midden-Zeeland | C | België/Luxemburg; Duitsland; Nederland; Verenigd Koninkrijk |
+| Texel/Texel | C | België/Luxemburg; Duitsland; Nederland |
+| Ameland/Ameland | D | Nederland |
+| Drachten/Drachten | D | Nederland |
+| Weert/Budel | D | Nederland |
 
 - b. De luchtvaartinlichtingencategorie A omvat:
 
@@ -239,7 +235,7 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 ##### Artikel 16
 
-1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2006-07-09&g=2006-07-09), verstrekt aan:
+1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2009-03-12&g=2009-03-12), verstrekt aan:
 
 - a. luchtvarenden;
 
@@ -275,7 +271,7 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 - a. luchtverkeersdiensten;
 
-- b. luchtvaartterreinen met een luchtvaartinlichtingencategorie A of B, met uitzondering van het luchtvaartterrein Lelystad.
+- b. luchtvaartterreinen met een luchtvaartinlichtingencategorie A of B, alsmede het luchtvaartterrein Lelystad.
 
 ### Hoofdstuk 7
 
