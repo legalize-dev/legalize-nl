@@ -49,9 +49,3 @@ De secretaris van de toetsingscommissie, bedoeld in [artikel 73 van de Wet werk 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling met toelichting zal in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling wordt aangehaald als: Regeling machtiging secretaris toetsingscommissie aanvullende uitkeringen Participatiewet.
-
-Deze regeling met toelichting zal in de Staatscourant worden geplaatst.
