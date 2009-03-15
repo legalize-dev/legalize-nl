@@ -4,7 +4,7 @@ identifier: "BWBR0014915"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2005-11-01"
+last_updated: "2009-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014915"
 soort: "wet"
@@ -107,13 +107,13 @@ Onderscheid is verboden bij:
 
 - b. het verlenen van toegang tot, het aanbieden van, het afnemen van toetsen tijdens en het afsluiten van onderwijs dat gericht is op toetreding tot en functioneren op de arbeidsmarkt.
 
-#### § 3. Beroepsonderwijs
+#### § 2a. Basisonderwijs en voortgezet onderwijs
 
-#### § 5. Rechtsbescherming
+#### § 3. Beroepsonderwijs
 
 ##### Artikel 9
 
-1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=2&artikel=4&z=2005-11-01&g=2005-11-01), wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=2&artikel=4&z=2005-11-01&g=2005-11-01) of terzake bijstand heeft verleend, is vernietigbaar.
+1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=2&artikel=4&z=2009-03-15&g=2009-03-15), wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=2&artikel=4&z=2009-03-15&g=2009-03-15) of terzake bijstand heeft verleend, is vernietigbaar.
 
 2. Onverminderd [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. [Artikel 55 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=55) is niet van toepassing.
 
@@ -125,7 +125,7 @@ Onderscheid is verboden bij:
 
 1. Indien degene die meent dat te zijnen nadeel een onderscheid is of wordt gemaakt als bedoeld in deze wet, in rechte feiten aanvoert die dat onderscheid kunnen doen vermoeden, dient de wederpartij te bewijzen dat niet in strijd met deze wet is gehandeld.
 
-2. Indien degene die meent dat te zijnen nadeel is gehandeld in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2005-11-01&g=2005-11-01) in rechte feiten aanvoert die kunnen doen vermoeden dat is nagelaten doeltreffende aanpassingen te treffen, dient de wederpartij te bewijzen dat niet in strijd met deze bepaling is gehandeld.
+2. Indien degene die meent dat te zijnen nadeel is gehandeld in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2009-03-15&g=2009-03-15) in rechte feiten aanvoert die kunnen doen vermoeden dat is nagelaten doeltreffende aanpassingen te treffen, dient de wederpartij te bewijzen dat niet in strijd met deze bepaling is gehandeld.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op vorderingen als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a) en op beroepen ingesteld door belanghebbenden in de zin van [artikel 1:2, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2).
 
@@ -135,13 +135,13 @@ Bedingen in strijd met deze wet zijn nietig.
 
 ##### Artikel 12
 
-De Commissie gelijke behandeling, genoemd in [artikel 11 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=11), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet en of gehandeld is in strijd met [artikel 2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2005-11-01&g=2005-11-01). De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=15), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=20), en [33 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=33) zijn van overeenkomstige toepassing.
+De Commissie gelijke behandeling, genoemd in [artikel 11 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=11), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet en of gehandeld is in strijd met [artikel 2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2009-03-15&g=2009-03-15). De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=15), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=20), en [33 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=33) zijn van overeenkomstige toepassing.
 
 ##### Artikel 13
 
-Onze Minister van Volksgezondheid, Welzijn en Sport zendt in overeenstemming met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Justitie, van Sociale Zaken en Werkgelegenheid, van Verkeer en Waterstaat en van Onderwijs, Cultuur en Wetenschappen binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister van Volksgezondheid, Welzijn en Sport zendt in overeenstemming met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Justitie, van Sociale Zaken en Werkgelegenheid, van Verkeer en Waterstaat, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Onderwijs, Cultuur en Wetenschappen binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### § 6. Slotbepalingen
+#### § 4. Openbaar vervoer
 
 ##### Artikel 14
 
@@ -159,7 +159,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Onder intimidatie als bedoeld in het eerste lid wordt verstaan: gedrag dat verband houdt met handicap of chronische ziekte en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
 
-3. Op het in deze wet neergelegde verbod van intimidatie is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=3&z=2005-11-01&g=2005-11-01) niet van toepassing.
+3. Op het in deze wet neergelegde verbod van intimidatie is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=3&z=2009-03-15&g=2009-03-15) niet van toepassing.
 
 #### § 2. Arbeid
 
@@ -189,7 +189,45 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 9a
 
-Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=5&artikel=9&z=2005-11-01&g=2005-11-01) is het verboden personen te benadelen wegens het feit dat zij in of buiten rechte een beroep hebben gedaan op deze wet of ter zake bijstand hebben verleend.
+Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=5&artikel=9&z=2009-03-15&g=2009-03-15) is het verboden personen te benadelen wegens het feit dat zij in of buiten rechte een beroep hebben gedaan op deze wet of ter zake bijstand hebben verleend.
+
+#### § 6. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### § 3a. Wonen
+
+##### Artikel 6a
+
+In deze paragraaf wordt onder woonruimte verstaan:
+
+- a. een tot bewoning bestemde gebouwde onroerende zaak die een zelfstandige woning vormt, of een tot zelfstandige of onzelfstandige bewoning bestemd gedeelte van een gebouwde onroerende zaak, met inbegrip van de daarbij behorende gemeenschappelijke ruimte;
+
+- b. een woonwagen, zijnde een voor bewoning bestemd gebouw dat is geplaatst op een standplaats en dat in zijn geheel of in delen kan worden verplaatst;
+
+- c. een woonschip, zijnde een schip dat uitsluitend of in hoofdzaak gebezigd wordt of bestemd is voor bewoning;
+
+- d. een tot bewoning bestemd verblijf van een binnenschip.
+
+##### Artikel 6b
+
+Onderscheid is verboden bij:
+
+- a. het aanbieden van woonruimte ter bewoning;
+
+- b. het sluiten, uitvoeren, wijzigen of beëindigen van een overeenkomst betreffende het huren, kopen of bewonen van woonruimte voor eigen gebruik, waarbij onder eigen gebruik mede wordt verstaan bewoning door een persoon tot wie de contractant, diens echtgenoot of geregistreerde partner in een familierechtelijke betrekking staat of met wie de contractant, diens echtgenoot of geregistreerde partner in gezinsverband leeft;
+
+- c. het bemiddelen bij een overeenkomst als bedoeld onder b;
+
+- d. het opmaken, uitvoeren of wijzigen van een reglement als bedoeld in [artikel 111, onder d, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=111);
+
+- e. het inschrijven als woningzoekende.
+
+##### Artikel 6c
+
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=1&artikel=2&z=2009-03-15&g=2009-03-15) is op deze paragraaf niet van toepassing, indien het een bouwkundige- of woontechnische aanpassing in of aan de woonruimte betreft.
+
+#### § 5. Rechtsbescherming
 
 #### § 6. Slotbepalingen
 
