@@ -4,7 +4,7 @@ identifier: "BWBR0023499"
 country: "nl"
 rank: "zbo"
 publication_date: "2009-03-21"
-last_updated: "2008-01-01"
+last_updated: "2009-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023499"
 soort: "zbo"
@@ -119,7 +119,7 @@ De [afdelingen 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4
 
 ##### Artikel 10. Einde subsidieregeling
 
-Subsidie op grond van dit besluit kan worden aangevraagd tot en met 31 december 2008.
+Subsidie op grond van dit besluit kan worden aangevraagd tot en met 31 december 2009.
 
 ##### Artikel 11. Inwerkingtreding en citeertitel
 
