@@ -4,7 +4,7 @@ identifier: "BWBR0025438"
 country: "nl"
 rank: "wet"
 publication_date: "2010-01-01"
-last_updated: "2009-03-11"
+last_updated: "2009-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025438"
 soort: "wet"
@@ -39,7 +39,7 @@ entry_into_force: "2009-03-25"
 
 ### Hoofdstuk 1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-### Hoofdstuk 2. Ministerie van Economische Zaken
+### Hoofdstuk 1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 ### Hoofdstuk 3. Ministerie van Financiën
 
@@ -49,21 +49,21 @@ Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel 3.2
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel 3.3
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
 ##### Artikel 3.4
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel 3.5
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-### Hoofdstuk 4. Ministerie van Justitie
+### Hoofdstuk 3. Ministerie van Financiën
 
 ### Hoofdstuk 5. Ministerie van Onderwijs, Cultuur en Wetenschap
 
@@ -75,7 +75,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 9. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
-### Hoofdstuk 10. Overgangs- en slotbepalingen
+### Hoofdstuk 4. Ministerie van Justitie
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
