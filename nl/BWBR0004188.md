@@ -4,7 +4,7 @@ identifier: "BWBR0004188"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2008-10-11"
+last_updated: "2009-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004188"
 soort: "wet"
@@ -48,7 +48,7 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders bep
 
 - a. bevoegd gezag: het orgaan dat als zodanig wordt aangeduid in de wettelijke regeling op grond waarvan de desbetreffende school of cursus wordt bekostigd;
 
-- b. leerling: degene die is toegelaten tot het onderwijs aan een school of cursus als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=I&artikel=2&z=2008-10-11&g=2008-10-11);
+- b. leerling: degene die is toegelaten tot het onderwijs aan een school of cursus als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=I&artikel=2&z=2009-03-25&g=2009-03-25);
 
 - c. cursusjaar: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend;
 
@@ -60,13 +60,13 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders bep
 
 - 1°. een cursus in de zin van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
 
-- 2°. onderwijs aan een inrichting voor voortgezet onderwijs als bedoeld in [artikel 61 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=61), voor zover het geen volledig onderwijs betreft,
+- 2°. onderwijs aan een inrichting voor voortgezet onderwijs als bedoeld in [artikel 61 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=61), voor zover het geen volledig onderwijs betreft;
 
 - 3°. een op grond van de [Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718) uit de openbare kas bekostigde cursus, voor zover het voortgezet onderwijs betreft;
 
-- 4°. een beroepsopleiding, een opleiding voortgezet algemeen volwassenenonderwijs, of een opleiding Nederlands als tweede taal, anders dan bedoeld onder e, die aan een instelling als bedoeld in [1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) ten laste van ’s Rijks kas wordt verzorgd.
+- 4°. een beroepsopleiding, een opleiding voortgezet algemeen volwassenenonderwijs, of een opleiding Nederlands als tweede taal, anders dan bedoeld onder e, die aan een instelling als bedoeld in [1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) ten laste van ’s Rijks kas wordt verzorgd;
 
-- g. onderwijsnummer: het door de Informatie Beheer Groep uitgegeven persoonsgebonden nummer, toegekend aan een persoon aan wie niet van overheidswege een sociaal-fiscaalnummer is verstrekt;
+- g. onderwijsnummer: het door de Informatie Beheer Groep uitgegeven persoonsgebonden nummer, toegekend aan een persoon aan wie niet van overheidswege een burgerservicenummer is verstrekt;
 
 - h. vervallen;
 
@@ -106,19 +106,19 @@ Vervallen
 
 1. Tot de inschrijving wordt niet overgegaan dan nadat het bewijs is overgelegd dat het lesgeld wordt voldaan aan de Informatie Beheer Groep, met inachtneming van het bepaalde krachtens het vierde lid.
 
-2. Het lesgeld bedraagt naar de maatstaf van 1 augustus 2004 € 936,– per 01-08-2009: € 1.013,–. Dit bedrag wordt jaarlijks geïndexeerd aan de hand van de consumentenprijsindex. Het bedrag wordt vastgesteld bij ministeriële regeling, waarin tevens wordt bepaald wat onder de consumentenprijsindex wordt verstaan. Het bedrag wordt afgerond op het naastbij gelegen gehele getal. Deze regeling wordt vastgesteld voor 1 oktober voorafgaand aan het cursusjaar waarop de herziening van het lesgeld betrekking heeft.
+2. Het lesgeld bedraagt naar de maatstaf van 1 augustus 2004 € 936,– per 01-08-2009: € 1.031,–. Dit bedrag wordt jaarlijks geïndexeerd aan de hand van de consumentenprijsindex. Het bedrag wordt vastgesteld bij ministeriële regeling, waarin tevens wordt bepaald wat onder de consumentenprijsindex wordt verstaan. Het bedrag wordt afgerond op het naastbij gelegen gehele getal. Deze regeling wordt vastgesteld voor 1 oktober voorafgaand aan het cursusjaar waarop de herziening van het lesgeld betrekking heeft.
 
 3. De indexering wordt bepaald door de procentuele wijziging die het indexcijfer van de consumentenprijs over de maand april, voorafgaand aan de aanpassing, heeft ondergaan ten opzichte van de maand april van het daaraan voorafgaande jaar.
 
-4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de voldoening en de vrijstelling, vermindering en terugbetaling van het lesgeld, alsmede met betrekking tot de te verstrekken gegevens, waaronder het sociaal-fiscaalnummer of onderwijsnummer.
+4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de voldoening en de vrijstelling, vermindering en terugbetaling van het lesgeld, alsmede met betrekking tot de te verstrekken gegevens, waaronder het burgerservicenummer of onderwijsnummer.
 
-##### Artikel 5a. Gebruik sociaal-fiscaalnummer of onderwijsnummer
+##### Artikel 5a. Gebruik burgerservicenummer of onderwijsnummer
 
-De Informatie Beheer Groep gebruikt het sociaal-fiscaalnummer of onderwijsnummer van de leerling ter zake van de uitvoering van deze wet als registratienummer slechts:
+De Informatie Beheer Groep gebruikt het burgerservicenummer of onderwijsnummer van de leerling ter zake van de uitvoering van deze wet als registratienummer slechts:
 
 - a. in het verkeer met de leerling op wie het nummer betrekking heeft;
 
-- b. in contacten met personen en instanties voor zover deze zelf gemachtigd zijn tot het opnemen van het sociaal-fiscaalnummer of onderwijsnummer in een persoonsregistratie;
+- b. in contacten met personen en instanties voor zover deze zelf gemachtigd zijn tot het opnemen van het burgerservicenummer of onderwijsnummer in een persoonsregistratie;
 
 - c. teneinde de gegevens van de leerling te vergelijken met de gegevens die over hem zijn opgenomen in het basisregister onderwijs, bedoeld in [artikel 9a van de Wet verzelfstandiging Informatiseringsbank](https://wetten.overheid.nl/jci1.3:c:BWBR0006320&artikel=9a), voorzover dat noodzakelijk is voor de uitvoering van deze wet.
 
@@ -172,7 +172,7 @@ De Informatie Beheer Groep kan voor bepaalde gevallen de wet buiten toepassing l
 
 ##### Artikel 10. Vaststelling lesgeld cursusjaar 1987-1988
 
-Het bedrag van het lesgeld, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2008-10-11&g=2008-10-11), wordt voor het cursusjaar 1987-1988 vastgesteld op f 1030. De derde volzin van het derde lid van genoemd artikel vindt voor het eerst toepassing met betrekking tot het cursusjaar 1988-1989.
+Het bedrag van het lesgeld, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2009-03-25&g=2009-03-25), wordt voor het cursusjaar 1987-1988 vastgesteld op f 1030. De derde volzin van het derde lid van genoemd artikel vindt voor het eerst toepassing met betrekking tot het cursusjaar 1988-1989.
 
 ##### Artikel 11. Intrekking Lesgeldwet voor boven 17-jarigen in het voortgezet onderwijs
 
@@ -180,7 +180,7 @@ Het bedrag van het lesgeld, bedoeld in [artikel 5, tweede lid](https://wetten.ov
 
 2. Het bepaalde bij of krachtens die wet blijft van toepassing voor zover het betreft lesgeld verschuldigd dan wel voldaan met betrekking tot het cursusjaar 1986-1987.
 
-3. Het Uitvoeringsbesluit Lesgeldwet (**Stb.** 1986, 421) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2008-10-11&g=2008-10-11), tot uitvoering van de [artikelen 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=4&z=2008-10-11&g=2008-10-11), en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2008-10-11&g=2008-10-11), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
+3. Het Uitvoeringsbesluit Lesgeldwet (**Stb.** 1986, 421) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2009-03-25&g=2009-03-25), tot uitvoering van de [artikelen 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=4&z=2009-03-25&g=2009-03-25), en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2009-03-25&g=2009-03-25), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
 
 ##### Artikel 12. Intrekking School- en cursusgeldwet 1972
 
@@ -188,7 +188,7 @@ Het bedrag van het lesgeld, bedoeld in [artikel 5, tweede lid](https://wetten.ov
 
 2. Het bepaalde bij of krachtens die wet blijft van toepassing met betrekking tot de heffing en invordering van school- en cursusgelden over schoolgeldjaren onderscheidenlijk cursusjaren voorafgaand aan het cursusjaar waarop deze wet voor het eerst van toepassing is.
 
-3. Het Besluit cursusgeld voortgezet onderwijs (**Stb.** 1985, 431) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2008-10-11&g=2008-10-11), tot uitvoering van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=III&artikel=6&z=2008-10-11&g=2008-10-11), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
+3. Het Besluit cursusgeld voortgezet onderwijs (**Stb.** 1985, 431) strekt met ingang van de datum, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=21&z=2009-03-25&g=2009-03-25), tot uitvoering van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=III&artikel=6&z=2009-03-25&g=2009-03-25), totdat bedoelde maatregelen krachtens deze wet zijn vastgesteld.
 
 ##### Artikel 13
 
@@ -226,9 +226,9 @@ Vervallen
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij is geplaatst, en vindt voor het eerst toepassing met betrekking tot het cursusjaar dat in 1987 aanvangt.
 
-2. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=17&z=2008-10-11&g=2008-10-11) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=19&z=2008-10-11&g=2008-10-11) vervallen met ingang van 1 augustus 1988.
+2. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=17&z=2009-03-25&g=2009-03-25) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=19&z=2009-03-25&g=2009-03-25) vervallen met ingang van 1 augustus 1988.
 
-3. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=18&z=2008-10-11&g=2008-10-11) vervalt met ingang van 1 januari 1990.
+3. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=V&artikel=18&z=2009-03-25&g=2009-03-25) vervalt met ingang van 1 januari 1990.
 
 ##### Artikel 22. Citeertitel
 
@@ -238,7 +238,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 5b. Verstrekken van gegevens aan minister
 
-De Informatie Beheer Groep kan aan onze minister ten behoeve van de bekostiging van instellingen gegevens verstrekken over het in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2008-10-11&g=2008-10-11), bedoelde bewijs voor zover het personen betreft die zijn opgenomen in het basisregister onderwijs.
+De Informatie Beheer Groep kan aan onze minister ten behoeve van de bekostiging van instellingen gegevens verstrekken over het in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&hoofdstuk=II&artikel=5&z=2009-03-25&g=2009-03-25), bedoelde bewijs voor zover het personen betreft die zijn opgenomen in het basisregister onderwijs.
 
 ### Hoofdstuk III. Cursusgeld
 
