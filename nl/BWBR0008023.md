@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2009-02-06"
+last_updated: "2009-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -3234,14 +3234,14 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 34997/27505 | Angeliq tablet filmomhuld |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| ESTRADIOL-1-MG-TABLET-NORETHISTERONE-.5-MG-TABLET | ESTRADIOL-1-MG-TABLET-NORETHISTERONE-.5-MG-TABLET | 0.25023400 per stuk |
+| ESTRADIOL-1-MG-TABLET-NORETHISTERONE-.5-MG-TABLET | ESTRADIOL-1-MG-TABLET-NORETHISTERONE-.5-MG-TABLET | € 0,252600 per stuk |
 |   | Artikelnaam |   |
 | 22819 | Activelle tablet omhuld |   |
 | 27678/22819 | Activelle tablet omhuld |   |
 | 29483/22819 | Activelle tablet omhuld |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| ESTRADIOL-2-MG-TABLET | ESTRADIOL-2-MG-TABLET | 0.13864700 per stuk |
+| ESTRADIOL-2-MG-TABLET | ESTRADIOL-2-MG-TABLET | € 0,140142 per stuk |
 |   | Artikelnaam |   |
 | 15462 | Zumenon tablet 2mg |   |
 | 5311 | Progynova dragee 2mg |   |
@@ -3254,7 +3254,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 17490 | Femoston tablet 2/10mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET | ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET | 0.25740200 per stuk |
+| ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET | ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET | € 0,259768 per stuk |
 |   | Artikelnaam |   |
 | 14942 | Kliogest tablet |   |
 | 24632/14942 | Kliogest tablet |   |
@@ -3262,7 +3262,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 29652/14942 | Kliogest tablet |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET-ESTRADIOL- | ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET-ESTRADIOL- | 0.19064700 per stuk |
+| ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET-ESTRADIOL- | ESTRADIOL-2-MG-TABLET-NORETHISTERONE-1-MG-TABLET-ESTRADIOL- | € 0,193014 per stuk |
 | FASE2-2-MG-TABLET-EST | FASE2-2-MG-TABLET-EST |   |
 |   | Artikelnaam |   |
 | 26683/9812 | Trisequens tablet |   |
@@ -4834,24 +4834,24 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/99/116/001 | Remicade infusiepoeder flacon 100mg |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, ASPART | INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, ASPART | 2.46352200 per ml |
+| INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, ASPART | INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, ASPART | € 2,486272 per ml |
 | INTERM-70-IE/ML-IN | INTERM-70-IE/ML-IN |   |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/142/004 | Novomix 30 penfill inj 100e/ml patroon 3ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, ASPART | INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, ASPART | 2.78815100 per ml |
+| INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, ASPART | INSULINS, ASPART-30-IE/ML-INJ.VLOEISTOF WWSP-INSULINS, ASPART | € 2,788151 per ml |
 | INTERM-70-IE/ML-IN | INTERM-70-IE/ML-IN |   |
 | Registratienummer | Artikelnaam |   |
 | EU/1/00/142/009 | Novomix 30 flexpen inj 100e/ml wwsp 3ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF PATR | 3.68688900 per ml |
+| INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF PATR | € 3,720639 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/278/002 | Levemir penfill inj 100e/ml patroon 3ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF WWSP | 3.82474300 per ml |
+| INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, DETEMIR-100-IE/ML-INJ.VLOEISTOF WWSP | € 3,858493 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/04/278/005 | Levemir flexpen inj 100e/ml wwsp 3ml |   |
 | EU/1/04/278/008 | Levemir innolet inj 100e/ml wwsp 3ml |   |
@@ -4874,13 +4874,13 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/97/030/054 | Insuman infusat inj 100ie/ml patr 3,15ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | 1.79218600 per ml |
+| INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | € 1,795611 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/230/003 | Actrapid inj 100ie/ml flacon 10ml |   |
 | EU/1/97/030/028 | Insuman rapid inj 100ie/ml flacon 5ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | 2.05387500 per ml |
+| INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, FAST-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | € 2,064167 per ml |
 | Registratienummer | Artikelnaam |   |
 | 13040 | Humuline regular inj 100ie/ml patroon 3ml |   |
 | EU/1/02/230/006 | Actrapid penfill inj 100ie/ml patr 3ml |   |
@@ -4917,13 +4917,13 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/97/030/079 | Insuman comb 25 opt inj 100ie/ml wwsp 3ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF FLACON-INSULINS, | INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF FLACON-INSULINS, | 1.54523400 per ml |
+| INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF FLACON-INSULINS, | INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF FLACON-INSULINS, | € 1,555234 per ml |
 | INTERMEDIATE-ACTIN | INTERMEDIATE-ACTIN |   |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/231/003 | Mixtard 30 injvlst 100ie/ml flacon 10ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, | INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, | 1.97527400 per ml |
+| INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, | INSULINS, FAST-ACTING-30-IE/ML-INJ.VLOEISTOF PATR-INSULINS, | € 1,985899 per ml |
 | INTERMEDIATE-ACTING- | INTERMEDIATE-ACTING- |   |
 | Registratienummer | Artikelnaam |   |
 | 14894 | Humuline 30/70 inj 100ie/ml patroon 3ml |   |
@@ -4940,14 +4940,14 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/02/231/024 | Mixtard 30 novolet 100ie/ml wwsp 3ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-40-IE/ML-INJ.VLOEISTOF PATR-INSULINS, | INSULINS, FAST-ACTING-40-IE/ML-INJ.VLOEISTOF PATR-INSULINS, | 1.90440300 per ml |
+| INSULINS, FAST-ACTING-40-IE/ML-INJ.VLOEISTOF PATR-INSULINS, | INSULINS, FAST-ACTING-40-IE/ML-INJ.VLOEISTOF PATR-INSULINS, | € 1,932736 per ml |
 | INTERMEDIATE-ACTING- | INTERMEDIATE-ACTING- |   |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/229/015 | Actraphane 40 penfill injsusp 100ie/ml patroon 3ml |   |
 | EU/1/02/231/015 | Mixtard 40 penfill 100ie/ml patroon 3ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, FAST-ACTING-50-IE/ML-INJ.VLOEISTOF PATR-INSULINS, | INSULINS, FAST-ACTING-50-IE/ML-INJ.VLOEISTOF PATR-INSULINS, | 2.00496300 per ml |
+| INSULINS, FAST-ACTING-50-IE/ML-INJ.VLOEISTOF PATR-INSULINS, | INSULINS, FAST-ACTING-50-IE/ML-INJ.VLOEISTOF PATR-INSULINS, | € 2,026213 per ml |
 | INTERMEDIATE-ACTING- | INTERMEDIATE-ACTING- |   |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/229/018 | Actraphane 50 penfill injsusp 100ie/ml patroon 3ml |   |
@@ -4973,12 +4973,12 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/00/134/033 | Lantus solostar inj 100e/ml wwsp 3ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | 1.68219800 per ml |
+| INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF FLACON | € 1,686229 per ml |
 | Registratienummer | Artikelnaam |   |
 | EU/1/02/233/003 | Insulatard inj 100ie/ml flacon 10ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | 2.00497600 per ml |
+| INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF PATR | € 2,015267 per ml |
 | Registratienummer | Artikelnaam |   |
 | 14896 | Humuline nph inj 100ie/ml patroon 3ml |   |
 | 33526/14896 | Humuline nph inj 100ie/ml patroon 3ml |   |
@@ -4986,7 +4986,7 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | EU/1/97/030/035 | Insuman basal inj 100ie/ml patroon 3ml |   |
 |   |   |   |
 | Productgroep |   | Maximumprijs |
-| INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF WWSP | 2.295193 per ml |
+| INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF WWSP | INSULINS, INTERMEDIATE-ACTING-100-IE/ML-INJ.VLOEISTOF WWSP | € 2,305378 per ml |
 | Registratienummer | Artikelnaam |   |
 | 22242 | Humuline nph inj 100ie/ml wwsp 3ml |   |
 | EU/1/02/233/008 | Insulatard novolet inj 100ie/ml wwsp 3ml |   |
