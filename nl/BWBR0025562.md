@@ -4,7 +4,7 @@ identifier: "BWBR0025562"
 country: "nl"
 rank: "wet"
 publication_date: "2010-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-03-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025562"
 soort: "wet"
@@ -52,11 +52,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IIA
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Aanpassingswet vierde tranche Awb (kamerstuk 31124).
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking met ingang van 1 januari van een bij koninklijk besluit te bepalen jaar met uitzondering van:
+
+- a. [artikel I, onderdelen B, I en K](https://wetten.overheid.nl/jci1.3:c:BWBR0025562&artikel=I&z=2009-03-27&g=2009-03-27), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en terugwerkt tot en met 1 januari 2008, en
+
+- b. [artikel IIA](https://wetten.overheid.nl/jci1.3:c:BWBR0025562&artikel=IIA&z=2009-03-27&g=2009-03-27) dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
