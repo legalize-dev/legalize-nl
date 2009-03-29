@@ -4,7 +4,7 @@ identifier: "BWBR0025689"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2009-01-01"
+last_updated: "2009-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025689"
 soort: "pbo"
@@ -37,7 +37,7 @@ entry_into_force: "2009-03-29"
 
 #### § 1. Begripsbepalingen
 
-#### § 2. Heffingsplicht
+#### § 1. Begripsbepalingen
 
 #### § 3. Grondslag en hoogte
 
@@ -91,7 +91,19 @@ De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025689&paragraaf=3&artikel=4&z=2009-03-29&g=2009-03-29), wordt onder de bij de onderneming behorende cultuurgrond mede verstaan cultuurgrond die:
+
+- a. zaai- of pootklaar is gehuurd;
+
+- b. als overig los land is gehuurd;
+
+- c. in gebruik is ontvangen, of
+
+- d. door de ondernemer wordt beteeld voor contractteelt.
+
+2. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025689&paragraaf=3&artikel=4&z=2009-03-29&g=2009-03-29), wordt cultuurgrond gerekend naar de gemeten maat.
+
+3. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025689&paragraaf=3&artikel=4&z=2009-03-29&g=2009-03-29), worden met betrekking tot de groepen 1 tot en met 13 en 15, gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.
 
 #### § 4. Oplegging en inning
 
