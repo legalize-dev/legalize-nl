@@ -4,7 +4,7 @@ identifier: "BWBR0023563"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-04"
-last_updated: "2008-04-01"
+last_updated: "2009-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023563"
 soort: "ministeriele-regeling"
@@ -64,17 +64,27 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Een aanvraag om subsidieverlening wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=1&z=2008-04-01&g=2008-04-01).
-
-2. Een particuliere aanvrager van subsidie voor fotovoltaïsche zonnepanelen en een aanvrager, niet zijnde een particuliere aanvrager, van subsidie voor fotovoltaïsche zonnepanelen met een maximaal opgesteld vermogen van 3,5 kWp mag, in afwijking van het eerste lid, bij de aanvraag om subsidieverlening gebruik maken van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=1a&z=2008-04-01&g=2008-04-01).
+Vervallen
 
 #### § 3. Nadere verplichtingen van de subsidie-ontvanger
 
 ##### Artikel 3
 
-1. De subsidie-ontvanger rapporteert na de datum van de beschikking tot subsidieverlening tot het moment van ingebruikname halfjaarlijks over de voortgang van de realisatie van de in het plan als bedoeld in [artikel 56, tweede lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56) opgenomen ijkmomenten.
+1. Het plan, bedoeld in [artikel 56, tweede lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56) bevat in ieder geval een uitgewerkt tijdschema betreffende de ingebruikname van de productie-installatie dat de volgende gedateerde ijkmomenten bevat:
 
-2. De subsidie-ontvanger zendt de Minister binnen een jaar na de datum van ingebruikname van de productie-installatie een overzicht van de daadwerkelijke investeringskosten, van de reeds ontvangen subsidies en overige steun en van de nog te ontvangen subsidies en overige steun. Indien de verleende subsidie als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=16), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=24), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=33), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=41), [49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=49), en [55, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55) meer bedraagt dan € 50.000, gaat het overzicht vergezeld van een accountantsverklaring. De accountantsverklaring wordt opgesteld conform het model en het controleprotocol die zijn opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=2&z=2008-04-01&g=2008-04-01).
+- a. het verstrekken van de opdrachten voor de ingebruikname van de productie-installatie;
+
+- b. de aanvang van de bouw van de productie-installatie;
+
+- c. de aanvang van de productie van hernieuwbare elektriciteit, hernieuwbaar gas of elektriciteit opgewekt door middel van warmtekrachtkoppeling.
+
+- d. het tijdstip waarop de periode waarover subsidie wordt verstrekt moet aanvangen.
+
+2. De subsidie-ontvanger rapporteert na de datum van de beschikking tot subsidieverlening tot het moment van ingebruikname halfjaarlijks over de voortgang van de realisatie van de in het plan als bedoeld in [artikel 56, tweede lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56) opgenomen ijkmomenten.
+
+3. De subsidie-ontvanger zendt de Minister binnen een jaar na de datum van ingebruikname van de productie-installatie een overzicht van de daadwerkelijke investeringskosten, van de reeds ontvangen subsidies en overige steun en van de nog te ontvangen subsidies en overige steun. Indien de verleende subsidie als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=16), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=24), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=33), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=41), [49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=49), en [55, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55) meer bedraagt dan € 125.000, gaat het overzicht vergezeld van een accountantsverklaring. De accountantsverklaring wordt opgesteld conform het model en het controleprotocol die zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=1&z=2009-03-29&g=2009-03-29).
+
+4. Het derde lid is niet van toepassing als de subsidieontvanger geen andere subsidie heeft ontvangen dan die op grond van het besluit en geen andere overige steun heeft ontvangen dan die op grond van [artikel 3.42 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42).
 
 ##### Artikel 4
 
@@ -82,15 +92,15 @@ De subsidie-ontvanger meet de productie van hernieuwbare elektriciteit, hernieuw
 
 ##### Artikel 5
 
-Een verzoek tot ontheffing als bedoeld in [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=61), of [artikel 62, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=62), wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=3&z=2008-04-01&g=2008-04-01).
+Vervallen
 
 ##### Artikel 6
 
-1. De subsidie-ontvanger die een productie-installatie bedrijft waarin biomassa wordt omgezet in hernieuwbare elektriciteit, hernieuwbaar gas of elektriciteit opgewekt door middel van warmtekrachtkoppeling, zendt binnen drie maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt aan de Minister een verklaring over de duurzaamheid van de gebruikte biomassa met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=4&z=2008-04-01&g=2008-04-01), tenzij bij Ministeriële regeling is bepaald dat voor de categorie productie-installaties waartoe zijn productie-installatie behoort geen rapportageverplichtingen van toepassing zijn.
+1. De subsidie-ontvanger die een productie-installatie bedrijft waarin biomassa wordt omgezet in hernieuwbare elektriciteit, hernieuwbaar gas of elektriciteit opgewekt door middel van warmtekrachtkoppeling, zendt binnen drie maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt aan de minister een verklaring over de duurzaamheid van de gebruikte biomassa met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=2&z=2009-03-29&g=2009-03-29).
 
 2. De verklaring, bedoeld in het eerste lid, gaat vergezeld van een goedkeurende accountantsverklaring.
 
-3. De Minister maakt de verklaringen over de duurzaamheid van de gebruikte biomassa die zijn toegezonden met gebruikmaking van [tabel 1 van bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=4&z=2008-04-01&g=2008-04-01), met uitzondering van de kolom hoeveelheid ton, openbaar.
+3. De Minister maakt de verklaringen over de duurzaamheid van de gebruikte biomassa die zijn toegezonden met gebruikmaking van [tabel 1 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=2&z=2009-03-29&g=2009-03-29), met uitzondering van de kolom hoeveelheid ton, openbaar.
 
 ##### Artikel 7
 
@@ -106,13 +116,13 @@ Een verzoek tot ontheffing als bedoeld in [artikel 61, tweede lid](https://wette
 
 3. Een productie-installatie voor het produceren van hernieuwbaar gas is voorzien van een nippel waarop gasanalyse apparatuur kan worden aangesloten.
 
-4. Indien de subsidie-ontvanger niet hoeft te rapporteren over de duurzaamheid van de gebruikte biomassa, verklaart de subsidie-ontvanger binnen drie maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt, met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=5&z=2008-04-01&g=2008-04-01), dat in het betreffende kalenderjaar uitsluitend biomassa is gebruikt die is toegestaan voor de categorie productie-installaties waartoe de installatie van de subsidie-ontvanger behoort. De verklaring gaat vergezeld van een goedkeurende accountantsverklaring.
+4. Indien de subsidie-ontvanger niet hoeft te rapporteren over de duurzaamheid van de gebruikte biomassa, verklaart de subsidie-ontvanger binnen drie maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt, met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=3&z=2009-03-29&g=2009-03-29), dat in het betreffende kalenderjaar uitsluitend biomassa is gebruikt die is toegestaan voor de categorie productie-installaties waartoe de installatie van de subsidie-ontvanger behoort. De verklaring gaat vergezeld van een goedkeurende accountantsverklaring.
 
 #### § 4. Voorschotten
 
 ##### Artikel 8
 
-1. Een aanvraag tot het verstrekken van een voorschot wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=6&z=2008-04-01&g=2008-04-01).
+1. Een aanvraag tot het verstrekken van een voorschot wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=4&z=2009-03-29&g=2009-03-29).
 
 2. De Minister stelt een voorschot binnen zes maanden na afloop van het kalenderjaar bij aan de hand van:
 
@@ -122,9 +132,9 @@ Een verzoek tot ontheffing als bedoeld in [artikel 61, tweede lid](https://wette
 
 - c. indien [artikel 11, derde lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), of [artikel 28, derde lid, onderdeel a, b of c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28) van toepassing is, het aantal geproduceerde kWh of Nm3 aardgasequivalenten die voor subsidie in aanmerking komt, het aantal gerealiseerde vollasturen van de productie-installatie of het gerealiseerde rendement van de productie-installatie.
 
-3. De Minister verrekent een tekort aan verstrekte maandelijkse bedragen, als bedoeld in [artikel 68, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=68), door het te weinig betaalde bedrag aan het voorschot binnen zes weken na de datum van bijstelling van het voorschot aan de subsidie-ontvanger te verstrekken.
+3. De Minister verrekent een tekort aan verstrekte maandelijkse bedragen of een tekort op het jaarlijkse bedrag, als bedoeld in [artikel 68, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=68), door het te weinig betaalde bedrag aan het voorschot binnen zes weken na de datum van bijstelling van het voorschot aan de subsidie-ontvanger te verstrekken.
 
-4. De Minister verrekent een teveel aan verstrekte maandelijkse bedragen, als bedoeld in [artikel 68, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=68), door het bedrag van het teveel betaalde voorschot aan de subsidie-ontvanger in mindering te brengen op het eerst volgende te verstrekken maandelijkse bedrag en vervolgens op zoveel maandelijkse bedragen als nodig is om het teveel betaalde voorschot volledig te verrekenen. Indien geen maandelijkse bedragen meer verschuldigd zijn, wordt een teveel betaald voorschot teruggevorderd.
+4. De minister verrekent een teveel aan verstrekte maandelijkse bedragen of een teveel op het verstrekte jaarlijkse bedrag als bedoeld in [artikel 68, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=68), door het bedrag van het teveel betaalde voorschot aan de subsidie-ontvanger in mindering te brengen op het eerst volgende te verstrekken maandelijkse bedrag of op het eerst volgende te verstrekken jaarlijkse bedrag en vervolgens op zoveel maandelijkse of jaarlijkse bedragen als nodig is om het teveel betaalde voorschot volledig te verrekenen. Indien geen maandelijkse of jaarlijkse bedragen meer verschuldigd zijn, wordt een teveel betaald voorschot teruggevorderd.
 
 ##### Artikel 9
 
@@ -138,7 +148,17 @@ Een verzoek tot ontheffing als bedoeld in [artikel 61, tweede lid](https://wette
 
 - 2°. het tenderbedrag verminderd met de bij Ministeriële regeling vastgestelde correcties op grond van [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), of [39, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39).
 
-2. Het in [artikel 68, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=68) bedoelde maandelijkse bedrag bedraagt één-twaalfde van het product van:
+2. Het in [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=68) bedoelde jaarlijkse bedrag bedraagt 80% van het product van:
+
+- a. de in beschikking tot subsidieverlening of, indien dit lager is, de in de aanvraag tot een voorschot voor het betreffende kalenderjaar opgenomen maximum productie, en
+
+- b. het voor de subsidie-ontvanger geldende:
+
+- 1°. basisbedrag, of bij toepassing van [artikel 11, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), of [28, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28) het de in beschikking tot subsidieverlening of, indien dit lager is, bij het door de subsidie-ontvanger op de aanvraag voor een voorschot opgegeven rendement behorende basisbedrag, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), of [31, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), of
+
+- 2°. het tenderbedrag verminderd met de bij ministeriële regeling vastgestelde correcties op grond van [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), of [39, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39).
+
+3. Het in [artikel 68, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=68) bedoelde maandelijkse bedrag bedraagt 80% van één-twaalfde van het product van:
 
 - a. de in beschikking tot subsidieverlening of, indien dit lager is, de in de aanvraag tot een voorschot voor het betreffende kalenderjaar opgenomen maximum productie, en
 
@@ -148,27 +168,35 @@ Een verzoek tot ontheffing als bedoeld in [artikel 61, tweede lid](https://wette
 
 - 2°. het maximum bedrag verminderd met het percentage als bedoeld in [artikel 52, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=52).
 
-3. Indien de subsidieperiode start op een andere datum dan 1 januari of eindigt op een andere datum dan 31 december bedraagt voor het eerste jaar respectievelijk het laatste jaar van de periode waarover subsidie wordt verstrekt het maandelijkse bedrag een evenredig deel van het aantal maanden waarover het voorschot wordt verstrekt.
+4. Indien de subsidieperiode start op een andere datum dan 1 januari of eindigt op een andere datum dan 31 december bedraagt voor het eerste jaar respectievelijk het laatste jaar van de periode waarover subsidie wordt verstrekt het maandelijkse of jaarlijkse bedrag een evenredig deel van het aantal maanden of van het jaar waarover het voorschot wordt verstrekt.
 
-4. De Minister kan het maandelijkse bedrag herberekenen indien:
+5. De minister kan het maandelijkse of jaarlijkse bedrag herberekenen indien:
 
 - a. de subsidie-ontvanger een verzoek tot ontheffing als bedoeld in [artikel 62, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=62), indient;
 
 - b. de productie van hernieuwbare elektriciteit, hernieuwbaar gas of elektriciteit opgewekt door warmtekrachtkoppeling gedurende ten minste twee maanden ten minste 50 procent zal achterblijven dan wel achter is gebleven ten opzichte van de in de beschikking tot voorschotverlening opgenomen maximum productie in kWh of Nm3 aardgasequivalent.
 
-5. In afwijking van het bepaalde in het eerste lid, onderdeel b, ten eerste, kan de Minister van een lager basisbedrag uitgaan indien het rendement van de productie-installatie gedurende ten minste twee jaar structureel is achtergebleven ten opzichte van het in de beschikking tot voorschotverlening opgenomen rendement.
+6. In afwijking van het bepaalde in het eerste lid, onderdeel b, ten eerste, kan de Minister van een lager basisbedrag uitgaan indien het rendement van de productie-installatie gedurende ten minste twee jaar structureel is achtergebleven ten opzichte van het in de beschikking tot voorschotverlening opgenomen rendement.
 
 #### § 5. Subsidievaststelling
 
 ##### Artikel 10
 
-Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=7&z=2008-04-01&g=2008-04-01).
+Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=5&z=2009-03-29&g=2009-03-29).
 
 #### § 6. Overige bepalingen
 
 ##### Artikel 11
 
-De duur bedoeld in [artikel 3, derde lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3), bedraagt ten hoogste vier jaar.
+1. Voor de toepassing van [artikel 3, derde lid, aanhef, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3) geldt dat geen sprake is van dezelfde productie-installatie wanneer:
+
+- a. het een productie-installatie op een andere locatie betreft;
+
+- b. het een productie-installatie met een andere opwekkingstechnologie betreft; of
+
+- c. het een productie-installatie betreft waarvan het vermogen meer dan 20% afwijkt ten opzichte van het vermogen van een productie-installatie waarvoor eerder een beschikking tot subsidieverlening is verstrekt.
+
+2. De duur, bedoeld in [artikel 3, derde lid, onderdeel d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3), bedraagt ten hoogste vier jaar.
 
 ##### Artikel 12
 
