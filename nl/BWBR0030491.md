@@ -4,7 +4,7 @@ identifier: "BWBR0030491"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2009-01-01"
+last_updated: "2009-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030491"
 soort: "pbo"
@@ -37,7 +37,7 @@ entry_into_force: "2011-09-11"
 
 #### § 1. Begripsbepalingen
 
-#### § 2. Heffingsplicht
+#### § 1. Begripsbepalingen
 
 #### § 3. Grondslag en hoogte
 
@@ -138,9 +138,21 @@ entry_into_force: "2011-09-11"
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor de toepassing van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030491&paragraaf=3&artikel=3&z=2011-09-11&g=2009-04-01) wordt onder de bij de onderneming behorende cultuurgrond mede verstaan de cultuurgrond die:
 
-#### § 4. Oplegging en inning
+- a. zaai- of pootklaar is gehuurd;
+
+- b. als overig los land is gehuurd;
+
+- c. in gebruik is ontvangen, of
+
+- d. door de ondernemer wordt beteeld voor contractteelt.
+
+2. Cultuurgrond wordt gerekend naar de gemeten maat.
+
+3. De belasting van gedeelten van groepen met als eenheid hectare of are is evenredig aan de voor die groepen bedoelde bedragen. Gedeelten van een hectare of are worden naar beneden afgerond, tot een veelvoud van respectievelijk are en centiare.
+
+#### § 3. Grondslag en hoogte
 
 #### § 5. Slotbepalingen
 
