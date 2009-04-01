@@ -4,7 +4,7 @@ identifier: "BWBR0023772"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-01-02"
-last_updated: "2008-05-01"
+last_updated: "2009-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023772"
 soort: "zbo"
@@ -66,17 +66,17 @@ In deze beschikking wordt verstaan onder:
 
 - g. BankGiro Loterij: een kansspel als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), waarbij het nummer van een bankrekening, onderscheidenlijk een girorekening, deel uitmaakt van het lotnummer waarmee de deelnemers meedingen naar prijzen die door loting of trekking worden verkregen;
 
-- h. toegevoegd spel: een kansspel als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), waaraan de deelnemers aan de BankGiro Loterij kunnen deelnemen door middel van door de vennootschap om niet verstrekte deelnemingsbewijzen;
+- h. extra spel: een kansspel als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), waaraan de deelnemers aan de BankGiro Loterij kunnen deelnemen door middel van door de vennootschap om niet verstrekte deelnemingsbewijzen;
 
 - i. het college: het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33).
 
-- 1. Aan de vennootschap wordt voor de duur van vijf jaren, te rekenen vanaf 1 mei 2008 tot en met 30 april 2013, vergunning verleend tot het organiseren van de BankGiro Loterij en het toegevoegde spel.
+- 1. Aan de vennootschap wordt voor de duur van vijf jaren, te rekenen vanaf 1 mei 2008 tot en met 30 april 2013, vergunning verleend tot het organiseren van de BankGiro Loterij en het extra spel.
 
 - 2. De vergunning wordt verleend onder de voorwaarde dat en is slechts geldig indien de holding enig aandeelhouder van de vennootschap is en de stichting aandelen op haar beurt enig aandeelhouder van de holding is, en onder gehoudenheid van de stichting aandelen respectievelijk de holding in te staan voor de nakoming van alle verplichtingen van de vennootschap onder de vergunning.
 
 - 3. Aan de in het eerste lid bedoelde vergunning worden de in artikel 3 tot en met artikel 17 vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd en aangevuld.
 
-- 1. De BankGiro Loterij en het toegevoegd spel worden georganiseerd met inachtneming van de statuten en reglementen van de vennootschap.
+- 1. De BankGiro Loterij en het extra spel worden georganiseerd met inachtneming van de statuten en reglementen van de vennootschap.
 
 - 2. De statuten en reglementen van de vennootschap, alsmede wijziging daarvan, behoeven de voorafgaande goedkeuring van de Minister, gehoord het college.
 
@@ -84,19 +84,19 @@ In deze beschikking wordt verstaan onder:
 
 - 1. De vennootschap zorgt voor een doelmatige administratie, organisatie en uitvoering van de krachtens deze vergunning georganiseerde kansspelen.
 
-- 2. De vennootschap neemt de nodige maatregelen met het oog op de naleving van de aan deze vergunning verbonden voorschriften en de op grond daarvan opgestelde reglementen door de organisatie en personen die op enigerlei wijze bij de administratie, organisatie en uitvoering van de BankGiro Loterij en het toegevoegde spel zijn betrokken.
+- 2. De vennootschap neemt de nodige maatregelen met het oog op de naleving van de aan deze vergunning verbonden voorschriften en de op grond daarvan opgestelde reglementen door de organisatie en personen die op enigerlei wijze bij de administratie, organisatie en uitvoering van de BankGiro Loterij en het extra spel zijn betrokken.
 
-- 1. In alle aankondigingen en voor openbaarmaking of verspreiding bestemde stukken dient te worden vermeld dat voor de BankGiro Loterij en het toegevoegde spel vergunning is verleend door de Minister, onder aanhaling van datum en kenmerk van deze beschikking.
+- 1. In alle aankondigingen en voor openbaarmaking of verspreiding bestemde stukken dient te worden vermeld dat voor de BankGiro Loterij en het extra spel vergunning is verleend door de Minister, onder aanhaling van datum en kenmerk van deze beschikking.
 
 - 2. Op alle in het eerste lid vermelde aankondigingen en stukken dient voorts, voor zover praktisch mogelijk, duidelijk te worden vermeld:
 
-- a. de naam van de vennootschap en het adres waar inlichtingen omtrent de BankGiro Loterij en het toegevoegde spel verkrijgbaar zijn;
+- a. de naam van de vennootschap en het adres waar inlichtingen omtrent de BankGiro Loterij en het extra spel verkrijgbaar zijn;
 
 - b. de bestemming van de afdracht overeenkomstig het bepaalde in artikel 12, eerste lid;
 
 - c. het bedrag van de inleg;
 
-- d. de wijze waarop aan de BankGiro Loterij en het toegevoegde spel kan worden deelgenomen;
+- d. de wijze waarop aan de BankGiro Loterij en het extra spel kan worden deelgenomen;
 
 - e. de plaats en het tijdstip van de trekkingen.
 
@@ -106,11 +106,11 @@ In deze beschikking wordt verstaan onder:
 
 Eventuele provisie aan verkopers van deelnemingsbewijzen dient te worden beperkt tot ten hoogste 10% van de nominale waarde van de door hun bemiddeling geplaatste deelnemingsbewijzen.
 
-- 1. De vennootschap organiseert ten hoogste 13 maal per jaar de BankGiro Loterij.
+- 1. De vennootschap organiseert ten hoogste 14 maal per jaar de BankGiro Loterij.
 
 - 2. De inleg voor deelneming aan de BankGiro Loterij bedraagt ten hoogste € 22,69.
 
-- 3. De vennootschap organiseert ten hoogste een maal per week het toegevoegde spel. Elk toegevoegd spel bestaat uit één trekking.
+- 3. De vennootschap organiseert ten hoogste een maal per week het extra spel. Elk toegevoegd spel bestaat uit één trekking.
 
 - 1. De prijsbepaling en de vaststelling van de winnaars van de krachtens deze vergunning georganiseerde kansspelen geschiedt in het openbaar, onder toezicht en verantwoordelijkheid van een notaris, die het verloop van de prijsbepaling en de vaststelling van de winnaars telkens bij proces-verbaal constateert.
 
