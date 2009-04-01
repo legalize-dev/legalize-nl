@@ -4,7 +4,7 @@ identifier: "BWBR0010053"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2008-07-23"
+last_updated: "2009-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010053"
 soort: "ministeriele-regeling"
@@ -49,25 +49,25 @@ Besluit:
 
 - 1º. Minister,
 
-- 2º. een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=3&z=2008-07-23&g=2008-07-23) bij deze regeling erkende instantie, of
+- 2º. een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=3&z=2009-04-01&g=2009-04-01) bij deze regeling erkende instantie, of
 
 - 3º. voor radioactieve stoffen: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in overeenstemming met de Minister;
 
 - c. **COTIF:** Convention relative aux transports internationaux ferroviaires;
 
-- d. [richtlijn nr. 96/49/EG](31996L0049): [richtlijn nr. 96/49/EG](31996L0049) van de Raad van de Europese Unie van 23 juli 1996 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake het vervoer van gevaarlijke goederen over per spoor (PbEG L235).
+- d. **richtlijn nr. 2008/68/EG:** richtlijn nr. 2008/68/EG van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land (PbEU L 260).
 
-2. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2008-07-23&g=2008-07-23) opgenomen begripsbepalingen zijn van toepassing op de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=2&z=2008-07-23&g=2008-07-23) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=3&z=2008-07-23&g=2008-07-23) voorzover daarin niet anders is bepaald.
+2. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2009-04-01&g=2009-04-01) opgenomen begripsbepalingen zijn van toepassing op de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=2&z=2009-04-01&g=2009-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=3&z=2009-04-01&g=2009-04-01) voorzover daarin niet anders is bepaald.
 
 ##### Artikel 2
 
 Bij deze regeling behoren drie bijlagen:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2008-07-23&g=2008-07-23): voorschriften betreffende het vervoer van gevaarlijke stoffen op Nederlands grondgebied over de spoorweg, zijnde de Nederlandse vertaling van het RID;
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2009-04-01&g=2009-04-01): voorschriften betreffende het vervoer van gevaarlijke stoffen op Nederlands grondgebied over de spoorweg, zijnde de Nederlandse vertaling van het RID;
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=2&z=2008-07-23&g=2008-07-23): voorschriften in afwijking van of in aanvulling op [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2008-07-23&g=2008-07-23);
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=2&z=2009-04-01&g=2009-04-01): voorschriften in afwijking van of in aanvulling op [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2009-04-01&g=2009-04-01);
 
-- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=3&z=2008-07-23&g=2008-07-23): erkende instanties, bedoeld in [artikel 1, eerste lid, onderdeel b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&artikel=1&z=2008-07-23&g=2008-07-23).
+- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=3&z=2009-04-01&g=2009-04-01): erkende instanties, bedoeld in [artikel 1, eerste lid, onderdeel b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&artikel=1&z=2009-04-01&g=2009-04-01).
 
 ##### Artikel 3
 
@@ -75,7 +75,7 @@ Met voorwaardelijk tot het vervoer over de spoorweg toegelaten gevaarlijke stoff
 
 ##### Artikel 4
 
-1. De Minister kan voorschriften vaststellen die afwijken van de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2008-07-23&g=2008-07-23), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=2&z=2008-07-23&g=2008-07-23) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=3&z=2008-07-23&g=2008-07-23), met betrekking tot het vervoer van gevaarlijke goederen per spoor van en naar de republieken van de voormalige Sovjet-Unie die geen partij zijn bij het COTIF, indien door passende maatregelen en voorschriften handhaving van eenzelfde veiligheidsniveau als dat van het RID wordt gegarandeerd.
+1. De Minister kan voorschriften vaststellen die afwijken van de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2009-04-01&g=2009-04-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=2&z=2009-04-01&g=2009-04-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=3&z=2009-04-01&g=2009-04-01), met betrekking tot het vervoer van gevaarlijke stoffen per spoor van en naar landen die partij zijn bij de Organisation for Cooperation of Railways (OSJD), indien door passende maatregelen en voorschriften handhaving van eenzelfde veiligheidsniveau als dat van het RID wordt gegarandeerd.
 
 2. De voorschriften, bedoeld in het eerste lid, gelden alleen voor het in die republieken toegelaten vervoer met spoorwegwagons van gevaarlijke goederen in colli, in bulk of in containers.
 
@@ -87,7 +87,7 @@ Met voorwaardelijk tot het vervoer over de spoorweg toegelaten gevaarlijke stoff
 
 ##### Artikel 6
 
-Met de in de bij deze regeling behorende [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2008-07-23&g=2008-07-23) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=2&z=2008-07-23&g=2008-07-23) vastgestelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+Met de in de bij deze regeling behorende [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2009-04-01&g=2009-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=2&z=2009-04-01&g=2009-04-01) vastgestelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 ##### Artikel 7
 
@@ -105,21 +105,21 @@ Deze regeling wordt aangehaald als: Regeling vervoer over de spoorweg van gevaar
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
-## Bijlage 2. , bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&artikel=2&z=2008-07-23&g=2008-07-23), van de Regeling vervoer over de spoorweg van gevaarlijke stoffen
+## Bijlage 2. , bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&artikel=2&z=2009-04-01&g=2009-04-01), van de Regeling vervoer over de spoorweg van gevaarlijke stoffen
 
-### Artikel 1. **Implementatie van richtlijn nr. 96/49/EG betreffende de onderlinge aanpassing van de wetgevingen der Lidstaten inzake het vervoer van gevaarlijke goederen per spoor**
+### Artikel 1
 
 ### Artikel 2. **Implementatie van richtlijn nr. 96/49/EG betreffende de onderlinge aanpassing van de wetgevingen der Lidstaten inzake het vervoer van gevaarlijke goederen per spoor**
 
-### Artikel 3. **N- en NE-bepalingen**
+### Artikel 2. **Ontheffingen**
 
-Indien de opschriften, bedoeld in randnummer 5.2.1.5 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2008-07-23&g=2008-07-23), gesteld zijn in het Frans, Duits, Italiaans of Engels, zijn opschriften in het Nederlands niet noodzakelijk.
+De Minister verleent een ontheffing als bedoeld in [artikel 9 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=9) slechts op voorwaarden dat de veiligheid niet in gevaar komt en het vervoer waarvoor de ontheffing wordt verleend duidelijk is gespecificeerd en van tijdelijke aard is.
 
 Het is toegestaan dat de in randnummer 5.4.1.4.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2008-07-23&g=2008-07-23) voorgeschreven aanduidingen in de vrachtbrief uitsluitend in de Nederlandse taal zijn gesteld.
 
-Behoudens de stoffen en voorwerpen als bedoeld in randnummer 7.6 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2008-07-23&g=2008-07-23) die als expresgoed mogen worden vervoerd, worden de stoffen en voorwerpen van klasse 1 uitsluitend als wagenlading of gesloten lading vervoerd.
+Indien de opschriften, bedoeld in randnummer 5.2.1.5 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2009-04-01&g=2009-04-01), gesteld zijn in het Frans, Duits, Italiaans of Engels, zijn opschriften in het Nederlands niet noodzakelijk.
 
-Behoudens de stoffen en voorwerpen als bedoeld in randnummer 7.6 van bijlage 1 die als expresgoed mogen worden vervoerd, worden de stoffen en voorwerpen van klasse 1 uitsluitend als wagenlading of gesloten lading vervoerd.
+Het is toegestaan dat de in randnummer 5.4.1.4.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2009-04-01&g=2009-04-01) voorgeschreven aanduidingen in de vrachtbrief uitsluitend in de Nederlandse taal zijn gesteld.
 
 ## Bijlage 3. , bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&artikel=1&z=2003-01-01&g=2003-01-01) en [artikel 2, onderdeel c van de Regeling vervoer over de spoorweg van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&artikel=2&z=2003-01-01&g=2003-01-01)
 
@@ -382,43 +382,43 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 In de onderstaande tabel zijn de instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2004-10-27&g=2004-10-27) voorzover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.
 
-### **Artikel 2**
+### Erkende instanties
 
 In de tabel in artikel 1 wordt verstaan onder:
 
 In de tabel in artikel 1 wordt verstaan onder:
 
-2°. ten aanzien van de inspectie: een ieder die een erkenning heeft van de Vereniging van Beveiligingsondernemingen in Nederland (VBON) op grond van de regeling voor de erkenning van onderhoudsbedrijven kleine blusmiddelen (REOB);
+In de tabel in artikel 1 wordt verstaan onder:
 
-b. Defensie: Militaire Commissie Gevaarlijke Stoffen van het Ministerie van Defensie;
+**CBR:** Stichting Centraal Bureau Rijvaardigheidsbewijzen;
 
-c. DGG: Minister, namens hem het hoofd van de afdeling Lading en Risicobeleid van het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat;
+**Defensie:** Minister van Defensie;
 
-d. IVW DV: Minister, namens deze de directeur-hoofdinspecteur van de divisie Vervoer van de Inspectie Verkeer en Waterstaat van het Ministerie van Verkeer en Waterstaat;
+**DGMo:** Minister, namens deze de Directeur Mobiliteit;
 
-e. klassenbureau: privaatrechtelijke organisatie die keuringen van tankcontainers of transporttanks uitvoert in opdracht van de fabrikant, de eigenaar of de gebruiker van tankcontainers of transporttanks en die is erkend overeenkomstig artikel 3 van deze bijlage;
+**IVW:** Minister, namens deze de Inspecteur-Generaal Verkeer en Waterstaat;
 
-f. LNV: Minister van Landbouw, Natuur en Voedselkwaliteit;
+**klassenbureau:** privaatrechtelijke organisatie die keuringen van tankcontainers of transporttanks uitvoert in opdracht van de fabrikant, de eigenaar of de gebruiker van tankcontainers of transporttanks en die is erkend overeenkomstig artikel 3 van deze bijlage;
 
-g. NS: NedTrain Consulting BV;
+**LNV:** Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-h. NS/Stoomwezen:
+**LRN:** Lloyd’s Register Nederland B.V.;
 
-1°. NedTrain Consulting BV; of
+**LRR:** Lloyd’s Register Rail Europe B.V.;
 
-2°. inzake reservoirs voor gassen (RID-klasse 2): Stoomwezen B.V.;
+**LRR/LRN:**
 
-i. NS/Stoomwezen/klassenbureau:
+**LRR/LRN/klassenbureau:**
 
-1°. NedTrain Consulting BV;
+**politie:** Korps landelijke politiediensten dan wel de regiopolitie in de desbetreffende regio;
 
-2°. inzake reservoirs voor gassen (RID-klasse 2): Stoomwezen B.V.; of
+**TNO DV:** kerngebied Defensie en Veiligheid van de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek;
 
-3°. klassenbureau, voor zover het betreft tankcontainers of transporttanks voor gevaarlijke stoffen, met uitzondering van gassen van klasse 2 (behoudens de dichtheidsproef).
+**TNO C:** TNO Certification B.V. van de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek;
 
-j. SEV: Stichting Exameninstituut Veiligheidsadviseur;
+**VROM:** Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-k. Stoomwezen: Stoomwezen B.V.;
+**VWS:** Minister van Volksgezondheid, Welzijn en Sport.
 
 l. SZW: Minister van Sociale Zaken en Werkgelegenheid;
 
@@ -452,8 +452,22 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 In de onderstaande tabel zijn de instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2008-07-23&g=2008-07-23) voorzover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.
 
-### **Artikel 2**
+### Artikel 1. Erkende instanties
 
 ### **Artikel 3. Erkenningsvoorwaarden**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage 1, die ter inzage wordt gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
+
+Vervallen.
+
+### Artikel 3. **N- en NE-bepalingen**
+
+Behoudens de stoffen en voorwerpen als bedoeld in randnummer 7.6 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2009-04-01&g=2009-04-01) die als expresgoed mogen worden vervoerd, worden de stoffen en voorwerpen van klasse 1 uitsluitend als wagenlading of gesloten lading vervoerd.
+
+## Bijlage 3. als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&artikel=2&z=2009-04-01&g=2009-04-01), van de Regeling vervoer over de spoorweg van gevaarlijke stoffen
+
+### Artikel 2
+
+### Artikel 3. Erkenningsvoorwaarden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage 1, die ter inzage wordt gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
