@@ -4,7 +4,7 @@ identifier: "BWBR0023321"
 country: "nl"
 rank: "zbo"
 publication_date: "2009-04-01"
-last_updated: "2008-01-01"
+last_updated: "2009-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023321"
 soort: "zbo"
@@ -46,6 +46,8 @@ Gezien het advies van het College van toezicht op de kansspelen van 27 september
 
 Besluit:
 
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 ### Artikel I
 
 ##### Artikel 1
@@ -76,7 +78,7 @@ In deze beschikking wordt verstaan onder:
 
 2. De vergunning wordt verleend onder de voorwaarde dat en is slechts geldig indien de holding enig aandeelhouder van de vennootschap is en de stichting aandelen op haar beurt enig aandeelhouder van de holding is, en onder gehoudenheid van de stichting aandelen respectievelijk de holding in te staan voor de nakoming van alle verplichtingen van de vennootschap onder de vergunning.
 
-3. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0023321&artikel=I&artikel=13&z=2008-01-01&g=2008-01-01) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd en aangevuld.
+3. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0023321&artikel=I&artikel=13&z=2009-04-01&g=2009-04-01) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd en aangevuld.
 
 ##### Artikel 3
 
@@ -100,7 +102,7 @@ In deze beschikking wordt verstaan onder:
 
 - a. de naam van de vennootschap en het adres waar inlichtingen omtrent de Nationale Postcode Loterij en het toegevoegde spel verkrijgbaar zijn;
 
-- b. de bestemming van de afdracht overeenkomstig het bepaalde in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023321&artikel=I&artikel=12&z=2008-01-01&g=2008-01-01);
+- b. de bestemming van de afdracht overeenkomstig het bepaalde in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023321&artikel=I&artikel=12&z=2009-04-01&g=2009-04-01);
 
 - c. het bedrag van de inleg;
 
@@ -118,7 +120,7 @@ Eventuele provisie aan verkopers van deelnemingsbewijzen dient te worden beperkt
 
 ##### Artikel 7
 
-1. De vennootschap organiseert ten hoogste 13 maal per jaar de Nationale Postcode Loterij, waarbij de perioden tussen de loterijen zodanig gekozen worden dat de loterijen verspreid over het jaar plaatsvinden. Elke loterij bestaat uit één trekking.
+1. De vennootschap organiseert ten hoogste 14 maal per jaar de Nationale Postcode Loterij, waarbij de perioden tussen de loterijen zodanig gekozen worden dat de loterijen verspreid over het jaar plaatsvinden. Elke loterij bestaat uit één trekking.
 
 2. De inleg voor deelneming aan de Nationale Postcode Loterij bedraagt ten hoogste € 22,69 per geheel lot. De inleg per deellot wordt naar evenredigheid berekend. Deelloten geven aanspraak op een evenredig deel van de daarop gevallen prijs.
 
@@ -156,7 +158,7 @@ Onverminderd de voorschriften bij en krachtens de [Wet op de kansspelbelasting](
 
 - –. Vereniging tot Behoud van Natuurmonumenten in Nederland, gevestigd te ’s-Graveland;
 
-- –. Stichting Novib, gevestigd te ’s-Gravenhage;
+- –. Stichting Oxfam Novib, gevestigd te ’s-Gravenhage;
 
 - –. Vereniging Vluchtelingen Werk Nederland, gevestigd te Amsterdam;
 
@@ -174,7 +176,7 @@ Onverminderd de voorschriften bij en krachtens de [Wet op de kansspelbelasting](
 
 - –. andere instellingen werkzaam op de in het eerste lid genoemde terreinen, in de vorm van structurele of incidentele uitkeringen, overeenkomstig het bepaalde in de reglementen van de vennootschap.
 
-3. Uiterlijk binnen drie maanden na afloop van een kalenderjaar vindt door de vennootschap de afdracht over dat kalenderjaar plaats aan de in het tweede lid genoemde instellingen. Daarvan wordt verslag gedaan in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023321&artikel=I&artikel=14&z=2008-01-01&g=2008-01-01), bedoelde jaarrekening.
+3. Uiterlijk binnen drie maanden na afloop van een kalenderjaar vindt door de vennootschap de afdracht over dat kalenderjaar plaats aan de in het tweede lid genoemde instellingen. Daarvan wordt verslag gedaan in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023321&artikel=I&artikel=14&z=2009-04-01&g=2009-04-01), bedoelde jaarrekening.
 
 ##### Artikel 13
 
@@ -192,7 +194,7 @@ De vennootschap zendt binnen één maand na het einde van elk kwartaal aan de Mi
 
 ##### Artikel 15
 
-1. De kosten verbonden aan toezicht, goedkeuring, controle en onderzoek ingevolge de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023321&artikel=I&artikel=8&z=2008-01-01&g=2008-01-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023321&artikel=I&artikel=10&z=2008-01-01&g=2008-01-01), en [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023321&artikel=I&artikel=14&z=2008-01-01&g=2008-01-01), zijn voor rekening van de vennootschap.
+1. De kosten verbonden aan toezicht, goedkeuring, controle en onderzoek ingevolge de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023321&artikel=I&artikel=8&z=2009-04-01&g=2009-04-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023321&artikel=I&artikel=10&z=2009-04-01&g=2009-04-01), en [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023321&artikel=I&artikel=14&z=2009-04-01&g=2009-04-01), zijn voor rekening van de vennootschap.
 
 2. De jaarlijkse vergoeding bedoeld in [artikel 3a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=3a) bedraagt € 2.268,– en dient binnen vier weken na aanvang van een kalenderjaar door de vennootschap te worden voldaan aan de Minister.
 
