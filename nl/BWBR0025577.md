@@ -281,39 +281,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Postwet 2009](https://w
 Dit besluit wordt aangehaald als: Postbesluit met vermelding van het jaartal van het Staatsblad waarin het zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 4a
-
-Een verlener van de universele postdienst zorgt ervoor dat de brieven, die overeenkomstig de daartoe gestelde voorwaarden aan hem worden aangeboden voor postvervoer binnen Nederland met de standaard overnight service, per kalenderjaar in ten minste gemiddeld 95% van de gevallen worden besteld op de dag, niet zijnde een zon- of maandag of officiële feestdag, volgend op de dag van aanbieding, met dien verstande dat rouwbrieven en medische brieven per kalenderjaar in ten minste gemiddeld 95% van de gevallen worden besteld op de dag, niet zijnde een zondag of officiële feestdag, volgend op de dag van aanbieding.
-
-##### Artikel 4b
-
-De verlener van de universele postdienst zorgt ervoor dat het net van dienstverleningspunten voor het aanbieden van postzendingen en voor het verrichten van andere met het postvervoer samenhangende handelingen voldoet aan de volgende spreidingsmaatstaven:
-
-- a. de spreiding over Nederland van dienstverleningspunten met een volledig assortiment van diensten resulteert in een beschikbaarheid van een volledig assortiment van diensten binnen een straal van vijf kilometer voor ten minste 95% van de inwoners;
-
-- b. de spreiding van dienstverleningspunten met een volledig assortiment van diensten buiten woonkernen met meer dan 5.000 inwoners resulteert in een beschikbaarheid van een volledig assortiment van diensten binnen een straal van vijf kilometer voor ten minste 85% van de betrokken inwoners.
-
-##### Artikel 4c
-
-1. De verlener van de universele postdienst zorgt ervoor dat:
-
-- a. in woonkernen met meer dan 5.000 inwoners binnen een straal van 1.000 meter een voor het publiek bestemde brievenbus is, en
-
-- b. buiten de woonkernen, bedoeld in onderdeel a binnen een straal van 2.500 meter een voor het publiek bestemde brievenbus is.
-
-2. De verlener van de universele postdienst kan in afwijking van de in het eerste lid, onderdeel b, gestelde eis, wanneer deze eis redelijkerwijs niet haalbaar is, afwijken van die eis indien hij de betrokken gebruikers de gelegenheid biedt om bij de bestelling poststukken ten vervoer aan te bieden.
-
-##### Artikel 4d
-
-De verlener van de universele postdienst houdt bij de uitvoering van het bepaalde in de [artikelen 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4b&z=2016-01-01&g=2016-01-01) en [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4c&z=2016-01-01&g=2016-01-01) rekening met een advies als bedoeld in [artikel 18a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=18a) ten aanzien van de belangen van kwetsbare gebruikers van de universele postdienst.
-
-#### § 5. Vergoeding kosten Autoriteit Consument en Markt binnen de universele postdienst
-
-#### § 6. Vergoeding kosten Autoriteit Consument en Markt buiten universele postdienst
-
-#### § 7. Aanwijzingsprocedure verlener universele postdienst
-
-#### § 8. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
