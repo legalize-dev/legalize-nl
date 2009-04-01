@@ -4,7 +4,7 @@ identifier: "BWBR0010172"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2003-02-01"
+last_updated: "2009-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010172"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De gedetineerde ontvangt voor verrichte zaalarbeid of taakarbeid aan arbeidsloon of, in de gevallen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=3&artikel=5&z=2003-02-01&g=2003-02-01), aan loonvervangende financiële tegemoetkomingen gezamenlijk, minimaal 80% van het basisuurloon vermenigvuldigd met twintig.
+1. De gedetineerde ontvangt voor verrichte zaalarbeid of taakarbeid aan arbeidsloon of, in de gevallen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=3&artikel=5&z=2003-02-01&g=2009-04-01), aan loonvervangende financiële tegemoetkomingen gezamenlijk, minimaal 80% van het basisuurloon vermenigvuldigd met twintig.
 
 2. Het basisuurloon bedraagt € 0,64.
 
@@ -89,7 +89,7 @@ In deze regeling wordt verstaan onder:
 
 - zijn deelname aan, met toestemming van de directeur, educatie, of aan activiteiten in het kader van een maatschappelijk integratieprogramma,
 
-- een algemeen erkende feestdag, als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=4&artikel=8&z=2003-02-01&g=2003-02-01).
+- een algemeen erkende feestdag, als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=4&artikel=8&z=2003-02-01&g=2009-04-01).
 
 4. In de situatie dat de directeur niet kan voorzien in een aanbod van arbeid of in de situatie dat de gedetineerde wegens onvermijdbaar verzuim niet werkt, ontvangt de gedetineerde 80% van de vergoeding, bedoeld in het tweede lid.
 
@@ -101,7 +101,7 @@ De gedetineerde ontvangt een loonvervangende financiële tegemoetkoming voor ied
 
 - a. zijn deelname, met toestemming van de directeur, aan basiseducatie of aan activiteiten in het kader van een maatschappelijke integratie-programma; de hoogte van de tegemoetkoming is gelijk aan het basisuurloon, vermeerderd met de gemiddeld voor de voor hem aangewezen arbeid geldende toeslag;
 
-- b. een algemeen erkende feestdag als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=4&artikel=8&z=2003-02-01&g=2003-02-01); de hoogte van de tegemoetkoming is gelijk aan het basisuurloon;
+- b. een algemeen erkende feestdag als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=4&artikel=8&z=2003-02-01&g=2009-04-01); de hoogte van de tegemoetkoming is gelijk aan het basisuurloon;
 
 - c. de situatie dat de directeur niet kan voorzien in een aanbod van arbeid; de hoogte van de tegemoetkoming is gelijk aan het basisuurloon;
 
@@ -149,7 +149,7 @@ De gedetineerde ontvangt een loonvervangende financiële tegemoetkoming voor ied
 
 ##### Artikel 9
 
-De gedetineerde ontvangt geen loonvervangende financiële tegemoetkoming of de vergoeding, bedoeld in [artikel 4a, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=2a&artikel=4a&z=2003-02-01&g=2003-02-01), voor zover hij conform de [artikelen 23, eerste lid, onder a, b of d, 24 of 51, eerste lid onder a of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=23) is uitgesloten van deelname aan de arbeid.
+De gedetineerde ontvangt geen loonvervangende financiële tegemoetkoming of de vergoeding, bedoeld in [artikel 4a, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010172&paragraaf=2a&artikel=4a&z=2003-02-01&g=2009-04-01), voor zover hij conform de [artikelen 23, eerste lid, onder a, b of d, 24 of 51, eerste lid onder a of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=23) is uitgesloten van deelname aan de arbeid.
 
 #### § 5. Overgangs- en slotbepalingen
 
