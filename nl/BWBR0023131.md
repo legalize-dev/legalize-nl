@@ -4,7 +4,7 @@ identifier: "BWBR0023131"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-11-20"
-last_updated: "2007-12-23"
+last_updated: "2009-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023131"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Voor de toepassing van het in deze regeling bepaalde wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Alle middelen die toebehoren aan de personen en organisaties, aangewezen door de Minister van Buitenlandse Zaken in overeenstemming met de Minister van Financiën, worden bevroren.
+1. Alle middelen die toebehoren aan de personen en organisaties, aangewezen door de Minister van Buitenlandse Zaken in overeenstemming met de Minister van Justitie en de Minister van Financiën, worden bevroren.
 
 2. Het is verboden financiële diensten te verrichten voor of ten behoeve van de personen en organisaties, bedoeld in het eerste lid.
 
@@ -68,7 +68,7 @@ Voor de toepassing van het in deze regeling bepaalde wordt verstaan onder:
 
 ##### Artikel 3
 
-De Minister van Financiën kan in overeenstemming met de Minister van Buitenlandse Zaken op verzoek ontheffing verlenen van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023131&artikel=2&z=2007-12-23&g=2007-12-23).
+De Minister van Financiën kan in overeenstemming met de Minister van Buitenlandse Zaken op verzoek ontheffing verlenen van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023131&artikel=2&z=2009-04-03&g=2009-04-03).
 
 ##### Artikel 4
 
