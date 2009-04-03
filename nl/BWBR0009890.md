@@ -4,7 +4,7 @@ identifier: "BWBR0009890"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2008-09-26"
+last_updated: "2009-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009890"
 soort: "AMvB"
@@ -82,7 +82,11 @@ Hebben goedgevonden en verstaan:
 
 - 3°. afkomstig is uit een lid-staat van de Europese Unie of uit een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte en niet bestemd is voor het in Nederland in de handel brengen.
 
-3. Een wijziging van de [douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008032) geldt voor de toepassing van dit besluit met ingang van de dag waarop die wijziging van kracht wordt.
+3. Het verbod geldt evenmin met betrekking tot een kwikhoudend meettoestel dat op 3 oktober 2007 ten minste 50 jaar oud was en bedoeld is voor verkoop aan het grote publiek.
+
+4. Een wijziging van de [douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008032) geldt voor de toepassing van dit besluit met ingang van de dag waarop die wijziging van kracht wordt.
+
+5. De uitzonderingen, genoemd in het tweede en derde lid, gelden niet voor kwikhoudende koortsthermometers.
 
 ##### Artikel 2.2
 
@@ -96,7 +100,7 @@ Vervallen
 
 ##### Artikel 2.4
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2008-09-26&g=2008-09-26), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2008-09-26&g=2008-09-26), gelden niet met betrekking tot de volgende kwikhoudende producten:
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2009-04-03&g=2009-04-03), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2009-04-03&g=2009-04-03), gelden niet met betrekking tot de volgende kwikhoudende producten:
 
 - a. een pycno- of porosimeter ter bepaling van het poriënvolume van grond of andere poreuze vaste stoffen;
 
@@ -132,7 +136,7 @@ De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.n
 
 ##### Artikel 2.5
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2008-09-26&g=2008-09-26), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2008-09-26&g=2008-09-26), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2009-04-03&g=2009-04-03), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2009-04-03&g=2009-04-03), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
 
 #### § 3. Slotbepalingen
 
