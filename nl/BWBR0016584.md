@@ -4,7 +4,7 @@ identifier: "BWBR0016584"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-03-15"
-last_updated: "2004-04-15"
+last_updated: "2009-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016584"
 soort: "ministeriele-regeling"
@@ -41,11 +41,11 @@ Besluit:
 
 ##### Artikel 1
 
-Uiterlijk zeven dagen na de dag van kandidaatstelling voor de verkiezing van de leden van het Europees Parlement verstrekken burgemeester en wethouders aan Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties op cd-rom of diskette de gegevens van de in [artikel Y 3, onder b, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Y_3) bedoelde personen, waarvan de kiesgerechtigdheid voor de verkiezing van de leden van het Europees Parlement in de gemeentelijke administratie is geregistreerd.
+Uiterlijk zeven dagen na de dag van kandidaatstelling voor de verkiezing van de leden van het Europees Parlement verstrekken burgemeester en wethouders aan Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties per e-mail de gegevens van de in [artikel Y 3, onder b, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Y_3) bedoelde personen, waarvan de kiesgerechtigdheid voor de verkiezing van de leden van het Europees Parlement in de gemeentelijke administratie is geregistreerd.
 
 ##### Artikel 2
 
-1. Onder de gegevens, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016584&artikel=1&z=2004-04-15&g=2004-04-15), wordt verstaan:
+1. Onder de gegevens, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016584&artikel=1&z=2009-04-05&g=2009-04-05), wordt verstaan:
 
 - a. naam of namen;
 
