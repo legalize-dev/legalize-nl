@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-04-06"
+last_updated: "2009-04-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -115,11 +115,11 @@ Besluit:
 | 3.20 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Polymeren innovatieprojecten) | 10.15 |   | 15-05 t/m 01-10 | 900.000 |
 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) |
 | 4 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) (Pieken in de delta) | [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&artikel=2.3) |   |   |   |
-|   |   |   | Oost-Nederland |   |   |
-|   |   |   | Noordvleugel Randstad |   |   |
-|   |   |   | Zuidvleugel Randstad |   |   |
-|   |   |   | Zuidwest-Nederland |   |   |
-|   |   |   | Zuidoost-Nederland |   |   |
+|   |   |   | Oost-Nederland | 01-04 t/m 11-05 | 3.880.000 |
+|   |   |   | Noordvleugel Randstad | 01-04 t/m 11-05 | 9.000.000 |
+|   |   |   | Zuidvleugel Randstad | 01-04 t/m 11-05 | 4.960.000 |
+|   |   |   | Zuidwest-Nederland | 01-04 t/m 11-05 | 1.290.000 |
+|   |   |   | Zuidoost-Nederland | 01-04 t/m 11-05 | 4.530.000 |
 |   |   |   | Noord-Nederland | 01-01 t/m 31-12 | 20.000.000 |
 | Overige subsidieregelingen | Overige subsidieregelingen | Overige subsidieregelingen | Overige subsidieregelingen | Overige subsidieregelingen | Overige subsidieregelingen |
 | 5 | [Subsidieregeling prekwalificatie ESA-programma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0015867) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0015867&artikel=2) |   | 01-01 t/m 06-03 | 5.899.143 |
