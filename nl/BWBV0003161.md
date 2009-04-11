@@ -4,7 +4,7 @@ identifier: "BWBV0003161"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-04-11"
-last_updated: "2008-04-25"
+last_updated: "2009-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003161"
 soort: "verdrag"
@@ -118,13 +118,13 @@ De Partijen verlenen elkaar bijstand door de uitwisseling van informatie die naa
 
 ##### Artikel 4. Uitwisseling van informatie op verzoek
 
-1. De bevoegde autoriteit van de aangezochte Partij verstrekt op verzoek van de verzoekende Partij informatie ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=1&z=2008-04-25&g=2008-04-25) bedoelde doeleinden. Deze informatie wordt uitgewisseld ongeacht of de aangezochte Partij de informatie ten behoeve van haar eigen belastingheffing nodig heeft en of de te onderzoeken gedragingen strafbaar zouden zijn krachtens de wetgeving van de aangezochte Partij indien zij op het grondgebied van de aangezochte Partij zouden hebben plaatsgevonden. De bevoegde autoriteit van de verzoekende Partij verzoekt alleen om informatie uit hoofde van dit artikel indien zij de verzochte informatie niet op andere wijze kan verkrijgen, of die andere wijze van verkrijging zou leiden tot onevenredige moeilijkheden.
+1. De bevoegde autoriteit van de aangezochte Partij verstrekt op verzoek van de verzoekende Partij informatie ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=1&z=2009-04-11&g=2009-04-11) bedoelde doeleinden. Deze informatie wordt uitgewisseld ongeacht of de aangezochte Partij de informatie ten behoeve van haar eigen belastingheffing nodig heeft en of de te onderzoeken gedragingen strafbaar zouden zijn krachtens de wetgeving van de aangezochte Partij indien zij op het grondgebied van de aangezochte Partij zouden hebben plaatsgevonden. De bevoegde autoriteit van de verzoekende Partij verzoekt alleen om informatie uit hoofde van dit artikel indien zij de verzochte informatie niet op andere wijze kan verkrijgen, of die andere wijze van verkrijging zou leiden tot onevenredige moeilijkheden.
 
 2. Indien de informatie in het bezit van de bevoegde autoriteit van de aangezochte Partij niet toereikend is om aan het verzoek om informatie te voldoen, treft de aangezochte Partij alle naar haar oordeel toepasselijke maatregelen inzake het verzamelen van informatie teneinde de verzoekende Partij de verzochte informatie te verstrekken, ongeacht het feit dat de aangezochte Partij ten behoeve van haar eigen belastingheffing niet over dergelijke informatie behoeft te beschikken.
 
 3. Indien de bevoegde autoriteit van een verzoekende Partij daar specifiek om verzoekt, is de bevoegde autoriteit van de aangezochte Partij gehouden uit hoofde van dit artikel informatie te verstrekken, voor zover zulks is toegestaan in overeenstemming met de nationale wetgeving, in de vorm van getuigenverklaringen en gewaarmerkte afschriften van originele stukken.
 
-4. Elke Partij waarborgt dat zij, met inachtneming van het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=1&z=2008-04-25&g=2008-04-25), via haar bevoegde autoriteit en op verzoek bevoegd is tot het verkrijgen en verschaffen van:
+4. Elke Partij waarborgt dat zij, met inachtneming van het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=1&z=2009-04-11&g=2009-04-11), via haar bevoegde autoriteit en op verzoek bevoegd is tot het verkrijgen en verschaffen van:
 
 - a. informatie die berust bij banken, overige financiële instellingen en personen die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreden, met inbegrip van gevolmachtigden en trustees;
 
@@ -176,7 +176,7 @@ mits dit Verdrag geen verbintenis voor een Partij in het leven roept om informat
 
 - c. indien bekendmaking van de verzochte informatie in strijd zou zijn met de openbare orde.
 
-2. Dit Verdrag verplicht een aangezochte Partij niet tot het verstrekken van stukken waarop de bescherming van de vertrouwelijkheid van toepassing is of van informatie die een handels-, bedrijfs-, nijverheids-, commercieel of beroepsgeheim of een handelswerkwijze zou onthullen, met dien verstande dat de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=4&z=2008-04-25&g=2008-04-25), omschreven informatie niet uitsluitend op grond daarvan als een geheim of handelsproces mag worden aangemerkt.
+2. Dit Verdrag verplicht een aangezochte Partij niet tot het verstrekken van stukken waarop de bescherming van de vertrouwelijkheid van toepassing is of van informatie die een handels-, bedrijfs-, nijverheids-, commercieel of beroepsgeheim of een handelswerkwijze zou onthullen, met dien verstande dat de in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=4&z=2009-04-11&g=2009-04-11), omschreven informatie niet uitsluitend op grond daarvan als een geheim of handelsproces mag worden aangemerkt.
 
 3. Een verzoek om informatie wordt niet geweigerd op grond van het feit dat de belastingvordering die aanleiding gaf tot het verzoek wordt betwist.
 
@@ -188,9 +188,9 @@ mits dit Verdrag geen verbintenis voor een Partij in het leven roept om informat
 
 1. Alle door de bevoegde autoriteiten van de Partijen verschafte of ontvangen informatie wordt vertrouwelijk behandeld.
 
-2. Deze informatie wordt uitsluitend bekendgemaakt aan personen of autoriteiten (met inbegrip van gerechtelijke en bestuursrechtelijke instanties) die betrokken zijn bij de doelstellingen omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=1&z=2008-04-25&g=2008-04-25), en door deze personen of autoriteiten uitsluitend voor deze doelstellingen gebruikt, met inbegrip van beslissingen in beroepszaken. Voor deze doeleinden mag informatie worden onthuld tijdens openbare rechtszittingen of bij rechterlijke beslissingen.
+2. Deze informatie wordt uitsluitend bekendgemaakt aan personen of autoriteiten (met inbegrip van gerechtelijke en bestuursrechtelijke instanties) die betrokken zijn bij de doelstellingen omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=1&z=2009-04-11&g=2009-04-11), en door deze personen of autoriteiten uitsluitend voor deze doelstellingen gebruikt, met inbegrip van beslissingen in beroepszaken. Voor deze doeleinden mag informatie worden onthuld tijdens openbare rechtszittingen of bij rechterlijke beslissingen.
 
-3. Deze informatie mag zonder uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte Partij niet worden gebruikt voor andere doeleinden dan die vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=1&z=2008-04-25&g=2008-04-25).
+3. Deze informatie mag zonder uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte Partij niet worden gebruikt voor andere doeleinden dan die vermeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=1&z=2009-04-11&g=2009-04-11).
 
 4. Uit hoofde van dit Verdrag aan een verzoekende Partij verschafte informatie mag niet bekend worden gemaakt aan een ander rechtsgebied.
 
@@ -206,7 +206,7 @@ Verzoeken om bijstand en antwoorden daarop worden in het Engels gesteld.
 
 1. De onderscheiden bevoegde autoriteiten stellen alles in het werk om moeilijkheden of twijfelpunten die tussen de Partijen mochten rijzen met betrekking tot de toepassing of de uitlegging van dit Verdrag in onderling overleg op te lossen.
 
-2. In aanvulling op de in het eerste lid bedoelde overeenstemming, kunnen de bevoegde autoriteiten van de Partijen gezamenlijk overeenstemming bereiken over de krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=4&z=2008-04-25&g=2008-04-25), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=5&z=2008-04-25&g=2008-04-25) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=8&z=2008-04-25&g=2008-04-25) te volgen procedures.
+2. In aanvulling op de in het eerste lid bedoelde overeenstemming, kunnen de bevoegde autoriteiten van de Partijen gezamenlijk overeenstemming bereiken over de krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=4&z=2009-04-11&g=2009-04-11), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=5&z=2009-04-11&g=2009-04-11) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=8&z=2009-04-11&g=2009-04-11) te volgen procedures.
 
 3. De Partijen komen waar nodig andere vormen van geschillenregeling overeen.
 
@@ -216,7 +216,7 @@ Dit Verdrag treedt in werking 30 dagen na de ontvangst door de laatste Partij va
 
 - a. strafrechtelijke belastingzaken vanaf die datum; en
 
-- b. alle overige aangelegenheden waarop [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=1&z=2008-04-25&g=2008-04-25) van toepassing is vanaf die datum, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, alle belastingvorderingen ontstaan op of na die datum.
+- b. alle overige aangelegenheden waarop [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=1&z=2009-04-11&g=2009-04-11) van toepassing is vanaf die datum, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, alle belastingvorderingen ontstaan op of na die datum.
 
 ##### Artikel 12. Beëindiging
 
@@ -224,7 +224,7 @@ Dit Verdrag treedt in werking 30 dagen na de ontvangst door de laatste Partij va
 
 2. Na het verstrijken van twee jaar na de datum van de inwerkingtreding ervan kan elke Partij dit Verdrag beëindigen door middel van een schriftelijke kennisgeving. Deze opzegging wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving van beëindiging door de andere Partij. Alle verzoeken die worden ontvangen voor de datum waarop het Verdrag beëindigd is, worden behandeld in overeenstemming met de bepalingen van dit Verdrag.
 
-3. Indien het Verdrag wordt beëindigd, blijven de Partijen gebonden door de voorwaarden van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=7&z=2008-04-25&g=2008-04-25) ten aanzien van alle uit hoofde van dit Verdrag verkregen informatie.
+3. Indien het Verdrag wordt beëindigd, blijven de Partijen gebonden door de voorwaarden van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003161&artikel=7&z=2009-04-11&g=2009-04-11) ten aanzien van alle uit hoofde van dit Verdrag verkregen informatie.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised in that behalf by the respective Parties, have signed the Agreement.
 
