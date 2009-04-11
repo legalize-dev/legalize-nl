@@ -4,7 +4,7 @@ identifier: "BWBR0007965"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-11-14"
-last_updated: "2008-06-01"
+last_updated: "2009-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007965"
 soort: "AMvB"
@@ -88,33 +88,35 @@ Een houder of een aërosol is zodanig samengesteld dat bij redelijkerwijs te ver
 
 - a. de naam en het adres danwel het gedeponeerde merk van diegene die binnen het gebied waarop het verdrag betreffende de Europese Unie van toepassing is die aërosol vervaardigt, aan een ander ter beschikking stelt of in dat gebied invoert, dan wel van diegene die in zijn hoedanigheid van binnen bovenbedoeld gebied gevestigd verkoper een ander een aërosol heeft laten vervaardigen;
 
-- b. het volume van de vloeibare fase uitgedrukt in milliliter, vergezeld van een symbool van overeenstemming met de richtlijn, namelijk een aanduiding houdende een omgekeerde epsilon «3»;
+- b. de nominale totale capaciteit van de houder en het volume van de vloeibare fase uitgedrukt in milliliter, vergezeld van een symbool van overeenstemming met de richtlijn, namelijk een aanduiding houdende een omgekeerde epsilon «3»;
 
 - c. gegevens in code aan de hand waarvan de vulpartij kan worden geïdentificeerd;
 
 - d. gevaarsaanduidingen dan wel veiligheidsaanbevelingen ter vermijding van de belangrijkste aan het gebruik en de opslag van de aërosol verbonden gevaren.
 
-2. Voor de in het eerste lid, onder d, bedoelde aanduidingen en aanbevelingen wordt gebruik gemaakt van de bijlage bij de richtlijn.
+2. De in het eerste lid, onder b, bedoelde vermeldingen zijn zodanig aangebracht dat geen verwarring kan ontstaan omtrent het volume dat wordt bedoeld.
 
-3. In afwijking van het eerste lid mogen de in dat lid bedoelde vermeldingen en aanduidingen zijn aangebracht op een aan de aërosol gehecht label, indien de houder van de aërosol een totale capaciteit heeft van 150 ml of minder.
+3. Voor de in het eerste lid, onder d, bedoelde aanduidingen en aanbevelingen wordt gebruik gemaakt van de bijlage bij de richtlijn.
 
-4. Indien de persoon, bedoeld in het eerste lid, onder **a**, kan aantonen dat een aërosol, hoewel het ontvlambare bestanddelen bevat, in normale of redelijkerwijs voorzienbare gebruiksomstandigheden geen gevaar voor ontbranding oplevert, mag hij in plaats van de in het eerste lid, onder **d**, genoemde aanduidingen, het percentage ontvlambare bestanddelen vermelden als volgt: «Bevat «x» gewichtsprocent ontvlambare bestanddelen».
+4. In afwijking van het eerste lid mogen de in dat lid bedoelde vermeldingen en aanduidingen zijn aangebracht op een aan de aërosol gehecht label, indien de houder van de aërosol een totale capaciteit heeft van 150 ml of minder.
 
-5. Dit lid is nog niet in werking getreden.
+5. Indien de persoon, bedoeld in het eerste lid, onder **a**, kan aantonen dat een aërosol, hoewel het ontvlambare bestanddelen bevat, in normale of redelijkerwijs voorzienbare gebruiksomstandigheden geen gevaar voor ontbranding oplevert, mag hij in plaats van de in het eerste lid, onder **d**, genoemde aanduidingen, het percentage ontvlambare bestanddelen vermelden als volgt: «Bevat «x» gewichtsprocent ontvlambare bestanddelen».
 
-6. Een afschrift van de in het vierde lid bedoelde onderzoeksgegevens wordt ter beschikking gehouden van de Voedsel en Waren Autoriteit.
+6. Dit lid is nog niet in werking getreden.
+
+7. Een afschrift van de in het vierde lid bedoelde onderzoeksgegevens wordt ter beschikking gehouden van de Voedsel en Waren Autoriteit.
 
 ##### Artikel 5
 
-Indien een aërosol bestemd is om te worden gebruikt in een laboratorium en tevens de nominale inhoud niet meer bedraagt dan één liter, mogen de in [artikel 4, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2008-06-01&g=2008-06-01), bedoelde aanduidingen in plaats van in de Nederlandse taal worden gesteld in de Franse, Duitse of Engelse.
+Indien een aërosol bestemd is om te worden gebruikt in een laboratorium en tevens de nominale inhoud niet meer bedraagt dan één liter, mogen de in [artikel 4, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2009-04-11&g=2009-04-11), bedoelde aanduidingen in plaats van in de Nederlandse taal worden gesteld in de Franse, Duitse of Engelse.
 
 ##### Artikel 6
 
-Op een aërosol, verpakking daarvan of op een daarop bevestigd etiket of op labels gehecht aan aërosols, worden vermeldingen en aanduidingen die verward kunnen worden met teken «3» (omgekeerde epsilon) zoals in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2008-06-01&g=2008-06-01), bedoeld, niet gebezigd.
+Op een aërosol, verpakking daarvan of op een daarop bevestigd etiket of op labels gehecht aan aërosols, worden vermeldingen en aanduidingen die verward kunnen worden met teken «3» (omgekeerde epsilon) zoals in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2009-04-11&g=2009-04-11), bedoeld, niet gebezigd.
 
 ##### Artikel 7
 
-Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot houders of aërosols is voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), worden aangewezen de onderzoeksmethoden, opgenomen in de bijlage bij de richtlijn.
+Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot houders of aërosols is voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=3&z=2009-04-11&g=2009-04-11), worden aangewezen de onderzoeksmethoden, opgenomen in de bijlage bij de richtlijn.
 
 #### § 3. Frisdrankflessen
 
@@ -144,11 +146,11 @@ Dit besluit berust mede op de [artikelen 9.2.3.1, derde en vierde lid](https://w
 
 ##### Artikel 11
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, met uitzondering van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2008-06-01&g=2008-06-01) dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, met uitzondering van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2009-04-11&g=2009-04-11) dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 2. Bestrijdingsmiddelen in de vorm van aërosols, die vóór de datum van inwerkingtreding van dit besluit voor het eerst zijn verhandeld, mogen nog tot 24 maanden na die inwerkingtreding worden verhandeld.
 
-3. Een wijziging van de bijlage bij de richtlijn, voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), [4, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2008-06-01&g=2008-06-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=7&z=2008-06-01&g=2008-06-01), maakt Onze Minister bekend in de **Staatscourant**; hij vermeldt daarbij met ingang van welke datum de wijziging moet worden toegepast.
+3. Een wijziging van de bijlage bij de richtlijn, voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=3&z=2009-04-11&g=2009-04-11), [4, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2009-04-11&g=2009-04-11), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=7&z=2009-04-11&g=2009-04-11), maakt Onze Minister bekend in de **Staatscourant**; hij vermeldt daarbij met ingang van welke datum de wijziging moet worden toegepast.
 
 ##### Artikel 12
 
