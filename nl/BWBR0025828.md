@@ -4,7 +4,7 @@ identifier: "BWBR0025828"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-04-16"
-last_updated: "2008-03-01"
+last_updated: "2009-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025828"
 soort: "ministeriele-regeling"
@@ -53,25 +53,25 @@ De Staatssecretaris verleent aan APG Algemene Pensioen Groep mandaat om namens h
 
 ##### Artikel 3
 
-APG Algemene Pensioen Groep legt een voorgenomen besluit, voor zover dit voortkomt uit de uitvoering van in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025828&artikel=2&z=2009-04-16&g=2008-03-01) genoemde regeling voor aan de Staatssecretaris indien:
+APG Algemene Pensioen Groep legt een voorgenomen besluit, voor zover dit voortkomt uit de uitvoering van in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025828&artikel=2&z=2009-04-16&g=2009-04-16) genoemde regeling voor aan de Staatssecretaris indien:
 
-- a. APG Algemene Pensioen Groep gerede twijfels heeft over het in een individueel geval toepassen van een regeling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025828&artikel=2&z=2009-04-16&g=2008-03-01) en
+- a. APG Algemene Pensioen Groep gerede twijfels heeft over het in een individueel geval toepassen van een regeling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025828&artikel=2&z=2009-04-16&g=2009-04-16) en
 
 - b. het naar het oordeel van APG Algemene Pensioen Groep een geval betreft dat grote beleidsmatige of financiële gevolgen kan hebben voor het Ministerie van Defensie, dan wel kan leiden tot precedentwerking.
 
 ##### Artikel 4
 
-- a. APG Algemene Pensioen Groep kan het aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025828&artikel=2&z=2009-04-16&g=2008-03-01) ontleende mandaat geheel of gedeeltelijk mandateren.
+- a. APG Algemene Pensioen Groep kan het aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025828&artikel=2&z=2009-04-16&g=2009-04-16) ontleende mandaat geheel of gedeeltelijk mandateren.
 
 - b. De verlening van een mandaat door APG Algemene Pensioen Groep geschiedt schriftelijk.
 
 ##### Artikel 5
 
-De Staatssecretaris verleent mandaat aan het hoofd van de afdeling van APG Algemene Pensioen Groep welke expliciet is belast met de afdoening van bezwaar en beroep ten aanzien van bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025828&artikel=2&z=2009-04-16&g=2008-03-01) genoemde regeling, om te beslissen op een bezwaarschrift aangaande ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025828&artikel=2&z=2009-04-16&g=2008-03-01) genomen besluit. Een en ander met dien verstande dat degene die betrokken is bij het besluitvormingsproces ten aanzien van het bezwaarschrift niet ook betrokken is geweest bij het besluitvormingsproces in eerste aanleg.
+De Staatssecretaris verleent mandaat aan het hoofd van de afdeling van APG Algemene Pensioen Groep welke expliciet is belast met de afdoening van bezwaar en beroep ten aanzien van bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025828&artikel=2&z=2009-04-16&g=2009-04-16) genoemde regeling, om te beslissen op een bezwaarschrift aangaande ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025828&artikel=2&z=2009-04-16&g=2009-04-16) genomen besluit. Een en ander met dien verstande dat degene die betrokken is bij het besluitvormingsproces ten aanzien van het bezwaarschrift niet ook betrokken is geweest bij het besluitvormingsproces in eerste aanleg.
 
 ##### Artikel 6
 
-De Staatssecretaris verleent aan APG Algemene Pensioen Groep bevoegdheid in rechte op te treden indien tegen een ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025828&artikel=2&z=2009-04-16&g=2008-03-01) genomen besluit beroep wordt ingesteld.
+De Staatssecretaris verleent aan APG Algemene Pensioen Groep bevoegdheid in rechte op te treden indien tegen een ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025828&artikel=2&z=2009-04-16&g=2009-04-16) genomen besluit beroep wordt ingesteld.
 
 ##### Artikel 7
 
