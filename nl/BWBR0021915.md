@@ -4,7 +4,7 @@ identifier: "BWBR0021915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2009-01-01"
+last_updated: "2009-04-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021915"
 soort: "ministeriele-regeling"
@@ -117,6 +117,14 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 - a. dat de voortzetting duurt, en
 
 - b. voor de reistijd die nodig is om het onderzoek te kunnen voortzetten.
+
+5. De retributie wordt verminderd met een bedrag van € 92,85, indien:
+
+- a. de aanvrager op het moment van aanvraag voor een andere ruimte dan waarop de aanvraag is gericht beschikt over een vergunning voor gelijksoortige activiteiten;
+
+- b. voor die vergunning dit lid buiten toepassing is gebleven.
+
+6. De aanvrager die in aanmerking komt voor een verlaagd tarief als bedoeld in het vijfde lid, maakt in de aanvraag melding van de in dat lid bedoelde vergunning.
 
 ##### Artikel 6
 
