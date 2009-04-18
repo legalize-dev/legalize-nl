@@ -4,7 +4,7 @@ identifier: "BWBR0011362"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2008-12-17"
+last_updated: "2009-04-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011362"
 soort: "ministeriele-regeling"
@@ -1086,7 +1086,7 @@ Hoewel deze geneesmiddelen hypoglykemieën kunnen veroorzaken, die kunnen leiden
 
 De aandoening waarbij deze geneesmiddelen worden toegepast (epilepsie) vormt meestal een meer wezenlijk probleem voor de geschiktheid dan de effecten van het geneesmiddel zelf.
 
-Personen die behandeld worden met anti-epileptica die een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid hebben (categorie III), zijn ongeschikt.
+Personen die behandeld worden met anti-epileptica die een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid hebben (categorie III), zijn ongeschikt totdat de anti-epileptica ten minste gedurende een periode van één jaar zijn gebruikt.
 
 ### 10.8. Anticoagulantia
 
