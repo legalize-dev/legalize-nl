@@ -4,7 +4,7 @@ identifier: "BWBR0025318"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-04-19"
-last_updated: "2006-01-01"
+last_updated: "2009-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025318"
 soort: "AMvB"
@@ -72,6 +72,12 @@ Indien aan de burgemeester een dienstauto ter beschikking is gesteld en voor zov
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking twee maanden na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat:
+
+- a. [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0025318&artikel=I&z=2009-04-19&g=2009-04-19) en [artikel III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0025318&artikel=III&z=2009-04-19&g=2009-04-19), terugwerken tot en met 1 januari 2006;
+
+- b. [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025318&artikel=II&z=2009-04-19&g=2009-04-19) en [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0025318&artikel=V&z=2009-04-19&g=2009-04-19) terugwerken tot en met 1 januari 2001;
+
+- c. [artikel IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0025318&artikel=IV&z=2009-04-19&g=2009-04-19), en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025318&artikel=VI&z=2009-04-19&g=2009-04-19) terugwerken tot en met 1 januari 2002.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
