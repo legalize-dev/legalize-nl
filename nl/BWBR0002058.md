@@ -4,7 +4,7 @@ identifier: "BWBR0002058"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2008-07-01"
+last_updated: "2009-04-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002058"
 soort: "wet"
@@ -62,7 +62,7 @@ De Raad heeft, onverminderd de hem bij de vijfde titel van dit hoofdstuk opgedra
 
 ##### Artikel 3
 
-De Raad heeft een voorzitter, een dagelijks bestuur, een algemeen secretaris en, bij toepassing van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=6&artikel=19&z=2008-07-01&g=2008-07-01), een of meer commissies uit zijn midden.
+De Raad heeft een voorzitter, een dagelijks bestuur, een algemeen secretaris en, bij toepassing van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=6&artikel=19&z=2009-04-24&g=2009-04-24), een of meer commissies uit zijn midden.
 
 #### § 2. Van de Raad
 
@@ -88,7 +88,7 @@ De Raad heeft een voorzitter, een dagelijks bestuur, een algemeen secretaris en,
 
 ##### Artikel 5
 
-1. Lid of plaatsvervangend lid van de Raad kunnen alleen zijn ingezetenen van Nederland, die niet van de verkiesbaarheid bij krachtens wettelijk voorschrift uitgeschreven verkiezingen zijn ontzet, noch van de uitoefening van het kiesrecht bij zodanige verkiezingen zijn uitgesloten.
+1. Lid of plaatsvervangend lid van de Raad kunnen alleen zijn zij die niet van de verkiesbaarheid bij krachtens wettelijk voorschrift uitgeschreven verkiezingen zijn ontzet, noch van de uitoefening van het kiesrecht bij zodanige verkiezingen zijn uitgesloten.
 
 2. Van het lidmaatschap zijn uitgesloten zij, die zijn ontzet van het recht ambten of bepaalde ambten te bekleden, dan wel bepaalde beroepen of functies uit te oefenen.
 
@@ -136,7 +136,7 @@ De leden van de Raad en hun plaatsvervangers zijn verplicht tot geheimhouding va
 
 ##### Artikel 13
 
-De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2008-07-01&g=2008-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2008-07-01&g=2008-07-01) zijn ten aanzien van de voorzitter en de plaatsvervangende voorzitters van overeenkomstige toepassing.
+De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2009-04-24&g=2009-04-24) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2009-04-24&g=2009-04-24) zijn ten aanzien van de voorzitter en de plaatsvervangende voorzitters van overeenkomstige toepassing.
 
 #### § 4. Van het dagelijks bestuur
 
@@ -150,7 +150,7 @@ De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerst
 
 ##### Artikel 15
 
-De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2008-07-01&g=2008-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2008-07-01&g=2008-07-01) zijn ten aanzien van het dagelijks bestuur van overeenkomstige toepassing.
+De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2009-04-24&g=2009-04-24) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2009-04-24&g=2009-04-24) zijn ten aanzien van het dagelijks bestuur van overeenkomstige toepassing.
 
 #### § 5. Van het secretariaat
 
@@ -160,11 +160,11 @@ De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerst
 
 2. De algemeen secretaris en de secretarissen worden in dienst genomen en kunnen worden ontslagen door de Raad.
 
-3. De Raad stelt bij verordening regelen omtrent indienstneming en ontslag, alsmede omtrent het loon en de andere arbeidsvoorwaarden van het personeel.
+3. Het personeel is in dienst op grond van een arbeidsovereenkomst naar burgerlijk recht.
 
 ##### Artikel 17
 
-1. De algemeen secretaris en de secretarissen kunnen noch zelf een onderneming drijven, noch in dienst zijn van een natuurlijke of rechtspersoon, die een onderneming drijft, noch enige andere functie ten behoeve van zulk een natuurlijke of rechtspersoon vervullen. Onder onderneming wordt mede verstaan een bedrijf, waarmede niet wordt beoogd het maken van winst.
+1. De algemeen secretaris en de secretarissen kunnen noch zelf een onderneming drijven, noch in dienst zijn van een natuurlijke of rechtspersoon, die een onderneming drijft, noch enige andere functie ten behoeve van zulk een natuurlijke of rechtspersoon vervullen, tenzij naar het oordeel van de Raad daardoor een goede vervulling van hun functie niet wordt belemmerd. Onder onderneming wordt mede verstaan een bedrijf, waarmede niet wordt beoogd het maken van winst.
 
 2. Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld omtrent de onverenigbaarheid van een functie bij het secretariaat met andere werkzaamheden.
 
@@ -172,7 +172,7 @@ De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerst
 
 ##### Artikel 18
 
-[Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2008-07-01&g=2008-07-01) is ten aanzien van het personeel van het secretariaat van overeenkomstige toepassing.
+[Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2009-04-24&g=2009-04-24) is ten aanzien van het personeel van het secretariaat van overeenkomstige toepassing.
 
 #### § 6. Van de commissies uit het midden van de Raad
 
@@ -180,7 +180,7 @@ De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerst
 
 1. De Raad is bevoegd voor bepaalde onderwerpen commissies uit zijn midden in te stellen.
 
-2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2008-07-01&g=2008-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2008-07-01&g=2008-07-01) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
+2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2009-04-24&g=2009-04-24) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2009-04-24&g=2009-04-24) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
 
 ## Titel III. Van de werkwijze
 
@@ -230,13 +230,13 @@ De leden van de Raad onthouden zich van medestemmen over zaken, die hun, hun ech
 
 ##### Artikel 28
 
-1. Onze door Ons aan te wijzen Ministers zijn bevoegd de door de Raad en de commissies uit zijn midden te houden vergaderingen bij te wonen en zich daarin door een of meer door hen aan te wijzen personen te doen bijstaan, dan wel zich daarin door een of meer zodanige personen te doen vertegenwoordigen. Zowel zij als hun vertegenwoordigers hebben in deze vergaderingen een raadgevende stem.
+1. Onze Ministers zijn bevoegd de door de Raad en de commissies uit zijn midden te houden vergaderingen bij te wonen en zich daarin door een of meer door hen aan te wijzen personen te doen bijstaan, dan wel zich daarin door een of meer zodanige personen te doen vertegenwoordigen. Zowel zij als hun vertegenwoordigers hebben in deze vergaderingen een raadgevende stem.
 
-2. Aan Onze in het eerste lid bedoelde Ministers wordt tijdig kennis gegeven van de in dat lid bedoelde vergaderingen.
+2. Aan Onze Ministers wordt tijdig kennis gegeven van de in dat lid bedoelde vergaderingen.
 
 ##### Artikel 29
 
-De [artikelen 20 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=20&z=2008-07-01&g=2008-07-01) zijn van overeenkomstige toepassing ten aanzien van het dagelijks bestuur.
+De [artikelen 20 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=20&z=2009-04-24&g=2009-04-24) zijn van overeenkomstige toepassing ten aanzien van het dagelijks bestuur.
 
 ##### Artikel 30
 
@@ -250,7 +250,7 @@ De Raad kan bij verordening nadere regelen stellen betreffende zijn werkwijze.
 
 ##### Artikel 32
 
-1. De Raad maakt ten aanzien van de onderwerpen, waarvan de regeling of nadere regeling bij de wet aan hem is overgelaten, de verordeningen, die hij ter vervulling van zijn in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=I&artikel=2&z=2008-07-01&g=2008-07-01) omschreven taak nodig oordeelt.
+1. De Raad maakt ten aanzien van de onderwerpen, waarvan de regeling of nadere regeling bij de wet aan hem is overgelaten, de verordeningen, die hij ter vervulling van zijn in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=I&artikel=2&z=2009-04-24&g=2009-04-24) omschreven taak nodig oordeelt.
 
 2. Bij deze verordeningen kunnen overtredingen van het bij of krachtens haar bepaalde worden aangewezen als strafbare feiten.
 
@@ -264,7 +264,7 @@ Vervallen
 
 ##### Artikel 35
 
-De Raad kan met betrekking tot de vervulling van zijn in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=I&artikel=2&z=2008-07-01&g=2008-07-01) omschreven taak, bij verordening zijn bevoegdheden - met uitzondering van de bevoegdheid tot het maken van verordeningen en die tot het vaststellen ingevolge [artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=VI&paragraaf=2&artikel=52&z=2008-07-01&g=2008-07-01), van het bedrag der inkomsten en uitgaven -, delegeren aan de voorzitter, het dagelijks bestuur of een commissie uit zijn midden.
+De Raad kan met betrekking tot de vervulling van zijn in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=I&artikel=2&z=2009-04-24&g=2009-04-24) omschreven taak, bij verordening zijn bevoegdheden - met uitzondering van de bevoegdheid tot het maken van verordeningen en die tot het vaststellen ingevolge [artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=VI&paragraaf=2&artikel=52&z=2009-04-24&g=2009-04-24), van het bedrag der inkomsten en uitgaven -, delegeren aan de voorzitter, het dagelijks bestuur of een commissie uit zijn midden.
 
 ##### Artikel 36
 
@@ -280,7 +280,7 @@ Tenzij het voorschrift, waarbij de medewerking wordt ingeroepen, anders bepaalt,
 
 2. Over de vaststelling van verordeningen beraadslaagt en beslist de Raad in het openbaar.
 
-3. Verordeningen van de Raad als bedoeld in het eerste lid en in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=VI&paragraaf=1&artikel=47&z=2008-07-01&g=2008-07-01), worden bekendgemaakt in het vanwege de Raad uitgegeven Verordeningenblad Bedrijfsorganisatie. Indien zij goedkeuring behoeven, geschiedt de bekendmaking niet dan nadat deze is verleend. Het besluit waarbij de goedkeuring is verleend wordt bij de bekendmaking vermeld. De verordeningen treden, indien zij niet anders bepalen, in werking met ingang van de dag na die van de bekendmaking.
+3. Verordeningen van de Raad als bedoeld in het eerste lid en in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=VI&paragraaf=1&artikel=47&z=2009-04-24&g=2009-04-24), worden bekendgemaakt in het vanwege de Raad uitgegeven Verordeningenblad Bedrijfsorganisatie. Indien zij goedkeuring behoeven, geschiedt de bekendmaking niet dan nadat deze is verleend. Het besluit waarbij de goedkeuring is verleend wordt bij de bekendmaking vermeld. De verordeningen treden, indien zij niet anders bepalen, in werking met ingang van de dag na die van de bekendmaking.
 
 4. Verordeningen als bedoeld in het eerste lid behoeven de goedkeuring van Onze betrokken Ministers.
 
@@ -290,7 +290,7 @@ De voorzitter vertegenwoordigt de Raad in en buiten rechte.
 
 ##### Artikel 40
 
-De Raad dient desgevraagd Onze krachtens [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=28&z=2008-07-01&g=2008-07-01), aangewezen Ministers van bericht over alle aangelegenheden de Raad betreffende.
+De Raad dient desgevraagd Onze Ministers van bericht over alle aangelegenheden de Raad betreffende.
 
 ## Titel V. Van de adviezen van de Raad
 
@@ -302,7 +302,7 @@ De Raad adviseert op schriftelijk verzoek van Onze Ministers of van een van beid
 
 1. De Raad kan commissies, waarin ook personen buiten de Raad zitting kunnen hebben, instellen ter voorbereiding van door hem uit te brengen adviezen.
 
-2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2008-07-01&g=2008-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2008-07-01&g=2008-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=28&z=2008-07-01&g=2008-07-01) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
+2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2009-04-24&g=2009-04-24), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2009-04-24&g=2009-04-24) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=28&z=2009-04-24&g=2009-04-24) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
 
 ##### Artikel 43
 
@@ -312,11 +312,11 @@ De Raad adviseert op schriftelijk verzoek van Onze Ministers of van een van beid
 
 3. Indien Onze betrokken Ministers het advies van een zodanige commissie hebben gevraagd, brengt zij dit rechtstreeks aan hen uit. Van het advies wordt kennis gegeven aan de Raad.
 
-4. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2008-07-01&g=2008-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2008-07-01&g=2008-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=28&z=2008-07-01&g=2008-07-01) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
+4. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2009-04-24&g=2009-04-24), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2009-04-24&g=2009-04-24) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=28&z=2009-04-24&g=2009-04-24) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
 
 ##### Artikel 44
 
-De Raad kan de commissies, bedoeld in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=42&z=2008-07-01&g=2008-07-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=43&z=2008-07-01&g=2008-07-01), machtigen namens hem van advies te dienen. Zodanige machtiging wordt niet verleend voor een op verzoek van een Onzer Ministers uit te brengen advies, waarvan deze bepaaldelijk heeft verzocht, dat het door de Raad zelf wordt uitgebracht.
+De Raad kan de commissies, bedoeld in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=42&z=2009-04-24&g=2009-04-24) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=43&z=2009-04-24&g=2009-04-24), machtigen namens hem van advies te dienen. Zodanige machtiging wordt niet verleend voor een op verzoek van een Onzer Ministers uit te brengen advies, waarvan deze bepaaldelijk heeft verzocht, dat het door de Raad zelf wordt uitgebracht.
 
 ##### Artikel 45
 
@@ -388,7 +388,7 @@ De Raad is verplicht aan Onze Minister van Sociale Zaken en Werkgelegenheid en d
 
 - a. door opslagen te heffen op de bedragen, welke krachtens [artikel 49 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=49) verschuldigd zijn;
 
-- b. door bijdragen te heffen van lichamen, als bedoeld bij [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=I&artikel=66&z=2008-07-01&g=2008-07-01).
+- b. door bijdragen te heffen van lichamen, als bedoeld bij [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=I&artikel=66&z=2009-04-24&g=2009-04-24).
 
 2. Bij algemene maatregel van bestuur kunnen op voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid categorieën van ondernemingen of rechtspersonen worden aangewezen waarvoor het eerste lid, onderdeel a, niet geldt.
 
@@ -442,7 +442,7 @@ Vervallen
 
 ##### Artikel 65
 
-De Raad brengt jaarlijks vóór 1 April aan Onze krachtens [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=28&z=2008-07-01&g=2008-07-01), aangewezen Ministers verslag uit omtrent zijn werkzaamheden en die van de commissies, bedoeld in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=42&z=2008-07-01&g=2008-07-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=43&z=2008-07-01&g=2008-07-01), in het afgelopen kalenderjaar. Dit verslag bevat o.m. een uitvoerig rapport van de bevindingen van de Raad bij de uitoefening van het hem bij de zesde titel van het tweede hoofdstuk opgedragen toezicht. Dit verslag wordt, tegen betaling der kosten, algemeen verkrijgbaar gesteld.
+De Raad brengt jaarlijks vóór 1 April aan Onze krachtens [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=28&z=2009-04-24&g=2009-04-24), aangewezen Ministers verslag uit omtrent zijn werkzaamheden en die van de commissies, bedoeld in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=42&z=2009-04-24&g=2009-04-24) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=43&z=2009-04-24&g=2009-04-24), in het afgelopen kalenderjaar. Dit verslag bevat o.m. een uitvoerig rapport van de bevindingen van de Raad bij de uitoefening van het hem bij de zesde titel van het tweede hoofdstuk opgedragen toezicht. Dit verslag wordt, tegen betaling der kosten, algemeen verkrijgbaar gesteld.
 
 ### hoofdstuk Tweede. Van de bedrijfslichamen
 
@@ -464,17 +464,25 @@ De instelling van een bedrijfslichaam geschiedt, op voordracht van Onze betrokke
 
 ##### Artikel 68
 
-1. Behoudens indien de Raad eigener beweging advies heeft uitgebracht wordt hij in de gelegenheid gesteld over het voornemen van Onze betrokken Ministers tot het bevorderen van de instelling van een bedrijfslichaam van advies te dienen binnen een door hen te bepalen termijn.
+1. Behoudens indien de Raad eigener beweging advies heeft uitgebracht wordt hij in de gelegenheid gesteld over het voornemen van Onze betrokken Ministers tot het bevorderen van de instelling van een bedrijfslichaam of tot wijziging van een instellingsbesluit van advies te dienen binnen een door hen te bepalen termijn.
 
 2. Voordat hij advies uitbrengt inzake een instellingsbesluit of een wijziging daarvan, hoort de Raad de naar zijn oordeel representatieve organisaties van de betrokken ondernemers en van de betrokken werknemers. Ten minste acht weken voor het uitbrengen van zijn advies geeft de Raad van zijn voornemen daartoe openbaar kennis.
 
-##### Artikel 69
+3. Bij zijn advisering over de instelling van een bedrijfslichaam of over de wijziging van de werkingssfeer van een bedrijfslichaam geeft de Raad aan of daarvoor naar zijn oordeel voldoende draagvlak bestaat onder de betrokken ondernemers.
 
-Vervallen
+4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van de wijze van advisering door de Raad als bedoeld in het derde lid.
+
+##### Artikel 89
+
+1. De [artikelen 20 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=20&z=2009-04-24&g=2009-04-24) zijn van overeenkomstige toepassing ten aanzien van het bestuur en het dagelijks bestuur.
+
+2. De [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=26&z=2009-04-24&g=2009-04-24) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=27&z=2009-04-24&g=2009-04-24) zijn van overeenkomstige toepassing ten aanzien van het bestuur en het dagelijks bestuur, behoudens het bepaalde in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=III&artikel=90&z=2009-04-24&g=2009-04-24).
+
+3. De voorzitter heeft, indien hij niet lid van het bestuur is, in de vergaderingen van het bestuur en het dagelijks bestuur alleen een raadgevende stem.
 
 ##### Artikel 70
 
-1. De opheffing van een bedrijfslichaam geschiedt, op voordracht van Onze betrokken Ministers, bij algemene maatregel van bestuur. [Artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=I&artikel=68&z=2008-07-01&g=2008-07-01) is van overeenkomstige toepassing.
+1. De opheffing van een bedrijfslichaam geschiedt, op voordracht van Onze betrokken Ministers, bij algemene maatregel van bestuur. [Artikel 68, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=I&artikel=68&z=2009-04-24&g=2009-04-24), is van overeenkomstige toepassing.
 
 2. Een algemene maatregel van bestuur, houdende opheffing van een bedrijfslichaam, houdt tevens de voorzieningen in, die in verband met de opheffing nodig zijn. Deze voorzieningen kunnen ook het vermogen van het opgeheven lichaam betreffen.
 
@@ -484,7 +492,7 @@ Vervallen
 
 - a. welke bedrijfslichamen worden opgeheven en welke regelingen tot instelling van een bedrijfslichaam worden ingetrokken;
 
-- b. welke verordeningen van de bestaande bedrijfslichamen dan wel van een lichaam als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=110&z=2008-07-01&g=2008-07-01) van kracht blijven en tot welk tijdstip;
+- b. welke verordeningen van de bestaande bedrijfslichamen dan wel van een lichaam als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=110&z=2009-04-24&g=2009-04-24) van kracht blijven en tot welk tijdstip;
 
 - c. de overgang van personeel van de bestaande bedrijfslichamen naar het nieuwe bedrijfslichaam en de rechtspositie daarvan;
 
@@ -508,7 +516,7 @@ De bedrijfslichamen hebben tot taak een het algemeen belang dienende bedrijfsuit
 
 ##### Artikel 72
 
-1. De bedrijfslichamen hebben een bestuur, een voorzitter en een dagelijks bestuur, alsmede, bij toepassing van [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=6&artikel=88&z=2008-07-01&g=2008-07-01), een of meer commissies uit het midden van het bestuur en, bij toepassing van [artikel 88**a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=6&artikel=88a&z=2008-07-01&g=2008-07-01) een of meer andere organen.
+1. De bedrijfslichamen hebben een bestuur, een voorzitter en een dagelijks bestuur, alsmede, bij toepassing van [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=6&artikel=88&z=2009-04-24&g=2009-04-24), een of meer commissies uit het midden van het bestuur en, bij toepassing van [artikel 88**a,**](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=6&artikel=88a&z=2009-04-24&g=2009-04-24) een of meer andere organen.
 
 2. Waar in deze wet sprake is van de organen van de bedrijfslichamen, worden de in het voorgaande lid genoemde organen bedoeld.
 
@@ -532,9 +540,9 @@ De bedrijfslichamen hebben tot taak een het algemeen belang dienende bedrijfsuit
 
 ##### Artikel 75
 
-1. Lid of plaatsvervangend lid van het bestuur van een bedrijfslichaam kunnen alleen zijn ingezetenen van Nederland, die niet van de verkiesbaarheid bij krachtens wettelijk voorschrift uitgeschreven verkiezingen zijn ontzet, noch van de uitoefening van het kiesrecht bij zodanige verkiezingen zijn uitgesloten.
+1. Lid of plaatsvervangend lid van het bestuur van een bedrijfslichaam kunnen alleen zijn zij die niet van de verkiesbaarheid bij krachtens wettelijk voorschrift uitgeschreven verkiezingen zijn ontzet, noch van de uitoefening van het kiesrecht bij zodanige verkiezingen zijn uitgesloten.
 
-2. De [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=5&z=2008-07-01&g=2008-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=6&z=2008-07-01&g=2008-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=7&z=2008-07-01&g=2008-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2008-07-01&g=2008-07-01) zijn ten deze van overeenkomstige toepassing.
+2. De [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=5&z=2009-04-24&g=2009-04-24), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=6&z=2009-04-24&g=2009-04-24), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=7&z=2009-04-24&g=2009-04-24) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2009-04-24&g=2009-04-24) zijn ten deze van overeenkomstige toepassing.
 
 ##### Artikel 76
 
@@ -568,7 +576,7 @@ Vervallen
 
 ##### Artikel 81
 
-De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=5&z=2008-07-01&g=2008-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=6&z=2008-07-01&g=2008-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=7&z=2008-07-01&g=2008-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2008-07-01&g=2008-07-01) zijn ten aanzien van de voorzitter van een bedrijfslichaam en zijn plaatsvervangers van overeenkomstige toepassing.
+De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=5&z=2009-04-24&g=2009-04-24), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=6&z=2009-04-24&g=2009-04-24), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=7&z=2009-04-24&g=2009-04-24) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2009-04-24&g=2009-04-24) zijn ten aanzien van de voorzitter van een bedrijfslichaam en zijn plaatsvervangers van overeenkomstige toepassing.
 
 ##### Artikel 82
 
@@ -590,7 +598,7 @@ De voorzitter van een bedrijfslichaam en zijn plaatsvervangers kunnen ten laste 
 
 ##### Artikel 85
 
-De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2008-07-01&g=2008-07-01) en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=2&artikel=77&z=2008-07-01&g=2008-07-01) zijn ten aanzien van het dagelijks bestuur van overeenkomstige toepassing.
+De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2009-04-24&g=2009-04-24) en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=2&artikel=77&z=2009-04-24&g=2009-04-24) zijn ten aanzien van het dagelijks bestuur van overeenkomstige toepassing.
 
 #### § 5. Van het secretariaat
 
@@ -600,11 +608,11 @@ De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eers
 
 2. De secretarissen worden in dienst genomen en kunnen worden ontslagen door het bestuur.
 
-3. Het bestuur stelt bij verordening regelen omtrent indienstneming en ontslag, alsmede omtrent het loon en de andere arbeidsvoorwaarden van het personeel. Zodanige verordening behoeft de goedkeuring van de Raad.
+3. Het personeel is in dienst op grond van een arbeidsovereenkomst naar burgerlijk recht.
 
 ##### Artikel 87
 
-De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2008-07-01&g=2008-07-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=5&artikel=17&z=2008-07-01&g=2008-07-01) zijn ten aanzien van het personeel van het secretariaat van de bedrijfslichamen van overeenkomstige toepassing.
+De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2009-04-24&g=2009-04-24) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=5&artikel=17&z=2009-04-24&g=2009-04-24) zijn ten aanzien van het personeel van het secretariaat van de bedrijfslichamen van overeenkomstige toepassing.
 
 #### § 6. Van de commissies uit het midden van het bestuur en van de andere organen, bedoeld in artikel 72, eerste lid
 
@@ -612,13 +620,13 @@ De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eers
 
 1. Het bestuur van een bedrijfslichaam is bevoegd voor bepaalde onderwerpen commissies uit zijn midden in te stellen.
 
-2. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2008-07-01&g=2008-07-01) en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=2&artikel=77&z=2008-07-01&g=2008-07-01) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
+2. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2009-04-24&g=2009-04-24) en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=2&artikel=77&z=2009-04-24&g=2009-04-24) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
 
 ##### Artikel 88a
 
 1. Bij het instellingsbesluit kunnen ook andere organen van het lichaam worden ingesteld. Daarbij wordt tevens hun samenstelling geregeld.
 
-2. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2008-07-01&g=2008-07-01) en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=2&artikel=77&z=2008-07-01&g=2008-07-01) zijn ten aanzien van deze organen van overeenkomstige toepassing.
+2. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2009-04-24&g=2009-04-24), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=2&artikel=74&z=2009-04-24&g=2009-04-24) en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=2&artikel=77&z=2009-04-24&g=2009-04-24) zijn ten aanzien van deze organen van overeenkomstige toepassing.
 
 ## Titel III. Van de werkwijze der organen
 
@@ -632,7 +640,7 @@ De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eers
 
 ##### Artikel 90
 
-1. Indien het aantal leden van het bestuur van een bedrijfslichaam, benoemd door organisaties van werknemers, niet gelijk is aan dat, benoemd door organisaties van ondernemers, brengt in vergaderingen van het bestuur en van het dagelijks bestuur elk lid, behorende tot de kleinste van vorenbedoelde groepen van leden, bij stemming over besluiten als bedoeld bij de [artikelen 79, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=3&artikel=79&z=2008-07-01&g=2008-07-01), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=3&artikel=80&z=2008-07-01&g=2008-07-01) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=3&artikel=83&z=2008-07-01&g=2008-07-01), de begroting en sociale aangelegenheden - de vraag, of een aangelegenheid een sociale aangelegenheid is, daaronder begrepen - een aantal stemmen uit, gelijk aan het getal der zitting hebbende leden behorende tot de andere groep, gedeeld door het getal dier leden behorende tot zijn groep.
+1. Indien het aantal leden van het bestuur van een bedrijfslichaam, benoemd door organisaties van werknemers, niet gelijk is aan dat, benoemd door organisaties van ondernemers, brengt in vergaderingen van het bestuur en van het dagelijks bestuur elk lid, behorende tot de kleinste van vorenbedoelde groepen van leden, bij stemming over besluiten als bedoeld bij de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=3&artikel=80&z=2009-04-24&g=2009-04-24) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=II&paragraaf=3&artikel=83&z=2009-04-24&g=2009-04-24), de begroting en sociale aangelegenheden - de vraag, of een aangelegenheid een sociale aangelegenheid is, daaronder begrepen - een aantal stemmen uit, gelijk aan het getal der zitting hebbende leden behorende tot de andere groep, gedeeld door het getal dier leden behorende tot zijn groep.
 
 2. Indien bij toepassing van het voorgaande lid over de vraag, of een aangelegenheid een sociale aangelegenheid is, de stemmen staken en tevens de leden, benoemd door organisaties van ondernemers, een standpunt innemen, tegengesteld aan dat, ingenomen door de leden, benoemd door organisaties van werknemers, legt de voorzitter onverwijld het vraagpunt ter beslissing aan de Raad voor.
 
@@ -654,7 +662,7 @@ Het bestuur van een bedrijfslichaam kan bij verordening nadere regelen stellen b
 
 ##### Artikel 93
 
-1. Het bestuur van een bedrijfslichaam maakt de verordeningen die het ter vervulling van de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=I&artikel=71&z=2008-07-01&g=2008-07-01) omschreven taak nodig oordeelt ten aanzien van de onderwerpen, die krachtens het tweede lid door dat lichaam geregeld of nader geregeld kunnen worden.
+1. Het bestuur van een bedrijfslichaam maakt de verordeningen die het ter vervulling van de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=I&artikel=71&z=2009-04-24&g=2009-04-24) omschreven taak nodig oordeelt ten aanzien van de onderwerpen, die krachtens het tweede lid door dat lichaam geregeld of nader geregeld kunnen worden.
 
 2. Een bedrijfslichaam is, met inachtneming van de bij het instellingsbesluit terzake gestelde regels, bevoegd tot de regeling of nadere regeling van een of meer der volgende onderwerpen of onderdelen daarvan, voorzover
 
@@ -688,11 +696,11 @@ De verordeningen, bedoeld in artikel 93, eerste lid, behoeven de goedkeuring van
 
 ##### Artikel 95
 
-1. Aan het bestuur van een bedrijfslichaam behoren, met betrekking tot de vervulling van de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=I&artikel=71&z=2008-07-01&g=2008-07-01) omschreven taak, alle bevoegdheden, die niet bij deze of een andere wet aan een ander orgaan van het lichaam zijn opgedragen.
+1. Aan het bestuur van een bedrijfslichaam behoren, met betrekking tot de vervulling van de in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=I&artikel=71&z=2009-04-24&g=2009-04-24) omschreven taak, alle bevoegdheden, die niet bij deze of een andere wet aan een ander orgaan van het lichaam zijn opgedragen.
 
 2. Het bestuur kan bij verordening zijn bevoegdheden delegeren aan een ander orgaan van het lichaam.
 
-3. Niet gedelegeerd wordt de bevoegdheid tot het vaststellen van verordeningen als bedoeld in [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=93&z=2008-07-01&g=2008-07-01), en [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=3&artikel=126&z=2008-07-01&g=2008-07-01), noch die tot het vaststellen van nadere voorschriften omtrent bij zo'n verordening geregelde onderwerpen, noch die tot het vaststellen ingevolge [artikel 124, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=2&artikel=124&z=2008-07-01&g=2008-07-01), van het bedrag der inkomsten en uitgaven. Ten aanzien van het maken van verordeningen kan slechts worden gemandateerd de bevoegdheid tot het geven van nadere voorschriften terzake van bij een verordening daartoe uitdrukkelijk aangewezen onderwerpen.
+3. Niet gedelegeerd wordt de bevoegdheid tot het vaststellen van verordeningen als bedoeld in [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=93&z=2009-04-24&g=2009-04-24), en [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=3&artikel=126&z=2009-04-24&g=2009-04-24), noch die tot het vaststellen van nadere voorschriften omtrent bij zo'n verordening geregelde onderwerpen, noch die tot het vaststellen ingevolge [artikel 124, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=2&artikel=124&z=2009-04-24&g=2009-04-24), van het bedrag der inkomsten en uitgaven. Ten aanzien van het maken van verordeningen kan slechts worden gemandateerd de bevoegdheid tot het geven van nadere voorschriften terzake van bij een verordening daartoe uitdrukkelijk aangewezen onderwerpen.
 
 ##### Artikel 96
 
@@ -706,7 +714,7 @@ De verordeningen, bedoeld in artikel 93, eerste lid, behoeven de goedkeuring van
 
 ##### Artikel 97
 
-1. Tot de van het bestuur van een bedrijfslichaam gevorderde medewerking, bedoeld in [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=96&z=2008-07-01&g=2008-07-01), kan mede behoren het stellen van nadere regelen bij verordening.
+1. Tot de van het bestuur van een bedrijfslichaam gevorderde medewerking, bedoeld in [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=96&z=2009-04-24&g=2009-04-24), kan mede behoren het stellen van nadere regelen bij verordening.
 
 2. De verordeningen, bedoeld in het eerste lid, behoeven, tenzij anders is bepaald, indien de medewerking is gevorderd:
 
@@ -732,7 +740,7 @@ De verordeningen, bedoeld in artikel 93, eerste lid, behoeven de goedkeuring van
 
 ##### Artikel 100
 
-1. Tenzij naar zijn oordeel dringende redenen zich daartegen verzetten, geeft het bestuur van een bedrijfslichaam kennis van de ontwerpen van verordeningen, welke voor personen, als bedoeld bij [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=102&z=2008-07-01&g=2008-07-01), bindende regelen inhouden, in het vanwege de Raad uitgegeven Mededelingenblad Bedrijfsorganisatie en geeft het gedurende vier weken gelegenheid daartegen schriftelijk bedenkingen aan te voeren.
+1. Tenzij naar zijn oordeel dringende redenen zich daartegen verzetten, geeft het bestuur van een bedrijfslichaam kennis van de ontwerpen van verordeningen, welke voor personen, als bedoeld bij [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=102&z=2009-04-24&g=2009-04-24), bindende regelen inhouden, in het vanwege de Raad uitgegeven Mededelingenblad Bedrijfsorganisatie en geeft het gedurende vier weken gelegenheid daartegen schriftelijk bedenkingen aan te voeren.
 
 2. Over de vaststelling van verordeningen beraadslaagt en beslist het bestuur in het openbaar.
 
@@ -778,7 +786,7 @@ De verordeningen, bedoeld in artikel 93, eerste lid, behoeven de goedkeuring van
 
 Onze Minister wie het aangaat, in voorkomend geval in overeenstemming met Onze andere betrokken Minister of Ministers, kan het bedrijfslichaam een aanwijzing geven omtrent het aanwijzen van toezichthouders en de wijze waarop het toezicht wordt uitgeoefend.
 
-4. Met betrekking tot het tweede en derde lid is [artikel 100, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=100&z=2008-07-01&g=2008-07-01), van overeenkomstige toepassing.
+4. Met betrekking tot het tweede en derde lid is [artikel 100, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=100&z=2009-04-24&g=2009-04-24), van overeenkomstige toepassing.
 
 5. Het recht om een tuchtrechtelijke maatregel te vorderen verjaart in twee jaren. De [artikelen 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=71), en [72, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=72) zijn van overeenkomstige toepassing.
 
@@ -788,9 +796,9 @@ Vervallen.
 
 ##### Artikel 106
 
-1. Verordeningen van het bestuur van een bedrijfslichaam, welke voor personen, als bedoeld in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=102&z=2008-07-01&g=2008-07-01), bindende regelen inhouden, besluiten als bedoeld in [artikel 104, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=104&z=2008-07-01&g=2008-07-01), en een verordening, als bedoeld in [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=1&artikel=119&z=2008-07-01&g=2008-07-01), worden bekendgemaakt in het vanwege de Raad uitgegeven Verordeningenblad Bedrijfsorganisatie. Indien zij de goedkeuring van een of meer van Onze Ministers, de Raad of het bestuur van een hoofdproduktschap, een produktschap of een hoofdbedrijfschap behoeven, geschiedt de bekendmaking niet dan nadat deze is verleend. Het besluit waarbij de goedkeuring is verleend wordt bij de bekendmaking vermeld. De verordeningen treden, indien zij niet anders bepalen, in werking met ingang van de dag na die van de bekendmaking.
+1. Verordeningen van het bestuur van een bedrijfslichaam, welke voor personen, als bedoeld in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=102&z=2009-04-24&g=2009-04-24), bindende regelen inhouden, besluiten als bedoeld in [artikel 104, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=104&z=2009-04-24&g=2009-04-24), en een verordening, als bedoeld in [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=1&artikel=119&z=2009-04-24&g=2009-04-24), worden door het bedrijfslichaam bekendgemaakt in het vanwege de Raad uitgegeven Verordeningenblad Bedrijfsorganisatie. Indien zij de goedkeuring van een of meer van Onze Ministers, de Raad of het bestuur van een hoofdproduktschap, een produktschap of een hoofdbedrijfschap behoeven, geschiedt de bekendmaking niet dan nadat deze is verleend. Het besluit waarbij de goedkeuring is verleend wordt bij de bekendmaking vermeld. De verordeningen treden, indien zij niet anders bepalen, in werking met ingang van de dag na die van de bekendmaking.
 
-2. Het bestuur heroverweegt de bestaansgrond van een verordening als bedoeld in [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=93&z=2008-07-01&g=2008-07-01), elke vier jaar na inwerkingtreding daarvan en brengt omtrent zijn besluit verslag uit aan Onze Minister wie het aangaat.
+2. Het bestuur heroverweegt de bestaansgrond van een verordening als bedoeld in [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=93&z=2009-04-24&g=2009-04-24), of [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=3&artikel=126&z=2009-04-24&g=2009-04-24), elke vier jaar na inwerkingtreding daarvan en brengt omtrent zijn besluit verslag uit aan Onze Minister wie het aangaat.
 
 ##### Artikel 107
 
@@ -812,7 +820,7 @@ Bedrijfslichamen kunnen zowel ten opzichte van elkaar als ten opzichte van de Ra
 
 ##### Artikel 110
 
-Bij een voorziening, door de besturen van de betrokken bedrijfslichamen bij verordening getroffen, kan een rechtspersoonlijkheid bezittend lichaam worden ingesteld. Daarbij worden tevens de samenstelling, inrichting, werkwijze, geldmiddelen en bevoegdheden van het lichaam en zijn organen geregeld. De verordening behoeft de goedkeuring van Onze Minister van Sociale Zaken en Werkgelegenheid, in voorkomend geval in overeenstemming met Onze andere betrokken Minister of Ministers. [Artikel 100, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=100&z=2008-07-01&g=2008-07-01), is van overeenkomstige toepassing.
+Bij een voorziening, door de besturen van de betrokken bedrijfslichamen bij verordening getroffen, kan een rechtspersoonlijkheid bezittend lichaam worden ingesteld. Daarbij worden tevens de samenstelling, inrichting, werkwijze, geldmiddelen en bevoegdheden van het lichaam en zijn organen geregeld. De verordening behoeft de goedkeuring van Onze Minister van Sociale Zaken en Werkgelegenheid, in voorkomend geval in overeenstemming met Onze andere betrokken Minister of Ministers. [Artikel 100, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=100&z=2009-04-24&g=2009-04-24), is van overeenkomstige toepassing.
 
 ##### Artikel 111
 
@@ -828,21 +836,21 @@ Bij een voorziening, door de besturen van de betrokken bedrijfslichamen bij vero
 
 ##### Artikel 112
 
-De bevoegdheden van een lichaam, als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=110&z=2008-07-01&g=2008-07-01), kunnen geen andere zijn dan die van de betrokken bedrijfslichamen.
+De bevoegdheden van een lichaam, als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=110&z=2009-04-24&g=2009-04-24), kunnen geen andere zijn dan die van de betrokken bedrijfslichamen.
 
 ##### Artikel 113
 
-Indien bij een verordening als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=110&z=2008-07-01&g=2008-07-01) een lichaam is ingesteld, kan bij die verordening aan het bestuur van dat lichaam uitsluitend mandaat worden verleend van de bevoegdheid van de deelnemende bedrijfslichamen om bij een verordening als bedoeld in de [artikelen 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=93&z=2008-07-01&g=2008-07-01), en [126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=3&artikel=126&z=2008-07-01&g=2008-07-01), regelen te stellen.
+Indien bij een verordening als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=110&z=2009-04-24&g=2009-04-24) een lichaam is ingesteld, kan bij die verordening aan het bestuur van dat lichaam uitsluitend mandaat worden verleend van de bevoegdheid van de deelnemende bedrijfslichamen om bij een verordening als bedoeld in de [artikelen 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=93&z=2009-04-24&g=2009-04-24), en [126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=3&artikel=126&z=2009-04-24&g=2009-04-24), regelen te stellen.
 
 ##### Artikel 114
 
-1. Ten aanzien van een lichaam, als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=110&z=2008-07-01&g=2008-07-01) zijn de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2008-07-01&g=2008-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=21&z=2008-07-01&g=2008-07-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=23&z=2008-07-01&g=2008-07-01) van overeenkomstige toepassing.
+1. Ten aanzien van een lichaam, als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=110&z=2009-04-24&g=2009-04-24) zijn de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2009-04-24&g=2009-04-24), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=21&z=2009-04-24&g=2009-04-24) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=23&z=2009-04-24&g=2009-04-24) van overeenkomstige toepassing.
 
-2. Ten aanzien van de vergaderingen van een orgaan van een lichaam, met het maken van verordeningen belast, is [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=III&artikel=91&z=2008-07-01&g=2008-07-01) van overeenkomstige toepassing.
+2. Ten aanzien van de vergaderingen van een orgaan van een lichaam, met het maken van verordeningen belast, is [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=III&artikel=91&z=2009-04-24&g=2009-04-24) van overeenkomstige toepassing.
 
 ##### Artikel 115
 
-Indien het bestuur van een bedrijfslichaam het treffen van een voorziening als bedoeld in [artikel 109, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=109&z=2008-07-01&g=2008-07-01), wenselijk acht en het bestuur van het bedrijfslichaam waarmee het die voorziening wil treffen zijn medewerking niet verleent, kan het eerstbedoelde bestuur de Raad verzoeken zodanige voorziening op te leggen. Het legt met het verzoek het ontwerp van een voorziening over.
+Indien het bestuur van een bedrijfslichaam het treffen van een voorziening als bedoeld in [artikel 109, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=109&z=2009-04-24&g=2009-04-24), wenselijk acht en het bestuur van het bedrijfslichaam waarmee het die voorziening wil treffen zijn medewerking niet verleent, kan het eerstbedoelde bestuur de Raad verzoeken zodanige voorziening op te leggen. Het legt met het verzoek het ontwerp van een voorziening over.
 
 ##### Artikel 116
 
@@ -852,7 +860,7 @@ Indien het bestuur van een bedrijfslichaam het treffen van een voorziening als b
 
 ##### Artikel 117
 
-Ten aanzien van een krachtens [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=115&z=2008-07-01&g=2008-07-01) opgelegde voorziening zijn de [artikelen 109 tot en met 114](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=109&z=2008-07-01&g=2008-07-01) van overeenkomstige toepassing.
+Ten aanzien van een krachtens [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=115&z=2009-04-24&g=2009-04-24) opgelegde voorziening zijn de [artikelen 109 tot en met 114](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=109&z=2009-04-24&g=2009-04-24) van overeenkomstige toepassing.
 
 ## Titel VI. Van de geldmiddelen
 
@@ -888,7 +896,7 @@ De Raad kan bij verordening regelen stellen omtrent de inrichting van de begroti
 
 ##### Artikel 122a
 
-De Raad kan ten aanzien van de eerste begroting der inkomsten en uitgaven van een bedrijfslichaam regelen stellen, welke afwijken van de [artikelen 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=1&artikel=118&z=2008-07-01&g=2008-07-01), en [120](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=1&artikel=120&z=2008-07-01&g=2008-07-01).
+De Raad kan ten aanzien van de eerste begroting der inkomsten en uitgaven van een bedrijfslichaam regelen stellen, welke afwijken van de [artikelen 118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=1&artikel=118&z=2009-04-24&g=2009-04-24), en [120](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=1&artikel=120&z=2009-04-24&g=2009-04-24).
 
 #### § 2. Van het beheer en de rekening en verantwoording
 
@@ -916,29 +924,37 @@ Het dagelijks bestuur beheert het vermogen en de inkomsten en uitgaven van het b
 
 ##### Artikel 125a
 
-De Raad kan ten aanzien van de eerste verantwoording en de eerste rekening der inkomsten en uitgaven van een bedrijfslichaam regelen stellen, welke afwijken van [artikel 124, eerste lid, en de eerste volzin van het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=2&artikel=124&z=2008-07-01&g=2008-07-01).
+De Raad kan ten aanzien van de eerste verantwoording en de eerste rekening der inkomsten en uitgaven van een bedrijfslichaam regelen stellen, welke afwijken van [artikel 124, eerste lid, en de eerste volzin van het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=2&artikel=124&z=2009-04-24&g=2009-04-24).
 
 #### § 3. Van de inkomsten
 
 ##### Artikel 126
 
-1. Bedrijfslichamen kunnen bij verordening aan degenen, die de ondernemingen, waarvoor zij zijn ingesteld, drijven, heffingen opleggen. Deze verordeningen worden jaarlijks vastgesteld.
+1. Bedrijfslichamen kunnen bij verordening aan degenen, die de ondernemingen, waarvoor zij zijn ingesteld, drijven, heffingen opleggen.
 
 2. Bovendien kunnen zij voor door het betrokken lichaam verrichte werkzaamheden bij verordening retributies heffen.
 
 3. Het instellingsbesluit kan regelen stellen omtrent de op te leggen heffingen.
 
-4. Verordeningen als bedoeld in het eerste lid behoeven tevens de goedkeuring van Onze Minister wie het aangaat, in voorkomend geval in overeenstemming met Onze andere betrokken Minister of Ministers, indien zij dienen ter afzonderlijke financiering van een specifiek, bij die verordening aangegeven doel, dan wel indien het ontwerp van de verordening niet overeenkomstig [artikel 100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=100&z=2008-07-01&g=2008-07-01), is bekendgemaakt. [Artikel 100, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=100&z=2008-07-01&g=2008-07-01), is van overeenkomstige toepassing.
+4. Verordeningen als bedoeld in het eerste lid behoeven tevens de goedkeuring van Onze betrokken Minister wie het aangaat, in voorkomend geval in overeenstemming met Onze andere betrokken Minister of Ministers indien:
 
-5. In afwijking van het bepaalde in [artikel 89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=III&artikel=89&z=2008-07-01&g=2008-07-01), is voor een verordening als bedoeld in het vorige lid, voorzover het betreft een verordening die geen sociale aangelegenheid betreft, zulks vastgesteld op overeenkomstige wijze als bepaald in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=III&artikel=90&z=2008-07-01&g=2008-07-01), een meerderheid van twee derden van de uitgebrachte stemmen van leden benoemd door de organisaties van werkgevers vereist.
+- a. zij dienen ter afzonderlijke financiering van een specifiek, bij die verordening aangegeven doel, of
 
-6. Bedrijfslichamen kunnen op heffingen als bedoeld in het eerste lid volgens bij verordening te stellen regelen aan de leden van organisaties van ondernemers welke verenigingen met volledige rechtsbevoegdheid zijn, een aftrek toestaan tot een deel van het bedrag, dat zij als contributie aan deze organisaties hebben betaald. Deze aftrek kan niet meer dan de helft van de heffing bedragen.
+- b. het ontwerp van de verordening niet overeenkomstig [artikel 100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=100&z=2009-04-24&g=2009-04-24), is bekendgemaakt.
+
+[Artikel 100, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=100&z=2009-04-24&g=2009-04-24), is van overeenkomstige toepassing.
+
+5. In aanvulling op [artikel 89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=III&artikel=89&z=2009-04-24&g=2009-04-24), is voor een verordening als bedoeld in het vorige lid, voorzover het betreft een verordening die geen sociale aangelegenheid betreft, zulks vastgesteld op overeenkomstige wijze als bepaald in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=III&artikel=90&z=2009-04-24&g=2009-04-24), een meerderheid van twee derden van de uitgebrachte stemmen van leden benoemd door de organisaties van ondernemers vereist.
+
+6. Bedrijfslichamen kunnen op heffingen als bedoeld in het eerste lid, niet tevens zijnde heffingen ter afzonderlijke financiering van een specifiek doel als bedoeld in het vierde lid, volgens bij verordening te stellen regelen aan de leden van organisaties van ondernemers welke verenigingen met volledige rechtsbevoegdheid zijn, een aftrek toestaan tot een deel van het bedrag, dat zij als contributie aan deze organisaties hebben betaald. Deze aftrek kan niet meer dan de helft van de heffing bedragen.
 
 7. Verordeningen als bedoeld in het eerste, tweede en zesde lid behoeven de goedkeuring van de Raad.
 
+8. In afwijking van het zesde lid is, over het kalenderjaar waarin de wet van 29 december 2008, houdende wijziging van de Wet op de bedrijfsorganisatie in verband met verdere modernisering van het stelsel van de publiekrechtelijke bedrijfsorganisatie in werking treedt en vervolgens over de drie daaropvolgende kalenderjaren, een aftrek toegestaan op heffingen ter afzonderlijke financiering van een specifiek doel als bedoeld in het vierde lid. Deze aftrek kan over de bedoelde kalenderjaren ten hoogste achtereenvolgens 50, 40, 30 en 10 procent van de betrokken heffing bedragen.
+
 ##### Artikel 127
 
-1. De voorzitter van een bedrijfslichaam kan de aan het lichaam krachtens [artikel 126, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=3&artikel=126&z=2008-07-01&g=2008-07-01), verschuldigde bedragen, verhoogd met de op de invordering vallende kosten, bij dwangbevel, invorderen.
+1. De voorzitter van een bedrijfslichaam kan de aan het lichaam krachtens [artikel 126, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=3&artikel=126&z=2009-04-24&g=2009-04-24), verschuldigde bedragen, verhoogd met de op de invordering vallende kosten, bij dwangbevel, invorderen.
 
 2. Geen invordering geschiedt dan nadat de schuldenaar schriftelijk is aangemaand om binnen een daarbij te stellen termijn van ten minste tien dagen alsnog aan zijn verplichting te voldoen. De aanmaning bevat de aanzegging, dat het verschuldigde bedrag, voor zover dit binnen de gestelde termijn niet wordt betaald, overeenkomstig het eerste lid van dit artikel zal worden ingevorderd.
 
@@ -958,9 +974,13 @@ Vervallen
 
 ##### Artikel 128
 
-1. Indien een verordening of een ander besluit van een orgaan van een bedrijfslichaam de goedkeuring van Onze betrokken ministers of van de Raad behoeft, kan de goedkeuring door Onze ministers worden onthouden wegens strijd met het recht of het algemeen belang en door de Raad wegens strijd met het recht of de belangen, waarvan hem bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=I&artikel=2&z=2008-07-01&g=2008-07-01) de behartiging is opgedragen.
+1. Indien een verordening of een ander besluit van een orgaan van een bedrijfslichaam de goedkeuring van Onze betrokken ministers of van de Raad behoeft, kan de goedkeuring door Onze ministers worden onthouden wegens strijd met het recht of het algemeen belang en door de Raad wegens strijd met het recht of de belangen, waarvan hem bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=I&artikel=2&z=2009-04-24&g=2009-04-24) de behartiging is opgedragen.
 
 2. Het niet tijdig bekendmaken van een besluit omtrent goedkeuring of een besluit tot verdaging van goedkeuring heeft niet tot gevolg dat een besluit tot goedkeuring geacht wordt te zijn genomen.
+
+3. Indien melding is of zal worden gedaan aan de Commissie van de Europese Gemeenschappen onderscheidenlijk aan de Wereldhandelsorganisatie in verband met daartoe strekkende verplichtingen gesteld bij of krachtens het Verdrag tot oprichting van de Europese Gemeenschap of op basis van overeenkomsten gesloten in het kader van de Wereldhandelsorganisatie, wordt het besluit omtrent goedkeuring binnen dertien weken na ontvangst van goedkeuring door de Commissie van de Europese Gemeenschappen onderscheidenlijk Wereldhandelsorganisatie dan wel het verstrijken van de desbetreffende meldingstermijn, bekend gemaakt aan het bestuursorgaan dat het aan goedkeuring onderworpen besluit heeft genomen.
+
+4. In afwijking van [artikel 126, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=3&artikel=126&z=2009-04-24&g=2009-04-24), behoeft een verordening geen goedkeuring van Onze Minister wie het aangaat, in voorkomend geval in overeenstemming met Onze andere betrokken Minister of Ministers, indien de betrokken verordening een voortzetting vormt van een in voorafgaande jaren reeds goedgekeurde verordening en er in de betrokken verordening geen wijzigingen plaatsvinden met betrekking tot het tarief, de grondslag of de besteding van de heffing die niet passen binnen de kaders van een ten aanzien van de eerdere verordening door de Commissie van de Europese Gemeenschappen genomen besluit met betrekking tot een steunmaatregel als bedoeld in artikel 88, derde lid, van het Verdrag tot oprichting van de Europese Gemeenschap.
 
 ##### Artikel 129
 
@@ -976,7 +996,7 @@ Vervallen
 
 ##### Artikel 132
 
-Ten aanzien van de goedkeuring, bedoeld in [artikel 97, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=97&z=2008-07-01&g=2008-07-01), is [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VII&artikel=128&z=2008-07-01&g=2008-07-01) van overeenkomstige toepassing, met dien verstande dat de goedkeuring door het bestuur van een hoofdprodukt-, een produkt- of een hoofdbedrijfschap kan worden onthouden wegens strijd met het recht of de belangen, waarvan de behartiging hem in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=I&artikel=71&z=2008-07-01&g=2008-07-01) is opgedragen.
+Ten aanzien van de goedkeuring, bedoeld in [artikel 97, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=97&z=2009-04-24&g=2009-04-24), is [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VII&artikel=128&z=2009-04-24&g=2009-04-24) van overeenkomstige toepassing, met dien verstande dat de goedkeuring door het bestuur van een hoofdprodukt-, een produkt- of een hoofdbedrijfschap kan worden onthouden wegens strijd met het recht of de belangen, waarvan de behartiging hem in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=I&artikel=71&z=2009-04-24&g=2009-04-24) is opgedragen.
 
 ##### Artikel 133
 
@@ -994,11 +1014,11 @@ Vervallen
 
 ##### Artikel 136
 
-De [artikelen 128](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VII&artikel=128&z=2008-07-01&g=2008-07-01), [133](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VII&artikel=133&z=2008-07-01&g=2008-07-01) en [134](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VII&artikel=134&z=2008-07-01&g=2008-07-01) zijn ten aanzien van lichamen als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=110&z=2008-07-01&g=2008-07-01) van overeenkomstige toepassing.
+De [artikelen 128](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VII&artikel=128&z=2009-04-24&g=2009-04-24), [133](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VII&artikel=133&z=2009-04-24&g=2009-04-24) en [134](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VII&artikel=134&z=2009-04-24&g=2009-04-24) zijn ten aanzien van lichamen als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=V&artikel=110&z=2009-04-24&g=2009-04-24) van overeenkomstige toepassing.
 
 ##### Artikel 137
 
-1. Een bedrijfslichaam stelt jaarlijks vóór 1 april een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de werkwijze in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan de Raad en aan Onze betrokken Ministers toegezonden en, tegen betaling der kosten, algemeen verkrijgbaar gesteld. Onze Minister zendt een exemplaar van het verslag aan de Staten-Generaal.
+1. Een bedrijfslichaam stelt jaarlijks vóór 1 april een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de werkwijze in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan de Raad en aan Onze betrokken Ministers toegezonden en, tegen betaling der kosten, algemeen verkrijgbaar gesteld. Onze Minister van Sociale Zaken en Werkgelegenheid zendt een exemplaar van het verslag aan de Staten-Generaal.
 
 2. Een bedrijfslichaam verstrekt desgevraagd aan de Raad en aan Onze betrokken Ministers de voor de uitoefening van hun taak benodigde inlichtingen. Dezen kunnen inzage vorderen van zakelijke gegevens en bescheiden, voorzover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
@@ -1006,7 +1026,7 @@ De [artikelen 128](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Twe
 
 ##### Artikel 138
 
-Voor oprichting van of deelneming in andere rechtspersonen behoeven de Raad en de bedrijfslichamen de toestemming van Onze Minister.
+Voor oprichting van of deelneming in andere rechtspersonen behoeven de Raad en de bedrijfslichamen de toestemming van Onze Minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 139
 
@@ -1106,17 +1126,107 @@ Deze wet kan worden aangehaald als: Wet op de bedrijfsorganisatie.
 
 ##### Artikel 164
 
-1. Deze wet treedt met uitzondering van de [artikelen 142 tot en met 144](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Derde&artikel=142&z=2008-07-01&g=2008-07-01), [145, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Derde&artikel=145&z=2008-07-01&g=2008-07-01), en [146 tot en met 159](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Derde&artikel=146&z=2008-07-01&g=2008-07-01) in werking met ingang van de dag na die harer afkondiging.
+1. Deze wet treedt met uitzondering van de [artikelen 142 tot en met 144](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Derde&artikel=142&z=2009-04-24&g=2009-04-24), [145, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Derde&artikel=145&z=2009-04-24&g=2009-04-24), en [146 tot en met 159](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Derde&artikel=146&z=2009-04-24&g=2009-04-24) in werking met ingang van de dag na die harer afkondiging.
 
-2. De tijdstippen van inwerkingtreding van de in het voorgaande lid genoemde artikelen, dan wel van onderdelen daarvan, worden telkens door Ons bepaald, met dien verstande, dat de [artikelen 145, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Derde&artikel=145&z=2008-07-01&g=2008-07-01), [146](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Derde&artikel=146&z=2008-07-01&g=2008-07-01) en [147](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Derde&artikel=147&z=2008-07-01&g=2008-07-01) niet later in werking treden dan onderscheidenlijk vier, vijf en zeven jaren na de inwerkingtreding van deze wet en dat de tijdstippen voor onderdelen der vervallende regelingen en voor delen van het bedrijfsleven verschillend kunnen zijn.
+2. De tijdstippen van inwerkingtreding van de in het voorgaande lid genoemde artikelen, dan wel van onderdelen daarvan, worden telkens door Ons bepaald, met dien verstande, dat de [artikelen 145, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Derde&artikel=145&z=2009-04-24&g=2009-04-24), [146](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Derde&artikel=146&z=2009-04-24&g=2009-04-24) en [147](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Derde&artikel=147&z=2009-04-24&g=2009-04-24) niet later in werking treden dan onderscheidenlijk vier, vijf en zeven jaren na de inwerkingtreding van deze wet en dat de tijdstippen voor onderdelen der vervallende regelingen en voor delen van het bedrijfsleven verschillend kunnen zijn.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 128a
 
-1. Verordeningen of besluiten van bedrijfslichamen die op of na 1 juli 1999 maar voor het tijdstip van inwerkingtreding van dit artikel op grond van [artikel 100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=100&z=2008-07-01&g=2008-07-01), [104, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=104&z=2008-07-01&g=2008-07-01), of [126, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=3&artikel=126&z=2008-07-01&g=2008-07-01), zijn goedgekeurd door Onze Minister van Sociale Zaken en Werkgelegenheid, Onze Minister van Economische Zaken of Onze Minister van Landbouw, Natuur en Voedselkwaliteit, maar niet door Onze genoemde Ministers gezamenlijk dan wel door een of twee van hen mede namens de anderen, zijn in afwijking van [artikel 100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=100&z=2008-07-01&g=2008-07-01), [104, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=104&z=2008-07-01&g=2008-07-01), of [126, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=3&artikel=126&z=2008-07-01&g=2008-07-01), zoals deze artikelen luidden voorafgaand aan de inwerkingtreding van dit artikel, niet onverbindend op de enkele grond dat niet al Onze genoemde Ministers bij de goedkeuring zijn betrokken geweest.
+1. Verordeningen of besluiten van bedrijfslichamen die op of na 1 juli 1999 maar voor het tijdstip van inwerkingtreding van dit artikel op grond van [artikel 100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=100&z=2009-04-24&g=2009-04-24), [104, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=104&z=2009-04-24&g=2009-04-24), of [126, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=3&artikel=126&z=2009-04-24&g=2009-04-24), zijn goedgekeurd door Onze Minister van Sociale Zaken en Werkgelegenheid, Onze Minister van Economische Zaken of Onze Minister van Landbouw, Natuur en Voedselkwaliteit, maar niet door Onze genoemde Ministers gezamenlijk dan wel door een of twee van hen mede namens de anderen, zijn in afwijking van [artikel 100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=100&z=2009-04-24&g=2009-04-24), [104, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=104&z=2009-04-24&g=2009-04-24), of [126, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=VI&paragraaf=3&artikel=126&z=2009-04-24&g=2009-04-24), zoals deze artikelen luidden voorafgaand aan de inwerkingtreding van dit artikel, niet onverbindend op de enkele grond dat niet al Onze genoemde Ministers bij de goedkeuring zijn betrokken geweest.
 
 2. In afwijking van het eerste lid blijven de gevolgen van een voor de datum van inwerkingtreding van dit artikel gedane onherroepelijke rechterlijke uitspraak, waarbij verordeningen of besluiten van bedrijfslichamen onverbindend zijn verklaard op de grond bedoeld in het eerste lid, ten aanzien van partijen in de procedure waarop die uitspraak betrekking heeft in stand.
+
+### hoofdstuk Derde. Slotbepalingen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 38a
+
+Dit onderdeel is nog niet inwerking getreden
+
+## Titel V. Van de adviezen van de Raad
+
+## Titel VI. Van de geldmiddelen
+
+#### § 1. Van de begroting
+
+#### § 2. Van het beheer en de rekening en verantwoording
+
+#### § 3. Van de inkomsten
+
+## Titel VII. Van het toezicht op de Raad
+
+### hoofdstuk Tweede. Van de bedrijfslichamen
+
+## Titel I. Van de instelling en de taak
+
+##### Artikel 69
+
+1. Een bedrijfslichaam onderzoekt, door middel van een representatieve steekproef, elke vier jaar of er voldoende draagvlak voor hem bestaat onder de ondernemers die onder zijn werkingssfeer vallen.
+
+2. Het bedrijfslichaam brengt de resultaten van het onderzoek en de conclusies die het daaraan verbindt, ter kennis van de Raad, die deze, vergezeld van zijn advies stuurt aan Onze Minister van Sociale Zaken en Werkgelegenheid.
+
+3. Onze Minister van Sociale Zaken en Werkgelegenheid, in voorkomend geval in overeenstemming met Onze andere betrokken Minister of Ministers kan, indien de resultaten van het onderzoek naar zijn oordeel daartoe aanleiding geven, bepalen dat het onderzoek binnen twee jaar wordt herhaald. Het tweede lid is op dit herhaalde onderzoek van toepassing.
+
+4. De Raad houdt toezicht op de uitvoering van de in dit artikel bedoelde onderzoeken.
+
+5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de uitvoering van het in dit artikel bedoelde onderzoek, de wijze van openbaarmaking van de resultaten en van de conclusies die daaraan worden verbonden en de wijze waarop de Raad daarop toezicht houdt.
+
+6. De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+## Titel II. Van de samenstelling en inrichting
+
+#### § 1. Algemene bepaling
+
+#### § 2. Van het bestuur
+
+#### § 3. Van de voorzitter
+
+#### § 4. Van het dagelijks bestuur
+
+#### § 5. Van het secretariaat
+
+#### § 6. Van de commissies uit het midden van het bestuur en van de andere organen, bedoeld in artikel 72, eerste lid
+
+## Titel III. Van de werkwijze der organen
+
+##### Artikel 92a
+
+1. Met het oog op het waarborgen van een goed bestuur draagt een bedrijfslichaam zorg voor een zodanige organisatie en werkwijze, dat voldoende aandacht is geschonken aan democratische besluitvorming, transparante onderbouwing van vergoedingen en heffingen, integer handelen, publieke en transparante verantwoording, toegankelijke klachtenbehandeling en adequaat toezicht.
+
+2. Bij algemene maatregel van bestuur op voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld met het oog op het waarborgen van een goed bestuur van een bedrijfslichaam.
+
+3. Bij algemene maatregel van bestuur op voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid wordt bepaald dat een goed bestuur van een bedrijfslichaam als bedoeld in het eerste lid in ieder geval is gewaarborgd als wordt voldaan aan bij die algemene maatregel van bestuur aan te wijzen principes van een goed bestuur.
+
+4. De Raad houdt toezicht op de uitvoering van het eerste lid door de bedrijfslichamen en kan over de wijze waarop het toezicht wordt uitgeoefend bij verordening regels stellen.
+
+5. De voordracht voor een krachtens het tweede en derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+## Titel IV. Van de vervulling van de taak
+
+##### Artikel 106a
+
+Dit onderdeel is nog niet inwerking getreden
+
+## Titel V. Van de voorzieningen tot gemeenschappelijke behartiging van belangen van bedrijfslichamen
+
+## Titel VI. Van de geldmiddelen
+
+#### § 1. Van de begroting
+
+#### § 2. Van het beheer en de rekening en verantwoording
+
+#### § 3. Van de inkomsten
+
+## Titel VII. Van het toezicht op de bedrijfslichamen
+
+##### Artikel 137a
+
+1. De Raad stelt jaarlijks voor 1 oktober een plan vast waarin inzicht wordt gegeven in de voorgenomen wijze van uitoefening van het toezicht op de bedrijfslichamen voor het komende kalenderjaar.
+
+2. Het plan, bedoeld in het eerste lid, behoeft de instemming van Onze betrokken Ministers.
 
 ### hoofdstuk Derde. Slotbepalingen
 
