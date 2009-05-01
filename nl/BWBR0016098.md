@@ -4,7 +4,7 @@ identifier: "BWBR0016098"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-10-01"
-last_updated: "2004-02-01"
+last_updated: "2009-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016098"
 soort: "ministeriele-regeling"
@@ -38,13 +38,13 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder commissie: de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016098&artikel=2&z=2004-02-01&g=2004-02-01).
+In dit besluit wordt verstaan onder commissie: de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016098&artikel=2&z=2009-05-01&g=2009-05-01).
 
 ##### Artikel 2
 
 1. Ingesteld wordt een Ambtelijke adviescommissie proeven met langere of langere en zwaardere vrachtautocombinaties.
 
-2. De commissie heeft tot taak de Dienst Wegverkeer te adviseren met betrekking tot het verlenen van ontheffingen op grond van [artikel 149, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149), ten behoeve van proeven met vrachtautocombinaties die langer of langer en zwaarder zijn dan ingevolge het [Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746) toegestaan.
+2. De commissie heeft tot taak de Dienst Wegverkeer te adviseren met betrekking tot het verlenen van ontheffingen op grond van [artikel 149, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149), ten behoeve van proeven met vrachtautocombinaties die langer of langer en zwaarder zijn dan ingevolge de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) toegestaan.
 
 ##### Artikel 3
 
