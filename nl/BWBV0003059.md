@@ -4,7 +4,7 @@ identifier: "BWBV0003059"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-05-01"
-last_updated: "2008-05-22"
+last_updated: "2009-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003059"
 soort: "verdrag"
@@ -98,7 +98,7 @@ Elke Verdragsluitende Partij bevordert, binnen het kader van haar wetten en voor
 
 5. Indien naast dit Verdrag de wettelijke bepalingen van een van beide Verdragsluitende Partijen of verplichtingen krachtens internationaal recht die thans tussen de Verdragsluitende Partijen bestaan of op een later tijdstip onderling worden aangegaan, een algemene of bijzondere regeling bevatten op grond waarvan voor investeringen door investeerders van de andere Verdragsluitende Partij aanspraak kan worden gemaakt op een behandeling die gunstiger is dan in dit Verdrag is voorzien, heeft een dergelijke regeling, in zoverre zij gunstiger is, voorrang boven dit Verdrag.
 
-6. De bepalingen van dit artikel laten de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003059&artikel=4&z=2008-05-22&g=2008-05-22) van dit Verdrag onverlet.
+6. De bepalingen van dit artikel laten de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003059&artikel=4&z=2009-05-01&g=2009-05-01) van dit Verdrag onverlet.
 
 ##### Artikel 4
 
@@ -132,7 +132,7 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 - g. de opbrengst van de verkoop of liquidatie van de investering;
 
-- h. betalingen uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003059&artikel=7&z=2008-05-22&g=2008-05-22).
+- h. betalingen uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003059&artikel=7&z=2009-05-01&g=2009-05-01).
 
 ##### Artikel 6
 
@@ -206,7 +206,7 @@ Elk van de Verdragsluitende Partijen kan aan de andere Partij voorstellen overle
 
 ##### Artikel 13
 
-Wat het Koninkrijk der Nederlanden betreft is dit Verdrag van toepassing op het deel van het Koninkrijk in Europa, op de Nederlandse Antillen en op Aruba, tenzij anders is bepaald in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003059&artikel=14&z=2008-05-22&g=2008-05-22), bedoelde mededeling.
+Wat het Koninkrijk der Nederlanden betreft is dit Verdrag van toepassing op het deel van het Koninkrijk in Europa, op de Nederlandse Antillen en op Aruba, tenzij anders is bepaald in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003059&artikel=14&z=2009-05-01&g=2009-05-01), bedoelde mededeling.
 
 ##### Artikel 14
 
