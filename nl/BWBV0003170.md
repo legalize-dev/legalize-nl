@@ -4,7 +4,7 @@ identifier: "BWBV0003170"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-03-01"
-last_updated: "2000-06-29"
+last_updated: "2009-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003170"
 soort: "verdrag"
@@ -102,7 +102,7 @@ Hiertoe dient elke centrale registratieautoriteit te beschikken over haar eigen 
 
 ##### Artikel 4
 
-Om het doel, zoals vermeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2000-06-29&g=2000-06-29), te verwezenlijken, dienen de centrale registratieautoriteiten, door middel van geautomatiseerde procedures, de gegevens uit de centrale voertuig- en rijbewijsregisters na te zoeken als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=3&z=2000-06-29&g=2000-06-29) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2000-06-29&g=2000-06-29) teneinde de volgende taken te verrichten:
+Om het doel, zoals vermeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2009-05-01&g=2009-05-01), te verwezenlijken, dienen de centrale registratieautoriteiten, door middel van geautomatiseerde procedures, de gegevens uit de centrale voertuig- en rijbewijsregisters na te zoeken als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=3&z=2009-05-01&g=2009-05-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2009-05-01&g=2009-05-01) teneinde de volgende taken te verrichten:
 
 - a). Centraal voertuigregister: Indien een aanvraag wordt ingediend voor registratie van een voertuig binnen het verantwoordelijkheidsgebied van een centrale registratieautoriteit en indien dat voertuig eerder is geregistreerd in het verantwoordelijkheidsgebied van een andere centrale registratieautoriteit, dan dient de door de aanvrager verstrekte informatie te worden vergeleken met de informatie uit het centraal voertuigregister van de Partij op wiens grondgebied het voertuig reeds eerder werd geregistreerd. Indien de door de aanvrager verstrekte informatie tot de conclusie leidt dat het voertuig reeds eerder werd geregistreerd op het grondgebied van een andere Partij, dan moet de door de aanvrager verstrekte informatie ook worden vergeleken met de informatie uit het centraal voertuigregister van die Partij.
 
@@ -148,7 +148,7 @@ Om het doel, zoals vermeld in [artikel 2, tweede lid](https://wetten.overheid.nl
 
 ##### Artikel 6
 
-Om het doel, zoals vermeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2000-06-29&g=2000-06-29), te verwezenlijken, dienen de centrale registratieautoriteiten, in overeenstemming met de nationale voorschriften van de Partijen, erop toe te zien dat activiteiten worden ontplooid om helderheid in de situatie te brengen voordat verdere administratieve maatregelen worden genomen, indien er enige twijfel bestaat over de feitelijke of juridische omstandigheden van de voertuigen of rijbewijzen.
+Om het doel, zoals vermeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2009-05-01&g=2009-05-01), te verwezenlijken, dienen de centrale registratieautoriteiten, in overeenstemming met de nationale voorschriften van de Partijen, erop toe te zien dat activiteiten worden ontplooid om helderheid in de situatie te brengen voordat verdere administratieve maatregelen worden genomen, indien er enige twijfel bestaat over de feitelijke of juridische omstandigheden van de voertuigen of rijbewijzen.
 
 Deze maatregelen dienen in de volgende gevallen te worden genomen:
 
@@ -170,9 +170,9 @@ Deze maatregelen dienen in de volgende gevallen te worden genomen:
 
 ##### Artikel 7
 
-1. Indien een voertuig dat eerder werd geregistreerd op het grondgebied van een van de Partijen, wordt geregistreerd op het grondgebied van een van de andere Partijen, dient de centrale registratieautoriteit dit onmiddellijk te melden bij de centrale registratieautoriteit van de Partij op welker grondgebied het voertuig het laatst werd geregistreerd. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2000-06-29&g=2000-06-29) genoemde registratiegegevens van het voertuig, alsmede de registratiedatum dienen te worden opgegeven.
+1. Indien een voertuig dat eerder werd geregistreerd op het grondgebied van een van de Partijen, wordt geregistreerd op het grondgebied van een van de andere Partijen, dient de centrale registratieautoriteit dit onmiddellijk te melden bij de centrale registratieautoriteit van de Partij op welker grondgebied het voertuig het laatst werd geregistreerd. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2009-05-01&g=2009-05-01) genoemde registratiegegevens van het voertuig, alsmede de registratiedatum dienen te worden opgegeven.
 
-2. Indien een rijbewijs dat werd afgegeven op het grondgebied van een van de Partijen wordt vervangen, ingewisseld of geregistreerd op het grondgebied van een van de andere Partijen, dient de centrale registratieautoriteit de centrale registratieautoriteit van de Partij die het rijbewijs heeft afgegeven hiervan onverwijld in kennis te stellen. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2000-06-29&g=2000-06-29) genoemde registratiegegevens van het rijbewijs en de datum van vervanging, inwisseling of registratie dienen te worden opgegeven.
+2. Indien een rijbewijs dat werd afgegeven op het grondgebied van een van de Partijen wordt vervangen, ingewisseld of geregistreerd op het grondgebied van een van de andere Partijen, dient de centrale registratieautoriteit de centrale registratieautoriteit van de Partij die het rijbewijs heeft afgegeven hiervan onverwijld in kennis te stellen. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=III&artikel=5&z=2009-05-01&g=2009-05-01) genoemde registratiegegevens van het rijbewijs en de datum van vervanging, inwisseling of registratie dienen te worden opgegeven.
 
 ##### Artikel 8
 
@@ -182,9 +182,9 @@ Deze maatregelen dienen in de volgende gevallen te worden genomen:
 
 ##### Artikel 9
 
-Informatie die uit hoofde van het Europees voertuig- en rijbewijsinformatiesysteem wordt overgedragen kan door de centrale registratieautoriteiten, in overeenstemming met de nationale voorschriften van de Partijen en uitsluitend om het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2000-06-29&g=2000-06-29), vermelde doel te bereiken, worden doorgegeven aan de administratieve autoriteiten die verantwoordelijk zijn voor de registratie van voertuigen en de afgifte en registratie van rijbewijzen.
+Informatie die uit hoofde van het Europees voertuig- en rijbewijsinformatiesysteem wordt overgedragen kan door de centrale registratieautoriteiten, in overeenstemming met de nationale voorschriften van de Partijen en uitsluitend om het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2009-05-01&g=2009-05-01), vermelde doel te bereiken, worden doorgegeven aan de administratieve autoriteiten die verantwoordelijk zijn voor de registratie van voertuigen en de afgifte en registratie van rijbewijzen.
 
-In overeenstemming met de nationale voorschriften van de Partijen kan deze informatie uitsluitend worden doorgegeven aan politie-, douane-, gerechtelijke en nationale beveiligingsinstanties om het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2000-06-29&g=2000-06-29), vermelde doel te bereiken. Deze informatie mag in geen geval aan een ander orgaan of andere organisatie worden doorgegeven.
+In overeenstemming met de nationale voorschriften van de Partijen kan deze informatie uitsluitend worden doorgegeven aan politie-, douane-, gerechtelijke en nationale beveiligingsinstanties om het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2009-05-01&g=2009-05-01), vermelde doel te bereiken. Deze informatie mag in geen geval aan een ander orgaan of andere organisatie worden doorgegeven.
 
 ##### Artikel 10
 
@@ -194,7 +194,7 @@ De centrale registratieautoriteiten dienen te verzekeren dat alle van andere cen
 
 ##### Artikel 11
 
-1. De Partijen dienen de ingevolge het Europees voertuig- en rijbewijsinformatiesysteem overgedragen informatie uitsluitend te gebruiken om het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2000-06-29&g=2000-06-29), vermelde doel te bereiken.
+1. De Partijen dienen de ingevolge het Europees voertuig- en rijbewijsinformatiesysteem overgedragen informatie uitsluitend te gebruiken om het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=II&artikel=2&z=2009-05-01&g=2009-05-01), vermelde doel te bereiken.
 
 2. De informatie dient uitsluitend te worden gebruikt in overeenstemming met de nationale voorschriften van de Partijen, tenzij het Verdrag striktere bepalingen dienaangaande bevat.
 
@@ -266,7 +266,7 @@ De Raad keurt zijn eerste Huishoudelijk Reglement met eenparigheid van stemmen g
 
 - a). de tenuitvoerlegging en de correcte toepassing van de bepalingen van het Verdrag;
 
-- b). het juiste technisch en operationeel functioneren van het Europees voertuig- en rijbewijsinformatiesysteem; hij dient met name toezicht te houden op de maatregelen die de centrale registratieautoriteiten nemen in overeenstemming met [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=V&artikel=16&z=2000-06-29&g=2000-06-29), om de beveiliging van informatie te waarborgen.
+- b). het juiste technisch en operationeel functioneren van het Europees voertuig- en rijbewijsinformatiesysteem; hij dient met name toezicht te houden op de maatregelen die de centrale registratieautoriteiten nemen in overeenstemming met [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=V&artikel=16&z=2009-05-01&g=2009-05-01), om de beveiliging van informatie te waarborgen.
 
 3. Stemmen kunnen worden uitgebracht onder voorbehoud van latere bevestiging binnen maximaal twee maanden.
 
@@ -320,7 +320,7 @@ Deze stelt de verdragsluitende en toegetreden Partijen in kennis van:
 
 - a). elke ondertekening;
 
-- b). elke aanvraag voor toetreding, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=IX&artikel=24&z=2000-06-29&g=2000-06-29);
+- b). elke aanvraag voor toetreding, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=IX&artikel=24&z=2009-05-01&g=2009-05-01);
 
 - c). elke nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
@@ -328,7 +328,7 @@ Deze stelt de verdragsluitende en toegetreden Partijen in kennis van:
 
 - e). elke kennisgeving van terugtrekking uit het Verdrag;
 
-- f). de overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=IX&artikel=23&z=2000-06-29&g=2000-06-29) genotificeerde nationale centrale registratieautoriteiten.
+- f). de overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003170&hoofdstuk=IX&artikel=23&z=2009-05-01&g=2009-05-01) genotificeerde nationale centrale registratieautoriteiten.
 
 ##### Artikel 26
 
