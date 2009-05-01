@@ -4,7 +4,7 @@ identifier: "BWBR0007325"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-05-01"
-last_updated: "2006-09-20"
+last_updated: "2009-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007325"
 soort: "AMvB"
@@ -52,9 +52,9 @@ De ambtenaren van de rijksbelastingdienst, die zijn belast met het toezicht op d
 
 ##### Artikel 2
 
-1. De ambtenaren van het Bureau Handhaving van de Dienst Wegverkeer zijn belast met het opsporen van overtredingen van [artikel 72, eerste en tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), en van [artikel 5.3.15, tweede tot en met vijfde lid, van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=5.3.15).
+1. De ambtenaren van het Bureau Handhaving van de Dienst Wegverkeer zijn belast met het opsporen van overtredingen van [artikel 72, eerste en tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), en van [artikel 5.3.15, tweede tot en met vijfde lid, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.15).
 
-2. De ambtenaren van het Bureau Bijzondere Registraties alsmede de externe bedrijvencontroleurs van de Dienst Wegverkeer zijn belast met het opsporen van overtredingen van de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=44), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=45), tweede lid, en [49, eerste lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=49).
+2. De ambtenaren van het Bureau Bijzondere Registraties alsmede de externe bedrijvencontroleurs van de Dienst Wegverkeer zijn belast met het opsporen van overtredingen van de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=44), [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=45), en [49, eerste lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=49).
 
 ##### Artikel 3
 
