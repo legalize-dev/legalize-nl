@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2008-01-01"
+last_updated: "2009-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -159,7 +159,7 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 [Artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) is niet van toepassing op beschikkingen inzake functietoewijzing, bevordering en aanwijzing voor het volgen van een opleiding.
 
-## Titel IV. Bepalingen van materieel recht
+## Titel III. Van middelen tot bewaring en verwerkelijking van recht
 
 ##### Artikel 12
 
@@ -335,7 +335,7 @@ Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden g
 
 ##### Artikel 1b
 
-Dit onderdeel is nog niet inwerking getreden
+Voor zover dit met het oog op de goede uitvoering van de operationele taken van krijgsmacht noodzakelijk is, kan Onze Minister in buitengewone omstandigheden afwijken van hetgeen bij of krachtens deze wet is bepaald.
 
 ## Titel II. Bezwaar, beroep en klachtrecht
 
@@ -446,6 +446,32 @@ Een ontslagaanvraag van een militair ambtenaar kan worden afgewezen en een reeds
 - d. Indien onze Minister overweegt de militair ambtenaar te ontslaan om een reden die aanleiding geeft tot ontslag zonder het predikaat «eervol»;
 
 - e. in buitengewone omstandigheden.
+
+## Titel V. Overgangs- en slotbepalingen
+
+#### § 1. Overgangsbepaling
+
+#### § 2. Slotbepalingen
+
+Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 1a
+
+1. Tot militair ambtenaar kunnen worden aangesteld zij die de leeftijd van 18 jaar hebben bereikt.
+
+2. Zij die de leeftijd van 17 jaar hebben bereikt kunnen met schriftelijke instemming van hun wettelijke vertegenwoordigers worden aangesteld als aspirant-militair ambtenaar.
+
+3. Aan aspirant-militaire ambtenaren wordt geen functie toegewezen. Zij worden niet ingezet in buitengewone omstandigheden, voor vredes- of humanitaire operaties of voor enige vorm van gewapende dienst.
+
+4. De periode van aanstelling als aspirant-militair ambtenaar maakt in zijn geheel deel uit van de proeftijd voor een aanstelling als militair ambtenaar.
+
+5. Een aanstelling als aspirant-militair ambtenaar gaat over in een aanstelling als militair ambtenaar als de aspirant-militair ambtenaar daarmee na het bereiken van de leeftijd van 18 jaar schriftelijk instemt.
+
+## Titel II. Bezwaar, beroep en klachtrecht
+
+#### § 2. Rechtsmacht
+
+## Titel IV. Bepalingen van materieel recht
 
 ## Titel V. Overgangs- en slotbepalingen
 
