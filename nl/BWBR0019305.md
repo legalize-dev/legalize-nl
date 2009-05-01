@@ -4,7 +4,7 @@ identifier: "BWBR0019305"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-09-01"
-last_updated: "2009-01-01"
+last_updated: "2009-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019305"
 soort: "ministeriele-regeling"
@@ -44,23 +44,29 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-**mantelzorg**: noodzakelijke zorg voor een zieke of gehandicapte;
+- **mantelzorg**: noodzakelijke zorg voor een zieke of gehandicapte;
 
-**resterende verdiencapaciteit**: de resterende verdiencapaciteit, bedoeld in [paragraaf 7.2 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.2);
+- **resterende verdiencapaciteit**: de resterende verdiencapaciteit, bedoeld in [paragraaf 7.2 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.2);
 
-**uitkeringsgerechtigde**: de verzekerde die zijn resterende verdiencapaciteit als bedoeld in [paragraaf 7.2 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.2) niet volledig benut of de werknemer;
+- **uitkeringsgerechtigde**: de verzekerde die zijn resterende verdiencapaciteit als bedoeld in [paragraaf 7.2 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.2) niet volledig benut of de werknemer;
 
-**verzekerde**: de verzekerde, bedoeld in de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), die recht heeft op een WGA-uitkering;
+- **verzekerde**: de verzekerde, bedoeld in de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), die recht heeft op een WGA-uitkering;
 
-**vrijwilligerswerk**: onbetaalde en onverplichte activiteiten binnen een organisatie die een ideële doelstelling heeft of een maatschappelijk nut nastreeft, welke activiteiten doorgaans een aanvullend karakter hebben op bestaande maatschappelijke voorzieningen;
+- **vrijwilligerswerk**: onbetaalde en onverplichte activiteiten binnen een organisatie die een ideële doelstelling heeft of een maatschappelijk nut nastreeft, welke activiteiten doorgaans een aanvullend karakter hebben op bestaande maatschappelijke voorzieningen;
 
-**werknemer**: de werknemer, bedoeld in [hoofdstuk 1, paragraaf 2, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&paragraaf=2), die recht heeft op een WW-uitkering;
+- **werknemer**: de werknemer, bedoeld in [hoofdstuk 1, paragraaf 2, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&paragraaf=2), die recht heeft op een WW-uitkering;
 
-**Wet WIA**: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
+- **Wet WIA**: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
-**WGA-uitkering**: werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in [hoofdstuk 7 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7);
+- **WGA-uitkering**: werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in [hoofdstuk 7 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7);
 
-**WW**: [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
+- **WW**: [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+
+- **Pensioen:** een uitkering op grond van een pensioenregeling als bedoeld in [artikel 18, eerste lid, onderdeel a, onder 1°, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18).
+
+- **Prepensioen:** een uitkering op grond van een regeling voor vervroegde uittreding als bedoeld in [artikel 32ba, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32ba) of op grond van een prepensioenregeling als bedoeld in [artikel 38a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38a) zoals dat artikel luidde op 31 december 2004;
+
+- **Verlof:** een tussen de werkgever en de werknemer voor een gedeelte of het geheel van de arbeidstijd overeengekomen periode, waarin de werknemer geen arbeid jegens de werkgever verricht.
 
 ##### Artikel 2. Vrijstelling in verband benutten resterende verdiencapaciteit
 
@@ -151,5 +157,11 @@ Deze regeling treedt in werking met ingang van 29 december 2005.
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vrijstelling verplichtingen WW en Wet WIA.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a. Vrijstelling in verband met pensioen, prepensioen of verlof
+
+Van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30) is vrijgesteld de persoon die met verlof is dan wel die pensioen of prepensioen ontvangt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
