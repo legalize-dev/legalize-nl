@@ -4,7 +4,7 @@ identifier: "BWBR0018680"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-01"
-last_updated: "2006-01-01"
+last_updated: "2009-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018680"
 soort: "AMvB"
@@ -52,21 +52,21 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. aanhangwagen, bedrijfsauto, personenauto of voertuig: hetgeen daaronder in [artikel 1.1, onderdelen a, h, at, respectievelijk bd van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=1.1) wordt verstaan;
+- a. aanhangwagen, bedrijfsauto, personenauto of voertuig: hetgeen daaronder in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1) wordt verstaan;
 
-- b. aslasten: de som van de last onder de wielen van een as als bedoeld in [artikel 1.1, onderdeel f, van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=1.1);
+- b. aslasten: de som van de last onder de wielen van een as als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
 
-- c. exceptioneel transport: een transport met een voertuig of een samenstel van voertuigen, met inbegrip van de daarmee vervoerde lading, dat niet voldoet aan de bij of krachtens het [Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746) voorgeschreven eisen met betrekking tot breedte, hoogte, lengte, massa of aslasten.
+- c. exceptioneel transport: een transport met een voertuig of een samenstel van voertuigen, met inbegrip van de daarmee vervoerde lading, dat niet voldoet aan in de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) voorgeschreven eisen met betrekking tot breedte, hoogte, lengte, massa of aslasten.
 
 #### § 2. Ontheffingverlening door de Dienst Wegverkeer
 
 ##### Artikel 2
 
-1. De Dienst Wegverkeer kan in verband met de uitvoering van een of meer exceptionele transporten, voor zover het betreft personenauto’s, bedrijfsauto’s of aanhangwagens achter personenauto’s of bedrijfsauto’s ontheffing verlenen van [artikel 5.1.1, eerste lid, aanhef en onderdeel c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=5.1.1), [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=5.1.2) en [artikel 5.1.3 van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=5.1.3).
+1. De Dienst Wegverkeer kan in verband met de uitvoering van een of meer exceptionele transporten, voor zover het betreft personenauto’s, bedrijfsauto’s of aanhangwagens achter personenauto’s of bedrijfsauto’s ontheffing verlenen van [artikel 5.1.1, eerste lid, aanhef en onderdeel c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) en [artikel 5.1.3 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.3).
 
 2. Indien de verlening van een ontheffing als bedoeld in het eerste lid dat rechtvaardigt, kan de Dienst Wegverkeer eveneens ontheffing verlenen van:
 
-- a. de overige bepalingen van [hoofdstuk 5 van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&hoofdstuk=5);
+- a. de overige bepalingen van [hoofdstuk 5 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5);
 
 - b. de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=3), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=10), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=14), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=24), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=42), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=43), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62), voor zover het betreft de verkeerstekens C1, C2, C4, C6 tot en met C10 en C12, C17 tot en met 21, D1, D2, D4 tot en met D7, E1, E2, E5 tot en met E9, F7, en de verkeerstekens genoemd in de artikelen [73](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=73), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=76), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=77), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=78) en [81 van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=81).
 
@@ -76,7 +76,7 @@ De Dienst Wegverkeer kan een ontheffing uitsluitend verlenen op basis van:
 
 - a. de gegevens betreffende de infrastructuur en overige informatie opgenomen in een door die dienst daartoe aangehouden gegevensbestand;
 
-- b. in de daarvoor in aanmerking komende gevallen, een door de wegbeheerder verleende toestemming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=4&z=2006-01-01&g=2006-01-01);
+- b. in de daarvoor in aanmerking komende gevallen, een door de wegbeheerder verleende toestemming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=4&z=2009-05-01&g=2009-05-01);
 
 - c. voertuigtechnische gegevens in relatie tot het verlenen van een ontheffing.
 
@@ -84,19 +84,23 @@ De Dienst Wegverkeer kan een ontheffing uitsluitend verlenen op basis van:
 
 De Dienst Wegverkeer vraagt toestemming als bedoeld in [artikel 149b, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149b), aan de wegbeheerder:
 
-- a. indien geen gegevens beschikbaar zijn in het gegevensbestand als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2006-01-01&g=2006-01-01), of
+- a. indien geen gegevens beschikbaar zijn in het gegevensbestand als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2009-05-01&g=2009-05-01), of
 
-- b. indien de wegbeheerder bij het verstrekken van gegevens en informatie als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=3&artikel=6&z=2006-01-01&g=2006-01-01), toestemming als voorwaarde heeft gesteld voor de passage van een weg of wegdeel waarop de af te geven ontheffing betrekking heeft.
+- b. indien de wegbeheerder bij het verstrekken van gegevens en informatie als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=3&artikel=6&z=2009-05-01&g=2009-05-01), toestemming als voorwaarde heeft gesteld voor de passage van een weg of wegdeel waarop de af te geven ontheffing betrekking heeft.
 
 ##### Artikel 5
 
-1. De Dienst Wegverkeer weigert een ontheffing indien een wegbeheerder de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=4&z=2006-01-01&g=2006-01-01) bedoelde toestemming weigert.
+1. De Dienst Wegverkeer weigert een ontheffing indien:
+
+- a. een wegbeheerder de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=4&z=2009-05-01&g=2009-05-01) bedoelde toestemming weigert;
+
+- b. het verlenen daarvan strijd oplevert met verdragen dan wel besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie, al dan niet gezamenlijk.
 
 2. De Dienst Wegverkeer kan een ontheffing weigeren:
 
-- a. indien gegevens betreffende de infrastructuur en overige informatie uit het in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2006-01-01&g=2006-01-01), bedoelde gegevensbestand hiertoe aanleiding geven;
+- a. indien gegevens betreffende de infrastructuur en overige informatie uit het in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2009-05-01&g=2009-05-01), bedoelde gegevensbestand hiertoe aanleiding geven;
 
-- b. indien de voertuigtechnische gegevens als bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2006-01-01&g=2006-01-01), hiertoe aanleiding geven;
+- b. indien de voertuigtechnische gegevens als bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2009-05-01&g=2009-05-01), hiertoe aanleiding geven;
 
 - c. indien dit gerechtvaardigd is in verband met de bescherming van de in [artikel 2, eerste en tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=2) aangegeven belangen.
 
@@ -104,7 +108,7 @@ De Dienst Wegverkeer vraagt toestemming als bedoeld in [artikel 149b, tweede lid
 
 ##### Artikel 6
 
-1. De wegbeheerder verstrekt ten behoeve van het gegevensbestand, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2006-01-01&g=2006-01-01), over wegen die onder zijn beheer staan, gegevens betreffende de infrastructuur, alsmede overige informatie die van belang is voor de ontheffingverlening. Bij ministeriële regeling kunnen hierover nadere regels worden gesteld.
+1. De wegbeheerder verstrekt ten behoeve van het gegevensbestand, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2009-05-01&g=2009-05-01), over wegen die onder zijn beheer staan, gegevens betreffende de infrastructuur, alsmede overige informatie die van belang is voor de ontheffingverlening. Bij ministeriële regeling kunnen hierover nadere regels worden gesteld.
 
 2. De wegbeheerder draagt zorg voor de juistheid en volledigheid van de gegevens en voor onmiddellijke doorgifte van wijzigingen daarin.
 
