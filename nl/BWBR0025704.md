@@ -267,29 +267,3 @@ Deze regeling wordt aangehaald als: Regeling wegvervoer goederen.
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a
-
-De vervoerder voldoet aan de voorwaarden inzake de vestigingseis, bedoeld in artikel 5, eerste en tweede lid, van de beroepsverordening voor het wegvervoer.
-
-### Hoofdstuk 4. CEMT-vergunningen en ritmachtigingen
-
-### Hoofdstuk 5. Dienstbetrekking
-
-### Hoofdstuk 6. Vrachtbrief
-
-### Hoofdstuk 7. Bestuur NIWO
-
-### Hoofdstuk 8. Taken NIWO
-
-### Hoofdstuk 9. Aanduiding als strafbare feiten
-
-### Hoofdstuk 10. Wijziging andere regelingen
-
-### Hoofdstuk 11. Slotbepalingen
-
-## Bijlage
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
