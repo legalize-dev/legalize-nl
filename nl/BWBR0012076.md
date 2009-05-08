@@ -4,7 +4,7 @@ identifier: "BWBR0012076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-30"
-last_updated: "2009-04-05"
+last_updated: "2009-05-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012076"
 soort: "ministeriele-regeling"
@@ -77,23 +77,23 @@ In deze regeling wordt verstaan onder:
 
 Openbare lichamen als bedoeld in [artikel 1, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=1), zetten uitsluitend gelden uit in de vorm van:
 
-- a. producten waarbij de hoofdsom tenminste aan het einde van de looptijd intact is, uitgezet bij een instelling die voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-04-05&g=2009-04-05);
+- a. producten waarbij de hoofdsom tenminste aan het einde van de looptijd intact is, uitgezet bij een instelling die voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-05-08&g=2009-05-08);
 
-- b. vastrentende waarden, uitgegeven door een instelling die voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-04-05&g=2009-04-05).
+- b. vastrentende waarden, uitgegeven door een instelling die voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-05-08&g=2009-05-08).
 
 ##### Artikel 3a
 
-1. Nazorgfondsen mogen, in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=3&z=2009-04-05&g=2009-04-05), gelden uitzetten in de vorm van beleggingen in aandelen die genoteerd zijn aan een van overheidswege toegelaten effectenbeurs en in onroerend goedfondsen die genoteerd zijn aan een van overheidswege toegelaten effectenbeurs, mits zeker wordt gesteld dat de hoofdsom, gecorrigeerd voor inflatie, ten minste aan het einde van dertig jaar intact is door middel van:
+1. Nazorgfondsen mogen, in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=3&z=2009-05-08&g=2009-05-08), gelden uitzetten in de vorm van beleggingen in aandelen die genoteerd zijn aan een van overheidswege toegelaten effectenbeurs en in onroerend goedfondsen die genoteerd zijn aan een van overheidswege toegelaten effectenbeurs, mits zeker wordt gesteld dat de hoofdsom, gecorrigeerd voor inflatie, ten minste aan het einde van dertig jaar intact is door middel van:
 
-- a. vastrentende waarden, uitgegeven door een instelling die voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-04-05&g=2009-04-05), of
+- a. vastrentende waarden, uitgegeven door een instelling die voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-05-08&g=2009-05-08), of
 
-- b. overige uitzettingen tegen rente bij een instelling die voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-04-05&g=2009-04-05).
+- b. overige uitzettingen tegen rente bij een instelling die voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-05-08&g=2009-05-08).
 
 2. Voor de bepaling van het gedeelte van de portefeuille dat aangehouden moet worden in de vorm van uitzettingen als bedoeld in het eerste lid onder a en b, geldt een nominale rekenrente van 5% en een inflatiecorrectie van 2%.
 
 ##### Artikel 4
 
-1. Derivaten worden uitsluitend gebruikt ter beperking van financiële risico's. Dit houdt in dat geen open posities worden ingenomen. Derivaten worden afgesloten met een instelling die voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-04-05&g=2009-04-05);
+1. Derivaten worden uitsluitend gebruikt ter beperking van financiële risico's. Dit houdt in dat geen open posities worden ingenomen. Derivaten worden afgesloten met een instelling die voldoet aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-05-08&g=2009-05-08);
 
 2. In afwijking van het eerste lid, laatste volzin, kunnen derivaten ook worden afgesloten op een gereglementeerde markt in de Europese Economische Ruimte, zoals bedoeld in de [Richtlijn 93/22/EEG](31993L0022) van de Raad van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten in een lidstaat van de Europese Economische Ruimte onder toezicht staande effecteninstelling.
 
@@ -111,6 +111,6 @@ Deze regeling wordt aangehaald als: Regeling uitzettingen en derivaten decentral
 
 1. Openbare lichamen gaan geen leningen aan met het enkele doel de aangetrokken gelden tegen een hoger rendement uit te zetten.
 
-2. Openbare lichamen zetten tijdelijk overtollige gelden van aangetrokken leningen voor projectfinanciering uitsluitend uit bij de financiële onderneming waar deze leningen zijn aangegaan, onverminderd [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-04-05&g=2009-04-05).
+2. Openbare lichamen zetten tijdelijk overtollige gelden van aangetrokken leningen voor projectfinanciering uitsluitend uit bij de financiële onderneming waar deze leningen zijn aangegaan, onverminderd [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-05-08&g=2009-05-08).
 
-3. Indien een openbaar lichaam een nettingovereenkomst heeft afgesloten met een financiële onderneming met betrekking tot het uitzetten van tijdelijk overtollige gelden van aangetrokken leningen voor projectfinanciering als bedoeld in het tweede lid, is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-04-05&g=2009-04-05), niet van toepassing.
+3. Indien een openbaar lichaam een nettingovereenkomst heeft afgesloten met een financiële onderneming met betrekking tot het uitzetten van tijdelijk overtollige gelden van aangetrokken leningen voor projectfinanciering als bedoeld in het tweede lid, is [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012076&artikel=2&z=2009-05-08&g=2009-05-08), niet van toepassing.
