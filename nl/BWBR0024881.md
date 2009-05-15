@@ -4,7 +4,7 @@ identifier: "BWBR0024881"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-10-01"
-last_updated: "2009-04-06"
+last_updated: "2009-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024881"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1.2
 
-1. Het rapport van feitelijke bevindingen, bedoeld in [artikel 12, derde lid, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12), wordt opgesteld op basis van het protocol dat is opgenomen in [bijlage 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2009-04-06&g=2009-04-06) bij deze regeling
+1. Het rapport van feitelijke bevindingen, bedoeld in [artikel 12, derde lid, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12), wordt opgesteld op basis van het protocol dat is opgenomen in [bijlage 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2009-05-15&g=2009-05-15) bij deze regeling
 
 2. Als rapport als bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12), wordt aangewezen een afschrift van het rapport van feitelijke bevindingen van een externe accountant inzake de actueel gebruikte methode voor berekening van de personeelskosten en indirecte kosten dat is opgesteld in het kader van [verordening (EG) nr. 1906/2006](32006R1906) van het Europees Parlement en de Raad van de Europese Unie van 18 december 2006 tot vaststelling van de regels voor de deelname van ondernemingen, onderzoekscentra en universiteiten aan acties op grond van het zevende kaderprogramma, en voor verspreiding van onderzoeksresultaten (2007–2013) (PbEU L 391) en, indien de subsidie-ontvanger daarover beschikt, een afschrift van de goedkeuring door de Europese Commissie van dat rapport.
 
@@ -128,7 +128,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 2.7
 
-1. Er is een Adviescommissie Internationaal Innoveren die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=2&artikel=2.9&z=2009-04-06&g=2009-04-06) en de rangschikkingscriteria, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=2&artikel=2.10&z=2009-04-06&g=2009-04-06).
+1. Er is een Adviescommissie Internationaal Innoveren die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=2&artikel=2.9&z=2009-05-15&g=2009-05-15) en de rangschikkingscriteria, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=2&artikel=2.10&z=2009-05-15&g=2009-05-15).
 
 2. De commissie bestaat uit ten minste drie en ten hoogste vijftien leden.
 
@@ -176,7 +176,7 @@ In afwijking van [artikel 39 van het Kaderbesluit EZ-subsidies](https://wetten.o
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **IOP:** een op innovatie gericht onderzoeksprogramma als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.7&z=2009-04-06&g=2009-04-06) met als zwaartepunt fundamenteel onderzoek en bestaande uit een samenhangend geheel van onderzoeksprojecten welke door publiek gefinancierde onderzoeksorganisaties en ondernemers worden uitgevoerd;
+- –. **IOP:** een op innovatie gericht onderzoeksprogramma als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.7&z=2009-05-15&g=2009-05-15) met als zwaartepunt fundamenteel onderzoek en bestaande uit een samenhangend geheel van onderzoeksprojecten welke door publiek gefinancierde onderzoeksorganisaties en ondernemers worden uitgevoerd;
 
 - –. **IOP-project:** een onderzoeksproject passend binnen een innovatiegericht onderzoeksprogramma, bestaande uit een voor Nederland nieuw, planmatig en met elkaar samenhangend geheel van activiteiten op het terrein van fundamenteel onderzoek of een combinatie van fundamenteel onderzoek met industrieel onderzoek of experimentele ontwikkeling;
 
@@ -194,7 +194,7 @@ De penvoerder is een publiek gefinancierde onderzoeksorganisatie.
 
 ##### Artikel 3.4
 
-Een aanvraag wordt niet ingediend dan nadat daarover namens de commissie, genoemd in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.9&z=2009-04-06&g=2009-04-06), aan de aanvrager advies is uitgebracht op basis van een vooraanmelding.
+Een aanvraag wordt niet ingediend dan nadat daarover namens de commissie, genoemd in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.9&z=2009-05-15&g=2009-05-15), aan de aanvrager advies is uitgebracht op basis van een vooraanmelding.
 
 ##### Artikel 3.5
 
@@ -246,7 +246,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 3.9
 
-1. Voor elk onderzoeksprogramma, genoemd in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.7&z=2009-04-06&g=2009-04-06), is er een adviescommissie die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.10&z=2009-04-06&g=2009-04-06) en de rangschikkingscriteria, bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.11&z=2009-04-06&g=2009-04-06).
+1. Voor elk onderzoeksprogramma, genoemd in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.7&z=2009-05-15&g=2009-05-15), is er een adviescommissie die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.10&z=2009-05-15&g=2009-05-15) en de rangschikkingscriteria, bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.11&z=2009-05-15&g=2009-05-15).
 
 2. De commissie bestaat uit ten minste drie en ten hoogste twaalf leden.
 
@@ -334,7 +334,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - –. **internationaal MKB-samenwerkingsverband:** een internationaal samenwerkingverband dat een LSH-project uitvoert en:
 
-- a. dat bestaat uit minimaal twee deelnemers waarbij de ene in Nederland is gevestigd als MKB-ondernemer en de andere in een land, genoemd in [bijlage 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=4.1&z=2009-04-06&g=2009-04-06);
+- a. dat bestaat uit minimaal twee deelnemers waarbij de ene in Nederland is gevestigd als MKB-ondernemer en de andere in een land, genoemd in [bijlage 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=4.1&z=2009-05-15&g=2009-05-15);
 
 - b. waarin de inbreng van één land of samenwerkingspartner niet hoger is dan 70 procent van de subsidiabele kosten van het LSH-project en
 
@@ -346,7 +346,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. ontwikkeling van medische technologie welke leidt tot specifieke behandelmethodes of diagnostiek of
 
-- c. ontwikkeling van biomedische materialen of producten gebaseerd op deze materialen, dat past binnen [bijlage 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=4.2&z=2009-04-06&g=2009-04-06).
+- c. ontwikkeling van biomedische materialen of producten gebaseerd op deze materialen, dat past binnen [bijlage 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=4.2&z=2009-05-15&g=2009-05-15).
 
 #### § 2. Subsidie aan ETB-samenwerkingsverbanden
 
@@ -378,7 +378,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 4.6
 
-1. Er is een Adviescommissie Life Sciences & Health die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2009-04-06&g=2009-04-06), en de rangschikkingscriteria, bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.9&z=2009-04-06&g=2009-04-06).
+1. Er is een Adviescommissie Life Sciences & Health die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2009-05-15&g=2009-05-15), en de rangschikkingscriteria, bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.9&z=2009-05-15&g=2009-05-15).
 
 2. De commissie bestaat uit ten minste twee en ten hoogste vijf leden.
 
@@ -394,7 +394,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 - a. niet ten minste 35 procent van de op grond van dit hoofdstuk subsidiabele kosten ten laste komen van deelnemende MKB-ondernemers;
 
-- b. het ETB-samenwerkingsverband na indiening van de aanvraag niet meer voldoet aan [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2009-04-06&g=2009-04-06) of de financiering van het totale project onvoldoende blijkt;
+- b. het ETB-samenwerkingsverband na indiening van de aanvraag niet meer voldoet aan [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2009-05-15&g=2009-05-15) of de financiering van het totale project onvoldoende blijkt;
 
 - c. van het LSH-project onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn.
 
@@ -448,7 +448,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 4.15
 
-1. De in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2009-04-06&g=2009-04-06) bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2009-04-06&g=2009-04-06), en de rangschikkingscriteria, bedoeld in [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=3&artikel=4.18&z=2009-04-06&g=2009-04-06).
+1. De in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2009-05-15&g=2009-05-15) bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2009-05-15&g=2009-05-15), en de rangschikkingscriteria, bedoeld in [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=3&artikel=4.18&z=2009-05-15&g=2009-05-15).
 
 2. De commissie bestaat uit ten minste twee en ten hoogste vijf leden.
 
@@ -464,7 +464,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 - a. niet ten minste 35 procent van de op grond van dit hoofdstuk subsidiabele kosten ten laste komen van deelnemende MKB-ondernemers;
 
-- b. het internationaal MKB-samenwerkingsverband na indiening van de aanvraag niet meer voldoet aan [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2009-04-06&g=2009-04-06) of de financiering van het totale project onvoldoende blijkt;
+- b. het internationaal MKB-samenwerkingsverband na indiening van de aanvraag niet meer voldoet aan [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2009-05-15&g=2009-05-15) of de financiering van het totale project onvoldoende blijkt;
 
 - c. van het LSH-project onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn.
 
@@ -498,7 +498,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - –. **FND-haalbaarheidsproject:** een samenstel van activiteiten, dat leidt tot een schriftelijk rapport met een inschatting van de technische en economische mogelijkheden van een FND-innovatieproject;
 
-- –. **FND-innovatieproject:** een innovatieproject, bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, dat past binnen [bijlage 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=5.1&z=2009-04-06&g=2009-04-06);
+- –. **FND-innovatieproject:** een innovatieproject, bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, dat past binnen [bijlage 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=5.1&z=2009-05-15&g=2009-05-15);
 
 - –. **FND-MKB-innovatieproject:** een FND-innovatieproject, uitgevoerd door een FND-MKB-samenwerkingsverband;
 
@@ -578,7 +578,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 5.13
 
-1. Er is een Adviescommissie Food & Nutrition Delta die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=5&paragraaf=3&artikel=5.15&z=2009-04-06&g=2009-04-06) en de rangschikkingscriteria, bedoeld in [artikel 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=5&paragraaf=3&artikel=5.16&z=2009-04-06&g=2009-04-06).
+1. Er is een Adviescommissie Food & Nutrition Delta die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=5&paragraaf=3&artikel=5.15&z=2009-05-15&g=2009-05-15) en de rangschikkingscriteria, bedoeld in [artikel 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=5&paragraaf=3&artikel=5.16&z=2009-05-15&g=2009-05-15).
 
 2. De commissie bestaat uit ten minste drie en ten hoogste zeven leden.
 
@@ -674,11 +674,11 @@ De minister beslist afwijzend op een aanvraag indien het FND-MKB-innovatieprojec
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **HTAS-doorbraakproject:** een samenhangend geheel van activiteiten,al dan niet opgesplitst in opeenvolgende deelprojecten, dat de strategische hoofddoelen van het innovatieprogramma High Tech Automotive Systems (HTAS) zoals genoemd in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2009-04-06&g=2009-04-06) haalbaar kan maken, en is gericht op de in de roadmap van HTAS benoemde prioriteiten zoals genoemd in [bijlage 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.2&z=2009-04-06&g=2009-04-06), waarbij het gaat om een in internationaal perspectief nog niet gerealiseerde integrale technologie of innovatieve integratie van technieken;
+- –. **HTAS-doorbraakproject:** een samenhangend geheel van activiteiten,al dan niet opgesplitst in opeenvolgende deelprojecten, dat de strategische hoofddoelen van het innovatieprogramma High Tech Automotive Systems (HTAS) zoals genoemd in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2009-05-15&g=2009-05-15) haalbaar kan maken, en is gericht op de in de roadmap van HTAS benoemde prioriteiten zoals genoemd in [bijlage 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.2&z=2009-05-15&g=2009-05-15), waarbij het gaat om een in internationaal perspectief nog niet gerealiseerde integrale technologie of innovatieve integratie van technieken;
 
 - –. **HTAS-doorbraaksamenwerkingsverband:** een geen rechtspersoonlijkheid bezittend verband, bestaande uit tenminste één MKB-ondernemer en tenminste één onderzoeksorganisatie en dat voor gezamenlijke rekening en risico een HTAS-doorbraakproject uitvoert;
 
-- –. **HTAS-internationaal innovatieproject:** een innovatieproject dat wordt uitgevoerd door een HTAS- internationaal innovatiesamenwerkingsverband en is voorzien van een Eureka-label of betreffende een samenwerkingsverband met Canada, Japan, Singapore of de Verenigde Staten van Amerika of een samenwerkingsverband op basis van een bilaterale samenwerkingsovereenkomst en dat bijdraagt aan en past binnen de doelstellingen en focusgebieden van het HTAS-programma zoals genoemd in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2009-04-06&g=2009-04-06);
+- –. **HTAS-internationaal innovatieproject:** een innovatieproject dat wordt uitgevoerd door een HTAS- internationaal innovatiesamenwerkingsverband en is voorzien van een Eureka-label of betreffende een samenwerkingsverband met Canada, Japan, Singapore of de Verenigde Staten van Amerika of een samenwerkingsverband op basis van een bilaterale samenwerkingsovereenkomst en dat bijdraagt aan en past binnen de doelstellingen en focusgebieden van het HTAS-programma zoals genoemd in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2009-05-15&g=2009-05-15);
 
 - –. **HTAS- internationaal innovatiesamenwerkingsverband:** een internationaal innovatiesamenwerkingsverband waarbij:
 
@@ -718,7 +718,7 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ##### Artikel 6.6
 
-1. Er is een Adviescommissie HTAS-innovatieprojecten die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2009-04-06&g=2009-04-06).
+1. Er is een Adviescommissie HTAS-innovatieprojecten die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2009-05-15&g=2009-05-15).
 
 2. De commissie bestaat uit ten minste drie en ten hoogste zeven leden.
 
@@ -772,7 +772,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 6.13
 
-De adviescommissie, genoemd in [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=2&artikel=6.6&z=2009-04-06&g=2009-04-06) heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2009-04-06&g=2009-04-06) en de rangschikkingscriteria, bedoeld in [artikel 6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.15&z=2009-04-06&g=2009-04-06).
+De adviescommissie, genoemd in [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=2&artikel=6.6&z=2009-05-15&g=2009-05-15) heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2009-05-15&g=2009-05-15) en de rangschikkingscriteria, bedoeld in [artikel 6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.15&z=2009-05-15&g=2009-05-15).
 
 ##### Artikel 6.14
 
@@ -784,7 +784,7 @@ De minister beslist afwijzend op een aanvraag
 
 - a. van een overheid of overheidsinstelling, tenzij het een onderzoeksorganisatie betreft;
 
-- b. wanneer het project niet past binnen de focusgebieden van het HTAS-innovatieprogramma zoals omschreven in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2009-04-06&g=2009-04-06);
+- b. wanneer het project niet past binnen de focusgebieden van het HTAS-innovatieprogramma zoals omschreven in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2009-05-15&g=2009-05-15);
 
 - c. indien van het HTAS-internationaal innovatieproject project onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn.
 
@@ -798,7 +798,7 @@ De minister beslist afwijzend op een aanvraag
 
 - c. de verwachte economische waarde van de projectresultaten, de aansluiting bij de doelstellingen van de deelnemers en de uitgebreidheid van de toepassingsmogelijkheden van de projectresultaten;
 
-- d. de in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2009-04-06&g=2009-04-06)opgenomen doelstellingen en focusgebieden van het HTAS-innovatieprogramma.
+- d. de in [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2009-05-15&g=2009-05-15)opgenomen doelstellingen en focusgebieden van het HTAS-innovatieprogramma.
 
 2. Voor de rangschikking wegen de in het eerste lid genoemde criteria even zwaar.
 
@@ -814,9 +814,9 @@ In afwijking van [artikel 39 van het Kaderbesluit EZ-subsidies](https://wetten.o
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **innoWATOR-project:** een innovatieproject, bestaande uit industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan, dat is gericht op de ontwikkeling van een product, proces of dienst en dat past binnen [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2009-04-06&g=2009-04-06);
+- –. **innoWATOR-project:** een innovatieproject, bestaande uit industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan, dat is gericht op de ontwikkeling van een product, proces of dienst en dat past binnen [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2009-05-15&g=2009-05-15);
 
-- –. **internationaal innoWATOR-project:** een innovatieproject, bestaande uit industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan dat, hetzij is voorzien van een EUREKA-label, hetzij een samenwerkingsverband betreft met een van de geïndustrialiseerde landen, dat is gericht op de ontwikkeling van een product, proces of dienst en dat past binnen [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2009-04-06&g=2009-04-06) van deze regeling;
+- –. **internationaal innoWATOR-project:** een innovatieproject, bestaande uit industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan dat, hetzij is voorzien van een EUREKA-label, hetzij een samenwerkingsverband betreft met een van de geïndustrialiseerde landen, dat is gericht op de ontwikkeling van een product, proces of dienst en dat past binnen [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2009-05-15&g=2009-05-15) van deze regeling;
 
 - –. **innoWATOR-samenwerkingsverband:** een innovatiesamenwerkingsverband dat is opgericht ten behoeve van de uitvoering van een innoWATOR-project en waaraan ten minste één in Nederland gevestigde ondernemer deelneemt;
 
@@ -852,7 +852,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 7.6
 
-1. Er is een Adviescommissie innoWATOR die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.8&z=2009-04-06&g=2009-04-06) en de rangschikkingscriteria, bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.9&z=2009-04-06&g=2009-04-06)
+1. Er is een Adviescommissie innoWATOR die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.8&z=2009-05-15&g=2009-05-15) en de rangschikkingscriteria, bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.9&z=2009-05-15&g=2009-05-15)
 
 2. De commissie bestaat uit ten minste drie en ten hoogste 21 leden.
 
@@ -868,7 +868,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 - a. hij de subsidiabele kosten raamt op minder dan € 150.000;
 
-- b. het project onvoldoende bijdraagt aan de doelstellingen genoemd in de bij deze regeling behorende [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2009-04-06&g=2009-04-06);
+- b. het project onvoldoende bijdraagt aan de doelstellingen genoemd in de bij deze regeling behorende [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2009-05-15&g=2009-05-15);
 
 - c. er geen relevante potentiële eindgebruiker van de te ontwikkelen technologie bij het project betrokken is;
 
@@ -920,7 +920,7 @@ De minister verdeelt het subsidieplafond op volgorde binnenkomst van de aanvrage
 
 ##### Artikel 7.14
 
-De adviescommissie, genoemd in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.6&z=2009-04-06&g=2009-04-06) heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=3&artikel=7.16&z=2009-04-06&g=2009-04-06).
+De adviescommissie, genoemd in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.6&z=2009-05-15&g=2009-05-15) heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=3&artikel=7.16&z=2009-05-15&g=2009-05-15).
 
 ##### Artikel 7.15
 
@@ -932,7 +932,7 @@ De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidi
 
 - a. hij de subsidiabele kosten raamt op minder dan € 150.000;
 
-- b. het internationaal innoWATOR-project onvoldoende bijdraagt aan de doelstellingen genoemd in de bij deze regeling behorende [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2009-04-06&g=2009-04-06);
+- b. het internationaal innoWATOR-project onvoldoende bijdraagt aan de doelstellingen genoemd in de bij deze regeling behorende [bijlage 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=7.1&z=2009-05-15&g=2009-05-15);
 
 - c. er geen relevante potentiële eindgebruiker van de te ontwikkelen technologie bij het internationaal innoWATOR-project betrokken is;
 
@@ -984,7 +984,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 8.2
 
-De minister verstrekt op aanvraag een subsidie aan een deelnemer in een maritiem MKB-samenwerkingsverband, dat een maritiem MKB-project uitvoert dat past binnen [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2009-04-06&g=2009-04-06), of aan een MKB-ondernemer, die een maritiem MKB-project uitvoert dat past binnen [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2009-04-06&g=2009-04-06).
+De minister verstrekt op aanvraag een subsidie aan een deelnemer in een maritiem MKB-samenwerkingsverband, dat een maritiem MKB-project uitvoert dat past binnen [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2009-05-15&g=2009-05-15), of aan een MKB-ondernemer, die een maritiem MKB-project uitvoert dat past binnen [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2009-05-15&g=2009-05-15).
 
 ##### Artikel 8.3
 
@@ -1010,7 +1010,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 - a. van het maritiem MKB-project onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn;
 
-- b. het maritiem MKB-project onvoldoende bijdraagt aan de doelstellingen zoals opgenomen in [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2009-04-06&g=2009-04-06);
+- b. het maritiem MKB-project onvoldoende bijdraagt aan de doelstellingen zoals opgenomen in [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2009-05-15&g=2009-05-15);
 
 - c. het innovatieproject waarop het maritiem MKB-project betrekking heeft onvoldoende technisch risicovol is;
 
@@ -1022,7 +1022,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 ##### Artikel 8.8
 
-De minister verstrekt op aanvraag een subsidie aan een deelnemer in een maritiem innovatiesamenwerkingsverband, dat een maritiem innovatieproject uitvoert dat past binnen de kaders van [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2009-04-06&g=2009-04-06), of aan een MKB-ondernemer, die een maritiem innovatieproject uitvoert dat past binnen de kaders van [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2009-04-06&g=2009-04-06).
+De minister verstrekt op aanvraag een subsidie aan een deelnemer in een maritiem innovatiesamenwerkingsverband, dat een maritiem innovatieproject uitvoert dat past binnen de kaders van [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2009-05-15&g=2009-05-15), of aan een MKB-ondernemer, die een maritiem innovatieproject uitvoert dat past binnen de kaders van [bijlage 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=8.1&z=2009-05-15&g=2009-05-15).
 
 ##### Artikel 8.9
 
@@ -1048,7 +1048,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 8.12
 
-1. Er is een Adviescommissie Maritiem Innovatie Programma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.14&z=2009-04-06&g=2009-04-06) en de rangschikkingscriteria, bedoeld in [artikel 8.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.15&z=2009-04-06&g=2009-04-06).
+1. Er is een Adviescommissie Maritiem Innovatie Programma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 8.14](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.14&z=2009-05-15&g=2009-05-15) en de rangschikkingscriteria, bedoeld in [artikel 8.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.15&z=2009-05-15&g=2009-05-15).
 
 2. De commissie bestaat uit ten minste drie en ten hoogste elf leden.
 
@@ -1116,7 +1116,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 9.2
 
-De minister verstrekt op aanvraag een subsidie aan een MKB-ondernemer in een Point One MKB-samenwerkingsverband voor het uitvoeren van een Point One MKB-project dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2009-04-06&g=2009-04-06).
+De minister verstrekt op aanvraag een subsidie aan een MKB-ondernemer in een Point One MKB-samenwerkingsverband voor het uitvoeren van een Point One MKB-project dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2009-05-15&g=2009-05-15).
 
 ##### Artikel 9.3
 
@@ -1136,7 +1136,7 @@ De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidi
 
 De minister beslist afwijzend op een aanvraag indien:
 
-- a. het Point One R&D-project waarop het Point One MKB-project betrekking heeft onvoldoende bijdraagt aan de doelstellingen opgenomen in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2009-04-06&g=2009-04-06);
+- a. het Point One R&D-project waarop het Point One MKB-project betrekking heeft onvoldoende bijdraagt aan de doelstellingen opgenomen in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2009-05-15&g=2009-05-15);
 
 - b. het Point One R&D-project waarop het Point One MKB-project betrekking heeft onvoldoende technisch risicovol is;
 
@@ -1152,7 +1152,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 ##### Artikel 9.8
 
-De minister verstrekt op aanvraag subsidie aan een deelnemer in een Point One R&D-samenwerkingsverband die een Point One R&D-project uitvoert dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2009-04-06&g=2009-04-06).
+De minister verstrekt op aanvraag subsidie aan een deelnemer in een Point One R&D-samenwerkingsverband die een Point One R&D-project uitvoert dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2009-05-15&g=2009-05-15).
 
 ##### Artikel 9.9
 
@@ -1174,7 +1174,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 9.11
 
-1. Er is een Adviescommissie Point One Programma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 9.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.13&z=2009-04-06&g=2009-04-06) en de rangschikkingscriteria, bedoeld in [artikel 9.14](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.14&z=2009-04-06&g=2009-04-06).
+1. Er is een Adviescommissie Point One Programma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 9.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.13&z=2009-05-15&g=2009-05-15) en de rangschikkingscriteria, bedoeld in [artikel 9.14](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.14&z=2009-05-15&g=2009-05-15).
 
 2. De commissie bestaat uit ten minste drie en ten hoogste twintig leden.
 
@@ -1200,7 +1200,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 1. De minister rangschikt de aanvragen waarop niet afwijzend is beslist, hoger naarmate een Point One R&D-project meer bijdraagt aan:
 
-- a. de doelstellingen van [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2009-04-06&g=2009-04-06);
+- a. de doelstellingen van [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2009-05-15&g=2009-05-15);
 
 - b. een brede betrokkenheid van verschillende partijen bij het Point One R&D-project, met name van MKB-ondernemers;
 
@@ -1228,7 +1228,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 ##### Artikel 9.17
 
-De minister verstrekt op aanvraag een subsidie aan een deelnemer in een Internationaal Point One R&D-samenwerkingsverband voor het uitvoeren van een Internationaal Point One R&D-project dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2009-04-06&g=2009-04-06).
+De minister verstrekt op aanvraag een subsidie aan een deelnemer in een Internationaal Point One R&D-samenwerkingsverband voor het uitvoeren van een Internationaal Point One R&D-project dat past binnen de technologische gebieden zoals genoemd in de bij deze regeling behorende [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2009-05-15&g=2009-05-15).
 
 ##### Artikel 9.18
 
@@ -1250,7 +1250,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ##### Artikel 9.20
 
-De in [artikel 9.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.11&z=2009-04-06&g=2009-04-06) genoemde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 9.22](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.22&z=2009-04-06&g=2009-04-06) en de rangschikkingscriteria, bedoeld in [artikel 9.23](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.23&z=2009-04-06&g=2009-04-06).
+De in [artikel 9.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.11&z=2009-05-15&g=2009-05-15) genoemde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23) en in [artikel 9.22](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.22&z=2009-05-15&g=2009-05-15) en de rangschikkingscriteria, bedoeld in [artikel 9.23](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.23&z=2009-05-15&g=2009-05-15).
 
 ##### Artikel 9.21
 
@@ -1270,7 +1270,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 1. De minister rangschikt de aanvragen waarop niet afwijzend is beslist, hoger naarmate een Internationaal Point One R&D-project meer bijdraagt aan:
 
-- a. de doelstellingen van [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2009-04-06&g=2009-04-06);
+- a. de doelstellingen van [bijlage 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=9.1&z=2009-05-15&g=2009-05-15);
 
 - b. een brede betrokkenheid van verschillende partijen bij het Internationaal Point One R&D-project, met name van het MKB;
 
@@ -1296,11 +1296,11 @@ De minister beslist afwijzend op een aanvraag indien:
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **polymeren haalbaarheidsproject:** een samenstel van activiteiten dat leidt tot een schriftelijk rapport met een inschatting van de technische en economische mogelijkheden van een innovatieproject en dat past binnen [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2009-04-06&g=2009-04-06);
+- –. **polymeren haalbaarheidsproject:** een samenstel van activiteiten dat leidt tot een schriftelijk rapport met een inschatting van de technische en economische mogelijkheden van een innovatieproject en dat past binnen [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2009-05-15&g=2009-05-15);
 
-- –. **polymeren innovatieproject:** een innovatieproject bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, dat past binnen [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2009-04-06&g=2009-04-06) en dat wordt uitgevoerd door een polymeren samenwerkingsverband;
+- –. **polymeren innovatieproject:** een innovatieproject bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, dat past binnen [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2009-05-15&g=2009-05-15) en dat wordt uitgevoerd door een polymeren samenwerkingsverband;
 
-- –. **polymeren MKB-innovatieproject:** een innovatieproject bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, dat past binnen [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2009-04-06&g=2009-04-06) en dat wordt uitgevoerd door polymeren MKB-samenwerkingsverband;
+- –. **polymeren MKB-innovatieproject:** een innovatieproject bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, dat past binnen [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2009-05-15&g=2009-05-15) en dat wordt uitgevoerd door polymeren MKB-samenwerkingsverband;
 
 - –. **polymeren MKB-samenwerkingsverband:** een innovatiesamenwerkingsverband, opgericht ten behoeve van de uitvoering van een polymeren MKB-innovatieproject waarvan ten minste één van de deelnemers in het polymeren MKB-samenwerkingsverband is een in Nederland gevestigde MKB-ondernemer en een andere partij is ofwel een ondernemer ofwel een onderzoeksorganisatie.
 
@@ -1348,7 +1348,9 @@ De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidi
 
 ##### Artikel 10.8
 
-De minister verstrekt op aanvraag subsidie aan een deelnemer in een polymeren MKB-samenwerkingsverband dat een polymeren MKB-innovatieproject uitvoert.
+1. De minister verstrekt op aanvraag subsidie aan een deelnemer in een polymeren MKB-samenwerkingsverband dat een polymeren MKB-innovatieproject uitvoert.
+
+2. In afwijking van [artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=3), kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een polymeren MKB-samenwerkingsverband.
 
 ##### Artikel 10.9
 
@@ -1386,7 +1388,7 @@ De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidi
 
 - c. het polymeren MKB-innovatieproject geen wezenlijke bijdrage levert aan:
 
-- 1°. de doelstellingen van het Polymeren Innovatie Programma, zoals opgenomen in [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2009-04-06&g=2009-04-06);
+- 1°. de doelstellingen van het Polymeren Innovatie Programma, zoals opgenomen in [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2009-05-15&g=2009-05-15);
 
 - 2°. technologische vernieuwing of wezenlijk nieuwe toepassingen van een bestaande technologie;
 
@@ -1408,11 +1410,11 @@ De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidi
 
 Het formulier voor het indienen van een aanvraag voor:
 
-- a. subsidie voor projecten op grond van deze regeling is opgenomen in de bij deze regeling behorende [bijlage 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2009-04-06&g=2009-04-06);
+- a. subsidie voor projecten op grond van deze regeling is opgenomen in de bij deze regeling behorende [bijlage 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2009-05-15&g=2009-05-15);
 
-- b. subsidievaststelling voor projecten op grond van deze regeling is opgenomen in de bij deze regeling behorende [bijlage 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2009-04-06&g=2009-04-06);
+- b. subsidievaststelling voor projecten op grond van deze regeling is opgenomen in de bij deze regeling behorende [bijlage 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2009-05-15&g=2009-05-15);
 
-- c. een vooraanmelding als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.4&z=2009-04-06&g=2009-04-06) is opgenomen in [bijlage 11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2009-04-06&g=2009-04-06).
+- c. een vooraanmelding als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3&artikel=3.4&z=2009-05-15&g=2009-05-15) is opgenomen in [bijlage 11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2009-05-15&g=2009-05-15).
 
 ### Hoofdstuk 12. Slotbepalingen
 
@@ -1472,7 +1474,7 @@ Zwitserland
 
 De valorisatiestap van concepten die voortkomen uit de publiek-private samenwerkingen is een belangrijke om uiteindelijk tot een medisch innovatief product te komen. De sector pleit dan ook voor ondersteuning bij samenwerking. Het gaat hierbij om ondersteuning bij (internationele) samenwerkingsprojecten en bij facility sharing van bijzondere apparatuur of productiefaciliteiten. Ook vallen netwerkevenementen die R&D-samenwerking stimuleren onder deze actielijn.
 
-### Behorend bij [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2009-04-06&g=2009-04-06)
+### Behorend bij [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2009-05-15&g=2009-05-15)
 
 Bedrijven en kennisinstellingen hebben samen met het ministerie van EZ het innovatieprogramma Life Sciences & Health (LSH) ontwikkeld. Het programma stimuleert jonge hightech bedrijven nieuwe medische producten (vaccins, geneesmiddelen), behandelingen (weefsel- en orgaanherstel, medische implantaten) en diagnostica te ontwikkelen. Nederland heeft een sterke kennispositie op dit gebied. Bedrijven als Organon, Philips Medical en DSM en diverse jonge, beursgenoteerde life sciences bedrijven als Crucell, Pharming, Octoplus en Galapagos zijn op hun gebied internationaal toonaangevend. De ambitie van het innovatieprogramma LSH is om Nederland een internationale hotspot te laten worden op het gebied van medisch en klinisch onderzoek, waar gezondheidsgerelateerde life sciences bedrijven goed kunnen werken en groeien.
 
@@ -1560,7 +1562,7 @@ De prioriteiten voor 2009 zijn:
 
 Efficient powertrain, Connected car en Vehicle dynamics control.
 
-Deze onderwerpen zijn uitwerkt in de [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2009-04-06&g=2009-04-06).
+Deze onderwerpen zijn uitwerkt in de [bijlage 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=6.1&z=2009-05-15&g=2009-05-15).
 
 De Nederlandse watersector wil bovengenoemde maatschappelijke opgaven en economische kansen benutten door gebruik te maken van haar sterke uitgangspunten en door het verminderen en wegnemen van de belemmeringen. Het verwezenlijken van deze ambities vereist innovatie.
 
@@ -1730,7 +1732,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 10.15
 
-De minister verstrekt op aanvraag subsidie aan een deelnemer in een polymeren samenwerkingsverband dat een polymeren innovatieproject uitvoert.
+1. De minister verstrekt op aanvraag subsidie aan een deelnemer in een polymeren samenwerkingsverband dat een polymeren innovatieproject uitvoert.
+
+2. In afwijking van [artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=3), kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een polymeren samenwerkingsverband.
 
 ##### Artikel 10.16
 
@@ -1768,7 +1772,7 @@ De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidi
 
 - c. het polymeren innovatieproject geen wezenlijke bijdrage levert aan:
 
-- 1°. de doelstellingen van het Polymeren Innovatie Programma, zoals opgenomen in [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2009-04-06&g=2009-04-06);
+- 1°. de doelstellingen van het Polymeren Innovatie Programma, zoals opgenomen in [bijlage 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=10.1&z=2009-05-15&g=2009-05-15);
 
 - 2°. technologische vernieuwing of wezenlijk nieuwe toepassingen van een bestaande technologie;
 
@@ -1824,7 +1828,7 @@ De valorisatiestap van concepten die voortkomen uit de publiek-private samenwerk
 
 ### Behorende bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2009-03-01&g=2009-03-01)
 
-### Behorende bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2009-04-06&g=2009-04-06)
+### Behorende bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2009-05-15&g=2009-05-15)
 
 ### Innovatiethema’s
 
@@ -1840,7 +1844,7 @@ Onderzoeksprioriteiten die in dit kader relevant zijn, zijn onder andere:
 
 ### Behorende bij de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2009-03-01&g=2009-03-01), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.15&z=2009-03-01&g=2009-03-01) en [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.16&z=2009-03-01&g=2009-03-01)
 
-### Behorende bij de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2009-04-06&g=2009-04-06), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.15&z=2009-04-06&g=2009-04-06) en [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.16&z=2009-04-06&g=2009-04-06)
+### Behorende bij de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2009-05-15&g=2009-05-15), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.15&z=2009-05-15&g=2009-05-15) en [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=3&artikel=6.16&z=2009-05-15&g=2009-05-15)
 
 Het Nederlandse cluster van automotive bedrijven heeft de ambitie om binnen vijf jaar één van de leidende innovatieprogramma’s in Europa te worden op het gebied van automotive technologie.
 
@@ -1858,7 +1862,7 @@ Bij Vehicle efficiency wordt door verbetering van het totale aandrijvingsysteem 
 
 ### Behorende bij de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=1&artikel=7.1&z=2009-03-01&g=2009-03-01), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.8&z=2009-03-01&g=2009-03-01) en [7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=3&artikel=7.16&z=2009-03-01&g=2009-03-01)
 
-### Behorende bij de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=1&artikel=7.1&z=2009-04-06&g=2009-04-06), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.8&z=2009-04-06&g=2009-04-06) en [7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=3&artikel=7.16&z=2009-04-06&g=2009-04-06)
+### Behorende bij de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=1&artikel=7.1&z=2009-05-15&g=2009-05-15), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=2&artikel=7.8&z=2009-05-15&g=2009-05-15) en [7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=7&paragraaf=3&artikel=7.16&z=2009-05-15&g=2009-05-15)
 
 Wereldwijd is sprake van een toenemende behoefte aan nieuwe watertechnologie. Onder watertechnologie wordt hier verstaan: alle technologieën en technieken ten behoeve van het bereiden, transporteren, leveren, verzamelen, behandelen en (her)gebruiken van drinkwater, proceswater en afvalwater voor en van burgers, huishoudens, industrie, land- en tuinbouw, recreatie en toerisme. Deze toenemende behoefte wordt onder meer veroorzaakt door de groei van de bevolking en de welvaart, de verandering van het klimaat met periode van extreme droogte en neerslag en door de toenemende en nieuwe verontreinigingen van het milieu en daarmee het oppervlakte- en grondwater. Deze ontwikkelingen vereisen een duurzame oplossing.
 
@@ -1880,7 +1884,7 @@ Dit hoofddoel is vertaald in vier subdoelen:
 
 ## Bijlage 8.1
 
-### Behorende bij de [artikelen 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=2&artikel=8.2&z=2009-04-06&g=2009-04-06), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.8&z=2009-04-06&g=2009-04-06) en [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.9&z=2009-04-06&g=2009-04-06)
+### Behorende bij de [artikelen 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=2&artikel=8.2&z=2009-05-15&g=2009-05-15), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.8&z=2009-05-15&g=2009-05-15) en [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=8&paragraaf=3&artikel=8.9&z=2009-05-15&g=2009-05-15)
 
 Nederland heeft een sterke maritieme sector. Deze sector omvat een aantal belangrijke wereldspelers in de offshore en de maritieme maakindustrie, een groot aantal kleine bedrijven en enkele internationaal bekende kennisinstituten. De sector vormt als cluster binnen Nederland een goed georganiseerd geheel waarin zowel wetenschappelijke kennis, toepassingskennis als commerciële kennis van de wereldmarkt wordt verenigd. De maritieme cluster is een onderdeel van het zogenaamd sleutelgebied ‘Water’, zoals gedefinieerd door het Nederlandse Innovatieplatform.
 
@@ -1922,13 +1926,13 @@ In het eerste deelprogramma gaat het voornamelijk om de ontwikkeling van platfor
 
 ### Behorende bij de [artikelen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.2&z=2009-03-01&g=2009-03-01), [9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2009-03-01&g=2009-03-01), [9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2009-03-01&g=2009-03-01), [9.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.13&z=2009-03-01&g=2009-03-01) en [9.21](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.21&z=2009-03-01&g=2009-03-01)
 
-### Behorende bij de [artikelen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.2&z=2009-04-06&g=2009-04-06), [9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2009-04-06&g=2009-04-06), [9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2009-04-06&g=2009-04-06), [9.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.13&z=2009-04-06&g=2009-04-06) en [9.21](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.21&z=2009-04-06&g=2009-04-06)
+### Behorende bij de [artikelen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.2&z=2009-05-15&g=2009-05-15), [9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2009-05-15&g=2009-05-15), [9.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2009-05-15&g=2009-05-15), [9.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=3&artikel=9.13&z=2009-05-15&g=2009-05-15) en [9.21](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&paragraaf=4&artikel=9.21&z=2009-05-15&g=2009-05-15)
 
 ### Point One Phase 2
 
 [Hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&z=2009-03-01&g=2009-03-01) van de regeling sterktes in innovatie vormt een onderdeel van een breder programma ter versterking van de innovatie en de economische positie op het gebied van nano-elektronica, mechatronica en embedded systems, bekend onder de naam Point One. Het is een vervolg op de Point One Boegbeeld regelingen in de jaren 2006 t/m 2008
 
-[Hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&z=2009-04-06&g=2009-04-06) van de regeling sterktes in innovatie vormt een onderdeel van een breder programma ter versterking van de innovatie en de economische positie op het gebied van nano-elektronica, mechatronica en embedded systems, bekend onder de naam Point One. Het is een vervolg op de Point One Boegbeeld regelingen in de jaren 2006 t/m 2008
+[Hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=9&z=2009-05-15&g=2009-05-15) van de regeling sterktes in innovatie vormt een onderdeel van een breder programma ter versterking van de innovatie en de economische positie op het gebied van nano-elektronica, mechatronica en embedded systems, bekend onder de naam Point One. Het is een vervolg op de Point One Boegbeeld regelingen in de jaren 2006 t/m 2008
 
 Een beter gebruik van elkaars kwaliteiten en expertise levert op termijn veel meer rendement en slagkracht op dan de grote investeringen die de publieke en private partijen nu doen. Hetzelfde geldt voor het opereren vanuit een internationaal onderscheidende focus en een heldere strategie. Een zwaartepunt binnen de regeling is het beter benutten van het innovatief potentieel van het MKB en het beter betrekken van het MKB in nationale en internationale netwerken.
 
@@ -1966,7 +1970,7 @@ De vertraging die door deze fundingssystematiek wordt veroorzaakt doet afbreuk a
 
 ### Behorende bij de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=1&artikel=10.1&z=2009-03-01&g=2009-03-01), [10.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=3&artikel=10.13&z=2009-03-01&g=2009-03-01) en [10.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=4&artikel=10.20&z=2009-03-01&g=2009-03-01)
 
-### Behorende bij de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=1&artikel=10.1&z=2009-04-06&g=2009-04-06), [10.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=3&artikel=10.13&z=2009-04-06&g=2009-04-06) en [10.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=4&artikel=10.20&z=2009-04-06&g=2009-04-06)
+### Behorende bij de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=1&artikel=10.1&z=2009-05-15&g=2009-05-15), [10.13](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=3&artikel=10.13&z=2009-05-15&g=2009-05-15) en [10.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10&paragraaf=4&artikel=10.20&z=2009-05-15&g=2009-05-15)
 
 De Subsidieregeling Polymeren-module van de Experimentele kaderregeling subsidies innovatieprojecten maakt onderdeel uit van het Polymeren Innovatie Programma.
 
@@ -2040,7 +2044,7 @@ De penvoerder is een ondernemer.
 
 ## Bijlage 4.1
 
-### Behorende bij [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2009-04-06&g=2009-04-06)
+### Behorende bij [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2009-05-15&g=2009-05-15)
 
 Zweden
 
@@ -2066,7 +2070,7 @@ Driving guidance betreft begeleiding- en informatiesystemen voor de verbetering 
 
 ## Bijlage 6.2
 
-### Behorende bij [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2009-04-06&g=2009-04-06)
+### Behorende bij [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2009-05-15&g=2009-05-15)
 
 ## Bijlage 7.1
 
@@ -2152,4 +2156,4 @@ Deze thema’s zijn:
 
 Ligt ter inzage bij SenterNovem te Den Haag.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2009-04-06&g=2009-04-06), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2009-04-06&g=2009-04-06), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2009-04-06&g=2009-04-06) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2009-04-06&g=2009-04-06), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2009-05-15&g=2009-05-15), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2009-05-15&g=2009-05-15), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2009-05-15&g=2009-05-15) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2009-05-15&g=2009-05-15), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
