@@ -4,7 +4,7 @@ identifier: "BWBV0001527"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-05-19"
-last_updated: "1997-06-19"
+last_updated: "2009-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001527"
 soort: "verdrag"
@@ -102,7 +102,7 @@ en dat hij aansprakelijk kan worden gesteld voor medeplichtigheid aan of het uit
 
 ##### Artikel 4. Sancties tegen rechtspersonen
 
-1. Elke lidstaat neemt de nodige maatregelen om tegen een rechtspersoon die volgens [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=3&z=1997-06-19&g=1997-06-19), aansprakelijk is verklaard, sancties te kunnen treffen die doeltreffend, evenredig en afschrikkend zijn; deze sancties omvatten al dan niet strafrechtelijke geldboetes en kunnen andere maatregelen omvatten, zoals:
+1. Elke lidstaat neemt de nodige maatregelen om tegen een rechtspersoon die volgens [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=3&z=2009-05-19&g=2009-05-19), aansprakelijk is verklaard, sancties te kunnen treffen die doeltreffend, evenredig en afschrikkend zijn; deze sancties omvatten al dan niet strafrechtelijke geldboetes en kunnen andere maatregelen omvatten, zoals:
 
 - a. de uitsluiting van het voordeel van een gunstige regeling van de overheid of van overheidssteun;
 
@@ -112,7 +112,7 @@ en dat hij aansprakelijk kan worden gesteld voor medeplichtigheid aan of het uit
 
 - d. een gerechtelijke maatregel tot liquidatie.
 
-2. Elke lidstaat neemt de nodige maatregelen om tegen een rechtspersoon die volgens [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=3&z=1997-06-19&g=1997-06-19), aansprakelijk is verklaard, sancties of maatregelen te kunnen treffen die doeltreffend, evenredig en afschrikkend zijn.
+2. Elke lidstaat neemt de nodige maatregelen om tegen een rechtspersoon die volgens [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=3&z=2009-05-19&g=2009-05-19), aansprakelijk is verklaard, sancties of maatregelen te kunnen treffen die doeltreffend, evenredig en afschrikkend zijn.
 
 ##### Artikel 5. Confiscatie
 
@@ -132,17 +132,17 @@ Te dien einde verleent de Commissie de technische en operationele bijstand die d
 
 ##### Artikel 8. Verantwoordelijkheid van de Commissie voor gegevensbescherming
 
-De Commissie zorgt ervoor dat zij in het kader van de uitwisseling van gegevens uit hoofde van [artikel 7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=7&z=1997-06-19&g=1997-06-19), bij de verwerking van persoonsgegevens een beschermingsniveau in acht neemt dat gelijkwaardig is aan het beschermingsniveau in [Richtlijn 95/46/EG](31995L0046) van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens.1)PB nr. L 281 van 23.11.1995, blz. 31.
+De Commissie zorgt ervoor dat zij in het kader van de uitwisseling van gegevens uit hoofde van [artikel 7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=7&z=2009-05-19&g=2009-05-19), bij de verwerking van persoonsgegevens een beschermingsniveau in acht neemt dat gelijkwaardig is aan het beschermingsniveau in [Richtlijn 95/46/EG](31995L0046) van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens.1)PB nr. L 281 van 23.11.1995, blz. 31.
 
 ##### Artikel 9. Bekendmaking van voorschriften inzake gegevensbescherming
 
-De voorschriften die zijn vastgesteld betreffende de verplichtingen uit hoofde van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=8&z=1997-06-19&g=1997-06-19) worden gepubliceerd in het Publicatieblad van de Europese Gemeenschappen.
+De voorschriften die zijn vastgesteld betreffende de verplichtingen uit hoofde van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=8&z=2009-05-19&g=2009-05-19) worden gepubliceerd in het Publicatieblad van de Europese Gemeenschappen.
 
 ##### Artikel 10. Verstrekking van gegevens aan andere lidstaten en derde landen
 
-1. Onverminderd de in [artikel 7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=7&z=1997-06-19&g=1997-06-19), bedoelde voorwaarden kan de Commissie persoonsgegevens die zij in de uitoefening van haar functies uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=7&z=1997-06-19&g=1997-06-19) van een lidstaat heeft verkregen, overdragen aan iedere andere lidstaat. De Commissie stelt de lidstaat die de informatie heeft verstrekt in kennis van haar voornemen die gegevens over te dragen.
+1. Onverminderd de in [artikel 7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=7&z=2009-05-19&g=2009-05-19), bedoelde voorwaarden kan de Commissie persoonsgegevens die zij in de uitoefening van haar functies uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=7&z=2009-05-19&g=2009-05-19) van een lidstaat heeft verkregen, overdragen aan iedere andere lidstaat. De Commissie stelt de lidstaat die de informatie heeft verstrekt in kennis van haar voornemen die gegevens over te dragen.
 
-2. De Commissie kan onder dezelfde voorwaarden persoonsgegevens die zij in de uitoefening van haar functies uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=7&z=1997-06-19&g=1997-06-19) van een lidstaat heeft gekregen, overdragen aan ieder derde land mits de lidstaat die de informatie heeft verstrekt, met die overdracht heeft ingestemd.
+2. De Commissie kan onder dezelfde voorwaarden persoonsgegevens die zij in de uitoefening van haar functies uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=7&z=2009-05-19&g=2009-05-19) van een lidstaat heeft gekregen, overdragen aan ieder derde land mits de lidstaat die de informatie heeft verstrekt, met die overdracht heeft ingestemd.
 
 ##### Artikel 11. Toezichthoudende instantie
 
@@ -150,13 +150,13 @@ Iedere instantie die wordt aangewezen of ingesteld met het oog op het uitoefenen
 
 ##### Artikel 12. Verhouding tot de overeenkomst
 
-1. Het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=5) en [6 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=6) is tevens van toepassing op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=2&z=1997-06-19&g=1997-06-19) van dit protocol bedoelde gedragingen.
+1. Het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=5) en [6 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=6) is tevens van toepassing op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=2&z=2009-05-19&g=2009-05-19) van dit protocol bedoelde gedragingen.
 
 2. De volgende bepalingen van de overeenkomst zijn tevens van toepassing op dit protocol:
 
-- –. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=4), met dien verstande dat tenzij anders vermeld bij de in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=16&z=1997-06-19&g=1997-06-19), van dit protocol bedoelde kennisgeving, elke verklaring in de zin van [artikel 4, lid 2, van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=4), eveneens van toepassing is op dit protocol;
+- –. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=4), met dien verstande dat tenzij anders vermeld bij de in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=16&z=2009-05-19&g=2009-05-19), van dit protocol bedoelde kennisgeving, elke verklaring in de zin van [artikel 4, lid 2, van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=4), eveneens van toepassing is op dit protocol;
 
-- –. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=7), met dien verstande dat het „ne bis in idem”-beginsel ook van toepassing is op rechtspersonen, en dat, tenzij anders vermeld bij de in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=16&z=1997-06-19&g=1997-06-19), van dit protocol bedoelde kennisgeving, elke verklaring in de zin van [artikel 7, lid 2, van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=7) eveneens van toepassing is op dit protocol;
+- –. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=7), met dien verstande dat het „ne bis in idem”-beginsel ook van toepassing is op rechtspersonen, en dat, tenzij anders vermeld bij de in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=16&z=2009-05-19&g=2009-05-19), van dit protocol bedoelde kennisgeving, elke verklaring in de zin van [artikel 7, lid 2, van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=7) eveneens van toepassing is op dit protocol;
 
 - –. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=9);
 
@@ -168,9 +168,9 @@ Iedere instantie die wordt aangewezen of ingesteld met het oog op het uitoefenen
 
 Indien binnen zes maanden geen oplossing is gevonden, kan de zaak door een bij het geschil betrokken partij aan het Hof van Justitie worden voorgelegd.
 
-2. Ieder geschil tussen een of meer lidstaten en de Commissie betreffende de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=2&z=1997-06-19&g=1997-06-19) in samenhang met [artikel 1, onder e)](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=1&z=1997-06-19&g=1997-06-19), en de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=7&z=1997-06-19&g=1997-06-19), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=8&z=1997-06-19&g=1997-06-19), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=10&z=1997-06-19&g=1997-06-19) en [12, lid 2, vierde streepje](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=12&z=1997-06-19&g=1997-06-19), van dit protocol, dat niet door onderhandeling kon worden opgelost, kan aan het Hof van Justitie van de Europese Gemeenschappen worden voorgelegd, na het verstrijken van een periode van zes maanden na de datum waarop een van de partijen de andere partij van het bestaan van een geschil in kennis heeft gesteld.
+2. Ieder geschil tussen een of meer lidstaten en de Commissie betreffende de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=2&z=2009-05-19&g=2009-05-19) in samenhang met [artikel 1, onder e)](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=1&z=2009-05-19&g=2009-05-19), en de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=7&z=2009-05-19&g=2009-05-19), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=8&z=2009-05-19&g=2009-05-19), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=10&z=2009-05-19&g=2009-05-19) en [12, lid 2, vierde streepje](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=12&z=2009-05-19&g=2009-05-19), van dit protocol, dat niet door onderhandeling kon worden opgelost, kan aan het Hof van Justitie van de Europese Gemeenschappen worden voorgelegd, na het verstrijken van een periode van zes maanden na de datum waarop een van de partijen de andere partij van het bestaan van een geschil in kennis heeft gesteld.
 
-3. Het [protocol opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie betreffende de prejudiciële uitlegging, door het Hof van Justitie van de Europese Gemeenschappen, van de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen](https://wetten.overheid.nl/jci1.3:c:BWBV0001474) van 29 november 1996 1)PB nr. C 151 van 20.05.1997, blz. 1.is van toepassing op het onderhavige protocol, met dien verstande dat een door een lidstaat ingevolge [artikel 2 van dat protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001474&artikel=2) afgelegde verklaring ook geldt voor het onderhavige protocol, tenzij de betrokken lidstaat een tegengestelde verklaring aflegt bij de in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=16&z=1997-06-19&g=1997-06-19), van het onderhavige protocol bedoelde kennisgeving. is van toepassing op het onderhavige protocol, met dien verstande dat een door een lidstaat ingevolge [artikel 2 van dat protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001474&artikel=2) afgelegde verklaring ook geldt voor het onderhavige protocol, tenzij de betrokken lidstaat een tegengestelde verklaring aflegt bij de in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=16&z=1997-06-19&g=1997-06-19), van het onderhavige protocol bedoelde kennisgeving.
+3. Het [protocol opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie betreffende de prejudiciële uitlegging, door het Hof van Justitie van de Europese Gemeenschappen, van de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen](https://wetten.overheid.nl/jci1.3:c:BWBV0001474) van 29 november 1996 1)PB nr. C 151 van 20.05.1997, blz. 1.is van toepassing op het onderhavige protocol, met dien verstande dat een door een lidstaat ingevolge [artikel 2 van dat protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001474&artikel=2) afgelegde verklaring ook geldt voor het onderhavige protocol, tenzij de betrokken lidstaat een tegengestelde verklaring aflegt bij de in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=16&z=2009-05-19&g=2009-05-19), van het onderhavige protocol bedoelde kennisgeving. is van toepassing op het onderhavige protocol, met dien verstande dat een door een lidstaat ingevolge [artikel 2 van dat protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001474&artikel=2) afgelegde verklaring ook geldt voor het onderhavige protocol, tenzij de betrokken lidstaat een tegengestelde verklaring aflegt bij de in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=16&z=2009-05-19&g=2009-05-19), van het onderhavige protocol bedoelde kennisgeving.
 
 ##### Artikel 14. Niet-contractuele aansprakelijkheid
 
@@ -178,7 +178,7 @@ Voor de toepassing van dit protocol wordt de niet-contractuele aansprakelijkheid
 
 ##### Artikel 15. Rechterlijke toetsing
 
-1. Het Hof van Justitie is bevoegd met betrekking tot beroepen die door een natuurlijke of rechtspersoon worden ingesteld tegen een besluit van de Commissie dat tot die persoon is gericht of dat hem of haar rechtstreeks en individueel raakt, op grond van een schending van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=8&z=1997-06-19&g=1997-06-19) of enig ingevolge daarvan vastgesteld voorschrift, of van misbruik van bevoegdheden.
+1. Het Hof van Justitie is bevoegd met betrekking tot beroepen die door een natuurlijke of rechtspersoon worden ingesteld tegen een besluit van de Commissie dat tot die persoon is gericht of dat hem of haar rechtstreeks en individueel raakt, op grond van een schending van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=8&z=2009-05-19&g=2009-05-19) of enig ingevolge daarvan vastgesteld voorschrift, of van misbruik van bevoegdheden.
 
 2. De artikelen 168 A, leden 1 en 2, [173, vijfde alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=173), [174, eerste alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=174), [176, eerste en tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=176), [185](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=185) en [186 van het Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=186), alsmede het statuut van het Hof van Justitie (van de Europese Gemeenschap), zijn mutatis mutandis van toepassing.
 
@@ -190,7 +190,7 @@ Voor de toepassing van dit protocol wordt de niet-contractuele aansprakelijkheid
 
 3. Dit protocol treedt in werking negentig dagen na de in lid 2 bedoelde kennisgeving door de staat die, op de datum van aanneming van de akte tot vaststelling van het protocol lid zijnde van de Europese Unie, als laatste daartoe overgaat. Indien de overeenkomst evenwel op die datum nog niet in werking is getreden, treedt dit protocol in werking op de datum van inwerkingtreding van de overeenkomst.
 
-4. De toepassing van [artikel 7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=7&z=1997-06-19&g=1997-06-19), wordt evenwel opgeschort indien en zolang de terzake bevoegde instelling van de Europese Gemeenschappen niet heeft voldaan aan haar verplichting de voorschriften inzake gegevensbescherming uit hoofde van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=9&z=1997-06-19&g=1997-06-19) bekend te maken, of niet voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=11&z=1997-06-19&g=1997-06-19) betreffende de toezichthoudende instantie.
+4. De toepassing van [artikel 7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=7&z=2009-05-19&g=2009-05-19), wordt evenwel opgeschort indien en zolang de terzake bevoegde instelling van de Europese Gemeenschappen niet heeft voldaan aan haar verplichting de voorschriften inzake gegevensbescherming uit hoofde van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=9&z=2009-05-19&g=2009-05-19) bekend te maken, of niet voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=11&z=2009-05-19&g=2009-05-19) betreffende de toezichthoudende instantie.
 
 ##### Artikel 17. Toetreding van nieuwe lidstaten
 
@@ -204,11 +204,11 @@ Voor de toepassing van dit protocol wordt de niet-contractuele aansprakelijkheid
 
 ##### Artikel 18. Voorbehouden
 
-1. Elke lidstaat kan zich het recht voorbehouden om het witwassen van geld met betrekking tot de opbrengsten van actieve en passieve corruptie alleen strafbaar te stellen in ernstige gevallen van actieve of passieve corruptie. Een lidstaat die een dergelijk voorbehoud maakt, dient de depositaris daarvan in kennis te stellen, en bij de in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=16&z=1997-06-19&g=1997-06-19), bedoelde kennisgeving bijzonderheden te verschaffen betreffende de reikwijdte van het voorbehoud. Een dergelijk voorbehoud geldt voor een periode van vijf jaar vanaf de datum van genoemde kennisgeving, en kan eenmaal voor nogmaals vijf jaar worden verlengd.
+1. Elke lidstaat kan zich het recht voorbehouden om het witwassen van geld met betrekking tot de opbrengsten van actieve en passieve corruptie alleen strafbaar te stellen in ernstige gevallen van actieve of passieve corruptie. Een lidstaat die een dergelijk voorbehoud maakt, dient de depositaris daarvan in kennis te stellen, en bij de in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=16&z=2009-05-19&g=2009-05-19), bedoelde kennisgeving bijzonderheden te verschaffen betreffende de reikwijdte van het voorbehoud. Een dergelijk voorbehoud geldt voor een periode van vijf jaar vanaf de datum van genoemde kennisgeving, en kan eenmaal voor nogmaals vijf jaar worden verlengd.
 
-2. De Republiek Oostenrijk kan, bij de in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=16&z=1997-06-19&g=1997-06-19), bedoelde kennisgeving, verklaren dat zij niet gebonden is door de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=3&z=1997-06-19&g=1997-06-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=4&z=1997-06-19&g=1997-06-19). De geldigheid van deze verklaring eindigt vijf jaar na de datum van aanneming van de akte waarbij het onderhavige protocol is vastgesteld.
+2. De Republiek Oostenrijk kan, bij de in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=16&z=2009-05-19&g=2009-05-19), bedoelde kennisgeving, verklaren dat zij niet gebonden is door de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=3&z=2009-05-19&g=2009-05-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=4&z=2009-05-19&g=2009-05-19). De geldigheid van deze verklaring eindigt vijf jaar na de datum van aanneming van de akte waarbij het onderhavige protocol is vastgesteld.
 
-3. Er kunnen geen andere voorbehouden worden gemaakt, met uitzondering van die bedoeld in [artikel 12, lid 2, eerste en tweede streepje](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=12&z=1997-06-19&g=1997-06-19).
+3. Er kunnen geen andere voorbehouden worden gemaakt, met uitzondering van die bedoeld in [artikel 12, lid 2, eerste en tweede streepje](https://wetten.overheid.nl/jci1.3:c:BWBV0001527&artikel=12&z=2009-05-19&g=2009-05-19).
 
 ##### Artikel 19. Depositaris
 
