@@ -155,9 +155,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 Deze regeling wordt aangehaald als: Regeling fusie- en splitsingtoets BVE.
 
 Deze regeling en de toelichting zal in de Staatscourant worden geplaatst.
-
-##### Artikel 8a. Grondslag
-
-Deze regeling berust op [artikel 2.1.4, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.4).
-
-Deze regeling en de toelichting zal in de Staatscourant worden geplaatst.
