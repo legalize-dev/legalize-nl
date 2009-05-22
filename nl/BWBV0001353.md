@@ -4,7 +4,7 @@ identifier: "BWBV0001353"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-05-22"
-last_updated: "2006-05-21"
+last_updated: "2009-05-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001353"
 soort: "verdrag"
@@ -406,17 +406,19 @@ Betalingen die een student of een voor een beroep of bedrijf in opleiding zijnde
 
 4. In Estland wordt dubbele belasting als volgt vermeden:
 
-- a. Indien een inwoner van Estland inkomen verkrijgt dat in overeenstemming met de bepalingen van dit Verdrag in Nederland mag worden belast, stelt Estland dat inkomen in overeenstemming met het bepaalde in de onderdelen b en c vrij van belasting.
+- a. Indien een inwoner van Estland inkomen verkrijgt dat in overeenstemming met de bepalingen van dit Verdrag in Nederland mag worden belast, stelt Estland dat inkomen, onder voorbehoud van het bepaalde in de onderdelen b) en c), vrij van belasting.
 
-- b. Indien een inwoner van Estland inkomen verkrijgt of vermogen bezit dat in overeenstemming met het bepaalde in:
+- b. Indien een inwoner van Estland inkomen verkrijgt of vermogen bezit dat in overeenstemming met het bepaalde in: in Nederland mag worden belast, verleent Estland als een aftrek op de belasting naar het inkomen of naar het vermogen van die inwoner een bedrag gelijk aan de belasting betaald in Nederland. In elk van beide gevallen overschrijdt deze aftrek echter niet dat deel van de inkomstenbelasting of de vermogensbelasting in Estland, zoals berekend voordat de aftrek is verleend, dat toerekenbaar is aan het inkomen of het vermogen dat in Nederland mag worden belast.
 
 - i. artikel 10, tweede lid, onderdeel b; of
 
 - ii. artikel 11, tweede lid, of artikel 12, tweede lid; of
 
-- iii. artikel 23, eerste of tweede lid in Nederland mag worden belast, verleent Estland als een aftrek op de belasting naar het inkomen of naar het vermogen van die inwoner een bedrag gelijk aan de belasting betaald in Nederland. Deze aftrek bedraagt in beide gevallen echter niet meer dan het gedeelte van de inkomstenbelasting of de vermogensbelasting, zoals berekend voordat de aftrek is verleend, dat toerekenbaar is aan het inkomen of het vermogen dat in Nederland mag worden belast.
+- iii. artikel 17, eerste of tweede lid; of
 
-- c. Indien inkomen verkregen door een inwoner van Estland volgens een bepaling van het Verdrag in Estland van belasting is vrijgesteld, mag Estland niettemin bij de berekening van het bedrag van de belasting over het resterende inkomen van die inwoner, het vrijgestelde inkomen in aanmerking nemen.
+- iv. artikel 23, eerste of tweede lid
+
+- c. Indien inkomen verkregen door een inwoner van Estland in overeenstemming met een bepaling van het Verdrag in Estland van belasting is vrijgesteld, mag Estland niettemin bij de berekening van het bedrag van de belasting over het resterende inkomen van die inwoner, het vrijgestelde inkomen in aanmerking nemen.
 
 Voor de toepassing van dit lid worden de belastingen genoemd in artikel 2, derde lid, onderdeel a, en vierde lid, anders dan de vermogensbelasting, beschouwd als inkomstenbelasting.
 
