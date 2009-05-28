@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2009-01-11"
+last_updated: "2009-05-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -310,8 +310,10 @@ De hulptekens die bij de vermelding van de subcodes mogen worden gebruikt zijn:
 
 Bestuurder, houder van het getuigschrift, voldoet tot de achter de code vermelde einddatum aan de vakbekwaamheidsvereisten, bedoeld in de richtlijn vakbekwaamheid bestuurders (richtlijn 2003/59/EG) (bijvoorbeeld: 95.01.01.2012).
 
-100. Alleen tijdens privé-gebruik
+- 100. Alleen tijdens privé-gebruik
 
-101. Tijdens privé-gebruik, en tijdens beroepsmatig gebruik, niet zijnde vervoer van personen of het onder toezicht doen besturen van derden, voor maximaal vier uren per dag.
+- 101. Tijdens privé-gebruik, en tijdens beroepsmatig gebruik, niet zijnde vervoer van personen of het onder toezicht doen besturen van derden, voor maximaal vier uren per dag
+
+- 102. Met gebruik van een monoculair bioptisch telescoopsysteem
 
 Deze regeling zal worden geplaatst in de Staatscourant.
