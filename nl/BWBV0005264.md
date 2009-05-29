@@ -4,7 +4,7 @@ identifier: "BWBV0005264"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-04-01"
-last_updated: "2008-12-15"
+last_updated: "2009-05-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005264"
 soort: "verdrag"
@@ -3671,7 +3671,13 @@ Het overleg begint uiterlijk 30 dagen na de datum van het verzoek; de duur ervan
 
 ##### Artikel 1
 
-De financieringsvoorwaarden voor maatregelen in het kader van de Investeringsfaciliteit, leningen uit de eigen middelen van de Europese Investeringsbank en speciale maatregelen worden in dit hoofdstuk vastgesteld. Deze middelen worden verstrekt aan daarvoor in aanmerking komende ondernemingen, direct dan wel indirect, via daarvoor in aanmerking komende investeringsfondsen en/of financiële tussenpersonen.
+1. De financieringsvoorwaarden voor maatregelen in het kader van de Investeringsfaciliteit, leningen uit de eigen middelen van de Europese Investeringsbank en speciale maatregelen worden in dit hoofdstuk vastgesteld. Deze middelen worden verstrekt aan daarvoor in aanmerking komende ondernemingen, direct dan wel indirect, via daarvoor in aanmerking komende investeringsfondsen en/of financiële tussenpersonen.
+
+2. Middelen voor rentesubsidies, als bedoeld in deze bijlage, worden beschikbaar gesteld uit de toewijzing voor rentesubsidies als bepaald in [bijlage I b, lid 2, onder c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=I_Bis&z=2009-05-29&g=2009-05-29).
+
+3. Rentesubsidies kunnen worden gekapitaliseerd of gebruikt in de vorm van niet-terugvorderbare hulp. Het bedrag van de rentesubsidie wordt, na berekening van de waarde op het tijdstip van de overboeking van de lening, afgeboekt op het bedrag van de toewijzing voor rentesubsidies als bepaald in [bijlage I b, lid 2, onder c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=I_Bis&z=2009-05-29&g=2009-05-29), en rechtstreeks overgemaakt aan de Bank. Maximaal 10% van deze toewijzing voor rentesubsidies mag ook worden gebruikt voor de ondersteuning van projectgerelateerde technische bijstand in ACS-landen.
+
+4. Deze voorwaarden gelden onverminderd de voorwaarden die kunnen worden opgelegd aan ACS-landen waarvoor beperkende leningsvoorwaarden gelden in het kader van het initiatief voor arme landen met een zware schuldenlast („HIPC”) of een andere internationaal overeengekomen regeling voor de houdbaarheid van de schuldenlast. Wanneer dergelijke regelingen een reductie vereisen van het rentetarief voor leningen met meer dan 3%, zoals is toegestaan krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=1&artikel=2&z=2009-05-29&g=2009-05-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=1&artikel=4&z=2009-05-29&g=2009-05-29) van dit hoofdstuk, tracht de Bank de gemiddelde kosten van de middelen door passende medefinanciering met andere donoren te verminderen. Indien dit niet mogelijk wordt geacht, kan de rentevoet van de banklening zodanig worden verlaagd dat deze overeenstemt met het niveau in het kader van het HIPC-initiatief of een internationaal overeengekomen regeling voor de houdbaarheid van de schuldenlast.
 
 ##### Artikel 2. Middelen van de Investeringsfaciliteit
 
@@ -3707,15 +3713,13 @@ De financieringsvoorwaarden voor maatregelen in het kader van de Investeringsfac
 
 6. De rentevoet van gewone leningen omvat een referentietarief dat door de Bank wordt toegepast voor vergelijkbare leningen waarvoor dezelfde voorwaarden gelden inzake aflossingsvrije periode en periode van aflossing, alsmede een door de Bank vastgestelde opwaardering.
 
-7. Voor gewone leningen gelden in de volgende gevallen concessionele voorwaarden:
+7. Voor gewone leningen in landen waarvoor geen beperkende leningsvoorwaarden gelden in het kader van het HIPC-initiatief of een andere internationaal overeengekomen regeling voor de houdbaarheid van de schuldenlast, gelden in de volgende gevallen concessionele voorwaarden:
 
-- a. in het geval van infrastructuurprojecten in de minst ontwikkelde landen of in landen die zich in een post-conflictsituatie of een situatie na een natuurramp bevinden – andere dan die bedoeld onder b –, wanneer die projecten een essentiële voorwaarde zijn voor de ontwikkeling van de particuliere sector. In deze gevallen wordt de rentevoet van de lening met 3% verlaagd;
+- a. in het geval van infrastructuurprojecten die een voorwaarde zijn voor de ontwikkeling van de particuliere sector in de minst ontwikkelde landen, in landen die zich in een post-conflictsituatie bevinden of door een natuurramp zijn getroffen. In deze gevallen wordt de rentevoet van de lening verlaagd met maximaal 3%;
 
-- aa. in het geval van infrastructuurprojecten die worden uitgevoerd door op commerciële basis geleide overheidsinstanties, indien die pro-jecten noodzakelijk zijn voor de ontwikkeling van de particuliere sector in landen waarvoor beperkende leningsvoorwaarden gelden in het kader van het HIPC-initiatief of een ander internationaal overeengekomen regeling voor houdbaarheid van de schuldenlast. In dergelijke gevallen tracht de Bank de gemiddelde kosten van de middelen door passende medefinanciering met andere donoren te verminderen. Indien dit niet mogelijk wordt geacht, kan de rentevoet van de lening zodanig worden verlaagd dat overeenstemming wordt bereikt met het niveau in het kader van het HIPC-initiatief of een nieuwe internationaal overeengekomen regeling voor houdbaarheid van de schuldenlast;
+- b. in het geval van projecten die betrekking hebben op herstructureringsmaatregelen in het kader van privatisering of projecten met aanmerkelijke en duidelijk aantoonbare sociale of milieuvoordelen. In deze gevallen worden de leningen verstrekt met een rentesubsidie waarvan de omvang en vorm afhankelijk zijn van de bijzondere kenmerken van het project. De rentesubsidie bedraagt echter niet meer dan 3%.
 
-- b. in het geval van projecten die betrekking hebben op herstructureringsmaatregelen in het kader van privatisering of projecten met aanmerkelijke en duidelijk aantoonbare sociale of milieuvoordelen. In deze gevallen worden de leningen verstrekt met een rentesubsidie, waarvan de omvang en vorm afhankelijk zijn van de bijzondere kenmerken van het project. De rentesubsidie bedraagt echter niet meer dan 3%.
-
-De uiteindelijke rentevoet van leningen die onder het bepaalde onder a of c vallen, is in geen geval minder dan 50% van het referentietarief.
+De uiteindelijke rentevoet van leningen die onder a) of b) vallen, bedraagt in geen geval minder dan 50% van het referentietarief.
 
 8. De voor deze concessionele doeleinden ter beschikking gestelde middelen zijn afkomstig van de Investeringsfaciliteit en bedragen niet meer dan 5% van het totale bedrag dat wordt toegewezen voor de financiering van investeringen in het kader van de Investeringsfaciliteit en uit de eigen middelen van de Bank.
 
@@ -3749,17 +3753,15 @@ De uiteindelijke rentevoet van leningen die onder het bepaalde onder a of c vall
 
 2. Voor leningen uit de eigen middelen van de Bank gelden de volgende voorwaarden:
 
-- a. het referentie-rentetarief is het tarief dat door de Bank wordt toegepast voor leningen tegen dezelfde voorwaarden wat munteenheid en aflossingsperiode betreft op de dag van ondertekening van de overeenkomst of op de datum van overboeking;
+- a. het referentierentetarief is het tarief dat door de Bank wordt toegepast voor leningen tegen dezelfde voorwaarden wat munteenheid en aflossingsperiode betreft op de dag van ondertekening van de overeenkomst of op de datum van overboeking;
 
-- b. met dien verstande dat:
+- b. voor landen waarvoor geen beperkende leningsvoorwaarden gelden in het kader van het HIPC-initiatief of een andere internationaal overeengekomen regeling voor de houdbaarheid van de schuldenlast, geldt echter het volgende: De uiteindelijke rentevoet bedraagt in geen geval minder dan 50% van het referentietarief;
 
-- i. projecten in de overheidssector, in principe, in aanmerking komen voor een rentesubsidie van 3%;
+- i. projecten in de overheidssector komen in principe in aanmerking voor een rentesubsidie van maximaal 3%;
 
-- ii. projecten in de particuliere sector, vallende onder de categorieën gespecificeerd in artikel 2, lid 7, onder b, van deze bijlage, in aanmerking komen voor rentesubsidies onder dezelfde voorwaarden als die gespecificeerd in artikel 2, lid 7, onder b. De uiteindelijke rentevoet is in geen geval minder dan 50% van het referentietarief.
+- ii. projecten in de particuliere sector, vallende onder de categorieën gespecificeerd in [artikel 2, lid 7, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=1&artikel=2&z=2009-05-29&g=2009-05-29), komen in aanmerking voor rentesubsidies onder dezelfde voorwaarden als gespecificeerd in genoemde bepaling.
 
-- c. het bedrag van de rentesubsidie wordt, na berekening van de waarde op het tijdstip van de overboeking van de lening, afgeboekt op het bedrag van de toewijzing voor rentesubsidies in het kader van de Investeringsfaciliteit, zoals gedefinieerd in artikel 2, lid 8 en lid 9, en rechtstreeks overgemaakt aan de Bank; en
-
-- d. de aflossingsperiode van door de Bank uit eigen middelen verstrekte leningen wordt vastgesteld op basis van de economische en financiële kenmerken van het project, maar mag niet meer dan 25 jaar bedragen. Voor deze leningen geldt gewoonlijk een aflossingsvrije periode; deze wordt vastgesteld onder verwijzing naar de periode die voor de uitvoering van het project nodig is.
+- c. de aflossingsperiode van door de Bank uit eigen middelen verstrekte leningen wordt vastgesteld op basis van de economische en financiële kenmerken van het project. Voor deze leningen geldt gewoonlijk een aflossingsvrije periode, die wordt vastgesteld onder verwijzing naar de periode die voor de uitvoering van het project nodig is.
 
 3. Voor door de Bank uit eigen middelen gefinancierde investeringen in overheidsbedrijven kunnen van de betrokken ACS-staat specifieke projectgerelateerde garanties of verbintenissen worden verlangd.
 
@@ -3825,7 +3827,7 @@ Halverwege de looptijd en aan het einde van de looptijd van een financieel proto
 
 2. Het recht op aanvullende financiële middelen is van toepassing wanneer de in lid 1 omschreven daling van de exportopbrengsten ten minste 0,5% van het bbp bedraagt. Het recht op aanvullende financiële middelen is beperkt tot drie opeenvolgende jaren.
 
-3. De aanvullende financiële middelen worden opgenomen in de openbare rekeningen van het betrokken land. Zij worden gebruikt overeenkomstig de programmeringsregels en -methoden, inclusief de specifieke bepalingen van [bijlage IV „Procedures voor tenuitvoerlegging en beheer”](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&z=2008-12-15&g=2008-12-15), op basis van vooraf opgestelde overeenkomsten tussen de Gemeenschap en de betrokken ACS-staat in het jaar volgend op het toepassingsjaar. Bij overeenstemming tussen de partijen kunnen de middelen worden gebruikt voor financiering van in de nationale begroting opgenomen programma’s. Een deel van de aanvullende financiële middelen kan evenwel worden bestemd voor specifieke sectoren, met name voor de ontwikkeling van commerciële verzekeringsregelingen die bescherming bieden tegen fluctuaties van exportopbrengsten.
+3. De aanvullende financiële middelen worden opgenomen in de openbare rekeningen van het betrokken land. Zij worden gebruikt overeenkomstig de programmeringsregels en -methoden, inclusief de specifieke bepalingen van [bijlage IV „Procedures voor tenuitvoerlegging en beheer”](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&z=2009-05-29&g=2009-05-29), op basis van vooraf opgestelde overeenkomsten tussen de Gemeenschap en de betrokken ACS-staat in het jaar volgend op het toepassingsjaar. Bij overeenstemming tussen de partijen kunnen de middelen worden gebruikt voor financiering van in de nationale begroting opgenomen programma’s. Een deel van de aanvullende financiële middelen kan evenwel worden bestemd voor specifieke sectoren, met name voor de ontwikkeling van commerciële verzekeringsregelingen die bescherming bieden tegen fluctuaties van exportopbrengsten.
 
 ##### Artikel 10. Voorschotten
 
@@ -5857,9 +5859,9 @@ GEDAAN te Cotonou, de drieëntwintigste juni 2000.
 
 1. Het bedrag van de aanvullende financiële middelen is gelijk aan de daling van de exportopbrengsten vermenigvuldigd met het rekenkundig gemiddelde van de verhouding overheidsinkomsten/bruto binnenlands product in de vier aan het toepassingsjaar voorafgaande jaren, waarbij geen rekening wordt gehouden met de meest extreme waarde en het verhoudingscijfer ten hoogste 25% bedraagt.
 
-2. De door de ACS-staten verstrekte gegevens voor het bepalen van de toekenningscriteria en de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2008-12-15&g=2008-12-15) omschreven aanvullende financiële middelen worden door de Commissie geanalyseerd in de plaatselijke munteenheid, gecorrigeerd voor inflatie. De Commissie rekent vervolgens het potentiële bedrag van de aanvullende financiële middelen overeenkomstig haar procedures om in euro.
+2. De door de ACS-staten verstrekte gegevens voor het bepalen van de toekenningscriteria en de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2009-05-29&g=2009-05-29) omschreven aanvullende financiële middelen worden door de Commissie geanalyseerd in de plaatselijke munteenheid, gecorrigeerd voor inflatie. De Commissie rekent vervolgens het potentiële bedrag van de aanvullende financiële middelen overeenkomstig haar procedures om in euro.
 
-3. Binnen de totale toewijzing voor de nationale indicatieve programma’s stelt de Commissie jaarlijks voor alle ACS-staten een toewijzing vast voor steun in geval van kortetermijnfluctuaties van de exportopbrengsten. Indien het bedrag van de financiële middelen dat op basis van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2008-12-15&g=2008-12-15) vastgestelde criteria wordt berekend, hoger is dan die toewijzing, worden de nationale toewijzingen verdeeld naar verhouding van het in euro uitgedrukte potentiële bedrag van de aanvullende financiële middelen voor iedere ACS-staat.
+3. Binnen de totale toewijzing voor de nationale indicatieve programma’s stelt de Commissie jaarlijks voor alle ACS-staten een toewijzing vast voor steun in geval van kortetermijnfluctuaties van de exportopbrengsten. Indien het bedrag van de financiële middelen dat op basis van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2009-05-29&g=2009-05-29) vastgestelde criteria wordt berekend, hoger is dan die toewijzing, worden de nationale toewijzingen verdeeld naar verhouding van het in euro uitgedrukte potentiële bedrag van de aanvullende financiële middelen voor iedere ACS-staat.
 
 ##### Artikel 10. Voorschotten
 
