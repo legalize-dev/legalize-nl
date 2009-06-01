@@ -1,0 +1,199 @@
+---
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 mei 2009, nr. GMT/IB/2929135, houdende tegemoetkoming in kosten voor het ter beschikking stellen van een orgaan bij leven (Subsidieregeling donatie bij leven)"
+identifier: "BWBR0025870"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2009-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025870"
+soort: "ministeriele-regeling"
+stam_id: "10047823"
+version_id: "23542522"
+internal_id: "C33970111"
+label_id: "10024194"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025870/2024-01-01/0"
+intitule_bron: "Stcrt.2009-97"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-05-12"
+intitule_published: "2009-05-29"
+intitule_in_force: "2009-05-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-44145"
+original_signed_date: "2016-08-15"
+original_published_date: "2016-08-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2016-44145"
+entry_into_force_date: "2016-09-01"
+jci_1_3: "jci1.3:c:BWBR0025870&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0025870&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling donatie bij leven"
+signed_date: "2016-08-15"
+entry_into_force: "2016-09-01"
+---
+# Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 mei 2009, nr. GMT/IB/2929135, houdende tegemoetkoming in kosten voor het ter beschikking stellen van een orgaan bij leven (Subsidieregeling donatie bij leven)
+
+Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
+
+Besluit:
+
+##### Artikel 1
+
+In deze regeling wordt verstaan onder:
+
+- a. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+
+- b. **orgaan:** nier of deel van de lever;
+
+- c. **donatie:** met inachtneming van de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) bij leven een orgaan laten verwijderen ten behoeve van implantatie bij een bepaalde persoon;
+
+- d.
+
+- 1°. afname van bloedmonsters van de donor voor medisch vooronderzoek teneinde te bepalen of het orgaan van de donor geschikt kan zijn voor de ontvanger;
+
+- 2°. medewerking aan medische vervolgonderzoeken om nader te bepalen of het orgaan geschikt is voor de ontvanger en of de donor tot donatie in staat is;
+
+- 3°. eventuele behandeling van de donor die medisch noodzakelijk is voor de donatie;
+
+- e. **uitvoering van een donatie:** opname van de donor in het ziekenhuis ten behoeve van de operatieve verwijdering van het orgaan van de donor;
+
+- f. **herstel na een donatie:** periode na het ontslag uit het ziekenhuis totdat de donor naar medische maatstaven hersteld is van de operatieve verwijdering van het orgaan;
+
+- g. **donor:** natuurlijke persoon bij wie een orgaan verwijderd gaat worden, verwijderd wordt of verwijderd is in het kader van een donatie;
+
+- h. **peiljaar:** het kalenderjaar onmiddellijk voorafgaande aan het jaar waarin de donatie wordt uitgevoerd of, indien de belastbare inkomsten in dat jaar lager waren dan het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), vijf kalenderjaren onmiddellijk voorafgaande aan het jaar waarin de donatie wordt uitgevoerd.
+
+##### Artikel 2
+
+De minister kan aan een donor een subsidie verstrekken ten behoeve van de voorbereiding van, de uitvoering van of het herstel na een donatie.
+
+##### Artikel 3
+
+De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolge de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) tot de verzekerde prestaties behoort van de zorgverzekering van de ontvanger van het orgaan.
+
+##### Artikel 4
+
+1. De subsidie bestaat uit:
+
+- a. de gederfde belastbare inkomsten van de donor gedurende de voorbereiding van, de uitvoering van en het herstel na de donatie tot maximaal € 2.600 per week, berekend op basis van:
+
+- 1°. het belastbaar loon per week overeenkomstig de wettelijke bepalingen van de loonbelasting;
+
+- 2°. de gemiddelde belastbare winst uit onderneming per week in het peiljaar, bepaald volgens de regels van [afdeling 3.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.2);
+
+- 3°. het gemiddelde belastbaar resultaat uit overige werkzaamheden per week in het peiljaar, bepaald volgens de regels van [afdeling 3.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.4), met uitzondering van de in de [artikelen 3.91](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91) en [3.92 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92) bedoelde werkzaamheden;
+
+- 4°. in geval de donor niet een binnenlandse belastingplichtige is als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.1), de inkomsten die vergelijkbaar zijn met de hiervoor genoemde inkomensbestanddelen, waarbij acht wordt geslagen op [Hoofdstuk 7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7);
+
+- b. in geval de donor anders dan in dienstbetrekking, als zelfstandige of als beroepsbeoefenaar meewerkt in de onderneming van zijn echtgenoot of geregistreerde partner: de kosten van vervanging van de arbeidsinbreng van de donor gedurende de voorbereiding van, de uitvoering van en het herstel na de donatie door een persoon die ter beschikking wordt gesteld door een rechtspersoonlijkheid bezittende instelling met het statutaire doel arbeidskrachten ter beschikking te stellen;
+
+- c. de kosten voor zorg, andere diensten of huishoudelijke verzorging aan de donor, waar van toepassing op indicatie, verleend in het kader van de voorbereiding van, de uitvoering van en het herstel na de donatie, bestaande uit:
+
+- 1°. de eigen bijdrage en het eigen risico van de donor voor zorg of andere diensten verleend uit hoofde van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+
+- 2°. de eigen bijdrage van de donor voor huishoudelijke verzorging verleend uit hoofde van de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031);
+
+- 3°. de kosten van de donor voor medisch noodzakelijke zorg die aan de donor op schriftelijke medische indicatie is verleend en die niet valt onder de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+
+- d. de kosten van buitenlandse reizen per openbaar vervoer, per vliegtuig of per boot die de donor en één andere door de donor aangewezen persoon maken in het kader van de voorbereiding van, de uitvoering van en het herstel na een donatie, berekend op basis van maximaal de laagste klasse van het desbetreffende vervoermiddel;
+
+- e. een eenmalig bedrag ten behoeve van de binnenlandse reiskosten en de verblijfkosten van de door de donor aangewezen persoon gedurende de uitvoering van de donatie te bepalen volgens de onderstaande tabel:
+
+| afstand woning persoon tot ziekenhuis waar donatie plaatsvindt | per dag dat donor in het ziekenhuis is opgenomen |
+| --- | --- |
+| 0 tot 10 km | € 5 |
+| 10 tot 50 km | € 20 |
+| 50 tot 100 km | € 32 |
+| 100 tot 150 km | € 42 |
+| 150 km of meer | € 48 |
+
+- f. de kosten van de donor voor het opvangen en verzorgen van personen voor wie de donor de zorg draagt gedurende de uitvoering van en het herstel na een donatie voor zover die kosten de gebruikelijke kosten van de donor voor die opvang en verzorging te boven gaan;
+
+- g. uitsluitend in geval de donatie buiten het woonland van de donor wordt uitgevoerd een bedrag van € 8 per etmaal dat de donor in het kader van de voorbereiding van of het herstel na de donatie, tot uiterlijk 13 weken, dan wel 26 weken in geval van een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd, buiten een zorginstelling verblijft in het land waar de donatie wordt uitgevoerd, vermeerderd met een eenmalig bedrag van € 250 indien de donor woonachtig is buiten Europa;
+
+- h. ten behoeve van overige kosten een eenmalig bedrag van € 160 in geval van nierdonatie, € 180 in geval van leverdonatie of € 100 in geval donatie niet heeft plaatsgevonden maar wel is gestart met de uitvoering van een donatie.
+
+2. De kosten, bedoeld in het eerste lid, onderdelen a, b, c, d en f, komen uitsluitend voor subsidie in aanmerking voor zover de donor die kosten noodzakelijkerwijs heeft gemaakt als rechtstreeks gevolg van de voorbereiding van, de uitvoering van of het herstel na een donatie in de periode die eindigt uiterlijk 13 weken, dan wel 26 weken in geval van een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd en voor zover de donor niet enige andere bijdrage in die kosten heeft ontvangen, heeft kunnen ontvangen of kan ontvangen.
+
+##### Artikel 5
+
+1. De subsidie wordt op aanvraag verstrekt.
+
+2. De aanvraag van de subsidie wordt ingediend uiterlijk een jaar na ontslag uit het ziekenhuis waar de donatie is uitgevoerd, dan wel, in geval de donatie niet is uitgevoerd, uiterlijk een jaar nadat de eerste kosten zijn gemaakt waarvoor de subsidie wordt aangevraagd.
+
+3. De aanvraag gaat vergezeld van een subsidiedeclaratie die een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent de werkelijke kosten en ontvangen bijdragen in de kosten.
+
+4. De subsidiedeclaratie geeft de nodige informatie om de subsidie vast te stellen, onder meer ten aanzien van de bijdragen in de kosten die de donor heeft kunnen ontvangen of kan ontvangen.
+
+5. Voor de aanvraag en de subsidiedeclaratie wordt een door de minister vastgesteld formulier gebruikt.
+
+6. De aanvraag gaat voorts vergezeld van de op het formulier vermelde bescheiden met betrekking tot de donatie, de aanvraag en de subsidiedeclaratie.
+
+##### Artikel 6
+
+1. Indien zich na de indiening van de aanvraag omstandigheden voordoen die van belang kunnen zijn voor de beslissing tot vaststelling van de subsidie, doet de donor daarvan zo spoedig mogelijk schriftelijk mededeling aan de minister onder overlegging van de relevante stukken.
+
+2. Binnen dertien weken na ontvangst van de aanvraag geeft de minister een beschikking tot vaststelling van de subsidie.
+
+##### Artikel 7
+
+1. De minister kan bij de vaststelling van de subsidie verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie.
+
+2. De ontvanger van een subsidie doet zo spoedig mogelijk schriftelijk mededeling aan de minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging of intrekking van de beschikking tot vaststelling van de subsidie. Daarbij worden de relevante stukken overgelegd.
+
+3. De ontvanger van een subsidie zorgt er voor dat:
+
+- a. de administratie op overzichtelijke en doelmatige wijze wordt ingericht en gedurende vijf jaren na de beschikking tot vaststelling van de subsidie wordt bewaard;
+
+- b. te allen tijde de voor de vaststelling van de subsidie van belang zijnde baten en lasten kunnen worden nagegaan met behulp van de administratie.
+
+4. De ontvanger van een subsidie werkt mee aan door of namens de minister ingestelde onderzoekingen die erop zijn gericht de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
+
+##### Artikel 8
+
+De minister kan indien bijzondere omstandigheden daartoe aanleiding geven, artikelen buiten toepassing laten of daarvan afwijken.
+
+##### Artikel 9
+
+Een verzoek om een onkostenvergoeding dat bij de Nierstichting is ingediend voor de inwerkingtreding van deze regeling en dat nog niet is afgehandeld door de Nierstichting, wordt behandeld als een aanvraag in de zin van deze regeling.
+
+##### Artikel 10
+
+Deze regeling treedt in werking met ingang van 1 juni 2009.
+
+##### Artikel 11
+
+Deze regeling wordt aangehaald als: Subsidieregeling donatie bij leven.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7a
+
+1. Onverminderd [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2012-01-01&g=2012-01-01), kan de minister de subsidie verhogen indien:
+
+- a. de donor na 31 december 2010 is ontslagen uit het ziekenhuis waar de donatie is uitgevoerd dan wel, in geval de donatie niet is uitgevoerd, na 31 december 2010 de eerste kosten heeft gemaakt waarvoor subsidie wordt aangevraagd, en
+
+- b. de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2012-01-01&g=2012-01-01), over het peiljaar lager zijn dan de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
+
+2. De verhoging is het verschil tussen de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2012-01-01&g=2012-01-01), over het jaar waarin de donatie wordt uitgevoerd en de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar.
+
+3. Bij de berekening van de gederfde belastbare inkomsten per week over het jaar waarin de donatie wordt uitgevoerd, blijft de tijd voor de voorbereiding van, de uitvoering van en het herstel na de donatie buiten beschouwing.
+
+4. De verhoging kan ook worden verstrekt indien de subsidie reeds is vastgesteld. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=5&z=2012-01-01&g=2012-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=6&z=2012-01-01&g=2012-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=7&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in artikel 5, tweede lid, twee jaar bedraagt.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 10a
+
+Op een aanvraag die betrekking heeft op kosten die gemaakt zijn vóór 1 januari 2016, is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2016-09-01&g=2016-01-01), zoals dat luidde vóór 1 januari 2016 van toepassing.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&wetgeving) niet van toepassing.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
