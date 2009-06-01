@@ -4,7 +4,7 @@ identifier: "BWBR0023864"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2008-12-01"
+last_updated: "2009-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023864"
 soort: "wet"
@@ -102,31 +102,41 @@ Indien het betreft een zorgaanbieder waarbij natuurlijke personen of rechtsperso
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Een zorgaanbieder gebruikt het burgerservicenummer van een cliënt met het doel te waarborgen dat de in het kader van de verlening van zorg te verwerken persoonsgegevens op die cliënt betrekking hebben.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+De zorgaanbieder stelt de identiteit en het burgerservicenummer van een cliënt vast:
+
+- a. wanneer de cliënt zich voor de eerste maal tot de zorgaanbieder wendt ter verkrijging van zorg;
+
+- b. voor zover dat redelijkerwijs nodig is ter uitvoering van [artikel 12 van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=12).
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+1. De zorgaanbieder stelt de identiteit van de cliënt vast aan de hand van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1), dat de cliënt hem desgevraagd ter inzage geeft.
+
+2. De zorgaanbieder neemt aard en nummer van het in het eerste lid bedoelde document in zijn administratie op.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+1. Teneinde het burgerservicenummer van de cliënt vast te stellen, raadpleegt de zorgaanbieder het nummerregister en de registraties, bedoeld in [artikel 3, eerste lid, onder b en d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3).
+
+2. De zorgaanbieder kan de raadpleging, bedoeld in het eerste lid, achterwege laten indien het burgerservicenummer is verstrekt door een andere gebruiker als bedoeld in [artikel 1, onderdeel d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), die bij of krachtens wet gehouden is het burgerservicenummer van de cliënt vast te stellen aan de hand van het nummerregister en de registraties, bedoeld in [artikel 3, eerste lid, onder b en d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3).
+
+3. De zorgaanbieder kan de raadpleging, bedoeld in het eerste lid, achterwege laten indien de zorgaanbieder het burgerservicenummer heeft verkregen uit een basisadministratie van persoonsgegevens als bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=2).
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+De zorgaanbieder neemt het burgerservicenummer van de cliënt in zijn administratie op bij het vastleggen van persoonsgegevens met betrekking tot de verlening van zorg.
 
 ##### Artikel 9
 
-Dit onderdeel is nog niet inwerking getreden
+De zorgaanbieder vermeldt bij het verstrekken van persoonsgegevens met betrekking tot de verlening van, indicatiestelling voor of verzekering van zorg aan een zorgaanbieder, een indicatieorgaan of een zorgverzekeraar steeds het burgerservicenummer van de cliënt.
 
 ##### Artikel 10
 
-Bij ministeriële regeling kan worden bepaald aan welke beveiligingseisen de gegevensverwerking, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=8&z=2008-12-01&g=2008-12-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=9&z=2008-12-01&g=2008-12-01), voldoet.
+Bij ministeriële regeling kan worden bepaald aan welke beveiligingseisen de gegevensverwerking, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=8&z=2009-06-01&g=2009-06-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=9&z=2009-06-01&g=2009-06-01), voldoet.
 
 ##### Artikel 11
 
@@ -136,11 +146,19 @@ Bij ministeriële regeling kan worden bepaald aan welke beveiligingseisen de geg
 
 ##### Artikel 12
 
-Dit onderdeel is nog niet inwerking getreden
+1. De zorgaanbieder kan van de bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=5&z=2009-06-01&g=2009-06-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=6&z=2009-06-01&g=2009-06-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=7&z=2009-06-01&g=2009-06-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=4&artikel=17&z=2009-06-01&g=2009-06-01) gestelde verplichtingen afwijken voor zolang dit noodzakelijk is voor het verlenen van spoedeisende zorg aan een bepaalde cliënt.
+
+2. Indien op grond van het eerste lid wordt afgeweken van de bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=5&z=2009-06-01&g=2009-06-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=6&z=2009-06-01&g=2009-06-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=4&artikel=17&z=2009-06-01&g=2009-06-01) gestelde verplichtingen met betrekking tot het vaststellen van de identiteit van de cliënt, is het bepaalde bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=4&z=2009-06-01&g=2009-06-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=10&z=2009-06-01&g=2009-06-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=11&z=2009-06-01&g=2009-06-01) slechts van toepassing voor het opvragen en raadplegen van persoonsgegevens van de cliënt en is het bepaalde bij of krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=8&z=2009-06-01&g=2009-06-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=9&z=2009-06-01&g=2009-06-01) niet van toepassing.
+
+3. Indien op grond van het eerste lid wordt afgeweken van de bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=5&z=2009-06-01&g=2009-06-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=6&z=2009-06-01&g=2009-06-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=7&z=2009-06-01&g=2009-06-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=4&artikel=17&z=2009-06-01&g=2009-06-01) gestelde verplichtingen is het bepaalde bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=4&z=2009-06-01&g=2009-06-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=8&z=2009-06-01&g=2009-06-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=9&z=2009-06-01&g=2009-06-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=10&z=2009-06-01&g=2009-06-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=11&z=2009-06-01&g=2009-06-01) niet van toepassing.
 
 ##### Artikel 13
 
-Dit onderdeel is nog niet inwerking getreden
+1. Op de zorgverzekeraar die is aangewezen op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=1&artikel=2&z=2009-06-01&g=2009-06-01), alsmede op de zorgverzekeraar, bedoeld in [artikel 1, onderdeel e, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=1&artikel=1&z=2009-06-01&g=2009-06-01), is, met uitzondering van de bewaartermijn als omschreven in [artikel 86, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=86), het bepaalde bij of krachtens de [artikelen 4, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=4), en [86 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=86) van overeenkomstige toepassing met betrekking tot de verzekering van respectievelijk handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=1&artikel=2&z=2009-06-01&g=2009-06-01), en zorg als bedoeld in [artikel 1, onderdeel e, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=1&artikel=1&z=2009-06-01&g=2009-06-01).
+
+2. Personen werkzaam bij of ten behoeve van de zorgverzekeraar, bedoeld in het eerste lid, voor wie niet reeds uit hoofde van ambt of beroep een geheimhoudingplicht geldt, zijn verplicht tot geheimhouding van de gegevens die zij op grond van de eerste volzin verwerken, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht.
+
+3. De Nederlandse Zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), is, voor zover dat niet aan andere toezichthouders is voorbehouden, belast met het toezicht op de uitvoering van het eerste lid door zorgverzekeraars. De [artikelen 89, eerste, tweede en zesde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=89) en de [artikelen 77](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=77), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=79), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=80), [81](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=81), [83, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=83), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=88), [89](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=89), [90 tot en met 95](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=90), [97 tot en met 103](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=97), [104, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=104), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=105) en [106 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=106) zijn van overeenkomstige toepassing met dien verstande dat [artikel 89, eerste, tweede en zesde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=89) uitsluitend van toepassing is voor zover het een verzoek van de Nederlandse Zorgautoriteit betreft.
 
 ### Hoofdstuk 3. Registers
 
@@ -152,11 +170,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 15
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het opnemen, wijzigen en verwijderen van gegevens in onderscheidenlijk uit de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3&artikel=14&z=2008-12-01&g=2008-12-01) bedoelde registers van zorgaanbieders, indicatieorganen en zorgverzekeraars, alsmede over het beheer van de registers, in ieder geval wat betreft de beveiliging van persoonsgegevens en het toezicht op het functioneren van de registers.
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het opnemen, wijzigen en verwijderen van gegevens in onderscheidenlijk uit de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3&artikel=14&z=2009-06-01&g=2009-06-01) bedoelde registers van zorgaanbieders, indicatieorganen en zorgverzekeraars, alsmede over het beheer van de registers, in ieder geval wat betreft de beveiliging van persoonsgegevens en het toezicht op het functioneren van de registers.
 
 2. Bij de maatregel, bedoeld in het eerste lid, kunnen bijdragen van de zorgaanbieders, indicatieorganen en zorgverzekeraars worden verlangd in de kosten van de registers.
 
-3. De beheerder van een register als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3&artikel=14&z=2008-12-01&g=2008-12-01) verschaft aan een in het register ingeschreven zorgaanbieder, indicatieorganen en zorgverzekeraar op diens verzoek een middel waarmee deze ten behoeve van de raadpleging, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=7&z=2008-12-01&g=2008-12-01), toegang kan krijgen tot de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3).
+3. De beheerder van een register als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=3&artikel=14&z=2009-06-01&g=2009-06-01) verschaft aan een in het register ingeschreven zorgaanbieder, indicatieorganen en zorgverzekeraar op diens verzoek een middel waarmee deze ten behoeve van de raadpleging, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&hoofdstuk=2&artikel=7&z=2009-06-01&g=2009-06-01), toegang kan krijgen tot de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3).
 
 4. De beheerder kan voor het middel een vergoeding verlangen.
 
