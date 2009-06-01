@@ -4,7 +4,7 @@ identifier: "BWBR0022793"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2007-12-01"
+last_updated: "2009-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022793"
 soort: "AMvB"
@@ -46,23 +46,29 @@ Gezien het nader rapport van Onze Minister van Justitie van 18 oktober 2007, nr.
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties in werking treedt.
+
 ##### Artikel 1
 
-Het Centraal Justitieel Incassobureau heeft tot taak de officier van justitie te ondersteunen bij zijn taken met betrekking tot de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties.
+Het Centraal Justitieel Incassobureau heeft tot taak de officier van justitie te ondersteunen bij zijn taken met betrekking tot de [Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0022604).
 
 ##### Artikel 2
 
-Het model van het certificaat, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=7), en [17, eerste lid, van de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=17), wordt als volgt vastgesteld:
+Het model van het certificaat, bedoeld in de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=7), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=17), en [31, eerste lid, van de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=31), wordt als volgt vastgesteld:
+
+- A. voor gevallen waarin het een beslissing, houdende een geldelijke sanctie betreft:
+
+- B. voor gevallen waarin het een beslissing tot confiscatie betreft:
 
 ##### Artikel 3
 
-1. Een certificaat dat is afgegeven door de bevoegde autoriteit van een andere lidstaat en wordt meegezonden met de beslissing waarbij een geldelijke sanctie is opgelegd welke in Nederland moet worden erkend en ten uitvoer gelegd, is gesteld in de Nederlandse taal of, indien Nederland zulks heeft meegedeeld in een bij het secretariaat-generaal van de Raad van de Europese Unie neergelegde verklaring, in een van de in die verklaring genoemde talen.
+1. Een certificaat dat is afgegeven door de bevoegde autoriteit van een andere lidstaat en wordt meegezonden met de beslissing waarbij een geldelijke sanctie is opgelegd of met een beslissing tot confiscatie welke in Nederland moet worden erkend en ten uitvoer gelegd, is gesteld in de Nederlandse taal of, indien Nederland zulks heeft meegedeeld in een bij het secretariaat-generaal van de Raad van de Europese Unie neergelegde verklaring, in een van de in die verklaring genoemde talen.
 
-2. Een certificaat dat is afgegeven door de officier van justitie en wordt meegezonden met een beslissing waarbij een geldelijke sanctie is opgelegd, is gesteld in de officiële taal of een van de officiële talen van de lidstaat waaraan de beslissing met het oog op de tenuitvoerlegging aldaar wordt gezonden dan wel, indien die lidstaat zulks heeft meegedeeld in een bij het secretariaat-generaal van de Raad van de Europese Unie neergelegde verklaring, in een van de in die verklaring genoemde talen.
+2. Een certificaat dat is afgegeven door de officier van justitie en wordt meegezonden met een beslissing waarbij een geldelijke sanctie is opgelegd of met een beslissing tot confiscatie, is gesteld in de officiële taal of een van de officiële talen van de lidstaat waaraan de beslissing met het oog op de tenuitvoerlegging aldaar wordt gezonden dan wel, indien die lidstaat zulks heeft meegedeeld in een bij het secretariaat-generaal van de Raad van de Europese Unie neergelegde verklaring, in een van de in die verklaring genoemde talen.
 
 ##### Artikel 4
 
-De lijst, bedoeld in [artikel 10, tweede lid, van de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=10), luidt als volgt:
+1. De lijst, bedoeld in [artikel 13, tweede lid, van de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=13), luidt als volgt:
 
 - 1. Deelneming aan een criminele organisatie
 
@@ -142,16 +148,18 @@ De lijst, bedoeld in [artikel 10, tweede lid, van de Wet wederzijdse erkenning e
 
 - 39. Strafbare feiten die door de beslissingsstaat worden vastgesteld en die onder uitvoeringsverplichtingen vallen welke voortkomen uit instrumenten op grond van het Verdrag tot oprichting van de Europese Gemeenschap of titel VI van het Verdrag betreffende de Europese Unie.
 
+2. De lijst, bedoeld in [artikel 24, tweede lid, van de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=24), bestaat uit de feiten en soorten van feiten, genoemd in de onderdelen 1 tot en met 32 van het eerste lid.
+
 ##### Artikel 5
 
-Wijzigt het Uitvoeringsbesluit wederzijdse erkenning.
+De opbrengst van de geconfisqueerde voorwerpen wordt overeenkomstig [artikel 28 van de Wet wederzijdse erkenning strafrechtelijke sancties 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=28) verdeeld. Bij ministeriële regeling worden voorschriften gegeven met betrekking tot de wijze waarop deze verdeling plaatsvindt.
 
 ##### Artikel 6
 
-Dit besluit treedt in werking op hetzelfde tijdstip als waarop de [wet van 27 september 2007 (Stb. 354) tot implementatie van het kaderbesluit nr. 2005/214/JBZ van de Raad van de Europese Unie van 24 februari 2005 inzake de toepassing van het beginsel van wederzijdse erkenning op geldelijke sancties (PbEG L 76) (Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties)](https://wetten.overheid.nl/jci1.3:c:BWBR0022604) in werking treedt.
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie.
 
 ##### Artikel 7
 
-Dit besluit wordt aangehaald als: Uitvoeringsbesluit wederzijdse erkenning en tenuitvoerlegging geldelijke sancties.
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
