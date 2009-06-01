@@ -4,7 +4,7 @@ identifier: "BWBR0013489"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-07-01"
-last_updated: "2002-04-01"
+last_updated: "2009-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013489"
 soort: "AMvB"
@@ -66,8 +66,6 @@ geboren op te ,
 
 gewoond hebbende te , overleden op ;
 
-verklaart het lijk persoonlijk te hebben geschouwd;
-
 verklaart geen verklaring van overlijden af te geven;
 
 verklaart dat de dood van de overledene is ingetreden ten gevolge van de toepassing van levensbeëindiging op verzoek/het verlenen van hulp bij zelfdoding*;
@@ -76,7 +74,7 @@ verklaart in verband met dit overlijden wel/geen* schriftelijke wilsverklaring v
 
 verklaart in verband met dit overlijden wel/geen* schriftelijke verklaring van een geconsulteerde arts te hebben ontvangen;
 
-verklaart bij dit formulier te hebben overgelegd een verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2), volgens het model in de Bijlage bij besluit houdende vaststelling van de formulieren, bedoeld in [artikel 9, tweede lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=9) betreffende het overlijden ten gevolge van een niet-natuurlijke oorzaak, niet zijnde levensbeëindiging zonder uitdrukkelijk verzoek;
+verklaart bij dit formulier te hebben overgelegd een beredeneerd verslag volgens het model, bedoeld bij de bijlage bij het Besluit modellen artikel 9, tweede lid, Wet op de lijkbezorging;
 
 verklaart, indien ontvangen, de schriftelijke wilsverklaring van de overledene en de schriftelijke verklaring van de geconsulteerde arts te hebben overgelegd;
 
@@ -186,7 +184,7 @@ verklaart dat de behandelend arts van de overledene hem heeft medegedeeld dat de
 
 verklaart te hebben geverifieerd hoe en met welke middelen het leven is beëindigd;
 
-verklaart van de behandelend arts te hebben ontvangen een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2), volgens het model in de Bijlage, die een onderdeel vormt van dit besluit;
+verklaart van de behandelend arts te hebben ontvangen een beredeneerd verslag volgens het model, bedoeld in de bijlage bij het Besluit modellen artikel 9, tweede lid, Wet op de lijkbezorging;
 
 verklaart in dit verband van de behandelend arts met dit overlijden wel/geen* schriftelijke wilsverklaring van de overledene te hebben ontvangen;
 
@@ -393,5 +391,47 @@ of
 Datum: Handtekening:
 
 Naam:
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a
+
+Voor een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2), wordt het model in de bijlage bij dit besluit gevolgd.
+
+##### Artikel 8
+
+Dit besluit wordt aangehaald als: Besluit modellen artikel 9, tweede lid, Wet op de lijkbezorging.
+
+## Bijlage
+
+### **MODEL voor een VERSLAG van de BEHANDELEND ARTS**
+
+In verband met een melding aan de gemeentelijke lijkschouwer van het overlijden als gevolg van de toepassing van levensbeëindiging op verzoek of hulp bij zelfdoding.
+
+Bij melding aan de gemeentelijke lijkschouwer van een niet-natuurlijke dood als gevolg van levensbeëindiging op verzoek of hulp bij zelfdoding verstrekt de behandelend arts aan de gemeentelijke lijkschouwer een beredeneerd verslag dat is opgesteld volgens onderstaand model. Met **behandelend arts** wordt bedoeld **de arts die de levensbeëindiging op verzoek (euthanasie) heeft uitgevoerd of de hulp bij zelfdoding heeft verleend.**
+
+Dit model is opgesteld aan de hand van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek of hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2).
+
+Om de toetsingscommissie in staat te stellen zo goed mogelijk een oordeel te geven over de naleving van de zorgvuldigheidseisen, is het van belang dat u de **antwoorden op de gestelde vragen motiveert.** Daarbij kan nadere informatie zoals:
+
+een waardevolle bijdrage leveren. Indien de ruimte voor beantwoording van een vraag tekort schiet, maakt u dan ook gebruik van een bijlage. Vergeet niet op de bijlage duidelijk aan te geven op welke vraag of vragen deze betrekking heeft.
+
+In dit model wordt alleen de term «levensbeëindiging op verzoek» gebruikt. Hiermee wordt zowel euthanasie als hulp bij zelfdoding bedoeld. Bij euthanasie dient de arts de dodelijke middelen aan de patiënt toe. Bij hulp bij zelfdoding ontvangt de patiënt van de arts de middelen die de patiënt zelf inneemt.
+
+Met de term «patiënt» wordt in dit model zowel man als vrouw bedoeld.
+
+### **GEGEVENS BEHANDELEND ARTS**
+
+### **GEGEVENS OVERLEDENE**
+
+### **UITZICHTLOOS EN ONDRAAGLIJK LIJDEN**
+
+### **VRIJWILLIG EN WELOVERWOGEN VERZOEK**
+
+### **CONSULTATIE**
+
+### **UITVOERING VAN DE LEVENSBEËINDIGING OP VERZOEK**
+
+### **OVERIGE OPMERKINGEN**
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
