@@ -4,7 +4,7 @@ identifier: "BWBR0026188"
 country: "nl"
 rank: "pbo"
 publication_date: "2011-09-11"
-last_updated: "2009-06-01"
+last_updated: "2009-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026188"
 soort: "pbo"
@@ -77,7 +77,9 @@ entry_into_force: "2009-06-07"
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026188&paragraaf=2&artikel=2&z=2009-06-07&g=2009-06-07) doen de koper en verkoper bij het productschap aangifte van de door hen gekochte, respectievelijk verkochte bloembollen.
+
+2. De opgave als bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
 #### § 3. Grondslag en hoogte
 
@@ -106,15 +108,29 @@ voor de koper: 1,0 % van het factuurbedrag.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+1. Degene die bloembollen verkoopt of heeft verkocht door tussenkomst van een veiling, is aan het productschap een heffing verschuldigd over iedere transactie.
+
+2. De heffing als bedoeld in het eerste lid, bedraagt: 1,0 % van het factuurbedrag.
+
+3. De in het eerste lid bedoelde heffing wordt door de verkoper betaald aan de desbetreffende veiling, die - voor het productschap - het heffingsbedrag inhoudt op de aan de verkoper toekomende koopsom.
+
+De aldus geïncasseerde heffing wordt rechtstreeks aan het productschap overgemaakt. Door deze betaling voldoet de verkoper aan de heffingsplicht, bedoeld in het eerste lid.
+
+4. Het derde lid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van de ingevolge het eerste lid verschuldigde heffing over te gaan.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+1. Degene die bloembollen koopt of heeft gekocht door tussenkomst van een veiling is aan het productschap een heffing verschuldigd over iedere transactie.
+
+2. De heffing als bedoeld in het eerste lid, bedraagt: 1,0 % van het factuurbedrag.
+
+3. De heffing als bedoeld in het eerste lid wordt door de koper betaald aan de desbetreffende veiling, die daartoe - voor het productschap - het heffingsbedrag inhoudt. De aldus geïncasseerde heffing wordt rechtstreeks aan het productschap overgemaakt. Door deze betaling voldoet de koper aan de heffingsplicht, bedoeld in het eerste lid.
+
+4. Het derde lid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van de ingevolge het eerste lid verschuldigde heffing over te gaan.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+Degene die zonder tussenkomst van een veiling bloembollen verkoopt, is verplicht: 1,0% van het factuurbedrag van de door hem aldus verkochte bollen aan de desbetreffende kopers door te berekenen.
 
 ##### Artikel 8
 
@@ -136,7 +152,7 @@ Het derdelid laat onverlet de bevoegdheid van het productschap om in voorkomende
 
 2. De heffing als bedoeld in het eerste lid, bedraagt: 2,0% van het factuurbedrag.
 
-3. De in het eerste lid bedoelde heffing dient door de verkoper te worden afgedragen aan het productschap tezamen met de bij de koper geïncasseerde heffing volgens [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026188&paragraaf=3&artikel=8&z=2011-09-11&g=2009-06-01).
+3. De in het eerste lid bedoelde heffing dient door de verkoper te worden afgedragen aan het productschap tezamen met de bij de koper geïncasseerde heffing volgens [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026188&paragraaf=3&artikel=8&z=2009-06-07&g=2009-06-07).
 
 4. Door deze betaling voldoet de verkoper aan de heffingsplicht als bedoeld in het eerste lid. Het derde lid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van ingevolge het eerste lid verschuldigde heffing over te gaan.
 
@@ -144,7 +160,11 @@ Het derdelid laat onverlet de bevoegdheid van het productschap om in voorkomende
 
 ##### Artikel 10
 
-Dit onderdeel is nog niet inwerking getreden
+1. Degene die bloembollen afkomstig uit eigen kraam aanwendt voor de teelt van bolbloemen is over die bloembollen aan het productschap een heffing verschuldigd.
+
+2. De heffing als bedoeld in het eerste lid bedraagt: 1,0% van de verkoopwaarde van de desbetreffende bloembollen.
+
+3. De verkoopwaarde van de bloembollen wordt door het PT vastgesteld op basis van de gemiddelde verkoopprijzen in het betreffende oogstjaar.
 
 ##### Artikel 11
 
@@ -160,7 +180,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### § 4. Oplegging en inning
 
-#### § 5. Slotbepalingen
+#### § 4. Oplegging en inning
 
 gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
 
