@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-05-13"
+last_updated: "2009-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -140,6 +140,10 @@ Besluit:
 | 13 | [Subsidieregeling innovatieve zeescheepsbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0021771) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0021771&artikel=2) |   | 01-01 t/m 30-09 | 19.500.000 |
 | 14 | Besluit subsidies regionale investeringsprojecten | 2 |   | 01-01 t/m 31-12 | 12.500.000 |
 | 15 | [Regeling exportfinancieringsarrangement zware matching](https://wetten.overheid.nl/jci1.3:c:BWBR0009176). | [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009176&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009176&artikel=6) |   |   |   |
+| 16.1 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2getthere) | [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=22) | Periode vooraanmelding | 08-06 t/m 30-10 |   |
+| 16.2 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=32) (2getthere) | [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=23) |   | 08-06 t/m 30-12 | 6.000.000 |
+| 16.3 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2xplore) | [38](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=38) |   | 08-06 t/m 30-12 | 3.000.000 |
+| 16.4 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (bestaande 2getthere programma’s) | [44](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=44) |   | 08-06 t/m 31-08 | 10.000.000 |
 
 ##### Artikel 2
 
