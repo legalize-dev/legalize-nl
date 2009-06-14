@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-06-07"
+last_updated: "2009-06-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -75,8 +75,8 @@ Besluit:
 | 2.8 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (pilot private innovatievouchers) | [5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.2) | Aantal beschikbare grote innovatievouchers | 11-05 t/m 01-07 | 250 stuks |
 | 2.9 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (pilot private innovatievouchers) | [5a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.3) | Aantal beschikbare kleine innovatievouchers | 11-05 t/m 01-07 | 250 stuks |
 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) |
-| 3.1 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (internationaal innoveren) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten | 01-01 t/m 06-03 | 4.000.000 |
-| 3.2 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (internationaal innoveren) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Opkomende markten innovatieprojecten | 01-01 t/m 06-03 | 2.000.000 |
+| 3.1 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationaal innoveren) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten | 01-01 t/m 06-03 15-06 t/m 03-07 | 5.000.000 4.000.000 |
+| 3.2 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationaal innoveren) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Opkomende markten innovatieprojecten | 01-01 t/m 06-03 15-06 t/m 03-07 | 2.800.000 3.200.000 |
 | 3.3 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (IOP’s) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=3.2) |   | – | – |
 |   |   |   | Genomics (periode vooraanmelding) |   | – |
 |   |   |   | Genomics |   |   |
@@ -141,7 +141,7 @@ Besluit:
 | 14 | Besluit subsidies regionale investeringsprojecten | 2 |   | 01-01 t/m 31-12 | 12.500.000 |
 | 15 | [Regeling exportfinancieringsarrangement zware matching](https://wetten.overheid.nl/jci1.3:c:BWBR0009176). | [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009176&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009176&artikel=6) |   |   |   |
 | 16.1 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2getthere) | [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=22) | Periode vooraanmelding | 08-06 t/m 30-10 |   |
-| 16.2 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=32) (2getthere) | [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=23) |   | 08-06 t/m 30-12 | 6.000.000 |
+| 16.2 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2getthere) | [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=32) |   | 08-06 t/m 30-12 | 6.000.000 |
 | 16.3 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2xplore) | [38](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=38) |   | 08-06 t/m 30-12 | 3.000.000 |
 | 16.4 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (bestaande 2getthere programma’s) | [44](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=44) |   | 08-06 t/m 31-08 | 10.000.000 |
 
