@@ -4,7 +4,7 @@ identifier: "BWBR0016804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-04-09"
-last_updated: "2004-05-15"
+last_updated: "2009-06-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016804"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Voor de uitvoering van opdrachten of werkzaamheden als bedoeld in de [artikelen 
 
 - b. ambtenaren, werkzaam bij de gerechten en genoemd in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=14), en [artikel 145, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=145);
 
-- c. ambtenaren, werkzaam bij de onderdelen van het openbaar ministerie, bedoeld in [artikel 134, eerste lid, onder b tot en met d, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=134);
+- c. ambtenaren werkzaam bij het openbaar ministerie;
 
 - d. ambtenaren, werkzaam bij de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst – Economische Controle Dienst van het Ministerie van Financiën, welke opsporingsbevoegdheid bezitten;
 
