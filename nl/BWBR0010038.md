@@ -4,7 +4,7 @@ identifier: "BWBR0010038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-01"
-last_updated: "2006-07-20"
+last_updated: "2009-06-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010038"
 soort: "ministeriele-regeling"
@@ -77,7 +77,7 @@ De volgende nummers in een door de Minister van Economische Zaken op grond van [
 
 2. De toekenning van nummers voor toegang tot ondernemingen en instellingen kan geheel of gedeeltelijk worden geweigerd indien op grond van de aanvraag te verwachten is dat het voorgenomen gebruik daarvan niet binnen negen maanden wordt verwezenlijkt.
 
-3. De toekenning van nummers voor toegang tot abonnee-informatiediensten, waarmee primair en tenminste telefoonnummers kunnen worden opgevraagd aan de hand van gegevens betreffende de naam in combinatie met gegevens betreffende het adres en huisnummer, postcode of de woonplaats van de abonnee kan geheel of gedeeltelijk worden geweigerd indien op grond van de aanvraag te verwachten is dat het voorgenomen gebruik daarvan niet binnen vijf maanden wordt verwezenlijkt.
+3. De toekenning van nummers uit de reeks 18 uit het Nummerplan telefoon- en ISDN-diensten kan geheel of gedeeltelijk worden geweigerd indien op grond van de aanvraag te verwachten is dat het voorgenomen gebruik daarvan niet binnen vijf maanden wordt verwezenlijkt.
 
 ##### Artikel 4
 
@@ -95,6 +95,6 @@ De volgende nummers in een door de Minister van Economische Zaken op grond van [
 
 - a. nummers voor toegang tot ondernemingen en instellingen;
 
-- b. nummers voor toegang tot abonnee-informatiediensten, waarmee primair en tenminste telefoonnummers kunnen worden opgevraagd aan de hand van gegevens betreffende de naam in combinatie met gegevens betreffende het adres en huisnummer, postcode of de woonplaats van de abonnee.
+- b. nummers voor toegang tot abonnee-informatiediensten uit de reeks 18 uit het Nummerplan telefoon- en ISDN-diensten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
