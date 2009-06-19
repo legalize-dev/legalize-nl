@@ -4,7 +4,7 @@ identifier: "BWBR0010198"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-03"
-last_updated: "2008-02-29"
+last_updated: "2009-06-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010198"
 soort: "ministeriele-regeling"
@@ -49,21 +49,21 @@ In dit besluit wordt verstaan onder:
 
 2. De lengte van een geografisch nummer bedraagt tien cijfers.
 
-3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2008-02-29&g=2008-02-29), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2008-02-29&g=2008-02-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2008-02-29&g=2008-02-29), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2008-02-29&g=2008-02-29).
+3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2009-06-19&g=2009-06-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2009-06-19&g=2009-06-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2009-06-19&g=2009-06-19), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2009-06-19&g=2009-06-19).
 
 ##### Artikel 3
 
 In de bij dit besluit behorende:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2008-02-29&g=2008-02-29) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2009-06-19&g=2009-06-19) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2008-02-29&g=2008-02-29) worden de netnummergebieden, genoemd in bijlage 1, vastgesteld;
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2009-06-19&g=2009-06-19) worden de netnummergebieden, genoemd in bijlage 1, vastgesteld;
 
-- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2008-02-29&g=2008-02-29) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906, 0909 en 140X vastgesteld;
+- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2009-06-19&g=2009-06-19) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906, 0909 en 140X vastgesteld;
 
-- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2008-02-29&g=2008-02-29) worden de maximale interconnectie afgiftetarieven vastgesteld.
+- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2009-06-19&g=2009-06-19) worden de maximale interconnectie afgiftetarieven vastgesteld.
 
-- e. [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=5&z=2008-02-29&g=2008-02-29) worden voorwaarden gesteld aan het recht op het gebruik van nummers in de nummerreeks 116.
+- e. [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=5&z=2009-06-19&g=2009-06-19) worden voorwaarden gesteld aan het recht op het gebruik van nummers in de nummerreeks 116.
 
 ##### Artikel 4
 
@@ -85,7 +85,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 1. Dit besluit wordt aangehaald als: Nummerplan telefoon- en ISDN-diensten.
 
-2. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2008-02-29&g=2008-02-29) van dit besluit ligt ter inzage bij het college, Zurichtoren, 3e verdieping, Muzenstraat 41, 2511 WB te Den Haag.
+2. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2009-06-19&g=2009-06-19) van dit besluit ligt ter inzage bij het college, Zurichtoren, 3e verdieping, Muzenstraat 41, 2511 WB te Den Haag.
 
 ## Bijlage 1. als bedoeld in artikel 3, onder a, van het Nummerplan telefoon- en ISDN-diensten
 
@@ -910,7 +910,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 |   | 8 | Gebruik wordt uitgefaseerd |   |   |
 |   | 9 | Gebruik wordt uitgefaseerd |   |   |
 
-## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2008-02-29&g=2008-02-29), van het Nummerplan telefoon- en ISDN-diensten
+## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2009-06-19&g=2009-06-19), van het Nummerplan telefoon- en ISDN-diensten
 
 | Beschikbaar voor toekenning of reservering | Niet beschikbaar voor toekenning of reservering | Bestemming van de nummers (geografisch en niet-geografisch) | Lengte van de nummers | Nummers van uitzonderlijke economische waarden |
 | --- | --- | --- | --- | --- |
@@ -1262,7 +1262,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 |   | 113 | Geharmoniseerde Europese korte nummers |   |   |
 |   | 114 | Geharmoniseerde Europese korte nummers |   |   |
 |   | 115 | Geharmoniseerde Europese korte nummers |   |   |
-| 116… |   | Europees geharmoniseerde diensten met een maatschappelijke belang, die voldoen aan de voorwaarden van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=5&z=2008-02-29&g=2008-02-29). Eenzelfde nummer kan aan meerdere aanvragers worden toegekend | 6 | Nee |
+| 116… |   | Europees geharmoniseerde diensten met een maatschappelijke belang, die voldoen aan de voorwaarden van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=5&z=2009-06-19&g=2009-06-19). Eenzelfde nummer kan aan meerdere aanvragers worden toegekend | 6 | Nee |
 | 116000 |   | Telefonische meldpunten voor vermiste kinderen | 6 | Nee |
 | 116111 |   | Kinderhulplijnen | 6 | Nee |
 | 116123 |   | Hulplijnen voor emotionele steun | 6 | Nee |
@@ -1304,7 +1304,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 |   |   |   |   |   |
 | 16 |   | Carrierselectiedienst Nummer dat een gebruiker van een openbare telefoondienst de mogelijkheid biedt om het voor die dienst noodzakelijke transport van de uitgaande gegevens door een andere aanbieder van een openbare telefoondienst te laten verzorgen. De gebruiker kan van deze mogelijkheid gebruikmaken door het hier bedoelde nummer te kiezen onmiddellijk voorafgaand aan het nummer waarmee hij normaliter had kunnen volstaan. | 4 | Nee |
 |   | 17 |   |   |   |
-| 18 | 1818 | Toegang tot gratis of betaalde abonnee-informatiediensten, waarmee primair en tenminste telefoonnummers kunnen worden opgevraagd aan de hand van gegevens betreffende de naam in combinatie met gegevens betreffende het adres en huisnummer, postcode of de woonplaats van de abonnee. | 4 | Ja, voor de duur van zes maanden na inwerkingtreding van dit besluit. |
+| 18 | 1818 | Toegang tot gratis of betaalde abonnee-informatiediensten, waarmee primair en tenminste telefoonnummers kunnen worden opgevraagd aan de hand van gegevens betreffende de naam in combinatie met gegevens betreffende het adres en huisnummer, postcode of de woonplaats van de abonnee, en waarmee aanvullend openbaar beschikbare algemene informatie over de naam, het adres dan wel de locatie, de bereikbaarheid en de dienstverlening van abonnees opgevraagd kan worden aan de hand van door de oproeper verstrekte zoektermen. | 4 |   |
 |   | 19 | Geharmoniseerde Europese korte nummers |   |   |
 |   | 2 | Gebruik wordt uitgefaseerd |   |   |
 |   | 3 | Gebruik wordt uitgefaseerd |   |   |
@@ -1327,7 +1327,7 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 
 In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektronische communicatiedienst die voor het publiek beschikbaar is voor alleen uitgaande gesprekken, onderscheidenlijk alleen inkomende gesprekken, en waarbij sprake is van een directe overdracht en routering van signalen.
 
-## Bijlage 3. als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2008-02-29&g=2008-02-29), van het Nummerplan telefoon- en ISDN-diensten
+## Bijlage 3. als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2009-06-19&g=2009-06-19), van het Nummerplan telefoon- en ISDN-diensten
 
 |   | **0** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1398,7 +1398,7 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 
 Tenzij in de bij een nummer behorende bestemming uitdrukkelijk anders is bepaald, wordt een in dit nummerplan opgenomen nummer niet gebruikt om tegen betaling andere diensten dan elektronische communicatiediensten te leveren indien de betaling van die diensten is opgenomen in de door de aanbieder van de elektronische communicatiedienst opgemaakte rekening.
 
-## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2008-02-29&g=2008-02-29)
+## Bijlage 4. als bedoeld in [artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2009-06-19&g=2009-06-19)
 
 | Nummers | Maximaal interconnectie afgifte starttarief, in eurocent, exclusief BTW | Maximaal interconnectie afgiftetarief per minuut, in eurocent, exclusief BTW |
 | --- | --- | --- |
@@ -1407,7 +1407,7 @@ Tenzij in de bij een nummer behorende bestemming uitdrukkelijk anders is bepaald
 
 Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2007-05-17&g=2007-05-17) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
 
-## Bijlage 5. als bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2008-02-29&g=2008-02-29), van het Nummerplan telefoon- en ISDN-diensten.
+## Bijlage 5. als bedoeld in [artikel 3, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2009-06-19&g=2009-06-19), van het Nummerplan telefoon- en ISDN-diensten.
 
 | Nummer | Kwalificatie van de dienst en voorwaarden aan het recht op het gebruik |
 | --- | --- |
@@ -1416,4 +1416,4 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 | 116111 | a) De dienst helpt kinderen die behoefte aan opvang en bescherming hebben en verwijst hen door naar diensten en voorzieningen. b) De dienst biedt kinderen de gelegenheid hun zorgen te uiten, te praten over zaken die hen rechtstreeks aangaan, en met iemand contact op te nemen wanneer zich een noodsituatie voordoet c) Ingeval de dienst niet continu bereikbaar is (d.w.z. 24 uur per dag, 7 dagen per week, over het hele land), moet de dienstverlener ervoor zorgen dat de informatie over de bereikbaarheid op een gemakkelijk toegankelijke wijze voor het publiek beschikbaar is, en dat tijdens periodes waarin de dienst niet bereikbaar is, bellers naar de dienst wordt meegedeeld wanneer deze weer bereikbaar zal zijn. |
 | 116123 | a) De dienst stelt de beller in staat echt menselijk contact te leggen waarbij wordt geluisterd zonder te oordelen. b) De dienst biedt emotionele steun aan bellers die zich eenzaam voelen, in een psychologische crisis verkeren of zelfmoord overwegen. c) Ingeval de dienst niet continu bereikbaar is (d.w.z. 24 uur per dag, 7 dagen per week, over het hele land), moet de dienstverlener ervoor zorgen dat de informatie over de bereikbaarheid op een gemakkelijk toegankelijke wijze voor het publiek beschikbaar is, en dat tijdens periodes waarin de dienst niet bereikbaar is, bellers naar de dienst wordt meegedeeld wanneer deze weer bereikbaar zal zijn. |
 
-Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2008-02-29&g=2008-02-29) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
+Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2009-06-19&g=2009-06-19) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
