@@ -4,7 +4,7 @@ identifier: "BWBV0004512"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-06-23"
-last_updated: "1976-05-10"
+last_updated: "2009-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004512"
 soort: "verdrag"
@@ -46,21 +46,15 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-Griekenland zal kunnen toetreden tot de Overeenkomst tussen België, de Bondsrepubliek Duitsland, Frankrijk, Italië, Luxemburg en Nederland inzake wederzijdse bijstand tussen de onderscheiden douane-administraties, ondertekend te Rome op 7 september 1967 (hierna te noemen „de Overeenkomst”).
+Vervallen
 
 ##### Artikel 2
 
-De akte van toetreding van Griekenland zal worden nedergelegd bij het Ministerie van Buitenlandse Zaken van de Italiaanse Republiek, dat hiervan mededeling zal doen aan de andere Staten die de Overeenkomst hebben ondertekend.
-
-De toetreding van Griekenland zal van kracht worden op de eerste dag van de derde maand na de nederlegging van de desbetreffende akte, indien de Overeenkomst op die datum reeds in werking is getreden; indien zulks niet het geval is, zal zij van kracht worden op het tijdstip waarop de Overeenkomst in werking treedt.
-
-De toetreding zal gelden voor de Staten voor welke de Overeenkomst in werking is getreden overeenkomstig de bepalingen van artikel 24 van de Overeenkomst.
+Vervallen
 
 ##### Artikel 3
 
-Dit Protocol zal worden bekrachtigd of goedgekeurd en de akten van bekrachtiging of goedkeuring zullen worden nedergelegd bij het Ministerie van Buitenlandse Zaken van de Italiaanse Republiek, dat hiervan mededeling zal doen aan de overige ondertekenende Staten.
-
-Het treedt ten aanzien van elk der Staten Partij bij het Protocol in werking op de dag van nederlegging van zijn akte van bekrachtiging of goedkeuring.
+Vervallen
 
 Dit Protocol, dat is opgemaakt in één exemplaar in de Duitse, de Franse, de Italiaanse en de Nederlandse taal, zijnde de vier teksten gelijkelijk authentiek, zal worden nedergelegd in het archief van de Regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift ervan zal doen toekomen aan elk van de ondertekenende Staten.
 
