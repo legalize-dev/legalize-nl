@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-06-19"
+last_updated: "2009-06-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -142,6 +142,13 @@ Besluit:
 | 13 | [Subsidieregeling innovatieve zeescheepsbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0021771) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0021771&artikel=2) |   | 01-01 t/m 30-09 | 19.500.000 |
 | 14 | Besluit subsidies regionale investeringsprojecten | 2 |   | 01-01 t/m 31-12 | 12.500.000 |
 | 15 | [Regeling exportfinancieringsarrangement zware matching](https://wetten.overheid.nl/jci1.3:c:BWBR0009176). | [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009176&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009176&artikel=6) |   |   |   |
+| 16.1 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Duurzame warmte voor bestaande woningen) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=2.2) | Zonneboilers en warmtepompen, niet zijnde lucht/waterwarmtepompen |   |   |
+|   |   |   | Lucht/waterwarmtepompen |   |   |
+|   |   |   | Installaties voor micro-warmtekrachtkoppeling |   |   |
+| 16.2 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Unieke kansen programma verduurzaming warmte en koude) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=3.2) |   |   |   |
+| 16.3 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (EOS-demonstratieprojecten) | [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=4.2) |   | 01-07-09 t/m 10-09-09 | 7.000.000 |
+| 16.4 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Unieke kansenprogramma naar energieneutrale scholen en kantoren) | [5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=5.2) | Haalbaarheidsstudies | Datum van inwerkingtreding van artikel 5.2 t/m 03-08-09 | 450.000 |
+|   |   | [5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=5.2) | Unieke kansen project scholen/kantoren | 01-07-09 t/m 03-12-09 | 5.000.000 |
 | 16.1 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2getthere) | [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=22) | Periode vooraanmelding | 08-06 t/m 30-10 |   |
 | 16.2 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2getthere) | [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=32) |   | 08-06 t/m 30-12 | 6.000.000 |
 | 16.3 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2xplore) | [38](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=38) |   | 08-06 t/m 30-12 | 3.000.000 |
