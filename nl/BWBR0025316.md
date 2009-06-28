@@ -4,7 +4,7 @@ identifier: "BWBR0025316"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-04-01"
+last_updated: "2009-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025316"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2015-12-15"
 ---
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 februari 2009, nr. DGM/K&L2009006710, houdende regels inzake aanwijzing van investeringen die in het belang zijn van het Nederlandse milieu (Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen)
 
-Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2009-02-19&g=2009-04-01), van Landbouw, Natuur en Voedselkwaliteit;
+Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2009-06-28&g=2009-06-28), van Landbouw, Natuur en Voedselkwaliteit;
 
 Gelet op de [artikelen 3.31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31), en [3.42a, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a);
 
@@ -60,7 +60,7 @@ Als milieubedrijfsmiddelen als bedoeld in [artikel 3.31, eerste lid, van de Wet 
 
 ##### Artikel 2. Milieu-investeringsaftrek
 
-Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1&z=2009-02-19&g=2009-04-01), genoemde voorwaarden.
+Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1&z=2009-06-28&g=2009-06-28), genoemde voorwaarden.
 
 ##### Artikel 3. Uitzondering
 
@@ -80,37 +80,37 @@ Deze regeling wordt aangehaald als: Aanwijzingsregeling willekeurige afschrijvin
 
 ### Paragraaf 2. Bedrijfsmiddelen
 
-**A 1000**
+**F 1000**
 
-**Productieapparatuur voor bioplastics of voor producten van bioplastics**
+**Productieapparatuur voor bioplastics of voor het maken van producten van bioplastics**
 
-Toelichting: Als de plastics niet biologisch afbreekbaar of composteerbaar zijn volgens NEN 13432, maar wel van biologische oorsprong, kan de investering wellicht in aanmerking komen onder A 1003.
+Toelichting: Structuurverbetering van de (producten van) bioplastics met natuurlijke vezels is toegestaan. De biologische afbreekbaarheid of composteerbaarheid van die vezels hoeft niet te worden aangetoond. Als de plastic grondstoffen niet biologisch afbreekbaar of composteerbaar zijn volgens NEN 13432, maar wel van biologische oorsprong, kan de investering wellicht in aanmerking komen onder F 1003.
 
-**A 1002**
+**F 1002**
 
 **Apparatuur voor milieuvriendelijke dienstverlening of productie**
 
 Toelichting: Informatie over Milieukeur en Europees Ecolabel kan worden gevonden op www.smk.nl. Informatie over Blue Flag en Green Key op respectievelijk www.blueflag.org en www.greenkey.nl.
 
-**A 1003 aftopping: € 5.000.000**
+**F 1003 aftopping: € 5.000.000**
 
 **Productieapparatuur voor (half) producten op basis van biologische grondstoffen**
 
 Toelichting: Ook niet-gangbare verwerking van mest tot grondstoffen zoals kunstmestvervangers kan onder deze omschrijving vallen.
 
-**E 1004 aftopping: € 1.000.000**
+**B 1004 aftopping: € 1.000.000**
 
 **Recreatiegebouw of mobiel recreatieverblijf voor milieuvriendelijke dienstverlening**
 
 Toelichting: Niet alleen het gebouw, maar ook de daarin te verrichten diensten moeten aan eisen van Green Key voldoen. Informatie over Green Key kan worden gevonden op www.greenkey.nl.
 
-**E 1005 aftopping: € 2.000.000**
+**E 1005 aftopping: € 10.000.000**
 
 **Zeer duurzaam utiliteitsgebouw**
 
 Toelichting: Gebouwen of gebouwdelen waarvoor het [Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727) geen energieprestatie-eis stelt komen niet in aanmerking voor de milieu-investeringsaftrek. Voorbeelden van dergelijke gebouwen zijn bedrijfshallen, onverwarmde logiesgebouwen en tijdelijke bouwwerken. Voor meer informatie over het [Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727), gebouwfuncties en energieprestatie-eisen zie http://87.251.60.63/bouwbesluitonline.
 
-**E 1006 aftopping: € 2.000.000**
+**B 1006 aftopping: € 2.000.000**
 
 **Duurzame renovatie van een bestaand utiliteitsgebouw**
 
@@ -156,19 +156,19 @@ Toelichting: Dat het beschermingssysteem geen biociden, koper of andere voor wat
 
 **Kroosverwijderinstallatie**
 
-**B 1050**
+**F 1050**
 
 **Werf voor het uitsluitend milieuvriendelijk demonteren van zeeschepen, -platforms of binnenvaartschepen**
 
-**B 1060**
+**F 1060**
 
 **Gewichtsbesparende funderingspaal met mogelijkheid tot betonkernactivering**
 
-**B 1070**
+**F 1070**
 
 **Houtmodificatie-installatie**
 
-**B 1080 aftopping: 50%**
+**A 1080 aftopping: 50%**
 
 **Rijsimulator**
 
@@ -182,13 +182,13 @@ Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](https://wetten
 
 **Groen Label Kas voor biologische teelt**
 
-Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) kan worden gevonden op www.skal.nl. De bouwvergunning die voor nieuw op te richten glasopstanden wordt vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De bezwaar- en beroepsprocedure voor die bouwvergunning hoeft echter niet te worden afgewacht. Voor alle kassen die onder criteria voor extensieve teelt worden gecertificeerd moet bij definitieve oplevering worden aangetoond dat het totale energieverbruik op basis van ten minste 1 jaar teelt minder is geweest dan 25 kubieke meter per vierkante meter aardgasequivalenten per jaar. De tuinder dient dit aan te tonen door na 1 jaar teelt het werkelijke energiegebruik van het voorgaande jaar te laten controleren op basis van facturen en meetgegevens en de gegevens in het energiecertificaat. Het Certificatieschema Groen Label Kas 8.0, ligt ter inzage in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. Het certificatieschema is ook te downloaden via www.groenlabelkas.nl.
+Toelichting: Informatie over het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) kan worden gevonden op www.skal.nl. De bouwvergunning die voor nieuw op te richten glasopstanden wordt vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De bezwaar- en beroepsprocedure voor die bouwvergunning hoeft echter niet te worden afgewacht. Voor alle kassen die onder criteria voor extensieve teelt worden gecertificeerd moet bij definitieve oplevering worden aangetoond dat het totale energieverbruik op basis van ten minste 1 jaar teelt minder is geweest dan 25 kubieke meter per vierkante meter aardgasequivalenten per jaar. De tuinder dient dit aan te tonen door na 1 jaar teelt het werkelijke energiegebruik van het voorgaande jaar te laten controleren op basis van facturen en meetgegevens en de gegevens in het energiecertificaat. Het Certificatieschema Groen Label Kas 8 (GLK8), ligt ter inzage in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. Het certificatieschema is ook te downloaden via www.groenlabelkas.nl.
 
 **F 1090**
 
 **Groen Label Kas**
 
-Toelichting: De bouwvergunning die voor nieuw op te richten glasopstanden wordt vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De bezwaar- en beroepsprocedure voor die bouwvergunning hoeft echter niet te worden afgewacht. Voor alle kassen die onder de criteria voor extensieve teelt worden gecertificeerd moet bij definitieve oplevering worden aangetoond dat het totale energieverbruik op basis van ten minste 1 jaar teelt minder is geweest dan 25 kubieke meter per vierkante meter aardgasequivalenten per jaar. De tuinder toont dit aan door na 1 jaar teelt het werkelijke energiegebruik van het voorgaande jaar te laten controleren op basis van facturen en meetgegevens en de gegevens in het energiecertificaat. Het Certificatieschema Groen Label Kas 8.0, ligt ter inzage in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. Het certificatieschema is ook te downloaden via www.groenlabelkas.nl.
+Toelichting: De bouwvergunning die voor nieuw op te richten glasopstanden wordt vereist, moet door het bevoegd gezag zijn afgegeven voordat de melding wordt gedaan. De bezwaar- en beroepsprocedure voor die bouwvergunning hoeft echter niet te worden afgewacht. Voor alle kassen die onder de criteria voor extensieve teelt worden gecertificeerd moet bij definitieve oplevering worden aangetoond dat het totale energieverbruik op basis van ten minste 1 jaar teelt minder is geweest dan 25 kubieke meter per vierkante meter aardgasequivalenten per jaar. De tuinder toont dit aan door na 1 jaar teelt het werkelijke energiegebruik van het voorgaande jaar te laten controleren op basis van facturen en meetgegevens en de gegevens in het energiecertificaat. Het Certificatieschema Groen Label Kas 8 (GLK8), ligt ter inzage in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. Het certificatieschema is ook te downloaden via www.groenlabelkas.nl.
 
 **F 1099**
 
@@ -212,7 +212,7 @@ Toelichting: Onder een besloten ruimte wordt verstaan een binnenruimte of een ge
 
 Informatie over het [Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535) kan worden gevonden op www.skal.nl.
 
-**A 1103**
+**F 1103**
 
 **Duurzame melkveestal**
 
@@ -220,7 +220,7 @@ Toelichting: Onder een besloten ruimte wordt verstaan een binnenruimte of een ge
 
 Het certificatieschema Maatlat Duurzame Veehouderij ligt ter inzage in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. Het certificatieschema is ook te downloaden via www.smk.nl. Op deze site vindt u tevens de vigerende criteria, beoordelingsrichtlijnen en aanvullende besluiten.
 
-**A 1113**
+**F 1113**
 
 **Duurzame varkensstal**
 
@@ -232,7 +232,7 @@ Het certificatieschema Maatlat Duurzame Veehouderij ligt ter inzage in de biblio
 
 **Eendenstal**
 
-**A 1123**
+**F 1123**
 
 **Duurzame pluimveestal**
 
@@ -240,17 +240,17 @@ Toelichting: Onder een besloten ruimte wordt verstaan een binnenruimte of een ge
 
 Het certificatieschema Maatlat Duurzame Veehouderij ligt ter inzage in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. Het certificatieschema is ook te downloaden via www.smk.nl. Op deze site vindt u tevens de vigerende criteria, beoordelingsrichtlijnen en aanvullende besluiten.
 
-**B 1124**
+**F 1124**
 
 **Silo voor vloeibaar voer in de melkvee- en melkgeitenhouderij**
 
-**E 1130 aftopping: 20%**
+**B 1130 aftopping 50%**
 
 **Nettenplant- of rooimachine voor bollen of knollen**
 
 Toelichting: Emissiearme nettenplant- of rooimachines kunnen worden gemeld onder C 5001.
 
-**A 1150**
+**F 1150**
 
 **Getrapte pluimveeverdovings- en dodingseenheid op basis van CO2**
 
@@ -262,15 +262,15 @@ Toelichting: Emissiearme nettenplant- of rooimachines kunnen worden gemeld onder
 
 **Windgekoelde condensor**
 
-**B 1210**
+**A 1210**
 
 **Gesloten beitsinstallatie voor roestvrijstalen producten**
 
-**B 1220**
+**A 1220**
 
 **Driedimensionaal lasergraveerapparaat voor stempels**
 
-**A 2040**
+**F 2040**
 
 **Waterstofafleverstation**
 
@@ -280,13 +280,17 @@ Toelichting: Emissiearme nettenplant- of rooimachines kunnen worden gemeld onder
 
 Toelichting: Oplaadpunten die niet-vrij toegankelijk zijn komen niet in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving.
 
-**B 2050**
+**F 2043**
+
+**Accuwisselstation**
+
+**F 2050**
 
 **Aardgasaflever- of aardgasvulpunt**
 
-Toelichting: De compressor, bufferopslag en droger komen alleen in aanmerking voor de milieu-investeringsaftrek, voor zover deze worden gebruikt voor het opslaan en afleveren van aardgas. Alleen niet-commerciële aardgasafleverpunten komen in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving.
+Toelichting: De compressor, bufferopslag en droger komen alleen in aanmerking voor de milieu-investeringsaftrek, voor zover deze worden gebruikt voor het opslaan en afleveren van aardgas.
 
-**B 2061**
+**F 2061**
 
 **Volautomatische fietsenverhuurstalling**
 
@@ -298,7 +302,7 @@ Toelichting: De compressor, bufferopslag en droger komen alleen in aanmerking vo
 
 **Koolwaterstofverwijderingsinstallatie voor stationaire gas- of dieselmotoren (ten minste 50% reductie)**
 
-**B 2100**
+**F 2100**
 
 **Niet-chemische ontsmettingsinstallatie**
 
@@ -306,19 +310,19 @@ Toelichting: Onder een besloten ruimte wordt verstaan een binnenruimte of een ge
 
 Ondermeer bedrijfsmiddelen voor het niet-chemisch ontsmetten van stallen (bloedluis), vliegtuigen, musea, kantoorruimtes, levensmiddelen, diervoeding en bulkgoederen kunnen onder deze omschrijving vallen.
 
-**A 2101**
+**F 2101**
 
 **Ontgassingsinstallatie voor transportcontainers**
 
-**B 2111**
+**F 2111**
 
 **Gesloten koelsysteem of -element**
 
-**D 2112 aftopping: 20%**
+**G 2112**
 
 **Halogeenvrij direct koelsysteem (ombouw of vervanging)**
 
-**C 2113**
+**B 2113**
 
 **Halogeenvrij direct koelsysteem (nieuw)**
 
@@ -326,27 +330,27 @@ Ondermeer bedrijfsmiddelen voor het niet-chemisch ontsmetten van stallen (bloedl
 
 **Halogeenvrij indirect koelsysteem (klein)**
 
-**C 2115**
+**B 2115**
 
 **Halogeenvrij indirect koelsysteem (groot)**
 
 Toelichting: Betaïne- en formiaatoplossingen worden aangemerkt als vloeibare koudedragers.
 
-**D 2117 aftopping: 20%**
+**D 2117 aftopping: 50%**
 
 **Halogeenvrij koelsysteem voor visserij- en koopvaardijschepen (ombouw of vervanging)**
 
 Toelichting: Betaïne- en formiaatoplossingen worden aangemerkt als vloeibare koudedragers.
 
-**A 2130**
+**F 2130**
 
 **Oxyfuel-verbrandingsinstallatie**
 
-**A 2131**
+**F 2131**
 
 **Selectieve katalytische reductie-installatie (SCR)**
 
-**A 2132**
+**F 2132**
 
 **Selectieve non-katalytische reductie-installatie (SNCR)**
 
@@ -362,19 +366,19 @@ Toelichting: Betaïne- en formiaatoplossingen worden aangemerkt als vloeibare ko
 
 **Low NOx-ketel-brandercombinatie voor stoom of thermische olie < 60 milligram per normaal kubieke meter**
 
-**E 2151**
+**F 2151**
 
 **Aluminium container voor bulktransport**
 
-**B 2152**
+**F 2152**
 
 **Dubbeldek trailer**
 
-**A 2153**
+**F 2153**
 
 **Verdichtingsmachine voor bulktransport**
 
-**B 2154 aftopping: 50%**
+**F 2154**
 
 **Vouwkisten voor bulktransport van bloembollen**
 
@@ -386,7 +390,7 @@ Toelichting: Betaïne- en formiaatoplossingen worden aangemerkt als vloeibare ko
 
 **Benuttingssysteem voor CO2 van derden binnen de glastuinbouw**
 
-**A 2181**
+**F 2181**
 
 **SF6-vrij hoog- of middenspanningsschakelsysteem (vervanging)**
 
@@ -394,69 +398,69 @@ Toelichting: Betaïne- en formiaatoplossingen worden aangemerkt als vloeibare ko
 
 **Transformator met plantaardige olie**
 
-**B 2190**
+**F 2190**
 
 **Kasdekreiniginssysteem (aanpassing bestaande kas)**
 
-**A 2210**
+**F 2210**
 
 **Walstroominstallatie op de kade**
 
-**A 2211**
+**F 2211**
 
 **Walstroomaansluiting aan boord van het schip**
 
-**A 3051**
+**F 3051**
 
 **Biologisch luchtfilter voor vluchtige organische stoffen**
 
-**B 3054**
+**F 3054**
 
 **Gas- en dampadsorber met regeneratie**
 
-**A 3055**
+**F 3055**
 
 **Procesgeïntegreerde naverbrander**
 
-**A 3057**
+**F 3057**
 
 **Reinigingsinstallatie voor scheepstanks uit de binnenvaart**
 
-**A 3060**
+**F 3060**
 
 **Biogaswasser**
 
-**D 3061**
+**G 3061**
 
 **Gaswasser**
 
-**A 3063**
+**F 3063**
 
 **Plasma-omzetter voor gasvormige verontreinigingen**
 
-**A 3070**
+**F 3070**
 
 **Oxidatiebed voor zuivering van lucht**
 
-**A 3080**
+**F 3080**
 
 **Reinigings- of ontsmettingsinstallatie**
 
 Toelichting: Ook poederontvetting of reiniging met superkritische CO2 komen in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving.
 
-**B 3110**
+**F 3110**
 
 **(Half-) Droog rookgasreinigingsinstallatie**
 
 Toelichting: (Half-)Droog rookgasreinigingsinstallatie bij crematoria komen alleen in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving milieu investeringen als het aantal crematies per jaar op 1 januari 2004 kleiner was dan 1.500.
 
-**A 3131**
+**F 3131**
 
 **Ontzwavelingsinstallatie**
 
 Toelichting: De apparatuur voor de productie of nuttige aanwending van zwavel of zwavelverbindingen komt niet in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving milieu investeringen.
 
-**B 3140**
+**F 3140**
 
 **Ontsmettingsapparatuur voor eieren of eierverwerking**
 
@@ -468,11 +472,11 @@ Toelichting: De apparatuur voor de productie of nuttige aanwending van zwavel of
 
 **Natreinigingssysteem**
 
-**D 3161**
+**F 3161**
 
 **Microgolfdroger of infrarood- of UV-belichtingseenheid**
 
-**A 3162**
+**F 3162**
 
 **Opbrenginstallatie voor oplosmiddelvrije lak**
 
@@ -480,21 +484,21 @@ Toelichting: De apparatuur voor de productie of nuttige aanwending van zwavel of
 
 **Oplosmiddelemissie-arme verfmengmachine**
 
-**B 3164**
+**F 3164**
 
 **Terugwininstallatie voor overspray**
 
-**A 3190**
+**F 3190**
 
 **Regeneratieve thermische naverbrander voor procesafgassen**
 
 Toelichting: Recuperatieve naverbranders komen niet in aanmerking.
 
-**B 3200**
+**F 3200**
 
 **Statische mengkamers voor naverbranding**
 
-**B 3211**
+**F 3211**
 
 **Druktorens voor waterloze offset**
 
@@ -510,19 +514,19 @@ Toelichting: End-of-pipe-toepassingen en investeringen in uitbreiding van de pro
 
 Toelichting: Met niet-reguliere bedrijfsvoering wordt bedoeld: storingen, onderhoud aan de (reinigings)technieken en opstarten en stoppen van installaties of processen.
 
-**A 4050**
+**F 4050**
 
 **Biologisch luchtfilter voor geurafbraak**
 
-**A 4052**
+**F 4052**
 
 **(Katalytische) Oxidatie-installatie**
 
-**E 4053**
+**F 4053**
 
 **Vacuümfilter voor kolkenzuigers**
 
-**B 4061**
+**F 4061**
 
 **Stralingsvrije meetapparatuur (vervanging)**
 
@@ -546,23 +550,23 @@ Toelichting: Met niet-reguliere bedrijfsvoering wordt bedoeld: storingen, onderh
 
 **Gesinterd ontstoffingsfilter**
 
-**A 4090**
+**F 4090**
 
 **Watermist/microschuim-ontstoffing**
 
-**A 4091**
+**F 4091**
 
 **Windzifter voor vaste stof met materiaalterugwinning**
 
-**A 4092**
+**F 4092**
 
 **Gesloten beladingssysteem**
 
-**A 4093**
+**F 4093**
 
 **Mobiele lostrechter**
 
-**A 4094**
+**F 4094**
 
 **Flexibel klepsysteem voor overslag van bulkgoederen**
 
@@ -574,7 +578,7 @@ Toelichting: Met niet-reguliere bedrijfsvoering wordt bedoeld: storingen, onderh
 
 **Wrijvingsarme en stofemissiebeperkende transportband**
 
-**A 4097**
+**F 4097**
 
 **Windreductiescherm rondom grote bulkopslag**
 
@@ -590,7 +594,7 @@ Toelichting: Met niet-reguliere bedrijfsvoering wordt bedoeld: storingen, onderh
 
 **Natstraalinstallatie**
 
-**D 4101**
+**G 4101**
 
 **Stofvrij straalsysteem**
 
@@ -600,7 +604,7 @@ Toelichting: Met niet-reguliere bedrijfsvoering wordt bedoeld: storingen, onderh
 
 Toelichting: Bij een indirect koelsysteem komen koelmedium en het te koelen product niet met elkaar in contact.
 
-**B 4140**
+**F 4140**
 
 **Alkalizoutvrije vulcanisatie-installatie (ombouw of vervanging)**
 
@@ -608,11 +612,11 @@ Toelichting: Bij een indirect koelsysteem komen koelmedium en het te koelen prod
 
 **Gesloten malsysteem voor kunstharsverwerking**
 
-**B 4150**
+**F 4150**
 
 **Regeleenheid elektrodynamisch remmen**
 
-**B 4151**
+**F 4151**
 
 **Geluidsreducerend smeersysteem voor tram- en treinstellen of rangeerterreinen**
 
@@ -622,15 +626,15 @@ Toelichting: Bij een indirect koelsysteem komen koelmedium en het te koelen prod
 
 Toelichting: ICAO staat voor International Civil Aviation Organization.
 
-**B 4160**
+**F 4160**
 
 **Vast opgesteld lagedruk aggregaat**
 
-**B 4161**
+**F 4161**
 
 **Geluidarme opbouw voor bakwagen, trekker, oplegger, aanhanger of bestelwagen**
 
-**B 4162**
+**F 4162**
 
 **Aanpassen motorgeluid voor bakwagen, trekker of bestelwagen**
 
@@ -638,19 +642,19 @@ Toelichting: ICAO staat voor International Civil Aviation Organization.
 
 **Geluidarme toplaag voor bedrijfsterreinen (aanpassing bestaande situatie)**
 
-**B 4171**
+**F 4171**
 
 **Geluidarme ventilator**
 
-**B 4172**
+**F 4172**
 
 **Geluidarm stroomaggregaat op binnenvaartschip**
 
-**A 4181**
+**F 4181**
 
 **Lichtvervuilingbeperkende verlichting (ombouw of vervanging)**
 
-**A 5000 aftopping: 50%**
+**A 5000**
 
 **Geluid- en emissiearme mobiele machine**
 
@@ -670,11 +674,11 @@ Toelichting: Geluid- en emissiearme mobiele machines kunnen worden gemeld onder 
 
 **Brandstofcelsysteem voor mobiele werktuigen en transportmiddelen**
 
-**A 5060**
+**F 5060**
 
 **Elektro-, hybride- of gasmotor voor vaartuigen**
 
-**B 5070 aftopping: 50%**
+**F 5070**
 
 **Elektrisch of hybride aangedreven voertuig**
 
@@ -684,7 +688,7 @@ Toelichting: Hybride personenauto's waarvoor een verlaagd tarief BPM is betaald 
 
 **Elektrisch aangedreven goederentram**
 
-**B 5072**
+**A 5072**
 
 **Elektrisch aangedreven mobiele machine**
 
@@ -706,77 +710,77 @@ Toelichting: Zie B 5072 voor elektrisch aangedreven mobiele machines.
 
 **Bus met hybridemotor**
 
-**A 5080**
+**F 5080**
 
 **Systeem voor adaptieve cruise control voor vrachtverkeer**
 
-**B 5090 aftopping: 20%**
+**B 5090**
 
 **Hydraulisch heiblok**
 
-**E 5091**
+**D 5091**
 
 **Hydraulische boorstelling**
 
-**E 5101**
+**D 5101**
 
 **Geluidarme mobiele puinbreker**
 
 Toelichting: Emissiearme mobiele puinbrekers kunnen worden gemeld onder A 5000 en C 5001.
 
-**E 5110**
+**D 5110**
 
 **Geluidarme mobiele houtversnipperaar**
 
 Toelichting: Emissiearme houtversnipperaars kunnen worden gemeld onder A 5000 en C 5001.
 
-**E 5111**
+**D 5111**
 
 **Geluidarme gazonmaaier**
 
 Toelichting: Elektrische gazonmaaiers kunnen worden gemeld onder B 5072 en emissiearme gazonmaaiers met een verbrandingsmotor onder A 5000 en C 5001.
 
-**E 5112**
+**D 5112**
 
 **Mobiele compostomzetmachine**
 
-**A 5120**
+**F 5120**
 
 **Natte mobiele tarrascheidingsinstallatie voor bollen en knollen**
 
-**B 5121**
+**A 5121**
 
 **Droge mobiele tarrascheidingsinstallatie voor bollen en knollen**
 
-**E 5122**
+**D 5122**
 
 **Rooimachine met tarrareinigingsinstallatie**
 
 Toelichting: Niet-zelfrijdende rooimachines kunnen ook onder deze code worden gemeld. Emissiearme rooimachines kunnen worden gemeld onder C 5001.
 
-**E 5130**
+**D 5130**
 
 **Milieuvriendelijke landbouwtrekker**
 
 Toelichting: Emissiearme landbouwtrekkers kunnen worden gemeld onder A 5000 en C 5001.
 
-**E 5131**
+**D 5131**
 
 **Milieuvriendelijke gemotoriseerde landbouwmachine**
 
 Toelichting: Zowel landbouwmachines met een verbrandingsmotor als elektrisch aangedreven landbouwmachines kunnen onder deze code worden gemeld. Emissiearme landbouwmachines met een verbrandingsmotor kunnen worden gemeld onder A 5000 en C 5001.
 
-**E 5132**
+**D 5132**
 
 **Milieuvriendelijke getrokken landbouwmachine**
 
-**B 5140 aftopping: 20%**
+**B 5140**
 
 **Geluidarme veeg- of veegzuigmachine**
 
 Toelichting: Zowel straatveegmachines met een verbrandingsmotor als elektrisch aangedreven straatveegmachines kunnen onder deze code worden gemeld.
 
-**B 5141 aftopping: 20%**
+**B 5041**
 
 **Geluidarme kolkenzuiger**
 
@@ -784,129 +788,129 @@ Toelichting: Zowel straatveegmachines met een verbrandingsmotor als elektrisch a
 
 **Geluidarme vuilniswagen**
 
-**B 5143 aftopping: 50%**
+**A 5143**
 
 **Geluidarme vloeren- en stratenreiniger**
 
-**E 5150**
+**D 5150**
 
 **Geluidarm hydrauliek aggregaat**
 
 Toelichting: Emissiearme hydrauliek aggregaten kunnen worden gemeld onder A 5000 en C 5001.
 
-**E 5151**
+**D 5151**
 
 **Geluidarm stroomaggregaat**
 
 Toelichting: Emissiearme stroomaggregaten kunnen worden gemeld onder A 5000 en C 5001.
 
-**E 5160**
+**D 5160**
 
 **Geluidarme motoraangedreven compressor**
 
 Toelichting: Emissiearme compressoren kunnen worden gemeld onder A 5000 en C 5001.
 
-**E 5170**
+**D 5170**
 
 **Geluidarme motorpomp**
 
 Toelichting: Emissiearme motorpompen kunnen worden gemeld onder A 5000 en C 5001.
 
-**E 5180**
+**D 5180**
 
 **Geluidarme laadschop**
 
 Toelichting: Emissiearme laadschoppen kunnen worden gemeld onder A 5000 en C 5001.
 
-**E 5181**
+**D 5181**
 
 **Geluidarme graafmachine**
 
 Toelichting: Emissiearme graafmachines kunnen worden gemeld onder A 5000 en C 5001.
 
-**E 5190**
+**D 5190**
 
 **Geluidarme mobiele kraan**
 
 Toelichting: Emissiearme mobiele kranen kunnen worden gemeld onder A 5000 en C 5001.
 
-**B 5191 aftopping: 20%**
+**5191**
 
 **Geluidarme autolaadkraan**
 
-**E 5200**
+**D 5200**
 
 **Geluidarme vorkheftruck**
 
 Toelichting: Elektrisch aangedreven vorkheftrucks komen niet voor deze code in aanmerking, maar kunnen onder code B 5073 gemeld worden. Emissiearme heftrucks kunnen worden gemeld onder A 5000 en C 5001.
 
-**E 5201**
+**D 5201**
 
 **Geluidarme telescooplader of verreiker**
 
 Toelichting: Emissiearme telescoopladers of verreikers kunnen worden gemeld onder A 5000 en C 5001.
 
-**B 6050**
+**F 6050**
 
 **Gasdetectieapparatuur bij grote opslagen van toxische gassen**
 
-**B 6060**
+**F 6060**
 
 **Branddetectiesysteem in chemicaliënopslagen tot 10 ton**
 
 Toelichting: Branddetectiesystemen bij vuurwerkopslagen komen niet in aanmerking. Vuurwerkopslagen worden niet aangemerkt als chemicaliënopslagen.
 
-**B 6061**
+**F 6061**
 
 **Lichtschuimblusinstallatie voor chemicaliënopslagen**
 
-**B 6062**
+**F 6062**
 
 **Halogeenvrij gekoelde bulkopslag van LPG of toxische gassen (ombouw of vervanging)**
 
-**B 6063**
+**F 6063**
 
 **Halogeenvrij gekoeld bulktransport van LPG en toxische gassen per binnenvaartschip**
 
-**A 6064**
+**F 6064**
 
 **Halogeenvrij gekoeld bulktransport van LPG of toxische gassen per tankcontainer of tankwagen**
 
-**A 6065**
+**F 6065**
 
 **Halogeenvrije gekoelde verlading van LPG of toxische gassen**
 
-**A 6067**
+**F 6067**
 
 **Warmtebestendige tankondersteuning voor lading met hoge temperatuur (ombouw)**
 
 Toelichting: ADNR staat voor Accord Européen relatif au Transport International des Marchandises Dangereuses par voie de Navigation du Rhin.
 
-**B 6068**
+**F 6068**
 
 **Automatisch noodbesturingssysteem voor een binnenvaartschip**
 
-**B 6069**
+**F 6069**
 
 **Gladde ankers en kluizen voor een binnenvaartschip**
 
-**B 6070**
+**F 6070**
 
 **Aanvaringbestendige binnenvaarttanker voor ammoniak of LPG**
 
-**A 6071**
+**F 6071**
 
 **Hittewerende coating van LPG-transporttank**
 
-**B 6072**
+**F 6072**
 
 **Deluge-sprinklersysteem voor losplaatsen van LPG-tankwagens bij tankstations**
 
-**A 6073**
+**F 6073**
 
 **Laad- en losapparatuur voor modaliteitsverschuiving vervoer gevaarlijke stoffen**
 
-**B 6080**
+**F 6080**
 
 **Tweede omhulling voor een proces- of verladingsinstallatie**
 
@@ -914,25 +918,25 @@ Toelichting: ADNR staat voor Accord Européen relatif au Transport International
 
 **Verplaatsbaar tijdelijk opslagreservoir**
 
-**A 6092**
+**F 6092**
 
 **Noodopslagvoorziening voor rioolwater**
 
-**B 6094**
+**F 6094**
 
 **Uitklapbare waterkering**
 
-**B 6100**
+**F 6100**
 
 **Overstromingsbestendige olie/water-afscheider**
 
 Toelichting: Alleen overstromingsbestendige olie-afscheiders voorzien van een platen- of coalescentiepakket komen in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving milieu investeringen.
 
-**B 6111**
+**F 6111**
 
 **Ingeterpte of ondergrondse dubbelwandige tanks en leidingen voor bodembedreigende vloeistoffen**
 
-**B 6140**
+**F 6140**
 
 **Dubbele mechanische asafdichting**
 
@@ -940,7 +944,7 @@ Toelichting: Alleen overstromingsbestendige olie-afscheiders voorzien van een pl
 
 **Geluidarme scheepsschroef**
 
-**A 7040**
+**F 7040**
 
 **Akoestische afschrikkingsapparatuur aan visnetten**
 
@@ -952,7 +956,7 @@ Toelichting: MSC staat voor Marine Stewardship Council. MSC is een internationaa
 
 Onder reststromen worden verstaan stromen die vrijkomen bij productie in de levensmiddelenindustrie. Vismeel wordt niet tot deze bronnen gerekend.
 
-**G 7051**
+**F 7051**
 
 **Visgeleidingssysteem**
 
@@ -960,7 +964,7 @@ Onder reststromen worden verstaan stromen die vrijkomen bij productie in de leve
 
 **Mosselhangcultuur ter vervanging van bodemberoerende mosselvisserij**
 
-**A 7053**
+**F 7053**
 
 **Mosselzaadinvanginstallatie**
 
@@ -974,7 +978,7 @@ Onder reststromen worden verstaan stromen die vrijkomen bij productie in de leve
 
 Toelichting: MSC staat voor Marine Stewardship Council. MSC is een internationaal keurmerk voor duurzame visserij. Meer informatie vindt u op www.msc.org.
 
-**B 7056**
+**A 7056**
 
 **Zoetwaterviskwekerij**
 
@@ -998,15 +1002,15 @@ Onder reststromen worden verstaan stromen die vrijkomen bij productie in de leve
 
 **Infiltratiesysteem**
 
-**A 7061**
+**F 7061**
 
 **Collectieve regenwateropslagplas voor de glastuinbouw**
 
-**A 7062**
+**F 7062**
 
 **Regelpijp voor de berging van regenwater in drainagesystemen**
 
-**A 7063**
+**F 7063**
 
 **Voorziening voor het bufferen en vertraagd afvoeren van regenwater**
 
@@ -1026,35 +1030,35 @@ Toelichting: Bufferen en infiltreren van regenwater kan worden gemeld onder code
 
 Toelichting: Dat het beschermingssysteem geen biociden, koper of andere voor waterorganismen toxische stoffen bevat moet worden aangetoond met een certificaat of een meetrapport. PEC en PNEC uit [richtlijn nr. 98/8/EG](31998L0008) VAN het Europees Parlement en de Raad van 16 februari 1998 betreffende het op de markt brengen van biociden (PbEG L 123) staan voor Predicted Environmetal Concentration en Predicted No Effect Concentration.
 
-**A 7090**
+**F 7090**
 
 **Gesloten grijswatersysteem voor een schip**
 
-**A 7091**
+**F 7091**
 
 **Individuele behandeling van afvalwater (IBA) voor schepen**
 
-**A 7092**
+**F 7092**
 
 **Ballastwatermanagementsysteem**
 
-**B 7093**
+**F 7093**
 
 **Havenontvangstinstallatie bij kleine jachthavens**
 
-**A 7095**
+**F 7095**
 
 **Bioreactor op voertuigen**
 
-**B 7096**
+**F 7096**
 
 **Sedimentatie-installatie**
 
-**B 7100**
+**A 7100**
 
 **Schroefaskokerafdichtingsinstallatie**
 
-**B 7101**
+**A 7101**
 
 **Hennegatkokerafdichting**
 
@@ -1064,7 +1068,7 @@ Toelichting: Dat het beschermingssysteem geen biociden, koper of andere voor wat
 
 Toelichting: Een buikdenning komt bij verlenging van een bestaand schip alleen in aanmerking in het bestaande deel van het schip.
 
-**B 7110**
+**F 7110**
 
 **Spoorwisselsegment zonder smering**
 
@@ -1082,11 +1086,11 @@ Toelichting: Deze code is ook bedoeld voor het aanbrengen van insectengaas in be
 
 **GPS-nauwkeurig buienverwachtingssysteem**
 
-**F 7141 aftopping: 50%**
+**F 7141**
 
 **Spuitmachine voor plaatsspecifiek toedienen van gewasbeschermingsmiddelen met driftbeperkend of middelbesparend systeem**
 
-**A 7142 aftopping: 50%**
+**A 7142**
 
 **Apparatuur voor plaatsspecifiek verzorgen van landbouwgewassen**
 
@@ -1104,19 +1108,19 @@ Toelichting: Deze code is ook bedoeld voor het aanbrengen van insectengaas in be
 
 Toelichting: Sleepslang- en zodenbemesters komen niet in aanmerking voor de milieu-investeringsaftrek.
 
-**B 7162**
+**A 7162**
 
 **Fertigatiesysteem**
 
-**A 7170**
+**F 7170**
 
 **Mechanische onkruidbestrijdingsmachine met plantherkenningssysteem of onkruidsensoren**
 
-**A 7171**
+**F 7171**
 
 **Plaatsspecifieke onkruidbestrijdingsapparatuur voor (half-) verhardingen**
 
-**A 7172**
+**F 7172**
 
 **Aardappellooftrekker**
 
@@ -1132,25 +1136,25 @@ Toelichting: Sleepslang- en zodenbemesters komen niet in aanmerking voor de mili
 
 **Intrarijwieder**
 
-**A 7180**
+**F 7180**
 
 **Heetwaterinstallatie voor fruitbehandeling**
 
-**A 7187**
+**F 7187**
 
 **Boomgaardspuitmachine met variabele luchtondersteuning**
 
-**B 7190**
+**F 7190**
 
 **Installatie voor het verwijderen van zware metalen uit kunstmest**
 
 Toelichting: Dat de installatie kunstmest produceert met een dergelijke lage concentratie dient te zijn aangetoond door een onafhankelijk meetinstituut of laboratorium.
 
-**B 7200**
+**F 7200**
 
 **Mobiele verbrandingsoven voor verdelging van eikenprocessierupsen**
 
-**E 8000**
+**B 8000**
 
 **Apparatuur voor reductie van grondstoffengebruik voor verpakkingen (ombouw of vervanging)**
 
@@ -1180,17 +1184,21 @@ Toelichting: End-of-pipe toepassingen en investeringen in uitbreiding van de pro
 
 Toelichting: Apparatuur voor het zuiveren van de afvalwaterstromen komt niet in aanmerkingvoor de milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-**B 8040**
+**F 8005**
+
+**Installatie voor het verwerken van mest onder terugwinning van fosfaat of stikstof**
+
+**A 8040**
 
 **Camerapen voor driedimensionale gebitsopnames**
 
 Toelichting: Slechts één computer, beeldscherm en software behorende bij de camerapen komen in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-**B 8050**
+**F 8050**
 
 **Innamemachine voor verpakkingen**
 
-**B 8051**
+**F 8051**
 
 **Rekfoliewikkelmachine**
 
@@ -1200,119 +1208,119 @@ Toelichting: Een verklaring van de producent of leverancier van de rekfoliewikke
 
 **Reinigingsinstallatie op basis van koolzuur- of ijskorrels**
 
-**B 8070**
+**F 8070**
 
 **Pyrolyse-installatie voor hergebruik van afvalstoffen**
 
-**B 8071**
+**F 8071**
 
 **Installatie voor het vervaardigen van bouwstoffen uit afvalstromen**
 
-**A 8072**
+**F 8072**
 
 **Stofemissievrije denatureringsinstallatie voor asbesthoudend afval en/of asbesthoudende grond**
 
-**B 8073**
+**F 8073**
 
 **Installatie voor het versneld verouderen van (AVI-) bodemas**
 
-**A 8074**
+**F 8074**
 
 **Thermische denatureringsinstallatie voor asbestcementproducten**
 
-**A 8090**
+**F 8090**
 
 **Olierecyclingsinstallatie**
 
-**B 8100**
+**A 8100**
 
 **Smeeroliesysteem voor benzine- of dieselmotoren**
 
-**B 8101**
+**F 8101**
 
 **Automatisch smeersysteem**
 
-**A 8120**
+**F 8120**
 
 **Hoog rendement destillatiesysteem voor laboratoria**
 
-**B 8130**
+**F 8130**
 
 **Infrarood productiebakoven**
 
-**A 8132**
+**F 8132**
 
 **Versvetafscheider**
 
 Toelichting: Het vet dient direct na het ontstaan van het vettige afvalwater door een centrifuge afgescheiden te worden. Gewone vetafscheiders scheiden het vet op basis van de zwaartekracht en komen niet in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-**B 8140 aftopping: 50%**
+**F 8140**
 
 **Droogschilmachine**
 
-**B 8141**
+**F 8141**
 
 **Droge preischoningslijn**
 
-**B 8142**
+**F 8142**
 
 **Mobiele schoningsinstallatie**
 
-**B 8148**
+**F 8148**
 
 **Waterbesparend toilet**
 
-**A 8149**
+**F 8149**
 
 **Toilet met urinescheiding**
 
-**B 8150**
+**F 8150**
 
 **Grijswater-recyclingsinstallatie**
 
-**B 8151**
+**F 8151**
 
 **Decentrale sanitatie-installatie**
 
-**A 8160**
+**F 8160**
 
 **Membraanfiltratie-installatie met terugwinning grondstoffen**
 
-**A 8161**
+**F 8161**
 
 **Terugwinningsinstallatie voor metalen uit afvalwater**
 
-**B 8162**
+**F 8162**
 
 **Voorziening voor gecontroleerde regenwateropslag op platte daken**
 
 Toelichting: Voorzieningen voor het bufferen en vertraagd afvoeren van regenwater kunnen worden gemeld onder A 7063.
 
-**B 8165**
+**F 8165**
 
 **Watergenerator voor offshore, vaar- of voertuigen**
 
-**B 8170**
+**F 8170**
 
 **Regenwaterinstallatie**
 
-**B 8171**
+**F 8171**
 
 **Ondergrondse wateropslagvoorziening**
 
-**B 8180**
+**G 8180**
 
 **Cascadesysteem voor waterbesparing**
 
-**B 8190**
+**F 8190**
 
 **Hydrofysische ontsmettingsinstallatie**
 
-**B 8200**
+**F 8200**
 
 **Hydrodynamisch cavitatiesysteem**
 
-**B 8201**
+**F 8201**
 
 **Ultrageluidinstallatie voor koel-, proces- of zwembadwater**
 
@@ -1320,23 +1328,23 @@ Toelichting: Voorzieningen voor het bufferen en vertraagd afvoeren van regenwate
 
 **Wasinstallatie voor zeefzand en granulaat**
 
-**B 8212**
+**F 8212**
 
 **Roterend filter of centrifuge met materiaalterugwinning**
 
-**B 8221**
+**F 8221**
 
 **Terugwinningsinstallatie voor betonpuin**
 
-**A 8222**
+**F 8222**
 
 **Toevoerinstallatie voor betonpuingranulaat, breek- of zeefzand bij betoncentrales**
 
-**B 8223**
+**F 8223**
 
 **Installatie voor hergebruik van zaagstof**
 
-**B 8230**
+**F 8230**
 
 **Recyclingsinstallatie voor bitumineus afval**
 
@@ -1348,23 +1356,23 @@ Toelichting: Voorzieningen voor het bufferen en vertraagd afvoeren van regenwate
 
 **Thermische scheidingsinstallatie bitumineus afval**
 
-**A 8233**
+**F 8233**
 
 **Recyclingsinstallatie voor bitumen dakbedekking bij asfaltcentrales**
 
-**A 8240**
+**F 8240**
 
 **Recyclingsinstallatie voor gips**
 
-**B 8250**
+**A 8250**
 
 **Accucel productie-eenheid**
 
-**B 8260**
+**F 8260**
 
 **Apparatuur voor hergebruik van regeneratiechemicaliën**
 
-**A 8270**
+**F 8270**
 
 **Armatuur voor vluchtweg- en oriëntatieverlichting met ultracondensatoren (aanpassing bestaande situatie)**
 
@@ -1372,55 +1380,55 @@ Toelichting: Voorzieningen voor het bufferen en vertraagd afvoeren van regenwate
 
 **Rasterwalsreinigingsinstallatie**
 
-**B 8290**
+**F 8290**
 
 **Hogesnelheid thermische spuitinstallatie voor metallische deklagen**
 
-**B 8291**
+**F 8291**
 
 **Poederterugwininstallatie voor poederspuitcabines**
 
-**B 8292**
+**F 8292**
 
 **Installatie voor het aanbrengen van een keramische deklaag**
 
-**B 8300**
+**F 8300**
 
 **Terugwininstallatie voor waterverdunbare verf, lak, inkt of lijm**
 
-**B 8301**
+**F 8301**
 
 **Aftapinstallatie**
 
-**B 8310**
+**F 8310**
 
 **Verwerkingsinstallatie voor kunstgras**
 
-**B 8320**
+**F 8320**
 
 **Recyclingsinstallatie voor polystyreenhardschuim**
 
-**E 8321**
+**F 8321**
 
 **Recyclingsinstallatie voor glasvezelversterkt kunststof**
 
-**E 8322**
+**F 8322**
 
 **Kunststofscheidingsinstallatie**
 
-**B 8323**
+**F 8323**
 
 **Kunststofproductie-installatie voor kunststofrecycling**
 
-**B 8325**
+**A 8325**
 
 **Gasinjectiesysteem voor spuitgietmachines**
 
-**B 8326**
+**F 8326**
 
 **Zelfregelende matrijs voor rubberverwerking**
 
-**B 8340**
+**F 8340**
 
 **Fosfaatverwijderingsinstallatie**
 
@@ -1428,15 +1436,15 @@ Toelichting: Voorzieningen voor het bufferen en vertraagd afvoeren van regenwate
 
 **Mobiele grondontsmettingsmachine**
 
-**B 8361 aftopping: 20%**
+**F 8361**
 
 **Plantrobot met volledig gecontroleerde toediening van bodemfungicide**
 
-**B 8362**
+**F 8362**
 
 **Potafdekinstallatie**
 
-**A 8380**
+**F 8380**
 
 **Bemestingseenheid**
 
@@ -1450,7 +1458,7 @@ Toelichting: Sleepslang- en zodenbemesters komen niet in aanmerking voor de mili
 
 **Systeem voor bollenbroei op stromend water**
 
-**B 8470 aftopping: 50%**
+**F 8470**
 
 **Heteluchtbehandelingsinstallatie**
 
@@ -1458,19 +1466,19 @@ Toelichting: Sleepslang- en zodenbemesters komen niet in aanmerking voor de mili
 
 **Apparatuur voor verwijdering van stikstof uit digestaat of mest**
 
-**B 9070**
+**F 9070**
 
 **Persgaskoeler**
 
-**B 9090**
+**F 9090**
 
 **Dresgrondrecyclingsinstallatie**
 
-**B 9100**
+**F 9100**
 
 **Saneringssysteem voor gestimuleerde afbraak of vastlegging in de bodem**
 
-**B 9101**
+**F 9101**
 
 **Systeem voor nuttig gebruik van saneringswater**
 
@@ -1478,101 +1486,101 @@ Toelichting: Het zuiveringswerk om te lozen komt niet in aanmerking voor de mili
 
 Het zuiveringswerk dat nodig is om aanwending van het saneringswater mogelijk te maken, komt wel in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-**B 9105**
+**F 9105**
 
 **Directe chemische oxidatie-installatie voor bodemsanering**
 
-**B 9106**
+**A 9106**
 
 **Stoomstripsysteem voor bodemsanering**
 
-**B 9107**
+**F 9107**
 
 **Reactief scherm voor bodemsanering**
 
-**A 9109**
+**F 9109**
 
 **Apparatuur voor onderzuigen voor sanering of verlaging van bodems**
 
 Toelichting: Het draag- en vervoermiddel (ponton of hydraulische kraan) komen niet in aanmerking voor milieu-investeringsaftrek en willekeurige afschrijving milieu-investeringen.
 
-**B 9110**
+**F 9110**
 
 **Wormwielbaggerkop met milieukap voor saneringsbaggeren**
 
-**B 9111**
+**F 9111**
 
 **Schijfbodemsnijkop**
 
-**D 9112**
+**F 9112**
 
 **Baggerslibreinigingsinstallatie**
 
-**B 9113**
+**F 9113**
 
 **Gestimuleerde landfarmingsinstallatie voor baggerslib**
 
-**A 9114**
+**F 9114**
 
 **Baggerspeciereinigingssysteem voor (an)organische verontreinigingen**
 
-**A 9120**
+**F 9120**
 
 **Moerasbed- of helofytenfilter**
 
-**B 9130**
+**F 9130**
 
 **Bioreactor met verminderde slibretentie voor stikstofverwijdering**
 
-**A 9131**
+**F 9131**
 
 **Membraanbioreactor**
 
-**A 9141**
+**G 9141**
 
 **Biologisch actief zandfilter**
 
-**E 9161**
+**G 9161**
 
 **Biologische augmentatiereactor**
 
-**B 9162**
+**F 9162**
 
 **Tegenstroom filtrerend gefluïdiseerd zandbed (aanpassing bestaande zuivering)**
 
-**B 9163**
+**F 9163**
 
 **Aërobe korrelslibreactor**
 
-**B 9170**
+**F 9170**
 
 **Anaërobe reactor voor gelijktijdige verwijdering van metalen en zwavel**
 
-**D 9180**
+**G 9180**
 
 **Anaërobe waterbehandelingsinstallatie**
 
-**A 9182**
+**F 9182**
 
 **Ultrageluidsinstallatie voor zuiveringsslib**
 
-**B 9183**
+**F 9183**
 
 **Elektro-osmotische slibontwateringsinstallatie**
 
-**B 9190**
+**F 9190**
 
 **Filter voor verwijdering van zwevende deeltjes**
 
-**A 9220**
+**F 9220**
 
 **(Katalytische) Oxidatiereactor**
 
-**B 9221**
+**F 9221**
 
 **Natte thermische oxidatie van slib onder hoge druk**
 
-**B 9240**
+**F 9240**
 
 **Destillatie-installatie met damprecompressie**
 
@@ -1580,19 +1588,19 @@ Toelichting: Het draag- en vervoermiddel (ponton of hydraulische kraan) komen ni
 
 **Waterzuiveringsinstallatie voor chemisch verontreinigd spuiwater uit de glastuinbouw, de fruit- of witlofteelt**
 
-**B 9291**
+**F 9291**
 
 **Olieverwerkend geotextiel**
 
-**B 9300**
+**F 9300**
 
 **Scheidingsinstallatie voor catering- of kantine-afval**
 
-**B 9302**
+**F 9302**
 
 **Reststoffeninzamelpunt**
 
-**B 9303**
+**F 9303**
 
 **Ondergrondse afvalcontainer voor GFT of swill**
 
@@ -1600,81 +1608,83 @@ Toelichting: Het draag- en vervoermiddel (ponton of hydraulische kraan) komen ni
 
 **Pneumatisch ondergronds transportsysteem**
 
-**B 9305**
+**F 9305**
 
 **Zelfpersende afvalcontainer op zonne-energie**
 
-**B 9310**
+**F 9310**
 
 **Asbestcontainer**
 
-**B 9311**
+**F 9311**
 
 **Container voor gescheiden inzameling van gips uit bouw- en sloopafval**
 
-**E 9320**
+**G 9320**
 
 **Zifter voor scheiding van vaste afvalstoffen**
 
-**E 9330**
+**G 9330**
 
 **Mobiele straalmiddelopschooninstallatie**
 
-**B 9340**
+**F 9340**
 
 **Drukvormwasinstallatie voor zeefdrukvormen**
 
 Toelichting: Het reinigen van persrollen komt niet in aanmerking voor de milieu-investeringsaftrek en willekeurige afschrijving milieu- investeringen.
 
-**B 9341**
+**F 9341**
 
 **Gesloten wasautomaat voor verfgereedschap**
 
-**E 9380**
+**G 9380**
 
 **Non-ferro-afscheidingsinstallatie**
 
-**E 9390**
+**G 9390**
 
 **Optisch sorteersysteem**
 
-**E 9391**
+**G 9391**
 
 **Elektrostatische scheidingsapparatuur**
 
-**E 9400**
+**G 9400**
 
 **Elektrostatische separatoren**
 
-**B 9410**
+**F 9410**
 
 **Röntgen-afvalscheidingsinstallatie**
 
-**B 9420**
+**F 9420**
 
 **Afvalfolie-rolpers**
 
-**E 9431**
+**G 9431**
 
 **Pyrolyse-installatie**
 
-**B 9433**
+**F 9433**
 
 **Wervelbedverbrandingsinstallatie voor teerhoudend wegenbouwmateriaal**
 
-**C 9434**
+**F 9434**
 
 **Plasma-omzetter voor gevaarlijke afvalstoffen**
 
-**B 9440**
+**F 9440**
 
 **Vergassingsinstallatie**
 
-**E 9450**
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+**G 9450**
 
 **Composteringsinstallatie**
 
-**E 9472**
+**G 9472**
 
 **Droog en -pelleteerinstallatie voor varkens- en pluimveemest**
 
