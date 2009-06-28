@@ -4,7 +4,7 @@ identifier: "BWBR0026253"
 country: "nl"
 rank: "pbo"
 publication_date: "2009-06-28"
-last_updated: "2009-04-01"
+last_updated: "2009-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026253"
 soort: "pbo"
@@ -58,7 +58,7 @@ Besluit:
 | afzetorganisatie/ bemiddelaar | : | de natuurlijke of rechtspersoon die, voor zover niet voor eigen rekening en risico, in opdracht van of ten behoeve van telers de door hen geteelde producten verkoopt; |
 | bewerken | : | handelingen waardoor van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; |
 | braakland | : | de gronden die in enig oogstjaar tot en met april van het daarop volgende oogstjaar niet worden beteeld, |
-| cultuurgrond | : | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026253&paragraaf=3&artikel=3&z=2009-06-28&g=2009-04-01) genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
+| cultuurgrond | : | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026253&paragraaf=3&artikel=3&z=2009-06-28&g=2009-06-28) genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 | contractteelt | : | de teelt van gewassen of producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler; |
 | gemeten maat | : | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 | groenten en fruit | : | de producten vermeld in [artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=3); |
@@ -182,7 +182,7 @@ Besluit:
 
 ##### Artikel 4
 
-1. Voor de toepassing van [artikel 3, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026253&paragraaf=3&artikel=3&z=2009-06-28&g=2009-04-01), wordt onder de bij zijn onderneming behorende cultuurgrond mede verstaan de cultuurgrond die:
+1. Voor de toepassing van [artikel 3, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026253&paragraaf=3&artikel=3&z=2009-06-28&g=2009-06-28), wordt onder de bij zijn onderneming behorende cultuurgrond mede verstaan de cultuurgrond die:
 
 - a. zaai- of pootklaar is gehuurd;
 
@@ -220,7 +220,7 @@ Besluit:
 
 ##### Artikel 8
 
-Indien uit de ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026253&paragraaf=4&artikel=7&z=2009-06-28&g=2009-04-01), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026253&paragraaf=4&artikel=7&z=2009-06-28&g=2009-06-28), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 9
 
