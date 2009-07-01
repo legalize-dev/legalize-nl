@@ -4,7 +4,7 @@ identifier: "BWBR0015386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-07-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015386"
 soort: "ministeriele-regeling"
@@ -62,25 +62,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2008 tot en met 30 juni 2009 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2008-07-01&g=2008-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2009 tot en met 30 juni 2010 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 3
 
-De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2008 tot en met 30 juni 2009 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2008-07-01&g=2008-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2009 tot en met 30 juni 2010 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 4
 
-De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2008 tot en met 30 juni 2009 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2008-07-01&g=2008-07-01).
+De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2009 tot en met 30 juni 2010 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 5
 
-De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2008 tot en met 30 juni 2009 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2008-07-01&g=2008-07-01).
+De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2009 tot en met 30 juni 2010 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2009-07-01&g=2009-07-01).
 
 #### § 3. Maximale huurverhogingspercentages
 
 ##### Artikel 6
 
-1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2008-07-01&g=2008-07-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2008-07-01&g=2008-07-01) vervatte schema’s.
+1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2009-07-01&g=2009-07-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2009-07-01&g=2009-07-01) vervatte schema’s.
 
 2. Het eerste lid is niet van toepassing op woonruimte die bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1) en op woonruimte die behoort tot een beschermd stads- en dorpsgezicht als bedoeld in [artikel 1, onder g, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1), in dit geval voor zover vanwege het behoren tot een beschermd stads- en dorpsgezicht door de verhuurder noodzakelijkerwijs aan deze woonruimte gelden zijn besteed.
 
@@ -110,21 +110,21 @@ De leden en de plaatsvervangende leden van een huurcommissie genieten vergoeding
 
 ##### Artikel 10
 
-1. Een verzoek om een uitspraak als bedoeld in [artikel 7: 254](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=254) of [7: 257, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=257) wordt ingediend op een formulier overeenkomstig [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2008-07-01&g=2008-07-01) bij deze regeling.
+1. Een verzoek om een uitspraak als bedoeld in [artikel 7: 254](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=254) of [7: 257, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=257) wordt ingediend op een formulier overeenkomstig [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2009-07-01&g=2009-07-01) bij deze regeling.
 
-2. Een verzoek om een uitspraak als bedoeld in [artikel 7: 260, eerste lid van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), wordt ingediend op een formulier overeenkomstig [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2008-07-01&g=2008-07-01) bij deze regeling.
+2. Een verzoek om een uitspraak als bedoeld in [artikel 7: 260, eerste lid van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), wordt ingediend op een formulier overeenkomstig [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2009-07-01&g=2009-07-01) bij deze regeling.
 
-3. Een verzoek om een uitspraak als bedoeld in [artikel 7: 261, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=261) wordt ingediend op een formulier overeenkomstig [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IX&z=2008-07-01&g=2008-07-01) bij deze regeling
+3. Een verzoek om een uitspraak als bedoeld in [artikel 7: 261, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=261) wordt ingediend op een formulier overeenkomstig [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IX&z=2009-07-01&g=2009-07-01) bij deze regeling
 
-4. Een verzoek om een uitspraak als bedoeld in [artikel 7: 249](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=249) of [7: 258 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=258) wordt ingediend op een formulier overeenkomstig [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=X&z=2008-07-01&g=2008-07-01) bij deze regeling.
+4. Een verzoek om een uitspraak als bedoeld in [artikel 7: 249](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=249) of [7: 258 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=258) wordt ingediend op een formulier overeenkomstig [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=X&z=2009-07-01&g=2009-07-01) bij deze regeling.
 
-5. Een verzoek om een uitspraak als bedoeld in [artikel 7: 253, eerste of vijfde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) of [artikel 12, vijfde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=12) wordt ingediend op een formulier overeenkomstig [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XI&z=2008-07-01&g=2008-07-01) bij deze regeling.
+5. Een verzoek om een uitspraak als bedoeld in [artikel 7: 253, eerste of vijfde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) of [artikel 12, vijfde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=12) wordt ingediend op een formulier overeenkomstig [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XI&z=2009-07-01&g=2009-07-01) bij deze regeling.
 
-6. Een verzoek om een uitspraak als bedoeld in [artikel 7: 253, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) wordt ingediend op een formulier overeenkomstig [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XII&z=2008-07-01&g=2008-07-01) bij deze regeling.
+6. Een verzoek om een uitspraak als bedoeld in [artikel 7: 253, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) wordt ingediend op een formulier overeenkomstig [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XII&z=2009-07-01&g=2009-07-01) bij deze regeling.
 
-7. Een verzoek om een uitspraak als bedoeld in [artikel 7: 255, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=255) wordt ingediend op een formulier overeenkomstig [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XIII&z=2008-07-01&g=2008-07-01) bij deze regeling.
+7. Een verzoek om een uitspraak als bedoeld in [artikel 7: 255, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=255) wordt ingediend op een formulier overeenkomstig [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XIII&z=2009-07-01&g=2009-07-01) bij deze regeling.
 
-8. Voor het doen van een voorstel tot verlaging van de huurprijs als bedoeld in [artikel 7: 252, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252) wordt gebruik gemaakt van een formulier overeenkomstig [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XIV&z=2008-07-01&g=2008-07-01) bij deze regeling, vergezeld van een formulier overeenkomstig [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVa&z=2008-07-01&g=2008-07-01), [XVb](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVb&z=2008-07-01&g=2008-07-01) of [XVc](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVc&z=2008-07-01&g=2008-07-01) bij deze regeling.
+8. Voor het doen van een voorstel tot verlaging van de huurprijs als bedoeld in [artikel 7: 252, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252) wordt gebruik gemaakt van een formulier overeenkomstig [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XIV&z=2009-07-01&g=2009-07-01) bij deze regeling, vergezeld van een formulier overeenkomstig [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVa&z=2009-07-01&g=2009-07-01), [XVb](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVb&z=2009-07-01&g=2009-07-01) of [XVc](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVc&z=2009-07-01&g=2009-07-01) bij deze regeling.
 
 #### § 7. Vrijstelling leges
 
@@ -140,7 +140,7 @@ De leden en de plaatsvervangende leden van een huurcommissie genieten vergoeding
 
 ##### Artikel 12
 
-Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2008-07-01&g=2008-07-01).
+Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2009-07-01&g=2009-07-01).
 
 #### § 8. Gebreken aan de woning
 
@@ -156,9 +156,9 @@ Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in 
 
 ##### Artikel 14
 
-1. Indien een huurcommissie een besluit als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=8&artikel=13&z=2008-07-01&g=2008-07-01), heeft genomen, zendt zij een afschrift daarvan alsmede van de desbetreffende uitspraak naar de overige huurcommissies, uitgezonderd de huurcommissies die in de vergadering waarin het desbetreffende besluit is genomen over het aan dat besluit ten grondslag liggende voorstel hebben beslist.
+1. Indien een huurcommissie een besluit als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=8&artikel=13&z=2009-07-01&g=2009-07-01), heeft genomen, zendt zij een afschrift daarvan alsmede van de desbetreffende uitspraak naar de overige huurcommissies, uitgezonderd de huurcommissies die in de vergadering waarin het desbetreffende besluit is genomen over het aan dat besluit ten grondslag liggende voorstel hebben beslist.
 
-2. De huurcommissie aan wie een afschrift van een besluit als bedoeld in het eerste lid is gezonden, kan een overeenkomstig besluit nemen. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=8&artikel=13&z=2008-07-01&g=2008-07-01) is met betrekking tot de totstandkoming van een zodanig besluit en de aanpassing van het gebrekenboek van overeenkomstige toepassing.
+2. De huurcommissie aan wie een afschrift van een besluit als bedoeld in het eerste lid is gezonden, kan een overeenkomstig besluit nemen. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=8&artikel=13&z=2009-07-01&g=2009-07-01) is met betrekking tot de totstandkoming van een zodanig besluit en de aanpassing van het gebrekenboek van overeenkomstige toepassing.
 
 #### § 9. Slotbepalingen
 
@@ -178,351 +178,383 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling huurprijzen woonruimte.
 
 ## Bijlage I
 
-| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| Maximale huurprijsgrenzen voor zelfstandige woningen per 1 juli 2009 | Maximale huurprijsgrenzen voor zelfstandige woningen per 1 juli 2009 | Maximale huurprijsgrenzen voor zelfstandige woningen per 1 juli 2009 | Maximale huurprijsgrenzen voor zelfstandige woningen per 1 juli 2009 | Maximale huurprijsgrenzen voor zelfstandige woningen per 1 juli 2009 | Maximale huurprijsgrenzen voor zelfstandige woningen per 1 juli 2009 | Maximale huurprijsgrenzen voor zelfstandige woningen per 1 juli 2009 | Maximale huurprijsgrenzen voor zelfstandige woningen per 1 juli 2009 | Maximale huurprijsgrenzen voor zelfstandige woningen per 1 juli 2009 | Maximale huurprijsgrenzen voor zelfstandige woningen per 1 juli 2009 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 40 | 170,65 | 82 | 350,64 | 124 | 547,34 | 166 | 744,02 | 208 | 940,72 |
-| 41 | 174,92 | 83 | 355,33 | 125 | 552,03 | 167 | 748,71 | 209 | 945,41 |
-| 42 | 179,19 | 84 | 360,00 | 126 | 556,70 | 168 | 753,39 | 210 | 950,10 |
-| 43 | 183,45 | 85 | 364,69 | 127 | 561,39 | 169 | 758,08 | 211 | 954,77 |
-| 44 | 187,70 | 86 | 369,37 | 128 | 566,08 | 170 | 762,76 | 212 | 959,45 |
-| 45 | 191,98 | 87 | 374,05 | 129 | 570,75 | 171 | 767,45 | 213 | 964,14 |
-| 46 | 196,25 | 88 | 378,74 | 130 | 575,45 | 172 | 772,12 | 214 | 968,82 |
-| 47 | 200,51 | 89 | 383,42 | 131 | 580,12 | 173 | 776,82 | 215 | 973,50 |
-| 48 | 204,79 | 90 | 388,11 | 132 | 584,80 | 174 | 781,48 | 216 | 978,19 |
-| 49 | 209,05 | 91 | 392,79 | 133 | 589,50 | 175 | 786,18 | 217 | 982,87 |
-| 50 | 213,31 | 92 | 397,47 | 134 | 594,17 | 176 | 790,85 | 218 | 987,55 |
-| 51 | 217,56 | 93 | 402,16 | 135 | 598,85 | 177 | 795,54 | 219 | 992,24 |
-| 52 | 221,84 | 94 | 406,83 | 136 | 603,53 | 178 | 800,23 | 220 | 996,92 |
-| 53 | 226,10 | 95 | 411,52 | 137 | 608,22 | 179 | 804,91 | 221 | 1001,60 |
-| 54 | 230,37 | 96 | 416,21 | 138 | 612,90 | 180 | 809,58 | 222 | 1006,29 |
-| 55 | 234,64 | 97 | 420,88 | 139 | 617,58 | 181 | 814,29 | 223 | 1010,97 |
-| 56 | 238,91 | 98 | 425,57 | 140 | 622,26 | 182 | 818,95 | 224 | 1015,65 |
-| 57 | 243,16 | 99 | 430,26 | 141 | 626,96 | 183 | 823,64 | 225 | 1020,34 |
-| 58 | 247,43 | 100 | 434,93 | 142 | 631,62 | 184 | 828,32 | 226 | 1025,02 |
-| 59 | 251,70 | 101 | 439,62 | 143 | 636,32 | 185 | 833,01 | 227 | 1029,70 |
-| 60 | 255,98 | 102 | 444,30 | 144 | 641,00 | 186 | 837,69 | 228 | 1034,39 |
-| 61 | 260,23 | 103 | 448,98 | 145 | 645,68 | 187 | 842,38 | 229 | 1039,07 |
-| 62 | 264,50 | 104 | 453,67 | 146 | 650,37 | 188 | 847,06 | 230 | 1043,75 |
-| 63 | 268,76 | 105 | 458,35 | 147 | 655,05 | 189 | 851,75 | 231 | 1048,43 |
-| 64 | 273,02 | 106 | 463,04 | 148 | 659,72 | 190 | 856,43 | 232 | 1053,12 |
-| 65 | 277,29 | 107 | 467,72 | 149 | 664,43 | 191 | 861,11 | 233 | 1057,80 |
-| 66 | 281,57 | 108 | 472,40 | 150 | 669,09 | 192 | 865,79 | 234 | 1062,48 |
-| 67 | 285,83 | 109 | 477,09 | 151 | 673,78 | 193 | 870,47 | 235 | 1067,17 |
-| 68 | 290,08 | 110 | 481,76 | 152 | 678,46 | 194 | 875,17 | 236 | 1071,85 |
-| 69 | 294,36 | 111 | 486,45 | 153 | 683,15 | 195 | 879,84 | 237 | 1076,53 |
-| 70 | 298,61 | 112 | 491,14 | 154 | 687,83 | 196 | 884,52 | 238 | 1081,22 |
-| 71 | 302,88 | 113 | 495,81 | 155 | 692,51 | 197 | 889,21 | 239 | 1085,90 |
-| 72 | 307,15 | 114 | 500,51 | 156 | 697,19 | 198 | 893,89 | 240 | 1090,58 |
-| 73 | 311,42 | 115 | 505,19 | 157 | 701,89 | 199 | 898,57 | 241 | 1095,27 |
-| 74 | 315,68 | 116 | 509,86 | 158 | 706,55 | 200 | 903,26 | 242 | 1099,95 |
-| 75 | 319,95 | 117 | 514,55 | 159 | 711,25 | 201 | 907,94 | 243 | 1104,63 |
-| 76 | 324,21 | 118 | 519,23 | 160 | 715,92 | 202 | 912,63 | 244 | 1109,32 |
-| 77 | 328,48 | 119 | 523,91 | 161 | 720,61 | 203 | 917,31 | 245 | 1114,00 |
-| 78 | 332,75 | 120 | 528,60 | 162 | 725,30 | 204 | 921,99 | 246 | 1118,68 |
-| 79 | 337,01 | 121 | 533,28 | 163 | 729,97 | 205 | 926,67 | 247 | 1123,35 |
-| 80 | 341,28 | 122 | 537,98 | 164 | 734,65 | 206 | 931,36 | 248 | 1128,05 |
-| 81 | 345,95 | 123 | 542,65 | 165 | 739,35 | 207 | 936,04 | 249 | 1132,72 |
-|   |   |   |   |   |   |   |   | 250 | 1137,41 |
+| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| 40 | 174,92 | 82 | 359,41 | 124 | 561,03 | 166 | 762,62 | 208 | 964,24 |
+| 41 | 179,30 | 83 | 364,22 | 125 | 565,83 | 167 | 767,43 | 209 | 969,05 |
+| 42 | 183,67 | 84 | 369,00 | 126 | 570,62 | 168 | 772,23 | 210 | 973,86 |
+| 43 | 188,04 | 85 | 373,81 | 127 | 575,43 | 169 | 777,04 | 211 | 978,64 |
+| 44 | 192,40 | 86 | 378,61 | 128 | 580,24 | 170 | 781,83 | 212 | 983,44 |
+| 45 | 196,78 | 87 | 383,41 | 129 | 585,02 | 171 | 786,64 | 213 | 988,25 |
+| 46 | 201,16 | 88 | 388,21 | 130 | 589,84 | 172 | 791,43 | 214 | 993,04 |
+| 47 | 205,53 | 89 | 393,01 | 131 | 594,63 | 173 | 796,24 | 215 | 997,84 |
+| 48 | 209,91 | 90 | 397,82 | 132 | 599,42 | 174 | 801,02 | 216 | 1002,65 |
+| 49 | 214,28 | 91 | 402,61 | 133 | 604,24 | 175 | 805,84 | 217 | 1007,45 |
+| 50 | 218,65 | 92 | 407,41 | 134 | 609,03 | 176 | 810,63 | 218 | 1012,24 |
+| 51 | 223,00 | 93 | 412,22 | 135 | 613,83 | 177 | 815,43 | 219 | 1017,05 |
+| 52 | 227,39 | 94 | 417,00 | 136 | 618,62 | 178 | 820,24 | 220 | 1021,85 |
+| 53 | 231,76 | 95 | 421,81 | 137 | 623,43 | 179 | 825,04 | 221 | 1026,64 |
+| 54 | 236,13 | 96 | 426,62 | 138 | 628,23 | 180 | 829,82 | 222 | 1031,45 |
+| 55 | 240,51 | 97 | 431,41 | 139 | 633,02 | 181 | 834,65 | 223 | 1036,25 |
+| 56 | 244,89 | 98 | 436,21 | 140 | 637,82 | 182 | 839,43 | 224 | 1041,05 |
+| 57 | 249,24 | 99 | 441,02 | 141 | 642,64 | 183 | 844,24 | 225 | 1045,85 |
+| 58 | 253,62 | 100 | 445,81 | 142 | 647,41 | 184 | 849,03 | 226 | 1050,65 |
+| 59 | 258,00 | 101 | 450,61 | 143 | 652,23 | 185 | 853,84 | 227 | 1055,45 |
+| 60 | 262,38 | 102 | 455,41 | 144 | 657,03 | 186 | 858,64 | 228 | 1060,25 |
+| 61 | 266,74 | 103 | 460,21 | 145 | 661,83 | 187 | 863,44 | 229 | 1065,05 |
+| 62 | 271,12 | 104 | 465,02 | 146 | 666,63 | 188 | 868,24 | 230 | 1069,85 |
+| 63 | 275,48 | 105 | 469,81 | 147 | 671,43 | 189 | 873,05 | 231 | 1074,64 |
+| 64 | 279,85 | 106 | 474,62 | 148 | 676,22 | 190 | 877,84 | 232 | 1079,45 |
+| 65 | 284,23 | 107 | 479,42 | 149 | 681,04 | 191 | 882,64 | 233 | 1084,25 |
+| 66 | 288,61 | 108 | 484,21 | 150 | 685,82 | 192 | 887,44 | 234 | 1089,05 |
+| 67 | 292,98 | 109 | 489,02 | 151 | 690,63 | 193 | 892,24 | 235 | 1093,85 |
+| 68 | 297,34 | 110 | 493,81 | 152 | 695,43 | 194 | 897,05 | 236 | 1098,65 |
+| 69 | 301,72 | 111 | 498,62 | 153 | 700,23 | 195 | 901,84 | 237 | 1103,45 |
+| 70 | 306,08 | 112 | 503,42 | 154 | 705,03 | 196 | 906,64 | 238 | 1108,25 |
+| 71 | 310,46 | 113 | 508,21 | 155 | 709,83 | 197 | 911,44 | 239 | 1113,05 |
+| 72 | 314,83 | 114 | 513,03 | 156 | 714,62 | 198 | 916,24 | 240 | 1117,85 |
+| 73 | 319,21 | 115 | 517,82 | 157 | 719,44 | 199 | 921,04 | 241 | 1122,66 |
+| 74 | 323,58 | 116 | 522,61 | 158 | 724,22 | 200 | 925,85 | 242 | 1127,45 |
+| 75 | 327,95 | 117 | 527,42 | 159 | 729,04 | 201 | 930,64 | 243 | 1132,25 |
+| 76 | 332,32 | 118 | 532,21 | 160 | 733,82 | 202 | 935,45 | 244 | 1137,06 |
+| 77 | 336,70 | 119 | 537,01 | 161 | 738,63 | 203 | 940,25 | 245 | 1141,85 |
+| 78 | 341,07 | 120 | 541,82 | 162 | 743,44 | 204 | 945,04 | 246 | 1146,65 |
+| 79 | 345,44 | 121 | 546,62 | 163 | 748,22 | 205 | 949,84 | 247 | 1151,44 |
+| 80 | 349,82 | 122 | 551,43 | 164 | 753,02 | 206 | 954,65 | 248 | 1156,26 |
+| 81 | 354,60 | 123 | 556,22 | 165 | 757,84 | 207 | 959,45 | 249 | 1161,04 |
+|   |   |   |   |   |   |   |   | 250 | 1165,85 |
 
 ## Bijlage II
 
-| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 1,80 | 54 | 96,29 | 107 | 190,76 | 160 | 285,23 | 213 | 351,34 |
-| 2 | 3,58 | 55 | 98,07 | 108 | 192,55 | 161 | 287,00 | 214 | 352,26 |
-| 3 | 5,37 | 56 | 99,84 | 109 | 194,31 | 162 | 288,78 | 215 | 353,18 |
-| 4 | 7,16 | 57 | 101,62 | 110 | 196,10 | 163 | 290,56 | 216 | 354,10 |
-| 5 | 8,94 | 58 | 103,41 | 111 | 197,87 | 164 | 292,35 | 217 | 355,02 |
-| 6 | 10,73 | 59 | 105,19 | 112 | 199,65 | 165 | 294,13 | 218 | 355,95 |
-| 7 | 12,51 | 60 | 106,97 | 113 | 201,44 | 166 | 295,90 | 219 | 356,88 |
-| 8 | 14,30 | 61 | 108,76 | 114 | 203,22 | 167 | 297,69 | 220 | 357,81 |
-| 9 | 16,09 | 62 | 110,54 | 115 | 205,00 | 168 | 299,47 | 221 | 358,72 |
-| 10 | 17,87 | 63 | 112,32 | 116 | 206,79 | 169 | 301,26 | 222 | 359,65 |
-| 11 | 19,62 | 64 | 114,11 | 117 | 208,58 | 170 | 303,05 | 223 | 360,57 |
-| 12 | 21,41 | 65 | 115,90 | 118 | 210,37 | 171 | 304,81 | 224 | 361,50 |
-| 13 | 23,20 | 66 | 117,68 | 119 | 212,14 | 172 | 306,60 | 225 | 362,40 |
-| 14 | 24,98 | 67 | 119,44 | 120 | 213,92 | 173 | 308,39 | 226 | 363,34 |
-| 15 | 26,78 | 68 | 121,23 | 121 | 215,70 | 174 | 310,18 | 227 | 364,25 |
-| 16 | 28,54 | 69 | 123,02 | 122 | 217,49 | 175 | 311,94 | 228 | 365,17 |
-| 17 | 30,33 | 70 | 124,79 | 123 | 219,25 | 176 | 313,74 | 229 | 366,10 |
-| 18 | 32,12 | 71 | 126,58 | 124 | 221,04 | 177 | 315,52 | 230 | 367,03 |
-| 19 | 33,91 | 72 | 128,36 | 125 | 222,82 | 178 | 317,31 | 231 | 367,94 |
-| 20 | 35,68 | 73 | 130,14 | 126 | 224,61 | 179 | 319,08 | 232 | 368,88 |
-| 21 | 37,46 | 74 | 131,93 | 127 | 226,40 | 180 | 320,87 | 233 | 369,79 |
-| 22 | 39,23 | 75 | 133,72 | 128 | 228,18 | 181 | 321,79 | 234 | 370,72 |
-| 23 | 41,02 | 76 | 135,49 | 129 | 229,97 | 182 | 322,72 | 235 | 371,63 |
-| 24 | 42,80 | 77 | 137,28 | 130 | 231,75 | 183 | 323,64 | 236 | 372,57 |
-| 25 | 44,59 | 78 | 139,05 | 131 | 233,52 | 184 | 324,57 | 237 | 373,48 |
-| 26 | 46,37 | 79 | 140,84 | 132 | 235,30 | 185 | 325,49 | 238 | 374,41 |
-| 27 | 48,16 | 80 | 142,61 | 133 | 237,10 | 186 | 326,41 | 239 | 375,32 |
-| 28 | 49,94 | 81 | 144,40 | 134 | 238,88 | 187 | 327,32 | 240 | 376,25 |
-| 29 | 51,73 | 82 | 146,19 | 135 | 240,65 | 188 | 328,26 | 241 | 377,18 |
-| 30 | 53,50 | 83 | 147,96 | 136 | 242,44 | 189 | 329,17 | 242 | 378,11 |
-| 31 | 55,28 | 84 | 149,75 | 137 | 244,22 | 190 | 330,10 | 243 | 379,03 |
-| 32 | 57,07 | 85 | 151,53 | 138 | 246,02 | 191 | 331,02 | 244 | 379,96 |
-| 33 | 58,83 | 86 | 153,32 | 139 | 247,80 | 192 | 331,95 | 245 | 380,88 |
-| 34 | 60,62 | 87 | 155,10 | 140 | 249,58 | 193 | 332,86 | 246 | 381,80 |
-| 35 | 62,41 | 88 | 156,88 | 141 | 251,35 | 194 | 333,79 | 247 | 382,72 |
-| 36 | 64,19 | 89 | 158,65 | 142 | 253,13 | 195 | 334,72 | 248 | 383,65 |
-| 37 | 65,97 | 90 | 160,44 | 143 | 254,92 | 196 | 335,64 | 249 | 384,57 |
-| 38 | 67,76 | 91 | 162,23 | 144 | 256,71 | 197 | 336,56 | 250 | 385,49 |
-| 39 | 69,55 | 92 | 164,02 | 145 | 258,47 | 198 | 337,49 | 251 | 386,41 |
-| 40 | 71,33 | 93 | 165,79 | 146 | 260,26 | 199 | 338,41 | 252 | 387,34 |
-| 41 | 73,12 | 94 | 167,58 | 147 | 262,05 | 200 | 339,34 | 253 | 388,25 |
-| 42 | 74,88 | 95 | 169,37 | 148 | 263,84 | 201 | 340,26 | 254 | 389,19 |
-| 43 | 76,66 | 96 | 171,16 | 149 | 265,61 | 202 | 341,19 | 255 | 390,10 |
-| 44 | 78,44 | 97 | 172,93 | 150 | 267,41 | 203 | 342,11 | 256 | 391,03 |
-| 45 | 80,23 | 98 | 174,71 | 151 | 269,17 | 204 | 343,02 | 257 | 391,94 |
-| 46 | 82,01 | 99 | 176,49 | 152 | 270,96 | 205 | 343,95 | 258 | 392,88 |
-| 47 | 83,80 | 100 | 178,28 | 153 | 272,73 | 206 | 344,86 | 259 | 393,79 |
-| 48 | 85,59 | 101 | 180,05 | 154 | 274,52 | 207 | 345,80 | 260 | 394,73 |
-| 49 | 87,38 | 102 | 181,83 | 155 | 276,31 | 208 | 346,72 | 261 | 395,63 |
-| 50 | 89,15 | 103 | 183,62 | 156 | 278,09 | 209 | 347,65 | 262 | 396,58 |
-| 51 | 90,94 | 104 | 185,40 | 157 | 279,87 | 210 | 348,56 | 263 | 397,48 |
-| 52 | 92,72 | 105 | 187,19 | 158 | 281,65 | 211 | 349,49 | 264 | 398,43 |
-| 53 | 94,51 | 106 | 188,97 | 159 | 283,44 | 212 | 350,41 | 265 | 399,34 |
-|   |   |   |   |   |   |   |   |   |   |
-| 266 | 400,27 | 319 | 449,18 | 372 | 498,13 | 425 | 547,06 | 478 | 595,98 |
-| 267 | 401,19 | 320 | 450,11 | 373 | 499,05 | 426 | 547,97 | 479 | 596,92 |
-| 268 | 402,12 | 321 | 451,03 | 374 | 499,98 | 427 | 548,90 | 480 | 597,83 |
-| 269 | 403,03 | 322 | 451,96 | 375 | 500,90 | 428 | 549,82 | 481 | 598,77 |
-| 270 | 403,96 | 323 | 452,87 | 376 | 501,82 | 429 | 550,76 | 482 | 599,69 |
-| 271 | 404,88 | 324 | 453,82 | 377 | 502,75 | 430 | 551,68 | 483 | 600,60 |
-| 272 | 405,79 | 325 | 454,72 | 378 | 503,67 | 431 | 552,60 | 484 | 601,53 |
-| 273 | 406,73 | 326 | 455,66 | 379 | 504,60 | 432 | 553,52 | 485 | 602,45 |
-| 274 | 407,64 | 327 | 456,57 | 380 | 505,50 | 433 | 554,45 | 486 | 603,38 |
-| 275 | 408,57 | 328 | 457,51 | 381 | 506,45 | 434 | 555,36 | 487 | 604,30 |
-| 276 | 409,50 | 329 | 458,41 | 382 | 507,35 | 435 | 556,29 | 488 | 605,23 |
-| 277 | 410,42 | 330 | 459,36 | 383 | 508,30 | 436 | 557,21 | 489 | 606,13 |
-| 278 | 411,34 | 331 | 460,26 | 384 | 509,20 | 437 | 558,13 | 490 | 607,05 |
-| 279 | 412,27 | 332 | 461,20 | 385 | 510,13 | 438 | 559,06 | 491 | 607,99 |
-| 280 | 413,19 | 333 | 462,11 | 386 | 511,04 | 439 | 559,98 | 492 | 608,91 |
-| 281 | 414,11 | 334 | 463,05 | 387 | 511,99 | 440 | 560,91 | 493 | 609,83 |
-| 282 | 415,03 | 335 | 463,96 | 388 | 512,90 | 441 | 561,83 | 494 | 610,76 |
-| 283 | 415,96 | 336 | 464,88 | 389 | 513,84 | 442 | 562,75 | 495 | 611,69 |
-| 284 | 416,89 | 337 | 465,81 | 390 | 514,76 | 443 | 563,67 | 496 | 612,60 |
-| 285 | 417,81 | 338 | 466,72 | 391 | 515,67 | 444 | 564,60 | 497 | 613,54 |
-| 286 | 418,74 | 339 | 467,65 | 392 | 516,60 | 445 | 565,52 | 498 | 614,45 |
-| 287 | 419,65 | 340 | 468,57 | 393 | 517,52 | 446 | 566,44 | 499 | 615,37 |
-| 288 | 420,58 | 341 | 469,50 | 394 | 518,45 | 447 | 567,38 | 500 | 616,29 |
-| 289 | 421,50 | 342 | 470,42 | 395 | 519,36 | 448 | 568,28 | 501 | 617,22 |
-| 290 | 422,43 | 343 | 471,35 | 396 | 520,29 | 449 | 569,23 | 502 | 618,13 |
-| 291 | 423,34 | 344 | 472,27 | 397 | 521,21 | 450 | 570,14 | 503 | 619,06 |
-| 292 | 424,27 | 345 | 473,20 | 398 | 522,14 | 451 | 571,07 | 504 | 619,98 |
-| 293 | 425,19 | 346 | 474,13 | 399 | 523,06 | 452 | 571,98 | 505 | 620,91 |
-| 294 | 426,11 | 347 | 475,04 | 400 | 523,99 | 453 | 572,92 | 506 | 621,84 |
-| 295 | 427,04 | 348 | 475,98 | 401 | 524,90 | 454 | 573,83 | 507 | 622,76 |
-| 296 | 427,96 | 349 | 476,89 | 402 | 525,80 | 455 | 574,76 | 508 | 623,68 |
-| 297 | 428,88 | 350 | 477,82 | 403 | 526,75 | 456 | 575,68 | 509 | 624,60 |
-| 298 | 429,81 | 351 | 478,72 | 404 | 527,65 | 457 | 576,60 | 510 | 625,52 |
-| 299 | 430,73 | 352 | 479,67 | 405 | 528,59 | 458 | 577,52 | 511 | 626,45 |
-| 300 | 431,66 | 353 | 480,57 | 406 | 529,50 | 459 | 578,45 | 512 | 627,37 |
-| 301 | 432,58 | 354 | 481,51 | 407 | 530,44 | 460 | 579,38 | 513 | 628,31 |
-| 302 | 433,51 | 355 | 482,42 | 408 | 531,35 | 461 | 580,29 | 514 | 629,22 |
-| 303 | 434,42 | 356 | 483,36 | 409 | 532,30 | 462 | 581,22 | 515 | 630,14 |
-| 304 | 435,35 | 357 | 484,27 | 410 | 533,20 | 463 | 582,14 | 516 | 631,07 |
-| 305 | 436,27 | 358 | 485,20 | 411 | 534,14 | 464 | 583,07 | 517 | 632,00 |
-| 306 | 437,20 | 359 | 486,12 | 412 | 535,05 | 465 | 583,99 | 518 | 632,91 |
-| 307 | 438,12 | 360 | 487,04 | 413 | 535,98 | 466 | 584,92 | 519 | 633,84 |
-| 308 | 439,05 | 361 | 487,96 | 414 | 536,90 | 467 | 585,83 | 520 | 634,76 |
-| 309 | 439,96 | 362 | 488,89 | 415 | 537,83 | 468 | 586,74 | 521 | 635,68 |
-| 310 | 440,89 | 363 | 489,81 | 416 | 538,75 | 469 | 587,68 | 522 | 636,61 |
-| 311 | 441,82 | 364 | 490,73 | 417 | 539,66 | 470 | 588,60 | 523 | 637,53 |
-| 312 | 442,74 | 365 | 491,66 | 418 | 540,60 | 471 | 589,55 | 524 | 638,45 |
-| 313 | 443,66 | 366 | 492,59 | 419 | 541,51 | 472 | 590,44 | 525 | 639,37 |
-| 314 | 444,58 | 367 | 493,51 | 420 | 542,44 | 473 | 591,39 | 526 | 640,30 |
-| 315 | 445,50 | 368 | 494,44 | 421 | 543,35 | 474 | 592,29 | 527 | 641,22 |
-| 316 | 446,41 | 369 | 495,36 | 422 | 544,29 | 475 | 593,24 | 528 | 642,16 |
-| 317 | 447,35 | 370 | 496,28 | 423 | 545,20 | 476 | 594,14 | 529 | 643,07 |
-| 318 | 448,26 | 371 | 497,21 | 424 | 546,13 | 477 | 595,08 | 530 | 644,00 |
-|   |   |   |   |   |   |   |   |   |   |
-| 531 | 644,91 | 584 | 693,85 | 637 | 742,79 | 690 | 791,72 | 743 | 840,65 |
-| 532 | 645,83 | 585 | 694,78 | 638 | 743,71 | 691 | 792,63 | 744 | 841,58 |
-| 533 | 646,77 | 586 | 695,70 | 639 | 744,64 | 692 | 793,57 | 745 | 842,48 |
-| 534 | 647,68 | 587 | 696,61 | 640 | 745,55 | 693 | 794,48 | 746 | 843,42 |
-| 535 | 648,62 | 588 | 697,54 | 641 | 746,48 | 694 | 795,41 | 747 | 844,34 |
-| 536 | 649,53 | 589 | 698,46 | 642 | 747,41 | 695 | 796,31 | 748 | 845,27 |
-| 537 | 650,46 | 590 | 699,39 | 643 | 748,33 | 696 | 797,25 | 749 | 846,19 |
-| 538 | 651,38 | 591 | 700,30 | 644 | 749,25 | 697 | 798,16 | 750 | 847,11 |
-| 539 | 652,32 | 592 | 701,24 | 645 | 750,18 | 698 | 799,10 | >750 | * |
-| 540 | 653,22 | 593 | 702,15 | 646 | 751,10 | 699 | 800,00 |   |   |
-| 541 | 654,17 | 594 | 703,08 | 647 | 752,01 | 700 | 800,95 |   |   |
-| 542 | 655,07 | 595 | 704,01 | 648 | 752,94 | 701 | 801,87 |   |   |
-| 543 | 656,00 | 596 | 704,95 | 649 | 753,86 | 702 | 802,80 |   |   |
-| 544 | 656,92 | 597 | 705,85 | 650 | 754,79 | 703 | 803,72 |   |   |
-| 545 | 657,85 | 598 | 706,78 | 651 | 755,70 | 704 | 804,64 |   |   |
-| 546 | 658,76 | 599 | 707,70 | 652 | 756,64 | 705 | 805,56 |   |   |
-| 547 | 659,69 | 600 | 708,62 | 653 | 757,54 | 706 | 806,48 |   |   |
-| 548 | 660,61 | 601 | 709,54 | 654 | 758,48 | 707 | 807,41 |   |   |
-| 549 | 661,53 | 602 | 710,47 | 655 | 759,40 | 708 | 808,33 |   |   |
-| 550 | 662,45 | 603 | 711,39 | 656 | 760,33 | 709 | 809,26 |   |   |
-| 551 | 663,38 | 604 | 712,32 | 657 | 761,25 | 710 | 810,17 |   |   |
-| 552 | 664,31 | 605 | 713,24 | 658 | 762,18 | 711 | 811,10 |   |   |
-| 553 | 665,22 | 606 | 714,16 | 659 | 763,10 | 712 | 812,03 |   |   |
-| 554 | 666,16 | 607 | 715,07 | 660 | 764,03 | 713 | 812,94 |   |   |
-| 555 | 667,08 | 608 | 716,01 | 661 | 764,95 | 714 | 813,88 |   |   |
-| 556 | 668,00 | 609 | 716,93 | 662 | 765,87 | 715 | 814,79 |   |   |
-| 557 | 668,93 | 610 | 717,86 | 663 | 766,79 | 716 | 815,72 |   |   |
-| 558 | 669,85 | 611 | 718,78 | 664 | 767,70 | 717 | 816,62 |   |   |
-| 559 | 670,77 | 612 | 719,70 | 665 | 768,64 | 718 | 817,57 |   |   |
-| 560 | 671,69 | 613 | 720,62 | 666 | 769,56 | 719 | 818,47 |   |   |
-| 561 | 672,62 | 614 | 721,55 | 667 | 770,48 | 720 | 819,41 |   |   |
-| 562 | 673,54 | 615 | 722,46 | 668 | 771,40 | 721 | 820,33 |   |   |
-| 563 | 674,48 | 616 | 723,41 | 669 | 772,32 | 722 | 821,27 |   |   |
-| 564 | 675,39 | 617 | 724,31 | 670 | 773,24 | 723 | 822,18 |   |   |
-| 565 | 676,31 | 618 | 725,25 | 671 | 774,17 | 724 | 823,12 |   |   |
-| 566 | 677,22 | 619 | 726,16 | 672 | 775,09 | 725 | 824,03 |   |   |
-| 567 | 678,16 | 620 | 727,10 | 673 | 776,00 | 726 | 824,96 |   |   |
-| 568 | 679,07 | 621 | 728,01 | 674 | 776,94 | 727 | 825,88 |   |   |
-| 569 | 680,01 | 622 | 728,94 | 675 | 777,85 | 728 | 826,80 |   |   |
-| 570 | 680,92 | 623 | 729,85 | 676 | 778,78 | 729 | 827,72 |   |   |
-| 571 | 681,85 | 624 | 730,79 | 677 | 779,71 | 730 | 828,63 |   |   |
-| 572 | 682,76 | 625 | 731,70 | 678 | 780,63 | 731 | 829,57 |   |   |
-| 573 | 683,70 | 626 | 732,64 | 679 | 781,55 | 732 | 830,48 |   |   |
-| 574 | 684,62 | 627 | 733,55 | 680 | 782,49 | 733 | 831,42 |   |   |
-| 575 | 685,56 | 628 | 734,48 | 681 | 783,40 | 734 | 832,34 |   |   |
-| 576 | 686,48 | 629 | 735,38 | 682 | 784,33 | 735 | 833,26 |   |   |
-| 577 | 687,40 | 630 | 736,33 | 683 | 785,25 | 736 | 834,18 |   |   |
-| 578 | 688,32 | 631 | 737,24 | 684 | 786,17 | 737 | 835,11 |   |   |
-| 579 | 689,25 | 632 | 738,16 | 685 | 787,09 | 738 | 836,03 |   |   |
-| 580 | 690,16 | 633 | 739,09 | 686 | 788,02 | 739 | 836,94 |   |   |
-| 581 | 691,07 | 634 | 740,01 | 687 | 788,94 | 740 | 837,88 |   |   |
-| 582 | 692,00 | 635 | 740,93 | 688 | 789,87 | 741 | 838,80 |   |   |
-| 583 | 692,92 | 636 | 741,86 | 689 | 790,78 | 742 | 839,73 |   |   |
+| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| 1 | 1,85 | 54 | 98,70 | 107 | 195,53 | 160 | 292,36 | 213 | 360,13 |
+| 2 | 3,67 | 55 | 100,53 | 108 | 197,37 | 161 | 294,18 | 214 | 361,07 |
+| 3 | 5,51 | 56 | 102,34 | 109 | 199,17 | 162 | 296,00 | 215 | 362,01 |
+| 4 | 7,34 | 57 | 104,16 | 110 | 201,01 | 163 | 297,83 | 216 | 362,96 |
+| 5 | 9,17 | 58 | 106,00 | 111 | 202,82 | 164 | 299,66 | 217 | 363,90 |
+| 6 | 11,00 | 59 | 107,82 | 112 | 204,65 | 165 | 301,49 | 218 | 364,85 |
+| 7 | 12,83 | 60 | 109,65 | 113 | 206,48 | 166 | 303,30 | 219 | 365,81 |
+| 8 | 14,66 | 61 | 111,48 | 114 | 208,30 | 167 | 305,14 | 220 | 366,76 |
+| 9 | 16,50 | 62 | 113,31 | 115 | 210,13 | 168 | 306,96 | 221 | 367,69 |
+| 10 | 18,32 | 63 | 115,13 | 116 | 211,96 | 169 | 308,80 | 222 | 368,65 |
+| 11 | 20,11 | 64 | 116,97 | 117 | 213,80 | 170 | 310,63 | 223 | 369,59 |
+| 12 | 21,95 | 65 | 118,80 | 118 | 215,63 | 171 | 312,43 | 224 | 370,54 |
+| 13 | 23,78 | 66 | 120,63 | 119 | 217,45 | 172 | 314,27 | 225 | 371,46 |
+| 14 | 25,61 | 67 | 122,43 | 120 | 219,27 | 173 | 316,10 | 226 | 372,43 |
+| 15 | 27,45 | 68 | 124,26 | 121 | 221,10 | 174 | 317,94 | 227 | 373,36 |
+| 16 | 29,26 | 69 | 126,10 | 122 | 222,93 | 175 | 319,74 | 228 | 374,30 |
+| 17 | 31,09 | 70 | 127,91 | 123 | 224,74 | 176 | 321,59 | 229 | 375,26 |
+| 18 | 32,93 | 71 | 129,75 | 124 | 226,57 | 177 | 323,41 | 230 | 376,21 |
+| 19 | 34,76 | 72 | 131,57 | 125 | 228,39 | 178 | 325,25 | 231 | 377,14 |
+| 20 | 36,58 | 73 | 133,40 | 126 | 230,23 | 179 | 327,06 | 232 | 378,11 |
+| 21 | 38,40 | 74 | 135,23 | 127 | 232,06 | 180 | 328,90 | 233 | 379,04 |
+| 22 | 40,21 | 75 | 137,07 | 128 | 233,89 | 181 | 329,84 | 234 | 379,99 |
+| 23 | 42,05 | 76 | 138,88 | 129 | 235,72 | 182 | 330,79 | 235 | 380,92 |
+| 24 | 43,87 | 77 | 140,72 | 130 | 237,55 | 183 | 331,74 | 236 | 381,89 |
+| 25 | 45,71 | 78 | 142,53 | 131 | 239,36 | 184 | 332,69 | 237 | 382,82 |
+| 26 | 47,53 | 79 | 144,37 | 132 | 241,19 | 185 | 333,63 | 238 | 383,77 |
+| 27 | 49,37 | 80 | 146,18 | 133 | 243,03 | 186 | 334,57 | 239 | 384,71 |
+| 28 | 51,19 | 81 | 148,01 | 134 | 244,86 | 187 | 335,51 | 240 | 385,66 |
+| 29 | 53,03 | 82 | 149,85 | 135 | 246,67 | 188 | 336,47 | 241 | 386,61 |
+| 30 | 54,84 | 83 | 151,66 | 136 | 248,51 | 189 | 337,40 | 242 | 387,57 |
+| 31 | 56,67 | 84 | 153,50 | 137 | 250,33 | 190 | 338,36 | 243 | 388,51 |
+| 32 | 58,50 | 85 | 155,32 | 138 | 252,17 | 191 | 339,30 | 244 | 389,46 |
+| 33 | 60,30 | 86 | 157,16 | 139 | 254,00 | 192 | 340,25 | 245 | 390,41 |
+| 34 | 62,14 | 87 | 158,98 | 140 | 255,82 | 193 | 341,19 | 246 | 391,35 |
+| 35 | 63,97 | 88 | 160,81 | 141 | 257,64 | 194 | 342,14 | 247 | 392,29 |
+| 36 | 65,80 | 89 | 162,62 | 142 | 259,46 | 195 | 343,09 | 248 | 393,25 |
+| 37 | 67,62 | 90 | 164,46 | 143 | 261,30 | 196 | 344,04 | 249 | 394,19 |
+| 38 | 69,46 | 91 | 166,29 | 144 | 263,13 | 197 | 344,98 | 250 | 395,13 |
+| 39 | 71,29 | 92 | 168,12 | 145 | 264,94 | 198 | 345,93 | 251 | 396,07 |
+| 40 | 73,12 | 93 | 169,94 | 146 | 266,77 | 199 | 346,87 | 252 | 397,03 |
+| 41 | 74,95 | 94 | 171,77 | 147 | 268,61 | 200 | 347,83 | 253 | 397,96 |
+| 42 | 76,76 | 95 | 173,61 | 148 | 270,44 | 201 | 348,77 | 254 | 398,92 |
+| 43 | 78,58 | 96 | 175,44 | 149 | 272,25 | 202 | 349,72 | 255 | 399,86 |
+| 44 | 80,41 | 97 | 177,26 | 150 | 274,10 | 203 | 350,67 | 256 | 400,81 |
+| 45 | 82,24 | 98 | 179,08 | 151 | 275,90 | 204 | 351,60 | 257 | 401,74 |
+| 46 | 84,06 | 99 | 180,91 | 152 | 277,74 | 205 | 352,55 | 258 | 402,71 |
+| 47 | 85,90 | 100 | 182,74 | 153 | 279,55 | 206 | 353,49 | 259 | 403,64 |
+| 48 | 87,73 | 101 | 184,56 | 154 | 281,39 | 207 | 354,45 | 260 | 404,60 |
+| 49 | 89,57 | 102 | 186,38 | 155 | 283,22 | 208 | 355,39 | 261 | 405,52 |
+| 50 | 91,38 | 103 | 188,21 | 156 | 285,05 | 209 | 356,35 | 262 | 406,50 |
+| 51 | 93,22 | 104 | 190,04 | 157 | 286,87 | 210 | 357,28 | 263 | 407,42 |
+| 52 | 95,04 | 105 | 191,87 | 158 | 288,70 | 211 | 358,23 | 264 | 408,39 |
+| 53 | 96,88 | 106 | 193,70 | 159 | 290,53 | 212 | 359,17 | 265 | 409,33 |
 
 *) De maximale huurprijsgrens behorende bij meer dan 750 punten is het bedrag dat wordt verkregen door € 0,92 (dat bedrag komt overeen met het verschil tussen de bedragen, genoemd bij 750 en 749 punten) te vermenigvuldigen met het aantal punten van de woonruimte, verminderd met 750, en bij de verkregen uitkomst € 847,11 (dat bedrag komt overeen met het bedrag genoemd bij 750 punten) op te tellen.
 
+Vervolg
+
+| Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| 266 | 410,28 | 319 | 460,41 | 372 | 510,59 | 425 | 560,74 | 478 | 610,88 |
+| 267 | 411,22 | 320 | 461,37 | 373 | 511,53 | 426 | 561,67 | 479 | 611,85 |
+| 268 | 412,18 | 321 | 462,31 | 374 | 512,48 | 427 | 562,63 | 480 | 612,78 |
+| 269 | 413,11 | 322 | 463,26 | 375 | 513,43 | 428 | 563,57 | 481 | 613,74 |
+| 270 | 414,06 | 323 | 464,20 | 376 | 514,37 | 429 | 564,53 | 482 | 614,69 |
+| 271 | 415,01 | 324 | 465,17 | 377 | 515,32 | 430 | 565,48 | 483 | 615,62 |
+| 272 | 415,94 | 325 | 466,09 | 378 | 516,27 | 431 | 566,42 | 484 | 616,57 |
+| 273 | 416,90 | 326 | 467,06 | 379 | 517,22 | 432 | 567,36 | 485 | 617,52 |
+| 274 | 417,84 | 327 | 467,99 | 380 | 518,14 | 433 | 568,32 | 486 | 618,47 |
+| 275 | 418,79 | 328 | 468,95 | 381 | 519,12 | 434 | 569,25 | 487 | 619,41 |
+| 276 | 419,74 | 329 | 469,87 | 382 | 520,04 | 435 | 570,20 | 488 | 620,36 |
+| 277 | 420,68 | 330 | 470,85 | 383 | 521,01 | 436 | 571,14 | 489 | 621,29 |
+| 278 | 421,63 | 331 | 471,77 | 384 | 521,93 | 437 | 572,09 | 490 | 622,23 |
+| 279 | 422,58 | 332 | 472,73 | 385 | 522,89 | 438 | 573,04 | 491 | 623,19 |
+| 280 | 423,52 | 333 | 473,67 | 386 | 523,82 | 439 | 573,98 | 492 | 624,14 |
+| 281 | 424,47 | 334 | 474,63 | 387 | 524,79 | 440 | 574,94 | 493 | 625,08 |
+| 282 | 425,41 | 335 | 475,56 | 388 | 525,73 | 441 | 575,88 | 494 | 626,03 |
+| 283 | 426,36 | 336 | 476,51 | 389 | 526,69 | 442 | 576,82 | 495 | 626,99 |
+| 284 | 427,32 | 337 | 477,46 | 390 | 527,63 | 443 | 577,77 | 496 | 627,92 |
+| 285 | 428,26 | 338 | 478,39 | 391 | 528,57 | 444 | 578,72 | 497 | 628,88 |
+| 286 | 429,21 | 339 | 479,35 | 392 | 529,52 | 445 | 579,66 | 498 | 629,82 |
+| 287 | 430,15 | 340 | 480,29 | 393 | 530,46 | 446 | 580,61 | 499 | 630,76 |
+| 288 | 431,10 | 341 | 481,24 | 394 | 531,42 | 447 | 581,57 | 500 | 631,70 |
+| 289 | 432,04 | 342 | 482,18 | 395 | 532,35 | 448 | 582,49 | 501 | 632,65 |
+| 290 | 432,99 | 343 | 483,14 | 396 | 533,30 | 449 | 583,46 | 502 | 633,59 |
+| 291 | 433,93 | 344 | 484,08 | 397 | 534,24 | 450 | 584,40 | 503 | 634,54 |
+| 292 | 434,88 | 345 | 485,03 | 398 | 535,20 | 451 | 585,35 | 504 | 635,48 |
+| 293 | 435,82 | 346 | 485,99 | 399 | 536,14 | 452 | 586,28 | 505 | 636,44 |
+| 294 | 436,77 | 347 | 486,92 | 400 | 537,09 | 453 | 587,25 | 506 | 637,39 |
+| 295 | 437,72 | 348 | 487,88 | 401 | 538,03 | 454 | 588,18 | 507 | 638,33 |
+| 296 | 438,66 | 349 | 488,82 | 402 | 538,95 | 455 | 589,13 | 508 | 639,28 |
+| 297 | 439,61 | 350 | 489,77 | 403 | 539,92 | 456 | 590,08 | 509 | 640,22 |
+| 298 | 440,56 | 351 | 490,69 | 404 | 540,85 | 457 | 591,02 | 510 | 641,16 |
+| 299 | 441,50 | 352 | 491,67 | 405 | 541,81 | 458 | 591,96 | 511 | 642,12 |
+| 300 | 442,46 | 353 | 492,59 | 406 | 542,74 | 459 | 592,92 | 512 | 643,06 |
+| 301 | 443,40 | 354 | 493,55 | 407 | 543,71 | 460 | 593,87 | 513 | 644,02 |
+| 302 | 444,35 | 355 | 494,48 | 408 | 544,64 | 461 | 594,80 | 514 | 644,95 |
+| 303 | 445,28 | 356 | 495,45 | 409 | 545,61 | 462 | 595,75 | 515 | 645,90 |
+| 304 | 446,24 | 357 | 496,38 | 410 | 546,53 | 463 | 596,70 | 516 | 646,85 |
+| 305 | 447,18 | 358 | 497,33 | 411 | 547,50 | 464 | 597,65 | 517 | 647,80 |
+| 306 | 448,13 | 359 | 498,28 | 412 | 548,43 | 465 | 598,59 | 518 | 648,74 |
+| 307 | 449,08 | 360 | 499,22 | 413 | 549,38 | 466 | 599,55 | 519 | 649,69 |
+| 308 | 450,03 | 361 | 500,16 | 414 | 550,33 | 467 | 600,48 | 520 | 650,63 |
+| 309 | 450,96 | 362 | 501,12 | 415 | 551,28 | 468 | 601,41 | 521 | 651,58 |
+| 310 | 451,92 | 363 | 502,06 | 416 | 552,22 | 469 | 602,38 | 522 | 652,53 |
+| 311 | 452,87 | 364 | 503,00 | 417 | 553,16 | 470 | 603,32 | 523 | 653,47 |
+| 312 | 453,81 | 365 | 503,96 | 418 | 554,12 | 471 | 604,29 | 524 | 654,42 |
+| 313 | 454,76 | 366 | 504,91 | 419 | 555,05 | 472 | 605,21 | 525 | 655,36 |
+| 314 | 455,70 | 367 | 505,85 | 420 | 556,01 | 473 | 606,18 | 526 | 656,31 |
+| 315 | 456,64 | 368 | 506,81 | 421 | 556,94 | 474 | 607,10 | 527 | 657,25 |
+| 316 | 457,57 | 369 | 507,75 | 422 | 557,90 | 475 | 608,08 | 528 | 658,22 |
+| 317 | 458,54 | 370 | 508,69 | 423 | 558,83 | 476 | 609,00 | 529 | 659,15 |
+| 318 | 459,47 | 371 | 509,64 | 424 | 559,79 | 477 | 609,96 | 530 | 660,10 |
+
+Vervolg
+
+| Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 | Maximale huurprijsgrenzen voor onzelfstandige woonruimten per 1 juli 2009 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| 531 | 661,04 | 584 | 711,20 | 637 | 761,36 | 690 | 811,52 | 743 | 861,67 |
+| 532 | 661,98 | 585 | 712,15 | 638 | 762,31 | 691 | 812,45 | 744 | 862,62 |
+| 533 | 662,94 | 586 | 713,10 | 639 | 763,26 | 692 | 813,41 | 745 | 863,55 |
+| 534 | 663,88 | 587 | 714,03 | 640 | 764,19 | 693 | 814,35 | 746 | 864,51 |
+| 535 | 664,84 | 588 | 714,98 | 641 | 765,15 | 694 | 815,30 | 747 | 865,45 |
+| 536 | 665,77 | 589 | 715,93 | 642 | 766,10 | 695 | 816,22 | 748 | 866,41 |
+| 537 | 666,73 | 590 | 716,88 | 643 | 767,04 | 696 | 817,19 | 749 | 867,35 |
+| 538 | 667,67 | 591 | 717,81 | 644 | 767,99 | 697 | 818,12 | 750 | 868,29 |
+| 539 | 668,63 | 592 | 718,78 | 645 | 768,94 | 698 | 819,08 | >750 | ¹ |
+| 540 | 669,55 | 593 | 719,71 | 646 | 769,88 | 699 | 820,00 |   |   |
+| 541 | 670,53 | 594 | 720,66 | 647 | 770,81 | 700 | 820,98 |   |   |
+| 542 | 671,45 | 595 | 721,61 | 648 | 771,77 | 701 | 821,92 |   |   |
+| 543 | 672,40 | 596 | 722,58 | 649 | 772,71 | 702 | 822,87 |   |   |
+| 544 | 673,35 | 597 | 723,50 | 650 | 773,66 | 703 | 823,82 |   |   |
+| 545 | 674,30 | 598 | 724,45 | 651 | 774,60 | 704 | 824,76 |   |   |
+| 546 | 675,23 | 599 | 725,40 | 652 | 775,56 | 705 | 825,70 |   |   |
+| 547 | 676,19 | 600 | 726,34 | 653 | 776,48 | 706 | 826,65 |   |   |
+| 548 | 677,13 | 601 | 727,28 | 654 | 777,45 | 707 | 827,60 |   |   |
+| 549 | 678,07 | 602 | 728,24 | 655 | 778,39 | 708 | 828,54 |   |   |
+| 550 | 679,02 | 603 | 729,18 | 656 | 779,34 | 709 | 829,50 |   |   |
+| 551 | 679,97 | 604 | 730,13 | 657 | 780,29 | 710 | 830,43 |   |   |
+| 552 | 680,92 | 605 | 731,08 | 658 | 781,24 | 711 | 831,38 |   |   |
+| 553 | 681,85 | 606 | 732,02 | 659 | 782,18 | 712 | 832,33 |   |   |
+| 554 | 682,82 | 607 | 732,95 | 660 | 783,13 | 713 | 833,27 |   |   |
+| 555 | 683,76 | 608 | 733,91 | 661 | 784,08 | 714 | 834,23 |   |   |
+| 556 | 684,70 | 609 | 734,86 | 662 | 785,02 | 715 | 835,16 |   |   |
+| 557 | 685,66 | 610 | 735,81 | 663 | 785,96 | 716 | 836,12 |   |   |
+| 558 | 686,60 | 611 | 736,75 | 664 | 786,90 | 717 | 837,04 |   |   |
+| 559 | 687,54 | 612 | 737,70 | 665 | 787,86 | 718 | 838,01 |   |   |
+| 560 | 688,49 | 613 | 738,64 | 666 | 788,80 | 719 | 838,94 |   |   |
+| 561 | 689,44 | 614 | 739,59 | 667 | 789,75 | 720 | 839,90 |   |   |
+| 562 | 690,38 | 615 | 740,53 | 668 | 790,69 | 721 | 840,84 |   |   |
+| 563 | 691,35 | 616 | 741,50 | 669 | 791,63 | 722 | 841,81 |   |   |
+| 564 | 692,28 | 617 | 742,42 | 670 | 792,58 | 723 | 842,74 |   |   |
+| 565 | 693,22 | 618 | 743,39 | 671 | 793,53 | 724 | 843,70 |   |   |
+| 566 | 694,15 | 619 | 744,32 | 672 | 794,47 | 725 | 844,63 |   |   |
+| 567 | 695,12 | 620 | 745,28 | 673 | 795,40 | 726 | 845,59 |   |   |
+| 568 | 696,05 | 621 | 746,21 | 674 | 796,37 | 727 | 846,53 |   |   |
+| 569 | 697,01 | 622 | 747,17 | 675 | 797,30 | 728 | 847,47 |   |   |
+| 570 | 697,95 | 623 | 748,10 | 676 | 798,25 | 729 | 848,42 |   |   |
+| 571 | 698,90 | 624 | 749,06 | 677 | 799,21 | 730 | 849,35 |   |   |
+| 572 | 699,83 | 625 | 750,00 | 678 | 800,15 | 731 | 850,31 |   |   |
+| 573 | 700,80 | 626 | 750,96 | 679 | 801,09 | 732 | 851,25 |   |   |
+| 574 | 701,74 | 627 | 751,89 | 680 | 802,06 | 733 | 852,21 |   |   |
+| 575 | 702,70 | 628 | 752,85 | 681 | 802,99 | 734 | 853,15 |   |   |
+| 576 | 703,65 | 629 | 753,77 | 682 | 803,94 | 735 | 854,10 |   |   |
+| 577 | 704,59 | 630 | 754,74 | 683 | 804,89 | 736 | 855,04 |   |   |
+| 578 | 705,53 | 631 | 755,68 | 684 | 805,83 | 737 | 855,99 |   |   |
+| 579 | 706,49 | 632 | 756,62 | 685 | 806,77 | 738 | 856,93 |   |   |
+| 580 | 707,42 | 633 | 757,57 | 686 | 807,72 | 739 | 857,87 |   |   |
+| 581 | 708,35 | 634 | 758,51 | 687 | 808,67 | 740 | 858,83 |   |   |
+| 582 | 709,30 | 635 | 759,46 | 688 | 809,62 | 741 | 859,77 |   |   |
+| 583 | 710,25 | 636 | 760,41 | 689 | 810,55 | 742 | 860,73 |   |   |
+
+¹ De maximale huurprijsgrens behorende bij meer dan 750 punten is het bedrag dat wordt verkregen door € 0,94 (dat bedrag komt overeen met het verschil tussen de bedragen, genoemd bij 750 en 749 punten) te vermenigvuldigen met het aantal punten van de woonruimte, verminderd met 750, en bij de verkregen uitkomst € 868,29 (dat bedrag komt overeen met het bedrag genoemd bij 750 punten) op te tellen.
+
 ## Bijlage III
 
-| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| Maximale huurprijsgrenzen voor woonwagens per 1 juli 2009 | Maximale huurprijsgrenzen voor woonwagens per 1 juli 2009 | Maximale huurprijsgrenzen voor woonwagens per 1 juli 2009 | Maximale huurprijsgrenzen voor woonwagens per 1 juli 2009 | Maximale huurprijsgrenzen voor woonwagens per 1 juli 2009 | Maximale huurprijsgrenzen voor woonwagens per 1 juli 2009 | Maximale huurprijsgrenzen voor woonwagens per 1 juli 2009 | Maximale huurprijsgrenzen voor woonwagens per 1 juli 2009 | Maximale huurprijsgrenzen voor woonwagens per 1 juli 2009 | Maximale huurprijsgrenzen voor woonwagens per 1 juli 2009 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 40 | 181,72 | 82 | 373,32 | 124 | 581,64 | 166 | 789,95 | 208 | 998,26 |
-| 41 | 186,26 | 83 | 378,30 | 125 | 586,60 | 167 | 794,92 | 209 | 1003,23 |
-| 42 | 190,81 | 84 | 383,25 | 126 | 591,57 | 168 | 799,87 | 210 | 1008,19 |
-| 43 | 195,35 | 85 | 388,21 | 127 | 596,51 | 169 | 804,83 | 211 | 1013,14 |
-| 44 | 199,88 | 86 | 393,17 | 128 | 601,49 | 170 | 809,80 | 212 | 1018,11 |
-| 45 | 204,42 | 87 | 398,12 | 129 | 606,44 | 171 | 814,75 | 213 | 1023,07 |
-| 46 | 208,96 | 88 | 403,08 | 130 | 611,39 | 172 | 819,71 | 214 | 1028,02 |
-| 47 | 213,52 | 89 | 408,04 | 131 | 616,35 | 173 | 824,67 | 215 | 1032,99 |
-| 48 | 218,06 | 90 | 413,01 | 132 | 621,32 | 174 | 829,63 | 216 | 1037,96 |
-| 49 | 222,60 | 91 | 417,98 | 133 | 626,28 | 175 | 834,60 | 217 | 1042,91 |
-| 50 | 227,14 | 92 | 422,92 | 134 | 631,24 | 176 | 839,55 | 218 | 1047,88 |
-| 51 | 231,67 | 93 | 427,89 | 135 | 636,21 | 177 | 844,52 | 219 | 1052,82 |
-| 52 | 236,23 | 94 | 432,85 | 136 | 641,16 | 178 | 849,48 | 220 | 1057,79 |
-| 53 | 240,77 | 95 | 437,80 | 137 | 646,12 | 179 | 854,43 | 221 | 1062,74 |
-| 54 | 245,32 | 96 | 442,78 | 138 | 651,08 | 180 | 859,40 | 222 | 1067,71 |
-| 55 | 249,85 | 97 | 447,73 | 139 | 656,05 | 181 | 864,36 | 223 | 1072,67 |
-| 56 | 254,39 | 98 | 452,68 | 140 | 661,00 | 182 | 869,30 | 224 | 1077,62 |
-| 57 | 258,94 | 99 | 457,64 | 141 | 665,96 | 183 | 874,27 | 225 | 1082,58 |
-| 58 | 263,48 | 100 | 462,60 | 142 | 670,92 | 184 | 879,23 | 226 | 1087,54 |
-| 59 | 268,02 | 101 | 467,56 | 143 | 675,88 | 185 | 884,19 | 227 | 1092,50 |
-| 60 | 272,57 | 102 | 472,53 | 144 | 680,83 | 186 | 889,16 | 228 | 1097,47 |
-| 61 | 277,10 | 103 | 477,48 | 145 | 685,80 | 187 | 894,10 | 229 | 1102,42 |
-| 62 | 281,65 | 104 | 482,44 | 146 | 690,74 | 188 | 899,08 | 230 | 1107,37 |
-| 63 | 286,19 | 105 | 487,41 | 147 | 695,72 | 189 | 904,04 | 231 | 1112,35 |
-| 64 | 290,72 | 106 | 492,37 | 148 | 700,69 | 190 | 909,00 | 232 | 1117,31 |
-| 65 | 295,28 | 107 | 497,33 | 149 | 705,64 | 191 | 913,96 | 233 | 1122,27 |
-| 66 | 299,82 | 108 | 502,28 | 150 | 710,59 | 192 | 918,90 | 234 | 1127,23 |
-| 67 | 304,37 | 109 | 507,25 | 151 | 715,56 | 193 | 923,87 | 235 | 1132,19 |
-| 68 | 308,90 | 110 | 512,21 | 152 | 720,52 | 194 | 928,83 | 236 | 1137,14 |
-| 69 | 313,44 | 111 | 517,16 | 153 | 725,48 | 195 | 933,78 | 237 | 1142,10 |
-| 70 | 317,98 | 112 | 522,13 | 154 | 730,45 | 196 | 938,76 | 238 | 1147,06 |
-| 71 | 322,52 | 113 | 527,09 | 155 | 735,39 | 197 | 943,72 | 239 | 1152,03 |
-| 72 | 327,08 | 114 | 532,03 | 156 | 740,35 | 198 | 948,66 | 240 | 1156,98 |
-| 73 | 331,63 | 115 | 537,00 | 157 | 745,31 | 199 | 953,63 | 241 | 1161,94 |
-| 74 | 336,15 | 116 | 541,97 | 158 | 750,28 | 200 | 958,58 | 242 | 1166,90 |
-| 75 | 340,70 | 117 | 546,92 | 159 | 755,23 | 201 | 963,55 | 243 | 1171,86 |
-| 76 | 345,23 | 118 | 551,87 | 160 | 760,19 | 202 | 968,51 | 244 | 1176,82 |
-| 77 | 349,78 | 119 | 556,84 | 161 | 765,16 | 203 | 973,47 | 245 | 1181,78 |
-| 78 | 354,33 | 120 | 561,80 | 162 | 770,12 | 204 | 978,43 | 246 | 1186,74 |
-| 79 | 358,87 | 121 | 566,77 | 163 | 775,07 | 205 | 983,40 | 247 | 1191,71 |
-| 80 | 363,42 | 122 | 571,73 | 164 | 780,05 | 206 | 988,35 | 248 | 1196,67 |
-| 81 | 368,00 | 123 | 576,69 | 165 | 785,00 | 207 | 993,32 | 249 | 1201,62 |
-|   |   |   |   |   |   |   |   | 250 | 1206,59 |
+| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| 40 | 186,27 | 82 | 382,66 | 124 | 596,19 | 166 | 809,70 | 208 | 1023,22 |
+| 41 | 190,92 | 83 | 387,76 | 125 | 601,27 | 167 | 814,80 | 209 | 1028,31 |
+| 42 | 195,58 | 84 | 392,84 | 126 | 606,36 | 168 | 819,87 | 210 | 1033,40 |
+| 43 | 200,24 | 85 | 397,92 | 127 | 611,43 | 169 | 824,95 | 211 | 1038,47 |
+| 44 | 204,88 | 86 | 403,00 | 128 | 616,53 | 170 | 830,05 | 212 | 1043,57 |
+| 45 | 209,53 | 87 | 408,08 | 129 | 621,61 | 171 | 835,12 | 213 | 1048,65 |
+| 46 | 214,19 | 88 | 413,16 | 130 | 626,68 | 172 | 840,21 | 214 | 1053,72 |
+| 47 | 218,86 | 89 | 418,25 | 131 | 631,76 | 173 | 845,29 | 215 | 1058,82 |
+| 48 | 223,52 | 90 | 423,34 | 132 | 636,86 | 174 | 850,37 | 216 | 1063,91 |
+| 49 | 228,17 | 91 | 428,43 | 133 | 641,94 | 175 | 855,47 | 217 | 1068,99 |
+| 50 | 232,82 | 92 | 433,50 | 134 | 647,03 | 176 | 860,54 | 218 | 1074,08 |
+| 51 | 237,47 | 93 | 438,59 | 135 | 652,12 | 177 | 865,64 | 219 | 1079,14 |
+| 52 | 242,14 | 94 | 443,68 | 136 | 657,19 | 178 | 870,72 | 220 | 1084,24 |
+| 53 | 246,79 | 95 | 448,75 | 137 | 662,28 | 179 | 875,79 | 221 | 1089,31 |
+| 54 | 251,46 | 96 | 453,85 | 138 | 667,36 | 180 | 880,89 | 222 | 1094,41 |
+| 55 | 256,10 | 97 | 458,93 | 139 | 672,46 | 181 | 885,97 | 223 | 1099,49 |
+| 56 | 260,75 | 98 | 464,00 | 140 | 677,53 | 182 | 891,04 | 224 | 1104,56 |
+| 57 | 265,42 | 99 | 469,09 | 141 | 682,61 | 183 | 896,13 | 225 | 1109,65 |
+| 58 | 270,07 | 100 | 474,17 | 142 | 687,70 | 184 | 901,21 | 226 | 1114,73 |
+| 59 | 274,72 | 101 | 479,25 | 143 | 692,78 | 185 | 906,30 | 227 | 1119,82 |
+| 60 | 279,39 | 102 | 484,35 | 144 | 697,85 | 186 | 911,39 | 228 | 1124,91 |
+| 61 | 284,03 | 103 | 489,42 | 145 | 702,95 | 187 | 916,46 | 229 | 1129,98 |
+| 62 | 288,70 | 104 | 494,51 | 146 | 708,01 | 188 | 921,56 | 230 | 1135,06 |
+| 63 | 293,35 | 105 | 499,60 | 147 | 713,12 | 189 | 926,65 | 231 | 1140,16 |
+| 64 | 297,99 | 106 | 504,68 | 148 | 718,21 | 190 | 931,73 | 232 | 1145,25 |
+| 65 | 302,67 | 107 | 509,77 | 149 | 723,29 | 191 | 936,81 | 233 | 1150,33 |
+| 66 | 307,32 | 108 | 514,84 | 150 | 728,36 | 192 | 941,88 | 234 | 1155,41 |
+| 67 | 311,98 | 109 | 519,94 | 151 | 733,45 | 193 | 946,97 | 235 | 1160,50 |
+| 68 | 316,63 | 110 | 525,02 | 152 | 738,54 | 194 | 952,05 | 236 | 1165,57 |
+| 69 | 321,28 | 111 | 530,09 | 153 | 743,62 | 195 | 957,13 | 237 | 1170,66 |
+| 70 | 325,93 | 112 | 535,19 | 154 | 748,72 | 196 | 962,23 | 238 | 1175,74 |
+| 71 | 330,59 | 113 | 540,27 | 155 | 753,78 | 197 | 967,32 | 239 | 1180,83 |
+| 72 | 335,26 | 114 | 545,33 | 156 | 758,86 | 198 | 972,38 | 240 | 1185,91 |
+| 73 | 339,92 | 115 | 550,43 | 157 | 763,95 | 199 | 977,47 | 241 | 1190,99 |
+| 74 | 344,56 | 116 | 555,52 | 158 | 769,04 | 200 | 982,55 | 242 | 1196,08 |
+| 75 | 349,22 | 117 | 560,60 | 159 | 774,11 | 201 | 987,64 | 243 | 1201,16 |
+| 76 | 353,86 | 118 | 565,67 | 160 | 779,20 | 202 | 992,73 | 244 | 1206,24 |
+| 77 | 358,53 | 119 | 570,77 | 161 | 784,29 | 203 | 997,81 | 245 | 1211,33 |
+| 78 | 363,19 | 120 | 575,85 | 162 | 789,38 | 204 | 1002,89 | 246 | 1216,41 |
+| 79 | 367,85 | 121 | 580,94 | 163 | 794,45 | 205 | 1007,99 | 247 | 1221,51 |
+| 80 | 372,51 | 122 | 586,03 | 164 | 799,56 | 206 | 1013,06 | 248 | 1226,59 |
+| 81 | 377,20 | 123 | 591,11 | 165 | 804,63 | 207 | 1018,16 | 249 | 1231,66 |
+|   |   |   |   |   |   |   |   | 250 | 1236,76 |
 
 ## Bijlage IV
 
-| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| Maximale huurprijsgrenzen voor standplaatsen per 1 juli 2009 | Maximale huurprijsgrenzen voor standplaatsen per 1 juli 2009 | Maximale huurprijsgrenzen voor standplaatsen per 1 juli 2009 | Maximale huurprijsgrenzen voor standplaatsen per 1 juli 2009 | Maximale huurprijsgrenzen voor standplaatsen per 1 juli 2009 | Maximale huurprijsgrenzen voor standplaatsen per 1 juli 2009 | Maximale huurprijsgrenzen voor standplaatsen per 1 juli 2009 | Maximale huurprijsgrenzen voor standplaatsen per 1 juli 2009 | Maximale huurprijsgrenzen voor standplaatsen per 1 juli 2009 | Maximale huurprijsgrenzen voor standplaatsen per 1 juli 2009 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 4,28 | 54 | 230,37 | 107 | 467,72 | 160 | 715,92 | 213 | 964,14 |
-| 2 | 8,56 | 55 | 234,64 | 108 | 472,40 | 161 | 720,61 | 214 | 968,82 |
-| 3 | 12,82 | 56 | 238,90 | 109 | 477,09 | 162 | 725,30 | 215 | 973,50 |
-| 4 | 17,09 | 57 | 243,16 | 110 | 481,76 | 163 | 729,97 | 216 | 978,19 |
-| 5 | 21,35 | 58 | 247,43 | 111 | 486,45 | 164 | 734,65 | 217 | 982,87 |
-| 6 | 25,62 | 59 | 251,70 | 112 | 491,14 | 165 | 739,35 | 218 | 987,55 |
-| 7 | 29,87 | 60 | 255,98 | 113 | 495,81 | 166 | 744,02 | 219 | 992,24 |
-| 8 | 34,15 | 61 | 260,23 | 114 | 500,51 | 167 | 748,71 | 220 | 996,92 |
-| 9 | 38,42 | 62 | 264,50 | 115 | 505,19 | 168 | 753,39 | 221 | 1001,60 |
-| 10 | 42,69 | 63 | 268,76 | 116 | 509,86 | 169 | 758,08 | 222 | 1006,29 |
-| 11 | 46,95 | 64 | 273,02 | 117 | 514,55 | 170 | 762,76 | 223 | 1010,97 |
-| 12 | 51,22 | 65 | 277,29 | 118 | 519,23 | 171 | 767,45 | 224 | 1015,65 |
-| 13 | 55,48 | 66 | 281,57 | 119 | 523,91 | 172 | 772,12 | 225 | 1020,34 |
-| 14 | 59,74 | 67 | 285,83 | 120 | 528,60 | 173 | 776,82 | 226 | 1025,02 |
-| 15 | 64,01 | 68 | 290,08 | 121 | 533,28 | 174 | 781,48 | 227 | 1029,70 |
-| 16 | 68,28 | 69 | 294,36 | 122 | 537,98 | 175 | 786,18 | 228 | 1034,39 |
-| 17 | 72,54 | 70 | 298,61 | 123 | 542,65 | 176 | 790,85 | 229 | 1039,07 |
-| 18 | 76,81 | 71 | 302,88 | 124 | 547,34 | 177 | 795,54 | 230 | 1043,75 |
-| 19 | 81,06 | 72 | 307,15 | 125 | 552,03 | 178 | 800,23 | 231 | 1048,43 |
-| 20 | 85,34 | 73 | 311,42 | 126 | 556,70 | 179 | 804,91 | 232 | 1053,12 |
-| 21 | 89,59 | 74 | 315,68 | 127 | 561,39 | 180 | 809,58 | 233 | 1057,80 |
-| 22 | 93,87 | 75 | 319,95 | 128 | 566,08 | 181 | 814,29 | 234 | 1062,48 |
-| 23 | 98,13 | 76 | 324,21 | 129 | 570,75 | 182 | 818,95 | 235 | 1067,17 |
-| 24 | 102,41 | 77 | 328,48 | 130 | 575,45 | 183 | 823,64 | 236 | 1071,85 |
-| 25 | 106,66 | 78 | 332,75 | 131 | 580,12 | 184 | 828,32 | 237 | 1076,53 |
-| 26 | 110,93 | 79 | 337,01 | 132 | 584,80 | 185 | 833,01 | 238 | 1081,22 |
-| 27 | 115,20 | 80 | 341,28 | 133 | 589,50 | 186 | 837,69 | 239 | 1085,90 |
-| 28 | 119,47 | 81 | 345,95 | 134 | 594,17 | 187 | 842,38 | 240 | 1090,58 |
-| 29 | 123,73 | 82 | 350,64 | 135 | 598,85 | 188 | 847,06 | 241 | 1095,27 |
-| 30 | 128,00 | 83 | 355,33 | 136 | 603,53 | 189 | 851,75 | 242 | 1099,95 |
-| 31 | 132,27 | 84 | 360,00 | 137 | 608,22 | 190 | 856,43 | 243 | 1104,63 |
-| 32 | 136,52 | 85 | 364,69 | 138 | 612,90 | 191 | 861,11 | 244 | 1109,32 |
-| 33 | 140,78 | 86 | 369,37 | 139 | 617,58 | 192 | 865,79 | 245 | 1114,00 |
-| 34 | 145,06 | 87 | 374,05 | 140 | 622,26 | 193 | 870,47 | 246 | 1118,68 |
-| 35 | 149,32 | 88 | 378,74 | 141 | 626,96 | 194 | 875,17 | 247 | 1123,35 |
-| 36 | 153,59 | 89 | 383,42 | 142 | 631,62 | 195 | 879,84 | 248 | 1128,05 |
-| 37 | 157,85 | 90 | 388,11 | 143 | 636,32 | 196 | 884,52 | 249 | 1132,72 |
-| 38 | 162,11 | 91 | 392,79 | 144 | 641,00 | 197 | 889,21 | 250 | 1137,41 |
-| 39 | 166,38 | 92 | 397,47 | 145 | 645,68 | 198 | 893,89 | >250 | * |
-| 40 | 170,65 | 93 | 402,16 | 146 | 650,37 | 199 | 898,57 |   |   |
-| 41 | 174,92 | 94 | 406,83 | 147 | 655,05 | 200 | 903,26 |   |   |
-| 42 | 179,19 | 95 | 411,52 | 148 | 659,72 | 201 | 907,94 |   |   |
-| 43 | 183,45 | 96 | 416,21 | 149 | 664,43 | 202 | 912,63 |   |   |
-| 44 | 187,70 | 97 | 420,88 | 150 | 669,09 | 203 | 917,31 |   |   |
-| 45 | 191,98 | 98 | 425,57 | 151 | 673,78 | 204 | 921,99 |   |   |
-| 46 | 196,25 | 99 | 430,26 | 152 | 678,46 | 205 | 926,67 |   |   |
-| 47 | 200,51 | 100 | 434,93 | 153 | 683,15 | 206 | 931,36 |   |   |
-| 48 | 204,79 | 101 | 439,62 | 154 | 687,83 | 207 | 936,04 |   |   |
-| 49 | 209,05 | 102 | 444,30 | 155 | 692,51 | 208 | 940,72 |   |   |
-| 50 | 213,31 | 103 | 448,98 | 156 | 697,19 | 209 | 945,41 |   |   |
-| 51 | 217,56 | 104 | 453,67 | 157 | 701,89 | 210 | 950,10 |   |   |
-| 52 | 221,84 | 105 | 458,35 | 158 | 706,55 | 211 | 954,77 |   |   |
-| 53 | 226,10 | 106 | 463,04 | 159 | 711,25 | 212 | 959,45 |   |   |
+| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| 1 | 4,39 | 54 | 236,13 | 107 | 479,42 | 160 | 733,82 | 213 | 988,25 |
+| 2 | 8,78 | 55 | 240,51 | 108 | 484,21 | 161 | 738,63 | 214 | 993,04 |
+| 3 | 13,14 | 56 | 244,88 | 109 | 489,02 | 162 | 743,44 | 215 | 997,84 |
+| 4 | 17,52 | 57 | 249,24 | 110 | 493,81 | 163 | 748,22 | 216 | 1002,65 |
+| 5 | 21,89 | 58 | 253,62 | 111 | 498,62 | 164 | 753,02 | 217 | 1007,45 |
+| 6 | 26,26 | 59 | 258,00 | 112 | 503,42 | 165 | 757,84 | 218 | 1012,24 |
+| 7 | 30,62 | 60 | 262,38 | 113 | 508,21 | 166 | 762,62 | 219 | 1017,05 |
+| 8 | 35,01 | 61 | 266,74 | 114 | 513,03 | 167 | 767,43 | 220 | 1021,85 |
+| 9 | 39,38 | 62 | 271,12 | 115 | 517,82 | 168 | 772,23 | 221 | 1026,64 |
+| 10 | 43,76 | 63 | 275,48 | 116 | 522,61 | 169 | 777,04 | 222 | 1031,45 |
+| 11 | 48,13 | 64 | 279,85 | 117 | 527,42 | 170 | 781,83 | 223 | 1036,25 |
+| 12 | 52,50 | 65 | 284,23 | 118 | 532,21 | 171 | 786,64 | 224 | 1041,05 |
+| 13 | 56,87 | 66 | 288,61 | 119 | 537,01 | 172 | 791,43 | 225 | 1045,85 |
+| 14 | 61,24 | 67 | 292,98 | 120 | 541,82 | 173 | 796,24 | 226 | 1050,65 |
+| 15 | 65,61 | 68 | 297,34 | 121 | 546,62 | 174 | 801,02 | 227 | 1055,45 |
+| 16 | 69,99 | 69 | 301,72 | 122 | 551,43 | 175 | 805,84 | 228 | 1060,25 |
+| 17 | 74,36 | 70 | 306,08 | 123 | 556,22 | 176 | 810,63 | 229 | 1065,05 |
+| 18 | 78,73 | 71 | 310,46 | 124 | 561,03 | 177 | 815,43 | 230 | 1069,85 |
+| 19 | 83,09 | 72 | 314,83 | 125 | 565,83 | 178 | 820,24 | 231 | 1074,64 |
+| 20 | 87,48 | 73 | 319,21 | 126 | 570,62 | 179 | 825,04 | 232 | 1079,45 |
+| 21 | 91,83 | 74 | 323,58 | 127 | 575,43 | 180 | 829,82 | 233 | 1084,25 |
+| 22 | 96,22 | 75 | 327,95 | 128 | 580,24 | 181 | 834,65 | 234 | 1089,05 |
+| 23 | 100,59 | 76 | 332,32 | 129 | 585,02 | 182 | 839,43 | 235 | 1093,85 |
+| 24 | 104,97 | 77 | 336,70 | 130 | 589,84 | 183 | 844,24 | 236 | 1098,65 |
+| 25 | 109,33 | 78 | 341,07 | 131 | 594,63 | 184 | 849,03 | 237 | 1103,45 |
+| 26 | 113,71 | 79 | 345,44 | 132 | 599,42 | 185 | 853,84 | 238 | 1108,25 |
+| 27 | 118,08 | 80 | 349,82 | 133 | 604,24 | 186 | 858,64 | 239 | 1113,05 |
+| 28 | 122,46 | 81 | 354,60 | 134 | 609,03 | 187 | 863,44 | 240 | 1117,85 |
+| 29 | 126,83 | 82 | 359,41 | 135 | 613,83 | 188 | 868,24 | 241 | 1122,66 |
+| 30 | 131,20 | 83 | 364,22 | 136 | 618,62 | 189 | 873,05 | 242 | 1127,45 |
+| 31 | 135,58 | 84 | 369,00 | 137 | 623,43 | 190 | 877,84 | 243 | 1132,25 |
+| 32 | 139,94 | 85 | 373,81 | 138 | 628,23 | 191 | 882,64 | 244 | 1137,06 |
+| 33 | 144,30 | 86 | 378,61 | 139 | 633,02 | 192 | 887,44 | 245 | 1141,85 |
+| 34 | 148,69 | 87 | 383,41 | 140 | 637,82 | 193 | 892,24 | 246 | 1146,65 |
+| 35 | 153,06 | 88 | 388,21 | 141 | 642,64 | 194 | 897,05 | 247 | 1151,44 |
+| 36 | 157,43 | 89 | 393,01 | 142 | 647,41 | 195 | 901,84 | 248 | 1156,26 |
+| 37 | 161,80 | 90 | 397,82 | 143 | 652,23 | 196 | 906,64 | 249 | 1161,04 |
+| 38 | 166,17 | 91 | 402,61 | 144 | 657,03 | 197 | 911,44 | 250 | 1165,85 |
+| 39 | 170,54 | 92 | 407,41 | 145 | 661,83 | 198 | 916,24 | >250 | ¹ |
+| 40 | 174,92 | 93 | 412,22 | 146 | 666,63 | 199 | 921,04 |   |   |
+| 41 | 179,30 | 94 | 417,00 | 147 | 671,43 | 200 | 925,85 |   |   |
+| 42 | 183,67 | 95 | 421,81 | 148 | 676,22 | 201 | 930,64 |   |   |
+| 43 | 188,04 | 96 | 426,62 | 149 | 681,04 | 202 | 935,45 |   |   |
+| 44 | 192,40 | 97 | 431,41 | 150 | 685,82 | 203 | 940,25 |   |   |
+| 45 | 196,78 | 98 | 436,21 | 151 | 690,63 | 204 | 945,04 |   |   |
+| 46 | 201,16 | 99 | 441,02 | 152 | 695,43 | 205 | 949,84 |   |   |
+| 47 | 205,53 | 100 | 445,81 | 153 | 700,23 | 206 | 954,65 |   |   |
+| 48 | 209,91 | 101 | 450,61 | 154 | 705,03 | 207 | 959,45 |   |   |
+| 49 | 214,28 | 102 | 455,41 | 155 | 709,83 | 208 | 964,24 |   |   |
+| 50 | 218,65 | 103 | 460,21 | 156 | 714,62 | 209 | 969,05 |   |   |
+| 51 | 223,00 | 104 | 465,02 | 157 | 719,44 | 210 | 973,86 |   |   |
+| 52 | 227,39 | 105 | 469,81 | 158 | 724,22 | 211 | 978,64 |   |   |
+| 53 | 231,76 | 106 | 474,62 | 159 | 729,04 | 212 | 983,44 |   |   |
 
-*) De maximale huurprijsgrens behorende bij meer dan 250 punten is het bedrag dat wordt verkregen door € 4,69 (dat bedrag komt overeen met het verschil tussen de bedragen, genoemd bij 250 en 249 punten) te vermenigvuldigen met het aantal punten van de woonruimte, verminderd met 250, en bij de verkregen uitkomst € 1137,41 (dat bedrag komt overeen met het bedrag genoemd bij 250 punten) op te tellen.
+¹ De maximale huurprijsgrens behorende bij meer dan 250 punten is het bedrag dat wordt verkregen door € 4,81 (dat bedrag komt overeen met het verschil tussen de bedragen, genoemd bij 250 en 249 punten) te vermenigvuldigen met het aantal punten van de woonruimte, verminderd met 250, en bij de verkregen uitkomst € 1165,85 (dat bedrag komt overeen met het bedrag genoemd bij 250 punten) op te tellen.
 
 ## Bijlage V
 
-Schema van redelijke huuraanpassingen per 1 juli 2008 voor woonruimte bij overgang van reguliere huurprijs naar reguliere huurprijs
+Schema van redelijke huuraanpassingen per 1 juli 2009 voor woonruimte bij overgang van reguliere huurprijs naar reguliere huurprijs
 
 | Geldende huurprijs (in bedragen per maand) | Geldende huurprijs (in bedragen per maand) | Huuraanpassing | Huuraanpassing |
 | --- | --- | --- | --- |
-| I | hoger dan de maximale huurprijsgrens 1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. | I | huurverlaging2Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van artikel 6, eerste lid, van het Besluit huurprijzen woonruimte. tot de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. |
+| I | hoger dan de maximale huurprijsgrens ¹ | I | huurverlaging ² tot de maximale huurprijsgrens ¹ |
 |   |   |   |   |
-| II | niet hoger dan de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. | II | huurverhoging van maximaal het inflatiepercentage3Onder inflatiepercentage wordt verstaan het inflatiepercentage, bedoeld in artikel 1, eerste lid, van het Besluit huurprijzen woonruimte., voorzover de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. niet wordt overschreden |
+| II | niet hoger dan de maximale huurprijsgrens ¹ | II | huurverhoging van maximaal het inflatiepercentage ³, voorzover de maximale huurprijsgrens ¹ niet wordt overschreden |
+
+¹ De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt.
+
+² Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van artikel 6, eerste lid, van het Besluit huurprijzen woonruimte.
+
+³ Onder inflatiepercentage wordt verstaan het inflatiepercentage, bedoeld in artikel 1, eerste lid, van het Besluit huurprijzen woonruimte.
 
 ## Bijlage VI
 
-Schema van redelijke huuraanpassingen per 1 juli 2008 voor woonruimte bij overgang van reguliere huurprijs naar huurvastprijs, van huurvastprijs naar reguliere huurprijs en van huurvastprijs naar nieuwe huurvastprijs
+Schema van redelijke huuraanpassingen per 1 juli 2009 voor woonruimte bij overgang van reguliere huurprijs naar huurvastprijs, van huurvastprijs naar reguliere huurprijs en van huurvastprijs naar nieuwe huurvastprijs
 
 | Geldende huurprijs (in bedragen per maand) | Geldende huurprijs (in bedragen per maand) | Huuraanpassing | Huuraanpassing |
 | --- | --- | --- | --- |
-| I | hoger dan de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. | I | huurverlaging tot de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt.en 2Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van artikel 6, eerste lid, van het Besluit huurprijzen woonruimte. |
+| I | hoger dan de maximale huurprijsgrens ¹ | I | huurverlaging tot de maximale huurprijsgrens ¹en ² |
 |   |   |   |   |
-| II | niet hoger dan de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt., bij overgang van de overeengekomen reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd. of huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. naar een (nieuwe) huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. | II | ieder percentage, voorzover de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. niet wordt overschreden |
+| II | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de overeengekomen reguliere huurprijs **4** of huurvastprijs ³ naar een (nieuwe) huurvastprijs ³ | II | ieder percentage, voorzover de maximale huurprijsgrens ¹ niet wordt overschreden |
 |   |   |   |   |
-| III | niet hoger dan de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt., bij overgang van de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. naar een nieuwe reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd., voorzover bij de aanvang van de oude huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. wèl een alternatieve reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd. bekend was | III | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in [artikel 27, eerste lid, aanhef, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27), en de alternatieve reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd., voorzover de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. niet wordt overschreden5Indien de huurvastperiode eindigde op 30 juni van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging tevens de huurprijsontwikkeling te worden betrokken die wordt verwacht voor het tijdvak van 1 juli tot en met 30 juni daaropvolgend. Indien de huurvastperiode is begonnen op 1 juli van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging niet de huurprijsontwikkeling te worden betrokken die werd verwacht voor het tijdvak van die 1 juli-datum tot en met de 30 juni-datum daaropvolgend. |
+| III | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de huurvastprijs ³ naar een nieuwe reguliere huurprijs 4, voorzover bij de aanvang van de oude huurvastprijs ³ wèl een alternatieve reguliere huurprijs 4 bekend was | III | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs ³ in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in [artikel 27, eerste lid, aanhef, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27), en de alternatieve reguliere huurprijs 4, voorzover de maximale huurprijsgrens ¹ niet wordt overschreden 5 |
 |   |   |   |   |
-| IV | niet hoger dan de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt., bij overgang van de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. naar een nieuwe reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd., voorzover bij de aanvang van de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. géén alternatieve reguliere huurprijs4Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd. bekend was | IV | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs3Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in [artikel 27, eerste lid, aanhef, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27), gedeeld door 2, voor zover de maximale huurprijsgrens1De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt. niet wordt overschreden5Indien de huurvastperiode eindigde op 30 juni van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging tevens de huurprijsontwikkeling te worden betrokken die wordt verwacht voor het tijdvak van 1 juli tot en met 30 juni daaropvolgend. Indien de huurvastperiode is begonnen op 1 juli van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging niet de huurprijsontwikkeling te worden betrokken die werd verwacht voor het tijdvak van die 1 juli-datum tot en met de 30 juni-datum daaropvolgend. |
+| IV | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de huurvastprijs ³ naar een nieuwe reguliere huurprijs 4, voorzover bij de aanvang van de huurvastprijs ³ géén alternatieve reguliere huurprijs 4 bekend was | IV | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs ³ in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in [artikel 27, eerste lid, aanhef, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27), gedeeld door 2, voor zover de maximale huurprijsgrens ¹ niet wordt overschreden 5 |
+
+¹ De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt.
+
+² Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van artikel 6, eerste lid, van het Besluit huurprijzen woonruimte.
+
+³ Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs.
+
+4 Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd.
+
+5 Indien de huurvastperiode eindigde op 30 juni van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging tevens de huurprijsontwikkeling te worden betrokken die wordt verwacht voor het tijdvak van 1 juli tot en met 30 juni daaropvolgend. Indien de huurvastperiode is begonnen op 1 juli van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging niet de huurprijsontwikkeling te worden betrokken die werd verwacht voor het tijdvak van die 1 juli-datum tot en met de 30 juni-datum daaropvolgend.
 
 ## Bijlage VII
 
