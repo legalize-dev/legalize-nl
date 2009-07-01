@@ -4,7 +4,7 @@ identifier: "BWBR0008754"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2008-02-27"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008754"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=2&z=2008-02-27&g=2008-02-27).
+1. In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=2&z=2009-07-01&g=2009-07-01).
 
 2. Deze wet is van toepassing op de verstrekking van subsidie door Onze Minister, behoudens indien die subsidie wordt verstrekt krachtens een andere wet.
 
@@ -95,7 +95,7 @@ Onze Minister kan subsidies verstrekken voor activiteiten welke passen in:
 
 ##### Artikel 4
 
-Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3&z=2008-02-27&g=2008-02-27), tenzij het een subsidie betreft:
+Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3&z=2009-07-01&g=2009-07-01), tenzij het een subsidie betreft:
 
 - a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) of
 
@@ -117,7 +117,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verle
 
 3. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verstrekt, tenzij bij de intrekking of wijziging anders is bepaald.
 
-4. De [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), derde lid, en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.
+4. De [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), derde lid, en [4:57, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.
 
 ##### Artikel 8
 
@@ -127,7 +127,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verle
 
 ##### Artikel 9
 
-Deze wet is, met uitzondering van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3&z=2008-02-27&g=2008-02-27), van overeenkomstige toepassing op spoedeisende, tijdelijke verstrekking door Onze Minister van aanspraken op financiële middelen, niet zijnde subsidies, behoudens indien die aanspraak wordt verstrekt krachtens een andere wet.
+Deze wet is, met uitzondering van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3&z=2009-07-01&g=2009-07-01), van overeenkomstige toepassing op spoedeisende, tijdelijke verstrekking door Onze Minister van aanspraken op financiële middelen, niet zijnde subsidies, behoudens indien die aanspraak wordt verstrekt krachtens een andere wet.
 
 ##### Artikel 10
 
