@@ -4,7 +4,7 @@ identifier: "BWBR0007007"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "2006-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007007"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder gepensioneerde: een persoon als bedoeld in d
 
 - e. inkomsten, verbonden aan de toekenning van een onderscheiding;
 
-- f. de rentebaten, bedoeld in de [artikelen 32, derde lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=32), [29, derde lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=29), [37, derde lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=37), [33, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=33) en [44a, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=44a), en
+- f. de van de Raad ontvangen wettelijke rente op de garantietoeslag, en
 
 - g. negatieve vermogensinkomsten.
 
