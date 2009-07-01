@@ -4,7 +4,7 @@ identifier: "BWBR0009721"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-07-01"
-last_updated: "1998-07-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009721"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Onder het indexcijfer van de lonen, bedoeld in [artikel 35, vijfde lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=35), wordt verstaan:
+Onder het indexcijfer van de lonen, bedoeld in [artikel 34, vierde lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34), wordt verstaan:
 
 het eerst gepubliceerde indexcijfer van CAO-lonen per maand, inclusief bijzondere beloningen, van volwassen en jeugdige werknemers, zoals dat door het Centraal Bureau voor de Statistiek naar de stand op de laatste werkdag van de kalendermaand wordt berekend.
 
@@ -59,5 +59,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit omschrijving indexcijfer.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a
+
+Dit besluit berust op [artikel 34, vierde lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
