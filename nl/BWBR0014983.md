@@ -4,7 +4,7 @@ identifier: "BWBR0014983"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2003-04-30"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014983"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluiten:
 
 ##### Artikel 1
 
-In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
+In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
@@ -56,19 +56,21 @@ Registratie van de resultaten van de metingen voldoet aan de in deel II van de b
 
 ##### Artikel 4
 
-1. Een persoon als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=6), van het besluit, beschikt over de in deel III van de bijlage voorgeschreven vaardigheden en bekwaamheden.
+1. Een persoon als bedoeld in [artikel 6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014106&artikel=6), beschikt over de in deel III van de bijlage voorgeschreven vaardigheden en bekwaamheden.
 
-2. Hij kan in ieder geval aantonen over die vaardigheden en bekwaamheden te beschikken door het overleggen van een verklaring van een instantie als aangegeven in deel III van de bijlage, dat hij de in dat deel van de bijlage aangewezen, door die instantie verzorgde opleiding heeft gevolgd.
+2. Hij toont aan over die vaardigheden en bekwaamheden te beschikken door het overleggen van een verklaring van een instantie als aangegeven in deel III van de bijlage, dat hij een van de in dat deel van de bijlage aangewezen door die instantie verzorgde opleidingen heeft gevolgd.
 
 ##### Artikel 5
 
-1. De Minister en de Minister van Sociale Zaken en Werkgelegenheid kunnen ontheffing verlenen van de in deel I en deel II van de bijlage gestelde voorschriften, voor zover het belang van de bescherming tegen ioniserende straling zich daartegen niet verzet.
+1. De Minister kan ontheffing verlenen van de in deel I en deel II van de bijlage gestelde voorschriften, voor zover het belang van de bescherming tegen ioniserende straling zich daartegen niet verzet.
 
 2. Aan de ontheffing kunnen voorschriften worden verbonden met betrekking tot de te gebruiken meetapparatuur, de wijze van meten, de omstandigheden waaronder de metingen worden verricht, en de registratie van de meetgegevens.
 
+3. De Minister kan de ontheffing intrekken, indien het belang van de bescherming tegen ioniserende straling dat noodzakelijk maakt.
+
 ##### Artikel 6
 
-1. De aanvraag om een ontheffing krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=5&z=2003-04-30&g=2003-04-30) wordt ingediend bij de Minister.
+1. De aanvraag om een ontheffing krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=5&z=2009-07-01&g=2009-07-01) wordt ingediend bij de Minister.
 
 2. De aanvraag bevat een beschrijving van de door degene die de inrichting drijft, voorgenomen afwijkingen van hetgeen in de bijlage is voorgeschreven omtrent de:
 
@@ -88,7 +90,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: [Regeling detectie radioactief besmet schroot](https://wetten.overheid.nl/jci1.3:c:BWBR0014983).
 
-## Bijlage. bij de Regeling detectie, registratie en kennisvereisten radioactief besmet schroot
+## Bijlage. bij de Regeling detectie radioactief besmet schroot
 
 ### Deel I. Voorschriften met betrekking tot detectieapparatuur, de wijze van meten en de omstandigheden waaronder de metingen worden verricht
 
@@ -96,13 +98,13 @@ Deze regeling wordt aangehaald als: [Regeling detectie radioactief besmet schroo
 
 **Voorschriften met betrekking tot poortdetectors**
 
-**Poortdetector**
+Met betrekking tot een detector geldende voorschriften:
 
 Een poortdetector voldoet aan de volgende voorschriften:
 
-**Meten met een poortdetector**
-
 Meten met een poortdetector geschiedt op de volgende wijze:
+
+Meten met een kraandetector geschiedt op de volgende wijze:
 
 **A. Meten van het omgevingsdosisequivalenttempo van het achtergrondniveau**
 
@@ -110,23 +112,23 @@ Meten met een poortdetector geschiedt op de volgende wijze:
 
 **Voorschriften met betrekking tot handdetectors**
 
-**Handdetector**
+De in het register opgenomen gegevens worden gedurende ten minste vijf jaren bewaard.
 
 Met betrekking tot een handdetector wordt voldaan aan de volgende voorschriften:
 
-**Meten van schroot aangevoerd per as met een handdetector**
+De rapportages, bedoeld in deel I van deze bijlage, worden in het register opgenomen.
 
 Meten met een handdetector van ladingen schroot aangevoerd per auto of trein geschiedt op de volgende wijze:
 
 **A. Meten van het omgevingsdosisequivalenttempo van het achtergrondniveau**
 
-**B. Meten van een lading schroot**
+Een aangewezen persoon als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=6&z=2009-07-01&g=2009-07-01), van het besluit beschikt over de volgende vaardigheden en bekwaamheden:
 
 **Meten van schroot, aangevoerd per schip in bulk met een handdetector**
 
-Meten met een handdetector van ladingen schroot aangevoerd per schip in bulk geschiedt op de volgend wijze:
+Als opleidingen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2009-07-01&g=2009-07-01), worden aangewezen:
 
-**A. Meten van het omgevingsdosisequivalenttempo van het achtergrondniveau**
+Met een opleiding als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2009-07-01&g=2009-07-01), wordt gelijkgesteld een opleiding, gegeven in een andere lidstaat van de Europese Unie, dan wel een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een opleidingsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
 **B. Meten van een lading schroot**
 
@@ -165,5 +167,27 @@ Een persoon als bedoeld in artikel 6, eerste lid, van het besluit beschikt over 
 Als opleiding, bedoeld in artikel 4, tweede lid, wordt aangewezen:
 
 de Praktijkstudiedag Ioniserende Straling voor de metaal & Schroothandel, ontwikkeld door de Röntgen Technische Dienst BV (RTD) in samenwerking met SBC/Elsevier opleiding en advies.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Apparatuur
+
+### Voorschriften met betrekking tot detectoren
+
+### Meten van een lading schroot
+
+### Deel II. Voorschriften met betrekking tot de registratie van meetgegevens
+
+### Gegevens per meting
+
+### Periode voor het bewaren van de gegevens
+
+### Rapportages uit deel I
+
+### Deel III. Vaardigheden en bekwaamheden
+
+### Vaardigheden en bekwaamheden
+
+### Opleidingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
