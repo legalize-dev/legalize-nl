@@ -4,7 +4,7 @@ identifier: "BWBR0026049"
 country: "nl"
 rank: "wet"
 publication_date: "2010-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026049"
 soort: "wet"
@@ -76,7 +76,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XI
 
