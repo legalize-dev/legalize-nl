@@ -4,7 +4,7 @@ identifier: "BWBR0023530"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2008-06-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023530"
 soort: "ministeriele-regeling"
@@ -60,19 +60,15 @@ Europese Verordening Overbrengen Afvalstoffen ([Verordening (EEG) nr. 259/93](31
 
 [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054)
 
-[Wet vaartijden en bemanningssterkte binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0006029)
-
 [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642)
 
 [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671)
-
-[Binnenschepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003443)
 
 [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950)
 
 [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364)
 
-[Wet vervoer binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005319)
+[Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009)
 
 [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
 
