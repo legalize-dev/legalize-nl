@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-06-25"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -100,6 +100,7 @@ Besluit:
 |   |   |   | Photonic devices |   |   |
 | 3.4 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (LSH-projecten) | [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=4.2) |   | 07-01 t/m 27-04 | 3.000.000 |
 | 3.5 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (LSH-projecten) | [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=4.11) |   |   |   |
+| 3.5a | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (LSH-projecten) | [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=4.20) |   | 01-07 t/m 01-09 | 1.000.000 |
 | 3.6 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (FND haalbaarheidsprojecten) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.2) |   | 02-03 t/m 09-10 | 1.000.000 |
 | 3.7 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (FND innovatieprojecten) | [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.9) |   | 02-03 t/m 19-06 | 6.000.000 |
 | 3.8 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (FND-MKB-innovatieprojecten) | [5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.19) |   | 02-03 t/m 09-10 | 3.000.000 |
