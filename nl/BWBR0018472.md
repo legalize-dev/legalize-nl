@@ -4,7 +4,7 @@ identifier: "BWBR0018472"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2009-03-25"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018472"
 soort: "wet"
@@ -67,13 +67,11 @@ Deze wet geldt voor berekeningsjaren die aanvangen op of na 1 januari 2006.
 
 - b. berekeningsjaar: het kalenderjaar waarop de tegemoetkoming betrekking heeft;
 
-- c. bestuurlijke boete: de bestuurlijke sanctie, inhoudende een onvoorwaardelijke verplichting tot betaling van een geldsom, die is gericht op bestraffing van de overtreder;
+- c. kind: de persoon bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=2&artikel=4&z=2009-07-01&g=2009-07-01);
 
-- d. kind: de persoon bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=2&artikel=4&z=2009-03-25&g=2009-03-25);
+- d. lidstaat: een Staat die lid is van de Europese Unie of een andere Staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
 
-- e. lidstaat: een Staat die lid is van de Europese Unie of een andere Staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
-
-- f. medebewoner: de persoon die op hetzelfde woonadres als de belanghebbende staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens, met dien verstande dat als medebewoner niet wordt aangemerkt:
+- e. medebewoner: de persoon die op hetzelfde woonadres als de belanghebbende staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens, met dien verstande dat als medebewoner niet wordt aangemerkt:
 
 - 1°. de partner van de belanghebbende,
 
@@ -81,27 +79,27 @@ Deze wet geldt voor berekeningsjaren die aanvangen op of na 1 januari 2006.
 
 - 3°. degene die tot het huishouden van de onder 2° bedoelde persoon behoort;
 
-- g. partner: de persoon bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=2&artikel=3&z=2009-03-25&g=2009-03-25);
+- f. partner: de persoon bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=2&artikel=3&z=2009-07-01&g=2009-07-01);
 
-- h. sociaal-fiscaalnummer: het nummer bedoeld in [artikel 2, derde lid, onderdeel k, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
+- g. sociaal-fiscaalnummer: het nummer bedoeld in [artikel 2, derde lid, onderdeel k, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
 
-- i. tegemoetkoming: een financiële bijdrage van het Rijk op grond van een inkomensafhankelijke regeling;
+- h. tegemoetkoming: een financiële bijdrage van het Rijk op grond van een inkomensafhankelijke regeling;
 
-- j. toetsingsinkomen: het inkomen bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=3&artikel=8&z=2009-03-25&g=2009-03-25);
+- i. toetsingsinkomen: het inkomen bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=3&artikel=8&z=2009-07-01&g=2009-07-01);
 
-- k. verzamelinkomen: het verzamelinkomen bedoeld in [artikel 2.18 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.18);
+- j. verzamelinkomen: het verzamelinkomen bedoeld in [artikel 2.18 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.18);
 
-- l. vreemdeling: hetgeen daaronder wordt verstaan in de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823);
+- k. vreemdeling: hetgeen daaronder wordt verstaan in de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823);
 
-- m. inspecteur: de inspecteur, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
+- l. inspecteur: de inspecteur, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
 
-- n. niet in Nederland belastbaar inkomen: inkomen dat niet in het verzamelinkomen of het belastbare loon is begrepen omdat het niet behoort tot het Nederlandse inkomen, bedoeld in [artikel 7.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.1), of omdat het is vrijgesteld op grond van bepalingen van interregionaal of internationaal recht;
+- m. niet in Nederland belastbaar inkomen: inkomen dat niet in het verzamelinkomen of het belastbare loon is begrepen omdat het niet behoort tot het Nederlandse inkomen, bedoeld in [artikel 7.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.1), of omdat het is vrijgesteld op grond van bepalingen van interregionaal of internationaal recht;
 
-- o. ontvanger: de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2);
+- n. ontvanger: de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2);
 
-- p. inkomensgegeven: inkomensgegeven als bedoeld in [artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21);
+- o. inkomensgegeven: inkomensgegeven als bedoeld in [artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21);
 
-- q. burgerservicenummer: het nummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1).
+- p. burgerservicenummer: het nummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1).
 
 2. In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Financiën.
 
@@ -163,7 +161,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 ##### Artikel 7. Draagkracht
 
-1. Ter bepaling van de draagkracht voor de toepassing van een inkomensafhankelijke regeling wordt het toetsingsinkomen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=3&artikel=8&z=2009-03-25&g=2009-03-25), van de belanghebbende en dat van zijn partner in aanmerking genomen.
+1. Ter bepaling van de draagkracht voor de toepassing van een inkomensafhankelijke regeling wordt het toetsingsinkomen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=3&artikel=8&z=2009-07-01&g=2009-07-01), van de belanghebbende en dat van zijn partner in aanmerking genomen.
 
 2. Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht van de belanghebbende en diens partner ook de draagkracht van medebewoners van belang is voor de beoordeling van de aanspraak op of de bepaling van de hoogte van een tegemoetkoming, wordt mede het toetsingsinkomen van de medebewoners in aanmerking genomen.
 
@@ -227,9 +225,9 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 2. Onder Belastingdienst/Toeslagen wordt verstaan: het organisatieonderdeel van de rijksbelastingdienst dat is belast met het toekennen, uitbetalen en terugvorderen van tegemoetkomingen.
 
-##### Artikel 12. Uitzonderingen op de Algemene wet bestuursrecht
+##### Artikel 12
 
-Voor de toepassing van dit hoofdstuk blijft [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) buiten toepassing en zijn [artikel 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40) en de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) niet van toepassing op de verrekeningsbeschikking als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=30&z=2009-03-25&g=2009-03-25), en de aanmaning en het dwangbevel als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=32&z=2009-03-25&g=2009-03-25).
+Voor de toepassing van dit hoofdstuk blijven [titel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) en [artikel 4:125 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:125) buiten toepassing en zijn [artikel 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40), [titel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.1) en de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) niet van toepassing op de verrekeningsbeschikking, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=30&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 13. Gebruik burgerservicenummer of sociaal-fiscaalnummer
 
@@ -277,7 +275,7 @@ De Belastingdienst/Toeslagen maakt voor de uitvoering van deze wet gebruik van h
 
 2. Ingeval de belanghebbende voor het gehele berekeningsjaar aanspraak heeft op een tegemoetkoming wordt het voorschot verleend:
 
-- a. indien de aanvraag ten minste acht weken vóór het berekeningsjaar is ingediend of indien de tegemoetkoming wordt toegekend met toepassing van [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=2&artikel=15&z=2009-03-25&g=2009-03-25): vóór de aanvang van het berekeningsjaar;
+- a. indien de aanvraag ten minste acht weken vóór het berekeningsjaar is ingediend of indien de tegemoetkoming wordt toegekend met toepassing van [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=2&artikel=15&z=2009-07-01&g=2009-07-01): vóór de aanvang van het berekeningsjaar;
 
 - b. in andere gevallen: binnen acht weken na de ontvangst van de aanvraag.
 
@@ -365,9 +363,9 @@ De Belastingdienst/Toeslagen kan de uitbetaling van een voorschot geheel of gede
 
 ##### Artikel 25. Wijze van uitbetaling
 
-1. Uitbetaling van een voorschot of een tegemoetkoming geschiedt door de Belastingdienst/Toeslagen door middel van een bijschrijving op een ten name van de belanghebbende of diens partner bestaande bankrekening, bestemd voor girale betaling, tenzij daartoe door de belanghebbende een andere rekening is aangewezen.
+1. Uitbetaling van een voorschot of een tegemoetkoming geschiedt door de Belastingdienst/Toeslagen door middel van een bijschrijving op een ten name van de belanghebbende of diens partner bestaande bankrekening, tenzij daartoe door de belanghebbende een andere rekening is aangewezen.
 
-2. Indien daartoe gegronde redenen aanwezig zijn, kan de Belastingdienst/Toeslagen in afwijking van de aanwijzing, bedoeld in het eerste lid, een voorschot of een tegemoetkoming bijschrijven op een ten name van de belanghebbende of diens partner bestaande bankrekening, bestemd voor girale betaling.
+2. Indien daartoe gegronde redenen aanwezig zijn, kan de Belastingdienst/Toeslagen in afwijking van de aanwijzing, bedoeld in het eerste lid, een voorschot of een tegemoetkoming bijschrijven op een ten name van de belanghebbende of diens partner bestaande bankrekening.
 
 3. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de aanwijzing van een andere rekening als bedoeld in het eerste lid.
 
@@ -383,69 +381,67 @@ Indien een herziening van een tegemoetkoming of een herziening van een voorschot
 
 3. Het percentage van de rente is gelijk aan het percentage, bedoeld in [artikel 30f, zesde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f).
 
-##### Artikel 28. Betalingstermijn van twee maanden bij terugvordering
+##### Artikel 28. Betalingstermijn bij terugvordering
 
-1. De belanghebbende heeft de verplichting om het bedrag van een terugvordering alsmede de op de voet van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=27&z=2009-03-25&g=2009-03-25) verschuldigde rente binnen twee maanden na de dagtekening van de beschikking tot terugvordering te betalen aan de Belastingdienst/Toeslagen.
+1. De belanghebbende heeft de verplichting om het bedrag van een terugvordering alsmede de op de voet van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=27&z=2009-07-01&g=2009-07-01) verschuldigde rente binnen zes weken na de dagtekening van de beschikking tot terugvordering te betalen aan de Belastingdienst/Toeslagen.
 
-2. Het bedrag van een bestuurlijke boete moet worden betaald binnen twee maanden na de dagtekening van de boetebeschikking.
+2. Het bedrag van een bestuurlijke boete moet worden betaald binnen zes weken na de dagtekening van de boetebeschikking.
 
 3. De Algemene termijnenwet is niet van toepassing op de in dit artikel gestelde termijnen.
 
 ##### Artikel 29. Rente bij te late betaling terugvordering
 
-Bij overschrijding van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=28&z=2009-03-25&g=2009-03-25) bedoelde betalingstermijn is rente verschuldigd met overeenkomstige toepassing van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) en [29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29).
+Bij overschrijding van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=28&z=2009-07-01&g=2009-07-01) bedoelde betalingstermijn is rente verschuldigd met overeenkomstige toepassing van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) en [29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29).
 
 ##### Artikel 30. Verrekening
 
-1. De Belastingdienst/Toeslagen kan een door de belanghebbende verschuldigd bedrag aan terugvordering verrekenen met een aan hem uit te betalen tegemoetkoming of voorschot daarop, een en ander ongeacht de inkomensafhankelijke regeling die het betreft en ongeacht het berekeningsjaar.
+1. De Belastingdienst/Toeslagen is bevoegd tot verrekening van een door de belanghebbende verschuldigd bedrag aan terugvordering met een aan hem uit te betalen tegemoetkoming of voorschot daarop, een en ander ongeacht de inkomensafhankelijke regeling die het betreft en ongeacht het berekeningsjaar.
 
-2. De Belastingdienst/Toeslagen is tevens bevoegd, in afwijking van [artikel 3 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=3), een door de belanghebbende verschuldigd bedrag aan terugvordering te verrekenen met aan hem uit te betalen bedragen inkomstenbelasting, premie volksverzekeringen, en heffingsrente begrepen in een aanslag of voorlopige aanslag inkomstenbelasting.
+2. De Belastingdienst/Toeslagen is tevens bevoegd, in afwijking van [artikel 3 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=3), tot verrekening van een door de belanghebbende verschuldigd bedrag aan terugvordering met aan hem uit te betalen bedragen inkomstenbelasting, premie volksverzekeringen, en heffingsrente begrepen in een aanslag of voorlopige aanslag inkomstenbelasting.
 
-3. Een verrekening vindt niet eerder plaats dan nadat de termijn bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=28&z=2009-03-25&g=2009-03-25) is verstreken. De in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=27&z=2009-03-25&g=2009-03-25) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=29&z=2009-03-25&g=2009-03-25) bedoelde rente alsmede bestuurlijke boeten kunnen in de verrekening worden betrokken.
+3. Een verrekening vindt niet eerder plaats dan nadat de termijn bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=28&z=2009-07-01&g=2009-07-01) is verstreken. De in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=27&z=2009-07-01&g=2009-07-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=29&z=2009-07-01&g=2009-07-01) bedoelde rente alsmede bestuurlijke boeten kunnen in de verrekening worden betrokken.
 
-##### Artikel 31. Uitstel van betaling bij terugvordering
+##### Artikel 31
 
-1. De Belastingdienst/Toeslagen kan onder voorwaarden aan de belanghebbende voor een bepaalde tijd bij beschikking uitstel van betaling verlenen. Gedurende het uitstel vangt de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=32&z=2009-03-25&g=2009-03-25) bedoelde dwanginvordering niet aan, of wordt deze geschorst. Het uitstel kan tussentijds bij beschikking worden beëindigd.
-
-2. Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen van uitstel van betaling.
+Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen van uitstel van betaling.
 
 ##### Artikel 32. Dwanginvordering bij terugvordering
 
-1. Indien de belanghebbende het bedrag van de terugvordering, daaronder begrepen de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=27&z=2009-03-25&g=2009-03-25) bedoelde rente alsmede bestuurlijke boeten, niet binnen de gestelde termijn betaalt, maant de Belastingdienst/Toeslagen hem schriftelijk aan om alsnog binnen tien dagen na de dagtekening van de aanmaning te betalen, onder kennisgeving dat hij anders door middelen bij de wet bepaald tot betaling zal worden gedwongen. De aanmaning kan betrekking hebben op meerdere terugvorderingsbeschikkingen.
+1. Indien de belanghebbende het bedrag van de terugvordering, daaronder begrepen de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=27&z=2009-07-01&g=2009-07-01) bedoelde rente alsmede bestuurlijke boeten, niet binnen de gestelde termijn betaalt, maant de Belastingdienst/Toeslagen hem schriftelijk aan om alsnog binnen twee weken na de dagtekening van de aanmaning te betalen.
 
-2. Indien de belanghebbende na de aanmaning in gebreke blijft, kan de invordering van het verschuldigde bedrag geschieden bij een door de Belastingdienst/Toeslagen uit te vaardigen dwangbevel. Bij het dwangbevel kunnen tevens de kosten van de aanmaning, de kosten van het dwangbevel en de verschuldigde renten of boete worden ingevorderd. Het dwangbevel kan betrekking hebben op meer terugvorderingsbeschikkingen.
+2. De invordering van het bedrag van de terugvordering kan geschieden bij een door de Belastingdienst/Toeslagen uit te vaardigen dwangbevel. In afwijking van [artikel 4:119, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:119) kunnen bij het dwangbevel tevens de kosten van de aanmaning, de kosten van het dwangbevel en de verschuldigde renten worden ingevorderd.
 
 3. De betekening van het dwangbevel geschiedt met overeenkomstige toepassing van [artikel 13 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=13).
 
-4. Het dwangbevel levert een executoriale titel op, die met overeenkomstige toepassing van [artikel 14 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=14) kan worden tenuitvoergelegd.
+4. [Artikel 14 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=14) is van overeenkomstige toepassing.
 
 5. De belanghebbende kan met overeenkomstige toepassing van [artikel 17 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=17), tegen de tenuitvoerlegging van het dwangbevel in verzet komen.
 
 6. Een derde die aan de belanghebbende loon, pensioen, lijfrente of uitkeringen, een en ander als bedoeld in [artikel 19 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19), verschuldigd is, kan met overeenkomstige toepassing van dat artikel op vordering van de Belastingdienst/Toeslagen worden verplicht het door de belanghebbende verschuldigde bedrag aan terugvordering te betalen.
 
-7. Het recht tot dwanginvordering alsmede het recht tot verrekening verjaren met overeenkomstige toepassing van [artikel 27 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=27).
+7. [Artikel 27, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=27) is van overeenkomstige toepassing.
 
 ##### Artikel 33. Aansprakelijkheid bij terugvordering
 
-1. De partner van de belanghebbende is hoofdelijk aansprakelijk voor een door de belanghebbende verschuldigd bedrag aan terugvordering, daaronder begrepen de in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=27&z=2009-03-25&g=2009-03-25) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=29&z=2009-03-25&g=2009-03-25) bedoelde rente alsmede de kosten van dwanginvordering. De partner is niet aansprakelijk voor een aan de belanghebbende opgelegde boete, tenzij het belopen daarvan mede aan hem is te wijten.
+1. De partner van de belanghebbende is hoofdelijk aansprakelijk voor een door de belanghebbende verschuldigd bedrag aan terugvordering, daaronder begrepen de in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=27&z=2009-07-01&g=2009-07-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=29&z=2009-07-01&g=2009-07-01) bedoelde rente alsmede de kosten van aanmaning en de kosten van invordering bij dwangbevel. De partner is niet aansprakelijk voor een aan de belanghebbende opgelegde bestuurlijke boete, tenzij het belopen daarvan mede aan hem is te wijten.
 
-2. Aansprakelijkstelling geschiedt bij beschikking van de Belastingdienst/Toeslagen. Het bedrag waarvoor de aansprakelijkheid bestaat, is invorderbaar twee maanden na de dagtekening van de beschikking. De [artikelen 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=28&z=2009-03-25&g=2009-03-25), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=30&z=2009-03-25&g=2009-03-25), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=31&z=2009-03-25&g=2009-03-25) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=32&z=2009-03-25&g=2009-03-25) zijn van overeenkomstige toepassing.
+2. Aansprakelijkstelling geschiedt bij beschikking van de Belastingdienst/Toeslagen. Het bedrag waarvoor de aansprakelijkheid bestaat, is invorderbaar zes weken na de dagtekening van de beschikking. De [artikelen 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=28&z=2009-07-01&g=2009-07-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=30&z=2009-07-01&g=2009-07-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=31&z=2009-07-01&g=2009-07-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=32&z=2009-07-01&g=2009-07-01) zijn van overeenkomstige toepassing.
+
+3. Op de beschikking, bedoeld in het tweede lid, zijn de [artikelen 4:97 tot en met 4:102 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:100) niet van toepassing
 
 ##### Artikel 34. Aanvullende bepalingen inzake invordering van een terugvordering
 
-1. De Belastingdienst/Toeslagen beschikt ten behoeve van de invordering naast de bevoegdheden ingevolge deze wet, ook over de bevoegdheden die een schuldeiser heeft op grond van enige andere wettelijke bepaling.
+1. Tot het verrichten van de bij of krachtens een wet aan een deurwaarder opgedragen werkzaamheden is, voor zover die werkzaamheden geschieden in opdracht van de Belastingdienst/Toeslagen en betrekking hebben op een terugvordering ingevolge deze wet, uitsluitend een belastingdeurwaarder als bedoeld in [artikel 2, eerste lid, onderdeel j, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2), bevoegd.
 
-2. Tot het verrichten van de bij of krachtens een wet aan een deurwaarder opgedragen werkzaamheden is, voor zover die werkzaamheden geschieden in opdracht van de Belastingdienst/Toeslagen en betrekking hebben op een terugvordering ingevolge deze wet, uitsluitend een belastingdeurwaarder als bedoeld in [artikel 2, eerste lid, onderdeel j, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2), bevoegd.
+2. De Kostenwet invordering rijksbelastingen is van overeenkomstige toepassing.
 
-3. De Kostenwet invordering rijksbelastingen is van overeenkomstige toepassing.
-
-4. De toerekening van de betalingen geschiedt achtereenvolgens aan:
+3. In afwijking van [artikel 4:92, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:92) geschiedt de toerekening van de betalingen achtereenvolgens aan:
 
 - a. de kosten van invordering;
 
 - b. de rente bij te late betaling;
 
-- c. de terugvordering, de in rekening gebrachte rente bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=27&z=2009-03-25&g=2009-03-25) en de bestuurlijke boete, naar evenredigheid.
+- c. de terugvordering, de in rekening gebrachte rente bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=27&z=2009-07-01&g=2009-07-01) en de bestuurlijke boete, naar evenredigheid.
 
 #### Paragraaf 4. Bezwaar en beroep
 
@@ -493,17 +489,19 @@ De Belastingdienst/Toeslagen kan onder bij of krachtens algemene maatregel van b
 
 #### Paragraaf 6. Bestuurlijke boete
 
-##### Artikel 40. Boete bij niet, niet tijdige of onjuiste informatieverstrekking door belanghebbenden
+##### Artikel 40. Bestuurlijke boete bij niet, niet tijdige of onjuiste informatieverstrekking door belanghebbenden
 
-1. Indien de belanghebbende, zijn partner of een medebewoner gehouden is tot het verstrekken van gegevens of inlichtingen, waaronder begrepen de in [artikel 15, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=2&artikel=15&z=2009-03-25&g=2009-03-25), bedoelde opgaaf van het niet in Nederland belastbaar inkomen, en deze persoon daaraan niet, dan wel niet binnen de daartoe gestelde termijn heeft voldaan, kan de Belastingdienst/Toeslagen hem een bestuurlijke boete van ten hoogste € 1500 opleggen.
+1. Indien de belanghebbende, zijn partner of een medebewoner gehouden is tot het verstrekken van gegevens of inlichtingen, waaronder begrepen de in [artikel 15, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=2&artikel=15&z=2009-07-01&g=2009-07-01), bedoelde opgaaf van het niet in Nederland belastbaar inkomen, en deze persoon daaraan niet, dan wel niet binnen de daartoe gestelde termijn heeft voldaan, kan de Belastingdienst/Toeslagen hem een bestuurlijke boete van ten hoogste € 1500 opleggen.
 
 2. Indien het aan opzet of grove schuld van de belanghebbende, zijn partner of een medebewoner is te wijten dat geen, dan wel onjuiste of onvolledige gegevens of inlichtingen zijn verstrekt tengevolge waarvan een of meer tegemoetkomingen tot een te hoog bedrag is of zijn toegekend, kan de Belastingdienst/Toeslagen de belanghebbende, zijn partner of de medebewoner een bestuurlijke boete opleggen van 25 procent van het bedrag dat van de belanghebbende in verband daarmee wordt teruggevorderd bij een herziening. De boete bedraagt niet meer dan € 5000.
 
-3. Bij het opleggen van een bestuurlijke boete zijn de [artikelen 67g](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67g), [67i](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67i), [67j](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67j), [67l](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67l), [67m](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67m) en [67o van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67o) van overeenkomstige toepassing.
+3. Bij het opleggen van een bestuurlijke boete is [artikel 67g, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67g) van overeenkomstige toepassing.
 
-4. De bevoegdheid tot het opleggen van een bestuurlijke boete als bedoeld in het eerst lid vervalt vijf jaren na de dag waarop de in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=2&artikel=18&z=2009-03-25&g=2009-03-25), gestelde termijn is verstreken. De bevoegdheid tot het opleggen van een bestuurlijke boete als bedoeld in het tweede lid vervalt vijf jaren na het einde van het berekeningsjaar waarop de te hoog toegekende tegemoetkoming betrekking heeft.
+4. Bij het opleggen van de in het eerste lid bedoelde bestuurlijke boete vindt [artikel 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) geen toepassing.
 
-5. Indien de tegemoetkoming wordt herzien als gevolg van:
+5. In afwijking in zoverre van [artikel 5:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete als bedoeld in het eerste lid, vijf jaren na de dag waarop de in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=2&artikel=18&z=2009-07-01&g=2009-07-01), gestelde termijn is verstreken en een bestuurlijke boete als bedoeld in het tweede lid, vijf jaren na het einde van het berekeningsjaar waarop de te hoog toegekende tegemoetkoming betrekking heeft.
+
+6. Indien de tegemoetkoming wordt herzien als gevolg van:
 
 - a. een eerste bepaling of herziening van het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, onder 1°, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21), in het geval er geen inkomstenbelasting verschuldigd is, dan wel de aanslag inkomstenbelasting is vastgesteld op nihil;
 
@@ -511,19 +509,21 @@ De Belastingdienst/Toeslagen kan onder bij of krachtens algemene maatregel van b
 
 worden onder de in het tweede lid bedoelde gegevens of inlichtingen mede verstaan de gegevens of inlichtingen die ten behoeve van deze beschikking aan de inspecteur zijn verstrekt dan wel hadden moeten worden verstrekt. [Artikel 67d van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67d) is niet van toepassing.
 
-##### Artikel 41. Boete bij niet, niet tijdige of onjuiste informatieverstrekking door derden
+##### Artikel 41. Bestuurlijke boete bij niet, niet tijdige of onjuiste informatieverstrekking door derden
 
-1. Indien degene die op grond van [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2009-03-25&g=2009-03-25), bij algemene maatregel van bestuur is aangewezen, op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2009-03-25&g=2009-03-25) gehouden is tot het verstrekken van gegevens en inlichtingen, en hij of zij deze niet dan wel niet binnen de ingevolge [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2009-03-25&g=2009-03-25), gestelde termijn verstrekt, kan de Belastingdienst/Toeslagen hem of haar een bestuurlijke boete van ten hoogste € 1500 opleggen.
+1. Indien degene die op grond van [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2009-07-01&g=2009-07-01), bij algemene maatregel van bestuur is aangewezen, op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2009-07-01&g=2009-07-01) gehouden is tot het verstrekken van gegevens en inlichtingen, en hij of zij deze niet dan wel niet binnen de ingevolge [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2009-07-01&g=2009-07-01), gestelde termijn verstrekt, kan de Belastingdienst/Toeslagen hem of haar een bestuurlijke boete van ten hoogste € 1500 opleggen.
 
-2. Indien het aan opzet of grove schuld van degene die op grond van [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2009-03-25&g=2009-03-25), bij algemene maatregel van bestuur is aangewezen en op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2009-03-25&g=2009-03-25) gehouden is tot het verstrekken van gegevens en inlichtingen, is te wijten dat geen, dan wel onjuiste of onvolledige gegevens of inlichtingen zijn verstrekt kan de Belastingdienst/Toeslagen hem of haar een bestuurlijke boete opleggen van ten hoogste € 5000.
+2. Indien het aan opzet of grove schuld van degene die op grond van [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2009-07-01&g=2009-07-01), bij algemene maatregel van bestuur is aangewezen en op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2009-07-01&g=2009-07-01) gehouden is tot het verstrekken van gegevens en inlichtingen, is te wijten dat geen, dan wel onjuiste of onvolledige gegevens of inlichtingen zijn verstrekt kan de Belastingdienst/Toeslagen hem of haar een bestuurlijke boete opleggen van ten hoogste € 5000.
 
-3. Bij het opleggen van een bestuurlijke boete zijn de [artikelen 67g, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67g), [67i](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67i), [67j](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67j), [67l](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67l), [67m](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67m), [67o](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67o) en [67p van de Algemene wet inzake rijksbelastinge](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67p)n van overeenkomstige toepassing.
+3. Bij het opleggen van een bestuurlijke boete zijn de [artikelen 67g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67g), en [67p van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67p) van overeenkomstige toepassing.
 
-4. De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt vijf jaren na de dag waarop de in [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2009-03-25&g=2009-03-25), gestelde termijn is verstreken.
+4. Bij het opleggen van de in het eerste lid bedoelde bestuurlijke boete vindt [artikel 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) geen toepassing.
+
+5. In afwijking in zoverre van [5:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete vijf jaren na de dag waarop de in [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2009-07-01&g=2009-07-01), gestelde termijn is verstreken.
 
 ##### Artikel 42. Vrijwillige verbetering
 
-Indien de belanghebbende, zijn partner of een medebewoner de Belastingdienst/Toeslagen alsnog de juiste en volledige gegevens en inlichtingen verstrekt voordat hij weet of redelijkerwijs moet vermoeden dat de Belastingdienst/Toeslagen met de onjuistheid of onvolledigheid bekend is of bekend zal worden, wordt aan hem niet de boete, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=6&artikel=40&z=2009-03-25&g=2009-03-25), opgelegd.
+Indien de belanghebbende, zijn partner of een medebewoner de Belastingdienst/Toeslagen alsnog de juiste en volledige gegevens en inlichtingen verstrekt voordat hij weet of redelijkerwijs moet vermoeden dat de Belastingdienst/Toeslagen met de onjuistheid of onvolledigheid bekend is of bekend zal worden, wordt aan hem niet de bestuurlijke boete, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=6&artikel=40&z=2009-07-01&g=2009-07-01), opgelegd.
 
 ### Hoofdstuk 3. Toezicht en opsporing
 
@@ -561,7 +561,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter
 
 ##### Artikel 47. Hardheidsclausule
 
-Onze Minister is bevoegd in overeenstemming met Onze Ministers wie het aangaat bij ministeriële regeling voor groepen van gevallen tegemoet te komen aan onbillijkheden van overwegende aard, welke zich bij de toepassing van [artikel 7, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=3&artikel=7&z=2009-03-25&g=2009-03-25), mochten voordoen.
+Onze Minister is bevoegd in overeenstemming met Onze Ministers wie het aangaat bij ministeriële regeling voor groepen van gevallen tegemoet te komen aan onbillijkheden van overwegende aard, welke zich bij de toepassing van [artikel 7, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=3&artikel=7&z=2009-07-01&g=2009-07-01), mochten voordoen.
 
 ### Hoofdstuk 5. Slotbepalingen
 
