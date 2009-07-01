@@ -4,7 +4,7 @@ identifier: "BWBR0024282"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2008-08-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024282"
 soort: "wet"
@@ -131,13 +131,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - m. **transactie:** handeling of samenstel van handelingen van of ten behoeve van een cliënt in verband met het afnemen of het verlenen van diensten;
 
-- n. **ongebruikelijke transactie:** transactie die ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2008-08-01&g=2008-08-01) als zodanig is aangemerkt;
+- n. **ongebruikelijke transactie:** transactie die ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2009-07-01&g=2009-07-01) als zodanig is aangemerkt;
 
-- o. **melding:** melding als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2008-08-01&g=2008-08-01);
+- o. **melding:** melding als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2009-07-01&g=2009-07-01);
 
 - p. **Uitvoeringsrichtlijn:** [Richtlijn nr. 2006/70/EG](32006L0070) van de Commissie van de Europese Gemeenschappen van 1 augustus 2006 tot vaststelling van uitvoeringsmaatregelen van [Richtlijn 2005/60/EG](32005L0060) van het Europees Parlement en de Raad wat betreft de definitie van politiek prominente personen en wat betreft de technische criteria voor vereenvoudigde cliëntenonderzoeksprocedures en voor vrijstellingen op grond van occasionele of zeer beperkte financiële activiteiten (PbEU L 214);
 
-- q. **meldpunt:** het Meldpunt ongebruikelijke transacties, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2008-08-01&g=2008-08-01);
+- q. **meldpunt:** het Meldpunt ongebruikelijke transacties, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2009-07-01&g=2009-07-01);
 
 - r. **bank:** een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
@@ -145,9 +145,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-1. Een instelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1°, 2°, 3°, 5°, 6°, 7° of 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01), die een bijkantoor of een dochtermaatschappij heeft in een staat die geen lidstaat is, draagt er zorg voor dat het bijkantoor onderscheidenlijk de dochtermaatschappij cliëntenonderzoek verricht dat gelijkwaardig is aan dat, geregeld in [artikel 3, eerste tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01), en gegevens met betrekking tot het cliëntenonderzoek vastlegt en bewaart op een wijze die gelijkwaardig is aan hetgeen is geregeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2008-08-01&g=2008-08-01).
+1. Een instelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1°, 2°, 3°, 5°, 6°, 7° of 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01), die een bijkantoor of een dochtermaatschappij heeft in een staat die geen lidstaat is, draagt er zorg voor dat het bijkantoor onderscheidenlijk de dochtermaatschappij cliëntenonderzoek verricht dat gelijkwaardig is aan dat, geregeld in [artikel 3, eerste tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01), en gegevens met betrekking tot het cliëntenonderzoek vastlegt en bewaart op een wijze die gelijkwaardig is aan hetgeen is geregeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2009-07-01&g=2009-07-01).
 
-2. Indien het recht van de betrokken staat toepassing van het eerste lid niet toelaat, stelt de instelling degene die ingevolge [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2008-08-01&g=2008-08-01) belast is met het toezicht op de naleving van deze wet door de instelling daarvan in kennis en neemt zij maatregelen om het risico van witwassen en financieren van terrorisme te voorkomen.
+2. Indien het recht van de betrokken staat toepassing van het eerste lid niet toelaat, stelt de instelling degene die ingevolge [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2009-07-01&g=2009-07-01) belast is met het toezicht op de naleving van deze wet door de instelling daarvan in kennis en neemt zij maatregelen om het risico van witwassen en financieren van terrorisme te voorkomen.
 
 ### Hoofdstuk 2. Bepalingen betreffende cliëntenonderzoek
 
@@ -181,7 +181,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Een instelling kan het cliëntenonderzoek afstemmen op de risicogevoeligheid voor witwassen of financiering van terrorisme van het type cliënt, zakelijke relatie, product of transactie.
 
-5. Het eerste tot en met het vierde lid is niet van toepassing op trustkantoren als bedoeld in [artikel 1, onderdeel a, onder 10°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01).
+5. Het eerste tot en met het vierde lid is niet van toepassing op trustkantoren als bedoeld in [artikel 1, onderdeel a, onder 10°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01).
 
 6. Bij ministeriële regeling kan vrijstelling worden geregeld van het in het eerste of tweede lid bepaalde.
 
@@ -189,21 +189,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-1. Een instelling voldoet aan [artikel 3, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01), voordat de zakelijke relatie wordt aangegaan of een incidentele transactie als bedoeld in [artikel 3, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01), wordt uitgevoerd.
+1. Een instelling voldoet aan [artikel 3, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01), voordat de zakelijke relatie wordt aangegaan of een incidentele transactie als bedoeld in [artikel 3, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01), wordt uitgevoerd.
 
 2. In afwijking van het eerste lid is het een instelling toegestaan de identiteit van de cliënt en, indien van toepassing, de identiteit van de uiteindelijk belanghebbende te verifiëren tijdens het aangaan van de zakelijke relatie, indien dit noodzakelijk is om de dienstverlening niet te verstoren en indien er weinig risico op witwassen of financieren van terrorisme bestaat. In dat geval verifieert de instelling de identiteit zo spoedig mogelijk na het eerste contact met de cliënt.
 
-3. In afwijking van het eerste en tweede lid is het een instelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01), toegestaan de begunstigde van een polis te identificeren en de identiteit te verifiëren nadat de zakelijke relatie is aangegaan. In dat geval vindt het identificeren en het verifiëren van de identiteit plaats op of voor het tijdstip van uitbetaling, dan wel op of voor het tijdstip waarop de begunstigde zijn rechten krachtens de polis wil uitoefenen.
+3. In afwijking van het eerste en tweede lid is het een instelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01), toegestaan de begunstigde van een polis te identificeren en de identiteit te verifiëren nadat de zakelijke relatie is aangegaan. In dat geval vindt het identificeren en het verifiëren van de identiteit plaats op of voor het tijdstip van uitbetaling, dan wel op of voor het tijdstip waarop de begunstigde zijn rechten krachtens de polis wil uitoefenen.
 
-4. In afwijking van het eerste en tweede lid is het een kredietinstelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01), toegestaan een rekening te openen voordat de verificatie van de identiteit van de cliënt heeft plaatsgevonden, indien zij waarborgt dat deze rekening niet kan worden gebruikt voordat de verificatie heeft plaatsgevonden.
+4. In afwijking van het eerste en tweede lid is het een kredietinstelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01), toegestaan een rekening te openen voordat de verificatie van de identiteit van de cliënt heeft plaatsgevonden, indien zij waarborgt dat deze rekening niet kan worden gebruikt voordat de verificatie heeft plaatsgevonden.
 
-5. In afwijking van het eerste en tweede lid kan een notaris of kandidaat-notaris als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01), de identiteit van de cliënt en, indien van toepassing, van de uiteindelijk belanghebbende verifiëren op het moment dat identificatie op grond van [artikel 39 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=39) is vereist.
+5. In afwijking van het eerste en tweede lid kan een notaris of kandidaat-notaris als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01), de identiteit van de cliënt en, indien van toepassing, van de uiteindelijk belanghebbende verifiëren op het moment dat identificatie op grond van [artikel 39 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=39) is vereist.
 
 ##### Artikel 5
 
-1. Het is een instelling verboden een zakelijke relatie aan te gaan of een transactie uit te voeren, indien zij geen cliëntenonderzoek heeft verricht als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01) of indien het cliëntenonderzoek niet heeft geleid tot het in [artikel 3, tweede lid, aanhef en onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01), bedoelde resultaat. Indien de instelling reeds een zakelijke relatie met de cliënt heeft en de instelling niet kan voldoen aan het bepaalde in [artikel 3, eerste en tweede lid, aanhef en onderdelen a, b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01), beëindigt de instelling de desbetreffende zakelijke relatie.
+1. Het is een instelling verboden een zakelijke relatie aan te gaan of een transactie uit te voeren, indien zij geen cliëntenonderzoek heeft verricht als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01) of indien het cliëntenonderzoek niet heeft geleid tot het in [artikel 3, tweede lid, aanhef en onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01), bedoelde resultaat. Indien de instelling reeds een zakelijke relatie met de cliënt heeft en de instelling niet kan voldoen aan het bepaalde in [artikel 3, eerste en tweede lid, aanhef en onderdelen a, b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01), beëindigt de instelling de desbetreffende zakelijke relatie.
 
-2. Het eerste lid is niet van toepassing op de gevallen als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2008-08-01&g=2008-08-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2008-08-01&g=2008-08-01).
+2. Het eerste lid is niet van toepassing op de gevallen als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2009-07-01&g=2009-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2009-07-01&g=2009-07-01).
 
 3. Het is een bank verboden een correspondentbankrelatie aan te gaan of voort te zetten met een shellbank of met een bank waarvan bekend is dat deze een shellbank toestaat van haar rekeningen gebruik te maken.
 
@@ -211,11 +211,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 6
 
-1. [Artikel 3, eerste lid, derde lid, aanhef en onderdelen a, b en d, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01), en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2008-08-01&g=2008-08-01), zijn niet van toepassing ten aanzien van de volgende cliënten:
+1. [Artikel 3, eerste lid, derde lid, aanhef en onderdelen a, b en d, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01), en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2009-07-01&g=2009-07-01), zijn niet van toepassing ten aanzien van de volgende cliënten:
 
-- a. instellingen als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1° tot en met 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01), met zetel in Nederland of in een andere lidstaat;
+- a. instellingen als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1° tot en met 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01), met zetel in Nederland of in een andere lidstaat;
 
-- b. instellingen als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01), met zetel in een staat die geen lidstaat is, indien in die staat op de instelling wettelijke voorschriften van toepassing zijn die gelijkwaardig zijn aan het bepaalde in de [artikelen 3, tweede lid, derde lid, aanhef en onderdelen a, b, c en d, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01), en [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2008-08-01&g=2008-08-01), en er toezicht wordt uitgeoefend op de naleving van die voorschriften;
+- b. instellingen als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01), met zetel in een staat die geen lidstaat is, indien in die staat op de instelling wettelijke voorschriften van toepassing zijn die gelijkwaardig zijn aan het bepaalde in de [artikelen 3, tweede lid, derde lid, aanhef en onderdelen a, b, c en d, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01), en [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2009-07-01&g=2009-07-01), en er toezicht wordt uitgeoefend op de naleving van die voorschriften;
 
 - c. rechtspersonen die effecten hebben uitgegeven die in een lidstaat zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
@@ -243,7 +243,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 7
 
-1. [Artikel 3, eerste lid, derde lid, aanhef en onderdelen a, b en d, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01), alsmede [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2008-08-01&g=2008-08-01), zijn niet van toepassing voor zover het betreft zakelijke relaties of transacties met betrekking tot:
+1. [Artikel 3, eerste lid, derde lid, aanhef en onderdelen a, b en d, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01), alsmede [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2009-07-01&g=2009-07-01), zijn niet van toepassing voor zover het betreft zakelijke relaties of transacties met betrekking tot:
 
 - a. levensverzekeringsovereenkomsten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), waarvan het bedrag van de jaarlijks te betalen premie € 1 000 of minder bedraagt of waarvan het bedrag van de eenmalige premie € 2 500 of minder bedraagt;
 
@@ -263,7 +263,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 8
 
-1. Een instelling verricht, onverminderd [artikel 3, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01), aanvullend cliëntenonderzoek indien en naar gelang een zakelijke relatie of transactie naar haar aard een hoger risico op witwassen of financieren van terrorisme met zich brengt. Bij algemene maatregel van bestuur kunnen categorieën zakelijke relaties en transacties worden aangewezen die naar hun aard een hoger risico op witwassen of financieren van terrorisme met zich brengen.
+1. Een instelling verricht, onverminderd [artikel 3, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01), aanvullend cliëntenonderzoek indien en naar gelang een zakelijke relatie of transactie naar haar aard een hoger risico op witwassen of financieren van terrorisme met zich brengt. Bij algemene maatregel van bestuur kunnen categorieën zakelijke relaties en transacties worden aangewezen die naar hun aard een hoger risico op witwassen of financieren van terrorisme met zich brengen.
 
 2. Onverminderd het eerste lid neemt een instelling, indien een cliënt niet fysiek aanwezig is voor identificatie, maatregelen om het hogere risico te compenseren. De instelling kan aan de vorige volzin voldoen indien zij:
 
@@ -297,17 +297,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 9
 
-1. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2008-08-01&g=2008-08-01), is niet van toepassing ten aanzien van cliënten die zijn geïdentificeerd en waarvan de identiteit reeds is geverifieerd, ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01) of op daarmee overeenkomende wijze, door:
+1. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2009-07-01&g=2009-07-01), is niet van toepassing ten aanzien van cliënten die zijn geïdentificeerd en waarvan de identiteit reeds is geverifieerd, ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01) of op daarmee overeenkomende wijze, door:
 
-- a. een instelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 11° tot en met 13°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01), met zetel in Nederland of een andere lidstaat; of
+- a. een instelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 11° tot en met 13°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01), met zetel in Nederland of een andere lidstaat; of
 
-- b. een instelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1° tot en met 3° of 5° tot en met 10°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01).
+- b. een instelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1° tot en met 3° of 5° tot en met 10°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01).
 
 2. Een instelling als bedoeld in het eerste lid stelt, op verzoek van de instelling waar zij een cliënt introduceert, de identificatie- en verificatiegegevens en overige gegevens en bescheiden inzake de identiteit van de cliënt of de uiteindelijk belanghebbende ter beschikking aan die instelling.
 
 ##### Artikel 10
 
-1. Een instelling kan het cliëntenonderzoek, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01), voor zover het betrekking heeft op het in het [tweede lid, onderdelen a, b, en c, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01) bepaalde, laten verrichten door een derde, onverminderd haar verplichting om te voldoen aan het in die onderdelen bepaalde.
+1. Een instelling kan het cliëntenonderzoek, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01), voor zover het betrekking heeft op het in het [tweede lid, onderdelen a, b, en c, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01) bepaalde, laten verrichten door een derde, onverminderd haar verplichting om te voldoen aan het in die onderdelen bepaalde.
 
 2. Indien de in het eerste lid bedoelde uitbesteding een structureel karakter heeft legt de instelling de opdracht daartoe schriftelijk vast.
 
@@ -347,7 +347,7 @@ Het meldpunt heeft met het oog op het voorkomen en opsporen van witwassen en fin
 
 - b. het verstrekken van persoonsgegevens en andere gegevens in overeenstemming met deze wet en het bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) bepaalde;
 
-- c. de instelling die overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2008-08-01&g=2008-08-01) een melding heeft gedaan, berichten over de afdoening van de melding;
+- c. de instelling die overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2009-07-01&g=2009-07-01) een melding heeft gedaan, berichten over de afdoening van de melding;
 
 - d. het verrichten van onderzoek naar ontwikkelingen op het gebied van witwassen en financieren van terrorisme en naar de verbetering van de methoden om witwassen en financieren van terrorisme te voorkomen en op te sporen;
 
@@ -357,13 +357,13 @@ Het meldpunt heeft met het oog op het voorkomen en opsporen van witwassen en fin
 
 - 1°. de bedrijfstakken en beroepsgroepen;
 
-- 2°. de personen die krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2008-08-01&g=2008-08-01) met het toezicht op de naleving van deze wet zijn belast;
+- 2°. de personen die krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2009-07-01&g=2009-07-01) met het toezicht op de naleving van deze wet zijn belast;
 
 - 3°. het openbaar ministerie en de overige ambtenaren belast met de opsporing van strafbare feiten;
 
 - 4°. het publiek;
 
-- g. het geven van inlichtingen aangaande het meldgedrag van de instellingen aan de personen die krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2008-08-01&g=2008-08-01) met het toezicht op de naleving van deze wet zijn belast;
+- g. het geven van inlichtingen aangaande het meldgedrag van de instellingen aan de personen die krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2009-07-01&g=2009-07-01) met het toezicht op de naleving van deze wet zijn belast;
 
 - h. het onderhouden van contacten met buitenlandse van overheidswege aangewezen instanties die een vergelijkbare taak hebben als het meldpunt;
 
@@ -371,7 +371,7 @@ Het meldpunt heeft met het oog op het voorkomen en opsporen van witwassen en fin
 
 ##### Artikel 14
 
-1. Bij het meldpunt kunnen persoonsgegevens worden verwerkt ten behoeve van de taak, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2008-08-01&g=2008-08-01).
+1. Bij het meldpunt kunnen persoonsgegevens worden verwerkt ten behoeve van de taak, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2009-07-01&g=2009-07-01).
 
 2. Bij algemene maatregel van bestuur worden regels gesteld over de categorieën van personen waarover het meldpunt gegevens verwerkt, de gegevensverstrekking, de bewaring en vernietiging van gegevens en de protocolplicht.
 
@@ -407,27 +407,27 @@ Het meldpunt heeft met het oog op het voorkomen en opsporen van witwassen en fin
 
 ##### Artikel 17
 
-1. Het meldpunt kan bij de instelling die een melding heeft gedaan, alsmede bij de instelling die bij een transactie is betrokken waarover het meldpunt gegevens heeft verzameld, nadere gegevens of inlichtingen vragen, teneinde te kunnen beoordelen of verzamelde gegevens dienen te worden verstrekt op grond van zijn taak bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2008-08-01&g=2008-08-01).
+1. Het meldpunt kan bij de instelling die een melding heeft gedaan, alsmede bij de instelling die bij een transactie is betrokken waarover het meldpunt gegevens heeft verzameld, nadere gegevens of inlichtingen vragen, teneinde te kunnen beoordelen of verzamelde gegevens dienen te worden verstrekt op grond van zijn taak bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2009-07-01&g=2009-07-01).
 
 2. De instelling waaraan overeenkomstig het eerste lid deze gegevens of inlichtingen zijn gevraagd, verstrekt deze schriftelijk, alsmede in spoedeisende gevallen mondeling, aan het meldpunt binnen de door het meldpunt gestelde termijn.
 
 ##### Artikel 18
 
-Het meldpunt bepaalt de wijze waarop een melding moet worden gedaan, of gegevens of inlichtingen als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2008-08-01&g=2008-08-01), moeten worden verstrekt.
+Het meldpunt bepaalt de wijze waarop een melding moet worden gedaan, of gegevens of inlichtingen als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2009-07-01&g=2009-07-01), moeten worden verstrekt.
 
 #### § 3.3. Vrijwaring
 
 ##### Artikel 19
 
-1. Gegevens of inlichtingen die in overeenstemming met de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2008-08-01&g=2008-08-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2008-08-01&g=2008-08-01) zijn verstrekt, kunnen niet dienen als grondslag voor of ten behoeve van een opsporingsonderzoek of een vervolging wegens verdenking van, of als bewijs ter zake van een tenlastelegging wegens witwassen of financieren van terrorisme door de instelling die deze gegevens of inlichtingen heeft verstrekt.
+1. Gegevens of inlichtingen die in overeenstemming met de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2009-07-01&g=2009-07-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2009-07-01&g=2009-07-01) zijn verstrekt, kunnen niet dienen als grondslag voor of ten behoeve van een opsporingsonderzoek of een vervolging wegens verdenking van, of als bewijs ter zake van een tenlastelegging wegens witwassen of financieren van terrorisme door de instelling die deze gegevens of inlichtingen heeft verstrekt.
 
-2. Gegevens of inlichtingen die zijn verstrekt in de redelijke veronderstelling dat uitvoering wordt gegeven aan de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2008-08-01&g=2008-08-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2008-08-01&g=2008-08-01) kunnen niet dienen als grondslag voor of ten behoeve van een opsporingsonderzoek of een vervolging wegens verdenking van, of als bewijs ter zake van een tenlastelegging wegens, overtreding van [artikel 272 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=272) door de instelling die deze gegevens of inlichtingen heeft verstrekt.
+2. Gegevens of inlichtingen die zijn verstrekt in de redelijke veronderstelling dat uitvoering wordt gegeven aan de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2009-07-01&g=2009-07-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2009-07-01&g=2009-07-01) kunnen niet dienen als grondslag voor of ten behoeve van een opsporingsonderzoek of een vervolging wegens verdenking van, of als bewijs ter zake van een tenlastelegging wegens, overtreding van [artikel 272 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=272) door de instelling die deze gegevens of inlichtingen heeft verstrekt.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing ten aanzien van personen die werkzaam zijn voor een instelling die gegevens of inlichtingen heeft verstrekt als omschreven in het eerste of tweede lid en die daaraan hebben meegewerkt.
 
 ##### Artikel 20
 
-De instelling die tot een melding op de voet van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2008-08-01&g=2008-08-01) is overgegaan, is niet aansprakelijk voor schade die een derde dientengevolge lijdt, tenzij aannemelijk wordt gemaakt dat gelet op alle feiten en omstandigheden in redelijkheid niet tot melding had mogen worden overgegaan.
+De instelling die tot een melding op de voet van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2009-07-01&g=2009-07-01) is overgegaan, is niet aansprakelijk voor schade die een derde dientengevolge lijdt, tenzij aannemelijk wordt gemaakt dat gelet op alle feiten en omstandigheden in redelijkheid niet tot melding had mogen worden overgegaan.
 
 #### § 3.4. De Commissie inzake de meldingsplicht ongebruikelijke transacties
 
@@ -439,7 +439,7 @@ De instelling die tot een melding op de voet van [artikel 16](https://wetten.ove
 
 - a. de inrichting en uitvoering van de meldingsplicht;
 
-- b. de vaststelling van de indicatoren bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2008-08-01&g=2008-08-01).
+- b. de vaststelling van de indicatoren bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2009-07-01&g=2009-07-01).
 
 3. Bij ministeriële regeling worden regels gesteld met betrekking tot de samenstelling en de organisatie van de commissie.
 
@@ -451,21 +451,21 @@ Het is aan een ieder die uit hoofde van de toepassing van deze wet of van kracht
 
 ##### Artikel 23
 
-1. Een instelling die ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2008-08-01&g=2008-08-01) een melding heeft gedaan of die ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2008-08-01&g=2008-08-01) nadere informatie heeft verstrekt, is verplicht tot geheimhouding hiervan, alsmede van het gegeven dat deze melding of verstrekking aanleiding kan geven tot nader onderzoek, behoudens voor zover uit deze wet de noodzaak tot bekendmaking voortvloeit.
+1. Een instelling die ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2009-07-01&g=2009-07-01) een melding heeft gedaan of die ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2009-07-01&g=2009-07-01) nadere informatie heeft verstrekt, is verplicht tot geheimhouding hiervan, alsmede van het gegeven dat deze melding of verstrekking aanleiding kan geven tot nader onderzoek, behoudens voor zover uit deze wet de noodzaak tot bekendmaking voortvloeit.
 
-2. De instelling die ingevolge [artikel 13, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2008-08-01&g=2008-08-01), gegevens of inlichtingen verkrijgt, is verplicht tot geheimhouding daarvan.
+2. De instelling die ingevolge [artikel 13, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2009-07-01&g=2009-07-01), gegevens of inlichtingen verkrijgt, is verplicht tot geheimhouding daarvan.
 
-3. De in het eerste lid bedoelde geheimhoudingsplicht is niet van toepassing op een mededeling gedaan door een instelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 11°, 12° en 13°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01), aan een cliënt met als doel deze te doen afzien van een onwettige handeling.
+3. De in het eerste lid bedoelde geheimhoudingsplicht is niet van toepassing op een mededeling gedaan door een instelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 11°, 12° en 13°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01), aan een cliënt met als doel deze te doen afzien van een onwettige handeling.
 
 4. Een instelling kan, in afwijking van het eerste lid, mededelingen doen aan:
 
-- a. instellingen die behoren tot hetzelfde financieel conglomeraat als bedoeld in [artikel 3:290 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:290) en die tenminste hebben voldaan aan de verplichting tot het vereenvoudigd cliëntenonderzoek, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2008-08-01&g=2008-08-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2008-08-01&g=2008-08-01);
+- a. instellingen die behoren tot hetzelfde financieel conglomeraat als bedoeld in [artikel 3:290 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:290) en die tenminste hebben voldaan aan de verplichting tot het vereenvoudigd cliëntenonderzoek, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2009-07-01&g=2009-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2009-07-01&g=2009-07-01);
 
-- b. instellingen als bedoeld in [artikel 1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01), met zetel in een lidstaat of een staat die geen lidstaat is die eisen stelt die gelijkwaardig zijn aan die in deze wet, en die hun werkzaamheden, al dan niet als werknemer, uitoefenen binnen eenzelfde rechtspersoon of netwerk;
+- b. instellingen als bedoeld in [artikel 1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01), met zetel in een lidstaat of een staat die geen lidstaat is die eisen stelt die gelijkwaardig zijn aan die in deze wet, en die hun werkzaamheden, al dan niet als werknemer, uitoefenen binnen eenzelfde rechtspersoon of netwerk;
 
-- c. instellingen als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1° tot en met 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01), met zetel in een lidstaat, mits het dezelfde cliënt en dezelfde transactie betreft en de mededeling uitsluitend is bedoeld ter voorkoming van witwassen en financieren van terrorisme;
+- c. instellingen als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1° tot en met 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01), met zetel in een lidstaat, mits het dezelfde cliënt en dezelfde transactie betreft en de mededeling uitsluitend is bedoeld ter voorkoming van witwassen en financieren van terrorisme;
 
-- d. instellingen als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1° tot en met 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01), met zetel in een staat die geen lidstaat is die eisen stelt die gelijkwaardig zijn aan die in deze wet, die zijn onderworpen aan gelijkwaardige verplichtingen op het gebied van het beroepsgeheim en de bescherming van persoonsgegevens, en tot dezelfde beroepscategorie behoren, mits het dezelfde cliënt en dezelfde transactie betreft en de mededeling uitsluitend is bedoeld ter voorkoming van witwassen en financieren van terrorisme.
+- d. instellingen als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1° tot en met 12°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01), met zetel in een staat die geen lidstaat is die eisen stelt die gelijkwaardig zijn aan die in deze wet, die zijn onderworpen aan gelijkwaardige verplichtingen op het gebied van het beroepsgeheim en de bescherming van persoonsgegevens, en tot dezelfde beroepscategorie behoren, mits het dezelfde cliënt en dezelfde transactie betreft en de mededeling uitsluitend is bedoeld ter voorkoming van witwassen en financieren van terrorisme.
 
 ### Hoofdstuk 4. Bepalingen betreffende toezicht en handhaving
 
@@ -473,7 +473,7 @@ Het is aan een ieder die uit hoofde van de toepassing van deze wet of van kracht
 
 1. Bij besluit van Onze Minister van Financiën en Onze Minister van Justitie gezamenlijk kunnen personen worden aangewezen die belast zijn met het toezicht op de naleving door de instellingen van deze wet.
 
-2. De personen die op grond van het eerste lid belast zijn met het toezicht op de instellingen, bedoeld in [artikel 1, eerste lid, onderdeel a, onder 10° tot en met 15°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01), kunnen het toezicht op een risicogeoriënteerde wijze uitoefenen.
+2. De personen die op grond van het eerste lid belast zijn met het toezicht op de instellingen, bedoeld in [artikel 1, eerste lid, onderdeel a, onder 10° tot en met 15°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01), kunnen het toezicht op een risicogeoriënteerde wijze uitoefenen.
 
 3. De Nederlandsche Bank N.V. is belast met het toezicht op de naleving van de [Verordening nr. 2006/1781/EG](33681R2006) van het Europees Parlement en de Raad betreffende bij geldovermakingen te voegen informatie over de betaler.
 
@@ -489,13 +489,13 @@ Indien de personen die met wettelijk toezicht op instellingen zijn belast bij de
 
 ##### Artikel 26
 
-1. Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=2&z=2008-08-01&g=2008-08-01), [3, eerste tot en met derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01), [4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2008-08-01&g=2008-08-01), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2008-08-01&g=2008-08-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2008-08-01&g=2008-08-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2008-08-01&g=2008-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2008-08-01&g=2008-08-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2008-08-01&g=2008-08-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.5&artikel=11&z=2008-08-01&g=2008-08-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2008-08-01&g=2008-08-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2008-08-01&g=2008-08-01), [23 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=23&z=2008-08-01&g=2008-08-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2008-08-01&g=2008-08-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2008-08-01&g=2008-08-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.3&artikel=35&z=2008-08-01&g=2008-08-01) van deze wet, [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) en het bepaalde in [Verordening (EG) nr. 2006/1781](33681R2006) van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU L 345).
+1. Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01), [3, eerste tot en met derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01), [4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2009-07-01&g=2009-07-01), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2009-07-01&g=2009-07-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2009-07-01&g=2009-07-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2009-07-01&g=2009-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2009-07-01&g=2009-07-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2009-07-01&g=2009-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.5&artikel=11&z=2009-07-01&g=2009-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2009-07-01&g=2009-07-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2009-07-01&g=2009-07-01), [23 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=23&z=2009-07-01&g=2009-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2009-07-01&g=2009-07-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2009-07-01&g=2009-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.3&artikel=35&z=2009-07-01&g=2009-07-01) van deze wet, [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) en het bepaalde in [Verordening (EG) nr. 2006/1781](33681R2006) van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU L 345).
 
 2. Het eerste lid is niet van toepassing ten aanzien van degene die, in geval van bezwaren tegen diens handelen of nalaten in de beroepsuitoefening, onderworpen is aan tuchtrechtspraak.
 
 ##### Artikel 27
 
-1. Onze Minister van Financiën kan een bestuurlijke boete opleggen ter zake van overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=2&z=2008-08-01&g=2008-08-01), [3, eerste tot en met derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01), [4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2008-08-01&g=2008-08-01), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2008-08-01&g=2008-08-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2008-08-01&g=2008-08-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2008-08-01&g=2008-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2008-08-01&g=2008-08-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2008-08-01&g=2008-08-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.5&artikel=11&z=2008-08-01&g=2008-08-01), [16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2008-08-01&g=2008-08-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2008-08-01&g=2008-08-01), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=23&z=2008-08-01&g=2008-08-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2008-08-01&g=2008-08-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2008-08-01&g=2008-08-01), en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.3&artikel=35&z=2008-08-01&g=2008-08-01) van deze wet, [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) en het bepaalde in [Verordening (EG) nr. 2006/1781](33681R2006) van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU L 345).
+1. Onze Minister van Financiën kan een bestuurlijke boete opleggen ter zake van overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01), [3, eerste tot en met derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01), [4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2009-07-01&g=2009-07-01), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2009-07-01&g=2009-07-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2009-07-01&g=2009-07-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2009-07-01&g=2009-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2009-07-01&g=2009-07-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2009-07-01&g=2009-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.5&artikel=11&z=2009-07-01&g=2009-07-01), [16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2009-07-01&g=2009-07-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2009-07-01&g=2009-07-01), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.5&artikel=23&z=2009-07-01&g=2009-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2009-07-01&g=2009-07-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.2&artikel=34&z=2009-07-01&g=2009-07-01), en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.3&artikel=35&z=2009-07-01&g=2009-07-01) van deze wet, [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) en het bepaalde in [Verordening (EG) nr. 2006/1781](33681R2006) van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU L 345).
 
 2. Het eerste lid is niet van toepassing ten aanzien van degene die, in geval van bezwaren tegen diens handelen of nalaten in de beroepsuitoefening, onderworpen is aan tuchtrechtspraak.
 
@@ -507,59 +507,31 @@ Indien de personen die met wettelijk toezicht op instellingen zijn belast bij de
 
 ##### Artikel 28a
 
-Degene jegens wie Onze Minister van Financiën een handeling heeft verricht waaraan hij in redelijkheid de gevolgtrekking kan verbinden dat deze hem wegens een overtreding een bestuurlijke boete zal opleggen, is niet verplicht ter zake daarvan enige inlichting te verstrekken. Hij wordt hiervan door Onze Minister van Financiën in kennis gesteld alvorens hem mondeling om informatie met betrekking tot de desbetreffende overtreding wordt gevraagd.
+Vervallen
 
 ##### Artikel 28b
 
-1. Indien Onze Minister van Financiën voornemens is een bestuurlijke boete op te leggen, geeft hij de betrokkene daarvan kennis onder vermelding van de gronden waarop het voornemen berust.
-
-2. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2), stelt Onze Minister van Financiën de betrokkene in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de bestuurlijke boete wordt opgelegd.
+Vervallen
 
 ##### Artikel 28c
 
-1. Onze Minister van Financiën legt de bestuurlijke boete op bij beschikking.
-
-2. De beschikking vermeldt in ieder geval:
-
-- a. het feit ter zake waarvan de bestuurlijke boete wordt opgelegd, alsmede het overtreden voorschrift;
-
-- b. het bedrag van de bestuurlijke boete en de gegevens op basis waarvan dit bedrag is bepaald; en
-
-- c. de termijn, bedoeld in [artikel 28d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=28d&z=2008-08-01&g=2008-08-01), waarbinnen de bestuurlijke boete moet worden betaald.
+Vervallen
 
 ##### Artikel 28d
 
-1. De bestuurlijke boete wordt betaald binnen zes weken na de inwerkingtreding van de beschikking waarbij zij is opgelegd.
-
-2. De bestuurlijke boete wordt vermeerderd met de wettelijke rente, te rekenen vanaf de dag waarop sedert de bekendmaking van de beschikking zes weken zijn verstreken.
-
-3. Indien de bestuurlijke boete niet tijdig is betaald, stuurt Onze Minister van Financiën schriftelijk een aanmaning om binnen twee weken de boete, verhoogd met de kosten van de aanmaning, alsnog te betalen. De aanmaning bevat de aanzegging dat de bestuurlijke boete, voor zover deze niet binnen de gestelde termijn wordt betaald, overeenkomstig het vierde lid zal worden ingevorderd.
-
-4. Bij gebreke van tijdige betaling kan Onze Minister van Financiën de bestuurlijke boete, verhoogd met de kosten van de aanmaning en van de invordering, bij dwangbevel invorderen.
-
-5. Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploit betekend en levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede).
-
-6. Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van de Staat.
-
-7. Het verzet schorst de tenuitvoerlegging niet, tenzij de voorzieningenrechter van de rechtbank in kort geding desgevraagd anders beslist.
-
-8. Het verzet kan niet worden gegrond op de stelling dat de bestuurlijke boete ten onrechte of op een te hoog bedrag is vastgesteld.
+Vervallen
 
 ##### Artikel 28e
 
-1. De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt indien ter zake van de overtreding op grond waarvan de boete kan worden opgelegd, tegen de overtreder een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvordering is vervallen ingevolge [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74).
-
-2. Het recht tot strafvervolging met betrekking tot een overtreding van de artikelen genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=27&z=2008-08-01&g=2008-08-01) vervalt, indien Onze Minister van Financiën ter zake van die overtreding reeds een boete heeft opgelegd.
+Vervallen
 
 ##### Artikel 28f
 
-1. De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt drie jaren na de dag waarop de overtreding is begaan.
-
-2. De termijn bedoeld in het eerste lid wordt gestuit door de bekendmaking van de beschikking waarbij een bestuurlijke boete wordt opgelegd.
+Vervallen
 
 ##### Artikel 28g
 
-De werkzaamheden in verband met het opleggen van een dwangsom of van een bestuurlijke boete worden verricht door personen die niet betrokken zijn geweest bij het vaststellen van de overtreding en het daaraan voorafgegane onderzoek.
+Vervallen
 
 ##### Artikel 29
 
@@ -571,17 +543,17 @@ In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.
 
 ##### Artikel 31
 
-1. De bevoegdheden die Onze Minister van Financiën op grond van dit hoofdstuk heeft, kunnen bij algemene maatregel van bestuur worden overgedragen aan personen die ingevolge [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2008-08-01&g=2008-08-01), zijn aangewezen. Alsdan gelden de verplichtingen op grond van dit hoofdstuk jegens Onze Minister van Financiën als verplichtingen jegens de desbetreffende persoon.
+1. De bevoegdheden die Onze Minister van Financiën op grond van dit hoofdstuk heeft, kunnen bij algemene maatregel van bestuur worden overgedragen aan personen die ingevolge [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2009-07-01&g=2009-07-01), zijn aangewezen. Alsdan gelden de verplichtingen op grond van dit hoofdstuk jegens Onze Minister van Financiën als verplichtingen jegens de desbetreffende persoon.
 
 2. Aan de overdracht, bedoeld in het eerste lid, kunnen beperkingen worden gesteld en voorschriften worden verbonden.
 
 ##### Artikel 32
 
-Indien een instelling niet voldoet aan haar verplichtingen ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2008-08-01&g=2008-08-01) of [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2008-08-01&g=2008-08-01), kan de op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2008-08-01&g=2008-08-01), aangewezen persoon door middel van het geven van een aanwijzing de instelling verplichten binnen een door de op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2008-08-01&g=2008-08-01), aangewezen persoon gestelde termijn een bepaalde gedragslijn te volgen aangaande:
+Indien een instelling niet voldoet aan haar verplichtingen ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2009-07-01&g=2009-07-01) of [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2009-07-01&g=2009-07-01), kan de op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2009-07-01&g=2009-07-01), aangewezen persoon door middel van het geven van een aanwijzing de instelling verplichten binnen een door de op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2009-07-01&g=2009-07-01), aangewezen persoon gestelde termijn een bepaalde gedragslijn te volgen aangaande:
 
 - a. de ontwikkeling van interne procedures en controles ter voorkoming van witwassen en het financieren van terrorisme; en
 
-- b. de opleiding van werknemers als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.3&artikel=35&z=2008-08-01&g=2008-08-01).
+- b. de opleiding van werknemers als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=5&paragraaf=5.3&artikel=35&z=2009-07-01&g=2009-07-01).
 
 ### Hoofdstuk 5. Bepalingen met betrekking tot het bewaren van bewijsstukken en training
 
@@ -621,7 +593,7 @@ Indien een instelling niet voldoet aan haar verplichtingen ingevolge [artikel 16
 
 ##### Artikel 34
 
-Een instelling bewaart de gegevens, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2008-08-01&g=2008-08-01), op toegankelijke wijze gedurende vijf jaar na het tijdstip van het doen van de melding.
+Een instelling bewaart de gegevens, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2009-07-01&g=2009-07-01), op toegankelijke wijze gedurende vijf jaar na het tijdstip van het doen van de melding.
 
 #### § 5.3. Opleiding
 
@@ -633,21 +605,21 @@ Een instelling draagt er zorg voor dat haar werknemers, voor zover relevant voor
 
 ##### Artikel 36
 
-De rechtsgeldigheid van een privaatrechtelijke rechtshandeling van een instelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2008-08-01&g=2008-08-01), welke is verricht in strijd met de bij of krachtens deze wet gestelde regels is niet uit dien hoofde aantastbaar.
+De rechtsgeldigheid van een privaatrechtelijke rechtshandeling van een instelling als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01), welke is verricht in strijd met de bij of krachtens deze wet gestelde regels is niet uit dien hoofde aantastbaar.
 
 ##### Artikel 37
 
-Een ontheffing die is verleend op grond van [artikel 2, zesde lid, van de Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=2), berust vanaf het tijdstip van inwerkingtreding van deze wet op [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01).
+Een ontheffing die is verleend op grond van [artikel 2, zesde lid, van de Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330&artikel=2), berust vanaf het tijdstip van inwerkingtreding van deze wet op [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 38
 
-1. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2008-08-01&g=2008-08-01), is niet van toepassing ten aanzien van cliënten die reeds op grond van de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330) zijn geïdentificeerd of ten aanzien van wie geen verplichting tot identificatie op grond van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006330) was vereist.
+1. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2009-07-01&g=2009-07-01), is niet van toepassing ten aanzien van cliënten die reeds op grond van de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330) zijn geïdentificeerd of ten aanzien van wie geen verplichting tot identificatie op grond van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006330) was vereist.
 
 2. Gegevens van de in het eerste lid bedoelde personen die reeds op grond van de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330) zijn vastgelegd, worden geacht te zijn vastgelegd ingevolge deze wet.
 
 ##### Artikel 39
 
-Een last onder dwangsom of een bestuurlijke boete die op het tijdstip van inwerkingtreding van deze wet was opgelegd ter zake van overtreding van een voorschrift, gesteld bij of krachtens de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330) of de [Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331), wordt aangemerkt als een last onder dwangsom of een bestuurlijke boete als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=26&z=2008-08-01&g=2008-08-01) onderscheidenlijk [27](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=27&z=2008-08-01&g=2008-08-01).
+Een last onder dwangsom of een bestuurlijke boete die op het tijdstip van inwerkingtreding van deze wet was opgelegd ter zake van overtreding van een voorschrift, gesteld bij of krachtens de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330) of de [Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331), wordt aangemerkt als een last onder dwangsom of een bestuurlijke boete als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=26&z=2009-07-01&g=2009-07-01) onderscheidenlijk [27](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=27&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 40
 
@@ -655,13 +627,13 @@ Op bezwaar of beroep, ingesteld vóór het tijdstip van inwerkingtreding van dez
 
 ##### Artikel 41
 
-1. De personen die op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2008-08-01&g=2008-08-01), zijn belast met het toezicht op de naleving van deze wet, kunnen na inwerkingtreding van deze wet tot drie jaren na de dag waarop de overtreding is begaan een bestuurlijke boete opleggen terzake van overtreding van een voorschrift gesteld bij of krachtens de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330) of de [Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331).
+1. De personen die op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=24&z=2009-07-01&g=2009-07-01), zijn belast met het toezicht op de naleving van deze wet, kunnen na inwerkingtreding van deze wet tot drie jaren na de dag waarop de overtreding is begaan een bestuurlijke boete opleggen terzake van overtreding van een voorschrift gesteld bij of krachtens de [Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006330) of de [Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331).
 
 2. Op een bestuurlijke boete als bedoeld in het eerste lid blijft het recht van toepassing dat gold voor het tijdstip van inwerkingtreding van deze wet.
 
 ##### Artikel 42
 
-Een aanwijzing die is gegeven op grond van [artikel 17u van de Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=17u), wordt vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een aanwijzing als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=32&z=2008-08-01&g=2008-08-01).
+Een aanwijzing die is gegeven op grond van [artikel 17u van de Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=17u), wordt vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een aanwijzing als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=32&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 43
 
@@ -723,7 +695,7 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Deze wet wordt aangehaald als: Wet ter voorkoming van witwassen en financieren van terrorisme.
 
-## Bijlage. als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=28&z=2008-08-01&g=2008-08-01) van de wet ter voorkoming van witwassen en financieren van terrorisme
+## Bijlage. als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&hoofdstuk=4&artikel=28&z=2009-07-01&g=2009-07-01) van de wet ter voorkoming van witwassen en financieren van terrorisme
 
 ### Categorie-indeling
 
