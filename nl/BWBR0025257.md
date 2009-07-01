@@ -155,19 +155,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I van de Wet elekt
 Dit besluit wordt aangehaald als: Bekendmakingsbesluit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-### Hoofdstuk 3. Uitgifte van de Staatscourant
-
-##### Artikel 8
-
-Vervallen
-
-### Hoofdstuk 4. Beschikbaarstelling van teksten in geconsolideerde vorm
-
-### Hoofdstuk 5. Slotbepalingen
-
-##### Artikel 13
-
-Dit besluit berust op de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=15) en [16, eerste, tweede en vierde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=16).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
