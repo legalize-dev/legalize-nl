@@ -4,7 +4,7 @@ identifier: "BWBR0003023"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-07-01"
-last_updated: "1976-03-27"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003023"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Voor de afgifte of waarmerking, dan wel de verlenging van de geldigheidsduur van
 
 ##### Artikel 3
 
-De rente als bedoeld in [artikel 25, vierde lid, van de Wet aansprakelijkheid olietankschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&artikel=25) is gelijk aan de wettelijke rente krachtens artikel 1286 van het Burgerlijk Wetboek.
+Vervallen
 
 ##### Artikel 4
 
