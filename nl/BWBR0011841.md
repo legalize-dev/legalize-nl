@@ -4,7 +4,7 @@ identifier: "BWBR0011841"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2002-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011841"
 soort: "AMvB"
@@ -52,15 +52,15 @@ Als bijlage bedoeld in [artikel 32b, eerste lid, van de Warenwet](https://wetten
 
 ##### Artikel 2
 
-Voor elke in de bijlage omschreven overtreding van voorschriften gesteld bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), bepaalt het in de kolommen I en II opgenomen bedrag de te betalen boete.
+Voor elke in de bijlage omschreven overtreding van voorschriften gesteld bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), bepaalt het in de kolommen I en II opgenomen bedrag de te betalen bestuurlijke boete.
 
 ##### Artikel 3
 
-1. Het in kolom I van de bijlage genoemde bedrag van de boete wordt opgelegd aan de natuurlijke persoon of rechtspersoon welke op de dag waarop de overtreding is begaan 50 of minder werknemers telde.
+1. Het in kolom I van de bijlage genoemde bedrag van de bestuurlijke boete wordt opgelegd aan de natuurlijke persoon of rechtspersoon welke op de dag waarop de overtreding is begaan 50 of minder werknemers telde.
 
-2. Het in kolom II van de bijlage genoemde bedrag van de boete wordt opgelegd aan de natuurlijke persoon of rechtspersoon welke op de dag waarop de overtreding is begaan meer dan 50 werknemers telde.
+2. Het in kolom II van de bijlage genoemde bedrag van de bestuurlijke boete wordt opgelegd aan de natuurlijke persoon of rechtspersoon welke op de dag waarop de overtreding is begaan meer dan 50 werknemers telde.
 
-3. Het in kolommen I en II opgenomen bedrag van de boete kan worden verhoogd indien de natuurlijke of rechtspersoon aan die de overtreding kan worden toegerekend, voor een soortgelijke overtreding eerder is beboet en er nog geen twee jaar zijn verlopen sinds die eerdere boete onherroepelijk is geworden en de ernst van de overtreding, de mate waarin de natuurlijke of rechtspersoon de overtreding kan worden verweten of de omstandigheden waaronder de overtreding heeft plaatsgevonden, daartoe aanleiding geven.
+3. Het in kolommen I en II opgenomen bedrag van de bestuurlijke boete kan worden verhoogd indien de natuurlijke of rechtspersoon aan die de overtreding kan worden toegerekend, voor een soortgelijke overtreding eerder is beboet en er nog geen twee jaar zijn verlopen sinds die eerdere bestuurlijke boete onherroepelijk is geworden en de ernst van de overtreding, de mate waarin de natuurlijke of rechtspersoon de overtreding kan worden verweten of de omstandigheden waaronder de overtreding heeft plaatsgevonden, daartoe aanleiding geven.
 
 ##### Artikel 4
 
