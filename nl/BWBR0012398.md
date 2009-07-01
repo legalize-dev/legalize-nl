@@ -4,7 +4,7 @@ identifier: "BWBR0012398"
 country: "nl"
 rank: "wet"
 publication_date: "2009-07-01"
-last_updated: "2002-05-29"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012398"
 soort: "wet"
@@ -208,7 +208,7 @@ Wijzigt de Wet vaartijden en bemanningssterkte binnenvaart.
 
 ##### Artikel 16
 
-Na de inwerkingtreding van deze wet berust het [Besluit Reglement onderzoek schepen op de Rijn 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007858) mede op [artikel 58b van de Wet vervoer binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005319&artikel=58b), voorzover het betreft de verwerking van persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
+Na de inwerkingtreding van deze wet berust het [Besluit Reglement onderzoek schepen op de Rijn 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007858) mede op [artikel 39, vierde lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39), voorzover het betreft de verwerking van persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
 
 ##### Artikel 17
 
