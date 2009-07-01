@@ -4,7 +4,7 @@ identifier: "BWBR0004624"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-12-31"
-last_updated: "2007-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004624"
 soort: "AMvB"
@@ -70,13 +70,13 @@ Hebben goedgevonden en verstaan:
 
 - a. binnenschepen waarmee de beroepsmatige binnenvaart wordt uitgeoefend, indien deze schepen:
 
-- 1°. overeenkomstig het Reglement betreffende het onderzoek van schepen op de Rijn (**Stb.** 1976, 476) zijn voorzien van een geldig certificaat van onderzoek;
+- 1°. overeenkomstig het [Reglement betreffende het onderzoek van schepen op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0007858) (**Stb.** 1976, 476) zijn voorzien van een geldig certificaat van onderzoek;
 
-- 2°. overeenkomstig de [Binnenschepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003443) (**Stb.** 1981, 678) zijn voorzien van een geldig certificaat van onderzoek;
+- 2°. overeenkomstig de [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009) zijn voorzien van een geldig certificaat van onderzoek;
 
-- 3°. zijn voorzien van een geldig Communautair Certificaat als bedoeld in de Richtlijn van de Raad van de Europese Gemeenschappen tot vaststelling van de technische voorschriften voor binnenschepen van 4 oktober 1982, nr. 82/714/EEG (**PbEG** L 301);
+- 3°. Zijn voorzien van een geldig communautair certificaat als bedoeld in de Richtlijn nr. 82/714/EEG van de Raad van de Europese Gemeenschappen tot vaststelling van de technische voorschriften voor binnenschepen van 4 oktober 1982 (PbEG L 301), of van een geldig communautair binnenvaartcertificaat als bedoeld in de Richtlijn nr. 2006/87/EG van het Europees parlement en de Raad van 12 december 2006 tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van richtlijn nr. 82/714/EEG van de Raad (PbEU L 389);
 
-- b. schepen waarvoor op grond van [artikel 4, tweede lid, onder **c**, van de Binnenschepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003443&artikel=4), schriftelijke toestemming is verleend door de inspecteur-generaal van de Inspectie Verkeer en Waterstaat;
+- b. schepen als bedoeld in [artikel 7, onderdeel f, van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=7) waarvoor op grond van [artikel 10 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&artikel=10) een voorlopig certificaat is afgegeven;
 
 - c. zeeschepen waarmee de beroepsmatige zeevaart wordt uitgeoefend, bij de vaart van en naar zee, indien deze schepen:
 
@@ -108,7 +108,7 @@ Vervallen
 
 ##### Artikel 5
 
-Bij de aanvraag om een vergunning als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004624&paragraaf=2&artikel=3&z=2007-01-01&g=2007-01-01), dienen door de aanvrager de volgende gegevens te worden overgelegd:
+Bij de aanvraag om een vergunning als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004624&paragraaf=2&artikel=3&z=2009-07-01&g=2009-07-01), dienen door de aanvrager de volgende gegevens te worden overgelegd:
 
 - a. de vermelding van naam en adres van de aanvrager;
 
@@ -134,7 +134,7 @@ Een vergunning en een ontheffing kunnen worden gewijzigd of ingetrokken. [artike
 
 ##### Artikel 8
 
-Met betrekking tot luchtkussenvoertuigen die bij het in werking treden van dit besluit reeds vervaardigd en in Nederland aanwezig waren, dan wel die behoren tot een type dat bij het in werking treden van dit besluit reeds in Nederland in produktie was genomen, geldt [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004624&paragraaf=2&artikel=3&z=2007-01-01&g=2007-01-01) met ingang van een jaar na de datum van inwerkingtreding van dit besluit.
+Met betrekking tot luchtkussenvoertuigen die bij het in werking treden van dit besluit reeds vervaardigd en in Nederland aanwezig waren, dan wel die behoren tot een type dat bij het in werking treden van dit besluit reeds in Nederland in produktie was genomen, geldt [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004624&paragraaf=2&artikel=3&z=2009-07-01&g=2009-07-01) met ingang van een jaar na de datum van inwerkingtreding van dit besluit.
 
 ##### Artikel 9
 
