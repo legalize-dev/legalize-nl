@@ -4,7 +4,7 @@ identifier: "BWBR0004054"
 country: "nl"
 rank: "wet"
 publication_date: "2025-12-09"
-last_updated: "2006-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004054"
 soort: "wet"
@@ -88,15 +88,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - r. bouwland: landbouwgrond, niet zijnde grasland;
 
-- s. mestoverschot: de in een bepaald kalenderjaar geproduceerde, aangevoerde of uit opslag komende hoeveelheid dierlijke meststoffen, die van een bedrijf moet worden afgevoerd om te voldoen aan de voorwaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-01-01), en om te voldoen aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=14&z=2006-01-01&g=2006-01-01);
+- s. mestoverschot: de in een bepaald kalenderjaar geproduceerde, aangevoerde of uit opslag komende hoeveelheid dierlijke meststoffen, die van een bedrijf moet worden afgevoerd om te voldoen aan de voorwaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01), en om te voldoen aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=14&z=2009-07-01&g=2009-07-01);
 
-- t. varkensrecht: gemiddeld aantal varkens, uitgedrukt in varkenseenheden, dat op grond van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&z=2006-01-01&g=2006-01-01) in een kalenderjaar ten hoogste mag worden gehouden;
+- t. varkensrecht: gemiddeld aantal varkens, uitgedrukt in varkenseenheden, dat op grond van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&z=2009-07-01&g=2009-07-01) in een kalenderjaar ten hoogste mag worden gehouden;
 
-- u. pluimveerecht: gemiddeld aantal kippen en kalkoenen, uitgedrukt in pluimvee-eenheden, dat op grond van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&z=2006-01-01&g=2006-01-01) in een kalenderjaar ten hoogste mag worden gehouden;
+- u. pluimveerecht: gemiddeld aantal kippen en kalkoenen, uitgedrukt in pluimvee-eenheden, dat op grond van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&z=2009-07-01&g=2009-07-01) in een kalenderjaar ten hoogste mag worden gehouden;
 
 - v. productierecht: varkensrecht of pluimveerecht;
 
-- w. concentratiegebied: concentratiegebied Zuid of concentratiegebied Oost als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=I&z=2006-01-01&g=2006-01-01).
+- w. concentratiegebied: concentratiegebied Zuid of concentratiegebied Oost als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=I&z=2009-07-01&g=2009-07-01).
 
 2. In deze wet en de daarop berustende bepalingen wordt onder bedrijf mede verstaan: een op het Nederlands grondgebied gelegen deel van een in het buitenland gevestigd bedrijf.
 
@@ -118,7 +118,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld waaraan landbouwgrond moet voldoen om te worden aangemerkt als tot het bedrijf behorende oppervlakte landbouwgrond.
 
-2. Bij ministeriële regeling kunnen regels worden gesteld omtrent de gevallen waarin en de voorwaarden waaronder, in afwijking van [artikel 1, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), ook in de grensgebieden gelegen landbouwgrond buiten Nederland tot de tot het bedrijf behorende oppervlakte landbouwgrond wordt gerekend.
+2. Bij ministeriële regeling kunnen regels worden gesteld omtrent de gevallen waarin en de voorwaarden waaronder, in afwijking van [artikel 1, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=I&artikel=1&z=2009-07-01&g=2009-07-01), ook in de grensgebieden gelegen landbouwgrond buiten Nederland tot de tot het bedrijf behorende oppervlakte landbouwgrond wordt gerekend.
 
 ### Hoofdstuk II. Regels inzake het verhandelen van meststoffen
 
@@ -128,7 +128,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt geen rekening gehouden met handelingen waarvan, op grond van de omstandigheid dat zij geen wezenlijke verandering van feitelijke verhoudingen hebben ten doel gehad of op grond van andere bepaalde feiten en omstandigheden, moet worden aangenomen dat zij achterwege zouden zijn gebleven, indien daarmee niet de toepassing van deze wet voor het vervolg geheel of ten dele onmogelijk zou worden gemaakt.
 
-2. [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&z=2006-01-01&g=2006-01-01) van deze wet is niet van toepassing op natuurterreinen die de hoofdfunctie natuur hebben.
+2. [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&z=2009-07-01&g=2009-07-01) van deze wet is niet van toepassing op natuurterreinen die de hoofdfunctie natuur hebben.
 
 ##### Artikel 4
 
@@ -146,13 +146,13 @@ Deze eisen kunnen verschillend worden vastgesteld afhankelijk van het gebruiksdo
 
 ##### Artikel 5
 
-Het is verboden een product, dat blijkens zijn aanduiding of anderszins kennelijk bestemd is om als meststof te worden gebruikt, te verhandelen, indien dat product niet voldoet aan de krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=4&z=2006-01-01&g=2006-01-01) met betrekking tot meststoffen gestelde eisen.
+Het is verboden een product, dat blijkens zijn aanduiding of anderszins kennelijk bestemd is om als meststof te worden gebruikt, te verhandelen, indien dat product niet voldoet aan de krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=4&z=2009-07-01&g=2009-07-01) met betrekking tot meststoffen gestelde eisen.
 
 ### Hoofdstuk III. Regelen in het belang van een doelmatige afvoer van mestoverschotten
 
 ##### Artikel 6
 
-1. Bij of krachtens algemene maatregel van bestuur bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=4&z=2006-01-01&g=2006-01-01) kan het verhandelen als meststof van producten die geheel of gedeeltelijk uit zuiveringsslib, havenslib, compost of andere soortgelijke voor bemesting bruikbare producten bestaan, zonder vergunning verleend door Onze Minister of door een bij de maatregel aangewezen overheidsorgaan, worden verboden. Daarbij kunnen tevens regels worden gesteld met betrekking tot het verlenen, weigeren of intrekken van een vergunning.
+1. Bij of krachtens algemene maatregel van bestuur bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=4&z=2009-07-01&g=2009-07-01) kan het verhandelen als meststof van producten die geheel of gedeeltelijk uit zuiveringsslib, havenslib, compost of andere soortgelijke voor bemesting bruikbare producten bestaan, zonder vergunning verleend door Onze Minister of door een bij de maatregel aangewezen overheidsorgaan, worden verboden. Daarbij kunnen tevens regels worden gesteld met betrekking tot het verlenen, weigeren of intrekken van een vergunning.
 
 2. Aan een vergunning, als bedoeld in het vorige lid, kunnen voorschriften worden verbonden. Zij kan onder beperkingen worden verleend. Tot de voorschriften kunnen onder meer behoren:
 
@@ -206,7 +206,7 @@ Het is verboden in enig kalenderjaar op een bedrijf meststoffen op of in de bode
 
 ##### Artikel 8
 
-Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2006-01-01&g=2006-01-01) gestelde verbod geldt niet indien de op of in de landbouwgrond gebrachte hoeveelheid meststoffen in het desbetreffende jaar geen van de volgende normen overschrijdt:
+Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2009-07-01&g=2009-07-01) gestelde verbod geldt niet indien de op of in de landbouwgrond gebrachte hoeveelheid meststoffen in het desbetreffende jaar geen van de volgende normen overschrijdt:
 
 - a. de gebruiksnorm voor dierlijke meststoffen;
 
@@ -216,13 +216,13 @@ Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III
 
 ##### Artikel 9
 
-1. De gebruiksnorm voor dierlijke meststoffen, bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-01-01), is 170 kilogram stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond.
+1. De gebruiksnorm voor dierlijke meststoffen, bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01), is 170 kilogram stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond.
 
 2. Bij ministeriële regeling kan een hogere gebruiksnorm voor dierlijke meststoffen worden vastgesteld, die van toepassing is in de gevallen en onder de voorwaarden en beperkingen, bepaald bij de regeling.
 
 ##### Artikel 10
 
-1. De stikstofgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-01-01), is een bij ministeriële regeling vastgestelde hoeveelheid stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond.
+1. De stikstofgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01), is een bij ministeriële regeling vastgestelde hoeveelheid stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond.
 
 2. De hoeveelheid stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond kan verschillend worden vastgesteld al naar gelang het gewas, de toegepaste landbouwpraktijk, de ecologische kenmerken van een waterlichaam en de kenmerken van de bodem, en al naar gelang sprake is van kleigrond, veengrond, of zand- of lössgrond.
 
@@ -232,7 +232,7 @@ Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III
 
 ##### Artikel 11
 
-1. De fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-01-01), is per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond:
+1. De fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01), is per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond:
 
 - a. 110 kilogram fosfaat in 2006;
 
@@ -240,7 +240,7 @@ Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III
 
 - c. 100 kilogram fosfaat in 2008.
 
-2. De fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-01-01), is per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond:
+2. De fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01), is per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond:
 
 - a. 95 kilogram fosfaat in 2006, waarvan ten hoogste 85 kilogram fosfaat in de vorm van dierlijke meststoffen;
 
@@ -258,21 +258,21 @@ Het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III
 
 ##### Artikel 12
 
-1. Voor de toepassing van [artikel 8, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-01-01), wordt de op of in de bodem gebrachte hoeveelheid meststoffen bepaald door bij elkaar op te tellen de in het desbetreffende jaar op het bedrijf geproduceerde, aangevoerde en per saldo uit opslag gekomen hoeveelheden dierlijke meststoffen, en de uitkomst te verminderen met de in dat jaar van het bedrijf afgevoerde hoeveelheid dierlijke meststoffen. De hoeveelheden worden uitgedrukt in kilogrammen stikstof.
+1. Voor de toepassing van [artikel 8, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01), wordt de op of in de bodem gebrachte hoeveelheid meststoffen bepaald door bij elkaar op te tellen de in het desbetreffende jaar op het bedrijf geproduceerde, aangevoerde en per saldo uit opslag gekomen hoeveelheden dierlijke meststoffen, en de uitkomst te verminderen met de in dat jaar van het bedrijf afgevoerde hoeveelheid dierlijke meststoffen. De hoeveelheden worden uitgedrukt in kilogrammen stikstof.
 
-2. Voor de toepassing van [artikel 8, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-01-01), wordt de op of in de bodem gebrachte hoeveelheid meststoffen bepaald overeenkomstig het eerste lid, met dien verstande dat niet alleen dierlijke meststoffen maar ook andere meststoffen in aanmerking worden genomen.
+2. Voor de toepassing van [artikel 8, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01), wordt de op of in de bodem gebrachte hoeveelheid meststoffen bepaald overeenkomstig het eerste lid, met dien verstande dat niet alleen dierlijke meststoffen maar ook andere meststoffen in aanmerking worden genomen.
 
 3. Bij ministeriële regeling kan worden bepaald dat bij de bepaling van de in het tweede lid bedoelde hoeveelheid meststoffen de hoeveelheid stikstof in dierlijke meststoffen of in andere, bij de regeling omschreven organische meststoffen slechts voor een bij de regeling bepaald percentage in aanmerking wordt genomen. Het percentage kan al naar gelang de aard van de meststoffen en de periode waarin zij op of in de bodem worden gebracht verschillend worden vastgesteld.
 
-4. Voor de toepassing van [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-01-01), wordt de op of in de bodem gebrachte hoeveelheid meststoffen bepaald overeenkomstig het tweede lid in samenhang met het eerste lid, met dien verstande dat de hoeveelheden meststoffen steeds worden uitgedrukt in kilogrammen fosfaat.
+4. Voor de toepassing van [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01), wordt de op of in de bodem gebrachte hoeveelheid meststoffen bepaald overeenkomstig het tweede lid in samenhang met het eerste lid, met dien verstande dat de hoeveelheden meststoffen steeds worden uitgedrukt in kilogrammen fosfaat.
 
 5. Bij ministeriële regeling kan worden bepaald dat bij de bepaling van de in het vierde lid bedoelde hoeveelheid meststoffen de hoeveelheid fosfaat in bij de regeling omschreven organische meststoffen slechts voor een bij de regeling bepaald deel in aanmerking wordt genomen. Dit deel kan al naar gelang de aard van de meststoffen verschillend worden vastgesteld.
 
 ##### Artikel 13
 
-1. Tot de voorwaarden, bedoeld in de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=9&z=2006-01-01&g=2006-01-01), en [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2006-01-01&g=2006-01-01), kan behoren een vergunning verleend door Onze Minister of de registratie van een kennisgeving door Onze Minister.
+1. Tot de voorwaarden, bedoeld in de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=9&z=2009-07-01&g=2009-07-01), en [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2009-07-01&g=2009-07-01), kan behoren een vergunning verleend door Onze Minister of de registratie van een kennisgeving door Onze Minister.
 
-2. Bij de regeling, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=9&z=2006-01-01&g=2006-01-01), kan de toepasselijkheid van een hogere hoeveelheid stikstof in verband met een meer dan gemiddelde stikstofopname door gewassen binnen een bepaalde soort worden verbonden aan de voorwaarde van een vergunning verleend door Onze Minister of de registratie van een kennisgeving door Onze Minister.
+2. Bij de regeling, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=9&z=2009-07-01&g=2009-07-01), kan de toepasselijkheid van een hogere hoeveelheid stikstof in verband met een meer dan gemiddelde stikstofopname door gewassen binnen een bepaalde soort worden verbonden aan de voorwaarde van een vergunning verleend door Onze Minister of de registratie van een kennisgeving door Onze Minister.
 
 3. Aan een vergunning kunnen voorschriften worden verbonden en zij kan onder beperkingen worden verleend. De voorschriften en beperkingen kunnen worden gewijzigd, aangevuld of ingetrokken.
 
@@ -458,21 +458,11 @@ Vervallen
 
 ##### Artikel 67
 
-1. Indien van de overtreding een rapport is opgemaakt, beslist Onze Minister omtrent het opleggen van de bestuurlijke boete binnen dertien weken na de dagtekening van het rapport.
-
-2. De beslistermijn wordt opgeschort met ingang van de dag waarop de gedraging aan het openbaar ministerie is voorgelegd, tot de dag waarop Onze Minister weer bevoegd wordt een bestuurlijke boete op te leggen.
+Vervallen
 
 ##### Artikel 68
 
-De beschikking tot oplegging van de bestuurlijke boete vermeldt:
-
-- a. de naam van de overtreder;
-
-- b. de overtreding, alsmede het overtreden voorschrift;
-
-- c. het bedrag van de boete;
-
-- d. de termijn waarbinnen de betaling moet plaatsvinden.
+Vervallen
 
 ##### Artikel 15
 
@@ -506,7 +496,7 @@ De beschikking tot oplegging van de bestuurlijke boete vermeldt:
 
 ##### Artikel 17
 
-De toepassing van de in de [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=15&z=2006-01-01&g=2006-01-01) bedoelde regels kan worden beperkt tot bepaalde, bij of krachtens de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=15&z=2006-01-01&g=2006-01-01) bedoelde maatregel aangewezen gebieden, waarbij deze regelen per gebied en per categorie van bedrijven alsmede dierlijke meststoffensoort verschillend kunnen worden vastgesteld.
+De toepassing van de in de [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=15&z=2009-07-01&g=2009-07-01) bedoelde regels kan worden beperkt tot bepaalde, bij of krachtens de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=15&z=2009-07-01&g=2009-07-01) bedoelde maatregel aangewezen gebieden, waarbij deze regelen per gebied en per categorie van bedrijven alsmede dierlijke meststoffensoort verschillend kunnen worden vastgesteld.
 
 ##### Artikel 17a
 
@@ -524,9 +514,9 @@ De stikstofbinding door het gewas, bedoeld in [artikel 16, onderdeel a, onder 3�
 
 Voor de toepassing van dit hoofdstuk:
 
-- a. worden de aantallen varkens, onderscheiden naar diercategorie, uitgedrukt in varkenseenheden overeenkomstig de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=II&z=2006-01-01&g=2006-01-01) daarvoor opgenomen normen;
+- a. worden de aantallen varkens, onderscheiden naar diercategorie, uitgedrukt in varkenseenheden overeenkomstig de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=II&z=2009-07-01&g=2009-07-01) daarvoor opgenomen normen;
 
-- b. worden de aantallen kippen en kalkoenen, onderscheiden naar diercategorie, uitgedrukt in pluimvee-eenheden overeenkomstig de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=II&z=2006-01-01&g=2006-01-01) daarvoor opgenomen normen.
+- b. worden de aantallen kippen en kalkoenen, onderscheiden naar diercategorie, uitgedrukt in pluimvee-eenheden overeenkomstig de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=II&z=2009-07-01&g=2009-07-01) daarvoor opgenomen normen.
 
 ##### Artikel 19
 
@@ -552,19 +542,19 @@ Het is verboden op een bedrijf gemiddeld in een kalenderjaar een groter aantal v
 
 2. De in het eerste lid bedoelde aantallen komen overeen met het aantal varkens, onderscheidenlijk het aantal kippen en kalkoenen dat overeenkomstig het varkensrecht en het pluimveerecht gemiddeld gedurende het jaar mag worden gehouden, vermeerderd met 15%.
 
-3. Onverminderd de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=19&z=2006-01-01&g=2006-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=20&z=2006-01-01&g=2006-01-01) is het verboden op enig moment een groter aantal varkens of een groter aantal kippen en kalkoenen te houden dan het door Onze Minister vastgestelde aantal.
+3. Onverminderd de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=19&z=2009-07-01&g=2009-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=20&z=2009-07-01&g=2009-07-01) is het verboden op enig moment een groter aantal varkens of een groter aantal kippen en kalkoenen te houden dan het door Onze Minister vastgestelde aantal.
 
 4. De in het eerste lid bedoelde bevoegdheid kan ten aanzien van een bedrijf voor een aaneengesloten periode van ten hoogste drie jaar worden uitgeoefend. De periode kan telkens worden verlengd tot drie jaar te rekenen vanaf het tijdstip waarop een overtreding van het verbod, bedoeld in het derde lid, wordt vastgesteld.
 
 ##### Artikel 23
 
-1. Het op het bedrijf rustende varkensrecht op het tijdstip van inwerkingtreding van het verbod, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=19&z=2006-01-01&g=2006-01-01), komt overeen met het varkensrecht zoals dat onmiddellijk voorafgaand aan dat tijdstip voor het bedrijf gold op grond van de [Wet herstructurering varkenshouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0009542).
+1. Het op het bedrijf rustende varkensrecht op het tijdstip van inwerkingtreding van het verbod, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=19&z=2009-07-01&g=2009-07-01), komt overeen met het varkensrecht zoals dat onmiddellijk voorafgaand aan dat tijdstip voor het bedrijf gold op grond van de [Wet herstructurering varkenshouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0009542).
 
-2. Het op het bedrijf rustende pluimveerecht op het tijdstip van inwerkingtreding van het verbod, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=20&z=2006-01-01&g=2006-01-01), eerste lid, komt overeen met het pluimveerecht, uitgedrukt in kilogrammen fosfaat, zoals dat onmiddellijk voorafgaand aan dat tijdstip voor het bedrijf gold op grond van deze wet, met dien verstande dat de kilogrammen fosfaat worden omgerekend naar pluimvee-eenheden. Voor deze omrekening komt 0,5 kilogram fosfaat overeen met 1 pluimvee-eenheid.
+2. Het op het bedrijf rustende pluimveerecht op het tijdstip van inwerkingtreding van het verbod, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=20&z=2009-07-01&g=2009-07-01), eerste lid, komt overeen met het pluimveerecht, uitgedrukt in kilogrammen fosfaat, zoals dat onmiddellijk voorafgaand aan dat tijdstip voor het bedrijf gold op grond van deze wet, met dien verstande dat de kilogrammen fosfaat worden omgerekend naar pluimvee-eenheden. Voor deze omrekening komt 0,5 kilogram fosfaat overeen met 1 pluimvee-eenheid.
 
 ##### Artikel 24
 
-1. Het overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=3&artikel=23&z=2006-01-01&g=2006-01-01) bepaalde productierecht wordt gecorrigeerd, indien voorafgaand aan het in dat artikel bedoelde tijdstip, in hetzelfde kalenderjaar met betrekking tot het bedrijf een registratie heeft plaatsgevonden van een kennisgeving van overgang van het varkensrecht of pluimveerecht, of een gedeelte daarvan, maar de omvang van de verkleining, dan wel vergroting van het desbetreffende productierecht werd beperkt ingevolge [artikel 18, zesde lid, van de Wet herstructurering varkenshouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0009542&artikel=18), onderscheidenlijk artikel 58q, vierde lid, van de Meststoffenwet, zoals deze artikelen luidden op het tijdstip van de registratie.
+1. Het overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=3&artikel=23&z=2009-07-01&g=2009-07-01) bepaalde productierecht wordt gecorrigeerd, indien voorafgaand aan het in dat artikel bedoelde tijdstip, in hetzelfde kalenderjaar met betrekking tot het bedrijf een registratie heeft plaatsgevonden van een kennisgeving van overgang van het varkensrecht of pluimveerecht, of een gedeelte daarvan, maar de omvang van de verkleining, dan wel vergroting van het desbetreffende productierecht werd beperkt ingevolge [artikel 18, zesde lid, van de Wet herstructurering varkenshouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0009542&artikel=18), onderscheidenlijk artikel 58q, vierde lid, van de Meststoffenwet, zoals deze artikelen luidden op het tijdstip van de registratie.
 
 2. De correctie geschiedt van rechtswege bij aanvang van het kalenderjaar volgend op het kalenderjaar waarin de registratie van de kennisgeving van overgang plaatsvond en leidt tot een verkleining, onderscheidenlijk vergroting van het desbetreffende productierecht met het aantal varkenseenheden of pluimvee-eenheden waarop de beperking betrekking had.
 
@@ -572,7 +562,7 @@ Het is verboden op een bedrijf gemiddeld in een kalenderjaar een groter aantal v
 
 ##### Artikel 25
 
-Een productierecht kan, onder welke titel dan ook, overgaan naar een ander bedrijf, overeenkomstig het bepaalde in deze paragraaf en [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=32&z=2006-01-01&g=2006-01-01).
+Een productierecht kan, onder welke titel dan ook, overgaan naar een ander bedrijf, overeenkomstig het bepaalde in deze paragraaf en [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=32&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 25a
 
@@ -618,7 +608,7 @@ Vervallen
 
 ##### Artikel 28
 
-1. Op het tijdstip van registratie van de kennisgeving, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2006-01-01&g=2006-01-01), vindt een verkleining plaats van het varkensrecht, onderscheidenlijk pluimveerecht van het bedrijf waarvan het desbetreffende productierecht, of gedeelte daarvan, afkomstig is, en vindt een vergroting plaats van het varkensrecht, onderscheidenlijk het pluimveerecht van het bedrijf waarnaar het desbetreffende productierecht, of gedeelte daarvan, overgaat.
+1. Op het tijdstip van registratie van de kennisgeving, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2009-07-01&g=2009-07-01), vindt een verkleining plaats van het varkensrecht, onderscheidenlijk pluimveerecht van het bedrijf waarvan het desbetreffende productierecht, of gedeelte daarvan, afkomstig is, en vindt een vergroting plaats van het varkensrecht, onderscheidenlijk het pluimveerecht van het bedrijf waarnaar het desbetreffende productierecht, of gedeelte daarvan, overgaat.
 
 2. De verkleining en de vergroting komen overeen met het aantal varkenseenheden, onderscheidenlijk pluimvee-eenheden waarop de kennisgeving betrekking heeft.
 
@@ -628,15 +618,15 @@ Vervallen
 
 ##### Artikel 29
 
-1. De registratie, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2006-01-01&g=2006-01-01), vindt niet plaats indien:
+1. De registratie, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2009-07-01&g=2009-07-01), vindt niet plaats indien:
 
-- a. de kennisgeving niet overeenkomstig de regels, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2006-01-01&g=2006-01-01), is gedaan,
+- a. de kennisgeving niet overeenkomstig de regels, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2009-07-01&g=2009-07-01), is gedaan,
 
 - b. de kennisgeving betrekking heeft op een groter aantal varkenseenheden of pluimvee-eenheden dan overeenkomt met het desbetreffende productierecht van het bedrijf waarvan het afkomstig is,
 
-- c. de kennisgeving betrekking heeft op het productierecht afkomstig van een bedrijf ten aanzien waarvan Onze Minister gebruik maakt van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=22&z=2006-01-01&g=2006-01-01) bedoelde bevoegdheid, of
+- c. de kennisgeving betrekking heeft op het productierecht afkomstig van een bedrijf ten aanzien waarvan Onze Minister gebruik maakt van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=22&z=2009-07-01&g=2009-07-01) bedoelde bevoegdheid, of
 
-- d. de overgang van het productierecht in strijd is met [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=26&z=2006-01-01&g=2006-01-01).
+- d. de overgang van het productierecht in strijd is met [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=26&z=2009-07-01&g=2009-07-01).
 
 2. Indien pas na registratie blijkt dat niet aan de in het eerste lid genoemde voorwaarden is voldaan, wordt de registratie door Onze Minister ongedaan gemaakt. Met terugwerkende kracht tot het tijdstip van de registratie vervallen de rechtsgevolgen van die registratie.
 
@@ -644,7 +634,7 @@ Vervallen
 
 1. In afwijking van [artikel 228 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=228) kan op het productierecht geen pandrecht worden gevestigd.
 
-2. Bij ministeriële regeling kan worden bepaald dat alvorens Onze Minister de in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2006-01-01&g=2006-01-01), bedoelde kennisgeving in behandeling neemt, van deze kennisgeving mededeling wordt gedaan aan in die regeling genoemde derdebelanghebbenden.
+2. Bij ministeriële regeling kan worden bepaald dat alvorens Onze Minister de in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2009-07-01&g=2009-07-01), bedoelde kennisgeving in behandeling neemt, van deze kennisgeving mededeling wordt gedaan aan in die regeling genoemde derdebelanghebbenden.
 
 3. Bij de ministeriële regeling worden nadere regels gesteld voor de uitvoering van het tweede lid, onder meer over:
 
@@ -664,7 +654,7 @@ Vervallen
 
 ##### Artikel 32
 
-1. Indien op landelijk niveau de omvang van de productie van dierlijke meststoffen, uitgedrukt in kilogrammen stikstof of fosfaat, afkomstig van varkens of van pluimvee de omvang van die productie in 2002 overschrijdt, en indien dit ook geldt voor de totale omvang van de productie van dierlijke meststoffen, kan, al naar gelang de overschrijding betrekking heeft op varkensmest of op pluimveemest, bij algemene maatregel van bestuur, in zoverre in afwijking van [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=28&z=2006-01-01&g=2006-01-01), worden bepaald dat, de vergroting van het varkensrecht, onderscheidenlijk dat de vergroting van het pluimveerecht wordt beperkt tot een bij de maatregel vastgesteld percentage van het aantal varkenseenheden, onderscheidenlijk pluimvee-eenheden waarop de kennisgeving, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2006-01-01&g=2006-01-01), betrekking heeft.
+1. Indien op landelijk niveau de omvang van de productie van dierlijke meststoffen, uitgedrukt in kilogrammen stikstof of fosfaat, afkomstig van varkens of van pluimvee de omvang van die productie in 2002 overschrijdt, en indien dit ook geldt voor de totale omvang van de productie van dierlijke meststoffen, kan, al naar gelang de overschrijding betrekking heeft op varkensmest of op pluimveemest, bij algemene maatregel van bestuur, in zoverre in afwijking van [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=28&z=2009-07-01&g=2009-07-01), worden bepaald dat, de vergroting van het varkensrecht, onderscheidenlijk dat de vergroting van het pluimveerecht wordt beperkt tot een bij de maatregel vastgesteld percentage van het aantal varkenseenheden, onderscheidenlijk pluimvee-eenheden waarop de kennisgeving, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=27&z=2009-07-01&g=2009-07-01), betrekking heeft.
 
 2. Het in het eerste lid bedoelde percentage is ten minste 75%.
 
@@ -690,7 +680,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent he
 
 - a. het bedrijf of de onderneming, zoals de aard en de locatie van het bedrijf of de onderneming en van de daartoe behorende onderdelen en bedrijfsmiddelen, de tenaamstelling of handelsnaam, de rechtsvorm, in voorkomend geval de aard en samenstelling van het samenwerkingsverband van personen of rechtspersonen dat het bedrijf of de onderneming voert, de inschrijving in het handelsregister en de bij het bedrijf of de onderneming werkzame personen en hun bevoegdheden;
 
-- b. de geproduceerde, in voorraad gehouden, aangevoerde, afgevoerde, verhandelde, be- of verwerkte, op of in de bodem gebrachte en anderszins gebruikte hoeveelheden meststoffen, de samenstelling, herkomst en bestemming van de meststoffen en de gegevens, bedoeld in [artikel 35, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2006-01-01&g=2006-01-01);
+- b. de geproduceerde, in voorraad gehouden, aangevoerde, afgevoerde, verhandelde, be- of verwerkte, op of in de bodem gebrachte en anderszins gebruikte hoeveelheden meststoffen, de samenstelling, herkomst en bestemming van de meststoffen en de gegevens, bedoeld in [artikel 35, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2009-07-01&g=2009-07-01);
 
 - c. de tot het bedrijf behorende oppervlakte landbouwgrond en de overige gebruikte grond, met inbegrip van gegevens over naar de aard van de teelt of het gebruik te onderscheiden aaneengesloten oppervlakten en de topografische ligging daarvan, en met inbegrip van gegevens met betrekking tot grond die nog in gebruik moet worden genomen en met betrekking tot nog aan te vangen teelten en vormen van gebruik.
 
@@ -698,11 +688,11 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent he
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de bepaling van:
 
-- a. de hoeveelheden meststoffen, bedoeld in [artikel 34, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2006-01-01&g=2006-01-01), uitgedrukt in kilogrammen stikstof of fosfaat;
+- a. de hoeveelheden meststoffen, bedoeld in [artikel 34, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2009-07-01&g=2009-07-01), uitgedrukt in kilogrammen stikstof of fosfaat;
 
 - b. de verdere samenstelling van deze meststoffen;
 
-- c. de tot het bedrijf behorende oppervlakten, bedoeld in [artikel 34, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2006-01-01&g=2006-01-01);
+- c. de tot het bedrijf behorende oppervlakten, bedoeld in [artikel 34, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2009-07-01&g=2009-07-01);
 
 - d. de aantallen gehouden, uitgeschaarde, ingeschaarde, tijdelijk elders ter weiding ondergebrachte of tijdelijk ter weiding aangenomen dieren en de aantallen dieren die anderszins op een bedrijf of in het kader van een onderneming aanwezig zijn;
 
@@ -728,7 +718,7 @@ Deze waarden kunnen verschillend worden vastgesteld al naar gelang, voor zover v
 
 ##### Artikel 36
 
-1. De bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2006-01-01&g=2006-01-01), gestelde regels kunnen mede betrekking hebben op de bevoegdheid tot het doen van vaststellingen ten behoeve van de bepaling van de in dat artikel bedoelde hoeveelheden, hoedanigheden en oppervlakten en op de voor die vaststellingen te gebruiken apparatuur.
+1. De bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2009-07-01&g=2009-07-01), gestelde regels kunnen mede betrekking hebben op de bevoegdheid tot het doen van vaststellingen ten behoeve van de bepaling van de in dat artikel bedoelde hoeveelheden, hoedanigheden en oppervlakten en op de voor die vaststellingen te gebruiken apparatuur.
 
 2. De bevoegdheid tot het doen van vaststellingen kan worden verbonden aan:
 
@@ -744,9 +734,9 @@ Deze waarden kunnen verschillend worden vastgesteld al naar gelang, voor zover v
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het opmaken, bewaren, overleggen en afdragen van gegevens door degenen die:
 
-- a. betrokken zijn bij het doen van vaststellingen ten behoeve van de bepaling van de hoeveelheden, hoedanigheden en oppervlakten, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2006-01-01&g=2006-01-01), of
+- a. betrokken zijn bij het doen van vaststellingen ten behoeve van de bepaling van de hoeveelheden, hoedanigheden en oppervlakten, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2009-07-01&g=2009-07-01), of
 
-- b. diervoeder of dieren, als bedoeld in [artikel 35, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2006-01-01&g=2006-01-01), op bedrijven afleveren, dan wel dieren, melk en andere dierlijke producten, als bedoeld in [artikel 35, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2006-01-01&g=2006-01-01), van bedrijven afnemen of be- of verwerken.
+- b. diervoeder of dieren, als bedoeld in [artikel 35, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2009-07-01&g=2009-07-01), op bedrijven afleveren, dan wel dieren, melk en andere dierlijke producten, als bedoeld in [artikel 35, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2009-07-01&g=2009-07-01), van bedrijven afnemen of be- of verwerken.
 
 ##### Artikel 38
 
@@ -786,7 +776,7 @@ Vervallen
 
 ##### Artikel 42
 
-Tegen een op grond van deze wet genomen besluit, met uitzondering van een besluit als bedoeld in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=1&artikel=51&z=2006-01-01&g=2006-01-01), kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.
+Tegen een op grond van deze wet genomen besluit, met uitzondering van een besluit als bedoeld in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=1&artikel=51&z=2009-07-01&g=2009-07-01), kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.
 
 ## Titel 5. Verrekening en subsidieverlening
 
@@ -798,11 +788,11 @@ Vervallen
 
 1. [Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) is van toepassing op de voorbereiding van:
 
-- a. een algemene maatregel van bestuur als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=4&z=2006-01-01&g=2006-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=6&z=2006-01-01&g=2006-01-01), [11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2006-01-01&g=2006-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=16&z=2006-01-01&g=2006-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=32&z=2006-01-01&g=2006-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=33&z=2006-01-01&g=2006-01-01) en [76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IX&artikel=76&z=2006-01-01&g=2006-01-01),
+- a. een algemene maatregel van bestuur als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=4&z=2009-07-01&g=2009-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=6&z=2009-07-01&g=2009-07-01), [11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2009-07-01&g=2009-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=16&z=2009-07-01&g=2009-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=32&z=2009-07-01&g=2009-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=33&z=2009-07-01&g=2009-07-01) en [76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IX&artikel=76&z=2009-07-01&g=2009-07-01),
 
-- b. een ministeriële regeling als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=10&z=2006-01-01&g=2006-01-01), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2006-01-01&g=2006-01-01), en [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=12&z=2006-01-01&g=2006-01-01), en
+- b. een ministeriële regeling als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=10&z=2009-07-01&g=2009-07-01), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2009-07-01&g=2009-07-01), en [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=12&z=2009-07-01&g=2009-07-01), en
 
-- c. een besluit als bedoeld in [artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=38&z=2006-01-01&g=2006-01-01), houdende vrijstelling of ontheffing van het bepaalde bij of krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=4&z=2006-01-01&g=2006-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=5&z=2006-01-01&g=2006-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=6&z=2006-01-01&g=2006-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2006-01-01&g=2006-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=14&z=2006-01-01&g=2006-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=16&z=2006-01-01&g=2006-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=19&z=2006-01-01&g=2006-01-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=20&z=2006-01-01&g=2006-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=21&z=2006-01-01&g=2006-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=26&z=2006-01-01&g=2006-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=32&z=2006-01-01&g=2006-01-01) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=33&z=2006-01-01&g=2006-01-01).
+- c. een besluit als bedoeld in [artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=38&z=2009-07-01&g=2009-07-01), houdende vrijstelling of ontheffing van het bepaalde bij of krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=4&z=2009-07-01&g=2009-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=5&z=2009-07-01&g=2009-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=II&artikel=6&z=2009-07-01&g=2009-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2009-07-01&g=2009-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=14&z=2009-07-01&g=2009-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=16&z=2009-07-01&g=2009-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=19&z=2009-07-01&g=2009-07-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=20&z=2009-07-01&g=2009-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=2&artikel=21&z=2009-07-01&g=2009-07-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=26&z=2009-07-01&g=2009-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=32&z=2009-07-01&g=2009-07-01) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=5&artikel=33&z=2009-07-01&g=2009-07-01).
 
 2. Zienswijzen kunnen naar voren worden gebracht door eenieder.
 
@@ -816,7 +806,7 @@ De voordracht voor algemene maatregelen van bestuur krachtens deze wet wordt Ons
 
 ##### Artikel 45
 
-De ministeriële regelingen, bedoeld in [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&z=2006-01-01&g=2006-01-01), en krachtens [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=38&z=2006-01-01&g=2006-01-01), vastgestelde regelingen houdende vrijstelling van het bij of krachtens [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&z=2006-01-01&g=2006-01-01) bepaalde worden vastgesteld door Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+De ministeriële regelingen, bedoeld in [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&z=2009-07-01&g=2009-07-01), en krachtens [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=38&z=2009-07-01&g=2009-07-01), vastgestelde regelingen houdende vrijstelling van het bij of krachtens [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&z=2009-07-01&g=2009-07-01) bepaalde worden vastgesteld door Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
 ##### Artikel 46
 
@@ -834,45 +824,29 @@ Onze Minister kan voorschriften geven betreffende de monsterneming, de verpakkin
 
 ##### Artikel 49
 
-Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
+Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
 ##### Artikel 50
 
-1. In deze titel wordt verstaan onder:
-
-- a. overtreding: gedraging die in strijd is met het bepaalde bij of krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2006-01-01&g=2006-01-01), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=9&z=2006-01-01&g=2006-01-01), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2006-01-01&g=2006-01-01), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=13&z=2006-01-01&g=2006-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=14&z=2006-01-01&g=2006-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=15&z=2006-01-01&g=2006-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2006-01-01&g=2006-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2006-01-01&g=2006-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=36&z=2006-01-01&g=2006-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=37&z=2006-01-01&g=2006-01-01), [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=38&z=2006-01-01&g=2006-01-01), of [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=40&z=2006-01-01&g=2006-01-01);
-
-- b. overtreder: degene die de overtreding pleegt of mede pleegt;
-
-- c. bestuurlijke boete: bestraffende sanctie, inhoudende een onvoorwaardelijke verplichting tot betaling van een geldsom;
-
-- d. dwangbevel: schriftelijk bevel dat ertoe strekt de betaling van een geldsom af te dwingen, voor zover de verplichting tot betaling van de geldsom uitsluitend voortvloeit uit het bepaalde in deze titel.
-
-2. Indien een overtreding is gepleegd door een rechtspersoon, wordt onder overtreder mede verstaan: degene die tot de overtreding opdracht heeft gegeven of daaraan feitelijk leiding heeft gegeven.
+Vervallen
 
 ##### Artikel 51
 
-1. Onze Minister kan een overtreder een bestuurlijke boete opleggen.
-
-2. Onze Minister legt geen bestuurlijke boete op indien de overtreder is overleden. Een op het tijdstip van overlijden niet onherroepelijke of nog niet betaalde boete vervalt.
+Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2009-07-01&g=2009-07-01), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=9&z=2009-07-01&g=2009-07-01), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2009-07-01&g=2009-07-01), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=13&z=2009-07-01&g=2009-07-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=14&z=2009-07-01&g=2009-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=15&z=2009-07-01&g=2009-07-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2009-07-01&g=2009-07-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2009-07-01&g=2009-07-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=36&z=2009-07-01&g=2009-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=37&z=2009-07-01&g=2009-07-01), [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=38&z=2009-07-01&g=2009-07-01), of [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=40&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 52
 
-Onze Minister legt geen bestuurlijke boete op voorzover de overtreding niet aan de overtreder kan worden verweten.
+Vervallen
 
 ##### Artikel 53
 
-Onze Minister legt geen bestuurlijke boete op indien aan de overtreder wegens hetzelfde feit reeds eerder een bestuurlijke boete is opgelegd.
+Vervallen
 
 ## Titel 7. Tijdelijke uitzondering voor fosfaat in andere meststoffen
 
 ##### Artikel 54
 
-Onze Minister legt geen bestuurlijke boete op indien tegen de overtreder wegens hetzelfde feit:
-
-- a. een strafvervolging is ingesteld en het onderzoek ter terechtzitting is begonnen, of
-
-- b. het recht tot strafvordering is vervallen ingevolge [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) of [74c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74c) dan wel ingevolge [artikel 37 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=37).
+Vervallen
 
 ### Hoofdstuk V. Regelen ter voorkoming van een onverantwoorde uitbreiding van de productie van dierlijke meststoffen
 
@@ -880,15 +854,7 @@ Onze Minister legt geen bestuurlijke boete op indien tegen de overtreder wegens 
 
 ##### Artikel 55
 
-1. Indien de ernst van de overtreding of de omstandigheden waaronder zij is begaan daartoe aanleiding geven, wordt zij aan het openbaar ministerie voorgelegd.
-
-2. Voor een overtreding als bedoeld in het eerste lid kan Onze Minister alsnog een bestuurlijke boete opleggen indien:
-
-- a. het openbaar ministerie heeft medegedeeld van strafvervolging tegen de overtreder af te zien, of
-
-- b. sedert het voorleggen ervan dertien weken zijn verstreken en geen reactie van het openbaar ministerie is ontvangen.
-
-3. Indien ter zake van een overtreding aan de overtreder een bestuurlijke boete is opgelegd, dan wel een mededeling als bedoeld in [artikel 65, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=3&artikel=65&z=2006-01-01&g=2006-01-01), is verzonden, heeft dit dezelfde rechtsgevolgen als een kennisgeving van niet verdere vervolging als bedoeld in [artikel 246, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=246).
+Indien de ernst van de overtreding of de omstandigheden waaronder zij is begaan daartoe aanleiding geven, wordt zij aan het openbaar ministerie voorgelegd.
 
 ##### Artikel 55a
 
@@ -908,23 +874,17 @@ Geen vermindering geschiedt ten aanzien van het grondgebonden mestproductierecht
 
 ##### Artikel 56
 
-1. De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt na:
-
-- a. twee jaren nadat de overtreding heeft plaatsgevonden, ingeval van overtreding van het bepaalde bij of krachtens de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=9&z=2006-01-01&g=2006-01-01), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2006-01-01&g=2006-01-01), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=13&z=2006-01-01&g=2006-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=15&z=2006-01-01&g=2006-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2006-01-01&g=2006-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2006-01-01&g=2006-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=36&z=2006-01-01&g=2006-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=37&z=2006-01-01&g=2006-01-01), [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=38&z=2006-01-01&g=2006-01-01), of [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=40&z=2006-01-01&g=2006-01-01);
-
-- b. vijf jaren nadat de overtreding heeft plaatsgevonden, ingeval van overtreding van het bepaalde bij of krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2006-01-01&g=2006-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=14&z=2006-01-01&g=2006-01-01).
-
-2. Indien tegen de bestuurlijke boete bezwaar wordt gemaakt of beroep wordt ingesteld, wordt de vervaltermijn opgeschort tot onherroepelijk op het bezwaar of beroep is beslist.
+Vervallen
 
 ##### Artikel 57
 
-1. Ingeval van overtreding van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2006-01-01&g=2006-01-01) bedraagt de bestuurlijke boete:
+1. Ingeval van overtreding van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2009-07-01&g=2009-07-01) bedraagt de bestuurlijke boete:
 
-- a. € 7 per kilogram stikstof waarmee de in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-01-01), bedoelde gebruiksnorm voor dierlijke meststoffen is overschreden, vermeerderd met
+- a. € 7 per kilogram stikstof waarmee de in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01), bedoelde gebruiksnorm voor dierlijke meststoffen is overschreden, vermeerderd met
 
-- b. € 7 per kilogram stikstof waarmee de in [artikel 8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-01-01), bedoelde stikstofgebruiksnorm is overschreden, en vermeerderd met
+- b. € 7 per kilogram stikstof waarmee de in [artikel 8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01), bedoelde stikstofgebruiksnorm is overschreden, en vermeerderd met
 
-- c. € 11 per kilogram fosfaat waarmee de in [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-01-01), bedoelde fosfaatgebruiksnorm is overschreden.
+- c. € 11 per kilogram fosfaat waarmee de in [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01), bedoelde fosfaatgebruiksnorm is overschreden.
 
 2. Indien zowel de gebruiksnorm voor dierlijke meststoffen als de stikstofgebruiksnorm is overschreden, geldt, in zoverre in afwijking van het eerste lid, onderdeel b, een tarief van € 3,50 voor de kilogrammen stikstof waarvoor wegens overschrijding van de gebruiksnorm voor dierlijke meststoffen reeds het tarief van € 7 is toegepast.
 
@@ -932,9 +892,9 @@ Geen vermindering geschiedt ten aanzien van het grondgebonden mestproductierecht
 
 ##### Artikel 58
 
-1. Ingeval van overtreding van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=14&z=2006-01-01&g=2006-01-01), bedraagt de bestuurlijke boete € 11 per kilogram fosfaat en € 7 per kilogram stikstof waarvan de afvoer niet kan worden verantwoord.
+1. Ingeval van overtreding van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=14&z=2009-07-01&g=2009-07-01), bedraagt de bestuurlijke boete € 11 per kilogram fosfaat en € 7 per kilogram stikstof waarvan de afvoer niet kan worden verantwoord.
 
-2. In afwijking van het eerste lid wordt geen bestuurlijke boete opgelegd voor zover wegens overtreding van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2006-01-01&g=2006-01-01) een bestuurlijke boete wordt opgelegd voor de kilogrammen stikstof en fosfaat waarmee de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2006-01-01&g=2006-01-01) bedoelde stikstofgebruiksnorm voor meststoffen, onderscheidenlijk fosfaatgebruiksnorm voor meststoffen is overschreden.
+2. In afwijking van het eerste lid wordt geen bestuurlijke boete opgelegd voor zover wegens overtreding van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2009-07-01&g=2009-07-01) een bestuurlijke boete wordt opgelegd voor de kilogrammen stikstof en fosfaat waarmee de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=8&z=2009-07-01&g=2009-07-01) bedoelde stikstofgebruiksnorm voor meststoffen, onderscheidenlijk fosfaatgebruiksnorm voor meststoffen is overschreden.
 
 ## Titel 2. Stelsel van pluimveerechten
 
@@ -1280,11 +1240,11 @@ Vervallen
 
 ##### Artikel 59
 
-Onze Minister legt een lagere bestuurlijke boete op indien de overtreder aannemelijk maakt dat de overeenkomstig [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=57&z=2006-01-01&g=2006-01-01) of [58](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=58&z=2006-01-01&g=2006-01-01) vastgestelde bestuurlijke boete wegens bijzondere omstandigheden te hoog is.
+Vervallen
 
 ##### Artikel 60
 
-1. Bij algemene maatregel van bestuur kunnen van de [artikelen 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=57&z=2006-01-01&g=2006-01-01), en [58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=58&z=2006-01-01&g=2006-01-01), afwijkende tarieven worden vastgesteld.
+1. Bij algemene maatregel van bestuur kunnen van de [artikelen 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=57&z=2009-07-01&g=2009-07-01), en [58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=2&artikel=58&z=2009-07-01&g=2009-07-01), afwijkende tarieven worden vastgesteld.
 
 2. De afwijking bedraagt ten hoogste 50%.
 
@@ -1294,7 +1254,7 @@ Onze Minister legt een lagere bestuurlijke boete op indien de overtreder aanneme
 
 ##### Artikel 61
 
-Ingeval van overtreding van het bepaalde bij of krachtens [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=9&z=2006-01-01&g=2006-01-01), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2006-01-01&g=2006-01-01), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=13&z=2006-01-01&g=2006-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=15&z=2006-01-01&g=2006-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2006-01-01&g=2006-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2006-01-01&g=2006-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=36&z=2006-01-01&g=2006-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=37&z=2006-01-01&g=2006-01-01), [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=38&z=2006-01-01&g=2006-01-01), of [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=40&z=2006-01-01&g=2006-01-01) stemt Onze Minister de bestuurlijke boete af op de ernst van de overtreding en de mate waarin deze aan de overtreder kan worden verweten. Hij houdt daarbij zo nodig rekening met de omstandigheden waaronder de overtreding is gepleegd.
+Vervallen
 
 ##### Artikel 61a
 
@@ -1304,57 +1264,25 @@ Ingeval van overtreding van het bepaalde bij of krachtens [artikel 9, tweede lid
 
 ##### Artikel 62
 
-1. Ingeval van overtreding van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2006-01-01&g=2006-01-01) of [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=14&z=2006-01-01&g=2006-01-01), bedraagt de bestuurlijke boete ten hoogste € 45 000 per overtreding begaan door een natuurlijke persoon en ten hoogste € 450 000 per overtreding begaan door een rechtspersoon, een vennootschap zonder rechtspersoonlijkheid of een maatschap.
+1. Ingeval van overtreding van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=7&z=2009-07-01&g=2009-07-01) of [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=14&z=2009-07-01&g=2009-07-01), bedraagt de bestuurlijke boete ten hoogste € 45 000 per overtreding begaan door een natuurlijke persoon en ten hoogste € 450 000 per overtreding begaan door een rechtspersoon, een vennootschap zonder rechtspersoonlijkheid of een maatschap.
 
-2. Ingeval van overtreding van het bij of krachtens [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=9&z=2006-01-01&g=2006-01-01), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2006-01-01&g=2006-01-01), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=13&z=2006-01-01&g=2006-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=15&z=2006-01-01&g=2006-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2006-01-01&g=2006-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2006-01-01&g=2006-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=36&z=2006-01-01&g=2006-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=37&z=2006-01-01&g=2006-01-01), [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=38&z=2006-01-01&g=2006-01-01), of [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=40&z=2006-01-01&g=2006-01-01) bepaalde bedraagt de bestuurlijke boete ten hoogste € 11 250 per overtreding begaan door een natuurlijke persoon en ten hoogste € 45 000 per overtreding begaan door een rechtspersoon, een vennootschap zonder rechtspersoonlijkheid of een maatschap.
+2. Ingeval van overtreding van het bij of krachtens [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=9&z=2009-07-01&g=2009-07-01), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=11&z=2009-07-01&g=2009-07-01), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=III&artikel=13&z=2009-07-01&g=2009-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=IV&artikel=15&z=2009-07-01&g=2009-07-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=34&z=2009-07-01&g=2009-07-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=35&z=2009-07-01&g=2009-07-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=36&z=2009-07-01&g=2009-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VI&artikel=37&z=2009-07-01&g=2009-07-01), [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=38&z=2009-07-01&g=2009-07-01), of [40](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VII&artikel=40&z=2009-07-01&g=2009-07-01) bepaalde bedraagt de bestuurlijke boete ten hoogste € 11 250 per overtreding begaan door een natuurlijke persoon en ten hoogste € 45 000 per overtreding begaan door een rechtspersoon, een vennootschap zonder rechtspersoonlijkheid of een maatschap.
 
 ##### Artikel 63
 
-1. Onze Minister en de met het toezicht belaste ambtenaar, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=1&artikel=47&z=2006-01-01&g=2006-01-01), kunnen van de overtreding een rapport opmaken.
-
-2. Het rapport is gedagtekend en vermeldt:
-
-- a. de naam van de overtreder,
-
-- b. de overtreding alsmede het overtreden voorschrift, en
-
-- c. zo nodig een aanduiding van de plaats waar en het tijdstip waarop de overtreding is geconstateerd.
-
-3. Een afschrift van het rapport wordt uiterlijk bij de bekendmaking van de beschikking tot oplegging van de bestuurlijke boete aan de overtreder toegezonden of uitgereikt.
-
-4. Indien van de overtreding een proces-verbaal als bedoeld in [artikel 152 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=152) is opgemaakt, treedt dit voor de toepassing van deze afdeling in de plaats van het rapport.
-
-5. Mandaat tot het opleggen van een bestuurlijke boete van meer dan € 340 wordt niet verleend aan degene die van de overtreding een rapport of proces-verbaal heeft opgemaakt.
-
-6. Indien geen rapport of proces verbaal is opgemaakt, wordt een bestuurlijke boete van ten hoogste € 340 opgelegd.
+Vervallen
 
 ##### Artikel 64
 
-1. Onze Minister stelt de overtreder desgevraagd in de gelegenheid de gegevens waarop het opleggen van de bestuurlijke boete, dan wel het voornemen daartoe, berust, in te zien en daarvan afschriften te vervaardigen.
-
-2. Voor zover blijkt dat de verdediging van de overtreder dit redelijkerwijs vergt, draagt Onze Minister er zoveel mogelijk zorg voor dat deze gegevens aan de overtreder worden medegedeeld in een voor deze begrijpelijke taal.
+Vervallen
 
 ##### Artikel 65
 
-1. Indien de overtreder in de gelegenheid wordt gesteld over het voornemen tot het opleggen van een bestuurlijke boete zijn zienswijze naar voren te brengen:
-
-- a. wordt het rapport reeds bij de uitnodiging daartoe aan de overtreder toegezonden of uitgereikt, en
-
-- b. zorgt Onze Minister voor bijstand door een tolk, indien blijkt dat de verdediging van de overtreder dit redelijkerwijs vergt.
-
-2. Indien Onze Minister nadat de overtreder zijn zienswijze naar voren heeft gebracht, beslist dat:
-
-- a. voor de overtreding geen bestuurlijke boete zal worden opgelegd, of
-
-- b. de overtreding alsnog aan de officier van justitie zal worden voorgelegd, wordt dit schriftelijk aan de overtreder medegedeeld.
-
-3. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) wordt de overtreder steeds in de gelegenheid gesteld zijn zienswijze naar voren te brengen indien de voorgenomen bestuurlijke boete meer dan € 340 bedraagt.
+Vervallen
 
 ##### Artikel 66
 
-1. Degene die wordt verhoord met het oog op het opleggen van een bestuurlijke boete, is niet verplicht ten behoeve daarvan verklaringen omtrent de overtreding af te leggen.
-
-2. De betrokkene wordt hierop gewezen alvorens hem mondeling wordt gevraagd verklaringen af te leggen, en in ieder geval wanneer hij in de gelegenheid wordt gesteld over het voornemen tot oplegging van de bestuurlijke boete zijn zienswijze naar voren te brengen.
+Vervallen
 
 ##### Artikel 67
 
@@ -1368,37 +1296,17 @@ Onze Minister doet over de werking van deze wet telkens na twee jaren een versla
 
 ##### Artikel 69
 
-1. De betaling van de bestuurlijke boete geschiedt binnen zes weken nadat de beschikking, bedoeld in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=3&artikel=68&z=2006-01-01&g=2006-01-01), op de voorgeschreven wijze is bekendgemaakt, tenzij de beschikking een later tijdstip vermeldt.
-
-2. De betaling geschiedt door bijschrijving op de daartoe door Onze Minister bestemde bankrekening.
-
-3. Als tijdstip van betaling geldt de datum van bijschrijving op de bankrekening, bedoeld in het tweede lid.
+Onze Minister kan de bestuurlijke boete verrekenen met te verstrekken subsidies bij of krachtens de [Kaderwet LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194).
 
 ##### Artikel 70
 
-1. Onze Minister kan de persoon aan wie een bestuurlijke boete is opgelegd uitstel van betaling verlenen.
-
-2. Gedurende het uitstel kan Onze Minister niet aanmanen als bedoeld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=4&artikel=72&z=2006-01-01&g=2006-01-01) of invorderen als bedoeld in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=4&artikel=73&z=2006-01-01&g=2006-01-01).
-
-3. De beschikking tot uitstel van betaling vermeldt de termijn waarvoor het uitstel geldt.
-
-4. Onze Minister kan aan de beschikking tot uitstel van betaling voorschriften verbinden.
-
-5. Onze Minister kan de beschikking tot uitstel van betaling intrekken:
-
-- a. indien de voorschriften, bedoeld in het vierde lid, niet zijn nageleefd, of
-
-- b. voorzover veranderde omstandigheden zich tegen voortduring van het uitstel verzetten.
+Vervallen
 
 ### Hoofdstuk VII. Toezicht
 
 ##### Artikel 71
 
-1. De persoon aan wie een bestuurlijke boete is opgelegd, is in verzuim indien hij niet binnen de voorgeschreven termijn heeft betaald.
-
-2. Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de [artikelen 119, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119), en [120 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120).
-
-3. Onze Minister stelt het bedrag van de verschuldigde rente vast.
+Vervallen
 
 ##### Artikel 71a
 
@@ -1406,45 +1314,15 @@ Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de 
 
 ##### Artikel 72
 
-1. Onze Minister maant de persoon aan wie een bestuurlijke boete is opgelegd en die in verzuim is schriftelijk aan tot betaling binnen twee weken gerekend vanaf de dag volgend op de dag waarop de aanmaning is verzonden.
-
-2. De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen.
-
-3. Onze Minister kan voor de aanmaning een vergoeding in rekening brengen. De vergoeding bedraagt € 5 indien de schuld minder dan € 500 bedraagt en € 10 indien de schuld € 500 of meer bedraagt.
-
-4. Indien een vergoeding als bedoeld in het derde lid in rekening wordt gebracht, vermeldt de aanmaning het desbetreffende bedrag.
+Vervallen
 
 ##### Artikel 73
 
-1. Bij gebreke van volledige betaling binnen de in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=4&artikel=69&z=2006-01-01&g=2006-01-01) bedoelde termijn kan Onze Minister de verschuldigde bestuurlijke boete invorderen bij dwangbevel.
-
-2. Een dwangbevel levert een executoriale titel op, die met toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) ten uitvoer kan worden gelegd.
-
-3. De uitvaardiging en betekening van een dwangbevel geschieden op kosten van degene tegen wie het is uitgevaardigd. De kosten zijn ook verschuldigd indien het dwangbevel door betaling van verschuldigde bedragen niet of niet volledig ten uitvoer is gelegd. De kosten die Onze Minister in rekening kan brengen voor het uitvaardigen van het dwangbevel bedragen ten hoogste een bij algemene maatregel van bestuur te bepalen bedrag.
-
-4. Bij het dwangbevel kunnen tevens de aanmaningsvergoeding, de wettelijke rente en de kosten van het dwangbevel in rekening worden gebracht.
-
-5. Het dwangbevel vermeldt in ieder geval:
-
-- a. aan het hoofd het woord «dwangbevel»;
-
-- b. het bedrag van de invorderbare hoofdsom;
-
-- c. de beschikking, bedoeld in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=3&artikel=68&z=2006-01-01&g=2006-01-01);
-
-- d. de kosten van het dwangbevel, en
-
-- e. dat het op kosten van de schuldenaar ten uitvoer kan worden gelegd.
-
-6. Het dwangbevel vermeldt, indien van toepassing:
-
-- a. het bedrag van de aanmaningsvergoeding;
-
-- b. de ingangsdatum van de wettelijke rente.
+Vervallen
 
 ##### Artikel 74
 
-[Artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) is niet van toepassing op de aanmaning, bedoeld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=4&artikel=72&z=2006-01-01&g=2006-01-01), en het dwangbevel, bedoeld in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=VIII&titeldeel=2&paragraaf=4&artikel=73&z=2006-01-01&g=2006-01-01).
+Vervallen
 
 ##### Artikel 74a
 
@@ -1456,9 +1334,7 @@ Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de 
 
 ##### Artikel 75
 
-1. De bekendmaking van een dwangbevel geschiedt door middel van de betekening van een exploot als bedoeld in het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827). De [artikelen 3:41 tot en met 3:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41) zijn niet van toepassing.
-
-2. Het exploot vermeldt in ieder geval de rechtbank waarbij tegen het dwangbevel en de tenuitvoerlegging ervan overeenkomstig de [artikelen 438](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=438) en [438a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=438a) kan worden opgekomen.
+Vervallen
 
 ##### Artikel 76
 
@@ -2532,13 +2408,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 77
 
-[Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&z=2006-01-01&g=2006-01-01) vervalt met ingang van 1 januari 2015.
+[Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&z=2009-07-01&g=2009-07-01) vervalt met ingang van 1 januari 2015.
 
 ##### Artikel 78
 
 Deze wet wordt aangehaald als: Meststoffenwet.
 
-## Bijlage I. behorende bij de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=I&artikel=1&z=2006-01-01&g=2006-01-01), en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=26&z=2006-01-01&g=2006-01-01) van de Meststoffenwet
+## Bijlage I. behorende bij de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=I&artikel=1&z=2009-07-01&g=2009-07-01), en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=4&artikel=26&z=2009-07-01&g=2009-07-01) van de Meststoffenwet
 
 Gebied I omvat, gerekend naar de situatie op 1 januari 1997, het grondgebied van de navolgende gemeenten:
 
@@ -2918,7 +2794,7 @@ Weert
 
 Zundert
 
-## Bijlage II. Behorende bij [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=1&artikel=18&z=2006-01-01&g=2006-01-01) van de Meststoffenwet
+## Bijlage II. Behorende bij [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&hoofdstuk=V&titeldeel=1&artikel=18&z=2009-07-01&g=2009-07-01) van de Meststoffenwet
 
 | Diersoorten | Onderscheiden categorieën dieren binnen de diersoorten | Aantal varkenseenheden (ve), onderscheidenlijk pluimvee-eenheden (pe) per dier van de onderscheiden diercategorieën per jaar: |
 | --- | --- | --- |
