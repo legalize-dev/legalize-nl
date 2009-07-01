@@ -4,7 +4,7 @@ identifier: "BWBR0004287"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "1995-05-17"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004287"
 soort: "wet"
@@ -43,13 +43,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Vanwege de regering wordt voorzien in de uitgifte van het **Staatsblad** van het Koninkrijk der Nederlanden en in de uitgifte van de **Nederlandse Staatscourant**.
+1. De regering geeft het Staatsblad en de Staatscourant uit.
+
+2. De uitgifte van het Staatsblad en de Staatscourant geschiedt elektronisch op een algemeen toegankelijke wijze.
+
+3. Na de uitgifte blijven het Staatsblad en de Staatscourant elektronisch op een algemeen toegankelijke wijze beschikbaar.
+
+4. Voor het inzien van het Staatsblad en de Staatscourant worden geen kosten in rekening gebracht.
+
+5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de uitgifte en het beschikbaar blijven van het Staatsblad en de Staatscourant.
 
 ##### Artikel 2
 
 1. De zorg voor de uitgifte van het **Staatsblad** berust bij Onze Minister van Justitie.
 
-2. De zorg voor de uitgifte van de **Staatscourant** berust bij Onze Minister van Binnenlandse Zaken.
+2. De zorg voor de uitgifte van de **Staatscourant** berust bij Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 3
 
@@ -65,7 +73,7 @@ geschiedt door plaatsing in het **Staatsblad**.
 
 ##### Artikel 4
 
-1. De bekendmaking van:
+De bekendmaking van:
 
 - a. bij ministeriële regeling vastgestelde algemeen verbindende voorschriften en
 
@@ -73,15 +81,9 @@ geschiedt door plaatsing in het **Staatsblad**.
 
 geschiedt door plaatsing in de **Staatscourant**.
 
-2. Een voorschrift als in het eerste lid bedoeld, kan bepalen dat bekendmaking geheel of gedeeltelijk geschiedt door plaatsing in een bijlage bij de **Staatscourant**. Van zodanige bekendmaking wordt mededeling gedaan in de **Staatscourant**.
-
 ##### Artikel 5
 
-1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4&z=1995-05-17&g=1995-05-17) kan een voorschrift als daar bedoeld, bepalen:
-
-- a. dat het wordt bekendgemaakt door plaatsing in een ander vanwege de overheid algemeen verkrijgbaar gesteld publikatieblad, en
-
-- b. dat een bij het voorschrift behorende bijlage wordt bekendgemaakt door terinzagelegging.
+1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=3&z=2009-07-01&g=2009-07-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4&z=2009-07-01&g=2009-07-01) kan een wet, algemene maatregel van bestuur of vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgesteld algemeen verbindend voorschrift bepalen dat een bij het voorschrift behorende bijlage wordt bekendgemaakt door terinzagelegging.
 
 2. Van een bekendmaking als in het eerste lid bedoeld, wordt mededeling gedaan in de **Staatscourant**.
 
@@ -105,18 +107,26 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking t
 
 ##### Artikel 9
 
-1. Het souverein besluit van 18 december 1813 (**Stb.** 1814, 1), betrekkelijk de daarstelling van een **Staatsblad der Vereenigde Nederlanden**, het souverein besluit van 18 december 1813 (Bijvoegsel tot het **Staatsblad van het Koningrijk der Nederlanden** 1813-1814, bladzijde 29), houdende, dat er van gouvernementswege een **Nederlandsche-Staats-Courant** zal worden uitgegeven, de Wet van 26 april 1852 (**Stb.** 92), houdende regeling der afkondiging van algemeene maatregelen van inwendig bestuur van de Staat, en het koninklijk besluit van 22 december 1863 (**Stb.** 149), ter nadere regeling van de wijze en de vorm van afkondiging van wetten en Koninklijke besluiten, worden ingetrokken.
-
-2. De artikelen 1 en 2 van de Wet van 15 mei 1829 (Stb. 28), houdende algemeene bepalingen der wetgeving van het Koningrijk, vervallen.
+Indien elektronische uitgifte van het Staatsblad onderscheidenlijk van de Staatscourant op de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2009-07-01&g=2009-07-01) voorziene wijze geheel of gedeeltelijk onmogelijk is, voorziet Onze Minister van Justitie onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in een vervangende uitgave volgens bij ministeriële regeling te stellen regels.
 
 ##### Artikel 10
 
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+1. Aan een ieder wordt op verzoek een papieren afschrift van het Staatsblad onderscheidenlijk de Staatscourant verstrekt tegen ten hoogste de kosten van het maken van een zodanig afschrift.
 
-2. Op datzelfde tijdstip eindigt de termijn, bedoeld in additioneel artikel XX van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840).
+2. Onze Minister van Justitie onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wijst een uitgiftepunt aan waar het in het eerste lid bedoelde afschrift van het Staatsblad onderscheidenlijk de Staatscourant verkregen kan worden.
 
 ##### Artikel 11
 
 Deze wet kan worden aangehaald als: Bekendmakingswet.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 10a
+
+1. De teksten van wetten, algemene maatregelen van bestuur en vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften zijn in geconsolideerde vorm voor een ieder beschikbaar door middel van een bij algemene maatregel van bestuur aangewezen algemeen toegankelijk elektronisch medium.
+
+2. Bij algemene maatregel van bestuur kunnen categorieën van algemeen verbindende voorschriften worden aangewezen, waarop het eerste lid niet van toepassing is.
+
+3. Een geconsolideerde tekst van een regeling die op grond van het eerste lid beschikbaar is gesteld, blijft beschikbaar indien de regeling na de beschikbaarstelling is gewijzigd of ingetrokken.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
