@@ -4,7 +4,7 @@ identifier: "BWBR0002645"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002645"
 soort: "wet"
@@ -43,7 +43,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Ter zake van het verrichten van werkzaamheden voor de invordering van bedragen door de zorg van een inzake rijksbelastingen bevoegde ontvanger en door een belastingdeurwaarder op grond van de bepalingen van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) of enige andere wettelijke bepaling worden aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen, kosten in rekening gebracht volgens het bepaalde in de volgende artikelen.
+In afwijking van de[afdelingen 4.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.4) en [4.4.5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.5) worden ter zake van het verrichten van werkzaamheden voor de invordering van bedragen door de zorg van een inzake rijksbelastingen bevoegde ontvanger en door een belastingdeurwaarder op grond van de bepalingen van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) of enige andere wettelijke bepaling aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen, kosten in rekening gebracht volgens het bepaalde in de volgende artikelen.
 
 ##### Artikel 2
 
@@ -105,7 +105,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 8
 
-1. Bij het begin van het kalenderjaar worden het eerste en het derde bedrag, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=2&z=2009-01-01&g=2009-01-01), het eerste, het tweede en het vijfde bedrag, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2009-01-01&g=2009-01-01), de bedragen, genoemd in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2009-01-01&g=2009-01-01), en de bedragen, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=4&z=2009-01-01&g=2009-01-01), bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de correctiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
+1. Bij het begin van het kalenderjaar worden het eerste en het derde bedrag, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=2&z=2009-07-01&g=2009-07-01), het eerste, het tweede en het vijfde bedrag, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2009-07-01&g=2009-07-01), de bedragen, genoemd in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2009-07-01&g=2009-07-01), en de bedragen, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=4&z=2009-07-01&g=2009-07-01), bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de correctiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
 
 2. De correctiefactor is de verhouding van het gemiddelde van de indexcijfers van de achttiende tot en met de zevende aan het kalenderjaar voorafgaande maand, tot het gemiddelde van de indexcijfers van de dertigste tot en met de negentiende aan het kalenderjaar voorafgaande maand.
 
