@@ -4,7 +4,7 @@ identifier: "BWBR0006715"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-07-01"
-last_updated: "1998-12-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006715"
 soort: "AMvB"
@@ -61,7 +61,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. In dit besluit en de daarop berustende bepalingen worden onder een zeeschip verstaan de volgende schepen met een metalen casco en een eindprijs van ten minste f 4 000 000,00:
+1. In dit besluit en de daarop berustende bepalingen worden onder een zeeschip verstaan de volgende schepen met een metalen casco en een eindprijs van ten minste € 1.815.120,86:
 
 - a. een koopvaardijschip, bestemd voor het vervoer van passagiers of goederen, met een bruto tonnage van ten minste 100;
 
@@ -81,7 +81,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-1. Onze Minister verstrekt op aanvraag een subsidie aan een ondernemer ter zake van een opdracht voor de bouw in Nederland van een zeeschip, die aan hem is verstrekt in het jaar waarin laatstelijk voor hem een budget als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=2&artikel=5&z=1998-12-01&g=1998-12-01) is vastgesteld dan wel het daaraan voorafgaande kalenderjaar.
+1. Onze Minister verstrekt op aanvraag een subsidie aan een ondernemer ter zake van een opdracht voor de bouw in Nederland van een zeeschip, die aan hem is verstrekt in het jaar waarin laatstelijk voor hem een budget als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=2&artikel=5&z=2009-07-01&g=2009-07-01) is vastgesteld dan wel het daaraan voorafgaande kalenderjaar.
 
 2. Onder een opdracht als bedoeld in het eerste lid wordt niet begrepen:
 
@@ -105,7 +105,7 @@ Onze Minister stelt ieder begrotingsjaar bij ministeriële regeling een subsidie
 
 - b. ter zake van het als onderaannemer in Nederland uitvoeren van een opdracht voor het voor ten minste 90 procent bouwen van een zeeschip.
 
-3. Het budget bedraagt een gedeelte van het ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=1&artikel=4&z=1998-12-01&g=1998-12-01) beschikbare bedrag, dat evenredig is met het aandeel van de gemiddelde gewogen productiewaarde van de aanvrager in de totale gemiddelde gewogen productiewaarden van allen, die een aanvraag om vaststelling van een budget hebben ingediend en die voldoen aan het tweede lid.
+3. Het budget bedraagt een gedeelte van het ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01) beschikbare bedrag, dat evenredig is met het aandeel van de gemiddelde gewogen productiewaarde van de aanvrager in de totale gemiddelde gewogen productiewaarden van allen, die een aanvraag om vaststelling van een budget hebben ingediend en die voldoen aan het tweede lid.
 
 4. Onder de productiewaarde wordt verstaan het overeenkomstig [artikel 377, derde lid, aanhef en onder **a** en **b**, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) bepaalde bedrag:
 
@@ -113,7 +113,7 @@ Onze Minister stelt ieder begrotingsjaar bij ministeriële regeling een subsidie
 
 - b. ter zake van het als onderaannemer in Nederland uitvoeren van opdrachten voor de bouw van in Nederland te bouwen zeeschepen of delen daarvan.
 
-5. De gewogen productiewaarde van een aanvrager wordt bepaald door voor ieder van de in de drie kalenderjaren, die voorafgaan aan het jaar dat voorafgaat aan het jaar waarop de aanvraag betrekking heeft, onder handen zijnde opdrachten de productiewaarde, voor zover gerealiseerd in dat kalenderjaar, te vermenigvuldigen met een percentage. Dit percentage is afhankelijk van de eindprijs van de desbetreffende opdracht en komt overeen met de ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=3&artikel=11&z=1998-12-01&g=1998-12-01) vastgestelde percentages, met dien verstande dat voor opdrachten met een eindprijs van minder dan f 4 000 000,00 het percentage van 4,5 geldt. De bij elkaar opgetelde uitkomsten van deze vermenigvuldigingen vormen de gewogen produktiewaarde voor dat kalenderjaar.
+5. De gewogen productiewaarde van een aanvrager wordt bepaald door voor ieder van de in de drie kalenderjaren, die voorafgaan aan het jaar dat voorafgaat aan het jaar waarop de aanvraag betrekking heeft, onder handen zijnde opdrachten de productiewaarde, voor zover gerealiseerd in dat kalenderjaar, te vermenigvuldigen met een percentage. Dit percentage is afhankelijk van de eindprijs van de desbetreffende opdracht en komt overeen met de ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=3&artikel=11&z=2009-07-01&g=2009-07-01) vastgestelde percentages, met dien verstande dat voor opdrachten met een eindprijs van minder dan € 1.815.120,86 het percentage van 4,5 geldt. De bij elkaar opgetelde uitkomsten van deze vermenigvuldigingen vormen de gewogen produktiewaarde voor dat kalenderjaar.
 
 6. De gemiddelde gewogen productiewaarde van een aanvrager is het gemiddelde van de gewogen productiewaarden, die hij heeft gerealiseerd in de twee van de drie in het vijfde lid genoemde kalenderjaren waarin hij de hoogste gewogen productiewaarden heeft gerealiseerd.
 
@@ -129,7 +129,7 @@ Vervallen
 
 ##### Artikel 8
 
-Onze Minister geeft op de aanvragen om vaststelling van een budget een beschikking binnen 4 weken na de ingevolge [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=2&artikel=6&z=1998-12-01&g=1998-12-01), vastgestelde datum.
+Onze Minister geeft op de aanvragen om vaststelling van een budget een beschikking binnen 4 weken na de ingevolge [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=2&artikel=6&z=2009-07-01&g=2009-07-01), vastgestelde datum.
 
 ##### Artikel 9
 
@@ -145,13 +145,13 @@ Vervallen
 
 ##### Artikel 11
 
-De subsidie bedraagt een bedrag in guldens ter grootte van een door Onze Minister bij ministeriële regeling vast te stellen percentage van een door de aanvrager te bepalen gedeelte van de eindprijs. Dit percentage kan verschillen voor opdrachten met een verschillende eindprijs, voor zeeschepen met een verschillend bruto-tonnage en voor verschillende, in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=1&artikel=2&z=1998-12-01&g=1998-12-01), onderscheiden categorieën zeeschepen.
+De subsidie bedraagt een bedrag in euro’s ter grootte van een door Onze Minister bij ministeriële regeling vast te stellen percentage van een door de aanvrager te bepalen gedeelte van de eindprijs. Dit percentage kan verschillen voor opdrachten met een verschillende eindprijs, voor zeeschepen met een verschillend bruto-tonnage en voor verschillende, in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=1&artikel=2&z=2009-07-01&g=2009-07-01), onderscheiden categorieën zeeschepen.
 
 #### Paragraaf 4. Aanvraag om subsidie en beslissing op de aanvraag
 
 ##### Artikel 12
 
-Een aanvraag om subsidie wordt ingediend vóór een door Onze Minister bij ministeriële regeling vastgestelde datum in het begrotingsjaar waarvoor Onze Minister laatstelijk op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=1&artikel=4&z=1998-12-01&g=1998-12-01) een subsidieplafond heeft vastgesteld.
+Een aanvraag om subsidie wordt ingediend vóór een door Onze Minister bij ministeriële regeling vastgestelde datum in het begrotingsjaar waarvoor Onze Minister laatstelijk op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01) een subsidieplafond heeft vastgesteld.
 
 ##### Artikel 13
 
@@ -165,7 +165,7 @@ Onze Minister geeft op een aanvraag om subsidie een beschikking binnen dertien w
 
 Onze Minister beslist in ieder geval afwijzend op een aanvraag:
 
-- a. indien ten tijde van het geven van de beschikking ten behoeve van of mede ten behoeve van de aanvrager geen budget is vastgesteld als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=2&artikel=5&z=1998-12-01&g=1998-12-01);
+- a. indien ten tijde van het geven van de beschikking ten behoeve van of mede ten behoeve van de aanvrager geen budget is vastgesteld als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=2&artikel=5&z=2009-07-01&g=2009-07-01);
 
 - b. voor zover zodanig budget is uitgeput door eerdere subsidietoezeggingen;
 
@@ -179,7 +179,7 @@ Vervallen
 
 ##### Artikel 17
 
-Op de subsidie-ontvanger rusten de in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=5&artikel=18&z=1998-12-01&g=1998-12-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=5&artikel=19&z=1998-12-01&g=1998-12-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=5&artikel=20&z=1998-12-01&g=1998-12-01) opgenomen verplichtingen.
+Op de subsidie-ontvanger rusten de in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=5&artikel=18&z=2009-07-01&g=2009-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=5&artikel=19&z=2009-07-01&g=2009-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=5&artikel=20&z=2009-07-01&g=2009-07-01) opgenomen verplichtingen.
 
 ##### Artikel 18
 
@@ -203,7 +203,7 @@ Op de subsidie-ontvanger rusten de in de [artikelen 18](https://wetten.overheid.
 
 ##### Artikel 21
 
-1. Op een subsidie ter zake waarvan een beschikking tot subsidieverlening geldt kan op aanvraag van de subsidie-ontvanger door Onze Minister een voorschot worden verstrekt na de datum van de kiellegging of een gelijkwaardig stadium van de bouw.
+1. Voorschotten kunnen eerst na de datum van de kiellegging of een gelijkwaardig stadium van bouw, op aanvraag van de subsidie-ontvanger door Onze Minister worden verstrekt op een subsidie ter zake waarvan een beschikking tot subsidieverlening geldt.
 
 2. Het voorschot bedraagt 80 procent van het bij de subsidieverlening vermelde maximale subsidiebedrag.
 
