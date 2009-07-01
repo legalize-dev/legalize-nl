@@ -4,7 +4,7 @@ identifier: "BWBR0023746"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2009-05-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023746"
 soort: "wet"
@@ -67,7 +67,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. De bepalingen bij of krachtens deze wet strekken mede tot uitvoering van gemeenschappelijke optredens, gemeenschappelijke standpunten, kaderbesluiten, besluiten en overeenkomsten die zijn aangenomen dan wel vastgesteld door de Raad van de Europese Unie, voorzover deze betrekking hebben op goederen en goederenverkeer en voorts onderwerpen betreffen die vallen onder de reikwijdte van een of meer regelingen als bedoeld in de bijlage bij deze wet.
 
-5. De bepalingen bij of krachtens deze wet strekken mede ter handhaving van verboden of beperkingen die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van, het douanegebied van de Gemeenschap dan wel de gebieden, bedoeld in [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:2&z=2009-05-01&g=2009-05-01), of bij het kiezen van een douanebestemming van toepassing zijn of zouden zijn bij of krachtens een communautair of ander wettelijk voorschrift dat is opgenomen in de bijlage bij deze wet.
+5. De bepalingen bij of krachtens deze wet strekken mede ter handhaving van verboden of beperkingen die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van, het douanegebied van de Gemeenschap dan wel de gebieden, bedoeld in [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:2&z=2009-07-01&g=2009-07-01), of bij het kiezen van een douanebestemming van toepassing zijn of zouden zijn bij of krachtens een communautair of ander wettelijk voorschrift dat is opgenomen in de bijlage bij deze wet.
 
 6. Bij algemene maatregel van bestuur kunnen wijzigingen worden aangebracht in de bijlage bij deze wet.
 
@@ -97,11 +97,11 @@ Deze wet is van toepassing op het grondgebied van Nederland met inbegrip van zij
 
 3. Wanneer de regeling, bedoeld in het eerste lid, onderdeel c, een aanwijzing betreft van een functionaris die niet ressorteert onder de rijksbelastingdienst, is in elk geval uitgezonderd:
 
-- a. indien het een aanwijzing betreft ter zake van taken in het kader van de [Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659) of de [Wet vervoer over zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003528), de bevoegdheden, bedoeld in de [artikelen 1:30](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:30&z=2009-05-01&g=2009-05-01), [1:36](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:36&z=2009-05-01&g=2009-05-01) en [1:37](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:37&z=2009-05-01&g=2009-05-01);
+- a. indien het een aanwijzing betreft ter zake van taken in het kader van de [Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659) of de [Wet vervoer over zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003528), de bevoegdheden, bedoeld in de [artikelen 1:30](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:30&z=2009-07-01&g=2009-07-01), [1:36](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:36&z=2009-07-01&g=2009-07-01) en [1:37](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:37&z=2009-07-01&g=2009-07-01);
 
-- b. indien het een aanwijzing betreft ter zake van andere taken dan bedoeld in onderdeel a, de bevoegdheden, bedoeld in de [artikelen 1:26](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:26&z=2009-05-01&g=2009-05-01), [1:28](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:28&z=2009-05-01&g=2009-05-01), [1:30](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:30&z=2009-05-01&g=2009-05-01), [1:36](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:36&z=2009-05-01&g=2009-05-01) en [1:37](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:37&z=2009-05-01&g=2009-05-01);
+- b. indien het een aanwijzing betreft ter zake van andere taken dan bedoeld in onderdeel a, de bevoegdheden, bedoeld in de [artikelen 1:26](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:26&z=2009-07-01&g=2009-07-01), [1:28](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:28&z=2009-07-01&g=2009-07-01), [1:30](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:30&z=2009-07-01&g=2009-07-01), [1:36](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:36&z=2009-07-01&g=2009-07-01) en [1:37](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:37&z=2009-07-01&g=2009-07-01);
 
-- c. de bevoegdheid, bedoeld in [artikel 1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:23&z=2009-05-01&g=2009-05-01), indien de plaats een woning betreft.
+- c. de bevoegdheid, bedoeld in [artikel 1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:23&z=2009-07-01&g=2009-07-01), indien de plaats een woning betreft.
 
 4. Het derde lid, onderdeel c, is niet van toepassing indien het betreft een controle ter zake van de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402), de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734), de [Uitvoeringswet verdrag chemische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0007434), de [Waarborgwet 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0009275), de [Destructiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002244), de [Diergeneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003818), de [Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662), de [Kaderwet diervoeders](https://wetten.overheid.nl/jci1.3:c:BWBR0015764), de [Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659), de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682), de [Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975), de [Wet vervoer over zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003528), de [Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124), de [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642), de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227), de [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892) en de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
@@ -113,9 +113,9 @@ Deze wet is van toepassing op het grondgebied van Nederland met inbegrip van zij
 
 ##### Artikel 1:4
 
-1. Bij of krachtens algemene maatregel van bestuur kunnen, ter uitwerking van interregionaal recht, het Koninkrijk verbindende verdragen en in al hun onderdelen verbindende besluiten van bij zodanige verdragen opgerichte volkenrechtelijke organisaties, regels van uitvoerende aard worden gesteld, die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van de gebieden, bedoeld in [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:2&z=2009-05-01&g=2009-05-01), van toepassing zijn.
+1. Bij of krachtens algemene maatregel van bestuur kunnen, ter uitwerking van interregionaal recht, het Koninkrijk verbindende verdragen en in al hun onderdelen verbindende besluiten van bij zodanige verdragen opgerichte volkenrechtelijke organisaties, regels van uitvoerende aard worden gesteld, die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van de gebieden, bedoeld in [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:2&z=2009-07-01&g=2009-07-01), van toepassing zijn.
 
-2. Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur kunnen, met betrekking tot de uitvoering van gemeenschappelijke optredens, gemeenschappelijke standpunten, kaderbesluiten, besluiten en overeenkomsten die zijn aangenomen dan wel vastgesteld door de Raad van de Europese Unie, regels van uitvoerende aard worden gesteld, die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van de gebieden, bedoeld in [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:2&z=2009-05-01&g=2009-05-01), van toepassing zijn.
+2. Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur kunnen, met betrekking tot de uitvoering van gemeenschappelijke optredens, gemeenschappelijke standpunten, kaderbesluiten, besluiten en overeenkomsten die zijn aangenomen dan wel vastgesteld door de Raad van de Europese Unie, regels van uitvoerende aard worden gesteld, die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van de gebieden, bedoeld in [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:2&z=2009-07-01&g=2009-07-01), van toepassing zijn.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter uitwerking van regelingen van internationaal recht tot het verlenen van wederzijdse administratieve bijstand.
 
@@ -123,13 +123,13 @@ Deze wet is van toepassing op het grondgebied van Nederland met inbegrip van zij
 
 ##### Artikel 1:5
 
-Bij de toepassing van de bepalingen bij of krachtens deze wet ingevolge [artikel 1:1, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-05-01&g=2009-05-01), zijn de bepalingen van Titel I, Titel II, hoofdstukken 1 en 2, afdeling 1, Titel VIII en Titel IX, hoofdstuk 2, van het Communautair douanewetboek en Deel I, Titels I tot en met IV, hoofdstuk 1, van de toepassingsverordening Communautair douanewetboek van overeenkomstige toepassing.
+Bij de toepassing van de bepalingen bij of krachtens deze wet ingevolge [artikel 1:1, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-07-01&g=2009-07-01), zijn de bepalingen van Titel I, Titel II, hoofdstukken 1 en 2, afdeling 1, Titel VIII en Titel IX, hoofdstuk 2, van het Communautair douanewetboek en Deel I, Titels I tot en met IV, hoofdstuk 1, van de toepassingsverordening Communautair douanewetboek van overeenkomstige toepassing.
 
 ##### Artikel 1:6
 
 1. [Afdeling 2.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=2.2) is niet van toepassing.
 
-2. Voor de toepassing van de bepalingen gesteld bij of krachtens deze wet blijft de [afdeling 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.2) buiten toepassing.
+2. Voor de toepassing van de bepalingen gesteld bij of krachtens deze wet blijft de [titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) buiten toepassing.
 
 ##### Artikel 1:7
 
@@ -153,7 +153,7 @@ De [artikelen 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:1) 
 
 ##### Artikel 1:10
 
-Van de mogelijkheid om bij het doen van een douaneaangifte als indirecte vertegenwoordiger op te treden als bedoeld in artikel 5, tweede lid, van het Communautair douanewetboek kan slechts gebruik worden gemaakt door een douane-expediteur als bedoeld in [artikel 1:9](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.1&artikel=1:9&z=2009-05-01&g=2009-05-01). Hij dient daartoe schriftelijk door zijn opdrachtgever te zijn gemachtigd.
+Van de mogelijkheid om bij het doen van een douaneaangifte als indirecte vertegenwoordiger op te treden als bedoeld in artikel 5, tweede lid, van het Communautair douanewetboek kan slechts gebruik worden gemaakt door een douane-expediteur als bedoeld in [artikel 1:9](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.1&artikel=1:9&z=2009-07-01&g=2009-07-01). Hij dient daartoe schriftelijk door zijn opdrachtgever te zijn gemachtigd.
 
 ##### Artikel 1:11
 
@@ -199,7 +199,7 @@ Deze paragraaf is niet van toepassing op strafvordering.
 
 1. Een beschikking als bedoeld in artikel 4, aanhef en onder 5, van het Communautair douanewetboek wordt gelijkgesteld met een beschikking als bedoeld in [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
-2. De toestemming gegeven door de ambtenaar, bedoeld in [artikel 1:28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:28&z=2009-05-01&g=2009-05-01), wordt aangemerkt als een beschikking genomen door de inspecteur.
+2. De toestemming gegeven door de ambtenaar, bedoeld in [artikel 1:28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:28&z=2009-07-01&g=2009-07-01), wordt aangemerkt als een beschikking genomen door de inspecteur.
 
 3. Het doen van aangifte is geen aanvraag in de zin van [artikel 1:3, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
@@ -293,7 +293,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijk
 
 - a. gebouwen, niet zijnde woningen, en terreinen:
 
-- –. ten aanzien waarvan ingevolge het bepaalde bij of krachtens de in [artikel 1:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-05-01&g=2009-05-01), bedoelde regelingen een beschikking is genomen;
+- –. ten aanzien waarvan ingevolge het bepaalde bij of krachtens de in [artikel 1:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-07-01&g=2009-07-01), bedoelde regelingen een beschikking is genomen;
 
 - –. die erkend zijn als grensinspectiepost als bedoeld in artikel 2, tweede lid, onderdeel g, van [richtlijn 97/78/EG](31997L0078) van de Raad van 18 december 1997 tot vaststelling van de beginselen voor de organisatie van de veterinaire controles voor producten die uit derde landen in de Gemeenschap worden binnengebracht (PbEG L 24, 1998);
 
@@ -301,7 +301,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijk
 
 - b. gebouwen, niet zijnde woningen, en terreinen alwaar zich goederen bevinden:
 
-- –. ten aanzien waarvan ingevolge het bepaalde bij of krachtens de in [artikel 1:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-05-01&g=2009-05-01), bedoelde regelingen een beschikking is genomen;
+- –. ten aanzien waarvan ingevolge het bepaalde bij of krachtens de in [artikel 1:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-07-01&g=2009-07-01), bedoelde regelingen een beschikking is genomen;
 
 - –. waarvoor een invoer- of uitvoervergunning is afgegeven, dan wel waarvoor een dergelijke vergunning is aangevraagd;
 
@@ -313,13 +313,13 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijk
 
 ##### Artikel 1:27
 
-1. De inspecteur is bevoegd met het oog op de uitoefening van de bevoegdheden, bedoeld in de [artikelen 1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:23&z=2009-05-01&g=2009-05-01), [1:24](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:24&z=2009-05-01&g=2009-05-01) dan wel [1:26, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:26&z=2009-05-01&g=2009-05-01), van de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt.
+1. De inspecteur is bevoegd met het oog op de uitoefening van de bevoegdheden, bedoeld in de [artikelen 1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:23&z=2009-07-01&g=2009-07-01), [1:24](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:24&z=2009-07-01&g=2009-07-01) dan wel [1:26, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:26&z=2009-07-01&g=2009-07-01), van de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt.
 
 2. Bij regeling van Onze Minister van Justitie wordt bepaald op welke wijze de vordering tot stilhouden wordt gedaan.
 
 ##### Artikel 1:28
 
-1. De inspecteur is bevoegd personen die aanwezig zijn in of op de in [artikel 1:26](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:26&z=2009-05-01&g=2009-05-01) bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan lijfsvisitatie te onderwerpen.
+1. De inspecteur is bevoegd personen die aanwezig zijn in of op de in [artikel 1:26](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:26&z=2009-07-01&g=2009-07-01) bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan lijfsvisitatie te onderwerpen.
 
 2. De in het eerste lid bedoelde personen zijn op vordering van de inspecteur gehouden stil te staan en deze te volgen naar een door hem aangewezen plaats.
 
@@ -365,23 +365,23 @@ Onze Minister van Financiën is bevoegd, na overleg met Onze Minister wie het me
 
 ##### Artikel 1:31
 
-1. Het nemen van de nodige maatregelen, bedoeld in de artikelen 53, eerste lid, 57, 75, 78, derde lid, en 89, tweede lid, van het Communautair douanewetboek, wordt aangemerkt als het toepassen van bestuursdwang.
+1. Het nemen van de nodige maatregelen, bedoeld in de artikelen 53, eerste lid, 57, 75, 78, derde lid, en 89, tweede lid, van het Communautair douanewetboek, wordt aangemerkt als het opleggen van een last onder bestuursdwang.
 
-2. Onverminderd het eerste lid is de inspecteur bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-05-01&g=2009-05-01) bedoelde regelingen of bij of krachtens deze wet gestelde verplichtingen.
+2. Onverminderd het eerste lid is de inspecteur bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-07-01&g=2009-07-01) bedoelde regelingen of bij of krachtens deze wet gestelde verplichtingen.
 
 ##### Artikel 1:32
 
-1. Onverminderd [artikel 1:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:5&z=2009-05-01&g=2009-05-01) van deze wet en de communautaire bepalingen ter zake, zijn [artikel 15i van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15i) en de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10) en [24 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24) van overeenkomstige toepassing:
+1. Onverminderd [artikel 1:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:5&z=2009-07-01&g=2009-07-01) van deze wet en de communautaire bepalingen ter zake, zijn [artikel 15i van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15i) en de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10) en [24 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24) van overeenkomstige toepassing:
 
 - a. op de rechten en verplichtingen voortvloeiend uit het bepaalde bij of krachtens:
 
-- 1°. de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-05-01&g=2009-05-01) bedoelde regelingen;
+- 1°. de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-07-01&g=2009-07-01) bedoelde regelingen;
 
 - 2°. deze wet;
 
 - b. op overige van belang zijnde gegevens voor de toepassing van het bepaalde bij of krachtens:
 
-- 1°. de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-05-01&g=2009-05-01) bedoelde regelingen;
+- 1°. de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-07-01&g=2009-07-01) bedoelde regelingen;
 
 - 2°. deze wet.
 
@@ -391,17 +391,17 @@ Onze Minister van Financiën is bevoegd, na overleg met Onze Minister wie het me
 
 ##### Artikel 1:33
 
-1. Onze Ministers, openbare lichamen en rechtspersonen die bij of krachtens een bijzondere wet rechtspersoonlijkheid hebben verkregen, de onder hen ressorterende instellingen en diensten, alsmede personen die hoofdzakelijk uitvoering geven aan het beleid van het Rijk, verschaffen kosteloos, mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur –, de gegevens en inlichtingen, die hun door de inspecteur worden gevraagd voor de uitvoering van het bepaalde bij of krachtens de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-05-01&g=2009-05-01) bedoelde regelingen dan wel voor de uitvoering van het bepaalde bij of krachtens deze wet.
+1. Onze Ministers, openbare lichamen en rechtspersonen die bij of krachtens een bijzondere wet rechtspersoonlijkheid hebben verkregen, de onder hen ressorterende instellingen en diensten, alsmede personen die hoofdzakelijk uitvoering geven aan het beleid van het Rijk, verschaffen kosteloos, mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur –, de gegevens en inlichtingen, die hun door de inspecteur worden gevraagd voor de uitvoering van het bepaalde bij of krachtens de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-07-01&g=2009-07-01) bedoelde regelingen dan wel voor de uitvoering van het bepaalde bij of krachtens deze wet.
 
 2. Onze Minister van Financiën kan, op verzoek, ontheffing verlenen van de in het eerste lid omschreven verplichting.
 
-3. De inspecteur verstrekt kosteloos mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur – de gegevens en inlichtingen aan Onze Ministers, openbare lichamen en rechtspersonen die bij of krachtens een bijzondere wet rechtspersoonlijkheid hebben verkregen, de onder hen ressorterende instellingen en diensten, alsmede personen die hoofdzakelijk uitvoering geven aan het beleid van het Rijk voorzover deze noodzakelijk zijn voor de uitvoering van het bepaalde bij of krachtens de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-05-01&g=2009-05-01) bedoelde regelingen dan wel voor de uitvoering van het bepaalde bij of krachtens deze wet.
+3. De inspecteur verstrekt kosteloos mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur – de gegevens en inlichtingen aan Onze Ministers, openbare lichamen en rechtspersonen die bij of krachtens een bijzondere wet rechtspersoonlijkheid hebben verkregen, de onder hen ressorterende instellingen en diensten, alsmede personen die hoofdzakelijk uitvoering geven aan het beleid van het Rijk voorzover deze noodzakelijk zijn voor de uitvoering van het bepaalde bij of krachtens de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-07-01&g=2009-07-01) bedoelde regelingen dan wel voor de uitvoering van het bepaalde bij of krachtens deze wet.
 
 4. De inspecteur verstrekt kosteloos mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur – de gegevens en inlichtingen aan de douaneautoriteiten van de lidstaten of de Commissie van de Europese Gemeenschappen, bedoeld in artikel 13, vierde lid, van het Communautair douanewetboek.
 
 ##### Artikel 1:34
 
-Een ieder die de leeftijd van veertien jaar heeft bereikt, is, indien dit voor de toepassing van de bij of krachtens de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-05-01&g=2009-05-01) bedoelde regelingen of de bij of krachtens deze wet vastgestelde bepalingen te zijnen aanzien van belang kan zijn, verplicht op vordering van de inspecteur terstond een identificatiebewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aan te bieden.
+Een ieder die de leeftijd van veertien jaar heeft bereikt, is, indien dit voor de toepassing van de bij of krachtens de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-07-01&g=2009-07-01) bedoelde regelingen of de bij of krachtens deze wet vastgestelde bepalingen te zijnen aanzien van belang kan zijn, verplicht op vordering van de inspecteur terstond een identificatiebewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aan te bieden.
 
 ##### Artikel 1:35
 
@@ -415,7 +415,7 @@ Bij verificatie van een aangifte worden de resultaten van het onderzoek van de g
 
 ##### Artikel 1:37
 
-1. Vervoermiddelen, kennelijk ingericht of toegerust om goederen aan het ambtelijk toezicht te onttrekken of om tot het nakomen van de op grond van [artikel 1:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:27&z=2009-05-01&g=2009-05-01), genomen dwangmaatregelen te verijdelen, zomede alle andere voorwerpen, kennelijk bestemd om goederen aan het ambtelijk toezicht te onttrekken of om een vervoermiddel tot een van de hiervoor omschreven doeleinden in te richten of toe te rusten, worden in beslag genomen.
+1. Vervoermiddelen, kennelijk ingericht of toegerust om goederen aan het ambtelijk toezicht te onttrekken of om tot het nakomen van de op grond van [artikel 1:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:27&z=2009-07-01&g=2009-07-01), genomen dwangmaatregelen te verijdelen, zomede alle andere voorwerpen, kennelijk bestemd om goederen aan het ambtelijk toezicht te onttrekken of om een vervoermiddel tot een van de hiervoor omschreven doeleinden in te richten of toe te rusten, worden in beslag genomen.
 
 2. Tot inbeslagneming krachtens het eerste lid zijn, behalve de inspecteur, bevoegd de bij of ingevolge [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) aangewezen personen.
 
@@ -485,7 +485,7 @@ Goederen aangevoerd uit zee of door de lucht worden, behoudens tegenbewijs, geac
 
 ##### Artikel 3:1
 
-Onverminderd de communautaire bepalingen ter zake kunnen bij of krachtens algemene maatregel van bestuur verboden of beperkingen ten aanzien van goederen worden vastgesteld, die bij het binnenbrengen in, onderscheidenlijk verlaten van de gebieden, bedoeld in [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:2&z=2009-05-01&g=2009-05-01), van toepassing zijn.
+Onverminderd de communautaire bepalingen ter zake kunnen bij of krachtens algemene maatregel van bestuur verboden of beperkingen ten aanzien van goederen worden vastgesteld, die bij het binnenbrengen in, onderscheidenlijk verlaten van de gebieden, bedoeld in [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:2&z=2009-07-01&g=2009-07-01), van toepassing zijn.
 
 ##### Artikel 3:2
 
@@ -519,7 +519,7 @@ Onverminderd de communautaire bepalingen ter zake kunnen bij of krachtens algeme
 
 6. Indien liquide middelen die beschikbaar blijven in de zin van het vijfde lid niet voor afloop van het kalenderjaar dat volgt op het jaar waarin de in het vierde lid bedoelde beschikking is bekendgemaakt, aan een rechthebbende zijn uitgekeerd, wordt hetzij het bedrag daarvan, hetzij – voorzover de liquide middelen geen Nederlandse wettige betaalmiddelen zijn – de verkoopopbrengst daarvan opgenomen in de consignatiekas. [Artikel 9, tweede tot en met zesde lid, van de Wet op de consignatie van gelden](https://wetten.overheid.nl/jci1.3:c:BWBR0003338&artikel=9) blijft buiten toepassing.
 
-7. Bij algemene maatregel van bestuur kunnen gevallen worden vastgesteld waarin de kosten verbonden aan een inbewaringneming van liquide middelen op de voet van artikel 4, tweede lid, van de verordening, geheel of gedeeltelijk dienen te worden vergoed door de natuurlijke persoon die niet aan de aangifteplicht uit hoofde van artikel 3 van de verordening heeft voldaan. Heffing en invordering van te vergoeden kosten geschieden overeenkomstig de wettelijke regels voor de heffing, onderscheidenlijk invordering, van kosten van ambtelijke werkzaamheden als bedoeld in [artikel 1:19](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.3&artikel=1:19&z=2009-05-01&g=2009-05-01).
+7. Bij algemene maatregel van bestuur kunnen gevallen worden vastgesteld waarin de kosten verbonden aan een inbewaringneming van liquide middelen op de voet van artikel 4, tweede lid, van de verordening, geheel of gedeeltelijk dienen te worden vergoed door de natuurlijke persoon die niet aan de aangifteplicht uit hoofde van artikel 3 van de verordening heeft voldaan. Heffing en invordering van te vergoeden kosten geschieden overeenkomstig de wettelijke regels voor de heffing, onderscheidenlijk invordering, van kosten van ambtelijke werkzaamheden als bedoeld in [artikel 1:19](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.3&artikel=1:19&z=2009-07-01&g=2009-07-01).
 
 ### Hoofdstuk 4. Vrije zones en vrije entrepots
 
@@ -677,11 +677,11 @@ De [artikelen 6:2, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. In afwijking van [artikel 8:7, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is slechts de rechtbank te Haarlem bevoegd.
 
-5. Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak door de inspecteur, kan de rechtbank Haarlem bepalen dat de artikelen 13 en 14 van het Communautair douanewetboek en [paragraaf 1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&z=2009-05-01&g=2009-05-01) gedurende een daarbij te bepalen termijn van toepassing blijven.
+5. Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak door de inspecteur, kan de rechtbank Haarlem bepalen dat de artikelen 13 en 14 van het Communautair douanewetboek en [paragraaf 1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&z=2009-07-01&g=2009-07-01) gedurende een daarbij te bepalen termijn van toepassing blijven.
 
 6. Indien een uitspraak van de rechtbank of van de voorzieningenrechter van de rechtbank betrekking heeft op een beschikking die is gegeven door Onze minister wie het aangaat dan wel de ontvanger, treedt voor de toepassing van dit hoofdstuk Onze minister wie het aangaat dan wel de ontvanger in de plaats van de inspecteur.
 
-7. De persoon die niet volledig voldoet aan een verzoek op de voet van artikel 14 van het Communautair douanewetboek om gegevensdragers, of de inhoud daarvan, voor raadpleging beschikbaar te stellen of niet volledig voldoet aan de verplichtingen ingevolge [artikel 1:32](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:32&z=2009-05-01&g=2009-05-01) wordt voor de overeenkomstige toepassing van de [artikelen 25, derde lid, onderdeel b,](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25) en [27e, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27e) geacht niet volledig te hebben voldaan aan de aldaar genoemde verplichtingen, tenzij aannemelijk is dat het niet of niet volledig voldoen aan genoemd verzoek of verplichtingen het gevolg is van overmacht.
+7. De persoon die niet volledig voldoet aan een verzoek op de voet van artikel 14 van het Communautair douanewetboek om gegevensdragers, of de inhoud daarvan, voor raadpleging beschikbaar te stellen of niet volledig voldoet aan de verplichtingen ingevolge [artikel 1:32](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:32&z=2009-07-01&g=2009-07-01) wordt voor de overeenkomstige toepassing van de [artikelen 25, derde lid, onderdeel b,](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25) en [27e, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27e) geacht niet volledig te hebben voldaan aan de aldaar genoemde verplichtingen, tenzij aannemelijk is dat het niet of niet volledig voldoen aan genoemd verzoek of verplichtingen het gevolg is van overmacht.
 
 8. Voor de overeenkomstige toepassing van de [artikelen 27l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27l), en [29a, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=29a) bedraagt het griffierecht hetgeen is vermeld in de onderdelen b en c van die leden.
 
@@ -691,7 +691,7 @@ Tegen een beschikking ter zake van landbouwrestituties staat, in afwijking van h
 
 ##### Artikel 8:4
 
-1. Tegen een beschikking die is genomen op grond van een regeling genoemd in de bijlage bij de [artikelen 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-05-01&g=2009-05-01) en [1:3, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:3&z=2009-05-01&g=2009-05-01), staat in afwijking van hetgeen omtrent bezwaar en beroep in deze wet is bepaald, beroep open op de rechterlijke instantie, genoemd in die regeling. Indien geen rechterlijke instantie is genoemd, is [artikel 8:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1) van toepassing.
+1. Tegen een beschikking die is genomen op grond van een regeling genoemd in de bijlage bij de [artikelen 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-07-01&g=2009-07-01) en [1:3, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:3&z=2009-07-01&g=2009-07-01), staat in afwijking van hetgeen omtrent bezwaar en beroep in deze wet is bepaald, beroep open op de rechterlijke instantie, genoemd in die regeling. Indien geen rechterlijke instantie is genoemd, is [artikel 8:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1) van toepassing.
 
 2. Bij het beroep, bedoeld in het eerste lid, is [artikel 8:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:13) van toepassing.
 
@@ -701,95 +701,79 @@ Tegen een beschikking ter zake van landbouwrestituties staat, in afwijking van h
 
 ##### Artikel 9:1
 
-1. Indien voor goederen in tijdelijke opslag waarvoor een summiere aangifte is gedaan de formaliteiten welke nodig zijn om deze goederen een douanebestemming te geven niet worden vervuld binnen de ingevolge artikel 49 van het Communautair douanewetboek geldende termijn, vormt dit een verzuim ter zake waarvan de inspecteur degene die de formaliteiten binnen deze termijn dient te vervullen en degene door wiens toedoen de formaliteiten niet binnen deze termijn worden vervuld ieder een boete van ten hoogste € 300 kan opleggen.
+1. Indien voor goederen in tijdelijke opslag waarvoor een summiere aangifte is gedaan de formaliteiten welke nodig zijn om deze goederen een douanebestemming te geven niet worden vervuld binnen de ingevolge artikel 49 van het Communautair douanewetboek geldende termijn, vormt dit een verzuim ter zake waarvan de inspecteur degene die de formaliteiten binnen deze termijn dient te vervullen en degene door wiens toedoen de formaliteiten niet binnen deze termijn worden vervuld ieder een bestuurlijke boete van ten hoogste € 300 kan opleggen.
 
-2. Indien het niet vervullen van de in het eerste lid bedoelde formaliteiten binnen de ingevolge artikel 49 van het Communautair douanewetboek geldende termijn, een douaneschuld doet ontstaan en het daaruit voortvloeiende bedrag aan rechten bij invoer hoger is dan € 300, terwijl het niet vervullen van die formaliteiten binnen die termijn is te wijten aan opzet of grove schuld van één of meer van degenen, bedoeld in het eerste lid, vormt dit een vergrijp ter zake waarvan de inspecteur hem, onderscheidenlijk ieder van hen, een boete van ten hoogste 100 percent van het bedrag aan rechten kan opleggen.
+2. Indien het niet vervullen van de in het eerste lid bedoelde formaliteiten binnen de ingevolge artikel 49 van het Communautair douanewetboek geldende termijn, een douaneschuld doet ontstaan en het daaruit voortvloeiende bedrag aan rechten bij invoer hoger is dan € 300, terwijl het niet vervullen van die formaliteiten binnen die termijn is te wijten aan opzet of grove schuld van één of meer van degenen, bedoeld in het eerste lid, vormt dit een vergrijp ter zake waarvan de inspecteur hem, onderscheidenlijk ieder van hen, een bestuurlijke boete van ten hoogste 100 percent van het bedrag aan rechten kan opleggen.
 
 ##### Artikel 9:2
 
-1. Indien voor goederen welke zijn geplaatst onder de douaneregeling douanevervoer, actieve veredeling (systeem inzake schorsing), behandeling onder douanetoezicht of tijdelijke invoer, de formaliteiten ter beëindiging van die regeling in strijd met de douanewetgeving niet of niet tijdig worden vervuld, vormt dit een verzuim ter zake waarvan de inspecteur degene die die formaliteiten dient te vervullen en degene door wiens toedoen die formaliteiten niet of niet tijdig worden vervuld ieder een boete van ten hoogste € 300 kan opleggen.
+1. Indien voor goederen welke zijn geplaatst onder de douaneregeling douanevervoer, actieve veredeling (systeem inzake schorsing), behandeling onder douanetoezicht of tijdelijke invoer, de formaliteiten ter beëindiging van die regeling in strijd met de douanewetgeving niet of niet tijdig worden vervuld, vormt dit een verzuim ter zake waarvan de inspecteur degene die die formaliteiten dient te vervullen en degene door wiens toedoen die formaliteiten niet of niet tijdig worden vervuld ieder een bestuurlijke boete van ten hoogste € 300 kan opleggen.
 
-2. Indien goederen welke zijn geplaatst onder de douaneregeling douanevervoer in strijd met artikel 355, tweede lid, van de toepassingsverordening Communautair douanewetboek niet langs een verplicht te volgen route worden vervoerd, dan wel in strijd met artikel 356 van de toepassingsverordening Communautair douanewetboek niet binnen de voorgeschreven termijn bij het douanekantoor van bestemming worden aangebracht, vormt dit een verzuim ter zake waarvan de inspecteur degene die de goederen in strijd met artikel 355, tweede lid, voornoemd vervoert, onderscheidenlijk in strijd met artikel 356 voornoemd niet tijdig aanbrengt, en degene door wiens toedoen het desbetreffende verzuim plaatsvindt, ieder een boete van ten hoogste € 300 kan opleggen.
+2. Indien goederen welke zijn geplaatst onder de douaneregeling douanevervoer in strijd met artikel 355, tweede lid, van de toepassingsverordening Communautair douanewetboek niet langs een verplicht te volgen route worden vervoerd, dan wel in strijd met artikel 356 van de toepassingsverordening Communautair douanewetboek niet binnen de voorgeschreven termijn bij het douanekantoor van bestemming worden aangebracht, vormt dit een verzuim ter zake waarvan de inspecteur degene die de goederen in strijd met artikel 355, tweede lid, voornoemd vervoert, onderscheidenlijk in strijd met artikel 356 voornoemd niet tijdig aanbrengt, en degene door wiens toedoen het desbetreffende verzuim plaatsvindt, ieder een bestuurlijke boete van ten hoogste € 300 kan opleggen.
 
-3. Indien het in strijd met de douanewetgeving niet of niet tijdig vervullen van de in het eerste lid bedoelde formaliteiten of het in strijd met de douanewetgeving niet vervullen van de in het tweede lid bedoelde verplichtingen een douaneschuld doet ontstaan en het daaruit voortvloeiende bedrag aan rechten bij invoer hoger is dan € 300, terwijl het in strijd met de douanewetgeving niet of niet tijdig vervullen van die formaliteiten, onderscheidenlijk niet vervullen van die verplichtingen, is te wijten aan opzet of grove schuld van één of meer van degenen, bedoeld in het eerste dan wel tweede lid, vormt dit een vergrijp ter zake waarvan de inspecteur hem, onderscheidenlijk ieder van hen, een boete van ten hoogste 100 percent van het bedrag aan rechten kan opleggen.
+3. Indien het in strijd met de douanewetgeving niet of niet tijdig vervullen van de in het eerste lid bedoelde formaliteiten of het in strijd met de douanewetgeving niet vervullen van de in het tweede lid bedoelde verplichtingen een douaneschuld doet ontstaan en het daaruit voortvloeiende bedrag aan rechten bij invoer hoger is dan € 300, terwijl het in strijd met de douanewetgeving niet of niet tijdig vervullen van die formaliteiten, onderscheidenlijk niet vervullen van die verplichtingen, is te wijten aan opzet of grove schuld van één of meer van degenen, bedoeld in het eerste dan wel tweede lid, vormt dit een vergrijp ter zake waarvan de inspecteur hem, onderscheidenlijk ieder van hen, een bestuurlijke boete van ten hoogste 100 percent van het bedrag aan rechten kan opleggen.
 
 ##### Artikel 9:3
 
-1. Indien in een douane-entrepot, in een vrij entrepot of in een vrije zone welke is aangewezen ingevolge artikel 168bis van het Communautair douanewetboek een vermis wordt bevonden, vormt dit een verzuim ter zake waarvan de inspecteur de entreposeur, de entrepositaris, onderscheidenlijk de belanghebbende, bedoeld in artikel 799, onderdeel c, van de toepassingsverordening Communautair douanewetboek, een boete van ten hoogste € 300 kan opleggen.
+1. Indien in een douane-entrepot, in een vrij entrepot of in een vrije zone welke is aangewezen ingevolge artikel 168bis van het Communautair douanewetboek een vermis wordt bevonden, vormt dit een verzuim ter zake waarvan de inspecteur de entreposeur, de entrepositaris, onderscheidenlijk de belanghebbende, bedoeld in artikel 799, onderdeel c, van de toepassingsverordening Communautair douanewetboek, een bestuurlijke boete van ten hoogste € 300 kan opleggen.
 
-2. Indien het in het eerste lid bedoelde vermis een douaneschuld doet ontstaan en het daaruit voortvloeiende bedrag aan rechten bij invoer hoger is dan € 300, terwijl dat vermis is te wijten aan opzet of grove schuld van de entreposeur, de entrepositaris, onderscheidenlijk de belanghebbende, bedoeld in artikel 799, onderdeel c, van de toepassingsverordening Communautair douanewetboek, vormt dit een vergrijp ter zake waarvan de inspecteur hem een boete van ten hoogste 100 percent van het bedrag aan rechten kan opleggen.
+2. Indien het in het eerste lid bedoelde vermis een douaneschuld doet ontstaan en het daaruit voortvloeiende bedrag aan rechten bij invoer hoger is dan € 300, terwijl dat vermis is te wijten aan opzet of grove schuld van de entreposeur, de entrepositaris, onderscheidenlijk de belanghebbende, bedoeld in artikel 799, onderdeel c, van de toepassingsverordening Communautair douanewetboek, vormt dit een vergrijp ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste 100 percent van het bedrag aan rechten kan opleggen.
 
 ##### Artikel 9:4
 
-1. Het niet voldoen aan een verplichting voortvloeiend uit een vergunning welke is verleend ingevolge de douanewetgeving, vormt een verzuim ter zake waarvan de inspecteur degene die deze voorwaarde dient na te leven en degene door wiens toedoen die voorwaarde niet of niet tijdig wordt nageleefd een boete van ten hoogste € 300 kan opleggen.
+1. Het niet voldoen aan een verplichting voortvloeiend uit een vergunning welke is verleend ingevolge de douanewetgeving, vormt een verzuim ter zake waarvan de inspecteur degene die deze voorwaarde dient na te leven en degene door wiens toedoen die voorwaarde niet of niet tijdig wordt nageleefd een bestuurlijke boete van ten hoogste € 300 kan opleggen.
 
-2. Indien het in strijd met de douanewetgeving niet of niet tijdig vervullen van de in het eerste lid bedoelde voorwaarde een douaneschuld doet ontstaan en het daaruit voortvloeiende bedrag aan rechten bij invoer hoger is dan € 300, terwijl het in strijd met de douanewetgeving niet of niet tijdig vervullen van deze voorwaarde is te wijten aan opzet of grove schuld van één of meer van degenen, bedoeld in het eerste lid, vormt dit een vergrijp ter zake waarvan de inspecteur hem, onderscheidenlijk ieder van hen, een boete van ten hoogste 100 percent van het bedrag aan rechten kan opleggen.
+2. Indien het in strijd met de douanewetgeving niet of niet tijdig vervullen van de in het eerste lid bedoelde voorwaarde een douaneschuld doet ontstaan en het daaruit voortvloeiende bedrag aan rechten bij invoer hoger is dan € 300, terwijl het in strijd met de douanewetgeving niet of niet tijdig vervullen van deze voorwaarde is te wijten aan opzet of grove schuld van één of meer van degenen, bedoeld in het eerste lid, vormt dit een vergrijp ter zake waarvan de inspecteur hem, onderscheidenlijk ieder van hen, een bestuurlijke boete van ten hoogste 100 percent van het bedrag aan rechten kan opleggen.
 
 ##### Artikel 9:5
 
-Het overtreden van een krachtens deze wet vastgestelde algemene maatregel van bestuur of ministeriële regeling kan bij die algemene maatregel van bestuur of ministeriële regeling worden aangemerkt als een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een boete kan opleggen van ten hoogste het in die algemene maatregel van bestuur of ministeriële regeling te vermelden bedrag. Dat bedrag beloopt ten hoogste € 300 indien het verzuim betrekking heeft op een algemene maatregel van bestuur, en beloopt ten hoogste € 150 indien het verzuim betrekking heeft op een ministeriële regeling.
+Het overtreden van een krachtens deze wet vastgestelde algemene maatregel van bestuur of ministeriële regeling kan bij die algemene maatregel van bestuur of ministeriële regeling worden aangemerkt als een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste het in die algemene maatregel van bestuur of ministeriële regeling te vermelden bedrag. Dat bedrag beloopt ten hoogste € 300 indien het verzuim betrekking heeft op een algemene maatregel van bestuur, en beloopt ten hoogste € 150 indien het verzuim betrekking heeft op een ministeriële regeling.
 
 ##### Artikel 9:6
 
-De bevoegdheid tot het opleggen van een boete als bedoeld in deze afdeling vervalt door verloop van drie jaren na het tijdstip waarop het verzuim of het vergrijp waarop de boete betrekking heeft, heeft plaatsgevonden.
+In afwijking van [artikel 5:45, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete als bedoeld in deze afdeling door verloop van drie jaren na het tijdstip waarop het verzuim of vergrijp waarop de bestuurlijke boete betrekking heeft, heeft plaatsgevonden.
 
 ### Afdeling 9.2. Voorschriften inzake het opleggen van bestuurlijke boeten
 
 ##### Artikel 9:7
 
-1. De inspecteur legt de boete op bij beschikking.
-
-2. Op verzoek van degene aan wie het verzuim of het vergrijp te wijten is en die de kennisgeving van de beschikking wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt de inspecteur er zoveel mogelijk zorg voor dat de in die kennisgeving van die beschikking vermelde gronden aan degene aan wie het verzuim of het vergrijp te wijten is, worden medegedeeld in een voor hem begrijpelijke taal.
-
-3. Indien een boete gelijktijdig wordt opgelegd met de vaststelling van een uitnodiging tot betaling, wordt het bedrag van de boete afzonderlijk op het aanslagbiljet vermeld.
+Vervallen
 
 ##### Artikel 9:8
 
-Indien de grondslag voor een boete wordt gevormd door het bedrag aan rechten bij invoer, wordt de opgelegde boete naar evenredigheid verlaagd bij vermindering, teruggaaf, terugbetaling of kwijtschelding van de rechten bij invoer, voorzover deze vermindering, teruggaaf, terugbetaling of kwijtschelding, het bedrag aan rechten bij invoer betreft waarover de boete is berekend.
+Indien de grondslag voor een bestuurlijke boete wordt gevormd door het bedrag aan rechten bij invoer, wordt de opgelegde bestuurlijke boete naar evenredigheid verlaagd bij vermindering, teruggaaf, terugbetaling of kwijtschelding van de rechten bij invoer, voorzover deze vermindering, teruggaaf, terugbetaling of kwijtschelding, het bedrag aan rechten bij invoer betreft waarover de bestuurlijke boete is berekend.
 
 ##### Artikel 9:9
 
-1. Als degene aan wie het verzuim of het vergrijp te wijten is, is overleden, wordt aan hem geen boete opgelegd.
-
-2. Indien een boete op het tijdstip van het overlijden van degene aan wie het verzuim of het vergrijp te wijten is niet onherroepelijk vaststaat, vernietigt de inspecteur de beschikking waarbij de boete is opgelegd op verzoek van een belanghebbende bij beschikking.
-
-3. Indien een boete op het tijdstip van het overlijden van degene aan wie het verzuim of het vergrijp te wijten is onherroepelijk vaststaat, maar nog niet of niet volledig is betaald, verlaagt de inspecteur op verzoek van een belanghebbende de boete tot het op dat tijdstip betaalde bedrag bij beschikking.
-
-4. Het verzoek, bedoeld in het tweede, onderscheidenlijk derde lid, wordt ingediend binnen vijf jaren nadat degene aan wie het verzuim of het vergrijp te wijten is, is overleden.
+Vervallen
 
 ##### Artikel 9:10
 
-Indien de inspecteur jegens degene aan wie het verzuim of het vergrijp te wijten is een handeling heeft verricht waaraan deze in redelijkheid de gevolgtrekking kan verbinden dat aan hem wegens een bepaalde gedraging een boete zal worden opgelegd, is, voor zoveel nodig in afwijking van artikel 14 van het Communautair douanewetboek, degene aan wie het verzuim of het vergrijp te wijten is niet langer verplicht ter zake van die gedraging enige verklaring af te leggen voorzover het betreft de boeteoplegging.
+Vervallen
 
 ##### Artikel 9:11
 
-1. Alvorens een boete wegens een vergrijp op te leggen, stelt de inspecteur degene aan wie het vergrijp te wijten is in kennis van zijn voornemen daartoe, onder vermelding van de gronden waarop het voornemen berust.
-
-2. De inspecteur stelt degene aan wie het vergrijp te wijten is in de gelegenheid binnen een door hem te stellen termijn de in die kennisgeving vermelde gronden gemotiveerd te betwisten.
+Vervallen
 
 ##### Artikel 9:12
 
-1. De inspecteur kan degene aan wie het verzuim of het vergrijp te wijten is ten aanzien van wie de redelijke verwachting bestaat dat hem een bestuurlijke boete kan worden opgelegd, oproepen voor een verhoor. In deze oproep deelt de inspecteur hem mede dat hij zich desgewenst kan doen bijstaan.
-
-2. Voordat het verhoor aanvangt, deelt de inspecteur degene aan wie het verzuim of het vergrijp te wijten is mede dat hij niet tot antwoorden verplicht is.
-
-3. Op verzoek van degene aan wie het verzuim of het vergrijp te wijten is en die de Nederlandse taal onvoldoende begrijpt, draagt de inspecteur er zorg voor dat een tolk wordt benoemd die degene aan wie het verzuim of het vergrijp te wijten is tijdens het verhoor kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat; aan de tolk wordt ten laste van het Rijk een vergoeding toegekend ingevolge de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406).
+Vervallen
 
 ##### Artikel 9:13
 
-De inspecteur stelt degene aan wie het verzuim of het vergrijp te wijten is op diens verzoek in de gelegenheid inzage te nemen in, dan wel kopieën, leesbare afdrukken of uittreksels te vervaardigen van de gegevensdragers waarop het voornemen tot het opleggen, dan wel het opleggen van een bestuurlijke boete berust.
+Vervallen
 
 ##### Artikel 9:14
 
-De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt indien ter zake van het feit op grond waarvan de boete kan worden opgelegd, jegens degene aan wie het verzuim of het vergrijp te wijten is een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvervolging is vervallen ingevolge [artikel 10:15](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.2&artikel=10:15&z=2009-05-01&g=2009-05-01) van deze wet of [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74).
+Vervallen
 
 ##### Artikel 9:15
 
-Deze afdeling is van overeenkomstige toepassing ten aanzien van anderen dan degene aan wie het verzuim of het vergrijp te wijten is, aan wie ingevolge de douanewetgeving een bestuurlijke boete kan worden opgelegd.
+Vervallen
 
 ##### Artikel 9:16
 
-Van de bij beschikking opgelegde boete kan door of vanwege Onze Minister van Financiën gehele of gedeeltelijke kwijtschelding worden verleend.
+Van de opgelegde bestuurlijke boete kan door of vanwege Onze Minister van Financiën gehele of gedeeltelijke kwijtschelding worden verleend.
 
 ### Hoofdstuk 10. Strafrechtelijke bepalingen
 
@@ -801,13 +785,13 @@ Van de bij beschikking opgelegde boete kan door of vanwege Onze Minister van Fin
 
 2. Degene die een der in het eerste lid omschreven feiten begaat met het oogmerk de rechten bij invoer die ter zake van de goederen zijn verschuldigd, te ontduiken of de ontduiking daarvan te bevorderen, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van die rechten.
 
-3. Degene die uit zee of door de lucht goederen aanvoert ten aanzien waarvan het in [artikel 2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=2&afdeling=2.1&artikel=2:2&z=2009-05-01&g=2009-05-01) genoemde tegenbewijs niet wordt geleverd, wordt geacht die goederen uit zee, onderscheidenlijk door de lucht, binnen het douanegebied van de Gemeenschap te hebben gebracht.
+3. Degene die uit zee of door de lucht goederen aanvoert ten aanzien waarvan het in [artikel 2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=2&afdeling=2.1&artikel=2:2&z=2009-07-01&g=2009-07-01) genoemde tegenbewijs niet wordt geleverd, wordt geacht die goederen uit zee, onderscheidenlijk door de lucht, binnen het douanegebied van de Gemeenschap te hebben gebracht.
 
 4. Degene die uit hoofde van artikel 3 van verordening (EG) nr. 1889/2005 van het Europees Parlement en de Raad van de Europese Unie van 26 oktober 2005 betreffende de controle van liquide middelen die de Gemeenschap binnenkomen of verlaten (verordening) verplicht is tot het doen van aangifte en deze aangifte niet, onvolledig of onjuist doet, wordt gestraft met geldboete van de derde categorie.
 
 5. Degene die een der in het vierde lid omschreven feiten opzettelijk begaat, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-6. Met betrekking tot de in het vierde en vijfde lid strafbaar gestelde feiten is [artikel 10:15, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.2&artikel=10:15&z=2009-05-01&g=2009-05-01), niet van toepassing.
+6. Met betrekking tot de in het vierde en vijfde lid strafbaar gestelde feiten is [artikel 10:15, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.2&artikel=10:15&z=2009-07-01&g=2009-07-01), niet van toepassing.
 
 ##### Artikel 10:2
 
@@ -853,11 +837,11 @@ Degene die goederen in strijd met de douanewetgeving niet aanbrengt bij een doua
 
 ##### Artikel 10:6
 
-Degene die niet voldoet aan een hem bij of krachtens, [artikel 1:11](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.1&artikel=1:11&z=2009-05-01&g=2009-05-01), [1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:23&z=2009-05-01&g=2009-05-01), [1:24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:24&z=2009-05-01&g=2009-05-01), [1:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:27&z=2009-05-01&g=2009-05-01),[1:28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:28&z=2009-05-01&g=2009-05-01), of [1:32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:32&z=2009-05-01&g=2009-05-01), van deze wet, dan wel artikel 14 of 69, tweede lid, van het Communautair douanewetboek opgelegde verplichting, wordt gestraft met geldboete van de derde categorie.
+Degene die niet voldoet aan een hem bij of krachtens, [artikel 1:11](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.1&artikel=1:11&z=2009-07-01&g=2009-07-01), [1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:23&z=2009-07-01&g=2009-07-01), [1:24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:24&z=2009-07-01&g=2009-07-01), [1:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:27&z=2009-07-01&g=2009-07-01),[1:28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:28&z=2009-07-01&g=2009-07-01), of [1:32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:32&z=2009-07-01&g=2009-07-01), van deze wet, dan wel artikel 14 of 69, tweede lid, van het Communautair douanewetboek opgelegde verplichting, wordt gestraft met geldboete van de derde categorie.
 
 ##### Artikel 10:7
 
-Degene die niet voldoet aan de hem bij [artikel 1:34](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:34&z=2009-05-01&g=2009-05-01) opgelegde verplichting, wordt gestraft met geldboete van de tweede categorie.
+Degene die niet voldoet aan de hem bij [artikel 1:34](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:34&z=2009-07-01&g=2009-07-01) opgelegde verplichting, wordt gestraft met geldboete van de tweede categorie.
 
 ##### Artikel 10:8
 
@@ -887,7 +871,7 @@ Overtreding van krachtens deze wet bij regeling van Onze Minister wie het aangaa
 
 ##### Artikel 10:12
 
-Het recht tot strafvervolging op de voet van deze afdeling met betrekking tot een verzuim of een vergrijp als bedoeld in [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9&z=2009-05-01&g=2009-05-01) van deze wet, vervalt ten aanzien van degene aan wie de inspecteur ter zake van dat verzuim of dat vergrijp reeds een bestuurlijke boete heeft opgelegd.
+Vervallen
 
 ### Afdeling 10.2. Algemene bepalingen van strafrecht
 
@@ -903,7 +887,7 @@ Ter zake van de bij deze wet of de daarop berustende bepalingen strafbaar gestel
 
 1. Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten gelden in plaats van de [artikelen 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) en [74a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74a) de volgende bepalingen.
 
-2. Ten aanzien van feiten, met betrekking tot welke het proces-verbaal niet overeenkomstig [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2009-05-01&g=2009-05-01), in handen van de officier van justitie is gesteld, vervalt het recht tot strafvordering door vrijwillige voldoening aan de voorwaarden welke de inspecteur ter voorkoming van de strafvervolging mocht hebben gesteld.
+2. Ten aanzien van feiten, met betrekking tot welke het proces-verbaal niet overeenkomstig [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2009-07-01&g=2009-07-01), in handen van de officier van justitie is gesteld, vervalt het recht tot strafvordering door vrijwillige voldoening aan de voorwaarden welke de inspecteur ter voorkoming van de strafvervolging mocht hebben gesteld.
 
 3. Als voorwaarden kunnen worden gesteld:
 
@@ -923,21 +907,21 @@ Ter zake van de bij deze wet of de daarop berustende bepalingen strafbaar gestel
 
 ##### Artikel 10:16
 
-1. Medeplichtigheid aan de in de [artikelen 10:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:1&z=2009-05-01&g=2009-05-01), [10:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:2&z=2009-05-01&g=2009-05-01), [10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:3&z=2009-05-01&g=2009-05-01), en [10:5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:5&z=2009-05-01&g=2009-05-01), vermelde overtredingen is strafbaar. Te dien aanzien vinden de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=48) en [49 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=49) overeenkomstige toepassing.
+1. Medeplichtigheid aan de in de [artikelen 10:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:1&z=2009-07-01&g=2009-07-01), [10:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:2&z=2009-07-01&g=2009-07-01), [10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:3&z=2009-07-01&g=2009-07-01), en [10:5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:5&z=2009-07-01&g=2009-07-01), vermelde overtredingen is strafbaar. Te dien aanzien vinden de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=48) en [49 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=49) overeenkomstige toepassing.
 
-2. Poging tot de in [artikel 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:3&z=2009-05-01&g=2009-05-01), vermelde overtreding is strafbaar. Te dien aanzien vindt [artikel 45 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=45) overeenkomstige toepassing.
+2. Poging tot de in [artikel 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:3&z=2009-07-01&g=2009-07-01), vermelde overtreding is strafbaar. Te dien aanzien vindt [artikel 45 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=45) overeenkomstige toepassing.
 
 ##### Artikel 10:17
 
-De Nederlandse strafwet is ook van toepassing op ieder die zich buiten het gebied waarop deze wet ingevolge [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:2&z=2009-05-01&g=2009-05-01) van toepassing is, schuldig maakt aan:
+De Nederlandse strafwet is ook van toepassing op ieder die zich buiten het gebied waarop deze wet ingevolge [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:2&z=2009-07-01&g=2009-07-01) van toepassing is, schuldig maakt aan:
 
 - a. enig in deze wet omschreven misdrijf;
 
-- b. de in [artikel 10:5, eerste lid, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:5&z=2009-05-01&g=2009-05-01), omschreven overtreding.
+- b. de in [artikel 10:5, eerste lid, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:5&z=2009-07-01&g=2009-07-01), omschreven overtreding.
 
 ##### Artikel 10:18
 
-Bij veroordeling wegens een der in de [artikelen 10:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:1&z=2009-05-01&g=2009-05-01), [10:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:2&z=2009-05-01&g=2009-05-01), [10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:3&z=2009-05-01&g=2009-05-01), [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:4&z=2009-05-01&g=2009-05-01) en [10:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:5&z=2009-05-01&g=2009-05-01), eerste lid, onderdeel a, omschreven strafbare feiten kunnen de in [artikel 33a, eerste lid, onderdelen b tot en met e, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33a) genoemde voorwerpen ook worden verbeurdverklaard, indien zij niet aan de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33a) bedoelde persoon toebehoren.
+Bij veroordeling wegens een der in de [artikelen 10:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:1&z=2009-07-01&g=2009-07-01), [10:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:2&z=2009-07-01&g=2009-07-01), [10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:3&z=2009-07-01&g=2009-07-01), [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:4&z=2009-07-01&g=2009-07-01) en [10:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:5&z=2009-07-01&g=2009-07-01), eerste lid, onderdeel a, omschreven strafbare feiten kunnen de in [artikel 33a, eerste lid, onderdelen b tot en met e, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33a) genoemde voorwerpen ook worden verbeurdverklaard, indien zij niet aan de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33a) bedoelde persoon toebehoren.
 
 ### Hoofdstuk 11. Algemene bepalingen van strafvordering
 
@@ -1009,7 +993,7 @@ Ten aanzien van de tenuitvoerlegging van rechterlijke beslissingen inzake bij de
 
 ##### Artikel 11:12
 
-1. Met betrekking tot bij deze wet strafbaar gestelde feiten en met uitbreiding van [artikel 53 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=53) is de inspecteur bevoegd een van misdrijf verdachte persoon die is aangehouden in of op een locatie of vervoermiddel, een en ander als bedoeld in de [artikelen 1:26](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:26&z=2009-05-01&g=2009-05-01) en [1:27](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:27&z=2009-05-01&g=2009-05-01), of bij het juist hebben verlaten van een locatie of vervoermiddel als in die artikelen bedoeld, na aanhouding naar een plaats voor verhoor te geleiden dan wel diens aanhouding of voorgeleiding te bevelen.
+1. Met betrekking tot bij deze wet strafbaar gestelde feiten en met uitbreiding van [artikel 53 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=53) is de inspecteur bevoegd een van misdrijf verdachte persoon die is aangehouden in of op een locatie of vervoermiddel, een en ander als bedoeld in de [artikelen 1:26](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:26&z=2009-07-01&g=2009-07-01) en [1:27](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:27&z=2009-07-01&g=2009-07-01), of bij het juist hebben verlaten van een locatie of vervoermiddel als in die artikelen bedoeld, na aanhouding naar een plaats voor verhoor te geleiden dan wel diens aanhouding of voorgeleiding te bevelen.
 
 2. Indien de inspecteur die de verdachte heeft aangehouden of voor wie de verdachte wordt geleid de inverzekeringstelling of de bewaring van de verdachte nodig oordeelt, doet hij de verdachte voorgeleiden voor de officier van justitie of voor een hulpofficier van justitie.
 
@@ -1021,7 +1005,7 @@ Ten aanzien van de tenuitvoerlegging van rechterlijke beslissingen inzake bij de
 
 1. Goederen die in beslag zijn genomen ter zake van het begaan van strafbare feiten als bedoeld in deze wet of de daarop berustende bepalingen kunnen, voorzover de eisen van het onderzoek of het algemeen belang bij hun vernietiging of onbruikbaarmaking zich niet daartegen verzetten, zo nodig na monsterneming, overeenkomstig bij regeling van Onze Minister van Financiën te stellen regels, tegen zekerheidstelling worden vrijgegeven.
 
-2. Het bepaalde in het eerste lid vindt geen toepassing ten aanzien van goederen, in beslag genomen in zaken waarin de inspecteur het proces-verbaal ingevolge het bepaalde in [artikel 10:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:3&z=2009-05-01&g=2009-05-01), aan de officier van justitie heeft doen toekomen.
+2. Het bepaalde in het eerste lid vindt geen toepassing ten aanzien van goederen, in beslag genomen in zaken waarin de inspecteur het proces-verbaal ingevolge het bepaalde in [artikel 10:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:3&z=2009-07-01&g=2009-07-01), aan de officier van justitie heeft doen toekomen.
 
 3. De overeenkomstig het eerste lid gestelde zekerheid treedt voor de toepassing van bepalingen betreffende verbeurdverklaring en inbeslagneming, alsmede voor de uitoefening van het recht van verhaal, in de plaats van de in beslag genomen goederen.
 
@@ -1058,6 +1042,124 @@ Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummerin
 Deze wet wordt aangehaald als: Algemene douanewet.
 
 ## Bijlage. bij de [artikelen 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-05-01&g=2009-05-01) en [1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:3&z=2009-05-01&g=2009-05-01) van de Algemene douanewet
+
+### A. Europese regelgeving
+
+Voorschriften gebaseerd op de artikelen 26, 36, 37, 60, 71, 80, 87, 88, 89, 93, 94, 95, 132, 133, 134, 135, 152, 175, 301 of 308 van het Verdrag tot oprichting van de Europese Gemeenschap, voorzover het voorschriften aangaande onderwerpen betreft die vallen onder de reikwijdte van de hierna genoemde wetten.
+
+### B. Nationale regelgeving
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 7:4a
+
+1. [Artikel 4:86 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:86) is niet van toepassing.
+
+2. [Artikel 4:88, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:88) is niet van toepassing.
+
+3. Uitstel van betaling als bedoeld in de artikelen 224 tot en met 228 van het Communautair douanewetboek is geen uitstel van betaling als bedoeld in [artikel 4:94 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94).
+
+4. Het uitstel van betaling, bedoeld in [artikel 4:94 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94), is een «andere betalingsfaciliteit» als bedoeld in artikel 229 van het Communautair douanewetboek.
+
+5. [Artikel 4:96 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:96) is slechts van toepassing indien het uitstel van betaling betreft ingevolge artikel 229 van het Communautair douanewetboek.
+
+6. [Afdeling 4.4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.2) is niet van toepassing.
+
+### Hoofdstuk 8. Beroep in een eerste fase (bezwaar) en beroep in een tweede fase (beroep)
+
+### Hoofdstuk 9. Bestuurlijke boeten
+
+### Afdeling 9.1. Beboetbare feiten
+
+### Afdeling 9.2. Aanvullende voorschriften inzake het opleggen van bestuurlijke boeten
+
+### Hoofdstuk 10. Strafrechtelijke bepalingen
+
+### Afdeling 10.1. Strafbare feiten
+
+### Afdeling 10.2. Algemene bepalingen van strafrecht
+
+### Hoofdstuk 11. Algemene bepalingen van strafvordering
+
+##### Artikel 11:1
+
+1. De rechtbanken vonnissen in eerste aanleg over bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten.
+
+2. De vonnissen zijn aan hoger beroep onderworpen, voorzover zij zijn gewezen:
+
+- a. ter zake van misdrijven;
+
+- b. ter zake van overtredingen ten aanzien van degene die op het tijdstip waarop de vervolging tegen hem is aangevangen, de leeftijd van achttien jaar nog niet had bereikt.
+
+3. Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.
+
+##### Artikel 11:2
+
+Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) geacht te wonen, waar zij gevestigd zijn.
+
+##### Artikel 11:3
+
+1. Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.
+
+2. In afwijking van de [artikelen 155](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=155), [156](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=156) en [157 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=157) worden alle processen-verbaal betreffende bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten ingezonden bij de inspecteur. De inspecteur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de in beslag genomen voorwerpen onverwijld toekomen aan de bevoegde officier van justitie. De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwerpen, toekomen aan de officier van justitie, indien hij een vervolging wenselijk acht.
+
+3. De officier van justitie is bevoegd, de zaak ter afdoening weer in handen van de inspecteur te stellen, welke daarmede alsdan kan handelen overeenkomstig [artikel 10:15](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.2&artikel=10:15&z=2009-07-01&g=2009-07-01).
+
+4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
+
+##### Artikel 11:4
+
+De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
+
+##### Artikel 11:5
+
+1. In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2009-07-01&g=2009-07-01), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
+
+2. In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), onderscheidenlijk [artikel 552ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), of [artikel 552ab, vierde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.
+
+##### Artikel 11:6
+
+Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafbaar gesteld feit hebben de in [artikel 11:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2009-07-01&g=2009-07-01), bedoelde ambtenaren toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
+
+##### Artikel 11:7
+
+Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.
+
+##### Artikel 11:8
+
+De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of uittreksel van arresten of vonnissen, met toepassing van deze wet gewezen.
+
+##### Artikel 11:9
+
+Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan ambtenaren, aangesteld voor de uitvoering van de politietaak, toegekend.
+
+### Hoofdstuk 12. Slotbepalingen
+
+##### Artikel 12:1
+
+Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van de toepassingsverordening Communautair douanewetboek nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
+
+##### Artikel 12:2
+
+Bij het uitoefenen van het recht op beroep moet in bezwaar-, verzoek-, beroep-, verweer- en verzetschriften hij die niet binnen het Rijk een vaste woonplaats of plaats van vestiging heeft, domicilie kiezen binnen het Rijk.
+
+##### Artikel 12:3
+
+Het ingevolge het Communautair douanewetboek, de toepassingsverordening Communautair douanewetboek of de wet bekendmaken, toezenden daaronder begrepen, van een stuk aan een persoon, die niet binnen Nederland een vaste woonplaats of plaats van vestiging heeft, kan ook geschieden aan de binnen Nederland gelegen vaste inrichting voor de uitoefening van zijn bedrijf of beroep, dan wel aan de woning of het kantoor van de binnen Nederland wonende of gevestigde vertegenwoordiger.
+
+##### Artikel 12:4
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+##### Artikel 12:5
+
+Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummering van de artikelen, paragrafen, hoofdstukken en afdelingen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, hoofdstukken en afdelingen daarmee in overeenstemming.
+
+##### Artikel 12:6
+
+Deze wet wordt aangehaald als: Algemene douanewet.
+
+## Bijlage. bij de [artikelen 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2009-07-01&g=2009-07-01) en [1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:3&z=2009-07-01&g=2009-07-01) van de Algemene douanewet
 
 ### A. Europese regelgeving
 
