@@ -4,7 +4,7 @@ identifier: "BWBR0009499"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2000-05-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009499"
 soort: "AMvB"
@@ -48,9 +48,9 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. In dit besluit wordt verstaan onder **druiven:**vruchten van Vitis Vinifera L.
+1. In dit besluit wordt verstaan onder **druiven:** vruchten van Vitis Vinifera L.
 
-2. Dit besluit is niet van toepassing op een eet- of drinkwaar die met een in dit besluit bedoelde aanduiding rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, voor zover die aanduiding vergezeld gaat van beschrijvende vermeldingen die dicht bij die aanduiding staan, zodat de koper in staat is de aldus geëtiketteerde waar te onderscheiden van in Nederland in het verkeer gebrachte waren waarvoor die aanduiding uitsluitend gebezigd mag worden.
+2. Dit besluit is niet van toepassing op een eet- of drinkwaar die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt.
 
 ##### Artikel 2
 
@@ -70,11 +70,11 @@ De aanduiding **vruchtenwijn**mag uitsluitend worden gebezigd voor een gegiste d
 
 ##### Artikel 6
 
-De aanduiding **roomijs**mag uitsluitend worden gebezigd voor consumptie-ijs dat bestemd is om in bevroren toestand te worden genuttigd, en dat:
+De aanduiding **roomijs** mag uitsluitend worden gebezigd voor consumptie-ijs dat bestemd is om in bevroren toestand te worden genuttigd, en dat:
 
 - –. geen ander vet bevat dan melkvet;
 
-- –. een melkvetgehalte heeft van ten minste 8%; en
+- –. een melkvetgehalte van ten minste 5%; en
 
 - –. geen ander eiwit bevat dan melkeiwitten.
 
@@ -106,7 +106,7 @@ Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vastste
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2000-05-01&g=2000-05-01) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2000-05-01&g=2000-05-01), die in werking treden met ingang van 1 mei 1998.
+Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2009-07-01&g=2009-07-01) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2009-07-01&g=2009-07-01), die in werking treden met ingang van 1 mei 1998.
 
 ##### Artikel 10
 
