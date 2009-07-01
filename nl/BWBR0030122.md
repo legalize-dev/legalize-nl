@@ -4,7 +4,7 @@ identifier: "BWBR0030122"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2003-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030122"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XIV
 
