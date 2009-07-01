@@ -4,7 +4,7 @@ identifier: "BWBR0012950"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2008-08-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012950"
 soort: "wet"
@@ -98,11 +98,11 @@ Met het toezicht op de naleving van het bij of krachtens deze wet, de Raadsveror
 
 ##### Artikel 8
 
-Is een speciale bijdrage als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=4&z=2008-08-01&g=2008-08-01), tweede gedachtestreepje, van de Raadsverordening geheel of gedeeltelijk nietvoldaan op het moment, bedoeld in artikel 4, derde lid, van de Raadsverordening, dan maant Onze Minister de nalatige schriftelijk aan om hem alsnog binnen veertien dagen na ontvangst van de aanmaning het desbetreffende bedrag te betalen.
+Een speciale bijdrage als bedoeld in artikel 4, eerste lid, van de Raadsverordening wordt voldaan op het moment, bedoeld in artikel 4, derde lid, van de Raadsverordening, zonder dat dit bij beschikking is vastgesteld. Onze Minister is bevoegd tot uitvaardiging van een dwangbevel tot betaling van de speciale bijdrage.
 
 ##### Artikel 9
 
-Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
+Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
 ##### Artikel 10
 
@@ -124,7 +124,7 @@ Met betrekking tot de behandeling van bezwaar of beroep tegen een krachtens de W
 
 ##### Artikel 14
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 29 april 1999, met uitzondering van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=6&z=2008-08-01&g=2008-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=8&z=2008-08-01&g=2008-08-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=9&z=2008-08-01&g=2008-08-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=10&z=2008-08-01&g=2008-08-01) en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=12&z=2008-08-01&g=2008-08-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 29 april 1999, met uitzondering van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=6&z=2009-07-01&g=2009-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=8&z=2009-07-01&g=2009-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=9&z=2009-07-01&g=2009-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=10&z=2009-07-01&g=2009-07-01) en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=12&z=2009-07-01&g=2009-07-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 2. Deze wet vervalt op het tijdstip waarop de Raadsverordening vervalt.
 
