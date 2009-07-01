@@ -105,11 +105,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XVI
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) op een aantal punten van uiteenlopende aard te wijzigen, de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) te wijzigen ten aanzien van het openbaar-vervoerverbod en op enkele punten van technische aard, de [Wet advies en overleg verkeer en waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0008410) te wijzigen aangezien het in verband met het raadplegen van betrokkenen en organisaties bij het beleidsproces wenselijk is een meer op maat gesneden vorm van overleg op het terrein van Verkeer en Waterstaat in te richten, de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063), de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), de [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009), de [Wet capaciteitsbeheersing binnenvaartvloot](https://wetten.overheid.nl/jci1.3:c:BWBR0012950), de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168), de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458), de [Invoeringswet Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026710), de [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108) en de [Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027431) te wijzigen op enkele punten van technische aard, alsmede een abuis in de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) te herstellen;
-
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
