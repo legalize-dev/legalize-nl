@@ -4,7 +4,7 @@ identifier: "BWBR0008657"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008657"
 soort: "wet"
@@ -68,7 +68,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - i. reïntegratiebedrijf: een natuurlijke persoon dan wel rechtspersoon die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in de arbeid bevordert;
 
-- j. resterende verdiencapaciteit: datgene dat de jonggehandicapte die de leeftijd van 18 jaar nog niet heeft bereikt en de jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering op grond van deze wet nog met arbeid kan verdienen en dat bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=2&z=2009-01-01&g=2009-01-01) is vastgesteld;
+- j. resterende verdiencapaciteit: datgene dat de jonggehandicapte die de leeftijd van 18 jaar nog niet heeft bereikt en de jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering op grond van deze wet nog met arbeid kan verdienen en dat bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01) is vastgesteld;
 
 - k. werknemer: een werknemer in de zin van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
@@ -214,9 +214,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De arbeidsongeschiktheidsuitkering wordt berekend naar de grondslag van het minimumloon.
 
-2. Onder het in het eerste lid bedoelde minimumloon wordt verstaan het minimumloon per maand, bedoeld in [artikel 8, eerste lid, onderdeel **a**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), gedeeld door 21,75, of, indien het een persoon jonger dan 23 jaar betreft, het minimumloon per maand dat voor zijn leeftijd geldt op grond van artikel 7, derde lid, en artikel 8, derde lid, van genoemde wet, gedeeld door 21,75.
+2. Onder het in het eerste lid bedoelde minimumloon wordt verstaan het minimumloon per maand, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), gedeeld door 21,75, of, indien het een persoon jonger dan 23 jaar betreft, het minimumloon per maand dat voor zijn leeftijd geldt op grond van [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), en [artikel 8, derde lid, van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), gedeeld door 21,75.
 
-3. Op een beschikking als gevolg van een herziening van de grondslag op grond van dit artikel zijn de [artikelen 3:41](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41) en [3:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:45) niet van toepassing.
+3. Een herziening van de uitkering als gevolg van een herziening van de grondslag van het minimumloon vindt plaats zonder dat dit bij beschikking is vastgesteld.
+
+4. Het Uitvoeringsinstituut werknemersverzekeringen betaalt de herziene uitkering, bedoeld in het derde lid, bij de eerstvolgende uitkeringsbetaling nadat de grondslag van het minimumloon is herzien.
 
 ##### Artikel 8. Percentage arbeidsongeschiktheidsuitkering
 
@@ -258,17 +260,17 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 1. De arbeidsongeschiktheidsuitkering wordt herzien wanneer de jonggehandicapte, aan wie zij is toegekend, op grond van deze wet voor een hogere of lagere uitkering in aanmerking komt.
 
-2. Ter zake van toeneming van de arbeidsongeschiktheid vindt herziening van de arbeidsongeschiktheidsuitkering plaats met inachtneming van de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=12&z=2009-01-01&g=2009-01-01).
+2. Ter zake van toeneming van de arbeidsongeschiktheid vindt herziening van de arbeidsongeschiktheidsuitkering plaats met inachtneming van de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=12&z=2009-07-01&g=2009-07-01).
 
-3. De arbeidsongeschiktheidsuitkering van de jonggehandicapte die deelneemt aan een voor hem gewenste opleiding of scholing, wordt gedurende deze opleiding of scholing niet herzien in verband met een daaruit voortvloeiende afneming van de arbeidsongeschiktheid. Indien de jonggehandicapte tijdens de opleiding of scholing inkomsten uit arbeid verwerft, is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2009-01-01&g=2009-01-01), van overeenkomstige toepassing.
+3. De arbeidsongeschiktheidsuitkering van de jonggehandicapte die deelneemt aan een voor hem gewenste opleiding of scholing, wordt gedurende deze opleiding of scholing niet herzien in verband met een daaruit voortvloeiende afneming van de arbeidsongeschiktheid. Indien de jonggehandicapte tijdens de opleiding of scholing inkomsten uit arbeid verwerft, is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2009-07-01&g=2009-07-01), van overeenkomstige toepassing.
 
 ##### Artikel 12. Herziening bij minder dan 45% arbeidsongeschiktheid
 
-1. Ter zake van toeneming van de arbeidsongeschiktheid vindt herziening van een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van minder dan 45%, onverminderd de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=14&z=2009-01-01&g=2009-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=15&z=2009-01-01&g=2009-01-01), plaats zodra de toegenomen arbeidsongeschiktheid onafgebroken 52 weken heeft geduurd.
+1. Ter zake van toeneming van de arbeidsongeschiktheid vindt herziening van een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van minder dan 45%, onverminderd de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=14&z=2009-07-01&g=2009-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=15&z=2009-07-01&g=2009-07-01), plaats zodra de toegenomen arbeidsongeschiktheid onafgebroken 52 weken heeft geduurd.
 
 2. De in het eerste lid bedoelde herziening vindt niet plaats, indien de toeneming kennelijk is voortgekomen uit een andere oorzaak dan die waaruit de ongeschiktheid ter zake waarvan uitkering wordt genoten, is voortgekomen.
 
-3. Het tweede lid is niet van toepassing op de persoon die in het jaar onmiddellijk voorafgaande aan de dag van het intreden van de toeneming van de arbeidsongeschiktheid zes of meer maanden studerende was als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=5&z=2009-01-01&g=2009-01-01).
+3. Het tweede lid is niet van toepassing op de persoon die in het jaar onmiddellijk voorafgaande aan de dag van het intreden van de toeneming van de arbeidsongeschiktheid zes of meer maanden studerende was als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=5&z=2009-07-01&g=2009-07-01).
 
 4. Voor het bepalen van het tijdvak van 52 weken, bedoeld in het eerste lid, worden perioden van arbeidsongeschiktheid samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8), [3:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10), [3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak. Bij de vaststelling van het tijdvak van 52 weken blijven perioden, waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8), [3:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10), [3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, buiten beschouwing.
 
@@ -298,7 +300,7 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 2. Indien de arbeidsongeschiktheidsuitkering werd toegekend, onderscheidenlijk wegens toegenomen arbeidsongeschiktheid werd herzien dan wel is herleefd, met toepassing van artikel 29, tweede lid, onderscheidenlijk artikel 31, tweede lid, geldt voor de toepassing van het eerste lid, onderdeel a en b, als dag met ingang waarvan de arbeidsongeschiktheidsuitkering werd toegekend, onderscheidenlijk werd herzien dan wel is herleefd, de dag, met ingang waarvan die uitkering zou zijn toegekend, onderscheidenlijk zou zijn herzien dan wel zou zijn herleefd, indien artikel 29, tweede lid, onderscheidenlijk artikel 31, tweede lid, geen toepassing zou hebben gevonden.
 
-3. Ter zake van toeneming van de arbeidsongeschiktheid vindt herziening van een arbeidsongeschiktheidsuitkering op grond van een herbeoordeling als bedoeld in [artikel 28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2009-01-01&g=2009-01-01), plaats met ingang van 22 februari 2007.
+3. Ter zake van toeneming van de arbeidsongeschiktheid vindt herziening van een arbeidsongeschiktheidsuitkering op grond van een herbeoordeling als bedoeld in [artikel 28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2009-07-01&g=2009-07-01), plaats met ingang van 22 februari 2007.
 
 4. Bij ministeriële regeling kunnen regels worden gesteld voor gevallen waarbij direct herziening van de arbeidsongeschiktheidsuitkering plaatsvindt. Op grond van deze regels kan bedoelde herziening slechts plaatsvinden ten behoeve van de jonggehandicapte die bij hervatting van de arbeid in het bedrijfs- of beroepsleven inkomsten geniet, die minder bedragen dan evenredig is aan zijn nog bestaande arbeidsgeschiktheid.
 
@@ -310,7 +312,7 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 2. Voor het bepalen van het tijdvak van vier weken, bedoeld in het eerste lid, worden perioden van toegenomen arbeidsongeschiktheid samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8), [3:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10), [3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak. Bij de vaststelling van de eerstgenoemde periode van vier weken blijven perioden, waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8), [3:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10), [3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, buiten beschouwing.
 
-3. Dit artikel vindt geen toepassing, indien recht bestaat op herziening van de arbeidsongeschiktheidsuitkering op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=13&z=2009-01-01&g=2009-01-01) of [14, eerste lid, onderdelen a tot en met c, of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=14&z=2009-01-01&g=2009-01-01).
+3. Dit artikel vindt geen toepassing, indien recht bestaat op herziening van de arbeidsongeschiktheidsuitkering op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=13&z=2009-07-01&g=2009-07-01) of [14, eerste lid, onderdelen a tot en met c, of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=14&z=2009-07-01&g=2009-07-01).
 
 4. Perioden van wonen buiten Nederland, waarin de arbeidsongeschiktheid is toegenomen worden mede in aanmerking genomen voor het bepalen van het tijdvak van vier weken, bedoeld in het eerste lid.
 
@@ -318,17 +320,17 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 1. Onverminderd hetgeen overigens in deze wet is bepaald ter zake van herziening of intrekking van een beschikking tot toekenning van arbeidsongeschiktheidsuitkering, alsook ter zake van een weigering van een zodanige uitkering, herziet het Uitvoeringsinstituut werknemersverzekeringen een dergelijke beschikking of trekt het deze in:
 
-- a. ter uitvoering van een beslissing als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=10&z=2009-01-01&g=2009-01-01);
+- a. ter uitvoering van een beslissing als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=10&z=2009-07-01&g=2009-07-01);
 
-- b. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2009-01-01&g=2009-01-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=38&z=2009-01-01&g=2009-01-01) of [62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-01-01&g=2009-01-01) heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van een uitkering;
+- b. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2009-07-01&g=2009-07-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=38&z=2009-07-01&g=2009-07-01) of [62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-07-01&g=2009-07-01) heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van een uitkering;
 
 - c. indien anderszins de uitkering ten onrechte of tot een te hoog bedrag is verleend;
 
-- d. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2009-01-01&g=2009-01-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=38&z=2009-01-01&g=2009-01-01) of [62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-01-01&g=2009-01-01) ertoe leidt dat niet kan worden vastgesteld of nog recht op uitkering bestaat.
+- d. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2009-07-01&g=2009-07-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=38&z=2009-07-01&g=2009-07-01) of [62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-07-01&g=2009-07-01) ertoe leidt dat niet kan worden vastgesteld of nog recht op uitkering bestaat.
 
 2. Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten geheel of gedeeltelijk van herziening of intrekking als bedoeld in het eerste lid af te zien.
 
-3. Een besluit tot toekenning van een voorziening als bedoeld in [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-01-01&g=2009-01-01), een besluit tot toekenning van loonsuppletie als bedoeld in [artikel 59f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59f&z=2009-01-01&g=2009-01-01) en van inkomenssuppletie als bedoeld in [artikel 59g](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59g&z=2009-01-01&g=2009-01-01) wordt ingetrokken of herzien indien die voorzieningen ten onrechte of tot een te hoog bedrag zijn vastgesteld.
+3. Een besluit tot toekenning van een voorziening als bedoeld in [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-07-01&g=2009-07-01), een besluit tot toekenning van loonsuppletie als bedoeld in [artikel 59f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59f&z=2009-07-01&g=2009-07-01) en van inkomenssuppletie als bedoeld in [artikel 59g](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59g&z=2009-07-01&g=2009-07-01) wordt ingetrokken of herzien indien die voorzieningen ten onrechte of tot een te hoog bedrag zijn vastgesteld.
 
 ##### Artikel 17. Einde van het recht op arbeidsongeschiktheidsuitkering
 
@@ -340,11 +342,11 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 - c. met ingang van de eerste dag van de maand volgend op die waarin de jonggehandicapte buiten Nederland is gaan wonen.
 
-2. De arbeidsongeschiktheidsuitkering van de jonggehandicapte die deelneemt aan een voor hem gewenste opleiding of scholing, wordt gedurende deze opleiding of scholing niet ingetrokken in verband met een daaruit voortvloeiende afneming van de arbeidsongeschiktheid. Indien de jonggehandicapte tijdens de opleiding of scholing inkomsten uit arbeid verwerft, is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2009-01-01&g=2009-01-01), van overeenkomstige toepassing.
+2. De arbeidsongeschiktheidsuitkering van de jonggehandicapte die deelneemt aan een voor hem gewenste opleiding of scholing, wordt gedurende deze opleiding of scholing niet ingetrokken in verband met een daaruit voortvloeiende afneming van de arbeidsongeschiktheid. Indien de jonggehandicapte tijdens de opleiding of scholing inkomsten uit arbeid verwerft, is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2009-07-01&g=2009-07-01), van overeenkomstige toepassing.
 
-3. Indien de intrekking van de arbeidsongeschiktheidsuitkering verband houdt met een voltooide scholing of opleiding, gaat deze intrekking niet eerder in dan een jaar na voltooiing van die scholing of opleiding. Indien de jonggehandicapte eerder inkomsten uit arbeid verwerft, is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2009-01-01&g=2009-01-01), tot uiterlijk het einde van dat jaar van overeenkomstige toepassing.
+3. Indien de intrekking van de arbeidsongeschiktheidsuitkering verband houdt met een voltooide scholing of opleiding, gaat deze intrekking niet eerder in dan een jaar na voltooiing van die scholing of opleiding. Indien de jonggehandicapte eerder inkomsten uit arbeid verwerft, is [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2009-07-01&g=2009-07-01), tot uiterlijk het einde van dat jaar van overeenkomstige toepassing.
 
-4. Het eerste lid, onderdeel c, is tevens van toepassing op de jonggehandicapte die buiten Nederland is gaan wonen en op wie [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=3&z=2009-01-01&g=2009-01-01), van toepassing is.
+4. Het eerste lid, onderdeel c, is tevens van toepassing op de jonggehandicapte die buiten Nederland is gaan wonen en op wie [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=3&z=2009-07-01&g=2009-07-01), van toepassing is.
 
 5. Het recht op arbeidsongeschiktheidsuitkering eindigt, indien de jonggehandicapte rechtens zijn vrijheid is ontnomen, vanaf de dag dat deze vrijheidsontneming één maand heeft geduurd.
 
@@ -360,45 +362,45 @@ Indien het recht op uitkering op grond van artikel 17, eerste lid, onderdeel c, 
 
 1. Indien de jonggehandicapte:
 
-- a. wiens arbeidsongeschiktheidsuitkering wegens afneming van arbeidsongeschiktheid op grond van [artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-01-01&g=2009-01-01), is ingetrokken; of
+- a. wiens arbeidsongeschiktheidsuitkering wegens afneming van arbeidsongeschiktheid op grond van [artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-07-01&g=2009-07-01), is ingetrokken; of
 
-- b. die aan het einde van de wachttijd, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6&z=2009-01-01&g=2009-01-01), ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, gebreken, zwangerschap of bevalling, maar geen recht had op toekenning van arbeidsongeschiktheidsuitkering omdat hij niet arbeidsongeschikt was; binnen vijf jaar na de datum van die intrekking dan wel binnen vijf jaar na het bereiken van die wachttijd arbeidsongeschikt wordt en deze arbeidsongeschiktheid voortkomt uit dezelfde oorzaak als die waaruit de arbeidsongeschiktheid ter zake waarvan de ingetrokken uitkering werd genoten dan wel als die op grond waarvan hij ongeschikt was tot het verrichten van zijn arbeid wegens ziekte, gebreken, zwangerschap of bevalling voortkomt, vindt toekenning van arbeidsongeschiktheidsuitkering steeds plaats, zodra die arbeidsongeschiktheid onafgebroken vier weken heeft geduurd.
+- b. die aan het einde van de wachttijd, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6&z=2009-07-01&g=2009-07-01), ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, gebreken, zwangerschap of bevalling, maar geen recht had op toekenning van arbeidsongeschiktheidsuitkering omdat hij niet arbeidsongeschikt was; binnen vijf jaar na de datum van die intrekking dan wel binnen vijf jaar na het bereiken van die wachttijd arbeidsongeschikt wordt en deze arbeidsongeschiktheid voortkomt uit dezelfde oorzaak als die waaruit de arbeidsongeschiktheid ter zake waarvan de ingetrokken uitkering werd genoten dan wel als die op grond waarvan hij ongeschikt was tot het verrichten van zijn arbeid wegens ziekte, gebreken, zwangerschap of bevalling voortkomt, vindt toekenning van arbeidsongeschiktheidsuitkering steeds plaats, zodra die arbeidsongeschiktheid onafgebroken vier weken heeft geduurd.
 
 2. Voor het bepalen van het tijdvak van vier weken, bedoeld in het eerste lid, worden perioden van arbeidsongeschiktheid samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8), [3:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10), [3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak. Bij de vaststelling van de eerstgenoemde periode van vier weken blijven perioden, waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8), [3:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10), [3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, buiten beschouwing.
 
 3. Dit artikel vindt geen toepassing:
 
-- a. indien op grond van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=20&z=2009-01-01&g=2009-01-01) aanspraak bestaat op heropening van de arbeidsongeschiktheidsuitkering; of
+- a. indien op grond van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=20&z=2009-07-01&g=2009-07-01) aanspraak bestaat op heropening van de arbeidsongeschiktheidsuitkering; of
 
 - b. indien [artikel 29b van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29b) toepassing kan vinden, tenzij de toe te kennen arbeidsongeschiktheidsuitkering het ziekengeld overtreft.
 
-4. [Artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6b&z=2009-01-01&g=2009-01-01) en de daarop berustende bepalingen zijn van overeenkomstige toepassing.
+4. [Artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6b&z=2009-07-01&g=2009-07-01) en de daarop berustende bepalingen zijn van overeenkomstige toepassing.
 
 ##### Artikel 20. Heropening van de uitkering
 
-1. De jonggehandicapte, wiens arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van ten minste 45%, in verband met [artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-01-01&g=2009-01-01), is ingetrokken, heeft, indien hij binnen vier weken na de dag, met ingang waarvan de uitkering is ingetrokken, weer arbeidsongeschikt wordt, aanspraak op heropening van de arbeidsongeschiktheidsuitkering.
+1. De jonggehandicapte, wiens arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van ten minste 45%, in verband met [artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-07-01&g=2009-07-01), is ingetrokken, heeft, indien hij binnen vier weken na de dag, met ingang waarvan de uitkering is ingetrokken, weer arbeidsongeschikt wordt, aanspraak op heropening van de arbeidsongeschiktheidsuitkering.
 
-2. Het eerste lid is mede van toepassing ten aanzien van de jonggehandicapte, wiens arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van minder dan 45% in verband met [artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-01-01&g=2009-01-01), is ingetrokken, indien hij weer arbeidsongeschikt wordt binnen vier weken na de dag, met ingang waarvan die uitkering, die voordien was berekend naar een arbeidsongeschiktheid van ten minste 45%, wegens afneming van de arbeidsongeschiktheid is herzien naar een arbeidsongeschiktheid van minder dan 45%.
+2. Het eerste lid is mede van toepassing ten aanzien van de jonggehandicapte, wiens arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van minder dan 45% in verband met [artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-07-01&g=2009-07-01), is ingetrokken, indien hij weer arbeidsongeschikt wordt binnen vier weken na de dag, met ingang waarvan die uitkering, die voordien was berekend naar een arbeidsongeschiktheid van ten minste 45%, wegens afneming van de arbeidsongeschiktheid is herzien naar een arbeidsongeschiktheid van minder dan 45%.
 
-3. De jonggehandicapte, wiens arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van minder dan 45%, in verband met [artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-01-01&g=2009-01-01), is ingetrokken met ingang van een dag, gelegen binnen vier weken na de dag, met ingang waarvan die uitkering werd toegekend of wegens toegenomen arbeidsongeschiktheid werd herzien, heeft, indien hij binnen die vier weken weer arbeidsongeschikt wordt, aanspraak op heropening van de arbeidsongeschiktheidsuitkering. [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=14&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing.
+3. De jonggehandicapte, wiens arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van minder dan 45%, in verband met [artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-07-01&g=2009-07-01), is ingetrokken met ingang van een dag, gelegen binnen vier weken na de dag, met ingang waarvan die uitkering werd toegekend of wegens toegenomen arbeidsongeschiktheid werd herzien, heeft, indien hij binnen die vier weken weer arbeidsongeschikt wordt, aanspraak op heropening van de arbeidsongeschiktheidsuitkering. [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=14&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing.
 
-4. De jonggehandicapte, wiens arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van minder dan 45%, in verband met [artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-01-01&g=2009-01-01), is ingetrokken, heeft, onverminderd het tweede en het derde lid, indien hij binnen vier weken na de dag, met ingang waarvan de uitkering is ingetrokken, weer arbeidsongeschikt wordt, niet kennelijk uit een andere oorzaak dan die, waaruit de arbeidsongeschiktheid, ter zake waarvan de ingetrokken uitkering werd genoten, is voortgekomen, aanspraak op heropening van de arbeidsongeschiktheidsuitkering.
+4. De jonggehandicapte, wiens arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van minder dan 45%, in verband met [artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-07-01&g=2009-07-01), is ingetrokken, heeft, onverminderd het tweede en het derde lid, indien hij binnen vier weken na de dag, met ingang waarvan de uitkering is ingetrokken, weer arbeidsongeschikt wordt, niet kennelijk uit een andere oorzaak dan die, waaruit de arbeidsongeschiktheid, ter zake waarvan de ingetrokken uitkering werd genoten, is voortgekomen, aanspraak op heropening van de arbeidsongeschiktheidsuitkering.
 
-5. Ten aanzien van de jonggehandicapte, wiens arbeidsongeschiktheidsuitkering in verband met [artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-01-01&g=2009-01-01), is ingetrokken, en die weer arbeidsongeschikt is geworden op grond van een herbeoordeling als bedoeld in [artikel 28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2009-01-01&g=2009-01-01), vindt heropening van de arbeidsongeschiktheidsuitkering plaats met ingang van 22 februari 2007.
+5. Ten aanzien van de jonggehandicapte, wiens arbeidsongeschiktheidsuitkering in verband met [artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-07-01&g=2009-07-01), is ingetrokken, en die weer arbeidsongeschikt is geworden op grond van een herbeoordeling als bedoeld in [artikel 28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2009-07-01&g=2009-07-01), vindt heropening van de arbeidsongeschiktheidsuitkering plaats met ingang van 22 februari 2007.
 
 6. De heropening vindt plaats naar de mate van arbeidsongeschiktheid op de dag, waarop de heropening ingaat.
 
 7. Voor de toepassing van het eerste tot en met vijfde lid wordt niet als arbeidsongeschikt beschouwd degene die minder dan 25% arbeidsongeschikt is.
 
-8. [Artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6b&z=2009-01-01&g=2009-01-01) en de daarop berustende bepalingen zijn van overeenkomstige toepassing.
+8. [Artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6b&z=2009-07-01&g=2009-07-01) en de daarop berustende bepalingen zijn van overeenkomstige toepassing.
 
 ##### Artikel 20a. Heropening van de uitkering na afloop vrijheidsontneming
 
-1. De jonggehandicapte, wiens arbeidsongeschiktheidsuitkering in verband met [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-01-01&g=2009-01-01), is geëindigd, heeft vanaf de dag dat hij in vrijheid wordt gesteld met inachtneming van de bepalingen van deze wet recht op heropening van de arbeidsongeschiktheidsuitkering, indien hij op die dag arbeidsongeschikt is. [Artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing.
+1. De jonggehandicapte, wiens arbeidsongeschiktheidsuitkering in verband met [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=17&z=2009-07-01&g=2009-07-01), is geëindigd, heeft vanaf de dag dat hij in vrijheid wordt gesteld met inachtneming van de bepalingen van deze wet recht op heropening van de arbeidsongeschiktheidsuitkering, indien hij op die dag arbeidsongeschikt is. [Artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing.
 
 2. Aanspraak op heropening van de arbeidsongeschiktheidsuitkering heeft eveneens de jonggehandicapte, bedoeld in het eerste lid, die op de in dat lid bedoelde dag niet arbeidsongeschikt is, doch ten aanzien van wie dit wel het geval is binnen vier weken na afloop van dat tijdvak.
 
-3. De [artikelen 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6&z=2009-01-01&g=2009-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=29&z=2009-01-01&g=2009-01-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=30&z=2009-01-01&g=2009-01-01) zijn van overeenkomstige toepassing met betrekking tot de aanspraak op heropening van de arbeidsongeschiktheidsuitkering, bedoeld in dit artikel.
+3. De [artikelen 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6&z=2009-07-01&g=2009-07-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=29&z=2009-07-01&g=2009-07-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=30&z=2009-07-01&g=2009-07-01) zijn van overeenkomstige toepassing met betrekking tot de aanspraak op heropening van de arbeidsongeschiktheidsuitkering, bedoeld in dit artikel.
 
 4. Het eerste en tweede lid zijn van overeenkomstige toepassing op bij algemene maatregel van bestuur aan te wijzen categorieën personen waarbij tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel buiten een justitiële inrichting plaatsvindt.
 
@@ -412,11 +414,11 @@ De jonggehandicapte die over een maand recht heeft op arbeidsongeschiktheidsuitk
 
 1. De vakantie-uitkering bedraagt acht procent van het bedrag aan arbeidsongeschiktheidsuitkering, waarop recht bestond in het tijdvak van twaalf maanden, voorafgaande aan de maand mei.
 
-2. Indien [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2009-01-01&g=2009-01-01), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=51&z=2009-01-01&g=2009-01-01) of [51a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=51a&z=2009-01-01&g=2009-01-01) is toegepast, wordt onder het bedrag aan arbeidsongeschiktheidsuitkering, bedoeld in het eerste lid, verstaan het bedrag van de arbeidsongeschiktheidsuitkering, nadat dat artikel toepassing heeft gevonden.
+2. Indien [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2009-07-01&g=2009-07-01), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=51&z=2009-07-01&g=2009-07-01) of [51a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=51a&z=2009-07-01&g=2009-07-01) is toegepast, wordt onder het bedrag aan arbeidsongeschiktheidsuitkering, bedoeld in het eerste lid, verstaan het bedrag van de arbeidsongeschiktheidsuitkering, nadat dat artikel toepassing heeft gevonden.
 
 3. Indien het percentage van de vakantiebijslag, bedoeld in [artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15), wordt gewijzigd, treedt dit gewijzigde percentage in de plaats van het in het eerste lid genoemde percentage. Het gewijzigde percentage wordt in aanmerking genomen over de uitkering waarop recht bestaat over het tijdvak aanvangende met de dag waarop de wijziging ingaat.
 
-4. Op de ambtshalve toekenning van een vakantie-uitkering zijn de [artikelen 3:41](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41) en [3:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:45) niet van toepassing.
+4. De vakantie-uitkering wordt betaald zonder dat dit bij beschikking is vastgesteld.
 
 ##### Artikel 23. Recht op vakantie-uitkering over overlijdensuitkering
 
@@ -442,7 +444,7 @@ Vervallen
 
 ##### Artikel 27. Melding gedurende wachttijd
 
-1. Ten einde een recht op arbeidsongeschiktheidsuitkering geldend te kunnen maken meldt de jonggehandicapte zijn arbeidsongeschiktheid binnen dertien weken na de dag waarop hij 17 jaar is geworden dan wel binnen dertien weken na de in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=5&z=2009-01-01&g=2009-01-01), bedoelde dag aan het Uitvoeringsinstituut werknemersverzekeringen.
+1. Ten einde een recht op arbeidsongeschiktheidsuitkering geldend te kunnen maken meldt de jonggehandicapte zijn arbeidsongeschiktheid binnen dertien weken na de dag waarop hij 17 jaar is geworden dan wel binnen dertien weken na de in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=5&z=2009-07-01&g=2009-07-01), bedoelde dag aan het Uitvoeringsinstituut werknemersverzekeringen.
 
 2. Voor het bepalen van het tijdvak van dertien weken, bedoeld in het eerste lid, worden perioden van arbeidsongeschiktheid samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8), [3:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10), [3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak. Bij de vaststelling van het tijdvak van dertien weken blijven perioden, waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8), [3:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10), [3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, buiten beschouwing.
 
@@ -452,9 +454,9 @@ Vervallen
 
 1. De arbeidsongeschiktheidsuitkering wordt op aanvraag toegekend.
 
-2. Het Uitvoeringsinstituut werknemersverzekeringen stelt de jonggehandicapte schriftelijk in kennis van de mogelijkheid van het doen van een aanvraag uiterlijk vier maanden voor de datum waarop het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6&z=2009-01-01&g=2009-01-01), genoemde tijdvak van 52 weken eindigt.
+2. Het Uitvoeringsinstituut werknemersverzekeringen stelt de jonggehandicapte schriftelijk in kennis van de mogelijkheid van het doen van een aanvraag uiterlijk vier maanden voor de datum waarop het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6&z=2009-07-01&g=2009-07-01), genoemde tijdvak van 52 weken eindigt.
 
-3. Het tweede lid is niet van toepassing, indien de jonggehandicapte de melding, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=27&z=2009-01-01&g=2009-01-01), niet of niet tijdig heeft gedaan. Indien de jonggehandicapte deze melding niet tijdig heeft gedaan, geldt de in het tweede lid bedoelde verplichting voor het Uitvoeringsinstituut werknemersverzekeringen uiterlijk drie maanden nadat de jonggehandicapte de melding heeft gedaan.
+3. Het tweede lid is niet van toepassing, indien de jonggehandicapte de melding, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=27&z=2009-07-01&g=2009-07-01), niet of niet tijdig heeft gedaan. Indien de jonggehandicapte deze melding niet tijdig heeft gedaan, geldt de in het tweede lid bedoelde verplichting voor het Uitvoeringsinstituut werknemersverzekeringen uiterlijk drie maanden nadat de jonggehandicapte de melding heeft gedaan.
 
 4. De jonggehandicapte die in aanmerking wenst te komen voor toekenning van de uitkering, doet zijn aanvraag binnen negen maanden na aanvang van zijn arbeidsongeschiktheid.
 
@@ -504,13 +506,13 @@ De vakantie-uitkering wordt ambtshalve of, ingeval artikel 52, eerste lid, tweed
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen kan, telkens wanneer het dat nodig oordeelt, oproepen of doen oproepen en op een door of namens hem te bepalen plaats ondervragen of doen ondervragen:
 
-- a. de jonggehandicapte, die de wachttijd van 52 weken, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6&z=2009-01-01&g=2009-01-01), doormaakt;
+- a. de jonggehandicapte, die de wachttijd van 52 weken, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=6&z=2009-07-01&g=2009-07-01), doormaakt;
 
 - b. de jonggehandicapte, die aanspraak maakt op of recht heeft op een arbeidsongeschiktheidsuitkering;
 
-- c. de jonggehandicapte ten aanzien van wie of ten behoeve van wie een reïntegratie-instrument als bedoeld in [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59a&z=2009-01-01&g=2009-01-01) of [59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-01-01&g=2009-01-01) is toegekend of waarvan toekenning wordt overwogen;
+- c. de jonggehandicapte ten aanzien van wie of ten behoeve van wie een reïntegratie-instrument als bedoeld in [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59a&z=2009-07-01&g=2009-07-01) of [59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-07-01&g=2009-07-01) is toegekend of waarvan toekenning wordt overwogen;
 
-- d. de ingezetene die de leeftijd van 17 jaar nog niet heeft bereikt en ten aanzien van wie of ten behoeve van wie een reïntegratie-instrument als bedoeld in [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59a&z=2009-01-01&g=2009-01-01) of [59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-01-01&g=2009-01-01) is toegekend of waarvan toekenning wordt overwogen.
+- d. de ingezetene die de leeftijd van 17 jaar nog niet heeft bereikt en ten aanzien van wie of ten behoeve van wie een reïntegratie-instrument als bedoeld in [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59a&z=2009-07-01&g=2009-07-01) of [59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-07-01&g=2009-07-01) is toegekend of waarvan toekenning wordt overwogen.
 
 2. Het Uitvoeringsinstituut werknemersverzekeringen kan de in het eerste lid bedoelde personen op een door of namens hem te bepalen plaats door een of meer daartoe door hem aangewezen deskundigen doen onderzoeken.
 
@@ -522,9 +524,9 @@ Opgeroepenen en, indien hun toestand geleide nodig maakt, mede hun geleiders, wo
 
 ##### Artikel 35. Voorschriften van medische of administratieve aard
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen en de door hem daartoe aangewezen deskundige kunnen de personen, bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=33&z=2009-01-01&g=2009-01-01), voorschriften geven in het belang van een behandeling of van genezing of tot behoud, herstel en bevordering van de mogelijkheid tot het verrichten van arbeid.
+1. Het Uitvoeringsinstituut werknemersverzekeringen en de door hem daartoe aangewezen deskundige kunnen de personen, bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=33&z=2009-07-01&g=2009-07-01), voorschriften geven in het belang van een behandeling of van genezing of tot behoud, herstel en bevordering van de mogelijkheid tot het verrichten van arbeid.
 
-2. Het Uitvoeringsinstituut werknemersverzekeringen kan voorschrijven dat personen, bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=33&z=2009-01-01&g=2009-01-01), zich laten registreren als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen.
+2. Het Uitvoeringsinstituut werknemersverzekeringen kan voorschrijven dat personen, bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=33&z=2009-07-01&g=2009-07-01), zich laten registreren als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen.
 
 3. Voor de toepassing van het eerste lid wordt niet als arbeid beschouwd arbeid op grond van een dienstbetrekking als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2) of [3 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3).
 
@@ -548,19 +550,19 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan controlevoorschriften vasts
 
 ##### Artikel 38. Gevolgen niet-naleving voorschriften
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2009-01-01&g=2009-01-01), indien de jonggehandicapte:
+1. Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2009-07-01&g=2009-07-01), indien de jonggehandicapte:
 
-- a. de door het Uitvoeringsinstituut werknemersverzekeringen of de door hem daartoe aangewezen deskundige krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=35&z=2009-01-01&g=2009-01-01) in het belang van een behandeling of genezing of tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid en tot registratie als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen gegeven voorschriften zonder deugdelijke grond niet opvolgt;
+- a. de door het Uitvoeringsinstituut werknemersverzekeringen of de door hem daartoe aangewezen deskundige krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=35&z=2009-07-01&g=2009-07-01) in het belang van een behandeling of genezing of tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid en tot registratie als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen gegeven voorschriften zonder deugdelijke grond niet opvolgt;
 
 - b. zich niet, zolang als het Uitvoeringsinstituut werknemersverzekeringen of de door hem daartoe aangewezen deskundige te kennen heeft gegeven dit noodzakelijk te achten, onder geneeskundige behandeling stelt of indien hij de voorschriften van de behandelende arts niet opvolgt;
 
 - c. zich schuldig maakt aan gedragingen, waardoor zijn genezing wordt belemmerd of nalaat voldoende mee te werken om aanpassing aan zijn ziekte of gebrek te verkrijgen;
 
-- d. de controlevoorschriften, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=36&z=2009-01-01&g=2009-01-01), of de verplichting, bedoeld in [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), niet of niet behoorlijk is nagekomen dan wel de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-01-01&g=2009-01-01), niet binnen de door het Uitvoeringsinstituut werknemersverzekeringen daarvoor vastgestelde termijn is nagekomen;
+- d. de controlevoorschriften, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=36&z=2009-07-01&g=2009-07-01), of de verplichting, bedoeld in [artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), niet of niet behoorlijk is nagekomen dan wel de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-07-01&g=2009-07-01), niet binnen de door het Uitvoeringsinstituut werknemersverzekeringen daarvoor vastgestelde termijn is nagekomen;
 
 - e. zijn arbeidsongeschiktheid opzettelijk heeft veroorzaakt;
 
-- f. zich niet houdt aan het voorschrift, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2009-01-01&g=2009-01-01);
+- f. zich niet houdt aan het voorschrift, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2009-07-01&g=2009-07-01);
 
 - g. zonder redelijke gronden niet meewerkt aan een scholing of opleiding die wenselijk wordt geacht voor zijn inschakeling in de arbeid;
 
@@ -576,89 +578,61 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan controlevoorschriften vasts
 
 ##### Artikel 39. Afstemming maatregel op ernst gedraging
 
-1. Een maatregel als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2009-01-01&g=2009-01-01) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=38&z=2009-01-01&g=2009-01-01) wordt afgestemd op de ernst van de gedraging en de mate waarin de jonggehandicapte de gedraging kan worden verweten. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
+1. Een maatregel als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2009-07-01&g=2009-07-01) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=38&z=2009-07-01&g=2009-07-01) wordt afgestemd op de ernst van de gedraging en de mate waarin de jonggehandicapte de gedraging kan worden verweten. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
-2. Indien het niet tijdig nakomen van de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-01-01&g=2009-01-01), niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van een uitkering als genoemd in dat artikel, of indien de jonggehandicapte zich niet houdt aan de voorschriften, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2009-01-01&g=2009-01-01), kan het Uitvoeringsinstituut werknemersverzekeringen afzien van het opleggen van een maatregel en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, tenzij het niet tijdig nakomen van de verplichting, of het zich niet houden aan de voorschriften, plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de jonggehandicapte een zodanige waarschuwing is gegeven.
+2. Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een maatregel als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet tijdig nakomen van de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-07-01&g=2009-07-01), indien het niet tijdig nakomen van de verplichting niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering, of ter zake van het zich niet houden aan het voorschrift, bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=28&z=2009-07-01&g=2009-07-01), tenzij het niet tijdig nakomen van de verplichting of het zich niet houden aan het voorschrift plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de jonggehandicapte een zodanige waarschuwing is gegeven.
 
-3. Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten van het opleggen van een maatregel af te zien.
+3. Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een maatregel indien daarvoor dringende redenen aanwezig zijn.
 
-4. Het opleggen van een maatregel blijft achterwege, indien voor dezelfde gedraging een boete als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=40&z=2009-01-01&g=2009-01-01) wordt opgelegd.
+4. Het opleggen van een maatregel blijft achterwege indien voor dezelfde gedraging een bestuurlijke boete als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=40&z=2009-07-01&g=2009-07-01) wordt opgelegd.
 
 5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste lid.
 
-##### Artikel 40. Boete bij niet-nakoming inlichtingenverplichting
+##### Artikel 40. Bestuurlijke boete bij niet-nakoming inlichtingenverplichting
 
-1. Indien de jonggehandicapte of zijn wettelijke vertegenwoordiger of de werkgever de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-01-01&g=2009-01-01), niet of niet behoorlijk is nagekomen, legt het Uitvoeringsinstituut werknemersverzekeringen hem een boete op van ten hoogste € 2 269.
+1. Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op van ten hoogste € 2 269 ter zake van het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijke vertegenwoordiger of de werkgever van de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-07-01&g=2009-07-01).
 
-2. De hoogte van de boete wordt afgestemd op de ernst van de gedraging, de mate waarin de jonggehandicapte of zijn wettelijke vertegenwoordiger de gedraging verweten kan worden en de omstandigheden waarin hij verkeert. Van het opleggen van een boete wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
+2. Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen door de jonggehandicapte of zijn wettelijk vertegenwoordiger van de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-07-01&g=2009-07-01), indien dit niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de jonggehandicapte of zijn wettelijke vertegenwoordiger een zodanige waarschuwing is gegeven.
 
-3. Indien het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-01-01&g=2009-01-01), niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van een uitkering als genoemd in dat artikel, kan het Uitvoeringsinstituut werknemersverzekeringen afzien van het opleggen van een boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen van de verplichting, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de jonggehandicapte of zijn wettelijke vertegenwoordiger een zodanige waarschuwing is gegeven.
+3. Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.
 
-4. Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten van het opleggen van een boete af te zien.
+4. De persoon aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de tenuitvoerlegging van de boete van belang zijn.
 
-5. De persoon aan wie een boete is opgelegd is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de tenuitvoerlegging van de boete van belang zijn.
-
-6. Voorzover de boete nog niet is geïnd, vervalt zij door het overlijden van degene aan wie zij is opgelegd.
-
-7. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.
+5. Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.
 
 ##### Artikel 41. Voorschriften rond voorgenomen boete-oplegging
 
-1. Indien het Uitvoeringsinstituut werknemersverzekeringen jegens de jonggehandicapte of zijn wettelijke vertegenwoordiger een handeling verricht waaraan deze in redelijkheid de gevolgtrekking kan verbinden dat hem wegens een bepaalde gedraging een boete zal worden opgelegd, is de jonggehandicapte of zijn wettelijke vertegenwoordiger niet langer verplicht ter zake van die gedragingen enige verklaring af te leggen, voor zover het de boete-oplegging betreft. De jonggehandicapte of zijn wettelijke vertegenwoordiger wordt hiervan in kennis gesteld alvorens hem mondeling om informatie wordt gevraagd.
+Vervallen
 
-2. Indien het Uitvoeringsinstituut werknemersverzekeringen voornemens is aan de jonggehandicapte of zijn wettelijke vertegenwoordiger een boete op te leggen, wordt hiervan kennis gegeven aan de jonggehandicapte of zijn wettelijke vertegenwoordiger onder vermelding van de gronden waarop het voornemen berust. De kennisgeving is een handeling als bedoeld in het eerste lid.
+##### Artikel 42. Nadere regels tenuitvoerlegging bestuurlijke boete
 
-3. Op verzoek van de jonggehandicapte of zijn wettelijke vertegenwoordiger die de kennisgeving, bedoeld in het tweede lid, wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt het Uitvoeringsinstituut werknemersverzekeringen er zoveel mogelijk zorg voor dat de in die kennisgeving vermelde gronden aan de jonggehandicapte of zijn wettelijke vertegenwoordiger worden meegedeeld in een voor hem begrijpelijke taal.
-
-4. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) stelt het Uitvoeringsinstituut werknemersverzekeringen de jonggehandicapte of zijn wettelijke vertegenwoordiger in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd.
-
-5. Indien de jonggehandicapte of zijn wettelijke vertegenwoordiger zijn zienswijze mondeling naar voren brengt, draagt het Uitvoeringsinstituut werknemersverzekeringen er op verzoek van de jonggehandicapte of zijn wettelijke vertegenwoordiger die de Nederlandse taal onvoldoende begrijpt, zorg voor dat een tolk wordt benoemd die hem kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
-
-##### Artikel 42. Voorschriften rond boetebesluit
-
-1. Het besluit waarbij de boete wordt opgelegd vermeldt de termijn of de termijnen waarbinnen deze moet worden betaald, alsmede de wijze waarop het besluit bij gebreke van tijdige betaling, overeenkomstig artikel 46 zal worden tenuitvoergelegd.
-
-2. Op verzoek van de jonggehandicapte of zijn wettelijke vertegenwoordiger die het in het eerste lid bedoelde besluit wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt het Uitvoeringsinstituut werknemersverzekeringen er zoveel mogelijk zorg voor dat de in dat besluit vermelde informatie aan de jonggehandicapte of zijn wettelijke vertegenwoordiger wordt meegedeeld in een voor hem begrijpelijke taal.
-
-3. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het eerste lid.
+Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij de bestuurlijke boete is opgelegd.
 
 ##### Artikel 43. Niet-oplegging van boete
 
-1. Een boete wordt niet opgelegd zolang de gedraging wordt onderzocht door het openbaar ministerie.
-
-2. De oplegging van een boete blijft definitief achterwege indien ter zake van de gedragingen tegen de jonggehandicapte of zijn wettelijke vertegenwoordiger een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvordering is vervallen op grond van [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74).
-
-3. Het openbaar ministerie doet van een omstandigheid als bedoeld in het eerste en het tweede lid mededeling aan het Uitvoeringsinstituut werknemersverzekeringen.
+Vervallen
 
 ##### Artikel 44. Termijnstelling van boete
 
-1. Een boete wordt opgelegd binnen een jaar nadat het Uitvoeringsinstituut werknemersverzekeringen de jonggehandicapte of zijn wettelijke vertegenwoordiger overeenkomstig artikel 41, vierde lid, in de gelegenheid heeft gesteld zijn zienswijze naar voren te brengen. Indien ter zake aangifte is gedaan of proces-verbaal is opgemaakt en ingezonden vangt het tijdvak van een jaar aan op de dag na die waarop het openbaar ministerie aan het Uitvoeringsinstituut werknemersverzekeringen heeft meegedeeld dat geen strafvervolging wordt ingesteld.
+Vervallen
 
-2. Een boete wordt in elk geval niet opgelegd na verloop van vijf jaren nadat de desbetreffende gedraging heeft plaatsgevonden.
+##### Artikel 45. Afwijking [8:69 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69)
 
-##### Artikel 45. Afwijking 8:69 Awb
+In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de jonggehandicapte of zijn wettelijke vertegenwoordiger wijzigen.
 
-In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69) kan de rechter in beroep of hoger beroep het bedrag waarop de boete is vastgesteld ook ten nadele van de jonggehandicapte of zijn wettelijke vertegenwoordiger wijzigen.
+##### Artikel 46. Invordering bestuurlijke boete
 
-##### Artikel 46. Boetebesluit executoriale titel
+1. Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822), de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), die de persoon aan wie een bestuurlijke boete is opgelegd ontvangt.
 
-1. Het besluit waarbij een boete is opgelegd levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede). De titel heeft mede betrekking op de rente en kosten, bedoeld in het zesde lid.
+2. De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of de [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837).
 
-2. Indien de persoon aan wie een boete is opgelegd een uitkering ontvangt op grond van deze wet, de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822)of de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), wordt het besluit waarbij de boete is opgelegd tenuitvoergelegd door verrekening met die uitkering of toeslag.
+3. De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479g) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen. Indien het Uitvoeringsinstituut werknemersverzekeringen gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:123), door middel van toezending per post aan de persoon aan wie de boete is opgelegd.
 
-3. Indien de persoon aan wie een boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of de [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837), betaalt de Sociale verzekeringsbank, onderscheidenlijk de betrokken gemeente het bedrag van die boete, zonder dat daarvoor een machtiging nodig is van hem, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen.
+4. Zolang de jonggehandicapte of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in [artikel 40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=40&z=2009-07-01&g=2009-07-01), niet of niet behoorlijk nakomt:
 
-4. Indien de persoon aan wie een boete is opgelegd geen uitkering of toeslag als bedoeld in het tweede of derde lid ontvangt, of meer ontvangt, dan wel ten aanzien van zodanige uitkering of toeslag toepassing van het tweede of derde lid niet mogelijk is, wordt het besluit waarbij de boete is opgelegd bij gebreke van tijdige betaling met toepassing van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) op zijn kosten betekend en tenuitvoergelegd.
+- a. is het Uitvoeringsinstituut werknemersverzekeringen in afwijking van [artikel 4:93 derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93) bevoegd tot verrekening van de bestuurlijke boete voor zover beslag op de vordering van de schuldeiser nietig zou zijn;
 
-5. De tenuitvoerlegging van een besluit waarbij een boete is opgelegd vindt plaats met toepassing van het tweede of derde lid, dan wel van het vierde lid, dan wel van het tweede of derde lid in combinatie met het vierde lid.
-
-6. Bij gebreke van tijdige betaling wordt de verschuldigde boete verhoogd met de wettelijke rente en de op de invordering betrekking hebbende kosten.
-
-7. Op het executoriaal beslag op grond van dit artikel door het Uitvoeringsinstituut werknemersverzekeringen op loon, sociale uitkeringen of andere periodieke betalingen, die derden verschuldigd zijn of worden aan degene aan wie een boete is opgelegd, zijn de [artikelen 479b tot en met 479g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479b) , behoudens [artikel 479e, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479e) van overeenkomstige toepassing. De in [artikel 479g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479g) aan het Landelijk Bureau Inning Onderhoudsbijdragen toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen.
-
-8. De tenuitvoerlegging van een besluit met toepassing van dit artikel geschiedt zodanig dat de jonggehandicapte of zijn wettelijke vertegenwoordiger blijft beschikken over een inkomen gelijk aan de beslagvrije voet, bedoeld in de [artikelen 475c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) en [475d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d).
-
-9. Het achtste lid geldt niet, zolang de jonggehandicapte of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in [artikel 40, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=40&z=2009-01-01&g=2009-01-01), niet of niet behoorlijk nakomt.
+- b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116), niet bij de invordering van een bestuurlijke boete bij dwangbevel.
 
 ### Afdeling 3. De betaling van de uitkering
 
@@ -666,23 +640,25 @@ In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten
 
 1. De arbeidsongeschiktheidsuitkering wordt betaalbaar gesteld door het Uitvoeringsinstituut werknemersverzekeringen. De betaling geschiedt als regel in tijdvakken van een maand.
 
-2. Het Uitvoeringsinstituut werknemersverzekeringen kan een uitkering als bedoeld in het eerste lid, over een door hem te bepalen tijdvak bij wege van voorschot betaalbaar stellen, indien onzekerheid bestaat over het recht op of de hoogte van de uitkering of de hoogte van het te betalen bedrag aan uitkering. Een verleend voorschot wordt verrekend met het definitief vastgestelde bedrag aan uitkering dat over het desbetreffende tijdvak wordt betaald.
-
-3. Onverminderd het tweede lid, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de arbeidsongeschiktheidsuitkering op of schorst het de betaling, indien het op grond van duidelijke aanwijzingen van oordeel is of het gegronde vermoeden heeft dat:
+2. Het Uitvoeringsinstituut werknemersverzekeringen schort de betaling van de arbeidsongeschiktheidsuitkering op of schorst het de betaling, indien het op grond van duidelijke aanwijzingen van oordeel is of het gegronde vermoeden heeft dat:
 
 - a. het recht op uitkering niet of niet meer bestaat;
 
 - b. recht op een lagere uitkering bestaat;
 
-- c. de jonggehandicapte of zijn wettelijke vertegenwoordiger een verplichting als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2009-01-01&g=2009-01-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=38&z=2009-01-01&g=2009-01-01) of [62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-01-01&g=2009-01-01) niet of niet behoorlijk is nagekomen.
+- c. de jonggehandicapte of zijn wettelijke vertegenwoordiger een verplichting als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=37&z=2009-07-01&g=2009-07-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=38&z=2009-07-01&g=2009-07-01) of [62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-07-01&g=2009-07-01) niet of niet behoorlijk is nagekomen.
 
-4. Ingeval de arbeidsongeschiktheidsuitkering in het buitenland wordt betaald worden de daaraan verbonden kosten van overmaking op de uitkering in mindering gebracht.
+3. Indien de arbeidsongeschiktheidsuitkering in het buitenland wordt uitbetaald:
 
-5. Wanneer de jonggehandicapte, aan wie een arbeidsongeschiktheidsuitkering is toegekend, een ander machtigt om de uitkering in ontvangst te nemen, onderscheidenlijk een verleende machtiging intrekt, wordt daaraan gevolg gegeven met ingang van een betalingstijdvak, aanvangende na de dag waarop de machtiging wordt ingediend, onderscheidenlijk waarop van haar intrekking mededeling wordt gedaan, doch niet later dan de eerste dag van de tweede maand na de dag van indiening onderscheidenlijk de mededeling.
+- a. worden de daaraan verbonden kosten van overmaking op de uitkering in mindering gebracht; en
 
-6. Indien een reïntegratiebedrijf aan het Uitvoeringsinstituut werknemersverzekeringen heeft gemeld dat het gegronde vermoeden bestaat dat een persoon aan wie een uitkering is toegekend onvoldoende medewerking verleent aan de op hem betrekking hebbende werkzaamheden van het reïntegratiebedrijf, neemt het Uitvoeringsinstituut werknemersverzekeringen een besluit omtrent de gehele of gedeeltelijke opschorting of schorsing van de betaling van de uitkering aan die persoon voor de duur van ten hoogste acht weken.
+- b. geschiedt de betaling in afwijking van [artikel 4:89, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:89) op het tijdstip waarop de rekening van de daartoe door de schuldeiser aangewezen bank wordt gecrediteerd.
 
-7. Het Uitvoeringsinstituut werknemersverzekeringen stelt het reïntegratiebedrijf in kennis van een besluit tot opschorting of schorsing als bedoeld in het zesde lid.
+4. Wanneer de jonggehandicapte, aan wie een arbeidsongeschiktheidsuitkering is toegekend, een ander machtigt om de uitkering in ontvangst te nemen, onderscheidenlijk een verleende machtiging intrekt, wordt daaraan gevolg gegeven met ingang van een betalingstijdvak, aanvangende na de dag waarop de machtiging wordt ingediend, onderscheidenlijk waarop van haar intrekking mededeling wordt gedaan, doch niet later dan de eerste dag van de tweede maand na de dag van indiening onderscheidenlijk de mededeling.
+
+5. Indien een reïntegratiebedrijf aan het Uitvoeringsinstituut werknemersverzekeringen heeft gemeld dat het gegronde vermoeden bestaat dat een persoon aan wie een uitkering is toegekend onvoldoende medewerking verleent aan de op hem betrekking hebbende werkzaamheden van het reïntegratiebedrijf, neemt het Uitvoeringsinstituut werknemersverzekeringen een besluit omtrent de gehele of gedeeltelijke opschorting of schorsing van de betaling van de uitkering aan die persoon voor de duur van ten hoogste acht weken.
+
+6. Het Uitvoeringsinstituut werknemersverzekeringen stelt het reïntegratiebedrijf in kennis van een besluit tot opschorting of schorsing als bedoeld in het vijfde lid.
 
 ##### Artikel 48. Inhouding vereveningsbijdrage
 
@@ -696,17 +672,17 @@ Het Uitvoeringsinstituut werknemersverzekeringen houdt op de arbeidsongeschikthe
 
 3. Indien het eerste lid toepassing vindt, heeft de in het tweede lid bedoelde bevoegdheid betrekking op het gedeelte van de arbeidsongeschiktheidsuitkering, dat niet aan het College voor zorgverzekeringen wordt betaald.
 
-4. Op de herziening van een beschikking op grond van het eerste lid als gevolg van een wijziging van de verschuldigde bijdrage zijn de [artikelen 3:41](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41) en [3:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:45) niet van toepassing.
+4. Een herziening van de betaling van de uitkering op grond van het eerste lid als gevolg van een wijziging van de verschuldigde bijdrage vindt plaats zonder dat dit bij beschikking is vastgesteld.
 
 ##### Artikel 50. Inkomsten uit arbeid tijdens uitkering
 
-1. Indien de jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering inkomsten uit arbeid geniet, wordt die arbeid gedurende een aaneengesloten tijdvak van vijf jaar, vanaf de eerste dag waarover de inkomsten uit arbeid worden genoten, niet aangemerkt als arbeid, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=2&z=2009-01-01&g=2009-01-01), en wordt de arbeidsongeschiktheidsuitkering niet ingetrokken of herzien, doch wordt de uitkering:
+1. Indien de jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering inkomsten uit arbeid geniet, wordt die arbeid gedurende een aaneengesloten tijdvak van vijf jaar, vanaf de eerste dag waarover de inkomsten uit arbeid worden genoten, niet aangemerkt als arbeid, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01), en wordt de arbeidsongeschiktheidsuitkering niet ingetrokken of herzien, doch wordt de uitkering:
 
-- a. niet betaald, indien de inkomsten uit arbeid zodanig zijn, dat als die arbeid wel arbeid als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=2&z=2009-01-01&g=2009-01-01), zou zijn, niet langer sprake zou zijn van arbeidsongeschiktheid van ten minste 25%; of
+- a. niet betaald, indien de inkomsten uit arbeid zodanig zijn, dat als die arbeid wel arbeid als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01), zou zijn, niet langer sprake zou zijn van arbeidsongeschiktheid van ten minste 25%; of
 
-- b. indien onderdeel a niet van toepassing is, betaald tot een bedrag ter grootte van de arbeidsongeschiktheidsuitkering, zoals deze zou zijn vastgesteld, indien die arbeid wel arbeid als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=2&z=2009-01-01&g=2009-01-01), zou zijn.
+- b. indien onderdeel a niet van toepassing is, betaald tot een bedrag ter grootte van de arbeidsongeschiktheidsuitkering, zoals deze zou zijn vastgesteld, indien die arbeid wel arbeid als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01), zou zijn.
 
-Na afloop van het in de eerste zin genoemde tijdvak wordt de arbeid aangemerkt als arbeid, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=2&z=2009-01-01&g=2009-01-01).
+Na afloop van het in de eerste zin genoemde tijdvak wordt de arbeid aangemerkt als arbeid, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01).
 
 2. Het in het eerste lid genoemde tijdvak van vijf jaar:
 
@@ -736,9 +712,9 @@ De afdracht geschiedt door middel van gelijktijdige verrekening met het aan het 
 
 1. Indien zowel recht bestaat op een arbeidsongeschiktheidsuitkering als op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), wordt de arbeidsongeschiktheidsuitkering slechts uitbetaald, voorzover deze de uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) overtreft.
 
-2. Het eerste lid is niet van toepassing, indien ter zake van arbeidsongeschiktheid recht ontstaat op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en in verband daarmee geen herziening op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=12&z=2009-01-01&g=2009-01-01) plaatsvindt van de voordien toegekende arbeidsongeschiktheidsuitkering.
+2. Het eerste lid is niet van toepassing, indien ter zake van arbeidsongeschiktheid recht ontstaat op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en in verband daarmee geen herziening op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=12&z=2009-07-01&g=2009-07-01) plaatsvindt van de voordien toegekende arbeidsongeschiktheidsuitkering.
 
-3. Indien ter zake van arbeidsongeschiktheid zowel recht ontstaat op herziening van de arbeidsongeschiktheidsuitkering in verband met de [artikelen 11 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=11&z=2009-01-01&g=2009-01-01) als op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), wordt de arbeidsongeschiktheidsuitkering slechts uitbetaald voorzover deze de uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) overtreft, doch in elk geval uitbetaald tot de hoogte van het bedrag onmiddellijk voorafgaande aan de herziening.
+3. Indien ter zake van arbeidsongeschiktheid zowel recht ontstaat op herziening van de arbeidsongeschiktheidsuitkering in verband met de [artikelen 11 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=11&z=2009-07-01&g=2009-07-01) als op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), wordt de arbeidsongeschiktheidsuitkering slechts uitbetaald voorzover deze de uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) overtreft, doch in elk geval uitbetaald tot de hoogte van het bedrag onmiddellijk voorafgaande aan de herziening.
 
 4. Indien na toepassing van het derde lid zowel de arbeidsongeschiktheidsuitkering als gevolg van toe- of afneming van de arbeidsongeschiktheid wordt herzien als de uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wijzigt, wordt de arbeidsongeschiktheidsuitkering in afwijking van het eerste lid, uitbetaald voorzover deze het bedrag van de uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) overtreft, doch in elk geval uitbetaald tot de hoogte van het bedrag onmiddellijk voorafgaande aan de herziening als bedoeld in het derde lid.
 
@@ -754,7 +730,7 @@ De afdracht geschiedt door middel van gelijktijdige verrekening met het aan het 
 
 - b. ter voorkoming van beperking of samenloop van arbeidsongeschiktheidsuitkering met arbeidsongeschiktheidsuitkering op grond van andere wetten.
 
-9. Voor de toepassing van het eerste en derde tot en met vijfde lid wordt als arbeidsongeschiktheidsuitkering van de jonggehandicapte op wie [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2009-01-01&g=2009-01-01) van toepassing is, in aanmerking genomen het bedrag van die uitkering nadat bedoeld artikel toepassing heeft gevonden.
+9. Voor de toepassing van het eerste en derde tot en met vijfde lid wordt als arbeidsongeschiktheidsuitkering van de jonggehandicapte op wie [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2009-07-01&g=2009-07-01) van toepassing is, in aanmerking genomen het bedrag van die uitkering nadat bedoeld artikel toepassing heeft gevonden.
 
 10. Bij algemene maatregel van bestuur kunnen regels worden gesteld ter voorkoming of beperking van samenloop van arbeidsongeschiktheidsuitkering op grond van de sociale wetgeving van de Nederlandse Antillen, Aruba of een andere Mogendheid.
 
@@ -792,7 +768,7 @@ Uitkeringen op grond van deze wet die niet in ontvangst zijn genomen of zijn ing
 
 ##### Artikel 55. Terugvordering
 
-1. De uitkering de loonsuppletie, bedoeld in [artikel 59f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59f&z=2009-01-01&g=2009-01-01), de inkomenssuppletie, bedoeld in [artikel 59g](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59g&z=2009-01-01&g=2009-01-01) en de voorziening of de kosten van de voorziening, bedoeld in [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-01-01&g=2009-01-01), die als gevolg van een besluit als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=16&z=2009-01-01&g=2009-01-01) onverschuldigd is verstrekt, alsmede hetgeen anderszins onverschuldigd is betaald, wordt door het Uitvoeringsinstituut werknemersverzekeringen teruggevorderd.
+1. De uitkering de loonsuppletie, bedoeld in [artikel 59f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59f&z=2009-07-01&g=2009-07-01), de inkomenssuppletie, bedoeld in [artikel 59g](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59g&z=2009-07-01&g=2009-07-01) en de voorziening of de kosten van de voorziening, bedoeld in [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-07-01&g=2009-07-01), die als gevolg van een besluit als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=16&z=2009-07-01&g=2009-07-01) onverschuldigd is verstrekt, alsmede hetgeen anderszins onverschuldigd is betaald, wordt door het Uitvoeringsinstituut werknemersverzekeringen teruggevorderd.
 
 2. In afwijking van het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen besluiten van terugvordering of van verdere terugvordering af te zien, indien degene van wie wordt teruggevorderd:
 
@@ -808,25 +784,23 @@ Uitkeringen op grond van deze wet die niet in ontvangst zijn genomen of zijn ing
 
 - a. het gemiddeld inkomen van de belanghebbende in die periode de beslagvrije voet bedoeld in de [artikelen 475c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) en [475d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) niet te boven is gegaan; en
 
-- b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-01-01&g=2009-01-01).
+- b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-07-01&g=2009-07-01).
 
 4. Indien daarvoor dringende redenen aanwezig zijn kan het Uitvoeringsinstituut werknemersverzekeringen besluiten geheel of gedeeltelijk van terugvordering af te zien.
 
-5. Het besluit tot terugvordering vermeldt hetgeen wordt teruggevorderd, de termijn of termijnen waarbinnen moet worden betaald, alsmede dat het besluit bij gebreke van tijdige betaling zal worden tenuitvoergelegd op de wijze als omschreven in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=56&z=2009-01-01&g=2009-01-01).
+5. De persoon van wie of de instelling waarvan wordt teruggevorderd is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de terugvordering van belang zijn.
 
-6. De persoon van wie of de instelling waarvan wordt teruggevorderd is verplicht desgevraagd aan het Uitvoeringsinstituut werknemersverzekeringen de inlichtingen te verstrekken die voor de terugvordering van belang zijn.
+6. In afwijking van het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen, onder voorwaarden die Onze Minister kan stellen, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een door Onze Minister vast te stellen bedrag niet te boven gaat.
 
-7. In afwijking van het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen, onder voorwaarden die Onze Minister kan stellen, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een door Onze Minister vast te stellen bedrag niet te boven gaat.
+##### Artikel 56. Invordering bij dwangbevel
 
-##### Artikel 56. Besluit als executoriale titel
-
-1. Het besluit tot terugvordering levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend).
+1. Het Uitvoeringsinstituut werknemersverzekeringen kan de onverschuldigd betaalde uitkering, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=36&z=2009-07-01&g=2009-07-01), invorderen bij dwangbevel.
 
 2. Artikel 46 is van overeenkomstige toepassing, met dien verstande dat indien het gemiddeld inkomen van de belanghebbende gedurende drie jaar de beslagvrije voet bedoeld in de [artikelen 475c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) en [475d van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) niet te boven is gegaan, het Uitvoeringsinstituut werknemersverzekeringen de aflossingsbedragen lager vaststelt.
 
-##### Artikel 57
+##### Artikel 57. Nadere regels tenuitvoerlegging onverschuldigde betaling
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de [artikelen 55, eerste, tweede, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=55&z=2009-01-01&g=2009-01-01), en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=56&z=2009-01-01&g=2009-01-01).
+Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij is vastgesteld dat onverschuldigd is betaald.
 
 ##### Artikel 58. Onvervreemdbaarheid van verstrekkingen
 
@@ -834,17 +808,17 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 - a. de arbeidsongeschiktheidsuitkering;
 
-- b. de verhoging van de arbeidsongeschiktheidsuitkering, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=9&z=2009-01-01&g=2009-01-01);
+- b. de verhoging van de arbeidsongeschiktheidsuitkering, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=9&z=2009-07-01&g=2009-07-01);
 
 - c. de vakantie-uitkering;
 
-- d. de loonsuppletie, bedoeld in [artikel 59f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59f&z=2009-01-01&g=2009-01-01);
+- d. de loonsuppletie, bedoeld in [artikel 59f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59f&z=2009-07-01&g=2009-07-01);
 
-- e. de inkomenssuppletie, bedoeld in [artikel 59g](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59g&z=2009-01-01&g=2009-01-01);
+- e. de inkomenssuppletie, bedoeld in [artikel 59g](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59g&z=2009-07-01&g=2009-07-01);
 
-- f. de voorzieningen, bedoeld in [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-01-01&g=2009-01-01);
+- f. de voorzieningen, bedoeld in [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-07-01&g=2009-07-01);
 
-- g. de tegemoetkoming, bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=9a&z=2009-01-01&g=2009-01-01).
+- g. de tegemoetkoming, bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=9a&z=2009-07-01&g=2009-07-01).
 
 2. Volmacht tot ontvangst van een uitkering onder welke vorm of welke benaming ook verleend, is steeds herroepelijk.
 
@@ -854,11 +828,11 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 Niet vatbaar voor beslag zijn:
 
-- a. de verhoging, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=9&z=2009-01-01&g=2009-01-01);
+- a. de verhoging, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=9&z=2009-07-01&g=2009-07-01);
 
-- b. de overlijdensuitkering, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=53&z=2009-01-01&g=2009-01-01);
+- b. de overlijdensuitkering, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=53&z=2009-07-01&g=2009-07-01);
 
-- c. de voorzieningen, bedoeld in [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-01-01&g=2009-01-01).
+- c. de voorzieningen, bedoeld in [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-07-01&g=2009-07-01).
 
 ### Hoofdstuk 3. De invloed van de verzekering op het burgerlijk recht
 
@@ -878,11 +852,11 @@ Bij de vaststelling van de schadevergoeding, waarop de jonggehandicapte naar bur
 
 ##### Artikel 62. Verplichting tot verstrekken van inlichtingen
 
-1. De jonggehandicapte, diens wettelijke vertegenwoordiger alsmede de instelling bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=49&z=2009-01-01&g=2009-01-01), waaraan arbeidsongeschiktheidsuitkering wordt betaald, zijn verplicht aan het Uitvoeringsinstituut werknemersverzekeringen, op zijn verzoek of onverwijld uit eigen beweging mededeling te doen van alle feiten of omstandigheden, waarvan het hun redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op uitkering, de hoogte van de uitkering, het geldend maken van het recht op uitkering of op het bedrag van de uitkering, dat wordt betaald. Deze verplichting geldt niet indien die feiten en omstandigheden door het Uitvoeringsinstituut werknemersverzekeringen kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.
+1. De jonggehandicapte, diens wettelijke vertegenwoordiger alsmede de instelling bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=49&z=2009-07-01&g=2009-07-01), waaraan arbeidsongeschiktheidsuitkering wordt betaald, zijn verplicht aan het Uitvoeringsinstituut werknemersverzekeringen, op zijn verzoek of onverwijld uit eigen beweging mededeling te doen van alle feiten of omstandigheden, waarvan het hun redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op uitkering, de hoogte van de uitkering, het geldend maken van het recht op uitkering of op het bedrag van de uitkering, dat wordt betaald. Deze verplichting geldt niet indien die feiten en omstandigheden door het Uitvoeringsinstituut werknemersverzekeringen kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.
 
-2. Op de jonggehandicapte die aanspraak maakt op of recht heeft op een vakantie-uitkering dan wel een tegemoetkoming als bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=9a&z=2009-01-01&g=2009-01-01), en diens wettelijke vertegenwoordiger rusten overeenkomstige verplichtingen als omschreven in het eerste lid.
+2. Op de jonggehandicapte die aanspraak maakt op of recht heeft op een vakantie-uitkering dan wel een tegemoetkoming als bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=9a&z=2009-07-01&g=2009-07-01), en diens wettelijke vertegenwoordiger rusten overeenkomstige verplichtingen als omschreven in het eerste lid.
 
-3. De jonggehandicapte aan wie een reïntegratie-instrument als bedoeld in [hoofdstuk 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&z=2009-01-01&g=2009-01-01) is verstrekt of toegekend, of aan wie verstrekking of toekenning daarvan wordt overwogen, alsmede diens wettelijk vertegenwoordiger, en de werkgever ten behoeve van wie het Uitvoeringsinstituut werknemersverzekeringen de aanspraak op een geldelijke beloning voor de verrichte arbeid, op grond van [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59a&z=2009-01-01&g=2009-01-01), heeft verminderd, zijn verplicht aan het Uitvoeringsinstituut werknemersverzekeringen op zijn verzoek of onverwijld uit eigen beweging mededeling te doen van alle feiten en omstandigheden, waarvan hun redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de verstrekking of toekenning of op de duur of de hoogte van het reïntegratie-instrument.
+3. De jonggehandicapte aan wie een reïntegratie-instrument als bedoeld in [hoofdstuk 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&z=2009-07-01&g=2009-07-01) is verstrekt of toegekend, of aan wie verstrekking of toekenning daarvan wordt overwogen, alsmede diens wettelijk vertegenwoordiger, en de werkgever ten behoeve van wie het Uitvoeringsinstituut werknemersverzekeringen de aanspraak op een geldelijke beloning voor de verrichte arbeid, op grond van [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59a&z=2009-07-01&g=2009-07-01), heeft verminderd, zijn verplicht aan het Uitvoeringsinstituut werknemersverzekeringen op zijn verzoek of onverwijld uit eigen beweging mededeling te doen van alle feiten en omstandigheden, waarvan hun redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de verstrekking of toekenning of op de duur of de hoogte van het reïntegratie-instrument.
 
 ### Hoofdstuk 2A. Reïntegratie-instrumenten
 
@@ -896,11 +870,11 @@ In de middelen tot dekking van de uitgaven ten laste van het Arbeidsongeschikthe
 
 - a. het Rijk;
 
-- b. de bedragen, bedoeld in artikel 48;
+- b. de bedragen, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=48&z=2009-07-01&g=2009-07-01);
 
-- c. de boeten, bedoeld in artikel 40;
+- c. de bestuurlijke boeten, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=40&z=2009-07-01&g=2009-07-01);
 
-- d. de bedragen die het Uitvoeringsinstituut werknemersverzekeringen ontvangt met toepassing van verhaal als bedoeld in artikel 61.
+- d. de bedragen die het Uitvoeringsinstituut werknemersverzekeringen ontvangt met toepassing van verhaal als bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=3&artikel=61&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 65. Uitgaven ten laste van Arbeidsongeschiktheidsfonds jonggehandicapten
 
@@ -910,19 +884,19 @@ In de middelen tot dekking van de uitgaven ten laste van het Arbeidsongeschikthe
 
 - b. de op grond van enige wet over de uitkeringen op grond van deze wet door het Uitvoeringsinstituut werknemersverzekeringen verschuldigde premies of vergoedingen als bedoeld in [artikel 46 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46) die niet op deze uitkeringen in mindering kunnen worden gebracht;
 
-- c. het op grond van [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2009-01-01&g=2009-01-01), aan 's Rijks kas af te dragen bedrag;
+- c. het op grond van [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50&z=2009-07-01&g=2009-07-01), aan 's Rijks kas af te dragen bedrag;
 
 - d. het op grond van [artikel 2.8 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8) aan het Reïntegratiefonds af te dragen bedrag;
 
 - e. de aan de uitvoering van deze wet verbonden kosten;
 
-- f. de subsidies, bedoeld in [artikel 50a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50a&z=2009-01-01&g=2009-01-01), en de kosten in verband met de uitvoering van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50a&z=2009-01-01&g=2009-01-01);
+- f. de subsidies, bedoeld in [artikel 50a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50a&z=2009-07-01&g=2009-07-01), en de kosten in verband met de uitvoering van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=50a&z=2009-07-01&g=2009-07-01);
 
 - g. de reïntegratie-instrumenten op grond van deze wet;
 
 - h. de kosten verband houdende met de uitvoering van [artikel 30, eerste lid, onderdeel b, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30) ten aanzien van een betrokkene, indien deze ten tijde van het aanvangen van de werkzaamheden van het reïntegratiebedrijf, bedoeld in het [zesde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30), een uitkering ontvangt ten laste van het Arbeidsongeschiktheidsfonds jonggehandicapten;
 
-- i. de tegemoetkomingen, bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=9a&z=2009-01-01&g=2009-01-01).
+- i. de tegemoetkomingen, bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=9a&z=2009-07-01&g=2009-07-01).
 
 2. Het Uitvoeringsinstituut werknemersverzekeringen kan nadere regels stellen omtrent het eerste lid.
 
@@ -948,7 +922,7 @@ Vervallen
 
 ##### Artikel 68. Begrip belanghebbende
 
-Bij een besluit op grond van deze wet dat betrekking heeft op het al dan niet bestaan of voortbestaan dan wel de mate van arbeidsongeschiktheid is belanghebbende degene op wiens aanspraken het besluit betrekking heeft.
+Vervallen
 
 ##### Artikel 69. Beslistermijnen
 
@@ -984,7 +958,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van 
 
 ##### Artikel 73. Strafbepaling
 
-Overtreding van bepalingen van een krachtens deze wet uitgevaardigde algemene maatregel van bestuur voor zover uitdrukkelijk als strafbaar feit in de zin van dit artikel aangeduid, wordt gestraft met een hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
+Een gedraging die in strijd is met een krachtens deze wet uitgevaardigde algemene maatregel van bestuur voor zover uitdrukkelijk als strafbaar feit in de zin van dit artikel aangeduid, wordt gestraft met een hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
 ##### Artikel 73a. Strafbepaling inzake artikel 62
 
@@ -1000,17 +974,17 @@ Vervallen
 
 ##### Artikel 74. Verval van recht tot strafvordering
 
-Het recht tot strafvordering vervalt indien het Uitvoeringsinstituut werknemersverzekeringen aan de jonggehandicapte of zijn wettelijke vertegenwoordiger ter zake van hetzelfde feit reeds een boete heeft opgelegd.
+Vervallen
 
 ##### Artikel 75. Overtredingen
 
-De in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=8&artikel=73&z=2009-01-01&g=2009-01-01) bedoelde strafbare feiten worden als overtredingen beschouwd.
+De in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=8&artikel=73&z=2009-07-01&g=2009-07-01) bedoelde strafbare feiten worden als overtredingen beschouwd.
 
 ### Hoofdstuk 6. Vervallen
 
-##### Artikel 76. Overgangsbepaling in verband met [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=3&artikel=61&z=2009-01-01&g=2009-01-01)
+##### Artikel 76. Overgangsbepaling in verband met [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=3&artikel=61&z=2009-07-01&g=2009-07-01)
 
-In gedingen aangevangen voor het van toepassing worden van [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=3&artikel=61&z=2009-01-01&g=2009-01-01), bepaalt de rechter op verzoek van een van de partijen of ambtshalve een termijn waarbinnen partijen de gelegenheid wordt geboden hun stellingen en conclusies voor zover nodig aan te passen aan [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=3&artikel=61&z=2009-01-01&g=2009-01-01). Stelt de rechter partijen tot een zodanige aanpassing in de gelegenheid, dan staat tegen die beslissing geen rechtsmiddel open; wijst de rechter een daartoe strekkend verzoek af, dan staat een rechtsmiddel daartegen slechts gelijktijdig met de einduitspraak open.
+In gedingen aangevangen voor het van toepassing worden van [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=3&artikel=61&z=2009-07-01&g=2009-07-01), bepaalt de rechter op verzoek van een van de partijen of ambtshalve een termijn waarbinnen partijen de gelegenheid wordt geboden hun stellingen en conclusies voor zover nodig aan te passen aan [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=3&artikel=61&z=2009-07-01&g=2009-07-01). Stelt de rechter partijen tot een zodanige aanpassing in de gelegenheid, dan staat tegen die beslissing geen rechtsmiddel open; wijst de rechter een daartoe strekkend verzoek af, dan staat een rechtsmiddel daartegen slechts gelijktijdig met de einduitspraak open.
 
 ##### Artikel 77. Buiten toepassingverklaring van [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448)
 
@@ -1058,7 +1032,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 46a. In kennisstellen reïntegratiebedrijf van sanctie-oplegging
 
-Indien het Uitvoeringsinstituut werknemersverzekeringen de jonggehandicapte de uitkering tijdelijk of blijvend, geheel of gedeeltelijk heeft geweigerd dan wel hem een boete heeft opgelegd, stelt het Uitvoeringsinstituut werknemersverzekeringen het reïntegratiebedrijf dat ten behoeve van die jonggehandicapte werkzaamheden gericht op vergroting van de mogelijkheden tot het verrichten van arbeid of op inschakeling in arbeid verricht, van die beschikking in kennis voorzover dat noodzakelijk is voor de uitvoering van de werkzaamheden door het reïntegratiebedrijf.
+Indien het Uitvoeringsinstituut werknemersverzekeringen de jonggehandicapte de uitkering tijdelijk of blijvend, geheel of gedeeltelijk heeft geweigerd dan wel hem een bestuurlijke boete heeft opgelegd, stelt het Uitvoeringsinstituut werknemersverzekeringen het reïntegratiebedrijf dat ten behoeve van die jonggehandicapte werkzaamheden gericht op vergroting van de mogelijkheden tot het verrichten van arbeid of op inschakeling in arbeid verricht, van die beschikking in kennis voorzover dat noodzakelijk is voor de uitvoering van de werkzaamheden door het reïntegratiebedrijf.
 
 ### Afdeling 3. De betaling van de uitkering
 
@@ -1066,9 +1040,9 @@ Indien het Uitvoeringsinstituut werknemersverzekeringen de jonggehandicapte de u
 
 1. Indien zowel recht bestaat op een arbeidsongeschiktheidsuitkering als op een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), wordt de arbeidsongeschiktheidsuitkering slechts uitbetaald, voor zover deze de arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) overtreft.
 
-2. Het eerste lid is niet van toepassing, indien ter zake van arbeidsongeschiktheid recht ontstaat op een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) en in verband daarmee geen herziening op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=12&z=2009-01-01&g=2009-01-01) plaatsvindt van de voordien toegekende arbeidsongeschiktheidsuitkering.
+2. Het eerste lid is niet van toepassing, indien ter zake van arbeidsongeschiktheid recht ontstaat op een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) en in verband daarmee geen herziening op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=12&z=2009-07-01&g=2009-07-01) plaatsvindt van de voordien toegekende arbeidsongeschiktheidsuitkering.
 
-3. Indien ter zake van arbeidsongeschiktheid zowel recht bestaat op herziening van de arbeidsongeschiktheidsuitkering in verband met de [artikelen 11 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=11&z=2009-01-01&g=2009-01-01) als op toekenning van een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), wordt de arbeidsongeschiktheidsuitkering slechts uitbetaald voor zover deze de arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) overtreft, doch in ieder geval uitbetaald tot de hoogte van het bedrag onmiddellijk voorafgaande aan de herziening.
+3. Indien ter zake van arbeidsongeschiktheid zowel recht bestaat op herziening van de arbeidsongeschiktheidsuitkering in verband met de [artikelen 11 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=11&z=2009-07-01&g=2009-07-01) als op toekenning van een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), wordt de arbeidsongeschiktheidsuitkering slechts uitbetaald voor zover deze de arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) overtreft, doch in ieder geval uitbetaald tot de hoogte van het bedrag onmiddellijk voorafgaande aan de herziening.
 
 4. Indien na toepassing van het derde lid zowel de arbeidsongeschiktheidsuitkering als de arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) als gevolg van toe- of afneming van de arbeidsongeschiktheid wordt herzien, wordt de arbeidsongeschiktheidsuitkering, in afwijking van het eerste lid, uitbetaald voor zover deze het bedrag van de arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) overtreft, doch in elk geval uitbetaald tot de hoogte van het bedrag onmiddellijk voorafgaande aan de herziening als bedoeld in het derde lid.
 
@@ -1096,7 +1070,7 @@ In afwijking van [artikel 7:3 van de Algemene wet bestuursrecht](https://wetten.
 
 ##### Artikel 72a. [Titel 4.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2)
 
-[Titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) is niet van toepassing op aanspraken op grond van [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-01-01&g=2009-01-01).
+[Titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) is niet van toepassing op aanspraken op grond van [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-07-01&g=2009-07-01).
 
 ### Hoofdstuk 8. Strafbepalingen
 
@@ -1104,13 +1078,13 @@ In afwijking van [artikel 7:3 van de Algemene wet bestuursrecht](https://wetten.
 
 ##### Artikel 76b. Overgangsbepaling in verband met intrekken [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
-1. Een beschikking tot vermindering van de aanspraak op een geldelijke beloning voor de verrichte arbeid op grond van [artikel 7 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=7), aan de jonggehandicapte die op de dag voorafgaand aan de dag waarop [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=7) op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10), vervalt, de leeftijd van 18 jaar nog niet had bereikt dan wel recht had op een arbeidsongeschiktheidsuitkering op grond van deze wet wordt voor de duur van het tijdvak waarvoor die aanspraak op grond van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) is verminderd aangemerkt als een beschikking tot vermindering van de aanspraak op een geldelijke beloning voor de verrichte arbeid als bedoeld in [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59a&z=2009-01-01&g=2009-01-01).
+1. Een beschikking tot vermindering van de aanspraak op een geldelijke beloning voor de verrichte arbeid op grond van [artikel 7 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=7), aan de jonggehandicapte die op de dag voorafgaand aan de dag waarop [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=7) op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10), vervalt, de leeftijd van 18 jaar nog niet had bereikt dan wel recht had op een arbeidsongeschiktheidsuitkering op grond van deze wet wordt voor de duur van het tijdvak waarvoor die aanspraak op grond van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) is verminderd aangemerkt als een beschikking tot vermindering van de aanspraak op een geldelijke beloning voor de verrichte arbeid als bedoeld in [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59a&z=2009-07-01&g=2009-07-01).
 
 2. Een beschikking tot toekenning van een voorziening op grond van [artikel 31, tweede lid, onderdeel b, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=31), aan de jonggehandicapte die op de dag voorafgaand aan de dag waarop [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=31) op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10), vervalt, dag de leeftijd van 18 jaar nog niet had bereikt dan wel recht had op een arbeidsongeschiktheidsuitkering wordt voor de duur van het tijdvak waarvoor die voorziening op grond van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) is toegekend aangemerkt als een beschikking tot toekenning van een voorziening als bedoeld in [artikel 35, eerste lid juncto tweede lid, onderdeel d, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35).
 
-3. Een beschikking tot toekenning van loonsuppletie op grond van [artikel 32 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=32), aan de jonggehandicapte die op de dag voorafgaand aan de dag waarop [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=32) op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10), vervalt, de leeftijd van 18 jaar nog niet had bereikt dan wel recht had op een arbeidsongeschiktheidsuitkering wordt voor de duur waarvoor die loonsuppletie was toegekend aangemerkt als een beschikking tot toekenning van loonsuppletie als bedoeld in [artikel 59f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59f&z=2009-01-01&g=2009-01-01).
+3. Een beschikking tot toekenning van loonsuppletie op grond van [artikel 32 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=32), aan de jonggehandicapte die op de dag voorafgaand aan de dag waarop [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=32) op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10), vervalt, de leeftijd van 18 jaar nog niet had bereikt dan wel recht had op een arbeidsongeschiktheidsuitkering wordt voor de duur waarvoor die loonsuppletie was toegekend aangemerkt als een beschikking tot toekenning van loonsuppletie als bedoeld in [artikel 59f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59f&z=2009-07-01&g=2009-07-01).
 
-4. Een beschikking tot toekenning van inkomenssuppletie op grond van [artikel 29 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=29), aan de jonggehandicapte die op de dag voorafgaand aan de dag waarop [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=29) op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10), vervalt, de leeftijd van 18 jaar nog niet had bereikt dan wel recht had op een arbeidsongeschiktheidsuitkering wordt voor de duur waarvoor die inkomenssuppletie was toegekend aangemerkt als inkomenssuppletie als bedoeld in [artikel 59g](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59g&z=2009-01-01&g=2009-01-01).
+4. Een beschikking tot toekenning van inkomenssuppletie op grond van [artikel 29 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=29), aan de jonggehandicapte die op de dag voorafgaand aan de dag waarop [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=29) op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10), vervalt, de leeftijd van 18 jaar nog niet had bereikt dan wel recht had op een arbeidsongeschiktheidsuitkering wordt voor de duur waarvoor die inkomenssuppletie was toegekend aangemerkt als inkomenssuppletie als bedoeld in [artikel 59g](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59g&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 76c. Overgangsbepaling subsidiëring REA-scholingsinstituten
 
@@ -1128,7 +1102,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Bij ministeriële regeling worden in ieder geval regels gesteld voor de hoogte van de tegemoetkoming en de betaling van de tegemoetkoming.
 
-4. Op de toekenning van de tegemoetkoming zijn de [artikelen 3:41](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41) en [3:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:45) niet van toepassing.
+4. De tegemoetkoming wordt betaald zonder dat dit bij beschikking is vastgesteld.
+
+5. De betaling van de tegemoetkoming vindt plaats binnen een maand nadat het recht op de tegemoetkoming is vastgesteld en geschiedt vervolgens in dezelfde termijnen als die waarin de betaling van de arbeidsongeschiktheidsuitkering plaatsvindt.
 
 #### § 2. Vakantie-uitkering
 
@@ -1146,7 +1122,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 52a. Betaling van de tegemoetkoming
 
-De [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=32&z=2009-01-01&g=2009-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=47&z=2009-01-01&g=2009-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=49&z=2009-01-01&g=2009-01-01), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=55&z=2009-01-01&g=2009-01-01), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=56&z=2009-01-01&g=2009-01-01) en [57](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=57&z=2009-01-01&g=2009-01-01) zijn van overeenkomstige toepassing ten aanzien van de betaling van de tegemoetkoming, bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=9a&z=2009-01-01&g=2009-01-01), voor zover bij of krachtens deze wet niet anders is bepaald.
+De [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=32&z=2009-07-01&g=2009-07-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=47&z=2009-07-01&g=2009-07-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=49&z=2009-07-01&g=2009-07-01), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=55&z=2009-07-01&g=2009-07-01), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=56&z=2009-07-01&g=2009-07-01) en [57](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=57&z=2009-07-01&g=2009-07-01) zijn van overeenkomstige toepassing ten aanzien van de betaling van de tegemoetkoming, bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=9a&z=2009-07-01&g=2009-07-01), voor zover bij of krachtens deze wet niet anders is bepaald.
 
 ##### Artikel 59a. Loondispensatie
 
@@ -1232,7 +1208,7 @@ Vervallen
 
 ##### Artikel 59i
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de aanvraag van loonsuppletie, bedoeld in [artikel 59f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59f&z=2009-01-01&g=2009-01-01), van inkomenssuppletie, bedoeld in [artikel 59g](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59g&z=2009-01-01&g=2009-01-01), van voorzieningen, bedoeld in [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-01-01&g=2009-01-01) en van toestemming als bedoeld in [artikel 59h](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59h&z=2009-01-01&g=2009-01-01).
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de aanvraag van loonsuppletie, bedoeld in [artikel 59f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59f&z=2009-07-01&g=2009-07-01), van inkomenssuppletie, bedoeld in [artikel 59g](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59g&z=2009-07-01&g=2009-07-01), van voorzieningen, bedoeld in [artikel 59b](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59b&z=2009-07-01&g=2009-07-01) en van toestemming als bedoeld in [artikel 59h](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59h&z=2009-07-01&g=2009-07-01).
 
 ### Hoofdstuk 5. Financiering
 
@@ -1270,7 +1246,7 @@ Indien voor het vaststellen van het recht op uitkering op grond van deze wet, in
 
 #### § 2. Toekenning
 
-#### § 3. Maatregelen en boeten
+#### § 3. Maatregelen en bestuurlijke boeten
 
 ### Afdeling 3. De betaling van de uitkering
 
@@ -1290,7 +1266,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 57a. Schuldregeling
 
-1. In afwijking van [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=55&z=2009-01-01&g=2009-01-01), kan het Uitvoeringsinstituut werknemersverzekeringen, op verzoek van de jonggehandicapte, besluiten gedeeltelijk van terugvordering of gedeeltelijk van verdere terugvordering af te zien door medewerking aan een schuldregeling, indien:
+1. In afwijking van [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=55&z=2009-07-01&g=2009-07-01), kan het Uitvoeringsinstituut werknemersverzekeringen, op verzoek van de jonggehandicapte, besluiten gedeeltelijk van terugvordering of gedeeltelijk van verdere terugvordering af te zien door medewerking aan een schuldregeling, indien:
 
 - a. redelijkerwijs te voorzien is dat de jonggehandicapte niet zal kunnen voortgaan met het betalen van zijn schulden of indien hij in de toestand verkeert dat hij heeft opgehouden te betalen;
 
@@ -1304,7 +1280,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig [artikel 349 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=349).
 
-2. Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door de jonggehandicapte van de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-01-01&g=2009-01-01), en hiervoor een boete als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=40&z=2009-01-01&g=2009-01-01) is opgelegd, dan wel indien hiervoor aangifte is gedaan op grond van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854).
+2. Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door de jonggehandicapte van de verplichting, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=4&artikel=62&z=2009-07-01&g=2009-07-01), en hiervoor een boete als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=40&z=2009-07-01&g=2009-07-01) is opgelegd, dan wel indien hiervoor aangifte is gedaan op grond van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854).
 
 3. Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van de jonggehandicapte gewijzigd indien:
 
@@ -1318,7 +1294,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 57b. Preferentie
 
-Een vordering van het Uitvoeringsinstituut werknemersverzekeringen als bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=55&z=2009-01-01&g=2009-01-01) en [57a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=57a&z=2009-01-01&g=2009-01-01) van deze wet is bevoorrecht en volgt onmiddellijk na de vorderingen uit [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
+Een vordering van het Uitvoeringsinstituut werknemersverzekeringen als bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=55&z=2009-07-01&g=2009-07-01) en [57a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=3&artikel=57a&z=2009-07-01&g=2009-07-01) van deze wet is bevoorrecht en volgt onmiddellijk na de vorderingen uit [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
 
 ### Hoofdstuk 2A. Reïntegratie-instrumenten
 
@@ -1348,11 +1324,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - c. indien ten behoeve van de jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering in de vijf jaar voorafgaand aan de indicatiebeschikking, bedoeld in het derde lid, niet eerder loonkostensubsidie op grond van dit artikel of het [Tijdelijk besluit brugbanen herbeoordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0023551) is verstrekt; en
 
-- d. indien de jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering in de zes maanden voorafgaand aan de indicatiebeschikking, bedoeld in het derde lid, geen werkzaamheden op een proefplaats als bedoeld in [artikel 59h](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59h&z=2009-01-01&g=2009-01-01) of [artikel 76a van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76a) heeft verricht.
+- d. indien de jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering in de zes maanden voorafgaand aan de indicatiebeschikking, bedoeld in het derde lid, geen werkzaamheden op een proefplaats als bedoeld in [artikel 59h](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59h&z=2009-07-01&g=2009-07-01) of [artikel 76a van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76a) heeft verricht.
 
 5. Onder additionele arbeid als bedoeld in het vierde lid, onderdeel a, wordt verstaan primair op de arbeidsinschakeling gerichte arbeid of het naast of in aanvulling op reguliere arbeid verrichten van werkzaamheden die niet leiden tot verdringing op de arbeidsmarkt.
 
-6. De subsidie bedraagt ten hoogste 50% van het wettelijk minimumloon, bedoeld in [artikel 8, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) of, indien het een werknemer jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=7&z=2009-01-01&g=2009-01-01), en [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=8&z=2009-01-01&g=2009-01-01), van deze wet. Het bedrag, bedoeld in de eerste zin, wordt naar evenredigheid verminderd, indien de overeengekomen arbeidsduur korter is dan de normale arbeidsduur, bedoeld in [artikel 12 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=12). Indien ten behoeve van de betrokken werknemer [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59a&z=2009-01-01&g=2009-01-01) van deze wet toepassing vindt, bedraagt de subsidie, zo nodig in afwijking van de eerste zin, ten hoogste de aanspraak op een geldelijke beloning voor verrichte arbeid die krachtens dat [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59a&z=2009-01-01&g=2009-01-01) is vastgesteld.
+6. De subsidie bedraagt ten hoogste 50% van het wettelijk minimumloon, bedoeld in [artikel 8, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) of, indien het een werknemer jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=7&z=2009-07-01&g=2009-07-01), en [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=8&z=2009-07-01&g=2009-07-01), van deze wet. Het bedrag, bedoeld in de eerste zin, wordt naar evenredigheid verminderd, indien de overeengekomen arbeidsduur korter is dan de normale arbeidsduur, bedoeld in [artikel 12 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=12). Indien ten behoeve van de betrokken werknemer [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59a&z=2009-07-01&g=2009-07-01) van deze wet toepassing vindt, bedraagt de subsidie, zo nodig in afwijking van de eerste zin, ten hoogste de aanspraak op een geldelijke beloning voor verrichte arbeid die krachtens dat [artikel 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59a&z=2009-07-01&g=2009-07-01) is vastgesteld.
 
 7. De subsidie kan voor maximaal twaalf maanden worden verstrekt.
 
@@ -1368,7 +1344,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 59k. Loonkostensubsidie niet-uitkeringsgerechtigde herbeoordeelden
 
-1. In afwijking van [artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) en [artikel 30, eerste lid, onderdeel b, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30) is [artikel 59j](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59j&z=2009-01-01&g=2009-01-01) van overeenkomstige toepassing met betrekking tot de persoon:
+1. In afwijking van [artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) en [artikel 30, eerste lid, onderdeel b, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30) is [artikel 59j](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59j&z=2009-07-01&g=2009-07-01) van overeenkomstige toepassing met betrekking tot de persoon:
 
 - a. wiens arbeidsongeschiktheidsuitkering is ingetrokken als gevolg van de toepassing van artikel 28, vijfde lid, alsmede de persoon op wie dat artikel, op grond van [artikel 2, tweede lid, van het Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=2), niet van toepassing is en wiens arbeidsongeschiktheidsuitkering is ingetrokken;
 
@@ -1376,7 +1352,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - c. die op de dag voorafgaand aan de eerste dag van de dienstbetrekking met betrekking waartoe loonkostensubsidie wordt aangevraagd geen tegemoetkoming ontvangt op grond van de [Tijdelijke regeling inkomensgevolgen herbeoordeelde arbeidsongeschikten](https://wetten.overheid.nl/jci1.3:c:BWBR0017646).
 
-2. De leeftijdsgrens, bedoeld in [artikel 59j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59j&z=2009-01-01&g=2009-01-01), is niet van toepassing op deze persoon.
+2. De leeftijdsgrens, bedoeld in [artikel 59j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59j&z=2009-07-01&g=2009-07-01), is niet van toepassing op deze persoon.
 
 ##### Artikel 59l
 
@@ -1388,12 +1364,12 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan de jonggehandicapte, die re
 
 ##### Artikel 76d. Mogelijkheid vervallen loonkostensubsidie
 
-1. [Artikel 59j](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59j&z=2009-01-01&g=2009-01-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+1. [Artikel 59j](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59j&z=2009-07-01&g=2009-07-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-2. [Artikel 59k](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59k&z=2009-01-01&g=2009-01-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+2. [Artikel 59k](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59k&z=2009-07-01&g=2009-07-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 76e. Overgangsrecht [Tijdelijk besluit brugbanen herbeoordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0023551)
 
-De loonkostensubsidie die voor de dag van inwerkingtreding van de [Wet stimulering arbeidsparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0025045), op grond van het [Tijdelijk besluit brugbanen herbeoordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0023551), is verstrekt aan een werkgever ten behoeve van een persoon die op de dag voor aanvang van die gesubsidieerde dienstbetrekking recht had op een arbeidsongeschiktheidsuitkering wordt aangemerkt als loonkostensubsidie als bedoeld in [artikel 59j](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59j&z=2009-01-01&g=2009-01-01).
+De loonkostensubsidie die voor de dag van inwerkingtreding van de [Wet stimulering arbeidsparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0025045), op grond van het [Tijdelijk besluit brugbanen herbeoordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0023551), is verstrekt aan een werkgever ten behoeve van een persoon die op de dag voor aanvang van die gesubsidieerde dienstbetrekking recht had op een arbeidsongeschiktheidsuitkering wordt aangemerkt als loonkostensubsidie als bedoeld in [artikel 59j](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&hoofdstuk=2A&artikel=59j&z=2009-07-01&g=2009-07-01).
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
