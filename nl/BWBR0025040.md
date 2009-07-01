@@ -4,7 +4,7 @@ identifier: "BWBR0025040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-24"
-last_updated: "2009-03-08"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025040"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Als een aangewezen regionale of lokale publieke media-instelling voor een aanslu
 
 ##### Artikel 8. Afwijken van adviseringsprocedure
 
-Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2009-03-08&g=2009-03-08).
+Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 9. Intrekken aanwijzing
 
@@ -150,7 +150,7 @@ Een besluit tot intrekking van de aanwijzing op grond van [artikel 2.67, eerste 
 
 ##### Artikel 13. Voorschotten Wereldomroep
 
-De regels over het verstrekken van voorschotten in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=12&z=2009-03-08&g=2009-03-08) zijn van overeenkomstige toepassing op de Wereldomroep, met dien verstande dat de bevoegdheden aan het Commissariaat toekomen en de hoogte van de voorschotten mede wordt bepaald op basis van de begroting, bedoeld in [artikel 2.160 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.160).
+De regels over het verstrekken van voorschotten in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=12&z=2009-07-01&g=2009-07-01) zijn van overeenkomstige toepassing op de Wereldomroep, met dien verstande dat de bevoegdheden aan het Commissariaat toekomen en de hoogte van de voorschotten mede wordt bepaald op basis van de begroting, bedoeld in [artikel 2.160 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.160).
 
 ##### Artikel 14. Evaluatiecommissies
 
@@ -224,7 +224,7 @@ Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](ht
 
 1. Het Stimuleringsfonds bevestigt de ontvangst van een aanvraag.
 
-2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2009-03-08&g=2009-03-08) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
+2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2009-07-01&g=2009-07-01) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
 
 ##### Artikel 22. Subsidieverlening
 
@@ -250,17 +250,9 @@ Het Stimuleringsfonds kan aan de subsidie verplichtingen verbinden met betrekkin
 
 1. Het Stimuleringsfonds kan voorschotten verstrekken tot ten hoogste vijftig procent van het verleende subsidiebedrag.
 
-2. Als het Stimuleringsfonds de subsidie lager vaststelt dan het bedrag van de verstrekte voorschotten, betaalt de subsidieontvanger het verschil op eerste aanmaning terug.
-
 ##### Artikel 25. Intrekken subsidieverlening
 
-Het Stimuleringsfonds kan een subsidieverlening intrekken en verstrekte voorschotten terugvorderen als:
-
-- a. aan de subsidieverlening verbonden voorschriften niet worden nageleefd;
-
-- b. blijkt dat de bij de aanvraag ingediende gegevens onjuist waren; en
-
-- c. binnen een jaar na de subsidieverlening een surseance van betaling of een faillissement van de aanvrager is uitgesproken.
+Het Stimuleringsfonds kan ook een subsidieverlening intrekken en verstrekte voorschotten terugvorderen als binnen een jaar na de subsidieverlening een surseance van betaling of een faillissement van de aanvrager is uitgesproken.
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -292,7 +284,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 ##### Artikel 3a. Inrichting aanvraag erkenning
 
-1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-03-08&g=2009-03-08), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
+1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-07-01&g=2009-07-01), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
 
 2. Een aanvraag gaat vergezeld van vier kopieën.
 
@@ -334,7 +326,7 @@ Het Stimuleringsfonds dient jaarlijks vóór 15 september een begroting in.
 
 ##### Artikel 25b. Indiening aanvraag voor erkenningperiode 2010–2015
 
-In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-03-08&g=2009-03-08), dienen de omroepverenigingen en de educatieve media-instelling, bedoeld in [artikel 2.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.28), de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), voor de erkenningperiode die begint op 1 september 2010, in het tijdvak 27 juli tot en met 31 juli 2009 in bij het Commissariaat.
+In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-07-01&g=2009-07-01), dienen de omroepverenigingen en de educatieve media-instelling, bedoeld in [artikel 2.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.28), de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), voor de erkenningperiode die begint op 1 september 2010, in het tijdvak 27 juli tot en met 31 juli 2009 in bij het Commissariaat.
 
 ## Bijlage
 
