@@ -4,7 +4,7 @@ identifier: "BWBR0013371"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2006-03-08"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013371"
 soort: "AMvB"
@@ -122,7 +122,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De aanvragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=2&z=2006-03-08&g=2006-03-08), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=3&z=2006-03-08&g=2006-03-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=3&artikel=4&z=2006-03-08&g=2006-03-08), worden uiterlijk twaalf maanden na het einde van de bijstandsverlening of de bestrijding van de ramp of het zware ongeval en de gevolgen daarvan ingediend bij Onze Minister.
+1. De aanvragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=2&z=2009-07-01&g=2009-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=3&z=2009-07-01&g=2009-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=3&artikel=4&z=2009-07-01&g=2009-07-01), worden uiterlijk twaalf maanden na het einde van de bijstandsverlening of de bestrijding van de ramp of het zware ongeval en de gevolgen daarvan ingediend bij Onze Minister.
 
 2. De aanvraag gaat vergezeld van de opgave van de kosten, welke is voorzien van bewijsstukken, alsmede een verslag van de gebeurtenissen.
 
@@ -134,9 +134,7 @@ Onze Minister beslist binnen zes maanden na indiening van de aanvraag.
 
 ##### Artikel 7
 
-1. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op de bijdragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=2&z=2006-03-08&g=2006-03-08), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=3&z=2006-03-08&g=2006-03-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=3&artikel=4&z=2006-03-08&g=2006-03-08).
-
-2. Het verzoek gaat vergezeld van een voorlopige opgave van de kosten.
+Vervallen
 
 ##### Artikel 8
 
