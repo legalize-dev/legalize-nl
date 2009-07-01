@@ -1,0 +1,233 @@
+---
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 juni 2009, nr. IVV/I/2009/13367, houdende regels omtrent tenuitvoerlegging van bestuurlijke boeten en terugvordering van onverschuldigde betalingen op grond van een aantal socialezekerheidswetten (Regeling tenuitvoerlegging bestuurlijke boeten en terugvordering onverschuldigde betalingen)"
+identifier: "BWBR0026017"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2009-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026017"
+soort: "ministeriele-regeling"
+stam_id: "10091933"
+version_id: "20558352"
+internal_id: "C28908741"
+label_id: "10068334"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026017/2025-01-01/0"
+intitule_bron: "Stcrt.2009-117"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-06-23"
+intitule_published: "2009-06-29"
+intitule_in_force: "2009-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-15191"
+original_signed_date: "2013-06-03"
+original_published_date: "2013-06-10"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2013-15191"
+entry_into_force_date: "2013-06-03"
+jci_1_3: "jci1.3:c:BWBR0026017&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0026017&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling tenuitvoerlegging bestuurlijke boeten en terugvordering onverschuldigde betalingen"
+signed_date: "2013-06-03"
+entry_into_force: "2013-06-03"
+---
+# Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 juni 2009, nr. IVV/I/2009/13367, houdende regels omtrent tenuitvoerlegging van bestuurlijke boeten en terugvordering van onverschuldigde betalingen op grond van een aantal socialezekerheidswetten (Regeling tenuitvoerlegging bestuurlijke boeten en terugvordering onverschuldigde betalingen)
+
+Handelende in overeenstemming met de Minister voor Jeugd en Gezin en de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
+
+Gelet op de [artikelen 17c](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17c) en [24b van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24b), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=41) en [55 van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=55),[17e](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17e) en [24b van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24b), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14c) en [20b van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20b), [27c](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27c) en [36b van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36b), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=42) en [57 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=57), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=50) en [65 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=65), [29c](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29c) en [57b van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57b), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=79) en [93 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=93) en [33b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33b) en [45c van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45c);
+
+Besluit:
+
+##### Artikel 1. Definities
+
+In deze regeling wordt verstaan onder:
+
+- a. **AKW:** [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368);
+
+- b. **Anw:** [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795);
+
+- c. **AOW:** [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
+
+- d. **TW:** [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
+
+- e. **WW:** [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+
+- f. **WAZO:** [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
+
+- g. **Wajong:** [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+
+- h. **WAZ:** [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
+
+- i. **WAO:** [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+
+- j. **Wet WIA:** [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
+
+- k. **ZW:** [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+
+- l. **schuldenaar:** degene aan wie een bestuurlijke boete is opgelegd of van wie een bedrag wordt teruggevorderd;
+
+- m. **werkgever:** de schuldenaar die tevens werkgever of eigenrisicodrager is;
+
+- n. **bestuurlijke boete:** een bestuurlijke boete als bedoeld in het eerste lid van de artikelen 17a van de AKW, 39 van de Anw, 17c van de AOW, 14a van de TW, 27a van de WW, 3:16 en 3:27 van de WAZO, 40 van de Wajong, 48 van de WAZ, 29a van de WAO, 91 van de Wet WIA, en in de artikelen 38, vierde lid, 38a, zevende lid, 45a, eerste lid, en 63c van de ZW;
+
+- o. **vordering:**
+
+- a. het bedrag dat wordt teruggevorderd op grond van de artikelen 24 van de AKW, 53 van de Anw, 24 van de AOW, 20 van de TW, 36 van de WW, 3:16 en 3:27 van de WAZO, 55 van de Wajong, 63 van de WAZ, 57 van de WAO, 77 van de Wet WIA, of 33 van de ZW; ;
+
+- b. het bedrag dat als bestuurlijke boete is opgelegd;
+
+- c. het bedrag dat het UWV op de werkgever verhaalt op grond van de artikelen 71, tweede lid, 75a, vierde lid, 75b, zevende lid, 75f, eerste lid, van de WAO, 72, tweede lid, 83, derde lid, 84, tweede of vierde lid, van de Wet WIA, 39a, eerste lid, of 63a, derde, vierde of vijfde lid, van de ZW of
+
+- d. het bedrag van een aan een werkgever verstrekt re-integratie-instrument dat wordt teruggevorderd op grond van artikel 77 van de Wet WIA;
+
+- p. **aflossingscapaciteit:** het deel van het inkomen van de schuldenaar dat met inachtneming van de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering, kan worden aangewend voor betaling of verrekening van de vordering;
+
+- q. **vermogen:** vermogensrechten, onroerende en roerende zaken, niet zijnde gebruikelijke huisraad, waarvan de dagwaarde per zaak € 1 134 of meer bedraagt;
+
+- r. **inlichtingenverplichting:** de verplichting, bedoeld in de artikelen 15 van de AKW, 35 van de Anw, 49 van de AOW, 12 van de TW, 25 van de WW, 3:16 en 3:27 van de WAZO, 62 van de Wajong, 70 van de WAZ, 80 van de WAO, 27, eerste lid, van de Wet WIA en 31, eerste lid, en 49 van de ZW;
+
+- s. **bijstandsnorm:** de voor de schuldenaar op grond van hoofdstuk 3, paragraaf 3.2 en paragraaf 3.3, van de Wet werk en bijstand geldende bijstandsnorm;
+
+- t. **UWV:** Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;
+
+- u. **SVB:** de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen.
+
+##### Artikel 2. Bevoegdheid verrekening met werkgever
+
+Het UWV is, naast de in artikel 1, onderdeel a tot en met k, genoemde wetten opgenomen bevoegdheden tot verrekening van vorderingen op werknemers, tevens bevoegd tot verrekening van een vordering op de werkgever met een aan de werkgever te betalen bedrag.
+
+##### Artikel 3. Standaard regeling voor uitstel van betaling
+
+1. Het UWV en de SVB stellen de termijn waarvoor uitstel van betaling wordt verleend, alsmede de daaraan verbonden periodieke betalingen of verrekeningen, vast na overleg met de schuldenaar en met inachtneming van dit artikel, tenzij:
+
+- a. de vordering een bestuurlijke boete betreft;
+
+- b. de onverschuldigde betaling het gevolg is van een gedraging waarvoor aan de schuldenaar een bestuurlijke boete is opgelegd;
+
+- c. de onverschuldigde betaling het gevolg is van een gedraging waarvan het UWV of de SVB aangifte heeft gedaan of waarvan proces-verbaal is opgemaakt en ingezonden; of
+
+- d. de vordering het gevolg is van het niet nakomen van de inlichtingenverplichting.
+
+2. Het UWV en de SVB verlenen uitstel van betaling voor ten hoogste 36 maanden. De geldschuld wordt gedurende die periode in termijnen ter hoogte van de volledige aflossingscapaciteit betaald of verrekend.
+
+3. In afwijking van het tweede lid, tweede zin, wordt op verzoek van de schuldenaar ten minste de halve aflossingscapaciteit toegepast onder de voorwaarde dat de vordering geheel wordt voldaan binnen de in het tweede lid genoemde termijn van 36 maanden. De schuldenaar wordt erop gewezen dat kwijtschelding als bedoeld in de artikelen 24, derde lid, van de AKW, 53, derde lid, van de Anw, 24, derde lid, van de AOW, 20, derde lid, van de TW, 36, derde lid, van de WW, 3:16 en 3:27 van de WAZO, 55, derde lid, van de Wajong, 63, derde lid, van de WAZ, 57, derde lid, van de WAO, 77, derde lid, van de Wet WIA of 33, derde lid, van de ZW niet mogelijk is.
+
+4. Indien de schuldenaar hogere periodieke betalingen of verrekeningen voorstelt dan het bedrag, bedoeld in het tweede lid, stelt het UWV of de SVB de termijnen conform dit voorstel vast.
+
+5. De periodieke betaling of verrekening wordt gesteld op de volledige aflossingscapaciteit verminderd met 5% van de bijstandsnorm indien:
+
+- a. de schuldenaar met aanwending van zijn volledige aflossingscapaciteit en vermogen niet in staat is de vordering binnen 36 maanden te voldoen; en
+
+- b. periodieke betaling of verrekening gedurende 60 maanden van het aldus verkregen bedrag leidt tot een grotere voldoening van de vordering dan betaling of verrekening gedurende 36 maanden van het op grond van het tweede en derde lid verkregen bedrag.
+
+6. Indien de schuldenaar, bij aanwending van zijn volledige aflossingscapaciteit, de vordering niet binnen 36 maanden of bij aanwending van de volledige aflossingscapaciteit verminderd met 5% van de bijstandsnorm, niet binnen 60 maanden volledig zal kunnen voldoen, wendt hij zijn vermogen aan zodat een zodanig gedeelte van de vordering binnen zes weken, nadat het UWV of de SVB aan de schuldenaar uitstel van betaling heeft verleend, wordt voldaan dat hij het resterende deel van de geldschuld binnen 36 maanden, dan wel 60 maanden, kan voldoen.
+
+Indien echter de schuldenaar ten genoegen van het UWV of de SVB zekerheid stelt voor voldoening van de gehele vordering binnen 36 maanden, dan wel 60 maanden, nadat uitstel van betaling is verleend, behoeft de schuldenaar zijn vermogen niet aan te wenden.
+
+7. Indien toepassing van dit artikel tot een kennelijk onredelijk resultaat leidt kan het UWV of de SVB van het eerste tot en met zesde lid afwijken.
+
+##### Artikel 4. Regeling voor uitstel van betaling bij schending inlichtingenplicht
+
+1. Het UWV en de SVB stellen in de uitzonderingsgevallen genoemd in artikel 3, eerste lid, onderdelen a tot en met d, de termijn waarvoor uitstel van betaling wordt verleend, alsmede de daaraan verbonden periodieke betalingen of verrekeningen, vast na overleg met de schuldenaar en met inachtneming van dit artikel.
+
+2. De periodieke betalingen of verrekeningen worden door het UWV en de SVB zodanig vastgesteld dat gebruik wordt gemaakt van de volledige aflossingscapaciteit van de schuldenaar.
+
+3. Indien de schuldenaar hogere periodieke betalingen of verrekeningen voorstelt dan het bedrag, bedoeld in het tweede lid, dan stelt het UWV of de SVB het bedrag conform dit voorstel vast.
+
+4. Indien de schuldenaar de vordering niet binnen 12 maanden volledig zal kunnen voldoen, wendt hij zijn vermogen aan zodat een zodanig gedeelte van de vordering binnen zes weken, nadat het UWV of de SVB aan de schuldenaar uitstel van betaling heeft verleend, wordt voldaan dat hij de resterende vordering binnen 12 maanden kan voldoen. Indien echter de schuldenaar ten genoegen van het UWV of de SVB zekerheid stelt voor voldoening van de gehele vordering binnen 12 maanden, nadat uitstel van betaling is verleend, behoeft de schuldenaar zijn vermogen niet aan te wenden.
+
+5. Onverminderd het bepaalde in artikel 8 stelt het UWV of de SVB de termijnen waarbinnen wordt verrekend of moet worden betaald vast over een periode van meer dan 12 maanden indien de schuldenaar, ook na aanwending van zijn vermogen, niet in staat is de vordering binnen 12 maanden te voldoen.
+
+6. Artikel 3, zevende lid, is van overeenkomstige toepassing op dit artikel.
+
+##### Artikel 5. Voldoening vordering tot en met € 300,–
+
+Indien de vordering op de schuldenaar niet meer bedraagt dan € 300,– stelt het UWV of de SVB, in afwijking van de artikelen 3 en 4, de wijze waarop deze vordering moet worden voldaan vast zonder de schuldenaar in de gelegenheid te stellen een voorstel te doen met betrekking tot de wijze van voldoening van de vordering, met dien verstande dat per periode van een maand de aflossing op niet meer dan € 52,– kan worden vastgesteld.
+
+##### Artikel 6. Uitstel van betaling op voorstel schuldenaar
+
+Het UWV en de SVB kunnen, in afwijking van de artikelen 3 en 4, uitstel van betaling verlenen conform een voorstel van de schuldenaar indien:
+
+- a. de schuldenaar hierom gemotiveerd verzoekt tot uiterlijk zes weken na bekendmaking van een beschikking tot betaling van een geldschuld; en
+
+- b. het voorstel inhoudt dat de gehele vordering binnen 12 maanden, eventueel door middel van periodieke betalingen of verrekeningen, wordt voldaan.
+
+##### Artikel 7. Voorschriften uitstel van betaling
+
+1. Het UWV en de SVB verbinden aan een beschikking tot uitstel van betaling in ieder geval de voorschriften dat:
+
+- a. de vordering gedurende de periode waarover uitstel van betaling is verleend door middel van betalingen of verrekeningen, in periodieken of ineens, wordt voldaan; en
+
+- b. de beschikking tot uitstel van betaling kan worden ingetrokken of gewijzigd indien wijziging plaatsvindt in de hoogte van de inkomsten van de schuldenaar.
+
+2. Het UWV en de SVB bepalen in de beschikking tot uitstel van betaling dat slechts wettelijke rente als bedoeld in artikel 4:98 van de Algemene wet bestuursrecht is verschuldigd vanaf het tijdstip dat de termijn is verstreken waarbinnen volgens die beschikking de betaling had moeten plaatsvinden of had moeten worden verrekend en dat deze rente slechts verschuldigd is over de resterende vordering.
+
+##### Artikel 8. Versoepeling betalingsregeling na vijf jaar
+
+Indien de schuldenaar de vordering na vijf jaren, waarin hij zich heeft gehouden aan de vastgestelde periodieke betalingen of verrekeningen, nog niet volledig heeft voldaan wordt de periodieke betaling of verrekening gesteld op de volledige aflossingscapaciteit verminderd met 5% van de bijstandsnorm.
+
+##### Artikel 9. Toerekening van betalingen
+
+Tenzij de schuldenaar een andere vordering aanwijst wordt een betaling, die zou kunnen worden toegerekend aan meerdere vorderingen, eerst toegerekend aan een verschuldigde bestuurlijke boete.
+
+##### Artikel 10. Toepasselijkheid op de werkgever
+
+De artikelen 3, 4 en 8 zijn niet van toepassing op de werkgever.
+
+##### Artikel 11. Intrekken andere regelingen en overgangsrecht
+
+1. De Regeling betaling, terugvordering en tenuitvoerlegging van boeten en onverschuldigde betalingen, het Besluit incasso boeten en onverschuldigde betalingen werkgevers en het Besluit invordering boeten en onverschuldigd betaalde bedragen AOW, Anw en AKW worden ingetrokken.
+
+2. Een regeling als bedoeld in het eerste lid blijft van toepassing ten aanzien van een verplichting tot betaling van een geldsom die is vastgesteld voor het tijdstip waarop deze regeling in werking treedt.
+
+##### Artikel 12. Inwerkingtreding
+
+Deze regeling treedt in werking op het tijdstip waarop de Vierde tranche Algemene wet bestuursrecht in werking treedt.
+
+##### Artikel 13. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling tenuitvoerlegging bestuurlijke boeten en terugvordering onverschuldigde betalingen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust mede op de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=22), [24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=24), [35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=35), en [37 van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=37).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 11a. Overgangsrecht versoepeling betalingsregeling
+
+Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=8&z=2013-01-01&g=2013-01-01) geldt ten aanzien van vorderingen die zijn ontstaan voor 1 januari 2013 een tijdsduur van 5 jaar.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 10a. Regeling verrekening bestuurlijke boete bij recidive
+
+1. Indien [artikel 14h, vijfde lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14h), [27h, vijfde lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27h), [54a, vijfde lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=54a), [24a, vijfde lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=24a), [29h, vijfde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29h), [3:44, vijfde lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:44), [97, vijfde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=97), [45h, vijfde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45h), [17h, vijfde lid, van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17h), [45a, vijfde lid, van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=45a) of [17j, vijfde lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17j) van toepassing is, wordt bij de verrekening van de bestuurlijke boete, bedoeld in deze artikelen, op aanvraag een deel van de toeslag, de uitkering, de kinderbijslag of het ouderdomspensioen vrijgelaten overeenkomstig dit artikel met ingang van de eerste betaling na de datum van aanvraag.
+
+2. Voor zover de hoogte van de toeslag, de uitkering, de kinderbijslag of het ouderdomspensioen daartoe de ruimte biedt, is het vrijgelaten deel, bedoeld in het eerste lid, met inachtneming van het vierde en vijfde lid, gelijk aan de som van een naar een tijdseenheid te herleiden gedeelte voor:
+
+- a. zorgkosten: € 530 per kalenderjaar voor een alleenstaande en € 1031 per kalenderjaar voor een belanghebbende met een echtgenoot of geregistreerd partner met wie hij een gezamenlijke huishouding voert, en
+
+- b. kosten van kinderen: indien de belanghebbende ouder is en voor een kind voor wie aan die ouder op grond van [artikel 18 van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=18) kinderbijslag wordt betaald: 50 procent van het bedrag, bedoeld in [artikel 2, tweede lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2), dat gelet op het aantal kinderen van toepassing is.
+
+3. Van een gezamenlijke huishouding, bedoeld in het tweede lid, onderdeel a, is sprake indien twee personen hun hoofdverblijf in dezelfde woning hebben en zij blijk geven zorg te dragen voor elkaar door middel van het leveren van een bijdrage in de kosten van de huishouding dan wel anderszins.
+
+4. Het bedrag van het vrijgelaten deel, bedoeld in het tweede lid, wordt in verband met woonkosten vermeerderd indien de belanghebbende huurder is van een woning met een kale huur van niet meer dan € 681 per maand of mede een huurwoning bewoont met zo’n huur.
+
+5. De vermeerdering, bedoeld in het vierde lid, bedraagt 50 procent van een naar tijdseenheid te herleiden bedrag gelijk aan het verschil tussen de kale huur per maand minus een basisbedrag van € 222 per maand.
+
+6. Onder kale huur als bedoel in het vierde en vijfde lid wordt verstaan de huurprijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van een woning.
+
+7. De aanvraag, bedoeld in het eerste lid, wordt ingediend bij het UWV indien de verrekening plaatsvindt op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), [IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en bij de SVB indien de verrekening plaatsvindt op grond van de [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), [Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) of de [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
+
+8. Door het UWV en de SVB kunnen bewijsstukken worden verlangd die noodzakelijk zijn voor de vaststelling van het vrij te laten deel en die de belanghebbende bij de aanvraag dient te overleggen.
+
+9. Het op grond van het tweede, vierde en vijfde lid vastgestelde bedrag van de vrijlating wordt slechts op aanvraag herzien met ingang van de eerste betaling na de datum van aanvraag, in geval er sprake is van een wijziging van de persoonlijke omstandigheden die zouden hebben geleid tot een wijziging van de zorgkosten, bedoeld in het tweede lid, onderdeel a, de kosten van kinderen, bedoeld in het tweede lid, onderdeel b, of de woonkosten, bedoeld in het vierde lid.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
