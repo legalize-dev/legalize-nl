@@ -4,7 +4,7 @@ identifier: "BWBR0012704"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-07-01"
-last_updated: "2002-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012704"
 soort: "ministeriele-regeling"
@@ -47,35 +47,33 @@ In deze regeling wordt verstaan onder:
 
 1. De vergunninghouder is met ingang van het zevende jaar na het jaar van vergunningverlening jaarlijks een bedrag verschuldigd als bedoeld in [artikel 3.3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.3a).
 
-2. De hoogte van het bedrag, bedoeld in het eerste lid, is gelijk aan vijftien procent van de aan de exploitatie van de vergunning toe te rekenen netto-omzet in het desbetreffende boekjaar waarop een afdrachtvrij bedrag als bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=I&z=2002-01-01&g=2002-01-01) bij deze regeling in mindering is gebracht. Het boekjaar is gelijk aan het kalenderjaar.
+2. De hoogte van het bedrag, bedoeld in het eerste lid, is gelijk aan vijftien procent van de aan de exploitatie van de vergunning toe te rekenen netto-omzet in het desbetreffende boekjaar waarop een afdrachtvrij bedrag als bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=I&z=2009-07-01&g=2009-07-01) bij deze regeling in mindering is gebracht. Het boekjaar is gelijk aan het kalenderjaar.
 
 3. De netto-omzet, bedoeld in het tweede lid, is gelijk aan de opbrengsten uit levering van goederen en diensten die valt toe te rekenen aan de exploitatie van de vergunning, onder aftrek van kortingen en van over de omzet geheven belastingen.
 
 ##### Artikel 3
 
-1. De vergunninghouder verstrekt de minister met ingang van het zesde jaar na het jaar waarin de vergunning is verleend jaarlijks voor 1 juli een financieel overzicht volgens het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=II&z=2002-01-01&g=2002-01-01) bij deze regeling opgenomen model.
+1. De vergunninghouder verstrekt de minister met ingang van het zesde jaar na het jaar waarin de vergunning is verleend jaarlijks voor 1 juli een financieel overzicht volgens het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=II&z=2009-07-01&g=2009-07-01) bij deze regeling opgenomen model.
 
-2. In het financieel overzicht legt de vergunninghouder in elk geval verantwoording af over de exploitatie van de vergunning in het voorafgaande boekjaar. Het financieel overzicht bevat de gegevens die van belang zijn voor het berekenen van de nettoomzet, bedoeld in [artikel 2, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2002-01-01&g=2002-01-01).
+2. In het financieel overzicht legt de vergunninghouder in elk geval verantwoording af over de exploitatie van de vergunning in het voorafgaande boekjaar. Het financieel overzicht bevat de gegevens die van belang zijn voor het berekenen van de nettoomzet, bedoeld in [artikel 2, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2009-07-01&g=2009-07-01).
 
 3. Het financieel overzicht dient te zijn voorzien van een verklaring omtrent de getrouwheid daarvan, ondertekend door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek, aan wie de vergunninghouder de opdracht tot onderzoek van de verantwoording heeft gegeven.
 
-4. De verklaring wordt opgesteld met inachtneming van het in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=III&z=2002-01-01&g=2002-01-01) bij deze regeling opgenomen protocol en overeenkomstig het in die bijlage opgenomen model.
+4. De verklaring wordt opgesteld met inachtneming van het in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=III&z=2009-07-01&g=2009-07-01) bij deze regeling opgenomen protocol en overeenkomstig het in die bijlage opgenomen model.
 
 ##### Artikel 4
 
 1. Met ingang van het achtste jaar na het jaar van vergunningverlening stelt de minister binnen twaalf weken na ontvangst van het financiële overzicht het verschuldigde bedrag vast. Indien toepassing is gegeven aan [artikel 18.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.7), wordt deze termijn opgeschort met ingang van de datum waarop de minister nadere inlichtingen vordert, tot de datum van ontvangst van die inlichtingen.
 
-2. De vaststelling geschiedt onder toepassing van [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2002-01-01&g=2002-01-01), en op basis van de op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=3&z=2002-01-01&g=2002-01-01) en, voor zover daar toepassing aan is gegeven, [artikel 18.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.7) verstrekte gegevens.
+2. De vaststelling geschiedt onder toepassing van [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2009-07-01&g=2009-07-01), en op basis van de op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=3&z=2009-07-01&g=2009-07-01) en, voor zover daar toepassing aan is gegeven, [artikel 18.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.7) verstrekte gegevens.
 
 ##### Artikel 5
 
-1. De vergunninghouder betaalt het verschuldigde bedrag binnen zes weken nadat het besluit tot vaststelling bekend is gemaakt.
-
-2. Indien niet is betaald binnen de termijn, bedoeld in het eerste lid, wordt degene die het bedrag is verschuldigd door de minister schriftelijk bevolen binnen twee weken alsnog het bedrag, verhoogd met de wettelijke rente en de kosten van de aanmaning, te betalen.
+Vervallen
 
 ##### Artikel 6
 
-Bij gebreke van betaling binnen de termijn van twee weken, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=5&z=2002-01-01&g=2002-01-01), zijn ten aanzien van de invordering de regels van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) van toepassing.
+Vervallen
 
 ##### Artikel 7
 
@@ -101,11 +99,11 @@ het afdrachtvrije bedrag bedraagt: € 45.000.000 * (1,15(t-B));
 
 ### B
 
-t is het jaartal van het kalenderjaar waarin op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2002-01-01&g=2002-01-01), de bijdrage is verschuldigd;
+t is het jaartal van het kalenderjaar waarin op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2009-07-01&g=2009-07-01), de bijdrage is verschuldigd;
 
 ### C
 
-B is het jaartal van het kalenderjaar waarin de netto-omzet van de vergunninghouder, bedoeld in [artikel 2, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2002-01-01&g=2002-01-01), voor het eerst ten minste 45 miljoen euro bedraagt en op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2002-01-01&g=2002-01-01), een bijdrage verschuldigd is;
+B is het jaartal van het kalenderjaar waarin de netto-omzet van de vergunninghouder, bedoeld in [artikel 2, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2009-07-01&g=2009-07-01), voor het eerst ten minste 45 miljoen euro bedraagt en op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2009-07-01&g=2009-07-01), een bijdrage verschuldigd is;
 
 ### D
 
@@ -139,7 +137,7 @@ het afdrachtvrije bedrag wordt met ingang van het jaar volgend op jaar B, jaarli
 
 1.3. De volgende begrippen zijn van toepassing:
 
-a. **minister:** de Minister van Verkeer en Waterstaat; b. **exploitatie van de vergunning:** elk economisch gebruik van de vergunning door de vergunninghouder of door hem toegelaten anderen; c. **financieel overzicht:** het door de vergunninghouder aan de minister te verstrekken financieel overzicht inzake de exploitatie van de vergunning, opgesteld overeenkomstig het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=II&z=2002-01-01&g=2002-01-01) van deze regeling opgenomen model; d. **derde-accountant:** een accountant die bij het financieel overzicht als bedoeld onder c een accountantsverklaring verstrekt.
+a. **minister:** de Minister van Verkeer en Waterstaat; b. **exploitatie van de vergunning:** elk economisch gebruik van de vergunning door de vergunninghouder of door hem toegelaten anderen; c. **financieel overzicht:** het door de vergunninghouder aan de minister te verstrekken financieel overzicht inzake de exploitatie van de vergunning, opgesteld overeenkomstig het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=II&z=2009-07-01&g=2009-07-01) van deze regeling opgenomen model; d. **derde-accountant:** een accountant die bij het financieel overzicht als bedoeld onder c een accountantsverklaring verstrekt.
 
 ##### 2. Algemene uitgangspunten voor de controle
 
@@ -151,25 +149,25 @@ a. **minister:** de Minister van Verkeer en Waterstaat; b. **exploitatie van de 
 
 Bij de uitvoering van de controle van het financieel overzicht dient - met inachtneming van de onder punt 2 genoemde uitgangspunten - door de derde-accountant te worden vastgesteld dat aan de volgende specifieke vereisten is voldaan:
 
-- 1. De in het financieel overzicht verantwoorde netto-omzet is bepaald op de wijze, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2002-01-01&g=2002-01-01), van de Regeling jaarlijkse bijdrage DVB-T.
+- 1. De in het financieel overzicht verantwoorde netto-omzet is bepaald op de wijze, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2009-07-01&g=2009-07-01), van de Regeling jaarlijkse bijdrage DVB-T.
 
-- 2. Het financieel overzicht geeft een juist en volledig beeld van de netto-omzet, bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2002-01-01&g=2002-01-01), van de Regeling jaarlijkse bijdrage DVB-T.
+- 2. Het financieel overzicht geeft een juist en volledig beeld van de netto-omzet, bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2009-07-01&g=2009-07-01), van de Regeling jaarlijkse bijdrage DVB-T.
 
 - 3. De interne en administratieve organisatie van de vergunninghouder is van een voldoende niveau om er redelijkerwijs vanuit te kunnen gaan dat de exploitatie van de vergunning juist wordt verantwoord.
 
-- 4. Het financieel overzicht waarin de netto-omzet is verantwoord is opgesteld overeenkomstig het model, zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=II&z=2002-01-01&g=2002-01-01) in de Regeling jaarlijkse bijdrage DVB-T.
+- 4. Het financieel overzicht waarin de netto-omzet is verantwoord is opgesteld overeenkomstig het model, zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=II&z=2009-07-01&g=2009-07-01) in de Regeling jaarlijkse bijdrage DVB-T.
 
 ##### Accountantsverklaring
 
-In het kader van de controle, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=3&z=2002-01-01&g=2002-01-01), van de Regeling jaarlijkse bijdrage DVB-T hebben we het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=3&z=2002-01-01&g=2002-01-01), van die regeling bedoelde financiële overzicht over het boekjaar...... gecontroleerd met inachtneming van het protocol, opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=III&z=2002-01-01&g=2002-01-01) bij bedoelde regeling.
+In het kader van de controle, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=3&z=2009-07-01&g=2009-07-01), van de Regeling jaarlijkse bijdrage DVB-T hebben we het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=3&z=2009-07-01&g=2009-07-01), van die regeling bedoelde financiële overzicht over het boekjaar...... gecontroleerd met inachtneming van het protocol, opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&bijlage=III&z=2009-07-01&g=2009-07-01) bij bedoelde regeling.
 
 Bij onze controle zijn wij nagegaan of het financiële overzicht voldoet aan de volgende eisen:
 
-- dat het financieel overzicht de aan de exploitatie van de vergunning toe te rekenen netto-omzet als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2002-01-01&g=2002-01-01), van de Regeling jaarlijkse bijdrage DVB-T betreft;
+- dat het financieel overzicht de aan de exploitatie van de vergunning toe te rekenen netto-omzet als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2009-07-01&g=2009-07-01), van de Regeling jaarlijkse bijdrage DVB-T betreft;
 
-- dat die verantwoorde netto-omzet is bepaald op de wijze, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2002-01-01&g=2002-01-01), van de Regeling jaarlijkse bijdrage DVB-T;
+- dat die verantwoorde netto-omzet is bepaald op de wijze, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2009-07-01&g=2009-07-01), van de Regeling jaarlijkse bijdrage DVB-T;
 
-- dat het financieel overzicht een juist en volledig beeld geeft van de netto-omzet als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2002-01-01&g=2002-01-01), van de Regeling jaarlijkse bijdrage DVB-T.
+- dat het financieel overzicht een juist en volledig beeld geeft van de netto-omzet als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012704&artikel=2&z=2009-07-01&g=2009-07-01), van de Regeling jaarlijkse bijdrage DVB-T.
 
 Onze controle is verricht overeenkomstig algemeen aanvaarde richtlijnen met betrekking tot controle-opdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de einddeclaratie geen onjuistheden van materieel belang bevat. Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
 
