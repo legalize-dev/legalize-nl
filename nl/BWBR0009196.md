@@ -4,7 +4,7 @@ identifier: "BWBR0009196"
 country: "nl"
 rank: "wet"
 publication_date: "2009-11-25"
-last_updated: "2008-04-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009196"
 soort: "wet"
@@ -49,7 +49,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Ministe
 
 ##### Artikel 2
 
-Onze Minister kan bij regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2008-04-01&g=2008-04-01), subsidies verstrekken voor activiteiten die passen in:
+Onze Minister kan bij regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2009-07-01&g=2009-07-01), subsidies verstrekken voor activiteiten die passen in:
 
 - a. het verkeers- en vervoerbeleid,
 
@@ -95,7 +95,7 @@ voorzover deze subsidies niet gebaseerd zijn op een andere wet.
 
 ##### Artikel 4
 
-Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2008-04-01&g=2008-04-01), kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
+Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2009-07-01&g=2009-07-01), kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
 
 ##### Artikel 5
 
@@ -105,7 +105,7 @@ Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling al
 
 3. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verstrekt, tenzij bij de intrekking of de wijziging anders is bepaald.
 
-4. De [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), derde lid, en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.
+4. De [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), derde lid, en [4:57, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.
 
 ##### Artikel 6
 
