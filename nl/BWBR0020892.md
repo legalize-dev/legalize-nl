@@ -4,7 +4,7 @@ identifier: "BWBR0020892"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2009-02-13"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020892"
 soort: "AMvB"
@@ -136,7 +136,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het bestaan van een vrijwillige pensioenregeling en de pensioensoort waarop deze vrijwillige pensioenregeling betrekking heeft;
 
-- d. welke informatie op verzoek wordt verstrekt op grond van [artikel 46 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=46), [artikel 57 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=57) en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=9&z=2009-02-13&g=2009-02-13);
+- d. welke informatie op verzoek wordt verstrekt op grond van [artikel 46 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=46), [artikel 57 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=57) en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=9&z=2009-07-01&g=2009-07-01);
 
 - e. het actueel zijn van een korte- of langetermijnherstelplan; en
 
@@ -144,7 +144,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Mogelijkheid toezichthouder tot stellen nadere regels met betrekking tot informatieverstrekking bij premieovereenkomsten met beleggingsvrijheid
 
-De Stichting Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot het informeren van de deelnemer over de risico’s, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-02-13&g=2009-02-13), voor zover het gaat om premieovereenkomsten dan wel premieregelingen met beleggingsvrijheid voor de deelnemer.
+De Stichting Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot het informeren van de deelnemer over de risico’s, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-07-01&g=2009-07-01), voor zover het gaat om premieovereenkomsten dan wel premieregelingen met beleggingsvrijheid voor de deelnemer.
 
 ##### Artikel 4. Informatie over toeslagverlening
 
@@ -200,9 +200,9 @@ De uitvoerder verstrekt de gewezen partner bij scheiding informatie over de moge
 
 ##### Artikel 8. Verstrekken informatie aan deelnemers vrijwilligepensioenregeling
 
-1. De uitvoerder informeert een deelnemer voorafgaand aan de deelneming in de vrijwillige pensioenregeling over de inhoud van de vrijwillige pensioenregeling, waarbij [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-02-13&g=2009-02-13), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=3&z=2009-02-13&g=2009-02-13) van overeenkomstige toepassing zijn.
+1. De uitvoerder informeert een deelnemer voorafgaand aan de deelneming in de vrijwillige pensioenregeling over de inhoud van de vrijwillige pensioenregeling, waarbij [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-07-01&g=2009-07-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=3&z=2009-07-01&g=2009-07-01) van overeenkomstige toepassing zijn.
 
-2. De informatie over de reglementair te bereiken pensioenaanspraken wordt overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=5&z=2009-02-13&g=2009-02-13), vastgesteld. Indien bij een premieovereenkomst of een premieregeling de premie wordt belegd wordt een indicatie gegeven van het te bereiken voor periodieke uitkeringen aan te wenden kapitaal op de pensioendatum en de daarbij gehanteerde veronderstellingen.
+2. De informatie over de reglementair te bereiken pensioenaanspraken wordt overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=5&z=2009-07-01&g=2009-07-01), vastgesteld. Indien bij een premieovereenkomst of een premieregeling de premie wordt belegd wordt een indicatie gegeven van het te bereiken voor periodieke uitkeringen aan te wenden kapitaal op de pensioendatum en de daarbij gehanteerde veronderstellingen.
 
 3. De indicatie van het te bereiken kapitaal, bedoeld in het tweede lid, wordt berekend op basis van drie scenario’s: een historisch, een vier procent rendement en een pessimistisch opbrengstscenario.
 
@@ -212,9 +212,9 @@ De uitvoerder verstrekt de gewezen partner bij scheiding informatie over de moge
 
 1. Indien sprake is van een premieovereenkomst dan wel premieregeling waarbij de deelnemer tijdens de opbouwperiode de verantwoordelijkheid voor de beleggingen heeft overgenomen verstrekt de uitvoerder op verzoek van de deelnemer en de gewezen deelnemer informatie over alle beleggingsmogelijkheden, de feitelijke beleggingsportefeuille, de risicopositie en de kosten in verband met de beleggingen.
 
-2. Bij een premieovereenkomst of premieregeling waarbij de premie wordt belegd verstrekt de pensioenuitvoerder op verzoek van de deelnemer, gewezen deelnemer of gewezen partner een indicatie van het te bereiken voor periodieke uitkeringen aan te wenden kapitaal op de pensioendatum en de daarbij gehanteerde veronderstellingen. [Artikel 8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=8&z=2009-02-13&g=2009-02-13), is van overeenkomstige toepassing.
+2. Bij een premieovereenkomst of premieregeling waarbij de premie wordt belegd verstrekt de pensioenuitvoerder op verzoek van de deelnemer, gewezen deelnemer of gewezen partner een indicatie van het te bereiken voor periodieke uitkeringen aan te wenden kapitaal op de pensioendatum en de daarbij gehanteerde veronderstellingen. [Artikel 8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=8&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing.
 
-3. De pensioenuitvoerder verstrekt op verzoek van de deelnemer, gewezen deelnemer of gewezen partner een indicatie van de hoogte van de periodieke uitkeringen op de pensioendatum wanneer het kapitaal, bedoeld in het tweede lid en [artikel 5, tweede lid, onderdelen b en c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=5&z=2009-02-13&g=2009-02-13), daarvoor wordt aangewend.
+3. De pensioenuitvoerder verstrekt op verzoek van de deelnemer, gewezen deelnemer of gewezen partner een indicatie van de hoogte van de periodieke uitkeringen op de pensioendatum wanneer het kapitaal, bedoeld in het tweede lid en [artikel 5, tweede lid, onderdelen b en c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=5&z=2009-07-01&g=2009-07-01), daarvoor wordt aangewend.
 
 4. Bij de indicatie, bedoeld in het derde lid, worden de op het moment van het verzoek bij de pensioenuitvoerder geldende tarieven gehanteerd. De periodieke uitkeringen worden gecorrigeerd voor te verwachten prijsinflatie. Bij regeling van Onze Minister wordt bepaald met welke te verwachten prijsinflatie gecorrigeerd wordt.
 
@@ -238,7 +238,7 @@ De uitvoerder verstrekt de gewezen partner bij scheiding informatie over de moge
 
 ##### Artikel 10. Kosten informatieverstrekking
 
-De informatie op grond van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=21), [38 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=38) en [46, eerste lid, onderdeel a, en tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=46) dan wel de [artikelen 48 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=48), [57, eerste lid, onderdeel a en tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=57) wordt kosteloos verstrekt. De informatie op grond van [artikel 9, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=9&z=2009-02-13&g=2009-02-13), wordt eveneens kosteloos verstrekt.
+De informatie op grond van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=21), [38 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=38) en [46, eerste lid, onderdeel a, en tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=46) dan wel de [artikelen 48 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=48), [57, eerste lid, onderdeel a en tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=57) wordt kosteloos verstrekt. De informatie op grond van [artikel 9, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=9&z=2009-07-01&g=2009-07-01), wordt eveneens kosteloos verstrekt.
 
 ### Hoofdstuk 3. Fondsbestuur
 
@@ -266,19 +266,17 @@ Een uitvoerder besteedt niet uit:
 
 - a. welke werkzaamheden worden uitbesteed onder verwijzing, indien mogelijk, naar de administratieve organisatiebeschrijving van het fonds, alsmede de voorwaarden waaronder de uitbesteding plaatsvindt;
 
-- b. de onderlinge informatie-uitwisseling tussen het fonds en de derde, met inbegrip van afspraken over het beschikbaar stellen van informatie waar de toezichthouder ter uitvoering van zijn wettelijke taak om verzoekt;
+- b. de informatie-uitwisseling tussen het fonds en de derde;
 
-- c. de mogelijkheid voor het fonds om te allen tijde wijzigingen aan te brengen in de wijze waarop de uitvoering van de werkzaamheden door de derde geschiedt;
+- c. de verplichting voor de derde om informatie waar de toezichthouder ter uitvoering van zijn wettelijke taak om vraagt rechtstreeks aan de toezichthouder ter beschikking te stellen;
 
-- d. de verplichting voor de derde om het fonds in staat te stellen blijvend te voldoen aan het bij of krachtens de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) dan wel de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) bepaalde;
+- d. de mogelijkheid voor het fonds om te allen tijde wijzigingen aan te brengen in de wijze waarop de uitvoering van de werkzaamheden door de derde geschiedt;
 
-- e. de mogelijkheid voor de toezichthouder om onderzoek ter plaatse te doen of te laten doen bij de derde; en
+- e. de verplichting voor de derde om het fonds in staat te stellen blijvend te voldoen aan het bij of krachtens de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) dan wel de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) bepaalde;
 
-- f. de wijze waarop de overeenkomst wordt beëindigd, en de wijze waarop wordt gewaarborgd dat het fonds de werkzaamheden na beëindiging van de overeenkomst weer zelf kan uitvoeren of door een andere derde kan laten uitvoeren.
+- f. de mogelijkheid voor de toezichthouder om onderzoek ter plaatse te doen of te laten doen bij de derde; en
 
-3. De toezichthouder maakt slechts gebruik van de mogelijkheid, bedoeld in het tweede lid, onderdeel e, indien niet op andere wijze bij het fonds kan worden vastgesteld dat ten aanzien van de uitbestede werkzaamheden wordt voldaan aan het bij of krachtens de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) en de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) bepaalde.
-
-4. Indien in de overeenkomst is opgenomen dat de derde gegevens en inlichtingen ten behoeve van het toezicht rechtstreeks aan de toezichthouder beschikbaar stelt, kan de toezichthouder zich ook wenden tot die derde. De derde is verplicht om de toezichthouder alle medewerking te verlenen.
+- g. de wijze waarop de overeenkomst wordt beëindigd, en de wijze waarop wordt gewaarborgd dat het fonds de werkzaamheden na beëindiging van de overeenkomst weer zelf kan uitvoeren of door een andere derde kan laten uitvoeren.
 
 ##### Artikel 14. Beheersing van de risico’s
 
@@ -324,21 +322,21 @@ Indien met de werkgever niet uitdrukkelijk een bepaalde verhouding tussen versch
 
 - d. alle overige informatie die van belang is voor de uitvoering van de waardeoverdracht.
 
-Bij de informatie over toeslagverlening is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=4&z=2009-02-13&g=2009-02-13) van overeenkomstige toepassing.
+Bij de informatie over toeslagverlening is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=4&z=2009-07-01&g=2009-07-01) van overeenkomstige toepassing.
 
 2. Indien de overdragende uitvoerder een premieovereenkomst of premieregeling uitvoert waarbij de premie wordt belegd, geldt de opgave als een voorlopige opgave en is het eerste lid, onderdelen a en b, niet van toepassing.
 
 ##### Artikel 19. Opgave informatie aan de uitvoerder
 
-De overdragende uitvoerder verstrekt de opgave of de voorlopige opgave, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-02-13&g=2009-02-13), binnen twee maanden na ontvangst van het daartoe strekkende verzoek aan de ontvangende uitvoerder.
+De overdragende uitvoerder verstrekt de opgave of de voorlopige opgave, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-07-01&g=2009-07-01), binnen twee maanden na ontvangst van het daartoe strekkende verzoek aan de ontvangende uitvoerder.
 
 ##### Artikel 20. Opgave informatie aan de rechthebbende
 
-De ontvangende uitvoerder verstrekt de opgave of voorlopige opgave, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-02-13&g=2009-02-13), binnen twee maanden na ontvangst aan de deelnemer onder vermelding van de aanspraken die zullen voortvloeien uit de waardeoverdracht en de wijze waarop de aanspraken in de pensioenregeling, ondergebracht bij de ontvangende uitvoerder, zullen worden behandeld. Bij de informatie over toeslagverlening is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=4&z=2009-02-13&g=2009-02-13) van overeenkomstige toepassing.
+De ontvangende uitvoerder verstrekt de opgave of voorlopige opgave, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-07-01&g=2009-07-01), binnen twee maanden na ontvangst aan de deelnemer onder vermelding van de aanspraken die zullen voortvloeien uit de waardeoverdracht en de wijze waarop de aanspraken in de pensioenregeling, ondergebracht bij de ontvangende uitvoerder, zullen worden behandeld. Bij de informatie over toeslagverlening is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=4&z=2009-07-01&g=2009-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 21. Verzoek tot waardeoverdracht
 
-1. Indien de deelnemer gebruik wil maken van zijn recht op waardeoverdracht, dient hij binnen twee maanden na ontvangst van de opgave of voorlopige opgave, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-02-13&g=2009-02-13), en, indien van toepassing, [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=22&z=2009-02-13&g=2009-02-13), een verzoek tot waardeoverdracht in bij de ontvangende uitvoerder.
+1. Indien de deelnemer gebruik wil maken van zijn recht op waardeoverdracht, dient hij binnen twee maanden na ontvangst van de opgave of voorlopige opgave, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-07-01&g=2009-07-01), en, indien van toepassing, [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=22&z=2009-07-01&g=2009-07-01), een verzoek tot waardeoverdracht in bij de ontvangende uitvoerder.
 
 2. Pensioenaanspraken die door de rechthebbende zijn of worden verkregen op grond van de FVP-bijdrage worden geacht inbegrepen te zijn in het verzoek, bedoeld in het eerste lid.
 
@@ -346,19 +344,19 @@ De ontvangende uitvoerder verstrekt de opgave of voorlopige opgave, bedoeld in [
 
 ##### Artikel 22. Verzoek opgave informatie aan ontvangende uitvoerder
 
-De deelnemer kan voor het einde van de termijn genoemd in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=21&z=2009-02-13&g=2009-02-13), verzoeken om een aanvullende opgave voor het geval de waarde van het partnerpensioen niet wordt overgedragen. De termijnen, genoemd in de [artikelen 18 tot en met 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-02-13&g=2009-02-13), zijn van overeenkomstige toepassing.
+De deelnemer kan voor het einde van de termijn genoemd in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=21&z=2009-07-01&g=2009-07-01), verzoeken om een aanvullende opgave voor het geval de waarde van het partnerpensioen niet wordt overgedragen. De termijnen, genoemd in de [artikelen 18 tot en met 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-07-01&g=2009-07-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 23. Afhandeling waardeoverdracht
 
 1. De ontvangende uitvoerder stelt de overdragende uitvoerder terstond in kennis van de ontvangst van het verzoek tot waardeoverdracht.
 
-2. Het risico dat betrekking heeft op de over te dragen aanspraken, komt met ingang van de datum van het verzoek van de rechthebbende, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=21&z=2009-02-13&g=2009-02-13), voor rekening van de ontvangende uitvoerder.
+2. Het risico dat betrekking heeft op de over te dragen aanspraken, komt met ingang van de datum van het verzoek van de rechthebbende, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=21&z=2009-07-01&g=2009-07-01), voor rekening van de ontvangende uitvoerder.
 
 3. De overdrachtswaarde wordt binnen tien werkdagen na ontvangst van het verzoek tot waardeoverdracht door de overdragende uitvoerder aan de ontvangende uitvoerder betaald.
 
 4. De overdragende uitvoerder is rente verschuldigd aan de ontvangende uitvoerder over de overdrachtswaarde over de periode tussen de overdrachtsdatum en de datum waarop de overdrachtswaarde wordt betaald, tenzij het de waardeoverdracht betreft van een premieovereenkomst of premieregeling waarbij de premie wordt belegd naar een andere premieovereenkomst of premieregeling waarbij de premie wordt belegd. Bij overdracht van een premieovereenkomst of premieregeling waarbij de premie wordt belegd naar een kapitaal- of uitkeringsovereenkomst of een kapitaal- of uitkeringsregeling wordt de rente geacht in de overdrachtswaarde begrepen te zijn. Onze Minister stelt regels over de berekening van de rente.
 
-5. De termijnen, genoemd in dit hoofdstuk, zijn op waardeoverdracht van pensioenaanspraken als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=21&z=2009-02-13&g=2009-02-13), niet eerder van toepassing dan nadat de overdragende uitvoerder de FVP-bijdrage heeft ontvangen.
+5. De termijnen, genoemd in dit hoofdstuk, zijn op waardeoverdracht van pensioenaanspraken als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=21&z=2009-07-01&g=2009-07-01), niet eerder van toepassing dan nadat de overdragende uitvoerder de FVP-bijdrage heeft ontvangen.
 
 ##### Artikel 24. Overschrijding termijnen
 
@@ -448,11 +446,11 @@ De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoe
 
 ##### Artikel 32. Antecedenten
 
-De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-02-13&g=2009-02-13), in ieder geval in aanmerking de in de bijlage bij dit besluit genoemde antecedenten.
+De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-07-01&g=2009-07-01), in ieder geval in aanmerking de in de bijlage bij dit besluit genoemde antecedenten.
 
 ##### Artikel 33. Bronnen
 
-1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-02-13&g=2009-02-13) bedoelde voornemens, handelingen en antecedenten op grond van:
+1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-07-01&g=2009-07-01) bedoelde voornemens, handelingen en antecedenten op grond van:
 
 - a. door betrokkene verstrekte gegevens en inlichtingen;
 
@@ -470,7 +468,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 31](https:/
 
 - h. gegevens uit openbare bronnen;
 
-- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-02-13&g=2009-02-13) bedoelde persoon betrokken is geweest;
+- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-07-01&g=2009-07-01) bedoelde persoon betrokken is geweest;
 
 - j. inlichtingen, verkregen van organisaties van huidige of voormalige beroepsgenoten van betrokkene; of
 
@@ -486,11 +484,11 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 31](https:/
 
 ##### Artikel 34. Strafrechtelijke veroordeling
 
-De betrouwbaarheid van een persoon als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-02-13&g=2009-02-13) staat niet buiten twijfel als deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage bij dit besluit, tenzij er sinds het onherroepelijk worden van de uitspraak acht jaren of meer zijn verstreken.
+De betrouwbaarheid van een persoon als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-07-01&g=2009-07-01) staat niet buiten twijfel als deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage bij dit besluit, tenzij er sinds het onherroepelijk worden van de uitspraak acht jaren of meer zijn verstreken.
 
 ##### Artikel 35. Vaststelling betrouwbaarheid
 
-De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-02-13&g=2009-02-13), in aanmerking:
+De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-07-01&g=2009-07-01), in aanmerking:
 
 - a. het onderlinge verband tussen de aan een antecedent ten grondslag liggende gedraging of gedragingen en de overige omstandigheden van het geval;
 
@@ -550,7 +548,7 @@ De Stichting Autoriteit Financiële Markten beschikt niet over de bevoegdheden, 
 
 - a. de toetsing van de betrouwbaarheid van personen als bedoeld in [artikel 105, negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=105) en [artikel 110, negende lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=110);
 
-- b. de toetsing van de deskundigheid van personen als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=30&z=2009-02-13&g=2009-02-13);
+- b. de toetsing van de deskundigheid van personen als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=30&z=2009-07-01&g=2009-07-01);
 
 - c. een verzoek om verlening of wijziging van een vergunning als bedoeld in [artikel 125, onderdeel a, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=125) en [artikel 25, onderdeel a, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=25);
 
@@ -578,9 +576,9 @@ De Stichting Autoriteit Financiële Markten beschikt niet over de bevoegdheden, 
 
 ##### Artikel 43. Vaststelling verschuldigd bedrag
 
-1. Het bedrag, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-02-13&g=2009-02-13), bestaat uit per categorie vast te stellen minimumbedragen ter dekking van de minimale toezichtkosten per uitvoerder in de desbetreffende categorie, vermeerderd met een bedrag dat:
+1. Het bedrag, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-07-01&g=2009-07-01), bestaat uit per categorie vast te stellen minimumbedragen ter dekking van de minimale toezichtkosten per uitvoerder in de desbetreffende categorie, vermeerderd met een bedrag dat:
 
-- a. wordt gebaseerd op de kosten die per categorie zijn toegerekend op de wijze, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-02-13&g=2009-02-13), onder aftrek van het totaal van de aan de desbetreffende categorie in rekening te brengen minimumbedragen, en
+- a. wordt gebaseerd op de kosten die per categorie zijn toegerekend op de wijze, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-07-01&g=2009-07-01), onder aftrek van het totaal van de aan de desbetreffende categorie in rekening te brengen minimumbedragen, en
 
 - b. is doorberekend naar rato van de maatstafgegevens die betrekking hebben op het voorafgaande jaar dan wel, indien deze gegevens niet beschikbaar zijn, het daaraan voorafgaande jaar of het lopende jaar.
 
@@ -594,7 +592,7 @@ De Stichting Autoriteit Financiële Markten beschikt niet over de bevoegdheden, 
 
 ##### Artikel 44. Verschuldigd bedrag bij gedeelte jaar
 
-1. Het bedrag, bepaald op basis van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=43&z=2009-02-13&g=2009-02-13), wordt voor een uitvoerder die niet eerder dan 1 februari van het lopende jaar onder een categorie valt, in rekening gebracht naar evenredigheid van het aantal maanden in het jaar dat de uitvoerder onder de categorie valt, waarbij een gedeelte van een maand geldt als volledige maand.
+1. Het bedrag, bepaald op basis van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=43&z=2009-07-01&g=2009-07-01), wordt voor een uitvoerder die niet eerder dan 1 februari van het lopende jaar onder een categorie valt, in rekening gebracht naar evenredigheid van het aantal maanden in het jaar dat de uitvoerder onder de categorie valt, waarbij een gedeelte van een maand geldt als volledige maand.
 
 2. Aan een uitvoerder die niet langer onder een categorie valt, wordt het bedrag terugbetaald naar evenredigheid van het aantal maanden van het jaar dat de uitvoerder niet langer onder de categorie valt, waarbij een gedeelte van een maand geldt als volledige maand.
 
@@ -606,19 +604,19 @@ De Stichting Autoriteit Financiële Markten beschikt niet over de bevoegdheden, 
 
 ##### Artikel 46. Betaling
 
-1. De toezichthouder bepaalt de wijze en het tijdstip van betaling van de bedragen, bedoeld in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=41&z=2009-02-13&g=2009-02-13) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-02-13&g=2009-02-13).
+1. De toezichthouder bepaalt de wijze en het tijdstip van betaling van de bedragen, bedoeld in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=41&z=2009-07-01&g=2009-07-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-07-01&g=2009-07-01).
 
 2. Indien als wijze van betaling automatische incasso is overeengekomen, kan de toezichthouder bij het in rekening brengen van het bedrag per factuur een korting toepassen.
 
 ##### Artikel 47. Fusie uitvoerders
 
-Indien een uitvoerder het vermogen heeft gekregen van een uitvoerder die in het lopende jaar of in het voorafgaande jaar is opgehouden onder een categorie te vallen, wordt het bedrag ter vergoeding van de kosten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-02-13&g=2009-02-13), die door de toezichthouder ten aanzien van laatstbedoelde uitvoerder zijn gemaakt, in rekening gebracht bij de verkrijgende uitvoerder, voor zover deze kosten niet reeds bij de laatstbedoelde uitvoerder in rekening zijn gebracht.
+Indien een uitvoerder het vermogen heeft gekregen van een uitvoerder die in het lopende jaar of in het voorafgaande jaar is opgehouden onder een categorie te vallen, wordt het bedrag ter vergoeding van de kosten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-07-01&g=2009-07-01), die door de toezichthouder ten aanzien van laatstbedoelde uitvoerder zijn gemaakt, in rekening gebracht bij de verkrijgende uitvoerder, voor zover deze kosten niet reeds bij de laatstbedoelde uitvoerder in rekening zijn gebracht.
 
 ### Hoofdstuk 10. Boeteregeling
 
 ##### Artikel 48. Hoogte boetebedragen
 
-Voor de tariefnummers, behorend bij de in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=49&z=2009-02-13&g=2009-02-13) genoemde overtredingen, zijn de boetebedragen als volgt vastgesteld:
+Voor de tariefnummers, behorend bij de in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=49&z=2009-07-01&g=2009-07-01) genoemde overtredingen, zijn de boetebedragen als volgt vastgesteld:
 
 | **Tariefnummer** | **Boete** |
 | --- | --- |
@@ -802,20 +800,20 @@ Voor de tariefnummers, behorend bij de in [artikel 49](https://wetten.overheid.n
 
 | **Artikelnummer** | **Tariefnummer** |
 | --- | --- |
-| [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-02-13&g=2009-02-13) | 3 |
-| [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=5&z=2009-02-13&g=2009-02-13) | 3 |
-| [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=6&z=2009-02-13&g=2009-02-13) | 3 |
-| [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=7&z=2009-02-13&g=2009-02-13) | 3 |
-| [8](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=8&z=2009-02-13&g=2009-02-13) | 3 |
-| [9](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=9&z=2009-02-13&g=2009-02-13) | 3 |
-| [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=10&z=2009-02-13&g=2009-02-13) | 3 |
-| [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=3&artikel=11&z=2009-02-13&g=2009-02-13) | 2 |
-| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-02-13&g=2009-02-13) | 3 |
-| [16](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=16&z=2009-02-13&g=2009-02-13) | 4 |
-| [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=25&z=2009-02-13&g=2009-02-13) | 3 |
-| [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=26&z=2009-02-13&g=2009-02-13) | 3 |
-| [27](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=27&z=2009-02-13&g=2009-02-13) | 3 |
-| [28](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=28&z=2009-02-13&g=2009-02-13) | 3 |
+| [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-07-01&g=2009-07-01) | 3 |
+| [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=5&z=2009-07-01&g=2009-07-01) | 3 |
+| [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=6&z=2009-07-01&g=2009-07-01) | 3 |
+| [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=7&z=2009-07-01&g=2009-07-01) | 3 |
+| [8](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=8&z=2009-07-01&g=2009-07-01) | 3 |
+| [9](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=9&z=2009-07-01&g=2009-07-01) | 3 |
+| [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=10&z=2009-07-01&g=2009-07-01) | 3 |
+| [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=3&artikel=11&z=2009-07-01&g=2009-07-01) | 2 |
+| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-07-01&g=2009-07-01) | 3 |
+| [16](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=16&z=2009-07-01&g=2009-07-01) | 4 |
+| [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=25&z=2009-07-01&g=2009-07-01) | 3 |
+| [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=26&z=2009-07-01&g=2009-07-01) | 3 |
+| [27](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=27&z=2009-07-01&g=2009-07-01) | 3 |
+| [28](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=28&z=2009-07-01&g=2009-07-01) | 3 |
 
 5. Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van het [Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871), is als volgt beboetbaar:
 
@@ -832,17 +830,17 @@ Voor de tariefnummers, behorend bij de in [artikel 49](https://wetten.overheid.n
 
 ##### Artikel 50. Boeteoplegging naar draagkracht
 
-1. Indien een boete wordt opgelegd aan een uitvoerder, houdt de toezichthouder rekening met diens draagkracht.
+1. Indien een bestuurlijke boete wordt opgelegd aan een uitvoerder, houdt de toezichthouder rekening met diens draagkracht.
 
-2. De draagkracht komt in de hoogte van de boete tot uiting door het boetebedrag, zoals bepaald op grond van de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=48&z=2009-02-13&g=2009-02-13) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=49&z=2009-02-13&g=2009-02-13), te vermenigvuldigen met de op grond van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=51&z=2009-02-13&g=2009-02-13) toepasselijke draagkrachtfactor.
+2. De draagkracht komt in de hoogte van de bestuurlijke boete tot uiting door het boetebedrag, zoals bepaald op grond van de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=48&z=2009-07-01&g=2009-07-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=49&z=2009-07-01&g=2009-07-01), te vermenigvuldigen met de op grond van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=51&z=2009-07-01&g=2009-07-01) toepasselijke draagkrachtfactor.
 
-3. Indien de toezichthouder niet beschikt over de voor de bepaling van de draagkracht noodzakelijke gegevens, verzoekt hij degene aan wie de boete zal worden opgelegd deze gegevens binnen een door hem te stellen redelijke termijn te verstrekken.
+3. Indien de toezichthouder niet beschikt over de voor de bepaling van de draagkracht noodzakelijke gegevens, verzoekt hij degene aan wie de bestuurlijke boete zal worden opgelegd deze gegevens binnen een door hem te stellen redelijke termijn te verstrekken.
 
-4. Indien de uitvoerder de in het derde lid bedoelde gegevens niet binnen de in dat lid bedoelde termijn verstrekt, is bij de vaststelling van de hoogte van de boete de draagkrachtfactor vijf van toepassing.
+4. Indien de uitvoerder de in het derde lid bedoelde gegevens niet binnen de in dat lid bedoelde termijn verstrekt, is bij de vaststelling van de hoogte van de bestuurlijke boete de draagkrachtfactor vijf van toepassing.
 
 ##### Artikel 51. Draagkrachtfactoren
 
-De in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=50&z=2009-02-13&g=2009-02-13), bedoelde draagkrachtfactoren zijn:
+De in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=50&z=2009-07-01&g=2009-07-01), bedoelde draagkrachtfactoren zijn:
 
 - a. draagkrachtfactor een: uitvoerders met een balanstotaal van minder dan € 10.000.000;
 
@@ -906,13 +904,13 @@ Wijzigt het Besluit op de huurtoeslag.
 
 ##### Artikel 63. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van 1 januari 2007, met uitzondering van de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-02-13&g=2009-02-13) en [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-02-13&g=2009-02-13).
+1. Dit besluit treedt in werking met ingang van 1 januari 2007, met uitzondering van de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-07-01&g=2009-07-01) en [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-07-01&g=2009-07-01).
 
-2. De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-02-13&g=2009-02-13) treden in werking met ingang van 1 januari 2008.
+2. De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-07-01&g=2009-07-01) treden in werking met ingang van 1 januari 2008.
 
-3. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-02-13&g=2009-02-13) geldt ten aanzien van de keuzemogelijkheid, bedoeld in [artikel 61, eerste, derde, vierde en zesde lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=61) en [artikel 73, eerste, derde, vierde en zesde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=73) met ingang van 1 januari 2008.
+3. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-07-01&g=2009-07-01) geldt ten aanzien van de keuzemogelijkheid, bedoeld in [artikel 61, eerste, derde, vierde en zesde lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=61) en [artikel 73, eerste, derde, vierde en zesde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=73) met ingang van 1 januari 2008.
 
-4. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-02-13&g=2009-02-13) geldt ten aanzien van de keuzemogelijkheid, bedoeld in [artikel 61, tweede, zevende, achtste en negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=61) en [artikel 73, tweede, zevende, achtste en negende lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=73) met ingang van 1 januari 2009.
+4. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-07-01&g=2009-07-01) geldt ten aanzien van de keuzemogelijkheid, bedoeld in [artikel 61, tweede, zevende, achtste en negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=61) en [artikel 73, tweede, zevende, achtste en negende lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=73) met ingang van 1 januari 2009.
 
 ##### Artikel 64. Citeertitel
 
@@ -926,31 +924,31 @@ Dit besluit wordt aangehaald als: Besluit uitvoering Pensioenwet en Wet verplich
 
 Bij onherroepelijk vonnis is betrokkene in Nederland of in het buitenland veroordeeld ter zake van poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
 
+### 1. Strafrechtelijke antecedenten
+
 ### **Veroordelingen**
+
+Bij onherroepelijk vonnis is betrokkene in Nederland of in het buitenland veroordeeld ter zake van poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
 
 ### 2. Overige strafrechtelijke antecedenten
 
-Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld ter zake van poging tot, voorbereiding van, doen plegen van, uitlokken van, mislukte uitlokking, medeplegen van, medeplichtigheid aan of plegen van:
-
 ### 2.1. Veroordelingen
+
+Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld ter zake van poging tot, voorbereiding van, doen plegen van, uitlokken van, mislukte uitlokking, medeplegen van, medeplichtigheid aan of plegen van:
 
 ### **Wetboek van Strafrecht:**
 
-– overtreding fiscale wetgeving ([artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=68) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69)).
-
 ### **Algemene wet inzake rijksbelastingen:**
+
+– overtreding fiscale wetgeving ([artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=68) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69)).
 
 ### **Opiumwet:**
 
-Door de [Wet op de economische delicten strafbaar](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&wetgeving) gestelde gedragingen, met name verbodsbepalingen uit de financiële ordeningswetgeving en [artikel 9 van de Wet melding ongebruikelijke transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=9) en [artikel 2, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=6),[7](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=7) en [8 van de Wet identificatie bij dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0006331&artikel=8).
-
 ### **Wet op de economische delicten:**
 
+Door de [Wet op de economische delicten strafbaar](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) gestelde gedragingen, met name verbodsbepalingen uit de financiële ordeningswetgeving en overtreding van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), [4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=4), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=17), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=34).
+
 ### **Wet wapens en munitie:**
-
-Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hierboven genoemde.
-
-### **Wegenverkeerswet 1994:**
 
 Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hierboven genoemde.
 
@@ -958,37 +956,37 @@ Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens
 
 Betrokkene heeft een transactie als bedoeld in [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) gedaan ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten. Onder transacties worden ook verstaan transacties in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
 
+Betrokkene heeft een transactie als bedoeld in [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) gedaan ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten. Onder transacties worden ook verstaan transacties in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
+
+### 2.3. (Voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging
+
 Betrokkene wordt ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
 
 ### 2.4. Andere relevante feiten of omstandigheden
 
-Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken, besluiten of maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
-
 ### 2.4. Andere relevante feiten of omstandigheden
 
 ### 3. Financiële antecedenten
 
 ### 3. Financiële antecedenten
 
-### 3.1. Persoonlijk
-
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen voor zover die redelijkerwijs van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+
+### 3.2. Zakelijk
 
 ### 3.3. Andere feiten of omstandigheden
 
 ### 4. Toezichtantecedenten
 
-### 4. Toezichtantecedenten
-
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtwetgeving regels zijn gesteld, welke gedraging of gedragingen redelijkerwijs van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+
+### 4.1. Toezichtantecedenten
 
 ### 4.2. Andere feiten of omstandigheden
 
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtwetgeving regels zijn gesteld, welke gedraging of gedragingen redelijkerwijs van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+
 ### 5. Fiscaal bestuursrechtelijke antecedenten
-
-Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
-
-### 5.1. Persoonlijk
 
 Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
 
@@ -1026,27 +1024,31 @@ Door de [Wet op de economische delicten strafbaar](https://wetten.overheid.nl/jc
 
 Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hierboven genoemde.
 
+### **Wegenverkeerswet 1994:**
+
+Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hierboven genoemde.
+
 ### 2.2. Transacties met de Officier van Justitie
-
-Betrokkene heeft een transactie als bedoeld in [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) gedaan ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten. Onder transacties worden ook verstaan transacties in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
-
-### 2.3. (Voorwaardelijk) sepot, vrijspraak of ontslag van rechtsvervolging
 
 Betrokkene wordt ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten niet of niet verder vervolgd of voorwaardelijk niet of niet verder vervolgd, of is vrijgesproken of ontslagen van rechtsvervolging.
 
 ### 2.4. Andere relevante feiten of omstandigheden
 
-Andere feiten of omstandigheden die redelijkerwijs van belang kunnen zijn voor de beoordeling van de betrouwbaarheid van betrokkene, blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is of is geweest bij een of meer van de onder 1 genoemde strafbare feiten. Onder processen-verbaal of rapporten worden ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland ter zake van daar geldende strafbepalingen, vergelijkbaar met de onder 1 genoemde.
+Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of ontslag van rechtsvervolging worden ook verstaan soortgelijke uitspraken, besluiten of maatregelen in het buitenland ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde.
 
-### 3.2. Zakelijk
+### 3.1. Persoonlijk
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen voor zover die redelijkerwijs van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 4.1. Toezichtantecedenten
+### 4. Toezichtantecedenten
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtwetgeving regels zijn gesteld, welke gedraging of gedragingen redelijkerwijs van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
 ### 5. Fiscaal bestuursrechtelijke antecedenten
+
+Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
+
+### 5.1. Persoonlijk
 
 Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
 
@@ -1055,10 +1057,6 @@ Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](https:/
 Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt/bekleedde als beleidsbepaler, medebeleidsbepaler, feitelijke zeggenschap in het bestuur uitoefent/uitoefende of anderszins (mede)verantwoordelijk is/was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
 
 ### 5.3. Andere feiten of omstandigheden
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-### 6. Overige antecedenten
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -1111,6 +1109,24 @@ Andere feiten of omstandigheden die redelijkerwijs van belang kunnen zijn voor d
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen voor zover die redelijkerwijs van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtwetgeving regels zijn gesteld, welke gedraging of gedragingen redelijkerwijs van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
+
+### 6. Overige antecedenten
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 51a. Indeling naar categorie
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 11. Overige en slotbepalingen
+
+## Bijlage. behorend bij [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=32&z=2009-07-01&g=2009-07-01) van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling
+
+Andere feiten of omstandigheden die redelijkerwijs van belang kunnen zijn voor de beoordeling van de betrouwbaarheid van betrokkene, blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is of is geweest bij een of meer van de onder 1 genoemde strafbare feiten. Onder processen-verbaal of rapporten worden ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland ter zake van daar geldende strafbepalingen, vergelijkbaar met de onder 1 genoemde.
+
+Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen voor zover die redelijkerwijs van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
