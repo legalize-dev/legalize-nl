@@ -4,7 +4,7 @@ identifier: "BWBR0018633"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-01-01"
-last_updated: "2005-08-05"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018633"
 soort: "AMvB"
@@ -91,7 +91,7 @@ De aan het orgaan toe te kennen subsidie bestaat uit een bedrag voor de door het
 
 ##### Artikel 6
 
-Onze Minister kan, naast de subsidie bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=4&z=2005-08-05&g=2005-08-05), het orgaan een subsidie verstrekken en kan, in aanvulling op de verplichtingen genoemd in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&z=2005-08-05&g=2005-08-05), in verband daarmee verplichtingen opleggen:
+Onze Minister kan, naast de subsidie bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=4&z=2009-07-01&g=2009-07-01), het orgaan een subsidie verstrekken en kan, in aanvulling op de verplichtingen genoemd in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&z=2009-07-01&g=2009-07-01), in verband daarmee verplichtingen opleggen:
 
 - a. voor de uitvoering van projecten;
 
@@ -109,7 +109,7 @@ Onze Minister kan, naast de subsidie bedoeld in [artikel 4](https://wetten.overh
 
 ##### Artikel 7
 
-1. Indien de beschikking, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=3&z=2005-08-05&g=2005-08-05), bijstelling behoeft meldt Onze Minister dit schriftelijk aan het orgaan.
+1. Indien de beschikking, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=3&z=2009-07-01&g=2009-07-01), bijstelling behoeft meldt Onze Minister dit schriftelijk aan het orgaan.
 
 2. Het orgaan reageert door middel van een aanvullende aanvraag tot subsidie uiterlijk 8 weken na ontvangst van de in het eerste lid bedoelde mededeling van Onze Minister.
 
@@ -121,9 +121,7 @@ Onze Minister kan, naast de subsidie bedoeld in [artikel 4](https://wetten.overh
 
 ##### Artikel 8
 
-1. Onze Minister beslist binnen dertien weken na ontvangst van de bescheiden, bedoeld in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=15), en [18, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=18) op de aanvraag tot subsidievaststelling.
-
-2. Te veel ontvangen voorschotten worden verrekend met voorschotten in volgende jaren, tenzij Onze Minister besluit tot verrekening op andere wijze.
+Onze Minister beslist binnen dertien weken na ontvangst van de bescheiden, bedoeld in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=15), en [18, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=18) op de aanvraag tot subsidievaststelling.
 
 ##### Artikel 9
 
@@ -131,7 +129,7 @@ De vaststelling van de subsidie geschiedt overeenkomstig de door Onze Minister n
 
 ##### Artikel 10
 
-Eenmaal in de drie jaar worden de in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=5&z=2005-08-05&g=2005-08-05), [6, onderdelen b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=6&z=2005-08-05&g=2005-08-05), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=IV&artikel=7&z=2005-08-05&g=2005-08-05), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=V&artikel=9&z=2005-08-05&g=2005-08-05) genoemde systematieken geëvalueerd door Onze Minister in overleg met het orgaan.
+Eenmaal in de drie jaar worden de in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=5&z=2009-07-01&g=2009-07-01), [6, onderdelen b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=6&z=2009-07-01&g=2009-07-01), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=IV&artikel=7&z=2009-07-01&g=2009-07-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=V&artikel=9&z=2009-07-01&g=2009-07-01) genoemde systematieken geëvalueerd door Onze Minister in overleg met het orgaan.
 
 ### Hoofdstuk VI. Aan de subsidie verbonden verplichtingen
 
@@ -157,11 +155,11 @@ Het orgaan vormt een egalisatiereserve. De minimale en maximale omvang van de eg
 
 ##### Artikel 15
 
-1. Indien de inkomsten hoger zijn dan geraamd, wordt zonodig de egalisatiereserve aangevuld tot het niveau van de ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&artikel=14&z=2005-08-05&g=2005-08-05) vastgestelde minimale omvang.
+1. Indien de inkomsten hoger zijn dan geraamd, wordt zonodig de egalisatiereserve aangevuld tot het niveau van de ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&artikel=14&z=2009-07-01&g=2009-07-01) vastgestelde minimale omvang.
 
 2. Indien na aanvulling van de egalisatiereserve, bedoeld in het eerste lid, een overschot resteert, kan het orgaan een op grond van de vermogenssystematiek vastgesteld percentage daarvan voor vooraf door Onze Minister goed te keuren aanvragen aanwenden. Deze aanvragen houden verband met de taken die het orgaan ingevolge [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3) zijn opgedragen.
 
-3. Met het na aftrek van het in het tweede lid bedoelde percentage resterende overschot, wordt zonodig de egalisatiereserve aangevuld tot het niveau van de ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&artikel=14&z=2005-08-05&g=2005-08-05) vastgestelde maximale omvang.
+3. Met het na aftrek van het in het tweede lid bedoelde percentage resterende overschot, wordt zonodig de egalisatiereserve aangevuld tot het niveau van de ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&artikel=14&z=2009-07-01&g=2009-07-01) vastgestelde maximale omvang.
 
 ### Hoofdstuk VII. Algemene-, overgangs- en slotbepalingen
 
