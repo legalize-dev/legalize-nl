@@ -4,7 +4,7 @@ identifier: "BWBR0007867"
 country: "nl"
 rank: "wet"
 publication_date: "2020-03-19"
-last_updated: "2007-07-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007867"
 soort: "wet"
@@ -53,7 +53,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. vergelijkbaar geneesmiddel: een geneesmiddel met dezelfde werkzame bestanddelen, van dezelfde of nagenoeg dezelfde sterkte en in dezelfde farmaceutische vorm als een ander geneesmiddel;
 
-- d. maximumprijs: de maximumprijs voor een geneesmiddel, vastgesteld krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2007-07-01&g=2007-07-01).
+- d. maximumprijs: de maximumprijs voor een geneesmiddel, vastgesteld krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2009-07-01&g=2009-07-01).
 
 2. Bij algemene maatregel van bestuur kan worden bepaald dat farmaceutische vormen in daarbij aangegeven gevallen voor de toepassing van deze wet worden aangemerkt als dezelfde farmaceutische vorm.
 
@@ -75,9 +75,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. Ten minste tweemaal per jaar onderzoekt Onze Minister of er aanleiding is de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2007-07-01&g=2007-07-01), bedoelde regeling te wijzigen. Zonodig past Onze Minister de regeling binnen 90 dagen na het begin van dit onderzoek aan.
+1. Ten minste tweemaal per jaar onderzoekt Onze Minister of er aanleiding is de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2009-07-01&g=2009-07-01), bedoelde regeling te wijzigen. Zonodig past Onze Minister de regeling binnen 90 dagen na het begin van dit onderzoek aan.
 
-2. Voorts kan Onze Minister op verzoek van degene die het geneesmiddel te koop aanbiedt, verkoopt of krachtens verkoop levert aan een persoon, een rechtspersoon daaronder begrepen, die ingevolge de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) bevoegd is tot het afleveren van geneesmiddelen aan particuliere gebruikers, in bijzondere gevallen besluiten de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2007-07-01&g=2007-07-01), bedoelde regeling vastgelegde maximumprijs te wijzigen. De laatste twee volzinnen van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2007-07-01&g=2007-07-01), zijn niet van toepassing op een wijziging van de in de ministeriële regeling vastgelegde maximumprijs op grond van dit lid.
+2. Voorts kan Onze Minister op verzoek van degene die het geneesmiddel te koop aanbiedt, verkoopt of krachtens verkoop levert aan een persoon, een rechtspersoon daaronder begrepen, die ingevolge de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) bevoegd is tot het afleveren van geneesmiddelen aan particuliere gebruikers, in bijzondere gevallen besluiten de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2009-07-01&g=2009-07-01), bedoelde regeling vastgelegde maximumprijs te wijzigen. De laatste twee volzinnen van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2009-07-01&g=2009-07-01), zijn niet van toepassing op een wijziging van de in de ministeriële regeling vastgelegde maximumprijs op grond van dit lid.
 
 3. De aanvraag tot wijziging van de vastgelegde maximumprijs is met redenen omkleed.
 
@@ -121,51 +121,23 @@ Vervallen
 
 ##### Artikel 11
 
-1. Onze Minister kan bij beschikking aan degene die handelt in strijd met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=4&z=2007-07-01&g=2007-07-01) of 5, ter zake van die overtreding een bestuurlijke boete opleggen van ten hoogste € 45 000.
-
-2. De hoogte van de boete wordt afgestemd op de ernst van de overtreding en de omstandigheden waarin de betrokkene verkeert. Onze Minister legt geen boete op, indien de betrokkene aannemelijk maakt dat hem van de overtreding geen verwijt kan worden gemaakt.
-
-3. De beschikking vermeldt in elk geval:
-
-- a. het feit ter zake waarvan de boete wordt opgelegd alsmede de overtreden bepaling,
-
-- b. een aanduiding van de plaats waar en van het tijdstip waarop de overtreding is begaan,
-
-- c. de hoogte van de boete en
-
-- d. de termijn waarbinnen de boete moet worden betaald.
-
-4. De bevoegdheid tot het opleggen van een boete vervalt drie jaren nadat de overtreding is begaan. Een beschikking tot oplegging van een boete stuit de in de eerste volzin genoemde termijn.
+Onze Minister kan een bestuurlijke boete opleggen van ten hoogste € 45 000 ter zake van overtreding van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=4&z=2009-07-01&g=2009-07-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=5&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 12
 
-Indien Onze Minister of een ambtenaar als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=6&z=2007-07-01&g=2007-07-01), jegens betrokkene een handeling verricht, waaraan deze in redelijkheid de gevolgtrekking kan verbinden dat aan hem wegens een bepaald feit een boete zal worden opgelegd, is de betrokkene niet langer verplicht ter zake van dat feit enige verklaring af te leggen. De betrokkene wordt hiervan in kennis gesteld voordat hem mondeling terzake om informatie wordt gevraagd.
+Vervallen
 
 ##### Artikel 13
 
-1. Indien Onze Minister voornemens is een boete op te leggen, geeft hij de betrokkene daarvan kennis onder vermelding van het feit, ter zake waarvan het voornemen bestaat en van de gronden waarop het voornemen berust.
-
-2. Op verzoek van de betrokkene die de in het eerste lid bedoelde kennisgeving wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt Onze Minister er zoveel mogelijk zorg voor dat de in die kennisgeving vermelde gronden aan de betrokkene worden medegedeeld in een voor hem begrijpelijke taal.
+Vervallen
 
 ##### Artikel 14
 
-1. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) stelt Onze Minister de betrokkene in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd.
-
-2. Indien de betrokkene zijn zienswijze mondeling naar voren brengt, draagt Onze Minister er op verzoek van de betrokkene die de Nederlandse taal onvoldoende begrijpt, zorg voor dat een tolk wordt benoemd, die de betrokkene kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
+Vervallen
 
 ##### Artikel 15
 
-1. De werking van de beschikking waarbij een boete wordt opgelegd, wordt opgeschort totdat de bezwaartermijn is verstreken of, indien bezwaar is gemaakt, op het bezwaar is beslist.
-
-2. Indien de boete niet is betaald binnen de overeenkomstig [artikel 11, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=11&z=2007-07-01&g=2007-07-01), bepaalde termijn, wordt de betrokkene schriftelijk bevolen binnen twee weken alsnog het bedrag van de boete, verhoogd met de kosten van de aanmaning, te betalen.
-
-3. Bij gebreke van betaling kan Onze Minister de boete, verhoogd met de op de aanmaning en invordering betrekking hebbende kosten, bij dwangbevel invorderen.
-
-4. Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploit betekend en levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend).
-
-5. Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van de Staat. Het verzet schorst de tenuitvoerlegging. Op verzoek van de Staat kan de rechter de schorsing van de tenuitvoerlegging opheffen.
-
-6. De bevoegdheid tot invordering vervalt twee jaar nadat de beschikking inzake oplegging van de boete onherroepelijk is geworden.
+Vervallen
 
 ##### Artikel 16
 
@@ -173,17 +145,17 @@ Vervallen
 
 ##### Artikel 17
 
-1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=8&z=2007-07-01&g=2007-07-01) : 2 van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is beroep mogelijk tegen een besluit tot vaststelling van een maximumprijs.
+1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=8&z=2009-07-01&g=2009-07-01) : 2 van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is beroep mogelijk tegen een besluit tot vaststelling van een maximumprijs.
 
-2. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=8&z=2007-07-01&g=2007-07-01) : 7 van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is voor beroep tegen besluiten op grond van deze wet de rechtbank te 's-Gravenhage bevoegd.
+2. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=8&z=2009-07-01&g=2009-07-01) : 7 van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is voor beroep tegen besluiten op grond van deze wet de rechtbank te 's-Gravenhage bevoegd.
 
 ##### Artikel 18
 
-Onze Minister zendt binnen achttien maanden nadat voor het eerst een regeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2007-07-01&g=2007-07-01), is vastgesteld, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister zendt binnen achttien maanden nadat voor het eerst een regeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2009-07-01&g=2009-07-01), is vastgesteld, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel 19
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Zij vervalt met ingang van de eerste dag van het vijfde kalenderjaar na dat waarin voor het laatst een regeling ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2007-07-01&g=2007-07-01), heeft gegolden.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Zij vervalt met ingang van de eerste dag van het vijfde kalenderjaar na dat waarin voor het laatst een regeling ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2009-07-01&g=2009-07-01), heeft gegolden.
 
 ##### Artikel 20
 
