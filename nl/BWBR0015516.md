@@ -4,7 +4,7 @@ identifier: "BWBR0015516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-11-26"
-last_updated: "2003-10-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015516"
 soort: "ministeriele-regeling"
@@ -53,17 +53,13 @@ Als bijzonder middel van vervoer, bedoeld in [artikel 7, van de Wet tarieven in 
 
 ##### Artikel 3
 
-1. De griffier kan, op verzoek van een persoon die niet in staat is de kosten voor de te maken reis te betalen, een voorschot op de vergoeding verlenen.
-
-2. Het voorschot wordt met de toe te kennen vergoeding verrekend.
-
-3. Bij het vragen van een vergoeding voor met het tijdverzuim verband houdende kosten en voor reis- en verblijfkosten, bedoeld in [artikel 8 van de Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=8), worden, voor zoveel mogelijk, de betalingsbewijzen van de gemaakte kosten overgelegd.
+Bij het vragen van een vergoeding voor met het tijdverzuim verband houdende kosten en voor reis- en verblijfkosten, bedoeld in [artikel 8 van de Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=8), worden, voor zoveel mogelijk, de betalingsbewijzen van de gemaakte kosten overgelegd.
 
 ##### Artikel 4
 
 1. Voor het declareren van vergoedingen voor verrichte werkzaamheden, bedoeld in [artikel 9 van de Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=9), wordt gebruik gemaakt van bij deze regeling vastgestelde modellen.
 
-2. Voor het vragen van betaling van vergoedingen bij wijze van voorschot op grond van [artikel 3, eerste lid, van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015516&artikel=3&z=2003-10-01&g=2003-10-01) of van [artikel 16, eerste lid, van de Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=16) wordt gebruik gemaakt van bij deze regeling vastgestelde modellen.
+2. Voor het vragen van betaling van vergoedingen bij wijze van voorschot op grond van [artikel 16, eerste lid, van de Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=16) wordt gebruik gemaakt van bij deze regeling vastgestelde modellen.
 
 3. De in het eerste en tweede lid bedoelde modellen zijn gratis verkrijgbaar aan de griffie van de gerechten.
 
