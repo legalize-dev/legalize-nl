@@ -4,7 +4,7 @@ identifier: "BWBR0006404"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2006-04-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006404"
 soort: "AMvB"
@@ -72,9 +72,9 @@ Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien de 
 
 ##### Artikel 4
 
-1. Rechtsbijstand wordt, als zijnde van onvoldoende belang, behalve tijdens een spreekuur als bedoeld in [artikel 19, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=19), niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 90,–.
+1. Rechtsbijstand bestaande uit het geven van eenvoudig rechtskundig advies wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 90,–.
 
-2. Rechtsbijstand op basis van een toevoeging wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 180,–.
+2. Rechtsbijstand op basis van een toevoeging anders dan ten behoeve van eenvoudig rechtskundig advies wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 180,–.
 
 3. Indien de rechtsbijstand betrekking heeft op een beroep in cassatie wordt de toevoeging geweigerd indien het op geld waardeerbare belang blijft beneden een bedrag van € 360,–.
 
@@ -88,23 +88,23 @@ Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien de 
 
 ##### Artikel 5
 
-1. Voor rechtsbijstand in strafzaken wordt, behalve tijdens het spreekuur, geen rechtsbijstand verleend indien de zaak dient bij de kantonrechter.
+1. In strafzaken wordt geen rechtsbijstand verleend indien de zaak dient bij de kantonrechter. De eerste volzin is niet van toepassing op de verlening van rechtshulp.
 
-2. In afwijking van het eerste lid kan een toevoeging worden verleend, indien zwaarwegende belangen van de rechtzoekende dit rechtvaardigen of de bijzondere feitelijke of juridische ingewikkeldheid van het geval dat vereist.
+2. In afwijking van het eerste lid, eerste volzin kan rechtsbijstand worden verleend, indien zwaarwegende belangen van de rechtzoekende dit rechtvaardigen of de bijzondere feitelijke of juridische ingewikkeldheid van het geval dat vereist.
 
 ##### Artikel 6
 
-1. Voor rechtsbijstand in zaken betreffende [Boek I van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656) wordt geen toevoeging verleend:
+1. Voor rechtsbijstand in zaken betreffende [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656) wordt geen toevoeging verleend:
 
-- a. indien de kantonrechter bevoegd is van het verzoek, de vordering of het verweer kennis te nemen.
+- a. indien de kantonrechter bevoegd is van het verzoek, de vordering of het verweer kennis te nemen,
 
 - b. indien de aanvraag betrekking heeft op wijziging van de geslachtsnaam of wijziging van een spelfout in de voornaam.
 
-2. In afwijking van het eerste lid onder a kan een toevoeging worden verleend:
+2. In afwijking van het eerste lid, onderdeel a, kan een toevoeging worden verleend:
 
 - a. indien de bijzondere feitelijke of juridische ingewikkeldheid van het geval dat vereist of,
 
-- b. indien de rechtzoekende verweerder is in een procedure als bedoeld in [artikel 431 Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=431).
+- b. indien de rechtzoekende verweerder is in een procedure als bedoeld in [artikel 431 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=431).
 
 ##### Artikel 7
 
@@ -114,7 +114,7 @@ Voor rechtsbijstand terzake van het treffen van een afbetalingsregeling, het aan
 
 1. Geen toevoeging wordt verleend indien de rechtsbijstand uitsluitend is verzocht voor:
 
-- a. het indienen van aanvragen om toelating tot Nederland op grond van de Vreemdelingenwet, tenzij de rechtzoekende met onmiddellijke uitzetting of inbewaringstelling wordt bedreigd of de aanvraag betrekking heeft op een verzoek om toelating als vluchteling en niet kan worden volstaan met het verlenen van rechtsbijstand tijdens een spreekuur dat voorafgaat aan het gehoor;
+- a. het indienen van aanvragen om toelating tot Nederland op grond van de Vreemdelingenwet, tenzij de rechtzoekende met onmiddellijke uitzetting of inbewaringstelling wordt bedreigd of de aanvraag betrekking heeft op een verzoek om toelating als vluchteling en niet kan worden volstaan met het verlenen van rechtshulp die voorafgaat aan het gehoor;
 
 - b. het aanvragen van een uitkering;
 
