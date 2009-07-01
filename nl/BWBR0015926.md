@@ -4,7 +4,7 @@ identifier: "BWBR0015926"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-01"
-last_updated: "2009-03-25"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015926"
 soort: "wet"
@@ -87,9 +87,9 @@ Het CBS is op nationaal niveau belast met de productie van communautaire statist
 
 Het CBS heeft twee bestuursorganen:
 
-- a. de directeur-generaal, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=3&paragraaf=1&artikel=8&z=2009-03-25&g=2009-03-25);
+- a. de directeur-generaal, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=3&paragraaf=1&artikel=8&z=2009-07-01&g=2009-07-01);
 
-- b. de CCS, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=4&paragraaf=1&artikel=20&z=2009-03-25&g=2009-03-25).
+- b. de CCS, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=4&paragraaf=1&artikel=20&z=2009-07-01&g=2009-07-01).
 
 #### Paragraaf 3. Personeel
 
@@ -139,7 +139,7 @@ Het CBS heeft twee bestuursorganen:
 
 3. Buiten de bezoldiging en de vergoeding van bijzondere kosten in verband met zijn functie geniet de directeur-generaal geen inkomsten ten laste van het CBS.
 
-4. Ten aanzien van de directeur-generaal wordt met overeenkomstige toepassing van [artikel 383 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383) verslag gedaan in het jaarverslag, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=53&z=2009-03-25&g=2009-03-25).
+4. Ten aanzien van de directeur-generaal wordt met overeenkomstige toepassing van [artikel 383 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383) verslag gedaan in het jaarverslag, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=53&z=2009-07-01&g=2009-07-01).
 
 #### Paragraaf 3. Taken, bevoegdheden en werkwijze
 
@@ -223,7 +223,7 @@ Het bestuur van het CBS wordt mede gevormd door een Centrale commissie voor de s
 
 3. Buiten de schadeloosstelling en de vergoeding van bijzondere kosten in verband met hun functie genieten de leden van de CCS geen inkomsten ten laste van het CBS.
 
-4. Ten aanzien van de leden van de CCS wordt met overeenkomstige toepassing van [artikel 383 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383) verslag gedaan in het jaarverslag, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=54&z=2009-03-25&g=2009-03-25).
+4. Ten aanzien van de leden van de CCS wordt met overeenkomstige toepassing van [artikel 383 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383) verslag gedaan in het jaarverslag, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=54&z=2009-07-01&g=2009-07-01).
 
 #### Paragraaf 3. Taken, bevoegdheden en werkwijze
 
@@ -263,11 +263,11 @@ Ter uitvoering van haar taak kan de CCS zich rechtstreeks tot derden wenden tot 
 
 1. De CCS kan de voorbereiding van bepaalde beslissingen en taken opdragen aan al dan niet uit haar midden ingestelde subcommissies of aan de directeur-generaal.
 
-2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=4&paragraaf=2&artikel=24&z=2009-03-25&g=2009-03-25) is van overeenkomstige toepassing op de leden van subcommissies die geen lid zijn van de CCS.
+2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=4&paragraaf=2&artikel=24&z=2009-07-01&g=2009-07-01) is van overeenkomstige toepassing op de leden van subcommissies die geen lid zijn van de CCS.
 
 ##### Artikel 30
 
-De voorzitter van de CCS kan in spoedeisende gevallen de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=3&paragraaf=3&artikel=16&z=2009-03-25&g=2009-03-25), bedoelde bevoegdheid van de CCS, voor zover het een wijziging van het werkprogramma betreft, en de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=4&paragraaf=3&artikel=27&z=2009-03-25&g=2009-03-25) bedoelde bevoegdheden uitoefenen.
+De voorzitter van de CCS kan in spoedeisende gevallen de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=3&paragraaf=3&artikel=16&z=2009-07-01&g=2009-07-01), bedoelde bevoegdheid van de CCS, voor zover het een wijziging van het werkprogramma betreft, en de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=4&paragraaf=3&artikel=27&z=2009-07-01&g=2009-07-01) bedoelde bevoegdheden uitoefenen.
 
 ##### Artikel 31
 
@@ -339,13 +339,13 @@ De directeur-generaal draagt op de voet van de ter zake voor de Rijksdienst geld
 
 ##### Artikel 39
 
-1. In afwijking van[artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2009-03-25&g=2009-03-25) verstrekt de directeur-generaal gegevens aan de communautaire en nationale instanties voor de statistiek van de lidstaten van de Europese Unie voor zover deze verstrekking noodzakelijk is voor de productie van specifieke communautaire statistieken.
+1. In afwijking van[artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2009-07-01&g=2009-07-01) verstrekt de directeur-generaal gegevens aan de communautaire en nationale instanties voor de statistiek van de lidstaten van de Europese Unie voor zover deze verstrekking noodzakelijk is voor de productie van specifieke communautaire statistieken.
 
 2. Bij elke andere verstrekking aan de communautaire en nationale instanties voor de statistiek van de lidstaten van de Europese Unie vergewist de directeur-generaal zich ervan dat alle administratieve, technische en organisatorische maatregelen zijn genomen die voor de fysieke en logistieke bescherming van vertrouwelijke gegevens en voor het voorkomen van enige onwettige openbaarmaking en gebruik voor niet-statistische doeleinden bij de verspreiding van communautaire en nationale statistieken nodig zijn.
 
 ##### Artikel 40
 
-1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2009-03-25&g=2009-03-25) kan de directeur-generaal, uitsluitend ten behoeve van statistische doeleinden in het kader van de uitvoering van de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547), gegevens verstrekken aan De Nederlandsche Bank NV.
+1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2009-07-01&g=2009-07-01) kan de directeur-generaal, uitsluitend ten behoeve van statistische doeleinden in het kader van de uitvoering van de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547), gegevens verstrekken aan De Nederlandsche Bank NV.
 
 2. De in het eerste lid bedoelde gegevens worden aangewezen in een door Onze Minister, na overleg met Onze Minister van Financiën en gehoord de CCS, vast te stellen regeling.
 
@@ -353,7 +353,7 @@ De directeur-generaal draagt op de voet van de ter zake voor de Rijksdienst geld
 
 ##### Artikel 41
 
-1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2009-03-25&g=2009-03-25) kan de directeur-generaal op verzoek, ten behoeve van statistisch of wetenschappelijk onderzoek, een verzameling van gegevens met betrekking tot het gebruik waarvan passende maatregelen zijn genomen om herkenning van afzonderlijke personen, huishoudens, ondernemingen of instellingen te voorkomen, verstrekken aan een dienst, organisatie of instelling als bedoeld in het tweede lid, dan wel daartoe toegang verlenen.
+1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2009-07-01&g=2009-07-01) kan de directeur-generaal op verzoek, ten behoeve van statistisch of wetenschappelijk onderzoek, een verzameling van gegevens met betrekking tot het gebruik waarvan passende maatregelen zijn genomen om herkenning van afzonderlijke personen, huishoudens, ondernemingen of instellingen te voorkomen, verstrekken aan een dienst, organisatie of instelling als bedoeld in het tweede lid, dan wel daartoe toegang verlenen.
 
 2. Een verzameling van gegevens als bedoeld in het eerste lid kan worden verstrekt, dan wel daartoe kan toegang worden verleend aan:
 
@@ -369,11 +369,11 @@ De directeur-generaal draagt op de voet van de ter zake voor de Rijksdienst geld
 
 ##### Artikel 42
 
-De directeur-generaal willigt een verzoek als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2009-03-25&g=2009-03-25) slechts in, indien de verzoeker naar het oordeel van de directeur-generaal voldoende maatregelen heeft getroffen om te voorkomen dat de verzameling van gegevens voor andere doeleinden dan statistisch of wetenschappelijk onderzoek wordt gebruikt.
+De directeur-generaal willigt een verzoek als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2009-07-01&g=2009-07-01) slechts in, indien de verzoeker naar het oordeel van de directeur-generaal voldoende maatregelen heeft getroffen om te voorkomen dat de verzameling van gegevens voor andere doeleinden dan statistisch of wetenschappelijk onderzoek wordt gebruikt.
 
 ##### Artikel 42a
 
-1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2009-03-25&g=2009-03-25) kan de directeur-generaal op verzoek, ten behoeve van wetenschappelijk onderzoek op het terrein van de volksgezondheid, gegevens verstrekken die het CBS ten behoeve van statistisch onderzoek op grond van [artikel 12a van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=12a) heeft verzameld, van personen die in een wetenschappelijk onderzoek waren betrokken.
+1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2009-07-01&g=2009-07-01) kan de directeur-generaal op verzoek, ten behoeve van wetenschappelijk onderzoek op het terrein van de volksgezondheid, gegevens verstrekken die het CBS ten behoeve van statistisch onderzoek op grond van [artikel 12a van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=12a) heeft verzameld, van personen die in een wetenschappelijk onderzoek waren betrokken.
 
 2. De directeur-generaal willigt een verzoek als bedoeld in het eerste lid slechts in, indien de betrokkene tot een zodanige verstrekking zijn uitdrukkelijke toestemming heeft gegeven dan wel, indien de betrokkene tot een zodanige verstrekking geen uitdrukkelijke toestemming heeft kunnen geven, voor zover verzoeker voldoende aantoont dat:
 
@@ -389,7 +389,7 @@ De directeur-generaal willigt een verzoek als bedoeld in [artikel 41](https://we
 
 3. De directeur-generaal kan nadere voorwaarden verbinden aan een verstrekking krachtens het eerste lid.
 
-4. De [artikelen 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2009-03-25&g=2009-03-25), en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=42&z=2009-03-25&g=2009-03-25) zijn van overeenkomstige toepassing.
+4. De [artikelen 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2009-07-01&g=2009-07-01), en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=42&z=2009-07-01&g=2009-07-01) zijn van overeenkomstige toepassing.
 
 5. Onze Minister stelt, in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, gehoord de CCS en het College bescherming persoonsgegevens, nadere regels met betrekking tot de in het eerste lid bedoelde bevoegdheid.
 
@@ -397,73 +397,49 @@ De directeur-generaal willigt een verzoek als bedoeld in [artikel 41](https://we
 
 ##### Artikel 43
 
-1. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2009-03-25&g=2009-03-25), bedoelde rechtspersonen en de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2009-03-25&g=2009-03-25), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in die leden bedoelde gegevens niet, niet tijdig of niet volledig verstrekken.
+1. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2009-07-01&g=2009-07-01), bedoelde rechtspersonen en de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2009-07-01&g=2009-07-01), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in die leden bedoelde gegevens niet, niet tijdig of niet volledig verstrekken.
 
-2. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in [artikel 38b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2a&artikel=38b&z=2009-03-25&g=2009-03-25) doet.
+2. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in [artikel 38b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2a&artikel=38b&z=2009-07-01&g=2009-07-01) doet.
 
-3. De boete komt toe aan het CBS.
-
-4. Onze Minister kan, in overeenstemming met Onze Minister van Justitie, regels stellen ter zake van de uitoefening van de bevoegdheid tot oplegging van een boete.
+3. Onze Minister kan, in overeenstemming met Onze Minister van Justitie, regels stellen ter zake van de uitoefening van de bevoegdheid tot oplegging van een bestuurlijke boete.
 
 ##### Artikel 44
 
-Degene jegens wie een handeling is verricht waaraan hij in redelijkheid de gevolgtrekking kan verbinden dat hem een boete zal worden opgelegd, is niet verplicht ter zake daarvan enige verklaring af te leggen. Hij wordt hiervan in kennis gesteld alvorens hem mondeling om informatie wordt gevraagd.
+Vervallen
 
 ##### Artikel 45
 
-1. Indien de directeur-generaal voornemens is een boete op te leggen, geeft hij de betrokkene daarvan kennis onder vermelding van de gronden waarop het voornemen berust.
-
-2. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) stelt de directeur-generaal de betrokkene in de gelegenheid om naar keuze schriftelijk of mondeling binnen een redelijke termijn zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd.
+Vervallen
 
 ##### Artikel 46
 
-De directeur-generaal legt geen boete op indien degene aan wie het niet, niet tijdig of niet volledig verstrekken van gegevens kan worden toegerekend aannemelijk maakt dat hem ter zake geen verwijt kan worden gemaakt.
+Vervallen
 
 ##### Artikel 47
 
-1. De directeur-generaal legt de boete op bij beschikking.
-
-2. De beschikking vermeldt in ieder geval:
-
-- a. het feit ter zake waarvan de bestuurlijke boete wordt opgelegd, alsmede het overtreden voorschrift;
-
-- b. het bedrag van de boete;
-
-- c. de termijn waarbinnen de boete moet worden betaald.
+Vervallen
 
 ##### Artikel 48
 
-De werking van de beschikking tot oplegging van een boete wordt opgeschort totdat de beroepstermijn is verstreken, of, indien beroep is ingesteld, op het beroep is beslist.
+De werking van de beschikking tot oplegging van een bestuurlijke boete wordt opgeschort totdat de beroepstermijn is verstreken, of, indien beroep is ingesteld, op het beroep is beslist.
 
 ##### Artikel 49
 
-1. De boete wordt betaald binnen zes weken na de inwerkingtreding van de beschikking waarbij zij is opgelegd.
-
-2. Indien niet tijdig is betaald, wordt degene die de boete is verschuldigd schriftelijk bevolen binnen twee weken alsnog het bedrag van de boete, verhoogd met de kosten van de aanmaning te betalen.
-
-3. Bij gebreke van betaling binnen de in het tweede lid genoemde termijn, kan de directeur-generaal de verschuldigde boete, verhoogd met de op de aanmaning en invordering betrekking hebbende kosten, invorderen bij dwangbevel.
-
-4. Het dwangbevel wordt op kosten van degene die de boete is verschuldigd bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede).
-
-5. Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van het CBS.
-
-6. Het verzet schorst de tenuitvoerlegging. Op verzoek van het CBS kan de rechter de schorsing van de tenuitvoerlegging opheffen.
+Vervallen
 
 ##### Artikel 50
 
-De werkzaamheden in verband met het opleggen van een boete worden verricht door personen die niet betrokken zijn bij het vaststellen van de overtreding en het daaraan voorafgaande onderzoek.
+Vervallen
 
 ##### Artikel 51
 
-De directeur-generaal kan in plaats van een bestuurlijke boete aan de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2009-03-25&g=2009-03-25), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in dat artikellid bedoelde gegevens niet, niet tijdig of niet volledig verstrekken of aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in [artikel 38b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2a&artikel=38b&z=2009-03-25&g=2009-03-25) doet, een last onder dwangsom opleggen. Een bestuurlijke boete en een last onder dwangsom kunnen tevens gezamenlijk worden opgelegd.
+De directeur-generaal kan in plaats van een bestuurlijke boete aan de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2009-07-01&g=2009-07-01), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in dat artikellid bedoelde gegevens niet, niet tijdig of niet volledig verstrekken of aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in [artikel 38b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2a&artikel=38b&z=2009-07-01&g=2009-07-01) doet, een last onder dwangsom opleggen. Een bestuurlijke boete en een last onder dwangsom kunnen tevens gezamenlijk worden opgelegd.
 
 ##### Artikel 52
 
 1. Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de directeur-generaal.
 
 2. Een last geldt voor een door de directeur-generaal te bepalen termijn van ten hoogste twee jaren.
-
-3. De [artikelen 5:32, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), [5:33](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:33), [5:34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:34), en [5:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:35) zijn van toepassing.
 
 ### Hoofdstuk 6. Informatievoorziening, sturing en toezicht
 
@@ -475,7 +451,7 @@ De directeur-generaal kan in plaats van een bestuurlijke boete aan de in [artike
 
 2. Het jaarverslag beschrijft de taakuitoefening en het gevoerde beleid ter uitvoering van deze wet en van andere wetten, voor zover in de desbetreffende wet niet is voorzien in een afzonderlijke verplichting tot het opstellen van een verslag. Het jaarverslag beschrijft voorts het gevoerde beleid met betrekking tot de kwaliteitszorg.
 
-3. Het jaarverslag verschaft tevens inzicht in de administratieve lasten in dat jaar voor ondernemingen en instellingen als gevolg van de verwerving van gegevens door de directeur-generaal, in de voorzieningen die de directeur-generaal heeft getroffen ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=36&z=2009-03-25&g=2009-03-25) en in de mate van terugdringing van de administratieve lasten.
+3. Het jaarverslag verschaft tevens inzicht in de administratieve lasten in dat jaar voor ondernemingen en instellingen als gevolg van de verwerving van gegevens door de directeur-generaal, in de voorzieningen die de directeur-generaal heeft getroffen ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=36&z=2009-07-01&g=2009-07-01) en in de mate van terugdringing van de administratieve lasten.
 
 4. Het jaarverslag wordt vóór 1 maart ter goedkeuring aan de CCS gezonden, die het vóór 1 april aan Onze Minister zendt.
 
@@ -487,11 +463,11 @@ De directeur-generaal kan in plaats van een bestuurlijke boete aan de in [artike
 
 ##### Artikel 55
 
-Onze Minister kan regels stellen over de inrichting van het jaarverslag, bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=53&z=2009-03-25&g=2009-03-25) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=54&z=2009-03-25&g=2009-03-25).
+Onze Minister kan regels stellen over de inrichting van het jaarverslag, bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=53&z=2009-07-01&g=2009-07-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=54&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 56
 
-1. De directeur-generaal legt het door de CCS goedgekeurde jaarverslag, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=53&z=2009-03-25&g=2009-03-25), en het door Onze Minister goedgekeurde jaarverslag, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=54&z=2009-03-25&g=2009-03-25), ter inzage bij het CBS gedurende acht weken. Hiervan doet de directeur-generaal mededeling in de Staatscourant.
+1. De directeur-generaal legt het door de CCS goedgekeurde jaarverslag, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=53&z=2009-07-01&g=2009-07-01), en het door Onze Minister goedgekeurde jaarverslag, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=54&z=2009-07-01&g=2009-07-01), ter inzage bij het CBS gedurende acht weken. Hiervan doet de directeur-generaal mededeling in de Staatscourant.
 
 2. Onze Minister zendt onverwijld een afschrift van de jaarverslagen aan beide kamers der Staten-Generaal.
 
@@ -509,7 +485,7 @@ Onze Minister kan regels stellen over de inrichting van het jaarverslag, bedoeld
 
 2. De directeur-generaal en de CCS treffen voorzieningen waardoor personen en instellingen, die met hen in aanraking komen, in de gelegenheid zijn voorstellen tot verbeteringen van werkwijzen en procedures te doen.
 
-3. In de jaarverslagen, bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=53&z=2009-03-25&g=2009-03-25) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=54&z=2009-03-25&g=2009-03-25), doen de directeur-generaal en de CCS verslag van hetgeen tot uitvoering van het eerste en het tweede lid is verricht.
+3. In de jaarverslagen, bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=53&z=2009-07-01&g=2009-07-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&paragraaf=1&artikel=54&z=2009-07-01&g=2009-07-01), doen de directeur-generaal en de CCS verslag van hetgeen tot uitvoering van het eerste en het tweede lid is verricht.
 
 ##### Artikel 57
 
@@ -611,7 +587,7 @@ De directeur-generaal behoeft voorafgaande instemming van Onze Minister voor:
 
 - e. het aangaan van overeenkomsten waarbij het CBS zich verbindt tot zekerheidstelling met inbegrip van zekerheidstelling voor schulden van derden of waarbij het zich als borg of hoofdelijk medeschuldenaar verbindt of zich voor een derde sterk maakt;
 
-- f. het vormen van andere fondsen en reserveringen dan de egalisatiereserve, bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=7&paragraaf=2&artikel=69&z=2009-03-25&g=2009-03-25);
+- f. het vormen van andere fondsen en reserveringen dan de egalisatiereserve, bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=7&paragraaf=2&artikel=69&z=2009-07-01&g=2009-07-01);
 
 - g. het doen van aangifte tot zijn faillissement of het aanvragen van zijn surséance van betaling.
 
@@ -687,7 +663,7 @@ De [Wet op het Centraal bureau en de Centrale commissie voor de statistiek](http
 
 3. De personen die op het tijdstip van verzelfstandiging van het CBS krachtens een arbeidsovereenkomst naar burgerlijk recht behoren tot het personeel van het onder Onze Minister ressorterende CBS, zijn met ingang van dat tijdstip van rechtswege ontslagen en aangesteld in dienst van het verzelfstandigde CBS met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold bij het onder Onze Minister ressorterende dienstonderdeel.
 
-4. De door Onze Minister vastgestelde rechtspositieregels die op het tijdstip van verzelfstandiging van het CBS gelden voor het personeel van het onder Onze Minister ressorterende CBS blijven met ingang van dat tijdstip van overeenkomstige toepassing op het personeel in dienst van het verzelfstandigde CBS totdat daarin op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=3&artikel=7&z=2009-03-25&g=2009-03-25), is voorzien door de directeur-generaal.
+4. De door Onze Minister vastgestelde rechtspositieregels die op het tijdstip van verzelfstandiging van het CBS gelden voor het personeel van het onder Onze Minister ressorterende CBS blijven met ingang van dat tijdstip van overeenkomstige toepassing op het personeel in dienst van het verzelfstandigde CBS totdat daarin op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=3&artikel=7&z=2009-07-01&g=2009-07-01), is voorzien door de directeur-generaal.
 
 ##### Artikel 79
 
@@ -727,7 +703,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. In deze paragraaf wordt verstaan onder [verordening 638/2004](32004R0638): [verordening (EG) nr. 638/2004](32004R0638) van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de communautaire statistieken van het goederenverkeer tussen de lidstaten en houdende intrekking van [Verordening (EEG) nr. 3330/91](31991R3330) (PbEG L 102).
 
-2. De [artikelen 33, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2009-03-25&g=2009-03-25) en [37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2009-03-25&g=2009-03-25), zijn niet van toepassing op de uitvoering van [verordening 638/2004](32004R0638).
+2. De [artikelen 33, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2009-07-01&g=2009-07-01) en [37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2009-07-01&g=2009-07-01), zijn niet van toepassing op de uitvoering van [verordening 638/2004](32004R0638).
 
 ##### Artikel 38b
 
