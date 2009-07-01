@@ -4,7 +4,7 @@ identifier: "BWBR0021418"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2008-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021418"
 soort: "wet"
@@ -80,7 +80,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het is verboden zonder daartoe verleende vergunning van Onze Minister ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2008-01-01&g=2008-01-01) te verrichten.
+1. Het is verboden zonder daartoe verleende vergunning van Onze Minister ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01) te verrichten.
 
 2. Het eerste lid is niet van toepassing op ruimtevaartactiviteiten die worden verricht onder de verantwoordelijkheid van één of meer Onzer Ministers.
 
@@ -144,7 +144,7 @@ Onze Minister beslist op een aanvraag om een vergunning binnen zes maanden na de
 
 - d. gegronde vrees bestaat dat de aanvrager niet overeenkomstig de bij of krachtens deze wet gestelde regels zal handelen;
 
-- e. de bescherming van de belangen, genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01), dit vordert.
+- e. de bescherming van de belangen, genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2009-07-01&g=2009-07-01), dit vordert.
 
 ##### Artikel 7
 
@@ -168,7 +168,7 @@ Onze Minister beslist op een aanvraag om een vergunning binnen zes maanden na de
 
 - e. de bij de aanvraag verstrekte gegevens of bescheiden zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;
 
-- f. de bescherming van de belangen, genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01), dit vordert.
+- f. de bescherming van de belangen, genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2009-07-01&g=2009-07-01), dit vordert.
 
 3. Alvorens de vergunning wordt ingetrokken, neemt Onze Minister alle nodige maatregelen om de veiligheid van personen en goederen, de bescherming van het milieu in de ruimte, de bescherming van de openbare orde of de veiligheid van de staat te waarborgen. Onze Minister geeft daartoe de nodige aanwijzingen aan degene wiens vergunning zal worden ingetrokken. Deze is gehouden de aanwijzingen op te volgen.
 
@@ -208,7 +208,7 @@ Onze Minister beslist op een aanvraag om een vergunning binnen zes maanden na de
 
 ##### Artikel 11
 
-1. Onze Minister houdt een register met gegevens betreffende ruimtevoorwerpen die gebruikt worden in het kader van ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2008-01-01&g=2008-01-01).
+1. Onze Minister houdt een register met gegevens betreffende ruimtevoorwerpen die gebruikt worden in het kader van ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01).
 
 2. De vergunninghouder verstrekt op bij algemene maatregel van bestuur vast te stellen momenten de voor het register benodigde gegevens.
 
@@ -222,9 +222,9 @@ Onze Minister beslist op een aanvraag om een vergunning binnen zes maanden na de
 
 1. In het geval de staat op grond van artikel VII van het Ruimteverdrag of het Aansprakelijkheidsverdrag gehouden is tot betaling van schadevergoeding, heeft de staat het recht deze geheel of gedeeltelijk te verhalen op degene wiens ruimtevaartactiviteit de schade heeft veroorzaakt.
 
-2. De vergunninghouder is, per gebeurtenis of serie van gebeurtenissen met dezelfde oorzaak, aansprakelijk voor schade veroorzaakt door zijn ruimtevaartactiviteiten, tot de hoogte van het verzekerde bedrag, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01).
+2. De vergunninghouder is, per gebeurtenis of serie van gebeurtenissen met dezelfde oorzaak, aansprakelijk voor schade veroorzaakt door zijn ruimtevaartactiviteiten, tot de hoogte van het verzekerde bedrag, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2009-07-01&g=2009-07-01).
 
-3. De staat oefent het recht van verhaal, bedoeld in het eerste lid, in voorkomend geval jegens de vergunninghouder uit tot maximaal de hoogte van het verzekerde bedrag, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01).
+3. De staat oefent het recht van verhaal, bedoeld in het eerste lid, in voorkomend geval jegens de vergunninghouder uit tot maximaal de hoogte van het verzekerde bedrag, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2009-07-01&g=2009-07-01).
 
 4. De staat kan het recht van verhaal, bedoelt in het derde lid, in voorkomend geval eveneens uitoefenen tegen de verzekeraar van de vergunninghouder.
 
@@ -232,119 +232,53 @@ Onze Minister beslist op een aanvraag om een vergunning binnen zes maanden na de
 
 ##### Artikel 13
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01), [7, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2008-01-01&g=2008-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2008-01-01&g=2008-01-01), en [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2008-01-01&g=2008-01-01), zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2009-07-01&g=2009-07-01), [7, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2009-07-01&g=2009-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2009-07-01&g=2009-07-01), en [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2009-07-01&g=2009-07-01), zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant.
 
 ##### Artikel 14
 
-1. Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2008-01-01&g=2008-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2008-01-01&g=2008-01-01) en [11, tweede en vierde lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2008-01-01&g=2008-01-01) en van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
+1. Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2009-07-01&g=2009-07-01), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2009-07-01&g=2009-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2009-07-01&g=2009-07-01) en [11, tweede en vierde lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2009-07-01&g=2009-07-01) en van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
 2. Voor de toepassing van het eerste lid is vereiste spoed als bedoeld in [artikel 5:24, vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:24) in elk geval aanwezig indien het niet naleven van de in het eerste lid bedoelde verplichtingen een ernstige en directe bedreiging vormt voor de veiligheid van personen en goederen, de veiligheid van de staat of de openbare orde.
 
 ##### Artikel 15
 
-1. Ingeval van overtreding van het bepaalde bij of krachtens [artikelen 3, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01), [7, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2008-01-01&g=2008-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2008-01-01&g=2008-01-01), of van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 450 000, of, indien dat meer is, 10 procent van de relevante jaaromzet van de onderneming in Nederland.
+1. Ingeval van overtreding van het bepaalde bij of krachtens [artikelen 3, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2009-07-01&g=2009-07-01), [7, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2009-07-01&g=2009-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2009-07-01&g=2009-07-01), of van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 450 000, of, indien dat meer is, 10 procent van de relevante jaaromzet van de onderneming in Nederland.
 
-2. Ingeval van overtreding van het bepaalde bij of krachtens [artikel 11, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2008-01-01&g=2008-01-01), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100 000.
-
-3. De hoogte van de bestuurlijke boete wordt in ieder geval afgestemd op de ernst en de duur van de overtreding, alsmede op de mate waarin de overtreder daarvan een verwijt kan worden gemaakt.
+2. Ingeval van overtreding van het bepaalde bij of krachtens [artikel 11, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2009-07-01&g=2009-07-01), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100 000.
 
 ##### Artikel 16
 
-1. Onze Minister legt geen bestuurlijke boete op voorzover de overtreding niet aan de overtreder kan worden verweten.
-
-2. Onze Minister legt geen bestuurlijke boete op indien:
-
-- a. de overtreder is overleden;
-
-- b. aan de overtreder wegens dezelfde overtreding reeds eerder een bestuurlijke boete is opgelegd;
-
-- c. een kennisgeving als bedoeld in [artikel 20, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=5&artikel=20&z=2008-01-01&g=2008-01-01), is bekendgemaakt;
-
-- d. een strafvervolging is ingesteld en het onderzoek ter terechtzitting is begonnen, of
-
-- e. het recht tot strafvervolging is vervallen ingevolge [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) of [74c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74c) dan wel ingevolge [artikel 37 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=37).
-
-3. Een bestuurlijke boete vervalt indien zij op het tijdstip van het overlijden van de overtreder niet onherroepelijk is. Een onherroepelijke bestuurlijke boete vervalt voorzover zij op dat tijdstip nog niet is betaald.
+Vervallen
 
 ##### Artikel 17
 
-1. De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt vijf jaar nadat de overtreding is begaan.
-
-2. Indien tegen de bestuurlijke boete bezwaar wordt gemaakt of beroep wordt ingesteld, wordt de vervaltermijn opgeschort tot onherroepelijk op het bezwaar of beroep is beslist.
+Vervallen
 
 ##### Artikel 18
 
-1. Indien een ambtenaar als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=5&artikel=13&z=2008-01-01&g=2008-01-01) vaststelt dat een overtreding als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=5&artikel=15&z=2008-01-01&g=2008-01-01) is begaan, maakt hij daarvan een rapport op.
-
-2. Het rapport is gedagtekend en vermeldt:
-
-- a. de naam van de overtreder;
-
-- b. de overtreding alsmede de wettelijke bepaling waarmee in strijd is gehandeld;
-
-- c. feiten en omstandigheden op grond waarvan is vastgesteld dat een overtreding is gepleegd;
-
-- d. waar en wanneer de onder c bedoelde feiten en omstandigheden zich hebben voorgedaan.
-
-3. Een afschrift van het rapport wordt gezonden aan degene die de overtreding heeft begaan.
-
-4. Op verzoek van de belanghebbende die het rapport wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt Onze Minister er zoveel mogelijk zorg voor dat de inhoud van het rapport aan de betrokkene wordt meegedeeld in een voor hem begrijpelijke taal.
+Vervallen
 
 ##### Artikel 19
 
-1. Indien aan een handeling van Onze Minister redelijkerwijs de gevolgtrekking kan worden verbonden dat aan de overtreder een bestuurlijke boete zal worden opgelegd, is er geen verplichting meer van de zijde van die overtreder om ten behoeve van deze oplegging een verklaring omtrent de overtreding af te leggen.
-
-2. De overtreder wordt hierop gewezen alvorens hem wordt gevraagd inlichtingen te verstrekken.
+Vervallen
 
 ##### Artikel 20
 
-1. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2) wordt de belanghebbende schriftelijk opgeroepen om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen omtrent het rapport.
-
-2. Indien de belanghebbende zijn zienswijze mondeling naar voren brengt, draagt Onze Minister er op verzoek van de belanghebbende die de Nederlandse taal onvoldoende begrijpt, zorg voor dat een tolk wordt benoemd die de belanghebbende bij het horen kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
-
-3. Indien Onze Minister, nadat de overtreder zijn zienswijze naar voren heeft gebracht, beslist dat:
-
-- a. voor de overtreding geen bestuurlijke boete zal worden opgelegd, of
-
-- b. de overtreding alsnog aan de officier van justitie zal worden voorgelegd,
-
-wordt dit schriftelijk aan de overtreder medegedeeld.
+Vervallen
 
 ##### Artikel 21
 
-1. De beschikking tot oplegging van een last onder dwangsom of een bestuurlijke boete, vermeldt in ieder geval:
-
-- a. de overtreding ter zake waarvan zij is gegeven, alsmede het overtreden wettelijk voorschrift;
-
-- b. indien een last onder dwangsom wordt opgelegd de naam van de overtreder, de inhoud van de last en de termijn waarvoor deze geldt;
-
-- c. indien een bestuurlijke boete wordt opgelegd de naam van de overtreder, de te betalen geldsom, alsmede een toelichting op de hoogte daarvan.
-
-2. Op verzoek van de overtreder die de beschikking wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt Onze Minister er zoveel mogelijk zorg voor dat de in die beschikking vermelde informatie aan de overtreder wordt meegedeeld in een voor hem begrijpelijke taal.
-
-3. Onze Minister beslist binnen dertien weken na de dagtekening van het rapport omtrent het opleggen van een bestuurlijke boete.
+Vervallen
 
 ##### Artikel 22
 
-1. Een bestuurlijke boete wordt betaald binnen zes weken nadat de beschikking waarbij de boete is opgelegd, in werking is getreden.
-
-2. De boete wordt vermeerderd met de wettelijke rente, te rekenen zes weken vanaf de dag waarop de in het eerste lid genoemde beschikking is bekendgemaakt.
-
-3. Indien niet is betaald binnen de in het eerste lid genoemde termijn, wordt degene die de boete is verschuldigd schriftelijk bevolen binnen twee weken alsnog het bedrag van de bestuurlijke boete, verhoogd met de krachtens het tweede lid verschuldigde rente en de kosten van de aanmaning, te betalen.
-
-4. De werking van een beschikking als bedoeld in het eerste lid wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
+Vervallen
 
 ##### Artikel 23
 
-1. Bij gebreke van betaling binnen de termijn van twee weken, bedoeld in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=5&artikel=22&z=2008-01-01&g=2008-01-01), kan Onze Minister van de overtreder de verschuldigde boete, verhoogd met de krachtens [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=5&artikel=22&z=2008-01-01&g=2008-01-01), verschuldigde rente en de op de aanmaning en invordering betrekking hebbende kosten, invorderen bij dwangbevel.
-
-2. Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van [Boek 2 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede).
-
-3. Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van de staat.
-
-4. Het verzet schorst de tenuitvoerlegging. Op verzoek van de staat kan de rechter de schorsing van de tenuitvoerlegging opheffen.
+Vervallen
 
 ### Hoofdstuk 6. Wijziging in andere wetgeving
 
@@ -358,7 +292,7 @@ wordt dit schriftelijk aan de overtreder medegedeeld.
 
 ##### Artikel 25
 
-1. Ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2008-01-01&g=2008-01-01) die op de datum van inwerkingtreding van deze wet plaatsvinden, kunnen zonder vergunning worden voortgezet gedurende een periode van twaalf maanden vanaf deze datum.
+1. Ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01) die op de datum van inwerkingtreding van deze wet plaatsvinden, kunnen zonder vergunning worden voortgezet gedurende een periode van twaalf maanden vanaf deze datum.
 
 2. Eenieder deelt binnen zes maanden na de datum van inwerkingtreding van deze wet aan Onze Minister de ruimtevaartactiviteiten mee die hij verricht en waarop deze wet betrekking kan hebben.
 
