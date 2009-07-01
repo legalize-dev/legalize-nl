@@ -4,7 +4,7 @@ identifier: "BWBR0008999"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-17"
-last_updated: "2004-11-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008999"
 soort: "wet"
@@ -126,17 +126,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de door de kapitein of de exploitant van het schip te treffen maatregelen, en
 
-- d. de mogelijkheid van de publicatie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VIII&artikel=28&z=2004-11-01&g=2004-11-01).
+- d. de mogelijkheid van de publicatie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VIII&artikel=28&z=2009-07-01&g=2009-07-01).
 
 4. Het derde lid, onder **d**, is niet van toepassing op vissersvaartuigen.
 
 ##### Artikel 4
 
-Voorzover [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2004-11-01&g=2004-11-01) niet van toepassing is, kan een ambtenaar van de divisie Scheepvaart een schip ten behoeve waarvan ingevolge een of meer van de verdragen geen certificaat of ander document is vereist, of een schip dat de vlag voert van een staat die geen partij is bij een of meer van de verdragen, onderwerpen aan een controle, teneinde op een zoveel mogelijk overeenkomstige wijze als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2004-11-01&g=2004-11-01) na te gaan of de toestand van het schip, de uitrusting, de leden van de bemanning, of de leef- en werkomstandigheden aan boord van het schip geen gevaar vormen voor de veiligheid, de gezondheid of de verontreiniging van het mariene milieu.
+Voorzover [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2009-07-01&g=2009-07-01) niet van toepassing is, kan een ambtenaar van de divisie Scheepvaart een schip ten behoeve waarvan ingevolge een of meer van de verdragen geen certificaat of ander document is vereist, of een schip dat de vlag voert van een staat die geen partij is bij een of meer van de verdragen, onderwerpen aan een controle, teneinde op een zoveel mogelijk overeenkomstige wijze als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2009-07-01&g=2009-07-01) na te gaan of de toestand van het schip, de uitrusting, de leden van de bemanning, of de leef- en werkomstandigheden aan boord van het schip geen gevaar vormen voor de veiligheid, de gezondheid of de verontreiniging van het mariene milieu.
 
 ##### Artikel 5
 
-1. Bij ministeriële regeling worden met inachtneming van de richtlijn regels gesteld over de te stellen minimumeisen, alvorens de aanwijzing, bedoeld in [artikel 1, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=I&paragraaf=1&artikel=1&z=2004-11-01&g=2004-11-01), kan plaatsvinden en over de wijze waarop de ambtenaren van de divisie Scheepvaart hun taak ingevolge deze wet uitoefenen.
+1. Bij ministeriële regeling worden met inachtneming van de richtlijn regels gesteld over de te stellen minimumeisen, alvorens de aanwijzing, bedoeld in [artikel 1, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=I&paragraaf=1&artikel=1&z=2009-07-01&g=2009-07-01), kan plaatsvinden en over de wijze waarop de ambtenaren van de divisie Scheepvaart hun taak ingevolge deze wet uitoefenen.
 
 2. In de regeling worden ten minste regels gesteld betreffende:
 
@@ -152,9 +152,9 @@ Voorzover [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=
 
 - f. te controleren certificaten en andere documenten,
 
-- g. de te stellen eisen aan het rapport, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2004-11-01&g=2004-11-01),
+- g. de te stellen eisen aan het rapport, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=3&z=2009-07-01&g=2009-07-01),
 
-- h. de in acht te nemen procedures en richtsnoeren bij een inspectie, een nadere inspectie en een controle als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2004-11-01&g=2004-11-01).
+- h. de in acht te nemen procedures en richtsnoeren bij een inspectie, een nadere inspectie en een controle als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2009-07-01&g=2009-07-01).
 
 3. In de regeling kan worden bepaald dat deze geheel of gedeeltelijk niet van toepassing is op vissersvaartuigen.
 
@@ -162,7 +162,7 @@ Voorzover [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=
 
 ##### Artikel 6
 
-Een ambtenaar van de divisie Scheepvaart zet een activiteit stop indien bij een inspectie, een nadere inspectie of een controle als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2004-11-01&g=2004-11-01), tekortkomingen zijn geconstateerd die afzonderlijk of gezamenlijk maken dat voortzetting van deze activiteit duidelijk gevaarlijk is voor de veiligheid of de gezondheid dan wel schadelijk is voor het mariene milieu.
+Een ambtenaar van de divisie Scheepvaart zet een activiteit stop indien bij een inspectie, een nadere inspectie of een controle als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2009-07-01&g=2009-07-01), tekortkomingen zijn geconstateerd die afzonderlijk of gezamenlijk maken dat voortzetting van deze activiteit duidelijk gevaarlijk is voor de veiligheid of de gezondheid dan wel schadelijk is voor het mariene milieu.
 
 ##### Artikel 7
 
@@ -186,7 +186,7 @@ Een ambtenaar van de divisie Scheepvaart zet een activiteit stop indien bij een 
 
 ##### Artikel 7a
 
-[Afdeling 5.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3) is niet van toepassing op de in de artikelen 6 en 7 bedoelde bevoegdheid.
+[Afdeling 5.3.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1) is niet van toepassing op de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=6&z=2009-07-01&g=2009-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=7&z=2009-07-01&g=2009-07-01) bedoelde bevoegdheid.
 
 ##### Artikel 8
 
@@ -244,7 +244,7 @@ Een ambtenaar van de divisie Scheepvaart zet een activiteit stop indien bij een 
 
 ##### Artikel 12
 
-1. De kapitein en de exploitant van een schip zijn verplicht te voldoen aan de voorwaarden, bedoeld in [artikel 9, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=9&z=2004-11-01&g=2004-11-01).
+1. De kapitein en de exploitant van een schip zijn verplicht te voldoen aan de voorwaarden, bedoeld in [artikel 9, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=III&artikel=9&z=2009-07-01&g=2009-07-01).
 
 2. Zolang een schip de toegang tot een haven wordt geweigerd, is het de kapitein verboden het schip die haven te doen binnenvaren.
 
@@ -262,9 +262,9 @@ Een ambtenaar van de divisie Scheepvaart zet een activiteit stop indien bij een 
 
 ##### Artikel 14
 
-1. Indien een schip, met uitzondering van een vissersvaartuig, is aangehouden, betaalt de exploitant van dat schip aan de inspecteur-generaal een vergoeding voor de kosten van de inspectie, de nadere inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2004-11-01&g=2004-11-01), die tot de aanhouding heeft geleid, en van de inspectie, de nadere inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2004-11-01&g=2004-11-01), die tot de opheffing daarvan heeft geleid.
+1. Indien een schip, met uitzondering van een vissersvaartuig, is aangehouden, betaalt de exploitant van dat schip aan de inspecteur-generaal een vergoeding voor de kosten van de inspectie, de nadere inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2009-07-01&g=2009-07-01), die tot de aanhouding heeft geleid, en van de inspectie, de nadere inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2009-07-01&g=2009-07-01), die tot de opheffing daarvan heeft geleid.
 
-2. Indien een schip dat de toegang tot de haven is geweigerd, aan een inspectie wordt onderworpen alvorens het schip op grond van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2004-11-01&g=2004-11-01), kan worden toegelaten, betaalt de exploitant van dat schip aan de inspecteur-generaal een vergoeding voor de kosten van deze inspectie.
+2. Indien een schip dat de toegang tot de haven is geweigerd, aan een inspectie wordt onderworpen alvorens het schip op grond van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&artikel=11&z=2009-07-01&g=2009-07-01), kan worden toegelaten, betaalt de exploitant van dat schip aan de inspecteur-generaal een vergoeding voor de kosten van deze inspectie.
 
 3. Bij ministeriële regeling worden de tarieven vastgesteld voor de vergoedingen, bedoeld in het eerste en het tweede lid.
 
@@ -278,17 +278,17 @@ Een ambtenaar van de divisie Scheepvaart zet een activiteit stop indien bij een 
 
 ##### Artikel 16
 
-Met het toezicht op de naleving van de [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&z=2004-11-01&g=2004-11-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&z=2004-11-01&g=2004-11-01) zijn belast de ambtenaren van de divisie Scheepvaart.
+Met het toezicht op de naleving van de [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=IV&z=2009-07-01&g=2009-07-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=V&z=2009-07-01&g=2009-07-01) zijn belast de ambtenaren van de divisie Scheepvaart.
 
 ##### Artikel 17
 
-1. De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) tot en met [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), zijn van overeenkomstige toepassing op een ambtenaar van de divisie Scheepvaart bij de uitoefening van taken, verband houdende met de inspectie, de nadere inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2004-11-01&g=2004-11-01), en op een ter beschikking gestelde ambtenaar als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=15&z=2004-11-01&g=2004-11-01).
+1. De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) tot en met [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), zijn van overeenkomstige toepassing op een ambtenaar van de divisie Scheepvaart bij de uitoefening van taken, verband houdende met de inspectie, de nadere inspectie of de controle, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&artikel=4&z=2009-07-01&g=2009-07-01), en op een ter beschikking gestelde ambtenaar als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=15&z=2009-07-01&g=2009-07-01).
 
 2. Een ambtenaar van de divisie Scheepvaart draagt, voorzover nodig in afwijking van [artikel 5:12, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), een legitimatiebewijs bij zich, overeenkomstig het model, bedoeld in artikel 12, vierde lid, van de richtlijn.
 
 ##### Artikel 18
 
-Een ambtenaar van de divisie Scheepvaart en een ter beschikking gestelde ambtenaar als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=15&z=2004-11-01&g=2004-11-01), zijn bevoegd, met medeneming van de benodigde apparatuur, woongedeelten van schepen binnen te treden zonder toestemming van de bewoner.
+Een ambtenaar van de divisie Scheepvaart en een ter beschikking gestelde ambtenaar als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=VI&artikel=15&z=2009-07-01&g=2009-07-01), zijn bevoegd, met medeneming van de benodigde apparatuur, woongedeelten van schepen binnen te treden zonder toestemming van de bewoner.
 
 ##### Artikel 19
 
@@ -342,7 +342,7 @@ Onze Minister draagt er zorg voor dat ten minste elke maand de gegevens, bedoeld
 
 ##### Artikel 29
 
-Bij ministeriële regeling worden ter uitvoering van de [hoofdstukken II tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&z=2004-11-01&g=2004-11-01) en met inachtneming van de artikelen 9, 9bis, 11 en 13 van de richtlijn regels gesteld inzake de instanties andere dan genoemd in de [hoofdstukken II tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&z=2004-11-01&g=2004-11-01):
+Bij ministeriële regeling worden ter uitvoering van de [hoofdstukken II tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&z=2009-07-01&g=2009-07-01) en met inachtneming van de artikelen 9, 9bis, 11 en 13 van de richtlijn regels gesteld inzake de instanties andere dan genoemd in de [hoofdstukken II tot en met V](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&hoofdstuk=II&z=2009-07-01&g=2009-07-01):
 
 - a. met wie en op welke wijze een ambtenaar van de divisie Scheepvaart overleg moet voeren, dan wel door wie en op welke wijze met hem overleg moet worden gevoerd; of
 
