@@ -4,7 +4,7 @@ identifier: "BWBR0007120"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-06-26"
-last_updated: "2008-07-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007120"
 soort: "AMvB"
@@ -52,13 +52,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Justitie;
 
-- b. reclasseringsinstelling: een erkende instelling als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2008-07-01&g=2008-07-01);
+- b. reclasseringsinstelling: een erkende instelling als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2009-07-01&g=2009-07-01);
 
 - c. penitentiaire inrichting: een gevangenis, huis van bewaring of inrichting voor de opvang van verslaafden;
 
 - d. taakstraf: de taakstraf, bedoeld in [artikel 9, eerste lid, onderdeel a, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9);
 
-- e. klachtencommissie: de commissie, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=5&artikel=29&z=2008-07-01&g=2008-07-01).
+- e. klachtencommissie: de commissie, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=5&artikel=29&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 2
 
@@ -92,7 +92,7 @@ Vervallen
 
 ##### Artikel 5
 
-1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2008-07-01&g=2008-07-01) kunnen onder verantwoordelijkheid van een reclasseringsinstelling bepaalde, door het bestuur van de reclasseringsinstelling vast te stellen, reclasseringswerkzaamheden worden verricht door:
+1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2009-07-01&g=2009-07-01) kunnen onder verantwoordelijkheid van een reclasseringsinstelling bepaalde, door het bestuur van de reclasseringsinstelling vast te stellen, reclasseringswerkzaamheden worden verricht door:
 
 - a. instellingen van maatschappelijke dienstverlening en
 
@@ -230,8 +230,6 @@ Vervallen
 
 2. In het besluit wordt in ieder geval aangegeven welke categorieën van activiteiten in welke omvang en volgens welke berekeningswijze ten hoogste voor subsidiëring in aanmerking zullen komen.
 
-3. In het besluit kan tevens worden bepaald op welke wijze voorschotten worden verleend.
-
 ##### Artikel 21
 
 1. De reclasseringsinstelling voert een zodanig ingerichte administratie, dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan.
@@ -250,7 +248,7 @@ De reclasseringsinstelling kan Onze Minister verzoeken de subsidieverlening te w
 
 ##### Artikel 24
 
-1. Zolang de subsidie niet overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.3&artikel=27&z=2008-07-01&g=2008-07-01) is vastgesteld, kan Onze Minister de subsidieverlening intrekken of ten nadele van de reclasseringsinstelling wijzigen indien:
+1. Zolang de subsidie niet overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.3&artikel=27&z=2009-07-01&g=2009-07-01) is vastgesteld, kan Onze Minister de subsidieverlening intrekken of ten nadele van de reclasseringsinstelling wijzigen indien:
 
 - a. de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden of zullen plaatsvinden;
 
@@ -266,7 +264,7 @@ De reclasseringsinstelling kan Onze Minister verzoeken de subsidieverlening te w
 
 ##### Artikel 25
 
-Zolang de subsidie niet overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.3&artikel=27&z=2008-07-01&g=2008-07-01) is vastgesteld, kan Onze Minister de subsidieverlening met inachtneming van een redelijke termijn intrekken of ten nadele van de reclasseringsinstelling wijzigen:
+Zolang de subsidie niet overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.3&artikel=27&z=2009-07-01&g=2009-07-01) is vastgesteld, kan Onze Minister de subsidieverlening met inachtneming van een redelijke termijn intrekken of ten nadele van de reclasseringsinstelling wijzigen:
 
 - a. voor zover de subsidieverlening onjuist is; of
 
@@ -288,9 +286,7 @@ Zolang de subsidie niet overeenkomstig [artikel 27](https://wetten.overheid.nl/j
 
 ##### Artikel 27
 
-1. Voor 1 september van het op het subsidiejaar volgende jaar stelt Onze Minister het definitieve subsidiebedrag vast.
-
-2. Het subsidiebedrag wordt overeenkomstig de subsidievaststelling betaald, onder verrekening van de betaalde voorschotten.
+Voor 1 september van het op het subsidiejaar volgende jaar stelt Onze Minister het definitieve subsidiebedrag vast.
 
 ##### Artikel 28
 
@@ -376,13 +372,13 @@ Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de besch
 
 ##### Artikel 38
 
-1. Indien een instelling erkend is op grond van artikel 4, eerste lid, van dit besluit, zoals dit luidde voordat het ingevolge het besluit van 4 december 2003 tot wijziging van de Reclasseringsregeling 1995 in verband met de reorganisatie van de reclassering (Stb. 511) werd gewijzigd, geldt deze erkenning als erkenning op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2008-07-01&g=2008-07-01).
+1. Indien een instelling erkend is op grond van artikel 4, eerste lid, van dit besluit, zoals dit luidde voordat het ingevolge het besluit van 4 december 2003 tot wijziging van de Reclasseringsregeling 1995 in verband met de reorganisatie van de reclassering (Stb. 511) werd gewijzigd, geldt deze erkenning als erkenning op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=2&artikel=4&z=2009-07-01&g=2009-07-01).
 
-2. In afwijking van de [artikelen 26 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.3&artikel=26&z=2008-07-01&g=2008-07-01) geschiedt de vaststelling van de subsidie voor het subsidiejaar 2003 op de voet van dit besluit, zoals dit luidde voordat het ingevolge het besluit van 4 december 2003 tot wijziging van de Reclasseringsregeling 1995 in verband met de reorganisatie van de reclassering (Stb. 511) werd gewijzigd.
+2. In afwijking van de [artikelen 26 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.3&artikel=26&z=2009-07-01&g=2009-07-01) geschiedt de vaststelling van de subsidie voor het subsidiejaar 2003 op de voet van dit besluit, zoals dit luidde voordat het ingevolge het besluit van 4 december 2003 tot wijziging van de Reclasseringsregeling 1995 in verband met de reorganisatie van de reclassering (Stb. 511) werd gewijzigd.
 
-3. In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.2&artikel=19&z=2008-07-01&g=2008-07-01), en [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.2&artikel=20&z=2008-07-01&g=2008-07-01), dient de reclasseringsinstelling de subsidieaanvraag voor het subsidiejaar 2004 uiterlijk op 1 januari 2004 in en neemt Onze Minister voor 1 februari 2004 het besluit waarbij de subsidie voor het subsidiejaar 2004 wordt verleend.
+3. In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.2&artikel=19&z=2009-07-01&g=2009-07-01), en [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=4&paragraaf=4.2&artikel=20&z=2009-07-01&g=2009-07-01), dient de reclasseringsinstelling de subsidieaanvraag voor het subsidiejaar 2004 uiterlijk op 1 januari 2004 in en neemt Onze Minister voor 1 februari 2004 het besluit waarbij de subsidie voor het subsidiejaar 2004 wordt verleend.
 
-4. De benoeming tot lid van de klachtencommissie, bedoeld in artikel 29, tweede lid, van dit besluit, zoals dit luidde voordat het ingevolge het besluit van 4 december 2003 tot wijziging van de Reclasseringsregeling 1995 in verband met de reorganisatie van de reclassering (Stb. 511) werd gewijzigd, geldt als benoeming door Onze Minister als bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=5&artikel=29&z=2008-07-01&g=2008-07-01).
+4. De benoeming tot lid van de klachtencommissie, bedoeld in artikel 29, tweede lid, van dit besluit, zoals dit luidde voordat het ingevolge het besluit van 4 december 2003 tot wijziging van de Reclasseringsregeling 1995 in verband met de reorganisatie van de reclassering (Stb. 511) werd gewijzigd, geldt als benoeming door Onze Minister als bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&hoofdstuk=5&artikel=29&z=2009-07-01&g=2009-07-01).
 
 5. Bij ministeriële regeling kunnen nadere overgangsregels worden gesteld.
 
