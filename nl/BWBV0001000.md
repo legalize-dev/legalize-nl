@@ -4,7 +4,7 @@ identifier: "BWBV0001000"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-08-01"
-last_updated: "1998-11-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001000"
 soort: "verdrag"
@@ -231,39 +231,47 @@ Het Hof bestaat uit een aantal rechters dat gelijk is aan het aantal Hoge Verdra
 
 7. De rechters blijven in functie tot hun vervanging. Zij handelen evenwel de zaken af die zij reeds in behandeling hebben.
 
-##### Artikel 24. Ontheffing uit het ambt
+##### Artikel 24. – Griffie en rapporteurs
 
-Een rechter kan slechts van zijn functie worden ontheven indien de overige rechters bij een meerderheid van tweederde besluiten dat hij niet meer aan de vereiste voorwaarden voldoet.
+1. Het Hof beschikt over een griffie, waarvan de taken en de organisatie worden vastgesteld in het reglement van het Hof.
+
+2. Indien het Hof zitting houdt als alleenzittende rechter, wordt het bijgestaan door rapporteurs die fungeren onder de bevoegdheid van de President van het Hof. Zij maken deel uit van de griffie van het Hof.
 
 ##### Artikel 25. Griffie en referendarissen
 
 Het Hof beschikt over een griffie, waarvan de taken en de organisatie worden vastgesteld in het reglement van het Hof. Het Hof wordt bijgestaan door referendarissen.
 
-##### Artikel 26. Hof in voltallige vergadering bijeen
+##### Artikel 26. – Alleenzittende rechters, comités, Kamers en Grote Kamer
 
-Het Hof in voltallige vergadering bijeen:
+1. Ter behandeling van bij het Hof aanhangig gemaakte zaken, houdt het Hof zitting als alleenzittende rechter, in comités van drie rechters, in Kamers van zeven rechters en in een Grote Kamer van zeventien rechters. De Kamers van het Hof stellen comités in voor bepaalde tijd.
 
-- a. kiest zijn President en één of twee Vice-Presidenten voor een periode van drie jaar; zij zijn herkiesbaar;
+2. Op verzoek van het Hof in voltallige vergadering bijeen, kan het Comité van Ministers, bij eenparig besluit, en voor een bepaalde termijn, het aantal rechters van de Kamers beperken tot vijf.
 
-- b. stelt Kamers in, voor bepaalde tijd;
+3. Alleenzittende rechters behandelen geen verzoekschriften ingediend tegen de Hoge Verdragsluitende Partij voor welke die rechters zijn gekozen.
 
-- c. kiest de Voorzitters van de Kamers van het Hof; zij zijn herkiesbaar;
+4. De rechter die is gekozen voor de betrokken Hoge Verdragsluitende Partij maakt van rechtswege deel uit van de Kamer en de Grote Kamer. In geval van ontstentenis of belet van die rechter, wijst de President van het Hof een persoon van een vooraf door die Partij overgelegde lijst aan om daarin als rechter zitting te hebben.
 
-- d. neemt het reglement van het Hof aan; en
+5. De Grote Kamer bestaat mede uit de President van het Hof, de Vice-Presidenten, de Voorzitters van de Kamers en andere rechters, aangewezen overeenkomstig het reglement van het Hof. Wanneer een zaak op grond van artikel 43 naar de Grote Kamer wordt verwezen, mag een rechter van de Kamer die uitspraak heeft gedaan, geen zitting nemen in de Grote Kamer, met uitzondering van de voorzitter van de Kamer en de rechter die daarin zitting had voor de betrokken Hoge Verdragsluitende Partij.
 
-- e. kiest de Griffier en één of twee Plaatsvervangend Griffiers.
+##### Artikel 27. – Bevoegdheden van de alleenzittende rechters
 
-##### Artikel 27. Comités, Kamers en Grote Kamer
+1. De alleenzittende rechter kan een op grond van artikel 34 ingediend verzoekschrift niet-ontvankelijk verklaren of van de rol van het Hof schrappen, indien deze beslissing zonder nader onderzoek kan worden genomen.
 
-1. Ter behandeling van bij het Hof aanhangig gemaakte zaken, houdt het Hof zitting in comités van drie rechters, in Kamers van zeven rechters en in een Grote Kamer van zeventien rechters. De Kamers van het Hof stellen comités in voor bepaalde tijd.
+2. De beslissing geldt als einduitspraak.
 
-2. De rechter die is gekozen voor de betrokken Staat maakt van rechtswege deel uit van de Kamer en van de Grote Kamer; in geval van zijn ontstentenis of belet wijst die Staat een persoon aan om daarin als rechter zitting te hebben.
+3. Indien de alleenzittende rechter een verzoekschrift niet niet-ontvankelijk verklaart of niet van de rol schrapt, verwijst deze het door naar een comité of Kamer voor verdere behandeling.
 
-3. De Grote Kamer bestaat mede uit de President van het Hof, de Vice-Presidenten, de Voorzitters van de Kamers en andere rechters, aangewezen overeenkomstig het reglement van het Hof. Wanneer een zaak op grond van artikel 43 naar de Grote Kamer wordt verwezen, mag een rechter van de Kamer die uitspraak heeft gedaan, geen zitting nemen in de Grote Kamer, met uitzondering van de voorzitter van de Kamer en de rechter die daarin zitting had voor de betrokken Staat.
+##### Artikel 28. – Bevoegdheden van comités
 
-##### Artikel 28. Verklaringen van niet-ontvankelijkheid van comités
+1. Ter zake van een op grond van artikel 34 ingediend verzoekschrift kan het comité, met eenparigheid van stemmen,
 
-Een comité kan, met eenparigheid van stemmen, een individueel verzoekschrift, ingediend op grond van artikel 34, niet-ontvankelijk verklaren of van de rol schrappen, wanneer deze beslissing zonder nader onderzoek kan worden genomen. De beslissing geldt als einduitspraak.
+- a. het niet-ontvankelijk verklaren of van de rol schrappen, wanneer deze beslissing zonder nader onderzoek kan worden genomen; of
+
+- b. het ontvankelijk verklaren en tegelijkertijd uitspraak doen over de gegrondheid, indien de onderliggende vraag van de zaak, betreffende de interpretatie of de toepassing van het Verdrag of de Protocollen daarbij, reeds behoort tot de vaste rechtspraak van het Hof.
+
+2. Beslissingen en uitspraken op grond van het eerste lid gelden als einduitspraken.
+
+3. Indien de rechter die voor de betrokken Hoge Verdragsluitende Partij is gekozen geen lid is van het comité, kan het comité die rechter in elk stadium van de procedure uitnodigen de plaats in te nemen van een van de leden van het comité, met inachtneming van alle relevante factoren, waaronder de vraag of die Partij bezwaar heeft gemaakt tegen de toepassing van de procedure vervat in het eerste lid, onderdeel b.
 
 ##### Artikel 29. Beslissingen van Kamers inzake ontvankelijkheid en gegrondheid
 
