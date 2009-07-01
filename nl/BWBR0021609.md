@@ -4,7 +4,7 @@ identifier: "BWBR0021609"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2008-07-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021609"
 soort: "AMvB"
@@ -72,7 +72,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021609&artikel=2&z=2008-07-01&g=2008-07-01), van het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken (aangewezen categorieën van beperkingenbesluiten)
+## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021609&artikel=2&z=2009-07-01&g=2009-07-01), van het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken (aangewezen categorieën van beperkingenbesluiten)
 
 ### Hoofdstuk I. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van binnenlandse zaken en koninkrijksrelaties
 
@@ -126,7 +126,7 @@ Dit besluit wordt aangehaald als: Aanwijzingsbesluit Wet kenbaarheid publiekrech
 
 ### [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941)
 
-– ([artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b)) besluit van de burgemeester tot toepassing van bestuursdwang, indien dat besluit strekt tot sluiting van het betreffende object.
+– ([artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b)) besluit van de burgemeester tot oplegging van een last onder bestuursdwang, indien dat besluit strekt tot sluiting van het betreffende object.
 
 ### Hoofdstuk VII. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van volkshuisvesting, ruimtelijke ordening en milieubeheer
 
