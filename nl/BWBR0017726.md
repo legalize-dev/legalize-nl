@@ -4,7 +4,7 @@ identifier: "BWBR0017726"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-06"
-last_updated: "2005-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017726"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ entry_into_force: "2015-12-10"
 
 Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nederlandse Antillen en de Minister van Toerisme en Transport van Aruba;
 
-Gelet op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=12), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=32), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=46), [48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=48), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=51), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=54), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=58) en [65 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=65), de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=5), [26e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26e), en [26f van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26f) en de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=1&artikel=1&z=2005-01-01&g=2005-01-01) van deze regeling genoemde Codes;
+Gelet op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=12), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=32), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=46), [48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=48), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=51), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=54), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=58) en [65 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=65), de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=5), [26e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26e), en [26f van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26f) en de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=1&artikel=1&z=2009-07-01&g=2009-07-01) van deze regeling genoemde Codes;
 
 Besluit:
 
@@ -86,13 +86,17 @@ Deze regeling is van toepassing op schepen die op grond van Nederlands-Antilliaa
 
 - b. voor booreenheden, gebouwd op of na 1 mei 1991: het veiligheidscertificaat voor verplaatsbare offshore booreenheden, behorend bij de MODU-Code 1989.
 
+2. Voor schepen als bedoeld in [artikel 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6) treden de in het eerste lid bedoelde certificaten in de plaats van het voor die schepen benodigde nationaal veiligheidscertificaat.
+
 ##### Artikel 5. Certificaten op grond van DSC-Code en SPS-Code (IMO)
 
-1. Voor een schip ten aanzien waarvan op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=8&z=2005-01-01&g=2005-01-01) is gekozen voor toepassing van de DSC-Code of de SPS-Code, is het bij de desbetreffende Code behorende certificaat benodigd. Indien is gekozen voor toepassing van de DSC-Code, is voor het schip tevens de bij die Code behorende exploitatievergunning benodigd.
+1. Voor een schip ten aanzien waarvan op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=8&z=2009-07-01&g=2009-07-01) is gekozen voor toepassing van de DSC-Code of de SPS-Code, is het bij de desbetreffende Code behorende certificaat benodigd. Indien is gekozen voor toepassing van de DSC-Code, is voor het schip tevens de bij die Code behorende exploitatievergunning benodigd.
+
+2. Voor schepen als bedoeld in [artikel 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6) treden de in het eerste lid bedoelde certificaten in de plaats van het voor die schepen benodigde nationaal veiligheidscertificaat.
 
 ##### Artikel 6. Bij certificaten behorende uitrustingsrapporten, aanhangsels e.d.
 
-De in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2005-01-01&g=2005-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) bedoelde certificaten gaan vergezeld van de bij die certificaten behorende uitrustingsrapporten en aanhangsels, alsmede van de in de desbetreffende Codes voorgeschreven stabiliteitsgegevens of andere gegevens met betrekking tot schip of lading.
+De in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01) bedoelde certificaten gaan vergezeld van de bij die certificaten behorende uitrustingsrapporten en aanhangsels, alsmede van de in de desbetreffende Codes voorgeschreven stabiliteitsgegevens of andere gegevens met betrekking tot schip of lading.
 
 #### § 2. Onderzoeken
 
@@ -112,23 +116,23 @@ Verplaatsbare offshore booreenheden als bedoeld in de MODU-Code 1979 of 1989 wor
 
 ##### Artikel 9. Tijdstippen van onderzoek
 
-De in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=7&z=2005-01-01&g=2005-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=8&z=2005-01-01&g=2005-01-01) bedoelde onderzoeken vinden plaats op de in de desbetreffende Codes voorgeschreven tijdstippen, met dien verstande dat het hernieuwde onderzoek waaraan een schip in verband met de vernieuwing van een certificaat wordt onderworpen, steeds plaatsvindt in de laatste drie maanden van de geldigheidsduur van het desbetreffende certificaat.
+De in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=7&z=2009-07-01&g=2009-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=8&z=2009-07-01&g=2009-07-01) bedoelde onderzoeken vinden plaats op de in de desbetreffende Codes voorgeschreven tijdstippen, met dien verstande dat het hernieuwde onderzoek waaraan een schip in verband met de vernieuwing van een certificaat wordt onderworpen, steeds plaatsvindt in de laatste drie maanden van de geldigheidsduur van het desbetreffende certificaat.
 
 ##### Artikel 10. Uitvoering onderzoeken door erkende organisaties
 
 1. De onderzoeken, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=18) en [19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19), worden uitgevoerd door een daartoe krachtens [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=23) aangewezen organisatie naar keuze van de eigenaar.
 
-2. De onderzoeken waaraan een schip ingevolge de [artikelen 13 tot en met 17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=13) of de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=7&z=2005-01-01&g=2005-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=8&z=2005-01-01&g=2005-01-01) van deze regeling wordt onderworpen, worden uitgevoerd door ambtenaren van de Scheepvaartinspectie of door een krachtens [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=23) aangewezen organisatie waar het schip is geklasseerd.
+2. De onderzoeken waaraan een schip ingevolge de [artikelen 13 tot en met 17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=13) of de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=7&z=2009-07-01&g=2009-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=8&z=2009-07-01&g=2009-07-01) van deze regeling wordt onderworpen, worden uitgevoerd door ambtenaren van de Scheepvaartinspectie of door een krachtens [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=23) aangewezen organisatie waar het schip is geklasseerd.
 
 ##### Artikel 11. Aantekening van onderzoeken
 
-Van de onderzoeken waaraan een schip ingevolge de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=7&z=2005-01-01&g=2005-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=8&z=2005-01-01&g=2005-01-01) tijdens de geldigheidsduur van een certificaat wordt onderworpen, wordt door degene die het onderzoek heeft verricht, aantekening geplaatst op het certificaat.
+Van de onderzoeken waaraan een schip ingevolge de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=7&z=2009-07-01&g=2009-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=8&z=2009-07-01&g=2009-07-01) tijdens de geldigheidsduur van een certificaat wordt onderworpen, wordt door degene die het onderzoek heeft verricht, aantekening geplaatst op het certificaat.
 
 #### § 3. Afgifte en geldigheid van certificaten
 
 ##### Artikel 12. Certificaten op grond van MODU-Code, DSC-Code of SPS-Code (IMO)
 
-1. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) bedoelde certificaten hebben, indien zij zijn afgegeven voor een passagiersschip, een geldigheidsduur van een jaar. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2005-01-01&g=2005-01-01) bedoelde certificaten hebben, evenals de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) bedoelde certificaten die zijn afgegeven voor vrachtschepen, een geldigheidsduur van vijf jaren.
+1. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01) bedoelde certificaten hebben, indien zij zijn afgegeven voor een passagiersschip, een geldigheidsduur van een jaar. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01) bedoelde certificaten hebben, evenals de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01) bedoelde certificaten die zijn afgegeven voor vrachtschepen, een geldigheidsduur van vijf jaren.
 
 2. De [artikelen 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=30) en [31 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=31) zijn van overeenkomstige toepassing op certificaten als bedoeld in het eerste lid.
 
@@ -186,13 +190,13 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 7](https://wetten.o
 
 ##### Artikel 19. Nadere regels in relatie tot benodigde certificaten
 
-1. Een schip waarvoor een internationaal veiligheidscertificaat, een nationaal veiligheidscertificaat of een certificaat als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2005-01-01&g=2005-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) benodigd is, voldoet ter verkrijging van dat certificaat tevens aan de ingevolge de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=3&paragraaf=1&artikel=14&z=2005-01-01&g=2005-01-01) toepasselijke eisen.
+1. Een schip waarvoor een internationaal veiligheidscertificaat, een nationaal veiligheidscertificaat of een certificaat als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01) benodigd is, voldoet ter verkrijging van dat certificaat tevens aan de ingevolge de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=3&paragraaf=1&artikel=14&z=2009-07-01&g=2009-07-01) toepasselijke eisen.
 
-2. Een schip waarvoor een certificaat als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2005-01-01&g=2005-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01) benodigd is, voldoet ter verkrijging van dat certificaat bovendien aan de ingevolge [artikel 40, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=40) toepasselijke eisen van hoofdstuk V van het SOLAS-verdrag.
+2. Een schip waarvoor een certificaat als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01) benodigd is, voldoet ter verkrijging van dat certificaat bovendien aan de ingevolge [artikel 40, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=40) toepasselijke eisen van hoofdstuk V van het SOLAS-verdrag.
 
 ##### Artikel 20. Gelijkwaardige voorzieningen
 
-Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke resoluties van de IMO is bepaald, afwijking toestaan van de in de [artikelen 13 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=3&paragraaf=1&artikel=13&z=2005-01-01&g=2005-01-01) bedoelde eisen, indien aan boord van het schip een voorziening wordt getroffen die naar zijn oordeel ten minste gelijkwaardig is aan de in het voorschrift waarvan wordt afgeweken, geëiste voorziening.
+Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke resoluties van de IMO is bepaald, afwijking toestaan van de in de [artikelen 13 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=3&paragraaf=1&artikel=13&z=2009-07-01&g=2009-07-01) bedoelde eisen, indien aan boord van het schip een voorziening wordt getroffen die naar zijn oordeel ten minste gelijkwaardig is aan de in het voorschrift waarvan wordt afgeweken, geëiste voorziening.
 
 #### § 2. Eisen aan de bedrijfsvoering over schepen
 
@@ -234,7 +238,7 @@ Schepen waarvoor een internationaal veiligheidscertificaat als bedoeld in [artik
 
 1. Zeilschepen van minder dan 500 GT, gebruikt voor het vervoer van ten hoogste 36 passagiers, zijn vrijgesteld van de voorschriften V/20, V/22.1.1 tot en met V/22.1.5 en V/30 van het SOLAS-verdrag.
 
-2. Schepen die niet zijn voorzien van middelen tot werktuiglijke voortstuwing, zijn overeenkomstig voorschrift V/3.1 van het SOLAS-verdrag vrijgesteld van de eisen van hoofdstuk V van dat verdrag, met uitzondering van voorschrift V/19.2.1.7. Tevens zijn zij vrijgesteld van de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=3&paragraaf=1&artikel=17&z=2005-01-01&g=2005-01-01) bedoelde eisen.
+2. Schepen die niet zijn voorzien van middelen tot werktuiglijke voortstuwing, zijn overeenkomstig voorschrift V/3.1 van het SOLAS-verdrag vrijgesteld van de eisen van hoofdstuk V van dat verdrag, met uitzondering van voorschrift V/19.2.1.7. Tevens zijn zij vrijgesteld van de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=3&paragraaf=1&artikel=17&z=2009-07-01&g=2009-07-01) bedoelde eisen.
 
 ### Hoofdstuk 4. Vervoer van lading
 
@@ -316,7 +320,7 @@ Schepen waarmee geregeld korte reizen als bedoeld in voorschrift III/3.22 van he
 
 1. Schepen die niet zijn voorzien van middelen tot werktuiglijke voortstuwing, zijn vrijgesteld van de voorschriften V/26 tot en met V/28 van het SOLAS-verdrag.
 
-2. De [artikelen 64 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=64) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=5&paragraaf=1&artikel=34&z=2005-01-01&g=2005-01-01) van deze regeling zijn niet van toepassing op schepen als bedoeld in het eerste lid.
+2. De [artikelen 64 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=64) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=5&paragraaf=1&artikel=34&z=2009-07-01&g=2009-07-01) van deze regeling zijn niet van toepassing op schepen als bedoeld in het eerste lid.
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -332,7 +336,7 @@ Van de wijze van bekendmaking van de op grond van deze regeling toepasselijke Co
 
 ##### Artikel 39. Inwerkingtreding
 
-Deze regeling treedt in werking op 1 januari 2005, met uitzondering van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2005-01-01&g=2005-01-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2005-01-01&g=2005-01-01), die in werking treden op het tijdstip waarop [artikel 6 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6) in werking treedt.
+Deze regeling treedt in werking op 1 januari 2005, met uitzondering van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01), die in werking treden op het tijdstip waarop [artikel 6 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6) in werking treedt.
 
 ##### Artikel 40. Citeertitel
 
