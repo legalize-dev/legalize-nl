@@ -81,25 +81,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I van de Wet ele
 Deze regeling wordt aangehaald als: Bekendmakingsregeling.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-De minister van Binnenlandse Zaken en Koninkrijksrelaties brengt aan de Koninklijke Beroepsorganisatie voor Gerechtsdeurwaarders kosten in rekening voor het publiceren van uittreksels van exploten als bedoeld in [artikel 54, tweede en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=54) in de Staatscourant ter hoogte van € 5 per uittreksel.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025218&artikel=2&z=2019-10-01&g=2019-10-01) kunnen onderdelen van publicaties in de Staatscourant worden uitgegeven en beschikbaar gehouden in het bestandsformaat GML-XML, voor zover het de geometrische begrenzing van gebieden betreft.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Het Staatsblad wordt uitgegeven op https://www.officielebekendmakingen.nl.
-
-##### Artikel 4a
-
-Deze regeling berust mede op de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=17), en [18, tweede lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=18) en [artikel 8 van het Bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025257&artikel=8).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
