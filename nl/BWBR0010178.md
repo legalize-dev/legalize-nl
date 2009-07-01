@@ -4,7 +4,7 @@ identifier: "BWBR0010178"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "1999-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010178"
 soort: "wet"
@@ -112,7 +112,7 @@ Onze Minister kan dan wel Onze Ministers kunnen subsidies verstrekken voor activ
 
 2. Bij de intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is.
 
-3. De [artikelen 4:49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.
+3. De [artikelen 4:49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), en [4:57, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.
 
 4. Onze Minister kan dan wel Onze Ministers kunnen in een beschikking tot subsidieverlening bepalen dat het instellen van bezwaar en beroep tegen een verleende subsidie schorsende werking heeft.
 
