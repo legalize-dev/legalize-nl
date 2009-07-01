@@ -4,7 +4,7 @@ identifier: "BWBR0024926"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-12-21"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024926"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 3](https
 
 Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5) worden persoonsgegevens verwerkt indien en voor zover zij naar het oordeel van de zorgautoriteit voor die uitvoering noodzakelijk zijn en voor zover zij behoren tot de hieronder bij die artikelen vermelde categorieën van persoonsgegevens:
 
-- 1. [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61): persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens ter uitvoering van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2008-12-21&g=2008-12-21) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=3&z=2008-12-21&g=2008-12-21) vermelde artikelen en voor zover de categorie van persoonsgegevens daarbij is vermeld;
+- 1. [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61): persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens ter uitvoering van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2008-12-21&g=2009-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=3&z=2008-12-21&g=2009-07-01) vermelde artikelen en voor zover de categorie van persoonsgegevens daarbij is vermeld;
 
 - 2. [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61): persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens die noodzakelijk zijn voor de interne en externe controle van de naleving van een door de zorgautoriteit vastgestelde regeling door een op grond van [artikel 61 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61) door de zorgautoriteit aangewezen persoon en voor zover de categorie van persoonsgegevens daarbij is vermeld;
 
