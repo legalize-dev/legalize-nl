@@ -4,7 +4,7 @@ identifier: "BWBR0017584"
 country: "nl"
 rank: "amvb"
 publication_date: "2012-12-07"
-last_updated: "2007-09-12"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017584"
 soort: "AMvB"
@@ -177,7 +177,7 @@ De subsidie-ontvanger, die als indiener van de aanvraag is opgetreden, brengt st
 
 ##### Artikel 12
 
-1. Op een subsidie ter zake waarvan een beschikking tot subsidieverlening geldt, kan op aanvraag van de subsidie-ontvanger door Onze Minister jaarlijks een voorschot worden verstrekt.
+1. Een voorschot kan door Onze Minister slechts jaarlijks op aanvraag van de subsidie-ontvanger worden verstrekt op een subsidie terzake waarvan een beschikking tot subsidieverlening geldt.
 
 2. Een voorschot wordt berekend naar rato van de gemaakte en betaalde projectkosten, vermeerderd met de verwachte betalingen die voortvloeien uit de aangegane en aan te gane verplichtingen in het jaar volgend op de datum van indiening van de in het eerste lid bedoelde aanvraag, voor zover deze kosten en betalingen nog niet eerder bij de verstrekking van een voorschot in aanmerking zijn genomen.
 
