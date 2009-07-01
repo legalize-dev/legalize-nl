@@ -4,7 +4,7 @@ identifier: "BWBV0003090"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-07-01"
-last_updated: "2008-04-14"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003090"
 soort: "verdrag"
@@ -82,7 +82,7 @@ Dit Verdrag is uitsluitend van toepassing op voorraden waarop de Richtlijn van t
 
 - b. door een op Cyprus gevestigde onderneming, namens de in Nederland gevestigde onderneming.
 
-3. Voorraden komen uitsluitend in aanmerking voor aanvaarding uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003090&artikel=2&z=2008-04-14&g=2008-04-14) van dit Verdrag indien de onderneming die aanvaarding van deze voorraden uit hoofde van genoemd artikel nastreeft, erin heeft toegestemd deze voorraden aan te houden, hetzij door hemzelf, hetzij door de andere onderneming, vanaf de eerste dag van een kalenderkwartaal gedurende een of meerdere volledige kalenderkwartalen, na aanvaarding door de bevoegde autoriteiten.
+3. Voorraden komen uitsluitend in aanmerking voor aanvaarding uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003090&artikel=2&z=2009-07-01&g=2009-07-01) van dit Verdrag indien de onderneming die aanvaarding van deze voorraden uit hoofde van genoemd artikel nastreeft, erin heeft toegestemd deze voorraden aan te houden, hetzij door hemzelf, hetzij door de andere onderneming, vanaf de eerste dag van een kalenderkwartaal gedurende een of meerdere volledige kalenderkwartalen, na aanvaarding door de bevoegde autoriteiten.
 
 4. Indien een onderneming voorraden aanhoudt namens een andere onderneming in overeenstemming met het eerste lid, onderdeel b, of het tweede lid, onderdeel b, van dit artikel, dan mogen deze voorraden niet door de eerstgenoemde onderneming worden meegeteld bij haar eigen voorraadopgave.
 
@@ -92,7 +92,7 @@ Geen van de Verdragsluitende Partijen verzet zich tegen de verwijdering van haar
 
 ##### Artikel 5
 
-1. Voorraden mogen niet uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003090&artikel=2&z=2008-04-14&g=2008-04-14) van dit Verdrag worden aanvaard als zijnde voorraden waarop dit Verdrag van toepassing is, tenzij:
+1. Voorraden mogen niet uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003090&artikel=2&z=2009-07-01&g=2009-07-01) van dit Verdrag worden aanvaard als zijnde voorraden waarop dit Verdrag van toepassing is, tenzij:
 
 - a. de onderneming die de voorraden wenst aan te houden buiten de Verdragsluitende Partij waar zij gevestigd is („de eerste onderneming”) de bevoegde autoriteit van die Verdragsluitende Partij uiterlijk vijftien werkdagen voor aanvang van de periode waarop de aanvaarding betrekking heeft, voorziet van de volgende gegevens:
 
@@ -108,7 +108,7 @@ Geen van de Verdragsluitende Partijen verzet zich tegen de verwijdering van haar
 
 - b. zowel de eerste als de tweede onderneming ermee instemt dat de bevoegde autoriteit van de Verdragsluitende Partij op het grondgebied waarvan de voorraden zullen worden aangehouden de bevoegde autoriteit van de andere Verdragsluitende Partij in kennis stelt van enige inlichtingen verkregen ten behoeve van de implementatie van dit Verdrag.
 
-2. Wanneer een onderneming buiten het grondgebied van de Verdragsluitende Partij waar zij gevestigd is voorraden wenst aan te houden die geen eigendom zullen zijn van die onderneming (de „begunstigde onderneming”), maar die ter beschikking zullen worden gehouden van die onderneming door een andere onderneming (de „verschaffende onderneming”), mogen, in aanvulling op de bepalingen van het eerste lid van dit artikel, voorraden die op deze wijze zullen worden aangehouden, niet uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003090&artikel=2&z=2008-04-14&g=2008-04-14) van dit Verdrag worden aanvaard als zijnde voorraden waarop dit Verdrag van toepassing is, tenzij de begunstigde onderneming de bevoegde autoriteit gegevens heeft verstrekt waaruit blijkt dat:
+2. Wanneer een onderneming buiten het grondgebied van de Verdragsluitende Partij waar zij gevestigd is voorraden wenst aan te houden die geen eigendom zullen zijn van die onderneming (de „begunstigde onderneming”), maar die ter beschikking zullen worden gehouden van die onderneming door een andere onderneming (de „verschaffende onderneming”), mogen, in aanvulling op de bepalingen van het eerste lid van dit artikel, voorraden die op deze wijze zullen worden aangehouden, niet uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003090&artikel=2&z=2009-07-01&g=2009-07-01) van dit Verdrag worden aanvaard als zijnde voorraden waarop dit Verdrag van toepassing is, tenzij de begunstigde onderneming de bevoegde autoriteit gegevens heeft verstrekt waaruit blijkt dat:
 
 - a. de voorraden zullen worden aangehouden uit hoofde van een schriftelijke overeenkomst tussen de begunstigde onderneming en de verschaffende onderneming („de overeenkomst”) die van kracht blijft gedurende de periode waarop de aanvaarding betrekking heeft;
 
