@@ -4,7 +4,7 @@ identifier: "BWBR0017452"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2009-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017452"
 soort: "wet"
@@ -84,9 +84,9 @@ In deze wet wordt verstaan onder:
 
 - j. eindafnemer: degene aan wie de verkoper boeken of muziekuitgaven verkoopt voor eigen gebruik;
 
-- k. vaste prijs: de door de uitgever of de importeur op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&z=2009-01-01&g=2009-01-01) vastgestelde prijs voor boeken en muziekuitgaven;
+- k. vaste prijs: de door de uitgever of de importeur op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&z=2009-07-01&g=2009-07-01) vastgestelde prijs voor boeken en muziekuitgaven;
 
-- l. Commissariaat: het Commissariaat voor de Media, genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2009-01-01&g=2009-01-01).
+- l. Commissariaat: het Commissariaat voor de Media, genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2009-07-01&g=2009-07-01).
 
 ### Hoofdstuk 2. De vaste prijs voor boeken en muziekuitgaven
 
@@ -100,7 +100,7 @@ De uitgever stelt voor boeken en muziekuitgaven die hij voor het eerst in een be
 
 1. Voor boeken en muziekuitgaven die uit het buitenland worden geïmporteerd, stelt de importeur een vaste prijs vast. De vaste prijs voor boeken en muziekuitgaven die in Nederland zijn uitgegeven en na export weer in Nederland worden geïmporteerd is niet lager dan de door de Nederlandse uitgever vastgestelde prijs.
 
-2. In het geval dat ten hoogste vijf exemplaren van hetzelfde boek of dezelfde muziekuitgave per keer door de importeur worden geïmporteerd, is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-01-01&g=2009-01-01) niet van toepassing, tenzij deze import plaatsvindt met het oogmerk deze wet te ontduiken.
+2. In het geval dat ten hoogste vijf exemplaren van hetzelfde boek of dezelfde muziekuitgave per keer door de importeur worden geïmporteerd, is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01) niet van toepassing, tenzij deze import plaatsvindt met het oogmerk deze wet te ontduiken.
 
 3. Het eerste lid, tweede volzin, is niet van toepassing op de import van boeken en muziekuitgaven uit een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, tenzij de import plaatsvindt met het oogmerk deze wet te ontduiken.
 
@@ -114,7 +114,7 @@ De uitgever stelt voor boeken en muziekuitgaven die hij voor het eerst in een be
 
 1. De uitgever en de importeur kunnen de vaste prijs telkens na verloop van een half jaar aanpassen met ingang van een daarbij te bepalen tijdstip.
 
-2. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing op een aanpassing als bedoeld in het eerste lid.
+2. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing op een aanpassing als bedoeld in het eerste lid.
 
 #### Paragraaf 2. Toepassing van de vaste prijs
 
@@ -136,9 +136,9 @@ De uitgever stelt voor boeken en muziekuitgaven die hij voor het eerst in een be
 
 ##### Artikel 7
 
-1. De uitgever en de importeur kunnen de vaste prijs opheffen met ingang van een daarbij te bepalen tijdstip, doch niet eerder dan met ingang van één jaar na het tijdstip, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-01-01&g=2009-01-01).
+1. De uitgever en de importeur kunnen de vaste prijs opheffen met ingang van een daarbij te bepalen tijdstip, doch niet eerder dan met ingang van één jaar na het tijdstip, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01).
 
-2. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing op de opheffing, bedoeld in het eerste lid.
+2. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing op de opheffing, bedoeld in het eerste lid.
 
 #### Paragraaf 4. De boekenclubprijs
 
@@ -148,27 +148,27 @@ In deze paragraaf wordt verstaan onder:
 
 - a. boekenclub: een verkoper die onder bij of krachtens algemene maatregel van bestuur nader te stellen regels bedrijfsmatig en op landelijke schaal boeken verkoopt en distribueert aan uitsluitend particuliere eindafnemers, zijnde natuurlijke personen die voor de periode van minimaal één kalenderjaar koopverplichtingen zijn aangegaan;
 
-- b. boekenclubprijs: de door de uitgever of de importeur op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=4&artikel=9&z=2009-01-01&g=2009-01-01) vastgestelde prijs.
+- b. boekenclubprijs: de door de uitgever of de importeur op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=4&artikel=9&z=2009-07-01&g=2009-07-01) vastgestelde prijs.
 
 ##### Artikel 9
 
-1. De uitgever en de importeur kunnen op verzoek van een boekenclub een van de vaste prijs afwijkende boekenclubprijs vaststellen voor de verkoop aan eindafnemers die jegens de boekenclub een koopverplichting als bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=4&artikel=8&z=2009-01-01&g=2009-01-01), zijn aangegaan.
+1. De uitgever en de importeur kunnen op verzoek van een boekenclub een van de vaste prijs afwijkende boekenclubprijs vaststellen voor de verkoop aan eindafnemers die jegens de boekenclub een koopverplichting als bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=4&artikel=8&z=2009-07-01&g=2009-07-01), zijn aangegaan.
 
-2. De boekenclubprijs geldt niet eerder dan vier maanden na het tijdstip, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-01-01&g=2009-01-01).
+2. De boekenclubprijs geldt niet eerder dan vier maanden na het tijdstip, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01).
 
 3. De uitgever en de importeur kunnen de boekenclubprijs telkens na een half jaar aanpassen of opheffen met ingang van een daarbij te bepalen tijdstip, doch niet eerder dan met ingang van een jaar na het tijdstip waarop de boekenclubprijs is gaan gelden.
 
-4. De boekenclubprijs vervalt in ieder geval bij de opheffing van de vaste prijs als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=3&artikel=7&z=2009-01-01&g=2009-01-01).
+4. De boekenclubprijs vervalt in ieder geval bij de opheffing van de vaste prijs als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=3&artikel=7&z=2009-07-01&g=2009-07-01).
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het vaststellen van een boekenclubprijs.
 
 ##### Artikel 10
 
-De boekenclub past bij verkoop van een boek aan een eindafnemer die jegens de boekenclub een koopverplichting als bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=4&artikel=8&z=2009-01-01&g=2009-01-01), is aangegaan, de vastgestelde boekenclubprijs toe.
+De boekenclub past bij verkoop van een boek aan een eindafnemer die jegens de boekenclub een koopverplichting als bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=4&artikel=8&z=2009-07-01&g=2009-07-01), is aangegaan, de vastgestelde boekenclubprijs toe.
 
 ##### Artikel 11
 
-[Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing op de vaststelling, aanpassing en opheffing van de boekenclubprijs.
+[Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing op de vaststelling, aanpassing en opheffing van de boekenclubprijs.
 
 #### Paragraaf 5. Infrastructuur
 
@@ -196,7 +196,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 ##### Artikel 14
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het in bij die regels te bepalen bijzondere gevallen al dan niet tijdelijk vaststellen van bijzondere, van de vaste prijs afwijkende prijzen. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-01-01&g=2009-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=2&artikel=6&z=2009-01-01&g=2009-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=3&artikel=7&z=2009-01-01&g=2009-01-01) zijn van overeenkomstige toepassing op bijzondere prijzen.
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het in bij die regels te bepalen bijzondere gevallen al dan niet tijdelijk vaststellen van bijzondere, van de vaste prijs afwijkende prijzen. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=2&artikel=6&z=2009-07-01&g=2009-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=3&artikel=7&z=2009-07-01&g=2009-07-01) zijn van overeenkomstige toepassing op bijzondere prijzen.
 
 ### Hoofdstuk 5. Bestuursrechtelijke handhaving
 
@@ -210,111 +210,59 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 ##### Artikel 16
 
-1. De in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2009-01-01&g=2009-01-01), bedoelde toezichthouders zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen gedurende de tijd gelegen tussen 18.00 en 8.00 uur, voor zover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
+1. De in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2009-07-01&g=2009-07-01), bedoelde toezichthouders zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen gedurende de tijd gelegen tussen 18.00 en 8.00 uur, voor zover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
 
-2. De in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2009-01-01&g=2009-01-01), bedoelde toezichthouders oefenen de hun in het eerste lid en [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) toegekende bevoegdheid zo nodig uit met behulp van de sterke arm.
+2. De in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2009-07-01&g=2009-07-01), bedoelde toezichthouders oefenen de hun in het eerste lid en [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) toegekende bevoegdheid zo nodig uit met behulp van de sterke arm.
 
-3. Iedere uitgever, importeur, en verkoper draagt er zorg voor dat de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2009-01-01&g=2009-01-01), bedoelde toezichthouders desgevraagd inzage verkrijgen in – en kopieën kunnen maken van – de zakelijke gegevens en bescheiden van bedrijven of instellingen, voor zover dat voor de vervulling van de toezichthoudende taak redelijkerwijs nodig is.
+3. Iedere uitgever, importeur, en verkoper draagt er zorg voor dat de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2009-07-01&g=2009-07-01), bedoelde toezichthouders desgevraagd inzage verkrijgen in – en kopieën kunnen maken van – de zakelijke gegevens en bescheiden van bedrijven of instellingen, voor zover dat voor de vervulling van de toezichthoudende taak redelijkerwijs nodig is.
 
 ##### Artikel 17
 
-1. Bij overtreding van het bepaalde bij of krachtens de [hoofdstukken 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&z=2009-01-01&g=2009-01-01) door een uitgever, importeur of verkoper kan het Commissariaat aan de overtreder:
+Bij overtreding van het bepaalde bij of krachtens de [hoofdstukken 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&z=2009-07-01&g=2009-07-01) door een uitgever, importeur of verkoper kan het Commissariaat aan de overtreder:
 
-- a. een boete opleggen;
+- a. een bestuurlijke boete opleggen, of
 
 - b. een last onder dwangsom opleggen.
 
-2. Een boete en een last onder dwangsom kunnen tezamen worden opgelegd.
-
-3. Het Commissariaat legt geen boete op voor zover de overtreding niet aan de overtreder kan worden verweten.
-
 ##### Artikel 18
 
-1. De in [artikel 17, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2009-01-01&g=2009-01-01), bedoelde boete bedraagt ten hoogste € 90 000.
-
-2. Bij de vaststelling van de hoogte van de boete houdt het Commissariaat in elk geval rekening met de ernst van de overtreding, alsmede de mate waarin deze aan de overtreder kan worden verweten. Het Commissariaat houdt daarbij zo nodig rekening met de omstandigheden waaronder de overtreding is gepleegd.
+De in [artikel 17, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2009-07-01&g=2009-07-01), bedoelde bestuurlijke boete bedraagt ten hoogste € 90 000.
 
 ##### Artikel 19
 
-1. Een last onder dwangsom als bedoeld in [artikel 17, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2009-01-01&g=2009-01-01), strekt ertoe de overtreding ongedaan te maken of verdere overtreding dan wel herhaling van de overtreding te voorkomen. Aan een last kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan het Commissariaat.
+1. Aan een last onder dwangsom, bedoeld in [artikel 17, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2009-07-01&g=2009-07-01), kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan het Commissariaat.
 
 2. Een last geldt voor een door het Commissariaat te bepalen termijn van ten hoogste twee jaar.
 
-3. Het Commissariaat kan, al dan niet op verzoek van de overtreder, een last onder dwangsom opheffen, de looptijd ervan opschorten voor een bepaalde termijn of de dwangsom verminderen ingeval van blijvende of tijdelijke gehele of gedeeltelijke onmogelijkheid voor de overtreder om aan zijn verplichtingen te voldoen.
-
-4. De [artikelen 5:32, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), [5:33](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:33), [5:34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:34), en [5:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:35) zijn van toepassing.
-
 ##### Artikel 20
 
-1. Indien een toezichthouder als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2009-01-01&g=2009-01-01), vaststelt dat een overtreding als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2009-01-01&g=2009-01-01), is begaan, maakt hij daarvan een rapport op.
-
-2. Het rapport is gedagtekend en vermeldt:
-
-- a. de naam van de overtreder;
-
-- b. het overtreden wettelijk voorschrift;
-
-- c. zonodig een aanduiding van de plaats waar en het tijdstip waarop de overtreding is geconstateerd.
-
-3. Op verzoek van de overtreder draagt het Commissariaat er zoveel mogelijk zorg voor dat de inhoud van het rapport aan de betrokkene wordt meegedeeld in een voor hem begrijpelijke taal, indien blijkt dat de verdediging van de overtreder dit redelijkerwijs vergt.
+Vervallen
 
 ##### Artikel 21
 
-1. De overtreder wordt schriftelijk uitgenodigd om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen omtrent het voornemen tot het opleggen van een bestuurlijk boete of een last onder dwangsom. Het rapport, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=20&z=2009-01-01&g=2009-01-01), wordt daartoe bij de uitnodiging aan de overtreder toegezonden of uitgereikt.
-
-2. Indien de overtreder zijn zienswijze mondeling naar voren brengt, zorgt het Commissariaat op verzoek van de overtreder voor bijstand door een tolk indien blijkt dat de verdediging van de overtreder dit redelijkerwijs vergt.
+Vervallen
 
 ##### Artikel 22
 
-1. Het Commissariaat kan degene, die jegens de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2009-01-01&g=2009-01-01), bedoelde toezichthouders in strijd handelt met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), een boete opleggen van ten hoogste € 4 500.
+1. Het Commissariaat kan degene, die jegens de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2009-07-01&g=2009-07-01), bedoelde toezichthouders in strijd handelt met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), een bestuurlijke boete opleggen van ten hoogste € 4 500.
 
-2. Het Commissariaat legt geen boete op indien de belanghebbende aannemelijk maakt dat hem van de overtreding geen verwijt kan worden gemaakt.
-
-3. [Artikel 184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184) is niet van toepassing op de in het eerste lid bedoelde overtreding.
-
-4. Ingeval de in het eerste lid, bedoelde overtreding een weigering inhoudt medewerking te verlenen aan de toepassing van [artikel 5:17, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), kan het Commissariaat een last onder dwangsom opleggen om inzage te verlenen in de in die last aangegeven zakelijke gegevens en bescheiden.
-
-5. Een boete als bedoeld in het eerste lid, en een last als bedoeld in het vierde lid, kunnen tezamen worden opgelegd.
-
-6. De [artikelen 5:32, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), [5:33](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:33), [5:34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:34), en [5:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:35) zijn van toepassing op de in het vierde lid bedoelde last.
+2. Ingeval de in het eerste lid, bedoelde overtreding een weigering inhoudt medewerking te verlenen aan de toepassing van [artikel 5:17, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), kan het Commissariaat een last onder dwangsom opleggen om inzage te verlenen in de in die last aangegeven zakelijke gegevens en bescheiden.
 
 ##### Artikel 23
 
-1. Het Commissariaat beslist bij beschikking omtrent het opleggen van een boete of een last onder dwangsom.
-
-2. De beschikking waarbij een boete of een last onder dwangsom wordt opgelegd, vermeldt in ieder geval:
-
-- a. indien een boete wordt opgelegd: de te betalen geldsom, alsmede een toelichting op de hoogte daarvan, met inachtneming van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=18&z=2009-01-01&g=2009-01-01);
-
-- b. indien een last wordt opgelegd: de inhoud van de last en de termijn waarvoor deze geldt;
-
-- c. de overtreding terzake waarvan de boete of de last wordt opgelegd, alsmede het overtreden wettelijk voorschrift;
-
-- d. de feiten en omstandigheden op grond waarvan is vastgesteld dat een overtreding is begaan en zonodig een aanduiding waar en het tijdstip waarop de overtreding is geconstateerd.
-
-3. De beschikking waarbij een boete of last onder dwangsom wordt opgelegd wegens overtreding van het bepaalde bij of krachtens de [hoofdstukken 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&z=2009-01-01&g=2009-01-01) dient te worden gegeven binnen dertien weken nadat een rapport als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=20&z=2009-01-01&g=2009-01-01), is opgemaakt.
+Vervallen
 
 ##### Artikel 24
 
-De bevoegdheid tot opleggen van een boete of een last onder dwangsom als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2009-01-01&g=2009-01-01), vervalt vijf jaren nadat de overtreding is begaan.
+Vervallen
 
 ##### Artikel 25
 
-1. Een boete wordt betaald binnen dertien weken nadat de beschikking waarbij de boete is opgelegd, in werking is getreden.
-
-2. De boete wordt vermeerderd met de wettelijke rente, te rekenen vanaf de dag waarop de in het eerste lid genoemde termijn is verstreken.
-
-3. Indien niet is betaald binnen de in het eerste lid genoemde termijn, wordt degene die de boete is verschuldigd schriftelijk bevolen binnen twee weken alsnog het bedrag van de boete, verhoogd met de krachtens het tweede lid verschuldigde rente en de kosten van de aanmaning, te betalen.
+Vervallen
 
 ##### Artikel 26
 
-1. Bij gebreke van betaling binnen de in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=25&z=2009-01-01&g=2009-01-01), bedoelde termijn van twee weken kan het Commissariaat de verschuldigde boete, verhoogd met de krachtens [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=25&z=2009-01-01&g=2009-01-01), verschuldigde rente en de op de aanmaning en invordering betrekking hebbende kosten, invorderen bij dwangbevel.
-
-2. Het dwangbevel wordt op kosten van degene die de boete is verschuldigd bij deurwaardersexploit betekend en levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede).
-
-3. Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van de staat.
-
-4. Het verzet schorst de tenuitvoerlegging. Op verzoek van de staat kan de rechter de schorsing van de tenuitvoerlegging opheffen.
+Vervallen
 
 ##### Artikel 27
 
@@ -326,7 +274,7 @@ Het Commissariaat draagt de opbrengsten van opgelegde boetes en verbeurde dwangs
 
 1. Voor boeken en muziekuitgaven die op het tijdstip van inwerkingtreding van deze wet al zijn uitgegeven onder de werking van het Reglement voor het Handelsverkeer van Boeken in Nederland van de Koninklijke Vereeniging ter bevordering van de belangen des Boekhandels (KVB) dan wel het Reglement Handelsverkeer van muziekuitgaven van de Vereeniging van Muziekhandelaren en -uitgevers in Nederland (VMN), geldt de onder de werking van genoemde Reglementen vastgestelde particuliere prijs als vaste prijs.
 
-2. In afwijking van [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-01-01&g=2009-01-01), geldt de in het eerste lid bedoelde vaste prijs met ingang van het tijdstip van inwerkingtreding van deze wet.
+2. In afwijking van [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01), geldt de in het eerste lid bedoelde vaste prijs met ingang van het tijdstip van inwerkingtreding van deze wet.
 
 3. Deze wet is niet van toepassing op:
 
@@ -338,7 +286,7 @@ Het Commissariaat draagt de opbrengsten van opgelegde boetes en verbeurde dwangs
 
 ##### Artikel 29
 
-Een krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=5&artikel=12&z=2009-01-01&g=2009-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=3&artikel=13&z=2009-01-01&g=2009-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=4&artikel=14&z=2009-01-01&g=2009-01-01) vastgestelde algemene maatregel van bestuur wordt aan beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door tenminste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de beide kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
+Een krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=5&artikel=12&z=2009-07-01&g=2009-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=3&artikel=13&z=2009-07-01&g=2009-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=4&artikel=14&z=2009-07-01&g=2009-07-01) vastgestelde algemene maatregel van bestuur wordt aan beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door tenminste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de beide kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
 
 ##### Artikel 30
 
@@ -351,5 +299,13 @@ Deze wet wordt aangehaald als: Wet op de vaste boekenprijs.
 ##### Artikel 32
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij terugwerkende kracht kan worden verleend tot en met een daarbij te bepalen tijdstip. In dat besluit wordt zonodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16).
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 27a
+
+Op de bevoegdheid een last onder dwangsom op te leggen als bedoeld in [artikel 17, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2009-07-01&g=2009-07-01), zijn de [artikelen 5:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) en [5:48 tot en met 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) van overeenkomstige toepassing.
+
+### Hoofdstuk 6. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
