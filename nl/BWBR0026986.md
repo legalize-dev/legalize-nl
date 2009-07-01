@@ -4,7 +4,7 @@ identifier: "BWBR0026986"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2009-03-11"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026986"
 soort: "wet"
@@ -62,7 +62,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel IVa
 
