@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -89,7 +89,7 @@ Het verzoek, bedoeld in [artikel 8, derde lid, van de wet](https://wetten.overhe
 
 - a. een wijziging in de huurprijs;
 
-- b. het aangaan van of het beëindigen van een huurcontract, waaronder begrepen een schriftelijke overeenkomst als bedoeld in [artikel 2, eerste lid, onderdeel f, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=2);
+- b. het aangaan van of het beëindigen van een huurcontract, waaronder begrepen een schriftelijke overeenkomst als bedoeld in [artikel 2, eerste lid, onderdeel e, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=2);
 
 - c. een verandering van verhuurder;
 
