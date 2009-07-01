@@ -4,7 +4,7 @@ identifier: "BWBV0003229"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-07-01"
-last_updated: "2008-03-13"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003229"
 soort: "verdrag"
@@ -146,11 +146,11 @@ Op verzoek stelt de aangezochte administratie de verzoekende administratie ervan
 
 ##### Artikel 6. Automatisch verstrekken van informatie
 
-De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003229&hoofdstuk=X&artikel=21&z=2008-03-13&g=2008-03-13), automatisch alle informatie verstrekken die onder dit Verdrag valt.
+De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003229&hoofdstuk=X&artikel=21&z=2009-07-01&g=2009-07-01), automatisch alle informatie verstrekken die onder dit Verdrag valt.
 
 ##### Artikel 7. Vooraf verstrekken van informatie
 
-De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003229&hoofdstuk=X&artikel=21&z=2008-03-13&g=2008-03-13), specifieke informatie verstrekken voorafgaand aan de aankomst van zendingen op het grondgebied van de andere Verdragsluitende Partij.
+De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003229&hoofdstuk=X&artikel=21&z=2009-07-01&g=2009-07-01), specifieke informatie verstrekken voorafgaand aan de aankomst van zendingen op het grondgebied van de andere Verdragsluitende Partij.
 
 ### HOOFDSTUK IV. BIJZONDERE VORMEN VAN BIJSTAND
 
@@ -172,7 +172,7 @@ De douaneadministraties kunnen elkaar technische bijstand verlenen bij onder and
 
 1. Op verzoek verlenen de douaneadministraties elkaar bijstand met het oog op de invordering van douanevorderingen in overeenstemming met de respectieve nationale wettelijke en administratieve bepalingen voor de invordering van hun eigen douanerechten.
 
-2. Bijstand bij de invordering van douanevorderingen wordt geregeld overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003229&hoofdstuk=X&artikel=21&z=2008-03-13&g=2008-03-13).
+2. Bijstand bij de invordering van douanevorderingen wordt geregeld overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003229&hoofdstuk=X&artikel=21&z=2009-07-01&g=2009-07-01).
 
 ##### Artikel 10. Toezicht en informatie
 
