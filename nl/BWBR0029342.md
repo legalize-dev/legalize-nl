@@ -4,7 +4,7 @@ identifier: "BWBR0029342"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029342"
 soort: "wet"
@@ -129,7 +129,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XXI
 
