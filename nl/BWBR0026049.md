@@ -4,7 +4,7 @@ identifier: "BWBR0026049"
 country: "nl"
 rank: "wet"
 publication_date: "2010-01-01"
-last_updated: "2009-07-01"
+last_updated: "2009-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026049"
 soort: "wet"
@@ -52,7 +52,7 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
@@ -60,11 +60,11 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Comptabiliteitswet 2001.
 
 ##### Artikel VIII
 
@@ -88,20 +88,46 @@ Wijzigt Wet vermindering afdracht loonbelasting en premie voor de volksverzekeri
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+1. De [artikelen 67d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67d), [67e](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67e) en [69 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69) zoals deze luidden op de dag vóór de datum van inwerkingtreding van deze wet, blijven van toepassing op vergrijpen onderscheidenlijk strafbare feiten die zijn begaan vóór de datum van inwerkingtreding van deze wet.
+
+2. Met betrekking tot aangiften die vóór 1 januari 2010 zijn gedaan of hadden moeten zijn gedaan, blijft [artikel 67n van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67n), zoals dit luidde op 30 juni 2009, van toepassing tot 1 januari 2010.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat:
+
+- a. [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=IX&z=2009-07-02&g=2009-07-02) terugwerkt tot en met 1 januari 2008;
+
+- b. de [artikelen III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=III&z=2009-07-02&g=2009-07-02), [V, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=V&z=2009-07-02&g=2009-07-02), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=VIII&z=2009-07-02&g=2009-07-02) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=XII&z=2009-07-02&g=2009-07-02) terugwerken tot en met 1 januari 2009;
+
+- c. [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=III&z=2009-07-02&g=2009-07-02), terugwerkt tot en met 5 maart 2009;
+
+- d. [artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=V&z=2009-07-02&g=2009-07-02), terugwerkt tot en met 1 juni 2009, en
+
+- e. [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=XVI&z=2009-07-02&g=2009-07-02) in werking treedt op 1 juli 2009, indien het tijdstip van inwerkingtreding van deze wet voor 1 juli 2009 ligt.
+
+2. In afwijking van het eerste lid treden de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=I&z=2009-07-02&g=2009-07-02) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=II&z=2009-07-02&g=2009-07-02) in werking op een bij koninklijk besluit te bepalen tijdstip. Bij dat koninklijk besluit kan worden bepaald dat van het in [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=I&z=2009-07-02&g=2009-07-02), opgenomen [artikel 57a van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=57a) de eerste en tweede volzin van het tweede lid op een eerder tijdstip in werking treden en het zevende lid op een later tijdstip in werking treedt.
+
+3. In afwijking van het eerste lid treedt [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=X&z=2009-07-02&g=2009-07-02) in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij kan worden bepaald dat dit artikel terugwerkt tot en met een eerder tijdstip.
+
+4. In afwijking van het eerste lid treedt [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=XI&z=2009-07-02&g=2009-07-02) in werking op 1 januari 2010, met dien verstande dat [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=XI&z=2009-07-02&g=2009-07-02) eerst toepassing vindt nadat [artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) bij het begin van het kalenderjaar 2010 is toegepast.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is enkele fiscale stimuleringsmaatregelen te treffen ter uitwerking van het aanvullend beleidsakkoord Werken aan toekomst en voorts enkele wijzigingen, bijstellingen en technische reparaties aan te brengen;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
