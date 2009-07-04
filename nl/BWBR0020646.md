@@ -4,7 +4,7 @@ identifier: "BWBR0020646"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020646"
 soort: "ministeriele-regeling"
@@ -140,9 +140,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Tegelijkertijd met het doen van het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2009-01-01&g=2009-01-01), informeert het college of het bestuur de inburgeraar omtrent de hoofdlijnen van de met hem te sluiten overeenkomst terzake van de vaststelling van zijn inburgeringsvoorziening, gecombineerde inburgeringsvoorziening dan wel taalkennisvoorziening.
+1. Tegelijkertijd met het doen van het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2009-07-04&g=2009-07-04), informeert het college of het bestuur de inburgeraar omtrent de hoofdlijnen van de met hem te sluiten overeenkomst terzake van de vaststelling van zijn inburgeringsvoorziening, gecombineerde inburgeringsvoorziening dan wel taalkennisvoorziening.
 
-2. Indien de inburgeraar het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2009-01-01&g=2009-01-01), aanvaardt, sluit het college of het bestuur de in het eerste lid bedoelde overeenkomst met de inburgeraar.
+2. Indien de inburgeraar het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2009-07-04&g=2009-07-04), aanvaardt, sluit het college of het bestuur de in het eerste lid bedoelde overeenkomst met de inburgeraar.
 
 3. De overeenkomst bevat ten minste een omschrijving van de inburgeringsvoorziening, de gecombineerde inburgeringsvoorziening dan wel de taalkennisvoorziening, alsmede een omschrijving van de rechten en verplichtingen van de inburgeraar ten aanzien van:
 
@@ -180,7 +180,7 @@ In deze regeling wordt verstaan onder:
 
 1. De inburgeraar die op 1 januari 2007 deelneemt aan een opleiding educatie als bedoeld in [artikel 7.3.1, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), blijft toegelaten tot deze opleiding.
 
-2. Het college of het bestuur kan de opleidingen educatie, bedoeld in het eerste lid, gedurende het jaar 2007 bekostigen uit de financiële bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=1&artikel=2&z=2009-01-01&g=2009-01-01).
+2. Het college of het bestuur kan de opleidingen educatie, bedoeld in het eerste lid, gedurende het jaar 2007 bekostigen uit de financiële bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=1&artikel=2&z=2009-07-04&g=2009-07-04).
 
 ### Hoofdstuk 3. Verstrekking prestatiegegevens, vaststelling financiële bijdrage
 
@@ -206,7 +206,7 @@ In deze regeling wordt verstaan onder:
 
 - i. het aantal inburgeraars, niet zijnde geestelijke bedienaar, met wie in respectievelijk 2008 en 2009 een overeenkomst tot vaststelling van een taalkennisvoorziening is gesloten.
 
-2. Indien het college of het bestuur toepassing geeft aan [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2009-01-01&g=2009-01-01), doet het college of het bestuur tevens een opgave van het daarmee gemoeide bedrag, alsmede het aantal opleidingen educatie, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2009-01-01&g=2009-01-01).
+2. Indien het college of het bestuur toepassing geeft aan [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2009-07-04&g=2009-07-04), doet het college of het bestuur tevens een opgave van het daarmee gemoeide bedrag, alsmede het aantal opleidingen educatie, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2009-07-04&g=2009-07-04).
 
 3. Het college of het bestuur verstrekt de gegevens en de opgave, bedoeld in het eerste lid, tezamen met de jaarrekening, bedoeld in [artikel 186 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=186), welke betrekking heeft op het jaar 2011. De jaarrekening is voorzien van de accountantsverklaring, bedoeld in [artikel 213, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213).
 
@@ -254,7 +254,7 @@ Vervallen
 
 - –. met de letter P: de door de Minister vast te stellen correctiefactor;
 
-- –. met de letter Q: het bedrag, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=3&artikel=9&z=2009-01-01&g=2009-01-01);
+- –. met de letter Q: het bedrag, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=3&artikel=9&z=2009-07-04&g=2009-07-04);
 
 - –. met de letter R: het aantal inburgeraars met wie in respectievelijk 2008 en 2009 een overeenkomst tot vaststelling van een duale inburgeringsvoorziening is gesloten;
 
@@ -266,7 +266,7 @@ Vervallen
 
 2. De Minister stelt de financiële bijdrage uiterlijk 1 oktober 2012 vast.
 
-3. De vastgestelde financiële bijdrage wordt binnen zes maanden na de vaststelling ervan betaald onder verrekening van het verleende voorschot.
+3. De vastgestelde financiële bijdrage wordt binnen zes maanden na de vaststelling ervan betaald.
 
 4. Indien het voorschot hoger is dan de vastgestelde financiële bijdrage, is de Minister bevoegd het verschil terug te vorderen.
 
