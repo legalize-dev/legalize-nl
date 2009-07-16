@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2009-01-24"
+last_updated: "2009-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -130,7 +130,9 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 2°. de NATO Training Mission-Iraq ‘NTM-I’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak;
 
-- 3°. de operatie Active Endeavour, voor zover deze deelname heeft plaatsgehad in het zeegebied van de Middellandse Zee: NAVO OPERATIES;
+- 3°. de operatie Active Endeavour, voor zover deze deelname heeft plaatsgehad in het zeegebied van de Middellandse Zee;
+
+- 4°. de operatie ‘Allied Protector’, voor zover deze deelname heeft plaatsgehad in de wateren van en in de nabijheid van Somalië: NAVO OPERATIES;
 
 - ee. voor deelname aan operaties van de Europese Unie:
 
