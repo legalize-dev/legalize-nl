@@ -4,7 +4,7 @@ identifier: "BWBR0026125"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-07-18"
-last_updated: "2009-01-01"
+last_updated: "2009-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026125"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Het tijdvak voor de subsidieverstrekking ten behoeve van sanering van verkeersla
 
 ##### Artikel 2
 
-Het subsidieplafond voor het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026125&artikel=1&z=2009-07-18&g=2009-01-01) vastgestelde tijdvak ten behoeve van de sanering van verkeerslawaai wordt vastgesteld op: € 31.100.000,00.
+Het subsidieplafond voor het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026125&artikel=1&z=2009-07-18&g=2009-07-18) vastgestelde tijdvak ten behoeve van de sanering van verkeerslawaai wordt vastgesteld op: € 31.100.000,00.
 
 ##### Artikel 3
 
