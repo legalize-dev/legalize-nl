@@ -105,11 +105,3 @@ Dit besluit wordt aangehaald als: Besluit Insigne voor Optreden onder Gevechtsom
 ## Bijlage
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Ingesteld wordt het ‘Insigne voor Optreden onder Gevechtsomstandigheden’, hierna aangeduid als ‘Gevechtsinsigne’.
-
-## Bijlage
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
