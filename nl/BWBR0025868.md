@@ -4,7 +4,7 @@ identifier: "BWBR0025868"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-07-21"
-last_updated: "2004-01-01"
+last_updated: "2009-07-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025868"
 soort: "AMvB"
@@ -42,23 +42,955 @@ Wijzigt het Besluit financiële verhouding 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+De algemene uitkering zoals deze voor iedere gemeente wordt berekend overeenkomstig dit besluit, wordt
+
+- a. in verband met de aanpassing van het verdeelstelsel voor de jaren 2006 en 2007 vermeerderd of verminderd met een bedrag genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025868&bijlage=1&z=2009-07-21&g=2009-07-21) bij dit besluit;
+
+- b. in verband met de aanpassing van het verdeelstelsel voor de jaren 2008 en 2009 vermeerderd of verminderd met een bedrag genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025868&bijlage=2&z=2009-07-21&g=2009-07-21) bij dit besluit;
+
+- c. voor de compensatie voor het afschaffen van het gebruikersdeel van de OZB voor woningen over de jaren 2006 tot en met 2009 vermeerderd of verminderd met een bedrag genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025868&bijlage=3&z=2009-07-21&g=2009-07-21) bij dit besluit.
+
+Deze vermeerdering of vermindering komt ten laste van of ten goede van het gemeentefonds.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin het is geplaatst, met dien verstande dat
+
+- a. [artikel I, onderdeel F, onder 11 en 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025868&artikel=I&z=2009-07-21&g=2009-07-21), terugwerkt tot en met 1 januari 2004;
+
+- b. [artikel I, onderdeel B en onderdeel F, onder 1, 2, 5, 7, 8, 10, 12, 15, 16 en 21](https://wetten.overheid.nl/jci1.3:c:BWBR0025868&artikel=I&z=2009-07-21&g=2009-07-21) terugwerken tot en met 1 januari 2006;
+
+- c. [artikel I, onderdeel F, onder 3, 6, 17 en 18](https://wetten.overheid.nl/jci1.3:c:BWBR0025868&artikel=I&z=2009-07-21&g=2009-07-21), terugwerkt tot en met 1 januari 2007;
+
+- d. [artikel I, onderdeel F, onder 4, 9, 19 en 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025868&artikel=I&z=2009-07-21&g=2009-07-21), terugwerkt tot en met 1 januari 2008;
+
+- e. [artikel I, onderdeel C en artikel I, onderdeel F, onder 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025868&artikel=I&z=2009-07-21&g=2009-07-21) terugwerkt tot en met 1 januari 2009.
 
 ## Bijlage 1
 
 Dit onderdeel is nog niet inwerking getreden
 
+## Bijlage 1
+
+| Gemeente1) | Suppletie 2006 | Suppletie 2007 |
+| --- | --- | --- |
+| Aa en Hunze | –72.344,20 | –36.166,67 |
+| Aalburg | 22.320,52 | 11.158,59 |
+| Aalsmeer | 189.283,53 | 94.627,57 |
+| Aalten | 65.429,43 | 32.709,81 |
+| Abcoude | 15.370,18 | 7.683,94 |
+| Achtkarspelen | –96.448,97 | –48.217,25 |
+| Alblasserdam | –89.101,54 | –44.544,09 |
+| Albrandswaard | –42.092,24 | –21.042,96 |
+| Alkemade | 69.841,23 | 34.915,38 |
+| Alkmaar | –25.131,31 | –12.563,77 |
+| Almelo | –22.578,23 | –11.287,42 |
+| Almere | –2.414.542,53 | –1.207.090,18 |
+| Alphen aan den Rijn | –73.832,64 | –36.910,79 |
+| Alphen-Chaam | 63.282,45 | 31.636,48 |
+| Ambt Montfort | 11.912,02 |   |
+| Ameland | 81.091,63 | 40.539,73 |
+| Amersfoort | –468.596,61 | –234.263,16 |
+| Amstelveen | –19.177,39 | –9.587,26 |
+| Amsterdam | 1.842.101,43 | 920.912,56 |
+| Andijk | 71.419,62 | 35.704,45 |
+| Anna Paulowna | 200.517,30 | 100.243,61 |
+| Apeldoorn | 474.750,25 | 237.339,52 |
+| Appingedam | –171.968,36 | –85.971,28 |
+| Arcen en Velden | 102.962,10 | 51.473,33 |
+| Arnhem | –342.999,26 | –171.473,91 |
+| Assen | –231.231,23 | –115.598,27 |
+| Asten | 62.030,47 | 31.010,58 |
+| Baarle-Nassau | –39.625,83 | –19.809,94 |
+| Baarn | –148.469,99 | –74.223,86 |
+| Barendrecht | –82.914,86 | –41.451,21 |
+| Barneveld | –61.893,25 | –30.941,98 |
+| Bedum | 46.954,02 | 23.473,49 |
+| Beek | 44.081,82 | 22.037,60 |
+| Beemster | 40.474,14 | 20.234,04 |
+| Beesel | 60.294,30 | 30.142,63 |
+| Bellingwedde | –82.789,67 | –41.388,63 |
+| Bennebroek | –1.064,36 | –532,10 |
+| Bergambacht | 69.377,42 | 34.683,51 |
+| Bergeijk | 111.722,11 | 55.852,68 |
+| Bergen L | –9.730,46 | –4.864,50 |
+| Bergen NH | 82.111,09 | 41.049,39 |
+| Bergen op Zoom | –7.269,61 | –3.634,26 |
+| Bergschenhoek | –73.238,27 |   |
+| Berkel en Rodenrijs | 78.216,98 |   |
+| Berkelland | 94.573,78 | 47.279,80 |
+| Bernheze | 144.251,49 | 72.114,93 |
+| Bernisse | 60.353,46 | 30.172,20 |
+| Best | 65.503,49 | 32.746,83 |
+| Beuningen | 158.890,69 | 79.433,43 |
+| Beverwijk | –500.127,34 | –250.026,16 |
+| Binnenmaas (voor herindeling) | 111.319,89 |   |
+| Binnenmaas (na herindeling) | 56.271,10 |   |
+| Bladel | –46.402,38 | –23.197,71 |
+| Blaricum | 57.821,41 | 28.906,37 |
+| Bleiswijk | –130.182,20 |   |
+| Bloemendaal | –224.484,94 | –112.225,64 |
+| Boarnsterhim | 11.886,91 | 5.942,56 |
+| Bodegraven | 153.534,40 | 76.755,69 |
+| Boekel | 90.182,24 | 45.084,36 |
+| Bolsward | –84.449,22 | –42.218,27 |
+| Borger-Odoorn | –78.838,64 | –39.413,41 |
+| Borne | 121.661,80 | 60.821,78 |
+| Borsele | 165.281,91 | 82.628,56 |
+| Boskoop | 75.626,89 | 37.807,77 |
+| Boxmeer | 1.397,80 | 698,79 |
+| Boxtel | –25.508,63 | –12.752,40 |
+| Breda | 334.663,35 | 167.306,58 |
+| Breukelen | –30.073,69 | –15.034,59 |
+| Brielle | –105.558,21 | –52.771,19 |
+| Bronckhorst | 291.067,97 | 145.512,16 |
+| Brummen | 152.303,19 | 76.140,17 |
+| Brunssum | –90.346,74 | –45.166,59 |
+| Bunnik | 152.698,26 | 76.337,68 |
+| Bunschoten | 147.336,40 | 73.657,15 |
+| Buren | 147.774,92 | 73.876,38 |
+| Bussum | –303.612,40 | –151.783,43 |
+| Capelle aan den IJssel | –964.755,73 | –482.305,51 |
+| Castricum | –141.299,73 | –70.639,27 |
+| Coevorden | –160.554,64 | –80.265,28 |
+| Cranendonck | 178.726,00 | 89.349,60 |
+| Cromstrijen | 33.565,36 | 16.780,16 |
+| Cuijk | 45.751,39 | 22.872,27 |
+| Culemborg | –216.042,31 | –108.004,95 |
+| Dalfsen | 325.421,38 | 162.686,29 |
+| Dantumadeel | 13.803,98 | 6.900,96 |
+| De Bilt | –56.258,87 | –28.125,22 |
+| De Marne | –117.933,58 | –58.957,94 |
+| De Ronde Venen | –38.990,99 | –19.492,57 |
+| De Wolden | 105.491,51 | 52.737,85 |
+| Delft | –1.093.447,69 | –546.641,84 |
+| Delfzijl | –159.668,23 | –79.822,14 |
+| Den Helder | –220.372,72 | –110.169,83 |
+| Deurne | 7.663,71 | 3.831,28 |
+| Deventer | 870.378,76 | 435.124,11 |
+| Diemen | 52.257,04 | 26.124,60 |
+| Dinkelland | 308.914,34 | 154.434,00 |
+| Dirksland | 80.984,28 | 40.486,07 |
+| Doesburg | –52.400,35 | –26.196,24 |
+| Doetinchem | –124.686,25 | –62.333,78 |
+| Dongen | 55.514,68 | 27.753,18 |
+| Dongeradeel | –179.888,46 | –89.930,74 |
+| Dordrecht | –779.447,47 | –389.665,28 |
+| Drechterland (na herindeling) | 173.628,26 | 86.806,11 |
+| Drimmelen | 166.062,25 | 83.018,67 |
+| Dronten | 9.432,08 | 4.715,33 |
+| Druten | –31.512,19 | –15.753,73 |
+| Duiven | –152.140,68 | –76.058,93 |
+| Echt-Susteren | 17.004,64 | 8.501,04 |
+| Edam-Volendam | 210.527,13 | 105.247,78 |
+| Ede | 349.439,31 | 174.693,45 |
+| Eemnes | 79.288,27 | 39.638,19 |
+| Eemsmond | –246.971,61 | –123.467,28 |
+| Eersel | –102.002,91 | –50.993,81 |
+| Eijsden | –40.018,21 | –20.006,10 |
+| Eindhoven | 1.923.684,63 | 961.698,05 |
+| Elburg | 54.771,64 | 27.381,71 |
+| Emmen | –492.817,07 | –246.371,58 |
+| Enkhuizen | 13.734,91 | 6.866,42 |
+| Enschede | 112.685,96 | 56.334,53 |
+| Epe | 211.079,20 | 105.523,77 |
+| Ermelo | 101.060,76 | 50.522,80 |
+| Etten-Leur | 117.733,99 | 58.858,17 |
+| Ferwerderadiel | –37.986,35 | –18.990,33 |
+| Franekeradeel | –82.912,55 | –41.450,06 |
+| Gaasterlan-Sleat | –29.213,07 | –14.604,34 |
+| Geertruidenberg | 102.924,93 | 51.454,75 |
+| Geldermalsen | 223.303,47 | 111.634,99 |
+| Geldrop-Mierlo | –1.674,66 | –837,20 |
+| Gemert-Bakel | 14.156,87 | 7.077,37 |
+| Gennep | –59.398,11 | –29.694,60 |
+| Giessenlanden | 100.028,05 | 50.006,52 |
+| Gilze en Rijen | 143.797,33 | 71.887,88 |
+| Goedereede | 87.489,65 | 43.738,26 |
+| Goes | –164.270,18 | –82.122,77 |
+| Goirle | 47.444,45 | 23.718,67 |
+| Gorinchem | –152.635,20 | –76.306,15 |
+| Gouda | –855.854,19 | –427.862,91 |
+| Graafstroom | –6.198,15 | –3.098,61 |
+| Graft-De Rijp | 29.424,47 | 14.710,03 |
+| Grave | –32.552,52 | –16.273,82 |
+| Groenlo | 97.680,95 | 48.833,15 |
+| Groesbeek | 132.369,49 | 66.174,82 |
+| Groningen | 1.154.491,38 | 577.159,11 |
+| Grootegast | 50.409,19 | 25.200,82 |
+| Gulpen–Wittem | –226.851,70 | –113.408,84 |
+| Haaksbergen | 163.507,20 | 81.741,34 |
+| Haaren | 174.992,71 | 87.483,23 |
+| Haarlem | 163.036,66 | 81.506,10 |
+| Haarlemmerliede Spaarnw | –31.473,78 | –15.734,53 |
+| Haarlemmermeer | 555.128,30 | 277.522,52 |
+| Haelen | –155.462,40 |   |
+| Halderberge | –190.383,22 | –95.177,33 |
+| Hardenberg | 144.678,62 | 72.328,46 |
+| Harderwijk | 36.991,30 | 18.492,88 |
+| Hardinxveld-Giessendam | 208.201,20 | 104.084,98 |
+| Haren | 16.470,70 | 8.234,11 |
+| Harenkarspel | 88.645,57 | 44.316,14 |
+| Harlingen | –147.455,93 | –73.716,90 |
+| Hattem | 109.402,22 | 54.692,91 |
+| Heel | 127.739,49 |   |
+| Heemskerk | –302.430,86 | –151.192,75 |
+| Heemstede | –152.313,60 | –76.145,38 |
+| Heerde | 78.833,67 | 39.410,92 |
+| Heerenveen | –262.521,50 | –131.241,06 |
+| Heerhugowaard | 219.842,73 | 109.904,88 |
+| Heerlen | –1.721.889,63 | –860.815,68 |
+| Heeze-Leende | 71.313,46 | 35.651,38 |
+| Heiloo | 197.035,11 | 98.502,78 |
+| Helden | 125.556,72 | 62.768,94 |
+| Hellendoorn | 357.379,88 | 178.663,14 |
+| Hellevoetsluis | –120.672,32 | –60.327,11 |
+| Helmond | 50.903,48 | 25.447,92 |
+| Hendrik-Ido-Ambacht | 66.969,86 | 33.479,91 |
+| Hengelo | 238.416,77 | 119.190,51 |
+| Het Bildt | –98.866,80 | –49.425,98 |
+| Heumen | 92.278,77 | 46.132,47 |
+| Heusden | 219.018,93 | 109.493,04 |
+| Heythuysen | 17.907,57 |   |
+| Hillegom | 108.139,06 | 54.061,42 |
+| Hilvarenbeek | 133.060,30 | 66.520,17 |
+| Hilversum | –189.357,93 | –94.664,76 |
+| Hof van Twente | 227.776,74 | 113.871,29 |
+| Hoogeveen | –181.240,42 | –90.606,62 |
+| Hoogezand-Sappemeer | –148.525,37 | –74.251,55 |
+| Hoorn | 557.875,81 | 278.896,07 |
+| Horst aan de Maas | 26.926,88 | 13.461,42 |
+| Houten | 55.616,93 | 27.804,29 |
+| Huizen | –116.119,71 | –58.051,15 |
+| Hulst | 133.610,03 | 66.794,99 |
+| Hunsel | 20.487,76 |   |
+| IJsselstein | –148.625,52 | –74.301,61 |
+| Jacobswoude | 37.988,90 | 18.991,60 |
+| Kampen | 207.246,78 | 103.607,85 |
+| Kapelle | 76.186,34 | 38.087,46 |
+| Katwijk (na herindeling) | 267.934,64 | 133.947,23 |
+| Kerkrade | –520.714,35 | –260.318,12 |
+| Kessel | 15.143,59 | 7.570,66 |
+| Kollumerland en Nwkruisl | –14.410,27 | –7.204,05 |
+| Koggenland | 49.873,06 |   |
+| Korendijk | 20.564,90 | 10.280,91 |
+| Krimpen aan den IJssel | –199.491,84 | –99.730,96 |
+| Laarbeek | 169.653,84 | 84.814,20 |
+| Landerd | 114.611,29 | 57.297,05 |
+| Landgraaf | –274.215,20 | –137.087,04 |
+| Landsmeer | –17.100,33 | –8.548,88 |
+| Langedijk | 241.288,55 | 120.626,18 |
+| Lansingerland | –62.592,34 |   |
+| Laren | –162.348,25 | –81.161,95 |
+| Leek | –170.698,57 | –85.336,48 |
+| Leerdam | –58.856,69 | –29.423,93 |
+| Leeuwarden | –505.091,07 | –252.507,66 |
+| Leeuwarderadeel | 148.386,95 | 74.182,35 |
+| Leiden | –488.588,13 | –244.257,42 |
+| Leiderdorp | 33.003,16 | 16.499,10 |
+| Leidschendam-Voorburg | –1.473.508,76 | –736.643,87 |
+| Lelystad | –90.991,73 | –45.489,04 |
+| Lemsterland | 159.471,21 | 79.723,65 |
+| Leudal | –32.974,49 |   |
+| Leusden | 271.126,55 | 135.542,94 |
+| Liemeer | 78.850,43 |   |
+| Liesveld | 31.955,07 | 15.975,14 |
+| Lingewaal | 73.181,86 | 36.585,44 |
+| Lingewaard | –63.759,55 | –31.874,99 |
+| Lisse | 20.149,36 | 10.073,17 |
+| Lith | 31.077,72 | 15.536,53 |
+| Littenseradiel | –58.746,98 | –29.369,08 |
+| Lochem | 73.738,11 | 36.863,53 |
+| Loenen | –37.747,61 | –18.870,98 |
+| Loon op Zand | 230.266,75 | 115.116,11 |
+| Lopik | 6.864,44 | 3.431,71 |
+| Loppersum | –72.962,33 | –36.475,69 |
+| Losser | 147.907,39 | 73.942,60 |
+| Maarssen | 85.060,51 | 42.523,88 |
+| Maasbracht | 66.723,84 |   |
+| Maasbree | 141.525,11 | 70.751,94 |
+| Maasdonk | 81.889,46 | 40.938,59 |
+| Maasdriel | 183.089,47 | 91.531,00 |
+| Maasgouw | 92.806,58 |   |
+| Maassluis | –127.337,32 | –63.659,11 |
+| Maastricht | 510.164,17 | 255.043,82 |
+| Margraten | –52.623,11 | –26.307,61 |
+| Marum | –76.151,72 | –38.070,15 |
+| Medemblik (voor herindeling) | 49.113,73 |   |
+| Medemblik (na herindeling) |   | 69.626,31 |
+| Meerlo-Wanssum | 95.502,69 | 47.744,18 |
+| Meerssen | 5.408,95 | 2.704,07 |
+| Meijel | 78.715,46 | 39.351,83 |
+| Menaldumadeel | 82.329,25 | 41.158,45 |
+| Menterwolde | –46.067,89 | –23.030,49 |
+| Meppel | –48.547,98 | –24.270,35 |
+| Middelburg | –242.981,51 | –121.472,53 |
+| Middelharnis | –157.874,33 | –78.925,32 |
+| Midden Drenthe | 12.626,46 | 6.312,28 |
+| Midden-Delfland | 75.820,47 | 37.904,55 |
+| Mill en Sint Hubert | 25.445,61 | 12.720,90 |
+| Millingen aan de Rijn | 33.634,52 | 16.814,74 |
+| Moerdijk | 78.316,23 | 39.152,24 |
+| Montferland | 99.762,09 | 49.873,56 |
+| Montfoort U | 132.096,36 | 66.038,27 |
+| Mook en Middelaar | 78.880,14 | 39.434,15 |
+| Moordrecht | 34.291,18 | 17.143,02 |
+| Muiden | –26.282,56 | –13.139,31 |
+| Naarden | 23.114,21 | 11.555,37 |
+| Neder-Betuwe | 38.498,25 | 19.246,24 |
+| Nederlek | –158.490,30 | –79.233,26 |
+| Nederweert | 205.609,79 | 102.789,48 |
+| Neerijnen | 4.333,75 | 2.166,55 |
+| Niedorp | 94.129,69 | 47.057,79 |
+| Nieuwegein | –7.153,98 | –3.576,45 |
+| Nieuwerkerk a/d IJssel | –31.188,44 | –15.591,88 |
+| Nieuwkoop (voor herindeling) | 57.910,70 |   |
+| Nieuwkoop (na herindeling) |   | 72.850,70 |
+| Nieuw-Lekkerland | 63.667,90 | 31.829,18 |
+| Nijefurd | 6.737,15 | 3.368,07 |
+| Nijkerk | 143.316,21 | 71.647,36 |
+| Nijmegen | 2.029.663,08 | 1.014.679,32 |
+| Noord-Beveland | 21.484,35 | 10.740,57 |
+| Noordenveld | 73.260,58 | 36.624,80 |
+| Noorder-Koggenland | 41.097,72 |   |
+| Noordoostpolder | 90.987,49 | 45.486,92 |
+| Noordwijk | 110.242,98 | 55.113,22 |
+| Noordwijkerhout | –19.631,29 | –9.814,17 |
+| Nuenen c.a. | 81.781,45 | 40.884,59 |
+| Nunspeet | 182.485,14 | 91.228,88 |
+| Nuth | –19.766,54 | –9.881,79 |
+| Obdam | 24.993,97 |   |
+| Oegstgeest | –129.621,44 | –64.801,00 |
+| Oirschot | 112.870,55 | 56.426,81 |
+| Oisterwijk | 120.421,71 | 60.201,82 |
+| Oldebroek | 209.616,98 | 104.792,77 |
+| Oldenzaal | 41.380,43 | 20.687,11 |
+| Olst-Wijhe | –6.957,43 | –3.478,20 |
+| Ommen | 44.418,39 | 22.205,86 |
+| Onderbanken | –42.669,32 | –21.331,46 |
+| Oosterhout | 209.660,49 | 104.814,52 |
+| Oostflakkee | –21.272,24 | –10.634,53 |
+| Ooststellingwerf | –64.473,18 | –32.231,76 |
+| Oostzaan | 69.726,02 | 34.857,78 |
+| Opmeer | 93.083,40 | 46.534,72 |
+| Opsterland | 36.144,20 | 18.069,39 |
+| Oss | 87.384,54 | 43.685,72 |
+| Oud-Beijerland | –218.689,25 | –109.328,22 |
+| Oude IJsselstreek | 192.526,20 | 96.248,66 |
+| Ouder-Amstel | –61.988,45 | –30.989,58 |
+| Ouderkerk | 33.844,93 | 16.919,92 |
+| Oudewater | 59.648,85 | 29.819,95 |
+| Overbetuwe | –95.601,02 | –47.793,34 |
+| Papendrecht | –215.109,14 | –107.538,44 |
+| Pekela | –45.147,84 | –22.570,54 |
+| Pijnacker-Nootdorp | –116.344,03 | –58.163,29 |
+| Purmerend | –106.964,81 | –53.474,38 |
+| Putten | 136.626,49 | 68.303,00 |
+| Raalte | 56.262,19 | 28.126,87 |
+| Reeuwijk | 64.857,05 | 32.423,66 |
+| Reiderland | –110.739,93 | –55.361,66 |
+| Reimerswaal | –51.358,82 | –25.675,56 |
+| Renkum | –207.358,34 | –103.663,62 |
+| Renswoude | 27.932,81 | 13.964,31 |
+| Reusel-De Mierden | 133.760,75 | 66.870,34 |
+| Rheden | –300.258,69 | –150.106,82 |
+| Rhenen | 74.837,37 | 37.413,07 |
+| Ridderkerk | –250.508,03 | –125.235,23 |
+| Rijnwaarden | 19.903,23 | 9.950,12 |
+| Rijnwoude | 111.351,84 | 55.667,57 |
+| Rijssen-Holten | 119.742,48 | 59.862,26 |
+| Rijswijk | –1.485.470,07 | –742.623,63 |
+| Roerdalen (voor herindeling) | –56.224,62 |   |
+| Roerdalen (na herindeling) |   | –22.152,97 |
+| Roermond (voor herindeling) | 106.504,82 |   |
+| Roermond (na herindeling) |   | 30.897,68 |
+| Roggel en Neer | 51.108,20 |   |
+| Roosendaal | –590.867,35 | –295.389,36 |
+| Rotterdam | –1.417.652,47 | –708.719,92 |
+| Rozenburg | 76.302,33 | 38.145,44 |
+| Rozendaal | –29.101,23 | –14.548,43 |
+| Rucphen | 146.843,31 | 73.410,64 |
+| Schagen | –4.806,53 | –2.402,90 |
+| Scheemda | –96.553,03 | –48.269,27 |
+| Schermer | –38.690,15 | –19.342,17 |
+| Scherpenzeel | 116.729,78 | 58.356,14 |
+| Schiedam | –1.276.010,14 | –637.909,37 |
+| Schiermonnikoog | 19.429,38 | 9.713,23 |
+| Schijndel | 199.657,85 | 99.813,95 |
+| Schinnen | 6.619,46 | 3.309,23 |
+| Schoonhoven | –262.882,09 | –131.421,33 |
+| Schouwen-Duiveland | 53.459,63 | 26.725,81 |
+| Sevenum | 68.663,94 | 34.326,82 |
+| ’s-Gravendeel | 1.239,20 |   |
+| ’s-Gravenhage | –923.483,19 | –461.672,33 |
+| ’s-Hertogenbosch | 768.270,08 | 384.077,42 |
+| Simpelveld | 17.572,74 | 8.785,05 |
+| Sint-Anthonis | –73.568,36 | –36.778,66 |
+| Sint-Michielsgestel | 51.595,74 | 25.794,00 |
+| Sint-Oedenrode | 155.050,10 | 77.513,42 |
+| Sittard-Geleen | –218.500,29 | –109.233,76 |
+| Skarsterlan | 180.396,70 | 90.184,82 |
+| Sliedrecht | –92.852,62 | –46.419,34 |
+| Slochteren | 30.420,81 | 15.208,13 |
+| Sluis | –88.333,41 | –44.160,08 |
+| Smallingerland | –165.988,69 | –82.981,90 |
+| Sneek | –239.332,01 | –119.648,06 |
+| Soest | 68.394,02 | 34.191,88 |
+| Someren | –11.677,63 | –5.837,94 |
+| Son en Breugel | 39.731,98 | 19.863,01 |
+| Spijkenisse | –871.168,44 | –435.518,88 |
+| Stadskanaal | –227.072,83 | –113.519,39 |
+| Staphorst | 185.472,27 | 92.722,22 |
+| Stede Broec | –268,03 | –134,00 |
+| Steenbergen | 96.346,79 | 48.166,17 |
+| Steenwijkerland | 95.834,90 | 47.910,26 |
+| Stein | 80.422,50 | 40.205,22 |
+| Strijen | 42.406,64 | 21.200,14 |
+| Swalmen | –44.700,18 |   |
+| Ten Boer | 30.891,16 | 15.443,26 |
+| Ter Aar | 8.962,12 |   |
+| Terneuzen | 23.585,63 | 11.791,05 |
+| Terschelling | 93.454,46 | 46.720,22 |
+| Teylingen | 112.306,86 | 56.145,01 |
+| Texel | 60.461,95 | 30.226,44 |
+| Tholen | –17.832,25 | –8.914,79 |
+| Thorn | –8.822,32 |   |
+| Tiel | –127.748,07 | –63.864,45 |
+| Tilburg | 1.345.762,50 | 672.780,32 |
+| Tubbergen | 125.059,09 | 62.520,17 |
+| Twenterand | 219.161,79 | 109.564,46 |
+| Tynaarlo | 259.540,93 | 129.751,00 |
+| Tytsjerksteradiel | 228.779,48 | 114.372,58 |
+| Ubbergen | –75.309,14 | –37.648,92 |
+| Uden | 224.506,99 | 112.236,66 |
+| Uitgeest | 12.467,66 | 6.232,89 |
+| Uithoorn | –87.307,13 | –43.647,02 |
+| Urk | 200.960,30 | 100.465,08 |
+| Utrecht | –167.205,85 | –83.590,39 |
+| Utrechtse Heuvelrug | –89.975,69 | –44.981,10 |
+| Vaals | –174.533,81 | –87.253,81 |
+| Valkenburg aan de Geul | –157.992,21 | –78.984,26 |
+| Valkenswaard | –118.951,88 | –59.467,02 |
+| Veendam | –97.182,82 | –48.584,12 |
+| Veenendaal | –222.076,62 | –111.021,65 |
+| Veere | 185.522,24 | 92.747,21 |
+| Veghel | 65.567,43 | 32.778,80 |
+| Veldhoven | 272.836,47 | 136.397,77 |
+| Velsen | –416.646,19 | –208.291,85 |
+| Venlo | –32.897,14 | –16.446,10 |
+| Venray | 14.604,29 | 7.301,05 |
+| Vianen | –13.299,44 | –6.648,72 |
+| Vlaardingen | –1.784.768,02 | –892.250,16 |
+| Vlagtwedde | 90.574,51 | 45.280,46 |
+| Vlieland | 12.842,84 | 6.420,46 |
+| Vlissingen | –120.926,99 | –60.454,42 |
+| Vlist | 37.540,20 | 18.767,29 |
+| Voerendaal | 45.507,39 | 22.750,28 |
+| Voorschoten | 9.354,85 | 4.676,73 |
+| Voorst | 21.007,60 | 10.502,22 |
+| Vught | 199.669,26 | 99.819,65 |
+| Waalre | 37.802,07 | 18.898,20 |
+| Waalwijk | 376.621,78 | 188.282,65 |
+| Waddinxveen | 103.396,39 | 51.690,44 |
+| Wageningen | 583.816,20 | 291.864,31 |
+| Wassenaar | –360.057,86 | –180.001,93 |
+| Waterland | 139.568,88 | 69.773,97 |
+| Weert | –170.201,62 | –85.088,04 |
+| Weesp | –226.830,21 | –113.398,10 |
+| Werkendam | 86.300,62 | 43.143,84 |
+| Wervershoof | 82.396,91 | 41.192,27 |
+| West Maas en Waal | 80.521,19 | 40.254,56 |
+| Wester-Koggenland | 74.767,12 |   |
+| Westerveld | 201,18 | 100,58 |
+| Westervoort | –32.683,26 | –16.339,18 |
+| Westland | 406.811,48 | 203.375,23 |
+| Weststellingwerf | –98.396,45 | –49.190,84 |
+| Westvoorne | 102.027,13 | 51.005,91 |
+| Wierden | 327.636,78 | 163.793,82 |
+| Wieringen | 65.107,21 | 32.548,72 |
+| Wieringermeer | 4.713,63 | 2.356,46 |
+| Wijchen | 443.604,91 | 221.769,19 |
+| Wijdemeren | 47.687,38 | 23.840,11 |
+| Wijk bij Duurstede | 198.673,40 | 99.321,80 |
+| Winschoten | –178.917,59 | –89.445,38 |
+| Winsum | –20.100,68 | –10.048,83 |
+| Winterswijk | 41.692,52 | 20.843,13 |
+| Woensdrecht | 74.749,88 | 37.369,33 |
+| Woerden | 14.122,29 | 7.060,08 |
+| Wognum | 49.062,06 |   |
+| Wormerland | 78.136,33 | 39.062,31 |
+| Woudenberg | 123.763,38 | 61.872,41 |
+| Woudrichem | 120.764,32 | 60.373,10 |
+| Wunseradiel | 94.088,42 | 47.037,15 |
+| Wymbritseradiel | 76.550,76 | 38.269,64 |
+| Zaanstad | –117.972,07 | –58.977,19 |
+| Zaltbommel | –13.232,69 | –6.615,35 |
+| Zandvoort | –195.157,74 | –97.564,23 |
+| Zederik | 33.393,18 | 16.694,09 |
+| Zeevang | 3.630,62 | 1.815,04 |
+| Zeewolde | –15.550,97 | –7.774,32 |
+| Zeist | 94.808,33 | 47.397,06 |
+| Zevenaar | –27.373,25 | –13.684,57 |
+| Zevenhuizen-Moerkapelle | –4.401,55 | –2.200,44 |
+| Zijpe | 78.239,38 | 39.113,82 |
+| Zoetermeer | –1.199.975,05 | –599.897,53 |
+| Zoeterwoude | 20.494,63 | 10.245,78 |
+| Zuidhorn | –14.579,20 | –7.288,50 |
+| Zundert | –48.741,45 | –24.367,07 |
+| Zutphen | –128.729,63 | –64.355,16 |
+| Zwartewaterland | 182.229,73 | 91.101,20 |
+| Zwijndrecht | –317.023,90 | –158.488,18 |
+| Zwolle | 55.070,49 | 27.531,11 |
+
+1) Het betreft de gemeentenamen naar de stand op 1 januari 2007.
+
 ## Bijlage 2
 
-Dit onderdeel is nog niet inwerking getreden
-
-## Bijlage 3
-
-Dit onderdeel is nog niet inwerking getreden
+| Gemeente | Suppletie 2008 | Suppletie 2009 |
+| --- | --- | --- |
+| Aa en Hunze | 230.547 | 115.274 |
+| Aalburg | –199.384 | –99.692 |
+| Aalsmeer | –550.595 | –275.298 |
+| Aalten | 749.572 | 374.786 |
+| Abcoude | –103.981 | –51.990 |
+| Achtkarspelen | 36.343 | 18.171 |
+| Alblasserdam | –238.710 | –119.355 |
+| Albrandswaard | –283.725 | –141.862 |
+| Alkemade | –153.701 | –76.850 |
+| Alkmaar | –694.034 | –347.017 |
+| Almelo | 1.029.888 | 514.944 |
+| Almere | –2.091.114 | –1.045.557 |
+| Alphen aan den Rijn | –557.282 | –278.641 |
+| Alphen-Chaam | –187.004 | –93.502 |
+| Ameland | –69.929 | –34.965 |
+| Amersfoort | 1.122.466 | 561.233 |
+| Amstelveen | –2.108.464 | –1.054.232 |
+| Amsterdam | 6.595.117 | 3.297.559 |
+| Andijk | –101.174 | –50.587 |
+| Anna Paulowna | 190.731 | 95.365 |
+| Apeldoorn | 1.146.242 | 573.121 |
+| Appingedam | –355.115 | –177.557 |
+| Arcen en Velden | 15.950 | 7.975 |
+| Arnhem | –115.389 | –57.694 |
+| Assen | –107.450 | –53.725 |
+| Asten | –117.845 | –58.922 |
+| Baarle-Nassau | –96.948 | –48.474 |
+| Baarn | –179.098 | –89.549 |
+| Barendrecht | –80.055 | –40.027 |
+| Barneveld | –16.008 | –8.004 |
+| Bedum | –148.304 | –74.152 |
+| Beek | 192.829 | 96.415 |
+| Beemster | –233.112 | –116.556 |
+| Beesel | 200.999 | 100.499 |
+| Bellingwedde | 6.404 | 3.202 |
+| Bennebroek | –200.486 | –100.243 |
+| Bergambacht | –94.269 | –47.135 |
+| Bergeijk | –106.727 | –53.363 |
+| Bergen L | –333.249 | –166.625 |
+| Bergen NH | –628.058 | –314.029 |
+| Bergen op Zoom | 1.419.192 | 709.596 |
+| Berkelland | 1.174.248 | 587.124 |
+| Bernheze | 121.003 | 60.502 |
+| Bernisse | –126.516 | –63.258 |
+| Best | –167.174 | –83.587 |
+| Beuningen | –224.885 | –112.443 |
+| Beverwijk | –403.288 | –201.644 |
+| Binnenmaas | –308.811 | –154.406 |
+| Bladel | –249.730 | –124.865 |
+| Blaricum | –176.617 | –88.309 |
+| Bloemendaal | –411.218 | –205.609 |
+| Boarnsterhim | –534.506 | –267.253 |
+| Bodegraven | 14.373 | 7.187 |
+| Boekel | 29.952 | 14.976 |
+| Bolsward | –224.610 | –112.305 |
+| Borger-Odoorn | 407.181 | 203.591 |
+| Borne | –39.407 | –19.703 |
+| Borsele | –182.568 | –91.284 |
+| Boskoop | 20.075 | 10.037 |
+| Boxmeer | –241.348 | –120.674 |
+| Boxtel | –71.923 | –35.961 |
+| Breda | 448.864 | 224.432 |
+| Breukelen | –310.914 | –155.457 |
+| Brielle | –66.351 | –33.176 |
+| Bronckhorst | 942.727 | 471.364 |
+| Brummen | 198.499 | 99.249 |
+| Brunssum | 159.840 | 79.920 |
+| Bunnik | –211.295 | –105.647 |
+| Bunschoten | 168.303 | 84.151 |
+| Buren | 302.230 | 151.115 |
+| Bussum | –583.840 | –291.920 |
+| Capelle aan den IJssel | –1.184.728 | –592.364 |
+| Castricum | –526.074 | –263.037 |
+| Coevorden | 697.713 | 348.857 |
+| Cranendonck | –306.207 | –153.104 |
+| Cromstrijen | 3.091 | 1.546 |
+| Cuijk | –329.044 | –164.522 |
+| Culemborg | –182.263 | –91.132 |
+| Dalfsen | –110.583 | –55.291 |
+| Dantumadeel | –104.942 | –52.471 |
+| De Bilt | –1.058.371 | –529.185 |
+| De Marne | –552.158 | –276.079 |
+| De Ronde Venen | –277.161 | –138.581 |
+| De Wolden | 99.402 | 49.701 |
+| Delft | –176.142 | –88.071 |
+| Delfzijl | –838.369 | –419.185 |
+| Den Helder | 122.496 | 61.248 |
+| Deurne | –93.237 | –46.619 |
+| Deventer | –171.777 | –85.888 |
+| Diemen | –674.909 | –337.454 |
+| Dinkelland | 400.557 | 200.279 |
+| Dirksland | 15.238 | 7.619 |
+| Doesburg | 204.475 | 102.237 |
+| Doetinchem | 1.336.262 | 668.131 |
+| Dongen | –77.978 | –38.989 |
+| Dongeradeel | –462.176 | –231.088 |
+| Dordrecht | –198.566 | –99.283 |
+| Drechterland | –55.612 | –27.806 |
+| Drimmelen | –255.572 | –127.786 |
+| Dronten | 238.122 | 119.061 |
+| Druten | –182.578 | –91.289 |
+| Duiven | –7.871 | –3.936 |
+| Echt-Susteren | 639.729 | 319.865 |
+| Edam-Volendam | –208.145 | –104.073 |
+| Ede | 1.086.264 | 543.132 |
+| Eemnes | –74.010 | –37.005 |
+| Eemsmond | –51.780 | –25.890 |
+| Eersel | –252.728 | –126.364 |
+| Eijsden | 46.112 | 23.056 |
+| Eindhoven | –3.714.138 | –1.857.069 |
+| Elburg | –23.070 | –11.535 |
+| Emmen | 3.692.863 | 2.488.607 |
+| Enkhuizen | 161.190 | 80.595 |
+| Enschede | 831.517 | 415.758 |
+| Epe | 254.192 | 127.096 |
+| Ermelo | 193.841 | 96.921 |
+| Etten-Leur | 28.521 | 14.261 |
+| Ferwerderadiel | –237.107 | –118.554 |
+| Franekeradeel | –286.160 | –143.080 |
+| Gaasterlan-Sleat | –66.099 | –33.049 |
+| Geertruidenberg | –232.615 | –116.307 |
+| Geldermalsen | 68.450 | 34.225 |
+| Geldrop-Mierlo | –244.210 | –122.105 |
+| Gemert-Bakel | –188.089 | –94.044 |
+| Gennep | –182.995 | –91.497 |
+| Giessenlanden | –23.076 | –11.538 |
+| Gilze en Rijen | –48.459 | –24.230 |
+| Goedereede | 287.229 | 143.614 |
+| Goes | 695.106 | 347.553 |
+| Goirle | –257.203 | –128.601 |
+| Gorinchem | –682.358 | –341.179 |
+| Gouda | –127.474 | –63.737 |
+| Graafstroom | –82.665 | –41.332 |
+| Graft-De Rijp | –138.519 | –69.260 |
+| Grave | –112.746 | –56.373 |
+| Groesbeek | –296.612 | –148.306 |
+| Groningen | 2.344.440 | 1.172.220 |
+| Grootegast | –94.766 | –47.383 |
+| Gulpen-Wittem | 27.487 | 13.744 |
+| Haaksbergen | –5.651 | –2.825 |
+| Haaren | –10.087 | –5.043 |
+| Haarlem | –2.186.129 | –1.093.065 |
+| Haarlemmerliede Spaarnw | –220.970 | –110.485 |
+| Haarlemmermeer | –2.305.564 | –1.152.782 |
+| Halderberge | 142.097 | 71.049 |
+| Hardenberg | –121.764 | –60.882 |
+| Harderwijk | 798.777 | 399.389 |
+| Hardinxveld-Giessendam | –95.084 | –47.542 |
+| Haren | –179.530 | –89.765 |
+| Harenkarspel | –33.441 | –16.721 |
+| Harlingen | –66.687 | –33.344 |
+| Hattem | 52.278 | 26.139 |
+| Heemskerk | –857.545 | –428.773 |
+| Heemstede | –938.836 | –469.418 |
+| Heerde | 12.576 | 6.288 |
+| Heerenveen | –853.064 | –426.532 |
+| Heerhugowaard | –105.577 | –52.789 |
+| Heerlen | –1.029.863 | –514.932 |
+| Heeze-Leende | –211.516 | –105.758 |
+| Heiloo | –198.401 | –99.200 |
+| Helden | –65.161 | –32.581 |
+| Hellendoorn | 1.166.122 | 703.415 |
+| Hellevoetsluis | –6.896 | –3.448 |
+| Helmond | 319.069 | 159.535 |
+| Hendrik-Ido-Ambacht | 1.275.295 | 1.603.040 |
+| Hengelo O | 249.340 | 124.670 |
+| Het Bildt | –248.537 | –124.269 |
+| Heumen | 45.050 | 22.525 |
+| Heusden | 53.445 | 26.722 |
+| Hillegom | –438.013 | –219.007 |
+| Hilvarenbeek | –108.186 | –54.093 |
+| Hilversum | –1.359.230 | –679.615 |
+| Hof van Twente | –216.687 | –108.344 |
+| Hoogeveen | 1.164.636 | 582.318 |
+| Hoogezand-Sappemeer | –40.855 | –20.427 |
+| Hoorn | 753.792 | 376.896 |
+| Horst aan de Maas | –240.717 | –120.359 |
+| Houten | –20.525 | –10.262 |
+| Huizen | –384.013 | –192.007 |
+| Hulst | 744.525 | 372.263 |
+| IJsselstein | –344.170 | –172.085 |
+| Jacobswoude | –135.480 | –67.740 |
+| Kampen | 559.478 | 279.739 |
+| Kapelle | 159.490 | 79.745 |
+| Katwijk | 3.254 | 1.627 |
+| Kerkrade | 127.013 | 63.507 |
+| Kessel | –32.220 | –16.110 |
+| Koggenland | 99.218 | 49.609 |
+| Kollumerland en Nwkruisl | –288.422 | –144.211 |
+| Korendijk | –136.721 | –68.360 |
+| Krimpen aan den IJssel | –378.803 | –189.401 |
+| Laarbeek | –189.864 | –94.932 |
+| Landerd | 12.870 | 6.435 |
+| Landgraaf | –114.198 | –57.099 |
+| Landsmeer | –60.868 | –30.434 |
+| Langedijk | 17.340 | 8.670 |
+| Lansingerland | –360.232 | –180.116 |
+| Laren | –457.944 | –228.972 |
+| Leek | –127.165 | –63.582 |
+| Leerdam | –68.543 | –34.271 |
+| Leeuwarden | –548.469 | –274.235 |
+| Leeuwarderadeel | 82.537 | 41.269 |
+| Leiden | 1.096.540 | 548.270 |
+| Leiderdorp | –21.954 | –10.977 |
+| Leidschendam-Voorburg | –2.541.630 | –1.270.815 |
+| Lelystad | 1.126.130 | 563.065 |
+| Lemsterland | –202.819 | –101.410 |
+| Leudal | –276.812 | –138.406 |
+| Leusden | –22.833 | –11.416 |
+| Liesveld | –109.482 | –54.741 |
+| Lingewaal | –89.959 | –44.979 |
+| Lingewaard | 131.899 | 65.950 |
+| Lisse | –436.831 | –218.415 |
+| Lith | 2.867 | 1.433 |
+| Littenseradiel | –206.928 | –103.464 |
+| Lochem | 516.028 | 258.014 |
+| Loenen | –167.653 | –83.827 |
+| Loon op Zand | 12.200 | 6.100 |
+| Lopik | –200.811 | –100.406 |
+| Loppersum | –96.988 | –48.494 |
+| Losser | 293.422 | 146.711 |
+| Maarssen | –126.784 | –63.392 |
+| Maasbree | 22.475 | 11.237 |
+| Maasdonk | –32.080 | –16.040 |
+| Maasdriel | –41.962 | –20.981 |
+| Maasgouw | 66.990 | 33.495 |
+| Maassluis | –237.432 | –118.716 |
+| Maastricht | 1.477.052 | 738.526 |
+| Margraten | –46.057 | –23.028 |
+| Marum | –40.105 | –20.052 |
+| Medemblik | –8.401 | –4.201 |
+| Meerlo-Wanssum | –2.868 | –1.434 |
+| Meerssen | 120.297 | 60.148 |
+| Meijel | –68.928 | –34.464 |
+| Menaldumadeel | –190.851 | –95.425 |
+| Menterwolde | –168.889 | –84.445 |
+| Meppel | 1.147.789 | 915.674 |
+| Middelburg | 363.096 | 181.548 |
+| Middelharnis | –116.229 | –58.115 |
+| Midden Drenthe | 716.580 | 358.290 |
+| Midden-Delfland | 55.247 | 27.623 |
+| Mill en Sint Hubert | –41.009 | –20.505 |
+| Millingen aan de Rijn | –49.609 | –24.805 |
+| Moerdijk | 719.192 | 359.596 |
+| Montferland | 797.644 | 398.822 |
+| Montfoort U | 31.867 | 15.934 |
+| Mook en Middelaar | –119.625 | –59.813 |
+| Moordrecht | –89.686 | –44.843 |
+| Muiden | –111.426 | –55.713 |
+| Naarden | –128.044 | –64.022 |
+| Neder-Betuwe | –160.963 | –80.481 |
+| Nederlek | –219.968 | –109.984 |
+| Nederweert | –119.396 | –59.698 |
+| Neerijnen | –77.586 | –38.793 |
+| Niedorp | 61.222 | 30.611 |
+| Nieuwegein | –437.290 | –218.645 |
+| Nieuwerkerk a/d IJssel | –166.006 | –83.003 |
+| Nieuwkoop | –569.801 | –284.901 |
+| Nieuw-Lekkerland | –18.428 | –9.214 |
+| Nijefurd | –207.480 | –103.740 |
+| Nijkerk | 212.592 | 106.296 |
+| Nijmegen | 20.260 | 10.130 |
+| Noord-Beveland | –15.973 | –7.987 |
+| Noordenveld | 222.128 | 111.064 |
+| Noordoostpolder | –63.475 | –31.738 |
+| Noordwijk | –155.213 | –77.606 |
+| Noordwijkerhout | –214.003 | –107.002 |
+| Nuenen c.a. | –83.080 | –41.540 |
+| Nunspeet | 147.014 | 73.507 |
+| Nuth | –91.650 | –45.825 |
+| Oegstgeest | –391.185 | –195.592 |
+| Oirschot | –34.968 | –17.484 |
+| Oisterwijk | –400.403 | –200.201 |
+| Oldebroek | 397.650 | 198.825 |
+| Oldenzaal | 233.193 | 116.596 |
+| Olst-Wijhe | –26.536 | –13.268 |
+| Ommen | –3.719 | –1.860 |
+| Onderbanken | 2.777 | 1.388 |
+| Oost Gelre | 1.067.698 | 780.377 |
+| Oosterhout | –69.761 | –34.880 |
+| Oostflakkee | –81.042 | –40.521 |
+| Ooststellingwerf | –556.748 | –278.374 |
+| Oostzaan | –92.333 | –46.166 |
+| Opmeer | 23.675 | 11.838 |
+| Opsterland | –98.355 | –49.178 |
+| Oss | –506.312 | –253.156 |
+| Oud-Beijerland | –137.775 | –68.888 |
+| Oude IJsselstreek | 902.644 | 451.322 |
+| Ouder-Amstel | –472.936 | –236.468 |
+| Ouderkerk | –135.779 | –67.890 |
+| Oudewater | –39.773 | –19.887 |
+| Overbetuwe | –38.653 | –19.327 |
+| Papendrecht | –338.963 | –169.481 |
+| Pekela | 27.637 | 13.818 |
+| Pijnacker-Nootdorp | –167.816 | –83.908 |
+| Purmerend | –213.440 | –106.720 |
+| Putten | 120.783 | 60.392 |
+| Raalte | –177.067 | –88.533 |
+| Reeuwijk | –22.492 | –11.246 |
+| Reiderland | 61.740 | 30.870 |
+| Reimerswaal | 45.884 | 22.942 |
+| Renkum | –228.634 | –114.317 |
+| Renswoude | –30.746 | –15.373 |
+| Reusel-De Mierden | –1.749 | –875 |
+| Rheden | –1.202.404 | –601.202 |
+| Rhenen | –38.029 | –19.015 |
+| Ridderkerk | 287.993 | 143.997 |
+| Rijnwaarden | –97.012 | –48.506 |
+| Rijnwoude | –318.301 | –159.150 |
+| Rijssen-Holten | 609.768 | 304.884 |
+| Rijswijk | –2.130.835 | –1.065.418 |
+| Roerdalen | –113.270 | –56.635 |
+| Roermond | 19.261 | 9.631 |
+| Roosendaal | 159.153 | 79.577 |
+| Rotterdam | 5.838.086 | 2.919.043 |
+| Rozenburg | –166.655 | –83.328 |
+| Rozendaal | –65.704 | –32.852 |
+| Rucphen | 227.534 | 113.767 |
+| Schagen | –318.102 | –159.051 |
+| Scheemda | –84.218 | –42.109 |
+| Schermer | –13.271 | –6.635 |
+| Scherpenzeel | 31.849 | 15.924 |
+| Schiedam | –233.779 | –116.889 |
+| Schiermonnikoog | –337 | –169 |
+| Schijndel | 265.439 | 132.720 |
+| Schinnen | 350.758 | 175.379 |
+| Schoonhoven | –268.833 | –134.416 |
+| Schouwen-Duiveland | 395.046 | 197.523 |
+| Sevenum | –55.453 | –27.727 |
+| ’s-Gravenhage | 12.245.188 | 6.122.594 |
+| ’s-Hertogenbosch | –564.884 | –282.442 |
+| Simpelveld | –173.068 | –86.534 |
+| Sint-Anthonis | –7.289 | –3.645 |
+| Sint-Michielsgestel | –36.031 | –18.015 |
+| Sint-Oedenrode | 124.315 | 62.158 |
+| Sittard-Geleen | 2.023.929 | 1.011.964 |
+| Skarsterlan | –436.166 | –218.083 |
+| Sliedrecht | –448.372 | –224.186 |
+| Slochteren | –268.960 | –134.480 |
+| Sluis | 93.640 | 46.820 |
+| Smallingerland | –229.538 | –114.769 |
+| Sneek | –756.760 | –378.380 |
+| Soest | –653.086 | –326.543 |
+| Someren | –256.151 | –128.075 |
+| Son en Breugel | –367.168 | –183.584 |
+| Spijkenisse | –301.464 | –150.732 |
+| Stadskanaal | 37.684 | 18.842 |
+| Staphorst | –188.142 | –94.071 |
+| Stede Broec | 38.109 | 19.055 |
+| Steenbergen | 260.433 | 130.217 |
+| Steenwijkerland | 448.446 | 224.223 |
+| Stein | 431.437 | 215.718 |
+| Strijen | –86.273 | –43.137 |
+| Ten Boer | 870 | 435 |
+| Terneuzen | –67.847 | –33.924 |
+| Terschelling | –80.625 | –40.312 |
+| Texel | –8.559 | –4.280 |
+| Teylingen | –218.527 | –109.263 |
+| Tholen | 384.349 | 192.174 |
+| Tiel | 54.107 | 27.054 |
+| Tilburg | 692.016 | 346.008 |
+| Tubbergen | 286.245 | 143.122 |
+| Twenterand | 578.126 | 289.063 |
+| Tynaarlo | –68.496 | –34.248 |
+| Tytsjerksteradiel | 94.907 | 47.454 |
+| Ubbergen | –218.057 | –109.029 |
+| Uden | –54.285 | –27.142 |
+| Uitgeest | –115.820 | –57.910 |
+| Uithoorn | –746.777 | –373.389 |
+| Urk | 183.338 | 91.669 |
+| Utrecht | 3.876.147 | 1.938.074 |
+| Utrechtse Heuvelrug | –528.769 | –264.384 |
+| Vaals | –101.699 | –50.849 |
+| Valkenburg aan de Geul | –182.983 | –91.492 |
+| Valkenswaard | –475.641 | –237.820 |
+| Veendam | –495.286 | –247.643 |
+| Veenendaal | 72.127 | 36.064 |
+| Veere | –14.576 | –7.288 |
+| Veghel | 141.753 | 70.876 |
+| Veldhoven | –285.265 | –142.632 |
+| Velsen | –1.379.752 | –689.876 |
+| Venlo | 130.632 | 65.316 |
+| Venray | 193.800 | 96.900 |
+| Vianen | –140.555 | –70.277 |
+| Vlaardingen | –1.658.269 | –829.135 |
+| Vlagtwedde | –196.907 | –98.453 |
+| Vlieland | –47.960 | –23.980 |
+| Vlissingen | 203.321 | 101.661 |
+| Vlist | –185.391 | –92.695 |
+| Voerendaal | 40.604 | 20.302 |
+| Voorschoten | –315.125 | –157.563 |
+| Voorst | –20.583 | –10.291 |
+| Vught | –177.754 | –88.877 |
+| Waalre | –336.519 | –168.260 |
+| Waalwijk | –3.363 | –1.681 |
+| Waddinxveen | –204.022 | –102.011 |
+| Wageningen | 97.362 | 48.681 |
+| Wassenaar | –541.041 | –270.521 |
+| Waterland | –299.194 | –149.597 |
+| Weert | 92.249 | 46.124 |
+| Weesp | –441.972 | –220.986 |
+| Werkendam | –412.446 | –206.223 |
+| Wervershoof | –59.871 | –29.936 |
+| West Maas en Waal | 47.333 | 23.666 |
+| Westerveld | 252.138 | 126.069 |
+| Westervoort | 244.284 | 122.142 |
+| Westland | 329.541 | 164.770 |
+| Weststellingwerf | –505.686 | –252.843 |
+| Westvoorne | 235.903 | 117.951 |
+| Wierden | 337.908 | 168.954 |
+| Wieringen | –43.249 | –21.624 |
+| Wieringermeer | 52.771 | 26.386 |
+| Wijchen | –16.206 | –8.103 |
+| Wijdemeren | –317.148 | –158.574 |
+| Wijk bij Duurstede | –46.761 | –23.380 |
+| Winschoten | –85.708 | –42.854 |
+| Winsum | –279.703 | –139.852 |
+| Winterswijk | 512.245 | 256.123 |
+| Woensdrecht | 189.128 | 94.564 |
+| Woerden | –369.495 | –184.748 |
+| Wormerland | –221.594 | –110.797 |
+| Woudenberg | 205.470 | 102.735 |
+| Woudrichem | –257.463 | –128.732 |
+| Wunseradiel | –69.454 | –34.727 |
+| Wymbritseradiel | –217.506 | –108.753 |
+| Zaanstad | –1.889.931 | –944.966 |
+| Zaltbommel | –56.834 | –28.417 |
+| Zandvoort | –542.155 | –271.077 |
+| Zederik | 40.082 | 20.041 |
+| Zeevang | –67.059 | –33.530 |
+| Zeewolde | 203.007 | 101.503 |
+| Zeist | –921.273 | –460.636 |
+| Zevenaar | –27.298 | –13.649 |
+| Zevenhuizen-Moerkapelle | –197.270 | –98.635 |
+| Zijpe | –45.962 | –22.981 |
+| Zoetermeer | –211.303 | –105.651 |
+| Zoeterwoude | –230.157 | –115.078 |
+| Zuidhorn | –213.490 | –106.745 |
+| Zundert | –12.562 | –6.281 |
+| Zutphen | 982.263 | 491.131 |
+| Zwartewaterland | 341.229 | 170.614 |
+| Zwijndrecht | –334.557 | –167.278 |
+| Zwolle | 956.739 | 478.370 |
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 12 februari 2009, 2009-0000060762, DCB/CZW/WVOB, gedaan mede namens Onze Minister van Financiën;
 
