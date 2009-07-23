@@ -4,7 +4,7 @@ identifier: "BWBV0001755"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-12-31"
-last_updated: "2005-09-27"
+last_updated: "2009-07-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001755"
 soort: "verdrag"
@@ -35,13 +35,13 @@ entry_into_force: "2010-12-31"
 ---
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en Bangladesh inzake het project "Char Development and Settlement Project III (CDSP III)"
 
-The Netherlands Minister for Development Co-operation, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ‘‘the Netherlands Party’’, represented in this matter by the Ambassador of the Royal Netherlands Embassy in Dhaka,
+The Netherlands Minister for Development Co-operation, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as “the Netherlands Party”, represented in this matter by the Ambassador of the Embassy of the Kingdom of The Netherlands in Dhaka,
 
 and
 
-The Economic Relations Division of the Ministry of Finance, Government of the People’s Republic of Bangladesh, being the competent Bangladesh Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ‘‘the Bangladesh Party’’,
+The Economic Relations Division of the Ministry of Finance, Government of the People’s Republic of Bangladesh, being the competent Bangladesh Authority for the purpose of this Administrative Arrangement, hereinafter referred to as “the Bangladesh Party”,
 
-HAVING REGARD to the provisions of Article I of the Agreement on Technical Co-operation between the Kingdom of the Netherlands and the People’s Republic of Bangladesh signed at Dhaka on 19 May 1977, hereinafter referred to as ‘‘the Agreement’’,
+HAVING REGARD to the provisions of Article I of the Agreement on Technical Co-operation between the Kingdom of the Netherlands and the People’s Republic of Bangladesh signed at Dhaka on 19 May 1977, hereinafter referred to as “the Agreement”,
 
 HAVE ENTERED INTO THE FOLLOWING ADMINISTRATIVE ARRANGEMENT:
 
@@ -57,11 +57,11 @@ HAVE ENTERED INTO THE FOLLOWING ADMINISTRATIVE ARRANGEMENT:
 
 The Netherlands Party shall make the following (maximum) contributions to the Project:
 
-- –. BDT 787.473.028,– of Financial Assistance under a Contribution Arrangement;
+- –. BDT 922.000.000,– of Financial Assistance under a Contribution Arrangement;
 
 - –. BDT 131.214.380,– for an NGO component of the Project, through direct contracting by the Embassy;
 
-- –. Euro 3 million for Technical Assistance, through direct contracting by the Embassy;
+- –. EUR 2.685.341,- for Technical Assistance, through direct contracting by the Embassy;
 
 - –. Euro 100.000 for review mission(s) of the Project, to be contracted directly by the Embassy.
 
@@ -71,9 +71,9 @@ The Bangladesh Party shall make BDT 236.866.000,– available to the Project.
 
 ##### Article IV. (The Executive Authorities)
 
-1. The Netherlands Party shall appoint the Royal Netherlands Embassy as the Netherlands Executive Authority in charge of the Project.
+1. The Netherlands Party shall appoint the Embassy of the Kingdom of The Netherlands as the Netherlands Executive Authority in charge of the Project.
 
-The Netherlands Executive Authority shall be represented, as far as the daily operations of the Project are concerned, by the head of the Technical Assistance Team (being the Chief Technical Advisor or in his absence the Team Leader, hereinafter referred to as ‘‘CTA/TL’’).
+The Netherlands Executive Authority shall be represented, as far as the daily operations of the Project are concerned, by the head of the Technical Assistance Team (being the Chief Technical Advisor or in his absence the Team Leader, hereinafter referred to as “CTA/TL”).
 
 2. The Bangladesh Party shall appoint the Ministry of Water Resources as the Bangladesh Executive Authority in charge of the Project.
 
@@ -147,7 +147,7 @@ K. BEEMSTERBOER
 
 Ambassador
 
-Royal Netherlands Embassy
+Embassy of the Kingdom of The Netherlands
 
 Dhaka
 
