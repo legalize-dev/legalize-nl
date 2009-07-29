@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-07-26"
+last_updated: "2009-07-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -74,6 +74,7 @@ Besluit:
 | 2.7 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatievouchers) | [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.7) |   |   |   |
 | 2.8 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (pilot private innovatievouchers) | [5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.2) | Aantal beschikbare grote innovatievouchers | 11-05 t/m 01-07 | 250 stuks |
 | 2.9 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (pilot private innovatievouchers) | [5a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.3) | Aantal beschikbare kleine innovatievouchers | 11-05 t/m 01-07 | 250 stuks |
+| 2.10 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatie voor maatschappelijke veiligheid) | [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=6.2) |   | 29/07 t/m 11/09 | € 1.500.000 |
 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) |
 | 3.1 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationaal innoveren) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten | 01-01 t/m 06-03 15-06 t/m 03-07 | 5.000.000 4.000.000 |
 | 3.2 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationaal innoveren) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Opkomende markten innovatieprojecten | 01-01 t/m 06-03 15-06 t/m 03-07 | 2.800.000 3.200.000 |
@@ -111,8 +112,9 @@ Besluit:
 | 3.13 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Maritieme MKB-projecten) | [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=8.2) |   | 01-03 t/m 30-10 | 600.000 |
 | 3.14 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Maritieme innovatieprojecten) | [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=8.8) |   | 01-03 t/m 02-06 | 4.000.000 |
 | 3.15 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Point One MKB-projecten) | [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.2) |   | 01-04 t/m 16-10 | € 1.000.000 |
-| 3.16 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) (Point One R&D-projecten) | 9.8 |   | 02-03 t/m 11-05 | € 7.000.000 |
-| 3.17 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationale Point One R&D-projecten) | [9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.17) |   | 02-03 t/m 13-03 | € 39.000.000 |
+| 3.16 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Point One R&D-projecten) | [9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.8) |   | 02-03 t/m 11-05 29-07 t/m 18-09 | 7.000.000 7.000.000 |
+| 3.17 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationale Point One R&D-projecten) | [9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.17) |   | 02-03 t/m 13-03 | 71.550.000 |
+| 3.17a | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Point One University-Industry Interaction projecten) | [9.25](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.25) |   | 29-07 t/m 01-10 | 3.000.000 |
 | 3.18 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Polymeren haalbaarheidsprojecten) | [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10.2) |   | 01-04 t/m 01-10 | € 400.000 |
 | 3.19 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Polymeren MKB-innovatieprojecten) | [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10.8) |   | 01-04 t/m 01-10 | € 900.000 |
 | 3.20 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Polymeren innovatieprojecten) | [10.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10.15) |   | 15-05 t/m 01-10 | 900.000 |
@@ -132,7 +134,7 @@ Besluit:
 | 7 | [Besluit subsidies Topprojecten herstructurering bedrijventerreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0017584) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017584&artikel=2) |   |   |   |
 | 8 | [Subsidieregeling prepare2start](https://wetten.overheid.nl/jci1.3:c:BWBR0024955) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024955&artikel=2) |   | 01-01 t/m 31-12 | 9.900.000 |
 | 9 | [Subsidieregeling programma internationalisering beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024807) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024807&artikel=2) |   | 01-11-2008 t/m 06-05-2009 | 750.000 |
-| 10 | [Tijdelijke subsidieregeling opkomende markten](https://wetten.overheid.nl/jci1.3:c:BWBR0024665) | 2 |   | 16-02 t/m 31-08 | 5.000.000 |
+| 10 | [Tijdelijke subsidieregeling opkomende markten](https://wetten.overheid.nl/jci1.3:c:BWBR0024665) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024665&artikel=2) |   | 16-02 t/m 31-08 | 5.000.000 |
 | 11.1 | [Besluit EOS: lange termijn](https://wetten.overheid.nl/jci1.3:c:BWBR0017234) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017234&artikel=2) | Projecten als bedoeld in [artikel 2, eerste lid, van de Regeling EOS lange termijn en EOS demo tender 2008-I](https://wetten.overheid.nl/jci1.3:c:BWBR0022721&artikel=2) | Tijdstip van inwerkingtreding van deze regeling t/m 05-03 | 10.000.000 |
 | 11.2 | [Besluit EOS: lange termijn](https://wetten.overheid.nl/jci1.3:c:BWBR0017234) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017234&artikel=2) | Projecten als bedoeld in [artikel 2, tweede en derde lid, van de Regeling EOS lange termijn en EOS demo tender 2008-I](https://wetten.overheid.nl/jci1.3:c:BWBR0022721&artikel=2) |   |   |
 | 11.3 | [Besluit EOS: lange termijn](https://wetten.overheid.nl/jci1.3:c:BWBR0017234) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017234&artikel=2) | Haalbaarheidsstudies voor het EOS-NEO-programma | 01-01 t/m 15-10 | 500.000 |
