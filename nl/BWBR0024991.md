@@ -4,7 +4,7 @@ identifier: "BWBR0024991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2009-06-01"
+last_updated: "2009-07-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024991"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=2&artikel=2&z=2009-05-28&g=2009-06-01);
+- a. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=2&artikel=2&z=2009-07-29&g=2009-07-29);
 
 - b. **directeur:** een functionaris die leiding geeft aan een directie.
 
@@ -82,7 +82,7 @@ Onder de secretaris-generaal ressorteren:
 
 - e. de personeelsaangelegenheden van de onder elk van hen ressorterende functionarissen, met inbegrip van de uitvoering van het arbeidsomstandigheden- en ziekteverzuimbeleid, voor zover dit niet is voorbehouden aan de secretaris-generaal;
 
-- f. het zorgdragen voor de administratieve en financiële afhandeling van de uitvoering van de eigen personeelsaangelegenheden, voor zover deze niet is opgedragen aan anderen zoals de directie Personeel, Organisatie en Informatie, de directie Gemeenschappelijke Organisatie Bedrijfsvoering en de Stichting Pensioenfonds ABP;
+- f. het zorgdragen voor de administratieve en financiële afhandeling van de uitvoering van de eigen personeelsaangelegenheden, voor zover deze niet is opgedragen aan anderen zoals de directie Bedrijfsvoering en de Stichting Pensioenfonds ABP;
 
 - g. het op orde hebben van de administratieve organisatie en informatiebeveiliging;
 
@@ -96,7 +96,7 @@ Onder de secretaris-generaal ressorteren:
 
 - l. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1) voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen;
 
-- m. het dynamisch archiefbeheer van zijn directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie, vernietiging en overdracht aan de directie Gemeenschappelijke Organisatie Bedrijfsvoering, alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;
+- m. het dynamisch archiefbeheer van zijn directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie, vernietiging en overdracht aan de directie Bedrijfsvoering, alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;
 
 - n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019767) en de [Regeling materieelbeheer museale voorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0020583).
 
@@ -156,7 +156,7 @@ De directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden is verantwoord
 
 - d. het adviseren over en behandelen van bestuurlijke aangelegenheden op het terrein van het ministerie;
 
-- e. het adviseren over en behandelen van juridische vraagstukken op het terrein van het ministerie, waaronder aangelegenheden met betrekking tot de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), bezwaar- en beroepszaken, voor zover deze niet onder de verantwoordelijkheid van de directie Personeel, Organisatie en Informatie, de Inspectie Werk en Inkomen en het Expertisecentrum arbeidsjuridisch van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties vallen en met uitzondering van het nemen van de beslissing op een bezwaar- en beroepschrift;
+- e. het adviseren over en behandelen van juridische vraagstukken op het terrein van het ministerie, waaronder aangelegenheden met betrekking tot de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), bezwaar- en beroepszaken, voor zover deze niet onder de verantwoordelijkheid van de directie Bedrijfsvoering, de Inspectie Werk en Inkomen en het Expertisecentrum arbeidsjuridisch van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties vallen en met uitzondering van het nemen van de beslissing op een bezwaar- en beroepschrift;
 
 - f. het bijdragen aan de totstandkoming en implementatie van internationale verdragen respectievelijk regelingen, het toetsen van nationale (ontwerp)regelgeving aan het internationale recht en het behandelen van internationale procedures.
 
@@ -164,11 +164,11 @@ De directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden is verantwoord
 
 ##### Artikel 9
 
-1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal, dan wel ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=4&artikel=10&z=2009-05-28&g=2009-06-01) onder de bevoegdheid van een andere directeur vallen.
+1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal, dan wel ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=4&artikel=10&z=2009-07-29&g=2009-07-29) onder de bevoegdheid van een andere directeur vallen.
 
 2. Aan elke directeur wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2009-05-28&g=2009-06-01), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2009-07-29&g=2009-07-29), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
 
@@ -226,7 +226,7 @@ De directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden is verantwoord
 
 ##### Artikel 12
 
-Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2009-05-28&g=2009-06-01), en [11 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=5&artikel=11&z=2009-05-28&g=2009-06-01):
+Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2009-07-29&g=2009-07-29), en [11 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=5&artikel=11&z=2009-07-29&g=2009-07-29):
 
 - a. het [Organisatie-, mandaat- en volmachtbesluit BSG SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016367);
 
