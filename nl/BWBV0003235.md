@@ -4,7 +4,7 @@ identifier: "BWBV0003235"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-08-01"
-last_updated: "2007-05-24"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003235"
 soort: "verdrag"
@@ -122,7 +122,7 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 - g. de opbrengst van de verkoop of liquidatie van de investering;
 
-- h. betalingen uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003235&artikel=7&z=2007-05-24&g=2007-05-24).
+- h. betalingen uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003235&artikel=7&z=2009-08-01&g=2009-08-01).
 
 ##### Artikel 6. Onteigening en schadeloosstelling
 
@@ -188,7 +188,7 @@ Elke Verdragsluitende Partij kan aan de andere Partij voorstellen overleg te ple
 
 ##### Artikel 12. Territoriale toepassing
 
-Wat betreft het Koninkrijk der Nederlanden, bestaande uit het deel van het Koninkrijk dat in Europa is gelegen, de Nederlandse Antillen en Aruba, is dit Verdrag van toepassing op alle delen van het Koninkrijk der Nederlanden, tenzij anders is bepaald in de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003235&artikel=13&z=2007-05-24&g=2007-05-24), bedoelde mededeling.
+Wat betreft het Koninkrijk der Nederlanden, bestaande uit het deel van het Koninkrijk dat in Europa is gelegen, de Nederlandse Antillen en Aruba, is dit Verdrag van toepassing op alle delen van het Koninkrijk der Nederlanden, tenzij anders is bepaald in de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003235&artikel=13&z=2009-08-01&g=2009-08-01), bedoelde mededeling.
 
 ##### Artikel 13. Inwerkingtreding
 
