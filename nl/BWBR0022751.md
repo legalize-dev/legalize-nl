@@ -4,7 +4,7 @@ identifier: "BWBR0022751"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022751"
 soort: "wet"
@@ -74,21 +74,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - e. indien de ouder aanspraak heeft voor meer dan vier kinderen: € 1611,–, verhoogd met zoveel maal € 51,– als het aantal kinderen meer bedraagt dan vier.
 
-3. Bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van meer dan € 29914,– wordt het bedrag waarop recht bestaat op grond van het tweede lid verminderd met 6,5% van het verschil tussen het gezamenlijke toetsingsinkomen en € 29914,–.
+3. Een ouder heeft aanspraak op een verhoging van het kindgebonden budget in een berekeningsjaar voor een kind met ingang van de kalendermaand na de maand waarin dat kind de leeftijd van 12 jaar heeft bereikt.
 
-4. Een ouder als bedoeld in het eerste lid en zijn partner die tevens ouder is als bedoeld in het eerste lid worden voor de toepassing van deze wet geacht gezamenlijk één aanspraak te hebben.
+4. Voor een kind dat 12 jaar of ouder is, maar jonger is dan 16 jaar bedraagt de verhoging van het kindgebonden budget bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van niet meer dan € 29 413, € 283.
 
-5. Indien aan twee ouders kinderbijslag wordt uitbetaald op basis van het recht op kinderbijslag van één van die ouders, heeft alleen de ouder, wiens recht op kinderbijslag wordt uitbetaald aanspraak op een kindgebonden budget.
+5. Voor een kind dat 16 of 17 jaar is, bedraagt de verhoging van het kindgebonden budget met ingang van de kalendermaand na de maand waarin het kind de leeftijd van 16 jaar heeft bereikt bij een gezamenlijk toetsingsinkomen van die ouder en zijn partner van niet meer dan€ 29 413, € 363.
 
-6. De aanspraak op een kindgebonden budget wordt voor iedere kalendermaand afzonderlijk bepaald.
+6. Bij een gezamenlijk toetsingsinkomen van de ouder en zijn partner van meer dan € 29 413 wordt de som van de bedragen waarop recht bestaat op grond van het tweede, vierde en vijfde lid verminderd met 6,5% van het verschil tussen het gezamenlijke toetsingsinkomen en € 29 413.
+
+7. Een ouder als bedoeld in het eerste en derde lid en zijn partner die tevens ouder is als bedoeld in het eerste lid worden voor de toepassing van deze wet geacht gezamenlijk één aanspraak te hebben.
+
+8. Indien aan twee ouders kinderbijslag wordt uitbetaald op basis van het recht op kinderbijslag van één van die ouders, heeft alleen de ouder, wiens recht op kinderbijslag wordt uitbetaald aanspraak op een kindgebonden budget.
+
+9. De aanspraak op een kindgebonden budget wordt voor iedere kalendermaand afzonderlijk bepaald.
 
 ##### Artikel 3. Wijziging bedragen
 
-1. Bij het begin van het kalenderjaar worden de bedragen, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-01-01&g=2009-01-01) en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-01-01&g=2009-01-01), bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
+1. Bij het begin van het kalenderjaar worden de bedragen, genoemd in de [artikelen 2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-08-01&g=2009-08-01) en het bedrag van het gezamenlijk toetsingsinkomen, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-08-01&g=2009-08-01), bij ministeriële regeling gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
 
 2. Indien er aanleiding is om de bedragen, bedoeld in het eerste lid, te verhogen op een andere wijze dan op grond van het eerste lid, worden de bedragen vastgesteld bij algemene maatregel van bestuur.
 
-3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-01-01&g=2009-01-01).
+3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-08-01&g=2009-08-01).
 
 4. Indien een verhoging als bedoeld in het tweede lid wordt toegepast, vindt deze verhoging plaats nadat het eerste lid toepassing heeft gevonden.
 
@@ -114,15 +120,13 @@ wordt geacht een aanvraag als bedoeld in [artikel 15 van de Algemene wet inkomen
 
 Degene bij wie in het jaar 2006 bij de vaststelling van de verschuldigde inkomstenbelasting op grond van [artikel 2.7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7) kinderkorting in aanmerking is genomen en die voor het berekeningsjaar niet in aanmerking komt voor een andere tegemoetkoming waarvan de uitvoering is opgedragen aan de Belastingdienst/Toeslagen, wordt geacht voor het jaar 2008 een aanvraag te hebben gedaan als bedoeld in [artikel 15 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=15). Voor de toepassing van [artikel 16, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=16) wordt in dat geval de aanvraag geacht te zijn gedaan op 1 oktober 2007.
 
-##### Artikel 6a. Overgangsbepaling kindertoeslag voor het jaar 2008
+##### Artikel 6a. Overgangsbepaling integratie [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
-1. In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-01-01&g=2009-01-01), wordt de ouder, bedoeld in dat lid, geacht voor het berekeningsjaar 2008 ongeacht het aantal kinderen één aanspraak te hebben in de vorm van een kindertoeslag, met dien verstande dat die aanspraak geacht wordt te bestaan met ingang van 1 januari 2008, maar niet eerder dan de kalendermaand na de maand waarin het oudste kind is geboren dan wel tot zijn huishouden gaat behoren, tot en met 31 december 2008, maar uiterlijk tot en met de kalendermaand waarin het jongste kind de leeftijd van 18 jaar bereikt.
+1. De bedragen, genoemd in [artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-08-01&g=2009-08-01), en het bedrag van het gezamenlijk toetsingsinkomen, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-08-01&g=2009-08-01), worden voor de berekeningsjaren 2009 en 2010 aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
 
-2. In 2008 bedraagt de kindertoeslag:
+2. De overeenkomstig het eerste lid voor het berekeningsjaar 2010 aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-08-01&g=2009-08-01).
 
-- a. bij een gezamenlijk toetsingsinkomen van die ouder en zijn partner van niet meer dan € 29 413: € 994;
-
-- b. bij een gezamenlijk toetsingsinkomen van die ouder en zijn partner van meer dan € 29 413: € 994 verminderd met 5,75% van het verschil tussen dat gezamenlijke toetsingsinkomen en € 29 413.
+3. De verhoging van het kindgebonden budget, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2009-08-01&g=2009-08-01), heeft betrekking op berekeningsjaren vanaf het jaar 2010.
 
 ##### Artikel 7. Wijziging van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
 
