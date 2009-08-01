@@ -4,7 +4,7 @@ identifier: "BWBR0006257"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-08-01"
-last_updated: "2006-11-15"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006257"
 soort: "AMvB"
@@ -44,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Onverminderd de kosten van gerechtelijke vervolging en executie, geschiedt het verhaal van kosten van invordering van uitkeringen tot voorziening in de kosten van verzorging en opvoeding of tot voorziening in de kosten van levensonderhoud en studie door verhoging van de uitkering, zoals deze in een rechterlijke beslissing is vastgelegd, met een bedrag per maand van € 19,00 dan wel vijftienhonderdste deel van de uitkering, indien dat deel meer is dan € 19,00.
+1. Onverminderd de kosten van gerechtelijke vervolging en executie, geschiedt het verhaal van kosten van invordering van een uitkering, bedoeld in [artikel 408 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=408), door verhoging van die uitkering, zoals deze is vastgelegd in een rechterlijke beslissing, met een bedrag per maand van € 19,00 dan wel vijftienhonderdste deel van de uitkering, indien het deel meer is dan € 19,00.
 
 2. Indien door een onderhoudsgerechtigde of door een onderhoudsplichtige ten behoeve van meer dan één minderjarige of meerderjarige die de leeftijd van eenentwintig jaren nog niet heeft bereikt, een verzoek tot invordering van de uitkering is gedaan, wordt het verhaal van kosten overeenkomstig het eerste lid berekend over het totale bedrag van de uitkeringen.
 
@@ -54,6 +54,6 @@ Dit besluit treedt in werking met ingang van de dag waarop de wet houdende wijzi
 
 ##### Artikel 3
 
-Dit besluit wordt aangehaald als: Besluit kostenopslag inning kinderalimentaties.
+Dit besluit wordt aangehaald als: Besluit kostenopslag inning kinderalimentaties en partneralimentaties.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
