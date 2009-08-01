@@ -4,7 +4,7 @@ identifier: "BWBR0016185"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2004-05-01"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016185"
 soort: "wet"
@@ -120,7 +120,7 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 - c. anderszins objectief gerechtvaardigd is door een legitiem doel en de middelen voor het bereiken van dat doel passend en noodzakelijk zijn.
 
-2. Het eerste lid is niet van toepassing in geval van intimidatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=2&z=2004-05-01&g=2004-05-01).
+2. Het eerste lid is niet van toepassing in geval van intimidatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=2&z=2009-08-01&g=2009-08-01).
 
 #### Pensioenen
 
@@ -150,7 +150,7 @@ Het is verboden om personen te benadelen wegens het feit dat zij in of buiten re
 
 ##### Artikel 11
 
-1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=2&artikel=3&z=2004-05-01&g=2004-05-01), is vernietigbaar.
+1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=2&artikel=3&z=2009-08-01&g=2009-08-01), is vernietigbaar.
 
 2. Beëindiging van de arbeidsverhouding door de werkgever vanwege het feit dat in of buiten rechte een beroep is gedaan op deze wet of terzake bijstand is verleend, is vernietigbaar.
 
@@ -186,7 +186,7 @@ De commissie gelijke behandeling, genoemd in [artikel 11 van de Algemene wet gel
 
 ##### Artikel 15
 
-Onze Minister van Sociale Zaken en Werkgelegenheid zendt in overeenstemming met Onze Ministers van Justitie, van Binnenlandse Zaken en Koninkrijksrelaties en van Onderwijs, Cultuur en Wetenschappen binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister van Sociale Zaken en Werkgelegenheid zendt in overeenstemming met Onze Ministers van Justitie, van Binnenlandse Zaken en Koninkrijksrelaties en van Onderwijs, Cultuur en Wetenschap binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 #### Overgangsrecht pensioenontslag
 
