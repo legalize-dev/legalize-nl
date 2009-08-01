@@ -63,15 +63,3 @@ De raad voor rechtsbijstand ’s-Hertogenbosch kan van het aan hem bij [artikel 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5
-
-Dit besluit wordt aangehaald als: Regeling verlening mandaat raad voor rechtsbijstand betreffende verlenen van subsidies en vaststellen van beleidsregels dienaangaande.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6
-
-Deze regeling berust mede op de [artikelen 2, eerste lid en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=3) en [4 van de Kaderwet overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=4) en [artikel 5 van het Besluit vergoeding bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=5).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
