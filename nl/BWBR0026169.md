@@ -4,7 +4,7 @@ identifier: "BWBR0026169"
 country: "nl"
 rank: "wet"
 publication_date: "2009-08-01"
-last_updated: "2009-07-28"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026169"
 soort: "wet"
@@ -49,7 +49,7 @@ Wijzigt de Werkloosheidswet.
 
 ##### Artikel II. Wijziging van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ziektewet.
 
 ##### Artikel III. Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
@@ -57,31 +57,31 @@ Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 ##### Artikel IV. Wijziging van de [Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen.
 
 ##### Artikel V. Wijziging van de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Arbeidsomstandighedenwet.
 
 ##### Artikel VI. Wijziging van de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Arbeidstijdenwet.
 
 ##### Artikel VII. Wijziging van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 ##### Artikel VIII. Wijziging van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
 ##### Artikel IX. Wijziging van de [Wet zwangerschaps- en bevallingsuitkering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0023926)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet zwangerschaps- en bevallingsuitkering zelfstandigen.
 
 ##### Artikel X. Wijziging van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
 ##### Artikel XI. Wijziging van de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
@@ -93,7 +93,7 @@ Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XIII. Wijziging van de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet minimumloon en minimumvakantiebijslag
 
 ##### Artikel XIV. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
@@ -109,11 +109,11 @@ Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gew
 
 ##### Artikel XVII. Wijziging van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel XVIII. Wijziging van de [Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013061)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel XIX. Wijziging van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809)
 
@@ -125,15 +125,15 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 ##### Artikel XXI. Wijziging van de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.
 
 ##### Artikel XXII. Wijziging van de [Wet verevening pensioenrechten bij scheiding](https://wetten.overheid.nl/jci1.3:c:BWBR0006641)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet verevening pensioenrechten bij scheiding.
 
 ##### Artikel XXIII. Wijziging van de [Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de bedrijfsorganisatie.
 
 ##### Artikel XXIV. Wijziging van het [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
 
@@ -141,54 +141,54 @@ Wijzigt het Burgerlijk Wetboek Boek 7.
 
 ##### Artikel XXIVa
 
-Dit onderdeel is nog niet inwerking getreden
+Vervallen.
 
 ##### Artikel XXIVb. Wijziging van de Intrekkingswet IWWB
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel XXIVc. Wijziging van de [Wet verzelfstandiging Informatiseringsbank](https://wetten.overheid.nl/jci1.3:c:BWBR0006320)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet verzelfstandiging Informatiseringsbank.
 
 ##### Artikel XXIVd. Wijziging van de [Wet gelijke behandeling op grond van leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0016185)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet gelijke behandeling op grond van leeftijd bij de arbeid.
 
 ##### Artikel XXIVe. Wijziging van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de ondernemingsraden.
 
 ##### Artikel XXIVf. Wijziging van de [Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene bijstandswet.
 
 ##### Artikel XXIVg. Wijziging van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Kinderbijslagwet.
 
 ##### Artikel XXIVh. Wijziging van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene nabestaandenwet.
 
 ##### Artikel XXIVi. Wijziging van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Ouderdomswet.
 
 ##### Artikel XXIVj. Wijziging van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Toeslagenwet.
 
 ##### Artikel XXIVk. Wijziging van de [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en inkomen kunstenaars.
 
 ##### Artikel XXV. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet SZW-wetgeving 2009.
 
 ##### Artikel XXVI. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
