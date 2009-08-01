@@ -4,7 +4,7 @@ identifier: "BWBR0006547"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2009-07-01"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006547"
 soort: "wet"
@@ -93,7 +93,7 @@ Onze Minister kan ter uitvoering van een besluit dat is genomen op grond van art
 
 ##### Artikel 6
 
-1. De voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=3&z=2009-07-01&g=2009-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=4&z=2009-07-01&g=2009-07-01), en de regels, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2009-07-01&g=2009-07-01), kunnen mede een verbod inhouden tot het verrichten van daarbij aangeduide handelingen zonder vergunning. Een verbod als in de eerste zin bedoeld tast niet de geldigheid van daarmee strijdige meerzijdige rechtshandelingen aan.
+1. De voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=3&z=2009-08-01&g=2009-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=4&z=2009-08-01&g=2009-08-01), en de regels, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2009-08-01&g=2009-08-01), kunnen mede een verbod inhouden tot het verrichten van daarbij aangeduide handelingen zonder vergunning. Een verbod als in de eerste zin bedoeld tast niet de geldigheid van daarmee strijdige meerzijdige rechtshandelingen aan.
 
 2. In voorschriften waarbij verplichtingen worden opgelegd, kunnen regels worden gesteld inzake het verlenen van vrijstelling of ontheffing van die verplichting.
 
@@ -109,7 +109,7 @@ Onze Minister kan ter uitvoering van een besluit dat is genomen op grond van art
 
 - a. de samenstelling van de betalingsbalans van Nederland;
 
-- b. de vaststelling en de uitvoering van de voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=3&z=2009-07-01&g=2009-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=4&z=2009-07-01&g=2009-07-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=6&z=2009-07-01&g=2009-07-01) en de regels, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2009-07-01&g=2009-07-01).
+- b. de vaststelling en de uitvoering van de voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=3&z=2009-08-01&g=2009-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=4&z=2009-08-01&g=2009-08-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=6&z=2009-08-01&g=2009-08-01) en de regels, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2009-08-01&g=2009-08-01).
 
 2. De in het eerste lid bedoelde inlichtingen en gegevens moeten tijdig, naar waarheid en op niet misleidende wijze worden verstrekt.
 
@@ -133,23 +133,29 @@ In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.
 
 ##### Artikel 9a
 
-1. De Bank kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften gesteld, bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2009-07-01&g=2009-07-01).
+1. De Bank kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften gesteld, bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2009-08-01&g=2009-08-01).
 
 2. Onze Minister kan regels stellen ter zake van de uitoefening van de bevoegdheid bedoeld in het eerste lid.
 
 ##### Artikel 9b
 
-1. De Bank kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften gesteld bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2009-07-01&g=2009-07-01).
+1. De Bank kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften gesteld bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2009-08-01&g=2009-08-01).
 
-2. Onze Minister, in overeenstemming met Onze Minister van Justitie, kan regels stellen ter zake van de uitoefening van de bevoegdheid bedoeld in het eerste lid.
+2. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.
 
 ##### Artikel 9c
 
-1. Het bedrag van de bestuurlijke boete wordt bepaald op de wijze als voorzien in de bijlage, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 900 000 bedraagt.
+1. Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 4 000 000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.
 
-2. De bijlage bepaalt bij elke daarin omschreven overtreding het bedrag van de deswege op te leggen bestuurlijke boete.
+2. De algemene maatregel van bestuur, bedoeld in het eerste lid, bepaalt bij elke daarin omschreven overtreding het bedrag van de deswege op te leggen bestuurlijke boete. De overtredingen worden gerangschikt in categorieën naar zwaarte van de overtreding met de daarbij behorende basisbedragen, minimumbedragen en maximumbedragen. Daarbij wordt de volgende indeling gebruikt:
 
-3. De bijlage kan bij algemene maatregel van bestuur worden gewijzigd.
+| Categorie | Basisbedrag | Minimumbedrag | Maximumbedrag |
+| --- | --- | --- | --- |
+| 1 | € 10 000,– | € 0,– | € 10 000,– |
+| 2 | € 500 000,– | € 0,– | € 1 000 000,– |
+| 3 | € 2 000 000,– | € 0,– | € 4 000 000,– |
+
+3. In afwijking van het eerste en tweede lid kan de toezichthouder de hoogte van de bestuurlijke boete vaststellen op ten hoogste twee keer het bedrag van het voordeel dat de overtreder door de overtreding heeft verkregen indien diens voordeel groter is dan € 2 000 000.
 
 ##### Artikel 9d
 
@@ -165,9 +171,7 @@ Vervallen
 
 ##### Artikel 9g
 
-1. De werking van de beschikking tot oplegging van een boete wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
-
-2. In afwijking van het eerste lid wordt de werking van de beschikking tot oplegging van een boete voor een overtreding die op grond van [artikel 9e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=9e&z=2009-07-01&g=2009-07-01), is aangewezen, opgeschort totdat de bezwaartermijn is verstreken of, indien bezwaar is gemaakt, op het bezwaar is beslist.
+Vervallen
 
 ##### Artikel 9h
 
@@ -201,7 +205,7 @@ De Nederlandse strafwet is ook van toepassing op overtredingen van voorschriften
 
 ##### Artikel 13
 
-Na de inwerkingtreding van deze wet berust het Besluit financieel verkeer strategische goederen op [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2009-07-01&g=2009-07-01), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=6&z=2009-07-01&g=2009-07-01), van deze wet.
+Na de inwerkingtreding van deze wet berust het Besluit financieel verkeer strategische goederen op [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2009-08-01&g=2009-08-01), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=6&z=2009-08-01&g=2009-08-01), van deze wet.
 
 ##### Artikel 14
 
@@ -216,6 +220,8 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Deze wet kan worden aangehaald als: Wet financiële betrekkingen buitenland 1994.
 
 ## Bijlage. bedoeld in artikel 9c van de Wet financiële betrekkingen buitenland 1994
+
+Vervallen
 
 ### Artikel 1
 
@@ -242,6 +248,8 @@ Categorie IV: een ieder met een som van de standen van buitenlandse activa en pa
 **Tabel 2**
 
 **Tabel 2**
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
