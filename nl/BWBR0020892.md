@@ -4,7 +4,7 @@ identifier: "BWBR0020892"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2009-07-01"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020892"
 soort: "AMvB"
@@ -136,7 +136,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het bestaan van een vrijwillige pensioenregeling en de pensioensoort waarop deze vrijwillige pensioenregeling betrekking heeft;
 
-- d. welke informatie op verzoek wordt verstrekt op grond van [artikel 46 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=46), [artikel 57 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=57) en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=9&z=2009-07-01&g=2009-07-01);
+- d. welke informatie op verzoek wordt verstrekt op grond van [artikel 46 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=46), [artikel 57 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=57) en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=9&z=2009-08-01&g=2009-08-01);
 
 - e. het actueel zijn van een korte- of langetermijnherstelplan; en
 
@@ -144,7 +144,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Mogelijkheid toezichthouder tot stellen nadere regels met betrekking tot informatieverstrekking bij premieovereenkomsten met beleggingsvrijheid
 
-De Stichting Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot het informeren van de deelnemer over de risico’s, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-07-01&g=2009-07-01), voor zover het gaat om premieovereenkomsten dan wel premieregelingen met beleggingsvrijheid voor de deelnemer.
+De Stichting Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot het informeren van de deelnemer over de risico’s, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-08-01&g=2009-08-01), voor zover het gaat om premieovereenkomsten dan wel premieregelingen met beleggingsvrijheid voor de deelnemer.
 
 ##### Artikel 4. Informatie over toeslagverlening
 
@@ -200,9 +200,9 @@ De uitvoerder verstrekt de gewezen partner bij scheiding informatie over de moge
 
 ##### Artikel 8. Verstrekken informatie aan deelnemers vrijwilligepensioenregeling
 
-1. De uitvoerder informeert een deelnemer voorafgaand aan de deelneming in de vrijwillige pensioenregeling over de inhoud van de vrijwillige pensioenregeling, waarbij [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-07-01&g=2009-07-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=3&z=2009-07-01&g=2009-07-01) van overeenkomstige toepassing zijn.
+1. De uitvoerder informeert een deelnemer voorafgaand aan de deelneming in de vrijwillige pensioenregeling over de inhoud van de vrijwillige pensioenregeling, waarbij [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-08-01&g=2009-08-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=3&z=2009-08-01&g=2009-08-01) van overeenkomstige toepassing zijn.
 
-2. De informatie over de reglementair te bereiken pensioenaanspraken wordt overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=5&z=2009-07-01&g=2009-07-01), vastgesteld. Indien bij een premieovereenkomst of een premieregeling de premie wordt belegd wordt een indicatie gegeven van het te bereiken voor periodieke uitkeringen aan te wenden kapitaal op de pensioendatum en de daarbij gehanteerde veronderstellingen.
+2. De informatie over de reglementair te bereiken pensioenaanspraken wordt overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=5&z=2009-08-01&g=2009-08-01), vastgesteld. Indien bij een premieovereenkomst of een premieregeling de premie wordt belegd wordt een indicatie gegeven van het te bereiken voor periodieke uitkeringen aan te wenden kapitaal op de pensioendatum en de daarbij gehanteerde veronderstellingen.
 
 3. De indicatie van het te bereiken kapitaal, bedoeld in het tweede lid, wordt berekend op basis van drie scenario’s: een historisch, een vier procent rendement en een pessimistisch opbrengstscenario.
 
@@ -212,9 +212,9 @@ De uitvoerder verstrekt de gewezen partner bij scheiding informatie over de moge
 
 1. Indien sprake is van een premieovereenkomst dan wel premieregeling waarbij de deelnemer tijdens de opbouwperiode de verantwoordelijkheid voor de beleggingen heeft overgenomen verstrekt de uitvoerder op verzoek van de deelnemer en de gewezen deelnemer informatie over alle beleggingsmogelijkheden, de feitelijke beleggingsportefeuille, de risicopositie en de kosten in verband met de beleggingen.
 
-2. Bij een premieovereenkomst of premieregeling waarbij de premie wordt belegd verstrekt de pensioenuitvoerder op verzoek van de deelnemer, gewezen deelnemer of gewezen partner een indicatie van het te bereiken voor periodieke uitkeringen aan te wenden kapitaal op de pensioendatum en de daarbij gehanteerde veronderstellingen. [Artikel 8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=8&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing.
+2. Bij een premieovereenkomst of premieregeling waarbij de premie wordt belegd verstrekt de pensioenuitvoerder op verzoek van de deelnemer, gewezen deelnemer of gewezen partner een indicatie van het te bereiken voor periodieke uitkeringen aan te wenden kapitaal op de pensioendatum en de daarbij gehanteerde veronderstellingen. [Artikel 8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=8&z=2009-08-01&g=2009-08-01), is van overeenkomstige toepassing.
 
-3. De pensioenuitvoerder verstrekt op verzoek van de deelnemer, gewezen deelnemer of gewezen partner een indicatie van de hoogte van de periodieke uitkeringen op de pensioendatum wanneer het kapitaal, bedoeld in het tweede lid en [artikel 5, tweede lid, onderdelen b en c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=5&z=2009-07-01&g=2009-07-01), daarvoor wordt aangewend.
+3. De pensioenuitvoerder verstrekt op verzoek van de deelnemer, gewezen deelnemer of gewezen partner een indicatie van de hoogte van de periodieke uitkeringen op de pensioendatum wanneer het kapitaal, bedoeld in het tweede lid en [artikel 5, tweede lid, onderdelen b en c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=5&z=2009-08-01&g=2009-08-01), daarvoor wordt aangewend.
 
 4. Bij de indicatie, bedoeld in het derde lid, worden de op het moment van het verzoek bij de pensioenuitvoerder geldende tarieven gehanteerd. De periodieke uitkeringen worden gecorrigeerd voor te verwachten prijsinflatie. Bij regeling van Onze Minister wordt bepaald met welke te verwachten prijsinflatie gecorrigeerd wordt.
 
@@ -238,7 +238,7 @@ De uitvoerder verstrekt de gewezen partner bij scheiding informatie over de moge
 
 ##### Artikel 10. Kosten informatieverstrekking
 
-De informatie op grond van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=21), [38 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=38) en [46, eerste lid, onderdeel a, en tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=46) dan wel de [artikelen 48 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=48), [57, eerste lid, onderdeel a en tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=57) wordt kosteloos verstrekt. De informatie op grond van [artikel 9, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=9&z=2009-07-01&g=2009-07-01), wordt eveneens kosteloos verstrekt.
+De informatie op grond van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=21), [38 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=38) en [46, eerste lid, onderdeel a, en tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=46) dan wel de [artikelen 48 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=48), [57, eerste lid, onderdeel a en tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=57) wordt kosteloos verstrekt. De informatie op grond van [artikel 9, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=9&z=2009-08-01&g=2009-08-01), wordt eveneens kosteloos verstrekt.
 
 ### Hoofdstuk 3. Fondsbestuur
 
@@ -322,21 +322,21 @@ Indien met de werkgever niet uitdrukkelijk een bepaalde verhouding tussen versch
 
 - d. alle overige informatie die van belang is voor de uitvoering van de waardeoverdracht.
 
-Bij de informatie over toeslagverlening is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=4&z=2009-07-01&g=2009-07-01) van overeenkomstige toepassing.
+Bij de informatie over toeslagverlening is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=4&z=2009-08-01&g=2009-08-01) van overeenkomstige toepassing.
 
 2. Indien de overdragende uitvoerder een premieovereenkomst of premieregeling uitvoert waarbij de premie wordt belegd, geldt de opgave als een voorlopige opgave en is het eerste lid, onderdelen a en b, niet van toepassing.
 
 ##### Artikel 19. Opgave informatie aan de uitvoerder
 
-De overdragende uitvoerder verstrekt de opgave of de voorlopige opgave, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-07-01&g=2009-07-01), binnen twee maanden na ontvangst van het daartoe strekkende verzoek aan de ontvangende uitvoerder.
+De overdragende uitvoerder verstrekt de opgave of de voorlopige opgave, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-08-01&g=2009-08-01), binnen twee maanden na ontvangst van het daartoe strekkende verzoek aan de ontvangende uitvoerder.
 
 ##### Artikel 20. Opgave informatie aan de rechthebbende
 
-De ontvangende uitvoerder verstrekt de opgave of voorlopige opgave, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-07-01&g=2009-07-01), binnen twee maanden na ontvangst aan de deelnemer onder vermelding van de aanspraken die zullen voortvloeien uit de waardeoverdracht en de wijze waarop de aanspraken in de pensioenregeling, ondergebracht bij de ontvangende uitvoerder, zullen worden behandeld. Bij de informatie over toeslagverlening is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=4&z=2009-07-01&g=2009-07-01) van overeenkomstige toepassing.
+De ontvangende uitvoerder verstrekt de opgave of voorlopige opgave, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-08-01&g=2009-08-01), binnen twee maanden na ontvangst aan de deelnemer onder vermelding van de aanspraken die zullen voortvloeien uit de waardeoverdracht en de wijze waarop de aanspraken in de pensioenregeling, ondergebracht bij de ontvangende uitvoerder, zullen worden behandeld. Bij de informatie over toeslagverlening is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=4&z=2009-08-01&g=2009-08-01) van overeenkomstige toepassing.
 
 ##### Artikel 21. Verzoek tot waardeoverdracht
 
-1. Indien de deelnemer gebruik wil maken van zijn recht op waardeoverdracht, dient hij binnen twee maanden na ontvangst van de opgave of voorlopige opgave, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-07-01&g=2009-07-01), en, indien van toepassing, [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=22&z=2009-07-01&g=2009-07-01), een verzoek tot waardeoverdracht in bij de ontvangende uitvoerder.
+1. Indien de deelnemer gebruik wil maken van zijn recht op waardeoverdracht, dient hij binnen twee maanden na ontvangst van de opgave of voorlopige opgave, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-08-01&g=2009-08-01), en, indien van toepassing, [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=22&z=2009-08-01&g=2009-08-01), een verzoek tot waardeoverdracht in bij de ontvangende uitvoerder.
 
 2. Pensioenaanspraken die door de rechthebbende zijn of worden verkregen op grond van de FVP-bijdrage worden geacht inbegrepen te zijn in het verzoek, bedoeld in het eerste lid.
 
@@ -344,19 +344,19 @@ De ontvangende uitvoerder verstrekt de opgave of voorlopige opgave, bedoeld in [
 
 ##### Artikel 22. Verzoek opgave informatie aan ontvangende uitvoerder
 
-De deelnemer kan voor het einde van de termijn genoemd in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=21&z=2009-07-01&g=2009-07-01), verzoeken om een aanvullende opgave voor het geval de waarde van het partnerpensioen niet wordt overgedragen. De termijnen, genoemd in de [artikelen 18 tot en met 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-07-01&g=2009-07-01), zijn van overeenkomstige toepassing.
+De deelnemer kan voor het einde van de termijn genoemd in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=21&z=2009-08-01&g=2009-08-01), verzoeken om een aanvullende opgave voor het geval de waarde van het partnerpensioen niet wordt overgedragen. De termijnen, genoemd in de [artikelen 18 tot en met 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=18&z=2009-08-01&g=2009-08-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 23. Afhandeling waardeoverdracht
 
 1. De ontvangende uitvoerder stelt de overdragende uitvoerder terstond in kennis van de ontvangst van het verzoek tot waardeoverdracht.
 
-2. Het risico dat betrekking heeft op de over te dragen aanspraken, komt met ingang van de datum van het verzoek van de rechthebbende, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=21&z=2009-07-01&g=2009-07-01), voor rekening van de ontvangende uitvoerder.
+2. Het risico dat betrekking heeft op de over te dragen aanspraken, komt met ingang van de datum van het verzoek van de rechthebbende, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=21&z=2009-08-01&g=2009-08-01), voor rekening van de ontvangende uitvoerder.
 
 3. De overdrachtswaarde wordt binnen tien werkdagen na ontvangst van het verzoek tot waardeoverdracht door de overdragende uitvoerder aan de ontvangende uitvoerder betaald.
 
 4. De overdragende uitvoerder is rente verschuldigd aan de ontvangende uitvoerder over de overdrachtswaarde over de periode tussen de overdrachtsdatum en de datum waarop de overdrachtswaarde wordt betaald, tenzij het de waardeoverdracht betreft van een premieovereenkomst of premieregeling waarbij de premie wordt belegd naar een andere premieovereenkomst of premieregeling waarbij de premie wordt belegd. Bij overdracht van een premieovereenkomst of premieregeling waarbij de premie wordt belegd naar een kapitaal- of uitkeringsovereenkomst of een kapitaal- of uitkeringsregeling wordt de rente geacht in de overdrachtswaarde begrepen te zijn. Onze Minister stelt regels over de berekening van de rente.
 
-5. De termijnen, genoemd in dit hoofdstuk, zijn op waardeoverdracht van pensioenaanspraken als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=21&z=2009-07-01&g=2009-07-01), niet eerder van toepassing dan nadat de overdragende uitvoerder de FVP-bijdrage heeft ontvangen.
+5. De termijnen, genoemd in dit hoofdstuk, zijn op waardeoverdracht van pensioenaanspraken als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=21&z=2009-08-01&g=2009-08-01), niet eerder van toepassing dan nadat de overdragende uitvoerder de FVP-bijdrage heeft ontvangen.
 
 ##### Artikel 24. Overschrijding termijnen
 
@@ -446,11 +446,11 @@ De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoe
 
 ##### Artikel 32. Antecedenten
 
-De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-07-01&g=2009-07-01), in ieder geval in aanmerking de in de bijlage bij dit besluit genoemde antecedenten.
+De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-08-01&g=2009-08-01), in ieder geval in aanmerking de in de bijlage bij dit besluit genoemde antecedenten.
 
 ##### Artikel 33. Bronnen
 
-1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-07-01&g=2009-07-01) bedoelde voornemens, handelingen en antecedenten op grond van:
+1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-08-01&g=2009-08-01) bedoelde voornemens, handelingen en antecedenten op grond van:
 
 - a. door betrokkene verstrekte gegevens en inlichtingen;
 
@@ -468,7 +468,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 31](https:/
 
 - h. gegevens uit openbare bronnen;
 
-- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-07-01&g=2009-07-01) bedoelde persoon betrokken is geweest;
+- i. inlichtingen, verkregen van curatoren of bewindvoerders met betrekking tot faillissementen, surseances, schuldsaneringen, bewindvoeringen of noodregelingen waarbij de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-08-01&g=2009-08-01) bedoelde persoon betrokken is geweest;
 
 - j. inlichtingen, verkregen van organisaties van huidige of voormalige beroepsgenoten van betrokkene; of
 
@@ -484,11 +484,11 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 31](https:/
 
 ##### Artikel 34. Strafrechtelijke veroordeling
 
-De betrouwbaarheid van een persoon als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-07-01&g=2009-07-01) staat niet buiten twijfel als deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage bij dit besluit, tenzij er sinds het onherroepelijk worden van de uitspraak acht jaren of meer zijn verstreken.
+De betrouwbaarheid van een persoon als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-08-01&g=2009-08-01) staat niet buiten twijfel als deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van de bijlage bij dit besluit, tenzij er sinds het onherroepelijk worden van de uitspraak acht jaren of meer zijn verstreken.
 
 ##### Artikel 35. Vaststelling betrouwbaarheid
 
-De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-07-01&g=2009-07-01), in aanmerking:
+De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=31&z=2009-08-01&g=2009-08-01), in aanmerking:
 
 - a. het onderlinge verband tussen de aan een antecedent ten grondslag liggende gedraging of gedragingen en de overige omstandigheden van het geval;
 
@@ -548,7 +548,7 @@ De Stichting Autoriteit Financiële Markten beschikt niet over de bevoegdheden, 
 
 - a. de toetsing van de betrouwbaarheid van personen als bedoeld in [artikel 105, negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=105) en [artikel 110, negende lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=110);
 
-- b. de toetsing van de deskundigheid van personen als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=30&z=2009-07-01&g=2009-07-01);
+- b. de toetsing van de deskundigheid van personen als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=30&z=2009-08-01&g=2009-08-01);
 
 - c. een verzoek om verlening of wijziging van een vergunning als bedoeld in [artikel 125, onderdeel a, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=125) en [artikel 25, onderdeel a, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=25);
 
@@ -576,9 +576,9 @@ De Stichting Autoriteit Financiële Markten beschikt niet over de bevoegdheden, 
 
 ##### Artikel 43. Vaststelling verschuldigd bedrag
 
-1. Het bedrag, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-07-01&g=2009-07-01), bestaat uit per categorie vast te stellen minimumbedragen ter dekking van de minimale toezichtkosten per uitvoerder in de desbetreffende categorie, vermeerderd met een bedrag dat:
+1. Het bedrag, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-08-01&g=2009-08-01), bestaat uit per categorie vast te stellen minimumbedragen ter dekking van de minimale toezichtkosten per uitvoerder in de desbetreffende categorie, vermeerderd met een bedrag dat:
 
-- a. wordt gebaseerd op de kosten die per categorie zijn toegerekend op de wijze, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-07-01&g=2009-07-01), onder aftrek van het totaal van de aan de desbetreffende categorie in rekening te brengen minimumbedragen, en
+- a. wordt gebaseerd op de kosten die per categorie zijn toegerekend op de wijze, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-08-01&g=2009-08-01), onder aftrek van het totaal van de aan de desbetreffende categorie in rekening te brengen minimumbedragen, en
 
 - b. is doorberekend naar rato van de maatstafgegevens die betrekking hebben op het voorafgaande jaar dan wel, indien deze gegevens niet beschikbaar zijn, het daaraan voorafgaande jaar of het lopende jaar.
 
@@ -592,7 +592,7 @@ De Stichting Autoriteit Financiële Markten beschikt niet over de bevoegdheden, 
 
 ##### Artikel 44. Verschuldigd bedrag bij gedeelte jaar
 
-1. Het bedrag, bepaald op basis van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=43&z=2009-07-01&g=2009-07-01), wordt voor een uitvoerder die niet eerder dan 1 februari van het lopende jaar onder een categorie valt, in rekening gebracht naar evenredigheid van het aantal maanden in het jaar dat de uitvoerder onder de categorie valt, waarbij een gedeelte van een maand geldt als volledige maand.
+1. Het bedrag, bepaald op basis van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=43&z=2009-08-01&g=2009-08-01), wordt voor een uitvoerder die niet eerder dan 1 februari van het lopende jaar onder een categorie valt, in rekening gebracht naar evenredigheid van het aantal maanden in het jaar dat de uitvoerder onder de categorie valt, waarbij een gedeelte van een maand geldt als volledige maand.
 
 2. Aan een uitvoerder die niet langer onder een categorie valt, wordt het bedrag terugbetaald naar evenredigheid van het aantal maanden van het jaar dat de uitvoerder niet langer onder de categorie valt, waarbij een gedeelte van een maand geldt als volledige maand.
 
@@ -604,253 +604,39 @@ De Stichting Autoriteit Financiële Markten beschikt niet over de bevoegdheden, 
 
 ##### Artikel 46. Betaling
 
-1. De toezichthouder bepaalt de wijze en het tijdstip van betaling van de bedragen, bedoeld in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=41&z=2009-07-01&g=2009-07-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-07-01&g=2009-07-01).
+1. De toezichthouder bepaalt de wijze en het tijdstip van betaling van de bedragen, bedoeld in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=41&z=2009-08-01&g=2009-08-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-08-01&g=2009-08-01).
 
 2. Indien als wijze van betaling automatische incasso is overeengekomen, kan de toezichthouder bij het in rekening brengen van het bedrag per factuur een korting toepassen.
 
 ##### Artikel 47. Fusie uitvoerders
 
-Indien een uitvoerder het vermogen heeft gekregen van een uitvoerder die in het lopende jaar of in het voorafgaande jaar is opgehouden onder een categorie te vallen, wordt het bedrag ter vergoeding van de kosten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-07-01&g=2009-07-01), die door de toezichthouder ten aanzien van laatstbedoelde uitvoerder zijn gemaakt, in rekening gebracht bij de verkrijgende uitvoerder, voor zover deze kosten niet reeds bij de laatstbedoelde uitvoerder in rekening zijn gebracht.
+Indien een uitvoerder het vermogen heeft gekregen van een uitvoerder die in het lopende jaar of in het voorafgaande jaar is opgehouden onder een categorie te vallen, wordt het bedrag ter vergoeding van de kosten, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=9&artikel=42&z=2009-08-01&g=2009-08-01), die door de toezichthouder ten aanzien van laatstbedoelde uitvoerder zijn gemaakt, in rekening gebracht bij de verkrijgende uitvoerder, voor zover deze kosten niet reeds bij de laatstbedoelde uitvoerder in rekening zijn gebracht.
 
 ### Hoofdstuk 10. Boeteregeling
 
-##### Artikel 48. Hoogte boetebedragen
+##### Artikel 48. Vaststelling hoogte boete
 
-Voor de tariefnummers, behorend bij de in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=49&z=2009-07-01&g=2009-07-01) genoemde overtredingen, zijn de boetebedragen als volgt vastgesteld:
+1. De toezichthouder stelt een bestuurlijke boete in de tweede of derde categorie vast op het basisbedrag, bedoeld in [artikel 179, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=179) en [artikel 174, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=174).
 
-| **Tariefnummer** | **Boete** |
-| --- | --- |
-| 1 | € 1.000 |
-| 2 | € 6.000 |
-| 3 | € 24.000 |
-| 4 | € 96.000 |
+2. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de ernst of duur van de overtreding een dergelijke verlaging of verhoging rechtvaardigt.
 
-##### Artikel 49. Indeling naar tarief
+3. De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de mate van verwijtbaarheid van de overtreder een dergelijke verlaging of verhoging rechtvaardigt.
 
-1. Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809), is als volgt beboetbaar:
+##### Artikel 49. Recidive
 
-| **Pensioenwet** | **Tariefnummer** |
-| --- | --- |
-| [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=21) | 3 |
-| [21, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=21) | 3 |
-| [23](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=23) | 4 |
-| [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=25) | 2 |
-| [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=26) | 2 |
-| [28](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=28) | 2 |
-| [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=29) | 3 |
-| [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=34) | 3 |
-| [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=35) | 3 |
-| [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=36) | 3 |
-| [38 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=38) | 3 |
-| [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=49) | 3 |
-| [50, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=50) | 2 |
-| [52](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=52) | 4 |
-| [58](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=58) | 3 |
-| [60, eerste tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=60) | 3 |
-| [61, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=61) | 3 |
-| [62, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=62) | 3 |
-| [63](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=63) | 2 |
-| [66, derde, vierde, vijfde, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=66) | 4 |
-| [67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=67) | 4 |
-| [68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=68) | 4 |
-| [69, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=69) | 4 |
-| [71, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=71) | 3 |
-| [74, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=74) | 3 |
-| [76, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=76) | 3 |
-| [83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=83) | 3 |
-| [84, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=84) | 3 |
-| [85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=85) | 3 |
-| [86, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=86) | 3 |
-| [87](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=87) | 3 |
-| [91](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=91) | 2 |
-| [94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=94) | 2 |
-| [95](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=95) | 3 |
-| [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=96) | 1 |
-| [98](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=98) | 2 |
-| [99](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=99) | 2 |
-| [100](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=100) | 2 |
-| [101](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=101) | 2 |
-| [102](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=102) | 2 |
-| [103](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=103) | 2 |
-| [105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=105) | 2 |
-| [105, tweede, derde en vijfde t/m achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=105) | 1 |
-| [106](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=106) | 1 |
-| [109](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=109) | 1 |
-| [110](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=110) | 2 |
-| [111](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=111) | 2 |
-| [113](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=113) | 1 |
-| [114](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=114) | 2 |
-| [115](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=115) | 2 |
-| [116](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=116) | 3 |
-| [117](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=117) | 3 |
-| [118, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=118) | 4 |
-| [119, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=119) | 4 |
-| [120, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=120) | 4 |
-| [125](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=125) | 3 |
-| [128](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=128) | 2 |
-| [129](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=129) | 2 |
-| [130](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=130) | 2 |
-| [134, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=134) | 2 |
-| [135, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=135) | 2 |
-| [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=136) | 2 |
-| [137, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=137) | 2 |
-| [138, eerste t/m vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=138) | 3 |
-| [139](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=139) | 3 |
-| [140, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=140) | 3 |
-| [143](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=143) | 2 |
-| [145](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=145) | 2 |
-| [146](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=146) | 2 |
-| [147, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) | 3 |
-| [150](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150) | 2 |
-| [167](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=167) | 2 |
-| [169](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=169) | 2 |
-| [170, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=170) | 2 |
-| [170, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=170) | 1 |
-| [171, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=171) | 3 |
-| [172, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=172) | 2 |
-| [194](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=194) | 1 |
-| [197](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=197) | 2 |
-| [199](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=199) | 2 |
-| [203, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=203) | 3 |
-| [204](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=204) | 3 |
+De door de toezichthouder met toepassing van [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=48&z=2009-08-01&g=2009-08-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
-2. Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831), is als volgt beboetbaar:
+##### Artikel 50. Draagkracht
 
-| **Wet verplichte beroepspensioenregeling** | **Tariefnummer** |
-| --- | --- |
-| [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=8) | 4 |
-| [21](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=21) | 3 |
-| [22](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=22) | 2 |
-| [23](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=23) | 4 |
-| [25](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=25) | 3 |
-| [26](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=26) | 1 |
-| [35](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=35) | 2 |
-| [36](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=36) | 2 |
-| [38](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=38) | 2 |
-| [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=39) | 3 |
-| [43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=43) | 3 |
-| [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=44) | 3 |
-| [46](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=46) | 4 |
-| [47](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=47) | 4 |
-| [48, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=48) | 3 |
-| [49 tot en met 59](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=49) | 3 |
-| [60](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=60) | 3 |
-| [61, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=61) | 2 |
-| [63](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=63) | 4 |
-| [69](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=69) | 3 |
-| [72, eerste tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=72) | 3 |
-| [73, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=73) | 3 |
-| [74, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=74) | 3 |
-| [75](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=75) | 2 |
-| [78, derde, vierde, vijfde, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=78) | 4 |
-| [79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=79) | 4 |
-| [80, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=80) | 4 |
-| [82, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=82) | 3 |
-| [85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=85) | 3 |
-| [91, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=91) | 3 |
-| [92, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=92) | 3 |
-| [93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=93) | 3 |
-| [94, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=94) | 3 |
-| [95](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=95) | 3 |
-| [99](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=99) | 2 |
-| [102, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=102) | 2 |
-| [103](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=103) | 3 |
-| [104](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=104) | 1 |
-| [105](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=105) | 2 |
-| [106](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=106) | 2 |
-| [107](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=107) | 2 |
-| [108](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=108) | 2 |
-| [110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=110) | 2 |
-| [110, tweede, derde en vijfde tot en met achtste](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=110)lid | 1 |
-| [113](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=113) | 1 |
-| [114](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=114) | 3 |
-| [115](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=115) | 3 |
-| [116](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=116) | 4 |
-| [117](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=117) | 4 |
-| [118](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=117) | 4 |
-| [123](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=123) | 2 |
-| [124](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=124) | 2 |
-| [125](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=125) | 2 |
-| [129, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=129) | 2 |
-| [130, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=130) | 2 |
-| [131, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=131) | 2 |
-| [132, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=132) | 2 |
-| [133, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=133) | 3 |
-| [134](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=134) | 3 |
-| [135, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=135) | 3 |
-| [138](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=138) | 2 |
-| [140](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=140) | 2 |
-| [141](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=141) | 2 |
-| [142, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142) | 3 |
-| [145](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=145) | 2 |
-| [162](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=162) | 2 |
-| [164](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=164) | 2 |
-| [165, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=165) | 2 |
-| [165, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=165) | 1 |
-| [166, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=166) | 3 |
-| [167, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=167) | 2 |
-| [191](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=191) | 2 |
-| [193](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=193) | 2 |
-| [197, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=197) | 3 |
-| [198](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=198) | 3 |
+1. De toezichthouder houdt bij het vaststellen van een bestuurlijke boete rekening met de draagkracht van de overtreder.
 
-3. Overtreding van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) wordt beboet volgens tariefnummer 3.
+2. De toezichthouder kan op basis van het eerste lid de op te leggen bestuurlijke boete verlagen met maximaal 100 procent.
 
-4. Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van dit besluit, is als volgt beboetbaar:
+##### Artikel 51. Schade voor derden bij pensioenuitvoerders
 
-| **Artikelnummer** | **Tariefnummer** |
-| --- | --- |
-| [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-07-01&g=2009-07-01) | 3 |
-| [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=5&z=2009-07-01&g=2009-07-01) | 3 |
-| [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=6&z=2009-07-01&g=2009-07-01) | 3 |
-| [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=7&z=2009-07-01&g=2009-07-01) | 3 |
-| [8](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=8&z=2009-07-01&g=2009-07-01) | 3 |
-| [9](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=9&z=2009-07-01&g=2009-07-01) | 3 |
-| [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=10&z=2009-07-01&g=2009-07-01) | 3 |
-| [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=3&artikel=11&z=2009-07-01&g=2009-07-01) | 2 |
-| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-07-01&g=2009-07-01) | 3 |
-| [16](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=16&z=2009-07-01&g=2009-07-01) | 4 |
-| [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=25&z=2009-07-01&g=2009-07-01) | 3 |
-| [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=26&z=2009-07-01&g=2009-07-01) | 3 |
-| [27](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=27&z=2009-07-01&g=2009-07-01) | 3 |
-| [28](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=28&z=2009-07-01&g=2009-07-01) | 3 |
+1. De toezichthouder houdt bij het vaststellen van een bestuurlijke boete voor pensioenuitvoerders rekening met schade voor derden.
 
-5. Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van het [Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871), is als volgt beboetbaar:
-
-| **Besluit financieel toetsingskader pensioenfondsen** | **Tariefnummer** |
-| --- | --- |
-| [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=12) | 2 |
-| [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=13) | 2 |
-| [14](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=14) | 2 |
-| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=15) | 3 |
-| [16](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=16) | 3 |
-| [29](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=29) | 3 |
-| [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=31) | 3 |
-| [33](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=33) | 3 |
-
-##### Artikel 50. Boeteoplegging naar draagkracht
-
-1. Indien een bestuurlijke boete wordt opgelegd aan een uitvoerder, houdt de toezichthouder rekening met diens draagkracht.
-
-2. De draagkracht komt in de hoogte van de bestuurlijke boete tot uiting door het boetebedrag, zoals bepaald op grond van de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=48&z=2009-07-01&g=2009-07-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=49&z=2009-07-01&g=2009-07-01), te vermenigvuldigen met de op grond van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=51&z=2009-07-01&g=2009-07-01) toepasselijke draagkrachtfactor.
-
-3. Indien de toezichthouder niet beschikt over de voor de bepaling van de draagkracht noodzakelijke gegevens, verzoekt hij degene aan wie de bestuurlijke boete zal worden opgelegd deze gegevens binnen een door hem te stellen redelijke termijn te verstrekken.
-
-4. Indien de uitvoerder de in het derde lid bedoelde gegevens niet binnen de in dat lid bedoelde termijn verstrekt, is bij de vaststelling van de hoogte van de bestuurlijke boete de draagkrachtfactor vijf van toepassing.
-
-##### Artikel 51. Draagkrachtfactoren
-
-De in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=50&z=2009-07-01&g=2009-07-01), bedoelde draagkrachtfactoren zijn:
-
-- a. draagkrachtfactor een: uitvoerders met een balanstotaal van minder dan € 10.000.000;
-
-- b. draagkrachtfactor twee: uitvoerders met een balanstotaal van tenminste € 10.000.000, maar minder dan € 50.000.000;
-
-- c. draagkrachtfactor drie: uitvoerders met een balanstotaal van tenminste € 50.000.000, maar minder dan € 250.000.000;
-
-- d. draagkrachtfactor vier: uitvoerders met een balanstotaal van tenminste € 250.000.000, maar minder dan € 500.000.000;
-
-- e. draagkrachtfactor vijf: uitvoerders met een balanstotaal van € 500.000.000 of meer.
+2. De toezichthouder kan de op te leggen bestuurlijke boete, na inachtneming van de bepalingen, bedoeld in de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=48&z=2009-08-01&g=2009-08-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=49&z=2009-08-01&g=2009-08-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10&artikel=50&z=2009-08-01&g=2009-08-01) verlagen met maximaal 75 procent.
 
 ### Hoofdstuk 11. Overige en slotbepalingen
 
@@ -904,13 +690,13 @@ Wijzigt het Besluit op de huurtoeslag.
 
 ##### Artikel 63. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van 1 januari 2007, met uitzondering van de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-07-01&g=2009-07-01) en [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-07-01&g=2009-07-01).
+1. Dit besluit treedt in werking met ingang van 1 januari 2007, met uitzondering van de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-08-01&g=2009-08-01) en [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-08-01&g=2009-08-01).
 
-2. De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-07-01&g=2009-07-01) treden in werking met ingang van 1 januari 2008.
+2. De [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-08-01&g=2009-08-01) treden in werking met ingang van 1 januari 2008.
 
-3. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-07-01&g=2009-07-01) geldt ten aanzien van de keuzemogelijkheid, bedoeld in [artikel 61, eerste, derde, vierde en zesde lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=61) en [artikel 73, eerste, derde, vierde en zesde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=73) met ingang van 1 januari 2008.
+3. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-08-01&g=2009-08-01) geldt ten aanzien van de keuzemogelijkheid, bedoeld in [artikel 61, eerste, derde, vierde en zesde lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=61) en [artikel 73, eerste, derde, vierde en zesde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=73) met ingang van 1 januari 2008.
 
-4. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-07-01&g=2009-07-01) geldt ten aanzien van de keuzemogelijkheid, bedoeld in [artikel 61, tweede, zevende, achtste en negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=61) en [artikel 73, tweede, zevende, achtste en negende lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=73) met ingang van 1 januari 2009.
+4. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-08-01&g=2009-08-01) geldt ten aanzien van de keuzemogelijkheid, bedoeld in [artikel 61, tweede, zevende, achtste en negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=61) en [artikel 73, tweede, zevende, achtste en negende lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=73) met ingang van 1 januari 2009.
 
 ##### Artikel 64. Citeertitel
 
@@ -1118,11 +904,210 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 51a. Indeling naar categorie
 
-Dit onderdeel is nog niet inwerking getreden
+1. Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) is als volgt beboetbaar:
+
+| Pensioenwet | Boetecategorie |
+| --- | --- |
+| [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=21) | 2 |
+| [21, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=21) | 2 |
+| [23](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=23) | 2 |
+| [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=25) | 1 |
+| [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=26) | 1 |
+| [28](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=28) | 1 |
+| [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=29) | 2 |
+| [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=34) | 2 |
+| [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=35) | 2 |
+| [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=36) | 2 |
+| [38 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=38) | 2 |
+| [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=49) | 2 |
+| [50, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=50) | 1 |
+| [52](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=52) | 2 |
+| [58](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=58) | 2 |
+| [60, eerste tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=60) | 2 |
+| [61, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=61) | 2 |
+| [62, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=62) | 2 |
+| [63](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=63) | 1 |
+| [66, derde, vierde, vijfde, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=66) | 2 |
+| [67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=67) | 2 |
+| [68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=68) | 2 |
+| [69, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=69) | 2 |
+| [71, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=71) | 2 |
+| [74, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=74) | 2 |
+| [76, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=76) | 2 |
+| [83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=83) | 2 |
+| [84, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=84) | 2 |
+| [85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=85) | 2 |
+| [86, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=86) | 2 |
+| [87](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=87) | 2 |
+| [91](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=91) | 1 |
+| [94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=94) | 1 |
+| [95](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=95) | 2 |
+| [96](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=96) | 1 |
+| [98](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=98) | 1 |
+| [99](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=99) | 1 |
+| [100](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=100) | 1 |
+| [101](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=101) | 1 |
+| [102](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=102) | 1 |
+| [103](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=103) | 1 |
+| [105, eerste, tweede, derde en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=105) | 1 |
+| [106](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=106) | 1 |
+| [109](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=109) | 1 |
+| [110](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=110) | 1 |
+| [111](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=111) | 1 |
+| [113](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=113) | 1 |
+| [114](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=114) | 1 |
+| [115](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=115) | 1 |
+| [116](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=116) | 2 |
+| [117](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=117) | 2 |
+| [118, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=118) | 2 |
+| [119, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=119) | 2 |
+| [120, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=120) | 2 |
+| [125](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=125) | 2 |
+| [128](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=128) | 1 |
+| [129](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=129) | 1 |
+| [130](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=130) | 1 |
+| [134, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=134) | 1 |
+| [135, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=135) | 1 |
+| [136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=136) | 1 |
+| [137, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=137) | 1 |
+| [138, eerste t/m vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=138) | 2 |
+| [139](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=139) | 2 |
+| [140, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=140) | 2 |
+| [143](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=143) | 1 |
+| [145](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=145) | 1 |
+| [146](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=146) | 1 |
+| [147, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) | 2 |
+| [150](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150) | 1 |
+| [167](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=167) | 1 |
+| [169](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=169) | 1 |
+| [170](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=170) | 1 |
+| [171, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=171) | 2 |
+| [172, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=172) | 1 |
+| [194](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=194) | 1 |
+| [197](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=197) | 1 |
+| [199](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=199) | 1 |
+| [203, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=203) | 2 |
+| [204](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=204) | 2 |
+
+2. Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) is als volgt beboetbaar:
+
+| Wet verplichte beroepspensioenregeling | Boetecategorie |
+| --- | --- |
+| [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=8) | 2 |
+| [21](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=21) | 2 |
+| [22](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=22) | 1 |
+| [23](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=23) | 2 |
+| [25](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=25) | 2 |
+| [26](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=26) | 1 |
+| [35](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=35) | 1 |
+| [36](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=36) | 1 |
+| [38](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=38) | 1 |
+| [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=39) | 2 |
+| [43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=43) | 2 |
+| [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=44) | 2 |
+| [46](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=46) | 2 |
+| [47](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=47) | 2 |
+| [48, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=48) | 2 |
+| [49 tot en met 59](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=49) | 2 |
+| [60](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=60) | 2 |
+| [61, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=61) | 1 |
+| [63](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=63) | 2 |
+| [69](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=69) | 2 |
+| [72, eerste tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=72) | 2 |
+| [73, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=73) | 2 |
+| [74, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=74) | 2 |
+| [75](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=75) | 1 |
+| [78, derde, vierde, vijfde, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=78) | 2 |
+| [79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=79) | 2 |
+| [80, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=80) | 2 |
+| [82, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=82) | 2 |
+| [85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=85) | 2 |
+| [91, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=91) | 2 |
+| [92, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=92) | 2 |
+| [93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=93) | 2 |
+| [94, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=94) | 2 |
+| [95](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=95) | 2 |
+| [99](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=99) | 1 |
+| [102, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=102) | 1 |
+| [103](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=103) | 2 |
+| [104](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=104) | 1 |
+| [105](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=105) | 1 |
+| [106](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=106) | 1 |
+| [107](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=107) | 1 |
+| [108](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=108) | 1 |
+| [110, eerste, tweede, derde en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=110) | 1 |
+| [113](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=113) | 1 |
+| [114](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=114) | 2 |
+| [115](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=115) | 2 |
+| [116](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=116) | 2 |
+| [117](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=117) | 2 |
+| [118](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=118) | 2 |
+| [123](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=123) | 1 |
+| [124](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=124) | 1 |
+| [125](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=125) | 1 |
+| [129, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=129) | 1 |
+| [130, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=130) | 1 |
+| [131, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=131) | 1 |
+| [132, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=132) | 1 |
+| [133, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=133) | 2 |
+| [134](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=134) | 2 |
+| [135, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=135) | 2 |
+| [138](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=138) | 1 |
+| [140](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=140) | 1 |
+| [141](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=141) | 1 |
+| [142, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142) | 2 |
+| [145](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=145) | 1 |
+| [162](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=162) | 1 |
+| [164](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=164) | 1 |
+| [165](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=165) | 1 |
+| [166, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=166) | 2 |
+| [167, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=167) | 1 |
+| [191](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=191) | 1 |
+| [193](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=193) | 1 |
+| [197, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=197) | 2 |
+| [198](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=198) | 2 |
+
+3. Overtreding van een voorschrift gesteld in een hierna genoemd artikel van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is als volgt beboetbaar:
+
+| Algemene wet bestuursrecht | Boetecategorie |
+| --- | --- |
+| [5:20](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) | 2 |
+
+4. Overtreding van een voorschrift gesteld in een hierna genoemd artikel van dit besluit is als volgt beboetbaar:
+
+| Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling | Boetecategorie |
+| --- | --- |
+| [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=2&z=2009-08-01&g=2009-08-01) | 2 |
+| [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=5&z=2009-08-01&g=2009-08-01) | 2 |
+| [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=6&z=2009-08-01&g=2009-08-01) | 2 |
+| [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=7&z=2009-08-01&g=2009-08-01) | 2 |
+| [8](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=8&z=2009-08-01&g=2009-08-01) | 2 |
+| [9](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=9&z=2009-08-01&g=2009-08-01) | 2 |
+| [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=2&artikel=10&z=2009-08-01&g=2009-08-01) | 2 |
+| [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=3&artikel=11&z=2009-08-01&g=2009-08-01) | 1 |
+| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=15&z=2009-08-01&g=2009-08-01) | 2 |
+| [16](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=5&artikel=16&z=2009-08-01&g=2009-08-01) | 2 |
+| [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=25&z=2009-08-01&g=2009-08-01) | 2 |
+| [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=26&z=2009-08-01&g=2009-08-01) | 2 |
+| [27](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=27&z=2009-08-01&g=2009-08-01) | 2 |
+| [28](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=6&artikel=28&z=2009-08-01&g=2009-08-01) | 2 |
+
+5. Overtreding van een voorschrift gesteld in een hierna genoemd artikel van het [Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871) is als volgt beboetbaar:
+
+| Besluit financieel toetsingskader pensioenfondsen | Boetecategorie |
+| --- | --- |
+| [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=12) | 1 |
+| [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=13) | 1 |
+| [14](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=14) | 1 |
+| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=15) | 2 |
+| [16](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=16) | 2 |
+| [29](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=29) | 2 |
+| [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=31) | 2 |
+| [33](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=33) | 2 |
 
 ### Hoofdstuk 11. Overige en slotbepalingen
 
-## Bijlage. behorend bij [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=32&z=2009-07-01&g=2009-07-01) van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling
+## Bijlage. behorend bij [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=7&artikel=32&z=2009-08-01&g=2009-08-01) van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling
 
 Andere feiten of omstandigheden die redelijkerwijs van belang kunnen zijn voor de beoordeling van de betrouwbaarheid van betrokkene, blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is of is geweest bij een of meer van de onder 1 genoemde strafbare feiten. Onder processen-verbaal of rapporten worden ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland ter zake van daar geldende strafbepalingen, vergelijkbaar met de onder 1 genoemde.
 
