@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2008-10-01"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 5. Van het afleggen van het praktijkdeel als bedoeld in [artikel 3.7 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.7) alsmede van het elektronisch praktijkexamen en de toets gesproken Nederlands, bedoeld in [artikel 3.9, eerste lid, onderdelen a en b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), is vrijgesteld de verzoeker die een certificaat overlegt als bedoeld in [artikel 13, tweede lid, van de Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544&artikel=13), indien uit de vermelding daarop, of anders uit de bijbehorende verklaring van het Regionaal Opleidingencentrum, blijkt dat voor het onderdeel Nederlands als tweede taal bij de onderdelen Lezen, Luisteren, Schrijven en Spreken ten minste niveau 2 van de eindtermen Referentiekader Nederlands als Tweede Taal, dan wel ten minste niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen, zijn behaald. Bij het in dit lid bedoelde certificaat legt de verzoeker tevens de verklaring over van het Regionaal Opleidingencentrum op grond waarvan het certificaat is afgegeven.
 
-6. Van het afleggen van het praktijkdeel als bedoeld in [artikel 3.7 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.7) alsmede van het elektronisch praktijkexamen en de toets gesproken Nederlands, bedoeld in [artikel 3.9, eerste lid, onderdelen a en b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), is vrijgesteld de verzoeker die een originele verklaring overlegt van het Regionaal Opleidingencentrum, afgegeven op basis van de resultaten van een toets ter afronding van een NT2-taaltraject, indien uit de verklaring blijkt dat voor het onderdeel Nederlands als tweede taal bij de onderdelen Lezen, Luisteren, Schrijven en Spreken ten minste niveau 2 van de eindtermen Referentiekader Nederlands als Tweede Taal, dan wel ten minste niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen, zijn behaald.
+6. Van het afleggen van het praktijkdeel als bedoeld in [artikel 3.7 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.7) alsmede van het elektronisch praktijkexamen en de toets gesproken Nederlands, bedoeld in [artikel 3.9, eerste lid, onderdelen a en b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), is vrijgesteld de verzoeker die een originele verklaring overlegt van het Regionaal Opleidingencentrum, afgegeven op basis van de resultaten van een voor 1 januari 2007 afgelegde toets ter afronding van een NT2-taaltraject, indien uit de verklaring blijkt dat voor het onderdeel Nederlands als tweede taal bij de onderdelen Lezen, Luisteren, Schrijven en Spreken ten minste niveau 2 van de eindtermen Referentiekader Nederlands als Tweede Taal, dan wel ten minste niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen, zijn behaald.
 
 Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens te bevatten:
 
@@ -116,7 +116,19 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 - d. de naam en geboortedatum van de deelnemer aan het NT2-taaltraject die overeenkomen met de naam en geboortedatum zoals vermeld op zijn identiteitsdocument;
 
-- e. de behaalde taalniveaus uitgesplitst naar de vier taalvaardigheden Lezen, Luisteren, Schrijven en Spreken.
+- e. de behaalde taalniveaus uitgesplitst naar de vier taalvaardigheden Lezen, Luisteren, Schrijven en Spreken;
+
+- f. de datum waarop de toetsresultaten zijn behaald.
+
+7. Van het afleggen van het praktijkdeel, bedoeld in [artikel 3.7 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.7) alsmede van het elektronisch praktijkexamen en de toets gesproken Nederlands, bedoeld in [artikel 3.9, eerste lid, onderdelen a en b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), is vrijgesteld de verzoeker die beschikt over één van de volgende certificaten van het Certificaat Nederlands als Vreemde Taal:
+
+- a. Certificaat Profiel Maatschappelijke Taalvaardigheid (ERK-niveau B1),
+
+- b. Certificaat Profiel Professionele Taalvaardigheid (ERK-niveau B2),
+
+- c. Certificaat Profiel Taalvaardigheid Hoger Onderwijs (ERK-niveau B2), of
+
+- d. Certificaat Profiel Academische Taalvaardigheid (ERK-niveau C1).
 
 #### § 4. Belemmeringen
 
