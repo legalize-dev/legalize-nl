@@ -4,7 +4,7 @@ identifier: "BWBR0015703"
 country: "nl"
 rank: "wet"
 publication_date: "2026-04-03"
-last_updated: "2009-07-28"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015703"
 soort: "wet"
@@ -54,7 +54,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. college: het college van burgemeester en wethouders, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=40&z=2009-07-28&g=2009-07-28);
+- b. college: het college van burgemeester en wethouders, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=40&z=2009-08-01&g=2009-08-01);
 
 - c. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
@@ -146,7 +146,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 3°. de alleenstaande ouder met de tot zijn last komende kinderen;
 
-- d. kind: het in Nederland woonachtige eigen kind of stiefkind of, voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-07-28&g=2009-07-28) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9a&z=2009-07-28&g=2009-07-28), het in Nederland woonachtige pleegkind;
+- d. kind: het in Nederland woonachtige eigen kind of stiefkind of, voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-08-01&g=2009-08-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9a&z=2009-08-01&g=2009-08-01), het in Nederland woonachtige pleegkind;
 
 - e. ten laste komend kind: het kind jonger dan 18 jaar voor wie de alleenstaande ouder of de gehuwde aanspraak op kinderbijslag kan maken.
 
@@ -158,9 +158,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. algemene bijstand: de bijstand ter voorziening in de algemeen noodzakelijke kosten van het bestaan;
 
-- c. bijstandsnorm: de op grond van [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&z=2009-07-28&g=2009-07-28), op de belanghebbende van toepassing zijnde norm, vermeerderd of verminderd met de op grond van [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&z=2009-07-28&g=2009-07-28), door het college vastgestelde verhoging of verlaging;
+- c. bijstandsnorm: de op grond van [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&z=2009-08-01&g=2009-08-01), op de belanghebbende van toepassing zijnde norm, vermeerderd of verminderd met de op grond van [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&z=2009-08-01&g=2009-08-01), door het college vastgestelde verhoging of verlaging;
 
-- d. bijzondere bijstand: de bijstand, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=35&z=2009-07-28&g=2009-07-28), en de langdurigheidstoeslag, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2009-07-28&g=2009-07-28);
+- d. bijzondere bijstand: de bijstand, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=35&z=2009-08-01&g=2009-08-01), en de langdurigheidstoeslag, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2009-08-01&g=2009-08-01);
 
 - e. voorliggende voorziening: elke voorziening buiten deze wet waarop de belanghebbende of het gezin aanspraak kan maken, dan wel een beroep kan doen, ter verwerving van middelen of ter bekostiging van specifieke uitgaven.
 
@@ -170,13 +170,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. niet-uitkeringsgerechtigde: de persoon, jonger dan 65 jaar, die als werkloze werkzoekende staat geregistreerd bij het Uitvoeringsinstituut werknemersverzekeringen en die geen recht heeft op een uitkering op grond van deze wet of de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering,](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](https://wetten.overheid.nl/jci1.3:c:BWBR0007891), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) dan wel op grond van een regeling, die met deze wetten naar aard en strekking overeenstemt;
 
-- b. arbeidsinschakeling: het verkrijgen van algemeen geaccepteerde arbeid, waarbij geen gebruik wordt gemaakt van een voorziening als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-07-28&g=2009-07-28);
+- b. arbeidsinschakeling: het verkrijgen van algemeen geaccepteerde arbeid, waarbij geen gebruik wordt gemaakt van een voorziening als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-08-01&g=2009-08-01);
 
 - c. sociale activering: het verrichten van onbeloonde maatschappelijk zinvolle activiteiten gericht op arbeidsinschakeling of, als arbeidsinschakeling nog niet mogelijk is, op zelfstandige maatschappelijke participatie;
 
 - d. startkwalificatie: een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7) onderscheidenlijk [8 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8).
 
-2. Voor de toepassing van deze wet wordt niet als algemeen geaccepteerde arbeid beschouwd arbeid op grond van een dienstbetrekking als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2) of [3 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3). Voor de toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-07-28&g=2009-07-28), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=8&z=2009-07-28&g=2009-07-28) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=10&z=2009-07-28&g=2009-07-28) wordt voor personen die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoren van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) onder een voorziening gericht op arbeidsinschakeling mede verstaan een voorziening gericht op het verkrijgen van arbeid in een dienstbetrekking als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2) en [7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=7).
+2. Voor de toepassing van deze wet wordt niet als algemeen geaccepteerde arbeid beschouwd arbeid op grond van een dienstbetrekking als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2) of [3 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3). Voor de toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-08-01&g=2009-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=8&z=2009-08-01&g=2009-08-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=10&z=2009-08-01&g=2009-08-01) wordt voor personen die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoren van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) onder een voorziening gericht op arbeidsinschakeling mede verstaan een voorziening gericht op het verkrijgen van arbeid in een dienstbetrekking als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2) en [7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=7).
 
 #### § 1.2. Opdracht gemeente
 
@@ -184,7 +184,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Het college is verantwoordelijk voor:
 
-- a. het ondersteunen van personen die algemene bijstand ontvangen, personen als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=10&z=2009-07-28&g=2009-07-28), personen met een nabestaanden- of halfwezenuitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en niet-uitkeringsgerechtigden bij arbeidsinschakeling en, indien het college daarbij het aanbieden van een voorziening, waaronder begrepen sociale activering, gericht op arbeidsinschakeling noodzakelijk acht, voor het bepalen en aanbieden van deze voorziening, en;
+- a. het ondersteunen van personen die algemene bijstand ontvangen, personen als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=10&z=2009-08-01&g=2009-08-01), personen met een nabestaanden- of halfwezenuitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en niet-uitkeringsgerechtigden bij arbeidsinschakeling en, indien het college daarbij het aanbieden van een voorziening, waaronder begrepen sociale activering, gericht op arbeidsinschakeling noodzakelijk acht, voor het bepalen en aanbieden van deze voorziening, en;
 
 - b. het verlenen van bijstand aan personen hier te lande die in zodanige omstandigheden verkeren of dreigen te geraken dat zij niet over de middelen beschikken om in de noodzakelijke kosten van het bestaan te voorzien.
 
@@ -192,31 +192,29 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het eerste lid, aanhef en onderdeel a, is niet van toepassing op personen aan wie het Uitvoeringsinstituut werknemersverzekeringen een uitkering verstrekt. Het college en het Uitvoeringsinstituut werknemersverzekeringen kunnen overeenkomen dat het eerste lid, aanhef en onderdeel a, van toepassing is op voornoemde personen. Daarnaast kunnen het college en het Uitvoeringsinstituut werknemersverzekeringen overeenkomen dat het college aan voornoemde personen een voorziening aanbiedt als bedoeld in het eerste lid, onderdeel a.
 
-4. Voor de toepassing van het eerste lid, onderdeel a, wordt voor personen die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoren van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) onder een voorziening gericht op arbeidsinschakeling mede verstaan een voorziening gericht op het verkrijgen van arbeid in een dienstbetrekking of arbeidsovereenkomst als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2) en [7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=7).
+4. Het college kan de uitvoering van deze wet, behoudens de vaststelling van de rechten en plichten van de belanghebbende en de daarvoor noodzakelijke beoordeling van zijn omstandigheden, door derden laten verrichten. Het college kan de in de eerste volzin bedoelde vaststelling en beoordeling mandateren aan bestuursorganen.
 
-5. Het college kan de uitvoering van deze wet, behoudens de vaststelling van de rechten en plichten van de belanghebbende en de daarvoor noodzakelijke beoordeling van zijn omstandigheden, door derden laten verrichten. Het college kan de in de eerste volzin bedoelde vaststelling en beoordeling mandateren aan bestuursorganen.
-
-6. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het tweede tot en met vierde lid.
+5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het tweede tot en met vierde lid.
 
 ##### Artikel 8. Opdracht gemeenteraad
 
 1. De gemeenteraad stelt bij verordening regels met betrekking tot:
 
-- a. het ondersteunen bij arbeidsinschakeling en het aanbieden van voorzieningen gericht op arbeidsinschakeling, bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-07-28&g=2009-07-28);
+- a. het ondersteunen bij arbeidsinschakeling en het aanbieden van voorzieningen gericht op arbeidsinschakeling, bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-08-01&g=2009-08-01);
 
-- b. het verlagen van de bijstand, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2009-07-28&g=2009-07-28);
+- b. het verlagen van de bijstand, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2009-08-01&g=2009-08-01);
 
-- c. het verhogen en verlagen van de norm, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=30&z=2009-07-28&g=2009-07-28);
+- c. het verhogen en verlagen van de norm, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=30&z=2009-08-01&g=2009-08-01);
 
-- d. het verlenen van een langdurigheidstoeslag als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2009-07-28&g=2009-07-28);
+- d. het verlenen van een langdurigheidstoeslag als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2009-08-01&g=2009-08-01);
 
-- e. de scholing of opleiding, bedoeld in [artikel 10a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=10a&z=2009-07-28&g=2009-07-28);
+- e. de scholing of opleiding, bedoeld in [artikel 10a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=10a&z=2009-08-01&g=2009-08-01);
 
-- f. de premie, bedoeld in [artikel 10a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=10a&z=2009-07-28&g=2009-07-28).
+- f. de premie, bedoeld in [artikel 10a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=10a&z=2009-08-01&g=2009-08-01).
 
 2. De regels, bedoeld in het eerste lid, hebben:
 
-- a. voor zover het gaat om het eerste lid, onderdeel a, in ieder geval betrekking op de evenwichtige aandacht voor de in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-07-28&g=2009-07-28), genoemde groepen, alsmede voor verschillende doelgroepen daarbinnen, en op de wijze waarop rekening wordt gehouden met zorgtaken;
+- a. voor zover het gaat om het eerste lid, onderdeel a, in ieder geval betrekking op de evenwichtige aandacht voor de in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-08-01&g=2009-08-01), genoemde groepen, alsmede voor verschillende doelgroepen daarbinnen, en op de wijze waarop rekening wordt gehouden met zorgtaken;
 
 - b. voor zover het gaat om het eerste lid, onderdeel d, in ieder geval betrekking op de hoogte van de langdurigheidstoeslag en de wijze waarop invulling wordt gegeven aan de begrippen langdurig en laag inkomen;
 
@@ -232,13 +230,13 @@ De gemeenteraad stelt in het kader van het financiële beheer bij verordening re
 
 ##### Artikel 9. Plicht tot arbeidsinschakeling
 
-1. De belanghebbende van 18 jaar of ouder doch jonger dan 65 jaar is, vanaf de dag van melding als bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.2&artikel=44&z=2009-07-28&g=2009-07-28), verplicht:
+1. De belanghebbende van 18 jaar of ouder doch jonger dan 65 jaar is, vanaf de dag van melding als bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.2&artikel=44&z=2009-08-01&g=2009-08-01), verplicht:
 
-- a. naar vermogen algemeen geaccepteerde arbeid, waarbij geen gebruik wordt gemaakt van een voorziening als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-07-28&g=2009-07-28), te verkrijgen en deze te aanvaarden, waaronder begrepen registratie als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen, indien hem daartoe het recht toekomt op grond van [artikel 30b, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30b);
+- a. naar vermogen algemeen geaccepteerde arbeid, waarbij geen gebruik wordt gemaakt van een voorziening als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-08-01&g=2009-08-01), te verkrijgen en deze te aanvaarden, waaronder begrepen registratie als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen, indien hem daartoe het recht toekomt op grond van [artikel 30b, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30b);
 
 - b. gebruik te maken van een door het college aangeboden voorziening, waaronder begrepen sociale activering, gericht op arbeidsinschakeling, alsmede mee te werken aan een onderzoek naar zijn mogelijkheden tot arbeidsinschakeling.
 
-2. Indien daarvoor dringende redenen aanwezig zijn, kan het college in individuele gevallen tijdelijk ontheffing verlenen van een verplichting als bedoeld in het eerste lid. Zorgtaken kunnen als dringende redenen worden aangemerkt, voorzover hiermee geen rekening kan worden gehouden door middel van een voorziening als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-07-28&g=2009-07-28).
+2. Indien daarvoor dringende redenen aanwezig zijn, kan het college in individuele gevallen tijdelijk ontheffing verlenen van een verplichting als bedoeld in het eerste lid. Zorgtaken kunnen als dringende redenen worden aangemerkt, voorzover hiermee geen rekening kan worden gehouden door middel van een voorziening als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-08-01&g=2009-08-01).
 
 3. Indien bijstand wordt verleend aan gehuwden gelden de verplichtingen bedoeld in het eerste lid voor ieder van hen.
 
@@ -248,11 +246,11 @@ De gemeenteraad stelt in het kader van het financiële beheer bij verordening re
 
 ##### Artikel 10. Aanspraak op ondersteuning bij arbeidsinschakeling
 
-1. Personen die algemene bijstand ontvangen, personen met een nabestaanden- of halfwezenuitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en niet-uitkeringsgerechtigden hebben, overeenkomstig de verordening, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=8&z=2009-07-28&g=2009-07-28), aanspraak op ondersteuning bij arbeidsinschakeling en op de naar het oordeel van het college noodzakelijk geachte voorziening gericht op arbeidsinschakeling.
+1. Personen die algemene bijstand ontvangen, personen met een nabestaanden- of halfwezenuitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en niet-uitkeringsgerechtigden hebben, overeenkomstig de verordening, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=8&z=2009-08-01&g=2009-08-01), aanspraak op ondersteuning bij arbeidsinschakeling en op de naar het oordeel van het college noodzakelijk geachte voorziening gericht op arbeidsinschakeling.
 
 2. Het eerste lid is van overeenkomstige toepassing op personen die vanwege een voorziening gericht op arbeidsinschakeling niet tot een van de groepen, bedoeld in het eerste lid, behoren.
 
-3. [Artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=40&z=2009-07-28&g=2009-07-28), is van overeenkomstige toepassing.
+3. [Artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=40&z=2009-08-01&g=2009-08-01), is van overeenkomstige toepassing.
 
 #### § 2.2. Bijstand
 
@@ -306,7 +304,7 @@ Een persoon van 18, 19 of 20 jaar heeft recht op bijzondere bijstand voorzover z
 
 4. In afwijking van het eerste lid, onderdeel d, geldt:
 
-- a. voor personen jonger dan 65 jaar, aan wie op grond van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-07-28&g=2009-07-28), ontheffing is verleend van de verplichtingen, bedoeld in [artikel 9, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-07-28&g=2009-07-28), een periode van 13 weken;
+- a. voor personen jonger dan 65 jaar, aan wie op grond van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-08-01&g=2009-08-01), ontheffing is verleend van de verplichtingen, bedoeld in [artikel 9, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-08-01&g=2009-08-01), een periode van 13 weken;
 
 - b. voor personen van 65 jaar of ouder, een periode van 26 weken.
 
@@ -334,7 +332,7 @@ In ieder geval worden niet tot de noodzakelijke kosten van het bestaan gerekend 
 
 1. Aan een persoon die geen recht op bijstand heeft, kan het college, gelet op alle omstandigheden, in afwijking van deze paragraaf, bijstand verlenen indien zeer dringende redenen daartoe noodzaken.
 
-2. Het eerste lid is niet van toepassing op andere vreemdelingen dan die, bedoeld in [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2009-07-28&g=2009-07-28).
+2. Het eerste lid is niet van toepassing op andere vreemdelingen dan die, bedoeld in [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2009-08-01&g=2009-08-01).
 
 #### § 2.3. Inlichtingenplicht en afstemming
 
@@ -352,7 +350,7 @@ In ieder geval worden niet tot de noodzakelijke kosten van het bestaan gerekend 
 
 1. Het college stemt de bijstand en de daaraan verbonden verplichtingen af op de omstandigheden, mogelijkheden en middelen van de belanghebbende.
 
-2. Het college verlaagt de bijstand overeenkomstig de verordening, bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=8&z=2009-07-28&g=2009-07-28), ter zake van het niet of onvoldoende nakomen door de belanghebbende van de verplichtingen voortvloeiende uit deze wet dan wel de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), of [29, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29), waaronder begrepen het zich jegens het college zeer ernstig misdragen, dan wel indien de belanghebbende naar het oordeel van het college tekortschietend besef van verantwoordelijkheid betoont voor de voorziening in het bestaan. Van een verlaging wordt afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
+2. Het college verlaagt de bijstand overeenkomstig de verordening, bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=8&z=2009-08-01&g=2009-08-01), ter zake van het niet of onvoldoende nakomen door de belanghebbende van de verplichtingen voortvloeiende uit deze wet dan wel de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=28), of [29, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=29), waaronder begrepen het zich jegens het college zeer ernstig misdragen, dan wel indien de belanghebbende naar het oordeel van het college tekortschietend besef van verantwoordelijkheid betoont voor de voorziening in het bestaan. Van een verlaging wordt afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
 3. Het college heroverweegt een besluit als bedoeld in het tweede lid binnen een door hem te bepalen termijn die ten hoogste drie maanden bedraagt.
 
@@ -364,7 +362,7 @@ In ieder geval worden niet tot de noodzakelijke kosten van het bestaan gerekend 
 
 ##### Artikel 19. Voorwaarden
 
-1. Onverminderd [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&z=2009-07-28&g=2009-07-28), heeft de alleenstaande of het gezin recht op algemene bijstand indien:
+1. Onverminderd [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&z=2009-08-01&g=2009-08-01), heeft de alleenstaande of het gezin recht op algemene bijstand indien:
 
 - a. het in aanmerking te nemen inkomen lager is dan de bijstandsnorm; en
 
@@ -442,41 +440,41 @@ Indien een van de gehuwden geen recht op algemene bijstand heeft, is voor de rec
 
 ##### Artikel 25. Alleenstaande (ouder)
 
-1. Het college verhoogt de norm, bedoeld in [artikel 21, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2009-07-28&g=2009-07-28), met een toeslag voorzover de belanghebbende hogere algemeen noodzakelijke kosten van het bestaan heeft dan waarin de norm voorziet, als gevolg van het niet of niet geheel kunnen delen van deze kosten met een ander.
+1. Het college verhoogt de norm, bedoeld in [artikel 21, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2009-08-01&g=2009-08-01), met een toeslag voorzover de belanghebbende hogere algemeen noodzakelijke kosten van het bestaan heeft dan waarin de norm voorziet, als gevolg van het niet of niet geheel kunnen delen van deze kosten met een ander.
 
 2. De toeslag bedraagt ten hoogste € 227,11 per 1 juli 2009: € 259,01 per kalendermaand.
 
 ##### Artikel 26. Gehuwden
 
-Het college kan de norm, bedoeld in [artikel 20, eerste lid, onderdelen b en c, en tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2009-07-28&g=2009-07-28), en [artikel 21, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2009-07-28&g=2009-07-28), verlagen voorzover de belanghebbenden lagere algemeen noodzakelijke kosten van het bestaan hebben dan waarin de norm voorziet als gevolg van het geheel of gedeeltelijk kunnen delen van deze kosten met een ander.
+Het college kan de norm, bedoeld in [artikel 20, eerste lid, onderdelen b en c, en tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2009-08-01&g=2009-08-01), en [artikel 21, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2009-08-01&g=2009-08-01), verlagen voorzover de belanghebbenden lagere algemeen noodzakelijke kosten van het bestaan hebben dan waarin de norm voorziet als gevolg van het geheel of gedeeltelijk kunnen delen van deze kosten met een ander.
 
 ##### Artikel 27. Woonsituatie
 
-Het college kan de norm, bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2009-07-28&g=2009-07-28) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2009-07-28&g=2009-07-28), of de toeslag, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2009-07-28&g=2009-07-28), lager vaststellen voorzover de belanghebbende lagere algemeen noodzakelijke kosten van het bestaan heeft dan waarin de norm of de toeslag voorziet als gevolg van zijn woonsituatie, waaronder begrepen het niet aanhouden van een woning.
+Het college kan de norm, bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2009-08-01&g=2009-08-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2009-08-01&g=2009-08-01), of de toeslag, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2009-08-01&g=2009-08-01), lager vaststellen voorzover de belanghebbende lagere algemeen noodzakelijke kosten van het bestaan heeft dan waarin de norm of de toeslag voorziet als gevolg van zijn woonsituatie, waaronder begrepen het niet aanhouden van een woning.
 
 ##### Artikel 28. Schoolverlaters
 
-Het college kan voor de belanghebbende die recent de deelname heeft beëindigd aan onderwijs of een beroepsopleiding, de norm of de toeslag, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2009-07-28&g=2009-07-28), gedurende zes maanden na het tijdstip van die beëindiging lager vaststellen, indien voor het onderwijs of de beroepsopleiding aanspraak bestond op studiefinanciering op grond van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) of op een tegemoetkoming in de onderwijsbijdrage en de schoolkosten op grond van [hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4).
+Het college kan voor de belanghebbende die recent de deelname heeft beëindigd aan onderwijs of een beroepsopleiding, de norm of de toeslag, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2009-08-01&g=2009-08-01), gedurende zes maanden na het tijdstip van die beëindiging lager vaststellen, indien voor het onderwijs of de beroepsopleiding aanspraak bestond op studiefinanciering op grond van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) of op een tegemoetkoming in de onderwijsbijdrage en de schoolkosten op grond van [hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4).
 
 ##### Artikel 29. Alleenstaande van 21 of 22 jaar
 
-1. Het college kan de toeslag, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2009-07-28&g=2009-07-28), voor een alleenstaande van 21 of 22 jaar afwijkend vaststellen voorzover het van oordeel is dat, gezien de hoogte van het minimumjeugdloon, de hoogte van deze toeslag een belemmering kan vormen voor de aanvaarding van arbeid.
+1. Het college kan de toeslag, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2009-08-01&g=2009-08-01), voor een alleenstaande van 21 of 22 jaar afwijkend vaststellen voorzover het van oordeel is dat, gezien de hoogte van het minimumjeugdloon, de hoogte van deze toeslag een belemmering kan vormen voor de aanvaarding van arbeid.
 
 2. Onder het minimumjeugdloon bedoeld in het eerste lid wordt verstaan het voor de betreffende leeftijd geldende minimumloon bedoeld in [artikel 8, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) verminderd met de daarover verschuldigde loonheffing en de daarover verschuldigde inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=41).
 
 ##### Artikel 30. Verordening
 
-1. In de verordening, bedoeld in [artikel 8, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=8&z=2009-07-28&g=2009-07-28), stelt de gemeenteraad vast voor welke categorieën de norm wordt verhoogd of verlaagd en op grond van welke criteria de hoogte van die verhoging of verlaging wordt bepaald.
+1. In de verordening, bedoeld in [artikel 8, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=8&z=2009-08-01&g=2009-08-01), stelt de gemeenteraad vast voor welke categorieën de norm wordt verhoogd of verlaagd en op grond van welke criteria de hoogte van die verhoging of verlaging wordt bepaald.
 
 2. In deze verordening stelt de gemeenteraad in elk geval vast dat:
 
-- a. onverminderd de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2009-07-28&g=2009-07-28), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=28&z=2009-07-28&g=2009-07-28) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=29&z=2009-07-28&g=2009-07-28), de toeslag, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2009-07-28&g=2009-07-28), voor de alleenstaande en de alleenstaande ouder met zijn ten laste komende kinderen in wiens woning geen ander zijn hoofdverblijf heeft, wordt bepaald op het in dat artikel genoemde maximumbedrag;
+- a. onverminderd de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2009-08-01&g=2009-08-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=28&z=2009-08-01&g=2009-08-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=29&z=2009-08-01&g=2009-08-01), de toeslag, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2009-08-01&g=2009-08-01), voor de alleenstaande en de alleenstaande ouder met zijn ten laste komende kinderen in wiens woning geen ander zijn hoofdverblijf heeft, wordt bepaald op het in dat artikel genoemde maximumbedrag;
 
-- b. jegens een belanghebbende niet gelijktijdig gebruik gemaakt wordt van de bevoegdheden bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=28&z=2009-07-28&g=2009-07-28) en [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=29&z=2009-07-28&g=2009-07-28).
+- b. jegens een belanghebbende niet gelijktijdig gebruik gemaakt wordt van de bevoegdheden bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=28&z=2009-08-01&g=2009-08-01) en [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=29&z=2009-08-01&g=2009-08-01).
 
-3. In de verordening worden uitsluitend verhogingen of verlagingen vastgesteld als bedoeld in de [artikelen 25 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2009-07-28&g=2009-07-28).
+3. In de verordening worden uitsluitend verhogingen of verlagingen vastgesteld als bedoeld in de [artikelen 25 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2009-08-01&g=2009-08-01).
 
-4. Verhoging of verlaging van de norm of afwijkende vaststelling van de toeslag vindt plaats onverminderd [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2009-07-28&g=2009-07-28).
+4. Verhoging of verlaging van de norm of afwijkende vaststelling van de toeslag vindt plaats onverminderd [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2009-08-01&g=2009-08-01).
 
 #### § 3.4. Middelen
 
@@ -502,7 +500,7 @@ Het college kan voor de belanghebbende die recent de deelname heeft beëindigd a
 
 - h. inkomsten uit arbeid van de tot zijn last komende kinderen, alsmede door hen ontvangen uitkeringen inzake werkloosheid en arbeidsongeschiktheid, tenzij het de verlening van bijzondere bijstand betreft voor bijzondere noodzakelijke kosten van het bestaan van die kinderen;
 
-- i. rente ontvangen over op grond van [artikel 34, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-07-28&g=2009-07-28), niet in aanmerking genomen vermogen en spaargelden;
+- i. rente ontvangen over op grond van [artikel 34, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-08-01&g=2009-08-01), niet in aanmerking genomen vermogen en spaargelden;
 
 - j. een een- of tweemalige premie van ten hoogste € 1984,00 per 1 juli 2009: € 2.219,00 per kalenderjaar, voor zover dit naar het oordeel van het college bijdraagt aan zijn arbeidsinschakeling;
 
@@ -512,7 +510,7 @@ Het college kan voor de belanghebbende die recent de deelname heeft beëindigd a
 
 - m. giften en andere dan de in onderdeel l bedoelde vergoedingen voor materiële en immateriële schade voorzover deze naar het oordeel van het college uit een oogpunt van bijstandsverlening verantwoord zijn;
 
-- n. een uitkering tot levensonderhoud op grond van [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656) die de belanghebbende jonger dan 21 jaar van zijn ouder of ouders ontvangt, voorzover deze uitkering op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2009-07-28&g=2009-07-28) reeds in aanmerking is genomen bij de vaststelling van het recht op bijzondere bijstand;
+- n. een uitkering tot levensonderhoud op grond van [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656) die de belanghebbende jonger dan 21 jaar van zijn ouder of ouders ontvangt, voorzover deze uitkering op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2009-08-01&g=2009-08-01) reeds in aanmerking is genomen bij de vaststelling van het recht op bijzondere bijstand;
 
 - o. inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 183,00 per 28 juli 2009 en terugwerkend tot en met 1 juli 2009: € 186,00 per maand, voor zover hij algemene bijstand ontvangt, waarbij voor een persoon jonger dan 65 jaar geldt dat die inkomsten gedurende ten hoogste zes aaneengesloten maanden niet tot de middelen worden gerekend en dat dit naar het oordeel van het college moet bijdragen aan zijn arbeidsinschakeling;
 
@@ -542,9 +540,9 @@ Het college kan voor de belanghebbende die recent de deelname heeft beëindigd a
 
 ##### Artikel 32. Inkomen
 
-1. Onder inkomen wordt verstaan de op grond van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-07-28&g=2009-07-28) in aanmerking genomen middelen voorzover deze:
+1. Onder inkomen wordt verstaan de op grond van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-08-01&g=2009-08-01) in aanmerking genomen middelen voorzover deze:
 
-- a. betreffen inkomsten uit of in verband met arbeid, inkomsten uit vermogen, een premie als bedoeld in [artikel 31, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-07-28&g=2009-07-28), een kostenvergoeding als bedoeld in [artikel 31, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-07-28&g=2009-07-28), inkomsten uit verhuur, onderverhuur of het hebben van een of meer kostgangers, socialezekerheidsuitkeringen, uitkeringen tot levensonderhoud op grond van [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656), voorlopige teruggave of teruggave van inkomstenbelasting, loonbelasting, premies volksverzekeringen en inkomensafhankelijke bijdragen als bedoeld in [artikel 41 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=41), dan wel naar hun aard met deze inkomsten en uitkeringen overeenkomen; en
+- a. betreffen inkomsten uit of in verband met arbeid, inkomsten uit vermogen, een premie als bedoeld in [artikel 31, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-08-01&g=2009-08-01), een kostenvergoeding als bedoeld in [artikel 31, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-08-01&g=2009-08-01), inkomsten uit verhuur, onderverhuur of het hebben van een of meer kostgangers, socialezekerheidsuitkeringen, uitkeringen tot levensonderhoud op grond van [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656), voorlopige teruggave of teruggave van inkomstenbelasting, loonbelasting, premies volksverzekeringen en inkomensafhankelijke bijdragen als bedoeld in [artikel 41 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=41), dan wel naar hun aard met deze inkomsten en uitkeringen overeenkomen; en
 
 - b. betrekking hebben op een periode waarover beroep op bijstand wordt gedaan.
 
@@ -566,7 +564,7 @@ Het college kan voor de belanghebbende die recent de deelname heeft beëindigd a
 
 3. De tegemoetkoming in de onderwijsbijdrage en de schoolkosten op grond van [hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) wordt in aanmerking genomen naar het normbedrag voor de basistoelage, bedoeld in [artikel 4.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.3).
 
-4. Indien de belanghebbende de woning bewoont met een of meer huurders, onderhuurders of kostgangers, worden de daaruit voortvloeiende lagere algemene noodzakelijke kosten van het bestaan als inkomen in aanmerking genomen voorzover het college daarmee nog geen rekening heeft gehouden bij de verhoging of verlaging van de norm, bedoeld in [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&z=2009-07-28&g=2009-07-28).
+4. Indien de belanghebbende de woning bewoont met een of meer huurders, onderhuurders of kostgangers, worden de daaruit voortvloeiende lagere algemene noodzakelijke kosten van het bestaan als inkomen in aanmerking genomen voorzover het college daarmee nog geen rekening heeft gehouden bij de verhoging of verlaging van de norm, bedoeld in [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&z=2009-08-01&g=2009-08-01).
 
 5. Indien de alleenstaande, de alleenstaande ouder of een van de echtgenoten 65 jaar of ouder is, wordt voor de vaststelling van de hoogte van de algemene bijstand een in de vorm van een periodieke uitkering ontvangen particuliere oudedagsvoorziening buiten beschouwing gelaten tot een bedrag van:
 
@@ -580,7 +578,7 @@ Het college kan voor de belanghebbende die recent de deelname heeft beëindigd a
 
 - a. de waarde van de bezittingen waarover de alleenstaande of het gezin beschikt of redelijkerwijs kan beschikken, verminderd met de aanwezige schulden. De waarde van de bezittingen wordt vastgesteld op de waarde in het economische verkeer bij vrije oplevering;
 
-- b. middelen die worden ontvangen in de periode waarover algemene bijstand is toegekend, voorzover deze geen inkomen betreffen als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=32&z=2009-07-28&g=2009-07-28) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=33&z=2009-07-28&g=2009-07-28).
+- b. middelen die worden ontvangen in de periode waarover algemene bijstand is toegekend, voorzover deze geen inkomen betreffen als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=32&z=2009-08-01&g=2009-08-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=33&z=2009-08-01&g=2009-08-01).
 
 2. Niet als vermogen wordt in aanmerking genomen:
 
@@ -590,11 +588,11 @@ Het college kan voor de belanghebbende die recent de deelname heeft beëindigd a
 
 - c. spaargelden opgebouwd tijdens de periode waarin bijstand wordt ontvangen;
 
-- d. het vermogen gebonden in de woning met bijbehorend erf, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&artikel=50&z=2009-07-28&g=2009-07-28), voorzover dit minder bedraagt dan € 42 000,00 per 1 januari 2009: € 46.100,00;
+- d. het vermogen gebonden in de woning met bijbehorend erf, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&artikel=50&z=2009-08-01&g=2009-08-01), voorzover dit minder bedraagt dan € 42 000,00 per 1 januari 2009: € 46.100,00;
 
-- e. vergoedingen voor immateriële schade als bedoeld in [artikel 31, tweede lid, onderdelen l en m](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-07-28&g=2009-07-28);
+- e. vergoedingen voor immateriële schade als bedoeld in [artikel 31, tweede lid, onderdelen l en m](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-08-01&g=2009-08-01);
 
-- f. de voorziening, bedoeld in [artikel 31, tweede lid, onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-07-28&g=2009-07-28).
+- f. de voorziening, bedoeld in [artikel 31, tweede lid, onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-08-01&g=2009-08-01).
 
 3. De in het tweede lid, onderdeel b, bedoelde vermogensgrens is:
 
@@ -616,7 +614,7 @@ Het college kan voor de belanghebbende die recent de deelname heeft beëindigd a
 
 ##### Artikel 35. Individuele en categoriale bijzondere bijstand
 
-1. Onverminderd [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&z=2009-07-28&g=2009-07-28), heeft de alleenstaande of het gezin recht op bijzondere bijstand voorzover de alleenstaande of het gezin niet beschikt over de middelen om te voorzien in de uit bijzondere omstandigheden voortvloeiende noodzakelijke kosten van het bestaan en deze kosten naar het oordeel van het college niet kunnen worden voldaan uit de bijstandsnorm, de langdurigheidstoeslag, het vermogen en het inkomen voorzover dit meer bedraagt dan de bijstandsnorm, waarbij [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-07-28&g=2009-07-28), en [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-07-28&g=2009-07-28), niet van toepassing zijn. Het college bepaalt het begin en de duur van de periode waarover het vermogen en het inkomen in aanmerking wordt genomen.
+1. Onverminderd [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&z=2009-08-01&g=2009-08-01), heeft de alleenstaande of het gezin recht op bijzondere bijstand voorzover de alleenstaande of het gezin niet beschikt over de middelen om te voorzien in de uit bijzondere omstandigheden voortvloeiende noodzakelijke kosten van het bestaan en deze kosten naar het oordeel van het college niet kunnen worden voldaan uit de bijstandsnorm, de langdurigheidstoeslag, het vermogen en het inkomen voorzover dit meer bedraagt dan de bijstandsnorm, waarbij [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-08-01&g=2009-08-01), en [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-08-01&g=2009-08-01), niet van toepassing zijn. Het college bepaalt het begin en de duur van de periode waarover het vermogen en het inkomen in aanmerking wordt genomen.
 
 2. Het college kan bijzondere bijstand weigeren, indien de in het eerste lid bedoelde kosten binnen twaalf maanden een bedrag van € 107,00 per 1 januari 2009: € 120,00 niet te boven gaan.
 
@@ -628,23 +626,23 @@ Het college kan voor de belanghebbende die recent de deelname heeft beëindigd a
 
 6. In afwijking van het eerste lid kan bijzondere bijstand ook aan een persoon worden verleend in de vorm van een collectieve aanvullende ziektekostenverzekering zonder dat wordt nagegaan of ten aanzien van die persoon de kosten van die verzekering ook daadwerkelijk noodzakelijk zijn of gemaakt zijn.
 
-7. Voor de toepassing van dit artikel wordt onder bijzondere bijstand niet verstaan langdurigheidstoeslag als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2009-07-28&g=2009-07-28).
+7. Voor de toepassing van dit artikel wordt onder bijzondere bijstand niet verstaan langdurigheidstoeslag als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2009-08-01&g=2009-08-01).
 
 8. Voorzover de gemeente krachtens de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) inhoudingsplichtige is, wordt de bijzondere bijstand verhoogd met de loonbelasting en premies volksverzekeringen, alsmede met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46).
 
 ##### Artikel 36. Langdurigheidstoeslag
 
-1. Het college verleent op aanvraag een langdurigheidstoeslag aan een persoon van 21 jaar of ouder doch jonger dan 65 jaar, die langdurig een laag inkomen en geen in aanmerking te nemen vermogen als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-07-28&g=2009-07-28) heeft en geen uitzicht heeft op inkomensverbetering.
+1. Het college verleent op aanvraag een langdurigheidstoeslag aan een persoon van 21 jaar of ouder doch jonger dan 65 jaar, die langdurig een laag inkomen en geen in aanmerking te nemen vermogen als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-08-01&g=2009-08-01) heeft en geen uitzicht heeft op inkomensverbetering.
 
 2. Bij de vaststelling van het inkomen, bedoeld in het eerste lid, wordt een eerder verstrekte langdurigheidstoeslag buiten beschouwing gelaten.
 
 3. Een persoon kan slechts eenmaal binnen een periode van 12 maanden in aanmerking komen voor een langdurigheidstoeslag.
 
-4. De langdurigheidstoeslag wordt verleend met ingang van de datum waarop de persoon langdurig een laag inkomen en geen in aanmerking te nemen vermogen als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-07-28&g=2009-07-28) heeft.
+4. De langdurigheidstoeslag wordt verleend met ingang van de datum waarop de persoon langdurig een laag inkomen en geen in aanmerking te nemen vermogen als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-08-01&g=2009-08-01) heeft.
 
-5. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2009-07-28&g=2009-07-28), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=43&z=2009-07-28&g=2009-07-28), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.2&artikel=44&z=2009-07-28&g=2009-07-28), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&artikel=49&z=2009-07-28&g=2009-07-28) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&artikel=52&z=2009-07-28&g=2009-07-28) zijn niet van toepassing.
+5. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2009-08-01&g=2009-08-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=43&z=2009-08-01&g=2009-08-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.2&artikel=44&z=2009-08-01&g=2009-08-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&artikel=49&z=2009-08-01&g=2009-08-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&artikel=52&z=2009-08-01&g=2009-08-01) zijn niet van toepassing.
 
-6. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.1&artikel=5&z=2009-07-28&g=2009-07-28), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2009-07-28&g=2009-07-28) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.2&artikel=39&z=2009-07-28&g=2009-07-28), zoals die luidden op 31 december 2008, blijven van toepassing op een aanvraag voor een langdurigheidstoeslag in 2009, indien:
+6. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.1&artikel=5&z=2009-08-01&g=2009-08-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2009-08-01&g=2009-08-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.2&artikel=39&z=2009-08-01&g=2009-08-01), zoals die luidden op 31 december 2008, blijven van toepassing op een aanvraag voor een langdurigheidstoeslag in 2009, indien:
 
 - a. die aanvraag ziet op een recht op een langdurigheidstoeslag dat in 2009 is ontstaan,
 
@@ -670,25 +668,25 @@ Dit lid vervalt met ingang van 1 januari 2010.
 
 1. Met ingang van de dag waarop het netto minimumloon wijzigt, worden herzien:
 
-- a. met het percentage van deze wijziging, de normen, genoemd in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2009-07-28&g=2009-07-28) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2009-07-28&g=2009-07-28), en het bedrag, genoemd in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2009-07-28&g=2009-07-28);
+- a. met het percentage van deze wijziging, de normen, genoemd in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2009-08-01&g=2009-08-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=21&z=2009-08-01&g=2009-08-01), en het bedrag, genoemd in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.3&artikel=25&z=2009-08-01&g=2009-08-01);
 
-- b. het percentage, genoemd in [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2009-07-28&g=2009-07-28), zodanig dat dit gelijk is aan de procentuele verhouding tussen de netto aanspraak op de minimum vakantiebijslag over het minimumloon en het netto minimumloon. Onder netto aanspraak op de minimum vakantiebijslag wordt verstaan het verschil tussen het netto minimumloon en het netto minimumloon zoals dat overeenkomstig [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2009-07-28&g=2009-07-28), zou zijn berekend zonder rekening te houden met de aanspraak op vakantiebijslag, bedoeld in [artikel 15 van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15).
+- b. het percentage, genoemd in [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2009-08-01&g=2009-08-01), zodanig dat dit gelijk is aan de procentuele verhouding tussen de netto aanspraak op de minimum vakantiebijslag over het minimumloon en het netto minimumloon. Onder netto aanspraak op de minimum vakantiebijslag wordt verstaan het verschil tussen het netto minimumloon en het netto minimumloon zoals dat overeenkomstig [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2009-08-01&g=2009-08-01), zou zijn berekend zonder rekening te houden met de aanspraak op vakantiebijslag, bedoeld in [artikel 15 van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15).
 
-2. Met ingang van de dag waarop het netto minimumloon, zonder de daarin begrepen aanspraak op vakantiebijslag, wijzigt, worden de bedragen, genoemd in [artikel 31, tweede lid, onderdelen j en o](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-07-28&g=2009-07-28), herzien met het percentage van deze wijziging.
+2. Met ingang van de dag waarop het netto minimumloon, zonder de daarin begrepen aanspraak op vakantiebijslag, wijzigt, worden de bedragen, genoemd in [artikel 31, tweede lid, onderdelen j en o](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-08-01&g=2009-08-01), herzien met het percentage van deze wijziging.
 
-3. Met ingang van de dag waarop het netto ouderdomspensioen en de daarbij behorende vakantie-uitkering ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) wijzigen, worden de normen, genoemd in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=22&z=2009-07-28&g=2009-07-28), herzien met het percentage van die wijziging.
+3. Met ingang van de dag waarop het netto ouderdomspensioen en de daarbij behorende vakantie-uitkering ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) wijzigen, worden de normen, genoemd in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=22&z=2009-08-01&g=2009-08-01), herzien met het percentage van die wijziging.
 
-4. Met ingang van de dag waarop het netto minimumloon wijzigt, worden de normen, genoemd in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2009-07-28&g=2009-07-28), herzien met het percentage van deze wijziging.
+4. Met ingang van de dag waarop het netto minimumloon wijzigt, worden de normen, genoemd in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2009-08-01&g=2009-08-01), herzien met het percentage van deze wijziging.
 
-5. De bedragen, genoemd in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2009-07-28&g=2009-07-28), worden herzien, indien het drempelinkomen, bedoeld in de [Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451), wordt aangepast, de percentages, bedoeld in [artikel 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2), worden gewijzigd of het bedrag van de standaardpremie op grond van [artikel 4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4) op een ander bedrag wordt vastgesteld.
+5. De bedragen, genoemd in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2009-08-01&g=2009-08-01), worden herzien, indien het drempelinkomen, bedoeld in de [Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451), wordt aangepast, de percentages, bedoeld in [artikel 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2), worden gewijzigd of het bedrag van de standaardpremie op grond van [artikel 4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4) op een ander bedrag wordt vastgesteld.
 
 6. Van de herziene normen en bedragen en van de dag waarop de herziening plaatsvindt wordt door Onze Minister mededeling gedaan in de Staatscourant.
 
 ##### Artikel 39. Aanpassingen middelen
 
-1. Met ingang van de dag waarop de som wijzigt van de budgetten voor levensonderhoud, genoemd in [artikel 3.2, eerste lid, onderdeel a, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.2) en het bedrag dat op grond van [artikel 3.29, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.29) wordt verstrekt aan een studerende die ten onrechte over een kalendermaand geen reisvoorziening ontvangt, worden de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=33&z=2009-07-28&g=2009-07-28), genoemde bedragen zodanig herzien dat deze gelijk zijn aan deze som.
+1. Met ingang van de dag waarop de som wijzigt van de budgetten voor levensonderhoud, genoemd in [artikel 3.2, eerste lid, onderdeel a, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.2) en het bedrag dat op grond van [artikel 3.29, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.29) wordt verstrekt aan een studerende die ten onrechte over een kalendermaand geen reisvoorziening ontvangt, worden de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=33&z=2009-08-01&g=2009-08-01), genoemde bedragen zodanig herzien dat deze gelijk zijn aan deze som.
 
-2. Met ingang van 1 januari van elk kalenderjaar worden de in [artikel 33, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=33&z=2009-07-28&g=2009-07-28), [artikel 34, tweede lid, onderdeel d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-07-28&g=2009-07-28), en [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=35&z=2009-07-28&g=2009-07-28), genoemde bedragen herzien met de procentuele stijging van de consumentenprijsindex.
+2. Met ingang van 1 januari van elk kalenderjaar worden de in [artikel 33, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=33&z=2009-08-01&g=2009-08-01), [artikel 34, tweede lid, onderdeel d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-08-01&g=2009-08-01), en [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=35&z=2009-08-01&g=2009-08-01), genoemde bedragen herzien met de procentuele stijging van de consumentenprijsindex.
 
 3. Van de herziene bedragen en van de dag waarop de herziening plaatsvindt wordt door Onze Minister mededeling gedaan in de Staatscourant.
 
@@ -726,7 +724,7 @@ Dit lid vervalt met ingang van 1 januari 2010.
 
 ##### Artikel 42. Doorzending
 
-1. Indien doorzending van de aanvraag naar het college van een andere gemeente heeft plaatsgevonden en dit van oordeel is dat het evenmin de aanvraag dient te behandelen, terwijl geen zekerheid kan worden verkregen over de in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=40&z=2009-07-28&g=2009-07-28) bedoelde woonplaats, draagt het college dat de doorgezonden aanvraag heeft ontvangen er zorg voor dat het geschil aanhangig wordt gemaakt.
+1. Indien doorzending van de aanvraag naar het college van een andere gemeente heeft plaatsgevonden en dit van oordeel is dat het evenmin de aanvraag dient te behandelen, terwijl geen zekerheid kan worden verkregen over de in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=40&z=2009-08-01&g=2009-08-01) bedoelde woonplaats, draagt het college dat de doorgezonden aanvraag heeft ontvangen er zorg voor dat het geschil aanhangig wordt gemaakt.
 
 2. In afwachting van een beslissing inzake een geschil over toepassing van het eerste lid bestaat het recht op bijstand jegens het college van de gemeente waar de belanghebbende werkelijk verblijft.
 
@@ -746,7 +744,7 @@ Dit lid vervalt met ingang van 1 januari 2010.
 
 1. Indien door het college is vastgesteld dat recht op bijstand bestaat, wordt de bijstand toegekend vanaf de dag waarop dit recht is ontstaan, voorzover deze dag niet ligt voor de dag waarop de belanghebbende zich heeft gemeld om bijstand aan te vragen.
 
-2. De belanghebbende heeft zich gemeld als zijn naam, adres en woonplaats zijn geregistreerd en hij in staat is gesteld zijn aanvraag in te dienen bij het Uitvoeringsinstituut werknemersverzekeringen, als het een aanvraag betreft als bedoeld in [artikel 41, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=41&z=2009-07-28&g=2009-07-28), of bij het college, als het een aanvraag betreft als bedoeld in [artikel 41, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=41&z=2009-07-28&g=2009-07-28).
+2. De belanghebbende heeft zich gemeld als zijn naam, adres en woonplaats zijn geregistreerd en hij in staat is gesteld zijn aanvraag in te dienen bij het Uitvoeringsinstituut werknemersverzekeringen, als het een aanvraag betreft als bedoeld in [artikel 41, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=41&z=2009-08-01&g=2009-08-01), of bij het college, als het een aanvraag betreft als bedoeld in [artikel 41, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=41&z=2009-08-01&g=2009-08-01).
 
 3. Indien de belanghebbende de aanvraag niet zo spoedig mogelijk indient nadat hij zich heeft gemeld en hem dit te verwijten valt, kan het college, in afwijking van het eerste lid, besluiten dat de bijstand wordt toegekend vanaf de dag dat de aanvraag is ingediend.
 
@@ -754,7 +752,7 @@ Dit lid vervalt met ingang van 1 januari 2010.
 
 1. De algemene bijstand wordt per kalendermaand vastgesteld en betaald. In afwijking van de eerste volzin wordt de vakantietoeslag, voorzover niet reeds eerder betaald, jaarlijks betaald in de maand juni over de aan die maand voorafgaande twaalf maanden of zo veel eerder als de vakantietoeslag over deze periode vaststaat, dan wel binnen drie maanden volgend op de maand waarin de algemene bijstand is beëindigd.
 
-2. Het college kan op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2009-07-28&g=2009-07-28), besluiten de algemene bijstand over een andere periode als bedoeld in het eerste lid vast te stellen of te betalen.
+2. Het college kan op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2009-08-01&g=2009-08-01), besluiten de algemene bijstand over een andere periode als bedoeld in het eerste lid vast te stellen of te betalen.
 
 3. De algemene bijstand wordt vastgesteld over het deel van de kalendermaand waarover recht op bijstand bestaat, indien de alleenstaande of het gezin voorafgaand aan of volgend op de bijstandsverlening:
 
@@ -780,7 +778,7 @@ Dit lid vervalt met ingang van 1 januari 2010.
 
 ##### Artikel 47. Verordening cliëntenparticipatie
 
-De gemeenteraad stelt bij verordening regels over de wijze waarop de personen, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-07-28&g=2009-07-28), of hun vertegenwoordigers worden betrokken bij de uitvoering van deze wet, waarbij in ieder geval wordt geregeld de wijze waarop:
+De gemeenteraad stelt bij verordening regels over de wijze waarop de personen, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-08-01&g=2009-08-01), of hun vertegenwoordigers worden betrokken bij de uitvoering van deze wet, waarbij in ieder geval wordt geregeld de wijze waarop:
 
 - a. periodiek overleg wordt gevoerd met deze personen of hun vertegenwoordigers;
 
@@ -808,13 +806,13 @@ De gemeenteraad stelt bij verordening regels over de wijze waarop de personen, b
 
 3. Het college kan aan het verlenen van bijstand in de vorm van een geldlening verplichtingen verbinden die zijn gericht op meerdere zekerheid voor de nakoming van de aan deze bijstand verbonden rente- en aflossingsverplichtingen.
 
-4. Het college verstrekt bijzondere bijstand als bedoeld in [artikel 35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=35&z=2009-07-28&g=2009-07-28), in natura, tenzij dit naar het oordeel van het college leidt tot een ondoelmatige uitvoering van dat lid.
+4. Het college verstrekt bijzondere bijstand als bedoeld in [artikel 35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.1&artikel=35&z=2009-08-01&g=2009-08-01), in natura, tenzij dit naar het oordeel van het college leidt tot een ondoelmatige uitvoering van dat lid.
 
 4. Indien de persoon aan wie bijstand in de vorm van een geldlening wordt verleend algemene bijstand of een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) of de [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) ontvangt, is het college bevoegd tot verrekening van die geldlening met die algemene bijstand of uitkering.
 
 ##### Artikel 49. Schuldenlast
 
-In afwijking van [artikel 13, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2009-07-28&g=2009-07-28), kan het college bijzondere bijstand verlenen:
+In afwijking van [artikel 13, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2009-08-01&g=2009-08-01), kan het college bijzondere bijstand verlenen:
 
 - a. in de vorm van borgtocht, indien het verzoek van de belanghebbende tot verlening van een saneringskrediet is afgewezen vanwege diens beperkte mogelijkheden tot terugbetaling en de borgtocht noodzakelijk is om de krediettransactie alsnog doorgang te doen vinden door een:
 
@@ -830,9 +828,9 @@ In afwijking van [artikel 13, eerste lid, onderdeel f](https://wetten.overheid.n
 
 2. Indien voor de belanghebbende, bedoeld in het eerste lid, recht op algemene bijstand bestaat, heeft die bijstand de vorm van een geldlening:
 
-- a. indien de bijstand over een periode van een jaar, te rekenen vanaf de eerste dag waarover bijstand wordt verleend, naar verwachting meer bedraagt dan het netto minimumloon, bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2009-07-28&g=2009-07-28); en
+- a. indien de bijstand over een periode van een jaar, te rekenen vanaf de eerste dag waarover bijstand wordt verleend, naar verwachting meer bedraagt dan het netto minimumloon, bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2009-08-01&g=2009-08-01); en
 
-- b. voorzover het vermogen gebonden in de woning met bijbehorend erf hoger is dan het vermogen, bedoeld in [artikel 34, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-07-28&g=2009-07-28).
+- b. voorzover het vermogen gebonden in de woning met bijbehorend erf hoger is dan het vermogen, bedoeld in [artikel 34, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-08-01&g=2009-08-01).
 
 ##### Artikel 51. Duurzame gebruiksgoederen
 
@@ -848,7 +846,7 @@ In afwijking van [artikel 13, eerste lid, onderdeel f](https://wetten.overheid.n
 
 - b. bij de aanvraag duidelijk is dat geen recht op algemene bijstand bestaat.
 
-2. De hoogte van het in het eerste lid bedoelde voorschot bedraagt in ieder geval 90% van de hoogte van de algemene bijstand, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2009-07-28&g=2009-07-28).
+2. De hoogte van het in het eerste lid bedoelde voorschot bedraagt in ieder geval 90% van de hoogte van de algemene bijstand, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2009-08-01&g=2009-08-01).
 
 3. Het college is bevoegd om bij wijze van voorschot bijzondere bijstand te verlenen in de vorm van een renteloze geldlening.
 
@@ -882,7 +880,7 @@ In afwijking van [artikel 13, eerste lid, onderdeel f](https://wetten.overheid.n
 
 3. Onverminderd het elders in deze wet bepaalde terzake van herziening of intrekking van een besluit tot toekenning van bijstand en terzake van weigering van bijstand, kan het college een dergelijk besluit herzien of intrekken:
 
-- a. indien het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2009-07-28&g=2009-07-28), of [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c), heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van bijstand;
+- a. indien het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2009-08-01&g=2009-08-01), of [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c), heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van bijstand;
 
 - b. indien anderszins de bijstand ten onrechte of tot een te hoog bedrag is verleend.
 
@@ -892,7 +890,7 @@ In afwijking van [artikel 13, eerste lid, onderdeel f](https://wetten.overheid.n
 
 ##### Artikel 55. Nadere verplichtingen
 
-Naast de verplichtingen die ingevolge [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&z=2009-07-28&g=2009-07-28) in elk geval aan de bijstand verbonden zijn, dan wel daaraan door het college verbonden worden, kan het college vanaf de dag van melding als bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.2&artikel=44&z=2009-07-28&g=2009-07-28), verplichtingen opleggen die strekken tot arbeidsinschakeling, dan wel die verband houden met aard en doel van een bepaalde vorm van bijstand of die strekken tot zijn vermindering of beëindiging. Een verplichting kan, op advies van een arts, inhouden het zich onderwerpen aan een noodzakelijke behandeling van medische aard.
+Naast de verplichtingen die ingevolge [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&z=2009-08-01&g=2009-08-01) in elk geval aan de bijstand verbonden zijn, dan wel daaraan door het college verbonden worden, kan het college vanaf de dag van melding als bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.2&artikel=44&z=2009-08-01&g=2009-08-01), verplichtingen opleggen die strekken tot arbeidsinschakeling, dan wel die verband houden met aard en doel van een bepaalde vorm van bijstand of die strekken tot zijn vermindering of beëindiging. Een verplichting kan, op advies van een arts, inhouden het zich onderwerpen aan een noodzakelijke behandeling van medische aard.
 
 ##### Artikel 56. Kinderalimentatie
 
@@ -918,17 +916,17 @@ Indien en zolang er gegronde redenen zijn om aan te nemen dat de belanghebbende 
 
 - c. voortvloeit uit gestelde borgtocht;
 
-- d. ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&artikel=52&z=2009-07-28&g=2009-07-28) bij wijze van voorschot is verleend en nadien is vastgesteld dat geen recht op bijstand bestaat;
+- d. ingevolge [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&artikel=52&z=2009-08-01&g=2009-08-01) bij wijze van voorschot is verleend en nadien is vastgesteld dat geen recht op bijstand bestaat;
 
 - e. anderszins onverschuldigd is betaald voorzover de belanghebbende dit redelijkerwijs had kunnen begrijpen, of
 
 - f. anderszins onverschuldigd is betaald, waaronder begrepen dat:
 
-- 1°. de belanghebbende naderhand met betrekking tot de periode waarover bijstand is verleend, over in aanmerking te nemen middelen als bedoeld in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&z=2009-07-28&g=2009-07-28) beschikt of kan beschikken;
+- 1°. de belanghebbende naderhand met betrekking tot de periode waarover bijstand is verleend, over in aanmerking te nemen middelen als bedoeld in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&z=2009-08-01&g=2009-08-01) beschikt of kan beschikken;
 
 - 2°. bijstand is verleend met een bepaalde bestemming en naderhand door de belanghebbende vergoedingen of tegemoetkomingen worden ontvangen met het oog op die bestemming.
 
-2. Indien een gemeente ingevolge [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=42&z=2009-07-28&g=2009-07-28), gehouden is kosten van bijstand over een bepaalde periode aan een andere gemeente te vergoeden, geschiedt de terugvordering over die periode, voorzover zij nog niet heeft plaatsgehad, door het college van eerstgenoemde gemeente.
+2. Indien een gemeente ingevolge [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=42&z=2009-08-01&g=2009-08-01), gehouden is kosten van bijstand over een bepaalde periode aan een andere gemeente te vergoeden, geschiedt de terugvordering over die periode, voorzover zij nog niet heeft plaatsgehad, door het college van eerstgenoemde gemeente.
 
 3. Het college is bevoegd tot verrekening van in de voorafgaande drie maanden ontvangen middelen met de algemene bijstand.
 
@@ -938,9 +936,9 @@ Indien en zolang er gegronde redenen zijn om aan te nemen dat de belanghebbende 
 
 ##### Artikel 59. Terugvordering gezinsleden
 
-1. Onverminderd [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=58&z=2009-07-28&g=2009-07-28) kunnen kosten van bijstand, indien de bijstand aan een gezin wordt verleend, van alle gezinsleden worden teruggevorderd.
+1. Onverminderd [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=58&z=2009-08-01&g=2009-08-01) kunnen kosten van bijstand, indien de bijstand aan een gezin wordt verleend, van alle gezinsleden worden teruggevorderd.
 
-2. Indien de bijstand als gezinsbijstand aan gehuwden had moeten worden verleend, maar zulks achterwege is gebleven, omdat de belanghebbende de verplichtingen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2009-07-28&g=2009-07-28), of [artikelen 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c), niet of niet behoorlijk is nagekomen, kunnen de kosten van bijstand mede worden teruggevorderd van de persoon met wiens middelen als bedoeld in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&z=2009-07-28&g=2009-07-28), bij de verlening van bijstand rekening had moeten worden gehouden.
+2. Indien de bijstand als gezinsbijstand aan gehuwden had moeten worden verleend, maar zulks achterwege is gebleven, omdat de belanghebbende de verplichtingen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2009-08-01&g=2009-08-01), of [artikelen 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c), niet of niet behoorlijk is nagekomen, kunnen de kosten van bijstand mede worden teruggevorderd van de persoon met wiens middelen als bedoeld in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&z=2009-08-01&g=2009-08-01), bij de verlening van bijstand rekening had moeten worden gehouden.
 
 3. De in het eerste en tweede lid bedoelde personen zijn hoofdelijk aansprakelijk voor de terugbetaling van kosten van bijstand die worden teruggevorderd.
 
@@ -948,19 +946,19 @@ Indien en zolang er gegronde redenen zijn om aan te nemen dat de belanghebbende 
 
 1. De persoon van wie kosten van bijstand worden teruggevorderd is verplicht desgevraagd aan het college de inlichtingen te verstrekken die voor terugvordering op grond van deze paragraaf van belang zijn.
 
-2. Het college kan de kosten van de bijstand, bedoeld in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=58&z=2009-07-28&g=2009-07-28) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=59&z=2009-07-28&g=2009-07-28) invorderen bij dwangbevel.
+2. Het college kan de kosten van de bijstand, bedoeld in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=58&z=2009-08-01&g=2009-08-01) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=59&z=2009-08-01&g=2009-08-01) invorderen bij dwangbevel.
 
-3. Indien de persoon van wie kosten van bijstand als bedoeld in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=58&z=2009-07-28&g=2009-07-28) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=59&z=2009-07-28&g=2009-07-28) worden teruggevorderd algemene bijstand of een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) of de [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) ontvangt, is het college bevoegd tot verrekening van die kosten met die algemene bijstand of uitkering.
+3. Indien de persoon van wie kosten van bijstand als bedoeld in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=58&z=2009-08-01&g=2009-08-01) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=59&z=2009-08-01&g=2009-08-01) worden teruggevorderd algemene bijstand of een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) of de [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) ontvangt, is het college bevoegd tot verrekening van die kosten met die algemene bijstand of uitkering.
 
 4. De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479g) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het college. Indien het college gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:123), door middel van toezending per post aan degene van wie kosten van bijstand worden teruggevorderd.
 
 5. Zolang de belanghebbende zijn verplichting, bedoeld in het eerste lid, niet of niet behoorlijk nakomt:
 
-- a. is het college, in afwijking van [artikel 4:93, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93), bevoegd tot verrekening voor zover beslag op de vordering van de schuldeiser nietig zou zijn;
+- a. is het college, in afwijking van [artikel 4.93, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93), bevoegd tot verrekening voor zover beslag op de vordering van de schuldeiser nietig zou zijn;
 
 - b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116), niet bij invordering van kosten van bijstand bij dwangbevel.
 
-6. Terugvordering van kosten van bijstand als bedoeld in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=58&z=2009-07-28&g=2009-07-28) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=59&z=2009-07-28&g=2009-07-28) is bevoorrecht en volgt onmiddellijk na de vorderingen in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288) omschreven.
+6. Terugvordering van kosten van bijstand als bedoeld in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=58&z=2009-08-01&g=2009-08-01) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=59&z=2009-08-01&g=2009-08-01) is bevoorrecht en volgt onmiddellijk na de vorderingen in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288) omschreven.
 
 #### § 6.4. Terugvordering
 
@@ -982,7 +980,7 @@ Kosten van bijstand kunnen tot de grens van de onderhoudsplicht, bedoeld in [Boe
 
 ##### Artikel 63. Inlichtingenverplichting werkgever
 
-1. Een ieder is verplicht desgevraagd en bevoegd uit eigen beweging aan het college kosteloos opgaven en inlichtingen te verstrekken omtrent feiten en omstandigheden die noodzakelijk zijn voor de uitvoering van deze wet ten opzichte van een persoon te wiens behoeve bijstand is gevraagd of wordt verleend en die in zijn dienst dan wel voor hem arbeid verricht, heeft verricht of zou kunnen gaan verrichten. De verplichting strekt zich mede uit tot de inkomsten van een persoon van wie kosten van bijstand ingevolge [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&z=2009-07-28&g=2009-07-28) worden of kunnen worden teruggevorderd of op wie kosten van bijstand ingevolge [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&z=2009-07-28&g=2009-07-28) worden of kunnen worden verhaald.
+1. Een ieder is verplicht desgevraagd en bevoegd uit eigen beweging aan het college kosteloos opgaven en inlichtingen te verstrekken omtrent feiten en omstandigheden die noodzakelijk zijn voor de uitvoering van deze wet ten opzichte van een persoon te wiens behoeve bijstand is gevraagd of wordt verleend en die in zijn dienst dan wel voor hem arbeid verricht, heeft verricht of zou kunnen gaan verrichten. De verplichting strekt zich mede uit tot de inkomsten van een persoon van wie kosten van bijstand ingevolge [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&z=2009-08-01&g=2009-08-01) worden of kunnen worden teruggevorderd of op wie kosten van bijstand ingevolge [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&z=2009-08-01&g=2009-08-01) worden of kunnen worden verhaald.
 
 2. De opgaven en inlichtingen worden desgevraagd schriftelijk, of in een andere vorm die redelijkerwijs kan worden verlangd, binnen een door het college schriftelijk te stellen termijn verstrekt.
 
@@ -1008,7 +1006,7 @@ Kosten van bijstand kunnen tot de grens van de onderhoudsplicht, bedoeld in [Boe
 
 - i. de Informatie Beheer Groep betreffende de toepassing van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453), de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438), de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) en de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611);
 
-- j. Onze Minister van Landbouw, Natuurbeheer en Visserij betreffende de omvang van de productiebeperkende maatregelen voor het bedrijf van de ondernemer in de agrarische sector;
+- j. Onze Minister van Landbouw, Natuur en Voedselkwaliteit betreffende de omvang van de productiebeperkende maatregelen voor het bedrijf van de ondernemer in de agrarische sector;
 
 - k. Onze Minister van Justitie voorzover het betreft de persoon die rechtens zijn vrijheid is ontnomen;
 
@@ -1022,7 +1020,7 @@ Kosten van bijstand kunnen tot de grens van de onderhoudsplicht, bedoeld in [Boe
 
 2. De geneesheer-directeur, bedoeld in het eerste lid, onderdeel o, verstrekt slechts opgaven en inlichtingen indien:
 
-- a. deze noodzakelijk zijn voor de uitvoering van [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2009-07-28&g=2009-07-28), laatste zin; en
+- a. deze noodzakelijk zijn voor de uitvoering van [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&artikel=13&z=2009-08-01&g=2009-08-01), laatste zin; en
 
 - b. deze betrekking hebben op:
 
@@ -1040,13 +1038,13 @@ Kosten van bijstand kunnen tot de grens van de onderhoudsplicht, bedoeld in [Boe
 
 5. De in het eerste en het vierde lid bedoelde verplichtingen strekken zich mede uit tot degene:
 
-- a. van wie kosten van bijstand worden of kunnen worden teruggevorderd ingevolge [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&z=2009-07-28&g=2009-07-28) of op wie deze worden of kunnen worden verhaald ingevolge [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&z=2009-07-28&g=2009-07-28);
+- a. van wie kosten van bijstand worden of kunnen worden teruggevorderd ingevolge [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&z=2009-08-01&g=2009-08-01) of op wie deze worden of kunnen worden verhaald ingevolge [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&z=2009-08-01&g=2009-08-01);
 
 - b. die hun hoofdverblijf hebben in dezelfde woning, of ten aanzien van wie dat redelijkerwijs kan worden vermoed, als degene:
 
 - 1°. te wiens behoeve bijstand is gevraagd of wordt verleend;
 
-- 2°. van wie kosten van bijstand worden of kunnen worden teruggevorderd ingevolge [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&z=2009-07-28&g=2009-07-28) of op wie deze worden of kunnen worden verhaald ingevolge [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&z=2009-07-28&g=2009-07-28).
+- 2°. van wie kosten van bijstand worden of kunnen worden teruggevorderd ingevolge [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&z=2009-08-01&g=2009-08-01) of op wie deze worden of kunnen worden verhaald ingevolge [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&z=2009-08-01&g=2009-08-01).
 
 6. De in het eerste lid en het vierde lid bedoelde opgaven en inlichtingen worden desgevraagd schriftelijk, of in een andere vorm die redelijkerwijs kan worden verlangd, en zo spoedig mogelijk, doch in elk geval binnen vier weken na ontvangst van het verzoek hiertoe, verstrekt.
 
@@ -1076,7 +1074,7 @@ Kosten van bijstand kunnen tot de grens van de onderhoudsplicht, bedoeld in [Boe
 
 3. Ten behoeve van wetenschappelijk onderzoek of statistiek kunnen desgevraagd gegevens aan derden worden verstrekt voorzover de persoonlijke levenssfeer van de betrokkenen daardoor niet onevenredig wordt geschaad.
 
-4. Degene die op grond van de [artikelen 63 tot en met 68](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.6&artikel=63&z=2009-07-28&g=2009-07-28) gegevens verstrekt dient na te gaan of degene aan wie de gegevens worden verstrekt redelijkerwijs bevoegd is te achten om die gegevens te verkrijgen.
+4. Degene die op grond van de [artikelen 63 tot en met 68](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.6&artikel=63&z=2009-08-01&g=2009-08-01) gegevens verstrekt dient na te gaan of degene aan wie de gegevens worden verstrekt redelijkerwijs bevoegd is te achten om die gegevens te verkrijgen.
 
 ##### Artikel 66. Vermoeden misdrijf
 
@@ -1114,7 +1112,7 @@ Het college is verplicht, indien het bij de uitvoering van deze wet het gegronde
 
 1. In de administratie van de gemeente en van het Inlichtingenbureau terzake van de uitvoering van deze wet wordt het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer opgenomen waaronder een natuurlijk persoon is geregistreerd bij de belastingdienst.
 
-2. Bij de verstrekking van gegevens door het college, het Inlichtingenbureau en de in de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.6&artikel=64&z=2009-07-28&g=2009-07-28) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.6&artikel=67&z=2009-07-28&g=2009-07-28) bedoelde instanties wordt, indien daartoe bevoegd, gebruik gemaakt van dit burgerservicenummer, onderscheidenlijk dit sociaal-fiscaalnummer. Derden die in het kader van de uitoefening van beroep of bedrijf de arbeidsinschakeling van personen bevorderen gebruiken het burgerservicenummer, onderscheidenlijk het sociaal-fiscaalnummer, slechts voorzover dat noodzakelijk is voor het verrichten van werkzaamheden die in het kader van de voorzieningen, bedoeld in [artikel 7, eerste lid, onderdeel a, en het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-07-28&g=2009-07-28), worden uitgevoerd.
+2. Bij de verstrekking van gegevens door het college, het Inlichtingenbureau en de in de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.6&artikel=64&z=2009-08-01&g=2009-08-01) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.6&artikel=67&z=2009-08-01&g=2009-08-01) bedoelde instanties wordt, indien daartoe bevoegd, gebruik gemaakt van dit burgerservicenummer, onderscheidenlijk dit sociaal-fiscaalnummer. Derden die in het kader van de uitoefening van beroep of bedrijf de arbeidsinschakeling van personen bevorderen gebruiken het burgerservicenummer, onderscheidenlijk het sociaal-fiscaalnummer, slechts voorzover dat noodzakelijk is voor het verrichten van werkzaamheden die in het kader van de voorzieningen, bedoeld in [artikel 7, eerste lid, onderdeel a, en het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-08-01&g=2009-08-01), worden uitgevoerd.
 
 3. Ten behoeve van het gebruik van het sociaal-fiscaalnummer bij het ontbreken van het burgerservicenummer kan Onze Minister van Financiën aan personen die algemene bijstand ontvangen, een sociaal-fiscaalnummer toekennen, indien aan die personen nog geen sociaal-fiscaalnummer is toegekend.
 
@@ -1134,7 +1132,7 @@ Het college is verplicht, indien het bij de uitvoering van deze wet het gegronde
 
 - b. het verzamelen van gegevens noodzakelijk voor de berekening van het bedrag van de uitkering, bedoeld in het eerste lid.
 
-4. Mede ten behoeve van de kosten van de voorzieningen, bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-07-28&g=2009-07-28), niet zijnde uitvoeringskosten, ontvangt het college een uitkering op grond van de [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039).
+4. Mede ten behoeve van de kosten van de voorzieningen, bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-08-01&g=2009-08-01), niet zijnde uitvoeringskosten, ontvangt het college een uitkering op grond van de [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039).
 
 ##### Artikel 70. Terugvordering werkdeel
 
@@ -1142,31 +1140,31 @@ Vervallen
 
 ##### Artikel 71. Aanpassing uitkering inkomensdeel en werkdeel
 
-1. Het totale bedrag, bedoeld in [artikel 69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-07-28&g=2009-07-28), voor de uitkering, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-07-28&g=2009-07-28), wordt in het jaar waarop het bedrag betrekking heeft bij of krachtens de wet aangepast op basis van nieuwe ramingsgegevens. [Artikel 69, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-07-28&g=2009-07-28), is van overeenkomstige toepassing.
+1. Het totale bedrag, bedoeld in [artikel 69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-08-01&g=2009-08-01), voor de uitkering, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-08-01&g=2009-08-01), wordt in het jaar waarop het bedrag betrekking heeft bij of krachtens de wet aangepast op basis van nieuwe ramingsgegevens. [Artikel 69, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-08-01&g=2009-08-01), is van overeenkomstige toepassing.
 
-2. Indien het totale bedrag wordt herzien, wordt het bedrag waarmee de uitkering, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-07-28&g=2009-07-28), wordt aangepast binnen een periode van vier weken na de herziening door Onze Minister vastgesteld.
+2. Indien het totale bedrag wordt herzien, wordt het bedrag waarmee de uitkering, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-08-01&g=2009-08-01), wordt aangepast binnen een periode van vier weken na de herziening door Onze Minister vastgesteld.
 
-3. Bij toepassing van het tweede lid kan Onze Minister vanuit het oogmerk van een meer evenwichtige verdeling van het totale bedrag, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-07-28&g=2009-07-28), de peildatum van de gegevens noodzakelijk voor de berekening, bedoeld in [artikel 69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-07-28&g=2009-07-28), actualiseren, leidende tot een nieuwe uitkering per gemeente. Van een actualisatie als bedoeld in de eerste volzin wordt door Onze Minister mededeling gedaan in de Staatscourant.
+3. Bij toepassing van het tweede lid kan Onze Minister vanuit het oogmerk van een meer evenwichtige verdeling van het totale bedrag, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-08-01&g=2009-08-01), de peildatum van de gegevens noodzakelijk voor de berekening, bedoeld in [artikel 69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-08-01&g=2009-08-01), actualiseren, leidende tot een nieuwe uitkering per gemeente. Van een actualisatie als bedoeld in de eerste volzin wordt door Onze Minister mededeling gedaan in de Staatscourant.
 
 ##### Artikel 72. Verlaging uitkering inkomensdeel
 
-1. Onze Minister kan, indien hij van oordeel is dat het college, na afloop van de termijn, bedoeld in [artikel 76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.2&artikel=76&z=2009-07-28&g=2009-07-28), geen of onvoldoende gevolg heeft gegeven aan een aanwijzing als bedoeld in [artikel 76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.2&artikel=76&z=2009-07-28&g=2009-07-28), de uitkering, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-07-28&g=2009-07-28), voor het jaar volgend op het jaar waarin de termijn afloopt, 1 procent lager vaststellen.
+1. Onze Minister kan, indien hij van oordeel is dat het college, na afloop van de termijn, bedoeld in [artikel 76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.2&artikel=76&z=2009-08-01&g=2009-08-01), geen of onvoldoende gevolg heeft gegeven aan een aanwijzing als bedoeld in [artikel 76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.2&artikel=76&z=2009-08-01&g=2009-08-01), de uitkering, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-08-01&g=2009-08-01), voor het jaar volgend op het jaar waarin de termijn afloopt, 1 procent lager vaststellen.
 
-2. Onze Minister kan, indien hij van oordeel is dat het college, twaalf maanden na afloop van de termijn, bedoeld in [artikel 76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.2&artikel=76&z=2009-07-28&g=2009-07-28), nog geen of onvoldoende gevolg heeft gegeven aan een aanwijzing als bedoeld in [artikel 76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.2&artikel=76&z=2009-07-28&g=2009-07-28), de uitkering, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-07-28&g=2009-07-28), voor het tweede jaar volgend op het jaar waarin de termijn afloopt en de daaropvolgende jaren, telkens ten hoogste 3 procent lager vaststellen.
+2. Onze Minister kan, indien hij van oordeel is dat het college, twaalf maanden na afloop van de termijn, bedoeld in [artikel 76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.2&artikel=76&z=2009-08-01&g=2009-08-01), nog geen of onvoldoende gevolg heeft gegeven aan een aanwijzing als bedoeld in [artikel 76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.2&artikel=76&z=2009-08-01&g=2009-08-01), de uitkering, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-08-01&g=2009-08-01), voor het tweede jaar volgend op het jaar waarin de termijn afloopt en de daaropvolgende jaren, telkens ten hoogste 3 procent lager vaststellen.
 
 ##### Artikel 73. Toetsingscommissie
 
 1. Er is een toetsingscommissie.
 
-2. De toetsingscommissie heeft tot taak aan Onze Minister een oordeel te geven over een verzoek als bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=74&z=2009-07-28&g=2009-07-28).
+2. De toetsingscommissie heeft tot taak aan Onze Minister een oordeel te geven over een verzoek als bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=74&z=2009-08-01&g=2009-08-01).
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het eerste en tweede lid.
 
 ##### Artikel 74. Aanvulling uitkering inkomensdeel
 
-1. Indien de door het college gemaakte kosten, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-07-28&g=2009-07-28), hoger zijn dan de daarvoor verstrekte uitkering, kan door Onze Minister ten laste van een daarvoor ieder jaar bij wet vast te stellen bedrag op verzoek van het college een aanvullende uitkering worden toegekend.
+1. Indien de door het college gemaakte kosten, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-08-01&g=2009-08-01), hoger zijn dan de daarvoor verstrekte uitkering, kan door Onze Minister ten laste van een daarvoor ieder jaar bij wet vast te stellen bedrag op verzoek van het college een incidentele aanvullende uitkering of een meerjarige aanvullende uitkering worden toegekend.
 
-2. Een verzoek als bedoeld in het eerste lid wordt door het college ingediend bij de toetsingscommissie, bedoeld in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=73&z=2009-07-28&g=2009-07-28). Bij ministeriële regeling worden regels gesteld met betrekking tot de termijn waarbinnen een verzoek als bedoeld in het eerste lid kan worden ingediend en de termijn waarbinnen op dat verzoek wordt beslist.
+2. Een verzoek als bedoeld in het eerste lid wordt door het college ingediend bij de toetsingscommissie, bedoeld in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=73&z=2009-08-01&g=2009-08-01). Bij ministeriële regeling worden regels gesteld met betrekking tot de termijn waarbinnen een verzoek als bedoeld in het eerste lid kan worden ingediend en de termijn waarbinnen op dat verzoek wordt beslist.
 
 3. Bij of krachtens algemene maatregel van bestuur wordt vastgesteld onder welke voorwaarden een verzoek kan worden ingediend en op grond waarvan de toetsingscommissie een verzoek beoordeelt.
 
@@ -1176,11 +1174,11 @@ Vervallen
 
 Bij ministeriële regeling worden regels gesteld inzake de betaling van:
 
-- a. de uitkering, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-07-28&g=2009-07-28);
+- a. de uitkering, bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=69&z=2009-08-01&g=2009-08-01);
 
-- b. het bedrag waarmee de uitkering op grond van [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=71&z=2009-07-28&g=2009-07-28) wordt aangepast;
+- b. het bedrag waarmee de uitkering op grond van [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=71&z=2009-08-01&g=2009-08-01) wordt aangepast;
 
-- c. de aanvullende uitkering, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=74&z=2009-07-28&g=2009-07-28).
+- c. de incidentele aanvullende uitkering en de meerjarige aanvullende uitkering, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=74&z=2009-08-01&g=2009-08-01).
 
 #### § 7.2. Toezicht
 
@@ -1192,7 +1190,7 @@ Bij ministeriële regeling worden regels gesteld inzake de betaling van:
 
 - b. de doeltreffendheid van deze wet.
 
-2. Het toezicht, bedoeld in het eerste lid, wordt onder gezag van Onze Minister uitgeoefend door de Inspectie Werk en Inkomen, genoemd in [hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7), onder leiding van het hoofd van die inspectie. De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=38), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=42) en [44 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=44) zijn van overeenkomstige toepassing. De Inspectie Werk en Inkomen is tevens belast met het geven van het oordeel, bedoeld in [artikel 74, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=74&z=2009-07-28&g=2009-07-28).
+2. Het toezicht, bedoeld in het eerste lid, wordt onder gezag van Onze Minister uitgeoefend door de Inspectie Werk en Inkomen, genoemd in [hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7), onder leiding van het hoofd van die inspectie. De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=38), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=42) en [44 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=44) zijn van overeenkomstige toepassing. De Inspectie Werk en Inkomen is tevens belast met het geven van het oordeel, bedoeld in [artikel 74, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=74&z=2009-08-01&g=2009-08-01).
 
 3. Onze Minister kan, indien hij met betrekking tot de rechtmatige uitvoering van deze wet ernstige tekortkomingen constateert, aan het college, nadat het gedurende acht weken in de gelegenheid is gesteld zijn zienswijze naar voren te brengen, een aanwijzing geven. Hij treedt daarbij niet in de besluitvorming inzake individuele gevallen. In een aanwijzing wordt een termijn opgenomen waarbinnen het college de uitvoering in overeenstemming heeft gebracht met deze aanwijzing.
 
@@ -1214,7 +1212,7 @@ Bij ministeriële regeling worden regels gesteld inzake de betaling van:
 
 3. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop het college en de gemeenteraad de in het eerste lid bedoelde inlichtingen verzamelen en verstrekken, waarbij kan worden bepaald dat categorieën van gemeenten bepaalde inlichtingen niet hoeven te verzamelen en te verstrekken.
 
-4. De inlichtingen, bedoeld in het eerste lid, en het beeld van de uitvoering, bedoeld in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.3&artikel=77&z=2009-07-28&g=2009-07-28), worden kosteloos verstrekt.
+4. De inlichtingen, bedoeld in het eerste lid, en het beeld van de uitvoering, bedoeld in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.3&artikel=77&z=2009-08-01&g=2009-08-01), worden kosteloos verstrekt.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -1224,13 +1222,13 @@ Voor de toepassing van [artikel 8:1, eerste lid, van de Algemene wet bestuursrec
 
 ##### Artikel 80. Cassatie
 
-1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van [artikel 3, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.1&artikel=3&z=2009-07-28&g=2009-07-28), en de daarop berustende bepalingen.
+1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van [artikel 3, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.1&artikel=3&z=2009-08-01&g=2009-08-01), en de daarop berustende bepalingen.
 
 2. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen de uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij de Centrale Raad van Beroep de plaats inneemt van een gerechtshof.
 
 ##### Artikel 81. Onverwijlde bijstand
 
-1. In geval het college geen of ontoereikend toepassing heeft gegeven aan [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&artikel=52&z=2009-07-28&g=2009-07-28) kan de voorzitter van gedeputeerde staten, indien naar zijn oordeel de noodzaak tot onverwijlde bijstand aanwezig is, op verzoek van de belanghebbende besluiten dat het college algemene bijstand verleent.
+1. In geval het college geen of ontoereikend toepassing heeft gegeven aan [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&artikel=52&z=2009-08-01&g=2009-08-01) kan de voorzitter van gedeputeerde staten, indien naar zijn oordeel de noodzaak tot onverwijlde bijstand aanwezig is, op verzoek van de belanghebbende besluiten dat het college algemene bijstand verleent.
 
 2. De beslissing van de voorzitter van gedeputeerde staten vervalt, zodra de beslissing van het college inzake de verlening van algemene bijstand onherroepelijk is geworden dan wel de rechtbank op het beroep heeft beslist. De beslissing vervalt eveneens met ingang van de datum waarop een door de voorzieningenrechter van de rechtbank getroffen voorlopige voorziening in werking treedt.
 
@@ -1246,7 +1244,7 @@ Voor de toepassing van [artikel 8:1, eerste lid, van de Algemene wet bestuursrec
 
 ##### Artikel 83. Innovatie
 
-1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van mogelijkheden om deze wet met betrekking tot de arbeidsinschakeling en de financiering doeltreffender uit te voeren, worden afgeweken van het bepaalde bij of krachtens de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.1&artikel=6&z=2009-07-28&g=2009-07-28), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-07-28&g=2009-07-28), en [paragraaf 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&z=2009-07-28&g=2009-07-28). Bij toepassing van de eerste volzin wordt bij algemene maatregel van bestuur geregeld op welke wijze en gedurende welke periode van welke artikelen van de wet wordt afgeweken.
+1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van mogelijkheden om deze wet met betrekking tot de arbeidsinschakeling en de financiering doeltreffender uit te voeren, worden afgeweken van het bepaalde bij of krachtens de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.1&artikel=6&z=2009-08-01&g=2009-08-01), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-08-01&g=2009-08-01), en [paragraaf 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&z=2009-08-01&g=2009-08-01). Bij toepassing van de eerste volzin wordt bij algemene maatregel van bestuur geregeld op welke wijze en gedurende welke periode van welke artikelen van de wet wordt afgeweken.
 
 2. Een experiment als bedoeld in het eerste lid duurt ten hoogste drie jaar. Indien, voor een experiment is afgelopen, een voorstel van wet is ingediend bij de Staten-Generaal om het experiment om te zetten in een structurele wettelijke regeling, kan het experiment worden verlengd tot het tijdstip waarop het voorstel van wet in werking treedt. De tweede volzin van het eerste lid is van overeenkomstige toepassing.
 
@@ -1274,7 +1272,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 8b. Gemeenschappelijke regelingen
 
-Indien bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), treedt dat bestuur voor de toepassing van deze wet, met uitzondering van [paragrafen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&z=2009-07-28&g=2009-07-28) en [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.3&z=2009-07-28&g=2009-07-28), in de plaats van de betrokken colleges.
+Indien bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), treedt dat bestuur voor de toepassing van deze wet, met uitzondering van [paragrafen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&z=2009-08-01&g=2009-08-01) en [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.3&z=2009-08-01&g=2009-08-01), in de plaats van de betrokken colleges.
 
 ### Hoofdstuk 2. Rechten en plichten
 
@@ -1386,19 +1384,19 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 10a. Participatieplaatsen
 
-1. Het college kan ter uitvoering van [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-07-28&g=2009-07-28), degene die algemene bijstand ontvangt en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar.
+1. Het college kan ter uitvoering van [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-08-01&g=2009-08-01), degene die algemene bijstand ontvangt en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar.
 
 2. Onder additionele werkzaamheden als bedoeld in het eerste lid worden primair op de arbeidsinschakeling gerichte werkzaamheden verstaan die onder verantwoordelijkheid van het college in het kader van deze wet worden verricht naast of in aanvulling op reguliere arbeid, en die niet leiden tot verdringing op de arbeidsmarkt.
 
-3. Voor de termijn van twee jaar, bedoeld in het eerste lid, worden werkzaamheden, verricht in het kader van een andere voorziening als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-07-28&g=2009-07-28), voor maximaal zes maanden buiten beschouwing gelaten indien er naar het oordeel van het college een reëel uitzicht is op een dienstbetrekking bij degene bij wie de werkzaamheden worden verricht van dezelfde of grotere omvang die aanvangt tijdens of aansluitend op die zes maanden.
+3. Voor de termijn van twee jaar, bedoeld in het eerste lid, worden werkzaamheden, verricht in het kader van een andere voorziening als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-08-01&g=2009-08-01), voor maximaal zes maanden buiten beschouwing gelaten indien er naar het oordeel van het college een reëel uitzicht is op een dienstbetrekking bij degene bij wie de werkzaamheden worden verricht van dezelfde of grotere omvang die aanvangt tijdens of aansluitend op die zes maanden.
 
 4. Voor de termijn van twee jaar, bedoeld in het eerste lid, worden werkzaamheden verricht voor 1 januari 2007, buiten beschouwing gelaten.
 
 5. Het college biedt aan degene die op grond van dit artikel additionele werkzaamheden verricht en die niet beschikt over een startkwalificatie na een periode van zes maanden na aanvang van die werkzaamheden een voorziening gericht op arbeidsinschakeling aan in de vorm van scholing of opleiding die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van de belanghebbende te boven gaat. Geen scholing of opleiding wordt aangeboden indien scholing of opleiding naar het oordeel van het college niet bijdraagt aan vergroting van de kans op inschakeling in het arbeidsproces van belanghebbende.
 
-6. Het college verstrekt aan belanghebbende, telkens nadat hij gedurende zes maanden op grond van dit artikel additionele werkzaamheden heeft verricht, een premie als bedoeld in [artikel 31, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-07-28&g=2009-07-28), indien hij naar het oordeel van het college in die zes maanden voldoende heeft meegewerkt aan het vergroten van zijn kans op inschakeling in het arbeidsproces.
+6. Het college verstrekt aan belanghebbende, telkens nadat hij gedurende zes maanden op grond van dit artikel additionele werkzaamheden heeft verricht, een premie als bedoeld in [artikel 31, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=31&z=2009-08-01&g=2009-08-01), indien hij naar het oordeel van het college in die zes maanden voldoende heeft meegewerkt aan het vergroten van zijn kans op inschakeling in het arbeidsproces.
 
-7. Indien het college en het Uitvoeringsinstituut werknemersverzekeringen zijn overeengekomen dat [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-07-28&g=2009-07-28), van toepassing is op een persoon aan wie het Uitvoeringsinstituut werknemersverzekeringen een uitkering verstrekt, dient bij de toepassing van het eerste lid voor «algemene bijstand» te worden gelezen: uitkering van het Uitvoeringsinstituut werknemersverzekeringen.
+7. Indien het college en het Uitvoeringsinstituut werknemersverzekeringen zijn overeengekomen dat [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-08-01&g=2009-08-01), van toepassing is op een persoon aan wie het Uitvoeringsinstituut werknemersverzekeringen een uitkering verstrekt, dient bij de toepassing van het eerste lid voor «algemene bijstand» te worden gelezen: uitkering van het Uitvoeringsinstituut werknemersverzekeringen.
 
 8. Met betrekking tot degene die op grond van het eerste lid additionele werkzaamheden verricht, beoordeelt het college na een periode van negen maanden na de aanvang van die werkzaamheden of de toepassing van dit artikel zijn kans op inschakeling in het arbeidsproces heeft vergroot. Indien dat niet het geval is wordt het verrichten van de additionele werkzaamheden twaalf maanden na aanvang van die werkzaamheden beëindigd.
 
@@ -1452,11 +1450,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 9a. Ontheffing plicht tot arbeidsinschakeling alleenstaande ouders
 
-1. Onverminderd [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-07-28&g=2009-07-28), verleent het college aan een alleenstaande ouder die de volledige zorg heeft voor een tot zijn last komend kind tot vijf jaar op diens verzoek ontheffing van de verplichting, bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-07-28&g=2009-07-28).
+1. Onverminderd [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-08-01&g=2009-08-01), verleent het college aan een alleenstaande ouder die de volledige zorg heeft voor een tot zijn last komend kind tot vijf jaar op diens verzoek ontheffing van de verplichting, bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-08-01&g=2009-08-01).
 
 2. De ontheffing, bedoeld in het eerste lid, wordt eenmalig verleend.
 
-3. De ontheffing, bedoeld in het eerste lid, wordt niet verleend voor zover uit houding en gedragingen van de alleenstaande ouder ondubbelzinnig blijkt dat deze de verplichtingen, bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-07-28&g=2009-07-28), niet wil nakomen.
+3. De ontheffing, bedoeld in het eerste lid, wordt niet verleend voor zover uit houding en gedragingen van de alleenstaande ouder ondubbelzinnig blijkt dat deze de verplichtingen, bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-08-01&g=2009-08-01), niet wil nakomen.
 
 4. De ontheffing, bedoeld in het eerste lid, geldt zolang het jongste kind van de alleenstaande ouder de leeftijd van vijf jaar nog niet heeft bereikt. Onverminderd de eerste zin geldt de ontheffing gedurende ten hoogste zes jaar. Bij verhuizing naar een andere woonplaats wordt op deze periode in mindering gebracht de periode, dan wel perioden, waarin de alleenstaande ouder in de voorgaande woonplaats, dan wel de voorgaande woonplaatsen, gebruik heeft gemaakt van de ontheffing bedoeld in het eerste lid.
 
@@ -1468,17 +1466,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - c. door het college opgeschort op een daartoe strekkend verzoek van de alleenstaande ouder aan wie de ontheffing, bedoeld in het eerste lid, is verleend; of
 
-- d. door het college opgeschort indien uit houding en gedragingen van de alleenstaande ouder ondubbelzinnig blijkt dat hij zijn verplichtingen, bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-07-28&g=2009-07-28), niet wil nakomen.
+- d. door het college opgeschort indien uit houding en gedragingen van de alleenstaande ouder ondubbelzinnig blijkt dat hij zijn verplichtingen, bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-08-01&g=2009-08-01), niet wil nakomen.
 
 6. Op een daartoe strekkend verzoek van de alleenstaande ouder met een kind tot vijf jaar beëindigt het college een opschorting als bedoeld in het vijfde lid indien de daarin genoemde omstandigheden niet langer van toepassing zijn.
 
-7. Het college stelt binnen zes maanden na ontvangst van het verzoek, bedoeld in het eerste lid, een plan van aanpak op voor de invulling van de voorziening, bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-07-28&g=2009-07-28), voor de alleenstaande ouder aan wie een ontheffing is verleend als bedoeld in het eerste lid.
+7. Het college stelt binnen zes maanden na ontvangst van het verzoek, bedoeld in het eerste lid, een plan van aanpak op voor de invulling van de voorziening, bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-08-01&g=2009-08-01), voor de alleenstaande ouder aan wie een ontheffing is verleend als bedoeld in het eerste lid.
 
-8. Het college vult de voorziening, bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-07-28&g=2009-07-28), voor de alleenstaande ouder aan wie een ontheffing is verleend als bedoeld in het eerste lid en die niet beschikt over een startkwalificatie ten minste in met scholing of opleiding die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van de alleenstaande ouder te boven gaat.
+8. Het college vult de voorziening, bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-08-01&g=2009-08-01), voor de alleenstaande ouder aan wie een ontheffing is verleend als bedoeld in het eerste lid en die niet beschikt over een startkwalificatie ten minste in met scholing of opleiding die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van de alleenstaande ouder te boven gaat.
 
-9. Op verzoek van de alleenstaande ouder die beschikt over een startkwalificatie en aan wie een ontheffing is verleend als bedoeld in het eerste lid, vult het college de voorziening, bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-07-28&g=2009-07-28), in met een opleiding, als bedoeld in [artikel 7.2.2., tweede lid, onder a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van de alleenstaande ouder te boven gaat.
+9. Op verzoek van de alleenstaande ouder die beschikt over een startkwalificatie en aan wie een ontheffing is verleend als bedoeld in het eerste lid, vult het college de voorziening, bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-08-01&g=2009-08-01), in met een opleiding, als bedoeld in [artikel 7.2.2., tweede lid, onder a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van de alleenstaande ouder te boven gaat.
 
-10. De alleenstaande ouder met een kind tot vijf jaar die op de dag voorafgaand aan de inwerkingtreding van de [Wet verbetering arbeidsmarktpositie alleenstaande ouders](https://wetten.overheid.nl/jci1.3:c:BWBR0025029) op grond van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-07-28&g=2009-07-28), tijdelijk ontheven is van een verplichting als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-07-28&g=2009-07-28), behoudt die tijdelijke ontheffing:
+10. De alleenstaande ouder met een kind tot vijf jaar die op de dag voorafgaand aan de inwerkingtreding van de [Wet verbetering arbeidsmarktpositie alleenstaande ouders](https://wetten.overheid.nl/jci1.3:c:BWBR0025029) op grond van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-08-01&g=2009-08-01), tijdelijk ontheven is van een verplichting als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-08-01&g=2009-08-01), behoudt die tijdelijke ontheffing:
 
 - a. tot het tijdstip dat in de desbetreffende beschikking is bepaald, doch uiterlijk tot twaalf maanden na inwerkingtreding van de [Wet verbetering arbeidsmarktpositie alleenstaande ouders](https://wetten.overheid.nl/jci1.3:c:BWBR0025029), dan wel
 
@@ -1514,7 +1512,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 62a. Uitkering tot levensonderhoud
 
-Bij de beoordeling van het bestaan van het verhaalsrecht, bedoeld in [artikel 159a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=159a) of [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&artikel=62&z=2009-07-28&g=2009-07-28), en de omvang van het te verhalen bedrag wordt rekening gehouden met de maatstaven die gelden en de omstandigheden die van belang zijn in het geval dat de rechter dient te beslissen over de vraag of en, zo ja, tot welk bedrag een uitkering tot levensonderhoud na echtscheiding, scheiding van tafel en bed of ontbinding van het huwelijk na scheiding van tafel en bed zou moeten worden toegekend.
+Bij de beoordeling van het bestaan van het verhaalsrecht, bedoeld in [artikel 159a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=159a) of [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&artikel=62&z=2009-08-01&g=2009-08-01), en de omvang van het te verhalen bedrag wordt rekening gehouden met de maatstaven die gelden en de omstandigheden die van belang zijn in het geval dat de rechter dient te beslissen over de vraag of en, zo ja, tot welk bedrag een uitkering tot levensonderhoud na echtscheiding, scheiding van tafel en bed of ontbinding van het huwelijk na scheiding van tafel en bed zou moeten worden toegekend.
 
 ##### Artikel 62b. Verhaal volgens rechterlijke uitspraak
 
@@ -1528,13 +1526,13 @@ Bij de beoordeling van het bestaan van het verhaalsrecht, bedoeld in [artikel 15
 
 ##### Artikel 62c. Bevoegd college
 
-1. Indien degene, die bijstand ontvangt of heeft ontvangen en ten aanzien van wie door de rechter een verhaalsbedrag verschuldigd op grond van [artikel 159a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=159a) of [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&artikel=62&z=2009-07-28&g=2009-07-28) is vastgesteld, zijn woonplaats verplaatst naar een andere gemeente en aldaar bijstand ontvangt of heeft ontvangen, gaat de bevoegdheid tot tenuitvoerlegging van de rechterlijke uitspraak op het college van de andere gemeente over.
+1. Indien degene, die bijstand ontvangt of heeft ontvangen en ten aanzien van wie door de rechter een verhaalsbedrag verschuldigd op grond van [artikel 159a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=159a) of [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&artikel=62&z=2009-08-01&g=2009-08-01) is vastgesteld, zijn woonplaats verplaatst naar een andere gemeente en aldaar bijstand ontvangt of heeft ontvangen, gaat de bevoegdheid tot tenuitvoerlegging van de rechterlijke uitspraak op het college van de andere gemeente over.
 
 2. Het college van de vertrekgemeente blijft bevoegd tot tenuitvoerlegging voor zover het gaat om betalingsachterstanden ter zake van verhaal van bijstand die door dat college is verleend.
 
 ##### Artikel 62d. Indexering
 
-1. Het door de rechter vastgestelde verhaalsbedrag verschuldigd op grond van [artikel 159a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=159a) of [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&artikel=62&z=2009-07-28&g=2009-07-28) wordt jaarlijks met ingang van 1 januari van rechtswege gewijzigd met het op grond van [artikel 402a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=402a) vast te stellen percentage.
+1. Het door de rechter vastgestelde verhaalsbedrag verschuldigd op grond van [artikel 159a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=159a) of [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&artikel=62&z=2009-08-01&g=2009-08-01) wordt jaarlijks met ingang van 1 januari van rechtswege gewijzigd met het op grond van [artikel 402a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=402a) vast te stellen percentage.
 
 2. De toepassing van het eerste lid blijft achterwege indien de wijziging van rechtswege bij rechterlijke uitspraak is uitgesloten.
 
@@ -1562,7 +1560,7 @@ Kosten van bijstand kunnen door het college worden verhaald op:
 
 ##### Artikel 62g. Mededeling verhaalsbesluit
 
-1. Het besluit tot verhaal op grond van deze paragraaf, anders dan met toepassing van [artikel 62b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&artikel=62b&z=2009-07-28&g=2009-07-28), wordt door het college aan degene op wie verhaal wordt gezocht medegedeeld. Bij verhaal op de nalatenschap kan de mededeling worden gericht tot de langstlevende echtgenoot of een der erfgenamen die geacht kan worden bij de afwikkeling van de nalatenschap te zijn betrokken.
+1. Het besluit tot verhaal op grond van deze paragraaf, anders dan met toepassing van [artikel 62b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.5&artikel=62b&z=2009-08-01&g=2009-08-01), wordt door het college aan degene op wie verhaal wordt gezocht medegedeeld. Bij verhaal op de nalatenschap kan de mededeling worden gericht tot de langstlevende echtgenoot of een der erfgenamen die geacht kan worden bij de afwikkeling van de nalatenschap te zijn betrokken.
 
 2. Indien de belanghebbende niet uit eigen beweging bereid is de verlangde gelden aan het college te betalen dan wel niet of niet tijdig tot betaling daarvan overgaat, kan het college overgaan tot verhaal in rechte.
 
@@ -1576,7 +1574,7 @@ Kosten van bijstand kunnen door het college worden verhaald op:
 
 ##### Artikel 62i. Schakelbepaling
 
-De [artikelen 58, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=58&z=2009-07-28&g=2009-07-28), en [artikel 60, eerste en vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=60&z=2009-07-28&g=2009-07-28), zijn met betrekking tot het verhaal van kosten van bijstand van overeenkomstige toepassing, met dien verstande dat [artikel 479e, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479e) van toepassing is.
+De [artikelen 58, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=58&z=2009-08-01&g=2009-08-01), en [artikel 60, eerste en vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=60&z=2009-08-01&g=2009-08-01), zijn met betrekking tot het verhaal van kosten van bijstand van overeenkomstige toepassing, met dien verstande dat [artikel 479e, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479e) van toepassing is.
 
 #### § 6.6. Gegevensuitwisseling
 
@@ -1590,7 +1588,7 @@ De [artikelen 58, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&ho
 
 ##### Artikel 78a. Toeslagenverordening
 
-De verordening, bedoeld in [artikel 38 van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=38), geldt als de verordening, bedoeld in [artikel 8, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=8&z=2009-07-28&g=2009-07-28).
+De verordening, bedoeld in [artikel 38 van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=38), geldt als de verordening, bedoeld in [artikel 8, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=8&z=2009-08-01&g=2009-08-01).
 
 ##### Artikel 78b. Omzetting besluiten
 
@@ -1606,7 +1604,7 @@ De verordening, bedoeld in [artikel 38 van de Algemene bijstandswet](https://wet
 
 ##### Artikel 78d. Gesubsidieerde arbeid
 
-1. Een dienstbetrekking als bedoeld in [artikel 4 van de Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083&artikel=4), een arbeidsovereenkomst als bedoeld in [artikel 5, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009083&artikel=5) en een dienstbetrekking als bedoeld in [artikel 6 van het Besluit in- en doorstroombanen](https://wetten.overheid.nl/jci1.3:c:BWBR0010994&artikel=6) gelden als een voorziening als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-07-28&g=2009-07-28).
+1. Een dienstbetrekking als bedoeld in [artikel 4 van de Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083&artikel=4), een arbeidsovereenkomst als bedoeld in [artikel 5, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009083&artikel=5) en een dienstbetrekking als bedoeld in [artikel 6 van het Besluit in- en doorstroombanen](https://wetten.overheid.nl/jci1.3:c:BWBR0010994&artikel=6) gelden als een voorziening als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=1&paragraaf=1.2&artikel=7&z=2009-08-01&g=2009-08-01).
 
 2. Op dienstbetrekkingen als bedoeld in de [Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083) blijft [titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10) alsmede de [artikelen 4, tweede, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009083&artikel=4), en [11, aanhef en onderdeel a, van de Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083&artikel=11) van toepassing. Op deze dienstbetrekkingen is [artikel 134, tweede lid, van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=134) niet van toepassing.
 
@@ -1626,13 +1624,13 @@ De verordening, bedoeld in [artikel 38 van de Algemene bijstandswet](https://wet
 
 ##### Artikel 78f. Grondslag [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711)
 
-Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verlening van bijstand en bijstand ter voorziening in de behoefte aan bedrijfskapitaal op grond van deze wet aan zelfstandigen en aan personen die algemene bijstand ontvangen en voornemens zijn een bedrijf of zelfstandig beroep te beginnen en zich in verband hiermee niet beschikbaar stellen voor arbeid in dienstbetrekking gedurende de voorbereidingsperiode van ten hoogste twaalf maanden, waarbij kan worden afgeweken van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-07-28&g=2009-07-28), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=10&z=2009-07-28&g=2009-07-28), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2009-07-28&g=2009-07-28), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=32&z=2009-07-28&g=2009-07-28), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-07-28&g=2009-07-28), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=40&z=2009-07-28&g=2009-07-28), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=41&z=2009-07-28&g=2009-07-28), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.2&artikel=45&z=2009-07-28&g=2009-07-28), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=58&z=2009-07-28&g=2009-07-28), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.3&artikel=77&z=2009-07-28&g=2009-07-28) en de paragrafen [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.2&z=2009-07-28&g=2009-07-28), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&z=2009-07-28&g=2009-07-28) en[7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&z=2009-07-28&g=2009-07-28).
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verlening van bijstand en bijstand ter voorziening in de behoefte aan bedrijfskapitaal op grond van deze wet aan zelfstandigen en aan personen die algemene bijstand ontvangen en voornemens zijn een bedrijf of zelfstandig beroep te beginnen en zich in verband hiermee niet beschikbaar stellen voor arbeid in dienstbetrekking gedurende de voorbereidingsperiode van ten hoogste twaalf maanden, waarbij kan worden afgeweken van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=9&z=2009-08-01&g=2009-08-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.1&artikel=10&z=2009-08-01&g=2009-08-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2009-08-01&g=2009-08-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=32&z=2009-08-01&g=2009-08-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=3&paragraaf=3.4&artikel=34&z=2009-08-01&g=2009-08-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=40&z=2009-08-01&g=2009-08-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.1&artikel=41&z=2009-08-01&g=2009-08-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=5&paragraaf=5.2&artikel=45&z=2009-08-01&g=2009-08-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.4&artikel=58&z=2009-08-01&g=2009-08-01), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.3&artikel=77&z=2009-08-01&g=2009-08-01) en de paragrafen [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=4&paragraaf=4.2&z=2009-08-01&g=2009-08-01), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&z=2009-08-01&g=2009-08-01) en[7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&z=2009-08-01&g=2009-08-01).
 
 ##### Artikel 78g. Zelfstandigen
 
-1. De [artikelen 18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2009-07-28&g=2009-07-28), en [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.2&artikel=53a&z=2009-07-28&g=2009-07-28), treden, voor zover het betreft zelfstandigen als bedoeld in [artikel 78f](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7a&artikel=78f&z=2009-07-28&g=2009-07-28), in werking op een bij koninklijk besluit te bepalen tijdstip.
+1. De [artikelen 18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2009-08-01&g=2009-08-01), en [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.2&artikel=53a&z=2009-08-01&g=2009-08-01), treden, voor zover het betreft zelfstandigen als bedoeld in [artikel 78f](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7a&artikel=78f&z=2009-08-01&g=2009-08-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. De [artikelen 14 tot en met 14f](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=14), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=66) en[142a van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=142a), voor zover het betreft zelfstandigen als bedoeld in [artikel 78f](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7a&artikel=78f&z=2009-07-28&g=2009-07-28), vervallen op een bij koninklijk besluit te bepalen tijdstip.
+2. De [artikelen 14 tot en met 14f](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=14), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=66) en[142a van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=142a), voor zover het betreft zelfstandigen als bedoeld in [artikel 78f](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7a&artikel=78f&z=2009-08-01&g=2009-08-01), vervallen op een bij koninklijk besluit te bepalen tijdstip.
 
 3. Waar in [artikel 14, eerste lid, van de Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=14) wordt verwezen naar de [artikelen 8, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=8), en [112 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333&artikel=112), wordt in plaats van die artikelen gelezen: [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=2), onderscheidenlijk [artikel 38 van het Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=38).
 
@@ -1646,7 +1644,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrek
 
 2. De in het eerste lid bedoelde bijstand wordt afgestemd op de omstandigheden, mogelijkheden en middelen van de belanghebbende, rekening houdend met het niveau van de noodzakelijke kosten van het bestaan ter plaatse.
 
-3. De artikelen van deze wet zijn niet van toepassing, voor zover de omstandigheden het toelaten, met uitzondering van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&z=2009-07-28&g=2009-07-28) en de [paragrafen 6.1 tot en met 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&z=2009-07-28&g=2009-07-28), met dien verstande dat de Sociale verzekeringsbank in de plaats treedt van het college.
+3. De artikelen van deze wet zijn niet van toepassing, voor zover de omstandigheden het toelaten, met uitzondering van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=2&z=2009-08-01&g=2009-08-01) en de [paragrafen 6.1 tot en met 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=6&paragraaf=6.1&z=2009-08-01&g=2009-08-01), met dien verstande dat de Sociale verzekeringsbank in de plaats treedt van het college.
 
 4. Zodra ten minste 26 weken zijn verstreken nadat de bijstand die werd verleend op grond van het eerste lid werd beëindigd, is dat lid ten aanzien van het desbetreffende geval niet langer van toepassing.
 
@@ -1664,7 +1662,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 74a. Nadere bepaling meerjarige aanvullende uitkering
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onze Minister kan voorwaarden verbinden aan het besluit tot verlening van een meerjarige aanvullende uitkering als bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=74&z=2009-08-01&g=2009-08-01).
+
+2. Onze Minister kan een verleende meerjarige aanvullende uitkering verminderen of intrekken indien het college in strijd handelt met een wettelijk voorschrift dat betrekking heeft op de meerjarige aanvullende uitkering, of met een voorwaarde die aan het besluit tot verlening van een meerjarige aanvullende uitkering is verbonden.
+
+3. De meerjarige aanvullende uitkering die als gevolg van een besluit als bedoeld in het tweede lid onverschuldigd is betaald wordt door Onze Minister teruggevorderd.
+
+4. Indien volledige terugvordering naar het oordeel van Onze Minister leidt tot een onbillijkheid van overwegende aard, stelt Onze Minister de terugvordering vast op een percentage van de meerjarige aanvullende uitkering.
+
+5. Onze Minister kan de onverschuldigd betaalde uitkering, bedoeld in het derde lid, invorderen bij dwangbevel.
+
+6. Een oordeel als bedoeld in [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&hoofdstuk=7&paragraaf=7.1&artikel=73&z=2009-08-01&g=2009-08-01), dat betrekking heeft op een verzoek tot een meerjarige aanvullende uitkering, wordt gepubliceerd op internet.
 
 #### § 7.2. Toezicht
 
