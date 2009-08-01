@@ -4,7 +4,7 @@ identifier: "BWBR0023926"
 country: "nl"
 rank: "wet"
 publication_date: "2009-08-01"
-last_updated: "2008-06-04"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023926"
 soort: "wet"
@@ -66,7 +66,7 @@ Wijzigt de Ziektewet.
 
 ##### Artikel VI. Overgangsbepaling
 
-1. De bepalingen van deze wet zoals deze luiden na de inwerkingtreding van deze wet zijn niet van toepassing op vrouwelijke zelfstandigen wier bevalling heeft plaatsgevonden voor de datum van inwerkingtreding van deze wet, noch op vrouwelijke beroepsbeoefenaars op arbeidsovereenkomst aan wie een uitkering op grond van paragraaf 2 is toegekend voor de datum van inwerkingtreding van deze wet.
+1. De bepalingen van de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) zoals deze luiden na de inwerkingtreding van deze wet zijn niet van toepassing op vrouwelijke zelfstandigen wier bevalling heeft plaatsgevonden voor de datum van inwerkingtreding van deze wet, noch op vrouwelijke beroepsbeoefenaars op arbeidsovereenkomst aan wie een uitkering op grond van [hoofdstuk 3, afdeling 2, paragraaf 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=2) is toegekend voor de datum van inwerkingtreding van deze wet.
 
 2. De verplichting, bedoeld in [artikel 3:22, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:22), om, indien de vrouwelijke zelfstandige voor een uitkering in verband met zwangerschap en bevalling in aanmerking wenst te komen, uiterlijk twee weken voor de datum van ingang van het recht op uitkering, bedoeld in [artikel 3:18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) een aanvraag in te dienen geldt niet voor de vrouwelijke zelfstandige wier bevalling binnen tien weken na inwerkingtreding van deze wet plaatsvindt. De vrouwelijke zelfstandige, bedoeld in de vorige zin, kan een aanvraag voor een uitkering voor de periode van zwangerschap en bevalling uiterlijk vier weken na de datum van bevalling indienen.
 
