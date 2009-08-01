@@ -4,7 +4,7 @@ identifier: "BWBR0014919"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014919"
 soort: "AMvB"
@@ -50,17 +50,19 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. Raad: Raad voor strafrechtstoepassing en jeugdbescherming;
+- a. **Raad:** de Raad voor strafrechtstoepassing en jeugdbescherming;
 
-- b. sectievoorzitter: voorzitter van een van de secties van de Raad;
+- b. **wet:** de [Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0011940);
 
-- c. vergadering: plenaire vergadering van de Raad, vergadering van een sectie, vergadering van de rechtspraakkamer en vergadering van een commissie;
+- c. **sectievoorzitter:** de voorzitter van een sectie, als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=11);
 
-- d. preadviescommissie: commissie die belast is met de voorbereiding van de adviezen van de Raad;
+- d. **bestuur:** het bestuur van de Raad, bestaande uit de voorzitter, de sectievoorzitters en de voorzitter van de rechtspraakkamer van de Raad;
 
-- e. bezoekcommissie: commissie die een toezichtsbezoek aflegt;
+- e. **preadviescommissie:** commissie belast met de voorbereiding van de adviezen van de Raad;
 
-- f. beroepscommissie: commissie aan wie de rechtsprekende taak van de Raad is opgedragen.
+- f. **beroepscommissie:** commissie aan wie de rechtsprekende taak van de Raad is opgedragen;
+
+- g. **vergadering:** plenaire vergadering van de Raad, vergadering van het bestuur, vergadering van een sectie, de vergadering van een preadviescommissie, de vergadering van de rechtspraakkamer en de vergadering van een beroepscommissie.
 
 ##### Artikel 2
 
@@ -70,25 +72,29 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De algemeen voorzitter, de sectievoorzitters en de voorzitter van de rechtspraakkamer ontvangen een vergoeding van € 255 per vergadering.
+1. De leden en plaatsvervangende leden van het bestuur, een sectie, een beroepscommissie en een rechtspraakkamer ontvangen een vergoeding per vergadering van 2,75% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
-2. De overige leden en de plaatsvervangende leden ontvangen een vergoeding van € 192 per vergadering.
+2. De algemeen voorzitter, de sectievoorzitter, de voorzitter van een beroepscommissie en de voorzitter van een rechtspraakkamer, ontvangen een vergoeding per vergadering van 130% van de hoogte van de vergoeding, bedoeld in het eerste lid.
 
 ##### Artikel 4
 
-1. De voorzitter van een preadviescommissie ontvangt een vergoeding van € 125 per vergadering.
+1. De leden en plaatsvervangende leden van een preadviescommissie ontvangen een vergoeding per vergadering van 2,25% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
-2. De overige leden en de plaatsvervangende leden van een preadviescommissie ontvangen een vergoeding van € 85 per vergadering.
+2. De voorzitter van de preadviescommissie ontvangt een vergoeding per vergadering van 130% van de hoogte van de vergoeding bedoeld in het eerste lid.
+
+3. De voorzitter en de leden van de preadviescommissie die een bezoek afleggen aan een plaats waar een vrijheidsstraf, vrijheidsbeperkende straf, vrijheidsbenemende maatregel of vrijheidsbeperkende maatregel ten wordt uitvoer gelegd, ontvangt per bezoek een vergoeding van gelijke hoogte als in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2009-08-01&g=2009-08-01).
 
 ##### Artikel 5
 
-1. De voorzitter van een bezoekcommissie ontvangt een vergoeding van € 255 per bezoek.
-
-2. De overige leden en de plaatsvervangende leden van een bezoekcommissie ontvangen een vergoeding van € 192 per bezoek.
+De leden ontvangen een vergoeding per bijeenkomst van 2% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) voor het deelnemen aan overige bijeenkomsten die verband houden met de uitoefening van de taken van de Raad.
 
 ##### Artikel 6
 
-De voorzitter, de leden en de plaatsvervangende leden van een beroepscommissie ontvangen een vergoeding van € 310 per zitting.
+1. De voorzitter, de leden en de plaatsvervangende leden van een beroepscommissie, ontvangen een vergoeding per zitting. De vergoeding is van gelijke hoogte als de vergoeding die ingevolge [artikel 38, eerste lid, onderdeel b, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=38) wordt toegekend.
+
+2. Bij de afdoening van beroepszaken in een uitsluitend schriftelijke procedure wordt voor de afdoening van 15 beroepszaken een vergoeding toegekend van gelijke hoogte als de vergoeding voor één zitting als bedoeld in het eerste lid.
+
+3. Bij de behandeling van verzoeken tot schorsing wordt voor de behandeling van 20 schorsingsverzoeken een vergoeding toegekend van gelijke hoogte, als de vergoeding voor één zitting als bedoeld in het eerste lid.
 
 ##### Artikel 7
 
@@ -96,15 +102,15 @@ De leden en de plaatsvervangende leden van de Raad hebben overeenkomstig het [Re
 
 ##### Artikel 8
 
-De in dit besluit genoemde bedragen kunnen worden gewijzigd bij ministeriële regeling.
+De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2009-08-01&g=2009-08-01), en [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=4&z=2009-08-01&g=2009-08-01), zijn van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=14).
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2003.
+De in dit besluit genoemde bedragen kunnen worden gewijzigd bij ministeriële regeling.
 
 ##### Artikel 10
 
-Dit besluit wordt aangehaald als: Tijdelijk besluit vergoedingen Raad voor strafrechtstoepassing en jeugdbescherming.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2003.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
