@@ -4,7 +4,7 @@ identifier: "BWBR0012092"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2009-07-01"
+last_updated: "2009-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012092"
 soort: "wet"
@@ -66,7 +66,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. lichamen: rechtspersonen, maat- en vennootschappen, samenwerkingsvormen zonder rechtspersoonlijkheid die met verenigingen maatschappelijk gelijk kunnen worden gesteld, ondernemingen van publiekrechtelijke rechtspersonen en doelvermogens;
 
-- i. verplichtstelling: de verplichte deelneming in een bedrijfstakpensioenfonds op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=2&artikel=2&z=2009-07-01&g=2009-07-01).
+- i. verplichtstelling: de verplichte deelneming in een bedrijfstakpensioenfonds op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=2&artikel=2&z=2009-08-01&g=2009-08-01).
 
 #### § 2. Verplichtstelling
 
@@ -96,9 +96,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Gevolgen van de verplichtstelling
 
-1. Zolang de verplichtstelling duurt zijn de [artikelen 4 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=4&z=2009-07-01&g=2009-07-01) en de daarop berustende bepalingen van toepassing.
+1. Zolang de verplichtstelling duurt zijn de [artikelen 4 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=4&z=2009-08-01&g=2009-08-01) en de daarop berustende bepalingen van toepassing.
 
-2. Na beëindiging van de verplichtstelling blijven de [artikelen 4 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=4&z=2009-07-01&g=2009-07-01) en de daarop berustende bepalingen van toepassing voorzover ze betrekking hebben op de periode waarover de verplichtstelling duurde.
+2. Na beëindiging van de verplichtstelling blijven de [artikelen 4 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=4&z=2009-08-01&g=2009-08-01) en de daarop berustende bepalingen van toepassing voorzover ze betrekking hebben op de periode waarover de verplichtstelling duurde.
 
 ##### Artikel 4. Naleven van statuten en reglementen
 
@@ -132,7 +132,7 @@ Het bedrijfstakpensioenfonds draagt er zorg voor dat in het economisch verkeer g
 
 1. Behoudens het geven van algemene informatie, geeft het bedrijfstakpensioenfonds deelnemers, gewezen deelnemers en andere rechthebbenden op pensioen slechts informatie over regelingen die door het bedrijfstakpensioenfonds zelf worden uitgevoerd.
 
-2. Indien er in verband met de uitvoering van een pensioenregeling gegevensverstrekking, als bedoeld in [artikel 6, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=6&z=2009-07-01&g=2009-07-01), heeft plaatsgevonden, is het eerste lid van overeenkomstige toepassing op de persoon of de rechtspersoon aan wie de gegevens zijn verstrekt.
+2. Indien er in verband met de uitvoering van een pensioenregeling gegevensverstrekking, als bedoeld in [artikel 6, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=6&z=2009-08-01&g=2009-08-01), heeft plaatsgevonden, is het eerste lid van overeenkomstige toepassing op de persoon of de rechtspersoon aan wie de gegevens zijn verstrekt.
 
 ##### Artikel 8. Bijdrage
 
@@ -152,11 +152,11 @@ Het bedrijfstakpensioenfonds draagt er zorg voor dat in het economisch verkeer g
 
 3. Indien de Nederlandsche Bank van mening is dat de statuten of reglementen in strijd zijn met enig wettelijk voorschrift doet zij daarvan mededeling aan Onze Minister.
 
-4. Indien de gewijzigde statuten of reglementen op grond van het feit dat zij in strijd zijn met enig wettelijk voorschrift wederom gewijzigd worden, is het bedrijfstakpensioenfonds gehouden om de kosten te vergoeden die in verband met die wijziging van de statuten of reglementen zijn gemaakt door een werkgever of een pensioenuitvoerder om te kunnen blijven voldoen aan de voorschriften die zijn verbonden aan een vrijstelling op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=13&z=2009-07-01&g=2009-07-01).
+4. Indien de gewijzigde statuten of reglementen op grond van het feit dat zij in strijd zijn met enig wettelijk voorschrift wederom gewijzigd worden, is het bedrijfstakpensioenfonds gehouden om de kosten te vergoeden die in verband met die wijziging van de statuten of reglementen zijn gemaakt door een werkgever of een pensioenuitvoerder om te kunnen blijven voldoen aan de voorschriften die zijn verbonden aan een vrijstelling op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=13&z=2009-08-01&g=2009-08-01).
 
 ##### Artikel 10. Wijziging van de verplichtstelling
 
-1. Onze Minister kan op aanvraag van het georganiseerde bedrijfsleven binnen een bedrijfstak dat naar zijn oordeel een belangrijke meerderheid van de in die bedrijfstak werkzame personen vertegenwoordigt, de verplichtstelling wijzigen. [Artikel 2, tweede lid, onderdelen a, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=2&artikel=2&z=2009-07-01&g=2009-07-01), zijn van overeenkomstige toepassing.
+1. Onze Minister kan op aanvraag van het georganiseerde bedrijfsleven binnen een bedrijfstak dat naar zijn oordeel een belangrijke meerderheid van de in die bedrijfstak werkzame personen vertegenwoordigt, de verplichtstelling wijzigen. [Artikel 2, tweede lid, onderdelen a, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=2&artikel=2&z=2009-08-01&g=2009-08-01), zijn van overeenkomstige toepassing.
 
 2. Bij ministeriële regeling kunnen met betrekking tot het eerste lid nadere regels worden gesteld.
 
@@ -246,7 +246,7 @@ Het bedrijfstakpensioenfonds draagt er zorg voor dat in het economisch verkeer g
 
 ##### Artikel 17. Toezicht
 
-1. Het toezicht op de uitvoering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=5&z=2009-07-01&g=2009-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=6&z=2009-07-01&g=2009-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=7&z=2009-07-01&g=2009-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=8&z=2009-07-01&g=2009-07-01) en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=9&z=2009-07-01&g=2009-07-01), berust bij de Nederlandsche Bank.
+1. Het toezicht op de uitvoering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=5&z=2009-08-01&g=2009-08-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=6&z=2009-08-01&g=2009-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=7&z=2009-08-01&g=2009-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=8&z=2009-08-01&g=2009-08-01) en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=9&z=2009-08-01&g=2009-08-01), berust bij de Nederlandsche Bank.
 
 2. De [artikelen 152 tot en met 166](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=152) en [188 tot en met 191 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=188) zijn van overeenkomstige toepassing.
 
@@ -258,19 +258,25 @@ Het bedrijfstakpensioenfonds draagt er zorg voor dat in het economisch verkeer g
 
 ##### Artikel 19. Bestuurlijke boete
 
-1. De Nederlandsche Bank kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften, gesteld bij de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=5&z=2009-07-01&g=2009-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=6&z=2009-07-01&g=2009-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=7&z=2009-07-01&g=2009-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=8&z=2009-07-01&g=2009-07-01) en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=9&z=2009-07-01&g=2009-07-01).
+1. De Nederlandsche Bank kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften, gesteld bij de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=5&z=2009-08-01&g=2009-08-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=6&z=2009-08-01&g=2009-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=7&z=2009-08-01&g=2009-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=8&z=2009-08-01&g=2009-08-01) en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=9&z=2009-08-01&g=2009-08-01).
 
-2. Bij regeling van Onze Minister kunnen regels worden gesteld ter zake van de uitoefening van de bevoegdheid tot het opleggen van bestuurlijke boetes.
+2. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.
 
 3. [Artikel 184 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=184) is van overeenkomstige toepassing.
 
-##### Artikel 20. Hoogte van de bestuurlijke boete
+##### Artikel 20. Hoogte bestuurlijke boete
 
-1. Het bedrag van de bestuurlijke boete, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=4&artikel=19&z=2009-07-01&g=2009-07-01), wordt bepaald op de wijze als voorzien in de bijlage, met dien verstande dat de boete voor een afzonderlijke overtreding ten hoogste € 900 000 bedraagt.
+1. Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 4 000 000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.
 
-2. De bijlage bepaalt bij elke daarin omschreven overtreding het bedrag van de deswege op te leggen boete.
+2. De algemene maatregel van bestuur, bedoeld in het eerste lid, bepaalt bij elke daarin omschreven overtreding het bedrag van de deswege op te leggen bestuurlijke boete. De overtredingen worden gerangschikt in categorieën naar zwaarte van de overtreding met de daarbij behorende basisbedragen, minimumbedragen en maximumbedragen. Daarbij wordt de volgende indeling gebruikt:
 
-3. De bijlage kan bij algemene maatregel van bestuur worden gewijzigd.
+| Categorie | Basisbedrag | Minimumbedrag | Maximumbedrag |
+| --- | --- | --- | --- |
+| 1 | € 10 000,– | € 0,– | € 10 000,– |
+| 2 | € 500 000,– | € 0,– | € 1 000 000,– |
+| 3 | € 2 000 000,– | € 0,– | € 4 000 000,– |
+
+3. In afwijking van het eerste en tweede lid kan de toezichthouder de hoogte van de bestuurlijke boete vaststellen op ten hoogste twee keer het bedrag van het voordeel dat de overtreder door de overtreding heeft verkregen indien diens voordeel groter is dan € 2 000 000.
 
 #### § 5. Rechtsvordering
 
@@ -278,7 +284,7 @@ Het bedrijfstakpensioenfonds draagt er zorg voor dat in het economisch verkeer g
 
 1. Indien een bijdrage na aanmaning per aangetekende brief niet of niet geheel binnen dertig dagen wordt voldaan kan het bedrijfstakpensioenfonds, vertegenwoordigd door de personen die op grond van de statuten van het bedrijfstakpensioenfonds bevoegd zijn het fonds in rechte te vertegenwoordigen, de premie, wettelijke of reglementaire renten of reglementaire boete en de aanmaningskosten invorderen bij dwangbevel.
 
-2. De in het eerste lid bedoelde aanmaning vermeldt de inhoud van het eerste en vierde tot en met het achtste lid van dit artikel en van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=4&z=2009-07-01&g=2009-07-01).
+2. De in het eerste lid bedoelde aanmaning vermeldt de inhoud van het eerste en vierde tot en met het achtste lid van dit artikel en van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=4&z=2009-08-01&g=2009-08-01).
 
 3. Het dwangbevel houdt in:
 
@@ -314,7 +320,7 @@ Het bedrijfstakpensioenfonds draagt er zorg voor dat in het economisch verkeer g
 
 2. Indien een bestuurder van een lichaam zelf een lichaam is, wordt onder bestuurder mede verstaan ieder van de bestuurders van laatstbedoeld lichaam.
 
-3. [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=5&artikel=21&z=2009-07-01&g=2009-07-01) is ten aanzien van de persoon, die krachtens dit artikel hoofdelijk aansprakelijk is, van overeenkomstige toepassing.
+3. [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=5&artikel=21&z=2009-08-01&g=2009-08-01) is ten aanzien van de persoon, die krachtens dit artikel hoofdelijk aansprakelijk is, van overeenkomstige toepassing.
 
 ##### Artikel 23. Hoofdelijke aansprakelijkheid
 
@@ -348,11 +354,11 @@ Het bedrijfstakpensioenfonds draagt er zorg voor dat in het economisch verkeer g
 
 11. Indien de bestuurder van het lichaam op grond van dit artikel aansprakelijk is en niet in staat is tot betaling van zijn schuld ter zake, zijn de door die bestuurder onverplicht verrichte rechtshandelingen waardoor de mogelijkheid tot verhaal op hem is verminderd, vernietigbaar en kan het bedrijfstakpensioenfonds deze vernietigingsgrond inroepen, indien aannemelijk is dat deze geheel of nagenoeg geheel met dat oogmerk zijn verricht. [Artikel 45, vierde en vijfde lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=45) is van overeenkomstige toepassing.
 
-12. [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=5&artikel=21&z=2009-07-01&g=2009-07-01) is ten aanzien van de persoon die krachtens dit artikel hoofdelijk aansprakelijk is, van overeenkomstige toepassing.
+12. [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=5&artikel=21&z=2009-08-01&g=2009-08-01) is ten aanzien van de persoon die krachtens dit artikel hoofdelijk aansprakelijk is, van overeenkomstige toepassing.
 
 ##### Artikel 24. Verhaal
 
-1. Indien verhaal op het lichaam door de persoon die op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=5&artikel=23&z=2009-07-01&g=2009-07-01) bijdragen heeft voldaan geheel of gedeeltelijk onmogelijk blijkt en twee of meer personen op grond van dat artikel hoofdelijk aansprakelijk zijn, dragen deze onderling voor gelijke delen in het onverhaald gebleven deel bij. De persoon die meer heeft voldaan dan zijn aandeel, heeft voor het meerdere verhaal op de persoon die minder dan zijn aandeel heeft voldaan. Een tekort veroorzaakt doordat een of meer van hen geen verhaal biedt onderscheidenlijk bieden, wordt voor gelijke delen onderscheidenlijk naar evenredigheid van de gedeelten waarvoor de schuld ieder van hen aanging over de anderen verdeeld.
+1. Indien verhaal op het lichaam door de persoon die op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=5&artikel=23&z=2009-08-01&g=2009-08-01) bijdragen heeft voldaan geheel of gedeeltelijk onmogelijk blijkt en twee of meer personen op grond van dat artikel hoofdelijk aansprakelijk zijn, dragen deze onderling voor gelijke delen in het onverhaald gebleven deel bij. De persoon die meer heeft voldaan dan zijn aandeel, heeft voor het meerdere verhaal op de persoon die minder dan zijn aandeel heeft voldaan. Een tekort veroorzaakt doordat een of meer van hen geen verhaal biedt onderscheidenlijk bieden, wordt voor gelijke delen onderscheidenlijk naar evenredigheid van de gedeelten waarvoor de schuld ieder van hen aanging over de anderen verdeeld.
 
 2. Ieder die heeft bijgedragen, blijft gerechtigd het bijgedragene alsnog van het lichaam terug te vorderen.
 
@@ -424,21 +430,21 @@ Wijzigt de Wet verevening pensioenrechten bij scheiding.
 
 ##### Artikel 39. Overgangsrecht
 
-1. Op een aanvraag tot het verplichtstellen van deelneming in een bepaald bedrijfstakpensioenfonds ontvangen voor de inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=2&artikel=2&z=2009-07-01&g=2009-07-01), beslist Onze Minister volgens het ten tijde van de ontvangst van de aanvraag geldende recht.
+1. Op een aanvraag tot het verplichtstellen van deelneming in een bepaald bedrijfstakpensioenfonds ontvangen voor de inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=2&artikel=2&z=2009-08-01&g=2009-08-01), beslist Onze Minister volgens het ten tijde van de ontvangst van de aanvraag geldende recht.
 
-2. Op bezwaar- en beroepschriften die zijn ingediend voor de inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=2&artikel=2&z=2009-07-01&g=2009-07-01), wordt beslist op grond van het ten tijde van de indiening geldende recht.
+2. Op bezwaar- en beroepschriften die zijn ingediend voor de inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=2&artikel=2&z=2009-08-01&g=2009-08-01), wordt beslist op grond van het ten tijde van de indiening geldende recht.
 
-3. Een verplichting tot het deelnemen in een fonds op grond van artikel 3, eerste lid, van de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=2&artikel=2&z=2009-07-01&g=2009-07-01), wordt aangemerkt als een verplichtstelling op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=2&artikel=2&z=2009-07-01&g=2009-07-01).
+3. Een verplichting tot het deelnemen in een fonds op grond van artikel 3, eerste lid, van de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=2&artikel=2&z=2009-08-01&g=2009-08-01), wordt aangemerkt als een verplichtstelling op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=2&artikel=2&z=2009-08-01&g=2009-08-01).
 
-4. Een vrijstelling die is verleend op grond van artikel 16 van de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=15&z=2009-07-01&g=2009-07-01) wordt aangemerkt als een ontheffing op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=15&z=2009-07-01&g=2009-07-01).
+4. Een vrijstelling die is verleend op grond van artikel 16 van de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=15&z=2009-08-01&g=2009-08-01) wordt aangemerkt als een ontheffing op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=15&z=2009-08-01&g=2009-08-01).
 
-5. Een vrijstelling als bedoeld in artikel 1, onderdeel b, van de Vrijstellingsregeling Wet Bpf, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=13&z=2009-07-01&g=2009-07-01) wordt aangemerkt als een vrijstelling als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=13&z=2009-07-01&g=2009-07-01).
+5. Een vrijstelling als bedoeld in artikel 1, onderdeel b, van de Vrijstellingsregeling Wet Bpf, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=13&z=2009-08-01&g=2009-08-01) wordt aangemerkt als een vrijstelling als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=13&z=2009-08-01&g=2009-08-01).
 
-6. Een vrijstelling als bedoeld in artikel 1, eerste lid, van de regeling van de Minister van Sociale Zaken van 17 december 1949, nr. 2602 tot vaststelling van richtlijnen met betrekking tot het bepaalde in het tweede lid, onder II, letter k, van artikel 5 der Wet betreffende verplichte deelneming in een bedrijfspensioenfonds (Stcrt. 249), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=14&z=2009-07-01&g=2009-07-01), wordt aangemerkt als een vrijstelling als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=14&z=2009-07-01&g=2009-07-01).
+6. Een vrijstelling als bedoeld in artikel 1, eerste lid, van de regeling van de Minister van Sociale Zaken van 17 december 1949, nr. 2602 tot vaststelling van richtlijnen met betrekking tot het bepaalde in het tweede lid, onder II, letter k, van artikel 5 der Wet betreffende verplichte deelneming in een bedrijfspensioenfonds (Stcrt. 249), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=14&z=2009-08-01&g=2009-08-01), wordt aangemerkt als een vrijstelling als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=14&z=2009-08-01&g=2009-08-01).
 
 7. Vervallen.
 
-8. Ten aanzien van bedrijfstakpensioenfondsen die voor de inwerkingtreding van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=12&z=2009-07-01&g=2009-07-01), zijn verplichtgesteld, doet Onze Minister de eerste keer het verzoek, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=12&z=2009-07-01&g=2009-07-01), ten minste acht weken voordat er vijf jaren zijn verstreken sinds de datum van inwerkingtreding van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=12&z=2009-07-01&g=2009-07-01), tenzij er na de inwerkingtreding van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=12&z=2009-07-01&g=2009-07-01), een wijziging van de verplichtstelling heeft plaatsgevonden.
+8. Ten aanzien van bedrijfstakpensioenfondsen die voor de inwerkingtreding van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=12&z=2009-08-01&g=2009-08-01), zijn verplichtgesteld, doet Onze Minister de eerste keer het verzoek, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=12&z=2009-08-01&g=2009-08-01), ten minste acht weken voordat er vijf jaren zijn verstreken sinds de datum van inwerkingtreding van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=12&z=2009-08-01&g=2009-08-01), tenzij er na de inwerkingtreding van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&paragraaf=3&artikel=12&z=2009-08-01&g=2009-08-01), een wijziging van de verplichtstelling heeft plaatsgevonden.
 
 ##### Artikel 40. Intrekking van de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds
 
@@ -475,5 +481,23 @@ Categorie V: bedrijfstakpensioenfondsen met een balanstotaal van meer dan € 45
 2. De boete wordt vastgesteld door het basisbedrag, bedoeld in artikel 1, te vermenigvuldigen met de factor behorende bij de categorie naar balanstotaal, bedoeld in het eerste lid.
 
 3. Indien de gegevens omtrent het balanstotaal niet aan de Nederlandsche Bank beschikbaar zijn gesteld, kan de Nederlandsche Bank aan degene aan wie de boete wordt opgelegd, verzoeken deze gegevens binnen een door haar te stellen termijn te verstrekken. Indien de betrokkene niet binnen de gestelde termijn voldoet aan dit verzoek, is bij de vaststelling van de hoogte van de boete categorie V van toepassing.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 16a. [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495)
+
+De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is niet van toepassing op bedrijfstakpensioenfondsen.
+
+#### § 4. Toezicht en sancties
+
+#### § 5. Rechtsvordering
+
+#### § 6. Wijziging van wetten
+
+#### § 7. Overgangs- en slotbepalingen
+
+## Bijlage. als bedoeld in artikel 20 van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000
+
+Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
