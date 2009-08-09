@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-07-31"
+last_updated: "2009-08-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Besluit:
 | 1.2 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (borgstelling MKB-kredieten) | [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=2.3) | Bodemsaneringsborgstellingskredieten | 01-01 t/m 31-12 | 65.344.122 |
 | 1.3 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (groeifaciliteit) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.2) |   | 01-01 t/m 31-12 | 119.000.000 |
 | 1.3.a | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (Tijdelijke garantie ondernemingsfinanciering) | [3.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.12b) |   | Tijdstip van inwerkingtreding van de regeling tijdelijke garantie ondernemingsfinanciering t/m 12-12 | 1.000.000.000 |
-| 1.4 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (seed capital technostarters) | [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=4.3) |   | 01-01 t/m 31-03 | 12.000.000 |
+| 1.4 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (seed capital technostarters) | [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=4.3) |   | 01-01 t/m 31-03 | 19.500.000 |
 | 1.5 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (kennisexploitatie) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=5.2) |   |   |   |
 | 1.6 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (ondernemerschapsonderwijsprojecten) | [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=6.2) |   |   |   |
 | 1.7 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (Centres of Entrepreneurschip) | [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=6.12) |   |   |   |
@@ -149,10 +149,10 @@ Besluit:
 | 16.2 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2getthere) | [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=32) |   | 08-06 t/m 30-12 | 6.000.000 |
 | 16.3 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2xplore) | [38](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=38) |   | 08-06 t/m 30-12 | 3.000.000 |
 | 16.4 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (bestaande 2getthere programma’s) | [44](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=44) |   | 08-06 t/m 31-08 | 10.000.000 |
-| 17.1 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Duurzame warmte voor bestaande woningen) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=2.2) | Zonneboilers en warmtepompen, niet zijnde lucht/waterwarmtepompen |   |   |
-|   |   |   | Lucht/waterwarmtepompen |   |   |
-|   |   |   | Installaties voor micro-warmtekrachtkoppeling |   |   |
-| 17.2 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Unieke kansen programma verduurzaming warmte en koude) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=3.2) |   |   |   |
+| 17.1 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Duurzame warmte voor bestaande woningen) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=2.2) | Zonneboilers en warmtepompen, niet zijnde lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-09 | 16.000.000 |
+|   |   |   | Lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-09 | 2.000.000 |
+|   |   |   | Installaties voor micro-warmtekrachtkoppeling | 10-09-2008 t/m 31-12-09 | 2.000.000 |
+| 17.2 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Unieke kansen programma verduurzaming warmte en koude) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=3.2) |   | 15-08-09 t/m 05-11-09 | 10.000.000 |
 | 17.3 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (EOS-demonstratieprojecten) | [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=4.2) |   | 01-07-09 t/m 10-09-09 | 7.000.000 |
 | 17.4 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Unieke kansenprogramma naar energieneutrale scholen en kantoren) | [5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=5.2) | Haalbaarheidsstudies | Datum van inwerkingtreding van artikel 5.2 t/m 03-08-09 | 450.000 |
 |   |   | [5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=5.2) | Unieke kansen project scholen/kantoren | 01-07-09 t/m 03-12-09 | 5.000.000 |
