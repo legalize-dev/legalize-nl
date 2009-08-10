@@ -4,7 +4,7 @@ identifier: "BWBV0005521"
 country: "nl"
 rank: "verdrag"
 publication_date: "2011-03-03"
-last_updated: "1992-11-11"
+last_updated: "2009-08-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005521"
 soort: "verdrag"
@@ -682,7 +682,9 @@ Het Fonds kan, indien het een zodanige maatregel in uitzonderlijke omstandighede
 
 Sectie 1. **Bevoegdheid tot het toewijzen van bijzondere trekkingsrechten**
 
-Ten einde te voorzien in de behoefte - wanneer en in de mate waarin deze zich voordoet - aan een aanvulling op de bestaande reservemiddelen, is het Fonds bevoegd bijzondere trekkingsrechten toe te wijzen aan leden die participant zijn in de Bijzondere Trekkingsrechtenafdeling.
+- a. Ten einde te voorzien in de behoefte – wanneer en in de mate waarin deze zich voordoet – aan een aanvulling op de bestaande reservemiddelen, is het Fonds bevoegd bijzondere trekkingsrechten toe te wijzen, in overeenstemming met de bepalingen van Artikel XVIII, aan leden die participant zijn in de Bijzondere Trekkingsrechtenafdeling.
+
+- b. Bovendien wijst het Fonds bijzondere trekkingsrechten toe aan leden die, in overeenstemming met de bepalingen van Schema M, participant zijn in de Bijzondere Trekkingsrechtenafdeling.
 
 Sectie 2. **Waardebepaling van het bijzondere trekkingsrecht**
 
