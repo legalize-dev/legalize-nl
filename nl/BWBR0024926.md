@@ -4,7 +4,7 @@ identifier: "BWBR0024926"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-07-01"
+last_updated: "2009-08-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024926"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 3](https
 
 Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5) worden persoonsgegevens verwerkt indien en voor zover zij naar het oordeel van de zorgautoriteit voor die uitvoering noodzakelijk zijn en voor zover zij behoren tot de hieronder bij die artikelen vermelde categorieën van persoonsgegevens:
 
-- 1. [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61): persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens ter uitvoering van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2008-12-21&g=2009-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=3&z=2008-12-21&g=2009-07-01) vermelde artikelen en voor zover de categorie van persoonsgegevens daarbij is vermeld;
+- 1. [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61): persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens ter uitvoering van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2009-08-14&g=2009-08-14) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=3&z=2009-08-14&g=2009-08-14) vermelde artikelen en voor zover de categorie van persoonsgegevens daarbij is vermeld;
 
 - 2. [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61): persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens die noodzakelijk zijn voor de interne en externe controle van de naleving van een door de zorgautoriteit vastgestelde regeling door een op grond van [artikel 61 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61) door de zorgautoriteit aangewezen persoon en voor zover de categorie van persoonsgegevens daarbij is vermeld;
 
@@ -148,15 +148,7 @@ Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 6 van de
 
 - 11. [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=87) en [88](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=88): persoonsgegevens behorend tot de categorieën identificerende en strafrechtelijke persoonsgegevens betreffende bestuurders of medewerkers van een zorgverzekeraar;
 
-- 12. [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=89): persoonsgegevens behorend tot de categorieën identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars en persoonsgegevens behorend tot de categorieën identificerende, strafrechtelijke en medische persoonsgegevens van consumenten;
-
-- 13. [artikel 92 tot en met 95](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=92): persoonsgegevens behorend tot de categorieën identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars, rechtspersonen als bedoeld in de [artikelen 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=83) en [86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=86), en rechtspersonen als bedoeld in [artikel 40 Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40) en persoonsgegevens behorend tot de categorieën identificerende, strafrechtelijke en medische persoonsgegevens van consumenten;
-
-- 14. [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=96): persoonsgegevens behorend tot de categorie identificerende persoonsgegevens van de overtreder;
-
-- 15. [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=100): persoonsgegevens behorend tot de categorieën identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars, rechtspersonen als bedoeld in de [artikelen 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=83) en [86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=86), en rechtspersonen als bedoeld in [artikel 40 Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40) en persoonsgegevens behorend tot de categorieën identificerende, strafrechtelijke en medische persoonsgegevens van consumenten;
-
-- 16. [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=103): persoonsgegevens behorend tot de categorieën identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars, rechtspersonen als bedoeld in de [artikelen 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=83) en [86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=86), en rechtspersonen als bedoeld in [artikel 40 Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40).
+- 12. [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=89): persoonsgegevens behorend tot de categorieën identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars en persoonsgegevens behorend tot de categorieën identificerende, strafrechtelijke en medische persoonsgegevens van consumenten.
 
 ##### Artikel 6. inwerkingtreding
 
