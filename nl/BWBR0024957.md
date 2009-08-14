@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-08-09"
+last_updated: "2009-08-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Besluit:
 | 2.2a | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatiekredieten) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.2) | Klinische ontwikkelingsprojecten | 01-01 t/m 31-12 | 12.500.000 |
 | 2.2b | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatiekredieten) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.2) | Technische ontwikkelingsprojecten | 01-01 t/m 31-12 | 25.000.000 |
 | 2.3 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatieprestatiecontracten) | [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.3) |   | 15-01 t/m 31-12 | 1.000.000 |
-| 2.4 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatieprestatiecontracten) | [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.10) |   | 15-01 t/m 31-12 | 19.000.000 |
+| 2.4 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatieprestatiecontracten) | [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.10) |   | 15-01 t/m 31-12 | 33.700.000 |
 | 2.5 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatievouchers) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.2) | Aantal beschikbare grote vouchers | 31-03 t/m 31-12 | 3500 stuks |
 | 2.6 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatievouchers) | [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.3) | Aantal beschikbare kleine vouchers | 31-03 t/m 31-12 | 3500 stuks |
 | 2.7 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatievouchers) | [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.7) |   |   |   |
