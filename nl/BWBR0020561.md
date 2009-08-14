@@ -4,7 +4,7 @@ identifier: "BWBR0020561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2009-07-01"
+last_updated: "2009-08-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020561"
 soort: "ministeriele-regeling"
@@ -130,11 +130,7 @@ De uitkering wordt slechts verstrekt voor zover:
 
 ##### Artikel 5
 
-1. De Minister kan op een verleende uitkering voorschotten verlenen.
-
-2. In de beschikking tot verlening van voorschotten wordt het bedrag van de voorschotten vermeld dan wel de wijze waarop dit wordt bepaald en welk bedrag ten hoogste zal worden verleend.
-
-3. In de beschikking tot verlening van voorschotten wordt tevens de wijze van betaling van de voorschotten vermeld.
+Vervallen
 
 ##### Artikel 6
 
@@ -154,7 +150,7 @@ Het college van burgemeester en wethouders werkt mee aan door of namens de Minis
 
 ##### Artikel 9
 
-Het college van burgemeester en wethouders werkt mee aan onderzoek van de Centrale Commissie Behandeling Heroïneverslaafden naar de toepassing van de richtlijnen en protocollen, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=3&z=2009-06-20&g=2009-07-01).
+Het college van burgemeester en wethouders werkt mee aan onderzoek van de Centrale Commissie Behandeling Heroïneverslaafden naar de toepassing van de richtlijnen en protocollen, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=3&z=2009-08-14&g=2009-08-14).
 
 ##### Artikel 10
 
@@ -166,7 +162,7 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 ##### Artikel 11
 
-De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2009-06-20&g=2009-07-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2009-08-14&g=2009-08-14), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
 
 ##### Artikel 12
 
