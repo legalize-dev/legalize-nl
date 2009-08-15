@@ -4,7 +4,7 @@ identifier: "BWBR0024758"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2008-12-01"
+last_updated: "2009-08-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024758"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Voor de meldingsplicht van de arts op grond van [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=22), gelden voor de hieronder genoemde infectieziekten de volgende voorwaarden:
+1. Voor de meldingsplicht van de arts op grond van [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=22), gelden voor de hieronder genoemde infectieziekten de volgende voorwaarden:
 
 - a. pest, tuberculose en infectieziekten behorende tot groep B2 en groep C: de vaststelling wordt op normale werktijden binnen 24 uur gemeld,
 
@@ -69,6 +69,12 @@ Voor de meldingsplicht van de arts op grond van [artikel 22, tweede lid, van de 
 - d. mrsa-infectie: alleen de vaststelling van een cluster van een mrsa-infectie veroorzaakt door een bron buiten een zorginstelling wordt gemeld,
 
 - e. pneumokokkenziekte: alleen de vaststelling bij kinderen in de leeftijd tot en met 5 jaar wordt gemeld.
+
+2. Voor de meldingsplicht van de arts op grond van [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=22), gelden voor het Mexicaanse influenzavirus (H1N1) de volgende voorwaarden:
+
+- 1°. de vaststelling van een infectie bij een persoon die op grond van de ernst van dit ziektebeeld is opgenomen in een ziekenhuis wordt gemeld door de behandelend arts van het ziekenhuis, en
+
+- 2°. de vaststelling van het overlijden van een persoon als gevolg van dit ziektebeeld, dan wel het vermoeden dat dit ziektebeeld de oorzaak daarvan is geweest, wordt gemeld door een arts.
 
 ##### Artikel 3
 
@@ -132,7 +138,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 - –. 12 uur bij schepen met 500 en meer opvarenden, anders dan bemanningsleden.
 
-3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2008-12-01&g=2008-12-01), bedraagt € 46,42.
+3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2009-08-15&g=2009-08-15), bedraagt € 46,42.
 
 4. De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 23,21 per kwartier.
 
@@ -156,7 +162,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 ##### Artikel 11
 
-De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2008-12-01&g=2008-12-01), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
+De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2009-08-15&g=2009-08-15), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
 
 ##### Artikel 12
 
@@ -166,7 +172,7 @@ De inenting van personen tegen gele koorts geschiedt uitsluitend met een door de
 
 Het internationaal certificaat, bedoeld in artikel 36 van de Internationale Gezondheidsregeling, van inenting tegen gele koorts dient:
 
-- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2008-12-01&g=2008-12-01), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
+- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2009-08-15&g=2009-08-15), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
 
 - b. volledig te zijn ingevuld in de Engelse of Franse taal,
 
@@ -198,7 +204,7 @@ Deze regeling treedt in werking met ingang van 1 december 2008.
 
 Deze regeling wordt aangehaald als: Regeling publieke gezondheid.
 
-## Bijlage. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2008-12-01&g=2008-12-01) van de Regeling publieke gezondheid
+## Bijlage. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2009-08-15&g=2009-08-15) van de Regeling publieke gezondheid
 
 ### Programma van eisen sanitaire controle van schepen
 
