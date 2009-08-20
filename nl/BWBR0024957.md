@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-08-14"
+last_updated: "2009-08-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -135,7 +135,7 @@ Besluit:
 | 8 | [Subsidieregeling prepare2start](https://wetten.overheid.nl/jci1.3:c:BWBR0024955) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024955&artikel=2) |   | 01-01 t/m 31-12 | 9.900.000 |
 | 9 | [Subsidieregeling programma internationalisering beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024807) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024807&artikel=2) |   | 01-11-2008 t/m 06-05-2009 | 750.000 |
 | 10 | [Tijdelijke subsidieregeling opkomende markten](https://wetten.overheid.nl/jci1.3:c:BWBR0024665) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024665&artikel=2) |   | 16-02 t/m 31-12 | 5.000.000 |
-| 11.1 | [Besluit EOS: lange termijn](https://wetten.overheid.nl/jci1.3:c:BWBR0017234) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017234&artikel=2) | Projecten als bedoeld in [artikel 2, eerste lid, van de Regeling EOS lange termijn en EOS demo tender 2008-I](https://wetten.overheid.nl/jci1.3:c:BWBR0022721&artikel=2) | Tijdstip van inwerkingtreding van deze regeling t/m 05-03 | 10.000.000 |
+| 11.1 | [Besluit EOS: lange termijn](https://wetten.overheid.nl/jci1.3:c:BWBR0017234) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017234&artikel=2) | Projecten als bedoeld in [artikel 2, eerste lid, van de Regeling EOS lange termijn en EOS demo tender 2008-I](https://wetten.overheid.nl/jci1.3:c:BWBR0022721&artikel=2) | Tijdstip van inwerkingtreding van deze regeling t/m 05-03 | 10.800.593 |
 | 11.2 | [Besluit EOS: lange termijn](https://wetten.overheid.nl/jci1.3:c:BWBR0017234) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017234&artikel=2) | Projecten als bedoeld in [artikel 2, tweede en derde lid, van de Regeling EOS lange termijn en EOS demo tender 2008-I](https://wetten.overheid.nl/jci1.3:c:BWBR0022721&artikel=2) |   |   |
 | 11.3 | [Besluit EOS: lange termijn](https://wetten.overheid.nl/jci1.3:c:BWBR0017234) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017234&artikel=2) | Haalbaarheidsstudies voor het EOS-NEO-programma | 01-01 t/m 15-10 | 500.000 |
 | 11.4 | [Besluit EOS: lange termijn](https://wetten.overheid.nl/jci1.3:c:BWBR0017234) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017234&artikel=2) | Andere NEO-projecten dan haalbaarheidsstudies | Tijdstip van inwerkingtreding van deze regeling t/m 16-04 | 600.000 |
@@ -181,3 +181,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2009.
+
+##### Artikel 1a
+
+Dit onderdeel is nog niet inwerking getreden
