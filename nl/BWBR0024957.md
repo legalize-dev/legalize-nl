@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-08-20"
+last_updated: "2009-08-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -122,12 +122,17 @@ Besluit:
 | 3.22 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (detachering kenniswerkers) | [10b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10b.2) | Onderzoeks- en detacheringsprojecten | Datum van inwerkingtreding van [artikel 10b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10b.2) t/m 10-07 | 50.000.000 |
 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) |
 | 4 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) (Pieken in de delta) | [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&artikel=2.3) |   |   |   |
-|   |   |   | Oost-Nederland | 01-04 t/m 11-05 | 3.880.000 |
+|   |   |   | Oost-Nederland | 01-04 t/m 11-05 | 5.580.000 |
 |   |   |   | Noordvleugel Randstad | 01-04 t/m 11-05 | 9.000.000 |
-|   |   |   | Zuidvleugel Randstad | 01-04 t/m 11-05 | 4.960.000 |
-|   |   |   | Zuidwest-Nederland | 01-04 t/m 11-05 | 1.290.000 |
+|   |   |   | Zuidvleugel Randstad | 01-04 t/m 11-05 | 6.460.000 |
+|   |   |   | Zuidwest-Nederland | 01-04 t/m 11-05 | 1.590.000 |
 |   |   |   | Zuidoost-Nederland | 01-04 t/m 11-05 | 4.530.000 |
 |   |   |   | Noord-Nederland | 01-01 t/m 31-12 | 20.000.000 |
+|   |   |   | Oost-Nederland | 05-10 t/m 13-11 | 4.000.000 |
+|   |   |   | Noordvleugel Randstad | 05-10 t/m 13-11 | 7.000.000 |
+|   |   |   | Zuidvleugel Randstad | 05-10 t/m 13-11 | 7.040.000 |
+|   |   |   | Zuidwest-Nederland | 05-10 t/m 13-11 | 1.400.000 |
+|   |   |   | Zuidoost-Nederland | 05-10 t/m 13-11 | 5.000.000 |
 | Overige subsidieregelingen | Overige subsidieregelingen | Overige subsidieregelingen | Overige subsidieregelingen | Overige subsidieregelingen | Overige subsidieregelingen |
 | 5 | [Subsidieregeling prekwalificatie ESA-programma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0015867) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0015867&artikel=2) |   | 01-01 t/m 06-03 | 5.899.143 |
 | 6 | [Besluit subsidies civiele vliegtuigontwikkeling](https://wetten.overheid.nl/jci1.3:c:BWBR0011247) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0011247&artikel=2) |   | 01-01 t/m 31-12 | 14.000.000 |
