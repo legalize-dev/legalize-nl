@@ -4,7 +4,7 @@ identifier: "BWBR0010393"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-07-01"
-last_updated: "2009-07-01"
+last_updated: "2009-08-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010393"
 soort: "AMvB"
@@ -56,11 +56,9 @@ In dit besluit wordt verstaan onder:
 
 - b. subsidie: de krachtens [artikel 42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42) aan de raad te verstrekken subsidie voor de uitvoering van zijn wettelijke taak;
 
-- c. deelsubsidie beheers- en programmakosten: de in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01), bedoelde deelsubsidie;
+- c. deelsubsidie beheers- en programmakosten: de in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2009-08-26&g=2009-08-26), bedoelde deelsubsidie;
 
-- d. deelsubsidie landelijke projecten en activiteiten: de in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01), bedoelde deelsubsidie;
-
-- e. liquiditeitsratio: de verhouding tussen het totaal van de kortlopende vorderingen en liquide middelen enerzijds en het totaal van de kortlopende schulden van de raad anderzijds op 31 december van het boekjaar.
+- d. deelsubsidie landelijke projecten en activiteiten: de in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2009-08-26&g=2009-08-26), bedoelde deelsubsidie.
 
 ##### Artikel 2
 
@@ -86,7 +84,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-De raad kan tijdens het boekjaar gelden toevoegen aan de deelsubsidie landelijke projecten en activiteiten vanuit de egalisatiereserve «landelijke projecten en activiteiten» tot ten hoogste het in die egalisatiereserve beschikbare bedrag.
+1. De raad vormt egalisatiereserves voor de deelsubsidie beheers- en programmakosten en de deelsubsidie landelijke projecten en activiteiten.
+
+2. Bij ministeriële regeling worden nadere regels gesteld omtrent het vormen van egalisatiereserves door de raad.
 
 ##### Artikel 4
 
@@ -96,7 +96,7 @@ De raad kan tijdens het boekjaar gelden toevoegen aan de deelsubsidie landelijke
 
 ##### Artikel 5
 
-Onze Minister verstrekt op basis van de begroting voorschotten op de subsidie.
+Onze Minister verstrekt op basis van de begroting jaarlijks voorschotten. Hierbij wordt rekening gehouden met de ontwikkelingen in het volume van de toevoegingen en piketregelingen.
 
 ### HOOFDSTUK 2. VERLENING VAN DE SUBSIDIE
 
@@ -114,7 +114,7 @@ Onze Minister verstrekt op basis van de begroting voorschotten op de subsidie.
 
 - d. de wijze waarop de subsidie wordt bepaald;
 
-- e. de overige eisen waaraan het financiële verslag en het activiteitenverslag moeten voldoen.
+- e. de overige eisen waaraan het financiële verslag en het activiteitenverslag, waaronder het rapport van bevindingen en de jaarrekening, moeten voldoen.
 
 ##### Artikel 7
 
@@ -148,19 +148,13 @@ Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de s
 
 ##### Artikel 10
 
-1. De raad vormt voor elk van de in [artikel 2, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01), bedoelde deelsubsidies een egalisatiereserve, genaamd «beheers- en programmakosten» en «landelijke projecten en activiteiten».
-
-2. De egalisatiereserve «beheers- en programmakosten» bedraagt op 31 december van het boekjaar ten hoogste 7,5% van de over het boekjaar verleende deelsubsidie beheers- en programmakosten.
-
-3. De egalisatiereserve «landelijke projecten en activiteiten» bedraagt ten hoogste een jaarlijks door Onze Minister te bepalen maximum.
-
-4. Indien de egalisatiereserve, bedoeld in het tweede lid, op 31 december van het boekjaar de toegestane grens overschrijdt, wordt een bedrag ter hoogte van die overschrijding verrekend met de renteloze langlopende vordering op Onze Minister.
+Vervallen
 
 ##### Artikel 11
 
 1. De raad draagt er zorg voor dat het onderzoek van de accountant, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78), tevens strekt tot onderzoek van de naleving van de aan de subsidie verbonden verplichtingen.
 
-2. De opdracht aan de accountant gaat vergezeld van een door Onze Minister vast te stellen aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in [artikel 42a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42a). Daarbij legt de raad aan de accountant het in de bijlage bij dit besluit gevoegde model volgens welke de accountant de uitslag van zijn onderzoek moet opstellen op.
+2. De opdracht aan de accountant gaat vergezeld van een door Onze Minister vast te stellen aanwijzing over de reikwijdte en de intensiteit van de controle, bedoeld in [artikel 42a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42a). De aanwijzing bevat tevens een model accountantsverklaring volgens welke de accountant de uitslag van zijn onderzoek moet opstellen.
 
 3. De raad draagt er zorg voor dat zijn accountant alle medewerking verleent aan de door Onze Minister in te stellen onderzoeken naar de door de accountant verrichte controlewerkzaamheden, bedoeld in [artikel 4:78](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78) en [4:79 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:79).
 
@@ -182,13 +176,7 @@ Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de s
 
 1. De raad behoeft de toestemming van Onze Minister voor de handelingen, bedoeld in [artikel 4:71, eerste lid, onderdelen a en c tot en met g, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71).
 
-2. De raad behoeft tevens de toestemming van Onze Minister voor:
-
-- a. het aangaan of wijzigen van subsidieverplichtingen anders dan met voorzieningen, bedoeld in [artikel 42b, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42b);
-
-- b. het aanpassen of vervangen van de landelijke geautomatiseerde systemen in beheer bij de Stichting Integraal Rechtshulp-informatie Systeem, alsmede voor het aanpassen of vervangen van de daarbij behorende registratievoorschriften;
-
-- c. het tijdens het boekjaar toevoegen van gelden aan de verschillende onderdelen van de deelsubsidies anders dan ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=3&z=2009-07-01&g=2009-07-01).
+2. De raad behoeft tevens de toestemming van Onze Minister voor het aangaan of wijzigen van subsidieverplichtingen anders dan met voorzieningen, bedoeld in [artikel 42b, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42b).
 
 ##### Artikel 15
 
@@ -210,7 +198,7 @@ Onze Minister beslist binnen vier maanden op de aanvraag tot vaststelling van de
 
 ##### Artikel 18
 
-Het verschil tussen de vastgestelde deelsubsidies en de werkelijke kosten van de activiteiten waarvoor de deelsubsidie werd verleend komt ten gunste onderscheidenlijk ten laste van de desbetreffende egalisatiereserve.
+Vervallen
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
@@ -220,7 +208,7 @@ Onze Minister kan, na overleg met de raad, de bevoorschotting van de raad verlag
 
 ##### Artikel 20
 
-Onze Minister kan, na overleg met de raad, de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=3&artikel=10&z=2009-07-01&g=2009-07-01) genoemde percentages met ten hoogste 75% verlagen indien de financiële positie van een of meer raden daartoe noodzaakt.
+Vervallen
 
 ##### Artikel 21
 
@@ -234,17 +222,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 10a
 
-Indien de liquiditeitsratio meer dan 0,5 bedraagt wordt het meerdere door Onze Minister betrokken bij de subsidieverlening voor het eerstvolgende kalenderjaar.
+Vervallen
 
 ##### Artikel 10b
 
-Alvorens een bedrag toe te voegen aan de egalisatiereserve, wordt op een door Onze Minister te bepalen wijze een bedrag toegevoegd aan de vervangingsreserve materiële vaste activa.
+Vervallen
 
 ### HOOFDSTUK 4. VASTSTELLING VAN DE SUBSIDIE
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
-## Bijlage. bij [artikel 11, tweede lid, van het Subsidiebesluit raden voor rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=3&artikel=11&z=2009-07-01&g=2009-07-01)
+## Bijlage. bij artikel 11, tweede lid, van het Subsidiebesluit raden voor rechtsbijstand
+
+Vervallen
 
 ### **Model accountantsverklaring**
 
@@ -275,5 +265,7 @@ Tevens delen we mede dat het controleprotocol raden voor rechtsbijstand ........
 ### **Overig**
 
 Wij hebben zoals voorgeschreven in het controleprotocol raden voor rechtsbijstand 2002 een separaat rapport aan de Raad voor Rechtsbijstand uitgebracht. Er zijn door ons in dit kader geen bijzonderheden geconstateerd, die hier behoeven te worden vermeld.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
