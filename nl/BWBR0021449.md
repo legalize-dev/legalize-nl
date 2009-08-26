@@ -4,7 +4,7 @@ identifier: "BWBR0021449"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2015-03-01"
-last_updated: "1999-04-01"
+last_updated: "2009-08-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021449"
 soort: "beleidsregel"
@@ -64,6 +64,10 @@ Commuun en verkeer
 Toepassing dwangmiddelen
 
 Medeplegen
+
+Agressie in het verkeer
+
+Met betrekking tot een aantal delicten, zoals mishandeling, openlijke geweld, vernieling en bedreiging, dient het eventuele feit dat de gepleegde agressieve handeling samenhangt met, of terug te voeren is op een verkeerssituatie, strafverzwarend te worden beoordeeld. Reden voor die verzwaring is enerzijds het risico van escalatie van dergelijke delicten in een overgevoelige situatie, en anderzijds de verhoogde gevaarzetting die agressie in een verkeerssituatie voor andere verkeersdeelnemers doorgaans oplevert.
 
 Medeplichtigheid
 
