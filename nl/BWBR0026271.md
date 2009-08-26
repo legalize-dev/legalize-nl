@@ -4,7 +4,7 @@ identifier: "BWBR0026271"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-08-26"
-last_updated: "2009-01-01"
+last_updated: "2009-08-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026271"
 soort: "AMvB"
@@ -48,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit rechtsbijstand- en toevoegcriteria.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Subsidiebesluit raden voor rechtsbijstand.
 
 ##### Artikel III
 
@@ -60,10 +60,12 @@ Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+
+2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0026271&artikel=III&z=2009-08-26&g=2009-08-26) werkt terug tot en met 1 januari 2009.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Verzamelbesluit rechtsbijstand 2009.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
