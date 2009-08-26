@@ -4,7 +4,7 @@ identifier: "BWBR0006404"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2009-07-01"
+last_updated: "2009-08-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006404"
 soort: "AMvB"
@@ -104,7 +104,7 @@ Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien de 
 
 - a. indien de bijzondere feitelijke of juridische ingewikkeldheid van het geval dat vereist of,
 
-- b. indien de rechtzoekende verweerder is in een procedure als bedoeld in [artikel 431 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=431).
+- b. indien de rechtzoekende verweerder is in een procedure als bedoeld in de [artikelen 378](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=378) en [431 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=431).
 
 ##### Artikel 7
 
