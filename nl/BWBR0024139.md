@@ -4,7 +4,7 @@ identifier: "BWBR0024139"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-02-05"
-last_updated: "2008-08-01"
+last_updated: "2009-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024139"
 soort: "AMvB"
@@ -56,23 +56,23 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. **Onze Minister**: Onze Minister van Economische Zaken;
 
-- c. **verordening 1334/2000**: de [verordening (EG) nr. 1334/2000](32000R1334) van de Raad van de Europese Unie van 22 juni 2000 tot instelling van een communautaire regeling voor controle op de uitvoer van producten en technologie voor tweeërlei gebruik (PbEG L 159).
+- c. **verordening 428/2009:** de verordening (EG) nr. 428/2009 van de Raad van de Europese Unie van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU L 134).
 
 #### § 2. Goederen voor tweeërlei gebruik
 
 ##### Artikel 2
 
-Het is verboden te handelen in strijd met de artikelen 3, eerste lid, 4, eerste tot en met vierde lid, en 21, eerste lid, vijfde lid en zevende lid, van [verordening 1334/2000](32000R1334), voor zover het goederen betreft.
+Het is verboden te handelen in strijd met de artikelen 3, eerste lid, 4, eerste tot en met vierde lid, 6, eerste en tweede lid, 20, eerste en derde lid, en 22, eerste, achtste en tiende lid, van verordening 428/2009, voor zover het goederen betreft.
 
 ##### Artikel 3
 
-1. De bevoegde autoriteit, bedoeld in de artikelen 4, eerste lid, 6, tweede lid, 7, eerste lid, 9, eerste en tweede lid, en 12, vierde lid, van [verordening 1334/2000](32000R1334) is Onze Minister.
+1. De bevoegde autoriteit, bedoeld in de artikelen 4, eerste lid, 6, eerste en tweede lid, 9, tweede en vierde lid, onder c, 11, eerste lid, 13, eerste en vijfde lid, en 16, derde en vierde lid, van verordening 428/2009 is Onze Minister.
 
-2. Indien Onze Minister bij beschikking, bedoeld in artikel 4, eerste tot en met vierde lid, van [verordening 1334/2000](32000R1334), heeft bepaald dat de uitvoer of de wederuitvoer van de daarbij aangewezen goederen zonder vergunning is verboden, is de adressaat van deze beschikking, zodra voor hem aannemelijk is dat de desbetreffende goederen een andere bestemming zullen krijgen dan in de beschikking is vermeld, verplicht onder opgave van redenen van deze gewijzigde bestemming mededeling te doen aan Onze Minister.
+2. Indien Onze Minister bij beschikking, bedoeld in artikel 4, eerste tot en met vierde lid, van verordening 428/2009, heeft bepaald dat de uitvoer of de wederuitvoer van de daarbij aangewezen goederen zonder vergunning is verboden, is de adressaat van deze beschikking, zodra voor hem aannemelijk is dat de desbetreffende goederen een andere bestemming zullen krijgen dan in de beschikking is vermeld, verplicht onder opgave van redenen van deze gewijzigde bestemming mededeling te doen aan Onze Minister.
 
 ##### Artikel 4
 
-Bij ministeriële regeling kan Onze Minister om redenen van openbare veiligheid of uit mensenrechtenoverwegingen een verbod instellen op, of een vergunning verplicht stellen voor de uitvoer van goederen voor tweeërlei gebruik die niet zijn genoemd in bijlage I van [verordening 1334/2000](32000R1334).
+Bij ministeriële regeling kan Onze Minister om redenen van openbare veiligheid of uit mensenrechtenoverwegingen een verbod instellen op, of een vergunning verplicht stellen voor de uitvoer van goederen voor tweeërlei gebruik die niet zijn genoemd in bijlage I van verordening 428/2009.
 
 #### § 3. Militaire goederen
 
@@ -140,9 +140,9 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 8
 
-1. De vergunning, bedoeld in artikel 6, tweede lid, van [verordening 1334/2000](32000R1334) en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=6&z=2008-08-01&g=2008-08-01), wordt verleend door Onze Minister.
+1. De vergunning, bedoeld in artikel 9, tweede lid, van verordening 428/2009 en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=6&z=2009-08-27&g=2009-08-27), wordt verleend door Onze Minister.
 
-2. Onze Minister kan aan de vergunning, bedoeld in artikel 6, tweede lid, van [verordening 1334/2000](32000R1334) en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=6&z=2008-08-01&g=2008-08-01), voorschriften en voorwaarden verbinden.
+2. Onze Minister kan aan de vergunning, bedoeld in artikel 9, tweede lid, van verordening 428/2009 en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=6&z=2009-08-27&g=2009-08-27), voorschriften en voorwaarden verbinden.
 
 3. Ten aanzien van de vergunningverlening worden bij ministeriële regeling van Onze Minister nadere regels gesteld over:
 
@@ -165,5 +165,21 @@ Dit besluit treedt in werking op het tijdstip waarop de [wet](https://wetten.ove
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit strategische goederen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4a
+
+1. Onze Minister kan de doorvoer van niet-communautaire goederen voor tweeërlei gebruik, die niet op de lijst van bijlage I van verordening 428/2009 staan, verbieden indien deze goederen bestemd zijn voor een van de doeleinden, genoemd in artikel 4, eerste lid, van verordening 428/2009.
+
+2. Onze Minister kan de doorvoer van niet-communautaire goederen voor tweeërlei gebruik, die op de lijst van bijlage I van verordening 428/2009 staan, verbieden indien deze goederen een militaire bestemming hebben als bedoeld in artikel 4, tweede lid, van verordening 428/2009.
+
+3. Onze Minister kan besluiten dat een vergunning is vereist voor de overbrenging van producten voor tweeërlei gebruik vanuit Nederland naar een andere lidstaat indien op het tijdstip van de overbrenging voldaan wordt aan de eisen, bedoeld in artikel 22, tweede lid, van verordening 428/2009.
+
+#### § 3. Militaire goederen
+
+#### § 4. Vergunningverlening
+
+#### § 5. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
