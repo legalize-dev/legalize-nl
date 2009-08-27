@@ -4,7 +4,7 @@ identifier: "BWBR0007311"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2008-10-01"
+last_updated: "2009-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007311"
 soort: "AMvB"
@@ -134,15 +134,15 @@ Met motorrijwielen als bedoeld in [artikel 2, onderdeel **d**](https://wetten.ov
 
 - a. een motorrijtuig dat wordt gebruikt voor het vervoer van kermis- of circusbenodigdheden: indien het motorrijtuig uitsluitend als zodanig wordt gebruikt en wordt gehouden door een kermis- of circusexploitant;
 
-- b. een motorrijtuig dat is ingericht als werktuig: indien het motorrijtuig als zodanig uiterlijk herkenbaar is, het als zodanig wordt gebruikt op vaste plaatsen en daarmee niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald van de weg gebruik wordt gemaakt en het gebruik uitsluitend dient voor de verplaatsing naar een andere werkplek;
+- b. een motorrijtuig dat is ingericht als werktuig: indien het motorrijtuig als zodanig uiterlijk herkenbaar is, het als zodanig wordt gebruikt op vaste plaatsen en daarmee niet meer dan zestig dagen gedurende iedere opeenvolgende periode van vier aaneengesloten tijdvakken na het eerste tijdvak waarop [artikel 30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30) van toepassing is, dan wel, in het geval een kortere vrijstellingsperiode van toepassing is, niet meer dan vijftien dagen per tijdvak van de weg gebruik wordt gemaakt en het gebruik uitsluitend dient voor de verplaatsing naar een andere werkplek;
 
-- c. een motorrijtuig dat is ingericht als werkplaats: indien het motorrijtuig is voorzien van een laadruimte waarin permanent een werkbank is aangebracht, het met het oog op de te verrichten werkzaamheden noodzakelijke gereedschap permanent daarin aanwezig is, het motorrijtuig uitsluitend als zodanig wordt gebruikt en daarmee niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald van de weg gebruik wordt gemaakt en het gebruik uitsluitend dient voor de verplaatsing naar een andere werkplek;
+- c. een motorrijtuig dat is ingericht als werkplaats: indien het motorrijtuig is voorzien van een laadruimte waarin permanent een werkbank is aangebracht, het met het oog op de te verrichten werkzaamheden noodzakelijke gereedschap permanent daarin aanwezig is, het motorrijtuig uitsluitend als zodanig wordt gebruikt en daarmee niet meer dan zestig dagen gedurende iedere opeenvolgende periode van vier aaneengesloten tijdvakken na het eerste tijdvak waarop [artikel 30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30) van toepassing is, dan wel, in het geval een kortere vrijstellingsperiode van toepassing is, niet meer dan vijftien dagen per tijdvak van de weg gebruik wordt gemaakt en het gebruik uitsluitend dient voor de verplaatsing naar een andere werkplek;
 
-- d. een motorrijtuig dat is ingericht voor het vervoer van paarden: indien het motorrijtuig uitsluitend niet-beroepsmatig ten behoeve van de paardensport wordt gebruikt, de houder van het motorrijtuig een verklaring overlegt waaruit dit blijkt en met het motorrijtuig niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover belasting wordt betaald gebruik van de weg wordt gemaakt.
+- d. een motorrijtuig dat is ingericht voor het vervoer van paarden: indien het motorrijtuig uitsluitend niet-beroepsmatig ten behoeve van de paardensport wordt gebruikt, de houder van het motorrijtuig een verklaring overlegt waaruit dit blijkt en met het motorrijtuig niet meer dan zestig dagen gedurende iedere opeenvolgende periode van vier aaneengesloten tijdvakken na het eerste tijdvak waarop [artikel 30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30) van toepassing is, dan wel, in het geval een kortere vrijstellingsperiode van toepassing is, dan wel, in het geval een kortere vrijstellingsperiode van toepassing is, niet meer dan vijftien dagen per tijdvak van de weg gebruik wordt gemaakt.
 
 2. De toepassing van [artikel 30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30) vindt plaats op verzoek.
 
-3. Het verzoek wordt bij de inspecteur ingediend voor de aanvang van de vier aaneengesloten tijdvakken waarover de belasting wordt betaald.
+3. Het verzoek wordt bij de inspecteur ingediend voor de aanvang van het eerste tijdvak waarover om de toepassing van [artikel 30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30) wordt verzocht.
 
 4. Bij het verzoek worden bescheiden overgelegd waaruit blijkt dat wordt voldaan aan de in het eerste lid gestelde voorwaarden, alsmede een opgave van het kenteken van het motorrijtuig.
 
@@ -150,13 +150,13 @@ Met motorrijwielen als bedoeld in [artikel 2, onderdeel **d**](https://wetten.ov
 
 6. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip waarop de vier aaneengesloten tijdvakken aanvangen waarop het verzoek betrekking heeft.
+Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip waarop het eerste tijdvak aanvangt waarop het verzoek betrekking heeft.
 
 7. Indien aan de in het eerste lid bedoelde voorwaarden niet langer wordt voldaan, trekt de inspecteur de beschikking in. De intrekking geschiedt bij voor bezwaar vatbare beschikking.
 
 8. Indien degene aan wie de beschikking is verleend niet voldoet aan de verplichting bedoeld in het vijfde lid, wordt de beschikking geacht te zijn vervallen op het tijdstip waarop aan de in het eerste lid gestelde voorwaarden niet meer wordt voldaan.
 
-9. De houder van een motorrijtuig waarop de voorwaarde van het gebruik van de weg op niet meer dan zestig dagen gedurende de vier aaneengesloten tijdvakken waarover de belasting wordt betaald, van toepassing is, is verplicht aantekening te houden van de dagen waarop gebruik van de weg wordt gemaakt, alsmede van het aantal kilometers dat op de desbetreffende dagen is gereden.
+9. De houder van een motorrijtuig waarop de voorwaarde van het gebruik van de weg op niet meer dan zestig dagen per periode van vier aaneengesloten tijdvakken, dan wel, in het geval een kortere vrijstellingsperiode van toepassing is, niet meer dan vijftien dagen per tijdvak, van toepassing is, is verplicht aantekening te houden van de dagen waarop gebruik van de weg wordt gemaakt, alsmede van het aantal kilometers dat op de desbetreffende dagen is gereden.
 
 ##### Artikel 7
 
@@ -356,13 +356,13 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 - b. het motorrijtuig blijkens een kilometerregistratie voor ten minste 50% zakelijk buiten Nederland wordt gebruikt; het zakelijk gebruik buiten Nederland wordt per kalenderjaar bepaald, waarbij de afstand die wordt overbrugd van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd buiten beschouwing blijft; en
 
-- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2008-10-01&g=2008-10-01).
+- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2009-08-27&g=2009-08-27).
 
 ##### Artikel 27
 
-1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2008-10-01&g=2008-10-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=13&z=2008-10-01&g=2008-10-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=14&z=2008-10-01&g=2008-10-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=17&z=2008-10-01&g=2008-10-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=19&z=2008-10-01&g=2008-10-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=21&z=2008-10-01&g=2008-10-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=23&z=2008-10-01&g=2008-10-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2008-10-01&g=2008-10-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2008-10-01&g=2008-10-01), worden op verzoek verleend. De vrijstelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=12&z=2008-10-01&g=2008-10-01), wordt voor vrachtauto’s en autobussen op verzoek verleend.
+1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2009-08-27&g=2009-08-27), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=13&z=2009-08-27&g=2009-08-27), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=14&z=2009-08-27&g=2009-08-27), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=17&z=2009-08-27&g=2009-08-27), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=19&z=2009-08-27&g=2009-08-27), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=21&z=2009-08-27&g=2009-08-27), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=23&z=2009-08-27&g=2009-08-27), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2009-08-27&g=2009-08-27) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2009-08-27&g=2009-08-27), worden op verzoek verleend. De vrijstelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=12&z=2009-08-27&g=2009-08-27), wordt voor vrachtauto’s en autobussen op verzoek verleend.
 
-2. Ingeval voor een motorrijtuig een verzoek wordt ingediend om vrijstelling van de belasting van personenauto’s en motorrijwielen ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2) of [artikel 3 van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3), geldt dit verzoek mede als verzoek om toepassing van de vrijstelling ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2008-10-01&g=2008-10-01) onderscheidenlijk [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2008-10-01&g=2008-10-01) van dit besluit.
+2. Ingeval voor een motorrijtuig een verzoek wordt ingediend om vrijstelling van de belasting van personenauto’s en motorrijwielen ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2) of [artikel 3 van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3), geldt dit verzoek mede als verzoek om toepassing van de vrijstelling ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2009-08-27&g=2009-08-27) onderscheidenlijk [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2009-08-27&g=2009-08-27) van dit besluit.
 
 3. Het verzoek wordt bij de inspecteur ingediend vóór de aanvang van het tijdvak, onderscheidenlijk van het gebruik van de weg in Nederland met het motorrijtuig.
 
@@ -398,17 +398,17 @@ Vrijstelling van belasting voor motorrijtuigen waarvan de houder niet in Nederla
 
 ##### Artikel 30
 
-1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2008-10-01&g=2008-10-01) dat:
+1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2009-08-27&g=2009-08-27) dat:
 
 - a. indien de vrijstelling onder de voorwaarde van een vergunning van de inspecteur is verleend, het verzoek om vrijstelling wordt ingediend vóór de datum waarop de vergunning afloopt, dan wel, indien de vergunning voor onbepaalde tijd is afgegeven, vóór 1 juli 1995;
 
-- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2008-10-01&g=2008-10-01), worden overgelegd vóór 1 juli 1995.
+- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2009-08-27&g=2009-08-27), worden overgelegd vóór 1 juli 1995.
 
 2. In de in het eerste lid genoemde gevallen wordt de vrijstelling geacht te zijn verleend op grond van de wet tot de in het eerste lid genoemde tijdstippen.
 
 ##### Artikel 31
 
-1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2008-10-01&g=2008-10-01).
+1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2009-08-27&g=2009-08-27).
 
 2. Het Besluit tot vrijstelling van motorrijtuigenbelasting voor buitenlanders wordt ingetrokken.
 
