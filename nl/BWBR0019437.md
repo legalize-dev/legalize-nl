@@ -4,7 +4,7 @@ identifier: "BWBR0019437"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-05"
-last_updated: "2009-01-01"
+last_updated: "2009-08-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019437"
 soort: "ministeriele-regeling"
@@ -60,49 +60,53 @@ In deze regeling wordt verstaan onder:
 
 - g. [richtlijn (EEG) 66/402](31966L0402): [richtlijn nr. 66/402/EEG](31966L0402) van de Raad van de Europese Gemeenschappen van 14 juni 1966 betreffende het in de handel brengen van zaaigranen (PbEG L 125);
 
-- h. [richtlijn (EEG) 92/33](31992L0033): [richtlijn nr. 92/33/EEG](31992L0033) van de Raad van de Europese Gemeenschappen van 28 april 1992 betreffende het in de handel brengen van teeltmateriaal en plantgoed van groentegewassen, met uitzondering van zaad (PbEG L 157);
+- h. [richtlijn (EEG) 92/34](31992L0034): [richtlijn nr. 92/34/EEG](31992L0034) van de Raad van de Europese Gemeenschappen van 28 april 1992 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEG L 157);
 
-- i. [richtlijn (EEG) 92/34](31992L0034): [richtlijn nr. 92/34/EEG](31992L0034) van de Raad van de Europese Gemeenschappen van 28 april 1992 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEG L 157);
+- i. [richtlijn (EEG) 93/17](31993L0017): [richtlijn nr. 93/17/EEG](31993L0017) van de Commissie van de Europese Gemeenschappen van 30 maart 1993 tot vaststelling van communautaire klassen voor basispootgoed van aardappelen en van de daarvoor geldende eisen en aanduidingen (PbEG L 106);
 
-- j. [richtlijn (EEG) 93/17](31993L0017): [richtlijn nr. 93/17/EEG](31993L0017) van de Commissie van de Europese Gemeenschappen van 30 maart 1993 tot vaststelling van communautaire klassen voor basispootgoed van aardappelen en van de daarvoor geldende eisen en aanduidingen (PbEG L 106);
+- j. [richtlijn (EEG) 93/48](31993L0048): [richtlijn nr. 93/48/EEG](31993L0048) van de Commissie van de Europese Gemeenschappen van 23 juni 1993 tot vaststelling van het schema met de voorwaarden waaraan fruitgewassen die voor de fruitteelt worden gebruikt en teeltmateriaal daarvan overeenkomstig [richtlijn (EEG) 92/34](31992L0034) moeten voldoen (PbEG L 250);
 
-- k. [richtlijn (EEG) 93/48](31993L0048): [richtlijn nr. 93/48/EEG](31993L0048) van de Commissie van de Europese Gemeenschappen van 23 juni 1993 tot vaststelling van het schema met de voorwaarden waaraan fruitgewassen die voor de fruitteelt worden gebruikt en teeltmateriaal daarvan overeenkomstig [richtlijn (EEG) 92/34](31992L0034) moeten voldoen (PbEG L 250);
+- k. [richtlijn (EEG) 93/61](31993L0061): [richtlijn nr. 93/61/EEG](31993L0061) van de Commissie van de Europese Gemeenschappen van 2 juli 1993 tot vaststelling van de schema's met de eisen waaraan teeltmateriaal en plantgoed van groentegewassen, met uitzondering van zaad, overeenkomstig artikel 4 van [richtlijn (EEG) 92/33](31992L0033) moeten voldoen (PbEG L 250);
 
-- l. [richtlijn (EEG) 93/61](31993L0061): [richtlijn nr. 93/61/EEG](31993L0061) van de Commissie van de Europese Gemeenschappen van 2 juli 1993 tot vaststelling van de schema's met de eisen waaraan teeltmateriaal en plantgoed van groentegewassen, met uitzondering van zaad, overeenkomstig artikel 4 van [richtlijn (EEG) 92/33](31992L0033) moeten voldoen (PbEG L 250);
+- l. [richtlijn (EEG) 93/62](31993L0062): [richtlijn nr. 93/62/EEG](31993L0062) van de Commissie van de Europese Gemeenschappen van 5 juli 1993 tot vaststelling van de uitvoeringsbepalingen met betrekking tot het toezicht op en de controle van leveranciers en bedrijven overeenkomstig [Richtlijn 92/33/EEG](31992L0033) van de Raad betreffende het in de handel brengen van teeltmateriaal en plantgoed van groentegewassen, met uitzondering van zaad (PbEG L 250);
 
-- m. [richtlijn (EEG) 93/62](31993L0062): [richtlijn nr. 93/62/EEG](31993L0062) van de Commissie van de Europese Gemeenschappen van 5 juli 1993 tot vaststelling van de uitvoeringsbepalingen met betrekking tot het toezicht op en de controle van leveranciers en bedrijven overeenkomstig [Richtlijn 92/33/EEG](31992L0033) van de Raad betreffende het in de handel brengen van teeltmateriaal en plantgoed van groentegewassen, met uitzondering van zaad (PbEG L 250);
+- m. [richtlijn (EEG) 93/64](31993L0064): [richtlijn nr. 93/64/EEG](31993L0064) van de Commissie van de Europese Gemeenschappen van 5 juli 1993 tot vaststelling van de uitvoeringsbepalingen met betrekking tot het toezicht op en de controle van leveranciers en bedrijven overeenkomstig [Richtlijn 92/34/EEG](31992L0034) van de Raad betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEG L 250);
 
-- n. [richtlijn (EEG) 93/64](31993L0064): [richtlijn nr. 93/64/EEG](31993L0064) van de Commissie van de Europese Gemeenschappen van 5 juli 1993 tot vaststelling van de uitvoeringsbepalingen met betrekking tot het toezicht op en de controle van leveranciers en bedrijven overeenkomstig [Richtlijn 92/34/EEG](31992L0034) van de Raad betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEG L 250);
+- n. [richtlijn (EEG) 93/79](31993L0079): [richtlijn nr. 93/79/EEG](31993L0079) van de Commissie van de Europese Gemeenschappen van 21 september 1993 tot vaststelling van aanvullende uitvoeringsbepalingen met betrekking tot de door leveranciers op grond van [richtlijn (EEG) 92/34](31992L0034) bij te houden lijsten van fruitgewassen en teeltmateriaal daarvan (PbEG L 256);
 
-- o. [richtlijn (EEG) 93/79](31993L0079): [richtlijn nr. 93/79/EEG](31993L0079) van de Commissie van de Europese Gemeenschappen van 21 september 1993 tot vaststelling van aanvullende uitvoeringsbepalingen met betrekking tot de door leveranciers op grond van [richtlijn (EEG) 92/34](31992L0034) bij te houden lijsten van fruitgewassen en teeltmateriaal daarvan (PbEG L 256);
+- o. [richtlijn (EG) 98/56](31998L0056): [richtlijn nr. 98/56/EG](31998L0056) van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226);
 
-- p. [richtlijn (EG) 98/56](31998L0056): [richtlijn nr. 98/56/EG](31998L0056) van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226);
+- p. [richtlijn (EG) 99/66](31999L0066): [richtlijn nr. 1999/66/EG](31999L0066) van de Commissie van de Europese Gemeenschappen van 28 juni 1999 houdende voorschriften voor het overeenkomstig [richtlijn (EG) 98/56](31998L0056) door de leverancier op te maken etiket of ander document (PbEG L 164);
 
-- q. [richtlijn (EG) 99/66](31999L0066): [richtlijn nr. 1999/66/EG](31999L0066) van de Commissie van de Europese Gemeenschappen van 28 juni 1999 houdende voorschriften voor het overeenkomstig [richtlijn (EG) 98/56](31998L0056) door de leverancier op te maken etiket of ander document (PbEG L 164);
+- q. [richtlijn (EG) 99/68](31999L0068): [richtlijn nr. 1999/68/EG](31999L0068) van de Commissie van de Europese Gemeenschappen van 28 juni 1999 tot vaststelling van aanvullende bepalingen met betrekking tot de op grond van [richtlijn (EG) 98/56](31998L0056) door de leveranciers bij te houden rassenlijsten van siergewassen (PbEG L 172);
 
-- r. [richtlijn (EG) 99/68](31999L0068): [richtlijn nr. 1999/68/EG](31999L0068) van de Commissie van de Europese Gemeenschappen van 28 juni 1999 tot vaststelling van aanvullende bepalingen met betrekking tot de op grond van [richtlijn (EG) 98/56](31998L0056) door de leveranciers bij te houden rassenlijsten van siergewassen (PbEG L 172);
+- r. [richtlijn (EG) 99/105](31999L0105): [richtlijn nr. 1999/105/EG](31999L0105) van de Raad van de Europese Unie betreffende het in de handel brengen van bosbouwkundig teeltmateriaal (PbEG 2000 L 11);
 
-- s. [richtlijn (EG) 99/105](31999L0105): [richtlijn nr. 1999/105/EG](31999L0105) van de Raad van de Europese Unie betreffende het in de handel brengen van bosbouwkundig teeltmateriaal (PbEG 2000 L 11);
+- s. [richtlijn (EG) 2000/29](32000L0029): [richtlijn nr. 2000/29/EG](32000L0029) van de Raad van de Europese Unie van 8 mei 2000 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen (PbEG L 169);
 
-- t. [richtlijn (EG) 2000/29](32000L0029): [richtlijn nr. 2000/29/EG](32000L0029) van de Raad van de Europese Unie van 8 mei 2000 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen (PbEG L 169);
+- t. [richtlijn (EG) 2001/18](32001L0018): [richtlijn nr. 2001/18/EG](32001L0018) van het Europees Parlement en de Raad van de Europese Unie van 12 maart 2001 inzake de doelbewuste introductie van genetisch gemodificeerde organismen in het milieu en tot intrekking van [Richtlijn 90/220/EEG](31990L0220) van de Raad (PbEG L 106);
 
-- u. [richtlijn (EG) 2001/18](32001L0018): [richtlijn nr. 2001/18/EG](32001L0018) van het Europees Parlement en de Raad van de Europese Unie van 12 maart 2001 inzake de doelbewuste introductie van genetisch gemodificeerde organismen in het milieu en tot intrekking van [Richtlijn 90/220/EEG](31990L0220) van de Raad (PbEG L 106);
+- u. [richtlijn (EG) 2002/53](32002L0053): [richtlijn nr. 2002/53/EG](32002L0053) van de Raad van de Europese Unie 13 juni 2002 betreffende de gemeenschappelijke rassenlijst van landbouwgewassen (PbEG L 193);
 
-- v. [richtlijn (EG) 2002/53](32002L0053): [richtlijn nr. 2002/53/EG](32002L0053) van de Raad van de Europese Unie 13 juni 2002 betreffende de gemeenschappelijke rassenlijst van landbouwgewassen (PbEG L 193);
+- v. [richtlijn (EG) 2002/54](32002L0054): [richtlijn nr. 2002/54/EG](32002L0054) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van bietenzaad (PbEG L 193);
 
-- w. [richtlijn (EG) 2002/54](32002L0054): [richtlijn nr. 2002/54/EG](32002L0054) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van bietenzaad (PbEG L 193);
+- w. [richtlijn (EG) 2002/55](32002L0055): [richtlijn nr. 2002/55/EG](32002L0055) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van groentezaad (PbEG L 193);
 
-- x. [richtlijn (EG) 2002/55](32002L0055): [richtlijn nr. 2002/55/EG](32002L0055) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van groentezaad (PbEG L 193);
+- x. [richtlijn (EG) 2002/56](32002L0056): [richtlijn (EG) 2002/56](32002L0056) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van pootaardappelen (PbEG L 193);
 
-- y. [richtlijn (EG) 2002/56](32002L0056): [richtlijn (EG) 2002/56](32002L0056) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van pootaardappelen (PbEG L 193);
+- y. [richtlijn (EG) 2002/57](32002L0057): [richtlijn nr. 2002/57/EG](32002L0057) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van zaaizaad van oliehoudende planten en vezelgewassen (PbEG L 193);
 
-- z. [richtlijn (EG) 2002/57](32002L0057): [richtlijn nr. 2002/57/EG](32002L0057) van de Raad van de Europese Unie van 13 juni 2002 betreffende het in de handel brengen van zaaizaad van oliehoudende planten en vezelgewassen (PbEG L 193);
+- z. richtlijn (EG) 2008/62: richtlijn (EG) nr. 2008/62 van de Commissie van 20 juni 2008 tot vaststelling van bepaalde afwijkingen voor de toelating van landrassen en rassen in de landbouw die zich op natuurlijke wijze hebben aangepast aan de lokale en regionale omstandigheden en die door genetische erosie worden bedreigd, en voor het in de handel brengen van zaaizaad en pootaardappelen van die landrassen en rassen (PbEU L 162);
 
-- aa. [verordening (EG) 1829/2003](32003R1829): [Verordening (EG) nr. 1829/2003](32003R1829) van het Europees Parlement en de Raad van de Europese Unie van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (PbEG L 268);
+- aa. richtlijn (EG) 2008/72: richtlijn (EG) nr. 2008/72 van de Raad van 15 juli 2008 betreffende het in de handel brengen van teeltmateriaal en plantgoed van groentegewassen, met uitzondering van zaad (PbEU L 205);
 
-- bb. derde landen: landen buiten de Europese Unie;
+- bb. [verordening (EG) 1829/2003](32003R1829): [Verordening (EG) nr. 1829/2003](32003R1829) van het Europees Parlement en de Raad van de Europese Unie van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (PbEG L 268);
 
-- cc. hybride: product van een bewuste, voor elke zaadproductie herhaalde kruising tussen twee of meer ouderlijnen die hiertoe afzonderlijk in stand gehouden worden.
+- cc. derde landen: landen buiten de Europese Unie;
+
+- dd. hybride: product van een bewuste, voor elke zaadproductie herhaalde kruising tussen twee of meer ouderlijnen die hiertoe afzonderlijk in stand gehouden worden;
+
+- ee. instandhoudingsras: landras of ras dat zich op natuurlijk wijze heeft aangepast aan de lokale en regionale omstandigheden en dat door genetische erosie wordt bedreigd.
 
 ### Hoofdstuk 2. Registratie en erkenning van leveranciers
 
@@ -120,7 +124,7 @@ Als gewassen, bedoeld in [artikel 42 van de wet](https://wetten.overheid.nl/jci1
 
 ##### Artikel 3
 
-Voor leveranciers van groenteplanten en leveranciers van teeltmateriaal van fruitgewassen, siergewassen en bosbouwgewassen zijn de eisen inzake registratie, bedoeld in [artikel 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=43), vastgelegd in respectievelijk de [artikelen 81](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=3&artikel=81&z=2009-01-01&g=2009-01-01), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=4&artikel=85&z=2009-01-01&g=2009-01-01), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=5&artikel=92&z=2009-01-01&g=2009-01-01) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=6&artikel=97&z=2009-01-01&g=2009-01-01).
+Voor leveranciers van groenteplanten en leveranciers van teeltmateriaal van fruitgewassen, siergewassen en bosbouwgewassen zijn de eisen inzake registratie, bedoeld in [artikel 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=43), vastgelegd in respectievelijk de [artikelen 81](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=3&artikel=81&z=2009-08-28&g=2009-08-28), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=4&artikel=85&z=2009-08-28&g=2009-08-28), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=5&artikel=92&z=2009-08-28&g=2009-08-28) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=6&artikel=97&z=2009-08-28&g=2009-08-28).
 
 ##### Artikel 4
 
@@ -210,7 +214,7 @@ Een registratie kan op verzoek van de leverancier beëindigd worden. Het verzoek
 
 ##### Artikel 15
 
-De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-01-01&g=2009-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=5&z=2009-01-01&g=2009-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2009-01-01&g=2009-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=8&z=2009-01-01&g=2009-01-01) zijn van overeenkomstige toepassing.
+De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=4&z=2009-08-28&g=2009-08-28), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=5&z=2009-08-28&g=2009-08-28), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2009-08-28&g=2009-08-28) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=8&z=2009-08-28&g=2009-08-28) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Onderzoek, keuring en controle
 
@@ -240,7 +244,7 @@ Bij het onderzoek, de keuring en de controle van teeltmateriaal van oliehoudende
 
 ##### Artikel 21
 
-Bij het onderzoek, de keuring en de controle van groenteplanten neemt Naktuinbouw de artikelen 5, 6, 10, derde lid, 17, 19 en 20, eerste lid van [richtlijn (EEG) 92/33](31992L0033) en de artikelen 2, 3, 4 en 5 van [richtlijn (EEG) 93/62](31993L0062) in acht.
+Bij het onderzoek, de keuring en de controle van groenteplanten neemt Naktuinbouw de artikelen 5, 6, 10, derde lid, 17, 19 en 20, eerste lid van richtlijn (EG) 2008/72 en de artikelen 2, 3, 4 en 5 van [richtlijn (EEG) 93/62](31993L0062) in acht.
 
 ##### Artikel 22
 
@@ -272,7 +276,7 @@ Bij het onderzoek, de keuring en de controle van groentezaden neemt Naktuinbouw 
 
 ##### Artikel 27
 
-1. Teeltmateriaal wordt slechts in de handel gebracht in voldoende homogene partijen en in verpakkingen die voldoen aan de voorwaarden, genoemd in de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=2&artikel=38&z=2009-01-01&g=2009-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=3&artikel=44&z=2009-01-01&g=2009-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=3&artikel=45&z=2009-01-01&g=2009-01-01), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=5&artikel=55&z=2009-01-01&g=2009-01-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=68&z=2009-01-01&g=2009-01-01).
+1. Teeltmateriaal wordt slechts in de handel gebracht in voldoende homogene partijen en in verpakkingen die voldoen aan de voorwaarden, genoemd in de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=2&artikel=38&z=2009-08-28&g=2009-08-28), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=3&artikel=44&z=2009-08-28&g=2009-08-28), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=4&artikel=49&z=2009-08-28&g=2009-08-28), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=5&artikel=55&z=2009-08-28&g=2009-08-28), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=68&z=2009-08-28&g=2009-08-28) en [69g](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=7&artikel=69g&z=2009-08-28&g=2009-08-28).
 
 2. Verpakkingen van teeltmateriaal worden gesloten door NAK of door de leverancier onder toezicht van NAK.
 
@@ -412,7 +416,7 @@ Het maximumvochtgehalte van teeltmateriaal van peulvruchten is 19 procent.
 
 5. NAK kan onder de voorwaarden, genoemd in artikel 10 quinquies van [richtlijn (EEG) 66/401](31966L0401) de voorschriften inzake het sluitingssysteem en de etikettering van de verpakking vereenvoudigen voor de verkoop van gecertificeerd zaad in bulk aan de eindverbruiker.
 
-6. [Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=1&artikel=27&z=2009-01-01&g=2009-01-01), is niet van toepassing op verpakkingen van mengsels van teeltmateriaal van groenvoedergewassen die niet zijn bestemd voor voederdoeleinden, als bedoeld in artikel 2, eerste lid, onderdeel F, van [richtlijn (EEG) 66/401](31966L0401). De verpakkingen worden gesloten met een etiket van de leverancier.
+6. [Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=1&artikel=27&z=2009-08-28&g=2009-08-28), is niet van toepassing op verpakkingen van mengsels van teeltmateriaal van groenvoedergewassen die niet zijn bestemd voor voederdoeleinden, als bedoeld in artikel 2, eerste lid, onderdeel F, van [richtlijn (EEG) 66/401](31966L0401). De verpakkingen worden gesloten met een etiket van de leverancier.
 
 ##### Artikel 39
 
@@ -624,13 +628,13 @@ Pootaardappelen worden niet in de handel gebracht indien zij zijn behandeld met 
 
 2. In geval van microvermeerdering, bedoeld in het eerste lid, wordt gebruik gemaakt van naar het oordeel van NAK voor microvermeerdering geschikte procedures en faciliteiten.
 
-3. [Artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=65&z=2009-01-01&g=2009-01-01) is niet van toepassing op pootaardappelen die met microvermeerdering zijn vermeerderd.
+3. [Artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=65&z=2009-08-28&g=2009-08-28) is niet van toepassing op pootaardappelen die met microvermeerdering zijn vermeerderd.
 
 ##### Artikel 67
 
 1. Pootaardappelen en andere aardappelen worden in alle productiestadia gescheiden gehouden van andere aardappelen.
 
-2. Het samenvoegen van de stammen, genoemd in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=59&z=2009-01-01&g=2009-01-01), uitgezonderd uitgangsstammen, is toegestaan onder de voorwaarde dat de bij elkaar gevoegde stammen van hetzelfde uitgangsjaar zijn. Bij éénjarige stammen bedraagt het aantal samen te voegen stammen niet meer dan 20.
+2. Het samenvoegen van de stammen, genoemd in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=59&z=2009-08-28&g=2009-08-28), uitgezonderd uitgangsstammen, is toegestaan onder de voorwaarde dat de bij elkaar gevoegde stammen van hetzelfde uitgangsjaar zijn. Bij éénjarige stammen bedraagt het aantal samen te voegen stammen niet meer dan 20.
 
 3. Het samenvoegen van partijen pootgoed is toegestaan, onder de voorwaarden dat de partijen van dezelfde leverancier afkomstig zijn en dat de partij een uniform uiterlijk heeft.
 
@@ -768,11 +772,11 @@ In het geval dat meer dan 2 kilogram groentezaden vanuit een derde land in de ha
 
 13. In het geval van genetisch gemodificeerd materiaal wordt alleen toestemming voor het in de handel brengen van teeltmateriaal voor beproevingsdoeleinden verleend indien het teeltmateriaal is toegelaten overeenkomstig [richtlijn (EG) 2001/18](32001L0018) of [verordening (EG) 1829/2003](32003R1829).
 
-#### § 3. Groenteplanten
+#### § 2. Groentezaden
 
 ##### Artikel 81
 
-De leverancier van groenteplanten voldoet aan de vereisten, genoemd in artikel 5 van [richtlijn (EEG) 92/33](31992L0033) en de artikelen 3, 4 en 5 van [richtlijn (EEG) 93/62](31993L0062).
+De leverancier van groenteplanten voldoet aan de vereisten, genoemd in artikel 5 van richtlijn (EG) 2008/72 en de artikelen 3, 4 en 5 van [richtlijn (EEG) 93/62](31993L0062).
 
 ##### Artikel 82
 
@@ -786,7 +790,7 @@ Groenteplanten voldoen aan de vereisten, genoemd in de artikelen 2, 3, 4 en 5 va
 
 ##### Artikel 84
 
-1. Onverminderd [artikel 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=3&artikel=83&z=2009-01-01&g=2009-01-01), worden groenteplanten slechts in voldoende homogene partijen in de handel gebracht nadat is vastgesteld dat zij voldoen aan de bepalingen van deze regeling en indien zij vergezeld gaan van een document dat door de leverancier is opgemaakt. Indien op dit document een officiële verklaring voorkomt, wordt deze duidelijk gescheiden van de rest van de inhoud van het document.
+1. Onverminderd [artikel 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=3&artikel=83&z=2009-08-28&g=2009-08-28), worden groenteplanten slechts in voldoende homogene partijen in de handel gebracht nadat is vastgesteld dat zij voldoen aan de bepalingen van deze regeling en indien zij vergezeld gaan van een document dat door de leverancier is opgemaakt. Indien op dit document een officiële verklaring voorkomt, wordt deze duidelijk gescheiden van de rest van de inhoud van het document.
 
 2. Het in het eerste lid bedoelde document voldoet aan de vereisten, genoemd in artikel 6 van [richtlijn (EEG) 93/61](31993L0061).
 
@@ -1036,7 +1040,7 @@ De leverancier is in verzuim indien hij niet binnen de voorgeschreven termijn he
 
 - b. de ingangsdatum van de wettelijke rente.
 
-#### § 2. Aanpassing tarieven
+#### § 1. Oplegging en inning
 
 ##### Artikel 116
 
@@ -1050,13 +1054,13 @@ De bepalingen van deze regeling zijn niet van toepassing op teeltmateriaal waarb
 
 ##### Artikel 118
 
-Een wijziging van de richtlijnen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=1&artikel=1&z=2009-01-01&g=2009-01-01), gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+Een wijziging van de richtlijnen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=1&artikel=1&z=2009-08-28&g=2009-08-28), gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 119
 
-1. Leveranciers die op grond van het [Aansluitingsbesluit N.A.K.](https://wetten.overheid.nl/jci1.3:c:BWBR0002567) zijn aangesloten bij NAK, worden ingeschreven in het register bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2009-01-01&g=2009-01-01). Leveranciers die naar het oordeel van NAK tevens voldoen aan de vereisten, genoemd in de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=2&artikel=9&z=2009-01-01&g=2009-01-01) inzake erkenning, zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2009-01-01&g=2009-01-01).
+1. Leveranciers die op grond van het [Aansluitingsbesluit N.A.K.](https://wetten.overheid.nl/jci1.3:c:BWBR0002567) zijn aangesloten bij NAK, worden ingeschreven in het register bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2009-08-28&g=2009-08-28). Leveranciers die naar het oordeel van NAK tevens voldoen aan de vereisten, genoemd in de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=2&artikel=9&z=2009-08-28&g=2009-08-28) inzake erkenning, zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2009-08-28&g=2009-08-28).
 
-2. Leveranciers die op grond van het [Aansluitingsbesluit Naktuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0002566) zijn aangesloten bij Naktuinbouw en die naar het oordeel van Naktuinbouw voldoen aan de vereisten, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=2&z=2009-01-01&g=2009-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=3&z=2009-01-01&g=2009-01-01), zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2009-01-01&g=2009-01-01). Leveranciers die naar het oordeel van Naktuinbouw tevens voldoen aan de vereisten, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=2&artikel=13&z=2009-01-01&g=2009-01-01) inzake erkenning, zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2009-01-01&g=2009-01-01).
+2. Leveranciers die op grond van het [Aansluitingsbesluit Naktuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0002566) zijn aangesloten bij Naktuinbouw en die naar het oordeel van Naktuinbouw voldoen aan de vereisten, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=2&z=2009-08-28&g=2009-08-28) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=3&z=2009-08-28&g=2009-08-28), zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2009-08-28&g=2009-08-28). Leveranciers die naar het oordeel van Naktuinbouw tevens voldoen aan de vereisten, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=2&artikel=13&z=2009-08-28&g=2009-08-28) inzake erkenning, zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2009-08-28&g=2009-08-28).
 
 ##### Artikel 120
 
@@ -1096,7 +1100,7 @@ Indien op grond van de door een leverancier van teeltmateriaal gevolgde werkwijz
 
 ##### Artikel 25a
 
-[Artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=3&paragraaf=1&artikel=20a&z=2009-01-01&g=2009-01-01) is van toepassing, met dien verstande dat NAK wordt gelezen als Naktuinbouw.
+[Artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=3&paragraaf=1&artikel=20a&z=2009-08-28&g=2009-08-28) is van toepassing, met dien verstande dat NAK wordt gelezen als Naktuinbouw.
 
 ### Hoofdstuk 4. het in de handel brengen van teeltmateriaal van Landbouwgewassen
 
@@ -1122,13 +1126,67 @@ Indien op grond van de door een leverancier van teeltmateriaal gevolgde werkwijz
 
 #### § 4. Fruitgewassen
 
-#### § 5. Siergewassen
+#### § 4. Fruitgewassen
 
 ### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bosbouwgewassen
 
 ### Hoofdstuk 7. Tarieven
 
 #### § 1. Oplegging en inning
+
+#### § 2. Aanpassing tarieven
+
+### Hoofdstuk 8. Overige bepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 7. Het in de handel brengen van teeltmateriaal van instandhoudingsrassen van landbouwgewassen
+
+##### Artikel 69a
+
+1. Teeltmateriaal van instandhoudingsrassen wordt slechts in de handel gebracht indien het voldoet aan de vereisten van de artikelen 10 en 13 van richtlijn (EG) 2008/62.
+
+2. De minister kan overeenkomstig artikel 13, tweede lid, van richtlijn (EG) 2008/62 gebieden buiten het gebied van oorsprong goedkeuren waarin teeltmateriaal van instandhoudingsrassen kan worden verhandeld.
+
+##### Artikel 69b
+
+Teeltmateriaal van instandhoudingsrassen wordt uitsluitend geproduceerd in het gebied van oorsprong, bedoeld in [artikel 12a, vijfde lid, van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=12a).
+
+##### Artikel 69c
+
+1. De leverancier van teeltmateriaal van een instandhoudingsras gaat overeenkomstig artikel 12 van richtlijn (EG) 2008/62 na of het teeltmateriaal van instandhoudingsrassen voldoet aan de certificeringsvoorschriften van artikel 10, derde lid, van richtlijn (EG) 2008/62.
+
+2. Met betrekking tot teeltmateriaal van instandhoudingsrassen van pootaardappelen is artikel 10 van richtlijn (EG) 2002/56 niet van toepassing.
+
+##### Artikel 69d
+
+NAK kan jaarlijks de maximale hoeveelheid in de handel te brengen teeltmateriaal van instandhoudingsrassen vaststellen overeenkomstig artikel 14 van richtlijn (EG) 2008/62.
+
+##### Artikel 69e
+
+1. Jaarlijks melden leveranciers die teeltmateriaal van instandhoudingsrassen produceren voorafgaand aan het teeltseizoen de grootte en ligging van het gebied waarin zaad van instandhoudingsrassen wordt geteeld.
+
+2. Op basis van de verkregen gegevens kan NAK met toepassing van artikel 15, tweede lid, van richtlijn (EG) 2008/62 de hoeveelheid in het desbetreffende teeltseizoen in de handel te brengen teeltmateriaal, per leverancier maximeren.
+
+##### Artikel 69f
+
+Leveranciers melden bij NAK jaarlijks voor aanvang van het teeltseizoen de hoeveelheid in de handel gebracht zaaizaad van elk instandhoudingsras.
+
+##### Artikel 69g
+
+Verpakkingen van teeltmateriaal van instandhoudingsrassen voldoen aan de vereisten genoemd in de artikelen 17 en 18 van richtlijn (EG) 2008/62.
+
+### Hoofdstuk 5. Het in de handel brengen van teeltmateriaal van tuinbouwgewassen
+
+#### § 1. Algemene bepalingen
+
+#### § 3. Groenteplanten
+
+#### § 5. Siergewassen
+
+### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bosbouwgewassen
+
+### Hoofdstuk 7. Tarieven
 
 #### § 2. Aanpassing tarieven
 
