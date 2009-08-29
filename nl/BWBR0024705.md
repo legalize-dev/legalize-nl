@@ -4,7 +4,7 @@ identifier: "BWBR0024705"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2008-12-01"
+last_updated: "2009-08-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024705"
 soort: "wet"
@@ -59,13 +59,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - da. **ouderengezondheidszorg:** de publieke gezondheidszorg ten behoeve van personen boven de vijfenzestig jaar.
 
-- e. **groep A:** pokken, polio, severe acute respiratory syndrome (SARS);
+- e. **groep A:** Nieuwe Influenza A (H1N1), pokken, polio, severe acute respiratory syndrome (SARS);
 
 - f. **groep B1:** humane infectie veroorzaakt door een aviair influenzavirus, difterie, pest, rabies, tuberculose, virale hemorragische koorts;
 
 - g. **groep B2:** buiktyfus (typhoid fever), cholera, hepatitis A, B en C, kinkhoest, mazelen, paratyfus, rubella, shigellose, shiga toxine producerende escherichia (STEC)/enterohemorragische escherichia coli-infectie, invasieve groep A streptokokkeninfectie, voedselinfectie, voor zover vastgesteld bij twee of meer patiënten met een onderlinge relatie wijzend op voedsel als een bron;
 
-- h. **groep C:** de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=1&artikel=19&z=2008-12-01&g=2008-12-01) aangewezen infectieziekten;
+- h. **groep C:** de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=1&artikel=19&z=2009-08-29&g=2009-08-29) aangewezen infectieziekten;
 
 - i. **epidemie van een infectieziekte:** een in korte tijd sterke toename van het aantal nieuwe patiënten lijdend aan een infectieziekte behorend tot groep A, B1, B2 of C;
 
@@ -123,7 +123,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. het verwerven van, op epidemiologische analyse gebaseerd, inzicht in de gezondheidssituatie van de bevolking,
 
-- b. het elke vier jaar, voorafgaand aan de opstelling van de nota gemeentelijke gezondheidsbeleid, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=III&artikel=13&z=2008-12-01&g=2008-12-01), op landelijk gelijkvormige wijze verzamelen en analyseren van gegevens over deze gezondheidssituatie,
+- b. het elke vier jaar, voorafgaand aan de opstelling van de nota gemeentelijke gezondheidsbeleid, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=III&artikel=13&z=2009-08-29&g=2009-08-29), op landelijk gelijkvormige wijze verzamelen en analyseren van gegevens over deze gezondheidssituatie,
 
 - c. het bewaken van gezondheidsaspecten in bestuurlijke beslissingen,
 
@@ -183,23 +183,23 @@ Dit onderdeel is nog niet inwerking getreden
 
 - b. het bestrijden van tuberculose en seksueel overdraagbare aandoeningen, inclusief bron- en contactopsporing,
 
-- c. bron- en contactopsporing bij meldingen als bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2008-12-01&g=2008-12-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2008-12-01&g=2008-12-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=26&z=2008-12-01&g=2008-12-01).
+- c. bron- en contactopsporing bij meldingen als bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2009-08-29&g=2009-08-29), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2009-08-29&g=2009-08-29) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=26&z=2009-08-29&g=2009-08-29).
 
-2. De burgemeester geeft leiding aan de bestrijding van een epidemie van een infectieziekte, alsook de directe voorbereiding daarop en draagt zorg voor de toepassing van de maatregelen, bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2008-12-01&g=2008-12-01).
+2. De burgemeester geeft leiding aan de bestrijding van een epidemie van een infectieziekte, alsook de directe voorbereiding daarop en draagt zorg voor de toepassing van de maatregelen, bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2009-08-29&g=2009-08-29).
 
 3. Bij algemene maatregel van bestuur kunnen de taken, bedoeld in het eerste en tweede lid, nader worden uitgewerkt.
 
 ##### Artikel 7
 
-1. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=6&z=2008-12-01&g=2008-12-01), geeft Onze Minister leiding aan de bestrijding van:
+1. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=6&z=2009-08-29&g=2009-08-29), geeft Onze Minister leiding aan de bestrijding van:
 
 - a. een epidemie van een infectieziekte behorend tot groep A, of een directe dreiging daarvan,
 
 - b. een epidemie van een infectieziekte behorend tot groep B1 of B2, indien de burgemeester van een gemeente die het aangaat daartoe verzoekt.
 
-2. Ter uitvoering van de taak, bedoeld in het eerste lid, kan Onze Minister de burgemeester opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2008-12-01&g=2008-12-01).
+2. Ter uitvoering van de taak, bedoeld in het eerste lid, kan Onze Minister de burgemeester opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2009-08-29&g=2009-08-29).
 
-3. Onze Minister kan de burgemeester opdragen om, ter uitvoering van de aanbevelingen, bedoeld in de artikelen 15 en 16 van de Internationale Gezondheidsregeling, toepassing te geven aan de maatregelen, bedoeld in de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=51&z=2008-12-01&g=2008-12-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2008-12-01&g=2008-12-01) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2008-12-01&g=2008-12-01), alsook om de maatregelen, bedoeld in [artikel 22a van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=22a), toe te passen.
+3. Onze Minister kan de burgemeester opdragen om, ter uitvoering van de aanbevelingen, bedoeld in de artikelen 15 en 16 van de Internationale Gezondheidsregeling, toepassing te geven aan de maatregelen, bedoeld in de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=51&z=2009-08-29&g=2009-08-29), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2009-08-29&g=2009-08-29) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2009-08-29&g=2009-08-29), alsook om de maatregelen, bedoeld in [artikel 22a van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=22a), toe te passen.
 
 4. Voordat toepassing wordt gegeven aan het eerste of derde lid, voert Onze Minister een bestuurlijk afstemmingsoverleg waarbij in ieder geval Onze Minister van Verkeer en Waterstaat en de gemeente of gemeenten die het aangaat, wordt of worden betrokken.
 
@@ -209,7 +209,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 8
 
-Ter uitvoering van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=6&z=2008-12-01&g=2008-12-01), past het college van burgemeester en wethouders de maatregelen toe die door Onze Minister worden opgedragen, indien het gaat om de voorbereiding op de bestrijding van:
+Ter uitvoering van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=6&z=2009-08-29&g=2009-08-29), past het college van burgemeester en wethouders de maatregelen toe die door Onze Minister worden opgedragen, indien het gaat om de voorbereiding op de bestrijding van:
 
 - a. infectieziekten behorende tot groep A, of
 
@@ -217,11 +217,11 @@ Ter uitvoering van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 9
 
-Onze Minister kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bepalen dat, in daarbij aangewezen gevallen, een andere burgemeester de taak, dan wel een bepaald deel van de taak, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=6&z=2008-12-01&g=2008-12-01), dient te vervullen.
+Onze Minister kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bepalen dat, in daarbij aangewezen gevallen, een andere burgemeester de taak, dan wel een bepaald deel van de taak, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=6&z=2009-08-29&g=2009-08-29), dient te vervullen.
 
 ##### Artikel 10
 
-Onverminderd [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=7&z=2008-12-01&g=2008-12-01), kan Onze Minister een aanwijzing geven aan de burgemeester, indien deze niet of niet naar behoren maatregelen treft ter bestrijding van een epidemie van een infectieziekte, terwijl er ernstig gevaar voor de volksgezondheid dreigt.
+Onverminderd [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=7&z=2009-08-29&g=2009-08-29), kan Onze Minister een aanwijzing geven aan de burgemeester, indien deze niet of niet naar behoren maatregelen treft ter bestrijding van een epidemie van een infectieziekte, terwijl er ernstig gevaar voor de volksgezondheid dreigt.
 
 ##### Artikel 11
 
@@ -239,7 +239,7 @@ Onze Minister draagt ervoor zorg dat aan de informatieverplichtingen, voortvloei
 
 1. Onze Minister stelt elke vier jaar een nota landelijke prioriteiten en een landelijk programma vast op het gebied van de publieke gezondheidszorg.
 
-2. De gemeenteraad stelt vóór 1 juli 2011 en vervolgens elke vier jaar een nota gemeentelijk gezondheidsbeleid vast, waarin de raad in ieder geval aangeeft hoe het college van burgemeester en wethouders uitvoering geeft aan de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=1&artikel=2&z=2008-12-01&g=2008-12-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2008-12-01&g=2008-12-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=6&z=2008-12-01&g=2008-12-01) genoemde taken, alsmede aan de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=IV&artikel=16&z=2008-12-01&g=2008-12-01) genoemde verplichting.
+2. De gemeenteraad stelt vóór 1 juli 2011 en vervolgens elke vier jaar een nota gemeentelijk gezondheidsbeleid vast, waarin de raad in ieder geval aangeeft hoe het college van burgemeester en wethouders uitvoering geeft aan de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=1&artikel=2&z=2009-08-29&g=2009-08-29), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2009-08-29&g=2009-08-29) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=6&z=2009-08-29&g=2009-08-29) genoemde taken, alsmede aan de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=IV&artikel=16&z=2009-08-29&g=2009-08-29) genoemde verplichting.
 
 ### Hoofdstuk IV. Gemeentelijke gezondheidsdiensten
 
@@ -247,7 +247,7 @@ Onze Minister draagt ervoor zorg dat aan de informatieverplichtingen, voortvloei
 
 1. Ter uitvoering van bij of krachtens deze wet opgedragen taken draagt het college van burgemeester en wethouders zorg voor de instelling en instandhouding van een gemeentelijke gezondheidsdienst.
 
-2. Met inachtneming van bij algemene maatregel van bestuur te stellen regels, staat het het college van burgemeester en wethouders vrij om de uitvoering van de taken of onderdelen van taken, bedoeld in [artikel 5, tweede lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2008-12-01&g=2008-12-01), over te laten of mede over te laten aan een ander dan de gemeentelijke gezondheidsdienst.
+2. Met inachtneming van bij algemene maatregel van bestuur te stellen regels, staat het het college van burgemeester en wethouders vrij om de uitvoering van de taken of onderdelen van taken, bedoeld in [artikel 5, tweede lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2009-08-29&g=2009-08-29), over te laten of mede over te laten aan een ander dan de gemeentelijke gezondheidsdienst.
 
 ##### Artikel 15
 
@@ -279,7 +279,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder gemeentelijke gezondhe
 
 ##### Artikel 18
 
-Voordat de burgemeester een maatregel als bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2008-12-01&g=2008-12-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2008-12-01&g=2008-12-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2008-12-01&g=2008-12-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2008-12-01&g=2008-12-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2008-12-01&g=2008-12-01) of [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2008-12-01&g=2008-12-01) neemt of intrekt, vraagt deze om advies aan de gemeentelijke gezondheidsdienst.
+Voordat de burgemeester een maatregel als bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2009-08-29&g=2009-08-29), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2009-08-29&g=2009-08-29), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2009-08-29&g=2009-08-29), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2009-08-29&g=2009-08-29), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2009-08-29&g=2009-08-29) of [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2009-08-29&g=2009-08-29) neemt of intrekt, vraagt deze om advies aan de gemeentelijke gezondheidsdienst.
 
 ##### Artikel 19
 
@@ -319,13 +319,13 @@ Bij algemene maatregel van bestuur worden de infectieziekten behorende tot groep
 
 ##### Artikel 23
 
-1. De arts doet de in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2008-12-01&g=2008-12-01) bedoelde meldingen aan de gemeentelijke gezondheidsdienst van de gemeente waarin deze zijn praktijk heeft.
+1. De arts doet de in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2009-08-29&g=2009-08-29) bedoelde meldingen aan de gemeentelijke gezondheidsdienst van de gemeente waarin deze zijn praktijk heeft.
 
-2. Indien de meldingen, bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2008-12-01&g=2008-12-01), betrekking hebben op een persoon die zijn verblijfplaats heeft in een andere gemeente, geeft de gemeentelijke gezondheidsdienst deze melding onverwijld door aan de gemeentelijke gezondheidsdienst van de verblijfplaats van de betrokkene.
+2. Indien de meldingen, bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2009-08-29&g=2009-08-29), betrekking hebben op een persoon die zijn verblijfplaats heeft in een andere gemeente, geeft de gemeentelijke gezondheidsdienst deze melding onverwijld door aan de gemeentelijke gezondheidsdienst van de verblijfplaats van de betrokkene.
 
 ##### Artikel 24
 
-1. De melding, bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2008-12-01&g=2008-12-01), bevat de volgende gegevens:
+1. De melding, bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2009-08-29&g=2009-08-29), bevat de volgende gegevens:
 
 - a. de naam, het adres, het geslacht, de geboortedatum, het burgerservicenummer en de verblijfplaats van de betrokken persoon,
 
@@ -333,23 +333,23 @@ Bij algemene maatregel van bestuur worden de infectieziekten behorende tot groep
 
 - c. indien nodig, of de betrokken persoon dan wel een persoon in zijn directe omgeving beroeps- of bedrijfsmatig betrokken is bij de behandeling van eet- of drinkwaren of bij de behandeling, verpleging of verzorging van andere personen.
 
-2. De melding, bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), bevat de volgende gegevens: de aard van het infectueus of giftig agens of de infectueuze of giftige stof en de plaats waar het lijk zich bevindt.
+2. De melding, bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), bevat de volgende gegevens: de aard van het infectueus of giftig agens of de infectueuze of giftige stof en de plaats waar het lijk zich bevindt.
 
-3. De melding, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), bevat de volgende gegevens: de infectieziekte, het geslacht, de geboortedatum en de nationaliteit van de betrokken personen.
+3. De melding, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), bevat de volgende gegevens: de infectieziekte, het geslacht, de geboortedatum en de nationaliteit van de betrokken personen.
 
 4. De arts verstrekt aan de gemeentelijke gezondheidsdienst uitsluitend andere medische gegevens over de betrokken persoon indien:
 
-- a. de burgemeester hierom verzoekt krachtens [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=30&z=2008-12-01&g=2008-12-01), of
+- a. de burgemeester hierom verzoekt krachtens [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=30&z=2009-08-29&g=2009-08-29), of
 
 - b. de betrokken persoon daarvoor toestemming geeft.
 
-5. Voor de beveiliging van de gegevensverwerking bij de meldingen, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2008-12-01&g=2008-12-01), worden bij regeling van Onze Minister regels gesteld.
+5. Voor de beveiliging van de gegevensverwerking bij de meldingen, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2009-08-29&g=2009-08-29), worden bij regeling van Onze Minister regels gesteld.
 
 ##### Artikel 25
 
 1. De arts die een onderzoek bij een laboratorium aanvraagt, stuurt de volgende gegevens mee: de naam, de geboortedatum en het burgerservicenummer van de betrokken persoon.
 
-2. Onverminderd [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2008-12-01&g=2008-12-01) meldt het hoofd van het laboratorium de vaststelling van een verwekker van een infectieziekte behorend tot groep A, B1, B2 of C aan de gemeentelijke gezondheidsdienst van de gemeente waarin de arts die het onderzoek bij het laboratorium heeft aangevraagd zijn praktijk heeft.
+2. Onverminderd [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2009-08-29&g=2009-08-29) meldt het hoofd van het laboratorium de vaststelling van een verwekker van een infectieziekte behorend tot groep A, B1, B2 of C aan de gemeentelijke gezondheidsdienst van de gemeente waarin de arts die het onderzoek bij het laboratorium heeft aangevraagd zijn praktijk heeft.
 
 3. De melding bevat de volgende gegevens: de naam van de arts, de naam, de geboortedatum en het burgerservicenummer van de betrokken persoon.
 
@@ -369,39 +369,39 @@ Bij algemene maatregel van bestuur worden de infectieziekten behorende tot groep
 
 ##### Artikel 27
 
-1. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2008-12-01&g=2008-12-01), onverwijld door aan de burgemeester van de gemeente waarin de betrokken persoon zijn woon- of verblijfplaats heeft.
+1. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2009-08-29&g=2009-08-29), onverwijld door aan de burgemeester van de gemeente waarin de betrokken persoon zijn woon- of verblijfplaats heeft.
 
-2. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), onverwijld door aan de burgemeester van de gemeente waarin het lijk zich bevindt.
+2. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), onverwijld door aan de burgemeester van de gemeente waarin het lijk zich bevindt.
 
-3. De gemeentelijke gezondheidsdienst deelt de ontvangst van een melding als bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), zo spoedig mogelijk mee aan de burgemeester van de gemeente waarin de arts zijn praktijk heeft.
+3. De gemeentelijke gezondheidsdienst deelt de ontvangst van een melding als bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), zo spoedig mogelijk mee aan de burgemeester van de gemeente waarin de arts zijn praktijk heeft.
 
-4. De gemeentelijke gezondheidsdienst deelt de ontvangst van een melding als bedoeld in [artikel 22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2008-12-01&g=2008-12-01), zo spoedig mogelijk mee aan de burgemeester van de gemeente waarin de betrokken persoon zijn woon- of verblijfplaats heeft.
+4. De gemeentelijke gezondheidsdienst deelt de ontvangst van een melding als bedoeld in [artikel 22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2009-08-29&g=2009-08-29), zo spoedig mogelijk mee aan de burgemeester van de gemeente waarin de betrokken persoon zijn woon- of verblijfplaats heeft.
 
-5. De gemeentelijke gezondheidsdienst deelt de ontvangst van een melding als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=26&z=2008-12-01&g=2008-12-01) binnen een redelijke termijn mee aan de burgemeester van de gemeente waarin de instelling is gelegen.
+5. De gemeentelijke gezondheidsdienst deelt de ontvangst van een melding als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=26&z=2009-08-29&g=2009-08-29) binnen een redelijke termijn mee aan de burgemeester van de gemeente waarin de instelling is gelegen.
 
-6. De gemeentelijke gezondheidsdienst verstrekt de burgemeester de gegevens, bedoeld in [artikel 24, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=24&z=2008-12-01&g=2008-12-01), die deze nodig heeft voor de uitoefening van de hem bij deze wet toegekende bevoegdheden.
+6. De gemeentelijke gezondheidsdienst verstrekt de burgemeester de gegevens, bedoeld in [artikel 24, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=24&z=2009-08-29&g=2009-08-29), die deze nodig heeft voor de uitoefening van de hem bij deze wet toegekende bevoegdheden.
 
 ##### Artikel 28
 
-1. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in de [artikelen 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2008-12-01&g=2008-12-01), onverwijld door aan het RIVM.
+1. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in de [artikelen 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2009-08-29&g=2009-08-29), onverwijld door aan het RIVM.
 
-2. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in de [artikelen 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), en [22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2008-12-01&g=2008-12-01), binnen 24 uur door aan het RIVM.
+2. De gemeentelijke gezondheidsdienst geeft de ontvangst van een melding als bedoeld in de [artikelen 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), en [22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2009-08-29&g=2009-08-29), binnen 24 uur door aan het RIVM.
 
-3. De gemeentelijke gezondheidsdienst verstrekt bij een melding als bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2008-12-01&g=2008-12-01) de volgende gegevens:
+3. De gemeentelijke gezondheidsdienst verstrekt bij een melding als bedoeld in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2009-08-29&g=2009-08-29) de volgende gegevens:
 
 - a. de infectieziekte dan wel een beschrijving van het ziektebeeld, de eerste ziektedag, de vaccinatietoestand, het gebruik van chemoprofylaxe, eventuele ziekenhuisopname, de vermoedelijke infectiebron, zonodig met inbegrip van de daaruit voortkomende gevallen, de datum van vermoeden of vaststelling van infectie,
 
 - b. het geslacht, de geboortemaand en het geboortejaar van de betrokken persoon, alsmede de eerste drie cijfers van de postcode van diens adres, en
 
-- c. de uitslag van het nader onderzoek, bedoeld in [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2008-12-01&g=2008-12-01).
+- c. de uitslag van het nader onderzoek, bedoeld in [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2009-08-29&g=2009-08-29).
 
-4. De gemeentelijke gezondheidsdienst verstrekt bij een melding als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), de volgende gegevens: de aard van het infectueus of giftig agens of de infectueuze of giftige stof en de plaats waar het lijk zich bevindt.
+4. De gemeentelijke gezondheidsdienst verstrekt bij een melding als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), de volgende gegevens: de aard van het infectueus of giftig agens of de infectueuze of giftige stof en de plaats waar het lijk zich bevindt.
 
-5. De gemeentelijke gezondheidsdienst verstrekt bij een melding als bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), de volgende gegevens: de infectieziekte, het geslacht, de geboortedatum en de nationaliteit van de betrokken personen, alsmede de woonplaats van de arts die de melding heeft gedaan.
+5. De gemeentelijke gezondheidsdienst verstrekt bij een melding als bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), de volgende gegevens: de infectieziekte, het geslacht, de geboortedatum en de nationaliteit van de betrokken personen, alsmede de woonplaats van de arts die de melding heeft gedaan.
 
 ##### Artikel 29
 
-1. De gemeentelijke gezondheidsdienst neemt de persoonsgegevens, die ingevolge de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=24&z=2008-12-01&g=2008-12-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2008-12-01&g=2008-12-01), en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=30&z=2008-12-01&g=2008-12-01) zijn verkregen, op in een door hem gehouden registratie.
+1. De gemeentelijke gezondheidsdienst neemt de persoonsgegevens, die ingevolge de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=24&z=2009-08-29&g=2009-08-29), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2009-08-29&g=2009-08-29), en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=30&z=2009-08-29&g=2009-08-29) zijn verkregen, op in een door hem gehouden registratie.
 
 2. De gemeentelijke gezondheidsdienst bewaart deze gegevens ten hoogste vijf jaar.
 
@@ -419,7 +419,7 @@ Op verzoek van de burgemeester verstrekt de behandelend arts van een persoon die
 
 - 1°. hij gegronde redenen heeft om aan te nemen dat de betrokkene lijdt aan een infectieziekte behorend tot groep A,
 
-- 2°. ten aanzien van de betrokkene de melding ingevolge [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2008-12-01&g=2008-12-01), heeft plaatsgevonden, of
+- 2°. ten aanzien van de betrokkene de melding ingevolge [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2009-08-29&g=2009-08-29), heeft plaatsgevonden, of
 
 - 3°. de betrokkene lijdt aan een infectieziekte behorend tot groep A of B1,
 
@@ -447,15 +447,15 @@ Op verzoek van de burgemeester verstrekt de behandelend arts van een persoon die
 
 1. De burgemeester doet de beschikking tot opneming ter isolatie aan de betrokkene uitreiken.
 
-2. In de beschikking geeft de burgemeester aan in welk ziekenhuis, aangewezen op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=34&z=2008-12-01&g=2008-12-01), de opneming ter isolatie ten uitvoer wordt gelegd.
+2. In de beschikking geeft de burgemeester aan in welk ziekenhuis, aangewezen op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=34&z=2009-08-29&g=2009-08-29), de opneming ter isolatie ten uitvoer wordt gelegd.
 
 3. Na uitreiking van de beschikking voorziet de burgemeester in bijstand van de betrokkene door een raadsman, tenzij de betrokkene daartegen bedenkingen heeft.
 
-4. Wanneer redelijkerwijs kan worden aangenomen dat het gevaar, bedoeld in [artikel 31, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), is geweken of op minder ingrijpende wijze kan worden afgewend, heft de burgemeester de opneming ter isolatie onverwijld op.
+4. Wanneer redelijkerwijs kan worden aangenomen dat het gevaar, bedoeld in [artikel 31, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), is geweken of op minder ingrijpende wijze kan worden afgewend, heft de burgemeester de opneming ter isolatie onverwijld op.
 
 ##### Artikel 33
 
-1. De burgemeester doet de beschikking tot het onderzoek, bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), aan de betrokkene uitreiken.
+1. De burgemeester doet de beschikking tot het onderzoek, bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), aan de betrokkene uitreiken.
 
 2. In zijn beschikking geeft de burgemeester aan waaruit het onderzoek bestaat, welke arts het onderzoek verricht en binnen welke termijn het onderzoek plaatsvindt.
 
@@ -485,7 +485,7 @@ Op verzoek van de burgemeester verstrekt de behandelend arts van een persoon die
 
 4. De quarantaine en het medisch toezicht vinden plaats onder zodanige voorwaarden en omstandigheden en gedurende een zodanige periode als noodzakelijk is om het gevaar, bedoeld in het eerste lid, onder b, af te wenden. Zodra redelijkerwijs kan worden aangenomen dat dit gevaar is geweken of op minder ingrijpende wijze kan worden afgewend, heft de burgemeester de maatregel onverwijld op.
 
-5. [Artikel 31, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), zijn van overeenkomstige toepassing.
+5. [Artikel 31, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), zijn van overeenkomstige toepassing.
 
 ##### Artikel 36
 
@@ -503,7 +503,7 @@ Op verzoek van de burgemeester verstrekt de behandelend arts van een persoon die
 
 ##### Artikel 37
 
-De burgemeester draagt de tenuitvoerlegging van de maatregelen, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2008-12-01&g=2008-12-01) op aan de gemeentelijke gezondheidsdienst.
+De burgemeester draagt de tenuitvoerlegging van de maatregelen, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2009-08-29&g=2009-08-29) op aan de gemeentelijke gezondheidsdienst.
 
 ##### Artikel 38
 
@@ -517,21 +517,21 @@ De burgemeester draagt de tenuitvoerlegging van de maatregelen, bedoeld in de [a
 
 ##### Artikel 39
 
-1. De burgemeester stelt de officier van justitie terstond op de hoogte van de beschikking tot opneming ter isolatie, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), van de beschikking tot het onderzoek, bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), en van de beschikking een persoon te onderwerpen aan de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2008-12-01&g=2008-12-01).
+1. De burgemeester stelt de officier van justitie terstond op de hoogte van de beschikking tot opneming ter isolatie, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), van de beschikking tot het onderzoek, bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), en van de beschikking een persoon te onderwerpen aan de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2009-08-29&g=2009-08-29).
 
 2. Zo spoedig mogelijk nadat de beschikking is gegeven, maar in elk geval niet later dan de volgende dag, zendt de burgemeester de officier van justitie een afschrift van de beschikking.
 
-3. Ingeval van een beschikking tot opneming ter isolatie als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), en van een beschikking tot het onderzoek als bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), is de rechtbank van de plaats waar het aangewezen ziekenhuis is gelegen bevoegd. Ingeval van een beschikking een persoon te onderwerpen aan de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2008-12-01&g=2008-12-01), is de rechtbank van de verblijfplaats van betrokkene bevoegd.
+3. Ingeval van een beschikking tot opneming ter isolatie als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), en van een beschikking tot het onderzoek als bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), is de rechtbank van de plaats waar het aangewezen ziekenhuis is gelegen bevoegd. Ingeval van een beschikking een persoon te onderwerpen aan de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2009-08-29&g=2009-08-29), is de rechtbank van de verblijfplaats van betrokkene bevoegd.
 
 ##### Artikel 40
 
-1. Indien de officier van justitie van oordeel is dat aan de voorwaarden voor de opneming ter isolatie, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), het onderzoek, bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), of de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2008-12-01&g=2008-12-01), is voldaan, doet hij uiterlijk op de dag na de datum van ontvangst van de beschikking een verzoek tot een machtiging tot voortzetting van de isolatie, de quarantaine of tot het onderzoek.
+1. Indien de officier van justitie van oordeel is dat aan de voorwaarden voor de opneming ter isolatie, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), het onderzoek, bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), of de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2009-08-29&g=2009-08-29), is voldaan, doet hij uiterlijk op de dag na de datum van ontvangst van de beschikking een verzoek tot een machtiging tot voortzetting van de isolatie, de quarantaine of tot het onderzoek.
 
 2. De officier van justitie deelt aan de betrokkene, de burgemeester en in voorkomend geval het ziekenhuis, schriftelijk mede dat hij het verzoek heeft gedaan of dat hij heeft besloten om geen verzoek te doen.
 
 3. Het besluit geen verzoek te doen neemt de officier van justitie niet dan nadat hij het advies van de hoofdinspecteur van het Staatstoezicht op de volksgezondheid heeft ingewonnen.
 
-4. Met het besluit geen verzoek te doen, vervalt de beschikking tot opneming ter isolatie, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), de beschikking tot het onderzoek, bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), of de beschikking een persoon te onderwerpen aan de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2008-12-01&g=2008-12-01), van rechtswege.
+4. Met het besluit geen verzoek te doen, vervalt de beschikking tot opneming ter isolatie, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), de beschikking tot het onderzoek, bedoeld in [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), of de beschikking een persoon te onderwerpen aan de maatregel van quarantaine, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2009-08-29&g=2009-08-29), van rechtswege.
 
 ##### Artikel 41
 
@@ -551,19 +551,19 @@ De burgemeester draagt de tenuitvoerlegging van de maatregelen, bedoeld in de [a
 
 1. De ter isolatie opgenomen persoon of de in quarantaine geplaatste persoon kan de rechter verzoeken de maatregel op te heffen.
 
-2. [Artikel 41, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2008-12-01&g=2008-12-01), is van overeenkomstige toepassing.
+2. [Artikel 41, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2009-08-29&g=2009-08-29), is van overeenkomstige toepassing.
 
-3. De rechter kan het verzoek zonder toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2008-12-01&g=2008-12-01) afwijzen, indien geen nieuwe feiten of omstandigheden worden aangevoerd.
+3. De rechter kan het verzoek zonder toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2009-08-29&g=2009-08-29) afwijzen, indien geen nieuwe feiten of omstandigheden worden aangevoerd.
 
 ##### Artikel 43
 
-1. Degene ten aanzien van wie een beschikking tot opneming ter isolatie als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), tot onderzoek als bedoeld in [artikel 31, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), of tot onderwerping aan een maatregel van quarantaine als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2008-12-01&g=2008-12-01) is genomen, kan de rechter bij een zelfstandig verzoek bij een verweerschrift als bedoeld in [artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=282), of bij een desbetreffend verzoekschrift ter gelegenheid van het verhoor van de betrokkene, dan wel, indien de officier van justitie geen verzoek als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=40&z=2008-12-01&g=2008-12-01), doet, bij een afzonderlijk verzoekschrift, verzoeken een naar billijkheid vast te stellen schadevergoeding toe te kennen op de grond dat de beschikking van de burgemeester onrechtmatig was.
+1. Degene ten aanzien van wie een beschikking tot opneming ter isolatie als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), tot onderzoek als bedoeld in [artikel 31, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), of tot onderwerping aan een maatregel van quarantaine als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2009-08-29&g=2009-08-29) is genomen, kan de rechter bij een zelfstandig verzoek bij een verweerschrift als bedoeld in [artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=282), of bij een desbetreffend verzoekschrift ter gelegenheid van het verhoor van de betrokkene, dan wel, indien de officier van justitie geen verzoek als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=40&z=2009-08-29&g=2009-08-29), doet, bij een afzonderlijk verzoekschrift, verzoeken een naar billijkheid vast te stellen schadevergoeding toe te kennen op de grond dat de beschikking van de burgemeester onrechtmatig was.
 
 2. Indien het verzoek wordt ingediend bij verzoekschrift ter gelegenheid van het verhoor van betrokkene is [artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=282) van overeenkomstige toepassing.
 
 ##### Artikel 44
 
-1. Indien degene ten aanzien van wie een beschikking is genomen tot opneming ter isolatie als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), tot onderzoek als bedoeld in [artikel 31, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), of tot onderwerping aan een maatregel van quarantaine als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2008-12-01&g=2008-12-01), nadeel heeft geleden doordat de rechter of de officier van justitie een van de bepalingen uit deze paragraaf niet in acht heeft genomen, kent de rechter deze op diens verzoek een naar billijkheid vast te stellen schadevergoeding toe ten laste van de Staat.
+1. Indien degene ten aanzien van wie een beschikking is genomen tot opneming ter isolatie als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), tot onderzoek als bedoeld in [artikel 31, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), of tot onderwerping aan een maatregel van quarantaine als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2009-08-29&g=2009-08-29), nadeel heeft geleden doordat de rechter of de officier van justitie een van de bepalingen uit deze paragraaf niet in acht heeft genomen, kent de rechter deze op diens verzoek een naar billijkheid vast te stellen schadevergoeding toe ten laste van de Staat.
 
 2. Het verzoek kan worden ingediend als een zelfstandig verzoek bij het verweerschrift als bedoeld in [artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=282), of bij een desbetreffend verzoekschrift ter gelegenheid van het verhoor van betrokkene, dan wel bij een afzonderlijk verzoekschrift, binnen drie maanden te rekenen vanaf de dag waarop betrokkene redelijkerwijs bekend kon zijn met de schending van het voorschrift waarop zijn verzoek betrekking heeft.
 
@@ -571,11 +571,11 @@ De burgemeester draagt de tenuitvoerlegging van de maatregelen, bedoeld in de [a
 
 ##### Artikel 45
 
-De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is van toepassing op de termijnen gesteld in de [artikelen 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=39&z=2008-12-01&g=2008-12-01), [40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=40&z=2008-12-01&g=2008-12-01), en [41, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2008-12-01&g=2008-12-01).
+De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is van toepassing op de termijnen gesteld in de [artikelen 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=39&z=2009-08-29&g=2009-08-29), [40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=40&z=2009-08-29&g=2009-08-29), en [41, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=41&z=2009-08-29&g=2009-08-29).
 
 ##### Artikel 46
 
-Ingeval een verzoekschrift als bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=42&z=2008-12-01&g=2008-12-01), of [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=43&z=2008-12-01&g=2008-12-01), wordt ingediend, dan wel een van de daartoe bevoegde personen beroep instelt, behoeft de indiening van het verzoekschrift niet bij procureur te geschieden.
+Ingeval een verzoekschrift als bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=42&z=2009-08-29&g=2009-08-29), of [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=4&artikel=43&z=2009-08-29&g=2009-08-29), wordt ingediend, dan wel een van de daartoe bevoegde personen beroep instelt, behoeft de indiening van het verzoekschrift niet bij procureur te geschieden.
 
 #### § 5. Maatregelen gericht op gebouwen, goederen en vervoermiddelen
 
@@ -603,7 +603,7 @@ Ingeval een verzoekschrift als bedoeld in [artikel 42, eerste lid](https://wette
 
 ##### Artikel 48
 
-1. Bij regeling van Onze Minister worden de havens en luchthavens aangewezen waarop de eisen van deze paragraaf van toepassing zijn. De havens of luchthavens kunnen per categorie worden aangewezen voor toepassing van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2008-12-01&g=2008-12-01).
+1. Bij regeling van Onze Minister worden de havens en luchthavens aangewezen waarop de eisen van deze paragraaf van toepassing zijn. De havens of luchthavens kunnen per categorie worden aangewezen voor toepassing van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2009-08-29&g=2009-08-29).
 
 2. Een burgerhaven of burgerluchthaven wordt aangewezen in overeenstemming met Onze Minister van Verkeer en Waterstaat.
 
@@ -631,19 +631,19 @@ Ingeval een verzoekschrift als bedoeld in [artikel 42, eerste lid](https://wette
 
 ##### Artikel 51
 
-1. Onverminderd [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2008-12-01&g=2008-12-01) verstrekt de gezagvoerder van een schip dat een internationale reis maakt op verzoek van de burgemeester bij aankomst in de burgerhaven de maritieme gezondheidsverklaring, bedoeld in artikel 37 van de Internationale Gezondheidsregeling.
+1. Onverminderd [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2009-08-29&g=2009-08-29) verstrekt de gezagvoerder van een schip dat een internationale reis maakt op verzoek van de burgemeester bij aankomst in de burgerhaven de maritieme gezondheidsverklaring, bedoeld in artikel 37 van de Internationale Gezondheidsregeling.
 
-2. Onverminderd [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2008-12-01&g=2008-12-01) verstrekt de gezagvoerder van een luchtvaartuig dat een internationale reis maakt op verzoek van de burgemeester bij aankomst in de burgerluchthaven, dan wel in het voor burgerluchtverkeer bestemde gedeelte van een militaire luchthaven met burgermedegebruik, het gezondheidsgedeelte van de algemene verklaring voor luchtvaartuigen, bedoeld in artikel 38 van de Internationale Gezondheidsregeling.
+2. Onverminderd [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2009-08-29&g=2009-08-29) verstrekt de gezagvoerder van een luchtvaartuig dat een internationale reis maakt op verzoek van de burgemeester bij aankomst in de burgerluchthaven, dan wel in het voor burgerluchtverkeer bestemde gedeelte van een militaire luchthaven met burgermedegebruik, het gezondheidsgedeelte van de algemene verklaring voor luchtvaartuigen, bedoeld in artikel 38 van de Internationale Gezondheidsregeling.
 
 3. Indien de gezondheidsverklaring, bedoeld in het eerste of tweede lid, daartoe naar het oordeel van de burgemeester aanleiding geeft, verstrekt de gezagvoerder op verzoek van de burgemeester aanvullende gegevens over de gezondheidstoestand aan boord.
 
 ##### Artikel 52
 
-In geval van een melding als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2008-12-01&g=2008-12-01) of indien anderszins blijkt van omstandigheden aan boord van een schip of luchtvaartuig dat een internationale reis maakt, die een ernstig gevaar voor de volksgezondheid kunnen meebrengen, kan Onze Minister van Verkeer en Waterstaat, na overleg met Onze Minister, bepalen in welke burgerhaven of burgerluchthaven het schip of luchtvaartuig aankomt, alsook, na overleg met het samenwerkingsverband van registerloodsen, hoe de loodsdienstverlening aan het schip plaatsvindt.
+In geval van een melding als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2009-08-29&g=2009-08-29) of indien anderszins blijkt van omstandigheden aan boord van een schip of luchtvaartuig dat een internationale reis maakt, die een ernstig gevaar voor de volksgezondheid kunnen meebrengen, kan Onze Minister van Verkeer en Waterstaat, na overleg met Onze Minister, bepalen in welke burgerhaven of burgerluchthaven het schip of luchtvaartuig aankomt, alsook, na overleg met het samenwerkingsverband van registerloodsen, hoe de loodsdienstverlening aan het schip plaatsvindt.
 
 ##### Artikel 53
 
-1. In geval van een melding als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2008-12-01&g=2008-12-01) of indien anderszins blijkt van omstandigheden aan boord van een schip of luchtvaartuig dat een internationale reis maakt, die een ernstig gevaar voor de volksgezondheid kunnen meebrengen, bepaalt de burgemeester welke maatregelen met betrekking tot de toelating tot of de onttrekking aan het vrije verkeer moeten worden genomen als het schip of luchtvaartuig in de burgerhaven of burgerluchthaven, dan wel in het voor burgerluchtverkeer bestemde gedeelte van een militaire luchthaven met burgermedegebruik, is aangekomen.
+1. In geval van een melding als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2009-08-29&g=2009-08-29) of indien anderszins blijkt van omstandigheden aan boord van een schip of luchtvaartuig dat een internationale reis maakt, die een ernstig gevaar voor de volksgezondheid kunnen meebrengen, bepaalt de burgemeester welke maatregelen met betrekking tot de toelating tot of de onttrekking aan het vrije verkeer moeten worden genomen als het schip of luchtvaartuig in de burgerhaven of burgerluchthaven, dan wel in het voor burgerluchtverkeer bestemde gedeelte van een militaire luchthaven met burgermedegebruik, is aangekomen.
 
 2. In geval van een directe dreiging van een epidemie van een infectieziekte behorend tot groep A, kan de burgemeester ten aanzien van een schip of luchtvaartuig dat een internationale reis maakt, bepalen welke maatregelen met betrekking tot de toelating tot of de onttrekking aan het vrije verkeer moeten worden genomen als het schip of luchtvaartuig in de burgerhaven of burgerluchthaven, dan wel in het voor burgerluchtverkeer bestemde gedeelte van een militaire luchthaven met burgermedegebruik, is aangekomen.
 
@@ -681,7 +681,7 @@ De burgemeester kan de vervoersexploitant opdragen om:
 
 ##### Artikel 56
 
-De burgemeester is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van hetgeen op grond van de [artikelen 53, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2008-12-01&g=2008-12-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2008-12-01&g=2008-12-01) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2008-12-01&g=2008-12-01) is opgedragen, indien de omstandigheden onmiddellijk ingrijpen noodzakelijk maken.
+De burgemeester is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van hetgeen op grond van de [artikelen 53, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2009-08-29&g=2009-08-29), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2009-08-29&g=2009-08-29) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2009-08-29&g=2009-08-29) is opgedragen, indien de omstandigheden onmiddellijk ingrijpen noodzakelijk maken.
 
 ##### Artikel 57
 
@@ -709,43 +709,43 @@ De burgemeester is bevoegd tot het opleggen van een last onder bestuursdwang ter
 
 1. Indien de gemeenteraad een bijdrage heft voor het verrichten van werkzaamheden in het kader van de publieke gezondheidszorg, draagt het college van burgemeester en wethouders ervoor zorg dat dit niet ten koste gaat van het bereik van deze werkzaamheden.
 
-2. Geen bijdrage wordt geheven voor de bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2008-12-01&g=2008-12-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=6&z=2008-12-01&g=2008-12-01) opgedragen taken, behoudens in gevallen bij algemene maatregel van bestuur aangewezen.
+2. Geen bijdrage wordt geheven voor de bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=2&artikel=5&z=2009-08-29&g=2009-08-29) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=6&z=2009-08-29&g=2009-08-29) opgedragen taken, behoudens in gevallen bij algemene maatregel van bestuur aangewezen.
 
 ##### Artikel 60
 
-1. De gemeente draagt de kosten van de maatregelen die krachtens [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2008-12-01&g=2008-12-01) van deze wet worden genomen. Ook draagt de gemeente de kosten van door haar toegekende tegemoetkomingen aan hen, die inkomsten derven door de maatregelen, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2008-12-01&g=2008-12-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2008-12-01&g=2008-12-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2008-12-01&g=2008-12-01).
+1. De gemeente draagt de kosten van de maatregelen die krachtens [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&z=2009-08-29&g=2009-08-29) van deze wet worden genomen. Ook draagt de gemeente de kosten van door haar toegekende tegemoetkomingen aan hen, die inkomsten derven door de maatregelen, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2009-08-29&g=2009-08-29), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2009-08-29&g=2009-08-29) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2009-08-29&g=2009-08-29).
 
-2. In afwijking van de eerste volzin van het eerste lid draagt het Rijk de kosten van de maatregel, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), indien deze wordt toegepast bij een persoon lijdend aan tuberculose.
+2. In afwijking van de eerste volzin van het eerste lid draagt het Rijk de kosten van de maatregel, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), indien deze wordt toegepast bij een persoon lijdend aan tuberculose.
 
 3. In afwijking van het eerste lid draagt:
 
-- a. de exploitant van een burgerhaven of burgerluchthaven en de burgerexploitant de kosten van de maatregelen die door de burgemeester krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2008-12-01&g=2008-12-01) zijn opgedragen,
+- a. de exploitant van een burgerhaven of burgerluchthaven en de burgerexploitant de kosten van de maatregelen die door de burgemeester krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2009-08-29&g=2009-08-29) zijn opgedragen,
 
-- b. de vervoersexploitant de kosten van de maatregelen die door de burgemeester krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2008-12-01&g=2008-12-01) zijn opgedragen.
+- b. de vervoersexploitant de kosten van de maatregelen die door de burgemeester krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2009-08-29&g=2009-08-29) zijn opgedragen.
 
-4. De in [artikel 47, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2008-12-01&g=2008-12-01), bedoelde waren worden voor vernietiging door de burgemeester gewaardeerd. Het college van burgemeester en wethouders keert aan de eigenaar als schadeloosstelling het bedrag uit waarop de goederen zijn gewaardeerd.
+4. De in [artikel 47, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2009-08-29&g=2009-08-29), bedoelde waren worden voor vernietiging door de burgemeester gewaardeerd. Het college van burgemeester en wethouders keert aan de eigenaar als schadeloosstelling het bedrag uit waarop de goederen zijn gewaardeerd.
 
-5. Het college van burgemeester en wethouders is bevoegd de kosten verbonden aan de maatregelen, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2008-12-01&g=2008-12-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2008-12-01&g=2008-12-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2008-12-01&g=2008-12-01), te verhalen op de persoon ten aanzien van wie een maatregel is getroffen, indien die persoon niet tot vrijwillige medewerking bereid is geweest. De [artikelen 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) en [5.26 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:26) zijn van overeenkomstige toepassing.
+5. Het college van burgemeester en wethouders is bevoegd de kosten verbonden aan de maatregelen, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2009-08-29&g=2009-08-29), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2009-08-29&g=2009-08-29) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2009-08-29&g=2009-08-29), te verhalen op de persoon ten aanzien van wie een maatregel is getroffen, indien die persoon niet tot vrijwillige medewerking bereid is geweest. De [artikelen 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) en [5.26 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:26) zijn van overeenkomstige toepassing.
 
-6. Onze Minister kan aan de exploitant van een burgerhaven of burgerluchthaven, de burgerexploitant of de vervoersexploitant een naar billijkheid te bepalen vergoeding toekennen terzake van buitengewone kosten die door de exploitant van een burgerhaven of burgerluchthaven, de burgerexploitant of de vervoersexploitant worden gemaakt vanwege de naleving van de maatregelen die krachtens de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2008-12-01&g=2008-12-01) of [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2008-12-01&g=2008-12-01) in samenhang met [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=7&z=2008-12-01&g=2008-12-01), zijn opgedragen.
+6. Onze Minister kan aan de exploitant van een burgerhaven of burgerluchthaven, de burgerexploitant of de vervoersexploitant een naar billijkheid te bepalen vergoeding toekennen terzake van buitengewone kosten die door de exploitant van een burgerhaven of burgerluchthaven, de burgerexploitant of de vervoersexploitant worden gemaakt vanwege de naleving van de maatregelen die krachtens de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2009-08-29&g=2009-08-29) of [55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2009-08-29&g=2009-08-29) in samenhang met [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=7&z=2009-08-29&g=2009-08-29), zijn opgedragen.
 
 ##### Artikel 61
 
-De kosten verband houdende met het voorzieningenniveau, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2008-12-01&g=2008-12-01), komen, voor zover het een burgerhaven of burgerluchthaven betreft, ten laste van de exploitant.
+De kosten verband houdende met het voorzieningenniveau, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2009-08-29&g=2009-08-29), komen, voor zover het een burgerhaven of burgerluchthaven betreft, ten laste van de exploitant.
 
 ##### Artikel 62
 
-1. Indien Onze Minister op grond van [artikel 7, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=7&z=2008-12-01&g=2008-12-01), de burgemeester opdraagt maatregelen te treffen, kan ten behoeve van de bekostiging daarvan een beroep worden gedaan op het Rijk, met uitzondering van de bekostiging van de maatregelen die dienen te worden getroffen in de situatie dat Onze Minister gevolg geeft aan [artikel 7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=7&z=2008-12-01&g=2008-12-01).
+1. Indien Onze Minister op grond van [artikel 7, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=7&z=2009-08-29&g=2009-08-29), de burgemeester opdraagt maatregelen te treffen, kan ten behoeve van de bekostiging daarvan een beroep worden gedaan op het Rijk, met uitzondering van de bekostiging van de maatregelen die dienen te worden getroffen in de situatie dat Onze Minister gevolg geeft aan [artikel 7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=II&paragraaf=3&artikel=7&z=2009-08-29&g=2009-08-29).
 
 2. Bij algemene maatregel van bestuur worden regels gesteld over het bepaalde in het eerste lid.
 
 ##### Artikel 63
 
-1. De kosten ter verkrijging van een certificaat als bedoeld in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=57&z=2008-12-01&g=2008-12-01), komen ten laste van de gezagvoerder van het desbetreffende schip.
+1. De kosten ter verkrijging van een certificaat als bedoeld in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=57&z=2009-08-29&g=2009-08-29), komen ten laste van de gezagvoerder van het desbetreffende schip.
 
-2. Behoudens in bij regeling van Onze Minister te bepalen gevallen komen de kosten van inenting van personen of de toediening van profylaxe aan personen ter verkrijging van een certificaat als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=7&artikel=58&z=2008-12-01&g=2008-12-01), ten laste van de belanghebbende.
+2. Behoudens in bij regeling van Onze Minister te bepalen gevallen komen de kosten van inenting van personen of de toediening van profylaxe aan personen ter verkrijging van een certificaat als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=7&artikel=58&z=2009-08-29&g=2009-08-29), ten laste van de belanghebbende.
 
-3. Bij regeling van Onze Minister worden de tarieven vastgesteld voor het verkrijgen van de certificaten, bedoeld in de [artikelen 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=57&z=2008-12-01&g=2008-12-01), en [58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=7&artikel=58&z=2008-12-01&g=2008-12-01).
+3. Bij regeling van Onze Minister worden de tarieven vastgesteld voor het verkrijgen van de certificaten, bedoeld in de [artikelen 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=57&z=2009-08-29&g=2009-08-29), en [58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=7&artikel=58&z=2009-08-29&g=2009-08-29).
 
 ### Hoofdstuk VII. Handhaving
 
@@ -763,41 +763,41 @@ In het geval van een besmetting of infectie of bij een gegrond vermoeden daarvan
 
 ##### Artikel 66
 
-1. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft de arts die handelt in strijd met de [artikelen 21, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2008-12-01&g=2008-12-01), [22, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2008-12-01&g=2008-12-01), [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=24&z=2008-12-01&g=2008-12-01), of [30](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=30&z=2008-12-01&g=2008-12-01).
+1. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft de arts die handelt in strijd met de [artikelen 21, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=21&z=2009-08-29&g=2009-08-29), [22, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=22&z=2009-08-29&g=2009-08-29), [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=24&z=2009-08-29&g=2009-08-29), of [30](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=30&z=2009-08-29&g=2009-08-29).
 
-2. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft het hoofd van een laboratorium dat handelt in strijd met [artikel 25, tweede of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2008-12-01&g=2008-12-01).
+2. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft het hoofd van een laboratorium dat handelt in strijd met [artikel 25, tweede of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=25&z=2009-08-29&g=2009-08-29).
 
-3. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft het hoofd van een instelling die handelt in strijd met [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=26&z=2008-12-01&g=2008-12-01).
+3. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft het hoofd van een instelling die handelt in strijd met [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=2&artikel=26&z=2009-08-29&g=2009-08-29).
 
-4. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft de gezagvoerder die handelt in strijd met [artikel 50, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2008-12-01&g=2008-12-01), of die weigert te voldoen aan een verzoek als bedoeld in de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=51&z=2008-12-01&g=2008-12-01) en [53, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2008-12-01&g=2008-12-01).
+4. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft de gezagvoerder die handelt in strijd met [artikel 50, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2009-08-29&g=2009-08-29), of die weigert te voldoen aan een verzoek als bedoeld in de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=51&z=2009-08-29&g=2009-08-29) en [53, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2009-08-29&g=2009-08-29).
 
-5. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft de exploitant van een burgerhaven of burgerluchthaven die handelt in strijd met [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2008-12-01&g=2008-12-01).
+5. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft de exploitant van een burgerhaven of burgerluchthaven die handelt in strijd met [artikel 50, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=50&z=2009-08-29&g=2009-08-29).
 
-6. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft degene die handelt in strijd met het bepaalde bij of krachtens [artikel 58, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=7&artikel=58&z=2008-12-01&g=2008-12-01).
+6. Met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie wordt gestraft degene die handelt in strijd met het bepaalde bij of krachtens [artikel 58, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=7&artikel=58&z=2009-08-29&g=2009-08-29).
 
 7. De in het eerste tot en met zesde lid strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 67
 
-1. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die zich onttrekt aan de krachtens de in de [artikelen 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2008-12-01&g=2008-12-01), of [47, tweede of derde lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2008-12-01&g=2008-12-01), ten aanzien van hem genomen maatregelen, dan wel de in [artikel 47, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2008-12-01&g=2008-12-01), bedoelde waren onttrekt aan een krachtens dat lid genomen maatregel.
+1. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die zich onttrekt aan de krachtens de in de [artikelen 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=38&z=2009-08-29&g=2009-08-29), of [47, tweede of derde lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2009-08-29&g=2009-08-29), ten aanzien van hem genomen maatregelen, dan wel de in [artikel 47, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=5&artikel=47&z=2009-08-29&g=2009-08-29), bedoelde waren onttrekt aan een krachtens dat lid genomen maatregel.
 
 2. Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft het onbevoegd betreden van een voor isolatie of quarantaine aangewezen locatie.
 
-3. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de exploitant van een burgerhaven of burgerluchthaven die handelt in strijd met [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2008-12-01&g=2008-12-01), of met een krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2008-12-01&g=2008-12-01) gegeven opdracht.
+3. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de exploitant van een burgerhaven of burgerluchthaven die handelt in strijd met [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2009-08-29&g=2009-08-29), of met een krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2009-08-29&g=2009-08-29) gegeven opdracht.
 
-4. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de burgerexploitant die handelt in strijd met [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2008-12-01&g=2008-12-01), of met een krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2008-12-01&g=2008-12-01) gegeven opdracht.
+4. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de burgerexploitant die handelt in strijd met [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=49&z=2009-08-29&g=2009-08-29), of met een krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=54&z=2009-08-29&g=2009-08-29) gegeven opdracht.
 
-5. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de vervoersexploitant die handelt in strijd met een krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2008-12-01&g=2008-12-01) gegeven opdracht.
+5. Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de vervoersexploitant die handelt in strijd met een krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=55&z=2009-08-29&g=2009-08-29) gegeven opdracht.
 
 6. De in het eerste tot en met vijfde lid strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 68
 
-1. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft degene die handelt in strijd met opdrachten die krachtens [artikel 53, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2008-12-01&g=2008-12-01), zijn gegeven.
+1. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft degene die handelt in strijd met opdrachten die krachtens [artikel 53, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2009-08-29&g=2009-08-29), zijn gegeven.
 
-2. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft de gezagvoerder die handelt in strijd met [artikel 53, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2008-12-01&g=2008-12-01).
+2. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft de gezagvoerder die handelt in strijd met [artikel 53, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=6&artikel=53&z=2009-08-29&g=2009-08-29).
 
-3. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft degene die zich onttrekt aan een op grond van de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2008-12-01&g=2008-12-01) of [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2008-12-01&g=2008-12-01) ten aanzien van hem genomen maatregel.
+3. Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft degene die zich onttrekt aan een op grond van de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=31&z=2009-08-29&g=2009-08-29) of [35](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=V&paragraaf=3&artikel=35&z=2009-08-29&g=2009-08-29) ten aanzien van hem genomen maatregel.
 
 4. De in het eerste, tweede en derde lid strafbaar gestelde feiten zijn misdrijven.
 
