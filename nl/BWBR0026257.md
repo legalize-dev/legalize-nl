@@ -274,25 +274,3 @@ Deze regeling wordt aangehaald als: Regeling Wet bescherming persoonsgegevens mi
 Datum:
 
 Deze regeling zal worden geplaatst in de Staatscourant en in de serie Ministeriële publicaties.
-
-##### Artikel 2.6. Verwijderen van persoonsgegevens
-
-De persoonsgegevens worden verwijderd wanneer deze voor het doel van de verwerking niet meer noodzakelijk zijn.
-
-#### Paragraaf 3. Rechten van betrokkene
-
-#### Paragraaf 4. Beveiliging en beheer
-
-#### Paragraaf 5. Audit
-
-#### Paragraaf 6. Aanwijzing
-
-#### Paragraaf 7. Slotbepalingen
-
-## Bijlage
-
-### Meldingenformulier als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2016-05-13&g=2016-05-13), van de Regeling bescherming persoonsgegevens ministerie van Defensie
-
-Datum:
-
-Deze regeling zal worden geplaatst in de Staatscourant en in de serie Ministeriële publicaties.
