@@ -4,7 +4,7 @@ identifier: "BWBR0015808"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-05-01"
-last_updated: "2005-06-01"
+last_updated: "2009-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015808"
 soort: "AMvB"
@@ -70,7 +70,9 @@ In dit besluit wordt verstaan onder:
 
 - a. de gegevens welke in het kader van het verlenen van medewerking aan de uitvoering van een bevoegd gegeven bijzondere last dan wel een toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) tot het aftappen of opnemen van telecommunicatie door een bevoegde autoriteit aan de aanbieder zijn verstrekt;
 
-- b. de informatie welke door de aanbieder aan een bevoegde autoriteit is verstrekt op grond van [artikel 13.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4) alsmede de gegevens welke zijn vervat in het aan deze verstrekking ten grondslag liggende verzoek of in de aan deze verstrekking ten grondslag liggende vordering om informatie van de desbetreffende bevoegde autoriteit.
+- b. de informatie welke door de aanbieder aan een bevoegde autoriteit is verstrekt op grond van de [artikelen 13.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2b) en [13.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4) alsmede de gegevens welke zijn vervat in het aan deze verstrekking ten grondslag liggende verzoek of in de aan deze verstrekking ten grondslag liggende vordering om informatie van de desbetreffende bevoegde autoriteit;
+
+- c. de gegevens die door de aanbieder worden geraadpleegd en verder worden verwerkt met het oog op het voldoen aan een verzoek of vordering op grond van de [artikelen 13.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2b) en [13.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4).
 
 2. De maatregelen, bedoeld in het eerste lid, dienen ten minste te bestaan uit:
 
@@ -96,11 +98,17 @@ In dit besluit wordt verstaan onder:
 
 1. Dit lid is nog niet in werking getreden.
 
-2. De aanbieder draagt er zorg voor dat aan de uitvoering van de in [artikel 13.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2) bedoelde bevoegd gegeven bijzondere last en de in [13.4, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4) neergelegde verplichting tot het verstrekken van informatie, de medewerking uitsluitend wordt verleend door personen, die aan hem een verklaring omtrent het gedrag als bedoeld in de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195) hebben overgelegd. De eerste volzin is niet van toepassing, indien de betrokken persoon een vertrouwensfunctie uitoefent als bedoeld in het eerste lid.
+2. De aanbieder draagt er zorg voor dat aan de uitvoering van de in [artikel 13.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2) bedoelde bevoegd gegeven bijzondere last en de in de [artikelen 13.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2b) en [13.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4) neergelegde verplichting tot het verstrekken van informatie, de medewerking uitsluitend wordt verleend door personen, die aan hem een verklaring omtrent het gedrag als bedoeld in de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195) hebben overgelegd. De eerste volzin is niet van toepassing, indien de betrokken persoon een vertrouwensfunctie uitoefent als bedoeld in het eerste lid.
 
 ##### Artikel 5
 
-De aanbieder stelt de desbetreffende bevoegde autoriteit terstond op de hoogte, indien op de vertrouwelijkheid van enigerlei gegevens of informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2005-06-01&g=2005-06-01), een ongeoorloofde inbreuk is gemaakt. Hierbij vermeldt de aanbieder:
+1. De aanbieder draagt er zorg voor dat de gegevens, die ingevolge [artikel 13.2a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2a), worden bewaard, onverwijld doch uiterlijk binnen acht dagen na afloop van de termijn, bedoeld in [artikel 13.2a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2a), worden vernietigd.
+
+2. [Artikel 5, eerste lid, van het Besluit bewaren en vernietigen niet-gevoegde stukken](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=5) is van overeenkomstige toepassing.
+
+##### Artikel 6
+
+De aanbieder stelt de desbetreffende bevoegde autoriteit terstond op de hoogte, indien op de vertrouwelijkheid van enigerlei gegevens of informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2009-09-01&g=2009-09-01), een ongeoorloofde inbreuk is gemaakt. Hierbij vermeldt de aanbieder:
 
 - a. welke informatie of gegevens het betreft;
 
@@ -108,19 +116,19 @@ De aanbieder stelt de desbetreffende bevoegde autoriteit terstond op de hoogte, 
 
 - c. de maatregelen welke zijn genomen om verdere verspreiding van bedoelde informatie of gegevens tegen te gaan en herhaling van het gebeurde te voorkomen.
 
-##### Artikel 6
+##### Artikel 7
 
 De aanbieder draagt er zorg voor dat de personeelsleden die belast zijn met:
 
 - a. de werkzaamheden ter uitvoering van een bevoegd gegeven bijzondere last dan wel een toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) als bedoeld in [artikel 13.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2) en
 
-- b. de werkzaamheden verbonden aan de informatieverstrekking als bedoeld in [artikel 13.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4),
+- b. de werkzaamheden verbonden aan de informatieverstrekking als bedoeld in de [artikelen 13.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2b) en [13.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4),
 
 met betrekking tot deze werkzaamheden en de gegevens en informatie waarvan zij in dat kader kennis nemen, geheimhouding betrachten.
 
-##### Artikel 7
+##### Artikel 8
 
-1. Indien de aanbieder de uitvoering van werkzaamheden uitbesteedt aan een derde en in dat kader de derde kennis neemt of kan nemen van gegevens en informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2005-06-01&g=2005-06-01), draagt de aanbieder er zorg voor dat de derde zich verplicht:
+1. Indien de aanbieder de uitvoering van werkzaamheden uitbesteedt aan een derde en in dat kader de derde kennis neemt of kan nemen van gegevens en informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2009-09-01&g=2009-09-01), draagt de aanbieder er zorg voor dat de derde zich verplicht:
 
 - a. de desbetreffende gegevens en informatie te beveiligen tegen kennisneming door onbevoegden;
 
@@ -134,13 +142,9 @@ met betrekking tot deze werkzaamheden en de gegevens en informatie waarvan zij i
 
 3. De aanbieder is verantwoordelijk voor de naleving door de derde van de verplichtingen, bedoeld in het eerste lid.
 
-##### Artikel 8
-
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
 ##### Artikel 9
 
-Dit besluit wordt aangehaald als: Besluit beveiliging gegevens aftappen telecommunicatie.
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ## Bijlage. als bedoeld in [artikel 2, derde lid, van het Besluit beveiliging gegevens aftappen telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2005-06-01&g=2005-06-01)
 
@@ -152,11 +156,13 @@ Er is een functionaris, belast met het toezicht op de uitvoering en naleving van
 
 a. In de functiebeschrijving van personeel dat belast is met de verwerking van de informatie en gegevens wordt de verantwoordelijkheid voor de beveiliging daarvan beschreven.
 
+a. In de functiebeschrijving van personeel dat belast is met de verwerking van de informatie en gegevens wordt de verantwoordelijkheid voor de beveiliging daarvan beschreven.
+
 b. Personeel dat in aanraking komt met de informatie en gegevens tekent een geheimhoudingsverklaring.
 
-c. Uitsluitend personeel dat overeenkomstig de functiebeschrijving belast is met de verwerking van de informatie en gegevens heeft toegang tot de informatie en de gegevens.
-
 ### III. Fysieke beveiliging en beveiliging van de omgeving
+
+a. De informatie en de gegevens worden zoveel mogelijk binnen één ruimte geconcentreerd.
 
 a. De informatie en de gegevens worden zoveel mogelijk binnen één ruimte geconcentreerd.
 
@@ -170,9 +176,9 @@ e. Het binnentreden en verlaten van de ruimte moet zodanig zijn geregeld dat er 
 
 f. Documenten waarin, dan wel verwisselbare gegevensdragers waarop, de informatie en de gegevens zijn vastgelegd worden in deugdelijk beveiligde opbergmiddelen bewaard.
 
-g. Personen belast met onderhouds- en reparatiewerkzaamheden in de ruimte waarin de informatie en de gegevens zich bevinden worden door eigen geautoriseerd personeel begeleid.
-
 ### IV. Beheer van communicatie- en bedieningsprocessen
+
+a. De status/rubricering van de informatie en de gegevens (staatsgeheim of vertrouwelijk) dient te allen tijde kenbaar te zijn.
 
 a. De status/rubricering van de informatie en de gegevens (staatsgeheim of vertrouwelijk) dient te allen tijde kenbaar te zijn.
 
@@ -180,9 +186,9 @@ b. Reproductie van de informatie of de gegevens is alleen toegestaan door daarto
 
 c. De informatie of de gegevens worden niet buiten de normale ruimte gebracht, tenzij dat voor de goede voortgang van de werkzaamheden noodzakelijk is. In dat geval wordt de verblijfplaats van de informatie of de gegevens geregistreerd.
 
-d. De verwijdering en vernietiging van de informatie en gegevens geschiedt op een onomkeerbare wijze. Van de verwijdering en vernietiging wordt een rapport opgemaakt, dat in afschrift wordt gezonden aan de bevoegde autoriteit wie het aangaat dan wel een door deze aangewezen instantie.
-
 ### V. Toegangsbeveiliging van geautomatiseerde informatiesystemen
+
+a. De toegang tot geautomatiseerde informatiesystemen waarin de informatie en de gegevens worden verwerkt is op deugdelijke wijze beveiligd, onder meer door middel van persoonsgebonden authenticatie.
 
 a. De toegang tot geautomatiseerde informatiesystemen waarin de informatie en de gegevens worden verwerkt is op deugdelijke wijze beveiligd, onder meer door middel van persoonsgebonden authenticatie.
 
@@ -198,15 +204,45 @@ f. Toegang tot het geautomatiseerde informatiesysteem is uitsluitend voorbehoude
 
 g. De toegangsrechten van de gebruikers worden periodiek geëvalueerd.
 
-h. De autorisaties van alle gebruikers worden vastgelegd.
-
 ### VI. Ontwikkeling, onderhoud en reparatie van geautomatiseerde informatiesystemen
+
+a. Alle wijzigingen in apparatuur, software of procedures die de beveiliging van de gegevens en informatie kunnen beïnvloeden zijn controleerbaar, dat wil zeggen bekend en beoordeeld door of namens de aanbieder als zijnde aanvaardbaar.
 
 a. Alle wijzigingen in apparatuur, software of procedures die de beveiliging van de gegevens en informatie kunnen beïnvloeden zijn controleerbaar, dat wil zeggen bekend en beoordeeld door of namens de aanbieder als zijnde aanvaardbaar.
 
 b. Het onderhouden van geautomatiseerde informatiesystemen, voor zover deze nog toegang verschaffen tot gegevens en informatie, vindt op locatie plaats.
 
 c. In afwijking van onderdeel b, is het op afstand onderhouden van geautomatiseerde informatiesystemen slechts toegestaan, indien dit wordt uitgevoerd door daartoe geautoriseerde personen als bedoeld in onderdeel II van deze bijlage, en slechts op tijdstippen waarvoor door de functionaris, bedoeld in onderdeel I, onder a, van deze bijlage, toestemming is verleend en er aantoonbaar voldoende waarborgen bestaan voor het handhaven van het beveiligingsniveau van de gegevens en informatie.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 10
+
+Dit besluit wordt aangehaald als: Besluit beveiliging gegevens telecommunicatie.
+
+## Bijlage. als bedoeld in [artikel 2, derde lid, van het Besluit beveiliging gegevens aftappen telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2009-09-01&g=2009-09-01)
+
+### I. Beveiligingseis algemeen
+
+Er is een functionaris, belast met het toezicht op de uitvoering en naleving van de beveiligingsmaatregelen. De functionaris voert daartoe regelmatig controles uit en legt de resultaten daarvan vast.
+
+### II. Beveiligingseisen ten aanzien van personeel
+
+c. Uitsluitend personeel dat overeenkomstig de functiebeschrijving belast is met de verwerking van de informatie en gegevens heeft toegang tot de informatie en de gegevens.
+
+### III. Fysieke beveiliging en beveiliging van de omgeving
+
+g. Personen belast met onderhouds- en reparatiewerkzaamheden in de ruimte waarin de informatie en de gegevens zich bevinden worden door eigen geautoriseerd personeel begeleid.
+
+### IV. Beheer van communicatie- en bedieningsprocessen
+
+d. De verwijdering en vernietiging van de informatie en gegevens geschiedt op een onomkeerbare wijze. Van de verwijdering en vernietiging wordt een rapport opgemaakt, dat in afschrift wordt gezonden aan de bevoegde autoriteit wie het aangaat dan wel een door deze aangewezen instantie.
+
+### V. Toegangsbeveiliging van geautomatiseerde informatiesystemen
+
+h. De autorisaties van alle gebruikers worden vastgelegd.
+
+### VI. Ontwikkeling, onderhoud en reparatie van geautomatiseerde informatiesystemen
 
 d. Reparatie aan het geautomatiseerde informatiesysteem waarin de informatie en de gegevens worden verwerkt vindt op locatie plaats. Van de eerste volzin kan worden afgeweken indien de informatie en gegevens zijn verwijderd en niet te achterhalen zijn.
 
