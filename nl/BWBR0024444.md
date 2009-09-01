@@ -4,7 +4,7 @@ identifier: "BWBR0024444"
 country: "nl"
 rank: "amvb"
 publication_date: "2009-09-01"
-last_updated: "2008-11-10"
+last_updated: "2009-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024444"
 soort: "AMvB"
@@ -50,23 +50,23 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **afkoopdatum:** het tijdstip van inwerkingtreding van het [eerste, tweede, derde of vierde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=2&z=2008-11-10&g=2008-11-10) of, ingeval het tijdstip van inwerkingtreding van het betreffende lid valt na 1 oktober van het kalenderjaar, 31 december van dat kalenderjaar;
+- **afkoopdatum:** het tijdstip van inwerkingtreding van het [eerste, tweede, derde of vierde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=2&z=2009-09-01&g=2009-09-01) of, ingeval het tijdstip van inwerkingtreding van het betreffende lid valt na 1 oktober van het kalenderjaar, 31 december van dat kalenderjaar;
 
 - **Onze Minister:** Onze Minister voor Wonen, Wijken en Integratie.
 
 ##### Artikel 2
 
-1. Dit lid is nog niet in werking getreden.
+1. De op grond van [artikel 10 van het Besluit woninggebonden subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0006950&artikel=10) aan een budgetbeherende gemeente toegekende budgetten, waarvan het eerste jaarbedrag, bedoeld in [artikel 14 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006950&artikel=14), in 1994 is uitbetaald, worden verplicht afgekocht voor zover er nog jaarbedragen aan die gemeente verschuldigd zijn op de afkoopdatum.
 
-2. Dit lid is nog niet in werking getreden.
+2. De op grond van [artikel 10 van het Besluit woninggebonden subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0006950&artikel=10) aan een budgetbeherende gemeente of een budgetbeherend samenwerkingsverband toegekende budgetten, waarvan het eerste jaarbedrag, bedoeld in [artikel 14 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006950&artikel=14), in 1995 is uitbetaald, worden verplicht afgekocht voor zover er nog jaarbedragen aan die gemeente of aan dat samenwerkingsverband verschuldigd zijn op de afkoopdatum.
 
-3. Dit lid is nog niet in werking getreden.
+3. De op grond van [artikel 10 van het Besluit woninggebonden subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0006950&artikel=10) aan een budgetbeherende gemeente of aan een budgetbeherend samenwerkingsverband toegekende budgetten, waarvan het eerste jaarbedrag, bedoeld in [artikel 14 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006950&artikel=14), in 1996 is uitbetaald, worden verplicht afgekocht voor zover er nog jaarbedragen aan die gemeente of aan dat samenwerkingsverband verschuldigd zijn op de afkoopdatum.
 
 4. De op grond van [artikel 24 van het Besluit woninggebonden subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0006950&artikel=24) aan een niet-budgetbeherende gemeente in 1993 of 1994 toegekende budgetten, worden verplicht afgekocht voor zover er nog jaarbedragen aan die gemeente verschuldigd zijn op de afkoopdatum.
 
 ##### Artikel 3
 
-Onze Minister neemt binnen vier weken na de inwerkingtreding van een lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=2&z=2008-11-10&g=2008-11-10) ten aanzien van elke gemeente of elk budgetbeherend samenwerkingsverband op wie de in dat lid bedoelde afkoop betrekking heeft een beschikking, waarbij overeenkomstig dit besluit het totaalbedrag wordt vastgesteld, waartegen de nog verschuldigde jaarbedragen worden afgekocht.
+Onze Minister neemt binnen vier weken na de inwerkingtreding van een lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=2&z=2009-09-01&g=2009-09-01) ten aanzien van elke gemeente of elk budgetbeherend samenwerkingsverband op wie de in dat lid bedoelde afkoop betrekking heeft een beschikking, waarbij overeenkomstig dit besluit het totaalbedrag wordt vastgesteld, waartegen de nog verschuldigde jaarbedragen worden afgekocht.
 
 ##### Artikel 4
 
@@ -76,7 +76,7 @@ Onze Minister neemt binnen vier weken na de inwerkingtreding van een lid van [ar
 
 ##### Artikel 5
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=4&z=2008-11-10&g=2008-11-10) wordt:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=4&z=2009-09-01&g=2009-09-01) wordt:
 
 - a. uitgegaan van maanden van dertig dagen en van een jaar van 360 dagen;
 
@@ -88,19 +88,19 @@ Onze Minister neemt binnen vier weken na de inwerkingtreding van een lid van [ar
 
 3. Indien 31 december van enig jaar de afkoopdatum is en tevens het einde van een rentevast tijdvak, wordt voor het eerste daaropvolgende rentevaste tijdvak de rente vastgesteld op de lange rente, die in het Centraal Economisch Plan wordt genoemd voor het eerste jaar van dat rentevaste tijdvak, verhoogd met 0,6%.
 
-4. Indien een jaarbedrag op grond van [artikel 14, tweede lid, van het Besluit woninggebonden subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0006950&artikel=14) in twaalf maandelijkse termijnen wordt uitbetaald, wordt voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=4&z=2008-11-10&g=2008-11-10) de vervaldatum van dat jaarbedrag gesteld op 1 juli.
+4. Indien een jaarbedrag op grond van [artikel 14, tweede lid, van het Besluit woninggebonden subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0006950&artikel=14) in twaalf maandelijkse termijnen wordt uitbetaald, wordt voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=4&z=2009-09-01&g=2009-09-01) de vervaldatum van dat jaarbedrag gesteld op 1 juli.
 
-5. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, kunnen de disconteringsvoet en het percentage, bedoeld in het eerste lid, onderdelen b en c, en het tweede lid, voor een daarbij te bepalen periode worden gewijzigd, indien, gelet op de dan geldende rente, het percentage voor de disconteringsvoet voor die periode voor de gemeenten of de samenwerkingsverbanden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=2&z=2008-11-10&g=2008-11-10), nadelig uitvalt.
+5. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, kunnen de disconteringsvoet en het percentage, bedoeld in het eerste lid, onderdelen b en c, en het tweede lid, voor een daarbij te bepalen periode worden gewijzigd, indien, gelet op de dan geldende rente, het percentage voor de disconteringsvoet voor die periode voor de gemeenten of de samenwerkingsverbanden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=2&z=2009-09-01&g=2009-09-01), nadelig uitvalt.
 
 ##### Artikel 6
 
-1. Het totaalbedrag wordt uitbetaald binnen zes weken na vaststelling van de beschikking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=3&z=2008-11-10&g=2008-11-10).
+1. Het totaalbedrag wordt uitbetaald binnen zes weken na vaststelling van de beschikking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=3&z=2009-09-01&g=2009-09-01).
 
 2. Indien wordt uitbetaald na de afkoopdatum, wordt het uit te betalen bedrag vermeerderd met een rente van 4,00% over een periode van zes weken.
 
 ##### Artikel 7
 
-Na vaststelling van de beschikking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=3&z=2008-11-10&g=2008-11-10), vervallen de aanspraken die een gemeente of een budgetbeherend samenwerkingsverband had op de verschuldigde jaarbedragen die krachtens die beschikking worden afgekocht.
+Na vaststelling van de beschikking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024444&artikel=3&z=2009-09-01&g=2009-09-01), vervallen de aanspraken die een gemeente of een budgetbeherend samenwerkingsverband had op de verschuldigde jaarbedragen die krachtens die beschikking worden afgekocht.
 
 ##### Artikel 8
 
