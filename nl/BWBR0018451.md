@@ -4,7 +4,7 @@ identifier: "BWBR0018451"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018451"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+1. In deze wet en de daarop berustende bepalingen wordt, tenzij anders is geregeld, verstaan onder:
 
 - a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
@@ -53,13 +53,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. verzekerde: de persoon, bedoeld in [artikel 1, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), of in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69), vanaf de eerste dag van de kalendermaand volgende op de maand waarin hij achttien jaar wordt, met uitzondering van de verzekerde, bedoeld in [artikel 24, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24);
 
-- d. zorgtoeslag: een tegemoetkoming in de premie voor een zorgverzekering;
+- d. premie: een premie als bedoeld in [afdeling 3.3.1 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&afdeling=3.3.1);
 
-- e. drempelinkomen: 108% van het twaalfvoud van het voor de maand januari van het berekeningsjaar geldende in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag per maand, verminderd met het werknemersaandeel in de premie ingevolge [artikel 25, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=25) en vermeerderd met de vergoeding ingevolge [artikel 46, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46) over dat loon;
+- e. zorgtoeslag: een tegemoetkoming in een premie dan wel in een bestuursrechtelijke premie als bedoeld in [artikel 18d van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d);
 
-- f. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2009-01-01&g=2009-01-01) vastgestelde bedrag;
+- f. drempelinkomen: 108% van het twaalfvoud van het voor de maand januari van het berekeningsjaar geldende in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag per maand, verminderd met het werknemersaandeel in de premie, bedoeld in [artikel 25, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=25) en vermeerderd met de vergoeding ingevolge [artikel 46, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=46) over dat loon;
 
-- g. de normpremie: de aan de hand van het drempelinkomen en het toetsingsinkomen van de verzekerde berekende premie voor een zorgverzekering in het berekeningsjaar.
+- g. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2009-09-01&g=2009-09-01) vastgestelde bedrag;
+
+- h. de normpremie: de aan de hand van het drempelinkomen en het toetsingsinkomen van de verzekerde berekende premie voor een zorgverzekering in het berekeningsjaar.
 
 2. De hoogte van de zorgtoeslag is afhankelijk van de draagkracht.
 
@@ -83,19 +85,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. De standaardpremie voor een persoon als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) is, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2009-01-01&g=2009-01-01), gelijk aan het met toepassing van dat artikel bepaalde bedrag, vermenigvuldigd met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.
+1. De standaardpremie voor een persoon als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) is, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2009-09-01&g=2009-09-01), gelijk aan het met toepassing van dat artikel bepaalde bedrag, vermenigvuldigd met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.
 
 2. Bij ministeriële regeling wordt jaarlijks uiterlijk in november per land het in het eerste lid bedoelde verhoudingsgetal vastgesteld.
 
 ##### Artikel 4
 
-Onze Minister stelt uiterlijk 15 dagen voorafgaande aan het berekeningsjaar bij regeling de standaardpremie voor het berekeningsjaar vast die wordt gevormd door de geraamde gemiddelde premie voor een verzekerde voor een zorgverzekering in het berekeningsjaar te vermeerderen met het geraamde gemiddelde bedrag dat een verzekerde naar verwachting in dat jaar betaalt ingevolge [artikel 18a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18a), met dien verstande dat bij het geraamde gemiddelde bedrag verzekerden die recht hebben op een uitkering als bedoeld in [artikel 118a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=118a) niet worden meegerekend.
+Onze Minister stelt uiterlijk 15 dagen voorafgaande aan het berekeningsjaar bij regeling de standaardpremie voor het berekeningsjaar vast die wordt gevormd door de geraamde gemiddelde premie voor een verzekerde voor een zorgverzekering in het berekeningsjaar te vermeerderen met het geraamde gemiddelde bedrag dat een verzekerde naar verwachting in dat jaar betaalt ingevolge [artikel 19 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=19), met dien verstande dat bij het geraamde gemiddelde bedrag verzekerden die recht hebben op een uitkering als bedoeld in [artikel 118a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=118a) niet worden meegerekend.
 
 ##### Artikel 5
 
 1. De Belastingdienst/Toeslagen is belast met de uitvoering van deze wet.
 
-2. De zorgtoeslag komt ten laste van het Rijk.
+2. In afwijking van [artikel 25, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) betaalt de Belastingdienst/Toeslagen in opdracht van het College zorgverzekeringen, bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de zorgtoeslag of het voorschot op de zorgtoeslag als tegemoetkoming in de bestuursrechtelijke premie, bedoeld in [artikel 18d van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d), aan dat college uit.
+
+3. De zorgtoeslag komt ten laste van het Rijk.
 
 ##### Artikel 6
 
