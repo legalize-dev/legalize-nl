@@ -89,9 +89,3 @@ De aanvrager richt de nodige beheers- en controle systemen in conform de eisen d
 De Minister stelt de aanvrager zo snel mogelijk op de hoogte van de beslissing van de Europese Commissie waarin de financiële bijdrage van het EGF wordt afgesloten, en stelt op basis daarvan de subsidie vast.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9. Citeertitel
-
-Deze regeling wordt aangehaald als ‘EGF regeling’.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
