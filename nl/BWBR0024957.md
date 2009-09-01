@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-08-25"
+last_updated: "2009-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -79,7 +79,7 @@ Besluit:
 | 3.1 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationaal innoveren) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten | 01-01 t/m 06-03 15-06 t/m 03-07 | 5.000.000 4.000.000 |
 | 3.2 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationaal innoveren) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Opkomende markten innovatieprojecten | 01-01 t/m 06-03 15-06 t/m 03-07 | 2.800.000 3.200.000 |
 | 3.3 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (IOP’s) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=3.2) |   | – | – |
-|   |   |   | Genomics (periode vooraanmelding) |   | – |
+|   |   |   | Genomics (periode vooraanmelding) | 01-09 t/m 17-09 | – |
 |   |   |   | Genomics |   |   |
 |   |   |   | EMVT (periode vooraanmelding) |   | – |
 |   |   |   | EMVT |   |   |
@@ -89,9 +89,9 @@ Besluit:
 |   |   |   | IPCR | 15-03 t/m 15-04 | € 4.000.000 |
 |   |   |   | MMI (periode vooraanmelding) |   | – |
 |   |   |   | MMI |   |   |
-|   |   |   | Self healing materials (periode vooraanmelding) |   | – |
+|   |   |   | Self healing materials (periode vooraanmelding) | 04-09 t/m 16-10 | – |
 |   |   |   | Self healing materials |   |   |
-|   |   |   | Generieke communicatie (periode vooraanmelding) |   | – |
+|   |   |   | Generieke communicatie (periode vooraanmelding) | 09-10 t/m 6-11 | – |
 |   |   |   | Generieke communicatie |   |   |
 |   |   |   | Oppervlaktetechnologie (periode vooraanmelding) |   | – |
 |   |   |   | Oppervlaktetechnologie |   |   |
@@ -99,6 +99,7 @@ Besluit:
 |   |   |   | Beeldverwerking |   |   |
 |   |   |   | Photonic devices (periode vooraanmelding) |   | – |
 |   |   |   | Photonic devices |   |   |
+| ... | ... |   | Maritiem (periode vooraanmelding) | 01-10 t/m 30-10 |   |
 | 3.4 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (LSH-projecten) | [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=4.2) |   | 07-01 t/m 27-04 | 3.000.000 |
 | 3.5 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (LSH-projecten) | [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=4.11) |   |   |   |
 | 3.5a | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (LSH-projecten) | [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=4.20) |   | 01-07 t/m 01-09 | 1.000.000 |
@@ -189,4 +190,12 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 ##### Artikel 1a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
+
+2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-09-01&g=2009-09-01), is van overeenkomstige toepassing.
+
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- |
+| Nr. | Regeling | Artikel | Groep | Openstelling 2009 en 2010 | Plafond € |
+| Tijdelijke energieregeling markt en innovatie | Tijdelijke energieregeling markt en innovatie | Tijdelijke energieregeling markt en innovatie | Tijdelijke energieregeling markt en innovatie | Tijdelijke energieregeling markt en innovatie | Tijdelijke energieregeling markt en innovatie |
+| 1.1 | Tijdelijke energieregeling markt en innovatie (investeringen voor verlaging elektriciteitsaansluiting van warmtepomphouders) | 7.2 |   | 1-9-2009 t/m 15-12-2010 | 4.290.000 |
