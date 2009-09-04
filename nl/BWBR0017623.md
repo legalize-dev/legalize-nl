@@ -4,7 +4,7 @@ identifier: "BWBR0017623"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-06-16"
-last_updated: "2008-08-01"
+last_updated: "2009-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017623"
 soort: "AMvB"
@@ -87,11 +87,11 @@ Een spoorwegonderneming bezit een goede naam als bedoeld in [artikel 28, eerste 
 
 ##### Artikel 4
 
-1. Op een bestuurder van een spoorwegonderneming is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2008-08-01&g=2008-08-01) van overeenkomstige toepassing.
+1. Op een bestuurder van een spoorwegonderneming is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2009-09-04&g=2009-09-04) van overeenkomstige toepassing.
 
 2. Indien natuurlijke personen dan wel rechtspersonen gezamenlijk als spoorwegonderneming optreden, voldoet ieder van de natuurlijke personen en ieder van de bestuurders van de rechtspersonen aan het vereiste van goede naam.
 
-3. Indien de permanente en daadwerkelijke leiding door een ander dan de natuurlijke persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=1&artikel=2&z=2008-08-01&g=2008-08-01), dan wel door een ander dan de in het eerste lid genoemde bestuurder wordt verricht, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2008-08-01&g=2008-08-01) op die ander van overeenkomstige toepassing.
+3. Indien de permanente en daadwerkelijke leiding door een ander dan de natuurlijke persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=1&artikel=2&z=2009-09-04&g=2009-09-04), dan wel door een ander dan de in het eerste lid genoemde bestuurder wordt verricht, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=2&artikel=3&z=2009-09-04&g=2009-09-04) op die ander van overeenkomstige toepassing.
 
 #### § 3. Financiële draagkracht
 
@@ -137,7 +137,7 @@ Aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 28, eerste lid, van
 
 3. Een spoorwegonderneming die louter activiteiten uitoefent als bedoeld in het tweede lid voldoet aan de uit [artikel 55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=55) voortvloeiende verzekeringsplicht indien zij de uit de wettelijke aansprakelijkheid voortvloeiende financiële risico’s heeft gedekt door middel van een verzekering die Nederland als dekkingsgebied heeft en een dekkingsbedrag heeft van minimaal € 2.500.000 per gebeurtenis.
 
-4. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=5&artikel=7&z=2008-08-01&g=2008-08-01), is van overeenkomstige toepassing.
+4. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=5&artikel=7&z=2009-09-04&g=2009-09-04), is van overeenkomstige toepassing.
 
 #### § 7. Aanvraag
 
@@ -151,23 +151,7 @@ Een aanvraag tot verlening van een bedrijfsvergunning bevat met het oog op het v
 
 ##### Artikel 10
 
-1. Een aanvraag tot verlening van een bedrijfsvergunning bevat met het oog op het vereiste van financiële draagkracht een document waarin de spoorwegonderneming gemotiveerd aangeeft waarom zij voldoet aan het vereiste van financiële draagkracht. Dit document dient gebaseerd te zijn op, en vergezeld te gaan van, gegevens over de financiële positie in het verleden en over de verwachte toekomstige financiële positie als gevolg van de voorgenomen bedrijfsvoering. Deze gegevens omvatten in ieder geval de jaarrekeningen van de onderneming van de drie afgelopen jaren alsmede een bedrijfs- of ondernemingsplan. Indien zich na de openbaarmaking van de meest recente jaarrekening relevante wijzigingen hebben voorgedaan, dan worden deze opgenomen in het document over de financiële positie. Indien de spoorwegonderneming geen volledige jaarrekeningen kan overleggen, legt zij de jaarbalansen over. Voorzover deze gegevens over de financiële positie in het verleden niet bestaan uit een jaarrekening die is opgesteld op basis van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) geven deze in ieder geval een gedetailleerd overzicht van:
-
-- a. de activa, gespecificeerd naar de termijn van beschikbaarheid en naar de mate waarin deze activa ter zekerheid van aflossing van leningen of als zekerheid ten behoeve van garantiestellingen zijn gesteld,
-
-- b. de passiva, waarbij de schulden zijn gespecificeerd naar de termijn van opeisbaarheid,
-
-- c. niet uit de balans blijkende verplichtingen,
-
-- d. bijzondere rechten van aandeelhouders of derden op het vermogen,
-
-- e. relevante kosten, met inbegrip van kosten voor de aanschaf van en voorschotten op spoorvoertuigen, andere voertuigen, terreinen, gebouwen, installaties en rollend materieel.
-
-2. De spoorwegonderneming doet het in het eerste lid bedoelde document, voorzover het toekomstgerichte informatie betreft, vergezeld gaan van een door een accountant opgesteld onderzoeksrapport bij de prognose. Dit betreft een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Dit onderzoeksrapport dient tot stand te komen overeenkomstig algemeen aanvaarde richtlijnen met betrekking tot het onderzoek van toekomstgerichte informatie.
-
-3. De jaarrekeningen en de jaarbalansen dienen voorzien te zijn van een accountantsverklaring omtrent de getrouwheid. Hiervoor kan worden volstaan met de oorspronkelijk afgegeven accountantsverklaringen.
-
-4. De accountant voert een specifiek onderzoek uit teneinde na te gaan dat na de openbaarmaking van de meest recente jaarrekeningen tot aan het moment van een aanvraag van de vergunning zich geen relevante wijzigingen hebben voorgedaan. De rapportage betreffende dit onderzoek wordt bij het in het eerste lid bedoelde document gevoegd. Dit onderzoek dient te worden uitgevoerd overeenkomstig de algemeen aanvaarde richtlijnen met betrekking tot opdrachten tot het verrichten van specifieke werkzaamheden met betrekking tot financiële informatie.
+Een aanvraag tot verlening van een bedrijfsvergunning bevat met het oog op het vereiste van financiële draagkracht de documenten, bedoeld in onderdeel I, onder 1, van de bijlage van richtlijn 95/18/EG.
 
 ##### Artikel 11
 
@@ -185,7 +169,7 @@ Een aanvraag tot verlening van een bedrijfsvergunning bevat met het oog op het v
 
 ##### Artikel 13
 
-Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=8&artikel=12&z=2008-08-01&g=2008-08-01), legt de spoorwegonderneming elke vijf jaar, gerekend vanaf de dag waarop de bedrijfsvergunning in werking is getreden, aan Onze Minister over:
+Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=8&artikel=12&z=2009-09-04&g=2009-09-04), legt de spoorwegonderneming elke vijf jaar, gerekend vanaf de dag waarop de bedrijfsvergunning in werking is getreden, aan Onze Minister over:
 
 - a. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28),
 
@@ -193,7 +177,7 @@ Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofds
 
 - c. een bewijs van dekking van de uit wettelijke aansprakelijkheid voortvloeiende financiële risico’s, en
 
-- d. een verklaring dat zij voldoet aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=4&artikel=6&z=2008-08-01&g=2008-08-01).
+- d. een verklaring dat zij voldoet aan het vereiste van beroepsbekwaamheid, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=2&paragraaf=4&artikel=6&z=2009-09-04&g=2009-09-04).
 
 #### § 10. Overig
 
@@ -235,7 +219,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van:
 
 ##### Artikel 19
 
-1. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2008-08-01&g=2008-08-01), geen toepassing heeft gevonden, stelt over ieder kalenderjaar een jaarverslag op met betrekking tot de spoorwegveiligheid en zendt dat in het daaropvolgende jaar telkens voor 30 juni aan Onze Minister.
+1. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2009-09-04&g=2009-09-04), geen toepassing heeft gevonden, stelt over ieder kalenderjaar een jaarverslag op met betrekking tot de spoorwegveiligheid en zendt dat in het daaropvolgende jaar telkens voor 30 juni aan Onze Minister.
 
 2. Het jaarverslag bevat in elk geval de in artikel 9, vierde lid, onderdeel a tot en met d, van richtlijn 2004/49/EG bedoelde informatie.
 
@@ -257,15 +241,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 16a
 
-1. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2008-08-01&g=2008-08-01), geen toepassing heeft gevonden:
+1. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2009-09-04&g=2009-09-04), geen toepassing heeft gevonden:
 
-- a. draagt er zorg voor dat het veiligheidszorgsysteem blijft voldoen aan [artikel 33, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=33) en [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2008-08-01&g=2008-08-01);
+- a. draagt er zorg voor dat het veiligheidszorgsysteem blijft voldoen aan [artikel 33, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=33) en [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2009-09-04&g=2009-09-04);
 
 - b. maakt binnen een jaar na de afgifte daarvan gebruik van de hoofdspoorweginfrastructuur, en
 
 - c. maakt aan Onze Minister zo spoedig mogelijk melding van wijzigingen ten aanzien waarvan redelijkerwijs moet worden aangenomen dat zij gevolgen hebben voor het afgegeven veiligheidsattest of voor de daaraan verbonden beperkingen en voorschriften.
 
-2. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2008-08-01&g=2008-08-01), toepassing heeft gevonden:
+2. De houder van een veiligheidsattest ten aanzien waarvan [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2009-09-04&g=2009-09-04), toepassing heeft gevonden:
 
 - a. blijft beschikken over een geldige certificering als bedoeld in artikel 10, tweede lid, onderdeel a, van richtlijn 2004/49/EG, en
 
@@ -273,11 +257,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 17a
 
-Onze Minister gebruikt zijn bevoegdheid tot intrekking van het veiligheidsattest als bedoeld in [artikel 33, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=33), indien de houder van het attest niet meer voldoet aan de in [artikel 16a, eerste lid, onderdelen a en b en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16a&z=2008-08-01&g=2008-08-01), gestelde eisen.
+Onze Minister gebruikt zijn bevoegdheid tot intrekking van het veiligheidsattest als bedoeld in [artikel 33, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=33), indien de houder van het attest niet meer voldoet aan de in [artikel 16a, eerste lid, onderdelen a en b en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16a&z=2009-09-04&g=2009-09-04), gestelde eisen.
 
 ##### Artikel 19a
 
-Een wijziging van artikel 9, vierde lid, en van bijlage III van richtlijn 2004/49/EG gaat voor de toepassing van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=19&z=2008-08-01&g=2008-08-01), onderscheidenlijk van [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2008-08-01&g=2008-08-01), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+Een wijziging van artikel 9, vierde lid, en van bijlage III van richtlijn 2004/49/EG gaat voor de toepassing van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=19&z=2009-09-04&g=2009-09-04), onderscheidenlijk van [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&hoofdstuk=3&artikel=16&z=2009-09-04&g=2009-09-04), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
