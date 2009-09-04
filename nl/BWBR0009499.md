@@ -4,7 +4,7 @@ identifier: "BWBR0009499"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2009-07-01"
+last_updated: "2009-09-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009499"
 soort: "AMvB"
@@ -74,7 +74,7 @@ De aanduiding **roomijs** mag uitsluitend worden gebezigd voor consumptie-ijs da
 
 - –. geen ander vet bevat dan melkvet;
 
-- –. een melkvetgehalte van ten minste 5%; en
+- –. een melkvetgehalte heeft van ten minste 5%; en
 
 - –. geen ander eiwit bevat dan melkeiwitten.
 
@@ -106,7 +106,7 @@ Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vastste
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2009-07-01&g=2009-07-01) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2009-07-01&g=2009-07-01), die in werking treden met ingang van 1 mei 1998.
+Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2009-09-04&g=2009-09-04) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2009-09-04&g=2009-09-04), die in werking treden met ingang van 1 mei 1998.
 
 ##### Artikel 10
 
