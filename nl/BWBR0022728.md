@@ -4,7 +4,7 @@ identifier: "BWBR0022728"
 country: "nl"
 rank: "pbo"
 publication_date: "2009-09-06"
-last_updated: "2007-10-21"
+last_updated: "2009-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022728"
 soort: "pbo"
@@ -80,7 +80,7 @@ In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1](ht
 
 2. De heffing als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de productwaarde en bedraagt voor:
 
-- a. glasgroenten: 0,393%
+- a. glasgroenten: 0,078%
 
 - b. vollegrondsgroenten: 0%
 
@@ -106,7 +106,7 @@ In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1](ht
 
 ##### Artikel 5
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022728&paragraaf=4&artikel=4&z=2007-10-21&g=2007-10-21), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022728&paragraaf=4&artikel=4&z=2009-09-06&g=2009-09-06), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
 ##### Artikel 6
 
