@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-09-01"
+last_updated: "2009-09-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -63,6 +63,7 @@ Besluit:
 | 1.8 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (beroepsonderwijs in bedrijf) | [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=7.2) |   | 01-01 t/m 31-12 | 12.000.000 |
 | 1.9 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (borgstelling scheepsnieuwbouw) | [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=8.3) |   | 01-01 t/m 31-12 | 1.000.000.000 |
 | 1.10 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (Veiligheid kleine bedrijven) | [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=9.2) |   | 01-02 t/m 31/08 | € 7.500.000 |
+| 1.11 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (Veiligheid kleine bedrijven) | [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=9.2) |   | 01-09 t/m 31-12 | € 11.500.000 |
 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) |
 | 2.1 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (Eurostars-projecten) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=2.2) |   | 16-03 t/m 30-03 | 2.000.000 |
 | 2.2a | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatiekredieten) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.2) | Klinische ontwikkelingsprojecten | 01-01 t/m 31-12 | 12.500.000 |
@@ -192,7 +193,7 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 
-2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-09-01&g=2009-09-01), is van overeenkomstige toepassing.
+2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-09-08&g=2009-09-08), is van overeenkomstige toepassing.
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
