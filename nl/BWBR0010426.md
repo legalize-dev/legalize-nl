@@ -4,7 +4,7 @@ identifier: "BWBR0010426"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-09-15"
-last_updated: "2002-01-01"
+last_updated: "2009-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010426"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. De in deze regeling genoemde tarieven zijn verschuldigd voor het verrichten van werkzaamheden of diensten door ambtenaren van de Nederlandse Antillen of van Aruba.
+1. De in deze regeling genoemde tarieven zijn verschuldigd voor het verrichten van werkzaamheden of diensten door ambtenaren van Aruba.
 
-2. Indien de in deze regeling genoemde certificaten door de Scheepvaart-in-spectie van de Nederlandse Antillen, onderscheidenlijk Aruba worden afgegeven, luiden de in deze regeling genoemde tarieven in het betaalmiddel van de Nederlandse Antillen, onderscheidenlijk Aruba.
+2. Indien de in deze regeling genoemde certificaten door de Scheepvaart-in-spectie van Aruba worden afgegeven, luiden de in deze regeling genoemde tarieven in het betaalmiddel van Aruba.
 
 ##### Artikel 2
 
@@ -139,7 +139,7 @@ Deze regeling wordt aangehaald als: [Regeling tarieven vissersvaartuigen 1999](h
 
 ## Bijlage
 
-Onderzoekstermijn als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010426&artikel=7&z=2002-01-01&g=2002-01-01). Deze termijn begint op de dag van vertrek uit de Nederlandse Antillen of Aruba en eindigt op de desbetreffende dag van terugkomst in de Nederlandse Antillen of Aruba.
+Onderzoekstermijn als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010426&artikel=8&z=2009-09-15&g=2009-09-15). Deze termijn begint op de dag van vertrek uit Aruba en eindigt op de desbetreffende dag van terugkomst in Aruba.
 
 | **Nieuwbouw** | **Lengte** | **Aantal** **dagen** |
 | --- | --- | --- |
