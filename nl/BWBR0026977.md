@@ -4,7 +4,7 @@ identifier: "BWBR0026977"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026977"
 soort: "wet"
@@ -58,7 +58,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel IV
 
