@@ -149,15 +149,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na uitgifte van de 
 Deze regeling wordt aangehaald als: Regeling Dienst speciale interventies.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a
-
-Deze regeling berust op [artikel 59, vierde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
