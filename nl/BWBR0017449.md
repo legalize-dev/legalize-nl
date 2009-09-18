@@ -4,7 +4,7 @@ identifier: "BWBR0017449"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-28"
-last_updated: "2004-11-19"
+last_updated: "2009-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017449"
 soort: "AMvB"
@@ -50,19 +50,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **sociaal-fiscaalnummer:** het nummer, bedoeld in [artikel 2, derde lid, onderdeel j, van de Algemene wet inzake rijksbelastingen](onbekend);
+- a. **administratienummer:** het administratienummer, bedoeld in [artikel 50 van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=50);
 
-- b. **administratienummer:** het administratienummer, bedoeld in [artikel 50 van de Wet gemeentelijke basisadministratie persoonsgegevens](onbekend);
+- b. **overheidstoegangsvoorziening:** de centrale voorziening die ondersteuning biedt bij het verifiëren van de identiteit van personen die langs elektronische weg toegang zoeken tot een bij de voorziening aangesloten bestuursorgaan;
 
-- c. **overheidstoegangsvoorziening:** de centrale voorziening die ondersteuning biedt bij het verifiëren van de identiteit van personen die langs elektronische weg toegang zoeken tot een bij de voorziening aangesloten bestuursorgaan;
-
-- d. **verantwoordelijke voor de overheidstoegangsvoorziening:** het bestuursorgaan dat de verantwoordelijke is ten aanzien van de verwerking van persoonsgegevens binnen de overheidstoegangsvoorziening.
+- c. **verantwoordelijke voor de overheidstoegangsvoorziening:** het bestuursorgaan dat de verantwoordelijke is ten aanzien van de verwerking van persoonsgegevens binnen de overheidstoegangsvoorziening.
 
 ##### Artikel 2
 
-1. Het sociaal-fiscaalnummer kan bij de verwerking van persoonsgegevens door de verantwoordelijke voor de overheidstoegangsvoorziening worden gebruikt met het oog op het verifiëren van de identiteit van degene die met behulp van de voorziening toegang zoekt tot elektronisch bestuurlijk verkeer met een bestuursorgaan dat is aangesloten bij de voorziening.
-
-2. [Artikel 6 van het Besluit gebruik sofi-nummer Wbp](onbekend) is van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 3
 
