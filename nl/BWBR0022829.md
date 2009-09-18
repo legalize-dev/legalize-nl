@@ -4,7 +4,7 @@ identifier: "BWBR0022829"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-06"
-last_updated: "2007-11-26"
+last_updated: "2009-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022829"
 soort: "AMvB"
@@ -94,7 +94,7 @@ In dit besluit wordt verstaan onder:
 
 - a. wet: de [Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428);
 
-- b. systeembeschrijving: de systeembeschrijving, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=2&paragraaf=1&artikel=2&z=2007-11-26&g=2007-11-26);
+- b. systeembeschrijving: de systeembeschrijving, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=2&paragraaf=1&artikel=2&z=2009-09-18&g=2009-09-18);
 
 - c. geautomatiseerde systeem van het college van burgemeester en wethouders: het geautomatiseerde systeem waarmee het college van burgemeester en wethouders uitvoering geeft aan het bepaalde in en krachtens [artikel 8, vierde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=8);
 
@@ -158,7 +158,7 @@ Onze Minister draagt zorg dat de beheervoorziening functioneert op een wijze die
 
 ##### Artikel 6
 
-Het nummerregister bevat met betrekking tot de nummers die daarin zijn opgenomen op grond van de [artikelen 4, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=4), en [22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=22), de administratieve gegevens die zijn vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&bijlage=1&z=2007-11-26&g=2007-11-26) bij dit besluit.
+Het nummerregister bevat met betrekking tot de nummers die daarin zijn opgenomen op grond van de [artikelen 4, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=4), en [22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=22), de administratieve gegevens die zijn vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&bijlage=1&z=2009-09-18&g=2009-09-18) bij dit besluit.
 
 ##### Artikel 7
 
@@ -188,7 +188,7 @@ Onze Minister deelt desgevraagd aan een college van burgemeester en wethouders i
 
 ##### Artikel 11
 
-1. Onze Minister verstrekt op verzoek aan een college van burgemeester en wethouders in verband met de uitvoering van [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=8) de gegevens die zijn vermeld in [bijlage 2, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&bijlage=2&z=2007-11-26&g=2007-11-26).
+1. Onze Minister verstrekt op verzoek aan een college van burgemeester en wethouders in verband met de uitvoering van [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=8) de gegevens die zijn vermeld in [bijlage 2, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&bijlage=2&z=2009-09-18&g=2009-09-18).
 
 2. Uit de GBA, onderscheidenlijk door de rijksbelastingdienst, worden aan Onze Minister de gegevens verstrekt, die hij nodig heeft in verband met de uitvoering van het eerste lid.
 
@@ -200,7 +200,7 @@ Onze Minister deelt desgevraagd aan een college van burgemeester en wethouders i
 
 - b. een ander gegeven waaruit de geldigheid of ongeldigheid van het document kan worden afgeleid.
 
-2. Uit het basisregister reisdocumenten, bedoeld in [artikel 4a van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a), het register betreffende de afgifte van rijbewijzen, bedoeld in [artikel 126 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=126), en door Onze Minister voor Vreemdelingenzaken en Integratie worden aan Onze Minister de gegevens verstrekt, die hij nodig heeft in verband met de uitvoering van het eerste lid.
+2. Uit het basisregister reisdocumenten, bedoeld in [artikel 4a van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a), het register betreffende de afgifte van rijbewijzen, bedoeld in [artikel 126 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=126), en door Onze Minister van Justitie worden aan Onze Minister de gegevens verstrekt, die hij nodig heeft in verband met de uitvoering van het eerste lid.
 
 #### Paragraaf 3. De verstrekking van gegevens aan gebruikers
 
@@ -210,7 +210,7 @@ Onze Minister deelt op verzoek van een gebruiker in verband met de uitvoering va
 
 ##### Artikel 14
 
-1. Aan een gebruiker worden op verzoek in verband met de uitvoering van [artikel 15, eerste lid, aanhef en onder a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=15) de gegevens verstrekt, die zijn vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&bijlage=3&z=2007-11-26&g=2007-11-26).
+1. Aan een gebruiker worden op verzoek in verband met de uitvoering van [artikel 15, eerste lid, aanhef en onder a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=15) de gegevens verstrekt, die zijn vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&bijlage=3&z=2009-09-18&g=2009-09-18).
 
 2. De gegevens, bedoeld in het eerste lid, worden verstrekt door Onze Minister, indien de gebruiker bij zijn verzoek gebruik maakt van de beheervoorziening.
 
@@ -218,7 +218,7 @@ Onze Minister deelt op verzoek van een gebruiker in verband met de uitvoering va
 
 ##### Artikel 15
 
-1. Aan een gebruiker wordt op verzoek in verband met de uitvoering van [artikel 15, eerste lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=15)medegedeeld:
+1. Aan een gebruiker wordt op verzoek in verband met de uitvoering van [artikel 15, eerste lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=15) medegedeeld:
 
 - a. of ten aanzien van het desbetreffende document is geregistreerd dat het niet in het verkeer behoort te zijn, dan wel
 
@@ -226,7 +226,7 @@ Onze Minister deelt op verzoek van een gebruiker in verband met de uitvoering va
 
 2. De gegevens, bedoeld in het eerste lid, onder a en b, worden verstrekt door Onze Minister, indien de gebruiker bij zijn verzoek gebruik maakt van de beheervoorziening.
 
-3. Uit het basisregister reisdocumenten, bedoeld in [artikel 4a van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a), het register betreffende de afgifte van rijbewijzen, bedoeld in [artikel 126 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=126), en door Onze Minister voor Vreemdelingenzaken en Integratie worden aan Onze Minister de gegevens verstrekt, die hij nodig heeft in verband met de uitvoering van het tweede lid.
+3. Uit het basisregister reisdocumenten, bedoeld in [artikel 4a van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a), het register betreffende de afgifte van rijbewijzen, bedoeld in [artikel 126 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=126), en door Onze Minister van Justitie worden aan Onze Minister de gegevens verstrekt, die hij nodig heeft in verband met de uitvoering van het tweede lid.
 
 ### Hoofdstuk 4. Transparantie en controle
 
@@ -248,13 +248,13 @@ Het onderzoek, bedoeld in [artikel 21, eerste lid, van de wet](https://wetten.ov
 
 ##### Artikel 20
 
-Het Besluit burgerservicenummer treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 19, aanhef en onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=5&artikel=19&z=2007-11-26&g=2007-11-26), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad, waarin het Besluit burgerservicenummer wordt geplaatst. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 november 2007, treedt [artikel 19, aanhef en onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=5&artikel=19&z=2007-11-26&g=2007-11-26), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad, waarin het besluit wordt geplaatst en werkt het terug tot en met 2 november 2007.
+Het Besluit burgerservicenummer treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 19, aanhef en onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=5&artikel=19&z=2009-09-18&g=2009-09-18), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad, waarin het Besluit burgerservicenummer wordt geplaatst. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 november 2007, treedt [artikel 19, aanhef en onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=5&artikel=19&z=2009-09-18&g=2009-09-18), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad, waarin het besluit wordt geplaatst en werkt het terug tot en met 2 november 2007.
 
 ##### Artikel 21
 
 Dit besluit wordt aangehaald als: Besluit burgerservicenummer.
 
-## Bijlage 1. Bijlage behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=2&paragraaf=2&artikel=6&z=2007-11-26&g=2007-11-26) van het Besluit burgerservicenummer (Bijlage 1)
+## Bijlage 1. Bijlage behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=2&paragraaf=2&artikel=6&z=2009-09-18&g=2009-09-18) van het Besluit burgerservicenummer (Bijlage 1)
 
 In het nummerregister worden over de daarin opgenomen nummers de volgende administratieve gegevens opgenomen:
 
@@ -276,7 +276,7 @@ In het nummerregister worden over de daarin opgenomen nummers de volgende admini
 
 - i. het type registratie waarin gegevens omtrent het nummer zijn opgenomen.
 
-## Bijlage 2. Bijlage behorende bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=3&paragraaf=2&artikel=11&z=2007-11-26&g=2007-11-26) van het Besluit burgerservicenummer (Bijlage 2)
+## Bijlage 2. Bijlage behorende bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=3&paragraaf=2&artikel=11&z=2009-09-18&g=2009-09-18) van het Besluit burgerservicenummer (Bijlage 2)
 
 A. Gegevens met behulp waarvan kan worden vastgesteld of aan een persoon reeds een burgerservicenummer is toegekend, en zo ja, welk nummer aan de betrokken persoon is toegekend
 
@@ -346,7 +346,7 @@ B. Gegevens met behulp waarvan kan worden vastgesteld of aan een persoon reeds e
 
 - l. aanduiding van de mate waarin de gegevens overeenkomen met de gevraagde gegevens.
 
-## Bijlage 3. Bijlage behorende bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=3&paragraaf=3&artikel=14&z=2007-11-26&g=2007-11-26) van het Besluit burgerservicenummer (Bijlage 3)
+## Bijlage 3. Bijlage behorende bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=3&paragraaf=3&artikel=14&z=2009-09-18&g=2009-09-18) van het Besluit burgerservicenummer (Bijlage 3)
 
 De gegevens die aan een gebruiker worden verstrekt te beantwoording van:
 
