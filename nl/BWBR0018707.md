@@ -4,7 +4,7 @@ identifier: "BWBR0018707"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2008-09-19"
+last_updated: "2009-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018707"
 soort: "AMvB"
@@ -90,9 +90,9 @@ Aan de Belastingdienst/Toeslagen worden desgevraagd door de hierna aangewezen na
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 1b. Gebruik sociaal-fiscaalnummer bij informatieverstrekking aan de Belastingdienst/Toeslagen
+##### Artikel 1b. Gebruik burgerservicenummer of sociaal-fiscaalnummer bij informatieverstrekking aan de Belastingdienst/Toeslagen
 
-De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het sociaal-fiscaalnummer van degene op wie de gegevens betrekking hebben en geschiedt zo mogelijk langs elektronische weg.
+De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van degene op wie de gegevens betrekking hebben en geschiedt zo mogelijk langs elektronische weg.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
