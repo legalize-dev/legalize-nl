@@ -4,7 +4,7 @@ identifier: "BWBR0019152"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019152"
 soort: "AMvB"
@@ -134,7 +134,7 @@ Bij een aanvraag van een subsidie als bedoeld in [artikel 36 van de Wet WIA](htt
 
 - a. het aansluitingsnummer van de werkgever bij het UWV;
 
-- b. het sociaal-fiscaalnummer van de werknemer;
+- b. het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de werknemer;
 
 - c. de naam van de werknemer;
 
@@ -188,7 +188,7 @@ Bij een aanvraag van een subsidie als bedoeld in [artikel 36 van de Wet WIA](htt
 
 2. Het UWV kan aan een persoon als bedoeld in het eerste lid op aanvraag vervoersvoorzieningen verlenen die strekken tot verbetering van zijn leefomstandigheden en die deel uitmaken van dan wel rechtstreeks samenhangen met voorzieningen als bedoeld in het eerste lid.
 
-3. Op de verlening van voorzieningen als bedoeld in het eerste en tweede lid zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=5&z=2009-01-01&g=2009-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=6&z=2009-01-01&g=2009-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2009-01-01&g=2009-01-01) van overeenkomstige toepassing.
+3. Op de verlening van voorzieningen als bedoeld in het eerste en tweede lid zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=5&z=2009-09-18&g=2009-09-18), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=6&z=2009-09-18&g=2009-09-18) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2009-09-18&g=2009-09-18) van overeenkomstige toepassing.
 
 4. Het UWV kan een voorziening als bedoeld in het eerste lid gedurende ten hoogste zes maanden verlengen indien het recht op die voorziening eindigt omdat de in het eerste lid bedoelde persoon ten gevolge van het verrichten van arbeid als zelfstandige geen recht meer heeft op een uitkering.
 
@@ -196,7 +196,7 @@ Bij een aanvraag van een subsidie als bedoeld in [artikel 36 van de Wet WIA](htt
 
 1. Het UWV kan op aanvraag ten behoeve van een persoon als bedoeld in [artikel 52d van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52d), [artikel 34, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34), [artikel 65e van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65e), [artikel 59b van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59b) of [artikel 67c van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c) met een auditieve, visuele of motorische handicap intermediaire activiteiten verlenen.
 
-2. [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing op het eerste lid.
+2. [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7&z=2009-09-18&g=2009-09-18), is van overeenkomstige toepassing op het eerste lid.
 
 3. Het UWV kan een voorziening als bedoeld in het eerste lid gedurende ten hoogste twee maanden verlengen indien het recht op die voorziening eindigt omdat de in het eerste lid bedoelde persoon ten gevolge van het verrichten van arbeid als zelfstandige geen recht meer heeft op een uitkering.
 
@@ -242,7 +242,7 @@ van het verschil tussen het bedrag van de arbeidsongeschiktheidsuitkering die zo
 
 - a. het inkomen uit bedrijf of beroep,
 
-- b. de inkomenssuppletie, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=17&z=2009-01-01&g=2009-01-01),
+- b. de inkomenssuppletie, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=17&z=2009-09-18&g=2009-09-18),
 
 - c. een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of een daarmee naar aard en strekking overeenkomende uitkering,
 
@@ -274,7 +274,7 @@ van het verschil tussen het bedrag van de arbeidsongeschiktheidsuitkering die zo
 
 - a. het loon,
 
-- b. de loonsuppletie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=16&z=2009-01-01&g=2009-01-01),
+- b. de loonsuppletie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=16&z=2009-09-18&g=2009-09-18),
 
 - c. een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of een daarmee naar aard en strekking overeenkomende uitkering,
 
@@ -332,7 +332,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Het UWV kan op aanvraag van een persoon als bedoeld in [artikel 52d van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52d), [artikel 34, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34), [artikel 65e van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65e), [artikel 59b van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59b) of [artikel 67c van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c) voorzieningen verstrekken ten behoeve van de inrichting van de arbeidsplaats, de productie- en werkmethoden en de bij de arbeid te gebruiken hulpmiddelen, die in overwegende mate op het individu van de aanvrager zijn afgestemd.
 
-2. Op de verlening van voorzieningen, bedoeld in het eerste lid, zijn [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2009-01-01&g=2009-01-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=3&artikel=10&z=2009-01-01&g=2009-01-01) van overeenkomstige toepassing.
+2. Op de verlening van voorzieningen, bedoeld in het eerste lid, zijn [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2009-09-18&g=2009-09-18), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=3&artikel=10&z=2009-09-18&g=2009-09-18) van overeenkomstige toepassing.
 
 3. Het UWV kan een voorziening als bedoeld in het eerste lid gedurende ten hoogste zes maanden verlengen indien het recht op die voorziening eindigt omdat de in het eerste lid bedoelde persoon ten gevolge van het verrichten van arbeid als zelfstandige geen recht meer heeft op een uitkering.
 
