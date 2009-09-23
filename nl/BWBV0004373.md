@@ -4,7 +4,7 @@ identifier: "BWBV0004373"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-09-23"
-last_updated: "1999-06-17"
+last_updated: "2009-09-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004373"
 soort: "verdrag"
@@ -104,7 +104,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - c. andere natuurlijke of rechtspersonen die overheidstaken of overheidsfuncties bekleden, of overheidsdiensten verlenen onder toezicht van een orgaan of persoon vallend onder de onderdelen a of b hierboven;
 
-- d. de instellingen van de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=21&z=1999-06-17&g=1999-06-17) bedoelde regionale organisaties voor economische integratie die Partij zijn. Deze begripsomschrijving omvat geen organen of instellingen die optreden in een rechterlijke of wetgevende hoedanigheid;
+- d. de instellingen van de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=21&z=2009-09-23&g=2009-09-23) bedoelde regionale organisaties voor economische integratie die Partij zijn. Deze begripsomschrijving omvat geen organen of instellingen die optreden in een rechterlijke of wetgevende hoedanigheid;
 
 - 13. „lokaal”: alle relevante niveaus van de territoriale eenheid onder het niveau van de staat;
 
@@ -112,9 +112,9 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - 15. „Vergadering van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001174)”: het door de Partijen bij het Verdrag in overeenstemming met [artikel 17 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001174&artikel=17) opgerichte orgaan;
 
-- 16. „Partij”: tenzij de tekst anders aangeeft, een Staat of een regionale organisatie voor economische integratie als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=21&z=1999-06-17&g=1999-06-17), die ermee heeft ingestemd door dit Protocol te worden gebonden en waarvoor dit Protocol van kracht is;
+- 16. „Partij”: tenzij de tekst anders aangeeft, een Staat of een regionale organisatie voor economische integratie als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=21&z=2009-09-23&g=2009-09-23), die ermee heeft ingestemd door dit Protocol te worden gebonden en waarvoor dit Protocol van kracht is;
 
-- 17. „Vergadering van de Partijen”: het door de Partijen in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=16&z=1999-06-17&g=1999-06-17) opgerichte orgaan.
+- 17. „Vergadering van de Partijen”: het door de Partijen in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=16&z=2009-09-23&g=2009-09-23) opgerichte orgaan.
 
 ##### Artikel 3. Reikwijdte
 
@@ -242,7 +242,7 @@ Bij het nemen van maatregelen ter uitvoering van dit Protocol worden de Partijen
 
 - m. de doeltreffendheid van systemen voor het beheer, de ontwikkeling, de bescherming en het gebruik van watervoorkomens, met inbegrip van de toepassing van erkende goede handelwijzen bij de beheersing van de verontreiniging afkomstig van uiteenlopende bronnen;
 
-- n. de frequentie van de publicatie van informatie omtrent de kwaliteit van het geleverde drinkwater en van andere wateren waarop de in dit lid genoemde doelstellingen van toepassing zijn, in de tijdvakken tussen de openbaarmaking van informatie ingevolge [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=7&z=1999-06-17&g=1999-06-17).
+- n. de frequentie van de publicatie van informatie omtrent de kwaliteit van het geleverde drinkwater en van andere wateren waarop de in dit lid genoemde doelstellingen van toepassing zijn, in de tijdvakken tussen de openbaarmaking van informatie ingevolge [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=7&z=2009-09-23&g=2009-09-23).
 
 3. Binnen twee jaar nadat zij Partij is geworden, formuleert elke Partij de in het tweede lid genoemde doelstellingen en maakt zij deze openbaar; ook stelt zij streefdata vast voor het bereiken van deze doelstellingen.
 
@@ -262,7 +262,7 @@ Bij het nemen van maatregelen ter uitvoering van dit Protocol worden de Partijen
 
 1. De Partijen verzamelen en evalueren elk gegevens met betrekking tot:
 
-- a. hun vooruitgang bij het bereiken van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=6&z=1999-06-17&g=1999-06-17), genoemde doelen;
+- a. hun vooruitgang bij het bereiken van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=6&z=2009-09-23&g=2009-09-23), genoemde doelen;
 
 - b. indicatoren die zijn bedoeld om aan te geven in hoeverre deze vooruitgang een bijdrage heeft geleverd aan de voorkoming, beheersing of vermindering van aan water gerelateerde ziekten.
 
@@ -270,9 +270,9 @@ Bij het nemen van maatregelen ter uitvoering van dit Protocol worden de Partijen
 
 3. De Partijen zien er elk op toe dat de resultaten van monsternames van water en effluenten verricht met het oog op de verzameling van gegevens, voor het publiek beschikbaar zijn.
 
-4. Op basis van deze verzameling en evaluatie van gegevens toetst elke Partij periodiek de vooruitgang die is geboekt bij het bereiken van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=6&z=1999-06-17&g=1999-06-17), genoemde doelen en maakt zij een beoordeling van deze vooruitgang openbaar. De frequentie van dergelijke toetsingen wordt vastgesteld door de Vergadering van de Partijen. Onverminderd de mogelijkheid van frequentere toetsingen ingevolge artikel 6, tweede lid, bevatten toetsingen ingevolge dit lid een beoordeling van de in artikel 6, tweede lid, genoemde doelen teneinde de doelen te verbeteren in het licht van wetenschappelijke en technische kennis.
+4. Op basis van deze verzameling en evaluatie van gegevens toetst elke Partij periodiek de vooruitgang die is geboekt bij het bereiken van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=6&z=2009-09-23&g=2009-09-23), genoemde doelen en maakt zij een beoordeling van deze vooruitgang openbaar. De frequentie van dergelijke toetsingen wordt vastgesteld door de Vergadering van de Partijen. Onverminderd de mogelijkheid van frequentere toetsingen ingevolge artikel 6, tweede lid, bevatten toetsingen ingevolge dit lid een beoordeling van de in artikel 6, tweede lid, genoemde doelen teneinde de doelen te verbeteren in het licht van wetenschappelijke en technische kennis.
 
-5. Elke Partij verstrekt aan het in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=17&z=1999-06-17&g=1999-06-17) bedoelde secretariaat, voor verspreiding onder de andere Partijen, een samenvattend verslag van de verzamelde en geëvalueerde gegevens en de beoordeling van de geboekte vooruitgang. Deze verslagen dienen in overeenstemming te zijn met de door de Vergadering van de Partijen opgestelde richtlijnen. In deze richtlijnen wordt bepaald dat de Partijen voor dit doel verslagen kunnen gebruiken die zijn samengesteld voor andere internationale fora en waarin de desbetreffende gegevens zijn opgenomen.
+5. Elke Partij verstrekt aan het in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=17&z=2009-09-23&g=2009-09-23) bedoelde secretariaat, voor verspreiding onder de andere Partijen, een samenvattend verslag van de verzamelde en geëvalueerde gegevens en de beoordeling van de geboekte vooruitgang. Deze verslagen dienen in overeenstemming te zijn met de door de Vergadering van de Partijen opgestelde richtlijnen. In deze richtlijnen wordt bepaald dat de Partijen voor dit doel verslagen kunnen gebruiken die zijn samengesteld voor andere internationale fora en waarin de desbetreffende gegevens zijn opgenomen.
 
 6. De Vergadering van de Partijen evalueert de vooruitgang in de uitvoering van dit Protocol op basis van dergelijke samenvattende verslagen.
 
@@ -324,15 +324,15 @@ Bij het nemen van maatregelen ter uitvoering van dit Protocol worden de Partijen
 
 1. Naast de vereisten van dit Protocol voor de Partijen om specifieke informatie of documenten openbaar te maken, neemt elke Partij binnen het kader van haar eigen wetgeving stappen om aan het publiek informatie beschikbaar te stellen die in het bezit is van overheidsinstanties en redelijkerwijs nodig is om het publieke debat mogelijk te maken over:
 
-- a. het stellen van doelen en streefdata voor het bereiken hiervan en de ontwikkeling van waterbeheerplannen in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=6&z=1999-06-17&g=1999-06-17);
+- a. het stellen van doelen en streefdata voor het bereiken hiervan en de ontwikkeling van waterbeheerplannen in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=6&z=2009-09-23&g=2009-09-23);
 
-- b. de instelling, verbetering of handhaving van systemen voor toezicht en vroegtijdige waarschuwing en rampenplannen in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=8&z=1999-06-17&g=1999-06-17);
+- b. de instelling, verbetering of handhaving van systemen voor toezicht en vroegtijdige waarschuwing en rampenplannen in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=8&z=2009-09-23&g=2009-09-23);
 
-- c. de bevordering van openbare bewustwording, scholing, training, onderzoek, ontwikkeling en informatie in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=9&z=1999-06-17&g=1999-06-17).
+- c. de bevordering van openbare bewustwording, scholing, training, onderzoek, ontwikkeling en informatie in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=9&z=2009-09-23&g=2009-09-23).
 
 2. Elke Partij draagt er zorg voor dat de overheidsinstanties, naar aanleiding van een verzoek om andere informatie die van belang is voor de uitvoering van dit Protocol, dergelijke informatie binnen een redelijk tijdsbestek aan het publiek beschikbaar stellen, binnen het kader van de nationale wetgeving.
 
-3. De Partijen waarborgen dat de in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=7&z=1999-06-17&g=1999-06-17), en in het eerste lid van dit artikel bedoelde informatie op alle redelijke tijdstippen kosteloos voor het publiek ter inzage beschikbaar is, en verleent de burgers redelijke voorzieningen om, tegen betaling van een redelijke vergoeding, kopieën van die informatie te verkrijgen.
+3. De Partijen waarborgen dat de in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=7&z=2009-09-23&g=2009-09-23), en in het eerste lid van dit artikel bedoelde informatie op alle redelijke tijdstippen kosteloos voor het publiek ter inzage beschikbaar is, en verleent de burgers redelijke voorzieningen om, tegen betaling van een redelijke vergoeding, kopieën van die informatie te verkrijgen.
 
 4. Niets in dit Protocol verplicht een overheidsinstantie ertoe informatie openbaar te maken of informatie aan het publiek beschikbaar te stellen indien:
 
@@ -372,13 +372,13 @@ De Partijen werken samen en bieden elkaar passende bijstand:
 
 ##### Artikel 12. Gezamenlijke en gecoördineerde internationale maatregelen
 
-Ingevolge [artikel 11, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=11&z=1999-06-17&g=1999-06-17), bevorderen de Partijen samenwerking bij internationale maatregelen met betrekking tot:
+Ingevolge [artikel 11, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=11&z=2009-09-23&g=2009-09-23), bevorderen de Partijen samenwerking bij internationale maatregelen met betrekking tot:
 
-- a. de ontwikkeling van onderling overeengekomen doelen voor de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=6&z=1999-06-17&g=1999-06-17), bedoelde aangelegenheden;
+- a. de ontwikkeling van onderling overeengekomen doelen voor de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=6&z=2009-09-23&g=2009-09-23), bedoelde aangelegenheden;
 
-- b. de ontwikkeling van indicatoren voor de toepassing van [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=7&z=1999-06-17&g=1999-06-17), om aan te tonen in hoeverre de maatregelen met betrekking tot aan water gerelateerde ziekten resultaat hebben opgeleverd bij de voorkoming, beheersing en vermindering van deze ziekten;
+- b. de ontwikkeling van indicatoren voor de toepassing van [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=7&z=2009-09-23&g=2009-09-23), om aan te tonen in hoeverre de maatregelen met betrekking tot aan water gerelateerde ziekten resultaat hebben opgeleverd bij de voorkoming, beheersing en vermindering van deze ziekten;
 
-- c. de instelling van gezamenlijke of gecoördineerde systemen voor toezicht en vroegtijdige waarschuwing, rampenplannen en bestrijdingscapaciteiten als onderdeel van, of aanvulling op, de nationale systemen die in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=8&z=1999-06-17&g=1999-06-17) in stand worden gehouden voor de bestrijding van epidemieën en afzonderlijke gevallen van aan water gerelateerde ziekten en wezenlijke dreigingen van dergelijke epidemieën en afzonderlijke gevallen, in het bijzonder als gevolg van gevallen van waterverontreiniging of extreme weersomstandigheden;
+- c. de instelling van gezamenlijke of gecoördineerde systemen voor toezicht en vroegtijdige waarschuwing, rampenplannen en bestrijdingscapaciteiten als onderdeel van, of aanvulling op, de nationale systemen die in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=8&z=2009-09-23&g=2009-09-23) in stand worden gehouden voor de bestrijding van epidemieën en afzonderlijke gevallen van aan water gerelateerde ziekten en wezenlijke dreigingen van dergelijke epidemieën en afzonderlijke gevallen, in het bijzonder als gevolg van gevallen van waterverontreiniging of extreme weersomstandigheden;
 
 - d. wederzijdse bijstand bij het bestrijden van epidemieën en afzonderlijke gevallen van aan water gerelateerde ziekten en wezenlijke dreigingen van dergelijke epidemieën en afzonderlijke gevallen, in het bijzonder als gevolg van gevallen van waterverontreiniging of extreme weersomstandigheden;
 
@@ -394,13 +394,13 @@ Ingevolge [artikel 11, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004
 
 ##### Artikel 13. Samenwerking met betrekking tot grensoverschrijdende wateren
 
-1. Wanneer Partijen grenzen aan dezelfde grensoverschrijdende wateren dienen zij ter aanvulling van hun andere verplichtingen ingevolge de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=11&z=1999-06-17&g=1999-06-17) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=12&z=1999-06-17&g=1999-06-17) samen te werken en waar nodig elkaar bijstand te verlenen ter voorkoming, beheersing en vermindering van de grensoverschrijdende gevolgen van aan water gerelateerde ziekten.
+1. Wanneer Partijen grenzen aan dezelfde grensoverschrijdende wateren dienen zij ter aanvulling van hun andere verplichtingen ingevolge de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=11&z=2009-09-23&g=2009-09-23) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=12&z=2009-09-23&g=2009-09-23) samen te werken en waar nodig elkaar bijstand te verlenen ter voorkoming, beheersing en vermindering van de grensoverschrijdende gevolgen van aan water gerelateerde ziekten.
 
 In het bijzonder:
 
 - a. wisselen zij informatie uit en delen zij kennis omtrent de grensoverschrijdende wateren en de problemen en risico's die zij vormen ten aanzien van de andere Partijen die grenzen aan dezelfde wateren;
 
-- b. streven zij met de andere Partijen die grenzen aan dezelfde grensoverschrijdende wateren naar de instelling van gezamenlijke of gecoördineerde waterbeheerplannen in overeenstemming met [artikel 6, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=6&z=1999-06-17&g=1999-06-17), en systemen voor toezicht en vroegtijdige waarschuwing en rampenplannen in overeenstemming met [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=8&z=1999-06-17&g=1999-06-17), teneinde epidemieën en afzonderlijke gevallen van aan water gerelateerde ziekten en wezenlijke dreigingen van deze epidemieën en afzonderlijke gevallen, in het bijzonder van gevallen van waterverontreiniging of extreme weersomstandigheden, te bestrijden;
+- b. streven zij met de andere Partijen die grenzen aan dezelfde grensoverschrijdende wateren naar de instelling van gezamenlijke of gecoördineerde waterbeheerplannen in overeenstemming met [artikel 6, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=6&z=2009-09-23&g=2009-09-23), en systemen voor toezicht en vroegtijdige waarschuwing en rampenplannen in overeenstemming met [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=8&z=2009-09-23&g=2009-09-23), teneinde epidemieën en afzonderlijke gevallen van aan water gerelateerde ziekten en wezenlijke dreigingen van deze epidemieën en afzonderlijke gevallen, in het bijzonder van gevallen van waterverontreiniging of extreme weersomstandigheden, te bestrijden;
 
 - c. passen zij hun overeenkomsten en andere regelingen met betrekking tot hun grensoverschrijdende wateren, op basis van gelijkheid en wederkerigheid aan, teneinde tegenstrijdigheden met de basisbeginselen van dit Protocol weg te nemen en hun wederzijdse betrekkingen en handelwijze met betrekking tot de doelen van dit Protocol vast te leggen;
 
@@ -410,7 +410,7 @@ In het bijzonder:
 
 ##### Artikel 14. Internationale steun voor nationale maatregelen
 
-Bij de samenwerking en wederzijdse bijstand bij de uitvoering van nationale en lokale plannen ingevolge [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=11&z=1999-06-17&g=1999-06-17), overwegen de Partijen in het bijzonder hoe zij het best kunnen helpen bij de bevordering van:
+Bij de samenwerking en wederzijdse bijstand bij de uitvoering van nationale en lokale plannen ingevolge [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=11&z=2009-09-23&g=2009-09-23), overwegen de Partijen in het bijzonder hoe zij het best kunnen helpen bij de bevordering van:
 
 - a. de opstelling van waterbeheerplannen in grensoverschrijdende, nationale en/of lokale contexten en van stelsels voor verbetering van de watervoorziening en sanitatie;
 
@@ -432,7 +432,7 @@ Bij de samenwerking en wederzijdse bijstand bij de uitvoering van nationale en l
 
 ##### Artikel 15. Toetsing van de naleving
 
-De Partijen toetsen de naleving door de Partijen van de bepalingen van dit Protocol op basis van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=7&z=1999-06-17&g=1999-06-17) bedoelde toetsingen en beoordelingen. Tijdens de eerste vergadering van de Partijen stellen de Partijen multilaterale regelingen vast van een niet-confronterende en niet-rechtelijke en raadplegende aard voor de toetsing van de naleving. Deze regelingen dienen te voorzien in passende betrokkenheid van het publiek.
+De Partijen toetsen de naleving door de Partijen van de bepalingen van dit Protocol op basis van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=7&z=2009-09-23&g=2009-09-23) bedoelde toetsingen en beoordelingen. Tijdens de eerste vergadering van de Partijen stellen de Partijen multilaterale regelingen vast van een niet-confronterende en niet-rechtelijke en raadplegende aard voor de toetsing van de naleving. Deze regelingen dienen te voorzien in passende betrokkenheid van het publiek.
 
 ##### Artikel 16. Vergadering van de Partijen
 
@@ -442,7 +442,7 @@ De Partijen toetsen de naleving door de Partijen van de bepalingen van dit Proto
 
 3. Tijdens hun vergaderingen toetsen de Partijen de uitvoering van dit Protocol voortdurend, en hiertoe verbinden zij zich tot:
 
-- a. de toetsing van het beleid en de werkwijzen betreffende de voorkoming, beheersing en vermindering van aan water gerelateerde ziekten, de bevordering van de afstemming hiervan, en de versterking van de grensoverschrijdende en internationale samenwerking in overeenstemming met de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=11&z=1999-06-17&g=1999-06-17), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=12&z=1999-06-17&g=1999-06-17), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=13&z=1999-06-17&g=1999-06-17) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=14&z=1999-06-17&g=1999-06-17);
+- a. de toetsing van het beleid en de werkwijzen betreffende de voorkoming, beheersing en vermindering van aan water gerelateerde ziekten, de bevordering van de afstemming hiervan, en de versterking van de grensoverschrijdende en internationale samenwerking in overeenstemming met de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=11&z=2009-09-23&g=2009-09-23), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=12&z=2009-09-23&g=2009-09-23), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=13&z=2009-09-23&g=2009-09-23) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=14&z=2009-09-23&g=2009-09-23);
 
 - b. de evaluatie van de vooruitgang bij de uitvoering van dit Protocol op basis van de door de Partijen in overeenstemming met de door de Vergadering van de Partijen opgestelde richtlijnen verstrekte informatie. Deze richtlijnen moeten dubbel werk met betrekking tot de eisen inzake verslaglegging voorkomen;
 
@@ -480,7 +480,7 @@ De Partijen toetsen de naleving door de Partijen van de bepalingen van dit Proto
 
 - a. leggen de details van hun regelingen inzake samenwerking vast in een memorandum van overeenstemming, en brengen de Vergadering van de Partijen hiervan op de hoogte;
 
-- b. brengen de Partijen verslag uit over de onderdelen en de wijze van uitvoering van het in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=16&z=1999-06-17&g=1999-06-17), bedoelde werkprogramma.
+- b. brengen de Partijen verslag uit over de onderdelen en de wijze van uitvoering van het in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=16&z=2009-09-23&g=2009-09-23), bedoelde werkprogramma.
 
 ##### Artikel 18. Wijziging van het Protocol
 
@@ -516,11 +516,11 @@ Dit Protocol staat op 17 juni 1999 ter gelegenheid van de Derde Ministeriële Co
 
 1. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd door ondertekenende Staten en regionale organisaties voor economische integratie.
 
-2. Dit Protocol staat open voor toetreding door de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=21&z=1999-06-17&g=1999-06-17) bedoelde Staten en organisaties.
+2. Dit Protocol staat open voor toetreding door de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=21&z=2009-09-23&g=2009-09-23) bedoelde Staten en organisaties.
 
-3. Iedere organisatie zoals bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=21&z=1999-06-17&g=1999-06-17) die Partij wordt bij dit Protocol zonder dat een van haar lidstaten Partij is, is gebonden door alle verplichtingen krachtens dit Protocol. Indien een of meer lidstaten van een dergelijke organisatie Partij bij dit Protocol zijn, beslissen de organisatie en haar lidstaten over hun onderscheiden verantwoordelijkheden ten aanzien van de nakoming van hun verplichtingen krachtens dit Protocol. In dat geval mogen de organisatie en de lidstaten niet tegelijkertijd rechten krachtens dit Protocol uitoefenen.
+3. Iedere organisatie zoals bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=21&z=2009-09-23&g=2009-09-23) die Partij wordt bij dit Protocol zonder dat een van haar lidstaten Partij is, is gebonden door alle verplichtingen krachtens dit Protocol. Indien een of meer lidstaten van een dergelijke organisatie Partij bij dit Protocol zijn, beslissen de organisatie en haar lidstaten over hun onderscheiden verantwoordelijkheden ten aanzien van de nakoming van hun verplichtingen krachtens dit Protocol. In dat geval mogen de organisatie en de lidstaten niet tegelijkertijd rechten krachtens dit Protocol uitoefenen.
 
-4. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=21&z=1999-06-17&g=1999-06-17) bedoelde regionale organisaties voor economische integratie de reikwijdte aan van hun bevoegdheid ten aanzien van de aangelegenheden die onder dit Protocol vallen. Deze organisaties doen de Depositaris tevens mededeling van iedere wezenlijke verandering in de reikwijdte van hun bevoegdheid.
+4. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=21&z=2009-09-23&g=2009-09-23) bedoelde regionale organisaties voor economische integratie de reikwijdte aan van hun bevoegdheid ten aanzien van de aangelegenheden die onder dit Protocol vallen. Deze organisaties doen de Depositaris tevens mededeling van iedere wezenlijke verandering in de reikwijdte van hun bevoegdheid.
 
 5. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
@@ -530,7 +530,7 @@ Dit Protocol staat op 17 juni 1999 ter gelegenheid van de Derde Ministeriële Co
 
 2. Voor de toepassing van het eerste lid van dit artikel wordt de door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast akten die zijn nedergelegd door de lidstaten van die organisatie.
 
-3. Ten aanzien van elke in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=21&z=1999-06-17&g=1999-06-17) bedoelde staat of organisatie die dit Protocol bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt het Protocol in werking op de negentigste dag na de datum van nederlegging door die staat of organisatie van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+3. Ten aanzien van elke in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=21&z=2009-09-23&g=2009-09-23) bedoelde staat of organisatie die dit Protocol bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt het Protocol in werking op de negentigste dag na de datum van nederlegging door die staat of organisatie van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
 ##### Artikel 24. Opzegging
 
