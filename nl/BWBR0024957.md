@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-09-15"
+last_updated: "2009-09-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -123,6 +123,7 @@ Besluit:
 | 3.20 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Polymeren innovatieprojecten) | [10.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10.15) |   | 15-05 t/m 01-10 | 900.000 |
 | 3.21 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (HighTech Topprojecten) | [10a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10a.2) |   | 19-06 t/m 17-07 | 100.000.000 |
 | 3.22 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (detachering kenniswerkers) | [10b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10b.2) | Onderzoeks- en detacheringsprojecten | Datum van inwerkingtreding van [artikel 10b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10b.2) t/m 10-07 | 134.300.000 |
+|   |   |   |   | datum van inwerkingtreding van de Regeling openstelling tweede tender kenniswerkers t/m 9–10 | 45.000.000 |
 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) |
 | 4 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) (Pieken in de delta) | [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&artikel=2.3) |   |   |   |
 |   |   |   | Oost-Nederland | 01-04 t/m 11-05 | 5.580.000 |
@@ -194,7 +195,7 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 
-2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-09-15&g=2009-09-15), is van overeenkomstige toepassing.
+2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-09-25&g=2009-09-25), is van overeenkomstige toepassing.
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
