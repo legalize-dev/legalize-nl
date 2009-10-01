@@ -4,7 +4,7 @@ identifier: "BWBR0024042"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-14"
-last_updated: "2009-01-01"
+last_updated: "2009-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024042"
 soort: "ministeriele-regeling"
@@ -84,55 +84,55 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Richtlijnen voor het invullen van de modellen en beveiligen waardepapier
 
-Richtlijnen voor het invullen van de in de navolgende artikelen genoemde modellen en beveiligen van het waardepapier zijn vastgelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=1&z=2009-01-01&g=2009-01-01).
+Richtlijnen voor het invullen van de in de navolgende artikelen genoemde modellen en beveiligen van het waardepapier zijn vastgelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=1&z=2009-01-01&g=2009-10-01).
 
 ##### Artikel 3. Modellen diploma’s vwo, havo en vmbo
 
-De modellen voor de diploma’s eindexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2a&z=2009-01-01&g=2009-01-01), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2b&z=2009-01-01&g=2009-01-01) en [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c&z=2009-01-01&g=2009-01-01) bij deze regeling.
+De modellen voor de diploma’s eindexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2a&z=2009-01-01&g=2009-10-01), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2b&z=2009-01-01&g=2009-10-01) en [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c&z=2009-01-01&g=2009-10-01) bij deze regeling.
 
 ##### Artikel 4. Modellen cijferlijsten vwo, havo en vmbo
 
-De modellen voor de cijferlijsten eindexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3a&z=2009-01-01&g=2009-01-01), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3b&z=2009-01-01&g=2009-01-01) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c&z=2009-01-01&g=2009-01-01) bij deze regeling.
+De modellen voor de cijferlijsten eindexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3a&z=2009-01-01&g=2009-10-01), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3b&z=2009-01-01&g=2009-10-01) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c&z=2009-01-01&g=2009-10-01) bij deze regeling.
 
 ##### Artikel 5. Modellen voorlopige cijferlijsten vwo, havo en vmbo
 
-De modellen voor de voorlopige cijferlijsten eindexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4a&z=2009-01-01&g=2009-01-01), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4b&z=2009-01-01&g=2009-01-01) en [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4c&z=2009-01-01&g=2009-01-01) bij deze regeling.
+De modellen voor de voorlopige cijferlijsten eindexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4a&z=2009-01-01&g=2009-10-01), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4b&z=2009-01-01&g=2009-10-01) en [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4c&z=2009-01-01&g=2009-10-01) bij deze regeling.
 
 ##### Artikel 6. Model certificaat vmbo
 
-Het model voor het certificaat voorbereidend middelbaar beroepsonderwijs wordt vastgesteld volgens [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=5&z=2009-01-01&g=2009-01-01) bij deze regeling.
+Het model voor het certificaat voorbereidend middelbaar beroepsonderwijs wordt vastgesteld volgens [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=5&z=2009-01-01&g=2009-10-01) bij deze regeling.
 
 ##### Artikel 7. Model getuigschrift basisberoepsgerichte leerweg vmbo
 
-Het model voor het getuigschrift basisberoepsgerichte leerweg van het voorbereidend middelbaar beroepsonderwijs wordt vastgesteld volgens [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=6&z=2009-01-01&g=2009-01-01) bij deze regeling.
+Het model voor het getuigschrift basisberoepsgerichte leerweg van het voorbereidend middelbaar beroepsonderwijs wordt vastgesteld volgens [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=6&z=2009-01-01&g=2009-10-01) bij deze regeling.
 
 ##### Artikel 8. Model getuigschrift praktijkonderwijs
 
-Het model voor het getuigschrift praktijkonderwijs wordt vastgesteld volgens [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=7&z=2009-01-01&g=2009-01-01) van deze regeling.
+Het model voor het getuigschrift praktijkonderwijs wordt vastgesteld volgens [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=7&z=2009-01-01&g=2009-10-01) van deze regeling.
 
 ##### Artikel 9. Modellen vavo cijferlijsten deeleindexamen en certificaten vwo, havo en theoretische leerweg vmbo
 
 De modellen voor:
 
-- a. de cijferlijsten deeleindexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs (theoretische leerweg) worden vastgesteld volgens respectievelijk de [bijlagen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8a&z=2009-01-01&g=2009-01-01), [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8b&z=2009-01-01&g=2009-01-01) en [8c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8c&z=2009-01-01&g=2009-01-01) bij deze regeling;
+- a. de cijferlijsten deeleindexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs (theoretische leerweg) worden vastgesteld volgens respectievelijk de [bijlagen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8a&z=2009-01-01&g=2009-10-01), [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8b&z=2009-01-01&g=2009-10-01) en [8c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=8c&z=2009-01-01&g=2009-10-01) bij deze regeling;
 
-- b. de certificaten voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs (theoretische leerweg) worden vastgesteld volgens respectievelijk de [bijlagen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9a&z=2009-01-01&g=2009-01-01), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9b&z=2009-01-01&g=2009-01-01) en [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9c&z=2009-01-01&g=2009-01-01) bij deze regeling.
+- b. de certificaten voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs (theoretische leerweg) worden vastgesteld volgens respectievelijk de [bijlagen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9a&z=2009-01-01&g=2009-10-01), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9b&z=2009-01-01&g=2009-10-01) en [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9c&z=2009-01-01&g=2009-10-01) bij deze regeling.
 
 ##### Artikel 10. Modellen staatsexamen diploma’s, certificaten en cijferlijsten vwo, havo en vmbo
 
 De modellen voor:
 
-- a. de diploma’s staatsexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10a&z=2009-01-01&g=2009-01-01), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10b&z=2009-01-01&g=2009-01-01) en [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10c&z=2009-01-01&g=2009-01-01) bij deze regeling;
+- a. de diploma’s staatsexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10a&z=2009-01-01&g=2009-10-01), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10b&z=2009-01-01&g=2009-10-01) en [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10c&z=2009-01-01&g=2009-10-01) bij deze regeling;
 
-- b. de cijferlijsten staatsexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11a&z=2009-01-01&g=2009-01-01), [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11b&z=2009-01-01&g=2009-01-01) en [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c&z=2009-01-01&g=2009-01-01) bij deze regeling;
+- b. de cijferlijsten staatsexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11a&z=2009-01-01&g=2009-10-01), [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11b&z=2009-01-01&g=2009-10-01) en [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c&z=2009-01-01&g=2009-10-01) bij deze regeling;
 
-- c. de cijferlijsten deelstaatsexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12a&z=2009-01-01&g=2009-01-01), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12b&z=2009-01-01&g=2009-01-01) en [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12c&z=2009-01-01&g=2009-01-01) bij deze regeling;
+- c. de cijferlijsten deelstaatsexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12a&z=2009-01-01&g=2009-10-01), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12b&z=2009-01-01&g=2009-10-01) en [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=12c&z=2009-01-01&g=2009-10-01) bij deze regeling;
 
-- d. de certificaten staatsexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13a&z=2009-01-01&g=2009-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13b&z=2009-01-01&g=2009-01-01) en [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13c&z=2009-01-01&g=2009-01-01) bij deze regeling.
+- d. de certificaten staatsexamen voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs worden vastgesteld volgens respectievelijk de [bijlagen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13a&z=2009-01-01&g=2009-10-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13b&z=2009-01-01&g=2009-10-01) en [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=13c&z=2009-01-01&g=2009-10-01) bij deze regeling.
 
 ##### Artikel 11. Bewijs van ontheffing
 
-Het model voor het bewijs van ontheffing ten behoeve van het voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs en de bijbehorende verklaring worden vastgesteld volgens respectievelijk de [bijlagen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=14a&z=2009-01-01&g=2009-01-01) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=14b&z=2009-01-01&g=2009-01-01) bij deze regeling.
+Het model voor het bewijs van ontheffing ten behoeve van het voorbereidend wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs en voorbereidend middelbaar beroepsonderwijs en de bijbehorende verklaring worden vastgesteld volgens respectievelijk de [bijlagen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=14a&z=2009-01-01&g=2009-10-01) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=14b&z=2009-01-01&g=2009-10-01) bij deze regeling.
 
 ##### Artikel 12. Intrekking voorafgaande bepalingen
 
@@ -150,7 +150,7 @@ Het model voor het bewijs van ontheffing ten behoeve van het voorbereidend weten
 
 - a). een diploma hoger algemeen voortgezet onderwijs volgens die voorschriften voor het eerst in 2009 en een diploma voorbereidend wetenschappelijk onderwijs volgens die voorschriften, voor het eerst in 2010 kan worden verstrekt;
 
-- b). [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&artikel=5&z=2009-01-01&g=2009-01-01) tevens van toepassing is op de examens volgens de bij of krachtens de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) gegeven voorschriften zoals luidend tot en met 31 juli 2007.
+- b). [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&artikel=5&z=2009-01-01&g=2009-10-01) tevens van toepassing is op de examens volgens de bij of krachtens de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) gegeven voorschriften zoals luidend tot en met 31 juli 2007.
 
 ##### Artikel 14. Citeertitel
 
@@ -192,7 +192,7 @@ De afgifte van cijferlijsten is voor scholen voor voortgezet onderwijs en instel
 
 Op de cijferlijst voor het eindexamen/staatsexamen wordt/worden in de cijfer-/beoordelingstabel voor zover van toepassing vermeld:
 
-Deze regeling wijzigt het tekstgedeelte boven de cijfer-/beoordelingstabel van de cijferlijst van het eindexamen/staatsexamen ten opzichte van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&artikel=12&z=2009-01-01&g=2009-01-01) genoemde regelingen. De slotzin: ‘De kandidaat heeft examen afgelegd in de onderstaande vakken en heeft de daarachter vermelde cijfers behaald.’, vervalt ([bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3a&z=2009-01-01&g=2009-01-01), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3b&z=2009-01-01&g=2009-01-01) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c&z=2009-01-01&g=2009-01-01)/[11a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11a&z=2009-01-01&g=2009-01-01), [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11b&z=2009-01-01&g=2009-01-01) en [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c&z=2009-01-01&g=2009-01-01)). Deze verwijdering levert extra ruimte op.
+Deze regeling wijzigt het tekstgedeelte boven de cijfer-/beoordelingstabel van de cijferlijst van het eindexamen/staatsexamen ten opzichte van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&artikel=12&z=2009-01-01&g=2009-10-01) genoemde regelingen. De slotzin: ‘De kandidaat heeft examen afgelegd in de onderstaande vakken en heeft de daarachter vermelde cijfers behaald.’, vervalt ([bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3a&z=2009-01-01&g=2009-10-01), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3b&z=2009-01-01&g=2009-10-01) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c&z=2009-01-01&g=2009-10-01)/[11a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11a&z=2009-01-01&g=2009-10-01), [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11b&z=2009-01-01&g=2009-10-01) en [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=11c&z=2009-01-01&g=2009-10-01)). Deze verwijdering levert extra ruimte op.
 
 ### **Extra vakken**
 
