@@ -4,7 +4,7 @@ identifier: "BWBR0024005"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-09-28"
+last_updated: "2009-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024005"
 soort: "ministeriele-regeling"
@@ -66,9 +66,9 @@ In deze regeling wordt verstaan onder:
 
 1. Het bedrag waarmee het aantal te bekostigen graden wordt vermenigvuldigd, bedoeld in [artikel 4.9, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.9), is € 19.915,71;
 
-2. De factoren waarmee de onderwijsvraag van de door de desbetreffende hogescholen verzorgde opleidingen wordt vermenigvuldigd, bedoeld in [artikel 4.12, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.12), worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=1&z=2009-09-28&g=2009-09-28) bij deze regeling.
+2. De factoren waarmee de onderwijsvraag van de door de desbetreffende hogescholen verzorgde opleidingen wordt vermenigvuldigd, bedoeld in [artikel 4.12, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.12), worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=1&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
-3. Wat wordt verstaan onder ‘de opleiding of dezelfde opleiding aan een andere hogeschool’, bedoeld in [artikel 4.17, derde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.17), wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=2&z=2009-09-28&g=2009-09-28) bij deze regeling.
+3. Wat wordt verstaan onder ‘de opleiding of dezelfde opleiding aan een andere hogeschool’, bedoeld in [artikel 4.17, derde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.17), wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=2&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
 4. Indien een hogeschool is ontstaan uit een fusie van twee of meer hogescholen die voor het begin van het begrotingsjaar, maar na de peildatum heeft plaatsgevonden, is de instelling-gewogen onderwijsvraag, bedoeld in [artikel 4.12, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.12), gelijk aan de som van de instelling-gewogen onderwijsvraag van de op de peildatum bestaande hogescholen.
 
@@ -76,15 +76,15 @@ In deze regeling wordt verstaan onder:
 
 1. De onderwijsopslag van een universiteit, bedoeld in [artikel 4.10 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.10), bestaat uit:
 
-- a. het bedrag, bedoeld in [artikel 4.10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.10), dat voor de desbetreffende universiteit is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=3&z=2009-09-28&g=2009-09-28) bij deze regeling, en
+- a. het bedrag, bedoeld in [artikel 4.10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.10), dat voor de desbetreffende universiteit is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=3&z=2009-10-01&g=2009-10-01) bij deze regeling, en
 
-- b. het percentage, bedoeld in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.10), dat voor de desbetreffende universiteit is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=4&z=2009-09-28&g=2009-09-28) bij deze regeling.
+- b. het percentage, bedoeld in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.10), dat voor de desbetreffende universiteit is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=4&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
 2. De onderwijsopslag van een hogeschool, bedoeld in [artikel 4.19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.19), bestaat uit:
 
-- a. het bedrag, bedoeld in [artikel 4.19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.19), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=5&z=2009-09-28&g=2009-09-28) bij deze regeling, en
+- a. het bedrag, bedoeld in [artikel 4.19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.19), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=5&z=2009-10-01&g=2009-10-01) bij deze regeling, en
 
-- b. het percentage, bedoeld in [artikel 4.19, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.19), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=6&z=2009-09-28&g=2009-09-28) bij deze regeling.
+- b. het percentage, bedoeld in [artikel 4.19, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.19), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=6&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
 3. Indien in een begrotingsjaar een onderwijsdeel wo of hbo, bedoeld in [artikel 4.2, derde of vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.2) wordt verhoogd vanwege loon- en prijsbijstelling, wordt het met de verhoging gemoeide bedrag verdeeld over de instellingen evenredig met de verdeling van de landelijk beschikbare bijdrage zoals bepaald zonder deze verhoging, en toegevoegd aan de onderwijsopslag van de instelling.
 
@@ -94,9 +94,9 @@ In deze regeling wordt verstaan onder:
 
 1. Het bedrag waarmee het aantal te bekostigde graden wordt vermenigvuldigd, bedoeld in [artikel 4.20, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.20) is € 3.111,04.
 
-2. De bedragen bedoeld in [artikel 4.23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), worden vastgesteld overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2009-09-28&g=2009-09-28) bij deze regeling.
+2. De bedragen bedoeld in [artikel 4.23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), worden vastgesteld overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
-3. De verdeling bedoeld in [artikel 4.23, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), wordt vastgesteld overeenkomstig [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=8&z=2009-09-28&g=2009-09-28) bij deze regeling.
+3. De verdeling bedoeld in [artikel 4.23, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), wordt vastgesteld overeenkomstig [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=8&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
 #### Paragraaf 4. Academische ziekenhuizen
 
@@ -126,7 +126,7 @@ Het rentepercentage bedoeld in [artikel 4.25, vierde lid van het besluit](https:
 
 ##### Artikel 6. Bedragen academische ziekenhuizen
 
-Het bedrag, bedoeld in [artikel 4.27, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), wordt vastgesteld overeenkomstig [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=9&z=2009-09-28&g=2009-09-28) bij deze regeling.
+Het bedrag, bedoeld in [artikel 4.27, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), wordt vastgesteld overeenkomstig [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=9&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
 ##### Artikel 7. Toelage raad van toezicht academische ziekenhuizen
 
@@ -140,9 +140,9 @@ Onder consumentenprijsindex, als bedoeld in [artikel 7.43, vierde lid, van de we
 
 ##### Artikel 9. Vaststelling collegegeld
 
-1. De bedragen, genoemd in [artikel 7.43, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43) worden voor het studiejaar 2009–2010 aan de hand van de consumentenprijsindex, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=5&artikel=8&z=2009-09-28&g=2009-09-28), vastgesteld op € 1.620.
+1. De bedragen, genoemd in [artikel 7.43, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43) worden voor het studiejaar 2009–2010 aan de hand van de consumentenprijsindex, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=5&artikel=8&z=2009-10-01&g=2009-10-01), vastgesteld op € 1.620.
 
-2. De bedragen, genoemd in [artikel 7.43, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43) worden voor het studiejaar 2010–2011 aan de hand van de consumentenprijsindex, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=5&artikel=8&z=2009-09-28&g=2009-09-28), vastgesteld op € 1.672.
+2. De bedragen, genoemd in [artikel 7.43, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.43) worden voor het studiejaar 2010–2011 aan de hand van de consumentenprijsindex, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=5&artikel=8&z=2009-10-01&g=2009-10-01), vastgesteld op € 1.672.
 
 #### Paragraaf 6. Financiële ondersteuning en toelagen
 
@@ -164,9 +164,9 @@ Onder consumentenprijsindex, als bedoeld in [artikel 7.43, vierde lid, van de we
 
 ##### Artikel 11. Vertegenwoordigers
 
-1. Het bestuur van een organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2009-09-28&g=2009-09-28), wijst de vertegenwoordiger of vertegenwoordigers aan die voor de financiële ondersteuning tijdens een studiejaar in aanmerking komen. Van die aanwijzing doet dat bestuur mededeling aan de Minister vóór 1 november van het desbetreffende studiejaar.
+1. Het bestuur van een organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2009-10-01&g=2009-10-01), wijst de vertegenwoordiger of vertegenwoordigers aan die voor de financiële ondersteuning tijdens een studiejaar in aanmerking komen. Van die aanwijzing doet dat bestuur mededeling aan de Minister vóór 1 november van het desbetreffende studiejaar.
 
-2. Financiële ondersteuning wordt gegeven tot ten hoogste het bedrag voor het gehele studiejaar voor vijf vertegenwoordigers van een organisatie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2009-09-28&g=2009-09-28), en voor een vertegenwoordiger van een organisatie bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2009-09-28&g=2009-09-28).
+2. Financiële ondersteuning wordt gegeven tot ten hoogste het bedrag voor het gehele studiejaar voor vijf vertegenwoordigers van een organisatie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2009-10-01&g=2009-10-01), en voor een vertegenwoordiger van een organisatie bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2009-10-01&g=2009-10-01).
 
 3. Indien is voldaan aan het bepaalde in het eerste lid en financiële ondersteuning wordt toegekend, maakt de Minister deze beslissing aan de desbetreffende organisaties bekend en zendt van die bekendmaking een afschrift aan de vertegenwoordiger.
 
@@ -176,7 +176,7 @@ Onder consumentenprijsindex, als bedoeld in [artikel 7.43, vierde lid, van de we
 
 ##### Artikel 12. Aanspraak
 
-1. De vertegenwoordiger heeft, behoudens het tweede lid, gedurende het tijdvak waarvoor de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=12&z=2009-09-28&g=2009-09-28) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
+1. De vertegenwoordiger heeft, behoudens het tweede lid, gedurende het tijdvak waarvoor de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=12&z=2009-10-01&g=2009-10-01) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
 
 2. Indien het bestuur van een organisatie na intrekking van de eerste aanwijzing een andere vertegenwoordiger aanwijst, heeft deze met ingang van de eerste volle maand na zijn aanwijzing aanspraak op financiële ondersteuning.
 
@@ -192,7 +192,7 @@ Onder consumentenprijsindex, als bedoeld in [artikel 7.43, vierde lid, van de we
 
 2. De toekenning van de financiële ondersteuning vindt plaats per maand.
 
-3. In geval van toepassing van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=12&z=2009-09-28&g=2009-09-28), wordt het in het eerste lid vermelde bedrag aangepast naar de maatstaven die gelden op het tijdstip van toekenning.
+3. In geval van toepassing van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=12&z=2009-10-01&g=2009-10-01), wordt het in het eerste lid vermelde bedrag aangepast naar de maatstaven die gelden op het tijdstip van toekenning.
 
 ##### Artikel 14. Grensbedrag vrijstellingsregeling Open Universiteit
 
@@ -210,9 +210,9 @@ Het instellingsbestuur van de Open Universiteit stelt een regeling vast, bedoeld
 
 1. Het CRI-HO bevat gegevens over de inschrijving als student of extraneus.
 
-2. Instellingsbesturen verstrekken bij de mededeling van hun beslissingen als bedoeld in [artikel 7.52, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52) de gegevens conform [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2009-09-28&g=2009-09-28).
+2. Instellingsbesturen verstrekken bij de mededeling van hun beslissingen als bedoeld in [artikel 7.52, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52) de gegevens conform [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2009-10-01&g=2009-10-01).
 
-3. In afwijking van het tweede lid worden de gegevens, bedoeld in [bijlage 10, onderdelen c. tot en met g., onderdeel o. en onderdelen v. tot en met x.](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2009-09-28&g=2009-09-28), door de gemeente uit de basisadministratie persoonsgegevens verstrekt. Deze verstrekking geschiedt binnen vier weken na de dag van verzending van het verzoek om inlichtingen door Informatie Beheer Groep. Informatie Beheer Groep kan bij het verzoek om inlichtingen aangeven hoe de overdracht van informatie moet plaatsvinden.
+3. In afwijking van het tweede lid worden de gegevens, bedoeld in [bijlage 10, onderdelen c. tot en met g., onderdeel o. en onderdelen v. tot en met x.](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2009-10-01&g=2009-10-01), door de gemeente uit de basisadministratie persoonsgegevens verstrekt. Deze verstrekking geschiedt binnen vier weken na de dag van verzending van het verzoek om inlichtingen door Informatie Beheer Groep. Informatie Beheer Groep kan bij het verzoek om inlichtingen aangeven hoe de overdracht van informatie moet plaatsvinden.
 
 4. Indien de gemeente de gegevens, bedoeld in het derde lid niet kan verstrekken, verzoekt Informatie Beheer Groep het instellingsbestuur deze gegevens te verstrekken. Deze verstrekking geschiedt binnen vier weken na de dag van verzending van het verzoek om inlichtingen door Informatie Beheer Groep.
 
@@ -224,7 +224,7 @@ Het instellingsbestuur van de Open Universiteit stelt een regeling vast, bedoeld
 
 ##### Artikel 17. Beheer
 
-1. De in het CRI-HO opgenomen gegevens worden gedurende vijftig jaren bewaard. Na het verstrijken van deze termijn worden zij uit het CRI-HO verwijderd. Indien aan Informatie Beheer Groep bekend is geworden dat de geregistreerde persoon is overleden, worden de gegevens, bedoeld in [bijlage 10, onderdelen c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2009-09-28&g=2009-09-28), verwijderd binnen twee jaren na het bekend worden van het overlijden.
+1. De in het CRI-HO opgenomen gegevens worden gedurende vijftig jaren bewaard. Na het verstrijken van deze termijn worden zij uit het CRI-HO verwijderd. Indien aan Informatie Beheer Groep bekend is geworden dat de geregistreerde persoon is overleden, worden de gegevens, bedoeld in [bijlage 10, onderdelen c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2009-10-01&g=2009-10-01), verwijderd binnen twee jaren na het bekend worden van het overlijden.
 
 2. Ter uitvoering van [artikel 7.52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52), en [artikel 2.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.10) worden uit het CRI-HO gegevens verstrekt aan de accountant die door de Minister is belast met de taken, bedoeld in die artikelen.
 
@@ -252,21 +252,21 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 19. Inwerkingtreding
 
-1. Deze regeling treedt, met uitzondering van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2009-09-28&g=2009-09-28), [artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8&artikel=18&z=2009-09-28&g=2009-09-28), en [bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2009-09-28&g=2009-09-28), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt, met uitzondering van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2009-09-28&g=2009-09-28), terug tot en met 1 januari 2008.
+1. Deze regeling treedt, met uitzondering van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2009-10-01&g=2009-10-01), [artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8&artikel=18&z=2009-10-01&g=2009-10-01), en [bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2009-10-01&g=2009-10-01), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt, met uitzondering van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2009-10-01&g=2009-10-01), terug tot en met 1 januari 2008.
 
-2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2009-09-28&g=2009-09-28), werkt terug tot en met 1 januari 2007.
+2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2009-10-01&g=2009-10-01), werkt terug tot en met 1 januari 2007.
 
-3. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2009-09-28&g=2009-09-28) treedt in werking met ingang van 1 september 2008.
+3. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2009-10-01&g=2009-10-01) treedt in werking met ingang van 1 september 2008.
 
-4. [Artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8&artikel=18&z=2009-09-28&g=2009-09-28), treedt in werking met ingang van 1 september 2008.
+4. [Artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8&artikel=18&z=2009-10-01&g=2009-10-01), treedt in werking met ingang van 1 september 2008.
 
-5. [Bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2009-09-28&g=2009-09-28), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, treedt in werking met ingang van 1 oktober 2009.
+5. [Bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2009-10-01&g=2009-10-01), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, treedt in werking met ingang van 1 oktober 2009.
 
 ##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 
-## Bijlage 1. (behorend bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=2&z=2009-09-28&g=2009-09-28))
+## Bijlage 1. (behorend bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=2&z=2009-10-01&g=2009-10-01))
 
 | code | hogeschool | hogeschool | factor |
 | --- | --- | --- | --- |
@@ -326,7 +326,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 24LE | Van Hall Instituut | 9,9719 |
 | 27PZ | Hogeschool INHOLLAND | 8,0411 |
 
-## Bijlage 2. bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=2&z=2009-09-28&g=2009-09-28)
+## Bijlage 2. bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=2&z=2009-10-01&g=2009-10-01)
 
 | opleiding | opleiding | andere opleidingen die worden beschouwd als ‘de opleiding of dezelfde opleiding bij een andere hogeschool’ | andere opleidingen die worden beschouwd als ‘de opleiding of dezelfde opleiding bij een andere hogeschool’ |
 | --- | --- | --- | --- |
@@ -408,7 +408,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 34733 | film en televisie | 04699 | beeldende kunst en vormgeving |
 |   |   | 04733 | film en televisie / film- en tv-vormgeving |
 
-## Bijlage 3. bij [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2009-09-28&g=2009-09-28)
+## Bijlage 3. bij [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2009-10-01&g=2009-10-01)
 
 | Universiteit | Universiteit |   |   |   | Totaalbedrag |
 | --- | --- | --- | --- | --- | --- |
@@ -431,7 +431,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 23BF | Universiteit voor Humanistiek | € 38.491 |   | € 1.427.231 | € 1.465.722 |
 |   | Totaal | € 33.655.167 | € 226.212.824 | € 60.169.581 | € 320.037.572 |
 
-## Bijlage 4. bij [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2009-09-28&g=2009-09-28)
+## Bijlage 4. bij [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2009-10-01&g=2009-10-01)
 
 | Universiteit | Universiteit | Percentage |
 | --- | --- | --- |
@@ -452,7 +452,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 21QO | Theologische Universiteit Apeldoorn | 0,0000% |
 | 23BF | Universiteit voor Humanistiek | 0,0000% |
 
-## Bijlage 5. bij [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2009-09-28&g=2009-09-28)
+## Bijlage 5. bij [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2009-10-01&g=2009-10-01)
 
 | Hogeschool | Hogeschool | Kwaliteit | Kwetsbare opleidingen | Bijzondere voorzieningen | Totaalbedrag |
 | --- | --- | --- | --- | --- | --- |
@@ -514,7 +514,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 27PZ | Hogeschool INHolland | € 200.594 | € 0 | € 0 | € 200.594 |
 |   | Totaal | € 2.813.000 | € 13.614 | € 243.482 | € 3.070.096 |
 
-## Bijlage 6. bij [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2009-09-28&g=2009-09-28)
+## Bijlage 6. bij [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2009-10-01&g=2009-10-01)
 
 | code | hogeschool | percentage |
 | --- | --- | --- |
@@ -574,7 +574,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 24LE | Van Hall Instituut | 7,5656% |
 | 27PZ | Hogeschool INHolland | 3,7174% |
 
-## Bijlage 7. bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2009-09-28&g=2009-09-28)
+## Bijlage 7. bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2009-10-01&g=2009-10-01)
 
 | Universiteit | Universiteit | Afbouw dynamisering Smart Mix | Bijzondere voorzieningen | Totaalbedrag |
 | --- | --- | --- | --- | --- |
@@ -596,7 +596,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 23BF | Universiteit voor Humanistiek |   | € 1.338.993 | € 1.338.993 |
 |   | Totaal | € 39.999.990 | € 43.474.005 | € 83.474.007 |
 
-## Bijlage 8. bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2009-09-28&g=2009-09-28)
+## Bijlage 8. bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2009-10-01&g=2009-10-01)
 
 | universiteit | universiteit | percentage |
 | --- | --- | --- |
@@ -617,7 +617,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 21QO | Theologische Universiteit Apeldoorn | 0,00000% |
 | 23BF | Universiteit voor Humanistiek | 0,00000% |
 
-## Bijlage 9. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2009-09-28&g=2009-09-28)
+## Bijlage 9. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2009-10-01&g=2009-10-01)
 
 | Universiteit | Universiteit | Bedrag |
 | --- | --- | --- |
@@ -631,7 +631,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 21PM | Radboud Universiteit Nijmegen | € 13.042.704 |
 |   | Totaal | € 112.792.710 |
 
-## Bijlage 10. bij [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=7&artikel=15&z=2009-09-28&g=2009-09-28)
+## Bijlage 10. bij [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=7&artikel=15&z=2009-10-01&g=2009-10-01)
 
 | a. | het OCW-correspondentienummer; |
 | --- | --- |
@@ -656,13 +656,13 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | t. | of de inschrijving of de graad om een alleen door de instelling te bepalen reden niet voor bekostiging meetelt, indien dit conform de aanwijzingen van Informatie Beheergroep mag en volgens overige regelgeving moet; |
 | u. | het geboorteland van de student of extraneus, van de vader en van de moeder; |
 | v. | de regionale herkomst; |
-| w. | dit onderdeel is nog niet in werking getreden; |
+| w. | in geval van een verblijfsvergunning: een verblijfsvergunning bedoeld in [artikel 2.2, eerste lid, van de Wet Studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2). |
 |   |   |
 | x. | of sprake is van een met goed gevolg afgelegd propedeutisch examen. |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 11. bij [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2009-12-08&g=2009-09-28)
+## Bijlage 11. bij [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2009-12-08&g=2009-10-01)
 
 | Hogeschool | Hogeschool | bedrag |
 | --- | --- | --- |
