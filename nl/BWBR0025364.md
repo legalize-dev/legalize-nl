@@ -187,19 +187,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 Deze wet wordt aangehaald als: Wet College voor examens.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 9
-
-Wijzigt de Wet educatie en beroepsonderwijs.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 3a
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 9
-
-Wijzigt de Wet educatie en beroepsonderwijs.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
