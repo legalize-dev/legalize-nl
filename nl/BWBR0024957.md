@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-09-25"
+last_updated: "2009-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ Besluit:
 | 1.10 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (Veiligheid kleine bedrijven) | [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=9.2) |   | 01-02 t/m 31/08 | € 7.500.000 |
 | 1.11 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving)(Veiligheid kleine bedrijven) | [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=9.2) |   | 01-09 t/m 31-12 | € 11.500.000 |
 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) |
-| 2.1 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (Eurostars-projecten) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=2.2) |   | 16-03 t/m 30-03 | 2.000.000 |
+| 2.1 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (Eurostars-projecten) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=2.2) |   | 16-03 t/m 30-03 | 2.812.000 |
 | 2.2a | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatiekredieten) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.2) | Klinische ontwikkelingsprojecten | 01-01 t/m 31-12 | 12.500.000 |
 | 2.2b | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatiekredieten) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.2) | Technische ontwikkelingsprojecten | 01-01 t/m 31-12 | 25.000.000 |
 | 2.3 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatieprestatiecontracten) | [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.3) |   | 15-01 t/m 31-12 | 1.000.000 |
@@ -77,8 +77,8 @@ Besluit:
 | 2.9 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (pilot private innovatievouchers) | [5a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.3) | Aantal beschikbare kleine innovatievouchers | 11-05 t/m 01-07 10-09 t/m 31-12 | 250 stuks 250 stuks |
 | 2.10 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatie voor maatschappelijke veiligheid) | [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=6.2) |   | 29/07 t/m 11/09 | € 1.500.000 |
 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) |
-| 3.1 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationaal innoveren) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten | 01-01 t/m 06-03 15-06 t/m 03-07 | 5.000.000 4.000.000 |
-| 3.2 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationaal innoveren) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Opkomende markten innovatieprojecten | 01-01 t/m 06-03 15-06 t/m 03-07 | 2.800.000 3.200.000 |
+| 3.1 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationaal innoveren) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten | 01-01 t/m 06-03 15-06 t/m 03-07 01-10 t/m 31-12 | 5.000.000 4.000.000 4.500.000 |
+| 3.2 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationaal innoveren) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Opkomende markten innovatieprojecten | 01-01 t/m 06-03 15-06 t/m 03-07 01-10 t/m 31-12 | 2.800.000 3.200.000 3.000.000 |
 | 3.3 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (IOP’s) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=3.2) |   | – | – |
 |   |   |   | Genomics (periode vooraanmelding) | 01-09 t/m 17-09 | – |
 |   |   |   | Genomics |   |   |
@@ -195,7 +195,7 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 
-2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-09-25&g=2009-09-25), is van overeenkomstige toepassing.
+2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-10-01&g=2009-10-01), is van overeenkomstige toepassing.
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
