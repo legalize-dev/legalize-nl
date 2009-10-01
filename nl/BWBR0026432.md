@@ -4,7 +4,7 @@ identifier: "BWBR0026432"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-10-01"
-last_updated: "2009-09-26"
+last_updated: "2009-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026432"
 soort: "ministeriele-regeling"
@@ -55,35 +55,35 @@ Aan de directeur Projecten van ProRail wordt mandaat verleend om namens de Minis
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de directeur Projecten van ProRail wordt mandaat verleend om namens de Minister besluiten te nemen inzake de verschuldigdheid en de hoogte van de dwangsom bij niet tijdig beslissen op verzoeken als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=2&z=2009-10-01&g=2009-10-01), met uitzondering van het beslissen op bezwaarschriften tegen voornoemde besluiten.
 
 ##### Artikel 4
 
-1. De directeur Projecten van ProRail kan schriftelijk ondermandaat verlenen om bij zijn afwezigheid zijn in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=2&z=2009-09-26&g=2009-09-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=3&z=2009-09-26&g=2009-09-26) bedoelde bevoegdheid te laten uitoefenen door een plaatsvervanger.
+1. De directeur Projecten van ProRail kan schriftelijk ondermandaat verlenen om bij zijn afwezigheid zijn in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=2&z=2009-10-01&g=2009-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=3&z=2009-10-01&g=2009-10-01) bedoelde bevoegdheid te laten uitoefenen door een plaatsvervanger.
 
 2. Van een ondermandaat als bedoeld in het eerste lid wordt schriftelijk kennis gegeven aan de Minister.
 
 ##### Artikel 5
 
-Bij de uitoefening van het mandaat neemt de directeur Projecten van ProRail, alsmede de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=4&z=2009-09-26&g=2009-09-26), bedoelde persoon, de in de bijlage bij dit besluit opgenomen algemene instructie in acht.
+Bij de uitoefening van het mandaat neemt de directeur Projecten van ProRail, alsmede de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=4&z=2009-10-01&g=2009-10-01), bedoelde persoon, de in de bijlage bij dit besluit opgenomen algemene instructie in acht.
 
 ##### Artikel 6
 
-Aan de President-directeur van ProRail wordt mandaat verleend om namens de Minister te beslissen op bezwaar tegen besluiten op grond van [Regeling Nadeelcompensatie Betuweroute](https://wetten.overheid.nl/jci1.3:c:BWBR0008228) als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=2&z=2009-09-26&g=2009-09-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=3&z=2009-09-26&g=2009-09-26).
+Aan de President-directeur van ProRail wordt mandaat verleend om namens de Minister te beslissen op bezwaar tegen besluiten op grond van [Regeling Nadeelcompensatie Betuweroute](https://wetten.overheid.nl/jci1.3:c:BWBR0008228) als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=2&z=2009-10-01&g=2009-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=3&z=2009-10-01&g=2009-10-01).
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de President-directeur van ProRail wordt mandaat verleend om namens de Minister besluiten te nemen inzake de verschuldigdheid en hoogte van de dwangsom bij niet tijdig beslissen op bezwaar tegen met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=2&z=2009-10-01&g=2009-10-01) genomen besluiten.
 
 ##### Artikel 8
 
-1. De President-directeur van ProRail kan schriftelijk ondermandaat verlenen om bij zijn afwezigheid zijn in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=6&z=2009-09-26&g=2009-09-26) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=7&z=2009-09-26&g=2009-09-26) bedoelde bevoegdheid te laten uitoefenen door een plaatsvervanger.
+1. De President-directeur van ProRail kan schriftelijk ondermandaat verlenen om bij zijn afwezigheid zijn in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=6&z=2009-10-01&g=2009-10-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=7&z=2009-10-01&g=2009-10-01) bedoelde bevoegdheid te laten uitoefenen door een plaatsvervanger.
 
 2. Van een ondermandaat als bedoeld in het eerste lid wordt schriftelijk kennis gegeven aan de Minister.
 
 ##### Artikel 9
 
-Bij de uitoefening van zijn mandaat neemt de President-directeur van ProRail of de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=8&z=2009-09-26&g=2009-09-26), bedoelde persoon de in de bijlage bij dit besluit opgenomen algemene instructie in acht.
+Bij de uitoefening van zijn mandaat neemt de President-directeur van ProRail of de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=8&z=2009-10-01&g=2009-10-01), bedoelde persoon de in de bijlage bij dit besluit opgenomen algemene instructie in acht.
 
 ##### Artikel 10
 
@@ -91,9 +91,9 @@ Het [Besluit mandaat Regeling Nadeelcompensatie Betuweroute](https://wetten.over
 
 ##### Artikel 11
 
-1. Dit besluit treedt, met uitzondering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=3&z=2009-09-26&g=2009-09-26) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=7&z=2009-09-26&g=2009-09-26), in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
+1. Dit besluit treedt, met uitzondering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=3&z=2009-10-01&g=2009-10-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=7&z=2009-10-01&g=2009-10-01), in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-2. Indien het bij koninklijke boodschap van 14 december 2004 ingediende voorstel van [wet tot aanvulling van de Algemene wet bestuursrecht met de mogelijkheid van dwangsom bij niet tijdig beslissen door een bestuursorgaan (Wet dwangsom bij niet tijdig beslissen](https://wetten.overheid.nl/jci1.3:c:BWBR0026450), 29934, nadat het tot wet is verheven, in werking treedt, treden de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=3&z=2009-09-26&g=2009-09-26) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=7&z=2009-09-26&g=2009-09-26), op hetzelfde tijdstip in werking.
+2. Indien het bij koninklijke boodschap van 14 december 2004 ingediende voorstel van [wet tot aanvulling van de Algemene wet bestuursrecht met de mogelijkheid van dwangsom bij niet tijdig beslissen door een bestuursorgaan (Wet dwangsom bij niet tijdig beslissen](https://wetten.overheid.nl/jci1.3:c:BWBR0026450), 29934, nadat het tot wet is verheven, in werking treedt, treden de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=3&z=2009-10-01&g=2009-10-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0026432&artikel=7&z=2009-10-01&g=2009-10-01), op hetzelfde tijdstip in werking.
 
 ## Bijlage.. Algemene instructie uitoefening mandaat
 
