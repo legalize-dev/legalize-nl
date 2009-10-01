@@ -4,7 +4,7 @@ identifier: "BWBR0020183"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2009-03-13"
+last_updated: "2009-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020183"
 soort: "AMvB"
@@ -126,25 +126,25 @@ waarbij:
 
 - a. m het aantal inwoners in de gemeente is, verminderd met 25.000 en vervolgens gedeeld door 15.000;
 
-- b. O de objectief vastgestelde gemeentelijke bijstandskosten voor personen jonger dan 65 jaar zijn;
+- b. O de objectief vastgestelde kosten, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) voor personen jonger dan 65 jaar zijn;
 
 - c. K64 de gemeentelijke bijstandslasten 2007 voor personen jonger dan 65 jaar zijn.
 
 ##### Artikel 7. Berekening budgetgrondslag grote gemeenten
 
-Voor gemeenten met 40.000 inwoners of meer is de budgetgrondslag voor personen jonger dan 65 jaar gelijk aan de objectief vastgestelde bijstandskosten voor personen jonger dan 65 jaar.
+Voor gemeenten met 40.000 inwoners of meer is de budgetgrondslag voor personen jonger dan 65 jaar gelijk aan de objectief vastgestelde kosten, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) voor personen jonger dan 65 jaar.
 
 ##### Artikel 8. Objectief verdeelmodel en macrobudget
 
-1. Aan de hand van het verdeelmodel dat is opgenomen in bijlage 1 bij dit besluit worden de objectief vastgestelde gemeentelijke bijstandskosten voor personen jonger dan 65 jaar vastgesteld.
+1. Aan de hand van het verdeelmodel dat is opgenomen in bijlage 1 bij dit besluit worden de objectief vastgestelde kosten, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) voor personen jonger dan 65 jaar vastgesteld.
 
 2. Het totale bedrag dat beschikbaar is voor de inkomensdelen van de gemeenten betreft: TB64 + TB65.
 
 ##### Artikel 8a. Samenwerkingsverbanden
 
-1. Indien niet van alle gemeenten de bijlage bij de jaarrekening met verantwoordingsinformatie over specifieke uitkeringen, bedoeld in [artikel 58a, eerste lid, van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a), voor zover deze betrekking heeft op de uitvoering van de wet over 2007, en de daarbij behorende goedkeurende verklaring van de accountant door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zijn ontvangen uiterlijk op 15 augustus 2008 wordt voor de toepassing van de [artikelen 4, eerste lid, onderdelen e en f, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=4&z=2009-03-13&g=2009-03-13), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=5&z=2009-03-13&g=2009-03-13), en [6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2009-03-13&g=2009-03-13), voor «de gemeentelijke bijstandslasten 2007» gelezen: de gemeentelijke bijstandslasten 2006.
+1. Indien niet van alle gemeenten de bijlage bij de jaarrekening met verantwoordingsinformatie over specifieke uitkeringen, bedoeld in [artikel 58a, eerste lid, van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a), voor zover deze betrekking heeft op de uitvoering van de wet over 2007, en de daarbij behorende goedkeurende verklaring van de accountant door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zijn ontvangen uiterlijk op 15 augustus 2008 wordt voor de toepassing van de [artikelen 4, eerste lid, onderdelen e en f, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=4&z=2009-10-01&g=2009-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=5&z=2009-10-01&g=2009-10-01), en [6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2009-10-01&g=2009-10-01), voor «de gemeentelijke bijstandslasten 2007» gelezen: de gemeentelijke bijstandslasten 2006.
 
-2. Indien het eerste lid van toepassing is en het college de uitvoering van de wet in 2006 had overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) en de gemeentelijke bijstandslasten 2006 voor personen jonger dan 65 jaar als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=5&z=2009-03-13&g=2009-03-13) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2009-03-13&g=2009-03-13) van de desbetreffende gemeente niet beschikbaar zijn, worden deze benaderd aan de hand van de volgende formule:
+2. Indien het eerste lid van toepassing is en het college de uitvoering van de wet in 2006 had overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) en de gemeentelijke bijstandslasten 2006 voor personen jonger dan 65 jaar als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=5&z=2009-10-01&g=2009-10-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2009-10-01&g=2009-10-01) van de desbetreffende gemeente niet beschikbaar zijn, worden deze benaderd aan de hand van de volgende formule:
 
 GB (G) = V(G) / V(S) x TU(S)
 
@@ -174,7 +174,7 @@ De toetsingscommissie bestaat uit een voorzitter en twee leden. Onze Minister be
 
 - c. de uitkomst van de beoordeling van het effect van de arbeidsmarkt en van het gevoerde gemeentelijk beleid en de uitvoering daarvan alsmede de rechtmatige uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) daartoe aanleiding geeft.
 
-2. De toetsingscommissie beoordeelt of een verzoek tot een incidentele aanvullende uitkering voldoet aan de in het eerste lid genoemde voorwaarden en adviseert Onze Minister. Indien de toetsingscommissie van oordeel is dat een gemeente in aanmerking komt voor een incidentele aanvullende uitkering, is de hoogte van deze uitkering gelijk aan het verschil tussen de werkelijke netto bijstandsuitkeringslasten en 110% van het verstrekte inkomensdeel.
+2. De toetsingscommissie beoordeelt of een verzoek tot een incidentele aanvullende uitkering voldoet aan de in het eerste lid genoemde voorwaarden en adviseert Onze Minister. Indien de toetsingscommissie van oordeel is dat een gemeente in aanmerking komt voor een incidentele aanvullende uitkering, is de hoogte van deze uitkering gelijk aan het verschil tussen de werkelijk gemaakte kosten als bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) en 110% van het verstrekte inkomensdeel.
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste lid, onderdelen b en c, en het tweede lid, waarbij voor gemeenten tot maximaal 40.000 inwoners een afwijkende invulling kan worden gegeven van het eerste lid, onderdeel c.
 
@@ -186,21 +186,21 @@ De toetsingscommissie bestaat uit een voorzitter en twee leden. Onze Minister be
 
 5. Het vierde lid, onderdeel b, is niet van toepassing op gemeenten:
 
-- a. waarvoor de budgetgrondslag voor personen jonger dan 65 jaar in ten minste een van de drie kalenderjaren voorafgaande aan het kalenderjaar waarop het verzoek betrekking heeft, berekend is op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=5&z=2009-03-13&g=2009-03-13); of
+- a. waarvoor de budgetgrondslag voor personen jonger dan 65 jaar in ten minste een van de drie kalenderjaren voorafgaande aan het kalenderjaar waarop het verzoek betrekking heeft, berekend is op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=5&z=2009-10-01&g=2009-10-01); of
 
-- b. wier verzoek tot een meerjarige aanvullende uitkering is afgewezen vanwege het enkele feit dat niet is voldaan aan het vereiste, genoemd in [artikel 10a, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-03-13&g=2009-03-13).
+- b. wier verzoek tot een meerjarige aanvullende uitkering is afgewezen vanwege het enkele feit dat niet is voldaan aan het vereiste, genoemd in [artikel 10a, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-10-01&g=2009-10-01).
 
 #### § 4. Overige en slotbepalingen
 
 ##### Artikel 11. Adreslozen
 
-1. Voor de verlening van bijstand aan belanghebbenden zonder adres als bedoeld in [artikel 1 van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=1) worden aangewezen:
+1. Voor de verlening van bijstand op grond van de wet of inkomensvoorziening op grond van de [Wet investeren in jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) aan belanghebbenden zonder adres als bedoeld in [artikel 1 van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=1) worden aangewezen:
 
 - a. de gemeenten opgenomen in de [bijlage onder A van het Besluit maatschappelijke ondersteuning](onbekend), en
 
 - b. de centrumgemeenten voor maatschappelijke opvang en verslavingsbeleid, bedoeld in [artikel 1, onderdeel f, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=1).
 
-2. De bijstand, bedoeld in het eerste lid, wordt verleend door het college van de gemeente waar de belanghebbende zich op het moment van zijn aanvraag bevindt.
+2. De bijstand en de inkomensvoorziening, bedoeld in het eerste lid, worden verleend door het college van de gemeente waar de belanghebbende zich op het moment van zijn aanvraag bevindt.
 
 ##### Artikel 12. Het [Besluit uitkeringen gemeenten IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0015710)
 
@@ -234,7 +234,7 @@ De budgetgrondslagen worden voor alle gemeenten opgeteld. Door voor elke gemeent
 
 Onderdeel B geeft aan hoe het beleidsmatig indammen van herverdeeleffecten plaatsvindt.
 
-Bij de berekening van de budgetten voor uitkeringen aan personen jonger dan 65 jaar, wordt voor elke gemeente een budgetgrondslag berekend. Voor de gemeenten met 25.000 inwoners of minder is dit het historisch bepaalde budget: de uitgaven, opgeschaald met de groei in huishoudens. Bij de berekening van de budgetten voor uitkeringen aan personen jonger dan 65 jaar voor gemeenten met meer dan 25.000 inwoners ([artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2009-03-13&g=2009-03-13) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=7&z=2009-03-13&g=2009-03-13)) wordt gebruik gemaakt van objectief vastgestelde gemeentelijke uitkeringskosten. Deze objectieve gemeentelijke uitkeringskosten worden, op grond van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=8&z=2009-03-13&g=2009-03-13), vastgesteld aan de hand van een zogenoemd objectief verdeelmodel. Dit objectief verdeelmodel is opgenomen in deze bijlage.
+Bij de berekening van de budgetten voor uitkeringen aan personen jonger dan 65 jaar, wordt voor elke gemeente een budgetgrondslag berekend. Voor de gemeenten met 25.000 inwoners of minder is dit het historisch bepaalde budget: de uitgaven, opgeschaald met de groei in huishoudens. Bij de berekening van de budgetten voor uitkeringen aan personen jonger dan 65 jaar voor gemeenten met meer dan 25.000 inwoners ([artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2009-10-01&g=2009-10-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=7&z=2009-10-01&g=2009-10-01)) wordt gebruik gemaakt van objectief vastgestelde gemeentelijke uitkeringskosten. Deze objectieve gemeentelijke uitkeringskosten worden, op grond van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=8&z=2009-10-01&g=2009-10-01), vastgesteld aan de hand van een zogenoemd objectief verdeelmodel. Dit objectief verdeelmodel is opgenomen in deze bijlage.
 
 Voor gemeenten tussen de 25.000 en 40.000 inwoners worden de budgetten niet geheel vastgesteld op basis van de uitkomsten van het objectieve verdeelmodel. Voor deze categorie wordt zowel het historisch als het objectief bepaalde budget berekend. De budgetgrondslag voor deze categorie wordt vervolgens vastgesteld als een gewogen gemiddelde van deze twee budgetten, waarbij het gewicht afhankelijk is van het aantal inwoners boven de 25.000.
 
@@ -260,7 +260,7 @@ De kosten per huishouden worden berekend door het aantal eenheden per verdeelmaa
 
 5. Bij verandering van de gemeentelijke indeling voor 2009 na het moment van vaststelling stelt de Minister voor de nieuwe gemeenten het aantal eenheden vast op basis van een redelijke schatting van de toestand zoals die op het moment van vaststelling zou zijn geweest als de instelling of de wijziging op die datum reeds was ingegaan.
 
-1. Bij de vaststelling van de objectieve gemeentelijke uitkeringskosten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=8&z=2009-03-13&g=2009-03-13), worden de verdeelmaatstaven gehanteerd die hierboven zijn omschreven. De budgetberekening geschiedt op grond van de cijfers zoals die beschikbaar zijn voor bekendmaking van de budgetten. Indien deze cijfers na bekendmaking van de budgetten nog wijzigen om andere redenen dan evidente fouten (bijvoorbeeld door toepassing van een alternatieve meetmethode of nagekomen informatie), dan zullen de reeds berekende en bekend gemaakte budgetten hiervoor niet worden aangepast.
+1. Bij de vaststelling van de objectieve gemeentelijke uitkeringskosten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=8&z=2009-10-01&g=2009-10-01), worden de verdeelmaatstaven gehanteerd die hierboven zijn omschreven. De budgetberekening geschiedt op grond van de cijfers zoals die beschikbaar zijn voor bekendmaking van de budgetten. Indien deze cijfers na bekendmaking van de budgetten nog wijzigen om andere redenen dan evidente fouten (bijvoorbeeld door toepassing van een alternatieve meetmethode of nagekomen informatie), dan zullen de reeds berekende en bekend gemaakte budgetten hiervoor niet worden aangepast.
 
 ### Berekeningswijze voor gemeenten met minder dan 30.000 inwoners
 
@@ -422,7 +422,7 @@ Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota v
 
 - a. voldaan is aan bij ministeriële regeling te stellen vormvoorschriften;
 
-- b. de budgetgrondslag voor personen jonger dan 65 jaar over elk van de drie kalenderjaren voorafgaande aan het kalenderjaar waarin het verzoek tot een meerjarige aanvullende uitkering wordt ingediend berekend is op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2009-03-13&g=2009-03-13) of [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=7&z=2009-03-13&g=2009-03-13);
+- b. de budgetgrondslag voor personen jonger dan 65 jaar over elk van de drie kalenderjaren voorafgaande aan het kalenderjaar waarin het verzoek tot een meerjarige aanvullende uitkering wordt ingediend berekend is op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2009-10-01&g=2009-10-01) of [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=7&z=2009-10-01&g=2009-10-01);
 
 - c. in elk van de drie kalenderjaren voorafgaande aan het kalenderjaar waarin het verzoek, bedoeld in onderdeel b, wordt ingediend de gemaakte kosten, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), het verstrekte inkomensdeel met minimaal 2,5% overstijgen;
 
@@ -442,9 +442,9 @@ Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota v
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
-- a. **overstijging:** de overstijging, bedoeld in [artikel 10a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-03-13&g=2009-03-13);
+- a. **overstijging:** de overstijging, bedoeld in [artikel 10a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-10-01&g=2009-10-01);
 
-- b. **verzoek:** het verzoek, bedoeld in [artikel 10a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-03-13&g=2009-03-13).
+- b. **verzoek:** het verzoek, bedoeld in [artikel 10a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-10-01&g=2009-10-01).
 
 2. De meerjarige aanvullende uitkering bestaat uit drie delen: U(1), U(2) en U(3)
 
@@ -476,9 +476,9 @@ waarbij:
 
 - d. m staat voor:
 
-- 1°. 1, indien de budgetgrondslag voor personen jonger dan 65 jaar in het kalenderjaar waarin het verzoek wordt ingediend berekend is op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=7&z=2009-03-13&g=2009-03-13); dan wel
+- 1°. 1, indien de budgetgrondslag voor personen jonger dan 65 jaar in het kalenderjaar waarin het verzoek wordt ingediend berekend is op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=7&z=2009-10-01&g=2009-10-01); dan wel
 
-- 2°. het aantal inwoners in de gemeente, verminderd met 25.000 en vervolgens gedeeld door 15.000, indien de budgetgrondslag voor personen jonger dan 65 jaar in het kalenderjaar waarin het verzoek wordt ingediend berekend is op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2009-03-13&g=2009-03-13).
+- 2°. het aantal inwoners in de gemeente, verminderd met 25.000 en vervolgens gedeeld door 15.000, indien de budgetgrondslag voor personen jonger dan 65 jaar in het kalenderjaar waarin het verzoek wordt ingediend berekend is op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=6&z=2009-10-01&g=2009-10-01).
 
 4. De hoogte van U(2) respectievelijk U(3) bedraagt:
 
@@ -494,13 +494,13 @@ waarbij:
 
 7. Indien het bedrag dat resteert na toepassing van het zesde lid, onvoldoende is om aan alle verzoeken te voldoen, wordt het resterende bedrag verdeeld over die verzoeken waarbij B als bedoeld in het derde lid, onderdeel b, staat voor eenzelfde percentage, naar rato van de hoogte van de uitkering, zoals die zou worden vastgesteld indien er geen maximaal bedrag als bedoeld in het vijfde lid was geweest. Bij de toepassing van de eerste zin hebben lagere percentages voorrang op hogere percentages.
 
-8. Onze Minister kan van het derde, vierde, zesde en zevende lid afwijken voor zover toepassing gelet op het belang dat de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-03-13&g=2009-03-13), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10b&z=2009-03-13&g=2009-03-13), en [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10d&z=2009-03-13&g=2009-03-13) beogen te beschermen zal leiden tot een onbillijkheid van overwegende aard.
+8. Onze Minister kan van het derde, vierde, zesde en zevende lid afwijken voor zover toepassing gelet op het belang dat de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-10-01&g=2009-10-01), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10b&z=2009-10-01&g=2009-10-01), en [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10d&z=2009-10-01&g=2009-10-01) beogen te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 10d. Aanpassing berekeningen meerjarige aanvullende uitkering
 
-1. Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoeld in de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718) worden de gegevens waarmee de berekeningen op grond van de [artikelen 10a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-03-13&g=2009-03-13), en [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2009-03-13&g=2009-03-13), worden uitgevoerd, vastgesteld op basis van een redelijke schatting van de toestand van die gegevens zoals die zou zijn geweest als de wijziging op de datum waarop die gegevens betrekking hebben reeds was ingegaan.
+1. Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoeld in de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718) worden de gegevens waarmee de berekeningen op grond van de [artikelen 10a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-10-01&g=2009-10-01), en [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2009-10-01&g=2009-10-01), worden uitgevoerd, vastgesteld op basis van een redelijke schatting van de toestand van die gegevens zoals die zou zijn geweest als de wijziging op de datum waarop die gegevens betrekking hebben reeds was ingegaan.
 
-2. Voor de toepassing van de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-03-13&g=2009-03-13) en [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2009-03-13&g=2009-03-13) is bij de bepaling van de gemaakte kosten, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), over 2006 en het verstrekte inkomensdeel over 2006, [artikel 8a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=8a&z=2009-03-13&g=2009-03-13), van overeenkomstige toepassing.
+2. Voor de toepassing van de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-10-01&g=2009-10-01) en [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2009-10-01&g=2009-10-01) is bij de bepaling van de gemaakte kosten, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), over 2006 en het verstrekte inkomensdeel over 2006, [artikel 8a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=8a&z=2009-10-01&g=2009-10-01), van overeenkomstige toepassing.
 
 #### § 4. Overige en slotbepalingen
 
@@ -514,7 +514,7 @@ Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota v
 
 ##### Artikel 10b. Beoordeling kwaliteit gemeentelijke uitvoering
 
-1. In verband met de beoordeling van het verzoek om een meerjarige aanvullende uitkering, bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-03-13&g=2009-03-13), schakelt de toetsingscommissie de Inspectie Werk en Inkomen in om een onderzoek in te stellen naar de mogelijke oorzaken van de overstijging van de kosten, bedoeld in [artikel 10a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-03-13&g=2009-03-13), en de maatregelen, die het betrokken college treft om de overstijging in de toekomst te voorkomen.
+1. In verband met de beoordeling van het verzoek om een meerjarige aanvullende uitkering, bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-10-01&g=2009-10-01), schakelt de toetsingscommissie de Inspectie Werk en Inkomen in om een onderzoek in te stellen naar de mogelijke oorzaken van de overstijging van de kosten, bedoeld in [artikel 10a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-10-01&g=2009-10-01), en de maatregelen, die het betrokken college treft om de overstijging in de toekomst te voorkomen.
 
 2. Indien naar het oordeel van de toetsingscommissie het meerjarig tekort op grond waarvan het college om een aanvullende uitkering verzoekt, mede het gevolg is van het gemeentelijk beleid en de uitvoering daarvan, adviseert de toetsingscommissie Onze Minister de gevraagde meerjarige aanvullende uitkering slechts toe te kennen indien de maatregelen, bedoeld in het eerste lid, naar het oordeel van de toetsingscommissie toereikend zijn en blijkt dat de gemeenteraad met deze maatregelen heeft ingestemd.
 
@@ -524,9 +524,9 @@ Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota v
 
 ##### Artikel 13a. Evaluatie
 
-Onze Minister zendt binnen vier jaar na de inwerkingtreding van de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-03-13&g=2009-03-13), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10b&z=2009-03-13&g=2009-03-13), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2009-03-13&g=2009-03-13) en [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10d&z=2009-03-13&g=2009-03-13) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze artikelen in de praktijk.
+Onze Minister zendt binnen vier jaar na de inwerkingtreding van de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2009-10-01&g=2009-10-01), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10b&z=2009-10-01&g=2009-10-01), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2009-10-01&g=2009-10-01) en [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10d&z=2009-10-01&g=2009-10-01) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze artikelen in de praktijk.
 
-## Bijlage 1. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=8&z=2009-03-13&g=2009-03-13) van het Besluit WWB 2007
+## Bijlage 1. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=8&z=2009-10-01&g=2009-10-01) van het Besluit WWB 2007
 
 ### Objectief verdeelmodel
 
