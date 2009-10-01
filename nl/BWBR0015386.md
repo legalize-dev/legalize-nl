@@ -4,7 +4,7 @@ identifier: "BWBR0015386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-07-01"
+last_updated: "2009-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015386"
 soort: "ministeriele-regeling"
@@ -62,25 +62,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2009 tot en met 30 juni 2010 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2009-07-01&g=2009-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2009 tot en met 30 juni 2010 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2009-10-01&g=2009-10-01).
 
 ##### Artikel 3
 
-De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2009 tot en met 30 juni 2010 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2009-07-01&g=2009-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2009 tot en met 30 juni 2010 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2009-10-01&g=2009-10-01).
 
 ##### Artikel 4
 
-De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2009 tot en met 30 juni 2010 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2009-07-01&g=2009-07-01).
+De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2009 tot en met 30 juni 2010 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2009-10-01&g=2009-10-01).
 
 ##### Artikel 5
 
-De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2009 tot en met 30 juni 2010 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2009-07-01&g=2009-07-01).
+De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2009 tot en met 30 juni 2010 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2009-10-01&g=2009-10-01).
 
 #### § 3. Maximale huurverhogingspercentages
 
 ##### Artikel 6
 
-1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2009-07-01&g=2009-07-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2009-07-01&g=2009-07-01) vervatte schema’s.
+1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2009-10-01&g=2009-10-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2009-10-01&g=2009-10-01) vervatte schema’s.
 
 2. Het eerste lid is niet van toepassing op woonruimte die bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1) en op woonruimte die behoort tot een beschermd stads- en dorpsgezicht als bedoeld in [artikel 1, onder g, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1), in dit geval voor zover vanwege het behoren tot een beschermd stads- en dorpsgezicht door de verhuurder noodzakelijkerwijs aan deze woonruimte gelden zijn besteed.
 
@@ -110,21 +110,21 @@ De leden en de plaatsvervangende leden van een huurcommissie genieten vergoeding
 
 ##### Artikel 10
 
-1. Een verzoek om een uitspraak als bedoeld in [artikel 7: 254](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=254) of [7: 257, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=257) wordt ingediend op een formulier overeenkomstig [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2009-07-01&g=2009-07-01) bij deze regeling.
+1. Een verzoek om een uitspraak als bedoeld in [artikel 7: 254](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=254) of [7: 257, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=257) wordt ingediend op een formulier overeenkomstig [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
-2. Een verzoek om een uitspraak als bedoeld in [artikel 7: 260, eerste lid van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), wordt ingediend op een formulier overeenkomstig [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2009-07-01&g=2009-07-01) bij deze regeling.
+2. Een verzoek om een uitspraak als bedoeld in [artikel 7: 260, eerste lid van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), wordt ingediend op een formulier overeenkomstig [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
-3. Een verzoek om een uitspraak als bedoeld in [artikel 7: 261, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=261) wordt ingediend op een formulier overeenkomstig [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IX&z=2009-07-01&g=2009-07-01) bij deze regeling
+3. Een verzoek om een uitspraak als bedoeld in [artikel 7: 261, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=261) wordt ingediend op een formulier overeenkomstig [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IX&z=2009-10-01&g=2009-10-01) bij deze regeling
 
-4. Een verzoek om een uitspraak als bedoeld in [artikel 7: 249](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=249) of [7: 258 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=258) wordt ingediend op een formulier overeenkomstig [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=X&z=2009-07-01&g=2009-07-01) bij deze regeling.
+4. Een verzoek om een uitspraak als bedoeld in [artikel 7: 249](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=249) of [7: 258 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=258) wordt ingediend op een formulier overeenkomstig [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=X&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
-5. Een verzoek om een uitspraak als bedoeld in [artikel 7: 253, eerste of vijfde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) of [artikel 12, vijfde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=12) wordt ingediend op een formulier overeenkomstig [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XI&z=2009-07-01&g=2009-07-01) bij deze regeling.
+5. Een verzoek om een uitspraak als bedoeld in [artikel 7: 253, eerste of vijfde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) of [artikel 12, vijfde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=12) wordt ingediend op een formulier overeenkomstig [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XI&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
-6. Een verzoek om een uitspraak als bedoeld in [artikel 7: 253, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) wordt ingediend op een formulier overeenkomstig [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XII&z=2009-07-01&g=2009-07-01) bij deze regeling.
+6. Een verzoek om een uitspraak als bedoeld in [artikel 7: 253, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) wordt ingediend op een formulier overeenkomstig [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XII&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
-7. Een verzoek om een uitspraak als bedoeld in [artikel 7: 255, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=255) wordt ingediend op een formulier overeenkomstig [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XIII&z=2009-07-01&g=2009-07-01) bij deze regeling.
+7. Een verzoek om een uitspraak als bedoeld in [artikel 7: 255, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=255) wordt ingediend op een formulier overeenkomstig [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XIII&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
-8. Voor het doen van een voorstel tot verlaging van de huurprijs als bedoeld in [artikel 7: 252, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252) wordt gebruik gemaakt van een formulier overeenkomstig [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XIV&z=2009-07-01&g=2009-07-01) bij deze regeling, vergezeld van een formulier overeenkomstig [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVa&z=2009-07-01&g=2009-07-01), [XVb](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVb&z=2009-07-01&g=2009-07-01) of [XVc](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVc&z=2009-07-01&g=2009-07-01) bij deze regeling.
+8. Voor het doen van een voorstel tot verlaging van de huurprijs als bedoeld in [artikel 7: 252, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252) wordt gebruik gemaakt van een formulier overeenkomstig [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XIV&z=2009-10-01&g=2009-10-01) bij deze regeling, vergezeld van een formulier overeenkomstig [bijlage XVa](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVa&z=2009-10-01&g=2009-10-01), [XVb](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVb&z=2009-10-01&g=2009-10-01) of [XVc](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=XVc&z=2009-10-01&g=2009-10-01) bij deze regeling.
 
 #### § 7. Vrijstelling leges
 
@@ -136,11 +136,11 @@ De leden en de plaatsvervangende leden van een huurcommissie genieten vergoeding
 
 - a. de ten gunste van de verzoeker krachtens [artikel 14, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=14) laatstelijk doch niet eerder dan achttien maanden voor de indiening van het verzoek om vrijstelling gegeven beschikking tot toekenning van een huurtoeslag als bedoeld in [artikel 1, onderdeel e, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=1) waaruit blijkt dat het toetsingsinkomen niet hoger is dan het bedrag dat voor de verzoeker ten tijde van het geven van die beschikking als het minimum-inkomensijkpunt gold, of
 
-- b. een ten gunste van de verzoeker niet eerder dan zes maanden voor de indiening van het verzoek om vrijstelling krachtens de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) gegeven beschikking tot vaststelling van algemene bijstand.
+- b. een ten gunste van de verzoeker niet eerder dan zes maanden voor de indiening van het verzoek om vrijstelling krachtens de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) gegeven beschikking tot vaststelling van algemene bijstand of krachtens de [Wet investeren in jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) gegeven beschikking tot vaststelling van een inkomensvoorziening.
 
 ##### Artikel 12
 
-Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2009-07-01&g=2009-07-01).
+Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2009-10-01&g=2009-10-01).
 
 #### § 8. Gebreken aan de woning
 
@@ -156,9 +156,9 @@ Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in 
 
 ##### Artikel 14
 
-1. Indien een huurcommissie een besluit als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=8&artikel=13&z=2009-07-01&g=2009-07-01), heeft genomen, zendt zij een afschrift daarvan alsmede van de desbetreffende uitspraak naar de overige huurcommissies, uitgezonderd de huurcommissies die in de vergadering waarin het desbetreffende besluit is genomen over het aan dat besluit ten grondslag liggende voorstel hebben beslist.
+1. Indien een huurcommissie een besluit als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=8&artikel=13&z=2009-10-01&g=2009-10-01), heeft genomen, zendt zij een afschrift daarvan alsmede van de desbetreffende uitspraak naar de overige huurcommissies, uitgezonderd de huurcommissies die in de vergadering waarin het desbetreffende besluit is genomen over het aan dat besluit ten grondslag liggende voorstel hebben beslist.
 
-2. De huurcommissie aan wie een afschrift van een besluit als bedoeld in het eerste lid is gezonden, kan een overeenkomstig besluit nemen. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=8&artikel=13&z=2009-07-01&g=2009-07-01) is met betrekking tot de totstandkoming van een zodanig besluit en de aanpassing van het gebrekenboek van overeenkomstige toepassing.
+2. De huurcommissie aan wie een afschrift van een besluit als bedoeld in het eerste lid is gezonden, kan een overeenkomstig besluit nemen. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=8&artikel=13&z=2009-10-01&g=2009-10-01) is met betrekking tot de totstandkoming van een zodanig besluit en de aanpassing van het gebrekenboek van overeenkomstige toepassing.
 
 #### § 9. Slotbepalingen
 
