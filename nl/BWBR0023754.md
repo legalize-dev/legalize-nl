@@ -4,7 +4,7 @@ identifier: "BWBR0023754"
 country: "nl"
 rank: "wet"
 publication_date: "2012-01-01"
-last_updated: "2008-08-01"
+last_updated: "2009-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023754"
 soort: "wet"
@@ -285,7 +285,7 @@ De navolgende wetten worden ingetrokken:
 
 ##### Artikel XLVII
 
-De bij [artikel XLVI](https://wetten.overheid.nl/jci1.3:c:BWBR0023754&artikel=XLVI&z=2008-08-01&g=2008-08-01) van deze wet ingetrokken wetten, de bij deze wet gewijzigde wetten alsmede de daarop berustende bepalingen blijven – met inbegrip van bepalingen van overgangsrecht – van toepassing zoals zij golden voor de inwerkingtreding van deze wet voor zover zij betrekking hebben op:
+De bij [artikel XLVI](https://wetten.overheid.nl/jci1.3:c:BWBR0023754&artikel=XLVI&z=2009-10-01&g=2009-10-01) van deze wet ingetrokken wetten, de bij deze wet gewijzigde wetten alsmede de daarop berustende bepalingen blijven – met inbegrip van bepalingen van overgangsrecht – van toepassing zoals zij golden voor de inwerkingtreding van deze wet voor zover zij betrekking hebben op:
 
 - a. de heffing van belastingen, invoerrechten, rechten bij invoer en rechten bij uitvoer waarvan de feiten die aanleiding geven tot het ontstaan van de verschuldigdheid van die belastingen, invoerrechten, rechten bij invoer dan wel rechten bij uitvoer zich hebben voorgedaan vóór de dag van de inwerkingtreding van deze wet;
 
@@ -310,5 +310,25 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel LI
 
 Deze wet wordt aangehaald als: Aanpassingswet Algemene douanewet.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel XIIIba
+
+Wijzigt de Algemene douanewet.
+
+### Justitie
+
+### Landbouw, Natuur en Voedselkwaliteit
+
+### Onderwijs, Cultuur en Wetenschap
+
+### Verkeer en Waterstaat
+
+### Volksgezondheid, Welzijn en Sport
+
+### Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+### Overige bepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
