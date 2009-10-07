@@ -4,7 +4,7 @@ identifier: "BWBV0001060"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-10-07"
-last_updated: "1996-05-30"
+last_updated: "2009-10-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001060"
 soort: "verdrag"
@@ -149,17 +149,17 @@ Tenzij de context anders vereist, hebben in deze Overeenkomst de volgende termen
 
 ##### Artikel 8. Tarieven
 
-1. De door een aangewezen luchtvaartmaatschappij van de ene Overeenkomstsluitende Partij voor het vervoer naar of vanuit het grondgebied van de andere Overeenkomstsluitende Partij in rekening te brengen tarieven dienen te worden vastgesteld op een redelijk niveau, waarbij naar behoren rekening wordt gehouden met alle ter zake dienende factoren, met inbegrip van de exploitatiekosten, de winst en de tarieven van andere luchtvaartmaatschappijen.
+1. Elke Overeenkomstsluitende Partij staat toe dat de aangewezen luchtvaartmaatschappijen op basis van commerciële marktoverwegingen tarieven voor luchtdiensten vaststellen. Het ingrijpen door de Overeenkomstsluitende Partijen is beperkt tot:
 
-2. De in het eerste lid bedoelde tarieven worden zo mogelijk overeengekomen door de aangewezen luchtvaartmaatschappijen met gebruikmaking van de procedures van de Internationale Luchtvervoersvereniging (IATA) voor de vaststelling van tarieven.
+- a. het voorkomen van tarieven of praktijken waarvan de toepassing concurrentiebeperkend gedrag vormt dat de concurrentie belemmert, beperkt of verstoort of een concurrent buiten een route houdt, of dit hoogstwaarschijnlijk tot gevolg heeft;
 
-3. De tarieven van een aangewezen luchtvaartmaatschappij van een Overeenkomstsluitende Partij worden aan de luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen voorgelegd ten minste zestig (60) dagen voor de voorgestelde datum van invoering (hierna te noemen „de aankondigingstermijn"). In bijzondere gevallen kan deze aankondigingstermijn worden bekort, behoudens de goedkeuring van de bedoelde autoriteiten.
+- b. het beschermen van consumenten tegen tarieven die onredelijk hoog of beperkend zijn als gevolg van misbruik van marktmacht; en
 
-4. De tarieven worden geacht te zijn goedgekeurd tenzij beide luchtvaartautoriteiten binnen dertig (30) dagen na de datum van indiening overeenkomstig het derde lid kennisgeving van afkeuring van de tarieven hebben gedaan. In het geval van bekorting van de aankondigingstermijn als voorzien in het derde lid, kunnen de luchtvaartautoriteiten overeenkomen dat de termijn waarbinnen kennisgeving van afkeuring moet geschieden, korter is dan dertig (30) dagen.
+- c. het beschermen van luchtvaartmaatschappijen tegen tarieven die kunstmatig laag zijn als gevolg van directe of indirecte overheidssubsidie of overheidssteun.
 
-5. Tarieven die in overeenstemming met de bepalingen van dit artikel zijn vastgesteld, blijven van kracht totdat nieuwe tarieven zijn vastgesteld.
+2. Geen van de Overeenkomstsluitende Partijen vereist kennisgeving of indiening van door de aangewezen luchtvaartmaatschappij of luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij in rekening te brengen tarieven. De tarieven blijven van kracht, tenzij ze worden afgekeurd overeenkomstig het onderstaande derde lid.
 
-6. De aangewezen luchtvaartmaatschappijen van beide Overeenkomstsluitende Partijen mogen geen tarieven in rekening brengen die verschillen van die welke zijn goedgekeurd in overeenstemming met de bepalingen van dit artikel.
+3. Geen van de Overeenkomstsluitende Partijen neemt eenzijdige maatregelen ter voorkoming van de invoering of handhaving van een tarief dat wordt berekend of wordt voorgesteld door een luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij. Indien een van de Overeenkomstsluitende Partijen van mening is dat een dergelijk tarief onverenigbaar is met de overwegingen vervat in het bovenstaande eerste lid, verzoekt zij om overleg en stelt zij de andere Overeenkomstsluitende partij zo spoedig mogelijk in kennis van de redenen voor haar ongenoegen. Dit overleg vindt plaats uiterlijk 15 dagen na de ontvangst van het verzoek. Bij gebreke van een dergelijke wederzijdse overeenstemming wordt of blijft het tarief van kracht.
 
 ##### Artikel 9. Dienstregeling
 
@@ -185,11 +185,7 @@ De luchtvaartautoriteit van elke Overeenkomstsluitende Partij verschaft de lucht
 
 ##### Artikel 12. Dubbele belasting
 
-1. Inkomsten en winsten uit de exploitatie van luchtvaartuigen in internationaal verkeer zijn slechts belastbaar in de Staat waar de plaats van werkelijke leiding van de onderneming is gelegen.
-
-2. Luchtvaartuigen en andere roerende zaken benodigd voor de exploitatie van de luchtvaartuigen zijn eveneens vrijgesteld van iedere vorm van belasting op kapitaalgoederen.
-
-3. De bepalingen van het eerste lid zijn ook van toepassing op inkomsten en winsten uit deelneming in een „pool", een gemeenschappelijke onderneming of een internationaal opererend agentschap.
+Vervallen
 
 ##### Artikel 13. Overmaking van gelden
 
@@ -223,15 +219,15 @@ De luchtvaartautoriteit van elke Overeenkomstsluitende Partij verschaft de lucht
 
 2. De Overeenkomstsluitende Partijen verlenen elkander op verzoek alle nodige bijstand ter voorkoming van handelingen tot het wederrechtelijk in zijn macht brengen van luchtvaartuigen en andere wederrechtelijke gedragingen gericht tegen de veiligheid van de passagiers, bemanning, luchtvaartuigen, luchthavens en luchtvaartvoorzieningen, alsmede van elke andere bedreiging voor de veiligheid van de luchtvaart.
 
-3. De Overeenkomstsluitende Partijen handelen in overeenstemming met de bepalingen van het Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen, ondertekend te Tokio op 14 september 1963, het Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen, ondertekend te 's-Gravenhage op 16 december 1970, en het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart, ondertekend te Montreal op 23 september 1971.
+3. De Overeenkomstsluitende Partijen handelen in overeenstemming met elke tussen hen van kracht zijnde overeenkomst inzake de bestrijding van gedragingen van wederrechtelijke inmenging, onder andere ten aanzien van luchtvaartuigen tijdens de vlucht, luchtvaartuigen in gebruik en/of beveiliging op luchthavens.
 
-4. De Overeenkomstsluitende Partijen handelen, in hun onderlinge betrekkingen, in overeenstemming met de bepalingen inzake de beveiliging van de luchtvaart, vastgesteld door de Internationale Burgerluchtvaartorganisatie en aangeduid als Bijlagen bij het Verdrag inzake de internationale burgerluchtvaart, voor zover deze beveiligingsbepalingen op de Overeenkomstsluitende Partijen van toepassing zijn. De Overeenkomstsluitende Partijen dienen te eisen dat de exploitanten van luchtvaartuigen die in hun land zijn geregistreerd of de exploitanten van luchtvaartuigen die hun voornaamste plaats van bedrijfsuitoefening of vaste woonplaats op hun grondgebied hebben en de exploitanten van luchthavens op hun grondgebied, handelen in overeenstemming met die bepalingen inzake de beveiliging van de luchtvaart.
+4. De Overeenkomstsluitende Partijen handelen, in hun onderlinge betrekkingen, in overeenstemming met de bepalingen inzake de beveiliging van de luchtvaart, vastgesteld door de Internationale Burgerluchtvaartorganisatie en aangeduid als [Bijlagen bij het Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010905&artikel=1), voor zover deze beveiligingsbepalingen op de Overeenkomstsluitende Partijen van toepassing zijn. De Overeenkomstsluitende Partijen dienen te eisen dat de exploitanten van luchtvaartuigen die in hun land zijn geregistreerd of de exploitanten van luchtvaartuigen die hun voornaamste plaats van bedrijfsuitoefening of vaste woonplaats op hun grondgebied hebben en de exploitanten van luchthavens op hun grondgebied, handelen in overeenstemming met die bepalingen inzake de beveiliging van de luchtvaart.
 
 5. Elke Overeenkomstsluitende Partij stemt ermede in de bepalingen inzake beveiliging die de andere Overeenkomstsluitende Partij voorschrijft voor de binnenkomst op het grondgebied van die andere Overeenkomstsluitende Partij in acht te nemen en passende maatregelen te treffen om de passagiers, de bemanning, handbagage en vracht voor het aan boord gaan of laden aan een onderzoek te onderwerpen. Elke Overeenkomstsluitende Partij neemt ook elk verzoek van de andere Overeenkomstsluitende Partij om bijzondere beveiligingsmaatregelen te nemen, ten einde het hoofd te bieden aan een specifieke bedreiging, welwillend in overweging.
 
 6. Wanneer zich een voorval voordoet van het wederrechtelijk in zijn macht brengen van een luchtvaartuig of van andere wederrechtelijke gedragingen gericht tegen de veiligheid van de passagiers, de bemanning, luchtvaartuigen, luchthavens en luchtvaartvoorzieningen, of dreigt zich voor te doen, verlenen de Overeenkomstsluitende Partijen elkander bijstand door de verbindingen en andere passende maatregelen, bedoeld om op snelle en veilige wijze een einde te maken aan een dergelijk voorval, of de dreiging daarvan, te vergemakkelijken.
 
-7. Wanneer een Overeenkomstsluitende Partij afwijkt van de bepalingen van dit artikel inzake de beveiliging van de luchtvaart, kan de luchtvaartautoriteit van de andere Overeenkomstsluitende Partij verzoeken om onmiddellijk overleg met de luchtvaartautoriteit van eerstgenoemde Partij in overeenstemming met artikel 17 van deze Overeenkomst. Indien niet binnen zestig (60) dagen bevredigende overeenstemming wordt bereikt, kan zulks een grond vormen voor de toepassing van artikel 18 van deze Overeenkomst.
+7. Wanneer een Overeenkomstsluitende Partij afwijkt van de bepalingen van dit artikel inzake de beveiliging van de luchtvaart, kan de luchtvaartautoriteit van de andere Overeenkomstsluitende Partij verzoeken om onmiddellijk overleg met de luchtvaartautoriteit van eerstgenoemde Partij in overeenstemming met [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001060&artikel=17&z=2009-10-07&g=2009-10-07) van deze Overeenkomst. Indien niet binnen zestig (60) dagen bevredigende overeenstemming wordt bereikt, kan zulks een grond vormen voor de toepassing van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001060&artikel=18&z=2009-10-07&g=2009-10-07) van deze Overeenkomst.
 
 ##### Artikel 17. Overleg en wijziging
 
@@ -278,6 +274,38 @@ Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst slechts van toe
 ##### Artikel 23. In werkingtreding
 
 Deze Overeenkomst treedt in werking op de dag waarop de Overeenkomstsluitende Partijen elkander schriftelijk hebben medegedeeld dat aan de in hun onderscheiden landen constitutioneel daarvoor vereiste formaliteiten is voldaan. Deze Overeenkomst vervangt de te Pretoria op 22 juli 1947 ondertekende Overeenkomst betreffende luchtdiensten tussen de Overeenkomstsluitende Partijen.
+
+IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement.
+
+DONE in duplicate at Cape Town on this day twenty-sixth of May 1992, in the English language.
+
+**For the Government of the Kingdom of the Netherlands**
+
+(sd.) J. R. H. MAIJ-WEGGEN
+
+**For the Government of the Republic of South Africa**
+
+(sd.) P. WELGEMOED
+
+##### Artikel 16bis. Veiligheid van de luchtvaart
+
+1. Een Overeenkomstsluitende Partij kan te allen tijde verzoeken om overleg over de veiligheidsnormen die door de andere Overeenkomstsluitende Partij worden gehandhaafd met betrekking tot luchtvaartvoorzieningen, bemanning, luchtvaartuigen en de exploitatie van luchtvaartuigen. Dergelijk overleg vindt plaats binnen dertig (30) dagen na dat verzoek.
+
+2. Indien een Overeenkomstsluitende Partij na dergelijk overleg oordeelt dat de andere Overeenkomstsluitende Partij op een van de hierboven bedoelde gebieden niet op doeltreffende wijze veiligheidsnormen handhaaft en toepast die ten minste gelijk zijn aan de minimumnormen die op dat moment uit hoofde van het Verdrag waren vastgesteld, stelt de eerstgenoemde Overeenkomstsluitende Partij de andere Overeenkomstsluitende Partij daarvan in kennis en van de noodzakelijk geachte stappen om te voldoen aan die minimumnormen. Deze Overeenkomstsluitende Partij neemt passende corrigerende maatregelen en indien zij nalaat om binnen vijftien (15) na de kennisgeving, of binnen een langere termijn als overeen te komen, passende maatregelen te nemen, is dit aanleiding voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001060&artikel=5&z=2009-10-07&g=2009-10-07).
+
+3. Onverminderd de verplichtingen bedoeld in [artikel 33 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33), wordt overeengekomen dat elk luchtvaartuig dat door de aangewezen luchtvaartmaatschappij van de ene Overeenkomstsluitende partij wordt gebruikt voor diensten naar of vanuit het grondgebied van de andere Overeenkomstsluitende Partij, terwijl het zich op het grondgebied van de andere Overeenkomstsluitende Partij bevindt, mag worden onderworpen aan een inspectie door de bevoegde vertegenwoordiger van die andere Overeenkomstsluitende Partij. Met deze inspectie wordt onder meer beoogd de geldigheid van de documenten van het luchtvaartuig alsmede die van zijn bemanning en de kennelijke toestand van het luchtvaartuig en zijn uitrusting te controleren (hierna aangeduid als „platforminspectie”), mits dit niet leidt tot onredelijke vertraging.
+
+4. Indien een dergelijke platforminspectie of reeks platforminspecties leidt tot ernstige bezorgdheid dat:
+
+- a. een luchtvaartuig of de exploitatie van een luchtvaartuig niet voldoet aan de op dat moment uit hoofde van het Verdrag vastgestelde minimumnormen; of
+
+- b. de op dat moment uit hoofde van het Verdrag vastgestelde veiligheidsnormen onvoldoende worden gehandhaafd en vastgelegd, staat het de Overeenkomstsluitende Partij die de inspectie verricht vrij, voor de toepassing van [artikel 33 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33), de conclusie te trekken dat de vereisten krachtens welke het bewijs of de vergunningen ten aanzien van dat luchtvaartuig of ten aanzien van de bemanning van dat luchtvaartuig zijn afgegeven of geldig verklaard, of dat de vereisten uit hoofde waarvan dat luchtvaartuig wordt geëxploiteerd, niet gelijk zijn aan of zwaarder zijn dan de minimumnormen die zijn vastgesteld uit hoofde van het Verdrag.
+
+5. Ingeval toegang ten behoeve van de uitvoering van een platforminspectie in overeenstemming met het bovenstaande derde lid van een door een aangewezen luchtvaartmaatschappij van een Overeenkomstsluitende Partij geëxploiteerd luchtvaartuig door de vertegenwoordigers van die aangewezen luchtvaartmaatschappij wordt geweigerd, kan de andere Overeenkomstsluitende Partij daaruit afleiden dat er aanleiding is voor ernstige bezorgdheid als bedoeld in het bovenstaande vierde lid en de conclusies te trekken zoals bedoeld in dat lid.
+
+6. Elke Overeenkomstsluitende Partij behoudt zich het recht voor de vergunning van een aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij onmiddellijk te schorsen of daarvan af te wijken, ingeval de eerstgenoemde Overeenkomstsluitende Partij concludeert, hetzij naar aanleiding van een platforminspectie hetzij na overleg, dat onverwijld ingrijpen essentieel is voor de veiligheid van de exploitatie door de luchtvaartmaatschappij.
+
+7. Elke maatregel door een Overeenkomstsluitende Partij in overeenstemming met het bovenstaande tweede of zesde lid wordt beëindigd zodra de andere Overeenkomstsluitende Partij de veiligheidsbepalingen van dit artikel naleeft.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement.
 
