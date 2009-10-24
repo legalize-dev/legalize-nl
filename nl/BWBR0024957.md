@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-10-16"
+last_updated: "2009-10-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -56,6 +56,7 @@ Besluit:
 | 1.2 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (borgstelling MKB-kredieten) | [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=2.3) | Bodemsaneringsborgstellingskredieten | 01-01 t/m 31-12 | 65.344.122 |
 | 1.3 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (groeifaciliteit) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.2) |   | 01-01 t/m 31-12 | 119.000.000 |
 | 1.3.a | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (Tijdelijke garantie ondernemingsfinanciering) | [3.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.12b) |   | Tijdstip van inwerkingtreding van de regeling tijdelijke garantie ondernemingsfinanciering t/m 12-12 | 1.000.000.000 |
+| 1.3b | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (Tijdelijke garantie ondernemingsfinanciering curatieve zorg) | [3.12m](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.12m) |   | Tijdstip van inwerkingtreding van deze regeling t/m 31-12 | 100.000.000 |
 | 1.4 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (seed capital technostarters) | [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=4.3) |   | 01-01 t/m 31-03 | 19.500.000 |
 | 1.5 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (kennisexploitatie) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=5.2) |   |   |   |
 | 1.6 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) (ondernemerschapsonderwijsprojecten) | [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=6.2) |   |   |   |
@@ -196,7 +197,7 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 
-2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-10-16&g=2009-10-16), is van overeenkomstige toepassing.
+2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-10-24&g=2009-10-24), is van overeenkomstige toepassing.
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
