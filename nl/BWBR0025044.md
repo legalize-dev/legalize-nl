@@ -4,7 +4,7 @@ identifier: "BWBR0025044"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2009-04-03"
+last_updated: "2009-10-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025044"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - **duale inburgeringsvoorziening:** inburgeringsvoorziening die met het oog op de actieve deelname aan de Nederlandse samenleving mede voorziet in activiteiten die in samenhang en ten minste voor een deel gelijktijdig met het verwerven van mondelinge en schriftelijke vaardigheden in de Nederlandse taal en kennis van de Nederlandse samenleving worden uitgevoerd;
 
-- **inactieve:** persoon, van 27 jaar of ouder, die, in de periode van zes maanden onmiddellijk voorafgaand aan de ondersteuning, bedoeld in [artikel 11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2a&artikel=11a&z=2009-04-03&g=2009-04-03), niet dan wel ten hoogste de laatste twee maanden geregistreerd staat als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen, in die periode van zes maanden geen diploma heeft behaald op het niveau van startkwalificatie of hoger en in die periode geen inkomen uit arbeid heeft ontvangen of recht heeft gehad op een uitkering op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten,](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](https://wetten.overheid.nl/jci1.3:c:BWBR0007891), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) dan wel op grond van een regeling, die met deze wetten naar aard en strekking overeenstemt;
+- **inactieve:** persoon, van 27 jaar of ouder, die, in de periode van zes maanden onmiddellijk voorafgaand aan de ondersteuning, bedoeld in [artikel 11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2a&artikel=11a&z=2009-10-28&g=2009-10-28), niet dan wel ten hoogste de laatste twee maanden geregistreerd staat als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen, in die periode van zes maanden geen diploma heeft behaald op het niveau van startkwalificatie of hoger en in die periode geen inkomen uit arbeid heeft ontvangen of recht heeft gehad op een uitkering op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) of de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten,](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](https://wetten.overheid.nl/jci1.3:c:BWBR0007891), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) dan wel op grond van een regeling, die met deze wetten naar aard en strekking overeenstemt;
 
 - **participatiebudget:** uitkering aan het college, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=2);
 
@@ -86,11 +86,11 @@ In dit besluit wordt verstaan onder:
 
 waarbij:
 
-- a. a het aandeel van het totale bedrag is dat beschikbaar is gesteld door Onze Minister van Sociale Zaken en Werkgelegenheid voor een participatiebudget voor alle colleges dat objectief wordt verdeeld, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=1&z=2009-04-03&g=2009-04-03) van dit besluit;
+- a. a het aandeel van het totale bedrag is dat beschikbaar is gesteld door Onze Minister van Sociale Zaken en Werkgelegenheid voor een participatiebudget voor alle colleges dat objectief wordt verdeeld, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=1&z=2009-10-28&g=2009-10-28) van dit besluit;
 
-- b. OW het aan de hand van het verdeelmodel, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=1&z=2009-04-03&g=2009-04-03) van dit besluit, bepaalde gewicht van de gemeente is;
+- b. OW het aan de hand van het verdeelmodel, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=1&z=2009-10-28&g=2009-10-28) van dit besluit, bepaalde gewicht van de gemeente is;
 
-- c. OTW het totaal is van de aan de hand van het verdeelmodel, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=1&z=2009-04-03&g=2009-04-03) van dit besluit, bepaalde gewichten van alle gemeenten samen;
+- c. OTW het totaal is van de aan de hand van het verdeelmodel, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=1&z=2009-10-28&g=2009-10-28) van dit besluit, bepaalde gewichten van alle gemeenten samen;
 
 - d. KW de uitkering, bedoeld in [artikel 69, eerst lid, onderdeel a, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), zoals die luidde op 31 december 2008, voor het kalenderjaar 2003 is;
 
@@ -98,7 +98,7 @@ waarbij:
 
 - f. TBW het bedrag is dat beschikbaar is gesteld door Onze Minister van Sociale Zaken en Werkgelegenheid voor een participatiebudget voor alle colleges voor het desbetreffende kalenderjaar.
 
-2. Indien het aan de hand van het verdeelmodel, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=1&z=2009-04-03&g=2009-04-03) van dit besluit, bepaalde gewicht van de gemeente negatief is, wordt dat voor de toepassing van het eerste lid, onderdelen b en c, op nihil gesteld.
+2. Indien het aan de hand van het verdeelmodel, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=1&z=2009-10-28&g=2009-10-28) van dit besluit, bepaalde gewicht van de gemeente negatief is, wordt dat voor de toepassing van het eerste lid, onderdelen b en c, op nihil gesteld.
 
 #### Paragraaf 2. Verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap
 
@@ -116,9 +116,9 @@ waarbij:
 
 - d. On het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende gemiddelde percentage volwassen inwoners van alle Nederlandse gemeenten is met een opleiding op ten hoogste het niveau van het diploma middelbaar algemeen voortgezet onderwijs of voorbereidend beroepsonderwijs over het zevende tot en met tweede jaar voorafgaande aan het jaar van de uitkering, vermenigvuldigd met het onder b bedoelde aantal inwoners op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld;
 
-- e. Ag het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van de gemeente is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=2&z=2009-04-03&g=2009-04-03) bij dit besluit;
+- e. Ag het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van de gemeente is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=2&z=2009-10-28&g=2009-10-28) bij dit besluit;
 
-- f. An het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van alle Nederlandse gemeenten is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=2&z=2009-04-03&g=2009-04-03) bij dit besluit;
+- f. An het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van alle Nederlandse gemeenten is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=2&z=2009-10-28&g=2009-10-28) bij dit besluit;
 
 - g. ib het bedrag is dat door Onze Minister van Onderwijs, Cultuur en Wetenschap beschikbaar is gesteld voor een participatiebudget voor alle colleges voor het desbetreffende kalenderjaar.
 
@@ -138,9 +138,9 @@ waarbij:
 
 - d. On het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende gemiddelde percentage volwassen inwoners van alle Nederlandse gemeenten is met een opleiding op ten hoogste het niveau van het diploma middelbaar algemeen voortgezet onderwijs of voorbereidend beroepsonderwijs over het zevende tot en met tweede jaar voorafgaande aan het jaar van de uitkering, vermenigvuldigd met het onder b bedoelde aantal inwoners op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld;
 
-- e. Ag het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van de gemeente is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=2&z=2009-04-03&g=2009-04-03) bij dit besluit;
+- e. Ag het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van de gemeente is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=2&z=2009-10-28&g=2009-10-28) bij dit besluit;
 
-- f. An het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van alle Nederlandse gemeenten is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=2&z=2009-04-03&g=2009-04-03) bij dit besluit;
+- f. An het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van alle Nederlandse gemeenten is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=2&z=2009-10-28&g=2009-10-28) bij dit besluit;
 
 - g. BVg het aantal door de gemeente ingekochte trajecten basisvaardigheden is in het tweede jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld;
 
@@ -174,9 +174,9 @@ waarbij:
 
 - d. On het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende gemiddelde percentage volwassen inwoners van alle Nederlandse gemeenten is met een opleiding op ten hoogste het niveau van het diploma middelbaar algemeen voortgezet onderwijs of voorbereidend beroepsonderwijs over het zevende tot en met tweede jaar voorafgaande aan het jaar van de uitkering, vermenigvuldigd met het onder b bedoelde aantal inwoners op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld;
 
-- e. Ag het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van de gemeente is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=2&z=2009-04-03&g=2009-04-03) bij dit besluit;
+- e. Ag het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van de gemeente is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=2&z=2009-10-28&g=2009-10-28) bij dit besluit;
 
-- f. An het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van alle Nederlandse gemeenten is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=2&z=2009-04-03&g=2009-04-03) bij dit besluit;
+- f. An het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van alle Nederlandse gemeenten is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&bijlage=2&z=2009-10-28&g=2009-10-28) bij dit besluit;
 
 - g. BVg het aantal door de gemeente ingekochte trajecten basisvaardigheden is in het tweede jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld;
 
@@ -198,7 +198,7 @@ waarbij:
 
 ##### Artikel 6. Op nihil stellen onderdelen verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap
 
-Indien het college de gegevens, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=2&artikel=4&z=2009-04-03&g=2009-04-03) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=2&artikel=5&z=2009-04-03&g=2009-04-03), niet op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), heeft verstrekt, worden voor de berekening van het deel van het participatiebudget dat een college ontvangt uit het totale bedrag dat beschikbaar is gesteld door Onze Minister van Onderwijs, Cultuur en Wetenschap voor een participatiebudget voor alle colleges de onderdelen VDg, Cg, BVg en VTg van de formules, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=2&artikel=4&z=2009-04-03&g=2009-04-03) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=2&artikel=5&z=2009-04-03&g=2009-04-03), op nihil gesteld.
+Indien het college de gegevens, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=2&artikel=4&z=2009-10-28&g=2009-10-28) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=2&artikel=5&z=2009-10-28&g=2009-10-28), niet op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), heeft verstrekt, worden voor de berekening van het deel van het participatiebudget dat een college ontvangt uit het totale bedrag dat beschikbaar is gesteld door Onze Minister van Onderwijs, Cultuur en Wetenschap voor een participatiebudget voor alle colleges de onderdelen VDg, Cg, BVg en VTg van de formules, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=2&artikel=4&z=2009-10-28&g=2009-10-28) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=2&artikel=5&z=2009-10-28&g=2009-10-28), op nihil gesteld.
 
 #### Paragraaf 3. Verdeelsleutel Minister voor Wonen, Wijken en Integratie
 
@@ -232,13 +232,13 @@ Het deel van het participatiebudget dat een college ontvangt uit het totale bedr
 
 waarbij:
 
-- a. **ivg** het aantal personen uit de doelgroep is ten behoeve van wie het college in het tweede jaar voorafgaand aan het kalenderjaar waarvoor het bedrag, bedoeld in de aanhef, beschikbaar wordt gesteld, een inburgeringsvoorziening heeft vastgesteld;
+- a. **ivg** het aantal personen uit de doelgroep is ten behoeve van wie het college in het tweede jaar voorafgaand aan het kalenderjaar waarvoor het bedrag, bedoeld in de aanhef, beschikbaar wordt gesteld, een inburgeringsvoorziening heeft vastgesteld, dan wel met wie het college in dit jaar een inburgeringsvoorziening is overeengekomen;
 
-- b. **ivN** het totale aantal personen uit de doelgroep is ten behoeve van wie een college in het tweede jaar voorafgaand aan het kalenderjaar waarvoor het bedrag, bedoeld in de aanhef, beschikbaar wordt gesteld, een inburgeringsvoorziening heeft vastgesteld;
+- b. **ivN** het totale aantal personen uit de doelgroep is ten behoeve van wie een college in het tweede jaar voorafgaand aan het kalenderjaar waarvoor het bedrag, bedoeld in de aanhef, beschikbaar wordt gesteld, een inburgeringsvoorziening heeft vastgesteld, dan wel met wie het college in dit jaar een inburgeringsvoorziening is overeengekomen;
 
-- c. **divg** het aantal personen uit de doelgroep is ten behoeve van wie het college in het tweede jaar voorafgaand aan het kalenderjaar waarvoor het bedrag, bedoeld in de aanhef, beschikbaar wordt gesteld, een duale inburgeringsvoorziening of een taalkennisvoorziening als bedoeld in [artikel 19, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=19) heeft vastgesteld;
+- c. **divg** het aantal personen uit de doelgroep is ten behoeve van wie het college in het tweede jaar voorafgaand aan het kalenderjaar waarvoor het bedrag, bedoeld in de aanhef, beschikbaar wordt gesteld, een duale inburgeringsvoorziening of een taalkennisvoorziening heeft vastgesteld, dan wel met wie het college in dit jaar een duale inburgeringsvoorziening of een taalkennisvoorziening is overeengekomen;
 
-- d. **divN** het totale aantal personen uit de doelgroep is ten behoeve van wie een college in het tweede jaar voorafgaand aan het kalenderjaar waarvoor het bedrag, bedoeld in de aanhef, beschikbaar wordt gesteld, een duale inburgeringsvoorziening of een taalkennisvoorziening als bedoeld in [artikel 19, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=19) heeft vastgesteld;
+- d. **divN** het totale aantal personen uit de doelgroep is ten behoeve van wie een college in het tweede jaar voorafgaand aan het kalenderjaar waarvoor het bedrag, bedoeld in de aanhef, beschikbaar wordt gesteld, een duale inburgeringsvoorziening of een taalkennisvoorziening heeft vastgesteld, dan wel met wie het college in dit jaar een duale inburgeringsvoorziening of een taalkennisvoorziening is overeengekomen;
 
 - e. **exg** het aantal personen uit de doelgroep in de gemeente is dat in het tweede jaar voorafgaand aan het kalenderjaar waarvoor het bedrag, bedoeld in de aanhef, beschikbaar wordt gesteld, het inburgeringsexamen, bedoeld in [artikel 13, eerste lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=13) of het staatsexamen NT2 I of II heeft behaald;
 
@@ -248,15 +248,15 @@ waarbij:
 
 ##### Artikel 10. Lager stellen onderdelen verdeelsleutel Minister voor Wonen, Wijken en Integratie
 
-1. Het college betrekt de gegevens, bedoeld in [artikel 9, onderdelen a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=3&artikel=9&z=2009-04-03&g=2009-04-03), uit het Informatiesysteem Inburgering, bedoeld in [artikel 47 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=47).
+1. Het college betrekt de gegevens, bedoeld in [artikel 9, onderdelen a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=3&artikel=9&z=2009-10-28&g=2009-10-28), uit het Informatiesysteem Inburgering, bedoeld in [artikel 47 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=47).
 
 2. Indien het college de gegevens, bedoeld in het eerste lid, niet op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), heeft verstrekt, wordt voor de berekening van het deel van het participatiebudget dat een college ontvangt uit het totale bedrag dat beschikbaar is gesteld door Onze Minister voor Wonen, Wijken en Integratie voor een participatiebudget voor alle colleges, uitgegaan van de helft van het aantal:
 
-- a. vastgestelde inburgeringsvoorzieningen;
+- a. vastgestelde, dan wel overeengekomen inburgeringsvoorzieningen;
 
-- b. vastgestelde duale inburgeringsvoorzieningen of taalkennisvoorzieningen als bedoeld in [artikel 19, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=19); en
+- b. vastgestelde, dan wel overeengekomen duale inburgeringsvoorzieningen of taalkennisvoorzieningen; en
 
-- c. behaalde examens, bedoeld in [artikel 9, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=3&artikel=9&z=2009-04-03&g=2009-04-03), op grond waarvan het aandeel van dat college in het kalenderjaar voorafgaand aan het kalenderjaar waarop het bedrag dat door Onze Minister voor Wonen, Wijken en Integratie beschikbaar is gesteld voor een participatiebudget voor alle colleges betrekking heeft, is berekend.
+- c. behaalde examens, bedoeld in [artikel 9, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=3&artikel=9&z=2009-10-28&g=2009-10-28), op grond waarvan het aandeel van dat college in het kalenderjaar voorafgaand aan het kalenderjaar waarop het bedrag dat door Onze Minister voor Wonen, Wijken en Integratie beschikbaar is gesteld voor een participatiebudget voor alle colleges betrekking heeft, is berekend.
 
 #### Paragraaf 4. Gemeentelijke herindeling
 
@@ -268,11 +268,11 @@ Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoel
 
 ##### Artikel 12. Reserveringsregeling
 
-1. Indien in een kalenderjaar het participatiebudget niet volledig is besteed aan participatievoorzieningen, kan het college het niet bestede bedrag tot maximaal 60% van het voor dat jaar toegekende participatiebudget reserveren voor besteding aan participatievoorzieningen in het daaropvolgende kalenderjaar.
+1. Indien in een kalenderjaar het participatiebudget niet volledig is besteed aan participatievoorzieningen, kan het college het niet bestede bedrag tot maximaal 25% van het voor dat jaar toegekende participatiebudget reserveren voor besteding aan participatievoorzieningen in het daaropvolgende kalenderjaar.
 
-2. Indien in een kalenderjaar meer dan het participatiebudget is besteed aan participatievoorzieningen, kan het college het meer bestede bedrag tot maximaal 60% van het voor dat jaar toegekende participatiebudget ten laste brengen van het participatiebudget voor het daaropvolgende kalenderjaar.
+2. Indien in een kalenderjaar meer dan het participatiebudget is besteed aan participatievoorzieningen, kan het college het meer bestede bedrag tot maximaal 25% van het voor dat jaar toegekende participatiebudget ten laste brengen van het participatiebudget voor het daaropvolgende kalenderjaar.
 
-3. Voor het jaar 2009 bedragen de in het eerste en tweede lid genoemde percentages voor een college als bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=13) 75.
+3. Voor het jaar 2009 bedragen de in het eerste en tweede lid genoemde percentages voor een college als bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=13) 31,25.
 
 4. Het eerste lid is niet van toepassing op het bedrag dat in 2010 in strijd met [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=14) niet is besteed bij een regionaal opleidingencentrum, dan wel in 2009 in strijd met [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=14) niet is besteed aan opleidingen educatie bij een regionaal opleidingencentrum.
 
@@ -328,7 +328,7 @@ De gewichten worden bepaald op basis van vier verdeelmaatstaven die elk een eige
 
 Het schema geeft de verdeelmaatstaven weer en de bron waaraan deze worden ontleend.
 
-De verdeling van het bedrag voor een participatiebudget voor alle colleges dat wordt ingebracht door Onze Minister van Sociale Zaken en Werkgelegenheid (SZW) bestaat uit een aantal stappen. De belangrijkste stap wordt gevormd door het model waarmee voor gemeenten het gewicht Ow (zie [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=1&artikel=2&z=2009-04-03&g=2009-04-03)) wordt bepaald op basis waarvan een steeds groter deel van de beschikbare bijdrage van Onze Minister van SZW aan het participatiebudget naar rato over de gemeenten wordt verdeeld.
+De verdeling van het bedrag voor een participatiebudget voor alle colleges dat wordt ingebracht door Onze Minister van Sociale Zaken en Werkgelegenheid (SZW) bestaat uit een aantal stappen. De belangrijkste stap wordt gevormd door het model waarmee voor gemeenten het gewicht Ow (zie [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=1&artikel=2&z=2009-10-28&g=2009-10-28)) wordt bepaald op basis waarvan een steeds groter deel van de beschikbare bijdrage van Onze Minister van SZW aan het participatiebudget naar rato over de gemeenten wordt verdeeld.
 
 **Aantal bijstandsontvangers:** aantal huishoudens dat in het peiljaar op enig moment een uitkering op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) (WWB) ontvangt en jonger is dan 65 jaar of een uitkering ontvangt op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) (IOAW), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) (IOAZ) of het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) (Bbz 2004). Eén huishouden telt hooguit één keer mee. Huishoudens die in de loop van het meetjaar een tussentijdse onderbreking van de WWB-uitkering hebben zijn dus één huishouden. Huishoudens die in de loop van het meetjaar verhuizen van gemeente A naar gemeente B en in beide gemeenten een uitkering hebben ontvangen, tellen voor beide gemeenten mee naar rato van het aantal ingeschreven maanden van de aanvrager volgens de gemeentelijke basisadministratie (GBA). Aanvragers die niet ingeschreven zijn in de GBA van een Nederlandse gemeente tellen niet mee.
 
@@ -370,7 +370,7 @@ Het totale gemeentelijke werkbudget 2003 bestond uit vijf verschillende budgette
 
 Het aandeel voor een gemeente in 2003 wordt bepaald door de som van deze budgetten voor de gemeente gedeeld door het in 2003 beschikbare macrobudget. Voor de budgetten 1, 4 en 5 komt dit neer op het optellen van de toegekende budgetten (voor de budgetten 1 en 4 wordt gerekend met de toegekende budgetten na de vaststelling van de loon- en prijsbijstelling 2003).
 
-Voor de verdeling van het bedrag dat beschikbaar is gesteld door Onze Minister van SZW wordt voor de jaren 2009 en 2010 een overgangsregeling gehanteerd. Het aandeel van een gemeente in het beschikbare deel van het macrobudget dat afkomstig is van Onze Minister van SZW wordt bepaald door een combinatie van het historische budgetaandeel in 2003 in de totale subsidie die in dat jaar op grond van [artikel 18 van de Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083&artikel=18) (WIW) en [artikel 13, eerste tot en met derde lid, van het Besluit in- en doorstroombanen](https://wetten.overheid.nl/jci1.3:c:BWBR0010994&artikel=13) (ID) beschikbaar was (KW / TKW) en het verdeelmodel. Het deel van het participatiebudget dat een college ontvangt uit het totale bedrag dat beschikbaar is gesteld door Onze Minister van SZW voor een participatiebudget voor alle colleges wordt berekend op grond van de formule (zie [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=1&artikel=2&z=2009-04-03&g=2009-04-03) voor een toelichting):
+Voor de verdeling van het bedrag dat beschikbaar is gesteld door Onze Minister van SZW wordt voor de jaren 2009 en 2010 een overgangsregeling gehanteerd. Het aandeel van een gemeente in het beschikbare deel van het macrobudget dat afkomstig is van Onze Minister van SZW wordt bepaald door een combinatie van het historische budgetaandeel in 2003 in de totale subsidie die in dat jaar op grond van [artikel 18 van de Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083&artikel=18) (WIW) en [artikel 13, eerste tot en met derde lid, van het Besluit in- en doorstroombanen](https://wetten.overheid.nl/jci1.3:c:BWBR0010994&artikel=13) (ID) beschikbaar was (KW / TKW) en het verdeelmodel. Het deel van het participatiebudget dat een college ontvangt uit het totale bedrag dat beschikbaar is gesteld door Onze Minister van SZW voor een participatiebudget voor alle colleges wordt berekend op grond van de formule (zie [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=1&artikel=2&z=2009-10-28&g=2009-10-28) voor een toelichting):
 
 ### Toedeling declaratiedeel WIW-dienstbetrekkingen:
 
@@ -474,7 +474,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 11b. Extra bestedingsruimte 2009
 
-1. Op verzoek van het college kan Onze Minister van Sociale Zaken en Werkgelegenheid toestemming geven om op basis van het aantal in dat verzoek genoemde inactieven een deel van het participatiebudget voor het jaar 2009 in dat kalenderjaar te besteden aan de kosten, bedoeld in [artikel 11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2a&artikel=11a&z=2009-04-03&g=2009-04-03).
+1. Op verzoek van het college kan Onze Minister van Sociale Zaken en Werkgelegenheid toestemming geven om op basis van het aantal in dat verzoek genoemde inactieven een deel van het participatiebudget voor het jaar 2009 in dat kalenderjaar te besteden aan de kosten, bedoeld in [artikel 11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2a&artikel=11a&z=2009-10-28&g=2009-10-28).
 
 2. Het bedrag dat op grond van het eerste lid mag worden besteed aan de daarin bedoelde kosten bedraagt € 6.000 per inactieve, met dien verstande dat als het totaal aantal inactieven op basis waarvan door alle colleges toestemming is gevraagd meer bedraagt dan 5.000, het aantal inactieven op basis waarvan het bedrag wordt berekend per college als volgt wordt vastgesteld:
 
@@ -490,13 +490,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 6. Het aantal op grond van het tweede tot en met het vierde lid berekende inactieven wordt afgerond op hele getallen.
 
-7. Het bedrag dat het college op grond van dit artikel in 2009 mag besteden aan de kosten, bedoeld in [artikel 11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2a&artikel=11a&z=2009-04-03&g=2009-04-03), wordt in mindering gebracht op het bedrag dat het college op grond van dat artikel in 2010 mag besteden aan de kosten, bedoeld in dat lid.
+7. Het bedrag dat het college op grond van dit artikel in 2009 mag besteden aan de kosten, bedoeld in [artikel 11a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2a&artikel=11a&z=2009-10-28&g=2009-10-28), wordt in mindering gebracht op het bedrag dat het college op grond van dat artikel in 2010 mag besteden aan de kosten, bedoeld in dat lid.
 
 8. Het verzoek, bedoeld in het eerste lid, wordt door Onze Minister van Sociale Zaken en Werkgelegenheid ontvangen voor 15 april 2009.
 
 ##### Artikel 11c. Vervaldatum
 
-Dit hoofdstuk alsmede de definities van «inactieve» en van «startkwalificatie» in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=1&artikel=1&z=2009-04-03&g=2009-04-03) vervallen met ingang van 1 januari 2015.
+Dit hoofdstuk alsmede de definities van «inactieve» en van «startkwalificatie» in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=1&artikel=1&z=2009-10-28&g=2009-10-28) vervallen met ingang van 1 januari 2015.
 
 ### Hoofdstuk 3. Overige bepalingen
 
@@ -504,7 +504,7 @@ Dit hoofdstuk alsmede de definities van «inactieve» en van «startkwalificatie
 
 ### Hoofdstuk 5. Slotbepalingen
 
-## Bijlage 1. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=1&artikel=2&z=2009-04-03&g=2009-04-03) van het Besluit participatiebudget
+## Bijlage 1. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=1&artikel=2&z=2009-10-28&g=2009-10-28) van het Besluit participatiebudget
 
 **Verdeling van het bedrag dat beschikbaar is gesteld door Onze Minister van Sociale Zaken en Werkgelegenheid voor een participatiebudget voor alle colleges**
 
@@ -530,7 +530,7 @@ Het aandeel voor een gemeente in 2003 wordt bepaald door de som van deze budgett
 
 Het budgetaandeel per gemeente wordt als volgt berekend. Eerst wordt het quotiënt bepaald van het gemiddeld aantal gerealiseerde WIW-werkervaringsplaatsen van de gemeente in het jaar 2002 ten opzichte van het gemiddeld aantal landelijk gerealiseerde WIW-werkervaringsplaatsen in het jaar 2002 (gemiddelde stand over dat jaar op basis van de statistische bijlage bij de kwartaaldeclaraties). Het toe te rekenen budget voor het declaratiedeel werkervaringsplaatsen is vervolgens gelijk aan dit quotiënt vermenigvuldigd met het voor het jaar 2003 beschikbare macrobudget declaratiedeel WIW-werkervaringsplaatsen.
 
-## Bijlage 2. behorende bij de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=2&artikel=3&z=2009-04-03&g=2009-04-03) van het Besluit participatiebudget
+## Bijlage 2. behorende bij de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025044&hoofdstuk=2&paragraaf=2&artikel=3&z=2009-10-28&g=2009-10-28) van het Besluit participatiebudget
 
 ### Lijst ontwikkelde landen bij doelgroepen educatie
 
