@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-03-12"
+last_updated: "2009-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -162,7 +162,7 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 - 1º. de betrokken verlener van luchtverkeersdiensten hierover zo spoedig mogelijk en bij voorkeur voorafgaand aan het indienen van het vliegplan ingelicht, en
 
-- 2º. een vliegplan ingediend met als bestemming het dichtstbijzijnde geschikte luchtvaartterrein waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10;
+- 2º. een vliegplan ingediend met als bestemming de dichtstbijzijnde geschikte luchthaven waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10;
 
 - e. indien na het vertrek blijkt dat de SSR-transponder niet of niet goed werkt, rekening wordt gehouden met beperkingen bij de uitvoering van het vliegplan;
 
@@ -170,7 +170,7 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 - 1º. de betrokken verlener van luchtverkeersdiensten hierover zo spoedig mogelijk en bij voorkeur voorafgaand aan het indienen van het vliegplan ingelicht, en
 
-- 2º. een vliegplan ingediend met als bestemming het dichtstbijzijnde geschikte luchtvaartterrein waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10.
+- 2º. een vliegplan ingediend met als bestemming de dichtstbijzijnde geschikte luchthaven waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10.
 
 ##### Artikel 10
 
@@ -232,7 +232,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2009-03-12&g=2009-03-12) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2009-10-31&g=2009-10-31) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
