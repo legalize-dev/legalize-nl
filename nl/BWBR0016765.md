@@ -4,7 +4,7 @@ identifier: "BWBR0016765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-12"
-last_updated: "2004-06-09"
+last_updated: "2009-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016765"
 soort: "ministeriele-regeling"
@@ -99,11 +99,11 @@ Een luchtvaartuig dat een zeer dringend bericht heeft over te brengen betreffend
 
 ##### Artikel 5
 
-Ten behoeve van zoek- en reddingsacties worden door de desbetreffende luchtvaartuigen, reddingsvoertuigen, reddingseenheden en overlevenden de seinen gebruikt als in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&bijlage=1&z=2004-06-09&g=2004-06-09) bij deze regeling is aangegeven. In deze bijlage is tevens aangegeven hoe overeenkomstig deze seinen moet worden gehandeld.
+Ten behoeve van zoek- en reddingsacties worden door de desbetreffende luchtvaartuigen, reddingsvoertuigen, reddingseenheden en overlevenden de seinen gebruikt als in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&bijlage=1&z=2009-10-31&g=2009-10-31) bij deze regeling is aangegeven. In deze bijlage is tevens aangegeven hoe overeenkomstig deze seinen moet worden gehandeld.
 
 ##### Artikel 6
 
-Bij onderschepping van een luchtvaartuig worden door het onderscheppende en het onderschepte luchtvaartuig de seinen gebruikt als in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&bijlage=2&z=2004-06-09&g=2004-06-09) bij deze regeling is aangegeven.
+Bij onderschepping van een luchtvaartuig worden door het onderscheppende en het onderschepte luchtvaartuig de seinen gebruikt als in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&bijlage=2&z=2009-10-31&g=2009-10-31) bij deze regeling is aangegeven.
 
 ##### Artikel 7
 
@@ -111,7 +111,7 @@ Bij onderschepping van een luchtvaartuig worden door het onderscheppende en het 
 
 2. Het luchtvaartuig neemt geschikte maatregelen om het desbetreffende gebied te verlaten of te vermijden.
 
-### Hoofdstuk 4. Seinen voor het luchtvaartterreinverkeer
+### Hoofdstuk 4. Seinen voor het luchthavenverkeer
 
 ##### Artikel 8
 
@@ -149,11 +149,11 @@ Bij onderschepping van een luchtvaartuig worden door het onderscheppende en het 
 
 ##### Artikel 9
 
-Op een luchtvaartterrein worden de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&bijlage=3&z=2004-06-09&g=2004-06-09) bij deze regeling opgenomen grondseinen met de daarachter vermelde betekenis gebruikt.
+Op een luchthaven worden de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&bijlage=3&z=2009-10-31&g=2009-10-31) bij deze regeling opgenomen grondseinen met de daarachter vermelde betekenis gebruikt.
 
 ##### Artikel 10
 
-1. De seinen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&bijlage=4&z=2004-06-09&g=2004-06-09) bij deze regeling, worden gegeven met de hand, zo nodig voorzien van een middel ter verduidelijking of verlichting, waarbij de seiner zich heeft opgesteld met zijn gezicht gewend naar het luchtvaartuig op een plaats
+1. De seinen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&bijlage=4&z=2009-10-31&g=2009-10-31) bij deze regeling, worden gegeven met de hand, zo nodig voorzien van een middel ter verduidelijking of verlichting, waarbij de seiner zich heeft opgesteld met zijn gezicht gewend naar het luchtvaartuig op een plaats
 
 - a. bij vliegtuigen: vóór de linkervleugel in het gezichtsveld van de bestuurder, en
 
@@ -181,7 +181,7 @@ De volgende seinen worden gegeven door de bestuurder van een luchtvaartuig vanui
 
 ##### Artikel 12
 
-Overtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=2&artikel=2&z=2004-06-09&g=2004-06-09), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=2&artikel=3&z=2004-06-09&g=2004-06-09), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=2&artikel=4&z=2004-06-09&g=2004-06-09), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=3&artikel=5&z=2004-06-09&g=2004-06-09), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=3&artikel=6&z=2004-06-09&g=2004-06-09), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=3&artikel=7&z=2004-06-09&g=2004-06-09), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=4&artikel=8&z=2004-06-09&g=2004-06-09), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=4&artikel=9&z=2004-06-09&g=2004-06-09), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=4&artikel=10&z=2004-06-09&g=2004-06-09) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=4&artikel=11&z=2004-06-09&g=2004-06-09) vormt een strafbaar feit.
+Overtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=2&artikel=2&z=2009-10-31&g=2009-10-31), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=2&artikel=3&z=2009-10-31&g=2009-10-31), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=2&artikel=4&z=2009-10-31&g=2009-10-31), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=3&artikel=5&z=2009-10-31&g=2009-10-31), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=3&artikel=6&z=2009-10-31&g=2009-10-31), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=3&artikel=7&z=2009-10-31&g=2009-10-31), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=4&artikel=8&z=2009-10-31&g=2009-10-31), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=4&artikel=9&z=2009-10-31&g=2009-10-31), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=4&artikel=10&z=2009-10-31&g=2009-10-31) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=4&artikel=11&z=2009-10-31&g=2009-10-31) vormt een strafbaar feit.
 
 ##### Artikel 13
 
@@ -195,7 +195,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling seinen luchtvaart.
 
-## Bijlage 1. , behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=3&artikel=5&z=2004-06-09&g=2004-06-09)
+## Bijlage 1. , behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=3&artikel=5&z=2009-10-31&g=2009-10-31)
 
 1. Het luchtvaartuig dat een reddingsvoertuig naar een luchtvaartuig of voertuig wil leiden dat in nood verkeert, geeft dit met de volgende, eventueel herhaalde, bewegingen aan:
 
@@ -317,7 +317,7 @@ op lage hoogte vlak achter het reddingsvoertuig langs vliegen en
 
 - d. te overwegen om in afwachting van instructies koers te zetten naar de positie die in het bericht is vermeld.
 
-## Bijlage 2. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=3&artikel=6&z=2004-06-09&g=2004-06-09)
+## Bijlage 2. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=3&artikel=6&z=2009-10-31&g=2009-10-31)
 
 | Serie | Seinen te geven door het onderscheppende luchtvaartuig | Betekenis | Antwoord van het onder- schepte luchtvaartuig | Betekenis |
 | --- | --- | --- | --- | --- |
@@ -407,9 +407,9 @@ op lage hoogte vlak achter het reddingsvoertuig langs vliegen en
 | YOU LAND | **YOU-LAAND** | Land op dit luchtvaartterrein | Land at this aerodrome |
 | PROCEED | PRO-**SEED** | U kunt doorgaan | You may proceed |
 
-## Bijlage 3. , behorende bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=4&artikel=9&z=2004-06-09&g=2004-06-09)
+## Bijlage 3. , behorende bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=4&artikel=9&z=2009-10-31&g=2009-10-31)
 
-De volgende grondseinen op een luchtvaartterrein hebben de daarachter vermelde betekenis:
+De volgende grondseinen op een luchthaven hebben de daarachter vermelde betekenis:
 
 a. rood vierkant bord met gele diagonalen in een seinenvierkant: verboden te landen voor onbepaalde tijd;
 
@@ -429,9 +429,9 @@ h. pijl in een sprekende kleur in een seinenvierkant of aan het einde van de in 
 
 i. zwarte C op gele achtergrond: luchtverkeersmeldingspost;
 
-j. dubbel wit kruis in het seinenvierkant: zweefvliegen vindt plaats op het luchtvaartterrein.
+j. dubbel wit kruis in het seinenvierkant: zweefvliegen vindt plaats op de luchthaven.
 
-## Bijlage 4. , behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=4&artikel=10&z=2004-06-09&g=2004-06-09)
+## Bijlage 4. , behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&hoofdstuk=4&artikel=10&z=2009-10-31&g=2009-10-31)
 
 ### I. De volgende seinenworden door de seiner gegeven door middel van de daarachter vermelde parkeerseinen
 
