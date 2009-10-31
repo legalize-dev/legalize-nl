@@ -4,7 +4,7 @@ identifier: "BWBR0009365"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2001-01-01"
+last_updated: "2009-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009365"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ Gelet op [Richtlijn nr. 96/67/EG](31996L0067) van de Raad van de Europese Unie v
 
 Besluit:
 
-#### Begripsbepaling
+#### Begripsbepalingen en wettelijke grondslag
 
 ##### Artikel 1
 
@@ -52,27 +52,7 @@ Vervallen
 
 ##### Artikel 3
 
-1. Op elk luchtvaartterrein in Nederland dat voor burgerluchtvaart is opengesteld met een jaarlijkse verkeersomvang van tenminste 2 miljoen passagiersbewegingen of 50000 ton vracht kunnen de gebruikers met ingang van 1 januari 2001 zelfafhandelingsdiensten verrichten.
-
-In afwijking van het eerste lid kan de Minister voor de categorieën afhandelingsdiensten:
-
-- a. bagageafhandeling;
-
-- b. platformafhandeling;
-
-- c. brandstof- en olielevering, of
-
-- d. vracht- en postafhandeling voor wat betreft de fysieke afhandeling van vracht en post tussen gebouwen op het luchtvaartterrein en het vliegtuig, zowel bij aankomst en vertrek als bij doorgaande vluchtenhet aantal gebruikers dat zelfafhandelingsdiensten verricht beperken tot niet minder dan twee. De selectie van deze gebruikers dient te geschieden op basis van relevante, objectieve, transparante en niet-discriminerende criteria.
-
-#### Verlenen van grondafhandelingsdiensten
-
-##### Artikel 4
-
-Vervallen
-
-##### Artikel 5
-
-1. Op elk luchtvaartterrein in Nederland dat voor burgerluchtvaart is opengesteld met een jaarlijkse verkeersomvang van tenminste 2 miljoen passagiersbewegingen of 50000 ton vracht kunnen verleners van grondafhandelingsdiensten met ingang van 1 januari 2001 grondafhandelingsdiensten verlenen.
+1. Op elke luchthaven in Nederland die voor burgerluchtvaart is opengesteld met een jaarlijkse verkeersomvang van tenminste 2 miljoen passagiersbewegingen of 50000 ton vracht kunnen de gebruikers met ingang van 1 januari 2001 zelfafhandelingsdiensten verrichten.
 
 2. In afwijking van het eerste lid kan de Minister voor de categorieën afhandelingsdiensten:
 
@@ -82,51 +62,75 @@ Vervallen
 
 - c. brandstof- en olielevering, of
 
-- d. vracht- en postafhandeling voor wat betreft de fysieke afhandeling van vracht en post tussen gebouwen op het luchtvaartterrein en het vliegtuig, zowel bij aankomst en vertrek als bij doorgaande vluchten het aantal verleners van grondafhandelingsdiensten beperken tot niet minder dan twee per genoemde categorie.
+- d. vracht- en postafhandeling, voor wat betreft de fysieke afhandeling van vracht en post tussen gebouwen op de luchthaven en het vliegtuig, zowel bij aankomst en vertrek als bij doorgaande vluchten,
+
+het aantal gebruikers dat zelfafhandelingsdiensten verricht beperken tot niet minder dan twee. De selectie van deze gebruikers dient te geschieden op basis van relevante, objectieve, transparante en niet-discriminerende criteria.
+
+#### Verlenen van grondafhandelingsdiensten
+
+##### Artikel 4
+
+Vervallen
+
+##### Artikel 5
+
+1. Op elke luchthaven in Nederland die voor burgerluchtvaart is opengesteld met een jaarlijkse verkeersomvang van tenminste 2 miljoen passagiersbewegingen of 50000 ton vracht kunnen verleners van grondafhandelingsdiensten met ingang van 1 januari 2001 grondafhandelingsdiensten verlenen.
+
+2. In afwijking van het eerste lid kan de Minister voor de categorieën afhandelingsdiensten:
+
+- a. bagageafhandeling;
+
+- b. platformafhandeling;
+
+- c. brandstof- en olielevering, of
+
+- d. vracht- en postafhandeling, voor wat betreft de fysieke afhandeling van vracht en post tussen gebouwen op de luchthaven en het vliegtuig, zowel bij aankomst en vertrek als bij doorgaande vluchten,
+
+het aantal verleners van grondafhandelingsdiensten beperken tot niet minder dan twee per genoemde categorie.
 
 3. Bij toepassing van het tweede lid beperkt de Minister het aantal verleners van grondafhandelingsdiensten zodanig dat:
 
 - a. tenminste een van hen niet rechtstreeks of onrechtstreeks onder de zeggenschap valt van:
 
-- 1. de exploitant van het luchtvaartterrein;
+- 1. de exploitant van de luchthaven;
 
-- 2. een gebruiker die in de loop van het jaar voorafgaande aan dat waarin tot de in het tweede lid bedoelde beperking is overgegaan, meer dan 25 procent van de op het luchtvaartterrein geregistreerde passagiers of vracht heeft vervoerd, of
+- 2. een gebruiker die in de loop van het jaar voorafgaande aan dat waarin tot de in het tweede lid bedoelde beperking is overgegaan, meer dan 25 procent van de op de luchthaven geregistreerde passagiers of vracht heeft vervoerd, of
 
-- 3. een lichaam dat rechtstreeks of onrechtstreeks zeggenschap uitoefent over of onder zeggenschap valt van de exploitant van het luchtvaartterrein of van een gebruiker als onder 2 bedoeld, en
+- 3. een lichaam dat rechtstreeks of onrechtstreeks zeggenschap uitoefent over of onder zeggenschap valt van de exploitant van de luchthaven of van een gebruiker als onder 2 bedoeld, en
 
-- b. elke gebruiker ongeacht het deel van het luchtvaartterrein dat aan hem is toegewezen, voor elke categorie grondafhandelingsdiensten waarvoor een beperking geldt, de keuze heeft tussen niet minder dan twee verleners van grondafhandelingsdiensten.
+- b. elke gebruiker ongeacht het deel van de luchthaven dat aan hem is toegewezen, voor elke categorie grondafhandelingsdiensten waarvoor een beperking geldt, de keuze heeft tussen niet minder dan twee verleners van grondafhandelingsdiensten.
 
 #### Zelfafhandelingsdiensten en grondafhandelingsdiensten
 
 ##### Artikel 6
 
-Indien op een luchtvaartterrein als in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=2&z=2001-01-01&g=2001-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=4&z=2001-01-01&g=2001-01-01), of [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2001-01-01&g=2001-01-01), bedoeld, de in die artikelen genoemde minima aan verkeersomvang voor vracht worden bereikt zonder dat de in die artikelen genoemde minima voor het passagiersvervoer worden bereikt, zijn die artikelen niet van toepassing voor grondafhandelingsdiensten die uitsluitend voor passagiers zijn bestemd.
+Indien op een luchthaven als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31), de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31) genoemde minima aan verkeersomvang voor vracht worden bereikt zonder dat de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31) genoemde minima voor het passagiersvervoer worden bereikt, is [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31) niet van toepassing voor grondafhandelingsdiensten die uitsluitend voor passagiers zijn bestemd.
 
 ##### Artikel 7
 
-1. Indien de exploitant van het luchtvaartterrein, de gebruiker of de verlener van grondafhandelingsdiensten op een luchtvaartterrein grondafhandelingsdiensten verleent is deze verplicht ten aanzien van het verlenen van deze diensten een afzonderlijke boekhouding te voeren.
+1. Indien de exploitant van de luchthaven, de gebruiker of de verlener van grondafhandelingsdiensten op een luchthaven grondafhandelingsdiensten verleent is deze verplicht ten aanzien van het verlenen van deze diensten een afzonderlijke boekhouding te voeren.
 
-2. De Minister houdt toezicht op de naleving van de in het eerste lid bedoelde verplichting. Hij ziet er in het bijzonder op toe dat er in het beheer der gelden een scheiding bestaat tussen de exploitatie van het luchtvaartterrein en de aldaar door de exploitant van dat luchtvaartterrein verleende grondafhandelingsdiensten.
+2. De Minister houdt toezicht op de naleving van de in het eerste lid bedoelde verplichting. Hij ziet er in het bijzonder op toe dat er in het beheer der gelden een scheiding bestaat tussen de exploitatie van de luchthaven en de aldaar door de exploitant van die luchthaven verleende grondafhandelingsdiensten.
 
 #### Overleg
 
 ##### Artikel 8
 
-1. Voor elk luchtvaartterrein in Nederland dat voor burgerluchtvaart is opengesteld wordt door de exploitant van het luchtvaartterrein een overlegorgaan van gebruikers ingesteld.
+1. Voor elke luchthaven in Nederland die voor burgerluchtvaart is opengesteld wordt door de exploitant van de luchthaven een overlegorgaan van gebruikers ingesteld.
 
 2. Iedere gebruiker kan van het overlegorgaan deel uitmaken of zich in dat orgaan door een representatieve gebruikersorganisatie doen vertegenwoordigen.
 
 ##### Artikel 9
 
-1. De exploitant van het luchtvaartterrein overlegt tenminste een maal per jaar met het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=8&z=2001-01-01&g=2001-01-01) genoemde overlegorgaan van gebruikers en met de verleners van grondafhandelingsdiensten op het luchtvaartterrein en voorts telkens als daarom door dat overlegorgaan of door de meerderheid van de verleners van grondafhandelingsdiensten wordt verzocht, over de toepassing van deze regeling en in het bijzonder over de prijzen van de grondafhandelingsdiensten welke met toepassing van [artikel 11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=11&z=2001-01-01&g=2001-01-01), door slechts een enkele verlener van zodanige diensten worden verricht en over de organisatie van de verlening van die diensten.
+1. De exploitant van de luchthaven overlegt tenminste een maal per jaar met het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=8&z=2009-10-31&g=2009-10-31) genoemde overlegorgaan van gebruikers en met de verleners van grondafhandelingsdiensten op de luchthaven en voorts telkens als daarom door dat overlegorgaan of door de meerderheid van de verleners van grondafhandelingsdiensten wordt verzocht, over de toepassing van deze regeling en in het bijzonder over de prijzen van de grondafhandelingsdiensten welke met toepassing van [artikel 11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=11&z=2009-10-31&g=2009-10-31), door slechts een enkele verlener van zodanige diensten worden verricht en over de organisatie van de verlening van die diensten.
 
-2. De exploitant van het luchtvaartterrein stelt het overlegorgaan van gebruikers zo spoedig mogelijk in kennis van besluiten als in [artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=12&z=2001-01-01&g=2001-01-01), en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=13&z=2001-01-01&g=2001-01-01) bedoeld, alsmede van andere besluiten inzake de grondafhandelingsmarkt.
+2. De exploitant van de luchthaven stelt het overlegorgaan van gebruikers zo spoedig mogelijk in kennis van besluiten als in [artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=12&z=2009-10-31&g=2009-10-31), en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=13&z=2009-10-31&g=2009-10-31) bedoeld, alsmede van andere besluiten inzake de grondafhandelingsmarkt.
 
 #### Centrale voorzieningen
 
 ##### Artikel 10
 
-1. De Minister kan, na overleg met de exploitant van het luchtvaartterrein, de gebruikers en de verleners van grondafhandelingsdiensten, besluiten dat op een luchtvaartterrein in Nederland dat voor burgerluchtvaart is opengesteld de exploitant van het luchtvaartterrein of een ander door de Minister aangewezen lichaam een of meer centrale voorzieningen beheert die bestemd zijn voor het verlenen van grondafhandelingsdiensten, die wegens hun complexiteit, kosten, gevolgen voor het milieu of om redenen van orde en veiligheid niet kunnen worden verdeeld of opgesplitst. Gebruikers die zelfafhandelingsdiensten verrichtten en verleners van grondafhandelingsdiensten zijn verplicht van deze voorzieningen gebruik te maken.
+1. De Minister kan, na overleg met de exploitant van de luchthaven, de gebruikers en de verleners van grondafhandelingsdiensten, besluiten dat op een luchthaven in Nederland dat voor burgerluchtvaart is opengesteld de exploitant van de luchthaven of een ander door de Minister aangewezen lichaam een of meer centrale voorzieningen beheert die bestemd zijn voor het verlenen van grondafhandelingsdiensten, die wegens hun complexiteit, kosten, gevolgen voor het milieu of om redenen van orde en veiligheid niet kunnen worden verdeeld of opgesplitst. Gebruikers die zelfafhandelingsdiensten verrichtten en verleners van grondafhandelingsdiensten zijn verplicht van deze voorzieningen gebruik te maken.
 
 2. De Minister ziet er op toe dat het beheer van de in het eerste lid bedoelde centrale voorzieningen op transparante, objectieve en niet-discriminerende wijze geschiedt en geen belemmering vormt voor gebruikers die zelfafhandelingsdiensten verrichten of voor verleners van grondafhandelingsdiensten.
 
@@ -134,15 +138,15 @@ Indien op een luchtvaartterrein als in de [artikelen 2, tweede lid](https://wett
 
 ##### Artikel 11
 
-1. Indien op een luchtvaartterrein specifieke belemmeringen met betrekking tot de beschikbare ruimte of capaciteit toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=2&z=2001-01-01&g=2001-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=3&z=2001-01-01&g=2001-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=4&z=2001-01-01&g=2001-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2001-01-01&g=2001-01-01) onmogelijk maken, kan de Minister op verzoek van de exploitant van het luchtvaartterrein:
+1. Indien op een luchthaven specifieke belemmeringen met betrekking tot de beschikbare ruimte of capaciteit toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=3&z=2009-10-31&g=2009-10-31) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31) onmogelijk maken, kan de Minister op verzoek van de exploitant van de luchthaven:
 
-- a. het aantal verleners van grondafhandelingsdiensten voor een of meer andere categorieën grondafhandelingsdiensten dan die bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=4&z=2001-01-01&g=2001-01-01), of [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2001-01-01&g=2001-01-01), op het luchtvaartterrein in zijn geheel of op een deel daarvan tot niet minder dan twee beperken; [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2001-01-01&g=2001-01-01), is van toepassing;
+- a. het aantal verleners van grondafhandelingsdiensten voor een of meer andere categorieën grondafhandelingsdiensten dan die bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31), op de luchthaven in zijn geheel of op een deel daarvan tot niet minder dan twee beperken; [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31), is van toepassing;
 
-- b. een of meer van de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=4&z=2001-01-01&g=2001-01-01), of [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2001-01-01&g=2001-01-01), bedoelde categorieën grondafhandelingsdiensten voor een enkele verlener van zodanige diensten reserveren;
+- b. een of meer van de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31), bedoelde categorieën grondafhandelingsdiensten voor een enkele verlener van zodanige diensten reserveren;
 
-- c. het verrichten van andere categorieën zelfafhandelingsdiensten dan die bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=2&z=2001-01-01&g=2001-01-01), of [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=3&z=2001-01-01&g=2001-01-01), voor een beperkt aantal gebruikers reserveren, mits deze beperking is gebaseerd op relevante, objectieve, transparante en niet-discriminerende criteria, of
+- c. het verrichten van andere categorieën zelfafhandelingsdiensten dan die bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=3&z=2009-10-31&g=2009-10-31), voor een beperkt aantal gebruikers reserveren, mits deze beperking is gebaseerd op relevante, objectieve, transparante en niet-discriminerende criteria, of
 
-- d. het verrichten van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=2&z=2001-01-01&g=2001-01-01), of [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=3&z=2001-01-01&g=2001-01-01), bedoelde zelfafhandelingsdiensten verbieden of tot een enkele gebruiker beperken.
+- d. het verrichten van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=3&z=2009-10-31&g=2009-10-31), bedoelde zelfafhandelingsdiensten verbieden of tot een enkele gebruiker beperken.
 
 2. Een besluit als in het eerste lid bedoeld:
 
@@ -164,35 +168,35 @@ Indien op een luchtvaartterrein als in de [artikelen 2, tweede lid](https://wett
 
 ##### Artikel 12
 
-1. Indien met toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=4&z=2001-01-01&g=2001-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2001-01-01&g=2001-01-01), of [11, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=11&z=2001-01-01&g=2001-01-01), het aantal verleners van grondafhandelingsdiensten wordt beperkt, worden de grondafhandelingsdiensten waarop de beperking betrekking heeft aanbesteed. De aanbesteding wordt bekendgemaakt in het Publikatieblad van de Europese Gemeenschappen.
+1. Indien met toepassing van de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31), of [11, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=11&z=2009-10-31&g=2009-10-31), het aantal verleners van grondafhandelingsdiensten wordt beperkt, worden de grondafhandelingsdiensten waarop de beperking betrekking heeft aanbesteed. De aanbesteding wordt bekendgemaakt in het Publikatieblad van de Europese Gemeenschappen.
 
 2. Iedere verlener van grondafhandelingsdiensten kan inschrijven op aanbestede grondafhandelingsdiensten.
 
 3. Na overleg met het overlegorgaan van gebruikers worden de verleners van grondafhandelingsdiensten voor een tijdvak van ten hoogste zeven jaar gekozen uit degenen die op de aanbesteding hebben ingeschreven:
 
-- a. door de exploitant van het luchtvaartterrein indien deze geen soortgelijke grondafhandelingsdiensten verleent, rechtstreeks noch onrechtstreeks zeggenschap heeft over een onderneming die dergelijke diensten verleent en geen enkel belang heeft in een dergelijke onderneming, en in andere gevallen;
+- a. door de exploitant van de luchthaven indien deze geen soortgelijke grondafhandelingsdiensten verleent, rechtstreeks noch onrechtstreeks zeggenschap heeft over een onderneming die dergelijke diensten verleent en geen enkel belang heeft in een dergelijke onderneming, en in andere gevallen;
 
-- b. door de Minister na overleg met de exploitant van het luchtvaartterrein indien onderdeel a niet van toepassing is.
+- b. door de Minister na overleg met de exploitant van de luchthaven indien onderdeel a niet van toepassing is.
 
 4. Indien de verlener van grondafhandelingsdiensten voor het verstrijken van het tijdvak waarvoor hij is gekozen zijn werkzaamheden staakt wordt hij vervangen met toepassing van het eerste tot en met derde lid.
 
 ##### Artikel 13
 
-Indien met toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=4&z=2001-01-01&g=2001-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2001-01-01&g=2001-01-01), of [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=11&z=2001-01-01&g=2001-01-01), het aantal verleners van grondafhandelingsdiensten wordt beperkt, kan in afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=12&z=2001-01-01&g=2001-01-01) de exploitant van het luchtvaartterrein, na overleg met het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=8&z=2001-01-01&g=2001-01-01) genoemde overlegorgaan van gebruikers:
+Indien met toepassing van de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31), of [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=11&z=2009-10-31&g=2009-10-31), het aantal verleners van grondafhandelingsdiensten wordt beperkt, kan in afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=12&z=2009-10-31&g=2009-10-31) de exploitant van de luchthaven, na overleg met het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=8&z=2009-10-31&g=2009-10-31) genoemde overlegorgaan van gebruikers:
 
 - a. zelf grondafhandelingsdiensten verlenen, of
 
-- b. een verlener van grondafhandelingsdiensten aanwijzen om zodanige diensten te verrichten, indien hij rechtstreeks of indirect zeggenschap heeft over deze verlener van grondafhandelingsdiensten of indien deze laatste rechtstreeks of indirect zeggenschap heeft over de exploitant van het luchtvaartterrein.
+- b. een verlener van grondafhandelingsdiensten aanwijzen om zodanige diensten te verrichten, indien hij rechtstreeks of indirect zeggenschap heeft over deze verlener van grondafhandelingsdiensten of indien deze laatste rechtstreeks of indirect zeggenschap heeft over de exploitant van de luchthaven.
 
 ##### Artikel 14
 
-1. De Minister kan, na overleg met de exploitant van het luchtvaartterrein en de gebruikers, een taakomschrijving of technische specificaties vaststellen waaraan de verleners van grondafhandelingsdiensten of de gebruikers die zelfafhandelingsdiensten verrichten, moeten voldoen. De in de taakomschrijving of technische specificaties opgenomen selectiecriteria dienen relevant, objectief, transparant en niet-discriminerend te zijn.
+1. De Minister kan, na overleg met de exploitant van de luchthaven en de gebruikers, een taakomschrijving of technische specificaties vaststellen waaraan de verleners van grondafhandelingsdiensten of de gebruikers die zelfafhandelingsdiensten verrichten, moeten voldoen. De in de taakomschrijving of technische specificaties opgenomen selectiecriteria dienen relevant, objectief, transparant en niet-discriminerend te zijn.
 
-2. De Minister kan besluiten dat een verlener van grondafhandelingsdiensten of een gebruiker die zelfafhandelingsdiensten verricht, tot het verrichten van diensten op het luchtvaartterrein slechts wordt toegelaten indien:
+2. De Minister kan besluiten dat een verlener van grondafhandelingsdiensten of een gebruiker die zelfafhandelingsdiensten verricht, tot het verrichten van diensten op de luchthaven slechts wordt toegelaten indien:
 
 - a. de aanvrager een gezonde financiële positie en voldoende verzekeringsdekking heeft;
 
-- b. op het luchtvaartterrein de orde en veiligheid of de beveiliging van de installaties, luchtvaartuigen, uitrusting of personen wordt gewaarborgd,
+- b. op de luchthaven de orde en veiligheid of de beveiliging van de installaties, luchtvaartuigen, uitrusting of personen wordt gewaarborgd,
 
 - c. de bescherming van het milieu wordt gewaarborgd, en
 
@@ -210,13 +214,13 @@ Indien met toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.n
 
 5. De in het tweede lid bedoelde toelating wordt slechts onthouden of ingetrokken indien de verlener van grondafhandelingsdiensten of de gebruiker die zelfafhandelingsdiensten verricht om hem toe te rekenen redenen niet voldoet aan de in dat lid bedoelde criteria.
 
-6. De redenen voor het onthouden of intrekken van de toelating worden medegedeeld aan de verlener van grondafhandelingsdiensten of de gebruiker die zelfafhandelingsdiensten verricht, alsmede aan de exploitant van het luchtvaartterrein.
+6. De redenen voor het onthouden of intrekken van de toelating worden medegedeeld aan de verlener van grondafhandelingsdiensten of de gebruiker die zelfafhandelingsdiensten verricht, alsmede aan de exploitant van de luchthaven.
 
 #### Verbodsbepalingen
 
 ##### Artikel 15
 
-1. De Minister kan op voorstel van de exploitant van het luchtvaartterrein aan een verlener van grondafhande-lingsdiensten of een gebruiker die zelfafhandelingsdiensten verricht, verbieden zijn diensten te verrichten, indien deze handelt in strijd met regels welke hem voor het goed functioneren van het luchtvaartterrein door de Minister kunnen worden opgelegd.
+1. De Minister kan op voorstel van de exploitant van de luchthaven aan een verlener van grondafhande-lingsdiensten of een gebruiker die zelfafhandelingsdiensten verricht, verbieden zijn diensten te verrichten, indien deze handelt in strijd met regels welke hem voor het goed functioneren van de luchthaven door de Minister kunnen worden opgelegd.
 
 2. De in het eerste lid bedoelde regels dienen:
 
@@ -226,23 +230,23 @@ Indien met toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.n
 
 - c. niet te leiden tot feitelijke vermindering van de toegang tot de markt voor grondafhandelingsdiensten of tot zelfafhandeling tot een lager niveau dan in deze regeling bepaald.
 
-3. De Minister kan op voorstel van de exploitant van het luchtvaartterrein een verlener van grondafhandelingsdiensten verplichten om op billijke en niet-discriminerende wijze deel te nemen aan de vervulling van wettelijke verplichtingen tot het verlenen van openbare diensten met name waar het de waarborging van de continuïteit van die diensten betreft.
+3. De Minister kan op voorstel van de exploitant van de luchthaven een verlener van grondafhandelingsdiensten verplichten om op billijke en niet-discriminerende wijze deel te nemen aan de vervulling van wettelijke verplichtingen tot het verlenen van openbare diensten met name waar het de waarborging van de continuïteit van die diensten betreft.
 
 #### Overige bepalingen
 
 ##### Artikel 16
 
-1. Verleners van grondafhandelingsdiensten en gebruikers die zelfafhandelingsdiensten verrichten, hebben vrij toegang tot de voorzieningen van het luchtvaartterrein voor zover deze toegang voor het verrichten van hun diensten noodzakelijk is. Indien de exploitant van het luchtvaartterrein ten aanzien van deze toegang voorwaarden stelt, dienen deze relevant, objectief, transparant en niet-discriminerend te zijn.
+1. Verleners van grondafhandelingsdiensten en gebruikers die zelfafhandelingsdiensten verrichten, hebben vrij toegang tot de voorzieningen van de luchthaven voor zover deze toegang voor het verrichten van hun diensten noodzakelijk is. Indien de exploitant van de luchthaven ten aanzien van deze toegang voorwaarden stelt, dienen deze relevant, objectief, transparant en niet-discriminerend te zijn.
 
-2. Voor zover het voor het bevorderen van daadwerkelijke en eerlijke concurrentie noodzakelijk is, verdeelt de exploitant van het luchtvaartterrein de voor grondafhandelingsdiensten beschikbare ruimte over de verschillende op het luchtvaartterrein reeds aanwezige en nieuwe verleners van grondafhandelingsdiensten en gebruikers die zelfafhandelingsdiensten verrichten. De verdeling geschiedt op basis van relevante, objectieve, transparante en niet-discriminerende regels en criteria.
+2. Voor zover het voor het bevorderen van daadwerkelijke en eerlijke concurrentie noodzakelijk is, verdeelt de exploitant van de luchthaven de voor grondafhandelingsdiensten beschikbare ruimte over de verschillende op de luchthaven reeds aanwezige en nieuwe verleners van grondafhandelingsdiensten en gebruikers die zelfafhandelingsdiensten verrichten. De verdeling geschiedt op basis van relevante, objectieve, transparante en niet-discriminerende regels en criteria.
 
-3. Voor de toegang tot het luchtvaartterrein en het gebruik van de voorzieningen daarop kan de exploitant van het luchtvaartterrein bepalen dat de verleners van grondafhandelingsdiensten en de gebruikers die zelfafhandelingsdiensten verrichten, een vergoeding verschuldigd zijn. De hoogte van de vergoeding wordt vastgesteld op basis van relevante, objectieve, transparante en niet-discriminerende criteria.
+3. Voor de toegang tot de luchthaven en het gebruik van de voorzieningen daarop kan de exploitant van de luchthaven bepalen dat de verleners van grondafhandelingsdiensten en de gebruikers die zelfafhandelingsdiensten verrichten, een vergoeding verschuldigd zijn. De hoogte van de vergoeding wordt vastgesteld op basis van relevante, objectieve, transparante en niet-discriminerende criteria.
 
 ##### Artikel 17
 
 1. Onverminderd het in deze regeling bepaalde is iedere verlener van grondafhandelingsdiensten en gebruiker die zelfafhandelingsdiensten verricht gehouden tot naleving van alle in Nederland voor natuurlijke personen en rechtspersonen van toepassing zijnde wettelijke regelingen en voorschriften.
 
-2. Onverminderd het in deze regeling bepaalde kan de Minister na overleg met de exploitant van het luchtvaartterrein, de gebruikers en de verleners van grondafhandelingsdiensten de voor de bescherming van de rechten van werknemers en de bescherming van het milieu noodzakelijke maatregelen nemen.
+2. Onverminderd het in deze regeling bepaalde kan de Minister na overleg met de exploitant van de luchthaven, de gebruikers en de verleners van grondafhandelingsdiensten de voor de bescherming van de rechten van werknemers en de bescherming van het milieu noodzakelijke maatregelen nemen.
 
 ##### Artikel 18
 
@@ -258,18 +262,40 @@ Indien met toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.n
 
 ##### Artikel 19
 
-Overtreding van een der [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=7&z=2001-01-01&g=2001-01-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=10&z=2001-01-01&g=2001-01-01), [11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=11&z=2001-01-01&g=2001-01-01), of [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=15&z=2001-01-01&g=2001-01-01), is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
+Vervallen
 
 #### Slotbepalingen
 
 ##### Artikel 20
 
-1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1998.
-
-2. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=2&z=2001-01-01&g=2001-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=4&z=2001-01-01&g=2001-01-01) vervallen met ingang van 1 januari 2001.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1998.
 
 ##### Artikel 21
 
 Deze regeling wordt aangehaald als: Regeling grondafhandeling luchtvaartterreinen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust op [artikel 8a.1, vierde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.1).
+
+#### Verrichten van zelfafhandelingsdiensten
+
+#### Verlenen van grondafhandelingsdiensten
+
+#### Zelfafhandelingsdiensten en grondafhandelingsdiensten
+
+#### Overleg
+
+#### Centrale voorzieningen
+
+#### Beperkingen
+
+#### Verbodsbepalingen
+
+#### Overige bepalingen
+
+#### Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
