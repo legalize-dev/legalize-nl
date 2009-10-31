@@ -4,7 +4,7 @@ identifier: "BWBR0007094"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-12"
-last_updated: "2007-02-02"
+last_updated: "2009-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007094"
 soort: "ministeriele-regeling"
@@ -53,9 +53,9 @@ Een kabelvlieger of kleine kabelballon wordt niet gebruikt:
 
 - a. boven een hoogte van 100 meter boven grond of water;
 
-- b. binnen een afstand van 3 km van de grens van luchtvaartterreinen en zweefvliegterreinen;
+- b. binnen een afstand van 3 km van de grens van luchthavens en zweefvliegterreinen;
 
-- c. binnen een afstand van 5 km van de grens van gecontroleerde luchtvaartterreinen;
+- c. binnen een afstand van 5 km van de grens van gecontroleerde luchthavens;
 
 - d. binnen burger laagvlieggebieden, militaire laagvlieggebieden en binnen een afstand van 5 km van militaire laagvliegroutes.
 
@@ -75,15 +75,15 @@ Een kabelvlieger of kleine kabelballon wordt niet gebruikt:
 
 2. Een meegevoerd voorwerp met een massa van 30 gram of meer en een oppervlakte-dichtheid van 5 gr/cm² of meer wordt voorzien van een valscherm dat de daalsnelheid beperkt tot maximaal 5 m/sec.
 
-3. Voor het oplaten van een kleine vrije ballon binnen een afstand van 8 km van de grens van een gecontroleerd luchtvaartterrein is de toestemming vereist van de betrokken plaatselijke luchtverkeersleidingsdienst; deze toestemming kan worden geweigerd als de vaart van de ballon – gezien de heersende windrichting – zal voeren over het landingsterrein of over gebieden in de omgeving daarvan, waarover luchtvaartuigen naderen of vertrekken en waardoor de orde en regelmaat van het luchtverkeer wordt verstoord.
+3. Voor het oplaten van een kleine vrije ballon binnen een afstand van 8 km van de grens van een gecontroleerde luchthaven is de toestemming vereist van de betrokken plaatselijke luchtverkeersleidingsdienst; deze toestemming kan worden geweigerd als de vaart van de ballon – gezien de heersende windrichting – zal voeren over het landingsterrein of over gebieden in de omgeving daarvan, waarover luchtvaartuigen naderen of vertrekken en waardoor de orde en regelmaat van het luchtverkeer wordt verstoord.
 
-4. Het voornemen tot het oplaten van een kleine vrije ballon binnen een afstand van 3 km van de grens van de niet-gecontroleerde burgerluchtvaartterreinen wordt tijdig, doch uiterlijk twee uur vóór de voorgenomen oplating ter kennis gebracht aan de betrokken havenmeester. Indien de vaart van de ballon – gezien de heersende windrichting – zal voeren over het landingsterrein of onmiddellijke omgeving daarvan kan de havenmeester aanwijzingen geven om te voorkomen dat het luchtvaartterreinverkeer wordt verstoord of in gevaar gebracht.
+4. Het voornemen tot het oplaten van een kleine vrije ballon binnen een afstand van 3 km van de grens van de niet-gecontroleerde burgerluchthavens wordt tijdig, doch uiterlijk twee uur vóór de voorgenomen oplating ter kennis gebracht aan de betrokken havenmeester. Indien de vaart van de ballon – gezien de heersende windrichting – zal voeren over het landingsterrein of onmiddellijke omgeving daarvan kan de havenmeester aanwijzingen geven om te voorkomen dat het luchthavenverkeer wordt verstoord of in gevaar gebracht.
 
 5. Degene die een kleine vrije ballon wil oplaten binnen een afstand van 3 km van een zweefvliegterrein stelt al het mogelijke in het werk om vooraf overleg met de gebruiker van dat zweefvliegterrein te voeren.
 
 ##### Artikel 4. Speelgoedballons
 
-1. Indien 1000 speelgoedballons, of meer, nagenoeg gelijktijdig worden opgelaten is daarop [artikel 3, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007094&artikel=3&z=2007-02-02&g=2007-02-02) van toepassing.
+1. Indien 1000 speelgoedballons, of meer, nagenoeg gelijktijdig worden opgelaten is daarop [artikel 3, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007094&artikel=3&z=2009-10-31&g=2009-10-31) van toepassing.
 
 2. Bij een oplating, zoals bedoeld in het eerste lid worden geen metalen voorwerpen meegevoerd.
 
