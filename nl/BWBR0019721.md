@@ -4,7 +4,7 @@ identifier: "BWBR0019721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2006-04-02"
+last_updated: "2009-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019721"
 soort: "ministeriele-regeling"
@@ -46,13 +46,13 @@ In deze regeling wordt verstaan onder:
 
 configuratie: combinatie van kenmerken van een luchtvaartuig die van invloed is op de geluidsproductie van dat luchtvaartuig;
 
-functionaris: functionaris van de exploitant van een luchtvaartterrein, aangewezen op grond van [artikel 77a, derde lid, onderdeel b, sub 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=77a);
+functionaris: functionaris van de exploitant van een luchthaven, aangewezen op grond van [artikel 8a.39, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.39);
 
-heffingen: heffingen, als bedoeld in [artikel 77, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=77);
+heffingen: heffingen als bedoeld in [titel 8A.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&titeldeel=8A.3);
 
 minister: Minister van Verkeer en Waterstaat;
 
-wet: [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267);
+wet: [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
 
 winterseizoen: periode van 1 november tot en met 31 maart;
 
@@ -60,17 +60,17 @@ zomerseizoen: periode van 1 april tot en met 31 oktober.
 
 ##### Artikel 2
 
-De functionaris van de exploitant van een luchtvaartterrein stelt voor elke landing van een luchtvaartuig de geluidsheffing vast:
+De functionaris stelt voor elke landing van een luchtvaartuig de geluidsheffing vast:
 
-- a. op basis van de configuratie van het luchtvaartuig, blijkend uit de in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019721&artikel=3&z=2006-04-02&g=2006-04-02) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0019721&artikel=4&z=2006-04-02&g=2006-04-02) door de eigenaar of houder van het luchtvaarttuig ter beschikking gestelde informatie, dan wel
+- a. op basis van de configuratie van het luchtvaartuig, blijkend uit de in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019721&artikel=3&z=2009-10-31&g=2009-10-31) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0019721&artikel=4&z=2009-10-31&g=2009-10-31) door de eigenaar of houder van het luchtvaarttuig ter beschikking gestelde informatie, dan wel
 
 - b. op basis van de maximale geluidsproductie van het desbetreffende vliegtuigtype.
 
 ##### Artikel 3
 
-1. De eigenaar of houder van een luchtvaartuig stelt ter bepaling van de geluidsheffing op basis van de configuratie per luchtvaartuig waarmee hij op een luchtvaartterrein landt, een week voor de eerste landing of wijziging van de configuratie, alle gegevens met betrekking tot dat luchtvaartuig en de van toepassing zijnde configuratie, ter beschikking aan de functionaris van het desbetreffende luchtvaartterrein.
+1. De eigenaar of houder van een luchtvaartuig stelt ter bepaling van de geluidsheffing op basis van de configuratie per luchtvaartuig waarmee hij op een luchthaven landt, een week voor de eerste landing of wijziging van de configuratie, alle gegevens met betrekking tot dat luchtvaartuig en de van toepassing zijnde configuratie, ter beschikking aan de functionaris.
 
-2. De eigenaar of houder van een luchtvaartuig stelt ter bepaling van de geluidsheffing op basis van de configuratie voor het komende zomer of winterseizoen per luchtvaartuig waarmee hij voornemens is op een luchtvaartterrein te landen, uiterlijk 20 maart respectievelijk 20 oktober, alle gegevens met betrekking tot dat luchtvaartuig en de voor het eerstvolgende seizoen van toepassing zijnde configuratie, ter beschikking aan de functionaris van het desbetreffende luchtvaartterrein.
+2. De eigenaar of houder van een luchtvaartuig stelt ter bepaling van de geluidsheffing op basis van de configuratie voor het komende zomer of winterseizoen per luchtvaartuig waarmee hij voornemens is op een luchthaven te landen, uiterlijk 20 maart respectievelijk 20 oktober, alle gegevens met betrekking tot dat luchtvaartuig en de voor het eerstvolgende seizoen van toepassing zijnde configuratie, ter beschikking aan de functionaris.
 
 3. De in het eerste en tweede lid bedoelde gegevens bevatten van het luchtvaartuig in ieder geval:
 
@@ -94,7 +94,7 @@ De functionaris van de exploitant van een luchtvaartterrein stelt voor elke land
 
 1. De geluidsheffing kan op aanvraag van de eigenaar of houder van een luchtvaartuig ten gevolge van een door de eigenaar of houder van dat luchtvaartuig gewijzigde configuratie opnieuw worden vastgesteld.
 
-2. De aanvraag wordt ingediend bij de functionaris en bevat de in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019721&artikel=3&z=2006-04-02&g=2006-04-02), bedoelde gegevens.
+2. De aanvraag wordt ingediend bij de functionaris en bevat de in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019721&artikel=3&z=2009-10-31&g=2009-10-31), bedoelde gegevens.
 
 ##### Artikel 5
 
@@ -102,13 +102,13 @@ De heffingen worden geheven over een tijdvak van een week.
 
 ##### Artikel 6
 
-1. Jaarlijks rapporteert de exploitant van het luchtvaartterrein aan de minister over de uitvoering van de [artikelen 77 tot en met 77c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=77) en van deze regeling.
+1. Jaarlijks rapporteert de exploitant van de luchthaven aan de minister over de uitvoering van de [artikelen 8a.38 tot en met 8a.42 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.38) en van deze regeling.
 
-2. Op diens verzoek verstrekt de exploitant van het luchtvaartterrein de aan de functionaris ter beschikking gestelde gegevens in afschrift aan de minister.
+2. Op diens verzoek verstrekt de exploitant van de luchthaven de aan de functionaris ter beschikking gestelde gegevens in afschrift aan de minister.
 
 ##### Artikel 7
 
-De exploitant van een luchtvaartterrein draagt uiterlijk drie maanden na afloop van een kalendermaand de in die kalendermaand gefactureerde heffingen af aan de minister.
+De exploitant van een luchthaven draagt uiterlijk drie maanden na afloop van een kalendermaand de in die kalendermaand gefactureerde heffingen af aan de minister.
 
 ##### Artikel 8
 
@@ -118,15 +118,61 @@ De exploitant van een luchtvaartterrein draagt uiterlijk drie maanden na afloop 
 
 ##### Artikel 9
 
-De constante k, bedoeld in [artikel 77, vijfde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=77), wordt per geluidsklasse, genoemd in het zevende lid van genoemd artikel, als volgt vastgesteld:
+1. De formules, bedoeld in [artikel 22 van het Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=22), zijn:
+
+- a. voor burgerluchtvaartuigen met een startmassa van meer dan 390 kilogram doch niet meer dan 20 000 kilogram, met uitzondering van burgervliegtuigen met luchtschroefaandrijving met een startgewicht van meer dan 390 kilogram doch niet meer dan 6000 kilogram: 0,20 + 0,04 * M;
+
+- b. voor burgerluchtvaartuigen met een startmassa van meer dan 20 000 kilogram, die blijkens een verklaring van het bevoegde gezag van de Staat van registratie van het burgerluchtvaartuig ten minste voldoen aan de in bijlage 16, deel I, van het Verdrag van Chicago (**Trb.** 1973, 109) vastgestelde geluidsnormen: met dien verstande dat het aantal rekeneenheden ten minste op één wordt gesteld;
+
+- c. voor burgerluchtvaartuigen met een startmassa van meer dan 20 000 kilogram, andere dan die bedoeld in onderdeel b: k * M2/3, met dien verstande dat het aantal rekeneenheden ten minste op één wordt gesteld.
+
+In de formules stellen voor:
+
+- M:. de maximaal toegelaten startmassa van het burgerluchtvaartuig uitgedrukt in gehele eenheden van 1000 kilogram, waarbij een gedeelte van een eenheid geldt als een gehele eenheid;
+
+- n:. de correctiefactor van geluidcertificatiemeetpunten en meetcondities met toepassing van de in het tweede lid opgenomen tabel;
+
+- Lr:. de som van de geluidsniveaus op de geluidcertificatiemeetpunten;
+
+- k:. de constante, aangegeven per vliegtuigtype en onderscheiden naar klassen van geschatte geluidsniveaus als opgenomen in een overeenkomstig het derde lid vast te stellen tabel.
+
+2. De correctiefactor n wordt vastgesteld met toepassing van de volgende tabel:
+
+|   | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 4-motorige vliegtuigen | 1,05 | 0,85 | 1,0 | 0,85 |
+| 3-motorige vliegtuigen | 1,25 | 1,0 | 1,0 | 1,0 |
+| 2-motorige vliegtuigen | 1,50 | 1,0 | 1,0 | 1,0 |
+
+Ingedeeld worden:
+
+- a. in kolom A: de luchtvaartuigen als aangegeven in hoofdstuk 2 van Bijlage 16, deel I, van het Verdrag van Chicago;
+
+- b. in kolom B: de luchtvaartuigen als aangegeven in hoofdstuk 3 van Bijlage 16, deel I, van het Verdrag van Chicago;
+
+- c. in kolom C: de ‘stage 2’-luchtvaartuigen als aangegeven in ‘Federal Aviation Regulations, part 36 (Noise Standards: Aircraft Type and Airworthiness Certification)’, met inbegrip van amendment 36-12, in werking getreden op 1 augustus 1981;
+
+- d. in kolom D: de ‘stage 3’-luchtvaartuigen als aangegeven in ‘Federal Aviation Regulations, part 36’ bedoeld in onderdeel c.
+
+3. De constante k, bedoeld in het eerste lid, onderdeel c, wordt per geluidsklasse, als volgt vastgesteld:
 
 | Geluidsklasse | Geluidsniveau | k |
 | --- | --- | --- |
-| I | L > Llim +9dB | 0,95 |
-| II | Llim < L ≤ Llim + 9 dB | 0,60 |
-| III | Llim-9dB < L ≤ Llim | 0,40 |
-| IV | Llim-18dB < L ≤ Llim – 9 dB | 0,25 |
-| V | L ≤ Llim –18 dB | 0,15 |
+| I | L > Llim + 9dB | 0,95 |
+| II | Llim < L ≤ Llim + 9dB | 0,60 |
+| III | Llim – 9dB < L ≤ Llim | 0,40 |
+| IV | Llim – 18dB < L ≤ Llim – 9dB | 0,25 |
+| V | L ≤ Llim – 18dB | 0,15 |
+
+In de tabel stelt voor:
+
+- L:. de som van de geschatte geluidsniveaus op de geluidcertificatiemeetpunten;
+
+- Llim:. de som van de maximale geluidsniveaus op de geluidcertificatiemeetpunten volgens de formule Llim = 29.88logM + 251.22.
+
+In deze formule stelt voor:
+
+- M:. de maximaal toegelaten startmassa van het burgerluchtvaartuig uitgedrukt in gehele eenheden van 1000 kilogram, waarbij een gedeelte van een eenheid geldt als een gehele eenheid.
 
 ##### Artikel 10
 
@@ -135,5 +181,11 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling luchtvaartheffingen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust op de [artikelen 8a.39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.39), [8a.41](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.41), en [8a.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.42), en [artikel 22 van het Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=22).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
