@@ -4,7 +4,7 @@ identifier: "BWBR0019147"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-22"
-last_updated: "2005-12-10"
+last_updated: "2009-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019147"
 soort: "ministeriele-regeling"
@@ -74,11 +74,11 @@ Voor een vlucht met een modelvliegtuig gelden in afwijking van [hoofdstuk III va
 
 - l. vluchten zijn toegestaan tot een hoogte van maximaal 300 meter boven de grond of het water in luchtruim met klasse G, mits
 
-- 1°. voor vluchten binnen een afstand van 3 km van een ongecontroleerd luchtvaartterrein of een terrein waarvoor een ontheffing van [artikel 14 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=14) is verleend, geen bezwaar bestaat bij de houder van de aanwijzing respectievelijk ontheffing;
+- 1°. voor vluchten binnen een afstand van 3 km van een ongecontroleerde luchthaven of een terrein dat geschikt is om tijdelijk en uitzonderlijk te worden gebruikt, waarvoor krachtens [artikel 8a.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.51) ontheffing is verleend, geen bezwaar bestaat bij de exploitant van de luchthaven respectievelijk de houder van de ontheffing;
 
 - 2°. voor vluchten binnen een gebied waarin laag mag worden gevlogen door civiele of militaire luchtvaartuigen iemand met de bestuurder van het modelvliegtuig meekijkt om deze te kunnen waarschuwen voor luchtvaartuigen;
 
-- m. vluchten zijn toegestaan tot een hoogte van maximaal 450 meter boven de grond of het water, mits dit gebeurt binnen een aerodrome traffic zone van een militair luchtvaartterrein waarop modelvliegen is toegestaan en dit gebied exclusief voor modelvliegen wordt gebruikt of met de andere gebruiker(s) sluitende afspraken zijn gemaakt inzake separatie;
+- m. vluchten zijn toegestaan tot een hoogte van maximaal 450 meter boven de grond of het water, mits dit gebeurt binnen een aerodrome traffic zone van een militaire luchthaven waarop modelvliegen is toegestaan en dit gebied exclusief voor modelvliegen wordt gebruikt of met de andere gebruiker(s) sluitende afspraken zijn gemaakt inzake separatie;
 
 - n. vluchten zijn toegestaan in luchtruim met klasse C, mits op schriftelijk verzoek van belanghebbende een convenant is gesloten met de organisatie die de plaatselijke luchtverkeersleiding verzorgt en de bestuurder zich houdt aan de afspraken in dat convenant;
 
