@@ -4,7 +4,7 @@ identifier: "BWBR0013311"
 country: "nl"
 rank: "pbo"
 publication_date: "2019-01-01"
-last_updated: "2008-09-01"
+last_updated: "2009-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013311"
 soort: "pbo"
@@ -52,23 +52,9 @@ In deze verordening wordt verstaan onder advocaat: de in Nederland ingeschreven 
 
 ##### Artikel 2
 
-1. Het staat de advocaat niet vrij overeen te komen dat slechts bij het behalen van een bepaald gevolg salaris in rekening wordt gebracht.
+1. Het staat de advocaat niet vrij overeen te komen, dat slechts bij het behalen van een bepaald gevolg salaris in rekening wordt gebracht.
 
-2. De advocaat mag niet overeenkomen dat het salaris een (evenredig) deel zal bedragen van de waarde van het door zijn bijstand te bereiken gevolg, behoudens wanneer dit geschiedt met inachtneming van een binnen de advocatuur gebruikelijk en aanvaard incassotarief.
-
-3. In afwijking van het bepaalde in het eerste en tweede lid staat het de advocaat vrij om in zaken met betrekking tot letsel- en overlijdensschade
-
-- – bij het behalen van een bepaald gevolg wèl af te zien van het in rekening brengen van enige financiële vergoeding òf
-
-- – een resultaatgerelateerde honorariumafspraak te maken op grond waarvan de advocaat een (evenredig) deel toekomt van de waarde van het door zijn rechtsbijstand bereikte gevolg, indien het betreft een rechtzoekende, die
-
-- – niet in aanmerking komt voor of afziet van door de overheid gefinancierde rechtsbijstand en naar het oordeel van de advocaat redelijkerwijs niet in staat is de kosten van rechtsbijstand te betalen òf
-
-- – in aanmerking komt voor een voorwaardelijke toevoeging, die echter niet wordt omgezet in een definitieve toevoeging, en indien de aansprakelijkheid niet aanstonds is erkend of redelijkerwijs vast staat dan wel problemen van enige importantie in de sfeer van schade of causaliteit voorzienbaar zijn.
-
-4. Aan honorariumafspraken, bedoeld in het derde lid, dient een schriftelijke opdrachtbevestiging ten grondslag te liggen, welke ten minste een beschrijving dient te bevatten van de in Bijlage A opgenomen punten.
-
-5. De advocaat is verplicht de opdrachtbevestiging, bedoeld in het vierde lid, in afschrift en geanonimiseerd, onverwijld te zenden aan de Algemene Raad van de Nederlandse Orde van Advocaten en daarbij gemotiveerd aan te geven waarom hij meent dat zijn cliënt redelijkerwijs niet in staat geacht kan worden de kosten van rechtsbijstand te betalen. Van de (tussentijdse) beëindiging van zijn rechtsbijstand, alsmede van het bereikte resultaat en de wijze waarop de honorering heeft plaatsgevonden, doet de advocaat op overeenkomstige wijze onverwijld mededeling.
+2. De advocaat mag niet overeenkomen, dat het salaris een evenredig deel zal bedragen van de waarde van het door zijn bijstand te bereiken gevolg, behoudens wanneer dit geschiedt met inachtneming van een binnen de advocatuur gebruikelijk en aanvaard incassotarief.
 
 ##### Artikel 3
 
@@ -80,40 +66,4 @@ Bij besluit van de Algemene Raad van 1 juli 2002 is de datum van inwerkingtredin
 
 ## Bijlage A
 
-De gedagtekende opdrachtbevestiging dient door beide partijen te worden ondertekend en bevat een beschrijving van ten minste de onderstaande punten.
-
-- 1. Een beschrijving dan wel een verwijzing naar de beschrijving van de opdracht.
-
-- 2. Een omschrijving van het redelijkerwijs te verwachten verloop van de zaak en het ingeschatte te behalen resultaat, met een ondergrens, dat recht geeft op beloning.
-
-- 3. Een verwijzing naar de door de advocaat verstrekte schriftelijke informatie aan de cliënt over de verschillende honorariummodaliteiten. Daarbij zijn in elk geval aan de orde gesteld:
-
-- •. de honorering op basis van het gebruikelijk door de advocaat gehanteerde uurtarief
-
-- •. de eventuele mogelijkheden inzake door de overheid gefinancierde rechtsbijstand
-
-- •. de eventuele mogelijkheden inzake een particuliere rechtsbijstandverzekering
-
-- •. de resultaatafhankelijke beloning, waarbij de volgende modaliteiten zijn te onderscheiden:
-
-- a. geen resultaat, geen honorarium (no win no fee)
-
-- b. geen resultaat, minder honorarium (no win less fee)
-
-- c. wel resultaat, opgehoogd honorarium (win uplift fee, successfee).
-
-- 4. Een risico- inschatting opgesteld door de advocaat, die verwijst naar de door de advocaat verstrekte schriftelijke informatie aan de cliënt betreffende zijn verwachting ten aanzien van de door hem te verrichten arbeid en de te maken kosten.
-
-- 5. Een regeling voor het geval de cliënt tussentijds de opdracht intrekt zonder concreet zicht op het beschreven te behalen resultaat. De regeling houdt in de betaling van een redelijke vergoeding voor gewerkte uren en de betaling van gemaakte kosten. Ook dient een regeling te worden getroffen voor het geval er wèl een concreet zicht bestaat op het te behalen resultaat
-
-- 6. Een regeling, die ziet op de overdracht van de zaak aan een andere advocaat in geval van tussentijdse intrekking van de opdracht.
-
-- 7. Een bepaling, dat de advocaat de rechtsbijstand slechts tussentijds kan beëindigen op grond van gewichtige redenen en met inachtneming van de daartoe noodzakelijke zorgvuldigheid.
-
-- 8. Een bepaling, dat een specifieke geschillenregeling van toepassing zal zijn voor problemen anders dan als bedoeld onder punt 6 en 7.
-
-- 9. Een bepaling, dat zonder voorafgaande schriftelijke aanvaarding van de cliënt door de advocaat geen schikkingsovereenkomst met de wederpartij zal worden gesloten of een gerechtelijke procedure aanhangig zal worden gemaakt.
-
-- 10. Een bepaling waarin is neergelegd de tussen advocaat en diens cliënt afgesproken redelijke bedenktijd voor de cliënt alvorens de cliënt de opdrachtbevestiging ondertekent en retour zendt naar de advocaat.
-
-- 11. Een bepaling waarin is neergelegd, dat de advocaat de cliënt ervan op de hoogte stelt, dat hij onverwijld een afschrift van de geanonimiseerde opdrachtbevestiging, alsmede van een geanonimiseerd afloopbericht – met inbegrip van de financiële afwikkeling – van de zaak zendt naar de Algemene Raad van de Nederlandse Orde van Advocaten.
+Vervallen
