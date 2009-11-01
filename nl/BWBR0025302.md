@@ -491,9 +491,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 Dit besluit wordt aangehaald als: Besluit militaire luchthavens.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 36a
-
-[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=6&artikel=34&z=2017-01-01&g=2017-01-01) van dit besluit, zoals dat artikel luidde vóór 1 januari 2017, blijft ten aanzien van de in dat artikel genoemde gegevens met betrekking tot de geluidsbelasting van toepassing op de periode voorafgaande aan dat tijdstip.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
