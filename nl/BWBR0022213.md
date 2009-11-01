@@ -4,7 +4,7 @@ identifier: "BWBR0022213"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2007-07-12"
+last_updated: "2009-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022213"
 soort: "ministeriele-regeling"
@@ -46,27 +46,27 @@ In deze regeling wordt verstaan onder:
 
 de Minister: de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-financiële zekerheid: financiële zekerheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=2&z=2007-07-12&g=2007-07-12).
+financiële zekerheid: financiële zekerheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=2&z=2009-11-01&g=2009-11-01).
 
 ##### Artikel 2
 
 Financiële zekerheid kan worden gesteld in de vorm van:
 
-- a. een waarborgsom, of
+- a. een waarborgsom of
 
-- b. een borgtocht in de zin van [titel 14 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=14).
+- b. een gelijkwaardige verzekering.
 
 ##### Artikel 3
 
 1. De door of namens de kennisgever te stellen financiële zekerheid bedraagt € 450 per ton over te brengen afvalstoffen.
 
-2. In afwijking van het eerste lid, bedraagt de door of namens de kennisgever te stellen financiële zekerheid voor loodaccu’s en loodassen € 45 per ton over te brengen afvalstoffen en voor zinkassen € 80 per ton over te brengen afvalstoffen.
+2. In afwijking van het eerste lid bedraagt de door of namens de kennisgever te stellen financiële zekerheid voor de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2009-11-01&g=2009-11-01) bij deze regeling bedoelde afvalstoffen per ton over te brengen afvalstoffen het ingevolge [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2009-11-01&g=2009-11-01) voor die afvalstoffen geldende bedrag.
 
-3. Indien de werkelijke kosten van verwijdering of nuttige toepassing van de over te brengen afvalstoffen en van het vervoer naar de plaats waar de verwijdering of nuttige toepassing kan plaatsvinden in belangrijke mate afwijken van het op basis van het eerste lid berekende bedrag, kan de Minister een hogere financiële zekerheid verlangen, dan wel genoegen nemen met een lagere financiële zekerheid.
+3. Indien de kosten van nuttige toepassing of verwijdering, daaronder begrepen voorlopige handelingen, alsmede van opslag en vervoer van afvalstoffen, in belangrijke mate afwijken van het op grond van het eerste lid berekende bedrag, kan de Minister een hogere financiële zekerheid verlangen, dan wel genoegen nemen met een lagere financiële zekerheid. Bij de berekening van de kosten, bedoeld in de eerste volzin, gelden als kosten voor opslag en vervoer van afvalstoffen de bedragen, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2009-11-01&g=2009-11-01) bij deze regeling.
 
 4. Financiële zekerheid wordt gesteld ten behoeve van de Staat der Nederlanden.
 
-5. In afwijking van het eerste lid wordt geen financiële zekerheid verlangd, wanneer het de in- of doorvoer van afvalstoffen betreft, afkomstig van een andere staat waar de EG-verordening overbrenging van afvalstoffen van toepassing is.
+5. Indien het invoer van afvalstoffen betreft, afkomstig van een staat waar de EG-verordening overbrenging van afvalstoffen niet van toepassing is, en de gestelde financiële zekerheid in het land van verzending onvoldoende is, kan de Minister financiële zekerheid verlangen waarbij het eerste tot en met vierde lid van overeenkomstige toepassing is.
 
 ##### Artikel 4
 
@@ -101,5 +101,51 @@ Wijzigt de Inzamelingsregeling CFK en halonen.
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling EG-verordening overbrenging van afvalstoffen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+1. Op verzoek merkt de Minister een inrichting waarin afvalstoffen nuttig worden toegepast aan als een vooraf goedgekeurde inrichting indien:
+
+- a. voor de inrichting een vergunning geldt als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) en deze vergunning het nuttig toepassen van de in de aanvraag opgenomen afvalstoffen op de in de aanvraag opgenomen wijze toestaat,
+
+- b. de inrichting ten minste vier jaar in bedrijf is,
+
+- c. ten aanzien van de natuurlijke of rechtspersoon die de inrichting drijft, een verklaring omtrent het gedrag, als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), is afgegeven, die op het tijdstip van het verzoek aan de Minister niet ouder is dan twee maanden, en
+
+- d. ten aanzien van de inrichting in de vier jaar voorafgaand aan de aanvraag geen bestuursrechtelijke sancties die niet meer in rechte aanvechtbaar zijn, zijn opgelegd vanwege overtredingen van bepalingen, genoemd in [bijlage 1 bij de Aanwijzing handhaving milieurecht](https://wetten.overheid.nl/jci1.3:c:BWBR0021148&bijlage=1) van het College van procureurs-generaal van 29 november 2005, kenmerk 2005A027 (Stcrt. 253).
+
+2. Met een verklaring omtrent het gedrag als bedoeld in het eerste lid, onder c, wordt gelijkgesteld een verklaring omtrent het gedrag afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden, mits die verklaring niet ouder is dan twee maanden.
+
+3. Voor een aanvraag als bedoeld in het eerste lid wordt gebruikgemaakt van een formulier waarvan het model is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=II&z=2009-11-01&g=2009-11-01) bij deze regeling.
+
+4. Een besluit van de Minister, als bedoeld in het eerste lid, geldt gedurende een termijn van tien jaar of, indien binnen die termijn de vergunning, bedoeld in het eerste lid, onder a, vervalt, tot en met het einde van de termijn waarvoor de vergunning geldt.
+
+5. De Minister trekt een besluit als bedoeld in het eerste lid in indien niet meer wordt voldaan aan het eerste lid.
+
+## Bijlage I. , behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=3&z=2009-11-01&g=2009-11-01), van de regeling eg-verordening overbrenging van afvalstoffen
+
+### Afvalstoffen waarvoor een lagere financiële zekerheid hoeft te worden gesteld
+
+Deze bijlage bevat vaste waarborgbedragen voor de hierna genoemde afvalstoffen.
+
+Het waarborgbedrag voor de onderstaande afvalstoffen wordt bepaald door de optelling van:
+
+1 ‘In bulk’ heeft betrekking op vloeibare afvalstoffen, die niet afzonderlijk zijn verpakt in vaten, IBC’s of anderszins tot ten hoogste 1000 liter.
+
+1 Alleen van toepassing in geval van R9 (herraffinage van afgewerkte olie en ander hergebruik van reeds gebruikte olie).
+
+2 Alleen van toepassing in geval van R2 (terugwinning van oplosmiddelen).
+
+## Bijlage II. , behorende bij [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=3a&z=2009-11-01&g=2009-11-01), van de regeling eg-verordening overbrenging van afvalstoffen
+
+### Aanvraagformulier VGI
+
+Het aanvraagformulier VGI is digitaal op te vragen op www.uitvoeringafvalbeheer.nl
+
+Het volledig ingevulde formulier dient schriftelijk te worden ingediend bij SenterNovem, Uitvoering Afvalbeheer, Postbus 93144, 2509 AC Den Haag.
+
+1 als bijlage bij de aanvraag te voegen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
