@@ -4,7 +4,7 @@ identifier: "BWBR0023613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-11-01"
-last_updated: "2008-11-19"
+last_updated: "2009-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023613"
 soort: "ministeriele-regeling"
@@ -61,7 +61,9 @@ In deze regeling wordt verstaan onder:
 
 - h. SID: Standard Instrument Departure, vertrekprocedure die de piloot middels een code in de boordcomputer invoert waardoor het vliegtuig die procedure volgt vanaf de startbaan, ook wel: uitvliegroute;
 
-- i. gebruiksjaar 2009: de periode van 1 november 2008 tot en met 31 oktober 2009.
+- i. gebruiksjaar 2009: de periode van 1 november 2008 tot en met 31 oktober 2009;
+
+- j. gebruiksjaar 2010: de periode van 1 november 2009 tot en met 31 oktober 2010.
 
 ##### Artikel 2. Doel
 
@@ -223,6 +225,76 @@ Voor de duur van het experiment wordt vrijstelling verleend van de [artikelen 3.
 | 24 | 106.000 | 471.050 | 46,10 | (47,10) |
 | 25 | 100.475 | 472.525 | 48,76 | (49,76) |
 
+5. In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2), gelden tijdens het verlengde experiment vanaf 1 november 2009 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:
+
+| Puntnummer | X-coördinaat | Y-coördinaat | Grenswaarde | Maximum grenswaarde in geval van buitengewone weersomstandigheden |
+| --- | --- | --- | --- | --- |
+| 1 | 97.325 | 470.400 | 55,98 | (56,98) |
+| 2 | 100.475 | 472.525 | 57,70 | (58,70) |
+| 3 | 104.150 | 474.925 | 58,75 | (59,75) |
+| 4 | 106.325 | 477.125 | 58,26 | (59,26) |
+| 5 | 108.875 | 478.725 | 57,91 | (58,91) |
+| 6 | 109.675 | 481.125 | 57,40 | (58,40) |
+| 7 | 107.625 | 486.025 | 57,59 | (58,59) |
+| 8 | 107.725 | 489.075 | 58,57 | (59,57) |
+| 9 | 107.725 | 492.100 | 57,02 | (58,02) |
+| 10 | 108.525 | 495.350 | 59,22 | (60,22) |
+| 11 | 109.175 | 498.100 | 58,76 | (59,76) |
+| 12 | 109.550 | 500.725 | 58,45 | (59,45) |
+| 13 | 110.250 | 503.025 | 57,48 | (58,48) |
+| 14 | 110.775 | 500.550 | 56,81 | (57,81) |
+| 15 | 110.575 | 496.725 | 57,94 | (58,94) |
+| 16 | 111.750 | 491.425 | 56,94 | (57,94) |
+| 17 | 111.825 | 487.425 | 57,15 | (58,15) |
+| 18 | 111.950 | 485.275 | 61,25 | (62,25) |
+| 19 | 113.625 | 482.275 | 53,90 | (54,90) |
+| 20 | 116.175 | 481.925 | 57,73 | (58,73) |
+| 21 | 119.050 | 481.900 | 57,47 | (58,47) |
+| 22 | 122.025 | 481.450 | 57,53 | (58,53) |
+| 23 | 118.800 | 481.050 | 56,71 | (57,71) |
+| 24 | 114.525 | 476.925 | 57,56 | (58,56) |
+| 25 | 116.100 | 474.050 | 57,91 | (58,91) |
+| 26 | 113.575 | 472.550 | 55,43 | (56,43) |
+| 27 | 112.500 | 468.500 | 56,19 | (57,19) |
+| 28 | 112.600 | 472.325 | 55,51 | (56,51) |
+| 29 | 112.525 | 475.400 | 57,04 | (58,04) |
+| 30 | 110.475 | 475.250 | 57,46 | (58,46) |
+| 31 | 108.600 | 475.075 | 58,78 | (59,78) |
+| 32 | 110.150 | 471.075 | 56,96 | (57,96) |
+| 33 | 106.800 | 471.150 | 56,77 | (57,77) |
+| 34 | 103.400 | 472.225 | 57,32 | (58,32) |
+| 35 | 98.400 | 470.300 | 57,17 | (58,17) |
+
+6. In plaats van de grenswaarden, genoemd in [bijlage 3 van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=3), gelden tijdens het verlengde experiment vanaf 1 november 2009 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:
+
+| Nr. | X- coördinaat | Y-coördinaat | Grenswaarde | Maximum grenswaarde in geval van buitengewone weersomstandigheden |
+| --- | --- | --- | --- | --- |
+| 1 | 102.750 | 473.250 | 52,99 | (53,99) |
+| 2 | 104.150 | 474.925 | 50,42 | (51,42) |
+| 3 | 105.750 | 476.600 | 47,89 | (48,89) |
+| 4 | 108.875 | 478.725 | 47,72 | (48,72) |
+| 5 | 108.025 | 485.875 | 52,18 | (53,18) |
+| 6 | 108.350 | 492.100 | 51,90 | (52,90) |
+| 7 | 108.525 | 495.350 | 49,96 | (50,96) |
+| 8 | 109.275 | 501.750 | 48,51 | (59,51) |
+| 9 | 109.675 | 504.850 | 46,83 | (47,83) |
+| 10 | 110.825 | 504.425 | 47,44 | (48,44) |
+| 11 | 110.775 | 500.550 | 48,54 | (49,54) |
+| 12 | 110.575 | 496.725 | 49,87 | (50,87) |
+| 13 | 110.600 | 494.400 | 50,53 | (51,53) |
+| 14 | 110.175 | 488.550 | 52,44 | (53,44) |
+| 15 | 118.825 | 481.650 | 52,41 | (53,41) |
+| 16 | 120.250 | 481.500 | 51,32 | (52,32) |
+| 17 | 118.825 | 481.350 | 52,38 | (53,38) |
+| 18 | 111.000 | 476.350 | 47,51 | (48,51) |
+| 19 | 109.175 | 474.600 | 46,02 | (47,02) |
+| 20 | 110.750 | 471.600 | 46,15 | (47,15) |
+| 21 | 115.875 | 468.125 | 43,75 | (44,75) |
+| 22 | 111.800 | 467.525 | 44,17 | (45,17) |
+| 23 | 109.500 | 468.025 | 45,79 | (46,79) |
+| 24 | 106.000 | 471.050 | 46,15 | (47,15) |
+| 25 | 100.475 | 472.525 | 48,84 | (49,84) |
+
 ##### Artikel 5. Uitvoering
 
 De routewijzigingen gelden voor al het straalverkeer op de betreffende routes. Hierdoor zullen alle straalvliegtuigen de aangepaste routes vliegen.
@@ -261,7 +333,7 @@ In onvoorziene gevallen kunnen op advies van belanghebbenden de Minister van Ver
 
 ##### Artikel 9. Termijn experiment
 
-De termijn van de experimenten betreft de periode vanaf 13 maart 2008 tot en met 31 oktober 2008. De termijn van het verlengde experiment betreft het gebruiksjaar 2009.
+De termijn van de experimenten betreft de periode vanaf 13 maart 2008 tot en met 31 oktober 2008. De termijn van het verlengde experiment betreft het gebruiksjaar 2009. De termijn van het op grond van [artikel 8.23a, zesde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23a) verlengde experiment betreft de periode vanaf 1 november 2009 tot het tijdstip waarop het besluit tot wijziging van het [LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330) waarmee het experiment onderdeel wordt van dat besluit in werking treedt.
 
 ##### Artikel 10. Inwerkingtreding
 
