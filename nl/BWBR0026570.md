@@ -1,0 +1,910 @@
+---
+title: "Regeling van de Minister van Verkeer en Waterstaat van 27 oktober 2009, nr. CEND/HDJZ-2009/1166 sector LUV, houdende regels in verband met de aanleg, de inrichting, de uitrusting en het veilig gebruik van luchthavens en andere terreinen met het oog op de orde en de veiligheid op die luchthavens en terreinen (Regeling veilig gebruik luchthavens en andere terreinen)"
+identifier: "BWBR0026570"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-01"
+last_updated: "2009-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026570"
+soort: "ministeriele-regeling"
+stam_id: "10256693"
+version_id: "16786132"
+internal_id: "C23110311"
+label_id: "10232884"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026570/2024-07-01/0"
+intitule_bron: "Stcrt.2009-16336"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-10-27"
+intitule_published: "2009-10-30"
+intitule_in_force: "2009-10-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-16336"
+original_signed_date: "2009-10-27"
+original_published_date: "2009-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-16336"
+entry_into_force_date: "2009-11-01"
+jci_1_3: "jci1.3:c:BWBR0026570&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0026570&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling veilig gebruik luchthavens en andere terreinen"
+signed_date: "2009-10-27"
+entry_into_force: "2009-11-01"
+---
+# Regeling van de Minister van Verkeer en Waterstaat van 27 oktober 2009, nr. CEND/HDJZ-2009/1166 sector LUV, houdende regels in verband met de aanleg, de inrichting, de uitrusting en het veilig gebruik van luchthavens en andere terreinen met het oog op de orde en de veiligheid op die luchthavens en terreinen (Regeling veilig gebruik luchthavens en andere terreinen)
+
+Gelet op bijlage 14 bij het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109), de [artikelen 8a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.1), [8a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.3), en [8a.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.51) en [artikel 51 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=51);
+
+Besluit:
+
+### Hoofdstuk 1. Algemene bepalingen
+
+##### Artikel 1
+
+1. In deze regeling wordt verstaan onder:
+
+- –. **baan:** een al dan niet verhard gedeelte van de luchthaven, uitsluitend bestemd voor het opstijgen of landen van luchtvaartuigen;
+
+- –. **beweging:** een start of een landing met een luchtvaartuig;
+
+- –. **CTR:** CTR als bedoeld in [artikel 1 van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=1);
+
+- –. **gemotoriseerd schermvliegtuig:** schermvliegtuig als bedoeld in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1) uitgerust met een motor;
+
+- –. **gyroplane:** helikopter als bedoeld in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1) waarvan de rotorbladen niet door de motor worden aangedreven;
+
+- –. **helikopter:** helikopter als bedoeld in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1), niet zijnde een gyroplane;
+
+- –. **helikopterluchthaven:** burgerluchthaven die uitsluitend wordt gebruikt door helikopters;
+
+- –. **houder van een ontheffing:** houder van een ontheffing als bedoeld in [artikel 8a.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.51);
+
+- –. **landbouwluchtvaartuig:** een voor het uitvoeren van landbouwwerkzaamheden toegelaten luchtvaartuig;
+
+- –. **luchtvaartvertoning:** luchtvaartvertoning als bedoeld in [artikel 1, tweede lid, onderdeel h, van de Regeling luchtvaartvertoningen](https://wetten.overheid.nl/jci1.3:c:BWBR0016301&artikel=1);
+
+- –. **minister:** Minister van Verkeer en Waterstaat;
+
+- –. **mla:** MLA als bedoeld in [artikel 1 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=1);
+
+- –. **obstakel:** een roerende of onroerende zaak, zowel tijdelijk als permanent, of een deel daarvan, die een belemmering vormt voor een luchtvaartuig, in een gebied bestemd voor bewegingen van een luchtvaartuig op de grond dan wel uitsteekt boven een omschreven vlak ter bescherming van een luchtvaartuig in zijn vlucht;
+
+- –. **onbemand luchtvaartuig tot 150 kilogram:** onbemand luchtvaartuig tot 150 kilogram, niet zijnde een modelluchtvaartuig waarvan de totale massa ten hoogste 25 kilogram bedraagt;
+
+- –. **schermvliegtuig:** schermvliegtuig als bedoeld in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1);
+
+- –. **strook:** gedeelte van een luchthaven waarin een baan is gelegen;
+
+- –. **terrein voor tijdelijk en uitzonderlijk gebruik:** terrein als bedoeld in [artikel 8a.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.51);
+
+- –. **TMG:** Touring Motor Glider als bedoeld in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1);
+
+- –. **het verdrag:** het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
+
+- –. **verhoogde helikopterluchthaven:** een helikopterluchthaven op een bouwwerk of constructie op het land van meer dan 3 meter hoogte ten opzichte van het omgevingsvlak;
+
+- –. **vliegtuig:** vliegtuig als bedoeld in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1);
+
+- –. **vrije ballon:** vrije ballon als bedoeld in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1);
+
+- –. **waterluchthaven:** burgerluchthaven, zijnde een watergebied, ingericht voor het gebruik door watervliegtuigen;
+
+- –. **watervliegtuig:** vliegtuig dat zich te water als schip kan verplaatsen;
+
+- –. **zeemijl:** de afstand van 1852 meter;
+
+- –. **zweeftoestel:** zweeftoestel als bedoeld in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1), niet zijnde een gemotoriseerd schermvliegtuig.
+
+2. Indien de tekst van de in deze regeling genoemde bijlagen bij het verdrag wijzigt, geldt deze wijziging vanaf het moment dat van deze wijziging mededeling is gedaan in het Tractatenblad.
+
+### Hoofdstuk 2. Regels veilig gebruik burgerluchthavens met een luchthavenbesluit en benoemde burgerluchthavens
+
+### Afdeling 1. Reikwijdte
+
+##### Artikel 2
+
+Dit hoofdstuk is van toepassing op:
+
+- a. burgerluchthavens die gebruikt worden door vliegtuigen en waarvoor een luchthavenbesluit is vastgesteld;
+
+- b. helikopterluchthavens:
+
+- 1°. waarvoor een luchthavenbesluit is vastgesteld;
+
+- 2°. die verbonden zijn met een ziekenhuis;
+
+- 3°. die verhoogd zijn aangelegd, of
+
+- 4°. die verbonden zijn met een mijnbouwinstallatie als bedoeld in [artikel 51 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=51);
+
+- c. de volgende luchthavens die gebruikt worden door vliegtuigen: Ameland, Budel, Drachten, Eelde, Hilversum, Hoogeveen, Lelystad, Maastricht, Midden-Zeeland, Oostwold, Rotterdam, Seppe, Schiphol, Teuge en Texel;
+
+- d. de volgende helikopterluchthavens: Amsterdam (Amsterdam Heliport), Emmercompascuum (Heli Holland BV), Rotterdam Maasvlakte (ten behoeve van het loodswezen), Zierikzee (Prince Helicopters) en Heteren (Rosorum BV).
+
+### Afdeling 2. Certificering
+
+##### Artikel 3
+
+Deze afdeling is van toepassing op de luchthaven Schiphol en op overige burgerluchthavens, met uitzondering van helikopterluchthavens, waarvoor vaststelling van een luchthavenbesluit is vereist.
+
+##### Artikel 4
+
+De exploitant beschikt over een veiligheidsmanagementsysteem, dat ten minste bevat:
+
+- a. veiligheidsbeleid;
+
+- b. organisatiestructuur;
+
+- c. taken, bevoegdheden en verantwoordelijkheden van sleutelfunctionarissen;
+
+- d. relevante bedrijfsprocessen;
+
+- e. risico-inventarisatie en de daaruit voortvloeiende verbeteringen;
+
+- f. bedrijfsmiddelen;
+
+- g. opleiding en training;
+
+- h. melding van ongevallen en ernstige incidenten;
+
+- i. registratie, analyse en afhandeling van ongevallen en incidenten, defecten en gebreken, afwijkingen en tekortkomingen en interne en externe klachten met betrekking tot de veiligheid;
+
+- j. documenten- en registratiebeheer;
+
+- k. met anderen gemaakte afspraken inzake de veiligheid op en rond de luchthaven;
+
+- l. een beschrijving van de wijze waarop de exploitant nagaat of de door hem gestelde voorschriften met betrekking tot de orde en veiligheid door de gebruikers van de luchthaven worden nageleefd en van de maatregelen die hij zo nodig neemt;
+
+- m. in geval van een gecontroleerde luchthaven: een samenwerkingsprotocol tussen de exploitant en de plaatselijke luchtverkeersleidingsdienst met betrekking tot het luchthaventerreinverkeer op het landingsterrein, uitgezonderd luchtvaartuigen en met betrekking tot het verkeer van luchtvaartuigen naar, van en op de platformen.
+
+##### Artikel 5
+
+1. De exploitant draagt er zorg voor dat het luchthavenbedrijfshandboek een actuele beschrijving bevat van het veiligheidsmanagementsysteem alsmede van de aanleg, de inrichting, de uitrusting en het veilig gebruik van de luchthaven.
+
+2. De exploitant draagt er zorg voor dat de Inspectie Verkeer en Waterstaat en de op de luchthaven gevestigde bedrijven en organisaties, die hun werkzaamheden op het luchtvaartgebied uitoefenen, beschikken over de actuele versie van de voor hen relevante onderdelen van het luchthavenbedrijfshandboek en stelt hen onverwijld in kennis van wijzigingen daarvan.
+
+##### Artikel 6
+
+1. Als sleutelfunctionaris als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=2&artikel=4&z=2009-11-01&g=2009-11-01), wordt in ieder geval aangemerkt een door de exploitant te benoemen havenmeester.
+
+2. De havenmeester wordt door de exploitant belast met het dagelijkse toezicht op de luchthaven en in het bijzonder met het toezicht op de orde en veiligheid in het luchtvaartgebied.
+
+3. De havenmeester verricht zijn taak onverminderd de verantwoordelijkheid van de exploitant.
+
+4. De functie van havenmeester mag verenigd worden met die van directeur van de luchthaven.
+
+##### Artikel 7
+
+1. De exploitant controleert ten minste één maal per jaar of de werking van het veiligheidsmanagementsysteem doeltreffend en doelmatig is.
+
+2. Bij luchthavens die beschikken over een baan die langer is dan 1200 meter en voorzieningen hebben voor landingen met behulp van navigatie-instrumenten, beschikt de exploitant over een intern auditprogramma op basis waarvan de jaarlijkse controle van het veiligheidsmanagementsysteem wordt uitgevoerd.
+
+3. Indien de resultaten van de controle, bedoeld in het eerste lid, daartoe aanleiding geven wijzigt de exploitant het veiligheidsmanagementsysteem.
+
+##### Artikel 8
+
+1. De exploitant zorgt voor de vastlegging van de gegevens die noodzakelijk zijn voor de werking van het veiligheidsmanagementsysteem.
+
+2. De exploitant heeft de meest recente uitgave van documenten voorhanden op de daartoe bestemde plaatsen.
+
+3. De exploitant registreert de uitgave van documenten alsmede de wijziging van documenten.
+
+### Afdeling 3. Luchthavens die gebruikt worden door vliegtuigen
+
+#### § 1. Reikwijdte
+
+##### Artikel 9
+
+Deze afdeling is van toepassing op:
+
+- a. burgerluchthavens die gebruikt worden door vliegtuigen en waarvoor een luchthavenbesluit is vastgesteld;
+
+- b. de volgende luchthavens: Ameland, Budel, Drachten, Eelde, Hilversum, Hoogeveen, Lelystad, Maastricht, Midden-Zeeland, Oostwold, Rotterdam, Seppe, Schiphol, Teuge en Texel.
+
+#### § 2. Aanleg, inrichting, uitrusting en gebruik van de luchthaven
+
+##### Artikel 10
+
+De exploitant draagt er zorg voor dat de aanleg, de inrichting, de uitrusting en het gebruik van een luchthaven voldoen aan de voorschriften en aanbevelingen van deel I (Aerodrome Design and Operations) van bijlage 14 bij het verdrag, met uitzondering van de volgende onderdelen:
+
+- a. 1.2.1, 1.2.2, 1.4 en 1.5;
+
+- b. de volzin ‘Contracting States shall ensure that integrity of aeronautical data is maintained throughout the data process from survey/origin to the next intended user’ in 2.1.2, 2.5.3 en 2.5.4;
+
+- c. 3.1.1 tot en met 3.1.4, 3.1.8, 3.12.1 en 3.15.1;
+
+- d. 5.3.1.1 tot en met 5.3.1.3, 5.3.3 en 5.4.5;
+
+- e. 6.1.10, 6.1.11, 6.2.8, 6.2.9 en 6.3.12;
+
+- f. 9.3, 9.4.1 onder a, 9.4.2, de zinsnede ‘or in the vicinity of’ in de onderdelen 9.4.3 en 9.4.4, 9.10.5 en 9.10.6.
+
+##### Artikel 11
+
+De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=10&z=2009-11-01&g=2009-11-01) niet uitgezonderde onderdelen van deel I (Aerodrome Design and Operations) van bijlage 14 bij het verdrag gelden met dien verstande dat:
+
+- a. de exploitant ervoor zorgt dat de gegevens, bedoeld in hoofdstuk 2 van deel I van bijlage 14, worden verstrekt aan de organisatie die verantwoordelijk is voor de uitgifte van luchtvaartpublicaties;
+
+- b. de plicht tot het gebruik van een CRC-algoritme, bedoeld in onderdeel 2.1.3, geldt met ingang van 18 november 2010;
+
+- c. de plicht tot het verstrekken van gegevens, bedoeld in onderdeel 2.6.2, alleen betrekking heeft op verhardingen die bestemd zijn voor het gebruik van een luchtvaartuig met een ledige startmassa van meer dan 6 000 kg;
+
+- d. de informatie, bedoeld in de onderdelen 2.6.5 en 2.6.6, onder a, eveneens verstrekt mag worden met gebruikmaking van de codes ‘special-rigid (SR)’of ‘special flexible (SF)’;
+
+- e. onderdeel 2.6.8 van toepassing is op de draagkracht van een onverharde luchthaven die bestemd is voor het gebruik van een luchtvaartuig met een ledige startmassa van maximaal 6 000 kg;
+
+- f. bij de uitvoering van onderdeel 2.12, onder e, tevens vermeld wordt op welk vliegtuigtype de daar bedoelde informatie betrekking heeft;
+
+- g. de voorschriften en aanbevelingen in hoofdstuk 4 van deel I van bijlage 14 slechts van toepassing zijn binnen de grenzen van de luchthaven;
+
+- h. een seinvierkant als bedoeld in onderdeel 5.1.2 niet verplicht is op luchthavens met luchtverkeersleiding;
+
+- i. de eis van breekbaarheid, bedoeld in onderdeel 5.3.1.4, geldt binnen het gehele gebied waarbinnen verhoogde naderingslichten (elevated approach lights) zijn geplaatst;
+
+- j. het visuele-naderingshoeksysteem (visual approach slope indicator system), bedoeld in onderdeel 5.3.5, moet behoren tot het type PAPI;
+
+- k. het locatiebord, bedoeld in onderdeel 5.4.3.26, is voorzien van een gele rand met een breedte van 0,5 maal de streepbreedte;
+
+- l. onderdeel 9.2.19 niet van toepassing is op luchthavens die volgens tabel 9-1 zijn ingedeeld in de categorieën 1, 2 of 3;
+
+- m. op een luchthaven die is ingericht voor het tijdstip van inwerkingtreding van de onderhavige regeling kan binnen 4 minuten de volledige hoeveelheid blusmiddel, bedoeld in de kolommen 3 of 5 van tabel 9-2, zijn opgebracht;
+
+- n. onderdeel 9.2.22 alleen van toepassing is op verharde banen die zijn aangelegd na het tijdstip van inwerkingtreding van de onderhavige regeling;
+
+- o. op banen als bedoeld in onderdeel n van artikel 11 van de onderhavige regeling kan binnen 3 minuten de volledige hoeveelheid blusmiddel, bedoeld in de kolommen 3 of 5 van tabel 9-2, zijn opgebracht;
+
+- p. onder voldoende getraind personeel, bedoeld in onderdeel 9.2.36, minimaal de in de onderstaande tabel opgenomen aantallen personeel wordt verstaan:
+
+| Luchthaven categorie | Officier van dienst (AFO) | Bevelvoerder | Manschap | Totaal |
+| --- | --- | --- | --- | --- |
+| 1 |   |   | 2 | 2 |
+| 2 |   |   | 2 | 2 |
+| 3 |   |   | 3 | 3 |
+| 4 |   | 1 | 3 | 4 |
+| 5 |   | 1 | 3 | 4 |
+| 6 |   | 1 | 6 | 7 |
+| 7 |   | 1 | 6 | 7 |
+| 8, 9 en 10 | 1 | 1 | 9 | 11 |
+
+- q. onder ‘the appropriate authority’, bedoeld in deel I van bijlage 14 van het verdrag, wordt verstaan:
+
+- 1°. in de onderdelen 9.4.3 en 10.4.13: de exploitant van de luchthaven;
+
+- 2°. in de overige gevallen: de minister.
+
+##### Artikel 12
+
+Op een luchthaven wordt geen bouwwerk opgericht dat:
+
+- a. de goede werking van de ten behoeve van de luchthaven aanwezige communicatie-, navigatie- en radarapparatuur verstoort,
+
+- b. zog-turbulenties of wervelstraten veroorzaakt die de veiligheid van het vliegverkeer verstoren, of
+
+- c. het zicht van de luchtverkeersleiding vanuit de verkeerstoren op de banen belemmert.
+
+##### Artikel 13
+
+Op het deel van een luchthaven, buiten het deel van de luchthaven dat wordt gebruikt voor en ten behoeve van de hoofdbaan, dat wordt gebruikt door een van de luchtvaartuigen als bedoeld in de [paragrafen 3 tot en met 12 van hoofdstuk 3 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=3&z=2009-11-01&g=2009-11-01), zijn de eisen die in [deze paragrafen](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=3&z=2009-11-01&g=2009-11-01) zijn opgenomen met betrekking tot een luchthaven en het gebruik hiervan door een dergelijk luchtvaartuig van overeenkomstige toepassing.
+
+##### Artikel 14
+
+1. De exploitant moet een register aanleggen waarin gegevens worden bijgehouden omtrent elk luchtvaartuig dat op de luchthaven landt of daarvan opstijgt en het daarmee gepleegde vervoer.
+
+2. De exploitant houdt van niet-verkeersvluchten de volgende gegevens bij:
+
+- a. het nationaliteits- en inschrijvingskenmerk, type luchtvaartuig tevens inhoudende de inrichting van het luchtvaartuig en de naam van de eigenaar of houder;
+
+- b. de naam van de gezagvoerder van het luchtvaartuig;
+
+- c. de luchthaven, waarvan het luchtvaartuig het laatst is vertrokken, alsmede het tijdstip van aankomst;
+
+- d. de luchthaven van bestemming, alsmede tijdstip van vertrek;
+
+- e. de aard van de vlucht, alsmede het aantal inzittenden;
+
+- f. de baan- en circuitrichting.
+
+3. De exploitant houdt van verkeersvluchten dezelfde gegevens bij als van niet-verkeersvluchten, met uitzondering van de onderdelen b en e van het tweede lid, doch dient daarentegen van verkeersvluchten de volgende additionele gegevens bij te houden:
+
+- a. het vluchtnummer;
+
+- b. de herkomst of bestemming van de vervoerde passagiers, zowel voor passagiers met bestemming respectievelijk herkomst Nederland als voor overstappende passagiers en doorgaande passagiers;
+
+- c. de herkomst of bestemming van de vervoerde vracht en post, zowel voor vracht en post met bestemming respectievelijk herkomst Nederland als voor vracht en post met overslag.
+
+4. De gegevens van het register dienen ten minste 2 jaar te worden bewaard.
+
+### Afdeling 4. Helikopterluchthavens
+
+#### § 1. Reikwijdte
+
+##### Artikel 15
+
+Deze afdeling is van toepassing op:
+
+- a. helikopterluchthavens:
+
+- 1°. waarvoor een luchthavenbesluit is vastgesteld;
+
+- 2°. die verbonden zijn met een ziekenhuis;
+
+- 3°. die verhoogd zijn aangelegd, of
+
+- 4°. die verbonden zijn met een mijnbouwinstallatie als bedoeld in [artikel 51 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=51);
+
+- b. de volgende helikopterluchthavens: Amsterdam (Amsterdam Heliport) Emmercompascuum (Heli Holland BV), Heteren (Rosorum BV), Rotterdam Maasvlakte (ten behoeve van het loodswezen) en Zierikzee (Prince Helicopters).
+
+#### § 2. Aanleg, inrichting, uitrusting en gebruik van de luchthaven
+
+##### Artikel 16
+
+De exploitant draagt er zorg voor dat de aanleg, de inrichting, de uitrusting en het gebruik van een helikopterluchthaven voldoen aan de voorschriften en aanbevelingen van deel II (Heliports) van bijlage 14 bij het verdrag, met uitzondering van de volgende onderdelen:
+
+- a. 1.2.1 en 1.2.2;
+
+- b. de volzin ‘Contracting States shall ensure that integrity of aeronautical data is maintained throughout the data process from survey/origin to the next intended user’ in 2.1.2 en 2.4.2 tot en met 2.4.4;
+
+- c. 5.3.2.
+
+##### Artikel 17
+
+De in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=16&z=2009-11-01&g=2009-11-01) niet uitgezonderde onderdelen van deel II (Heliports) van bijlage 14 bij het verdrag gelden met dien verstande dat:
+
+- a. de hoogte limiet van een obstakel in de safety area, bedoeld in onderdeel 3.1.18, van een grond gebonden helikopterluchthaven 35 cm bedraagt;
+
+- b. de separatie afstand, bedoeld in onderdeel 3.1.23, niet minder is dan 1 maal de grootste breedte van de helikopter met draaiende rotorbladen van een taxibaan tot een obstakel en van een taxibaan tot de grens van een helikopter parkeerplaats;
+
+- c. de separatie afstand, bedoeld in onderdeel 3.1.33, tussen twee taxibanen in de lucht of tussen een taxibaan in de lucht en een taxibaan op de grond niet minder is dan drie maal de grootste breedte van een helikopter met draaiende rotorbladen;
+
+- d. de afstand, bedoeld in onderdeel 3.1.39, tussen de strook en een FATO niet minder is dan twee maal de lengte over alles van de grootste gebruikmakende helikopter;
+
+- e. voor klasse 2 en 3 helikopters geldt voor de eerste sectie van de naderings- en startsector, bedoeld in onderdeel 4.2.5, een helling van 12,5 %;
+
+- f. de voorschriften en aanbevelingen in hoofdstuk 4 van deel II van bijlage 14 slechts van toepassing zijn binnen de grenzen van de luchthaven;
+
+- g. de marker, bedoeld in onderdeel 5.2.4.4, niet hoger dan 35 centimeter mag zijn,
+
+- h. de eis van breekbaarheid, bedoeld in onderdeel 5.3.4.4, geldt binnen het gehele gebied waarbinnen het naderings-verlichtings-systeem is geplaatst;
+
+- i. het visuele-naderingshoeksysteem (visual approach slope indicator system), bedoeld in onderdeel 5.3.5.2, moet behoren tot het type PAPI of HAPI.
+
+##### Artikel 18
+
+1. Een verhoogde helikopterluchthaven die gebruikt wordt door een helikopter die is ingedeeld in performance klasse 3, bedoeld in onderdeel III van bijlage 6 bij het verdrag, is zodanig gelegen dat in de directe omgeving van de luchthaven geschikte gronden aanwezig zijn voor het uitvoeren van een nood- of voorzorgslanding.
+
+2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=14&z=2009-11-01&g=2009-11-01) is, met uitzondering van helikopterluchthavens die verbonden zijn met een mijnbouwinstallatie als bedoeld in [artikel 51 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=51), van overeenkomstige toepassing.
+
+### Hoofdstuk 3. Regels veilig gebruik overige burgerluchthavens en terreinen voor tijdelijk en uitzonderlijk gebruik
+
+#### § 1. Reikwijdte
+
+##### Artikel 19
+
+Dit hoofdstuk is van toepassing op:
+
+- a. burgerluchthavens die niet onder de reikwijdte van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&z=2009-11-01&g=2009-11-01) vallen;
+
+- b. terreinen voor tijdelijk en uitzonderlijk gebruik, met uitzondering van terreinen die worden gebruikt door vliegtuigen die deelnemen aan een luchtvaartvertoning.
+
+#### § 2. Algemene aanleg-, inrichtings-, uitrustings- en gebruiksvoorschriften
+
+##### Artikel 20
+
+1. Een luchthaven is zodanig gelegen dat:
+
+- a. het landen en opstijgen kan geschieden, zonder dat daarbij behoeft te worden gevlogen boven gebieden met aaneengesloten woonbebouwing of kunstwerken, met inbegrip van industrie- en havengebieden;
+
+- b. in de onmiddellijke omgeving van de luchthaven voldoende geschikte gronden aanwezig zijn voor het uitvoeren van een nood- of voorzorgslanding;
+
+- c. binnen een gebied met een straal van 2000 meter vanuit de vastgestelde geografische positie van de luchthaven geen obstakels steken door een denkbeeldig horizontaal vlak op een hoogte van 45 meter boven het hoogst gelegen punt binnen de luchthaven;
+
+- d. geen obstakels steken door een vlak, aansluitend op het vlak, bedoeld in het vorige onderdeel, dat in hoogte oploopt met een helling van 1:10 (hoogte:afstand) tot een hoogte van 80 meter boven de grond;
+
+- e. in het verlengde van een baan geen obstakels steken door een denkbeeldig vlak dat met de breedte van de strook als basis, oploopt met een helling van 1:20 (hoogte:afstand) en een divergentie van 10% tot op een afstand van 900 meter van de baan of de landingsplaats;
+
+- f. ter weerszijden van een baan geen obstakels steken door een denkbeeldig vlak dat met de lengte van de strook als basis, oploopt met een helling van 1:2 (hoogte:afstand) en aansluit op het horizontale vlak, bedoeld in onderdeel e;
+
+- g. de luchthaven bereikbaar is voor voertuigen van hulpdiensten.
+
+2. Op luchthavens die voor het tijdstip van inwerkingtreding van de onderhavige regeling zijn opgericht, zijn de onderdelen c tot en met f van het eerste lid niet van toepassing voor wat betreft obstakels die aanwezig zijn op het moment van inwerkingtreding van de onderhavige regeling.
+
+3. Op of in de onmiddellijke nabijheid van een luchthaven die wordt gebruikt door gemotoriseerde luchtvaartuigen zijn voldoende en deugdelijke reddings- en brandblusmiddelen aanwezig voor het redden van mensenlevens en de bestrijding van branden van luchtvaartuigen alsmede voldoende en terzake kundige personen voor de bediening van deze middelen.
+
+4. Op de luchthaven is een windzak aanwezig die zowel de actuele windrichting als een globale indicatie van de windsnelheid boven de landingsplaats aangeeft.
+
+5. De windzak is op een zodanige plaats opgesteld, dat deze door de gezagvoerder, zowel vanuit de lucht als vanaf de grond, goed kan worden waargenomen.
+
+6. De windzak is gevrijwaard van storende invloeden op richting en snelheid van de wind.
+
+7. De baan is vlak en heeft een dusdanige samenstelling dat het de massa van het luchtvaartuig kan dragen.
+
+8. Indien het oppervlak van een start- of landingsplaats bestaat uit een gewas dan is dit ten hoogste 0,15 meter hoog.
+
+9. De baan, taxibaan of landingsplaats zijn gemarkeerd met een doelmatige markering.
+
+10. In het geval een openbare weg of spoorweg in de nabijheid van de luchthaven aanwezig is, dan geldt deze als een obstakel van 5 respectievelijk 5,5 meter boven die weg of spoorweg.
+
+11. De leden 1, 7, 8 en 10 zijn van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik.
+
+##### Artikel 21
+
+Een terrein voor tijdelijk en uitzonderlijk gebruik is niet gelegen:
+
+- a. in een gebied waar het uitoefenen van het burgerluchtverkeer tijdelijk of blijvend is verboden op grond van [artikel 5.10, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10);
+
+- b. in en binnen een afstand van 6 zeemijlen van de grens van de CTR van de luchthaven, Schiphol, Maastricht, Rotterdam, Eelde, De Kooij of Eindhoven, tenzij de organisatie die de plaatselijke luchtverkeersleiding verzorgt schriftelijk of per e-mail heeft verklaard dat een veilige vliegoperatie ten opzichte van het luchtverkeer van en naar deze luchthavens mogelijk is;
+
+- c. in en binnen een afstand van 3 zeemijlen van de grens van de CTR van een andere luchthaven dan genoemd in onderdeel b, tenzij de organisatie die de plaatselijke luchtverkeersleiding verzorgt schriftelijk of per e-mail heeft verklaard dat een veilige vliegoperatie ten opzichte van het luchtverkeer van en naar deze luchthaven mogelijk is;
+
+- d. binnen een op grond van [artikel 45, tweede lid, onderdeel c, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=45) aangewezen oefengebied voor nood- of voorzorgslandingen van burgerluchtvaartuigen;
+
+- e. onder of binnen een afstand van 3 zeemijlen van een laagvliegroute of een laagvlieggebied als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007141&artikel=4) en [5 van de Regeling VFR-nachtvluchten en minimum vlieghoogten voor militaire luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007141&artikel=5), tenzij het gebruik zich beperkt tot vrijdagen na 17.00 uur plaatselijke tijd, zaterdagen, zondagen of nationale feestdagen;
+
+- f. binnen een afstand van 3 zeemijl van de grens van een luchthaven waarboven geen CTR is ingesteld, tenzij de exploitant van de betreffende luchthaven schriftelijk of per e-mail heeft verklaard dat een veilige vliegoperatie ten opzichte van het luchtverkeer van en naar de deze luchthaven mogelijk is.
+
+##### Artikel 22
+
+1. Het gebruik van een luchthaven voldoet aan de volgende eisen:
+
+- a. de exploitant wijst een beheerder aan;
+
+- b. de beheerder wordt door de exploitant belast met het dagelijkse toezicht op de luchthaven en in het bijzonder met het toezicht op de veiligheid en de goede orde op de luchthaven;
+
+- c. het gebruik van de luchthaven wordt door de exploitant vastgelegd in een register. In dit register worden ten minste de navolgende gegevens vermeld:
+
+- 1°. het nationaliteits- en inschrijvingskenmerk, type luchtvaartuig tevens inhoudende de inrichting van het luchtvaartuig en de naam van de eigenaar c.q. houder;
+
+- 2°. de naam van de gezagvoerder van het luchtvaartuig;
+
+- 3°. de luchthaven, waarvan het luchtvaartuig het laatst is vertrokken, alsmede het tijdstip van aankomst;
+
+- 4°. de luchthaven van bestemming, alsmede tijdstip van vertrek;
+
+- 5°. de aard van de vlucht, alsmede het aantal inzittenden;
+
+- 6°. de baan- en circuitrichting.
+
+- d. de gegevens van het register worden ten minste 2 jaar bewaard.
+
+- e. de exploitant draagt de volgende gegevens over aan de organisatie die verantwoordelijk is voor de uitgifte van luchtvaartpublicaties:
+
+- 1°. het feitelijke adres van de luchthaven;
+
+- 2°. de aangewezen geografische positie van de luchthaven in noordelijke breedte en oostelijke lengte;
+
+- 3°. naam en telefoonnummer van de beheerder van de luchthaven;
+
+- f. het innemen van brandstof door een luchtvaartuig vindt plaats met uitgeschakelde motor en met stilstaande propeller of rotorbladen;
+
+- g. de exploitant draagt er zorg voor dat het gebruik is afgestemd op de beschikbare landings- en parkeercapaciteit op de luchthaven.
+
+2. Het eerste lid, onderdelen f en g, zijn van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik, met dien verstande dat in plaats van ‘de exploitant’ wordt gelezen: de houder van de ontheffing, bedoeld in [artikel 8a.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.51).
+
+#### § 3. Helikopters
+
+##### Artikel 23
+
+1. Een helikopterluchthaven en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), aan de volgende eisen:
+
+- a. de luchthaven en het gebruik hiervan voldoen aan de voorschriften en aanbevelingen uit de navolgende onderdelen van deel II (Heliports) van bijlage 14 bij het verdrag: 3.1.1, 3.1.2, 3.1.4, 3.1.5, 3.1.10, 3.1.11, 3.1.14, 3.1.15, 3.1.17, 3.1.20 en 3.1.21.
+
+- b. de luchthaven is zodanig gelegen dat in de in- en uitvliegsectoren geen obstakels steken door een denkbeeldig vlak, dat met de korte zijde van de luchthaven als basis, oploopt met een helling van 1:8 (hoogte:afstand) tot een afstand van 245 meter, gemeten vanaf de landingsplaats, en divergerend tot een breedte van 7 maal de rotordiameter.
+
+- c. de uitvliegsector ligt in het verlengde van de invliegsector of maakt een hoek van maximaal 30° met de invliegsector.
+
+2. [Artikel 20, eerste lid, onderdelen e en f en het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=20&z=2009-11-01&g=2009-11-01), zijn niet van toepassing op een luchthaven als bedoeld in het eerste lid.
+
+##### Artikel 24
+
+1. Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een helikopter en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), aan de volgende eisen:
+
+- a. het terrein is verder gelegen dan 50 meter van aaneengesloten woonbebouwing;
+
+- b. het terrein is verder gelegen dan 25 meter van een openbare weg, tenzij deze weg door de bevoegde autoriteiten is afgezet;
+
+- c. het terrein heeft afmetingen die ten minste gelijk zijn aan de minimale afmetingen als vermeld in het vlieghandboek behorende bij de betreffende helikopter;
+
+- d. indien met draaiende rotor passagiers in- en uit moeten stappen dan worden deze door daartoe getraind personeel op een veilige wijze naar en van de helikopter geleid.
+
+2. [Artikel 20, eerste lid, onderdelen c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=20&z=2009-11-01&g=2009-11-01), zijn niet van toepassing op een terrein als bedoeld in het eerste lid.
+
+#### § 4. Mla’s
+
+##### Artikel 25
+
+1. Een luchthaven die gebruikt wordt door een mla voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), aan de volgende eisen:
+
+- a. voor het landen en opstijgen is een baan beschikbaar met een lengte van ten minste 200 meter en een breedte van ten minste 30 meter;
+
+- b. de baan ligt in een obstakelvrije strook van ten minste 300 bij 30 meter, waarbij de korte zijde van de baan op een afstand van 50 meter van het begin van de strook is gelegen, terwijl de breedte van de luchthaven zodanig is, dat buiten de obstakelvrije strook met een mla kan worden getaxied.
+
+2. Het eerste lid is van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een mla.
+
+#### § 5. Gemotoriseerde schermvliegtuigen
+
+##### Artikel 26
+
+1. Een luchthaven die gebruikt wordt door een gemotoriseerd schermvliegtuig voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), aan de volgende eisen:
+
+- a. voor het landen en opstijgen is een baan beschikbaar met een lengte van ten minste 70 meter en een breedte van ten minste 25 meter;
+
+- b. de baan ligt in een obstakelvrije strook met een lengte van ten minste 170 meter en een breedte van ten minste 125 meter, waarbij de korte zijde van de baan op een afstand van 50 meter van het begin van de strook is gelegen.
+
+2. Het eerste lid is van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een gemotoriseerd schermvliegtuig.
+
+#### § 6. Vrije ballonnen
+
+##### Artikel 27
+
+1. Een luchthaven die gebruikt wordt door een vrije ballon en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), aan de volgende eisen:
+
+- a. de luchthaven is zodanig gelegen dat in de richting van de opstijging eventuele obstakels met een hoogteverschil van ten minste 15 meter overvaren kunnen worden;
+
+- b. de startplaats is zodanig afgescheiden, dat toeschouwers een heteluchtballon nergens dichter kunnen naderen, dan tot op 10 meter van de mand en de uitgelegde ballon;
+
+- c. indien de vulling uit een brandbaar gas bestaat is de afstand, bedoeld in onderdeel b, ten minste 40 meter van de gasballon en de benodigde gasvulapparatuur;
+
+- d. binnen de afscheiding, bedoeld in onderdeel b, zijn geen andere personen aanwezig dan de opvarenden en de personen die werkzaamheden hebben te verrichten die aan de opstijging zijn verbonden;
+
+- e. de personen, bedoeld in onderdeel d, die werkzaamheden hebben te verrichten zijn als zodanig duidelijk herkenbaar;
+
+- f. indien de luchthaven wordt gebruikt voor een opstijging door een ballon met een vulling van brandbaar gas, dan zijn ten behoeve van de personen, bedoeld in onderdeel d, borden geplaatst met het duidelijk leesbare opschrift: ‘Open Vuur en Roken Verboden’;
+
+- g. ingeval van een opstijging met een vulling bestaande uit brandbaar gas wordt op de startplaats niet gerookt en zijn daar geen vuurverwekkende voorwerpen of middelen aanwezig;
+
+- h. de startplaats wordt zodanig gekozen, dat zich over de eerste 50 meter van de projectie van de vermoedelijke richting van de opstijging en in een strook met een breedte van 10 meter ter weerszijden van deze projectie, geen publiek bevindt;
+
+- i. een opstijging van een vrije ballon die door middel van een kabel tijdelijk is bevestigd aan het aardoppervlak wordt alleen gevoerd bij windsnelheden van minder dan 3 meter/seconden, de vrije ballon mag daarbij niet hoger stijgen dan 50 meter boven het aardoppervlak.
+
+2. [Artikel 20, eerste lid, onderdelen e en f en het zevende tot en met het negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=20&z=2009-11-01&g=2009-11-01), zijn niet van toepassing op een luchthaven als bedoeld in het eerste lid.
+
+3. Het eerste lid is van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een vrije ballon.
+
+4. [Artikel 20, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=20&z=2009-11-01&g=2009-11-01), zijn niet van toepassing op een terrein als bedoeld in het derde lid.
+
+#### § 7. Watervliegtuigen
+
+##### Artikel 28
+
+1. Een waterluchthaven en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), aan de volgende eisen:
+
+- a. in het betreffende watergebied is een baan geprojecteerd met een lengte van minimaal 1000 meter;
+
+- b. de geprojecteerde baan is zodanig gelegen dat zich zowel in de landings- als startrichting geen obstakels bevinden die gevaar kunnen opleveren voor de uit te voeren landings- en startprocedures;
+
+- c. een start of een landing wordt alleen uitgevoerd indien de golfhoogte dit toelaat en zich in de geprojecteerde baan geen personen en vaartuigen bevinden;
+
+- d. het gelijktijdig landen en starten door meerdere watervliegtuigen op en van de luchthaven is niet toegestaan.
+
+2. Het eerste lid is van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een watervliegtuig.
+
+#### § 8. Zweeftoestellen
+
+##### Artikel 29
+
+1. Een luchthaven die gebruikt wordt door een zweeftoestel voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), aan de volgende eisen:
+
+- a. de lengte van de luchthaven is ten minste gelijk aan de lengte van de lierkabel;
+
+- b. de breedte van de luchthaven is ten minste 150 meter of ten minste 100 meter indien aan één of weerszijden van de luchthaven een stuk grond is gelegen met een totale breedte van ten minste 50 meter dat als veiligheidsstrook kan dienen;
+
+- c. de luchthaven en de veiligheidsstrook zijn vrij van obstakels en oneffenheden welke gevaar kunnen opleveren bij een afgebroken start of noodlanding;
+
+- d. de opstelplaats van de lier is gelegen op een afstand van ten minste 25 meter binnen de grens van de luchthaven;
+
+- e. de lierkabel kan op de lierbaan in een rechte lijn worden uitgereden;
+
+- f. de startplaats heeft een lengte van ten minste 150 meter en een breedte van ten minste 50 meter;
+
+- g. de opstelplaats voor een zweeftoestel is niet gelegen op de startplaats;
+
+- h. de landingsplaats heeft een lengte van ten minste 75 meter en indien gelijktijdig met meerdere zweeftoestellen wordt geland, per zweeftoestel een breedte van ten minste twee maal de spanwijdte van het betreffende zweeftoestel;
+
+- i. de landingsplaats is niet gelegen op de lierbaan, startplaats of opstelplaats.
+
+2. Indien de luchthaven, bedoeld in het eerste lid, mede wordt gebruikt door een TMG, dan is ten behoeve van het gebruik door de TMG een baan beschikbaar met een lengte van ten minste 300 meter die gelegen is in een strook met een lengte van ten minste 660 meter en een breedte van ten minste 30 meter.
+
+3. Indien de luchthaven, bedoeld in het eerste lid, mede wordt gebruikt door een vliegtuig dat wordt gebruikt ten behoeve van het slepen van een zweeftoestel, dan is ten behoeve van het gebruik van een dergelijk vliegtuig een baan beschikbaar met een lengte van ten minste 600 meter en een breedte van ten minste 30 meter die gelegen is in een strook met een lengte van ten minste 660 meter.
+
+4. Het eerste lid is van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een zweeftoestel.
+
+##### Artikel 30
+
+1. Het gebruik van een luchthaven door een zweeftoestel voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), aan de volgende eisen:
+
+- a. gedurende het opstijgen en landen zijn er geen onbevoegde personen aanwezig op de lierbaan, de startplaats en de landingsplaats;
+
+- b. het opstijgen of doen opstijgen van een zweeftoestel door middel van een lier vindt alleen plaats indien de vallende lierkabel niet buiten de grens van de luchthaven of de veiligheidstrook, bedoeld in [artikel 29, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=8&artikel=29&z=2009-11-01&g=2009-11-01), kan vallen en geen letsel aan personen of schade aan zaken zal kunnen veroorzaken;
+
+- c. het afwerpen van de sleepkabel door een sleepvliegtuig vindt alleen plaats als de sleepkabel niet buiten de grens van de luchthaven kan vallen en geen letsel aan personen of schade aan zaken zal kunnen veroorzaken.
+
+- d. gelijktijdig landen of starten van een zweeftoestel, een TMG of een sleepvliegtuig is niet toegestaan;
+
+2. Het vorige onderdeel geldt niet voor een zweeftoestel dat gekoppeld is aan een sleepvliegtuig.
+
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een zweeftoestel.
+
+#### § 9. Landbouwluchtvaartuigen
+
+##### Artikel 31
+
+1. Een luchthaven die gebruikt wordt door een landbouwluchtvaartuig voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), aan de volgende eisen:
+
+- a. voor het landen en opstijgen is een strook beschikbaar met een lengte die ten minste gelijk is aan de startlengte als vermeld in het vlieghandboek behorende bij het betreffende luchtvaartuig;
+
+- b. de breedte van de strook bedraagt ten minste tweemaal de spanwijdte van het luchtvaartuig dat gebruik maakt van de strook, doch niet minder dan 30 meter;
+
+- c. in de strook is de bodemgesteldheid, voor wat betreft de vlakheid en de draagkracht, dusdanig dat het betreffende landbouwluchtvaartuig op een veilige wijze kan starten en landen binnen de in het bij het betreffende luchtvaartuig behorende vlieghandboek gestelde gebruiksbeperkingen;
+
+- d. in de strook zijn geen obstakels aanwezig. De gewashoogte in de strook is slechts hoger dan 15 centimeter, voor zover deze geen gevaar oplevert voor een veilige vluchtuitvoering;
+
+- e. in het midden, binnen de grenzen van de strook, is een baan aanwezig met een lengte die gelijk is aan die van de strook en een breedte van ten minste twee maal de spoorbreedte van het betreffende luchtvaartuig.
+
+2. Het eerste lid is van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een landbouwluchtvaartuig.
+
+#### § 10. Luchtschepen
+
+##### Artikel 32
+
+1. Een luchthaven die gebruikt wordt door een luchtschip dat op zeeniveau in de internationale standaard-atmosfeer in geheel gevulde toestand een afmeting heeft van meer dan 5 meter of een inhoud van meer dan 4 kubieke meter, bevat, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), een obstakelvrij grondvlak in de vorm van een cirkel met een straal van ten minste de lengte van het luchtschip.
+
+2. Het eerste lid is van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een luchtschip als bedoeld in het eerste lid.
+
+#### § 11. Onbemande luchtvaartuigen tot 150 kilogram
+
+##### Artikel 33
+
+1. Onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), zijn de eisen, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=9&artikel=31&z=2009-11-01&g=2009-11-01), van overeenkomstige toepassing op een luchthaven die gebruikt wordt door een onbemand vliegtuig van maximaal 150 kilogram, met dien verstande dat de lengte van de baan, bedoeld in onderdeel a, niet minder is dan 100 meter en de breedte van de strook, bedoeld in onderdeel b, niet minder is dan 10 meter.
+
+2. Onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), zijn de eisen, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=10&artikel=32&z=2009-11-01&g=2009-11-01), van overeenkomstige toepassing op een luchthaven die gebruikt wordt door een onbemand luchtschip van maximaal 150 kilogram.
+
+3. Onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), zijn de eisen, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=3&artikel=24&z=2009-11-01&g=2009-11-01), met uitzondering van onderdeel d, van overeenkomstige toepassing op een luchthaven die gebruikt wordt door een onbemande helikopter van maximaal 150 kilogram.
+
+4. Een luchthaven die gebruikt wordt door een onbemand luchtvaartuig van maximaal 150 kilogram is zodanig gelegen dat tijdens de start- en landingsfase een vrij uitzicht op de luchthaven mogelijk is.
+
+5. Het eerste tot en met het vierde lid, zijn van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een van de in deze leden bedoelde luchtvaartuigen.
+
+#### § 12. Gyroplanes
+
+##### Artikel 34
+
+1. Een luchthaven die gebruikt wordt door een gyroplane voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2009-11-01&g=2009-11-01), aan de volgende eisen:
+
+- a. voor het landen en opstijgen is een baan beschikbaar met een lengte die ten minste gelijk is aan de startlengte die vermeld is in het vlieghandboek van het betreffende luchtvaartuig, doch niet minder dan 200 meter en een breedte van ten minste 30 meter;
+
+- b. de baan is gelegen in een obstakelvrije strook met een lengte van ten minste 300 meter en een breedte van ten minste 30 meter, waarbij de korte zijde van de baan op een afstand van 50 meter van de korte zijde van de strook is gelegen.
+
+2. Het eerste lid is van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een gyroplane.
+
+### Hoofdstuk 4. Procedurebepalingen
+
+##### Artikel 35
+
+1. De termijn voor het nemen van een besluit op de aanvraag voor een ontheffing als bedoeld in [artikel 8a.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.51) bedraagt vier weken.
+
+2. De ontheffing wordt niet verleend dan nadat gedeputeerde staten over de aanvraag tot ontheffing overleg hebben gevoerd met de burgemeester van de gemeente waarin het betreffende terrein ligt.
+
+3. De houder van de ontheffing meldt ten minste 24 uur voor de dag dat het terrein zal worden gebruikt dit voornemen schriftelijk of per e-mail aan de minister en de burgemeester van de gemeente waarin het betreffende terrein ligt.
+
+##### Artikel 36
+
+1. De minister kan ontheffing verlenen van de voorschriften die op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&z=2009-11-01&g=2009-11-01) gelden voor een terrein voor tijdelijk en uitzonderlijk gebruik. Deze ontheffing wordt slechts verleend indien:
+
+- a. als gevolg van bijzondere omstandigheden de voorschriften in redelijkheid geen toepassing kunnen vinden, en
+
+- b. de veiligheid van het terrein en van het luchtverkeer dat van het terrein gebruik maakt met het verlenen van een ontheffing niet in gevaar worden gebracht.
+
+2. Aan de ontheffing, bedoeld in het eerste lid, kunnen voorschriften of beperkingen worden verbonden.
+
+### Hoofdstuk 5. Wijziging andere regelingen
+
+##### Artikel 37
+
+Wijzigt het Algemeen luchthavenreglement.
+
+##### Artikel 38
+
+Wijzigt het Aanvullend luchthavenreglement luchthaven Schiphol.
+
+##### Artikel 39
+
+Wijzigt het Aanvullend luchthavenreglement luchthaven Maastricht.
+
+##### Artikel 40
+
+Wijzigt het Aanvullend luchthavenreglement Rotterdam.
+
+##### Artikel 41
+
+Wijzigt het Aanvullend luchthavenreglement luchthaven Eelde.
+
+##### Artikel 42
+
+Wijzigt het Aanvullend Luchthaven Reglement Lelystad.
+
+##### Artikel 43
+
+Wijzigt het Aanvullend luchthavenreglement Teuge.
+
+##### Artikel 44
+
+Wijzigt het Aanvullend luchthavenreglement Texel.
+
+##### Artikel 45
+
+Wijzigt het Aanvullend luchthavenreglement Midden Zeeland.
+
+### Hoofdstuk 6. Slotbepalingen
+
+##### Artikel 46
+
+Deze regeling treedt in werking met ingang van 1 november 2009.
+
+##### Artikel 47
+
+Deze regeling wordt aangehaald als: Regeling veilig gebruik luchthavens en andere terreinen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 30a
+
+1. Een luchthaven die gebruikt wordt door een zeilvliegtuig of schermzweeftoestel voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2010-07-06&g=2010-07-06), aan de volgende eisen:
+
+- a. de luchthaven is vrij van obstakels en oneffenheden welke gevaar kunnen opleveren bij een afgebroken start of noodlanding;
+
+- b. de opstelplaats van de lier is gelegen op een afstand van ten minste 10 meter binnen de grens van de luchthaven;
+
+- c. de startplaats heeft een lengte van ten minste 50 meter en een breedte van ten minste 30 meter;
+
+- d. de opstelplaats voor een zeilvliegtuig is niet gelegen op de startplaats;
+
+- e. de landingsplaats heeft een lengte van ten minste 60 meter en indien gelijktijdig met meerdere zeilvliegtuigen of schermzweeftoestellen wordt geland, per zeilvliegtuig of schermzweeftoestel een breedte van ten minste twee maal de spanwijdte van het betreffende zeilvliegtuig of schermzweeftoestel;
+
+- f. de landingsplaats is niet gelegen op de lierbaan, startplaats of opstelplaats;
+
+- g. de luchthaven is zodanig gelegen dat binnen een gebied met een straal van 500 meter vanuit de vastgestelde geografische positie van de luchthaven geen obstakels steken door een denkbeeldig horizontaal vlak op een hoogte van 45 meter boven het hoogst gelegen punt binnen de luchthaven;
+
+- h. de luchthaven is zodanig gelegen dat in het verlengde van de baan geen obstakels steken door een denkbeeldig vlak dat met de breedte van de baan als basis, oploopt met een helling van 1:5 (hoogte:afstand) en divergeert met 10% tot op een afstand van 250 meter van de baan;
+
+- i. de luchthaven is zodanig gelegen dat ter weerszijden van de baan geen obstakels steken door een denkbeeldig vlak dat met de lengte van de baan als basis, oploopt met een helling van 1:2 (hoogte:afstand) en aansluit op het horizontale vlak, bedoeld in onderdeel g.
+
+2. Het eerste lid is van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een zeilvliegtuig of schermzweeftoestel.
+
+##### Artikel 30b
+
+1. Het gebruik van een luchthaven door een zeilvliegtuig of schermzweeftoestel voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2010-07-06&g=2010-07-06), aan de volgende eisen:
+
+- a. gedurende het opstijgen en landen zijn er geen onbevoegde personen en obstakels aanwezig op de lierbaan, de startplaats en de landingsplaats;
+
+- b. het opstijgen of doen opstijgen van een zeilvliegtuig of schermzweeftoestel door middel van een lier vindt alleen plaats indien de vallende lierkabel niet buiten de grens van de luchthaven kan vallen en geen letsel aan personen of schade aan zaken zal kunnen veroorzaken;
+
+- c. de lierkabel wordt binnen de grenzen van de luchthaven in een rechte lijn uitgebracht;
+
+- d. het afwerpen van de sleepkabel door een mla vindt alleen plaats als de sleepkabel niet buiten de grens van de luchthaven kan vallen en geen letsel aan personen of schade aan zaken zal kunnen veroorzaken;
+
+- e. behoudens in geval van de koppeling van een zeilvliegtuig aan een sleepvliegtuig, is het gelijktijdig landen of starten van een zeilvliegtuig en een mla niet toegestaan;
+
+- f. de lierhoogte overschrijdt niet de ondergrens van de ter plaatse geldende TMA;
+
+- g. de lierhoogte overschrijdt niet de ter plaatse geldende minimum vlieghoogte, tenzij een Notam is uitgegeven met vermelding van locatie, lierhoogte en telefoonnummer, waar men op locatie bereikbaar is.
+
+2. [Artikel 22, eerste lid, onderdeel c, onder 1, 3, 4 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&artikel=22&z=2010-07-06&g=2010-07-06) zijn niet van toepassing op een luchthaven als bedoeld in het eerste lid.
+
+3. Het eerste lid is van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een zeilvliegtuig of schermzweeftoestel.
+
+4. Een terrein voor tijdelijk en uitzonderlijk gebruik wordt door een zeilvliegtuig of schermzweeftoestel niet gebruikt:
+
+- a. binnen een afstand van 6 zeemijlen van de grens van de CTR van de luchthaven, Schiphol, Maastricht, Rotterdam, Eelde, De Kooij of Eindhoven, tenzij de ontheffinghouder zich ervan heeft vergewist dat zijn activiteit de veilige uitvoering van het luchtverkeer van en naar de betreffende luchthaven niet belemmert;
+
+- b. binnen een afstand van 3 zeemijlen van de grens van de CTR van een andere luchthaven dan genoemd in onderdeel a, tenzij de ontheffinghouder zich ervan heeft vergewist dat zijn activiteit de veilige uitvoering van het luchtverkeer van en naar de betreffende luchthaven niet belemmert;
+
+- c. binnen een afstand van 3 zeemijl van de grens van een luchthaven waarboven geen CTR is ingesteld, tenzij de ontheffinghouder zich ervan heeft vergewist dat zijn activiteit de veilige uitvoering van het luchtverkeer van en naar de betreffende luchthaven niet belemmert.
+
+#### § 9. Landbouwluchtvaartuigen
+
+#### § 10. Luchtschepen
+
+#### § 11. Onbemande luchtvaartuigen tot 150 kilogram
+
+#### § 12. Gyroplanes
+
+### Hoofdstuk 5. Wijziging andere regelingen
+
+### Hoofdstuk 6. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 14a
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Afdeling 4. Helikopterluchthavens
+
+#### § 1. Reikwijdte
+
+#### § 2. Aanleg, inrichting, uitrusting en gebruik van de luchthaven
+
+### Hoofdstuk 3. Regels veilig gebruik overige burgerluchthavens en terreinen voor tijdelijk en uitzonderlijk gebruik
+
+#### § 1. Reikwijdte
+
+#### § 2. Algemene aanleg-, inrichtings-, uitrustings- en gebruiksvoorschriften
+
+#### § 3. Helikopters
+
+#### § 4. Mla’s
+
+#### § 5. Gemotoriseerde schermvliegtuigen
+
+#### § 6. Vrije ballonnen
+
+#### § 7. Watervliegtuigen
+
+#### § 8. Zweefvliegtuigen
+
+#### § 8a. Zeilvliegtuigen en schermzweeftoestellen
+
+#### § 11. Onbemande luchtvaartuigen tot 150 kilogram
+
+#### § 12. Gyroplanes
+
+### Hoofdstuk 4. Procedurebepalingen
+
+### Hoofdstuk 5. Wijziging andere regelingen
+
+### Hoofdstuk 6. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 14b
+
+1. Indien een luchthaven buiten de reguliere openstellingstijden wordt gebruikt voor het innemen van brandstof ten behoeve van een HEMS-vlucht of een politievlucht, draagt de exploitant er zorg voor dat voorafgaande aan het gebruik schriftelijke afspraken met de betreffende gebruiker van de luchthaven zijn gemaakt over het veilig gebruik van de luchthaven.
+
+2. De afspraken, bedoeld in het eerste lid, hebben in ieder geval betrekking op:
+
+- a. het landen en starten;
+
+- b. het gebruik van de tankinstallatie;
+
+- c. het voorkomen en bestrijden van brand ten gevolge van een ongeval of incident en het redden van mensenlevens.
+
+### Afdeling 4. Helikopterluchthavens
+
+#### § 2. Aanleg, inrichting, uitrusting en gebruik van de luchthaven
+
+### Hoofdstuk 3. Regels veilig gebruik overige burgerluchthavens en terreinen voor tijdelijk en uitzonderlijk gebruik
+
+#### § 2. Algemene aanleg-, inrichtings-, uitrustings- en gebruiksvoorschriften
+
+#### § 3. Helikopters
+
+#### § 8. Zweefvliegtuigen
+
+#### § 12. Gyroplanes
+
+### Hoofdstuk 4. Procedurebepalingen
+
+### Hoofdstuk 5. Wijziging andere regelingen
+
+### Hoofdstuk 6. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 13. Luchtvaartuigen die een nood- of voorzorgslanding hebben gemaakt
+
+##### Artikel 34a
+
+1. De gezagvoerder van een luchtvaartuig dat op een terrein een nood- of voorzorgslanding heeft gemaakt, meldt dit onverwijld aan de Minister.
+
+2. Het is verboden om met een luchtvaartuig op te stijgen vanaf een terrein als bedoeld in [artikel 19, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2017-10-21&g=2017-10-21), zonder voorafgaande toestemming van de Minister.
+
+3. Handelen in strijd met dit artikel is een strafbaar feit.
+
+### Hoofdstuk 5. Wijziging andere regelingen
+
+### Hoofdstuk 6. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
