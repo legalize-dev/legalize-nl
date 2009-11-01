@@ -4,7 +4,7 @@ identifier: "BWBR0024928"
 country: "nl"
 rank: "wet"
 publication_date: "2021-06-19"
-last_updated: "2008-12-24"
+last_updated: "2009-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024928"
 soort: "wet"
@@ -47,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel I. (Wijziging [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555))
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet luchtvaart.
 
 ##### Artikel Ia. (Wijziging [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555))
 
@@ -79,7 +79,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II. (Wijziging wetsvoorstel i.v.m. inwerkingtreding wijziging van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) inzake de exploitatie van de luchthaven Schiphol)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel III. (Wijziging [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267))
 
@@ -87,7 +87,7 @@ Wijzigt de Luchtvaartwet.
 
 ##### Artikel IV. (Wijziging [bijlage Algemene wet bestuursrecht](onbekend))
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel V. (Wijziging [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227))
 
@@ -95,7 +95,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. (Wijziging [Onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842))
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Onteigeningswet.
 
 ##### Artikel VII
 
@@ -107,15 +107,29 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX. (Geldig blijven aanwijzingen, bignalbesluiten en ontheffingen burgerluchtvaartterreinen)
 
-1. Een aanwijzing van een burgerluchtvaartterrein, op grond van [artikel 18 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18), blijft geldig tot het tijdstip waarop voor die luchthaven de ministeriële regeling, bedoeld in [artikel X, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X&z=2008-12-24&g=2008-12-24), van deze wet, in werking is getreden.
+1. Een aanwijzing van een burgerluchtvaartterrein, op grond van [artikel 18 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18), blijft geldig tot het tijdstip waarop voor die luchthaven de ministeriële regeling, bedoeld in [artikel X, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X&z=2009-11-01&g=2009-11-01), van deze wet, in werking is getreden.
 
-2. Op de aanwijzingen, bedoeld in het eerste lid, blijft het bepaalde bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) van toepassing zoals dat luidt op de dag voor inwerkingtreding van [artikel III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=III&z=2008-12-24&g=2008-12-24), van deze wet tot het tijdstip, bedoeld in het eerste lid.
+2. Op de aanwijzingen, bedoeld in het eerste lid, blijft het bepaalde bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) van toepassing zoals dat luidt op de dag voor inwerkingtreding van [artikel III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=III&z=2009-11-01&g=2009-11-01), van deze wet tot het tijdstip, bedoeld in het eerste lid.
 
-3. Dit lid is nog niet in werking getreden.
+3. Een besluit voor een burgerluchtvaartterrein afgegeven op grond van het [Besluit inrichting en gebruik niet aangewezen luchtvaartterreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0004417) of een ontheffing voor burgerluchtvaart afgegeven op grond van [artikel 14, tweede lid, onderdeel b, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=14) blijft geldig totdat voor deze luchthaven een luchthavenbesluit of een luchthavenregeling als bedoeld in de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), in werking is getreden.
 
 ##### Artikel X. (Overgang aanwijzingen burgerluchtvaartterreinen op grond van [artikel 18 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18))
 
-Dit onderdeel is nog niet inwerking getreden
+1. Bij regeling van Onze Minister van Verkeer en Waterstaat wordt, in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor ieder burgerluchtvaartterrein dat is aangewezen op grond van [artikel 18 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18), aan beide zijden in het verlengde van de middellijn van de start- en landingsbaan op 100 meter van het einde van de baan een punt vastgesteld waar de geluidbelasting een bepaalde waarde niet te boven mag gaan.
+
+2. Indien de bebouwde kom zoals vastgesteld in het bestemmingsplan, is gelegen op of in de nabijheid van de geluidszone die is gebaseerd op de 35 Kosteneenheden, vastgesteld op grond van [artikel 25a van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=25a), wordt in de ministeriële regeling, bedoeld in het eerste lid, een punt vastgesteld binnen die bebouwde kom waar de geluidbelasting een bepaalde waarde niet te boven mag gaan.
+
+3. In de ministeriële regeling, bedoeld in het eerste lid, worden opgenomen de geldende bepalingen en voorschriften uit de aanwijzing van het luchtvaartterrein die betrekking hebben op de geografische aanduiding, de ligging en de lengte van de start- en landingsbaan, het codenummer en de codeletter bedoeld voor het aanduiden van de op de luchthaven aanwezige faciliteiten voor het veilig opstijgen en landen van luchtvaartuigen, de gebruiksmogelijkheden en de openstellingstijden. Tevens worden in deze regeling de geldende ontheffingen verstrekt op grond van de [artikelen 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=33), of [34, tweede lid, Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=34) opgenomen en wordt het gebruiksjaar van de luchthaven vastgesteld.
+
+4. De bepalingen en voorschriften, bedoeld in het eerste tot en met derde lid, worden aangemerkt als de bepalingen omtrent het luchthavenluchtverkeer, bedoeld in [artikel 8.43, tweede lid, onderdeel a, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.43).
+
+5. Het gebied dat is gelegen binnen de geluidszone die is gebaseerd op de 35 Kosteneenheden, vastgesteld op grond van [artikel 25a van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=25a), of binnen de geluidszone die is gebaseerd op de 47 geluidsbelastingeenheden kleine luchtvaart, vastgesteld op grond van [artikel 25a van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=25a), wordt aangemerkt als het beperkingengebied, bedoeld in [artikel 8.47, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.47). In afwijking van [artikel 8.47, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.47) zijn op deze gebieden van toepassing de bepalingen van het [Besluit geluidsbelasting grote luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0008439) onderscheidenlijk het [Besluit geluidsbelasting kleine luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0004958) zoals deze luidden op de dag voor inwerkingtreding van deze wet.
+
+6. Bij de vaststelling van de waarde van de punten, bedoeld in het eerste en tweede lid, wordt uitgegaan van de geluidbelasting die ten hoogste is toegestaan op grond van de geluidszone of de geluidszones van het luchtvaartterrein op grond van [artikel 25a van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=25a). De Lden wordt gebruikt als indicator voor de geluidbelasting.
+
+7. Gedeputeerde staten kunnen binnen zes maanden na publicatie van deze wet in het Staatsblad aan Onze Minister van Verkeer en Waterstaat een voorstel doen voor de ligging van de punten, bedoeld in het tweede lid.
+
+8. De bepalingen die voor een luchthaven zijn opgenomen in de ministeriële regeling, bedoeld in het eerste lid, vervallen op het tijdstip van inwerkingtreding voor die luchthaven van het eerste luchthavenbesluit, bedoeld in [artikel 8.43, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.43), of de eerste luchthavenregeling, bedoeld in [artikel 8.64, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.64).
 
 ##### Artikel XI
 
@@ -127,72 +141,96 @@ Vervallen
 
 ##### Artikel XIII. (Tijdstip Eerste Luchthavenbesluit en Luchthavenregeling bij aangewezen luchthavens)
 
-Dit onderdeel is nog niet inwerking getreden
+1. Binnen vijf jaar na inwerkingtreding van [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=I&z=2009-11-01&g=2009-11-01), van deze wet wordt een luchthavenbesluit als bedoeld in [artikel 8.43, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.43), vastgesteld voor burgerluchthavens die op grond van [artikel 8.1, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) burgerluchthavens van regionale betekenis zijn en waarvoor op grond van [artikel 8.1a, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1a) vaststelling van een luchthavenbesluit is vereist.
+
+2. Binnen vijf jaar na inwerkingtreding van [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=I&z=2009-11-01&g=2009-11-01), van deze wet wordt een luchthavenbesluit als bedoeld in [artikel 8.70, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.70), vastgesteld voor burgerluchthavens die op grond van [artikel 8.1, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) van nationale betekenis zijn en waarvoor op grond van [artikel 8.1a, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1a) vaststelling van een luchthavenbesluit is vereist.
+
+3. Binnen vijf jaar na inwerkingtreding van [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=I&z=2009-11-01&g=2009-11-01), van deze wet wordt een luchthavenregeling als bedoeld in [artikel 8.64, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.64), vastgesteld voor burgerluchthavens van regionale betekenis waarvoor op grond van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X&z=2009-11-01&g=2009-11-01) een omzettingsbesluit is vastgesteld, maar waarvoor vaststelling van een luchthavenbesluit op grond van [artikel 8.1a, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1a) niet is vereist.
 
 ##### Artikel XIV. (Overgang bignalbesluiten en ontheffingen waarvoor een luchthavenbesluit moet worden vastgesteld)
 
-Dit onderdeel is nog niet inwerking getreden
+1. Binnen twee jaar na inwerkingtreding van [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=I&z=2009-11-01&g=2009-11-01), van deze wet wordt een luchthavenbesluit als bedoeld in [artikel 8.43, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.43), vastgesteld voor burgerluchthavens waarvoor een besluit is afgegeven op grond van het [Besluit inrichting en gebruik niet aangewezen luchtvaartterreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0004417) en die:
+
+- a. op grond van [artikel 8.1, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) burgerluchthavens van regionale betekenis zijn, en
+
+- b. waarvoor op grond van [artikel 8.1a, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1a) vaststelling van een luchthavenbesluit is vereist.
+
+2. [Artikel 8.49, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.49) is niet van toepassing indien het aantal bewegingen dat op grond van het luchthavenbesluit mogelijk is, niet hoger is dan het aantal bewegingen dat op grond van het besluit, bedoeld in het tweede lid, was toegestaan.
+
+3. Tot het tijdstip van inwerkingtreding van het luchthavenbesluit, bedoeld in het eerste lid, wordt bij de toepassing van [artikel 8.45, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.45) het aantal bewegingen gehanteerd dat op grond van het besluit, bedoeld in het tweede lid, was toegestaan.
 
 ##### Artikel XV. (Overgang bignalbesluiten en ontheffingen burgerluchtvaart op grond van [artikel 14 Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=14) waarvoor een luchthavenregeling kan worden vastgesteld)
 
-Dit onderdeel is nog niet inwerking getreden
+1. Binnen een jaar na inwerkingtreding van [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=I&z=2009-11-01&g=2009-11-01), van deze wet wordt een luchthavenregeling als bedoeld in [artikel 8.64, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.64), vastgesteld voor burgerluchthavens waarvoor een besluit is afgegeven op grond van het [Besluit inrichting en gebruik niet aangewezen luchtvaartterreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0004417) of die een ontheffing hebben gekregen op grond van [artikel 14, tweede lid, onderdeel b, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=14) en die:
+
+- a. op grond van [artikel 8.1, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) burgerluchthavens van regionale betekenis zijn, en
+
+- b. waarvoor op grond van [artikel 8.1a, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1a) vaststelling van een luchthavenbesluit niet is vereist.
+
+2. [Artikel 8.49, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.49) is niet van toepassing indien het aantal bewegingen dat op grond van de luchthavenregeling mogelijk is niet hoger is dan het aantal bewegingen dat op grond van het besluit of de ontheffing, bedoeld in het eerste lid, was toegestaan.
 
 ##### Artikel XVI. (Verplichting certificering)
 
-Dit onderdeel is nog niet inwerking getreden
+Een veiligheidscertificaat dat is verleend op grond van [artikel 132, derde lid, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=132) voor het tijdstip van inwerkingtreding van [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=I&z=2009-11-01&g=2009-11-01), van de wet van 18 december 2008, (Stb. 561) houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens), wordt aangemerkt als veiligheidscertificaat in de zin van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555). De geldigheidstermijn van het veiligheidscertificaat dat is verleend op grond van [artikel 132, derde lid, van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=132) wordt verlengd met twee jaar.
 
 ##### Artikel XVIa. (Afhandelen oude verzoeken burgerluchthavens)
 
-1. Op verzoeken voor een aanwijzing voor een burgerluchtvaartterrein op grond van [artikel 18 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18) of een wijziging daarvan op grond van [artikel 27 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=27) die zijn ingediend voor de dag van publicatie in het Staatsblad, blijft het bepaalde bij of krachtens de [artikelen 18 tot en met 27 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18) alsmede het bepaalde in het Structuurschema burgerluchtvaartterreinen of de Planologische kernbeslissing luchtvaartterreinen Maastricht en Lelystad van toepassing zoals die luiden op de dag voor inwerkingtreding van [artikel III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=III&z=2008-12-24&g=2008-12-24), van deze wet.
+1. Op verzoeken voor een aanwijzing voor een burgerluchtvaartterrein op grond van [artikel 18 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18) of een wijziging daarvan op grond van [artikel 27 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=27) die zijn ingediend voor de dag van publicatie in het Staatsblad, blijft het bepaalde bij of krachtens de [artikelen 18 tot en met 27 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18) alsmede het bepaalde in het Structuurschema burgerluchtvaartterreinen of de Planologische kernbeslissing luchtvaartterreinen Maastricht en Lelystad van toepassing zoals die luiden op de dag voor inwerkingtreding van [artikel III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=III&z=2009-11-01&g=2009-11-01), van deze wet.
 
 2. Het eerste lid is van overeenkomstige toepassing op een ambtshalve vaststelling van een aanwijzing of een wijziging daarvan.
 
 ##### Artikel XVIb. (Afhandeling aangevangen procedure burgerluchthaven Twenthe)
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Verkeer en Waterstaat kan besluiten de procedure en de onderzoeken die zijn verricht om op grond van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) een burgerluchthaven van regionale betekenis te vestigen op de plaats van de militaire luchthaven Twenthe, geheel of gedeeltelijk aan te merken als de procedure en onderzoeken om een burgerluchthaven van nationale betekenis op die plaats te vestigen.
 
 ##### Artikel XVII. (Afhandeling oude bezwaar- en beroepschriften)
 
-1. Onverminderd [artikel IX, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=IX&z=2008-12-24&g=2008-12-24), blijft [artikel 30 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=30) van toepassing op een nog niet onherroepelijk geworden aanwijzing van een burgerluchtvaartterrein op grond van [artikel 18, eerste lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18) of op een nog niet onherroepelijk geworden wijziging daarvan op grond van [artikel 27, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=27). Op een op grond van [artikel 30 Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=30) vast te stellen besluit blijft het bepaalde bij of krachtens de [artikelen 18 tot en met 27 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18) alsmede het bepaalde in het Structuurschema burgerluchtvaartterreinen of de Planologische kernbeslissing luchtvaartterreinen Maastricht en Lelystad van toepassing zoals die luiden op de dag voor inwerkingtreding van [artikel III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=III&z=2008-12-24&g=2008-12-24), van deze wet.
+1. Onverminderd [artikel IX, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=IX&z=2009-11-01&g=2009-11-01), blijft [artikel 30 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=30) van toepassing op een nog niet onherroepelijk geworden aanwijzing van een burgerluchtvaartterrein op grond van [artikel 18, eerste lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18) of op een nog niet onherroepelijk geworden wijziging daarvan op grond van [artikel 27, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=27). Op een op grond van [artikel 30 Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=30) vast te stellen besluit blijft het bepaalde bij of krachtens de [artikelen 18 tot en met 27 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18) alsmede het bepaalde in het Structuurschema burgerluchtvaartterreinen of de Planologische kernbeslissing luchtvaartterreinen Maastricht en Lelystad van toepassing zoals die luiden op de dag voor inwerkingtreding van [artikel III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=III&z=2009-11-01&g=2009-11-01), van deze wet.
 
 2. [Artikel 30 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=30) blijft van toepassing op een nog niet onherroepelijk geworden aanwijzing van een militair luchtvaartterrein op grond van [artikel 18, eerste lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18) of op een nog niet onherroepelijk geworden wijziging daarvan op grond van [artikel 27, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=27).
 
 ##### Artikel XVIII. (Geldig blijven grondslag militaire luchtvaartterreinen)
 
-1. Een aanwijzing van een luchtvaartterrein, vastgesteld door Onze Minister van Defensie in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer op grond van [Hoofdstuk IV, afdeling I, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&afdeling=1), behoudt haar geldigheid totdat zij is vervangen door een luchthavenbesluit als bedoeld in [artikel 10.15 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.15) doch niet langer dan vijf jaar na het tijdstip van inwerkingtreding van [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=I&z=2008-12-24&g=2008-12-24), van deze wet.
+1. Een aanwijzing van een luchtvaartterrein, vastgesteld door Onze Minister van Defensie in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer op grond van [Hoofdstuk IV, afdeling I, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&afdeling=1), behoudt haar geldigheid totdat zij is vervangen door een luchthavenbesluit als bedoeld in [artikel 10.15 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.15) doch niet langer dan vijf jaar na het tijdstip van inwerkingtreding van [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=I&z=2009-11-01&g=2009-11-01), van deze wet.
 
 2. Een besluit tot vaststelling van een geluidszone, door Onze Minister van Defensie genomen op grond van artikel VII van de Wet van 7 juni 1978, houdende wijziging van de Luchtvaartwet met betrekking tot de aanwijzing van luchtvaartterreinen (Stb. 1978, 354), behoudt haar geldigheid totdat de geldigheid van de aanwijzing van het luchtvaartterrein waarop zij betrekking heeft, is geëindigd.
 
 3. Het bepaalde bij en krachtens [hoofdstuk IV van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&hoofdstuk=IV) blijft op een militair luchtvaartterrein van toepassing totdat de geldigheid van de voor dat luchtvaartterrein vastgestelde aanwijzing is geëindigd.
 
-4. Dit lid is nog niet in werking getreden.
+4. Op een militair luchtvaartterrein als bedoeld in [artikel 14, tweede lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=14), blijft na het tijdstip van inwerkingtreding van [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=I&z=2009-11-01&g=2009-11-01), van deze wet het bepaalde bij en krachtens [artikel 14 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=14) van toepassing totdat voor de betrokken luchthaven een luchthavenregeling als bedoeld in [artikel 10.39 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.39) in werking is getreden, doch niet langer dan een jaar na het tijdstip van inwerkingtreding van [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=I&z=2009-11-01&g=2009-11-01), van deze wet.
 
 ##### Artikel XIX. (Uitsluiten voorbereidingsprocedure bij omzetting aanwijzingen militaire luchtvaartterreinen)
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor zover ter vervanging van een aanwijzing als bedoeld in [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=XVIII&z=2009-11-01&g=2009-11-01) een luchthavenbesluit wordt vastgesteld zonder dat wijziging wordt gebracht in het gebruik en het beperkingengebied van de luchthaven, blijft [artikel 10.18 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.18) bij de vaststelling van het luchthavenbesluit buiten toepassing.
+
+2. Bij de vaststelling van een luchthavenregeling door Onze Minister van Defensie op grond van [artikel 10.39 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.39) voor een luchthaven waarop [artikel 14, tweede lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=14) van toepassing is, blijft, voor zover geen wijziging wordt gebracht in het gebruik van de luchthaven, [artikel 10.39, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.39) buiten toepassing.
+
+3. De verplichting ingevolge de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) en het [Besluit milieu-effectrapportage 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006788) tot het maken van een milieu-effectrapportage blijft in het geval, bedoeld in het eerste lid, buiten toepassing.
 
 ##### Artikel XX. (Overgang COVM naar nieuwe basis)
 
-Dit onderdeel is nog niet inwerking getreden
+Met ingang van het tijdstip waarop voor een militaire luchthaven een op basis van [artikel 10.15 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.15) vastgesteld luchthavenbesluit in werking treedt, berust de voor die luchthaven op grond van [artikel 28 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=28) door Onze Minister van Defensie ten behoeve van overleg en voorlichting omtrent de milieuhygiëne rond militaire luchtvaartterreinen ingestelde commissie op [artikel 10.25 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.25). De bedoelde commissie die is ingesteld voor het luchtvaartterrein Eindhoven onderscheidenlijk De Kooy berust met ingang van het voor de betrokken luchthaven geldende tijdstip mede op [artikel 10.37 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.37).
 
 ##### Artikel XXI. (Omzetting 33-ontheffing «structureel commercieel medegebruik» in medegebruikvergunning)
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Defensie verleent aan de rechtspersoon waaraan op grond van [artikel 33 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=33) ontheffing is verleend ten behoeve van de exploitatie van een militair luchtvaartterrein voor commerciële burgerluchtvaart, welke ontheffing op het tijdstip van inwerkingtreding van het luchthavenbesluit voor de betrokken luchthaven zijn geldigheid niet heeft verloren, met ingang van dat tijdstip een vergunning voor burgermedegebruik als burgerexploitant overeenkomstig het bepaalde bij of krachtens [artikel 10.27 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.27).
 
 ##### Artikel XXII. (Afhandeling oude aanvragen militaire luchtvaart)
 
-Dit onderdeel is nog niet inwerking getreden
+Aanvragen om besluiten, ingediend vóór het tijdstip waarop voor de luchthaven waarop de aanvraag betrekking heeft een luchthavenbesluit in werking is getreden, alsmede vóór bedoeld tijdstip bekend gemaakte ambtshalve te nemen besluiten, betrekking hebbend op [Hoofdstuk IV, afdeling 1 tot en met 3, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&afdeling=1), worden na dat tijdstip behandeld overeenkomstig de daarop betrekking hebbende voorschriften bij of krachtens de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
 ##### Artikel XXIII. (Strafbare feiten)
 
-Dit onderdeel is nog niet inwerking getreden
+Ten aanzien van bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) met betrekking tot luchtvaartterreinen strafbaar gestelde feiten die zijn begaan vóór het tijdstip waarop voor het betrokken terrein een luchthavenbesluit of een luchthavenregeling in werking treedt, blijven de betrokken bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) vastgestelde voorschriften zoals die luidden vóór dat tijdstip, van kracht.
 
 ##### Artikel XXIV. (Regels goede invoering)
 
-Dit onderdeel is nog niet inwerking getreden
+1. Met het oog op een goede invoering van deze wet kunnen, indien nodig in afwijking van het bij of krachtens deze wet en de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) bepaalde, bij algemene maatregel van bestuur regels worden vastgesteld.
+
+2. Indien toepassing wordt gegeven aan het eerste lid dragen Onze Minister van Verkeer en Waterstaat en Onze Minister van Defensie er zorg voor dat binnen een jaar een voordracht wordt gedaan tot wijziging van de bepaling van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) waarvan wordt afgeweken.
 
 ##### Artikel XXV. (Inwerkingtreding)
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat de voordracht voor de inwerkingtreding van de [artikelen IA](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=Ia&z=2008-12-24&g=2008-12-24), [IB](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=Ib&z=2008-12-24&g=2008-12-24), [IC](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=Ic&z=2008-12-24&g=2008-12-24) en [IG](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=Ig&z=2008-12-24&g=2008-12-24) niet eerder wordt gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat de voordracht voor de inwerkingtreding van de [artikelen IA](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=Ia&z=2009-11-01&g=2009-11-01), [IB](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=Ib&z=2009-11-01&g=2009-11-01), [IC](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=Ic&z=2009-11-01&g=2009-11-01) en [IG](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=Ig&z=2009-11-01&g=2009-11-01) niet eerder wordt gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
