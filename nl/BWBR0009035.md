@@ -4,7 +4,7 @@ identifier: "BWBR0009035"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-04-01"
-last_updated: "2005-10-19"
+last_updated: "2009-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009035"
 soort: "AMvB"
@@ -46,35 +46,39 @@ Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 21 nove
 
 Hebben goedgevonden en verstaan:
 
+Werkt terug tot en met 1 november 1997
+
 ##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. verordening: [verordening nr. 95/93](31993R0095) van de Raad van de Europese Gemeenschappen van 18 januari 1993 betreffende gemeenschappelijke regels voor de toewijzing van «slots» op communautaire luchthavens (**PbEG** L14);
 
-- b. burgerexploitant:
+- b. exploitant:
 
-- 1°. de exploitant van een luchtvaartterrein dan wel de luchthaven Schiphol;
+- 1°. de exploitant van een burgerluchthaven;
 
-- 2°. in geval van burgermedegebruik van een militair luchtvaartterrein, de natuurlijke persoon of rechtspersoon, niet zijnde de Staat, onder wiens verantwoordelijkheid burgermedegebruik op commerciële basis plaatsvindt.
+- 2°. de burgerexploitant;
+
+- c. Onze Minister: Onze Minister van Verkeer en Waterstaat.
 
 ##### Artikel 2
 
-1. Onze Minister kan een luchtvaartterrein dan wel de luchthaven Schiphol aanwijzen als:
+1. Onze Minister kan een luchthaven aanwijzen als:
 
 - a. een luchthaven met bemiddeling inzake de dienstregelingen;
 
 - b. een gecoördineerde luchthaven.
 
-2. Indien Onze Minister een militair luchtvaartterrein met burgermedegebruik voor wat betreft dat gebruik aanwijst als een luchthaven met bemiddeling inzake de dienstregelingen of een gecoördineerde luchthaven, doet hij dat in overeenstemming met Onze Minister van Defensie.
+2. Indien Onze Minister een militaire luchthaven met burgermedegebruik door tussenkomst van een burgerexploitant voor wat betreft dat gebruik aanwijst als een luchthaven met bemiddeling inzake de dienstregelingen of een gecoördineerde luchthaven, doet hij dat in overeenstemming met Onze Minister van Defensie.
 
 ##### Artikel 3
 
-1. Indien Onze Minister van zijn bevoegdheid, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2005-10-19&g=2005-10-19), gebruik maakt, wijst hij een luchthavencoördinator dan wel een bemiddelaar inzake de dienstregelingen aan voor een of meer luchthavens.
+1. Indien Onze Minister van zijn bevoegdheid, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), gebruik maakt, wijst hij een luchthavencoördinator dan wel een bemiddelaar inzake de dienstregelingen aan voor een of meer luchthavens.
 
 2. De krachtens het eerste lid aangewezen luchthavencoördinator dan wel bemiddelaar oefent zijn taak uit overeenkomstig artikel 4 van de verordening.
 
-3. De burgerexploitant stelt overeenkomstig artikel 6, eerste lid, tweede alinea, van de verordening coördinatieparameters vast welke ten grondslag liggen aan het door Onze Minister telkenmale vastgestelde gebruiksplan, waarin op voorstel van de burgerexploitant adequate marges zijn opgenomen.
+3. De exploitant stelt overeenkomstig [artikel 6, eerste lid, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=6&z=2009-11-01&g=2009-11-01), van de verordening coördinatieparameters vast welke ten grondslag liggen aan het door Onze Minister telkenmale vastgestelde gebruiksplan, waarin op voorstel van de exploitant adequate marges zijn opgenomen.
 
 4. Aan een aanwijzing als bedoeld in het eerste lid kunnen voorschriften of beperkingen worden verbonden.
 
@@ -82,7 +86,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Onze Minister stelt een coördinatiecomité in ten behoeve van een of meer krachtens [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2005-10-19&g=2005-10-19), aangewezen luchthavens.
+1. Onze Minister stelt een coördinatiecomité in ten behoeve van een of meer krachtens [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), aangewezen luchthavens.
 
 2. Indien sprake is van een situatie als bedoeld in artikel 10, negende lid, van de verordening, belegt Onze Minister een vergadering van het desbetreffende coördinatiecomité.
 
@@ -90,7 +94,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De burgerexploitant van een krachtens [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2005-10-19&g=2005-10-19), aangewezen luchthaven of van een luchtvaartterrein dat niet is aangewezen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2005-10-19&g=2005-10-19), voert een grondige capaciteitsanalyse ten behoeve van het burgerluchtverkeer uit:
+1. De exploitant van een krachtens [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), aangewezen luchthaven of van een luchthaven die niet is aangewezen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), voert een grondige capaciteitsanalyse ten behoeve van het burgerluchtverkeer uit:
 
 - a. op verzoek van Onze Minister, of
 
@@ -98,13 +102,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 In een geval als bedoeld onder b wordt de capaciteitsanalyse uitgevoerd binnen 6 maanden na indiening van het verzoek.
 
-2. De burgerexploitant van een krachtens [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2005-10-19&g=2005-10-19), aangewezen burgerluchtvaartterrein of van het burgergedeelte van een krachtens [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2005-10-19&g=2005-10-19), aangewezen militair luchtvaartterrein is gehouden coördinatieparameters als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=3&z=2005-10-19&g=2005-10-19), twee maal per jaar vast te stellen ten behoeve van het burgerluchtverkeer.
+2. De exploitant van een krachtens [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), aangewezen burgerluchthaven of van het burgergedeelte van een krachtens [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), aangewezen militaire luchthaven is gehouden coördinatieparameters als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=3&z=2009-11-01&g=2009-11-01), twee maal per jaar vast te stellen ten behoeve van het burgerluchtverkeer.
 
 3. Ten aanzien van de luchthaven Schiphol rust de in het tweede lid bedoelde verplichting op de in [artikel 8.18 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.18) bedoelde betrokkenen.
 
 ##### Artikel 6
 
-Onverminderd de verordening kan Onze Minister een aanwijzing als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2005-10-19&g=2005-10-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=3&z=2005-10-19&g=2005-10-19) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=4&z=2005-10-19&g=2005-10-19) schorsen of intrekken:
+Onverminderd de verordening kan Onze Minister een aanwijzing als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2009-11-01&g=2009-11-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=3&z=2009-11-01&g=2009-11-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=4&z=2009-11-01&g=2009-11-01) schorsen of intrekken:
 
 - a. indien de aangewezen natuurlijke persoon of rechtspersoon daarom verzoekt;
 
@@ -121,5 +125,11 @@ Het is luchtvaartmaatschappijen verboden herhaaldelijk en opzettelijk luchtdiens
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit slotallocatie.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 1a
+
+Dit besluit berust op [artikel 8a.52 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.52).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst.
