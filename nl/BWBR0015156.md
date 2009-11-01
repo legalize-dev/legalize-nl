@@ -4,7 +4,7 @@ identifier: "BWBR0015156"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-08-19"
-last_updated: "2003-06-20"
+last_updated: "2009-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015156"
 soort: "AMvB"
@@ -66,19 +66,19 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Als de in [artikel 10.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.6) bedoelde gevaarlijke stoffen, niet zijnde ontplofbare stoffen of voorwerpen, behorend tot de operationele uitrusting of het wapensysteem van een militair luchtvaartuig, of behorend tot de uitrusting van personen die met een dergelijk luchtvaartuig worden vervoerd, worden aangewezen de stoffen, bedoeld in [artikel 1.1, eerste lid, onderdeel c, onder 2° tot en met 8°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1) alsmede de stoffen, bedoeld in [artikel 1, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015156&artikel=1&z=2003-06-20&g=2003-06-20).
+Als de in [artikel 10.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.6) bedoelde gevaarlijke stoffen, niet zijnde ontplofbare stoffen of voorwerpen, behorend tot de operationele uitrusting of het wapensysteem van een militair luchtvaartuig, of behorend tot de uitrusting van personen die met een dergelijk luchtvaartuig worden vervoerd, worden aangewezen de stoffen, bedoeld in [artikel 1.1, eerste lid, onderdeel c, onder 2° tot en met 8°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1) alsmede de stoffen, bedoeld in [artikel 1, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015156&artikel=1&z=2009-11-01&g=2009-11-01).
 
 ##### Artikel 3
 
-Het nationaal vervoer van de in [artikel 2 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015156&artikel=2&z=2003-06-20&g=2003-06-20) bedoelde stoffen met militaire luchtvaartuigen, het internationaal vervoer van gevaarlijke stoffen met militaire luchtvaartuigen, het nationaal vervoer van ontplofbare stoffen met militaire luchtvaartuigen, het daartoe aanbieden of aannemen, alsmede het laden in of lossen uit een dergelijk luchtvaartuig of tijdens het vervoer neerleggen van bedoelde stoffen is slechts toegestaan voorzover de STANAG 2487, 3854 en 4441 in acht worden genomen.
+Het nationaal vervoer van de in [artikel 2 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015156&artikel=2&z=2009-11-01&g=2009-11-01) bedoelde stoffen met militaire luchtvaartuigen, het internationaal vervoer van gevaarlijke stoffen met militaire luchtvaartuigen, het nationaal vervoer van ontplofbare stoffen met militaire luchtvaartuigen, het daartoe aanbieden of aannemen, alsmede het laden in of lossen uit een dergelijk luchtvaartuig of tijdens het vervoer neerleggen van bedoelde stoffen is slechts toegestaan voorzover de STANAG 2487, 3854 en 4441 in acht worden genomen.
 
 ##### Artikel 4
 
-Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot het in [artikel 3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015156&artikel=3&z=2003-06-20&g=2003-06-20) bedoelde vervoer. Deze regels kunnen onder meer betrekking hebben op:
+Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot het in [artikel 3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015156&artikel=3&z=2009-11-01&g=2009-11-01) bedoelde vervoer. Deze regels kunnen onder meer betrekking hebben op:
 
 - a. de constructie, inrichting en uitrusting van militaire luchtvaartuigen waarmee gevaarlijke stoffen worden vervoerd;
 
-- b. de constructie, inrichting en uitrusting van inrichtingen, voertuigen of werktuigen met behulp waarvan gevaarlijke stoffen op een luchtvaartterrein worden geladen of gelost;
+- b. de constructie, inrichting en uitrusting van inrichtingen, voertuigen of werktuigen met behulp waarvan gevaarlijke stoffen op een luchthaven worden geladen of gelost;
 
 - c. de keuring van de inrichtingen, voertuigen en werktuigen, bedoeld in onderdeel b, van dit artikel;
 
@@ -90,9 +90,9 @@ Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot h
 
 - g. de belading van militaire luchtvaartuigen met inbegrip van samenlading en externe lading;
 
-- h. het doen van aanvragen of meldingen met betrekking tot handelingen inzake het vervoer van gevaarlijke stoffen als bedoeld in [artikel 3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015156&artikel=3&z=2003-06-20&g=2003-06-20);
+- h. het doen van aanvragen of meldingen met betrekking tot handelingen inzake het vervoer van gevaarlijke stoffen als bedoeld in [artikel 3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015156&artikel=3&z=2009-11-01&g=2009-11-01);
 
-- i. de documenten die worden gebruikt bij de handelingen inzake het vervoer van gevaarlijke stoffen als bedoeld in [artikel 3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015156&artikel=3&z=2003-06-20&g=2003-06-20);
+- i. de documenten die worden gebruikt bij de handelingen inzake het vervoer van gevaarlijke stoffen als bedoeld in [artikel 3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015156&artikel=3&z=2009-11-01&g=2009-11-01);
 
 - j. de eisen waaraan verpakking en etiketten of aanduidingen op de verpakking moet voldoen.
 
