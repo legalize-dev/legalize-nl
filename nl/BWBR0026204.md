@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2009-08-01"
+last_updated: "2009-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2009-08-01&g=2009-08-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2009-11-01&g=2009-11-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
@@ -135,6 +135,8 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 1:77, eerste lid | 3 |
 |   |   |
 | [Deel Markttoegang financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=2) |   |
+| 2:3a, eerste lid | 3 |
+| 2:3e, eerste lid | 3 |
 | 2:4, eerste lid | 3 |
 | 2:6, eerste lid | 3 |
 | 2:8, eerste lid | 3 |
@@ -200,6 +202,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 2:102, eerste lid | 1 |
 | 2:103 | 2 |
 | 2:103a, eerste lid | 2 |
+| 2:106a, eerste lid | 2 |
 | 2:107, eerste lid | 1 |
 | 2:108, eerste lid | 1 |
 | 2:110, eerste lid | 1 |
@@ -239,10 +242,13 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:19, eerste en tweede lid | 2 |
 | 3:19a, | 2 |
 | 3:20 | 2 |
+| 3:20a | 3 |
 | 3:21, eerste en tweede lid | 2 |
 | 3:24 | 2 |
 | 3:29, eerste lid | 2 |
 | 3:29, tweede lid | 1 |
+| 3:29a | 3 |
+| 3:29c, eerste lid | 2 |
 | 3:30, eerste lid | 2 |
 | 3:32 | 2 |
 | 3:34, eerste en tweede lid | 2 |
@@ -288,6 +294,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:74, eerste lid | 1 |
 | 3:74a, eerste, tweede en vierde lid | 2 |
 | 3:74a, derde lid | 1 |
+| 3:74b | 2 |
 | 3:75 | 2 |
 | 3:76, eerste en tweede lid | 1 |
 | 3:77 | 2 |
@@ -312,6 +319,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:111, derde lid | 2 |
 | 3:111a. eerste lid | 3 |
 | 3:111a, tweede lid | 2 |
+| 3:111b, eerste lid | 2 |
 | 3:112, eerste lid | 2 |
 | 3:113, eerste en tweede lid | 2 |
 | 3:116 | 1 |
@@ -394,10 +402,12 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:19, eerste tot en met het derde lid | 2 |
 | 4:20, eerste en derde lid | 2 |
 | 4:21 | 1 |
+| 4:22, eerste en tweede lid | 2 |
 | 4:23, eerste en tweede lid | 2 |
 | 4:24, eerste en derde lid | 2 |
 | 4:24, tweede lid | 3 |
 | 4:25, eerste lid | 2 |
+| 4:25b | 2 |
 | 4:26, eerste, derde tot en met het vijfde lid | 2 |
 | 4:26, tweede lid | 1 |
 | 4:27, eerste, tweede en vierde lid | 2 |
@@ -566,6 +576,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:81, eerste lid | 2 |
 | 5:86, eerste lid | 2 |
 | 5:86, tweede lid | 1 |
+| 5:88, eerste en tweede lid | 3 |
 |   |   |
 | [Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020414) |   |
 | 4, eerste en tweede lid | 2 |
