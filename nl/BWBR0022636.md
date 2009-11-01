@@ -4,7 +4,7 @@ identifier: "BWBR0022636"
 country: "nl"
 rank: "wet"
 publication_date: "2009-11-01"
-last_updated: "2008-01-01"
+last_updated: "2009-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022636"
 soort: "wet"
@@ -124,11 +124,11 @@ B. Maanden die zijn gelegen voor de inwerkingtreding van deze wet kunnen geen de
 
 ##### Artikel XIIIa
 
-De ingevolge [artikel IA, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2008-01-01&g=2008-01-01), gewijzigde artikelen van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) vinden voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na 1 januari 2006.
+De ingevolge [artikel IA, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2009-11-01&g=2009-11-01), gewijzigde artikelen van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) vinden voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na 1 januari 2006.
 
 ##### Artikel XIIIb
 
-Het ingevolge [artikel IA, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2008-01-01&g=2008-01-01), gewijzigde artikel van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) vindt voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na de dag van de inwerkingtreding van de wijziging.
+Het ingevolge [artikel IA, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2009-11-01&g=2009-11-01), gewijzigde artikel van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) vindt voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) die zich hebben voorgedaan op of na de dag van de inwerkingtreding van de wijziging.
 
 ##### Artikel XIIIc
 
@@ -154,17 +154,17 @@ Wijzigt het Belastingplan 2006.
 
 Deze wet treedt in werking op 1 januari 2008, met dien verstande dat:
 
-- a. [artikel IV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=IV&z=2008-01-01&g=2008-01-01), terugwerkt tot en met 1 januari 2005;
+- a. [artikel IV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=IV&z=2009-11-01&g=2009-11-01), terugwerkt tot en met 1 januari 2005;
 
-- b. [artikel VI, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=VI&z=2008-01-01&g=2008-01-01), terugwerkt tot en met 1 maart 2005;
+- b. [artikel VI, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=VI&z=2009-11-01&g=2009-11-01), terugwerkt tot en met 1 maart 2005;
 
-- c. [artikel I, onderdelen Bb en F](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=I&z=2008-01-01&g=2008-01-01), [artikel IA, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2008-01-01&g=2008-01-01), [artikel II, onderdelen E, F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=II&z=2008-01-01&g=2008-01-01), [artikel VI, onderdeel Bb](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=VI&z=2008-01-01&g=2008-01-01), [artikel X, onderdeel Aa, eerste lid, en onderdelen G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=X&z=2008-01-01&g=2008-01-01), [artikel XIIA, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIa&z=2008-01-01&g=2008-01-01), [artikel XIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIIa&z=2008-01-01&g=2008-01-01), [artikel XIIIC](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIIc&z=2008-01-01&g=2008-01-01) en [artikel XIIIG](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIIg&z=2008-01-01&g=2008-01-01) terugwerken tot en met 1 januari 2006;
+- c. [artikel I, onderdelen Bb en F](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=I&z=2009-11-01&g=2009-11-01), [artikel IA, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2009-11-01&g=2009-11-01), [artikel II, onderdelen E, F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=II&z=2009-11-01&g=2009-11-01), [artikel VI, onderdeel Bb](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=VI&z=2009-11-01&g=2009-11-01), [artikel X, onderdeel Aa, eerste lid, en onderdelen G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=X&z=2009-11-01&g=2009-11-01), [artikel XIIA, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIa&z=2009-11-01&g=2009-11-01), [artikel XIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIIa&z=2009-11-01&g=2009-11-01), [artikel XIIIC](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIIc&z=2009-11-01&g=2009-11-01) en [artikel XIIIG](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIIg&z=2009-11-01&g=2009-11-01) terugwerken tot en met 1 januari 2006;
 
-- d. [artikel II, onderdeel Bb](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=II&z=2008-01-01&g=2008-01-01), terugwerkt tot en met 1 juli 2006;
+- d. [artikel II, onderdeel Bb](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=II&z=2009-11-01&g=2009-11-01), terugwerkt tot en met 1 juli 2006;
 
-- e. [artikel IA, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2008-01-01&g=2008-01-01), en [artikel X, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=X&z=2008-01-01&g=2008-01-01), terugwerken tot en met het tijdstip waarop [artikel I, onderdeel Oa, van het Belastingplan 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019286&artikel=I) in werking treedt;
+- e. [artikel IA, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=Ia&z=2009-11-01&g=2009-11-01), en [artikel X, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=X&z=2009-11-01&g=2009-11-01), terugwerken tot en met het tijdstip waarop [artikel I, onderdeel Oa, van het Belastingplan 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019286&artikel=I) in werking treedt;
 
-- f. [artikel VI, onderdeel Abis](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=VI&z=2008-01-01&g=2008-01-01), en [artikel XIIA, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIa&z=2008-01-01&g=2008-01-01), in werking treden op een bij koninklijk besluit te bepalen tijdstip.
+- f. [artikel VI, onderdeel Abis](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=VI&z=2009-11-01&g=2009-11-01), en [artikel XIIA, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022636&artikel=XIIa&z=2009-11-01&g=2009-11-01), in werking treden op een bij koninklijk besluit te bepalen tijdstip.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
