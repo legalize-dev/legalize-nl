@@ -4,7 +4,7 @@ identifier: "BWBR0026066"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-11-04"
-last_updated: "2009-07-09"
+last_updated: "2009-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026066"
 soort: "ministeriele-regeling"
@@ -44,17 +44,17 @@ Besluit:
 
 ##### Artikel 1. Geraamde totale kosten voor heffingskortingen
 
-De geraamde totale kosten voor de heffingskortingen, bedoeld in [artikel 15 van Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=15), voor het jaar 2009 bedragen: € 35.256.000.000.
+De geraamde totale kosten voor de heffingskortingen, bedoeld in [artikel 15 van Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=15), voor het jaar 2009 bedragen: € 35.546.000.000
 
 ##### Artikel 2. Rijksbijdrage in de kosten van de heffingskortingen per fonds
 
 Met toepassing van de formule, bedoeld in [artikel 15 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=15), bedraagt de bijdrage in de kosten van de heffingskortingen per fonds voor het jaar 2009:
 
-- a. ten gunste van het Ouderdomsfonds: € 3.061.200.000;
+- a. ten gunste van het Ouderdomsfonds: € 3.086.400.000;
 
-- b. ten gunste van het Nabestaandenfonds: € 45.100.000;
+- b. ten gunste van het Nabestaandenfonds: € 45.500.000;
 
-- c. ten gunste van het Algemeen Fonds Bijzondere Ziektekosten: € 4.856.500.000.
+- c. ten gunste van het Algemeen Fonds Bijzondere Ziektekosten: € 4.896.400.000.
 
 ##### Artikel 3. Inwerkingtreding
 
