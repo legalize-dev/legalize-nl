@@ -4,7 +4,7 @@ identifier: "BWBR0003245"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2009-09-10"
+last_updated: "2009-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003245"
 soort: "wet"
@@ -51,11 +51,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 adviseurs: bestuursorganen die krachtens wettelijk voorschrift in de gelegenheid moeten worden gesteld advies uit te brengen met betrekking tot het geven van een beschikking of het nemen van een ander besluit;
 
-afvalbeheersplan: het afvalbeheersplan, bedoeld in [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.3&z=2009-09-10&g=2009-09-10);
+afvalbeheersplan: het afvalbeheersplan, bedoeld in [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.3&z=2009-11-04&g=2009-11-04);
 
 afvalstoffen: alle stoffen, preparaten of producten die behoren tot de categorieën die zijn genoemd in bijlage I bij richtlijn nr. 2006/12/EG van het Europees Parlement en de Raad van 5 april 2006 betreffende afvalstoffen, waarvan de houder zich ontdoet, voornemens is zich te ontdoen of zich moet ontdoen;
 
-afvalstoffenverordening: de verordening, bedoeld in [artikel 10.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.23&z=2009-09-10&g=2009-09-10);
+afvalstoffenverordening: de verordening, bedoeld in [artikel 10.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.23&z=2009-11-04&g=2009-11-04);
 
 afvalvoorziening: inrichting waar uitsluitend winningsafvalstoffen worden gestort of verzameld, dan wel het gedeelte van een inrichting waar winningsafvalstoffen worden gestort of verzameld;
 
@@ -71,7 +71,7 @@ beheer van afvalstoffen: inzameling, vervoer, nuttige toepassing of verwijdering
 
 beste beschikbare technieken: voor het bereiken van een hoog niveau van bescherming van het milieu meest doeltreffende technieken om de emissies en andere nadelige gevolgen voor het milieu, die een inrichting kan veroorzaken, te voorkomen of, indien dat niet mogelijk is, zoveel mogelijk te beperken, die – kosten en baten in aanmerking genomen – economisch en technisch haalbaar in de bedrijfstak waartoe de inrichting behoort, kunnen worden toegepast, en die voor degene die de inrichting drijft, redelijkerwijs in Nederland of daarbuiten te verkrijgen zijn; daarbij wordt onder technieken mede begrepen het ontwerp van de inrichting, de wijze waarop zij wordt gebouwd en onderhouden, alsmede de wijze van bedrijfsvoering en de wijze waarop de inrichting buiten gebruik wordt gesteld;
 
-betrokken bestuursorganen: adviseurs en andere bestuursorganen die krachtens wettelijk voorschrift worden betrokken bij de totstandkoming van de in [artikel 13.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-09-10&g=2009-09-10), bedoelde beschikkingen.
+betrokken bestuursorganen: adviseurs en andere bestuursorganen die krachtens wettelijk voorschrift worden betrokken bij de totstandkoming van de in [artikel 13.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-11-04&g=2009-11-04), bedoelde beschikkingen.
 
 bevoegd gezag: bestuursorgaan dat bevoegd is tot het geven van een beschikking of het nemen van een ander besluit;
 
@@ -81,13 +81,13 @@ biochemisch zuurstofverbruik: massaconcentratie aan opgeloste zuurstof die gedur
 
 broeikasgas: gas, genoemd in bijlage II bij de EG-richtlijn handel in broeikasgasemissierechten;
 
-broeikasgasemissierecht: overeenkomstig het bepaalde bij en krachtens [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-09-10&g=2009-09-10) overdraagbaar recht, uitsluitend teneinde aan het bepaalde bij en krachtens dat hoofdstuk te voldoen, om gedurende een bepaalde periode een emissie van één ton kooldioxide-equivalent in de lucht te veroorzaken;
+broeikasgasemissierecht: overeenkomstig het bepaalde bij en krachtens [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-11-04&g=2009-11-04) overdraagbaar recht, uitsluitend teneinde aan het bepaalde bij en krachtens dat hoofdstuk te voldoen, om gedurende een bepaalde periode een emissie van één ton kooldioxide-equivalent in de lucht te veroorzaken;
 
-Commissie genetische modificatie: de Commissie genetische modificatie, bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.3&artikel=2.26&z=2009-09-10&g=2009-09-10);
+Commissie genetische modificatie: de Commissie genetische modificatie, bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.3&artikel=2.26&z=2009-11-04&g=2009-11-04);
 
-Commissie voor de milieu-effectrapportage: de Commissie voor de milieu-effectrapportage, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.2&artikel=2.17&z=2009-09-10&g=2009-09-10);
+Commissie voor de milieu-effectrapportage: de Commissie voor de milieu-effectrapportage, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.2&artikel=2.17&z=2009-11-04&g=2009-11-04);
 
-doelmatig beheer van afvalstoffen: zodanig beheer van afvalstoffen dat daarbij rekening wordt gehouden met het geldende afvalbeheersplan, dan wel de voor de vaststelling van het plan geldende bepalingen, dan wel de voorkeursvolgorde aangegeven in [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.4&z=2009-09-10&g=2009-09-10), en de criteria, genoemd in [artikel 10.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.5&z=2009-09-10&g=2009-09-10);
+doelmatig beheer van afvalstoffen: zodanig beheer van afvalstoffen dat daarbij rekening wordt gehouden met het geldende afvalbeheersplan, dan wel de voor de vaststelling van het plan geldende bepalingen, dan wel de voorkeursvolgorde aangegeven in [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.4&z=2009-11-04&g=2009-11-04), en de criteria, genoemd in [artikel 10.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.5&z=2009-11-04&g=2009-11-04);
 
 EEG-richtlijn milieu-effectbeoordeling: [richtlijn nr. 85/337/EEG](31985L0337) van de Raad van de Europese Gemeenschappen van 27 juni 1985 betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten (PbEG L 175), zoals gewijzigd bij [richtlijn nr. 97/11/EG](31997L0011) van de Raad van de Europese gemeenschappen van 3 maart 1997 (PbEG L 73) tot wijziging van [richtlijn 85/337/EEG](31985L0337) betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten;
 
@@ -96,6 +96,8 @@ EEG-richtlijn milieu-effectbeoordeling: [richtlijn nr. 85/337/EEG](31985L0337) v
 de EG-richtlijn handel in broeikasgasemissierechten: [richtlijn nr. 2003/87/EG](32003L0087) van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van [Richtlijn 96/61/EG](31996L0061) van de Raad (PbEU L 275);
 
 EG-richtlijn inzake geïntegreerde preventie en bestrijding van verontreiniging: richtlijn nr. 2008/1/EG van het Europees Parlement en de Raad van de Europese Unie van 15 januari 2008 inzake geïntegreerde preventie en bestrijding van verontreiniging (PbEU L 24);
+
+**EG-verordening indeling, etikettering en verpakking van stoffen en mengsels:** verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353);
 
 EG-verordening overbrenging van afvalstoffen: verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU L 190);
 
@@ -107,7 +109,7 @@ EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: vero
 
 emissie: stoffen, trillingen, warmte, die of geluid dat direct of indirect vanuit een bron in de lucht, het water of de bodem worden, onderscheidenlijk wordt gebracht;
 
-de emissieautoriteit: de Nederlandse emissieautoriteit, genoemd in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2009-09-10&g=2009-09-10);
+de emissieautoriteit: de Nederlandse emissieautoriteit, genoemd in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2009-11-04&g=2009-11-04);
 
 emissiegrenswaarde: massa gerelateerd aan bepaalde parameters, dan wel concentratie of niveau van een emissie uit een of meer bronnen, die gedurende een bepaalde periode niet mag worden overschreden;
 
@@ -115,7 +117,7 @@ emissiereductie-eenheid: eenheid, uitgegeven overeenkomstig artikel 6 van het Pr
 
 gecertificeerde emissiereductie: eenheid, uitgegeven overeenkomstig artikel 12 van het Protocol van Kyoto en de overeenkomstig het Raamverdrag van de Verenigde Naties inzake klimaatverandering of het Protocol van Kyoto genomen besluiten (CER);
 
-gemeentelijk milieubeleidsplan: het gemeentelijke milieubeleidsplan, bedoeld in [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.16&z=2009-09-10&g=2009-09-10);
+gemeentelijk milieubeleidsplan: het gemeentelijke milieubeleidsplan, bedoeld in [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.16&z=2009-11-04&g=2009-11-04);
 
 gevaarlijke afvalstoffen: bij ministeriële regeling als zodanig aangewezen afvalstoffen, met inachtneming van ter zake voor Nederland verbindende verdragen en van besluiten van volkenrechtelijke organisaties;
 
@@ -133,9 +135,9 @@ inwonerequivalent: biochemisch zuurstofverbruik van 54 gram per etmaal;
 
 de kaderrichtlijn water: [richtlijn nr. 2000/60/EG](32000L0060) van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid (PbEG L 327), zoals deze is gewijzigd bij beschikking nr. 2455/2001/EG van het Europees Parlement en de Raad van 20 november 2001 tot vaststelling van de lijst van prioritaire stoffen op het gebied van het waterbeleid en tot wijziging van [richtlijn 2000/60/EG](32000L0060) (PbEG L 331) en met inbegrip van wijzigingen uit hoofde van artikel 20, eerste lid, van de richtlijn, doch voor het overige naar de tekst zoals deze bij de richtlijn is vastgesteld;
 
-nationaal milieubeleidsplan: het nationale milieubeleidsplan, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.2&artikel=4.3&z=2009-09-10&g=2009-09-10);
+nationaal milieubeleidsplan: het nationale milieubeleidsplan, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.2&artikel=4.3&z=2009-11-04&g=2009-11-04);
 
-NOx-emissierecht: overeenkomstig het bepaalde bij en krachtens [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-09-10&g=2009-09-10) overdraagbaar recht, uitsluitend teneinde aan het bepaalde bij en krachtens dat hoofdstuk te voldoen, om gedurende een bepaalde periode een emissie van één kilogram stikstofoxiden in de lucht te veroorzaken;
+NOx-emissierecht: overeenkomstig het bepaalde bij en krachtens [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-11-04&g=2009-11-04) overdraagbaar recht, uitsluitend teneinde aan het bepaalde bij en krachtens dat hoofdstuk te voldoen, om gedurende een bepaalde periode een emissie van één kilogram stikstofoxiden in de lucht te veroorzaken;
 
 nuttige toepassing: de als zodanig in artikel 1 van de richtlijn nr. 2006/12/EG van 5 april 2006 van het Europees parlement en de Raad betreffende afvalstoffen, aangeduide activiteit;
 
@@ -151,11 +153,11 @@ preparaten: mengsels of oplossingen van twee of meer stoffen;
 
 Protocol van Kyoto: op 11 december 1997 te Kyoto totstandgekomen Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering (Trb. 1998, 170, en 1999, 110);
 
-provinciaal milieubeleidsplan: het provinciale milieubeleidsplan, bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.9&z=2009-09-10&g=2009-09-10);
+provinciaal milieubeleidsplan: het provinciale milieubeleidsplan, bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.9&z=2009-11-04&g=2009-11-04);
 
-provinciale milieucommissie: de provinciale milieucommissie, bedoeld in [artikel 2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.4&artikel=2.41&z=2009-09-10&g=2009-09-10);
+provinciale milieucommissie: de provinciale milieucommissie, bedoeld in [artikel 2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.4&artikel=2.41&z=2009-11-04&g=2009-11-04);
 
-provinciale milieuverordening: de verordening, bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2009-09-10&g=2009-09-10);
+provinciale milieuverordening: de verordening, bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2009-11-04&g=2009-11-04);
 
 Raamverdrag van de Verenigde Naties inzake klimaatverandering: op 9 mei 1992 te New York totstandgekomen Raamverdrag van de Verenigde Naties inzake klimaatverandering (Trb. 1992, 189);
 
@@ -255,11 +257,11 @@ Onze Minister kan nadere regels stellen omtrent de aanwijzing van stoffen, prepa
 
 6. De verordening kan slechts, voor zover dit uit een oogpunt van doelmatige regelgeving bijzonder aangewezen is, regels bevatten die rechtstreeks betrekking hebben op bij die regels aangewezen categorieën van inrichtingen, voor zover:
 
-- a. ten aanzien van die inrichtingen de in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) gestelde verboden niet gelden, en die regels noodzakelijk zijn ter bescherming van de kwaliteit van het grondwater met het oog op de waterwinning in bij de verordening aangewezen gebieden, of
+- a. ten aanzien van die inrichtingen de in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) gestelde verboden niet gelden, en die regels noodzakelijk zijn ter bescherming van de kwaliteit van het grondwater met het oog op de waterwinning in bij de verordening aangewezen gebieden, of
 
 - b. het regels betreft, inhoudende een verbod tot het oprichten of in werking hebben van dergelijke inrichtingen in gebieden als bedoeld onder a, dan wel tot het op een bij die verordening aan te geven wijze veranderen van dergelijke inrichtingen in die gebieden, of het veranderen van de werking daarvan.
 
-7. Bij de verordening kan, voor zover het gevallen betreft als bedoeld in het zesde lid, worden bepaald dat het orgaan dat bevoegd is een vergunning krachtens [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-09-10&g=2009-09-10) te verlenen, bij het verlenen of wijzigen van de vergunning met betrekking tot de daarbij aangegeven onderwerpen in de beperkingen waaronder de vergunning wordt verleend of in de daaraan verbonden voorschriften van bij de verordening gestelde regels kan afwijken. In dat geval wordt bij de verordening aangegeven in hoeverre het bevoegd gezag van de regels kan afwijken. Bij de verordening kan tevens worden bepaald dat de bevoegdheid tot afwijken slechts geldt in daarbij aangegeven categorieën van gevallen.
+7. Bij de verordening kan, voor zover het gevallen betreft als bedoeld in het zesde lid, worden bepaald dat het orgaan dat bevoegd is een vergunning krachtens [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-11-04&g=2009-11-04) te verlenen, bij het verlenen of wijzigen van de vergunning met betrekking tot de daarbij aangegeven onderwerpen in de beperkingen waaronder de vergunning wordt verleend of in de daaraan verbonden voorschriften van bij de verordening gestelde regels kan afwijken. In dat geval wordt bij de verordening aangegeven in hoeverre het bevoegd gezag van de regels kan afwijken. Bij de verordening kan tevens worden bepaald dat de bevoegdheid tot afwijken slechts geldt in daarbij aangegeven categorieën van gevallen.
 
 8. Bij de vaststelling van de verordening houden provinciale staten rekening met het geldende provinciale milieubeleidsplan.
 
@@ -271,7 +273,7 @@ Bij de provinciale milieuverordening worden geen regels gesteld, die het naar of
 
 1. Bij de provinciale milieuverordening kan worden bepaald dat daarbij aangewezen bestuursorganen in daarbij aangegeven categorieën van gevallen ontheffing kunnen verlenen van bij die verordening aangewezen regels, indien het belang van de bescherming van het milieu zich daartegen niet verzet.
 
-2. De bevoegdheid, bedoeld in het eerste lid, geldt niet met betrekking tot inrichtingen waarvoor een vergunning krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) is vereist.
+2. De bevoegdheid, bedoeld in het eerste lid, geldt niet met betrekking tot inrichtingen waarvoor een vergunning krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) is vereist.
 
 3. Het betrokken orgaan houdt bij de beslissing op de aanvraag om een ontheffing in ieder geval rekening met het voor hem geldende milieubeleidsplan.
 
@@ -295,13 +297,13 @@ Vervallen
 
 ##### Artikel 2.2
 
-1. De emissieautoriteit heeft de in de [hoofdstukken 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-09-10&g=2009-09-10) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&z=2009-09-10&g=2009-09-10) opgedragen taken.
+1. De emissieautoriteit heeft de in de [hoofdstukken 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-11-04&g=2009-11-04) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&z=2009-11-04&g=2009-11-04) opgedragen taken.
 
 2. De emissieautoriteit heeft voorts tot taak:
 
 - a. het bijhouden van gegevens en het opstellen van rapportages met betrekking tot de naleving door Nederland van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, dat de beperking van de emissies van broeikasgassen of stikstofoxiden in de lucht tot doel heeft;
 
-- b. het verzamelen van gegevens over technieken ter bepaling van de emissies van broeikasgassen of stikstofoxiden, waarop [titel 16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&z=2009-09-10&g=2009-09-10) onderscheidenlijk [titel 16.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&z=2009-09-10&g=2009-09-10) van toepassing is;
+- b. het verzamelen van gegevens over technieken ter bepaling van de emissies van broeikasgassen of stikstofoxiden, waarop [titel 16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&z=2009-11-04&g=2009-11-04) onderscheidenlijk [titel 16.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&z=2009-11-04&g=2009-11-04) van toepassing is;
 
 - c. het verzamelen van andere gegevens die met het oog op de uitoefening van haar taken van belang zijn;
 
@@ -379,9 +381,9 @@ Vervallen
 
 2. De commissie heeft tot taak:
 
-- a. Onze Minister, Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister van Onderwijs, Cultuur en Wetenschap overeenkomstig [artikel 7.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-09-10&g=2009-09-10), van advies te dienen met betrekking tot verzoeken om ontheffing van de verplichting tot het maken van een milieu-effectrapport;
+- a. Onze Minister, Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister van Onderwijs, Cultuur en Wetenschap overeenkomstig [artikel 7.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-11-04&g=2009-11-04), van advies te dienen met betrekking tot verzoeken om ontheffing van de verplichting tot het maken van een milieu-effectrapport;
 
-- b. het bevoegd gezag overeenkomstig de [artikelen 7.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.14&z=2009-09-10&g=2009-09-10), [7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-09-10&g=2009-09-10) en [7.26b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6a&artikel=7.26b&z=2009-09-10&g=2009-09-10) van advies te dienen met betrekking tot milieu-effectrapporten.
+- b. het bevoegd gezag overeenkomstig de [artikelen 7.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.14&z=2009-11-04&g=2009-11-04), [7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-11-04&g=2009-11-04) en [7.26b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6a&artikel=7.26b&z=2009-11-04&g=2009-11-04) van advies te dienen met betrekking tot milieu-effectrapporten.
 
 ##### Artikel 2.18
 
@@ -389,7 +391,7 @@ De commissie brengt elk jaar aan Onze Minister, Onze Minister van Landbouw, Natu
 
 ##### Artikel 2.19
 
-1. De commissie bestaat uit deskundigen op het gebied van de beschrijving, de bescherming en de verontreiniging en aantasting van het milieu en op het gebied van de overeenkomstig de [artikelen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10) en [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-09-10&g=2009-09-10) aangewezen activiteiten.
+1. De commissie bestaat uit deskundigen op het gebied van de beschrijving, de bescherming en de verontreiniging en aantasting van het milieu en op het gebied van de overeenkomstig de [artikelen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04) en [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-11-04&g=2009-11-04) aangewezen activiteiten.
 
 2. De voorzitter, een of meer plaatsvervangende voorzitters en de overige leden van de commissie worden door Ons, op gezamenlijke voordracht van Onze Minister, Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister van Onderwijs, Cultuur en Wetenschap, benoemd en ontslagen. De voordracht tot benoeming van de voorzitter geschiedt in overeenstemming met het gevoelen van de ministerraad.
 
@@ -405,7 +407,7 @@ De rechtspositie van de voorzitter, de plaatsvervangende voorzitters en de overi
 
 1. Zodra de commissie in de gelegenheid wordt gesteld advies uit te brengen met betrekking tot een verzoek om ontheffing of een milieu-effectrapport, stelt de voorzitter, na overleg met de plaatsvervangende voorzitters, uit de leden van de commissie een werkgroep samen, die aan het bevoegd gezag advies uitbrengt. De voorzitter of de door hem aangewezen plaatsvervangende voorzitter van de commissie is voorzitter van de werkgroep.
 
-2. Als lid van een werkgroep worden slechts leden van de commissie aangewezen, die niet rechtstreeks betrokken zijn of zijn geweest bij de activiteit of bij de alternatieven daarvoor, als bedoeld in [artikel 7.10, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-09-10&g=2009-09-10), of bij een besluit bij de voorbereiding waarvan het milieu-effectrapport wordt of zou moeten worden gemaakt.
+2. Als lid van een werkgroep worden slechts leden van de commissie aangewezen, die niet rechtstreeks betrokken zijn of zijn geweest bij de activiteit of bij de alternatieven daarvoor, als bedoeld in [artikel 7.10, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-11-04&g=2009-11-04), of bij een besluit bij de voorbereiding waarvan het milieu-effectrapport wordt of zou moeten worden gemaakt.
 
 3. Indien een lid van een werkgroep niet meer voldoet aan het in het tweede lid gestelde vereiste, ontheft de voorzitter van de werkgroep hem, na overleg met de voorzitter van de commissie, van zijn lidmaatschap van de werkgroep.
 
@@ -443,7 +445,7 @@ Er is een Commissie genetische modificatie.
 
 - a. Onze Minister te adviseren over kennisgevingen en aanvragen om vergunning met betrekking tot het vervaardigen van of handelen met genetisch gemodificeerde organismen en over veiligheidsmaatregelen die in het kader daarvan moeten worden getroffen ter bescherming van mens en milieu;
 
-- b. het bestuursorgaan dat bevoegd is tot het verlenen van vergunningen krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10), te adviseren over aanvragen om vergunning met betrekking tot bij algemene maatregel van bestuur aangewezen inrichtingen voor zover die aanvragen betrekking hebben op het vervaardigen van of handelen met genetisch gemodificeerde organismen;
+- b. het bestuursorgaan dat bevoegd is tot het verlenen van vergunningen krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04), te adviseren over aanvragen om vergunning met betrekking tot bij algemene maatregel van bestuur aangewezen inrichtingen voor zover die aanvragen betrekking hebben op het vervaardigen van of handelen met genetisch gemodificeerde organismen;
 
 - c. het bestuursorgaan dat belast is met het toezicht op het vervaardigen van of handelen met genetisch gemodificeerde organismen, te adviseren met betrekking tot dat toezicht.
 
@@ -509,7 +511,7 @@ Telkens binnen een termijn van vier jaren brengt de commissie een rapport uit aa
 
 ##### Artikel 2.36
 
-1. De vergaderingen van de commissie zijn openbaar. De commissie stelt bij haar in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.3&artikel=2.40&z=2009-09-10&g=2009-09-10) bedoelde besluit regels betreffende de openbaarheid van de vergaderingen van de subcommissies.
+1. De vergaderingen van de commissie zijn openbaar. De commissie stelt bij haar in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.3&artikel=2.40&z=2009-11-04&g=2009-11-04) bedoelde besluit regels betreffende de openbaarheid van de vergaderingen van de subcommissies.
 
 2. Een vergadering of een gedeelte daarvan is niet openbaar in gevallen als bedoeld in [artikel 10, eerste lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) en in gevallen waarin het belang van openbaarheid niet opweegt tegen de in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), van die wet genoemde belangen.
 
@@ -521,7 +523,7 @@ Telkens binnen een termijn van vier jaren brengt de commissie een rapport uit aa
 
 ##### Artikel 2.38
 
-De commissie houdt de op de door haar uitgebrachte adviezen betrekking hebbende voorbereidende stukken ter beschikking van Onze Minister en van de bestuursorganen, bedoeld in [artikel 2.27, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.3&artikel=2.27&z=2009-09-10&g=2009-09-10).
+De commissie houdt de op de door haar uitgebrachte adviezen betrekking hebbende voorbereidende stukken ter beschikking van Onze Minister en van de bestuursorganen, bedoeld in [artikel 2.27, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.3&artikel=2.27&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 2.39
 
@@ -561,7 +563,7 @@ In dit hoofdstuk wordt onder Onze Ministers verstaan: Onze Minister, te zamen me
 
 ##### Artikel 4.2
 
-1. Het RIVM brengt eenmaal in de vier jaar aan Onze Minister een wetenschappelijk rapport uit, waarin de ontwikkeling van de kwaliteit van het milieu wordt beschreven over een door Onze Minister aan te geven periode van ten minste de eerstvolgende tien jaar. In ieder geval wordt die ontwikkeling beschreven, uitgaande van de voor die periode meest waarschijnlijke ontwikkeling van de omstandigheden die daarvoor van belang zijn. Tevens worden in het rapport beschrijvingen opgenomen, die telkens uitgaan van andere ontwikkelingen van die omstandigheden, die zich, naar redelijkerwijs kan worden verondersteld, in de betrokken periode zouden kunnen voordoen. Het rapport wordt uitgebracht ten minste 6 maanden en ten hoogste 12 maanden voordat Onze Ministers het eerstvolgende nationale milieubeleidsplan vaststellen. Om aan deze verplichting te kunnen voldoen in gevallen waarin de geldingsduur van een nationaal milieubeleidsplan met toepassing van [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.2&artikel=4.6&z=2009-09-10&g=2009-09-10), wordt verlengd, kan worden afgeweken van de in de eerste volzin gestelde termijn van vier jaar.
+1. Het RIVM brengt eenmaal in de vier jaar aan Onze Minister een wetenschappelijk rapport uit, waarin de ontwikkeling van de kwaliteit van het milieu wordt beschreven over een door Onze Minister aan te geven periode van ten minste de eerstvolgende tien jaar. In ieder geval wordt die ontwikkeling beschreven, uitgaande van de voor die periode meest waarschijnlijke ontwikkeling van de omstandigheden die daarvoor van belang zijn. Tevens worden in het rapport beschrijvingen opgenomen, die telkens uitgaan van andere ontwikkelingen van die omstandigheden, die zich, naar redelijkerwijs kan worden verondersteld, in de betrokken periode zouden kunnen voordoen. Het rapport wordt uitgebracht ten minste 6 maanden en ten hoogste 12 maanden voordat Onze Ministers het eerstvolgende nationale milieubeleidsplan vaststellen. Om aan deze verplichting te kunnen voldoen in gevallen waarin de geldingsduur van een nationaal milieubeleidsplan met toepassing van [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.2&artikel=4.6&z=2009-11-04&g=2009-11-04), wordt verlengd, kan worden afgeweken van de in de eerste volzin gestelde termijn van vier jaar.
 
 2. Het RIVM brengt jaarlijks aan Onze Minister een wetenschappelijk rapport uit, waarin de ontwikkeling van de kwaliteit van het milieu wordt beschreven, die het resultaat is van de uitvoering van de beleidsmaatregelen die van invloed zijn op die kwaliteit en die in het jaar waarop het rapport betrekking heeft, van kracht waren. Daarbij wordt in ieder geval aangegeven in hoeverre die maatregelen hebben bijgedragen aan de verwezenlijking van de resultaten, waarvan in het geldende nationale milieubeleidsplan is aangegeven dat zij voor het betrokken jaar zijn beoogd. Tevens wordt aangegeven hoe de beschreven ontwikkeling van de kwaliteit van het milieu zich verhoudt tot de ontwikkeling daarvan die is beschreven in de overeenkomstige eerder uitgebrachte rapporten. Indien zich onvoorzien een omstandigheid voordoet die belangrijke gevolgen kan hebben voor de ontwikkeling van de kwaliteit van het milieu op langere termijn, en Onze Minister daarom verzoekt, neemt het RIVM in een rapport tevens een beschrijving op van die ontwikkeling die daarvan het resultaat kan zijn.
 
@@ -571,11 +573,11 @@ In dit hoofdstuk wordt onder Onze Ministers verstaan: Onze Minister, te zamen me
 
 ##### Artikel 4.2a
 
-1. Onze Minister kan aanwijzingen geven omtrent veronderstelde ontwikkelingen die in ieder geval als grondslag voor beschrijvingen als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2009-09-10&g=2009-09-10), moeten worden aangenomen. Hij kan tevens aanwijzingen geven omtrent onderwerpen die in ieder geval in een rapport, als bedoeld in dat artikellid, moeten worden beschreven.
+1. Onze Minister kan aanwijzingen geven omtrent veronderstelde ontwikkelingen die in ieder geval als grondslag voor beschrijvingen als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2009-11-04&g=2009-11-04), moeten worden aangenomen. Hij kan tevens aanwijzingen geven omtrent onderwerpen die in ieder geval in een rapport, als bedoeld in dat artikellid, moeten worden beschreven.
 
-2. Behoudens het in het [artikel 4.2, tweede lid, vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2009-09-10&g=2009-09-10), en in het eerste lid van dit artikel bepaalde, geven Onze betrokken Ministers het RIVM en de krachtens [artikel 4.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2009-09-10&g=2009-09-10), aangewezen instellingen geen aanwijzingen met betrekking tot de inhoud van de rapporten.
+2. Behoudens het in het [artikel 4.2, tweede lid, vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2009-11-04&g=2009-11-04), en in het eerste lid van dit artikel bepaalde, geven Onze betrokken Ministers het RIVM en de krachtens [artikel 4.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2009-11-04&g=2009-11-04), aangewezen instellingen geen aanwijzingen met betrekking tot de inhoud van de rapporten.
 
-3. Onze Minister zendt de rapporten aan de Staten-Generaal; een rapport als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2009-09-10&g=2009-09-10), voor of gelijktijdig met het eerstvolgende nationale milieubeleidsplan; een rapport als bedoeld in [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2009-09-10&g=2009-09-10), voor of gelijktijdig met het eerstvolgende nationale milieuprogramma. Het RIVM draagt ervoor zorg dat de rapporten algemeen verkrijgbaar worden gesteld.
+3. Onze Minister zendt de rapporten aan de Staten-Generaal; een rapport als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2009-11-04&g=2009-11-04), voor of gelijktijdig met het eerstvolgende nationale milieubeleidsplan; een rapport als bedoeld in [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2009-11-04&g=2009-11-04), voor of gelijktijdig met het eerstvolgende nationale milieuprogramma. Het RIVM draagt ervoor zorg dat de rapporten algemeen verkrijgbaar worden gesteld.
 
 ##### Artikel 4.2b
 
@@ -617,11 +619,11 @@ Ten behoeve van het opstellen van milieubeleidsplannen en van milieuprogramma’
 
 ##### Artikel 4.6
 
-1. Het nationale milieubeleidsplan geldt met ingang van een bij besluit van Onze Ministers vast te stellen tijdstip. Een besluit als bedoeld in de eerste volzin, wordt niet eerder genomen dan acht weken nadat het plan ingevolge [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.2&artikel=4.5&z=2009-09-10&g=2009-09-10), is overgelegd aan de Staten-Generaal. Indien door of namens een der kamers der Staten-Generaal binnen acht weken nadat het plan is overgelegd, te kennen wordt gegeven dat zij over het plan in het openbaar wil beraadslagen, wordt een besluit als bedoeld in de eerste volzin, niet eerder genomen dan zes maanden na de overlegging van het plan, dan wel, indien de beraadslagingen op een eerder tijdstip zijn beëindigd, na die beraadslagingen. Onze Ministers stellen de Staten-Generaal schriftelijk op de hoogte van de gevolgtrekkingen die zij aan de beraadslagingen verbinden voor het nationale milieubeleid en voor de uitvoering van het plan. Onze Minister maakt een besluit als bedoeld in de eerste volzin, bekend in de **Staatscourant** en vermeldt daarbij de gevolgtrekkingen die aan de Staten-Generaal zijn meegedeeld.
+1. Het nationale milieubeleidsplan geldt met ingang van een bij besluit van Onze Ministers vast te stellen tijdstip. Een besluit als bedoeld in de eerste volzin, wordt niet eerder genomen dan acht weken nadat het plan ingevolge [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.2&artikel=4.5&z=2009-11-04&g=2009-11-04), is overgelegd aan de Staten-Generaal. Indien door of namens een der kamers der Staten-Generaal binnen acht weken nadat het plan is overgelegd, te kennen wordt gegeven dat zij over het plan in het openbaar wil beraadslagen, wordt een besluit als bedoeld in de eerste volzin, niet eerder genomen dan zes maanden na de overlegging van het plan, dan wel, indien de beraadslagingen op een eerder tijdstip zijn beëindigd, na die beraadslagingen. Onze Ministers stellen de Staten-Generaal schriftelijk op de hoogte van de gevolgtrekkingen die zij aan de beraadslagingen verbinden voor het nationale milieubeleid en voor de uitvoering van het plan. Onze Minister maakt een besluit als bedoeld in de eerste volzin, bekend in de **Staatscourant** en vermeldt daarbij de gevolgtrekkingen die aan de Staten-Generaal zijn meegedeeld.
 
 2. Het plan geldt, behoudens ingeval eerder een nieuw plan is vastgesteld, voor een tijdvak van vier jaar. Onze Ministers kunnen de geldingsduur van het plan eenmaal met ten hoogste twee jaar verlengen. Onze Minister doet mededeling van een besluit als bedoeld in de tweede volzin, door overlegging van het besluit aan de Staten-Generaal en maakt het bekend in de **Staatscourant**.
 
-3. De organen van het Rijk houden in elk geval rekening met het geldende nationale milieubeleidsplan bij het nemen van een besluit dat daartoe is aangewezen in deze wet, en bij het nemen van een besluit krachtens een wet, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=1&z=2009-09-10&g=2009-09-10), voor zover daarbij het belang van de bescherming van het milieu in beschouwing moet of kan worden genomen.
+3. De organen van het Rijk houden in elk geval rekening met het geldende nationale milieubeleidsplan bij het nemen van een besluit dat daartoe is aangewezen in deze wet, en bij het nemen van een besluit krachtens een wet, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=1&z=2009-11-04&g=2009-11-04), voor zover daarbij het belang van de bescherming van het milieu in beschouwing moet of kan worden genomen.
 
 4. Het derde lid is niet van toepassing op besluiten:
 
@@ -641,7 +643,7 @@ Ten behoeve van het opstellen van milieubeleidsplannen en van milieuprogramma’
 
 - a. een programma van van rijkswege in de eerstvolgende vier jaar te verrichten activiteiten ter bescherming van het milieu;
 
-- b. een programma voor de vaststelling en herziening van milieukwaliteitseisen krachtens [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10), onder aanduiding van de daarbij beoogde resultaten;
+- b. een programma voor de vaststelling en herziening van milieukwaliteitseisen krachtens [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04), onder aanduiding van de daarbij beoogde resultaten;
 
 - c. een overzicht van de in de onderscheidene begrotingshoofdstukken opgenomen begrotingsposten op het gebied van het milieubeheer, alsmede een aanduiding van de financiële gevolgen van de onder a bedoelde activiteiten voor het Rijk voor de volgende jaren;
 
@@ -667,7 +669,7 @@ Ten behoeve van het opstellen van milieubeleidsplannen en van milieuprogramma’
 
 3. Tot deze hoofdzaken behoren ten minste:
 
-- a. de in de betrokken periode van acht jaar en, voor zover deze redelijkerwijze zijn aan te geven, de in de eerstvolgende vier jaar beoogde resultaten inzake de kwaliteit van de onderscheidene onderdelen van het milieu, mede gelet op de krachtens of overeenkomstig [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10), vastgestelde grenswaarden en richtwaarden en de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) opgenomen luchtkwaliteitseisen;
+- a. de in de betrokken periode van acht jaar en, voor zover deze redelijkerwijze zijn aan te geven, de in de eerstvolgende vier jaar beoogde resultaten inzake de kwaliteit van de onderscheidene onderdelen van het milieu, mede gelet op de krachtens of overeenkomstig [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04), vastgestelde grenswaarden en richtwaarden en de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) opgenomen luchtkwaliteitseisen;
 
 - b. de in de betrokken periode van acht jaar en, voor zover deze redelijkerwijze zijn aan te geven, de in de eerstvolgende vier jaar beoogde resultaten inzake het voorkomen, beperken of ongedaan maken van gevolgen van menselijke activiteiten die het milieu verontreinigen, aantasten of uitputten;
 
@@ -711,11 +713,11 @@ behoudens voor zover bij die aanwijzing anders is bepaald.
 
 ##### Artikel 4.12
 
-1. Het provinciale milieubeleidsplan geldt, behoudens ingeval eerder een nieuw plan is vastgesteld, voor een tijdvak van vier jaar nadat de vaststelling ervan overeenkomstig [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.11&z=2009-09-10&g=2009-09-10), is bekendgemaakt.
+1. Het provinciale milieubeleidsplan geldt, behoudens ingeval eerder een nieuw plan is vastgesteld, voor een tijdvak van vier jaar nadat de vaststelling ervan overeenkomstig [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.11&z=2009-11-04&g=2009-11-04), is bekendgemaakt.
 
 2. Provinciale staten kunnen de geldingsduur van het plan eenmaal met ten hoogste twee jaar verlengen. Gedeputeerde staten doen mededeling van een besluit als bedoeld in de eerste volzin, door toezending daarvan aan Onze Minister en aan de bestuursorganen waaraan provinciale bevoegdheden zijn gedelegeerd bij de uitoefening waarvan met het plan rekening moet worden gehouden. Zij maken het bekend in de **Staatscourant**.
 
-3. Provinciale staten en gedeputeerde staten houden in elk geval rekening met het geldende provinciale milieubeleidsplan bij het nemen van een besluit dat daartoe is aangewezen in deze wet, en bij het nemen van een besluit krachtens een wet, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=1&z=2009-09-10&g=2009-09-10), voor zover daarbij het belang van de bescherming van het milieu in beschouwing moet of kan worden genomen.
+3. Provinciale staten en gedeputeerde staten houden in elk geval rekening met het geldende provinciale milieubeleidsplan bij het nemen van een besluit dat daartoe is aangewezen in deze wet, en bij het nemen van een besluit krachtens een wet, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=1&z=2009-11-04&g=2009-11-04), voor zover daarbij het belang van de bescherming van het milieu in beschouwing moet of kan worden genomen.
 
 4. Het derde lid is niet van toepassing op besluiten:
 
@@ -759,11 +761,11 @@ behoudens voor zover bij die aanwijzing anders is bepaald.
 
 ##### Artikel 4.15
 
-1. [Artikel 4.10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.10&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+1. [Artikel 4.10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.10&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 2. Gedeputeerde staten maken het programma bekend door het bij het ontwerp van de begroting over te leggen aan provinciale staten. Zij doen gelijktijdig mededeling van het programma door toezending aan Onze Minister.
 
-3. [Artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.11&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+3. [Artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.11&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 #### § 4.5a. Het regionale milieubeleidsplan
 
@@ -771,7 +773,7 @@ behoudens voor zover bij die aanwijzing anders is bepaald.
 
 1. Het algemeen bestuur van een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, kan een regionaal milieubeleidsplan vaststellen, dat met het oog op de bescherming van het milieu richting geeft aan beslissingen tot het nemen waarvan de bevoegdheid bij of krachtens de wet aan een orgaan van dat lichaam is toegekend.
 
-2. [De artikelen 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.13&z=2009-09-10&g=2009-09-10), [4.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.16&z=2009-09-10&g=2009-09-10), [4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.17&z=2009-09-10&g=2009-09-10), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.18&z=2009-09-10&g=2009-09-10) en [4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.19&z=2009-09-10&g=2009-09-10) zijn van overeenkomstige toepassing, met dien verstande dat naast de in [artikel 4.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.17&z=2009-09-10&g=2009-09-10), genoemde bestuursorganen ook burgemeester en wethouders van de in de plusregio gelegen gemeenten bij de voorbereiding van het plan worden betrokken.
+2. [De artikelen 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.13&z=2009-11-04&g=2009-11-04), [4.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.16&z=2009-11-04&g=2009-11-04), [4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.17&z=2009-11-04&g=2009-11-04), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.18&z=2009-11-04&g=2009-11-04) en [4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.19&z=2009-11-04&g=2009-11-04) zijn van overeenkomstige toepassing, met dien verstande dat naast de in [artikel 4.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.17&z=2009-11-04&g=2009-11-04), genoemde bestuursorganen ook burgemeester en wethouders van de in de plusregio gelegen gemeenten bij de voorbereiding van het plan worden betrokken.
 
 #### § 4.5a. Het regionale milieubeleidsplan
 
@@ -779,7 +781,7 @@ behoudens voor zover bij die aanwijzing anders is bepaald.
 
 1. Het dagelijks bestuur van een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, stelt jaarlijks een milieuprogramma vast.
 
-2. [De artikelen 4.20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.7&artikel=4.20&z=2009-09-10&g=2009-09-10), en [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.7&artikel=4.21&z=2009-09-10&g=2009-09-10) zijn van overeenkomstige toepassing, met dien verstande dat het programma naast de in [artikel 4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.7&artikel=4.20&z=2009-09-10&g=2009-09-10), genoemde onderdelen ook een verslag van de voortgang van de uitvoering van het geldende regionale milieubeleidsplan bevat.
+2. [De artikelen 4.20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.7&artikel=4.20&z=2009-11-04&g=2009-11-04), en [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.7&artikel=4.21&z=2009-11-04&g=2009-11-04) zijn van overeenkomstige toepassing, met dien verstande dat het programma naast de in [artikel 4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.7&artikel=4.20&z=2009-11-04&g=2009-11-04), genoemde onderdelen ook een verslag van de voortgang van de uitvoering van het geldende regionale milieubeleidsplan bevat.
 
 #### § 4.5a. Het regionale milieubeleidsplan
 
@@ -815,7 +817,7 @@ behoudens voor zover bij die aanwijzing anders is bepaald.
 
 2. De gemeenteraad kan de geldingsduur eenmaal met ten hoogste twee jaar verlengen. Artikel 4.18, tweede lid, is van overeenkomstige toepassing.
 
-3. Indien in de gemeente een gemeentelijk milieubeleidsplan geldt, houdt de gemeenteraad onderscheidenlijk houden burgemeester en wethouders in elk geval rekening met dat plan bij het nemen van een besluit dat daartoe is aangewezen in deze wet, en bij het nemen van een besluit krachtens een wet, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=1&z=2009-09-10&g=2009-09-10), voor zover daarbij het belang van de bescherming van het milieu in beschouwing moet of kan worden genomen.
+3. Indien in de gemeente een gemeentelijk milieubeleidsplan geldt, houdt de gemeenteraad onderscheidenlijk houden burgemeester en wethouders in elk geval rekening met dat plan bij het nemen van een besluit dat daartoe is aangewezen in deze wet, en bij het nemen van een besluit krachtens een wet, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=1&z=2009-11-04&g=2009-11-04), voor zover daarbij het belang van de bescherming van het milieu in beschouwing moet of kan worden genomen.
 
 4. Het derde lid is niet van toepassing op besluiten krachtens een bevoegdheid van een ander openbaar lichaam, die aan de gemeenteraad of burgemeester en wethouders is gedelegeerd.
 
@@ -839,7 +841,7 @@ behoudens voor zover bij die aanwijzing anders is bepaald.
 
 1. Het gemeentelijke milieuprogramma wordt voorbereid door burgemeester en wethouders. Burgemeester en wethouders leggen het ontwerp van het programma bij het ontwerp van de begroting voor aan de gemeenteraad.
 
-2. [Artikel 4.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.17&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+2. [Artikel 4.17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.17&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 3. Zodra het gemeentelijke milieuprogramma is vastgesteld, doen burgemeester en wethouders hiervan mededeling door toezending van het programma aan gedeputeerde staten en aan de inspecteur.
 
@@ -853,7 +855,7 @@ behoudens voor zover bij die aanwijzing anders is bepaald.
 
 2. Het plan bevat ten minste:
 
-- a. een overzicht van de in de gemeente aanwezige voorzieningen voor de inzameling en het transport van stedelijk afvalwater als bedoeld in [artikel 10.33](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.33&z=2009-09-10&g=2009-09-10), alsmede de inzameling en verdere verwerking van afvloeiend hemelwater als bedoeld in [artikel 9a van de Wet op de waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575&artikel=9a), en maatregelen teneinde structureel nadelige gevolgen van de grondwaterstand voor de aan de grond gegeven bestemming zoveel mogelijk te voorkomen of te beperken, als bedoeld in [artikel 9b van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004575&artikel=9b) en een aanduiding van het tijdstip waarop die voorzieningen naar verwachting aan vervanging toe zijn;
+- a. een overzicht van de in de gemeente aanwezige voorzieningen voor de inzameling en het transport van stedelijk afvalwater als bedoeld in [artikel 10.33](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.33&z=2009-11-04&g=2009-11-04), alsmede de inzameling en verdere verwerking van afvloeiend hemelwater als bedoeld in [artikel 9a van de Wet op de waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575&artikel=9a), en maatregelen teneinde structureel nadelige gevolgen van de grondwaterstand voor de aan de grond gegeven bestemming zoveel mogelijk te voorkomen of te beperken, als bedoeld in [artikel 9b van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004575&artikel=9b) en een aanduiding van het tijdstip waarop die voorzieningen naar verwachting aan vervanging toe zijn;
 
 - b. een overzicht van de in de door het plan bestreken periode aan te leggen of te vervangen voorzieningen als bedoeld onder a ;
 
@@ -865,7 +867,7 @@ behoudens voor zover bij die aanwijzing anders is bepaald.
 
 3. Indien in de gemeente een gemeentelijk milieubeleidsplan geldt, houdt de gemeenteraad met dat plan rekening bij de vaststelling van een gemeentelijk rioleringsplan.
 
-4. Onze Minister kan, in overeenstemming met Onze Minister van Verkeer en Waterstaat, aan gemeenten de plicht opleggen tot prestatievergelijking ten aanzien van de uitvoering van de taak, bedoeld in [artikel 10.33](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.33&z=2009-09-10&g=2009-09-10), alsmede de taken, bedoeld in de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004575&artikel=9a) en [9b van de Wet op de waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575&artikel=9b). Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de frequentie, inhoud en omvang van de prestatievergelijking.
+4. Onze Minister kan, in overeenstemming met Onze Minister van Verkeer en Waterstaat, aan gemeenten de plicht opleggen tot prestatievergelijking ten aanzien van de uitvoering van de taak, bedoeld in [artikel 10.33](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.33&z=2009-11-04&g=2009-11-04), alsmede de taken, bedoeld in de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004575&artikel=9a) en [9b van de Wet op de waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575&artikel=9b). Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de frequentie, inhoud en omvang van de prestatievergelijking.
 
 ##### Artikel 4.23
 
@@ -915,11 +917,11 @@ voor zover deze voor de vaststelling van de milieukwaliteitseis van belang zijn.
 
 ##### Artikel 5.2
 
-1. Bij een maatregel als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10), worden de bevoegdheden aangewezen bij de uitoefening waarvan de bij de maatregel gestelde grenswaarden in acht moeten worden genomen, of met de bij de maatregel gestelde richtwaarden rekening moet worden gehouden. Bij de maatregel kunnen voorts regels worden gesteld met betrekking tot de wijze waarop aan de daarin opgenomen verplichtingen uitvoering moet worden gegeven.
+1. Bij een maatregel als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04), worden de bevoegdheden aangewezen bij de uitoefening waarvan de bij de maatregel gestelde grenswaarden in acht moeten worden genomen, of met de bij de maatregel gestelde richtwaarden rekening moet worden gehouden. Bij de maatregel kunnen voorts regels worden gesteld met betrekking tot de wijze waarop aan de daarin opgenomen verplichtingen uitvoering moet worden gegeven.
 
 2. Het eerste lid vindt slechts toepassing voor zover de wettelijke regeling waarop een bevoegdheid als bedoeld in dat lid berust, zich daartegen niet verzet.
 
-3. Indien in een gebied waarvoor een milieukwaliteitseis geldt, voor het betrokken onderdeel van het milieu de kwaliteit beter is dan de eis aangeeft, treedt die kwaliteit voor de toepassing van de krachtens het eerste lid aangewezen bevoegdheden voor dit gebied in de plaats van de in de eis aangegeven kwaliteit. In een maatregel als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10), kan worden bepaald dat [de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.2&z=2009-09-10&g=2009-09-10) ten aanzien van de daarbij gestelde milieukwaliteitseis niet van toepassing is.
+3. Indien in een gebied waarvoor een milieukwaliteitseis geldt, voor het betrokken onderdeel van het milieu de kwaliteit beter is dan de eis aangeeft, treedt die kwaliteit voor de toepassing van de krachtens het eerste lid aangewezen bevoegdheden voor dit gebied in de plaats van de in de eis aangegeven kwaliteit. In een maatregel als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04), kan worden bepaald dat [de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.2&z=2009-11-04&g=2009-11-04) ten aanzien van de daarbij gestelde milieukwaliteitseis niet van toepassing is.
 
 4. Indien bij de uitoefening van een bevoegdheid ten aanzien waarvan krachtens het eerste lid is bepaald dat daarbij rekening moet worden gehouden met een richtwaarde, van die waarde wordt afgeweken, vermeldt de motivering van het desbetreffende besluit in ieder geval welke gewichtige redenen daartoe hebben geleid.
 
@@ -943,13 +945,13 @@ Vervallen
 
 ##### Artikel 5.4
 
-Indien ter uitvoering van deze titel een ministeriële regeling als bedoeld in [artikel 21.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=21&artikel=21.6&z=2009-09-10&g=2009-09-10), wordt vastgesteld, zijn daarop de [artikelen 5.1, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.2&z=2009-09-10&g=2009-09-10) en [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.3&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+Indien ter uitvoering van deze titel een ministeriële regeling als bedoeld in [artikel 21.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=21&artikel=21.6&z=2009-11-04&g=2009-11-04), wordt vastgesteld, zijn daarop de [artikelen 5.1, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.2&z=2009-11-04&g=2009-11-04) en [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.3&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
 ##### Artikel 5.5
 
-1. Provinciale staten kunnen in de provinciale milieuverordening milieukwaliteitseisen stellen als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10). De artikelen 5.1, derde, vierde en vijfde lid, 5.2 en 5.3 zijn van overeenkomstige toepassing op de vaststelling van milieukwaliteitseisen als bedoeld in [de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.5&z=2009-09-10&g=2009-09-10), met dien verstande, dat overeenkomstig [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.2&z=2009-09-10&g=2009-09-10), geen bevoegdheden van organen van het Rijk worden aangewezen.
+1. Provinciale staten kunnen in de provinciale milieuverordening milieukwaliteitseisen stellen als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04). De artikelen 5.1, derde, vierde en vijfde lid, 5.2 en 5.3 zijn van overeenkomstige toepassing op de vaststelling van milieukwaliteitseisen als bedoeld in [de eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.5&z=2009-11-04&g=2009-11-04), met dien verstande, dat overeenkomstig [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.2&z=2009-11-04&g=2009-11-04), geen bevoegdheden van organen van het Rijk worden aangewezen.
 
-2. Bij een algemene maatregel van bestuur als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10), of bij een ministeriële regeling als bedoeld in [artikel 21.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=21&artikel=21.6&z=2009-09-10&g=2009-09-10), kan de bevoegdheid, bedoeld in het eerste lid, met betrekking tot een onderwerp ten aanzien waarvan in die maatregel of in die regeling een milieukwaliteitseis is vastgesteld, voor zover dat in het algemeen belang geboden is, worden beperkt.
+2. Bij een algemene maatregel van bestuur als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04), of bij een ministeriële regeling als bedoeld in [artikel 21.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=21&artikel=21.6&z=2009-11-04&g=2009-11-04), kan de bevoegdheid, bedoeld in het eerste lid, met betrekking tot een onderwerp ten aanzien waarvan in die maatregel of in die regeling een milieukwaliteitseis is vastgesteld, voor zover dat in het algemeen belang geboden is, worden beperkt.
 
 ### Hoofdstuk 6. Milieuzonering
 
@@ -969,19 +971,19 @@ Onze Ministers: Onze Minister, Onze Minister van Landbouw, Natuur en Voedselkwal
 
 de commissie: de Commissie voor de milieu-effectrapportage.
 
-2. Tenzij anders is bepaald, wordt vanaf [paragraaf 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&z=2009-09-10&g=2009-09-10) in dit hoofdstuk verstaan onder:
+2. Tenzij anders is bepaald, wordt vanaf [paragraaf 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&z=2009-11-04&g=2009-11-04) in dit hoofdstuk verstaan onder:
 
 - a. activiteit:
 
-- 1°. activiteit die is aangewezen krachtens [artikel 7.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), krachtens [artikel 7.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), en waarop [artikel 7.8c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8c&z=2009-09-10&g=2009-09-10) van toepassing is, of krachtens [artikel 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-09-10&g=2009-09-10);
+- 1°. activiteit die is aangewezen krachtens [artikel 7.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), krachtens [artikel 7.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), en waarop [artikel 7.8c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8c&z=2009-11-04&g=2009-11-04) van toepassing is, of krachtens [artikel 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-11-04&g=2009-11-04);
 
-- 2°. activiteit als bedoeld in [artikel 7.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-09-10&g=2009-09-10);
+- 2°. activiteit als bedoeld in [artikel 7.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-11-04&g=2009-11-04);
 
-- b. plan: plan bij de voorbereiding waarvan krachtens de [artikelen 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), [7.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-09-10&g=2009-09-10), of [7.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-09-10&g=2009-09-10), een milieu-effectrapport moet worden gemaakt;
+- b. plan: plan bij de voorbereiding waarvan krachtens de [artikelen 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), [7.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-11-04&g=2009-11-04), of [7.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-11-04&g=2009-11-04), een milieu-effectrapport moet worden gemaakt;
 
-- c. besluit: besluit bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt krachtens [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), krachtens [artikel 7.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), in samenhang met [artikel 7.8c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8c&z=2009-09-10&g=2009-09-10), of krachtens [artikel 7.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-09-10&g=2009-09-10);
+- c. besluit: besluit bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt krachtens [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), krachtens [artikel 7.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), in samenhang met [artikel 7.8c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8c&z=2009-11-04&g=2009-11-04), of krachtens [artikel 7.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-11-04&g=2009-11-04);
 
-- d. ecologische hoofdstructuur: het samenstel van de gebieden en de verbindingen tussen die gebieden, dat krachtens de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449) door het provinciaal bestuur als zodanig is aangewezen en begrensd, alsmede de grote wateren en de Noordzee, overeenkomstig kaart 5 van de Nota Ruimte, deel 3A (Kamerstukken II 2004/05, 29 435, nr. 154), voorzover die niet behoren tot een gebied als bedoeld in [artikel 7.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-09-10&g=2009-09-10).
+- d. ecologische hoofdstructuur: het samenstel van de gebieden en de verbindingen tussen die gebieden, dat krachtens de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449) door het provinciaal bestuur als zodanig is aangewezen en begrensd, alsmede de grote wateren en de Noordzee, overeenkomstig kaart 5 van de Nota Ruimte, deel 3A (Kamerstukken II 2004/05, 29 435, nr. 154), voorzover die niet behoren tot een gebied als bedoeld in [artikel 7.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-11-04&g=2009-11-04).
 
 3. Het tweede lid, onder a, onder 2°, geldt niet indien een bepaling uitsluitend betrekking heeft op een besluit als bedoeld in dat lid, onder c.
 
@@ -995,7 +997,7 @@ de commissie: de Commissie voor de milieu-effectrapportage.
 
 - 1º. een door Onze Minister van Landbouw, Natuur en Voedselkwaliteit aangewezen bestuursorgaan en een door Onze Minister van Onderwijs, Cultuur en Wetenschap aangewezen bestuursorgaan, en
 
-- 2º. de inspecteur, voor zover het betreft het oprichten, wijzigen of uitbreiden van een inrichting die behoort tot een krachtens [artikel 8.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-09-10&g=2009-09-10), aangewezen categorie.
+- 2º. de inspecteur, voor zover het betreft het oprichten, wijzigen of uitbreiden van een inrichting die behoort tot een krachtens [artikel 8.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-11-04&g=2009-11-04), aangewezen categorie.
 
 6. Bij algemene maatregel van bestuur kan met betrekking tot een daarbij aangewezen activiteit of plan, dan wel besluit worden bepaald wie, onderscheidenlijk welk orgaan voor de toepassing van dit hoofdstuk wordt aangemerkt als degene die de activiteit onderneemt, onderscheidenlijk als bevoegd gezag. Daarbij kunnen voor de verschillende artikelen of onderdelen daarvan verschillende personen of organen worden aangewezen.
 
@@ -1017,7 +1019,7 @@ de commissie: de Commissie voor de milieu-effectrapportage.
 
 3. Terzake van de activiteiten, bedoeld in het eerste lid, onder a, worden de categorieën van besluiten aangewezen bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt.
 
-4. Terzake van de activiteiten, bedoeld in het eerste lid, onder b, worden de categorieën van besluiten aangewezen in het kader waarvan het bevoegd gezag krachtens de [artikelen 7.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8b&z=2009-09-10&g=2009-09-10) of [7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8d&z=2009-09-10&g=2009-09-10) moet beoordelen of die activiteiten de in dat onderdeel bedoelde gevolgen hebben, en indien dat het geval is, bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt.
+4. Terzake van de activiteiten, bedoeld in het eerste lid, onder b, worden de categorieën van besluiten aangewezen in het kader waarvan het bevoegd gezag krachtens de [artikelen 7.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8b&z=2009-11-04&g=2009-11-04) of [7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8d&z=2009-11-04&g=2009-11-04) moet beoordelen of die activiteiten de in dat onderdeel bedoelde gevolgen hebben, en indien dat het geval is, bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt.
 
 5. Bij de maatregel kan een plan worden aangemerkt als een besluit als bedoeld in het derde of vierde lid, mits dat plan voor de desbetreffende activiteit niet is aangewezen op grond van het tweede lid.
 
@@ -1029,7 +1031,7 @@ de commissie: de Commissie voor de milieu-effectrapportage.
 
 ##### Artikel 7.3
 
-1. Bij de maatregel, bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), worden geen plannen aangewezen die:
+1. Bij de maatregel, bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), worden geen plannen aangewezen die:
 
 - a. uitsluitend betrekking hebben op de landsverdediging of op een noodsituatie als bedoeld in de Coördinatiewet uitzonderingstoestanden;
 
@@ -1041,21 +1043,21 @@ de commissie: de Commissie voor de milieu-effectrapportage.
 
 - 2°. [verordening (EG) nr. 1257/1999](31999R1257) van de Raad van de Europese Unie van 17 mei 1999 inzake steun voor plattelandsontwikkeling uit het Europees Oriëntatie- en Garantiefonds voor de Landbouw (EOGFL) en tot wijziging en instelling van een aantal verordeningen (PbEG L 160).
 
-2. [Artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-09-10&g=2009-09-10) is niet van toepassing met betrekking tot plannen als bedoeld in het eerste lid.
+2. [Artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-11-04&g=2009-11-04) is niet van toepassing met betrekking tot plannen als bedoeld in het eerste lid.
 
 ##### Artikel 7.4
 
-1. Indien Onze Minister van Landbouw, Natuur en Voedselkwaliteit of een van Onze andere Ministers voornemens is een activiteit te ondernemen, die niet is opgenomen in een algemene maatregel van bestuur krachtens [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10) en die belangrijke nadelige gevolgen kan hebben voor het milieu, deelt hij dat voornemen onverwijld mede aan Onze Minister.
+1. Indien Onze Minister van Landbouw, Natuur en Voedselkwaliteit of een van Onze andere Ministers voornemens is een activiteit te ondernemen, die niet is opgenomen in een algemene maatregel van bestuur krachtens [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04) en die belangrijke nadelige gevolgen kan hebben voor het milieu, deelt hij dat voornemen onverwijld mede aan Onze Minister.
 
 2. Jaarlijks doen Onze Ministers en Onze andere Ministers in de memorie van toelichting op het desbetreffende hoofdstuk van de Rijksbegroting ieder voor hun ministerie verslag van de toepassing van het eerste lid.
 
 ##### Artikel 7.5
 
-1. Onze Ministers te zamen kunnen ontheffing verlenen van de verplichting tot het maken van een milieu-effectrapport bij de voorbereiding van een krachtens [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), aangewezen besluit in gevallen waarin:
+1. Onze Ministers te zamen kunnen ontheffing verlenen van de verplichting tot het maken van een milieu-effectrapport bij de voorbereiding van een krachtens [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), aangewezen besluit in gevallen waarin:
 
 - a. degene die de activiteit waarop die besluiten betrekking hebben, onderneemt, daarmee een activiteit ten aanzien waarvan reeds eerder een milieu-effectrapport is gemaakt, herhaalt of voortzet, indien het milieu-effectrapport redelijkerwijs geen nieuwe gegevens betreffende mogelijke nadelige gevolgen van de te ondernemen activiteit voor het milieu kan bevatten en de activiteit geen belangrijke nadelige gevolgen kan hebben voor het milieu in een ander land;
 
-- b. met betrekking tot dezelfde activiteit reeds eerder een milieu-effectrapport overeenkomstig het bij of krachtens de [paragrafen 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&z=2009-09-10&g=2009-09-10), [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&z=2009-09-10&g=2009-09-10), en [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&z=2009-09-10&g=2009-09-10) bepaalde is gemaakt, indien het milieu-effectrapport redelijkerwijs geen nieuwe gegevens betreffende mogelijke nadelige gevolgen van die activiteit voor het milieu kan bevatten en de activiteit geen belangrijke nadelige gevolgen kan hebben voor het milieu in een ander land;
+- b. met betrekking tot dezelfde activiteit reeds eerder een milieu-effectrapport overeenkomstig het bij of krachtens de [paragrafen 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&z=2009-11-04&g=2009-11-04), [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&z=2009-11-04&g=2009-11-04), en [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&z=2009-11-04&g=2009-11-04) bepaalde is gemaakt, indien het milieu-effectrapport redelijkerwijs geen nieuwe gegevens betreffende mogelijke nadelige gevolgen van die activiteit voor het milieu kan bevatten en de activiteit geen belangrijke nadelige gevolgen kan hebben voor het milieu in een ander land;
 
 - c. het algemeen belang het onverwijld ondernemen van de activiteit waarop die besluiten betrekking hebben, noodzakelijk maakt.
 
@@ -1077,13 +1079,13 @@ de commissie: de Commissie voor de milieu-effectrapportage.
 
 ##### Artikel 7.6
 
-1. Provinciale staten kunnen met het oog op de bescherming van het milieu in binnen hun provincie gelegen gebieden, niet zijnde gebieden als bedoeld in [artikel 7.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-09-10&g=2009-09-10), die van bijzondere betekenis zijn of waarin het milieu reeds in ernstige mate is verontreinigd of aangetast in de provinciale milieuverordening activiteiten aanwijzen, die niet zijn opgenomen in een algemene maatregel van bestuur krachtens [artikel 7.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), en die belangrijke nadelige gevolgen kunnen hebben voor het milieu in die gebieden. [Artikel 7.2, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+1. Provinciale staten kunnen met het oog op de bescherming van het milieu in binnen hun provincie gelegen gebieden, niet zijnde gebieden als bedoeld in [artikel 7.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-11-04&g=2009-11-04), die van bijzondere betekenis zijn of waarin het milieu reeds in ernstige mate is verontreinigd of aangetast in de provinciale milieuverordening activiteiten aanwijzen, die niet zijn opgenomen in een algemene maatregel van bestuur krachtens [artikel 7.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), en die belangrijke nadelige gevolgen kunnen hebben voor het milieu in die gebieden. [Artikel 7.2, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
-2. Terzake van die activiteiten kunnen zij de categorieën van plannen aanwijzen bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt indien die activiteiten binnen hun provincie worden uitgevoerd. De [artikelen 7.2, tweede lid, tweede en derde volzin, vijfde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), en [7.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.3&z=2009-09-10&g=2009-09-10), zijn van overeenkomstige toepassing.
+2. Terzake van die activiteiten kunnen zij de categorieën van plannen aanwijzen bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt indien die activiteiten binnen hun provincie worden uitgevoerd. De [artikelen 7.2, tweede lid, tweede en derde volzin, vijfde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), en [7.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.3&z=2009-11-04&g=2009-11-04), zijn van overeenkomstige toepassing.
 
-3. Terzake van die activiteiten wijzen zij de categorieën van besluiten aan bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt indien die activiteiten binnen hun provincie worden uitgevoerd. [Artikel 7.2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+3. Terzake van die activiteiten wijzen zij de categorieën van besluiten aan bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt indien die activiteiten binnen hun provincie worden uitgevoerd. [Artikel 7.2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
-4. Op de voorbereiding van een besluit, houdende een aanwijzing krachtens het eerste tot en met derde lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing; zienswijzen kunnen naar voren worden gebracht door een ieder. Gedeputeerde staten plegen over het ontwerp overleg met burgemeester en wethouders van de gemeenten en de besturen van de waterschappen in hun provincie. Zij stellen de in [artikel 7.1, vijfde lid, onder b, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2009-09-10&g=2009-09-10), bedoelde instantie, alsmede Onze Minister in de gelegenheid omtrent het ontwerp advies uit te brengen.
+4. Op de voorbereiding van een besluit, houdende een aanwijzing krachtens het eerste tot en met derde lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing; zienswijzen kunnen naar voren worden gebracht door een ieder. Gedeputeerde staten plegen over het ontwerp overleg met burgemeester en wethouders van de gemeenten en de besturen van de waterschappen in hun provincie. Zij stellen de in [artikel 7.1, vijfde lid, onder b, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2009-11-04&g=2009-11-04), bedoelde instantie, alsmede Onze Minister in de gelegenheid omtrent het ontwerp advies uit te brengen.
 
 5. Gedeputeerde staten leggen met het ontwerp van het besluit aan provinciale staten een verslag over van het gevoerde overleg, de uitgebrachte adviezen en de naar voren gebrachte zienswijzen, waarbij zij onder opgave van redenen aangeven in hoeverre daarmee rekening is gehouden.
 
@@ -1091,29 +1093,29 @@ de commissie: de Commissie voor de milieu-effectrapportage.
 
 ##### Artikel 7.7
 
-Bij algemene maatregel van bestuur kunnen regels worden gesteld over een aanwijzing als bedoeld in [artikel 7.6, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-09-10&g=2009-09-10).
+Bij algemene maatregel van bestuur kunnen regels worden gesteld over een aanwijzing als bedoeld in [artikel 7.6, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 7.8
 
-1. Gedeputeerde staten kunnen van de krachtens een aanwijzing als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-09-10&g=2009-09-10) geldende verplichting tot het maken van een milieu-effectrapport ontheffing verlenen in gevallen als bedoeld in [artikel 7.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-09-10&g=2009-09-10). [Artikel 7.5, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+1. Gedeputeerde staten kunnen van de krachtens een aanwijzing als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-11-04&g=2009-11-04) geldende verplichting tot het maken van een milieu-effectrapport ontheffing verlenen in gevallen als bedoeld in [artikel 7.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-11-04&g=2009-11-04). [Artikel 7.5, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
-2. Behoudens in een geval als bedoeld in [artikel 7.5, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-09-10&g=2009-09-10), stellen gedeputeerde staten, voordat zij een ontheffing verlenen, het bevoegd gezag, indien het verzoek daarvan niet afkomstig is, en de in [artikel 7.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2009-09-10&g=2009-09-10), bedoelde instanties met uitzondering van de inspecteur in de gelegenheid advies uit te brengen. [Artikel 7.5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+2. Behoudens in een geval als bedoeld in [artikel 7.5, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-11-04&g=2009-11-04), stellen gedeputeerde staten, voordat zij een ontheffing verlenen, het bevoegd gezag, indien het verzoek daarvan niet afkomstig is, en de in [artikel 7.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2009-11-04&g=2009-11-04), bedoelde instanties met uitzondering van de inspecteur in de gelegenheid advies uit te brengen. [Artikel 7.5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
-3. Bij een besluit, houdende een aanwijzing als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-09-10&g=2009-09-10) worden regelen gesteld omtrent de in [artikel 7.5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-09-10&g=2009-09-10), genoemde onderwerpen.
+3. Bij een besluit, houdende een aanwijzing als bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-11-04&g=2009-11-04) worden regelen gesteld omtrent de in [artikel 7.5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-11-04&g=2009-11-04), genoemde onderwerpen.
 
 #### § 7.3. Procedurevoorschriften bij het ondernemen van activiteiten, aangewezen krachtens artikel 7.4
 
 ##### Artikel 7.8a
 
-1. Indien degene die een activiteit wil ondernemen, aangewezen krachtens [artikel 7.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), voornemens is een verzoek in te dienen tot het nemen van een besluit als bedoeld in het vierde lid van dat artikel, deelt hij dat voornemen schriftelijk mee aan het bevoegd gezag.
+1. Indien degene die een activiteit wil ondernemen, aangewezen krachtens [artikel 7.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), voornemens is een verzoek in te dienen tot het nemen van een besluit als bedoeld in het vierde lid van dat artikel, deelt hij dat voornemen schriftelijk mee aan het bevoegd gezag.
 
-2. Bij de mededeling, bedoeld in het eerste lid, wordt in elk geval aandacht besteed aan de in [artikel 7.8**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8b&z=2009-09-10&g=2009-09-10), bedoelde bijzondere omstandigheden waaronder de activiteit wordt ondernomen.
+2. Bij de mededeling, bedoeld in het eerste lid, wordt in elk geval aandacht besteed aan de in [artikel 7.8**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8b&z=2009-11-04&g=2009-11-04), bedoelde bijzondere omstandigheden waaronder de activiteit wordt ondernomen.
 
 3. Bij een mededeling als bedoeld in het eerste lid kan degene die de activiteit wil ondernemen, verklaren dat hij bij de voorbereiding van het besluit een milieu-effectrapport maakt.
 
 ##### Artikel 7.8b
 
-1. Behoudens in het geval dat toepassing is gegeven aan [artikel 7.8**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8a&z=2009-09-10&g=2009-09-10), neemt het bevoegd gezag uiterlijk zes weken na de datum van ontvangst een beslissing omtrent de vraag of bij de voorbereiding van het betrokken besluit voor de activiteit, vanwege de belangrijke nadelige gevolgen die zij voor het milieu kan hebben, een milieu-effectrapport moet worden gemaakt.
+1. Behoudens in het geval dat toepassing is gegeven aan [artikel 7.8**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8a&z=2009-11-04&g=2009-11-04), neemt het bevoegd gezag uiterlijk zes weken na de datum van ontvangst een beslissing omtrent de vraag of bij de voorbereiding van het betrokken besluit voor de activiteit, vanwege de belangrijke nadelige gevolgen die zij voor het milieu kan hebben, een milieu-effectrapport moet worden gemaakt.
 
 2. Indien wenselijk, vindt, alvorens het bevoegd gezag een beslissing neemt, overleg plaats met degene die de mededeling heeft gedaan.
 
@@ -1137,15 +1139,15 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over een aanwijz
 
 ##### Artikel 7.8c
 
-Degene die een activiteit, aangewezen krachtens [artikel 7.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), wil ondernemen, is verplicht een milieu-effectrapport te maken indien:
+Degene die een activiteit, aangewezen krachtens [artikel 7.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), wil ondernemen, is verplicht een milieu-effectrapport te maken indien:
 
 - a. het bevoegd gezag heeft beslist dat bij de voorbereiding van het betrokken besluit een milieu-effectrapport moet worden gemaakt;
 
-- b. hij een verklaring heeft gedaan als bedoeld in [artikel 7.8a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8a&z=2009-09-10&g=2009-09-10).
+- b. hij een verklaring heeft gedaan als bedoeld in [artikel 7.8a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8a&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 7.8d
 
-1. Indien het bevoegd gezag degene is die een activiteit, aangewezen krachtens [artikel 7.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), wil ondernemen, neemt het in een zo vroeg mogelijk stadium voor de voorbereiding van het besluit dat krachtens het vierde lid van dat artikel is aangewezen een beslissing omtrent de vraag of vanwege de bijzondere omstandigheden waaronder de activiteit wordt ondernomen, een milieu-effectrapport moet worden gemaakt. [Artikel 7.8b, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8b&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+1. Indien het bevoegd gezag degene is die een activiteit, aangewezen krachtens [artikel 7.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), wil ondernemen, neemt het in een zo vroeg mogelijk stadium voor de voorbereiding van het besluit dat krachtens het vierde lid van dat artikel is aangewezen een beslissing omtrent de vraag of vanwege de bijzondere omstandigheden waaronder de activiteit wordt ondernomen, een milieu-effectrapport moet worden gemaakt. [Artikel 7.8b, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8b&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 2. Onder een zo vroeg mogelijk stadium wordt het volgende verstaan:
 
@@ -1171,7 +1173,7 @@ Degene die een activiteit, aangewezen krachtens [artikel 7.2, eerste lid, onder 
 
 ##### Artikel 7.8e
 
-De [artikelen 7.8a tot en met 7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.7&z=2009-09-10&g=2009-09-10) vinden geen toepassing ten aanzien van een activiteit, aangewezen in een algemene maatregel van bestuur krachtens [artikel 7.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), voor zover die activiteit bij een provinciale verordening krachtens [artikel 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-09-10&g=2009-09-10), overeenkomstig de omschrijving in die algemene maatregel van bestuur is aangewezen en het een besluit betreft dat ter zake van die activiteit bij die verordening overeenkomstig die maatregel is aangewezen.
+De [artikelen 7.8a tot en met 7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.7&z=2009-11-04&g=2009-11-04) vinden geen toepassing ten aanzien van een activiteit, aangewezen in een algemene maatregel van bestuur krachtens [artikel 7.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), voor zover die activiteit bij een provinciale verordening krachtens [artikel 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-11-04&g=2009-11-04), overeenkomstig de omschrijving in die algemene maatregel van bestuur is aangewezen en het een besluit betreft dat ter zake van die activiteit bij die verordening overeenkomstig die maatregel is aangewezen.
 
 #### § 7.4. Het milieu-effectrapport
 
@@ -1209,7 +1211,7 @@ De [artikelen 7.8a tot en met 7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003
 
 - h. een samenvatting die aan een algemeen publiek voldoende inzicht geeft voor de beoordeling van het milieu-effectrapport en van de daarin beschreven gevolgen voor het milieu van de voorgenomen activiteit en van de beschreven alternatieven.
 
-2. Het milieu-effectrapport is gesteld in de Nederlandse taal. Indien het rapport betrekking heeft op een besluit kan het bevoegd gezag aan degene die de activiteit onderneemt, bij het geven van de in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-09-10&g=2009-09-10) bedoelde richtlijnen toestemming verlenen het rapport in een daarbij aan te wijzen andere taal te stellen. De in het eerste lid, onder h, bedoelde samenvatting is steeds in de Nederlandse taal gesteld. Indien een activiteit belangrijke nadelige gevolgen kan hebben voor het milieu in een ander land, zendt degene die de activiteit onderneemt, op verzoek van het bevoegd gezag binnen een bij dat verzoek te bepalen termijn een vertaling van de samenvatting in de landstaal van het gebied in het andere land waar de activiteit belangrijke nadelige gevolgen kan hebben.
+2. Het milieu-effectrapport is gesteld in de Nederlandse taal. Indien het rapport betrekking heeft op een besluit kan het bevoegd gezag aan degene die de activiteit onderneemt, bij het geven van de in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-11-04&g=2009-11-04) bedoelde richtlijnen toestemming verlenen het rapport in een daarbij aan te wijzen andere taal te stellen. De in het eerste lid, onder h, bedoelde samenvatting is steeds in de Nederlandse taal gesteld. Indien een activiteit belangrijke nadelige gevolgen kan hebben voor het milieu in een ander land, zendt degene die de activiteit onderneemt, op verzoek van het bevoegd gezag binnen een bij dat verzoek te bepalen termijn een vertaling van de samenvatting in de landstaal van het gebied in het andere land waar de activiteit belangrijke nadelige gevolgen kan hebben.
 
 3. Indien het milieu-effectrapport betrekking heeft op een besluit behoort tot de ingevolge het eerste lid, onder **b**, te beschrijven alternatieven in ieder geval het alternatief waarbij de nadelige gevolgen voor het milieu worden voorkomen, dan wel, voor zover dat niet mogelijk is, deze met gebruikmaking van de beste bestaande mogelijkheden ter bescherming van het milieu, zoveel mogelijk worden beperkt.
 
@@ -1225,7 +1227,7 @@ De [artikelen 7.8a tot en met 7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003
 
 ##### Artikel 7.11
 
-1. Bij algemene maatregel van bestuur kunnen, indien het milieu-effectrapport betrekking heeft op een besluit, gegevens worden aangewezen, die een milieu-effectrapport in het belang van een goede besluitvorming, naast de in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-09-10&g=2009-09-10) bedoelde, moet bevatten. Daarbij kunnen regelen worden gesteld met betrekking tot de wijze waarop die gegevens worden bepaald en beschreven.
+1. Bij algemene maatregel van bestuur kunnen, indien het milieu-effectrapport betrekking heeft op een besluit, gegevens worden aangewezen, die een milieu-effectrapport in het belang van een goede besluitvorming, naast de in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-11-04&g=2009-11-04) bedoelde, moet bevatten. Daarbij kunnen regelen worden gesteld met betrekking tot de wijze waarop die gegevens worden bepaald en beschreven.
 
 2. Bij een maatregel krachtens het eerste lid kan worden bepaald dat een aanwijzing of regel slechts geldt in daarbij aangewezen categorieën van gevallen.
 
@@ -1235,7 +1237,7 @@ De [artikelen 7.8a tot en met 7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003
 
 ##### Artikel 7.12
 
-1. Indien degene die een activiteit wil ondernemen, aangewezen krachtens de [artikelen 7.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), of [7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-09-10&g=2009-09-10), voornemens is een verzoek in te dienen tot het nemen van een besluit, aangewezen krachtens het derde lid van die artikelen, deelt hij dat voornemen schriftelijk mee aan het bevoegd gezag.
+1. Indien degene die een activiteit wil ondernemen, aangewezen krachtens de [artikelen 7.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), of [7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-11-04&g=2009-11-04), voornemens is een verzoek in te dienen tot het nemen van een besluit, aangewezen krachtens het derde lid van die artikelen, deelt hij dat voornemen schriftelijk mee aan het bevoegd gezag.
 
 2. Het bevoegd gezag tekent de datum van ontvangst van de mededeling aan op het geschrift waarbij zij is gedaan, en zendt degene die haar heeft gedaan, onverwijld een bewijs van ontvangst, waarin die datum is vermeld.
 
@@ -1243,7 +1245,7 @@ De [artikelen 7.8a tot en met 7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003
 
 4. Het geeft voorts tegelijkertijd kennis van de ontvangst van de mededeling met overeenkomstige toepassing van [artikel 3:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12). Kennisgeving geschiedt in een publicatie in een ander land ingeval er sprake is van mogelijke belangrijke nadelige gevolgen voor het milieu in dat andere land.
 
-5. Indien overeenkomstig [artikel 14.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.6&z=2009-09-10&g=2009-09-10), een verzoek is gedaan tot toepassing van [artikel 14.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-09-10&g=2009-09-10), vindt toepassing van het derde en vierde lid eerst plaats nadat op dat verzoek is beslist.
+5. Indien overeenkomstig [artikel 14.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.6&z=2009-11-04&g=2009-11-04), een verzoek is gedaan tot toepassing van [artikel 14.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-11-04&g=2009-11-04), vindt toepassing van het derde en vierde lid eerst plaats nadat op dat verzoek is beslist.
 
 6. Onze Ministers stellen regelen omtrent de inhoud van een mededeling als bedoeld in het eerste lid.
 
@@ -1253,15 +1255,15 @@ De [artikelen 7.8a tot en met 7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003
 
 1. Indien het bevoegd gezag degene is die het milieu-effectrapport moet maken dat betrekking heeft op een besluit, deelt het aan de commissie en de adviseurs mee in het kader van welk door hem voorgenomen besluit het dat rapport zal maken.
 
-2. Het geeft tegelijkertijd kennis van het door hem voorgenomen besluit met overeenkomstige toepassing van [artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12) en [artikel 7.12, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10).
+2. Het geeft tegelijkertijd kennis van het door hem voorgenomen besluit met overeenkomstige toepassing van [artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12) en [artikel 7.12, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04).
 
-3. [Artikel 7.12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+3. [Artikel 7.12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 ##### Artikel 7.14
 
 1. Het bevoegd gezag stelt de commissie en de adviseurs in de gelegenheid advies uit te brengen over het geven van richtlijnen inzake de inhoud van een milieu-effectrapport dat betrekking heeft op een besluit.
 
-2. De commissie brengt haar advies uit binnen negen weken na de openbare kennisgeving van de in [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10), bedoelde mededeling, onderscheidenlijk van het in [artikel 7.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.13&z=2009-09-10&g=2009-09-10), bedoelde voornemen. Indien er sprake is van mogelijke belangrijke nadelige grensoverschrijdende gevolgen voor het milieu, gaat de commissie in haar advies daarop in.
+2. De commissie brengt haar advies uit binnen negen weken na de openbare kennisgeving van de in [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04), bedoelde mededeling, onderscheidenlijk van het in [artikel 7.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.13&z=2009-11-04&g=2009-11-04), bedoelde voornemen. Indien er sprake is van mogelijke belangrijke nadelige grensoverschrijdende gevolgen voor het milieu, gaat de commissie in haar advies daarop in.
 
 3. Indien het bevoegd gezag het milieu-effectrapport niet zelf maakt, pleegt het voorts overleg over het geven van richtlijnen inzake de inhoud ervan met degene die de activiteit onderneemt.
 
@@ -1269,23 +1271,23 @@ De [artikelen 7.8a tot en met 7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003
 
 ##### Artikel 7.15
 
-1. Het bevoegd gezag geeft uiterlijk dertien weken na de openbare kennisgeving van een mededeling als bedoeld in [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10), of van een voornemen als bedoeld in [artikel 7.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.13&z=2009-09-10&g=2009-09-10), richtlijnen inzake de inhoud van het milieu-effectrapport. In gevallen als bedoeld in [artikel 7.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.13&z=2009-09-10&g=2009-09-10), kan het bevoegd gezag de termijn, bedoeld in de eerste volzin, eenmaal met ten hoogste acht weken verlengen.
+1. Het bevoegd gezag geeft uiterlijk dertien weken na de openbare kennisgeving van een mededeling als bedoeld in [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04), of van een voornemen als bedoeld in [artikel 7.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.13&z=2009-11-04&g=2009-11-04), richtlijnen inzake de inhoud van het milieu-effectrapport. In gevallen als bedoeld in [artikel 7.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.13&z=2009-11-04&g=2009-11-04), kan het bevoegd gezag de termijn, bedoeld in de eerste volzin, eenmaal met ten hoogste acht weken verlengen.
 
 2. De in het eerste lid bedoelde richtlijnen kunnen:
 
-- a. betrekking hebben op de wijze waarop aan het bij of krachtens [de artikelen 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-09-10&g=2009-09-10) of [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.11&z=2009-09-10&g=2009-09-10) bepaalde moet worden voldaan;
+- a. betrekking hebben op de wijze waarop aan het bij of krachtens [de artikelen 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-11-04&g=2009-11-04) of [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.11&z=2009-11-04&g=2009-11-04) bepaalde moet worden voldaan;
 
-- b. gegevens als bedoeld in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-09-10&g=2009-09-10) of [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.11&z=2009-09-10&g=2009-09-10) aanwijzen die het milieu-effectrapport in elk geval moet inhouden, zo nodig nadat daarnaar onderzoek is verricht.
+- b. gegevens als bedoeld in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-11-04&g=2009-11-04) of [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.11&z=2009-11-04&g=2009-11-04) aanwijzen die het milieu-effectrapport in elk geval moet inhouden, zo nodig nadat daarnaar onderzoek is verricht.
 
 3. De gegevens bedoeld in het tweede lid, onder b, omvatten de gegevens die zijn aangegeven in bijlage IV bij de EEG-richtlijn milieu-effectbeoordeling, voor zover het bevoegd gezag dat noodzakelijk acht ter uitvoering van artikel 5, eerste lid, van die richtlijn.
 
-4. Ingeval de richtlijnen een milieu-effectrapport betreffen, dat moet worden gemaakt bij de voorbereiding van een besluit waarop [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is, kan geen onderzoek als bedoeld in het tweede lid, onder b, worden verlangd ter verkrijging van gegevens als bedoeld in [artikel 7.10, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-09-10&g=2009-09-10).
+4. Ingeval de richtlijnen een milieu-effectrapport betreffen, dat moet worden gemaakt bij de voorbereiding van een besluit waarop [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is, kan geen onderzoek als bedoeld in het tweede lid, onder b, worden verlangd ter verkrijging van gegevens als bedoeld in [artikel 7.10, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-11-04&g=2009-11-04).
 
-5. De richtlijnen worden bekendgemaakt aan degene die de activiteit onderneemt en meegedeeld aan de commissie, de adviseurs en degenen die bij het bevoegd gezag overeenkomstig [artikel 7.14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.14&z=2009-09-10&g=2009-09-10), zienswijzen naar voren hebben gebracht. [Artikel 3:44, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:44) is van overeenkomstige toepassing.
+5. De richtlijnen worden bekendgemaakt aan degene die de activiteit onderneemt en meegedeeld aan de commissie, de adviseurs en degenen die bij het bevoegd gezag overeenkomstig [artikel 7.14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.14&z=2009-11-04&g=2009-11-04), zienswijzen naar voren hebben gebracht. [Artikel 3:44, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:44) is van overeenkomstige toepassing.
 
 ##### Artikel 7.16
 
-[De artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10) tot en met [7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-09-10&g=2009-09-10) vinden geen toepassing indien degene die het milieu-effectrapport zou moeten maken, reeds beschikt over een milieu-effectrapport, opgesteld overeenkomstig het bij of krachtens [dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&z=2009-09-10&g=2009-09-10) bepaalde, en in dat milieu-effectrapport als alternatief de activiteit is beschreven, waarop het besluit betrekking heeft, bij de voorbereiding waarvan het milieu-effectrapport moet worden gemaakt.
+[De artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04) tot en met [7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-11-04&g=2009-11-04) vinden geen toepassing indien degene die het milieu-effectrapport zou moeten maken, reeds beschikt over een milieu-effectrapport, opgesteld overeenkomstig het bij of krachtens [dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&z=2009-11-04&g=2009-11-04) bepaalde, en in dat milieu-effectrapport als alternatief de activiteit is beschreven, waarop het besluit betrekking heeft, bij de voorbereiding waarvan het milieu-effectrapport moet worden gemaakt.
 
 #### § 7.6. De beoordeling van het milieu-effectrapport
 
@@ -1297,7 +1299,7 @@ De [artikelen 7.8a tot en met 7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003
 
 ##### Artikel 7.18
 
-1. Indien het bevoegd gezag van oordeel is, dat een aan hem overgelegd milieu-effectrapport, mede gelet op de daarvoor overeenkomstig [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-09-10&g=2009-09-10) gegeven richtlijnen, niet voldoet aan de bij of krachtens [de artikelen 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-09-10&g=2009-09-10) en [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.11&z=2009-09-10&g=2009-09-10) gestelde regels, dan wel dat het onjuistheden bevat, deelt het dat onder opgave van redenen uiterlijk zes weken na de in [artikel 7.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.17&z=2009-09-10&g=2009-09-10), bedoelde datum mede aan degene die het rapport heeft gemaakt.
+1. Indien het bevoegd gezag van oordeel is, dat een aan hem overgelegd milieu-effectrapport, mede gelet op de daarvoor overeenkomstig [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-11-04&g=2009-11-04) gegeven richtlijnen, niet voldoet aan de bij of krachtens [de artikelen 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-11-04&g=2009-11-04) en [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.11&z=2009-11-04&g=2009-11-04) gestelde regels, dan wel dat het onjuistheden bevat, deelt het dat onder opgave van redenen uiterlijk zes weken na de in [artikel 7.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.17&z=2009-11-04&g=2009-11-04), bedoelde datum mede aan degene die het rapport heeft gemaakt.
 
 2. Indien het bevoegd gezag van oordeel is dat het milieu-effectrapport slechts te kort schiet op ondergeschikte punten, kan het de mededeling, bedoeld in het eerste lid, achterwege laten.
 
@@ -1305,17 +1307,17 @@ De [artikelen 7.8a tot en met 7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003
 
 ##### Artikel 7.19
 
-Het bevoegd gezag kan een orgaan aanwijzen, dat voor de toepassing van [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-09-10&g=2009-09-10) voor hem in de plaats treedt.
+Het bevoegd gezag kan een orgaan aanwijzen, dat voor de toepassing van [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-11-04&g=2009-11-04) voor hem in de plaats treedt.
 
 ##### Artikel 7.20
 
-1. Het bevoegd gezag zendt van een milieu-effectrapport onverwijld een exemplaar aan de commissie en aan de adviseurs. Het vermeldt daarbij de in [artikel 7.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.17&z=2009-09-10&g=2009-09-10), bedoelde datum.
+1. Het bevoegd gezag zendt van een milieu-effectrapport onverwijld een exemplaar aan de commissie en aan de adviseurs. Het vermeldt daarbij de in [artikel 7.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.17&z=2009-11-04&g=2009-11-04), bedoelde datum.
 
-2. Het geeft kennis van het milieu-effectrapport met overeenkomstige toepassing van [artikel 3:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12). Kennisgeving geschiedt in een publicatie in een ander land ingeval er sprake is van mogelijke belangrijke nadelige gevolgen voor het milieu in dat andere land. Van een milieu-effectrapport dat niet door het bevoegd gezag is gemaakt, wordt uiterlijk acht weken na de in [artikel 7.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.17&z=2009-09-10&g=2009-09-10), bedoelde datum openbaar kennisgegeven.
+2. Het geeft kennis van het milieu-effectrapport met overeenkomstige toepassing van [artikel 3:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12). Kennisgeving geschiedt in een publicatie in een ander land ingeval er sprake is van mogelijke belangrijke nadelige gevolgen voor het milieu in dat andere land. Van een milieu-effectrapport dat niet door het bevoegd gezag is gemaakt, wordt uiterlijk acht weken na de in [artikel 7.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.17&z=2009-11-04&g=2009-11-04), bedoelde datum openbaar kennisgegeven.
 
 3. De [artikelen 3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:11), [3:14](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:14), [3:15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15), [3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:16) en [3:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:17) zijn van overeenkomstige toepassing, met dien verstande dat in plaats van «het ontwerp van het te nemen besluit» en «het ontwerp» wordt gelezen: het milieu-effectrapport. Zienswijzen kunnen naar voren worden gebracht door een ieder.
 
-4. De zienswijzen kunnen slechts betrekking hebben op het, mede gelet op de overeenkomstig [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-09-10&g=2009-09-10) gegeven richtlijnen inzake de inhoud van het milieu-effectrapport, niet voldoen van het rapport aan de bij of krachtens de [artikelen 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-09-10&g=2009-09-10) en [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.11&z=2009-09-10&g=2009-09-10) gestelde regels dan wel op onjuistheden die het rapport bevat.
+4. De zienswijzen kunnen slechts betrekking hebben op het, mede gelet op de overeenkomstig [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-11-04&g=2009-11-04) gegeven richtlijnen inzake de inhoud van het milieu-effectrapport, niet voldoen van het rapport aan de bij of krachtens de [artikelen 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-11-04&g=2009-11-04) en [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.11&z=2009-11-04&g=2009-11-04) gestelde regels dan wel op onjuistheden die het rapport bevat.
 
 ##### Artikel 7.21
 
@@ -1339,9 +1341,9 @@ Vervallen
 
 ##### Artikel 7.26
 
-1. De commissie wordt tot uiterlijk vijf weken na het einde van de in [artikel 3:16, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:16) bedoelde termijn in de gelegenheid gesteld advies uit te brengen. [Artikel 7.20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+1. De commissie wordt tot uiterlijk vijf weken na het einde van de in [artikel 3:16, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:16) bedoelde termijn in de gelegenheid gesteld advies uit te brengen. [Artikel 7.20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
-2. De commissie betrekt in haar advies de overeenkomstig [afdeling 3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) uitgebrachte adviezen en de overeenkomstig [artikel 7.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-09-10&g=2009-09-10), juncto [artikel 3:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) naar voren gebrachte zienswijzen.
+2. De commissie betrekt in haar advies de overeenkomstig [afdeling 3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) uitgebrachte adviezen en de overeenkomstig [artikel 7.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-11-04&g=2009-11-04), juncto [artikel 3:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) naar voren gebrachte zienswijzen.
 
 3. Indien er sprake is van mogelijke belangrijke nadelige grensoverschrijdende gevolgen voor het milieu, gaat de commissie in haar advies daarop in.
 
@@ -1349,11 +1351,11 @@ Vervallen
 
 ##### Artikel 7.27
 
-1. Het bevoegd gezag neemt een krachtens [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), of [7.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-09-10&g=2009-09-10), aangewezen besluit niet dan nadat toepassing is gegeven aan de [artikelen 7.12 tot en met 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10).
+1. Het bevoegd gezag neemt een krachtens [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), of [7.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-11-04&g=2009-11-04), aangewezen besluit niet dan nadat toepassing is gegeven aan de [artikelen 7.12 tot en met 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04).
 
 2. Het bevoegd gezag neemt een besluit evenmin, indien de gegevens die in het milieu-effectrapport zijn opgenomen, redelijkerwijs niet meer aan het besluit ten grondslag kunnen worden gelegd in verband met aanmerkelijke wijziging van de omstandigheden waarvan bij het maken van het milieu-effectrapport is uitgegaan.
 
-3. Het bevoegd gezag neemt een beslissing omtrent een krachtens [artikel 7.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), aangewezen activiteit, en ten aanzien waarvan geen provinciale verordening krachtens [artikel 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-09-10&g=2009-09-10), van toepassing is, niet dan nadat toepassing is gegeven aan de [artikelen 7.8a tot en met 7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.7&z=2009-09-10&g=2009-09-10).
+3. Het bevoegd gezag neemt een beslissing omtrent een krachtens [artikel 7.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), aangewezen activiteit, en ten aanzien waarvan geen provinciale verordening krachtens [artikel 7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.6&z=2009-11-04&g=2009-11-04), van toepassing is, niet dan nadat toepassing is gegeven aan de [artikelen 7.8a tot en met 7.8d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.7&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 7.28
 
@@ -1361,25 +1363,25 @@ Vervallen
 
 - a. bij het indienen van de aanvraag geen milieu-effectrapport is overgelegd;
 
-- b. ten aanzien van het overgelegde milieu-effectrapport [artikel 7.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.18&z=2009-09-10&g=2009-09-10), toepassing heeft gevonden;
+- b. ten aanzien van het overgelegde milieu-effectrapport [artikel 7.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.18&z=2009-11-04&g=2009-11-04), toepassing heeft gevonden;
 
-- c. in gevallen waarin krachtens [artikel 14.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-09-10&g=2009-09-10) ter voorbereiding van meer dan een besluit één milieu-effectrapport wordt gemaakt, de van de aanvrager afkomstige aanvragen tot het nemen van de andere betrokken besluiten niet tegelijkertijd worden ingediend.
+- c. in gevallen waarin krachtens [artikel 14.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-11-04&g=2009-11-04) ter voorbereiding van meer dan een besluit één milieu-effectrapport wordt gemaakt, de van de aanvrager afkomstige aanvragen tot het nemen van de andere betrokken besluiten niet tegelijkertijd worden ingediend.
 
-2. Het bevoegd gezag laat de aanvraag tevens buiten behandeling indien een besluit als bedoeld in [artikel 7.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8a&z=2009-09-10&g=2009-09-10) krachtens wettelijk voorschrift op aanvraag wordt genomen en
+2. Het bevoegd gezag laat de aanvraag tevens buiten behandeling indien een besluit als bedoeld in [artikel 7.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8a&z=2009-11-04&g=2009-11-04) krachtens wettelijk voorschrift op aanvraag wordt genomen en
 
-- a. bij het indienen van de aanvraag geen afschrift is gevoegd van de beslissing krachtens [artikel 7.8b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8b&z=2009-09-10&g=2009-09-10), inhoudende dat geen milieu-effectrapport behoeft te worden gemaakt, of
+- a. bij het indienen van de aanvraag geen afschrift is gevoegd van de beslissing krachtens [artikel 7.8b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.3&artikel=7.8b&z=2009-11-04&g=2009-11-04), inhoudende dat geen milieu-effectrapport behoeft te worden gemaakt, of
 
 - b. bij het indienen van de aanvraag geen milieu-effectrapport is overgelegd.
 
 ##### Artikel 7.29
 
-Indien van een aanvraag als bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.28&z=2009-09-10&g=2009-09-10), openbaar kennis wordt gegeven, wordt van het milieu-effectrapport - zo nodig in afwijking van [artikel 7.20, tweede lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-09-10&g=2009-09-10) - in ieder geval gelijktijdig openbaar kennisgegeven.
+Indien van een aanvraag als bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.28&z=2009-11-04&g=2009-11-04), openbaar kennis wordt gegeven, wordt van het milieu-effectrapport - zo nodig in afwijking van [artikel 7.20, tweede lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-11-04&g=2009-11-04) - in ieder geval gelijktijdig openbaar kennisgegeven.
 
 ##### Artikel 7.30
 
-1. Indien krachtens wettelijk voorschrift van het voorontwerp of het ontwerp van een besluit openbaar kennis wordt gegeven, wordt van het milieu-effectrapport gelijktijdig openbaar kennisgegeven, behoudens in gevallen als bedoeld in [artikel 7.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.29&z=2009-09-10&g=2009-09-10). Indien krachtens wettelijk voorschrift zowel van een voorontwerp als van een ontwerp van het besluit openbaar kennis wordt gegeven, wordt van het milieu-effectrapport gelijktijdig met het voorontwerp kennisgegeven.
+1. Indien krachtens wettelijk voorschrift van het voorontwerp of het ontwerp van een besluit openbaar kennis wordt gegeven, wordt van het milieu-effectrapport gelijktijdig openbaar kennisgegeven, behoudens in gevallen als bedoeld in [artikel 7.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.29&z=2009-11-04&g=2009-11-04). Indien krachtens wettelijk voorschrift zowel van een voorontwerp als van een ontwerp van het besluit openbaar kennis wordt gegeven, wordt van het milieu-effectrapport gelijktijdig met het voorontwerp kennisgegeven.
 
-2. Van het ontwerp van een besluit wordt, indien van een aanvraag om of een voorontwerp van het besluit openbaar kennis is gegeven, niet openbaar kennisgegeven dan nadat toepassing is gegeven aan de [artikelen 7.17 tot en met 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.17&z=2009-09-10&g=2009-09-10) en [7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-09-10&g=2009-09-10).
+2. Van het ontwerp van een besluit wordt, indien van een aanvraag om of een voorontwerp van het besluit openbaar kennis is gegeven, niet openbaar kennisgegeven dan nadat toepassing is gegeven aan de [artikelen 7.17 tot en met 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.17&z=2009-11-04&g=2009-11-04) en [7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 7.31
 
@@ -1387,7 +1389,7 @@ Vervallen
 
 ##### Artikel 7.32
 
-Indien over een aanvraag als bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.28&z=2009-09-10&g=2009-09-10) dan wel het voorontwerp of het ontwerp van een besluit zienswijzen naar voren kunnen worden gebracht, kunnen zienswijzen over het milieu-effectrapport in ieder geval gelijktijdig naar voren worden gebracht met zienswijzen over die aanvraag dan wel dat voorontwerp of ontwerp.
+Indien over een aanvraag als bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.28&z=2009-11-04&g=2009-11-04) dan wel het voorontwerp of het ontwerp van een besluit zienswijzen naar voren kunnen worden gebracht, kunnen zienswijzen over het milieu-effectrapport in ieder geval gelijktijdig naar voren worden gebracht met zienswijzen over die aanvraag dan wel dat voorontwerp of ontwerp.
 
 ##### Artikel 7.33
 
@@ -1395,7 +1397,7 @@ Vervallen
 
 ##### Artikel 7.34
 
-1. Indien met betrekking tot handelingen als bedoeld in de [artikelen 7.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.28&z=2009-09-10&g=2009-09-10), [7.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.29&z=2009-09-10&g=2009-09-10), [7.30](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.30&z=2009-09-10&g=2009-09-10) en [7.32](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.22&z=2009-09-10&g=2009-09-10) de krachtens deze wet en krachtens andere wettelijke voorschriften geldende termijnen niet even lang zijn, geldt voor de betrokken perioden met betrekking tot de totstandkoming van het besluit de langste van die termijnen.
+1. Indien met betrekking tot handelingen als bedoeld in de [artikelen 7.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.28&z=2009-11-04&g=2009-11-04), [7.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.29&z=2009-11-04&g=2009-11-04), [7.30](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.30&z=2009-11-04&g=2009-11-04) en [7.32](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.22&z=2009-11-04&g=2009-11-04) de krachtens deze wet en krachtens andere wettelijke voorschriften geldende termijnen niet even lang zijn, geldt voor de betrokken perioden met betrekking tot de totstandkoming van het besluit de langste van die termijnen.
 
 2. Indien krachtens wettelijk voorschrift een besluit binnen een bepaalde termijn moet worden genomen, wordt die termijn verlengd met vijf weken, alsmede, indien ingevolge het eerste lid langere termijnen in de plaats treden van termijnen die bij de totstandkoming van het besluit zouden gelden, met de som van de verschillen tussen de laatstbedoelde en de ingevolge het eerste lid geldende termijnen.
 
@@ -1421,7 +1423,7 @@ Vervallen
 
 ##### Artikel 7.36
 
-Een krachtens een andere wettelijke regeling te nemen besluit wordt, ook voor zover daarbij [artikel 7.35](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.35&z=2009-09-10&g=2009-09-10) wordt toegepast, geacht krachtens die regeling te worden genomen.
+Een krachtens een andere wettelijke regeling te nemen besluit wordt, ook voor zover daarbij [artikel 7.35](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.35&z=2009-11-04&g=2009-11-04) wordt toegepast, geacht krachtens die regeling te worden genomen.
 
 ##### Artikel 7.37
 
@@ -1431,13 +1433,13 @@ Een krachtens een andere wettelijke regeling te nemen besluit wordt, ook voor zo
 
 - b. hetgeen is overwogen omtrent de in het milieu-effectrapport beschreven alternatieven;
 
-- c. hetgeen is overwogen omtrent de terzake van het milieu-effectrapport overeenkomstig [artikel 7.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-09-10&g=2009-09-10), juncto [artikel 3:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) naar voren gebrachte zienswijzen en de overeenkomstig [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-09-10&g=2009-09-10) uitgebrachte adviezen.
+- c. hetgeen is overwogen omtrent de terzake van het milieu-effectrapport overeenkomstig [artikel 7.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-11-04&g=2009-11-04), juncto [artikel 3:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) naar voren gebrachte zienswijzen en de overeenkomstig [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-11-04&g=2009-11-04) uitgebrachte adviezen.
 
-2. Het bevoegd gezag bepaalt bij het besluit de termijn of de termijnen waarop het onderzoek, bedoeld in [artikel 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.39&z=2009-09-10&g=2009-09-10), wordt gestart, alsmede de wijze waarop het dat onderzoek zal verrichten.
+2. Het bevoegd gezag bepaalt bij het besluit de termijn of de termijnen waarop het onderzoek, bedoeld in [artikel 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.39&z=2009-11-04&g=2009-11-04), wordt gestart, alsmede de wijze waarop het dat onderzoek zal verrichten.
 
 ##### Artikel 7.38
 
-1. Van een besluit doet het bevoegd gezag zo spoedig mogelijk mededeling door toezending van een exemplaar aan degenen die overeenkomstig [artikel 7.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-09-10&g=2009-09-10), juncto [artikel 3:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) zienswijzen naar voren hebben gebracht, en, voorzover van toepassing, aan de commissie en aan de adviseurs. [Artikel 3:44, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:44) is van overeenkomstige toepassing.
+1. Van een besluit doet het bevoegd gezag zo spoedig mogelijk mededeling door toezending van een exemplaar aan degenen die overeenkomstig [artikel 7.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-11-04&g=2009-11-04), juncto [artikel 3:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) zienswijzen naar voren hebben gebracht, en, voorzover van toepassing, aan de commissie en aan de adviseurs. [Artikel 3:44, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:44) is van overeenkomstige toepassing.
 
 2. Het doet van zijn besluit tevens zo spoedig mogelijk mededeling met overeenkomstige toepassing van [artikel 3.44, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:44).
 
@@ -1451,7 +1453,7 @@ Een krachtens een andere wettelijke regeling te nemen besluit wordt, ook voor zo
 
 - b. het vastgestelde plan, en, indien het milieu-effectrapport niet is opgenomen in dat plan, het milieu-effectrapport, gelijktijdig met de bekendmaking daarvan in Nederland.
 
-2. Indien een in een besluit voorgenomen activiteit belangrijke nadelige gevolgen kan hebben voor het milieu in een ander land, worden de in het kader van dit hoofdstuk verzamelde informatie, alsmede de aanvraag, bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.28&z=2009-09-10&g=2009-09-10), onderscheidenlijk het ontwerp van het besluit en het besluit aan de regering of een door die regering aan te wijzen autoriteit in het andere land verstrekt gelijktijdig met de bekendmaking in Nederland. Tevens worden deze informatie en deze bescheiden toegezonden aan de instanties die daartoe door de bevoegde autoriteit van dat andere land zijn aangewezen op grond van hun specifieke verantwoordelijkheid op milieugebied. [Artikel 3:16, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:16) en de [artikelen 7.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.14&z=2009-09-10&g=2009-09-10), en [7.20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-09-10&g=2009-09-10), zijn ten aanzien van die instanties van overeenkomstige toepassing.
+2. Indien een in een besluit voorgenomen activiteit belangrijke nadelige gevolgen kan hebben voor het milieu in een ander land, worden de in het kader van dit hoofdstuk verzamelde informatie, alsmede de aanvraag, bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.28&z=2009-11-04&g=2009-11-04), onderscheidenlijk het ontwerp van het besluit en het besluit aan de regering of een door die regering aan te wijzen autoriteit in het andere land verstrekt gelijktijdig met de bekendmaking in Nederland. Tevens worden deze informatie en deze bescheiden toegezonden aan de instanties die daartoe door de bevoegde autoriteit van dat andere land zijn aangewezen op grond van hun specifieke verantwoordelijkheid op milieugebied. [Artikel 3:16, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:16) en de [artikelen 7.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.14&z=2009-11-04&g=2009-11-04), en [7.20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-11-04&g=2009-11-04), zijn ten aanzien van die instanties van overeenkomstige toepassing.
 
 3. De ingevolge het eerste, dan wel tweede lid te verstrekken stukken dienen als grondslag voor het overleg met bestuursorganen in het betrokken andere land over de belangrijke nadelige gevolgen die de activiteit voor het milieu in dat andere land kan hebben, en de maatregelen die worden overwogen om die gevolgen te voorkomen of te beperken.
 
@@ -1461,7 +1463,7 @@ Een krachtens een andere wettelijke regeling te nemen besluit wordt, ook voor zo
 
 ##### Artikel 7.38b
 
-Behoudens het bepaalde in [artikel 7.38a, eerste dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-09-10&g=2009-09-10), informeren Onze Minister onderscheidenlijk het bevoegd gezag zo spoedig mogelijk nadat uit de in het kader van dit hoofdstuk verzamelde informatie duidelijk is geworden dat er sprake is van mogelijke belangrijke nadelige gevolgen voor het milieu in een ander land de regering of een door die regering aan te wijzen autoriteit in dat andere land. [Artikel 7.38a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+Behoudens het bepaalde in [artikel 7.38a, eerste dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-11-04&g=2009-11-04), informeren Onze Minister onderscheidenlijk het bevoegd gezag zo spoedig mogelijk nadat uit de in het kader van dit hoofdstuk verzamelde informatie duidelijk is geworden dat er sprake is van mogelijke belangrijke nadelige gevolgen voor het milieu in een ander land de regering of een door die regering aan te wijzen autoriteit in dat andere land. [Artikel 7.38a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 ##### Artikel 7.38c
 
@@ -1473,37 +1475,37 @@ Behoudens het bepaalde in [artikel 7.38a, eerste dan wel tweede lid](https://wet
 
 2. Indien het milieu-effectrapport betrekking heeft op een besluit zendt het bevoegd gezag indien er sprake is van mogelijke belangrijke nadelige gevolgen voor het milieu in een ander land, aan Onze Minister:
 
-- a. een exemplaar van de mededeling, bedoeld in [artikel 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10);
+- a. een exemplaar van de mededeling, bedoeld in [artikel 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04);
 
-- b. een exemplaar van de richtlijnen, bedoeld in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-09-10&g=2009-09-10);
+- b. een exemplaar van de richtlijnen, bedoeld in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-11-04&g=2009-11-04);
 
-- c. een exemplaar van het milieu-effectrapport, bedoeld in [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-09-10&g=2009-09-10);
+- c. een exemplaar van het milieu-effectrapport, bedoeld in [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-11-04&g=2009-11-04);
 
-- d. een exemplaar van de aanvraag, bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.28&z=2009-09-10&g=2009-09-10), onderscheidenlijk van het ontwerp van het besluit;
+- d. een exemplaar van de aanvraag, bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.28&z=2009-11-04&g=2009-11-04), onderscheidenlijk van het ontwerp van het besluit;
 
-- e. een exemplaar van het besluit, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.27&z=2009-09-10&g=2009-09-10).
+- e. een exemplaar van het besluit, bedoeld in [artikel 7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.27&z=2009-11-04&g=2009-11-04).
 
-3. Bij de toezending verzoekt het bevoegd gezag Onze Minister toepassing te geven aan [artikel 7.38a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-09-10&g=2009-09-10).
+3. Bij de toezending verzoekt het bevoegd gezag Onze Minister toepassing te geven aan [artikel 7.38a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 7.38d
 
-Indien een ander land belangrijke nadelige gevolgen voor het milieu meent te kunnen ondervinden van een in een plan, dan wel besluit voorgenomen activiteit in Nederland, geven Onze Minister, onderscheidenlijk het bevoegd gezag op verzoek van dat land toepassing aan [artikel 7.38a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-09-10&g=2009-09-10).
+Indien een ander land belangrijke nadelige gevolgen voor het milieu meent te kunnen ondervinden van een in een plan, dan wel besluit voorgenomen activiteit in Nederland, geven Onze Minister, onderscheidenlijk het bevoegd gezag op verzoek van dat land toepassing aan [artikel 7.38a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 7.38e
 
 Indien een ander land belangrijke nadelige gevolgen voor het milieu kan ondervinden van een in een plan, dan wel besluit voorgenomen activiteit in Nederland kan Onze Minister:
 
-- a. indien het milieu-effectrapport betrekking heeft op een plan, bepalen dat het bevoegd gezag dat plan niet vaststelt dan nadat Onze Minister gedurende dertien weken na het einde van de termijn waarbinnen zienswijzen over het ontwerp van dat plan naar voren kunnen worden gebracht, in de gelegenheid is gesteld de uitkomsten van het overleg, bedoeld in [artikel 7.38a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-09-10&g=2009-09-10), aan het bevoegd gezag te doen toekomen;
+- a. indien het milieu-effectrapport betrekking heeft op een plan, bepalen dat het bevoegd gezag dat plan niet vaststelt dan nadat Onze Minister gedurende dertien weken na het einde van de termijn waarbinnen zienswijzen over het ontwerp van dat plan naar voren kunnen worden gebracht, in de gelegenheid is gesteld de uitkomsten van het overleg, bedoeld in [artikel 7.38a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-11-04&g=2009-11-04), aan het bevoegd gezag te doen toekomen;
 
-- b. indien het milieu-effectrapport betrekking heeft op een besluit, bepalen dat het bevoegd gezag dat besluit niet neemt, dan nadat Onze Minister gedurende dertien weken na het einde van de in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-09-10&g=2009-09-10) bedoelde termijn in de gelegenheid is gesteld de uitkomsten van het overleg, bedoeld in [artikel 7.38a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-09-10&g=2009-09-10), aan het bevoegd gezag te doen toekomen.
+- b. indien het milieu-effectrapport betrekking heeft op een besluit, bepalen dat het bevoegd gezag dat besluit niet neemt, dan nadat Onze Minister gedurende dertien weken na het einde van de in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-11-04&g=2009-11-04) bedoelde termijn in de gelegenheid is gesteld de uitkomsten van het overleg, bedoeld in [artikel 7.38a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-11-04&g=2009-11-04), aan het bevoegd gezag te doen toekomen.
 
 ##### Artikel 7.38f
 
 De motivering van een besluit vermeldt in ieder geval:
 
-- a. indien in het milieu-effectrapport of in het advies, bedoeld in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-09-10&g=2009-09-10), aandacht wordt geschonken aan mogelijke belangrijke nadelige grensoverschrijdende milieugevolgen, hetgeen daaromtrent is overwogen;
+- a. indien in het milieu-effectrapport of in het advies, bedoeld in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-11-04&g=2009-11-04), aandacht wordt geschonken aan mogelijke belangrijke nadelige grensoverschrijdende milieugevolgen, hetgeen daaromtrent is overwogen;
 
-- b. hetgeen is overwogen omtrent de uitkomsten van het overleg, bedoeld in [artikel 7.38a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-09-10&g=2009-09-10).
+- b. hetgeen is overwogen omtrent de uitkomsten van het overleg, bedoeld in [artikel 7.38a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.8&artikel=7.38a&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 7.38g
 
@@ -1521,25 +1523,25 @@ De motivering van een besluit vermeldt in ieder geval:
 
 ##### Artikel 7.40
 
-Degene die de in dat plan, dan wel besluit voorgenomen activiteit onderneemt, is verplicht aan het bevoegd gezag desgevraagd alle medewerking te verlenen en alle inlichtingen te verstrekken, die het redelijkerwijs voor het verrichten van het in [artikel 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.39&z=2009-09-10&g=2009-09-10) bedoelde onderzoek behoeft.
+Degene die de in dat plan, dan wel besluit voorgenomen activiteit onderneemt, is verplicht aan het bevoegd gezag desgevraagd alle medewerking te verlenen en alle inlichtingen te verstrekken, die het redelijkerwijs voor het verrichten van het in [artikel 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.39&z=2009-11-04&g=2009-11-04) bedoelde onderzoek behoeft.
 
 ##### Artikel 7.41
 
 1. Het bevoegd gezag stelt een verslag op van het onderzoek.
 
-2. Indien het milieu-effectrapport betrekking heeft op een plan zendt het bevoegd gezag het verslag aan de bestuursorganen, bedoeld in [artikel 7.11b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4a&artikel=7.11b&z=2009-09-10&g=2009-09-10). Indien het milieu-effectrapport betrekking heeft op een plan waarover de commissie overeenkomstig [artikel 7.26b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6a&artikel=7.26b&z=2009-09-10&g=2009-09-10) advies heeft uitgebracht, zendt het bevoegd gezag het verslag tevens aan de commissie.
+2. Indien het milieu-effectrapport betrekking heeft op een plan zendt het bevoegd gezag het verslag aan de bestuursorganen, bedoeld in [artikel 7.11b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4a&artikel=7.11b&z=2009-11-04&g=2009-11-04). Indien het milieu-effectrapport betrekking heeft op een plan waarover de commissie overeenkomstig [artikel 7.26b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6a&artikel=7.26b&z=2009-11-04&g=2009-11-04) advies heeft uitgebracht, zendt het bevoegd gezag het verslag tevens aan de commissie.
 
 3. Indien het milieu-effectrapport betrekking heeft op een besluit zendt het bevoegd gezag het verslag aan degene die de activiteit onderneemt, aan de commissie en aan de adviseurs. Het maakt het verslag gelijktijdig bekend met overeenkomstige toepassing van [artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12).
 
 ##### Artikel 7.42
 
-1. Indien uit het in [artikel 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.39&z=2009-09-10&g=2009-09-10) bedoelde onderzoek blijkt dat de activiteit in belangrijke mate nadeliger gevolgen voor het milieu heeft dan die welke bij het vaststellen van het plan, dan wel bij het nemen van het besluit werden verwacht, neemt het bevoegd gezag, indien dat naar zijn oordeel nodig is, de hem ter beschikking staande maatregelen ten einde die gevolgen zoveel mogelijk te beperken of ongedaan te maken.
+1. Indien uit het in [artikel 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.39&z=2009-11-04&g=2009-11-04) bedoelde onderzoek blijkt dat de activiteit in belangrijke mate nadeliger gevolgen voor het milieu heeft dan die welke bij het vaststellen van het plan, dan wel bij het nemen van het besluit werden verwacht, neemt het bevoegd gezag, indien dat naar zijn oordeel nodig is, de hem ter beschikking staande maatregelen ten einde die gevolgen zoveel mogelijk te beperken of ongedaan te maken.
 
-2. Indien het bevoegd gezag met betrekking tot een besluit tot het oordeel komt dat het moet worden gewijzigd of ingetrokken, zijn op die wijziging of intrekking de [artikelen 7.35](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.35&z=2009-09-10&g=2009-09-10) en [7.36](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.36&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+2. Indien het bevoegd gezag met betrekking tot een besluit tot het oordeel komt dat het moet worden gewijzigd of ingetrokken, zijn op die wijziging of intrekking de [artikelen 7.35](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.35&z=2009-11-04&g=2009-11-04) en [7.36](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.36&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
 ##### Artikel 7.43
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het bepaalde in de [artikelen 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.39&z=2009-09-10&g=2009-09-10), [7.41](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.41&z=2009-09-10&g=2009-09-10) en [7.42](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.42&z=2009-09-10&g=2009-09-10).
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het bepaalde in de [artikelen 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.39&z=2009-11-04&g=2009-11-04), [7.41](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.41&z=2009-11-04&g=2009-11-04) en [7.42](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.42&z=2009-11-04&g=2009-11-04).
 
 ### Hoofdstuk 8. Inrichtingen
 
@@ -1561,7 +1563,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 3. Voor een inrichting als bedoeld in het eerste lid dan wel voor een inrichting die behoort tot een aangewezen categorie van inrichtingen als bedoeld in het tweede lid, geldt het verbod, bedoeld in het eerste lid, onder b, niet met betrekking tot veranderingen van die inrichting of van de werking daarvan, die in overeenstemming zijn met de voor de inrichting verleende vergunning en de daaraan verbonden beperkingen en voorschriften.
 
-4. Voor een inrichting die behoort tot een aangewezen categorie van inrichtingen als bedoeld in het tweede lid, geldt het verbod, bedoeld in het eerste lid, onder b, evenmin met betrekking tot veranderingen van die inrichting of van de werking daarvan, voor zover daarop regels, gesteld krachtens een algemene maatregel van bestuur op grond van [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10), van toepassing zijn.
+4. Voor een inrichting die behoort tot een aangewezen categorie van inrichtingen als bedoeld in het tweede lid, geldt het verbod, bedoeld in het eerste lid, onder b, evenmin met betrekking tot veranderingen van die inrichting of van de werking daarvan, voor zover daarop regels, gesteld krachtens een algemene maatregel van bestuur op grond van [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04), van toepassing zijn.
 
 ##### Artikel 8.2
 
@@ -1589,11 +1591,11 @@ Vervallen
 
 ##### Artikel 8.4
 
-1. Indien een vergunning wordt aangevraagd als bedoeld in [artikel 8.1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10), of [artikel 8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10), juncto [artikel 8.1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10), voor het veranderen van een inrichting of van de werking daarvan en voor die inrichting al een of meer vergunningen krachtens deze wet zijn verleend, kan het bevoegd gezag, uit eigen beweging of op verzoek, bepalen dat een vergunning moet worden aangevraagd voor die verandering en voor het in werking hebben na die verandering van de gehele inrichting of onderdelen daarvan, waarmee die verandering samenhangt.
+1. Indien een vergunning wordt aangevraagd als bedoeld in [artikel 8.1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04), of [artikel 8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04), juncto [artikel 8.1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04), voor het veranderen van een inrichting of van de werking daarvan en voor die inrichting al een of meer vergunningen krachtens deze wet zijn verleend, kan het bevoegd gezag, uit eigen beweging of op verzoek, bepalen dat een vergunning moet worden aangevraagd voor die verandering en voor het in werking hebben na die verandering van de gehele inrichting of onderdelen daarvan, waarmee die verandering samenhangt.
 
 2. Indien het bevoegd gezag heeft bepaald dat een zodanige vergunning moet worden aangevraagd, besluit het tot het buiten behandeling laten van aanvragen om een vergunning voor de betrokken verandering van de inrichting of van de werking daarvan, die geen betrekking hebben op een zodanige vergunning.
 
-3. Het bevoegd gezag kan de rechten die de vergunninghouder aan de al eerder verleende vergunningen ontleende, niet wijzigen anders dan mogelijk zou zijn met toepassing van [afdeling 8.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&z=2009-09-10&g=2009-09-10).
+3. Het bevoegd gezag kan de rechten die de vergunninghouder aan de al eerder verleende vergunningen ontleende, niet wijzigen anders dan mogelijk zou zijn met toepassing van [afdeling 8.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&z=2009-11-04&g=2009-11-04).
 
 4. Een met toepassing van dit artikel verleende vergunning vervangt met ingang van het tijdstip waarop zij in werking treedt, de eerder voor de inrichting of met betrekking tot de in het eerste lid bedoelde onderdelen daarvan verleende vergunningen. Deze vergunningen vervallen op het tijdstip waarop de met toepassing van dit artikel verleende vergunning onherroepelijk wordt.
 
@@ -1639,7 +1641,7 @@ in de gelegenheid hem advies uit te brengen over het ontwerp van de beschikking 
 
 - c. de met betrekking tot de inrichting en het gebied waar de inrichting zal zijn of is gelegen, redelijkerwijs te verwachten ontwikkelingen die van belang zijn met het oog op de bescherming van het milieu;
 
-- d. de voor het einde van de in [artikel 3:16 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:16) bedoelde termijn overeenkomstig [artikel 3:15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) naar voren gebrachte zienswijzen en door de krachtens [artikel 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-09-10&g=2009-09-10) aangewezen adviseurs en overeenkomstig [artikel 8.31](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.31&z=2009-09-10&g=2009-09-10) uitgebrachte adviezen;
+- d. de voor het einde van de in [artikel 3:16 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:16) bedoelde termijn overeenkomstig [artikel 3:15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) naar voren gebrachte zienswijzen en door de krachtens [artikel 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-11-04&g=2009-11-04) aangewezen adviseurs en overeenkomstig [artikel 8.31](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.31&z=2009-11-04&g=2009-11-04) uitgebrachte adviezen;
 
 - e. de mogelijkheden tot bescherming van het milieu, door de nadelige gevolgen voor het milieu, die de inrichting kan veroorzaken, te voorkomen, dan wel zoveel mogelijk te beperken, voor zover zij niet kunnen worden voorkomen;
 
@@ -1649,25 +1651,25 @@ in de gelegenheid hem advies uit te brengen over het ontwerp van de beschikking 
 
 - a. het voor hem geldende milieubeleidsplan;
 
-- b. het bepaalde in [artikel 10.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.14&z=2009-09-10&g=2009-09-10);
+- b. het bepaalde in [artikel 10.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.14&z=2009-11-04&g=2009-11-04);
 
-- c. de voor de onderdelen van het milieu, waarvoor de inrichting gevolgen kan hebben, geldende richtwaarden, voor zover de verplichting tot het rekening houden daarmee is vastgelegd krachtens of overeenkomstig [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.2&z=2009-09-10&g=2009-09-10) of [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.4&artikel=5.17&z=2009-09-10&g=2009-09-10).
+- c. de voor de onderdelen van het milieu, waarvoor de inrichting gevolgen kan hebben, geldende richtwaarden, voor zover de verplichting tot het rekening houden daarmee is vastgelegd krachtens of overeenkomstig [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.2&z=2009-11-04&g=2009-11-04) of [artikel 5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.4&artikel=5.17&z=2009-11-04&g=2009-11-04).
 
 3. Het bevoegd gezag neemt bij de beslissing op de aanvraag in ieder geval in acht:
 
-- a. de voor de onderdelen van het milieu, waarvoor de inrichting gevolgen kan hebben, geldende grenswaarden, voor zover de verplichting tot het in acht nemen daarvan is vastgelegd krachtens of overeenkomstig [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.2&z=2009-09-10&g=2009-09-10), is vastgelegd in of krachtens [artikel 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.4&artikel=5.16&z=2009-09-10&g=2009-09-10) dan wel voortvloeit uit de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=40), [44 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=44), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=50), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=51), [53 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=53), [59 tot en met 61](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=59), [63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=63) , [64](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=64), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=65) of [66 van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=66);
+- a. de voor de onderdelen van het milieu, waarvoor de inrichting gevolgen kan hebben, geldende grenswaarden, voor zover de verplichting tot het in acht nemen daarvan is vastgelegd krachtens of overeenkomstig [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.2&z=2009-11-04&g=2009-11-04), is vastgelegd in of krachtens [artikel 5.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.4&artikel=5.16&z=2009-11-04&g=2009-11-04) dan wel voortvloeit uit de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=40), [44 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=44), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=50), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=51), [53 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=53), [59 tot en met 61](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=59), [63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=63) , [64](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=64), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=65) of [66 van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=66);
 
-- b. de voor hem geldende, krachtens [artikel 8.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.45&z=2009-09-10&g=2009-09-10) gestelde regels;
+- b. de voor hem geldende, krachtens [artikel 8.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.45&z=2009-11-04&g=2009-11-04) gestelde regels;
 
-- c. de voor hem geldende, krachtens [artikel 8.46](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.46&z=2009-09-10&g=2009-09-10) gestelde regels, behoudens voor zover een aanwijzing van Onze Minister krachtens [artikel 8.27](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.1&artikel=8.27&z=2009-09-10&g=2009-09-10) afwijking noodzakelijk maakt;
+- c. de voor hem geldende, krachtens [artikel 8.46](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.46&z=2009-11-04&g=2009-11-04) gestelde regels, behoudens voor zover een aanwijzing van Onze Minister krachtens [artikel 8.27](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.1&artikel=8.27&z=2009-11-04&g=2009-11-04) afwijking noodzakelijk maakt;
 
-- d. aanwijzingen die met betrekking tot de beslissing op de aanvraag krachtens [artikel 8.27](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.1&artikel=8.27&z=2009-09-10&g=2009-09-10) door Onze Minister zijn gegeven.
+- d. aanwijzingen die met betrekking tot de beslissing op de aanvraag krachtens [artikel 8.27](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.1&artikel=8.27&z=2009-11-04&g=2009-11-04) door Onze Minister zijn gegeven.
 
 4. Het bevoegd gezag geeft in de motivering van de beslissing op de aanvraag aan, op welke wijze de in het eerste lid genoemde aspecten de inhoud van het besluit hebben beïnvloed.
 
 ##### Artikel 8.9
 
-Het bevoegd gezag draagt er bij de beslissing op de aanvraag zorg voor dat er geen strijd ontstaat met regels die met betrekking tot de inrichting gelden, gesteld bij of krachtens deze wet dan wel bij of krachtens de in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-09-10&g=2009-09-10), genoemde wetten.
+Het bevoegd gezag draagt er bij de beslissing op de aanvraag zorg voor dat er geen strijd ontstaat met regels die met betrekking tot de inrichting gelden, gesteld bij of krachtens deze wet dan wel bij of krachtens de in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-11-04&g=2009-11-04), genoemde wetten.
 
 ##### Artikel 8.10
 
@@ -1677,9 +1679,9 @@ Het bevoegd gezag draagt er bij de beslissing op de aanvraag zorg voor dat er ge
 
 - a. door verlening daarvan niet kan worden bereikt dat in de inrichting ten minste de voor de inrichting in aanmerking komende beste beschikbare technieken worden toegepast;
 
-- b. verlening daarvan niet in overeenstemming zou zijn met hetgeen overeenkomstig [artikel 8.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.8&z=2009-09-10&g=2009-09-10), door het bevoegd gezag in acht moet worden genomen;
+- b. verlening daarvan niet in overeenstemming zou zijn met hetgeen overeenkomstig [artikel 8.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.8&z=2009-11-04&g=2009-11-04), door het bevoegd gezag in acht moet worden genomen;
 
-- c. door verlening daarvan strijd zou ontstaan met regels als bedoeld in [artikel 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.9&z=2009-09-10&g=2009-09-10).
+- c. door verlening daarvan strijd zou ontstaan met regels als bedoeld in [artikel 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.9&z=2009-11-04&g=2009-11-04).
 
 3. In afwijking van het eerste lid kan de vergunning tevens worden geweigerd ingeval door verlening daarvan strijd zou ontstaan met een bestemmings- of inpassingsplan, een projectbesluit daaronder begrepen een beheersverordening of regels gesteld bij of krachtens een provinciale verordening of een algemene maatregel van bestuur als bedoeld in [artikel 4.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1), onderscheidenlijk [artikel 4.3, derde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.3).
 
@@ -1697,9 +1699,9 @@ Het bevoegd gezag draagt er bij de beslissing op de aanvraag zorg voor dat er ge
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop de voor een inrichting in aanmerking komende beste beschikbare technieken worden bepaald. Daarbij kan worden bepaald dat de gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen.
 
-5. Voor zover met betrekking tot de inrichting regels gelden, gesteld bij of krachtens deze wet, dan wel bij of krachtens de in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-09-10&g=2009-09-10), genoemde wetten, kunnen de beperkingen en voorschriften daarvan alleen afwijken voor zover dat bij wettelijk voorschrift is toegestaan.
+5. Voor zover met betrekking tot de inrichting regels gelden, gesteld bij of krachtens deze wet, dan wel bij of krachtens de in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-11-04&g=2009-11-04), genoemde wetten, kunnen de beperkingen en voorschriften daarvan alleen afwijken voor zover dat bij wettelijk voorschrift is toegestaan.
 
-6. Indien de vergunning betrekking heeft op een inrichting waartoe een gpbv-installatie behoort, wordt in de voorschriften die aan de vergunning worden verbonden, van de in het vijfde lid bedoelde regels afgeweken voor zover met die regels voor de gpbv-installatie niet wordt voldaan aan het bepaalde in de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.8&z=2009-09-10&g=2009-09-10) en [8.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.11&z=2009-09-10&g=2009-09-10).
+6. Indien de vergunning betrekking heeft op een inrichting waartoe een gpbv-installatie behoort, wordt in de voorschriften die aan de vergunning worden verbonden, van de in het vijfde lid bedoelde regels afgeweken voor zover met die regels voor de gpbv-installatie niet wordt voldaan aan het bepaalde in de [artikelen 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.8&z=2009-11-04&g=2009-11-04) en [8.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.11&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 8.12
 
@@ -1715,7 +1717,7 @@ Het bevoegd gezag draagt er bij de beslissing op de aanvraag zorg voor dat er ge
 
 - b. de bij die bepaling verkregen gegevens aan het bevoegd gezag moeten worden gemeld of ter inzage gegeven of anderszins ter beschikking moeten worden gesteld van het bevoegd gezag.
 
-5. In afwijking van het vierde lid, onder b, worden geen voorschriften aan de vergunning verbonden met betrekking tot het ter beschikking stellen van gegevens als bedoeld in dat onderdeel, voor zover die gegevens krachtens [titel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&z=2009-09-10&g=2009-09-10) moeten worden opgenomen in een PRTR-verslag dat ten behoeve van een bestuursorgaan moet worden opgesteld, of daardoor anderszins strijd ontstaat met het gestelde bij of krachtens [die titel](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&z=2009-09-10&g=2009-09-10).
+5. In afwijking van het vierde lid, onder b, worden geen voorschriften aan de vergunning verbonden met betrekking tot het ter beschikking stellen van gegevens als bedoeld in dat onderdeel, voor zover die gegevens krachtens [titel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&z=2009-11-04&g=2009-11-04) moeten worden opgenomen in een PRTR-verslag dat ten behoeve van een bestuursorgaan moet worden opgesteld, of daardoor anderszins strijd ontstaat met het gestelde bij of krachtens [die titel](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&z=2009-11-04&g=2009-11-04).
 
 6. Voor inrichtingen waartoe geen gpbv-installatie behoort en voor inrichtingen waartoe een gpbv-installatie behoort voor zover het andere activiteiten dan die gpbv-installatie betreft, kunnen voorschriften als bedoeld in het vierde lid, onder a en b, aan een vergunning worden verbonden.
 
@@ -1723,7 +1725,7 @@ Het bevoegd gezag draagt er bij de beslissing op de aanvraag zorg voor dat er ge
 
 1. Aan een vergunning kunnen in het belang van de bescherming van het milieu andere voorschriften worden verbonden. Die voorschriften kunnen in ieder geval inhouden:
 
-- a. dat daarbij aangegeven metingen, berekeningen of tellingen – andere dan bedoeld in de [artikelen 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12&z=2009-09-10&g=2009-09-10) en [8.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12a&z=2009-09-10&g=2009-09-10) – moeten worden verricht ter bepaling van de mate waarin de inrichting nadelige gevolgen voor het milieu veroorzaakt;
+- a. dat daarbij aangegeven metingen, berekeningen of tellingen – andere dan bedoeld in de [artikelen 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12&z=2009-11-04&g=2009-11-04) en [8.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12a&z=2009-11-04&g=2009-11-04) – moeten worden verricht ter bepaling van de mate waarin de inrichting nadelige gevolgen voor het milieu veroorzaakt;
 
 - b. dat in een mate als bij het voorschrift aangegeven, onderzoek moet worden verricht naar mogelijkheden tot verdergaande bescherming van het milieu dan waarin de andere aan de vergunning verbonden voorschriften voorzien;
 
@@ -1731,17 +1733,17 @@ Het bevoegd gezag draagt er bij de beslissing op de aanvraag zorg voor dat er ge
 
 - d. dat moet worden voldaan aan daarbij aangegeven eisen ten aanzien van de vakbekwaamheid van in de inrichting werkzame personen;
 
-- e. dat aan de in de inrichting werkzame personen schriftelijk instructies worden gegeven om handelen in strijd met de vergunning, de daaraan verbonden voorschriften of bij of krachtens [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10) gestelde regels tegen te gaan, en dat toezicht wordt gehouden op het naleven van die instructies;
+- e. dat aan de in de inrichting werkzame personen schriftelijk instructies worden gegeven om handelen in strijd met de vergunning, de daaraan verbonden voorschriften of bij of krachtens [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04) gestelde regels tegen te gaan, en dat toezicht wordt gehouden op het naleven van die instructies;
 
 - f. dat met betrekking tot in het voorschrift geregelde, daarbij aangegeven onderwerpen moet worden voldaan aan nadere eisen die door een bij het voorschrift aangewezen bestuursorgaan worden gesteld;
 
-- g. dat van daarbij aangegeven veranderingen als bedoeld in [artikel 8.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10), binnen een in het voorschrift te bepalen termijn schriftelijk mededeling wordt gedaan aan het bevoegd gezag of een door hem aangewezen instantie;
+- g. dat van daarbij aangegeven veranderingen als bedoeld in [artikel 8.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04), binnen een in het voorschrift te bepalen termijn schriftelijk mededeling wordt gedaan aan het bevoegd gezag of een door hem aangewezen instantie;
 
 - h. dat met het oog op het kunnen voldoen aan de andere aan de vergunning verbonden voorschriften daarbij aangegeven organisatorische en administratieve maatregelen moeten worden getroffen;
 
 - i. dat met betrekking tot een bij het voorschrift aangegeven onderwerp waarover geen andere voorschriften aan de vergunning zijn verbonden, voldoende zorg in acht moet worden genomen.
 
-2. In afwijking van het eerste lid, onder c, worden geen voorschriften aan de vergunning verbonden met betrekking tot het melden of ter beschikking stellen van uitkomsten als bedoeld in dat onderdeel, indien die uitkomsten als gegevens krachtens [titel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&z=2009-09-10&g=2009-09-10) moeten worden opgenomen in een PRTR-verslag dat ten behoeve van een bestuursorgaan moet worden opgesteld, of daardoor anderszins strijd ontstaat met het gestelde bij of krachtens [die titel](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&z=2009-09-10&g=2009-09-10).
+2. In afwijking van het eerste lid, onder c, worden geen voorschriften aan de vergunning verbonden met betrekking tot het melden of ter beschikking stellen van uitkomsten als bedoeld in dat onderdeel, indien die uitkomsten als gegevens krachtens [titel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&z=2009-11-04&g=2009-11-04) moeten worden opgenomen in een PRTR-verslag dat ten behoeve van een bestuursorgaan moet worden opgesteld, of daardoor anderszins strijd ontstaat met het gestelde bij of krachtens [die titel](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&z=2009-11-04&g=2009-11-04).
 
 3. Bij een voorschrift inzake nadere eisen als bedoeld in het eerste lid, onder **f**, kan worden aangegeven hoe van die eisen door het aangewezen bestuursorgaan openbaar wordt kennisgegeven.
 
@@ -1749,9 +1751,9 @@ Het bevoegd gezag draagt er bij de beslissing op de aanvraag zorg voor dat er ge
 
 1. Aan een vergunning worden geen voorschriften verbonden, die het naar of uit de provincie brengen van afvalstoffen beperken of uitsluiten.
 
-2. Aan een vergunning worden, indien het een inrichting betreft waarop de in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), vervatte verboden betrekking hebben, geen voorschriften verbonden:
+2. Aan een vergunning worden, indien het een inrichting betreft waarop de in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), vervatte verboden betrekking hebben, geen voorschriften verbonden:
 
-- a. inhoudende een emissiegrenswaarde voor de directe emissie van broeikasgassen waarop de in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), vervatte verboden betrekking hebben, tenzij zulks noodzakelijk is om te verzekeren dat geen significante gevolgen voor het milieu in de onmiddellijke omgeving van de inrichting worden veroorzaakt;
+- a. inhoudende een emissiegrenswaarde voor de directe emissie van broeikasgassen waarop de in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), vervatte verboden betrekking hebben, tenzij zulks noodzakelijk is om te verzekeren dat geen significante gevolgen voor het milieu in de onmiddellijke omgeving van de inrichting worden veroorzaakt;
 
 - b. ter bevordering van een zuinig gebruik van energie in de inrichting.
 
@@ -1823,7 +1825,7 @@ In een vergunning kan worden bepaald:
 
 - a. indien de inrichting niet binnen drie jaar nadat de vergunning onherroepelijk is geworden, is voltooid en in werking gebracht;
 
-- b. indien de inrichting een stortplaats is, als bedoeld in [artikel 8.47](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.47&z=2009-09-10&g=2009-09-10): indien de stortplaats krachtens het derde lid van genoemd artikel voor gesloten is verklaard.
+- b. indien de inrichting een stortplaats is, als bedoeld in [artikel 8.47](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.47&z=2009-11-04&g=2009-11-04): indien de stortplaats krachtens het derde lid van genoemd artikel voor gesloten is verklaard.
 
 2. Indien kan worden verwacht dat de inrichting niet binnen de in het eerste lid, onder a, bedoelde termijn kan worden voltooid en in werking gebracht, kan in de vergunning een andere termijn worden vastgesteld, die daarvoor in de plaats treedt.
 
@@ -1837,13 +1839,13 @@ In een vergunning kan worden bepaald:
 
 - b. het voornemen tot het uitvoeren van de verandering door de vergunninghouder schriftelijk overeenkomstig de krachtens het zesde lid, onder a, gestelde regels aan het bevoegd gezag is gemeld, en
 
-- c. het bevoegd gezag aan de vergunninghouder schriftelijk heeft verklaard dat de voorgenomen verandering voldoet aan de aanhef en onderdeel a en de verandering naar zijn oordeel geen aanleiding geeft tot toepassing van de [artikelen 8.22](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-09-10&g=2009-09-10), [8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.23&z=2009-09-10&g=2009-09-10) of [8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.25&z=2009-09-10&g=2009-09-10).
+- c. het bevoegd gezag aan de vergunninghouder schriftelijk heeft verklaard dat de voorgenomen verandering voldoet aan de aanhef en onderdeel a en de verandering naar zijn oordeel geen aanleiding geeft tot toepassing van de [artikelen 8.22](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-11-04&g=2009-11-04), [8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.23&z=2009-11-04&g=2009-11-04) of [8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.25&z=2009-11-04&g=2009-11-04).
 
 2. Het eerste lid is niet van toepassing op veranderingen ten aanzien waarvan, indien zij vergunningplichtig zouden zijn geweest, bij de voorbereiding van de besluiten terzake, een milieu-effectrapport had moeten worden gemaakt.
 
 3. Een besluit inzake een verklaring als bedoeld in het eerste lid, onder c, wordt zo spoedig mogelijk, doch uiterlijk zes weken na ontvangst van de melding, bekendgemaakt.
 
-4. Zo spoedig mogelijk, doch uiterlijk twee weken na de bekendmaking van de verklaring geeft het bevoegd gezag openbaar kennis daarvan. Indien de verklaring betrekking heeft op een inrichting die behoort tot een krachtens [artikel 8.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-09-10&g=2009-09-10), aangewezen categorie, zendt het bevoegd gezag bovendien een afschrift van de melding en de verklaring aan de inspecteur.
+4. Zo spoedig mogelijk, doch uiterlijk twee weken na de bekendmaking van de verklaring geeft het bevoegd gezag openbaar kennis daarvan. Indien de verklaring betrekking heeft op een inrichting die behoort tot een krachtens [artikel 8.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-11-04&g=2009-11-04), aangewezen categorie, zendt het bevoegd gezag bovendien een afschrift van de melding en de verklaring aan de inspecteur.
 
 5. Het bevoegd gezag geeft een ieder desgevraagd kosteloos inzage in de melding en de daarbij behorende stukken en verstrekt daarvan desgevraagd tegen betaling van de kosten een afschrift.
 
@@ -1867,11 +1869,11 @@ In een vergunning kan worden bepaald:
 
 ##### Artikel 8.21
 
-1. Indien met betrekking tot een inrichting waarvoor de bij of krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) gestelde verboden niet gelden, die verboden op enig tijdstip gaan gelden, kan die inrichting in afwijking van die bepaling zonder vergunning in werking worden gehouden tot twaalf weken na dat tijdstip en, indien binnen deze termijn een aanvraag om de krachtens die bepaling vereiste vergunning is ingediend, vervolgens tot acht weken na het tijdstip waarop de beschikking op die aanvraag in werking is getreden.
+1. Indien met betrekking tot een inrichting waarvoor de bij of krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) gestelde verboden niet gelden, die verboden op enig tijdstip gaan gelden, kan die inrichting in afwijking van die bepaling zonder vergunning in werking worden gehouden tot twaalf weken na dat tijdstip en, indien binnen deze termijn een aanvraag om de krachtens die bepaling vereiste vergunning is ingediend, vervolgens tot acht weken na het tijdstip waarop de beschikking op die aanvraag in werking is getreden.
 
 2. Indien zodanige verboden gaan gelden ten gevolge van een verandering van de inrichting of van de werking daarvan, is het eerste lid niet van toepassing, voor zover het die verandering betreft.
 
-3. Indien de bij of krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) gestelde verboden met betrekking tot de inrichting niet golden, blijven de voorschriften die krachtens een algemene maatregel van bestuur krachtens [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10) voor de inrichting golden of krachtens de provinciale milieuverordening krachtens [artikel 1.2, zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2009-09-10&g=2009-09-10), onmiddellijk voor het gaan gelden van die verboden, voor de inrichting van toepassing gedurende de periode waarin de inrichting ingevolge het eerste lid zonder vergunning in werking mag worden gehouden, behoudens voor zover het veranderingen als bedoeld in het tweede lid betreft.
+3. Indien de bij of krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) gestelde verboden met betrekking tot de inrichting niet golden, blijven de voorschriften die krachtens een algemene maatregel van bestuur krachtens [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04) voor de inrichting golden of krachtens de provinciale milieuverordening krachtens [artikel 1.2, zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2009-11-04&g=2009-11-04), onmiddellijk voor het gaan gelden van die verboden, voor de inrichting van toepassing gedurende de periode waarin de inrichting ingevolge het eerste lid zonder vergunning in werking mag worden gehouden, behoudens voor zover het veranderingen als bedoeld in het tweede lid betreft.
 
 ### Afdeling 8.1.2. Wijziging of intrekking van vergunningen
 
@@ -1883,7 +1885,7 @@ In een vergunning kan worden bepaald:
 
 3. Bij algemene maatregel van bestuur kunnen in het belang van de bescherming van het milieu regels worden gesteld met betrekking tot de wijze waarop het eerste lid wordt toegepast met betrekking tot daarbij aangewezen categorieën van inrichtingen. Bij de maatregel kan worden bepaald dat daarbij gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen.
 
-4. Met betrekking tot de beslissing ter zake en de inhoud van de beperkingen en voorschriften zijn de [artikelen 8.6 tot en met 8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.6&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+4. Met betrekking tot de beslissing ter zake en de inhoud van de beperkingen en voorschriften zijn de [artikelen 8.6 tot en met 8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.6&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
 ##### Artikel 8.23
 
@@ -1891,19 +1893,19 @@ In een vergunning kan worden bepaald:
 
 2. Een belanghebbende, met uitzondering van de vergunninghouder, kan het bevoegd gezag verzoeken een vergunning in het belang van de bescherming van het milieu met toepassing van het eerste lid te wijzigen.
 
-3. Met betrekking tot de beslissing ter zake en de inhoud van de beperkingen en voorschriften zijn de [artikelen 8.6 tot en met 8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.6&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+3. Met betrekking tot de beslissing ter zake en de inhoud van de beperkingen en voorschriften zijn de [artikelen 8.6 tot en met 8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.6&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
 ##### Artikel 8.24
 
 1. Op aanvraag van de vergunninghouder kan het bevoegd gezag beperkingen waaronder een vergunning is verleend, en voorschriften die daaraan zijn verbonden, wijzigen, aanvullen of intrekken, dan wel alsnog beperkingen aanbrengen of voorschriften aan een vergunning verbinden.
 
-2. Met betrekking tot de beslissing ter zake en de inhoud van die beperkingen en voorschriften zijn de [artikelen 8.6 tot en met 8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.6&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+2. Met betrekking tot de beslissing ter zake en de inhoud van die beperkingen en voorschriften zijn de [artikelen 8.6 tot en met 8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.6&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
 ##### Artikel 8.25
 
-1. Het bevoegd gezag kan - onverminderd het in de[artikelen 8.34](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.34&z=2009-09-10&g=2009-09-10), [8.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.3&artikel=8.39&z=2009-09-10&g=2009-09-10) en [18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.12&z=2009-09-10&g=2009-09-10) bepaalde - een vergunning voor een inrichting geheel of gedeeltelijk intrekken:
+1. Het bevoegd gezag kan - onverminderd het in de[artikelen 8.34](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.34&z=2009-11-04&g=2009-11-04), [8.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.3&artikel=8.39&z=2009-11-04&g=2009-11-04) en [18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.12&z=2009-11-04&g=2009-11-04) bepaalde - een vergunning voor een inrichting geheel of gedeeltelijk intrekken:
 
-- a. indien de inrichting ontoelaatbaar nadelige gevolgen voor het milieu veroorzaakt en toepassing van [artikel 8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.23&z=2009-09-10&g=2009-09-10) redelijkerwijs daarvoor geen oplossing biedt;
+- a. indien de inrichting ontoelaatbaar nadelige gevolgen voor het milieu veroorzaakt en toepassing van [artikel 8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.23&z=2009-11-04&g=2009-11-04) redelijkerwijs daarvoor geen oplossing biedt;
 
 - b. indien dit in het belang van een doelmatig beheer van afvalstoffen noodzakelijk is;
 
@@ -1911,25 +1913,25 @@ In een vergunning kan worden bepaald:
 
 - d. indien de inrichting geheel of gedeeltelijk is verwoest;
 
-- e. indien, in gevallen als aangegeven krachtens [artikel 8.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.20&z=2009-09-10&g=2009-09-10), de vergunninghouder niet meer degene is, die de inrichting drijft;
+- e. indien, in gevallen als aangegeven krachtens [artikel 8.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.20&z=2009-11-04&g=2009-11-04), de vergunninghouder niet meer degene is, die de inrichting drijft;
 
 - f. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
 2. Het bevoegd gezag trekt de vergunning in:
 
-- a. indien door toepassing van [artikel 8.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-09-10&g=2009-09-10), redelijkerwijs niet kan worden bereikt dat in de inrichting ten minste de voor de inrichting in aanmerking komende beste beschikbare technieken worden toegepast;
+- a. indien door toepassing van [artikel 8.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-11-04&g=2009-11-04), redelijkerwijs niet kan worden bereikt dat in de inrichting ten minste de voor de inrichting in aanmerking komende beste beschikbare technieken worden toegepast;
 
 - b. voor zover regels vastgesteld bij algemene maatregel van bestuur ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, hiertoe verplichten.
 
 3. Een belanghebbende, met uitzondering van de vergunninghouder, kan het bevoegd gezag verzoeken een vergunning met toepassing van het eerste lid in te trekken.
 
-4. Met betrekking tot een beslissing als bedoeld in het eerste lid zijn de [artikelen 8.6 tot en met 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.6&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing, met dien verstande dat [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) niet van toepassing is op de voorbereiding van de intrekking van een vergunning op grond van het eerste lid, onder c, d, e of f, of tweede lid.
+4. Met betrekking tot een beslissing als bedoeld in het eerste lid zijn de [artikelen 8.6 tot en met 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.6&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing, met dien verstande dat [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) niet van toepassing is op de voorbereiding van de intrekking van een vergunning op grond van het eerste lid, onder c, d, e of f, of tweede lid.
 
-5. In een geval als aangegeven krachtens [artikel 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.15&z=2009-09-10&g=2009-09-10) kan een voorschrift overeenkomstig de betrokken algemene maatregel van bestuur aan de beschikking tot intrekking worden verbonden. [Artikel 8.15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.15&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+5. In een geval als aangegeven krachtens [artikel 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.15&z=2009-11-04&g=2009-11-04) kan een voorschrift overeenkomstig de betrokken algemene maatregel van bestuur aan de beschikking tot intrekking worden verbonden. [Artikel 8.15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.15&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 6. In de beschikking tot intrekking kan worden bepaald dat een voorschrift als bedoeld in het vijfde lid, dan wel daarbij aangewezen aan de vergunning verbonden voorschriften gedurende een daarbij aan te geven termijn blijven gelden.
 
-7. Met betrekking tot de totstandkoming van een beschikking krachtens het eerste lid, onder f, is [artikel 8.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.10&z=2009-09-10&g=2009-09-10), van overeenkomstige toepassing.
+7. Met betrekking tot de totstandkoming van een beschikking krachtens het eerste lid, onder f, is [artikel 8.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.10&z=2009-11-04&g=2009-11-04), van overeenkomstige toepassing.
 
 8. Het bevoegd gezag gaat tot intrekking van een vergunning op grond van het eerste lid, onder c, d, e of f, of het tweede lid niet over zonder de vergunninghouder in de gelegenheid te hebben gesteld binnen een termijn van zes weken schriftelijk of mondeling zienswijzen over de intrekking naar voren te brengen. Van de beschikking wordt mededeling gedaan door toezending daarvan aan de adviseurs.
 
@@ -1937,9 +1939,9 @@ In een vergunning kan worden bepaald:
 
 1. Het bevoegd gezag kan de vergunning geheel of gedeeltelijk intrekken op verzoek van de vergunninghouder, indien het belang van de bescherming van het milieu zich daartegen niet verzet.
 
-2. Met betrekking tot de beslissing ter zake zijn de [artikelen 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.6&z=2009-09-10&g=2009-09-10), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.8&z=2009-09-10&g=2009-09-10) en [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.9&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+2. Met betrekking tot de beslissing ter zake zijn de [artikelen 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.6&z=2009-11-04&g=2009-11-04), [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.8&z=2009-11-04&g=2009-11-04) en [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.9&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
-3. [Artikel 8.25, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.25&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+3. [Artikel 8.25, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.25&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 ### Afdeling 8.1.3. Bijzondere gevallen
 
@@ -1957,15 +1959,15 @@ In een vergunning kan worden bepaald:
 
 ##### Artikel 8.28
 
-In gevallen waarin een vergunning krachtens deze wet wordt aangevraagd, die betrekking heeft op een inrichting van waaruit stoffen als bedoeld in [artikel 1 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1) in het oppervlaktewater worden gebracht, worden, indien daarvoor een vergunning krachtens die wet vereist is, bij de toepassing van dit hoofdstuk, van [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&z=2009-09-10&g=2009-09-10) en van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) de bepalingen van deze paragraaf in acht genomen.
+In gevallen waarin een vergunning krachtens deze wet wordt aangevraagd, die betrekking heeft op een inrichting van waaruit stoffen als bedoeld in [artikel 1 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1) in het oppervlaktewater worden gebracht, worden, indien daarvoor een vergunning krachtens die wet vereist is, bij de toepassing van dit hoofdstuk, van [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&z=2009-11-04&g=2009-11-04) en van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) de bepalingen van deze paragraaf in acht genomen.
 
 ##### Artikel 8.29
 
-Indien in de vergunning krachtens de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682) een bepaling wordt opgenomen als bedoeld in [artikel 8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.17&z=2009-09-10&g=2009-09-10) over de termijn waarvoor zij geldt, kan een gelijke bepaling worden opgenomen in de vergunning krachtens deze wet.
+Indien in de vergunning krachtens de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682) een bepaling wordt opgenomen als bedoeld in [artikel 8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.17&z=2009-11-04&g=2009-11-04) over de termijn waarvoor zij geldt, kan een gelijke bepaling worden opgenomen in de vergunning krachtens deze wet.
 
 ##### Artikel 8.30
 
-1. De aanvraag om een vergunning of wijziging van de vergunning overeenkomstig [artikel 8.24](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.24&z=2009-09-10&g=2009-09-10) wordt tegelijk ingediend met de aanvraag om verlening of wijziging van de vergunning krachtens de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682). De aanvraag wordt door de aanvrager tevens gezonden aan het bestuursorgaan dat tot verlening van de vergunning krachtens die wet bevoegd is.
+1. De aanvraag om een vergunning of wijziging van de vergunning overeenkomstig [artikel 8.24](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.24&z=2009-11-04&g=2009-11-04) wordt tegelijk ingediend met de aanvraag om verlening of wijziging van de vergunning krachtens de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682). De aanvraag wordt door de aanvrager tevens gezonden aan het bestuursorgaan dat tot verlening van de vergunning krachtens die wet bevoegd is.
 
 2. Indien de aanvraag om verlening of wijziging van de vergunning krachtens de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682) niet is ingediend binnen zes weken na het tijdstip waarop de aanvraag om een vergunning of wijziging van de vergunning krachtens deze wet is ingediend, wordt de aanvraag buiten behandeling gelaten.
 
@@ -1981,7 +1983,7 @@ Indien in de vergunning krachtens de [Wet verontreiniging oppervlaktewateren](ht
 
 ##### Artikel 8.31a
 
-1. In een geval als bedoeld in [artikel 8.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.28&z=2009-09-10&g=2009-09-10), waarin burgemeester en wethouders bevoegd zijn de beschikking op de aanvraag om de vergunning krachtens deze wet te verlenen, kunnen gedeputeerde staten, indien dat met het oog op de samenhang tussen de beschikkingen op de onderscheidene aanvragen in het belang van de bescherming van het milieu geboden is, en zo nodig in afwijking van regels, gesteld krachtens [artikel 8.46](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.46&z=2009-09-10&g=2009-09-10), op een daartoe strekkend verzoek van het orgaan dat bevoegd is de vergunning krachtens de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682) te verlenen, aan burgemeester en wethouders een bindende aanwijzing geven ter zake van de inhoud van die beschikking.
+1. In een geval als bedoeld in [artikel 8.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.28&z=2009-11-04&g=2009-11-04), waarin burgemeester en wethouders bevoegd zijn de beschikking op de aanvraag om de vergunning krachtens deze wet te verlenen, kunnen gedeputeerde staten, indien dat met het oog op de samenhang tussen de beschikkingen op de onderscheidene aanvragen in het belang van de bescherming van het milieu geboden is, en zo nodig in afwijking van regels, gesteld krachtens [artikel 8.46](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.46&z=2009-11-04&g=2009-11-04), op een daartoe strekkend verzoek van het orgaan dat bevoegd is de vergunning krachtens de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682) te verlenen, aan burgemeester en wethouders een bindende aanwijzing geven ter zake van de inhoud van die beschikking.
 
 2. Een aanwijzing wordt gegeven binnen acht weken na de dag waarop het ontwerp van de beschikking op de aanvraag overeenkomstig [artikel 3:11, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:11) ter inzage is gelegd. Zij wordt niet gegeven dan na overleg met het bevoegd gezag.
 
@@ -1993,13 +1995,13 @@ De motivering van de beschikking vermeldt in ieder geval de invloed die de samen
 
 ##### Artikel 8.33
 
-Ten aanzien van een wijziging van een vergunning overeenkomstig de [artikelen 8.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-09-10&g=2009-09-10), en [8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.23&z=2009-09-10&g=2009-09-10) zijn de [artikelen 8.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.28&z=2009-09-10&g=2009-09-10), [8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.29&z=2009-09-10&g=2009-09-10), [8.31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.31&z=2009-09-10&g=2009-09-10), [8.31a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.31a&z=2009-09-10&g=2009-09-10) en [8.32](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.32&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+Ten aanzien van een wijziging van een vergunning overeenkomstig de [artikelen 8.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-11-04&g=2009-11-04), en [8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.23&z=2009-11-04&g=2009-11-04) zijn de [artikelen 8.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.28&z=2009-11-04&g=2009-11-04), [8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.29&z=2009-11-04&g=2009-11-04), [8.31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.31&z=2009-11-04&g=2009-11-04), [8.31a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.31a&z=2009-11-04&g=2009-11-04) en [8.32](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.32&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
 ##### Artikel 8.34
 
 1. Het bevoegd gezag kan een vergunning geheel of gedeeltelijk intrekken, indien de krachtens de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682) verleende vergunning geheel of gedeeltelijk wordt ingetrokken.
 
-2. Met betrekking tot de totstandkoming van de beschikking is [artikel 8.25, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.25&z=2009-09-10&g=2009-09-10), van overeenkomstige toepassing.
+2. Met betrekking tot de totstandkoming van de beschikking is [artikel 8.25, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.25&z=2009-11-04&g=2009-11-04), van overeenkomstige toepassing.
 
 #### § 8.1.3.3. Gevallen waarin afvalstoffen op een bepaalde wijze nuttig worden toegepast of worden verwijderd
 
@@ -2031,7 +2033,7 @@ voor zover dat in het belang van een doelmatig beheer van de betrokken afvalstof
 
 2. Overeenkomstig het verzoek wijzigt het bevoegd gezag de vergunning of trekt het deze in.
 
-3. Het bevoegd gezag brengt adviezen en overeenkomstig [artikel 3:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) naar voren gebrachte zienswijzen ter kennis van Onze Minister. Deze deelt zijn oordeel daarover aan het bevoegd gezag mee. [Artikel 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-09-10&g=2009-09-10) is van overeenkomstige toepassing.
+3. Het bevoegd gezag brengt adviezen en overeenkomstig [artikel 3:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) naar voren gebrachte zienswijzen ter kennis van Onze Minister. Deze deelt zijn oordeel daarover aan het bevoegd gezag mee. [Artikel 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-11-04&g=2009-11-04) is van overeenkomstige toepassing.
 
 ## Titel 8.2. Algemene regels
 
@@ -2051,17 +2053,17 @@ voor zover dat in het belang van een doelmatig beheer van de betrokken afvalstof
 
 - d. de mogelijkheden tot bescherming van het milieu, door de nadelige gevolgen voor het milieu, die inrichtingen die tot de betrokken categorieën behoren, kunnen veroorzaken, te voorkomen, dan wel zoveel mogelijk te beperken, voor zover zij niet kunnen worden voorkomen;
 
-- e. de voor onderdelen van het milieu, waarvoor de betrokken categorieën van inrichtingen gevolgen kunnen hebben, geldende milieukwaliteitseisen, vastgesteld krachtens of overeenkomstig [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10) of bij [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10);
+- e. de voor onderdelen van het milieu, waarvoor de betrokken categorieën van inrichtingen gevolgen kunnen hebben, geldende milieukwaliteitseisen, vastgesteld krachtens of overeenkomstig [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04) of bij [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04);
 
 - f. de redelijkerwijs te verwachten financiële en economische gevolgen van de maatregel.
 
 In een toelichting bij de maatregel wordt aangegeven op welke wijze deze aspecten bij de voorbereiding van de maatregel zijn betrokken.
 
-3. Ten aanzien van bij de regels te stellen voorschriften zijn de [artikelen 8.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.11&z=2009-09-10&g=2009-09-10), [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12&z=2009-09-10&g=2009-09-10) tot en met [8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.16&z=2009-09-10&g=2009-09-10) en [8.22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-09-10&g=2009-09-10), van overeenkomstige toepassing, met dien verstande dat het stellen van financiële zekerheid slechts kan worden voorgeschreven in de vorm van het sluiten van een verzekering tegen aansprakelijkheid voor schade, voortvloeiend uit de nadelige gevolgen voor het milieu, die de inrichting veroorzaakt.
+3. Ten aanzien van bij de regels te stellen voorschriften zijn de [artikelen 8.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.11&z=2009-11-04&g=2009-11-04), [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12&z=2009-11-04&g=2009-11-04) tot en met [8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.16&z=2009-11-04&g=2009-11-04) en [8.22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-11-04&g=2009-11-04), van overeenkomstige toepassing, met dien verstande dat het stellen van financiële zekerheid slechts kan worden voorgeschreven in de vorm van het sluiten van een verzekering tegen aansprakelijkheid voor schade, voortvloeiend uit de nadelige gevolgen voor het milieu, die de inrichting veroorzaakt.
 
 ##### Artikel 8.41
 
-1. Bij een algemene maatregel van bestuur krachtens [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10) kan met betrekking tot daarbij aangewezen categorieën van inrichtingen de verplichting worden opgelegd tot het melden van het oprichten of het veranderen van een inrichting waarop de maatregel betrekking heeft, dan wel van het veranderen van de werking daarvan.
+1. Bij een algemene maatregel van bestuur krachtens [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04) kan met betrekking tot daarbij aangewezen categorieën van inrichtingen de verplichting worden opgelegd tot het melden van het oprichten of het veranderen van een inrichting waarop de maatregel betrekking heeft, dan wel van het veranderen van de werking daarvan.
 
 2. Bij de maatregel wordt aangegeven:
 
@@ -2075,13 +2077,13 @@ In een toelichting bij de maatregel wordt aangegeven op welke wijze deze aspecte
 
 3. Onze Minister kan nadere regels stellen met betrekking tot de in het tweede lid, onder **c**, bedoelde gegevens en de wijze waarop zij moeten worden verstrekt.
 
-4. Van de melding wordt openbaar kennisgegeven in één of meer dag-, nieuws- of huis-aan-huisbladen. Indien op grond van een algemene maatregel van bestuur krachtens [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10) ook anderszins gegevens moeten worden verstrekt, kunnen bij de maatregel regels over de openbare kennisgeving daarvan worden gesteld. Bij algemene maatregel van bestuur kunnen bestuursorganen worden aangewezen, waaraan een exemplaar van de melding of de anderszins verstrekte gegevens moet worden toegezonden.
+4. Van de melding wordt openbaar kennisgegeven in één of meer dag-, nieuws- of huis-aan-huisbladen. Indien op grond van een algemene maatregel van bestuur krachtens [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04) ook anderszins gegevens moeten worden verstrekt, kunnen bij de maatregel regels over de openbare kennisgeving daarvan worden gesteld. Bij algemene maatregel van bestuur kunnen bestuursorganen worden aangewezen, waaraan een exemplaar van de melding of de anderszins verstrekte gegevens moet worden toegezonden.
 
 ##### Artikel 8.42
 
-1. Bij of krachtens algemene maatregel van bestuur als bedoeld in [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10) kan met betrekking tot daarbij aangegeven onderwerpen de verplichting worden opgelegd te voldoen aan voorschriften die nodig zijn ter bescherming van het milieu, gesteld door een bij die maatregel aangegeven bestuursorgaan.
+1. Bij of krachtens algemene maatregel van bestuur als bedoeld in [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04) kan met betrekking tot daarbij aangegeven onderwerpen de verplichting worden opgelegd te voldoen aan voorschriften die nodig zijn ter bescherming van het milieu, gesteld door een bij die maatregel aangegeven bestuursorgaan.
 
-2. Op het stellen van voorschriften als bedoeld in het eerste lid, is [artikel 8.40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10), van overeenkomstige toepassing.
+2. Op het stellen van voorschriften als bedoeld in het eerste lid, is [artikel 8.40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04), van overeenkomstige toepassing.
 
 3. Het bestuursorgaan, bedoeld in het eerste lid, kan voorschriften stellen die afwijken van de regels, gesteld bij of krachtens de maatregel, bedoeld in dat lid, indien dat bij of krachtens die maatregel is bepaald. Bij of krachtens de maatregel kan worden bepaald in welke mate de voorschriften kunnen afwijken en kan worden bepaald dat slechts kan worden afgeweken in daarbij aangegeven categorieën van gevallen.
 
@@ -2103,7 +2105,7 @@ Vervallen
 
 1. Bij algemene maatregel van bestuur kunnen regels worden gesteld, inhoudende de verplichting voor het bevoegd gezag beperkingen of voorschriften, die nodig zijn ter bescherming van het milieu en waarvan de inhoud in die maatregel is aangegeven, aan te brengen onderscheidenlijk te verbinden aan de vergunningen voor inrichtingen die behoren tot een bij de maatregel aangewezen categorie. Bij de maatregel kan worden bepaald dat de daarbij gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen. Artikel 8.40, tweede lid, is van overeenkomstige toepassing.
 
-2. Ten aanzien van krachtens het eerste lid aan te geven beperkingen en voorschriften zijn [de artikelen 8.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.11&z=2009-09-10&g=2009-09-10), [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12&z=2009-09-10&g=2009-09-10) tot en met [8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.16&z=2009-09-10&g=2009-09-10) en [8.22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-09-10&g=2009-09-10), van overeenkomstige toepassing.
+2. Ten aanzien van krachtens het eerste lid aan te geven beperkingen en voorschriften zijn [de artikelen 8.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.11&z=2009-11-04&g=2009-11-04), [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12&z=2009-11-04&g=2009-11-04) tot en met [8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.16&z=2009-11-04&g=2009-11-04) en [8.22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-11-04&g=2009-11-04), van overeenkomstige toepassing.
 
 3. Bij een algemene maatregel van bestuur krachtens het eerste lid wordt bepaald in hoeverre het bevoegd gezag met betrekking tot daarbij aangegeven onderwerpen van bij de maatregel gestelde regels kan afwijken of nadere eisen kan stellen. Daarbij kan worden bepaald dat de bevoegdheid tot afwijken of tot het stellen van nadere eisen slechts geldt in bij de maatregel aangegeven categorieën van gevallen.
 
@@ -2115,7 +2117,7 @@ Vervallen
 
 2. Regels als bedoeld in het eerste lid kunnen niet betrekking hebben op beslissingen inzake vergunningen ten aanzien waarvan Onze Minister of Onze Minister van Economische Zaken het bevoegd gezag is.
 
-3. [Artikel 8.45, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.45&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+3. [Artikel 8.45, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.45&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 ## Titel 8.2. Algemene regels
 
@@ -2141,9 +2143,9 @@ Vervallen
 
 ##### Artikel 8.48
 
-1. Deze titel is van toepassing op stortplaatsen waarvoor een vergunning ingevolge [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) is vereist, waar op of na 1 september 1996 afvalstoffen worden gestort, en
+1. Deze titel is van toepassing op stortplaatsen waarvoor een vergunning ingevolge [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) is vereist, waar op of na 1 september 1996 afvalstoffen worden gestort, en
 
-- a. waarvoor een algemene maatregel van bestuur geldt als bedoeld in [artikel 8.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.45&z=2009-09-10&g=2009-09-10), of
+- a. waarvoor een algemene maatregel van bestuur geldt als bedoeld in [artikel 8.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.45&z=2009-11-04&g=2009-11-04), of
 
 - b. uitsluitend baggerspecie wordt gestort.
 
@@ -2171,21 +2173,21 @@ Vervallen
 
 ##### Artikel 8.50
 
-1. Het bevoegd gezag is belast met de maatregelen, bedoeld in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-09-10&g=2009-09-10).
+1. Het bevoegd gezag is belast met de maatregelen, bedoeld in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-11-04&g=2009-11-04).
 
-2. Het bevoegd gezag kan de zorg voor de uitvoering van de werkzaamheden die verband houden met de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-09-10&g=2009-09-10) bedoelde maatregelen, opdragen aan een daartoe door hem aangewezen rechtspersoon of instantie.
+2. Het bevoegd gezag kan de zorg voor de uitvoering van de werkzaamheden die verband houden met de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-11-04&g=2009-11-04) bedoelde maatregelen, opdragen aan een daartoe door hem aangewezen rechtspersoon of instantie.
 
-3. In afwijking van het eerste lid berust de zorg voor de uitvoering van de werkzaamheden die verband houden met de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-09-10&g=2009-09-10) bedoelde maatregelen met betrekking tot:
+3. In afwijking van het eerste lid berust de zorg voor de uitvoering van de werkzaamheden die verband houden met de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-11-04&g=2009-11-04) bedoelde maatregelen met betrekking tot:
 
 - a. gesloten stortplaatsen waar baggerspecie is gestort en die worden gedreven of mede worden gedreven door Onze Minister van Verkeer en Waterstaat, bij die minister;
 
-- b. gesloten afvalvoorzieningen, waarvoor ingevolge [artikel 8.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.2&z=2009-09-10&g=2009-09-10), Onze Minister van Economische Zaken bevoegd gezag is, bij degene die de afvalvoorziening het laatst heeft gedreven.
+- b. gesloten afvalvoorzieningen, waarvoor ingevolge [artikel 8.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.2&z=2009-11-04&g=2009-11-04), Onze Minister van Economische Zaken bevoegd gezag is, bij degene die de afvalvoorziening het laatst heeft gedreven.
 
 4. Op verzoek van degene die een bedrijfsgebonden stortplaats het laatst heeft gedreven, wordt bij het al dan niet toepassen van het tweede lid rekening gehouden met de mogelijkheid die zorg aan die persoon op te dragen.
 
 ##### Artikel 8.51
 
-De rechthebbende ten aanzien van de plaats waar de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-09-10&g=2009-09-10) bedoelde zorg met betrekking tot een gesloten stortplaats wordt uitgevoerd, is verplicht te gedogen dat werkzaamheden worden verricht ten behoeve van die zorg, onverminderd zijn recht op schadevergoeding.
+De rechthebbende ten aanzien van de plaats waar de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-11-04&g=2009-11-04) bedoelde zorg met betrekking tot een gesloten stortplaats wordt uitgevoerd, is verplicht te gedogen dat werkzaamheden worden verricht ten behoeve van die zorg, onverminderd zijn recht op schadevergoeding.
 
 ### Hoofdstuk 9. Stoffen en produkten
 
@@ -2203,7 +2205,7 @@ De rechthebbende ten aanzien van de plaats waar de in [artikel 8.49](https://wet
 
 4. Onder handelingen als bedoeld in het derde lid wordt in ieder geval verstaan: inzamelen of anderszins in ontvangst nemen, bewaren, nuttig toepassen, verwijderen, vervoeren of verhandelen van afvalstoffen of bemiddelen bij het beheer van afvalstoffen.
 
-5. De verboden, bedoeld in het tweede en derde lid, gelden niet voor zover deze handelingen betreffen, die degene die deze verricht, uitdrukkelijk zijn toegestaan bij of krachtens deze wet of een in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-09-10&g=2009-09-10), genoemde wet of de EG-verordening overbrenging van afvalstoffen.
+5. De verboden, bedoeld in het tweede en derde lid, gelden niet voor zover deze handelingen betreffen, die degene die deze verricht, uitdrukkelijk zijn toegestaan bij of krachtens deze wet of een in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-11-04&g=2009-11-04), genoemde wet of de EG-verordening overbrenging van afvalstoffen.
 
 ##### Artikel 10.1a
 
@@ -2253,7 +2255,7 @@ Bij de vaststelling van het afvalbeheersplan houdt Onze Minister er rekening mee
 
 - b. effectief toezicht dan wel douanecontrole op het beheer van afvalstoffen mogelijk is.
 
-2. Ten aanzien van een beslissing omtrent een vergunning als bedoeld in [artikel 10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-09-10&g=2009-09-10), houdt Onze Minister er rekening mee dat het belang van een doelmatig beheer van afvalstoffen voorts vereist dat:
+2. Ten aanzien van een beslissing omtrent een vergunning als bedoeld in [artikel 10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-11-04&g=2009-11-04), houdt Onze Minister er rekening mee dat het belang van een doelmatig beheer van afvalstoffen voorts vereist dat:
 
 - a. de continuïteit van het beheer van afvalstoffen wordt gewaarborgd;
 
@@ -2285,7 +2287,7 @@ Bij de vaststelling van het afvalbeheersplan houdt Onze Minister rekening met he
 
 ##### Artikel 10.8
 
-1. Onze Minister stelt het onderdeel van het afvalbeheersplan, bedoeld in [artikel 10.7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.7&z=2009-09-10&g=2009-09-10), op na overleg met een instantie die representatief kan worden geacht voor de provinciebesturen en met een instantie die representatief kan worden geacht voor de gemeentebesturen.
+1. Onze Minister stelt het onderdeel van het afvalbeheersplan, bedoeld in [artikel 10.7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.7&z=2009-11-04&g=2009-11-04), op na overleg met een instantie die representatief kan worden geacht voor de provinciebesturen en met een instantie die representatief kan worden geacht voor de gemeentebesturen.
 
 2. Onze Minister stelt de onderdelen van het afvalbeheersplan, bedoeld in artikel 10.7, tweede lid, onder b en c, op in gezamenlijk overleg met een instantie die representatief kan worden geacht voor de provinciebesturen en met een instantie die representatief kan worden geacht voor de gemeentebesturen.
 
@@ -2311,7 +2313,7 @@ Ten behoeve van het opstellen van het afvalbeheersplan verschaffen de bestuursor
 
 1. Zodra het afvalbeheersplan is vastgesteld, doet Onze Minister hiervan mededeling door overlegging van het afvalbeheersplan aan de beide kamers der Staten-Generaal en door toezending ervan aan gedeputeerde staten van de provincies en burgemeester en wethouders van de gemeenten.
 
-2. Onze Minister zendt het afvalbeheersplan tevens toe aan de bestuursorganen, instellingen en organisaties, die overeenkomstig [artikel 10.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.8&z=2009-09-10&g=2009-09-10), waren betrokken bij de voorbereiding ervan.
+2. Onze Minister zendt het afvalbeheersplan tevens toe aan de bestuursorganen, instellingen en organisaties, die overeenkomstig [artikel 10.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.8&z=2009-11-04&g=2009-11-04), waren betrokken bij de voorbereiding ervan.
 
 ##### Artikel 10.12
 
@@ -2331,13 +2333,13 @@ Vervallen
 
 1. Het afvalbeheersplan kan worden gewijzigd.
 
-2. Met betrekking tot een wijziging van het afvalbeheersplan zijn [de artikelen 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.4&z=2009-09-10&g=2009-09-10) tot en met [10.11](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.11&z=2009-09-10&g=2009-09-10) en [10.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.12&z=2009-09-10&g=2009-09-10), van overeenkomstige toepassing.
+2. Met betrekking tot een wijziging van het afvalbeheersplan zijn [de artikelen 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.4&z=2009-11-04&g=2009-11-04) tot en met [10.11](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.11&z=2009-11-04&g=2009-11-04) en [10.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.12&z=2009-11-04&g=2009-11-04), van overeenkomstige toepassing.
 
 ##### Artikel 10.14
 
 1. Ieder bestuursorgaan houdt rekening met het geldende afvalbeheersplan bij het uitoefenen van een bevoegdheid krachtens deze wet, voor zover de bevoegdheid wordt uitgeoefend met betrekking tot afvalstoffen.
 
-2. Voor zover het afvalbeheersplan niet voorziet in het onderwerp met betrekking waartoe de bevoegdheid wordt uitgeoefend, houdt het bestuursorgaan rekening met de voorkeursvolgorde, aangegeven in [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.4&z=2009-09-10&g=2009-09-10), en de criteria, genoemd in [artikel 10.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.5&z=2009-09-10&g=2009-09-10).
+2. Voor zover het afvalbeheersplan niet voorziet in het onderwerp met betrekking waartoe de bevoegdheid wordt uitgeoefend, houdt het bestuursorgaan rekening met de voorkeursvolgorde, aangegeven in [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.4&z=2009-11-04&g=2009-11-04), en de criteria, genoemd in [artikel 10.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.5&z=2009-11-04&g=2009-11-04).
 
 3. Het eerste lid is van overeenkomstige toepassing bij het uitoefenen van een bevoegdheid krachtens de EG-verordening overbrenging van afvalstoffen.
 
@@ -2429,7 +2431,7 @@ Bij algemene maatregel van bestuur kunnen in het belang van het bevorderen van n
 
 ##### Artikel 10.19
 
-1. Bij algemene maatregel van bestuur kan worden bepaald dat burgemeester en wethouders er zorg voor dragen dat er op ten minste één daartoe ter beschikking gestelde plaats binnen de gemeente of binnen de gemeenten waarmee wordt samengewerkt, in voldoende mate gelegenheid wordt geboden om daarbij aangewezen stoffen, preparaten of producten achter te laten die zijn ingenomen krachtens [artikel 10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-09-10&g=2009-09-10).
+1. Bij algemene maatregel van bestuur kan worden bepaald dat burgemeester en wethouders er zorg voor dragen dat er op ten minste één daartoe ter beschikking gestelde plaats binnen de gemeente of binnen de gemeenten waarmee wordt samengewerkt, in voldoende mate gelegenheid wordt geboden om daarbij aangewezen stoffen, preparaten of producten achter te laten die zijn ingenomen krachtens [artikel 10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-11-04&g=2009-11-04).
 
 2. Bij de maatregel kunnen regels worden gesteld omtrent de wijze waarop burgemeester en wethouders uitvoering geven aan de verplichting, bedoeld in het eerste lid.
 
@@ -2437,7 +2439,7 @@ Bij algemene maatregel van bestuur kunnen in het belang van het bevorderen van n
 
 ##### Artikel 10.20
 
-1. Onze Minister kan, indien naar zijn oordeel in het belang van een doelmatig beheer van afvalstoffen een onverwijlde voorziening noodzakelijk is, een regeling vaststellen van de in [de artikelen 10.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.15&z=2009-09-10&g=2009-09-10) tot en met [10.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.19&z=2009-09-10&g=2009-09-10) bedoelde strekking.
+1. Onze Minister kan, indien naar zijn oordeel in het belang van een doelmatig beheer van afvalstoffen een onverwijlde voorziening noodzakelijk is, een regeling vaststellen van de in [de artikelen 10.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.15&z=2009-11-04&g=2009-11-04) tot en met [10.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.19&z=2009-11-04&g=2009-11-04) bedoelde strekking.
 
 2. Een zodanige regeling vervalt een jaar nadat zij in werking is getreden of, indien binnen die termijn een algemene maatregel van bestuur ter vervanging van die regeling in werking is getreden, op het tijdstip waarop die maatregel in werking treedt. Onze Minister kan de termijn bij ministeriële regeling eenmaal met ten hoogste een jaar verlengen.
 
@@ -2469,13 +2471,13 @@ Vervallen
 
 1. De gemeenteraad stelt in het belang van de bescherming van het milieu een afvalstoffenverordening vast.
 
-2. Onverminderd [artikel 10.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.14&z=2009-09-10&g=2009-09-10) wordt bij het vaststellen of wijzigen van de verordening rekening gehouden met:
+2. Onverminderd [artikel 10.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.14&z=2009-11-04&g=2009-11-04) wordt bij het vaststellen of wijzigen van de verordening rekening gehouden met:
 
 - a. het gemeentelijke milieubeleidsplan;
 
 - b. het gemeentelijke milieuprogramma, indien in de gemeente geen milieubeleidsplan geldt.
 
-3. De afvalstoffenverordening bevat geen regels als bedoeld in [artikel 10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-09-10&g=2009-09-10).
+3. De afvalstoffenverordening bevat geen regels als bedoeld in [artikel 10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-11-04&g=2009-11-04).
 
 #### § 10.4.7. Het in-, uit- en doorvoeren van huishoudelijke afvalstoffen, autowrakken en bedrijfsafvalstoffen
 
@@ -2491,7 +2493,7 @@ Vervallen
 
 ##### Artikel 10.26
 
-1. De gemeenteraad kan, in afwijking van [artikel 10.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.21&z=2009-09-10&g=2009-09-10), in het belang van een doelmatig beheer van huishoudelijke afvalstoffen bij de afvalstoffenverordening bepalen dat:
+1. De gemeenteraad kan, in afwijking van [artikel 10.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.21&z=2009-11-04&g=2009-11-04), in het belang van een doelmatig beheer van huishoudelijke afvalstoffen bij de afvalstoffenverordening bepalen dat:
 
 - a. huishoudelijke afvalstoffen worden ingezameld nabij elk perceel;
 
@@ -2507,7 +2509,7 @@ Vervallen
 
 ##### Artikel 10.27
 
-In gevallen als bedoeld in [artikel 10.26, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.26&z=2009-09-10&g=2009-09-10), dragen de gemeenteraad en burgemeester en wethouders er zorg voor dat op ten minste één daartoe ter beschikking gestelde plaats binnen de gemeente of binnen de gemeenten waarmee wordt samengewerkt, in voldoende mate gelegenheid wordt geboden om huishoudelijke afvalstoffen achter te laten.
+In gevallen als bedoeld in [artikel 10.26, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.26&z=2009-11-04&g=2009-11-04), dragen de gemeenteraad en burgemeester en wethouders er zorg voor dat op ten minste één daartoe ter beschikking gestelde plaats binnen de gemeente of binnen de gemeenten waarmee wordt samengewerkt, in voldoende mate gelegenheid wordt geboden om huishoudelijke afvalstoffen achter te laten.
 
 ##### Artikel 10.28
 
@@ -2515,7 +2517,7 @@ In gevallen als bedoeld in [artikel 10.26, eerste lid, onder b en c](https://wet
 
 2. Bij de maatregel kan worden aangegeven op welke wijze de gemeenteraad en burgemeester en wethouders er zorg voor dragen dat plaatsen als bedoeld in het eerste lid, binnen de gemeente in voldoende mate beschikbaar zijn.
 
-3. Bij de maatregel kan worden bepaald dat [de artikelen 10.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.21&z=2009-09-10&g=2009-09-10), en [10.24, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.24&z=2009-09-10&g=2009-09-10), niet van toepassing zijn met betrekking tot de inzameling van de bestanddelen van huishoudelijke afvalstoffen, die zijn aangewezen krachtens het eerste lid.
+3. Bij de maatregel kan worden bepaald dat [de artikelen 10.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.21&z=2009-11-04&g=2009-11-04), en [10.24, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.24&z=2009-11-04&g=2009-11-04), niet van toepassing zijn met betrekking tot de inzameling van de bestanddelen van huishoudelijke afvalstoffen, die zijn aangewezen krachtens het eerste lid.
 
 ##### Artikel 10.29
 
@@ -2545,11 +2547,11 @@ In gevallen als bedoeld in [artikel 10.26, eerste lid, onder b en c](https://wet
 
 ##### Artikel 10.31
 
-[De artikelen 10.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.21&z=2009-09-10&g=2009-09-10) tot en met [10.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.29&z=2009-09-10&g=2009-09-10) en titel 10.6 zijn niet van toepassing op het brengen van afvalwater en andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater, het inzamelen en transporteren van afvalwater in een zodanige voorziening en het vanuit een zodanige voorziening afgeven van afvalwater aan een persoon die een zuiveringstechnisch werk beheert.
+[De artikelen 10.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.21&z=2009-11-04&g=2009-11-04) tot en met [10.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.29&z=2009-11-04&g=2009-11-04) en titel 10.6 zijn niet van toepassing op het brengen van afvalwater en andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater, het inzamelen en transporteren van afvalwater in een zodanige voorziening en het vanuit een zodanige voorziening afgeven van afvalwater aan een persoon die een zuiveringstechnisch werk beheert.
 
 ##### Artikel 10.32
 
-Bij of krachtens algemene maatregel van bestuur kunnen in het belang van de bescherming van het milieu regels worden gesteld met betrekking tot het brengen van afvalwater en andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater, anders dan vanuit een inrichting. [Artikel 8.42](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.42&z=2009-09-10&g=2009-09-10) is van overeenkomstige toepassing.
+Bij of krachtens algemene maatregel van bestuur kunnen in het belang van de bescherming van het milieu regels worden gesteld met betrekking tot het brengen van afvalwater en andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater, anders dan vanuit een inrichting. [Artikel 8.42](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.42&z=2009-11-04&g=2009-11-04) is van overeenkomstige toepassing.
 
 ##### Artikel 10.33
 
@@ -2597,29 +2599,29 @@ Vervallen
 
 2. Het verbod geldt niet indien bedrijfsafvalstoffen of gevaarlijke afvalstoffen worden afgegeven aan een persoon:
 
-- a. die krachtens [artikel 10.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.45&z=2009-09-10&g=2009-09-10) of [10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-09-10&g=2009-09-10) bevoegd is de betrokken afvalstoffen in te zamelen;
+- a. die krachtens [artikel 10.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.45&z=2009-11-04&g=2009-11-04) of [10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-11-04&g=2009-11-04) bevoegd is de betrokken afvalstoffen in te zamelen;
 
 - b. die bevoegd is de betrokken afvalstoffen nuttig toe te passen of te verwijderen:
 
-- 1°. krachtens [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-09-10&g=2009-09-10);
+- 1°. krachtens [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-11-04&g=2009-11-04);
 
-- 2°. op grond van een krachtens [artikel 10.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-09-10&g=2009-09-10), verleende vrijstelling of een ontheffing krachtens [artikel 10.63, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.8&artikel=10.63&z=2009-09-10&g=2009-09-10), van het verbod, bedoeld in [artikel 10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-09-10&g=2009-09-10);
+- 2°. op grond van een krachtens [artikel 10.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-11-04&g=2009-11-04), verleende vrijstelling of een ontheffing krachtens [artikel 10.63, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.8&artikel=10.63&z=2009-11-04&g=2009-11-04), van het verbod, bedoeld in [artikel 10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-11-04&g=2009-11-04);
 
-- 3°. krachtens [artikel 10.52](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.52&z=2009-09-10&g=2009-09-10);
+- 3°. krachtens [artikel 10.52](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.52&z=2009-11-04&g=2009-11-04);
 
-- 4°. op grond van een krachtens [artikel 10.54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-09-10&g=2009-09-10), verleende vrijstelling of een ontheffing krachtens [artikel 10.63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.8&artikel=10.63&z=2009-09-10&g=2009-09-10), van het verbod, bedoeld in [artikel 10.54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-09-10&g=2009-09-10);
+- 4°. op grond van een krachtens [artikel 10.54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-11-04&g=2009-11-04), verleende vrijstelling of een ontheffing krachtens [artikel 10.63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.8&artikel=10.63&z=2009-11-04&g=2009-11-04), van het verbod, bedoeld in [artikel 10.54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-11-04&g=2009-11-04);
 
-- c. die krachtens [artikel 10.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.50&z=2009-09-10&g=2009-09-10) is vrijgesteld van de verplichtingen, gesteld bij of krachtens de [artikelen 10.38](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-09-10&g=2009-09-10) tot en met [10.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.40&z=2009-09-10&g=2009-09-10), [10.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.45&z=2009-09-10&g=2009-09-10), [10.46](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.46&z=2009-09-10&g=2009-09-10) en [10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-09-10&g=2009-09-10);
+- c. die krachtens [artikel 10.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.50&z=2009-11-04&g=2009-11-04) is vrijgesteld van de verplichtingen, gesteld bij of krachtens de [artikelen 10.38](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-11-04&g=2009-11-04) tot en met [10.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.40&z=2009-11-04&g=2009-11-04), [10.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.45&z=2009-11-04&g=2009-11-04), [10.46](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.46&z=2009-11-04&g=2009-11-04) en [10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-11-04&g=2009-11-04);
 
 - d. die op grond van een krachtens de [Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975) verleende ontheffing bevoegd is de betrokken afvalstoffen te lozen, dan wel aan boord van een vaartuig of luchtvaartuig te nemen met het oogmerk ze te lozen;
 
 - e. die krachtens de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682) bevoegd is afvalstoffen van de betrokken aard en samenstelling te brengen in oppervlaktewateren;
 
-- f. die in een ander land dan Nederland is gevestigd, en die overeenkomstig de EG-verordening overbrenging van afvalstoffen en [titel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.7&z=2009-09-10&g=2009-09-10) die afvalstoffen naar dat land brengt.
+- f. die in een ander land dan Nederland is gevestigd, en die overeenkomstig de EG-verordening overbrenging van afvalstoffen en [titel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.7&z=2009-11-04&g=2009-11-04) die afvalstoffen naar dat land brengt.
 
 ##### Artikel 10.38
 
-1. Degene die zich van bedrijfsafvalstoffen of gevaarlijke afvalstoffen ontdoet door deze af te geven aan een persoon als bedoeld in [artikel 10.37, tweede lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.37&z=2009-09-10&g=2009-09-10), registreert met betrekking tot zodanige afgifte:
+1. Degene die zich van bedrijfsafvalstoffen of gevaarlijke afvalstoffen ontdoet door deze af te geven aan een persoon als bedoeld in [artikel 10.37, tweede lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.37&z=2009-11-04&g=2009-11-04), registreert met betrekking tot zodanige afgifte:
 
 - a. de datum van afgifte;
 
@@ -2635,7 +2637,7 @@ Vervallen
 
 2. De geregistreerde gegevens worden tenminste vijf jaar bewaard en gedurende die periode ter beschikking gehouden van degenen die zijn belast met het toezicht dan wel de douanecontrole op de naleving van de wet.
 
-3. Een persoon als bedoeld in [artikel 10.37, tweede lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.37&z=2009-09-10&g=2009-09-10), die zich van bedrijfsafvalstoffen of gevaarlijke afvalstoffen ontdoet door deze af te geven aan een andere zodanige persoon, meldt met betrekking tot een zodanige afgifte de in het eerste lid bedoelde gegevens aan een door Onze Minister aan te wijzen instantie.
+3. Een persoon als bedoeld in [artikel 10.37, tweede lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.37&z=2009-11-04&g=2009-11-04), die zich van bedrijfsafvalstoffen of gevaarlijke afvalstoffen ontdoet door deze af te geven aan een andere zodanige persoon, meldt met betrekking tot een zodanige afgifte de in het eerste lid bedoelde gegevens aan een door Onze Minister aan te wijzen instantie.
 
 #### § 10.5.4. Het in-, uit- en doorvoeren van gevaarlijke afvalstoffen
 
@@ -2659,9 +2661,9 @@ Vervallen
 
 ##### Artikel 10.43
 
-1. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot bedrijfsafvalstoffen en gevaarlijke afvalstoffen categorieën van gevallen worden aangewezen waarvoor verplichtingen als bedoeld in de [artikelen 10.38 tot en met 10.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-09-10&g=2009-09-10) niet gelden.
+1. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot bedrijfsafvalstoffen en gevaarlijke afvalstoffen categorieën van gevallen worden aangewezen waarvoor verplichtingen als bedoeld in de [artikelen 10.38 tot en met 10.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-11-04&g=2009-11-04) niet gelden.
 
-2. Indien toepassing wordt gegeven aan het eerste lid, wordt bij of krachtens de algemene maatregel van bestuur aan personen als bedoeld in [artikel 10.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.40&z=2009-09-10&g=2009-09-10), de verplichting opgelegd de in de betrokken bepalingen bedoelde gegevens te registreren op een daarbij aan te geven wijze.
+2. Indien toepassing wordt gegeven aan het eerste lid, wordt bij of krachtens de algemene maatregel van bestuur aan personen als bedoeld in [artikel 10.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.40&z=2009-11-04&g=2009-11-04), de verplichting opgelegd de in de betrokken bepalingen bedoelde gegevens te registreren op een daarbij aan te geven wijze.
 
 ##### Artikel 10.43a
 
@@ -2723,7 +2725,7 @@ Op een kennisgeving als bedoeld in de EEG-verordening overbrenging van afvalstof
 
 - a. zonder vermelding op een lijst van inzamelaars, of
 
-- b. ingeval de afvalstoffen tot de krachtens [artikel 10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-09-10&g=2009-09-10) aangewezen categorieën behoren, zonder vergunning van Onze Minister.
+- b. ingeval de afvalstoffen tot de krachtens [artikel 10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-11-04&g=2009-11-04) aangewezen categorieën behoren, zonder vergunning van Onze Minister.
 
 2. Bij of krachtens algemene maatregel van bestuur kan, indien het belang van de bescherming van het milieu zich daartegen niet verzet, voor daarbij aangegeven categorieën van gevallen vrijstelling worden verleend van het verbod, bedoeld in het eerste lid.
 
@@ -2739,7 +2741,7 @@ Op een kennisgeving als bedoeld in de EEG-verordening overbrenging van afvalstof
 
 2. Tot de regels behoren:
 
-- a. regels omtrent de wijze waarop een inzamelaar zich bij de krachtens [artikel 10.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.45&z=2009-09-10&g=2009-09-10), aangewezen instantie meldt en de gegevens die daarbij worden overgelegd;
+- a. regels omtrent de wijze waarop een inzamelaar zich bij de krachtens [artikel 10.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.45&z=2009-11-04&g=2009-11-04), aangewezen instantie meldt en de gegevens die daarbij worden overgelegd;
 
 - b. regels inhoudende de verplichting een wijziging te melden in de gegevens welke bij de melding zijn overgelegd;
 
@@ -2817,7 +2819,7 @@ Vervallen
 
 ##### Artikel 13.1
 
-1. Bij de toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) op de voorbereiding van beschikkingen krachtens de in het tweede lid genoemde wetten of wettelijke bepalingen, wordt [afdeling 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&z=2009-09-10&g=2009-09-10) in acht genomen, indien dat bij of krachtens de betrokken wet is bepaald.
+1. Bij de toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) op de voorbereiding van beschikkingen krachtens de in het tweede lid genoemde wetten of wettelijke bepalingen, wordt [afdeling 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&z=2009-11-04&g=2009-11-04) in acht genomen, indien dat bij of krachtens de betrokken wet is bepaald.
 
 2. De in het eerste lid bedoelde wetten of wettelijke bepalingen zijn:
 
@@ -2847,7 +2849,7 @@ de [Wet bescherming Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBR0009449)
 
 ##### Artikel 13.2
 
-Indien bij de voorbereiding van de beslissing op de aanvraag om een vergunning of een ontheffing een milieu-effectrapport moet worden gemaakt, wordt van die aanvraag kennisgegeven uiterlijk tien weken na ontvangst van de aanvraag. Met betrekking tot die kennisgeving zijn de [artikelen 3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:11), [3:12, eerste en tweede lid, en derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12), en [3:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:14) en [de artikelen 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.4&z=2009-09-10&g=2009-09-10) en [13.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.6&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+Indien bij de voorbereiding van de beslissing op de aanvraag om een vergunning of een ontheffing een milieu-effectrapport moet worden gemaakt, wordt van die aanvraag kennisgegeven uiterlijk tien weken na ontvangst van de aanvraag. Met betrekking tot die kennisgeving zijn de [artikelen 3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:11), [3:12, eerste en tweede lid, en derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12), en [3:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:14) en [de artikelen 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.4&z=2009-11-04&g=2009-11-04) en [13.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.6&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
 ##### Artikel 13.3
 
@@ -2863,7 +2865,7 @@ Vervallen
 
 ##### Artikel 13.6
 
-Indien de aanvrager daarom heeft verzocht, stelt het bevoegd gezag hem, voordat het stukken ter inzage legt die niet van zijn kant zijn ingebracht, in de gelegenheid die stukken in te zien met het oog op de toepassing van de [artikelen 19.3 tot en met 19.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.3&z=2009-09-10&g=2009-09-10). Tot de in de eerste volzin bedoelde stukken behoren niet de verslagen, gemaakt overeenkomstig [artikel 3:17, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:17), en afschriften van zienswijzen, door anderen dan betrokken bestuursorganen ingebracht overeenkomstig [artikel 3:15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15). [Artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) is niet van toepassing.
+Indien de aanvrager daarom heeft verzocht, stelt het bevoegd gezag hem, voordat het stukken ter inzage legt die niet van zijn kant zijn ingebracht, in de gelegenheid die stukken in te zien met het oog op de toepassing van de [artikelen 19.3 tot en met 19.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.3&z=2009-11-04&g=2009-11-04). Tot de in de eerste volzin bedoelde stukken behoren niet de verslagen, gemaakt overeenkomstig [artikel 3:17, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:17), en afschriften van zienswijzen, door anderen dan betrokken bestuursorganen ingebracht overeenkomstig [artikel 3:15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15). [Artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) is niet van toepassing.
 
 ##### Artikel 13.7
 
@@ -2879,7 +2881,7 @@ Indien een beslissing op een aanvraag om een vergunning of ontheffing of een bes
 
 ##### Artikel 13.10
 
-In gevallen waarin Onze Minister bevoegd is een vergunning of ontheffing te verlenen, kan hij in overeenstemming met Onze betrokken Minister in het belang van de veiligheid van de Staat de toepassing van [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [artikel 3:44 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:44) en van de [artikelen 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-09-10&g=2009-09-10), [8.30, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.30&z=2009-09-10&g=2009-09-10), en [8.31](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.31&z=2009-09-10&g=2009-09-10) geheel of gedeeltelijk achterwege laten, voor zover dat belang zulks vereist.
+In gevallen waarin Onze Minister bevoegd is een vergunning of ontheffing te verlenen, kan hij in overeenstemming met Onze betrokken Minister in het belang van de veiligheid van de Staat de toepassing van [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [artikel 3:44 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:44) en van de [artikelen 8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-11-04&g=2009-11-04), [8.30, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.30&z=2009-11-04&g=2009-11-04), en [8.31](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.31&z=2009-11-04&g=2009-11-04) geheel of gedeeltelijk achterwege laten, voor zover dat belang zulks vereist.
 
 ##### Artikel 13.11
 
@@ -2889,7 +2891,7 @@ Het bevoegd gezag kan bepalen dat [afdeling 3.4 van de Algemene wet bestuursrech
 
 - b. betrekking heeft op het beheer van andere dan gevaarlijke afvalstoffen waarvan het beheer door een ongewone omstandigheid en in verband met de hoeveelheid waarin die afvalstoffen vrijkomen, op korte termijn nodig is;
 
-- c. strekt tot uitvoering van een verplichting, opgelegd krachtens [artikel 17.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.4&z=2009-09-10&g=2009-09-10)
+- c. strekt tot uitvoering van een verplichting, opgelegd krachtens [artikel 17.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.4&z=2009-11-04&g=2009-11-04)
 
 ##### Artikel 10.16a
 
@@ -3003,7 +3005,7 @@ Vervallen
 
 ##### Artikel 14.2
 
-1. Ten aanzien van aanvragen als bedoeld in de [aanhef van artikel 14.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.1&z=2009-09-10&g=2009-09-10), die binnen een tijdsverloop van zes weken zijn gedaan, kunnen gedeputeerde staten, indien ten minste één van die aanvragen tot hen is gericht, bepalen dat als datum van ontvangst van die aanvragen geldt de datum waarop de laatste daarvan is ontvangen. Indien het ontwerp van de beschikking op een aanvraag al overeenkomstig [artikel 3:13 eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:13) is toegezonden, blijft de eerste volzin met betrekking tot die aanvraag buiten toepassing.
+1. Ten aanzien van aanvragen als bedoeld in de [aanhef van artikel 14.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.1&z=2009-11-04&g=2009-11-04), die binnen een tijdsverloop van zes weken zijn gedaan, kunnen gedeputeerde staten, indien ten minste één van die aanvragen tot hen is gericht, bepalen dat als datum van ontvangst van die aanvragen geldt de datum waarop de laatste daarvan is ontvangen. Indien het ontwerp van de beschikking op een aanvraag al overeenkomstig [artikel 3:13 eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:13) is toegezonden, blijft de eerste volzin met betrekking tot die aanvraag buiten toepassing.
 
 2. Gedeputeerde staten zijn gehouden ten aanzien van aanvragen als bedoeld in het eerste lid een bepaling als daar bedoeld te stellen wanneer een ander bestuursorgaan waartoe één of meer der aanvragen is gericht, dan wel de aanvrager of een der aanvragers hun daarom verzoekt. Een verzoek wordt schriftelijk bij gedeputeerde staten ingediend.
 
@@ -3015,7 +3017,7 @@ Vervallen
 
 2. Zij dragen er daarnaast ten minste zorg voor dat zoveel mogelijk:
 
-- a. ten aanzien van de ontwerpen van de betrokken beschikkingen gezamenlijk toepassing wordt gegeven aan de [artikelen 3:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:11), en [3:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12) en [artikel 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.4&z=2009-09-10&g=2009-09-10);
+- a. ten aanzien van de ontwerpen van de betrokken beschikkingen gezamenlijk toepassing wordt gegeven aan de [artikelen 3:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:11), en [3:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12) en [artikel 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.4&z=2009-11-04&g=2009-11-04);
 
 - b. de gelegenheid tot het mondeling naar voren brengen van zienswijzen overeenkomstig [artikel 3:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) wordt gegeven met betrekking tot de ontwerpen van de betrokken beschikkingen te zamen;
 
@@ -3023,7 +3025,7 @@ Vervallen
 
 ##### Artikel 14.4
 
-Gedeputeerde staten kunnen van de bestuursorganen die bevoegd zijn te beslissen op de aanvragen waarover de in [artikel 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.1&z=2009-09-10&g=2009-09-10) bedoelde coördinatie zich uitstrekt, alsmede van de bij de beslissingen op die aanvragen betrokken adviseurs de medewerking vorderen, die voor het welslagen van de coördinatie nodig is. Die bestuursorganen en adviseurs zijn gehouden de van hen gevorderde medewerking te verlenen.
+Gedeputeerde staten kunnen van de bestuursorganen die bevoegd zijn te beslissen op de aanvragen waarover de in [artikel 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.1&z=2009-11-04&g=2009-11-04) bedoelde coördinatie zich uitstrekt, alsmede van de bij de beslissingen op die aanvragen betrokken adviseurs de medewerking vorderen, die voor het welslagen van de coördinatie nodig is. Die bestuursorganen en adviseurs zijn gehouden de van hen gevorderde medewerking te verlenen.
 
 #### § 10.6.4. Verdere bepalingen omtrent het beheer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
 
@@ -3037,7 +3039,7 @@ Gedeputeerde staten kunnen van de bestuursorganen die bevoegd zijn te beslissen 
 
 - a. indien de bevoegdheid tot het nemen van de in het tweede lid bedoelde besluiten berust bij één bestuursorgaan: door dat orgaan;
 
-- b. indien die besluiten ingevolge wettelijk voorschrift op aanvraag worden genomen en de betrokken aanvragen ingevolge [artikel 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.1&z=2009-09-10&g=2009-09-10) gecoördineerd kunnen worden voorbereid of behandeld: door gedeputeerde staten van de betrokken provincie;
+- b. indien die besluiten ingevolge wettelijk voorschrift op aanvraag worden genomen en de betrokken aanvragen ingevolge [artikel 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.1&z=2009-11-04&g=2009-11-04) gecoördineerd kunnen worden voorbereid of behandeld: door gedeputeerde staten van de betrokken provincie;
 
 - c. in andere gevallen: door de bestuursorganen die bevoegd zijn tot het nemen van de betrokken besluiten, te zamen.
 
@@ -3045,11 +3047,11 @@ Gedeputeerde staten kunnen van de bestuursorganen die bevoegd zijn te beslissen 
 
 ##### Artikel 14.6
 
-1. Degene die een activiteit onderneemt in een geval als bedoeld in [artikel 14.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-09-10&g=2009-09-10), kan tegelijkertijd met een mededeling als bedoeld in [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10), verzoeken aan [artikel 14.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-09-10&g=2009-09-10), toepassing te geven.
+1. Degene die een activiteit onderneemt in een geval als bedoeld in [artikel 14.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-11-04&g=2009-11-04), kan tegelijkertijd met een mededeling als bedoeld in [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04), verzoeken aan [artikel 14.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-11-04&g=2009-11-04), toepassing te geven.
 
-2. In gevallen als bedoeld in [artikel 14.5, derde lid, onder **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-09-10&g=2009-09-10), kan een zodanig verzoek ook worden gedaan door een bestuursorgaan dat bevoegd is tot het nemen van een besluit als bedoeld in het tweede lid van dat artikel. Het wordt ingediend uiterlijk twee weken na de dag waarop met betrekking tot het milieu-effectrapport de kennisgeving krachtens of met overeenkomstige toepassing van [artikel 7.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10), heeft plaatsgevonden.
+2. In gevallen als bedoeld in [artikel 14.5, derde lid, onder **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-11-04&g=2009-11-04), kan een zodanig verzoek ook worden gedaan door een bestuursorgaan dat bevoegd is tot het nemen van een besluit als bedoeld in het tweede lid van dat artikel. Het wordt ingediend uiterlijk twee weken na de dag waarop met betrekking tot het milieu-effectrapport de kennisgeving krachtens of met overeenkomstige toepassing van [artikel 7.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04), heeft plaatsgevonden.
 
-3. Het verzoek - waarin alle besluiten vermeld zijn, waarop het betrekking heeft - wordt schriftelijk ingediend bij het orgaan dat erover moet beslissen. In een geval als bedoeld in [artikel 14.5, derde lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-09-10&g=2009-09-10), wordt het verzoek ingediend bij een der bevoegde bestuursorganen; dat orgaan zendt het onverwijld aan de andere bevoegde organen.
+3. Het verzoek - waarin alle besluiten vermeld zijn, waarop het betrekking heeft - wordt schriftelijk ingediend bij het orgaan dat erover moet beslissen. In een geval als bedoeld in [artikel 14.5, derde lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-11-04&g=2009-11-04), wordt het verzoek ingediend bij een der bevoegde bestuursorganen; dat orgaan zendt het onverwijld aan de andere bevoegde organen.
 
 4. Het orgaan waarbij het verzoek is ingediend, tekent de datum van ontvangst aan op het geschrift waarbij het verzoek is ingediend, en zendt de verzoeker een bewijs van ontvangst, waarin die datum is vermeld.
 
@@ -3063,55 +3065,55 @@ Gedeputeerde staten kunnen van de bestuursorganen die bevoegd zijn te beslissen 
 
 ##### Artikel 14.8
 
-In gevallen als bedoeld in [artikel 14.5, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-09-10&g=2009-09-10), wordt bij de beslissing op het verzoek uit de bevoegde bestuursorganen het orgaan aangewezen dat met de in [artikel 14.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.9&z=2009-09-10&g=2009-09-10), bedoelde coördinatie wordt belast.
+In gevallen als bedoeld in [artikel 14.5, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-11-04&g=2009-11-04), wordt bij de beslissing op het verzoek uit de bevoegde bestuursorganen het orgaan aangewezen dat met de in [artikel 14.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.9&z=2009-11-04&g=2009-11-04), bedoelde coördinatie wordt belast.
 
 ##### Artikel 14.9
 
-1. Indien op grond van [artikel 14.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-09-10&g=2009-09-10), een milieu-effectrapport moet worden gemaakt, dan wel overeenkomstig [artikel 14.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-09-10&g=2009-09-10), is besloten tot het maken van één milieu-effectrapport, wordt dat rapport gecoördineerd voorbereid en behandeld.
+1. Indien op grond van [artikel 14.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-11-04&g=2009-11-04), een milieu-effectrapport moet worden gemaakt, dan wel overeenkomstig [artikel 14.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.5&z=2009-11-04&g=2009-11-04), is besloten tot het maken van één milieu-effectrapport, wordt dat rapport gecoördineerd voorbereid en behandeld.
 
 2. Met de coördinatie is belast:
 
 - a. indien de bevoegdheid tot het nemen van de betrokken besluiten berust bij één bestuursorgaan: dat orgaan;
 
-- b. indien die besluiten ingevolge wettelijk voorschrift op aanvraag worden genomen en de betrokken aanvragen ingevolge [artikel 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.1&z=2009-09-10&g=2009-09-10) gecoördineerd kunnen worden voorbereid of behandeld: gedeputeerde staten van de betrokken provincie;
+- b. indien die besluiten ingevolge wettelijk voorschrift op aanvraag worden genomen en de betrokken aanvragen ingevolge [artikel 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.1&z=2009-11-04&g=2009-11-04) gecoördineerd kunnen worden voorbereid of behandeld: gedeputeerde staten van de betrokken provincie;
 
-- c. in andere gevallen: het krachtens [artikel 14.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.8&z=2009-09-10&g=2009-09-10) daartoe aangewezen bestuursorgaan.
+- c. in andere gevallen: het krachtens [artikel 14.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.8&z=2009-11-04&g=2009-11-04) daartoe aangewezen bestuursorgaan.
 
 ##### Artikel 14.10
 
-1. Het met de coördinatie belaste orgaan bevordert dat bij het geven van de in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-09-10&g=2009-09-10) bedoelde richtlijnen rekening wordt gehouden met de onderlinge samenhang tussen die richtlijnen en dat bij het nemen van de besluiten bij de voorbereiding waarvan het milieu-effectrapport wordt gemaakt, rekening wordt gehouden met de onderlinge samenhang tussen die besluiten.
+1. Het met de coördinatie belaste orgaan bevordert dat bij het geven van de in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-11-04&g=2009-11-04) bedoelde richtlijnen rekening wordt gehouden met de onderlinge samenhang tussen die richtlijnen en dat bij het nemen van de besluiten bij de voorbereiding waarvan het milieu-effectrapport wordt gemaakt, rekening wordt gehouden met de onderlinge samenhang tussen die besluiten.
 
 2. Het met de coördinatie belaste orgaan draagt er in ieder geval zoveel mogelijk zorg voor dat:
 
-- a. van de mededelingen van de voornemens tot het indienen van verzoeken, als bedoeld in [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10), alsmede van de voornemens tot het nemen van besluiten, als bedoeld in [artikel 7.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.13&z=2009-09-10&g=2009-09-10), te zamen overeenkomstig [artikel 7.12, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10), wordt kennisgegeven;
+- a. van de mededelingen van de voornemens tot het indienen van verzoeken, als bedoeld in [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04), alsmede van de voornemens tot het nemen van besluiten, als bedoeld in [artikel 7.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.13&z=2009-11-04&g=2009-11-04), te zamen overeenkomstig [artikel 7.12, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04), wordt kennisgegeven;
 
 - b. de krachtens artikel 7.15 te geven richtlijnen te zamen worden toegezonden aan degene die het milieu-effectrapport maakt;
 
-- c. het milieu-effectrapport wordt toegezonden aan elk der bevoegde organen en overeenkomstig [artikel 7.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-09-10&g=2009-09-10), aan de adviseurs en de Commissie voor de milieu-effectrapportage;
+- c. het milieu-effectrapport wordt toegezonden aan elk der bevoegde organen en overeenkomstig [artikel 7.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-11-04&g=2009-11-04), aan de adviseurs en de Commissie voor de milieu-effectrapportage;
 
-- d. van het milieu-effectrapport overeenkomstig [artikel 7.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-09-10&g=2009-09-10), wordt kennisgegeven;
+- d. van het milieu-effectrapport overeenkomstig [artikel 7.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-11-04&g=2009-11-04), wordt kennisgegeven;
 
-- e. overigens toepassing wordt gegeven aan [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-09-10&g=2009-09-10) en aan [artikel 7.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-09-10&g=2009-09-10).
+- e. overigens toepassing wordt gegeven aan [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-11-04&g=2009-11-04) en aan [artikel 7.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-11-04&g=2009-11-04).
 
-3. [Artikel 14.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.4&z=2009-09-10&g=2009-09-10) is van overeenkomstige toepassing.
+3. [Artikel 14.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.4&z=2009-11-04&g=2009-11-04) is van overeenkomstige toepassing.
 
 ##### Artikel 14.11
 
 1. In gevallen waarin een orgaan met de coördinatie van de voorbereiding en behandeling van een milieu-effectrapport is belast, kan:
 
-- a. in afwijking van [artikel 7.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.17&z=2009-09-10&g=2009-09-10), het rapport aan dat orgaan worden overgelegd;
+- a. in afwijking van [artikel 7.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.17&z=2009-11-04&g=2009-11-04), het rapport aan dat orgaan worden overgelegd;
 
 - b. de Commissie voor de milieu-effectrapportage en kunnen de adviseurs hun adviezen over het geven van richtlijnen inzake de inhoud van het rapport en over het rapport bij dat orgaan indienen;
 
-- c. degene die gebruik maakt van de overeenkomstig [artikel 7.14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.14&z=2009-09-10&g=2009-09-10), geboden gelegenheid zijn zienswijze naar voren te brengen over het geven van richtlijnen inzake de inhoud van het rapport, die zienswijze bij dat orgaan naar voren te brengen;
+- c. degene die gebruik maakt van de overeenkomstig [artikel 7.14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.14&z=2009-11-04&g=2009-11-04), geboden gelegenheid zijn zienswijze naar voren te brengen over het geven van richtlijnen inzake de inhoud van het rapport, die zienswijze bij dat orgaan naar voren te brengen;
 
-- d. degene die gebruik maakt van de overeenkomstig [artikel 3:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) juncto [artikel 7.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-09-10&g=2009-09-10), geboden gelegenheid zijn zienswijze naar voren te brengen over het rapport, die zienswijze bij dat orgaan naar voren te brengen.
+- d. degene die gebruik maakt van de overeenkomstig [artikel 3:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) juncto [artikel 7.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-11-04&g=2009-11-04), geboden gelegenheid zijn zienswijze naar voren te brengen over het rapport, die zienswijze bij dat orgaan naar voren te brengen.
 
 2. Indien stukken met een inhoud als bedoeld in het eerste lid worden overgelegd onderscheidenlijk ingediend bij een ander bevoegd gezag, zendt het deze onverwijld aan het met de coördinatie belaste orgaan.
 
 ##### Artikel 14.12
 
-1. Ingeval ter zake van een activiteit een besluit is aangewezen, bij de voorbereiding waarvan op grond van het bij of krachtens deze wet bepaalde een milieu-effectrapport moet worden gemaakt, en ter zake van die activiteit één of meer besluiten moeten worden genomen ten aanzien waarvan [artikel 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.1&z=2009-09-10&g=2009-09-10) niet kan worden toegepast, kan op verzoek van degene die de activiteit onderneemt, worden besloten tot een gecoördineerde voorbereiding van deze besluiten.
+1. Ingeval ter zake van een activiteit een besluit is aangewezen, bij de voorbereiding waarvan op grond van het bij of krachtens deze wet bepaalde een milieu-effectrapport moet worden gemaakt, en ter zake van die activiteit één of meer besluiten moeten worden genomen ten aanzien waarvan [artikel 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.1&z=2009-11-04&g=2009-11-04) niet kan worden toegepast, kan op verzoek van degene die de activiteit onderneemt, worden besloten tot een gecoördineerde voorbereiding van deze besluiten.
 
 2. Een besluit krachtens het eerste lid wordt genomen:
 
@@ -3121,31 +3123,31 @@ In gevallen als bedoeld in [artikel 14.5, derde lid, onder c](https://wetten.ove
 
 ##### Artikel 14.13
 
-1. Een verzoek als bedoeld in [artikel 14.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.12&z=2009-09-10&g=2009-09-10), wordt schriftelijk ingediend gelijktijdig met de mededeling, bedoeld in [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10). Het verzoek vermeldt alle besluiten waarop het betrekking heeft.
+1. Een verzoek als bedoeld in [artikel 14.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.12&z=2009-11-04&g=2009-11-04), wordt schriftelijk ingediend gelijktijdig met de mededeling, bedoeld in [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04). Het verzoek vermeldt alle besluiten waarop het betrekking heeft.
 
-2. [Artikel 7.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing. Het bevoegd gezag zendt onverwijld een afschrift van het verzoek aan de andere bevoegde organen.
+2. [Artikel 7.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing. Het bevoegd gezag zendt onverwijld een afschrift van het verzoek aan de andere bevoegde organen.
 
-3. Een verzoek als bedoeld in [artikel 14.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.12&z=2009-09-10&g=2009-09-10), wordt alleen ingewilligd, indien het bevoegd gezag en de andere bevoegde organen daarmee instemmen. Artikel 14.7, tweede en derde lid, is van overeenkomstige toepassing.
+3. Een verzoek als bedoeld in [artikel 14.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.12&z=2009-11-04&g=2009-11-04), wordt alleen ingewilligd, indien het bevoegd gezag en de andere bevoegde organen daarmee instemmen. Artikel 14.7, tweede en derde lid, is van overeenkomstige toepassing.
 
 ##### Artikel 14.14
 
-1. Indien een verzoek als bedoeld in [artikel 14.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.12&z=2009-09-10&g=2009-09-10), wordt ingewilligd, treedt het orgaan dat bevoegd is tot het nemen van het besluit bij de voorbereiding waarvan het milieu-effectrapport moet worden gemaakt, op als het met de coördinatie belaste orgaan.
+1. Indien een verzoek als bedoeld in [artikel 14.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&artikel=14.12&z=2009-11-04&g=2009-11-04), wordt ingewilligd, treedt het orgaan dat bevoegd is tot het nemen van het besluit bij de voorbereiding waarvan het milieu-effectrapport moet worden gemaakt, op als het met de coördinatie belaste orgaan.
 
-De overige betrokken organen worden voor wat betreft de toepassing van de [artikelen 7.12 tot en met 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-09-10&g=2009-09-10) en [7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-09-10&g=2009-09-10) aangemerkt als adviseur.
+De overige betrokken organen worden voor wat betreft de toepassing van de [artikelen 7.12 tot en met 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.12&z=2009-11-04&g=2009-11-04) en [7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-11-04&g=2009-11-04) aangemerkt als adviseur.
 
 2. Indien ter zake van de activiteit waarop het verzoek betrekking heeft, meer dan één besluit moet worden genomen, bij de voorbereiding waarvan op grond van het bij of krachtens deze wet bepaalde een milieu-effectrapport moet worden gemaakt, wordt bij de beslissing op het verzoek uit de bestuursorganen die bevoegd zijn tot het nemen van die besluiten, het met de coördinatie belaste orgaan aangewezen.
 
 3. Het met de coördinatie belaste orgaan draagt er in ieder geval zo veel mogelijk zorg voor dat:
 
-- a. bij het geven van de in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-09-10&g=2009-09-10) bedoelde richtlijnen rekening wordt gehouden met de onderlinge samenhang van de besluiten waarop het verzoek betrekking heeft;
+- a. bij het geven van de in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&artikel=7.15&z=2009-11-04&g=2009-11-04) bedoelde richtlijnen rekening wordt gehouden met de onderlinge samenhang van de besluiten waarop het verzoek betrekking heeft;
 
 - b. tussen de bevoegde bestuursorganen tijdig overleg wordt gevoerd, teneinde een zo goed mogelijke afstemming tussen de te nemen besluiten te bevorderen.
 
-4. [Artikel 14.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.4&z=2009-09-10&g=2009-09-10) is van overeenkomstige toepassing.
+4. [Artikel 14.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&artikel=14.4&z=2009-11-04&g=2009-11-04) is van overeenkomstige toepassing.
 
 ##### Artikel 14.15
 
-Met betrekking tot de termijn waarbinnen de betrokken besluiten moeten worden genomen, is [artikel 7.34](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.34&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+Met betrekking tot de termijn waarbinnen de betrokken besluiten moeten worden genomen, is [artikel 7.34](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.34&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
 ##### Artikel 14.16
 
@@ -3175,7 +3177,7 @@ Vervallen
 
 Vervallen
 
-#### § 14.2. Coördinatie bij het maken van een milieu-effectrapport
+#### § 10.6.3. De inzameling van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
 
 ##### Artikel 15.5
 
@@ -3281,11 +3283,11 @@ Vervallen
 
 1. Indien degene tot wie een beschikking is gericht krachtens:
 
-- a. de [artikelen 8.1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10), [8.1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10), juncto [8.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.21&z=2009-09-10&g=2009-09-10), in gevallen waarin [artikel 8.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.21&z=2009-09-10&g=2009-09-10), niet van toepassing is, [8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10), juncto [8.1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10), [8.1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10), [8.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.21&z=2009-09-10&g=2009-09-10), in gevallen waarin [artikel 8.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.21&z=2009-09-10&g=2009-09-10), niet van toepassing is, [8.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-09-10&g=2009-09-10), [8.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.23&z=2009-09-10&g=2009-09-10), [8.25, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.25&z=2009-09-10&g=2009-09-10), [8.34](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.34&z=2009-09-10&g=2009-09-10) of [8.39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.3&artikel=8.39&z=2009-09-10&g=2009-09-10),
+- a. de [artikelen 8.1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04), [8.1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04), juncto [8.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.21&z=2009-11-04&g=2009-11-04), in gevallen waarin [artikel 8.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.21&z=2009-11-04&g=2009-11-04), niet van toepassing is, [8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04), juncto [8.1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04), [8.1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04), [8.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.21&z=2009-11-04&g=2009-11-04), in gevallen waarin [artikel 8.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.21&z=2009-11-04&g=2009-11-04), niet van toepassing is, [8.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-11-04&g=2009-11-04), [8.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.23&z=2009-11-04&g=2009-11-04), [8.25, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.25&z=2009-11-04&g=2009-11-04), [8.34](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.34&z=2009-11-04&g=2009-11-04) of [8.39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.3&artikel=8.39&z=2009-11-04&g=2009-11-04),
 
-- b. [artikel 9.2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-09-10&g=2009-09-10), juncto [artikel 9.2.2.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.3&z=2009-09-10&g=2009-09-10),
+- b. [artikel 9.2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-11-04&g=2009-11-04), juncto [artikel 9.2.2.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.3&z=2009-11-04&g=2009-11-04),
 
-- c. de [artikelen 10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-09-10&g=2009-09-10) of [10.52](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.52&z=2009-09-10&g=2009-09-10) juncto één of meer der onder **a** genoemde bepalingen,
+- c. de [artikelen 10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-11-04&g=2009-11-04) of [10.52](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.52&z=2009-11-04&g=2009-11-04) juncto één of meer der onder **a** genoemde bepalingen,
 
 - d. [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=2), juncto [5, vijfde lid, onder **b**, van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=5),
 
@@ -3295,7 +3297,7 @@ Vervallen
 
 zich ten gevolge daarvan voor kosten ziet gesteld dan wel schade lijdt, welke redelijkerwijs niet of niet geheel te zijnen laste behoren te blijven, kent het gezag dat de beschikking in eerste aanleg heeft gegeven, hem, voor zover op andere wijze in een redelijke vergoeding niet is of kan worden voorzien, op zijn verzoek dan wel uit eigen beweging een naar billijkheid te bepalen vergoeding toe.
 
-2. Het eerste lid is van overeenkomstige toepassing ten aanzien van degene die tengevolge van een maatregel als bedoeld in [artikel 17.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.3&artikel=17.19&z=2009-09-10&g=2009-09-10) zich voor kosten ziet gesteld dan wel daardoor schade lijdt, als in het eerste lid bedoeld.
+2. Het eerste lid is van overeenkomstige toepassing ten aanzien van degene die tengevolge van een maatregel als bedoeld in [artikel 17.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.3&artikel=17.19&z=2009-11-04&g=2009-11-04) zich voor kosten ziet gesteld dan wel daardoor schade lijdt, als in het eerste lid bedoeld.
 
 3. Indien een beschikking als bedoeld in het eerste lid op aanvraag wordt gegeven, kan een verzoek om vergoeding worden ingediend na de toezending van een exemplaar van het ontwerp van die beschikking aan de aanvrager.
 
@@ -3305,13 +3307,13 @@ zich ten gevolge daarvan voor kosten ziet gesteld dan wel schade lijdt, welke re
 
 ##### Artikel 15.21
 
-1. [Artikel 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.4&artikel=15.20&z=2009-09-10&g=2009-09-10) is van overeenkomstige toepassing ten aanzien van degene op wie bepalingen van een algemene maatregel van bestuur, onderscheidenlijk een ministeriële regeling of een verordening als bedoeld in
+1. [Artikel 15.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.4&artikel=15.20&z=2009-11-04&g=2009-11-04) is van overeenkomstige toepassing ten aanzien van degene op wie bepalingen van een algemene maatregel van bestuur, onderscheidenlijk een ministeriële regeling of een verordening als bedoeld in
 
-- a. [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2009-09-10&g=2009-09-10) van deze wet,
+- a. [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2009-11-04&g=2009-11-04) van deze wet,
 
-- b. de [artikelen 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-09-10&g=2009-09-10) en [9.2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.6&z=2009-09-10&g=2009-09-10),
+- b. de [artikelen 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-11-04&g=2009-11-04) en [9.2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.6&z=2009-11-04&g=2009-11-04),
 
-- c. de [artikelen 10.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.15&z=2009-09-10&g=2009-09-10) of [10.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-09-10&g=2009-09-10), van deze wet;
+- c. de [artikelen 10.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.15&z=2009-11-04&g=2009-11-04) of [10.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-11-04&g=2009-11-04), van deze wet;
 
 - d. de [artikelen 6 tot en met 11 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=6),
 
@@ -3323,7 +3325,7 @@ van toepassing worden en die zich daardoor voor kosten ziet gesteld dan wel scha
 
 1. Voor zover de toekenning van de vergoeding niet is geschied met instemming van Onze Minister, komen de kosten daarvan ten laste van het bevoegd gezag.
 
-2. In afwijking van het eerste lid komen in gevallen als bedoeld in [artikel 15.20, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.4&artikel=15.20&z=2009-09-10&g=2009-09-10), voor zover kosten zijn gemaakt in verband met de verlening van schadevergoeding vanwege het van toepassing worden van bepalingen van een provinciale milieuverordening als bedoeld in [artikel 1.2, tweede lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2009-09-10&g=2009-09-10), en de verlening van schadevergoeding niet is geschied met instemming van gedeputeerde staten, de kosten daarvan ten laste van het bevoegd gezag.
+2. In afwijking van het eerste lid komen in gevallen als bedoeld in [artikel 15.20, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.4&artikel=15.20&z=2009-11-04&g=2009-11-04), voor zover kosten zijn gemaakt in verband met de verlening van schadevergoeding vanwege het van toepassing worden van bepalingen van een provinciale milieuverordening als bedoeld in [artikel 1.2, tweede lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2009-11-04&g=2009-11-04), en de verlening van schadevergoeding niet is geschied met instemming van gedeputeerde staten, de kosten daarvan ten laste van het bevoegd gezag.
 
 ##### Artikel 15.23
 
@@ -3369,7 +3371,7 @@ Vervallen
 
 Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld ten aanzien van vergoedingen voor keuringen als bedoeld in
 
-- a. [artikel 9.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.4&z=2009-09-10&g=2009-09-10);
+- a. [artikel 9.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.4&z=2009-11-04&g=2009-11-04);
 
 - b. [artikel 13, tweede lid, onder **d** en **e**, van de Wet inzake de luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=13);
 
@@ -3381,13 +3383,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld te
 
 ##### Artikel 15.32
 
-1. Bij een algemene maatregel van bestuur als bedoeld in [artikel 10.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-09-10&g=2009-09-10), kunnen regels worden gesteld,
+1. Bij een algemene maatregel van bestuur als bedoeld in [artikel 10.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-11-04&g=2009-11-04), kunnen regels worden gesteld,
 
 - a. inhoudende een verplichting voor bij de maatregel aangewezen categorieën van personen die stoffen, preparaten of produkten in Nederland op de markt brengen in bij de maatregel aangewezen verpakkingen, voor zodanige verpakkingen een bij of krachtens de maatregel te bepalen statiegeld in rekening te brengen en zodanige verpakkingen na gebruik met terugbetaling van het statiegeld in te nemen;
 
 - b. inhoudende een verplichting voor bij de maatregel aangewezen categorieën van personen die daarbij aangewezen stoffen, preparaten of produkten in Nederland op de markt brengen, voor zodanige stoffen, preparaten of produkten een bij of krachtens de maatregel te bepalen statiegeld in rekening te brengen en zodanige stoffen, preparaten of produkten na gebruik met terugbetaling van het statiegeld in te nemen.
 
-2. Bij een algemene maatregel van bestuur als bedoeld in [artikel 10.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-09-10&g=2009-09-10), kunnen regels worden gesteld,
+2. Bij een algemene maatregel van bestuur als bedoeld in [artikel 10.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-11-04&g=2009-11-04), kunnen regels worden gesteld,
 
 - a. inhoudende een verplichting voor bij de maatregel aangewezen categorieën van personen die stoffen, preparaten of produkten in Nederland op de markt brengen in bij de maatregel aangewezen verpakkingen, zodanige verpakkingen na gebruik tegen betaling van een bij of krachtens de maatregel te bepalen premie in te nemen;
 
@@ -3401,7 +3403,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld te
 
 ##### Artikel 15.33
 
-1. De gemeenteraad kan ter bestrijding van de kosten die voor haar verbonden zijn aan het beheer van huishoudelijke afvalstoffen een heffing instellen, waaraan kunnen worden onderworpen degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, feitelijk gebruik maken van een perceel ten aanzien waarvan krachtens de[artikelen 10.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.21&z=2009-09-10&g=2009-09-10) en [10.22](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.22&z=2009-09-10&g=2009-09-10) een verplichting tot het inzamelen van huishoudelijke afvalstoffen geldt.
+1. De gemeenteraad kan ter bestrijding van de kosten die voor haar verbonden zijn aan het beheer van huishoudelijke afvalstoffen een heffing instellen, waaraan kunnen worden onderworpen degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, feitelijk gebruik maken van een perceel ten aanzien waarvan krachtens de[artikelen 10.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.21&z=2009-11-04&g=2009-11-04) en [10.22](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.22&z=2009-11-04&g=2009-11-04) een verplichting tot het inzamelen van huishoudelijke afvalstoffen geldt.
 
 2. Onder de in het eerste lid bedoelde kosten wordt mede verstaan de omzetbelasting die ingevolge de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) recht geeft op een bijdrage uit het fonds.
 
@@ -3409,7 +3411,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld te
 
 ##### Artikel 15.34
 
-1. Voor zover kosten zijn gemaakt in verband met de verlening van schadevergoeding krachtens [artikel 15.20, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.4&artikel=15.20&z=2009-09-10&g=2009-09-10), of [artikel 15.21, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.4&artikel=15.21&z=2009-09-10&g=2009-09-10), vanwege het van toepassing worden van bepalingen van een provinciale milieuverordening als bedoeld in [artikel 1.2, tweede lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2009-09-10&g=2009-09-10), kunnen provinciale staten ter bestrijding van die kosten een heffing instellen ter zake van het onttrekken van grondwater.
+1. Voor zover kosten zijn gemaakt in verband met de verlening van schadevergoeding krachtens [artikel 15.20, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.4&artikel=15.20&z=2009-11-04&g=2009-11-04), of [artikel 15.21, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.4&artikel=15.21&z=2009-11-04&g=2009-11-04), vanwege het van toepassing worden van bepalingen van een provinciale milieuverordening als bedoeld in [artikel 1.2, tweede lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2009-11-04&g=2009-11-04), kunnen provinciale staten ter bestrijding van die kosten een heffing instellen ter zake van het onttrekken van grondwater.
 
 2. De heffing wordt geheven van houders van inrichtingen, bestemd tot het onttrekken van grondwater, daaronder niet begrepen inrichtingen welke uitsluitend dienen tot het regelen van de vrije grondwaterspiegel of van de stijghoogte van het grondwater.
 
@@ -3417,7 +3419,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld te
 
 4. Als grondslag voor de heffing geldt de onttrokken hoeveelheid water.
 
-5. Tot het instellen van een heffing wordt overgegaan binnen een jaar nadat de beschikking waarbij de in het eerste lid bedoelde schadevergoeding is verleend, ingevolge [artikel 20.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.3&z=2009-09-10&g=2009-09-10) in werking is getreden.
+5. Tot het instellen van een heffing wordt overgegaan binnen een jaar nadat de beschikking waarbij de in het eerste lid bedoelde schadevergoeding is verleend, ingevolge [artikel 20.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.3&z=2009-11-04&g=2009-11-04) in werking is getreden.
 
 6. De heffing wordt jaarlijks geheven gedurende een termijn van ten hoogste tien jaren. In de verordening tot instelling van de heffing kan worden bepaald dat de heffing op verzoek van de heffingplichtige voor de ten tijde van de indiening van het verzoek nog niet aangevangen jaren waarover de heffing wordt geheven, ineens kan worden voldaan volgens een in de verordening op te nemen regeling.
 
@@ -3447,7 +3449,7 @@ overeenkomst over een afvalbeheersbijdrage: schriftelijke overeenkomst tussen de
 
 ##### Artikel 15.37
 
-1. Een verzoek als bedoeld in [artikel 15.36](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.36&z=2009-09-10&g=2009-09-10) kan slechts worden ingediend door degenen die, onderscheidenlijk organisaties van degenen die wat betreft de gezamenlijke omzet van de betrokken stoffen, preparaten of produkten een naar het oordeel van Onze Minister belangrijke meerderheid vormen van degenen die deze stoffen, preparaten of produkten in Nederland invoeren of op de markt brengen. Onze Minister betrekt bij zijn oordeel met betrekking tot de vraag of degenen die, onderscheidenlijk de organisaties van degenen die het verzoek hebben ingediend, een belangrijke meerderheid vormen, in ieder geval het aantal van hen in verhouding met het totale aantal van degenen die deze stoffen, preparaten of produkten in Nederland invoeren of op de markt brengen.
+1. Een verzoek als bedoeld in [artikel 15.36](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.36&z=2009-11-04&g=2009-11-04) kan slechts worden ingediend door degenen die, onderscheidenlijk organisaties van degenen die wat betreft de gezamenlijke omzet van de betrokken stoffen, preparaten of produkten een naar het oordeel van Onze Minister belangrijke meerderheid vormen van degenen die deze stoffen, preparaten of produkten in Nederland invoeren of op de markt brengen. Onze Minister betrekt bij zijn oordeel met betrekking tot de vraag of degenen die, onderscheidenlijk de organisaties van degenen die het verzoek hebben ingediend, een belangrijke meerderheid vormen, in ieder geval het aantal van hen in verhouding met het totale aantal van degenen die deze stoffen, preparaten of produkten in Nederland invoeren of op de markt brengen.
 
 2. Op de voorbereiding van een besluit op het verzoek is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.
 
@@ -3461,15 +3463,15 @@ overeenkomst over een afvalbeheersbijdrage: schriftelijke overeenkomst tussen de
 
 2. Een ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden.
 
-3. Een krachtens het eerste lid verleende ontheffing kan ambtshalve of op een daartoe strekkend verzoek worden gewijzigd of ingetrokken. [Artikel 15.39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.39&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing, met dien verstande dat voor het in onderdeel **b** van dat lid genoemde belang in de plaats treedt: het niet langer voldoen aan het in het eerste lid van dit artikel genoemde vereiste.
+3. Een krachtens het eerste lid verleende ontheffing kan ambtshalve of op een daartoe strekkend verzoek worden gewijzigd of ingetrokken. [Artikel 15.39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.39&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing, met dien verstande dat voor het in onderdeel **b** van dat lid genoemde belang in de plaats treedt: het niet langer voldoen aan het in het eerste lid van dit artikel genoemde vereiste.
 
-4. Op de voorbereiding van een besluit als bedoeld in het eerste en derde lid, is [artikel 15.37, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.37&z=2009-09-10&g=2009-09-10), van overeenkomstige toepassing. Onze Minister stelt de houder van de ontheffing, behoudens in gevallen waarin deze om wijziging of intrekking verzoekt, van zijn voornemen tot wijziging of intrekking in kennis, alvorens een besluit te nemen.
+4. Op de voorbereiding van een besluit als bedoeld in het eerste en derde lid, is [artikel 15.37, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.37&z=2009-11-04&g=2009-11-04), van overeenkomstige toepassing. Onze Minister stelt de houder van de ontheffing, behoudens in gevallen waarin deze om wijziging of intrekking verzoekt, van zijn voornemen tot wijziging of intrekking in kennis, alvorens een besluit te nemen.
 
 ##### Artikel 15.39
 
-1. Een besluit krachtens [artikel 15.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.36&z=2009-09-10&g=2009-09-10), geldt voor een daarbij aangegeven termijn van ten hoogste vijf jaar.
+1. Een besluit krachtens [artikel 15.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.36&z=2009-11-04&g=2009-11-04), geldt voor een daarbij aangegeven termijn van ten hoogste vijf jaar.
 
-2. Onze Minister kan een besluit krachtens [artikel 15.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.36&z=2009-09-10&g=2009-09-10), na overleg met Onze Minister van Economische Zaken intrekken, indien:
+2. Onze Minister kan een besluit krachtens [artikel 15.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.36&z=2009-11-04&g=2009-11-04), na overleg met Onze Minister van Economische Zaken intrekken, indien:
 
 - a. de ter zake verstrekte gegevens zodanig onjuist zijn of onvolledig blijken, dat op het verzoek een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste gegevens bekend waren geweest;
 
@@ -3477,9 +3479,9 @@ overeenkomst over een afvalbeheersbijdrage: schriftelijke overeenkomst tussen de
 
 - c. een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, dan wel regels ter uitvoering daarvan, hiertoe verplichten.
 
-3. Alvorens een besluit krachtens [artikel 15.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.36&z=2009-09-10&g=2009-09-10), op grond van het tweede lid, onder **a**, in te trekken, stelt Onze Minister degenen die het verzoek tot algemeen verbindend verklaring hebben gedaan, in de gelegenheid hun zienswijze naar voren te brengen.
+3. Alvorens een besluit krachtens [artikel 15.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.36&z=2009-11-04&g=2009-11-04), op grond van het tweede lid, onder **a**, in te trekken, stelt Onze Minister degenen die het verzoek tot algemeen verbindend verklaring hebben gedaan, in de gelegenheid hun zienswijze naar voren te brengen.
 
-4. Op de voorbereiding van een besluit tot intrekking van een besluit krachtens [artikel 15.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.36&z=2009-09-10&g=2009-09-10), op grond van het tweede lid, onder b of c, is [artikel 15.37, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.37&z=2009-09-10&g=2009-09-10), van overeenkomstige toepassing.
+4. Op de voorbereiding van een besluit tot intrekking van een besluit krachtens [artikel 15.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.36&z=2009-11-04&g=2009-11-04), op grond van het tweede lid, onder b of c, is [artikel 15.37, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.37&z=2009-11-04&g=2009-11-04), van overeenkomstige toepassing.
 
 ##### Artikel 15.40
 
@@ -3487,7 +3489,7 @@ Een ieder is tot naleving van een voor hem geldende algemeen verbindend verklaar
 
 ##### Artikel 15.41
 
-Indien een of meer van degenen die een stof, preparaat of product in Nederland invoeren of op de markt brengen, waarvoor een overeenkomst over een afvalbeheersbijdrage algemeen verbindend is verklaard, het vermoeden gegrond achten dat door een of meer anderen een of meer van de algemeen verbindend verklaarde bepalingen uit die overeenkomst niet worden nageleefd, kunnen zij met het oog op het instellen van een rechtsvordering op grond van [artikel 15.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.40&z=2009-09-10&g=2009-09-10) Onze Minister verzoeken een onderzoek daarnaar te doen instellen. De inspecteur stelt het onderzoek in en brengt aan Onze Minister verslag uit van hetgeen bij het onderzoek is gebleken. Onze Minister stelt het verslag ter beschikking van degene of degenen, die om het onderzoek hebben gevraagd.
+Indien een of meer van degenen die een stof, preparaat of product in Nederland invoeren of op de markt brengen, waarvoor een overeenkomst over een afvalbeheersbijdrage algemeen verbindend is verklaard, het vermoeden gegrond achten dat door een of meer anderen een of meer van de algemeen verbindend verklaarde bepalingen uit die overeenkomst niet worden nageleefd, kunnen zij met het oog op het instellen van een rechtsvordering op grond van [artikel 15.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.10&artikel=15.40&z=2009-11-04&g=2009-11-04) Onze Minister verzoeken een onderzoek daarnaar te doen instellen. De inspecteur stelt het onderzoek in en brengt aan Onze Minister verslag uit van hetgeen bij het onderzoek is gebleken. Onze Minister stelt het verslag ter beschikking van degene of degenen, die om het onderzoek hebben gevraagd.
 
 ## Titel 15.11. Financiering van de zorg voor gesloten stortplaatsen
 
@@ -3505,7 +3507,7 @@ Deze titel is niet van toepassing op stortplaatsen waar baggerspecie is gestort 
 
 - a. de in artikel 8.49 bedoelde zorg voor de in de betrokken provincie gelegen stortplaatsen;
 
-- b. een voor de betrokken provincie geldende verplichting tot afdracht aan een fonds als bedoeld in [artikel 15.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.48&z=2009-09-10&g=2009-09-10);
+- b. een voor de betrokken provincie geldende verplichting tot afdracht aan een fonds als bedoeld in [artikel 15.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.48&z=2009-11-04&g=2009-11-04);
 
 - c. de door de provincie uitgevoerde inventarisatie van plaatsen waar afvalstoffen zijn gestort en waar dat storten vóór 1 september 1996 is beëindigd, en het onderzoek naar en systematische controle van aanwezigheid, aard en omvang van eventuele verontreiniging aldaar.
 
@@ -3517,19 +3519,19 @@ Deze titel is niet van toepassing op stortplaatsen waar baggerspecie is gestort 
 
 1. De heffing wordt geheven van degene die een stortplaats drijft.
 
-2. Het bedrag van de heffing wordt zodanig vastgesteld dat uit de opbrengst van de heffing en de daarover verkregen rentebaten en beleggingsopbrengsten de kosten kunnen worden bestreden, die naar verwachting gemoeid zullen zijn met de uitvoering van het in [artikel 8.49, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-09-10&g=2009-09-10), bedoelde nazorgplan waarmee gedeputeerde staten hebben ingestemd, of, indien geen nazorgplan geldt, de in [artikel 8.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-09-10&g=2009-09-10), bedoelde zorg voor die stortplaats. Indien na de vaststelling blijkt dat de opbrengst van de heffing hoger dan wel lager is dan het bedrag dat nodig is om de kosten te bestrijden die naar verwachting met die zorg van die stortplaats gemoeid zullen zijn, kan het bedrag van de heffing opnieuw worden vastgesteld. Het reeds betaalde bedrag van de heffing wordt hierop in mindering gebracht.
+2. Het bedrag van de heffing wordt zodanig vastgesteld dat uit de opbrengst van de heffing en de daarover verkregen rentebaten en beleggingsopbrengsten de kosten kunnen worden bestreden, die naar verwachting gemoeid zullen zijn met de uitvoering van het in [artikel 8.49, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-11-04&g=2009-11-04), bedoelde nazorgplan waarmee gedeputeerde staten hebben ingestemd, of, indien geen nazorgplan geldt, de in [artikel 8.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-11-04&g=2009-11-04), bedoelde zorg voor die stortplaats. Indien na de vaststelling blijkt dat de opbrengst van de heffing hoger dan wel lager is dan het bedrag dat nodig is om de kosten te bestrijden die naar verwachting met die zorg van die stortplaats gemoeid zullen zijn, kan het bedrag van de heffing opnieuw worden vastgesteld. Het reeds betaalde bedrag van de heffing wordt hierop in mindering gebracht.
 
-3. In afwijking van het tweede lid kan de heffing terzake van de niet-bedrijfsgebonden stortplaatsen in de betrokken provincie worden vastgesteld aan de hand van de hoeveelheid en de aard van de afvalstoffen die op de stortplaats zijn afgegeven. Het bedrag wordt zodanig vastgesteld dat uit het totaal van de opbrengsten van de heffing en de daarover verkregen rentebaten en beleggingsopbrengsten voor de niet-bedrijfsgebonden stortplaatsen in die provincie de kosten kunnen worden bestreden die naar verwachting gemoeid zullen zijn met de zorg voor die stortplaatsen. De kosten, bedoeld in [de tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.45&z=2009-09-10&g=2009-09-10), worden berekend met inachtneming van de voor die stortplaatsen geldende nazorgplannen waarmee gedeputeerde staten hebben ingestemd.
+3. In afwijking van het tweede lid kan de heffing terzake van de niet-bedrijfsgebonden stortplaatsen in de betrokken provincie worden vastgesteld aan de hand van de hoeveelheid en de aard van de afvalstoffen die op de stortplaats zijn afgegeven. Het bedrag wordt zodanig vastgesteld dat uit het totaal van de opbrengsten van de heffing en de daarover verkregen rentebaten en beleggingsopbrengsten voor de niet-bedrijfsgebonden stortplaatsen in die provincie de kosten kunnen worden bestreden die naar verwachting gemoeid zullen zijn met de zorg voor die stortplaatsen. De kosten, bedoeld in [de tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.45&z=2009-11-04&g=2009-11-04), worden berekend met inachtneming van de voor die stortplaatsen geldende nazorgplannen waarmee gedeputeerde staten hebben ingestemd.
 
 4. Het derde lid is niet van toepassing op stortplaatsen waar baggerspecie is gestort.
 
 ##### Artikel 15.46
 
-1. Gedeputeerde staten kunnen bepalen dat degenen die een stortplaats drijven, waarop [artikel 15.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.45&z=2009-09-10&g=2009-09-10), niet van toepassing is, financiële zekerheid stellen voor het nakomen van de krachtens [de artikelen 15.44, eerste lid, onder a, en 15.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.44&z=2009-09-10&g=2009-09-10) voor hen geldende verplichting. Daarbij wordt in ieder geval aangegeven het bedrag waarvoor de zekerheid ten hoogste in stand moet worden gehouden.
+1. Gedeputeerde staten kunnen bepalen dat degenen die een stortplaats drijven, waarop [artikel 15.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.45&z=2009-11-04&g=2009-11-04), niet van toepassing is, financiële zekerheid stellen voor het nakomen van de krachtens [de artikelen 15.44, eerste lid, onder a, en 15.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.44&z=2009-11-04&g=2009-11-04) voor hen geldende verplichting. Daarbij wordt in ieder geval aangegeven het bedrag waarvoor de zekerheid ten hoogste in stand moet worden gehouden.
 
-2. De verplichting financiële zekerheid in stand te houden vervalt op het tijdstip waarop een bedrag aan heffing, als bedoeld in [artikel 15.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.45&z=2009-09-10&g=2009-09-10), is betaald, voor zover het betreft het gedeelte dat overeenkomt met het bedrag dat is betaald.
+2. De verplichting financiële zekerheid in stand te houden vervalt op het tijdstip waarop een bedrag aan heffing, als bedoeld in [artikel 15.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.45&z=2009-11-04&g=2009-11-04), is betaald, voor zover het betreft het gedeelte dat overeenkomt met het bedrag dat is betaald.
 
-3. Gedeputeerde staten kunnen verhaal nemen op de gestelde zekerheid, voor zover degene die de zekerheid heeft gesteld, het bedrag van de heffing, zoals dat is vastgesteld ingevolge [artikel 15.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.45&z=2009-09-10&g=2009-09-10), niet tijdig heeft betaald.
+3. Gedeputeerde staten kunnen verhaal nemen op de gestelde zekerheid, voor zover degene die de zekerheid heeft gesteld, het bedrag van de heffing, zoals dat is vastgesteld ingevolge [artikel 15.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.45&z=2009-11-04&g=2009-11-04), niet tijdig heeft betaald.
 
 4. Gedeputeerde staten kunnen het ingevolge het derde lid te verhalen bedrag invorderen bij dwangbevel.
 
@@ -3537,7 +3539,7 @@ Deze titel is niet van toepassing op stortplaatsen waar baggerspecie is gestort 
 
 ##### Artikel 15.47
 
-1. Gedeputeerde staten van een provincie richten voor hun provincie een fonds op, bestemd voor de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-09-10&g=2009-09-10) bedoelde zorg voor gesloten stortplaatsen.
+1. Gedeputeerde staten van een provincie richten voor hun provincie een fonds op, bestemd voor de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-11-04&g=2009-11-04) bedoelde zorg voor gesloten stortplaatsen.
 
 2. In afwijking van het eerste lid kunnen gedeputeerde staten van verschillende provincies gezamenlijk voor hun provincies een fonds als bedoeld in het eerste lid oprichten.
 
@@ -3547,39 +3549,39 @@ Deze titel is niet van toepassing op stortplaatsen waar baggerspecie is gestort 
 
 5. Een fonds ontvangt jaarlijks:
 
-- a. de opbrengst van de in [artikel 15.44](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.44&z=2009-09-10&g=2009-09-10) bedoelde heffing, verminderd met het bedrag ter bestrijding van de kosten in verband met de in [artikel 15.44, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.44&z=2009-09-10&g=2009-09-10), bedoelde handelingen en met het gedeelte van de heffingen, bedoeld in [artikel 15.48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.48&z=2009-09-10&g=2009-09-10);
+- a. de opbrengst van de in [artikel 15.44](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.44&z=2009-11-04&g=2009-11-04) bedoelde heffing, verminderd met het bedrag ter bestrijding van de kosten in verband met de in [artikel 15.44, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.44&z=2009-11-04&g=2009-11-04), bedoelde handelingen en met het gedeelte van de heffingen, bedoeld in [artikel 15.48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.48&z=2009-11-04&g=2009-11-04);
 
-- b. de bedragen die ingevolge [artikel 15.46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.46&z=2009-09-10&g=2009-09-10), worden verhaald;
+- b. de bedragen die ingevolge [artikel 15.46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.46&z=2009-11-04&g=2009-11-04), worden verhaald;
 
 - c. rentebaten en beleggingsopbrengsten die via het fonds zijn verkregen;
 
 - d. het batig saldo van de laatstelijk afgesloten rekening van het fonds.
 
-6. Een fonds is gerechtigd ook andere bedragen, bestemd voor de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-09-10&g=2009-09-10) bedoelde zorg, dan die, bedoeld in het vijfde lid, in ontvangst te nemen.
+6. Een fonds is gerechtigd ook andere bedragen, bestemd voor de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-11-04&g=2009-11-04) bedoelde zorg, dan die, bedoeld in het vijfde lid, in ontvangst te nemen.
 
 7. Uit het fonds worden uitsluitend bestreden de kosten die:
 
-- a. worden gemaakt in verband met de uitvoering van de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-09-10&g=2009-09-10) bedoelde zorg met betrekking tot gesloten stortplaatsen in de betrokken provincie of provincies;
+- a. worden gemaakt in verband met de uitvoering van de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-11-04&g=2009-11-04) bedoelde zorg met betrekking tot gesloten stortplaatsen in de betrokken provincie of provincies;
 
 - b. zijn verbonden aan de werkzaamheden van het fonds dat in de betrokken provincie, onderscheidenlijk provincies werkzaam is;
 
-- c. worden gemaakt ter dekking van de aansprakelijkheid, bedoeld in [artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=176), doch slechts voor zover de in [artikel 15.44](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.44&z=2009-09-10&g=2009-09-10) bedoelde heffing mede op deze kosten betrekking heeft.
+- c. worden gemaakt ter dekking van de aansprakelijkheid, bedoeld in [artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=176), doch slechts voor zover de in [artikel 15.44](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.44&z=2009-11-04&g=2009-11-04) bedoelde heffing mede op deze kosten betrekking heeft.
 
-8. Onder de kosten, bedoeld in het zevende lid, worden niet begrepen de kosten die in verband met de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-09-10&g=2009-09-10) bedoelde zorg voor gesloten stortplaatsen door de betrokken provincie, onderscheidenlijk provincies worden gemaakt ten behoeve van haar bestuurlijk apparaat.
+8. Onder de kosten, bedoeld in het zevende lid, worden niet begrepen de kosten die in verband met de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-11-04&g=2009-11-04) bedoelde zorg voor gesloten stortplaatsen door de betrokken provincie, onderscheidenlijk provincies worden gemaakt ten behoeve van haar bestuurlijk apparaat.
 
 ##### Artikel 15.48
 
-1. Gedeputeerde staten van provincies kunnen gezamenlijk een fonds oprichten ter dekking van grote financiële risico's in verband met de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-09-10&g=2009-09-10) bedoelde zorg voor gesloten stortplaatsen.
+1. Gedeputeerde staten van provincies kunnen gezamenlijk een fonds oprichten ter dekking van grote financiële risico's in verband met de in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-11-04&g=2009-11-04) bedoelde zorg voor gesloten stortplaatsen.
 
-2. Het in het eerste lid bedoelde fonds ontvangt jaarlijks van die provincies een door het bestuur van dat fonds te bepalen gedeelte van de aan die provincies afgedragen heffingen als bedoeld in [artikel 15.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.45&z=2009-09-10&g=2009-09-10).
+2. Het in het eerste lid bedoelde fonds ontvangt jaarlijks van die provincies een door het bestuur van dat fonds te bepalen gedeelte van de aan die provincies afgedragen heffingen als bedoeld in [artikel 15.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.45&z=2009-11-04&g=2009-11-04).
 
-3. Van [artikel 15.47](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.47&z=2009-09-10&g=2009-09-10) zijn het derde en vierde lid, alsmede het achtste lid, in verbinding met het zevende lid, onder b, van overeenkomstige toepassing.
+3. Van [artikel 15.47](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.47&z=2009-11-04&g=2009-11-04) zijn het derde en vierde lid, alsmede het achtste lid, in verbinding met het zevende lid, onder b, van overeenkomstige toepassing.
 
 ##### Artikel 15.49
 
-1. Ter zake van door een stortplaats veroorzaakte schade, die bekend is geworden na het tijdstip waarop een verklaring als bedoeld in [artikel 8.47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.47&z=2009-09-10&g=2009-09-10), met betrekking tot die stortplaats is afgegeven, doet noch een provincie, noch het in deze titel bedoelde fonds een beroep op de aansprakelijkheid van degene die als laatste de stortplaats heeft gedreven op grond van [artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=176).
+1. Ter zake van door een stortplaats veroorzaakte schade, die bekend is geworden na het tijdstip waarop een verklaring als bedoeld in [artikel 8.47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.47&z=2009-11-04&g=2009-11-04), met betrekking tot die stortplaats is afgegeven, doet noch een provincie, noch het in deze titel bedoelde fonds een beroep op de aansprakelijkheid van degene die als laatste de stortplaats heeft gedreven op grond van [artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=176).
 
-2. Indien degene die als laatste een stortplaats heeft gedreven, waarvoor een verklaring als bedoeld in [artikel 8.47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.47&z=2009-09-10&g=2009-09-10), is afgegeven, aansprakelijk is voor de door die stortplaats veroorzaakte schade op grond van [artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=176), kan degene jegens wie deze aansprakelijkheid bestaat, zijn recht op schadevergoeding geldend maken tegen het in deze titel bedoelde fonds dat in de betrokken provincie werkzaam is.
+2. Indien degene die als laatste een stortplaats heeft gedreven, waarvoor een verklaring als bedoeld in [artikel 8.47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.47&z=2009-11-04&g=2009-11-04), is afgegeven, aansprakelijk is voor de door die stortplaats veroorzaakte schade op grond van [artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=176), kan degene jegens wie deze aansprakelijkheid bestaat, zijn recht op schadevergoeding geldend maken tegen het in deze titel bedoelde fonds dat in de betrokken provincie werkzaam is.
 
 ### Hoofdstuk 13. Procedures voor vergunningen en ontheffingen
 
@@ -3587,39 +3589,39 @@ Deze titel is niet van toepassing op stortplaatsen waar baggerspecie is gestort 
 
 1. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-emissieverslag: verslag als bedoeld in [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10);
+emissieverslag: verslag als bedoeld in [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04);
 
 jaarvracht: totale hoeveelheid van een emissie gedurende een kalenderjaar;
 
-monitoringsplan: plan als bedoeld in [artikel 16.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-09-10&g=2009-09-10);
+monitoringsplan: plan als bedoeld in [artikel 16.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-11-04&g=2009-11-04);
 
-nationaal toewijzingsbesluit: besluit als bedoeld in [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-09-10&g=2009-09-10);
+nationaal toewijzingsbesluit: besluit als bedoeld in [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-11-04&g=2009-11-04);
 
-nationaal toewijzingsplan: plan als bedoeld in [artikel 16.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.23&z=2009-09-10&g=2009-09-10);
+nationaal toewijzingsplan: plan als bedoeld in [artikel 16.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.23&z=2009-11-04&g=2009-11-04);
 
 Onze Ministers: Onze Minister en Onze Minister van Economische Zaken;
 
-planperiode: periode waarop een nationaal toewijzingsplan ingevolge [artikel 16.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.23&z=2009-09-10&g=2009-09-10), betrekking heeft;
+planperiode: periode waarop een nationaal toewijzingsplan ingevolge [artikel 16.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.23&z=2009-11-04&g=2009-11-04), betrekking heeft;
 
 projectactiviteit: project of activiteit als bedoeld in artikel 6 onderscheidenlijk artikel 12 van het Protocol van Kyoto;
 
-register voor handel in broeikasgasemissierechten: register als bedoeld in [artikel 16.43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.6&artikel=16.43&z=2009-09-10&g=2009-09-10);
+register voor handel in broeikasgasemissierechten: register als bedoeld in [artikel 16.43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.6&artikel=16.43&z=2009-11-04&g=2009-11-04);
 
-register voor handel in NOx-emissierechten: register als bedoeld in [artikel 16.58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.58&z=2009-09-10&g=2009-09-10);
+register voor handel in NOx-emissierechten: register als bedoeld in [artikel 16.58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.58&z=2009-11-04&g=2009-11-04);
 
-verificateur: onafhankelijke deskundige als bedoeld in [artikel 16.12, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10);
+verificateur: onafhankelijke deskundige als bedoeld in [artikel 16.12, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04);
 
-verificatie: beoordeling als bedoeld in [artikel 16.12, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10);
+verificatie: beoordeling als bedoeld in [artikel 16.12, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04);
 
-verkoopplafond: het aantal NOx-emissierechten, bedoeld in [artikel 16.49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10).
+verkoopplafond: het aantal NOx-emissierechten, bedoeld in [artikel 16.49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04).
 
-2. Voor de toepassing van [titel 16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&z=2009-09-10&g=2009-09-10) en de daarop berustende bepalingen wordt verstaan onder:
+2. Voor de toepassing van [titel 16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&z=2009-11-04&g=2009-11-04) en de daarop berustende bepalingen wordt verstaan onder:
 
 broeikasgasinstallatie: vaste technische eenheid, waarin een of meer activiteiten worden verricht, die een emissie van een broeikasgas in de lucht veroorzaken en die behoren tot een categorie die met betrekking tot het betrokken broeikasgas bij algemene maatregel van bestuur is aangewezen, alsmede andere activiteiten die met eerstbedoelde activiteiten rechtstreeks samenhangen en daarmee technisch in verband staan en die gevolgen kunnen hebben voor de emissie van het betrokken broeikasgas in de lucht;
 
 kalenderjaar: jaar als bedoeld in artikel 2, onder y, van de EG-verordening register handel in broeikasgasemissierechten.
 
-3. Voor de toepassing van [titel 16.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&z=2009-09-10&g=2009-09-10) en de daarop berustende bepalingen wordt onder NOx-installatie verstaan: vaste technische eenheid die een emissie van stikstofoxiden in de lucht veroorzaakt en die behoort tot een categorie die bij algemene maatregel van bestuur is aangewezen.
+3. Voor de toepassing van [titel 16.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&z=2009-11-04&g=2009-11-04) en de daarop berustende bepalingen wordt onder NOx-installatie verstaan: vaste technische eenheid die een emissie van stikstofoxiden in de lucht veroorzaakt en die behoort tot een categorie die bij algemene maatregel van bestuur is aangewezen.
 
 ### Hoofdstuk 14. Coördinatie
 
@@ -3629,7 +3631,7 @@ Indien zich in een inrichting een ongewoon voorval voordoet of heeft voorgedaan,
 
 ##### Artikel 17.2
 
-1. Degene die een inrichting drijft, waarin zich een voorval, als bedoeld in [artikel 17.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.1&z=2009-09-10&g=2009-09-10), voordoet of heeft voorgedaan, meldt dat voorval zo spoedig mogelijk aan het bestuursorgaan dat bevoegd is een vergunning krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) voor een inrichting te verlenen, dan wel ingevolge [artikel 8.41, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.41&z=2009-09-10&g=2009-09-10), het orgaan is waaraan de melding wordt gericht dan wel, in andere gevallen, aan burgemeester en wethouders.
+1. Degene die een inrichting drijft, waarin zich een voorval, als bedoeld in [artikel 17.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.1&z=2009-11-04&g=2009-11-04), voordoet of heeft voorgedaan, meldt dat voorval zo spoedig mogelijk aan het bestuursorgaan dat bevoegd is een vergunning krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) voor een inrichting te verlenen, dan wel ingevolge [artikel 8.41, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.41&z=2009-11-04&g=2009-11-04), het orgaan is waaraan de melding wordt gericht dan wel, in andere gevallen, aan burgemeester en wethouders.
 
 2. Hij verstrekt dat bestuursorgaan tevens, zodra zij bekend zijn, de gegevens met betrekking tot:
 
@@ -3657,7 +3659,7 @@ Indien zich in een inrichting een ongewoon voorval voordoet of heeft voorgedaan,
 
 ##### Artikel 17.3
 
-Het bevoegd gezag ziet er op toe dat de nodige gegevens worden verzameld om een ongewoon voorval, als bedoeld in [artikel 17.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.1&z=2009-09-10&g=2009-09-10), te analyseren en de oorzaken ervan te achterhalen. Om herhaling te voorkomen wijzigt het zo nodig de vergunning met toepassing van de [artikelen 8.22](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-09-10&g=2009-09-10) of [8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.23&z=2009-09-10&g=2009-09-10), of doet het zo mogelijk daarop gerichte aanbevelingen.
+Het bevoegd gezag ziet er op toe dat de nodige gegevens worden verzameld om een ongewoon voorval, als bedoeld in [artikel 17.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.1&z=2009-11-04&g=2009-11-04), te analyseren en de oorzaken ervan te achterhalen. Om herhaling te voorkomen wijzigt het zo nodig de vergunning met toepassing van de [artikelen 8.22](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.22&z=2009-11-04&g=2009-11-04) of [8.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.23&z=2009-11-04&g=2009-11-04), of doet het zo mogelijk daarop gerichte aanbevelingen.
 
 ##### Artikel 17.4
 
@@ -3675,7 +3677,7 @@ Het bevoegd gezag ziet er op toe dat de nodige gegevens worden verzameld om een 
 
 2. Een verplichting of verbod als bedoeld in het eerste lid, kan worden opgelegd:
 
-- a. voor zover de verplichting of het verbod betrekking heeft op een inrichting: door het bestuursorgaan dat ingevolge [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.2&z=2009-09-10&g=2009-09-10) van deze wet het bevoegd gezag is ten aanzien van de vergunning voor de inrichting, of, indien voor de inrichting regels gelden krachtens [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10), door het bestuursorgaan waaraan een melding als bedoeld in [artikel 8.41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.41&z=2009-09-10&g=2009-09-10), met betrekking tot die inrichting zou moeten worden gedaan of, in andere gevallen, door burgemeester en wethouders;
+- a. voor zover de verplichting of het verbod betrekking heeft op een inrichting: door het bestuursorgaan dat ingevolge [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.2&z=2009-11-04&g=2009-11-04) van deze wet het bevoegd gezag is ten aanzien van de vergunning voor de inrichting, of, indien voor de inrichting regels gelden krachtens [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04), door het bestuursorgaan waaraan een melding als bedoeld in [artikel 8.41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.41&z=2009-11-04&g=2009-11-04), met betrekking tot die inrichting zou moeten worden gedaan of, in andere gevallen, door burgemeester en wethouders;
 
 - b. in andere gevallen: door gedeputeerde staten.
 
@@ -3689,7 +3691,7 @@ Vervallen
 
 ##### Artikel 18.2
 
-1. Het bestuursorgaan dat bevoegd is een vergunning krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) voor een inrichting te verlenen, dan wel ingevolge [artikel 8.41, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.41&z=2009-09-10&g=2009-09-10), het orgaan is waaraan de melding wordt gericht, dan wel, in andere gevallen, burgemeester en wethouders van de gemeente waarin de inrichting geheel of in hoofdzaak zal zijn of is gelegen, heeft tot taak:
+1. Het bestuursorgaan dat bevoegd is een vergunning krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) voor een inrichting te verlenen, dan wel ingevolge [artikel 8.41, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.41&z=2009-11-04&g=2009-11-04), het orgaan is waaraan de melding wordt gericht, dan wel, in andere gevallen, burgemeester en wethouders van de gemeente waarin de inrichting geheel of in hoofdzaak zal zijn of is gelegen, heeft tot taak:
 
 - a. zorg te dragen voor de bestuursrechtelijke handhaving van de voorschriften die voor degene die de inrichting drijft, gelden op grond van:
 
@@ -3699,11 +3701,13 @@ Vervallen
 
 - 3°. de EG-verordening PRTR;
 
-- b. andere gegevens dan die bedoeld in de [artikelen 8.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12&z=2009-09-10&g=2009-09-10), [8.12a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12a&z=2009-09-10&g=2009-09-10), [8.13, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.13&z=2009-09-10&g=2009-09-10), en [8.14, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.14&z=2009-09-10&g=2009-09-10), die eveneens van belang zijn met het oog op de onder a bedoelde taak, te verzamelen en te registreren;
+- 4°. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels;
+
+- b. andere gegevens dan die bedoeld in de [artikelen 8.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12&z=2009-11-04&g=2009-11-04), [8.12a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12a&z=2009-11-04&g=2009-11-04), [8.13, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.13&z=2009-11-04&g=2009-11-04), en [8.14, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.14&z=2009-11-04&g=2009-11-04), die eveneens van belang zijn met het oog op de onder a bedoelde taak, te verzamelen en te registreren;
 
 - c. klachten, die betrekking hebben op de naleving van het met betrekking tot de inrichting bij of krachtens de betrokken wetten bepaalde, te behandelen.
 
-2. Indien met betrekking tot een inrichting door het krachtens het eerste lid bevoegde bestuursorgaan een beschikking tot oplegging van een last onder bestuursdwang, oplegging van een last onder dwangsom of intrekking van een vergunning of ontheffing op grond van [artikel 18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.12&z=2009-09-10&g=2009-09-10) is gegeven en, nadat die beschikking is gegeven, voor deze inrichting als gevolg van een verandering daarvan of van de werking daarvan een ander bestuursorgaan bevoegd wordt de vergunning te verlenen dan wel het orgaan wordt waaraan de melding wordt gericht, blijft het bestuursorgaan dat de beschikking heeft gegeven, bevoegd met betrekking tot die beschikking totdat zij
+2. Indien met betrekking tot een inrichting door het krachtens het eerste lid bevoegde bestuursorgaan een beschikking tot oplegging van een last onder bestuursdwang, oplegging van een last onder dwangsom of intrekking van een vergunning of ontheffing op grond van [artikel 18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.12&z=2009-11-04&g=2009-11-04) is gegeven en, nadat die beschikking is gegeven, voor deze inrichting als gevolg van een verandering daarvan of van de werking daarvan een ander bestuursorgaan bevoegd wordt de vergunning te verlenen dan wel het orgaan wordt waaraan de melding wordt gericht, blijft het bestuursorgaan dat de beschikking heeft gegeven, bevoegd met betrekking tot die beschikking totdat zij
 
 - a. onherroepelijk is geworden en is tenuitvoergelegd, dan wel de dwangsom is ingevorderd, of
 
@@ -3711,11 +3715,11 @@ Vervallen
 
 ##### Artikel 18.2a
 
-1. Onze betrokken Minister, gedeputeerde staten, burgemeester en wethouders en de waterkwaliteitsbeheerder hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van [de artikelen 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.1&artikel=1.1a&z=2009-09-10&g=2009-09-10) en [10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.1&z=2009-09-10&g=2009-09-10).
+1. Onze betrokken Minister, gedeputeerde staten, burgemeester en wethouders en de waterkwaliteitsbeheerder hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van [de artikelen 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.1&artikel=1.1a&z=2009-11-04&g=2009-11-04) en [10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.1&z=2009-11-04&g=2009-11-04).
 
-2. Gedeputeerde staten, burgemeester en wethouders en de waterkwaliteitsbeheerder hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens [de artikelen 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-09-10&g=2009-09-10) en [10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-09-10&g=2009-09-10).
+2. Gedeputeerde staten, burgemeester en wethouders en de waterkwaliteitsbeheerder hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens [de artikelen 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-11-04&g=2009-11-04) en [10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-11-04&g=2009-11-04).
 
-3. Onverminderd [artikel 18.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.2&z=2009-09-10&g=2009-09-10), heeft Onze betrokken Minister tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de [artikelen 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11&titeldeel=11.1&artikel=11.2&z=2009-09-10&g=2009-09-10) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11&titeldeel=11.1&artikel=11.3&z=2009-09-10&g=2009-09-10).
+3. Onverminderd [artikel 18.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.2&z=2009-11-04&g=2009-11-04), heeft Onze betrokken Minister tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de [artikelen 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11&titeldeel=11.1&artikel=11.2&z=2009-11-04&g=2009-11-04) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11&titeldeel=11.1&artikel=11.3&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 18.3
 
@@ -3737,17 +3741,17 @@ Vervallen
 
 4. Bij een besluit als bedoeld in het eerste lid kan Onze betrokken Minister gevallen of categorieën van gevallen aanwijzen met betrekking waartoe, in afwijking van het derde lid, bij zijn besluit aangewezen ambtenaren uitsluitend belast zijn met het toezicht op de naleving.
 
-5. Met het toezicht op de naleving van het bij of krachtens [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-09-10&g=2009-09-10) bepaalde zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+5. Met het toezicht op de naleving van het bij of krachtens [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-11-04&g=2009-11-04) bepaalde zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 6. Van een besluit als bedoeld in het eerste en vijfde lid, wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 18.5
 
-De krachtens [artikel 18.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.4&z=2009-09-10&g=2009-09-10) aangewezen ambtenaren zijn voor de vervulling van hun taak met betrekking tot gevaarlijke afvalstoffen bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
+De krachtens [artikel 18.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.4&z=2009-11-04&g=2009-11-04) aangewezen ambtenaren zijn voor de vervulling van hun taak met betrekking tot gevaarlijke afvalstoffen bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
 
 ##### Artikel 18.6
 
-Het bevoegd gezag is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](onbekend), voor zover het betreft de verplichting tot het verlenen van medewerking aan de krachtens [artikel 18.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.4&z=2009-09-10&g=2009-09-10) aangewezen ambtenaren.
+Het bevoegd gezag is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](onbekend), voor zover het betreft de verplichting tot het verlenen van medewerking aan de krachtens [artikel 18.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.4&z=2009-11-04&g=2009-11-04) aangewezen ambtenaren.
 
 ##### Artikel 18.7
 
@@ -3759,7 +3763,7 @@ Onze betrokken Minister is bevoegd tot oplegging van een last onder bestuursdwan
 
 ##### Artikel 18.8
 
-Tot de bevoegdheid tot oplegging van een last onder bestuursdwang krachtens [artikel 18.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.7&z=2009-09-10&g=2009-09-10) behoort het in Nederland door of vanwege het bevoegde bestuursorgaan beheren van afvalstoffen in gevallen waarin die afvalstoffen in strijd met het bij of krachtens de EG-verordening overbrenging van afvalstoffen of [titel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.7&z=2009-09-10&g=2009-09-10) bepaalde, binnen of buiten Nederlands grondgebied worden gebracht.
+Tot de bevoegdheid tot oplegging van een last onder bestuursdwang krachtens [artikel 18.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.7&z=2009-11-04&g=2009-11-04) behoort het in Nederland door of vanwege het bevoegde bestuursorgaan beheren van afvalstoffen in gevallen waarin die afvalstoffen in strijd met het bij of krachtens de EG-verordening overbrenging van afvalstoffen of [titel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.7&z=2009-11-04&g=2009-11-04) bepaalde, binnen of buiten Nederlands grondgebied worden gebracht.
 
 ##### Artikel 18.9
 
@@ -3767,7 +3771,7 @@ Vervallen
 
 ##### Artikel 18.10
 
-Het bestuursorgaan dat een beschikking tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom heeft gegeven terzake van overtreding van de [artikelen 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.1&artikel=1.1a&z=2009-09-10&g=2009-09-10), [10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.1&z=2009-09-10&g=2009-09-10), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-09-10&g=2009-09-10) of [10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-09-10&g=2009-09-10), van het bepaalde bij of krachtens [titel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-09-10&g=2009-09-10) of [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3&z=2009-09-10&g=2009-09-10) of krachtens [artikel 17.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.3&artikel=17.19&z=2009-09-10&g=2009-09-10), of van [artikel 13 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=13), zendt onverwijld een afschrift van die beschikking aan de bestuursorganen die eveneens bevoegd zijn tot bestuursrechtelijke handhaving van die bepalingen.
+Het bestuursorgaan dat een beschikking tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom heeft gegeven terzake van overtreding van de [artikelen 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.1&artikel=1.1a&z=2009-11-04&g=2009-11-04), [10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.1&z=2009-11-04&g=2009-11-04), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-11-04&g=2009-11-04) of [10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-11-04&g=2009-11-04), van het bepaalde bij of krachtens [titel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-11-04&g=2009-11-04), [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3&z=2009-11-04&g=2009-11-04) of [9.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3a&z=2009-11-04&g=2009-11-04) of krachtens [artikel 17.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.3&artikel=17.19&z=2009-11-04&g=2009-11-04), of van [artikel 13 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=13), zendt onverwijld een afschrift van die beschikking aan de bestuursorganen die eveneens bevoegd zijn tot bestuursrechtelijke handhaving van die bepalingen.
 
 ##### Artikel 18.11
 
@@ -3777,9 +3781,9 @@ Indien een verzoek als bedoeld in [artikel 5:34 van de Algemene wet bestuursrech
 
 1. Het ten aanzien van een vergunning of ontheffing bevoegde gezag kan de vergunning of ontheffing geheel of gedeeltelijk intrekken, indien niet overeenkomstig die vergunning of ontheffing is of wordt gehandeld, dan wel indien aan de vergunning of ontheffing verbonden voorschriften of voor de houder van de vergunning of ontheffing als zodanig geldende algemene regels niet worden nageleefd.
 
-2. Een vergunning of ontheffing, die betrekking heeft op het beheer van gevaarlijke afvalstoffen, dan wel van andere afvalstoffen die van elders afkomstig zijn, kan, voor zover zij het beheer van afvalstoffen betreft, tevens worden ingetrokken, indien op grond van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-09-10&g=2009-09-10) voor de houder geldende voorschriften niet worden nageleefd.
+2. Een vergunning of ontheffing, die betrekking heeft op het beheer van gevaarlijke afvalstoffen, dan wel van andere afvalstoffen die van elders afkomstig zijn, kan, voor zover zij het beheer van afvalstoffen betreft, tevens worden ingetrokken, indien op grond van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-11-04&g=2009-11-04) voor de houder geldende voorschriften niet worden nageleefd.
 
-3. Indien binnen een periode van vier jaar aan een persoon tweemaal voor eenzelfde feit een bestuurlijke boete als bedoeld in [artikel 18.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-09-10&g=2009-09-10) is opgelegd en de betrokken boeten binnen die periode onherroepelijk zijn geworden, kan het bestuur van de emissieautoriteit de vergunning, bedoeld in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), of [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), die de betrokken persoon houdt, intrekken.
+3. Indien binnen een periode van vier jaar aan een persoon tweemaal voor eenzelfde feit een bestuurlijke boete als bedoeld in [artikel 18.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-11-04&g=2009-11-04) is opgelegd en de betrokken boeten binnen die periode onherroepelijk zijn geworden, kan het bestuur van de emissieautoriteit de vergunning, bedoeld in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), of [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), die de betrokken persoon houdt, intrekken.
 
 4. Het bevoegd gezag gaat niet tot intrekking als bedoeld in het eerste en tweede lid over dan nadat het de betrokkene de gelegenheid heeft geboden binnen een daartoe te bepalen termijn zijn handelen alsnog in overeenstemming te brengen met de vergunning of ontheffing, onderscheidenlijk de voorschriften of algemene regels, bedoeld in het eerste of tweede lid, na te leven.
 
@@ -3793,7 +3797,7 @@ Een belanghebbende kan aan een bestuursorgaan dat bevoegd is tot oplegging van e
 
 ##### Artikel 18.14a
 
-1. Indien een overeenkomstig [artikel 18.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.14&z=2009-09-10&g=2009-09-10) gedaan verzoek betrekking heeft op de [artikelen 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.1&artikel=1.1a&z=2009-09-10&g=2009-09-10), [10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.1&z=2009-09-10&g=2009-09-10), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-09-10&g=2009-09-10) of [10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-09-10&g=2009-09-10), op het bepaalde bij of krachtens [titel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-09-10&g=2009-09-10) of [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3&z=2009-09-10&g=2009-09-10) of krachtens [artikel 17.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.3&artikel=17.19&z=2009-09-10&g=2009-09-10), of op [artikel 13 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=13), geeft het bestuursorgaan waarbij het verzoek is ingediend, een beschikking op het verzoek.
+1. Indien een overeenkomstig [artikel 18.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.14&z=2009-11-04&g=2009-11-04) gedaan verzoek betrekking heeft op de [artikelen 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.1&artikel=1.1a&z=2009-11-04&g=2009-11-04), [10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.1&z=2009-11-04&g=2009-11-04), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-11-04&g=2009-11-04) of [10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-11-04&g=2009-11-04), op het bepaalde bij of krachtens [titel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-11-04&g=2009-11-04), [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3&z=2009-11-04&g=2009-11-04) of [9.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3a&z=2009-11-04&g=2009-11-04) of krachtens [artikel 17.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.3&artikel=17.19&z=2009-11-04&g=2009-11-04), of op [artikel 13 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=13), geeft het bestuursorgaan waarbij het verzoek is ingediend, een beschikking op het verzoek.
 
 2. Het eerste lid is niet van toepassing indien:
 
@@ -3811,15 +3815,15 @@ Een belanghebbende kan aan een bestuursorgaan dat bevoegd is tot oplegging van e
 
 Het bestuursorgaan zendt een afschrift van de beschikking tot oplegging van een last onder bestuursdwang, tot oplegging van een last onder dwangsom of tot intrekking van zodanige beschikkingen dan wel van de beschikking tot intrekking van een vergunning of ontheffing aan:
 
-- a. de inspecteur, in gevallen waarin de beschikking betrekking heeft op een inrichting die behoort tot een krachtens [artikel 8.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-09-10&g=2009-09-10), aangewezen categorie, en
+- a. de inspecteur, in gevallen waarin de beschikking betrekking heeft op een inrichting die behoort tot een krachtens [artikel 8.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-11-04&g=2009-11-04), aangewezen categorie, en
 
 - b. de andere adviseurs.
 
 ##### Artikel 18.16
 
-1. De beschikking op een overeenkomstig [artikel 18.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.14&z=2009-09-10&g=2009-09-10) gedaan verzoek wordt zo spoedig mogelijk gegeven, doch uiterlijk:
+1. De beschikking op een overeenkomstig [artikel 18.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.14&z=2009-11-04&g=2009-11-04) gedaan verzoek wordt zo spoedig mogelijk gegeven, doch uiterlijk:
 
-- a. indien het verzoek overeenkomstig [artikel 18.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.14a&z=2009-09-10&g=2009-09-10) is doorgezonden: zes weken na de datum waarop het verzoek is ontvangen door het bestuursorgaan waarbij het verzoek is ingediend;
+- a. indien het verzoek overeenkomstig [artikel 18.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.14a&z=2009-11-04&g=2009-11-04) is doorgezonden: zes weken na de datum waarop het verzoek is ontvangen door het bestuursorgaan waarbij het verzoek is ingediend;
 
 - b. in andere gevallen: vier weken na de datum waarop het verzoek is ontvangen.
 
@@ -3831,7 +3835,7 @@ Het bestuursorgaan zendt een afschrift van de beschikking tot oplegging van een 
 
 2. Een overheidslichaam kan in een geval als bedoeld in het eerste lid, overeenkomstig de regels betreffende ongerechtvaardigde verrijking, de daar bedoelde kosten verhalen op degene die door het beheer van de betrokken afvalstoffen ongerechtvaardigd wordt verrijkt.
 
-3. Voor de toepassing van [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.17&z=2009-09-10&g=2009-09-10) is niet vereist dat op het tijdstip waarop de in het eerste lid bedoelde handeling met de in dat lid bedoelde afvalstoffen zich heeft voorgedaan, reeds jegens de overheid onrechtmatig werd gehandeld.
+3. Voor de toepassing van [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.17&z=2009-11-04&g=2009-11-04) is niet vereist dat op het tijdstip waarop de in het eerste lid bedoelde handeling met de in dat lid bedoelde afvalstoffen zich heeft voorgedaan, reeds jegens de overheid onrechtmatig werd gehandeld.
 
 ##### Artikel 18.18
 
@@ -3861,19 +3865,19 @@ Na het einde van de termijn waarbinnen beroep kan worden ingesteld tegen een bes
 
 ##### Artikel 19.4
 
-1. In gevallen waarin toepassing is gegeven aan [artikel 19.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.3&z=2009-09-10&g=2009-09-10), vult de verzoeker, indien een tweede tekst naar het oordeel van het bevoegd gezag niet voldoende gegevens zou verschaffen voor een goede beoordeling van het stuk waarop het verzoek betrekking heeft, een ander stuk in samenhang waarmee het stuk wordt ingediend, het ontwerp van het besluit of het besluit, de stukken binnen een door het bevoegd gezag te stellen termijn zoveel mogelijk aan met andere gegevens die voor die beoordeling bevorderlijk kunnen zijn.
+1. In gevallen waarin toepassing is gegeven aan [artikel 19.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.3&z=2009-11-04&g=2009-11-04), vult de verzoeker, indien een tweede tekst naar het oordeel van het bevoegd gezag niet voldoende gegevens zou verschaffen voor een goede beoordeling van het stuk waarop het verzoek betrekking heeft, een ander stuk in samenhang waarmee het stuk wordt ingediend, het ontwerp van het besluit of het besluit, de stukken binnen een door het bevoegd gezag te stellen termijn zoveel mogelijk aan met andere gegevens die voor die beoordeling bevorderlijk kunnen zijn.
 
-2. In gevallen waarin toepassing is gegeven aan [artikel 19.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.3&z=2009-09-10&g=2009-09-10), vult Onze betrokken Minister, indien een tweede tekst naar zijn oordeel niet voldoende gegevens zou verschaffen voor een goede beoordeling van het stuk waarop het verzoek betrekking heeft, een ander stuk in samenhang waarmee het stuk wordt ingediend, het ontwerp van het besluit of het besluit, de stukken zoveel mogelijk aan met andere gegevens die voor die beoordeling bevorderlijk kunnen zijn.
+2. In gevallen waarin toepassing is gegeven aan [artikel 19.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.3&z=2009-11-04&g=2009-11-04), vult Onze betrokken Minister, indien een tweede tekst naar zijn oordeel niet voldoende gegevens zou verschaffen voor een goede beoordeling van het stuk waarop het verzoek betrekking heeft, een ander stuk in samenhang waarmee het stuk wordt ingediend, het ontwerp van het besluit of het besluit, de stukken zoveel mogelijk aan met andere gegevens die voor die beoordeling bevorderlijk kunnen zijn.
 
 3. Op de tweede tekst stelt het bevoegd gezag een aantekening waaruit blijkt dat die tekst dient ter vervanging van de oorspronkelijke tekst waarin gegevens voorkomen, waarvan de geheimhouding gerechtvaardigd onderscheidenlijk geboden is. Indien het eerste of tweede lid toepassing heeft gevonden, vermeldt de aantekening tevens dat de stukken zijn aangevuld met gegevens als in die leden bedoeld.
 
 ##### Artikel 19.5
 
-1. Op een verzoek tot geheimhouding beslist het bevoegd gezag binnen vier weken na ontvangst. Van de beslissing wordt mededeling gedaan aan de betrokken bestuursorganen. Indien het verzoek in het kader van de toepassing van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&z=2009-09-10&g=2009-09-10) is gedaan en betrekking heeft op een milieu-effectrapport dat betrekking heeft op een plan waarover de commissie overeenkomstig [artikel 7.26b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6a&artikel=7.26b&z=2009-09-10&g=2009-09-10) om advies moet worden gevraagd, dan wel op een besluit als bedoeld in [artikel 7.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2009-09-10&g=2009-09-10), wordt van de beslissing tevens mededeling gedaan aan de Commissie voor de milieu-effectrapportage.
+1. Op een verzoek tot geheimhouding beslist het bevoegd gezag binnen vier weken na ontvangst. Van de beslissing wordt mededeling gedaan aan de betrokken bestuursorganen. Indien het verzoek in het kader van de toepassing van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&z=2009-11-04&g=2009-11-04) is gedaan en betrekking heeft op een milieu-effectrapport dat betrekking heeft op een plan waarover de commissie overeenkomstig [artikel 7.26b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6a&artikel=7.26b&z=2009-11-04&g=2009-11-04) om advies moet worden gevraagd, dan wel op een besluit als bedoeld in [artikel 7.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2009-11-04&g=2009-11-04), wordt van de beslissing tevens mededeling gedaan aan de Commissie voor de milieu-effectrapportage.
 
-2. Indien een verzoek tot geheimhouding in het kader van de toepassing van [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) of [3.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.6) indien het een besluit op aanvraag betreft of van [paragraaf 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&z=2009-09-10&g=2009-09-10) of [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&z=2009-09-10&g=2009-09-10) is gedaan, schort het bevoegd gezag de verdere behandeling van de aanvraag op totdat, indien het verzoek wordt toegestaan, de tweede tekst is overgelegd en de stukken zijn aangevuld met de in [artikel 19.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.4&z=2009-09-10&g=2009-09-10), bedoelde gegevens, dan wel, indien het verzoek geheel of gedeeltelijk wordt afgewezen, de beslissing op het verzoek onherroepelijk is geworden. De krachtens de [artikelen 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:18) en [4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) en [de artikelen 7.5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-09-10&g=2009-09-10), [7.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-09-10&g=2009-09-10), [13.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.7&z=2009-09-10&g=2009-09-10) en [13.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.8&z=2009-09-10&g=2009-09-10) geldende termijnen lopen niet zolang de behandeling is opgeschort.
+2. Indien een verzoek tot geheimhouding in het kader van de toepassing van [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) of [3.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.6) indien het een besluit op aanvraag betreft of van [paragraaf 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&z=2009-11-04&g=2009-11-04) of [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&z=2009-11-04&g=2009-11-04) is gedaan, schort het bevoegd gezag de verdere behandeling van de aanvraag op totdat, indien het verzoek wordt toegestaan, de tweede tekst is overgelegd en de stukken zijn aangevuld met de in [artikel 19.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.4&z=2009-11-04&g=2009-11-04), bedoelde gegevens, dan wel, indien het verzoek geheel of gedeeltelijk wordt afgewezen, de beslissing op het verzoek onherroepelijk is geworden. De krachtens de [artikelen 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:18) en [4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) en [de artikelen 7.5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.5&z=2009-11-04&g=2009-11-04), [7.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.20&z=2009-11-04&g=2009-11-04), [13.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.7&z=2009-11-04&g=2009-11-04) en [13.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.8&z=2009-11-04&g=2009-11-04) geldende termijnen lopen niet zolang de behandeling is opgeschort.
 
-3. Indien een verzoek tot geheimhouding in het kader van de toepassing van [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) of [3.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.6) indien het geen besluit op aanvraag betreft of van [paragraaf 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&z=2009-09-10&g=2009-09-10) of [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&z=2009-09-10&g=2009-09-10) is gedaan, laat het bevoegd gezag de openbaarmaking van het stuk waarop het verzoek betrekking heeft, achterwege totdat, indien het verzoek wordt toegestaan, de tweede tekst is overgelegd en de stukken zijn aangevuld met de in [artikel 19.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.4&z=2009-09-10&g=2009-09-10), bedoelde gegevens, dan wel, indien het verzoek geheel of gedeeltelijk wordt afgewezen, de beslissing op het verzoek onherroepelijk is geworden.
+3. Indien een verzoek tot geheimhouding in het kader van de toepassing van [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) of [3.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.6) indien het geen besluit op aanvraag betreft of van [paragraaf 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&z=2009-11-04&g=2009-11-04) of [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&z=2009-11-04&g=2009-11-04) is gedaan, laat het bevoegd gezag de openbaarmaking van het stuk waarop het verzoek betrekking heeft, achterwege totdat, indien het verzoek wordt toegestaan, de tweede tekst is overgelegd en de stukken zijn aangevuld met de in [artikel 19.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.4&z=2009-11-04&g=2009-11-04), bedoelde gegevens, dan wel, indien het verzoek geheel of gedeeltelijk wordt afgewezen, de beslissing op het verzoek onherroepelijk is geworden.
 
 ##### Artikel 19.6
 
@@ -3881,13 +3885,13 @@ Vervallen
 
 ##### Artikel 19.7
 
-1. Indien in een verslag als bedoeld in [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), milieu-informatie voorkomt of milieu-informatie daaruit kan worden afgeleid, waarvan de geheimhouding op grond van [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) gerechtvaardigd is, kan het bestuur van de emissieautoriteit op een daartoe strekkend verzoek van degene die de inrichting drijft, toestaan dat een door het bestuur van de emissieautoriteit goedgekeurde, tweede tekst openbaar wordt gemaakt, waarin die informatie niet voorkomt, onderscheidenlijk waaruit die informatie niet kan worden afgeleid. Het bestuur van de emissieautoriteit maakt van deze bevoegdheid slechts gebruik met betrekking tot bedrijfsgeheimen en beveiligingsgegevens. Het in de eerste volzin bedoelde verzoek wordt gedaan uiterlijk drie maanden na afloop van het verslagjaar. Bij het verzoek wordt een tweede tekst overgelegd.
+1. Indien in een verslag als bedoeld in [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), milieu-informatie voorkomt of milieu-informatie daaruit kan worden afgeleid, waarvan de geheimhouding op grond van [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) gerechtvaardigd is, kan het bestuur van de emissieautoriteit op een daartoe strekkend verzoek van degene die de inrichting drijft, toestaan dat een door het bestuur van de emissieautoriteit goedgekeurde, tweede tekst openbaar wordt gemaakt, waarin die informatie niet voorkomt, onderscheidenlijk waaruit die informatie niet kan worden afgeleid. Het bestuur van de emissieautoriteit maakt van deze bevoegdheid slechts gebruik met betrekking tot bedrijfsgeheimen en beveiligingsgegevens. Het in de eerste volzin bedoelde verzoek wordt gedaan uiterlijk drie maanden na afloop van het verslagjaar. Bij het verzoek wordt een tweede tekst overgelegd.
 
-2. Indien in een verslag als bedoeld in [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), milieu-informatie voorkomt of daaruit milieu-informatie kan worden afgeleid, waarvan de openbaarmaking achterwege dient te blijven, onderscheidenlijk achterwege mag blijven, op grond van [artikel 10, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), onderscheidenlijk [artikel 10, tweede lid, aanhef en onder a, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), wordt een door degene die de inrichting drijft, op aanwijzing van het bestuur van de emissieautoriteit opgestelde tweede tekst openbaar gemaakt, waarin die informatie niet voorkomt, onderscheidenlijk waaruit deze niet kan worden afgeleid.
+2. Indien in een verslag als bedoeld in [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), milieu-informatie voorkomt of daaruit milieu-informatie kan worden afgeleid, waarvan de openbaarmaking achterwege dient te blijven, onderscheidenlijk achterwege mag blijven, op grond van [artikel 10, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), onderscheidenlijk [artikel 10, tweede lid, aanhef en onder a, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), wordt een door degene die de inrichting drijft, op aanwijzing van het bestuur van de emissieautoriteit opgestelde tweede tekst openbaar gemaakt, waarin die informatie niet voorkomt, onderscheidenlijk waaruit deze niet kan worden afgeleid.
 
-3. [De artikelen 19.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.4&z=2009-09-10&g=2009-09-10) en [19.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.5&z=2009-09-10&g=2009-09-10), zijn van overeenkomstige toepassing, met dien verstande dat het bestuursorgaan, bedoeld in het eerste lid, wordt aangemerkt als het bevoegd gezag.
+3. [De artikelen 19.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.4&z=2009-11-04&g=2009-11-04) en [19.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.5&z=2009-11-04&g=2009-11-04), zijn van overeenkomstige toepassing, met dien verstande dat het bestuursorgaan, bedoeld in het eerste lid, wordt aangemerkt als het bevoegd gezag.
 
-4. Indien een verzoek als bedoeld in het eerste lid is gedaan, kan openbaarmaking van het betrokken verslag, bedoeld in [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), achterwege blijven tot uiterlijk vier weken nadat op dat verzoek onherroepelijk is beslist.
+4. Indien een verzoek als bedoeld in het eerste lid is gedaan, kan openbaarmaking van het betrokken verslag, bedoeld in [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), achterwege blijven tot uiterlijk vier weken nadat op dat verzoek onherroepelijk is beslist.
 
 ### Hoofdstuk 20. Beroep bij de administratieve rechter
 
@@ -3897,7 +3901,7 @@ Vervallen
 
 1. Tegen een besluit op grond van deze wet - met uitzondering van een besluit ten aanzien waarvan op grond van deze wet een andere beroepsgang is opengesteld - of een van de in het derde lid bedoelde wetten of wettelijke bepalingen kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
-2. De Afdeling beslist op een beroep als bedoeld in het eerste lid, binnen twaalf maanden na afloop van de beroepstermijn. In afwijking van de eerste volzin beslist de Afdeling op een beroep tegen een nationaal toewijzingsbesluit als bedoeld in [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-09-10&g=2009-09-10), of een gewijzigd nationaal toewijzingsbesluit als bedoeld in [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-09-10&g=2009-09-10), binnen veertig weken na afloop van de termijn voor het indienen van een beroepschrift tegen eerstbedoeld besluit.
+2. De Afdeling beslist op een beroep als bedoeld in het eerste lid, binnen twaalf maanden na afloop van de beroepstermijn. In afwijking van de eerste volzin beslist de Afdeling op een beroep tegen een nationaal toewijzingsbesluit als bedoeld in [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-11-04&g=2009-11-04), of een gewijzigd nationaal toewijzingsbesluit als bedoeld in [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-11-04&g=2009-11-04), binnen veertig weken na afloop van de termijn voor het indienen van een beroepschrift tegen eerstbedoeld besluit.
 
 3. De in het eerste lid bedoelde wetten of wettelijke bepalingen zijn:
 
@@ -3923,53 +3927,53 @@ de [Wet bescherming Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBR0009449)
 
 de EG-verordening overbrenging van afvalstoffen en
 
-de [artikelen 125 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=125), [122 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=122), [61 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=61) en [5:32 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), voor zover het besluiten betreft die betrekking hebben op de handhaving van het bepaalde bij of krachtens de wetten waarop [hoofdstuk 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&z=2009-09-10&g=2009-09-10) van deze wet van toepassing is.
+de [artikelen 125 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=125), [122 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=122), [61 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=61) en [5:32 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), voor zover het besluiten betreft die betrekking hebben op de handhaving van het bepaalde bij of krachtens de wetten waarop [hoofdstuk 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&z=2009-11-04&g=2009-11-04) van deze wet van toepassing is.
 
-4. Het beroep tegen een gewijzigd nationaal toewijzingsbesluit als bedoeld in [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-09-10&g=2009-09-10), kan uitsluitend worden ingesteld door een belanghebbende die rechtstreeks in zijn belang is getroffen door de wijzigingen die ten opzichte van het oorspronkelijke nationale toewijzingsbesluit zijn aangebracht. [Artikel 6:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:13) is van overeenkomstige toepassing.
+4. Het beroep tegen een gewijzigd nationaal toewijzingsbesluit als bedoeld in [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-11-04&g=2009-11-04), kan uitsluitend worden ingesteld door een belanghebbende die rechtstreeks in zijn belang is getroffen door de wijzigingen die ten opzichte van het oorspronkelijke nationale toewijzingsbesluit zijn aangebracht. [Artikel 6:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:13) is van overeenkomstige toepassing.
 
-5. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedraagt de termijn voor het instellen van beroep tegen een gewijzigd nationaal toewijzingsbesluit als bedoeld in [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-09-10&g=2009-09-10), vier weken.
+5. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedraagt de termijn voor het instellen van beroep tegen een gewijzigd nationaal toewijzingsbesluit als bedoeld in [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-11-04&g=2009-11-04), vier weken.
 
-6. In afwijking van [artikel 6:19, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:19) wordt het beroep tegen het nationale toewijzingsbesluit als bedoeld in [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-09-10&g=2009-09-10), geacht mede gericht te zijn tegen het gewijzigde nationale toewijzingsbesluit als bedoeld in [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-09-10&g=2009-09-10).
+6. In afwijking van [artikel 6:19, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:19) wordt het beroep tegen het nationale toewijzingsbesluit als bedoeld in [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-11-04&g=2009-11-04), geacht mede gericht te zijn tegen het gewijzigde nationale toewijzingsbesluit als bedoeld in [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-11-04&g=2009-11-04).
 
-7. Tegen een besluit op grond van [artikel 18.16a, eerste, tweede of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-09-10&g=2009-09-10), kan beroep worden ingesteld bij de rechtbank te 's-Gravenhage.
+7. Tegen een besluit op grond van [artikel 18.16a, eerste, tweede of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-11-04&g=2009-11-04), kan beroep worden ingesteld bij de rechtbank te 's-Gravenhage.
 
 ##### Artikel 20.2
 
 1. Geen beroep kan worden ingesteld tegen een besluit:
 
-- a. inzake een milieubeleidsplan, genomen krachtens de [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.2&artikel=4.3&z=2009-09-10&g=2009-09-10), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.2&artikel=4.6&z=2009-09-10&g=2009-09-10), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.9&z=2009-09-10&g=2009-09-10), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.12&z=2009-09-10&g=2009-09-10), [4.15a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.5a&artikel=4.15a&z=2009-09-10&g=2009-09-10), [4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.16&z=2009-09-10&g=2009-09-10) of [4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.19&z=2009-09-10&g=2009-09-10);
+- a. inzake een milieubeleidsplan, genomen krachtens de [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.2&artikel=4.3&z=2009-11-04&g=2009-11-04), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.2&artikel=4.6&z=2009-11-04&g=2009-11-04), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.9&z=2009-11-04&g=2009-11-04), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.12&z=2009-11-04&g=2009-11-04), [4.15a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.5a&artikel=4.15a&z=2009-11-04&g=2009-11-04), [4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.16&z=2009-11-04&g=2009-11-04) of [4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.19&z=2009-11-04&g=2009-11-04);
 
-- b. inzake een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-09-10&g=2009-09-10), of een instemming als bedoeld in [artikel 5.12, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10);
+- b. inzake een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-11-04&g=2009-11-04), of een instemming als bedoeld in [artikel 5.12, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04);
 
-- c. inzake een afvalbeheersplan, genomen krachtens [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.3&z=2009-09-10&g=2009-09-10);
+- c. inzake een afvalbeheersplan, genomen krachtens [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.2&artikel=10.3&z=2009-11-04&g=2009-11-04);
 
-- d. inzake een nationaal toewijzingsplan, genomen krachtens [artikel 16.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.23&z=2009-09-10&g=2009-09-10);
+- d. inzake een nationaal toewijzingsplan, genomen krachtens [artikel 16.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.23&z=2009-11-04&g=2009-11-04);
 
-- e. inzake de toewijzing van broeikasgasemissierechten, genomen krachtens [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-09-10&g=2009-09-10), met uitzondering van een besluit houdende toewijzing van broeikasgasemissierechten voor een afzonderlijke inrichting;
+- e. inzake de toewijzing van broeikasgasemissierechten, genomen krachtens [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-11-04&g=2009-11-04), met uitzondering van een besluit houdende toewijzing van broeikasgasemissierechten voor een afzonderlijke inrichting;
 
 - f. houdende een kennisgeving als bedoeld in artikel 22, vierde lid, van de EG-richtlijn luchtkwaliteit.
 
 2. Geen beroep kan worden ingesteld tegen een beschikking:
 
-- a. houdende een aanwijzing als bedoeld in [artikel 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.6&artikel=5.23&z=2009-09-10&g=2009-09-10),
+- a. houdende een aanwijzing als bedoeld in [artikel 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.6&artikel=5.23&z=2009-11-04&g=2009-11-04),
 
-- b. houdende een aanwijzing als bedoeld in [artikel 8.27](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.1&artikel=8.27&z=2009-09-10&g=2009-09-10),
+- b. houdende een aanwijzing als bedoeld in [artikel 8.27](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.1&artikel=8.27&z=2009-11-04&g=2009-11-04),
 
-- c. houdende een aanwijzing als bedoeld in [artikel 8.31a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.31a&z=2009-09-10&g=2009-09-10),
+- c. houdende een aanwijzing als bedoeld in [artikel 8.31a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.31a&z=2009-11-04&g=2009-11-04),
 
-- d. houdende een verzoek als bedoeld in [artikel 8.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.3&artikel=8.39&z=2009-09-10&g=2009-09-10),
+- d. houdende een verzoek als bedoeld in [artikel 8.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.3&artikel=8.39&z=2009-11-04&g=2009-11-04),
 
-- e. houdende een certificaat of een accreditatie als bedoeld in [artikel 11.2, derde lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11&titeldeel=11.1&artikel=11.2&z=2009-09-10&g=2009-09-10),
+- e. houdende een certificaat of een accreditatie als bedoeld in [artikel 11.2, derde lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11&titeldeel=11.1&artikel=11.2&z=2009-11-04&g=2009-11-04),
 
-- f. houdende een verzoek als bedoeld in [artikel 17.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.5&z=2009-09-10&g=2009-09-10),
+- f. houdende een verzoek als bedoeld in [artikel 17.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.5&z=2009-11-04&g=2009-11-04),
 
-- g. houdende een aanwijzing als bedoeld in [artikel 18.3d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3d&z=2009-09-10&g=2009-09-10), of [18.3f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3f&z=2009-09-10&g=2009-09-10),
+- g. houdende een aanwijzing als bedoeld in [artikel 18.3d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3d&z=2009-11-04&g=2009-11-04), of [18.3f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3f&z=2009-11-04&g=2009-11-04),
 
-- h. houdende een aanwijzing van Onze Minister met toepassing van [artikel 18.3f, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3f&z=2009-09-10&g=2009-09-10), aan burgemeester en wethouders of aan het dagelijks bestuur van een waterschap ter zake van de uitvoering door deze bestuursorganen van het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-09-10&g=2009-09-10),
+- h. houdende een aanwijzing van Onze Minister met toepassing van [artikel 18.3f, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3f&z=2009-11-04&g=2009-11-04), aan burgemeester en wethouders of aan het dagelijks bestuur van een waterschap ter zake van de uitvoering door deze bestuursorganen van het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-11-04&g=2009-11-04),
 
-- i. houdende een verklaring van geen bezwaar als bedoeld in [artikel 18.3e, eerste lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3e&z=2009-09-10&g=2009-09-10), of
+- i. houdende een verklaring van geen bezwaar als bedoeld in [artikel 18.3e, eerste lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3e&z=2009-11-04&g=2009-11-04), of
 
-- j. houdende een vordering als bedoeld in [artikel 18.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.8a&z=2009-09-10&g=2009-09-10).
+- j. houdende een vordering als bedoeld in [artikel 18.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.8a&z=2009-11-04&g=2009-11-04).
 
 3. In afwijking van het tweede lid kan tegen een beschikking als bedoeld in dat lid, onder a, c, d of f, beroep worden ingesteld overeenkomstig de bepalingen van dit hoofdstuk door het ten aanzien van de beschikking waarop de aanwijzing, onderscheidenlijk het verzoek betrekking heeft, bevoegde gezag.
 
@@ -3977,29 +3981,29 @@ de [artikelen 125 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 20.3
 
-1. Een besluit als bedoeld in [artikel 20.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.1&z=2009-09-10&g=2009-09-10), treedt in werking met ingang van de dag na de dag waarop de termijn afloopt voor het indienen van een bezwaarschrift dan wel, indien ingevolge [artikel 7:1, eerste lid, onder **d**, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) geen bezwaar kan worden gemaakt, van een beroepschrift. Indien gedurende die termijn bij de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State, dan wel, in een geval waarin [artikel 20.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.1&z=2009-09-10&g=2009-09-10), van toepassing is, de voorzieningenrechter van de rechtbank te 's-Gravenhage, een verzoek om voorlopige voorziening is gedaan, treedt het besluit niet in werking voordat op dat verzoek is beslist.
+1. Een besluit als bedoeld in [artikel 20.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.1&z=2009-11-04&g=2009-11-04), treedt in werking met ingang van de dag na de dag waarop de termijn afloopt voor het indienen van een bezwaarschrift dan wel, indien ingevolge [artikel 7:1, eerste lid, onder **d**, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) geen bezwaar kan worden gemaakt, van een beroepschrift. Indien gedurende die termijn bij de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State, dan wel, in een geval waarin [artikel 20.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.1&z=2009-11-04&g=2009-11-04), van toepassing is, de voorzieningenrechter van de rechtbank te 's-Gravenhage, een verzoek om voorlopige voorziening is gedaan, treedt het besluit niet in werking voordat op dat verzoek is beslist.
 
-2. Indien het gebruik maken van een besluit als bedoeld in [artikel 20.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.1&z=2009-09-10&g=2009-09-10), voordat op een beroep is beslist, wegens de daaraan verbonden kosten, dan wel wegens de daardoor veroorzaakte wijziging in feitelijke omstandigheden die bij de beslissing op het beroep een rol kunnen spelen, aanmerkelijke invloed kan hebben op die beslissing, wordt een zodanige voorlopige voorziening getroffen dat die invloed zich niet kan voordoen.
+2. Indien het gebruik maken van een besluit als bedoeld in [artikel 20.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.1&z=2009-11-04&g=2009-11-04), voordat op een beroep is beslist, wegens de daaraan verbonden kosten, dan wel wegens de daardoor veroorzaakte wijziging in feitelijke omstandigheden die bij de beslissing op het beroep een rol kunnen spelen, aanmerkelijke invloed kan hebben op die beslissing, wordt een zodanige voorlopige voorziening getroffen dat die invloed zich niet kan voordoen.
 
 ##### Artikel 20.4
 
-[Artikel 20.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.3&z=2009-09-10&g=2009-09-10) is niet van toepassing op besluiten:
+[Artikel 20.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.3&z=2009-11-04&g=2009-11-04) is niet van toepassing op besluiten:
 
 - a. houdende vergunning of bezwaren krachtens de EG-verordening overbrenging van afvalstoffen;
 
-- b. krachtens de [artikelen 18.3e, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3e&z=2009-09-10&g=2009-09-10), [18.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.7&z=2009-09-10&g=2009-09-10) en [18.8a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.8a&z=2009-09-10&g=2009-09-10), van deze wet, de [artikelen 125 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=125), [122 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=122), [61 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=61) en [5:32 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), voor zover het besluiten betreft die betrekking hebben op de handhaving van het bepaalde bij of krachtens de wetten waarop [hoofdstuk 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&z=2009-09-10&g=2009-09-10) van toepassing is.
+- b. krachtens de [artikelen 18.3e, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3e&z=2009-11-04&g=2009-11-04), [18.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.7&z=2009-11-04&g=2009-11-04) en [18.8a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.8a&z=2009-11-04&g=2009-11-04), van deze wet, de [artikelen 125 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=125), [122 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=122), [61 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=61) en [5:32 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), voor zover het besluiten betreft die betrekking hebben op de handhaving van het bepaalde bij of krachtens de wetten waarop [hoofdstuk 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&z=2009-11-04&g=2009-11-04) van toepassing is.
 
 ##### Artikel 20.5
 
-In gevallen waarin het onverwijld in werking treden van een besluit als bedoeld in [artikel 20.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.1&z=2009-09-10&g=2009-09-10), naar het oordeel van het bevoegd gezag noodzakelijk is, kan het in afwijking van [artikel 20.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.3&z=2009-09-10&g=2009-09-10), in het besluit bepalen dat het terstond in werking treedt.
+In gevallen waarin het onverwijld in werking treden van een besluit als bedoeld in [artikel 20.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.1&z=2009-11-04&g=2009-11-04), naar het oordeel van het bevoegd gezag noodzakelijk is, kan het in afwijking van [artikel 20.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.3&z=2009-11-04&g=2009-11-04), in het besluit bepalen dat het terstond in werking treedt.
 
 #### § 15.2.1. Grondslag en maatstaf
 
 ##### Artikel 20.6
 
-1. Deze paragraaf is van toepassing op het beroep tegen besluiten als bedoeld in [artikel 20.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.1&z=2009-09-10&g=2009-09-10), op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is.
+1. Deze paragraaf is van toepassing op het beroep tegen besluiten als bedoeld in [artikel 20.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.1&z=2009-11-04&g=2009-11-04), op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is.
 
-2. [Artikel 20.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.5&z=2009-09-10&g=2009-09-10) is niet van toepassing op een besluit als bedoeld in het eerste lid.
+2. [Artikel 20.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.5&z=2009-11-04&g=2009-11-04) is niet van toepassing op een besluit als bedoeld in het eerste lid.
 
 ##### Artikel 20.7
 
@@ -4007,11 +4011,11 @@ Vervallen
 
 ##### Artikel 20.8
 
-In afwijking van [artikel 20.3, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.3&z=2009-09-10&g=2009-09-10), treedt een besluit als bedoeld in [artikel 20.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.2&artikel=20.6&z=2009-09-10&g=2009-09-10), in gevallen als bedoeld in [artikel 8.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.5&z=2009-09-10&g=2009-09-10), - waarin de vergunning betrekking heeft op het oprichten of veranderen van een inrichting, dat tevens is aan te merken als bouwen in de zin van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) - niet eerder in werking dan nadat de betrokken bouwvergunning is verleend.
+In afwijking van [artikel 20.3, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.3&z=2009-11-04&g=2009-11-04), treedt een besluit als bedoeld in [artikel 20.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.2&artikel=20.6&z=2009-11-04&g=2009-11-04), in gevallen als bedoeld in [artikel 8.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.5&z=2009-11-04&g=2009-11-04), - waarin de vergunning betrekking heeft op het oprichten of veranderen van een inrichting, dat tevens is aan te merken als bouwen in de zin van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) - niet eerder in werking dan nadat de betrokken bouwvergunning is verleend.
 
 ##### Artikel 20.9
 
-Indien in een geval als bedoeld in [artikel 8.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.28&z=2009-09-10&g=2009-09-10) ingevolge [dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&z=2009-09-10&g=2009-09-10) beroep is ingesteld tegen een beschikking op de aanvraag om verlening of wijziging van een vergunning krachtens [artikel 7 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=7) en krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) of [artikel 8.24](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.24&z=2009-09-10&g=2009-09-10) van deze wet een daarmee samenhangende beschikking is gegeven, kan de uitspraak in beroep ook op de laatstbedoelde beschikking betrekking hebben.
+Indien in een geval als bedoeld in [artikel 8.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.3&paragraaf=8.1.3.2&artikel=8.28&z=2009-11-04&g=2009-11-04) ingevolge [dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&z=2009-11-04&g=2009-11-04) beroep is ingesteld tegen een beschikking op de aanvraag om verlening of wijziging van een vergunning krachtens [artikel 7 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=7) en krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) of [artikel 8.24](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.24&z=2009-11-04&g=2009-11-04) van deze wet een daarmee samenhangende beschikking is gegeven, kan de uitspraak in beroep ook op de laatstbedoelde beschikking betrekking hebben.
 
 #### § 15.2.1. Grondslag en maatstaf
 
@@ -4037,7 +4041,7 @@ Vervallen
 
 ##### Artikel 20.14
 
-1. Onze Minister is gemachtigd namens de Staat tot oprichting over te gaan van een stichting die tot doel heeft de taak te verrichten bedoeld in [artikel 20.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.3&artikel=20.15&z=2009-09-10&g=2009-09-10).
+1. Onze Minister is gemachtigd namens de Staat tot oprichting over te gaan van een stichting die tot doel heeft de taak te verrichten bedoeld in [artikel 20.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.3&artikel=20.15&z=2009-11-04&g=2009-11-04).
 
 2. Wijziging van de statuten van de stichting, dan wel ontbinding van de stichting behoeft de toestemming van Onze Minister. Alvorens te beslissen over de toestemming, hoort Onze Minister de Afdeling bestuursrechtspraak van de Raad van State.
 
@@ -4045,7 +4049,7 @@ Vervallen
 
 ##### Artikel 20.15
 
-De stichting heeft tot taak aan de administratieve rechter op diens verzoek deskundigenbericht uit te brengen inzake beroepen op grond van [artikel 20.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.1&z=2009-09-10&g=2009-09-10) van deze wet. Op verzoek van de administratieve rechter brengt de stichting tevens deskundigenbericht uit inzake beroepen op grond van andere wetten, voor zover het onderwerpen betreft die samenhangen met aspecten van het milieubeheer waarvoor Onze Minister verantwoordelijk is.
+De stichting heeft tot taak aan de administratieve rechter op diens verzoek deskundigenbericht uit te brengen inzake beroepen op grond van [artikel 20.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.1&z=2009-11-04&g=2009-11-04) van deze wet. Op verzoek van de administratieve rechter brengt de stichting tevens deskundigenbericht uit inzake beroepen op grond van andere wetten, voor zover het onderwerpen betreft die samenhangen met aspecten van het milieubeheer waarvoor Onze Minister verantwoordelijk is.
 
 ##### Artikel 20.16
 
@@ -4053,7 +4057,7 @@ De personen die deel uitmaken van de organen van de stichting, en het personeel 
 
 ##### Artikel 20.17
 
-1. Indien met toepassing van [artikel 20.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.3&artikel=20.14&z=2009-09-10&g=2009-09-10) een stichting is opgericht, verstrekt Onze Minister aan de stichting subsidie overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen voorschriften, voor zover dat redelijkerwijs noodzakelijk is voor een goede taakuitoefening.
+1. Indien met toepassing van [artikel 20.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.3&artikel=20.14&z=2009-11-04&g=2009-11-04) een stichting is opgericht, verstrekt Onze Minister aan de stichting subsidie overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen voorschriften, voor zover dat redelijkerwijs noodzakelijk is voor een goede taakuitoefening.
 
 2. [Artikel 8:36, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:36) is niet van toepassing.
 
@@ -4077,15 +4081,15 @@ Vervallen
 
 ##### Artikel 21.1
 
-1. Burgemeester en wethouders, gedeputeerde staten en ieder Onzer betrokken Ministers doen jaarlijks verslag aan onderscheidenlijk de gemeenteraad, provinciale staten en de Staten-Generaal over hun beleid met betrekking tot de uitvoering van [de hoofdstukken 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-09-10&g=2009-09-10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&z=2009-09-10&g=2009-09-10) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&z=2009-09-10&g=2009-09-10) en [paragraaf 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&z=2009-09-10&g=2009-09-10) van deze wet. Burgemeester en wethouders en gedeputeerde staten zenden het verslag gelijktijdig met de aanbieding aan de gemeenteraad, onderscheidenlijk provinciale staten, aan de inspecteur.
+1. Burgemeester en wethouders, gedeputeerde staten en ieder Onzer betrokken Ministers doen jaarlijks verslag aan onderscheidenlijk de gemeenteraad, provinciale staten en de Staten-Generaal over hun beleid met betrekking tot de uitvoering van [de hoofdstukken 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-11-04&g=2009-11-04), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&z=2009-11-04&g=2009-11-04) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&z=2009-11-04&g=2009-11-04) en [paragraaf 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.1&z=2009-11-04&g=2009-11-04) van deze wet. Burgemeester en wethouders en gedeputeerde staten zenden het verslag gelijktijdig met de aanbieding aan de gemeenteraad, onderscheidenlijk provinciale staten, aan de inspecteur.
 
 2. Zij vermelden in hun verslag in ieder geval:
 
-- a. het aantal malen dat in de periode waarop het verslag betrekking heeft, de termijnen zijn overschreden, die ingevolge [artikel 3:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:18) alsmede [artikel 13.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.7&z=2009-09-10&g=2009-09-10) gelden voor het geven van de beschikking, de oorzaken daarvan en de maatregelen die zij hebben getroffen of zullen treffen om het overschrijden van die termijnen zo veel mogelijk te voorkomen;
+- a. het aantal malen dat in de periode waarop het verslag betrekking heeft, de termijnen zijn overschreden, die ingevolge [artikel 3:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:18) alsmede [artikel 13.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.7&z=2009-11-04&g=2009-11-04) gelden voor het geven van de beschikking, de oorzaken daarvan en de maatregelen die zij hebben getroffen of zullen treffen om het overschrijden van die termijnen zo veel mogelijk te voorkomen;
 
 - b. afzonderlijk de wijze waarop zij de in het eerste lid genoemde hoofdstukken van deze wet hebben uitgevoerd ten aanzien van inrichtingen die geheel of gedeeltelijk gedreven worden door onderscheidenlijk de betrokken gemeente, de betrokken provincie of het rijk.
 
-3. Gevallen ten aanzien waarvan [artikel 13.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.10&z=2009-09-10&g=2009-09-10) is toegepast, worden in het verslag van Onze Minister niet vermeld.
+3. Gevallen ten aanzien waarvan [artikel 13.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&artikel=13.10&z=2009-11-04&g=2009-11-04) is toegepast, worden in het verslag van Onze Minister niet vermeld.
 
 ##### Artikel 21.2
 
@@ -4113,21 +4117,21 @@ Voor de uitvoering van deze wet ten aanzien van gebieden die niet deel uitmaken 
 
 1. Bij de vaststelling, wijziging of intrekking van een algemene maatregel van bestuur krachtens deze wet wordt rekening gehouden met het geldende nationale milieubeleidsplan.
 
-2. De voordracht voor een algemene maatregel van bestuur krachtens [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10), [5.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.3&z=2009-09-10&g=2009-09-10), of [18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-09-10&g=2009-09-10) wordt Ons gedaan door Onze Minister en, voor zover het onderdelen van het milieubeleid betreft die tot hun verantwoordelijkheid behoren, Onze Ministers van Verkeer en Waterstaat en van Landbouw, Natuur en Voedselkwaliteit en, voorzover het de strafrechtelijke handhaving betreft van het bepaalde bij of krachtens deze wet of de andere in [artikel 18.1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.1a&z=2009-09-10&g=2009-09-10), bedoelde wetten, Onze Minister van Justitie. De voordracht van een algemene maatregel van bestuur krachtens [artikel 9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-09-10&g=2009-09-10) of [9.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.2&z=2009-09-10&g=2009-09-10) wordt Ons gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport, mede namens Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid.
+2. De voordracht voor een algemene maatregel van bestuur krachtens [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04), [5.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.3&z=2009-11-04&g=2009-11-04), of [18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-11-04&g=2009-11-04) wordt Ons gedaan door Onze Minister en, voor zover het onderdelen van het milieubeleid betreft die tot hun verantwoordelijkheid behoren, Onze Ministers van Verkeer en Waterstaat en van Landbouw, Natuur en Voedselkwaliteit en, voorzover het de strafrechtelijke handhaving betreft van het bepaalde bij of krachtens deze wet of de andere in [artikel 18.1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.1a&z=2009-11-04&g=2009-11-04), bedoelde wetten, Onze Minister van Justitie. De voordracht van een algemene maatregel van bestuur krachtens [artikel 9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-11-04&g=2009-11-04) of [9.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.2&z=2009-11-04&g=2009-11-04) wordt Ons gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport, mede namens Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid.
 
-3. De voordracht voor een algemene maatregel van bestuur krachtens [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.2&z=2009-09-10&g=2009-09-10), [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&z=2009-09-10&g=2009-09-10) of [paragraaf 14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&z=2009-09-10&g=2009-09-10), wordt Ons gedaan door Onze Minister, Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister van Onderwijs, Cultuur en Wetenschap. De voordracht voor een algemene maatregel van bestuur krachtens [titel 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.1&z=2009-09-10&g=2009-09-10) wordt Ons gedaan door Onze Minister en, voor zover het onderdelen van het milieubeleid betreft die tot hun verantwoordelijkheid behoren, Onze Ministers van Verkeer en Waterstaat, van Landbouw, Natuurbeheer en Visserij en van Economische Zaken. Indien het een of meer inrichtingen betreft, die onder Onze Minister van Defensie ressorteren, wordt de voordracht voor een algemene maatregel van bestuur krachtens de [artikelen 12.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.1&artikel=12.1&z=2009-09-10&g=2009-09-10), [12.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.1&artikel=12.4&z=2009-09-10&g=2009-09-10) en [12.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.1&artikel=12.5&z=2009-09-10&g=2009-09-10) Ons mede door hem gedaan.
+3. De voordracht voor een algemene maatregel van bestuur krachtens [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.2&z=2009-11-04&g=2009-11-04), [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&z=2009-11-04&g=2009-11-04) of [paragraaf 14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=14&paragraaf=14.2&z=2009-11-04&g=2009-11-04), wordt Ons gedaan door Onze Minister, Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister van Onderwijs, Cultuur en Wetenschap. De voordracht voor een algemene maatregel van bestuur krachtens [titel 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.1&z=2009-11-04&g=2009-11-04) wordt Ons gedaan door Onze Minister en, voor zover het onderdelen van het milieubeleid betreft die tot hun verantwoordelijkheid behoren, Onze Ministers van Verkeer en Waterstaat, van Landbouw, Natuurbeheer en Visserij en van Economische Zaken. Indien het een of meer inrichtingen betreft, die onder Onze Minister van Defensie ressorteren, wordt de voordracht voor een algemene maatregel van bestuur krachtens de [artikelen 12.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.1&artikel=12.1&z=2009-11-04&g=2009-11-04), [12.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.1&artikel=12.4&z=2009-11-04&g=2009-11-04) en [12.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.1&artikel=12.5&z=2009-11-04&g=2009-11-04) Ons mede door hem gedaan.
 
-4. Het ontwerp van een algemene maatregel van bestuur krachtens [artikel 1.1, eerste, derde, zesde, zevende of achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.1&artikel=1.1&z=2009-09-10&g=2009-09-10), [2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2009-09-10&g=2009-09-10), [5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10), [5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.3&z=2009-09-10&g=2009-09-10), [7.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2009-09-10&g=2009-09-10), [7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.7&z=2009-09-10&g=2009-09-10), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.2&z=2009-09-10&g=2009-09-10), [8.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.2a&z=2009-09-10&g=2009-09-10), [8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.5&z=2009-09-10&g=2009-09-10), [8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-09-10&g=2009-09-10), [8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.15&z=2009-09-10&g=2009-09-10), [8.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.17&z=2009-09-10&g=2009-09-10), [8.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.19&z=2009-09-10&g=2009-09-10), [8.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.20&z=2009-09-10&g=2009-09-10), [8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10), [8.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.45&z=2009-09-10&g=2009-09-10), [8.49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-09-10&g=2009-09-10), [9.2.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.1&artikel=9.2.1.3&z=2009-09-10&g=2009-09-10), [9.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.1&artikel=9.2.1.4&z=2009-09-10&g=2009-09-10), [9.2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-09-10&g=2009-09-10), [9.2.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-09-10&g=2009-09-10), [9.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.2&z=2009-09-10&g=2009-09-10), [9.2.3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.3&z=2009-09-10&g=2009-09-10), [10.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-09-10&g=2009-09-10), [10.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.15&z=2009-09-10&g=2009-09-10), [10.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.16&z=2009-09-10&g=2009-09-10), [10.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-09-10&g=2009-09-10), [10.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.18&z=2009-09-10&g=2009-09-10), [10.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.19&z=2009-09-10&g=2009-09-10), [10.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.22&z=2009-09-10&g=2009-09-10), [10.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.28&z=2009-09-10&g=2009-09-10), [10.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.29&z=2009-09-10&g=2009-09-10), [10.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.30&z=2009-09-10&g=2009-09-10), [10.32](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.32&z=2009-09-10&g=2009-09-10), [10.41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.41&z=2009-09-10&g=2009-09-10), [10.42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.42&z=2009-09-10&g=2009-09-10), [10.43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.43&z=2009-09-10&g=2009-09-10), [10.44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.2&artikel=10.44&z=2009-09-10&g=2009-09-10), [10.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.46&z=2009-09-10&g=2009-09-10), [10.47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.47&z=2009-09-10&g=2009-09-10), [10.48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-09-10&g=2009-09-10), [10.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.51&z=2009-09-10&g=2009-09-10), [10.52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.52&z=2009-09-10&g=2009-09-10), [10.54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-09-10&g=2009-09-10), [10.61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.8&artikel=10.62&z=2009-09-10&g=2009-09-10), [12.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.1&artikel=12.10&z=2009-09-10&g=2009-09-10), [12.12, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.12&z=2009-09-10&g=2009-09-10), [12.13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.13&z=2009-09-10&g=2009-09-10), [12.16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.16&z=2009-09-10&g=2009-09-10), [12.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-09-10&g=2009-09-10), [12.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.5&artikel=12.29&z=2009-09-10&g=2009-09-10), [15.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.3&artikel=15.13&z=2009-09-10&g=2009-09-10), [15.32, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.8&artikel=15.32&z=2009-09-10&g=2009-09-10), [15.46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.46&z=2009-09-10&g=2009-09-10), [16.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.1&artikel=16.1&z=2009-09-10&g=2009-09-10), [16.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), in verbinding met [16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), [16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-09-10&g=2009-09-10)[16.53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-09-10&g=2009-09-10), [17.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.7&z=2009-09-10&g=2009-09-10), [18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-09-10&g=2009-09-10) of [21.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=21&artikel=21.4&z=2009-09-10&g=2009-09-10) wordt overgelegd aan de beide kamers der Staten-Generaal en in de Staatscourant bekendgemaakt. Aan een ieder wordt de gelegenheid geboden binnen een bij die bekendmaking vast te stellen termijn van ten minste vier weken opmerkingen over het ontwerp schriftelijk ter kennis van Onze Minister te brengen.
+4. Het ontwerp van een algemene maatregel van bestuur krachtens [artikel 1.1, eerste, derde, zesde, zevende of achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.1&artikel=1.1&z=2009-11-04&g=2009-11-04), [2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2009-11-04&g=2009-11-04), [5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04), [5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.3&z=2009-11-04&g=2009-11-04), [7.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2009-11-04&g=2009-11-04), [7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.7&z=2009-11-04&g=2009-11-04), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.2&z=2009-11-04&g=2009-11-04), [8.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.2a&z=2009-11-04&g=2009-11-04), [8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.5&z=2009-11-04&g=2009-11-04), [8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.7&z=2009-11-04&g=2009-11-04), [8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.15&z=2009-11-04&g=2009-11-04), [8.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.17&z=2009-11-04&g=2009-11-04), [8.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.19&z=2009-11-04&g=2009-11-04), [8.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.20&z=2009-11-04&g=2009-11-04), [8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04), [8.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.45&z=2009-11-04&g=2009-11-04), [8.49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-11-04&g=2009-11-04), [9.2.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.1&artikel=9.2.1.3&z=2009-11-04&g=2009-11-04), [9.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.1&artikel=9.2.1.4&z=2009-11-04&g=2009-11-04), [9.2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-11-04&g=2009-11-04), [9.2.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-11-04&g=2009-11-04), [9.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.2&z=2009-11-04&g=2009-11-04), [9.2.3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.3&z=2009-11-04&g=2009-11-04), [10.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-11-04&g=2009-11-04), [10.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.15&z=2009-11-04&g=2009-11-04), [10.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.16&z=2009-11-04&g=2009-11-04), [10.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-11-04&g=2009-11-04), [10.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.18&z=2009-11-04&g=2009-11-04), [10.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.19&z=2009-11-04&g=2009-11-04), [10.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.22&z=2009-11-04&g=2009-11-04), [10.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.28&z=2009-11-04&g=2009-11-04), [10.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.29&z=2009-11-04&g=2009-11-04), [10.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.30&z=2009-11-04&g=2009-11-04), [10.32](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.32&z=2009-11-04&g=2009-11-04), [10.41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.41&z=2009-11-04&g=2009-11-04), [10.42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.42&z=2009-11-04&g=2009-11-04), [10.43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.43&z=2009-11-04&g=2009-11-04), [10.44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.2&artikel=10.44&z=2009-11-04&g=2009-11-04), [10.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.46&z=2009-11-04&g=2009-11-04), [10.47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.47&z=2009-11-04&g=2009-11-04), [10.48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-11-04&g=2009-11-04), [10.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.51&z=2009-11-04&g=2009-11-04), [10.52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.52&z=2009-11-04&g=2009-11-04), [10.54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-11-04&g=2009-11-04), [10.61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.8&artikel=10.62&z=2009-11-04&g=2009-11-04), [12.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.1&artikel=12.10&z=2009-11-04&g=2009-11-04), [12.12, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.12&z=2009-11-04&g=2009-11-04), [12.13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.13&z=2009-11-04&g=2009-11-04), [12.16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.16&z=2009-11-04&g=2009-11-04), [12.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-11-04&g=2009-11-04), [12.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.5&artikel=12.29&z=2009-11-04&g=2009-11-04), [15.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.3&artikel=15.13&z=2009-11-04&g=2009-11-04), [15.32, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.8&artikel=15.32&z=2009-11-04&g=2009-11-04), [15.46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.46&z=2009-11-04&g=2009-11-04), [16.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.1&artikel=16.1&z=2009-11-04&g=2009-11-04), [16.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), in verbinding met [16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), [16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-11-04&g=2009-11-04)[16.53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-11-04&g=2009-11-04), [17.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.7&z=2009-11-04&g=2009-11-04), [18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-11-04&g=2009-11-04) of [21.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=21&artikel=21.4&z=2009-11-04&g=2009-11-04) wordt overgelegd aan de beide kamers der Staten-Generaal en in de Staatscourant bekendgemaakt. Aan een ieder wordt de gelegenheid geboden binnen een bij die bekendmaking vast te stellen termijn van ten minste vier weken opmerkingen over het ontwerp schriftelijk ter kennis van Onze Minister te brengen.
 
-5. Een algemene maatregel van bestuur als bedoeld in het vierde lid wordt, nadat hij is vastgesteld, toegezonden aan de beide kamers der Staten-Generaal. Hij treedt niet eerder in werking dan vier weken na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Een krachtens [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10), vastgestelde algemene maatregel van bestuur treedt in werking op een tijdstip dat, nadat vier weken na de toezending ervan aan de beide kamers der Staten-Generaal zijn verstreken, bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers der Staten-Generaal of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het in de algemene maatregel van bestuur geregelde onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend en wordt de algemene maatregel van bestuur onverwijld ingetrokken.
+5. Een algemene maatregel van bestuur als bedoeld in het vierde lid wordt, nadat hij is vastgesteld, toegezonden aan de beide kamers der Staten-Generaal. Hij treedt niet eerder in werking dan vier weken na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Een krachtens [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04), vastgestelde algemene maatregel van bestuur treedt in werking op een tijdstip dat, nadat vier weken na de toezending ervan aan de beide kamers der Staten-Generaal zijn verstreken, bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers der Staten-Generaal of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het in de algemene maatregel van bestuur geregelde onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend en wordt de algemene maatregel van bestuur onverwijld ingetrokken.
 
 6. Hetgeen ingevolge deze wet bij algemene maatregel van bestuur kan worden geregeld, wordt in afwijking daarvan bij ministeriële regeling geregeld, indien de regels uitsluitend strekken ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, tenzij voor een juiste uitvoering wijziging van een algemene maatregel van bestuur of de wet noodzakelijk is. Indien wijziging van een algemene maatregel van bestuur noodzakelijk is, wordt daarvan, gelijktijdig met de voordracht aan Ons, gemotiveerd kennis gegeven aan de beide kamers der Staten-Generaal, onder vermelding van de korte inhoud van de voorgenomen algemene maatregel van bestuur. Het ontwerp van een ministeriële regeling als bedoeld in de eerste volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de beide kamers der Staten-Generaal. Op de vaststelling van een ministeriële regeling zijn het tweede en het derde lid van overeenkomstige toepassing.
 
-7. Het tweede tot en met vijfde lid en het zesde lid, tweede, derde en vierde volzin, gelden niet voor een algemene maatregel van bestuur krachtens [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10) of [8.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.45&z=2009-09-10&g=2009-09-10), voorzover deze uitsluitend betrekking heeft op inrichtingen als bedoeld in [artikel 8.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.2&z=2009-09-10&g=2009-09-10). De voordracht voor een algemene maatregel van bestuur wordt Ons in dit geval gedaan door Onze Minister van Economische Zaken. Bij toepassing in dit geval van het zesde lid, eerste volzin, wordt de ministeriële regeling vastgesteld door Onze Minister van Economische Zaken.
+7. Het tweede tot en met vijfde lid en het zesde lid, tweede, derde en vierde volzin, gelden niet voor een algemene maatregel van bestuur krachtens [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04) of [8.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.45&z=2009-11-04&g=2009-11-04), voorzover deze uitsluitend betrekking heeft op inrichtingen als bedoeld in [artikel 8.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.2&z=2009-11-04&g=2009-11-04). De voordracht voor een algemene maatregel van bestuur wordt Ons in dit geval gedaan door Onze Minister van Economische Zaken. Bij toepassing in dit geval van het zesde lid, eerste volzin, wordt de ministeriële regeling vastgesteld door Onze Minister van Economische Zaken.
 
 ##### Artikel 21.7
 
-De bevoegdheid van gemeenteraden en waterschappen tot het maken van verordeningen blijft ten aanzien van het onderwerp waarin [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-09-10&g=2009-09-10) voorziet, gehandhaafd, voor zover deze verordeningen niet met het bij of krachtens deze wet bepaalde in strijd zijn.
+De bevoegdheid van gemeenteraden en waterschappen tot het maken van verordeningen blijft ten aanzien van het onderwerp waarin [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-11-04&g=2009-11-04) voorziet, gehandhaafd, voor zover deze verordeningen niet met het bij of krachtens deze wet bepaalde in strijd zijn.
 
 ##### Artikel 21.8
 
@@ -4137,9 +4141,9 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 ##### Artikel 22.1
 
-1. [De hoofdstukken 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-09-10&g=2009-09-10) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&z=2009-09-10&g=2009-09-10) en [titel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&z=2009-09-10&g=2009-09-10) van deze wet zijn niet van toepassing op inrichtingen waarvoor een vergunning is vereist krachtens [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), behoudens voor zover uit de bepalingen van die wet anders blijkt. Die hoofdstukken en die titel zijn evenmin van toepassing op inrichtingen, voor zover daarvoor bij of krachtens andere dan in de eerste volzin genoemde bepalingen van die wet vergunning is vereist of algemene voorschriften gelden, behoudens voor zover uit de bij of krachtens die wet gestelde bepalingen anders blijkt.
+1. [De hoofdstukken 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-11-04&g=2009-11-04) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&z=2009-11-04&g=2009-11-04) en [titel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&z=2009-11-04&g=2009-11-04) van deze wet zijn niet van toepassing op inrichtingen waarvoor een vergunning is vereist krachtens [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), behoudens voor zover uit de bepalingen van die wet anders blijkt. Die hoofdstukken en die titel zijn evenmin van toepassing op inrichtingen, voor zover daarvoor bij of krachtens andere dan in de eerste volzin genoemde bepalingen van die wet vergunning is vereist of algemene voorschriften gelden, behoudens voor zover uit de bij of krachtens die wet gestelde bepalingen anders blijkt.
 
-2. [Hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-09-10&g=2009-09-10) van deze wet is niet van toepassing op inrichtingen, voor zover daarvoor een vergunning of erkenning is vereist of algemene voorschriften gelden krachtens
+2. [Hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-11-04&g=2009-11-04) van deze wet is niet van toepassing op inrichtingen, voor zover daarvoor een vergunning of erkenning is vereist of algemene voorschriften gelden krachtens
 
 [hoofdstuk VIIa van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&hoofdstuk=VIIa),
 
@@ -4149,17 +4153,17 @@ de [Grondwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003406),
 
 behoudens voor zover uit de bepalingen van die wetten anders blijkt.
 
-3. [Hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-09-10&g=2009-09-10) van deze wet is niet van toepassing op inrichtingen waarin van buiten de inrichting afkomstige dierlijke meststoffen in de zin van de [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054) worden bewaard, bewerkt, verwerkt of vernietigd, voor zover het een doelmatig beheer van die stoffen betreft.
+3. [Hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-11-04&g=2009-11-04) van deze wet is niet van toepassing op inrichtingen waarin van buiten de inrichting afkomstige dierlijke meststoffen in de zin van de [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054) worden bewaard, bewerkt, verwerkt of vernietigd, voor zover het een doelmatig beheer van die stoffen betreft.
 
-4. De [titels 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-09-10&g=2009-09-10) en [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3&z=2009-09-10&g=2009-09-10) zijn niet van toepassing op gedragingen, voorzover daaromtrent regels zijn gesteld bij of krachtens de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505), de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) of de [Diergeneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003818).
+4. De [titels 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-11-04&g=2009-11-04), [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3&z=2009-11-04&g=2009-11-04) en [9.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3a&z=2009-11-04&g=2009-11-04) zijn niet van toepassing op gedragingen, voorzover daaromtrent regels zijn gesteld bij of krachtens de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505), de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) of de [Diergeneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003818).
 
-5. [Titel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-09-10&g=2009-09-10) laat het met betrekking tot stoffen of preparaten bij of krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) bepaalde onverlet.
+5. [Titel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-11-04&g=2009-11-04) laat het met betrekking tot stoffen of preparaten bij of krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) bepaalde onverlet.
 
-6. [Titel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-09-10&g=2009-09-10) is niet van toepassing op het vervoeren, het ten vervoer aanbieden en het ten vervoer aannemen, het laden en het lossen en het nederleggen tijdens het vervoer van stoffen, preparaten of micro-organismen, alsmede op het laten staan en het laten liggen van een vervoermiddel waarin of waarop zich zodanige stoffen, preparaten of micro-organismen of resten daarvan bevinden, voorzover daaromtrent regels zijn gesteld bij of krachtens de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), dan wel op de handelingen, genoemd in [artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2) ten aanzien van stoffen, preparaten of micro-organismen, voorzover daaromtrent regels zijn gesteld bij of krachtens [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003892). In afwijking van de eerste volzin is [titel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-09-10&g=2009-09-10) van toepassing met betrekking tot de verpakking van micro-organismen, zijnde genetisch gemodificeerde organismen, indien die organismen zich bij de handelingen, bedoeld in de eerste volzin, niet bevinden in een verpakking die voldoet aan de regels die terzake zijn gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606) of de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
+6. [Titel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-11-04&g=2009-11-04) is niet van toepassing op het vervoeren, het ten vervoer aanbieden en het ten vervoer aannemen, het laden en het lossen en het nederleggen tijdens het vervoer van stoffen, preparaten of micro-organismen, alsmede op het laten staan en het laten liggen van een vervoermiddel waarin of waarop zich zodanige stoffen, preparaten of micro-organismen of resten daarvan bevinden, voorzover daaromtrent regels zijn gesteld bij of krachtens de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), dan wel op de handelingen, genoemd in [artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2) ten aanzien van stoffen, preparaten of micro-organismen, voorzover daaromtrent regels zijn gesteld bij of krachtens [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003892). In afwijking van de eerste volzin is [titel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-11-04&g=2009-11-04) van toepassing met betrekking tot de verpakking van micro-organismen, zijnde genetisch gemodificeerde organismen, indien die organismen zich bij de handelingen, bedoeld in de eerste volzin, niet bevinden in een verpakking die voldoet aan de regels die terzake zijn gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606) of de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
-7. Krachtens [titel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-09-10&g=2009-09-10) worden geen regels gesteld met betrekking tot het zich ontdoen van stoffen en preparaten door het brengen daarvan in oppervlaktewateren, voor zover in het stellen van zodanige regels is voorzien door het vaststellen van grenswaarden krachtens [artikel 1a van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1a) of daarvoor een verbod geldt krachtens [artikel 3 van de Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975&artikel=3).
+7. Krachtens [titel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-11-04&g=2009-11-04) worden geen regels gesteld met betrekking tot het zich ontdoen van stoffen en preparaten door het brengen daarvan in oppervlaktewateren, voor zover in het stellen van zodanige regels is voorzien door het vaststellen van grenswaarden krachtens [artikel 1a van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1a) of daarvoor een verbod geldt krachtens [artikel 3 van de Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975&artikel=3).
 
-8. [Hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-09-10&g=2009-09-10) is niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens:
+8. [Hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-11-04&g=2009-11-04) is niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens:
 
 de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670),
 
@@ -4181,7 +4185,7 @@ de [Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR000297
 
 behoudens voor zover uit de bepalingen van die wetten of van deze wet anders blijkt.
 
-9. [Hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-09-10&g=2009-09-10), met uitzondering van [titel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.7&z=2009-09-10&g=2009-09-10), is niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens de [Kaderwet diervoeders](https://wetten.overheid.nl/jci1.3:c:BWBR0015764).
+9. [Hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-11-04&g=2009-11-04), met uitzondering van [titel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.7&z=2009-11-04&g=2009-11-04), is niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens de [Kaderwet diervoeders](https://wetten.overheid.nl/jci1.3:c:BWBR0015764).
 
 ##### Artikel 22.2
 
@@ -4279,9 +4283,9 @@ Vervallen
 
 - a. met de kosten van het totstandbrengen, instandhouden en in werking hebben van de inrichting,
 
-- b. met de kosten van de voorzieningen die bewerkstelligen dat de inrichting, nadat zij buiten gebruik is gesteld, geen nadelige gevolgen voor het milieu veroorzaakt, daaronder mede begrepen de kosten van de krachtens [artikel 15.44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.44&z=2009-09-10&g=2009-09-10), verschuldigde heffing, en
+- b. met de kosten van de voorzieningen die bewerkstelligen dat de inrichting, nadat zij buiten gebruik is gesteld, geen nadelige gevolgen voor het milieu veroorzaakt, daaronder mede begrepen de kosten van de krachtens [artikel 15.44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=15&titeldeel=15.11&artikel=15.44&z=2009-11-04&g=2009-11-04), verschuldigde heffing, en
 
-- c. met de kosten van financiële zekerheid in categorieën van gevallen waarvoor het stellen van financiële zekerheid krachtens [artikel 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.15&z=2009-09-10&g=2009-09-10) is voorgeschreven.
+- c. met de kosten van financiële zekerheid in categorieën van gevallen waarvoor het stellen van financiële zekerheid krachtens [artikel 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.15&z=2009-11-04&g=2009-11-04) is voorgeschreven.
 
 2. Onze Minister kan nadere regels stellen met betrekking tot het eerste lid.
 
@@ -4351,17 +4355,17 @@ Bij de afvalstoffenverordening kunnen in ieder geval regels worden gesteld:
 
 ##### Artikel 10.39
 
-1. Degene die zich van bedrijfsafvalstoffen of gevaarlijke afvalstoffen ontdoet door afgifte aan een persoon als bedoeld in [artikel 10.37, tweede lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.37&z=2009-09-10&g=2009-09-10), verstrekt:
+1. Degene die zich van bedrijfsafvalstoffen of gevaarlijke afvalstoffen ontdoet door afgifte aan een persoon als bedoeld in [artikel 10.37, tweede lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.37&z=2009-11-04&g=2009-11-04), verstrekt:
 
 - a. aan deze persoon een omschrijving van aard, eigenschappen en samenstelling van die afvalstoffen;
 
 - b. aan degene die opdracht heeft de afvalstoffen naar die persoon te vervoeren, een begeleidingsbrief.
 
-2. De begeleidingsbrief bevat ten minste de in het eerste lid, onder a, en de in [artikel 10.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-09-10&g=2009-09-10), bedoelde gegevens.
+2. De begeleidingsbrief bevat ten minste de in het eerste lid, onder a, en de in [artikel 10.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-11-04&g=2009-11-04), bedoelde gegevens.
 
 ##### Artikel 10.40
 
-1. Een persoon als bedoeld in [artikel 10.37, tweede lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.37&z=2009-09-10&g=2009-09-10), aan wie bedrijfsafvalstoffen of gevaarlijke afvalstoffen worden afgegeven, meldt met betrekking tot een zodanige afgifte, aan een door Onze Minister aan te wijzen instantie:
+1. Een persoon als bedoeld in [artikel 10.37, tweede lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.37&z=2009-11-04&g=2009-11-04), aan wie bedrijfsafvalstoffen of gevaarlijke afvalstoffen worden afgegeven, meldt met betrekking tot een zodanige afgifte, aan een door Onze Minister aan te wijzen instantie:
 
 - a. de datum van afgifte;
 
@@ -4375,21 +4379,21 @@ Bij de afvalstoffenverordening kunnen in ieder geval regels worden gesteld:
 
 - f. ingeval de afgifte geschiedt door tussenkomst van een ander die opdracht had de afvalstoffen naar hem te vervoeren: diens naam en adres en de naam en het adres van degene in wiens opdracht het vervoer geschiedt.
 
-2. Het is een persoon als bedoeld in het eerste lid verboden bedrijfsafvalstoffen of gevaarlijke afvalstoffen in ontvangst te nemen zonder dat hem daarbij een omschrijving en een begeleidingsbrief als bedoeld in [artikel 10.39, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.39&z=2009-09-10&g=2009-09-10), worden verstrekt.
+2. Het is een persoon als bedoeld in het eerste lid verboden bedrijfsafvalstoffen of gevaarlijke afvalstoffen in ontvangst te nemen zonder dat hem daarbij een omschrijving en een begeleidingsbrief als bedoeld in [artikel 10.39, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.39&z=2009-11-04&g=2009-11-04), worden verstrekt.
 
 3. Op verzoek van gedeputeerde staten van een provincie of burgemeester en wethouders van een gemeente die terzake bevoegd gezag zijn, worden de gegevens, als bedoeld in het eerste lid, aan gedeputeerde staten of burgemeester en wethouders gezonden.
 
 ##### Artikel 10.41
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop aan [de artikelen 10.38](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-09-10&g=2009-09-10) tot en met [10.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.40&z=2009-09-10&g=2009-09-10) uitvoering wordt gegeven.
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop aan [de artikelen 10.38](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-11-04&g=2009-11-04) tot en met [10.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.40&z=2009-11-04&g=2009-11-04) uitvoering wordt gegeven.
 
-2. Bij of krachtens algemene maatregel van bestuur wordt bepaald of de melding, bedoeld in [de artikelen 10.38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-09-10&g=2009-09-10), en [10.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.40&z=2009-09-10&g=2009-09-10), voorafgaand aan de afgifte, onderscheidenlijk de ontvangst van afvalstoffen plaatsvindt of erna. Daarbij kan een onderscheid worden gemaakt naar categorie van afvalstoffen.
+2. Bij of krachtens algemene maatregel van bestuur wordt bepaald of de melding, bedoeld in [de artikelen 10.38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-11-04&g=2009-11-04), en [10.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.40&z=2009-11-04&g=2009-11-04), voorafgaand aan de afgifte, onderscheidenlijk de ontvangst van afvalstoffen plaatsvindt of erna. Daarbij kan een onderscheid worden gemaakt naar categorie van afvalstoffen.
 
 ##### Artikel 10.42
 
-1. Bij of krachtens algemene maatregel van bestuur kan aan in [artikel 10.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-09-10&g=2009-09-10), bedoelde personen de verplichting worden opgelegd de in dat artikel bedoelde gegevens te melden aan een door Onze Minister aan te wijzen instantie.
+1. Bij of krachtens algemene maatregel van bestuur kan aan in [artikel 10.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-11-04&g=2009-11-04), bedoelde personen de verplichting worden opgelegd de in dat artikel bedoelde gegevens te melden aan een door Onze Minister aan te wijzen instantie.
 
-2. [De artikelen 10.40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.40&z=2009-09-10&g=2009-09-10), en [10.41](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.41&z=2009-09-10&g=2009-09-10) zijn van overeenkomstige toepassing.
+2. [De artikelen 10.40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.40&z=2009-11-04&g=2009-11-04), en [10.41](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.41&z=2009-11-04&g=2009-11-04) zijn van overeenkomstige toepassing.
 
 #### § 10.6.2. Het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
 
@@ -4415,13 +4419,13 @@ Vervallen
 
 1. Bij algemene maatregel van bestuur kan in het belang van een doelmatig beheer van bedrijfsafvalstoffen of gevaarlijke afvalstoffen worden bepaald dat voor het inzamelen van daarbij aangewezen categorieën van zodanige afvalstoffen een vergunning van Onze Minister is vereist.
 
-2. De[artikelen 8.5 tot en met 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.5&z=2009-09-10&g=2009-09-10) zijn van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een vergunning als bedoeld in het eerste lid, met dien verstande dat voor de toepassing van genoemde artikelen het belang van de bescherming van het milieu beperkt wordt tot het belang van een doelmatig beheer van afvalstoffen.
+2. De[artikelen 8.5 tot en met 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.5&z=2009-11-04&g=2009-11-04) zijn van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een vergunning als bedoeld in het eerste lid, met dien verstande dat voor de toepassing van genoemde artikelen het belang van de bescherming van het milieu beperkt wordt tot het belang van een doelmatig beheer van afvalstoffen.
 
 3. Onze Minister kan in het belang van een doelmatig beheer van afvalstoffen de tarieven vaststellen, die ten minste dan wel ten hoogste in rekening worden gebracht bij het in ontvangst nemen van afvalstoffen door de houder van een vergunning als bedoeld in het eerste lid.
 
 ##### Artikel 10.49
 
-1. De aan de vergunning, bedoeld in [artikel 10.48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-09-10&g=2009-09-10), te verbinden voorschriften kunnen in ieder geval inhouden:
+1. De aan de vergunning, bedoeld in [artikel 10.48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-11-04&g=2009-11-04), te verbinden voorschriften kunnen in ieder geval inhouden:
 
 - a. dat in daarbij aangewezen categorieën van gevallen afvalstoffen niet mogen worden ingezameld zonder afzonderlijke toestemming van Onze Minister;
 
@@ -4439,7 +4443,7 @@ Vervallen
 
 ##### Artikel 10.50
 
-1. Onze Minister kan, indien voor het beheer van de betrokken stoffen, preparaten of producten een verplichting deze in te nemen als bedoeld in [artikel 10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-09-10&g=2009-09-10) of een daaraan gelijkwaardige vrijwillige inname bestaat, bij ministeriële regeling categorieën van gevallen aangeven waarin de verplichtingen, gesteld bij of krachtens [de artikelen 10.38](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-09-10&g=2009-09-10) tot en met [10.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.40&z=2009-09-10&g=2009-09-10), [10.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.45&z=2009-09-10&g=2009-09-10), [10.46](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.46&z=2009-09-10&g=2009-09-10) en [10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-09-10&g=2009-09-10) niet gelden.
+1. Onze Minister kan, indien voor het beheer van de betrokken stoffen, preparaten of producten een verplichting deze in te nemen als bedoeld in [artikel 10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-11-04&g=2009-11-04) of een daaraan gelijkwaardige vrijwillige inname bestaat, bij ministeriële regeling categorieën van gevallen aangeven waarin de verplichtingen, gesteld bij of krachtens [de artikelen 10.38](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-11-04&g=2009-11-04) tot en met [10.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.40&z=2009-11-04&g=2009-11-04), [10.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.45&z=2009-11-04&g=2009-11-04), [10.46](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.46&z=2009-11-04&g=2009-11-04) en [10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-11-04&g=2009-11-04) niet gelden.
 
 2. Een ministeriële regeling als bedoeld in het eerste lid omvat de verplichting tot het registreren van daarbij aan te geven gegevens op een daarbij aan te geven wijze.
 
@@ -4463,15 +4467,15 @@ Vervallen
 
 ##### Artikel 10.53
 
-[De artikelen 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.5&z=2009-09-10&g=2009-09-10) tot en met [8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.25&z=2009-09-10&g=2009-09-10) zijn van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een vergunning als bedoeld in [artikel 10.52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.52&z=2009-09-10&g=2009-09-10).
+[De artikelen 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.5&z=2009-11-04&g=2009-11-04) tot en met [8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.25&z=2009-11-04&g=2009-11-04) zijn van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een vergunning als bedoeld in [artikel 10.52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.52&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 10.54
 
 1. Het is verboden gevaarlijke afvalstoffen buiten een inrichting nuttig toe te passen of te verwijderen.
 
-2. Het verbod geldt niet voor handelingen die aan degene die gevaarlijke afvalstoffen inzamelt, uitdrukkelijk zijn toegestaan krachtens [de artikelen 10.47](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.47&z=2009-09-10&g=2009-09-10) of [10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-09-10&g=2009-09-10).
+2. Het verbod geldt niet voor handelingen die aan degene die gevaarlijke afvalstoffen inzamelt, uitdrukkelijk zijn toegestaan krachtens [de artikelen 10.47](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.47&z=2009-11-04&g=2009-11-04) of [10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-11-04&g=2009-11-04).
 
-3. [Artikel 10.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+3. [Artikel 10.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 ##### Artikel 10.55
 
@@ -4485,7 +4489,7 @@ Vervallen
 
 zonder vermelding als respectievelijk vervoerder, handelaar of bemiddelaar op de lijst van vervoerders, handelaars en bemiddelaars.
 
-2. Het verbod, bedoeld in het eerste lid, onder a, geldt niet voor degene die krachtens [artikel 10.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.45&z=2009-09-10&g=2009-09-10) bevoegd is tot het inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen.
+2. Het verbod, bedoeld in het eerste lid, onder a, geldt niet voor degene die krachtens [artikel 10.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.45&z=2009-11-04&g=2009-11-04) bevoegd is tot het inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen.
 
 3. Onze Minister wijst een instantie aan die namens hem zorg draagt voor de vermelding van vervoerders, handelaars en bemiddelaars op de lijst, bedoeld in het eerste lid.
 
@@ -4501,7 +4505,7 @@ zonder vermelding als respectievelijk vervoerder, handelaar of bemiddelaar op de
 
 - b. de gebruikelijke benaming en de hoeveelheid van de afvalstoffen.
 
-6. [Artikel 10.38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+6. [Artikel 10.38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.38&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 7. Onze Minister stelt regels inhoudende de verplichting dat een vervoerder als bedoeld in het eerste lid tijdens het vervoeren daarbij aan te geven bescheiden aanwezig heeft, waaruit blijkt dat hij staat vermeld op de lijst van vervoerders.
 
@@ -4555,19 +4559,19 @@ Op een kennisgeving als bedoeld in de EG-verordening overbrenging van afvalstoff
 
 - c. artikel 35, derde lid, onder c, 38, derde lid, onder b, 42, derde lid, onder c, 44, derde lid, in verbinding met 42, derde lid, onder c, 45 in verbinding met artikel 42, derde lid, onder c, 47 in verbinding met 42, derde lid, onder c, 48, eerste lid, in verbinding met 47 en 42, derde lid, onder c, of 48, tweede lid, aanhef, in verbinding met 44, derde lid, en 42, derde lid, onder c, van de EG-verordening overbrenging van afvalstoffen.
 
-## Titel 10.2. Het afvalbeheersplan
+## Titel 10.1. Algemeen
 
 ##### Artikel 10.61
 
-1. Bij algemene maatregel van bestuur kunnen, voor zover dat in het belang van een doelmatig beheer van afvalstoffen noodzakelijk is, regels worden gesteld met betrekking tot het opnemen in de afvalstoffenverordening van regels als bedoeld in [de artikelen 10.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.21&z=2009-09-10&g=2009-09-10), [10.24](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.24&z=2009-09-10&g=2009-09-10), [10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.25&z=2009-09-10&g=2009-09-10) en [10.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.26&z=2009-09-10&g=2009-09-10).
+1. Bij algemene maatregel van bestuur kunnen, voor zover dat in het belang van een doelmatig beheer van afvalstoffen noodzakelijk is, regels worden gesteld met betrekking tot het opnemen in de afvalstoffenverordening van regels als bedoeld in [de artikelen 10.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.21&z=2009-11-04&g=2009-11-04), [10.24](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.24&z=2009-11-04&g=2009-11-04), [10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.25&z=2009-11-04&g=2009-11-04) en [10.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.26&z=2009-11-04&g=2009-11-04).
 
 2. Bij een maatregel als bedoeld in het eerste lid wordt aangegeven binnen welke termijn en, indien nodig, op welke wijze die regels moeten zijn opgenomen in de verordening.
 
 ##### Artikel 10.62
 
-1. Onze Minister kan, voor zover dat in het belang van een doelmatig beheer van afvalstoffen noodzakelijk is, aan de gemeenteraad een bindende aanwijzing geven met betrekking tot het opnemen in de afvalstoffenverordening, van regels als bedoeld in [de artikelen 10.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.21&z=2009-09-10&g=2009-09-10), [10.24](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.24&z=2009-09-10&g=2009-09-10), [10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.25&z=2009-09-10&g=2009-09-10) en [10.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.26&z=2009-09-10&g=2009-09-10).
+1. Onze Minister kan, voor zover dat in het belang van een doelmatig beheer van afvalstoffen noodzakelijk is, aan de gemeenteraad een bindende aanwijzing geven met betrekking tot het opnemen in de afvalstoffenverordening, van regels als bedoeld in [de artikelen 10.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.21&z=2009-11-04&g=2009-11-04), [10.24](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.24&z=2009-11-04&g=2009-11-04), [10.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.25&z=2009-11-04&g=2009-11-04) en [10.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.26&z=2009-11-04&g=2009-11-04).
 
-2. [Artikel 10.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.8&artikel=10.61&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+2. [Artikel 10.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.8&artikel=10.61&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 3. Onze Minister pleegt over een voornemen tot het geven van een aanwijzing overleg met de betrokken gemeente. Hij deelt het voornemen, onder vermelding van de redenen daarvoor, mee aan de Staten-Generaal.
 
@@ -4575,21 +4579,21 @@ Op een kennisgeving als bedoeld in de EG-verordening overbrenging van afvalstoff
 
 ##### Artikel 10.63
 
-1. Burgemeester en wethouders kunnen, indien het belang van een doelmatig beheer van afvalwater zich daartegen niet verzet, ontheffing verlenen van het in [artikel 10.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.30&z=2009-09-10&g=2009-09-10), gestelde verbod.
+1. Burgemeester en wethouders kunnen, indien het belang van een doelmatig beheer van afvalwater zich daartegen niet verzet, ontheffing verlenen van het in [artikel 10.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.30&z=2009-11-04&g=2009-11-04), gestelde verbod.
 
-2. Burgemeester en wethouders kunnen, indien het belang van de bescherming van het milieu zich daartegen niet verzet, ontheffing verlenen van het in [artikel 10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-09-10&g=2009-09-10), gestelde verbod om zich van afvalstoffen te ontdoen door deze buiten een inrichting te verbranden, voorzover het geen gevaarlijke afvalstoffen betreft.
+2. Burgemeester en wethouders kunnen, indien het belang van de bescherming van het milieu zich daartegen niet verzet, ontheffing verlenen van het in [artikel 10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-11-04&g=2009-11-04), gestelde verbod om zich van afvalstoffen te ontdoen door deze buiten een inrichting te verbranden, voorzover het geen gevaarlijke afvalstoffen betreft.
 
-3. Gedeputeerde staten kunnen, indien het belang van de bescherming van het milieu zich daartegen niet verzet, ontheffing verlenen van het in [artikel 10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-09-10&g=2009-09-10), gestelde verbod om zich van afvalstoffen te ontdoen door deze buiten een inrichting te storten of anderszins op of in de bodem te brengen, voorzover het geen gevaarlijke afvalstoffen betreft, en, indien het belang van een doelmatig beheer van afvalstoffen zich daartegen niet verzet, ontheffing verlenen van de in de [artikelen 10.37](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.37&z=2009-09-10&g=2009-09-10) en [10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-09-10&g=2009-09-10) gestelde verboden.
+3. Gedeputeerde staten kunnen, indien het belang van de bescherming van het milieu zich daartegen niet verzet, ontheffing verlenen van het in [artikel 10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-11-04&g=2009-11-04), gestelde verbod om zich van afvalstoffen te ontdoen door deze buiten een inrichting te storten of anderszins op of in de bodem te brengen, voorzover het geen gevaarlijke afvalstoffen betreft, en, indien het belang van een doelmatig beheer van afvalstoffen zich daartegen niet verzet, ontheffing verlenen van de in de [artikelen 10.37](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.37&z=2009-11-04&g=2009-11-04) en [10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-11-04&g=2009-11-04) gestelde verboden.
 
-4. Onze Minister kan, indien het belang van een doelmatig beheer van afvalstoffen zich daartegen niet verzet, ontheffing verlenen van het bepaalde in een algemene maatregel van bestuur krachtens de artikelen 10.15 tot en met 10.19, [10.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.28&z=2009-09-10&g=2009-09-10), [10.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.29&z=2009-09-10&g=2009-09-10), [10.47](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.47&z=2009-09-10&g=2009-09-10), [10.51](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.51&z=2009-09-10&g=2009-09-10) en, indien het belang van de bescherming van het milieu zich daartegen niet verzet, van [10.52](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.52&z=2009-09-10&g=2009-09-10), van het bepaalde bij of krachtens een algemene maatregel van bestuur op grond van [de artikelen 10.41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.41&z=2009-09-10&g=2009-09-10), [10.42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.42&z=2009-09-10&g=2009-09-10), [10.43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.43&z=2009-09-10&g=2009-09-10), [10.44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.2&artikel=10.44&z=2009-09-10&g=2009-09-10), en [10.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.46&z=2009-09-10&g=2009-09-10), alsmede van het bepaalde in de [artikelen 10.23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.23&z=2009-09-10&g=2009-09-10), en [10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-09-10&g=2009-09-10).
+4. Onze Minister kan, indien het belang van een doelmatig beheer van afvalstoffen zich daartegen niet verzet, ontheffing verlenen van het bepaalde in een algemene maatregel van bestuur krachtens de artikelen 10.15 tot en met 10.19, [10.28](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.28&z=2009-11-04&g=2009-11-04), [10.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.29&z=2009-11-04&g=2009-11-04), [10.47](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.47&z=2009-11-04&g=2009-11-04), [10.51](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.51&z=2009-11-04&g=2009-11-04) en, indien het belang van de bescherming van het milieu zich daartegen niet verzet, van [10.52](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.52&z=2009-11-04&g=2009-11-04), van het bepaalde bij of krachtens een algemene maatregel van bestuur op grond van [de artikelen 10.41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.41&z=2009-11-04&g=2009-11-04), [10.42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.42&z=2009-11-04&g=2009-11-04), [10.43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.43&z=2009-11-04&g=2009-11-04), [10.44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.2&artikel=10.44&z=2009-11-04&g=2009-11-04), en [10.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.46&z=2009-11-04&g=2009-11-04), alsmede van het bepaalde in de [artikelen 10.23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.23&z=2009-11-04&g=2009-11-04), en [10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.48&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 10.64
 
-1. De [artikelen 8.5 tot en met 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.5&z=2009-09-10&g=2009-09-10) zijn van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een ontheffing als bedoeld in [artikel 10.63](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.8&artikel=10.63&z=2009-09-10&g=2009-09-10), met dien verstande dat – behalve ten aanzien van een ontheffing van de in [artikel 10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-09-10&g=2009-09-10), en [artikel 10.54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-09-10&g=2009-09-10), gestelde verboden –, voor die toepassing het belang van de bescherming van het milieu wordt beperkt tot het belang van een doelmatig beheer van de betrokken categorie van afvalstoffen, dan wel – indien het een ontheffing betreft van krachtens de [artikelen 10.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.15&z=2009-09-10&g=2009-09-10), [10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-09-10&g=2009-09-10) en [10.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.18&z=2009-09-10&g=2009-09-10) gestelde regels – het door dat artikel beoogde belang.
+1. De [artikelen 8.5 tot en met 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.5&z=2009-11-04&g=2009-11-04) zijn van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een ontheffing als bedoeld in [artikel 10.63](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.8&artikel=10.63&z=2009-11-04&g=2009-11-04), met dien verstande dat – behalve ten aanzien van een ontheffing van de in [artikel 10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.1&artikel=10.2&z=2009-11-04&g=2009-11-04), en [artikel 10.54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.54&z=2009-11-04&g=2009-11-04), gestelde verboden –, voor die toepassing het belang van de bescherming van het milieu wordt beperkt tot het belang van een doelmatig beheer van de betrokken categorie van afvalstoffen, dan wel – indien het een ontheffing betreft van krachtens de [artikelen 10.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.15&z=2009-11-04&g=2009-11-04), [10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-11-04&g=2009-11-04) en [10.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.18&z=2009-11-04&g=2009-11-04) gestelde regels – het door dat artikel beoogde belang.
 
-2. Bij een algemene maatregel van bestuur krachtens de [artikelen 10.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.15&z=2009-09-10&g=2009-09-10), [10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-09-10&g=2009-09-10) en [10.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.18&z=2009-09-10&g=2009-09-10) kan – in afwijking van het eerste lid – worden bepaald dat in daarbij aangegeven categorieën van gevallen [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) niet van toepassing is.
+2. Bij een algemene maatregel van bestuur krachtens de [artikelen 10.15](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.15&z=2009-11-04&g=2009-11-04), [10.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.17&z=2009-11-04&g=2009-11-04) en [10.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&artikel=10.18&z=2009-11-04&g=2009-11-04) kan – in afwijking van het eerste lid – worden bepaald dat in daarbij aangegeven categorieën van gevallen [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) niet van toepassing is.
 
-3. In afwijking van het eerste lid is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) niet van toepassing op een ontheffing als bedoeld in [artikel 10.63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.8&artikel=10.63&z=2009-09-10&g=2009-09-10).
+3. In afwijking van het eerste lid is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) niet van toepassing op een ontheffing als bedoeld in [artikel 10.63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.8&artikel=10.63&z=2009-11-04&g=2009-11-04).
 
 ### Hoofdstuk 11. Andere handelingen
 
@@ -4627,7 +4631,7 @@ Vervallen
 
 #### § 10.6.2. Het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
 
-#### § 10.6.3. De inzameling van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+#### § 10.6.2. Het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
 
 ### Hoofdstuk 15. Financiële bepalingen
 
@@ -4651,7 +4655,7 @@ Vervallen
 
 ## Titel 15.6. Regulerende verbruiksbelastingen
 
-## Titel 15.7. Keuringen
+## Titel 12.3. De EG-verordening PRTR en het PRTR-protocol
 
 ## Titel 15.2. Verbruiksbelastingen van brandstoffen
 
@@ -4671,37 +4675,37 @@ Vervallen
 
 1. Onze Minister kan het bevoegde bestuursorgaan verzoeken binnen een door hem aangegeven termijn:
 
-- a. op de daarbij aangegeven wijze toepassing te geven aan [artikel 17.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.4&z=2009-09-10&g=2009-09-10);
+- a. op de daarbij aangegeven wijze toepassing te geven aan [artikel 17.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.4&z=2009-11-04&g=2009-11-04);
 
-- b. in verband daarmee een voor de betrokkene krachtens [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-09-10&g=2009-09-10) geldende vergunning te wijzigen.
+- b. in verband daarmee een voor de betrokkene krachtens [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-11-04&g=2009-11-04) geldende vergunning te wijzigen.
 
-2. Indien de geboden spoed een zodanig verzoek niet toelaat of het bevoegde bestuursorgaan niet binnen de aangegeven termijn aan het verzoek gevolg heeft gegeven, geeft Onze Minister toepassing aan [artikel 17.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.4&z=2009-09-10&g=2009-09-10), onderscheidenlijk wijzigt hij de vergunning.
+2. Indien de geboden spoed een zodanig verzoek niet toelaat of het bevoegde bestuursorgaan niet binnen de aangegeven termijn aan het verzoek gevolg heeft gegeven, geeft Onze Minister toepassing aan [artikel 17.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.4&z=2009-11-04&g=2009-11-04), onderscheidenlijk wijzigt hij de vergunning.
 
 ### Hoofdstuk 14. Coördinatie
 
 ##### Artikel 18.2b
 
-1. Onze betrokken Minister heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de [titels 9.2 tot en met 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-09-10&g=2009-09-10) en krachtens [artikel 17.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.3&artikel=17.19&z=2009-09-10&g=2009-09-10).
+1. Onze betrokken Minister heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de [titels 9.2 tot en met 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&z=2009-11-04&g=2009-11-04) en krachtens [artikel 17.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.3&artikel=17.19&z=2009-11-04&g=2009-11-04).
 
-2. Onze betrokken Minister heeft tevens tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen.
+2. Onze betrokken Minister heeft tevens tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels.
 
-3. Onze Minister heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de bij of krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-09-10&g=2009-09-10) gestelde verplichtingen, voor zover zij betrekking hebben op:
+3. Onze Minister heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de bij of krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-11-04&g=2009-11-04) gestelde verplichtingen, voor zover zij betrekking hebben op:
 
-- a. preventie en nuttige toepassing als bedoeld in [titel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&z=2009-09-10&g=2009-09-10);
+- a. preventie en nuttige toepassing als bedoeld in [titel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.3&z=2009-11-04&g=2009-11-04);
 
-- b. overbrengen van afvalstoffen als bedoeld in [titel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.7&z=2009-09-10&g=2009-09-10);
+- b. overbrengen van afvalstoffen als bedoeld in [titel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.7&z=2009-11-04&g=2009-11-04);
 
-- c. het inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in [artikel 10.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.45&z=2009-09-10&g=2009-09-10);
+- c. het inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in [artikel 10.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.3&artikel=10.45&z=2009-11-04&g=2009-11-04);
 
-- d. verhandelen, bemiddelen of vervoeren als bedoeld in [artikel 10.55](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.55&z=2009-09-10&g=2009-09-10).
+- d. verhandelen, bemiddelen of vervoeren als bedoeld in [artikel 10.55](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.55&z=2009-11-04&g=2009-11-04).
 
 4. Onze Minister heeft tevens tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de bij of krachtens de EG-verordening overbrenging van afvalstoffen gestelde verplichtingen.
 
 ##### Artikel 18.2c
 
-1. Gedeputeerde staten hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de bij of krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-09-10&g=2009-09-10) gestelde verplichtingen, voorzover zij betrekking hebben op het aanwezig hebben van een begeleidingsbrief bij het vervoer van bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in [artikel 10.44](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.2&artikel=10.44&z=2009-09-10&g=2009-09-10).
+1. Gedeputeerde staten hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de bij of krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-11-04&g=2009-11-04) gestelde verplichtingen, voorzover zij betrekking hebben op het aanwezig hebben van een begeleidingsbrief bij het vervoer van bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in [artikel 10.44](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.2&artikel=10.44&z=2009-11-04&g=2009-11-04).
 
-2. Gedeputeerde staten hebben tevens tot taak zorg te dragen voor de bestuursrechtelijke handhaving buiten een inrichting van de krachtens [artikel 17.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.4&z=2009-09-10&g=2009-09-10) gestelde verplichtingen.
+2. Gedeputeerde staten hebben tevens tot taak zorg te dragen voor de bestuursrechtelijke handhaving buiten een inrichting van de krachtens [artikel 17.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.4&z=2009-11-04&g=2009-11-04) gestelde verplichtingen.
 
 ##### Artikel 18.2d
 
@@ -4709,27 +4713,27 @@ Vervallen
 
 - a. de afvalstoffenverordening;
 
-- b. [artikel 10.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.29&z=2009-09-10&g=2009-09-10);
+- b. [artikel 10.29](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.4&artikel=10.29&z=2009-11-04&g=2009-11-04);
 
-- c. [artikel 10.52](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.52&z=2009-09-10&g=2009-09-10).
+- c. [artikel 10.52](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.52&z=2009-11-04&g=2009-11-04).
 
-2. Burgemeester en wethouders hebben tevens tot taak zorg te dragen voor de bestuursrechtelijke handhaving buiten een inrichting van de bij of krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-09-10&g=2009-09-10) gestelde verplichtingen, voor zover zij betrekking hebben op:
+2. Burgemeester en wethouders hebben tevens tot taak zorg te dragen voor de bestuursrechtelijke handhaving buiten een inrichting van de bij of krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&z=2009-11-04&g=2009-11-04) gestelde verplichtingen, voor zover zij betrekking hebben op:
 
-- a. het zich ontdoen van afvalwater als bedoeld in [de artikelen 10.30](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.30&z=2009-09-10&g=2009-09-10) en [10.32](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.32&z=2009-09-10&g=2009-09-10);
+- a. het zich ontdoen van afvalwater als bedoeld in [de artikelen 10.30](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.30&z=2009-11-04&g=2009-11-04) en [10.32](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.5&artikel=10.32&z=2009-11-04&g=2009-11-04);
 
-- b. het zich ontdoen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in [artikel 10.37](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.37&z=2009-09-10&g=2009-09-10);
+- b. het zich ontdoen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in [artikel 10.37](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.1&artikel=10.37&z=2009-11-04&g=2009-11-04);
 
-- c. het zich ontdoen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in [artikel 10.51](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.51&z=2009-09-10&g=2009-09-10).
+- c. het zich ontdoen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in [artikel 10.51](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=10&titeldeel=10.6&paragraaf=10.6.4&artikel=10.51&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 18.2e
 
-Bij het uitoefenen van de taak, bedoeld in [de artikelen 18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.2&z=2009-09-10&g=2009-09-10) tot en met [18.2d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.2d&z=2009-09-10&g=2009-09-10), wordt rekening gehouden met het voor het betrokken bestuursorgaan geldende milieubeleidsplan.
+Bij het uitoefenen van de taak, bedoeld in [de artikelen 18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.2&z=2009-11-04&g=2009-11-04) tot en met [18.2d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.2d&z=2009-11-04&g=2009-11-04), wordt rekening gehouden met het voor het betrokken bestuursorgaan geldende milieubeleidsplan.
 
 ### Hoofdstuk 19. Bepalingen in verband met de openbaarheid
 
 ### Hoofdstuk 20. Beroep bij de administratieve rechter
 
-#### § 15.2.4. Teruggaafregeling
+#### § 15.2.2. Belastingplichtigen
 
 #### § 20.2. Beroep tegen besluiten die met toepassing van de [paragrafen 3.5.2 tot en met 3.5.5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:16) tot stand zijn gekomen
 
@@ -4993,7 +4997,7 @@ Vervallen
 
 2. Een emissie van een broeikasgas in de lucht wordt uitgedrukt in tonnen kooldioxide-equivalent.
 
-3. Voor de toepassing van [titel 16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&z=2009-09-10&g=2009-09-10) wordt onder brandstofverbruik en grondstofgebruik verstaan het verbruik van brandstoffen, onderscheidenlijk het gebruik van grondstoffen, voorzover dat verbruik, onderscheidenlijk gebruik, waarschijnlijk tot emissies van een broeikasgas zal leiden.
+3. Voor de toepassing van [titel 16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&z=2009-11-04&g=2009-11-04) wordt onder brandstofverbruik en grondstofgebruik verstaan het verbruik van brandstoffen, onderscheidenlijk het gebruik van grondstoffen, voorzover dat verbruik, onderscheidenlijk gebruik, waarschijnlijk tot emissies van een broeikasgas zal leiden.
 
 4. Degene die een inrichting drijft, waarin zich een broeikasgasinstallatie bevindt:
 
@@ -5013,13 +5017,13 @@ Vervallen
 
 ##### Artikel 16.3
 
-Onder inrichtingen als bedoeld in [artikel 16.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.1&artikel=16.2&z=2009-09-10&g=2009-09-10), worden mede begrepen inrichtingen binnen de Nederlandse exclusieve economische zone.
+Onder inrichtingen als bedoeld in [artikel 16.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.1&artikel=16.2&z=2009-11-04&g=2009-11-04), worden mede begrepen inrichtingen binnen de Nederlandse exclusieve economische zone.
 
 ##### Artikel 16.4
 
 Een wijziging van de EG-richtlijn handel in broeikasgasemissierechten of van een bijlage bij die richtlijn gaat voor de toepassing van deze titel gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij een besluit van Onze Minister, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-### Afdeling 16.2.2. Vergunning
+### Afdeling 13.3. Afvalvoorzieningen categorie A met mogelijke grensoverschrijdende milieugevolgen
 
 ### Afdeling 16.2.1. Algemeen
 
@@ -5043,17 +5047,17 @@ Het nationale toewijzingsplan wordt vastgesteld met inachtneming van de artikele
 
 - b. een beschrijving van de manier waarop Onze Ministers voornemens zijn broeikasgasemissierechten toe te wijzen;
 
-- c. een lijst van alle inrichtingen waarvoor Onze Ministers voornemens zijn op grond van [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-09-10&g=2009-09-10), broeikasgasemissierechten toe te wijzen, onder vermelding van het aantal broeikasgasemissierechten dat zij voornemens zijn toe te wijzen voor elke afzonderlijke inrichting;
+- c. een lijst van alle inrichtingen waarvoor Onze Ministers voornemens zijn op grond van [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-11-04&g=2009-11-04), broeikasgasemissierechten toe te wijzen, onder vermelding van het aantal broeikasgasemissierechten dat zij voornemens zijn toe te wijzen voor elke afzonderlijke inrichting;
 
 - d. een aanduiding van het gedeelte van het totale aantal broeikasgasemissierechten, bedoeld onder a, dat elk kalenderjaar overeenkomstig de EG-verordening register handel in broeikasgasemissierechten zal worden verleend;
 
-- e. een aanduiding van het gedeelte van het aantal broeikasgasemissierechten, bedoeld onder c, dat degene die een inrichting drijft, ten hoogste in de vorm van emissiereductie-eenheden of gecertificeerde emissiereducties met betrekking tot de betrokken planperiode ter voldoening aan [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10), mag inleveren.
+- e. een aanduiding van het gedeelte van het aantal broeikasgasemissierechten, bedoeld onder c, dat degene die een inrichting drijft, ten hoogste in de vorm van emissiereductie-eenheden of gecertificeerde emissiereducties met betrekking tot de betrokken planperiode ter voldoening aan [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04), mag inleveren.
 
 2. Het nationale toewijzingsplan kan tevens bevatten:
 
-- a. een aanduiding van het gedeelte van het totale aantal broeikasgasemissierechten, bedoeld in het eerste lid, onder a, dat beschikbaar wordt gehouden om te kunnen worden toegewezen voor een of meer daarbij aangegeven categorieën van inrichtingen waarvoor een vergunning is vereist krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), indien deze vergunning nog niet is verleend op het moment dat het plan overeenkomstig artikel 9, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten aan de Commissie van de Europese Gemeenschappen is toegezonden;
+- a. een aanduiding van het gedeelte van het totale aantal broeikasgasemissierechten, bedoeld in het eerste lid, onder a, dat beschikbaar wordt gehouden om te kunnen worden toegewezen voor een of meer daarbij aangegeven categorieën van inrichtingen waarvoor een vergunning is vereist krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), indien deze vergunning nog niet is verleend op het moment dat het plan overeenkomstig artikel 9, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten aan de Commissie van de Europese Gemeenschappen is toegezonden;
 
-- b. een aanduiding van het gedeelte van het totale aantal broeikasgasemissierechten, bedoeld in het eerste lid, onder a, dat beschikbaar wordt gehouden om te kunnen worden toegewezen voor inrichtingen waarvoor als gevolg van een wijziging van het nationale toewijzingsbesluit overeenkomstig [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-09-10&g=2009-09-10), meer broeikasgasemissierechten worden toegewezen dan in het oorspronkelijke nationale toewijzingsbesluit het geval was.
+- b. een aanduiding van het gedeelte van het totale aantal broeikasgasemissierechten, bedoeld in het eerste lid, onder a, dat beschikbaar wordt gehouden om te kunnen worden toegewezen voor inrichtingen waarvoor als gevolg van een wijziging van het nationale toewijzingsbesluit overeenkomstig [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-11-04&g=2009-11-04), meer broeikasgasemissierechten worden toegewezen dan in het oorspronkelijke nationale toewijzingsbesluit het geval was.
 
 ##### Artikel 16.26
 
@@ -5069,17 +5073,17 @@ Het nationale toewijzingsplan wordt vastgesteld met inachtneming van de artikele
 
 ##### Artikel 16.27
 
-Indien de Commissie van de Europese Gemeenschappen het overeenkomstig artikel 9, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten aan haar toegezonden nationale toewijzingsplan geheel of gedeeltelijk verwerpt, stellen Onze Ministers het nationale toewijzingsplan opnieuw vast nadat daarin de door hen voorgestelde en door de Commissie aanvaarde wijzigingen zijn aangebracht. [Artikel 16.26, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.26&z=2009-09-10&g=2009-09-10), is niet van toepassing. [Artikel 16.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.26&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+Indien de Commissie van de Europese Gemeenschappen het overeenkomstig artikel 9, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten aan haar toegezonden nationale toewijzingsplan geheel of gedeeltelijk verwerpt, stellen Onze Ministers het nationale toewijzingsplan opnieuw vast nadat daarin de door hen voorgestelde en door de Commissie aanvaarde wijzigingen zijn aangebracht. [Artikel 16.26, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.26&z=2009-11-04&g=2009-11-04), is niet van toepassing. [Artikel 16.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.26&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 ##### Artikel 16.28
 
-Het nationale toewijzingsplan geldt met ingang van de dag na die waarop in de Staatscourant een mededeling is gedaan als bedoeld in [artikel 16.26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.26&z=2009-09-10&g=2009-09-10), dan wel, indien het plan dient te worden gewijzigd naar aanleiding van de beoordeling door de Commissie van de Europese Gemeenschappen, bedoeld in dat lid, de dag waarop het overeenkomstig [artikel 16.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.26&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.27, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.27&z=2009-09-10&g=2009-09-10), is bekendgemaakt in de Staatscourant.
+Het nationale toewijzingsplan geldt met ingang van de dag na die waarop in de Staatscourant een mededeling is gedaan als bedoeld in [artikel 16.26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.26&z=2009-11-04&g=2009-11-04), dan wel, indien het plan dient te worden gewijzigd naar aanleiding van de beoordeling door de Commissie van de Europese Gemeenschappen, bedoeld in dat lid, de dag waarop het overeenkomstig [artikel 16.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.26&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.27, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.27&z=2009-11-04&g=2009-11-04), is bekendgemaakt in de Staatscourant.
 
-#### § 16.2.3.2. Het nationale toewijzingsbesluit, overige toewijzingsbesluiten en de verlening van broeikasgasemissierechten
+#### § 14.2. Coördinatie bij het maken van een milieu-effectrapport
 
 ##### Artikel 16.29
 
-1. Onverminderd [artikel 16.31](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-09-10&g=2009-09-10) beslissen Onze Ministers met betrekking tot elke planperiode gezamenlijk over de toewijzing van broeikasgasemissierechten. Dat besluit bevat:
+1. Onverminderd [artikel 16.31](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-11-04&g=2009-11-04) beslissen Onze Ministers met betrekking tot elke planperiode gezamenlijk over de toewijzing van broeikasgasemissierechten. Dat besluit bevat:
 
 - a. een aanduiding van het totale aantal broeikasgasemissierechten dat voor de planperiode wordt toegewezen;
 
@@ -5087,11 +5091,11 @@ Het nationale toewijzingsplan geldt met ingang van de dag na die waarop in de St
 
 - c. onverminderd onderdeel d: een aanduiding van het gedeelte van het totale aantal broeikasgasemissierechten, bedoeld onder a, dat elk kalenderjaar overeenkomstig de EG-verordening register handel in broeikasgasemissierechten zal worden verleend;
 
-- d. indien het nationale toewijzingsplan hierin voorziet: een aanduiding van het gedeelte van het totale aantal broeikasgasemissierechten, bedoeld onder a, dat beschikbaar wordt gehouden om in de planperiode te kunnen worden toegewezen voor inrichtingen als bedoeld in [artikel 16.25, tweede lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-09-10&g=2009-09-10).
+- d. indien het nationale toewijzingsplan hierin voorziet: een aanduiding van het gedeelte van het totale aantal broeikasgasemissierechten, bedoeld onder a, dat beschikbaar wordt gehouden om in de planperiode te kunnen worden toegewezen voor inrichtingen als bedoeld in [artikel 16.25, tweede lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-11-04&g=2009-11-04).
 
-2. Bij het nemen van het nationale toewijzingsbesluit nemen Onze Ministers het geldende nationale toewijzingsplan, voorzover het betreft de in [artikel 16.25, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-09-10&g=2009-09-10) bedoelde onderdelen, alsmede artikel 10 van de EG-richtlijn handel in broeikasgasemissierechten in acht, en houden ze rekening met dat plan, voorzover het betreft het in [artikel 16.25, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-09-10&g=2009-09-10) bedoelde onderdeel. Het nationale toewijzingsbesluit wordt genomen met inachtneming van de termijnen, genoemd in artikel 11, eerste en tweede lid, van de richtlijn.
+2. Bij het nemen van het nationale toewijzingsbesluit nemen Onze Ministers het geldende nationale toewijzingsplan, voorzover het betreft de in [artikel 16.25, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-11-04&g=2009-11-04) bedoelde onderdelen, alsmede artikel 10 van de EG-richtlijn handel in broeikasgasemissierechten in acht, en houden ze rekening met dat plan, voorzover het betreft het in [artikel 16.25, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-11-04&g=2009-11-04) bedoelde onderdeel. Het nationale toewijzingsbesluit wordt genomen met inachtneming van de termijnen, genoemd in artikel 11, eerste en tweede lid, van de richtlijn.
 
-3. [Artikel 16.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.23&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+3. [Artikel 16.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.23&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 ##### Artikel 16.30
 
@@ -5105,45 +5109,45 @@ Het nationale toewijzingsplan geldt met ingang van de dag na die waarop in de St
 
 ##### Artikel 16.31
 
-1. Indien de Afdeling bestuursrechtspraak van de Raad van State met toepassing van [artikel 20.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.5a&z=2009-09-10&g=2009-09-10) een tussenuitspraak heeft gedaan, wijzigen Onze Ministers het nationale toewijzingsbesluit met inachtneming van die uitspraak. Op de voorbereiding van het besluit tot wijziging van het nationale toewijzingsbesluit is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) niet van toepassing.
+1. Indien de Afdeling bestuursrechtspraak van de Raad van State met toepassing van [artikel 20.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.5a&z=2009-11-04&g=2009-11-04) een tussenuitspraak heeft gedaan, wijzigen Onze Ministers het nationale toewijzingsbesluit met inachtneming van die uitspraak. Op de voorbereiding van het besluit tot wijziging van het nationale toewijzingsbesluit is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) niet van toepassing.
 
-2. Het besluit tot wijziging van het nationale toewijzingsbesluit wordt genomen binnen tien weken na de dag waarop de tussenuitspraak, bedoeld in [artikel 20.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.5a&z=2009-09-10&g=2009-09-10), in het openbaar is uitgesproken. [Artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) is niet van toepassing.
+2. Het besluit tot wijziging van het nationale toewijzingsbesluit wordt genomen binnen tien weken na de dag waarop de tussenuitspraak, bedoeld in [artikel 20.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.5a&z=2009-11-04&g=2009-11-04), in het openbaar is uitgesproken. [Artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) is niet van toepassing.
 
 3. Voor de toepassing van dit hoofdstuk vervangt een met toepassing van het eerste lid gewijzigd nationaal toewijzingsbesluit het oorspronkelijke nationale toewijzingsbesluit.
 
 ##### Artikel 16.32
 
-1. Dit artikel is van toepassing indien in het nationale toewijzingsplan broeikasgasemissierechten beschikbaar worden gehouden voor toewijzing voor inrichtingen als bedoeld in [artikel 16.25, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-09-10&g=2009-09-10).
+1. Dit artikel is van toepassing indien in het nationale toewijzingsplan broeikasgasemissierechten beschikbaar worden gehouden voor toewijzing voor inrichtingen als bedoeld in [artikel 16.25, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-11-04&g=2009-11-04).
 
 2. Onze Ministers beslissen gezamenlijk, op verzoek van degene die een inrichting als bedoeld in het eerste lid drijft, over de toewijzing van broeikasgasemissierechten als bedoeld in het eerste lid voor de desbetreffende planperiode.
 
-3. Bij het nemen van een besluit krachtens het tweede lid nemen Onze Ministers het betrokken nationale toewijzingsplan, voorzover het betreft het in [artikel 16.25, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-09-10&g=2009-09-10), bedoelde onderdeel, alsmede het betrokken nationale toewijzingsbesluit, voorzover het betreft het in [artikel 16.29, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-09-10&g=2009-09-10), bedoelde onderdeel in acht.
+3. Bij het nemen van een besluit krachtens het tweede lid nemen Onze Ministers het betrokken nationale toewijzingsplan, voorzover het betreft het in [artikel 16.25, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-11-04&g=2009-11-04), bedoelde onderdeel, alsmede het betrokken nationale toewijzingsbesluit, voorzover het betreft het in [artikel 16.29, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-11-04&g=2009-11-04), bedoelde onderdeel in acht.
 
 4. Een verzoek om toewijzing van broeikasgasemissierechten als bedoeld in het eerste lid wordt afgewezen voorzover door toewijzing van die rechten het totale aantal broeikasgasemissierechten dat voor de toewijzing aan de in het betrokken nationale toewijzingsplan aangegeven categorie van inrichtingen als bedoeld in het eerste lid waartoe de inrichting behoort, in de betrokken planperiode ten hoogste beschikbaar is, zou worden overschreden.
 
 5. Een verzoek om toewijzing van broeikasgasemissierechten als bedoeld in het eerste lid kan worden afgewezen indien:
 
-- a. voor 1 september van het betrokken kalenderjaar voor de inrichting, bedoeld in het eerste lid, geen vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), is verleend;
+- a. voor 1 september van het betrokken kalenderjaar voor de inrichting, bedoeld in het eerste lid, geen vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), is verleend;
 
 - b. gerede twijfel bestaat of de inrichting, bedoeld in het eerste lid, voor 31 december van het betrokken kalenderjaar feitelijk in werking zal zijn gesteld overeenkomstig hetgeen daaromtrent is bepaald in het betrokken nationale toewijzingsplan;
 
-- c. niet is voldaan aan de eisen die overeenkomstig [artikel 16.25, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-09-10&g=2009-09-10), in het betrokken nationale toewijzingsplan zijn opgenomen met betrekking tot de toewijzing van broeikasgasemissierechten voor inrichtingen als bedoeld in [artikel 16.25, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-09-10&g=2009-09-10);
+- c. niet is voldaan aan de eisen die overeenkomstig [artikel 16.25, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-11-04&g=2009-11-04), in het betrokken nationale toewijzingsplan zijn opgenomen met betrekking tot de toewijzing van broeikasgasemissierechten voor inrichtingen als bedoeld in [artikel 16.25, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-11-04&g=2009-11-04);
 
 - d. de verzoeker onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van deze gegevens tot een onjuiste beslissing op het verzoek zou hebben geleid.
 
-6. Broeikasgasemissierechten worden toegewezen vanaf het tijdstip waarop de inrichting in werking is gesteld of naar verwachting in werking zal worden gesteld. Een besluit als bedoeld in tweede lid bevat een aanduiding van het gedeelte van het aantal broeikasgasemissierechten dat per kalenderjaar in de betrokken planperiode overeenkomstig [artikel 16.35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.35&z=2009-09-10&g=2009-09-10), zal worden verleend.
+6. Broeikasgasemissierechten worden toegewezen vanaf het tijdstip waarop de inrichting in werking is gesteld of naar verwachting in werking zal worden gesteld. Een besluit als bedoeld in tweede lid bevat een aanduiding van het gedeelte van het aantal broeikasgasemissierechten dat per kalenderjaar in de betrokken planperiode overeenkomstig [artikel 16.35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.35&z=2009-11-04&g=2009-11-04), zal worden verleend.
 
 ##### Artikel 16.33
 
-1. Verzoeken om toewijzing van broeikasgasemissierechten als bedoeld in [artikel 16.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.32&z=2009-09-10&g=2009-09-10), die na 1 september van een kalenderjaar zijn ingediend, worden op 1 september van het daarop volgende kalenderjaar in behandeling genomen.
+1. Verzoeken om toewijzing van broeikasgasemissierechten als bedoeld in [artikel 16.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.32&z=2009-11-04&g=2009-11-04), die na 1 september van een kalenderjaar zijn ingediend, worden op 1 september van het daarop volgende kalenderjaar in behandeling genomen.
 
-2. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop het verzoek om toewijzing van broeikasgasemissierechten, bedoeld in [artikel 16.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.32&z=2009-09-10&g=2009-09-10), moet worden gedaan en de gegevens die door de verzoeker moeten worden verstrekt met het oog op de beslissing op het verzoek.
+2. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop het verzoek om toewijzing van broeikasgasemissierechten, bedoeld in [artikel 16.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.32&z=2009-11-04&g=2009-11-04), moet worden gedaan en de gegevens die door de verzoeker moeten worden verstrekt met het oog op de beslissing op het verzoek.
 
-3. Op de voorbereiding van het besluit, bedoeld in [artikel 16.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.32&z=2009-09-10&g=2009-09-10), is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing, met uitzondering van [artikel 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:18).
+3. Op de voorbereiding van het besluit, bedoeld in [artikel 16.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.32&z=2009-11-04&g=2009-11-04), is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing, met uitzondering van [artikel 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:18).
 
 4. Zienswijzen kunnen naar voren worden gebracht door een ieder.
 
-5. Onze Ministers nemen het besluit, bedoeld in [artikel 16.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.32&z=2009-09-10&g=2009-09-10), uiterlijk twaalf weken na de terinzagelegging van het ontwerp, doch in elk geval uiterlijk 31 december van het kalenderjaar waarin het betrokken verzoek in behandeling is genomen.
+5. Onze Ministers nemen het besluit, bedoeld in [artikel 16.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.32&z=2009-11-04&g=2009-11-04), uiterlijk twaalf weken na de terinzagelegging van het ontwerp, doch in elk geval uiterlijk 31 december van het kalenderjaar waarin het betrokken verzoek in behandeling is genomen.
 
 ##### Artikel 16.34
 
@@ -5151,11 +5155,11 @@ Vervallen
 
 ##### Artikel 16.35
 
-1. Broeikasgasemissierechten worden overeenkomstig artikel 40 of 46 van de EG-verordening registratie van handel in broeikasgasemissierechten verleend aan degene die de inrichting drijft. Verlening van broeikasgasemissierechten vindt slechts plaats, indien voor de betrokken inrichting een vergunning als bedoeld in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), is verleend.
+1. Broeikasgasemissierechten worden overeenkomstig artikel 40 of 46 van de EG-verordening registratie van handel in broeikasgasemissierechten verleend aan degene die de inrichting drijft. Verlening van broeikasgasemissierechten vindt slechts plaats, indien voor de betrokken inrichting een vergunning als bedoeld in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), is verleend.
 
-2. Voorzover het betrokken nationale toewijzingsbesluit daarin voorziet, verleent het bestuur van de emissieautoriteit voor een inrichting als bedoeld in [artikel 16.25, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-09-10&g=2009-09-10), voor 1 maart van elk betrokken kalenderjaar een gedeelte van het aantal broeikasgasemissierechten dat voor die inrichting is toegewezen in het besluit, bedoeld in [artikel 16.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.32&z=2009-09-10&g=2009-09-10). Het eerste lid, tweede volzin, is van overeenkomstige toepassing. De verlening vindt plaats overeenkomstig artikel 42 van de EG-verordening registratie van handel in broeikasgasemissierechten voorzover het betreft de planperiode die loopt van 2005 tot en met 2007, dan wel artikel 48 van die verordening voorzover het betreft latere planperiodes.
+2. Voorzover het betrokken nationale toewijzingsbesluit daarin voorziet, verleent het bestuur van de emissieautoriteit voor een inrichting als bedoeld in [artikel 16.25, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-11-04&g=2009-11-04), voor 1 maart van elk betrokken kalenderjaar een gedeelte van het aantal broeikasgasemissierechten dat voor die inrichting is toegewezen in het besluit, bedoeld in [artikel 16.32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.32&z=2009-11-04&g=2009-11-04). Het eerste lid, tweede volzin, is van overeenkomstige toepassing. De verlening vindt plaats overeenkomstig artikel 42 van de EG-verordening registratie van handel in broeikasgasemissierechten voorzover het betreft de planperiode die loopt van 2005 tot en met 2007, dan wel artikel 48 van die verordening voorzover het betreft latere planperiodes.
 
-3. Voorzover het geldende nationale toewijzingsplan daarin voorziet, verleent het bestuur van de emissieautoriteit, indien het geval, bedoeld in [artikel 16.25, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-09-10&g=2009-09-10), zich voordoet, voor 1 maart van het laatste kalenderjaar in een planperiode voor inrichtingen als bedoeld in dat onderdeel, het aantal broeikasgasemissierechten dat voor de betrokken inrichtingen is toegewezen in het besluit, bedoeld in [artikel 16.34](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.34&z=2009-09-10&g=2009-09-10), dat op die periode betrekking heeft.
+3. Voorzover het geldende nationale toewijzingsplan daarin voorziet, verleent het bestuur van de emissieautoriteit, indien het geval, bedoeld in [artikel 16.25, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-11-04&g=2009-11-04), zich voordoet, voor 1 maart van het laatste kalenderjaar in een planperiode voor inrichtingen als bedoeld in dat onderdeel, het aantal broeikasgasemissierechten dat voor de betrokken inrichtingen is toegewezen in het besluit, bedoeld in [artikel 16.34](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.34&z=2009-11-04&g=2009-11-04), dat op die periode betrekking heeft.
 
 ### Afdeling 16.2.4. De geldigheid, inlevering en intrekking van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
 
@@ -5169,15 +5173,17 @@ Vervallen
 
 ##### Artikel 18.1a
 
-1. Dit hoofdstuk is van toepassing met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde, alsmede met betrekking tot de handhaving van het bij of krachtens de in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-09-10&g=2009-09-10), genoemde wetten bepaalde, voor zover dit bij of krachtens de betrokken wet is bepaald.
+1. Dit hoofdstuk is van toepassing met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde, alsmede met betrekking tot de handhaving van het bij of krachtens de in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-11-04&g=2009-11-04), genoemde wetten bepaalde, voor zover dit bij of krachtens de betrokken wet is bepaald.
 
-2. De [artikelen 18.3 tot en met 18.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-09-10&g=2009-09-10) zijn van overeenkomstige toepassing met betrekking tot de handhaving van het bepaalde bij of krachtens:
+2. De [artikelen 18.3 tot en met 18.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-11-04&g=2009-11-04) zijn van overeenkomstige toepassing met betrekking tot de handhaving van het bepaalde bij of krachtens:
 
 - a. de EG-verordening overbrenging van afvalstoffen;
 
 - b. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen;
 
-- c. de EG-verordening PRTR.
+- c. de EG-verordening PRTR;
+
+- d. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels.
 
 ##### Artikel 18.2f
 
@@ -5185,13 +5191,13 @@ De emissieautoriteit draagt zorg voor de handhaving van de bij of krachtens hoof
 
 ##### Artikel 18.4a
 
-1. Met het onderzoek met betrekking tot overtredingen als bedoeld in [artikel 18.16a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-09-10&g=2009-09-10), zijn belast de krachtens [artikel 18.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.4&z=2009-09-10&g=2009-09-10), aangewezen ambtenaren.
+1. Met het onderzoek met betrekking tot overtredingen als bedoeld in [artikel 18.16a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-11-04&g=2009-11-04), zijn belast de krachtens [artikel 18.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.4&z=2009-11-04&g=2009-11-04), aangewezen ambtenaren.
 
 2. Ten dienste van het onderzoek beschikken zij over de bevoegdheden, bedoeld in de [artikelen 5:15 tot en met 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15).
 
 ##### Artikel 18.6a
 
-In geval van overtreding van het bepaalde bij of krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), [16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), [artikel 16.6, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-09-10&g=2009-09-10), [artikel 16.6, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), [artikel 16.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), [artikel 16.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), [artikel 16.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.13&z=2009-09-10&g=2009-09-10), [artikel 16.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.13&z=2009-09-10&g=2009-09-10) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), [artikel 16.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.14&z=2009-09-10&g=2009-09-10), [artikel 16.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.14&z=2009-09-10&g=2009-09-10) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), [artikel 16.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.21&z=2009-09-10&g=2009-09-10), [artikel 16.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.21&z=2009-09-10&g=2009-09-10) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), of [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), of van [artikel 18.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.18&z=2009-09-10&g=2009-09-10), voorzover het een voorschrift betreft dat is verbonden aan een vergunning krachtens [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-09-10&g=2009-09-10), of van artikel 52, eerste lid, van de EG-verordening register handel in broeikasgasemissierechten, kan het bestuur van de emissieautoriteit een last onder dwangsom opleggen.
+In geval van overtreding van het bepaalde bij of krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), [16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), [artikel 16.6, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-11-04&g=2009-11-04), [artikel 16.6, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), [artikel 16.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), [artikel 16.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), [artikel 16.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.13&z=2009-11-04&g=2009-11-04), [artikel 16.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.13&z=2009-11-04&g=2009-11-04) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), [artikel 16.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.14&z=2009-11-04&g=2009-11-04), [artikel 16.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.14&z=2009-11-04&g=2009-11-04) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), [artikel 16.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.21&z=2009-11-04&g=2009-11-04), [artikel 16.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.21&z=2009-11-04&g=2009-11-04) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), of [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), of van [artikel 18.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.18&z=2009-11-04&g=2009-11-04), voorzover het een voorschrift betreft dat is verbonden aan een vergunning krachtens [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-11-04&g=2009-11-04), of van artikel 52, eerste lid, van de EG-verordening register handel in broeikasgasemissierechten, kan het bestuur van de emissieautoriteit een last onder dwangsom opleggen.
 
 ##### Artikel 18.7a
 
@@ -5199,15 +5205,15 @@ Artikel 18.7, aanhef en onder b, is niet van toepassing voorzover het betreft de
 
 ##### Artikel 18.16a
 
-1. In geval van overtreding van het bepaalde bij of krachtens de [artikelen 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), [16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), [16.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), [16.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), [16.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.13&z=2009-09-10&g=2009-09-10), [16.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.13&z=2009-09-10&g=2009-09-10) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), [16.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.14&z=2009-09-10&g=2009-09-10), [16.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.14&z=2009-09-10&g=2009-09-10) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), [16.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.21&z=2009-09-10&g=2009-09-10), [16.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.21&z=2009-09-10&g=2009-09-10) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), [16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), of [16.51, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-09-10&g=2009-09-10), of van [artikel 18.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.18&z=2009-09-10&g=2009-09-10), voorzover het een voorschrift betreft dat is verbonden aan een vergunning krachtens [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-09-10&g=2009-09-10), kan het bestuur van de emissieautoriteit de overtreder een bestuurlijke boete opleggen.
+1. In geval van overtreding van het bepaalde bij of krachtens de [artikelen 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), [16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), [16.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), [16.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), [16.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.13&z=2009-11-04&g=2009-11-04), [16.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.13&z=2009-11-04&g=2009-11-04) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), [16.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.14&z=2009-11-04&g=2009-11-04), [16.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.14&z=2009-11-04&g=2009-11-04) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), [16.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.21&z=2009-11-04&g=2009-11-04), [16.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.21&z=2009-11-04&g=2009-11-04) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), [16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), of [16.51, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-11-04&g=2009-11-04), of van [artikel 18.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.18&z=2009-11-04&g=2009-11-04), voorzover het een voorschrift betreft dat is verbonden aan een vergunning krachtens [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-11-04&g=2009-11-04), kan het bestuur van de emissieautoriteit de overtreder een bestuurlijke boete opleggen.
 
-2. Het bestuur van de emissieautoriteit legt een bestuurlijke boete op in geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10). [Artikel 5:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:14) is niet van toepassing.
+2. Het bestuur van de emissieautoriteit legt een bestuurlijke boete op in geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04). [Artikel 5:41 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:14) is niet van toepassing.
 
-3. In geval van overtreding van het bepaalde bij of krachtens [artikel 16.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.21&z=2009-09-10&g=2009-09-10) of van [artikel 18.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.18&z=2009-09-10&g=2009-09-10), voorzover het een voorschrift betreft dat is verbonden aan een vergunning krachtens [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-09-10&g=2009-09-10), kunnen een bestuurlijke boete en een last onder dwangsom tezamen worden opgelegd.
+3. In geval van overtreding van het bepaalde bij of krachtens [artikel 16.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.21&z=2009-11-04&g=2009-11-04) of van [artikel 18.18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.18&z=2009-11-04&g=2009-11-04), voorzover het een voorschrift betreft dat is verbonden aan een vergunning krachtens [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-11-04&g=2009-11-04), kunnen een bestuurlijke boete en een last onder dwangsom tezamen worden opgelegd.
 
-4. In geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10), of [artikel 16.51, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-09-10&g=2009-09-10), wordt een bestuurlijke boete als bedoeld in het tweede lid, onderscheidenlijk kan een bestuurlijke boete als bedoeld in het eerste lid worden opgelegd naast een verhoging van het aantal broeikasgasemissierechten onderscheidenlijk NOx-emissierechten dat degene die de betrokken inrichting drijft, met betrekking tot een kalenderjaar overeenkomstig [artikel 16.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.39&z=2009-09-10&g=2009-09-10) onderscheidenlijk [artikel 16.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.54&z=2009-09-10&g=2009-09-10) dient in te leveren.
+4. In geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04), of [artikel 16.51, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-11-04&g=2009-11-04), wordt een bestuurlijke boete als bedoeld in het tweede lid, onderscheidenlijk kan een bestuurlijke boete als bedoeld in het eerste lid worden opgelegd naast een verhoging van het aantal broeikasgasemissierechten onderscheidenlijk NOx-emissierechten dat degene die de betrokken inrichting drijft, met betrekking tot een kalenderjaar overeenkomstig [artikel 16.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.39&z=2009-11-04&g=2009-11-04) onderscheidenlijk [artikel 16.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.54&z=2009-11-04&g=2009-11-04) dient in te leveren.
 
-5. In geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10), neemt het bestuur van de emissieautoriteit, naast het opleggen van een bestuurlijke boete, de overtreder op in het overzicht, bedoeld in [artikel 18.16p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16p&z=2009-09-10&g=2009-09-10).
+5. In geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04), neemt het bestuur van de emissieautoriteit, naast het opleggen van een bestuurlijke boete, de overtreder op in het overzicht, bedoeld in [artikel 18.16p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16p&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 18.16b
 
@@ -5223,13 +5229,13 @@ Indien de gedraging tevens een strafbaar feit is en de ernst van de overtreding 
 
 ##### Artikel 18.16e
 
-1. Een bestuurlijke boete als bedoeld in [artikel 18.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-09-10&g=2009-09-10), eerste lid, bedraagt ten hoogste € 450 000 per overtreding of, indien de omzet van de betrokken onderneming in het boekjaar voorafgaand aan het jaar waarin de beschikking tot oplegging van de bestuurlijke boete is gegeven, meer dan € 4 500 000 bedraagt, ten hoogste 10% van die omzet.
+1. Een bestuurlijke boete als bedoeld in [artikel 18.16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-11-04&g=2009-11-04), eerste lid, bedraagt ten hoogste € 450 000 per overtreding of, indien de omzet van de betrokken onderneming in het boekjaar voorafgaand aan het jaar waarin de beschikking tot oplegging van de bestuurlijke boete is gegeven, meer dan € 4 500 000 bedraagt, ten hoogste 10% van die omzet.
 
-2. In geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10), bedraagt een bestuurlijke boete als bedoeld in [artikel 18.16a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-09-10&g=2009-09-10), het in artikel 16, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten genoemde bedrag per ton emissie van een kooldioxide-equivalent, die de inrichting in een kalenderjaar meer heeft veroorzaakt dan overeenkomt met het aantal broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties dat degene die de betrokken inrichting drijft, met betrekking tot dat jaar overeenkomstig [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10), onderscheidenlijk [artikel 16.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37a&z=2009-09-10&g=2009-09-10), heeft ingeleverd. [Artikel 5:46, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:46) is niet van toepassing.
+2. In geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04), bedraagt een bestuurlijke boete als bedoeld in [artikel 18.16a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-11-04&g=2009-11-04), het in artikel 16, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten genoemde bedrag per ton emissie van een kooldioxide-equivalent, die de inrichting in een kalenderjaar meer heeft veroorzaakt dan overeenkomt met het aantal broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties dat degene die de betrokken inrichting drijft, met betrekking tot dat jaar overeenkomstig [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04), onderscheidenlijk [artikel 16.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37a&z=2009-11-04&g=2009-11-04), heeft ingeleverd. [Artikel 5:46, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:46) is niet van toepassing.
 
 3. In afwijking van het tweede lid bedraagt de bestuurlijke boete, bedoeld in dat lid, met betrekking tot de periode van 1 januari 2005 tot en met 31 december 2007 het in artikel 16, vierde lid, van de EG-richtlijn handel in broeikasgasemissierechten genoemde bedrag per ton kooldioxide-equivalent.
 
-4. [Artikel 16.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.1&artikel=16.4&z=2009-09-10&g=2009-09-10) is van overeenkomstige toepassing.
+4. [Artikel 16.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.1&artikel=16.4&z=2009-11-04&g=2009-11-04) is van overeenkomstige toepassing.
 
 5. De berekening van de omzet, bedoeld in het eerste lid, geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) voor de netto-omzet.
 
@@ -5239,11 +5245,11 @@ Vervallen
 
 ##### Artikel 18.16g
 
-1. [Artikel 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) is van toepassing bij overtreding van het bepaalde bij of krachtens de in [artikel 18.16a, eerste en tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-09-10&g=2009-09-10), genoemde artikelen.
+1. [Artikel 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) is van toepassing bij overtreding van het bepaalde bij of krachtens de in [artikel 18.16a, eerste en tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-11-04&g=2009-11-04), genoemde artikelen.
 
-2. In geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10), vermeldt het rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), naast de in het [tweede lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) bedoelde gegevens, tevens het voornemen de naam van de overtreder op te nemen in het overzicht, bedoeld in [artikel 18.16p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16p&z=2009-09-10&g=2009-09-10).
+2. In geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04), vermeldt het rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), naast de in het [tweede lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) bedoelde gegevens, tevens het voornemen de naam van de overtreder op te nemen in het overzicht, bedoeld in [artikel 18.16p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16p&z=2009-11-04&g=2009-11-04).
 
-3. Indien de gedraging aan het openbaar ministerie wordt voorgelegd op grond van [artikel 18.16d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16d&z=2009-09-10&g=2009-09-10), wordt een afschrift van het rapport aan het openbaar ministerie toegezonden.
+3. Indien de gedraging aan het openbaar ministerie wordt voorgelegd op grond van [artikel 18.16d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16d&z=2009-11-04&g=2009-11-04), wordt een afschrift van het rapport aan het openbaar ministerie toegezonden.
 
 ##### Artikel 18.16h
 
@@ -5251,7 +5257,7 @@ Vervallen
 
 ##### Artikel 18.16i
 
-In geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10), hebben de [artikelen 5:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:49), [5:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:50), [5:51](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:51) en [5:53, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) mede betrekking op het opnemen van de naam van de overtreder in het overzicht, bedoeld in [artikel 18.16p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16p&z=2009-09-10&g=2009-09-10).
+In geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04), hebben de [artikelen 5:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:49), [5:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:50), [5:51](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:51) en [5:53, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) mede betrekking op het opnemen van de naam van de overtreder in het overzicht, bedoeld in [artikel 18.16p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16p&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 18.16j
 
@@ -5259,11 +5265,11 @@ Vervallen
 
 ##### Artikel 18.16k
 
-In geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10), vermeldt de beschikking tot oplegging van de bestuurlijke boete tevens dat de naam van de overtreder wordt opgenomen in het overzicht, bedoeld in [artikel 18.16p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16p&z=2009-09-10&g=2009-09-10).
+In geval van overtreding van het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04), vermeldt de beschikking tot oplegging van de bestuurlijke boete tevens dat de naam van de overtreder wordt opgenomen in het overzicht, bedoeld in [artikel 18.16p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16p&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 18.16l
 
-In afwijking van [artikel 5:45, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van [artikel 18.16a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-09-10&g=2009-09-10), tien jaren nadat de overtreding heeft plaatsgevonden.
+In afwijking van [artikel 5:45, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van [artikel 18.16a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16a&z=2009-11-04&g=2009-11-04), tien jaren nadat de overtreding heeft plaatsgevonden.
 
 ##### Artikel 18.16m
 
@@ -5279,13 +5285,13 @@ Vervallen
 
 ##### Artikel 18.16p
 
-1. Het bestuur van de emissieautoriteit stelt elk jaar voor 1 oktober een overzicht op van personen die het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10), hebben overtreden en ten aanzien van wie de beschikking tot oplegging van de bestuurlijke boete, bedoeld in [artikel 18.16k](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16k&z=2009-09-10&g=2009-09-10), onherroepelijk is geworden. Het overzicht wordt gepubliceerd in de Staatscourant.
+1. Het bestuur van de emissieautoriteit stelt elk jaar voor 1 oktober een overzicht op van personen die het bepaalde bij [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04), hebben overtreden en ten aanzien van wie de beschikking tot oplegging van de bestuurlijke boete, bedoeld in [artikel 18.16k](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.16k&z=2009-11-04&g=2009-11-04), onherroepelijk is geworden. Het overzicht wordt gepubliceerd in de Staatscourant.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het overzicht, bedoeld in het eerste lid.
 
 ##### Artikel 18.16q
 
-1. Het bestuur van de emissieautoriteit kan degene die jegens de in [artikel 18.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.4&z=2009-09-10&g=2009-09-10), of [artikel 18.4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.4a&z=2009-09-10&g=2009-09-10), bedoelde personen in strijd handelt met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), een bestuurlijke boete opleggen van ten hoogste € 4 500.
+1. Het bestuur van de emissieautoriteit kan degene die jegens de in [artikel 18.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.4&z=2009-11-04&g=2009-11-04), of [artikel 18.4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.4a&z=2009-11-04&g=2009-11-04), bedoelde personen in strijd handelt met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), een bestuurlijke boete opleggen van ten hoogste € 4 500.
 
 2. [Artikel 184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184) is niet van toepassing op de in het eerste lid bedoelde overtreding.
 
@@ -5315,11 +5321,11 @@ Onverminderd [artikel 8 van de Wet openbaarheid van bestuur](https://wetten.over
 
 ##### Artikel 19.6a
 
-De [artikelen 19.3 tot en met 19.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.3&z=2009-09-10&g=2009-09-10) zijn van overeenkomstige toepassing op gegevens die voorkomen in een stuk ten aanzien waarvan openbaarmaking wordt voorgeschreven of die uit zodanig stuk kunnen worden afgeleid en die niet als milieu-informatie zijn te beschouwen.
+De [artikelen 19.3 tot en met 19.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=19&artikel=19.3&z=2009-11-04&g=2009-11-04) zijn van overeenkomstige toepassing op gegevens die voorkomen in een stuk ten aanzien waarvan openbaarmaking wordt voorgeschreven of die uit zodanig stuk kunnen worden afgeleid en die niet als milieu-informatie zijn te beschouwen.
 
 ##### Artikel 19.6b
 
-Indien bij de voorbereiding van een besluit dat is aangewezen krachtens [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10) ter zake van een activiteit bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt, dan wel van een besluit inzake vergunning voor een inrichting krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10), ingevolge een wettelijk voorschrift of een besluit van het bevoegd gezag informatie openbaar wordt gemaakt, en dat wettelijk voorschrift of besluit zich op andere gronden dan voorzien in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) tegen de openbaarmaking verzet, is [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) van overeenkomstige toepassing en blijft het wettelijk voorschrift of besluit dat zich tegen de openbaarmaking verzet, buiten toepassing. Indien milieu-informatie niet ter inzage wordt gelegd, wordt daarvan mededeling gedaan.
+Indien bij de voorbereiding van een besluit dat is aangewezen krachtens [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04) ter zake van een activiteit bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt, dan wel van een besluit inzake vergunning voor een inrichting krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04), ingevolge een wettelijk voorschrift of een besluit van het bevoegd gezag informatie openbaar wordt gemaakt, en dat wettelijk voorschrift of besluit zich op andere gronden dan voorzien in [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) tegen de openbaarmaking verzet, is [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) van overeenkomstige toepassing en blijft het wettelijk voorschrift of besluit dat zich tegen de openbaarmaking verzet, buiten toepassing. Indien milieu-informatie niet ter inzage wordt gelegd, wordt daarvan mededeling gedaan.
 
 ### Hoofdstuk 16. Handel in emissierechten
 
@@ -5327,13 +5333,13 @@ Indien bij de voorbereiding van een besluit dat is aangewezen krachtens [artikel
 
 ##### Artikel 20.5a
 
-1. In afwijking van [artikel 36, eerste lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=36) worden bij de Afdeling aanhangige zaken over een nationaal toewijzingsbesluit als bedoeld in [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-09-10&g=2009-09-10), die op dezelfde planperiode betrekking hebben, ter behandeling gevoegd.
+1. In afwijking van [artikel 36, eerste lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=36) worden bij de Afdeling aanhangige zaken over een nationaal toewijzingsbesluit als bedoeld in [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-11-04&g=2009-11-04), die op dezelfde planperiode betrekking hebben, ter behandeling gevoegd.
 
-2. Alvorens te beslissen op een beroep tegen een nationaal toewijzingsbesluit als bedoeld in [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-09-10&g=2009-09-10), doet de Afdeling, in gevallen waarin het beroep naar haar oordeel gegrond is, binnen achttien weken na afloop van de beroepstermijn en na sluiting van het onderzoek een tussenuitspraak, waarbij zij Onze Minister en Onze Minister van Economische Zaken in de gelegenheid stelt de gebreken in het besluit te herstellen.
+2. Alvorens te beslissen op een beroep tegen een nationaal toewijzingsbesluit als bedoeld in [artikel 16.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.29&z=2009-11-04&g=2009-11-04), doet de Afdeling, in gevallen waarin het beroep naar haar oordeel gegrond is, binnen achttien weken na afloop van de beroepstermijn en na sluiting van het onderzoek een tussenuitspraak, waarbij zij Onze Minister en Onze Minister van Economische Zaken in de gelegenheid stelt de gebreken in het besluit te herstellen.
 
-3. In haar tussenuitspraak, bedoeld in het tweede lid, stelt de Afdeling vast in welke opzichten het beroep gegrond is. [Afdeling 8.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.2.6), met uitzondering van [artikel 8:72, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:72) is van overeenkomstige toepassing. In haar tussenuitspraak bepaalt de Afdeling dat het onderzoek wordt geschorst en ter voorbereiding van de einduitspraak wordt heropend nadat van het overeenkomstig [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-09-10&g=2009-09-10), genomen besluit aan haar mededeling is gedaan.
+3. In haar tussenuitspraak, bedoeld in het tweede lid, stelt de Afdeling vast in welke opzichten het beroep gegrond is. [Afdeling 8.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.2.6), met uitzondering van [artikel 8:72, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:72) is van overeenkomstige toepassing. In haar tussenuitspraak bepaalt de Afdeling dat het onderzoek wordt geschorst en ter voorbereiding van de einduitspraak wordt heropend nadat van het overeenkomstig [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-11-04&g=2009-11-04), genomen besluit aan haar mededeling is gedaan.
 
-4. De Afdeling voegt bij haar aanhangig gemaakte zaken met betrekking tot een naar aanleiding van haar tussenuitspraak gewijzigd nationaal toewijzingsbesluit als bedoeld in [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-09-10&g=2009-09-10), ter behandeling met zaken over het oorspronkelijke nationale toewijzingsbesluit die reeds bij haar aanhangig zijn.
+4. De Afdeling voegt bij haar aanhangig gemaakte zaken met betrekking tot een naar aanleiding van haar tussenuitspraak gewijzigd nationaal toewijzingsbesluit als bedoeld in [artikel 16.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.2&artikel=16.31&z=2009-11-04&g=2009-11-04), ter behandeling met zaken over het oorspronkelijke nationale toewijzingsbesluit die reeds bij haar aanhangig zijn.
 
 5. Voor de toepassing van [hoofdstuk II, titel II, paragraaf 1, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&paragraaf=1) wordt de tussenuitspraak geacht deel uit te maken van de einduitspraak.
 
@@ -5413,7 +5419,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 2.16a
 
-Onverminderd de [artikelen 16.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.8&z=2009-09-10&g=2009-09-10) en [18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-09-10&g=2009-09-10) stemmen het bestuur van de emissieautoriteit en de betrokken andere bestuursorganen, bedoeld in [artikel 2.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.1&artikel=2.16&z=2009-09-10&g=2009-09-10), onderling de uitoefening van de taken af, waarmee zij zijn belast bij of krachtens de [hoofdstukken 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-09-10&g=2009-09-10), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-09-10&g=2009-09-10) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&z=2009-09-10&g=2009-09-10) van deze wet of [artikel 40 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=40).
+Onverminderd de [artikelen 16.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.8&z=2009-11-04&g=2009-11-04) en [18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-11-04&g=2009-11-04) stemmen het bestuur van de emissieautoriteit en de betrokken andere bestuursorganen, bedoeld in [artikel 2.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=2&paragraaf=2.1&artikel=2.16&z=2009-11-04&g=2009-11-04), onderling de uitoefening van de taken af, waarmee zij zijn belast bij of krachtens de [hoofdstukken 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-11-04&g=2009-11-04), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&z=2009-11-04&g=2009-11-04) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&z=2009-11-04&g=2009-11-04) van deze wet of [artikel 40 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=40).
 
 ##### Artikel 16.5
 
@@ -5425,7 +5431,7 @@ Onverminderd de [artikelen 16.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245
 
 - c. het voor de betrokken inrichting geldende monitoringsplan ingrijpend te veranderen.
 
-2. Indien voor een inrichting tevens de in [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), vervatte verboden gelden, hebben de in het eerste lid vervatte verboden tevens betrekking op de emissies van stikstofoxiden in de lucht, die de inrichting veroorzaakt, en zijn de in [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), vervatte verboden niet van toepassing. [Titel 16.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&z=2009-09-10&g=2009-09-10), met uitzondering van [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing, voorzover het de emissie van stikstofoxiden in de lucht betreft.
+2. Indien voor een inrichting tevens de in [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), vervatte verboden gelden, hebben de in het eerste lid vervatte verboden tevens betrekking op de emissies van stikstofoxiden in de lucht, die de inrichting veroorzaakt, en zijn de in [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), vervatte verboden niet van toepassing. [Titel 16.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&z=2009-11-04&g=2009-11-04), met uitzondering van [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing, voorzover het de emissie van stikstofoxiden in de lucht betreft.
 
 ##### Artikel 16.6
 
@@ -5443,7 +5449,7 @@ Onverminderd de [artikelen 16.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245
 
 3. Onze Minister kan nadere regels stellen ter uitvoering van het bepaalde krachtens het eerste of tweede lid. Deze regels voldoen in elk geval aan de beschikking die de Commissie van de Europese Gemeenschappen heeft vastgesteld op grond van artikel 14, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten.
 
-4. Voor het bepalen van de jaarvracht van een inrichting worden uitsluitend de emissies in aanmerking genomen, die worden veroorzaakt door activiteiten die in een broeikasgasinstallatie worden verricht en die krachtens [artikel 16.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.1&artikel=16.1&z=2009-09-10&g=2009-09-10), zijn aangewezen.
+4. Voor het bepalen van de jaarvracht van een inrichting worden uitsluitend de emissies in aanmerking genomen, die worden veroorzaakt door activiteiten die in een broeikasgasinstallatie worden verricht en die krachtens [artikel 16.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.1&artikel=16.1&z=2009-11-04&g=2009-11-04), zijn aangewezen.
 
 ##### Artikel 16.7
 
@@ -5451,19 +5457,19 @@ Op de voorbereiding van de beschikking op de aanvraag om een vergunning is [afde
 
 ##### Artikel 16.8
 
-1. Het bestuur van de emissieautoriteit zendt het monitoringsplan dat is ingediend bij de aanvraag om een vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), aan het bestuursorgaan dat voor de inrichting waarop de aanvraag betrekking heeft, bevoegd is een vergunning te verlenen krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10), dan wel, in geval voor de inrichting het in [artikel 40, tweede lid, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=40) vervatte verbod geldt, Onze Minister van Economische Zaken.
+1. Het bestuur van de emissieautoriteit zendt het monitoringsplan dat is ingediend bij de aanvraag om een vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), aan het bestuursorgaan dat voor de inrichting waarop de aanvraag betrekking heeft, bevoegd is een vergunning te verlenen krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04), dan wel, in geval voor de inrichting het in [artikel 40, tweede lid, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=40) vervatte verbod geldt, Onze Minister van Economische Zaken.
 
-2. Het bestuur van de emissieautoriteit stelt het betrokken andere bestuursorgaan, bedoeld in het eerste lid, gedurende vier weken in de gelegenheid advies uit te brengen over het monitoringsplan met het oog op de samenhang tussen dit plan en de aanvraag of vergunning, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) van deze wet of [artikel 40 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=40).
+2. Het bestuur van de emissieautoriteit stelt het betrokken andere bestuursorgaan, bedoeld in het eerste lid, gedurende vier weken in de gelegenheid advies uit te brengen over het monitoringsplan met het oog op de samenhang tussen dit plan en de aanvraag of vergunning, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) van deze wet of [artikel 40 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=40).
 
 ##### Artikel 16.9
 
-Het bestuur van de emissieautoriteit draagt er bij de beslissing op de aanvraag zorg voor dat geen strijd ontstaat met regels die met betrekking tot de inrichting gelden, gesteld bij of krachtens dit hoofdstuk of [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-09-10&g=2009-09-10).
+Het bestuur van de emissieautoriteit draagt er bij de beslissing op de aanvraag zorg voor dat geen strijd ontstaat met regels die met betrekking tot de inrichting gelden, gesteld bij of krachtens dit hoofdstuk of [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 16.10
 
 1. De vergunning wordt geweigerd indien het monitoringsplan niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld dan wel indien door verlening anderszins strijd zou ontstaan met regels die met betrekking tot de inrichting gelden, gesteld bij of krachtens dit hoofdstuk, of indien het bestuur van de emissieautoriteit van oordeel is dat onvoldoende is gewaarborgd dat de houder van de vergunning in staat is het monitoringsplan naar behoren uit te voeren.
 
-2. In een geval als bedoeld in [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), wordt de vergunning gedeeltelijk geweigerd voorzover het de emissies van broeikasgassen, onderscheidenlijk de emissies van stikstofoxiden, betreft, indien een vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), onderscheidenlijk [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), zou zijn geweigerd in geval uitsluitend het vereiste van een vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), onderscheidenlijk [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), zou gelden.
+2. In een geval als bedoeld in [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), wordt de vergunning gedeeltelijk geweigerd voorzover het de emissies van broeikasgassen, onderscheidenlijk de emissies van stikstofoxiden, betreft, indien een vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), onderscheidenlijk [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), zou zijn geweigerd in geval uitsluitend het vereiste van een vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), onderscheidenlijk [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), zou gelden.
 
 ##### Artikel 16.11
 
@@ -5485,13 +5491,13 @@ Het bestuur van de emissieautoriteit draagt er bij de beslissing op de aanvraag 
 
 - 3°. de gevallen waarin van het monitoringsplan is afgeweken, de redenen daarvoor en de wijze waarop het meten en registreren van de emissies in die gevallen heeft plaatsgevonden;
 
-- c. het emissieverslag vergezeld gaat van een verklaring van een onafhankelijke deskundige, waarin de resultaten worden weergegeven van een door hem uitgevoerde beoordeling van het verslag overeenkomstig [artikel 16.14, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.14&z=2009-09-10&g=2009-09-10);
+- c. het emissieverslag vergezeld gaat van een verklaring van een onafhankelijke deskundige, waarin de resultaten worden weergegeven van een door hem uitgevoerde beoordeling van het verslag overeenkomstig [artikel 16.14, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.14&z=2009-11-04&g=2009-11-04);
 
 - d. aan het bestuur van de emissieautoriteit een verandering van de naam of het adres van de houder van de vergunning wordt gemeld.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen eisen worden gesteld met betrekking tot:
 
-- a. een andere persoon dan de houder van een vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), die bij de uitvoering van het monitoringsplan is betrokken;
+- a. een andere persoon dan de houder van een vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), die bij de uitvoering van het monitoringsplan is betrokken;
 
 - b. de bepaling en de registratie van de jaarvracht, het brandstofverbruik en het grondstofgebruik, bedoeld in het eerste lid, onder a;
 
@@ -5501,7 +5507,7 @@ Het bestuur van de emissieautoriteit draagt er bij de beslissing op de aanvraag 
 
 4. In een vergunning kan worden bepaald dat:
 
-- a. een verandering, anders dan bedoeld in [artikel 16.5, eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), of
+- a. een verandering, anders dan bedoeld in [artikel 16.5, eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), of
 
 - b. een tijdelijke afwijking van het monitoringsplan
 
@@ -5529,13 +5535,13 @@ aan het bestuur van de emissieautoriteit wordt gemeld overeenkomstig de krachten
 
 - a. de veranderingen of ontwikkelingen, bedoeld in het eerste lid, onder a onderscheidenlijk b, daartoe aanleiding geven;
 
-- b. wijziging van de krachtens [artikel 16.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-09-10&g=2009-09-10) gestelde regels daartoe aanleiding geeft;
+- b. wijziging van de krachtens [artikel 16.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-11-04&g=2009-11-04) gestelde regels daartoe aanleiding geeft;
 
 - c. het bestuur van de emissieautoriteit daarom verzoekt.
 
 ##### Artikel 16.14
 
-1. Bij de verificatie wordt nagegaan of het emissieverslag voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld. Indien het emissieverslag niet aan deze eisen voldoet, geeft de verificateur geen verklaring af als bedoeld in [artikel 16.12, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10).
+1. Bij de verificatie wordt nagegaan of het emissieverslag voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld. Indien het emissieverslag niet aan deze eisen voldoet, geeft de verificateur geen verklaring af als bedoeld in [artikel 16.12, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04).
 
 2. De verificateur mag niet betrokken zijn geweest bij het opstellen, beoordelen of uitvoeren van het monitoringsplan voor de betrokken inrichting.
 
@@ -5543,15 +5549,15 @@ aan het bestuur van de emissieautoriteit wordt gemeld overeenkomstig de krachten
 
 ##### Artikel 16.15
 
-Het bestuur van de emissieautoriteit zendt het betrokken andere bestuurorgaan, bedoeld in [artikel 16.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.8&z=2009-09-10&g=2009-09-10), een exemplaar van het voor de betrokken inrichting opgestelde emissieverslag en de daarbij gevoegde verklaring van de verificateur.
+Het bestuur van de emissieautoriteit zendt het betrokken andere bestuurorgaan, bedoeld in [artikel 16.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.8&z=2009-11-04&g=2009-11-04), een exemplaar van het voor de betrokken inrichting opgestelde emissieverslag en de daarbij gevoegde verklaring van de verificateur.
 
 ##### Artikel 16.16
 
-1. Het bestuur van de emissieautoriteit kan uiterlijk op 30 september van het kalenderjaar waarin het emissieverslag overeenkomstig [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), moet worden ingediend, vaststellen dat dit verslag niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld. Het bestuur van de emissieautoriteit kan de beslissing voor ten hoogste drie maanden verdagen. Van de verdaging wordt voor het in de eerste volzin genoemde tijdstip schriftelijk mededeling gedaan aan degene die het emissieverslag heeft ingediend. De mededeling omvat de reden voor de verdaging.
+1. Het bestuur van de emissieautoriteit kan uiterlijk op 30 september van het kalenderjaar waarin het emissieverslag overeenkomstig [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), moet worden ingediend, vaststellen dat dit verslag niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld. Het bestuur van de emissieautoriteit kan de beslissing voor ten hoogste drie maanden verdagen. Van de verdaging wordt voor het in de eerste volzin genoemde tijdstip schriftelijk mededeling gedaan aan degene die het emissieverslag heeft ingediend. De mededeling omvat de reden voor de verdaging.
 
 2. Het bestuur van de emissieautoriteit kan na het tijdstip, genoemd in het eerste lid, onderscheidenlijk, indien toepassing is gegeven aan de tweede volzin van dat lid, na het tijdstip dat met toepassing van die volzin is vastgesteld alsnog vaststellen dat het emissieverslag niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld, indien:
 
-- a. degene die overeenkomstig [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), bij het bestuur van de emissieautoriteit een emissieverslag heeft ingediend, in dat verslag onjuiste of onvolledige gegevens heeft verstrekt en verstrekking van juiste of volledige gegevens zou hebben geleid tot de vaststelling van een andere jaarvracht,
+- a. degene die overeenkomstig [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), bij het bestuur van de emissieautoriteit een emissieverslag heeft ingediend, in dat verslag onjuiste of onvolledige gegevens heeft verstrekt en verstrekking van juiste of volledige gegevens zou hebben geleid tot de vaststelling van een andere jaarvracht,
 
 - b. het betrokken emissieverslag anderszins onjuist was,
 
@@ -5561,7 +5567,7 @@ en de betrokken persoon dit wist of behoorde te weten.
 
 ##### Artikel 16.17
 
-Indien degene die een inrichting drijft, waarop de in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), gestelde verboden betrekking hebben, niet tijdig een emissieverslag bij het bestuur van de emissieautoriteit heeft ingediend, of het bestuur van de emissieautoriteit ingevolge [artikel 16.16, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.16&z=2009-09-10&g=2009-09-10), heeft verklaard dat het emissieverslag niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld, kan het bestuur van de emissieautoriteit de betrokken gegevens op basis van bedoelde eisen ambtshalve vaststellen. Voordat het bestuur van de emissieautoriteit deze gegevens ambtshalve vaststelt, stelt het de betrokken persoon in de gelegenheid zijn zienswijze naar voren te brengen.
+Indien degene die een inrichting drijft, waarop de in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), gestelde verboden betrekking hebben, niet tijdig een emissieverslag bij het bestuur van de emissieautoriteit heeft ingediend, of het bestuur van de emissieautoriteit ingevolge [artikel 16.16, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.16&z=2009-11-04&g=2009-11-04), heeft verklaard dat het emissieverslag niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld, kan het bestuur van de emissieautoriteit de betrokken gegevens op basis van bedoelde eisen ambtshalve vaststellen. Voordat het bestuur van de emissieautoriteit deze gegevens ambtshalve vaststelt, stelt het de betrokken persoon in de gelegenheid zijn zienswijze naar voren te brengen.
 
 ##### Artikel 16.18
 
@@ -5577,23 +5583,23 @@ Een voor een inrichting verleende vergunning geldt voor een ieder die de inricht
 
 1. Het bestuur van de emissieautoriteit kan de voorschriften die aan een vergunning zijn verbonden, wijzigen, aanvullen of intrekken, indien dit naar zijn oordeel nodig is in het belang van de goede werking van het systeem van handel in emissierechten.
 
-2. Met betrekking tot de beslissing ter zake zijn de [artikelen 16.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.7&z=2009-09-10&g=2009-09-10), [16.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.8&z=2009-09-10&g=2009-09-10) en [16.9](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.9&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+2. Met betrekking tot de beslissing ter zake zijn de [artikelen 16.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.7&z=2009-11-04&g=2009-11-04), [16.8](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.8&z=2009-11-04&g=2009-11-04) en [16.9](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.9&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
-3. In een geval als bedoeld in [artikel 16.12, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), wijzigt het bestuur van de emissieautoriteit de vergunning overeenkomstig de melding.
+3. In een geval als bedoeld in [artikel 16.12, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), wijzigt het bestuur van de emissieautoriteit de vergunning overeenkomstig de melding.
 
-4. Indien het geval, bedoeld in [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), zich voordoet en voor de betrokken inrichting reeds een vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), is verleend voor het in werking hebben van een inrichting waarin zich een of meer broeikasgasinstallaties bevinden, vult het bestuur van de emissieautoriteit die vergunning aan met voorschriften en bepalingen die betrekking hebben op de emissie van stikstofoxiden in de lucht, die de inrichting veroorzaakt, en die noodzakelijk zijn ter uitvoering van [titel 16.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&z=2009-09-10&g=2009-09-10). Met betrekking tot de beslissing terzake en de inhoud van de voorschriften en bepalingen zijn de [artikelen 16.6 tot en met 16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+4. Indien het geval, bedoeld in [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), zich voordoet en voor de betrokken inrichting reeds een vergunning krachtens [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), is verleend voor het in werking hebben van een inrichting waarin zich een of meer broeikasgasinstallaties bevinden, vult het bestuur van de emissieautoriteit die vergunning aan met voorschriften en bepalingen die betrekking hebben op de emissie van stikstofoxiden in de lucht, die de inrichting veroorzaakt, en die noodzakelijk zijn ter uitvoering van [titel 16.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&z=2009-11-04&g=2009-11-04). Met betrekking tot de beslissing terzake en de inhoud van de voorschriften en bepalingen zijn de [artikelen 16.6 tot en met 16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
-5. Indien het geval, bedoeld in [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), zich voordoet en voor de betrokken inrichting reeds een vergunning krachtens [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), is verleend voor het in werking hebben van een inrichting waarin zich een of meer installaties bevinden, die een emissie van stikstofoxiden in de lucht veroorzaken, vult het bestuur van de emissieautoriteit die vergunning aan met voorschriften en bepalingen die betrekking hebben op de emissie van broeikasgassen in de lucht, die de inrichting veroorzaakt, en die noodzakelijk zijn ter uitvoering van [titel 16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&z=2009-09-10&g=2009-09-10). Met betrekking tot de beslissing terzake en de inhoud van de voorschriften en bepalingen zijn de [artikelen 16.6 tot en met 16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+5. Indien het geval, bedoeld in [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), zich voordoet en voor de betrokken inrichting reeds een vergunning krachtens [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), is verleend voor het in werking hebben van een inrichting waarin zich een of meer installaties bevinden, die een emissie van stikstofoxiden in de lucht veroorzaken, vult het bestuur van de emissieautoriteit die vergunning aan met voorschriften en bepalingen die betrekking hebben op de emissie van broeikasgassen in de lucht, die de inrichting veroorzaakt, en die noodzakelijk zijn ter uitvoering van [titel 16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&z=2009-11-04&g=2009-11-04). Met betrekking tot de beslissing terzake en de inhoud van de voorschriften en bepalingen zijn de [artikelen 16.6 tot en met 16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
 6. In geval het vierde of vijfde lid van toepassing is, kan het bestuur van de emissieautoriteit de rechten die de vergunninghouder aan de al eerder verleende vergunning ontleende, niet wijzigen anders dan mogelijk zou zijn met toepassing van het eerste lid.
 
 ##### Artikel 16.21
 
-Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot inrichtingen waarvoor de in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), vervatte verboden gelden en die behoren tot een bij onderscheidenlijk krachtens de maatregel aangewezen categorie, regels worden gesteld, die nodig zijn in het belang van de goede werking van het systeem van handel in emissierechten. Bij onderscheidenlijk krachtens de maatregel kan worden bepaald dat bij onderscheidenlijk krachtens de maatregel gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen. [Artikel 8.42a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.42a&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot inrichtingen waarvoor de in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), vervatte verboden gelden en die behoren tot een bij onderscheidenlijk krachtens de maatregel aangewezen categorie, regels worden gesteld, die nodig zijn in het belang van de goede werking van het systeem van handel in emissierechten. Bij onderscheidenlijk krachtens de maatregel kan worden bepaald dat bij onderscheidenlijk krachtens de maatregel gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen. [Artikel 8.42a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.42a&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 ##### Artikel 16.22
 
-Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot inrichtingen waarvoor de in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), vervatte verboden gelden en die behoren tot een bij onderscheidenlijk krachtens de maatregel aangewezen categorie, regels worden gesteld, inhoudende de verplichting voor het bestuur van de emissieautoriteit aan de vergunning voorschriften te verbinden, die nodig zijn in het belang van de goede werking van het systeem van handel in emissierechten. Bij onderscheidenlijk krachtens de maatregel kan worden bepaald dat bij onderscheidenlijk krachtens de maatregel gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen. [Artikel 8.45, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.45&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot inrichtingen waarvoor de in [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), vervatte verboden gelden en die behoren tot een bij onderscheidenlijk krachtens de maatregel aangewezen categorie, regels worden gesteld, inhoudende de verplichting voor het bestuur van de emissieautoriteit aan de vergunning voorschriften te verbinden, die nodig zijn in het belang van de goede werking van het systeem van handel in emissierechten. Bij onderscheidenlijk krachtens de maatregel kan worden bepaald dat bij onderscheidenlijk krachtens de maatregel gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen. [Artikel 8.45, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.45&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 #### § 15.2.2. Belastingplichtigen
 
@@ -5617,7 +5623,7 @@ Degene op wiens naam een rekening in het register voor handel in broeikasgasemis
 
 ##### Artikel 16.39
 
-Indien degene die een inrichting drijft, ter voldoening aan [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10), met betrekking tot een kalenderjaar minder broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties heeft ingeleverd dan overeenkomt met de hoeveelheid van de emissie, die de inrichting gedurende dat kalenderjaar heeft veroorzaakt, wordt het aantal broeikasgasemissierechten dat hij in het daarop volgende kalenderjaar ter uitvoering van dat artikel dient in te leveren, van rechtswege verhoogd met het aantal broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties dat hij te weinig had ingeleverd.
+Indien degene die een inrichting drijft, ter voldoening aan [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04), met betrekking tot een kalenderjaar minder broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties heeft ingeleverd dan overeenkomt met de hoeveelheid van de emissie, die de inrichting gedurende dat kalenderjaar heeft veroorzaakt, wordt het aantal broeikasgasemissierechten dat hij in het daarop volgende kalenderjaar ter uitvoering van dat artikel dient in te leveren, van rechtswege verhoogd met het aantal broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties dat hij te weinig had ingeleverd.
 
 ### Afdeling 16.2.4. De geldigheid, inlevering en intrekking van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
 
@@ -5765,17 +5771,17 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 19.1b
 
-Na het einde van de termijn waarbinnen beroep kan worden ingesteld tegen een beschikking als bedoeld in [artikel 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-09-10&g=2009-09-10) op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is, wordt, zolang zij niet is tenietgegaan, door het bevoegd gezag aan een ieder desgevraagd kosteloos inzage gegeven in en tegen vergoeding van ten hoogste de kosten een exemplaar verstrekt van de beschikking en voor zover mogelijk van de stukken die in verband met de totstandkoming daarvan overeenkomstig deze wet dan wel [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) of [artikel 3:44 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:44) ter inzage dienden te worden gelegd.
+Na het einde van de termijn waarbinnen beroep kan worden ingesteld tegen een beschikking als bedoeld in [artikel 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-11-04&g=2009-11-04) op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is, wordt, zolang zij niet is tenietgegaan, door het bevoegd gezag aan een ieder desgevraagd kosteloos inzage gegeven in en tegen vergoeding van ten hoogste de kosten een exemplaar verstrekt van de beschikking en voor zover mogelijk van de stukken die in verband met de totstandkoming daarvan overeenkomstig deze wet dan wel [afdeling 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) of [artikel 3:44 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:44) ter inzage dienden te worden gelegd.
 
 ##### Artikel 5.2b
 
-1. Bij een maatregel als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10), ter uitvoering van de kaderrichtlijn water, wordt aan provinciale staten opgedragen milieukwaliteitseisen, voorzover die niet zijn vastgesteld bij een maatregel op grond van [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10), in een provinciale milieuverordening als bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.5&z=2009-09-10&g=2009-09-10), vast te stellen.
+1. Bij een maatregel als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04), ter uitvoering van de kaderrichtlijn water, wordt aan provinciale staten opgedragen milieukwaliteitseisen, voorzover die niet zijn vastgesteld bij een maatregel op grond van [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04), in een provinciale milieuverordening als bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.5&z=2009-11-04&g=2009-11-04), vast te stellen.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld die provinciale staten bij de vaststelling van de eisen in de provinciale milieuverordening in daarbij aan te wijzen gevallen in acht moeten nemen. Een zodanige regeling wordt vastgesteld door Onze Minister tezamen met Onze Ministers van Verkeer en Waterstaat en van Landbouw, Natuur en Voedselkwaliteit, ieder voor zover het aangelegenheden betreft die mede tot zijn verantwoordelijkheid behoren.
 
-3. Bij een maatregel als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10), wordt overeenkomstig artikel 4, vierde, vijfde en zevende lid, van de kaderrichtlijn water bepaald in hoeverre en onder welke voorwaarden kan worden afgeweken van de eisen en streeftermijnen van artikel 4, eerste en tweede lid, van de kaderrichtlijn water.
+3. Bij een maatregel als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04), wordt overeenkomstig artikel 4, vierde, vijfde en zevende lid, van de kaderrichtlijn water bepaald in hoeverre en onder welke voorwaarden kan worden afgeweken van de eisen en streeftermijnen van artikel 4, eerste en tweede lid, van de kaderrichtlijn water.
 
-4. De kwaliteit van oppervlaktewateren en grondwatervoorkomens waarvoor milieukwaliteitseisen gelden mag niet verslechteren, behoudens voor zover overeenkomstig artikel 4, zesde of zevende lid, van de kaderrichtlijn water bij een maatregel als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-09-10&g=2009-09-10), is bepaald dat een achteruitgang is toegelaten.
+4. De kwaliteit van oppervlaktewateren en grondwatervoorkomens waarvoor milieukwaliteitseisen gelden mag niet verslechteren, behoudens voor zover overeenkomstig artikel 4, zesde of zevende lid, van de kaderrichtlijn water bij een maatregel als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&artikel=5.1&z=2009-11-04&g=2009-11-04), is bepaald dat een achteruitgang is toegelaten.
 
 ### Hoofdstuk 6. Milieuzonering
 
@@ -5913,7 +5919,7 @@ Vervallen
 
 #### § 15.2.3. Vrijstelling
 
-## Titel 15.3. Voorschriften omtrent het verstrekken van subsidies
+## Titel 12.1. Registers beschermde gebieden
 
 ## Titel 15.2. Verbruiksbelastingen van brandstoffen
 
@@ -5951,17 +5957,17 @@ Vervallen
 
 2. Een emissie van stikstofoxiden in de lucht wordt uitgedrukt in kilogrammen.
 
-3. [Artikel 16.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.1&artikel=16.2&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+3. [Artikel 16.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.1&artikel=16.2&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 ##### Artikel 16.48
 
-Onder inrichtingen als bedoeld in [artikel 16.47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.1&artikel=16.47&z=2009-09-10&g=2009-09-10), worden mede begrepen inrichtingen binnen de Nederlandse exclusieve economische zone.
+Onder inrichtingen als bedoeld in [artikel 16.47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.1&artikel=16.47&z=2009-11-04&g=2009-11-04), worden mede begrepen inrichtingen binnen de Nederlandse exclusieve economische zone.
 
 ### Afdeling 16.2.6. Registratie van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
 
 ##### Artikel 16.49
 
-1. Onverminderd [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), is het verboden zonder vergunning van het bestuur van de emissieautoriteit:
+1. Onverminderd [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), is het verboden zonder vergunning van het bestuur van de emissieautoriteit:
 
 - a. een inrichting in werking te hebben;
 
@@ -5969,15 +5975,15 @@ Onder inrichtingen als bedoeld in [artikel 16.47, eerste lid](https://wetten.ove
 
 - c. het voor de betrokken inrichting geldende monitoringsplan ingrijpend te veranderen.
 
-2. Het bepaalde bij of krachtens de [artikelen 16.6 tot en met 16.22](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-09-10&g=2009-09-10) is van overeenkomstige toepassing, met uitzondering van [artikel 16.6, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-09-10&g=2009-09-10), [artikel 16.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), en [artikel 16.14, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.14&z=2009-09-10&g=2009-09-10), en met dien verstande dat:
+2. Het bepaalde bij of krachtens de [artikelen 16.6 tot en met 16.22](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-11-04&g=2009-11-04) is van overeenkomstige toepassing, met uitzondering van [artikel 16.6, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-11-04&g=2009-11-04), [artikel 16.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), en [artikel 16.14, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.14&z=2009-11-04&g=2009-11-04), en met dien verstande dat:
 
-- a. [artikel 16.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-09-10&g=2009-09-10), [artikel 16.12, eerste lid, onder a en b, onder 1°, en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), en [artikel 16.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.13&z=2009-09-10&g=2009-09-10), geen betrekking hebben op het grondstofgebruik;
+- a. [artikel 16.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-11-04&g=2009-11-04), [artikel 16.12, eerste lid, onder a en b, onder 1°, en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), en [artikel 16.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.13&z=2009-11-04&g=2009-11-04), geen betrekking hebben op het grondstofgebruik;
 
-- b. voorzover in de algemene maatregel van bestuur krachtens [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-09-10&g=2009-09-10) het aantal NOx-emissierechten, bedoeld in dat artikel, is vastgesteld per eenheid product: [artikel 16.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-09-10&g=2009-09-10), [artikel 16.12, eerste lid, onder a en b, onder 1°, en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), en [artikel 16.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.13&z=2009-09-10&g=2009-09-10), mede betrekking hebben op de productie;
+- b. voorzover in de algemene maatregel van bestuur krachtens [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-11-04&g=2009-11-04) het aantal NOx-emissierechten, bedoeld in dat artikel, is vastgesteld per eenheid product: [artikel 16.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-11-04&g=2009-11-04), [artikel 16.12, eerste lid, onder a en b, onder 1°, en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), en [artikel 16.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.13&z=2009-11-04&g=2009-11-04), mede betrekking hebben op de productie;
 
-- c. voor de toepassing van [artikel 16.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.17&z=2009-09-10&g=2009-09-10) in plaats van «op basis van bedoelde eisen» wordt gelezen «op basis van een redelijke schatting»;
+- c. voor de toepassing van [artikel 16.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.17&z=2009-11-04&g=2009-11-04) in plaats van «op basis van bedoelde eisen» wordt gelezen «op basis van een redelijke schatting»;
 
-- d. het bestuur van de emissieautoriteit kan, indien bij toepassing van [artikel 16.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.17&z=2009-09-10&g=2009-09-10) gegevens ambtshalve worden vastgesteld, bepalen dat deze gegevens gelden met ingang van 30 april van het kalenderjaar volgend op het jaar waarop die gegevens betrekking hebben.
+- d. het bestuur van de emissieautoriteit kan, indien bij toepassing van [artikel 16.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.17&z=2009-11-04&g=2009-11-04) gegevens ambtshalve worden vastgesteld, bepalen dat deze gegevens gelden met ingang van 30 april van het kalenderjaar volgend op het jaar waarop die gegevens betrekking hebben.
 
 3. In de vergunning wordt het aantal NOx-emissierechten vastgesteld dat in een kalenderjaar per overdracht ten hoogste mag worden overgedragen.
 
@@ -5993,43 +5999,43 @@ Bij algemene maatregel van bestuur kunnen in het belang van de bescherming van h
 
 ##### Artikel 16.51
 
-1. Degene die een inrichting drijft, levert met betrekking tot ieder kalenderjaar dat ligt binnen een tijdvak als bedoeld in [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-09-10&g=2009-09-10), voor 1 mei van het daaropvolgende kalenderjaar ten minste een aantal NOx-emissierechten in, dat overeenkomt met de hoeveelheid van de emissie van stikstofoxiden, die de inrichting in het eerstbedoelde kalenderjaar heeft veroorzaakt.
+1. Degene die een inrichting drijft, levert met betrekking tot ieder kalenderjaar dat ligt binnen een tijdvak als bedoeld in [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-11-04&g=2009-11-04), voor 1 mei van het daaropvolgende kalenderjaar ten minste een aantal NOx-emissierechten in, dat overeenkomt met de hoeveelheid van de emissie van stikstofoxiden, die de inrichting in het eerstbedoelde kalenderjaar heeft veroorzaakt.
 
-2. Onverminderd het eerste lid heeft de houder van een vergunning krachtens [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), of [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), met betrekking tot ieder kalenderjaar dat ligt binnen een tijdvak als bedoeld in [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-09-10&g=2009-09-10), op 1 mei van het daarop volgende kalenderjaar een saldo van nul of meer NOx-emissierechten die betrekking hebben op het eerstbedoelde kalenderjaar op zijn rekening, bedoeld in [artikel 16.60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.60&z=2009-09-10&g=2009-09-10), staan.
+2. Onverminderd het eerste lid heeft de houder van een vergunning krachtens [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), of [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), met betrekking tot ieder kalenderjaar dat ligt binnen een tijdvak als bedoeld in [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-11-04&g=2009-11-04), op 1 mei van het daarop volgende kalenderjaar een saldo van nul of meer NOx-emissierechten die betrekking hebben op het eerstbedoelde kalenderjaar op zijn rekening, bedoeld in [artikel 16.60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.60&z=2009-11-04&g=2009-11-04), staan.
 
-3. Voor de toepassing van het eerste lid worden ter bepaling van de hoeveelheid van de emissie, bedoeld in dat lid, en het aantal NOx-emissierechten, bedoeld in [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-09-10&g=2009-09-10), de gegevens in acht genomen, die daaromtrent zijn opgenomen in het emissieverslag dat degene die de inrichting drijft, overeenkomstig [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), met betrekking tot dat kalenderjaar heeft ingediend of de gegevens die overeenkomstig [artikel 16.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.17&z=2009-09-10&g=2009-09-10) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), ambtshalve zijn vastgesteld.
+3. Voor de toepassing van het eerste lid worden ter bepaling van de hoeveelheid van de emissie, bedoeld in dat lid, en het aantal NOx-emissierechten, bedoeld in [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-11-04&g=2009-11-04), de gegevens in acht genomen, die daaromtrent zijn opgenomen in het emissieverslag dat degene die de inrichting drijft, overeenkomstig [artikel 16.12, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.12&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), met betrekking tot dat kalenderjaar heeft ingediend of de gegevens die overeenkomstig [artikel 16.17](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.17&z=2009-11-04&g=2009-11-04) in verbinding met [artikel 16.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), ambtshalve zijn vastgesteld.
 
-4. Indien toepassing is gegeven aan [artikel 16.49, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), kan het bestuur van de emissieautoriteit, in afwijking van het eerste lid, in naam van degene die de inrichting drijft, NOx-emissierechten inleveren. [Artikel 16.52](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.52&z=2009-09-10&g=2009-09-10) is van overeenkomstige toepassing. Als datum van inlevering geldt 30 april van het kalenderjaar, bedoeld in [artikel 16.49, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10).
+4. Indien toepassing is gegeven aan [artikel 16.49, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), kan het bestuur van de emissieautoriteit, in afwijking van het eerste lid, in naam van degene die de inrichting drijft, NOx-emissierechten inleveren. [Artikel 16.52](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.52&z=2009-11-04&g=2009-11-04) is van overeenkomstige toepassing. Als datum van inlevering geldt 30 april van het kalenderjaar, bedoeld in [artikel 16.49, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 16.52
 
-Het aantal NOx-emissierechten dat degene die een inrichting drijft, ter voldoening aan het bepaalde in [artikel 16.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-09-10&g=2009-09-10), ten behoeve van enig kalenderjaar mag inleveren, wordt bepaald door:
+Het aantal NOx-emissierechten dat degene die een inrichting drijft, ter voldoening aan het bepaalde in [artikel 16.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-11-04&g=2009-11-04), ten behoeve van enig kalenderjaar mag inleveren, wordt bepaald door:
 
 - a. bij elkaar op te tellen:
 
-- 1°. het aantal NOx-emissierechten dat hij met betrekking tot het kalenderjaar heeft opgebouwd op grond van [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-09-10&g=2009-09-10),
+- 1°. het aantal NOx-emissierechten dat hij met betrekking tot het kalenderjaar heeft opgebouwd op grond van [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-11-04&g=2009-11-04),
 
-- 2°. het aantal NOx-emissierechten dat hij met betrekking tot het kalenderjaar heeft verkregen, indien de overdracht overeenkomstig [artikel 16.57](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.57&z=2009-09-10&g=2009-09-10) is geregistreerd,
+- 2°. het aantal NOx-emissierechten dat hij met betrekking tot het kalenderjaar heeft verkregen, indien de overdracht overeenkomstig [artikel 16.57](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.57&z=2009-11-04&g=2009-11-04) is geregistreerd,
 
-- 3°. het aantal NOx-emissierechten dat met betrekking tot het kalenderjaar anders dan door overdracht aan hem is overgegaan, indien de overgang overeenkomstig [artikel 16.57](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.57&z=2009-09-10&g=2009-09-10) is geregistreerd, en
+- 3°. het aantal NOx-emissierechten dat met betrekking tot het kalenderjaar anders dan door overdracht aan hem is overgegaan, indien de overgang overeenkomstig [artikel 16.57](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.57&z=2009-11-04&g=2009-11-04) is geregistreerd, en
 
-- 4°. het aantal NOx-emissierechten dat hij ten behoeve van het kalenderjaar heeft ingeleverd op grond van [artikel 16.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-09-10&g=2009-09-10), indien de betrokken rechten overeenkomstig [artikel 16.59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.59&z=2009-09-10&g=2009-09-10), zijn geregistreerd, en
+- 4°. het aantal NOx-emissierechten dat hij ten behoeve van het kalenderjaar heeft ingeleverd op grond van [artikel 16.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-11-04&g=2009-11-04), indien de betrokken rechten overeenkomstig [artikel 16.59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.59&z=2009-11-04&g=2009-11-04), zijn geregistreerd, en
 
 - b. het overeenkomstig onderdeel a berekende aantal NOx-emissierechten te verminderen met:
 
-- 1°. het aantal NOx-emissierechten dat hij met betrekking tot het kalenderjaar heeft overgedragen, indien de overdracht overeenkomstig [artikel 16.57](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.57&z=2009-09-10&g=2009-09-10) is geregistreerd,
+- 1°. het aantal NOx-emissierechten dat hij met betrekking tot het kalenderjaar heeft overgedragen, indien de overdracht overeenkomstig [artikel 16.57](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.57&z=2009-11-04&g=2009-11-04) is geregistreerd,
 
-- 2°. het aantal NOx-emissierechten dat met betrekking tot het kalenderjaar anders dan door overdracht van hem naar een ander is overgegaan, indien de overgang overeenkomstig [artikel 16.57](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.57&z=2009-09-10&g=2009-09-10) is geregistreerd,
+- 2°. het aantal NOx-emissierechten dat met betrekking tot het kalenderjaar anders dan door overdracht van hem naar een ander is overgegaan, indien de overgang overeenkomstig [artikel 16.57](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.57&z=2009-11-04&g=2009-11-04) is geregistreerd,
 
-- 3°. het aantal NOx-emissierechten dat hij op grond van [artikel 16.53, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-09-10&g=2009-09-10), ten behoeve van het daaropvolgende kalenderjaar zal inleveren, indien de betrokken rechten overeenkomstig [artikel 16.59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.59&z=2009-09-10&g=2009-09-10), zijn geregistreerd,
+- 3°. het aantal NOx-emissierechten dat hij op grond van [artikel 16.53, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-11-04&g=2009-11-04), ten behoeve van het daaropvolgende kalenderjaar zal inleveren, indien de betrokken rechten overeenkomstig [artikel 16.59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.59&z=2009-11-04&g=2009-11-04), zijn geregistreerd,
 
-- 4°. het aantal NOx-emissierechten dat hij op grond van [artikel 16.53, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-09-10&g=2009-09-10), ten behoeve van het daaraan voorafgaande kalenderjaar heeft ingeleverd, indien de betrokken rechten overeenkomstig [artikel 16.59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.59&z=2009-09-10&g=2009-09-10), zijn geregistreerd, en
+- 4°. het aantal NOx-emissierechten dat hij op grond van [artikel 16.53, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-11-04&g=2009-11-04), ten behoeve van het daaraan voorafgaande kalenderjaar heeft ingeleverd, indien de betrokken rechten overeenkomstig [artikel 16.59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.59&z=2009-11-04&g=2009-11-04), zijn geregistreerd, en
 
-- 5°. het aantal NOx-emissierechten dat hij op grond van [artikel 16.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.54&z=2009-09-10&g=2009-09-10) ten behoeve van het kalenderjaar dient in te leveren.
+- 5°. het aantal NOx-emissierechten dat hij op grond van [artikel 16.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.54&z=2009-11-04&g=2009-11-04) ten behoeve van het kalenderjaar dient in te leveren.
 
 ##### Artikel 16.53
 
-1. De houder van een vergunning krachtens [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), of [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), mag ter voldoening aan het bepaalde in [artikel 16.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-09-10&g=2009-09-10):
+1. De houder van een vergunning krachtens [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), of [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), mag ter voldoening aan het bepaalde in [artikel 16.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-11-04&g=2009-11-04):
 
 - a. NOx-emissierechten die hij ten behoeve van een kalenderjaar zou mogen gebruiken, in plaats daarvan ten behoeve van het daarop volgende kalenderjaar inleveren;
 
@@ -6039,15 +6045,15 @@ Het aantal NOx-emissierechten dat degene die een inrichting drijft, ter voldoeni
 
 ##### Artikel 16.54
 
-1. Indien degene die een inrichting drijft, ter voldoening aan het bepaalde in [artikel 16.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-09-10&g=2009-09-10), met betrekking tot een kalenderjaar minder NOx-emissierechten heeft ingeleverd dan overeenkomt met de hoeveelheid van een emissie van stikstofoxiden, die de inrichting gedurende dat kalenderjaar heeft veroorzaakt, wordt het aantal NOx-emissierechten dat hij in het daarop volgende kalenderjaar ter voldoening aan dat artikellid dient in te leveren, van rechtswege verhoogd met het aantal NOx-emissierechten dat hij te weinig had ingeleverd.
+1. Indien degene die een inrichting drijft, ter voldoening aan het bepaalde in [artikel 16.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-11-04&g=2009-11-04), met betrekking tot een kalenderjaar minder NOx-emissierechten heeft ingeleverd dan overeenkomt met de hoeveelheid van een emissie van stikstofoxiden, die de inrichting gedurende dat kalenderjaar heeft veroorzaakt, wordt het aantal NOx-emissierechten dat hij in het daarop volgende kalenderjaar ter voldoening aan dat artikellid dient in te leveren, van rechtswege verhoogd met het aantal NOx-emissierechten dat hij te weinig had ingeleverd.
 
-2. Indien de houder van een vergunning krachtens [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), of [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), ter voldoening aan het bepaalde in [artikel 16.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-09-10&g=2009-09-10), met betrekking tot een kalenderjaar een nadelig saldo van NOx-emissierechten op zijn rekening, bedoeld in [artikel 16.60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.60&z=2009-09-10&g=2009-09-10), heeft staan, wordt het aantal NOx-emissierechten dat hij in het daarop volgende kalenderjaar ter voldoening aan [artikel 16.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-09-10&g=2009-09-10), dient in te leveren, van rechtswege verhoogd met het aantal NOx-emissierechten dat overeenkomt met het saldotekort.
+2. Indien de houder van een vergunning krachtens [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), of [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), ter voldoening aan het bepaalde in [artikel 16.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-11-04&g=2009-11-04), met betrekking tot een kalenderjaar een nadelig saldo van NOx-emissierechten op zijn rekening, bedoeld in [artikel 16.60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.60&z=2009-11-04&g=2009-11-04), heeft staan, wordt het aantal NOx-emissierechten dat hij in het daarop volgende kalenderjaar ter voldoening aan [artikel 16.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-11-04&g=2009-11-04), dient in te leveren, van rechtswege verhoogd met het aantal NOx-emissierechten dat overeenkomt met het saldotekort.
 
 ##### Artikel 16.55
 
-1. Een NOx-emissierecht is geldig ten behoeve van het kalenderjaar waarin het op grond van [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-09-10&g=2009-09-10) is opgebouwd.
+1. Een NOx-emissierecht is geldig ten behoeve van het kalenderjaar waarin het op grond van [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-11-04&g=2009-11-04) is opgebouwd.
 
-2. In afwijking van het eerste lid is een NOx-emissierecht in een geval als bedoeld in [artikel 16.53, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-09-10&g=2009-09-10), geldig ten behoeve van het kalenderjaar waarin dat emissierecht ingevolge [artikel 16.53, eerste lid, onder a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-09-10&g=2009-09-10), mag worden ingeleverd.
+2. In afwijking van het eerste lid is een NOx-emissierecht in een geval als bedoeld in [artikel 16.53, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-11-04&g=2009-11-04), geldig ten behoeve van het kalenderjaar waarin dat emissierecht ingevolge [artikel 16.53, eerste lid, onder a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-11-04&g=2009-11-04), mag worden ingeleverd.
 
 ### Afdeling 16.2.5. De overgang van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
 
@@ -6057,9 +6063,9 @@ Het aantal NOx-emissierechten dat degene die een inrichting drijft, ter voldoeni
 
 2. Een NOx-emissierecht kan uitsluitend worden overgedragen:
 
-- a. tussen houders van een vergunning krachtens [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), of [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10),
+- a. tussen houders van een vergunning krachtens [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), of [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04),
 
-- b. indien het betrekking heeft op een kalenderjaar dat ligt binnen een tijdvak waarvoor op het tijdstip van de voorgenomen overdracht toepassing is gegeven aan [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-09-10&g=2009-09-10), en
+- b. indien het betrekking heeft op een kalenderjaar dat ligt binnen een tijdvak waarvoor op het tijdstip van de voorgenomen overdracht toepassing is gegeven aan [artikel 16.50](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.3&artikel=16.50&z=2009-11-04&g=2009-11-04), en
 
 - c. voorzover het aantal NOx-emissierechten dat de houder, bedoeld onder a, voornemens is over te dragen met betrekking tot een kalenderjaar, door de overdracht het voor hem geldende verkoopplafond niet overschrijdt.
 
@@ -6073,13 +6079,13 @@ Het aantal NOx-emissierechten dat degene die een inrichting drijft, ter voldoeni
 
 1. De voor overdracht van een NOx-emissierecht vereiste levering geschiedt door:
 
-- a. afschrijving van het NOx-emissierecht van de rekening of de deelrekening, bedoeld in [artikel 16.60](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.60&z=2009-09-10&g=2009-09-10), die in het register voor handel in NOx-emissierechten op naam staat van de persoon die het NOx-emissierecht overdraagt, en
+- a. afschrijving van het NOx-emissierecht van de rekening of de deelrekening, bedoeld in [artikel 16.60](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.60&z=2009-11-04&g=2009-11-04), die in het register voor handel in NOx-emissierechten op naam staat van de persoon die het NOx-emissierecht overdraagt, en
 
-- b. bijschrijving op de rekening of de deelrekening, bedoeld in [artikel 16.60](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.60&z=2009-09-10&g=2009-09-10), die in het register voor handel in NOx-emissierechten op naam staat van de persoon die het NOx-emissierecht verkrijgt.
+- b. bijschrijving op de rekening of de deelrekening, bedoeld in [artikel 16.60](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.60&z=2009-11-04&g=2009-11-04), die in het register voor handel in NOx-emissierechten op naam staat van de persoon die het NOx-emissierecht verkrijgt.
 
 2. Het eerste lid is van overeenkomstige toepassing op andere overgang dan overdracht.
 
-3. De [artikelen 16.41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.41&z=2009-09-10&g=2009-09-10), en [16.42](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.42&z=2009-09-10&g=2009-09-10) zijn van overeenkomstige toepassing.
+3. De [artikelen 16.41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.41&z=2009-11-04&g=2009-11-04), en [16.42](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.42&z=2009-11-04&g=2009-11-04) zijn van overeenkomstige toepassing.
 
 ### Afdeling 16.2.1. Algemeen
 
@@ -6089,23 +6095,23 @@ Het aantal NOx-emissierechten dat degene die een inrichting drijft, ter voldoeni
 
 2. Het register wordt beheerd door de emissieautoriteit.
 
-3. In het register worden voor elke inrichting op de bijbehorende rekening of deelrekening, bedoeld in [artikel 16.60](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.60&z=2009-09-10&g=2009-09-10), de gegevens, bedoeld in de [artikelen 16.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-09-10&g=2009-09-10), en [16.52](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.52&z=2009-09-10&g=2009-09-10) opgenomen.
+3. In het register worden voor elke inrichting op de bijbehorende rekening of deelrekening, bedoeld in [artikel 16.60](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.60&z=2009-11-04&g=2009-11-04), de gegevens, bedoeld in de [artikelen 16.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.51&z=2009-11-04&g=2009-11-04), en [16.52](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.52&z=2009-11-04&g=2009-11-04) opgenomen.
 
-4. Onze Minister kan regels stellen met betrekking tot de werking, de organisatie, de beschikbaarheid en de beveiliging van het register voor handel in NOx-emissierechten en het openen, bijhouden en opheffen van rekeningen en deelrekeningen, bedoeld in [artikel 16.60](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.60&z=2009-09-10&g=2009-09-10). Onze Minister kan tevens regels stellen ter uitvoering van het tweede en derde lid.
+4. Onze Minister kan regels stellen met betrekking tot de werking, de organisatie, de beschikbaarheid en de beveiliging van het register voor handel in NOx-emissierechten en het openen, bijhouden en opheffen van rekeningen en deelrekeningen, bedoeld in [artikel 16.60](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.6&artikel=16.60&z=2009-11-04&g=2009-11-04). Onze Minister kan tevens regels stellen ter uitvoering van het tweede en derde lid.
 
 ##### Artikel 16.59
 
 1. De emissieautoriteit registreert de overdracht of andere overgang van NOx-emissierechten indien:
 
-- a. wordt voldaan aan het bepaalde in de [artikelen 16.56](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.56&z=2009-09-10&g=2009-09-10) en [16.57](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.57&z=2009-09-10&g=2009-09-10);
+- a. wordt voldaan aan het bepaalde in de [artikelen 16.56](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.56&z=2009-11-04&g=2009-11-04) en [16.57](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.57&z=2009-11-04&g=2009-11-04);
 
-- b. bij de overdracht of overgang wordt aangegeven op welk kalenderjaar, bedoeld in [artikel 16.56, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.56&z=2009-09-10&g=2009-09-10), het NOx-emissierecht betrekking heeft.
+- b. bij de overdracht of overgang wordt aangegeven op welk kalenderjaar, bedoeld in [artikel 16.56, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.5&artikel=16.56&z=2009-11-04&g=2009-11-04), het NOx-emissierecht betrekking heeft.
 
-2. De emissieautoriteit registreert de NOx-emissierechten die worden ingeleverd op grond van [artikel 16.53, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-09-10&g=2009-09-10), indien wordt voldaan aan het bepaalde bij of krachtens [artikel 16.53](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-09-10&g=2009-09-10).
+2. De emissieautoriteit registreert de NOx-emissierechten die worden ingeleverd op grond van [artikel 16.53, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-11-04&g=2009-11-04), indien wordt voldaan aan het bepaalde bij of krachtens [artikel 16.53](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.4&artikel=16.53&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 16.60
 
-1. Het bestuur van de emissieautoriteit opent voor elke houder van een vergunning krachtens [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-09-10&g=2009-09-10), of [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-09-10&g=2009-09-10), voor de inrichting op diens naam een rekening in het register voor handel in NOx-emissierechten.
+1. Het bestuur van de emissieautoriteit opent voor elke houder van een vergunning krachtens [artikel 16.49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.3&afdeling=16.3.2&artikel=16.49&z=2009-11-04&g=2009-11-04), of [artikel 16.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.5&z=2009-11-04&g=2009-11-04), voor de inrichting op diens naam een rekening in het register voor handel in NOx-emissierechten.
 
 2. Het bestuur van de emissieautoriteit opent op verzoek van de houder, bedoeld in het eerste lid, een deelrekening, die onderdeel uitmaakt van de rekening die voor die persoon is geopend.
 
@@ -6213,9 +6219,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - a. bevoegd gezag:
 
-- 1°. bestuursorgaan dat bevoegd is een vergunning krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) te verlenen;
+- 1°. bestuursorgaan dat bevoegd is een vergunning krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) te verlenen;
 
-- 2°. bestuursorgaan waaraan krachtens [artikel 8.41, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.41&z=2009-09-10&g=2009-09-10), een melding wordt gericht;
+- 2°. bestuursorgaan waaraan krachtens [artikel 8.41, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.41&z=2009-11-04&g=2009-11-04), een melding wordt gericht;
 
 - 3°. Onze Minister voor zover de bevoegdheid tot vergunningverlening betrekking heeft op inrichtingen als bedoeld in [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15);
 
@@ -6233,7 +6239,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - b. gevaarlijke stoffen:
 
-- 1°. voor zover het betreft inrichtingen en buisleidingen: stoffen die behoren tot een of meer van de in [artikel 9.2.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-09-10&g=2009-09-10), bedoelde categorieën, alsmede splijtstoffen en radioactieve stoffen als bedoeld in [artikel 1 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=1);
+- 1°. voor zover het betreft inrichtingen en buisleidingen: stoffen die behoren tot een of meer van de in [artikel 9.2.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-11-04&g=2009-11-04), bedoelde categorieën, alsmede splijtstoffen en radioactieve stoffen als bedoeld in [artikel 1 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=1);
 
 - 2°. voor zover het betreft transportroutes: stoffen die ingevolge de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606) als gevaarlijk zijn aangewezen;
 
@@ -6241,7 +6247,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - d. buisleiding: vaste leiding waardoor gevaarlijke stoffen worden vervoerd en die geen deel uitmaakt van een inrichting;
 
-- e. externe veiligheid: veiligheid buiten inrichtingen waar gevaarlijke stoffen aanwezig zijn of krachtens een vergunning als bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) aanwezig mogen zijn en veiligheid buiten transportroutes en buisleidingen waarover of waardoor gevaarlijke stoffen worden vervoerd, voor zover die veiligheid kan worden beïnvloed door een ongeval waarbij gevaarlijke stoffen zijn betrokken.
+- e. externe veiligheid: veiligheid buiten inrichtingen waar gevaarlijke stoffen aanwezig zijn of krachtens een vergunning als bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) aanwezig mogen zijn en veiligheid buiten transportroutes en buisleidingen waarover of waardoor gevaarlijke stoffen worden vervoerd, voor zover die veiligheid kan worden beïnvloed door een ongeval waarbij gevaarlijke stoffen zijn betrokken.
 
 2. Bij algemene maatregel van bestuur kunnen andere stoffen dan bedoeld in het eerste lid, onder b, worden aangewezen die, voor zover het betreft inrichtingen en buisleidingen, voor de toepassing van deze titel en de daarop gebaseerde bepalingen worden aangemerkt als gevaarlijke stof.
 
@@ -6303,7 +6309,7 @@ Vervallen
 
 #### § 15.2.2. Belastingplichtigen
 
-#### § 15.2.3. Vrijstelling
+#### § 15.2.1. Grondslag en maatstaf
 
 ### Afdeling 16.2.2. Vergunning
 
@@ -6421,7 +6427,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 4.1b
 
-1. Voorzover op de voorbereiding van een in deze wet voorzien plan of programma dat wordt genoemd in bijlage I bij [richtlijn nr. 2003/35/EG](32003L0035) van het Europees Parlement en de Raad van 26 mei 2003 tot voorziening in inspraak van het publiek in de opstelling van bepaalde plannen en programma’s betreffende het milieu en, met betrekking tot inspraak van het publiek en toegang tot de rechter, tot wijziging van de [Richtlijnen 85/337/EEG](31985L0337) en [96/61/EG](31996L0061) van de Raad (PbEU L 156), de procedure van toepassing is die is voorgeschreven in [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&z=2009-09-10&g=2009-09-10) of in de [Wet op de waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575), geldt uitsluitend die procedure en blijven de bepalingen die terzake in andere hoofdstukken, onderscheidenlijk in deze wet, zijn opgenomen, voorzover nodig buiten toepassing.
+1. Voorzover op de voorbereiding van een in deze wet voorzien plan of programma dat wordt genoemd in bijlage I bij [richtlijn nr. 2003/35/EG](32003L0035) van het Europees Parlement en de Raad van 26 mei 2003 tot voorziening in inspraak van het publiek in de opstelling van bepaalde plannen en programma’s betreffende het milieu en, met betrekking tot inspraak van het publiek en toegang tot de rechter, tot wijziging van de [Richtlijnen 85/337/EEG](31985L0337) en [96/61/EG](31996L0061) van de Raad (PbEU L 156), de procedure van toepassing is die is voorgeschreven in [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&z=2009-11-04&g=2009-11-04) of in de [Wet op de waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575), geldt uitsluitend die procedure en blijven de bepalingen die terzake in andere hoofdstukken, onderscheidenlijk in deze wet, zijn opgenomen, voorzover nodig buiten toepassing.
 
 2. Een wijziging van bijlage I bij de in het eerste lid genoemde richtlijn gaat voor de toepassing van dit hoofdstuk gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij een besluit van Onze Minister, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
@@ -6533,7 +6539,7 @@ Vervallen
 
 ## Titel 10.3. Preventie en nuttige toepassing
 
-##### Artikel 12.10
+##### Artikel 10.16a
 
 Vervallen
 
@@ -6587,7 +6593,7 @@ Vervallen
 
 ### Afdeling 16.2.6. Registratie van broeikasgasemissierechten
 
-## Titel 15.5. Fonds Luchtverontreiniging
+## Titel 15.4. Vergoeding van kosten en schade
 
 ### Afdeling 16.3.4. De inlevering van NOx-emissierechten, het compenseren van emissies in een ander kalenderjaar en de geldigheid van NOx-emissierechten
 
@@ -6681,7 +6687,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 1. Voor zover dit naar het oordeel van het bevoegd gezag noodzakelijk is, kunnen aan de vergunning voorschriften worden verbonden, inhoudende de verplichting tot het treffen van technische maatregelen. Voor zover die voorschriften betrekking hebben op gpbv-installaties wordt daarbij niet het gebruik van bepaalde technieken of technologieën voorgeschreven.
 
-2. Indien voorschriften als bedoeld in het eerste lid, aan de vergunning worden verbonden in plaats van voorschriften als bedoeld in [artikel 8.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12&z=2009-09-10&g=2009-09-10), leiden de technische maatregelen tot een gelijkwaardige bescherming van het milieu.
+2. Indien voorschriften als bedoeld in het eerste lid, aan de vergunning worden verbonden in plaats van voorschriften als bedoeld in [artikel 8.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12&z=2009-11-04&g=2009-11-04), leiden de technische maatregelen tot een gelijkwaardige bescherming van het milieu.
 
 3. Voor zover aan een vergunning voorschriften worden verbonden als bedoeld in het eerste lid, kunnen daaraan in ieder geval ook voorschriften worden verbonden, inhoudende dat:
 
@@ -6689,7 +6695,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - b. daarbij aangegeven metingen, berekeningen of tellingen moeten worden verricht ter bepaling van de mate waarin de inrichting de nadelige gevolgen voor het milieu veroorzaakt, ter voorkoming of beperking waarvan die voorschriften zijn bedoeld.
 
-4. Voor zover aan een vergunning voorschriften worden verbonden als bedoeld in het derde lid, is [artikel 8.12, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12&z=2009-09-10&g=2009-09-10), van overeenkomstige toepassing.
+4. Voor zover aan een vergunning voorschriften worden verbonden als bedoeld in het derde lid, is [artikel 8.12, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.12&z=2009-11-04&g=2009-11-04), van overeenkomstige toepassing.
 
 ##### Artikel 8.12b
 
@@ -6775,7 +6781,7 @@ Vervallen
 
 ## Titel 10.3. Preventie en nuttige toepassing
 
-##### Artikel 12.10
+##### Artikel 10.16c
 
 Vervallen
 
@@ -6849,23 +6855,23 @@ Vervallen
 
 ##### Artikel 18.3a
 
-Gedeputeerde staten dragen zorg voor de coördinatie van de uitvoering van het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-09-10&g=2009-09-10) in de provincie.
+Gedeputeerde staten dragen zorg voor de coördinatie van de uitvoering van het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-11-04&g=2009-11-04) in de provincie.
 
 ##### Artikel 18.3b
 
-1. Ter uitvoering van [artikel 18.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3a&z=2009-09-10&g=2009-09-10) wordt in iedere provincie regelmatig overleg gevoerd tussen de bestuursorganen die belast zijn met de handhaving van het bepaalde bij of krachtens de betrokken wetten.
+1. Ter uitvoering van [artikel 18.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3a&z=2009-11-04&g=2009-11-04) wordt in iedere provincie regelmatig overleg gevoerd tussen de bestuursorganen die belast zijn met de handhaving van het bepaalde bij of krachtens de betrokken wetten.
 
 2. Gedeputeerde staten stellen voor dat overleg een of meer overlegorganen in. Aan het overleg kunnen, op uitnodiging, andere organen en ambtenaren, die belast zijn met de handhaving van het bepaalde bij of krachtens de betrokken wetten, deelnemen.
 
-3. In dat overleg maken die bestuursorganen in ieder geval afspraken over de wijze waarop zij uitvoering zullen geven aan het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-09-10&g=2009-09-10) en aan [artikel 18.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3a&z=2009-09-10&g=2009-09-10) en over de voorzieningen die zij voor die uitvoering zullen treffen.
+3. In dat overleg maken die bestuursorganen in ieder geval afspraken over de wijze waarop zij uitvoering zullen geven aan het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-11-04&g=2009-11-04) en aan [artikel 18.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3a&z=2009-11-04&g=2009-11-04) en over de voorzieningen die zij voor die uitvoering zullen treffen.
 
 ##### Artikel 18.3c
 
-Onze Minister draagt zorg voor de coördinatie van de uitvoering van het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-09-10&g=2009-09-10), voorzover die coördinatie naar zijn oordeel van meer dan provinciaal belang is.
+Onze Minister draagt zorg voor de coördinatie van de uitvoering van het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-11-04&g=2009-11-04), voorzover die coördinatie naar zijn oordeel van meer dan provinciaal belang is.
 
 ##### Artikel 18.3d
 
-1. Gedeputeerde staten kunnen, indien dat in het belang van een doelmatige handhaving geboden is, aan burgemeester en wethouders of aan het dagelijks bestuur van een waterschap een aanwijzing geven ter zake van de uitvoering door deze bestuursorganen van het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-09-10&g=2009-09-10). Daarbij houden gedeputeerde staten rekening met het geldende provinciale milieubeleidsplan.
+1. Gedeputeerde staten kunnen, indien dat in het belang van een doelmatige handhaving geboden is, aan burgemeester en wethouders of aan het dagelijks bestuur van een waterschap een aanwijzing geven ter zake van de uitvoering door deze bestuursorganen van het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-11-04&g=2009-11-04). Daarbij houden gedeputeerde staten rekening met het geldende provinciale milieubeleidsplan.
 
 2. Bij een aanwijzing wordt een termijn gesteld binnen welke daaraan gevolg moet zijn gegeven. Burgemeester en wethouders doen, onderscheidenlijk het dagelijks bestuur van een waterschap doet, schriftelijk mededeling aan gedeputeerde staten van de wijze waarop gevolg is gegeven aan de aanwijzing.
 
@@ -6877,7 +6883,7 @@ Onze Minister draagt zorg voor de coördinatie van de uitvoering van het bepaald
 
 ##### Artikel 18.3e
 
-1. Gedeputeerde staten kunnen, indien zij hebben vastgesteld dat een behoorlijke uitvoering van het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-09-10&g=2009-09-10) in de provincie onvoldoende gewaarborgd is, gemeenten of waterschappen aanwijzen waarvan burgemeester en wethouders, respectievelijk de dagelijkse besturen een gemeenschappelijke regeling moeten treffen als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), ter behartiging van het belang van een doelmatige handhaving. [Artikel 99, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=99) is niet van toepassing. Een waterschap wordt niet aangewezen dan nadat Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister heeft verklaard dat hij daartegen geen bezwaar heeft.
+1. Gedeputeerde staten kunnen, indien zij hebben vastgesteld dat een behoorlijke uitvoering van het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-11-04&g=2009-11-04) in de provincie onvoldoende gewaarborgd is, gemeenten of waterschappen aanwijzen waarvan burgemeester en wethouders, respectievelijk de dagelijkse besturen een gemeenschappelijke regeling moeten treffen als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), ter behartiging van het belang van een doelmatige handhaving. [Artikel 99, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=99) is niet van toepassing. Een waterschap wordt niet aangewezen dan nadat Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister heeft verklaard dat hij daartegen geen bezwaar heeft.
 
 2. Gedeputeerde staten houden bij een aanwijzing rekening met de regio’s die overeenkomstig de [bijlage, behorend bij de Politiewet 1993](onbekend), zijn vastgesteld.
 
@@ -6887,9 +6893,9 @@ Onze Minister draagt zorg voor de coördinatie van de uitvoering van het bepaald
 
 5. Bij de regeling worden door de deelnemende gemeenten of waterschappen aan het bestuur van het openbaar lichaam ten minste de volgende taken opgedragen:
 
-- a. het houden van toezicht op de naleving van het bepaalde bij of krachtens de betrokken wetten, het verzamelen en registreren van gegevens, bedoeld in [artikel 18.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.2&z=2009-09-10&g=2009-09-10), en het behandelen van klachten, bedoeld in dat artikellid, onder c, en
+- a. het houden van toezicht op de naleving van het bepaalde bij of krachtens de betrokken wetten, het verzamelen en registreren van gegevens, bedoeld in [artikel 18.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.2&z=2009-11-04&g=2009-11-04), en het behandelen van klachten, bedoeld in dat artikellid, onder c, en
 
-- b. het voorbereiden en het uitvoeren van door burgemeester en wethouders van een deelnemende gemeente of van door het dagelijks bestuur van een deelnemend waterschap te geven, dan wel gegeven beschikkingen tot oplegging van een last onder bestuursdwang, oplegging van een last onder dwangsom of intrekking van een vergunning of ontheffing op grond van [artikel 18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.12&z=2009-09-10&g=2009-09-10).
+- b. het voorbereiden en het uitvoeren van door burgemeester en wethouders van een deelnemende gemeente of van door het dagelijks bestuur van een deelnemend waterschap te geven, dan wel gegeven beschikkingen tot oplegging van een last onder bestuursdwang, oplegging van een last onder dwangsom of intrekking van een vergunning of ontheffing op grond van [artikel 18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.12&z=2009-11-04&g=2009-11-04).
 
 6. Gedeputeerde staten doen van het besluit, houdende de aanwijzing, mededeling door overlegging van het besluit aan Onze betrokken Minister en aan provinciale staten en door plaatsing ervan in de Staatscourant.
 
@@ -6897,9 +6903,9 @@ Onze Minister draagt zorg voor de coördinatie van de uitvoering van het bepaald
 
 1. Onze Minister kan, indien dat in het belang van een doelmatige handhaving geboden is, in overeenstemming met Onze betrokken Minister, aan gedeputeerde staten een aanwijzing geven ter zake van:
 
-- a. de uitvoering door gedeputeerde staten van het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-09-10&g=2009-09-10) en van de [artikelen 18.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3a&z=2009-09-10&g=2009-09-10) en [18.3d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3d&z=2009-09-10&g=2009-09-10);
+- a. de uitvoering door gedeputeerde staten van het bepaalde krachtens [artikel 18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3&z=2009-11-04&g=2009-11-04) en van de [artikelen 18.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3a&z=2009-11-04&g=2009-11-04) en [18.3d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3d&z=2009-11-04&g=2009-11-04);
 
-- b. het bepaalde in [artikel 18.3e, eerste, tweede, derde lid, eerste volzin, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3e&z=2009-09-10&g=2009-09-10).
+- b. het bepaalde in [artikel 18.3e, eerste, tweede, derde lid, eerste volzin, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.3e&z=2009-11-04&g=2009-11-04).
 
 2. Bij het geven van een aanwijzing houdt Onze Minister rekening met het geldende nationale milieubeleidsplan en stelt hij een termijn binnen welke gevolg moet zijn gegeven aan de aanwijzing.
 
@@ -6925,7 +6931,7 @@ Onze Minister draagt zorg voor de coördinatie van de uitvoering van het bepaald
 
 ##### Artikel 18.8b
 
-1. Onze betrokken Minister pleegt over een voornemen tot het geven van een vordering als bedoeld in [artikel 18.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.8a&z=2009-09-10&g=2009-09-10), overleg met burgemeester en wethouders, gedeputeerde staten of het dagelijks bestuur van het waterschap, onder gelijktijdige mededeling daarvan aan de gemeenteraad, provinciale staten, onderscheidenlijk het algemeen bestuur van het waterschap, tenzij de geboden spoed zich daartegen verzet.
+1. Onze betrokken Minister pleegt over een voornemen tot het geven van een vordering als bedoeld in [artikel 18.8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.8a&z=2009-11-04&g=2009-11-04), overleg met burgemeester en wethouders, gedeputeerde staten of het dagelijks bestuur van het waterschap, onder gelijktijdige mededeling daarvan aan de gemeenteraad, provinciale staten, onderscheidenlijk het algemeen bestuur van het waterschap, tenzij de geboden spoed zich daartegen verzet.
 
 2. Onze betrokken Minister doet van het besluit, houdende de vordering, mededeling door overlegging van het besluit aan de Staten-Generaal en door plaatsing ervan in de Staatscourant.
 
@@ -6933,11 +6939,11 @@ Onze Minister draagt zorg voor de coördinatie van de uitvoering van het bepaald
 
 ##### Artikel 19.8
 
-1. Indien in de gegevens die ingevolge [artikel 12.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.12&z=2009-09-10&g=2009-09-10), door het RIVM in het register, bedoeld in [artikel 12.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.12&z=2009-09-10&g=2009-09-10), moeten worden opgenomen gegevens voorkomen of kunnen worden afgeleid waarvan de geheimhouding op grond van [artikel 10, zevende lid, onder b, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) gerechtvaardigd is, kan het bevoegd gezag op een daartoe strekkend verzoek van degene die de inrichting drijft waar gevaarlijke stoffen aanwezig zijn, onderscheidenlijk degene die een buisleiding gebruikt voor het vervoer van gevaarlijke stoffen, onderscheidenlijk degene aan wie een concessie voor die buisleiding is verleend, of uit eigen beweging in afwijking van [artikel 12.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.13&z=2009-09-10&g=2009-09-10), besluiten dat die gegevens niet aan het RIVM worden verstrekt onderscheidenlijk niet wordt ingestemd met de voorgestelde weergave, bedoeld in [artikel 12.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.15&z=2009-09-10&g=2009-09-10).
+1. Indien in de gegevens die ingevolge [artikel 12.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.12&z=2009-11-04&g=2009-11-04), door het RIVM in het register, bedoeld in [artikel 12.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.12&z=2009-11-04&g=2009-11-04), moeten worden opgenomen gegevens voorkomen of kunnen worden afgeleid waarvan de geheimhouding op grond van [artikel 10, zevende lid, onder b, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) gerechtvaardigd is, kan het bevoegd gezag op een daartoe strekkend verzoek van degene die de inrichting drijft waar gevaarlijke stoffen aanwezig zijn, onderscheidenlijk degene die een buisleiding gebruikt voor het vervoer van gevaarlijke stoffen, onderscheidenlijk degene aan wie een concessie voor die buisleiding is verleend, of uit eigen beweging in afwijking van [artikel 12.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.13&z=2009-11-04&g=2009-11-04), besluiten dat die gegevens niet aan het RIVM worden verstrekt onderscheidenlijk niet wordt ingestemd met de voorgestelde weergave, bedoeld in [artikel 12.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.15&z=2009-11-04&g=2009-11-04).
 
 2. Op een verzoek tot geheimhouding beslist het bevoegd gezag binnen vier weken na ontvangst.
 
-3. Indien een verzoek tot geheimhouding is gedaan, verstrekt het bevoegd gezag de gegevens ingevolge [artikel 12.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.13&z=2009-09-10&g=2009-09-10), over de externe veiligheid betreffende die inrichting of buisleiding niet onderscheidenlijk geeft het bevoegd gezag geen instemming als bedoeld in [artikel 12.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.15&z=2009-09-10&g=2009-09-10), totdat de beslissing op het verzoek onherroepelijk is geworden.
+3. Indien een verzoek tot geheimhouding is gedaan, verstrekt het bevoegd gezag de gegevens ingevolge [artikel 12.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.13&z=2009-11-04&g=2009-11-04), over de externe veiligheid betreffende die inrichting of buisleiding niet onderscheidenlijk geeft het bevoegd gezag geen instemming als bedoeld in [artikel 12.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.15&z=2009-11-04&g=2009-11-04), totdat de beslissing op het verzoek onherroepelijk is geworden.
 
 ### Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
 
@@ -6959,7 +6965,7 @@ Vervallen
 
 ##### Artikel 22.1a
 
-Het bevoegd gezag draagt ervoor zorg dat vergunningen, verleend krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) van de Wet milieubeheer voor inrichtingen waartoe gpbv-installaties behoren, voor zover die niet in overeenstemming zijn met de regels die voor 31 oktober 2007 ter uitvoering van de EG-richtlijn geïntegreerde preventie en bestrijding van verontreiniging bij of krachtens deze wet zijn gesteld, uiterlijk met ingang van die datum daarmee in overeenstemming zijn.
+Het bevoegd gezag draagt ervoor zorg dat vergunningen, verleend krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) van de Wet milieubeheer voor inrichtingen waartoe gpbv-installaties behoren, voor zover die niet in overeenstemming zijn met de regels die voor 31 oktober 2007 ter uitvoering van de EG-richtlijn geïntegreerde preventie en bestrijding van verontreiniging bij of krachtens deze wet zijn gesteld, uiterlijk met ingang van die datum daarmee in overeenstemming zijn.
 
 ## Bijlage. bij de Wet milieubeheer
 
@@ -7021,17 +7027,17 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 16.37a
 
-1. Ter voldoening aan [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10), kan degene die een inrichting drijft, in plaats van broeikasgasemissierechten emissiereductie-eenheden of gecertificeerde emissiereducties inleveren.
+1. Ter voldoening aan [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04), kan degene die een inrichting drijft, in plaats van broeikasgasemissierechten emissiereductie-eenheden of gecertificeerde emissiereducties inleveren.
 
-2. Voor de toepassing van [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10), en van het eerste lid van dit artikel wordt één emissiereductie-eenheid of gecertificeerde emissiereductie gelijkgesteld met één broeikasgasemissierecht.
+2. Voor de toepassing van [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04), en van het eerste lid van dit artikel wordt één emissiereductie-eenheid of gecertificeerde emissiereductie gelijkgesteld met één broeikasgasemissierecht.
 
-3. In afwijking van het eerste lid kunnen ter voldoening aan [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-09-10&g=2009-09-10), met betrekking tot een kalenderjaar dat valt binnen de eerste planperiode, welke loopt van 1 januari 2005 tot en met 31 december 2007, uitsluitend broeikasgasemissierechten en gecertificeerde emissiereducties worden ingeleverd.
+3. In afwijking van het eerste lid kunnen ter voldoening aan [artikel 16.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37&z=2009-11-04&g=2009-11-04), met betrekking tot een kalenderjaar dat valt binnen de eerste planperiode, welke loopt van 1 januari 2005 tot en met 31 december 2007, uitsluitend broeikasgasemissierechten en gecertificeerde emissiereducties worden ingeleverd.
 
 ##### Artikel 16.37b
 
-1. [Artikel 16.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37a&z=2009-09-10&g=2009-09-10), is van toepassing zolang het aantal emissiereductie-eenheden of gecertificeerde emissiereducties het gedeelte van het aantal toegewezen broeikasgasemissierechten dat overeenkomstig [artikel 16.25, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-09-10&g=2009-09-10), met betrekking tot de desbetreffende inrichting in het voor de betrokken planperiode geldende nationale toewijzingsplan is aangeduid, niet overschrijdt.
+1. [Artikel 16.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37a&z=2009-11-04&g=2009-11-04), is van toepassing zolang het aantal emissiereductie-eenheden of gecertificeerde emissiereducties het gedeelte van het aantal toegewezen broeikasgasemissierechten dat overeenkomstig [artikel 16.25, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.3&paragraaf=16.2.3.1&artikel=16.25&z=2009-11-04&g=2009-11-04), met betrekking tot de desbetreffende inrichting in het voor de betrokken planperiode geldende nationale toewijzingsplan is aangeduid, niet overschrijdt.
 
-2. [Artikel 16.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37a&z=2009-09-10&g=2009-09-10), is niet van toepassing met betrekking tot emissiereductie-eenheden en gecertificeerde emissiereducties die afkomstig zijn van projectactiviteiten voor:
+2. [Artikel 16.37a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.4&artikel=16.37a&z=2009-11-04&g=2009-11-04), is niet van toepassing met betrekking tot emissiereductie-eenheden en gecertificeerde emissiereducties die afkomstig zijn van projectactiviteiten voor:
 
 - a. het opwekken van elektriciteit door het vrijmaken van kernenergie;
 
@@ -7043,13 +7049,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 16.42a
 
-1. De [artikelen 16.40, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.40&z=2009-09-10&g=2009-09-10), [16.41](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.41&z=2009-09-10&g=2009-09-10) en [16.42](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.42&z=2009-09-10&g=2009-09-10) zijn van overeenkomstige toepassing op de overgang van emissiereductie-eenheden en gecertificeerde emissiereducties.
+1. De [artikelen 16.40, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.40&z=2009-11-04&g=2009-11-04), [16.41](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.41&z=2009-11-04&g=2009-11-04) en [16.42](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.42&z=2009-11-04&g=2009-11-04) zijn van overeenkomstige toepassing op de overgang van emissiereductie-eenheden en gecertificeerde emissiereducties.
 
-2. Voorzover het betreft de overgang van emissiereductie-eenheden en gecertificeerde emissiereducties, wordt voor de toepassing van de [artikelen 16.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.40&z=2009-09-10&g=2009-09-10), en [16.41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.41&z=2009-09-10&g=2009-09-10), onder «een register dat door de betrokken lidstaat van de Europese Unie overeenkomstig de EG-verordening registratie van handel in broeikasgasemissierechten is ingesteld» mede verstaan: een register dat overeenkomstig artikel 7, vierde lid, van het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten is ingesteld door een in bijlage I bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering opgenomen Partij die het Protocol van Kyoto heeft bekrachtigd, zoals gespecificeerd in artikel 1, punt 7, van dat protocol.
+2. Voorzover het betreft de overgang van emissiereductie-eenheden en gecertificeerde emissiereducties, wordt voor de toepassing van de [artikelen 16.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.40&z=2009-11-04&g=2009-11-04), en [16.41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.5&artikel=16.41&z=2009-11-04&g=2009-11-04), onder «een register dat door de betrokken lidstaat van de Europese Unie overeenkomstig de EG-verordening registratie van handel in broeikasgasemissierechten is ingesteld» mede verstaan: een register dat overeenkomstig artikel 7, vierde lid, van het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten is ingesteld door een in bijlage I bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering opgenomen Partij die het Protocol van Kyoto heeft bekrachtigd, zoals gespecificeerd in artikel 1, punt 7, van dat protocol.
 
 ##### Artikel 16.46a
 
-Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt verstaan onder projectdeelnemer: persoon die een verzoek om instemming als bedoeld in [artikel 16.46b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.7&artikel=16.46b&z=2009-09-10&g=2009-09-10), of [artikel 16.46c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.7&artikel=16.46c&z=2009-09-10&g=2009-09-10), in verbinding met [artikel 16.46b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.7&artikel=16.46b&z=2009-09-10&g=2009-09-10), indient.
+Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt verstaan onder projectdeelnemer: persoon die een verzoek om instemming als bedoeld in [artikel 16.46b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.7&artikel=16.46b&z=2009-11-04&g=2009-11-04), of [artikel 16.46c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.7&artikel=16.46c&z=2009-11-04&g=2009-11-04), in verbinding met [artikel 16.46b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.7&artikel=16.46b&z=2009-11-04&g=2009-11-04), indient.
 
 ##### Artikel 16.46b
 
@@ -7085,7 +7091,7 @@ Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt ve
 
 2. Onze Minister van Economische Zaken verleent instemming met deelname aan projectactiviteiten als bedoeld in artikel 6, eerste lid, onder a, van het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten.
 
-3. [Artikel 16.46b, derde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.7&artikel=16.46b&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing, met dien verstande dat voor de toepassing van [artikel 16.46b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.7&artikel=16.46b&z=2009-09-10&g=2009-09-10), in plaats van «artikel 12, negende lid, van het Protocol van Kyoto» wordt gelezen: artikel 6, derde lid, van het Protocol van Kyoto.
+3. [Artikel 16.46b, derde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.7&artikel=16.46b&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing, met dien verstande dat voor de toepassing van [artikel 16.46b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.7&artikel=16.46b&z=2009-11-04&g=2009-11-04), in plaats van «artikel 12, negende lid, van het Protocol van Kyoto» wordt gelezen: artikel 6, derde lid, van het Protocol van Kyoto.
 
 ## Titel 15.8. Statiegeld, retourpremies
 
@@ -7181,13 +7187,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Dit hoofdstuk is mede van toepassing op:
 
-- a. activiteiten als bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10) die plaatsvinden in de exclusieve economische zone;
+- a. activiteiten als bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04) die plaatsvinden in de exclusieve economische zone;
 
-- b. de ter zake van de onder a bedoelde activiteiten krachtens [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10) aangewezen plannen of besluiten;
+- b. de ter zake van de onder a bedoelde activiteiten krachtens [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04) aangewezen plannen of besluiten;
 
-- c. plannen als bedoeld in [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-09-10&g=2009-09-10), voor zover een daarin voorgenomen activiteit plaats zal vinden in de exclusieve economische zone;
+- c. plannen als bedoeld in [artikel 7.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-11-04&g=2009-11-04), voor zover een daarin voorgenomen activiteit plaats zal vinden in de exclusieve economische zone;
 
-- d. activiteiten als bedoeld in [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.4&z=2009-09-10&g=2009-09-10) die plaatsvinden in de exclusieve economische zone.
+- d. activiteiten als bedoeld in [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.4&z=2009-11-04&g=2009-11-04) die plaatsvinden in de exclusieve economische zone.
 
 #### § 5.2.2. Plannen
 
@@ -7209,11 +7215,11 @@ Dit hoofdstuk is mede van toepassing op:
 
 ##### Artikel 7.11b
 
-Alvorens het milieu-effectrapport op te stellen, raadpleegt het bevoegd gezag de bestuursorganen die ingevolge het wettelijk voorschrift waarop het plan berust bij de voorbereiding van het plan moeten worden betrokken over de reikwijdte en het detailniveau van de informatie die gericht is op wat relevant is voor het plan en die op grond van [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-09-10&g=2009-09-10) in het milieu-effectrapport moet worden opgenomen.
+Alvorens het milieu-effectrapport op te stellen, raadpleegt het bevoegd gezag de bestuursorganen die ingevolge het wettelijk voorschrift waarop het plan berust bij de voorbereiding van het plan moeten worden betrokken over de reikwijdte en het detailniveau van de informatie die gericht is op wat relevant is voor het plan en die op grond van [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&artikel=7.10&z=2009-11-04&g=2009-11-04) in het milieu-effectrapport moet worden opgenomen.
 
 ##### Artikel 7.11c
 
-1. Zo spoedig mogelijk nadat een bestuursorgaan het voornemen heeft opgevat tot het voorbereiden van een plan, maar uiterlijk op het moment dat het toepassing geeft aan [artikel 7.11b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4a&artikel=7.11b&z=2009-09-10&g=2009-09-10), geeft het kennis van dat voornemen, met overeenkomstige toepassing van [artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12).
+1. Zo spoedig mogelijk nadat een bestuursorgaan het voornemen heeft opgevat tot het voorbereiden van een plan, maar uiterlijk op het moment dat het toepassing geeft aan [artikel 7.11b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4a&artikel=7.11b&z=2009-11-04&g=2009-11-04), geeft het kennis van dat voornemen, met overeenkomstige toepassing van [artikel 3:12, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:12).
 
 2. In de kennisgeving wordt vermeld of:
 
@@ -7223,13 +7229,13 @@ Alvorens het milieu-effectrapport op te stellen, raadpleegt het bevoegd gezag de
 
 - c. de commissie of een andere onafhankelijke instantie in de gelegenheid wordt gesteld advies uit te brengen over het voornemen of het ontwerp van het plan, en
 
-- d. met betrekking tot het ontwerp van het plan toepassing moet worden gegeven aan [artikel 7.26a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6a&artikel=7.26a&z=2009-09-10&g=2009-09-10).
+- d. met betrekking tot het ontwerp van het plan toepassing moet worden gegeven aan [artikel 7.26a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6a&artikel=7.26a&z=2009-11-04&g=2009-11-04).
 
 3. In de kennisgeving wordt voorts vermeld:
 
-- a. indien het milieu-effectrapport betrekking heeft op een krachtens [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), aangewezen plan, en de daarin voorgenomen, krachtens het eerste lid van dat artikel aangewezen, activiteit plaatsvindt in een gebied dat onderdeel uitmaakt van de ecologische hoofdstructuur: dat de in het plan voorgenomen activiteit plaatsvindt in de ecologische hoofdstructuur;
+- a. indien het milieu-effectrapport betrekking heeft op een krachtens [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), aangewezen plan, en de daarin voorgenomen, krachtens het eerste lid van dat artikel aangewezen, activiteit plaatsvindt in een gebied dat onderdeel uitmaakt van de ecologische hoofdstructuur: dat de in het plan voorgenomen activiteit plaatsvindt in de ecologische hoofdstructuur;
 
-- b. indien het milieu-effectrapport betrekking heeft op een plan als bedoeld in [artikel 7.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-09-10&g=2009-09-10): dat in het milieu-effectrapport tevens een passende beoordeling als bedoeld in dat artikel wordt opgenomen.
+- b. indien het milieu-effectrapport betrekking heeft op een plan als bedoeld in [artikel 7.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-11-04&g=2009-11-04): dat in het milieu-effectrapport tevens een passende beoordeling als bedoeld in dat artikel wordt opgenomen.
 
 #### § 7.6a. Het plan
 
@@ -7253,13 +7259,13 @@ Alvorens het milieu-effectrapport op te stellen, raadpleegt het bevoegd gezag de
 
 ##### Artikel 7.26b
 
-1. Indien het milieu-effectrapport betrekking heeft op een krachtens [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10), aangewezen plan, en de daarin voorgenomen, krachtens het eerste lid van dat artikel aangewezen, activiteit plaatsvindt in een gebied dat onderdeel uitmaakt van de ecologische hoofdstructuur of indien het milieu-effectrapport betrekking heeft op een plan als bedoeld in [artikel 7.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-09-10&g=2009-09-10), wordt de commissie uiterlijk op het moment dat de in [artikel 7.26a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6a&artikel=7.26a&z=2009-09-10&g=2009-09-10) genoemde stukken ter inzage worden gelegd in de gelegenheid gesteld advies uit te brengen over dat rapport.
+1. Indien het milieu-effectrapport betrekking heeft op een krachtens [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04), aangewezen plan, en de daarin voorgenomen, krachtens het eerste lid van dat artikel aangewezen, activiteit plaatsvindt in een gebied dat onderdeel uitmaakt van de ecologische hoofdstructuur of indien het milieu-effectrapport betrekking heeft op een plan als bedoeld in [artikel 7.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2a&z=2009-11-04&g=2009-11-04), wordt de commissie uiterlijk op het moment dat de in [artikel 7.26a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6a&artikel=7.26a&z=2009-11-04&g=2009-11-04) genoemde stukken ter inzage worden gelegd in de gelegenheid gesteld advies uit te brengen over dat rapport.
 
-2. [Artikel 7.26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-09-10&g=2009-09-10), is van toepassing.
+2. [Artikel 7.26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&artikel=7.26&z=2009-11-04&g=2009-11-04), is van toepassing.
 
 ##### Artikel 7.26c
 
-1. Het bevoegd gezag stelt een plan niet vast dan nadat het toepassing heeft gegeven aan de [paragrafen 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&z=2009-09-10&g=2009-09-10) en [7.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4a&z=2009-09-10&g=2009-09-10).
+1. Het bevoegd gezag stelt een plan niet vast dan nadat het toepassing heeft gegeven aan de [paragrafen 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4&z=2009-11-04&g=2009-11-04) en [7.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.4a&z=2009-11-04&g=2009-11-04).
 
 2. Het bevoegd gezag stelt een plan evenmin vast indien het plan ten opzichte van het ontwerp van dat plan zodanig is gewijzigd dat de gegevens die in het milieu-effectrapport zijn opgenomen redelijkerwijs niet meer aan het plan ten grondslag kunnen worden gelegd.
 
@@ -7273,9 +7279,9 @@ Alvorens het milieu-effectrapport op te stellen, raadpleegt het bevoegd gezag de
 
 - c. hetgeen is overwogen omtrent de bij het ontwerp van het plan terzake van het milieu-effectrapport naar voren gebrachte zienswijzen;
 
-- d. indien de commissie overeenkomstig [artikel 7.26b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6a&artikel=7.26b&z=2009-09-10&g=2009-09-10) advies heeft uitgebracht, hetgeen is overwogen omtrent dat advies.
+- d. indien de commissie overeenkomstig [artikel 7.26b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6a&artikel=7.26b&z=2009-11-04&g=2009-11-04) advies heeft uitgebracht, hetgeen is overwogen omtrent dat advies.
 
-2. Het bevoegd gezag bepaalt bij de vaststelling van het plan de termijn of de termijnen waarop het onderzoek, bedoeld in [artikel 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.39&z=2009-09-10&g=2009-09-10), wordt gestart, alsmede de wijze waarop het dat onderzoek zal verrichten.
+2. Het bevoegd gezag bepaalt bij de vaststelling van het plan de termijn of de termijnen waarop het onderzoek, bedoeld in [artikel 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.39&z=2009-11-04&g=2009-11-04), wordt gestart, alsmede de wijze waarop het dat onderzoek zal verrichten.
 
 ##### Artikel 7.26e
 
@@ -7399,11 +7405,11 @@ Vervallen
 
 ##### Artikel 14.4a
 
-In deze paragraaf wordt onder activiteit, plan of besluit verstaan een activiteit, plan of besluit als bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2009-09-10&g=2009-09-10).
+In deze paragraaf wordt onder activiteit, plan of besluit verstaan een activiteit, plan of besluit als bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 14.4b
 
-Ingeval terzake van een activiteit tegelijkertijd een besluit en een plan worden voorbereid en dat plan uitsluitend wordt voorbereid met het oog op de inpassing van die activiteit in dat plan wordt ter voorbereiding van dat besluit en dat plan één milieu-effectrapport gemaakt. Het rapport wordt voorbereid met toepassing van de [paragrafen 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&z=2009-09-10&g=2009-09-10) en [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&z=2009-09-10&g=2009-09-10).
+Ingeval terzake van een activiteit tegelijkertijd een besluit en een plan worden voorbereid en dat plan uitsluitend wordt voorbereid met het oog op de inpassing van die activiteit in dat plan wordt ter voorbereiding van dat besluit en dat plan één milieu-effectrapport gemaakt. Het rapport wordt voorbereid met toepassing van de [paragrafen 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.5&z=2009-11-04&g=2009-11-04) en [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.6&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 14.4c
 
@@ -7473,7 +7479,7 @@ Ingeval terzake van een activiteit tegelijkertijd een besluit en een plan worden
 
 Vervallen
 
-### Hoofdstuk 22. Slotbepalingen
+### Hoofdstuk 18. Handhaving
 
 ## Bijlage. bij de Wet milieubeheer
 
@@ -7587,17 +7593,17 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 11.3
 
-Voor zover uitvoering is gegeven aan [artikel 11.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11&titeldeel=11.1&artikel=11.2&z=2009-09-10&g=2009-09-10), kan bij de maatregel worden bepaald dat in bij de maatregel aangegeven gevallen:
+Voor zover uitvoering is gegeven aan [artikel 11.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11&titeldeel=11.1&artikel=11.2&z=2009-11-04&g=2009-11-04), kan bij de maatregel worden bepaald dat in bij de maatregel aangegeven gevallen:
 
-- a. het bevoegd gezag een aanvraag om een beschikking die bij of krachtens deze wet, dan wel bij of krachtens de in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-09-10&g=2009-09-10), genoemde wetten wordt gegeven, niet in behandeling neemt indien daarbij gegevens zijn gevoegd die afkomstig zijn van een natuurlijk persoon, rechtspersoon of instelling die in strijd heeft gehandeld met [artikel 11.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11&titeldeel=11.1&artikel=11.2&z=2009-09-10&g=2009-09-10);
+- a. het bevoegd gezag een aanvraag om een beschikking die bij of krachtens deze wet, dan wel bij of krachtens de in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-11-04&g=2009-11-04), genoemde wetten wordt gegeven, niet in behandeling neemt indien daarbij gegevens zijn gevoegd die afkomstig zijn van een natuurlijk persoon, rechtspersoon of instelling die in strijd heeft gehandeld met [artikel 11.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11&titeldeel=11.1&artikel=11.2&z=2009-11-04&g=2009-11-04);
 
-- b. ter voldoening aan een bij of krachtens deze wet, dan wel bij of krachtens de in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-09-10&g=2009-09-10), genoemde wetten geldende verplichting geen gegevens worden verstrekt die afkomstig zijn van een natuurlijk persoon, rechtspersoon of instelling die in strijd heeft gehandeld met [artikel 11.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11&titeldeel=11.1&artikel=11.2&z=2009-09-10&g=2009-09-10).
+- b. ter voldoening aan een bij of krachtens deze wet, dan wel bij of krachtens de in [artikel 13.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2009-11-04&g=2009-11-04), genoemde wetten geldende verplichting geen gegevens worden verstrekt die afkomstig zijn van een natuurlijk persoon, rechtspersoon of instelling die in strijd heeft gehandeld met [artikel 11.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=11&titeldeel=11.1&artikel=11.2&z=2009-11-04&g=2009-11-04).
 
 ### Hoofdstuk 11. Andere handelingen
 
 ## Titel 11.1. Kwaliteit van werkzaamheden en integriteit van degenen die deze werkzaamheden uitvoeren
 
-## Titel 12.2. Registratie gegevens externe veiligheid inrichtingen, transportroutes en buisleidingen
+## Titel 10.5. Het zich ontdoen, de inzameling en het transport van afvalwater
 
 ### Hoofdstuk 12. Verslag-, registratie- en meetverplichtingen
 
@@ -7661,7 +7667,7 @@ Vervallen
 
 ### Afdeling 16.2.2. Vergunning
 
-### Afdeling 16.3.4. De inlevering van NOx-emissierechten, het compenseren van emissies in een ander kalenderjaar en de geldigheid van NOx-emissierechten
+### Afdeling 16.2.2. Vergunning
 
 ### Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
 
@@ -7745,13 +7751,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 1. Op aanvraag van de vergunninghouder kan het bestuur van de emissieautoriteit de vergunning wijzigen, aanvullen of intrekken.
 
-2. Met betrekking tot de beslissing ter zake zijn de [artikelen 16.6 tot en met 16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+2. Met betrekking tot de beslissing ter zake zijn de [artikelen 16.6 tot en met 16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16&titeldeel=16.2&afdeling=16.2.2&artikel=16.6&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
 ##### Artikel 16.20b
 
 1. Het bestuur van de emissieautoriteit kan een vergunning intrekken, indien:
 
-- a. met betrekking tot de inrichting een krachtens [artikel 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.25&z=2009-09-10&g=2009-09-10) genomen beschikking in werking is getreden;
+- a. met betrekking tot de inrichting een krachtens [artikel 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.2&artikel=8.25&z=2009-11-04&g=2009-11-04) genomen beschikking in werking is getreden;
 
 - b. deze titel niet meer op de inrichting van toepassing is.
 
@@ -7905,7 +7911,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 12.14
 
-1. Degene die een inrichting drijft waar gevaarlijke stoffen aanwezig zijn, degene die een buisleiding gebruikt voor het vervoer van gevaarlijke stoffen of degene aan wie een concessie voor die buisleiding is verleend, verstrekt op verzoek van het bevoegd gezag de gegevens benodigd voor de uitvoering van [artikel 12.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.13&z=2009-09-10&g=2009-09-10), en voert de voor de totstandkoming van de gegevens benodigde berekeningen uit.
+1. Degene die een inrichting drijft waar gevaarlijke stoffen aanwezig zijn, degene die een buisleiding gebruikt voor het vervoer van gevaarlijke stoffen of degene aan wie een concessie voor die buisleiding is verleend, verstrekt op verzoek van het bevoegd gezag de gegevens benodigd voor de uitvoering van [artikel 12.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.13&z=2009-11-04&g=2009-11-04), en voert de voor de totstandkoming van de gegevens benodigde berekeningen uit.
 
 2. Het eerste lid is van overeenkomstige toepassing op degene die gevaarlijke stoffen voor vervoer aanbiedt en op degene aan wie een concessie voor het beheer van de hoofdspoorweginfrastructuur is verleend voor zover de hoofdspoorweg wordt gebruikt voor het vervoer van gevaarlijke stoffen, met dien verstande dat geen gegevens hoeven te worden verstrekt voor zover voor de totstandkoming van de gegevens berekeningen moeten worden uitgevoerd.
 
@@ -7913,7 +7919,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 4. Tot de ingevolge het eerste lid op verzoek van het bevoegd gezag te verstrekken gegevens behoren mede de berekeningen die aan de te verstrekken gegevens ten grondslag liggen.
 
-5. Een bestuursorgaan dat beschikt over gegevens benodigd voor de uitvoering van [artikel 12.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.13&z=2009-09-10&g=2009-09-10), verstrekt op verzoek van het bevoegd gezag die gegevens.
+5. Een bestuursorgaan dat beschikt over gegevens benodigd voor de uitvoering van [artikel 12.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.13&z=2009-11-04&g=2009-11-04), verstrekt op verzoek van het bevoegd gezag die gegevens.
 
 6. De verstrekking van gegevens, bedoeld in het eerste lid, heeft geen betrekking op het uitvoeren van nieuwe berekeningen in verband met de vaststelling van besluiten krachtens de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) die betrekking hebben op het gebied dat van belang is voor de externe veiligheid, indien reeds eerder berekeningen ingevolge het eerste lid aan het bevoegd gezag zijn verstrekt, dan wel anderszins bij dat gezag beschikbaar zijn.
 
@@ -7941,7 +7947,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. Uiterlijk binnen acht weken na de dag van ontvangst van een verzoek als bedoeld in het eerste lid beslist het bevoegd gezag op het verzoek. Het bevoegd gezag deelt zijn beslissing mede aan de verzoeker en aan degene die de betreffende inrichting drijft onderscheidenlijk degene die de betreffende buisleiding gebruikt, onderscheidenlijk degene aan wie een concessie voor die buisleiding is verleend, waarop het verzoek tot herstel van een fout betrekking heeft.
 
-3. Op de beslissing van het bevoegd gezag tot herstel van een fout is [artikel 12.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.13&z=2009-09-10&g=2009-09-10) van overeenkomstige toepassing.
+3. Op de beslissing van het bevoegd gezag tot herstel van een fout is [artikel 12.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.2&artikel=12.13&z=2009-11-04&g=2009-11-04) van overeenkomstige toepassing.
 
 ### Hoofdstuk 13. Procedures voor vergunningen en ontheffingen
 
@@ -7965,7 +7971,7 @@ Vervallen
 
 ### Hoofdstuk 13. Procedures voor vergunningen en ontheffingen
 
-#### § 15.2.1. Grondslag en maatstaf
+#### § 12.3.2. Rapportage door inrichtingen
 
 #### § 15.2.2. Belastingplichtigen
 
@@ -7977,9 +7983,9 @@ Vervallen
 
 ## Titel 15.9. Heffingen op gemeentelijk en provinciaal niveau
 
-### Hoofdstuk 16. Handel in emissierechten
+### Hoofdstuk 15. Financiële bepalingen
 
-## Titel 15.4. Vergoeding van kosten en schade
+## Titel 15.1
 
 ## Titel 16.2. Broeikasgassen en broeikasgasemissierechten
 
@@ -8099,7 +8105,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter
 
 1. Het is verboden te handelen in strijd met de volgende bepalingen van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: de artikelen 5, 7, derde lid, 8, tweede lid, 9, vierde en zesde lid, 14, eerste, zesde en zevende lid, 31, eerste, tweede, derde, zevende en negende lid, 32, eerste en derde lid, 33, 34, 35, 37, vierde tot en met zevende lid, 38, eerste, derde en vierde lid, 39, eerste en tweede lid, 40, derde en vierde lid, 50, vierde lid, 55, 56, eerste en tweede lid, 60, tiende lid, 65 en 67, eerste lid.
 
-2. Het is eveneens verboden te handelen in strijd met de volgende bepalingen van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: de artikelen 6, eerste en derde lid, 7, eerste, tweede en vijfde lid, 9, tweede lid, 11, eerste lid, 13, eerste, derde en vierde lid, 17, eerste lid, 18, eerste lid, 19, eerste lid, 22, eerste, tweede en vierde lid, 24, tweede lid, 25, eerste en tweede lid, 26, eerste en derde lid, 30, eerste, tweede, derde en vierde lid, 31, vijfde en achtste lid, 32, tweede lid, 36, 37, tweede en derde lid, 41, vierde lid, 46, tweede lid, 49, 50, tweede en derde lid, 61, eerste en derde lid, 63, derde lid, 66, eerste lid, 105 en 113, eerste en derde lid.
+2. Het is eveneens verboden te handelen in strijd met de volgende bepalingen van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: de artikelen 6, eerste en derde lid, 7, eerste, tweede en vijfde lid, 9, tweede lid, 11, eerste lid, 13, eerste, derde en vierde lid, 17, eerste lid, 18, eerste lid, 19, eerste lid, 22, eerste, tweede en vierde lid, 24, tweede lid, 25, eerste en tweede lid, 26, eerste en derde lid, 30, eerste, tweede, derde en vierde lid, 31, vijfde en achtste lid, 32, tweede lid, 36, 37, tweede en derde lid, 41, vierde lid, 46, tweede lid, 49, 50, tweede en derde lid, 61, eerste en derde lid, 63, derde lid, 66, eerste lid en 105.
 
 3. Het is verboden handelingen te verrichten of na te laten in strijd met andere bepalingen van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen dan genoemd in het eerste of tweede lid, voor zover die bepalingen ter uitvoering van artikel 126 van die verordening bij algemene maatregel van bestuur zijn aangewezen.
 
@@ -8135,7 +8141,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 10.44a
+##### Artikel 10.1a
 
 Vervallen
 
@@ -8207,23 +8213,23 @@ Vervallen
 
 ### Afdeling 13.1. Algemeen
 
-##### Artikel 13.12
+##### Artikel 10.44d
 
 Vervallen
 
-##### Artikel 13.12
+##### Artikel 10.44e
 
 Vervallen
 
 #### § 13.2.3. Adviezen en bezwaren
 
-#### § 13.2.4. Beschikking op de aanvraag
+#### § 10.6.4. Verdere bepalingen omtrent het beheer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
 
 ### Afdeling 13.3. Beschikkingen inzake wijziging of intrekking van een vergunning of ontheffing
 
 ### Afdeling 13.1. Algemeen
 
-### Hoofdstuk 12. Verslag-, registratie- en meetverplichtingen
+### Hoofdstuk 11. Andere handelingen
 
 ### Hoofdstuk 15. Financiële bepalingen
 
@@ -8231,7 +8237,7 @@ Vervallen
 
 #### § 14.1. Coördinatie bij aanvragen om een beschikking
 
-#### § 12.3.4. Aanvullende rapportageverplichtingen
+#### § 12.3.3. PRTR
 
 #### § 12.3.5. Slotbepalingen
 
@@ -8255,7 +8261,7 @@ Vervallen
 
 ## Titel 16.3. Stikstofoxiden en NOx-emissierechten
 
-### Afdeling 16.3.2. Vergunning
+### Afdeling 16.2.1. Algemeen
 
 ### Afdeling 16.3.3. Het ontstaan van NOx-emissierechten
 
@@ -8313,7 +8319,7 @@ Vervallen
 
 **wateren:** wateren waarop de kaderrichtlijn water van toepassing is.
 
-2. In afwijking van het bepaalde in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.1&artikel=1.1&z=2009-09-10&g=2009-09-10) wordt in deze titel en de daarop berustende bepalingen onder **emissie** verstaan: het als gevolg van menselijke activiteiten in het milieu brengen van stoffen, preparaten, organismen of micro-organismen.
+2. In afwijking van het bepaalde in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.1&artikel=1.1&z=2009-11-04&g=2009-11-04) wordt in deze titel en de daarop berustende bepalingen onder **emissie** verstaan: het als gevolg van menselijke activiteiten in het milieu brengen van stoffen, preparaten, organismen of micro-organismen.
 
 3. Een wijziging van een van de bijlagen bij EG-richtlijn milieuaansprakelijkheid gaat voor de toepassing van deze titel en de daarop berustende bepalingen gelden met ingang van de dag waarop aan de desbetreffende wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
@@ -8419,7 +8425,7 @@ Vervallen
 
 ### Hoofdstuk 11. Andere handelingen
 
-## Titel 11.1. Kwaliteit van werkzaamheden en integriteit van degenen die deze werkzaamheden uitvoeren
+## Titel 10.4. Het beheer van huishoudelijke en andere afvalstoffen
 
 ### Hoofdstuk 12. Verslag-, registratie- en meetverplichtingen
 
@@ -8517,7 +8523,7 @@ Vervallen
 
 #### § 16.2.3.2. Het nationale toewijzingsbesluit, overige toewijzingsbesluiten en de verlening van broeikasgasemissierechten
 
-## Titel 16.3. Stikstofoxiden en NOx-emissierechten
+## Titel 16.1. Algemeen
 
 ### Afdeling 16.3.3. Het ontstaan van NOx-emissierechten
 
@@ -8535,7 +8541,7 @@ Vervallen
 
 ##### Artikel 20.2a
 
-In een rechterlijke procedure ten aanzien van een besluit, andere rechtshandeling of feitelijke handeling die strekt tot uitvoering van een overeenkomstig [artikel 5.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.4&artikel=5.16&z=2009-09-10&g=2009-09-10), genomen besluit of toegepast wettelijk voorschrift, kunnen uitsluitend gevolgen voor de luchtkwaliteit worden aangevoerd voor zover deze redelijkerwijs niet in een eerdere rechterlijke procedure aan de orde zijn of hadden kunnen worden gesteld.
+In een rechterlijke procedure ten aanzien van een besluit, andere rechtshandeling of feitelijke handeling die strekt tot uitvoering van een overeenkomstig [artikel 5.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.4&artikel=5.16&z=2009-11-04&g=2009-11-04), genomen besluit of toegepast wettelijk voorschrift, kunnen uitsluitend gevolgen voor de luchtkwaliteit worden aangevoerd voor zover deze redelijkerwijs niet in een eerdere rechterlijke procedure aan de orde zijn of hadden kunnen worden gesteld.
 
 #### § 20.1. Algemeen
 
@@ -8617,7 +8623,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 **CE-markering**: markering als bedoeld in besluit nr. 93/465/EEG van de Raad van de Europese Unie van 22 juli 1993 betreffende de modules voor de verschillende fasen van de conformiteitbeoordelingsprocedures en de voorschriften inzake het aanbrengen en het gebruik van de CE-markering van overeenstemming (PbEG L 220) en bestaande uit het opschrift «CE» als weergegeven in bijlage III bij de EG-richtlijn ecologisch ontwerp energieverbruikende producten;
 
-**componenten en subeenheden**: onderdelen die bedoeld zijn om in een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-09-10&g=2009-09-10), aangewezen energieverbruikend product te worden ingebouwd en die niet als losse onderdelen ten behoeve van gebruikers op de markt worden gebracht of in gebruik worden genomen, dan wel waarvan de milieuprestaties niet onafhankelijk van voornoemd product kunnen worden beoordeeld;
+**componenten en subeenheden**: onderdelen die bedoeld zijn om in een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-11-04&g=2009-11-04), aangewezen energieverbruikend product te worden ingebouwd en die niet als losse onderdelen ten behoeve van gebruikers op de markt worden gebracht of in gebruik worden genomen, dan wel waarvan de milieuprestaties niet onafhankelijk van voornoemd product kunnen worden beoordeeld;
 
 **conformiteitsverklaring**: document waarbij de fabrikant overeenkomstig bijlage VI bij de EG-richtlijn ecologisch ontwerp energieverbruikende producten verklaart dat aan alle voor dat product relevante bepalingen van de toepasselijke uitvoeringsmaatregel wordt voldaan, onder verwijzing naar die uitvoeringsmaatregel;
 
@@ -8659,31 +8665,31 @@ Deze titel is niet van toepassing op middelen voor het vervoer van personen of g
 
 ##### Artikel 9.4.5
 
-1. De fabrikant onderscheidenlijk importeur draagt er zorg voor dat een energieverbruikend product dat behoort tot een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-09-10&g=2009-09-10), aangewezen categorie, alvorens dat product op de markt wordt gebracht of in gebruik wordt genomen, aan een conformiteitsbeoordeling wordt onderworpen, waarbij wordt getoetst of het voldoet aan de bij of krachtens deze titel en in de uitvoeringsmaatregel gestelde eisen. Bij algemene maatregel van bestuur kunnen regels worden gegeven met betrekking tot de wijze waarop de toetsing met betrekking tot dat product plaatsvindt.
+1. De fabrikant onderscheidenlijk importeur draagt er zorg voor dat een energieverbruikend product dat behoort tot een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-11-04&g=2009-11-04), aangewezen categorie, alvorens dat product op de markt wordt gebracht of in gebruik wordt genomen, aan een conformiteitsbeoordeling wordt onderworpen, waarbij wordt getoetst of het voldoet aan de bij of krachtens deze titel en in de uitvoeringsmaatregel gestelde eisen. Bij algemene maatregel van bestuur kunnen regels worden gegeven met betrekking tot de wijze waarop de toetsing met betrekking tot dat product plaatsvindt.
 
-2. De fabrikant maakt met betrekking tot een energieverbruikend product dat behoort tot een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-09-10&g=2009-09-10), aangewezen categorie, een conformiteitsverklaring op en brengt een CE-markering op het product aan. De importeur draagt er zorg voor dat hij met betrekking tot een dergelijk product beschikt over de conformiteitsverklaring en dat op het product een CE-markering is aangebracht.
+2. De fabrikant maakt met betrekking tot een energieverbruikend product dat behoort tot een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-11-04&g=2009-11-04), aangewezen categorie, een conformiteitsverklaring op en brengt een CE-markering op het product aan. De importeur draagt er zorg voor dat hij met betrekking tot een dergelijk product beschikt over de conformiteitsverklaring en dat op het product een CE-markering is aangebracht.
 
 ##### Artikel 9.4.6
 
-1. De fabrikant onderscheidenlijk importeur van een energieverbruikend product dat behoort tot een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-09-10&g=2009-09-10), aangewezen categorie, bewaart na het in Nederland op de markt brengen of in gebruik nemen van dat product de relevante documenten betreffende de conformiteitsbeoordeling, als bedoeld in [artikel 9.4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.5&z=2009-09-10&g=2009-09-10), en de daaromtrent afgegeven conformiteitsverklaringen gedurende een periode van tien jaar na beëindiging van de vervaardiging van dat product.
+1. De fabrikant onderscheidenlijk importeur van een energieverbruikend product dat behoort tot een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-11-04&g=2009-11-04), aangewezen categorie, bewaart na het in Nederland op de markt brengen of in gebruik nemen van dat product de relevante documenten betreffende de conformiteitsbeoordeling, als bedoeld in [artikel 9.4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.5&z=2009-11-04&g=2009-11-04), en de daaromtrent afgegeven conformiteitsverklaringen gedurende een periode van tien jaar na beëindiging van de vervaardiging van dat product.
 
 2. De fabrikant onderscheidenlijk importeur stelt de in het eerste lid bedoelde documenten binnen tien dagen na ontvangst van een verzoek van het bevoegd gezag, belast met het toezicht op de naleving van de wet, beschikbaar aan dat bevoegde gezag.
 
-3. Fabrikanten van componenten en subeenheden kunnen bij of krachtens algemene maatregel van bestuur met betrekking tot een energieverbruikend product dat behoort tot een ingevolge [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-09-10&g=2009-09-10), aangewezen categorie, worden verplicht aan de fabrikant onderscheidenlijk importeur van dat product daarbij aangegeven relevante informatie te verstrekken over de materiaalsamenstelling en het verbruik van energie, materialen of hulpbronnen van de door hen geproduceerde componenten of subeenheden.
+3. Fabrikanten van componenten en subeenheden kunnen bij of krachtens algemene maatregel van bestuur met betrekking tot een energieverbruikend product dat behoort tot een ingevolge [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-11-04&g=2009-11-04), aangewezen categorie, worden verplicht aan de fabrikant onderscheidenlijk importeur van dat product daarbij aangegeven relevante informatie te verstrekken over de materiaalsamenstelling en het verbruik van energie, materialen of hulpbronnen van de door hen geproduceerde componenten of subeenheden.
 
 ##### Artikel 9.4.7
 
 1. Het is verboden op een energieverbruikend product een markering aan te brengen, die de gebruikers van dat product kan misleiden omtrent de betekenis of de vorm van de CE-markering.
 
-2. Het is verboden een energieverbruikend product dat behoort tot een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-09-10&g=2009-09-10), aangewezen categorie, dat nog niet op de markt is gebracht en niet in overeenstemming is met het bij of krachtens deze titel bepaalde en met de toepasselijke uitvoeringsmaatregel, te tonen of te demonstreren op handelsbeurzen, tentoonstellingen of soortgelijke evenementen. Het verbod geldt niet indien duidelijk zichtbaar is aangegeven dat het product nog niet met die uitvoeringsmaatregel in overeenstemming is en niet op de markt zal worden gebracht, zolang het product nog niet met het bij of krachtens deze titel bepaalde en met de toepasselijke uitvoeringsmaatregel in overeenstemming is.
+2. Het is verboden een energieverbruikend product dat behoort tot een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-11-04&g=2009-11-04), aangewezen categorie, dat nog niet op de markt is gebracht en niet in overeenstemming is met het bij of krachtens deze titel bepaalde en met de toepasselijke uitvoeringsmaatregel, te tonen of te demonstreren op handelsbeurzen, tentoonstellingen of soortgelijke evenementen. Het verbod geldt niet indien duidelijk zichtbaar is aangegeven dat het product nog niet met die uitvoeringsmaatregel in overeenstemming is en niet op de markt zal worden gebracht, zolang het product nog niet met het bij of krachtens deze titel bepaalde en met de toepasselijke uitvoeringsmaatregel in overeenstemming is.
 
 ##### Artikel 9.4.8
 
-1. Een energieverbruikend product, behorende tot een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-09-10&g=2009-09-10), aangewezen categorie, dat van een CE-markering is voorzien, wordt vermoed te voldoen aan de voor dat product bij of krachtens deze titel en in de uitvoeringsmaatregel gestelde eisen.
+1. Een energieverbruikend product, behorende tot een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-11-04&g=2009-11-04), aangewezen categorie, dat van een CE-markering is voorzien, wordt vermoed te voldoen aan de voor dat product bij of krachtens deze titel en in de uitvoeringsmaatregel gestelde eisen.
 
-2. Een energieverbruikend product, behorende tot een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-09-10&g=2009-09-10), aangewezen categorie, waarvoor een geharmoniseerde norm is toegepast waarvan het referentienummer in het Publicatieblad van de Europese Unie is bekendgemaakt, wordt vermoed te voldoen aan de voorschriften van de toepasselijke uitvoeringsmaatregel waarop die norm betrekking heeft.
+2. Een energieverbruikend product, behorende tot een ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-11-04&g=2009-11-04), aangewezen categorie, waarvoor een geharmoniseerde norm is toegepast waarvan het referentienummer in het Publicatieblad van de Europese Unie is bekendgemaakt, wordt vermoed te voldoen aan de voorschriften van de toepasselijke uitvoeringsmaatregel waarop die norm betrekking heeft.
 
-3. Een energieverbruikend product, behorende tot een ingevolge een maatregel als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-09-10&g=2009-09-10), aangewezen categorie, waarvoor overeenkomstig Verordening (EG) nr. 1980/2000 de communautaire milieukeur is verleend, wordt vermoed te voldoen aan de voorschriften inzake ecologisch ontwerp van de toepasselijke uitvoeringsmaatregel voor zover de milieukeur aan die voorschriften voldoet.
+3. Een energieverbruikend product, behorende tot een ingevolge een maatregel als bedoeld in [artikel 9.4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.4&artikel=9.4.4&z=2009-11-04&g=2009-11-04), aangewezen categorie, waarvoor overeenkomstig Verordening (EG) nr. 1980/2000 de communautaire milieukeur is verleend, wordt vermoed te voldoen aan de voorschriften inzake ecologisch ontwerp van de toepasselijke uitvoeringsmaatregel voor zover de milieukeur aan die voorschriften voldoet.
 
 ### Hoofdstuk 10. Afvalstoffen
 
@@ -8809,9 +8815,9 @@ Vervallen
 
 ### Hoofdstuk 15. Financiële bepalingen
 
-#### § 14.2. Coördinatie bij het maken van een milieu-effectrapport
+#### § 12.3.4. Aanvullende rapportageverplichtingen
 
-#### § 15.2.4. Teruggaafregeling
+#### § 12.3.5. Slotbepalingen
 
 #### § 15.2.5. Tarief
 
@@ -8931,13 +8937,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 5.6
 
-1. In afwijking van [titel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&z=2009-09-10&g=2009-09-10) gelden ten aanzien van de kwaliteit van de buitenlucht uitsluitend deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) en de op deze titel berustende bepalingen.
+1. In afwijking van [titel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.1&z=2009-11-04&g=2009-11-04) gelden ten aanzien van de kwaliteit van de buitenlucht uitsluitend deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) en de op deze titel berustende bepalingen.
 
-2. Deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) en de op deze titel berustende bepalingen zijn niet van toepassing op plaatsen als gedefinieerd in artikel 2 van de Richtlijn 89/654/EEG van de Raad van 30 november 1989 betreffende minimumvoorschriften inzake veiligheid en gezondheid voor arbeidsplaatsen (PbEG L 393), op welke plaatsen bepalingen betreffende gezondheid en veiligheid op de arbeidsplaats van toepassing zijn en waartoe leden van het publiek gewoonlijk geen toegang hebben.
+2. Deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) en de op deze titel berustende bepalingen zijn niet van toepassing op plaatsen als gedefinieerd in artikel 2 van de Richtlijn 89/654/EEG van de Raad van 30 november 1989 betreffende minimumvoorschriften inzake veiligheid en gezondheid voor arbeidsplaatsen (PbEG L 393), op welke plaatsen bepalingen betreffende gezondheid en veiligheid op de arbeidsplaats van toepassing zijn en waartoe leden van het publiek gewoonlijk geen toegang hebben.
 
 ##### Artikel 5.7
 
-1. In deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) en de op deze titel berustende bepalingen met betrekking tot de kwaliteit van de buitenlucht wordt verstaan onder:
+1. In deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) en de op deze titel berustende bepalingen met betrekking tot de kwaliteit van de buitenlucht wordt verstaan onder:
 
 **acht-uurgemiddelde concentratie**: concentratie in de buitenlucht, gemiddeld over acht achtereenvolgende uurgemiddelde concentraties, uitgedrukt in microgram per m3 lucht bij een temperatuur van 293 Kelvin en een druk van 101,3 kiloPascal;
 
@@ -8949,7 +8955,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 **autosnelweg**: autosnelweg als bedoeld in [artikel 1, onder c, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1);
 
-**beoordelen van de luchtkwaliteit:** vaststellen van het kwaliteitsniveau en bepalen van de mate waarin een vastgesteld kwaliteitsniveau voldoet aan een grenswaarde, blootstellingsconcentratieverplichting, richtwaarde, plandrempel, alarmdrempel of informatiedrempel als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10);
+**beoordelen van de luchtkwaliteit:** vaststellen van het kwaliteitsniveau en bepalen van de mate waarin een vastgesteld kwaliteitsniveau voldoet aan een grenswaarde, blootstellingsconcentratieverplichting, richtwaarde, plandrempel, alarmdrempel of informatiedrempel als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04);
 
 **blootstellingsconcentratieverplichting:** een op grond van de gemiddelde blootstellingsindex bepaald kwaliteitsniveau met het doel de schadelijke gevolgen voor de gezondheid van de mens te verminderen, waaraan binnen een bepaalde termijn moet worden voldaan;
 
@@ -8993,29 +8999,29 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 **zwevende deeltjes (PM2,5):** in de buitenlucht voorkomende stofdeeltjes die een op grootte selecterende instroomopening passeren met een efficiencygrens van 50 procent bij een aerodynamische diameter van 2,5 micrometer.
 
-2. In afwijking van [artikel 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.1&artikel=1.1&z=2009-09-10&g=2009-09-10), wordt in deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) en de op deze titel berustende bepalingen onder **stoffen** verstaan: chemische elementen en hun verbindingen, zoals deze voorkomen in de natuur of door toedoen van de mens worden voortgebracht.
+2. In afwijking van [artikel 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.1&artikel=1.1&z=2009-11-04&g=2009-11-04), wordt in deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) en de op deze titel berustende bepalingen onder **stoffen** verstaan: chemische elementen en hun verbindingen, zoals deze voorkomen in de natuur of door toedoen van de mens worden voortgebracht.
 
 ##### Artikel 5.8
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2009/158.
 
-1. Indien wijziging van deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) of de op deze titel berustende bepalingen wenselijk is ter uitvoering van een richtlijn van de Raad van de Europese Unie betreffende de kwaliteit van de buitenlucht, kan Onze Minister, gehoord de Tweede Kamer der Staten-Generaal, een tijdelijke regeling vaststellen, die voor zover daarbij is aangegeven in de plaats treedt van deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) of de op deze titel berustende bepalingen.
+1. Indien wijziging van deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) of de op deze titel berustende bepalingen wenselijk is ter uitvoering van een richtlijn van de Raad van de Europese Unie betreffende de kwaliteit van de buitenlucht, kan Onze Minister, gehoord de Tweede Kamer der Staten-Generaal, een tijdelijke regeling vaststellen, die voor zover daarbij is aangegeven in de plaats treedt van deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) of de op deze titel berustende bepalingen.
 
 2. Binnen achttien maanden na het tijdstip van inwerkingtreding van die regeling wordt een voorstel van wet van gelijke strekking aanhangig gemaakt bij de Tweede Kamer der Staten-Generaal.
 
 ##### Artikel 5.9
 
-1. Burgemeester en wethouders stellen in de in [bijlage 2, voorschrift 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10), aangegeven gevallen waarin een plandrempel wordt overschreden een plan vast, waarin wordt aangegeven op welke wijze en door middel van welke maatregelen voldaan zal worden aan de desbetreffende in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) genoemde grenswaarde, binnen de voor die waarde gestelde termijn. Zij dragen zorg voor de uitvoering van het plan.
+1. Burgemeester en wethouders stellen in de in [bijlage 2, voorschrift 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04), aangegeven gevallen waarin een plandrempel wordt overschreden een plan vast, waarin wordt aangegeven op welke wijze en door middel van welke maatregelen voldaan zal worden aan de desbetreffende in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) genoemde grenswaarde, binnen de voor die waarde gestelde termijn. Zij dragen zorg voor de uitvoering van het plan.
 
 2. Op de voorbereiding van een plan als bedoeld in het eerste lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.
 
 3. Gedeputeerde staten, Onze Minister, Onze Ministers van Landbouw, Natuur en Voedselkwaliteit en van Verkeer en Waterstaat en andere bestuursorganen die maatregelen kunnen treffen leveren op verzoek van burgemeester en wethouders een bijdrage aan het opstellen en uitvoeren van een plan als bedoeld in het eerste lid. Daarbij geven de desbetreffende bestuursorganen in het plan gemotiveerd rekenschap van het al dan niet treffen van maatregelen. Omtrent het opstellen en uitvoeren van het plan bevorderen burgemeester en wethouders overleg met die bestuursorganen.
 
-4. Voor 1 mei van het jaar volgend op het jaar waarin de overschrijding van de desbetreffende plandrempel, met inachtneming van de krachtens [artikel 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.5&artikel=5.20&z=2009-09-10&g=2009-09-10) gestelde regels, is vastgesteld en gerapporteerd, stellen burgemeester en wethouders gedeputeerde staten in kennis van een vastgesteld plan als bedoeld in het eerste lid. Voor 1 juli van dat jaar stellen gedeputeerde staten Onze Minister in kennis van alle door hen ontvangen plannen.
+4. Voor 1 mei van het jaar volgend op het jaar waarin de overschrijding van de desbetreffende plandrempel, met inachtneming van de krachtens [artikel 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.5&artikel=5.20&z=2009-11-04&g=2009-11-04) gestelde regels, is vastgesteld en gerapporteerd, stellen burgemeester en wethouders gedeputeerde staten in kennis van een vastgesteld plan als bedoeld in het eerste lid. Voor 1 juli van dat jaar stellen gedeputeerde staten Onze Minister in kennis van alle door hen ontvangen plannen.
 
 5. Burgemeester en wethouders rapporteren eenmaal in de drie jaar, voor 1 mei van het op die periode volgende jaar, aan gedeputeerde staten omtrent de voortgang van de uitvoering van een plan of plannen als bedoeld in het eerste lid. Voor 1 juli van dat jaar stellen gedeputeerde staten Onze Minister in kennis van alle door hen ontvangen voortgangsrapportages.
 
-6. Burgemeester en wethouders dragen er zorg voor dat het plan, bedoeld in het eerste lid, in overeenstemming is met een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-09-10&g=2009-09-10).
+6. Burgemeester en wethouders dragen er zorg voor dat het plan, bedoeld in het eerste lid, in overeenstemming is met een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 5.10
 
@@ -9023,15 +9029,15 @@ Vervallen
 
 ##### Artikel 5.11
 
-1. Een plan als bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-09-10&g=2009-09-10), [5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-09-10&g=2009-09-10), bevat ten minste de gegevens, bedoeld in bijlage XV, deel A, van de EG-richtlijn luchtkwaliteit.
+1. Een plan als bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-11-04&g=2009-11-04), [5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-11-04&g=2009-11-04), bevat ten minste de gegevens, bedoeld in bijlage XV, deel A, van de EG-richtlijn luchtkwaliteit.
 
 2. Een wijziging van bijlage XV, deel A, van de EG-richtlijn luchtkwaliteit geldt voor de toepassing van het eerste lid met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven en heeft geen betrekking op een vóór die dag vastgesteld plan, tenzij uit de desbetreffende wijziging anders volgt.
 
-3. Voor gevallen waarin ingevolge [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-09-10&g=2009-09-10), [5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-09-10&g=2009-09-10), voor meer dan één stof een plan wordt vastgesteld en uitgevoerd, draagt het betrokken bestuursorgaan zorg voor één plan voor de desbetreffende stoffen. Het eerste lid is van overeenkomstige toepassing.
+3. Voor gevallen waarin ingevolge [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-11-04&g=2009-11-04), [5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-11-04&g=2009-11-04), voor meer dan één stof een plan wordt vastgesteld en uitgevoerd, draagt het betrokken bestuursorgaan zorg voor één plan voor de desbetreffende stoffen. Het eerste lid is van overeenkomstige toepassing.
 
 ##### Artikel 5.12
 
-1. Onze Minister stelt, in overeenstemming met het gevoelen van de ministerraad en gehoord de Eerste en Tweede Kamer der Staten-Generaal, met betrekking tot een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) opgenomen grenswaarde die op of na het daarbij behorende tijdstip wordt overschreden of dreigt te worden overschreden, een programma vast dat gericht is op het bereiken van die grenswaarde. Het programma heeft betrekking op een daarbij aan te geven periode van vijf jaar.
+1. Onze Minister stelt, in overeenstemming met het gevoelen van de ministerraad en gehoord de Eerste en Tweede Kamer der Staten-Generaal, met betrekking tot een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) opgenomen grenswaarde die op of na het daarbij behorende tijdstip wordt overschreden of dreigt te worden overschreden, een programma vast dat gericht is op het bereiken van die grenswaarde. Het programma heeft betrekking op een daarbij aan te geven periode van vijf jaar.
 
 2. In het programma, bedoeld in het eerste lid, worden ten minste genoemd of beschreven de gedurende de in dat lid bedoelde periode door een of meer bestuursorganen van het Rijk te treffen generieke maatregelen ter verbetering van de luchtkwaliteit en de effecten daarvan op de luchtkwaliteit.
 
@@ -9041,7 +9047,7 @@ Vervallen
 
 - b. indien op het moment van vaststelling van het programma op één of meer plaatsen binnen een aangewezen gebied een geldende grenswaarde wordt overschreden: een overzicht van alle redelijkerwijs, gedurende de in het eerste lid bedoelde periode, door de betrokken bestuursorganen te treffen maatregelen die bijdragen aan de verwezenlijking van beleid dat erop gericht is die grenswaarde te bereiken, de effecten van die maatregelen op de luchtkwaliteit alsmede het tijdstip waarop die grenswaarde naar verwachting zal zijn bereikt;
 
-- c. een beschrijving van de verwachte ontwikkelingen in het desbetreffende gebied en van de besluiten die gedurende de in het eerste lid bedoelde periode naar verwachting zullen worden genomen en die in betekenende mate bijdragen aan de concentratie in de buitenlucht in dat gebied van een stof waarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) een grenswaarde is opgenomen, op basis van de krachtens het zevende lid verstrekte gegevens, alsmede de effecten van die ontwikkelingen en besluiten op de luchtkwaliteit;
+- c. een beschrijving van de verwachte ontwikkelingen in het desbetreffende gebied en van de besluiten die gedurende de in het eerste lid bedoelde periode naar verwachting zullen worden genomen en die in betekenende mate bijdragen aan de concentratie in de buitenlucht in dat gebied van een stof waarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) een grenswaarde is opgenomen, op basis van de krachtens het zevende lid verstrekte gegevens, alsmede de effecten van die ontwikkelingen en besluiten op de luchtkwaliteit;
 
 - d. een beschrijving van de door de bestuursorganen, die daartoe in het programma zijn aangewezen, te treffen overige maatregelen dan bedoeld onder b, die samenhangen met de onder c bedoelde ontwikkelingen of besluiten en die gericht zijn op het bereiken van de grenswaarde of grenswaarden in de betreffende gebieden, alsmede de effecten van die maatregelen op de luchtkwaliteit;
 
@@ -9051,15 +9057,15 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 4. Bij het beschrijven van:
 
-- a. de autonome ontwikkeling, bedoeld in het derde lid, onder a, wordt mede in aanmerking genomen het gesommeerde effect van de uitoefening van bevoegdheden en de toepassing van wettelijke voorschriften die gedurende de in het eerste lid bedoelde periode naar verwachting zullen plaatsvinden en die niet in betekenende mate bijdragen aan de concentratie in de buitenlucht in dat gebied van een stof waarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) een grenswaarde is opgenomen;
+- a. de autonome ontwikkeling, bedoeld in het derde lid, onder a, wordt mede in aanmerking genomen het gesommeerde effect van de uitoefening van bevoegdheden en de toepassing van wettelijke voorschriften die gedurende de in het eerste lid bedoelde periode naar verwachting zullen plaatsvinden en die niet in betekenende mate bijdragen aan de concentratie in de buitenlucht in dat gebied van een stof waarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) een grenswaarde is opgenomen;
 
 - b. de effecten van de maatregelen, bedoeld in het tweede en derde lid, kunnen de effecten van sinds 1 januari 2005 ter verbetering van de luchtkwaliteit ingevoerde maatregelen mede in aanmerking worden genomen.
 
 5. In een programma als bedoeld in het eerste lid worden geen besluiten als bedoeld in het derde lid, onder c, opgenomen, indien het aannemelijk is dat deze een overschrijding of verdere overschrijding van een geldende grenswaarde tot gevolg hebben op het tijdstip waarop, met toepassing van:
 
-- a. uitstel als bedoeld in artikel 22, eerste lid, van de EG-richtlijn luchtkwaliteit, van de tijdstippen waarop aan de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) opgenomen grenswaarden voor stikstofdioxide of benzeen moet worden voldaan,
+- a. uitstel als bedoeld in artikel 22, eerste lid, van de EG-richtlijn luchtkwaliteit, van de tijdstippen waarop aan de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) opgenomen grenswaarden voor stikstofdioxide of benzeen moet worden voldaan,
 
-- b. vrijstelling als bedoeld in artikel 22, tweede lid, van de EG-richtlijn luchtkwaliteit, van de verplichting om aan de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) opgenomen grenswaarden voor zwevende deeltjes (PM10) te voldoen,
+- b. vrijstelling als bedoeld in artikel 22, tweede lid, van de EG-richtlijn luchtkwaliteit, van de verplichting om aan de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) opgenomen grenswaarden voor zwevende deeltjes (PM10) te voldoen,
 
 ingevolge die richtlijn aan de desbetreffende grenswaarde moet worden voldaan.
 
@@ -9077,7 +9083,7 @@ ingevolge die richtlijn aan de desbetreffende grenswaarde moet worden voldaan.
 
 10. Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad en gehoord de Eerste en Tweede Kamer der Staten-Generaal, het programma, bedoeld in het eerste lid, ambtshalve wijzigen indien naar zijn oordeel:
 
-- a. uit de rapportages, bedoeld in [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.14&z=2009-09-10&g=2009-09-10), naar voren komt dat de in dat programma opgenomen gegevens omtrent de effecten op de luchtkwaliteit van in het programma genoemde of beschreven ontwikkelingen, voorgenomen besluiten of maatregelen, niet of niet langer in redelijkheid kunnen worden gehanteerd bij de uitoefening van de in [artikel 5.16, eerste lid, aanhef en onder c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.4&artikel=5.16&z=2009-09-10&g=2009-09-10), juncto het [tweede lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.4&artikel=5.16&z=2009-09-10&g=2009-09-10), bedoelde bevoegdheden en de toepassing van de daar bedoelde wettelijke voorschriften;
+- a. uit de rapportages, bedoeld in [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.14&z=2009-11-04&g=2009-11-04), naar voren komt dat de in dat programma opgenomen gegevens omtrent de effecten op de luchtkwaliteit van in het programma genoemde of beschreven ontwikkelingen, voorgenomen besluiten of maatregelen, niet of niet langer in redelijkheid kunnen worden gehanteerd bij de uitoefening van de in [artikel 5.16, eerste lid, aanhef en onder c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.4&artikel=5.16&z=2009-11-04&g=2009-11-04), juncto het [tweede lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.4&artikel=5.16&z=2009-11-04&g=2009-11-04), bedoelde bevoegdheden en de toepassing van de daar bedoelde wettelijke voorschriften;
 
 - b. het programma, de periode waarop het betrekking heeft of de daarin genoemde of beschreven ontwikkelingen, voorgenomen besluiten of maatregelen om andere redenen wijziging behoeven.
 
@@ -9089,7 +9095,7 @@ Het achtste lid is van overeenkomstige toepassing.
 
 - a. een of meer in het programma genoemde of beschreven maatregelen of voorgenomen besluiten vervangen door een of meer andere maatregelen of voorgenomen besluiten,
 
-- b. een of meer extra maatregelen of extra voorgenomen besluiten aan het programma toevoegen, indien bij de betreffende melding aannemelijk wordt gemaakt dat die andere of extra maatregelen of besluiten per saldo een vergelijkbaar of positiever effect op de luchtkwaliteit hebben. Bij de melding wordt aangegeven welke maatregelen dan wel besluiten het betreft, welke samenhang er tussen die maatregelen en besluiten is en op welke termijn deze worden getroffen of genomen en worden de effecten op de luchtkwaliteit met toepassing van de [artikelen 5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.5&artikel=5.19&z=2009-09-10&g=2009-09-10) en [5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.5&artikel=5.20&z=2009-09-10&g=2009-09-10) en de daarop berustende bepalingen aangegeven. Het negende lid is van overeenkomstige toepassing.
+- b. een of meer extra maatregelen of extra voorgenomen besluiten aan het programma toevoegen, indien bij de betreffende melding aannemelijk wordt gemaakt dat die andere of extra maatregelen of besluiten per saldo een vergelijkbaar of positiever effect op de luchtkwaliteit hebben. Bij de melding wordt aangegeven welke maatregelen dan wel besluiten het betreft, welke samenhang er tussen die maatregelen en besluiten is en op welke termijn deze worden getroffen of genomen en worden de effecten op de luchtkwaliteit met toepassing van de [artikelen 5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.5&artikel=5.19&z=2009-11-04&g=2009-11-04) en [5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.5&artikel=5.20&z=2009-11-04&g=2009-11-04) en de daarop berustende bepalingen aangegeven. Het negende lid is van overeenkomstige toepassing.
 
 13. De bij de melding, bedoeld in het twaalfde lid, aangegeven wijziging of wijzigingen behoeven de instemming van Onze Minister. Onze Minister beslist hieromtrent binnen zes weken na ontvangst van de melding. De instemming is van rechtswege gegeven indien Onze Minister niet binnen de genoemde termijn een beslissing heeft genomen.
 
@@ -9097,35 +9103,35 @@ Het achtste lid is van overeenkomstige toepassing.
 
 ##### Artikel 5.13
 
-1. Een of meerdere bestuursorganen gezamenlijk, niet zijnde bestuursorganen van het Rijk, kunnen een programma vaststellen dat gericht is op het bereiken van een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) opgenomen grenswaarde in een bij dat programma aan te wijzen gebied, niet zijnde een krachtens [artikel 5.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), aangewezen of aan te wijzen gebied, waar een grenswaarde wordt overschreden of dreigt te worden overschreden.
+1. Een of meerdere bestuursorganen gezamenlijk, niet zijnde bestuursorganen van het Rijk, kunnen een programma vaststellen dat gericht is op het bereiken van een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) opgenomen grenswaarde in een bij dat programma aan te wijzen gebied, niet zijnde een krachtens [artikel 5.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), aangewezen of aan te wijzen gebied, waar een grenswaarde wordt overschreden of dreigt te worden overschreden.
 
-2. Bij de vaststelling van een programma op grond van het eerste lid wordt het krachtens [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), vastgestelde programma in acht genomen.
+2. Bij de vaststelling van een programma op grond van het eerste lid wordt het krachtens [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), vastgestelde programma in acht genomen.
 
-3. [Artikel 5.12, derde en vierde lid en achtste tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing, met dien verstande dat de wijziging, bedoeld in het [tiende lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), plaatsvindt in overeenstemming met de andere betrokken bestuursorganen en dat de plicht tot melding, bedoeld in het [twaalfde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), niet van toepassing is.
+3. [Artikel 5.12, derde en vierde lid en achtste tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing, met dien verstande dat de wijziging, bedoeld in het [tiende lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), plaatsvindt in overeenstemming met de andere betrokken bestuursorganen en dat de plicht tot melding, bedoeld in het [twaalfde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), niet van toepassing is.
 
 4. Het programma wordt na vaststelling of wijziging toegezonden aan Onze Minister.
 
-5. Indien voor een gebied als bedoeld in het eerste lid geen programma als bedoeld in dat lid wordt vastgesteld, treffen de betrokken bestuursorganen onverwijld de redelijkerwijs mogelijke maatregelen die er op gericht zijn de betreffende grenswaarde te bereiken. De [artikelen 5.12, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), en [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.14&z=2009-09-10&g=2009-09-10) zijn van overeenkomstige toepassing.
+5. Indien voor een gebied als bedoeld in het eerste lid geen programma als bedoeld in dat lid wordt vastgesteld, treffen de betrokken bestuursorganen onverwijld de redelijkerwijs mogelijke maatregelen die er op gericht zijn de betreffende grenswaarde te bereiken. De [artikelen 5.12, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), en [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.14&z=2009-11-04&g=2009-11-04) zijn van overeenkomstige toepassing.
 
 ##### Artikel 5.14
 
-De daartoe in een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-09-10&g=2009-09-10), aangewezen bestuursorganen rapporteren jaarlijks voor 1 juli aan Onze Minister over de voortgang en uitvoering van een programma en de daarin opgenomen maatregelen, ontwikkelingen en besluiten, alsmede over de effecten daarvan op de luchtkwaliteit.
+De daartoe in een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-11-04&g=2009-11-04), aangewezen bestuursorganen rapporteren jaarlijks voor 1 juli aan Onze Minister over de voortgang en uitvoering van een programma en de daarin opgenomen maatregelen, ontwikkelingen en besluiten, alsmede over de effecten daarvan op de luchtkwaliteit.
 
 ##### Artikel 5.15
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot:
 
-- a. de wijze waarop een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-09-10&g=2009-09-10), wordt afgestemd met andere bij of krachtens wettelijk voorschrift vast te stellen of vastgestelde plannen;
+- a. de wijze waarop een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-11-04&g=2009-11-04), wordt afgestemd met andere bij of krachtens wettelijk voorschrift vast te stellen of vastgestelde plannen;
 
-- b. de voorbereiding, vormgeving, inhoud en uitvoering van een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-09-10&g=2009-09-10);
+- b. de voorbereiding, vormgeving, inhoud en uitvoering van een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-11-04&g=2009-11-04);
 
-- c. de verslaglegging, bedoeld in [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.14&z=2009-09-10&g=2009-09-10).
+- c. de verslaglegging, bedoeld in [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.14&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 5.16
 
 1. Bestuursorganen maken bij de uitoefening van een in het tweede lid bedoelde bevoegdheid of toepassing van een daar bedoeld wettelijk voorschrift, welke uitoefening of toepassing gevolgen kan hebben voor de luchtkwaliteit, gebruik van een of meer van de volgende gronden en maken daarbij aannemelijk:
 
-- a. dat een uitoefening of toepassing, rekening houdend met de effecten op de luchtkwaliteit van onlosmakelijk met die uitoefening of toepassing samenhangende maatregelen ter verbetering van de luchtkwaliteit, niet leidt tot het overschrijden, of tot het op of na het tijdstip van ingang waarschijnlijk overschrijden, van een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) opgenomen grenswaarde;
+- a. dat een uitoefening of toepassing, rekening houdend met de effecten op de luchtkwaliteit van onlosmakelijk met die uitoefening of toepassing samenhangende maatregelen ter verbetering van de luchtkwaliteit, niet leidt tot het overschrijden, of tot het op of na het tijdstip van ingang waarschijnlijk overschrijden, van een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) opgenomen grenswaarde;
 
 - b. dat, met inachtneming van het vierde lid en de krachtens dat lid gestelde regels:
 
@@ -9133,13 +9139,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 - 2°. bij een beperkte toename van de concentratie van de desbetreffende stof, door een met die uitoefening of toepassing samenhangende maatregel of een door die uitoefening of toepassing optredend effect, de luchtkwaliteit per saldo verbetert;
 
-- c. dat een uitoefening of toepassing, rekening houdend met de effecten op de luchtkwaliteit van onlosmakelijk met die uitoefening of toepassing samenhangende maatregelen ter verbetering van de luchtkwaliteit, niet in betekenende mate bijdraagt aan de concentratie in de buitenlucht van een stof waarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) een grenswaarde is opgenomen;
+- c. dat een uitoefening of toepassing, rekening houdend met de effecten op de luchtkwaliteit van onlosmakelijk met die uitoefening of toepassing samenhangende maatregelen ter verbetering van de luchtkwaliteit, niet in betekenende mate bijdraagt aan de concentratie in de buitenlucht van een stof waarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) een grenswaarde is opgenomen;
 
-- d. dat een uitoefening dan wel toepassing is genoemd of beschreven in, dan wel betrekking heeft op, een ontwikkeling of voorgenomen besluit welke is genoemd of beschreven in, dan wel past binnen of in elk geval niet in strijd is met een op grond van [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), of [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-09-10&g=2009-09-10), vastgesteld programma.
+- d. dat een uitoefening dan wel toepassing is genoemd of beschreven in, dan wel betrekking heeft op, een ontwikkeling of voorgenomen besluit welke is genoemd of beschreven in, dan wel past binnen of in elk geval niet in strijd is met een op grond van [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), of [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-11-04&g=2009-11-04), vastgesteld programma.
 
 2. De in het eerste lid bedoelde bevoegdheden of wettelijke voorschriften zijn de bevoegdheden en wettelijke voorschriften, bedoeld in:
 
-- a. de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2009-09-10&g=2009-09-10), [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.27&z=2009-09-10&g=2009-09-10), [7.35](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.35&z=2009-09-10&g=2009-09-10), [7.42](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.42&z=2009-09-10&g=2009-09-10), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.2&z=2009-09-10&g=2009-09-10) en [8.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10);
+- a. de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=1&paragraaf=1.2&artikel=1.2&z=2009-11-04&g=2009-11-04), [7.27](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.27&z=2009-11-04&g=2009-11-04), [7.35](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.7&artikel=7.35&z=2009-11-04&g=2009-11-04), [7.42](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.9&artikel=7.42&z=2009-11-04&g=2009-11-04), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.2&z=2009-11-04&g=2009-11-04) en [8.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04);
 
 - b. de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=13) en [16 van de Wet inzake de luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=16);
 
@@ -9149,7 +9155,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 - e. [artikel 9 van de Spoedwet wegverbreding](https://wetten.overheid.nl/jci1.3:c:BWBR0015158&artikel=9).
 
-3. Bij de uitoefening van een bevoegdheid of toepassing van een wettelijk voorschrift als bedoeld in het eerste lid, aanhef en onder c of d, gedurende de periode waar een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-09-10&g=2009-09-10), betrekking op heeft, vindt met betrekking tot de effecten van de desbetreffende ontwikkeling of het desbetreffende besluit op de luchtkwaliteit geen afzonderlijke beoordeling van de luchtkwaliteit plaats voor een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) opgenomen grenswaarde voor die periode, noch voor enig jaar daarna.
+3. Bij de uitoefening van een bevoegdheid of toepassing van een wettelijk voorschrift als bedoeld in het eerste lid, aanhef en onder c of d, gedurende de periode waar een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-11-04&g=2009-11-04), betrekking op heeft, vindt met betrekking tot de effecten van de desbetreffende ontwikkeling of het desbetreffende besluit op de luchtkwaliteit geen afzonderlijke beoordeling van de luchtkwaliteit plaats voor een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) opgenomen grenswaarde voor die periode, noch voor enig jaar daarna.
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het in betekenende mate bijdragen als bedoeld in het eerste lid, aanhef en onder c, waaronder begrepen het aanwijzen van categorieën van gevallen die in ieder geval al dan niet in betekenende mate bijdragen in de daar bedoelde zin.
 
@@ -9165,23 +9171,23 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld.
 
-6. Buiten een periode als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), of een in een programma als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-09-10&g=2009-09-10), opgenomen periode, blijft het eerste lid, aanhef en onder d, buiten toepassing, met dien verstande dat de uitoefening van een bevoegdheid of de toepassing van een wettelijk voorschrift met betrekking tot een ontwikkeling of voorgenomen besluit dat eerder was genoemd of beschreven in een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-09-10&g=2009-09-10), ook na het verstrijken van de desbetreffende periode mogelijk blijft.
+6. Buiten een periode als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), of een in een programma als bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-11-04&g=2009-11-04), opgenomen periode, blijft het eerste lid, aanhef en onder d, buiten toepassing, met dien verstande dat de uitoefening van een bevoegdheid of de toepassing van een wettelijk voorschrift met betrekking tot een ontwikkeling of voorgenomen besluit dat eerder was genoemd of beschreven in een programma als bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-11-04&g=2009-11-04), ook na het verstrijken van de desbetreffende periode mogelijk blijft.
 
 ##### Artikel 5.16a
 
-1. Bij algemene maatregel van bestuur kan worden bepaald dat de uitoefening van een bevoegdheid of de toepassing van een wettelijk voorschrift, bedoeld in [artikel 5.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.4&artikel=5.16&z=2009-09-10&g=2009-09-10), in daarbij aangewezen categorieën van gevallen waarin een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) opgenomen grenswaarde op of na het tijdstip van ingang wordt overschreden of dreigt te worden overschreden, en waarin de betreffende uitoefening of toepassing betrekking heeft op een bestaand of nieuw te bouwen bouwwerk in de zin van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), op een zodanige wijze plaatsvindt dat deze niet leidt tot een toename van het aantal ter plaatse verblijvende personen met een verhoogde gevoeligheid voor de concentraties in de buitenlucht van een stof waar de betreffende grenswaarde betrekking op heeft.
+1. Bij algemene maatregel van bestuur kan worden bepaald dat de uitoefening van een bevoegdheid of de toepassing van een wettelijk voorschrift, bedoeld in [artikel 5.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.4&artikel=5.16&z=2009-11-04&g=2009-11-04), in daarbij aangewezen categorieën van gevallen waarin een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) opgenomen grenswaarde op of na het tijdstip van ingang wordt overschreden of dreigt te worden overschreden, en waarin de betreffende uitoefening of toepassing betrekking heeft op een bestaand of nieuw te bouwen bouwwerk in de zin van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), op een zodanige wijze plaatsvindt dat deze niet leidt tot een toename van het aantal ter plaatse verblijvende personen met een verhoogde gevoeligheid voor de concentraties in de buitenlucht van een stof waar de betreffende grenswaarde betrekking op heeft.
 
 2. Bij of krachtens de maatregel, bedoeld in het eerste lid, kunnen nadere regels worden gegeven omtrent de wijze waarop uitvoering wordt gegeven aan dat lid, met inbegrip van het beperken van een categorie tot gevallen waarin niet wordt voldaan aan daarbij gestelde eisen met betrekking tot de locatie of afstand van een bouwwerk ten opzichte van een bron of bronnen van luchtverontreiniging.
 
 ##### Artikel 5.17
 
-1. Bij of krachtens algemene maatregel van bestuur aan te wijzen bestuursorganen stellen alle nodige maatregelen vast, gericht op het voor zover mogelijk bereiken van een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) opgenomen richtwaarde binnen de daarvoor gestelde termijn. Deze maatregelen kunnen deel uitmaken van een plan of programma als bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-09-10&g=2009-09-10), [5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-09-10&g=2009-09-10), dan wel van een ander plan of programma.
+1. Bij of krachtens algemene maatregel van bestuur aan te wijzen bestuursorganen stellen alle nodige maatregelen vast, gericht op het voor zover mogelijk bereiken van een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) opgenomen richtwaarde binnen de daarvoor gestelde termijn. Deze maatregelen kunnen deel uitmaken van een plan of programma als bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-11-04&g=2009-11-04), [5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), of [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-11-04&g=2009-11-04), dan wel van een ander plan of programma.
 
 2. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, worden nadere regels gesteld met betrekking tot de in dat lid bedoelde maatregelen, waartoe in elk geval behoren regels omtrent de aard van die maatregelen.
 
 ##### Artikel 5.18
 
-1. De commissaris van de Koningin doet van een overschrijding van een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) genoemde alarmdrempel of informatiedrempel in zijn provincie zo spoedig mogelijk mededeling aan het publiek. Wanneer overschrijding van een informatiedrempel of alarmdrempel voorkomt in samenhang met overschrijding van een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) genoemde grenswaarde voor een andere verontreinigende stof in de buitenlucht, doet de commissaris van de Koningin tevens mededeling van laatstbedoelde overschrijding.
+1. De commissaris van de Koningin doet van een overschrijding van een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) genoemde alarmdrempel of informatiedrempel in zijn provincie zo spoedig mogelijk mededeling aan het publiek. Wanneer overschrijding van een informatiedrempel of alarmdrempel voorkomt in samenhang met overschrijding van een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) genoemde grenswaarde voor een andere verontreinigende stof in de buitenlucht, doet de commissaris van de Koningin tevens mededeling van laatstbedoelde overschrijding.
 
 2. Bij ministeriële regeling worden regels gesteld met betrekking tot de in het eerste lid bedoelde mededeling en de daarbij aan het publiek te verstrekken gegevens alsmede met betrekking tot de wijze waarop uitvoering wordt gegeven aan artikel 24 van de EG-richtlijn luchtkwaliteit.
 
@@ -9189,25 +9195,25 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld.
 
 ##### Artikel 5.19
 
-1. Het beoordelen van de luchtkwaliteit vindt overeenkomstig de bij of krachtens deze paragraaf gestelde regels plaats in alle agglomeraties en zones, aangewezen krachtens [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.5&artikel=5.22&z=2009-09-10&g=2009-09-10).
+1. Het beoordelen van de luchtkwaliteit vindt overeenkomstig de bij of krachtens deze paragraaf gestelde regels plaats in alle agglomeraties en zones, aangewezen krachtens [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.5&artikel=5.22&z=2009-11-04&g=2009-11-04).
 
-2. In afwijking van het eerste lid vindt op de volgende locaties geen beoordeling van de luchtkwaliteit plaats met betrekking tot luchtkwaliteitseisen voor de bescherming van de gezondheid van de mens, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10):
+2. In afwijking van het eerste lid vindt op de volgende locaties geen beoordeling van de luchtkwaliteit plaats met betrekking tot luchtkwaliteitseisen voor de bescherming van de gezondheid van de mens, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04):
 
 - a. locaties die zich bevinden in gebieden waartoe leden van het publiek geen toegang hebben en waar geen vaste bewoning is;
 
-- b. terreinen waarop een of meer inrichtingen zijn gelegen, waar bepalingen betreffende gezondheid en veiligheid op arbeidsplaatsen als bedoeld in [artikel 5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.6&z=2009-09-10&g=2009-09-10), van toepassing zijn;
+- b. terreinen waarop een of meer inrichtingen zijn gelegen, waar bepalingen betreffende gezondheid en veiligheid op arbeidsplaatsen als bedoeld in [artikel 5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.1&artikel=5.6&z=2009-11-04&g=2009-11-04), van toepassing zijn;
 
 - c. de rijbaan van wegen en de middenberm van wegen, tenzij voetgangers normaliter toegang tot de middenberm hebben.
 
 3. Bij het vaststellen van het kwaliteitsniveau worden bij het bepalen van de concentraties verontreinigende stoffen de concentratiebijdragen van natuurlijke bronnen, na afzonderlijk te zijn bepaald, meegerekend.
 
-4. Bij het bepalen van de mate waarin een vastgesteld kwaliteitsniveau voldoet aan een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) opgenomen grenswaarde worden, indien dat kwaliteitsniveau hoger is dan die grenswaarde, de concentratiebijdragen van natuurlijke bronnen steeds in aftrek gebracht.
+4. Bij het bepalen van de mate waarin een vastgesteld kwaliteitsniveau voldoet aan een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) opgenomen grenswaarde worden, indien dat kwaliteitsniveau hoger is dan die grenswaarde, de concentratiebijdragen van natuurlijke bronnen steeds in aftrek gebracht.
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld indien noodzakelijk voor een juiste uitvoering van het eerste tot en met vierde lid.
 
 ##### Artikel 5.20
 
-1. Bij ministeriële regeling worden voor de toepassing van deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) en de op deze titel berustende bepalingen regels gesteld ten aanzien van het beoordelen van de luchtkwaliteit met betrekking tot de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) genoemde stoffen, waartoe in elk geval kunnen behoren regels omtrent:
+1. Bij ministeriële regeling worden voor de toepassing van deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) en de op deze titel berustende bepalingen regels gesteld ten aanzien van het beoordelen van de luchtkwaliteit met betrekking tot de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) genoemde stoffen, waartoe in elk geval kunnen behoren regels omtrent:
 
 - a. de voor beoordeling van de luchtkwaliteit verantwoordelijke bestuursorganen;
 
@@ -9219,7 +9225,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld.
 
 - e. de wijze en het tijdstip waarop verslag wordt gedaan van beoordeling van de luchtkwaliteit en de in het verslag op te nemen gegevens;
 
-- f. de wijze waarop het bereiken van de grenswaarden, bedoeld in de [artikelen 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10) of [5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-09-10&g=2009-09-10) wordt vastgesteld;
+- f. de wijze waarop het bereiken van de grenswaarden, bedoeld in de [artikelen 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04) of [5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.13&z=2009-11-04&g=2009-11-04) wordt vastgesteld;
 
 - g. de wijze waarop de effecten van ontwikkelingen, besluiten en maatregelen als bedoeld in deze titel afzonderlijk en in samenhang worden bepaald en daarbij te gebruiken gegevens;
 
@@ -9247,7 +9253,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld.
 
 ##### Artikel 5.22
 
-1. Onze Minister wijst voor de toepassing van deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) en de op deze titel berustende bepalingen ten behoeve van de metingen en berekeningen van het kwaliteitsniveau zones, onderscheidenlijk agglomeraties, aan.
+1. Onze Minister wijst voor de toepassing van deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) en de op deze titel berustende bepalingen ten behoeve van de metingen en berekeningen van het kwaliteitsniveau zones, onderscheidenlijk agglomeraties, aan.
 
 2. Onze Minister overweegt ten minste eenmaal in de vijf jaar in hoeverre de aanwijzing van zones en agglomeraties, bedoeld in het eerste lid, wijziging behoeft.
 
@@ -9255,7 +9261,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld.
 
 ##### Artikel 5.23
 
-1. Onze Minister kan gedeputeerde staten of burgemeester en wethouders, indien niet of niet tijdig wordt voldaan aan een verplichting als bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-09-10&g=2009-09-10), [5.12, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.14&z=2009-09-10&g=2009-09-10) of [5.19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.5&artikel=5.19&z=2009-09-10&g=2009-09-10), een aanwijzing geven om daar alsnog uitvoering aan te geven. Onze Minister houdt daarbij rekening met een doelmatig luchtkwaliteitsbeleid dat gericht is op het bereiken van en het blijven voldoen aan een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10) genoemde grenswaarde.
+1. Onze Minister kan gedeputeerde staten of burgemeester en wethouders, indien niet of niet tijdig wordt voldaan aan een verplichting als bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-11-04&g=2009-11-04), [5.12, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.14&z=2009-11-04&g=2009-11-04) of [5.19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.5&artikel=5.19&z=2009-11-04&g=2009-11-04), een aanwijzing geven om daar alsnog uitvoering aan te geven. Onze Minister houdt daarbij rekening met een doelmatig luchtkwaliteitsbeleid dat gericht is op het bereiken van en het blijven voldoen aan een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04) genoemde grenswaarde.
 
 2. Bij de aanwijzing wordt een termijn gesteld waarbinnen uitvoering wordt gegeven aan de aanwijzing.
 
@@ -9603,7 +9609,7 @@ Voor zwaveldioxide gelden de volgende grenswaarden voor de bescherming van de ge
 
 Voor zwaveldioxide gelden de volgende grenswaarden voor de bescherming van ecosystemen, in gebieden met een oppervlakte van ten minste 1000 km2 die gelegen zijn op een afstand van ten minste 20 km van agglomeraties of op een afstand van ten minste 5 km van andere gebieden met bebouwing, van inrichtingen, van autosnelwegen of hoofdwegen waarvan per dag meer dan 50 000 motorrijtuigen als bedoeld in [artikel 1 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) gebruik maken, waar het ecosysteem naar het oordeel van het bevoegde bestuursorgaan bijzondere bescherming behoeft:
 
-### Voorschrift 1.3
+### § 1. Grenswaarden en alarmdrempel voor zwaveldioxide
 
 Voor zwaveldioxide geldt 500 microgram per m3 als uurgemiddelde concentratie gedurende drie achtereenvolgende uren, in gebieden van ten minste 100 km2, als alarmdrempel.
 
@@ -9611,7 +9617,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 8.40a
 
-1. Indien bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10) een verplichting is opgenomen voor degene die de inrichting drijft, om daarbij aangegeven maatregelen te treffen, kan daarbij worden bepaald dat diegene in plaats daarvan andere maatregelen kan treffen, wanneer met die andere maatregelen ten minste een gelijkwaardig niveau van bescherming van het milieu wordt bereikt.
+1. Indien bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04) een verplichting is opgenomen voor degene die de inrichting drijft, om daarbij aangegeven maatregelen te treffen, kan daarbij worden bepaald dat diegene in plaats daarvan andere maatregelen kan treffen, wanneer met die andere maatregelen ten minste een gelijkwaardig niveau van bescherming van het milieu wordt bereikt.
 
 2. Degene die de inrichting drijft dient een aanvraag in tot het kunnen treffen van andere maatregelen bij het bestuursorgaan, aangegeven bij de algemene maatregel van bestuur, bedoeld in het eerste lid, welke aanvraag gegevens bevat waaruit blijkt dat met die andere maatregelen ten minste een gelijkwaardig niveau van bescherming van het milieu wordt bereikt.
 
@@ -9619,21 +9625,21 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 8.42a
 
-1. Bij of krachtens algemene maatregel van bestuur als bedoeld in [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10) kan met betrekking tot daarbij aangegeven onderwerpen worden bepaald dat het bevoegd gezag bij het verlenen of wijzigen van de vergunning daaraan voorschriften kan verbinden.
+1. Bij of krachtens algemene maatregel van bestuur als bedoeld in [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04) kan met betrekking tot daarbij aangegeven onderwerpen worden bepaald dat het bevoegd gezag bij het verlenen of wijzigen van de vergunning daaraan voorschriften kan verbinden.
 
-2. Op het stellen van voorschriften als bedoeld in het eerste lid, is [artikel 8.40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10), van overeenkomstige toepassing.
+2. Op het stellen van voorschriften als bedoeld in het eerste lid, is [artikel 8.40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04), van overeenkomstige toepassing.
 
 3. Het bevoegd gezag kan voorschriften stellen die afwijken van de regels, gesteld bij of krachtens de maatregel, bedoeld in het eerste lid, indien dat bij of krachtens die maatregel is bepaald. Bij of krachtens de maatregel kan worden bepaald in welke mate de voorschriften kunnen afwijken en kan worden bepaald dat slechts kan worden afgeweken in daarbij aangegeven categorieën van gevallen.
 
 4. Het bevoegd gezag kan de voorschriften aanvullen, wijzigen of intrekken indien dat nodig is ter bescherming van het milieu.
 
-5. [Artikel 8.42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.42&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+5. [Artikel 8.42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.42&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 ##### Artikel 8.42b
 
-1. Bij of krachtens algemene maatregel van bestuur als bedoeld in [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10) kan met betrekking tot daarbij aangegeven onderwerpen worden bepaald dat bij provinciale of gemeentelijke verordening gestelde regels omtrent die onderwerpen van de bij of krachtens de maatregel gestelde regels kunnen afwijken, in welke mate kan worden afgeweken en kan worden bepaald dat slechts kan worden afgeweken in daarbij aangegeven categorieën van gevallen.
+1. Bij of krachtens algemene maatregel van bestuur als bedoeld in [artikel 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04) kan met betrekking tot daarbij aangegeven onderwerpen worden bepaald dat bij provinciale of gemeentelijke verordening gestelde regels omtrent die onderwerpen van de bij of krachtens de maatregel gestelde regels kunnen afwijken, in welke mate kan worden afgeweken en kan worden bepaald dat slechts kan worden afgeweken in daarbij aangegeven categorieën van gevallen.
 
-2. Op het stellen van provinciale of gemeentelijke regels als bedoeld in het eerste lid, is [artikel 8.40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-09-10&g=2009-09-10), van overeenkomstige toepassing.
+2. Op het stellen van provinciale of gemeentelijke regels als bedoeld in het eerste lid, is [artikel 8.40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.2&artikel=8.40&z=2009-11-04&g=2009-11-04), van overeenkomstige toepassing.
 
 ### Hoofdstuk 9. Stoffen en produkten
 
@@ -9645,7 +9651,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ## Titel 10.2. Het afvalbeheersplan
 
-## Titel 10.4. Het beheer van huishoudelijke en andere afvalstoffen
+## Titel 10.2. Het afvalbeheersplan
 
 ##### Artikel 10.29a
 
@@ -9731,11 +9737,11 @@ Vervallen
 
 #### § 15.2.6. Heffing en invordering
 
-## Titel 15.5. Fonds Luchtverontreiniging
+## Titel 15.2. Verbruiksbelastingen van brandstoffen
 
 ## Titel 15.7. Keuringen
 
-## Titel 15.9A. Rechten
+## Titel 15.3. Voorschriften omtrent het verstrekken van subsidies
 
 ## Titel 15.9A. Rechten
 
@@ -9743,9 +9749,9 @@ Vervallen
 
 ### Hoofdstuk 16. Handel in emissierechten
 
-## Titel 15.9A. Rechten
+## Titel 15.8. Statiegeld, retourpremies
 
-## Titel 15.10. Afvalbeheersbijdragen
+## Titel 15.9. Heffingen op gemeentelijk en provinciaal niveau
 
 #### § 16.2.3.2. Het nationale toewijzingsbesluit, overige toewijzingsbesluiten en de verlening van broeikasgasemissierechten
 
@@ -9759,7 +9765,7 @@ Vervallen
 
 ### Afdeling 16.2.5. De overgang van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
 
-### Afdeling 16.3.3. Het ontstaan van NOx-emissierechten
+### Afdeling 16.2.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, emissie-reductie-eenheden en gecertificeerde emissiereducties, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
 
 ### Afdeling 16.2.5. De overgang van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
 
@@ -9773,7 +9779,7 @@ Vervallen
 
 ##### Artikel 18.2g
 
-Onze Minister van Economische Zaken en Onze Minister van Landbouw, Natuur en Voedselkwaliteit hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de bij of krachtens [titel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&z=2009-09-10&g=2009-09-10) en de EG-verordening PRTR gestelde verplichtingen, voor zover zij ingevolge [artikel 12.21, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.21&z=2009-09-10&g=2009-09-10), als bevoegde instantie zijn aangewezen.
+Onze Minister van Economische Zaken en Onze Minister van Landbouw, Natuur en Voedselkwaliteit hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de bij of krachtens [titel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&z=2009-11-04&g=2009-11-04) en de EG-verordening PRTR gestelde verplichtingen, voor zover zij ingevolge [artikel 12.21, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.21&z=2009-11-04&g=2009-11-04), als bevoegde instantie zijn aangewezen.
 
 ### Hoofdstuk 19. Openbaarheid van milieu-informatie
 
@@ -9791,7 +9797,7 @@ Onze Minister van Economische Zaken en Onze Minister van Landbouw, Natuur en Voe
 
 Vervallen
 
-### Hoofdstuk 22. Slotbepalingen
+### Hoofdstuk 19. Openbaarheid van milieu-informatie
 
 ## Bijlage 1. bij de Wet milieubeheer
 
@@ -9911,7 +9917,7 @@ Voor zwaveldioxide gelden de volgende grenswaarden voor de bescherming van de ge
 
 Voor zwaveldioxide geldt 500 microgram per m3 als uurgemiddelde concentratie gedurende drie achtereenvolgende uren, in gebieden van ten minste 100 km2, als alarmdrempel.
 
-### § 2. Grenswaarden, plandrempels en alarmdrempel voor stikstofdioxide
+### Voorschrift 1.1
 
 ### § 2. Grenswaarden, plandrempels en alarmdrempel voor stikstofdioxide
 
@@ -9935,13 +9941,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 
-**PRTR**: register inzake de emissie en overbrenging van verontreinigende stoffen als bedoeld in [artikel 12.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.3&artikel=12.25&z=2009-09-10&g=2009-09-10);
+**PRTR**: register inzake de emissie en overbrenging van verontreinigende stoffen als bedoeld in [artikel 12.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.3&artikel=12.25&z=2009-11-04&g=2009-11-04);
 
 **PRTR-protocol**: op 21 mei 2003 te Kiev tot stand gekomen Protocol betreffende registers inzake de uitstoot en overbrenging van verontreinigende stoffen, met Bijlagen (Trb. 2003, 153, en Trb. 2007, 95);
 
-**PRTR-verslag**: verslag als bedoeld in [artikel 12.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20&z=2009-09-10&g=2009-09-10);
+**PRTR-verslag**: verslag als bedoeld in [artikel 12.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20&z=2009-11-04&g=2009-11-04);
 
-**verslagjaar**: kalenderjaar waarover ingevolge artikel 5, eerste lid, van de EG-verordening PRTR of [artikel 12.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-09-10&g=2009-09-10), een PRTR-verslag moet worden opgesteld.
+**verslagjaar**: kalenderjaar waarover ingevolge artikel 5, eerste lid, van de EG-verordening PRTR of [artikel 12.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-11-04&g=2009-11-04), een PRTR-verslag moet worden opgesteld.
 
 ##### Artikel 12.19
 
@@ -9951,7 +9957,7 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 12.20
 
-1. Indien degene die een inrichting drijft, ingevolge artikel 5, eerste lid, van de EG-verordening PRTR met betrekking tot een kalenderjaar rapportageplichtig is, zendt hij uiterlijk op 31 maart van het kalenderjaar volgend op het verslagjaar aan de op grond van [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.21&z=2009-09-10&g=2009-09-10) bevoegde instantie langs elektronische weg een verslag bevattende de in artikel 5, eerste en tweede lid, van de EG-verordening PRTR bedoelde gegevens.
+1. Indien degene die een inrichting drijft, ingevolge artikel 5, eerste lid, van de EG-verordening PRTR met betrekking tot een kalenderjaar rapportageplichtig is, zendt hij uiterlijk op 31 maart van het kalenderjaar volgend op het verslagjaar aan de op grond van [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.21&z=2009-11-04&g=2009-11-04) bevoegde instantie langs elektronische weg een verslag bevattende de in artikel 5, eerste en tweede lid, van de EG-verordening PRTR bedoelde gegevens.
 
 2. Het PRTR-verslag voldoet aan de in artikel 9, tweede lid, van de EG-verordening PRTR genoemde kwaliteitseisen.
 
@@ -9959,7 +9965,7 @@ In deze titel en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 12.21
 
-1. Als bevoegde instantie als bedoeld in artikel 2, onder 2, van de EG-verordening PRTR en ingevolge deze titel wordt aangewezen het bestuursorgaan dat voor de inrichting bevoegd is een vergunning krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) van deze wet of [artikel 1 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1) te verlenen, dan wel, in geval op de inrichting de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) van toepassing is, Onze Minister van Economische Zaken.
+1. Als bevoegde instantie als bedoeld in artikel 2, onder 2, van de EG-verordening PRTR en ingevolge deze titel wordt aangewezen het bestuursorgaan dat voor de inrichting bevoegd is een vergunning krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) van deze wet of [artikel 1 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1) te verlenen, dan wel, in geval op de inrichting de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) van toepassing is, Onze Minister van Economische Zaken.
 
 2. In afwijking van het eerste lid wordt Onze Minister van Landbouw, Natuur en Voedselkwaliteit aangewezen als bevoegde instantie voor inrichtingen waar activiteiten worden verricht als bedoeld in bijlage I, nummer 7, onder a, bij de EG-verordening PRTR.
 
@@ -9969,7 +9975,7 @@ De kwaliteitsbeoordeling van het PRTR-verslag, bedoeld in artikel 9, tweede lid,
 
 ##### Artikel 12.23
 
-1. De op grond van [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.21&z=2009-09-10&g=2009-09-10) bevoegde instantie kan uiterlijk op 30 juni van het kalenderjaar volgend op het verslagjaar verklaren dat een PRTR-verslag niet voldoet aan de bij artikel 5, eerste of tweede lid, van de EG-verordening PRTR, de bij of krachtens [artikel 12.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-09-10&g=2009-09-10), van deze wet of de bij artikel 9, tweede lid, van de EG-verordening PRTR gestelde eisen of niet is opgesteld met inachtneming van de bij artikel 5, derde of vierde lid, van de EG-verordening PRTR of de krachtens [artikel 12.29, aanhef en onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.5&artikel=12.29&z=2009-09-10&g=2009-09-10), gestelde eisen.
+1. De op grond van [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.21&z=2009-11-04&g=2009-11-04) bevoegde instantie kan uiterlijk op 30 juni van het kalenderjaar volgend op het verslagjaar verklaren dat een PRTR-verslag niet voldoet aan de bij artikel 5, eerste of tweede lid, van de EG-verordening PRTR, de bij of krachtens [artikel 12.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-11-04&g=2009-11-04), van deze wet of de bij artikel 9, tweede lid, van de EG-verordening PRTR gestelde eisen of niet is opgesteld met inachtneming van de bij artikel 5, derde of vierde lid, van de EG-verordening PRTR of de krachtens [artikel 12.29, aanhef en onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.5&artikel=12.29&z=2009-11-04&g=2009-11-04), gestelde eisen.
 
 2. De bevoegde instantie kan het afgeven van de in het eerste lid bedoelde verklaring voor ten hoogste drie maanden verdagen. Van de verdaging wordt uiterlijk op het in het eerste lid bedoelde tijdstip schriftelijk mededeling gedaan aan degene die de betrokken inrichting drijft.
 
@@ -9985,13 +9991,13 @@ De kwaliteitsbeoordeling van het PRTR-verslag, bedoeld in artikel 9, tweede lid,
 
 ##### Artikel 12.24
 
-1. De op grond van [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.21&z=2009-09-10&g=2009-09-10) bevoegde instanties verstrekken de in de [artikelen 12.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20&z=2009-09-10&g=2009-09-10), en [12.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-09-10&g=2009-09-10), bedoelde gegevens waarvan zij overeenkomstig artikel 9, tweede lid, van de EG-verordening PRTR de kwaliteit hebben beoordeeld, aan Onze Minister. De verstrekking vindt plaats in elektronische vorm telkens uiterlijk op 30 september van het kalenderjaar volgend op het verslagjaar.
+1. De op grond van [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.21&z=2009-11-04&g=2009-11-04) bevoegde instanties verstrekken de in de [artikelen 12.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20&z=2009-11-04&g=2009-11-04), en [12.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-11-04&g=2009-11-04), bedoelde gegevens waarvan zij overeenkomstig artikel 9, tweede lid, van de EG-verordening PRTR de kwaliteit hebben beoordeeld, aan Onze Minister. De verstrekking vindt plaats in elektronische vorm telkens uiterlijk op 30 september van het kalenderjaar volgend op het verslagjaar.
 
 2. Het eerste lid is niet van toepassing:
 
-- a. op gegevens, opgenomen in een PRTR-verslag ten aanzien waarvan een verklaring als bedoeld in [artikel 12.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.23&z=2009-09-10&g=2009-09-10), is afgegeven, en
+- a. op gegevens, opgenomen in een PRTR-verslag ten aanzien waarvan een verklaring als bedoeld in [artikel 12.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.23&z=2009-11-04&g=2009-11-04), is afgegeven, en
 
-- b. indien een verklaring als bedoeld in [artikel 12.23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.23&z=2009-09-10&g=2009-09-10), is afgegeven,
+- b. indien een verklaring als bedoeld in [artikel 12.23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.23&z=2009-11-04&g=2009-11-04), is afgegeven,
 
 in welke gevallen de bevoegde instantie uiterlijk op het in het eerste lid bedoelde tijdstip aan Onze Minister meldt dat een verklaring als bedoeld onder a onderscheidenlijk b is afgegeven.
 
@@ -10003,9 +10009,9 @@ in welke gevallen de bevoegde instantie uiterlijk op het in het eerste lid bedoe
 
 - b. op welke grond tot geheimhouding is besloten.
 
-5. In afwijking van het eerste lid worden gegevens ten aanzien waarvan een verzoek als bedoeld in het derde lid is afgewezen, niet eerder verstrekt dan nadat het betrokken besluit ingevolge [artikel 20.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.3&z=2009-09-10&g=2009-09-10) in werking is getreden. [Artikel 20.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.5&z=2009-09-10&g=2009-09-10) is niet van toepassing.
+5. In afwijking van het eerste lid worden gegevens ten aanzien waarvan een verzoek als bedoeld in het derde lid is afgewezen, niet eerder verstrekt dan nadat het betrokken besluit ingevolge [artikel 20.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.3&z=2009-11-04&g=2009-11-04) in werking is getreden. [Artikel 20.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.5&z=2009-11-04&g=2009-11-04) is niet van toepassing.
 
-6. In afwijking van het tweede lid worden verklaringen als bedoeld in [artikel 12.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.23&z=2009-09-10&g=2009-09-10) niet eerder gemeld dan nadat het betrokken besluit ingevolge [artikel 20.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.3&z=2009-09-10&g=2009-09-10) in werking is getreden. [Artikel 20.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.5&z=2009-09-10&g=2009-09-10) is niet van toepassing.
+6. In afwijking van het tweede lid worden verklaringen als bedoeld in [artikel 12.23](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.23&z=2009-11-04&g=2009-11-04) niet eerder gemeld dan nadat het betrokken besluit ingevolge [artikel 20.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.3&z=2009-11-04&g=2009-11-04) in werking is getreden. [Artikel 20.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=20&paragraaf=20.1&artikel=20.5&z=2009-11-04&g=2009-11-04) is niet van toepassing.
 
 ##### Artikel 12.25
 
@@ -10019,11 +10025,11 @@ in welke gevallen de bevoegde instantie uiterlijk op het in het eerste lid bedoe
 
 ##### Artikel 12.26
 
-1. Het PRTR bevat de door de op grond van [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.21&z=2009-09-10&g=2009-09-10) bevoegde instanties overeenkomstig [artikel 12.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.24&z=2009-09-10&g=2009-09-10), aan Onze Minister verstrekte gegevens alsmede de overeenkomstig [artikel 12.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.24&z=2009-09-10&g=2009-09-10), aan Onze Minister gemelde verklaringen.
+1. Het PRTR bevat de door de op grond van [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.21&z=2009-11-04&g=2009-11-04) bevoegde instanties overeenkomstig [artikel 12.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.24&z=2009-11-04&g=2009-11-04), aan Onze Minister verstrekte gegevens alsmede de overeenkomstig [artikel 12.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.24&z=2009-11-04&g=2009-11-04), aan Onze Minister gemelde verklaringen.
 
 2. Het PRTR bevat tevens gegevens over emissies vanuit diffuse bronnen als bedoeld in artikel 2, negende lid, van het PRTR-protocol, voorzover die gegevens bij Onze Minister aanwezig zijn, die gegevens een voldoende mate van ruimtelijke detaillering bezitten en het opnemen van die gegevens in het PRTR in praktische zin mogelijk is. Indien in het PRTR gegevens over emissies vanuit diffuse bronnen worden opgenomen, wordt tevens aangegeven met behulp van welke methode die gegevens zijn vergaard.
 
-3. Indien een bevoegde instantie bepaalde gegevens met toepassing van [artikel 12.24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.24&z=2009-09-10&g=2009-09-10), niet aan Onze Minister heeft verstrekt, wordt in het PRTR aangegeven:
+3. Indien een bevoegde instantie bepaalde gegevens met toepassing van [artikel 12.24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.24&z=2009-11-04&g=2009-11-04), niet aan Onze Minister heeft verstrekt, wordt in het PRTR aangegeven:
 
 - a. welk type informatie geheim is gehouden;
 
@@ -10031,7 +10037,7 @@ in welke gevallen de bevoegde instantie uiterlijk op het in het eerste lid bedoe
 
 ##### Artikel 12.27
 
-1. Onze Minister maakt de in [artikel 12.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.3&artikel=12.26&z=2009-09-10&g=2009-09-10) bedoelde gegevens per verslagjaar via het PRTR openbaar telkens uiterlijk op 31 maart van het tweede kalenderjaar volgend op het verslagjaar.
+1. Onze Minister maakt de in [artikel 12.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.3&artikel=12.26&z=2009-11-04&g=2009-11-04) bedoelde gegevens per verslagjaar via het PRTR openbaar telkens uiterlijk op 31 maart van het tweede kalenderjaar volgend op het verslagjaar.
 
 2. In afwijking van het eerste lid geschiedt de openbaarmaking met betrekking tot het verslagjaar 2007 uiterlijk op 30 juni 2009.
 
@@ -10049,11 +10055,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen in het belang van de goed
 
 - c. de wijze waarop een PRTR-verslag moet worden opgesteld en de inhoud van een dergelijk verslag;
 
-- d. de geheimhouding van gegevens, bedoeld in de [artikelen 12.24, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.24&z=2009-09-10&g=2009-09-10), en [12.26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.3&artikel=12.26&z=2009-09-10&g=2009-09-10);
+- d. de geheimhouding van gegevens, bedoeld in de [artikelen 12.24, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.24&z=2009-11-04&g=2009-11-04), en [12.26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.3&artikel=12.26&z=2009-11-04&g=2009-11-04);
 
 - e. de wijze waarop de kwaliteitsbeoordeling van een PRTR-verslag, bedoeld in artikel 9, tweede lid, van de EG-verordening PRTR, moet worden uitgevoerd, of
 
-- f. de informatie die mag worden gebruikt om vast te stellen of een inrichting rapportageplichtig is op grond van [artikel 12.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20&z=2009-09-10&g=2009-09-10), of [artikel 12.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-09-10&g=2009-09-10).
+- f. de informatie die mag worden gebruikt om vast te stellen of een inrichting rapportageplichtig is op grond van [artikel 12.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20&z=2009-11-04&g=2009-11-04), of [artikel 12.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 12.30
 
@@ -10091,9 +10097,9 @@ Vervallen
 
 ## Titel 15.7. Keuringen
 
-## Titel 15.8. Statiegeld, retourpremies
+## Titel 15.6. Regulerende verbruiksbelastingen
 
-## Titel 15.9A. Rechten
+## Titel 15.7. Keuringen
 
 ## Titel 15.11. Financiering van de zorg voor gesloten stortplaatsen
 
@@ -10119,7 +10125,7 @@ Vervallen
 
 ### Afdeling 16.3.5. De overgang van NOx-emissierechten
 
-### Afdeling 16.3.5. De overgang van NOx-emissierechten
+### Afdeling 16.3.4. De inlevering van NOx-emissierechten, het compenseren van emissies in een ander kalenderjaar en de geldigheid van NOx-emissierechten
 
 ### Afdeling 16.3.7. Overige bepalingen
 
@@ -10129,7 +10135,7 @@ Vervallen
 
 ##### Artikel 18.2h
 
-Het bevoegd gezag, bedoeld in [artikel 17.5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1A&artikel=17.5a&z=2009-09-10&g=2009-09-10), draagt zorg voor de bestuursrechtelijke handhaving van de krachtens de [artikelen 17.5a tot en met 17.5d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1A&artikel=17.5a&z=2009-09-10&g=2009-09-10) gestelde verplichtingen.
+Het bevoegd gezag, bedoeld in [artikel 17.5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1A&artikel=17.5a&z=2009-11-04&g=2009-11-04), draagt zorg voor de bestuursrechtelijke handhaving van de krachtens de [artikelen 17.5a tot en met 17.5d](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1A&artikel=17.5a&z=2009-11-04&g=2009-11-04) gestelde verplichtingen.
 
 ### Hoofdstuk 19. Openbaarheid van milieu-informatie
 
@@ -10211,41 +10217,41 @@ Voor zwaveldioxide gelden de volgende grenswaarden voor de bescherming van ecosy
 
 Voor stikstofdioxide gelden de volgende plandrempels voor de bescherming van de gezondheid van de mens, gedefinieerd als jaargemiddelde concentraties:
 
-### Voorschrift 2.1
+### Voorschrift 1.2
+
+### Voorschrift 1.3
+
+Voor zwaveldioxide geldt 500 microgram per m3 als uurgemiddelde concentratie gedurende drie achtereenvolgende uren, in gebieden van ten minste 100 km2, als alarmdrempel.
+
+### § 2. Grenswaarden, plandrempels en alarmdrempel voor stikstofdioxide
+
+Voor stikstofdioxide geldt 400 microgram per m3 als uurgemiddelde concentratie gedurende drie achtereenvolgende uren, in gebieden met een oppervlakte van ten minste 100 km2, als alarmdrempel.
+
+### Voorschrift 2.1a
+
+### Voorschrift 2.4
+
+Voor stikstofdioxide geldt 400 microgram per m3 als uurgemiddelde concentratie gedurende drie achtereenvolgende uren, in gebieden met een oppervlakte van ten minste 100 km2, als alarmdrempel.
+
+### § 3. Grenswaarde voor stikstofoxiden
 
 ### Voorschrift 2.3
 
-Voor stikstofdioxide gelden bij de wegen, bedoeld in voorschrift 2.1, onder 2, de volgende plandrempels voor de bescherming van de gezondheid van de mens, gedefinieerd als uurgemiddelde concentraties waarbij geldt dat deze maximaal achttien maal per kalenderjaar mogen worden overschreden:
+Voor stikstofdioxide gelden buiten de krachtens voorschrift 2.1a aangewezen zones en agglomeraties bij de wegen, bedoeld in voorschrift 2.1, tweede lid, de volgende plandrempels voor de bescherming van de gezondheid van de mens, gedefinieerd als uurgemiddelde concentraties waarbij geldt dat deze maximaal achttien maal per kalenderjaar mogen worden overschreden:
 
 ### Voorschrift 2.4
-
-Voor stikstofdioxide geldt 400 microgram per m3 als uurgemiddelde concentratie gedurende drie achtereenvolgende uren, in gebieden met een oppervlakte van ten minste 100 km2, als alarmdrempel.
-
-### § 3. Grenswaarde voor stikstofoxiden
-
-### Voorschrift 2.4
-
-Voor stikstofdioxide geldt 400 microgram per m3 als uurgemiddelde concentratie gedurende drie achtereenvolgende uren, in gebieden met een oppervlakte van ten minste 100 km2, als alarmdrempel.
-
-### § 3. Grenswaarde voor stikstofoxiden
-
-### Voorschrift 3.1
-
-Voor stikstofoxiden geldt 30 microgram per m3 als jaargemiddelde concentratie als grenswaarde voor de bescherming van vegetatie, in gebieden met een oppervlakte van ten minste 1000 km2 die gelegen zijn op een afstand van ten minste 20 km van agglomeraties of op een afstand van ten minste 5 km van andere gebieden met bebouwing, van inrichtingen, van autosnelwegen of hoofdwegen waarvan per dag meer dan 50 000 motorrijtuigen als bedoeld in [artikel 1 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) gebruik maken, waar de vegetatie naar het oordeel van het bevoegde bestuursorgaan bijzondere bescherming behoeft.
-
-### § 4. Grenswaarden voor zwevende deeltjes (PM10); plandrempel, richtwaarden, grenswaarde en blootstellingsconcentratieverplichting voor zwevende deeltjes (PM2,5)
 
 ### Voorschrift 4.1
 
 Voor zwevende deeltjes (PM10) gelden de volgende grenswaarden voor de bescherming van de gezondheid van de mens:
 
-### Voorschrift 4.2
+### Voorschrift 3.1
 
 ### § 6. Grenswaarde voor koolmonoxide
 
 Voor koolmonoxide geldt 10 000 microgram per m3 als acht-uurgemiddelde concentratie als grenswaarde voor de bescherming van de gezondheid van de mens.
 
-### § 7. Grenswaarden en plandrempels voor benzeen
+### Voorschrift 4.1
 
 ### § 7. Grenswaarden en plandrempels voor benzeen
 
@@ -10299,13 +10305,13 @@ Indien de aanvraag om een vergunning betrekking heeft op een afvalvoorziening ca
 
 ##### Artikel 17.5a
 
-1. Indien zich een gebeurtenis voordoet, die gevolgen kan hebben voor de stabiliteit van een afvalvoorziening, of indien bij controle- en monitoringsprocedures met betrekking tot die voorziening blijkt dat nadelige gevolgen voor het milieu zijn ontstaan of dreigen te ontstaan, meldt degene die de afvalvoorziening drijft, dit zo spoedig mogelijk, in elk geval binnen 48 uur, aan het bestuursorgaan dat bevoegd is een vergunning voor die afvalvoorziening te verlenen. [Artikel 17.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+1. Indien zich een gebeurtenis voordoet, die gevolgen kan hebben voor de stabiliteit van een afvalvoorziening, of indien bij controle- en monitoringsprocedures met betrekking tot die voorziening blijkt dat nadelige gevolgen voor het milieu zijn ontstaan of dreigen te ontstaan, meldt degene die de afvalvoorziening drijft, dit zo spoedig mogelijk, in elk geval binnen 48 uur, aan het bestuursorgaan dat bevoegd is een vergunning voor die afvalvoorziening te verlenen. [Artikel 17.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 2. Bij of krachtens algemene maatregel van bestuur worden categorieën van afvalvoorzieningen aangewezen, waarop ingevolge artikel 2, derde lid, van de richtlijn beheer winningsafval deze titel niet van toepassing is.
 
 ##### Artikel 17.5b
 
-Indien de situatie, bedoeld in [artikel 17.5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1A&artikel=17.5a&z=2009-09-10&g=2009-09-10), betrekking heeft op een afvalvoorziening categorie A, voert degene die de afvalvoorziening drijft, onmiddellijk het voor die afvalvoorziening voorgeschreven interne noodplan uit.
+Indien de situatie, bedoeld in [artikel 17.5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1A&artikel=17.5a&z=2009-11-04&g=2009-11-04), betrekking heeft op een afvalvoorziening categorie A, voert degene die de afvalvoorziening drijft, onmiddellijk het voor die afvalvoorziening voorgeschreven interne noodplan uit.
 
 ##### Artikel 17.5c
 
@@ -10319,11 +10325,11 @@ Indien de situatie, bedoeld in [artikel 17.5a, eerste lid](https://wetten.overhe
 
 5. In het geval het bevoegd gezag zelf maatregelen treft of de uitvoering daarvan opdraagt aan derden, verhaalt het de kosten op degene die de activiteiten verricht. [Artikel 5:26 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:26) is van overeenkomstige toepassing.
 
-6. [Artikel 17.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.5&z=2009-09-10&g=2009-09-10) is van overeenkomstige toepassing.
+6. [Artikel 17.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.5&z=2009-11-04&g=2009-11-04) is van overeenkomstige toepassing.
 
 ##### Artikel 17.5d
 
-Deze titel is van overeenkomstige toepassing op gesloten afvalvoorzieningen, met uitzonderingen van die gesloten afvalvoorzieningen ten aanzien waarvan het bevoegd gezag is belast met de nazorg, bedoeld in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-09-10&g=2009-09-10).
+Deze titel is van overeenkomstige toepassing op gesloten afvalvoorzieningen, met uitzonderingen van die gesloten afvalvoorzieningen ten aanzien waarvan het bevoegd gezag is belast met de nazorg, bedoeld in [artikel 8.49](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.3&artikel=8.49&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 18.2g
 
@@ -10413,7 +10419,7 @@ Voor koolmonoxide geldt 10 000 microgram per m3 als acht-uurgemiddelde concentra
 
 Voor benzeen gelden de volgende plandrempels voor de bescherming van de gezondheid van de mens, gedefinieerd als jaargemiddelde concentraties:
 
-Voor stikstofdioxide gelden bij de wegen, bedoeld in voorschrift 2.1, onder 2, de volgende plandrempels voor de bescherming van de gezondheid van de mens, gedefinieerd als uurgemiddelde concentraties waarbij geldt dat deze maximaal achttien maal per kalenderjaar mogen worden overschreden:
+Voor zwaveldioxide gelden de volgende grenswaarden voor de bescherming van de gezondheid van de mens:
 
 ### Voorschrift 2.2
 
@@ -10445,9 +10451,9 @@ Een ieder die beroepshalve een stof, preparaat of genetisch gemodificeerd organi
 
 ##### Artikel 9.2.1.5
 
-1. Bij algemene maatregel van bestuur kan in het belang van de landsverdediging vrijstelling worden verleend van de in [artikel 9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-09-10&g=2009-09-10), [9.2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.3&z=2009-09-10&g=2009-09-10) of [9.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3&artikel=9.3.3&z=2009-09-10&g=2009-09-10) gestelde verplichtingen.
+1. Bij algemene maatregel van bestuur kan in het belang van de landsverdediging vrijstelling worden verleend van de in [artikel 9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-11-04&g=2009-11-04), [9.2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.3&z=2009-11-04&g=2009-11-04) , [9.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3&artikel=9.3.3&z=2009-11-04&g=2009-11-04) of [9.3a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3a&artikel=9.3a.3&z=2009-11-04&g=2009-11-04) gestelde verplichtingen.
 
-2. Bij koninklijk besluit kan in het belang van de landsverdediging ontheffing worden verleend van de bij of krachtens [artikel 9.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.1&artikel=9.2.1.4&z=2009-09-10&g=2009-09-10), [9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-09-10&g=2009-09-10), [9.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.2&z=2009-09-10&g=2009-09-10), [9.2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.6&z=2009-09-10&g=2009-09-10), [9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-09-10&g=2009-09-10), [9.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.2&z=2009-09-10&g=2009-09-10), [9.2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.3&z=2009-09-10&g=2009-09-10), [9.2.3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.5&z=2009-09-10&g=2009-09-10), of [9.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3&artikel=9.3.3&z=2009-09-10&g=2009-09-10) gestelde verboden en verplichtingen.
+2. Bij koninklijk besluit kan in het belang van de landsverdediging ontheffing worden verleend van de bij of krachtens [artikel 9.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.1&artikel=9.2.1.4&z=2009-11-04&g=2009-11-04), [9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-11-04&g=2009-11-04), [9.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.2&z=2009-11-04&g=2009-11-04), [9.2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.6&z=2009-11-04&g=2009-11-04), [9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-11-04&g=2009-11-04), [9.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.2&z=2009-11-04&g=2009-11-04), [9.2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.3&z=2009-11-04&g=2009-11-04), [9.2.3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.5&z=2009-11-04&g=2009-11-04), [9.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3&artikel=9.3.3&z=2009-11-04&g=2009-11-04) of [9.3a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.3a&artikel=9.3a.3&z=2009-11-04&g=2009-11-04) gestelde verboden en verplichtingen.
 
 3. Aan een vrijstelling of ontheffing worden de voorschriften verbonden die nodig zijn in het belang van de bescherming van de gezondheid van de mens en van het milieu.
 
@@ -10491,45 +10497,45 @@ Een ieder die beroepshalve een stof, preparaat of genetisch gemodificeerd organi
 
 ##### Artikel 9.2.2.2
 
-Een algemene maatregel van bestuur waarbij toepassing is gegeven aan [artikel 9.2.2.1, tweede lid, onder b, d, g, i, j, k, l of m](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-09-10&g=2009-09-10), kan tevens de verplichting inhouden te voldoen aan door bestuursorganen die bij de maatregel zijn aangewezen, omtrent onderwerpen die in de maatregel zijn geregeld, gestelde nadere eisen. Bij het stellen van een zodanige eis wordt tevens het tijdstip bepaald waarop ten aanzien van die eis de verplichting ingaat.
+Een algemene maatregel van bestuur waarbij toepassing is gegeven aan [artikel 9.2.2.1, tweede lid, onder b, d, g, i, j, k, l of m](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-11-04&g=2009-11-04), kan tevens de verplichting inhouden te voldoen aan door bestuursorganen die bij de maatregel zijn aangewezen, omtrent onderwerpen die in de maatregel zijn geregeld, gestelde nadere eisen. Bij het stellen van een zodanige eis wordt tevens het tijdstip bepaald waarop ten aanzien van die eis de verplichting ingaat.
 
 ##### Artikel 9.2.2.3
 
-1. Indien toepassing wordt gegeven aan [artikel 9.2.2.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-09-10&g=2009-09-10), worden tevens bij algemene maatregel van bestuur regels gesteld betreffende de wijze waarop de aanvraag om een vergunning geschiedt, en de gegevens die van de aanvrager kunnen worden verlangd.
+1. Indien toepassing wordt gegeven aan [artikel 9.2.2.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-11-04&g=2009-11-04), worden tevens bij algemene maatregel van bestuur regels gesteld betreffende de wijze waarop de aanvraag om een vergunning geschiedt, en de gegevens die van de aanvrager kunnen worden verlangd.
 
 2. De vergunning kan slechts in het belang van de bescherming van de gezondheid van de mens en van het milieu worden geweigerd.
 
-3. Op de voorbereiding van de beschikking op de aanvraag om een vergunning zijn [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&z=2009-09-10&g=2009-09-10) van toepassing. Bij een algemene maatregel van bestuur als bedoeld in het eerste lid kunnen categorieën van gevallen worden aangewezen, waarin [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&z=2009-09-10&g=2009-09-10) geheel of gedeeltelijk buiten toepassing blijven.
+3. Op de voorbereiding van de beschikking op de aanvraag om een vergunning zijn [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&z=2009-11-04&g=2009-11-04) van toepassing. Bij een algemene maatregel van bestuur als bedoeld in het eerste lid kunnen categorieën van gevallen worden aangewezen, waarin [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&z=2009-11-04&g=2009-11-04) geheel of gedeeltelijk buiten toepassing blijven.
 
 4. Een vergunning kan in het belang van de bescherming van de gezondheid van de mens en van het milieu onder beperkingen worden verleend. Aan een vergunning kunnen in het belang van de bescherming van de gezondheid van de mens en van het milieu voorschriften worden verbonden. Deze kunnen, voorzover bij de maatregel niet anders is bepaald, de verplichting inhouden te voldoen aan door bestuursorganen die bij het voorschrift zijn aangewezen, in het belang van de bescherming van de gezondheid van de mens en van het milieu gestelde nadere eisen. Bij het stellen van een zodanige eis wordt tevens het tijdstip bepaald, waarop ten aanzien van die eis de verplichting ingaat.
 
-5. Onverminderd [artikel 18.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.12&z=2009-09-10&g=2009-09-10), kan een vergunning worden ingetrokken indien de handeling aanmerkelijk gevaar oplevert voor de gezondheid van de mens of voor het milieu en wijziging of aanvulling van de aan de vergunning verbonden voorschriften redelijkerwijs geen oplossing kan bieden.
+5. Onverminderd [artikel 18.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.12&z=2009-11-04&g=2009-11-04), kan een vergunning worden ingetrokken indien de handeling aanmerkelijk gevaar oplevert voor de gezondheid van de mens of voor het milieu en wijziging of aanvulling van de aan de vergunning verbonden voorschriften redelijkerwijs geen oplossing kan bieden.
 
 6. Voor zover bij algemene maatregel van bestuur is bepaald, kan de vergunning worden gewijzigd.
 
-7. Op de voorbereiding van een intrekking of wijziging als bedoeld in het vijfde lid, respectievelijk het zesde lid, zijn [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&z=2009-09-10&g=2009-09-10) niet van toepassing.
+7. Op de voorbereiding van een intrekking of wijziging als bedoeld in het vijfde lid, respectievelijk het zesde lid, zijn [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&z=2009-11-04&g=2009-11-04) niet van toepassing.
 
 ##### Artikel 9.2.2.4
 
-Indien toepassing wordt gegeven aan [artikel 9.2.2.1, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-09-10&g=2009-09-10), wijst Onze Minister de instantie aan, die de in die bepaling bedoelde keuring verricht. Bij de maatregel worden regels gesteld ten aanzien van de wijze waarop een zodanige keuring plaatsheeft.
+Indien toepassing wordt gegeven aan [artikel 9.2.2.1, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-11-04&g=2009-11-04), wijst Onze Minister de instantie aan, die de in die bepaling bedoelde keuring verricht. Bij de maatregel worden regels gesteld ten aanzien van de wijze waarop een zodanige keuring plaatsheeft.
 
 ##### Artikel 9.2.2.5
 
-Indien toepassing wordt gegeven aan [artikel 9.2.2.1, tweede lid, onder k, l of m](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-09-10&g=2009-09-10), kan tevens worden bepaald dat de schade, geleden door degene die de stoffen, preparaten, genetisch gemodificeerde organismen of producten moet terugzenden of afgeven, of de kosten, gemaakt door degene die is aangewezen om die stoffen, preparaten, organismen of producten in te zamelen, ten laste kunnen worden gebracht van degenen die deze stoffen, preparaten, organismen of producten hebben vervaardigd of in Nederland ingevoerd. Daarbij kunnen tevens regels worden gesteld inzake de berekening van die schade of kosten en de bepaling van degenen ten laste van wie die schade of kosten worden gebracht.
+Indien toepassing wordt gegeven aan [artikel 9.2.2.1, tweede lid, onder k, l of m](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-11-04&g=2009-11-04), kan tevens worden bepaald dat de schade, geleden door degene die de stoffen, preparaten, genetisch gemodificeerde organismen of producten moet terugzenden of afgeven, of de kosten, gemaakt door degene die is aangewezen om die stoffen, preparaten, organismen of producten in te zamelen, ten laste kunnen worden gebracht van degenen die deze stoffen, preparaten, organismen of producten hebben vervaardigd of in Nederland ingevoerd. Daarbij kunnen tevens regels worden gesteld inzake de berekening van die schade of kosten en de bepaling van degenen ten laste van wie die schade of kosten worden gebracht.
 
 ##### Artikel 9.2.2.6
 
-1. Indien de verwachte of gebleken effecten van stoffen, preparaten of genetisch gemodificeerde organismen op de gezondheid van de mens of op het milieu het stellen van regels als bedoeld in [artikel 9.2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-09-10&g=2009-09-10), naar het oordeel van Onze Minister dringend noodzakelijk maken en naar zijn oordeel de totstandkoming van een algemene maatregel van bestuur krachtens dat artikel niet kan worden afgewacht, kan hij een besluit nemen van de in dat lid bedoelde strekking. Onze Minister neemt een zodanig besluit in overeenstemming met Onze Ministers wie het mede aangaat, tenzij de vereiste spoed zich daartegen naar zijn oordeel verzet. De [artikelen 9.2.2.2 tot en met 9.2.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.2&z=2009-09-10&g=2009-09-10) zijn van overeenkomstige toepassing.
+1. Indien de verwachte of gebleken effecten van stoffen, preparaten of genetisch gemodificeerde organismen op de gezondheid van de mens of op het milieu het stellen van regels als bedoeld in [artikel 9.2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-11-04&g=2009-11-04), naar het oordeel van Onze Minister dringend noodzakelijk maken en naar zijn oordeel de totstandkoming van een algemene maatregel van bestuur krachtens dat artikel niet kan worden afgewacht, kan hij een besluit nemen van de in dat lid bedoelde strekking. Onze Minister neemt een zodanig besluit in overeenstemming met Onze Ministers wie het mede aangaat, tenzij de vereiste spoed zich daartegen naar zijn oordeel verzet. De [artikelen 9.2.2.2 tot en met 9.2.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.2&z=2009-11-04&g=2009-11-04) zijn van overeenkomstige toepassing.
 
 2. Een ministeriële regeling als bedoeld in het eerste lid vervalt een jaar nadat zij in werking is getreden of indien binnen die termijn een algemene maatregel van bestuur ter vervanging van die regeling in werking is getreden, op het tijdstip waarop die maatregel in werking treedt. De termijn kan bij ministeriële regeling eenmaal met ten hoogste een jaar worden verlengd.
 
 ##### Artikel 9.2.2.7
 
-1. Onze Minister kan in bijzondere gevallen van het krachtens [artikel 9.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.1&artikel=9.2.1.4&z=2009-09-10&g=2009-09-10), [9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-09-10&g=2009-09-10) of [9.2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.6&z=2009-09-10&g=2009-09-10) bepaalde op een daartoe strekkende aanvraag ontheffing verlenen, indien het belang van de bescherming van de gezondheid van de mens en van het milieu zich daartegen niet verzet.
+1. Onze Minister kan in bijzondere gevallen van het krachtens [artikel 9.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.1&artikel=9.2.1.4&z=2009-11-04&g=2009-11-04), [9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-11-04&g=2009-11-04) of [9.2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.6&z=2009-11-04&g=2009-11-04) bepaalde op een daartoe strekkende aanvraag ontheffing verlenen, indien het belang van de bescherming van de gezondheid van de mens en van het milieu zich daartegen niet verzet.
 
 2. Een ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen de voorschriften worden verbonden, die naar het oordeel van Onze Minister in het belang van de bescherming van de gezondheid van de mens en van het milieu noodzakelijk zijn.
 
-3. Op de voorbereiding van een beschikking op een aanvraag om een ontheffing als bedoeld eerste lid, zijn [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&z=2009-09-10&g=2009-09-10) van toepassing.
+3. Op de voorbereiding van een beschikking op een aanvraag om een ontheffing als bedoeld eerste lid, zijn [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=13&afdeling=13.2&z=2009-11-04&g=2009-11-04) van toepassing.
 
 4. Een ontheffing kan door Onze Minister worden gewijzigd of ingetrokken, indien dat in het belang van de bescherming van de gezondheid van de mens en van het milieu noodzakelijk is.
 
@@ -10581,7 +10587,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 ##### Artikel 9.2.3.3
 
-1. De verpakking en sluiting die een stof of preparaat als bedoeld in [artikel 9.2.3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-09-10&g=2009-09-10), of een genetisch gemodificeerd organisme rechtstreeks omsluiten, zijn:
+1. De verpakking en sluiting die een stof of preparaat als bedoeld in [artikel 9.2.3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-11-04&g=2009-11-04), of een genetisch gemodificeerd organisme rechtstreeks omsluiten, zijn:
 
 - a. zodanig dat ongewild verlies van de inhoud niet kan plaatsvinden,
 
@@ -10597,19 +10603,19 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 ##### Artikel 9.2.3.4
 
-1. Het aanbevelen of aanprijzen van een stof of preparaat, behorende tot een of meer van de in [artikel 9.2.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-09-10&g=2009-09-10), bedoelde categorieën, zonder vermelding van de categorie of categorieën waartoe die stof of dat preparaat behoort, is verboden.
+1. Het aanbevelen of aanprijzen van een stof of preparaat, behorende tot een of meer van de in [artikel 9.2.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-11-04&g=2009-11-04), bedoelde categorieën, zonder vermelding van de categorie of categorieën waartoe die stof of dat preparaat behoort, is verboden.
 
-2. Het aanduiden van een stof, preparaat of genetisch gemodificeerd organisme op een wijze die misleidend is ten aanzien van de effecten daarvan op de gezondheid van de mens of op het milieu of ten aanzien van het krachtens [artikel 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-09-10&g=2009-09-10) of [9.2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.6&z=2009-09-10&g=2009-09-10) bepaalde, is verboden.
+2. Het aanduiden van een stof, preparaat of genetisch gemodificeerd organisme op een wijze die misleidend is ten aanzien van de effecten daarvan op de gezondheid van de mens of op het milieu of ten aanzien van het krachtens [artikel 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2009-11-04&g=2009-11-04) of [9.2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.6&z=2009-11-04&g=2009-11-04) bepaalde, is verboden.
 
 ##### Artikel 9.2.3.5
 
-1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat in daarbij aangewezen gevallen de [artikelen 9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-09-10&g=2009-09-10), [9.2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.3&z=2009-09-10&g=2009-09-10) en [9.2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.4&z=2009-09-10&g=2009-09-10) geheel of voor een daarbij te bepalen gedeelte niet van toepassing zijn:
+1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat in daarbij aangewezen gevallen de [artikelen 9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-11-04&g=2009-11-04), [9.2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.3&z=2009-11-04&g=2009-11-04) en [9.2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.4&z=2009-11-04&g=2009-11-04) geheel of voor een daarbij te bepalen gedeelte niet van toepassing zijn:
 
 - a. ter uitvoering van een krachtens het Verdrag betreffende de oprichting van de Europese Unie tot stand gekomen bindende regeling of
 
 - b. indien het belang van de bescherming van de gezondheid van de mens en van het milieu zich daartegen niet verzet.
 
-2. Bij of krachtens een maatregel als bedoeld in het eerste lid kunnen regels worden gesteld met betrekking tot de in de [artikelen 9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-09-10&g=2009-09-10), [9.2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.3&z=2009-09-10&g=2009-09-10) en [9.2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.4&z=2009-09-10&g=2009-09-10) geregelde onderwerpen.
+2. Bij of krachtens een maatregel als bedoeld in het eerste lid kunnen regels worden gesteld met betrekking tot de in de [artikelen 9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-11-04&g=2009-11-04), [9.2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.3&z=2009-11-04&g=2009-11-04) en [9.2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.4&z=2009-11-04&g=2009-11-04) geregelde onderwerpen.
 
 ## Titel 9.4. De EG-richtlijn ecologisch ontwerp energieverbruikende producten
 
@@ -10679,7 +10685,7 @@ Vervallen
 
 ## Titel 15.7. Keuringen
 
-## Titel 15.11. Financiering van de zorg voor gesloten stortplaatsen
+## Titel 15.9A. Rechten
 
 ### Hoofdstuk 16. Handel in emissierechten
 
@@ -10703,7 +10709,7 @@ Vervallen
 
 ### Afdeling 16.3.4. De inlevering van NOx-emissierechten, het compenseren van emissies in een ander kalenderjaar en de geldigheid van NOx-emissierechten
 
-### Afdeling 16.3.6. Registratie van NOx-emissierechten
+### Afdeling 16.3.3. Het ontstaan van NOx-emissierechten
 
 ### Afdeling 16.3.6. Registratie van NOx-emissierechten
 
@@ -10713,7 +10719,7 @@ Vervallen
 
 ## Titel 17.1. Maatregelen bij een ongewoon voorval
 
-## Titel 17.1A. Maatregelen betreffende afvalvoorzieningen
+## Titel 17.1. Maatregelen bij een ongewoon voorval
 
 ##### Artikel 17.7
 
@@ -10729,7 +10735,7 @@ Deze titel is van toepassing op:
 
 ##### Artikel 17.8
 
-In afwijking van [artikel 17.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.7&z=2009-09-10&g=2009-09-10) is deze titel niet van toepassing op:
+In afwijking van [artikel 17.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.7&z=2009-11-04&g=2009-11-04) is deze titel niet van toepassing op:
 
 - a. milieuschade of een onmiddellijke dreiging daarvan ten gevolge van:
 
@@ -10763,7 +10769,7 @@ In afwijking van [artikel 17.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&
 
 ##### Artikel 17.9
 
-1. Indien de activiteit waardoor de milieuschade of een onmiddellijke dreiging daarvan wordt veroorzaakt, wordt verricht binnen een inrichting of in het kader van het oprichten, veranderen of in werking hebben van een inrichting, is het bestuursorgaan, bedoeld in [artikel 18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.2&z=2009-09-10&g=2009-09-10), het bevoegd gezag.
+1. Indien de activiteit waardoor de milieuschade of een onmiddellijke dreiging daarvan wordt veroorzaakt, wordt verricht binnen een inrichting of in het kader van het oprichten, veranderen of in werking hebben van een inrichting, is het bestuursorgaan, bedoeld in [artikel 18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.2&z=2009-11-04&g=2009-11-04), het bevoegd gezag.
 
 2. In afwijking van het eerste lid is het bevoegd gezag, indien de milieuschade of een onmiddellijke dreiging daarvan geheel of in hoofdzaak betrekking heeft op wateren, het bestuursorgaan waarbij de betrokken wateren in beheer zijn.
 
@@ -10781,7 +10787,7 @@ In afwijking van [artikel 17.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&
 
 5. Indien in geval van milieuschade of een onmiddellijke dreiging daarvan meer dan een bestuursorgaan als bevoegd gezag is aangewezen, of bij of krachtens deze of een andere wet aan een ander bestuursorgaan bevoegdheden zijn toegekend, wordt tussen deze bestuursorganen tijdig overleg gevoerd, teneinde een zo goed mogelijke afstemming tussen de te nemen besluiten of de te treffen maatregelen te bevorderen. De bestuursorganen stemmen onderling af welk orgaan zich met de coördinatie belast.
 
-6. Indien in geval van milieuschade of een onmiddellijke dreiging daarvan meer dan een bestuursorgaan als bevoegd gezag is aangewezen, wordt een verzoek als bedoeld in [artikel 17.13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.13&z=2009-09-10&g=2009-09-10), of [artikel 17.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.15&z=2009-09-10&g=2009-09-10), gecoördineerd behandeld. Bij de beslissing op een dergelijk verzoek wordt rekening gehouden met de onderlinge samenhang tussen de beschikkingen die op dit verzoek worden gegeven.
+6. Indien in geval van milieuschade of een onmiddellijke dreiging daarvan meer dan een bestuursorgaan als bevoegd gezag is aangewezen, wordt een verzoek als bedoeld in [artikel 17.13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.13&z=2009-11-04&g=2009-11-04), of [artikel 17.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.15&z=2009-11-04&g=2009-11-04), gecoördineerd behandeld. Bij de beslissing op een dergelijk verzoek wordt rekening gehouden met de onderlinge samenhang tussen de beschikkingen die op dit verzoek worden gegeven.
 
 7. Indien in geval van milieuschade of een onmiddellijke dreiging daarvan bij of krachtens deze of een andere wet aan het bevoegd gezag bevoegdheden zijn toegekend, geeft het bevoegd gezag onverminderd die bevoegdheden toepassing aan deze titel en draagt het er zorg voor dat, voor zover het ook uitvoering geeft aan bedoelde bevoegdheden, er geen strijd ontstaat met het bepaalde bij of krachtens deze titel.
 
@@ -10797,9 +10803,9 @@ In afwijking van [artikel 17.7](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&
 
 - d. instructies geven met betrekking tot de maatregelen, bedoeld onder c.
 
-2. Het bevoegd gezag kan zelf elke maatregel als bedoeld in [artikel 17.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.13&z=2009-09-10&g=2009-09-10), alsmede de nodige preventieve of herstelmaatregelen treffen of de uitvoering daarvan opdragen aan derden.
+2. Het bevoegd gezag kan zelf elke maatregel als bedoeld in [artikel 17.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.13&z=2009-11-04&g=2009-11-04), alsmede de nodige preventieve of herstelmaatregelen treffen of de uitvoering daarvan opdragen aan derden.
 
-3. Een beslissing als bedoeld in het eerste lid, onder c, of tweede lid, wordt op schrift gesteld. De schriftelijke beslissing is een beschikking. Van de beschikking wordt mededeling gedaan aan de bestuursorganen of overheidsdiensten, bedoeld in [artikel 17.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-09-10&g=2009-09-10).
+3. Een beslissing als bedoeld in het eerste lid, onder c, of tweede lid, wordt op schrift gesteld. De schriftelijke beslissing is een beschikking. Van de beschikking wordt mededeling gedaan aan de bestuursorganen of overheidsdiensten, bedoeld in [artikel 17.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 17.11
 
@@ -10809,47 +10815,47 @@ De rechthebbende ten aanzien van de plaats waar de activiteit wordt verricht of 
 
 1. Indien door een activiteit een onmiddellijke dreiging van milieuschade ontstaat, treft degene die de activiteit verricht onmiddellijk de nodige preventieve maatregelen.
 
-2. Hij informeert zo spoedig mogelijk het bevoegd gezag over alle relevante aspecten van de situatie. Wanneer de onmiddellijke dreiging van milieuschade ondanks de in het eerste lid bedoelde preventieve maatregelen niet is beëindigd, verstrekt degene die de activiteit verricht aanvullende informatie over de situatie. [Artikel 17.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+2. Hij informeert zo spoedig mogelijk het bevoegd gezag over alle relevante aspecten van de situatie. Wanneer de onmiddellijke dreiging van milieuschade ondanks de in het eerste lid bedoelde preventieve maatregelen niet is beëindigd, verstrekt degene die de activiteit verricht aanvullende informatie over de situatie. [Artikel 17.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
-3. Het bevoegd gezag informeert onverwijld de bestuursorganen of overheidsdiensten, bedoeld in [artikel 17.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-09-10&g=2009-09-10).
+3. Het bevoegd gezag informeert onverwijld de bestuursorganen of overheidsdiensten, bedoeld in [artikel 17.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-11-04&g=2009-11-04).
 
 4. Het bevoegd gezag verplicht degene die de activiteit verricht onmiddellijk de nodige maatregelen te treffen.
 
-5. Het bevoegd gezag stelt belanghebbenden, respectievelijk de bestuursorganen of overheidsdiensten, bedoeld in [artikel 17.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-09-10&g=2009-09-10), in de gelegenheid hun zienswijze naar voren te brengen, respectievelijk advies uit te brengen over het ontwerp van het te nemen besluit, bedoeld in het vierde lid, tenzij de situatie zo spoedeisend is dat een zienswijze of advies niet kan worden afgewacht.
+5. Het bevoegd gezag stelt belanghebbenden, respectievelijk de bestuursorganen of overheidsdiensten, bedoeld in [artikel 17.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-11-04&g=2009-11-04), in de gelegenheid hun zienswijze naar voren te brengen, respectievelijk advies uit te brengen over het ontwerp van het te nemen besluit, bedoeld in het vierde lid, tenzij de situatie zo spoedeisend is dat een zienswijze of advies niet kan worden afgewacht.
 
-6. Het bevoegd gezag betrekt bij de beslissing, bedoeld in het vierde lid, de naar voren gebrachte zienswijzen en houdt bij die beslissing rekening met de uitgebrachte adviezen. Van de beschikking wordt mededeling gedaan aan de bestuursorganen of overheidsdiensten, bedoeld in [artikel 17.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-09-10&g=2009-09-10).
+6. Het bevoegd gezag betrekt bij de beslissing, bedoeld in het vierde lid, de naar voren gebrachte zienswijzen en houdt bij die beslissing rekening met de uitgebrachte adviezen. Van de beschikking wordt mededeling gedaan aan de bestuursorganen of overheidsdiensten, bedoeld in [artikel 17.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 17.13
 
 1. Indien door een activiteit milieuschade ontstaat, treft degene die de activiteit verricht elke haalbare maatregel om de betrokken verontreinigende stoffen of andere schadefactoren onmiddellijk onder controle te houden, in te perken, te verwijderen of anderszins te beheersen, teneinde verdere milieuschade en negatieve effecten op de menselijke gezondheid of verdere aantasting van functies te voorkomen of te beperken.
 
-2. Hij informeert zo spoedig mogelijk het bevoegd gezag over alle relevante aspecten van de situatie. [Artikel 17.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+2. Hij informeert zo spoedig mogelijk het bevoegd gezag over alle relevante aspecten van de situatie. [Artikel 17.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
-3. Het bevoegd gezag informeert onverwijld de bestuursorganen of overheidsdiensten, bedoeld in [artikel 17.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-09-10&g=2009-09-10), alsmede in het geval de milieuschade zich voordoet of kan voordoen buiten de grenzen van Nederland Onze Minister.
+3. Het bevoegd gezag informeert onverwijld de bestuursorganen of overheidsdiensten, bedoeld in [artikel 17.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-11-04&g=2009-11-04), alsmede in het geval de milieuschade zich voordoet of kan voordoen buiten de grenzen van Nederland Onze Minister.
 
 4. Onze Minister informeert na ontvangst van de informatie als bedoeld in het derde lid de regering van het betrokken land of een door die regering aan te wijzen autoriteit of instantie.
 
-5. Het bevoegd gezag verplicht degene die de activiteit verricht onmiddellijk de nodige maatregelen te treffen. [Artikel 17.12, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.12&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+5. Het bevoegd gezag verplicht degene die de activiteit verricht onmiddellijk de nodige maatregelen te treffen. [Artikel 17.12, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.12&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
 6. Degene die de activiteit verricht, stelt in overeenstemming met bijlage II bij EG-richtlijn milieuaansprakelijkheid potentiële herstelmaatregelen vast en legt die aan het bevoegd gezag ter instemming voor.
 
 ##### Artikel 17.14
 
-1. Het bevoegd gezag stelt vast wie de activiteit verricht waardoor milieuschade of de onmiddellijke dreiging daarvan wordt veroorzaakt, alsmede de omvang van de milieuschade. [Artikel 17.13, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.13&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+1. Het bevoegd gezag stelt vast wie de activiteit verricht waardoor milieuschade of de onmiddellijke dreiging daarvan wordt veroorzaakt, alsmede de omvang van de milieuschade. [Artikel 17.13, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.13&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
-2. Indien niet kan worden vastgesteld wie de activiteit verricht waardoor de milieuschade of de onmiddellijke dreiging daarvan wordt veroorzaakt, beslist het bevoegd gezag of het krachtens het bepaalde in deze titel maatregelen treft. [Artikel 17.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.10&z=2009-09-10&g=2009-09-10), is van overeenkomstige toepassing.
+2. Indien niet kan worden vastgesteld wie de activiteit verricht waardoor de milieuschade of de onmiddellijke dreiging daarvan wordt veroorzaakt, beslist het bevoegd gezag of het krachtens het bepaalde in deze titel maatregelen treft. [Artikel 17.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.10&z=2009-11-04&g=2009-11-04), is van overeenkomstige toepassing.
 
-3. Het bevoegd gezag beslist op een verzoek tot instemming als bedoeld in [artikel 17.13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.13&z=2009-09-10&g=2009-09-10), welke herstelmaatregelen in overeenstemming met bijlage II bij EG-richtlijn milieuaansprakelijkheid door degene die de activiteit verricht worden getroffen. Het bevoegd gezag kan verlangen dat bij of ter aanvulling op dit verzoek een beoordeling van de omvang van de schade wordt verstrekt.
+3. Het bevoegd gezag beslist op een verzoek tot instemming als bedoeld in [artikel 17.13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.13&z=2009-11-04&g=2009-11-04), welke herstelmaatregelen in overeenstemming met bijlage II bij EG-richtlijn milieuaansprakelijkheid door degene die de activiteit verricht worden getroffen. Het bevoegd gezag kan verlangen dat bij of ter aanvulling op dit verzoek een beoordeling van de omvang van de schade wordt verstrekt.
 
 4. Indien zich meerdere gevallen van milieuschade voordoen en de nodige herstelmaatregelen niet gelijktijdig kunnen worden getroffen, beslist het bevoegd gezag welke schade het eerst wordt hersteld.
 
-5. Het bevoegd gezag houdt bij het besluit, bedoeld in het tweede, derde en vierde lid, in ieder geval rekening met de aard, de omvang en de ernst van de milieuschade, en met de mogelijkheid van gevaar voor de menselijke gezondheid en van natuurlijke regeneratie. Op dit besluit is [artikel 17.12, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.12&z=2009-09-10&g=2009-09-10), van overeenkomstige toepassing.
+5. Het bevoegd gezag houdt bij het besluit, bedoeld in het tweede, derde en vierde lid, in ieder geval rekening met de aard, de omvang en de ernst van de milieuschade, en met de mogelijkheid van gevaar voor de menselijke gezondheid en van natuurlijke regeneratie. Op dit besluit is [artikel 17.12, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.12&z=2009-11-04&g=2009-11-04), van overeenkomstige toepassing.
 
 ##### Artikel 17.15
 
-1. Belanghebbenden, alsmede de bestuursorganen of overheidsdiensten, bedoeld in [artikel 17.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-09-10&g=2009-09-10), kunnen in geval van milieuschade of een onmiddellijke dreiging daarvan het bevoegd gezag verzoeken een beschikking tot het treffen van maatregelen als bedoeld in [artikel 17.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.10&z=2009-09-10&g=2009-09-10), [artikel 17.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.12&z=2009-09-10&g=2009-09-10), of [artikel 17.13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.13&z=2009-09-10&g=2009-09-10), te geven.
+1. Belanghebbenden, alsmede de bestuursorganen of overheidsdiensten, bedoeld in [artikel 17.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.1&artikel=17.2&z=2009-11-04&g=2009-11-04), kunnen in geval van milieuschade of een onmiddellijke dreiging daarvan het bevoegd gezag verzoeken een beschikking tot het treffen van maatregelen als bedoeld in [artikel 17.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.10&z=2009-11-04&g=2009-11-04), [artikel 17.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.12&z=2009-11-04&g=2009-11-04), of [artikel 17.13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.13&z=2009-11-04&g=2009-11-04), te geven.
 
-2. Onze Minister kan, indien dat in het belang van de bescherming van het milieu geboden is en indien ter zake van een geval van milieuschade of een onmiddellijke dreiging daarvan gedeputeerde staten, burgemeester en wethouders of het dagelijks bestuur van een waterschap het bevoegd gezag is, vorderen dat dit bestuursorgaan binnen een door hem te stellen termijn toepassing geeft aan [artikel 17.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.12&z=2009-09-10&g=2009-09-10), [artikel 17.13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.13&z=2009-09-10&g=2009-09-10), of [artikel 17.14, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.14&z=2009-09-10&g=2009-09-10). De [artikelen 18.8a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.8a&z=2009-09-10&g=2009-09-10), en [18.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.8b&z=2009-09-10&g=2009-09-10) zijn van overeenkomstige toepassing.
+2. Onze Minister kan, indien dat in het belang van de bescherming van het milieu geboden is en indien ter zake van een geval van milieuschade of een onmiddellijke dreiging daarvan gedeputeerde staten, burgemeester en wethouders of het dagelijks bestuur van een waterschap het bevoegd gezag is, vorderen dat dit bestuursorgaan binnen een door hem te stellen termijn toepassing geeft aan [artikel 17.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.12&z=2009-11-04&g=2009-11-04), [artikel 17.13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.13&z=2009-11-04&g=2009-11-04), of [artikel 17.14, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.14&z=2009-11-04&g=2009-11-04). De [artikelen 18.8a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.8a&z=2009-11-04&g=2009-11-04), en [18.8b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.8b&z=2009-11-04&g=2009-11-04) zijn van overeenkomstige toepassing.
 
 ##### Artikel 17.16
 
@@ -11039,55 +11045,55 @@ Interimwet bodemsanering
 
 Voor zwaveldioxide geldt 500 microgram per m3 als uurgemiddelde concentratie gedurende drie achtereenvolgende uren, in gebieden van ten minste 100 km2, als alarmdrempel.
 
-### Voorschrift 2.3
+### Voorschrift 2.1
 
 Voor stikstofdioxide gelden buiten de krachtens voorschrift 2.1a aangewezen zones en agglomeraties bij de wegen, bedoeld in voorschrift 2.1, tweede lid, de volgende plandrempels voor de bescherming van de gezondheid van de mens, gedefinieerd als uurgemiddelde concentraties waarbij geldt dat deze maximaal achttien maal per kalenderjaar mogen worden overschreden:
 
-### Voorschrift 3.1
+### Voorschrift 2.2
 
-Voor stikstofoxiden geldt 30 microgram per m3 als jaargemiddelde concentratie als grenswaarde voor de bescherming van vegetatie, in gebieden met een oppervlakte van ten minste 1000 km2 die gelegen zijn op een afstand van ten minste 20 km van agglomeraties of op een afstand van ten minste 5 km van andere gebieden met bebouwing, van inrichtingen of van autosnelwegen, waar de vegetatie naar het oordeel van het bevoegde bestuursorgaan bijzondere bescherming behoeft.
+Voor stikstofdioxide gelden buiten de krachtens voorschrift 2.1a aangewezen zones en agglomeraties de volgende plandrempels voor de bescherming van de gezondheid van de mens, gedefinieerd als jaargemiddelde concentraties:
 
 ### Voorschrift 4.1
 
 Voor zwevende deeltjes (PM10) gelden de volgende grenswaarden voor de bescherming van de gezondheid van de mens:
 
-### Voorschrift 5.1
+### § 3. Grenswaarde voor stikstofoxiden
 
 Voor lood geldt 0,5 microgram per m3 als jaargemiddelde concentratie als grenswaarde voor de bescherming van de gezondheid van de mens.
 
-### Voorschrift 4.4
+### Voorschrift 4.2
 
 ### § 8. Richtwaarden, informatiedrempel en alarmdrempel voor ozon
 
-Voor ozon geldt een alarmdrempel van 240 microgram per m3 als uurgemiddelde concentratie.
+25 microgram per m3, gedefinieerd als jaargemiddelde concentratie.
 
-### Voorschrift 8.1
+### Voorschrift 4.4
 
-### Voorschrift 4.7
+### Voorschrift 4.5
 
-Voor ozon geldt een informatiedrempel van 180 microgram per m3 als uurgemiddelde concentratie.
+Voor zwevende deeltjes (PM2,5) geldt tot 1 januari 2015 de volgende plandrempel voor de bescherming van de gezondheid van de mens, gedefinieerd als jaargemiddelde concentratie:
 
 ### Voorschrift 5.1
 
-### Voorschrift 8.4
+### Voorschrift 4.6
 
-Voor ozon geldt een alarmdrempel van 240 microgram per m3 als uurgemiddelde concentratie.
+Voor zwevende deeltjes (PM2,5) geldt met ingang van 1 januari 2015 een blootstellingsconcentratieverplichting van ten hoogste 20 microgram per m3, gedefinieerd als gemiddelde blootstellingsindex.
 
-### Voorschrift 6.1
+### Voorschrift 4.7
 
-### Voorschrift 9.1
+### § 5. Grenswaarde voor lood
 
 Voor arseen geldt 6 nanogram per m3 als jaargemiddelde concentratie, gedefinieerd als het totale gehalte arseen in de PM10 fractie, als richtwaarde die op 1 januari 2013 zo veel mogelijk is bereikt, voor de bescherming van de gezondheid van de mens en het milieu.
 
 ### Voorschrift 7.1
 
-### Voorschrift 10.1
+### § 6. Grenswaarde voor koolmonoxide
 
 Voor cadmium geldt 5 nanogram per m3 als jaargemiddelde concentratie, gedefinieerd als het totale gehalte cadmium in de PM10 fractie, als richtwaarde die op 1 januari 2013 zo veel mogelijk is bereikt, voor de bescherming van de gezondheid van de mens en het milieu.
 
 ### § 11. Richtwaarde voor nikkel
 
-### § 8. Richtwaarden, informatiedrempel en alarmdrempel voor ozon
+### § 7. Grenswaarden en plandrempels voor benzeen
 
 Voor nikkel geldt 20 nanogram per m3 als jaargemiddelde concentratie, gedefinieerd als het totale gehalte nikkel in de PM10 fractie, als richtwaarde die op 1 januari 2013 zo veel mogelijk is bereikt, voor de bescherming van de gezondheid van de mens en het milieu.
 
@@ -11111,19 +11117,19 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Afdeling 16.2.3. Het toewijzen en verlenen van broeikasgasemissierechten en het gebruik van emissiereductie-eenheden en gecertificeerde emissiereducties
 
-### Afdeling 16.2.6. Registratie van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
+### Afdeling 16.2.5. De overgang van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
 
 ## Titel 16.3. Stikstofoxiden en NOx-emissierechten
+
+### Afdeling 16.2.6. Registratie van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
+
+### Afdeling 16.3.2. Vergunning
 
 ### Afdeling 16.2.7. Instemming met deelname aan projectactiviteiten
 
 ### Afdeling 16.3.2. Vergunning
 
-### Afdeling 16.3.1. Algemeen
-
 ### Afdeling 16.3.2. Vergunning
-
-### Afdeling 16.3.5. De overgang van NOx-emissierechten
 
 ### Afdeling 16.3.6. Registratie van NOx-emissierechten
 
@@ -11151,29 +11157,29 @@ Onze Minister van Economische Zaken en Onze Minister van Landbouw, Natuur en Voe
 
 ### Hoofdstuk 21. Verdere bepalingen
 
-### Hoofdstuk 22. Slotbepalingen
+### Hoofdstuk 21. Verdere bepalingen
 
 ## Bijlage 2. bij de Wet milieubeheer
 
 Voor zwaveldioxide gelden de volgende grenswaarden voor de bescherming van de gezondheid van de mens:
 
-Voor stikstofdioxide gelden de volgende plandrempels voor de bescherming van de gezondheid van de mens, gedefinieerd als jaargemiddelde concentraties:
+Voor zwaveldioxide gelden de volgende grenswaarden voor de bescherming van ecosystemen, in gebieden met een oppervlakte van ten minste 1000 km2 die gelegen zijn op een afstand van ten minste 20 km van agglomeraties of op een afstand van ten minste 5 km van andere gebieden met bebouwing, van inrichtingen, van autosnelwegen of hoofdwegen waarvan per dag meer dan 50 000 motorrijtuigen als bedoeld in [artikel 1 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) gebruik maken, waar het ecosysteem naar het oordeel van het bevoegde bestuursorgaan bijzondere bescherming behoeft:
 
-Voor zwevende deeltjes (PM10) gelden de volgende grenswaarden voor de bescherming van de gezondheid van de mens:
+In afwijking van voorschrift 2.1 gelden voor een of meer bij algemene maatregel van bestuur aangewezen zones of agglomeraties of een gedeelte daarvan, waarvoor uitstel krachtens artikel 22, eerste lid, juncto vierde lid, van de EG-richtlijn luchtkwaliteit van toepassing is, tot een bij die maatregel genoemd tijdstip, doch uiterlijk tot 1 januari 2015, voor stikstofdioxide de volgende grenswaarden voor de bescherming van de gezondheid van de mens:
 
 Voor lood geldt 0,5 microgram per m3 als jaargemiddelde concentratie als grenswaarde voor de bescherming van de gezondheid van de mens.
 
-Voor koolmonoxide geldt 10 000 microgram per m3 als acht-uurgemiddelde concentratie als grenswaarde voor de bescherming van de gezondheid van de mens.
+Voor stikstofdioxide geldt 400 microgram per m3 als uurgemiddelde concentratie gedurende drie achtereenvolgende uren, in gebieden met een oppervlakte van ten minste 100 km2, als alarmdrempel.
 
-In afwijking van voorschrift 4.1 gelden voor een of meer bij algemene maatregel van bestuur aangewezen zones of agglomeraties of een gedeelte daarvan, waarvoor vrijstelling krachtens artikel 22, tweede lid, juncto vierde lid, van de EG-richtlijn luchtkwaliteit van toepassing is, tot een bij die maatregel genoemd tijdstip, doch uiterlijk tot 11 juni 2011, voor zwevende deeltjes (PM10) de volgende grenswaarden voor de bescherming van de gezondheid van de mens:
+Voor stikstofoxiden geldt 30 microgram per m3 als jaargemiddelde concentratie als grenswaarde voor de bescherming van vegetatie, in gebieden met een oppervlakte van ten minste 1000 km2 die gelegen zijn op een afstand van ten minste 20 km van agglomeraties of op een afstand van ten minste 5 km van andere gebieden met bebouwing, van inrichtingen, van autosnelwegen of hoofdwegen waarvan per dag meer dan 50 000 motorrijtuigen als bedoeld in [artikel 1 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) gebruik maken, waar de vegetatie naar het oordeel van het bevoegde bestuursorgaan bijzondere bescherming behoeft.
+
+### § 4. Grenswaarden voor zwevende deeltjes (PM10); plandrempel, richtwaarden, grenswaarde en blootstellingsconcentratieverplichting voor zwevende deeltjes (PM2,5)
+
+Voor zwevende deeltjes (PM2,5) geldt de volgende richtwaarde voor de bescherming van de gezondheid van de mens, die met ingang van 1 januari 2010 voor zover mogelijk moet worden bereikt:
 
 ### Voorschrift 4.3
 
 Voor zwevende deeltjes (PM2,5) geldt de volgende richtwaarde voor de bescherming van de gezondheid van de mens, die met ingang van 1 januari 2010 voor zover mogelijk moet worden bereikt:
-
-### Voorschrift 7.2
-
-in 2008, 25 microgram per m3, verhoogd met 20%, welk percentage op de daaropvolgende eerste januari en vervolgens iedere 12 maanden met gelijke jaarlijkse percentages wordt verminderd tot 0% op 1 januari 2015.
 
 ### Voorschrift 4.6
 
@@ -11181,33 +11187,33 @@ Voor zwevende deeltjes (PM2,5) geldt met ingang van 1 januari 2015 een blootstel
 
 ### § 5. Grenswaarde voor lood
 
-Voor ozon geldt een informatiedrempel van 180 microgram per m3 als uurgemiddelde concentratie.
+in 2008, 25 microgram per m3, verhoogd met 20%, welk percentage op de daaropvolgende eerste januari en vervolgens iedere 12 maanden met gelijke jaarlijkse percentages wordt verminderd tot 0% op 1 januari 2015.
 
 ### § 6. Grenswaarde voor koolmonoxide
 
 Voor cadmium geldt 5 nanogram per m3 als jaargemiddelde concentratie, gedefinieerd als het totale gehalte cadmium in de PM10 fractie, als richtwaarde die op 1 januari 2013 zo veel mogelijk is bereikt, voor de bescherming van de gezondheid van de mens en het milieu.
 
-### § 7. Grenswaarden en plandrempels voor benzeen
+### Voorschrift 5.1
 
-Voor nikkel geldt 20 nanogram per m3 als jaargemiddelde concentratie, gedefinieerd als het totale gehalte nikkel in de PM10 fractie, als richtwaarde die op 1 januari 2013 zo veel mogelijk is bereikt, voor de bescherming van de gezondheid van de mens en het milieu.
+Voor lood geldt 0,5 microgram per m3 als jaargemiddelde concentratie als grenswaarde voor de bescherming van de gezondheid van de mens.
+
+### Voorschrift 6.1
+
+Voor koolmonoxide geldt 10 000 microgram per m3 als acht-uurgemiddelde concentratie als grenswaarde voor de bescherming van de gezondheid van de mens.
+
+### Voorschrift 7.1
+
+Voor benzeen gelden de volgende grenswaarden voor de bescherming van de gezondheid van de mens, gedefinieerd als jaargemiddelde concentraties:
 
 ### Voorschrift 7.2
 
 Voor benzeen gelden de volgende plandrempels voor de bescherming van de gezondheid van de mens, gedefinieerd als jaargemiddelde concentraties:
 
-### Voorschrift 8.1
-
-De gevallen, bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-01-01&g=2009-01-01), zijn:
-
-### Voorschrift 8.3
-
-Voor ozon geldt een informatiedrempel van 180 microgram per m3 als uurgemiddelde concentratie.
-
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 5.12a
 
-Indien op of na het daarbij behorende tijdstip niet wordt voldaan of dreigt te worden voldaan aan de blootstellingsconcentratieverplichting, opgenomen in [voorschrift 4.6 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-09-10&g=2009-09-10), draagt Onze Minister zorg voor het nemen van maatregelen waardoor aan die verplichting wordt voldaan. Deze maatregelen kunnen deel uitmaken van het programma, bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-09-10&g=2009-09-10).
+Indien op of na het daarbij behorende tijdstip niet wordt voldaan of dreigt te worden voldaan aan de blootstellingsconcentratieverplichting, opgenomen in [voorschrift 4.6 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2&z=2009-11-04&g=2009-11-04), draagt Onze Minister zorg voor het nemen van maatregelen waardoor aan die verplichting wordt voldaan. Deze maatregelen kunnen deel uitmaken van het programma, bedoeld in [artikel 5.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.3&artikel=5.12&z=2009-11-04&g=2009-11-04).
 
 ##### Artikel 5.24
 
@@ -11219,7 +11225,7 @@ Indien op of na het daarbij behorende tijdstip niet wordt voldaan of dreigt te w
 
 #### § 7.1. Algemeen
 
-#### § 7.3. Procedurevoorschriften met betrekking tot besluiten die zijn aangewezen krachtens [artikel 7.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-09-10&g=2009-09-10)
+#### § 7.3. Procedurevoorschriften met betrekking tot besluiten die zijn aangewezen krachtens [artikel 7.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=7&paragraaf=7.2&artikel=7.2&z=2009-11-04&g=2009-11-04)
 
 #### § 7.4a. De voorbereiding van een milieu-effectrapport dat betrekking heeft op een plan
 
@@ -11257,7 +11263,7 @@ Vervallen
 
 #### § 9.2.3. Verpakking, aanduiding en aanbeveling
 
-## Titel 9.4. De EG-richtlijn ecologisch ontwerp energieverbruikende producten
+## Titel 9.3a. De EG-verordening indeling, etikettering en verpakking van stoffen en mengsels
 
 ### Hoofdstuk 10. Afvalstoffen
 
@@ -11273,7 +11279,7 @@ Vervallen
 
 ## Titel 10.7. Het overbrengen van afvalstoffen binnen, naar en uit de Europese Gemeenschap
 
-## Titel 12.1. Registers beschermde gebieden
+## Titel 11.1. Kwaliteit van werkzaamheden en integriteit van degenen die deze werkzaamheden uitvoeren
 
 ##### Artikel 12.10
 
@@ -11285,17 +11291,17 @@ Vervallen
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen andere gegevens dan de in artikel 5, eerste lid, van de EG-verordening PRTR bedoelde gegevens worden aangewezen, die in het PRTR-verslag moeten worden opgenomen. Als gegevens als bedoeld in de eerste volzin worden uitsluitend aangewezen gegevens omtrent de nadelige gevolgen voor het milieu die de inrichting in het verslagjaar heeft veroorzaakt, en die redelijkerwijs nodig zijn voor:
 
-- a. de vervulling door het bestuursorgaan dat bevoegd is een vergunning krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-09-10&g=2009-09-10) van deze wet dan wel [artikel 1 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1) voor de betrokken inrichting te verlenen, van de in [artikel 18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.2&z=2009-09-10&g=2009-09-10) van deze wet onderscheidenlijk [artikel 29 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=29) bedoelde taak,
+- a. de vervulling door het bestuursorgaan dat bevoegd is een vergunning krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=8&titeldeel=8.1&afdeling=8.1.1&artikel=8.1&z=2009-11-04&g=2009-11-04) van deze wet dan wel [artikel 1 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1) voor de betrokken inrichting te verlenen, van de in [artikel 18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=18&artikel=18.2&z=2009-11-04&g=2009-11-04) van deze wet onderscheidenlijk [artikel 29 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=29) bedoelde taak,
 
 - b. de vaststelling van het door die bestuursorganen of andere bestuursorganen te voeren milieubeleid en de controle op de voortgang van de uitvoering van dat beleid, of
 
 - c. de uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie.
 
-2. De artikelen 5, tweede tot en met vijfde lid, en 9, eerste en tweede lid, van de EG-verordening PRTR en [artikel 12.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20&z=2009-09-10&g=2009-09-10), zijn van overeenkomstige toepassing op de krachtens het eerste lid aangewezen gegevens.
+2. De artikelen 5, tweede tot en met vijfde lid, en 9, eerste en tweede lid, van de EG-verordening PRTR en [artikel 12.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20&z=2009-11-04&g=2009-11-04), zijn van overeenkomstige toepassing op de krachtens het eerste lid aangewezen gegevens.
 
 ##### Artikel 12.20b
 
-Degene die de inrichting drijft, zendt gelijktijdig met toezending van het PRTR-verslag aan de op grond van [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.21&z=2009-09-10&g=2009-09-10) bevoegde instantie, langs elektronische weg een afschrift hiervan aan Onze Minister.
+Degene die de inrichting drijft, zendt gelijktijdig met toezending van het PRTR-verslag aan de op grond van [artikel 12.21](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.21&z=2009-11-04&g=2009-11-04) bevoegde instantie, langs elektronische weg een afschrift hiervan aan Onze Minister.
 
 ### Hoofdstuk 13. Procedures voor vergunningen en ontheffingen
 
@@ -11315,7 +11321,7 @@ Degene die de inrichting drijft, zendt gelijktijdig met toezending van het PRTR-
 
 #### § 15.2.5. Tarief
 
-#### § 15.2.6. Heffing en invordering
+#### § 15.2.3. Vrijstelling
 
 ## Titel 15.3. Voorschriften omtrent het verstrekken van subsidies
 
@@ -11323,7 +11329,7 @@ Degene die de inrichting drijft, zendt gelijktijdig met toezending van het PRTR-
 
 ## Titel 15.5. Fonds Luchtverontreiniging
 
-## Titel 15.6. Regulerende verbruiksbelastingen
+## Titel 15.5. Fonds Luchtverontreiniging
 
 ## Titel 15.9. Heffingen op gemeentelijk en provinciaal niveau
 
@@ -11493,11 +11499,11 @@ Voor nikkel geldt 20 nanogram per m3 als jaargemiddelde concentratie, gedefiniee
 
 ### § 13. Gevallen als bedoeld in de [artikelen 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-04-24&g=2009-04-24), en [5.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.10&z=2009-04-24&g=2009-04-24), waarin een plan wordt vastgesteld en uitgevoerd.
 
-### Voorschrift 8.4
+### § 8. Richtwaarden, informatiedrempel en alarmdrempel voor ozon
 
 Voor ozon geldt een alarmdrempel van 240 microgram per m3 als uurgemiddelde concentratie.
 
-### § 9. Richtwaarde voor arseen
+### Voorschrift 8.2
 
 De gevallen, bedoeld in [artikel 5.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.10&z=2009-04-24&g=2009-04-24), zijn: plaatsen waar de in voorschrift 8.1 genoemde richtwaarden voor ozon worden overschreden, waarbij geldt dat in het plan wordt aangegeven op welke wijze zo veel mogelijk voldaan zal worden aan die waarden binnen de daarvoor gestelde termijnen.
 
@@ -11505,11 +11511,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 12.28a
 
-Bij of krachtens algemene maatregel van bestuur wordt bepaald in hoeverre een bestuursorgaan als bedoeld in [artikel 12.20a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-09-10&g=2009-09-10), voorschriften aan de vergunning kan verbinden, die de verplichting inhouden andere gegevens dan de in artikel 5, eerste lid, van de EG-verordening PRTR bedoelde en de krachtens [artikel 12.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-09-10&g=2009-09-10), aangewezen gegevens aan te wijzen, die in het PRTR-verslag moeten worden opgenomen. Als andere gegevens als bedoeld in de eerste volzin worden uitsluitend aangemerkt gegevens:
+Bij of krachtens algemene maatregel van bestuur wordt bepaald in hoeverre een bestuursorgaan als bedoeld in [artikel 12.20a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-11-04&g=2009-11-04), voorschriften aan de vergunning kan verbinden, die de verplichting inhouden andere gegevens dan de in artikel 5, eerste lid, van de EG-verordening PRTR bedoelde en de krachtens [artikel 12.20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-11-04&g=2009-11-04), aangewezen gegevens aan te wijzen, die in het PRTR-verslag moeten worden opgenomen. Als andere gegevens als bedoeld in de eerste volzin worden uitsluitend aangemerkt gegevens:
 
 - a. omtrent de lokale nadelige gevolgen voor het milieu, die de inrichting in het verslagjaar heeft veroorzaakt, en
 
-- b. die redelijkerwijs nodig zijn voor de vervulling door het bestuursorgaan van de in [artikel 12.20a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-09-10&g=2009-09-10), bedoelde taak.
+- b. die redelijkerwijs nodig zijn voor de vervulling door het bestuursorgaan van de in [artikel 12.20a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=12&titeldeel=12.3&paragraaf=12.3.2&artikel=12.20a&z=2009-11-04&g=2009-11-04), bedoelde taak.
 
 ### Hoofdstuk 13. Procedures voor vergunningen en ontheffingen
 
@@ -11519,7 +11525,7 @@ Bij of krachtens algemene maatregel van bestuur wordt bepaald in hoeverre een be
 
 ### Afdeling 13.3. Afvalvoorzieningen categorie A met mogelijke grensoverschrijdende milieugevolgen
 
-#### § 14.2. Coördinatie bij het maken van een milieu-effectrapport
+#### § 14.1. Coördinatie bij aanvragen om een beschikking
 
 #### § 15.2.6. Heffing en invordering
 
@@ -11529,7 +11535,7 @@ Bij of krachtens algemene maatregel van bestuur wordt bepaald in hoeverre een be
 
 ## Titel 16.1. Algemeen
 
-## Titel 16.2. Broeikasgassen en broeikasgasemissierechten
+## Titel 15.12. Financiële tegemoetkomingen
 
 ### Afdeling 16.2.3. Het toewijzen en verlenen van broeikasgasemissierechten en het gebruik van emissiereductie-eenheden en gecertificeerde emissiereducties
 
@@ -11537,13 +11543,13 @@ Bij of krachtens algemene maatregel van bestuur wordt bepaald in hoeverre een be
 
 ## Titel 16.3. Stikstofoxiden en NOx-emissierechten
 
-### Afdeling 16.3.3. Het ontstaan van NOx-emissierechten
+### Afdeling 16.3.1. Algemeen
 
 ### Afdeling 16.3.5. De overgang van NOx-emissierechten
 
-### Afdeling 16.3.7. Overige bepalingen
+### Afdeling 16.3.6. Registratie van NOx-emissierechten
 
-## Titel 17.2. Maatregelen bij milieuschade of een onmiddellijke dreiging daarvan
+## Titel 17.1A. Maatregelen betreffende afvalvoorzieningen
 
 ## Titel 17.3. Maatregelen bij gevaar door stoffen, preparaten of genetisch gemodificeerde organismen
 
@@ -11557,7 +11563,7 @@ Onze Minister van Economische Zaken en Onze Minister van Landbouw, Natuur en Voe
 
 #### § 20.1. Algemeen
 
-#### § 20.3. Advisering inzake beroepen milieubeheer
+#### § 20.2. Beroep tegen besluiten die zijn voorbereid met toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4)
 
 ### Hoofdstuk 21. Verdere bepalingen
 
@@ -11565,33 +11571,223 @@ Onze Minister van Economische Zaken en Onze Minister van Landbouw, Natuur en Voe
 
 ## Bijlage 2. bij de Wet milieubeheer
 
-Voor benzeen gelden de volgende grenswaarden voor de bescherming van de gezondheid van de mens, gedefinieerd als jaargemiddelde concentraties:
+In afwijking van voorschrift 4.1 gelden voor een of meer bij algemene maatregel van bestuur aangewezen zones of agglomeraties of een gedeelte daarvan, waarvoor vrijstelling krachtens artikel 22, tweede lid, juncto vierde lid, van de EG-richtlijn luchtkwaliteit van toepassing is, tot een bij die maatregel genoemd tijdstip, doch uiterlijk tot 11 juni 2011, voor zwevende deeltjes (PM10) de volgende grenswaarden voor de bescherming van de gezondheid van de mens:
 
-### Voorschrift 13.1
+### Voorschrift 8.1
 
 De gevallen, bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-07-15&g=2009-07-15), zijn:
 
-### Voorschrift 9.1
+### Voorschrift 8.3
 
-Voor arseen geldt 6 nanogram per m3 als jaargemiddelde concentratie, gedefinieerd als het totale gehalte arseen in de PM10 fractie, als richtwaarde die met ingang van 1 januari 2013 voor zover mogelijk moet worden bereikt, voor de bescherming van de gezondheid van de mens en het milieu.
+Voor ozon geldt een informatiedrempel van 180 microgram per m3 als uurgemiddelde concentratie.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 18.2i
 
-Het bevoegd gezag, bedoeld in [artikel 17.9, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.9&z=2009-09-10&g=2009-09-10), draagt zorg voor de bestuursrechtelijke handhaving van de bij of krachtens titel 17.2 gestelde verplichtingen.
+Het bevoegd gezag, bedoeld in [artikel 17.9, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=17&titeldeel=17.2&artikel=17.9&z=2009-11-04&g=2009-11-04), draagt zorg voor de bestuursrechtelijke handhaving van de bij of krachtens titel 17.2 gestelde verplichtingen.
 
-25 microgram per m3, gedefinieerd als jaargemiddelde concentratie.
+Voor zwevende deeltjes (PM10) gelden de volgende grenswaarden voor de bescherming van de gezondheid van de mens:
 
-### § 10. Richtwaarde voor cadmium
+### Voorschrift 8.4
 
 ### Voorschrift 10.1
 
 Voor cadmium geldt 5 nanogram per m3 als jaargemiddelde concentratie, gedefinieerd als het totale gehalte cadmium in de PM10 fractie, als richtwaarde die met ingang van 1 januari 2013 voor zover mogelijk moet worden bereikt, voor de bescherming van de gezondheid van de mens en het milieu.
 
-### § 11. Richtwaarde voor nikkel
+### Voorschrift 9.1
 
 ### Voorschrift 11.1
+
+Voor nikkel geldt 20 nanogram per m3 als jaargemiddelde concentratie, gedefinieerd als het totale gehalte nikkel in de PM10 fractie, als richtwaarde die met ingang van 1 januari 2013 voor zover mogelijk moet worden bereikt, voor de bescherming van de gezondheid van de mens en het milieu.
+
+### Voorschrift 10.1
+
+### Voorschrift 12.1
+
+Voor benzo(a)pyreen geldt 1 nanogram per m3 als jaargemiddelde concentratie, gedefinieerd als het totale gehalte benzo(a)pyreen in de PM10 fractie, als richtwaarde die met ingang van 1 januari 2013 voor zover mogelijk moet worden bereikt, voor de bescherming van de gezondheid van de mens en het milieu.
+
+### Voorschrift 11.1
+
+### Voorschrift 13.1
+
+De gevallen, bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-09-10&g=2009-09-10), zijn:
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 9.3a.1
+
+De Minister van Volksgezondheid, Welzijn en Sport wijst bij ministeriële regeling het orgaan aan dat belast is met de uitvoering van de taak, bedoeld in artikel 45, eerste lid, van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels. In de ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van uitvoeren van die taak.
+
+##### Artikel 9.3a.2
+
+Onze Minister van Volksgezondheid, Welzijn en Sport is de bevoegde instantie, bedoeld in artikel 43 van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels, voor zover het betreft het doen van voorstellen voor een geharmoniseerde indeling en etikettering van stoffen en mengsels.
+
+##### Artikel 9.3a.3
+
+1. Het is verboden te handelen in strijd met de volgende bepalingen van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: de artikelen 4, eerste tot en met vierde lid, zevende lid, achtste lid en tiende lid, 7, eerste tot en met derde lid, 13, 15, vierde lid, 17, eerste en tweede lid, 18, eerste tot en met derde lid, 19, eerste en tweede lid, 20, eerste en derde lid, 21, eerste en derde lid, 22, eerste en vierde lid, 23, 25, eerste, tweede en vierde tot en met zesde lid, 28, tweede en derde lid, 29, eerste en derde lid, 30, eerste lid, 31, eerste tot en met vijfde lid, 32, eerste tot en met vierde en zesde lid, 33, eerste tot en met derde lid, 35, eerste en tweede lid, en 48, eerste en tweede lid.
+
+2. Het is eveneens verboden te handelen in strijd met de volgende bepalingen van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: de artikelen 16, eerste lid, 26, eerste en tweede lid, 27, 28, eerste lid, 30, tweede en derde lid, 40, eerste tot en met derde lid, en 49, eerste en tweede lid.
+
+3. Het is verboden handelingen te verrichten of na te laten in strijd met andere bepalingen van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels dan genoemd in het eerste of tweede lid, voor zover die bepalingen ter uitvoering van artikel 47 van die verordening bij algemene maatregel van bestuur zijn aangewezen.
+
+4. Een algemene maatregel van bestuur als bedoeld in het derde lid vervalt een jaar nadat hij in werking is getreden, dan wel, indien binnen die termijn een voorstel van wet tot wijziging van het eerste of tweede lid bij de Staten-Generaal is ingediend, op het tijdstip waarop dat voorstel is verworpen of, na tot wet te zijn verheven, in werking is getreden.
+
+##### Artikel 9.3a.4
+
+Indien een stof of een mengsel overeenkomstig de titels II, III en IV van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels wordt ingedeeld, geëtiketteerd en verpakt, is het bij of krachtens de [artikelen 9.2.3.1, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.1&z=2009-11-04&g=2009-11-04), [9.2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.3&z=2009-11-04&g=2009-11-04) en [9.2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.3&artikel=9.2.3.5&z=2009-11-04&g=2009-11-04) gestelde op die stof of dat mengsel niet van toepassing.
+
+## Titel 9.4. De EG-richtlijn ecologisch ontwerp energieverbruikende producten
+
+### Hoofdstuk 10. Afvalstoffen
+
+## Titel 10.3. Preventie en nuttige toepassing
+
+##### Artikel 10.16b
+
+Vervallen
+
+## Titel 10.6. Het beheer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+
+#### § 10.6.1. De afgifte en ontvangst van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+
+##### Artikel 10.44a
+
+Vervallen
+
+##### Artikel 10.44b
+
+Vervallen
+
+##### Artikel 10.44c
+
+Vervallen
+
+## Titel 10.7. Het overbrengen van afvalstoffen binnen, naar en uit de Europese Gemeenschap
+
+## Titel 10.8. Verdere bepalingen
+
+### Hoofdstuk 12. Verslag-, registratie- en meetverplichtingen
+
+## Titel 12.2. Registratie gegevens externe veiligheid inrichtingen, transportroutes en buisleidingen
+
+#### § 12.3.1. Algemeen
+
+### Hoofdstuk 13. Procedures voor vergunningen en ontheffingen
+
+### Afdeling 13.1. Algemeen
+
+### Afdeling 13.2. Bijzondere bepalingen
+
+### Hoofdstuk 14. Coördinatie
+
+#### § 15.2.4. Teruggaafregeling
+
+#### § 15.2.5. Tarief
+
+#### § 15.2.6. Heffing en invordering
+
+## Titel 15.10. Afvalbeheersbijdragen
+
+## Titel 15.11. Financiering van de zorg voor gesloten stortplaatsen
+
+### Hoofdstuk 16. Handel in emissierechten
+
+## Titel 16.2. Broeikasgassen en broeikasgasemissierechten
+
+### Afdeling 16.2.3. Het toewijzen en verlenen van broeikasgasemissierechten en het gebruik van emissiereductie-eenheden en gecertificeerde emissiereducties
+
+#### § 16.2.3.1. Het nationale toewijzingsplan
+
+#### § 16.2.3.2. Het nationale toewijzingsbesluit, overige toewijzingsbesluiten en de verlening van broeikasgasemissierechten
+
+## Titel 16.3. Stikstofoxiden en NOx-emissierechten
+
+### Afdeling 16.3.5. De overgang van NOx-emissierechten
+
+### Afdeling 16.3.7. Overige bepalingen
+
+### Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
+
+## Titel 17.2. Maatregelen bij milieuschade of een onmiddellijke dreiging daarvan
+
+## Titel 17.3. Maatregelen bij gevaar door stoffen, preparaten of genetisch gemodificeerde organismen
+
+### Hoofdstuk 20. Beroep bij de administratieve rechter
+
+#### § 20.1. Algemeen
+
+#### § 20.3. Advisering inzake beroepen milieubeheer
+
+### Hoofdstuk 22. Slotbepalingen
+
+## Bijlage 1. bij de Wet milieubeheer
+
+Wetten, als bedoeld in [de artikelen 4.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.2&artikel=4.6&z=2009-11-04&g=2009-11-04), [4.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.4&artikel=4.12&z=2009-11-04&g=2009-11-04), en [4.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=4&paragraaf=4.6&artikel=4.19&z=2009-11-04&g=2009-11-04), van de Wet milieubeheer:
+
+[Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
+
+[Waterleidingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246)
+
+[Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267)
+
+[Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555)
+
+[Boswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002357)
+
+[Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670)
+
+[Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402)
+
+[Ontgrondingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002505)
+
+[Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227)
+
+[Wet inzake de luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0002731)
+
+[Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682)
+
+[Grondwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003406)
+
+[Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975)
+
+Interimwet bodemsanering
+
+[Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642)
+
+[Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748)
+
+[Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)
+
+[Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054)
+
+[Wet energiebesparing toestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0003916)
+
+[Wet op de waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575)
+
+[Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641)
+
+[Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606) (**Stb.** 1995, 525)
+
+[Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147)
+
+[Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622)
+
+[Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640)
+
+## Bijlage 2. bij de Wet milieubeheer
+
+Voor ozon geldt een alarmdrempel van 240 microgram per m3 als uurgemiddelde concentratie.
+
+### § 9. Richtwaarde voor arseen
+
+Voor arseen geldt 6 nanogram per m3 als jaargemiddelde concentratie, gedefinieerd als het totale gehalte arseen in de PM10 fractie, als richtwaarde die met ingang van 1 januari 2013 voor zover mogelijk moet worden bereikt, voor de bescherming van de gezondheid van de mens en het milieu.
+
+### § 10. Richtwaarde voor cadmium
+
+Voor cadmium geldt 5 nanogram per m3 als jaargemiddelde concentratie, gedefinieerd als het totale gehalte cadmium in de PM10 fractie, als richtwaarde die met ingang van 1 januari 2013 voor zover mogelijk moet worden bereikt, voor de bescherming van de gezondheid van de mens en het milieu.
+
+### § 11. Richtwaarde voor nikkel
 
 Voor nikkel geldt 20 nanogram per m3 als jaargemiddelde concentratie, gedefinieerd als het totale gehalte nikkel in de PM10 fractie, als richtwaarde die met ingang van 1 januari 2013 voor zover mogelijk moet worden bereikt, voor de bescherming van de gezondheid van de mens en het milieu.
 
@@ -11601,10 +11797,10 @@ Voor nikkel geldt 20 nanogram per m3 als jaargemiddelde concentratie, gedefiniee
 
 Voor benzo(a)pyreen geldt 1 nanogram per m3 als jaargemiddelde concentratie, gedefinieerd als het totale gehalte benzo(a)pyreen in de PM10 fractie, als richtwaarde die met ingang van 1 januari 2013 voor zover mogelijk moet worden bereikt, voor de bescherming van de gezondheid van de mens en het milieu.
 
-### § 13. Gevallen als bedoeld in de [artikelen 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-09-10&g=2009-09-10), en [5.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.10&z=2009-09-10&g=2009-09-10), waarin een plan wordt vastgesteld en uitgevoerd.
+### § 13. Gevallen als bedoeld in de [artikelen 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-11-04&g=2009-11-04), en [5.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.10&z=2009-11-04&g=2009-11-04), waarin een plan wordt vastgesteld en uitgevoerd.
 
 ### Voorschrift 13.1
 
-De gevallen, bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-09-10&g=2009-09-10), zijn:
+De gevallen, bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=5&titeldeel=5.2&paragraaf=5.2.2&artikel=5.9&z=2009-11-04&g=2009-11-04), zijn:
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
