@@ -4,7 +4,7 @@ identifier: "BWBR0012923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2009-03-12"
+last_updated: "2009-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012923"
 soort: "ministeriele-regeling"
@@ -77,9 +77,9 @@ De aanvraag tot registratie, kwalificatie of erkenning dan wel hernieuwde afgift
 
 ##### Artikel 3
 
-1. Onze Minister registreert of kwalificeert op aanvraag een opleidingsinstelling indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2009-03-12&g=2009-03-12) onderscheidenlijk [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11&z=2009-03-12&g=2009-03-12).
+1. Onze Minister registreert of kwalificeert op aanvraag een opleidingsinstelling indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2009-11-05&g=2009-11-05) onderscheidenlijk [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11&z=2009-11-05&g=2009-11-05).
 
-2. Onze Minister erkent een opleidingsinstelling met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2009-03-12&g=2009-03-12).
+2. Onze Minister erkent een opleidingsinstelling met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2009-11-05&g=2009-11-05).
 
 ##### Artikel 4
 
@@ -111,9 +111,9 @@ De aanvraag tot registratie, kwalificatie of erkenning dan wel hernieuwde afgift
 
 ##### Artikel 6
 
-1. Onze Minister registreert of kwalificeert op aanvraag een opleidingsinstelling opnieuw voor de termijn, genoemd in de bijlagen bij JAR-FCL 1.055, JAR-FCL 2.055 en JAR-FCL 4.055, indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2009-03-12&g=2009-03-12), onderscheidenlijk [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11&z=2009-03-12&g=2009-03-12).
+1. Onze Minister registreert of kwalificeert op aanvraag een opleidingsinstelling opnieuw voor de termijn, genoemd in de bijlagen bij JAR-FCL 1.055, JAR-FCL 2.055 en JAR-FCL 4.055, indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2009-11-05&g=2009-11-05), onderscheidenlijk [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11&z=2009-11-05&g=2009-11-05).
 
-2. Onze Minister verlengt op aanvraag de erkenning van een erkende taalbeoordelingsinstantie indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2009-03-12&g=2009-03-12).
+2. Onze Minister verlengt op aanvraag de erkenning van een erkende taalbeoordelingsinstantie indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2009-11-05&g=2009-11-05).
 
 ##### Artikel 7
 
@@ -131,7 +131,7 @@ Een geregistreerde of gekwalificeerde opleidingsinstelling of erkende taalbeoord
 
 2. Het eerste lid is van overeenkomstige toepassing op erkende taalbeoordelingsinstanties.
 
-3. Met betrekking tot het eerste lid zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2009-03-12&g=2009-03-12) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2009-03-12&g=2009-03-12) van overeenkomstige toepassing.
+3. Met betrekking tot het eerste lid zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2009-11-05&g=2009-11-05) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2009-11-05&g=2009-11-05) van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Inhoudelijke eisen voor registratie, kwalificatie en erkenning
 
@@ -139,9 +139,9 @@ Een geregistreerde of gekwalificeerde opleidingsinstelling of erkende taalbeoord
 
 1. Voor registratie van een opleidingsinstelling dient de aanvrager aan de volgende eisen te voldoen:
 
-- a. wat betreft de opleidingsinstelling: de eisen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=1&z=2009-03-12&g=2009-03-12) bij deze regeling;
+- a. wat betreft de opleidingsinstelling: de eisen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=1&z=2009-11-05&g=2009-11-05) bij deze regeling;
 
-- b. wat betreft de aangeboden opleidingen: 1°. voor PPL(A), onderscheidenlijk PPL(H), de eisen, bedoeld in JAR-FCL 1.125, onderscheidenlijk JAR-FCL 2.125; 2°. voor SE-SPA CR de eisen, bedoeld in JAR-FCL 1.261; 3°. voor RPL de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2009-03-12&g=2009-03-12) bij deze regeling; 4°. voor RFI de eisen, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2009-03-12&g=2009-03-12) bij deze regeling; 5°. voor TR(H) de eisen, bedoeld in JAR-FCL 2.240; 6°. voor de module RT de eisen, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2009-03-12&g=2009-03-12) bij deze regeling.
+- b. wat betreft de aangeboden opleidingen: 1°. voor PPL(A), onderscheidenlijk PPL(H), de eisen, bedoeld in JAR-FCL 1.125, onderscheidenlijk JAR-FCL 2.125; 2°. voor SE-SPA CR de eisen, bedoeld in JAR-FCL 1.261; 3°. voor RPL de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2009-11-05&g=2009-11-05) bij deze regeling; 4°. voor RFI de eisen, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2009-11-05&g=2009-11-05) bij deze regeling; 5°. voor TR(H) de eisen, bedoeld in JAR-FCL 2.240; 6°. voor de module RT de eisen, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2009-11-05&g=2009-11-05) bij deze regeling.
 
 2. Het eerste lid, onderdeel a, is niet van toepassing op de registratie van een opleidingsinstelling met betrekking tot de module RT.
 
@@ -149,13 +149,13 @@ Een geregistreerde of gekwalificeerde opleidingsinstelling of erkende taalbeoord
 
 Voor kwalificatie van een opleidingsinstelling dient de aanvrager aan de volgende eisen te voldoen:
 
-- a. voor een FTO onderscheidenlijk TRTO voor vliegtuigen, helikopters, respectievelijk boordwerktuigkundigen: de eisen, bedoeld in JAR-FCL 1.055, JAR-FCL 2.055, onderscheidenlijk JAR-FCL 4.055, met dien verstande dat een financiële verklaring als bedoeld in [artikel 4, eerste lid, onderdeel d, onder 12° of onderdeel e, onder 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2009-03-12&g=2009-03-12), dan wel een accountantsverklaring als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2009-03-12&g=2009-03-12), aan Onze Minister is overgelegd;
+- a. voor een FTO onderscheidenlijk TRTO voor vliegtuigen, helikopters, respectievelijk boordwerktuigkundigen: de eisen, bedoeld in JAR-FCL 1.055, JAR-FCL 2.055, onderscheidenlijk JAR-FCL 4.055, met dien verstande dat een financiële verklaring als bedoeld in [artikel 4, eerste lid, onderdeel d, onder 12° of onderdeel e, onder 11°](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2009-11-05&g=2009-11-05), dan wel een accountantsverklaring als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2009-11-05&g=2009-11-05), aan Onze Minister is overgelegd;
 
 - b. wat betreft de aangeboden opleidingen:
 
 - 1°. de opleidingen worden in delen of als geheel aangeboden voor zover dat ingevolge tabel 1a mogelijk is,
 
-- 2°. de opleidingen voldoen aan de relevante eisen, bedoeld in de tabellen 1a, 1b of 2 bij dit artikel of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2009-03-12&g=2009-03-12) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2009-03-12&g=2009-03-12) bij deze regeling,
+- 2°. de opleidingen voldoen aan de relevante eisen, bedoeld in de tabellen 1a, 1b of 2 bij dit artikel of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2009-11-05&g=2009-11-05) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2009-11-05&g=2009-11-05) bij deze regeling,
 
 - 3°. de opleidingsinstelling zorgt ervoor dat de aanvrager voor een IR voor vliegtuigen respectievelijk helikopters voldoet aan de eisen, bedoeld in JAR-FCL 1.200, respectievelijk JAR-FCL 2.200.
 
@@ -189,7 +189,7 @@ Tabel 1a
 | MPL(A) | bijlage 1 bij JAR-FCL 1.310(d) |   |
 | Instructeurs |   |   |
 | Trainingscursus |   |   |
-| RT | [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2009-03-12&g=2009-03-12) bij de deze regeling | [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2009-03-12&g=2009-03-12) bij deze regeling |
+| RT | [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2009-11-05&g=2009-11-05) bij de deze regeling | [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2009-11-05&g=2009-11-05) bij deze regeling |
 
 | TRTO | TRTO | TRTO |
 | --- | --- | --- |
@@ -206,6 +206,7 @@ Tabel 1a
 | TR(E) | JAR-FCL 1.261, bijlage 1 bij JAR-FCL 1.261 |   |
 | HPA | bijlage 1 bij JAR-FCL 1.251 |   |
 | TR(H) SP-ME pre-entry |   | JAR-FCL 2.255, bijlage 1 bij JAR-FCL 2.255 |
+| IR-ME | Bijlage 1 bij JAR-FCL 1.205 - |   |
 
 ### Hoofdstuk 4. Slotbepalingen
 
