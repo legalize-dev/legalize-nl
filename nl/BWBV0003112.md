@@ -4,7 +4,7 @@ identifier: "BWBV0003112"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-11-05"
-last_updated: "2008-04-25"
+last_updated: "2009-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003112"
 soort: "verdrag"
@@ -70,9 +70,9 @@ Dit Verdrag is van toepassing op belastingen naar het inkomen en op winstbelasti
 
 ### HOOFDSTUK II. WINSTCORRECTIES TUSSEN VERBONDEN ONDERNEMINGEN
 
-##### Artikel 3. Reikwijdte van [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&z=2008-04-25&g=2008-04-25)
+##### Artikel 3. Reikwijdte van [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&z=2009-11-05&g=2009-11-05)
 
-1. [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&z=2008-04-25&g=2008-04-25) van dit Verdrag is van toepassing indien, ten behoeve van de belastingheffing, winsten die zijn begrepen in de winst van een onderneming van een Partij, tevens zijn begrepen of waarschijnlijk zullen worden begrepen in de winst van een onderneming van de andere Partij vanwege het feit dat de grondbeginselen die worden uiteengezet in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&artikel=4&z=2008-04-25&g=2008-04-25), en die hetzij rechtstreeks, hetzij via vergelijkbare wettelijke bepalingen van de desbetreffende Partij worden toegepast, niet in acht zijn genomen.
+1. [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&z=2009-11-05&g=2009-11-05) van dit Verdrag is van toepassing indien, ten behoeve van de belastingheffing, winsten die zijn begrepen in de winst van een onderneming van een Partij, tevens zijn begrepen of waarschijnlijk zullen worden begrepen in de winst van een onderneming van de andere Partij vanwege het feit dat de grondbeginselen die worden uiteengezet in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&artikel=4&z=2009-11-05&g=2009-11-05), en die hetzij rechtstreeks, hetzij via vergelijkbare wettelijke bepalingen van de desbetreffende Partij worden toegepast, niet in acht zijn genomen.
 
 2. Het eerste lid is eveneens van toepassing, indien een van de betrokken ondernemingen geen winst heeft gemaakt maar verlies heeft geleden.
 
@@ -86,17 +86,17 @@ Indien:
 
 ##### Artikel 5. Algemene bepaling
 
-Indien een Partij voornemens is de winsten van een onderneming in overeenstemming met de beginselen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&artikel=4&z=2008-04-25&g=2008-04-25) te corrigeren, stelt zij de onderneming daarvan tijdig op de hoogte en stelt zij haar in de gelegenheid de andere onderneming op de hoogte te stellen, teneinde die andere onderneming op haar beurt in de gelegenheid te stellen de andere Partij op de hoogte te stellen. Dit belet de Partij die een dergelijke kennisgeving doet uitgaan evenwel niet de voorgestelde correctie te verrichten.
+Indien een Partij voornemens is de winsten van een onderneming in overeenstemming met de beginselen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&artikel=4&z=2009-11-05&g=2009-11-05) te corrigeren, stelt zij de onderneming daarvan tijdig op de hoogte en stelt zij haar in de gelegenheid de andere onderneming op de hoogte te stellen, teneinde die andere onderneming op haar beurt in de gelegenheid te stellen de andere Partij op de hoogte te stellen. Dit belet de Partij die een dergelijke kennisgeving doet uitgaan evenwel niet de voorgestelde correctie te verrichten.
 
 ##### Artikel 6. Procedures voor onderling overleg
 
-1. Indien een onderneming van oordeel is dat, in gevallen waarop dit Verdrag van toepassing is, de beginselen vervat in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&artikel=4&z=2008-04-25&g=2008-04-25) niet zijn geëerbiedigd, kan zij, onverminderd de in het nationale recht van de betrokken Partij voorziene rechtsmiddelen, haar zaak voorleggen aan de bevoegde autoriteit van de Partij waarvan zij een onderneming is. De zaak dient binnen drie jaar na de eerste kennisgeving van de maatregel die in strijd is of mogelijk in strijd is met de grondbeginselen vervat in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&artikel=4&z=2008-04-25&g=2008-04-25) te worden voorgelegd. De bevoegde autoriteit stelt vervolgens de bevoegde autoriteit van de andere Partij onverwijld in kennis.
+1. Indien een onderneming van oordeel is dat, in gevallen waarop dit Verdrag van toepassing is, de beginselen vervat in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&artikel=4&z=2009-11-05&g=2009-11-05) niet zijn geëerbiedigd, kan zij, onverminderd de in het nationale recht van de betrokken Partij voorziene rechtsmiddelen, haar zaak voorleggen aan de bevoegde autoriteit van de Partij waarvan zij een onderneming is. De zaak dient binnen drie jaar na de eerste kennisgeving van de maatregel die in strijd is of mogelijk in strijd is met de grondbeginselen vervat in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&artikel=4&z=2009-11-05&g=2009-11-05) te worden voorgelegd. De bevoegde autoriteit stelt vervolgens de bevoegde autoriteit van de andere Partij onverwijld in kennis.
 
 2. De bevoegde autoriteit tracht, indien het bezwaar haar gegrond voorkomt en indien zij niet zelf in staat is tot een bevredigende oplossing te komen, de aangelegenheid in onderlinge overeenstemming met de bevoegde autoriteit van de andere Partij te regelen teneinde belastingheffing die niet in overeenstemming is met het Verdrag te vermijden. De overeengekomen regeling wordt uitgevoerd ongeacht in de nationale wetgeving van de Partijen voorkomende verjaringstermijnen.
 
 3. De bevoegde autoriteiten van de Partijen kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde de in het voorgaande lid bedoelde overeenstemming te bereiken.
 
-4. De bevoegde autoriteit van een Partij is niet verplicht de procedure voor onderling overleg in gang te zetten, indien een gerechtelijke of administratieve procedure heeft geleid tot een definitieve uitspraak dat een van de betrokken ondernemingen, wegens handelingen die aanleiding geven tot een correctie van de overdracht van winsten uit hoofde van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&artikel=4&z=2008-04-25&g=2008-04-25), een aanmerkelijke boete verschuldigd is. De bevoegde autoriteit van een Partij is voorts niet verplicht een procedure voor onderling overleg in gang te zetten, indien de onderneming, voordat de aanslag waarvan de correctie deel uitmaakt definitief werd, niet heeft voldaan aan de nationale vereisten inzake documentatie en/of informatie van de Partij die de correctie verricht.
+4. De bevoegde autoriteit van een Partij is niet verplicht de procedure voor onderling overleg in gang te zetten, indien een gerechtelijke of administratieve procedure heeft geleid tot een definitieve uitspraak dat een van de betrokken ondernemingen, wegens handelingen die aanleiding geven tot een correctie van de overdracht van winsten uit hoofde van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&artikel=4&z=2009-11-05&g=2009-11-05), een aanmerkelijke boete verschuldigd is. De bevoegde autoriteit van een Partij is voorts niet verplicht een procedure voor onderling overleg in gang te zetten, indien de onderneming, voordat de aanslag waarvan de correctie deel uitmaakt definitief werd, niet heeft voldaan aan de nationale vereisten inzake documentatie en/of informatie van de Partij die de correctie verricht.
 
 5. De Partijen kunnen ook andere vormen van geschillenbeslechting, met inbegrip van arbitrage, overeenkomen.
 
@@ -112,7 +112,7 @@ De bevoegde autoriteiten van de Partijen kunnen de voorwaarden overeenkomen voor
 
 ##### Artikel 8. Inwerkingtreding
 
-1. Dit Verdrag treedt in werking 30 dagen na de ontvangst door de laatste Partij van een schriftelijke kennisgeving dat alle wettelijke formaliteiten voor de inwerkingtreding zijn afgerond. Het Verdrag is van toepassing op de procedures bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&artikel=6&z=2008-04-25&g=2008-04-25), die ingesteld zijn na de inwerkingtreding ervan.
+1. Dit Verdrag treedt in werking 30 dagen na de ontvangst door de laatste Partij van een schriftelijke kennisgeving dat alle wettelijke formaliteiten voor de inwerkingtreding zijn afgerond. Het Verdrag is van toepassing op de procedures bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003112&hoofdstuk=II&artikel=6&z=2009-11-05&g=2009-11-05), die ingesteld zijn na de inwerkingtreding ervan.
 
 2. Onverminderd het eerste lid van dit artikel, treedt het Verdrag uitsluitend in werking indien het [Verdrag tussen de Staten van Guernsey en het Koninkrijk der Nederlanden inzake de uitwisseling van informatie betreffende belastingzaken](https://wetten.overheid.nl/jci1.3:c:BWBV0003161) van kracht is voor zowel strafrechtelijke als civiele belastingzaken.
 
