@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-11-01"
+last_updated: "2009-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - 4°. extreme meteorologische omstandigheden die een vertraging danwel uitwijken rechtvaardigen.
 
-6. Op aanvraag kan de Minister besluiten dat het vierde lid tot en met 31 oktober 2009 niet van toepassing is indien de aanvrager in de dienstregeling van 2009 reeds geplande landingstijden gepubliceerd had tussen 06.00 uur en 06.30 uur plaatselijke tijd en niet kan voldoen aan de in het vierde lid gestelde eisen.
+6. Op aanvraag kan de Minister besluiten dat het vierde lid tot en met 31 oktober 2010 niet van toepassing is indien de aanvrager in de dienstregeling van 2010 reeds geplande landingstijden gepubliceerd had tussen 06.00 uur en 06.30 uur plaatselijke tijd en niet kan voldoen aan de in het vierde lid gestelde eisen.
 
 ##### Artikel 4
 
@@ -106,11 +106,7 @@ Voor het uitvoeren van een IFR-vlucht in het RVSM-luchtruim in het vluchtinforma
 
 ##### Artikel 7
 
-1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam, behalve in gebieden met de classificatie G beneden 1200 voet AMSL buiten de NSA Amsterdam, is een luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS en met automatische hoogterapportering in mode C, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
-
-- a. uitgerust met een SSR-transponder met mode S/ELS, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, of
-
-- b. indien het eerste bewijs van luchtwaardigheid met betrekking tot het desbetreffende luchtvaartuig is afgegeven na 30 maart 2005, uitgerust met een SSR-transponder met mode S/ELS, die voldoet aan de eisen bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart.
+1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam, behalve in gebieden met de classificatie G beneden 1200 voet AMSL buiten de NSA Amsterdam, is een luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS, die voldoet aan de eisen bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart.
 
 2. Het eerste lid is niet van toepassing op een zweefvliegtuig, zeilvliegtuig, schermvliegtuig of ballon tenzij een zweefvliegtuig, zeilvliegtuig, schermvliegtuig of ballon zich bevindt in de door de Minister in overeenstemming met de Minister van Defensie voor transpondergebruik aangewezen bijzondere luchtverkeersgebieden als bedoeld in de [Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899).
 
@@ -232,7 +228,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2009-10-31&g=2009-11-01) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2009-11-05&g=2009-11-05) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
