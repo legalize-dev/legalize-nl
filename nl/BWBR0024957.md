@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-11-03"
+last_updated: "2009-11-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Besluit:
 | 3.2 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationaal innoveren) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Opkomende markten innovatieprojecten | 01-01 t/m 06-03 15-06 t/m 03-07 01-10 t/m 31-12 | 2.800.000 3.200.000 3.000.000 |
 | 3.3 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (IOP’s) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=3.2) |   | – | – |
 |   |   |   | Genomics (periode vooraanmelding) | 01-09 t/m 17-09 | – |
-|   |   |   | Genomics |   |   |
+|   |   |   | Genomics | Datum van inwerkingtreding van deze regeling t/m 17/11 | 300.000 |
 |   |   |   | EMVT (periode vooraanmelding) |   | – |
 |   |   |   | EMVT |   |   |
 |   |   |   | Precisietechnologie (periode vooraanmelding) |   | – |
@@ -197,7 +197,7 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 
-2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-11-03&g=2009-11-03), is van overeenkomstige toepassing.
+2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-11-13&g=2009-11-13), is van overeenkomstige toepassing.
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
