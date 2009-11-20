@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-11-13"
+last_updated: "2009-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -197,15 +197,17 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 
-2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-11-13&g=2009-11-13), is van overeenkomstige toepassing.
+2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-11-20&g=2009-11-20), is van overeenkomstige toepassing.
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
 | Nr. | Regeling | Artikel | Groep | Openstelling 2009 en 2010 | Plafond € |
-| Tijdelijke energieregeling markt en innovatie | Tijdelijke energieregeling markt en innovatie | Tijdelijke energieregeling markt en innovatie | Tijdelijke energieregeling markt en innovatie | Tijdelijke energieregeling markt en innovatie | Tijdelijke energieregeling markt en innovatie |
-| 1.1 | Tijdelijke energieregeling markt en innovatie (investeringen voor verlaging elektriciteitsaansluiting van warmtepomphouders) | 7.2 |   | 1-9-2009 t/m 15-12-2010 | 4.290.000 |
-| 1.2 | Tijdelijke energieregeling markt en innovatie (Risico’s dekken voor aardwarmte) | 8.2 |   | 3 november 2009 t/m 1 mei 2010 | 35.700.000 |
-| 1.3 | Tijdelijke energieregeling Markt en innovatie (Bioraffinage) | 9.2, eerste lid, sub a en c | Periode vooraanmelding (demonstratieprojecten) | 2-11 t/m 9-12 |   |
+| [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) |
+| 1.1 | Tijdelijke energieregeling markt en innovatie (investeringen voor verlaging elektriciteitsaansluiting van warmtepomphouders) | [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=7.2) |   | 1-9-2009 t/m 15-12-2010 | 4.290.000 |
+| 1.2 | Tijdelijke energieregeling markt en innovatie (Risico’s dekken voor aardwarmte) | [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=8.2) |   | 3 november 2009 t/m 1 mei 2010 | 35.700.000 |
+| 1.3 | Tijdelijke energieregeling Markt en innovatie (Bioraffinage) | [9.2, eerste lid, sub a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=9.2) | Periode vooraanmelding (demonstratieprojecten) | 2-11 t/m 9-12 |   |
 |   |   |   | Demonstratieprojecten | 1-1-2010 t/m 15-3-2010 | 8.000.000 |
-|   |   | 9.2, eerste lid, sub b en c | Periode vooraanmelding (pilotprojecten) | 2-11 t/m 9-12 |   |
+|   |   | [9.2, eerste lid, sub b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=9.2) | Periode vooraanmelding (pilotprojecten) | 2-11 t/m 9-12 |   |
 |   |   |   | Pilotprojecten | 1-1-2010 t/m 15-3-2010 | 2.000.000 |
+| 1.4 | Tijdelijke energieregeling markt en innovatie (Voorbereidingsstudies en demonstratieprojecten vergassing) | [10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=10.2) | Voorbereidings studies | Datum van inwerkingtreding van [artikel 10.2 van de Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=10.2) t/m 31-03-10 | 200.000 |
+| 1.5 | Tijdelijke energieregeling markt en innovatie (Experimenteerregeling Wind op Zee) | [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=11.2) |   | Datum van inwerkingtreding van [artikel 11.2 van de Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=11.2) t/m 28-01-2010 | 9.000.000 |
