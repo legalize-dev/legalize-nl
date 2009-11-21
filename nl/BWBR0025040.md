@@ -4,7 +4,7 @@ identifier: "BWBR0025040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-24"
-last_updated: "2009-07-01"
+last_updated: "2009-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025040"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Als een aangewezen regionale of lokale publieke media-instelling voor een aanslu
 
 ##### Artikel 8. Afwijken van adviseringsprocedure
 
-Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2009-07-01&g=2009-07-01).
+Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2009-11-21&g=2009-11-21).
 
 ##### Artikel 9. Intrekken aanwijzing
 
@@ -138,19 +138,17 @@ Een besluit tot intrekking van de aanwijzing op grond van [artikel 2.67, eerste 
 
 ##### Artikel 12. Voorschotten landelijke publieke media-instellingen
 
-1. De landelijke publieke media-instellingen ontvangen voorschotten in twaalf maandelijkse termijnen. In bijzondere gevallen kan de raad van bestuur hiervan afwijken.
+1. De landelijke publieke media-instellingen ontvangen voorschotten in twaalf maandelijkse termijnen. De raad van bestuur kan hiervan afwijken.
 
-2. De raad van bestuur bepaalt de hoogte van de voorschotten mede op basis van de begroting, bedoeld in [artikel 2.147 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.147), en een liquiditeitsprognose van de desbetreffende instelling.
+2. De raad van bestuur bepaalt de hoogte van de voorschotten mede op basis van de begroting, bedoeld in [artikel 2.147 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.147), en zonodig een liquiditeitsprognose van de desbetreffende instelling.
 
-3. De landelijke publieke media-instellingen zenden voor 1 november van het jaar, voorafgaande aan het begrotingsjaar een liquiditeitsprognose ter kennisneming aan de raad van bestuur.
+3. Indien de raad van bestuur hierom verzoekt, zenden de landelijke publieke media-instellingen voor 1 november van het jaar, voorafgaande aan het begrotingsjaar een liquiditeitsprognose ter kennisneming aan de raad van bestuur.
 
-4. Zolang de raad van bestuur de liquiditeitsprognose over het desbetreffende jaar nog niet heeft ontvangen, verstrekt hij voorschotten aan de desbetreffende instelling op basis van de laatstelijk ontvangen liquiditeitsprognose.
-
-5. Het totaal aan voorschotten in enig jaar is niet hoger dan het voor dat jaar vastgestelde totale budget.
+4. Het totaal aan voorschotten in enig jaar is niet hoger dan het voor dat jaar vastgestelde totale budget.
 
 ##### Artikel 13. Voorschotten Wereldomroep
 
-De regels over het verstrekken van voorschotten in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=12&z=2009-07-01&g=2009-07-01) zijn van overeenkomstige toepassing op de Wereldomroep, met dien verstande dat de bevoegdheden aan het Commissariaat toekomen en de hoogte van de voorschotten mede wordt bepaald op basis van de begroting, bedoeld in [artikel 2.160 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.160).
+De regels over het verstrekken van voorschotten in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=12&z=2009-11-21&g=2009-11-21) zijn van overeenkomstige toepassing op de Wereldomroep, met dien verstande dat de bevoegdheden aan het Commissariaat toekomen en de hoogte van de voorschotten mede wordt bepaald op basis van de begroting, bedoeld in [artikel 2.160 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.160).
 
 ##### Artikel 14. Evaluatiecommissies
 
@@ -196,7 +194,7 @@ Een commerciële omroepinstelling is voor elke verkregen toestemming voor het ve
 
 ##### Artikel 19. Percentage inkomsten voor Stimuleringsfonds
 
-Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.8), bedraagt nul.
+Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.8), bedraagt nul. In afwijking van de eerste volzin wordt in het jaar 2009 ten hoogste vier procent van de inkomsten uit reclame- en telewinkelboodschappen van de landelijke publieke mediadienst in 2008 uitgekeerd ten behoeve van het Stimuleringsfonds voor de pers.
 
 #### § 5.2. Subsidieverstrekking
 
@@ -224,7 +222,7 @@ Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](ht
 
 1. Het Stimuleringsfonds bevestigt de ontvangst van een aanvraag.
 
-2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2009-07-01&g=2009-07-01) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
+2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2009-11-21&g=2009-11-21) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
 
 ##### Artikel 22. Subsidieverlening
 
@@ -284,7 +282,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 ##### Artikel 3a. Inrichting aanvraag erkenning
 
-1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-07-01&g=2009-07-01), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
+1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-11-21&g=2009-11-21), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
 
 2. Een aanvraag gaat vergezeld van vier kopieën.
 
@@ -326,7 +324,7 @@ Het Stimuleringsfonds dient jaarlijks vóór 15 september een begroting in.
 
 ##### Artikel 25b. Indiening aanvraag voor erkenningperiode 2010–2015
 
-In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-07-01&g=2009-07-01), dienen de omroepverenigingen en de educatieve media-instelling, bedoeld in [artikel 2.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.28), de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), voor de erkenningperiode die begint op 1 september 2010, in het tijdvak 27 juli tot en met 31 juli 2009 in bij het Commissariaat.
+In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-11-21&g=2009-11-21), dienen de omroepverenigingen en de educatieve media-instelling, bedoeld in [artikel 2.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.28), de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), voor de erkenningperiode die begint op 1 september 2010, in het tijdvak 27 juli tot en met 31 juli 2009 in bij het Commissariaat.
 
 ## Bijlage
 
