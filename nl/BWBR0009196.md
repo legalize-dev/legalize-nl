@@ -4,7 +4,7 @@ identifier: "BWBR0009196"
 country: "nl"
 rank: "wet"
 publication_date: "2009-11-25"
-last_updated: "2009-07-01"
+last_updated: "2009-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009196"
 soort: "wet"
@@ -43,13 +43,15 @@ Alzo Wij in overweging genomen hebben, dat de totstandkoming van de derde tranch
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+Treedt volgens Stb. 1997/725 in werking met ingang van de dag dat de Derde tranche Algemene wet bestuursrecht in werking treedt.
+
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Verkeer en Waterstaat.
 
 ##### Artikel 2
 
-Onze Minister kan bij regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2009-07-01&g=2009-07-01), subsidies verstrekken voor activiteiten die passen in:
+Onze Minister kan bij regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2009-11-25&g=2009-11-25), subsidies verstrekken voor activiteiten die passen in:
 
 - a. het verkeers- en vervoerbeleid,
 
@@ -93,9 +95,11 @@ voorzover deze subsidies niet gebaseerd zijn op een andere wet.
 
 - b. het geven van informatie aan derden over de gesubsidieerde activiteiten door de subsidieontvanger.
 
+4. In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) is [titel 4.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van toepassing op subsidies die worden verstrekt op grond van een algemene maatregel van bestuur of ministeriële regeling als bedoeld in het eerste lid, die uitsluitend voorziet in verstrekking aan rechtspersonen die krachtens publiekrecht zijn ingesteld.
+
 ##### Artikel 4
 
-Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2009-07-01&g=2009-07-01), kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
+Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3&z=2009-11-25&g=2009-11-25), kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
 
 ##### Artikel 5
 
