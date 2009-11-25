@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-11-20"
+last_updated: "2009-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -132,7 +132,7 @@ Besluit:
 |   |   |   | Zuidvleugel Randstad | 01-04 t/m 11-05 | 6.460.000 |
 |   |   |   | Zuidwest-Nederland | 01-04 t/m 11-05 | 1.590.000 |
 |   |   |   | Zuidoost-Nederland | 01-04 t/m 11-05 | 5.500.000 |
-|   |   |   | Noord-Nederland | 01-01 t/m 31-12 | 20.000.000 |
+|   |   |   | Noord-Nederland | 01-01 t/m 31-12 | 26.000.000 |
 |   |   |   | Oost-Nederland | 05-10 t/m 13-11 | 4.000.000 |
 |   |   |   | Noordvleugel Randstad | 05-10 t/m 13-11 | 7.000.000 |
 |   |   |   | Zuidvleugel Randstad | 05-10 t/m 13-11 | 7.040.000 |
@@ -197,7 +197,7 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 
-2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-11-20&g=2009-11-20), is van overeenkomstige toepassing.
+2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-11-25&g=2009-11-25), is van overeenkomstige toepassing.
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
