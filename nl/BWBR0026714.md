@@ -4,7 +4,7 @@ identifier: "BWBR0026714"
 country: "nl"
 rank: "wet"
 publication_date: "2009-11-27"
-last_updated: "2009-01-01"
+last_updated: "2009-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026714"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2009-11-27"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de zorgtoeslag.
 
 ##### Artikel II
 
@@ -48,27 +48,29 @@ Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Zorgverzekeringswet, enz. (verzwaren incassoregime premie en andere maatregelen zorgverzekering).
 
 ##### Artikel IIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.
 
 ##### Artikel IIIb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet ambulancezorg.
 
 ##### Artikel IIIc
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ambtenarenwet.
 
 ##### Artikel IIId
 
-Dit onderdeel is nog niet inwerking getreden
+In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=22) juncto [32 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=32) zijn op de rechtspositie van het personeel van het College bouw zorginstellingen en het College sanering zorginstellingen de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries, niet van toepassing tot 1 januari 2013.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+
+2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0026714&artikel=II&z=2009-11-27&g=2009-11-27) werkt terug tot en met 1 januari 2009.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
