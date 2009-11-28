@@ -71,9 +71,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Samenwerkingsregeling mobiele eenheden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-Deze regeling berust op [artikel 5 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=5).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
