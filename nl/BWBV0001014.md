@@ -4,7 +4,7 @@ identifier: "BWBV0001014"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-01-01"
-last_updated: "2003-11-29"
+last_updated: "2009-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001014"
 soort: "verdrag"
@@ -79,11 +79,11 @@ De Partijen bij dit Verdrag verbinden zich uitvoering te geven aan de hieraan ge
 
 - (b). Onverminderd het bepaalde onder (a) van dit lid treedt dit Verdrag niet in werking vóór 1 januari 1976.
 
-2. De inwerkingtreding ten aanzien van Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of daartoe toetreden overeenkomstig [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&artikel=II&z=2003-11-29&g=2003-11-29) nadat is voldaan aan de voorwaarden voorgeschreven in het eerste lid, onder (a) en voordat het Verdrag in werking is getreden, vindt plaats op de datum van inwerkingtreding van het Verdrag.
+2. De inwerkingtreding ten aanzien van Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of daartoe toetreden overeenkomstig [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&artikel=II&z=2009-12-01&g=2009-12-01) nadat is voldaan aan de voorwaarden voorgeschreven in het eerste lid, onder (a) en voordat het Verdrag in werking is getreden, vindt plaats op de datum van inwerkingtreding van het Verdrag.
 
-3. De inwerkingtreding ten aanzien van Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of daartoe toetreden na de datum waarop het Verdrag in werking is getreden, vindt plaats op de datum van nederlegging van een akte overeenkomstig [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&artikel=II&z=2003-11-29&g=2003-11-29).
+3. De inwerkingtreding ten aanzien van Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of daartoe toetreden na de datum waarop het Verdrag in werking is getreden, vindt plaats op de datum van nederlegging van een akte overeenkomstig [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&artikel=II&z=2009-12-01&g=2009-12-01).
 
-4. Na de inwerkingtreding van een wijziging van dit Verdrag overeenkomstig [artikel VI, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&artikel=VI&z=2003-11-29&g=2003-11-29), geldt bekrachtiging, aanvaarding, goedkeuring of toetreding voor het gewijzigde Verdrag.
+4. Na de inwerkingtreding van een wijziging van dit Verdrag overeenkomstig [artikel VI, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&artikel=VI&z=2009-12-01&g=2009-12-01), geldt bekrachtiging, aanvaarding, goedkeuring of toetreding voor het gewijzigde Verdrag.
 
 5. Op de datum van inwerkingtreding van dit Verdrag worden de Internationale Bepalingen ter Voorkoming van Aanvaringen op Zee, 1960, door de onderhavige Bepalingen vervangen en buiten werking gesteld.
 
@@ -275,13 +275,13 @@ b. Een schip met een lengte van minder dan 20 meter of een zeilschip mag de door
 
 c. Een schip bezig met de uitoefening van de visserij mag de doorvaart van een ander schip varend in een nauw vaarwater of vaargeul niet belemmeren.
 
-d. Een schip mag een nauw vaarwater of vaargeul niet kruisen indien dit kruisen de doorvaart belemmert van een schip dat slechts in zulk een vaarwater of vaargeul veilig kan varen. Laatstgenoemd schip kan het geluidsein, voorgeschreven in [voorschrift 34 (d)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=D&artikel=34&z=2003-11-29&g=2003-11-29), gebruiken indien het twijfelt aan de bedoeling van het kruisende schip.
+d. Een schip mag een nauw vaarwater of vaargeul niet kruisen indien dit kruisen de doorvaart belemmert van een schip dat slechts in zulk een vaarwater of vaargeul veilig kan varen. Laatstgenoemd schip kan het geluidsein, voorgeschreven in [voorschrift 34 (d)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=D&artikel=34&z=2009-12-01&g=2009-12-01), gebruiken indien het twijfelt aan de bedoeling van het kruisende schip.
 
-- (i). Wanneer in een nauw vaarwater of vaargeul het oplopen slechts kan plaatsvinden indien het op te lopen schip maatregelen moet nemen om een veilig voorbij varen mogelijk te maken, dient het schip dat van plan is op te lopen zijn voornemen kenbaar te maken door het passende sein te geven, voorgeschreven in [voorschrift 34(c)(i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=D&artikel=34&z=2003-11-29&g=2003-11-29). Het op te lopen schip dient, indien het instemt, het passende sein te geven, voorgeschreven in voorschrift 34(c)(ii), en maatregelen te nemen om een veilig voorbij varen mogelijk te maken. In geval van twijfel kan het de seinen geven, voorgeschreven in voorschrift 34(d).
+- (i). Wanneer in een nauw vaarwater of vaargeul het oplopen slechts kan plaatsvinden indien het op te lopen schip maatregelen moet nemen om een veilig voorbij varen mogelijk te maken, dient het schip dat van plan is op te lopen zijn voornemen kenbaar te maken door het passende sein te geven, voorgeschreven in [voorschrift 34(c)(i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=D&artikel=34&z=2009-12-01&g=2009-12-01). Het op te lopen schip dient, indien het instemt, het passende sein te geven, voorgeschreven in voorschrift 34(c)(ii), en maatregelen te nemen om een veilig voorbij varen mogelijk te maken. In geval van twijfel kan het de seinen geven, voorgeschreven in voorschrift 34(d).
 
-- (ii). Dit voorschrift ontheft het oplopende schip niet van zijn verplichting volgens [voorschrift 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=II&artikel=13&z=2003-11-29&g=2003-11-29).
+- (ii). Dit voorschrift ontheft het oplopende schip niet van zijn verplichting volgens [voorschrift 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=II&artikel=13&z=2009-12-01&g=2009-12-01).
 
-f. Een schip dat een bocht of een gebied in een nauw vaarwater of vaargeul nadert waar het zicht op andere schepen kan worden belemmerd door een tussenliggend obstakel dient met bijzondere waakzaamheid en voorzichtigheid te varen en het passende sein te geven, voorgeschreven in [voorschrift 34(e)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=D&artikel=34&z=2003-11-29&g=2003-11-29).
+f. Een schip dat een bocht of een gebied in een nauw vaarwater of vaargeul nadert waar het zicht op andere schepen kan worden belemmerd door een tussenliggend obstakel dient met bijzondere waakzaamheid en voorzichtigheid te varen en het passende sein te geven, voorgeschreven in [voorschrift 34(e)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=D&artikel=34&z=2009-12-01&g=2009-12-01).
 
 g. Indien de omstandigheden zulks toelaten, dient een schip het ankeren in een nauw vaarwater te vermijden.
 
@@ -343,7 +343,7 @@ b. In dit voorschrift dient onder loefzijde te worden verstaan de andere zijde d
 
 ##### Voorschrift 13. Oplopen
 
-a. Onafhankelijk van hetgeen in de Voorschriften van [Deel B, Afdeling I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=I&z=2003-11-29&g=2003-11-29) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=II&z=2003-11-29&g=2003-11-29) is voorgeschreven, dient elk schip, dat een ander schip oploopt, uit te wijken voor het schip dat opgelopen wordt.
+a. Onafhankelijk van hetgeen in de Voorschriften van [Deel B, Afdeling I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=I&z=2009-12-01&g=2009-12-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=II&z=2009-12-01&g=2009-12-01) is voorgeschreven, dient elk schip, dat een ander schip oploopt, uit te wijken voor het schip dat opgelopen wordt.
 
 b. Een schip wordt geacht op te lopen wanneer het een ander schip nadert uit een richting van meer dan 22,5 graden achterlijker dan dwars, dat wil zeggen in een zodanige positie met betrekking tot het schip dat opgelopen wordt, dat het des nachts alleen het heklicht van dat schip doch geen van zijn boordlichten zou kunnen zien.
 
@@ -381,7 +381,7 @@ d. Dit voorschrift ontheft het schip dat verplicht is uit te wijken niet van die
 
 ##### Voorschrift 18. Verantwoordelijkheden van schepen onderling
 
-Behalve waar de [voorschriften 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=I&artikel=9&z=2003-11-29&g=2003-11-29), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=I&artikel=10&z=2003-11-29&g=2003-11-29) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=II&artikel=13&z=2003-11-29&g=2003-11-29) anders voorschrijven:
+Behalve waar de [voorschriften 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=I&artikel=9&z=2009-12-01&g=2009-12-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=I&artikel=10&z=2009-12-01&g=2009-12-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=II&artikel=13&z=2009-12-01&g=2009-12-01) anders voorschrijven:
 
 - (a). dient een werktuiglijk voortbewogen schip dat varende is uit te wijken voor:
 
@@ -409,7 +409,7 @@ Behalve waar de [voorschriften 9](https://wetten.overheid.nl/jci1.3:c:BWBV000101
 
 - (d).
 
-- (i). dient elk schip, niet zijnde een onmanoeuvreerbaar schip of een beperkt manoeuvreerbaar schip, indien de omstandigheden zulks toelaten, te vermijden de veilige vaart te belemmeren van een schip door zijn diepgang beperkt in zijn manoeuvreerbaarheid, dat de seinen van [voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=28&z=2003-11-29&g=2003-11-29) toont;
+- (i). dient elk schip, niet zijnde een onmanoeuvreerbaar schip of een beperkt manoeuvreerbaar schip, indien de omstandigheden zulks toelaten, te vermijden de veilige vaart te belemmeren van een schip door zijn diepgang beperkt in zijn manoeuvreerbaarheid, dat de seinen van [voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=28&z=2009-12-01&g=2009-12-01) toont;
 
 - (ii). dient een schip door zijn diepgang beperkt in zijn manoeuvreerbaarheid met bijzondere omzichtigheid te varen, ten volle rekening houdend met zijn bijzondere toestand;
 
@@ -429,7 +429,7 @@ a. Dit voorschrift is van toepassing op schepen die niet in zicht van elkaar zij
 
 b. Elk schip dient een veilige vaaart aan te houden, aangepast aan de heersende omstandigheden en de toestanden van beperkt zicht. Een werktuiglijk voortbewogen schip dient zijn machines gereed te hebben ten einde onmiddellijk te kunnen manoeuvreren.
 
-c. Elk schip dient bij de naleving van de voorschriften van [Afdeling I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=I&z=2003-11-29&g=2003-11-29) van dit Deel goed rekening te houden met de heersende omstandigheden en de toestanden van beperkt zicht.
+c. Elk schip dient bij de naleving van de voorschriften van [Afdeling I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=I&z=2009-12-01&g=2009-12-01) van dit Deel goed rekening te houden met de heersende omstandigheden en de toestanden van beperkt zicht.
 
 d. Een schip dat alleen met behulp van radar de aanwezigheid van een ander schip ontdekt, dient vast te stellen of zich een situatie ontwikkelt waarin men elkaar te dicht nadert en/of gevaar voor aanvaring bestaat. Is dit het geval, dan dient het bijtijds maatregelen ter vermijding daarvan te nemen, met dien verstande dat wanneer zulke maatregelen bestaan uit een koersverandering, voor zover mogelijk dient te worden vermeden:
 
@@ -451,7 +451,7 @@ c. De in deze Voorschriften voorgeschreven lichten dienen, indien zij worden gev
 
 d. De voorschriften betreffende dagmerken dienen overdag te worden nageleefd.
 
-e. De in deze Voorschriften omschreven lichten en dagmerken dienen te voldoen aan het bepaalde in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&z=2003-11-29&g=2003-11-29) van deze Bepalingen.
+e. De in deze Voorschriften omschreven lichten en dagmerken dienen te voldoen aan het bepaalde in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&z=2009-12-01&g=2009-12-01) van deze Bepalingen.
 
 ##### Voorschrift 21. Begripsomschrijvingen
 
@@ -469,7 +469,7 @@ f. Onder „schitterlicht” wordt verstaan een licht dat schittert met regelmat
 
 ##### Voorschrift 22. Zichtbaarheid van lichten
 
-De in deze Voorschriften voorgeschreven lichten dienen een lichtsterkte te hebben zoals aangegeven onder [punt 8 van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=8&z=2003-11-29&g=2003-11-29) van deze Bepalingen, zodat zij op de volgende minimumafstanden zichtbaar zijn:
+De in deze Voorschriften voorgeschreven lichten dienen een lichtsterkte te hebben zoals aangegeven onder [punt 8 van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=8&z=2009-12-01&g=2009-12-01) van deze Bepalingen, zodat zij op de volgende minimumafstanden zichtbaar zijn:
 
 - (a). voor schepen met een lengte van 50 meter en meer:
 
@@ -535,7 +535,7 @@ c. Een WIG-tuig dient alleen tijdens de start, de landing en de vlucht vlak bove
 
 a. Een werktuiglijk voortbewogen schip dient bij het slepen te tonen:
 
-- (i). in plaats van het licht, voorgeschreven in [voorschrift 23 (a)(i) of (a)(ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2003-11-29&g=2003-11-29), twee toplichten, het ene loodrecht onder het andere. Wanneer de lengte van de sleep, gerekend van het hek van het slepende schip tot het uiteinde van de sleep, meer is dan 200 meter, drie van zulke lichten, loodrecht ten opzichte van elkaar;
+- (i). in plaats van het licht, voorgeschreven in [voorschrift 23 (a)(i) of (a)(ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2009-12-01&g=2009-12-01), twee toplichten, het ene loodrecht onder het andere. Wanneer de lengte van de sleep, gerekend van het hek van het slepende schip tot het uiteinde van de sleep, meer is dan 200 meter, drie van zulke lichten, loodrecht ten opzichte van elkaar;
 
 - (ii). boordlichten;
 
@@ -545,17 +545,17 @@ a. Een werktuiglijk voortbewogen schip dient bij het slepen te tonen:
 
 - (v). wanneer de lengte van de sleep meer is dan 200 meter, een ruitvormig dagmerk, daar waar dit het best kan worden gezien.
 
-b. Wanneer een duwend schip en een schip dat wordt geduwd vast aan elkaar zijn verbonden in een samengestelde eenheid, dienen zij te worden beschouwd als één werktuiglijk voortbewogen schip en de in [voorschrift 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2003-11-29&g=2003-11-29) voorgeschreven lichten te tonen.
+b. Wanneer een duwend schip en een schip dat wordt geduwd vast aan elkaar zijn verbonden in een samengestelde eenheid, dienen zij te worden beschouwd als één werktuiglijk voortbewogen schip en de in [voorschrift 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2009-12-01&g=2009-12-01) voorgeschreven lichten te tonen.
 
 c. Een werktuiglijk voortbewogen schip dient, wanneer het duwt of langszij sleept, behalve in het geval van een samengestelde eenheid, te tonen:
 
-- (i). in plaats van het licht, voorgeschreven in [voorschrift 23 (a)(i) of (a)(ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2003-11-29&g=2003-11-29), twee toplichten, het ene loodrecht onder het andere;
+- (i). in plaats van het licht, voorgeschreven in [voorschrift 23 (a)(i) of (a)(ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2009-12-01&g=2009-12-01), twee toplichten, het ene loodrecht onder het andere;
 
 - (ii). boordlichten;
 
 - (iii). een heklicht.
 
-d. Een werktuiglijk voortbewogen schip waarop het bepaalde onder (a) of (c) van dit voorschrift van toepassing is, dient ook te voldoen aan [voorschrift 23 (a) (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2003-11-29&g=2003-11-29).
+d. Een werktuiglijk voortbewogen schip waarop het bepaalde onder (a) of (c) van dit voorschrift van toepassing is, dient ook te voldoen aan [voorschrift 23 (a) (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2009-12-01&g=2009-12-01).
 
 e. Een schip of voorwerp dat wordt gesleept, anders dan die genoemd onder (g) van dit Voorschrift, dient te tonen:
 
@@ -583,7 +583,7 @@ g. Een onopvallend, zich gedeeltelijk onder water bevindend schip of voorwerp da
 
 h. Wanneer het door een duidelijke oorzaak onuitvoerbaar is om op een gesleept schip of voorwerp de onder (e) of (g) van dit Voorschrift voorgeschreven lichten of dagmerken te tonen, dienen alle mogelijke maatregelen te worden genomen om het gesleepte schip of voorwerp te verlichten of althans de aanwezigheid van een zodanig schip of voorwerp aan te duiden.
 
-i. Wanneer het door een duidelijke oorzaak onuitvoerbaar is om op een schip dat gewoonlijk niet voor sleepwerkzaamheden wordt gebezigd, de onder (a) of (c) van dit Voorschrift voorgeschreven lichten te tonen, behoeft dat schip deze lichten niet te tonen bij het slepen van een ander schip dat in nood verkeert of anderszins hulp behoeft. Om het verband aan te duiden tussen het slepende schip en het gesleepte schip, dienen alle mogelijke maatregelen te worden genomen zoals toegestaan volgens [voorschrift 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=D&artikel=36&z=2003-11-29&g=2003-11-29), in het bijzonder door de sleepdraad te verlichten.
+i. Wanneer het door een duidelijke oorzaak onuitvoerbaar is om op een schip dat gewoonlijk niet voor sleepwerkzaamheden wordt gebezigd, de onder (a) of (c) van dit Voorschrift voorgeschreven lichten te tonen, behoeft dat schip deze lichten niet te tonen bij het slepen van een ander schip dat in nood verkeert of anderszins hulp behoeft. Om het verband aan te duiden tussen het slepende schip en het gesleepte schip, dienen alle mogelijke maatregelen te worden genomen zoals toegestaan volgens [voorschrift 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=D&artikel=36&z=2009-12-01&g=2009-12-01), in het bijzonder door de sleepdraad te verlichten.
 
 ##### Voorschrift 25. Zeilschepen die varende zijn en schepen voortbewogen door riemen
 
@@ -623,7 +623,7 @@ c. Een schip bezig met de uitoefening van de visserij, niet zijnde de treilvisse
 
 - (iii). wanneer het vaart door het water loopt, behalve de onder (i) en (ii) voorgeschreven lichten, tevens boordlichten en een heklicht.
 
-d. De in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=II&z=2003-11-29&g=2003-11-29) van deze Bepalingen beschreven aanvullende seinen gelden voor een schip bezig met de uitoefening van de visserij in de onmiddellijke nabijheid van andere schepen bezig met de uitoefening van de visserij.
+d. De in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=II&z=2009-12-01&g=2009-12-01) van deze Bepalingen beschreven aanvullende seinen gelden voor een schip bezig met de uitoefening van de visserij in de onmiddellijke nabijheid van andere schepen bezig met de uitoefening van de visserij.
 
 e. Een schip dat niet bezig is met de uitoefening van de visserij mag de lichten of dagmerken voorgeschreven in dit voorschrift niet tonen, maar alleen die voorgeschreven voor een schip van zijn lengte.
 
@@ -645,9 +645,9 @@ b. Een beperkt manoeuvreerbaar schip, behalve een schip bezig met mijnenopruimin
 
 - (iii). wanneer het vaart door het water loopt, behalve de onder (i) voorgeschreven lichten, tevens een toplicht of toplichten, boordlichten en een heklicht;
 
-- (iv). wanneer het ten anker ligt, behalve de lichten of dagmerken, voorgeschreven onder (i) en (ii), tevens het licht, de lichten of het dagmerk, voorgeschreven in [voorschrift 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=30&z=2003-11-29&g=2003-11-29).
+- (iv). wanneer het ten anker ligt, behalve de lichten of dagmerken, voorgeschreven onder (i) en (ii), tevens het licht, de lichten of het dagmerk, voorgeschreven in [voorschrift 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=30&z=2009-12-01&g=2009-12-01).
 
-c. Een werktuiglijk voortbewogen schip, bezig met sleepwerkzaamheden van zodanige aard, dat daardoor het slepende schip en zijn sleep ernstig beperkt zijn in de mogelijkheid af te wijken van de koers die zij volgen, dient, behalve de lichten of dagmerken, voorgeschreven in [Voorschrift 24(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=24&z=2003-11-29&g=2003-11-29), tevens de lichten of dagmerken te tonen, voorgeschreven onder (b) (i) en (ii) van dit Voorschrift.
+c. Een werktuiglijk voortbewogen schip, bezig met sleepwerkzaamheden van zodanige aard, dat daardoor het slepende schip en zijn sleep ernstig beperkt zijn in de mogelijkheid af te wijken van de koers die zij volgen, dient, behalve de lichten of dagmerken, voorgeschreven in [Voorschrift 24(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=24&z=2009-12-01&g=2009-12-01), tevens de lichten of dagmerken te tonen, voorgeschreven onder (b) (i) en (ii) van dit Voorschrift.
 
 d. Een beperkt manoeuvreerbaar schip bezig met baggeren of met werkzaamheden onder water dient de lichten en dagmerken te tonen, voorgeschreven onder (b) (i), (ii) en (iii) van dit voorschrift en tevens, wanneer er een versperring aanwezig is, te tonen:
 
@@ -655,7 +655,7 @@ d. Een beperkt manoeuvreerbaar schip bezig met baggeren of met werkzaamheden ond
 
 - (ii). twee rondom zichtbare groene lichten of twee ruitvormige dagmerken, het ene loodrecht onder het andere, om de kant aan te duiden waar een ander schip voorbij kan varen;
 
-- (iii). wanneer het ten anker ligt, de in dit Voorschrift voorgeschreven lichten of dagmerken in plaats van de lichten of het dagmerk, voorgeschreven in [Voorschrift 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=30&z=2003-11-29&g=2003-11-29).
+- (iii). wanneer het ten anker ligt, de in dit Voorschrift voorgeschreven lichten of dagmerken in plaats van de lichten of het dagmerk, voorgeschreven in [Voorschrift 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=30&z=2009-12-01&g=2009-12-01).
 
 e. Wanneer het door de afmetingen van een schip dat bezig is met duikwerkzaamheden onuitvoerbaar is alle lichten en dagmerken, voorschreven onder (d) van dit Voorschrift te tonen, dient het volgende te worden getoond:
 
@@ -663,15 +663,15 @@ e. Wanneer het door de afmetingen van een schip dat bezig is met duikwerkzaamhed
 
 - (ii). een van niet buigzaam materiaal vervaardigde afbeelding van de internationale seinvlag „A” van ten minste 1 meter hoogte. Er dienen maatregelen te worden genomen opdat dit merk van alle kanten te onderkennen is.
 
-f. Een schip, bezig met mijnenopruimingswerkzaamheden dient, behalve de lichten voor een werktuiglijk voortbewogen schip, voorgeschreven in [Voorschrift 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2003-11-29&g=2003-11-29), of de lichten of het dagmerk voor een schip dat ten anker ligt, voorgeschreven in [Voorschrift 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=30&z=2003-11-29&g=2003-11-29), al naar gelang hetgeen van toepassing is, drie rondom zichtbare groene lichten of drie ballen te tonen. Eén van deze lichten of dagmerken dient nabij de top van de voormast te worden getoond en één aan elk uiteinde van de ra van de voormast. Deze lichten of dagmerken geven aan dat het voor andere schepen gevaarlijk is het mijnenopruimingsvaartuig dichter te naderen dan 1000 meter.
+f. Een schip, bezig met mijnenopruimingswerkzaamheden dient, behalve de lichten voor een werktuiglijk voortbewogen schip, voorgeschreven in [Voorschrift 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2009-12-01&g=2009-12-01), of de lichten of het dagmerk voor een schip dat ten anker ligt, voorgeschreven in [Voorschrift 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=30&z=2009-12-01&g=2009-12-01), al naar gelang hetgeen van toepassing is, drie rondom zichtbare groene lichten of drie ballen te tonen. Eén van deze lichten of dagmerken dient nabij de top van de voormast te worden getoond en één aan elk uiteinde van de ra van de voormast. Deze lichten of dagmerken geven aan dat het voor andere schepen gevaarlijk is het mijnenopruimingsvaartuig dichter te naderen dan 1000 meter.
 
 g. Schepen met een lengte van minder dan 12 meter, uitgezonderd schepen, bezig met duikwerkzaamheden, behoeven de in dit Voorschrift voorgeschreven lichten en dagmerken niet te tonen.
 
-h. De in dit voorschrift voorgeschreven lichten en dagmerken zijn niet bedoeld voor schepen in nood die hulp verlangen. Noodseinen zijn vermeld in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2003-11-29&g=2003-11-29) van deze Bepalingen.
+h. De in dit voorschrift voorgeschreven lichten en dagmerken zijn niet bedoeld voor schepen in nood die hulp verlangen. Noodseinen zijn vermeld in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2009-12-01&g=2009-12-01) van deze Bepalingen.
 
 ##### Voorschrift 28. Schepen door hun diepgang beperkt in hun manoeuvreerbaarheid
 
-Een schip door zijn diepgang beperkt in zijn manoeuvreerbaarheid mag, behalve de lichten voor een werktuiglijk voortbewogen schip, voorgeschreven in [voorschrift 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2003-11-29&g=2003-11-29), drie rondom zichtbare rode lichten tonen, loodrecht ten opzichte van elkaar, of een cylinder, daar waar deze het best kunnen worden gezien.
+Een schip door zijn diepgang beperkt in zijn manoeuvreerbaarheid mag, behalve de lichten voor een werktuiglijk voortbewogen schip, voorgeschreven in [voorschrift 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2009-12-01&g=2009-12-01), drie rondom zichtbare rode lichten tonen, loodrecht ten opzichte van elkaar, of een cylinder, daar waar deze het best kunnen worden gezien.
 
 ##### Voorschrift 29. Loodsvaartuigen
 
@@ -681,7 +681,7 @@ a. Een schip bezig met de uitoefening van de loodsdienst dient te tonen:
 
 - (ii). wanneer het varende is, tevens boordlichten en een heklicht;
 
-- (iii). wanneer het ten anker ligt, behalve de lichten, voorgeschreven onder (i), tevens het licht, de lichten of het dagmerk, voorgeschreven in [Voorschrift 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=30&z=2003-11-29&g=2003-11-29) voor ten anker liggende schepen.
+- (iii). wanneer het ten anker ligt, behalve de lichten, voorgeschreven onder (i), tevens het licht, de lichten of het dagmerk, voorgeschreven in [Voorschrift 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=30&z=2009-12-01&g=2009-12-01) voor ten anker liggende schepen.
 
 b. Een loodsvaartuig dat niet bezig is met de uitoefening van de loodsdienst dient de lichten of dagmerken te tonen, voorgeschreven voor een schip van zijn soort en lengte.
 
@@ -715,7 +715,7 @@ Wanneer het voor een watervliegtuig of een WIG-tuig niet uitvoerbaar is de licht
 
 ##### Voorschrift 32. Begripsomschrijvingen
 
-a. Het woord „fluit” betekent elk geluidseinen voortbrengend toestel dat de voorgeschreven stoten kan voortbrengen en dat voldoet aan de eisen vermeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=III&z=2003-11-29&g=2003-11-29) van deze Bepalingen.
+a. Het woord „fluit” betekent elk geluidseinen voortbrengend toestel dat de voorgeschreven stoten kan voortbrengen en dat voldoet aan de eisen vermeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=III&z=2009-12-01&g=2009-12-01) van deze Bepalingen.
 
 b. De uitdrukking „korte stoot” betekent een stoot van ongeveer één seconde duur.
 
@@ -723,7 +723,7 @@ c. De uitdrukking „lange stoot” betekent een stoot van vier tot zes seconden
 
 ##### Voorschrift 33. Middelen voor geluidseinen
 
-a. Een schip met een lengte van 12 meter of meer dient te zijn voorzien van een fluit; een schip met een lengte van 20 meter of meer dient naast de fluit tevens te zijn voorzien van een klok; een schip met een lengte van 100 meter of meer dient tevens te zijn voorzien van een gong, waarvan de toon en het geluid niet kunnen worden verward met die van de klok. De fluit, klok en gong dienen te voldoen aan de eisen vermeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=III&z=2003-11-29&g=2003-11-29) van deze voorschriften. De klok of de gong of beide mogen worden vervangen door andere middelen die dezelfde onderscheidenlijke geluidskenmerken bezitten, met dien verstande dat het altijd mogelijk moet zijn om de voorgeschreven seinen door bediening met de hand te geven.
+a. Een schip met een lengte van 12 meter of meer dient te zijn voorzien van een fluit; een schip met een lengte van 20 meter of meer dient naast de fluit tevens te zijn voorzien van een klok; een schip met een lengte van 100 meter of meer dient tevens te zijn voorzien van een gong, waarvan de toon en het geluid niet kunnen worden verward met die van de klok. De fluit, klok en gong dienen te voldoen aan de eisen vermeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=III&z=2009-12-01&g=2009-12-01) van deze voorschriften. De klok of de gong of beide mogen worden vervangen door andere middelen die dezelfde onderscheidenlijke geluidskenmerken bezitten, met dien verstande dat het altijd mogelijk moet zijn om de voorgeschreven seinen door bediening met de hand te geven.
 
 b. Een schip met een lengte van minder dan 12 meter is niet verplicht de toestellen voor het geven van geluidseinen, voorgeschreven onder (a) van dit voorschrift, aan boord te hebben, doch indien het deze niet heeft, dient het te zijn voorzien van een ander middel voor het geven van een doelmatig geluidsein.
 
@@ -749,17 +749,17 @@ b. Een schip mag de onder (a) van dit voorschrift voorgeschreven fluitseinen aan
 
 - (ii). de duur van elke schittering dient ongeveer één seconde te zijn, de tussenpoos tussen de schitteringen ongeveer één seconde en de tussenpoos tussen de achtereenvolgende seinen niet minder dan tien seconden;
 
-- (iii). het voor dit sein gebruikte licht dient, indien aangebracht, een rondom zichtbaar wit licht te zijn, zichtbaar op een afstand van ten minste 5 zeemijlen, en dient te voldoen aan het bepaalde in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&z=2003-11-29&g=2003-11-29) van deze Bepalingen.
+- (iii). het voor dit sein gebruikte licht dient, indien aangebracht, een rondom zichtbaar wit licht te zijn, zichtbaar op een afstand van ten minste 5 zeemijlen, en dient te voldoen aan het bepaalde in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&z=2009-12-01&g=2009-12-01) van deze Bepalingen.
 
 c. Wanneer in zicht van elkaar in een nauw vaarwater of vaargeul:
 
-- (i). dient een schip dat voornemens is een ander op te lopen overeenkomstig het bepaalde in [voorschrift 9 (e) (i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=I&artikel=9&z=2003-11-29&g=2003-11-29) zijn voornemen kenbaar te maken door de volgende seinen met zijn fluit:
+- (i). dient een schip dat voornemens is een ander op te lopen overeenkomstig het bepaalde in [voorschrift 9 (e) (i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=I&artikel=9&z=2009-12-01&g=2009-12-01) zijn voornemen kenbaar te maken door de volgende seinen met zijn fluit:
 
 - -. twee lange stoten gevolgd door een korte stoot om aan te geven: „Ik ben van plan u op te lopen aan uw stuurboordszijde”;
 
 - -. twee lange stoten gevolgd door twee korte stoten om aan te geven: „Ik ben van plan u op te lopen aan uw bakboordszijde”;
 
-- (ii). dient het schip dat opgelopen wordt, wanneer het handelt overeenkomstig het bepaalde in [voorschrift 9 (e) (i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=I&artikel=9&z=2003-11-29&g=2003-11-29)zijn instemming kenbaar te maken door het volgende sein met zijn fluit:
+- (ii). dient het schip dat opgelopen wordt, wanneer het handelt overeenkomstig het bepaalde in [voorschrift 9 (e) (i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=B&afdeling=I&artikel=9&z=2009-12-01&g=2009-12-01)zijn instemming kenbaar te maken door het volgende sein met zijn fluit:
 
 - -. een lange, een korte, een lange en een korte stoot in die volgorde.
 
@@ -803,7 +803,7 @@ Wanneer het nodig is om de aandacht te trekken van een ander schip mag elk schip
 
 ##### Voorschrift 37. Noodseinen
 
-Wanneer een schip in nood verkeert en hulp verlangt, dient het de seinen, beschreven in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=IV&z=2003-11-29&g=2003-11-29) van deze Bepalingen, te gebruiken of te tonen.
+Wanneer een schip in nood verkeert en hulp verlangt, dient het de seinen, beschreven in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=IV&z=2009-12-01&g=2009-12-01) van deze Bepalingen, te gebruiken of te tonen.
 
 ## DEEL E. - VRIJSTELLINGEN
 
@@ -811,25 +811,25 @@ Wanneer een schip in nood verkeert en hulp verlangt, dient het de seinen, beschr
 
 Elk schip (of elke klasse van schepen) waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt vóór het van kracht worden van deze Voorschriften, kan, mits dit (of deze) voldoet aan de eisen van de Internationale Bepalingen ter Voorkoming van Aanvaringen op Zee, 1960, als volgt worden vrijgesteld van de naleving van deze Voorschriften:
 
-- (a). het aanbrengen van lichten met een zichtbaarheid zoals voorgeschreven in [voorschrift 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=22&z=2003-11-29&g=2003-11-29), tot vier jaar na de datum van het van kracht worden van deze Voorschriften;
+- (a). het aanbrengen van lichten met een zichtbaarheid zoals voorgeschreven in [voorschrift 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=22&z=2009-12-01&g=2009-12-01), tot vier jaar na de datum van het van kracht worden van deze Voorschriften;
 
-- (b). het aanbrengen van lichten die voldoen aan de eisen inzake de kleuren, voorgeschreven onder [punt 7 van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=7&z=2003-11-29&g=2003-11-29) van deze Bepalingen, tot vier jaar na het van kracht worden van deze Voorschriften;
+- (b). het aanbrengen van lichten die voldoen aan de eisen inzake de kleuren, voorgeschreven onder [punt 7 van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=7&z=2009-12-01&g=2009-12-01) van deze Bepalingen, tot vier jaar na het van kracht worden van deze Voorschriften;
 
 - (c). het verplaatsen van lichten voortvloeiend uit de herleiding van Engelse in metrieke maten en het afronden van maten, permanente vrijstelling;
 
 - (d).
 
-- (i). het verplaatsen van toplichten op schepen met een lengte van minder dan 150 meter, voortvloeiend uit het bepaalde onder [punt 3 (a) van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=3&z=2003-11-29&g=2003-11-29) van deze Bepalingen, permanente vrijstelling;
+- (i). het verplaatsen van toplichten op schepen met een lengte van minder dan 150 meter, voortvloeiend uit het bepaalde onder [punt 3 (a) van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=3&z=2009-12-01&g=2009-12-01) van deze Bepalingen, permanente vrijstelling;
 
-- (ii). het verplaatsen van toplichten op schepen met een lengte van 150 meter en meer, voortvloeiend uit het bepaalde onder [punt 3 (a) van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=3&z=2003-11-29&g=2003-11-29) van deze Bepalingen, tot negen jaar na het van kracht worden van deze Voorschriften;
+- (ii). het verplaatsen van toplichten op schepen met een lengte van 150 meter en meer, voortvloeiend uit het bepaalde onder [punt 3 (a) van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=3&z=2009-12-01&g=2009-12-01) van deze Bepalingen, tot negen jaar na het van kracht worden van deze Voorschriften;
 
-- (e). het verplaatsen van toplichten, voortvloeiend uit het bepaalde onder [punt 2 (b) van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=2&z=2003-11-29&g=2003-11-29) van deze Bepalingen, tot negen jaar na het van kracht worden van deze Voorschriften;
+- (e). het verplaatsen van toplichten, voortvloeiend uit het bepaalde onder [punt 2 (b) van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=2&z=2009-12-01&g=2009-12-01) van deze Bepalingen, tot negen jaar na het van kracht worden van deze Voorschriften;
 
-- (f). het verplaatsen van boordlichten, voortvloeiend uit het bepaalde onder de [punten 2 (g)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=2&z=2003-11-29&g=2003-11-29) en [3 (b) van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=3&z=2003-11-29&g=2003-11-29) van deze Bepalingen, tot negen jaar na het van kracht worden van deze Voorschriften;
+- (f). het verplaatsen van boordlichten, voortvloeiend uit het bepaalde onder de [punten 2 (g)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=2&z=2009-12-01&g=2009-12-01) en [3 (b) van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=3&z=2009-12-01&g=2009-12-01) van deze Bepalingen, tot negen jaar na het van kracht worden van deze Voorschriften;
 
-- (g). de eisen inzake toestellen voor het geven van geluidseinen, voorgeschreven in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=III&z=2003-11-29&g=2003-11-29) van deze Bepalingen, tot negen jaar na het van kracht worden van deze Voorschriften.
+- (g). de eisen inzake toestellen voor het geven van geluidseinen, voorgeschreven in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=III&z=2009-12-01&g=2009-12-01) van deze Bepalingen, tot negen jaar na het van kracht worden van deze Voorschriften.
 
-- (h). Het verplaatsen van rondom zichtbare lichten, voortvloeiend uit het bepaalde onder [punt 9(b) van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=9&z=2003-11-29&g=2003-11-29) bij deze Bepalingen, permanente vrijstelling.
+- (h). Het verplaatsen van rondom zichtbare lichten, voortvloeiend uit het bepaalde onder [punt 9(b) van Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=9&z=2009-12-01&g=2009-12-01) bij deze Bepalingen, permanente vrijstelling.
 
 ##### 1. Begripsomschrijving
 
@@ -847,13 +847,13 @@ b. De loodrechte afstand tussen de toplichten van werktuiglijk voortbewogen sche
 
 c. Het toplicht van een werktuiglijk voortbewogen schip met een lengte van 12 meter of meer, doch minder dan 20 meter dient te worden geplaatst op een hoogte boven het potdeksel van niet minder dan 2,5 meter.
 
-d. Een werktuiglijk voortbewogen schip met een lengte van minder dan 12 meter mag het hoogste licht voeren op een hoogte boven het potdeksel van minder dan 2,5 meter. Wanneer echter behalve een toplicht tevens boordlichten en een heklicht worden gevoerd, of wanneer behalve de boordlichten het rondom zichtbare licht, voorgeschreven in [voorschrift 23(c) (i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2003-11-29&g=2003-11-29) wordt gevoerd, dient het toplicht of het rondom zichtbare licht ten minste 1 meter hoger dan de boordlichten te worden gevoerd.
+d. Een werktuiglijk voortbewogen schip met een lengte van minder dan 12 meter mag het hoogste licht voeren op een hoogte boven het potdeksel van minder dan 2,5 meter. Wanneer echter behalve een toplicht tevens boordlichten en een heklicht worden gevoerd, of wanneer behalve de boordlichten het rondom zichtbare licht, voorgeschreven in [voorschrift 23(c) (i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2009-12-01&g=2009-12-01) wordt gevoerd, dient het toplicht of het rondom zichtbare licht ten minste 1 meter hoger dan de boordlichten te worden gevoerd.
 
 e. Eén van de twee of drie toplichten, voorgeschreven voor een werktuiglijk voortbewogen schip, bezig met het slepen of duwen van een ander schip, dient op dezelfde plaats als het voorste toplicht of het achterste toplicht te zijn aangebracht, met dien verstande dat het onderste achtertoplicht, wanneer gevoerd aan de achtermast, loodrecht gemeten, ten minste 4,5 meter hoger dan het voorste toplicht dient te zijn aangebracht.
 
-- (i). Het toplicht of de toplichten, voorgeschreven in [Voorschrift 23(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2003-11-29&g=2003-11-29) dient (dienen) boven en vrij van alle andere lichten en afschermende scheepsdelen te zijn geplaatst, behalve in het geval zoals omschreven onder punt (f) (ii).
+- (i). Het toplicht of de toplichten, voorgeschreven in [Voorschrift 23(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=23&z=2009-12-01&g=2009-12-01) dient (dienen) boven en vrij van alle andere lichten en afschermende scheepsdelen te zijn geplaatst, behalve in het geval zoals omschreven onder punt (f) (ii).
 
-- (ii). Indien het onuitvoerbaar is de rondom zichtbare lichten, voorgeschreven in [Voorschrift 27(b) (i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=27&z=2003-11-29&g=2003-11-29) of [Voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=28&z=2003-11-29&g=2003-11-29), onder de toplichten te tonen, mogen zij boven het (de) achtertoplicht(en) of loodrecht ten opzichte van elkaar tussen het (de) voortoplicht(en) en achtertoplicht(en) getoond worden, mits in het laatste geval aan de eisen onder [punt 3(c)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=3&z=2003-11-29&g=2003-11-29) van deze Bijlage wordt voldaan.
+- (ii). Indien het onuitvoerbaar is de rondom zichtbare lichten, voorgeschreven in [Voorschrift 27(b) (i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=27&z=2009-12-01&g=2009-12-01) of [Voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=28&z=2009-12-01&g=2009-12-01), onder de toplichten te tonen, mogen zij boven het (de) achtertoplicht(en) of loodrecht ten opzichte van elkaar tussen het (de) voortoplicht(en) en achtertoplicht(en) getoond worden, mits in het laatste geval aan de eisen onder [punt 3(c)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=3&z=2009-12-01&g=2009-12-01) van deze Bijlage wordt voldaan.
 
 g. De boordlichten van een werktuiglijk voortbewogen schip dienen te zijn geplaatst op een hoogte boven de romp van niet meer dan driekwart van de hoogte van het voorste toplicht. Zij mogen niet zo laag zijn geplaatst dat hun doelmatigheid wordt verstoord door deklichten.
 
@@ -869,7 +869,7 @@ i. Wanneer de Voorschriften bepalen dat er twee of drie lichten loodrecht ten op
 
 j. Het onderste van de twee rondom zichtbare lichten, voorgeschreven voor een schip bezig met de uitoefening van de visserij, dient te zijn geplaatst op een hoogte boven de boordlichten van niet minder dan tweemaal de afstand tussen de twee loodrecht ten opzichte van elkaar geplaatste lichten.
 
-k. Wanneer in overeenstemming met [Voorschrift 30(a)(i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=30&z=2003-11-29&g=2003-11-29) voor een ten anker liggend schip twee lichten worden gevoerd, dient het voorste niet minder dan 4,5 meter boven het achterste te zijn geplaatst. Op een schip met een lengte van 50 meter of meer dient dit voorste licht op een hoogte van niet minder dan 6 meter boven de romp te zijn geplaatst.
+k. Wanneer in overeenstemming met [Voorschrift 30(a)(i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=30&z=2009-12-01&g=2009-12-01) voor een ten anker liggend schip twee lichten worden gevoerd, dient het voorste niet minder dan 4,5 meter boven het achterste te zijn geplaatst. Op een schip met een lengte van 50 meter of meer dient dit voorste licht op een hoogte van niet minder dan 6 meter boven de romp te zijn geplaatst.
 
 ##### 3. Horizontale afstand tussen lichten en hun onderlinge plaatsing
 
@@ -877,19 +877,19 @@ a. Wanneer voor een werktuiglijk voortbewogen schip twee toplichten zijn voorges
 
 b. Op een werktuiglijk voortbewogen schip met een lengte van 20 meter of meer mogen de boordlichten niet worden aangebracht vóór de voortoplichten. Zij dienen te zijn geplaatst aan of nabij de zijde van het schip.
 
-c. Wanneer de lichten, voorgeschreven in [Voorschrift 27(b) (i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=27&z=2003-11-29&g=2003-11-29) of [Voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=28&z=2003-11-29&g=2003-11-29) loodrecht ten opzichte van elkaar tussen het (de) voortoplicht(en) en achtertoplicht(en) zijn geplaatst, dienen deze rondom zichtbare lichten op een horizontale afstand van niet minder dan 2 meter, gerekend vanaf het midscheepse verticale vlak in langsrichting te zijn geplaatst in dwarsscheepse richting.
+c. Wanneer de lichten, voorgeschreven in [Voorschrift 27(b) (i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=27&z=2009-12-01&g=2009-12-01) of [Voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=28&z=2009-12-01&g=2009-12-01) loodrecht ten opzichte van elkaar tussen het (de) voortoplicht(en) en achtertoplicht(en) zijn geplaatst, dienen deze rondom zichtbare lichten op een horizontale afstand van niet minder dan 2 meter, gerekend vanaf het midscheepse verticale vlak in langsrichting te zijn geplaatst in dwarsscheepse richting.
 
 d. Wanneer voor een werktuiglijk voortbewogen schip slechts een toplicht is voorgeschreven, dient dit licht voorlijk van de midscheeps te worden getoond, met die uitzondering dat een schip met een lengte van minder dan 20 meter dit licht niet voorlijk van de midscheeps behoeft te tonen, maar het zo ver naar voren dient te tonen als praktisch uitvoerbaar is.
 
 ##### 4. Bijzonderheden inzake plaatsing van lichten die een richting aangeven op vissersschepen en schepen bezig met baggeren of met werkzaamheden onder water
 
-a. Het licht dat de richting aangeeft van het uitstaande vistuig van een schip bezig met de uitoefening van de visserij, voorgeschreven in [voorschrift 26 (c) (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=26&z=2003-11-29&g=2003-11-29), dient te zijn geplaatst op een horizontale afstand van niet minder dan 2 meter en niet meer dan 6 meter, gerekend vanaf de twee rondom zichtbare rode en witte lichten,. Dit licht mag niet hoger zijn geplaatst dan het rondom zichtbare witte licht, voorgeschreven in voorschrift 26 (c) (i) en niet lager dan de boordlichten.
+a. Het licht dat de richting aangeeft van het uitstaande vistuig van een schip bezig met de uitoefening van de visserij, voorgeschreven in [voorschrift 26 (c) (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=26&z=2009-12-01&g=2009-12-01), dient te zijn geplaatst op een horizontale afstand van niet minder dan 2 meter en niet meer dan 6 meter, gerekend vanaf de twee rondom zichtbare rode en witte lichten,. Dit licht mag niet hoger zijn geplaatst dan het rondom zichtbare witte licht, voorgeschreven in voorschrift 26 (c) (i) en niet lager dan de boordlichten.
 
-b. De lichten en dagmerken op een schip bezig met baggeren of met werkzaamheden onder water, welke de kant aangeven waar het vaarwater niet vrij is en de kant waar veilig voorbij gevaren kan worden, voorgeschreven in [voorschrift 27 (d) (i) en (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=27&z=2003-11-29&g=2003-11-29), dienen te zijn geplaatst op de grootst mogelijke horizontale afstand, doch in geen geval minder dan 2 meter, gerekend vanaf de lichten of dagmerken, voorgeschreven in voorschrift 27 (b) (i) en (ii). In geen geval dient het bovenste licht of het bovenste dagmerk op een grotere hoogte te zijn geplaatst dan het onderste van de drie lichten of het onderste van de dagmerken, voorgeschreven in voorschrift 27 (b) (i) en (ii).
+b. De lichten en dagmerken op een schip bezig met baggeren of met werkzaamheden onder water, welke de kant aangeven waar het vaarwater niet vrij is en de kant waar veilig voorbij gevaren kan worden, voorgeschreven in [voorschrift 27 (d) (i) en (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=27&z=2009-12-01&g=2009-12-01), dienen te zijn geplaatst op de grootst mogelijke horizontale afstand, doch in geen geval minder dan 2 meter, gerekend vanaf de lichten of dagmerken, voorgeschreven in voorschrift 27 (b) (i) en (ii). In geen geval dient het bovenste licht of het bovenste dagmerk op een grotere hoogte te zijn geplaatst dan het onderste van de drie lichten of het onderste van de dagmerken, voorgeschreven in voorschrift 27 (b) (i) en (ii).
 
 ##### 5. Schermen voor boordlichten
 
-De boordlichten van schepen met een lengte van 20 meter of meer dienen aan de binnenzijde te zijn voorzien van dofzwart geschilderde schermen, die voldoen aan de eisen onder [punt 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=9&z=2003-11-29&g=2003-11-29) van deze Bijlage. Op schepen met een lengte van minder dan 20 meter dienen de boordlichten, indien nodig om te voldoen aan de eisen onder punt 9 van deze Bijlage, te zijn voorzien van dofzwart geschilderde schermen. Bij een gecombineerde lantaarn met een enkel staand filament en een zeer smalle scheiding tussen het groene en het rode gedeelte, behoeven geen schermen aan de buitenzijde te zijn aangebracht.
+De boordlichten van schepen met een lengte van 20 meter of meer dienen aan de binnenzijde te zijn voorzien van dofzwart geschilderde schermen, die voldoen aan de eisen onder [punt 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=9&z=2009-12-01&g=2009-12-01) van deze Bijlage. Op schepen met een lengte van minder dan 20 meter dienen de boordlichten, indien nodig om te voldoen aan de eisen onder punt 9 van deze Bijlage, te zijn voorzien van dofzwart geschilderde schermen. Bij een gecombineerde lantaarn met een enkel staand filament en een zeer smalle scheiding tussen het groene en het rode gedeelte, behoeven geen schermen aan de buitenzijde te zijn aangebracht.
 
 ##### 6. Dagmerken
 
@@ -958,9 +958,9 @@ Noot: De maximum lichtsterkte van navigatielichten dient te worden beperkt ter v
 
 - (i). Boordlichten zoals aangebracht op het schip dienen in de richting recht vooruit de vereiste minste lichtsterkte te hebben. De lichtsterkte moet zodanig afnemen, dat tussen 1 en 3 graden buiten de voorgeschreven voorste sectorgrenzen vrijwel geen licht meer waarneembaar is.
 
-- (ii). Voor heklichten en toplichten en voor boordlichten bij 22,5 graden achterlijker dan dwars dienen de vereiste minste lichtsterkten te worden gehandhaafd over de boog van de horizon tot 5 graden binnen de in [voorschrift 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=21&z=2003-11-29&g=2003-11-29) voorgeschreven sectorgrenzen. Vanaf 5 graden binnen deze voorgeschreven sectorgrenzen mag de lichtsterkte afnemen met 50 percent tot aan de voorgeschreven sectorgrenzen; zij dient daarna geleidelijk af te nemen en wel zodanig, dat bij niet meer dan 5 graden buiten de sectorgrenzen bij 22,5 graden achterlijker dan dwars vrijwel geen licht meer waarneembaar is.
+- (ii). Voor heklichten en toplichten en voor boordlichten bij 22,5 graden achterlijker dan dwars dienen de vereiste minste lichtsterkten te worden gehandhaafd over de boog van de horizon tot 5 graden binnen de in [voorschrift 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=21&z=2009-12-01&g=2009-12-01) voorgeschreven sectorgrenzen. Vanaf 5 graden binnen deze voorgeschreven sectorgrenzen mag de lichtsterkte afnemen met 50 percent tot aan de voorgeschreven sectorgrenzen; zij dient daarna geleidelijk af te nemen en wel zodanig, dat bij niet meer dan 5 graden buiten de sectorgrenzen bij 22,5 graden achterlijker dan dwars vrijwel geen licht meer waarneembaar is.
 
-- (i). Rondom zichtbare lichten dienen zo te worden aangebracht dat zij niet door masten, stengen of scheepsdelen over een boog van meer dan 6 graden worden afgeschermd; lichten, voorgeschreven in [voorschrift 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=30&z=2003-11-29&g=2003-11-29) voor ten anker liggende schepen, behoeven evenwel niet op een onredelijke hoogte boven de romp te zijn aangebracht.
+- (i). Rondom zichtbare lichten dienen zo te worden aangebracht dat zij niet door masten, stengen of scheepsdelen over een boog van meer dan 6 graden worden afgeschermd; lichten, voorgeschreven in [voorschrift 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=30&z=2009-12-01&g=2009-12-01) voor ten anker liggende schepen, behoeven evenwel niet op een onredelijke hoogte boven de romp te zijn aangebracht.
 
 - (ii). Indien het niet uitvoerbaar is aan letter b) i) van dit punt te voldoen door slechts een rondom zichtbaar licht te tonen, dienen twee rondom zichtbare lichten te worden gebruikt, die op passende wijze zijn geplaatst of afgeschermd zodat zij, voor zover uitvoerbaar, op een afstand van een mijl als één licht toeschijnen.
 
@@ -982,17 +982,17 @@ c. Bij niet-elektrische lichten dient zo goed mogelijk aan deze eisen te worden 
 
 ##### 11. Lichtsterkte van niet-elektrische lichten
 
-Niet-elektrische lichten dienen voorzover uitvoerbaar te voldoen aan de eisen van minste lichtsterkte zoals aangegeven in de tabel onder [punt 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=8&z=2003-11-29&g=2003-11-29) van deze Bijlage.
+Niet-elektrische lichten dienen voorzover uitvoerbaar te voldoen aan de eisen van minste lichtsterkte zoals aangegeven in de tabel onder [punt 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=8&z=2009-12-01&g=2009-12-01) van deze Bijlage.
 
 ##### 12. Manoeuvreerlicht
 
-Ongeacht het bepaalde onder [punt 2 (f)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=2&z=2003-11-29&g=2003-11-29) van deze Bijlage dient het manoeuvreerlicht beschreven in [voorschrift 34 (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=D&artikel=34&z=2003-11-29&g=2003-11-29) in hetzelfde verticale vlak te zijn geplaatst als het toplicht of de toplichten en, waar uitvoerbaar, ten minste 2 meter hoger dan het voortoplicht, met dien verstande dat het ten minste 2 meter hoger of lager dan het achtertoplicht dient te worden gevoerd. Op een schip waar slechts één toplicht wordt gevoerd, dient het manoeuvreerlicht, indien aangebracht, te worden gevoerd daar waar dit het best kan worden gezien en ten minste 2 meter hoger dan het toplicht.
+Ongeacht het bepaalde onder [punt 2 (f)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=2&z=2009-12-01&g=2009-12-01) van deze Bijlage dient het manoeuvreerlicht beschreven in [voorschrift 34 (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=D&artikel=34&z=2009-12-01&g=2009-12-01) in hetzelfde verticale vlak te zijn geplaatst als het toplicht of de toplichten en, waar uitvoerbaar, ten minste 2 meter hoger dan het voortoplicht, met dien verstande dat het ten minste 2 meter hoger of lager dan het achtertoplicht dient te worden gevoerd. Op een schip waar slechts één toplicht wordt gevoerd, dient het manoeuvreerlicht, indien aangebracht, te worden gevoerd daar waar dit het best kan worden gezien en ten minste 2 meter hoger dan het toplicht.
 
 ##### 13. Snelle schepen1)Zie de internationale veiligheidscode voor hogesnelheidsvaartuigen 1994, aangenomen door de Maritieme Veiligheidscommissie van de Organisatie bij resolutie MSC.36 (63) en de internationale veiligheidscode voor hogesnelheidsvaartuigen 2000, aangenomen bij resolutie MSC.97 (73).
 
-- a. Het toplicht van een snel schip kan worden geplaatst op een hoogte die in verhouding met de breedte van het schip geringer is dan die voorgeschreven in [punt 2a.i](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=2&z=2003-11-29&g=2003-11-29) van deze Bijlage, mits de basishoek van de gelijkbenige driehoeken gevormd door de boordlichten en het toplicht, van voren gezien, niet kleiner is dan 27°.
+- a. Het toplicht van een snel schip kan worden geplaatst op een hoogte die in verhouding met de breedte van het schip geringer is dan die voorgeschreven in [punt 2a.i](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=2&z=2009-12-01&g=2009-12-01) van deze Bijlage, mits de basishoek van de gelijkbenige driehoeken gevormd door de boordlichten en het toplicht, van voren gezien, niet kleiner is dan 27°.
 
-- b. Op snelle schepen met een lengte van 50 meter of meer, mag de loodrechte afstand tussen het voortoplicht en het achtertoplicht van 4,5 meter zoals voorgeschreven in [punt 2a.ii](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=2&z=2003-11-29&g=2003-11-29) van deze Bijlage worden gewijzigd, mits deze afstand niet kleiner is dan de waarde bepaald met de volgende formule: y = (a + 17ψ)C / 1000 + 2 waarbij:
+- b. Op snelle schepen met een lengte van 50 meter of meer, mag de loodrechte afstand tussen het voortoplicht en het achtertoplicht van 4,5 meter zoals voorgeschreven in [punt 2a.ii](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&bijlage=I&artikel=2&z=2009-12-01&g=2009-12-01) van deze Bijlage worden gewijzigd, mits deze afstand niet kleiner is dan de waarde bepaald met de volgende formule: y = (a + 17ψ)C / 1000 + 2 waarbij:
 
 - y. de hoogte is van het achtertoplicht boven het voortoplicht in meters;
 
@@ -1004,7 +1004,7 @@ Ongeacht het bepaalde onder [punt 2 (f)](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### 1. Algemeen
 
-De hierin genoemde lichten dienen, indien getoond op grond van [voorschrift 26 (d)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=26&z=2003-11-29&g=2003-11-29), te zijn geplaatst daar waar zij het best kunnen worden gezien. De afstand tussen deze lichten dient ten minste 0,9 meter te zijn, doch zij dienen lager te zijn geplaatst dan de lichten, voorgeschreven in voorschrift 26 (b) (i) en (c) (i). De lichten dienen rondom zichtbaar te zijn op een afstand van ten minste 1 zeemijl, doch op een kleinere afstand dan de in deze Voorschriften voor vissersschepen voorgeschreven lichten.
+De hierin genoemde lichten dienen, indien getoond op grond van [voorschrift 26 (d)](https://wetten.overheid.nl/jci1.3:c:BWBV0001014&deel=C&artikel=26&z=2009-12-01&g=2009-12-01), te zijn geplaatst daar waar zij het best kunnen worden gezien. De afstand tussen deze lichten dient ten minste 0,9 meter te zijn, doch zij dienen lager te zijn geplaatst dan de lichten, voorgeschreven in voorschrift 26 (b) (i) en (c) (i). De lichten dienen rondom zichtbaar te zijn op een afstand van ten minste 1 zeemijl, doch op een kleinere afstand dan de in deze Voorschriften voor vissersschepen voorgeschreven lichten.
 
 ##### 2. Seinen voor treilers
 
@@ -1091,49 +1091,53 @@ De constructie van toestellen voor geluidseinen, hun werking en de plaatsing aan
 
 ##### 1
 
-De volgende seinen, te zamen of afzonderlijk gebruikt of getoond, geven een noodsituatie en behoefte aan hulp aan:
+De volgende seinen, tezamen of afzonderlijk gebruikt of getoond, geven een noodsituatie en behoefte aan hulp aan:
 
-- (a). een kanonschot of ander knalsein, afgevuurd met tussenpozen van ongeveer één minuut;
+- a. een kanonschot of ander knalsein, afgevuurd met tussenpozen van ongeveer één minuut;
 
-- (b). een aanhoudend geluid met een toestel voor mistseinen;
+- b. een aanhoudend geluid met een toestel voor mistseinen;
 
-- (c). vuurpijlen of lichtkogels, die rode sterren uitwerpen en één voor één met korte tussenpozen worden afgevuurd;
+- c. vuurpijlen of lichtkogels, die rode sterren uitwerpen en één voor één met korte tussenpozen worden afgevuurd;
 
-- (d). een sein, door middel van radiotelegrafie of enige andere seinwijze uitgezonden, bestaande uit de groep ... --- ... (SOS ) van de Morse code;
+- d. een sein, door middel van een seinwijze uitgezonden, bestaande uit de groep … – – – … (SOS) van de morsecode;
 
-- (e). een sein, uitgezonden door middel van radiotelefonie, bestaande uit het gesproken woord „meedee";
+- e. een sein, uitgezonden door middel van radiotelefonie, bestaande uit het gesproken woord „MAYDAY”;
 
-- (f). het noodsein „NC" uit het Internationaal Seinboek;
+- f. het noodsein „N.C.” uit het Internationaal Seinboek;
 
-- (g). een sein, bestaande uit een vierkante vlag, met daarboven of daaronder een bal of een voorwerp dat op een bal gelijkt;
+- g. een sein bestaande uit een vierkante vlag met daarboven of daaronder een bal of een voorwerp dat op een bal gelijkt;
 
-- (h). vlammen boven het schip (zoals van een brandend teervat, olievat enz);
+- h. vlammen boven het schip (zoals van een brandend teervat, olievat, etc.);
 
-- (i). een valschermsignaal of een handstakellicht dat een rood licht toont;
+- i. een valschermsignaal of een handstakellicht dat een rood licht toont;
 
-- (j). een rooksignaal dat oranje gekleurde rook afgeeft;
+- j. een rooksignaal dat oranje gekleurde rook afgeeft;
 
-- (k). langzaam en herhaald op en neer bewegen van de naar beide zijden uitgestrekte armen;
+- k. langzaam en herhaald op en neer bewegen van de naar beide zijden uitgestrekte armen;
 
-- (l). het radiotelegrafie-alarmsem;
+- l. een noodsignaal door middel van digital selective calling (DCS) uitgezonden op:
 
-- (m). het radiotelefonie-alarmsein;
+- i. VHF-kanaal 70, of
 
-- (n). seinen uitgezonden door noodradiobakens die de positie aanduiden.
+- ii. MF/HF op de frequenties 2187,5 kHz, 8414,5 kHz, 4207,5 kHz, 6312 kHz, 12577 kHz of 16804,5 kHz;
 
-- (o). goedgekeurde seinen uitgezonden door systemen voor radiocommunicatie, met inbegrip van radartransponders van groepsreddingmiddelen.
+- m. een schip-naar-wal noodsignaal, verzonden via Inmarsat of een op een andere mobiele satellietdienst werkend grondstation van het schip;
+
+- n. seinen uitgezonden door noodradiobakens die de positie aanduiden;
+
+- o. goedgekeurde seinen uitgezonden door systemen voor radiocommunicatie, met inbegrip van radartransponders van groepsreddingsmiddelen.
 
 ##### 2
 
-Het gebruik of het tonen van vorengenoemde seinen anders dan om een noodsituatie en behoefte aan hulp aan te geven en het gebruik van seinen die met één der bovengenoemde seinen kunnen worden verward, is verboden.
+Het gebruik of het tonen van vorengenoemde seinen anders dan om een noodsituatie en behoefte aan hulp aan te geven en het gebruik van andere seinen die met een van de bovengenoemde seinen kunnen worden verward, is verboden.
 
 ##### 3
 
-De aandacht wordt gevestigd op de desbetreffende afdelingen van het Internationaal Seinboek, het Handboek Opsporing en Redding op Zee (Mersar) en op de volgende seinen:
+De aandacht wordt gevestigd op de desbetreffende afdelingen van het Internationaal Seinboek, het **International Aeronautical and Maritime Search and Rescue Manual**, deel III, en de volgende signalen:
 
-- (a). een stuk oranje gekleurd zeildoek met een zwart vierkant en een zwarte cirkel of een ander passend symbool (voor herkenning vanuit de lucht);
+- a. een stuk oranje gekleurd zeildoek met een zwart vierkant en een zwarte cirkel of een ander passend symbool (voor herkenning vanuit de lucht);
 
-- (b). een kleurstof om het water te verkleuren.
+- b. een kleurstof om het water te verkleuren.
 
 IN WITNESS WHEREOF the undersigned being duly authorized by their respective Governments for that purpose have signed the present Convention.
 
