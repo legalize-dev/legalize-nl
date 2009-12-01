@@ -4,7 +4,7 @@ identifier: "BWBR0023645"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-03-31"
-last_updated: "2009-09-17"
+last_updated: "2009-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023645"
 soort: "zbo"
@@ -41,15 +41,15 @@ Besluit:
 
 ##### Artikel 1
 
-De kantoren van de Dienst zijn gevestigd in de gemeenten Amsterdam, Apeldoorn, Arnhem, Eindhoven, Emmen, Groningen, Rotterdam en Zwolle.
+De kantoren van de Dienst zijn gevestigd in de gemeenten Amsterdam, Apeldoorn, Arnhem, Eindhoven, Groningen, Rotterdam en Zwolle.
 
 ##### Artikel 2
 
-1. De kantoren, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023645&artikel=1&z=2009-09-17&g=2009-09-17), zijn, voor zover aldaar stukken ter inschrijving in de openbare registers kunnen worden aangeboden, voor dat doel voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 15.00 uur.
+1. De kantoren, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023645&artikel=1&z=2009-12-01&g=2009-12-01), zijn, met uitzondering van de kantoren te Apeldoorn, voor de aanbieding van stukken ter inschrijving in de openbare registers voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 15.00.
 
 2. Het kantoor te Apeldoorn, Hofstraat 110, is uitsluitend voor de aanbieding van in depot te nemen tekeningen en andere stukken die deel uitmaken van een stuk dat ter inschrijving in de openbare registers zal worden aangeboden, voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 15.00 uur.
 
-3. De kantoren, bedoeld in het eerste lid, en het kantoor te Emmen zijn voor de verstrekking van informatie voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 17.00 uur.
+3. De kantoren, bedoeld in het eerste lid, zijn, met uitzondering van de kantoren te Apeldoorn, voor de verstrekking van informatie voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 17.00.
 
 4. In afwijking van het eerste, tweede en derde lid, zijn de aldaar genoemde kantoren voor het publiek gesloten op de nieuwjaarsdag, de Hemelvaartsdag, de christelijke tweede Paas- en Pinksterdag, de beide Kerstdagen, de Koninginnedag en de vijfde mei.
 
