@@ -4,7 +4,7 @@ identifier: "BWBR0026017"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2009-07-01"
+last_updated: "2009-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026017"
 soort: "ministeriele-regeling"
@@ -52,53 +52,55 @@ In deze regeling wordt verstaan onder:
 
 - c. **AOW:** [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
 
-- d. **TW:** [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
+- d. IOW: [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
 
-- e. **WW:** [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+- e. **TW:** [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
 
-- f. **WAZO:** [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
+- f. **WW:** [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- g. **Wajong:** [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+- g. **WAZO:** [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
 
-- h. **WAZ:** [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
+- h. **Wajong:** [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
-- i. **WAO:** [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+- i. **WAZ:** [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
 
-- j. **Wet WIA:** [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
+- j. **WAO:** [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- k. **ZW:** [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+- k. **Wet WIA:** [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
-- l. **schuldenaar:** degene aan wie een bestuurlijke boete is opgelegd of van wie een bedrag wordt teruggevorderd;
+- l. **ZW:** [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- m. **werkgever:** de schuldenaar die tevens werkgever of eigenrisicodrager is;
+- m. **schuldenaar:** degene aan wie een bestuurlijke boete is opgelegd of van wie een bedrag wordt teruggevorderd;
 
-- n. **bestuurlijke boete:** een bestuurlijke boete als bedoeld in het eerste lid van de artikelen 17a van de AKW, 39 van de Anw, 17c van de AOW, 14a van de TW, 27a van de WW, 3:16 en 3:27 van de WAZO, 40 van de Wajong, 48 van de WAZ, 29a van de WAO, 91 van de Wet WIA, en in de artikelen 38, vierde lid, 38a, zevende lid, 45a, eerste lid, en 63c van de ZW;
+- n. **werkgever:** de schuldenaar die tevens werkgever of eigenrisicodrager is;
 
-- o. **vordering:**
+- o. **bestuurlijke boete:** een bestuurlijke boete als bedoeld in het eerste lid van de [artikelen 17a van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17a), [39 van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=39), [17c van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17c), [21 van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=21), [14a van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a), [27a van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:16) en [3:27 van de WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:27), [40 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=40), [48 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [29a van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [91 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91), en in de [artikelen 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), [45a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a), en [63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c);
 
-- a. het bedrag dat wordt teruggevorderd op grond van de artikelen 24 van de AKW, 53 van de Anw, 24 van de AOW, 20 van de TW, 36 van de WW, 3:16 en 3:27 van de WAZO, 55 van de Wajong, 63 van de WAZ, 57 van de WAO, 77 van de Wet WIA, of 33 van de ZW; ;
+- p. **vordering:**
+
+- a. het bedrag dat wordt teruggevorderd op grond van de [artikelen 24 van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24), [53 van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=53), [24 van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24), [34 van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=34), [20 van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20), [36 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), [3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:16) en [3:27 van de WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:27), [55 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=55), [63 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=63), [57 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57), [77 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=77), of [33 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33); ;
 
 - b. het bedrag dat als bestuurlijke boete is opgelegd;
 
-- c. het bedrag dat het UWV op de werkgever verhaalt op grond van de artikelen 71, tweede lid, 75a, vierde lid, 75b, zevende lid, 75f, eerste lid, van de WAO, 72, tweede lid, 83, derde lid, 84, tweede of vierde lid, van de Wet WIA, 39a, eerste lid, of 63a, derde, vierde of vijfde lid, van de ZW of
+- c. het bedrag dat het UWV op de werkgever verhaalt op grond van de [artikelen 71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71), [75a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=75a), [75b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=75b), [75f, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=75f), [72, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=72), [83, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=83), [84, tweede of vierde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=84), [39a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=39a), of [63a, derde, vierde of vijfde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) of
 
-- d. het bedrag van een aan een werkgever verstrekt re-integratie-instrument dat wordt teruggevorderd op grond van artikel 77 van de Wet WIA;
+- d. het bedrag van een aan een werkgever verstrekt re-integratie-instrument dat wordt teruggevorderd op grond van [artikel 77 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=77);
 
-- p. **aflossingscapaciteit:** het deel van het inkomen van de schuldenaar dat met inachtneming van de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering, kan worden aangewend voor betaling of verrekening van de vordering;
+- q. **aflossingscapaciteit:** het deel van het inkomen van de schuldenaar dat met inachtneming van de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c), kan worden aangewend voor betaling of verrekening van de vordering;
 
-- q. **vermogen:** vermogensrechten, onroerende en roerende zaken, niet zijnde gebruikelijke huisraad, waarvan de dagwaarde per zaak € 1 134 of meer bedraagt;
+- r. **vermogen:** vermogensrechten, onroerende en roerende zaken, niet zijnde gebruikelijke huisraad, waarvan de dagwaarde per zaak € 1 134 of meer bedraagt;
 
-- r. **inlichtingenverplichting:** de verplichting, bedoeld in de artikelen 15 van de AKW, 35 van de Anw, 49 van de AOW, 12 van de TW, 25 van de WW, 3:16 en 3:27 van de WAZO, 62 van de Wajong, 70 van de WAZ, 80 van de WAO, 27, eerste lid, van de Wet WIA en 31, eerste lid, en 49 van de ZW;
+- s. **inlichtingenverplichting:** de verplichting, bedoeld in de [artikelen 15 van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=15), [35 van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=35), [49 van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=49), [12, eerste lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=12), [12 van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12), [25 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), [3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:16) en [3:27 van de WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:27), [62 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=62), [70 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=70), [80 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=80), [27, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=27) en [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), en [49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49);
 
-- s. **bijstandsnorm:** de voor de schuldenaar op grond van hoofdstuk 3, paragraaf 3.2 en paragraaf 3.3, van de Wet werk en bijstand geldende bijstandsnorm;
+- t. **bijstandsnorm:** de voor de schuldenaar op grond van [hoofdstuk 3, paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.2) en [paragraaf 3.3, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=3.2) geldende bijstandsnorm;
 
-- t. **UWV:** Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;
+- u. **UWV:** Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- u. **SVB:** de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen.
+- v. **SVB:** de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6).
 
 ##### Artikel 2. Bevoegdheid verrekening met werkgever
 
-Het UWV is, naast de in artikel 1, onderdeel a tot en met k, genoemde wetten opgenomen bevoegdheden tot verrekening van vorderingen op werknemers, tevens bevoegd tot verrekening van een vordering op de werkgever met een aan de werkgever te betalen bedrag.
+Het UWV is, naast de in [artikel 1, onderdelen a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=1&z=2009-12-01&g=2009-12-01), genoemde wetten opgenomen bevoegdheden tot verrekening van vorderingen op werknemers, tevens bevoegd tot verrekening van een vordering op de werkgever met een aan de werkgever te betalen bedrag.
 
 ##### Artikel 3. Standaard regeling voor uitstel van betaling
 
@@ -114,7 +116,7 @@ Het UWV is, naast de in artikel 1, onderdeel a tot en met k, genoemde wetten opg
 
 2. Het UWV en de SVB verlenen uitstel van betaling voor ten hoogste 36 maanden. De geldschuld wordt gedurende die periode in termijnen ter hoogte van de volledige aflossingscapaciteit betaald of verrekend.
 
-3. In afwijking van het tweede lid, tweede zin, wordt op verzoek van de schuldenaar ten minste de halve aflossingscapaciteit toegepast onder de voorwaarde dat de vordering geheel wordt voldaan binnen de in het tweede lid genoemde termijn van 36 maanden. De schuldenaar wordt erop gewezen dat kwijtschelding als bedoeld in de artikelen 24, derde lid, van de AKW, 53, derde lid, van de Anw, 24, derde lid, van de AOW, 20, derde lid, van de TW, 36, derde lid, van de WW, 3:16 en 3:27 van de WAZO, 55, derde lid, van de Wajong, 63, derde lid, van de WAZ, 57, derde lid, van de WAO, 77, derde lid, van de Wet WIA of 33, derde lid, van de ZW niet mogelijk is.
+3. In afwijking van het tweede lid, tweede zin, wordt op verzoek van de schuldenaar ten minste de halve aflossingscapaciteit toegepast onder de voorwaarde dat de vordering geheel wordt voldaan binnen de in het tweede lid genoemde termijn van 36 maanden. De schuldenaar wordt erop gewezen dat kwijtschelding als bedoeld in de [artikelen 24, derde lid, van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24), [53, derde lid, van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=53), [24, derde lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24), [35, tweede lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=35), [20, derde lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20), [36, derde lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), [3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:16) en [3:27 van de WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:27), [55, derde lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=55), [63, derde lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=63), [57, derde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57), [77, derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=77) of [33, derde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33) niet mogelijk is.
 
 4. Indien de schuldenaar hogere periodieke betalingen of verrekeningen voorstelt dan het bedrag, bedoeld in het tweede lid, stelt het UWV of de SVB de termijnen conform dit voorstel vast.
 
@@ -191,5 +193,11 @@ Deze regeling treedt in werking op het tijdstip waarop de Vierde tranche Algemen
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tenuitvoerlegging bestuurlijke boeten en terugvordering onverschuldigde betalingen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust mede op de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=22), [24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=24), [35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=35), en [37 van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=37).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
