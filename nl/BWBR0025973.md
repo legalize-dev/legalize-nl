@@ -4,7 +4,7 @@ identifier: "BWBR0025973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-01"
-last_updated: "2009-07-01"
+last_updated: "2009-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025973"
 soort: "ministeriele-regeling"
@@ -198,7 +198,7 @@ In dit reglement wordt verstaan onder:
 
 - 64. **vrije breedte van het gangboord:** de afstand tussen de loodrechte lijn door het meest ver in het gangboord uitstekende deel van het luikhoofd en de loodrechte lijn door de binnenkant van de beveiliging tegen vallen (reling, voetlijst) aan de buitenkant van het gangboord;
 
-- 65. **stuurinrichting:** iedere voor het sturen van het schip benodigde inrichting die voor het bereiken van de manoeuvreereigenschappen als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-07-01) moet worden gebruikt;
+- 65. **stuurinrichting:** iedere voor het sturen van het schip benodigde inrichting die voor het bereiken van de manoeuvreereigenschappen als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-12-01) moet worden gebruikt;
 
 - 66. **roer:** het roerblad of de roerbladen met de roerkoning en met inbegrip van het kwadrant, de helmstok en de verbindingsdelen met de stuurmachine;
 
@@ -228,9 +228,9 @@ In dit reglement wordt verstaan onder:
 
 - 79. **onbrandbaar:** een materiaal dat niet brandbaar is en geen ontvlambare gassen ontwikkelt in zodanige hoeveelheden dat deze bij verhitting tot ongeveer 750 °C tot zelfontbranding overgaan;
 
-- 80. **moeilijk ontvlambaar:** een materiaal dat zelf of waarbij tenminste de oppervlakken daarvan het uitbreiden van een brand volgens de testprocedure als bedoeld in [artikel 15.11, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-07-01), beperken;
+- 80. **moeilijk ontvlambaar:** een materiaal dat zelf of waarbij tenminste de oppervlakken daarvan het uitbreiden van een brand volgens de testprocedure als bedoeld in [artikel 15.11, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-12-01), beperken;
 
-- 81. **brandwerendheid:** de eigenschap van constructiedelen of inrichtingen die is aangetoond met de testprocedure als bedoeld in [artikel 15.11, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-07-01);
+- 81. **brandwerendheid:** de eigenschap van constructiedelen of inrichtingen die is aangetoond met de testprocedure als bedoeld in [artikel 15.11, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-12-01);
 
 - 81a. **Code voor brandtestprocedures:** de bij de resolutie MSC.61(67) van het maritieme veiligheidscomité van de IMO aangenomen Internationale code voor de toepassing van brandtestprocedures;
 
@@ -284,27 +284,27 @@ In dit reglement wordt verstaan onder:
 
 ##### Artikel 1.03. Certificaat van onderzoek
 
-De in [artikel 1.02, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.02&z=2009-07-01&g=2009-07-01), bedoelde vaartuigen moeten zijn voorzien van een certificaat van onderzoek dat is afgegeven door een Commissie van Deskundigen, die door één der Oeverstaten of België is ingesteld, of van een door de Centrale Commissie van de Rijnvaart als gelijkwaardig erkend certificaat.
+De in [artikel 1.02, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.02&z=2009-07-01&g=2009-12-01), bedoelde vaartuigen moeten zijn voorzien van een certificaat van onderzoek dat is afgegeven door een Commissie van Deskundigen, die door één der Oeverstaten of België is ingesteld, of van een door de Centrale Commissie van de Rijnvaart als gelijkwaardig erkend certificaat.
 
 ##### Artikel 1.04. Kanaalspitsen, die varen tussen Basel en de sluizen te Iffezheim
 
-Voor kanaalspitsen die slechts de Rijn tussen Basel (Mittlere Rheinbrücke) en de sluizen te Iffezheim (met inbegrip van de meest benedenstrooms gelegen voorhaven) bevaren, volstaat in plaats van het certificaat van onderzoek een door een Commissie van Deskundigen van één der Oeverstaten of België afgegeven certificaat, waaruit de geschiktheid voor de vaart op dit riviergedeelte blijkt. In dit geval moeten zij voldoen aan [hoofdstuk 19](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=19&z=2009-07-01&g=2009-07-01).
+Voor kanaalspitsen die slechts de Rijn tussen Basel (Mittlere Rheinbrücke) en de sluizen te Iffezheim (met inbegrip van de meest benedenstrooms gelegen voorhaven) bevaren, volstaat in plaats van het certificaat van onderzoek een door een Commissie van Deskundigen van één der Oeverstaten of België afgegeven certificaat, waaruit de geschiktheid voor de vaart op dit riviergedeelte blijkt. In dit geval moeten zij voldoen aan [hoofdstuk 19](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=19&z=2009-07-01&g=2009-12-01).
 
 ##### Artikel 1.05. Zeeschepen
 
-Voor zeeschepen wordt het certificaat van onderzoek volgens [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2009-07-01&g=2009-07-01), indien zij niet van dit certificaat zijn voorzien, vervangen door een certificaat volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=G&z=2009-07-01&g=2009-07-01), waaruit de geschiktheid voor de vaart op de Rijn blijkt. In dit geval moeten zij voldoen aan [hoofdstuk 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=20&z=2009-07-01&g=2009-07-01).
+Voor zeeschepen wordt het certificaat van onderzoek volgens [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2009-07-01&g=2009-12-01), indien zij niet van dit certificaat zijn voorzien, vervangen door een certificaat volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=G&z=2009-07-01&g=2009-12-01), waaruit de geschiktheid voor de vaart op de Rijn blijkt. In dit geval moeten zij voldoen aan [hoofdstuk 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=20&z=2009-07-01&g=2009-12-01).
 
 ##### Artikel 1.06. Wijzigingen door voorschriften van tijdelijke aard
 
 De Centrale Commissie voor de Rijnvaart kan voorschriften van tijdelijke aard vaststellen, wanneer het voor een aanpassing aan de technische ontwikkeling van de binnenscheepvaart noodzakelijk wordt geacht om in dringende gevallen afwijkingen van dit reglement toe te laten dan wel proefnemingen mogelijk te maken, waardoor de veiligheid en de vlotte afwikkeling van het scheepvaartverkeer niet worden benadeeld. Deze voorschriften van tijdelijke aard worden door de bevoegde autoriteit gepubliceerd en hebben een geldigheidsduur van ten hoogste drie jaren. Zij worden in alle Oeverstaten en in België op hetzelfde tijdstip in werking gesteld en worden onder dezelfde voorwaarden buiten werking gesteld.
 
-##### Artikel 1.07. Richtlijnen voor de Commissies van Deskundigen en de ter zake van [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-07-01) bevoegde autoriteiten
+##### Artikel 1.07. Richtlijnen voor de Commissies van Deskundigen en de ter zake van [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-12-01) bevoegde autoriteiten
 
 1. In het belang van een eenvoudige en uniforme toepassing van dit reglement kan de Centrale Commissie voor de Rijnvaart richtlijnen voor de Commissies van Deskundigen vaststellen. De Commissies van Deskundigen worden van deze richtlijnen in kennis gesteld.
 
-2. In het belang van een eenvoudige en uniforme toepassing van [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-07-01) kan de Centrale Commissie voor de Rijnvaart richtlijnen voor de terzake van dat hoofdstuk bevoegde autoriteiten vaststellen. Deze bevoegde autoriteiten worden van deze richtlijnen in kennis gesteld.
+2. In het belang van een eenvoudige en uniforme toepassing van [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-12-01) kan de Centrale Commissie voor de Rijnvaart richtlijnen voor de terzake van dat hoofdstuk bevoegde autoriteiten vaststellen. Deze bevoegde autoriteiten worden van deze richtlijnen in kennis gesteld.
 
-3. De Commissies van Deskundigen en de ter zake van [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-07-01) bevoegde autoriteiten dienen zich aan deze richtlijnen te houden.
+3. De Commissies van Deskundigen en de ter zake van [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-12-01) bevoegde autoriteiten dienen zich aan deze richtlijnen te houden.
 
 ### Hoofdstuk 2. Procedure
 
@@ -330,7 +330,7 @@ De voorzitter en de deskundigen dienen bij de aanvaarding van hun functie schrif
 
 ##### Artikel 2.02. Aanvraag van het onderzoek
 
-1. De eigenaar van een vaartuig of zijn vertegenwoordiger die een onderzoek hiervan wenst, moet bij de Commissie van Deskundigen van zijn keuze een aanvraag indienen volgens het model van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=A&z=2009-07-01&g=2009-07-01). De Commissie van Deskundigen stelt vast welke bescheiden moeten worden overgelegd.
+1. De eigenaar van een vaartuig of zijn vertegenwoordiger die een onderzoek hiervan wenst, moet bij de Commissie van Deskundigen van zijn keuze een aanvraag indienen volgens het model van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=A&z=2009-07-01&g=2009-12-01). De Commissie van Deskundigen stelt vast welke bescheiden moeten worden overgelegd.
 
 2. De eigenaar van een vaartuig, waarop dit reglement niet van toepassing is, of zijn vertegenwoordiger, kan een certificaat van onderzoek aanvragen. Aan deze aanvraag dient gevolg te worden gegeven wanneer het schip voldoet aan de bepalingen van dit reglement.
 
@@ -346,7 +346,7 @@ De Commissie van Deskundigen moet bij het eerste onderzoek van motorschepen en s
 
 ##### Artikel 2.04. Afgifte van het certificaat van onderzoek
 
-1. Wanneer de Commissie van Deskundigen op grond van het onderzoek van een vaartuig vaststelt dat dit beantwoordt aan de voorschriften van dit reglement met betrekking tot bouw, inrichting en uitrusting, geeft zij aan de aanvrager een certificaat van onderzoek volgens het model van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2009-07-01&g=2009-07-01) af.
+1. Wanneer de Commissie van Deskundigen op grond van het onderzoek van een vaartuig vaststelt dat dit beantwoordt aan de voorschriften van dit reglement met betrekking tot bouw, inrichting en uitrusting, geeft zij aan de aanvrager een certificaat van onderzoek volgens het model van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2009-07-01&g=2009-12-01) af.
 
 2. Ingeval de Commissie van Deskundigen weigert een certificaat van onderzoek af te geven, moet zij dit aan de aanvrager gemotiveerd schriftelijk mededelen.
 
@@ -358,19 +358,19 @@ De Commissie van Deskundigen moet bij het eerste onderzoek van motorschepen en s
 
 - a. vaartuigen die, teneinde een certificaat van onderzoek te verkrijgen, een reis willen ondernemen naar een Commissie van Deskundigen van hun keuze;
 
-- b. vaartuigen die, wegens één van de in de [artikelen 2.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.07&z=2009-07-01&g=2009-07-01), [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.13&z=2009-07-01&g=2009-07-01), eerste lid, of [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.14&z=2009-07-01&g=2009-07-01) bedoelde gevallen, tijdelijk niet van hun certificaat van onderzoek zijn voorzien;
+- b. vaartuigen die, wegens één van de in de [artikelen 2.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.07&z=2009-07-01&g=2009-12-01), [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.13&z=2009-07-01&g=2009-12-01), eerste lid, of [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.14&z=2009-07-01&g=2009-12-01) bedoelde gevallen, tijdelijk niet van hun certificaat van onderzoek zijn voorzien;
 
 - c. vaartuigen waarvan het certificaat van onderzoek na het onderzoek nog in behandeling is;
 
-- d. vaartuigen waarbij niet aan alle voorwaarden voor de afgifte van een certificaat van onderzoek overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2009-07-01&g=2009-07-01) of een certificaat overeenkomstig [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=G&z=2009-07-01&g=2009-07-01) wordt voldaan;
+- d. vaartuigen waarbij niet aan alle voorwaarden voor de afgifte van een certificaat van onderzoek overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2009-07-01&g=2009-12-01) of een certificaat overeenkomstig [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=G&z=2009-07-01&g=2009-12-01) wordt voldaan;
 
 - e. vaartuigen die zodanige schade hebben geleden dat de staat waarin zij verkeren niet meer overeenstemt met het in het certificaat van onderzoek gestelde;
 
 - f. drijvende inrichtingen en drijvende voorwerpen, in het geval dat de voor de toepassing van [artikel 1.21, eerste lid, van het Rijnvaart-politiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&artikel=1.21) bevoegde autoriteit de vergunning voor een bijzonder transport afhankelijk stelt van het hebben van een voorlopig certificaat van onderzoek;
 
-- g. vaartuigen waarvoor een Commissie van Deskundigen gelijkwaardige voorzieningen als bedoeld in [artikel 2.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.19&z=2009-07-01&g=2009-07-01), toestaat, voor die gevallen waarvoor de Centrale Commissie voor de Rijnvaart nog geen aanbeveling heeft gedaan.
+- g. vaartuigen waarvoor een Commissie van Deskundigen gelijkwaardige voorzieningen als bedoeld in [artikel 2.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.19&z=2009-07-01&g=2009-12-01), toestaat, voor die gevallen waarvoor de Centrale Commissie voor de Rijnvaart nog geen aanbeveling heeft gedaan.
 
-2. Het voorlopige certificaat van onderzoek wordt volgens het model van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=D&z=2009-07-01&g=2009-07-01) afgegeven, wanneer de deugdelijkheid van het vaartuig, de drijvende inrichting of het drijvende voorwerp voor de vaart voldoende gewaarborgd wordt geacht.
+2. Het voorlopige certificaat van onderzoek wordt volgens het model van [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=D&z=2009-07-01&g=2009-12-01) afgegeven, wanneer de deugdelijkheid van het vaartuig, de drijvende inrichting of het drijvende voorwerp voor de vaart voldoende gewaarborgd wordt geacht.
 
 Het moet de voorwaarden bevatten die door de Commissie van Deskundigen nodig worden geacht en is geldig:
 
@@ -414,7 +414,7 @@ De geldigheidsduur wordt aangetekend in het certificaat van onderzoek en dient t
 
 2. Bij wijze van uitzondering kan de Commissie van Deskundigen op een met redenen omkleed verzoek van de eigenaar of zijn vertegenwoordiger de geldigheidsduur van het certificaat van onderzoek zonder aanvullend onderzoek met ten hoogste één jaar verlengen. Deze verlenging wordt schriftelijk gegeven en moet zich aan boord van het vaartuig bevinden.
 
-3. De Commissie van Deskundigen die het aanvullend onderzoek verricht, stelt afhankelijk van de resultaten daarvan de nieuwe geldigheidsduur van het certificaat vast. Hierbij wordt [artikel 2.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.06&z=2009-07-01&g=2009-07-01) in acht genomen.
+3. De Commissie van Deskundigen die het aanvullend onderzoek verricht, stelt afhankelijk van de resultaten daarvan de nieuwe geldigheidsduur van het certificaat vast. Hierbij wordt [artikel 2.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.06&z=2009-07-01&g=2009-12-01) in acht genomen.
 
 De geldigheidsduur wordt aangetekend in het certificaat van onderzoek en dient ter kennis te worden gebracht van de Commissie van Deskundigen die het certificaat heeft afgegeven.
 
@@ -434,9 +434,9 @@ Aan dit verzoek om een onderzoek dient gevolg te worden gegeven.
 
 ##### Artikel 2.12. Verklaring van een classificatiebureau of van een andere instantie
 
-1. De Commissie van Deskundigen kan er geheel of gedeeltelijk van afzien te onderzoeken of een vaartuig voldoet aan de bepalingen van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-07-01) en van [artikel 23.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-07-01) voor zover uit een geldige verklaring, afgegeven door een classificatiebureau dat door de regeringen van alle Oeverstaten en van België is erkend, blijkt dat het vaartuig geheel of gedeeltelijk aan die bepalingen voldoet.
+1. De Commissie van Deskundigen kan er geheel of gedeeltelijk van afzien te onderzoeken of een vaartuig voldoet aan de bepalingen van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-12-01) en van [artikel 23.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-12-01) voor zover uit een geldige verklaring, afgegeven door een classificatiebureau dat door de regeringen van alle Oeverstaten en van België is erkend, blijkt dat het vaartuig geheel of gedeeltelijk aan die bepalingen voldoet.
 
-2. Een verklaring van een classificatiebureau, dan wel – voor zover dit volgens dit reglement voor bepaalde onderdelen van de uitrusting is toegelaten – van een andere instantie, mag door de bevoegde autoriteit slechts dan worden erkend, indien dat classificatiebureau of die andere instantie verklaart dat het de bepalingen van de richtlijnen bedoeld in [artikel 1.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.07&z=2009-07-01&g=2009-07-01) in acht heeft genomen.
+2. Een verklaring van een classificatiebureau, dan wel – voor zover dit volgens dit reglement voor bepaalde onderdelen van de uitrusting is toegelaten – van een andere instantie, mag door de bevoegde autoriteit slechts dan worden erkend, indien dat classificatiebureau of die andere instantie verklaart dat het de bepalingen van de richtlijnen bedoeld in [artikel 1.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.07&z=2009-07-01&g=2009-12-01) in acht heeft genomen.
 
 ##### Artikel 2.13. Inhouding en teruggave van het certificaat van onderzoek
 
@@ -460,7 +460,7 @@ Deze Commissie geeft dan een duplicaat van het certificaat af, dat als zodanig i
 
 ##### Artikel 2.15. Kosten
 
-1. Onverminderd [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.11&z=2009-07-01&g=2009-07-01), draagt de eigenaar van een vaartuig of zijn vertegenwoordiger de kosten die voortvloeien uit het onderzoek en de afgifte van het certificaat van onderzoek, overeenkomstig het geldende tarief, dat door elk der Oeverstaten en België wordt vastgesteld. Er mag hierbij geen onderscheid worden gemaakt uit hoofde van het land van teboekstelling van het vaartuig of de nationaliteit of woonplaats van de eigenaar.
+1. Onverminderd [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.11&z=2009-07-01&g=2009-12-01), draagt de eigenaar van een vaartuig of zijn vertegenwoordiger de kosten die voortvloeien uit het onderzoek en de afgifte van het certificaat van onderzoek, overeenkomstig het geldende tarief, dat door elk der Oeverstaten en België wordt vastgesteld. Er mag hierbij geen onderscheid worden gemaakt uit hoofde van het land van teboekstelling van het vaartuig of de nationaliteit of woonplaats van de eigenaar.
 
 2. De Commissie van Deskundigen kan vóór het onderzoek een voorschot verlangen dat niet hoger mag zijn dan het vermoedelijke bedrag van de kosten.
 
@@ -470,15 +470,15 @@ De Commissie van Deskundigen kan personen, die kunnen aantonen daar om gegronde 
 
 ##### Artikel 2.17. Registratie van de certificaten van onderzoek
 
-1. De Commissies van Deskundigen geven de door hen afgegeven certificaten een volgnummer. Zij houden een register bij van alle door hen afgegeven certificaten overeenkomstig [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=C&z=2009-07-01&g=2009-07-01).
+1. De Commissies van Deskundigen geven de door hen afgegeven certificaten een volgnummer. Zij houden een register bij van alle door hen afgegeven certificaten overeenkomstig [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=C&z=2009-07-01&g=2009-12-01).
 
 2. De Commissies van Deskundigen bewaren de minuut of een afschrift van elk certificaat dat zij hebben afgegeven. Daarop tekenen zij alle aantekeningen en wijzigingen, alsmede ongeldigheidsverklaringen en vervangingen van de certificaten aan en actualiseren zij volgens het eerste lid de registratie dienovereenkomstig.
 
-3. Ter uitvoering van de bestuursrechtelijke maatregelen op het gebied van de scheepvaart wordt aan de bevoegde autoriteiten van de Rijnoeverstaten en België, van de lidstaten van de Europese Unie en, voorzover een gelijkwaardige gegevensbescherming is gewaarborgd, aan de bevoegde autoriteiten van derde landen op grond van bestuursrechtelijke overeenkomsten het recht tot inzage in de registratie overeenkomstig [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=C&z=2009-07-01&g=2009-07-01) verleend.
+3. Ter uitvoering van de bestuursrechtelijke maatregelen op het gebied van de scheepvaart wordt aan de bevoegde autoriteiten van de Rijnoeverstaten en België, van de lidstaten van de Europese Unie en, voorzover een gelijkwaardige gegevensbescherming is gewaarborgd, aan de bevoegde autoriteiten van derde landen op grond van bestuursrechtelijke overeenkomsten het recht tot inzage in de registratie overeenkomstig [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=C&z=2009-07-01&g=2009-12-01) verleend.
 
 ##### Artikel 2.18. Uniek Europees scheepsidentificatienummer
 
-1. Het uniek Europees scheepsidentificatienummer (ENI), hierna Europees scheepsnummer genoemd, bestaat uit 8 Arabische cijfers overeenkomstig [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=L&z=2009-07-01&g=2009-07-01).
+1. Het uniek Europees scheepsidentificatienummer (ENI), hierna Europees scheepsnummer genoemd, bestaat uit 8 Arabische cijfers overeenkomstig [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=L&z=2009-07-01&g=2009-12-01).
 
 2. De Commissie van Deskundigen die het certificaat van onderzoek afgeeft voor een vaartuig, vult op dit certificaat het Europees scheepsnummer in. Dit nummer wordt, voorzover het vaartuig op het moment van de afgifte van het certificaat van onderzoek nog niet over een Europees scheepsnummer beschikt, door de bevoegde autoriteit van het land waarin zijn plaats van teboekstelling of zijn thuishaven is gelegen, toegekend.
 
@@ -496,13 +496,13 @@ Deze bepalingen zijn niet van toepassing op zeeschepen.
 
 ##### Artikel 2.19. Gelijkwaardigheid en afwijkingen
 
-1. Wanneer in de bepalingen van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-07-01) wordt bepaald dat op een vaartuig bepaalde materialen, inrichtingen of uitrustingsstukken moeten worden gebruikt of aan boord moeten zijn, of dat bepaalde bouwkundige maatregelen moeten worden getroffen of bepaalde opstellingen moeten worden aangehouden, kan de Commissie van Deskundigen de toepassing of de aanwezigheid aan boord van dit vaartuig van andere materialen, inrichtingen of uitrustingsstukken toestaan, dan wel dat andere bouwkundige maatregelen worden getroffen of dat andere opstellingen worden aangehouden, mits deze op grond van aanbevelingen van de Centrale Commissie voor de Rijnvaart als gelijkwaardig zijn erkend.
+1. Wanneer in de bepalingen van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-12-01) wordt bepaald dat op een vaartuig bepaalde materialen, inrichtingen of uitrustingsstukken moeten worden gebruikt of aan boord moeten zijn, of dat bepaalde bouwkundige maatregelen moeten worden getroffen of bepaalde opstellingen moeten worden aangehouden, kan de Commissie van Deskundigen de toepassing of de aanwezigheid aan boord van dit vaartuig van andere materialen, inrichtingen of uitrustingsstukken toestaan, dan wel dat andere bouwkundige maatregelen worden getroffen of dat andere opstellingen worden aangehouden, mits deze op grond van aanbevelingen van de Centrale Commissie voor de Rijnvaart als gelijkwaardig zijn erkend.
 
 2. Wanneer de Centrale Commissie voor de Rijnvaart nog geen aanbeveling met betrekking tot een gelijkwaardigheid als bedoeld in het eerste lid heeft gedaan, kan de Commissie van Deskundigen een voorlopig certificaat van onderzoek afgeven.
 
-De bevoegde autoriteiten stellen de Centrale Commissie voor de Rijnvaart binnen een maand na afgifte van het voorlopig certificaat overeenkomstig [artikel 2.05, eerste lid onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.05&z=2009-07-01&g=2009-07-01), in kennis van de naam en het officiële scheepsnummer van het vaartuig, van de aard van de afwijking, alsmede van het land waarin het vaartuig is teboekgesteld of waarin zijn thuishaven is gelegen.
+De bevoegde autoriteiten stellen de Centrale Commissie voor de Rijnvaart binnen een maand na afgifte van het voorlopig certificaat overeenkomstig [artikel 2.05, eerste lid onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.05&z=2009-07-01&g=2009-12-01), in kennis van de naam en het officiële scheepsnummer van het vaartuig, van de aard van de afwijking, alsmede van het land waarin het vaartuig is teboekgesteld of waarin zijn thuishaven is gelegen.
 
-3. Bij wijze van proef en voor een beperkte tijdsduur kan een Commissie van Deskundigen op grond van een aanbeveling van de Centrale Commissie voor de Rijnvaart voor een vaartuig met nieuwe technische voorzieningen die afwijken van de bepalingen van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-07-01) een certificaat van onderzoek afgeven, voor zover deze nieuwe voorzieningen een voldoende veiligheid bieden.
+3. Bij wijze van proef en voor een beperkte tijdsduur kan een Commissie van Deskundigen op grond van een aanbeveling van de Centrale Commissie voor de Rijnvaart voor een vaartuig met nieuwe technische voorzieningen die afwijken van de bepalingen van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-12-01) een certificaat van onderzoek afgeven, voor zover deze nieuwe voorzieningen een voldoende veiligheid bieden.
 
 4. De in het eerste en derde lid genoemde gelijkwaardigheden en afwijkingen dienen in het certificaat van onderzoek te worden ingevuld.
 
@@ -596,7 +596,7 @@ Van een tweede uitgang kan worden afgezien, indien:
 
 - b. de vluchtweg vanaf iedere standplaats waar bedieningshandelingen of onderhoudswerkzaamheden moeten worden uitgevoerd tot aan de uitgang, of tot aan het voetpunt van de trap bij de uitgang die naar buiten leidt, niet meer bedraagt dan 5 m, en
 
-- c. bij de plaats van onderhoud die het verst verwijderd is van de uitgang een draagbaar blustoestel aanwezig is, en wel in afwijking van [artikel 10.03, eerste lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-07-01), ook indien de geïnstalleerde motorcapaciteit 100 kW of minder bedraagt.
+- c. bij de plaats van onderhoud die het verst verwijderd is van de uitgang een draagbaar blustoestel aanwezig is, en wel in afwijking van [artikel 10.03, eerste lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-12-01), ook indien de geïnstalleerde motorcapaciteit 100 kW of minder bedraagt.
 
 7. Het ten hoogste toegestane niveau van de geluidsdruk in de machinekamers bedraagt 110 dB(A). De meetpunten moeten worden gekozen met inachtneming van de noodzakelijke onderhoudswerkzaamheden tijdens het normale bedrijf van de installaties.
 
@@ -646,7 +646,7 @@ b de breedte van de desbetreffende bovenbouw in m;
 
 B1 de breedte van het schip in m, gemeten op de buitenkant van de huidbeplating ter hoogte van het dek, gemeten op de halve lengte van de desbetreffende bovenbouw;
 
-h de hoogte van de desbetreffende bovenbouw in m. Voor luikhoofden wordt h evenwel berekend door de hoogte van de luikhoofden met de halve veiligheidsafstand overeenkomstig [artikel 4.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.01&z=2009-07-01&g=2009-07-01) te verminderen. Voor h wordt in geen geval een hogere waarde dan 0,36 m aangenomen.
+h de hoogte van de desbetreffende bovenbouw in m. Voor luikhoofden wordt h evenwel berekend door de hoogte van de luikhoofden met de halve veiligheidsafstand overeenkomstig [artikel 4.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.01&z=2009-07-01&g=2009-12-01) te verminderen. Voor h wordt in geen geval een hogere waarde dan 0,36 m aangenomen.
 
 Wanneer het quotiënt van b en B of van b en B1 kleiner is dan 0,6 moet de in rekening te brengen lengte van de bovenbouw le gelijk aan nul worden gesteld.
 
@@ -670,7 +670,7 @@ Voor de coëfficiënt p mag echter geen waarde groter dan 1 worden genomen.
 
 ##### Artikel 4.03. Kleinste vrijboord
 
-Rekening houdende met de vermindering overeenkomstig [artikel 4.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.02&z=2009-07-01&g=2009-07-01) mag het kleinste vrijboord niet minder dan 0 mm bedragen.
+Rekening houdende met de vermindering overeenkomstig [artikel 4.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.02&z=2009-07-01&g=2009-12-01) mag het kleinste vrijboord niet minder dan 0 mm bedragen.
 
 ##### Artikel 4.04. Inzinkingsmerken
 
@@ -706,7 +706,7 @@ In het certificaat van onderzoek moet dan worden ingevuld:
 
 2. Het nulpunt van iedere diepgangsschaal moet loodrecht daaronder liggen in een vlak evenwijdig aan het vlak van de grootste inzinking, dat door het laagste punt van de scheepsromp gaat of van de kiel, wanneer deze aanwezig is. De afstand loodrecht boven het nulpunt moet in decimeters zijn ingedeeld. Deze indeling moet vanaf het vlak voor de waterlijn bij ledig schip tot 100 mm boven het vlak van de grootste inzinking op iedere diepgangsschaal door ingehakte of ingeslagen merken zijn aangebracht. Deze indeling moet voorts in de vorm van goed zichtbare, afwisselend in twee verschillende kleuren geschilderde stroken zijn aangeduid. De indeling moet naast de schaal ten minste bij elke 5 decimeter, alsmede aan het boveneinde, door cijfers zijn aangegeven.
 
-3. De twee achterste ijkschalen, die met toepassing van het in [artikel 4.04, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.04&z=2009-07-01&g=2009-07-01), genoemde verdrag zijn aangebracht, kunnen als diepgangsschalen dienst doen, mits zij overeenkomstig bovenstaande voorschriften zijn ingedeeld; in voorkomend geval moeten de cijfers voor de diepgang zijn toegevoegd.
+3. De twee achterste ijkschalen, die met toepassing van het in [artikel 4.04, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.04&z=2009-07-01&g=2009-12-01), genoemde verdrag zijn aangebracht, kunnen als diepgangsschalen dienst doen, mits zij overeenkomstig bovenstaande voorschriften zijn ingedeeld; in voorkomend geval moeten de cijfers voor de diepgang zijn toegevoegd.
 
 ### Hoofdstuk 5. Manoeuvreereigenschappen
 
@@ -716,7 +716,7 @@ Schepen en samenstellen moeten over voldoende vaar- en manoeuvreereigenschappen 
 
 Schepen zonder eigen mechanische middelen tot voortbeweging die bestemd zijn om gesleept te worden, moeten voldoen aan de bijzondere eisen van de Commissie van Deskundigen;
 
-Schepen met eigen mechanische middelen tot voortbeweging en samenstellen moeten voldoen aan de [artikelen 5.02 tot en met 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.02&z=2009-07-01&g=2009-07-01).
+Schepen met eigen mechanische middelen tot voortbeweging en samenstellen moeten voldoen aan de [artikelen 5.02 tot en met 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.02&z=2009-07-01&g=2009-12-01).
 
 ##### Artikel 5.02. Proefvaarten
 
@@ -733,7 +733,7 @@ Schepen met eigen mechanische middelen tot voortbeweging en samenstellen moeten 
 
 ##### Artikel 5.03. Proefvaarttraject
 
-1. De in [artikel 5.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.02&z=2009-07-01&g=2009-07-01) bedoelde proefvaarten dienen in de door de bevoegde autoriteiten aangewezen vakken van de Rijn of van andere binnenwateren te worden uitgevoerd.
+1. De in [artikel 5.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.02&z=2009-07-01&g=2009-12-01) bedoelde proefvaarten dienen in de door de bevoegde autoriteiten aangewezen vakken van de Rijn of van andere binnenwateren te worden uitgevoerd.
 
 2. Deze proefvaarttrajecten moeten zich bevinden in zo recht mogelijke vakken met een lengte van ten minste 2 km en voldoende breedte in stromend of stil water en moeten zijn voorzien van duidelijk herkenbare markeringen om de positie van het schip vast te kunnen stellen.
 
@@ -747,7 +747,7 @@ Schepen en samenstellen die bestemd zijn voor het vervoer van goederen moeten vo
 
 1. Bij de proefvaarten mogen geen ankers worden gebruikt, maar wel alle in het certificaat van onderzoek, onder 34 en 52, ingevulde inrichtingen die vanuit de stuurstelling te bedienen zijn.
 
-2. Bij opdraaimanoeuvres als bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.10&z=2009-07-01&g=2009-07-01) mogen echter de boegankers worden gebruikt.
+2. Bij opdraaimanoeuvres als bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.10&z=2009-07-01&g=2009-12-01) mogen echter de boegankers worden gebruikt.
 
 ##### Artikel 5.06. Snelheid (vooruitvaren)
 
@@ -763,21 +763,21 @@ Schepen en samenstellen die bestemd zijn voor het vervoer van goederen moeten vo
 
 2. Bij schepen en samenstellen met een lengte L van 86 m of minder en een breedte van 22,90 m of minder kunnen deze stop-eigenschappen worden vervangen door de keer-eigenschappen.
 
-3. De stop-eigenschappen dienen door stopmanoeuvres op één der in [artikel 5.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.03&z=2009-07-01&g=2009-07-01) bedoelde proefvaartvakken en de keer-eigenschappen door opdraaimanoeuvres als bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.10&z=2009-07-01&g=2009-07-01) te worden aangetoond.
+3. De stop-eigenschappen dienen door stopmanoeuvres op één der in [artikel 5.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.03&z=2009-07-01&g=2009-12-01) bedoelde proefvaartvakken en de keer-eigenschappen door opdraaimanoeuvres als bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.10&z=2009-07-01&g=2009-12-01) te worden aangetoond.
 
 ##### Artikel 5.08. Achteruitvaareigenschappen
 
-Wanneer de in [artikel 5.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.07&z=2009-07-01&g=2009-07-01) genoemde noodzakelijke stopmanoeuvre in stilstaand water wordt uitgevoerd, dient tevens een achteruitvaarproef te worden uitgevoerd.
+Wanneer de in [artikel 5.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.07&z=2009-07-01&g=2009-12-01) genoemde noodzakelijke stopmanoeuvre in stilstaand water wordt uitgevoerd, dient tevens een achteruitvaarproef te worden uitgevoerd.
 
 ##### Artikel 5.09. Uitwijkeigenschappen
 
-Schepen en samenstellen moeten tijdig kunnen uitwijken. De uitwijkeigenschappen dienen te worden aangetoond door uitwijkmanoeuvres op één der in [artikel 5.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.03&z=2009-07-01&g=2009-07-01) bedoelde proefvaartvakken.
+Schepen en samenstellen moeten tijdig kunnen uitwijken. De uitwijkeigenschappen dienen te worden aangetoond door uitwijkmanoeuvres op één der in [artikel 5.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.03&z=2009-07-01&g=2009-12-01) bedoelde proefvaartvakken.
 
 ##### Artikel 5.10. Keereigenschappen
 
 Schepen en samenstellen met een lengte van 86 m of minder en een breedte van 22,90 m of minder moeten tijdig kunnen keren.
 
-Deze keereigenschappen kunnen door de in [artikel 5.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.07&z=2009-07-01&g=2009-07-01) bedoelde stop-eigenschappen worden vervangen.
+Deze keereigenschappen kunnen door de in [artikel 5.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.07&z=2009-07-01&g=2009-12-01) bedoelde stop-eigenschappen worden vervangen.
 
 De keereigenschappen dienen door opdraaimanoeuvres te worden aangetoond.
 
@@ -785,7 +785,7 @@ De keereigenschappen dienen door opdraaimanoeuvres te worden aangetoond.
 
 ##### Artikel 6.01. Algemene eisen
 
-1. Schepen moeten zijn voorzien van een betrouwbaar werkende stuurinrichting waarmee ten minste de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-07-01) bedoelde manoeuvreereigenschappen worden bereikt.
+1. Schepen moeten zijn voorzien van een betrouwbaar werkende stuurinrichting waarmee ten minste de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-12-01) bedoelde manoeuvreereigenschappen worden bereikt.
 
 2. Werktuiglijk aangedreven stuurinrichtingen moeten zodanig zijn uitgevoerd dat het roer niet onvoorzien van stand kan veranderen.
 
@@ -805,7 +805,7 @@ De keereigenschappen dienen door opdraaimanoeuvres te worden aangetoond.
 
 2. Wanneer het inschakelen van de tweede aandrijving of van de handaandrijving niet automatisch geschiedt, moet de roerganger deze met één enkele handeling onmiddellijk, snel en eenvoudig kunnen inschakelen.
 
-3. Ook wanneer de tweede aandrijving of de handaandrijving in werking is, moeten de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-07-01) bedoelde manoeuvreereigenschappen kunnen worden gerealiseerd.
+3. Ook wanneer de tweede aandrijving of de handaandrijving in werking is, moeten de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-12-01) bedoelde manoeuvreereigenschappen kunnen worden gerealiseerd.
 
 ##### Artikel 6.03. Hydraulische aandrijfinstallatie van de stuurmachine
 
@@ -841,11 +841,11 @@ De keereigenschappen dienen door opdraaimanoeuvres te worden aangetoond.
 
 ##### Artikel 6.06. Roerpropeller-, waterstraal-, cycloïdaalschroef- en boegschroefinstallaties
 
-1. Indien bij roerpropeller-, waterstraal-, cycloïdaalschroef- en boegschroefinstallaties de afstandsbediening voor de verandering van de richting van de stuwkracht elektrisch, hydraulisch of pneumatisch is, dan moeten vanaf de stuurstelling tot de propeller- of straalinstallatie twee van elkaar onafhankelijke besturingssystemen aanwezig zijn die voldoen aan de in de [artikelen 6.01 tot en met 6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.01&z=2009-07-01&g=2009-07-01) genoemde eisen.
+1. Indien bij roerpropeller-, waterstraal-, cycloïdaalschroef- en boegschroefinstallaties de afstandsbediening voor de verandering van de richting van de stuwkracht elektrisch, hydraulisch of pneumatisch is, dan moeten vanaf de stuurstelling tot de propeller- of straalinstallatie twee van elkaar onafhankelijke besturingssystemen aanwezig zijn die voldoen aan de in de [artikelen 6.01 tot en met 6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.01&z=2009-07-01&g=2009-12-01) genoemde eisen.
 
-Dit is niet van toepassing indien het gebruik van dergelijke installaties niet noodzakelijk is om te kunnen voldoen aan de manoeuvreereigenschappen bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-07-01), dan wel uitsluitend voor de stopproef.
+Dit is niet van toepassing indien het gebruik van dergelijke installaties niet noodzakelijk is om te kunnen voldoen aan de manoeuvreereigenschappen bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-12-01), dan wel uitsluitend voor de stopproef.
 
-2. Indien twee of meer van elkaar onafhankelijke roerpropeller-, waterstraal- of cycloïdaalschroefinstallaties aanwezig zijn, is het tweede besturingssysteem niet vereist indien het schip bij het uitvallen van één van deze installaties manoeuvreerbaar blijft overeenkomstig [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-07-01).
+2. Indien twee of meer van elkaar onafhankelijke roerpropeller-, waterstraal- of cycloïdaalschroefinstallaties aanwezig zijn, is het tweede besturingssysteem niet vereist indien het schip bij het uitvallen van één van deze installaties manoeuvreerbaar blijft overeenkomstig [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-12-01).
 
 ##### Artikel 6.07. Signalering en controle
 
@@ -853,7 +853,7 @@ Dit is niet van toepassing indien het gebruik van dergelijke installaties niet n
 
 2. De stuurstelling moet voor de volgende gevallen van een optisch en akoestisch alarmsignaal zijn voorzien:
 
-- a. vermindering van het oliepeil van de tanks voor het hydraulische systeem als bedoeld in [artikel 6.03, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.03&z=2009-07-01&g=2009-07-01), en van de werkdruk van het hydraulische systeem;
+- a. vermindering van het oliepeil van de tanks voor het hydraulische systeem als bedoeld in [artikel 6.03, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.03&z=2009-07-01&g=2009-12-01), en van de werkdruk van het hydraulische systeem;
 
 - b. het uitvallen van de voeding van de elektrische besturingsenergie;
 
@@ -865,7 +865,7 @@ Dit is niet van toepassing indien het gebruik van dergelijke installaties niet n
 
 ##### Artikel 6.08. Stuurautomaat
 
-1. Stuurautomaten en de onderdelen ervan moeten voldoen aan [artikel 9.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.20&z=2009-07-01&g=2009-07-01).
+1. Stuurautomaten en de onderdelen ervan moeten voldoen aan [artikel 9.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.20&z=2009-07-01&g=2009-12-01).
 
 2. Een groen lampje in de stuurstelling moet aangeven dat de stuurautomaat voor gebruik gereed is.
 
@@ -973,7 +973,7 @@ Voortstuwingsmotoren die zijn voorzien van een vanaf de stuurstelling bedienbare
 
 3. De richting van de door de aandrijving op het schip werkende stuwingskracht alsmede het toerental van de schroeven of stuwingsmotoren moet worden aangegeven.
 
-4. De in de [artikelen 6.07, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.07&z=2009-07-01&g=2009-07-01), [8.03, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.03&z=2009-07-01&g=2009-07-01) en [8.05, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.05&z=2009-07-01&g=2009-07-01), voorgeschreven signalerings- en controle-instrumenten moeten in de stuurstelling zijn aangebracht.
+4. De in de [artikelen 6.07, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.07&z=2009-07-01&g=2009-12-01), [8.03, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.03&z=2009-07-01&g=2009-12-01) en [8.05, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.05&z=2009-07-01&g=2009-12-01), voorgeschreven signalerings- en controle-instrumenten moeten in de stuurstelling zijn aangebracht.
 
 5. Bij éénmansstuurstellingen voor het varen op radar moet de besturing van het schip plaats vinden door middel van een hefboom. Deze hefboom moet gemakkelijk met de hand bediend kunnen worden. De hoek van de hefboom moet overeenkomen met de stand van de roerbladen ten opzichte van de lengte-as van het schip. De hefboom moet in onverschillig welke positie kunnen worden losgelaten, zonder dat dan de stand van de roerbladen verandert. De nulstand van de hefboom moet duidelijk voelbaar zijn.
 
@@ -1035,9 +1035,9 @@ In geen geval mag de microfoon van dit verkeer voor verbindingen van het openbaa
 
 3. De Inland AIS-apparatuur moet van een type zijn dat voor de Rijn is goedgekeurd door de bevoegde autoriteit van één van de Oeverstaten of van België op grond van de teststandaard (besluit 2007-I-15).
 
-Aan de in [bijlage N, deel I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=N&z=2009-07-01&g=2009-07-01), vermelde voorschriften omtrent de inbouw en de controle van het functioneren van Inland AIS-apparatuur moet worden voldaan.
+Aan de in [bijlage N, deel I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=N&z=2009-07-01&g=2009-12-01), vermelde voorschriften omtrent de inbouw en de controle van het functioneren van Inland AIS-apparatuur moet worden voldaan.
 
-De teststandaard en de lijsten van de overeenkomstig [Bijlage N](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=N&z=2009-07-01&g=2009-07-01) of op grond van als gelijkwaardig erkende typegoedkeuringen toegelaten AIS-appartauur worden door de Centrale Commissie gepubliceerd.
+De teststandaard en de lijsten van de overeenkomstig [Bijlage N](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=N&z=2009-07-01&g=2009-12-01) of op grond van als gelijkwaardig erkende typegoedkeuringen toegelaten AIS-appartauur worden door de Centrale Commissie gepubliceerd.
 
 ##### Artikel 7.08. Interne spreekverbinding aan boord
 
@@ -1083,7 +1083,7 @@ In alle hoogtestanden moet het mogelijk zijn het stuurhuis zonder gevaar te verl
 
 ##### Artikel 7.13. Aantekening in het certificaat van onderzoek voor schepen met een éénmansstuurstelling voor het varen op radar
 
-Wanneer een schip voldoet aan de in de [artikelen 7.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.01&z=2009-07-01&g=2009-07-01), [7.04 tot en met 7.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.04&z=2009-07-01&g=2009-07-01) en [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.11&z=2009-07-01&g=2009-07-01) bedoelde voorschriften voor schepen met een éénmansstuurstelling voor het varen op radar, moet in het certificaat van onderzoek worden aangetekend:
+Wanneer een schip voldoet aan de in de [artikelen 7.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.01&z=2009-07-01&g=2009-12-01), [7.04 tot en met 7.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.04&z=2009-07-01&g=2009-12-01) en [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.11&z=2009-07-01&g=2009-12-01) bedoelde voorschriften voor schepen met een éénmansstuurstelling voor het varen op radar, moet in het certificaat van onderzoek worden aangetekend:
 
 ‘Goedgekeurd voor het voeren van het schip met behulp van radar door één persoon’.
 
@@ -1109,7 +1109,7 @@ Wanneer een schip voldoet aan de in de [artikelen 7.01](https://wetten.overheid.
 
 5. Niet ingebouwde hogedrukbrandstofleidingen van dieselmotoren tussen de hogedrukbrandstofpompen en de inspuitsystemen moeten door een mantelbuissysteem worden beschermd, dat in geval van een lek in de hogedrukleiding, de uitlopende brandstof opvangt. In het mantelbuissysteem moet een lekbak zijn voorzien alsook inrichtingen die een alarmsignaal geven in geval van lekkage aan een brandstofleiding; voor machines met slechts twee cilinders is dit alarmsysteem echter niet vereist. Bij machines voor ankerlieren en spillen op open dek zijn geen mantelbuissystemen vereist.
 
-6. Isolaties van machineonderdelen moeten in overeenstemming zijn met [artikel 3.04, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.04&z=2009-07-01&g=2009-07-01).
+6. Isolaties van machineonderdelen moeten in overeenstemming zijn met [artikel 3.04, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.04&z=2009-07-01&g=2009-12-01).
 
 ##### Artikel 8.03. Voortstuwingsinstallaties
 
@@ -1163,7 +1163,7 @@ Indien tanks voor brandstoffen met elkaar in verbinding staan, moet de doorsnede
 
 Wanneer de bedieningsinrichting door de wijze van opstelling aan het gezicht is onttrokken, hoeft de bedekking of de afscherming niet afsluitbaar te zijn.
 
-De bedieningsinrichting moet met een rode kleur zijn gemarkeerd. Wanneer de inrichting door de wijze van opstelling aan het gezicht is onttrokken moet de bedekking of afscherming zijn voorzien van een teken ‘snelsluitklep van de tank’ met een lengte van de zijde van ten minste 10 cm, overeenkomstig [schets 9 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-07-01).
+De bedieningsinrichting moet met een rode kleur zijn gemarkeerd. Wanneer de inrichting door de wijze van opstelling aan het gezicht is onttrokken moet de bedekking of afscherming zijn voorzien van een teken ‘snelsluitklep van de tank’ met een lengte van de zijde van ten minste 10 cm, overeenkomstig [schets 9 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-12-01).
 
 De eerste zin geldt niet voor brandstoftanks die rechtstreeks aan de motor zijn aangebouwd.
 
@@ -1498,7 +1498,7 @@ In geval van onbemande vaartuigen hoeven deze bescheiden zich niet aan boord te 
 
 2. Het voldoende bemeten zijn van de energieverzorging moet worden aangetoond aan de hand van een vermogensbalans. Hierbij kan een passende gelijktijdigheidsfactor in aanmerking worden genomen.
 
-3. Onverminderd het eerste lid is voor de energiebron van stuurinrichtingen (roerinstallaties) [artikel 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.04&z=2009-07-01&g=2009-07-01) van kracht.
+3. Onverminderd het eerste lid is voor de energiebron van stuurinrichtingen (roerinstallaties) [artikel 6.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.04&z=2009-07-01&g=2009-12-01) van kracht.
 
 ##### Artikel 9.03. Bescherming tegen aanraking, binnendringen van vreemde voorwerpen en water
 
@@ -1619,7 +1619,7 @@ Opmerking:
 
 ##### Artikel 9.10. Generatoren en motoren
 
-1. Generatoren, motoren en hun aansluitkasten moeten voor inspecties, metingen en reparaties toegankelijk zijn. De beschermingsgraad moet in overeenstemming zijn met de plaats van opstelling zoals aangegeven in [artikel 9.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.03&z=2009-07-01&g=2009-07-01).
+1. Generatoren, motoren en hun aansluitkasten moeten voor inspecties, metingen en reparaties toegankelijk zijn. De beschermingsgraad moet in overeenstemming zijn met de plaats van opstelling zoals aangegeven in [artikel 9.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.03&z=2009-07-01&g=2009-12-01).
 
 2. Generatoren, die worden aangedreven door de hoofdmotor, de schroef-as of een voor andere doeleinden bestemd hulpaggregaat, moeten voor de onder bedrijfsomstandigheden optredende toerentalvariaties geschikt zijn.
 
@@ -1659,7 +1659,7 @@ Voor accumulatoren die in een bufferschakeling met het boordnet zijn opgenomen k
 
 Deze ventilator moet zodanig zijn uitgevoerd dat geen vonkvorming bij aanraking van een waaier met het ventilatorhuis en geen elektrostatische oplading kunnen optreden.
 
-8. Op de deuren of deksels van ruimten, kasten of kisten voor accumulatoren moet een teken ‘vuur, open licht en roken verboden’ met een diameter van ten minste 10 cm, overeenkomstig [schets 2 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-07-01), zijn aangebracht.
+8. Op de deuren of deksels van ruimten, kasten of kisten voor accumulatoren moet een teken ‘vuur, open licht en roken verboden’ met een diameter van ten minste 10 cm, overeenkomstig [schets 2 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-12-01), zijn aangebracht.
 
 ##### Artikel 9.12. Schakelinrichtingen
 
@@ -1761,7 +1761,7 @@ Als testprocedure voor het vaststellen van het moeilijk ontvlambaar zijn van ele
 
 2. Elke navigatielantaarn moet vanaf het navigatieschakelbord afzonderlijk gevoed, beveiligd en geschakeld kunnen worden.
 
-3. Het uitvallen van de controle-inrichtingen als bedoeld in [artikel 7.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.05&z=2009-07-01&g=2009-07-01), mag de werking van de bijbehorende navigatielantaarns niet nadelig beïnvloeden.
+3. Het uitvallen van de controle-inrichtingen als bedoeld in [artikel 7.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.05&z=2009-07-01&g=2009-12-01), mag de werking van de bijbehorende navigatielantaarns niet nadelig beïnvloeden.
 
 4. Dicht bijeen geplaatste, bij elkaar behorende navigatielantaarns mogen gemeenschappelijk worden gevoed, beveiligd en geschakeld. De controle-inrichting moet dan echter het uitvallen van één der lantaarns kunnen signaleren. Twee in één armatuur boven elkaar geplaatste navigatielantaarns mogen niet gelijktijdig ingeschakeld kunnen zijn.
 
@@ -1943,7 +1943,7 @@ Indien dergelijke zwaardere ankers en de bijbehorende sterkere ankerkettingen aa
 
 - e. een bootshaak;
 
-- f. een geschikte verbandtrommel met een inhoud overeenkomstig een norm van één der Rijnoeverstaten of van België. De verbandtrommel moet in een verblijf of in het stuurhuis worden bewaard en zo zijn opgeborgen dat hij indien nodig gemakkelijk en zeker kan worden bereikt. Indien verbandtrommels aan het zicht zijn onttrokken moet de afdekking zijn gemarkeerd met een symbool voor verbandtrommels overeenkomstig [schets 8 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-07-01) met een lengte van de zijde van tenminste 10 cm;
+- f. een geschikte verbandtrommel met een inhoud overeenkomstig een norm van één der Rijnoeverstaten of van België. De verbandtrommel moet in een verblijf of in het stuurhuis worden bewaard en zo zijn opgeborgen dat hij indien nodig gemakkelijk en zeker kan worden bereikt. Indien verbandtrommels aan het zicht zijn onttrokken moet de afdekking zijn gemarkeerd met een symbool voor verbandtrommels overeenkomstig [schets 8 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-12-01) met een lengte van de zijde van tenminste 10 cm;
 
 - g. een verrekijker, 7 × 50 of een grotere lensdiameter;
 
@@ -1975,7 +1975,7 @@ Indien dergelijke zwaardere ankers en de bijbehorende sterkere ankerkettingen aa
 
 5. Draagbare blustoestellen moeten ten minste iedere twee jaar worden gekeurd. Hiervan moet een verklaring worden afgegeven, ondertekend door degene die de keuring heeft verricht, en waarin de datum van de keuring is aangegeven.
 
-6. Wanneer draagbare blustoestellen door hun wijze van opstelling aan het gezicht zijn onttrokken moet de bedekking of afscherming zijn voorzien van een teken ‘brandblusapparaat’ met een lengte van de zijde van ten minste 10 cm, overeenkomstig [schets 3 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-07-01).
+6. Wanneer draagbare blustoestellen door hun wijze van opstelling aan het gezicht zijn onttrokken moet de bedekking of afscherming zijn voorzien van een teken ‘brandblusapparaat’ met een lengte van de zijde van ten minste 10 cm, overeenkomstig [schets 3 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-12-01).
 
 ##### Artikel 10.03a. Vast ingebouwde brandblusinstallaties in verblijven, stuurhuizen en passagiersruimten
 
@@ -2061,7 +2061,7 @@ De te beschermen ruimte moet voorzien zijn van een doelmatige brandmeldinstallat
 
 - b. De brandblusinstallatie moet vanaf een geschikte plaats buiten de te beschermen ruimte in werking kunnen worden gesteld.
 
-- c. Inrichtingen voor het in werking stellen moeten zodanig zijn geïnstalleerd dat ze ook in geval van brand kunnen worden bediend en dat, in het geval van een beschadiging als gevolg van brand of explosie in de te beschermen ruimte, de daarvoor benodigde hoeveelheid blusmiddel nog kan worden toegevoerd. Niet mechanische inrichtingen voor het inwerking stellen moeten door twee verschillende van elkaar onafhankelijke energiebronnen worden gevoed. Deze energiebronnen moeten zich buiten de te beschermen ruimte bevinden. Leidingen voor de aansturing in de beschermde ruimte moeten zodanig zijn uitgevoerd, dat zij ingeval van brand tenminste gedurende 30 minuten kunnen blijven functioneren. Elektrische leidingen voldoen aan deze eis indien zij voldoen aan de norm IEC 60331-21, uitgave 1999. Wanneer inrichtingen voor het inwerking stellen door hun wijze van opstelling aan het gezicht zijn onttrokken moet de bedekking of afscherming zijn voorzien van een teken ‘brandblusinstallatie’ met een lengte van de zijde van ten minste 10 cm, overeenkomstig [schets 6 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-07-01), alsmede van de volgende tekst in rode letters op witte ondergrond: ‘Feuerlöscheinrichtung Installation d’extinction Brandblusinstallatie’.
+- c. Inrichtingen voor het in werking stellen moeten zodanig zijn geïnstalleerd dat ze ook in geval van brand kunnen worden bediend en dat, in het geval van een beschadiging als gevolg van brand of explosie in de te beschermen ruimte, de daarvoor benodigde hoeveelheid blusmiddel nog kan worden toegevoerd. Niet mechanische inrichtingen voor het inwerking stellen moeten door twee verschillende van elkaar onafhankelijke energiebronnen worden gevoed. Deze energiebronnen moeten zich buiten de te beschermen ruimte bevinden. Leidingen voor de aansturing in de beschermde ruimte moeten zodanig zijn uitgevoerd, dat zij ingeval van brand tenminste gedurende 30 minuten kunnen blijven functioneren. Elektrische leidingen voldoen aan deze eis indien zij voldoen aan de norm IEC 60331-21, uitgave 1999. Wanneer inrichtingen voor het inwerking stellen door hun wijze van opstelling aan het gezicht zijn onttrokken moet de bedekking of afscherming zijn voorzien van een teken ‘brandblusinstallatie’ met een lengte van de zijde van ten minste 10 cm, overeenkomstig [schets 6 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-12-01), alsmede van de volgende tekst in rode letters op witte ondergrond: ‘Feuerlöscheinrichtung Installation d’extinction Brandblusinstallatie’.
 
 - d. Indien de brandblusinstallatie bedoeld is voor het beschermen van meerdere ruimten, moeten de inrichtingen voor het in werking stellen voor iedere ruimte gescheiden en duidelijk zijn gemarkeerd.
 
@@ -2147,7 +2147,7 @@ Indien de hoeveelheid blusmiddel bedoeld is voor het beschermen van meer dan é�
 
 Brandblusinstallaties die met CO2 als blusmiddel werken moeten, behalve aan de eisen, bedoeld in het eerste tot en met negende lid, aan de volgende bepalingen voldoen:
 
-- a. CO2-houders moeten buiten de te beschermen ruimte in een van de overige ruimten gasdicht gescheiden ruimte of kast zijn ondergebracht. De deuren van de ruimten waar ze opgesteld zijn of van de kasten moeten naar buiten openen, afsluitbaar zijn en aan de buitenkant zijn voorzien van een teken ‘Waarschuwing voor algemeen gevaar’ overeenkomstig [schets 4 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-07-01) met een hoogte van tenminste 5 cm alsmede van het bijkomend opschrift ‘CO2’ in dezelfde kleur en met dezelfde hoogte.
+- a. CO2-houders moeten buiten de te beschermen ruimte in een van de overige ruimten gasdicht gescheiden ruimte of kast zijn ondergebracht. De deuren van de ruimten waar ze opgesteld zijn of van de kasten moeten naar buiten openen, afsluitbaar zijn en aan de buitenkant zijn voorzien van een teken ‘Waarschuwing voor algemeen gevaar’ overeenkomstig [schets 4 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-12-01) met een hoogte van tenminste 5 cm alsmede van het bijkomend opschrift ‘CO2’ in dezelfde kleur en met dezelfde hoogte.
 
 - b. De benedendekse ruimten waar CO2-houders zijn opgesteld mogen slechts van buitenaf toegankelijk zijn. Deze ruimten moeten over een eigen, van de andere ventilatiesystemen aan boord volledig gescheiden, voldoende kunstmatige ventilatie met afzuigkanalen beschikken.
 
@@ -2327,7 +2327,7 @@ In afwijking hiervan behoeft geen vast ingebouwde klimvoorziening aanwezig te zi
 
 2. Permanent gebruikte werkruimten moeten bovendien zodanig zijn gebouwd en geïsoleerd tegen geluid dat de veiligheid en de gezondheid van de werknemers niet door geluidshinder in gevaar worden gebracht.
 
-3. Voor werknemers die dagelijks aan een geluidsdruk van meer dan 85 dB(A) worden blootgesteld, moeten persoonlijke gehoorbeschermingsmiddelen aanwezig zijn. Werkplekken waar deze waarden meer zijn dan 90 dB(A) moeten zijn voorzien van een teken ‘gehoorbescherming verplicht’ met een diameter van ten minste 10 cm, overeenkomstig [schets 7 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-07-01), waarin wordt gewezen op de plicht tot het gebruiken van deze gehoorbeschermingsmiddelen.
+3. Voor werknemers die dagelijks aan een geluidsdruk van meer dan 85 dB(A) worden blootgesteld, moeten persoonlijke gehoorbeschermingsmiddelen aanwezig zijn. Werkplekken waar deze waarden meer zijn dan 90 dB(A) moeten zijn voorzien van een teken ‘gehoorbescherming verplicht’ met een diameter van ten minste 10 cm, overeenkomstig [schets 7 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-12-01), waarin wordt gewezen op de plicht tot het gebruiken van deze gehoorbeschermingsmiddelen.
 
 ##### Artikel 11.10. Luiken
 
@@ -2405,7 +2405,7 @@ De in de eerste of tweede alinea bedoelde keuring moet door een door de Commissi
 
 ##### Artikel 11.13. Opslag van brandbare vloeistoffen
 
-Ten behoeve van de opslag van brandbare vloeistoffen met een vlampunt van minder dan 55 °C moet zich aan dek een geventileerde kast van onbrandbaar materiaal bevinden. De buitenkant daarvan moet zijn voorzien van een teken ‘Vuur, open licht en roken verboden’ met een lengte van de zijde van ten minste 10 cm, overeenkomstig [schets 2 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-07-01).
+Ten behoeve van de opslag van brandbare vloeistoffen met een vlampunt van minder dan 55 °C moet zich aan dek een geventileerde kast van onbrandbaar materiaal bevinden. De buitenkant daarvan moet zijn voorzien van een teken ‘Vuur, open licht en roken verboden’ met een lengte van de zijde van ten minste 10 cm, overeenkomstig [schets 2 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-12-01).
 
 ### Hoofdstuk 12. Verblijven
 
@@ -2539,7 +2539,7 @@ Dit geldt echter niet op schepen waarvoor uitsluitend exploitatiewijze A1 geldt.
 
 ##### Artikel 13.01. Algemene eisen
 
-1. Op verwarmings-, kook- en koelinstallaties die werken op vloeibaar gas zijn de voorschriften van [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&z=2009-07-01&g=2009-07-01) van toepassing.
+1. Op verwarmings-, kook- en koelinstallaties die werken op vloeibaar gas zijn de voorschriften van [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&z=2009-07-01&g=2009-12-01) van toepassing.
 
 2. Verwarmings-, kook- en koelinstallaties met toebehoren moeten zo zijn uitgevoerd en opgesteld dat zij ook bij oververhitting geen gevaar opleveren; ze moeten zijn beveiligd tegen onopzettelijk kantelen of verschuiven.
 
@@ -2655,7 +2655,7 @@ Dit is niet vereist in ruimten die zijn gebouwd van onbrandbaar materiaal en die
 
 1. Vloeibaargasinstallaties bestaan in hoofdzaak uit een flessenkast met één of meer gasflessen, één of meer drukregelaars, een distributienet en gebruiksapparaten.
 
-Reserveflessen en lege flessen die zich niet in de flessenkast bevinden zijn geen delen van een vloeibaargasinstallatie. [Artikel 14.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.05&z=2009-07-01&g=2009-07-01) is hierop van toepassing.
+Reserveflessen en lege flessen die zich niet in de flessenkast bevinden zijn geen delen van een vloeibaargasinstallatie. [Artikel 14.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.05&z=2009-07-01&g=2009-12-01) is hierop van toepassing.
 
 2. De installaties mogen slechts op handelspropaan werken.
 
@@ -2693,15 +2693,15 @@ De drukregelaar, of in geval van een drukregeling in twee trappen, de eerste dru
 
 4. De flessenkast moet zodanig zijn ingericht en opgesteld dat de temperatuur van de flessen niet boven 50 °C kan stijgen.
 
-5. Aan de buitenzijde van de flessenkast moet het opschrift ‘vloeibaar gas’ en een teken ‘vuur, open licht en roken verboden’ met een diameter van ten minste 10 cm, overeenkomstig schets 2 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-07-01), zijn aangebracht.
+5. Aan de buitenzijde van de flessenkast moet het opschrift ‘vloeibaar gas’ en een teken ‘vuur, open licht en roken verboden’ met een diameter van ten minste 10 cm, overeenkomstig schets 2 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-12-01), zijn aangebracht.
 
 ##### Artikel 14.05. Reserveflessen en lege flessen
 
-Reserveflessen en lege flessen die zich niet in de flessenkast bevinden moeten buiten de verblijven en het stuurhuis in een overeenkomstig [artikel 14.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.04&z=2009-07-01&g=2009-07-01) uitgevoerde kast zijn opgeslagen.
+Reserveflessen en lege flessen die zich niet in de flessenkast bevinden moeten buiten de verblijven en het stuurhuis in een overeenkomstig [artikel 14.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.04&z=2009-07-01&g=2009-12-01) uitgevoerde kast zijn opgeslagen.
 
 ##### Artikel 14.06. Drukregelaars
 
-1. De gebruiksapparaten mogen slechts op de flessen worden aangesloten door middel van een distributienet dat is voorzien van één of meer drukregelaars, die de gasdruk verlagen tot de gebruiksdruk. Deze drukvermindering kan in één of twee trappen worden bewerkstelligd. Alle drukregelaars moeten op een bepaalde druk overeenkomstig [artikel 14.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.07&z=2009-07-01&g=2009-07-01) zijn afgesteld.
+1. De gebruiksapparaten mogen slechts op de flessen worden aangesloten door middel van een distributienet dat is voorzien van één of meer drukregelaars, die de gasdruk verlagen tot de gebruiksdruk. Deze drukvermindering kan in één of twee trappen worden bewerkstelligd. Alle drukregelaars moeten op een bepaalde druk overeenkomstig [artikel 14.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.07&z=2009-07-01&g=2009-12-01) zijn afgesteld.
 
 2. De laatste drukregelaar moet zijn voorzien van, dan wel worden gevolgd door een inrichting waardoor het distributienet automatisch is beveiligd tegen overdruk, wanneer de drukregelaar onvoldoende zou functioneren. Gewaarborgd moet zijn dat in geval van een lek uit deze veiligheidsvoorziening ontsnappend gas in de open lucht wordt afgevoerd en niet in het inwendige van het schip kan doordringen of in aanraking kan komen met een ontstekingsbron; zo nodig moet daartoe een afzonderlijke leiding worden aangelegd.
 
@@ -2771,21 +2771,21 @@ Op een geschikte plaats aan boord moet een gebruiksaanwijzing zijn aangebracht; 
 
 ##### Artikel 14.13. Keuring
 
-Vóór de ingebruikneming van een vloeibaargasinstallatie, na iedere verandering of reparatie en bij iedere vernieuwing van de in [artikel 14.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.15&z=2009-07-01&g=2009-07-01) bedoelde aantekening moet de gehele installatie worden gekeurd door een deskundige die als zodanig door de Commissie van Deskundigen is erkend. Deze deskundige moet bij de keuring nagaan of de installatie in overeenstemming is met dit hoofdstuk. Hij moet aan de Commissie van Deskundigen een verslag van de keuring uitbrengen.
+Vóór de ingebruikneming van een vloeibaargasinstallatie, na iedere verandering of reparatie en bij iedere vernieuwing van de in [artikel 14.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.15&z=2009-07-01&g=2009-12-01) bedoelde aantekening moet de gehele installatie worden gekeurd door een deskundige die als zodanig door de Commissie van Deskundigen is erkend. Deze deskundige moet bij de keuring nagaan of de installatie in overeenstemming is met dit hoofdstuk. Hij moet aan de Commissie van Deskundigen een verslag van de keuring uitbrengen.
 
 ##### Artikel 14.14. Beproevingen
 
 Het beproeven van de installatie moet onder de volgende voorwaarden geschieden:
 
-- 1. Pijpleidingen voor de middeldruk tussen de in [artikel 14.09, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.09&z=2009-07-01&g=2009-07-01), bedoelde kraan van de eerste drukregelaar en de kranen voor de laatste drukregelaars:
+- 1. Pijpleidingen voor de middeldruk tussen de in [artikel 14.09, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.09&z=2009-07-01&g=2009-12-01), bedoelde kraan van de eerste drukregelaar en de kranen voor de laatste drukregelaars:
 
 - a. een sterktebeproeving uitgevoerd met lucht, met een inert gas of met een vloeistof, onder een druk van 20 bar boven de heersende atmosferische druk;
 
 - b. een beproeving van de luchtdichtheid, uitgevoerd met lucht of met een inert gas, onder een druk van 3,5 bar boven de heersende atmosferische druk.
 
-- 2. Pijpleidingen onder de bedrijfsdruk tussen de in [artikel 14.09, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.09&z=2009-07-01&g=2009-07-01), bedoelde kraan van de enige drukregelaar of de drukregelaar van de laatste trap en de kranen voor de gebruiksapparaten: Beproeving van de luchtdichtheid, uitgevoerd met lucht of met een inert gas, onder een druk van 1 bar boven de heersende atmosferische druk.
+- 2. Pijpleidingen onder de bedrijfsdruk tussen de in [artikel 14.09, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.09&z=2009-07-01&g=2009-12-01), bedoelde kraan van de enige drukregelaar of de drukregelaar van de laatste trap en de kranen voor de gebruiksapparaten: Beproeving van de luchtdichtheid, uitgevoerd met lucht of met een inert gas, onder een druk van 1 bar boven de heersende atmosferische druk.
 
-- 3. Leidingen tussen de in [artikel 14.09, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.09&z=2009-07-01&g=2009-07-01), bedoelde kraan van de enige drukregelaar of van de drukregelaar van de laatste trap en de bedieningsarmaturen van de gebruiksapparaten: Beproeving van de luchtdichtheid onder een druk van 0,15 bar boven de heersende atmosferische druk.
+- 3. Leidingen tussen de in [artikel 14.09, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.09&z=2009-07-01&g=2009-12-01), bedoelde kraan van de enige drukregelaar of van de drukregelaar van de laatste trap en de bedieningsarmaturen van de gebruiksapparaten: Beproeving van de luchtdichtheid onder een druk van 0,15 bar boven de heersende atmosferische druk.
 
 - 4. Bij de beproevingen, bedoeld in het eerste lid, onder b, het tweede en het derde lid, worden de leidingen als dicht beschouwd, wanneer de testdruk na een voor aanpassing aan de temperatuur voldoende wachttijd en een aansluitende beproevingsduur van 10 minuten niet daalt.
 
@@ -2799,11 +2799,11 @@ Het beproeven van de installatie moet onder de volgende voorwaarden geschieden:
 
 1. Voor elke vloeibaargasinstallatie die in overeenstemming is met dit hoofdstuk moet een aantekening worden geplaatst in het certificaat van onderzoek.
 
-2. Deze aantekening wordt door de Commissie van Deskundigen geplaatst na de in [artikel 14.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.13&z=2009-07-01&g=2009-07-01) bedoelde keuring.
+2. Deze aantekening wordt door de Commissie van Deskundigen geplaatst na de in [artikel 14.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.13&z=2009-07-01&g=2009-12-01) bedoelde keuring.
 
-3. De geldigheidsduur van de aantekening bedraagt ten hoogste drie jaar. Vóór iedere vernieuwing dient een nieuwe keuring overeenkomstig [artikel 14.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.13&z=2009-07-01&g=2009-07-01) plaats te vinden.
+3. De geldigheidsduur van de aantekening bedraagt ten hoogste drie jaar. Vóór iedere vernieuwing dient een nieuwe keuring overeenkomstig [artikel 14.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.13&z=2009-07-01&g=2009-12-01) plaats te vinden.
 
-Bij wijze van uitzondering kan de Commissie van Deskundigen op een met redenen omkleed verzoek van de eigenaar of zijn vertegenwoordiger de geldigheidsduur van de aantekening met ten hoogste drie maanden verlengen, zonder dat eerst een keuring overeenkomstig [artikel 14.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.13&z=2009-07-01&g=2009-07-01) heeft plaatsgehad. Deze verlenging wordt in het certificaat van onderzoek aangetekend.
+Bij wijze van uitzondering kan de Commissie van Deskundigen op een met redenen omkleed verzoek van de eigenaar of zijn vertegenwoordiger de geldigheidsduur van de aantekening met ten hoogste drie maanden verlengen, zonder dat eerst een keuring overeenkomstig [artikel 14.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.13&z=2009-07-01&g=2009-12-01) heeft plaatsgehad. Deze verlenging wordt in het certificaat van onderzoek aangetekend.
 
 ### Hoofdstuk 15. Bijzondere bepalingen voor passagiersschepen
 
@@ -2811,25 +2811,25 @@ Bij wijze van uitzondering kan de Commissie van Deskundigen op een met redenen o
 
 1. De volgende artikelen zijn niet van toepassing:
 
-- a. [artikel 3.02, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.02&z=2009-07-01&g=2009-07-01);
+- a. [artikel 3.02, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.02&z=2009-07-01&g=2009-12-01);
 
-- b. [artikelen 4.01 tot en met 4.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.01&z=2009-07-01&g=2009-07-01);
+- b. [artikelen 4.01 tot en met 4.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.01&z=2009-07-01&g=2009-12-01);
 
-- c. [artikel 8.08, tweede lid, tweede volzin, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-07-01);
+- c. [artikel 8.08, tweede lid, tweede volzin, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-12-01);
 
-- d. [artikel 9.14, derde lid, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.14&z=2009-07-01&g=2009-07-01), bij nominale spanningen van meer dan 50V.
+- d. [artikel 9.14, derde lid, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.14&z=2009-07-01&g=2009-12-01), bij nominale spanningen van meer dan 50V.
 
 2. De volgende installaties zijn op passagiersschepen verboden:
 
-- a. Lampen die werken op vloeibaar gas en vloeibare brandstof als bedoeld in [artikel 12.07, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=12&artikel=12.07&z=2009-07-01&g=2009-07-01);
+- a. Lampen die werken op vloeibaar gas en vloeibare brandstof als bedoeld in [artikel 12.07, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=12&artikel=12.07&z=2009-07-01&g=2009-12-01);
 
-- b. Met pitbranders uitgeruste installaties als bedoeld in [artikel 13.02, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=13&artikel=13.02&z=2009-07-01&g=2009-07-01);
+- b. Met pitbranders uitgeruste installaties als bedoeld in [artikel 13.02, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=13&artikel=13.02&z=2009-07-01&g=2009-12-01);
 
-- c. Oliekachels met verdampingsbranders als bedoeld in [artikel 13.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=13&artikel=13.04&z=2009-07-01&g=2009-07-01);
+- c. Oliekachels met verdampingsbranders als bedoeld in [artikel 13.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=13&artikel=13.04&z=2009-07-01&g=2009-12-01);
 
-- d. Verwarmingsapparaten en verwarmingsketels als bedoeld in [artikel 13.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=13&artikel=13.07&z=2009-07-01&g=2009-07-01);
+- d. Verwarmingsapparaten en verwarmingsketels als bedoeld in [artikel 13.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=13&artikel=13.07&z=2009-07-01&g=2009-12-01);
 
-- e. Vloeibaargasinstallaties als bedoeld in [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&z=2009-07-01&g=2009-07-01).
+- e. Vloeibaargasinstallaties als bedoeld in [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&z=2009-07-01&g=2009-12-01).
 
 3. Schepen, die niet van eigen mechanische middelen tot voortbeweging zijn voorzien, kunnen niet tot het vervoer van passagiers worden toegelaten.
 
@@ -2837,7 +2837,7 @@ Bij wijze van uitzondering kan de Commissie van Deskundigen op een met redenen o
 
 ##### Artikel 15.02. Scheepsromp
 
-1. Bij een onderzoek overeenkomstig [artikel 2.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.09&z=2009-07-01&g=2009-07-01) wordt de dikte van de scheepshuid van stalen passagiersschepen als volgt vastgesteld:
+1. Bij een onderzoek overeenkomstig [artikel 2.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.09&z=2009-07-01&g=2009-12-01) wordt de dikte van de scheepshuid van stalen passagiersschepen als volgt vastgesteld:
 
 - a. De minimale dikte tmin van de bodem-, kim- en zijbeplating van de scheepshuid van passagiersschepen wordt bepaald volgens de grootste waarde van de volgende formules: Daarbij betekent: f = 1 + 0,0013· (a – 500); a = spantafstand in de lengte of de breedte [mm]; bij een kleinere spantafstand dan 400 mm moet a = 400 mm worden genomen.
 
@@ -2847,13 +2847,13 @@ Bij wijze van uitzondering kan de Commissie van Deskundigen op een met redenen o
 
 - d. Platen moeten worden vervangen, wanneer de dikte van de bodem-, kim- of zijplaten niet langer de volgens onderdelen a of b, in samenhang met onderdeel c, vastgestelde minimale waarde heeft.
 
-2. Het aantal en de indeling van de schotten moeten zodanig zijn gekozen dat het schip in lekke toestand volgens de standaarden van [artikel 15.03, zevende tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01), kan blijven drijven. Ieder deel van de interne constructie, die de functionaliteit van de indeling van het schip beïnvloedt, moet waterdicht en zo geconstrueerd zijn, dat de integriteit van de indeling in stand blijft.
+2. Het aantal en de indeling van de schotten moeten zodanig zijn gekozen dat het schip in lekke toestand volgens de standaarden van [artikel 15.03, zevende tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01), kan blijven drijven. Ieder deel van de interne constructie, die de functionaliteit van de indeling van het schip beïnvloedt, moet waterdicht en zo geconstrueerd zijn, dat de integriteit van de indeling in stand blijft.
 
 3. De afstand tussen het aanvaringsschot en de voorloodlijn mag niet kleiner zijn dan 0,04 LWL en niet groter dan 0,04 LWL + 2 m.
 
 4. In een dwarsschot mag een sprong of nis voorkomen, mits alle delen van de sprong of nis binnen de veilige zone zijn gelegen.
 
-5. De schotten die bij de lekberekening als bedoeld in [artikel 15.03, zevende tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01), in aanmerking zijn genomen, moeten waterdicht zijn en tot boven het schottendek opgetrokken zijn. Ontbreekt het schottendek, dan moeten zij tenminste 0,20 m boven de indompelingsgrenslijn zijn opgetrokken.
+5. De schotten die bij de lekberekening als bedoeld in [artikel 15.03, zevende tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01), in aanmerking zijn genomen, moeten waterdicht zijn en tot boven het schottendek opgetrokken zijn. Ontbreekt het schottendek, dan moeten zij tenminste 0,20 m boven de indompelingsgrenslijn zijn opgetrokken.
 
 6. Het aantal openingen in deze schotten moet zo gering worden gehouden als vanwege de bouwwijze en voor de normale bedrijfsvoering van het schip toelaatbaar is. Openingen en doorvoeringen mogen de waterdichte functie van de schotten niet nadelig beïnvloeden.
 
@@ -2897,7 +2897,7 @@ Bij wijze van uitzondering kan de Commissie van Deskundigen op een met redenen o
 
 15. Bij een dubbele bodem moet de hoogte daarvan en bij dubbele wanden de breedte daarvan tenminste 0,60 m bedragen.
 
-16. Vensters mogen onder de indompelingsgrenslijn liggen, wanneer zij waterdicht zijn, niet geopend kunnen worden, een voldoende sterkte bezitten en voldoen aan [artikel 15.06, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-07-01).
+16. Vensters mogen onder de indompelingsgrenslijn liggen, wanneer zij waterdicht zijn, niet geopend kunnen worden, een voldoende sterkte bezitten en voldoen aan [artikel 15.06, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-12-01).
 
 ##### Artikel 15.03. Stabiliteit
 
@@ -3008,7 +3008,7 @@ v = grootste snelheid van het schip in m/s;
 
 KG = afstand van het zwaartepunt tot de bovenkant van de kiel in m.
 
-In geval het passagierschip is uitgerust met een aandrijfsysteem overeenkomstig [artikel 6.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.06&z=2009-07-01&g=2009-07-01) moet Mdr worden afgeleid uit beproevingen op ware grootte dan wel met modellen, hetzij op basis van daarmee overeenkomende berekeningen.
+In geval het passagierschip is uitgerust met een aandrijfsysteem overeenkomstig [artikel 6.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.06&z=2009-07-01&g=2009-12-01) moet Mdr worden afgeleid uit beproevingen op ware grootte dan wel met modellen, hetzij op basis van daarmee overeenkomende berekeningen.
 
 7. De aanvrager moet met een berekening, die berust op de procedure van het wegvallen van het drijfvermogen, aantonen dat de lekstabiliteit van het schip voldoende is. Alle berekeningen moeten zodanig worden uitgevoerd dat daarbij aan trim en inzinking geen vaste waarden zijn toegekend.
 
@@ -3027,7 +3027,7 @@ De volgende indicaties moeten voor het geval van een lekke toestand in acht word
 | Omvang van het lek in de bodem |   |   |
 | in langsrichting l [m] | 0,10 – LWL, maar niet minder dan 4 m | 0,05 – LWL, maar niet minder dan 2,25 m |
 | in dwarsrichting b [m] | B/5 | B/5 |
-| loodrecht h [m] | 0,59; pijpleidingen die overeenkomstig[artikel 15.02, dertiende lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-07-01), zijn aangelegd kunnen als onbeschadigd worden beschouwd | 0,59; pijpleidingen die overeenkomstig[artikel 15.02, dertiende lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-07-01), zijn aangelegd kunnen als onbeschadigd worden beschouwd |
+| loodrecht h [m] | 0,59; pijpleidingen die overeenkomstig[artikel 15.02, dertiende lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-12-01), zijn aangelegd kunnen als onbeschadigd worden beschouwd | 0,59; pijpleidingen die overeenkomstig[artikel 15.02, dertiende lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-12-01), zijn aangelegd kunnen als onbeschadigd worden beschouwd |
 
 - a. Voor de 1-compartimentstatus kunnen de schotten als onbeschadigd worden beschouwd, wanneer de onderlinge afstand tussen twee aangrenzende schotten groter is dan de lengte van het lek. Langsschotten die zich op een afstand van minder dan B/3 ten opzichte van de scheepshuid bevinden, gemeten in een rechte hoek ten opzichte van de scheepsmiddellijn in het vlak van de grootste inzinking, mogen in de berekening niet worden meegenomen.
 
@@ -3087,21 +3087,21 @@ De volgende indicaties moeten voor het geval van een lekke toestand in acht word
 
 1. De veiligheidsafstand moet ten minste gelijk zijn aan de som van:
 
-- a. de extra zijdelingse inzinking die, gemeten langs de scheepshuid, ontstaat door de toelaatbare slagzij, bedoeld in [artikel 15.03, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01), en
+- a. de extra zijdelingse inzinking die, gemeten langs de scheepshuid, ontstaat door de toelaatbare slagzij, bedoeld in [artikel 15.03, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01), en
 
-- b. de resterende veiligheidsafstand, bedoeld in [artikel 15.03, derde lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01).
+- b. de resterende veiligheidsafstand, bedoeld in [artikel 15.03, derde lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01).
 
 De veiligheidsafstand van schepen zonder schottendek moet ten minste 0,50 m bedragen.
 
 2. Het vrijboord moet ten minste gelijk zijn aan de som van:
 
-- a. de extra zijdelingse inzinking die door de volgens [artikel 15.03, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01), berekende slagzij, gemeten langs de scheepshuid, ontstaat, en
+- a. de extra zijdelingse inzinking die door de volgens [artikel 15.03, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01), berekende slagzij, gemeten langs de scheepshuid, ontstaat, en
 
-- b. het resterende vrijboord, bedoeld in [artikel 15.03, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01).
+- b. het resterende vrijboord, bedoeld in [artikel 15.03, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01).
 
 Het vrijboord moet echter ten minste 0,30 m bedragen.
 
-3. Het vlak van de grootste inzinking moet zodanig worden vastgesteld dat zowel de veiligheidsafstand als bedoeld in het eerste lid als het vrijboord als bedoeld in het tweede lid als de [artikelen 15.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-07-01) en [15.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01) in acht zijn genomen.
+3. Het vlak van de grootste inzinking moet zodanig worden vastgesteld dat zowel de veiligheidsafstand als bedoeld in het eerste lid als het vrijboord als bedoeld in het tweede lid als de [artikelen 15.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-12-01) en [15.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01) in acht zijn genomen.
 
 4. De Commissie van Deskundigen kan uit veiligheidsoverwegingen een grotere veiligheidsafstand of een groter vrijboord bepalen.
 
@@ -3111,9 +3111,9 @@ Het vrijboord moet echter ten minste 0,30 m bedragen.
 
 2. Het ten hoogste toegelaten aantal passagiers mag niet meer zijn dan:
 
-- a. het aantal passagiers waarvoor een verzamelruimte, bedoeld in [artikel 15.06, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-07-01), is aangetoond;
+- a. het aantal passagiers waarvoor een verzamelruimte, bedoeld in [artikel 15.06, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-12-01), is aangetoond;
 
-- b. het aantal passagiers waarvoor de stabiliteitsberekening, bedoeld in [artikel 15.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01), is uitgevoerd;
+- b. het aantal passagiers waarvoor de stabiliteitsberekening, bedoeld in [artikel 15.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01), is uitgevoerd;
 
 - c. het aantal beschikbare bedden voor passagiers op hotelschepen, die voor reizen met overnachting worden ingezet.
 
@@ -3129,13 +3129,13 @@ Het vrijboord moet echter ten minste 0,30 m bedragen.
 
 - b. gasdicht gescheiden zijn van machinekamers en ketelruimen.
 
-2. Kasten als bedoeld in [artikel 11.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=11&artikel=11.13&z=2009-07-01&g=2009-07-01) en ruimten voor brandbare vloeistoffen moeten zich buiten het gebied bestemd voor passagiers bevinden.
+2. Kasten als bedoeld in [artikel 11.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=11&artikel=11.13&z=2009-07-01&g=2009-12-01) en ruimten voor brandbare vloeistoffen moeten zich buiten het gebied bestemd voor passagiers bevinden.
 
 3. Aantal en breedte van uitgangen van passagiersverblijven moeten aan de volgende voorwaarden voldoen:
 
 - a. Verblijven of groepen van verblijven die voor 30 of meer passagiers zijn bestemd of ingericht, dan wel voor 12 of meer passagiers bedden bieden, moeten ten minste twee uitgangen hebben. Op schepen voor dagtochten mag één van deze twee uitgangen door twee nooduitgangen worden vervangen. Ruimten met uitzondering van hutten dan wel groepen van ruimten, die slechts één uitgang hebben, moeten tenminste één nooduitgang hebben.
 
-- b. Indien zich verblijven onder het schottendek bevinden, mag één van de uitgangen een waterdichte deur in een schot, bedoeld in [artikel 15.02, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-07-01), zijn die toegang geeft tot een aangrenzende afdeling van waaruit het hoger gelegen dek rechtstreeks kan worden bereikt. De andere uitgang moet direct of, wanneer dit overeenkomstig onderdeel a is toegestaan, als nooduitgang naar het schottendek dan wel naar buiten leiden. Dit geldt niet voor de afzonderlijke hutten.
+- b. Indien zich verblijven onder het schottendek bevinden, mag één van de uitgangen een waterdichte deur in een schot, bedoeld in [artikel 15.02, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-12-01), zijn die toegang geeft tot een aangrenzende afdeling van waaruit het hoger gelegen dek rechtstreeks kan worden bereikt. De andere uitgang moet direct of, wanneer dit overeenkomstig onderdeel a is toegestaan, als nooduitgang naar het schottendek dan wel naar buiten leiden. Dit geldt niet voor de afzonderlijke hutten.
 
 - c. Uitgangen, bedoeld onder a en b, moeten doelmatig zijn aangebracht en een vrije breedte van tenminste 0,80 m en een vrije hoogte van tenminste 2,00 m hebben. Bij deuren van hutten voor passagiers en andere kleine verblijven mag de vrije breedte worden verminderd tot 0,70 m.
 
@@ -3249,9 +3249,9 @@ Liften die zijn bestemd voor het gebruik door personen met beperkte mobiliteit e
 
 - c. Indien de openingen en inrichtingen voor embarkeren en debarkeren niet vanuit het stuurhuis te zien zijn, moeten er optische of elektronische hulpmiddelen aanwezig zijn.
 
-11. De gedeelten van het schip die niet voor passagiers zijn bestemd, met name de toegangen tot het stuurhuis, tot de lieren en tot de machinekamers, moeten voor het betreden door onbevoegden kunnen worden beveiligd. Bij deze toegangen moet bovendien op een opvallende plaats een teken overeenkomstig schets 1 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-07-01) zijn aangebracht.
+11. De gedeelten van het schip die niet voor passagiers zijn bestemd, met name de toegangen tot het stuurhuis, tot de lieren en tot de machinekamers, moeten voor het betreden door onbevoegden kunnen worden beveiligd. Bij deze toegangen moet bovendien op een opvallende plaats een teken overeenkomstig schets 1 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=I&z=2009-07-01&g=2009-12-01) zijn aangebracht.
 
-12. Loopplanken moeten overeenkomstig de Europese norm EN 114206 : 2003, zijn vervaardigd. In afwijking van [artikel 10.02, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-07-01), mag hun lengte minder dan 4 m bedragen.
+12. Loopplanken moeten overeenkomstig de Europese norm EN 114206 : 2003, zijn vervaardigd. In afwijking van [artikel 10.02, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-12-01), mag hun lengte minder dan 4 m bedragen.
 
 13. Doorgangsruimten die zijn bestemd voor gebruik door personen met beperkte mobiliteit moeten een vrije breedte van tenminste 1,30 m hebben en vrij zijn van drempels en opstaande randen die een hoogte van 0,025 m te boven gaan. Wanden van doorgangsruimten die zijn bestemd voor gebruik door personen met beperkte mobiliteit moeten zijn voorzien van handrelingen op een hoogte van 0,90 m boven de vloer.
 
@@ -3261,7 +3261,7 @@ Doorzichtige deuren en tot aan de vloer doorlopende doorzichtige wanden van door
 
 15. Opbouwen die volledig of waarvan de daken uit panoramaruiten bestaan mogen slechts van materiaal zijn vervaardigd dat ingeval van schade de kans op verwonding van personen aan boord zo klein mogelijk houdt.
 
-16. Drinkwaterinstallaties moeten tenminste aan de eisen van [artikel 12.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=12&artikel=12.05&z=2009-07-01&g=2009-07-01) voldoen.
+16. Drinkwaterinstallaties moeten tenminste aan de eisen van [artikel 12.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=12&artikel=12.05&z=2009-07-01&g=2009-12-01) voldoen.
 
 17. Er moeten toiletten voor passagiers beschikbaar zijn. Tenminste één toilet moet volgens een betreffende norm of voorschrift van een van de Rijnoeverstaten of België voor het gebruik door personen met beperkte mobiliteit uitgevoerd zijn en via een passagiersverblijf dat is bestemd voor het gebruik door personen met beperkte mobiliteit te bereiken zijn.
 
@@ -3273,11 +3273,11 @@ Doorzichtige deuren en tot aan de vloer doorlopende doorzichtige wanden van door
 
 1. Behalve met het hoofd voortstuwingssysteem moet het schip zijn uitgerust met een tweede onafhankelijk voortstuwingssysteem, dat garandeert dat het schip bij uitval van het hoofd voortstuwingssysteem zich op eigen kracht kan voortbewegen.
 
-2. Het tweede onafhankelijke voortstuwingssysteem moet zich in een aparte machinekamer bevinden. Wanneer de beide machinekamers gemeenschappelijke scheidingsvlakken hebben moet deze overeenkomstig [artikel 15.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-07-01), gebouwd zijn.
+2. Het tweede onafhankelijke voortstuwingssysteem moet zich in een aparte machinekamer bevinden. Wanneer de beide machinekamers gemeenschappelijke scheidingsvlakken hebben moet deze overeenkomstig [artikel 15.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-12-01), gebouwd zijn.
 
 ##### Artikel 15.08. Veiligheidsinrichting en -uitrusting
 
-1. Ieder passagiersschip moet beschikken over een interne spreekverbinding als bedoeld in [artikel 7.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.08&z=2009-07-01&g=2009-07-01). Deze moet bovendien de bedrijfsruimten en – voor zover daar geen directe communicatiemogelijkheid vanuit het stuurhuis aanwezig is – de plaatsen voor het embarkeren van passagiers en de verzamelruimten voor passagiers als bedoeld in [artikel 15.06, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-07-01), omvatten.
+1. Ieder passagiersschip moet beschikken over een interne spreekverbinding als bedoeld in [artikel 7.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.08&z=2009-07-01&g=2009-12-01). Deze moet bovendien de bedrijfsruimten en – voor zover daar geen directe communicatiemogelijkheid vanuit het stuurhuis aanwezig is – de plaatsen voor het embarkeren van passagiers en de verzamelruimten voor passagiers als bedoeld in [artikel 15.06, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-12-01), omvatten.
 
 2. Alle passagiersverblijven moeten met een luidsprekerinstallatie bereikt kunnen worden. De installatie moet zo gedimensioneerd zijn dat de overgebrachte informatie duidelijk van achtergrondlawaai kan worden onderscheiden. Voorzover er een directe communicatiemogelijkheid vanuit het stuurhuis naar het passagiersgedeelte aanwezig is, behoeft er aldaar geen luidspreker beschikbaar te zijn.
 
@@ -3299,7 +3299,7 @@ Doorzichtige deuren en tot aan de vloer doorlopende doorzichtige wanden van door
 
 - b. een alarminstallatie waarmee de scheepsleiding de passagiers kan waarschuwen. Dit alarm moet duidelijk en zonder dat verwarring mogelijk is waarneembaar zijn in alle ruimten die toegankelijk zijn voor passagiers. Het moet ingeschakeld kunnen worden vanuit het stuurhuis en vanaf een plaats die constant door het personeel wordt bezet.
 
-- c. een alarminstallatie waarmee de scheepsleiding, bedoeld in [artikel 7.09, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.09&z=2009-07-01&g=2009-07-01), de bemanning en het boordpersoneel kan waarschuwen. Deze alarminstallatie moet eveneens functioneren in de verblijfsruimten voor het boordpersoneel, de koelruimten en andere opslagruimten. De alarmschakelaars moeten beschermd zijn tegen ongewild gebruik.
+- c. een alarminstallatie waarmee de scheepsleiding, bedoeld in [artikel 7.09, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.09&z=2009-07-01&g=2009-12-01), de bemanning en het boordpersoneel kan waarschuwen. Deze alarminstallatie moet eveneens functioneren in de verblijfsruimten voor het boordpersoneel, de koelruimten en andere opslagruimten. De alarmschakelaars moeten beschermd zijn tegen ongewild gebruik.
 
 4. Iedere waterdichte afdeling moet zijn uitgerust met een bilge alarm.
 
@@ -3311,11 +3311,11 @@ Doorzichtige deuren en tot aan de vloer doorlopende doorzichtige wanden van door
 
 8. Indien zich onderdelen van in kasten opgestelde CO2-installaties in onderdeks gesitueerde ruimten bevinden, moeten deze zijn voorzien van een automatische ventilatie, die automatisch in werking treedt bij het openen van de deur of van het luik van deze ruimte. De ventilatieschachten moeten reiken tot op 0,05 m van de bodem van deze ruimte.
 
-9. Behalve de verbandtrommel, bedoeld in [artikel 10.02, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-07-01), moeten er verdere verbandtrommels in voldoende aantal aanwezig zijn. De verbandtrommels en de plaats waar ze opgeborgen zijn moeten voldoen aan de eisen van [artikel 10.02, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-07-01).
+9. Behalve de verbandtrommel, bedoeld in [artikel 10.02, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-12-01), moeten er verdere verbandtrommels in voldoende aantal aanwezig zijn. De verbandtrommels en de plaats waar ze opgeborgen zijn moeten voldoen aan de eisen van [artikel 10.02, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-12-01).
 
 ##### Artikel 15.09. Reddingsmiddelen
 
-1. Behalve de in [artikel 10.05, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-07-01), genoemde reddingsboeien moeten op alle voor passagiers bestemde, niet gesloten delen van de dekken aan beide zijden van het schip reddingsboeien die voldoen:
+1. Behalve de in [artikel 10.05, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-12-01), genoemde reddingsboeien moeten op alle voor passagiers bestemde, niet gesloten delen van de dekken aan beide zijden van het schip reddingsboeien die voldoen:
 
 - –. aan de Europese norm EN 14 144 : 2003; of
 
@@ -3323,11 +3323,11 @@ Doorzichtige deuren en tot aan de vloer doorlopende doorzichtige wanden van door
 
 De ene helft van alle voorgeschreven reddingsboeien moet zijn voorzien van een drijvende lijn die tenminste 30 m lang moet zijn en een doorsnede van 8 tot 11 mm moet hebben. De andere helft van de voorgeschreven reddingsboeien moet zijn voorzien van een automatisch ontbrandend licht, gevoed door batterijen, dat in het water niet kan uitgaan.
 
-2. Behalve de reddingsboeien als bedoeld in het eerste lid moeten: voor alle leden van het boordpersoneel individuele reddingsmiddelen als bedoeld in [artikel 10.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-07-01), onder handbereik beschikbaar zijn; voor de leden van het boordpersoneel die geen taak volgens de veiligheidsrol hebben, zijn ook harde of halfautomatisch opblaasbare zwemvesten als bedoeld in [artikel 10.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-07-01), toegestaan.
+2. Behalve de reddingsboeien als bedoeld in het eerste lid moeten: voor alle leden van het boordpersoneel individuele reddingsmiddelen als bedoeld in [artikel 10.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-12-01), onder handbereik beschikbaar zijn; voor de leden van het boordpersoneel die geen taak volgens de veiligheidsrol hebben, zijn ook harde of halfautomatisch opblaasbare zwemvesten als bedoeld in [artikel 10.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-12-01), toegestaan.
 
 3. Passagiersschepen moeten over geschikte inrichtingen beschikken die personen op een veilige manier van boord in ondiep water, aan de oever of aan boord van een ander vaartuig kan brengen.
 
-4. Behalve de reddingsmiddelen als bedoeld in het eerste en tweede lid moeten voor in totaal 100% van het ten hoogste toegelaten aantal passagiers individuele reddingsmiddelen als bedoeld in [artikel 10.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-07-01), aanwezig zijn, waarbij ook harde of halfautomatisch opblaasbare zwemvesten als bedoeld in [artikel 10.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-07-01), zijn toegestaan.
+4. Behalve de reddingsmiddelen als bedoeld in het eerste en tweede lid moeten voor in totaal 100% van het ten hoogste toegelaten aantal passagiers individuele reddingsmiddelen als bedoeld in [artikel 10.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-12-01), aanwezig zijn, waarbij ook harde of halfautomatisch opblaasbare zwemvesten als bedoeld in [artikel 10.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-12-01), zijn toegestaan.
 
 5. (vervallen)
 
@@ -3365,7 +3365,7 @@ De ene helft van alle voorgeschreven reddingsboeien moet zijn voorzien van een d
 
 1. Voor de verlichting zijn slechts elektrische installaties toegestaan.
 
-2. [Artikel 9.16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.16&z=2009-07-01&g=2009-07-01), geldt bovendien ook voor gangen en ruimten waar passagiers verblijven.
+2. [Artikel 9.16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.16&z=2009-07-01&g=2009-12-01), geldt bovendien ook voor gangen en ruimten waar passagiers verblijven.
 
 3. Een voldoende verlichting alsmede een noodverlichting moet voor tenminste de volgende ruimten en plaatsen aanwezig zijn:
 
@@ -3399,21 +3399,21 @@ De ene helft van alle voorgeschreven reddingsboeien moet zijn voorzien van een d
 
 - e. alarm- en luidsprekerinstallaties en installaties voor de interne communicatie aan boord;
 
-- f. schijnwerpers als bedoeld in [artikel 10.02, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-07-01);
+- f. schijnwerpers als bedoeld in [artikel 10.02, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-12-01);
 
 - g. brandmeldinstallatie;
 
 - h. overige veiligheidsinstallaties zoals automatische sprinklerinstallaties of brandbluspompen;
 
-- i. liften en hefinrichtingen als bedoeld in [artikel 15.06, negende lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-07-01).
+- i. liften en hefinrichtingen als bedoeld in [artikel 15.06, negende lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-12-01).
 
 5. De lichtbronnen voor de noodverlichting moeten als zodanig zijn gemarkeerd.
 
-6. De noodstroominstallatie moet zijn aangebracht buiten de hoofdmachinekamer, buiten de ruimte waarin de energiebronnen als bedoeld in [artikel 9.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.02&z=2009-07-01&g=2009-07-01), ondergebracht zijn en buiten de ruimte waarin het hoofdschakelbord staat opgesteld en van deze ruimten door scheidingsvlakkenals bedoeld in [artikel 15.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-07-01), zijn gescheiden.
+6. De noodstroominstallatie moet zijn aangebracht buiten de hoofdmachinekamer, buiten de ruimte waarin de energiebronnen als bedoeld in [artikel 9.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.02&z=2009-07-01&g=2009-12-01), ondergebracht zijn en buiten de ruimte waarin het hoofdschakelbord staat opgesteld en van deze ruimten door scheidingsvlakkenals bedoeld in [artikel 15.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-12-01), zijn gescheiden.
 
 Kabels die elektrische installaties in noodgevallen voeden, moeten zodanig zijn ingebouwd en doorgeleid dat de continuïteit van de voeding van deze installaties in geval van brand en overstroming gehandhaafd blijft. In ieder geval mogen deze kabels niet door de hoofdmachinekamer, door keukens of door ruimten geleid worden waarin de elektrische hoofdenergiebron en de daarbij behorende uitrusting staan, behalve in zoverre als het nodig is om ook deze ruimte van een noodstroominstallatie te voorzien.
 
-De noodstroominstallatie moet ofwel zijn opgesteld boven de indompelingsgrenslijn, ofwel zo ver verwijderd van de energiebronnen, bedoeld in [artikel 9.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.02&z=2009-07-01&g=2009-07-01), dat hij in het geval van een lekke toestand als bedoeld in [artikel 15.03, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01), niet tegelijkertijd als deze energiebronnen onder water komt.
+De noodstroominstallatie moet ofwel zijn opgesteld boven de indompelingsgrenslijn, ofwel zo ver verwijderd van de energiebronnen, bedoeld in [artikel 9.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.02&z=2009-07-01&g=2009-12-01), dat hij in het geval van een lekke toestand als bedoeld in [artikel 15.03, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01), niet tegelijkertijd als deze energiebronnen onder water komt.
 
 7. Als noodstroombron zijn toegelaten:
 
@@ -3423,9 +3423,9 @@ De noodstroominstallatie moet ofwel zijn opgesteld boven de indompelingsgrenslij
 
 8. De voor de noodstroomvoorziening benodigde bedrijfsduur wordt bepaald naar gelang het gebruiksdoel van het passagiersschip, maar mag niet minder dan 30 minuten bedragen.
 
-9. De isolatie weerstanden en de aarding van de elektrische systemen moeten worden getest tijdens de onderzoeken, bedoeld in [artikel 2.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.09&z=2009-07-01&g=2009-07-01).
+9. De isolatie weerstanden en de aarding van de elektrische systemen moeten worden getest tijdens de onderzoeken, bedoeld in [artikel 2.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.09&z=2009-07-01&g=2009-12-01).
 
-10. De energiebronnen, bedoeld in [artikel 9.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.02&z=2009-07-01&g=2009-07-01), moeten onafhankelijk van elkaar zijn uitgevoerd.
+10. De energiebronnen, bedoeld in [artikel 9.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.02&z=2009-07-01&g=2009-12-01), moeten onafhankelijk van elkaar zijn uitgevoerd.
 
 11. Storingen in de hoofd- of noodstroominstallatie mogen geen aanleiding kunnen zijn tot onderlinge beïnvloeding van de bedrijfszekerheid van de inrichtingen.
 
@@ -3463,7 +3463,7 @@ De noodstroominstallatie moet ofwel zijn opgesteld boven de indompelingsgrenslij
 
 - a. Scheidingsvlakken van ruimten moeten worden uitgevoerd in overeenstemming met de volgende tabellen:
 
-- aa. Tabel voor scheidingsvlakken van ruimten waarin geen sprinklerinstallaties als bedoeld in [artikel 10.03a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03a&z=2009-07-01&g=2009-07-01) zijn geïnstalleerd. 1 Scheidingsvlakken tussen controleposten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A0, in het geval van buiten gelegen verzamelruimten echter aan type B15. 1 Scheidingsvlakken tussen verblijfsruimten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A30, in het geval van buiten gelegen verzamelruimten echter aan type B15. 3 Wanden tussen hutten, wanden tussen hutten en gangen en verticale scheidingsvlakken van passagiersverblijven, bedoeld in het tiende lid, moeten voldoen aan type B15 en ruimten met sprinklerinstallaties aan type B0. 4 Scheidingsvlakken tussen machinekamers, bedoeld in de [artikelen 15.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.07&z=2009-07-01&g=2009-07-01) en [15.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.10&z=2009-07-01&g=2009-07-01), moeten voldoen aan type A60, en overigens aan type A0. 5 Voor scheidingsvlakken tussen keukens en koelruimten of voorraadruimten voor levensmiddelen is B15 voldoende.
+- aa. Tabel voor scheidingsvlakken van ruimten waarin geen sprinklerinstallaties als bedoeld in [artikel 10.03a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03a&z=2009-07-01&g=2009-12-01) zijn geïnstalleerd. 1 Scheidingsvlakken tussen controleposten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A0, in het geval van buiten gelegen verzamelruimten echter aan type B15. 1 Scheidingsvlakken tussen verblijfsruimten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A30, in het geval van buiten gelegen verzamelruimten echter aan type B15. 3 Wanden tussen hutten, wanden tussen hutten en gangen en verticale scheidingsvlakken van passagiersverblijven, bedoeld in het tiende lid, moeten voldoen aan type B15 en ruimten met sprinklerinstallaties aan type B0. 4 Scheidingsvlakken tussen machinekamers, bedoeld in de [artikelen 15.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.07&z=2009-07-01&g=2009-12-01) en [15.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.10&z=2009-07-01&g=2009-12-01), moeten voldoen aan type A60, en overigens aan type A0. 5 Voor scheidingsvlakken tussen keukens en koelruimten of voorraadruimten voor levensmiddelen is B15 voldoende.
 
 | Ruimten | Controleposten | Trappenschachten | Verzamelruimten | Verblijfsruimten | Machinekamers | Keukens | Voorraadruimten |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3475,7 +3475,7 @@ De noodstroominstallatie moet ofwel zijn opgesteld boven de indompelingsgrenslij
 | Keukens |   |   |   |   |   | A 0 | A 60/B155 |
 | Voorraadruimten |   |   |   |   |   |   | – |
 
-- bb. Tabel voor scheidingsvlakken van ruimten waarin sprinklerinstallaties als bedoeld in [artikel 10.03a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03a&z=2009-07-01&g=2009-07-01) zijn geïnstalleerd. 6 Scheidingsvlakken tussen controleposten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A0, in het geval van buiten gelegen verzamelruimten echter aan type B15. 7 Scheidingsvlakken tussen verblijfsruimten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A30, in het geval van buiten gelegen verzamelruimten echter aan type B15. 8 Wanden tussen hutten, wanden tussen hutten en gangen en verticale scheidingsvlakken van passagiersverblijven, bedoeld in het tiende lid, moeten voldoen aan type B15 en ruimten met sprinklerinstallaties aan type B0. 9 Scheidingsvlakken tussen machinekamers, bedoeld in de [artikelen 15.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.07&z=2009-07-01&g=2009-07-01) en [15.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.10&z=2009-07-01&g=2009-07-01), moeten voldoen aan type A60, en overigens aan type A0.
+- bb. Tabel voor scheidingsvlakken van ruimten waarin sprinklerinstallaties als bedoeld in [artikel 10.03a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03a&z=2009-07-01&g=2009-12-01) zijn geïnstalleerd. 6 Scheidingsvlakken tussen controleposten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A0, in het geval van buiten gelegen verzamelruimten echter aan type B15. 7 Scheidingsvlakken tussen verblijfsruimten en binnen het schip gelegen verzamelruimten moeten voldoen aan type A30, in het geval van buiten gelegen verzamelruimten echter aan type B15. 8 Wanden tussen hutten, wanden tussen hutten en gangen en verticale scheidingsvlakken van passagiersverblijven, bedoeld in het tiende lid, moeten voldoen aan type B15 en ruimten met sprinklerinstallaties aan type B0. 9 Scheidingsvlakken tussen machinekamers, bedoeld in de [artikelen 15.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.07&z=2009-07-01&g=2009-12-01) en [15.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.10&z=2009-07-01&g=2009-12-01), moeten voldoen aan type A60, en overigens aan type A0.
 
 | Ruimten | Controleposten | Trappenschachten | Verzamelruimten | Verblijfsruimten | Machinekamers | Keukens | Voorraadruimten |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3507,11 +3507,11 @@ De noodstroominstallatie moet ofwel zijn opgesteld boven de indompelingsgrenslij
 
 3. In ruimten, met uitzondering van machinekamers en voorraadruimten, toegepaste verf, lak en andere producten voor het behandelen van oppervlakken, alsmede bedekking van dekken moeten moeilijk ontvlambaar zijn.
 
-Vaste vloerbedekking, stoffen, gordijnen en andere hangende materialen van textiel, alsmede gestoffeerde meubels en beddengoed, moeten moeilijk ontvlambaar zijn voorzover de ruimten waarin ze zich bevinden niet beschikken over een automatisch werkende sprinklerinstallatie als bedoeld in [artikel 10.03a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03a&z=2009-07-01&g=2009-07-01).
+Vaste vloerbedekking, stoffen, gordijnen en andere hangende materialen van textiel, alsmede gestoffeerde meubels en beddengoed, moeten moeilijk ontvlambaar zijn voorzover de ruimten waarin ze zich bevinden niet beschikken over een automatisch werkende sprinklerinstallatie als bedoeld in [artikel 10.03a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03a&z=2009-07-01&g=2009-12-01).
 
-4. De in ruimten voor passagiers aangebrachte plafonds en stofferingen van wanden met inbegrip van de constructies daaronder moeten, voorzover die ruimten niet over een automatisch werkende sprinklerinstallatie beschikken als bedoeld in [artikel 10.03a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03a&z=2009-07-01&g=2009-07-01), van onbrandbaar materiaal zijn vervaardigd met uitzondering van de oppervlakken ervan die tenminste moeilijk ontvlambaar moeten zijn.
+4. De in ruimten voor passagiers aangebrachte plafonds en stofferingen van wanden met inbegrip van de constructies daaronder moeten, voorzover die ruimten niet over een automatisch werkende sprinklerinstallatie beschikken als bedoeld in [artikel 10.03a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03a&z=2009-07-01&g=2009-12-01), van onbrandbaar materiaal zijn vervaardigd met uitzondering van de oppervlakken ervan die tenminste moeilijk ontvlambaar moeten zijn.
 
-5. Meubels en constructies in verblijfsruimten, waarin zich verzamelruimten bevinden, moeten, voorzover die ruimten niet beschikken over een automatisch werkende sprinklerinstallatie als bedoeld in [artikel 10.03a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03a&z=2009-07-01&g=2009-07-01), van onbrandbaar materiaal zijn vervaardigd.
+5. Meubels en constructies in verblijfsruimten, waarin zich verzamelruimten bevinden, moeten, voorzover die ruimten niet beschikken over een automatisch werkende sprinklerinstallatie als bedoeld in [artikel 10.03a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03a&z=2009-07-01&g=2009-12-01), van onbrandbaar materiaal zijn vervaardigd.
 
 6. Verf, lak en andere stoffen, die worden toegepast op onbeschermde oppervlakken aan de binnenkant, mogen bij brand niet meer dan normale hoeveelheden rook en giftige stoffen ontwikkelen. Dit moet worden aangetoond met toetsing aan de code voor brandtestmethoden.
 
@@ -3525,7 +3525,7 @@ Vaste vloerbedekking, stoffen, gordijnen en andere hangende materialen van texti
 
 - c. Automatisch sluitende deuren, die bij een normale situatie open staan, moeten ter plaatse en vanuit een permanent door de bemanning en het boordpersoneel bezette plaats kunnen worden gesloten. Na sluiting op afstand moet de deur ter plaatse opnieuw geopend en veilig gesloten kunnen worden.
 
-- d. Waterdichte deuren als bedoeld in [artikel 15.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-07-01) behoeven niet te worden geïsoleerd.
+- d. Waterdichte deuren als bedoeld in [artikel 15.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-12-01) behoeven niet te worden geïsoleerd.
 
 9. Wanden als bedoeld in het tweede lid moeten van dek tot dek opgetrokken zijn, dan wel eindigen bij doorlopende plafonds die aan dezelfde eisen, bedoeld in het tweede lid, voldoen.
 
@@ -3589,7 +3589,7 @@ Deze verticale scheidingsvlakken wanden moeten onder normale omstandigheden rook
 
 ##### Artikel 15.12. Brandbestrijding
 
-1. Behalve de draagbare blustoestellen als bedoeld in [artikel 10.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-07-01) moeten tenminste de volgende draagbare blustoestellen aanwezig zijn:
+1. Behalve de draagbare blustoestellen als bedoeld in [artikel 10.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-12-01) moeten tenminste de volgende draagbare blustoestellen aanwezig zijn:
 
 - a. één draagbaar blustoestel voor elke 120 m2 bruto vloeroppervlak van de verblijfsruimten voor passagiers;
 
@@ -3597,7 +3597,7 @@ Deze verticale scheidingsvlakken wanden moeten onder normale omstandigheden rook
 
 - c. één draagbaar blustoestel in iedere keuken en in de nabijheid van iedere ruimte waarin brandbare vloeistoffen worden opgeslagen of gebruikt. In keukens moet het blusmiddel tevens geschikt zijn voor het blussen van branden met vet.
 
-Deze extra brandblussers moeten voldoen aan de eisen, bedoeld in [artikel 10.03, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-07-01), en zo opgesteld en over het schip verdeeld zijn dat bij een brandhaard altijd op elke plaats een blustoestel direct bereikbaar is. In iedere keuken alsmede in kapsalons en parfumerieën moet een branddeken binnen handbereik zijn.
+Deze extra brandblussers moeten voldoen aan de eisen, bedoeld in [artikel 10.03, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-12-01), en zo opgesteld en over het schip verdeeld zijn dat bij een brandhaard altijd op elke plaats een blustoestel direct bereikbaar is. In iedere keuken alsmede in kapsalons en parfumerieën moet een branddeken binnen handbereik zijn.
 
 2. Passagiersschepen moeten zijn voorzien van een blusinstallatie, die bestaat uit:
 
@@ -3635,7 +3635,7 @@ Wanneer er brandbluskasten aanwezig zijn moeten deze aan de buitenkant zijn voor
 
 Brandbluspompen mogen worden gebruikt voor algemene bedrijfsmatige taken.
 
-9. Machinekamers moeten zijn uitgerust met een vast ingebouwde brandblusinstallatie als bedoeld in [artikel 10.03b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03b&z=2009-07-01&g=2009-07-01).
+9. Machinekamers moeten zijn uitgerust met een vast ingebouwde brandblusinstallatie als bedoeld in [artikel 10.03b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03b&z=2009-07-01&g=2009-12-01).
 
 10. Op hotelschepen moeten beschikbaar zijn:
 
@@ -3659,7 +3659,7 @@ Brandbluspompen mogen worden gebruikt voor algemene bedrijfsmatige taken.
 
 Bijzondere veiligheidsmaatregelen, die nodig zijn voor personen met beperkte mobiliteit moeten in de veiligheidsrol zijn opgenomen.
 
-De verschillende taken moeten aan de leden van de bemanning en van het boordpersoneel die in het kader van de veiligheidsrol moeten optreden in overeenstemming met hun functie zijn toegedeeld. In het bijzonder moet door speciale aanwijzingen zeker gesteld zijn, dat alle deuren en openingen in waterdichte schotten als bedoeld in [artikel 15.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-07-01) in geval van gevaar onmiddellijk waterdicht gesloten worden.
+De verschillende taken moeten aan de leden van de bemanning en van het boordpersoneel die in het kader van de veiligheidsrol moeten optreden in overeenstemming met hun functie zijn toegedeeld. In het bijzonder moet door speciale aanwijzingen zeker gesteld zijn, dat alle deuren en openingen in waterdichte schotten als bedoeld in [artikel 15.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-12-01) in geval van gevaar onmiddellijk waterdicht gesloten worden.
 
 2. Bij de veiligheidsrol behoort een veiligheidsplan van het schip, waarop duidelijk en overzichtelijk tenminste zijn aangegeven:
 
@@ -3673,13 +3673,13 @@ De verschillende taken moeten aan de leden van de bemanning en van het boordpers
 
 - e. overige veiligheidsuitrusting;
 
-- f. alarminstallatie, bedoeld in [artikel 15.08, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.08&z=2009-07-01&g=2009-07-01);
+- f. alarminstallatie, bedoeld in [artikel 15.08, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.08&z=2009-07-01&g=2009-12-01);
 
-- g. alarminstallatie, bedoeld in [artikel 15.08, derde lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.08&z=2009-07-01&g=2009-07-01);
+- g. alarminstallatie, bedoeld in [artikel 15.08, derde lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.08&z=2009-07-01&g=2009-12-01);
 
-- h. deuren in schotten, bedoeld in [artikel 15.02, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-07-01), en de plaatsen van waaruit deze worden bediend, alsook overige openingen, bedoeld in [artikel 15.02, negende, tiende en dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-07-01), en [artikel 15.03, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01);
+- h. deuren in schotten, bedoeld in [artikel 15.02, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-12-01), en de plaatsen van waaruit deze worden bediend, alsook overige openingen, bedoeld in [artikel 15.02, negende, tiende en dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-12-01), en [artikel 15.03, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01);
 
-- i. deuren, bedoeld in [artikel 15.11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-07-01);
+- i. deuren, bedoeld in [artikel 15.11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-12-01);
 
 - j. brandkleppen;
 
@@ -3753,17 +3753,17 @@ De leidingen moeten zijn voorzien van een aansluiting voor afgifte overeenkomsti
 
 ##### Artikel 15.15. Minder zware eisen voor bepaalde schepen
 
-1. Een passagiersschip dat voor het vervoer van minder dan 50 passagiers is toegelaten en waarvan LWL niet groter is dan 25 m, moet of het rekenkundig bewijs van voldoende lekstabiliteit als bedoeld in [artikel 15.03, zevende tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01) aantonen, of bewijzen dat het schip in symmetrische leksituaties aan de volgende criteria voldoet:
+1. Een passagiersschip dat voor het vervoer van minder dan 50 passagiers is toegelaten en waarvan LWL niet groter is dan 25 m, moet of het rekenkundig bewijs van voldoende lekstabiliteit als bedoeld in [artikel 15.03, zevende tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01) aantonen, of bewijzen dat het schip in symmetrische leksituaties aan de volgende criteria voldoet:
 
 - a. het schip mag maximaal tot aan de indompelingsgrenslijn inzinken, en
 
 - b. de resterende metacentrische hoogte gmR mag niet kleiner zijn dan 0,10 m.
 
-Het benodigde resterende opdrijvend vermogen moet worden gegarandeerd door de juiste keuze van het materiaal van de scheepshuid of door drijflichamen van blokken schuim, die vast met de romp verbonden zijn. Voor schepen met een lengte van meer dan 15 m mag het resterend opdrijvend vermogen door een combinatie van drijflichamen en schotindeling voor de 1 compartiment status als bedoeld in [artikel 15.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01) zijn verzekerd.
+Het benodigde resterende opdrijvend vermogen moet worden gegarandeerd door de juiste keuze van het materiaal van de scheepshuid of door drijflichamen van blokken schuim, die vast met de romp verbonden zijn. Voor schepen met een lengte van meer dan 15 m mag het resterend opdrijvend vermogen door een combinatie van drijflichamen en schotindeling voor de 1 compartiment status als bedoeld in [artikel 15.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01) zijn verzekerd.
 
-2. De Commissie van Deskundigen kan bij passagiersschepen als bedoeld in het eerste lid kleine afwijkingen toelaten van de bij [artikel 15.06, derde lid, onder c, en vijfde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-07-01), vereiste vrije hoogte. De afwijking mag niet meer zijn dan 5%. Ingeval van afwijkingen moeten de betreffende plaatsen in het schip met verf worden gemarkeerd.
+2. De Commissie van Deskundigen kan bij passagiersschepen als bedoeld in het eerste lid kleine afwijkingen toelaten van de bij [artikel 15.06, derde lid, onder c, en vijfde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-12-01), vereiste vrije hoogte. De afwijking mag niet meer zijn dan 5%. Ingeval van afwijkingen moeten de betreffende plaatsen in het schip met verf worden gemarkeerd.
 
-3. In afwijking van [artikel 15.03, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01), behoeven passagiersschepen die voor het vervoer van ten hoogste 250 passagiers zijn toegelaten en waarvan de lengte niet groter is dan 45 m niet te voldoen aan de 2 compartimenten status.
+3. In afwijking van [artikel 15.03, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01), behoeven passagiersschepen die voor het vervoer van ten hoogste 250 passagiers zijn toegelaten en waarvan de lengte niet groter is dan 45 m niet te voldoen aan de 2 compartimenten status.
 
 4. (vervallen)
 
@@ -3785,7 +3785,7 @@ Het benodigde resterende opdrijvend vermogen moet worden gegarandeerd door de ju
 
 - c. een hoofdaandrijving en een boegschroefinstallatie.
 
-7. In afwijking van [artikel 15.02, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-07-01), mag op passagiersschepen, waarvan de lengte niet meer bedraagt dan 45 m en waarvan het ten hoogste toegelaten aantal passagiers overeenkomt met de lengte van het schip in meters, een handbediende deur, die niet op afstand kan worden bediend, in een schot als bedoeld in [artikel 15.02, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-07-01), in de verblijfsruimte voor passagiers aanwezig zijn, indien:
+7. In afwijking van [artikel 15.02, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-12-01), mag op passagiersschepen, waarvan de lengte niet meer bedraagt dan 45 m en waarvan het ten hoogste toegelaten aantal passagiers overeenkomt met de lengte van het schip in meters, een handbediende deur, die niet op afstand kan worden bediend, in een schot als bedoeld in [artikel 15.02, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.02&z=2009-07-01&g=2009-12-01), in de verblijfsruimte voor passagiers aanwezig zijn, indien:
 
 - a. het schip slechts één dek heeft;
 
@@ -3795,19 +3795,19 @@ Het benodigde resterende opdrijvend vermogen moet worden gegarandeerd door de ju
 
 - d. de beide afdelingen die door de deur worden gescheiden zijn uitgerust met een bilge alarm.
 
-8. In afwijking van [artikel 15.06, zesde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-07-01), mag op passagiersschepen als bedoeld in het zevende lid een vluchtweg door een keuken leiden, indien een tweede vluchtweg beschikbaar is.
+8. In afwijking van [artikel 15.06, zesde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-12-01), mag op passagiersschepen als bedoeld in het zevende lid een vluchtweg door een keuken leiden, indien een tweede vluchtweg beschikbaar is.
 
-9. Voor passagiersschepen, waarvan de lengte niet meer bedraagt dan 45 m, geldt [artikel 15.01, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.01&z=2009-07-01&g=2009-07-01), niet, wanneer de vloeibaargasinstallaties met geschikte alarminstallaties voor gezondheidsbedreigende concentraties van CO alsmede voor explosieve gasmengsels zijn uitgerust.
+9. Voor passagiersschepen, waarvan de lengte niet meer bedraagt dan 45 m, geldt [artikel 15.01, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.01&z=2009-07-01&g=2009-12-01), niet, wanneer de vloeibaargasinstallaties met geschikte alarminstallaties voor gezondheidsbedreigende concentraties van CO alsmede voor explosieve gasmengsels zijn uitgerust.
 
 10. De volgende voorschriften gelden niet voor passagiersschepen waarvan de LWL niet meer bedraagt dan 25 m:
 
-- a. [artikel 15.04, eerste lid, laatste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.04&z=2009-07-01&g=2009-07-01);
+- a. [artikel 15.04, eerste lid, laatste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.04&z=2009-07-01&g=2009-12-01);
 
-- b. [artikel 15.06, zesde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-07-01), voor zover het keukens betreft, indien een tweede vluchtweg beschikbaar is;
+- b. [artikel 15.06, zesde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-12-01), voor zover het keukens betreft, indien een tweede vluchtweg beschikbaar is;
 
-- c. [artikel 15.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.07&z=2009-07-01&g=2009-07-01).
+- c. [artikel 15.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.07&z=2009-07-01&g=2009-12-01).
 
-11. Op hotelschepen, waarvan de lengte niet meer bedraagt dan 45 m, is [artikel 15.12, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.12&z=2009-07-01&g=2009-07-01), niet van toepassing voorzover in iedere hut vluchtmaskers, in een aantal dat overeenkomt met de zich in die hut bevindende bedden, direct bereikbaar aanwezig zijn.
+11. Op hotelschepen, waarvan de lengte niet meer bedraagt dan 45 m, is [artikel 15.12, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.12&z=2009-07-01&g=2009-12-01), niet van toepassing voorzover in iedere hut vluchtmaskers, in een aantal dat overeenkomt met de zich in die hut bevindende bedden, direct bereikbaar aanwezig zijn.
 
 ### Hoofdstuk 16. Bijzondere bepalingen voor vaartuigen die zijn bestemd om deel uit te maken van een duwstel, een sleep of een gekoppeld samenstel
 
@@ -3825,25 +3825,25 @@ Het benodigde resterende opdrijvend vermogen moet worden gegarandeerd door de ju
 
 3. De koppelingsinrichting moet een hechte verbinding met het geduwde vaartuig of de geduwde vaartuigen mogelijk maken.
 
-Bij duwstellen die bestaan uit één duwend en slechts één geduwd vaartuig mogen de koppelingsinrichtingen echter ook een gestuurd knikken mogelijk maken. De daartoe vereiste aandrijvingen moeten de over te brengen krachten probleemloos kunnen opvangen en zij moeten gemakkelijk en zonder gevaar kunnen worden bediend. Voor deze aandrijvingen zijn de [artikelen 6.03 tot en met 6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.03&z=2009-07-01&g=2009-07-01) van overeenkomstige toepassing.
+Bij duwstellen die bestaan uit één duwend en slechts één geduwd vaartuig mogen de koppelingsinrichtingen echter ook een gestuurd knikken mogelijk maken. De daartoe vereiste aandrijvingen moeten de over te brengen krachten probleemloos kunnen opvangen en zij moeten gemakkelijk en zonder gevaar kunnen worden bediend. Voor deze aandrijvingen zijn de [artikelen 6.03 tot en met 6.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.03&z=2009-07-01&g=2009-12-01) van overeenkomstige toepassing.
 
-4. Bij duwboten is een aanvaringsschot als bedoeld in [artikel 3.03, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.03&z=2009-07-01&g=2009-07-01), niet vereist.
+4. Bij duwboten is een aanvaringsschot als bedoeld in [artikel 3.03, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.03&z=2009-07-01&g=2009-12-01), niet vereist.
 
 ##### Artikel 16.02. Vaartuigen die geschikt zijn om te worden geduwd
 
 1. Voor duwbakken zonder stuurinrichting, verblijven, machinekamers of ketelruimen zijn niet van toepassing:
 
-- a. de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&z=2009-07-01&g=2009-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=12&z=2009-07-01&g=2009-07-01);
+- a. de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-12-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-12-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&z=2009-07-01&g=2009-12-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=12&z=2009-07-01&g=2009-12-01);
 
-- b. de [artikelen 8.08, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-07-01), [10.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-07-01) en [10.05, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-07-01).
+- b. de [artikelen 8.08, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-12-01), [10.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-12-01) en [10.05, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-12-01).
 
 Indien stuurinrichtingen, verblijven, machinekamers of ketelruimen aanwezig zijn, zijn de dienovereenkomstige vereisten van dit Reglement van toepassing.
 
 2. Voor zeeschipbakken met een lengte L van ten hoogste 40 m geldt bovendien:
 
-- a. Waterdichte schotten als bedoeld in [artikel 3.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.03&z=2009-07-01&g=2009-07-01), zijn niet vereist, wanneer de frontale gedeelten van de bak zodanig zijn versterkt dat zij een belasting kunnen opnemen die ten minste 2,5 maal zo groot is als die van het aanvaringsschot van een binnenschip met een overeenkomstige diepgang dat is gebouwd volgens de voorschriften van een door alle Oeverstaten en België erkend classificatiebureau;
+- a. Waterdichte schotten als bedoeld in [artikel 3.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.03&z=2009-07-01&g=2009-12-01), zijn niet vereist, wanneer de frontale gedeelten van de bak zodanig zijn versterkt dat zij een belasting kunnen opnemen die ten minste 2,5 maal zo groot is als die van het aanvaringsschot van een binnenschip met een overeenkomstige diepgang dat is gebouwd volgens de voorschriften van een door alle Oeverstaten en België erkend classificatiebureau;
 
-- b. In afwijking van [artikel 8.08, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-07-01), behoeven moeilijk toegankelijke afdelingen van een dubbele bodem slechts gelenst te kunnen worden, wanneer hun inhoud meer bedraagt dan 5% van de waterverplaatsing van de zeeschipbak bij de grootste toegelaten inzinking.
+- b. In afwijking van [artikel 8.08, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-12-01), behoeven moeilijk toegankelijke afdelingen van een dubbele bodem slechts gelenst te kunnen worden, wanneer hun inhoud meer bedraagt dan 5% van de waterverplaatsing van de zeeschipbak bij de grootste toegelaten inzinking.
 
 3. Vaartuigen die geduwd moeten worden moeten zijn voorzien van koppelingsinrichtingen die een veilige verbinding met andere vaartuigen waarborgen.
 
@@ -3873,15 +3873,15 @@ Vaartuigen die bestemd zijn om te worden voortbewogen in een samenstel moeten zi
 
 ##### Artikel 16.06. Proefvaarten met samenstellen
 
-1. Met het oog op de toelating als duwboot of motorschip voor het voortbewegen van vaartuigen in een hecht samenstel en met het oog op het plaatsen van een desbetreffende aantekening in het certificaat van onderzoek bepaalt de Commissie van Deskundigen welke formaties haar voor onderzoek moeten worden getoond en laat zij proefvaarten als bedoeld in [artikel 5.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.02&z=2009-07-01&g=2009-07-01) uitvoeren met het samenstel in de verzochte formatie(s) die haar het meest ongunstig voorkomen. Daarbij moet dit samenstel aan de [artikelen 5.02 tot en met 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.02&z=2009-07-01&g=2009-07-01) voldoen.
+1. Met het oog op de toelating als duwboot of motorschip voor het voortbewegen van vaartuigen in een hecht samenstel en met het oog op het plaatsen van een desbetreffende aantekening in het certificaat van onderzoek bepaalt de Commissie van Deskundigen welke formaties haar voor onderzoek moeten worden getoond en laat zij proefvaarten als bedoeld in [artikel 5.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.02&z=2009-07-01&g=2009-12-01) uitvoeren met het samenstel in de verzochte formatie(s) die haar het meest ongunstig voorkomen. Daarbij moet dit samenstel aan de [artikelen 5.02 tot en met 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.02&z=2009-07-01&g=2009-12-01) voldoen.
 
-De Commissie van Deskundigen vergewist zich ervan of een hechte verbinding van alle vaartuigen van het samenstel bij de volgens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-07-01) voorgeschreven manoeuvres verzekerd is.
+De Commissie van Deskundigen vergewist zich ervan of een hechte verbinding van alle vaartuigen van het samenstel bij de volgens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-12-01) voorgeschreven manoeuvres verzekerd is.
 
-2. Indien tijdens de in het eerste lid bedoelde proefvaarten bijzondere inrichtingen op de in het samenstel voortbewogen vaartuigen (zoals de stuurinrichting, de aandrijf- of manoeuvreerinrichtingen of de scharnierkoppelingen) worden gebruikt om te voldoen aan de [artikelen 5.02 tot en met 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.02&z=2009-07-01&g=2009-07-01), moet in het certificaat van onderzoek van het vaartuig dat het samenstel voortbeweegt worden vermeld: de formatie, de positie, de naam en het officiële scheepsnummer van de toegelaten vaartuigen die over deze bijzondere inrichtingen beschikken.
+2. Indien tijdens de in het eerste lid bedoelde proefvaarten bijzondere inrichtingen op de in het samenstel voortbewogen vaartuigen (zoals de stuurinrichting, de aandrijf- of manoeuvreerinrichtingen of de scharnierkoppelingen) worden gebruikt om te voldoen aan de [artikelen 5.02 tot en met 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&artikel=5.02&z=2009-07-01&g=2009-12-01), moet in het certificaat van onderzoek van het vaartuig dat het samenstel voortbeweegt worden vermeld: de formatie, de positie, de naam en het officiële scheepsnummer van de toegelaten vaartuigen die over deze bijzondere inrichtingen beschikken.
 
 ##### Artikel 16.07. Aantekeningen in het certificaat van onderzoek
 
-1. Indien een vaartuig een samenstel moet voortbewegen of daarin moet worden voortbewogen, moet in het certificaat van onderzoek zijn aangetekend dat het daarvoor geschikt is overeenkomstig de [artikelen 16.01 tot en met 16.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=16&artikel=16.01&z=2009-07-01&g=2009-07-01).
+1. Indien een vaartuig een samenstel moet voortbewegen of daarin moet worden voortbewogen, moet in het certificaat van onderzoek zijn aangetekend dat het daarvoor geschikt is overeenkomstig de [artikelen 16.01 tot en met 16.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=16&artikel=16.01&z=2009-07-01&g=2009-12-01).
 
 2. In het certificaat van onderzoek van het vaartuig dat voor de voortbeweging zorgdraagt moet worden aangetekend:
 
@@ -3897,35 +3897,35 @@ De Commissie van Deskundigen vergewist zich ervan of een hechte verbinding van a
 
 ##### Artikel 17.01. Algemene bepalingen
 
-Voor drijvende werktuigen zijn voor wat betreft bouw en uitrusting de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&z=2009-07-01&g=2009-07-01), [7 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&z=2009-07-01&g=2009-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=16&z=2009-07-01&g=2009-07-01) van toepassing. Drijvende werktuigen met mechanische middelen tot voortbeweging moeten ook voldoen aan de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-07-01). Aandrijvingen die slechts een geringe verplaatsing mogelijk maken worden niet beschouwd als mechanische middelen tot voortbeweging.
+Voor drijvende werktuigen zijn voor wat betreft bouw en uitrusting de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&z=2009-07-01&g=2009-12-01), [7 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&z=2009-07-01&g=2009-12-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=16&z=2009-07-01&g=2009-12-01) van toepassing. Drijvende werktuigen met mechanische middelen tot voortbeweging moeten ook voldoen aan de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-12-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-12-01). Aandrijvingen die slechts een geringe verplaatsing mogelijk maken worden niet beschouwd als mechanische middelen tot voortbeweging.
 
 ##### Artikel 17.02. Afwijkingen
 
 1. De Commissie van Deskundigen kan toestaan dat van de volgende bepalingen wordt afgeweken.
 
-- a. [Artikel 3.03, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.03&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing;
+- a. [Artikel 3.03, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.03&z=2009-07-01&g=2009-12-01), is van overeenkomstige toepassing;
 
-- b. [Artikel 7.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.02&z=2009-07-01&g=2009-07-01) is van overeenkomstige toepassing;
+- b. [Artikel 7.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.02&z=2009-07-01&g=2009-12-01) is van overeenkomstige toepassing;
 
-- c. De ten hoogste toegelaten niveaus van de geluidsdruk als bedoeld in [artikel 12.02, vijfde lid, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=12&artikel=12.02&z=2009-07-01&g=2009-07-01), mogen worden overschreden wanneer de werkinrichtingen in bedrijf zijn en voor zover er dan niet aan boord wordt overnacht;
+- c. De ten hoogste toegelaten niveaus van de geluidsdruk als bedoeld in [artikel 12.02, vijfde lid, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=12&artikel=12.02&z=2009-07-01&g=2009-12-01), mogen worden overschreden wanneer de werkinrichtingen in bedrijf zijn en voor zover er dan niet aan boord wordt overnacht;
 
 - d. Van de overige bepalingen met betrekking tot bouw, inrichting en uitrusting, voor zover voor elk geval dezelfde veiligheid is aangetoond.
 
 2. De Commissie van Deskundigen kan afzien van de toepassing van de volgende bepalingen:
 
-- a. [Artikel 10.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-07-01), wanneer het drijvende werktuig veilig kan worden verankerd terwijl de werkinrichtingen in bedrijf zijn, bij voorbeeld door middel van werkankers of palen. Een drijvend werktuig met eigen mechanische middelen tot voortbeweging moet echter ten minste één anker hebben als bedoeld in [artikel 10.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-07-01), waarbij de coëfficiënt k = 45 en voor T de kleinste hoogte in de zijde moet worden aangenomen;
+- a. [Artikel 10.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-12-01), wanneer het drijvende werktuig veilig kan worden verankerd terwijl de werkinrichtingen in bedrijf zijn, bij voorbeeld door middel van werkankers of palen. Een drijvend werktuig met eigen mechanische middelen tot voortbeweging moet echter ten minste één anker hebben als bedoeld in [artikel 10.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-12-01), waarbij de coëfficiënt k = 45 en voor T de kleinste hoogte in de zijde moet worden aangenomen;
 
-- b. [Artikel 12.02, eerste lid, tweede gedeelte van de zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=12&artikel=12.02&z=2009-07-01&g=2009-07-01), wanneer de ruimten voldoende elektrisch kunnen worden verlicht.
+- b. [Artikel 12.02, eerste lid, tweede gedeelte van de zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=12&artikel=12.02&z=2009-07-01&g=2009-12-01), wanneer de ruimten voldoende elektrisch kunnen worden verlicht.
 
 3. Bovendien geldt:
 
-- a. in afwijking van [artikel 8.08, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-07-01): De lenspomp moet mechanisch worden aangedreven;
+- a. in afwijking van [artikel 8.08, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-12-01): De lenspomp moet mechanisch worden aangedreven;
 
-- b. in afwijking van [artikel 8.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.10&z=2009-07-01&g=2009-07-01): Bij stilliggende drijvende werktuigen mag het geluid wanneer de werkinrichtingen in bedrijf zijn op 25 m afstand zijdelings van de scheepshuid meer bedragen dan 65 dB(A);
+- b. in afwijking van [artikel 8.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.10&z=2009-07-01&g=2009-12-01): Bij stilliggende drijvende werktuigen mag het geluid wanneer de werkinrichtingen in bedrijf zijn op 25 m afstand zijdelings van de scheepshuid meer bedragen dan 65 dB(A);
 
-- c. in afwijking van [artikel 10.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-07-01): Bij vrij op het dek staande werktuigen moet ten minste één extra draagbaar blustoestel aanwezig zijn;
+- c. in afwijking van [artikel 10.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-12-01): Bij vrij op het dek staande werktuigen moet ten minste één extra draagbaar blustoestel aanwezig zijn;
 
-- d. in afwijking van [artikel 14.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.02&z=2009-07-01&g=2009-07-01): Naast vloeibaargasinstallaties voor huishoudelijk gebruik mogen ook andere vloeibaargasinstallaties aanwezig zijn. Deze installaties met toebehoren moeten voldoen aan de voorschriften van één van de Oeverstaten of van België.
+- d. in afwijking van [artikel 14.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.02&z=2009-07-01&g=2009-12-01): Naast vloeibaargasinstallaties voor huishoudelijk gebruik mogen ook andere vloeibaargasinstallaties aanwezig zijn. Deze installaties met toebehoren moeten voldoen aan de voorschriften van één van de Oeverstaten of van België.
 
 ##### Artikel 17.03. Overige bepalingen
 
@@ -3937,29 +3937,29 @@ Voor drijvende werktuigen zijn voor wat betreft bouw en uitrusting de [hoofdstuk
 
 4. Indien lasten met heftoestellen omhoog worden gebracht, dient de uit stabiliteit en sterkte resulterende maximaal toelaatbare last duidelijk te worden aangegeven op een bord aan dek en op de bedieningspunten. Indien het hefvermogen door het aankoppelen van extra drijvende voorwerpen kan woren vergroot, moeten de waarden met en zonder extra drijvende voorwerpen zijn vermeld.
 
-5. Bij drijvende werktuigen die zijn toegelaten om te worden gebruikt aan de kust of op zee wordt het certificaat van onderzoek volgens [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2009-07-01&g=2009-07-01), indien zij dat niet hebben, vervangen door een certificaat volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=G&z=2009-07-01&g=2009-07-01). Daarbij dient te zijn voldaan aan [hoofdstuk 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=20&z=2009-07-01&g=2009-07-01) met inachtneming van [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&z=2009-07-01&g=2009-07-01).
+5. Bij drijvende werktuigen die zijn toegelaten om te worden gebruikt aan de kust of op zee wordt het certificaat van onderzoek volgens [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2009-07-01&g=2009-12-01), indien zij dat niet hebben, vervangen door een certificaat volgens [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=G&z=2009-07-01&g=2009-12-01). Daarbij dient te zijn voldaan aan [hoofdstuk 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=20&z=2009-07-01&g=2009-12-01) met inachtneming van [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&z=2009-07-01&g=2009-12-01).
 
 ##### Artikel 17.04. Resterende veiligheidsafstand
 
-1. Voor de toepassing van dit hoofdstuk en in afwijking van [artikel 1.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.01&z=2009-07-01&g=2009-07-01) is de resterende veiligheidsafstand de kleinste verticale afstand tussen de gladde waterspiegel en het laagste punt waarboven het drijvend werktuig niet meer waterdicht is, waarbij rekening wordt gehouden met trim en slagzij die optreden onder invloed van de momenten als bedoeld in [artikel 17.07, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.07&z=2009-07-01&g=2009-07-01).
+1. Voor de toepassing van dit hoofdstuk en in afwijking van [artikel 1.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.01&z=2009-07-01&g=2009-12-01) is de resterende veiligheidsafstand de kleinste verticale afstand tussen de gladde waterspiegel en het laagste punt waarboven het drijvend werktuig niet meer waterdicht is, waarbij rekening wordt gehouden met trim en slagzij die optreden onder invloed van de momenten als bedoeld in [artikel 17.07, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.07&z=2009-07-01&g=2009-12-01).
 
-2. Een resterende veiligheidsafstand bij spatwater- en regendicht afsluitbare openingen is voldoende in de zin van [artikel 17.07, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.07&z=2009-07-01&g=2009-07-01), wanneer deze 300 mm bedraagt.
+2. Een resterende veiligheidsafstand bij spatwater- en regendicht afsluitbare openingen is voldoende in de zin van [artikel 17.07, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.07&z=2009-07-01&g=2009-12-01), wanneer deze 300 mm bedraagt.
 
 3. De resterende veiligheidsafstand bij niet spatwater- en regendicht afsluitbare openingen moet tenminste 400 mm bedragen.
 
 ##### Artikel 17.05. Resterend vrijboord
 
-1. Voor de toepassing van dit hoofdstuk en in afwijking van resterende vrijboord is de kleinste verticale afstand tussen de gladde waterspiegel en de zijkant van het dek, waarbij rekening wordt gehouden met trim en slagzij, die optreden onder invloed van de momenten als bedoeld in [artikel 17.07, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.07&z=2009-07-01&g=2009-07-01).
+1. Voor de toepassing van dit hoofdstuk en in afwijking van resterende vrijboord is de kleinste verticale afstand tussen de gladde waterspiegel en de zijkant van het dek, waarbij rekening wordt gehouden met trim en slagzij, die optreden onder invloed van de momenten als bedoeld in [artikel 17.07, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.07&z=2009-07-01&g=2009-12-01).
 
-2. Het resterend vrijboord als bedoeld in [artikel 17.07, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.07&z=2009-07-01&g=2009-07-01), is voldoende indien het 300 mm bedraagt.
+2. Het resterend vrijboord als bedoeld in [artikel 17.07, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.07&z=2009-07-01&g=2009-12-01), is voldoende indien het 300 mm bedraagt.
 
-3. Het resterend vrijboord mag worden verminderd wanneer wordt aangetoond dat [artikel 17.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.08&z=2009-07-01&g=2009-07-01) in acht is genomen.
+3. Het resterend vrijboord mag worden verminderd wanneer wordt aangetoond dat [artikel 17.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.08&z=2009-07-01&g=2009-12-01) in acht is genomen.
 
 4. Indien de vorm van het drijvend voorwerp in belangrijke mate afwijkt van de vorm van een ponton, zoals bij cylindrische drijvende voorwerpen of bij een drijvend voorwerp waarvan de dwarsdoorsnede meer bedraagt dan vier zijden, kan de Commissie van Deskundigen een resterend vrijboord eisen of toelaten dat afwijkt van het tweede lid. Dit geldt ook voor een drijvend werktuig met verscheidene drijvende voorwerpen.
 
 ##### Artikel 17.06. Hellingproef
 
-1. Het bewijs van stabiliteit als bedoeld in de [artikelen 17.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.07&z=2009-07-01&g=2009-07-01) en [17.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.08&z=2009-07-01&g=2009-07-01) moet worden geleverd op basis van een volgens goed scheepsbouwgebruik uitgevoerde hellingproef.
+1. Het bewijs van stabiliteit als bedoeld in de [artikelen 17.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.07&z=2009-07-01&g=2009-12-01) en [17.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.08&z=2009-07-01&g=2009-12-01) moet worden geleverd op basis van een volgens goed scheepsbouwgebruik uitgevoerde hellingproef.
 
 2. Indien bij de hellingproef geen voldoende hellingshoek kan worden bereikt, of indien de uitvoering van de hellingproef onoverkomelijke technische problemen met zich meebrengt, kan in plaats daarvan een berekening van het gewicht en het zwaartepunt worden gemaakt. Het resultaat van de berekening van het gewicht moet worden gecontroleerd met behulp van metingen van de diepgang, waarbij het verschil niet meer dan ± 5% mag bedragen.
 
@@ -3973,7 +3973,7 @@ Voor drijvende werktuigen zijn voor wat betreft bouw en uitrusting de [hoofdstuk
 
 - b. hydrostatische gegevens of krommen;
 
-- c. krommen van de armen van statische stabiliteit, voor zover vereist ingevolge het vijfde lid of [artikel 17.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.08&z=2009-07-01&g=2009-07-01);
+- c. krommen van de armen van statische stabiliteit, voor zover vereist ingevolge het vijfde lid of [artikel 17.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.08&z=2009-07-01&g=2009-12-01);
 
 - d. beschrijving van de bedrijfstoestanden met de dienovereenkomstige gegevens inzake gewicht en zwaartepunt met inbegrip van de onbeladen toestand en de toestand van het werktuig bij verplaatsing;
 
@@ -4037,7 +4037,7 @@ A het zijdelings oppervlak boven het vlak van de grootste inzinking in m2;
 
 IW de afstand van het zwaartepunt van het zijdelings oppervlak A tot het vlak van de grootste inzinking in m.
 
-4.3. Voor de vaststelling van de momenten bij de draaibeweging als bedoeld in lid 4.1, onder d, dient bij drijvende werktuigen met mechanische middelen tot voortbeweging de formule van [artikel 15.03, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-07-01), te worden gebruikt.
+4.3. Voor de vaststelling van de momenten bij de draaibeweging als bedoeld in lid 4.1, onder d, dient bij drijvende werktuigen met mechanische middelen tot voortbeweging de formule van [artikel 15.03, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.03&z=2009-07-01&g=2009-12-01), te worden gebruikt.
 
 4.4. Het door dwarsstroming als bedoeld in lid 4.1, onder e, veroorzaakte moment hoeft alleen te worden meegerekend bij drijvende werktuigen die gedurende het werk in stromend water dwarsliggend met ankers of kabels zijn vastgemaakt.
 
@@ -4059,7 +4059,7 @@ Wanneer de bijzondere vorm van het drijvend voorwerp of de drijvende voorwerpen 
 
 ##### Artikel 17.08. Bewijzen van stabiliteit bij verminderd resterend vrijboord
 
-1. Indien gebruik wordt gemaakt van een verminderd resterend vrijboord als bedoeld in [artikel 17.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.04&z=2009-07-01&g=2009-07-01), moet voor alle bedrijfsomstandigheden zijn aangetoond dat
+1. Indien gebruik wordt gemaakt van een verminderd resterend vrijboord als bedoeld in [artikel 17.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.04&z=2009-07-01&g=2009-12-01), moet voor alle bedrijfsomstandigheden zijn aangetoond dat
 
 - a. na correctie voor vrije vloeistofoppervlakken de metacentrumhoogte niet minder dan 0,15 m bedraagt;
 
@@ -4067,7 +4067,7 @@ Wanneer de bijzondere vorm van het drijvend voorwerp of de drijvende voorwerpen 
 
 - c. de som van de hoeken resulterend uit slagzij en trim niet meer dan 10° bedraagt;
 
-- d. een resterende veiligheidsafstand als bedoeld in [artikel 17.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.04&z=2009-07-01&g=2009-07-01) aanwezig is;
+- d. een resterende veiligheidsafstand als bedoeld in [artikel 17.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.04&z=2009-07-01&g=2009-12-01) aanwezig is;
 
 - e. een resterend vrijboord van ten minste 0,05 m aanwezig is;
 
@@ -4075,7 +4075,7 @@ Wanneer de bijzondere vorm van het drijvend voorwerp of de drijvende voorwerpen 
 
 ##### Artikel 17.09. Inzinkingsmerken en diepgangsschalen
 
-Inzinkingsmerken als bedoeld in [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.04&z=2009-07-01&g=2009-07-01) en diepgangsschalen als bedoeld in [artikel 4.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.06&z=2009-07-01&g=2009-07-01) moeten zijn aangebracht.
+Inzinkingsmerken als bedoeld in [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.04&z=2009-07-01&g=2009-12-01) en diepgangsschalen als bedoeld in [artikel 4.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.06&z=2009-07-01&g=2009-12-01) moeten zijn aangebracht.
 
 ##### Artikel 17.10. Drijvende werktuigen zonder bewijs van stabiliteit
 
@@ -4083,7 +4083,7 @@ Inzinkingsmerken als bedoeld in [artikel 4.04](https://wetten.overheid.nl/jci1.3
 
 - a. door de werkinrichting waarvan geen enkele wijziging van de slagzij of de trim kan worden veroorzaakt, en
 
-- b. waarbij een verschuiving van het gewichtszwaartepunt verregaand kan worden uitgesloten, kan worden afgezien van toepassing van de [artikelen 17.04 tot en met 17.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.04&z=2009-07-01&g=2009-07-01).
+- b. waarbij een verschuiving van het gewichtszwaartepunt verregaand kan worden uitgesloten, kan worden afgezien van toepassing van de [artikelen 17.04 tot en met 17.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=17&artikel=17.04&z=2009-07-01&g=2009-12-01).
 
 2. Echter moet
 
@@ -4095,37 +4095,37 @@ Inzinkingsmerken als bedoeld in [artikel 4.04](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 18.01. Voorwaarden voor gebruik
 
-Schepen bestemd voor bouwwerkzaamheden, die als zodanig in het certificaat van onderzoek overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2009-07-01&g=2009-07-01) zijn aangeduid, mogen buiten werkterreinen slechts onbeladen varen. Deze voorwaarde dient in het certificaat van onderzoek te worden vermeld.
+Schepen bestemd voor bouwwerkzaamheden, die als zodanig in het certificaat van onderzoek overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2009-07-01&g=2009-12-01) zijn aangeduid, mogen buiten werkterreinen slechts onbeladen varen. Deze voorwaarde dient in het certificaat van onderzoek te worden vermeld.
 
 Hiertoe moeten deze schepen bestemd voor bouwwerkzaamheden beschikken over een verklaring van de bevoegde autoriteit over de duur van de werkzaamheden en de begrenzing van het werkterrein waarop het schip mag worden gebruikt.
 
-##### Artikel 18.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-07-01)
+##### Artikel 18.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-12-01)
 
-Voor zover in dit hoofdstuk niets anders is bepaald, zijn met betrekking tot de bouw en de uitrusting van schepen bestemd voor bouwwerkzaamheden de [hoofdstukken 3 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&z=2009-07-01&g=2009-07-01) van toepassing.
+Voor zover in dit hoofdstuk niets anders is bepaald, zijn met betrekking tot de bouw en de uitrusting van schepen bestemd voor bouwwerkzaamheden de [hoofdstukken 3 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&z=2009-07-01&g=2009-12-01) van toepassing.
 
 ##### Artikel 18.03. Afwijkingen
 
-- a. [Artikel 3.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.03&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing;
+- a. [Artikel 3.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.03&z=2009-07-01&g=2009-12-01), is van overeenkomstige toepassing;
 
-- b. De [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-07-01) zijn van overeenkomstige toepassing, indien het schip is voorzien van eigen mechanische middelen tot voortbeweging;
+- b. De [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-12-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-12-01) zijn van overeenkomstige toepassing, indien het schip is voorzien van eigen mechanische middelen tot voortbeweging;
 
-- c. [Artikel 10.02, tweede lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing;
+- c. [Artikel 10.02, tweede lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-12-01), is van overeenkomstige toepassing;
 
 - d. De Commissie van Deskundigen kan van de toepassing van de overige bepalingen met betrekking tot de bouw, inrichting en uitrusting uitzonderingen toelaten, voor zover in het betreffende geval een zelfde mate van veiligheid is aangetoond.
 
 2. De Commissie van Deskundigen kan afzien van de toepassing van de volgende bepalingen:
 
-- a. [Artikel 8.08, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-07-01), wanneer geen bemanning is voorgeschreven;
+- a. [Artikel 8.08, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-12-01), wanneer geen bemanning is voorgeschreven;
 
-- b. [Artikel 10.01, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-07-01), wanneer het schip bestemd voor bouwwerkzaamheden door middel van werkankers of palen veilig kan worden verankerd. Een schip bestemd voor bouwwerkzaamheden met eigen mechanische middelen tot voortbeweging moet echter ten minste één anker hebben als bedoeld in [artikel 10.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-07-01), waarbij de coëfficiënt k = 45 en voor T de kleinste hoogte aan de zijde wordt aangenomen;
+- b. [Artikel 10.01, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-12-01), wanneer het schip bestemd voor bouwwerkzaamheden door middel van werkankers of palen veilig kan worden verankerd. Een schip bestemd voor bouwwerkzaamheden met eigen mechanische middelen tot voortbeweging moet echter ten minste één anker hebben als bedoeld in [artikel 10.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-12-01), waarbij de coëfficiënt k = 45 en voor T de kleinste hoogte aan de zijde wordt aangenomen;
 
-- c. [Artikel 10.02, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-07-01), wanneer het schip bestemd voor bouwwerkzaamheden niet over eigen mechanische middelen tot voortbeweging beschikt.
+- c. [Artikel 10.02, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-12-01), wanneer het schip bestemd voor bouwwerkzaamheden niet over eigen mechanische middelen tot voortbeweging beschikt.
 
 ##### Artikel 18.04. Veiligheidsafstand en vrijboord
 
 1. Indien een schip bestemd voor bouwwerkzaamheden als spoel- en klepbak wordt geëxploiteerd moet de veiligheidsafstand buiten het laadruim ten minste 300 mm en het vrijboord ten minste 150 mm bedragen. De Commissie van Deskundigen kan een kleiner vrijboord toestaan, wanneer rekenkundig is bewezen dat de stabiliteit bij belading met een dichtheid van 1,5 t/m3 voldoende is en er geen zijde van het dek in het water komt. De invloed van vloeibaar gemaakte lading moet daarbij in aanmerking worden genomen.
 
-2. Voor een schip bestemd voor bouwwerkzaamheden dat niet onder het eerste lid valt zijn de [artikelen 4.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.01&z=2009-07-01&g=2009-07-01) en [4.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.02&z=2009-07-01&g=2009-07-01) van overeenkomstige toepassing. Daarbij kan de Commissie van Deskundigen voor de veiligheidsafstand en voor het vrijboord afwijkende waarden vaststellen.
+2. Voor een schip bestemd voor bouwwerkzaamheden dat niet onder het eerste lid valt zijn de [artikelen 4.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.01&z=2009-07-01&g=2009-12-01) en [4.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.02&z=2009-07-01&g=2009-12-01) van overeenkomstige toepassing. Daarbij kan de Commissie van Deskundigen voor de veiligheidsafstand en voor het vrijboord afwijkende waarden vaststellen.
 
 ##### Artikel 18.05. Bijboten
 
@@ -4141,19 +4141,19 @@ Deze vrijstelling dient in het certificaat van onderzoek te worden vermeld.
 
 ##### Artikel 19.01. Algemene bepaling
 
-Op kanaalspitsen, die de Rijn slechts tussen Basel (Mittlere Rheinbrücke) en de sluizen te Iffezheim met inbegrip van de meest benedenstrooms gelegen voorhaven bevaren, zijn voor wat betreft bouw en uitrusting de [artikelen 19.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=19&artikel=19.02&z=2009-07-01&g=2009-07-01) en [19.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=19&artikel=19.03&z=2009-07-01&g=2009-07-01) van toepassing.
+Op kanaalspitsen, die de Rijn slechts tussen Basel (Mittlere Rheinbrücke) en de sluizen te Iffezheim met inbegrip van de meest benedenstrooms gelegen voorhaven bevaren, zijn voor wat betreft bouw en uitrusting de [artikelen 19.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=19&artikel=19.02&z=2009-07-01&g=2009-12-01) en [19.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=19&artikel=19.03&z=2009-07-01&g=2009-12-01) van toepassing.
 
-##### Artikel 19.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-07-01)
+##### Artikel 19.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-12-01)
 
 Op kanaalspitsen zijn van toepassing:
 
-- 1. de [artikelen 3.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.01&z=2009-07-01&g=2009-07-01), [3.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.02&z=2009-07-01&g=2009-07-01), [3.03, tweede tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.03&z=2009-07-01&g=2009-07-01);
+- 1. de [artikelen 3.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.01&z=2009-07-01&g=2009-12-01), [3.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.02&z=2009-07-01&g=2009-12-01), [3.03, tweede tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.03&z=2009-07-01&g=2009-12-01);
 
-- 2. de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-07-01); In afwijking van [artikel 6.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.01&z=2009-07-01&g=2009-07-01), moet een kanaalspits voorzien zijn van een deugdelijke stuurinrichting, die voldoende vaar- en manoeuvreereigenschappen mogelijk maakt;
+- 2. de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-12-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-12-01); In afwijking van [artikel 6.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.01&z=2009-07-01&g=2009-12-01), moet een kanaalspits voorzien zijn van een deugdelijke stuurinrichting, die voldoende vaar- en manoeuvreereigenschappen mogelijk maakt;
 
-- 3. [artikel 8.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.01&z=2009-07-01&g=2009-07-01);
+- 3. [artikel 8.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.01&z=2009-07-01&g=2009-12-01);
 
-- 4. [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.01&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing;
+- 4. [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.01&z=2009-07-01&g=2009-12-01), is van overeenkomstige toepassing;
 
 - 5. Kanaalspitsen moeten op het voorschip met een anker met een massa van ten minste 250 kg zijn uitgerust, dat is voorzien van een ketting van ten minste 50 m lengte, waarvan de minimum breeksterkte in kN een derde van de werkelijke ankermassa in kg bedraagt. De ketting mag door een kabel van gelijke minimum breeksterkte worden vervangen. De volgende uitrustingsstukken moeten aan boord zijn:
 
@@ -4201,13 +4201,13 @@ Op kanaalspitsen zijn van toepassing:
 
 - q. twee reddingsboeien en twee zwemvesten;
 
-- 6. [artikel 13.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=13&artikel=13.01&z=2009-07-01&g=2009-07-01);
+- 6. [artikel 13.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=13&artikel=13.01&z=2009-07-01&g=2009-12-01);
 
-- 7. [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&z=2009-07-01&g=2009-07-01).
+- 7. [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&z=2009-07-01&g=2009-12-01).
 
-##### Artikel 19.03. Toepasselijkheid van [Deel III](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&z=2009-07-01&g=2009-07-01)
+##### Artikel 19.03. Toepasselijkheid van [Deel III](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&z=2009-07-01&g=2009-12-01)
 
-[Hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-07-01) is niet van toepassing. De bemanning moet ten minste bestaan uit:
+[Hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-12-01) is niet van toepassing. De bemanning moet ten minste bestaan uit:
 
 - a. een schipper die houder is van het kanaalspitsenpatent als bedoeld in het [Patentreglement Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0026045);
 
@@ -4215,7 +4215,7 @@ Op kanaalspitsen zijn van toepassing:
 
 ### Hoofdstuk 20. Bijzondere bepalingen voor zeeschepen
 
-##### Artikel 20.01. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-07-01)
+##### Artikel 20.01. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-12-01)
 
 1. Zeeschepen, waarop het op 1 november 1974 te Londen tot stand gekomen Internationaal verdrag voor de beveiliging van mensenlevens op zee, 1974, met Bijlagen (Trb. 1977, 77) (SOLAS-verdrag), danwel het op 5 april 1966 te Londen tot stand gekomen Internationaal verdrag betreffende de uitwatering van schepen, 1966, (Trb. 1966, 275) van toepassing is, moeten in het bezit zijn van het betreffende geldige internationale document.
 
@@ -4227,27 +4227,27 @@ Op kanaalspitsen zijn van toepassing:
 
 5. Voorts gelden:
 
-- a. [Hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-07-01);
+- a. [Hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-12-01);
 
-- b. Van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-07-01): de [artikelen 6.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.01&z=2009-07-01&g=2009-07-01), en [6.02, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.02&z=2009-07-01&g=2009-07-01);
+- b. Van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-12-01): de [artikelen 6.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.01&z=2009-07-01&g=2009-12-01), en [6.02, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.02&z=2009-07-01&g=2009-12-01);
 
-- c. Van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&z=2009-07-01&g=2009-07-01): de [artikelen 7.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.01&z=2009-07-01&g=2009-07-01), [7.02, eerste lid, en derde lid, eerste en derde alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.02&z=2009-07-01&g=2009-07-01), [7.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.05&z=2009-07-01&g=2009-07-01), en [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.13&z=2009-07-01&g=2009-07-01) voor schepen die voor het voeren van het schip door één persoon met behulp van radar zijn toegelaten;
+- c. Van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&z=2009-07-01&g=2009-12-01): de [artikelen 7.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.01&z=2009-07-01&g=2009-12-01), [7.02, eerste lid, en derde lid, eerste en derde alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.02&z=2009-07-01&g=2009-12-01), [7.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.05&z=2009-07-01&g=2009-12-01), en [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.13&z=2009-07-01&g=2009-12-01) voor schepen die voor het voeren van het schip door één persoon met behulp van radar zijn toegelaten;
 
-- d. Van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&z=2009-07-01&g=2009-07-01): [artikel 8.03, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.03&z=2009-07-01&g=2009-07-01), indien vanuit het stuurhuis een inrichting om de motor automatisch te stoppen kan worden uitgeschakeld, en de [artikelen 8.05, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.05&z=2009-07-01&g=2009-07-01), [8.08, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-07-01), [8.09, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.09&z=2009-07-01&g=2009-07-01), en [8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.10&z=2009-07-01&g=2009-07-01). Een verzegeling van de afsluitorganen overeenkomstig [artikel 8.06, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.06&z=2009-07-01&g=2009-07-01), wordt geacht overeen te komen met het afsluiten van de afsluitorganen in het lenssysteem, via welke het oliehoudende water overboord kan worden gepompt. De sleutel of sleutels daarvan moeten op een centrale als zodanig gekenmerkte plaats worden bewaard. Een bewakings- en controlesysteem voor olielozingen, overeenkomstig voorschrift 16 van het MARPOL-verdrag 73/78, wordt geacht overeen te komen met het verzegelen van het afsluitorgaan overeenkomstig [artikel 8.08, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-07-01). De aanwezigheid van een bewakings- en controlesysteem moet door een internationaal document inzake de voorkoming van verontreiniging van de zee overeenkomstig het MARPOL-verdrag 73/78 worden aangetoond. Blijkt uit het IOPP document, bedoeld in het derde lid, of uit het nationale door de vlaggenstaat afgegeven document, bedoeld in het vierde lid, dat het schip voorzien is van opslagtanks waarin al het aan boord aanwezige oliehoudende bilgewater en alle olieresten kunnen worden verzameld, dan wordt geacht dat aan [artikel 8.09, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.09&z=2009-07-01&g=2009-07-01), is voldaan;
+- d. Van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&z=2009-07-01&g=2009-12-01): [artikel 8.03, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.03&z=2009-07-01&g=2009-12-01), indien vanuit het stuurhuis een inrichting om de motor automatisch te stoppen kan worden uitgeschakeld, en de [artikelen 8.05, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.05&z=2009-07-01&g=2009-12-01), [8.08, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-12-01), [8.09, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.09&z=2009-07-01&g=2009-12-01), en [8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.10&z=2009-07-01&g=2009-12-01). Een verzegeling van de afsluitorganen overeenkomstig [artikel 8.06, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.06&z=2009-07-01&g=2009-12-01), wordt geacht overeen te komen met het afsluiten van de afsluitorganen in het lenssysteem, via welke het oliehoudende water overboord kan worden gepompt. De sleutel of sleutels daarvan moeten op een centrale als zodanig gekenmerkte plaats worden bewaard. Een bewakings- en controlesysteem voor olielozingen, overeenkomstig voorschrift 16 van het MARPOL-verdrag 73/78, wordt geacht overeen te komen met het verzegelen van het afsluitorgaan overeenkomstig [artikel 8.08, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-12-01). De aanwezigheid van een bewakings- en controlesysteem moet door een internationaal document inzake de voorkoming van verontreiniging van de zee overeenkomstig het MARPOL-verdrag 73/78 worden aangetoond. Blijkt uit het IOPP document, bedoeld in het derde lid, of uit het nationale door de vlaggenstaat afgegeven document, bedoeld in het vierde lid, dat het schip voorzien is van opslagtanks waarin al het aan boord aanwezige oliehoudende bilgewater en alle olieresten kunnen worden verzameld, dan wordt geacht dat aan [artikel 8.09, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.09&z=2009-07-01&g=2009-12-01), is voldaan;
 
-- e. Van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&z=2009-07-01&g=2009-07-01): [artikel 9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.17&z=2009-07-01&g=2009-07-01);
+- e. Van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&z=2009-07-01&g=2009-12-01): [artikel 9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.17&z=2009-07-01&g=2009-12-01);
 
-- f. Van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&z=2009-07-01&g=2009-07-01): de [artikelen 10.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-07-01) en [10.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-07-01);
+- f. Van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&z=2009-07-01&g=2009-12-01): de [artikelen 10.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-12-01) en [10.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-12-01);
 
-- g. [Hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=16&z=2009-07-01&g=2009-07-01): voor zeeschepen die zijn toegelaten om deel uit te maken van een samenstel;
+- g. [Hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=16&z=2009-07-01&g=2009-12-01): voor zeeschepen die zijn toegelaten om deel uit te maken van een samenstel;
 
-- h. [Hoofdstuk 22](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=22&z=2009-07-01&g=2009-07-01): Aan [hoofdstuk 22](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=22&z=2009-07-01&g=2009-07-01) is voldaan indien de stabiliteit voldoet aan de van kracht zijnde resoluties van de Internationale Maritieme Organisatie (IMO) en de betreffende stabiliteitsberekeningen door de bevoegde autoriteit gekeurd zijn en de containers op een voor de zeevaart gebruikelijke wijze zijn vastgezet.
+- h. [Hoofdstuk 22](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=22&z=2009-07-01&g=2009-12-01): Aan [hoofdstuk 22](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=22&z=2009-07-01&g=2009-12-01) is voldaan indien de stabiliteit voldoet aan de van kracht zijnde resoluties van de Internationale Maritieme Organisatie (IMO) en de betreffende stabiliteitsberekeningen door de bevoegde autoriteit gekeurd zijn en de containers op een voor de zeevaart gebruikelijke wijze zijn vastgezet.
 
 ##### Artikel 20.02. Minimum bemanning
 
-1. Voor het vaststellen van de minimum bemanning van zeeschepen is [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-07-01) van toepassing.
+1. Voor het vaststellen van de minimum bemanning van zeeschepen is [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-12-01) van toepassing.
 
-2. In afwijking van het eerste lid kan op zeeschepen de bemanningsregeling worden toegepast die overeenkomt met de bepalingen van IMO Resolutie A. 481 (XII) en van het Internationaal verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978, onder de voorwaarde dat het aantal bemanningsleden ten minste overeenkomt met de minimum bemanning volgens exploitatiewijze B, waarbij met name rekening dient te worden gehouden met de [artikelen 23.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-07-01) en [23.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.13&z=2009-07-01&g=2009-07-01).
+2. In afwijking van het eerste lid kan op zeeschepen de bemanningsregeling worden toegepast die overeenkomt met de bepalingen van IMO Resolutie A. 481 (XII) en van het Internationaal verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978, onder de voorwaarde dat het aantal bemanningsleden ten minste overeenkomt met de minimum bemanning volgens exploitatiewijze B, waarbij met name rekening dient te worden gehouden met de [artikelen 23.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-12-01) en [23.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.13&z=2009-07-01&g=2009-12-01).
 
 In dit geval moeten de betreffende documenten, waaruit de bekwaamheid van de bemanningsleden en hun aantal blijken, aan boord aanwezig zijn. Bovendien moet zich een persoon aan boord bevinden die houder is van het grote patent bedoeld in het [Patentreglement Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0026045) dat geldig is voor het te bevaren riviergedeelte. Na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren moet deze patenthouder vervangen worden door een andere houder van dat Rijnpatent.
 
@@ -4265,55 +4265,55 @@ In het logboek moeten de volgende aantekeningen worden gemaakt:
 
 ##### Artikel 21.01. Algemene bepaling
 
-Op pleziervaartuigen zijn voor wat betreft bouw, uitrusting en bemanning slechts de [artikelen 21.02 tot en met 21.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=21&artikel=21.02&z=2009-07-01&g=2009-07-01) van toepassing.
+Op pleziervaartuigen zijn voor wat betreft bouw, uitrusting en bemanning slechts de [artikelen 21.02 tot en met 21.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=21&artikel=21.02&z=2009-07-01&g=2009-12-01) van toepassing.
 
-##### Artikel 21.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-07-01)
+##### Artikel 21.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2009-07-01&g=2009-12-01)
 
 1. Op pleziervaartuigen zijn van toepassing:
 
-- a. van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&z=2009-07-01&g=2009-07-01): de [artikelen 3.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.01&z=2009-07-01&g=2009-07-01), [3.02, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.02&z=2009-07-01&g=2009-07-01), [3.03, eerste lid, onderdeel a, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.03&z=2009-07-01&g=2009-07-01), en [3.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.04&z=2009-07-01&g=2009-07-01);
+- a. van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&z=2009-07-01&g=2009-12-01): de [artikelen 3.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.01&z=2009-07-01&g=2009-12-01), [3.02, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.02&z=2009-07-01&g=2009-12-01), [3.03, eerste lid, onderdeel a, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.03&z=2009-07-01&g=2009-12-01), en [3.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=3&artikel=3.04&z=2009-07-01&g=2009-12-01);
 
-- b. [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-07-01);
+- b. [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=5&z=2009-07-01&g=2009-12-01);
 
-- c. van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-07-01): de [artikelen 6.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.01&z=2009-07-01&g=2009-07-01), en [6.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.08&z=2009-07-01&g=2009-07-01);
+- c. van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-12-01): de [artikelen 6.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.01&z=2009-07-01&g=2009-12-01), en [6.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.08&z=2009-07-01&g=2009-12-01);
 
-- d. van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&z=2009-07-01&g=2009-07-01): de [artikelen 7.01, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.01&z=2009-07-01&g=2009-07-01), [7.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.02&z=2009-07-01&g=2009-07-01), [7.03, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.03&z=2009-07-01&g=2009-07-01), [7.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.04&z=2009-07-01&g=2009-07-01), en [7.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.05&z=2009-07-01&g=2009-07-01), en [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.13&z=2009-07-01&g=2009-07-01) voor pleziervaartuigen met een éénmansstuurstand voor het varen met behulp van radar;
+- d. van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&z=2009-07-01&g=2009-12-01): de [artikelen 7.01, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.01&z=2009-07-01&g=2009-12-01), [7.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.02&z=2009-07-01&g=2009-12-01), [7.03, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.03&z=2009-07-01&g=2009-12-01), [7.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.04&z=2009-07-01&g=2009-12-01), en [7.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.05&z=2009-07-01&g=2009-12-01), en [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.13&z=2009-07-01&g=2009-12-01) voor pleziervaartuigen met een éénmansstuurstand voor het varen met behulp van radar;
 
-- e. van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&z=2009-07-01&g=2009-07-01): de [artikelen 8.01, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.01&z=2009-07-01&g=2009-07-01), [8.02, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.02&z=2009-07-01&g=2009-07-01), [8.03, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.03&z=2009-07-01&g=2009-07-01), [8.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.04&z=2009-07-01&g=2009-07-01), [8.05, eerste tot en met tiende lid en dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.05&z=2009-07-01&g=2009-07-01), [8.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.06&z=2009-07-01&g=2009-07-01), [8.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.07&z=2009-07-01&g=2009-07-01), [8.08, eerste, tweede, vijfde, zevende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-07-01), [8.09, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.09&z=2009-07-01&g=2009-07-01), en [8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.10&z=2009-07-01&g=2009-07-01);
+- e. van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&z=2009-07-01&g=2009-12-01): de [artikelen 8.01, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.01&z=2009-07-01&g=2009-12-01), [8.02, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.02&z=2009-07-01&g=2009-12-01), [8.03, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.03&z=2009-07-01&g=2009-12-01), [8.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.04&z=2009-07-01&g=2009-12-01), [8.05, eerste tot en met tiende lid en dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.05&z=2009-07-01&g=2009-12-01), [8.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.06&z=2009-07-01&g=2009-12-01), [8.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.07&z=2009-07-01&g=2009-12-01), [8.08, eerste, tweede, vijfde, zevende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-12-01), [8.09, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.09&z=2009-07-01&g=2009-12-01), en [8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.10&z=2009-07-01&g=2009-12-01);
 
-- f. van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&z=2009-07-01&g=2009-07-01): [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.01&z=2009-07-01&g=2009-07-01), van overeenkomstige toepassing;
+- f. van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&z=2009-07-01&g=2009-12-01): [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&artikel=9.01&z=2009-07-01&g=2009-12-01), van overeenkomstige toepassing;
 
-- g. van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&z=2009-07-01&g=2009-07-01): de [artikelen 10.01, tweede, derde en vijfde tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-07-01), [10.02, eerste lid, onderdelen a, b en c, en tweede lid, onderdelen a en e tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-07-01), en [10.03, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-07-01); er moeten echter ten minste twee draagbare blustoestellen aan boord aanwezig zijn; en voorts de [artikelen 10.03, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-07-01), [10.03a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03a&z=2009-07-01&g=2009-07-01), [10.03b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03b&z=2009-07-01&g=2009-07-01), [10.03c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03c&z=2009-07-01&g=2009-07-01) en [10.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-07-01);
+- g. van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&z=2009-07-01&g=2009-12-01): de [artikelen 10.01, tweede, derde en vijfde tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-12-01), [10.02, eerste lid, onderdelen a, b en c, en tweede lid, onderdelen a en e tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-12-01), en [10.03, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-12-01); er moeten echter ten minste twee draagbare blustoestellen aan boord aanwezig zijn; en voorts de [artikelen 10.03, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-12-01), [10.03a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03a&z=2009-07-01&g=2009-12-01), [10.03b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03b&z=2009-07-01&g=2009-12-01), [10.03c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03c&z=2009-07-01&g=2009-12-01) en [10.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-12-01);
 
-- h. [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=13&z=2009-07-01&g=2009-07-01);
+- h. [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=13&z=2009-07-01&g=2009-12-01);
 
-- i. [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&z=2009-07-01&g=2009-07-01).
+- i. [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&z=2009-07-01&g=2009-12-01).
 
 2. In het geval van pleziervaartuigen, waarop [richtlijn nr. 94/25/EG](31994L0025) van het Europees Parlement en de Raad van de Europese Unie van 16 juni 1994 inzake de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de Lidstaten met betrekking tot pleziervaartuigen (PbEG L 164) van toepassing is, hebben het eerste onderzoek en het aanvullend onderzoek slechts betrekking op:
 
-- a. [artikel 6.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.08&z=2009-07-01&g=2009-07-01), in het geval dat een bochtaanwijzer aanwezig is;
+- a. [artikel 6.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.08&z=2009-07-01&g=2009-12-01), in het geval dat een bochtaanwijzer aanwezig is;
 
-- b. de [artikelen 7.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.01&z=2009-07-01&g=2009-07-01), [7.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.02&z=2009-07-01&g=2009-07-01), en [7.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.03&z=2009-07-01&g=2009-07-01), alsmede [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.13&z=2009-07-01&g=2009-07-01), in het geval dat er sprake is van een éénmansstuurstelling voor het varen op radar;
+- b. de [artikelen 7.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.01&z=2009-07-01&g=2009-12-01), [7.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.02&z=2009-07-01&g=2009-12-01), en [7.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.03&z=2009-07-01&g=2009-12-01), alsmede [artikel 7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.13&z=2009-07-01&g=2009-12-01), in het geval dat er sprake is van een éénmansstuurstelling voor het varen op radar;
 
-- c. de [artikelen 8.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.01&z=2009-07-01&g=2009-07-01), [8.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.02&z=2009-07-01&g=2009-07-01), [8.03, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.03&z=2009-07-01&g=2009-07-01), [8.05, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.05&z=2009-07-01&g=2009-07-01), [8.08, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-07-01), en [8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.10&z=2009-07-01&g=2009-07-01);
+- c. de [artikelen 8.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.01&z=2009-07-01&g=2009-12-01), [8.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.02&z=2009-07-01&g=2009-12-01), [8.03, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.03&z=2009-07-01&g=2009-12-01), [8.05, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.05&z=2009-07-01&g=2009-12-01), [8.08, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.08&z=2009-07-01&g=2009-12-01), en [8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8&artikel=8.10&z=2009-07-01&g=2009-12-01);
 
-- d. [artikel 10.01, tweede, derde, zesde en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-07-01), [artikel 10.02, eerste lid, onderdelen b en c, en tweede lid, onderdelen a en e tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-07-01), [artikel 10.03, eerste lid, onderdelen b en d, en tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-07-01), en [artikel 10.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-07-01);
+- d. [artikel 10.01, tweede, derde, zesde en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.01&z=2009-07-01&g=2009-12-01), [artikel 10.02, eerste lid, onderdelen b en c, en tweede lid, onderdelen a en e tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.02&z=2009-07-01&g=2009-12-01), [artikel 10.03, eerste lid, onderdelen b en d, en tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-12-01), en [artikel 10.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.05&z=2009-07-01&g=2009-12-01);
 
-- e. [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=13&z=2009-07-01&g=2009-07-01);
+- e. [hoofdstuk 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=13&z=2009-07-01&g=2009-12-01);
 
-- f. van [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&z=2009-07-01&g=2009-07-01):
+- f. van [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&z=2009-07-01&g=2009-12-01):
 
-- 1°. [artikel 14.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.12&z=2009-07-01&g=2009-07-01);
+- 1°. [artikel 14.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.12&z=2009-07-01&g=2009-12-01);
 
-- 2°. [artikel 14.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.13&z=2009-07-01&g=2009-07-01), waarbij de keuring na ingebruikneming van de vloeibaargasinstallatie overeenkomstig de eisen van de richtlijn geschiedt en aan de Commissie van Deskundigen hierover een verslag van de keuring moet worden uitgebracht;
+- 2°. [artikel 14.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.13&z=2009-07-01&g=2009-12-01), waarbij de keuring na ingebruikneming van de vloeibaargasinstallatie overeenkomstig de eisen van de richtlijn geschiedt en aan de Commissie van Deskundigen hierover een verslag van de keuring moet worden uitgebracht;
 
-- 3°. de [artikelen 14.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.14&z=2009-07-01&g=2009-07-01) en [14.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.15&z=2009-07-01&g=2009-07-01) met dien verstande, dat de vloeibaargasinstallatie aan de eisen van de richtlijn moet beantwoorden;
+- 3°. de [artikelen 14.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.14&z=2009-07-01&g=2009-12-01) en [14.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&artikel=14.15&z=2009-07-01&g=2009-12-01) met dien verstande, dat de vloeibaargasinstallatie aan de eisen van de richtlijn moet beantwoorden;
 
-- 4°. [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&z=2009-07-01&g=2009-07-01) in zijn geheel, indien de vloeibaargasinstallatie wordt ingebouwd nadat het pleziervaartuig in het verkeer is gebracht.
+- 4°. [hoofdstuk 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=14&z=2009-07-01&g=2009-12-01) in zijn geheel, indien de vloeibaargasinstallatie wordt ingebouwd nadat het pleziervaartuig in het verkeer is gebracht.
 
-##### Artikel 21.03. Toepasselijkheid van [Deel III](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&z=2009-07-01&g=2009-07-01)
+##### Artikel 21.03. Toepasselijkheid van [Deel III](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&z=2009-07-01&g=2009-12-01)
 
-[Hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-07-01) is niet van toepassing. De bemanning moet ten minste bestaan uit:
+[Hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-12-01) is niet van toepassing. De bemanning moet ten minste bestaan uit:
 
 - a. een schipper die houder is van het patent, vereist ingevolge het [Patentreglement Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0026045);
 
@@ -4387,7 +4387,7 @@ Indien geen carènediagram ter beschikking is, kan voor de berekening volgens he
 
 - b. Onder de gelijktijdige invloed van de middelpuntvliedende kracht bij het draaien van het schip, de winddruk en de vrije vloeistofoppervlakken mag geen opening van de scheepsromp onder water komen.
 
-- c. De armen van de momenten veroorzaakt door de middelpuntvliedende kracht bij het draaien van het schip, door de winddruk en de vrije vloeistofoppervlakken worden berekend volgens de formules van [artikel 22.02, eerste lid onder c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=22&artikel=22.02&z=2009-07-01&g=2009-07-01).
+- c. De armen van de momenten veroorzaakt door de middelpuntvliedende kracht bij het draaien van het schip, door de winddruk en de vrije vloeistofoppervlakken worden berekend volgens de formules van [artikel 22.02, eerste lid onder c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=22&artikel=22.02&z=2009-07-01&g=2009-12-01).
 
 - d. Voor elke beladingstoestand moet met de halve voorraad aan brandstof en drinkwater worden gerekend.
 
@@ -4437,7 +4437,7 @@ Indien geen carènediagram ter beschikking is, kan voor de berekening volgens he
 
 ##### Artikel 22.04. Methode voor de stabiliteitscontrole aan boord
 
-De methode voor de stabiliteitsbeoordeling kan aan de in [artikel 22.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=22&artikel=22.01&z=2009-07-01&g=2009-07-01), bedoelde bescheiden worden ontleend.
+De methode voor de stabiliteitsbeoordeling kan aan de in [artikel 22.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=22&artikel=22.01&z=2009-07-01&g=2009-12-01), bedoelde bescheiden worden ontleend.
 
 ### Hoofdstuk 22a. Bijzondere bepalingen voor vaartuigen met een lenge van meer dan 110 m
 
@@ -4707,7 +4707,7 @@ In afwijking hiervan kunnen de bevoegde autoriteiten van de Oeverstaten of Belgi
 
 Zwangere vrouwen en kraamvrouwen mogen geen deel uitmaken van de bemanning gedurende ten minste 14 weken, waarvan ten minste 6 weken voor en 7 weken na de bevalling.
 
-3. Voor de toepassing van de [artikelen 23.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.05&z=2009-07-01&g=2009-07-01), [23.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.06&z=2009-07-01&g=2009-07-01) en [23.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.08&z=2009-07-01&g=2009-07-01) dient tevens rekening te worden gehouden met vaar- en rusttijden vervuld buiten het toepassingsgebied van dit reglement.
+3. Voor de toepassing van de [artikelen 23.05](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.05&z=2009-07-01&g=2009-12-01), [23.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.06&z=2009-07-01&g=2009-12-01) en [23.08](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.08&z=2009-07-01&g=2009-12-01) dient tevens rekening te worden gehouden met vaar- en rusttijden vervuld buiten het toepassingsgebied van dit reglement.
 
 4. Als één jaar vaartijd gelden 180 effectieve vaardagen in de binnenvaart. Binnen een periode van 365 opeenvolgende dagen kunnen maximaal 180 dagen als vaartijd worden meegerekend. 250 Vaardagen in de zee- of kustvaart dan wel de visserij gelden als één jaar vaartijd.
 
@@ -4795,9 +4795,9 @@ De medische verklaring mag niet ouder zijn dan drie maanden.
 
 ##### Artikel 23.04. Bewijs van bekwaamheid – Dienstboekje
 
-1. Het dienstboekje bevat enerzijds gegevens van algemene aard, zoals de medische verklaringen en de bekwaamheid van de houder, bedoeld in [artikel 23.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.02&z=2009-07-01&g=2009-07-01), en anderzijds de specifieke gegevens betreffende de afgelegde reizen. De plaatselijk bevoegde autoriteit is verantwoordelijk voor het invullen van de gegevens van algemene aard alsmede voor de afstempeling ter controle. Zij kan daartoe het overleggen van vaartijdenboeken dan wel uittreksels daarvan of van andere relevante bescheiden verlangen. Zij mag slechts die reizen van een afstempeling voorzien die niet ouder zijn dan 15 maanden.
+1. Het dienstboekje bevat enerzijds gegevens van algemene aard, zoals de medische verklaringen en de bekwaamheid van de houder, bedoeld in [artikel 23.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.02&z=2009-07-01&g=2009-12-01), en anderzijds de specifieke gegevens betreffende de afgelegde reizen. De plaatselijk bevoegde autoriteit is verantwoordelijk voor het invullen van de gegevens van algemene aard alsmede voor de afstempeling ter controle. Zij kan daartoe het overleggen van vaartijdenboeken dan wel uittreksels daarvan of van andere relevante bescheiden verlangen. Zij mag slechts die reizen van een afstempeling voorzien die niet ouder zijn dan 15 maanden.
 
-2. Elk lid van de bemanning moet in het bezit zijn van een persoonlijk dienstboekje overeenkomstig het model van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=F&z=2009-07-01&g=2009-07-01) dan wel in het bezit zijn van een ander door de Centrale Commissie voor de Rijnvaart als gelijkwaardig erkend dienstboekje. Deze persoon wordt als houder van het dienstboekje aangemerkt.
+2. Elk lid van de bemanning moet in het bezit zijn van een persoonlijk dienstboekje overeenkomstig het model van [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=F&z=2009-07-01&g=2009-12-01) dan wel in het bezit zijn van een ander door de Centrale Commissie voor de Rijnvaart als gelijkwaardig erkend dienstboekje. Deze persoon wordt als houder van het dienstboekje aangemerkt.
 
 De houder moet het dienstboekje:
 
@@ -4809,7 +4809,7 @@ Stuurlieden die geen groot patent als bedoeld in het [Patentreglement Rijn](http
 
 3. De schipper is verantwoordelijk voor:
 
-- a). het regelmatig invullen in het dienstboekje van alle gegevens overeenkomstig de aanwijzingen en instructies voor het bijhouden vermeld in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=F&z=2009-07-01&g=2009-07-01);
+- a). het regelmatig invullen in het dienstboekje van alle gegevens overeenkomstig de aanwijzingen en instructies voor het bijhouden vermeld in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=F&z=2009-07-01&g=2009-12-01);
 
 - b). het veilig in het stuurhuis bewaren van het dienstboekje tot aan het eind van het dienstverband, arbeidscontract dan wel andere regeling;
 
@@ -4857,7 +4857,7 @@ Er mag van deze tijden worden afgeweken, indien het schip is uitgerust met een g
 
 ##### Artikel 23.07. Wisseling van exploitatiewijze
 
-1. In afwijking van [artikel 23.05, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.05&z=2009-07-01&g=2009-07-01), is een wisseling of herhaling van exploitatiewijze slechts mogelijk met inachtneming van het tweede tot met zesde lid.
+1. In afwijking van [artikel 23.05, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.05&z=2009-07-01&g=2009-12-01), is een wisseling of herhaling van exploitatiewijze slechts mogelijk met inachtneming van het tweede tot met zesde lid.
 
 2. Van exploitatiewijze A1 mag slechts dan naar exploitatiewijze A2 worden gewisseld, indien:
 
@@ -4885,11 +4885,11 @@ Er mag van deze tijden worden afgeweken, indien het schip is uitgerust met een g
 
 6. Een schip kan onmiddellijk in aansluiting op de exploitatiewijze A1 of A2 voor een verdere A1 of A2 worden ingezet, indien een voltallige uitwisseling van de bemanning heeft plaatsgevonden en de nieuwe bemanningsleden onmiddellijk voorafgaand aan de verdere exploitatiewijze A1 en A2 een ononderbroken rusttijd van 8, onderscheidenlijk 6 uren buiten de vaartijd in acht genomen en aangetoond hebben.
 
-7. Het bewijs van een rusttijd van 8, onderscheidenlijk 6 uren wordt aangetoond met een verklaring als bedoeld in [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=K&z=2009-07-01&g=2009-07-01) of door een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden.
+7. Het bewijs van een rusttijd van 8, onderscheidenlijk 6 uren wordt aangetoond met een verklaring als bedoeld in [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=K&z=2009-07-01&g=2009-12-01) of door een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden.
 
 ##### Artikel 23.08. Vaartijdenboek – Tachograaf
 
-1. Aan boord van elk schip, met uitzondering van sleep- en duwboten die slechts in havens verkeren, onbemande duwbakken, overheidsschepen en pleziervaartuigen, moet zich in de stuurhut een vaartijdenboek bevinden overeenkomstig het model van [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=E&z=2009-07-01&g=2009-07-01). Dit boek dient te worden bijgehouden overeenkomstig de daarin vervatte aanwijzingen. De schipper is verantwoordelijk voor de aanwezigheid van het vaartijdenboek en de aantekeningen die daarin moeten worden gemaakt. Het eerste vaartijdenboek, waarop het nummer 1, de naam van het schip en het officiële scheepsnummer dienen te staan, moet worden afgegeven door de autoriteit die het certificaat van onderzoek aan het schip heeft uitgereikt.
+1. Aan boord van elk schip, met uitzondering van sleep- en duwboten die slechts in havens verkeren, onbemande duwbakken, overheidsschepen en pleziervaartuigen, moet zich in de stuurhut een vaartijdenboek bevinden overeenkomstig het model van [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=E&z=2009-07-01&g=2009-12-01). Dit boek dient te worden bijgehouden overeenkomstig de daarin vervatte aanwijzingen. De schipper is verantwoordelijk voor de aanwezigheid van het vaartijdenboek en de aantekeningen die daarin moeten worden gemaakt. Het eerste vaartijdenboek, waarop het nummer 1, de naam van het schip en het officiële scheepsnummer dienen te staan, moet worden afgegeven door de autoriteit die het certificaat van onderzoek aan het schip heeft uitgereikt.
 
 Onderdeel 2 van de aanwijzingen voor het bijhouden van het vaartijdenboek, volgens welk per reis kan worden volstaan met één schema voor het aantekenen van de rusttijden, geldt slechts voor bemanningsleden in de exploitatiewijze B. In de exploitatiewijze A1 en in de exploitatiewijze A2 moeten het begin en het einde van de rusttijd van elk bemanningslid iedere dag gedurende de reis worden aangetekend.
 
@@ -4907,7 +4907,7 @@ De exploitant van het schip moet er bovendien voor zorgen, dat daarna het vaarti
 
 5. De registraties van de tachografen moeten gedurende zes maanden na de laatste registratie aan boord worden bewaard.
 
-6. Bij een aflossing of versterking van de bemanning als bedoeld in [artikel 23.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.07&z=2009-07-01&g=2009-07-01) moet voor ieder nieuw bemanningslid een verklaring als bedoeld in [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=K&z=2009-07-01&g=2009-07-01) of een kopie van de pagina met de aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden, voorhanden zijn.
+6. Bij een aflossing of versterking van de bemanning als bedoeld in [artikel 23.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.07&z=2009-07-01&g=2009-12-01) moet voor ieder nieuw bemanningslid een verklaring als bedoeld in [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=K&z=2009-07-01&g=2009-12-01) of een kopie van de pagina met de aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden, voorhanden zijn.
 
 ##### Artikel 23.09. Uitrusting van schepen
 
@@ -4939,7 +4939,7 @@ De exploitant van het schip moet er bovendien voor zorgen, dat daarna het vaarti
 
 - l). De voornaamste bedieningsinrichtingen en controle-instrumenten dienen ergonomisch te zijn aangebracht.
 
-- m). De krachtens [artikel 6.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.01&z=2009-07-01&g=2009-07-01), vereiste inrichtingen dienen vanaf de stuurstelling te kunnen worden bediend.
+- m). De krachtens [artikel 6.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&artikel=6.01&z=2009-07-01&g=2009-12-01), vereiste inrichtingen dienen vanaf de stuurstelling te kunnen worden bediend.
 
 - 1.2. Standaard S2
 
@@ -5153,7 +5153,7 @@ kan voor de ononderbroken duur van ten hoogste drie maanden in een kalenderjaar 
 | 3 | Toegestaan aantal bedden: meer dan 100 | lichtmatroos | – | 2 | 1 | – | 1 | – | 1 |
 | 3 | Toegestaan aantal bedden: meer dan 100 | machinist of matroos-motordrijver | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-4. Voor passagiersschepen, bedoeld in het eerste en het derde lid, die zonder passagiers aan boord varen, geldt de minimum-bemanning volgens [artikel 23.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.10&z=2009-07-01&g=2009-07-01).
+4. Voor passagiersschepen, bedoeld in het eerste en het derde lid, die zonder passagiers aan boord varen, geldt de minimum-bemanning volgens [artikel 23.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.10&z=2009-07-01&g=2009-12-01).
 
 5. De in het eerste en tweede lid voorgeschreven matrozen mogen door lichtmatrozen worden vervangen, die een minimum-leeftijd van 17 jaar hebben bereikt, zich ten minste in het derde leerjaar bevinden en een jaar vaartijd in de binnenvaart kunnen aantonen.
 
@@ -5169,17 +5169,17 @@ kan voor de ononderbroken duur van ten hoogste drie maanden in een kalenderjaar 
 
 8. De in het eerste lid voorgeschreven minimum-bemanning (hotelschepen) in de groep 3, exploitatiewijze A1, standaard S1, kan voor de ononderbroken duur van ten hoogste drie maanden in een kalenderjaar met een lichtmatroos, die een schippersschool bezoekt, worden verminderd. Opeenvolgende periodes met een verminderde bemanning moeten met een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven.
 
-##### Artikel 23.13. Afwijking van de in [artikel 23.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-07-01) voorgeschreven minimum uitrusting
+##### Artikel 23.13. Afwijking van de in [artikel 23.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-12-01) voorgeschreven minimum uitrusting
 
-1. Wanneer de uitrusting van een motorschip, een duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip niet voldoet aan de standaard S1, bedoeld in [artikel 23.09, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-07-01), dient de minimum-bemanning, bedoeld in de [artikelen 23.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.10&z=2009-07-01&g=2009-07-01), [23.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.11&z=2009-07-01&g=2009-07-01) of [23.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.12&z=2009-07-01&g=2009-07-01), te worden verhoogd
+1. Wanneer de uitrusting van een motorschip, een duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip niet voldoet aan de standaard S1, bedoeld in [artikel 23.09, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-12-01), dient de minimum-bemanning, bedoeld in de [artikelen 23.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.10&z=2009-07-01&g=2009-12-01), [23.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.11&z=2009-07-01&g=2009-12-01) of [23.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.12&z=2009-07-01&g=2009-12-01), te worden verhoogd
 
 - a). in de exploitatiewijze A1 en A2 telkens met een matroos, en
 
 - b). in de exploitatiewijze B telkens met twee matrozen.
 
-Wordt alleen niet voldaan aan de gestelde eisen in de onderdelen i en l, onderscheidenlijk de onderdelen i of l van de standaard S1, bedoeld in [artikel 23.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-07-01), dan wordt de bemanning bij exploitatiewijze B met één matroos in plaats van twee verhoogd.
+Wordt alleen niet voldaan aan de gestelde eisen in de onderdelen i en l, onderscheidenlijk de onderdelen i of l van de standaard S1, bedoeld in [artikel 23.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-12-01), dan wordt de bemanning bij exploitatiewijze B met één matroos in plaats van twee verhoogd.
 
-2. Wordt niet voldaan aan één of meer gestelde eisen van [artikel 23.09, lid 1.1, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-07-01), dan moeten worden vervangen
+2. Wordt niet voldaan aan één of meer gestelde eisen van [artikel 23.09, lid 1.1, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-12-01), dan moeten worden vervangen
 
 - a). in de exploitatiewijze A1 en A2 de matroos, bedoeld in het eerste lid, onderdeel a, door een matroos-motordrijver, en
 
@@ -5187,7 +5187,7 @@ Wordt alleen niet voldaan aan de gestelde eisen in de onderdelen i en l, ondersc
 
 ##### Artikel 23.14. Minimum bemanning van overige vaartuigen
 
-De Commissie van Deskundigen stelt voor de vaartuigen waarop de [artikelen 23.10 tot en met 23.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.10&z=2009-07-01&g=2009-07-01) niet van toepassing zijn, zoals sleepboten, sleepschepen en drijvende werktuigen, vast welke bemanning zich tijdens de vaart aan boord moet bevinden, naar gelang hun afmetingen, bouwwijze, inrichting en bestemming. Ten aanzien van bunkerschepen, die slechts op korte riviergedeelten ingezet mogen worden, kan de Commissie van Deskundigen een minimum-bemanning voorschrijven die afwijkt van [artikel 23.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.10&z=2009-07-01&g=2009-07-01).
+De Commissie van Deskundigen stelt voor de vaartuigen waarop de [artikelen 23.10 tot en met 23.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.10&z=2009-07-01&g=2009-12-01) niet van toepassing zijn, zoals sleepboten, sleepschepen en drijvende werktuigen, vast welke bemanning zich tijdens de vaart aan boord moet bevinden, naar gelang hun afmetingen, bouwwijze, inrichting en bestemming. Ten aanzien van bunkerschepen, die slechts op korte riviergedeelten ingezet mogen worden, kan de Commissie van Deskundigen een minimum-bemanning voorschrijven die afwijkt van [artikel 23.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.10&z=2009-07-01&g=2009-12-01).
 
 ##### Artikel 23.15. Vrijstellingen en verminderingen
 
@@ -5199,13 +5199,13 @@ Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voorzover de Duits-Ned
 
 ##### Artikel 24.01. Toepasselijkheid van de overgangsbepalingen op reeds in bedrijf zijnde vaartuigen
 
-1. De artikelen [24.02 tot en met 24.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.02&z=2009-07-01&g=2009-07-01) zijn slechts van toepassing op vaartuigen, die bij de inwerkingtreding van dit reglement voorzien zijn van een geldig certificaat van onderzoek overeenkomstig het op 31 december 1994 geldende Reglement onderzoek schepen op de Rijn of op 31 december 1994 in aanbouw zijn dan wel verbouwd worden.
+1. De artikelen [24.02 tot en met 24.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.02&z=2009-07-01&g=2009-12-01) zijn slechts van toepassing op vaartuigen, die bij de inwerkingtreding van dit reglement voorzien zijn van een geldig certificaat van onderzoek overeenkomstig het op 31 december 1994 geldende Reglement onderzoek schepen op de Rijn of op 31 december 1994 in aanbouw zijn dan wel verbouwd worden.
 
-2. Op vaartuigen, die niet onder het eerste lid vallen, is [artikel 24.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.06&z=2009-07-01&g=2009-07-01) van toepassing.
+2. Op vaartuigen, die niet onder het eerste lid vallen, is [artikel 24.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.06&z=2009-07-01&g=2009-12-01) van toepassing.
 
 ##### Artikel 24.02. Afwijkingen voor reeds in bedrijf zijnde vaartuigen
 
-1. Onverminderd de [artikelen 24.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.03&z=2009-07-01&g=2009-07-01) en [24.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.04&z=2009-07-01&g=2009-07-01) moeten vaartuigen, die niet volledig aan de bepalingen van dit reglement voldoen:
+1. Onverminderd de [artikelen 24.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.03&z=2009-07-01&g=2009-12-01) en [24.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.04&z=2009-07-01&g=2009-12-01) moeten vaartuigen, die niet volledig aan de bepalingen van dit reglement voldoen:
 
 - a. daaraan volgens de in de onderstaande tabel vermelde overgangsbepalingen worden aangepast,
 
@@ -5337,15 +5337,15 @@ Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voorzover de Duits-Ned
 | 10.04 | Toepassing Europese norm op bijboten | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015 |
 | 10.05, lid 2 | Opblaasbare zwemvesten | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010. Zwemvesten die op 30.9.2003 aan boord zijn mogen tot aan de verlenging van het certificaat van onderzoek na 1.1.2010 verder worden gebruikt |
 
-* 1. Vóór 1 oktober 1980 vast ingebouwde CO2-brandblusinstallaties blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 toegelaten, wanneer zij voldoen aan [artikel 7.03, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.03&z=2009-07-01&g=2009-07-01), in de versie van protocol 1975-I-23.
+* 1. Vóór 1 oktober 1980 vast ingebouwde CO2-brandblusinstallaties blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 toegelaten, wanneer zij voldoen aan [artikel 7.03, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.03&z=2009-07-01&g=2009-12-01), in de versie van protocol 1975-I-23.
 
-2. Vóór 1 april 1992 vast ingebouwde brandblusinstallaties die met het blusmiddel Halon 1301 (CBrF3) werken blijven tot aan de verlenging van het certificaat van onderzoek na 1.1.2005, echter uiterlijk tot 1.1.2010, toegelaten, wanneer zij voldoen aan [artikel 7.03, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.03&z=2009-07-01&g=2009-07-01), in de versie van protocol 1985-II-26.
+2. Vóór 1 april 1992 vast ingebouwde brandblusinstallaties die met het blusmiddel Halon 1301 (CBrF3) werken blijven tot aan de verlenging van het certificaat van onderzoek na 1.1.2005, echter uiterlijk tot 1.1.2010, toegelaten, wanneer zij voldoen aan [artikel 7.03, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.03&z=2009-07-01&g=2009-12-01), in de versie van protocol 1985-II-26.
 
-3. Tussen 1 april 1992 en 1 januari 1995 vast ingebouwde CO2-brandblusinstallaties blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 toegelaten, wanneer zij voldoen aan [artikel 7.03, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.03&z=2009-07-01&g=2009-07-01), van het op 31 december 1994 van kracht zijnde Reglement onderzoek schepen op de Rijn.
+3. Tussen 1 april 1992 en 1 januari 1995 vast ingebouwde CO2-brandblusinstallaties blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 toegelaten, wanneer zij voldoen aan [artikel 7.03, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.03&z=2009-07-01&g=2009-12-01), van het op 31 december 1994 van kracht zijnde Reglement onderzoek schepen op de Rijn.
 
-4. Tussen 1 april 1992 en 1 januari 1995 verstrekte aanbevelingen van de Centrale Commissie voor de Rijnvaart voor de toepassing van [artikel 7.03, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.03&z=2009-07-01&g=2009-07-01), van het op 31 december 1994 van kracht zijnde Reglement onderzoek schepen op de Rijn blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 geldig.
+4. Tussen 1 april 1992 en 1 januari 1995 verstrekte aanbevelingen van de Centrale Commissie voor de Rijnvaart voor de toepassing van [artikel 7.03, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=7&artikel=7.03&z=2009-07-01&g=2009-12-01), van het op 31 december 1994 van kracht zijnde Reglement onderzoek schepen op de Rijn blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 geldig.
 
-5. [Artikel 10.03b, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03b&z=2009-07-01&g=2009-07-01), geldt uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 alleen dan, wanneer deze installaties worden ingebouwd in schepen waarvan de kiel is gelegd ná 1 oktober 1992.
+5. [Artikel 10.03b, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03b&z=2009-07-01&g=2009-12-01), geldt uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 alleen dan, wanneer deze installaties worden ingebouwd in schepen waarvan de kiel is gelegd ná 1 oktober 1992.
 
 | Artikel | Inhoud | Termijn en voorwaarden |
 | --- | --- | --- |
@@ -5362,11 +5362,11 @@ Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voorzover de Duits-Ned
 | 11.12, lid 2 tot en met lid 6 en lid 8 tot en met lid 10 | Kranen: fabriekslabel, maximaal toelaatbare bedrijfslast, beveiliging, rekenkundig bewijs, controle door deskundige, bescheiden aan boord | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015 |
 | 11.13 | Opslag van brandbare vloeistoffen | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek |
 
-** Dit artikel geldt voor schepen waarvan de kiel is gelegd ná 31.12.1994 en voor in bedrijf zijnde schepen met in acht name van het volgende: Bij vernieuwingswerkzaamheden, het gehele laadruim omvattend, is [artikel 11.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=11&artikel=11.04&z=2009-07-01&g=2009-07-01) van toepassing. Bij een verbouwing, die de totale lengte van de gangboorden omvat en waardoor de vrije breedte van het gangboord wordt gewijzigd:
+** Dit artikel geldt voor schepen waarvan de kiel is gelegd ná 31.12.1994 en voor in bedrijf zijnde schepen met in acht name van het volgende: Bij vernieuwingswerkzaamheden, het gehele laadruim omvattend, is [artikel 11.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=11&artikel=11.04&z=2009-07-01&g=2009-12-01) van toepassing. Bij een verbouwing, die de totale lengte van de gangboorden omvat en waardoor de vrije breedte van het gangboord wordt gewijzigd:
 
-a. is [artikel 11.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=11&artikel=11.04&z=2009-07-01&g=2009-07-01) van toepassing, indien de vóór de verbouwing beschikbare vrije breedte van het gangboord tot een hoogte van 0,90 m, of de vrije breedte daarboven, moet worden verminderd;
+a. is [artikel 11.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=11&artikel=11.04&z=2009-07-01&g=2009-12-01) van toepassing, indien de vóór de verbouwing beschikbare vrije breedte van het gangboord tot een hoogte van 0,90 m, of de vrije breedte daarboven, moet worden verminderd;
 
-b. mag de vóór de verbouwing beschikbare vrije breedte van het gangboord tot een hoogte van 0,90 m, of de vrije breedte daarboven, niet worden verminderd, indien deze afmetingen kleiner zijn dan die bedoeld in [artikel 11.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=11&artikel=11.04&z=2009-07-01&g=2009-07-01).
+b. mag de vóór de verbouwing beschikbare vrije breedte van het gangboord tot een hoogte van 0,90 m, of de vrije breedte daarboven, niet worden verminderd, indien deze afmetingen kleiner zijn dan die bedoeld in [artikel 11.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=11&artikel=11.04&z=2009-07-01&g=2009-12-01).
 
 | Artikel | Inhoud | Termijn en voorwaarden |
 | --- | --- | --- |
@@ -5514,7 +5514,7 @@ b. mag de vóór de verbouwing beschikbare vrije breedte van het gangboord tot e
 
 ##### Artikel 24.03. Afwijkingen voor vaartuigen waarvan de kiel is gelegd op 1 april 1976 of daarvóór
 
-1. Vaartuigen waarvan de kiel is gelegd op 1 april 1976 of daarvóór moeten, behalve aan [artikel 24.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.02&z=2009-07-01&g=2009-07-01), voldoen aan de hierna genoemde bepalingen. In de onderstaande tabel betekent:
+1. Vaartuigen waarvan de kiel is gelegd op 1 april 1976 of daarvóór moeten, behalve aan [artikel 24.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.02&z=2009-07-01&g=2009-12-01), voldoen aan de hierna genoemde bepalingen. In de onderstaande tabel betekent:
 
 - –. ‘V.O.’: het voorschrift is niet van toepassing op reeds in bedrijf zijnde vaartuigen, tenzij de betreffende delen worden vervangen of omgebouwd, dat wil zeggen dat dit voorschrift slechts van toepassing is bij Vervanging of bij Ombouw van de betreffende delen of sectoren. Worden bestaande delen vervangen door delen welke in technische zin en bouwwijze gelijk zijn, dan wordt dit niet beschouwd als vervanging ‘V’ volgens deze overgangsbepalingen.
 
@@ -5564,17 +5564,17 @@ b. mag de vóór de verbouwing beschikbare vrije breedte van het gangboord tot e
 | 15.05 | Aantal passagiers | Bij verlenging van het certificaat van onderzoek na 1.1.2045 |
 | 15.10, lid 4, lid 6, lid 7, lid 8 en lid 11 | Noodstroominstallatie | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045 |
 
-2. [Artikel 15.11, derde lid, eerste volzin en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-07-01), is op schepen voor dagtochten, waarvan de kiel is gelegd op 1 april 1976 of daarvóór, tot aan de eerste verlenging van het certificaat van onderzoek ná 1.1.2045 slechts met dien verstande van toepassing dat slechts de verven, lakken en andere behandelingsmiddelen voor interieurs, gebruikt voor de naar de vluchtwegen toegekeerde oppervlakken, moeilijk ontvlambaar moeten zijn en rook en andere giftige gassen niet in gevaarlijke mate kunnen ontstaan.
+2. [Artikel 15.11, derde lid, eerste volzin en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-12-01), is op schepen voor dagtochten, waarvan de kiel is gelegd op 1 april 1976 of daarvóór, tot aan de eerste verlenging van het certificaat van onderzoek ná 1.1.2045 slechts met dien verstande van toepassing dat slechts de verven, lakken en andere behandelingsmiddelen voor interieurs, gebruikt voor de naar de vluchtwegen toegekeerde oppervlakken, moeilijk ontvlambaar moeten zijn en rook en andere giftige gassen niet in gevaarlijke mate kunnen ontstaan.
 
-3. [Artikel 15.11, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-07-01), is op schepen voor dagtochten, waarvan de kiel is gelegd op 1 april 1976 of daarvóór, tot aan de eerste verlenging van het certificaat van onderzoek ná 1.1.2045 slechts met dien verstande van toepassing dat het voldoende is wanneer, in plaats van de dragende constructie vervaardigd van staal van trappen die als vluchtweg dienen, deze trappen zo zijn uitgevoerd dat zij in geval van brand ongeveer even lang bruikbaar blijven als trappen met een dragende constructie van staal.
+3. [Artikel 15.11, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.11&z=2009-07-01&g=2009-12-01), is op schepen voor dagtochten, waarvan de kiel is gelegd op 1 april 1976 of daarvóór, tot aan de eerste verlenging van het certificaat van onderzoek ná 1.1.2045 slechts met dien verstande van toepassing dat het voldoende is wanneer, in plaats van de dragende constructie vervaardigd van staal van trappen die als vluchtweg dienen, deze trappen zo zijn uitgevoerd dat zij in geval van brand ongeveer even lang bruikbaar blijven als trappen met een dragende constructie van staal.
 
 ##### Artikel 24.04. Overige afwijkingen
 
-1. Voor vaartuigen, waarvan het minste vrijboord overeenkomstig [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.04&z=2009-07-01&g=2009-07-01) van de op 31 maart 1983 geldende voorschriften is vastgesteld, kan de Commissie van Deskundigen op verzoek van de eigenaar het vrijboord vaststellen op grond van [artikel 4.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.03&z=2009-07-01&g=2009-07-01) van de op 1 januari 1995 geldende voorschriften.
+1. Voor vaartuigen, waarvan het minste vrijboord overeenkomstig [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.04&z=2009-07-01&g=2009-12-01) van de op 31 maart 1983 geldende voorschriften is vastgesteld, kan de Commissie van Deskundigen op verzoek van de eigenaar het vrijboord vaststellen op grond van [artikel 4.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=4&artikel=4.03&z=2009-07-01&g=2009-12-01) van de op 1 januari 1995 geldende voorschriften.
 
-2. Vaartuigen, waarvan de kiel is gelegd vóór 1 juli 1983, behoeven niet te voldoen aan [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&z=2009-07-01&g=2009-07-01). Deze vaartuigen moeten echter ten minste voldoen aan [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-07-01) van de op 31 maart 1983 geldende voorschriften.
+2. Vaartuigen, waarvan de kiel is gelegd vóór 1 juli 1983, behoeven niet te voldoen aan [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=9&z=2009-07-01&g=2009-12-01). Deze vaartuigen moeten echter ten minste voldoen aan [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=6&z=2009-07-01&g=2009-12-01) van de op 31 maart 1983 geldende voorschriften.
 
-3. [Artikel 15.06, derde lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-07-01), en [artikel 15.12, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.12&z=2009-07-01&g=2009-07-01), met betrekking tot de bepaling over de enige slanglengte, zijn slechts van toepassing op passagiersschepen waarvan de kiel is gelegd ná 30 september 1984, alsmede in geval van verbouwing van de betrokken sectoren, uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045.
+3. [Artikel 15.06, derde lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.06&z=2009-07-01&g=2009-12-01), en [artikel 15.12, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&artikel=15.12&z=2009-07-01&g=2009-12-01), met betrekking tot de bepaling over de enige slanglengte, zijn slechts van toepassing op passagiersschepen waarvan de kiel is gelegd ná 30 september 1984, alsmede in geval van verbouwing van de betrokken sectoren, uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045.
 
 4. Indien de toepassing van de in dit hoofdstuk genoemde bepalingen na afloop van de overgangsbepalingen in de praktijk moeilijk uitvoerbaar is of onevenredig hoge kosten met zich brengt, kan de Commissie van Deskundigen op grond van aanbevelingen van de Centrale Commissie voor de Rijnvaart afwijkingen van deze voorschriften toestaan. Deze afwijkingen moeten in het certificaat van onderzoek worden aangetekend.
 
@@ -5582,7 +5582,7 @@ b. mag de vóór de verbouwing beschikbare vrije breedte van het gangboord tot e
 
 ##### Artikel 24.05. Overgangsbepalingen bij hoofdstuk 23 ‘Bemanningen’
 
-Onverminderd [artikel 23.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.03&z=2009-07-01&g=2009-07-01) betreffende de lichamelijke geschiktheid geldt de volgende overgangsregeling voor [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-07-01):
+Onverminderd [artikel 23.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.03&z=2009-07-01&g=2009-12-01) betreffende de lichamelijke geschiktheid geldt de volgende overgangsregeling voor [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-12-01):
 
 - 1. Een op 31 december 2001 in de binnenvaart werkzame deksman kan de bevoegdheid als matroos verkrijgen, nadat hij zijn 19e levensjaar heeft beëindigd en een vaartijd als lid van de dekbemanning van ten minste drie jaar heeft aangetoond; daarvan moeten ten minste een jaar in de binnenvaart en twee jaar in de binnenvaart of in de zee- of kustvaart of visserij vervuld zijn. Deze matroos kan de bevoegdheid als:
 
@@ -5596,15 +5596,15 @@ Onverminderd [artikel 23.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&dee
 
 - 4. Een op 31 december 2001 in de Rijnvaart werkzame volmatroos kan de bevoegdheid als stuurman verkrijgen, wanneer hij een vaartijd in de Rijnvaart van ten minste een jaar als volmatroos kan aantonen.
 
-- 5. Tot aan de eerstvolgende verlenging van het certificaat van onderzoek, echter uiterlijk tot 1 juli 2007, kan het voldoen aan [artikel 23.09, lid 1.1 of lid 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-07-01), zoals vereist in [artikel 23.09, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-07-01), als volgt in het certificaat van onderzoek worden aangetekend:
+- 5. Tot aan de eerstvolgende verlenging van het certificaat van onderzoek, echter uiterlijk tot 1 juli 2007, kan het voldoen aan [artikel 23.09, lid 1.1 of lid 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-12-01), zoals vereist in [artikel 23.09, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-12-01), als volgt in het certificaat van onderzoek worden aangetekend:
 
-- a. Voor het voldoen aan [artikel 23.09, lid 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-07-01), volstaat een aantekening onder punt 47 als volgt: ‘Het schip voldoet aan [artikel 23.09, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-07-01)’.
+- a. Voor het voldoen aan [artikel 23.09, lid 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-12-01), volstaat een aantekening onder punt 47 als volgt: ‘Het schip voldoet aan [artikel 23.09, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-12-01)’.
 
-- b. Voor het voldoen aan [artikel 23.09, lid 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-07-01), volstaan de volgende aantekeningen:
+- b. Voor het voldoen aan [artikel 23.09, lid 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-12-01), volstaan de volgende aantekeningen:
 
 - –. in het geval van alleen varende motorschepen en van motorschepen die een gekoppeld samenstel voortbewegen:
 
-- •. onder punt 47: ‘Het schip voldoet aan [artikel 23.09, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-07-01)’ en
+- •. onder punt 47: ‘Het schip voldoet aan [artikel 23.09, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-12-01)’ en
 
 - •. onder punt 34:
 
@@ -5615,7 +5615,7 @@ Onverminderd [artikel 23.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&dee
 
 - –. in het geval van passagiersschepen:
 
-- •. onder punt 47: ‘Het schip voldoet aan [artikel 23.09, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-07-01)’ en ofwel
+- •. onder punt 47: ‘Het schip voldoet aan [artikel 23.09, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2009-07-01&g=2009-12-01)’ en ofwel
 
 - •. onder punt 34:
 
@@ -5634,15 +5634,15 @@ Onverminderd [artikel 23.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&dee
 | 29. Aantal hoofdschroeven ‘...’ (meer dan 1) |
 | --- |
 
-##### Artikel 24.06. Afwijkingen voor vaartuigen die niet onder [artikel 24.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.01&z=2009-07-01&g=2009-07-01) vallen
+##### Artikel 24.06. Afwijkingen voor vaartuigen die niet onder [artikel 24.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.01&z=2009-07-01&g=2009-12-01) vallen
 
 1. Op vaartuigen waarvoor vanaf 1 januari 1995 voor het eerst een certificaat van onderzoek als bedoeld in dit reglement is afgegeven zijn de volgende bepalingen van toepassing, tenzij zij op 31 december 1994 in aanbouw of in ombouw waren.
 
-2. Deze vaartuigen moeten voldoen aan de versie van het Reglement onderzoek schepen op de Rijn die van kracht is op de dag waarop het certificaat van onderzoek is afgegeven. In afwijking hiervan mogen passagiersschepen, waaraan met ingang van 1 januari 2006 en vóór 1 januari 2007 voor het eerst een certificaat van onderzoek overeenkomstig dit reglement wordt afgegeven, voldoen aan de op 31 december 2005 geldende voorschriften van [hoofdstuk 15](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&z=2009-07-01&g=2009-07-01) van dit reglement.
+2. Deze vaartuigen moeten voldoen aan de versie van het Reglement onderzoek schepen op de Rijn die van kracht is op de dag waarop het certificaat van onderzoek is afgegeven. In afwijking hiervan mogen passagiersschepen, waaraan met ingang van 1 januari 2006 en vóór 1 januari 2007 voor het eerst een certificaat van onderzoek overeenkomstig dit reglement wordt afgegeven, voldoen aan de op 31 december 2005 geldende voorschriften van [hoofdstuk 15](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=15&z=2009-07-01&g=2009-12-01) van dit reglement.
 
 3. Deze vaartuigen moeten aan de voorschriften, die na de eerste afgifte van hun certificaat van onderzoek van kracht zijn geworden, volgens de in de onderstaande tabel vermelde overgangsbepalingen worden aangepast.
 
-4. [Artikel 24.04, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.04&z=2009-07-01&g=2009-07-01), zijn van overeenkomstige toepassing.
+4. [Artikel 24.04, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.04&z=2009-07-01&g=2009-12-01), zijn van overeenkomstige toepassing.
 
 5. In de onderstaande tabel betekent:
 
@@ -5705,11 +5705,11 @@ Onverminderd [artikel 23.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&dee
 | 10.04 | Toepassing Europese norm op bijboten | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015 | 1.10.2003 |
 | 10.05, lid 2 | Opblaasbare zwemvesten | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010. Zwemvesten die op 30.9.2003 aan boord zijn mogen tot aan de verlenging van het certificaat van onderzoek na 1.1.2010 verder worden gebruikt | 1.10.2003 |
 
-** 1. Tussen 1 januari 1995 en 31 maart 2003 vast ingebouwde CO2-brandblusinstallaties blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 toegelaten, wanneer zij voldoen aan [artikel 10.03, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-07-01), van het op 31 maart 2002 van kracht zijnde Reglement onderzoek schepen op de Rijn.
+** 1. Tussen 1 januari 1995 en 31 maart 2003 vast ingebouwde CO2-brandblusinstallaties blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 toegelaten, wanneer zij voldoen aan [artikel 10.03, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-12-01), van het op 31 maart 2002 van kracht zijnde Reglement onderzoek schepen op de Rijn.
 
-2. Tussen 1 januari 1995 en 31 maart 2002 verstrekte aanbevelingen van de Centrale Commissie voor de Rijnvaart voor de toepassing van [artikel 10.03, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-07-01), van het op 31 maart 2002 van kracht zijnde Reglement onderzoek schepen op de Rijn blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 geldig.
+2. Tussen 1 januari 1995 en 31 maart 2002 verstrekte aanbevelingen van de Centrale Commissie voor de Rijnvaart voor de toepassing van [artikel 10.03, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03&z=2009-07-01&g=2009-12-01), van het op 31 maart 2002 van kracht zijnde Reglement onderzoek schepen op de Rijn blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 geldig.
 
-3. [Artikel 10.03b, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03b&z=2009-07-01&g=2009-07-01), geldt uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 alleen dan, wanneer deze installaties worden ingebouwd in schepen waarvan de kiel is gelegd ná 1 oktober 1992.
+3. [Artikel 10.03b, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=10&artikel=10.03b&z=2009-07-01&g=2009-12-01), geldt uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 alleen dan, wanneer deze installaties worden ingebouwd in schepen waarvan de kiel is gelegd ná 1 oktober 1992.
 
 | Artikel | Inhoud | Termijn en voorwaarden | Van kracht |
 | --- | --- | --- | --- |
@@ -5828,13 +5828,13 @@ Onverminderd [artikel 23.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&dee
 | 22a.05, lid 2 | Aanvullende eisen voor vaartuigen met L van meer dan 110 m die bovenstrooms van Mannheim willen varen | Voor vaartuigen die een op 30.9.2001 nog geldige vergunning van een bevoegde autoriteit bezitten, gelden de voorschriften op het te bevaren riviergedeelte, waarvoor de vergunning was verleend, niet. | 1-10-2001 |
 | 22b.03 lid 3 | In werking stellen van de tweede onafhankelijke aandrijving of van de handaandrijving | N.V.O. uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2025. | 1-04-2005 |
 
-6. Bij nieuwbouw van schepen met een lengte van meer dan 110 m, waarvan de kiel is gelegd vóór 1 oktober 2001, kan het voldoen aan [artikel 22a.05, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=22a&artikel=22a.05&z=2009-07-01&g=2009-07-01), achterwege blijven voor de vaart tussen Mannheim en Karlsruhe. Deze vaartbeperking moet in het certificaat van onderzoek worden aangetekend onder punt 10.
+6. Bij nieuwbouw van schepen met een lengte van meer dan 110 m, waarvan de kiel is gelegd vóór 1 oktober 2001, kan het voldoen aan [artikel 22a.05, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=22a&artikel=22a.05&z=2009-07-01&g=2009-12-01), achterwege blijven voor de vaart tussen Mannheim en Karlsruhe. Deze vaartbeperking moet in het certificaat van onderzoek worden aangetekend onder punt 10.
 
 ##### Artikel 24.07
 
 (zonder inhoud)
 
-##### Artikel 24.08. Overgangsbepalingen bij [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.18&z=2009-07-01&g=2009-07-01)
+##### Artikel 24.08. Overgangsbepalingen bij [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.18&z=2009-07-01&g=2009-12-01)
 
 1. Officiële scheepsnummers die vóór 1 april 2007 zijn toegekend, worden per 1 april 2007 door het cijfer ‘0’ voorafgaand daaraan toe te voegen, omgezet in unieke Europese scheepsidentificatienummers.
 
@@ -5951,7 +5951,7 @@ Het eerste vaartijdenboek van elk schip moet worden afgegeven door de Commissie 
 
 De aantekeningen die de schipper in dit vaartijdenboek moet aanbrengen dienen te voldoen aan het Reglement onderzoek schepen op de Rijn.
 
-Aan [artikel 23.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.01&z=2009-07-01&g=2009-07-01), wordt geacht te zijn voldaan, wanneer de aantekeningen het tijdvak van 48 uur bestrijken dat onmiddellijk voorafgaat aan het binnenvaren van het toepassingsgebied van het Reglement onderzoek schepen op de Rijn.
+Aan [artikel 23.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.01&z=2009-07-01&g=2009-12-01), wordt geacht te zijn voldaan, wanneer de aantekeningen het tijdvak van 48 uur bestrijken dat onmiddellijk voorafgaat aan het binnenvaren van het toepassingsgebied van het Reglement onderzoek schepen op de Rijn.
 
 De functies van de bemanningsleden kunnen als volgt worden aangeduid:
 
@@ -5959,7 +5959,7 @@ Op iedere bladzijde dient het volgende te worden aangetekend:
 
 ### Sancties
 
-Overtreding van de bemanningsvoorschriften van het Reglement onderzoek schepen op de Rijn is strafbaar. Hetzelfde geldt voor het niet bijhouden, dan wel het niet volgens de voorschriften bijhouden van het vaartijdenboek. (Gevolgd door de van kracht zijnde tekst van [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-07-01) van het Reglement onderzoek schepen op de Rijn in de drie talen.)
+Overtreding van de bemanningsvoorschriften van het Reglement onderzoek schepen op de Rijn is strafbaar. Hetzelfde geldt voor het niet bijhouden, dan wel het niet volgens de voorschriften bijhouden van het vaartijdenboek. (Gevolgd door de van kracht zijnde tekst van [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&z=2009-07-01&g=2009-12-01) van het Reglement onderzoek schepen op de Rijn in de drie talen.)
 
 ## Bijlage F. Model van het dienstboekje
 
@@ -6081,19 +6081,19 @@ Bijlage 1 – Testresultaten (model)
 
 Schema voor de nummering van de typegoedkeuringen
 
-([artikel 8a.04, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.04&z=2009-07-01&g=2009-07-01))
+([artikel 8a.04, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.04&z=2009-07-01&g=2009-12-01))
 
 **Deel V**
 
 Lijst van afgegeven typegoedkeuringen voor motortypen, motorfamilies en motorgroepen
 
-([artikel 8a.04, lid 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.04&z=2009-07-01&g=2009-07-01))
+([artikel 8a.04, lid 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.04&z=2009-07-01&g=2009-12-01))
 
 **Deel VI**
 
 Lijst van gebouwde motoren (model)
 
-([artikel 8a.04, lid 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.04&z=2009-07-01&g=2009-07-01))
+([artikel 8a.04, lid 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.04&z=2009-07-01&g=2009-12-01))
 
 **Deel VII**
 
@@ -6103,7 +6103,7 @@ Gegevensformulier van type goedgekeurde motoren (model)
 
 Proces-verbaal van de motor kenmerken (model)
 
-([artikel 8a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.11&z=2009-07-01&g=2009-07-01))
+([artikel 8a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&hoofdstuk=8A&artikel=8a.11&z=2009-07-01&g=2009-12-01))
 
 ### Bijlage J, Deel I
 
@@ -6321,7 +6321,7 @@ Handtekening: .....
 
 ## Bijlage K. **(model)**
 
-### Verklaring voor het aantonen van de vereiste rusttijd, bedoeld in [artikel 23.07, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.07&z=2009-07-01&g=2009-07-01)
+### Verklaring voor het aantonen van de vereiste rusttijd, bedoeld in [artikel 23.07, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.07&z=2009-07-01&g=2009-12-01)
 
 (geldt alleen tezamen met het dienstboekje, onderscheidenlijk met het grote patent bedoeld in bijlage 1, onderscheidenlijk het voorlopige grote patent, bedoeld in bijlage 2 van het [Reglement Rijnpatenten 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0008934))
 
@@ -6559,6 +6559,60 @@ Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd er
 
 ## Bijlage O
 
-| Nr. | Aan het certificaat van onderzoek volgens [artikel 1.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.03&z=2009-07-01&g=2009-07-01) als gelijkwaardig erkende bevoegdheidsbewijzen | Modaliteiten van de erkenning | Datum van de erkenning |
+| Nr. | Aan het certificaat van onderzoek volgens [artikel 1.03](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.03&z=2009-07-01&g=2009-12-01) als gelijkwaardig erkende bevoegdheidsbewijzen | Modaliteiten van de erkenning | Datum van de erkenning |
 | --- | --- | --- | --- |
 | 1 | Na 30 december 2008 afgegeven of hernieuwde communautaire certificaten voor binnenschepen, die bevestigen dat de desbetreffende schepen, onverminderd de overgangsvoorschriften volgens hoofdstuk 24, bijlage II, volledig voldoen aan de technische voorschriften van bijlage II van de laatst geldende versie van [Richtlijn 2006/87/EG](32006L0087) inzake vaststelling van de technische voorschriften voor binnenvaartschepen en tot intrekking van [Richtlijn 82/714/EEG](31982L0714). | Schepen op de Rijn, waaraan na 30 december 2008 een communautair certificaat is afgegeven, moeten van motoren zijn voorzien, die voldoen aan ofwel de grenswaarden van de Centrale Commissie voor de Rijnvaart, zoals vastgelegd in het Reglement onderzoek schepen op de Rijn, ofwel aan vergelijkbare grenswaarden krachtens [Richtlijn 97/68/EG](31997L0068) in zijn laatst geldende versie. | 27 november 2008 |
+
+## Bijlage P. Vereiste gegevens voor de identificatie van een schip
+
+- A. Voor alle vaartuigen:
+
+- 1. uniek Europees scheepsidentificatienummer overeenkomstig [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.18&z=2010-01-01&g=2009-12-01) ([Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2010-01-01&g=2009-12-01), derde lid, en [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=C&z=2010-01-01&g=2009-12-01), vijfde kolom);
+
+- 2. naam van het vaartuig ([Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2010-01-01&g=2009-12-01), eerste lid en [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=C&z=2010-01-01&g=2009-12-01), vierde kolom);
+
+- 3. type vaartuig, bedoeld in [artikel 1.01, lid 1 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.01&z=2010-01-01&g=2009-12-01), ([Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2010-01-01&g=2009-12-01), tweede lid);
+
+- 4. lengte over alles overeenkomstig [artikel 1.01, lid 56](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.01&z=2010-01-01&g=2009-12-01) ([Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2010-01-01&g=2009-12-01), lid 17a);
+
+- 5. totale breedte overeenkomstig [artikel 1.01, lid 59](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.01&z=2010-01-01&g=2009-12-01) ([Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2010-01-01&g=2009-12-01), lid 18a);
+
+- 6. diepgang overeenkomstig [artikel 1.01, lid 62](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.01&z=2010-01-01&g=2009-12-01) ([Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2010-01-01&g=2009-12-01), lid 19);
+
+- 7. bron van de gegevens (=certificaat van onderzoek schepen op de Rijn);
+
+- 8. laadvermogen ([Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2010-01-01&g=2009-12-01), lid 21 en [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=C&z=2010-01-01&g=2009-12-01), dertiende kolom) voor motorvrachtschepen;
+
+- 9. waterverplaatsing overeenkomstig [artikel 1.01, lid 46](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.01&z=2010-01-01&g=2009-12-01) ([Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2010-01-01&g=2009-12-01), lid 21, en [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=C&z=2010-01-01&g=2009-12-01), dertiende kolom) voor andere vaartuigen dan motorvrachtschepen;
+
+- 10. de exploitant (de eigenaar of de vertegenwoordiger, [artikel 2.02](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.02&z=2010-01-01&g=2009-12-01));
+
+- 11. de Commissie van Deskundigen die het certificaat afgeeft ([Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2010-01-01&g=2009-12-01) en [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=C&z=2010-01-01&g=2009-12-01));
+
+- 12. nummer van het certificaat van onderzoek ([Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2010-01-01&g=2009-12-01) en [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=C&z=2010-01-01&g=2009-12-01), eerste kolom);
+
+- 13. geldigheidsdatum ([Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=B&z=2010-01-01&g=2009-12-01), elfde lid, en [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=C&z=2010-01-01&g=2009-12-01), kolom 17);
+
+- 14. de schepper van het gegevensbestand.
+
+- B. Indien beschikbaar:
+
+- 1. nationaal scheepsnummer;
+
+- 2. type vaartuig overeenkomstig de standaard van technische specificaties voor elektronisch melden in de binnenvaart;
+
+- 3. enkel- of dubbelwandig overeenkomstig het ADN/ADNR;
+
+- 4. holte overeenkomstig [artikel 1.01, lid 61](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.01&z=2010-01-01&g=2009-12-01);
+
+- 5. bruto tonnage (voor zeeschepen);
+
+- 6. IMO-nummer (voor zeeschepen);
+
+- 7. Oproepsignaal (voor zeeschepen);
+
+- 8. MMSI-nummer;
+
+- 9. ATIS-code;
+
+- 10. type, nummer, autoriteit die het certificaat afgeeft en de geldigheidsdatum van andere certificaten.
