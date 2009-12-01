@@ -4,7 +4,7 @@ identifier: "BWBR0009254"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2005-12-29"
+last_updated: "2009-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009254"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Het bedrag als bedoeld in de artikelen [25b van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=25b), [25b Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=25b), [36 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), [33 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33), [57 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57), 8.2.11 van de Wet werk en inkomen naar arbeidsvermogen, 48 van de Algemene Arbeidsongeschiktheidswet, [20 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20), [24 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24), [24 van de Algemene kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24), [53 van de Algemen nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=53), [63 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=63),[55 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=55) en [35 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=35) is € 113 op jaarbasis.
+Het bedrag als bedoeld in de [artikelen 25b van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=25b), [25b Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=25b), [36 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), [35 van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=35), [33 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33), [57 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57), 8.2.11 van de Wet werk en inkomen naar arbeidsvermogen, 48 van de Algemene Arbeidsongeschiktheidswet, [20 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20), [24 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24), [24 van de Algemene kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24), [53 van de Algemen nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=53), [63 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=63),[55 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=55) en [35 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=35) is € 113 op jaarbasis.
 
 ##### Artikel 2
 
@@ -51,5 +51,11 @@ Indien het bij koninklijke boodschap van 29 september 1997 ingediende voorstel v
 ##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling terugvordering geringe bedragen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust mede op [artikel 35, vierde lid, van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=35).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
