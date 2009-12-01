@@ -4,7 +4,7 @@ identifier: "BWBR0029226"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2009-07-08"
+last_updated: "2009-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029226"
 soort: "wet"
@@ -85,11 +85,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
 ##### Artikel XI. Wijziging van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
 ##### Artikel XII. Wijziging van de [Wet investeren in jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026054)
 
