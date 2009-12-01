@@ -4,7 +4,7 @@ identifier: "BWBV0004033"
 country: "nl"
 rank: "verdrag"
 publication_date: "2013-07-01"
-last_updated: "2007-01-01"
+last_updated: "2009-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004033"
 soort: "verdrag"
@@ -114,19 +114,7 @@ Voor de vervulling van haar taak moet de Gemeenschap onder de in dit Verdrag bep
 
 ##### Artikel 3
 
-1. De vervulling van de aan de Gemeenschap opgedragen taken wordt verzekerd door:
-
-- -. een EUROPEES PARLEMENT,
-
-- -. een RAAD,
-
-- -. een COMMISSIE,
-
-- -. een HOF VAN JUSTITIE,
-
-- -. een REKENKAMER. Iedere Instelling handelt binnen de grenzen van de haar door dit Verdrag verleende bevoegdheden.
-
-2. De Raad en de Commissie worden bijgestaan door een Economisch en Sociaal Comité met raadgevende taak.
+Vervallen
 
 ## TITEL TWEEDE. BEPALINGEN TER BEVORDERING VAN DE VOORUITGANG OP HET GEBIED VAN DE KERNENERGIE
 
@@ -216,7 +204,7 @@ De Commissie moet onder dezelfde voorwaarden sub-licenties verlenen op octrooien
 
 Op voorwaarden, welke in onderlinge overeenstemming met de gegadigden worden vastgesteld, verleent de Commissie die licenties of sub-licenties en deelt zij alle voor de exploitatie daarvan noodzakelijke kennis mede. Die voorwaarden hebben met name betrekking op een passende vergoeding en eventueel op de bevoegdheid, toe te kennen aan de gegadigde, om aan derden sublicenties te verlenen evenals op de verplichting de medegedeelde kennis als fabrieksgeheim te behandelen.
 
-Bij gebreke van overeenstemming over de vaststelling van de in de derde alinea bedoelde voorwaarden, kunnen de gegadigden zich wenden tot het Hof van Justitie, ten einde passende voorwaarden te doen vaststellen.
+Bij gebreke van overeenstemming over de vaststelling van de in de derde alinea bedoelde voorwaarden, kunnen de gegadigden zich wenden tot het Hof van Justitie van de Europese Unie, ten einde passende voorwaarden te doen vaststellen.
 
 ##### Artikel 13
 
@@ -294,9 +282,9 @@ Zonder voorafgaand verzoek van de Commissie kunnen de Lid-Staten, om in die zelf
 
 ##### Artikel 18
 
-Voor de in deze afdeling gestelde doeleinden wordt een Arbitrage-Commissie ingesteld, waarvan de leden worden benoemd en waarvan het reglement wordt vastgesteld door de Raad, op voorstel van het Hof van Justitie.
+Voor de in deze afdeling gestelde doeleinden wordt een Arbitrage-Commissie ingesteld, waarvan de leden worden benoemd en waarvan het reglement wordt vastgesteld door de Raad, op voorstel van het Hof van Justitie van de Europese Unie.
 
-Binnen een maand na de kennisgeving staat tegen de beslissingen van de Arbitrage-Commissie voor partijen beroep met schorsende werking open bij het Hof van Justitie. Het onderzoek van het Hof van Justitie kan slechts betrekking hebben op de formele regelmatigheid van de beslissing en op de door de Arbitrage-Commissie aan de bepalingen van dit Verdrag gegeven uitlegging.
+Binnen een maand na de kennisgeving staat tegen de beslissingen van de Arbitrage-Commissie voor partijen beroep met schorsende werking open bij het Hof van Justitie van de Europese Unie. Het onderzoek van het Hof van Justitie van de Europese Unie kan slechts betrekking hebben op de formele regelmatigheid van de beslissing en op de door de Arbitrage-Commissie aan de bepalingen van dit Verdrag gegeven uitlegging.
 
 De eindbeslissingen van de Arbitrage-Commissie hebben voor de betrokken partijen kracht van gewijsde. Zij zijn uitvoerbaar onder de in artikel 164 gestelde voorwaarden.
 
@@ -320,9 +308,9 @@ Indien de Lid-Staat of zijn bevoegde instanties, de houder gehoord, van mening z
 
 Indien hij weigert de licentie te verlenen of te doen verlenen of binnen vier maanden na het verzoek geen toelichting verstrekt ten aanzien van het verlenen van de licentie, kan de Commissie zich binnen twee maanden tot het Hof van Justitie wenden.
 
-De houder moet worden gehoord in het geding voor het Hof van Justitie.
+De houder moet worden gehoord in het geding voor het Hof van Justitie van de Europese Unie.
 
-Indien het arrest van het Hof van Justitie vaststelt, dat aan de in artikel 17 gestelde voorwaarden is voldaan, zijn de betrokken Lid-Staat of zijn bevoegde instanties gehouden de nodige maatregelen te nemen om dit arrest ten uitvoer te leggen.
+Indien het arrest van het Hof van Justitie van de Europese Unie vaststelt, dat aan de in artikel 17 gestelde voorwaarden is voldaan, zijn de betrokken Lid-Staat of zijn bevoegde instanties gehouden de nodige maatregelen te nemen om dit arrest ten uitvoer te leggen.
 
 ##### Artikel 22
 
@@ -472,7 +460,7 @@ De Commissie richt tot de Lid-Staten alle aanbevelingen over de mate van radioac
 
 In spoedeisende gevallen stelt de Commissie een richtlijn vast, waarbij zij de betrokken Lid-Staat gelast, binnen een door haar gestelde termijn alle nodige maatregelen te treffen, om een overschrijding van de basisnormen te voorkomen en de naleving van de voorschriften te verzekeren.
 
-Indien die Staat binnen de gestelde termijn de richtlijn van de Commissie niet volgt, kan deze of elke betrokken Lid-Staat, in afwijking van de artikelen 141 en 192, de zaak onmiddellijk bij het Hof van Justitie aanhangig maken.
+Indien die Staat binnen de gestelde termijn de richtlijn van de Commissie niet volgt, kan deze of elke betrokken Lid-Staat, in afwijking van de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=258) en [259 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=259), de zaak onmiddellijk bij het Hof van Justitie van de Europese Unie aanhangig maken.
 
 ##### Artikel 39
 
@@ -562,7 +550,7 @@ De Raad kan op dezelfde wijze de voorwaarden vaststellen, waaraan de toekenning 
 
 ##### Artikel 49
 
-De oprichting van een Gemeenschappelijke Onderneming geschiedt ingevolge beschikking van de Raad.
+De oprichting van een Gemeenschappelijke Onderneming geschiedt ingevolge besluit van de Raad.
 
 Iedere Gemeenschappelijke Onderneming bezit rechtspersoonlijkheid.
 
@@ -570,7 +558,7 @@ In elke Lid-Staat heeft de Gemeenschappelijke Onderneming de ruimste handelingsb
 
 Voor zover in dit Verdrag of in haar statuten niet anders is bepaald, valt elke Gemeenschappelijke Onderneming onder de voorschriften, welke van toepassing zijn op handels- en industriële ondernemingen; de statuten kunnen subsidiair verwijzen naar de nationale wetgevingen der Lid-Staten.
 
-Onder voorbehoud van de krachtens dit Verdrag aan het Hof van Justitie verleende bevoegdheden worden de geschillen, waarbij de Gemeenschappelijke Ondernemingen betrokken zijn, door de bevoegde nationale rechterlijke instanties beslecht.
+Onder voorbehoud van de krachtens dit Verdrag aan het Hof van Justitie van de Europese Unie verleende bevoegdheden worden de geschillen, waarbij de Gemeenschappelijke Ondernemingen betrokken zijn, door de bevoegde nationale rechterlijke instanties beslecht.
 
 ##### Artikel 50
 
@@ -580,7 +568,7 @@ Deze wijzigingen kunnen echter eerst van kracht worden, nadat zij op voorstel va
 
 ##### Artikel 51
 
-De Commissie zorgt voor de uitvoering van alle beschikkingen van de Raad betreffende de oprichting van Gemeenschappelijke Ondernemingen, totdat de organen belast met de werking van deze Ondernemingen tot stand zijn gebracht.
+De Commissie zorgt voor de uitvoering van alle besluiten van de Raad betreffende de oprichting van Gemeenschappelijke Ondernemingen, totdat de organen belast met de werking van deze Ondernemingen tot stand zijn gebracht.
 
 ### HOOFDSTUK VI. Voorziening
 
@@ -602,7 +590,7 @@ Het Agentschap mag tussen de gebruikers niet discrimineren op grond van het gebr
 
 Het Agentschap staat onder toezicht van de Commissie; deze geeft richtlijnen aan het Agentschap, heeft het recht van veto over zijn beslissingen en benoemt zijn directeur-generaal, alsmede zijn adjunct-directeur-generaal.
 
-Iedere stilzwijgende of uitdrukkelijke handeling door het Agentschap verricht in de uitoefening van zijn optierecht of van zijn uitsluitend recht om leveringscontracten te sluiten, kan door belanghebbenden aan de Commissie worden voorgelegd; de Commissie neemt binnen een maand een beschikking.
+Iedere stilzwijgende of uitdrukkelijke handeling door het Agentschap verricht in de uitoefening van zijn optierecht of van zijn uitsluitend recht om leveringscontracten te sluiten, kan door belanghebbenden aan de Commissie worden voorgelegd; de Commissie neemt binnen een maand een besluit.
 
 ##### Artikel 54
 
@@ -652,7 +640,7 @@ Wanneer het Agentschap zijn optierecht niet uitoefent ten aanzien van de gehele 
 
 - a). kan de producent hetzij met eigen middelen, hetzij door middel van contracten voor loonveredeling, de ertsen, grondstoffen of bijzondere splijtstoffen verwerken, onder voorbehoud dat hij het Agentschap het produkt van deze verwerking aanbiedt,
 
-- b). wordt de producent bij beschikking van de Commissie toestemming verleend om de beschikbare produktie buiten de Gemeenschap te verkopen onder voorbehoud dat geen gunstiger voorwaarden worden bedongen dan bij het eerder gedane aanbod aan het Agentschap. De uitvoer van bijzondere splijtstoffen kan echter slechts door het Agentschap geschieden overeenkomstig de bepalingen van artikel 62.
+- b). wordt de producent bij besluit van de Commissie toestemming verleend om de beschikbare produktie buiten de Gemeenschap te verkopen onder voorbehoud dat geen gunstiger voorwaarden worden bedongen dan bij het eerder gedane aanbod aan het Agentschap. De uitvoer van bijzondere splijtstoffen kan echter slechts door het Agentschap geschieden overeenkomstig de bepalingen van artikel 62.
 
 De Commissie mag haar toestemming niet verlenen, indien de ontvangers van deze leveranties niet alle waarborgen bieden dat de algemene belangen van de Gemeenschap zullen worden geëerbiedigd of indien de bepalingen en voorwaarden van deze contracten in strijd zijn met de doelstellingen van dit Verdrag.
 
@@ -830,11 +818,11 @@ De Commissie kan inspecteurs zenden naar het grondgebied van de Lid-Staten. De C
 
 De inspecteurs hebben, op vertoon van een document waaruit hun hoedanigheid blijkt, te allen tijde toegang tot alle plaatsen, alle gegevens en alle personen, die zich uit hoofde van hun beroep bezighouden met krachtens dit hoofdstuk aan controle onderworpen materialen, uitrustingen of installaties, voor zover dit noodzakelijk is om de ertsen, grondstoffen en bijzondere splijtstoffen te controleren en er zich van te vergewissen, of de bepalingen van artikel 77 worden nageleefd. Indien de betrokken Staat zulks verzoekt, worden de door de Commissie aangewezen inspecteurs vergezeld van vertegenwoordigers van de autoriteiten van deze Staat, op voorwaarde dat de inspecteurs daardoor niet worden opgehouden of op andere wijze in de uitoefening van hun functie worden gehinderd.
 
-Bij verzet tegen de uitoefening van controle dient de Commissie aan de president van het Hof van Justitie een bevelschrift te vragen, ten einde met dwangmiddelen de uitvoering van de controle te verzekeren. De president van het Hof van Justitie beslist hierover binnen drie dagen.
+Bij verzet tegen de uitoefening van controle dient de Commissie aan de president van het Hof van Justitie van de Europese Unie een bevelschrift te vragen, ten einde met dwangmiddelen de uitvoering van de controle te verzekeren. De president van het Hof van Justitie van de Europese Unie beslist hierover binnen drie dagen.
 
-Indien uitstel gevaar oplevert, kan de Commissie zelf een schriftelijk controlebevel afgeven in de vorm van een beschikking. Dit bevel moet onverwijld ter goedkeuring achteraf aan de president van het Hof van Justitie worden voorgelegd.
+Indien uitstel gevaar oplevert, kan de Commissie zelf een schriftelijk controlebevel afgeven in de vorm van een besluit. Dit bevel moet onverwijld ter goedkeuring achteraf aan de president van het Hof van Justitie van de Europese Unie worden voorgelegd.
 
-Na afgifte van het bevelschrift of van de beschikking dragen de instanties van de betrokken Staat er zorg voor dat de inspecteurs toegang krijgen tot de in het bevelschrift of de beschikking bepaalde plaatsen.
+Na afgifte van het bevelschrift of van het besluit dragen de instanties van de betrokken Staat er zorg voor dat de inspecteurs toegang krijgen tot de in het bevelschrift of het besluit bepaalde plaatsen.
 
 ##### Artikel 82
 
@@ -842,9 +830,9 @@ De inspecteurs worden door de Commissie in dienst genomen.
 
 Zij zijn verplicht zich de in artikel 79 bedoelde rekening en verantwoording te doen voorleggen en deze na te zien. Zij brengen aan de Commissie van elke schending verslag uit.
 
-De Commissie kan een richtlijn vaststellen waarbij zij de betrokken Lid-Staat gelast, binnen een door haar te stellen termijn alle maatregelen te nemen, die noodzakelijk zijn om een einde te maken aan de vastgestelde schending; zij stelt de Raad daarvan op de hoogte.
+De Commissie kan een richtlijn vaststellen waarbij zij de betrokken lidstaat gelast, binnen een door haar te stellen termijn alle maatregelen te nemen, die noodzakelijk zijn om een einde te maken aan de vastgestelde schending; zij stelt de Raad daarvan op de hoogte.
 
-Indien de Lid-Staat zich binnen de gestelde termijn niet aan deze richtlijn van de Commissie onderwerpt, kan de Commissie of elke betrokken Lid-Staat, in afwijking van de artikelen 141 en 142, de zaak onmiddellijk aanhangig maken bij het Hof van Justitie.
+Indien de lidstaat zich binnen de gestelde termijn niet aan deze richtlijn van de Commissie onderwerpt, kan de Commissie of elke betrokken lidstaat, in afwijking van de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=258) en [259 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=259), de zaak onmiddellijk aanhangig maken bij het Hof van Justitie van de Europese Unie.
 
 ##### Artikel 83
 
@@ -860,15 +848,15 @@ Deze sancties zijn, naar hun gewicht gerangschikt, de volgende:
 
 - d). het geheel of gedeeltelijk intrekken van grondstoffen of van bijzondere splijtstoffen.
 
-2. De beschikkingen van de Commissie houdende verplichting tot levering welke zijn vastgesteld ter uitvoering van het voorgaande lid, vormen een executoriale titel. Zij kunnen op het grondgebied van de Lid-Staten ten uitvoer worden gelegd, onder de in artikel 164 vastgestelde voorwaarden.
+2. De besluiten van de Commissie houdende verplichting tot levering welke zijn vastgesteld ter uitvoering van het voorgaande lid, vormen een executoriale titel. Zij kunnen op het grondgebied van de Lid-Staten ten uitvoer worden gelegd, onder de in artikel 164 vastgestelde voorwaarden.
 
-In afwijking van de bepalingen van artikel 157 heeft het beroep bij het Hof van Justitie tegen de beschikkingen van de Commissie waarbij sancties worden opgelegd als bepaald in het voorgaande lid, schorsende werking. Het Hof van Justitie kan echter, op verzoek van de Commissie of van elke betrokken Lid-Staat, de onmiddellijke tenuitvoerlegging van de beschikking bevelen.
+In afwijking van de bepalingen van artikel 157 heeft het beroep bij het Hof van Justitie van de Europese Unie tegen de besluiten van de Commissie waarbij sancties worden opgelegd als bepaald in het voorgaande lid, schorsende werking. Het Hof van Justitie van de Europese Unie kan echter, op verzoek van de Commissie of van elke betrokken Lid-Staat, de onmiddellijke tenuitvoerlegging van het besluit bevelen.
 
 De bescherming der geschade belangen moet door een passende rechtsprocedure worden gewaarborgd.
 
 3. De Commissie kan de Lid-Staten alle aanbevelingen doen met betrekking tot de wettelijke of bestuursrechtelijke bepalingen, welke ten doel hebben de naleving op hun grondgebied van de uit dit hoofdstuk voortvloeiende verplichtingen te verzekeren.
 
-4. De Lid-Staten zijn gehouden er voor te zorgen, dat de santies ten uitvoer worden gelegd en, in voorkomende gevallen, dat schade, veroorzaakt door de inbreuken, wordt hersteld door hen die zich aan deze inbreuken hebben schuldig gemaakt.
+4. De Lid-Staten zijn gehouden er voor te zorgen, dat de sancties ten uitvoer worden gelegd en, in voorkomende gevallen, dat schade, veroorzaakt door de inbreuken, wordt hersteld door hen die zich aan deze inbreuken hebben schuldig gemaakt.
 
 ##### Artikel 84
 
@@ -990,7 +978,7 @@ De Lid-Staten zijn gehouden aan de Commissie mededeling te doen van hun ontwerp-
 
 Wanneer een ontwerp-akkoord of ontwerp-overeenkomst bepalingen bevat welke een beletsel vormen voor de toepassing van dit Verdrag, richt de Commissie haar opmerkingen tot de betrokken Staat binnen een termijn van een maand na de ontvangst van de mededeling welke haar is gedaan.
 
-Deze Staat kan het ontworpen akkoord of de ontworpen overeenkomst niet sluiten dan na de bezwaren van de Commissie te hebben opgeheven of zich te hebben geschikt naar de uitspraak die het Hof van Justitie op zijn verzoek onverwijld heeft gedaan ten aanzien van de verenigbaarheid der ontworpen clausules met de bepalingen van dit Verdrag. Het verzoek kan bij het Hof van Justitie worden ingediend op ieder tijdstip nadat de Staat de opmerkingen van de Commissie heeft ontvangen.
+Deze Staat kan het ontworpen akkoord of de ontworpen overeenkomst niet sluiten dan na de bezwaren van de Commissie te hebben opgeheven of zich te hebben geschikt naar de uitspraak die het Hof van Justitie van de Europese Unie op zijn verzoek onverwijld heeft gedaan ten aanzien van de verenigbaarheid der ontworpen clausules met de bepalingen van dit Verdrag. Het verzoek kan bij het Hof van Justitie van de Europese Unie worden ingediend op ieder tijdstip nadat de Staat de opmerkingen van de Commissie heeft ontvangen.
 
 ##### Artikel 104
 
@@ -998,13 +986,13 @@ Geen persoon of onderneming die na 1 januari 1958 of, voor de toetredende staten
 
 Iedere Lid-Staat neemt alle maatregelen welke hij noodzakelijk oordeelt om aan de Commissie, op haar verzoek, mededeling te doen van alle inlichtingen betreffende de akkoorden of overeenkomsten die na de in de voorgaande alinea bedoelde data en binnen de werkingssfeer van dit Verdrag door enige persoon of onderneming zijn gesloten met een derde Staat, een internationale organisatie of een onderdaan van een derde Staat. De Commissie kan deze mededeling uitsluitend verlangen om na te gaan of deze akkoorden of overeenkomsten geen clausules bevatten welke een beletsel vormen voor de toepassing van dit Verdrag.
 
-Op verzoek van de Commissie spreekt het Hof van Justitie zich uit over de verenigbaarheid van deze akkoorden of overeenkomsten met de bepalingen van dit Verdrag.
+Op verzoek van de Commissie spreekt het Hof van Justitie van de Europese Unie zich uit over de verenigbaarheid van deze akkoorden of overeenkomsten met de bepalingen van dit Verdrag.
 
 ##### Artikel 105
 
 De bepalingen van dit Verdrag kunnen niet worden ingeroepen tegen de uitvoering van akkoorden of overeenkomsten die een Lid-Staat, een persoon of een onderneming vóór 1 januari 1958 of, voor de toetredende staten, vóór de datum van hun toetreding, van dit Verdrag heeft gesloten met een derde Staat, een internationale organisatie of een onderdaan van een derde Staat, indien van deze akkoorden of overeenkomsten uiterlijk dertig dagen na de genoemde data aan de Commissie mededeling is gedaan.
 
-Nochtans kunnen akkoorden of overeenkomsten die een persoon of een onderneming tussen 25 maart 1957 en 1 januari 1958 of, voor de toetredende staten, tussen de ondertekening van de Toetredingsakte en de datum van hun toetreding, heeft gesloten met een derde Staat, een internationale organisatie of een onderdaan van een derde Staat, niet worden ingeroepen tegen dit Verdrag, indien naar het oordeel van het Hof van Justitie, dat op verzoek van de Commissie uitspraak doet, de bedoeling zich aan de bepalingen van dit Verdrag te onttrekken voor een van beide partijen een der doorslaggevende beweegredenen tot het aangaan van het akkoord of de overeenkomst is geweest.
+Nochtans kunnen akkoorden of overeenkomsten die een persoon of een onderneming tussen 25 maart 1957 en 1 januari 1958 of, voor de toetredende staten, tussen de ondertekening van de Toetredingsakte en de datum van hun toetreding, heeft gesloten met een derde Staat, een internationale organisatie of een onderdaan van een derde Staat, niet worden ingeroepen tegen dit Verdrag, indien naar het oordeel van het Hof van Justitie van de Europese Unie, dat op verzoek van de Commissie uitspraak doet, de bedoeling zich aan de bepalingen van dit Verdrag te onttrekken voor een van beide partijen een der doorslaggevende beweegredenen tot het aangaan van het akkoord of de overeenkomst is geweest.
 
 ##### Artikel 106
 
@@ -1012,299 +1000,135 @@ De Lid-Staten die vóór 1 januari 1958 of, voor de toetredende staten, vóór d
 
 Ieder nieuw akkoord dat uit deze onderhandelingen voortvloeit behoeft de toestemming van de Lid-Staat of Lid-Staten welke de bovenbedoelde akkoorden hebben ondertekend, alsook de goedkeuring van de Raad, die met gekwalificeerde meerderheid van stemmen besluit.
 
-## TITEL DERDE. BEPALINGEN INZAKE DE INSTELLINGEN
+## TITEL DERDE. Institutionele en financiële bepalingen
 
-### HOOFDSTUK I. De instellingen van de Gemeenschap
+### Hoofdstuk 1. Toepassing van het aantal bepalingen van het [verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506)
 
 ### Afdeling I. - De Vergadering
 
 ##### Artikel 107
 
-De Vergadering, bestaande uit vertegenwoordigers van de volkeren van de Staten die in de Gemeenschap zijn verenigd, oefent de haar door dit Verdrag verleende bevoegdheden om te beraadslagen en te besluiten, alsmede om toezicht uit te oefenen, uit.
-
-Het aantal leden van het Europees Parlement bedraagt niet meer dan 736.
+Vervallen
 
 ##### Artikel 107 A
 
-Het Europees Parlement kan met meerderheid van stemmen van zijn leden de Commissie verzoeken passende voorstellen in te dienen inzake aangelegenheden die naar het oordeel van het Parlement communautaire besluiten voor de tenuitvoerlegging van dit Verdrag vergen.
+Vervallen
 
 ##### Artikel 107 B
 
-In het kader van de vervulling van zijn taken kan het Europees Parlement, op verzoek van een vierde van zijn leden, een tijdelijke enquêtecommissie instellen om, onverminderd de bij dit Verdrag aan andere Instellingen of organen verleende bevoegdheden, vermeende inbreuken op het Gemeenschapsrecht of gevallen van wanbeheer bij de toepassing van het Gemeenschapsrecht te onderzoeken, behalve wanneer de vermeende feiten het voorwerp van een gerechtelijke procedure uitmaken en zolang deze procedure nog niet is voltooid.
-
-De tijdelijke enquêtecommissie houdt op te bestaan zodra zij haar verslag heeft ingediend.
-
-De nadere bepalingen betreffende de uitoefening van het enquêterecht worden in onderlinge overeenstemming vastgesteld door het Europees Parlement, de Raad en de Commissie.
+Vervallen
 
 ##### Artikel 107 C
 
-Iedere burger van de Unie, alsmede iedere natuurlijke of rechtspersoon met verblijfplaats of statutaire zetel in een Lid-Staat heeft het recht om individueel of te zamen met andere burgers of personen een verzoekschrift tot het Europees Parlement te richten betreffende een onderwerp dat tot de werkterreinen van de Gemeenschap behoort en dat hem of haar rechtstreeks aangaat.
+Vervallen
 
 ##### Artikel 107 D
 
-1. Het Europees Parlement benoemt een ombudsman die bevoegd is kennis te nemen van klachten van burgers van de Unie of van natuurlijke of rechtspersonen met verblijfplaats of statutaire zetel in een Lid-Staat over gevallen van wanbeheer bij het optreden van de communautaire Instellingen of organen, met uitzondering van het Hof van Justitie en het Gerecht van eerste aanleg bij de uitoefening van hun gerechtelijke taak.
-
-Overeenkomstig zijn opdracht verricht de ombudsman het door hem gerechtvaardigd geachte onderzoek op eigen initiatief dan wel op basis van klachten welke hem rechtstreeks of via een lid van het Europees Parlement zijn voorgelegd, behalve wanneer de vermeende feiten het voorwerp van een gerechtelijke procedure uitmaken of hebben uitgemaakt. Indien de ombudsman een geval van wanbeheer heeft vastgesteld, legt hij de zaak voor aan de betrokken Instelling, die over een termijn van drie maanden beschikt om hem haar standpunt mede te delen. De ombudsman doet vervolgens een verslag aan het Europees Parlement en aan de betrokken Instelling toekomen. De persoon die de klacht heeft ingediend wordt op de hoogte gebracht van het resultaat van dit onderzoek.
-
-De ombudsman legt elk jaar aan het Europees Parlement een verslag voor met het resultaat van zijn onderzoeken.
-
-2. Na elke verkiezing voor het Europees Parlement wordt de ombudsman voor de zittingsduur van deze Instelling benoemd. Hij is herbenoembaar.
-
-Op verzoek van het Europees Parlement kan de ombudsman door het Hof van Justitie van zijn ambt worden ontheven, indien hij niet meer aan de eisen voor de uitoefening van zijn ambt voldoet of op ernstige wijze is tekortgeschoten.
-
-3. De ombudsman oefent zijn ambt volkomen onafhankelijk uit. Bij de vervulling van zijn taken vraagt noch aanvaardt hij instructies van enig lichaam. Gedurende zijn ambtsperiode mag de ombudsman geen andere beroepswerkzaamheden, al dan niet tegen beloning, verrichten.
-
-4. Het Europees Parlement stelt na advies van de Commissie en met goedkeuring van de Raad, die met gekwalificeerde meerderheid van stemmen een besluit neemt, het statuut van de ombudsman en de algemene voorwaarden voor de uitoefening van het ambt van ombudsman vast.
+Vervallen
 
 ##### Artikel 108
 
-1. De vertegenwoordigers in het Europees Parlement van de volkeren van de in de Gemeenschap verenigde staten worden gekozen door middel van rechtstreekse algemene verkiezingen.
-
-2. Het aantal in elke lidstaat gekozen vertegenwoordigers is als volgt vastgesteld:
-
-| België | 22 |
-| --- | --- |
-| Bulgarije | 17 |
-| Tsjechië | 22 |
-| Denemarken | 13 |
-| Duitsland | 99 |
-| Estland | 6 |
-| Griekenland | 22 |
-| Spanje | 50 |
-| Frankrijk | 72 |
-| Ierland | 12 |
-| Italië | 72 |
-| Cyprus | 6 |
-| Letland | 8 |
-| Litouwen | 12 |
-| Luxemburg | 6 |
-| Hongarije | 22 |
-| Malta | 5 |
-| Nederland | 25 |
-| Oostenrijk | 17 |
-| Polen | 50 |
-| Portugal | 22 |
-| Roemenië | 33 |
-| Slovenië | 7 |
-| Slowakije | 13 |
-| Finland | 13 |
-| Zweden | 18 |
-| Verenigd Koninkrijk | 72. |
-
-3. De vertegenwoordigers worden gekozen voor een periode van vijf jaar.
-
-4. Het Europees Parlement stelt een ontwerp op voor het houden van rechtstreekse algemene verkiezingen volgens een in alle lidstaten eenvormige procedure of volgens beginselen die alle lidstaten gemeen hebben.
-
-De Raad stelt met eenparigheid van stemmen en met instemming van het Europees Parlement, dat met meerderheid van stemmen van zijn leden een besluit neemt, de desbetreffende bepalingen vast, waarvan hij de aanneming door de Lid-Staten overeenkomstig hun onderscheiden grondwettelijke bepalingen aanbeveelt.
-
-5. Het Europees Parlement bepaalt, na raadpleging van de Commissie en met goedkeuring van de Raad die hiertoe met gekwalificeerde meerderheid van stemmen een besluit neemt, de voorschriften en algemene voorwaarden voor de vervulling van de taken van zijn leden. Voor regels en voorwaarden betreffende de belastingregeling voor huidige of voormalige leden is eenparigheid van stemmen in de Raad vereist.
+Vervallen
 
 ##### Artikel 109
 
-De Vergadering houdt jaarlijks een zitting. Zij komt van rechtswege de tweede dinsdag van maart bijeen.
-
-De Vergadering kan in buitengewone zitting bijeenkomen op verzoek van de meerderheid harer leden, van de Raad of van de Commissie.
+Vervallen
 
 ##### Artikel 110
 
-De Vergadering kiest uit haar midden haar voorzitter en haar bureau.
-
-De leden van de Commissie kunnen alle vergaderingen bijwonen en worden op hun verzoek in naam van de Commissie gehoord.
-
-De Commissie antwoordt mondeling of schriftelijk op de haar door de Vergadering of door de leden daarvan gestelde vragen.
-
-De Raad wordt door de Vergadering gehoord volgens de bepalingen, welke hij in zijn reglement van orde vaststelt.
+Vervallen
 
 ##### Artikel 111
 
-Voor zover in dit Verdrag niet anders is bepaald, besluit de Vergadering met volstrekte meerderheid der uitgebrachte stemmen.
-
-Het reglement van orde bepaalt het quorum.
+Vervallen
 
 ##### Artikel 112
 
-De Vergadering stelt haar reglement van orde vast bij meerderheid van stemmen van haar leden.
-
-De handelingen van de Vergadering worden overeenkomstig de bepalingen van dat reglement bekendgemaakt.
+Vervallen
 
 ##### Artikel 113
 
-De Vergadering beraadslaagt in openbare zitting over het algemene jaarverslag, dat haar door de Commissie wordt voorgelegd.
+Vervallen
 
 ##### Artikel 114
 
-Wanneer aan de Vergadering een motie van afkeuring betreffende het beleid van de Commissie wordt voorgelegd, kan de Vergadering zich over deze motie niet eerder uitspreken dan ten minste drie dagen nadat de motie is ingediend en slechts bij openbare stemming.
-
-Indien de motie van afkeuring is aangenomen met een meerderheid van twee derden der uitgebrachte stemmen en tevens bij meerderheid van de leden der Vergadering, moeten de leden van de Commissie gezamenlijk aftreden. Zij blijven de lopende zaken behartigen tot in hun vervanging is voorzien overeenkomstig artikel 127. In dat geval verstrijkt de ambtsperiode van de te hunner vervanging benoemde leden van de Commissie op de datum waarop de ambtstermijn van de gezamenlijk tot aftreden gedwongen leden zou zijn verstreken.
+Vervallen
 
 ### Afdeling II. - De Raad
 
 ##### Artikel 115
 
-De Raad oefent zijn beslissingsbevoegdheid en zijn overige bevoegdheden uit overeenkomstig de bepalingen van dit Verdrag.
-
-Hij neemt alle maatregelen die tot zijn bevoegdheid behoren ten einde het optreden van de Lid-Staten en van de Gemeenschap te coördineren.
+Vervallen
 
 ##### Artikel 116
 
-De Raad bestaat uit een vertegenwoordiger van elke Lid-Staat op ministerieel niveau die gemachtigd is om de Regering van de Lid-Staat die hij vertegenwoordigt, te binden.
-
-Het voorzitterschap wordt in de Raad door elke Lid-Staat bij toerbeurt uitgeoefend voor de tijd van zes maanden, in de volgorde die door de Raad met eenparigheid van stemmen wordt vastgesteld.
+Vervallen
 
 ##### Artikel 117
 
-De Raad wordt door zijn Voorzitter, op diens initiatief, op initiatief van één van zijn leden of van de Commissie, in vergadering bijeengeroepen.
+Vervallen
 
 ##### Artikel 118
 
-1. Voor zover in dit Verdrag niet anders is bepaald, neemt de Raad zijn besluiten met volstrekte meerderheid van stemmen van zijn leden.
-
-2. Voor de besluiten van de Raad waarvoor een gekwalificeerde meerderheid is vereist, worden de stemmen der leden als volgt gewogen:
-
-| België | 12 |
-| --- | --- |
-| Bulgarije | 10 |
-| Tsjechië | 12 |
-| Denemarken | 7 |
-| Duitsland | 29 |
-| Estland | 4 |
-| Griekenland | 12 |
-| Spanje | 27 |
-| Frankrijk | 29 |
-| Ierland | 7 |
-| Italië | 29 |
-| Cyprus | 4 |
-| Letland | 4 |
-| Litouwen | 7 |
-| Luxemburg | 4 |
-| Hongarije | 12 |
-| Malta | 3 |
-| Nederland | 13 |
-| Oostenrijk | 10 |
-| Polen | 27 |
-| Portugal | 12 |
-| Roemenië | 14 |
-| Slovenië | 4 |
-| Slowakije | 7 |
-| Finland | 7 |
-| Zweden | 10 |
-| Verenigd Koninkrijk | 29 |
-
-De besluiten van de Raad komen tot stand wanneer zij ten minste 255 stemmen hebben verkregen en de meerderheid van de leden voorstemt, ingeval zij krachtens dit Verdrag moeten worden genomen op voorstel van de Commissie.
-
-In de overige gevallen komen de besluiten tot stand wanneer zij ten minste 255 stemmen hebben verkregen en ten minste twee derden van de leden voorstemmen.
-
-3. Onthouding van stemming door aanwezige of vertegenwoordigde leden vormt geen beletsel voor het aannemen der besluiten van de Raad waarvoor eenparigheid van stemmen is vereist.
-
-4. Een lid van de Raad kan verlangen dat bij besluitvorming met gekwalificeerde meerderheid van stemmen wordt nagegaan of de lidstaten die de gekwalificeerde meerderheid vormen ten minste 62% van de totale bevolking van de Unie vertegenwoordigen. Indien blijkt dat niet aan deze voorwaarde is voldaan, is het besluit niet aangenomen.
+Vervallen
 
 ##### Artikel 119
 
-Wanneer op grond van dit Verdrag een besluit van de Raad wordt genomen op voorstel van de Commissie, kan de Raad slechts met eenparigheid van stemmen een besluit nemen dat van dit voorstel afwijkt.
-
-Zolang de Raad geen besluit heeft genomen, kan de Commissie haar oorspronkelijk voorstel wijzigen, met name ingeval de Vergadering omtrent dit voorstel is geraadpleegd.
+Vervallen
 
 ##### Artikel 120
 
-Ieder lid van de Raad kan slechts door één ander lid worden gemachtigd om namens hem te stemmen.
+Vervallen
 
 ##### Artikel 121
 
-1. Een comité, bestaande uit de permanente vertegenwoordigers van de lidstaten, heeft tot taak de werkzaamheden van de Raad voor te bereiden en de door de Raad verstrekte opdrachten uit te voeren. Het comité kan in de in het reglement van orde van de Raad genoemde gevallen procedurebesluiten nemen.
-
-2. De Raad wordt bijgestaan door een secretariaat-generaal onder verantwoordelijkheid van een secretaris-generaal, hoge vertegenwoordiger voor het gemeenschappelijk buitenlands en veiligheidsbeleid, die wordt bijgestaan door een plaatsvervangend secretaris-generaal, die tot taak heeft het secretariaat-generaal te leiden. De secretaris-generaal en de plaatsvervangend secretaris-generaal worden door de Raad met gekwalificeerde meerderheid van stemmen benoemd.
-
-De Raad beslist over de organisatie van het secretariaat-generaal.
-
-3. De Raad stelt zijn reglement van orde vast.
+Vervallen
 
 ##### Artikel 122
 
-De Raad kan de Commissie verzoeken, alle studies die hij wenselijk acht ter verwezenlijking van de gemeenschappelijke doelstellingen te verrichten en hem alle ter zake dienende voorstellen te doen.
+Vervallen
 
 ##### Artikel 123
 
-De Raad stelt met gekwalificeerde meerderheid van stemmen de wedden, vergoedingen en pensioenen vast van de voorzitter en de leden van de Commissie, van de president, de rechters en de griffier van, alsmede van de advocaten-generaal bij het Hof van Justitie. De Raad stelt, met dezelfde meerderheid, eveneens alle vergoedingen vast welke als beloning kunnen gelden.
+Vervallen
 
 ### Afdeling III. - De Commissie
 
 ##### Artikel 124
 
-Ten einde de ontwikkeling van de kernenergie binnen de Gemeenschap te verzekeren
-
-- -. ziet de Commissie toe op de toepassing zowel van de bepalingen van dit Verdrag als van de bepalingen welke de instellingen krachtens dit Verdrag vaststellen,
-
-- -. doet de Commissie aanbevelingen of brengt zij adviezen uit op de in dit Verdrag omschreven gebieden, indien het Verdrag dit uitdrukkelijk voorschrijft of indien zij het noodzakelijk acht,
-
-- -. heeft de Commissie een eigen beslissingsbevoegdheid en werkt zij mede aan de totstandkoming van de handelingen van de Raad en van de Vergadering overeenkomstig de bepalingen van dit Verdrag,
-
-- -. oefent de Commissie de bevoegdheden uit welke de Raad haar verleent ter uitvoering van de regels die hij stelt.
+Vervallen
 
 ##### Artikel 125
 
-Jaarlijks, ten minste een maand vóór de opening van de zitting van het Europees Parlement, publiceert de Commissie een algemeen verslag over de werkzaamheden van de Gemeenschap.
+Vervallen
 
 ##### Artikel 126
 
-1. De leden van de Commissie worden op grond van hun algemene bekwaamheid gekozen en bieden alle waarborgen voor onafhankelijkheid.
-
-In de Commissie heeft een onderdaan van elke lidstaat zitting.
-
-Het aantal leden van de Commissie kan door de Raad met eenparigheid van stemmen worden gewijzigd.
-
-2. De leden van de Commissie oefenen hun ambt volkomen onafhankelijk uit in het algemeen belang van de Gemeenschap.
-
-Bij de vervulling van hun taken vragen noch aanvaarden zij instructies van enige regering of enig ander lichaam. Zij onthouden zich van iedere handeling welke onverenigbaar is met het karakter van hun ambt. Iedere Lid-Staat verbindt zich, dit karakter te eerbiedigen en niet te trachten de leden van de Commissie te beïnvloeden bij de uitvoering van hun taak.
-
-De leden van de Commissie mogen gedurende hun ambtsperiode geen andere beroepswerkzaamheden, al dan niet tegen beloning, verrichten. Bij hun ambtsaanvaarding verbinden zij zich plechtig om gedurende hun ambtsperiode en na afloop daarvan de uit hun taak voortvloeiende verplichtingen na te komen, in het bijzonder eerlijkheid en kiesheid te betrachten in het aanvaarden van bepaalde functies of voordelen na afloop van die ambtsperiode. Ingeval deze verplichtingen niet worden nagekomen, kan de Raad of de Commissie zich wenden tot het Hof van Justitie, dat, al naar het geval, ontslag ambtshalve volgens artikel 129 of verval van het recht op pensioen of van andere, daarvoor in de plaats tredende voordelen kan uitspreken.
+Vervallen
 
 ##### Artikel 127
 
-1. De leden van de Commissie worden volgens de procedure van lid 2 voor een periode van vijfjaar benoemd, behoudens, in voorkomend geval, artikel 114.
-
-Zij zijn herbenoembaar.
-
-2. De Raad, in de samenstelling van staatshoofden en regeringsleiders, draagt met gekwalificeerde meerderheid van stemmen de persoon voor die hij voornemens is tot voorzitter van de Commissie te benoemen; de voordracht wordt door het Europees Parlement goedgekeurd.
-
-In onderlinge overeenstemming met de voorgedragen voorzitter stelt de Raad met gekwalificeerde meerderheid van stemmen de overeenkomstig de voordrachten van de lidstaten opgestelde lijst vast van de overige personen die hij voornemens is tot lid van de Commissie te benoemen.
-
-De aldus voorgedragen voorzitter en overige leden van de Commissie worden als college ter goedkeuring onderworpen aan een stemming van het Europees Parlement. Na goedkeuring door het Europees Parlement worden de voorzitter en de overige leden van de Commissie door de Raad met gekwalificeerde meerderheid van stemmen benoemd.
+Vervallen
 
 ##### Artikel 128
 
-Behalve door regelmatige vervanging of door overlijden eindigt de ambtsvervulling van een lid van de Commissie door vrijwillig ontslag of ontslag ambtshalve.
-
-In geval van ontslag of overlijden wordt het lid voor de verdere duur van zijn ambtstermijn vervangen door een nieuw lid dat door de Raad met gekwalificeerde meerderheid van stemmen wordt benoemd. De Raad kan met eenparigheid van stemmen besluiten dat er geen reden voor vervanging is.
-
-In geval van vrijwillig ontslag, ontslag ambtshalve of overlijden wordt de voorzitter voor de verdere duur van zijn ambtstermijn vervangen. De procedure van artikel 127, lid 2, is van toepassing voor de vervanging van de voorzitter.
-
-Behoudens in geval van ontslag ambtshalve overeenkomstig artikel 129, blijven de leden van de Commissie in functie totdat in hun vervanging is voorzien of totdat de Raad overeenkomstig de tweede alinea van dit artikel besluit dat er geen reden voor vervanging is.
+Vervallen
 
 ##### Artikel 129
 
-Op verzoek van de Raad of van de Commissie kan elk lid van de Commissie dat niet meer aan de eisen voor de uitoefening van zijn ambt voldoet of op ernstige wijze is tekortgeschoten, door het Hof van Justitie van zijn ambt ontheven worden verklaard.
+Vervallen
 
 ##### Artikel 130
 
-1. De Commissie vervult haar opdracht met inachtneming van de door haar voorzitter vastgestelde politieke richtsnoeren; de voorzitter besluit over de interne organisatie van de Commissie, teneinde de samenhang, de doeltreffendheid en het collegiale karakter van haar optreden te waarborgen.
-
-2. De taken van de Commissie worden door de voorzitter gestructureerd en over de leden van de Commissie verdeeld. De voorzitter kan de taakverdeling tijdens de ambtstermijn wijzigen. De leden van de Commissie oefenen de hun door de voorzitter toegewezen taak uit onder diens gezag.
-
-3. De voorzitter benoemt na goedkeuring van het college vice-voorzitters uit de leden van de Commissie.
-
-4. Een lid van de Commissie dient zijn ontslag in, indien de voorzitter hem daarom na goedkeuring van het college verzoekt.
+Vervallen
 
 ##### Artikel 131
 
-De Raad en de Commissie raadplegen elkaar en bepalen in onderlinge overeenstemming de wijze waarop zij samenwerken.
-
-De Commissie stelt haar reglement van orde vast ten einde te verzekeren dat zij en haar diensten overeenkomstig de bepalingen van dit Verdrag werkzaam zijn. Zij zorgt voor de bekendmaking van dat reglement.
+Vervallen
 
 ##### Artikel 132
 
-De besluiten van de Commissie worden genomen bij meerderheid van stemmen van het in artikel 126 bepaalde aantal leden.
-
-De Commissie kan slechts geldig zitting houden, indien het in haar reglement van orde bepaalde aantal leden aanwezig is.
+Vervallen
 
 ##### Artikel 133
 
@@ -1330,113 +1154,47 @@ De Commissie kan een ieder raadplegen en alle studiecomités instellen noodzakel
 
 ##### Artikel 136
 
-Het Hof van Justitie en het Gerecht van eerste aanleg verzekeren, in het kader van hun respectieve bevoegdheden, de eerbiediging van het recht bij de uitlegging en toepassing van dit Verdrag.
-
-Bovendien kunnen, op de wijze die in artikel 140 B is bepaald, aan het Gerecht van eerste aanleg rechterlijke kamers worden toegevoegd om op sommige specifieke gebieden rechterlijke bevoegdheden uit te oefenen waarin dit Verdrag voorziet.
+Vervallen
 
 ##### Artikel 137
 
-Het Hof van Justitie bestaat uit een rechter per lidstaat.
-
-Het Hof van Justitie houdt zitting in kamers of als grote kamer, overeenkomstig de regels die daartoe in het statuut van het Hof van Justitie zijn vastgesteld.
-
-Wanneer het statuut daarin voorziet, kan het Hof van Justitie ook in voltallige zitting bijeenkomen.
+Vervallen
 
 ##### Artikel 138
 
-Het Hof van Justitie wordt bijgestaan door acht advocaten-generaal. Indien het Hof van Justitie zulks verzoekt, kan de Raad met eenparigheid van stemmen het aantal advocaten-generaal verhogen.
-
-De advocaat-generaal heeft tot taak, in het openbaar in volkomen onpartijdigheid en onafhankelijkheid met redenen omklede conclusies te nemen aangaande zaken waarin zulks overeenkomstig het statuut van het Hof van Justitie vereist is.
+Vervallen
 
 ##### Artikel 139
 
-De rechters en de advocaten-generaal van het Hof van Justitie, gekozen uit personen die alle waarborgen voor onafhankelijkheid bieden en aan alle gestelde eisen voldoen om in hun onderscheiden landen de hoogste rechterlijke ambten te bekleden, of die bekend staan als kundige rechtsgeleerden, worden in onderlinge overeenstemming door de regeringen van de lidstaten voor zes jaar benoemd.
-
-Om de drie jaar vindt, op de wijze die in het statuut van het Hof van Justitie is bepaald, een gedeeltelijke vervanging van de rechters en de advocaten-generaal plaats.
-
-De rechters kiezen uit hun midden voor drie jaar de president van het Hof van Justitie. Hij is herkiesbaar.
-
-De aftredende rechters en advocaten-generaal zijn herbenoembaar.
-
-Het Hof van Justitie benoemt zijn griffier en bepaalt diens positie.
-
-Het Hof van Justitie stelt zijn reglement voor de procesvoering vast. Dit reglement behoeft de goedkeuring van de Raad, die met gekwalificeerde meerderheid van stemmen besluit.
+Vervallen
 
 ##### Artikel 140
 
-Het Gerecht van eerste aanleg telt ten minste één rechter per lidstaat. Het aantal rechters wordt vastgesteld bij het statuut van het Hof van Justitie. In het statuut kan worden bepaald dat het Gerecht wordt bijgestaan door advocaten-generaal.
-
-De leden van het Gerecht van eerste aanleg worden gekozen uit personen die alle waarborgen voor onafhankelijkheid bieden en bekwaam zijn hoge rechterlijke ambten te bekleden. Zij worden in onderlinge overeenstemming door de regeringen van de lidstaten voor zes jaar benoemd. Om de drie jaar vindt een gedeeltelijke vervanging plaats. De aftredende leden zijn herbenoembaar.
-
-De rechters kiezen uit hun midden voor drie jaar de president van het Gerecht van eerste aanleg. Hij is herkiesbaar.
-
-Het Gerecht van eerste aanleg benoemt zijn griffier en bepaalt diens positie.
-
-Het Gerecht van eerste aanleg stelt in overeenstemming met het Hof van Justitie zijn reglement voor de procesvoering vast. Dit reglement behoeft de goedkeuring van de Raad, die met gekwalificeerde meerderheid van stemmen besluit.
-
-Tenzij in het statuut van het Hof van Justitie anders is bepaald, zijn de bepalingen van dit Verdrag betreffende het Hof van Justitie op het Gerecht van eerste aanleg van toepassing.
+Vervallen
 
 ##### Artikel 140 A
 
-1. Het Gerecht van eerste aanleg is bevoegd in eerste aanleg kennis te nemen van de in de artikelen 146, 148, 151, 152 en 153 bedoelde beroepen, met uitzondering van die waarvoor een rechterlijke kamer bevoegd is en die welke overeenkomstig het statuut aan het Hof van Justitie zijn voorbehouden. Het statuut kan bepalen dat het Gerecht van eerste aanleg bevoegd is voor andere categorieën van beroepen.
-
-Tegen de beslissingen die het Gerecht van eerste aanleg op grond van dit lid geeft, kan een tot rechtsvragen beperkte hogere voorziening worden ingesteld bij het Hof van Justitie, op de wijze en binnen de grenzen die in het statuut worden bepaald.
-
-2. Het Gerecht van eerste aanleg is bevoegd in eerste aanleg kennis te nemen van de beroepen die worden ingesteld tegen de beslissingen van de krachtens artikel 140 B ingestelde rechterlijke kamers.
-
-De beslissingen die het Gerecht van eerste aanleg op grond van dit lid geeft, kunnen op de wijze en binnen de grenzen die in het statuut worden bepaald bij uitzondering door het Hof van Justitie worden heroverwogen, wanneer er een ernstig gevaar bestaat dat de eenheid of de samenhang van het Gemeenschapsrecht wordt aangetast.
-
-3. Het Gerecht van eerste aanleg is bevoegd kennis te nemen van prejudiciële vragen die worden voorgelegd uit hoofde van artikel 150 en beperkt blijven tot specifieke, in het statuut bepaalde aangelegenheden.
-
-Wanneer het Gerecht van eerste aanleg van oordeel is dat in een zaak een principiële beslissing moet worden genomen die van invloed kan zijn op de eenheid of de samenhang van het Gemeenschapsrecht, kan het de zaak naar het Hof van Justitie verwijzen voor een uitspraak.
-
-De beslissingen die het Gerecht van eerste aanleg over prejudiciële vragen geeft, kunnen op de wijze en binnen de grenzen die in het statuut worden bepaald bij uitzondering door het Hof van Justitie worden heroverwogen, wanneer er een ernstig gevaar bestaat dat de eenheid of de samenhang van het Gemeenschapsrecht wordt aangetast.
+Vervallen
 
 ##### Artikel 140 B
 
-De Raad kan, op voorstel van de Commissie en na raadpleging van het Europees Parlement en het Hof van Justitie, dan wel op verzoek van het Hof van Justitie en na raadpleging van het Europees Parlement en de Commissie, met eenparigheid van stemmen rechterlijke kamers instellen die in eerste aanleg kennis nemen van bepaalde categorieën van beroepen in specifieke aangelegenheden.
-
-In het besluit tot instelling van een rechterlijke kamer worden de regels voor de samenstelling van die kamer vastgesteld en wordt de reikwijdte van de haar verleende bevoegdheden bepaald.
-
-Tegen de beslissingen van de rechterlijke kamers kan bij het Gerecht van eerste aanleg een tot rechtsvragen beperkte hogere voorziening worden ingesteld of, wanneer het besluit tot instelling van de kamer daarin voorziet, een beroep dat ook op feitelijke vragen betrekking heeft.
-
-De leden van de rechterlijke kamers worden gekozen uit personen die alle waarborgen voor onafhankelijkheid bieden en bekwaam zijn rechterlijke ambten te bekleden. Zij worden door de Raad met eenparigheid van stemmen benoemd.
-
-De rechterlijke kamers stellen in overeenstemming met het Hof van Justitie hun reglement voor de procesvoering vast. Dit reglement behoeft de goedkeuring van de Raad, die met gekwalificeerde meerderheid van stemmen besluit.
-
-Tenzij in het besluit tot instelling van een rechterlijke kamer anders is bepaald, zijn de bepalingen van dit Verdrag betreffende het Hof van Justitie en de bepalingen van het statuut van het Hof van Justitie op de rechterlijke kamers van toepassing.
+Vervallen
 
 ##### Artikel 141
 
-Indien de Commissie van oordeel is dat een Lid-Staat een van de krachtens dit Verdrag op hem rustende verplichtingen niet is nagekomen, brengt zij dienaangaande een met redenen omkleed advies uit, na deze Staat in de gelegenheid te hebben gesteld zijn opmerkingen te maken.
-
-Indien de betrokken Staat dit advies niet binnen de door de Commissie vastgestelde termijn opvolgt, kan de Commissie de zaak aanhangig maken bij het Hof van Justitie.
+Vervallen
 
 ##### Artikel 142
 
-Ieder van de Lid-Staten kan zich wenden tot het Hof van Justitie, indien hij van mening is dat een andere Lid-Staat een van de krachtens dit Verdrag op hem rustende verplichtingen niet is nagekomen.
-
-Voordat een Lid-Staat tegen een andere Lid-Staat een klacht indient op grond van een beweerde schending van de verplichtingen welke krachtens dit Verdrag op deze laatste rusten, moet hij deze klacht aan de Commissie voorleggen.
-
-De Commissie brengt een met redenen omkleed advies uit nadat aan de betrokken Staten de gelegenheid is gegeven om over en weer schriftelijk en mondeling opmerkingen te maken.
-
-Indien de Commissie binnen drie maanden na indiening van de klacht geen advies heeft uitgebracht, kan desniettemin de klacht bij het Hof van Justitie worden ingediend.
+Vervallen
 
 ##### Artikel 143
 
-1. Indien het Hof van Justitie vaststelt dat een Lid-Staat een der krachtens dit Verdrag op hem rustende verplichtingen niet is nagekomen, is deze Staat gehouden die maatregelen te nemen, welke nodig zijn ter uitvoering van het arrest van het Hof van Justitie.
-
-2. Indien de Commissie van oordeel is dat de betrokken Lid-Staat deze maatregelen niet heeft genomen, brengt zij, nadat zij deze Staat de mogelijkheid heeft geboden zijn opmerkingen in te dienen, een met redenen omkleed advies uit waarin de punten worden gepreciseerd waarop de betrokken Lid-Staat het arrest van het Hof van Justitie niet is nagekomen.
-
-Indien de betrokken Lid-Staat de maatregelen ter uitvoering van het arrest van het Hof niet binnen de door de Commissie vastgestelde termijn heeft genomen, kan de Commissie de zaak voor het Hof van Justitie brengen. Zij vermeldt het bedrag van de door de betrokken Lid-Staat te betalen forfaitaire som of dwangsom die zij in de gegeven omstandigheden passend acht.
-
-Indien het Hof van Justitie vaststelt dat de betrokken Lid-Staat zijn arrest niet is nagekomen, kan het deze Staat de betaling van een forfaitaire som of een dwangsom opleggen.
-
-Deze procedure geldt onverminderd het bepaalde in artikel 142.
+Vervallen
 
 ##### Artikel 144
 
-Het Hof van Justitie oefent volledige rechtsmacht uit ten aanzien van
+Het Hof van Justitie van de Europese Unie oefent volledige rechtsmacht uit ten aanzien van
 
 - a). het beroep, ingesteld op grond van artikel 12, om passende voorwaarden te doen vaststellen voor de verlening van licenties en sub-licenties door de Commissie;
 
@@ -1446,268 +1204,129 @@ Het Hof van Justitie oefent volledige rechtsmacht uit ten aanzien van
 
 Indien de Commissie meent dat een persoon of een onderneming zich schuldig heeft gemaakt aan een schending van dit Verdrag op welke schending de bepalingen van artikel 83 niet van toepassing zijn, verzoekt zij de Lid-Staat waaronder die persoon of die onderneming ressorteert, ter zake van deze schending maatregelen te nemen op grond van zijn nationale wetgeving.
 
-Indien de betrokken Staat op dit verzoek, binnen de door de Commissie gestelde termijn, geen maatregelen neemt, kan de Commissie zich tot het Hof van Justitie wenden ten einde de aan de betrokken persoon of onderneming verweten schending te doen vaststellen.
+Indien de betrokken Staat op dit verzoek, binnen de door de Commissie gestelde termijn, geen maatregelen neemt, kan de Commissie zich tot het Hof van Justitie van de Europese Unie wenden ten einde de aan de betrokken persoon of onderneming verweten schending te doen vaststellen.
 
 ##### Artikel 146
 
-Het Hof van Justitie gaat de wettigheid na van de handelingen van de Raad en van de Commissie, voor zover het geen aanbevelingen of adviezen betreft, en van de handelingen van het Europees Parlement die beogen rechtsgevolgen ten aanzien van derden te hebben.
-
-Te dien einde is het Hof bevoegd uitspraak te doen inzake elk door een lidstaat, het Europees Parlement, de Raad of de Commissie ingesteld beroep wegens onbevoegdheid, schending van wezenlijke vormvoorschriften, schending van dit Verdrag of van enige uitvoeringsregeling daarvan, dan wel wegens misbruik van bevoegdheid.
-
-Het Hof van Justitie is onder dezelfde voorwaarden bevoegd uitspraak te doen inzake elk door de Rekenkamer ingesteld beroep dat op de vrijwaring van haar prerogatieven is gericht.
-
-Iedere natuurlijke of rechtspersoon kan onder dezelfde voorwaarden beroep instellen tegen de tot hem gerichte beschikkingen, alsmede tegen beschikkingen die, hoewel genomen in de vorm van een verordening, of van een beschikking gericht tot een andere persoon, hem rechtstreeks en individueel raken.
-
-Het in dit artikel bedoelde beroep moet worden ingesteld binnen twee maanden te rekenen, al naar het geval, vanaf de dag van bekendmaking van de handeling, vanaf de dag van kennisgeving aan de verzoeker of, bij gebreke daarvan, vanaf de dag waarop de verzoeker van de handeling heeft kennis heeft gekregen.
+Vervallen
 
 ##### Artikel 147
 
-Indien het beroep gegrond is, wordt de betwiste handeling door het Hof van Justitie nietig verklaard.
-
-Wat echter de verordeningen betreft, wijst het Hof van Justitie, zo het dit nodig oordeelt, die gevolgen van de vernietigde verordening aan, welke als gehandhaafd moeten worden beschouwd.
+Vervallen
 
 ##### Artikel 148
 
-Ingeval de Raad of de Commissie, in strijd met dit Verdrag, nalaat een besluit te nemen, kunnen de Lid-Staten en de overige instellingen van de Gemeenschap zich wenden tot het Hof van Justitie om deze schending te doen vaststellen.
-
-Dit beroep is slechts ontvankelijk indien de betrokken instelling vooraf tot handelen is uitgenodigd. Indien deze instelling na twee maanden, te rekenen van de uitnodiging, haar standpunt nog niet heeft bepaald, kan het beroep worden ingesteld binnen een nieuwe termijn van twee maanden.
-
-Iedere natuurlijke of rechtspersoon kan onder de in de voorgaande alinea's vastgestelde voorwaarden bij het Hof van Justitie zijn bezwaren indienen tegen het feit dat een der instellingen van de Gemeenschap heeft nagelaten te zijnen aanzien een andere handeling te verrichten dan het geven van een aanbeveling of een advies.
+Vervallen
 
 ##### Artikel 149
 
-De instelling welke de vernietigde handeling heeft verricht of wier nalatigheid strijdig met dit Verdrag is verklaard, is gehouden de maatregelen te nemen, welke nodig zijn ter uitvoering van het arrest van het Hof van Justitie.
-
-Deze verplichting geldt onverminderd die, welke kan voortvloeien uit de toepassing van de tweede alinea van artikel 188.
+Vervallen
 
 ##### Artikel 150
 
-Het Hof van Justitie is bevoegd, bij wijze van prejudiciële beslissing, een uitspraak te doen
-
-- a). over de uitlegging van dit Verdrag,
-
-- b). over de geldigheid en de uitlegging van de door de instellingen van de Gemeenschap verrichte handelingen,
-
-- c). over de uitlegging van de statuten van bij besluit van de Raad ingestelde organen voor zover in die statuten niet anders is bepaald.
-
-Indien een vraag te dien aanzien wordt opgeworpen voor een rechterlijke instantie van een der Lid-Staten, kan deze instantie, indien zij een beslissing op dit punt noodzakelijk acht voor het wijzen van haar vonnis, het Hof van Justitie verzoeken over deze vraag een uitspraak te doen.
-
-Indien een vraag te dien aanzien wordt opgeworpen in een zaak aanhangig bij een nationale rechterlijke instantie waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor hoger beroep, is deze instantie gehouden zich tot het Hof van Justitie te wenden.
+Vervallen
 
 ##### Artikel 151
 
-Het Hof van Justitie is bevoegd kennis te nemen van geschillen over de vergoeding van de in de tweede alinea van artikel 188 bedoelde schade.
+Vervallen
 
 ##### Artikel 152
 
-Het Hof van Justitie is bevoegd, uitspraak te doen in elk geschil tussen de Gemeenschap en haar personeelsleden, binnen de grenzen en onder de voorwaarden vastgesteld in het statuut of voortvloeiende uit de regeling welke voor hen toepasselijk is.
+Vervallen
 
 ##### Artikel 153
 
-Het Hof van Justitie is bevoegd, uitspraak te doen krachtens een arbitragebeding vervat in een door of namens de Gemeenschap gesloten publiekrechtelijke of privaatrechtelijke overeenkomst.
+Vervallen
 
 ##### Artikel 154
 
-Het Hof van Justitie is bevoegd uitspraak te doen in elk geschil tussen Lid-Staten dat met de materie van dit Verdrag verband houdt, indien dit geschil hem krachtens een compromis wordt voorgelegd.
+Vervallen
 
 ##### Artikel 155
 
-Behoudens de bevoegdheid die bij dit Verdrag aan het Hof van Justitie wordt verleend, zijn de geschillen waarin de Gemeenschap partij is, niet uit dien hoofde onttrokken aan de bevoegdheid van de nationale rechterlijke instanties.
+Vervallen
 
 ##### Artikel 156
 
-Iedere partij kan, ook al is de in de vijfde alinea van artikel 146 bedoelde termijn verstreken, naar aanleiding van een geschil waarbij een verordening van de Raad of van de Commissie in het geding is, de in de tweede alinea van artikel 146 bedoelde middelen aanvoeren om voor het Hof van Justitie de niet-toepasselijkheid van deze verordening in te roepen.
+Vervallen
 
 ##### Artikel 157
 
-Voor zover in dit Verdrag niet anders wordt bepaald, heeft een bij het Hof van Justitie ingesteld beroep geen schorsende werking. Het Hof van Justitie kan echter, indien het van oordeel is dat de omstandigheden zulks vereisen, opschorting van de uitvoering van de bestreden handeling gelasten.
+Voor zover in dit Verdrag niet anders wordt bepaald, heeft een bij het Hof van Justitie van de Europese Unie ingesteld beroep geen schorsende werking. Het Hof van Justitie van de Europese Unie kan echter, indien het van oordeel is dat de omstandigheden zulks vereisen, opschorting van de uitvoering van de bestreden handeling gelasten.
 
 ##### Artikel 158
 
-Het Hof van Justitie kan in zaken welke bij dit college aanhangig zijn gemaakt, de noodzakelijke voorlopige maatregelen gelasten.
+Vervallen
 
 ##### Artikel 159
 
-De arresten van het Hof van Justitie zijn uitvoerbaar overeenkomstig de bepalingen van artikel 164.
+Vervallen
 
 ##### Artikel 160
 
-Het statuut van het Hof van Justitie wordt vastgesteld bij een afzonderlijk protocol.
-
-De Raad kan, op verzoek van het Hof van Justitie en na raadpleging van het Europees Parlement en de Commissie, dan wel op verzoek van de Commissie en na raadpleging van het Europees Parlement en het Hof van Justitie, de bepalingen van het statuut, met uitzondering van titel I, met eenparigheid van stemmen wijzigen.
+Vervallen
 
 ### Afdeling V. DE REKENKAMER
 
 ##### Artikel 160 A
 
-De Rekenkamer verricht de controle van de rekeningen.
+Vervallen
 
 ##### Artikel 160 B
 
-1. In de Rekenkamer heeft een onderdaan van elke lidstaat zitting.
-
-2. De leden van de Rekenkamer worden gekozen uit personen die in hun eigen land behoren of behoord hebben tot de externe controle-instanties of die voor deze functie bijzonder geschikt zijn. Zij moeten alle waarborgen voor onafhankelijkheid bieden.
-
-3. De leden van de Rekenkamer worden voor zes jaar benoemd. De Raad stelt, na raadpleging van het Europees Parlement, met gekwalificeerde meerderheid van stemmen, de overeenkomstig de voordrachten van de lidstaten opgestelde lijst van leden vast. De leden van de Rekenkamer zijn herbenoembaar.
-
-Zij kiezen uit hun midden voor drie jaar de voorzitter van de Rekenkamer. Hij is herkiesbaar.
-
-4. De leden van de Rekenkamer oefenen hun ambt volkomen onafhankelijk uit in het algemeen belang van de Gemeenschap.
-
-Bij de vervulling van hun taken vragen noch aanvaarden zij instructies van enige Regering of enig lichaam. Zij onthouden zich van iedere handeling welke onverenigbaar is met het karakter van hun ambt.
-
-5. De leden van de Rekenkamer mogen gedurende hun ambtsperiode geen andere beroepswerkzaamheden, al dan niet tegen beloning, verrichten. Bij hun ambtsaanvaarding verbinden zij zich plechtig om gedurende hun ambtsperiode en na afloop daarvan de uit hun taak voortvloeiende verplichtingen na te komen, in het bijzonder eerlijkheid en kiesheid te betrachten in het aanvaarden van bepaalde functies of voordelen na afloop van die ambtsperiode.
-
-6. Behalve door regelmatige vervanging of door overlijden, eindigt de ambtsvervulling van een lid van de Rekenkamer door vrijwillig ontslag of door ontslag ambtshalve ingevolge een uitspraak van het Hof van Justitie overeenkomstig lid 7.
-
-De betrokkene wordt vervangen voor de verdere duur van zijn ambtstermijn.
-
-Behoudens in geval van ontslag ambtshalve, blijven de leden van de Rekenkamer in functie totdat in hun vervanging is voorzien.
-
-7. De leden van de Rekenkamer kunnen slechts van hun ambt worden ontheven of van hun recht op pensioen of andere daarvoor in de plaats tredende voordelen vervallen worden verklaard, indien het Hof van Justitie, op verzoek van de Rekenkamer, constateert dat zij hebben opgehouden aan de eisen voor de uitoefening van hun ambt of aan de uit hun taak voortvloeiende verplichtingen te voldoen.
-
-8. De Raad stelt met gekwalificeerde meerderheid van stemmen de arbeidsvoorwaarden vast, met name de bezoldiging, de vergoedingen en het pensioen van de Voorzitter en de leden van de Rekenkamer.
-
-Met dezelfde meerderheid stelt hij ook de vergoedingen vast die als bezoldiging kunnen worden aangemerkt.
-
-9. De bepalingen van het Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen die van toepassing zijn op de rechters van het Hof van Justitie gelden ook voor de leden van de Rekenkamer.
+Vervallen
 
 ##### Artikel 160 C
 
-1. De Rekenkamer onderzoekt de rekeningen van alle ontvangsten en uitgaven van de Gemeenschap. Zij onderzoekt tevens de rekeningen van alle ontvangsten en uitgaven van elk door de Gemeenschap ingesteld orgaan, voorzover het instellingsbesluit dit onderzoek niet uitsluit.
-
-De Rekenkamer legt het Europees Parlement en de Raad een verklaring voor waarin de betrouwbaarheid van de rekeningen en de regelmatigheid en de wettigheid van de onderliggende verrichtingen worden bevestigd, die in het **Publicatieblad van de Europese Unie** wordt bekendgemaakt. Aan die verklaring kunnen specifieke beoordelingen worden toegevoegd voor ieder belangrijk werkterrein van de Gemeenschap.
-
-2. De Rekenkamer onderzoekt de wettigheid en de regelmatigheid van de ontvangsten en uitgaven en gaat tevens na of een goed financieel beheer werd gevoerd. Hierbij brengt zij in het bijzonder verslag uit over onregelmatigheden.
-
-De controle van de ontvangsten geschiedt aan de hand van de vaststellingen en van de stortingen van ontvangsten aan de Gemeenschap.
-
-De controle van de uitgaven geschiedt aan de hand van betalingsverplichtingen en van betalingen.
-
-Deze controles kunnen plaatsvinden vóór de afsluiting van de rekeningen van het betrokken begrotingsjaar.
-
-3. De controle geschiedt aan de hand van stukken, en, zo nodig, ter plaatse bij de overige instellingen van de Gemeenschap, in de gebouwen van alle instanties die ontvangsten of uitgaven namens de Gemeenschap beheren, en in de lidstaten, inclusief in de gebouwen van alle natuurlijke of rechtspersonen die betalingen uit de begroting ontvangen. De controle in de lidstaten geschiedt in samenwerking met de nationale controle-instanties of, indien deze laatste niet over de nodige bevoegdheden beschikken, in samenwerking met de bevoegde nationale diensten. De Rekenkamer en de nationale controle-instanties van de lidstaten werken samen in onderling vertrouwen en met behoud van hun onafhankelijkheid. Deze instanties en diensten delen aan de Rekenkamer mee of zij voornemens zijn aan de controle deel te nemen.
-
-De overige instellingen van de Gemeenschap, de instanties die ontvangsten of uitgaven namens de Gemeenschap beheren, de natuurlijke of rechtspersonen die betalingen uit de begroting ontvangen en de nationale controle-instanties of, indien deze niet over de nodige bevoegdheden beschikken, de bevoegde nationale diensten, zenden de Rekenkamer op verzoek alle bescheiden en inlichtingen toe die nodig zijn voor de vervulling van haar taak.
-
-Ten aanzien van het beheer van de ontvangsten en uitgaven van de Gemeenschap door de Europese Investeringsbank wordt het recht van toegang van de Rekenkamer tot informatie waarover de Bank beschikt, door een regeling tussen de Rekenkamer, de Bank en de Commissie bepaald. Bij ontstentenis van een regeling heeft de Rekenkamer desalniettemin toegang tot de informatie die nodig is voor de controle op de door de Bank beheerde ontvangsten en uitgaven van de Gemeenschap.
-
-4. De Rekenkamer stelt na afsluiting van elk begrotingsjaar een jaarverslag op. Dit verslag wordt toegezonden aan de overige instellingen van de Gemeenschap en tezamen met de antwoorden van deze instellingen op de opmerkingen van de Rekenkamer in het **Publicatieblad van de Europese Unie** gepubliceerd.
-
-De Rekenkamer kan voorts te allen tijde met betrekking tot bijzondere vraagstukken opmerkingen maken, met name in de vorm van speciale verslagen, en kan op verzoek van een van de overige instellingen van de Gemeenschap adviezen uitbrengen.
-
-De Rekenkamer neemt haar jaarverslagen, speciale verslagen of adviezen aan met meerderheid van stemmen van haar leden. Zij kan echter uit haar midden kamers vormen voor het aannemen van bepaalde soorten van verslagen of adviezen overeenkomstig haar reglement van orde.
-
-De Rekenkamer staat het Europees Parlement en de Raad bij bij de controle op de uitvoering van de begroting.
-
-De Rekenkamer stelt haar reglement van orde vast. Dit reglement behoeft de goedkeuring van de Raad, die met gekwalificeerde meerderheid van stemmen besluit.
+Vervallen
 
 ### HOOFDSTUK II. Bepalingen welke verscheidene instellingen gemeen hebben
 
 ##### Artikel 161
 
-Voor de vervulling van hun taak stellen de Raad en de Commissie verordeningen en richtlijnen vast, geven beschikkingen en brengen aanbevelingen of adviezen uit, onder de in dit Verdrag vervatte voorwaarden.
-
-Een verordening heeft een algemene strekking. Zij is verbindend in al haar onderdelen en is rechtstreeks toepasselijk in elke Lid-Staat.
-
-Een richtlijn is verbindend ten aanzien van het te bereiken resultaat voor elke Lid-Staat waarvoor zij bestemd is, doch aan de nationale instanties wordt de bevoegdheid gelaten vorm en middelen te kiezen.
-
-Een beschikking is verbindend in al haar onderdelen voor degenen tot wie zij uitdrukkelijk is gericht.
-
-Aanbevelingen en adviezen zijn niet verbindend.
+Vervallen
 
 ##### Artikel 162
 
-De verordeningen, richtlijnen en beschikkingen van de Raad en van de Commissie worden met redenen omkleed en verwijzen naar de voorstellen of adviezen welke krachtens dit Verdrag moeten worden gevraagd.
+Vervallen
 
 ##### Artikel 163
 
-De verordeningen worden bekendgemaakt in het **Publicatieblad van de Europese Unie**. Zij treden in werking op de in de verordeningen bepaalde datum of, bij gebreke daarvan, op de twintigste dag volgende op die van hun bekendmaking.
-
-Van de richtlijnen en de beschikkingen wordt kennis gegeven aan hen tot wie zij zijn gericht; zij worden door deze kennisgeving van kracht.
+Vervallen
 
 ##### Artikel 164
 
-De tenuitvoerlegging geschiedt volgens de bepalingen van burgerlijke rechtsvordering die van kracht zijn in de Staat op wiens grondgebied zij plaatsvindt. De formule van tenuitvoerlegging wordt, zonder andere controle dan de verificatie van de authenticiteit van de titel, aangebracht door de nationale autoriteit die door de regering van elke Lid-Staat daartoe wordt aangewezen. Van die aanwijzing geeft zij kennis aan de Commissie, het Hof van Justitie en de Arbitrage-Commissie ingesteld krachtens artikel 18.
+De tenuitvoerlegging geschiedt volgens de bepalingen van burgerlijke rechtsvordering die van kracht zijn in de Staat op wiens grondgebied zij plaatsvindt. De formule van tenuitvoerlegging wordt, zonder andere controle dan de verificatie van de authenticiteit van de titel, aangebracht door de nationale autoriteit die door de regering van elke Lid-Staat daartoe wordt aangewezen. Van die aanwijzing geeft zij kennis aan de Commissie, het Hof van Justitie van de Europese Unie en de Arbitrage-Commissie ingesteld krachtens artikel 18.
 
 Nadat de bedoelde formaliteiten op verzoek van de belanghebbende zijn vervuld, kan deze de tenuitvoerlegging volgens de nationale wetgeving voortzetten door zich rechtstreeks te wenden tot de bevoegde instantie.
 
-De tenuitvoerlegging kan niet worden geschorst dan krachtens een beschikking van het Hof van Justitie. Evenwel behoort het toezicht op de regelmatigheid van de wijze van tenuitvoerlegging tot de bevoegdheid van de nationale rechterlijke instanties.
+De tenuitvoerlegging kan niet worden geschorst dan krachtens een beschikking van het Hof van Justitie van de Europese Unie. Evenwel behoort het toezicht op de regelmatigheid van de wijze van tenuitvoerlegging tot de bevoegdheid van de nationale rechterlijke instanties.
 
 ### HOOFDSTUK III. Het Economisch en Sociaal Comité
 
 ##### Artikel 165
 
-Er wordt een Economisch en Sociaal Comité met een adviestaak ingesteld.
-
-Het Comité bestaat uit vertegenwoordigers van de verschillende economische en sociale geledingen van de georganiseerde civiele samenleving, met name van producenten, landbouwers, vervoerders, werknemers, handelaren en ambachtslieden, vrije beroepen, consumenten en het algemeen belang.
+Vervallen
 
 ##### Artikel 166
 
-Het aantal leden van het Comité is als volgt vastgesteld:
-
-| België | 12 |
-| --- | --- |
-| Bulgarije | 12 |
-| Tsjechië | 12 |
-| Denemarken | 9 |
-| Duitsland | 24 |
-| Estland | 7 |
-| Griekenland | 12 |
-| Spanje | 21 |
-| Frankrijk | 24 |
-| Ierland | 9 |
-| Italië | 24 |
-| Cyprus | 6 |
-| Letland | 7 |
-| Litouwen | 9 |
-| Luxemburg | 6 |
-| Hongarije | 12 |
-| Malta | 5 |
-| Nederland | 12 |
-| Oostenrijk | 12 |
-| Polen | 21 |
-| Portugal | 12 |
-| Roemenië | 15 |
-| Slovenië | 7 |
-| Slowakije | 9 |
-| Finland | 9 |
-| Zweden | 12 |
-| Verenigd Koninkrijk | 24 |
+Vervallen
 
 ##### Artikel 167
 
-1. De leden van het Comité worden op voordracht van de lidstaten voor vier jaar benoemd. De Raad stelt met gekwalificeerde meerderheid van stemmen de overeenkomstig de voordrachten van de lidstaten opgestelde lijst van leden vast. De leden van het Comité zijn herbenoembaar.
-
-2. De Raad raadpleegt de Commissie. Hij kan de mening vragen van de Europese organisaties die representatief zijn voor de verschillende economische en sociale sectoren welke belang hebben bij de activiteit van de Gemeenschap.
+Vervallen
 
 ##### Artikel 168
 
-Het Comité kiest, voor een periode van twee jaar, uit zijn midden zijn voorzitter en zijn bureau.
-
-Het Comité stelt zijn reglement van orde vast.
-
-Het Comité wordt door zijn voorzitter bijeengeroepen op verzoek van de Raad of van de Commissie. Het kan eveneens op eigen initiatief bijeenkomen.
+Vervallen
 
 ##### Artikel 169
 
-Het Comité kan in gespecialiseerde afdelingen worden ingedeeld.
-
-De gespecialiseerde afdelingen verrichten hun werkzaamheden binnen het raam van de algemene bevoegdheden van het Comité. De gespecialiseerde afdelingen kunnen niet buiten het Comité om worden geraadpleegd.
-
-Binnen het Comité kunnen voorts sub-comités worden ingesteld om over bepaalde onderwerpen of op bepaalde gebieden ontwerpadviezen op te stellen, welke ter bespreking aan het Comité moeten worden voorgelegd.
-
-Het reglement van orde stelt de wijze van samenstelling en de bevoegdheden van de gespecialiseerde afdelingen en van de sub-comités vast.
+Vervallen
 
 ##### Artikel 170
 
-Het Comité moet door de Raad of door de Commissie worden geraadpleegd in de gevallen voorzien in dit Verdrag. Het kan door deze Instellingen worden geraadpleegd in alle gevallen waarin zij het wenselijk oordelen. Het Comité kan, in de gevallen waarin het dit wenselijk acht, het initiatief nemen om advies uit te brengen.
-
-Indien de Raad of de Commissie zulks noodzakelijk achten, stellen zij aan het Comité een termijn voor het uitbrengen van advies; deze termijn mag niet korter zijn dan een maand, te rekenen vanaf het tijdstip waarop de desbetreffende mededeling aan de voorzitter wordt gericht. Na afloop van de gestelde termijn kan worden gehandeld zonder het advies af te wachten.
-
-Het advies van het Comité en het advies van de gespecialiseerde afdeling, alsmede een verslag van de besprekingen, worden aan de Raad en aan de Commissie gezonden.
-
-Het Economisch en Sociaal Comité kan door het Europees Parlement worden geraadpleegd.
+Vervallen
 
 ## TITEL VIERDE. FINANCIËLE BEPALINGEN
 
@@ -1719,7 +1338,7 @@ De ontvangsten en uitgaven van elke begroting moeten in evenwicht zijn.
 
 2. De ontvangsten en uitgaven van het Agentschap, dat volgens commerciële beginselen zal werken, zullen op een afzonderlijke staat worden begroot.
 
-De voorwaarden betreffende de raming, de uitvoering en de controle op deze ontvangsten en uitgaven worden, met inachtneming van de statuten van het Agentschap, geregeld in een ter uitvoering van artikel 183 vastgesteld financieel reglement.
+De voorwaarden betreffende de raming, de uitvoering en de controle op deze ontvangsten en uitgaven worden, met inachtneming van de statuten van het Agentschap, geregeld in een ter uitvoering van [artikel 322 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=322) vastgesteld financieel reglement.
 
 3. De op ieder dienstjaar betrekking hebbende ramingen van ontvangsten en uitgaven alsmede de verlies- en winstrekeningen en de balansen der Gemeenschappelijke Ondernemingen worden medegedeeld aan de Commissie, de Raad en het Europees Parlement, overeenkomstig de bepalingen opgenomen in de statuten van deze Ondernemingen.
 
@@ -1731,7 +1350,7 @@ De voorwaarden betreffende de raming, de uitvoering en de controle op deze ontva
 
 3. Vervallen.
 
-4. De leningen ter financiering van het onderzoek of van de investeringen worden aangegaan onder de voorwaarden, die de Raad vaststelt overeenkomstig artikel 177, lid 5.
+4. De leningen ter financiering van het onderzoek of van de investeringen worden aangegaan onder de voorwaarden, die de Raad vaststelt overeenkomstig [artikel 314 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=314).
 
 De Gemeenschap kan leningen opnemen op de kapitaalmarkt van een Lid-Staat in het kader van de wettelijke bepalingen, die aldaar gelden voor binnenlandse leningen; bij ontbreken van dergelijke bepalingen in een Lid-Staat kan zulks slechts plaatsvinden nadat deze Staat en de Commissie onderling overleg hebben gepleegd en tot overeenstemming zijn gekomen omtrent de voorgenomen lening.
 
@@ -1739,13 +1358,11 @@ De toestemming van de bevoegde autoriteiten van de Lid-Staat mag alleen worden g
 
 ##### Artikel 173
 
-De begroting wordt, onverminderd andere ontvangsten, volledig uit eigen middelen gefinancierd.
-
-De Raad stelt met eenparigheid van stemmen, op voorstel van de Commissie en na raadpleging van het Europees Parlement, de bepalingen inzake het stelsel van eigen middelen van de Gemeenschap vast, waarvan hij de aanneming door de Lid-Staten overeenkomstig hun onderscheiden grondwettelijke bepalingen aanbeveelt.
+Vervallen
 
 ##### Artikel 173 A
 
-Ten einde de begrotingsdiscipline te verzekeren, doet de Commissie geen voorstellen voor communautaire handelingen, brengt zij geen wijzigingen in haar voorstellen aan en neemt zij geen uitvoeringsmaatregelen aan die aanzienlijke gevolgen kunnen hebben voor de begroting, zonder de verzekering te geven dat die voorstellen of maatregelen gefinancierd kunnen worden binnen de grenzen van de eigen middelen van de Gemeenschap die voortvloeien uit de door de Raad krachtens artikel 173 vastgestelde bepalingen.
+Vervallen
 
 ##### Artikel 174
 
@@ -1767,17 +1384,11 @@ Ten einde de begrotingsdiscipline te verzekeren, doet de Commissie geen voorstel
 
 ##### Artikel 175
 
-De uitgaven opgevoerd op de huishoudelijke begroting worden toegestaan voor de duur van een begrotingsjaar, voor zover niet anders wordt bepaald in het ter uitvoering van artikel 183 vastgestelde reglement.
-
-Onder de voorwaarden die worden vastgesteld met toepassing van artikel 183, kunnen de kredieten welke aan het einde van het begrotingsjaar ongebruikt zijn gebleven, worden overgedragen uitsluitend naar het eerstvolgende begrotingsjaar, voor zover deze kredieten niet betrekking hebben op personeelsuitgaven.
-
-De kredieten ter dekking van de huishoudelijke uitgaven worden ingedeeld in hoofdstukken, waarin de uitgaven worden gegroepeerd naar hun aard en bestemming en voor zover nodig onderverdeeld overeenkomstig het ter uitvoering van artikel 183 vastgestelde reglement.
-
-De uitgaven van de Vergadering, van de Raad, van de Commissie en van het Hof van Justitie worden als afzonderlijke afdelingen in de begroting opgenomen, onverminderd een speciale regeling voor bepaalde gemeenschappelijke uitgaven.
+Vervallen
 
 ##### Artikel 176
 
-1. De toewijzingen ten behoeve van uitgaven voor onderzoek en investeringen omvatten, binnen de grenzen van de programma's of van betalingsbeschikkingen die op grond van dit Verdrag eenstemmigheid van de Raad vereisen:
+1. De toewijzingen ten behoeve van uitgaven voor onderzoek en investeringen omvatten, binnen de grenzen van de programma’s of van betalingsbesluiten die op grond van dit Verdrag eenstemmigheid van de Raad vereisen:
 
 - a). vastleggingskredieten ter dekking van een op zich zelf staand deel, dat een samenhangend geheel vormt,
 
@@ -1785,115 +1396,29 @@ De uitgaven van de Vergadering, van de Raad, van de Commissie en van het Hof van
 
 2. Het vervalboek van de vastgelegde verplichtingen en de betalingen wordt als bijlage opgenomen bij de overeenkomstige ontwerp-begroting, voorgesteld door de Commissie.
 
-3. De kredieten ter dekking van de uitgaven voor onderzoek en investeringen worden ingedeeld in hoofdstukken, waarin de uitgaven worden gegroepeerd naar hun aard en bestemming en voor zover nodig onderverdeeld overeenkomstig het ter uitvoering van artikel 183 vastgestelde reglement.
+3. De kredieten ter dekking van de uitgaven voor onderzoek en investeringen worden ingedeeld in hoofdstukken, waarin de uitgaven worden gegroepeerd naar hun aard en bestemming en voor zover nodig onderverdeeld overeenkomstig het ter uitvoering van [artikel 322 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=322) vastgestelde reglement.
 
-4. De beschikbare betalingskredieten worden naar het volgende dienstjaar overgedragen bij beschikking van de Commissie voor zover door de Raad niet anders wordt besloten.
+4. De beschikbare betalingskredieten worden naar het volgende dienstjaar overgedragen bij besluit van de Commissie voor zover door de Raad niet anders wordt besloten.
 
 ##### Artikel 177
 
-1. Het begrotingsjaar begint op 1 januari en sluit op 31 december.
-
-De begroting in de zin van dit artikel omvat de huishoudelijke begroting en de begroting van onderzoek en investeringen.
-
-2. Elke Instelling van de Gemeenschap maakt vóór 1 juli een raming op van haar uitgaven. De Commissie voegt die ramingen in een voorontwerp van begroting samen. Zij voegt daaraan een advies toe, dat afwijkende ramingen mag inhouden.
-
-Dit voorontwerp omvat een raming van de uitgaven en een raming van de ontvangsten.
-
-3. De Commissie legt het voorontwerp van begroting uiterlijk op 1 september van het jaar dat voorafgaat aan het betrokken begrotingsjaar aan de Raad voor.
-
-De Raad raadpleegt de Commissie en, in voorkomend geval, de andere betrokken Instellingen telkens wanneer hij van dit voorontwerp wenst af te wijken.
-
-De Raad stelt met gekwalificeerde meerderheid van stemmen de ontwerp-begroting op en zendt deze aan de Vergadering.
-
-4. De ontwerp-begroting moet uiterlijk op 5 oktober van het jaar dat voorafgaat aan het betrokken begrotingsjaar aan de Vergadering worden voorgelegd.
-
-De Vergadering heeft het recht om de ontwerp-begroting met meerderheid van de stemmen van haar leden te amenderen, en om aan de Raad, met volstrekte meerderheid van de uitgebrachte stemmen, wijzigingen in het ontwerp voor te stellen met betrekking tot de uitgaven die verplicht voortvloeien uit het Verdrag of de ter uitvoering daarvan vastgestelde besluiten.
-
-Indien de Vergadering binnen een termijn van vijfenveertig dagen na voorlegging van de ontwerp-begroting haar goedkeuring heeft verleend, is de begroting definitief vastgesteld. Indien de Vergadering binnen die termijn de ontwerp-begroting niet heeft geamendeerd of geen wijzigingen daarin heeft voorgesteld, wordt de begroting geacht definitief te zijn vastgesteld.
-
-Indien de Vergadering binnen die termijn amendementen heeft aangenomen of wijzigingen heeft voorgesteld, wordt de aldus geamendeerde of van wijzigingsvoorstellen voorziene ontwerp-begroting aan de Raad gezonden.
-
-5. Na over de ontwerp-begroting te hebben beraadslaagd met de Commissie en, in voorkomend geval, met de andere betrokken Instellingen, neemt de Raad een besluit onder de volgende voorwaarden:
-
-- a). de Raad kan elk der door de Vergadering aangenomen amendementen met gekwalificeerde meerderheid van stemmen wijzigen;
-
-- b). wat de wijzigingsvoorstellen betreft:
-
-- -. indien een door de Vergadering voorgestelde wijziging niet leidt tot stijging van het totale bedrag van de uitgaven van een Instelling, met name doordat de stijging van de uitgaven die daarvan het gevolg zou zijn, uitdrukkelijk wordt gecompenseerd door één of meer voorgestelde wijzigingen die een overeenkomstige daling van de uitgaven behelzen, kan de Raad dit wijzigingsvoorstel met gekwalificeerde meerderheid van stemmen afwijzen. Bij gebreke van een afwijzend besluit is het wijzigingsvoorstel aanvaard;
-
-- -. indien een door de Vergadering voorgestelde wijziging leidt tot stijging van het totale bedrag van de uitgaven van een Instelling, kan de Raad met gekwalificeerde meerderheid van stemmen dit wijzigingsvoorstel aanvaarden. Bij gebreke van een besluit tot aanvaarding is het wijzigingsvoorstel afgewezen;
-
-- -. indien de Raad overeenkomstig één van beide vorige streepjes een wijzigingsvoorstel heeft afgewezen, kan hij met gekwalificeerde meerderheid van stemmen of wel het in de ontwerpbegroting voorkomende bedrag handhaven, of wel een ander bedrag vaststellen.
-
-De ontwerp-begroting wordt gewijzigd overeenkomstig de door de Raad aangenomen wijzigingsvoorstellen.
-
-Indien de Raad, binnen een termijn van vijftien dagen na voorlegging van de ontwerp-begroting geen der door de Vergadering aangenomen amendementen heeft gewijzigd en indien de door haar ingediende wijzigingsvoorstellen zijn aanvaard, wordt de begroting geacht definitief te zijn vastgesteld. De Raad stelt de Vergadering ervan in kennis dat hij geen der amendementen heeft gewijzigd en dat hij de wijzigingsvoorstellen heeft aanvaard.
-
-Indien de Raad binnen deze termijn een of meer der door de Vergadering aangenomen amendementen heeft gewijzigd of indien de door haar ingediende wijzigingsvoorstellen zijn afgewezen of gewijzigd, wordt de gewijzigde ontwerp-begroting opnieuw aan de Vergadering toegezonden. De Raad zet het resultaat van zijn beraadslagingen aan de Vergadering uiteen.
-
-6. Binnen een termijn van vijftien dagen na voorlegging van de ontwerp-begroting kan de Vergadering, na te zijn ingelicht over het gevolg dat aan haar wijzigingsvoorstellen is gegeven, met meerderheid van de stemmen van haar leden en met drie vijfde van het aantal uitgebrachte stemmen de door de Raad in haar amendementen aangebrachte wijzigingen amenderen of afwijzen en stelt zij dienovereenkomstig de begroting vast. Indien de Vergadering geen besluit heeft genomen binnen deze termijn, wordt de begroting geacht definitief te zijn vastgesteld.
-
-7. Wanneer de in dit artikel omschreven procedure is afgesloten, constateert de Voorzitter van de Vergadering dat de begroting definitief is vastgesteld.
-
-8. De Vergadering kan evenwel, met meerderheid van de stemmen van haar leden en met twee derde van het aantal uitgebrachte stemmen, om gewichtige redenen, de ontwerp-begroting afwijzen en verzoeken dat haar een nieuw ontwerp wordt voorgelegd.
-
-9. Voor alle andere uitgaven dan die welke verplicht voortvloeien uit het Verdrag of de ter uitvoering daarvan vastgestelde besluiten, wordt elk jaar een maximumpercentage van de stijging ten opzichte van de uitgaven van dezelfde aard van het lopende begrotingsjaar vastgesteld.
-
-Na raadpleging van het Comité voor de economische politiek constateert de Commissie dit maximumpercentage, dat voortvloeit uit:
-
-- -. de ontwikkeling van het bruto nationaal produkt naar volume in de Gemeenschap,
-
-- -. de gemiddelde variatie van de begrotingen der Lid-Staten en uit
-
-- -. het verloop van de kosten van levensonderhoud in het laatste begrotingsjaar.
-
-Het maximumpercentage wordt vóór 1 mei aan alle Instellingen van de Gemeenschap medegedeeld. Deze dienen dit percentage te respecteren zolang de begrotingsprocedure loopt, behoudens het bepaalde in de vierde en de vijfde alinea.
-
-Indien voor de andere uitgaven dan die welke verplicht voortvloeien uit het Verdrag of de ter uitvoering daarvan vastgestelde besluiten, het stijgingspercentage dat volgt uit de door de Raad opgestelde ontwerp-begroting meer dan de helft van het maximumpercentage bedraagt, kan de Vergadering in de uitoefening van haar recht van amendement, het totale bedrag van deze uitgaven alsnog verhogen tot de helft van het maximumpercentage.
-
-Is de Vergadering, de Raad of de Commissie van oordeel dat de activiteiten van de Gemeenschappen een overschrijding van het volgens de procedure van dit lid bepaalde percentage nodig maken, dan kan een nieuw percentage worden vastgesteld in onderlinge overeenstemming tussen de Raad, die besluit met gekwalificeerde meerderheid van stemmen, en de Vergadering, die besluit met meerderheid van de stemmen van haar leden en van drie vijfde van het aantal uitgebrachte stemmen.
-
-10. Elke Instelling oefent de haar bij het onderhavige artikel toegekende bevoegdheden uit onder eerbiediging van de bepalingen van het Verdrag en de ter uitvoering daarvan vastgestelde besluiten, met name inzake de eigen middelen van de Gemeenschappen en het evenwicht tussen ontvangsten en uitgaven.
+Vervallen
 
 ##### Artikel 177 bis
 
-In afwijking van artikel 177 gelden de volgende bepalingen ten aanzien van de begrotingen voor de begrotingsjaren voorafgaande aan het begrotingsjaar 1975:
-
-- 1. Het begrotingsjaar begint op 1 januari en sluit op 31 december. De begroting in de zin van dit artikel omvat de huishoudelijke begroting en de begroting voor onderzoek en investeringen.
-
-- 2. Elke Instelling van de Gemeenschap maakt vóór 1 juli een raming op van haar uitgaven. De Commissie voegt die ramingen in een voorontwerp van begroting samen. Zij voegt daaraan een advies toe, dat afwijkende ramingen mag inhouden. Dit voorontwerp omvat een raming van de ontvangsten en een raming van de uitgaven.
-
-- 3. De Commissie legt het voorontwerp van begroting uiterlijk op 1 september van het jaar dat voorafgaat aan het betrokken begrotingsjaar aan de Raad voor. De Raad raadpleegt de Commissie en, in voorkomend geval, de andere betrokken Instellingen telkens wanneer hij van dit voorontwerp wenst af te wijken. De Raad stelt met gekwalificeerde meerderheid van stemmen de ontwerp-begroting op en zendt deze aan de Vergadering.
-
-- 4. De ontwerp-begroting moet uiterlijk op 5 oktober van het jaar dat voorafgaat aan het betrokken begrotingsjaar, aan de Vergadering worden voorgelegd. De Vergadering heeft het recht aan de Raad wijzigingen in de ontwerpbegroting voor te stellen. Indien de Vergadering binnen een termijn van vijfenveertig dagen na voorlegging van de ontwerp-begroting haar goedkeuring heeft verleend of geen wijzigingen in het ontwerp heeft voorgesteld, wordt de begroting geacht definitief te zijn vastgesteld. Indien de Vergadering binnen die termijn wijzigingen heeft voorgesteld, wordt de aldus van wijzigingsvoorstellen voorziene ontwerpbegroting aan de Raad gezonden.
-
-- 5. Na over deze ontwerp-begroting te hebben beraadslaagd met de Commissie en, in voorkomend geval, met de andere betrokken Instellingen, stelt de Raad de begroting vast binnen een termijn van dertig dagen na voorlegging van het genoemde ontwerp en zulks overeenkomstig de onderstaande bepalingen. Indien een door de Vergadering voorgestelde wijziging niet leidt tot stijging van het totale bedrag van de uitgaven van een Instelling, met name doordat de stijging van de uitgaven die daarvan het gevolg zou zijn, uitdrukkelijk wordt gecompenseerd door een of meer voorgestelde wijzigingen die een dienovereenkomstige daling van de uitgaven behelzen, kan de Raad dit wijzigingsvoorstel met gekwalificeerde meerderheid van stemmen afwijzen. Bij gebreke van een afwijzend besluit is het wijzigingsvoorstel aanvaard. Indien een door de Vergadering voorgestelde wijziging leidt tot stijging van het totale bedrag van de uitgaven van een Instelling, moet de Raad besluiten met gekwalificeerde meerderheid van stemmen om dit wijzigingsvoorstel te aanvaarden. Indien de Raad een wijzigingsvoorstel heeft afgewezen overeenkomstig de tweede alinea of niet heeft aanvaard overeenkomstig de derde alinea, kan hij met gekwalificeerde meerderheid van stemmen ofwel het in de ontwerp-begroting voorkomende bedrag handhaven ofwel een ander bedrag vaststellen.
-
-- 6. Wanneer de in dit artikel omschreven procedure is afgesloten, constateert de Voorzitter van de Raad dat de begroting definitief is vastgesteld.
-
-- 7. Elke Instelling oefent de haar bij het onderhavige artikel toegekende bevoegdheden uit onder eerbiediging van de bepalingen van het Verdrag en de ter uitvoering daarvan vastgestelde besluiten, met name inzake de eigen middelen van de Gemeenschappen en het evenwicht tussen ontvangsten en uitgaven.
+Vervallen
 
 ##### Artikel 178
 
-Indien bij het begin van een begrotingsjaar de begroting nog niet is aangenomen, kunnen de uitgaven maandelijks worden verricht per hoofdstuk of per andere afdeling, overeenkomstig de bepalingen van het ter uitvoering van artikel 183 vastgestelde reglement, zonder dat zij een twaalfde der bij de begroting van het vorige begrotingsjaar geopende kredieten mogen overschrijden en zonder dat deze maatregel tot gevolg mag hebben, dat de Commissie meer dan een twaalfde van de kredieten van de in voorbereiding zijnde ontwerpbegroting ter beschikking krijgt.
-
-De Raad kan met gekwalificeerde meerderheid van stemmen, onder voorbehoud dat aan de overige in de eerste alinea gestelde voorwaarden wordt voldaan, uitgaven van meer dan een twaalfde toestaan.
-
-Indien dit besluit betrekking heeft op andere uitgaven dan die welke verplicht voortvloeien uit het Verdrag of de ter uitvoering daarvan vastgestelde besluiten, zendt de Raad het onverwijld aan de Vergadering; binnen een termijn van dertig dagen kan de Vergadering met meerderheid van de stemmen van haar leden en van drie vijfde van het aantal uitgebrachte stemmen, een andersluidend besluit nemen voor deze uitgaven voor wat betreft het gedeelte dat het in de eerste alinea bedoelde twaalfde overschrijdt. Dit gedeelte van het besluit van de Raad wordt geschorst totdat de Vergadering heeft besloten. Indien de Vergadering binnen bovengenoemde termijn geen andersluidend besluit dan dat van de Raad heeft genomen, wordt dit besluit geacht definitief te zijn vastgesteld.
-
-De in de tweede en derde alinea bedoelde besluiten voorzien op het igebied van de middelen in de nodige maatregelen voor de toepassing van dit artikel.
+Vervallen
 
 ##### Artikel 179
 
-De Commissie voert de begroting overeenkomstig de bepalingen van het ter uitvoering van artikel 183 vastgestelde reglement uit onder haar eigen verantwoordelijkheid, binnen de grenzen der toegekende kredieten en met het beginsel van goed financieel beheer. De lidstaten werken met de Commissie samen om te verzekeren dat de toegekende kredieten volgens het beginsel van goed financieel beheer worden gebruikt.
-
-Het reglement voorziet in de wijze waarop en de mate waarin iedere Instelling haar eigen uitgaven doet.
-
-Binnen elke begroting kan de Commissie, met inachtneming van de grenzen en de voorwaarden bepaald in het ter uitvoering van artikel 183 vastgestelde reglement, kredieten overschrijven hetzij van het ene hoofdstuk naar het andere, hetzij van de ene onderafdeling naar de andere.
+Vervallen
 
 ##### Artikel 179 bis
 
-De Commissie legt elk jaar aan de Raad en aan de Vergadering de rekeningen van het afgelopen begrotingsjaar voor welke betrekking hebben op de uitvoering van de begroting. Bovendien doet zij hun een financiële balans van de activa en passiva van de Gemeenschap toekomen.
+Vervallen
 
 ##### Artikel 180
 
@@ -1905,17 +1430,11 @@ Vervallen
 
 ##### Artikel 180 ter
 
-1. Op aanbeveling van de Raad, die besluit met gekwalificeerde meerderheid van stemmen, verleent het Europees Parlement aan de Commissie kwijting voor de uitvoering van de begroting. Te dien einde onderzoekt het, na de Raad, de rekeningen en de financiële balans genoemd in artikel 179 bis, het jaarverslag van de Rekenkamer tezamen met de antwoorden van de gecontroleerde instellingen op de opmerkingen van de Rekenkamer, de in artikel 160 C, lid 1, tweede alinea, genoemde verklaring, alsmede de relevante speciale verslagen van de Rekenkamer.
-
-2. Alvorens kwijting te verlenen aan de Commissie of voor enig ander doel in verband met de uitoefening van de bevoegdheden van de Commissie inzake de uitvoering van de begroting, kan het Europees Parlement de Commissie verzoeken verantwoording af te leggen ter zake van de uitvoering van de uitgaven of de werking van de financiële controlestelsels. De Commissie verstrekt het Europees Parlement op verzoek alle nodige inlichtingen.
-
-3. De Commissie stelt alles in het werk om gevolg te geven aan de opmerkingen in de kwijtingsbesluiten en aan de andere opmerkingen van het Europees Parlement over de uitvoering van de uitgaven, alsmede aan de opmerkingen waarvan de door de Raad aangenomen aanbevelingen tot kwijting vergezeld gaan.
-
-Op verzoek van het Europees Parlement of de Raad brengt de Commissie verslag uit over de maatregelen die zijn genomen naar aanleiding van deze opmerkingen, met name over de instructies die zijn gegeven aan de diensten die met de uitvoering van de begrotingen zijn belast. Deze verslagen worden ook aan de Rekenkamer toegezonden.
+Vervallen
 
 ##### Artikel 181
 
-De begrotingen en de staat, bedoeld in artikel 171, leden 1 en 2, luiden in de rekeneenheid, bepaald overeenkomstig het ter uitvoering van artikel 183 vastgestelde financiële reglement.
+Vervallen
 
 ##### Artikel 182
 
@@ -1935,19 +1454,11 @@ Dit programma wordt door de Raad met gekwalificeerde meerderheid van stemmen goe
 
 ##### Artikel 183
 
-1. De Raad, handelend met eenparigheid van stemmen op voorstel van de Commissie en na raadpleging van het Europees Parlement en advies van de Rekenkamer:
-
-- a. stelt de financiële reglementen vast waarbij met name de wijze wordt vastgesteld waarop de begroting wordt opgesteld en uitgevoerd, alsmede de wijze waarop rekening en verantwoording wordt gedaan en de rekeningen worden nagezien;
-
-- b. stelt de regels vast en organiseert de controle betreffende de verantwoordelijkheid der financiële controleurs, ordonnateurs en rekenplichtigen. Met ingang van 1 januari 2007 besluit de Raad met gekwalificeerde meerderheid van stemmen, op voorstel van de Commissie en na raadpleging van het Europees Parlement en advies van de Rekenkamer.
-
-2. De Raad, handelend met eenparigheid van stemmen op voorstel van de Commissie en na raadpleging van het Europees Parlement en advies van de Rekenkamer, bepaalt de regels en procedure volgens welke de budgettaire ontvangsten waarin het stelsel der eigen middelen van de Gemeenschap voorziet, ter beschikking van de Commissie worden gesteld, en schrijft voor welke maatregelen moeten worden toegepast om in voorkomend geval te voorzien in de behoefte aan kasmiddelen.
+Vervallen
 
 ##### Artikel 183 A
 
-De Lid-Staten nemen ter bestrijding van fraude waardoor de financiële belangen van de Gemeenschap worden geschaad, dezelfde maatregelen als die welke zij treffen ter bestrijding van fraude waardoor hun eigen financiële belangen worden geschaad.
-
-Onverminderd andere bepalingen van dit Verdrag coördineren de Lid-Staten hun optreden om de financiële belangen van de Gemeenschap tegen fraude te beschermen. Zij stellen daartoe met de hulp van de Commissie een nauwe en geregelde samenwerking tussen hun bevoegde overheidsdiensten in.
+Vervallen
 
 ## TITEL VIJFDE. ALGEMENE BEPALINGEN
 
@@ -1981,11 +1492,11 @@ De zetel van de instellingen der Gemeenschap wordt in onderlinge overeenstemming
 
 ##### Artikel 190
 
-De regeling van het taalgebruik door de instellingen der Gemeenschap wordt, onverminderd de bepalingen van het statuut van het Hof van Justitie, door de Raad met eenparigheid van stemmen vastgesteld.
+Vervallen
 
 ##### Artikel 191
 
-De Gemeenschap geniet, overeenkomstig de bepalingen van het Protocol van 8 april 1965 betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen, op het grondgebied van de lidstaten de voorrechten en immuniteiten welke nodig zijn ter vervulling van haar taak.
+De Gemeenschap geniet op het grondgebied van de lidstaten de voorrechten en immuniteiten die nodig zijn voor de uitvoering van haar taak, overeenkomstig de voorwaarden van het protocol betreffende de voorrechten en immuniteiten van de Europese Unie.
 
 ##### Artikel 192
 
@@ -2049,11 +1560,11 @@ Overeenkomstig Protocol nr. 2 bij de Akte betreffende de toetredingsvoorwaarden 
 
 In afwijking van de voorgaande alinea's:
 
-- a). is dit Verdrag niet van toepassing op de Faeröer.
+- a). is dit Verdrag niet van toepassing op de Faeröer. Dit verdrag is niet van toepassing op Groenland.
 
 - b). Is dit Verdrag niet van toepassing op de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen.
 
-- c). Is dit Verdrag niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet zijn vermeld op de lijst in bijlage IV van het Verdrag tot oprichting van de Europese Economische Gemeenschap.
+- c). Is dit Verdrag niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet zijn vermeld op de lijst in bijlage II van het Verdrag betreffende de Europese Unie en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506).
 
 - d). Zijn de bepalingen van dit Verdrag op de Kanaaleilanden en op het eiland Man slechts van toepassing voor zover noodzakelijk ter verzekering van de toepassing van de regeling die voor deze eilanden is vastgesteld in het op 22 januari 1972 ondertekende Verdrag betreffende de toetreding van nieuwe Lid-Staten tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie.
 
@@ -2081,17 +1592,7 @@ Indien een optreden van de Gemeenschap noodzakelijk blijkt ter verwezenlijking v
 
 ##### Artikel 204
 
-1. Wanneer een besluit is genomen tot schorsing van de stemrechten van de vertegenwoordiger van de regering van een lidstaat overeenkomstig artikel 7, lid 3, van het Verdrag betreffende de Europese Unie, worden deze stemrechten ook geschorst ten aanzien van dit Verdrag.
-
-2. Voorts kan de Raad, wanneer een ernstige en voortdurende schending door een lidstaat van in artikel 6, lid 1, van het Verdrag betreffende de Europese Unie genoemde beginselen is geconstateerd overeenkomstig artikel 7, lid 2, van het Verdrag betreffende de Europese Unie, met gekwalificeerde meerderheid van stemmen besluiten tot schorsing van bepaalde rechten die uit de toepassing van dit Verdrag op de lidstaat in kwestie voortvloeien. De Raad houdt daarbij rekening met de mogelijke gevolgen van een dergelijke schorsing voor de rechten en verplichtingen van natuurlijke en rechtspersonen.
-
-De verplichtingen van de lidstaat in kwestie uit hoofde van dit Verdrag blijven in ieder geval verbindend voor die lidstaat.
-
-3. De Raad kan daarna met gekwalificeerde meerderheid van stemmen besluiten om krachtens lid 2 genomen maatregelen te wijzigen of in te trekken in verband met wijzigingen in de toestand die tot het opleggen van de maatregelen heeft geleid.
-
-4. De Raad neemt de in de leden 2 en 3 bedoelde besluiten zonder rekening te houden met de stemmen van de vertegenwoordiger van de regering van de lidstaat in kwestie. In afwijking van artikel 118, lid 2, wordt een gekwalificeerde meerderheid omschreven als hetzelfde aandeel van de gewogen stemmen van de betrokken leden van de Raad als is vastgelegd in artikel 118, lid 2.
-
-Dit lid is ook van toepassing wanneer stemrechten worden geschorst overeenkomstig lid 1. In dergelijke gevallen wordt een besluit waarvoor eenparigheid van stemmen is vereist, genomen zonder de stem van de vertegenwoordiger van de regering van de lidstaat in kwestie.
+Vervallen
 
 ##### Artikel 205
 
@@ -2099,11 +1600,11 @@ Vervallen
 
 ##### Artikel 206
 
-De Gemeenschap kan met een of meer Staten of internationale organisaties akkoorden sluiten waarbij een associatie wordt ingesteld die wordt gekenmerkt door wederkerige rechten en verplichtingen, gemeenschappelijk optreden en bijzondere procedures.
+De Gemeenschap kan met een of meer staten of internationale organisaties overeenkomsten sluiten waarbij een associatie wordt ingesteld die wordt gekenmerkt door wederkerige rechten en verplichtingen, gemeenschappelijk optreden en bijzondere procedures.
 
-Die akkoorden worden gesloten door de Raad krachtens een na raadpleging van het Europees Parlement met eenparigheid van stemmen genomen besluit.
+Die overeenkomsten worden gesloten door de Raad krachtens een na raadpleging van het Europees Parlement met eenparigheid van stemmen genomen besluit.
 
-Wanneer die akkoorden wijzigingen in dit Verdrag medebrengen, moeten deze wijzigingen vooraf worden aangenomen volgens de procedure van artikel N van het Verdrag betreffende de Europese Unie.
+Wanneer die overeenkomsten wijzigingen van dit Verdrag vergen, moeten die wijzigingen vooraf volgens de procedure van [artikel 48, leden 2 tot en met 5, van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=48) worden aangenomen.
 
 ##### Artikel 207
 
@@ -2194,6 +1695,48 @@ Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het ned
 Dit Verdrag, opgesteld in één exemplaar, in de Duitse, de Franse, de Italiaanse en de Nederlandse taal, zijnde de vier teksten gelijkelijk authentiek, zal worden nedergelegd in het archief van de Regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de Regeringen der andere ondertekenende Staten.
 
 Krachtens de Toetredingsverdragen zijn de teksten van dit Verdrag in de Bulgaarse, de Tsjechische, de Deense, de Engelse, de Estse, de Finse, de Griekse, de Hongaarse, de Ierse, de Letse, de Litouwse, de Maltese, de Poolse, de Portugese, de Roemeense, de Slowaakse, de Sloveense, de Spaanse en de Zweedse taal eveneens gelijkelijk authentiek.
+
+TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit Verdrag hebben gesteld.
+
+Gedaan te Rome, de vijfentwintigste maart negentienhonderd zevenenvijftig.
+
+##### Artikel 106 bis
+
+1. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=7), de [artikelen 13 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=13), [artikel 48, leden 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=48), en de [artikelen 49 en 50 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=49), [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=15), de [artikelen 223 tot en met 236](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=223), de [artikelen 237 tot en met 244](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=237), [artikel 245](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=245), de [artikelen 246 tot en met 270](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=246), de [artikelen 272, 273 en 274](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=272), de [artikelen 277 tot en met 281](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=277), de [artikelen 285 tot en met 304](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=285), de [artikelen 310 tot en met 320](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=310), de [artikelen 322 tot en met 325](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=322) en de [artikelen 336](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=336), [342](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=342) en [344 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=344), alsmede het Protocol betreffende de overgangsbepalingen, zijn van toepassing op dit Verdrag.
+
+2. In het kader van het onderhavige Verdrag moeten de verwijzingen naar de Unie, naar het „[Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507)”, naar het „[Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506)” of naar de „Verdragen” in de bepalingen die in lid 1 genoemd worden of die opgenomen zijn in de protocollen gehecht aan die Verdragen of aan het onderhavige Verdrag, gelezen worden als verwijzingen naar de Europese Gemeenschap voor Atoomenergie en naar het onderhavige Verdrag.
+
+3. De bepalingen van het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) laten de bepalingen van het onderhavige Verdrag onverlet.
+
+### HOOFDSTUK II. De instellingen van de Gemeenschap
+
+### Afdeling I. Het Europees Parlement
+
+### Afdeling II. - De Raad
+
+### Afdeling III. - De Commissie
+
+### Afdeling IV. - Het Hof van Justitie van de Europese Unie
+
+### Afdeling V. DE REKENKAMER
+
+### HOOFDSTUK III. Bepalingen welke verscheidene instellingen gemeen hebben
+
+### HOOFDSTUK IV. Het Economisch en Sociaal Comité
+
+## TITEL VIERDE. Bijzondere financiële bepalingen
+
+## TITEL VIJFDE. ALGEMENE BEPALINGEN
+
+## TITEL ZESDE. BEPALINGEN MET BETREKKING TOT DE BEGINPERIODE
+
+### Afdeling I. - Oprichting van de instellingen
+
+### Afdeling II. - Bepalingen voor de eerste toepassing van het Verdrag
+
+### Afdeling III. - Overgangsbepalingen
+
+### SLOTBEPALINGEN
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit Verdrag hebben gesteld.
 
