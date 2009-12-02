@@ -4,7 +4,7 @@ identifier: "BWBR0026710"
 country: "nl"
 rank: "wet"
 publication_date: "2014-07-01"
-last_updated: "2009-11-25"
+last_updated: "2009-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026710"
 soort: "wet"
@@ -88,7 +88,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 1.10
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Waterwet.
 
 ##### Artikel 1.11
 
@@ -108,7 +108,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 1.15
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Goedkeurings- en uitvoeringswet Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart.
 
 ##### Artikel 1.16
 
