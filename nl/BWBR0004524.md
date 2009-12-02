@@ -4,7 +4,7 @@ identifier: "BWBR0004524"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-12-02"
-last_updated: "1989-04-30"
+last_updated: "2009-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004524"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 1. Het gehalte aan polychloorbifenylen in brandstoffen of grondstoffen voor brandstoffen wordt gemeten volgens de in bijlage A bij deze regeling aangegeven methode.
 
-2. Het gehalte aan organische halogeenverbindingen wordt gemeten volgens de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0004524&bijlage=B&z=1989-04-30&g=1989-04-30) bij deze regeling aangegeven methode.
+2. Het gehalte aan organische halogeenverbindingen wordt gemeten volgens de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0004524&bijlage=B&z=2009-12-02&g=2009-12-02) bij deze regeling aangegeven methode.
 
 ##### Artikel 2
 
-Indien door onderzoek van vloeibare brandstoffen of grondstoffen voor brandstoffen het gehalte aan polychloorbifenylen of organische halogeenverbindingen moet worden vastgesteld, wordt de bemonstering uitgevoerd volgens de methode van de American Society for Testing and Materials, ASTM D 4057–81.
+Indien door onderzoek van vloeibare brandstoffen of grondstoffen voor brandstoffen het gehalte aan polychloorbifenylen of organische halogeenverbindingen moet worden vastgesteld, wordt de bemonstering uitgevoerd volgens de methode van de American Society for Testing and Materials, ASTM D 4057–81, of een methode die is vastgesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en een beschermingsniveau biedt dat ten minste gelijkwaardig is aan het niveau dat met de hiervoor genoemde methode wordt nagestreefd.
 
 ##### Artikel 3
 
@@ -62,7 +62,7 @@ Dit voorschrift beschrijft een methode voor de bepaling van het halogeengehalte 
 
 ##### 2. Toepassingsgebied
 
-De beschreven methode is toepasbaar voor de bepaling van het EOX-gehalte van oliemonsters met een gehalte groter dan 2 mg/kg aan X. Er is sprake van extractie, omdat de olie gesuspendeerde vaste deeltjes kan bevatten en omdat zich in het monster na toevoeging van hexaan geëmulgeerde waterdruppeltjes kunnen bevinden. Indien na toevoeging van hexaan een fasescheiding optreedt, dient de waterfase eveneens op het voorkomen van organische halogeenverbindingen geanalyseerd te worden (overeenkomstig NEN 6402). Dit is ook van toepassing in het geval dat de partij waarvan het monster is getrokken, uit meerdere fasen bestaat.
+De beschreven methode is toepasbaar voor de bepaling van het EOX-gehalte van oliemonsters met een gehalte groter dan 2 mg/kg aan X. Er is sprake van extractie, omdat de olie gesuspendeerde vaste deeltjes kan bevatten en omdat zich in het monster na toevoeging van hexaan geëmulgeerde waterdruppeltjes kunnen bevinden. Indien na toevoeging van hexaan een fasescheiding optreedt, dient de waterfase eveneens op het voorkomen van organische halogeenverbindingen geanalyseerd te worden (overeenkomstig NEN 6402, of een norm die is vastgesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en een beschermingsniveau biedt dat ten minste gelijkwaardig is aan het niveau dat met de hiervoor genoemde norm wordt nagestreefd). Dit is ook van toepassing in het geval dat de partij waarvan het monster is getrokken, uit meerdere fasen bestaat.
 
 ##### 3. Definities
 
