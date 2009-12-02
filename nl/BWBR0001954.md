@@ -4,7 +4,7 @@ identifier: "BWBR0001954"
 country: "nl"
 rank: "kb"
 publication_date: "2009-12-02"
-last_updated: "2009-03-10"
+last_updated: "2009-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001954"
 soort: "KB"
@@ -78,7 +78,7 @@ De ministerieele toestemming wordt nimmer verleend, indien de verzoeker niet vol
 
 ##### Artikel 6
 
-De ministeriële toestemming wordt bij voorkeur verleend voor onbepaalden tijd en algemeen aan één rechtspersoon met volledige rechtsbevoegdheid, welke door organisaties van Nederlandse componisten en muziekuitgevers is gesticht, in verbinding staat met buitenlandse gelijksoortige rechtspersonen en niet het oogmerk heeft winst te maken.
+De ministeriële toestemming wordt bij voorkeur verleend voor onbepaalden tijd en algemeen aan één rechtspersoon met volledige rechtsbevoegdheid, welke door organisaties van componisten en muziekuitgevers is gesticht, in verbinding staat met buitenlandse gelijksoortige rechtspersonen en niet het oogmerk heeft winst te maken.
 
 ##### Artikel 7
 
