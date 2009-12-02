@@ -4,7 +4,7 @@ identifier: "BWBR0026738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-12-02"
-last_updated: "2009-03-01"
+last_updated: "2009-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026738"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **staatssecretaris:** Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
 
-- c. **commissie:** commissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026738&artikel=2&z=2009-12-02&g=2009-03-01).
+- c. **commissie:** commissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026738&artikel=2&z=2009-12-02&g=2009-12-02).
 
 ##### Artikel 2. Instelling en taak
 
