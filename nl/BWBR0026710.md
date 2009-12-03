@@ -4,7 +4,7 @@ identifier: "BWBR0026710"
 country: "nl"
 rank: "wet"
 publication_date: "2014-07-01"
-last_updated: "2009-12-02"
+last_updated: "2009-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026710"
 soort: "wet"
@@ -133,5 +133,25 @@ Dit onderdeel is nog niet inwerking getreden
 ### Hoofdstuk 2. Intrekking van wetten en overgangsrecht
 
 ### Hoofdstuk 3. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 3.1
+
+1. De tekst van de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) wordt in het Staatsblad geplaatst.
+
+2. Voor de plaatsing in het Staatsblad stelt Onze Minister van Verkeer en Waterstaat de nummering van de hoofdstukken, paragrafen en artikelen van de Waterwet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van de hoofdstukken, paragrafen en artikelen met de nieuwe nummering in overeenstemming.
+
+##### Artikel 3.2
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 3.3
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 3.4
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
