@@ -4,7 +4,7 @@ identifier: "BWBR0010042"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2009-12-02"
+last_updated: "2009-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010042"
 soort: "wet"
@@ -52,7 +52,7 @@ Vervallen
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet verontreiniging oppervlaktewateren.
 
 ##### Artikel III
 
@@ -64,7 +64,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de economische delicten.
 
 ##### Artikel VI
 
@@ -72,20 +72,20 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Het tarief van de in [artikel 39c van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39c) bedoelde afvalbeheerbijdrage is in het eerste kalenderjaar na inwerkingtreding van deze wet € 0,0075 per liter gasolie, voor zover voor dat kalenderjaar niet een andersluidend besluit als bedoeld in [artikel 39d, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39d) is tot stand gekomen.
 
 ##### Artikel VIII
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0010042&artikel=I&z=2009-12-02&g=2009-12-02), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010042&artikel=II&z=2009-12-02&g=2009-12-02) voor wat betreft [hoofdstuk 4A, paragraaf 4, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&paragraaf=4) in werking treedt.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0010042&artikel=I&z=2009-12-03&g=2009-12-03), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010042&artikel=II&z=2009-12-03&g=2009-12-03) voor wat betreft [hoofdstuk 4A, paragraaf 4, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&paragraaf=4) in werking treedt.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel IIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Binnenvaartwet.
 
 ##### Artikel VIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
