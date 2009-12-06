@@ -129,23 +129,3 @@ Gegevens te verstrekken door een instelling bij een aanvraag om een vergunning v
 - 2. Aangeven in hoeverre en op welke wijze voldaan wordt aan het gestelde in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026753&bijlage=1&z=2009-12-06&g=2009-12-06) bij het Planningsbesluit PCI’s, ICD’s en THI’s. Het betreft hier het volgen van de kwaliteitseisen uit het Consensusdocument THV van 4 mei 2009, of nadien door de beroepsgroep geformuleerde eisen in consensusdocumenten of richtlijnen.
 
 Deze regeling zal met de bijbehorende bijlagen en toelichting worden geplaatst in de Staatscourant.
-
-## Bijlage 2
-
-Gegevens te verstrekken door een instelling bij een aanvraag om een vergunning voor het uitvoeren van THI’s, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846).
-
-- 1. Algemene gegevens van de aanvrager:
-
-- a. naam van de rechtspersoon, en
-
-- b. adres.
-
-- 2. Aangeven in hoeverre en op welke wijze voldaan wordt aan het gestelde in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026753&bijlage=1&z=2012-02-28&g=2012-02-28) bij het Planningsbesluit PCI’s, ICD’s en THI’s. Het betreft hier het volgen van de kwaliteitseisen uit het Consensusdocument THV van 4 mei 2009, of nadien door de beroepsgroep geformuleerde eisen in consensusdocumenten of richtlijnen.
-
-Deze regeling zal met de bijbehorende bijlagen en toelichting worden geplaatst in de Staatscourant.
-
-## Bijlage 2
-
-Vervallen
-
-Deze regeling zal met de bijbehorende bijlagen en toelichting worden geplaatst in de Staatscourant.
