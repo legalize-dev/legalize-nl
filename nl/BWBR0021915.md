@@ -4,7 +4,7 @@ identifier: "BWBR0021915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2009-04-18"
+last_updated: "2009-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021915"
 soort: "ministeriele-regeling"
@@ -72,9 +72,13 @@ In deze regeling wordt verstaan onder:
 
 1. De vergunning heeft een geldigheidsduur van twee jaar.
 
-2. Indien de aanvrager, die voor de ruimte waarvoor een vergunning wordt gevraagd, een vergunning vraagt in verband met de beëindiging van een eerder verleende vergunning, behoudt die eerder verleende vergunning haar geldigheid totdat op de nieuwe aanvraag is beslist.
+2. Indien de aanvrager een vergunning vraagt in verband met de beëindiging van een eerder voor dezelfde ruimte verleende vergunning, behoudt die eerder verleende vergunning na afloop van de duur waarvoor zij is verleend haar geldigheid totdat:
 
-3. Het tweede lid is niet van toepassing indien de aanvraag voor de vergunning niet uiterlijk acht weken voor het beëindigen van de eerdere vergunning is gedaan.
+- a. indien toepassing wordt gegeven aan [artikel 4:14, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:14), op de aanvraag is beslist, dan wel,
+
+- b. indien [artikel 4:20b, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:20b) van toepassing is, totdat de van rechtswege verleende vergunning in werking is getreden.
+
+3. Het tweede lid is niet van toepassing indien de aanvraag voor de vergunning niet uiterlijk acht weken en drie dagen voor het beëindigen van de eerdere vergunning is gedaan.
 
 ##### Artikel 4
 
