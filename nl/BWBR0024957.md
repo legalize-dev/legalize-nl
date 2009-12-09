@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-11-25"
+last_updated: "2009-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -102,12 +102,12 @@ Besluit:
 |   |   |   | Photonic devices (periode vooraanmelding) |   | – |
 |   |   |   | Photonic devices |   |   |
 | ... | ... |   | Maritiem (periode vooraanmelding) | 01-10 t/m 30-10 |   |
-| 3.4 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (LSH-projecten) | [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=4.2) |   | 07-01 t/m 27-04 | 3.000.000 |
+| 3.4 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (LSH-projecten) | [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=4.2) |   | 07-01 t/m 27-04 | 3.850.000 |
 | 3.5 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (LSH-projecten) | [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=4.11) |   |   |   |
 | 3.5a | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (LSH-projecten) | [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=4.20) |   | 01-07 t/m 01-09 | 1.000.000 |
-| 3.6 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (FND haalbaarheidsprojecten) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.2) |   | 02-03 t/m 09-10 | 1.000.000 |
-| 3.7 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (FND innovatieprojecten) | [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.9) |   | 02-03 t/m 19-06 | 6.000.000 |
-| 3.8 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (FND-MKB-innovatieprojecten) | [5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.19) |   | 02-03 t/m 09-10 | 3.000.000 |
+| 3.6 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (FND haalbaarheidsprojecten) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.2) |   | 02-03 t/m 09-10 | 1.350.000 |
+| 3.7 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (FND innovatieprojecten) | [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.9) |   | 02-03 t/m 19-06 | 6.900.000 |
+| 3.8 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (FND-MKB-innovatieprojecten) | [5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.19) |   | 02-03 t/m 09-10 | 4.100.000 |
 | 3.9 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (HTAS doorbraakprojecten) | [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=6.2) |   | 01-02 t/m 01-10 | 4.000.000 |
 | 3.10 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (HTAS-internationale innovatieprojecten) | [6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=6.9) |   | 01-02 t/m 11-09 | 3.000.000 |
 | 3.11 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (InnoWATOR-projecten) | [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=7.2) |   | 06-04 t/m 03-07 | 5.000.000 |
@@ -152,7 +152,7 @@ Besluit:
 | 11.4 | [Besluit EOS: lange termijn](https://wetten.overheid.nl/jci1.3:c:BWBR0017234) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017234&artikel=2) | Andere NEO-projecten dan haalbaarheidsstudies | Tijdstip van inwerkingtreding van deze regeling t/m 16-04 | 600.000 |
 | 11.5 | [Besluit EOS: lange termijn](https://wetten.overheid.nl/jci1.3:c:BWBR0017234) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017234&artikel=2) | Andere NEO-projecten dan haalbaarheidsstudies | 01-05 t/m 20-08 | 700.000 |
 | 12.1 | [Tijdelijke subsidieregeling korte termijn energieonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0023852) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0023852&artikel=2) | Haalbaarheidsstudies | 01-01 t/m 15-10 | 1.000.000 |
-| 12.2 | [Tijdelijke subsidieregeling korte termijn energieonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0023852) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0023852&artikel=2) | Andere projecten dan haalbaarheidsstudies | 01-05 t/m 03-09 | 7.600.000 |
+| 12.2 | [Tijdelijke subsidieregeling korte termijn energieonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0023852) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0023852&artikel=2) | Andere projecten dan haalbaarheidsstudies | 01-05 t/m 03-09 | 8.900.000 |
 | 13 | [Subsidieregeling innovatieve zeescheepsbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0021771) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0021771&artikel=2) |   | 01-01 t/m 30-09 | 19.500.000 |
 | 14 | Besluit subsidies regionale investeringsprojecten | 2 |   | 01-01 t/m 31-12 | 12.500.000 |
 | 15 | [Regeling exportfinancieringsarrangement zware matching](https://wetten.overheid.nl/jci1.3:c:BWBR0009176). | [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009176&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009176&artikel=6) |   |   |   |
@@ -164,7 +164,7 @@ Besluit:
 |   |   |   | Lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-09 | 2.000.000 |
 |   |   |   | Installaties voor micro-warmtekrachtkoppeling | 10-09-2008 t/m 31-12-09 | 2.000.000 |
 | 17.2 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Unieke kansen programma verduurzaming warmte en koude) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=3.2) |   | 15-08-09 t/m 05-11-09 | 10.000.000 |
-| 17.3 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (EOS-demonstratieprojecten) | [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=4.2) |   | 01-07-09 t/m 10-09-09 | 7.000.000 |
+| 17.3 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (EOS-demonstratieprojecten) | [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=4.2) |   | 01-07-09 t/m 10-09-09 | 8.200.000 |
 | 17.4 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Unieke kansenprogramma naar energieneutrale scholen en kantoren) | [5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=5.2) | Haalbaarheidsstudies | Datum van inwerkingtreding van artikel 5.2 t/m 03-08-09 | 450.000 |
 |   |   | [5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=5.2) | Unieke kansen project scholen/kantoren | 01-07-09 t/m 03-12-09 | 5.000.000 |
 | 17.5 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Duurzame biomassa-import) | [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=6.2) |   | Datum van inwerkingtreding van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=6.2) t/m 15-10-09 | 4.000.000 |
@@ -197,7 +197,7 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 
-2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-11-25&g=2009-11-25), is van overeenkomstige toepassing.
+2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-12-09&g=2009-12-09), is van overeenkomstige toepassing.
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
