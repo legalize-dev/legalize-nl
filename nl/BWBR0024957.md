@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-12-09"
+last_updated: "2009-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -71,8 +71,8 @@ Besluit:
 | 2.2b | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatiekredieten) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.2) | Technische ontwikkelingsprojecten | 01-01 t/m 31-12 | 25.000.000 |
 | 2.3 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatieprestatiecontracten) | [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.3) |   | 15-01 t/m 31-12 | 1.000.000 |
 | 2.4 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatieprestatiecontracten) | [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.10) |   | 15-01 t/m 31-12 | 33.700.000 |
-| 2.5 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatievouchers) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.2) | Aantal beschikbare grote vouchers | 31-03 t/m 31-12 | 3500 stuks |
-| 2.6 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatievouchers) | [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.3) | Aantal beschikbare kleine vouchers | 31-03 t/m 31-12 | 3500 stuks |
+| 2.5 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatievouchers) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.2) | Aantal beschikbare grote vouchers | 31-03 t/m 31-12 | 3589 stuks |
+| 2.6 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatievouchers) | [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.3) | Aantal beschikbare kleine vouchers | 31-03 t/m 31-12 | 3588 stuks |
 | 2.7 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (innovatievouchers) | [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.7) |   |   |   |
 | 2.8 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (pilot private innovatievouchers) | [5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.2) | Aantal beschikbare grote innovatievouchers | 11-05 t/m 01-07 10-09 t/m 31-12 | 250 stuks 250 stuks |
 | 2.9 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) (pilot private innovatievouchers) | [5a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.3) | Aantal beschikbare kleine innovatievouchers | 11-05 t/m 01-07 10-09 t/m 31-12 | 250 stuks 250 stuks |
@@ -197,7 +197,7 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 
-2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-12-09&g=2009-12-09), is van overeenkomstige toepassing.
+2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-12-11&g=2009-12-11), is van overeenkomstige toepassing.
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
