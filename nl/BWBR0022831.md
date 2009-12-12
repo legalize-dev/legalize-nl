@@ -4,7 +4,7 @@ identifier: "BWBR0022831"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-02-18"
-last_updated: "2007-11-17"
+last_updated: "2009-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022831"
 soort: "ministeriele-regeling"
@@ -54,9 +54,9 @@ Als Europees Programma, bedoeld in [artikel 3, eerste lid](https://wetten.overhe
 
 ##### Artikel 2
 
-1. De bevoegdheid tot het nemen van besluiten op grond van deze regeling wordt gedelegeerd aan de managementautoriteit van het desbetreffende programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2007-11-17&g=2007-11-17).
+1. De bevoegdheid tot het nemen van besluiten op grond van deze regeling wordt gedelegeerd aan de managementautoriteit van het desbetreffende programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2009-12-12&g=2009-12-12).
 
-2. De managementautoriteit van het programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2007-11-17&g=2007-11-17), kan op aanvraag subsidie verlenen aan degene die een project tot stand brengt dat past in dat programma.
+2. De managementautoriteit van het programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2009-12-12&g=2009-12-12), kan op aanvraag subsidie verlenen aan degene die een project tot stand brengt dat past in dat programma.
 
 ##### Artikel 3
 
@@ -76,7 +76,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 - a. blijkt dat de beoogde cofinanciering door de overige cofinanciers gedeeltelijk niet zal worden verleend, of
 
-- b. het project naar het oordeel van de managementautoriteit volgens het Europees programma of volgens de beleidsregels, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=6&z=2007-11-17&g=2007-11-17), in aanmerking komt voor een groter deel cofinanciering door een ander bestuursorgaan en blijkt dat deze cofinanciering niet of niet volledig zal worden verleend.
+- b. het project naar het oordeel van de managementautoriteit volgens het Europees programma of volgens de beleidsregels, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=6&z=2009-12-12&g=2009-12-12), in aanmerking komt voor een groter deel cofinanciering door een ander bestuursorgaan en blijkt dat deze cofinanciering niet of niet volledig zal worden verleend.
 
 4. De Minister kan ontheffing verlenen van het bepaalde in het eerste lid.
 
@@ -110,7 +110,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 ##### Artikel 9
 
-1. De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle door hem gemaakte en betaalde kosten, aangegane verplichtingen en verrichte betalingen en de eventueel aan het project toe te rekenen opbrengsten kunnen worden afgelezen gespecificeerd overeenkomstig de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10&z=2007-11-17&g=2007-11-17), onderscheiden kostensoorten, met dien verstande dat ter zake van de kosten bedoeld in [artikel 10, eerste lid, onder a, onderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10&z=2007-11-17&g=2007-11-17), een door middel van een inzichtelijke tijdschrijving controleerbare urenverantwoording per werknemer aanwezig dient te zijn.
+1. De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle door hem gemaakte en betaalde kosten, aangegane verplichtingen en verrichte betalingen en de eventueel aan het project toe te rekenen opbrengsten kunnen worden afgelezen gespecificeerd overeenkomstig de in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10&z=2009-12-12&g=2009-12-12), onderscheiden kostensoorten, met dien verstande dat ter zake van de kosten bedoeld in artikel 10, eerste lid, onder a, onderdeel 1° en tweede lid, een door middel van een inzichtelijke tijdschrijving controleerbare urenverantwoording per werknemer aanwezig dient te zijn.
 
 2. De subsidie-ontvanger doet onverwijld mededeling aan de managementautoriteit van de indiening bij de rechtbank van een verzoek tot het op hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, tot verlening van surseance van betaling aan hem of tot faillietverklaring van hem.
 
@@ -124,21 +124,25 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 ##### Artikel 10
 
-1. Als projectkosten worden uitsluitend de volgende rechtstreeks aan het project toe te rekenen kosten in aanmerking genomen:
+1. Als subsidiabele kosten worden uitsluitend de volgende rechtstreeks aan het project toe te rekenen kosten in aanmerking genomen:
 
 - a. de volgende door de subsidieontvanger gemaakte en betaalde kosten:
 
-- 1°. het aantal door direct bij het project betrokken personeel gemaakte uren, vermenigvuldigd met het in het tweede lid bedoelde integrale uurtarief dat de subsidieontvanger hanteert voor dat personeel, dan wel de loonkosten en de algemene indirecte kosten bedoeld in het derde lid;
+- 1°. loonkosten, voor de berekening waarvan de aanvrager bij de aanvraag kiest uit:
+
+- –. de loonkosten plus overhead systematiek, opgenomen in [artikel 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2009-12-12&g=2009-12-12),
+
+- –. de integraal uurtarief systematiek, opgenomen in [artikel 10a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10a&z=2009-12-12&g=2009-12-12);
 
 - 2°. kosten ten behoeve van promotie en publiciteit;
 
-- 3°. aankoop van grond, gebaseerd op een waardebepaling door een beëdigd taxateur, tot een maximum van 10% van de subsidiabele projectkosten zonder de kosten voor de aankoop van grond;
+- 3°. aankoop of inbreng van grond, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden, tot een maximum van 10% van de subsidiabele projectkosten;
 
-- 4°. aankoop van gebouwen en onroerend goed, met inbegrip van de kosten voor aankoop, belastingen, leges en taxatiekosten, als deze gebouwen en onroerend goederen dezelfde functie voor een periode van tenminste vijf jaar na afloop van het project blijven houden, gebaseerd op een waardebepaling door een beëdigd taxateur;
+- 4°. aankoop of inbreng van gebouwen en onroerende zaken, met inbegrip van de kosten voor aankoop, belastingen, leges en taxatiekosten, gebaseerd op de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
 
-- 5°. kosten van de voor het project aangeschafte machines en apparatuur en productiemiddelen, gebaseerd op een onafhankelijke waardebepaling;
+- 5°. kosten van de voor het project aangeschafte machines en apparatuur en productiemiddelen, de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
 
-- 6°. kosten van het gebruik voor het project van machines en apparatuur die in het bezit zijn van een deelnemer aan het kennisproject of van derden, gebaseerd op onafhankelijke waardebepaling;
+- 6°. kosten van het gebruik voor het project van machines en apparatuur die in het bezit zijn van een deelnemer aan het kennisproject of van derden, de objectief aangetoonde actuele marktwaarde, blijkend uit bij de aanvraag om subsidievaststelling gevoegde gegevens en bescheiden;
 
 - 7°. kosten van verbruikte materialen en hulpmiddelen, gebaseerd op historische aanschafprijzen;
 
@@ -150,13 +154,9 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 - b. kosten voor bijdragen in fondsen of andere methoden op het gebied van financiële instrumentering als bedoeld in artikel 44 van de [kaderverordening 1083/2006](32006R1083).
 
-2. De subsidieontvanger berekent het integrale uurtarief op basis van een bij de subsidieontvanger gebruikelijke en controleerbare methodiek, die is gebaseerd op bedrijfseconomisch en maatschappelijk aanvaardbare grondslagen. Het integrale uurtarief is samengesteld uit de directe personeelskosten en de indirecte kosten. Het integrale uurtarief betreft uitsluitend de kosten uit de gewone bedrijfsvoering en bevat geen winstopslag.
+2. Indien geen loonkosten worden gemaakt als bedoeld in het eerste lid, onder a, onderdeel 1°, maar desniettemin als bijdrage in natura arbeid ten behoeve van het project wordt verricht, worden de subsidiabele kosten berekend door het aantal uren dat de deelnemers aan het project ten behoeve van deze activiteiten hebben gemaakt te vermenigvuldigen met een vast uurtarief van € 35.
 
-3. Indien de subsidieontvanger geen integraal uurtarief hanteert worden de volgende kosten in aanmerking genomen:
-
-- a. loonkosten van het bij de uitvoering van het project direct betrokken personeel, berekend op basis van het brutoloon volgens de loonstaat van de betrokken medewerkers, verhoogd met de wettelijke dan wel op grond van een collectieve arbeidsovereenkomst verschuldigde opslagen voor sociale lasten, met dien verstande dat wordt uitgegaan van 1650 productieve uren per jaar uitgaande van een voltijds dienstverband.
-
-- b. algemene indirecte kosten (overhead) die gerelateerd zijn aan de loonkosten, of op basis van de werkelijke kosten van de uitgevoerde actie waarbij vooraf een goedgekeurde berekeningswijze bij de subsidieaanvraag wordt overgelegd;
+3. In afwijking van het eerste lid kunnen op aanvraag van de subsidieontvanger voor de subsidiabele kosten of een deel daarvan in de beschikking tot subsidieverlening vaste bedragen worden vermeld tot een totaalbedrag van ten hoogste € 50.000.
 
 4. De in het eerste, tweede en derde lid genoemde kosten zijn slechts toe te rekenen aan het project voor zover zij proportioneel en doelmatig zijn.
 
@@ -204,7 +204,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 ##### Artikel 14
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2007-11-17&g=2007-11-17) en [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=13&z=2007-11-17&g=2007-11-17), genoemde programma's worden ter inzage gelegd bij het Informatiecentrum van het Ministerie van Economische Zaken, Bezuidenhoutseweg 30, kamer 0.23, te Den haag.
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2009-12-12&g=2009-12-12) en [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=13&z=2009-12-12&g=2009-12-12), genoemde programma's worden ter inzage gelegd bij het Informatiecentrum van het Ministerie van Economische Zaken, Bezuidenhoutseweg 30, kamer 0.23, te Den haag.
 
 ##### Artikel 15
 
@@ -213,3 +213,19 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling EFRO doelstelling 2 programmaperiode 2007–2013.
+
+##### Artikel 10a
+
+1. Indien de subsidieontvanger kiest voor de loonkosten plus overhead systematiek, worden de volgende kosten in aanmerking genomen:
+
+- a. loonkosten van het bij de uitvoering van het project direct betrokken personeel, berekend op basis van het brutoloon volgens de loonstaat van de betrokken medewerkers, verhoogd met de wettelijke dan wel op grond van een collectieve arbeidsovereenkomst verschuldigde opslagen voor sociale lasten, met dien verstande dat wordt uitgegaan van 1650 productieve uren per jaar bij een voltijds dienstverband van 40 uren;
+
+- b. algemene indirecte kosten (overhead), gerelateerd aan de loonkosten en gebaseerd op de werkelijke kosten van de uitgevoerde activiteit, volgens een bij de aanvraag om subsidie overgelegde berekeningsmethodiek.
+
+2. Indien de subsidieontvanger kiest voor de integraal uurtarief systematiek worden de subsidiabele kosten berekend door het aantal door het direct bij de uitvoering van het project betrokken personeel gemaakte uren te vermenigvuldigen met het in het derde en vierde lid bedoelde integrale uurtarief dat de subsidieontvanger hanteert voor de functiecategorie van dat personeel, met dien verstande dat het aantal gemaakte uren per persoon op jaarbasis niet meer bedraagt dan het aantal uren dat voor de desbetreffende functiecategorie op jaarbasis is gehanteerd voor de berekening van het integrale uurtarief.
+
+3. De subsidieontvanger berekent het integrale uurtarief op basis van een bij de subsidieontvanger gebruikelijke en controleerbare methode, die is gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd en die de subsidieontvanger stelselmatig toepast. Het integrale uurtarief is samengesteld uit de directe personeelskosten en de algemene indirecte kosten (overhead). Het integrale uurtarief betreft uitsluitend de kosten uit de gewone bedrijfsvoering en bevat geen winstopslag.
+
+4. De subsidieontvanger legt bij de aanvraag om subsidie en daarna jaarlijks een specificatie over van alle kostensoorten binnen het gehanteerde integrale uurtarief en het aantal uren per functiecategorie waarop het integrale uurtarief is gebaseerd.
+
+5. Bij toepassing van de integraal uurtarief systematiek is de tijdschrijving, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=9&z=2009-12-12&g=2009-12-12), sluitend.
