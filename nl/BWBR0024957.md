@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-12-11"
+last_updated: "2009-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -160,9 +160,9 @@ Besluit:
 | 16.2 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2getthere) | [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=32) |   | 08-06 t/m 30-12 | 6.000.000 |
 | 16.3 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2xplore) | [38](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=38) |   | 08-06 t/m 30-12 | 3.000.000 |
 | 16.4 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (bestaande 2getthere programma’s) | [44](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=44) |   | 08-06 t/m 31-08 | 10.000.000 |
-| 17.1 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Duurzame warmte voor bestaande woningen) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=2.2) | Zonneboilers en warmtepompen, niet zijnde lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-09 | 16.000.000 |
-|   |   |   | Lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-09 | 2.000.000 |
-|   |   |   | Installaties voor micro-warmtekrachtkoppeling | 10-09-2008 t/m 31-12-09 | 2.000.000 |
+| 17.1 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Duurzame warmte voor bestaande woningen) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=2.2) | Zonneboilers en warmtepompen, niet zijnde lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-09 | 32.000.000 |
+|   |   |   | Lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-09 | 4.000.000 |
+|   |   |   | Installaties voor micro-warmtekrachtkoppeling | 10-09-2008 t/m 31-12-09 | 4.000.000 |
 | 17.2 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Unieke kansen programma verduurzaming warmte en koude) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=3.2) |   | 15-08-09 t/m 05-11-09 | 10.000.000 |
 | 17.3 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (EOS-demonstratieprojecten) | [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=4.2) |   | 01-07-09 t/m 10-09-09 | 8.200.000 |
 | 17.4 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Unieke kansenprogramma naar energieneutrale scholen en kantoren) | [5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=5.2) | Haalbaarheidsstudies | Datum van inwerkingtreding van artikel 5.2 t/m 03-08-09 | 450.000 |
@@ -197,7 +197,7 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 
-2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-12-11&g=2009-12-11), is van overeenkomstige toepassing.
+2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-12-15&g=2009-12-15), is van overeenkomstige toepassing.
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
