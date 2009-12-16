@@ -4,7 +4,7 @@ identifier: "BWBR0006447"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "1994-02-25"
+last_updated: "2009-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006447"
 soort: "AMvB"
@@ -49,33 +49,35 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder:
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. stoffen: chemische elementen en hun verbindingen, zoals zij voorkomen in natuurlijke toestand of bij de produktie ontstaan en die eventueel alle additieven bevatten die nodig zijn voor het in de handel brengen van deze stoffen;
+- a. **stof:** een chemisch element en de verbindingen ervan, zoals zij voorkomen in natuurlijke toestand of bij de vervaardiging ontstaan, met inbegrip van alle additieven die nodig zijn voor het behoud van de stabiliteit ervan en alle onzuiverheden ten gevolge van het toegepaste procedé, doch met uitzondering van elk oplosmiddel dat kan worden afgescheiden zonder dat de stabiliteit van de stof wordt aangetast of de samenstelling ervan wordt gewijzigd;
 
-- b. preparaten: mengsels of oplossingen die bestaan uit twee of meer stoffen.
+- b. **mengsel:** een mengsel of oplossing bestaande uit twee of meer stoffen;
+
+- c. **voorwerp:** een object waaraan tijdens de productie een speciale vorm, oppervlak of patroon wordt gegeven waardoor zijn functie in hogere mate wordt bepaald dan door de chemische samenstelling;
+
+- d. **verordening (EG) 1907/2006:** verordening (EG) nr. 1907/2006 van het Europees Parlement en de Raad van de Europese Unie van 18 december 2006 (PbEU 2007, L 136) inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH), tot oprichting van een Europees Agentschap voor chemische stoffen, houdende wijziging van richtlijn 1999/45/EG en houdende intrekking van verordening (EEG) nr. 793/93 van de Raad en verordening (EG) nr. 1488/94 van de Commissie alsmede richtlijn 76/769/EEG van de Raad en de richtlijnen 91/155/EEG, 93/67/EEG, 93/105/EG en 2000/21/EG van de Commissie.
 
 ##### Artikel 2
 
-Het is verboden waren die niet voldoen aan de bij of krachtens dit besluit gestelde eisen, te vervaardigen of te verhandelen.
+Het is verboden te handelen in strijd met artikel 67, eerste lid, en bijlage XVII van verordening (EG) 1907/2006, voor zover de daarin opgenomen voorschriften betrekking hebben op:
+
+- a. de in kolom 1 van die bijlage onder de nummers 2, 3, 4, 5, 7, 8, 9, 10, 11, 16, 17, 27, 28, 29, 30, 32, 34, 35, 36, 37, 38, 40, 43, 44, 45, 46, 48, 51, 52, 53, 54, 55, 56 en 57 aangeduide stoffen, groepen van stoffen of mengsels;
+
+- b. de in kolom 1 van die bijlage onder nummer 31 aangeduide stoffen, groepen van stoffen of mengsels, in samenhang met uitsluitend het behandelde hout, bedoeld in punt 3 van de bijbehorende in kolom 2 van die bijlage opgenomen beperkingsvoorwaarden.
 
 ##### Artikel 3
 
-1. Waren als bedoeld in [Richtlijn 76/769/EEG](31976L0769) van de Raad van de Europese Gemeenschappen van 27 juli 1976 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen der Lid-Staten inzake beperking van het op de markt brengen en van het gebruik van bepaalde gevaarlijke stoffen en preparaten (**PbEG** L 262), mogen de in deze richtlijn genoemde stoffen op preparaten niet bevatten, indien zij daardoor een gevaar kunnen opleveren voor de veiligheid en gezondheid van personen.
-
-2. Onze Minister kan, ter uitvoering van de in het eerste lid genoemde richtlijn, ten aanzien van het eerste lid nadere regels stellen, bevattende:
-
-- -. lijsten met stoffen of preparaten welke niet in waren als bedoeld in het eerste lid mogen voorkomen;
-
-- -. lijsten met stoffen die slechts onder bepaalde voorwaarden in waren als bedoeld in het eerste lid mogen voorkomen.
+Vervallen
 
 ##### Artikel 4
 
-Een wijziging van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006447&artikel=3&z=1994-02-25&g=1994-02-25) genoemde richtlijn treedt voor de toepassing van dat artikel in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uiterlijk uitvoering moet zijn gegeven.
+Vervallen
 
 ##### Artikel 5
 
-Het Siervoorwerpenbesluit (Warenwet) wordt ingetrokken.
+Vervallen
 
 ##### Artikel 6
 
