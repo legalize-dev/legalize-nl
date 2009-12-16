@@ -4,7 +4,7 @@ identifier: "BWBR0026759"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2009-12-07"
+last_updated: "2009-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026759"
 soort: "wet"
@@ -56,7 +56,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **bevoegde instantie:** bestuursorgaan, een ander orgaan of een autoriteit, dat of die een toezichthoudende, vergunningverlenende of regelgevende rol vervult ten aanzien van diensten;
 
-- **centraal loket:** het centraal loket, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2009-12-07&g=2009-12-07);
+- **centraal loket:** het centraal loket, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2009-12-16&g=2009-12-16);
 
 - **consument:** afnemer die een natuurlijke persoon is, niet handelend in de uitoefening van een beroep of bedrijf;
 
@@ -72,7 +72,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **gereglementeerd beroep:** beroepsactiviteit of een geheel van beroepsactiviteiten als bedoeld in artikel 3, eerste lid, onder a, van richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255);
 
-- **informatiepunt:** het informatiepunt, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2009-12-07&g=2009-12-07);
+- **informatiepunt:** het informatiepunt, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2009-12-16&g=2009-12-16);
 
 - **interne markt informatiesysteem:** elektronisch informatiesysteem, bedoeld in artikel 34 van de richtlijn, voor de uitwisseling van informatie tussen de bevoegde instanties van de lidstaten;
 
@@ -154,19 +154,33 @@ Het bij of krachtens deze wet bepaalde is mede van toepassing in de Nederlandse 
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister maakt de volgende informatie voor dienstverrichters via het centraal loket toegankelijk:
+
+- a. de eisen en vergunningstelsels, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2009-12-16&g=2009-12-16), en de namen en adresgegevens van de bij die eisen en vergunningstelsels betrokken bevoegde instanties;
+
+- b. de rechtsmiddelen die algemeen voorhanden zijn voor het beslechten van geschillen tussen bevoegde instanties en dienstverrichters, tussen dienstverrichters en afnemers of tussen dienstverrichters onderling;
+
+- c. de middelen en voorwaarden om toegang te krijgen tot openbare registers en openbare databanken met gegevens over dienstverrichters en diensten;
+
+- d. de namen en adresgegevens van verenigingen en organisaties zonder winstoogmerk, anders dan de bevoegde instanties, van welke dienstverrichters praktische bijstand kunnen krijgen.
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een bevoegde instantie die betrokken is bij één of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2009-12-16&g=2009-12-16), maakt de volgende informatie voor dienstverrichters langs elektronische weg toegankelijk:
+
+- a. de eisen of vergunningstelsels, waarbij die instantie is betrokken en haar naam en adresgegevens;
+
+- b. de rechtsmiddelen die algemeen voorhanden zijn voor het beslechten van geschillen tussen haar en een dienstverrichter over eisen en vergunningstelsels waarbij zij is betrokken.
+
+2. Een bevoegde instantie maakt tevens informatie voor dienstverrichters langs elektronische weg toegankelijk over de middelen en voorwaarden om toegang te krijgen tot een openbaar register of een openbare databank met gegevens over dienstverrichters en diensten, voor zover die instantie daarbij betrokken is.
 
 ##### Artikel 9
 
-Dit onderdeel is nog niet inwerking getreden
+De informatie, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2009-12-16&g=2009-12-16) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2009-12-16&g=2009-12-16) is actueel, duidelijk en ondubbelzinnig.
 
 ##### Artikel 10
 
-Bij ministeriële regeling kunnen ten behoeve van een goede uitvoering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2009-12-07&g=2009-12-07) regels worden gesteld over de wijze waarop bevoegde instanties informatie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2009-12-07&g=2009-12-07) ordenen en toegankelijk maken.
+Bij ministeriële regeling kunnen ten behoeve van een goede uitvoering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2009-12-16&g=2009-12-16) regels worden gesteld over de wijze waarop bevoegde instanties informatie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2009-12-16&g=2009-12-16) ordenen en toegankelijk maken.
 
 ##### Artikel 11
 
@@ -178,11 +192,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 13
 
-1. Dit lid is nog niet in werking getreden.
+1. Onze Minister biedt een dienstverrichter respectievelijk een bevoegde instantie de mogelijkheid berichten die betrekking hebben op procedures en formaliteiten via het centraal loket te verzenden en te ontvangen.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld inzake vernietigingstermijnen van via het centraal loket verzonden berichten.
 
-3. Dit lid is nog niet in werking getreden.
+3. Onze Minister draagt onverwijld zorg voor vernietiging van een bericht na verloop van de krachtens het tweede lid gestelde termijnen.
 
 ##### Artikel 14
 
@@ -190,15 +204,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 - a. draagt zorg voor aansluiting op het centraal loket;
 
-- b. dit onderdeel is nog niet in werking getreden;
+- b. verzendt daarop betrekking hebbende berichten via het centraal loket, voor zover een dienstverrichter waarvoor een bericht bestemd is via het centraal loket aan de bevoegde instantie kenbaar heeft gemaakt dat hij langs deze weg voldoende bereikbaar is.
 
-- c. dit onderdeel is nog niet in werking getreden.
+- c. draagt er zorg voor dat zij via het centraal loket voldoende bereikbaar is voor daarop betrekking hebbende berichten van een dienstverrichter.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot technische eisen waaraan door een bevoegde instantie als bedoeld in het eerste lid moet worden voldaan met het oog op aansluiting op het centraal loket.
 
+3. Het eerste lid geldt, voor zover van toepassing, in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14).
+
 ##### Artikel 15
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel 2:15, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15), is niet van toepassing op de verzending via het centraal loket van gegevens en bescheiden die op procedures en formaliteiten betrekking hebben.
+
+2. Voor zover daarvan bij of krachtens deze wet niet wordt afgeweken, zijn de [artikelen 2:14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14), [2:15, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15), [2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:16) en [2:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:17) van overeenkomstige toepassing op berichten waarop dit hoofdstuk en [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&z=2009-12-16&g=2009-12-16) van toepassing zijn en waarbij een bevoegde instantie niet als bestuursorgaan is betrokken.
 
 #### § 3.4. Gegevensbescherming
 
@@ -214,7 +232,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 17
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister maakt via het centraal loket voor zakelijke afnemers toegankelijk:
+
+- a. de informatie, bedoeld in [artikel 7, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2009-12-16&g=2009-12-16);
+
+- b. algemene informatie over in andere lidstaten geldende eisen inzake toegang tot en uitoefening van diensten;
+
+- c. de rechtsmiddelen die algemeen voorhanden zijn voor het beslechten van geschillen tussen bevoegde instanties en zakelijke afnemers of tussen dienstverrichters en zakelijke afnemers;
+
+- d. algemene informatie over in andere lidstaten beschikbare rechtsmiddelen voor het beslechten van geschillen tussen dienstverrichters en zakelijke afnemers;
+
+- e. de namen en adresgegevens van verenigingen of organisaties zonder winstoogmerk, anders dan de bevoegde instanties, waarvan zakelijke afnemers praktische bijstand kunnen krijgen;
+
+- f. de namen en adresgegevens van verenigingen of organisaties zonder winstoogmerk, die geen bevoegde instantie in enige lidstaat zijn, en waar zakelijke afnemers praktische bijstand van kunnen krijgen in een andere lidstaat dan Nederland.
 
 ##### Artikel 18
 
@@ -222,15 +252,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 19
 
-Dit onderdeel is nog niet inwerking getreden
+Een bevoegde instantie die betrokken is bij één of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2009-12-16&g=2009-12-16), maakt voor afnemers langs elektronische weg toegankelijk:
+
+- a. de informatie, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2009-12-16&g=2009-12-16), en artikel 8, tweede lid;
+
+- b. de rechtsmiddelen die algemeen voorhanden zijn voor het beslechten van geschillen tussen haar en een afnemer of tussen een dienstverrichter en een afnemer.
 
 ##### Artikel 20
 
-Dit onderdeel is nog niet inwerking getreden
+De informatie, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2009-12-16&g=2009-12-16), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=18&z=2009-12-16&g=2009-12-16) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=19&z=2009-12-16&g=2009-12-16), is actueel, duidelijk en ondubbelzinnig.
 
 ##### Artikel 21
 
-Bij ministeriële regeling kunnen ten behoeve van een goede uitvoering van [artikel 17, onderdelen a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2009-12-07&g=2009-12-07), regels worden gesteld over de wijze waarop bevoegde instanties informatie als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=19&z=2009-12-07&g=2009-12-07) ordenen en toegankelijk maken.
+Bij ministeriële regeling kunnen ten behoeve van een goede uitvoering van [artikel 17, onderdelen a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2009-12-16&g=2009-12-16), regels worden gesteld over de wijze waarop bevoegde instanties informatie als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=4&paragraaf=4.1&artikel=19&z=2009-12-16&g=2009-12-16) ordenen en toegankelijk maken.
 
 ##### Artikel 22
 
@@ -240,9 +274,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 5. Vergunningstelsels
 
-### Hoofdstuk 6. Administratieve samenwerking
+### Hoofdstuk 5. Vergunningstelsels
 
-#### § 6.1. Wederzijdse bijstand
+#### § 5.1. Vergunningen op aanvraag
 
 #### § 6.2. Informatie over de betrouwbaarheid van dienstverrichters
 
@@ -284,7 +318,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van de do
 
 ##### Artikel 56
 
-Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2009-12-07&g=2009-12-07), draagt zorg voor aansluiting op het interne markt informatiesysteem.
+Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2009-12-16&g=2009-12-16), draagt zorg voor aansluiting op het interne markt informatiesysteem.
 
 ##### Artikel 57
 
@@ -323,5 +357,101 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 68
 
 Deze wet wordt aangehaald als: Dienstenwet.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 12
+
+1. Een bevoegde instantie verstrekt een dienstverrichter op diens verzoek algemene informatie over de gebruikelijke uitleg en toepassing van eisen of vergunningstelsels, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2009-12-16&g=2009-12-16), waarbij die bevoegde instantie is betrokken.
+
+2. De in het eerste lid bedoelde informatie wordt zo spoedig mogelijk verstrekt, is actueel, duidelijk en ondubbelzinnig. Waar passend wordt informatie verstrekt in de vorm van een handleiding.
+
+3. Indien een bevoegde instantie de verzochte informatie niet kan verstrekken, deelt zij dat onverwijld mee.
+
+4. Een bevoegde instantie draagt er zorg voor dat zij langs elektronische weg voldoende bereikbaar is voor een verzoek van een dienstverrichter om informatie als bedoeld in het eerste lid.
+
+5. Een bevoegde instantie verzendt een bericht met de verzochte informatie als bedoeld in het eerste lid, of een mededeling als bedoeld in het derde lid, langs elektronische weg, voor zover een dienstverrichter waarvoor het bericht bestemd is aan de bevoegde instantie kenbaar heeft gemaakt dat hij langs deze weg voldoende bereikbaar is.
+
+6. Het vijfde lid geldt, voor zover van toepassing, in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14).
+
+#### § 3.3. Op procedures en formaliteiten betrekking hebbend berichtenverkeer
+
+#### § 3.4. Gegevensbescherming
+
+### Hoofdstuk 4. Informatie en bijstand voor afnemers
+
+#### § 4.1. Toegankelijkheid van informatie voor afnemers
+
+#### § 4.2. Verlening van bijstand aan afnemers
+
+##### Artikel 28
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 29
+
+1. Een bevoegde instantie bevestigt de ontvangst van een aanvraag om een vergunning zo snel mogelijk. De ontvangstbevestiging bevat de volgende informatie:
+
+- a. de bij wettelijk voorschrift met betrekking tot die vergunning bepaalde termijn waarbinnen de beschikking wordt gegeven of de termijn van acht weken, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&hoofdstuk=5&paragraaf=5.1&artikel=31&z=2009-12-16&g=2009-12-16);
+
+- b. beschikbare rechtsmiddelen om tegen de beschikking op te komen.
+
+2. Indien [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) op een aanvraag van toepassing is, vermeldt de ontvangstbevestiging tevens dat de gevraagde beschikking van rechtswege is gegeven, indien niet tijdig op de aanvraag is beslist.
+
+##### Artikel 30
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 31
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 32
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 33
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 34
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 5.2. Meldingen
+
+##### Artikel 35
+
+1. Een bevoegde instantie bevestigt de ontvangst van een melding die een dienstverrichter krachtens wettelijk voorschrift bij een bevoegde instantie moet verrichten, indien:
+
+- a. het doen van die melding en het verloop van een bij wettelijk voorschrift bepaalde termijn na die melding een voorwaarde is tot vestiging en
+
+- b. de bevoegde instantie bevoegd is binnen de termijn, bedoeld in onderdeel a, een vergunning te verlenen.
+
+2. Dit lid is nog niet in werking getreden.
+
+##### Artikel 36
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 6. Administratieve samenwerking
+
+#### § 6.1. Wederzijdse bijstand
+
+#### § 6.2. Informatie over de betrouwbaarheid van dienstverrichters
+
+#### § 6.3. Veiligheidsmaatregelen jegens dienstverrichters in individuele gevallen
+
+#### § 6.4. Het waarschuwingsmechanisme
+
+#### § 6.5. Toezicht en handhaving
+
+#### § 6.6. Het contactpunt
+
+#### § 6.7. Het interne markt informatiesysteem
+
+### Hoofdstuk 7. Wijziging van andere wetten
+
+### Hoofdstuk 8. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
