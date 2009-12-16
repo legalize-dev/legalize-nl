@@ -4,7 +4,7 @@ identifier: "BWBR0020708"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-01-01"
+last_updated: "2009-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020708"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ De aanvraag voor een transitokentekenbewijs wordt buiten behandeling gelaten ind
 
 3. Indien sinds de datum waarop een motorrijtuig of aanhangwagen, anders dan bedoeld in het derde lid, voor het eerst is toegelaten drie jaren zijn verstreken stelt de aanvrager het voertuig ter beschikking om de technische staat ervan te doen vaststellen.
 
-4. In afwijking van het tweede en derde lid hoeft het voertuig niet ter beschikking te worden gesteld om de technische staat ervan te doen vaststellen, indien een geldig kentekenbewijs afgegeven door een van de lidstaten van de Europese Unie, alsmede een geldig bewijs dat in het land waar het voertuig is gekentekend de periodieke keuring als bedoeld in artikel 1 van [richtlijn 96/96/EG](31996L0096) van de Raad van 20 december 1996 betreffende de onderlinge aanpassing van de wetgevingen van de lidstate inzake de technische controle van motorvoertuigen en aanhangwagens (PbEG L 046) met goed gevolg heeft doorstaan, worden overgelegd.
+4. In afwijking van het tweede en derde lid hoeft het voertuig niet ter beschikking te worden gesteld om de technische staat ervan te doen vaststellen, indien een geldig kentekenbewijs afgegeven door een van de lidstaten van de Europese Unie, alsmede een geldig bewijs dat in het land waar het voertuig is gekentekend de periodieke keuring als bedoeld in artikel 1 van richtlijn 2009/40/EG van het Europees Parlement en de Raad van 6 mei 2009 betreffende de technische controle van motorvoertuigen en aanhangwagens (PbEU L 141) met goed gevolg heeft doorstaan, worden overgelegd.
 
 5. De Dienst Wegverkeer kan besluiten dat het vaststellen van de technische staat steekproefsgewijs geschiedt.
 
