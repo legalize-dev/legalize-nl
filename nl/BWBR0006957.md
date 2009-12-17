@@ -4,7 +4,7 @@ identifier: "BWBR0006957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-01-01"
-last_updated: "2006-11-01"
+last_updated: "2009-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006957"
 soort: "ministeriele-regeling"
@@ -42,19 +42,31 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- a. de Minister: de Minister van Volksgezondheid, Welzijn en Sport;
+
+- b. de Pensioen- en Uitkeringsraad: de Pensioen- en Uitkeringsraad, bedoeld in de [Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806);
+
+- c. een hulpverlener: een psychotherapeut, een psychiater of een klinisch psycholoog;
+
+- d. een behandeling: een psychotherapeutische behandeling door een hulpverlener.
+
 ##### Artikel 2
 
 De Pensioen- en Uitkeringsraad verstrekt een vergoeding in de kosten van een behandeling, indien:
 
-- a. op de behandeling geen aanspraak bestaat krachtens de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) of een niet op grond van die wet geregelde ziektekostenverzekering;
+- a. de aanvrager is verzekerd als bedoeld in [artikel 2, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=2);
 
-- b. de aanvrager woonachtig is in Nederland;
+- b. de behandeling niet volledig wordt vergoed door de zorgverzekeraar;
 
-- c. de oorlogservaringen tijdens de Tweede Wereldoorlog van (een van) de ouders dan wel andere opvoeders van een zodanige invloed op de opvoeding van de aanvrager zijn geweest, dat de klachten van de aanvrager met een grote mate van waarschijnlijkheid met die oorlogservaringen van (een van) de ouders dan wel andere opvoeders in verband staan;
+- c. de kosten van de behandeling op basis van een Diagnose Behandeling Combinatie bij de zorgverzekeraar in rekening zijn gebracht;
 
-- d. de behandeling geïndiceerd is vanwege de onder c. genoemde klachten, en
+- d. de aanvrager woonachtig is in Nederland;
 
-- e. de behandeling plaatsvindt door een hulpverlener die is ingeschreven in het krachtens [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van psychotherapeuten.
+- e. de oorlogservaringen tijdens de Tweede Wereldoorlog van (een van) de ouders dan wel andere opvoeders van een zodanige invloed op de opvoeding van de aanvrager zijn geweest, dat de klachten van de aanvrager met een grote mate van waarschijnlijkheid met die oorlogservaringen van (een van) de ouders dan wel andere opvoeders in verband staan;
+
+- f. de behandeling geïndiceerd is vanwege de onder e genoemde klachten, en
+
+- g. de behandeling plaatsvindt door een hulpverlener die is ingeschreven in het krachtens [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van psychotherapeuten, artsen of gezondheidszorgpsychologen en het vereiste specialisme bezit om een behandeling te verrichten.
 
 ##### Artikel 2a
 
@@ -62,29 +74,25 @@ Aan deze regeling kan geen aanspraak worden ontleend door degene aan wie op gron
 
 ##### Artikel 3
 
-Voor de beoordeling of voldaan is aan de in [artikel 2, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2006-11-01&g=2006-11-01), genoemde voorwaarden alsmede omtrent de vaststelling van de geïndiceerde duur van de behandeling vraagt de Pensioen- en Uitkeringsraad een schriftelijk advies aan de psychiater of psychotherapeut/niet-psychiater, werkzaam bij de Centrale Vereniging Joodse Geestelijke Gezondheidszorg dan wel het Centrum '45, die tevens verbonden is aan het samenwerkingsverband Aanspreekpunt Na-oorlogse Generatie.
+Voor de beoordeling of voldaan is aan de in [artikel 2, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2009-12-17&g=2009-12-17), genoemde voorwaarden alsmede omtrent de vaststelling van de geïndiceerde duur van de behandeling vraagt de Pensioen- en Uitkeringsraad een schriftelijk advies aan de psychiater of psychotherapeut/niet-psychiater, werkzaam bij de Centrale Vereniging Joodse Geestelijke Gezondheidszorg dan wel het Centrum '45, die tevens verbonden is aan het samenwerkingsverband Aanspreekpunt Na-oorlogse Generatie.
 
 ##### Artikel 4
 
-Een vergoeding in de kosten van een behandeling reikt niet verder terug dan tot en met de dag waarop de aanvraag daartoe is ingediend.
+De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2009-12-17&g=2009-12-17), wordt verleend voor de duur van de Diagnose Behandeling Combinatie die op de behandeling betrekking heeft.
 
 ##### Artikel 5
 
-1. De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2006-11-01&g=2006-11-01), bedraagt per zitting ten hoogste het op grond van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) vastgestelde tarief.
+1. De vergoeding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2&z=2009-12-17&g=2009-12-17), bedraagt ten hoogste het op grond van [artikel 37 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) vastgestelde tarief, verminderd met de vergoeding van de zorgverzekeraar.
 
-2. De vergoeding wordt verleend tot een maximum van negentig zittingen, verminderd met een eigen bijdrage van € 9,08 per zitting tot een maximum van € 408,40 per jaar.
-
-3. De vergoeding wordt betaalbaar gesteld op grond van een door de aanvrager bij de Pensioen- en Uitkeringsraad in te dienen declaratie van de hulpverlener.
+2. De vergoeding wordt betaalbaar gesteld op grond van een door de aanvrager bij de Pensioen- en Uitkeringsraad in te dienen declaratie.
 
 ##### Artikel 6
 
-1. De Pensioen- en Uitkeringsraad zendt de Minister een afschrift van de door hem genomen beschikking.
-
-2. De Minister stelt binnen twee jaar na inwerkingtreding van deze regeling een onderzoek in naar de effectiviteit hiervan.
+De Pensioen- en Uitkeringsraad zendt de Minister een afschrift van de door hem genomen beschikking.
 
 ##### Artikel 7
 
-Indien een behandeling reeds is aangevangen voor de datum van inwerkingtreding van deze regeling en op die datum nog niet is geëindigd kan een vergoeding van de kosten van die behandeling, in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=4&z=2006-11-01&g=2006-11-01), worden aangevraagd binnen acht weken na inwerkingtreding van deze regeling. Voor vergoeding komen in aanmerking de kosten van behandeling voorzover deze plaatsvindt na de datum van inwerkingtreding van deze regeling.
+Vervallen
 
 ##### Artikel 8
 
