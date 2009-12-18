@@ -4,7 +4,7 @@ identifier: "BWBR0029324"
 country: "nl"
 rank: "wet"
 publication_date: "2011-07-01"
-last_updated: "2009-09-15"
+last_updated: "2009-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029324"
 soort: "wet"
@@ -62,7 +62,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
