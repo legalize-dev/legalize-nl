@@ -4,7 +4,7 @@ identifier: "BWBR0023167"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-06"
-last_updated: "2008-01-01"
+last_updated: "2009-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023167"
 soort: "ministeriele-regeling"
@@ -90,29 +90,29 @@ Voor de toepassing van [artikel 27b, vijfde lid](https://wetten.overheid.nl/jci1
 
 Voor de toepassing van [artikel 27c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27c), en [27d, vierde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d) worden vier regionale overlegcommissies ingesteld die, naast het bestuur van de desbetreffende regionale loodsencorporatie bestaan uit:
 
-- a. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdelen a en b,](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2008-01-01&g=2008-01-01) en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2008-01-01&g=2008-01-01), in de regio Noord;
+- a. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdelen a en b,](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2009-12-19&g=2009-12-19) en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2009-12-19&g=2009-12-19), in de regio Noord;
 
-- b. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2008-01-01&g=2008-01-01), en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2008-01-01&g=2008-01-01), in de regio Amsterdam-IJmond;
+- b. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2009-12-19&g=2009-12-19), en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2009-12-19&g=2009-12-19), in de regio Amsterdam-IJmond;
 
-- c. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdelen f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2008-01-01&g=2008-01-01), en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2008-01-01&g=2008-01-01), in de regio Rotterdam-Rijnmond;
+- c. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdelen f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2009-12-19&g=2009-12-19), en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2009-12-19&g=2009-12-19), in de regio Rotterdam-Rijnmond;
 
-- d. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2008-01-01&g=2008-01-01), en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2008-01-01&g=2008-01-01), in de regio Scheldemonden.
+- d. de vertegenwoordigers van de openbare lichamen, bedoeld in [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=1&z=2009-12-19&g=2009-12-19), en vertegenwoordigers van de organisaties, bedoeld in [artikel 2, onderdelen a, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=2&z=2009-12-19&g=2009-12-19), in de regio Scheldemonden.
 
 ##### Artikel 4. Correctiefactor
 
-De correctiefactor, bedoeld in [artikel 27d, derde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d), die bij de vaststelling van de loodsgeldtarieven in acht wordt genomen, bedraagt in de periode tot 1 januari 2011 ten aanzien van:
+De correctiefactor, bedoeld in [artikel 27d, derde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d), die bij de vaststelling van de loodsgeldtarieven in acht wordt genomen, bedraagt met betrekking tot de tarieven voor 2010 ten aanzien van:
 
-- a. het zeehavengebied Delfzijl/Eemshaven ten minste +15%;
+- a. het zeehavengebied Delfzijl/Eemshaven ten minste 2,74%;
 
-- b. het zeehavengebied Harlingen- Terschelling ten minste +56%;
+- b. het zeehavengebied Harlingen-Terschelling ten minste 2,74%;
 
-- c. het zeehavengebied Den Helder ten minste +20%;
+- c. het zeehavengebied Den Helder ten minste 2,74%;
 
-- d. het zeehavengebied Amsterdam-IJmond ten minste +7%;
+- d. het zeehavengebied Amsterdam-IJmond ten minste 0,90%;
 
-- e. het zeehavengebied Rotterdam-Rijnmond –2%; en
+- e. het zeehavengebied Rotterdam-Rijnmond –0,33%; en
 
-- f. het zeehavengebied Scheldemonden ten minste +1%.
+- f. het zeehavengebied Scheldemonden ten minste 0,25%.
 
 ##### Artikel 5. Bestuursorganen belast met nautisch beheer
 
