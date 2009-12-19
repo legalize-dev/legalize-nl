@@ -4,7 +4,7 @@ identifier: "BWBR0025040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-24"
-last_updated: "2009-11-21"
+last_updated: "2009-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025040"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Als een aangewezen regionale of lokale publieke media-instelling voor een aanslu
 
 ##### Artikel 8. Afwijken van adviseringsprocedure
 
-Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2009-11-21&g=2009-11-21).
+Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2009-12-19&g=2009-12-19).
 
 ##### Artikel 9. Intrekken aanwijzing
 
@@ -148,7 +148,7 @@ Een besluit tot intrekking van de aanwijzing op grond van [artikel 2.67, eerste 
 
 ##### Artikel 13. Voorschotten Wereldomroep
 
-De regels over het verstrekken van voorschotten in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=12&z=2009-11-21&g=2009-11-21) zijn van overeenkomstige toepassing op de Wereldomroep, met dien verstande dat de bevoegdheden aan het Commissariaat toekomen en de hoogte van de voorschotten mede wordt bepaald op basis van de begroting, bedoeld in [artikel 2.160 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.160).
+De regels over het verstrekken van voorschotten in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=12&z=2009-12-19&g=2009-12-19) zijn van overeenkomstige toepassing op de Wereldomroep, met dien verstande dat de bevoegdheden aan het Commissariaat toekomen en de hoogte van de voorschotten mede wordt bepaald op basis van de begroting, bedoeld in [artikel 2.160 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.160).
 
 ##### Artikel 14. Evaluatiecommissies
 
@@ -176,9 +176,9 @@ Een commerciële media-instelling die een toestemming, bedoeld in [artikel 3.1, 
 
 #### § 3.2. Toezichtskosten
 
-##### Artikel 17. Toezichtskosten commerciële omroepdiensten
+##### Artikel 17
 
-Een commerciële omroepinstelling is voor elke verkregen toestemming voor het verzorgen van een omroepdienst jaarlijks aan het Commissariaat toezichtskosten verschuldigd berekend volgens de bij deze regeling gevoegde bijlage.
+Een commerciële media-instelling is voor elke verkregen toestemming, bedoeld in [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.1), en voor elke van haar mediadiensten op aanvraag, bedoeld in [artikel 3.29a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29a), jaarlijks aan het Commissariaat toezichtskosten verschuldigd berekend volgens de bij deze regeling gevoegde bijlage.
 
 ### Hoofdstuk 4. Overheid
 
@@ -222,7 +222,7 @@ Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](ht
 
 1. Het Stimuleringsfonds bevestigt de ontvangst van een aanvraag.
 
-2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2009-11-21&g=2009-11-21) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
+2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2009-12-19&g=2009-12-19) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
 
 ##### Artikel 22. Subsidieverlening
 
@@ -282,7 +282,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 ##### Artikel 3a. Inrichting aanvraag erkenning
 
-1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-11-21&g=2009-11-21), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
+1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-12-19&g=2009-12-19), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
 
 2. Een aanvraag gaat vergezeld van vier kopieën.
 
@@ -298,7 +298,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 De stichting Stimuleringsfonds Nederlandse culturele mediaproducties, genoemd in [artikel 2.125 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.125), dient jaarlijks vóór 15 september een begroting in.
 
-### Hoofdstuk 3. Commerciële omroepdiensten
+### Hoofdstuk 3. Commerciële mediadiensten
 
 #### § 3.1. Aanvraag toestemming
 
@@ -324,11 +324,9 @@ Het Stimuleringsfonds dient jaarlijks vóór 15 september een begroting in.
 
 ##### Artikel 25b. Indiening aanvraag voor erkenningperiode 2010–2015
 
-In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-11-21&g=2009-11-21), dienen de omroepverenigingen en de educatieve media-instelling, bedoeld in [artikel 2.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.28), de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), voor de erkenningperiode die begint op 1 september 2010, in het tijdvak 27 juli tot en met 31 juli 2009 in bij het Commissariaat.
+In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2009-12-19&g=2009-12-19), dienen de omroepverenigingen en de educatieve media-instelling, bedoeld in [artikel 2.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.28), de aanvraag voor een erkenning of voorlopige erkenning, bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.30), voor de erkenningperiode die begint op 1 september 2010, in het tijdvak 27 juli tot en met 31 juli 2009 in bij het Commissariaat.
 
-## Bijlage
-
-### Toezichtskosten commerciële omroepinstellingen
+## Bijlage. , behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2009-12-19&g=2009-12-19) toezichtskosten commerciële mediadiensten
 
 ### Artikel 1
 
@@ -336,6 +334,16 @@ In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ### Artikel 3
 
+### Artikel 3
+
 Als een commerciële omroepinstelling beschikt over zowel een toestemming waarop artikel 1 van deze bijlage van toepassing is als een toestemming waarop artikel 2 van deze bijlage van toepassing is, en zij het programma-aanbod van beide toestemmingen steeds aansluitend op hetzelfde kanaal van een omroepnet verspreidt, is de omroepinstelling ten hoogste € 20.400 aan toezichtskosten verschuldigd.
+
+Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
+
+Als een commerciële omroepinstelling beschikt over zowel een toestemming waarop artikel 1 van deze bijlage van toepassing is als een toestemming waarop artikel 2 van deze bijlage van toepassing is, en zij het programma-aanbod van beide toestemmingen steeds aansluitend op hetzelfde kanaal van een omroepnet verspreidt, is de omroepinstelling ten hoogste € 20.400 aan toezichtskosten verschuldigd.
+
+### Artikel 4
+
+Per mediadienst op aanvraag is jaarlijks een bedrag verschuldigd van € 0.
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
