@@ -4,7 +4,7 @@ identifier: "BWBV0004730"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-12-22"
-last_updated: "1974-01-01"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004730"
 soort: "verdrag"
@@ -66,14 +66,14 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-De op 22 juli 1972 ondertekende Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Zwitserse Bondsstaat geldt eveneens voor het Vorstendom Liechtenstein.
+Vervallen
 
 ##### Artikel 2
 
-Ter uitvoering van de in artikel 1 bedoelde overeenkomst, en zonder het karakter van bilaterale overeenkomst tussen de Lid-Staten van de Gemeenschap en Zwitserland daarvan te wijzigen, kan het Vorstendom Liechtenstein zijn belangen naar voren doen brengen door een vertegenwoordiger in het kader van de Zwitserse delegatie in het Gemengd Comité.
+Vervallen
 
 ##### Artikel 3
 
-Deze aanvullende overeenkomst wordt door Zwitserland, het Vorstendom Liechtenstein en de Lid-Staten van de Gemeenschap goedgekeurd volgens hun eigen procedures. Zij treedt tegelijk met de in artikel 1 bedoelde overeenkomst in werking en geldt zolang het Verdrag van 29 maart 1923 van kracht blijft.
+Vervallen
 
 GEDAAN te Brussel, de tweeëntwintigste juli negentienhonderdtweeënzeventig.
