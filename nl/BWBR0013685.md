@@ -4,7 +4,7 @@ identifier: "BWBR0013685"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-01-01"
-last_updated: "2002-07-04"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013685"
 soort: "beleidsregel"
@@ -84,29 +84,29 @@ Deze beleidsregel is niet van toepassing op de exclusieve economische zone.
 
 - g. niet de veiligheid van het scheepvaartverkeer aantasten.
 
-2. Plaatsing van windturbines in het niet gemeentelijk ingedeelde deel van de territoriale zee wordt slechts toegestaan voor zover een plan, vastgesteld op grond van de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375), zodanige plaatsing toelaat.
+2. Plaatsing van windturbines in het niet gemeentelijk ingedeelde deel van de territoriale zee wordt slechts toegestaan voor zover een plan, vastgesteld op grond van de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449), zodanige plaatsing toelaat.
 
-3. Voor vaarwegen in de territoriale zee is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=4&z=2002-07-04&g=2002-07-04) van overeenkomstige toepassing.
+3. Voor vaarwegen in de territoriale zee is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=4&z=2009-12-22&g=2009-12-22) van overeenkomstige toepassing.
 
 ##### Artikel 6. Grote wateren
 
-1. Plaatsing van windturbines wordt slechts toegestaan in het IJsselmeer, het Markermeer en de randmeren, het Haringvliet, Hollandsch Diep, de Biesbosch, de Oosterschelde, de Westerschelde, het Veerse meer, het Grevelingenmeer, het Zoommeer, het Krammer-Volkerak, de Waddenzee, de Eems, en de Dollard op locaties waar voldaan wordt aan het bepaalde in [artikel 5, eerste lid onder b, c, d, g](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=5&z=2002-07-04&g=2002-07-04), waar de kans op erosie van de oever niet wordt vergroot en voor zover windturbines geen feitelijke belemmering vormen voor het waterkwantiteitsbeheer.
+1. Plaatsing van windturbines wordt slechts toegestaan in het IJsselmeer, het Markermeer en de randmeren, het Haringvliet, Hollandsch Diep, de Biesbosch, de Oosterschelde, de Westerschelde, het Veerse meer, het Grevelingenmeer, het Zoommeer, het Krammer-Volkerak, de Waddenzee, de Eems, en de Dollard op locaties waar voldaan wordt aan het bepaalde in [artikel 5, eerste lid onder b, c, d, g](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=5&z=2009-12-22&g=2009-12-22), waar de kans op erosie van de oever niet wordt vergroot en voor zover windturbines geen feitelijke belemmering vormen voor het waterkwantiteitsbeheer.
 
-2. Voor vaarwegen die lopen door de in het eerste lid genoemde wateren, is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=4&z=2002-07-04&g=2002-07-04) van overeenkomstige toepassing.
+2. Voor vaarwegen die lopen door de in het eerste lid genoemde wateren, is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=4&z=2009-12-22&g=2009-12-22) van overeenkomstige toepassing.
 
 ##### Artikel 7. Primaire waterkeringen
 
-1. Plaatsing van windturbines wordt niet toegestaan in de kernzone van de primaire waterkering. Onder kernzone wordt verstaan het eigenlijke dijk-, duin- of damlichaam, zijnde de primaire waterkering als bedoeld in de [Wet op de waterkering](https://wetten.overheid.nl/jci1.3:c:BWBR0007801).
+1. Plaatsing van windturbines wordt niet toegestaan in de kernzone van de primaire waterkering. Onder kernzone wordt verstaan het eigenlijke dijk-, duin- of damlichaam, zijnde de primaire waterkering als bedoeld in [artikel 1.1 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1).
 
-2. Plaatsing van windturbines buiten de kernzone van de primaire waterkering, wordt slechts toegestaan mits dit geen negatieve gevolgen heeft voor de waterkerende functie van de primaire waterkering conform de veiligheidsnorm van [artikel 3 van de Wet op de waterkering](https://wetten.overheid.nl/jci1.3:c:BWBR0007801&artikel=3).
+2. Plaatsing van windturbines buiten de kernzone van de primaire waterkering, wordt slechts toegestaan mits dit geen negatieve gevolgen heeft voor de waterkerende functie van de primaire waterkering conform de veiligheidsnorm van [artikel 2.2 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=2.2).
 
-3. Het bepaalde in het eerste en tweede lid geldt onverminderd het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=3&z=2002-07-04&g=2002-07-04), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=4&z=2002-07-04&g=2002-07-04), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=5&z=2002-07-04&g=2002-07-04) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=6&z=2002-07-04&g=2002-07-04).
+3. Het bepaalde in het eerste en tweede lid geldt onverminderd het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=3&z=2009-12-22&g=2009-12-22), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=4&z=2009-12-22&g=2009-12-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=5&z=2009-12-22&g=2009-12-22) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=6&z=2009-12-22&g=2009-12-22).
 
 ##### Artikel 8. Termijn
 
-1. De vergunning op grond van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) zal worden verleend voor een bepaalde termijn.
+1. De vergunningen op grond van [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of de [artikelen 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12), [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.13) of [6.14 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.14) zal worden verleend voor een bepaalde termijn.
 
-2. Indien van de vergunning op grond van de Wet beheer rijkswaterstaatwerken niet binnen een in de vergunning bepaalde termijn gebruik wordt gemaakt, wordt de vergunning ingetrokken.
+2. Indien van de vergunningen op grond van [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of de [artikelen 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12), [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.13) of [6.14 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.14) niet binnen een in de vergunning bepaalde termijn gebruik wordt gemaakt, wordt de vergunning ingetrokken.
 
 ##### Artikel 9. Inwerkingtreding
 
@@ -115,5 +115,11 @@ Deze beleidsregel treedt in werking met ingang van de tweede dag na dagtekening 
 ##### Artikel 10. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel voor het plaatsen van windturbines op, in of over rijkswaterstaatswerken.
+
+Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze beleidsregel berust mede op de [artikelen 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12), [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.13) en [6.14 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.14).
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
