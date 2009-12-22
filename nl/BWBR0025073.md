@@ -4,7 +4,7 @@ identifier: "BWBR0025073"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025073"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - **inspecteur:** hoofd, onderscheidenlijk de in [artikel 123, derde lid, onder b, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=123), bedoelde ambtenaar van het waterschap;
 
-- **vervuilingswaarde per m3 ingenomen water:** vervuilingswaarde als bedoeld in [artikel 22, tweede lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=22) en [artikel 122k, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122k);
+- **vervuilingswaarde per m3 ingenomen water:** vervuilingswaarde als bedoeld in [artikel 7.3, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.3) en [artikel 122k, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122k);
 
 - **zuurstofverbruik:** zuurstofverbruik bepaald op basis van de som van het chemisch zuurstofverbruik en het zuurstofverbruik door omzetting van stikstofverbindingen, uitgedrukt in kilogrammen.
 
@@ -124,7 +124,7 @@ De vervuilingswaarde per m3 ingenomen water wordt bepaald met behulp van de navo
 
 ##### Artikel 3
 
-Indien in het heffingsjaar voorafgaande aan de toepassing van [artikel 22 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=22) of [artikel 122k van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122k) het zuurstofverbruik, voor de betrokken bedrijfsruimte of voor het betrokken onderdeel daarvan, is bepaald met behulp van door meting, bemonstering en analyse verkregen gegevens, wordt in afwijking van artikel 2 de vervuilingswaarde per m3 ingenomen water bepaald aan de hand van de formule:
+Indien in het heffingsjaar voorafgaande aan de toepassing van [artikel 7.4 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.4) of [artikel 122k van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122k) het zuurstofverbruik, voor de betrokken bedrijfsruimte of voor het betrokken onderdeel daarvan, is bepaald met behulp van door meting, bemonstering en analyse verkregen gegevens, wordt in afwijking van artikel 2 de vervuilingswaarde per m3 ingenomen water bepaald aan de hand van de formule:
 
 C / (D x 54,8)
 
@@ -136,9 +136,9 @@ D = het aantal m3 ingenomen water over de etmalen van het voorafgaande heffingsj
 
 ##### Artikel 4
 
-1. De vervuilingswaarde per m3 ingenomen water kan door de heffingplichtige op zijn kosten op aanvraag, dan wel ambtshalve door de inspecteur op kosten van de betrokken kwaliteitsbeheerder, in afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025073&artikel=2&z=2009-01-01&g=2009-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0025073&artikel=3&z=2009-01-01&g=2009-01-01), worden bepaald aan de hand van monsterneming en analyse overeenkomstig het derde lid, onderscheidenlijk aan de hand van meting, bemonstering en analyse overeenkomstig het vierde lid.
+1. De vervuilingswaarde per m3 ingenomen water kan door de heffingplichtige op zijn kosten op aanvraag, dan wel ambtshalve door de inspecteur op kosten van de betrokken beheerder, in afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025073&artikel=2&z=2009-12-22&g=2009-12-22) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0025073&artikel=3&z=2009-12-22&g=2009-12-22), worden bepaald aan de hand van monsterneming en analyse overeenkomstig het derde lid, onderscheidenlijk aan de hand van meting, bemonstering en analyse overeenkomstig het vierde lid.
 
-2. In dit artikel wordt onder geschatte vervuilingswaarde verstaan: de overeenkomstig [artikel 22 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=22), [artikel 122k van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122k) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025073&artikel=2&z=2009-01-01&g=2009-01-01) van dit besluit aan de hand van de geschatte hoeveelheid in te nemen water berekende vervuilingswaarde met betrekking tot het zuurstofverbruik van de over het heffingsjaar te lozen of af te voeren stoffen.
+2. In dit artikel wordt onder geschatte vervuilingswaarde verstaan: de overeenkomstig [artikel 122k van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122k), [artikel 7.5, vijfde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) in samenhang met dat artikel en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025073&artikel=2&z=2009-12-22&g=2009-12-22) van dit besluit aan de hand van de geschatte hoeveelheid in te nemen water berekende vervuilingswaarde met betrekking tot het zuurstofverbruik van de over het heffingsjaar te lozen of af te voeren stoffen.
 
 3. Bij een geschatte vervuilingswaarde van minder dan 100 vervuilingseenheden:
 
@@ -182,7 +182,7 @@ D = het aantal m3 ingenomen water over de etmalen van het voorafgaande heffingsj
 
 - d. bedraagt de vervuilingswaarde per m3 ingenomen water de uitkomst van de toepassing van onderdeel c, gedeeld door 54,8 kilogrammen.
 
-5. Meting, bemonstering en analyse, alsmede de behandeling van het in het derde lid, onder a, bedoelde verzamelmonster geschieden overeenkomstig de nadere regels, bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=20), onderscheidenlijk in [artikel 23, elfde lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=23) en [artikel 122g van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122g).
+5. Meting, bemonstering en analyse, alsmede de behandeling van het in het derde lid, onder a, bedoelde verzamelmonster geschieden overeenkomstig de nadere regels, bedoeld in [artikel 7.5, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) en [artikel 122g van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122g).
 
 6. De inspecteur beslist op een in het eerste lid bedoelde aanvraag bij voor bezwaar vatbare beschikking en geeft daarin in ieder geval voorschriften met betrekking tot:
 
@@ -211,5 +211,11 @@ Dit besluit treedt in werking met ingang van 1 januari 2009.
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit vervuilingswaarde ingenomen water 2009.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a
+
+Dit besluit berust mede op [artikel 7.5, vijfde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
