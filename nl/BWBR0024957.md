@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-12-15"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -110,13 +110,13 @@ Besluit:
 | 3.8 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (FND-MKB-innovatieprojecten) | [5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.19) |   | 02-03 t/m 09-10 | 4.100.000 |
 | 3.9 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (HTAS doorbraakprojecten) | [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=6.2) |   | 01-02 t/m 01-10 | 4.000.000 |
 | 3.10 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (HTAS-internationale innovatieprojecten) | [6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=6.9) |   | 01-02 t/m 11-09 | 3.000.000 |
-| 3.11 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (InnoWATOR-projecten) | [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=7.2) |   | 06-04 t/m 03-07 | 5.000.000 |
+| 3.11 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (InnoWATOR-projecten) | [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=7.2) |   | 06-04 t/m 03-07 | 5.272.000 |
 | 3.12 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationale InnoWATOR-projecten) | [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=7.11) |   | 11-05 t/m 23-10 | 2.000.000 |
 | 3.12a | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (InnoWATOR garantiefaciliteit) | [7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=7.20) |   | 9-9 t/m 20-11 | 2.000.000 |
 | 3.13 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Maritieme MKB-projecten) | [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=8.2) |   | 01-03 t/m 30-10 | 600.000 |
 | 3.14 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Maritieme innovatieprojecten) | [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=8.8) |   | 01-03 t/m 02-06 | 4.000.000 |
 | 3.15 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Point One MKB-projecten) | [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.2) |   | 01-04 t/m 16-10 | € 1.000.000 |
-| 3.16 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Point One R&D-projecten) | [9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.8) |   | 02-03 t/m 11-05 29-07 t/m 18-09 | 7.000.000 7.000.000 |
+| 3.16 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Point One R&D-projecten) | [9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.8) |   | 02-03 t/m 11-05 29-07 t/m 18-09 | 7.000.000 7.145.000 |
 | 3.17 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Internationale Point One R&D-projecten) | [9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.17) |   | 02-03 t/m 13-03 | 71.550.000 |
 | 3.17a | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Point One University-Industry Interaction projecten) | [9.25](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.25) |   | 29-07 t/m 01-10 | 3.000.000 |
 | 3.18 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (Polymeren haalbaarheidsprojecten) | [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10.2) |   | 01-04 t/m 01-10 | € 400.000 |
@@ -197,7 +197,7 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 
-2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-12-15&g=2009-12-15), is van overeenkomstige toepassing.
+2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-12-22&g=2009-12-22), is van overeenkomstige toepassing.
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
