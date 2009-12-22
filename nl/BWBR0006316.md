@@ -4,7 +4,7 @@ identifier: "BWBR0006316"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-12-22"
-last_updated: "1994-02-01"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006316"
 soort: "ministeriele-regeling"
@@ -50,6 +50,6 @@ Besluit:
 
 2. Per gelijke datum treedt de directie Noord-Nederland in de rechten en plichten van de directies Groningen, Friesland en Drenthe, die worden opgeheven.
 
-3. De taak van de directie Noord-Nederland is die van een regionale directie van de Rijkswaterstaat bedoeld in [artikel 7, eerste lid, van het Organiek Besluit Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0002743&artikel=7).
+3. De taak van de directie Noord-Nederland is die van een regionale dienst van de Rijkswaterstaat bedoeld in [artikel 2, eerste lid, onderdeel b, van het Instellingsbesluit directoraat-generaal Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0026953&artikel=2).
 
 4. Dit besluit zal in de Nederlandse Staatscourant worden geplaatst en een afschrift zal aan de Algemene Rekenkamer worden gezonden.
