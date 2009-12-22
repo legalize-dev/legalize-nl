@@ -4,7 +4,7 @@ identifier: "BWBR0012019"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-30"
-last_updated: "2009-12-03"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012019"
 soort: "AMvB"
@@ -90,13 +90,13 @@ Hebben goedgevonden en verstaan:
 
 - r. Onze Ministers: Onze Minister van Verkeer en Waterstaat en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-- s. bijlage 1, 2 of 3: de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=1&z=2009-12-03&g=2009-12-03), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=2&z=2009-12-03&g=2009-12-03), onderscheidenlijk [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=3&z=2009-12-03&g=2009-12-03).
+- s. bijlage 1, 2 of 3: de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=1&z=2009-12-22&g=2009-12-22), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=2&z=2009-12-22&g=2009-12-22), onderscheidenlijk [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=3&z=2009-12-22&g=2009-12-22).
 
 2. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. bilgewater: oliehoudend afvalwater uit de bilge van de machinekamer, de voor- en achterpiek, de kofferdammen en de ruimten tussen zijwand en beunwand;
 
-- b. olie-afgifteboekje: een olie-afgifteboekje, afgegeven overeenkomstig het bepaalde in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2009-12-03&g=2009-12-03), dan wel een buiten Nederland afgegeven olie-afgifteboekje als bedoeld in artikel 2.03 van de Uitvoeringsregeling;
+- b. olie-afgifteboekje: een olie-afgifteboekje, afgegeven overeenkomstig het bepaalde in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2009-12-22&g=2009-12-22), dan wel een buiten Nederland afgegeven olie-afgifteboekje als bedoeld in artikel 2.03 van de Uitvoeringsregeling;
 
 - c. tegoed: geldelijk tegoed van de eigenaar van het schip op de rekening van een nationaal instituut als bedoeld in artikel 9 van het verdrag;
 
@@ -142,7 +142,7 @@ Hebben goedgevonden en verstaan:
 
 - q. waswater: afvalwater dat afkomstig is van het wassen van een laadruim dan wel een ladingtank of het leidingsysteem, dan wel een gangboord of andere licht vervuilde oppervlakte van een schip;
 
-- r. losverklaring: een verklaring als bedoeld in [artikel 53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-03&g=2009-12-03), dan wel een buiten Nederland opgestelde verklaring als bedoeld in artikel 6.03 van de Uitvoeringsregeling.
+- r. losverklaring: een verklaring als bedoeld in [artikel 53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-22&g=2009-12-22), dan wel een buiten Nederland opgestelde verklaring als bedoeld in artikel 6.03 van de Uitvoeringsregeling.
 
 4. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -166,9 +166,9 @@ Hebben goedgevonden en verstaan:
 
 - a. verevening: de internationale financiële verevening, bedoeld in [artikel 10 van het verdrag](onbekend);
 
-- b. subsidie: de subsidie, bedoeld in [artikel 28j, eerste lid, onder a en b, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=28j);
+- b. subsidie: de subsidie, bedoeld in [artikel 39h, eerste lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39h);
 
-- c. subsidie-ontvanger: de rechtspersoon die ingevolge artikel [28i van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=28i) is aangewezen als nationaal instituut.
+- c. subsidie-ontvanger: de rechtspersoon die ingevolge [artikel 39g van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=39g) is aangewezen als nationaal instituut.
 
 #### § 1.2. Reikwijdtebepalingen
 
@@ -178,9 +178,9 @@ Dit besluit is van toepassing met betrekking tot schepen die zich bevinden op de
 
 ##### Artikel 3
 
-In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.2&artikel=2&z=2009-12-03&g=2009-12-03) is dit besluit niet van toepassing met betrekking tot:
+In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.2&artikel=2&z=2009-12-22&g=2009-12-22) is dit besluit niet van toepassing met betrekking tot:
 
-- a. zeeschepen die zich bevinden in zeehavens of op daarheen leidende zeetoegangswegen, met uitzondering van [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.6&z=2009-12-03&g=2009-12-03), en
+- a. zeeschepen die zich bevinden in zeehavens of op daarheen leidende zeetoegangswegen, met uitzondering van [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.6&z=2009-12-22&g=2009-12-22), en
 
 - b. pleziervaartuigen als bedoeld in de [Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008366), alsmede vaartuigen die uit hoofde van hun feitelijke bestemming plaatsgebonden zijn.
 
@@ -188,19 +188,15 @@ In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoo
 
 ##### Artikel 4
 
-Het is verboden scheepsafvalstoffen dan wel delen van de lading vanaf een schip in het oppervlaktewater te brengen, behoudens voorzover elders in dit besluit anders is bepaald.
+Het is verboden scheepsafvalstoffen dan wel delen van de lading vanaf een schip in een oppervlaktewaterlichaam te brengen, behoudens voorzover elders in dit besluit anders is bepaald.
 
 ##### Artikel 5
 
-Het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-03&g=2009-12-03), is niet van toepassing ten aanzien van het in het oppervlaktewater brengen van
-
-- a. het effluent van een installatie voor de scheiding van olie en water vanaf schepen die zijn bestemd voor de inzameling van bilgewater en
-
-- b. overslagresten, restlading, ladingrestanten dan wel afvalwater dat ladingrestanten bevat vanaf schepen die zijn bestemd voor andere diensten dan goederenvervoer.
+Het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-22&g=2009-12-22), is niet van toepassing ten aanzien van het in een oppervlaktewaterlichaam brengen van overslagresten, restlading, ladingrestanten dan wel afvalwater dat ladingrestanten bevat vanaf schepen die bestemd zijn voor andere diensten dan goederenvervoer.
 
 ##### Artikel 6
 
-1. Indien vanaf een schip scheepsafvalstoffen dan wel delen van de lading in het oppervlaktewater geraken of dreigen te geraken, waarschuwt de schipper onverwijld de dichtstbijzijnde bevoegde autoriteit, tenzij het een geval betreft als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-03&g=2009-12-03), laatste zinsnede, of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=5&z=2009-12-03&g=2009-12-03).
+1. Indien vanaf een schip scheepsafvalstoffen dan wel delen van de lading in een oppervlaktewaterlichaam geraken of dreigen te geraken, waarschuwt de schipper onverwijld de dichtstbijzijnde bevoegde autoriteit, tenzij het een geval betreft als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-22&g=2009-12-22), laatste zinsnede, of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=5&z=2009-12-22&g=2009-12-22).
 
 2. Bij de toepassing van het eerste lid geeft de schipper de plaats van het voorval alsmede de hoeveelheid en de aard van de afvalstoffen of de lading zo nauwkeurig mogelijk aan.
 
@@ -222,7 +218,7 @@ Dit hoofdstuk is van toepassing met betrekking tot gemotoriseerde schepen, indie
 
 ##### Artikel 10
 
-Dit hoofdstuk, met uitzondering van [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.6&z=2009-12-03&g=2009-12-03), is niet van toepassing met betrekking tot zeeschepen, ook voor zover die zich bevinden op andere wateren dan bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2009-12-03&g=2009-12-03).
+Dit hoofdstuk, met uitzondering van [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.6&z=2009-12-22&g=2009-12-22), is niet van toepassing met betrekking tot zeeschepen, ook voor zover die zich bevinden op andere wateren dan bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2009-12-22&g=2009-12-22).
 
 #### § 2.2. Verzameling en behandeling aan boord
 
@@ -232,7 +228,7 @@ De schipper draagt er zorg voor dat bilgewater en overige olie- en vethoudende s
 
 ##### Artikel 12
 
-1. De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2009-12-03&g=2009-12-03) bedoelde verzamelreservoirs worden aan boord zo aangebracht dat lekkage gemakkelijk en tijdig opgemerkt en gestopt kan worden.
+1. De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2009-12-22&g=2009-12-22) bedoelde verzamelreservoirs worden aan boord zo aangebracht dat lekkage gemakkelijk en tijdig opgemerkt en gestopt kan worden.
 
 2. Voor de opslag van afgewerkte olie worden geen los aan dek staande verzamelreservoirs gebruikt.
 
@@ -264,15 +260,15 @@ De schipper draagt er zorg voor dat bilgewater en overige olie- en vethoudende s
 
 ##### Artikel 16
 
-Degene die een inrichting voor het inzamelen van scheepsafvalstoffen drijft, draagt er zorg voor dat de ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2009-12-03&g=2009-12-03) aangeboden olie- en vethoudende scheepsafvalstoffen worden ingenomen in die inrichting.
+Degene die een inrichting voor het inzamelen van scheepsafvalstoffen drijft, draagt er zorg voor dat de ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2009-12-22&g=2009-12-22) aangeboden olie- en vethoudende scheepsafvalstoffen worden ingenomen in die inrichting.
 
 ##### Artikel 17
 
-Het in ontvangst nemen van olie- en vethoudende scheepsafvalstoffen wordt bevestigd door invulling en ondertekening van de eerste niet ingevulde bladzijde van het door de schipper ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2009-12-03&g=2009-12-03) overgelegde olie-afgifteboekje.
+Het in ontvangst nemen van olie- en vethoudende scheepsafvalstoffen wordt bevestigd door invulling en ondertekening van de eerste niet ingevulde bladzijde van het door de schipper ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2009-12-22&g=2009-12-22) overgelegde olie-afgifteboekje.
 
 ##### Artikel 18
 
-Nadat gevolg is gegeven aan [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2009-12-03&g=2009-12-03), ondertekent de schipper de desbetreffende bladzijde van het olie-afgifteboekje.
+Nadat gevolg is gegeven aan [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2009-12-22&g=2009-12-22), ondertekent de schipper de desbetreffende bladzijde van het olie-afgifteboekje.
 
 #### § 2.4. Betaling van de afvalbeheersbijdrage
 
@@ -340,23 +336,23 @@ Dit hoofdstuk is van toepassing met betrekking tot het laden of lossen van een s
 
 ##### Artikel 31
 
-In afwijking van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.1&artikel=30&z=2009-12-03&g=2009-12-03) is dit hoofdstuk niet van toepassing op het laden of het lossen van een schip, indien het lading betreft waarvan het vervoer aan boord van het schip geheel of gedeeltelijk over zee zalplaatsvinden, onderscheidenlijk heeft plaatsgevonden, tenzij het varen van dit schip over zee kennelijk ondergeschikt is aan het varen over binnenwateren.
+In afwijking van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.1&artikel=30&z=2009-12-22&g=2009-12-22) is dit hoofdstuk niet van toepassing op het laden of het lossen van een schip, indien het lading betreft waarvan het vervoer aan boord van het schip geheel of gedeeltelijk over zee zalplaatsvinden, onderscheidenlijk heeft plaatsgevonden, tenzij het varen van dit schip over zee kennelijk ondergeschikt is aan het varen over binnenwateren.
 
 ##### Artikel 32
 
-1. Het is verboden een stof, preparaat of ander product, behorende tot een goederensoort die is vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=2&z=2009-12-03&g=2009-12-03) in of op een schip te laden, tenzij degene die laadt het bepaalde in de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.3&artikel=40&z=2009-12-03&g=2009-12-03), [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-03&g=2009-12-03), en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=61&z=2009-12-03&g=2009-12-03) in acht neemt.
+1. Het is verboden een stof, preparaat of ander product, behorende tot een goederensoort die is vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=2&z=2009-12-22&g=2009-12-22) in of op een schip te laden, tenzij degene die laadt het bepaalde in de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.3&artikel=40&z=2009-12-22&g=2009-12-22), [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-22&g=2009-12-22), en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=61&z=2009-12-22&g=2009-12-22) in acht neemt.
 
-2. Het is verboden een stof, preparaat of ander produkt, behorende tot een goederensoort die is vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=2&z=2009-12-03&g=2009-12-03) uit of van een schip te lossen, tenzij degene die lost het bepaalde in de [artikelen 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-03&g=2009-12-03), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-03&g=2009-12-03), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=43&z=2009-12-03&g=2009-12-03), [45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-03&g=2009-12-03), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=57&z=2009-12-03&g=2009-12-03) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=60&z=2009-12-03&g=2009-12-03) in acht neemt.
+2. Het is verboden een stof, preparaat of ander produkt, behorende tot een goederensoort die is vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=2&z=2009-12-22&g=2009-12-22) uit of van een schip te lossen, tenzij degene die lost het bepaalde in de [artikelen 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-22&g=2009-12-22), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-22&g=2009-12-22), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=43&z=2009-12-22&g=2009-12-22), [45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-22&g=2009-12-22), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=57&z=2009-12-22&g=2009-12-22) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=60&z=2009-12-22&g=2009-12-22) in acht neemt.
 
 3. Het eerste lid, dan wel het tweede lid is niet van toepassing indien het laden, onderscheidenlijk het lossen, plaatsvindt in een overslaginrichting.
 
 ##### Artikel 33
 
-Degene die een overslaginrichting drijft neemt met betrekking tot het laden of het lossen van een schip in die inrichting het bepaalde ten aanzien van laden, onderscheidenlijk lossen, in de [artikelen 40 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.3&artikel=40&z=2009-12-03&g=2009-12-03), [45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-03&g=2009-12-03), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=57&z=2009-12-03&g=2009-12-03), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=60&z=2009-12-03&g=2009-12-03) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=61&z=2009-12-03&g=2009-12-03) in acht.
+Degene die een overslaginrichting drijft neemt met betrekking tot het laden of het lossen van een schip in die inrichting het bepaalde ten aanzien van laden, onderscheidenlijk lossen, in de [artikelen 40 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.3&artikel=40&z=2009-12-22&g=2009-12-22), [45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-22&g=2009-12-22), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=57&z=2009-12-22&g=2009-12-22), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=60&z=2009-12-22&g=2009-12-22) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=61&z=2009-12-22&g=2009-12-22) in acht.
 
 ##### Artikel 34
 
-1. Een verwijzing in dit hoofdstuk naar een kolom van de tabel heeft betrekking op de desbetreffende kolom van de tabel van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=2&z=2009-12-03&g=2009-12-03).
+1. Een verwijzing in dit hoofdstuk naar een kolom van de tabel heeft betrekking op de desbetreffende kolom van de tabel van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=2&z=2009-12-22&g=2009-12-22).
 
 2. Een verwijzing in dit hoofdstuk naar een in een kolom van de tabel aangegeven losstandaard of bijzondere behandeling heeft mede betrekking op een desbetreffende voetnoot in kolom 6 dan wel onderaan in de tabel.
 
@@ -372,15 +368,15 @@ Een schip wordt door de exploitant voor vervoer van lading ter beschikking geste
 
 ##### Artikel 37
 
-Een schip wordt door de exploitant slechts voor vervoer van vloeibare lading ter beschikking gesteld indien het is uitgerust met een nalenssysteem dat voldoet aan het bepaalde in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=38&z=2009-12-03&g=2009-12-03).
+Een schip wordt door de exploitant slechts voor vervoer van vloeibare lading ter beschikking gesteld indien het is uitgerust met een nalenssysteem dat voldoet aan het bepaalde in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=38&z=2009-12-22&g=2009-12-22).
 
 ##### Artikel 38
 
 1. Het nalenssysteem is vast op het schip geïnstalleerd.
 
-2. De walaansluiting van de laad- en losleiding, waarmee geladen of gelost wordt, is voorzien van een inrichting voor de afgifte van restlading overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=1&z=2009-12-03&g=2009-12-03) opgenomen model 1.
+2. De walaansluiting van de laad- en losleiding, waarmee geladen of gelost wordt, is voorzien van een inrichting voor de afgifte van restlading overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=1&z=2009-12-22&g=2009-12-22) opgenomen model 1.
 
-3. Het nalenssysteem is voor de ingebruikname met water als beproevingsmiddel beproefd, overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=39&z=2009-12-03&g=2009-12-03), door een onderzoeksbureau dat is toegelaten door de bevoegde autoriteiten van een lidstaat van de Europese Unie of van een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte dan wel van Zwitserland. Indien het systeem later is omgebouwd dan is voor de hernieuwde ingebruikname dezelfde beproeving uitgevoerd.
+3. Het nalenssysteem is voor de ingebruikname met water als beproevingsmiddel beproefd, overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=39&z=2009-12-22&g=2009-12-22), door een onderzoeksbureau dat is toegelaten door de bevoegde autoriteiten van een lidstaat van de Europese Unie of van een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte dan wel van Zwitserland. Indien het systeem later is omgebouwd dan is voor de hernieuwde ingebruikname dezelfde beproeving uitgevoerd.
 
 4. Bij de beproeving van het nalenssysteem is geen hogere resthoeveelheid vastgesteld dan:
 
@@ -396,7 +392,7 @@ Een schip wordt door de exploitant slechts voor vervoer van vloeibare lading ter
 
 - 2°. 15 liter per leidingsysteem.
 
-5. Inzake de beproeving van het nalenssysteem is door het onderzoeksbureau een verklaring overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=1&z=2009-12-03&g=2009-12-03) opgenomen model 2 vastgesteld. Deze verklaring wordt aan boord van het schip meegevoerd.
+5. Inzake de beproeving van het nalenssysteem is door het onderzoeksbureau een verklaring overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=1&z=2009-12-22&g=2009-12-22) opgenomen model 2 vastgesteld. Deze verklaring wordt aan boord van het schip meegevoerd.
 
 ##### Artikel 39
 
@@ -422,7 +418,7 @@ Een schip wordt door de exploitant slechts voor vervoer van vloeibare lading ter
 
 - 4°. op alle laagste punten van de bijbehorende pijpleidingen tot aan de inrichting voor de afgifte.
 
-5. De hoeveelheid van het overeenkomstig punt 4, onder c, verzamelde water wordt nauwkeurig vastgesteld en in de verklaring van de beproeving van het nalenssysteem overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=1&z=2009-12-03&g=2009-12-03) opgenomen model 2 vermeld.
+5. De hoeveelheid van het overeenkomstig punt 4, onder c, verzamelde water wordt nauwkeurig vastgesteld en in de verklaring van de beproeving van het nalenssysteem overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=1&z=2009-12-22&g=2009-12-22) opgenomen model 2 vermeld.
 
 6. Het onderzoeksbureau legt alle voor de beproeving vereiste operationele handelingen in de verklaring van de beproeving vast. Deze verklaring bevat ten minste de volgende gegevens:
 
@@ -446,7 +442,7 @@ Een schip wordt door de exploitant slechts voor vervoer van vloeibare lading ter
 
 ##### Artikel 40
 
-Bij het laden worden in de vervoersdocumenten de naam en het viercijferige goederennummer van de goederensoort vermeld die in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=2&z=2009-12-03&g=2009-12-03) voor de desbetreffende goederensoort zijn aangegeven.
+Bij het laden worden in de vervoersdocumenten de naam en het viercijferige goederennummer van de goederensoort vermeld die in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=2&z=2009-12-22&g=2009-12-22) voor de desbetreffende goederensoort zijn aangegeven.
 
 #### § 3.4. Verwijderen van overslagresten en nalossen
 
@@ -460,7 +456,7 @@ Bij het laden worden in de vervoersdocumenten de naam en het viercijferige goede
 
 1. Aansluitend aan het lossen van droge lading van of uit een laadruim van een schip wordt de in het laadruim achtergebleven restlading verwijderd, zodanig dat de losstandaard bezemschoon wordt bereikt, en wordt het verpakkings- en stuwmateriaal verwijderd.
 
-2. In afwijking van het eerste lid wordt de restlading in verdergaande mate verwijderd, zodanig dat de losstandaard vacuümschoon wordt bereikt, indien het laadruim aansluitend zal worden gewassen en in de ingevolge de [artikelen 45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03) voor het waswater toe te passen kolom van de tabel de losstandaard vacuümschoon is aangegeven.
+2. In afwijking van het eerste lid wordt de restlading in verdergaande mate verwijderd, zodanig dat de losstandaard vacuümschoon wordt bereikt, indien het laadruim aansluitend zal worden gewassen en in de ingevolge de [artikelen 45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22) voor het waswater toe te passen kolom van de tabel de losstandaard vacuümschoon is aangegeven.
 
 3. De restlading wordt ingenomen en zo veel mogelijk toegevoegd aan de geloste lading.
 
@@ -476,7 +472,7 @@ Bij het laden worden in de vervoersdocumenten de naam en het viercijferige goede
 
 ##### Artikel 44
 
-De schipper verleent medewerking aan de toepassing van de [artikelen 41 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-03&g=2009-12-03).
+De schipper verleent medewerking aan de toepassing van de [artikelen 41 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-22&g=2009-12-22).
 
 #### § 3.5. Wasverplichting en voorschriften ten aanzien van afvalwater
 
@@ -504,7 +500,7 @@ Indien uit een laadruim of een ladingtank van een schip
 
 ##### Artikel 47
 
-1. Voor het wassen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-03&g=2009-12-03), kan de schipper een voorziening buiten de losplaats worden toegewezen, mits hem daarbij tevens, in afwijking van [artikel 45, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03), onderscheidenlijk [46, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-03&g=2009-12-03), in overleg met de exploitant van het schip een ontvangstvoorziening wordt toegewezen voor het afgeven van het afvalwater dat zich na het wassen in het laadruim of de ladingtank en het leidingsysteem bevindt.
+1. Voor het wassen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-22&g=2009-12-22), kan de schipper een voorziening buiten de losplaats worden toegewezen, mits hem daarbij tevens, in afwijking van [artikel 45, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22), onderscheidenlijk [46, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-22&g=2009-12-22), in overleg met de exploitant van het schip een ontvangstvoorziening wordt toegewezen voor het afgeven van het afvalwater dat zich na het wassen in het laadruim of de ladingtank en het leidingsysteem bevindt.
 
 2. De aangewezen ontvangstvoorziening is gelegen in de nabijheid van de losplaats of op de route van het schip.
 
@@ -522,41 +518,41 @@ wordt afvalwater dat ladingrestanten bevat en zich na het lossen of het wassen i
 
 ##### Artikel 49
 
-1. Indien uit een laadruim of een ladingtank van een schip lading wordt gelost en zich na het lossen of wassen afvalwater dat ladingrestanten bevat in dat laadruim of die ladingtank bevindt, doch de [artikelen 45 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03) niet van toepassing zijn, wordt het afvalwater daar achtergelaten en de schipper in overleg met de exploitant van het schip een ontvangstvoorziening toegewezen voor het afgeven van dat afvalwater.
+1. Indien uit een laadruim of een ladingtank van een schip lading wordt gelost en zich na het lossen of wassen afvalwater dat ladingrestanten bevat in dat laadruim of die ladingtank bevindt, doch de [artikelen 45 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22) niet van toepassing zijn, wordt het afvalwater daar achtergelaten en de schipper in overleg met de exploitant van het schip een ontvangstvoorziening toegewezen voor het afgeven van dat afvalwater.
 
 2. De aangewezen ontvangstvoorziening is gelegen in de nabijheid van de losplaats of op de route van het schip.
 
 ##### Artikel 50
 
-De [artikelen 45 tot en met 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03) zijn van overeenkomstige toepassing indien uit een laadruim stukgoederen dan wel verpakte ladinggoederen of op pallets vervoerde goederen worden gelost en als gevolg van beschadigingen of lekkages lading, behorende tot een goederensoort als bedoeld in die artikelen is vrijgekomen.
+De [artikelen 45 tot en met 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22) zijn van overeenkomstige toepassing indien uit een laadruim stukgoederen dan wel verpakte ladinggoederen of op pallets vervoerde goederen worden gelost en als gevolg van beschadigingen of lekkages lading, behorende tot een goederensoort als bedoeld in die artikelen is vrijgekomen.
 
 ##### Artikel 51
 
-1. Indien zich in een laadruim of ladingtank na het lossen of wassen afvalwater bevindt dat ladingrestanten behorende tot verschillende goederensoorten bevat en voor een van die goederensoorten in kolom 5 van de tabel een bijzondere behandeling is aangegeven, wordt ten aanzien van dat afvalwater gehandeld zoals in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-03&g=2009-12-03), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2009-12-03&g=2009-12-03), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-03&g=2009-12-03) of [49](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=49&z=2009-12-03&g=2009-12-03) is voorgeschreven voor afvalwater dat ladingrestanten bevat van de laatstbedoelde goederensoort.
+1. Indien zich in een laadruim of ladingtank na het lossen of wassen afvalwater bevindt dat ladingrestanten behorende tot verschillende goederensoorten bevat en voor een van die goederensoorten in kolom 5 van de tabel een bijzondere behandeling is aangegeven, wordt ten aanzien van dat afvalwater gehandeld zoals in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-22&g=2009-12-22), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2009-12-22&g=2009-12-22), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-22&g=2009-12-22) of [49](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=49&z=2009-12-22&g=2009-12-22) is voorgeschreven voor afvalwater dat ladingrestanten bevat van de laatstbedoelde goederensoort.
 
-2. Indien zich in een laadruim of ladingtank na het lossen of wassen afvalwater bevindt dat ladingrestanten behorende tot verschillende goederensoorten bevat, doch het eerste lid niet van toepassing is, maar wel voor een van die goederensoorten in kolom 4 van de tabel een losstandaard is aangegeven, wordt ten aanzien van dat afvalwater gehandeld zoals in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-03&g=2009-12-03), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2009-12-03&g=2009-12-03), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-03&g=2009-12-03) of [49](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=49&z=2009-12-03&g=2009-12-03) is voorgeschreven voor afvalwater dat ladingrestanten bevat van de laatstbedoelde goederensoort.
+2. Indien zich in een laadruim of ladingtank na het lossen of wassen afvalwater bevindt dat ladingrestanten behorende tot verschillende goederensoorten bevat, doch het eerste lid niet van toepassing is, maar wel voor een van die goederensoorten in kolom 4 van de tabel een losstandaard is aangegeven, wordt ten aanzien van dat afvalwater gehandeld zoals in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-22&g=2009-12-22), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2009-12-22&g=2009-12-22), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-22&g=2009-12-22) of [49](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=49&z=2009-12-22&g=2009-12-22) is voorgeschreven voor afvalwater dat ladingrestanten bevat van de laatstbedoelde goederensoort.
 
 ##### Artikel 52
 
-De schipper verleent medewerking aan de toepassing van de [artikelen 45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03).
+De schipper verleent medewerking aan de toepassing van de [artikelen 45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22).
 
 #### § 3.6. Losverklaring; verlaten van de laad- of losplaats
 
 ##### Artikel 53
 
-1. In dit artikel en in de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=54&z=2009-12-03&g=2009-12-03), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=56&z=2009-12-03&g=2009-12-03), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=57&z=2009-12-03&g=2009-12-03), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=60&z=2009-12-03&g=2009-12-03), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=66&z=2009-12-03&g=2009-12-03) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=68&z=2009-12-03&g=2009-12-03) wordt onder de losverklaring mede begrepen de aanvullende verklaring, bedoeld in het tweede lid.
+1. In dit artikel en in de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=54&z=2009-12-22&g=2009-12-22), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=56&z=2009-12-22&g=2009-12-22), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=57&z=2009-12-22&g=2009-12-22), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=60&z=2009-12-22&g=2009-12-22), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=66&z=2009-12-22&g=2009-12-22) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=68&z=2009-12-22&g=2009-12-22) wordt onder de losverklaring mede begrepen de aanvullende verklaring, bedoeld in het tweede lid.
 
 2. Indien bij de losverklaring een aanvullende verklaring wordt gevoegd overeenkomstig het bij regeling van Onze Minister van Verkeer en Waterstaat vastgestelde model, is het [Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294) op de desbetreffende overbrenging van afvalstoffen niet van toepassing.
 
-3. Aansluitend aan de toepassing van het bepaalde in de [paragrafen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&z=2009-12-03&g=2009-12-03) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&z=2009-12-03&g=2009-12-03) worden de toepasselijke rubrieken van een losverklaring, overeenkomstig het bij regeling van Onze Minister van Verkeer en Waterstaat vastgestelde model, in drievoud ingevuld en ondertekend.
+3. Aansluitend aan de toepassing van het bepaalde in de [paragrafen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&z=2009-12-22&g=2009-12-22) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&z=2009-12-22&g=2009-12-22) worden de toepasselijke rubrieken van een losverklaring, overeenkomstig het bij regeling van Onze Minister van Verkeer en Waterstaat vastgestelde model, in drievoud ingevuld en ondertekend.
 
 4. De losverklaring wordt na de toepassing van het eerste lid in drievoud voorgelegd aan de schipper dan wel, indien het schip niet onder gezag van een schipper staat, aan de exploitant van het schip.
 
-5. Aan het eerste en het tweede lid alsmede de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=54&z=2009-12-03&g=2009-12-03), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=56&z=2009-12-03&g=2009-12-03), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=57&z=2009-12-03&g=2009-12-03), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=66&z=2009-12-03&g=2009-12-03) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=68&z=2009-12-03&g=2009-12-03) kan in overeenstemming tussen degene die de losverklaring opstelt en de schipper dan wel, indien het schip niet onder gezag van een schipper staat, de exploitant van het schip en, indien toepassing moet worden gegeven aan [paragraaf 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&z=2009-12-03&g=2009-12-03), degene die de ontvangstvoorziening drijft, langs elektronische weg uitvoering worden gegeven, mits voldaan wordt aan de bij regeling van Onze Minister van Verkeer en Waterstaat aangegeven waarborgen voor de echtheid van de losverklaring, met inbegrip van de ondertekening, en de controleerbaarheid van de losverklaring aan boord dan wel in de bedrijfsadministratie van de exploitant van het schip, alsmede in de bedrijfsadministratie van degene die de losverklaring heeft opgesteld.
+5. Aan het eerste en het tweede lid alsmede de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=54&z=2009-12-22&g=2009-12-22), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=56&z=2009-12-22&g=2009-12-22), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=57&z=2009-12-22&g=2009-12-22), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=66&z=2009-12-22&g=2009-12-22) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=68&z=2009-12-22&g=2009-12-22) kan in overeenstemming tussen degene die de losverklaring opstelt en de schipper dan wel, indien het schip niet onder gezag van een schipper staat, de exploitant van het schip en, indien toepassing moet worden gegeven aan [paragraaf 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&z=2009-12-22&g=2009-12-22), degene die de ontvangstvoorziening drijft, langs elektronische weg uitvoering worden gegeven, mits voldaan wordt aan de bij regeling van Onze Minister van Verkeer en Waterstaat aangegeven waarborgen voor de echtheid van de losverklaring, met inbegrip van de ondertekening, en de controleerbaarheid van de losverklaring aan boord dan wel in de bedrijfsadministratie van de exploitant van het schip, alsmede in de bedrijfsadministratie van degene die de losverklaring heeft opgesteld.
 
 ##### Artikel 54
 
-1. De schipper vult de toepasselijke rubrieken van de hem overeenkomstig [artikel 53, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-03&g=2009-12-03), voorgelegde losverklaring in drievoud in en ondertekent deze.
+1. De schipper vult de toepasselijke rubrieken van de hem overeenkomstig [artikel 53, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-22&g=2009-12-22), voorgelegde losverklaring in drievoud in en ondertekent deze.
 
 2. De schipper bezorgt na de ondertekening een exemplaar van de losverklaring terug aan degene die de losverklaring heeft opgesteld.
 
@@ -572,19 +568,19 @@ De schipper verleent medewerking aan de toepassing van de [artikelen 45 tot en m
 
 - 2°. alle geloste laadruimen zijn nagelost of ladingtanks nagelensd;
 
-- 3°. voldaan is aan de wasverplichting indien die van toepassing is, dan wel hem daartoe overeenkomstig [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2009-12-03&g=2009-12-03) een voorziening is toegewezen en
+- 3°. voldaan is aan de wasverplichting indien die van toepassing is, dan wel hem daartoe overeenkomstig [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2009-12-22&g=2009-12-22) een voorziening is toegewezen en
 
-- 4°. indien [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-03&g=2009-12-03) of [49](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=49&z=2009-12-03&g=2009-12-03) van toepassing of van overeenkomstige toepassing is, het afvalwater dat ladingrestanten bevat is ingenomen dan wel hem daartoe een ontvangstvoorziening is toegewezen, en
+- 4°. indien [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-22&g=2009-12-22) of [49](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=49&z=2009-12-22&g=2009-12-22) van toepassing of van overeenkomstige toepassing is, het afvalwater dat ladingrestanten bevat is ingenomen dan wel hem daartoe een ontvangstvoorziening is toegewezen, en
 
-- b. hij voldaan heeft aan het bepaalde in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=54&z=2009-12-03&g=2009-12-03).
+- b. hij voldaan heeft aan het bepaalde in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=54&z=2009-12-22&g=2009-12-22).
 
 ##### Artikel 56
 
-De schipper draagt er zorg voor dat de overeenkomstig [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-03&g=2009-12-03) ontvangen verklaringen het transport begeleiden.
+De schipper draagt er zorg voor dat de overeenkomstig [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-22&g=2009-12-22) ontvangen verklaringen het transport begeleiden.
 
 ##### Artikel 57
 
-Het ingevolge [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=54&z=2009-12-03&g=2009-12-03), terug ontvangen exemplaar van de losverklaring wordt in de bedrijfsadministratie bewaard.
+Het ingevolge [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=54&z=2009-12-22&g=2009-12-22), terug ontvangen exemplaar van de losverklaring wordt in de bedrijfsadministratie bewaard.
 
 #### § 3.7. Eenheidstransporten
 
@@ -604,53 +600,53 @@ Het ingevolge [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 2. Indien een schip dat niet onder het gezag van een schipper staat wordt ingezet ten behoeve van eenheidstransporten, draagt de exploitant van het schip er zorg voor dat een verklaring als bedoeld in het eerste lid aanwezig is in zijn administratie.
 
-3. Ten aanzien van de uitvoering van het eerste en tweede lid alsmede [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=60&z=2009-12-03&g=2009-12-03) is [artikel 53, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-03&g=2009-12-03), van overeenkomstige toepassing.
+3. Ten aanzien van de uitvoering van het eerste en tweede lid alsmede [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=60&z=2009-12-22&g=2009-12-22) is [artikel 53, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-22&g=2009-12-22), van overeenkomstige toepassing.
 
 ##### Artikel 59
 
-Indien een lading wordt gelost van een schip dat blijkens een verklaring als bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=58&z=2009-12-03&g=2009-12-03) wordt ingezet ten behoeve van eenheidstransporten, zijn met betrekking tot dat lossen niet van toepassing:
+Indien een lading wordt gelost van een schip dat blijkens een verklaring als bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=58&z=2009-12-22&g=2009-12-22) wordt ingezet ten behoeve van eenheidstransporten, zijn met betrekking tot dat lossen niet van toepassing:
 
-- a. de [artikelen 36 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=36&z=2009-12-03&g=2009-12-03), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-03&g=2009-12-03), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=43&z=2009-12-03&g=2009-12-03) en de zinsneden van [artikel 55, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=55&z=2009-12-03&g=2009-12-03), die verwijzen naar de desbetreffende voorschriften, voorzover blijkens die verklaring nalossen of nalenzen niet noodzakelijk is, en
+- a. de [artikelen 36 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=36&z=2009-12-22&g=2009-12-22), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-22&g=2009-12-22), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=43&z=2009-12-22&g=2009-12-22) en de zinsneden van [artikel 55, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=55&z=2009-12-22&g=2009-12-22), die verwijzen naar de desbetreffende voorschriften, voorzover blijkens die verklaring nalossen of nalenzen niet noodzakelijk is, en
 
-- b. de [artikelen 45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03) en de zinsneden van [artikel 55, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=55&z=2009-12-03&g=2009-12-03), die verwijzen naar de desbetreffende voorschriften.
+- b. de [artikelen 45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22) en de zinsneden van [artikel 55, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=55&z=2009-12-22&g=2009-12-22), die verwijzen naar de desbetreffende voorschriften.
 
 ##### Artikel 60
 
-Een afschrift of exemplaar van de in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=58&z=2009-12-03&g=2009-12-03) bedoelde verklaring wordt in de bedrijfsadministratie bewaard als bijlage bij het ingevolge [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=54&z=2009-12-03&g=2009-12-03), terug ontvangen exemplaar van de losverklaring.
+Een afschrift of exemplaar van de in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=58&z=2009-12-22&g=2009-12-22) bedoelde verklaring wordt in de bedrijfsadministratie bewaard als bijlage bij het ingevolge [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=54&z=2009-12-22&g=2009-12-22), terug ontvangen exemplaar van de losverklaring.
 
 ##### Artikel 61
 
-Ingeval van eenheidstransporten wordt voor de aanvang van het laden overeenkomstige toepassing gegeven aan de [artikelen 45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03) ten aanzien van het regenwater en het buiswater dat na beëindiging van de voorafgaande lossing in het laadruim terecht is gekomen.
+Ingeval van eenheidstransporten wordt voor de aanvang van het laden overeenkomstige toepassing gegeven aan de [artikelen 45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22) ten aanzien van het regenwater en het buiswater dat na beëindiging van de voorafgaande lossing in het laadruim terecht is gekomen.
 
 #### § 3.8. Lozing van afvalwater
 
 ##### Artikel 62
 
-1. In afwijking van het verbod van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-03&g=2009-12-03) kan afvalwater dat ladingrestanten bevat van een goederensoort waarvoor in kolom 3 van de tabel een losstandaard is aangegeven, in het oppervlaktewater worden gebracht indien:
+1. In afwijking van het verbod van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-22&g=2009-12-22) kan afvalwater dat ladingrestanten bevat van een goederensoort waarvoor in kolom 3 van de tabel een losstandaard is aangegeven, in een oppervlaktewaterlichaam worden gebracht indien:
 
-- a. zodanig afvalwater ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-03&g=2009-12-03) op of in het schip is achtergelaten;
+- a. zodanig afvalwater ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-22&g=2009-12-22) op of in het schip is achtergelaten;
 
-- b. de restlading overeenkomstig het bepaalde in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&z=2009-12-03&g=2009-12-03) is verwijderd uit het laadruim of de ladingtank en het leidingsysteem en
+- b. de restlading overeenkomstig het bepaalde in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&z=2009-12-22&g=2009-12-22) is verwijderd uit het laadruim of de ladingtank en het leidingsysteem en
 
-- c. een en ander blijkt uit een losverklaring die voldoet aan het bepaalde in [paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&z=2009-12-03&g=2009-12-03).
+- c. een en ander blijkt uit een losverklaring die voldoet aan het bepaalde in [paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&z=2009-12-22&g=2009-12-22).
 
-2. In afwijking van het verbod van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-03&g=2009-12-03) kan voorts in het oppervlaktewater worden gebracht:
+2. In afwijking van het verbod van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-22&g=2009-12-22) kan voorts in een oppervlaktewaterlichaam worden gebracht:
 
-- a. regenwater, buiswater of ballastwater dat, blijkens een losverklaring welke voldoet aan het bepaalde in [paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&z=2009-12-03&g=2009-12-03), afkomstig is uit een gewassen laadruim of ladingtank;
+- a. regenwater, buiswater of ballastwater dat, blijkens een losverklaring welke voldoet aan het bepaalde in [paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&z=2009-12-22&g=2009-12-22), afkomstig is uit een gewassen laadruim of ladingtank;
 
 - b. waswater dat afkomstig is van een bezemschone gangboord of van een andere licht verontreinigde oppervlakte van het schip of
 
-- c. afvalwater dat ladingrestanten bevat van een goederensoort waarvoor uitsluitend in kolom 3 van de tabel een losstandaard is aangegeven en dat, blijkens een losverklaring die voldoet aan het bepaalde in [paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&z=2009-12-03&g=2009-12-03), afkomstig is uit een laadruim of ladingtank waaruit de restlading is verwijderd overeenkomstig het bepaalde in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&z=2009-12-03&g=2009-12-03).
+- c. afvalwater dat ladingrestanten bevat van een goederensoort waarvoor uitsluitend in kolom 3 van de tabel een losstandaard is aangegeven en dat, blijkens een losverklaring die voldoet aan het bepaalde in [paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&z=2009-12-22&g=2009-12-22), afkomstig is uit een laadruim of ladingtank waaruit de restlading is verwijderd overeenkomstig het bepaalde in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&z=2009-12-22&g=2009-12-22).
 
 ##### Artikel 63
 
-In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=6&z=2009-12-03&g=2009-12-03) behoeft de dichtstbijzijnde bevoegde autoriteit niet te worden gewaarschuwd indien afvalwater dat ladingrestanten bevat van een goederensoort waarvoor in kolom 3 of 4 van de tabel een losstandaard is aangegeven, in het oppervlaktewater geraakt of dreigt te geraken.
+In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=6&z=2009-12-22&g=2009-12-22) behoeft de dichtstbijzijnde bevoegde autoriteit niet te worden gewaarschuwd indien afvalwater dat ladingrestanten bevat van een goederensoort waarvoor in kolom 3 of 4 van de tabel een losstandaard is aangegeven, in een oppervlaktewaterlichaam geraakt of dreigt te geraken.
 
 #### § 3.9. Transport, afgifte en ontvangst van afvalwater
 
 ##### Artikel 64
 
-Indien afvalwater ingevolge het bepaalde in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2009-12-03&g=2009-12-03), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=49&z=2009-12-03&g=2009-12-03) of [61](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=61&z=2009-12-03&g=2009-12-03) moet worden afgegeven, brengt de schipper het afvalwater over naar de hem toegewezen ontvangstvoorziening en biedt het aldaar aan.
+Indien afvalwater ingevolge het bepaalde in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2009-12-22&g=2009-12-22), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=49&z=2009-12-22&g=2009-12-22) of [61](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=61&z=2009-12-22&g=2009-12-22) moet worden afgegeven, brengt de schipper het afvalwater over naar de hem toegewezen ontvangstvoorziening en biedt het aldaar aan.
 
 ##### Artikel 65
 
@@ -662,13 +658,13 @@ Bij het afgeven van afvalwater dat ladingrestanten bevat aan een ontvangstvoorzi
 
 ##### Artikel 67
 
-Degene die een inrichting voor het inzamelen van scheepsafvalstoffen drijft, draagt er zorg voor dat afvalwater dat ingevolge [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=64&z=2009-12-03&g=2009-12-03) wordt aangeboden, wordt ingenomen in die inrichting.
+Degene die een inrichting voor het inzamelen van scheepsafvalstoffen drijft, draagt er zorg voor dat afvalwater dat ingevolge [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=64&z=2009-12-22&g=2009-12-22) wordt aangeboden, wordt ingenomen in die inrichting.
 
 ##### Artikel 68
 
-1. Het in ontvangst nemen van afvalwater dat ladingrestanten bevat wordt bevestigd door invulling en ondertekening van de daartoe bestemde rubrieken van de ingevolge [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=66&z=2009-12-03&g=2009-12-03) voorgelegde losverklaring in tweevoud voorgelegde verklaringen. De ontvangstvoorziening bezorgt na ondertekening een exemplaar van de ondertekende losverklaring terug aan de schipper.
+1. Het in ontvangst nemen van afvalwater dat ladingrestanten bevat wordt bevestigd door invulling en ondertekening van de daartoe bestemde rubrieken van de ingevolge [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=66&z=2009-12-22&g=2009-12-22) voorgelegde losverklaring in tweevoud voorgelegde verklaringen. De ontvangstvoorziening bezorgt na ondertekening een exemplaar van de ondertekende losverklaring terug aan de schipper.
 
-2. De houder van de inrichting als bedoeld in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=67&z=2009-12-03&g=2009-12-03) bewaart een van de in het eerste lid bedoelde losverklaring in zijn administratie.
+2. De houder van de inrichting als bedoeld in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.9&artikel=67&z=2009-12-22&g=2009-12-22) bewaart een van de in het eerste lid bedoelde losverklaring in zijn administratie.
 
 3. De schipper bewaart de van de inrichting terugontvangen ondertekende losverklaring gedurende ten minste zes maanden aan boord.
 
@@ -682,13 +678,13 @@ De vervoerder stelt een schip voor vervoer van lading aan de afzender ter beschi
 
 ##### Artikel 70
 
-1. De afzender is jegens de ontvanger en de vervoerder verplicht ter zake van het laden van een schip de in de [artikelen 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-03&g=2009-12-03), en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=61&z=2009-12-03&g=2009-12-03) bedoelde maatregelen te treffen.
+1. De afzender is jegens de ontvanger en de vervoerder verplicht ter zake van het laden van een schip de in de [artikelen 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-22&g=2009-12-22), en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.7&artikel=61&z=2009-12-22&g=2009-12-22) bedoelde maatregelen te treffen.
 
 2. De afzender is jegens de ontvanger en de vervoerder verplicht ter zake van het lossen van vloeibare lading van of uit een schip
 
-- a. de in de [artikelen 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-03&g=2009-12-03), en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=43&z=2009-12-03&g=2009-12-03) bedoelde maatregelen te treffen;
+- a. de in de [artikelen 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-22&g=2009-12-22), en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=43&z=2009-12-22&g=2009-12-22) bedoelde maatregelen te treffen;
 
-- b. de in de [artikelen 45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03) bedoelde maatregelen te treffen, voor zover het betreft de wasverplichting en het daarbij ontstane waswater, indien uit de laatst afgegeven losverklaring blijkt dat het laadruim, onderscheidenlijk de ladingtank, na vorige lossing gewassen is en
+- b. de in de [artikelen 45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22) bedoelde maatregelen te treffen, voor zover het betreft de wasverplichting en het daarbij ontstane waswater, indien uit de laatst afgegeven losverklaring blijkt dat het laadruim, onderscheidenlijk de ladingtank, na vorige lossing gewassen is en
 
 - c. de kosten te dragen van inname van het onder b bedoelde waswater door een ontvangstvoorziening, alsmede voor wachttijden en omwegen die zijn ontstaan als gevolg van de toepassing van de onder a en b bedoelde maatregelen.
 
@@ -696,19 +692,19 @@ De vervoerder stelt een schip voor vervoer van lading aan de afzender ter beschi
 
 De ontvanger is jegens de afzender en de vervoerder verplicht ter zake van het lossen van droge lading van of uit een schip:
 
-- a. de in de [artikelen 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-03&g=2009-12-03), en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-03&g=2009-12-03) bedoelde maatregelen te treffen;
+- a. de in de [artikelen 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-22&g=2009-12-22), en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-22&g=2009-12-22) bedoelde maatregelen te treffen;
 
-- b. de in de [artikelen 45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03) bedoelde maatregelen te treffen, voor zover het betreft de wasverplichting en het daarbij ontstane waswater, indien uit de laatst afgegeven losverklaring blijkt dat het laadruim, onderscheidenlijk de ladingtank, na vorige lossing gewassen is en
+- b. de in de [artikelen 45 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22) bedoelde maatregelen te treffen, voor zover het betreft de wasverplichting en het daarbij ontstane waswater, indien uit de laatst afgegeven losverklaring blijkt dat het laadruim, onderscheidenlijk de ladingtank, na vorige lossing gewassen is en
 
-- c. ten aanzien van regenwater of buiswater dat in het laadruim is geraakt na aanvang van het laden en voordat het lossen overeenkomstig het bepaalde in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&z=2009-12-03&g=2009-12-03) is beëindigd, de in de [artikelen 45, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03), [46, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-03&g=2009-12-03), en [48 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-03&g=2009-12-03) bedoelde maatregelen te treffen, tenzij overeengekomen was dat het vervoer afgedekt zou plaatsvinden, en
+- c. ten aanzien van regenwater of buiswater dat in het laadruim is geraakt na aanvang van het laden en voordat het lossen overeenkomstig het bepaalde in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&z=2009-12-22&g=2009-12-22) is beëindigd, de in de [artikelen 45, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22), [46, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-22&g=2009-12-22), en [48 tot en met 51](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-22&g=2009-12-22) bedoelde maatregelen te treffen, tenzij overeengekomen was dat het vervoer afgedekt zou plaatsvinden, en
 
 - d. de kosten te dragen van inname van het onder b bedoelde waswater en het onder c bedoelde regenwater of buiswater door een ontvangstvoorziening, alsmede voor wachttijden en omwegen die zijn ontstaan als gevolg van de toepassing van de onder a, b en c bedoelde maatregelen;
 
-- e. de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-03&g=2009-12-03) bedoelde maatregel te treffen.
+- e. de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.6&artikel=53&z=2009-12-22&g=2009-12-22) bedoelde maatregel te treffen.
 
 ##### Artikel 72
 
-Indien de afzender dan wel de ontvanger gebruik maakt van een overslaginstallatie, treedt de exploitant van die installatie voor de toepassing van [artikel 70, eerste lid, en tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.10&artikel=70&z=2009-12-03&g=2009-12-03), onderscheidenlijk [artikel 71, onder a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.10&artikel=71&z=2009-12-03&g=2009-12-03), in de plaats van de afzender, onderscheidenlijk de ontvanger, met dien verstande dat hij slechts verplicht is de kosten van de in die bepalingen bedoelde maatregelen te dragen voorzover het betreft de kosten van de toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-03&g=2009-12-03).
+Indien de afzender dan wel de ontvanger gebruik maakt van een overslaginstallatie, treedt de exploitant van die installatie voor de toepassing van [artikel 70, eerste lid, en tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.10&artikel=70&z=2009-12-22&g=2009-12-22), onderscheidenlijk [artikel 71, onder a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.10&artikel=71&z=2009-12-22&g=2009-12-22), in de plaats van de afzender, onderscheidenlijk de ontvanger, met dien verstande dat hij slechts verplicht is de kosten van de in die bepalingen bedoelde maatregelen te dragen voorzover het betreft de kosten van de toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=41&z=2009-12-22&g=2009-12-22).
 
 ### Hoofdstuk 4. Overige scheepsafvalstoffen
 
@@ -722,23 +718,23 @@ Indien de afzender dan wel de ontvanger gebruik maakt van een overslaginstallati
 
 ##### Artikel 74
 
-In afwijking van het bepaalde in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=4&paragraaf=4.1&artikel=73&z=2009-12-03&g=2009-12-03) rust met betrekking tot een passagiersschip dat is uitgerust met een boordzuiveringsinstallatie voor afvalwater de verplichting tot aanbieden van het zuiveringsslib van die installatie bij een ontvangstvoorziening op de exploitant van dat schip.
+In afwijking van het bepaalde in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=4&paragraaf=4.1&artikel=73&z=2009-12-22&g=2009-12-22) rust met betrekking tot een passagiersschip dat is uitgerust met een boordzuiveringsinstallatie voor afvalwater de verplichting tot aanbieden van het zuiveringsslib van die installatie bij een ontvangstvoorziening op de exploitant van dat schip.
 
 ##### Artikel 75
 
-Degene die een inrichting voor het inzamelen van scheepsafvalstoffen drijft, draagt er zorg voor dat de ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=4&paragraaf=4.1&artikel=73&z=2009-12-03&g=2009-12-03) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=4&paragraaf=4.1&artikel=74&z=2009-12-03&g=2009-12-03) aangeboden afvalstoffen worden ingenomen in die inrichting en aldaar gescheiden worden gehouden.
+Degene die een inrichting voor het inzamelen van scheepsafvalstoffen drijft, draagt er zorg voor dat de ingevolge [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=4&paragraaf=4.1&artikel=73&z=2009-12-22&g=2009-12-22) of [74](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=4&paragraaf=4.1&artikel=74&z=2009-12-22&g=2009-12-22) aangeboden afvalstoffen worden ingenomen in die inrichting en aldaar gescheiden worden gehouden.
 
 #### § 4.2. Uitzonderingen lozingsverbod en waarschuwingsplicht
 
 ##### Artikel 76
 
-1. In afwijking van het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-03&g=2009-12-03), kan bedrijfsafvalwater uit keukens, eetruimten, wasruimten en bijkeukens, daaronder begrepen toiletwater, vanaf hotelschepen met meer dan 50 slaapplaatsen of vanaf andere passagiersschepen die toegelaten zijn voor het vervoer van meer dan 50 passagiers in het oppervlaktewater worden gebracht, voorzover het afvalwater is behandeld in een zuiveringsinstallatie die voldoet aan het bepaalde in het tweede lid.
+1. In afwijking van het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-22&g=2009-12-22), kan bedrijfsafvalwater uit keukens, eetruimten, wasruimten en bijkeukens, daaronder begrepen toiletwater, vanaf hotelschepen met meer dan 50 slaapplaatsen of vanaf andere passagiersschepen die toegelaten zijn voor het vervoer van meer dan 50 passagiers in een oppervlaktewaterlichaam worden gebracht, voorzover het afvalwater is behandeld in een zuiveringsinstallatie die voldoet aan het bepaalde in het tweede lid.
 
 2. Een zuiveringsinstallatie als bedoeld in het eerste lid:
 
-- a. behoort tot een type waarvoor bij de typekeuring ten aanzien van een parameter die is vermeld in tabel 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=3&z=2009-12-03&g=2009-12-03), overeenkomstig de aldaar vermelde ISO-norm, is vastgesteld dat de voor die parameter in die tabel vermelde concentratiewaarde niet wordt overschreden;
+- a. behoort tot een type waarvoor bij de typekeuring ten aanzien van een parameter die is vermeld in tabel 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=3&z=2009-12-22&g=2009-12-22), overeenkomstig de aldaar vermelde ISO-norm, is vastgesteld dat de voor die parameter in die tabel vermelde concentratiewaarde niet wordt overschreden;
 
-- b. functioneert zodanig dat bij een steekproef ten aanzien van een parameter die is vermeld in tabel 2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=3&z=2009-12-03&g=2009-12-03), overeenkomstig de aldaar vermelde ISO-norm, wordt vastgesteld dat de in die tabel voor die parameter vermelde concentratiewaarde niet wordt overschreden;
+- b. functioneert zodanig dat bij een steekproef ten aanzien van een parameter die is vermeld in tabel 2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&bijlage=3&z=2009-12-22&g=2009-12-22), overeenkomstig de aldaar vermelde ISO-norm, wordt vastgesteld dat de in die tabel voor die parameter vermelde concentratiewaarde niet wordt overschreden;
 
 - c. werkt niet volgens een mechanisch-chemische methode waarbij gebruik wordt gemaakt van chloorhoudende middelen en
 
@@ -746,7 +742,7 @@ Degene die een inrichting voor het inzamelen van scheepsafvalstoffen drijft, dra
 
 ##### Artikel 77
 
-In afwijking van het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-03&g=2009-12-03), kan huishoudelijk afvalwater dan wel bedrijfsafvalwater uit keukens, eetruimten, wasruimten en bijkeukens, daaronder begrepen toiletwater, in het oppervlaktewater worden gebracht vanaf andere dan de in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=4&paragraaf=4.2&artikel=76&z=2009-12-03&g=2009-12-03), bedoelde schepen.
+In afwijking van het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-22&g=2009-12-22), kan huishoudelijk afvalwater dan wel bedrijfsafvalwater uit keukens, eetruimten, wasruimten en bijkeukens, daaronder begrepen toiletwater, in een oppervlaktewaterlichaam worden gebracht vanaf andere dan de in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=4&paragraaf=4.2&artikel=76&z=2009-12-22&g=2009-12-22), bedoelde schepen.
 
 ### Hoofdstuk 5. Het nationaal instituut
 
@@ -758,17 +754,17 @@ Het nationaal instituut organiseert een doelmatig en doeltreffend beheer van oli
 
 ##### Artikel 79
 
-Het nationaal instituut geeft op zodanige wijze uitvoering aan het bepaalde in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=5&paragraaf=5.1&artikel=78&z=2009-12-03&g=2009-12-03) dat:
+Het nationaal instituut geeft op zodanige wijze uitvoering aan het bepaalde in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=5&paragraaf=5.1&artikel=78&z=2009-12-22&g=2009-12-22) dat:
 
 - a. een voldoende dicht net van ontvangstvoorzieningen, met voldoende capaciteit voor de inzameling van olie- en vethoudende scheepsafvalstoffen op de voet van onderdeel b, beschikbaar is langs de Nederlandse vaarwegen, alsmede voorzieningen met voldoende capaciteit voor het beheer van op die voet ingezamelde afvalstoffen beschikbaar zijn;
 
-- b. indien olie- en vethoudende scheepsafvalstoffen overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2009-12-03&g=2009-12-03) worden aangeboden bij een ontvangstvoorziening als bedoeld onder a, die afvalstoffen aldaar in ontvangst worden genomen zonder dat daarbij kosten of vergoedingen in rekening worden gebracht aan de eigenaar of de exploitant van het schip, dan wel de schipper.
+- b. indien olie- en vethoudende scheepsafvalstoffen overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2009-12-22&g=2009-12-22) worden aangeboden bij een ontvangstvoorziening als bedoeld onder a, die afvalstoffen aldaar in ontvangst worden genomen zonder dat daarbij kosten of vergoedingen in rekening worden gebracht aan de eigenaar of de exploitant van het schip, dan wel de schipper.
 
 ##### Artikel 80
 
-1. Het nationaal instituut houdt een overzicht bij van adressen en verdere bereikbaarheidsgegevens van de in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=5&paragraaf=5.1&artikel=79&z=2009-12-03&g=2009-12-03) bedoelde ontvangstvoorzieningen.
+1. Het nationaal instituut houdt een overzicht bij van adressen en verdere bereikbaarheidsgegevens van de in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=5&paragraaf=5.1&artikel=79&z=2009-12-22&g=2009-12-22) bedoelde ontvangstvoorzieningen.
 
-2. Het nationaal instituut verstrekt ter gelegenheid van de verstrekking van een olie-afgifteboekje als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2009-12-03&g=2009-12-03) een exemplaar van het overzicht aan de betrokkene.
+2. Het nationaal instituut verstrekt ter gelegenheid van de verstrekking van een olie-afgifteboekje als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2009-12-22&g=2009-12-22) een exemplaar van het overzicht aan de betrokkene.
 
 3. Het nationaal instituut geeft aan belanghebbenden in de bedrijfstak van de scheepvaart kennis van wijzigingen van het overzicht in daartoe geschikte dag- of nieuwsbladen.
 
@@ -802,7 +798,7 @@ Het nationaal instituut wijst twee vertegenwoordigers in het internationaal orga
 
 ##### Artikel 86
 
-Het nationaal instituut draagt er zorg voor dat de ingevolge [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=5&paragraaf=5.3&artikel=85&z=2009-12-03&g=2009-12-03) aangewezen vertegenwoordigers deelnemen aan de werkzaamheden van het internationaal orgaan in overeenstemming met het bepaalde bij of krachtens artikel 10 van het verdrag en artikel 4.01 van de Uitvoeringsregeling.
+Het nationaal instituut draagt er zorg voor dat de ingevolge [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=5&paragraaf=5.3&artikel=85&z=2009-12-22&g=2009-12-22) aangewezen vertegenwoordigers deelnemen aan de werkzaamheden van het internationaal orgaan in overeenstemming met het bepaalde bij of krachtens artikel 10 van het verdrag en artikel 4.01 van de Uitvoeringsregeling.
 
 #### § 5.4. Verdere bepalingen
 
@@ -810,7 +806,7 @@ Het nationaal instituut draagt er zorg voor dat de ingevolge [artikel 85](https:
 
 1. Het nationaal instituut houdt een administratie bij ten aanzien van hetgeen door dat instituut wordt verricht ter uitvoering van dit besluit.
 
-2. Het nationaal instituut draagt er zorg voor dat een sluitende registratie van het in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=5&paragraaf=5.1&artikel=78&z=2009-12-03&g=2009-12-03) bedoelde beheer beschikbaar is, welke het nationaal instituut in staat stelt te voldoen aan zijn verplichtingen ingevolge dit besluit.
+2. Het nationaal instituut draagt er zorg voor dat een sluitende registratie van het in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=5&paragraaf=5.1&artikel=78&z=2009-12-22&g=2009-12-22) bedoelde beheer beschikbaar is, welke het nationaal instituut in staat stelt te voldoen aan zijn verplichtingen ingevolge dit besluit.
 
 ##### Artikel 88
 
@@ -860,21 +856,21 @@ Wijzigt het Uitvoeringsbesluit Wet verontreiniging oppervlaktewateren.
 
 ##### Artikel 97
 
-In afwijking van het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-03&g=2009-12-03), en van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-03&g=2009-12-03) kan tot het tijdstip liggende vijf jaar na het in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=6&artikel=101&z=2009-12-03&g=2009-12-03), bedoelde tijdstip, dan wel een eerder bij koninklijk besluit te bepalen tijdstip, afvalwater dat ingevolge [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-03&g=2009-12-03) in de bedrijfsriolering gebracht zou moeten worden, in het oppervlaktewater worden gebracht, indien ten minste de losstandaard bezemschoon is bewerkstelligd voor het desbetreffende laadruim.
+In afwijking van het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-22&g=2009-12-22), en van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-22&g=2009-12-22) kan tot het tijdstip liggende vijf jaar na het in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=6&artikel=101&z=2009-12-22&g=2009-12-22), bedoelde tijdstip, dan wel een eerder bij koninklijk besluit te bepalen tijdstip, afvalwater dat ingevolge [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-22&g=2009-12-22) in de bedrijfsriolering gebracht zou moeten worden, in een oppervlaktewaterlichaam worden gebracht, indien ten minste de losstandaard bezemschoon is bewerkstelligd voor het desbetreffende laadruim.
 
 ##### Artikel 98
 
-In afwijking van het bepaalde in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-03&g=2009-12-03) is tot het tijdstip liggende vijf jaar na het in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=6&artikel=101&z=2009-12-03&g=2009-12-03), bedoelde tijdstip, dan wel een eerder bij koninklijk besluit te bepalen tijdstip, toegelaten dat in gevallen waarin ingevolge [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-03&g=2009-12-03) bij het nalossen de losstandaard vacuümschoon zou moeten worden bereikt, de losstandaard bezemschoon wordt bereikt.
+In afwijking van het bepaalde in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-22&g=2009-12-22) is tot het tijdstip liggende vijf jaar na het in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=6&artikel=101&z=2009-12-22&g=2009-12-22), bedoelde tijdstip, dan wel een eerder bij koninklijk besluit te bepalen tijdstip, toegelaten dat in gevallen waarin ingevolge [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-22&g=2009-12-22) bij het nalossen de losstandaard vacuümschoon zou moeten worden bereikt, de losstandaard bezemschoon wordt bereikt.
 
 ##### Artikel 99
 
-1. In afwijking van het bepaalde in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=37&z=2009-12-03&g=2009-12-03) is het tot het tijdstip liggende vijf jaar na het in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=6&artikel=101&z=2009-12-03&g=2009-12-03), bedoelde tijdstip, dan wel een eerder bij koninklijk besluit te bepalen tijdstip, toegelaten een schip voor vervoer van vloeibare lading ter beschikking te stellen dat niet beschikt over een nalenssysteem als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=37&z=2009-12-03&g=2009-12-03).
+1. In afwijking van het bepaalde in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=37&z=2009-12-22&g=2009-12-22) is het tot het tijdstip liggende vijf jaar na het in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=6&artikel=101&z=2009-12-22&g=2009-12-22), bedoelde tijdstip, dan wel een eerder bij koninklijk besluit te bepalen tijdstip, toegelaten een schip voor vervoer van vloeibare lading ter beschikking te stellen dat niet beschikt over een nalenssysteem als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=37&z=2009-12-22&g=2009-12-22).
 
-2. In afwijking van het bepaalde in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=43&z=2009-12-03&g=2009-12-03) is het tot het tijdstip liggende vijf jaar na het in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=6&artikel=101&z=2009-12-03&g=2009-12-03), bedoelde tijdstip, dan wel een eerder bij koninklijk besluit te bepalen tijdstip, verplicht de in de ladingtank en het leidingsysteem aanwezige restlading zo veel mogelijk te verwijderen met behulp van de daarvoor beschikbare voorzieningen.
+2. In afwijking van het bepaalde in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=43&z=2009-12-22&g=2009-12-22) is het tot het tijdstip liggende vijf jaar na het in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=6&artikel=101&z=2009-12-22&g=2009-12-22), bedoelde tijdstip, dan wel een eerder bij koninklijk besluit te bepalen tijdstip, verplicht de in de ladingtank en het leidingsysteem aanwezige restlading zo veel mogelijk te verwijderen met behulp van de daarvoor beschikbare voorzieningen.
 
 ##### Artikel 100
 
-In afwijking van het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-03&g=2009-12-03), kan tot een door Onze Minister van Verkeer en Waterstaat te bepalen tijdstip bedrijfsafvalwater uit keukens, eetruimten, wasruimten en bijkeukens, daaronder begrepen toiletwater, vanaf hotelschepen met meer dan 50 slaapplaatsen, onderscheidenlijk vanaf andere passagiersschepen die toegelaten zijn voor het vervoer van meer dan 50 passagiers, in het oppervlaktewater worden gebracht.
+In afwijking van het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=1&paragraaf=1.3&artikel=4&z=2009-12-22&g=2009-12-22), kan tot een door Onze Minister van Verkeer en Waterstaat te bepalen tijdstip bedrijfsafvalwater uit keukens, eetruimten, wasruimten en bijkeukens, daaronder begrepen toiletwater, vanaf hotelschepen met meer dan 50 slaapplaatsen, onderscheidenlijk vanaf andere passagiersschepen die toegelaten zijn voor het vervoer van meer dan 50 passagiers, in een oppervlaktewaterlichaam worden gebracht.
 
 ##### Artikel 100a
 
@@ -888,7 +884,7 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 
 Dit besluit wordt aangehaald als: Scheepsafvalstoffenbesluit Rijn- en binnenvaart.
 
-## Bijlage 1. behorende bij de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=38&z=2009-12-03&g=2009-12-03) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=39&z=2009-12-03&g=2009-12-03) van het Scheepsafvalstoffenbesluit rijn- en binnenvaart
+## Bijlage 1. behorende bij de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=38&z=2009-12-22&g=2009-12-22) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.2&artikel=39&z=2009-12-22&g=2009-12-22) van het Scheepsafvalstoffenbesluit rijn- en binnenvaart
 
 ### Modellen met betrekking tot het nalenssysteem
 
@@ -906,25 +902,17 @@ Aansluiting conform CEFIC.
 
 ### Model 2. Verklaring inzake de beproeving van het nalenssysteem
 
-## Bijlage 2. behorende bij de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.3&artikel=40&z=2009-12-03&g=2009-12-03), [42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-03&g=2009-12-03), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2009-12-03&g=2009-12-03), [48, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-03&g=2009-12-03), [51, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=51&z=2009-12-03&g=2009-12-03), [62, eerste lid, en tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.8&artikel=62&z=2009-12-03&g=2009-12-03), en [63](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.8&artikel=63&z=2009-12-03&g=2009-12-03) van het Scheepsafvalstoffenbesluit Rijn- en binnenvaart
+## Bijlage 2. behorende bij de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.3&artikel=40&z=2009-12-22&g=2009-12-22), [42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-22&g=2009-12-22), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2009-12-22&g=2009-12-22), [48, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-22&g=2009-12-22), [51, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=51&z=2009-12-22&g=2009-12-22), [62, eerste lid, en tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.8&artikel=62&z=2009-12-22&g=2009-12-22), en [63](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.8&artikel=63&z=2009-12-22&g=2009-12-22) van het Scheepsafvalstoffenbesluit Rijn- en binnenvaart
 
 ### Losstandaarden alsmede bijzondere behandelwijzen met betrekking tot afvalwater dat ladingrestanten bevat
 
 De kolommen van de tabel hebben de volgende betekenis:
 
-1. Kolom 1 vermeldt het viercijferige goederennummer per goederensoort als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.3&artikel=40&z=2009-12-03&g=2009-12-03), zoals dat is vervat in de nummering van de NSTR (goederennomenclatuur voor de vervoerstatistiek).
+1. Kolom 1 vermeldt het viercijferige goederennummer per goederensoort als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.3&artikel=40&z=2009-12-22&g=2009-12-22), zoals dat is vervat in de nummering van de NSTR (goederennomenclatuur voor de vervoerstatistiek).
 
-2. Kolom 2 vermeldt de naam van elke goederensoort als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.3&artikel=40&z=2009-12-03&g=2009-12-03), zoals die is vervat in de indeling van goederencategorieën van de NSTR.
+2. Kolom 2 vermeldt de naam van elke goederensoort als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.3&artikel=40&z=2009-12-22&g=2009-12-22), zoals die is vervat in de indeling van goederencategorieën van de NSTR.
 
-3. Kolom 3 geeft een losstandaard aan als bedoeld in de [artikelen 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-03&g=2009-12-03), [48, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-03&g=2009-12-03), [62, eerste lid, en tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.8&artikel=62&z=2009-12-03&g=2009-12-03), en [63](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.8&artikel=63&z=2009-12-03&g=2009-12-03), te weten:
-
-A: bezemschoon laadruim of nagelensde ladingtank
-
-of
-
-B: vacuümschoon laadruim.
-
-4. Kolom 4 geeft een losstandaard aan als bedoeld in de [artikelen 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-03&g=2009-12-03), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2009-12-03&g=2009-12-03), [48, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-03&g=2009-12-03), [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=51&z=2009-12-03&g=2009-12-03), en [63](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.8&artikel=63&z=2009-12-03&g=2009-12-03), te weten:
+3. Kolom 3 geeft een losstandaard aan als bedoeld in de [artikelen 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-22&g=2009-12-22), [48, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-22&g=2009-12-22), [62, eerste lid, en tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.8&artikel=62&z=2009-12-22&g=2009-12-22), en [63](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.8&artikel=63&z=2009-12-22&g=2009-12-22), te weten:
 
 A: bezemschoon laadruim of nagelensde ladingtank
 
@@ -932,7 +920,15 @@ of
 
 B: vacuümschoon laadruim.
 
-5. Kolom 5 geeft een bijzondere behandeling, aangeduid met S, aan als bedoeld in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-03&g=2009-12-03), [46, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-03&g=2009-12-03), [48, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-03&g=2009-12-03), en [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=51&z=2009-12-03&g=2009-12-03). De behandelwijze van het afvalwater hangt af van de aard van de soort lading, bijvoorbeeld over de opgeslagen lading spuiten, dan wel behandeling in een zuiveringsinstallatie of verwerking in een installatie voor afvalwater. In een aantal gevallen is de behandelwijze gespecificeerd in een voetnoot.
+4. Kolom 4 geeft een losstandaard aan als bedoeld in de [artikelen 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.4&artikel=42&z=2009-12-22&g=2009-12-22), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2009-12-22&g=2009-12-22), [48, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-22&g=2009-12-22), [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=51&z=2009-12-22&g=2009-12-22), en [63](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.8&artikel=63&z=2009-12-22&g=2009-12-22), te weten:
+
+A: bezemschoon laadruim of nagelensde ladingtank
+
+of
+
+B: vacuümschoon laadruim.
+
+5. Kolom 5 geeft een bijzondere behandeling, aangeduid met S, aan als bedoeld in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2009-12-22&g=2009-12-22), [46, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2009-12-22&g=2009-12-22), [48, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=48&z=2009-12-22&g=2009-12-22), en [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=3&paragraaf=3.5&artikel=51&z=2009-12-22&g=2009-12-22). De behandelwijze van het afvalwater hangt af van de aard van de soort lading, bijvoorbeeld over de opgeslagen lading spuiten, dan wel behandeling in een zuiveringsinstallatie of verwerking in een installatie voor afvalwater. In een aantal gevallen is de behandelwijze gespecificeerd in een voetnoot.
 
 6. Kolom 6 bevat verwijzingen naar opmerkingen in de voetnoten.
 
@@ -984,7 +980,7 @@ Dierlijk: B
 
 17) Indien geneesmiddelen: S
 
-## Bijlage 3. Behorende bij [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=4&paragraaf=4.2&artikel=76&z=2009-12-03&g=2009-12-03) van het Scheepsafvalstoffenbesluit Rijn- en binnenvaart
+## Bijlage 3. Behorende bij [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&hoofdstuk=4&paragraaf=4.2&artikel=76&z=2009-12-22&g=2009-12-22) van het Scheepsafvalstoffenbesluit Rijn- en binnenvaart
 
 ### Grens- en controlewaarden voor zuiveringsinstallaties aan boord van passagiersschepen
 
