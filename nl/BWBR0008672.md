@@ -4,7 +4,7 @@ identifier: "BWBR0008672"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-12-22"
-last_updated: "1997-05-09"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008672"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ De kering wordt vanaf 1 oktober 1998 gesloten bij een verwachte waterstand van d
 
 ##### Artikel 3
 
-Na 1 mei 2003 worden de consequenties van het in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008672&artikel=1&z=1997-05-09&g=1997-05-09) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008672&artikel=2&z=1997-05-09&g=1997-05-09) weergegeven sluitregime geëvalueerd, waarbij enerzijds zal worden bezien of en in welke mate de buitendijks gelegen gebieden hinder hebben ondervonden van wateroverlast en anderzijds of en in welke mate de sluiting nadelige gevolgen heeft gehad voor de haven van Rotterdam en de daarmee verwante scheepvaartbelangen.
+Na 1 mei 2003 worden de consequenties van het in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008672&artikel=1&z=2009-12-22&g=2009-12-22) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0008672&artikel=2&z=2009-12-22&g=2009-12-22) weergegeven sluitregime geëvalueerd, waarbij enerzijds zal worden bezien of en in welke mate de buitendijks gelegen gebieden hinder hebben ondervonden van wateroverlast en anderzijds of en in welke mate de sluiting nadelige gevolgen heeft gehad voor de haven van Rotterdam en de daarmee verwante scheepvaartbelangen.
 
 ##### Artikel 4
 
@@ -62,3 +62,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 ##### Artikel 6
 
 Dit besluit kan worden aangehaald als ’Besluit gebruik stormvloedkering Nieuwe Waterweg’.
+
+##### Artikel 1a
+
+Dit besluit berust mede op [artikel 1 van het Instellingsbesluit directoraat generaal Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0026953&artikel=1).
