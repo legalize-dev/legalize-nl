@@ -4,7 +4,7 @@ identifier: "BWBR0007818"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-12-22"
-last_updated: "1996-01-10"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007818"
 soort: "ministeriele-regeling"
@@ -53,3 +53,7 @@ Het doen van aangifte, bedoeld in [artikel 8, eerste lid, onderdeel a, Algemene 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust mede op [artikel 7.5, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5).
