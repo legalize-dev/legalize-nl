@@ -4,7 +4,7 @@ identifier: "BWBV0004726"
 country: "nl"
 rank: "verdrag"
 publication_date: "2009-12-22"
-last_updated: "1988-03-01"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004726"
 soort: "verdrag"
@@ -72,10 +72,10 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-De Helleense Republiek treedt toe tot de Aanvullende Overeenkomst betreffende de geldigheid voor het Vorstendom Liechtenstein van de op 22 juli 1972 te Brussel ondertekende Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Zwitserse Bondsstaat.
+Vervallen
 
 ##### Artikel 2
 
-Dit Complementair Protocol wordt door het Vorstendom Liechtenstein, Zwitserland en de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal volgens hun eigen procedures goedgekeurd. Het treedt op hetzelfde tijdstip in werking als het Aanvullend Protocol en geldt zolang het Verdrag van 29 maart 1923 van kracht blijft.
+Vervallen
 
 GEDAAN te Brussel, de zeventiende juli negentienhonderdtachtig.
