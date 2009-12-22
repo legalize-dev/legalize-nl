@@ -4,7 +4,7 @@ identifier: "BWBR0010666"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-12-22"
-last_updated: "2004-07-17"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010666"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Het subsidieplafond bedraagt voor het jaar 2004 € 2.260.000,– en voor het ja
 
 Groningen: 5,00 Friesland: 7,50 Drenthe: 5,00 Overijssel: 7,50 Flevoland: 2,50 Gelderland: 14,06 Utrecht: 6,25 NoordHolland: 12,50 Zuid-Holland: 14,69 Zeeland: 5,00 NoordBrabant: 12,50 Limburg: 7,50
 
-2. De subsidie aan een provincie kan niet meer bedragen dan het bedrag dat door de provincie, de gemeenten en de waterkwaliteitsbeheerders tezamen beschikbaar wordt gesteld voor het in stand houden van het servicepunt of de servicepunten in de desbetreffende provincie in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010666&artikel=2&z=2004-07-17&g=2004-07-17) genoemde periode.
+2. De subsidie aan een provincie kan niet meer bedragen dan het bedrag dat door de provincie, de gemeenten en de beheerders tezamen beschikbaar wordt gesteld voor het in stand houden van het servicepunt of de servicepunten in de desbetreffende provincie in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010666&artikel=2&z=2009-12-22&g=2009-12-22) genoemde periode.
 
 3. Het tweede lid is niet van toepassing op subsidie die wordt verleend voor het in stand houden van het Servicepunt Milieuwethandhaving Waddenzee.
 
@@ -64,7 +64,7 @@ Groningen: 5,00 Friesland: 7,50 Drenthe: 5,00 Overijssel: 7,50 Flevoland: 2,50 G
 
 1. Een aanvraag tot subsidieverlening heeft betrekking op de periode te rekenen vanaf 1 januari 2004 tot en met 30 juni 2005 of op een gedeelte van die periode.
 
-2. Uit de aanvraag moet blijken dat de hoogte van het aangevraagde subsidiebedrag in overeenstemming is met het bepaalde in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010666&artikel=4&z=2004-07-17&g=2004-07-17).
+2. Uit de aanvraag moet blijken dat de hoogte van het aangevraagde subsidiebedrag in overeenstemming is met het bepaalde in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010666&artikel=4&z=2009-12-22&g=2009-12-22).
 
 ##### Artikel 6
 
