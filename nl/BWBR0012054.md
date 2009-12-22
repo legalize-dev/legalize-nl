@@ -4,7 +4,7 @@ identifier: "BWBR0012054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-07-12"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012054"
 soort: "ministeriele-regeling"
@@ -53,19 +53,19 @@ Deze regeling verstaat onder wet: [Wet inkomstenbelasting 2001](https://wetten.o
 
 - b. – voor zover een bouwvergunning noodzakelijk is - door het bevoegde gezag voor het bedrijfsmiddel of onderdeel daarvan een bouwvergunning is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42);
 
-- c. – voor zover een vergunning op grond van de [Wet beheer Rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) noodzakelijk is – de belastingplichtige ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) ten aanzien van het bedrijfsmiddel of een onderdeel daarvan houder is van een zodanige door het bevoegde gezag afgegeven vergunning;
+- c. – voor zover een vergunning op grond van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of de [artikelen 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12), [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.13) of [6.14 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.14) noodzakelijk is – de belastingplichtige ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) ten aanzien van het bedrijfsmiddel of een onderdeel daarvan houder is van een zodanige door het bevoegde gezag afgegeven vergunning;
 
 - d. – voor zover voor het bedrijfsmiddel ten behoeve van het aanwenden of toepassen van duurzame energie een vergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) noodzakelijk is – de belastingplichtige ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) houder is van een door het bevoegde gezag voor dat bedrijfsmiddel afgegeven vergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1);
 
-- e. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in [artikel 1, onderdeel D, onder 2.1.A, letter b, van Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2009-07-12&g=2009-07-12) van deze regeling – de belastingplichtige ten tijde van de aanmelding houder is van een SDE-beschikking ter grootte van een bedrag per kWh, dat groter is dan nihil;
+- e. – voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in [artikel 1, onderdeel D, onder 2.1.A, letter b, van Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&bijlage=1&z=2009-12-22&g=2009-12-22) van deze regeling – de belastingplichtige ten tijde van de aanmelding houder is van een SDE-beschikking ter grootte van een bedrag per kWh, dat groter is dan nihil;
 
 - f. – voor zover het bedrijfsmiddel of het onderdeel uitsluitend bestemd is voor toepassing in of bij een nieuw op te richten opstand van een glastuinbouwbedrijf als bedoeld in het [Besluit glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0013430) – door het bevoegde gezag voor die opstand een bouwvergunning is afgegeven ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42).
 
-2. Voor de toepassing van het eerste lid, onderdeel e, en van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2009-07-12&g=2009-07-12), wordt onder een SDE-beschikking verstaan: een beschikking waarbij een subsidie als bedoeld in [artikel 2 van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), is verleend.
+2. Voor de toepassing van het eerste lid, onderdeel e, en van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2009-12-22&g=2009-12-22), wordt onder een SDE-beschikking verstaan: een beschikking waarbij een subsidie als bedoeld in [artikel 2 van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), is verleend.
 
 ##### Artikel 3
 
-1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2009-07-12&g=2009-07-12) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
+1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2009-12-22&g=2009-12-22) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen;
 
@@ -81,19 +81,19 @@ De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskoste
 
 1. De verklaring van de Minister van Economische Zaken, bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven ter zake.
 
-2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2009-07-12&g=2009-07-12) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2009-07-12&g=2009-07-12).
+2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2009-12-22&g=2009-12-22) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2009-12-22&g=2009-12-22).
 
 3. De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een berekening van de energiebesparing over.
 
-4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven bouw vergunning over indien [artikel 2, onderdeel b respectievelijk onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2009-07-12&g=2009-07-12), van toepassing is.
+4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven bouw vergunning over indien [artikel 2, onderdeel b respectievelijk onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2009-12-22&g=2009-12-22), van toepassing is.
 
-5. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de SDE-beschikking alsmede van de afgegeven vergunning op grond van de [Wet beheer Rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) over indien [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2009-07-12&g=2009-07-12), van toepassing is.
+5. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de SDE-beschikking alsmede van de afgegeven vergunning op grond van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of de [artikelen 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12), [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.13) of [6.14 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.14) over indien [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2009-12-22&g=2009-12-22), van toepassing is.
 
-6. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven vergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1)over indien [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2009-07-12&g=2009-07-12), van toepassing is.
+6. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de Minister van Economische Zaken daarom verzoekt, een kopie van de afgegeven vergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1)over indien [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2009-12-22&g=2009-12-22), van toepassing is.
 
 ##### Artikel 6
 
-1. De Minister van Economische Zaken kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2009-07-12&g=2009-07-12) bedoelde verklaring wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
+1. De Minister van Economische Zaken kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2009-12-22&g=2009-12-22) bedoelde verklaring wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Economische Zaken bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
 
 2. De bevoegdheid tot het intrekken of wijzigen van een verklaring ingevolge het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
