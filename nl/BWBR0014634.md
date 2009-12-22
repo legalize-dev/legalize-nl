@@ -4,7 +4,7 @@ identifier: "BWBR0014634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-12-22"
-last_updated: "2003-05-16"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014634"
 soort: "ministeriele-regeling"
@@ -62,3 +62,7 @@ De projectorganisatie bestaat uit:
 ##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant, waarin het wordt geplaatst.
+
+##### Artikel 1a
+
+Dit besluit berust mede op [artikel 2, tweede lid, van het Instellingsbesluit directoraat generaal Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0026953&artikel=2).
