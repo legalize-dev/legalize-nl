@@ -4,7 +4,7 @@ identifier: "BWBR0003693"
 country: "nl"
 rank: "amvb"
 publication_date: "2013-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003693"
 soort: "AMvB"
@@ -68,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 - 3. geen rekening wordt gehouden met inkomsten uit vermogen als bedoeld in [artikel 28, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=28).
 
-2. Bij de vaststelling van het inkomen volgens het eerste lid, wordt uitgegaan van het inkomen zoals dit bij de definitieve vaststelling van de uitkering, bedoeld in [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=60), is of zou worden berekend over de maand met ingang waarvan de tegemoetkoming wordt toegekend. Indien een uitkering als bedoeld in het eerste lid, onder a, wordt genoten en in de maand met ingang waarvan de tegemoetkoming wordt toegekend een eenmalige grondslagverhoging is uitgekeerd, wordt deze verhoging buiten beschouwing gelaten.
+2. Bij de vaststelling van het inkomen volgens het eerste lid, wordt uitgegaan van het inkomen zoals dit bij de vaststelling van de uitkering, bedoeld in [artikel 60 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=60), is of zou worden berekend over de maand met ingang waarvan de tegemoetkoming wordt toegekend.
 
 3. Wanneer toepassing is gegeven aan de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=18) of [32, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=32) wordt als inkomen aangemerkt het percentage van de grondslag, genoemd in [artikel 18, eerste lid, onder a, b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=18).
 
@@ -76,13 +76,13 @@ In dit besluit wordt verstaan onder:
 
 De financiële draagkracht wordt eenmalig berekend en bepaald op:
 
-- a. 10 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2003-08-27&g=2009-01-01) vastgestelde inkomen dat de maximum-grondslag niet overschrijdt, met dien verstande dat van dat deel 80 procent van de minimum-grondslag wordt vrijgelaten;
+- a. 10 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2009-12-23&g=2009-12-23) vastgestelde inkomen dat de maximum-grondslag niet overschrijdt, met dien verstande dat van dat deel 80 procent van de minimum-grondslag wordt vrijgelaten;
 
-- b. 50 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2003-08-27&g=2009-01-01) vastgestelde inkomen dat de maximum-grondslag overschrijdt.
+- b. 50 procent van dat deel van het ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2009-12-23&g=2009-12-23) vastgestelde inkomen dat de maximum-grondslag overschrijdt.
 
 ##### Artikel 4
 
-De tegemoetkoming in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2003-08-27&g=2009-01-01), bedoelde kosten van voorzieningen wordt vastgesteld op het bedrag waarmede die kosten de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=3&z=2003-08-27&g=2009-01-01) berekende financiële draagkracht overschrijden.
+De tegemoetkoming in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=2&z=2009-12-23&g=2009-12-23), bedoelde kosten van voorzieningen wordt vastgesteld op het bedrag waarmede die kosten de ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003693&artikel=3&z=2009-12-23&g=2009-12-23) berekende financiële draagkracht overschrijden.
 
 ##### Artikel 5
 
