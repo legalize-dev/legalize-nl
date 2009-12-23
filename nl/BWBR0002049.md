@@ -4,7 +4,7 @@ identifier: "BWBR0002049"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-10-06"
-last_updated: "2009-07-01"
+last_updated: "2009-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002049"
 soort: "AMvB"
@@ -54,13 +54,13 @@ In dit besluit wordt verstaan onder:
 
 «kortingsinkomen»: het totaal van het inkomen uit werk en woning, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met e, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.1), en de feitelijke inkomsten uit sparen en beleggen, verminderd met:
 
-- a. indien in het kalenderjaar loon wordt genoten het hoogste van de uit de toepassing van de volgende onderdelen voortvloeiende bedragen:
+- a. indien loon wordt genoten het hoogste van de uit de toepassing van de volgende onderdelen voortvloeiende bedragen:
 
-- 1°. bij loon uit tegenwoordige dienstbetrekking: 12% van dat loon, maar niet minder dan € 119 en niet meer dan € 1605;
+- 1°. bij loon uit tegenwoordige dienstbetrekking: 12% van dat loon, maar niet minder dan € 119 per jaar en niet meer dan € 1605 per jaar;
 
-- 2°. bij loon uit vroegere dienstbetrekking: € 487, en
+- 2°. bij loon uit vroegere dienstbetrekking: € 487 per jaar, en
 
-- b. het bedrag van het over het jaar 2000 toegepaste reiskostenforfait tot een maximum van € 939,
+- b. het bedrag van het over het jaar 2000 toegepaste reiskostenforfait tot een maximum van € 939 per jaar,
 
 met dien verstande evenwel, dat, in afwijking van [artikel 2.17 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17),
 
@@ -70,39 +70,41 @@ alle bestanddelen van het inkomen van een gehuwde, niet duurzaam gescheiden van 
 
 ##### Artikel 2
 
-1. Als het bedrag van de over enig kalenderjaar genoten verrekenbare inkomsten, bedoeld in de [artikelen 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=11), en [20 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=20), wordt, behoudens het bepaalde in of krachtens de tweede, derde en vierde volzin van [artikel 11, tweede lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=11) en in de volgende artikelen van dit besluit, aangemerkt het kortingsinkomen van dat kalenderjaar vermeerderd met het bedrag van de niet daarin begrepen, in dat kalenderjaar door de gepensioneerde of diens niet duurzaam gescheiden van hem levende echtgenoot genoten kinderbijslag, en verminderd met het buitengewoon pensioen en met de in [artikel 11, derde lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=11) bedoelde uitkeringen, pensioenen en andere inkomsten.
+1. Als het bedrag van de verrekenbare inkomsten, bedoeld in de [artikelen 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=11), en [20 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=20), wordt, behoudens het bepaalde in of krachtens de tweede, derde en vierde volzin van [artikel 11, tweede lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=11) en in de volgende artikelen van dit besluit, aangemerkt het kortingsinkomen vermeerderd met het bedrag van de niet daarin begrepen, door de gepensioneerde of diens niet duurzaam gescheiden van hem levende echtgenoot genoten kinderbijslag, en verminderd met het buitengewoon pensioen en met de in [artikel 11, derde lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=11) bedoelde uitkeringen, pensioenen en andere inkomsten.
 
 2. Voor de toepassing van het bepaalde in het eerste lid worden mede op het kortingsinkomen in mindering gebracht, indien en voor zover daarin begrepen:
 
 - a. inkomsten van kinderen die de leeftijd van eenentwintig jaren nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn, welke niet in de pensioengrondslag zijn opgenomen;
 
-- b. een krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) verleende jaarlijkse bijdrage ten behoeve van het verkrijgen van een door de begunstigde te bewonen nieuwe woning;
+- b. een krachtens de [Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919) verleende eigenwoningbijdrage;
 
 - c. een krachtens enige van overheidswege getroffen maatregel inzake huurtoeslag verleende bijdrage;
 
 - d. een uitkering ineens, bedoeld in artikel 42 van het pensioenreglement van het Bedrijfspensioenfonds voor de Koopvaardij;
 
-- e. een krachtens de [artikelen 7 tot en met 19 van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=7) verleende uitkering, zomede een toeslag krachtens [artikel 21**b** van evengenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=21b);
+- e. een krachtens de [artikelen 7 tot en met 19 van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=7) verleende uitkering, zomede een toeslag krachtens [artikel 21b van evengenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=21b);
 
 - f. een krachtens de [artikelen 7 tot en met 24 van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=7) verleende uitkering of toeslag;
 
-- g. een door een gemeente in het kader van de [Wet op de stads- en dorpsvernieuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0003709) verstrekte bijdrage in de kosten ter verbetering van de woning;
+- g. een door een gemeente verstrekte bijdrage in de kosten ter verbetering van de woning;
 
-- h. de van de Raad ontvangen wettelijke rente op het buitengewone pensioen en de garantietoeslag.
+- h. de van de Raad krachtens [artikel 4:98 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98) ontvangen wettelijke rente;
+
+- i. de tegemoetkoming, bedoeld in [artikel 29a van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29a) en [artikel 33b van de Algemene Ouderdomswet.](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=33b)
 
 ##### Artikel 3
 
-Het bedrag van de verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-07-01&g=2009-07-01), wordt verminderd met:
+Het bedrag van de verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-12-23&g=2009-12-23), wordt verminderd met:
 
-- a. het door de Raad vast te stellen kapitaalsinteringsbestanddeel van periodieke uitkeringen, welke aan de gepensionneerde opkomen ingevolge een uit zijn vermogen afkomstige prestatie, berekend door vergelijking van de contante waarde van die uitkeringen aan het begin en het einde van het desbetreffende belastingjaar.
+- a. het door de Raad vast te stellen kapitaalsinteringsbestanddeel van periodieke uitkeringen, welke aan de gepensioneerde opkomen ingevolge een uit zijn vermogen afkomstige prestatie.
 
-- b. de inkomsten, welke onverplicht door derden aan de gepensionneerde worden verschaft;
+- b. de inkomsten, welke onverplicht door derden aan de gepensioneerde worden verschaft;
 
 - c. de, tengevolge van inkomstenstijging uit onderneming of arbeid gederfde baten, welke voortvloeien uit de onder **b** bedoelde onverplichte bijdragen van derden, indien en voorzover de omstandigheden naar het oordeel van de Raad daartoe aanleiding geven.
 
 ##### Artikel 4
 
-1. Indien verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-07-01&g=2009-07-01), worden genoten krachtens erfrecht, dan wel uit door erfrecht verworven bezit, voorzover deze eerst na het tijdstip, hetwelk gediend heeft voor de vaststelling van de pensioensgrondslag, van bloed- en aanverwanten in de rechte lijn en in de tweede graad der zijdlinie zijn verworven, wordt wegens deze inkomsten van het buitengewoon pensioen niet meer in mindering gebracht dan zou zijn geschied, indien dit pensioen was berekend naar een grondslag, waarin deze inkomsten zijn begrepen.
+1. Indien verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-12-23&g=2009-12-23), worden genoten krachtens erfrecht, dan wel uit door erfrecht verworven bezit, voorzover deze eerst na het tijdstip, hetwelk gediend heeft voor de vaststelling van de pensioensgrondslag, van bloed- en aanverwanten in de rechte lijn en in de tweede graad der zijdlinie zijn verworven, wordt wegens deze inkomsten van het buitengewoon pensioen niet meer in mindering gebracht dan zou zijn geschied, indien dit pensioen was berekend naar een grondslag, waarin deze inkomsten zijn begrepen.
 
 2. Het in artikel 7, derde lid, der wet vastgestelde maximum geldt mede voor de pensioensgrondslag, bedoeld in het slot van het voorgaande lid.
 
@@ -110,11 +112,11 @@ Het bedrag van de verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.
 
 ##### Artikel 5
 
-Onverminderd het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=1&z=2009-07-01&g=2009-07-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-07-01&g=2009-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=3&z=2009-07-01&g=2009-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=4&z=2009-07-01&g=2009-07-01) worden op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-07-01&g=2009-07-01) bedoelde verrekenbare inkomsten in mindering gebracht de kosten, die naar het oordeel van de Raad noodzakelijk zijn om uit eigen onderneming of arbeid inkomsten te verwerven, tenzij deze kosten reeds bij het bepalen van het kortingsinkomen in aanmerking zijn genomen.
+Onverminderd het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=1&z=2009-12-23&g=2009-12-23), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-12-23&g=2009-12-23), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=3&z=2009-12-23&g=2009-12-23) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=4&z=2009-12-23&g=2009-12-23) worden op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-12-23&g=2009-12-23) bedoelde verrekenbare inkomsten in mindering gebracht de kosten, die naar het oordeel van de Raad noodzakelijk zijn om uit eigen onderneming of arbeid inkomsten te verwerven, tenzij deze kosten reeds bij het bepalen van het kortingsinkomen in aanmerking zijn genomen.
 
 ##### Artikel 6
 
-Onverminderd het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=1&z=2009-07-01&g=2009-07-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-07-01&g=2009-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=3&z=2009-07-01&g=2009-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=4&z=2009-07-01&g=2009-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=5&z=2009-07-01&g=2009-07-01) wordt op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-07-01&g=2009-07-01) bedoelde verrekenbare inkomsten in mindering gebracht de daarin begrepen kinderbijslag voor zover deze te boven gaat de kinderbijslag voor een gelijk aantal kinderen als waarvoor, bij de vaststelling van de pensioengrondslag met kinderbijslag is rekening gehouden.
+Onverminderd het bepaalde in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=1&z=2009-12-23&g=2009-12-23), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-12-23&g=2009-12-23), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=3&z=2009-12-23&g=2009-12-23), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=4&z=2009-12-23&g=2009-12-23) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=5&z=2009-12-23&g=2009-12-23) wordt op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-12-23&g=2009-12-23) bedoelde verrekenbare inkomsten in mindering gebracht de daarin begrepen kinderbijslag voor zover deze te boven gaat de kinderbijslag voor een gelijk aantal kinderen als waarvoor, bij de vaststelling van de pensioengrondslag met kinderbijslag is rekening gehouden.
 
 ##### Artikel 7
 
@@ -122,7 +124,7 @@ Vervallen
 
 ##### Artikel 8
 
-Zolang het bedrag der verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-07-01&g=2009-07-01), niet bekend is, wordt dit bedrag door de Raad, met inachtneming voor zoveel mogelijk van bovenstaande bepalingen, voorlopig geschat.
+Zolang het bedrag der verrekenbare inkomsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002049&artikel=2&z=2009-12-23&g=2009-12-23), niet bekend is, wordt dit bedrag door de Raad, met inachtneming voor zoveel mogelijk van bovenstaande bepalingen, voorlopig geschat.
 
 ##### Artikel 9
 
@@ -130,14 +132,14 @@ Voor de toepassing van dit besluit worden pensioenen en wachtgelden, welke krach
 
 ##### Artikel 10
 
-Indien een gepensionneerde inkomsten geniet of gaat genieten, welke ingevolge dit besluit voor verrekening met het buitengewoon pensioen in aanmerking komen, doet hij terstond mededeling aan de Raad van het bedrag en de aard dier inkomsten.
+Vervallen
 
 ##### Artikel 11
 
-Met de contrôle op de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=11) en [20 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=20) bedoelde inkomsten zijn in het bijzonder belast de inspecteurs der belastingen. Zij ontvangen daartoe van de Raad opgave van de gepensionneerden, die in hun inspectie wonen en handelen overigens naar de door Onze Minister van Financiën te geven aanwijzingen.
+Met de contrôle op de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=11) en [20 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=20) bedoelde inkomsten zijn in het bijzonder belast de inspecteurs der belastingen. Zij ontvangen daartoe van de Raad opgave van de gepensioneerden, die in hun inspectie wonen en handelen overigens naar de door Onze Minister van Financiën te geven aanwijzingen.
 
 ##### Artikel 12
 
-De te verrekenen inkomsten van buiten het Rijk in Europa woonachtige gepensionneerden worden door de Raad overeenkomstig het bepaalde in de voorafgaande artikelen vastgesteld op grond van de door de Nederlandse Consul in het land van inwoning van de gepensionneerde door tussenkomst van Onze Minister van Buitenlandse Zaken te verstrekken gegevens. Indien echter de gepensionneerde woonachtig is in het Rijk buiten Europa, worden de gegevens verstrekt door de hoogste Nederlandse Autoriteit in die Rijksdelen door tussenkomst van Onze Minister voor Nederlands-Antilliaanse en Arubaanse Zaken.
+Vervallen
 
 Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
