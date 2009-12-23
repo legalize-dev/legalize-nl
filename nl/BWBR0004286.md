@@ -4,7 +4,7 @@ identifier: "BWBR0004286"
 country: "nl"
 rank: "kb"
 publication_date: "2009-12-23"
-last_updated: "1988-05-01"
+last_updated: "2009-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004286"
 soort: "KB"
@@ -40,6 +40,6 @@ Hebben goedgevonden en verstaan:
 
 ##### artikel 1
 
-het aantal bestuursleden van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) vast te stellen op 4.
+het aantal bestuursleden van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) vast te stellen op 5.
 
 Onze Minister van Onderwijs en Wetenschappen is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.
