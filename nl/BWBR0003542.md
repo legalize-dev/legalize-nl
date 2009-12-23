@@ -4,7 +4,7 @@ identifier: "BWBR0003542"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "1998-01-01"
+last_updated: "2009-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003542"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Tot de over enig kalenderjaar genoten inkomsten van de betrokkene, als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=12), tweede lid, en [20, derde lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=20) en de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=11), tweede lid, en [20, derde lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=20), dan wel tot de uitkering, het pensioen of de andere inkomsten bedoeld in de eerste volzin van [artikel 12, derde lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=12) en in de eerste volzin van [artikel 11, derde lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=11), dienen de vereveningsbijdragen, onderscheidenlijk de premies voor werknemersverzekeringen, mede gerekend te worden. Het bepaalde in de vorige volzin vindt geen toepassing, indien de vereveningsbijdragen, onderscheidenlijk de premies voor werknemersverzekeringen, worden geheven over een uitkering of pensioen, welke berekend is naar een minimumgrondslag onder welke benaming dan ook, dan wel naar een voor de wet waarop die uitkering is gebaseerd, al dan niet met toepassing van [Hoofdstuk II van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II) (**Stb.** 1987, 91), vastgesteld minimum.
+Tot de genoten inkomsten van de betrokkene, als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=12), tweede lid, en [20, derde lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=20) en de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=11), en [20, derde lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=20), dan wel tot de uitkering, het pensioen of de andere inkomsten bedoeld in de eerste volzin van [artikel 12, derde lid, van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=12) en in de eerste volzin van [artikel 11, derde lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=11), dienen de vereveningsbijdragen, onderscheidenlijk de premies voor werknemersverzekeringen, mede gerekend te worden. Het bepaalde in de vorige volzin vindt geen toepassing, indien de vereveningsbijdragen, onderscheidenlijk de premies voor werknemersverzekeringen, worden geheven over een uitkering of pensioen, welke berekend is naar een minimumgrondslag onder welke benaming dan ook, dan wel naar een voor de wet waarop die uitkering is gebaseerd, al dan niet met toepassing van [Hoofdstuk II van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&hoofdstuk=II) (**Stb.** 1987, 91), vastgesteld minimum.
 
 ##### Artikel 3
 
