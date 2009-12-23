@@ -4,7 +4,7 @@ identifier: "BWBR0010042"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2009-12-03"
+last_updated: "2009-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010042"
 soort: "wet"
@@ -56,11 +56,11 @@ Wijzigt de Wet verontreiniging oppervlaktewateren.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet milieubeheer.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt Boek 8 van het Burgerlijk Wetboek.
 
 ##### Artikel V
 
@@ -76,7 +76,7 @@ Het tarief van de in [artikel 39c van de Binnenvaartwet](https://wetten.overheid
 
 ##### Artikel VIII
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0010042&artikel=I&z=2009-12-03&g=2009-12-03), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010042&artikel=II&z=2009-12-03&g=2009-12-03) voor wat betreft [hoofdstuk 4A, paragraaf 4, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&paragraaf=4) in werking treedt.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0010042&artikel=I&z=2009-12-23&g=2009-12-23), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010042&artikel=II&z=2009-12-23&g=2009-12-23) voor wat betreft [hoofdstuk 4A, paragraaf 4, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&paragraaf=4) in werking treedt.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
