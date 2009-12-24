@@ -4,7 +4,7 @@ identifier: "BWBR0013741"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-18"
-last_updated: "2002-09-01"
+last_updated: "2009-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013741"
 soort: "ministeriele-regeling"
@@ -42,11 +42,9 @@ Besluit:
 
 Als belast met het toezicht op de naleving van het bij of krachtens de [vijfde afdeling van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5) bepaalde met betrekking tot het financieel verkeer worden aangewezen:
 
-- a. De Nederlandsche Bank N.V., voorzover het betreft de naleving door de instellingen bedoeld in artikel 10, tweede lid, onder a en c, van die wet;
+- a. De Nederlandsche Bank N.V., voorzover het betreft de naleving door de instellingen bedoeld in [artikel 10, tweede lid, onder a, c en e tot met i, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10);
 
-- b. de Autoriteit Financiële Markten, voor zover het betreft de naleving door de instellingen bedoeld in artikel 10, tweede lid, onder b en d, van die wet, en
-
-- c. de Pensioen- & Verzekeringkamer, voorzover het betreft de naleving door de instellingen bedoeld in artikel 10, tweede lid, onder e tot en met h, van die wet.
+- b. de Stichting Autoriteit Financiële Markten, voor zover het betreft de naleving door de instellingen bedoeld in [artikel 10, tweede lid, onder b en d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10).
 
 ##### Artikel 2
 
