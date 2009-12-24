@@ -68,11 +68,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Regeling participatiebudget.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Statistiek re-integratie door gemeenten
-
-1. Indien de gegevens, bedoeld in [artikel 5, eerste lid, van de Regeling statistiek WWB, WIJ, IOAW, IOAZ en WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017194&artikel=5), op de datum, bedoeld in voornoemd lid, niet zijn ontvangen of niet volledig zijn, schort de Minister van Sociale Zaken en Werkgelegenheid de betaling van het participatiebudget voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarin de Minister van Sociale Zaken van de externe bewerker, bedoeld in voornoemd lid, daarvan bericht heeft ontvangen, doch niet gedurende de periode waarover door de Minister van Sociale Zaken en Werkgelegenheid aan het college in geval van overmacht uitstel is verleend.
-
-2. De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin de gegevens, bedoeld in het eerste lid, volledig zijn ontvangen door de Minister van Sociale Zaken en Werkgelegenheid.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
