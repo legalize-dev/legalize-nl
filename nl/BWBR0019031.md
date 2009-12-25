@@ -4,7 +4,7 @@ identifier: "BWBR0019031"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-09"
-last_updated: "2009-07-01"
+last_updated: "2009-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019031"
 soort: "AMvB"
@@ -118,7 +118,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Voor de toepassing van dit besluit, met uitzondering van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&z=2009-07-01&g=2009-07-01), worden de hoeveelheden meststoffen uitgedrukt in kilogrammen of liters alsmede in kilogrammen stikstof en kilogrammen fosfaat.
+Voor de toepassing van dit besluit, met uitzondering van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&z=2009-12-25&g=2009-12-25), worden de hoeveelheden meststoffen uitgedrukt in kilogrammen of liters alsmede in kilogrammen stikstof en kilogrammen fosfaat.
 
 ### Hoofdstuk II. Aanwijzing veengronden, zand- of lössgronden en kleigronden
 
@@ -172,7 +172,7 @@ Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - b. de overige te verstrekken gegevens, de wijze waarop deze gegevens worden verstrekt en de termijn waarbinnen wijzigingen in deze gegevens worden doorgegeven.
 
-3. Bij ministeriële regeling kan, in zoverre in afwijking van het eerste lid en van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=22&z=2009-07-01&g=2009-07-01), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=23&z=2009-07-01&g=2009-07-01) en [24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=24&z=2009-07-01&g=2009-07-01), indien de weersomstandigheden of de bodemgesteldheid hiertoe aanleiding geven, een latere datum dan 15 mei worden vastgesteld.
+3. Bij ministeriële regeling kan, in zoverre in afwijking van het eerste lid en van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=22&z=2009-12-25&g=2009-12-25), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=23&z=2009-12-25&g=2009-12-25) en [24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=24&z=2009-12-25&g=2009-12-25), indien de weersomstandigheden of de bodemgesteldheid hiertoe aanleiding geven, een latere datum dan 15 mei worden vastgesteld.
 
 ### Hoofdstuk V. Opslagcapaciteit dierlijke meststoffen
 
@@ -198,11 +198,11 @@ Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 29
 
-1. De capaciteit van de opslagruimte voor dierlijke meststoffen kan kleiner zijn dan de ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2009-07-01&g=2009-07-01) vereiste capaciteit, voor zover de producent van dierlijke meststoffen kan aantonen dat:
+1. De capaciteit van de opslagruimte voor dierlijke meststoffen kan kleiner zijn dan de ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2009-12-25&g=2009-12-25) vereiste capaciteit, voor zover de producent van dierlijke meststoffen kan aantonen dat:
 
-- a. de overeenkomstig [artikel 28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2009-07-01&g=2009-07-01), berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit op een voor het milieu onschadelijke wijze van het bedrijf zal worden verwijderd;
+- a. de overeenkomstig [artikel 28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2009-12-25&g=2009-12-25), berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit op een voor het milieu onschadelijke wijze van het bedrijf zal worden verwijderd;
 
-- b. de overeenkomstig [artikel 28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2009-07-01&g=2009-07-01), berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit zal worden aangewend op tot het bedrijf behorend bouwland waarvoor het in [artikel 4 van het Besluit gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=4) gestelde verbod niet geldt;
+- b. de overeenkomstig [artikel 28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2009-12-25&g=2009-12-25), berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit zal worden aangewend op tot het bedrijf behorend bouwland waarvoor het in [artikel 4 van het Besluit gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=4) gestelde verbod niet geldt;
 
 - c. het aantal dieren dat in de periode van september tot en met februari feitelijk in de tot het bedrijf behorende stallen kan worden gehouden kleiner is dan op grond van de vergunning, bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1), is toegestaan; of
 
@@ -212,7 +212,7 @@ Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 30
 
-Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden betreffende de soort of de categorie van de gehouden dieren, het huisvestingssysteem, het drinkwatersysteem, de samenstelling van het diervoeder of andere aspecten van het bedrijfssysteem, de hoeveelheid dierlijke meststoffen per dier lager is dan de krachtens [artikel 28, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2009-07-01&g=2009-07-01), vastgestelde norm, geldt deze lagere waarde voor de toepassing van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2009-07-01&g=2009-07-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=29&z=2009-07-01&g=2009-07-01).
+Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden betreffende de soort of de categorie van de gehouden dieren, het huisvestingssysteem, het drinkwatersysteem, de samenstelling van het diervoeder of andere aspecten van het bedrijfssysteem, de hoeveelheid dierlijke meststoffen per dier lager is dan de krachtens [artikel 28, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2009-12-25&g=2009-12-25), vastgestelde norm, geldt deze lagere waarde voor de toepassing van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2009-12-25&g=2009-12-25) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=29&z=2009-12-25&g=2009-12-25).
 
 ### Hoofdstuk VI. Administratieve verplichtingen landbouwbedrijven
 
@@ -242,7 +242,7 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 1. De landbouwer houdt per bedrijf en per kalenderjaar een inzichtelijke administratie bij.
 
-2. De administratie bevat in ieder geval de gegevens, bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=31&z=2009-07-01&g=2009-07-01), alsmede gegevens over:
+2. De administratie bevat in ieder geval de gegevens, bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=31&z=2009-12-25&g=2009-12-25), alsmede gegevens over:
 
 - a. de civielrechtelijke titel die het exclusieve gebruiksgenot verschaft van elk van de tot het bedrijf behorende productie-eenheden;
 
@@ -252,7 +252,7 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 - d. de aantallen op het bedrijf gehouden dan wel anderszins aanwezige varkens, kippen en kalkoenen en het gemiddeld in het kalenderjaar op het bedrijf gehouden aantal van deze dieren, onderscheiden naar diercategorieën per soort overeenkomstig [bijlage II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=II);
 
-- e. de aantallen voor gebruiks- of winstdoeleinden op het bedrijf gehouden dan wel anderszins aanwezige dieren, anders dan varkens, kippen en kalkoenen, onderscheiden naar diersoorten en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-07-01&g=2009-07-01) gestelde regels;
+- e. de aantallen voor gebruiks- of winstdoeleinden op het bedrijf gehouden dan wel anderszins aanwezige dieren, anders dan varkens, kippen en kalkoenen, onderscheiden naar diersoorten en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-12-25&g=2009-12-25) gestelde regels;
 
 - f. de hoeveelheden aan- en afgevoerde meststoffen, de datum waarop de aan- of afvoer plaatsvond en gegevens over het bedrijf of de onderneming van herkomst, onderscheidenlijk van bestemming, dan wel, ingeval geen sprake is van een bedrijf of onderneming, gegevens over de leverancier onderscheidenlijk afnemer van de meststoffen;
 
@@ -264,7 +264,7 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 ##### Artikel 33
 
-1. Indien op een bedrijf dierlijke meststoffen worden geproduceerd afkomstig van melkkoeien, bevat de administratie, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-07-01&g=2009-07-01), tevens gegevens over:
+1. Indien op een bedrijf dierlijke meststoffen worden geproduceerd afkomstig van melkkoeien, bevat de administratie, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-12-25&g=2009-12-25), tevens gegevens over:
 
 - a. de geproduceerde hoeveelheid koemelk; en
 
@@ -272,13 +272,13 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 2. Indien op een bedrijf dierlijke meststoffen worden geproduceerd afkomstig van staldieren, bevat de administratie tevens gegevens over:
 
-- a. de aantallen en de herkomst of de bestemming van de aan- en afgevoerde staldieren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-07-01&g=2009-07-01) gestelde regels;
+- a. de aantallen en de herkomst of de bestemming van de aan- en afgevoerde staldieren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-12-25&g=2009-12-25) gestelde regels;
 
 - b. de samenstelling en de hoeveelheid van de op het bedrijf geproduceerde diervoeders, alsmede de samenstelling, de hoeveelheid en de herkomst van de op het bedrijf aangevoerde diervoeders;
 
 - c. de op het bedrijf geproduceerde eieren die van het bedrijf zijn afgevoerd;
 
-- d. de aan het eind van het kalenderjaar op het bedrijf aanwezige voorraden diervoeders en geproduceerde eieren, alsmede de aanwezige staldieren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-07-01&g=2009-07-01) gestelde regels; en
+- d. de aan het eind van het kalenderjaar op het bedrijf aanwezige voorraden diervoeders en geproduceerde eieren, alsmede de aanwezige staldieren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-12-25&g=2009-12-25) gestelde regels; en
 
 - e. de op het bedrijf toegepaste stalsystemen.
 
@@ -316,21 +316,21 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 Bij ministeriële regeling kunnen regels worden gesteld over:
 
-- a. de overige bij de aanmelding, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=31&z=2009-07-01&g=2009-07-01), te verstrekken gegevens, de wijze waarop en de termijn waarbinnen de aanmelding en de doorgifte van wijzigingen geschieden;
+- a. de overige bij de aanmelding, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=31&z=2009-12-25&g=2009-12-25), te verstrekken gegevens, de wijze waarop en de termijn waarbinnen de aanmelding en de doorgifte van wijzigingen geschieden;
 
-- b. de wijze waarop de administratie, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-07-01&g=2009-07-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=33&z=2009-07-01&g=2009-07-01), wordt gevoerd en de termijn waarbinnen de gegevens of wijzigingen in de gegevens in deze administratie worden opgenomen;
+- b. de wijze waarop de administratie, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-12-25&g=2009-12-25) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=33&z=2009-12-25&g=2009-12-25), wordt gevoerd en de termijn waarbinnen de gegevens of wijzigingen in de gegevens in deze administratie worden opgenomen;
 
-- c. de overige gegevens die de administratie, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-07-01&g=2009-07-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=33&z=2009-07-01&g=2009-07-01), bevat;
+- c. de overige gegevens die de administratie, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-12-25&g=2009-12-25) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=33&z=2009-12-25&g=2009-12-25), bevat;
 
-- d. de gegevens die ingevolge [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2009-07-01&g=2009-07-01), worden verstrekt en de wijze waarop en de termijn waarbinnen deze gegevens worden verstrekt;
+- d. de gegevens die ingevolge [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2009-12-25&g=2009-12-25), worden verstrekt en de wijze waarop en de termijn waarbinnen deze gegevens worden verstrekt;
 
-- e. de gevallen waarin en de voorwaarden waaronder de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=31&z=2009-07-01&g=2009-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-07-01&g=2009-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=33&z=2009-07-01&g=2009-07-01) of [35](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2009-07-01&g=2009-07-01) geheel of gedeeltelijk niet van toepassing zijn ten aanzien van bedrijven of onderdelen van bedrijven; en
+- e. de gevallen waarin en de voorwaarden waaronder de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=31&z=2009-12-25&g=2009-12-25), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-12-25&g=2009-12-25), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=33&z=2009-12-25&g=2009-12-25) of [35](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2009-12-25&g=2009-12-25) geheel of gedeeltelijk niet van toepassing zijn ten aanzien van bedrijven of onderdelen van bedrijven; en
 
-- f. de omvang van het grensgebied, bedoeld in [artikel 32, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-07-01&g=2009-07-01).
+- f. de omvang van het grensgebied, bedoeld in [artikel 32, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-12-25&g=2009-12-25).
 
 ##### Artikel 37
 
-De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&z=2009-07-01&g=2009-07-01) bij te houden of te verstrekken gegevens worden desgevraagd ten genoegen van Onze Minister gestaafd met bewijsstukken.
+De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&z=2009-12-25&g=2009-12-25) bij te houden of te verstrekken gegevens worden desgevraagd ten genoegen van Onze Minister gestaafd met bewijsstukken.
 
 ### Hoofdstuk VII. Administratieve verplichtingen intermediairs
 
@@ -350,7 +350,7 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 - e. de aard van de activiteiten die in het kader van de onderneming worden uitgeoefend;
 
-- f. de krachtens [artikel 70, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-07-01&g=2009-07-01), voorgeschreven apparatuur die in het kader van zijn onderneming wordt gebruikt of is bestemd om te worden gebruikt;
+- f. de krachtens [artikel 70, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-12-25&g=2009-12-25), voorgeschreven apparatuur die in het kader van zijn onderneming wordt gebruikt of is bestemd om te worden gebruikt;
 
 - g. de apparatuur voor automatische gegevensregistratie die exclusief bij deze onderneming in gebruik is;
 
@@ -364,7 +364,7 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 1. De intermediair houdt per onderneming een inzichtelijke administratie bij.
 
-2. De administratie bevat in ieder geval de gegevens, bedoeld in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2009-07-01&g=2009-07-01), alsmede gegevens over:
+2. De administratie bevat in ieder geval de gegevens, bedoeld in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2009-12-25&g=2009-12-25), alsmede gegevens over:
 
 - a. de hoeveelheden in het kader van de onderneming aan- en afgevoerde meststoffen, de datum waarop de aan- en afvoer plaatsvond en het bedrijf of de onderneming van herkomst, onderscheidenlijk van bestemming dan wel, ingeval geen sprake is van een bedrijf of onderneming, gegevens over de leverancier onderscheidenlijk afnemer van de meststoffen;
 
@@ -382,7 +382,7 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 - d. de hoeveelheid en de samenstelling van de eindproducten van de bewerking of verwerking.
 
-4. [Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=34&z=2009-07-01&g=2009-07-01) is op de administratie, bedoeld in het eerste lid, van overeenkomstige toepassing.
+4. [Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=34&z=2009-12-25&g=2009-12-25) is op de administratie, bedoeld in het eerste lid, van overeenkomstige toepassing.
 
 ##### Artikel 40
 
@@ -394,21 +394,21 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 Bij ministeriële regeling kunnen regels worden gesteld over:
 
-- a. de overige bij de aanmelding, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2009-07-01&g=2009-07-01), te verstrekken gegevens, de wijze waarop en de termijn waarbinnen de aanmelding en de doorgifte van wijzigingen geschieden;
+- a. de overige bij de aanmelding, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2009-12-25&g=2009-12-25), te verstrekken gegevens, de wijze waarop en de termijn waarbinnen de aanmelding en de doorgifte van wijzigingen geschieden;
 
-- b. de wijze waarop de administratie, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2009-07-01&g=2009-07-01), wordt gevoerd en de termijn waarbinnen de gegevens of wijzigingen in de gegevens in deze administratie worden opgenomen;
+- b. de wijze waarop de administratie, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2009-12-25&g=2009-12-25), wordt gevoerd en de termijn waarbinnen de gegevens of wijzigingen in de gegevens in deze administratie worden opgenomen;
 
-- c. de overige gegevens die de administratie, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2009-07-01&g=2009-07-01), bevat;
+- c. de overige gegevens die de administratie, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2009-12-25&g=2009-12-25), bevat;
 
-- d. de gegevens die ingevolge [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=40&z=2009-07-01&g=2009-07-01), worden verstrekt en de wijze waarop en de termijn waarbinnen deze gegevens worden verstrekt;
+- d. de gegevens die ingevolge [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=40&z=2009-12-25&g=2009-12-25), worden verstrekt en de wijze waarop en de termijn waarbinnen deze gegevens worden verstrekt;
 
-- e. de gevallen waarin en de voorwaarden waaronder de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2009-07-01&g=2009-07-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2009-07-01&g=2009-07-01) of [40](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=40&z=2009-07-01&g=2009-07-01) geheel of gedeeltelijk niet van toepassing zijn; en
+- e. de gevallen waarin en de voorwaarden waaronder de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2009-12-25&g=2009-12-25), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2009-12-25&g=2009-12-25) of [40](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=40&z=2009-12-25&g=2009-12-25) geheel of gedeeltelijk niet van toepassing zijn; en
 
 - f. het aanbrengen van aanduidingen op de opslagruimten voor meststoffen ter identificatie van deze ruimten.
 
 ##### Artikel 42
 
-De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&z=2009-07-01&g=2009-07-01) bij te houden of te verstrekken gegevens worden desgevraagd ten genoegen van Onze Minister gestaafd met bewijsstukken.
+De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&z=2009-12-25&g=2009-12-25) bij te houden of te verstrekken gegevens worden desgevraagd ten genoegen van Onze Minister gestaafd met bewijsstukken.
 
 ### Hoofdstuk VIII. Administratieve verplichtingen overige leveranciers en afnemers bedrijven
 
@@ -436,9 +436,9 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 44
 
-1. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-07-01&g=2009-07-01), houdt per onderneming een inzichtelijke administratie bij.
+1. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-12-25&g=2009-12-25), houdt per onderneming een inzichtelijke administratie bij.
 
-2. De administratie, bedoeld in het eerste lid, bevat in ieder geval de gegevens, bedoeld in [artikel 43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-07-01&g=2009-07-01), alsmede gegevens over:
+2. De administratie, bedoeld in het eerste lid, bevat in ieder geval de gegevens, bedoeld in [artikel 43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-12-25&g=2009-12-25), alsmede gegevens over:
 
 - a. de hoeveelheden van de door de ondernemer afgeleverde diervoeders per bedrijf, onderscheidenlijk de hoeveelheden alsmede het ureumgehalte van de door de ondernemer afgenomen koemelk per bedrijf;
 
@@ -446,11 +446,11 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 - c. het bedrijf waaraan de diervoeders zijn afgeleverd, onderscheidenlijk het bedrijf waar de afgenomen koemelk is geproduceerd.
 
-3. De ondernemer, bedoeld in [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-07-01&g=2009-07-01), en de ondernemer in het kader van wiens onderneming staldieren aan bedrijven worden afgeleverd dan wel staldieren of eieren van bedrijven worden afgenomen, houdt per onderneming een inzichtelijke administratie bij.
+3. De ondernemer, bedoeld in [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-12-25&g=2009-12-25), en de ondernemer in het kader van wiens onderneming staldieren aan bedrijven worden afgeleverd dan wel staldieren of eieren van bedrijven worden afgenomen, houdt per onderneming een inzichtelijke administratie bij.
 
 4. De administratie, bedoeld in het derde lid, bevat in ieder geval gegevens over:
 
-- a. de hoeveelheden van de door de ondernemer afgeleverde of afgenomen meststoffen per onderneming of per bedrijf, met uitzondering van de aan particulieren afgeleverde hoeveelheden, de aantallen door de ondernemer afgeleverde of afgenomen staldieren per bedrijf, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-07-01&g=2009-07-01) gestelde regels, onderscheidenlijk de hoeveelheden van de door de ondernemer afgenomen eieren per bedrijf;
+- a. de hoeveelheden van de door de ondernemer afgeleverde of afgenomen meststoffen per onderneming of per bedrijf, met uitzondering van de aan particulieren afgeleverde hoeveelheden, de aantallen door de ondernemer afgeleverde of afgenomen staldieren per bedrijf, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-12-25&g=2009-12-25) gestelde regels, onderscheidenlijk de hoeveelheden van de door de ondernemer afgenomen eieren per bedrijf;
 
 - b. de datum waarop de aflevering of de afname plaatsvond; en
 
@@ -458,7 +458,7 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 5. Indien op een onderneming zuiveringsslib wordt geproduceerd of anderszins wordt bewerkt of verwerkt, bevat de administratie tevens gegevens over:
 
-- a. de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=4&artikel=16&z=2009-07-01&g=2009-07-01), bedoelde behandelingsmethode voor zuiveringsslib;
+- a. de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=4&artikel=16&z=2009-12-25&g=2009-12-25), bedoelde behandelingsmethode voor zuiveringsslib;
 
 - b. de hoeveelheid geproduceerd, bewerkt of verwerkt zuiveringsslib; en
 
@@ -466,49 +466,49 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 6. De gegevens inzake de hoeveelheden diervoeders, koemelk en eieren worden uitgedrukt in kilogrammen en, met uitzondering van koemelk, in kilogrammen stikstof en fosfaat.
 
-7. [Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=34&z=2009-07-01&g=2009-07-01) is op de administratie, bedoeld in het eerste en derde lid, van overeenkomstige toepassing.
+7. [Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=34&z=2009-12-25&g=2009-12-25) is op de administratie, bedoeld in het eerste en derde lid, van overeenkomstige toepassing.
 
 ##### Artikel 45
 
-1. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-07-01&g=2009-07-01) en de ondernemer in het kader van wiens onderneming zuiveringsslib wordt verhandeld, verstrekt jaarlijks gegevens uit de administratie aan Onze Minister.
+1. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-12-25&g=2009-12-25) en de ondernemer in het kader van wiens onderneming zuiveringsslib wordt verhandeld, verstrekt jaarlijks gegevens uit de administratie aan Onze Minister.
 
-2. De buiten Nederland gevestigde ondernemer, in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, verstrekt bij de aflevering aan de landbouwer een begeleidend document waarop het gewicht en de overeenkomstig de krachtens [artikel 70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-07-01&g=2009-07-01), vastgestelde samenstelling van de afgeleverde diervoeders is vermeld.
+2. De buiten Nederland gevestigde ondernemer, in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, verstrekt bij de aflevering aan de landbouwer een begeleidend document waarop het gewicht en de overeenkomstig de krachtens [artikel 70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-12-25&g=2009-12-25), vastgestelde samenstelling van de afgeleverde diervoeders is vermeld.
 
 3. Het document, bedoeld in het tweede lid, is tijdens het vervoer van de diervoeders op het transportmiddel aanwezig.
 
 4. Het tweede en het derde lid gelden niet indien de ondernemer de in het tweede lid bedoelde gegevens na afloop van het kalenderjaar waarin de afleveringen van diervoeders hebben plaatsgevonden aan Onze Minister verstrekt en voorafgaand aan de eerste aflevering aan Onze Minister verklaart zulks te zullen doen.
 
-5. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-07-01&g=2009-07-01), of [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2009-07-01&g=2009-07-01), verstrekt desgevraagd door Onze Minister gegevens uit de administratie, binnen een door Onze Minister bepaalde termijn en op een door Onze Minister bepaalde wijze.
+5. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-12-25&g=2009-12-25), of [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2009-12-25&g=2009-12-25), verstrekt desgevraagd door Onze Minister gegevens uit de administratie, binnen een door Onze Minister bepaalde termijn en op een door Onze Minister bepaalde wijze.
 
 ##### Artikel 46
 
 Bij ministeriële regeling kunnen regels worden gesteld over:
 
-- a. de overige bij de aanmelding, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-07-01&g=2009-07-01), te verstrekken gegevens, de wijze waarop en de termijn waarbinnen de aanmelding en de doorgifte van wijzigingen geschieden;
+- a. de overige bij de aanmelding, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-12-25&g=2009-12-25), te verstrekken gegevens, de wijze waarop en de termijn waarbinnen de aanmelding en de doorgifte van wijzigingen geschieden;
 
-- b. de wijze waarop de administratie, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2009-07-01&g=2009-07-01), wordt gevoerd, en de termijn waarbinnen de gegevens en wijzigingen in de gegevens in deze administratie worden opgenomen;
+- b. de wijze waarop de administratie, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2009-12-25&g=2009-12-25), wordt gevoerd, en de termijn waarbinnen de gegevens en wijzigingen in de gegevens in deze administratie worden opgenomen;
 
-- c. de overige gegevens die de administratie, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2009-07-01&g=2009-07-01), bevat;
+- c. de overige gegevens die de administratie, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2009-12-25&g=2009-12-25), bevat;
 
-- d. de gegevens die ingevolge [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2009-07-01&g=2009-07-01) worden verstrekt en de wijze waarop en de termijn waarbinnen deze gegevens worden verstrekt; en
+- d. de gegevens die ingevolge [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2009-12-25&g=2009-12-25) worden verstrekt en de wijze waarop en de termijn waarbinnen deze gegevens worden verstrekt; en
 
-- e. de gevallen waarin en de voorwaarden waaronder de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-07-01&g=2009-07-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2009-07-01&g=2009-07-01) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2009-07-01&g=2009-07-01) geheel of gedeeltelijk niet van toepassing zijn.
+- e. de gevallen waarin en de voorwaarden waaronder de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-12-25&g=2009-12-25), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2009-12-25&g=2009-12-25) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2009-12-25&g=2009-12-25) geheel of gedeeltelijk niet van toepassing zijn.
 
 ##### Artikel 47
 
 De op grond van dit hoofdstuk bij te houden of te verstrekken gegevens worden desgevraagd ten genoegen van Onze Minister gestaafd met bewijsstukken.
 
-### Hoofdstuk IX. Vervoer van meststoffen
+### Hoofdstuk V. Opslagcapaciteit dierlijke meststoffen
 
 #### Paragraaf 1. Vervoer van dierlijke meststoffen, zuiveringsslib en compost
 
 ##### Artikel 48
 
-Dierlijke meststoffen worden vervoerd door een intermediair die zijn onderneming in het kader waarvan het vervoer plaatsvindt overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2009-07-01&g=2009-07-01) ter registratie heeft aangemeld.
+Dierlijke meststoffen worden vervoerd door een intermediair die zijn onderneming in het kader waarvan het vervoer plaatsvindt overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2009-12-25&g=2009-12-25) ter registratie heeft aangemeld.
 
 ##### Artikel 49
 
-1. Het vervoer van een vracht drijfmest geschiedt met een transportmiddel dat is uitgerust met de krachtens [artikel 70, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-07-01&g=2009-07-01), voorgeschreven apparatuur die op naam van de intermediair is geregistreerd.
+1. Het vervoer van een vracht drijfmest geschiedt met een transportmiddel dat is uitgerust met de krachtens [artikel 70, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-12-25&g=2009-12-25), voorgeschreven apparatuur die op naam van de intermediair is geregistreerd.
 
 2. Het vervoer van een vracht dierlijke meststoffen geschiedt met een transportmiddel dat is uitgerust met op naam van de intermediair geregistreerde apparatuur voor automatische gegevensregistratie.
 
@@ -518,9 +518,9 @@ Dierlijke meststoffen worden vervoerd door een intermediair die zijn onderneming
 
 ##### Artikel 50
 
-1. Een vracht dierlijke meststoffen gaat tijdens het vervoer vergezeld van een op de vracht betrekking hebbend vervoersbewijs, dat overeenkomstig de regels gesteld bij of krachtens [paragraaf 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&z=2009-07-01&g=2009-07-01) is opgemaakt.
+1. Een vracht dierlijke meststoffen gaat tijdens het vervoer vergezeld van een op de vracht betrekking hebbend vervoersbewijs, dat overeenkomstig de regels gesteld bij of krachtens [paragraaf 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&z=2009-12-25&g=2009-12-25) is opgemaakt.
 
-2. Een vracht zuiveringsslib, compost, mengsels van zuiveringsslib en compost, of krachtens [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&artikel=55&z=2009-07-01&g=2009-07-01), aangewezen overige organische meststoffen gaat tijdens het vervoer vergezeld van een op de vracht betrekking hebbend afleveringsbewijs, dat overeenkomstig de regels, gesteld bij of krachtens [paragraaf 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&z=2009-07-01&g=2009-07-01), is opgemaakt.
+2. Een vracht zuiveringsslib, compost, mengsels van zuiveringsslib en compost, of krachtens [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&artikel=55&z=2009-12-25&g=2009-12-25), aangewezen overige organische meststoffen gaat tijdens het vervoer vergezeld van een op de vracht betrekking hebbend vervoersbewijs, dat overeenkomstig de regels, gesteld bij of krachtens [paragraaf 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&z=2009-12-25&g=2009-12-25), is opgemaakt.
 
 ##### Artikel 51
 
@@ -536,15 +536,15 @@ Dierlijke meststoffen worden vervoerd door een intermediair die zijn onderneming
 
 1. Bij ministeriële regeling kunnen regels worden gesteld over:
 
-- a. de gevallen waarin en voorwaarden waaronder de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=48&z=2009-07-01&g=2009-07-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2009-07-01&g=2009-07-01) geheel of gedeeltelijk niet van toepassing zijn;
+- a. de gevallen waarin en voorwaarden waaronder de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=48&z=2009-12-25&g=2009-12-25) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2009-12-25&g=2009-12-25) geheel of gedeeltelijk niet van toepassing zijn;
 
-- b. de wijze waarop de apparatuur, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2009-07-01&g=2009-07-01), is bevestigd;
+- b. de wijze waarop de apparatuur, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2009-12-25&g=2009-12-25), is bevestigd;
 
-- c. de eisen waaraan de apparatuur voor automatische gegevensregistratie, bedoeld in [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2009-07-01&g=2009-07-01), en de satellietvolgapparatuur, bedoeld in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2009-07-01&g=2009-07-01), moeten voldoen, waaronder de eis dat de apparatuur behoort tot een type dat is gekeurd door een door Onze Minister aangewezen instelling;
+- c. de eisen waaraan de apparatuur voor automatische gegevensregistratie, bedoeld in [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2009-12-25&g=2009-12-25), en de satellietvolgapparatuur, bedoeld in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2009-12-25&g=2009-12-25), moeten voldoen, waaronder de eis dat de apparatuur behoort tot een type dat is gekeurd door een door Onze Minister aangewezen instelling;
 
 - d. de gegevens die met de in onderdeel c bedoelde apparatuur moeten worden vastgelegd en de wijze waarop die gegevens moeten worden vastgelegd, bewaard en verstrekt; en
 
-- e. de wijze waarop en de termijn waarbinnen de mededeling, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=51&z=2009-07-01&g=2009-07-01), wordt gedaan, alsmede de gegevens die de mededeling ten minste bevat of de bescheiden waarvan de mededeling vergezeld gaat.
+- e. de wijze waarop en de termijn waarbinnen de mededeling, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=51&z=2009-12-25&g=2009-12-25), wordt gedaan, alsmede de gegevens die de mededeling ten minste bevat of de bescheiden waarvan de mededeling vergezeld gaat.
 
 2. De krachtens het eerste lid te stellen regels kunnen voor de in de regeling te onderscheiden mestsoorten en de beoogde bestemming van de meststoffen verschillend worden vastgesteld.
 
@@ -554,7 +554,7 @@ Dierlijke meststoffen worden vervoerd door een intermediair die zijn onderneming
 
 1. Terzake van het vervoer van een vracht dierlijke meststoffen wordt door de leverancier, de vervoerder en de afnemer gezamenlijk een vervoersbewijs opgemaakt.
 
-2. De vervoerder draagt er zorg voor dat het vervoersbewijs overeenkomstig de krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&artikel=54&z=2009-07-01&g=2009-07-01) gestelde regels volledig en naar waarheid wordt ingevuld en door de leverancier, de vervoerder en de afnemer wordt ondertekend.
+2. De vervoerder draagt er zorg voor dat het vervoersbewijs overeenkomstig de krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&artikel=54&z=2009-12-25&g=2009-12-25) gestelde regels volledig en naar waarheid wordt ingevuld en door de leverancier, de vervoerder en de afnemer wordt ondertekend.
 
 3. Het vervoersbewijs wordt bij ministeriële regeling vastgesteld en bevat in ieder geval gegevens over:
 
@@ -572,7 +572,7 @@ Dierlijke meststoffen worden vervoerd door een intermediair die zijn onderneming
 
 6. De op het vervoersbewijs ingevulde gegevens worden op elektronische wijze bij Onze Minister ingediend.
 
-7. De vervoerder bewaart het vervoersbewijs en de leverancier en de afnemer bewaren een afschrift van het vervoersbewijs als onderdeel van de administratie, bedoeld in [artikel, 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2009-07-01&g=2009-07-01)onderscheidenlijk [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-07-01&g=2009-07-01).
+7. De vervoerder bewaart het vervoersbewijs en de leverancier en de afnemer bewaren een afschrift van het vervoersbewijs als onderdeel van de administratie, bedoeld in [artikel, 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2009-12-25&g=2009-12-25)onderscheidenlijk [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-12-25&g=2009-12-25).
 
 ##### Artikel 54
 
@@ -586,7 +586,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 - d. de wijze en het tijdstip waarop de op het vervoersbewijs ingevulde gegevens alsmede de gegevens, bedoeld in onderdeel c, worden ingediend; en
 
-- e. de gevallen waarin en de voorwaarden waaronder [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&artikel=53&z=2009-07-01&g=2009-07-01) geheel of gedeeltelijk niet van toepassing is.
+- e. de gevallen waarin en de voorwaarden waaronder [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&artikel=53&z=2009-12-25&g=2009-12-25) geheel of gedeeltelijk niet van toepassing is.
 
 #### Paragraaf 3. Afleveringsbewijs zuiveringsslib en compost
 
@@ -594,7 +594,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 1. Ter zake van het vervoer van zuiveringsslib, compost en bij ministeriële regeling aangewezen overige organische meststoffen, wordt door de leverancier, de vervoerder en de afnemer gezamenlijk een vervoersbewijs opgemaakt.
 
-2. De vervoerder draagt er zorg voor dat het vervoersbewijs overeenkomstig de krachtens [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&artikel=56&z=2009-07-01&g=2009-07-01) gestelde regels volledig en naar waarheid wordt ingevuld en door de leverancier, de vervoerder en de afnemer wordt ondertekend.
+2. De vervoerder draagt er zorg voor dat het vervoersbewijs overeenkomstig de krachtens [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&artikel=56&z=2009-12-25&g=2009-12-25) gestelde regels volledig en naar waarheid wordt ingevuld en door de leverancier, de vervoerder en de afnemer wordt ondertekend.
 
 3. Het vervoersbewijs wordt bij ministeriële regeling vastgesteld en bevat in ieder geval gegevens over:
 
@@ -606,11 +606,11 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 - d. de soort meststoffen.
 
-4. [Artikel 53, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&artikel=53&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing.
+4. [Artikel 53, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&artikel=53&z=2009-12-25&g=2009-12-25), is van overeenkomstige toepassing.
 
 5. De op het vervoersbewijs ingevulde gegevens worden op elektronische wijze bij Onze Minister ingediend.
 
-6. De vervoerder bewaart het vervoersbewijs en de leverancier en de afnemer bewaren een afschrift van het vervoersbewijs als onderdeel van de administratie, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-07-01&g=2009-07-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2009-07-01&g=2009-07-01) of [44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2009-07-01&g=2009-07-01).
+6. De vervoerder bewaart het vervoersbewijs en de leverancier en de afnemer bewaren een afschrift van het vervoersbewijs als onderdeel van de administratie, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2009-12-25&g=2009-12-25), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2009-12-25&g=2009-12-25) of [44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2009-12-25&g=2009-12-25).
 
 ##### Artikel 56
 
@@ -624,7 +624,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 - d. de wijze en het tijdstip waarop de op het vervoersbewijs ingevulde gegevens alsmede de gegevens, bedoeld in onderdeel c, worden ingediend; en
 
-- e. de gevallen waarin en de voorwaarden waaronder [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&artikel=55&z=2009-07-01&g=2009-07-01) geheel of gedeeltelijk niet van toepassing is.
+- e. de gevallen waarin en de voorwaarden waaronder [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&artikel=55&z=2009-12-25&g=2009-12-25) geheel of gedeeltelijk niet van toepassing is.
 
 #### Paragraaf 4. Grensoverschrijdende overbrenging
 
@@ -668,7 +668,7 @@ De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren ter
 
 ##### Artikel 66
 
-1. De door graasdieren, niet zijnde melkkoeien, in een kalenderjaar op een bedrijf geproduceerde hoeveelheid dierlijke meststoffen wordt bepaald op basis van het gemiddelde aantal in het desbetreffende kalenderjaar op het bedrijf gehouden of anderszins aanwezige dieren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-07-01&g=2009-07-01) of [70, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-07-01&g=2009-07-01), gestelde regels en op basis van forfaitaire productienormen, uitgedrukt in kilogrammen stikstof en in kilogrammen fosfaat, per dier per jaar.
+1. De door graasdieren, niet zijnde melkkoeien, in een kalenderjaar op een bedrijf geproduceerde hoeveelheid dierlijke meststoffen wordt bepaald op basis van het gemiddelde aantal in het desbetreffende kalenderjaar op het bedrijf gehouden of anderszins aanwezige dieren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-12-25&g=2009-12-25) of [70, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-12-25&g=2009-12-25), gestelde regels en op basis van forfaitaire productienormen, uitgedrukt in kilogrammen stikstof en in kilogrammen fosfaat, per dier per jaar.
 
 2. De door melkkoeien in een kalenderjaar op een bedrijf geproduceerde hoeveelheid dierlijke meststoffen wordt bepaald op basis van het gemiddelde aantal in het desbetreffende kalenderjaar op het bedrijf gehouden of anderszins aanwezige melkkoeien en op basis van forfaitaire productienormen, uitgedrukt in kilogrammen stikstof en in kilogrammen fosfaat, per dier per jaar, onderscheiden naar de gemiddelde melkproductie per op het bedrijf aanwezige melkkoe en, voor zover het stikstof betreft, het gemiddelde ureumgehalte van de geproduceerde koemelk.
 
@@ -696,15 +696,15 @@ De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren ter
 
 ##### Artikel 67
 
-1. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-07-01&g=2009-07-01), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in de op een bedrijf aan- of afgevoerde, dan wel de op het bedrijf aanwezige voorraden diervoeders worden bepaald op basis van het gewicht of het volume en het stikstofgehalte, onderscheidenlijk fosfaatgehalte van de desbetreffende diervoeders.
+1. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-12-25&g=2009-12-25), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in de op een bedrijf aan- of afgevoerde, dan wel de op het bedrijf aanwezige voorraden diervoeders worden bepaald op basis van het gewicht of het volume en het stikstofgehalte, onderscheidenlijk fosfaatgehalte van de desbetreffende diervoeders.
 
-2. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-07-01&g=2009-07-01), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in de op een bedrijf geproduceerde diervoeders worden bepaald op basis van een forfaitaire opbrengst per hectare in kilogrammen en forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per kilogram diervoeder.
+2. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-12-25&g=2009-12-25), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in de op een bedrijf geproduceerde diervoeders worden bepaald op basis van een forfaitaire opbrengst per hectare in kilogrammen en forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per kilogram diervoeder.
 
-3. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-07-01&g=2009-07-01), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in de staldieren worden bepaald op basis van forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per dier, dan wel op basis van het gewicht van de dieren en op basis van forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per kilogram levend gewicht.
+3. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-12-25&g=2009-12-25), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in de staldieren worden bepaald op basis van forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per dier, dan wel op basis van het gewicht van de dieren en op basis van forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per kilogram levend gewicht.
 
-4. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-07-01&g=2009-07-01), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in door staldieren geproduceerde eieren worden bepaald op basis van het gewicht van de eieren en op basis van forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per kilogram product.
+4. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-12-25&g=2009-12-25), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in door staldieren geproduceerde eieren worden bepaald op basis van het gewicht van de eieren en op basis van forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per kilogram product.
 
-5. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-07-01&g=2009-07-01), bedoelde hoeveelheid stikstof die in gasvorm verloren gaat wordt bepaald op basis van het gemiddelde aantal in het desbetreffende kalenderjaar op het bedrijf gehouden of anderszins aanwezige dieren en forfaitaire stikstofgehalten per dier.
+5. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-12-25&g=2009-12-25), bedoelde hoeveelheid stikstof die in gasvorm verloren gaat wordt bepaald op basis van het gemiddelde aantal in het desbetreffende kalenderjaar op het bedrijf gehouden of anderszins aanwezige dieren en forfaitaire stikstofgehalten per dier.
 
 ##### Artikel 68
 
@@ -720,29 +720,29 @@ De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren ter
 
 ##### Artikel 69
 
-1. Het gemiddelde aantal in een kalenderjaar op een bedrijf gehouden varkens, kippen en kalkoenen, onderscheiden naar diercategorieën per soort overeenkomstig [bijlage II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=II), alsmede runderen, onderscheiden naar diercategorie, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-07-01&g=2009-07-01) of [70, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-07-01&g=2009-07-01), gestelde regels, wordt bepaald door de som van de dagelijkse aanwezige aantallen van deze dieren, te delen door het aantal dagen van het desbetreffende kalenderjaar.
+1. Het gemiddelde aantal in een kalenderjaar op een bedrijf gehouden varkens, kippen en kalkoenen, onderscheiden naar diercategorieën per soort overeenkomstig [bijlage II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=II), alsmede runderen, onderscheiden naar diercategorie, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-12-25&g=2009-12-25) of [70, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-12-25&g=2009-12-25), gestelde regels, wordt bepaald door de som van de dagelijkse aanwezige aantallen van deze dieren, te delen door het aantal dagen van het desbetreffende kalenderjaar.
 
-2. Het gemiddelde aantal in een kalenderjaar voor gebruiks- en winstdoeleinden op het bedrijf gehouden dan wel anderszins aanwezige dieren, anders dan runderen, varkens, kippen en kalkoenen, onderscheiden naar diersoorten en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-07-01&g=2009-07-01) of [70](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-07-01&g=2009-07-01) gestelde regels, wordt bepaald door de som van de op de eerste dag van iedere maand aanwezige aantallen van deze dieren, te delen door twaalf.
+2. Het gemiddelde aantal in een kalenderjaar voor gebruiks- en winstdoeleinden op het bedrijf gehouden dan wel anderszins aanwezige dieren, anders dan runderen, varkens, kippen en kalkoenen, onderscheiden naar diersoorten en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-12-25&g=2009-12-25) of [70](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-12-25&g=2009-12-25) gestelde regels, wordt bepaald door de som van de op de eerste dag van iedere maand aanwezige aantallen van deze dieren, te delen door twaalf.
 
 ##### Artikel 70
 
 1. Bij ministeriële regeling worden vastgesteld:
 
-- a. de forfaitaire productienormen, bedoeld in [artikel 66, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-07-01&g=2009-07-01);
+- a. de forfaitaire productienormen, bedoeld in [artikel 66, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-12-25&g=2009-12-25);
 
-- b. de forfaitaire gewasopbrengsten per hectare, bedoeld in [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2009-07-01&g=2009-07-01); en
+- b. de forfaitaire gewasopbrengsten per hectare, bedoeld in [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2009-12-25&g=2009-12-25); en
 
-- c. de forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, bedoeld in [artikel 67, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2009-07-01&g=2009-07-01).
+- c. de forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, bedoeld in [artikel 67, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2009-12-25&g=2009-12-25).
 
 2. Bij ministeriële regeling kunnen regels worden gesteld omtrent de gevallen waarin, de voorwaarden waaronder en de wijze waarop:
 
-- a. de hoeveelheid stikstof en de hoeveelheid fosfaat van de bij die regeling te onderscheiden diervoeders in zoverre in afwijking van [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2009-07-01&g=2009-07-01), wordt bepaald op basis van de bij die regeling vast te stellen forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten; en
+- a. de hoeveelheid stikstof en de hoeveelheid fosfaat van de bij die regeling te onderscheiden diervoeders in zoverre in afwijking van [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2009-12-25&g=2009-12-25), wordt bepaald op basis van de bij die regeling vast te stellen forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten; en
 
-- b. de hoeveelheid aangevoerde of afgevoerde dierlijke meststoffen in zoverre in afwijking van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=68&z=2009-07-01&g=2009-07-01), wordt bepaald op basis van de bij die regeling vast te stellen forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten.
+- b. de hoeveelheid aangevoerde of afgevoerde dierlijke meststoffen in zoverre in afwijking van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=68&z=2009-12-25&g=2009-12-25), wordt bepaald op basis van de bij die regeling vast te stellen forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten.
 
 3. De in het eerste en tweede lid bedoelde forfaits kunnen onderscheiden naar mestvorm, diersoort en diercategorie en bedrijfssysteem verschillend worden vastgesteld.
 
-4. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot devaststellingen ten behoeve van de bepaling van de hoeveelheden, bedoeld in de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-07-01&g=2009-07-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2009-07-01&g=2009-07-01), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=68&z=2009-07-01&g=2009-07-01) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=69&z=2009-07-01&g=2009-07-01). Deze regels kunnen betrekking hebben op:
+4. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot devaststellingen ten behoeve van de bepaling van de hoeveelheden, bedoeld in de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2009-12-25&g=2009-12-25), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2009-12-25&g=2009-12-25), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=68&z=2009-12-25&g=2009-12-25) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=69&z=2009-12-25&g=2009-12-25). Deze regels kunnen betrekking hebben op:
 
 - a. de methode van gewichtsbepaling, volumebepaling, bemonstering, analyse en bepaling van het ureumgehalte van koemelk;
 
@@ -764,9 +764,9 @@ De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren ter
 
 ##### Artikel 72
 
-1. Ter uitvoering van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2009-07-01&g=2009-07-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-07-01&g=2009-07-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-07-01&g=2009-07-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2009-07-01&g=2009-07-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=46&z=2009-07-01&g=2009-07-01) en de krachtens [artikel 70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-07-01&g=2009-07-01), gestelde regels, kan bij ministeriële regeling medewerking gevorderd van het bestuur van een bedrijfslichaam.
+1. Ter uitvoering van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2009-12-25&g=2009-12-25), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-12-25&g=2009-12-25), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-12-25&g=2009-12-25), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2009-12-25&g=2009-12-25) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=46&z=2009-12-25&g=2009-12-25) en de krachtens [artikel 70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-12-25&g=2009-12-25), gestelde regels, kan bij ministeriële regeling medewerking gevorderd van het bestuur van een bedrijfslichaam.
 
-2. De in het eerste lid bedoelde medewerking kan bestaan uit het verrichten van de noodzakelijke werkzaamheden en het overeenkomstig de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-07-01&g=2009-07-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=46&z=2009-07-01&g=2009-07-01) en [70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-07-01&g=2009-07-01), gestelde regels, bij verordening stellen van nadere regels, inzake het inwinnen en registreren van de in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2009-07-01&g=2009-07-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-07-01&g=2009-07-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-07-01&g=2009-07-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2009-07-01&g=2009-07-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=46&z=2009-07-01&g=2009-07-01) bedoelde gegevens alsmede inzake de bepaling van het ureumgehalte van koemelk en de bevoegdheid tot het doen van de voor de bepaling van dat gehalte noodzakelijke vaststellingen.
+2. De in het eerste lid bedoelde medewerking kan bestaan uit het verrichten van de noodzakelijke werkzaamheden en het overeenkomstig de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-12-25&g=2009-12-25), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=46&z=2009-12-25&g=2009-12-25) en [70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2009-12-25&g=2009-12-25), gestelde regels, bij verordening stellen van nadere regels, inzake het inwinnen en registreren van de in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2009-12-25&g=2009-12-25), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2009-12-25&g=2009-12-25), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2009-12-25&g=2009-12-25), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2009-12-25&g=2009-12-25) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=46&z=2009-12-25&g=2009-12-25) bedoelde gegevens alsmede inzake de bepaling van het ureumgehalte van koemelk en de bevoegdheid tot het doen van de voor de bepaling van dat gehalte noodzakelijke vaststellingen.
 
 3. De krachtens verordening vastgestelde voorschriften en vastgestelde besluiten behoeven de goedkeuring van Onze Minister.
 
@@ -774,25 +774,7 @@ De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren ter
 
 ##### Artikel 73
 
-De volgende besluiten worden ingetrokken:
-
-- a. het [Besluit administratieve verplichtingen Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009000);
-
-- b. het [Besluit hardheidsgevallen herstructurering varkenshouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0009705);
-
-- c. het [Besluit opslagcapaciteit dierlijke meststoffen Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018444);
-
-- d. het [Besluit verkleining oppervlakte landbouwgrond Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010581);
-
-- e. het [Besluit voorraden Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0008980);
-
-- f. het [Besluit zand- en lössgronden](https://wetten.overheid.nl/jci1.3:c:BWBR0013047);
-
-- g. het [Registratiebesluit dierlijke meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0004061);
-
-- h. het [Uitvoeringsbesluit pluimveerechten Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012021); en
-
-- i. het [Uitvoeringsbesluit Wet herstructurering varkenshouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0009763).
+De hoogten van de bestuurlijke boetes ter zake van overtredingen, bedoeld in [artikel 62, tweede lid, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=62), worden vastgesteld overeenkomstig het bedrag dat voor de desbetreffende overtreding is vermeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=III&z=2009-12-25&g=2009-12-25) bij dit besluit.
 
 ##### Artikel 74
 
@@ -808,9 +790,9 @@ Wijzigt het Destructiebesluit.
 
 ##### Artikel 77
 
-1. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01), is het verhandelen van meststoffen ten aanzien waarvan niet is voldaan aan de bij of krachtens [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&z=2009-07-01&g=2009-07-01) van dit besluit gestelde regels, tot een bij ministeriële regeling te bepalen tijdstip toegestaan, voor zover ten aanzien van die meststoffen is voldaan aan de bij of krachtens het [Meststoffenbesluit 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003115) gestelde regels, zoals deze luidden op het tijdstip waarop artikel 4 in werking is getreden, dan wel voor zover ten aanzien van die meststoffen krachtens [artikel 7 van het Meststoffenbesluit 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003115&artikel=7), zoals dat luidde op het tijdstip waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01) in werking is getreden, ontheffing is verleend, mits deze meststoffen verhandeld worden overeenkomstig de aan de ontheffing verbonden voorschriften en beperkingen.
+1. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2009-12-25&g=2009-12-25), is het verhandelen van meststoffen ten aanzien waarvan niet is voldaan aan de bij of krachtens [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&z=2009-12-25&g=2009-12-25) van dit besluit gestelde regels, tot een bij ministeriële regeling te bepalen tijdstip toegestaan, voor zover ten aanzien van die meststoffen is voldaan aan de bij of krachtens het [Meststoffenbesluit 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003115) gestelde regels, zoals deze luidden op het tijdstip waarop artikel 4 in werking is getreden, dan wel voor zover ten aanzien van die meststoffen krachtens [artikel 7 van het Meststoffenbesluit 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003115&artikel=7), zoals dat luidde op het tijdstip waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2009-12-25&g=2009-12-25) in werking is getreden, ontheffing is verleend, mits deze meststoffen verhandeld worden overeenkomstig de aan de ontheffing verbonden voorschriften en beperkingen.
 
-2. Het krachtens het eerste lid te bepalen tijdstip kan voor de in dat lid te onderscheiden meststoffen verschillend worden vastgesteld en is gelegen in de periode van drie jaar volgend op het tijdstip waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01) in werking is getreden.
+2. Het krachtens het eerste lid te bepalen tijdstip kan voor de in dat lid te onderscheiden meststoffen verschillend worden vastgesteld en is gelegen in de periode van drie jaar volgend op het tijdstip waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2009-12-25&g=2009-12-25) in werking is getreden.
 
 ##### Artikel 78
 
@@ -856,17 +838,17 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Het is verboden meststoffen te verhandelen.
 
-2. Het verbod geldt niet indien ten aanzien van deze meststoffen is voldaan aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=6&z=2009-07-01&g=2009-07-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=5&artikel=19&z=2009-07-01&g=2009-07-01), aan de krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=7&z=2009-07-01&g=2009-07-01), [19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=5&artikel=19&z=2009-07-01&g=2009-07-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=6&artikel=21&z=2009-07-01&g=2009-07-01) gestelde regels en aan:
+2. Het verbod geldt niet indien ten aanzien van deze meststoffen is voldaan aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2009-12-25&g=2009-12-25), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=6&z=2009-12-25&g=2009-12-25) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=5&artikel=19&z=2009-12-25&g=2009-12-25), aan de krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=7&z=2009-12-25&g=2009-12-25), [19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=5&artikel=19&z=2009-12-25&g=2009-12-25), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=6&artikel=21&z=2009-12-25&g=2009-12-25) gestelde regels en aan:
 
-- a. de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=8&z=2009-07-01&g=2009-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=9&z=2009-07-01&g=2009-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2009-07-01&g=2009-07-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2009-07-01&g=2009-07-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=5&artikel=18&z=2009-07-01&g=2009-07-01), indien het overige anorganische meststoffen betreft;
+- a. de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=8&z=2009-12-25&g=2009-12-25), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=9&z=2009-12-25&g=2009-12-25), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2009-12-25&g=2009-12-25), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2009-12-25&g=2009-12-25), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=5&artikel=18&z=2009-12-25&g=2009-12-25), indien het overige anorganische meststoffen betreft;
 
-- b. de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=10&z=2009-07-01&g=2009-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2009-07-01&g=2009-07-01) en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2009-07-01&g=2009-07-01), indien het kalkmeststoffen betreft;
+- b. de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=10&z=2009-12-25&g=2009-12-25), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2009-12-25&g=2009-12-25) en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2009-12-25&g=2009-12-25), indien het kalkmeststoffen betreft;
 
-- c. [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=4&artikel=16&z=2009-07-01&g=2009-07-01), indien het zuiveringsslib betreft;
+- c. [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=4&artikel=16&z=2009-12-25&g=2009-12-25), indien het zuiveringsslib betreft;
 
-- d. [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=4&artikel=17&z=2009-07-01&g=2009-07-01), indien het compost betreft; en
+- d. [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=4&artikel=17&z=2009-12-25&g=2009-12-25), indien het compost betreft; en
 
-- e. de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=11&z=2009-07-01&g=2009-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=12&z=2009-07-01&g=2009-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=13&z=2009-07-01&g=2009-07-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2009-07-01&g=2009-07-01), en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2009-07-01&g=2009-07-01), indien het overige organische meststoffen betreft.
+- e. de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=11&z=2009-12-25&g=2009-12-25), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=12&z=2009-12-25&g=2009-12-25), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=13&z=2009-12-25&g=2009-12-25), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2009-12-25&g=2009-12-25), en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2009-12-25&g=2009-12-25), indien het overige organische meststoffen betreft.
 
 3. Het in het eerste lid gestelde verbod is niet van toepassing op de verhandeling van:
 
@@ -874,7 +856,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. meststoffen als bedoeld in [artikel 1, onderdeel d, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1);
 
-- c. uitwerpselen van dieren, daaronder begrepen de geheel of gedeeltelijk verteerde maag- of darminhoud van deze dieren en mengsels van strooisel met de uitwerpselen, alsook producten daarvan voor zover aan de uitwerpselen of de producten daarvan geen andere meststoffen zijn toegevoegd dan meststoffen die aan de in het tweede lid bedoelde regels voldoen of voor zover de producten daarvan eindproducten zijn die krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01), zijn aangewezen.
+- c. uitwerpselen van dieren, daaronder begrepen de geheel of gedeeltelijk verteerde maag- of darminhoud van deze dieren en mengsels van strooisel met de uitwerpselen, alsook producten daarvan voor zover aan de uitwerpselen of de producten daarvan geen andere meststoffen zijn toegevoegd dan meststoffen die aan de in het tweede lid bedoelde regels voldoen of voor zover de producten daarvan eindproducten zijn die krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2009-12-25&g=2009-12-25), zijn aangewezen.
 
 4. Het is verboden meststoffen, niet zijnde EG-meststoffen, met de aanduiding «EG-meststof» te verhandelen.
 
@@ -952,13 +934,13 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 ##### Artikel 14
 
-1. Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om primaire nutriënten te leveren, overige organische meststoffen, kalkmeststoffen, alsmede de krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01), aangewezen stoffen die als meststof of bij de productie van meststoffen worden gebruikt, overschrijden niet de in [bijlage II, onder tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2009-07-01&g=2009-07-01), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
+1. Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om primaire nutriënten te leveren, overige organische meststoffen, kalkmeststoffen, alsmede de krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2009-12-25&g=2009-12-25), aangewezen stoffen die als meststof of bij de productie van meststoffen worden gebruikt, overschrijden niet de in [bijlage II, onder tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2009-12-25&g=2009-12-25), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
 
 2. Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om secundaire nutriënten of micronutriënten te leveren overschrijden niet de bij ministeriële regeling vastgestelde maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
 
 ##### Artikel 15
 
-1. Overige organische meststoffen alsmede de krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01), aangewezen stoffen die als meststof of bij de productie van meststoffen worden gebruikt, overschrijden niet de in [bijlage II, onder tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2009-07-01&g=2009-07-01), bij dit besluit opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
+1. Overige organische meststoffen alsmede de krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2009-12-25&g=2009-12-25), aangewezen stoffen die als meststof of bij de productie van meststoffen worden gebruikt, overschrijden niet de in [bijlage II, onder tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2009-12-25&g=2009-12-25), bij dit besluit opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
 
 2. Het eerste lid is van overeenkomstige toepassing op kalkmeststoffen en overige anorganische meststoffen die organisch materiaal van dierlijke of plantaardige oorsprong bevatten, met dien verstande dat voor zover het betreft overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om secundaire nutriënten of micronutriënten te leveren, de maximale waarden voor organische microverontreinigingen uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel, worden vastgesteld bij ministeriële regeling.
 
@@ -970,7 +952,7 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 2. Zuiveringsslib bevat ten minste vijftig gewichtsprocenten organische stof van de droge stof of heeft een neutraliserende waarde van 25 op basis van de droge stof.
 
-3. Zuiveringsslib overschrijdt niet de in [bijlage II, onder tabel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2009-07-01&g=2009-07-01), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram droge stof.
+3. Zuiveringsslib overschrijdt niet de in [bijlage II, onder tabel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2009-12-25&g=2009-12-25), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram droge stof.
 
 ##### Artikel 17
 
@@ -980,7 +962,7 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 3. Het is uitsluitend toegestaan om bij de bereiding van compost bodembestanddelen te gebruiken, indien dit betreft grond als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=1), waarvan de kwaliteit de krachtens [artikel 40 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=40), vastgestelde achtergrondwaarden niet overschrijdt.
 
-4. Compost overschrijdt niet de in [bijlage II, onder tabel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2009-07-01&g=2009-07-01), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram droge stof.
+4. Compost overschrijdt niet de in [bijlage II, onder tabel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2009-12-25&g=2009-12-25), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram droge stof.
 
 #### Paragraaf 5. Verpakking en etikettering
 
@@ -1022,11 +1004,11 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 ##### Artikel 20
 
-[Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01), is niet van toepassing op meststoffen:
+[Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2009-12-25&g=2009-12-25), is niet van toepassing op meststoffen:
 
 - a. die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt;
 
-- b. die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de bij of krachtens de [artikelen 5 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2009-07-01&g=2009-07-01) gestelde regels wordt nagestreefd; en
+- b. die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de bij of krachtens de [artikelen 5 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2009-12-25&g=2009-12-25) gestelde regels wordt nagestreefd; en
 
 - c. die vergezeld gaan van een analyserapport dat voldoende informatie verschaft over de samenstelling van het product en is afgegeven door een in die lidstaat of staat erkend laboratorium dat gelijkwaardig is aan een in Nederland voor dit doel erkend laboratorium.
 
@@ -1048,7 +1030,7 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 - g. de wijze waarop de gegevens worden aangebracht; en
 
-- h. de gevallen waarin en de voorwaarden waaronder de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=11&z=2009-07-01&g=2009-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2009-07-01&g=2009-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2009-07-01&g=2009-07-01) geheel of gedeeltelijk niet van toepassing zijn.
+- h. de gevallen waarin en de voorwaarden waaronder de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=11&z=2009-12-25&g=2009-12-25), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2009-12-25&g=2009-12-25) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2009-12-25&g=2009-12-25) geheel of gedeeltelijk niet van toepassing zijn.
 
 2. De in het eerste lid, onderdeel d, bedoelde regels kunnen mede betrekking hebben op de bevoegdheid tot het doen van vaststellingen ten behoeve van de in dat onderdeel bedoelde bepaling en op de voor die vaststellingen te gebruiken apparatuur.
 
@@ -1212,5 +1194,436 @@ Voor de toepassing van deze tabel zijn de maximale waarden van toepassing die be
 | Minerale olie | 935000 | 748000 | 498668 | 187000 | 24933 |
 
 Voor de toepassing van deze tabel zijn de maximale waarden van toepassing die behoren bij dat waardegevende bestanddeel waarvan bij het toedienen van een toenemende hoeveelheid van de meststof, de hoeveelheden van 80 kilogram fosfaat, 100 kg stikstof, 150 kilogram kali, 400 kilogram neutraliserende waarde of 3000 kilogram organische stof het éérst wordt bereikt.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 21a
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk VI. Administratieve verplichtingen landbouwbedrijven
+
+### Hoofdstuk VII. Administratieve verplichtingen intermediairs
+
+### Hoofdstuk VIII. Administratieve verplichtingen overige leveranciers en afnemers bedrijven
+
+### Hoofdstuk IX. Vervoer van meststoffen
+
+#### Paragraaf 1. Vervoer van dierlijke meststoffen, zuiveringsslib en compost
+
+#### Paragraaf 2. Vervoersbewijs dierlijke meststoffen
+
+#### Paragraaf 3. Vervoersbewijs zuiveringsslib, compost en overige organische meststoffen
+
+#### Paragraaf 4. Grensoverschrijdende overbrenging
+
+### Hoofdstuk X. Regels inzake de hoeveelheidbepaling
+
+##### Artikel 69a
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk XI. Overige bepalingen
+
+## Bijlage I. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=II&artikel=3&z=2009-12-25&g=2009-12-25) van het Uitvoeringsbesluit
+
+Kaart 10 Oost niet opgenomen.
+
+Kaart 11 West niet opgenomen.
+
+Kaart 12 Oost niet opgenomen.
+
+Kaart 13 West niet opgenomen.
+
+## Bijlage II. behorende bij het Uitvoeringsbesluit Meststoffenwet
+
+| zware metalen | Maximale waarden in mg per kg van het desbetreffende waardegevende bestanddeel | Maximale waarden in mg per kg van het desbetreffende waardegevende bestanddeel | Maximale waarden in mg per kg van het desbetreffende waardegevende bestanddeel | Maximale waarden in mg per kg van het desbetreffende waardegevende bestanddeel | Maximale waarden in mg per kg van het desbetreffende waardegevende bestanddeel |
+| --- | --- | --- | --- | --- | --- |
+|   | fosfaat | stikstof | kali | neutraliserende waarde | organische stof |
+| Cd (Cadmium) Cr (Chroom) Cu (Koper) Hg (Kwik) Ni (Nikkel) Pb (Lood) Zn (Zink) As (Arseen) | 31,3 1875 1875 18,8 750 2500 7500 375 | 25 1500 1500 15 600 2000 6000 300 | 16,7 1000 1000 10 400 1333 4000 200 | 6,3 375 375 3,8 150 500 1500 75 | 0,8 50 50 0,5 20 67 200 10 |
+
+Voor de toepassing van deze tabel zijn de maximale waarden van toepassing die behoren bij dat waardegevende bestanddeel waarvan bij het toedienen van een toenemende hoeveelheid van de meststof, de hoeveelheden van 80 kilogram fosfaat, 100 kg stikstof, 150 kilogram kali, 400 kilogram neutraliserende waarde of 3000 kilogram organische stof het éérst wordt bereikt.
+
+| zware metalen | in mg per kg ds |
+| --- | --- |
+| Cd (Cadmium) | 1,25 mg/kg ds |
+| Cr (Chroom) | 75 mg/kg ds |
+| Cu (Koper) | 75 mg/kg ds |
+| Hg (Kwik) | 0,75 mg/kg ds |
+| Ni (Nikkel) | 30 mg/kg ds |
+| Pb (Lood) | 100 mg/kg ds |
+| Zn (Zink) | 300 mg/kg ds |
+| As (Arseen) | 15 mg/kg ds |
+
+| zware metalen | in mg per kg ds |
+| --- | --- |
+| Cd (Cadmium) | 1 mg/kg ds |
+| Cr (Chroom) | 50 mg/kg ds |
+| Cu (Koper) | 90 mg/kg ds |
+| Hg (Kwik) | 0,3 mg/kg ds |
+| Ni (Nikkel) | 20 mg/kg ds |
+| Pb (Lood) | 100 mg/kg ds |
+| Zn (Zink) | 290 mg/kg ds |
+| As (Arseen) | 15 mg/kg ds |
+
+| organische micro- verontreinigingen | maximale waarden in mg per kg van het desbetreffende waardegevende bestanddeel | maximale waarden in mg per kg van het desbetreffende waardegevende bestanddeel | maximale waarden in mg per kg van het desbetreffende waardegevende bestanddeel | maximale waarden in mg per kg van het desbetreffende waardegevende bestanddeel | maximale waarden in mg per kg van het desbetreffende waardegevende bestanddeel |
+| --- | --- | --- | --- | --- | --- |
+|   | fosfaat | stikstof | kali | neutraliserende waarde | organische stof |
+| Σ PCDD/PCDF | 0,019 | 0,015 | 0,010 | 0,0038 | 0,00051 |
+| α-HCH | 310 | 248 | 165 | 62 | 8,3 |
+| β-HCH | 12 | 9,6 | 6,4 | 2,4 | 0,32 |
+| γ-HCH (lindaan) | 1,2 | 0,96 | 0,64 | 0,24 | 0,032 |
+| HCB | 31 | 31,2 | 20,8 | 7,8 | 1,0 |
+| Aldrin | 7 | 5,6 | 3,7 | 1,4 | 0,2 |
+| Dieldrin | 7 | 5,6 | 3,7 | 1,4 | 0,2 |
+| Σ aldrin/dieldrin | 7 | 5,6 | 3,7 | 1,4 | 0,2 |
+| Endrin | 7 | 5,6 | 3,7 | 1,4 | 0,2 |
+| Isodrin | 7 | 5,6 | 3,7 | 1,4 | 0,2 |
+| S endrin/isodrin | 7 | 5,6 | 3,7 | 1,4 | 0,2 |
+| S DDT + DDD + DDE | 23 | 18,4 | 12,3 | 4,6 | 0,6 |
+| PCB-28 | 18,5 | 14,8 | 9,9 | 3,7 | 0,48 |
+| PCB-52 | 18,5 | 14,8 | 9,9 | 3,7 | 0,48 |
+| PCB-101 | 75 | 60 | 40 | 15 | 2 |
+| PCB-118 | 75 | 60 | 40 | 15 | 2 |
+| PCB-138 | 75 | 60 | 40 | 15 | 2 |
+| PCB-153 | 75 | 60 | 40 | 15 | 2 |
+| PCB-180 | 75 | 60 | 40 | 15 | 2 |
+| Σ 6-PCB (excl. PCB-118) | 375 | 300 | 200 | 75 | 10 |
+| Naftaleen | 600 | 480 | 320 | 120 | 16 |
+| Fenanthreen | 750 | 600 | 400 | 150 | 20 |
+| Antraceen | 600 | 480 | 320 | 120 | 16 |
+| Fluoranteen | 185 | 148 | 98 | 37 | 4,9 |
+| Benzo(a)antraceen | 230 | 184 | 123 | 46 | 6,1 |
+| Chryseen | 230 | 184 | 123 | 46 | 6,1 |
+| Benzo(k)fluoranteen | 270 | 216 | 144 | 54 | 7,2 |
+| Benzo(a)pyreen | 290 | 232 | 155 | 58 | 7,7 |
+| Benzo(g,h,i)peryleen | 210 | 168 | 112 | 42 | 5,6 |
+| Indeno(1,2,3-c,d)pyreen | 235 | 188 | 125 | 47 | 6,3 |
+| Σ 10-PAK | 11500 | 9200 | 6133 | 2300 | 307 |
+| Minerale olie | 935000 | 748000 | 498668 | 187000 | 24933 |
+
+Voor de toepassing van deze tabel zijn de maximale waarden van toepassing die behoren bij dat waardegevende bestanddeel waarvan bij het toedienen van een toenemende hoeveelheid van de meststof, de hoeveelheden van 80 kilogram fosfaat, 100 kg stikstof, 150 kilogram kali, 400 kilogram neutraliserende waarde of 3000 kilogram organische stof het éérst wordt bereikt.
+
+## Bijlage III. , behorende bij [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=XI&artikel=73&z=2009-12-25&g=2009-12-25) van het Uitvoeringsbesluit Meststoffenwet
+
+| Wettelijke bepaling | Wettelijke bepaling | Wettelijke bepaling | Wettelijke bepaling | Wettelijke bepaling | Wettelijke bepaling |
+| --- | --- | --- | --- | --- | --- |
+| [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054) (Mw) | Uitvoeringsbesluit (UB) | [Uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018989) (UR) | Omschrijving regelovertreding | Feitcode | Hoogte bestuurlijke boete |
+| Administratieve verplichtingen landbouwers | Administratieve verplichtingen landbouwers | Administratieve verplichtingen landbouwers | Administratieve verplichtingen landbouwers | Administratieve verplichtingen landbouwers | Administratieve verplichtingen landbouwers |
+|   |   |   |   |   |   |
+| Art. 34 en 35 | Art. 26 lid 1 en 2 | Art. 3, art. 124 lid 1 | Niet verstrekken van gegevens over oppervlakte, gewasteelt en ligging van percelen op de verzamelaanvraag door de landbouwer | M100 | € 300 |
+|   |   |   | Niet tijdig verstrekken van gegevens over oppervlakte, gewasteelt en ligging van percelen op de verzamelaanvraag (opgave uiterlijk vóór 15 mei) door de landbouwer | M101 | € 100 |
+|   |   |   | Niet volledig verstrekken van gegevens over oppervlakte, gewasteelt en ligging van percelen op verzamelaanvraag door de landbouwer | M102 | € 200 |
+|   |   |   | Niet naar waarheid verstrekken van gegevens over oppervlakte, gewasteelt en ligging van percelen op de verzamelaanvraag door de landbouwer | M103 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 26 lid 2 | Art. 41 | Niet melden van een wijziging in de oppervlakte grond in de periode van 16 mei t/m 31 oktober door de landbouwer | M104 | € 300 |
+|   |   |   | Niet binnen 30 dagen melden van een wijziging in de oppervlakte grond door de landbouwer | M105 | € 100 |
+|   |   |   | Niet volledig melden van een wijziging in de oppervlakte grond door de landbouwer | M106 | € 200 |
+|   |   |   | Niet naar waarheid melden van een wijziging in de oppervlakte grond door de landbouwer | M107 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 31 lid 1 en lid 2 onderdeel a t/m f, art. 36 onderdeel a | Art. 37 lid 1 t/m 4, art. 124 lid 1 | Niet aanmelden van een bedrijf ter registratie door de landbouwer | M108 | € 300 |
+|   |   |   | Niet binnen 30 dagen aanmelden van een bestaand of nieuw bedrijf ter registratie door de landbouwer, dan wel niet binnen 30 dagen doorgeven van wijzigingen in de verstrekte registratiegegevens | M109 | € 100 |
+|   |   |   | Niet volledig aanmelden van een bedrijf ter registratie door de landbouwer, dan wel niet volledig doorgeven van wijzigingen in de verstrekte registratiegegevens | M110 | € 200 |
+|   |   |   | Niet naar waarheid aanmelden van een bedrijf ter registratie door de landbouwer, dan wel het niet of niet naar waarheid doorgeven van wijzigingen in de verstrekte registratiegegevens | M111 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 32 lid 1 en 2, art. 33, art. 34, art. 36 onderdeel b en c | Art. 38, 39 | Niet bijhouden van een inzichtelijke administratie per bedrijf door de landbouwer (incl. wijzigingen in de administratie) | M116 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 34 lid 1, art. 36 onderdeel b, art. 69 | Art. 40, art. 124 lid 1 | Niet tijdig bijhouden van een inzichtelijke administratie door de landbouwer (incl. wijzigingen in de administratie) | M117 | € 100 |
+|   |   |   | Niet volledig bijhouden van een inzichtelijke administratie door de landbouwer (incl. wijzigingen in de administratie) | M118 | € 200 |
+|   |   |   | Niet naar waarheid bijhouden van een inzichtelijke administratie door de landbouwer (incl. wijzigingen in de administratie) | M119 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 35 lid 1 en 2, art. 36 onderdeel d | Art. 42, art. 124 lid 1 | Niet verstrekken van de gevraagde gegevens door de landbouwer | M120 | € 300 |
+|   |   |   | Niet verstrekken van de gevraagde gegevens vóór de gestelde uiterlijke inzenddatum of binnen de daartoe gestelde termijn door de landbouwer | M121 | € 100 |
+|   |   |   | Niet volledig verstrekken van de gevraagde gegevens door de landbouwer | M122 | € 200 |
+|   |   |   | Niet naar waarheid verstrekken van de gevraagde gegevens door de landbouwer | M123 | € 300 |
+|   |   |   |   |   |   |
+| Administratieve verplichtingen intermediairs | Administratieve verplichtingen intermediairs | Administratieve verplichtingen intermediairs | Administratieve verplichtingen intermediairs | Administratieve verplichtingen intermediairs | Administratieve verplichtingen intermediairs |
+|   |   |   |   |   |   |
+| Art. 34 en 35 | Art. 38 lid 1 en lid 2 onderdeel a t/m i, art. 41 onderdeel a | Art. 45 lid 1 t/m 6, art. 124 lid 1 | Niet aanmelden van een intermediaire onderneming ter registratie door de intermediair | M150 | € 300 |
+|   |   |   | Niet binnen 30 dagen aanmelden van een na 1 januari 2006 opgerichte intermediaire onderneming ter registratie door de intermediair, dan wel niet binnen 30 dagen doorgeven van wijzigingen in de verstrekte registratiegegevens | M151 | € 100 |
+|   |   |   | Niet volledig aanmelden van een intermediaire onderneming ter registratie door de intermediair, dan wel niet volledig doorgeven van wijzigingen in de verstrekte registratiegegevens | M152 | € 200 |
+|   |   |   | Niet naar waarheid aanmelden van een intermediaire onderneming ter registratie door de intermediair, dan wel het niet of niet naar waarheid doorgeven van wijzigingen in de verstrekte registratiegegevens | M153 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 39, art. 41 onderdeel b en c, art. 34 lid 1 | Art. 2, art. 46, art. 47, art. 94 lid 3, art. 95 lid 3, art. 124 lid 1 | Niet bijhouden van een inzichtelijke administratie per onderneming door de intermediair, waaronder een administratie (H1-staat, formulier Dienst Regelingen) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie) | M158 | € 300 |
+|   |   |   | Niet tijdig bijhouden van een inzichtelijke administratie per onderneming door de intermediair, waaronder een administratie (H1-staat, formulier Dienst Regelingen) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie) | M159 | € 100 |
+|   |   |   | Niet volledig bijhouden van een inzichtelijke administratie per onderneming door de intermediair, waaronder een administratie (H1-staat, formulier Dienst Regelingen) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie) | M160 | € 200 |
+|   |   |   | Niet naar waarheid bijhouden van een inzichtelijke administratie per onderneming door de intermediair, waaronder een administratie (H1-staat, formulier Dienst Regelingen) voor de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte zijn aangevoerd en uit die opslagruimte zijn afgevoerd (incl. wijzigingen in de administratie) | M161 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 40, art. 41 onderdeel d | Art. 48, art. 124 lid 1 | Niet verstrekken van de gevraagde gegevens door de intermediair | M162 | € 300 |
+|   |   |   | Niet verstrekken van de gevraagde gegevens vóór de gestelde uiterlijke inzenddatum of binnen de daartoe gestelde termijn door de intermediair | M163 | € 100 |
+|   |   |   | Niet volledig verstrekken van de gevraagde gegevens door de intermediair | M164 | € 200 |
+|   |   |   | Niet naar waarheid verstrekken van de gevraagde gegevens door de intermediair | M165 | € 300 |
+|   |   |   |   |   |   |
+|   | art. 41 onderdeel f | Art. 49 lid 1, art. 124 lid 1 en 2 | Niet aanbrengen of aanbrengen van onjuist registratienummer per opslagruimte voor meststoffen door de intermediair | M166 | € 300 |
+|   |   |   | Niet op juiste of deugdelijke wijze aanbrengen van het registratienummer per opslagruimte voor meststoffen door de intermediair | M168 | € 200 |
+|   |   |   |   |   |   |
+|   |   | Art. 49 lid 2, art. 124 lid 2 | Niet aanduiden van opslagruimten voor meststoffen d.m.v. de registratienummers in de administratie van de intermediair en bij gegevensverstrekking door de intermediair | M169 | € 300 |
+|   |   |   |   |   |   |
+| Administratieve verplichtingen overige leveranciers en afnemers bedrijven | Administratieve verplichtingen overige leveranciers en afnemers bedrijven | Administratieve verplichtingen overige leveranciers en afnemers bedrijven | Administratieve verplichtingen overige leveranciers en afnemers bedrijven | Administratieve verplichtingen overige leveranciers en afnemers bedrijven | Administratieve verplichtingen overige leveranciers en afnemers bedrijven |
+|   |   |   |   |   |   |
+| Art. 34, 35 en 37 | Art. 43 lid 1 en lid 2 en 3 onderdelen a t/m e, art. 46 onderdeel a | Art. 50 lid 1 t/m 4 | Niet aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd, verhandeld of anderszins bewerkt of verwerkt | M200 | € 300 |
+|   |   |   | Niet binnen 30 dagen aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd of anderszins wordt bewerkt of verwerkt, dan wel niet binnen 30 dagen doorgeven van wijzigingen in de verstrekte registratiegegevens | M201 | € 100 |
+|   |   |   | Niet volledig aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd of anderszins wordt bewerkt of verwerkt, dan wel niet volledig doorgeven van wijzigingen in de verstrekte registratiegegevens | M202 | € 200 |
+|   |   |   | Niet naar waarheid aanmelden ter registratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden geproduceerd of anderszins wordt bewerkt of verwerkt, dan wel het niet of niet naar waarheid doorgeven van wijzigingen in de verstrekte registratiegegevens | M203 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 44 lid 1, 2, 6, 7 art. 46 onderdeel b en c, art. 34 | Art. 51, art. 124 lid 1 | Niet bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie) | M208 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 44 lid 2 |   | Niet tijdig bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie) | M209 | € 100 |
+|   |   |   |   |   |   |
+|   | Art. 44 lid 2 |   | Niet volledig bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie) | M210 | € 200 |
+|   |   |   |   |   |   |
+|   | Art. 44 lid 2 |   | Niet naar waarheid bijhouden van een inzichtelijke administratie door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt (incl. wijzigingen in de administratie) | M211 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 44 lid 3 t/m 7, art. 46 onderdeel b en c, art. 34 |   | Niet bijhouden van een inzichtelijke administratie door de ondernemer die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden verhandeld of in het kader waarvan staldieren aan bedrijven worden afgeleverd, dan wel staldieren of eieren van bedrijven worden afgenomen (incl. wijzigingen in de administratie) | M212 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 51, art. 124 lid 1 | Niet tijdig bijhouden van een inzichtelijke administratie door de ondernemer die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden verhandeld of in het kader waarvan staldieren aan bedrijven worden afgeleverd, dan wel staldieren of eieren van bedrijven worden afgenomen (incl. wijzigingen in de administratie) | M213 | € 100 |
+|   |   |   | Niet volledig bijhouden van een inzichtelijke administratie door de ondernemer die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden verhandeld of in het kader waarvan staldieren aan bedrijven worden afgeleverd, dan wel staldieren of eieren van bedrijven worden afgenomen (incl. wijzigingen in de administratie) | M214 | € 200 |
+|   |   |   | Niet naar waarheid bijhouden van een inzichtelijke administratie door de ondernemer die een of meer ondernemingen voert, niet zijnde een bedrijf of een intermediaire onderneming, in het kader waarvan meststoffen worden verhandeld of in het kader waarvan staldieren aan bedrijven worden afgeleverd, dan wel staldieren of eieren van bedrijven worden afgenomen (incl. wijzigingen in de administratie) | M215 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 45 lid 1 en 5, art. 46 onderdeel d | Art. 52, art. 124 lid 1 | Niet verstrekken van de jaarlijkse gegevens door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt bewerkt of verwerkt | M216 | € 300 |
+|   |   |   | Niet verstrekken van de jaarlijkse gegevens vóór de gestelde uiterlijke inzenddatum of binnen de daartoe gestelde termijn door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt bewerkt of verwerkt | M217 | € 100 |
+|   |   |   | Niet volledig verstrekken van de jaarlijkse gegevens door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt bewerkt of verwerkt | M218 | € 200 |
+|   |   |   | Niet naar waarheid verstrekken van de jaarlijkse gegevens door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt verwerkt of in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt bewerkt of verwerkt | M219 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 45 lid 2 |   | Niet verstrekken aan een landbouwer van een begeleidend document door de buitenlandse ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, met vermelding van het gewicht en de samenstelling van de diervoeders | M220 | € 300 |
+|   |   |   | Niet tijdig verstrekken aan een landbouwer van een begeleidend document door de buitenlandse ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren | M221 | € 100 |
+|   |   |   |   |   |   |
+|   |   | Art. 124 lid 1 | Verstrekken aan een landbouwer van een niet volledig begeleidend document door de buitenlandse ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren | M222 | € 200 |
+|   |   |   | Verstrekken aan een landbouwer van een niet naar waarheid opgemaakt begeleidend document door de buitenlandse ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren | M223 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 45 lid 3 |   | Niet aanwezig zijn van het begeleidend document tijdens het vervoer van diervoeders door een buitenlandse ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren | M224 | € 300 |
+|   |   |   |   |   |   |
+| Vervoer van dierlijke meststoffen | Vervoer van dierlijke meststoffen | Vervoer van dierlijke meststoffen | Vervoer van dierlijke meststoffen | Vervoer van dierlijke meststoffen | Vervoer van dierlijke meststoffen |
+|   |   |   |   |   |   |
+| Art. 15 en 34 | Art. 48 |   | Vervoer van dierlijke meststoffen door een niet geregistreerde intermediair | M250 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 49 lid 1, art. 52, art. 70 lid 4 onderdeel b | Art. 78 lid 1, art. 53 lid 2 | Transportmiddel voor drijfmest niet uitgerust met op naam van de intermediair geregistreerde automatische bemonsteringsapparatuur die onlosmakelijk is bevestigd op het transportmiddel, die voldoet aan de prestatiekenmerken en behoort tot een door ASG goedgekeurd type | M251 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 79 lid 1, art. 53, lid 2 | Transportmiddel voor drijfmest niet uitgerust met op naam van de intermediair geregistreerde automatische verpakkingsapparatuur die onlosmakelijk is bevestigd op het transportmiddel, die voldoet aan de prestatiekenmerken en behoort tot een door ASG goedgekeurd type | M253 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 49 lid 2, art. 52 lid 1 onderdeel c | Art. 53 lid 1 | Transportmiddel niet uitgerust met op naam van de intermediair geregistreerde apparatuur voor automatische gegevensregistratie die voldoet aan de prestatiekenmerken en behoort tot een door ASG goedgekeurd type | M255 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 49 lid 3 |   | Transportmiddel niet uitgerust met satellietvolgapparatuur | M258 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 49 lid 4 | Art. 55 en 56 | Niet of niet op juiste wijze vastleggen van vervoersgegevens met behulp van apparatuur voor automatische gegevensregistratie of satellietvolgapparatuur door de vervoerder | M259 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 50 lid 1 |   | Niet aanwezig zijn van een vervoersbewijs tijdens het vervoer van dierlijke meststoffen | M260 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 52 | Art. 53 lid 2 | Apparatuur voor automatische gegevensregistratie of satellietvolgapparatuur niet elektronisch verbonden aan de automatische bemonsterings- en verpakkingsapparatuur bij het vervoer van drijfmest | M262 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 53 lid 3 | Satellietvolgapparatuur niet elektronisch verbonden aan apparatuur voor automatische gegevensregistratie bij het vervoer van vaste mest | M263 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 54 lid 1 | Apparatuur genoemd in art. 53 UR functioneert niet op adequate wijze tijdens het vervoer van dierlijke meststoffen | M264 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 55, art. 122 lid 3 | Niet op voorgeschreven wijze vastleggen of elektronisch verzenden van AGR- en GPS-gegevens door de vervoerder bij het vervoer van drijfmest | M268 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 56, art. 122 lid 3 | Niet op voorgeschreven wijze vastleggen of elektronisch verzenden van AGR- en GPS-gegevens door de vervoerder bij het vervoer van vaste mest | M269 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 51 lid 2 en 3, art. 52 lid 1 onderdeel e |   | Niet voldoen aan de opgelegde verplichting door de vervoerder om gedurende een bepaalde periode een voormelding te doen van het vervoer van dierlijke meststoffen | M276 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 58 lid 1 | Niet doen van de opgelegde voormelding door de vervoerder uiterlijk 24 uren voordat het laden van het transportmiddel plaatsvindt | M277 | € 100 |
+|   |   |   |   |   |   |
+|   |   | Art. 58 lid 2, art. 124 lid 1 | Niet volledig verstrekken van de gegevens inzake de voormelding door de vervoerder | M278 | € 200 |
+|   |   |   | Niet naar waarheid verstrekken van de gegevens inzake de voormelding door de vervoerder | M279 | € 300 |
+|   |   |   |   |   |   |
+| Vervoersbewijs dierlijke meststoffen | Vervoersbewijs dierlijke meststoffen | Vervoersbewijs dierlijke meststoffen | Vervoersbewijs dierlijke meststoffen | Vervoersbewijs dierlijke meststoffen | Vervoersbewijs dierlijke meststoffen |
+|   |   |   |   |   |   |
+| Art. 15 en 34 | Art. 53 lid 1 |   | Niet opmaken van een vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer | M300 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 53 lid 2 en 3, art. 54 | Art. 61 en 62 | Niet tijdig opmaken van een vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer | M301 | € 100 |
+|   |   |   | Niet volledig opmaken of niet ondertekenen van een vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer | M302 | € 200 |
+|   |   |   | Niet naar waarheid opmaken van een vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer | M303 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 53 lid 3 | Art. 60 lid 1 en 2 | Niet gebruikmaken door de leverancier, de vervoerder en de afnemer van het voorgeschreven model voor het vervoersbewijs dierlijke meststoffen dat door Dienst Regelingen is verstrekt en is voorzien van een uniek nummer | M306 | € 100 |
+|   |   |   |   |   |   |
+|   | Art. 53 lid 4 |   | Wijzigen of onleesbaar maken van gegevens op het vervoersbewijs dierlijke meststoffen door de leverancier, de vervoerder en de afnemer | M305 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 60 lid 3 | Niet gebruikmaken door de leverancier, de vervoerder en de afnemer van een geprint exemplaar van het vervoersbewijs dierlijke meststoffen dat elektronisch is aangemaakt en waarop het nummer van het begeleidende document is vermeld, indien de dierlijke meststoffen buiten Nederland worden gebracht. | M307 | € 100 |
+|   |   |   |   |   |   |
+|   | Art. 53 lid 6, art. 54 |   | Indienen van het origineel van het vervoersbewijs dierlijke meststoffen in plaats van de voorgeschreven elektronische indiening | M308 | € 50 |
+|   |   |   |   |   |   |
+|   |   | Art. 64 lid 1 | Niet elektronisch indienen van het vervoersbewijs dierlijke meststoffen door de vervoerder uiterlijk 30 werkdagen na het vervoer van de vracht dierlijke meststoffen | M309 | € 100 |
+|   |   |   |   |   |   |
+|   |   | Art. 64 lid 2, art. 124 lid 1 | Elektronisch indienen van een niet volledig vervoersbewijs dierlijke meststoffen door de vervoerder | M310 | € 200 |
+|   |   |   | Elektronisch indienen van een onjuist vervoersbewijs dierlijke meststoffen door de vervoerder | M311 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 54 | Art. 63 | Niet verstrekken van een afschrift van het vervoersbewijs dierlijke meststoffen aan de leverancier en de afnemer door de vervoerder na aflevering van de dierlijke meststoffen | M312 | € 300 |
+|   |   |   | Niet verstrekken van een afschrift van het vervoersbewijs dierlijke meststoffen aan de leverancier en de afnemer door de vervoerder uiterlijk tien werkdagen na het vervoer van de vracht dierlijke meststoffen | M313 | € 100 |
+|   |   |   |   |   |   |
+|   | Art. 54 | Art. 64 lid 3 en 4 | Niet indienen van de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens door de vervoerder na aflevering van de dierlijke meststoffen die niet zijn bemonsterd en geanalyseerd | M314 | € 300 |
+|   |   |   | Niet indienen van de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens door de vervoerder uiterlijk tien werkdagen na het vervoer van de vracht dierlijke meststoffen die niet zijn bemonsterd en geanalyseerd | M315 | € 100 |
+|   |   |   |   |   |   |
+| Vervoer van zuiveringsslib en compost | Vervoer van zuiveringsslib en compost | Vervoer van zuiveringsslib en compost | Vervoer van zuiveringsslib en compost |   |   |
+|   |   |   |   |   |   |
+| Art. 34 | Art. 50 lid 2 |   | Niet aanwezig zijn van een vervoersbewijs tijdens het vervoer van zuiveringsslib, compost, mengsels van zuiveringsslib en compost, of krachtens art. 55, eerste lid, aangewezen overige organische meststoffen | M350 | € 300 |
+|   |   |   |   |   |   |
+| Vervoersbewijs zuiveringsslib en compost | Vervoersbewijs zuiveringsslib en compost | Vervoersbewijs zuiveringsslib en compost | Vervoersbewijs zuiveringsslib en compost | Vervoersbewijs zuiveringsslib en compost | Vervoersbewijs zuiveringsslib en compost |
+|   |   |   |   |   |   |
+| Art. 34 | Art. 55 lid 1 |   | Niet opmaken van een vervoersbewijs zuiveringsslib en compost door de leverancier, de vervoerder en de afnemer | M400 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 55 lid 2, art. 56 | Art. 69 | Niet tijdig opmaken van een vervoersbewijs zuiveringsslib en compost door de leverancier, de vervoerder en de afnemer | M401 | € 100 |
+|   |   |   | Niet volledig opmaken of niet ondertekenen van een vervoersbewijs zuiveringsslib en compost door de leverancier, de vervoerder en de afnemer | M402 | € 200 |
+|   |   |   | Niet naar waarheid opmaken van een vervoersbewijs zuiveringsslib en compost door de leverancier, de vervoerder en de afnemer | M403 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 55 lid 3 | Art. 68 | Niet gebruikmaken van het voorgeschreven model voor het vervoersbewijs zuiveringsslib en compost dat wordt verstrekt door Dienst Regelingen en is voorzien van een uniek nummer | M405 | € 100 |
+|   |   |   |   |   |   |
+|   | Art. 55 lid 4 |   | Wijzigen of onleesbaar maken van gegevens op het vervoersbewijs zuiveringsslib en compost door de leverancier, de vervoerder of de afnemer | M406 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 56 | Art. 69a lid 1 | Niet verstrekken van een afschrift van het vervoersbewijs zuiveringsslib en compost aan de leverancier en de afnemer door de vervoerder uiterlijk 10 werkdagen na vervoer van de vracht zuiveringsslib en compost | M410 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 55 lid 5, art. 56 onderdeel d | Art. 69a lid 2 | Niet indienen van de op het vervoersbewijs zuiveringsslib en compost ingevulde gegevens door de vervoerder na het vervoer van zuiveringsslib of compost | M407 | € 300 |
+|   |   |   | Niet indienen van de op het vervoersbewijs zuiveringsslib en compost ingevulde gegevens door de vervoerder uiterlijk 10 werkdagen na het vervoer van zuiveringsslib of compost | M408 | € 100 |
+|   |   |   |   |   |   |
+| Grensoverschrijdende overbrenging | Grensoverschrijdende overbrenging | Grensoverschrijdende overbrenging | Grensoverschrijdende overbrenging | Grensoverschrijdende overbrenging | Grensoverschrijdende overbrenging |
+|   |   |   |   |   |   |
+|   |   | Art. 57 lid 1 | Niet doen van mededeling door vervoerder van voornemen om dierlijke meststoffen anders dan mestkorrels te exporteren of importeren | M483 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 57 lid 2, art. 124 lid 1 | Niet volledig of niet naar waarheid verstrekken door vervoerder van gegevens inzake de mededeling door de vervoerder | M484 | € 200 |
+|   |   |   |   |   |   |
+|   |   | Art. 57a lid 1 | Niet doen van mededeling door vervoerder van het daadwerkelijk exporteren of importeren van dierlijke meststoffen anders dan mestkorrels | M485 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Artikel 57a lid 2, art. 124 lid 1 | Niet volledig of niet naar waarheid verstrekken van gegevens door vervoerder inzake de mededeling van de daadwerkelijke export of import | M486 | € 200 |
+|   |   |   |   |   |   |
+|   |   | Art. 57a lid 1 | Niet tijdig (ten minste 3 werkdagen van tevoren) doen van mededeling door vervoerder van de daadwerkelijke export of import | M487 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 57a lid 3 | Niet elektronisch bevestigen door vervoerder van de mededeling van de daadwerkelijke export of import | M488 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 57a lid 3 | Niet tijdig (ten minste 12 uur van tevoren) bevestigen door vervoerder van de mededeling van de daadwerkelijke export of import | M490 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 57a lid 4, art. 124 lid 1 | Niet volledig of niet naar waarheid bevestigen door vervoerder van de mededeling van de daadwerkelijke export of import | M489 | € 200 |
+|   |   |   |   |   |   |
+|   |   | Art. 57a lid 6 | Niet of niet onverwijld intrekken van de mededeling door vervoerder bij het niet plaatsvinden van de gemelde export of import | M491 | € 200 |
+|   |   |   |   |   |   |
+| Hoeveelheidsbepaling | Hoeveelheidsbepaling | Hoeveelheidsbepaling | Hoeveelheidsbepaling | Hoeveelheidsbepaling | Hoeveelheidsbepaling |
+|   |   |   |   |   |   |
+| Art. 35 t/m 37 | Art. 66 t/m 70 | Art. 76 lid 1 | Niet of niet op juiste wijze wegen van een vracht dierlijke meststoffen door de vervoerder | M500 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 76 lid 2 | Niet op juiste wijze bepalen van het gewicht van een vracht dierlijke meststoffen door de vervoerder op basis van het volume en het soortelijk gewicht van de dierlijke meststoffen, indien sprake is van een situatie genoemd in art. 84 t/m 91a UR | M501 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 77 lid 1 | Niet of niet op juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen, niet zijnde mineralenconcentraat, d.m.v. analyse van het monster door een laboratorium | M502 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 78 lid 1 | Niet bemonsteren van een vracht drijfmest tijdens het laden van het transportmiddel door de vervoerder | M505 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 78 lid 2 | Niet of niet op juiste wijze bemonsteren van een vracht vaste mest door de vervoerder | M507 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 78 lid 3 | Niet bemonsteren tijdens het laden van een vracht vaste mest door de vervoerder, indien deze buiten Nederland wordt gebracht | M508 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 78 lid 4 | Niet bemonsteren tijdens het lossen van een vracht vaste mest door de vervoerder, indien deze binnen Nederland wordt gebracht | M509 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 79 lid 2 | Niet of niet op de juiste wijze verpakken van een monster vaste mest in een voorgeschreven monsterverpakking door de vervoerder | M511 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 80 lid 1, art. 81 lid 3, art. 124 lid 1, art. 125 | Niet toezenden door de vervoerder van het mestmonster ter analyse door een geaccrediteerd of gelijkwaardig laboratorium | M512 | € 300 |
+|   |   |   | Niet uiterlijk 10 werkdagen na bemonstering toezenden van het mestmonster aan een geaccrediteerd of gelijkwaardig laboratorium door de vervoerder | M513 | € 100 |
+|   |   |   | Niet meesturen van de juiste gegevens van de betrokken leverancier en afnemer en het nummer van het vervoersbewijs bij het toezenden van het mestmonster aan een geaccrediteerd of gelijkwaardig laboratorium door de vervoerder | M514 | € 300 |
+|   |   |   | Niet meesturen van de volledige gegevens van de betrokken leverancier en afnemer en van het vervoersbewijs bij het toezenden van het mestmonster aan een geaccrediteerd of gelijkwaardig laboratorium door de vervoerder | M515 | € 200 |
+|   |   |   |   |   |   |
+|   |   | Art. 80 lid 2 | Niet in goede staat bewaren van mestmonsters door de vervoerder | M517 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 81 lid 1 | Niet na ontvangst van het mestmonster analyseren van het monster door het laboratorium | M518 | € 300 |
+|   |   |   |   |   |   |
+|   |   |   | Niet uiterlijk 5 werkdagen na ontvangst van het mestmonster analyseren van het monster door het laboratorium | M519 | € 100 |
+|   |   |   | Niet na analyse van het mestmonster toezenden van de analyseresultaten door het laboratorium aan de vervoerder, de leverancier, de afnemer en elektronisch aan Dienst Regelingen | M520 | € 300 |
+|   |   |   | Niet uiterlijk 5 werkdagen na analyse van het mestmonster toezenden van de analyseresultaten door het laboratorium aan de vervoerder, de leverancier, de afnemer en elektronisch aan Dienst Regelingen | M521 | € 100 |
+|   |   |   |   |   |   |
+|   |   | Art. 81 lid 2 | Niet rapporteren van beschadigingen m.b.t. de monsterverpakking door het laboratorium aan de AID | M522 | € 300 |
+|   |   |   | Niet opvolgen van de door de AID verstrekte aanwijzingen door het laboratorium | M523 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 81, lid 3, art. 125 | Niet voldoen door het laboratorium aan de in het accreditatieprogramma AP05 gestelde eisen | M524 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 82 | Niet op juiste wijze bepalen van het gewicht van kalvergier door de afnemer | M525 | € 300 |
+|   |   |   | Niet op juiste wijze uitvoeren van de bemonstering en verpakking van monsters kalvergier door de afnemer | M526 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 83 | Niet of niet op juiste wijze bepalen van het gewicht en het stikstof- en fosfaatgehalte van een vracht mestkorrels op basis van de verpakking of het begeleidend document | M527 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 84, art. 77 lid 1 | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan boer-boer-transport van dierlijke meststoffen worden nageleefd | M528 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 85, art. 77 lid 1 | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen naar tijdelijk uit gebruik gegeven percelen worden nageleefd (Vogelaar-variant) | M529 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 86, art. 77 lid 1 | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen naar een afnemer, die geen bedrijf of onderneming voert, worden nageleefd | M530 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 87, art. 77 lid 1 | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen naar grenspercelen in Duitsland en België worden nageleefd | M531 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 88, art. 77 lid 1 | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de aan- en afvoer van konijnengier worden nageleefd | M532 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 89, art. 77 lid 1 | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden worden nageleefd die zijn gesteld aan de afvoer van paardenmest bestemd voor de productie van substraat voor de teelt van champignons of voor de productie van een grondstof voor de productie van dat substraat | M533 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 90, art. 77 lid 1 | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen door een klein bedrijf naar een ander bedrijf worden nageleefd | M534 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 91, art. 77 lid 1 | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen naar natuurterrein of overige grond worden nageleefd | M535 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 91a art. 77 lid 1 | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde vaste meststoffen die ten hoogste 10% vaste dierlijke meststoffen of 10% champost bevat d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer worden nageleefd | M 559 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 91b | Niet of niet op de juiste wijze (laten) bepalen van het stikstof- en fosfaatgehalte van aan- en afgevoerde dierlijke meststoffen d.m.v. analyse van het monster door een laboratorium zonder dat de voorwaarden gesteld aan de afvoer van dierlijke meststoffen middels gesplitst vervoer worden nageleefd | M 561 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 92 lid 1 | Niet of niet op juiste wijze bepalen door de vervoerder van het gewicht van de aan- en afgevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid zuiveringsslib of compost d.m.v. weging | M536 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 92 lid 2 | Niet of niet op juiste wijze bepalen door het bedrijf of de onderneming van het stikstof- en fosfaatgehalte van de aan- en afgevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid zuiveringsslib of compost overeenkomstig de artikelen 92a en 92b op basis van gewichtsprocenten in de droge stof. | M537 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 92a lid 1 | Niet of niet op de juiste wijze bepalen door het bedrijf of de onderneming van het stikstof- en fosfaatgehalte of het droge stofgehalte in zuiveringsslib of compost d.m.v. analyse van een monster | M562 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 92a lid 2 | Niet of niet op de juiste wijzebemonsteren van zuiveringsslib of compost door de producent | M563 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 92a lid 4 | Niet of niet op de juiste wijze verpakken van een monster zuiveringsslib of compost in een voorgeschreven monsterverpakking door de producent | M564 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 92a lid 5 | Niet toezenden van het monster aan of niet laten analyseren van het monster door een geaccrediteerd laboratorium door de producent | M565 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 92b lid 1 | Niet of niet op de juiste wijze na ontvangst van het monster analyseren van het monster door het laboratorium | M566 | € 300 |
+|   |   |   | Niet uiterlijk 5 werkdagen na ontvangst van het monster analyseren van het monster door het laboratorium | M567 | € 100 |
+|   |   |   |   |   |   |
+|   |   | Art. 92b lid 2 | Niet of niet op de juiste wijze berekenen van het stikstof-, fosfaat- en drogestofgehalte indien het monster betrekking heeft op een hoeveelheid die door middel van een continu proces geproduceerd wordt | M569 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 92b lid 3 | Niet of niet op de juiste wijze voorzien van een analysenummer van de analyseresultaten door het laboratorium | M568 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 92b lid 4 en lid 5 | Niet na analyse van het monster toezenden van de analyseresultaten dan wel de overeenkomstig het tweede lid berekende gemiddelde gehalten door het laboratorium aan de producent en elektronisch aan Dienst Regelingen | M570 | € 300 |
+|   |   |   | Niet binnen 10 werkdagen na analyse dan wel 10 werkdagen na afloop van de kalendermaand toezenden van de analyseresultaten door het laboratorium aan de producent en elektronisch aan Dienst Regelingen | M571 | € 100 |
+|   |   |   |   |   |   |
+|   |   | Art. 92b lid 6 | Niet of niet lang genoeg bewaren van de monsters na verzending van de analyseresultaten | M572 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 93 lid 1 | Niet of niet op juiste wijze bepalen door het bedrijf of de onderneming van het gewicht van de aan- en afgevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid andere meststoffen dan dierlijke meststoffen, zuiveringsslib of compost d.m.v. weging | M538 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 93 lid 2 | Niet of niet op juiste wijze d.m.v. bemonstering en analyse laten bepalen door het bedrijf of de onderneming van het stikstof- en fosfaatgehalte van de aan- en afgevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid andere meststoffen dan dierlijke meststoffen, zuiveringsslib of compost | M539 | € 300 |
+|   |   | Art. 94 lid 1, art. 94 lid 4 | Niet of niet op juiste wijze bepalen door het bedrijf van het gewicht van de voorraad dierlijke meststoffen op basis van het gemeten volume en soortelijk gewicht | M540 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 94 lid 2, art. 94 lid 4 | Niet of niet op juiste wijze bepalen door het bedrijf van het stikstof- en fosfaatgehalte van de voorraad dierlijke meststoffen | M541 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 95 lid 1 en 5 | Niet of niet op juiste wijze bepalen door het bedrijf van het gewicht van de voorraad zuiveringsslib of compost op basis van het gemeten volume en het soortelijk gewicht | M542 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 95 lid 2 en 5 | Niet of niet op juiste wijze bepalen door het bedrijf van het stikstof- en fosfaatgehalte van de voorraad zuiveringsslib of compost op basis van de best beschikbare gegevens | M543 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 95 lid 4 en 5 | Niet of niet op juiste wijze bepalen door het bedrijf of de onderneming van het gewicht van de in bulk opgeslagen andere meststoffen dan dierlijke meststoffen, zuiveringsslib of compost op basis van het gemeten volume en soortelijk gewicht | M544 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 2, art. 97 lid 1, art. 100 | Niet of niet op juiste wijze bepalen door de leverancier van de diervoeders van het gewicht en het stikstof- en fosfaatgehalte van diervoeders afgeleverd aan een bedrijf met staldieren | M545 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 2, art. 97 lid 2, art. 101 | Niet of niet op juiste wijze bepalen door de leverancier van het ruwvoer en enkelvoudig diervoeder van de hoeveelheden ruwvoer en enkelvoudig diervoeder, zowel in gewicht of volume als in kilogrammen stikstof en fosfaat | M546 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 98 lid 1 en 2 | Niet of niet op juiste wijze vaststellen van het stikstof- en fosfaatgehalte in diervoeders | M547 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 98 lid 3 en 4, art. 125 | Analyse van het diervoedermonster op het stikstof- en fosfaatgehalte niet uitgevoerd door een geaccrediteerd of gelijkwaardig laboratorium, volgens de voorgeschreven of een gelijkwaardige onderzoeksmethode | M549 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 98 lid 3 en 4 | Niet binnen één week na ontvangst van het diervoedermonster analyseren van het diervoeder op het stikstof- en fosfaatgehalte volgens de voorgeschreven of een gelijkwaardige onderzoeksmethode | M551 | € 100 |
+|   |   |   |   |   |   |
+|   |   | Art. 98 lid 6 | Niet verzenden van de (juiste) analyseresultaten van het diervoedermonster door het laboratorium naar de leverancier van het diervoeder | M552 | € 300 |
+|   |   |   | Niet binnen één week na ontvangst van het diervoedermonster verzenden van de analyseresultaten door het laboratorium naar de leverancier van het diervoeder | M553 | € 100 |
+|   |   |   |   |   |   |
+|   |   | Art. 98 lid 6, art. 124 lid 1 | Verzenden van niet volledige analyseresultaten van het diervoedermonster door het laboratorium naar de leverancier van het diervoeder | M554 | € 200 |
+|   |   |   | Verzenden van niet naar waarheid opgemaakte analyseresultaten van het diervoedermonster door het laboratorium naar de leverancier van het diervoeder | M555 | € 300 |
+|   |   |   |   |   |   |
+|   |   | Art. 99 | Niet vermelden of bekendmaken van gegevens van de afgeleverde diervoeders op het etiket of begeleidend document door de leverancier van de diervoeders | M556 | € 300 |
+|   |   |   | Niet volledig of niet naar waarheid vermelden van gegevens van de diervoeders op het etiket of begeleidend document door de leverancier van de diervoeders | M560 | € 300 |
+|   |   |   |   |   |   |
+| Overige bepalingen | Overige bepalingen | Overige bepalingen | Overige bepalingen | Overige bepalingen | Overige bepalingen |
+|   |   |   |   |   |   |
+| Art. 34 en 37 |   | Art. 122 lid 1 | Niet op voorgeschreven wijze doorgeven van gegevens en wijzigingen in gegevens aan Dienst Regelingen d.m.v. indiening van het daartoe bestemde formulier | M600 | € 50 |
+|   |   |   |   |   |   |
+|   |   | Art. 122 lid 2 en 3 | Niet op voorgeschreven wijze elektronisch doorgeven van gegevens en wijzigingen in gegevens aan Dienst Regelingen d.m.v. het daartoe ter beschikking gestelde elektronische portaal | M601 | € 50 |
+|   |   |   |   |   |   |
+|   |   | Art. 122 lid 4 | Niet ondertekenen van de elektronische verzending d.m.v. een persoonlijke gebruikerscode door de vervoerder | M602 | € 50 |
+|   |   |   |   |   |   |
+|   |   | Art. 124 lid 2 | Niet onverwijld gegevens opnemen in de administratie nadat deze bekend zijn geworden door degene die gegevens in de administratie moet opnemen, voor zover geen andere termijn is gesteld | M603 | € 100 |
+|   |   |   | Niet onverwijld gegevens verstrekken uit de administratie nadat deze bekend zijn geworden door degene die gegevens uit de administratie moet verstrekken, voor zover geen andere termijn is gesteld | M604 | € 100 |
+|   |   |   |   |   |   |
+|   | Art 32, art. 34 lid 2, art. 39 lid 4, art. 44 lid 7 | Art. 124 lid 3 | Niet bewaren van documenten, gegevensdragers, administratie en bijbehorende bewijsstukken gedurende 5 jaren na afloop van het betreffende kalenderjaar | M605 | € 300 |
+|   |   |   |   |   |   |
+|   | Art. 32, 39 en 44 | Art. 124 lid 3 | Wijzigen van (oorspronkelijke) gegevens in de administratie | M606 | € 300 |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
