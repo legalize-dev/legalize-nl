@@ -4,7 +4,7 @@ identifier: "BWBR0009637"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2006-03-08"
+last_updated: "2009-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009637"
 soort: "wet"
@@ -60,13 +60,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. aardbeving: een ramp of een zwaar ongeval als bedoeld in [artikel 1, onder b, van de Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=1), die wordt veroorzaakt door een trilling aan het aardoppervlak als gevolg van een plotselinge beweging in de aardkorst, met een magnitude van minimaal 4,5 op de schaal van Richter, gemeten door het Koninklijk Nederlands Meteorologisch Instituut;
 
-- d. schadegebied: het bij ministeriële regeling vastgestelde, in Nederland gelegen gebied waarin een overstroming door zoet water, een aardbeving dan wel een ramp of een zwaar ongeval waarop deze wet ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=3&z=2006-03-08&g=2006-03-08) van toepassing is verklaard, heeft plaatsgevonden en waarin als gevolg daarvan schade is geleden dan wel kosten zijn gemaakt als bedoeld in [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4&z=2006-03-08&g=2006-03-08);
+- d. schadegebied: het bij ministeriële regeling vastgestelde, in Nederland gelegen gebied waarin een overstroming door zoet water, een aardbeving dan wel een ramp of een zwaar ongeval waarop deze wet ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=3&z=2009-12-28&g=2009-12-28) van toepassing is verklaard, heeft plaatsgevonden en waarin als gevolg daarvan schade is geleden dan wel kosten zijn gemaakt als bedoeld in [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4&z=2009-12-28&g=2009-12-28);
 
-- e. gedupeerde: degene die schade heeft geleden dan wel kosten heeft gemaakt als bedoeld in [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4&z=2006-03-08&g=2006-03-08).
+- e. gedupeerde: degene die schade heeft geleden dan wel kosten heeft gemaakt als bedoeld in [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4&z=2009-12-28&g=2009-12-28).
 
 ##### Artikel 2
 
-In de periode dat de in het Deltaplan grote rivieren bedoelde werkzaamheden ter bescherming tegen hoogwater langs de Maas nog niet volledig ten uitvoer zijn gelegd wordt, in afwijking van het bepaalde in [artikel 1, onder b, onderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=1&z=2006-03-08&g=2006-03-08), onder hoge waterstanden verstaan: hoge waterstanden, veroorzaakt door een rivierafvoer met een gemiddelde kans van voorkomen van minder dan 1/10 per jaar, voor zover het gaat om het gedeelte van de Maas waar geen gereglementeerde waterkeringen aanwezig zijn.
+In de periode dat de in het Deltaplan grote rivieren bedoelde werkzaamheden ter bescherming tegen hoogwater langs de Maas nog niet volledig ten uitvoer zijn gelegd wordt, in afwijking van het bepaalde in [artikel 1, onder b, onderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=1&z=2009-12-28&g=2009-12-28), onder hoge waterstanden verstaan: hoge waterstanden, veroorzaakt door een rivierafvoer met een gemiddelde kans van voorkomen van minder dan 1/10 per jaar, voor zover het gaat om het gedeelte van de Maas waar geen gereglementeerde waterkeringen aanwezig zijn.
 
 ##### Artikel 3
 
@@ -74,7 +74,7 @@ Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van
 
 ##### Artikel 4
 
-1. Een gedupeerde heeft recht op een tegemoetkoming in de hierna te noemen categorieën van schaden, voor zover de schade die hij heeft geleden, is ontstaan in het schadegebied en het rechtstreeks en onmiddellijk gevolg is van een overstroming door zoet water, een aardbeving dan wel een ramp of een zwaar ongeval waarop deze wet ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=3&z=2006-03-08&g=2006-03-08) van toepassing is verklaard, alsmede in de hierna te noemen categorieën van kosten die daarmee verband houden:
+1. Een gedupeerde heeft recht op een tegemoetkoming in de hierna te noemen categorieën van schaden, voor zover de schade die hij heeft geleden, is ontstaan in het schadegebied en het rechtstreeks en onmiddellijk gevolg is van een overstroming door zoet water, een aardbeving dan wel een ramp of een zwaar ongeval waarop deze wet ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=3&z=2009-12-28&g=2009-12-28) van toepassing is verklaard, alsmede in de hierna te noemen categorieën van kosten die daarmee verband houden:
 
 - a. de schade aan de woning, de woonwagen of het woonschip;
 
@@ -118,11 +118,11 @@ Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van
 
 ##### Artikel 5
 
-1. De omvang van de schade en, voor zover nodig, van de kosten wordt door of onder verantwoordelijkheid van een door Onze Minister aangewezen schade-expert, opgenomen en neergelegd in een schaderapport.
+1. De omvang van de schade en, voor zover nodig, de kosten wordt door een schade-expert opgenomen en neergelegd in een schaderapport.
 
 2. De schade-expert verstrekt aan de gedupeerde een afschrift van het schaderapport.
 
-3. Al dan niet op verzoek van de gedupeerde kan de omvang van de schade en de kosten opnieuw door of onder verantwoordelijkheid van een schade-expert als bedoeld in het eerste lid worden opgenomen en neergelegd in een schaderapport. Het tweede lid is van toepassing.
+3. Al dan niet op verzoek van de gedupeerde kan de omvang van de schade en de kosten opnieuw door een schade-expert worden opgenomen en neergelegd in een schaderapport. Het tweede lid is van toepassing.
 
 4. De kosten van het opnemen van de omvang van de schade en de kosten, bedoeld in het eerste en derde lid, komen voor rekening van het Rijk, met uitzondering van het opnemen, bedoeld in het derde lid, dat op verzoek van de gedupeerde is gedaan indien blijkt dat de omvang van de schade en de kosten in eerste instantie op juiste wijze is opgenomen.
 
@@ -130,11 +130,11 @@ Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van
 
 1. De hoogte van de tegemoetkoming wordt volgens bij of krachtens algemene maatregel van bestuur vast te stellen regels:
 
-- a. voor zover het de schade betreft, berekend met inachtneming van de schaderapporten, bedoeld in [artikel 5, en het tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=5&z=2006-03-08&g=2006-03-08);
+- a. voor zover het de schade betreft, berekend met inachtneming van de schaderapporten, bedoeld in [artikel 5, en het tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=5&z=2009-12-28&g=2009-12-28);
 
-- b. voor zover het de kosten betreft, berekend op basis van die kosten die in een redelijke verhouding staan tot de getroffen maatregelen die in de gegeven omstandigheden als noodzakelijk konden worden beschouwd, berekend met inachtneming van de schaderapporten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=5&z=2006-03-08&g=2006-03-08), voor zover dit van toepassing is, en het tweede tot en met vierde lid.
+- b. voor zover het de kosten betreft, berekend op basis van die kosten die in een redelijke verhouding staan tot de getroffen maatregelen die in de gegeven omstandigheden als noodzakelijk konden worden beschouwd, berekend met inachtneming van de schaderapporten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=5&z=2009-12-28&g=2009-12-28), voor zover dit van toepassing is, en het tweede tot en met vierde lid.
 
-2. Bij het bepalen van de hoogte van de tegemoetkoming kan een eigen risico en een drempelbedrag worden gehanteerd waarvan de hoogte bij ministeriële regeling wordt vastgesteld en wordt in voorkomend geval rekening gehouden met de omstandigheid dat een gedupeerde binnen een periode van twee jaar in verband met een overstroming door zoet water, een aardbeving dan wel een ramp of een zwaar ongeval waarop deze wet ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=3&z=2006-03-08&g=2006-03-08) van toepassing is verklaard, een tegemoetkoming in de geleden schade of de gemaakte kosten heeft ontvangen.
+2. Bij het bepalen van de hoogte van de tegemoetkoming kan een eigen risico en een drempelbedrag worden gehanteerd waarvan de hoogte bij ministeriële regeling wordt vastgesteld en wordt in voorkomend geval rekening gehouden met de omstandigheid dat een gedupeerde binnen een periode van twee jaar in verband met een overstroming door zoet water, een aardbeving dan wel een ramp of een zwaar ongeval waarop deze wet ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=3&z=2009-12-28&g=2009-12-28) van toepassing is verklaard, een tegemoetkoming in de geleden schade of de gemaakte kosten heeft ontvangen.
 
 3. Bij ministeriële regeling worden regels gesteld over de hoogte van de tegemoetkoming.
 
@@ -152,11 +152,11 @@ Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van
 
 ##### Artikel 8
 
-Van de ministeriële regelingen, bedoeld in de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=6&z=2006-03-08&g=2006-03-08), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=7&z=2006-03-08&g=2006-03-08), kan worden afgeweken voor zover toepassing gelet op het belang dat deze wet beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
+Van de ministeriële regelingen, bedoeld in de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=6&z=2009-12-28&g=2009-12-28), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=7&z=2009-12-28&g=2009-12-28), kan worden afgeweken voor zover toepassing gelet op het belang dat deze wet beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 9
 
-Bij ministeriële regeling kan worden vastgesteld in welke gevallen bij de aanvraag, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=7&z=2006-03-08&g=2006-03-08), een voorschot op de tegemoetkoming kan worden aangevraagd.
+Bij ministeriële regeling kan worden vastgesteld in welke gevallen bij de aanvraag, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=7&z=2009-12-28&g=2009-12-28), een voorschot op de tegemoetkoming kan worden aangevraagd.
 
 ##### Artikel 10
 
