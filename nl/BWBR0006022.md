@@ -4,7 +4,7 @@ identifier: "BWBR0006022"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2007-09-02"
+last_updated: "2009-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006022"
 soort: "ministeriele-regeling"
@@ -36,65 +36,17 @@ entry_into_force: "2012-11-02"
 ---
 # Regeling houdende nadere regels ten aanzien van machines
 
-Gelet op de [artikelen 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=4&z=2007-09-02&g=2007-09-02), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=5&z=2007-09-02&g=2007-09-02), 12, eerste lid, eerste zin, en 16, tweede lid, van de Wet op de gevaarlijke werktuigen, de artikelen 3 en 12, derde lid, van het Besluit machines, [artikel 25, eerste lid, onderdeel a, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) en [artikel 1, tweede lid, onderdeel 3°, van het Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=1);
+Gelet op de [artikelen 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=4&z=2009-12-29&g=2009-12-29), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=5&z=2009-12-29&g=2009-12-29), 12, eerste lid, eerste zin, en 16, tweede lid, van de Wet op de gevaarlijke werktuigen, de artikelen 3 en 12, derde lid, van het Besluit machines, [artikel 25, eerste lid, onderdeel a, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) en [artikel 1, tweede lid, onderdeel 3°, van het Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=1);
 
 Besluiten:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder:
-
-- a. het besluit: het [Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577);
-
-- b. machine, veiligheidscomponent, hijskraan, aangewezen instelling, aangewezen aangemelde instelling en richtlijn: hetgeen [het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577) daaronder verstaat.
+In deze regeling wordt verstaan onder Besluit: het [Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577).
 
 ##### Artikel 2
 
-Als categorieën machines en veiligheidscomponenten als bedoeld in [artikel 1, tweede lid, onderdeel 2°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=1) waarop [het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577) niet van toepassing is, worden aangewezen:
-
-- a.
-
-- 1º. liften die permanent bepaalde stopplaatsen van gebouwen en bouwwerken bedienen, met behulp van een kooi die langs vaste, ten opzichte van het horizontale vlak meer dan 15 graden hellende geleiders beweegt, en die bestemd is voor vervoer van
-
-- personen,
-
-- personen en goederen,
-
-- uitsluitend goederen indien de kooi toegankelijk is, d.w.z. waarin een persoon zonder moeite kan binnengaan, en uitgerust is met bedieningsorganen die in de cabine of binnen het bereik van een zich aldaar bevindend persoon gesitueerd zijn;
-
-- 2º. transportmiddelen voor personenvervoer die gebruik maken van tandradvoertuigen;
-
-- 3º. mijnliften;
-
-- 4º. toneelhefwerktuigen; en
-
-- 5º. bouwliften, bestemd voor het heffen van personen of personen en goederen.
-
-- b. machines die uitsluitend de fysieke energie van de mens als krachtbron hebben en daarvan rechtstreeks gebruik maken, behalve machines die worden gebruikt voor het hijsen of heffen van lasten;
-
-- c. medische hulpmiddelen;
-
-- d. vast opgestelde en verplaatsbare attractietoestellen;
-
-- e. stoomketels en drukvaten;
-
-- f. machines speciaal ontworpen en in gebruik gesteld voor nucleair gebruik, die bij defecten het verspreiden van radioactiviteit kunnen veroorzaken;
-
-- g. radioactieve bronnen die in een machine zijn ingebouwd;
-
-- h. vuurwapens;
-
-- i. reservoirs voor opslag en leidingen voor het vervoer van benzine, dieselolie, ontvlambare vloeistoffen en gevaarlijke stoffen;
-
-- j. transportmiddelen, dat wil zeggen voertuigen en aanhangwagens daarvan die uitsluitend zijn bestemd voor het vervoer van personen door de lucht, via openbare wegen- of spoorwegnetten dan wel over water, alsmede transportmiddelen die zijn ontworpen voor het vervoer van goederen door de lucht, via openbare wegen- of spoorwegnetten dan wel over water, behalve de voertuigen die worden gebruikt in de mijnbouwindustrie.
-
-- k. zeeschepen en mobiele offshore-een-heden alsmede uitrustingen aan boord van zulke schepen of eenheden;
-
-- l. kabelinstallaties, met inbegrip van kabelsporen, voor openbaar of niet-openbaar personenvervoer;
-
-- m. landbouw- en bosbouwtrekkers als omschreven in artikel 1, eerste lid van de [Richtlijn 74/150/EEG](31974L0150) van de Raad van de Europese Gemeenschappen van 4 maart 1974 inzake de onderlinge aanpassing van de wetgevingen van de Lidstaten betreffende de goedkeuring van landbouw- of bosbouwtrekkers op wielen, laatstelijk gewijzigd bij [Richtlijn 2001/3/EG](32001L0003);
-
-- n. machines die speciaal zijn ontworpen en gebouwd voor militaire doeleinden of het handhaven van de orde.
+Vervallen
 
 ##### Artikel 3
 
