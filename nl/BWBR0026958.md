@@ -4,7 +4,7 @@ identifier: "BWBR0026958"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2009-01-01"
+last_updated: "2009-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026958"
 soort: "wet"
@@ -46,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
