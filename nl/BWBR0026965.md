@@ -233,21 +233,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Subsidieregeling opvang kinderen van ouders met trekkend/varend bestaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a. Meerkosten energie
-
-1. De minister kan de instellingssubsidie voor het kalenderjaar 2023 ambtshalve herzien voor meerkosten energie 2023.
-
-2. De meerkosten energie 2023 bedraagt voor:
-
-- a. Stichting Meander: € 352.000,–,; en
-
-- b. Stichting Limena € 18.000,–.
-
-#### Paragraaf 3. Aanvraag
-
-#### Paragraaf 4. Subsidieverplichtingen
-
-#### Paragraaf 5. Overgangs- en slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
