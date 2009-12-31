@@ -4,7 +4,7 @@ identifier: "BWBR0018109"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-12"
-last_updated: "2008-12-26"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018109"
 soort: "ministeriele-regeling"
@@ -90,29 +90,29 @@ in welke formule voorstelt:
 
 ##### Artikel 3
 
-Het absolute aandeel, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=5), bedraagt voor de uitkeringjaren 2009 tot en met 2011 het bij die ontvanger genoemde bedrag in de onderstaande tabel:
+Het absolute aandeel bedraagt voor het uitkeringsjaar 2010 het bij die ontvanger genoemde bedrag in de onderstaande tabel:
 
-| Uitkeringsontvanger | Bedrag 2009 (× 1000 euro) | Bedrag 2010 (× 1000 euro) | Bedrag 2011 (× 1000 euro) |
-| --- | --- | --- | --- |
-| Bestuur Regio Utrecht | 11.973 | 8.894 | 4.672 |
-| Stadsgewest Haaglanden | 26.466 | 29.091 | 6.096 |
-| Stadsregio Arnhem-Nijmegen | 8.224 | 9.998 | 990 |
-| Stadsregio Amsterdam | 24.265 | 10.693 | 6.093 |
-| Samenwerkingsverband Regio Eindhoven | 7.217 | 4.646 | 4.385 |
-| Stadsregio Rotterdam | 36.252 | 13.986 | 2.826 |
-| Regio Twente | 5.920 | 4.184 | 1.566 |
-| Provincie Drenthe | 7.247 | 4.016 | 2.057 |
-| Provincie Flevoland | 785 | 477 | 0 |
-| Provincie Friesland | 2.102 | 1.656 | 0 |
-| Provincie Gelderland | 5.738 | 2.659 | 801 |
-| Provincie Groningen | 3.519 | 2.850 | 183 |
-| Provincie Limburg | 5.722 | 5.095 | 0 |
-| Provincie Noord-Brabant | 4.926 | 4.763 | 1.275 |
-| Provincie Noord-Holland | 5.187 | 4.743 | 1.999 |
-| Provincie Overijssel | 7.334 | 7.276 | 4.818 |
-| Provincie Utrecht | 2.343 | 8.319 | 0 |
-| Provincie Zeeland | 1.287 | 725 | 29 |
-| Provincie Zuid-Holland | 9.446 | 13.156 | 2.861 |
+| Uitkeringsontvanger | Bedrag (x 1000 euro) |
+| --- | --- |
+| Bestuur Regio Utrecht | 18.270 |
+| Stadsgewest Haaglanden | 36.359 |
+| Stadsregio Arnhem-Nijmegen | 26.308 |
+| Stadsregio Amsterdam | 63.377 |
+| Samenwerkingsverband Regio Eindhoven | 7.675 |
+| Stadsregio Rotterdam | 42.969 |
+| Regio Twente | 5.670 |
+| Provincie Drenthe | 4.199 |
+| Provincie Flevoland | 2.036 |
+| Provincie Friesland | 1.358 |
+| Provincie Gelderland | 4.520 |
+| Provincie Groningen | 3.579 |
+| Provincie Limburg | 29.010 |
+| Provincie Noord-Brabant | 11.636 |
+| Provincie Noord-Holland | 4.091 |
+| Provincie Overijssel | 7.351 |
+| Provincie Utrecht | 19.191 |
+| Provincie Zeeland | 83 |
+| Provincie Zuid-Holland | 16.192 |
 
 ##### Artikel 4
 
@@ -150,7 +150,7 @@ Vervallen
 
 Vervallen
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2008-12-26&g=2008-12-26) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2008-12-26&g=2008-12-26), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=I&z=2009-12-31&g=2009-12-31) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0018109&bijlage=II&z=2009-12-31&g=2009-12-31), die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
 
 ### **Verantwoordingsmodel**
 
