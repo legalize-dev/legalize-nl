@@ -4,7 +4,7 @@ identifier: "BWBR0014814"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-12-13"
-last_updated: "2007-07-01"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014814"
 soort: "AMvB"
@@ -90,12 +90,6 @@ Hebben goedgevonden en verstaan:
 
 3. Krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) vastgestelde zuiverheidseisen voor in het eerste lid bedoelde microvoedingsstoffen die gebruikt worden bij de bereiding van andere eet- en drinkwaren dan voedingssupplementen, zijn van overeenkomstige toepassing bij de bereiding van voedingssupplementen.
 
-4. In afwijking van het eerste lid is het gebruik van niet krachtens het eerste lid aangewezen microvoedingsstoffen toegestaan, voor zover:
-
-- a. de desbetreffende microvoedingsstof reeds werd gebruikt in een voedingssupplement dat uiterlijk 12 juli 2002 in Nederland of een andere lidstaat van de Europese Unie rechtmatig in het verkeer was gebracht; en
-
-- b. de Europese Autoriteit voor voedselveiligheid geen ongunstig advies heeft verleend met betrekking tot het gebruik, al dan niet in een bepaalde vorm, van de desbetreffende microvoedingsstof, op basis van een dossier ter ondersteuning van het gebruik van de betrokken stof dat uiterlijk op 12 juli 2005 door Onze Minister of een lidstaat van de Europese Unie is ingediend bij de Commissie van de Europese Gemeenschappen.
-
 ##### Artikel 4
 
 Bij regeling van Onze Minister worden ter uitvoering van krachtens artikel 5, vierde lid, van [richtlijn 2002/46/EG](32002L0046) getroffen maatregelen, de hoeveelheden vitaminen en mineralen vastgesteld, die in voedingssupplementen:
@@ -124,7 +118,7 @@ De aanduiding **voedingssupplement** mag uitsluitend en moet worden gebezigd voo
 
 - e. een waarschuwing dat voedingssupplementen buiten bereik van jonge kinderen moeten worden bewaard.
 
-2. Bij de vaststelling van de aanbevolen dagelijkse portie wordt rekening gehouden met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=4&z=2007-07-01&g=2007-07-01) bedoelde hoeveelheden.
+2. Bij de vaststelling van de aanbevolen dagelijkse portie wordt rekening gehouden met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=4&z=2009-12-31&g=2009-12-31) bedoelde hoeveelheden.
 
 3. Bij voedingssupplementen worden geen vermeldingen gebezigd die beweren of suggereren dat een evenwichtige en gevarieerde voeding in het algemeen geen passende hoeveelheden aan microvoedingsstoffen kan bieden.
 
@@ -154,9 +148,9 @@ Wijzigt Warenwetbesluit bestuurlijke boeten.
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treden [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=1&artikel=2&z=2007-07-01&g=2007-07-01) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4&artikel=8&z=2007-07-01&g=2007-07-01) in werking met ingang van 1 augustus 2005.
+2. In afwijking van het eerste lid treden [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=1&artikel=2&z=2009-12-31&g=2009-12-31) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4&artikel=8&z=2009-12-31&g=2009-12-31) in werking met ingang van 1 augustus 2005.
 
-3. [Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=3&z=2007-07-01&g=2007-07-01), vervalt met ingang van 31 december 2009.
+3. [Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=3&z=2009-12-31&g=2009-12-31), vervalt met ingang van 31 december 2009.
 
 ##### Artikel 10
 
