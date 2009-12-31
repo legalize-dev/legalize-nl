@@ -4,7 +4,7 @@ identifier: "BWBR0026220"
 country: "nl"
 rank: "wet"
 publication_date: "2009-12-31"
-last_updated: "2009-10-15"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026220"
 soort: "wet"
@@ -49,15 +49,15 @@ Wijzigt de Wet personenvervoer 2000.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Spoorwegwet.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Een spoorweg waarop de dag voorafgaand aan de aanwijzing als hoofdspoorweg het [Reglement op de Raccordementen 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002526) van toepassing was en die in overeenstemming was met de in [dat Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0002526) opgenomen voorschriften, wordt met ingang van de dag waarop deze spoorweg wordt aangewezen als hoofdspoorweg, aangemerkt als in overeenstemming met het bepaalde bij of krachtens [artikel 6 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=6).
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Toestemmingen die ingevolge [artikel 13, onderdeel d, van het Reglement op de Raccordementen 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002526&artikel=13) zijn verleend en gelden op het tijdstip waarop een spoorweg wordt aangewezen als hoofdspoorweg, worden met ingang van de dag dat de spoorweg is aangewezen als hoofdspoorweg, aangemerkt als vergunningen verleend op grond van [artikel 19, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19).
 
 ##### Artikel V
 
