@@ -4,7 +4,7 @@ identifier: "BWBR0026049"
 country: "nl"
 rank: "wet"
 publication_date: "2010-01-01"
-last_updated: "2009-07-02"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026049"
 soort: "wet"
@@ -80,7 +80,7 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XII
 
@@ -108,21 +108,21 @@ Wijzigt de Wet op de omzetbelasting 1968.
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat:
 
-- a. [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=IX&z=2009-07-02&g=2009-07-02) terugwerkt tot en met 1 januari 2008;
+- a. [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=IX&z=2009-07-02&g=2009-12-31) terugwerkt tot en met 1 januari 2008;
 
-- b. de [artikelen III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=III&z=2009-07-02&g=2009-07-02), [V, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=V&z=2009-07-02&g=2009-07-02), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=VIII&z=2009-07-02&g=2009-07-02) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=XII&z=2009-07-02&g=2009-07-02) terugwerken tot en met 1 januari 2009;
+- b. de [artikelen III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=III&z=2009-07-02&g=2009-12-31), [V, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=V&z=2009-07-02&g=2009-12-31), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=VIII&z=2009-07-02&g=2009-12-31) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=XII&z=2009-07-02&g=2009-12-31) terugwerken tot en met 1 januari 2009;
 
-- c. [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=III&z=2009-07-02&g=2009-07-02), terugwerkt tot en met 5 maart 2009;
+- c. [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=III&z=2009-07-02&g=2009-12-31), terugwerkt tot en met 5 maart 2009;
 
-- d. [artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=V&z=2009-07-02&g=2009-07-02), terugwerkt tot en met 1 juni 2009, en
+- d. [artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=V&z=2009-07-02&g=2009-12-31), terugwerkt tot en met 1 juni 2009, en
 
-- e. [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=XVI&z=2009-07-02&g=2009-07-02) in werking treedt op 1 juli 2009, indien het tijdstip van inwerkingtreding van deze wet voor 1 juli 2009 ligt.
+- e. [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=XVI&z=2009-07-02&g=2009-12-31) in werking treedt op 1 juli 2009, indien het tijdstip van inwerkingtreding van deze wet voor 1 juli 2009 ligt.
 
-2. In afwijking van het eerste lid treden de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=I&z=2009-07-02&g=2009-07-02) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=II&z=2009-07-02&g=2009-07-02) in werking op een bij koninklijk besluit te bepalen tijdstip. Bij dat koninklijk besluit kan worden bepaald dat van het in [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=I&z=2009-07-02&g=2009-07-02), opgenomen [artikel 57a van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=57a) de eerste en tweede volzin van het tweede lid op een eerder tijdstip in werking treden en het zevende lid op een later tijdstip in werking treedt.
+2. In afwijking van het eerste lid treden de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=I&z=2009-07-02&g=2009-12-31) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=II&z=2009-07-02&g=2009-12-31) in werking op een bij koninklijk besluit te bepalen tijdstip. Bij dat koninklijk besluit kan worden bepaald dat van het in [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=I&z=2009-07-02&g=2009-12-31), opgenomen [artikel 57a van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=57a) de eerste en tweede volzin van het tweede lid op een eerder tijdstip in werking treden en het zevende lid op een later tijdstip in werking treedt.
 
-3. In afwijking van het eerste lid treedt [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=X&z=2009-07-02&g=2009-07-02) in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij kan worden bepaald dat dit artikel terugwerkt tot en met een eerder tijdstip.
+3. In afwijking van het eerste lid treedt [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=X&z=2009-07-02&g=2009-12-31) in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij kan worden bepaald dat dit artikel terugwerkt tot en met een eerder tijdstip.
 
-4. In afwijking van het eerste lid treedt [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=XI&z=2009-07-02&g=2009-07-02) in werking op 1 januari 2010, met dien verstande dat [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=XI&z=2009-07-02&g=2009-07-02) eerst toepassing vindt nadat [artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) bij het begin van het kalenderjaar 2010 is toegepast.
+4. In afwijking van het eerste lid treedt [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=XI&z=2009-07-02&g=2009-12-31) in werking op 1 januari 2010, met dien verstande dat [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0026049&artikel=XI&z=2009-07-02&g=2009-12-31) eerst toepassing vindt nadat [artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) bij het begin van het kalenderjaar 2010 is toegepast.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
