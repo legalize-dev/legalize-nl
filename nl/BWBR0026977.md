@@ -4,7 +4,7 @@ identifier: "BWBR0026977"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2009-09-15"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026977"
 soort: "wet"
@@ -146,7 +146,7 @@ Wijzigt het Belastingplan 2009.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet Fiscaal stimuleringspakket en overige fiscale maatregelen.
 
 ##### Artikel XX
 
