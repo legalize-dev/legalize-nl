@@ -4,7 +4,7 @@ identifier: "BWBR0024957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-06-05"
-last_updated: "2009-12-22"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024957"
 soort: "ministeriele-regeling"
@@ -142,7 +142,7 @@ Besluit:
 | 5 | [Subsidieregeling prekwalificatie ESA-programma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0015867) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0015867&artikel=2) |   | 01-01 t/m 06-03 | 5.899.143 |
 | 6 | [Besluit subsidies civiele vliegtuigontwikkeling](https://wetten.overheid.nl/jci1.3:c:BWBR0011247) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0011247&artikel=2) |   | 01-01 t/m 31-12 | 14.000.000 |
 | 7 | [Besluit subsidies Topprojecten herstructurering bedrijventerreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0017584) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017584&artikel=2) |   |   |   |
-| 8 | [Subsidieregeling prepare2start](https://wetten.overheid.nl/jci1.3:c:BWBR0024955) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024955&artikel=2) |   | 01-01 t/m 31-12 | 9.900.000 |
+| 8 | [Subsidieregeling prepare2start](https://wetten.overheid.nl/jci1.3:c:BWBR0024955) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024955&artikel=2) |   | 01-01 t/m 31-12 | 15.000.000 |
 | 9 | [Subsidieregeling programma internationalisering beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024807) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024807&artikel=2) |   | 01-11-2008 t/m 06-05-2009 | 750.000 |
 | 9 | [Subsidieregeling programma internationalisering beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024807) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024807&artikel=2) |   | datum van inwerkingtreding van de Regeling tweede tender PiB t/m 30-10 | 750.000 |
 | 10 | [Tijdelijke subsidieregeling opkomende markten](https://wetten.overheid.nl/jci1.3:c:BWBR0024665) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024665&artikel=2) |   | 16-02 t/m 31-12 | 5.000.000 |
@@ -158,7 +158,7 @@ Besluit:
 | 15 | [Regeling exportfinancieringsarrangement zware matching](https://wetten.overheid.nl/jci1.3:c:BWBR0009176). | [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009176&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0009176&artikel=6) |   |   |   |
 | 16.1 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2getthere) | [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=22) | Periode vooraanmelding | 08-06 t/m 30-10 |   |
 | 16.2 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2getthere) | [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=32) |   | 08-06 t/m 30-12 | 6.000.000 |
-| 16.3 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2xplore) | [38](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=38) |   | 08-06 t/m 30-12 | 3.000.000 |
+| 16.3 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (2xplore) | [38](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=38) |   | 08-06 t/m 30-12 | 3.500.000 |
 | 16.4 | [Subsidieregeling 2getthere](https://wetten.overheid.nl/jci1.3:c:BWBR0025915) (bestaande 2getthere programma’s) | [44](https://wetten.overheid.nl/jci1.3:c:BWBR0025915&artikel=44) |   | 08-06 t/m 31-08 | 10.000.000 |
 | 17.1 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Duurzame warmte voor bestaande woningen) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=2.2) | Zonneboilers en warmtepompen, niet zijnde lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-09 | 32.000.000 |
 |   |   |   | Lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-09 | 4.000.000 |
@@ -197,7 +197,7 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 
-2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-12-22&g=2009-12-22), is van overeenkomstige toepassing.
+2. [Artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024957&artikel=1&z=2009-12-31&g=2009-12-31), is van overeenkomstige toepassing.
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
