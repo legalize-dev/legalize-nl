@@ -4,7 +4,7 @@ identifier: "BWBR0017624"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-09-01"
-last_updated: "2009-09-04"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017624"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. gevaarlijke stoffen: gevaarlijke stoffen als bedoeld in de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606);
 
-- g. hoofdspoorweg: hoofdspoorweg als bedoeld in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2);
+- g. hoofdspoorweg: hoofdspoorweg als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2), of [artikel 124, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=124);
 
 - h. gebruik van een hoofdspoorweg: met een spoorvoertuig rijden over of stilstaan op een hoofdspoorweg;
 
@@ -160,9 +160,9 @@ De spoorwegonderneming draagt er zorg voor dat tijdens het gebruik in haar opdra
 
 1. Voor het vertrek vergewist de bestuurder zich ervan of:
 
-- a. een onderzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=2&z=2009-09-04&g=2009-09-04), is verricht;
+- a. een onderzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=2&z=2009-12-31&g=2009-12-31), is verricht;
 
-- b. aan [artikel 3, eerste lid, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=3&z=2009-09-04&g=2009-09-04), is voldaan;
+- b. aan [artikel 3, eerste lid, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=3&z=2009-12-31&g=2009-12-31), is voldaan;
 
 - c. de dodemansinrichting goed functioneert;
 
@@ -180,9 +180,9 @@ De spoorwegonderneming draagt er zorg voor dat tijdens het gebruik in haar opdra
 
 2. Het is de bestuurder verboden te vertrekken indien:
 
-- a. geen onderzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=2&z=2009-09-04&g=2009-09-04), is verricht;
+- a. geen onderzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=2&z=2009-12-31&g=2009-12-31), is verricht;
 
-- b. niet aan [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=3&z=2009-09-04&g=2009-09-04), is voldaan;
+- b. niet aan [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=3&z=2009-12-31&g=2009-12-31), is voldaan;
 
 - c. de inrichtingen of middelen, bedoeld in het eerste lid, onderdelen c, d of e, niet goed functioneren;
 
@@ -202,13 +202,13 @@ De beheerder verstrekt aan de spoorwegondernemingen informatie omtrent de hoofds
 
 ##### Artikel 9
 
-1. Onverminderd de door seinen aangegeven maximumsnelheid is het de bestuurder verboden over een hoofdspoorweg te rijden met een hogere dan door de betrokken spoorwegonderneming voor de trein vastgestelde maximum snelheid.
+1. Onverminderd [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=8a&z=2009-12-31&g=2009-12-31) en de door seinen aangegeven maximumsnelheid is het de bestuurder verboden over een hoofdspoorweg te rijden met een hogere dan door de betrokken spoorwegonderneming voor de trein vastgestelde maximum snelheid.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over het vaststellen van de maximum snelheid.
 
 ##### Artikel 10
 
-1. Het is de bestuurder verboden over een hoofdspoorweg te rijden met een zodanige snelheid, dat hij niet in staat is de trein tot stilstand te brengen binnen de afstand waarover hij de spoorweg kan overzien en waarover deze vrij is, indien:
+1. Onverminderd [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=8a&z=2009-12-31&g=2009-12-31) is het de bestuurder verboden over een hoofdspoorweg te rijden met een zodanige snelheid, dat hij niet in staat is de trein tot stilstand te brengen binnen de afstand waarover hij de spoorweg kan overzien en waarover deze vrij is, indien:
 
 - a. hij rijdt op een gedeelte van de hoofdspoorweg waar het verkeer niet wordt geregeld door lichtseinen,
 
@@ -218,7 +218,7 @@ De beheerder verstrekt aan de spoorwegondernemingen informatie omtrent de hoofds
 
 - d. hij via de voorgeschreven communicatiemiddelen een alarmsignaal heeft ontvangen, met dien verstande dat de snelheid ten hoogste 40 km/h mag bedragen.
 
-2. Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=9&z=2009-09-04&g=2009-09-04) is het de bestuurder verboden met een hogere snelheid dan 40 km/h te rijden indien de trein uit meerdere voertuigen bestaat en deze niet is uitgerust met een doorgaande en zelfwerkende reminrichting.
+2. Onverminderd [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=8a&z=2009-12-31&g=2009-12-31) en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=9&z=2009-12-31&g=2009-12-31) is het de bestuurder verboden met een hogere snelheid dan 40 km/h te rijden indien de trein uit meerdere voertuigen bestaat en deze niet is uitgerust met een doorgaande en zelfwerkende reminrichting.
 
 3. Onze Minister kan gedeelten van de hoofdspoorweg als bedoeld in het eerste lid, onderdeel a, aanwijzen waarop het verbod, bedoeld in dat lid, niet van toepassing is.
 
@@ -230,7 +230,7 @@ Het is verboden met een spoorvoertuig over een hoofdspoorweg te rijden of te doe
 
 1. Het is verboden met een spoorvoertuig over een hoofdspoorweg te rijden of te doen of laten rijden indien de lading daarvan buiten het bij ministeriële regeling vastgestelde omgrenzingsprofiel voor spoorvoertuigen uitsteekt.
 
-2. Onverminderd [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=11&artikel=40&z=2009-09-04&g=2009-09-04) is het eerste lid niet van toepassing indien:
+2. Onverminderd [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=11&artikel=40&z=2009-12-31&g=2009-12-31) is het eerste lid niet van toepassing indien:
 
 - a. de afmetingen van de lading blijven binnen het bij ministeriële regeling vastgestelde profiel,
 
@@ -280,9 +280,17 @@ Het is verboden met een spoorvoertuig over een hoofdspoorweg te rijden of te doe
 
 ##### Artikel 16
 
-1. Het is de bestuurder die over een gedeelte van een hoofdspoorweg rijdt, dat is gelegen in een voor het openbaar verkeer openstaande weg als bedoeld in de [Wegenverkeerswet 1994](onbekend), verboden zich zodanig te gedragen dat gevaar op de weg wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer op die weg wordt gehinderd of kan worden gehinderd.
+1. De bestuurder die over hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2) rijdt, die gelegen zijn in een kruising of een samenloop met een voor het openbaar verkeer openstaande weg als bedoeld in de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) en die niet worden aangeduid als een overweg door middel van de borden J12 en J13 van [bijlage 1 bij het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1) is verplicht:
 
-2. De weggebruikers verlenen aldaar voorrang aan spoorvoertuigen.
+- a. de snelheid te verminderen en zonodig te stoppen als de veiligheid van het verkeer dat verlangt;
+
+- b. de weggebruikers voor te laten gaan;
+
+- c. de aanwijzingen 1 tot en met 7 van [bijlage 2, behorende bij het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=2), op te volgen;
+
+- d. aan de weggebruikers de voor het rijden van de trein en voor de veiligheid van het verkeer benodigde stoptekens, bedoeld in [artikel 82, vierde lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=82), en andere aanwijzingen te geven.
+
+2. Wanneer de bestuurder de stoptekens en aanwijzingen in het eerste lid, onder d, niet kan geven, worden deze gegeven door de rangeerder die de trein begeleidt.
 
 ##### Artikel 17
 
@@ -320,7 +328,7 @@ Bij ministeriële regeling worden nadere regels gesteld over de aard, uitvoering
 
 De beheerder draagt er zorg voor:
 
-- a. dat gedeelten van de hoofdspoorweg, die buiten dienst zijn gesteld als bedoeld in [artikel 64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=64), worden aangeduid met de daartoe door de beheerder aangewezen seinen overeenkomstig het krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=20&z=2009-09-04&g=2009-09-04) bepaalde;
+- a. dat gedeelten van de hoofdspoorweg, die buiten dienst zijn gesteld als bedoeld in [artikel 64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=64), worden aangeduid met de daartoe door de beheerder aangewezen seinen overeenkomstig het krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=20&z=2009-12-31&g=2009-12-31) bepaalde;
 
 - b. dat de hoofdspoorweg ter plaatse waar werkzaamheden aan of nabij die hoofdspoorweg worden uitgevoerd, in de bij ministeriële regeling bepaalde gevallen buiten dienst wordt gesteld of doelmatig wordt afgeschermd;
 
@@ -414,7 +422,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 ##### Artikel 29
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=2&z=2009-09-04&g=2009-09-04), [3, met uitzondering van het eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=3&z=2009-09-04&g=2009-09-04), [4, met uitzondering van het eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=4&z=2009-09-04&g=2009-09-04), [6, met uitzondering van het eerste lid, aanhef en onderdeel b, voor zover het artikel 3, eerste lid, onderdeel c betreft, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=6&z=2009-09-04&g=2009-09-04), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=26&z=2009-09-04&g=2009-09-04) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=27&z=2009-09-04&g=2009-09-04), zijn niet van toepassing bij rangeren en parkeren uitsluitend binnen een spoorwegemplacement.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=2&z=2009-12-31&g=2009-12-31), [3, met uitzondering van het eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=3&z=2009-12-31&g=2009-12-31), [4, met uitzondering van het eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=4&z=2009-12-31&g=2009-12-31), [6, met uitzondering van het eerste lid, aanhef en onderdeel b, voor zover het artikel 3, eerste lid, onderdeel c betreft, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=6&z=2009-12-31&g=2009-12-31), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=26&z=2009-12-31&g=2009-12-31) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=27&z=2009-12-31&g=2009-12-31), zijn niet van toepassing bij rangeren en parkeren uitsluitend binnen een spoorwegemplacement.
 
 ##### Artikel 30
 
@@ -462,7 +470,7 @@ Het is de bestuurder verboden tijdens het vertrek van de trein een remming als g
 
 ##### Artikel 38
 
-Bij ministeriële regeling kunnen nadere regels gesteld worden over aanwijzingen als bedoeld in de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=4&z=2009-09-04&g=2009-09-04), [12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=12&z=2009-09-04&g=2009-09-04), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=13&z=2009-09-04&g=2009-09-04), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=15&z=2009-09-04&g=2009-09-04), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=18&z=2009-09-04&g=2009-09-04), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=5&artikel=22&z=2009-09-04&g=2009-09-04), en [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=5&artikel=23&z=2009-09-04&g=2009-09-04).
+Bij ministeriële regeling kunnen nadere regels gesteld worden over aanwijzingen als bedoeld in de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=4&z=2009-12-31&g=2009-12-31), [12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=12&z=2009-12-31&g=2009-12-31), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=13&z=2009-12-31&g=2009-12-31), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=15&z=2009-12-31&g=2009-12-31), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=18&z=2009-12-31&g=2009-12-31), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=5&artikel=22&z=2009-12-31&g=2009-12-31), en [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=5&artikel=23&z=2009-12-31&g=2009-12-31).
 
 ##### Artikel 39
 
@@ -472,11 +480,11 @@ Het is verboden om tijdens de reis met een trein van het hoge-snelheidsspoorwegs
 
 ##### Artikel 40
 
-1. Onze Minister kan ontheffing of vrijstelling verlenen van het bij [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=9&artikel=34&z=2009-09-04&g=2009-09-04) bepaalde en, gehoord de beheerder, van het bepaalde bij of krachtens de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=12&z=2009-09-04&g=2009-09-04) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=25&z=2009-09-04&g=2009-09-04).
+1. Onze Minister kan ontheffing of vrijstelling verlenen van het bij [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=9&artikel=34&z=2009-12-31&g=2009-12-31) bepaalde en, gehoord de beheerder, van het bepaalde bij of krachtens de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=12&z=2009-12-31&g=2009-12-31) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=25&z=2009-12-31&g=2009-12-31).
 
 2. Aan de ontheffing of vrijstelling kunnen voorschriften of beperkingen worden verbonden in het belang van een veilig en ongestoord gebruik van de hoofdspoorwegen.
 
-3. Onze Minister kan, de beheerder gehoord indien het de toepassing van de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=12&z=2009-09-04&g=2009-09-04), en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=25&z=2009-09-04&g=2009-09-04) betreft, de ontheffing of vrijstelling wijzigen of intrekken:
+3. Onze Minister kan, de beheerder gehoord indien het de toepassing van de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=12&z=2009-12-31&g=2009-12-31), en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=25&z=2009-12-31&g=2009-12-31) betreft, de ontheffing of vrijstelling wijzigen of intrekken:
 
 - a. indien de door de aanvrager verstrekte gegevens zodanig onjuist of onvolledig blijken te zijn, dat op de aanvraag anders zou zijn beslist indien de juiste gegevens bij de beoordeling van de aanvraag bekend zouden zijn geweest;
 
@@ -488,7 +496,7 @@ Het is verboden om tijdens de reis met een trein van het hoge-snelheidsspoorwegs
 
 ##### Artikel 41
 
-Overtreding van de [artikelen 2, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=2&z=2009-09-04&g=2009-09-04), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=3&z=2009-09-04&g=2009-09-04), [4, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=4&z=2009-09-04&g=2009-09-04), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=5&z=2009-09-04&g=2009-09-04), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=6&z=2009-09-04&g=2009-09-04), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=7&z=2009-09-04&g=2009-09-04), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=8&z=2009-09-04&g=2009-09-04), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=9&z=2009-09-04&g=2009-09-04), [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=10&z=2009-09-04&g=2009-09-04), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=11&z=2009-09-04&g=2009-09-04), [12, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=12&z=2009-09-04&g=2009-09-04), [13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=13&z=2009-09-04&g=2009-09-04), [14, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=14&z=2009-09-04&g=2009-09-04), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=15&z=2009-09-04&g=2009-09-04), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=16&z=2009-09-04&g=2009-09-04), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=17&z=2009-09-04&g=2009-09-04), [18, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=18&z=2009-09-04&g=2009-09-04), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=19&z=2009-09-04&g=2009-09-04), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=21&z=2009-09-04&g=2009-09-04), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=5&artikel=22&z=2009-09-04&g=2009-09-04), [23, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=5&artikel=23&z=2009-09-04&g=2009-09-04), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=24&z=2009-09-04&g=2009-09-04), [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=25&z=2009-09-04&g=2009-09-04), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=27&z=2009-09-04&g=2009-09-04), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=30&z=2009-09-04&g=2009-09-04), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=31&z=2009-09-04&g=2009-09-04), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=9&artikel=33&z=2009-09-04&g=2009-09-04), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=9&artikel=34&z=2009-09-04&g=2009-09-04), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=9&artikel=35&z=2009-09-04&g=2009-09-04), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=10&artikel=36&z=2009-09-04&g=2009-09-04), [37, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=10&artikel=37&z=2009-09-04&g=2009-09-04), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=10&artikel=39&z=2009-09-04&g=2009-09-04) en [40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=11&artikel=40&z=2009-09-04&g=2009-09-04), vormt een strafbaar feit in de zin van [artikel 87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=87).
+Overtreding van de [artikelen 2, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=2&z=2009-12-31&g=2009-12-31), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=3&z=2009-12-31&g=2009-12-31), [4, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=4&z=2009-12-31&g=2009-12-31), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=5&z=2009-12-31&g=2009-12-31), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=6&z=2009-12-31&g=2009-12-31), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=7&z=2009-12-31&g=2009-12-31), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=8&z=2009-12-31&g=2009-12-31), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=8a&z=2009-12-31&g=2009-12-31), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=9&z=2009-12-31&g=2009-12-31), [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=10&z=2009-12-31&g=2009-12-31), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=11&z=2009-12-31&g=2009-12-31), [12, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=12&z=2009-12-31&g=2009-12-31), [13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=13&z=2009-12-31&g=2009-12-31), [14, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=14&z=2009-12-31&g=2009-12-31), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=15&z=2009-12-31&g=2009-12-31), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=16&z=2009-12-31&g=2009-12-31), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=17&z=2009-12-31&g=2009-12-31), [18, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=18&z=2009-12-31&g=2009-12-31), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=19&z=2009-12-31&g=2009-12-31), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=21&z=2009-12-31&g=2009-12-31), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=5&artikel=22&z=2009-12-31&g=2009-12-31), [23, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=5&artikel=23&z=2009-12-31&g=2009-12-31), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=24&z=2009-12-31&g=2009-12-31), [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=25&z=2009-12-31&g=2009-12-31), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=27&z=2009-12-31&g=2009-12-31), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=30&z=2009-12-31&g=2009-12-31), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=31&z=2009-12-31&g=2009-12-31), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=9&artikel=33&z=2009-12-31&g=2009-12-31), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=9&artikel=34&z=2009-12-31&g=2009-12-31), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=9&artikel=35&z=2009-12-31&g=2009-12-31), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=10&artikel=36&z=2009-12-31&g=2009-12-31), [37, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=10&artikel=37&z=2009-12-31&g=2009-12-31), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=10&artikel=39&z=2009-12-31&g=2009-12-31) en [40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=11&artikel=40&z=2009-12-31&g=2009-12-31), vormt een strafbaar feit in de zin van [artikel 87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=87).
 
 #### § 13. Slotbepalingen
 
@@ -499,5 +507,33 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 43
 
 Dit besluit wordt aangehaald als: Besluit spoorverkeer.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 8a
+
+Op hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=2) bedraagt de maximumsnelheid 30 kilometer per uur.
+
+#### § 3. Seinen
+
+#### § 4. Werkzaamheden aan of nabij de hoofdspoorweg
+
+#### § 5. Verplichtingen bij onregelmatigheden
+
+#### § 6. Samenstelling treinen
+
+#### § 7. Verlichting en signalering
+
+#### § 8. Gebruik van hoofdspoorwegen uitsluitend binnen spoorwegemplacementen
+
+#### § 9. Noodremming
+
+#### § 10. Diverse bepalingen
+
+#### § 11. Ontheffing en vrijstelling
+
+#### § 12. Bepalingen van strafrechtelijke aard
+
+#### § 13. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
