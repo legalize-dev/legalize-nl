@@ -4,7 +4,7 @@ identifier: "BWBR0026984"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2009-12-31"
-last_updated: "2009-11-01"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026984"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ De commissie brengt bij voorkeur in februari 2010 aan mij een rapport uit over h
 
 ##### Artikel 9
 
-De commissie wordt uiterlijk vier weken na het uitbrengen van het rapport, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026984&artikel=8&z=2009-12-31&g=2009-11-01), ontbonden.
+De commissie wordt uiterlijk vier weken na het uitbrengen van het rapport, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026984&artikel=8&z=2009-12-31&g=2009-12-31), ontbonden.
 
 ##### Artikel 10
 
