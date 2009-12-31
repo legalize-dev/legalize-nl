@@ -4,7 +4,7 @@ identifier: "BWBR0017626"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2007-05-16"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017626"
 soort: "AMvB"
@@ -53,7 +53,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. wet: [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007);
 
-- b. hoofdspoorweg: hoofdspoorweg als bedoeld in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2);
+- b. hoofdspoorweg: hoofdspoorweg als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2), of [artikel 124, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=124);
 
 - c. gebruik van een hoofdspoorweg: met een spoorvoertuig rijden over of stilstaan op een hoofdspoorweg.
 
@@ -67,7 +67,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Onze Minister kan ontheffing verlenen van de eisen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2007-05-16&g=2007-05-16).
+1. Onze Minister kan ontheffing verlenen van de eisen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2009-12-31&g=2009-12-31).
 
 2. De beheerder legt bij zijn aanvraag voor een ontheffing de bescheiden over en verstrekt de inlichtingen die Onze Minister noodzakelijk acht.
 
@@ -95,13 +95,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De aanvraag voor een keuring als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=4&z=2007-05-16&g=2007-05-16), wordt ingediend door degene, die zorg draagt voor de aanleg van hoofdspoorweginfrastructuur.
+1. De aanvraag voor een keuring als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=4&z=2009-12-31&g=2009-12-31), wordt ingediend door degene, die zorg draagt voor de aanleg van hoofdspoorweginfrastructuur.
 
-2. De aanvraag voor een keuring als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=4&z=2007-05-16&g=2007-05-16), wordt ingediend door de fabrikant, de eigenaar of de houder van het onderdeel.
+2. De aanvraag voor een keuring als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=4&z=2009-12-31&g=2009-12-31), wordt ingediend door de fabrikant, de eigenaar of de houder van het onderdeel.
 
 3. Bij de aanvraag wordt een informatiedossier overgelegd.
 
-4. Onze Minister kan besluiten dat voor een aanpassing van bestaande hoofdspoorweginfrastructuur een keuring als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=4&z=2007-05-16&g=2007-05-16), wordt aangevraagd.
+4. Onze Minister kan besluiten dat voor een aanpassing van bestaande hoofdspoorweginfrastructuur een keuring als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=4&z=2009-12-31&g=2009-12-31), wordt aangevraagd.
 
 5. Onder aanpassing van bestaande hoofdspoorweginfrastructuur wordt voor de toepassing van dit artikel verstaan het uitvoeren van ingrijpende werkzaamheden tot wijziging van deze infrastructuur die van invloed zijn op de prestaties daarvan.
 
@@ -109,11 +109,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Betreft de keuring hoofdspoorweginfrastructuur dan geeft de keuringsinstantie daarvoor een goedkeuringscertificaat af indien deze hoofdspoorweginfrastructuur in overeenstemming is met het informatiedossier en voldoet aan de toepasselijke technische specificaties inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 96/48/EG onderscheidenlijk van richtlijn 2001/16/EG.
 
-2. De bij de ministeriële regeling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2007-05-16&g=2007-05-16), vastgestelde eisen, gelden voor de afgifte van een goedkeuringscertificaat als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 2001/16/EG.
+2. De bij de ministeriële regeling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2009-12-31&g=2009-12-31), vastgestelde eisen, gelden voor de afgifte van een goedkeuringscertificaat als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 2001/16/EG.
 
 3. De krachtens [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=7) bij ministeriële regeling gestelde eisen met betrekking tot het systeem van treinbeïnvloeding gelden voor de afgifte van een goedkeuringscertificaat als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 96/48/EG onderscheidenlijk van richtlijn 2001/16/EG.
 
-4. De krachtens [artikel 19, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=6&artikel=19&z=2007-05-16&g=2007-05-16), bij ministeriële regeling gestelde eisen gelden voor de afgifte van een goedkeuringscertificaat als technische specificaties inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 96/48/EG onderscheidenlijk van richtlijn 2001/16/EG.
+4. De krachtens [artikel 19, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=6&artikel=19&z=2009-12-31&g=2009-12-31), bij ministeriële regeling gestelde eisen gelden voor de afgifte van een goedkeuringscertificaat als technische specificaties inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 96/48/EG onderscheidenlijk van richtlijn 2001/16/EG.
 
 ##### Artikel 7
 
@@ -125,7 +125,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 8
 
-1. In afwijking van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=6&z=2007-05-16&g=2007-05-16) en [7, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=7&z=2007-05-16&g=2007-05-16), mag de keuringsinstantie in geval van hoofdspoorweginfrastructuur of onderdelen waarin technologieën of concepten zijn verwerkt, die wegens hun specifieke aard niet aan een of meer van de in die artikelen bedoelde eisen kunnen voldoen, van die eisen afwijken, indien deze technologieën of concepten tenminste dezelfde waarborgen bieden voor de veiligheid of de interoperabiliteit van het verkeer over de hoofdspoorwegen als die eisen.
+1. In afwijking van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=6&z=2009-12-31&g=2009-12-31) en [7, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=7&z=2009-12-31&g=2009-12-31), mag de keuringsinstantie in geval van hoofdspoorweginfrastructuur of onderdelen waarin technologieën of concepten zijn verwerkt, die wegens hun specifieke aard niet aan een of meer van de in die artikelen bedoelde eisen kunnen voldoen, van die eisen afwijken, indien deze technologieën of concepten tenminste dezelfde waarborgen bieden voor de veiligheid of de interoperabiliteit van het verkeer over de hoofdspoorwegen als die eisen.
 
 2. De afwijking wordt afzonderlijk vermeld in het betrokken certificaat van overeenstemming of in het betrokken goedkeuringscertificaat.
 
@@ -133,13 +133,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 9
 
-1. Aan een certificaat van overeenstemming als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=7&z=2007-05-16&g=2007-05-16), en aan een goedkeuringscertificaat als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=6&z=2007-05-16&g=2007-05-16) of [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=7&z=2007-05-16&g=2007-05-16), kunnen voorschriften worden verbonden of deze documenten kunnen onder beperkingen worden afgegeven.
+1. Aan een certificaat van overeenstemming als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=7&z=2009-12-31&g=2009-12-31), en aan een goedkeuringscertificaat als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=6&z=2009-12-31&g=2009-12-31) of [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=7&z=2009-12-31&g=2009-12-31), kunnen voorschriften worden verbonden of deze documenten kunnen onder beperkingen worden afgegeven.
 
 2. Het is verboden in strijd met deze voorschriften of beperkingen de betrokken onderdelen in de handel te brengen of te gebruiken.
 
 ##### Artikel 10
 
-1. De keuringsinstantie stelt van keuringen als bedoeld in de [paragrafen twee](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&z=2007-05-16&g=2007-05-16) en [drie](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=3&z=2007-05-16&g=2007-05-16) telkens een technisch dossier samen.
+1. De keuringsinstantie stelt van keuringen als bedoeld in de [paragrafen twee](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&z=2009-12-31&g=2009-12-31) en [drie](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=3&z=2009-12-31&g=2009-12-31) telkens een technisch dossier samen.
 
 2. Nadat het besluit van de keuringsinstantie met betrekking tot deze keuring onherroepelijk is geworden, stelt de keuringsinstantie het betrokken technische dossier aan de aanvrager van de keuring ter beschikking.
 
@@ -149,13 +149,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld over de vorm en inhoud van:
 
-- 1°. het informatiedossier, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=5&z=2007-05-16&g=2007-05-16);
+- 1°. het informatiedossier, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=5&z=2009-12-31&g=2009-12-31);
 
-- 2°. het certificaat van overeenstemming, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=7&z=2007-05-16&g=2007-05-16);
+- 2°. het certificaat van overeenstemming, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=7&z=2009-12-31&g=2009-12-31);
 
-- 3°. de goedkeuringscertificaten, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=6&z=2007-05-16&g=2007-05-16) en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=7&z=2007-05-16&g=2007-05-16);
+- 3°. de goedkeuringscertificaten, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=6&z=2009-12-31&g=2009-12-31) en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=7&z=2009-12-31&g=2009-12-31);
 
-- 4°. het technisch dossier, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=10&z=2007-05-16&g=2007-05-16).
+- 4°. het technisch dossier, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=10&z=2009-12-31&g=2009-12-31).
 
 #### § 3. Keuring na herstel
 
@@ -165,7 +165,7 @@ Indien hoofdspoorweginfrastructuur die overeenkomstig de [wet](https://wetten.ov
 
 ##### Artikel 13
 
-1. De aanvraag voor een keuring als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=3&artikel=12&z=2007-05-16&g=2007-05-16) wordt door de beheerder ingediend.
+1. De aanvraag voor een keuring als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=3&artikel=12&z=2009-12-31&g=2009-12-31) wordt door de beheerder ingediend.
 
 2. Bij de aanvraag wordt een informatiedossier overgelegd.
 
@@ -173,29 +173,29 @@ Indien hoofdspoorweginfrastructuur die overeenkomstig de [wet](https://wetten.ov
 
 1. De keuringsinstantie keurt de herstelde hoofdspoorweginfrastructuur goed indien deze voldoet aan de toepasselijke technische specificaties inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 2001/16/EG, respectievelijk artikel 2, onderdeel g, van richtlijn 96/48/EG.
 
-2. De bij de ministeriële regeling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2007-05-16&g=2007-05-16), vastgestelde eisen, gelden voor de afgifte van een goedkeuringscertificaat als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 2001/16/EG.
+2. De bij de ministeriële regeling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2009-12-31&g=2009-12-31), vastgestelde eisen, gelden voor de afgifte van een goedkeuringscertificaat als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 2001/16/EG.
 
 3. De krachtens [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=7) bij regeling van Onze Minister gestelde eisen met betrekking tot het systeem van treinbeïnvloeding gelden voor de afgifte van de EG-keuringsverklaring als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 96/48/EG onderscheidenlijk van richtlijn 2001/16/EG.
 
-4. De krachtens [artikel 19, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=6&artikel=19&z=2007-05-16&g=2007-05-16), bij ministeriële regeling gestelde eisen gelden voor de afgifte van een goedkeuringscertificaat als technische specificaties inzake interoperabiliteit.
+4. De krachtens [artikel 19, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=6&artikel=19&z=2009-12-31&g=2009-12-31), bij ministeriële regeling gestelde eisen gelden voor de afgifte van een goedkeuringscertificaat als technische specificaties inzake interoperabiliteit.
 
 5. Na goedkeuring verstrekt de keuringsinstantie voor de herstelde hoofdspoorweginfrastructuur een goedkeuringscertificaat.
 
 ##### Artikel 15
 
-Indien de keuringsinstantie de herstelde hoofdspoorweginfrastructuur afkeurt, vervalt de geldigheid van de met betrekking tot die infrastructuur verleende goedkeuring als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=3&artikel=12&z=2007-05-16&g=2007-05-16) op het tijdstip waarop het besluit van de keuringsinstantie onherroepelijk wordt.
+Indien de keuringsinstantie de herstelde hoofdspoorweginfrastructuur afkeurt, vervalt de geldigheid van de met betrekking tot die infrastructuur verleende goedkeuring als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=3&artikel=12&z=2009-12-31&g=2009-12-31) op het tijdstip waarop het besluit van de keuringsinstantie onherroepelijk wordt.
 
 #### § 4. Intrekking en verval geldigheid goedkeuringscertificaat
 
 ##### Artikel 16
 
-1. Indien de keuringsinstantie vaststelt, dat een onderdeel waarvoor deze instantie een goedkeuringscertificaat als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=7&z=2007-05-16&g=2007-05-16) heeft afgegeven, niet langer voldoet aan de bij ministeriële regeling als bedoeld in dat artikel gestelde eisen, stelt deze instantie de beheerder, die het onderdeel gebruikt, of de eigenaar of houder daarvan in de gelegenheid het gebrek te herstellen binnen een door deze instantie te stellen termijn.
+1. Indien de keuringsinstantie vaststelt, dat een onderdeel waarvoor deze instantie een goedkeuringscertificaat als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=7&z=2009-12-31&g=2009-12-31) heeft afgegeven, niet langer voldoet aan de bij ministeriële regeling als bedoeld in dat artikel gestelde eisen, stelt deze instantie de beheerder, die het onderdeel gebruikt, of de eigenaar of houder daarvan in de gelegenheid het gebrek te herstellen binnen een door deze instantie te stellen termijn.
 
 2. Indien de beheerder, eigenaar of houder niet voldoet aan het eerste lid, doet de keuringsinstantie daarvan melding aan Onze Minister, die het betrokken goedkeuringscertificaat kan intrekken.
 
 ##### Artikel 17
 
-De geldigheid van een goedkeuringscertificaat als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=6&z=2007-05-16&g=2007-05-16) vervalt van rechtswege bij de definitieve buitengebruikstelling van de betrokken hoofdspoorweginfrastructuur.
+De geldigheid van een goedkeuringscertificaat als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=6&z=2009-12-31&g=2009-12-31) vervalt van rechtswege bij de definitieve buitengebruikstelling van de betrokken hoofdspoorweginfrastructuur.
 
 #### § 5. Registratie en bewaring van gegevens of documenten
 
@@ -203,7 +203,7 @@ De geldigheid van een goedkeuringscertificaat als bedoeld in [artikel 6](https:/
 
 1. De keuringsinstantie voert een deugdelijke registratie terzake van de krachtens dit besluit verrichte keuringen en afgegeven, ingetrokken of geweigerde certificaten.
 
-2. De keuringsinstantie bewaart afschriften van technische dossiers als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=10&z=2007-05-16&g=2007-05-16).
+2. De keuringsinstantie bewaart afschriften van technische dossiers als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=10&z=2009-12-31&g=2009-12-31).
 
 3. Bij ministeriële regeling kunnen over het eerste of het tweede lid, nadere regels worden gesteld.
 
@@ -229,7 +229,7 @@ De geldigheid van een goedkeuringscertificaat als bedoeld in [artikel 6](https:/
 
 - b. de verbetering of vernieuwing gevolgen heeft voor de algehele veiligheid van de desbetreffende hoofdspoorweginfrastructuur.
 
-7. De krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2007-05-16&g=2007-05-16) van dit besluit bij regeling van Onze Minister vastgestelde eisen gelden voor de afgifte van een EG-keuringsverklaring als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 2001/16/EG.
+7. De krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2009-12-31&g=2009-12-31) van dit besluit bij regeling van Onze Minister vastgestelde eisen gelden voor de afgifte van een EG-keuringsverklaring als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 2001/16/EG.
 
 8. De krachtens [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=7) bij regeling van Onze Minister gestelde eisen met betrekking tot het systeem van automatische treinbeïnvloeding gelden voor de afgifte van de EG-keuringsverklaring als technische voorschriften inzake interoperabiliteit, bedoeld in artikel 2, onderdeel g, van richtlijn 96/48/EG onderscheidenlijk van richtlijn 2001/16/EG.
 
@@ -305,7 +305,7 @@ Onze Minister kan een vergunning als bedoeld in [artikel 19 van de wet](https://
 
 ##### Artikel 24
 
-De [artikelen 21, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=7&artikel=21&z=2007-05-16&g=2007-05-16), [22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=7&artikel=22&z=2007-05-16&g=2007-05-16), en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=7&artikel=23&z=2007-05-16&g=2007-05-16) zijn van overeenkomstige toepassing op het verlenen van een ontheffing als bedoeld in [artikel 21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=21).
+De [artikelen 21, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=7&artikel=21&z=2009-12-31&g=2009-12-31), [22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=7&artikel=22&z=2009-12-31&g=2009-12-31), en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=7&artikel=23&z=2009-12-31&g=2009-12-31) zijn van overeenkomstige toepassing op het verlenen van een ontheffing als bedoeld in [artikel 21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=21).
 
 #### § 8. Spoorwegbruggen
 
