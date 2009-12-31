@@ -139,9 +139,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 Dit besluit wordt aangehaald als: Beleidsregel Boete werknemer 2010.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 13a
-
-Met ingang van 1 januari 2013 geldt deze beleidsregel alleen nog maar voor gevallen die, op grond van het in de [Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0032087) van 4 oktober 2012 (Staatsblad 462, 2012) opgenomen overgangsrecht, nog onder het recht, geldend op 31 december 2012, vallen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
