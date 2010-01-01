@@ -4,7 +4,7 @@ identifier: "BWBR0027779"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2009-10-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027779"
 soort: "wet"
@@ -77,11 +77,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIIIa. Wijziging van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
 ##### Artikel VIIIb. Wijziging van de [Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.
 
 ##### Artikel IX. Inwerkingtreding
 
