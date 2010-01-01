@@ -4,7 +4,7 @@ identifier: "BWBR0027014"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-18"
-last_updated: "2009-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027014"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling willekeurige afschrijving 2001.
 
 ##### Artikel III
 
@@ -60,19 +60,19 @@ Wijzigt de Uitvoeringsregeling loonbelasting 2001.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling afdrachtvermindering.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
 ##### Artikel VIII
 
@@ -80,43 +80,43 @@ Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Regeling bekendmaking percentage heffingsrente en invorderingsrente bij belastingen.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+De [Uitvoeringsregeling vakbekwaamheidseisen Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007229) wordt ingetrokken.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling Wob Financiën.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene douaneregeling.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling accijns.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
 ##### Artikel XIX
 
@@ -124,14 +124,38 @@ Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 3 van de Uitvoeringsregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=3), zoals dat artikel luidde op 31 december 2009, blijft van toepassing met betrekking tot belastingaanslagen ter zake van inkomstenbelasting wegens een schenking van tot een aanmerkelijk belang behorende aandelen of winstbewijzen die voor 1 januari 2010 heeft plaatsgevonden, met dien verstande dat het vijfde lid van artikel 3 van de Uitvoeringsregeling Invorderingswet 1990 zoals dat artikel luidt met ingang van 1 januari 2010, eveneens van toepassing is.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een functionaris die op grond van de [Uitvoeringsregeling belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506) en de [Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291), zoals deze luiden na inwerkingtreding van deze regeling, is aangewezen als directeur, inspecteur of ontvanger treedt in de plaats van de functionaris die als zodanig vóór inwerkingtreding van deze regeling bevoegd was.
+
+2. Beslissingen die zijn of worden genomen door een directeur, inspecteur of ontvanger die als zodanig vóór inwerkingtreding van deze regeling bevoegd was, worden geacht te zijn genomen door de directeur, inspecteur of ontvanger die als zodanig op grond van de [Uitvoeringsregeling belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506) en de [Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291), zoals deze luiden na inwerkingtreding van deze regeling, is aangewezen.
+
+3. Ingeval in een beschikking na inwerkingtreding van deze regeling wordt verwezen naar een (onderdeel van een) organisatieonderdeel dan wel een functionaris, genoemd in de [Uitvoeringsregeling belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506) of de [Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291), zoals deze luidden vóór inwerkingtreding van deze regeling, wordt dit geacht een verwijzing te zijn naar het daarvoor in de plaats gekomen (onderdeel van het) organisatieonderdeel dan wel de daarvoor in de plaats gekomen functionaris in de Uitvoeringsregeling belastingdienst 2003 of de Algemene douaneregeling, zoals deze luiden na inwerkingtreding van deze regeling.
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van 1 januari 2010, met dien verstande dat:
+
+- a. de [artikelen I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=I&z=2010-01-01&g=2010-01-01), en [VII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=VII&z=2010-01-01&g=2010-01-01), voor het eerst toepassing vinden met betrekking tot belastingaanslagen voor inkomstenbelasting ter zake van tijdvakken die aanvangen op of na 1 januari 2010;
+
+- b. [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=I&z=2010-01-01&g=2010-01-01), terug werkt tot en met 1 januari 2009;
+
+- c. [artikel III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=III&z=2010-01-01&g=2010-01-01), terugwerkt tot en met 1 januari 2008;
+
+- d. [artikel III, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=III&z=2010-01-01&g=2010-01-01), terugwerkt tot en met 1 januari 2009;
+
+- e. [artikel VII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=VII&z=2010-01-01&g=2010-01-01), voor het eerst toepassing vindt met betrekking tot inkomensgegevens over het kalenderjaar 2010;
+
+- f. [artikel VIII, onderdeel B, onder 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=VIII&z=2010-01-01&g=2010-01-01), terugwerkt tot en met 1 januari 2008;
+
+- g. [artikel XVI, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=XVI&z=2010-01-01&g=2010-01-01), in werking treedt met ingang van 31 januari 2010.
+
+- h. [artikel XVI, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=XVI&z=2010-01-01&g=2010-01-01), in werking treedt met ingang van 1 maart 2010;
+
+- i. [artikel XVII, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=XVII&z=2010-01-01&g=2010-01-01), in werking treedt met ingang van 1 maart 2010;
+
+- j. [artikel XIX, onderdelen F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=XIX&z=2010-01-01&g=2010-01-01) terugwerkt tot en met 1 januari 2008.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
