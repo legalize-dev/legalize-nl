@@ -4,7 +4,7 @@ identifier: "BWBR0021613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-02-17"
-last_updated: "2007-04-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021613"
 soort: "ministeriele-regeling"
@@ -78,13 +78,13 @@ Aan de algemeen directeur van SenterNovem en de algemeen directeur van NWO wordt
 
 ##### Artikel 4
 
-1. De algemeen directeur van SenterNovem en de algemeen directeur van NWO kan, ieder voor zich, voor de in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021613&artikel=2&z=2007-04-01&g=2007-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0021613&artikel=3&z=2007-04-01&g=2007-04-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende functionarissen.
+1. De algemeen directeur van SenterNovem en de algemeen directeur van NWO kan, ieder voor zich, voor de in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021613&artikel=2&z=2007-04-01&g=2010-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0021613&artikel=3&z=2007-04-01&g=2010-01-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
 2. In uitzondering op het eerste lid is het verlenen van volmacht aan de functionarissen ressorterend onder de algemeen directeur van SenterNovem en de algemeen directeur van NWO om uitvoeringsverplichtingen aan te gaan beperkt tot een bedrag van € 10.000 per verplichting.
 
 ##### Artikel 5
 
-1. Aan het Algemeen Bestuur van NWO wordt mandaat en machtiging verleend voor het mede namens de Minister van Economische Zaken behandelen van bezwaarschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021613&artikel=2&z=2007-04-01&g=2007-04-01), waaronder begrepen het nemen van beslissingen op bezwaarschriften.
+1. Aan het Algemeen Bestuur van NWO wordt mandaat en machtiging verleend voor het mede namens de Minister van Economische Zaken behandelen van bezwaarschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021613&artikel=2&z=2007-04-01&g=2010-01-01), waaronder begrepen het nemen van beslissingen op bezwaarschriften.
 
 2. Aan het Algemeen Bestuur van NWO wordt machtiging verleend voor het mede namens de Minister van Economische Zaken voeren van verweer in de gevallen waarin beroep is ingesteld tegen een beslissing op bezwaarschrift die door het Algemeen Besluit van NWO mede namens de Minister van Economische Zaken is genomen.
 
