@@ -4,7 +4,7 @@ identifier: "BWBR0002784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2009-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002784"
 soort: "ministeriele-regeling"
@@ -39,21 +39,21 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
+1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [23c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
 
 2. Deze regeling verstaat onder de wet: de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672).
 
 ##### Artikel 2
 
-De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2&z=2009-01-01&g=2009-01-01), bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 5 percent.
+De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9) te bepalen redelijke rente voor de in [artikel 2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2&z=2010-01-01&g=2010-01-01), bedoelde ondernemingen van publiekrechtelijke rechtspersonen bedraagt 4,5 percent.
 
 ##### Artikel 2a
 
-1. Voor de toepassing van [artikel 13, elfde lid, laatste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) worden de werkzaamheden van een lichaam als daar bedoeld aangemerkt als actieve financieringswerkzaamheden indien aan de volgende voorwaarden is voldaan:
+1. Voor de toepassing van [artikel 13, twaalfde lid, onderdeel b, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) worden de werkzaamheden van een lichaam als daar bedoeld aangemerkt als actieve financieringswerkzaamheden indien aan de volgende voorwaarden is voldaan:
 
 - a. het lichaam houdt zich anders dan incidenteel bezig met het arrangeren en uitvoeren van financiële transacties ten behoeve van tot het concern behorende lichamen;
 
-- b. het feitelijk van derden aangetrokken vreemd vermogen bedraagt ten minste 20% van de waarde in het economische verkeer van de activa van het lichaam;
+- b. het feitelijk van derden aangetrokken vreemd vermogen bedraagt doorgaans ten minste 20% van de waarde in het economische verkeer van de activa van het lichaam;
 
 - c. het lichaam voert niet langer dan 12 maanden achtereen het beheer over overtollige liquiditeiten die meer belopen dan 10% van het gestorte kapitaal van het lichaam, waarbij kortlopende beleggingen welke worden aangehouden met het oog op de verwerving van deelnemingen buiten beschouwing blijven;
 
@@ -63,7 +63,7 @@ De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.ove
 
 - f. het lichaam verricht de voor deze regeling relevante transacties via eigen bankrekeningen.
 
-2. Indien het lichaam niet voldoet aan de in het eerste lid, onder b, opgenomen voorwaarde wordt het lichaam geacht aan deze voorwaarde te voldoen indien de belastingplichtige aannemelijk maakt dat de behoefte van de tot het concern behorende lichamen waarvoor het lichaam financieringswerkzaamheden verricht, aan feitelijk van derden aangetrokken vreemd vermogen minder is dan 20% van de waarde in het economische verkeer van de activa van het lichaam alsmede dat voornoemde tot het concern behorende lichamen, behoudens vanwege specifieke zakelijke redenen, zelf geen vreemd vermogen feitelijk van derden hebben aangetrokken. Specifieke zakelijke redenen als bedoeld in de vorige volzin doen zich voor, voor zover:
+2. Indien het lichaam niet voldoet aan de in het eerste lid, onder b, opgenomen voorwaarde wordt het lichaam geacht aan deze voorwaarde te voldoen indien de belastingplichtige aannemelijk maakt dat de behoefte van de tot het concern behorende lichamen waarvoor het lichaam financieringswerkzaamheden verricht, aan feitelijk van derden aangetrokken vreemd vermogen minder is dan 20% van de waarde in het economische verkeer van de activa van het lichaam alsmede dat voornoemde tot het concern behorende lichamen, behoudens vanwege specifieke zakelijke redenen, zelf geen vreemd vermogen feitelijk van derden hebben aangetrokken. Specifieke zakelijke redenen als bedoeld in de vorige volzin doen zich in ieder geval voor, voor zover:
 
 - a. het lichaam en een ander tot het concern behorend lichaam in verschillende landen zijn gevestigd en de valuta van het vestigingsland van het andere concernlichaam aan dusdanig grote koersschommelingen onderhevig is dat het voor dat andere concernlichaam niet wenselijk was om feitelijk vreemd vermogen van derden aan te trekken in een andere valuta dan die van zijn vestigingsland;
 
@@ -71,11 +71,35 @@ De ingevolge [artikel 9, eerste lid, onderdeel f, van de wet](https://wetten.ove
 
 - c. door het andere concernlichaam ter financiering van onroerende zaken hypothecaire leningen zijn aangegaan in het land waar deze zaken zijn gelegen.
 
-3. Voor de toepassing van dit artikel wordt als concern aangemerkt de belastingplichtige tezamen met de met hem verbonden lichamen als bedoeld in [artikel 10a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10).
+3. Onder feitelijk van derden aangetrokken vreemd vermogen als bedoeld in het eerste lid, onderdeel b, wordt mede begrepen vreemd vermogen dat verband houdt met door een ander tot het concern behorend lichaam feitelijk van derden aangetrokken vreemd vermogen indien dat andere lichaam om zakelijke redenen het binnen het concern benodigde vreemd vermogen van derden aantrekt.
+
+4. Voor de toepassing van dit artikel wordt als concern aangemerkt de belastingplichtige tezamen met de met hem verbonden lichamen als bedoeld in [artikel 10a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10).
 
 ##### Artikel 2b
 
-Vervallen
+1. Voor de toepassing van [artikel 13, twaalfde lid, onderdeel c, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13) worden de werkzaamheden van een lichaam als daar bedoeld aangemerkt als actieve terbeschikkingstellingswerkzaamheden indien aan de volgende voorwaarden is voldaan:
+
+- a. het lichaam houdt zich anders dan incidenteel bezig met het ter beschikking stellen van bedrijfsmiddelen ten behoeve van tot het concern behorende lichamen;
+
+- b. de aanschaffingskosten van de ter beschikking gestelde bedrijfsmiddelen zijn voor ten minste 20% gefinancierd met feitelijk van derden aangetrokken vreemd vermogen;
+
+- c. het lichaam is in zijn bestuur en de dagelijkse bedrijfsvoering, waarbij de normale bemoeienis met de bedrijfsvoering door de aandeelhouder of de concernleiding buiten beschouwing blijft, zelfstandig in het nemen van beslissingen over:
+
+- 1°. de aanschaf, het onderhoud, de vervreemding en het beheer, waaronder begrepen beslissingen inzake de voorwaarden waaronder ter beschikking wordt gesteld, van materiële vaste activa;
+
+- 2°. de aanschaf, het onderhoud, de ontwikkeling en het beheer, waaronder begrepen beslissingen inzake de voorwaarden waaronder ter beschikking wordt gesteld, van immateriële vaste activa;
+
+- d. het lichaam heeft de economische eigendom van de ter beschikking gestelde bedrijfsmiddelen;
+
+- e. het aantal personen in dienstbetrekking tot het lichaam, hun bevoegdheden en verantwoordelijkheden zijn in overeenstemming met de aard en functie van het lichaam en het lichaam beschikt over een eigen kantoor dat is voorzien van de gebruikelijke faciliteiten, en
+
+- f. het lichaam verricht de voor deze regeling relevante transacties via eigen bankrekeningen.
+
+2. Indien het lichaam niet voldoet aan de in het eerste lid, onderdeel b, opgenomen voorwaarde wordt het lichaam geacht aan deze voorwaarde te voldoen indien de belastingplichtige aannemelijk maakt dat het lichaam ten minste in dezelfde mate met feitelijk van derden aangetrokken vreemd vermogen is gefinancierd als het concern waarvan het lichaam deel uitmaakt.
+
+3. Onder feitelijk van derden aangetrokken vreemd vermogen als bedoeld in het eerste lid, onderdeel b, wordt mede begrepen vreemd vermogen dat verband houdt met door een ander tot het concern behorend lichaam feitelijk van derden aangetrokken vreemd vermogen indien dat andere lichaam om zakelijke redenen het binnen het concern benodigde vreemd vermogen van derden aantrekt.
+
+4. Voor de toepassing van dit artikel wordt als concern aangemerkt de belastingplichtige tezamen met de met hem verbonden lichamen, bedoeld in [artikel 10a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10a).
 
 ##### Artikel 3
 
@@ -113,7 +137,7 @@ Vervallen
 
 ##### Artikel 2c
 
-Vervallen
+Voor de toepassing van de [artikelen 14a, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b) en [23c, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland en Noorwegen.
 
 ##### Artikel 2bis
 
