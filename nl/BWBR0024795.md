@@ -4,7 +4,7 @@ identifier: "BWBR0024795"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-15"
-last_updated: "2008-12-06"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024795"
 soort: "ministeriele-regeling"
@@ -72,13 +72,13 @@ Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgette
 
 ##### Artikel 2.1.2. Begroting, verslaglegging, informatie en toezicht
 
-1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2008-12-06&g=2008-12-06).
+1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2008-12-06&g=2010-01-01).
 
-2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4), is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2008-12-06&g=2008-12-06).
+2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4), is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2008-12-06&g=2010-01-01).
 
 ##### Artikel 2.1.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op de Instituten voor doven
 
-De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2008-12-06&g=2008-12-06), nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
+De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2008-12-06&g=2010-01-01), nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
 
 - a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in [artikel 1.3.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.5);
 
@@ -122,13 +122,13 @@ De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 2.2.2. Begroting, verslaglegging, informatie en toezicht
 
-1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2008-12-06&g=2008-12-06).
+1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2008-12-06&g=2010-01-01).
 
-2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2008-12-06&g=2008-12-06).
+2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2008-12-06&g=2010-01-01).
 
 ##### Artikel 2.2.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op hogeschool Haarlem dan wel diens rechtsopvolgers
 
-De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2008-12-06&g=2008-12-06), neemt voor de beroepsopleidingen verzorgd door die hogeschool, in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
+De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2008-12-06&g=2010-01-01), neemt voor de beroepsopleidingen verzorgd door die hogeschool, in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
 
 - a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in [artikel 1.3.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.5);
 
@@ -200,7 +200,7 @@ De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 - b. de instituten, bedoeld in [artikel 12.3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.8), en
 
-- c. de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2008-12-06&g=2008-12-06).
+- c. de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2008-12-06&g=2010-01-01).
 
 2. De minister verdeelt het voor een kalenderjaar vastgestelde budget ten behoeve van de gehandicapte deelnemers over de instellingen, bedoeld in het eerste lid, naar rato van het totaal van de voor dat kalenderjaar op grond van de [artikelen 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.2.3) en [2.2.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.2.4), berekende rijksbijdrage voor die instelling.
 
@@ -226,7 +226,7 @@ De rijksbijdrage educatie per gemeente wordt aan de gemeente toegekend onder de 
 
 ##### Artikel 4.1.2. Vermindering door de gemeente van de bedragen educatie aan instellingen
 
-1. Indien een gemeente beslist tot een vermindering van het bedrag van de verplichting, bedoeld in [artikel 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=4&paragraaf=1&artikel=4.1.1&z=2008-12-06&g=2008-12-06), ten opzichte van een bepaalde instelling, gedurende of na afloop van het kalenderjaar waarvoor de desbetreffende rijksbijdrage educatie is toegekend, is die vermindering niet eerder van kracht dan nadat:
+1. Indien een gemeente beslist tot een vermindering van het bedrag van de verplichting, bedoeld in [artikel 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=4&paragraaf=1&artikel=4.1.1&z=2008-12-06&g=2010-01-01), ten opzichte van een bepaalde instelling, gedurende of na afloop van het kalenderjaar waarvoor de desbetreffende rijksbijdrage educatie is toegekend, is die vermindering niet eerder van kracht dan nadat:
 
 - a. tussen het gemeentebestuur en het bevoegd gezag van de instelling een redelijke termijn voor de vermindering is overeengekomen, of,
 
@@ -284,7 +284,7 @@ In deze formule wordt verstaan onder:
 
 5. Indien de uitkomst van het onderdeel (Ht – Nt) van de formule, bedoeld in het vierde lid, negatief is, wordt het verzoek om een aanvullende vergoeding afgewezen.
 
-##### Artikel 5.2. Wijzigingen [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2008-12-06&g=2008-12-06) en [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2008-12-06&g=2008-12-06) in verband met invoering leerlinggebonden financiering MBO
+##### Artikel 5.2. Wijzigingen [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2008-12-06&g=2010-01-01) en [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2008-12-06&g=2010-01-01) in verband met invoering leerlinggebonden financiering MBO
 
 Wijzigt deze regeling.
 
@@ -303,5 +303,27 @@ Deze regeling treedt in werking met ingang van de tweede dag na de datum van uit
 ##### Artikel 5.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling WEB 2007.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3.1.4. Diploma’s waarvoor een vast bedrag wordt toegekend
+
+Voor diploma’s van de opleidingen
+
+- a. Helpende Welzijn (Crebonummer 10745)
+
+- b. Helpende breed (Crebonummer 91340)
+
+- c. Helpende (Sociaal-agogisch werk) (Crebonummer 91352) en
+
+- d. Helpende Zorg & Welzijn (Crebonummer 92640) die in het kalenderjaar 2010 zijn verkregen door examendeelnemers, bedoeld in [artikel 2.2.2, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.2), wordt € 675 per diploma toegekend. De in de eerste volzin bedoelde diploma’s worden niet meegeteld bij de berekening van het rijksbijdragedeel op grond van [artikel 2.2.4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.2.4).
+
+#### § 2. Overgangsvoorschriften bekostiging
+
+### Hoofdstuk 4. Voorschriften bekostiging educatie
+
+#### § 1. Voorschriften educatie
+
+### Hoofdstuk 5. Overgangs- en slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
