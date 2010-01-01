@@ -4,7 +4,7 @@ identifier: "BWBR0026958"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2009-12-30"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026958"
 soort: "wet"
@@ -50,23 +50,23 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+[Vervallen]
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ##### Artikel VII
 
@@ -74,51 +74,53 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Met betrekking tot immateriële activa die na 31 december 2007, maar voor 1 januari 2010 tot de bedrijfsmiddelen van de belastingplichtige zijn gaan behoren en waarvoor aan hem een S&O-verklaring is afgegeven als bedoeld in de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746), blijft [artikel 12b van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12b) zoals dat luidde op 31 december 2009 van toepassing, met dien verstande dat de vanaf 1 januari 2010 behaalde voordelen uit hoofde van die activa slechts voor 5/H gedeelte in aanmerking worden genomen.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de dividendbelasting 1965.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Successiewet 1956.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2009.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel 16a, eerste en tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16a) is van overeenkomstige toepassing op de verlagingen van het belastingbedrag in de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9a) en [9ba van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9ba) ingevolge de [artikelen XII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XII&z=2010-01-01&g=2010-01-01) en [XIII, onderdeel A, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XIII&z=2010-01-01&g=2010-01-01).
+
+2. De [artikelen XII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XII&z=2010-01-01&g=2010-01-01) en [XIII, onderdeel A, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XIII&z=2010-01-01&g=2010-01-01), vinden geen toepassing ten aanzien van personenauto’s die vóór 1 januari 2010 respectievelijk 1 januari 2011 voor het eerst in gebruik zijn genomen.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel XX van het Belastingplan 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024975&artikel=XX) vindt geen toepassing voor het jaar 2010.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 81a van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=81a) vindt geen toepassing bij het begin van het kalenderjaar 2010 op de bedragen genoemd in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23) en [25 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25).
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belasting zware motorrijtuigen.
 
 ##### Artikel XIXa
 
@@ -126,90 +128,112 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) vindt bij het begin van het kalenderjaar 2010 geen toepassing op de bedragen, genoemd in [artikel 28, eerste lid, en tweede lid, aanhef, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28).
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op belastingen van rechtsverkeer.
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene douanewet.
 
 ##### Artikel XXIVa
 
-Dit onderdeel is nog niet inwerking getreden
+1. De accijns op sigaretten wordt met ingang van 1 maart 2010 zodanig verhoogd dat de totale accijns voor de meest gevraagde prijsklasse sigaretten € 4,70 per 1000 stuks hoger zal liggen dan het accijnsbedrag voor deze prijsklasse op 28 februari 2010. Indien met ingang van 1 maart 2010 het aldus berekende accijnsbedrag lager is dan het bedrag dat overeenkomt met 57 percent van de kleinhandelsprijs van de meest gevraagde prijsklasse sigaretten, berekend per 1000 stuks, geldt het laatstbedoelde bedrag.
+
+2. Bij ministeriële regeling worden met ingang van 1 maart 2010 de tarieven van de accijns, bedoeld in [artikel 35, eerste lid, onderdeel b, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=35) aangepast. De aanpassing geschiedt zodanig dat voor sigaretten van de meest gevraagde prijsklasse het specifieke gedeelte van de accijns 50% bedraagt van de som van de totale accijns en de omzetbelasting. Daarbij dient het bedrag van de totale accijns gelijk te blijven aan het bedrag van de totale accijns dat na de verhoging van de accijns verschuldigd zou zijn zonder de aanpassing. De aanpassing van het bedrag dat in artikel 35, eerste lid, onderdeel b, is opgenomen als de ten minste te betalen accijns voor 1000 stuks sigaretten, geschiedt zodanig dat deze accijns na de aanpassing van de tarieven bedraagt het totale bedrag van de accijns voor 1000 stuks sigaretten van de meest gevraagde prijsklasse. Bij de aanpassing vindt afronding plaats van het procentuele gedeelte van de accijns op honderdsten van een percent.
 
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+[Vervallen]
 
 ##### Artikel XXIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet milieubeheer.
 
 ##### Artikel XXX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Provinciewet.
 
 ##### Artikel XXXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Natuurschoonwet 1928.
 
 ##### Artikel XXXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Mijnbouwwet.
 
 ##### Artikel XXXIII
 
-Dit onderdeel is nog niet inwerking getreden
+De wijziging ingevolge [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-01-01&g=2010-01-01), van [artikel 3.111, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) is niet van toepassing op gevallen waarin het genereren van inkomen uit sparen en beleggen uit de woning reeds is aangevangen vóór 1 januari 2010, tenzij de belastingplichtige akkoord gaat met bij ministeriële regeling te stellen voorwaarden.
 
 ##### Artikel XXXIV
 
-Dit onderdeel is nog niet inwerking getreden
+De in [artikel I, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-01-01&g=2010-01-01), opgenomen wijzigingen van [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) zijn van overeenkomstige toepassing op bezittingen en verplichtingen die voortvloeien uit de heffing van het recht van successie op grond van de bepalingen in de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) zoals deze wet luidde vóór 1 januari 2010.
 
 ##### Artikel XXXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet titel 7.13 Burgerlijk Wetboek.
 
 ##### Artikel XXXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet Fiscaal stimuleringspakket en overige fiscale maatregelen.
 
 ##### Artikel XXXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XXXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Ingeval de samenloop van wetten die in 2009 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
 ##### Artikel XXXIX
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van 1 januari 2010, met dien verstande dat:
+
+- a. [artikel I, onderdelen B, C, H, S, T, U, V en X](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-01-01&g=2010-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2010 is toegepast;
+
+- b. [artikel III, onderdelen D, E, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=III&z=2010-01-01&g=2010-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2010 is toegepast;
+
+- c. de wijzigingen ingevolge [artikel VII, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=VII&z=2010-01-01&g=2010-01-01), terugwerken tot en met 1 januari 2009 en slechts toepassing vinden met betrekking tot verliezen van jaren die zijn aangevangen op of na 1 januari 2009;
+
+- d. de wijziging ingevolge [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=IX&z=2010-01-01&g=2010-01-01) toepassing vindt met betrekking tot verliezen van jaren die zijn aangevangen op of na 1 januari 2011;
+
+- e. de wijzigingen ingevolge [artikel XXV, onderdelen C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XXV&z=2010-01-01&g=2010-01-01), voor het eerst toepassing vinden met betrekking tot verzuimen die zijn begaan op of na 1 januari 2010;
+
+- f. het in [artikel XXV, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XXV&z=2010-01-01&g=2010-01-01), opgenomen [artikel 67ca van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67ca) geen toepassing vindt met betrekking tot verzuimen begaan vóór 1 januari 2010, indien ter zake een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen;
+
+- g. de wijziging ingevolge [artikel XXVI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XXVI&z=2010-01-01&g=2010-01-01), voor het eerst toepassing vindt met betrekking tot verzuimen die zijn begaan op of na 1 januari 2011.
+
+2. In afwijking van het eerste lid treedt [artikel I, onderdelen F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-01-01&g=2010-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met 1 januari 2010.
+
+3. [Artikel I, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=I&z=2010-01-01&g=2010-01-01), werkt terug tot en met 30 december 2009.
+
+4. In afwijking van het eerste lid treedt [artikel XIXA](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XIXa&z=2010-01-01&g=2010-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip waarbij terugwerkende kracht kan worden verleend tot en met 1 januari 2010.
 
 ##### Artikel XL
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Belastingplan 2010.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
