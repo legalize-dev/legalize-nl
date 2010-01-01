@@ -4,7 +4,7 @@ identifier: "BWBR0014382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2009-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014382"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 3. De kosten van het door TNO DV uit te voeren onderzoek komen ten laste van en worden in rekening gebracht bij de aanvrager.
 
-4. De in het tweede en derde lid bedoelde kosten zijn verschuldigd aan de minister en worden voldaan op bankrekening 19.23.23.563 ten name van Inspectie Verkeer & Waterstaat, divisie Vervoer, vergunningen.
+4. De in het tweede en derde lid bedoelde kosten zijn verschuldigd aan de minister.
 
 ##### Artikel 4
 
@@ -80,7 +80,7 @@ De aanvraag om autorisatie van de classificatiecode van vuurwerk gaat vergezeld 
 
 ##### Artikel 5
 
-De minister verleent de autorisatie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014382&artikel=2&z=2009-01-01&g=2009-01-01), nadat:
+De minister verleent de autorisatie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014382&artikel=2&z=2010-01-01&g=2010-01-01), nadat:
 
 - a. hem is gebleken dat de classificatie overeenkomt met de classificatie volgens de defaultlijst;
 
