@@ -4,7 +4,7 @@ identifier: "BWBR0009280"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2009-12-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009280"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - f. TW: [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
 
-- g. WAJONG: [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+- g. Wet Wajong: [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
 - h. WAO: [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
@@ -98,7 +98,7 @@ Dit besluit is van toepassing op registraties in de zin van:
 
 - f. [artikel 1, vijfde lid, onderdeel d, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=1);
 
-- g. [artikel 1, vijfde lid, onderdeel d, van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1);
+- g. [artikel 1:1, vijfde lid, onderdeel d, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:1);
 
 - h. [artikel 1, vijfde lid, onderdeel d, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=1);
 
@@ -118,7 +118,7 @@ Dit besluit is van toepassing op registraties in de zin van:
 
 ##### Artikel 3. Aangewezen registraties
 
-1. Als registraties als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009280&artikel=2&z=2009-12-01&g=2009-12-01) worden aangewezen de registratie als:
+1. Als registraties als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009280&artikel=2&z=2010-01-01&g=2010-01-01) worden aangewezen de registratie als:
 
 - a. duurzame gezamenlijke huishouding op grond van:
 
@@ -150,7 +150,7 @@ Dit besluit is van toepassing op registraties in de zin van:
 
 - 6. de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
 
-- 7. de [WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+- 7. de [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
 - 8. de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
@@ -180,9 +180,9 @@ Dit besluit is van toepassing op registraties in de zin van:
 
 2. Een registratie als bedoeld in het eerste lid is aanwezig gedurende de periode waarin bij de toepassing van de in dat lid genoemde wetten op enig moment rechtsgevolgen worden verbonden aan het bestaan van een duurzame gezamenlijke huishouding, een gezamenlijke huishouding, een duurzame gemeenschappelijke huishouding, een gemeenschappelijke huishouding respectievelijk een duurzame relatie.
 
-##### Artikel 4. Bijzondere bepalingen in verband met de [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054), [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), [IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), [WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0020031), [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en [WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017837)
+##### Artikel 4. Bijzondere bepalingen in verband met de [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054), [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), [IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0020031), [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en [WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017837)
 
-Voor de toepassing van [artikel 3, tweede tot en met vijfde lid, van de WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=3), [artikel 3, tweede tot en met vijfde lid, van de WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054&artikel=3), [artikel 1, derde tot en met zevende lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=1), [artikel 3, tweede tot en met zesde lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=3), [artikel 3, tweede tot en met zesde lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=3), [artikel 1, derde tot en met zevende lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=1), [artikel 1, derde tot en met zevende lid, van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1), [artikel 1, derde tot en met zevende lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=1), [artikel 1, derde tot en met zevende lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=1), [artikel 2, tweede tot en met zesde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=2), [artikel 1, derde tot en met zevende lid, van de Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=1), [artikel 1, derde tot en met zevende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=1), [artikel 2, tweede tot en met zesde lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=2) en [artikel 2, tweede tot en met vierde lid, van de WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017837&artikel=2) wordt een registratie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009280&artikel=3&z=2009-12-01&g=2009-12-01) in aanmerking genomen indien deze:
+Voor de toepassing van [artikel 3, tweede tot en met vijfde lid, van de WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=3), [artikel 3, tweede tot en met vijfde lid, van de WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054&artikel=3), [artikel 1, derde tot en met zevende lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=1), [artikel 3, tweede tot en met zesde lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=3), [artikel 3, tweede tot en met zesde lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=3), [artikel 1, derde tot en met zevende lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=1), [artikel 1:1, derde tot en met het zevende lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:1), [artikel 1, derde tot en met zevende lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=1), [artikel 1, derde tot en met zevende lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=1), [artikel 2, tweede tot en met zesde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=2), [artikel 1, derde tot en met zevende lid, van de Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=1), [artikel 1, derde tot en met zevende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=1), [artikel 2, tweede tot en met zesde lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=2) en [artikel 2, tweede tot en met vierde lid, van de WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017837&artikel=2) wordt een registratie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009280&artikel=3&z=2010-01-01&g=2010-01-01) in aanmerking genomen indien deze:
 
 - a. bij de aanvraag van bijstand, uitkering of voorziening bestaat;
 
@@ -192,7 +192,7 @@ Voor de toepassing van [artikel 3, tweede tot en met vijfde lid, van de WWB](htt
 
 ##### Artikel 5. Bijzondere bepaling in verband met de ANW
 
-Voor de toepassing van artikel 3, tweede tot en met zesde lid, van de ANW wordt voor de vaststelling van het recht op nabestaandenuitkering een registratie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009280&artikel=3&z=2009-12-01&g=2009-12-01) in aanmerking genomen indien deze:
+Voor de toepassing van artikel 3, tweede tot en met zesde lid, van de ANW wordt voor de vaststelling van het recht op nabestaandenuitkering een registratie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009280&artikel=3&z=2010-01-01&g=2010-01-01) in aanmerking genomen indien deze:
 
 - a. bestaat op de dag van overlijden van degene met wie een gezamenlijke huishouding wordt gevoerd dan wel in de periode van twee jaar voorafgaande aan deze dag op enig moment heeft bestaan;
 
