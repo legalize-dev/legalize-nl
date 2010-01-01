@@ -4,7 +4,7 @@ identifier: "BWBR0033599"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "1998-07-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033599"
 soort: "wet"
@@ -171,7 +171,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI. [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
 ##### Artikel XXII. [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
