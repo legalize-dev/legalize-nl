@@ -4,7 +4,7 @@ identifier: "BWBR0004772"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-12"
-last_updated: "2009-02-13"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004772"
 soort: "AMvB"
@@ -92,9 +92,9 @@ Vervallen
 
 3. Voor de toepassing van [artikel 28, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) eindigt het tijdvak waarover invorderingsrente wordt berekend op de dag van de dagtekening van het afschrift van de uitspraak of op de dag van de dagtekening van de kennisgeving waarmee de vermindering wordt bekendgemaakt.
 
-4. Indien het krachtens [artikel 25, vijfde, zesde of achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) verleende uitstel wordt beëindigd, wordt, in afwijking van het eerste lid, invorderingsrente berekend met ingang van 1 september van het jaar waarin zich een handeling of omstandigheid voordoet op grond waarvan het uitstel wordt beëindigd.
+4. Indien het krachtens [artikel 25, vijfde, zesde of achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) verleende uitstel wordt beëindigd, wordt, in afwijking van het eerste lid, invorderingsrente berekend met ingang van de dag waarop zes weken zijn verstreken na de eerste dag van het jaar volgend op het jaar waarin zich de handeling of gebeurtenis voordoet op grond waarvan het uitstel wordt beëindigd.
 
-5. Indien het krachtens [artikel 25, negende, elfde of zeventiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) verleende uitstel wordt beëindigd, wordt, in afwijking van het eerste lid, invorderingsrente berekend met ingang van de dag volgende op de dag waarop zich de omstandigheid voordoet op grond waarvan het uitstel wordt beëindigd.
+5. Indien het krachtens [artikel 25, negende, elfde of zeventiende tot en met negentiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) verleende uitstel wordt beëindigd, wordt, in afwijking van het eerste lid, invorderingsrente berekend met ingang van de dag volgende op de dag waarop zich de omstandigheid voordoet op grond waarvan het uitstel wordt beëindigd.
 
 ### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
 
@@ -108,7 +108,7 @@ Vervallen
 
 ##### Artikel 8
 
-Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2009-02-13&g=2009-02-13) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2009-02-13&g=2009-02-13), doet, is gehouden aan de ontvanger:
+Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2010-01-01&g=2010-01-01) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2010-01-01&g=2010-01-01), doet, is gehouden aan de ontvanger:
 
 - a. de door deze gevraagde gegevens en inlichtingen te verstrekken die voor de vaststelling van de oorzaak van de betalingsonmacht, of voor de bepaling van de financiële positie van het lichaam van belang kunnen zijn;
 
@@ -116,7 +116,7 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 
 ##### Artikel 9
 
-1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2009-02-13&g=2009-02-13), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
+1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2010-01-01&g=2010-01-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
 
 2. De gegevens en inlichtingen dienen duidelijk, stellig en zonder voorbehoud te worden verstrekt, mondeling, schriftelijk of op andere wijze, zulks ter keuze van de ontvanger.
 
