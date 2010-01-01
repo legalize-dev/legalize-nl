@@ -4,7 +4,7 @@ identifier: "BWBR0018220"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-09-01"
-last_updated: "2005-05-02"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018220"
 soort: "ministeriele-regeling"
@@ -67,9 +67,7 @@ In deze regeling wordt verstaan onder:
 
 - j. aanvraag: een aanvraag als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=11);
 
-- k. WSF 2000: de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453);
-
-- j. IB-groep: de Informatie Beheer Groep, genoemd in de [Wet verzelfstandiging Informatiseringsbank](https://wetten.overheid.nl/jci1.3:c:BWBR0006320).
+- k. WSF 2000: de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
 ### Hoofdstuk 2. Experimenten
 
@@ -81,9 +79,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Besluitvorming
 
-1. De minister neemt een besluit op een aanvraag als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018220&hoofdstuk=2&artikel=2&z=2005-05-02&g=2005-05-02), voor 1 augustus 2005.
+1. De minister neemt een besluit op een aanvraag als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018220&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01), voor 1 augustus 2005.
 
-2. De minister neemt een besluit op een aanvraag als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018220&hoofdstuk=2&artikel=2&z=2005-05-02&g=2005-05-02), uiterlijk 1 februari 2006.
+2. De minister neemt een besluit op een aanvraag als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018220&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01), uiterlijk 1 februari 2006.
 
 ### Hoofdstuk 3. Lening
 
@@ -103,13 +101,13 @@ Het bedrag van de lening wordt toegevoegd aan de lening, bedoeld in [artikel 3.1
 
 ##### Artikel 7. Aanvraagprocedure
 
-1. Een student dient de aanvraag voor een lening in bij de IB-Groep.
+1. Een student dient de aanvraag voor een lening in bij de minister.
 
 2. Aan de aanvraag wordt een bewijsstuk toegevoegd, waaruit blijkt dat de student is ingeschreven voor een opleiding.
 
 ##### Artikel 8. Toekenning en verstrekking
 
-1. De toekenning of afwijzing van de door een student aangevraagde lening alsmede de verstrekking daarvan geschiedt door de IB-Groep.
+1. De toekenning of afwijzing van de door een student aangevraagde lening alsmede de verstrekking daarvan geschiedt door de minister.
 
 2. Verstrekking van de lening aan de student vindt in één keer plaats.
 
