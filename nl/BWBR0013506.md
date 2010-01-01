@@ -4,7 +4,7 @@ identifier: "BWBR0013506"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "2008-08-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013506"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **Rijkswet:** de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738);
 
-- b. **De Minister:** de Minister voor Vreemdelingenzaken en Integratie;
+- b. **De Minister:** de Minister van Justitie;
 
 - c. **Uitvoeringsautoriteit:** de in [artikel 2 van het Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=2) genoemde autoriteit of ambtenaar;
 
@@ -151,37 +151,19 @@ Onder rechtstreeks betrokken persoon wordt eveneens verstaan, voor zover zij daa
 
 ##### Artikel 9
 
-De uitvoeringsautoriteit kan van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=8&z=2008-08-01&g=2008-08-01) bedoelde bevoegdheden ondermandaat verlenen aan onder hem ressorterende functionarissen, voor zover dat in overeenstemming is met de aard van de werkzaamheden van die functionarissen en de aard van de bevoegdheid zich daartegen niet verzet.
+De uitvoeringsautoriteit kan van de in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=8&z=2010-01-01&g=2010-01-01) bedoelde bevoegdheden ondermandaat verlenen aan onder hem ressorterende functionarissen, voor zover dat in overeenstemming is met de aard van de werkzaamheden van die functionarissen en de aard van de bevoegdheid zich daartegen niet verzet.
 
 ##### Artikel 10
 
-1. Een verzoeker die zijn optieverklaring of naturalisatieverzoek in Nederland of in het buitenland dient in te dienen, is min- en onvermogend als bedoeld in [artikel 3, tweede lid, van het Besluit optie en naturalisatiegelden 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3), indien hij aan de hand van een inkomensverklaring van de raad voor rechtsbijstand, bedoeld in [artikel 1 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1), aantoont dat zijn inkomen niet uitkomt boven de op hem toepasselijke norm ingevolge de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), dan wel een verklaring bijstandsgerechtigden en asielzoekers, alsmede de meest recente uitkeringsstrook overlegt.
-
-2. Bij de vaststelling van het inkomen en vermogen van de verzoeker wordt mede in aanmerking genomen het inkomen van de echtgenoot of echtgenote, tenzij deze duurzaam van de verzoeker gescheiden leeft, en van de persoon met wie de verzoeker duurzaam een gezamenlijke huishouding voert, tenzij tussen deze en de verzoeker een bloedverwantschap in de eerste of tweede graad bestaat.
-
-3. Bij gemeenschappelijk verzoek worden de verzoekers gelijkgesteld met min- en onvermogenden indien hun gezamenlijke inkomen minder is dan de op hen toepasselijke norm ingevolge de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
-
-4. Is de verzoeker een betalingsplichtige minderjarige dan zijn de vorige leden van toepassing op de persoon die jegens hem onderhoudsplichtig is.
+Vervallen
 
 ##### Artikel 11
 
-1. Een verzoeker die zijn optieverklaring of naturalisatieverzoek in de Nederlandse Antillen dient in te dienen, is min- of onvermogend als bedoeld in [artikel 3, tweede lid, van het Besluit optie- en naturalisatiegelden 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3), indien hij en een verklaring van de belastingdienst overlegt waaruit blijkt dat hij niet voor de belastingen wordt aangeslagen.
-
-2. Bij de vaststelling van het inkomen en vermogen van de verzoeker wordt mede in aanmerking genomen het inkomen en vermogen van de echtgenoot of echtgenote, tenzij deze duurzaam van de verzoeker gescheiden leeft, en van de persoon met wie de verzoeker duurzaam een gezamenlijke huishouding voert, tenzij tussen deze en de verzoeker een bloedverwantschap in de eerste of tweede graad bestaat.
-
-3. Bij gemeenschappelijk verzoek worden de verzoekers gelijkgesteld met min- of onvermogenden indien hun gezamenlijke netto-inkomen minder is dan de op hen toepasselijke norm vereist voor het opleggen van een aanslag in de inkomstenbelastingen.
-
-4. Is de verzoeker een betalingsplichtige minderjarige dan zijn de vorige leden van toepassing op de persoon die jegens hem onderhoudsplichtig is.
+Vervallen
 
 ##### Artikel 12
 
-1. Een verzoeker die zijn optieverklaring of naturalisatieverzoek in Aruba dient in te dienen, is min- of onvermogend als bedoeld in [artikel 3, tweede lid, van het Besluit optie- en naturalisatiegelden 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3), indien hij een kaart overlegt omtrent inkomen en vermogen als bedoeld in artikel 2, eerste lid, van de Landsverordening kosteloze rechtskundige bijstand.
-
-2. Bij de vaststelling van het inkomen en vermogen van de verzoeker wordt mede in aanmerking genomen het inkomen en vermogen van de echtgenoot of echtgenote, tenzij deze duurzaam van de verzoeker gescheiden leeft, en van de persoon met wie de verzoeker duurzaam een gezamenlijke huishouding voert, tenzij tussen deze en de verzoeker een bloedverwantschap in de eerste of tweede graad bestaat.
-
-3. Bij gemeenschappelijk verzoek worden de verzoekers gelijkgesteld met min- of onvermogenden indien hun gezamenlijke netto-inkomen minder is dan de op hen toepasselijke norm van de Landsverordening kosteloze rechtskundige bijstand.
-
-4. Is de verzoeker een betalingsplichtige minderjarige dan zijn de vorige leden van toepassing op de persoon die jegens hem onderhoudsplichtig is.
+Vervallen
 
 ##### Artikel 13
 
@@ -215,6 +197,6 @@ De [Machtigingsregeling naturalisatie en naturalisatiegelden 1998](onbekend) ver
 
 1. Deze regeling wordt met de toelichting in de Staatscourant, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba geplaatst.
 
-2. Deze regeling treedt, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=12&z=2008-08-01&g=2008-08-01) en [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=IV&artikel=14&z=2008-08-01&g=2008-08-01), in werking met ingang van 1 april 2003; [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=II&afdeling=III&artikel=6&z=2008-08-01&g=2008-08-01) is slechts van toepassing op Nederland en de Nederlandse Antillen.
+2. Deze regeling treedt, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=III&artikel=12&z=2010-01-01&g=2010-01-01) en [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=IV&artikel=14&z=2010-01-01&g=2010-01-01), in werking met ingang van 1 april 2003; [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&hoofdstuk=II&afdeling=III&artikel=6&z=2010-01-01&g=2010-01-01) is slechts van toepassing op Nederland en de Nederlandse Antillen.
 
 3. Deze regeling wordt aangehaald als Regeling verkrijging en verlies Nederlanderschap.
