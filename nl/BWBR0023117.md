@@ -4,7 +4,7 @@ identifier: "BWBR0023117"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2007-12-22"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023117"
 soort: "ministeriele-regeling"
@@ -46,13 +46,11 @@ In deze regeling wordt verstaan onder:
 
 - b. Minister: Minister van Economische Zaken;
 
-- c. aanbieder: een op grond van [artikel 14.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14.6) aangewezen aanbieder van een openbaar telecommunicatienetwerk, van een openbare telecommunicatiedienst of van een huurlijn;
-
-- d. Nationaal Noodnet: telecommunicatienetwerk voor vitale berichtgeving in buitengewone omstandigheden.
+- c. aanbieder: een op grond van [artikel 14.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14.6) aangewezen aanbieder van een openbaar telecommunicatienetwerk, van een openbare telecommunicatiedienst of van een huurlijn.
 
 ##### Artikel 2
 
-1. Een aanbieder neemt met betrekking tot de voorbereiding van het verzorgen van elektronisch transport van gegevens in buitengewone omstandigheden als bedoeld in [artikel 14.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14.2) de volgende organisatorische en personele maatregelen en treft de volgende bijzondere voorzieningen:
+Een aanbieder neemt met betrekking tot de voorbereiding van het verzorgen van elektronisch transport van gegevens in buitengewone omstandigheden als bedoeld in [artikel 14.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14.2) de volgende organisatorische en personele maatregelen en treft de volgende bijzondere voorzieningen:
 
 - a. het beschikbaar hebben van ter zake kundige personen die:
 
@@ -65,8 +63,6 @@ In deze regeling wordt verstaan onder:
 - b. het beschikken over een voorziening waarbij ingeval van congestie in zijn openbaar telecommunicatienetwerk door de Minister aan te wijzen nummers gebruik kunnen blijven maken van zijn openbaar telecommunicatienetwerk;
 
 - c. zorgdragen voor een doeltreffende beveiliging van de door de Minister aan te wijzen vitale bedrijfsonderdelen of objecten.
-
-2. De aanbieder Koninklijke KPN N.V. houdt met betrekking tot de in het eerste lid genoemde voorbereiding de bijzondere voorziening van het Nationaal Noodnet in stand ten behoeve van de daarop aangesloten abonnees.
 
 ##### Artikel 3
 
