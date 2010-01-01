@@ -4,7 +4,7 @@ identifier: "BWBR0033867"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2009-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033867"
 soort: "AMvB"
@@ -42,12 +42,14 @@ Wijzigt het Besluit financiële verhouding 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+De algemene uitkering zoals deze voor iedere gemeente wordt berekend overeenkomstig dit besluit, wordt voor de compensatie voor het afschaffen van het gebruikersdeel van de OZB voor woningen over de jaren 2010 tot en met 2013 vermeerderd of verminderd met een bedrag genoemd in de bijlage bij dit besluit.
+
+Vrijvallende middelen als gevolg van het afbouwen van de compensatie komen ten goede van het gemeentefonds.
 
 ##### Artikel III
 
 Dit onderdeel is nog niet inwerking getreden
 
-## Bijlage. behorende bij [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033867&artikel=II&z=2013-12-01&g=2009-01-01) van het Besluit tot wijziging van het Besluit financiële verhouding 2001 in verband met het vaststellen en wijzigen van enkele verdeelmaatstaven (2013)
+## Bijlage. behorende bij [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033867&artikel=II&z=2013-12-01&g=2010-01-01) van het Besluit tot wijziging van het Besluit financiële verhouding 2001 in verband met het vaststellen en wijzigen van enkele verdeelmaatstaven (2013)
 
-Dit onderdeel is nog niet inwerking getreden
+### Compensatie voor het afschaffen van het gebruikersdeel van de OZB voor woningen over de jaren 2010 tot en met 2013
