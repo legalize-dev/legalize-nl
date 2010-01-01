@@ -4,7 +4,7 @@ identifier: "BWBR0007230"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2009-09-18"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007230"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=3), [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37a) en [39 van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=39).
+1. Dit besluit geeft uitvoering aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=3), [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37a), [37h](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37h), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=39) en [40a van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=40a).
 
 2. In dit besluit wordt verstaan onder:
 
@@ -74,7 +74,7 @@ Hebben goedgevonden en verstaan:
 
 2. De kosten van de waardering komen ten laste van de afnemers.
 
-3. De waterschappen betalen aan het Rijk jaarlijks een vergoeding van € 21 810 013 voor het aandeel van de waterschappen in de kosten van de waardering. Dit bedrag wordt bij het begin van het kalenderjaar bij regeling van Onze Minister aangepast vanwege een verwachte prijsmutatie en een volumeopslag. De verwachte prijsmutatie is daarbij het percentage zoals dat door het Centraal planbureau in het Centraal Economisch Plan is gepubliceerd als «prijsmutatie netto materiële overheidsconsumptie» voor het kalenderjaar. De volumeopslag wordt gesteld op 0,9 procent.
+3. De waterschappen betalen aan het Rijk jaarlijks een vergoeding van € 22 409 788 voor het aandeel van de waterschappen in de kosten van de waardering. Dit bedrag wordt bij het begin van het kalenderjaar bij regeling van Onze Minister aangepast vanwege een verwachte prijsmutatie en een volumeopslag. De verwachte prijsmutatie is daarbij het percentage zoals dat door het Centraal planbureau in het Centraal Economisch Plan is gepubliceerd als «prijsmutatie netto materiële overheidsconsumptie» voor het kalenderjaar. De volumeopslag wordt gesteld op 0,9 procent.
 
 4. Ingeval het in het derde lid genoemde bedrag hoger is dan € 21 810 013, wordt het verschil toegevoegd aan de algemene middelen van het Rijk.
 
@@ -82,11 +82,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2009-09-18&g=2009-09-18), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2009-09-18&g=2009-09-18) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
+Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2010-01-01&g=2010-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
 
 ##### Artikel 4
 
-Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2009-09-18&g=2009-09-18), worden verstaan de kosten verbonden aan:
+Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01), worden verstaan de kosten verbonden aan:
 
 - 1°. het verrichten van algemene werkzaamheden ten behoeve van de waardebepaling;
 
@@ -104,11 +104,11 @@ Vervallen
 
 ##### Artikel 5
 
-1. De kosten van de Waarderingskamer worden aan de hand van de door haar vastgestelde begroting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=12&z=2009-09-18&g=2009-09-18) van de wet, in januari van het jaar waarop zij betrekking hebben, in voorlopige rekening gebracht aan de afnemers.
+1. De kosten van de Waarderingskamer worden aan de hand van de door haar vastgestelde begroting als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=5&artikel=12&z=2010-01-01&g=2010-01-01) van de wet, in januari van het jaar waarop zij betrekking hebben, in voorlopige rekening gebracht aan de afnemers.
 
 2. De afnemers voldoen hun aandeel in de begrote kosten binnen vier weken.
 
-3. Na de goedkeuring door Onze Minister van het verslag van de Waarderingskamer als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=13&z=2009-09-18&g=2009-09-18) van de wet, vindt de definitieve kostenverrekening plaats.
+3. Na de goedkeuring door Onze Minister van het verslag van de Waarderingskamer als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=5&artikel=13&z=2010-01-01&g=2010-01-01) van de wet, vindt de definitieve kostenverrekening plaats.
 
 ##### Artikel 6
 
@@ -128,7 +128,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. Het college van burgemeester en wethouders levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2009-09-18&g=2009-09-18) bedoelde gegevens aan de afnemers.
+1. Het college van burgemeester en wethouders levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2010-01-01&g=2010-01-01) bedoelde gegevens aan de afnemers.
 
 2. De levering van gegevens aan de afnemers vindt plaats:
 
@@ -146,11 +146,23 @@ Onze Minister stelt in overleg met de Waarderingskamer een standaard-uitwisselin
 
 ##### Artikel 10
 
-Vervallen
+Als bestuursorgaan dat bevoegd is tot het gebruik van het waardegegeven op grond van [artikel 37h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37h) worden aangewezen:
+
+- a. de notaris in het kader van de bestrijding van vastgoedcriminaliteit ten behoeve van het vergelijken met een taxatiewaarde, dan wel het vergelijken met een aan- of verkoopprijs;
+
+- b. het Centraal bureau voor de statistiek ten behoeve van statistische doeleinden als bedoeld in [artikel 37 van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=37);
+
+- c. het Bureau Ontnemingswetgeving van het Openbaar Ministerie ten behoeve van het zicht krijgen op waarden van inbeslaggenomen onroerende zaken.
 
 ##### Artikel 11
 
-Vervallen
+Als derden als bedoeld in [artikel 40a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=40a), waaraan het waardegegeven van een onroerende zaak die in hoofdzaak tot woning dient, kan worden verstrekt, worden aangewezen:
+
+- a. verzekeraars die ingevolge [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) in Nederland mogen optreden als verzekeraar;
+
+- b. aanbieders van hypothecair krediet die ingevolge [hoofdstuk 2.2 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=2.2) in Nederland hypothecair krediet mogen aanbieden of die een verklaring van ondertoezichtstelling als bedoeld in [artikel 3:110 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110) hebben en hebben voldaan aan artikel 3:110, vierde of vijfde lid, van die wet,
+
+indien deze om het waardegegeven verzoeken ten behoeve van het vergelijken met de veronderstelde waarde van een aan een financieringsaanvraag ten grondslag liggend waardeobject.
 
 ##### Artikel 12
 
@@ -163,6 +175,10 @@ Dit besluit wordt aangehaald als: Uitvoeringsbesluit kostenverrekening en gegeve
 ## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
 ### Lijst met te registreren en aan de afnemers te verstrekken gegevens
+
+– Voor ieder WOZ-object:
+
+(01.01) uniek WOZ-objectnummer
 
 – Voor ieder WOZ-object:
 
@@ -260,11 +276,11 @@ Indien het WOZ-object bij het gegeven «(14.10) code gebouwd/ongebouwd» is geme
 
 (01.01) uniek WOZ-objectnummer
 
-(01.20) SoFi-nummer
-
 (01.20) burgerservicenummer/sociaal-fiscaalnummer/fi-nummer
 
 (01.21) aanvullend subjectnummer
+
+(41.10) aanduiding eigenaar/gebruiker
 
 (41.30) c.s.-code
 
@@ -284,11 +300,11 @@ Indien subject de eigenaar is:
 
 – Voor ieder subject dat als belanghebbende een beschikking heeft ontvangen:
 
-(01.20) SoFi-nummer
-
 (01.20) burgerservicenummer/sociaal-fiscaalnummer/fi-nummer
 
 (01.21) aanvullend subjectnummer
+
+Indien subject een natuurlijk persoon is:
 
 (01.10) A-nummer natuurlijk persoon
 
@@ -356,11 +372,11 @@ Volledig postadres van subject voorzover noodzakelijk bestaande uit:
 
 (01.10) A-nummer natuurlijk persoon
 
-(01.20) SoFi-nummer
-
 (01.20) burgerservicenummer/sociaal-fiscaalnummer/fi-nummer
 
 (01.21) aanvullend subjectnummer
+
+(15.20) waardepeildatum
 
 (22.10) code status beschikking
 
@@ -392,10 +408,6 @@ Volledig postadres van subject voorzover noodzakelijk bestaande uit:
 
 (92.20) bijgewerkt tot en met maand
 
-(92.30) datum vorige aanlevering
-
-(93.30) aard leveringsbestand
-
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
 ##### Artikel 2a
@@ -404,7 +416,17 @@ Vervallen
 
 ### Hoofdstuk 3. Gegevensbeheer
 
-### Hoofdstuk 4. Overgangs- en slotbepalingen
+### Hoofdstuk 4. Gegevensverstrekking
+
+## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
+
+### Lijst met te registreren en aan de afnemers te verstrekken gegevens
+
+(92.30) datum vorige aanlevering
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+### Hoofdstuk 5. Overgangs- en slotbepalingen
 
 ## Bijlage. als bedoeld in artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
