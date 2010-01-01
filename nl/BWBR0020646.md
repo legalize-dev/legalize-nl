@@ -4,7 +4,7 @@ identifier: "BWBR0020646"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-01-01"
-last_updated: "2009-07-04"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020646"
 soort: "ministeriele-regeling"
@@ -84,23 +84,21 @@ In deze regeling wordt verstaan onder:
 
 - m. inburgeringsexamen: het inburgeringsexamen, bedoeld in [hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&hoofdstuk=4);
 
-- n. IB-Groep: de Informatie Beheer Groep, genoemd in de [Wet verzelfstandiging Informatiseringsbank](https://wetten.overheid.nl/jci1.3:c:BWBR0006320);
+- n. exameninstelling: de exameninstelling, bedoeld in [artikel 1, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=1);
 
-- o. exameninstelling: de exameninstelling, bedoeld in [artikel 1, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=1);
+- o. inburgeringscursus: een cursus welke een inburgeraar in staat stelt mondelinge en schriftelijke vaardigheden in de Nederlandse taal en kennis van de Nederlandse samenleving te verwerven, teneinde het inburgeringsexamen te behalen;
 
-- p. inburgeringscursus: een cursus welke een inburgeraar in staat stelt mondelinge en schriftelijke vaardigheden in de Nederlandse taal en kennis van de Nederlandse samenleving te verwerven, teneinde het inburgeringsexamen te behalen;
+- p. Informatiesysteem Inburgering: het Informatiesysteem Inburgering, bedoeld in [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=47);
 
-- q. Informatiesysteem Inburgering: het Informatiesysteem Inburgering, bedoeld in [artikel 47 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=47);
+- q. inburgeringsbedrijf: een natuurlijk persoon of rechtspersoon die in het kader van uitoefening van beroep of bedrijf de inburgering van personen in Nederland bevordert;
 
-- r. inburgeringsbedrijf: een natuurlijk persoon of rechtspersoon die in het kader van uitoefening van beroep of bedrijf de inburgering van personen in Nederland bevordert;
+- r. persoonlijk inburgeringsbudget: een budget dat door het college of het bestuur, in het kader van een te sluiten overeenkomst met een inburgeringsbedrijf, ten behoeve van een inburgeraar ter beschikking wordt gesteld en met behulp waarvan de inburgeraar zijn inburgering op een individuele wijze vorm geeft;
 
-- s. persoonlijk inburgeringsbudget: een budget dat door het college of het bestuur, in het kader van een te sluiten overeenkomst met een inburgeringsbedrijf, ten behoeve van een inburgeraar ter beschikking wordt gesteld en met behulp waarvan de inburgeraar zijn inburgering op een individuele wijze vorm geeft;
+- s. staatsexamen: het staatsexamen Nederlands als tweede taal I en II, bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1);
 
-- t. staatsexamen: het staatsexamen Nederlands als tweede taal I en II, bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1);
+- t. duale inburgeringsvoorziening: inburgeringsvoorziening die met het oog op de actieve deelname van de inburgeraar aan de Nederlandse samenleving mede voorziet in activiteiten die in samenhang, en ten minste voor een deel gelijktijdig, met het verwerven van mondelinge en schriftelijke vaardigheden in de Nederlandse taal en kennis van de Nederlandse samenleving worden uitgevoerd;
 
-- u. duale inburgeringsvoorziening: inburgeringsvoorziening die met het oog op de actieve deelname van de inburgeraar aan de Nederlandse samenleving mede voorziet in activiteiten die in samenhang, en ten minste voor een deel gelijktijdig, met het verwerven van mondelinge en schriftelijke vaardigheden in de Nederlandse taal en kennis van de Nederlandse samenleving worden uitgevoerd;
-
-- v. taalkennisvoorziening: voorziening die is gericht op de verwerving van de kennis van de Nederlandse taal die noodzakelijk is voor het kunnen afronden van een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2).
+- u. taalkennisvoorziening: voorziening die is gericht op de verwerving van de kennis van de Nederlandse taal die noodzakelijk is voor het kunnen afronden van een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2).
 
 ##### Artikel 2
 
@@ -140,9 +138,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Tegelijkertijd met het doen van het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2009-07-04&g=2009-07-04), informeert het college of het bestuur de inburgeraar omtrent de hoofdlijnen van de met hem te sluiten overeenkomst terzake van de vaststelling van zijn inburgeringsvoorziening, gecombineerde inburgeringsvoorziening dan wel taalkennisvoorziening.
+1. Tegelijkertijd met het doen van het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2010-01-01&g=2010-01-01), informeert het college of het bestuur de inburgeraar omtrent de hoofdlijnen van de met hem te sluiten overeenkomst terzake van de vaststelling van zijn inburgeringsvoorziening, gecombineerde inburgeringsvoorziening dan wel taalkennisvoorziening.
 
-2. Indien de inburgeraar het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2009-07-04&g=2009-07-04), aanvaardt, sluit het college of het bestuur de in het eerste lid bedoelde overeenkomst met de inburgeraar.
+2. Indien de inburgeraar het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2010-01-01&g=2010-01-01), aanvaardt, sluit het college of het bestuur de in het eerste lid bedoelde overeenkomst met de inburgeraar.
 
 3. De overeenkomst bevat ten minste een omschrijving van de inburgeringsvoorziening, de gecombineerde inburgeringsvoorziening dan wel de taalkennisvoorziening, alsmede een omschrijving van de rechten en verplichtingen van de inburgeraar ten aanzien van:
 
@@ -160,13 +158,13 @@ In deze regeling wordt verstaan onder:
 
 1. Indien de inburgeraar het inburgeringsexamen heeft behaald, ontvangt hij het inburgeringsdiploma.
 
-2. Het inburgeringsdiploma wordt uitgereikt door de IB-Groep.
+2. Het inburgeringsdiploma wordt uitgereikt door de Minister.
 
 ##### Artikel 7
 
-1. Het college of het bestuur, de exameninstellingen, de IB-Groep en de Minister verstrekken aan de beheerder van het Informatiesysteem Inburgering uit eigen beweging of op verzoek kosteloos alle gegevens die noodzakelijk zijn voor de uitvoering van de onderhavige regeling.
+1. Het college of het bestuur, de exameninstellingen en de Minister verstrekken aan de beheerder van het Informatiesysteem Inburgering uit eigen beweging of op verzoek kosteloos alle gegevens die noodzakelijk zijn voor de uitvoering van de onderhavige regeling.
 
-2. De IB-Groep verstrekt aan de Minister, alsmede het college of het bestuur, uit eigen beweging of op verzoek alle gegevens die noodzakelijk zijn voor de uitvoering van de onderhavige regeling.
+2. De Minister verstrekt aan het college of het bestuur, uit eigen beweging of op verzoek alle gegevens die noodzakelijk zijn voor de uitvoering van de onderhavige regeling.
 
 3. In het Informatiesysteem Inburgering met betrekking tot inburgeraars opgenomen persoonsgegevens worden verwijderd:
 
@@ -180,7 +178,7 @@ In deze regeling wordt verstaan onder:
 
 1. De inburgeraar die op 1 januari 2007 deelneemt aan een opleiding educatie als bedoeld in [artikel 7.3.1, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), blijft toegelaten tot deze opleiding.
 
-2. Het college of het bestuur kan de opleidingen educatie, bedoeld in het eerste lid, gedurende het jaar 2007 bekostigen uit de financiële bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=1&artikel=2&z=2009-07-04&g=2009-07-04).
+2. Het college of het bestuur kan de opleidingen educatie, bedoeld in het eerste lid, gedurende het jaar 2007 bekostigen uit de financiële bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=1&artikel=2&z=2010-01-01&g=2010-01-01).
 
 ### Hoofdstuk 3. Verstrekking prestatiegegevens, vaststelling financiële bijdrage
 
@@ -206,7 +204,7 @@ In deze regeling wordt verstaan onder:
 
 - i. het aantal inburgeraars, niet zijnde geestelijke bedienaar, met wie in respectievelijk 2008 en 2009 een overeenkomst tot vaststelling van een taalkennisvoorziening is gesloten.
 
-2. Indien het college of het bestuur toepassing geeft aan [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2009-07-04&g=2009-07-04), doet het college of het bestuur tevens een opgave van het daarmee gemoeide bedrag, alsmede het aantal opleidingen educatie, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2009-07-04&g=2009-07-04).
+2. Indien het college of het bestuur toepassing geeft aan [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2010-01-01&g=2010-01-01), doet het college of het bestuur tevens een opgave van het daarmee gemoeide bedrag, alsmede het aantal opleidingen educatie, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=8&z=2010-01-01&g=2010-01-01).
 
 3. Het college of het bestuur verstrekt de gegevens en de opgave, bedoeld in het eerste lid, tezamen met de jaarrekening, bedoeld in [artikel 186 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=186), welke betrekking heeft op het jaar 2011. De jaarrekening is voorzien van de accountantsverklaring, bedoeld in [artikel 213, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213).
 
@@ -254,7 +252,7 @@ Vervallen
 
 - –. met de letter P: de door de Minister vast te stellen correctiefactor;
 
-- –. met de letter Q: het bedrag, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=3&artikel=9&z=2009-07-04&g=2009-07-04);
+- –. met de letter Q: het bedrag, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=3&artikel=9&z=2010-01-01&g=2010-01-01);
 
 - –. met de letter R: het aantal inburgeraars met wie in respectievelijk 2008 en 2009 een overeenkomst tot vaststelling van een duale inburgeringsvoorziening is gesloten;
 
