@@ -4,7 +4,7 @@ identifier: "BWBR0002367"
 country: "nl"
 rank: "wet"
 publication_date: "2022-05-01"
-last_updated: "2009-07-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002367"
 soort: "wet"
@@ -107,7 +107,7 @@ Vervallen
 
 ##### Artikel 4
 
-1. Er kunnen staatsraden in buitengewone dienst worden benoemd ten getale van ten hoogste 50. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=3&z=2009-07-01&g=2009-07-01), [3**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=3a&z=2009-07-01&g=2009-07-01) en [32 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&titeldeel=I&artikel=32&z=2009-07-01&g=2009-07-01) zijn op hen van overeenkomstige toepassing.
+1. Er kunnen staatsraden in buitengewone dienst worden benoemd ten getale van ten hoogste 50. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=3&z=2010-01-01&g=2010-01-01), [3**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=3a&z=2010-01-01&g=2010-01-01) en [32 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&titeldeel=I&artikel=32&z=2010-01-01&g=2010-01-01) zijn op hen van overeenkomstige toepassing.
 
 2. Zij worden gekozen uit hen, die bewijzen hebben gegeven van bekwaamheid in zaken van wetgeving, bestuur of rechtspraak dan wel van bijzondere deskundigheid in aangelegenheden, die de wetgeving, het bestuur of de rechtspraak raken.
 
@@ -259,7 +259,7 @@ De Raad regelt zijn verdeling in afdelingen, welke elk betrekking hebben op éé
 
 ##### Artikel 18a
 
-1. Een afdeling kan bij de voorbereiding van een ingevolge [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=15&z=2009-07-01&g=2009-07-01), uit te brengen advies omtrent vernietiging van een besluit, onderscheidenlijk bij het onderzoek van en de voorbereiding van een ontwerp-besluit inzake de beslissing van geschillen als bedoeld in [artikel 15**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=15c&z=2009-07-01&g=2009-07-01), belanghebbenden, getuigen, deskundigen en tolken oproepen om in een vergadering met gesloten deuren te worden gehoord. De [artikelen 32 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&titeldeel=I&artikel=32&z=2009-07-01&g=2009-07-01), alsmede de [artikelen 8:24](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:24), [8:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:25), [8:27 tot en met 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:27), [8:31](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:31), [8:32](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:32), [8:33 tot en met 8:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:33), [8:39](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:39), [8:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:50) en [8:61 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:61) zijn van overeenkomstige toepassing. Ambtsberichten en andere door Onze Minister wie het aangaat aangewezen stukken zijn niet openbaar.
+1. Een afdeling kan bij de voorbereiding van een ingevolge [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=15&z=2010-01-01&g=2010-01-01), uit te brengen advies omtrent vernietiging van een besluit, onderscheidenlijk bij het onderzoek van en de voorbereiding van een ontwerp-besluit inzake de beslissing van geschillen als bedoeld in [artikel 15**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=15c&z=2010-01-01&g=2010-01-01), belanghebbenden, getuigen, deskundigen en tolken oproepen om in een vergadering met gesloten deuren te worden gehoord. De [artikelen 32 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&titeldeel=I&artikel=32&z=2010-01-01&g=2010-01-01), alsmede de [artikelen 8:24](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:24), [8:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:25), [8:27 tot en met 8:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:27), [8:31](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:31), [8:32](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:32), [8:33 tot en met 8:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:33), [8:39](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:39), [8:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:50) en [8:61 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:61) zijn van overeenkomstige toepassing. Ambtsberichten en andere door Onze Minister wie het aangaat aangewezen stukken zijn niet openbaar.
 
 2. Het ontwerp van een koninklijk besluit tot vernietiging is niet openbaar.
 
@@ -267,11 +267,11 @@ De Raad regelt zijn verdeling in afdelingen, welke elk betrekking hebben op éé
 
 ##### Artikel 19
 
-De Raad regelt de werkzaamheden van de algemene vergadering en de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=17&z=2009-07-01&g=2009-07-01) bedoelde afdelingen, alsmede voor zover nodig de overige aangelegenheden, welke op het college betrekking hebben en niet uitsluitend de Afdeling bestuursrechtspraak aangaan. De regeling wordt in de **Staatscourant** bekend gemaakt.
+De Raad regelt de werkzaamheden van de algemene vergadering en de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=17&z=2010-01-01&g=2010-01-01) bedoelde afdelingen, alsmede voor zover nodig de overige aangelegenheden, welke op het college betrekking hebben en niet uitsluitend de Afdeling bestuursrechtspraak aangaan. De regeling wordt in de **Staatscourant** bekend gemaakt.
 
 ##### Artikel 20
 
-In de gevallen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=15&z=2009-07-01&g=2009-07-01), wordt de aangelegenheid hetzij door de Koning, op voordracht van Onze Minister wie het aangaat, hetzij door Onze Minister krachtens koninklijke machtiging, ter overweging aanhangig gemaakt.
+In de gevallen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=15&z=2010-01-01&g=2010-01-01), wordt de aangelegenheid hetzij door de Koning, op voordracht van Onze Minister wie het aangaat, hetzij door Onze Minister krachtens koninklijke machtiging, ter overweging aanhangig gemaakt.
 
 ##### Artikel 21
 
@@ -315,7 +315,7 @@ Van de koninklijke besluiten in zaken, waarover de Raad is gehoord, wordt aan de
 
 - a. adviezen van de Raad, door Ons gevraagd,
 
-- b. voordrachten en andere voorstellen Ons gedaan ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=16&z=2009-07-01&g=2009-07-01).
+- b. voordrachten en andere voorstellen Ons gedaan ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=16&z=2010-01-01&g=2010-01-01).
 
 2. Openbaarmaking van de adviezen, bedoeld in het eerste lid onder **a,** geschiedt te zamen met openbaarmaking van de aan de Raad voorgelegde tekst en van het nader rapport aan Ons. Zij heeft plaats voor wat betreft
 
@@ -327,7 +327,7 @@ Van de koninklijke besluiten in zaken, waarover de Raad is gehoord, wordt aan de
 
 - -. adviezen over algemene maatregelen van bestuur en andere koninklijke besluiten: gelijktijdig met de bekendmaking.
 
-3. Openbaarmaking van adviezen als bedoeld in het eerste lid, onder **a**, welke niet kan geschieden zoals voorzien in het tweede lid, alsmede openbaarmaking van voordrachten en andere voorstellen, gedaan ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=16&z=2009-07-01&g=2009-07-01), geschiedt uiterlijk binnen dertig dagen nadat is beslist op het advies, de voordracht of een ander voorstel van de Raad. Daarbij worden mede openbaar gemaakt het nader rapport en, in voorkomend geval, de aan de Raad voorgelegde tekst alsmede het koninklijk besluit, indien de openbaarmaking niet elders is geregeld. De openbaarmaking heeft plaats op de wijze, voorgeschreven in [artikel 9, eerste en tweede lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=9).
+3. Openbaarmaking van adviezen als bedoeld in het eerste lid, onder **a**, welke niet kan geschieden zoals voorzien in het tweede lid, alsmede openbaarmaking van voordrachten en andere voorstellen, gedaan ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=16&z=2010-01-01&g=2010-01-01), geschiedt uiterlijk binnen dertig dagen nadat is beslist op het advies, de voordracht of een ander voorstel van de Raad. Daarbij worden mede openbaar gemaakt het nader rapport en, in voorkomend geval, de aan de Raad voorgelegde tekst alsmede het koninklijk besluit, indien de openbaarmaking niet elders is geregeld. De openbaarmaking heeft plaats op de wijze, voorgeschreven in [artikel 9, eerste en tweede lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=9).
 
 4. Openbaarmaking blijft achterwege
 
@@ -339,7 +339,7 @@ Van de koninklijke besluiten in zaken, waarover de Raad is gehoord, wordt aan de
 
 ##### Artikel 25b
 
-1. De Tweede Kamer der Staten-Generaal en de Staten-Generaal in verenigde vergadering dragen zorg voor het openbaar maken van de adviezen van de Raad, bedoeld in [artikel 15**a**, eerste en tweede lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=15a&z=2009-07-01&g=2009-07-01), alsmede voor een schriftelijke reactie op deze adviezen.
+1. De Tweede Kamer der Staten-Generaal en de Staten-Generaal in verenigde vergadering dragen zorg voor het openbaar maken van de adviezen van de Raad, bedoeld in [artikel 15**a**, eerste en tweede lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=15a&z=2010-01-01&g=2010-01-01), alsmede voor een schriftelijke reactie op deze adviezen.
 
 2. Openbaarmaking van de adviezen geschiedt te zamen met openbaarmaking van de schriftelijke reactie.
 
@@ -427,7 +427,7 @@ Vervallen
 
 1. De vice-president voldoet aan het verzoek, tenzij:
 
-- a. niet is voldaan aan de vereisten, vermeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&titeldeel=I&artikel=32&z=2009-07-01&g=2009-07-01),
+- a. niet is voldaan aan de vereisten, vermeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&titeldeel=I&artikel=32&z=2010-01-01&g=2010-01-01),
 
 - b. reeds aanstonds blijkt dat het verzoekschrift onredelijk lang na het ontstaan van de klacht is ingediend of geen genoegzame gronden inhoudt om het instellen van een onderzoek te vorderen,
 
@@ -435,7 +435,7 @@ Vervallen
 
 - d. voor de verzoeker met betrekking tot de klacht een voorziening bij een rechterlijke instantie openstaat of heeft opengestaan en hij daarvan geen gebruik heeft gemaakt, dan wel ten aanzien van die klacht een uitspraak van een rechterlijke instantie is gedaan waartegen geen rechtsmiddel openstaat,
 
-- e. door de vice-president een vordering als bedoeld in [artikel 3**a** van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=3a&z=2009-07-01&g=2009-07-01) juncto [hoofdstuk 6A van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A) is of zal worden ingediend.
+- e. door de vice-president een vordering als bedoeld in [artikel 3**a** van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=3a&z=2010-01-01&g=2010-01-01) juncto [hoofdstuk 6A van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A) is of zal worden ingediend.
 
 2. De vice-president stelt de verzoeker en degene op wiens gedraging het verzoekschrift betrekking heeft, in de gelegenheid hem inlichtingen te verstrekken. Hij hoort de in de eerste volzin bedoelde personen, wanneer dezen dit verzoeken.
 
@@ -465,7 +465,7 @@ Vervallen
 
 ##### Artikel 36
 
-1. Indien bij de Afdeling beroep kan worden ingesteld, is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van de [artikelen 8:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1), [8:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4), [8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:5), [8:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:6), [8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7), [8:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:8), [8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:9), [8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:10) en [8:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:13), van overeenkomstige toepassing, met dien verstande dat [artikel 8:86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:86), slechts kan worden toegepast indien partijen daarvoor toestemming hebben gegeven. Ook hierop worden partijen in de uitnodiging, bedoeld in [artikel 8:83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:83), gewezen.
+1. Indien bij de Afdeling beroep kan worden ingesteld, is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van de [artikelen 8:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1), [8:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4), [8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:5), [8:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:6), [8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7), [8:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:8), [8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:9), [8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:10) , [8:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:13) en [8:51a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:51a), van overeenkomstige toepassing, met dien verstande dat [artikel 8:86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:86), slechts kan worden toegepast indien partijen daarvoor toestemming hebben gegeven. Ook hierop worden partijen in de uitnodiging, bedoeld in [artikel 8:83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:83), gewezen.
 
 2. De zaken die bij de Afdeling aanhangig worden gemaakt, worden in behandeling genomen door een meervoudige kamer.
 
@@ -474,6 +474,8 @@ Vervallen
 4. Indien een zaak naar het oordeel van de enkelvoudige kamer ongeschikt is voor behandeling door één rechter, verwijst zij deze naar een meervoudige kamer.
 
 5. Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.
+
+6. De Afdeling kan het bestuursorgaan opdragen een gebrek in het bestreden besluit te herstellen of te laten herstellen. De vorige volzin vindt geen toepassing, indien belanghebbenden die niet als partij aan het geding deelnemen daardoor onevenredig kunnen worden benadeeld.
 
 #### § 2. Hoger beroep
 
@@ -493,7 +495,11 @@ Vervallen
 
 - e. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:75**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75a), in verband met [artikel 8:84, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:84).
 
-3. Tegen andere beslissingen van de rechtbank onderscheidenlijk de voorzieningenrechter kan slechts tegelijkertijd met het hoger beroep tegen de in het eerste lid bedoelde uitspraak hoger beroep worden ingesteld.
+3. Tegelijkertijd met het hoger beroep tegen de in het eerste lid bedoelde uitspraak kan hoger beroep worden ingesteld tegen:
+
+- a. een tussenuitspraak als bedoeld in [artikel 8:80a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:80a); of
+
+- b. een andere beslissing van de rechtbank.
 
 ##### Artikel 38
 
@@ -507,7 +513,7 @@ Vervallen
 
 ##### Artikel 39
 
-1. Op het hoger beroep is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van [afdeling 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.1.1) en de [artikelen 8:10](onbekend), [8:13](onbekend), [8:41](onbekend), [8:74](onbekend) en [8:82](onbekend), van overeenkomstige toepassing, voor zover in deze paragraaf niet anders is bepaald. [Artikel 8:86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:84), kan slechts worden toegepast indien een enkelvoudige kamer van de rechtbank uitspraak op het beroep heeft gedaan.
+1. Op het hoger beroep is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van [afdeling 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.1.1) en de [artikelen 8:10](onbekend), [8:13](onbekend), [8:41](onbekend), [8:51a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:51a), [8:74](onbekend) en [8:82](onbekend), van overeenkomstige toepassing, voor zover in deze paragraaf niet anders is bepaald. [Artikel 8:86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:84), kan slechts worden toegepast indien een enkelvoudige kamer van de rechtbank uitspraak op het beroep heeft gedaan.
 
 2. De zaken die bij de Afdeling aanhangig worden gemaakt, worden in behandeling genomen door een meervoudige kamer.
 
@@ -516,6 +522,8 @@ Vervallen
 4. Indien een zaak naar het oordeel van de enkelvoudige kamer ongeschikt is voor behandeling door één rechter, verwijst zij deze naar een meervoudige kamer.
 
 5. Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.
+
+6. De Afdeling kan het bestuursorgaan opdragen een gebrek in het bestreden besluit te herstellen of te laten herstellen. De vorige volzin vindt geen toepassing, indien belanghebbenden die niet als partij aan het geding deelnemen daardoor onevenredig kunnen worden benadeeld.
 
 ##### Artikel 39a
 
@@ -545,9 +553,9 @@ Vervallen
 
 ##### Artikel 41
 
-1. Van de verzoeker om een voorlopige voorziening wordt door de secretaris een griffierecht geheven. [Artikel 40, eerste lid, tweede en derde volzin, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&titeldeel=II&paragraaf=2&artikel=40&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing.
+1. Van de verzoeker om een voorlopige voorziening wordt door de secretaris een griffierecht geheven. [Artikel 40, eerste lid, tweede en derde volzin, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&titeldeel=II&paragraaf=2&artikel=40&z=2010-01-01&g=2010-01-01), is van overeenkomstige toepassing.
 
-2. [Artikel 40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&titeldeel=II&paragraaf=2&artikel=40&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De voorzitter kan een kortere termijn stellen.
+2. [Artikel 40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&titeldeel=II&paragraaf=2&artikel=40&z=2010-01-01&g=2010-01-01), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De voorzitter kan een kortere termijn stellen.
 
 3. Indien het verzoek wordt ingetrokken omdat het bestuursorgaan, onderscheidenlijk de belanghebbende tot wie het bestreden besluit is gericht, aan de voorzitter schriftelijk heeft medegedeeld de uitvoering van het bestreden besluit hangende de procedure met betrekking tot de hoofdzaak op te schorten dan wel de gevraagde voorlopige maatregelen te zullen nemen, wordt het betaalde griffierecht door de secretaris terugbetaald. In de overige gevallen kan het bestuursorgaan, indien het verzoek wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.
 
@@ -579,7 +587,7 @@ De Afdeling bevestigt de uitspraak van de rechtbank, hetzij met overneming, hetz
 
 ##### Artikel 45
 
-In de gevallen, bedoeld in [artikel 44, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&titeldeel=II&paragraaf=2&artikel=44&z=2009-07-01&g=2009-07-01), kan de Afdeling de zaak zonder terugwijzing afdoen, indien zij naar haar oordeel geen nadere behandeling door de rechtbank behoeft.
+In de gevallen, bedoeld in [artikel 44, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=II&titeldeel=II&paragraaf=2&artikel=44&z=2010-01-01&g=2010-01-01), kan de Afdeling de zaak zonder terugwijzing afdoen, indien zij naar haar oordeel geen nadere behandeling door de rechtbank behoeft.
 
 ##### Artikel 46
 
@@ -589,7 +597,7 @@ Indien de Afdeling van oordeel is dat de uitspraak is gedaan door een andere rec
 
 ##### Artikel 47
 
-1. Tegen de vice-president, de staatsraden en de staatsraden in buitengewone dienst kan noch een rechtsvervolging, noch een rechtsvordering worden ingesteld wegens hetgeen zij tijdens de beraadslaging in de Raad, een afdeling als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=17&z=2009-07-01&g=2009-07-01), de Afdeling bestuursrechtspraak of een kamer van die Afdeling hebben gezegd, dan wel daaraan schriftelijk hebben overgelegd.
+1. Tegen de vice-president, de staatsraden en de staatsraden in buitengewone dienst kan noch een rechtsvervolging, noch een rechtsvordering worden ingesteld wegens hetgeen zij tijdens de beraadslaging in de Raad, een afdeling als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&hoofdstuk=I&artikel=17&z=2010-01-01&g=2010-01-01), de Afdeling bestuursrechtspraak of een kamer van die Afdeling hebben gezegd, dan wel daaraan schriftelijk hebben overgelegd.
 
 2. [Artikel 42 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=42) is van overeenkomstige toepassing op de leden van de Afdeling bestuursrechtspraak, met dien verstande dat in plaats van «Onze Minister» steeds wordt gelezen: de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
