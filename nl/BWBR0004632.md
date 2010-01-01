@@ -4,7 +4,7 @@ identifier: "BWBR0004632"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-08-01"
-last_updated: "2008-02-06"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004632"
 soort: "AMvB"
@@ -70,7 +70,7 @@ Burgemeester en wethouders ontlenen aan de gemeentelijke basisadministratie pers
 
 ##### Artikel D 1a
 
-1. Ten aanzien van personen die werkelijke woonplaats in de gemeente hebben, niet zijnde personen als bedoeld in [artikel D 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=D&artikel=D_1&z=2008-02-06&g=2008-02-06), en die als kiesgerechtigd in de gemeentelijke administratie worden opgenomen, registreren burgemeester en wethouders de volgende gegevens:
+1. Ten aanzien van personen die werkelijke woonplaats in de gemeente hebben, niet zijnde personen als bedoeld in [artikel D 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=D&artikel=D_1&z=2010-01-01&g=2010-01-01), en die als kiesgerechtigd in de gemeentelijke administratie worden opgenomen, registreren burgemeester en wethouders de volgende gegevens:
 
 - a. de geslachtsnaam;
 
@@ -112,17 +112,11 @@ Indien aan het orgaan waarbij overeenkomstig [artikel D 3, derde, vierde of vijf
 
 Het in [artikel D 3a, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=D_3a) bedoelde bestand bevat met betrekking tot elke persoon die hierin is opgenomen de naam, de voorletters, het woonadres, de geboortedatum en, indien van toepassing, het correspondentie-adres, zoals verstrekt door de verzoeker, alsmede de datum van opname in het bestand en, indien van toepassing, de datum van het laatste registratieverzoek.
 
-### Hoofdstuk E. Kieskringen, stemdistricten en stembureaus
+### Hoofdstuk E. Kieskringen en stembureaus
 
 ##### Artikel E 1
 
-1. Voor het houden van een zitting van het hoofdstembureau is de aanwezigheid van ten minste drie leden vereist.
-
-2. De leden die verhinderd zijn de zitting bij te wonen, geven hiervan onverwijld kennis aan de voorzitter. Deze zorgt voor de oproeping van plaatsvervangende leden.
-
-3. Bij verhindering van de voorzitter en de plaatsvervangend voorzitter treedt het oudste lid naar benoeming als voorzitter op dan wel, indien verscheidene leden even oud naar benoeming zijn, het oudste lid.
-
-4. Het hoofdstembureau neemt zijn beslissingen bij meerderheid van stemmen.
+Het stembureau bestaat uit ten minste drie en ten hoogste zeven leden.
 
 ### Hoofdstuk G. De registratie van de aanduiding van een politieke groepering
 
@@ -140,11 +134,11 @@ De formulieren voor de kandidatenlijsten, bedoeld in [artikel H 1, tweede lid, v
 
 ##### Artikel H 2
 
-1. Een kandidaat wordt op de kandidatenlijst vermeld met naam, voorletters, geboortedatum, adres en woonplaats. Achter de voorletters kan tussen haakjes de roepnaam van de kandidaat worden vermeld.
+1. Een kandidaat wordt op de kandidatenlijst vermeld met naam, voorletters, geboortedatum en woonplaats. Achter de voorletters kan tussen haakjes de roepnaam van de kandidaat worden vermeld. Tevens kan het adres van de kandidaat worden vermeld.
 
 2. Nadere aanduidingen van de naam, mits op de gebruikelijke wijze afgekort, mogen aan de naam worden toegevoegd.
 
-3. Een persoon die gehuwd is of gehuwd is geweest, dan wel wiens partnerschap geregistreerd is of geregistreerd is geweest, wordt op de lijst vermeld hetzij met de eigen geslachtsnaam, hetzij, voor zover hij daartoe op grond van artikel 9 van Boek 1 van het Burgerlijk Wetboek bevoegd is, met de geslachtsnaam van de echtgenoot of geregistreerde partner, dan wel met de eigen geslachtsnaam door middel van een liggend streepje gevolgd door of voorafgegaan door de geslachtsnaam van de echtgenoot of geregistreerde partner.
+3. Een persoon die gehuwd is of gehuwd is geweest, dan wel wiens partnerschap geregistreerd is of geregistreerd is geweest, wordt op de lijst vermeld hetzij met de eigen geslachtsnaam, hetzij, voor zover hij daartoe op grond van [artikel 9 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=9) bevoegd is, met de geslachtsnaam van de echtgenoot of geregistreerde partner, dan wel met de eigen geslachtsnaam door middel van een liggend streepje gevolgd door of voorafgegaan door de geslachtsnaam van de echtgenoot of geregistreerde partner.
 
 4. Achter de voorletters of, indien vermeld, de roepnaam, mag ter aanduiding van het geslacht van de kandidaat de toevoeging «(m)» of «(v)» worden geplaatst.
 
@@ -176,13 +170,35 @@ De formulieren voor de kandidatenlijsten, bedoeld in [artikel H 1, tweede lid, v
 
 ##### Artikel J 1
 
-1. De kandidatenlijsten worden ter kennis van de kiezers gebracht door deze uiterlijk op de vierde dag voor de stemming in afdruk aan het adres van de kiezers te bezorgen.
+1. De burgemeester bezorgt de kandidatenlijsten, de adressen en de openingstijden van de stemlokalen en de adressen en de zittingstijden van de mobiele stembureaus uiterlijk op de vierde dag voor de stemming aan het adres van de kiezers. Hierbij vermeldt hij tevens welke stemlokalen voldoen aan [artikel J 4, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_4).
 
 2. Op de lijsten, zoals deze ter kennis van de kiezers worden gebracht, worden vermeld de nummers van de lijsten en, in voorkomend geval, de aanduidingen van de politieke groeperingen en de nummers van de lijsten waarmee die lijsten tot een lijstencombinatie zijn verbonden en worden de kandidaten kolomsgewijs vermeld zoals ze op de kandidatenlijst voorkomen, met weglating van het adres en de geboortedatum. De lijsten worden gedrukt in de volgorde van de toegekende nummers. De kandidaten worden per lijst doorlopend genummerd.
 
 ##### Artikel J 2
 
-De opgave, bedoeld in [artikel J 17, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_17), bevat van elke kiezer de naam, de voornamen of voorletters, de geboortedatum en het adres.
+1. Het register, bedoeld in [artikel J 7a, eerste lid, eerste volzin, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_7a), bevat de volgende gegevens:
+
+- a. gemeentecode en volgnummer van de stempas;
+
+- b. naam, voorletters, geslacht en geboortedatum van de kiesgerechtigde;
+
+- c. naam of kenmerk van de ambtenaar die de gegevens heeft opgenomen in het register;
+
+- d. aanduiding van een van de volgende redenen van opneming in het register:
+
+- 1. vervangen door kiezerspas;
+
+- 2. vervangen door volmachtbewijs;
+
+- 3. vervangende stempas verstrekt krachtens [artikel J 8 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_8);
+
+- 4. vervangen door briefstembewijs;
+
+- 5. ongeldig verklaard wegens ontbreken kiesgerechtigdheid of overlijden van de tenaamgestelde;
+
+- 6. ongeldig verklaard wegens vastgestelde ontvreemding of andere reden van onrechtmatig in omloop zijn.
+
+2. Het uittreksel van ongeldige stempassen, bedoeld in [artikel J 7a, eerste lid, tweede volzin, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_7a), bevat de gegevens, bedoeld in het eerste lid, onder a, b en d.
 
 ##### Artikel J 3
 
@@ -220,15 +236,15 @@ Nadat de laatste tot de stemming toegelaten kiezer heeft gestemd, wordt de sleuf
 
 ##### Artikel J 9
 
-Indien met toepassing van [artikel J 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_6) tegelijk met de stemming in het stemlokaal een of meer andere stemmingen plaatsvinden, gelden de [artikelen J 10 tot en met J 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_9&z=2008-02-06&g=2008-02-06).
+Indien met toepassing van [artikel J 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_6) tegelijk met de stemming in het stemlokaal een of meer andere stemmingen plaatsvinden, gelden de [artikelen J 10 tot en met J 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_9&z=2010-01-01&g=2010-01-01).
 
 ##### Artikel J 10
 
 1. Voor zover de stemgerechtigden voor de stemming ingevolge de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) en de andere stemming, onderscheidenlijk stemmingen, dezelfde zijn, kan de burgemeester besluiten dat tevens voor een of meer andere stemmingen gelden:
 
-- a. de oproepingskaart, bedoeld in [artikel J 7 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_7);
+- a. de stempas, bedoeld in [artikel J 7 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_7);
 
-- b. het afschrift, bedoeld in [artikel J 17, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_17);
+- b. het uittreksel, bedoeld in [artikel J 7a, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_7a);
 
 - c. het verzoekschrift, bedoeld in [artikel K 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=K_6);
 
@@ -242,7 +258,7 @@ Indien met toepassing van [artikel J 6 van de Kieswet](https://wetten.overheid.n
 
 - b. De verzegelde pakken, bedoeld in [artikel N 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_2), kunnen zo nodig voor de beoordeling van de geldigheid van de andere stemming, onderscheidenlijk stemmingen, of van de juistheid van de vaststelling van de uitslag van de andere stemming, onderscheidenlijk stemmingen, worden geopend. Na gebruik worden de pakken opnieuw verzegeld.
 
-- c. De kiezers zijn bevoegd bij de handelingen, bedoeld onder **b** , aanwezig te zijn.
+- c. De kiezers zijn bevoegd bij de handelingen, bedoeld onder b, aanwezig te zijn.
 
 ##### Artikel J 11
 
@@ -376,9 +392,9 @@ Vervallen
 
 - b. de teruggegeven en onbruikbaar gemaakte stembiljetten;
 
-- c. de ingeleverde oproepingskaarten;
+- c. de ingeleverde stempassen;
 
-- d. het afschrift, bedoeld in [artikel J 17 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_17), dan wel de verzoekschriften, bedoeld in [artikel M 4, vierde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_4);
+- d. het uittreksel, bedoeld in [artikel J 7a, eerste lid van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_7a), dan wel de verzoekschriften, bedoeld in [artikel M 4, vierde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_4);
 
 - e. de ingeleverde kiezerspassen, volmachtbewijzen en briefstembewijzen;
 
@@ -388,7 +404,7 @@ Vervallen
 
 ##### Artikel J 28
 
-Indien de stemopneming is geschorst voordat de stembus zou worden geopend, is [artikel J 27, tweede lid en derde lid, aanhef en onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_27&z=2008-02-06&g=2008-02-06), van overeenkomstige toepassing.
+Indien de stemopneming is geschorst voordat de stembus zou worden geopend, is [artikel J 27, tweede lid en derde lid, aanhef en onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_27&z=2010-01-01&g=2010-01-01), van overeenkomstige toepassing.
 
 ##### Artikel J 29
 
@@ -404,11 +420,11 @@ Onmiddellijk na de ondertekening van het proces-verbaal wordt dit met de stembus
 
 ##### Artikel J 32
 
-De burgemeester stelt tijdig voor de aanvang van de hervatte zitting de hem ingevolge [artikel J 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_31&z=2008-02-06&g=2008-02-06) overgegeven stembus, verzegelde pakken en verzegelde enveloppe ter beschikking van het stembureau.
+De burgemeester stelt tijdig voor de aanvang van de hervatte zitting de hem ingevolge [artikel J 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_31&z=2010-01-01&g=2010-01-01) overgegeven stembus, verzegelde pakken en verzegelde enveloppe ter beschikking van het stembureau.
 
 ##### Artikel J 33
 
-1. In geval van een schorsing als bedoeld in [artikel J 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_27&z=2008-02-06&g=2008-02-06) opent het stembureau tijdig voor de aanvang van de hervatte stemming de verzegelde pakken en de verzegelde enveloppe en stelt het het aantal biljetten opnieuw vast. Voor deze stemming wordt een andere stembus gebezigd.
+1. In geval van een schorsing als bedoeld in [artikel J 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_27&z=2010-01-01&g=2010-01-01) opent het stembureau tijdig voor de aanvang van de hervatte stemming de verzegelde pakken en de verzegelde enveloppe en stelt het het aantal biljetten opnieuw vast. Voor deze stemming wordt een andere stembus gebezigd.
 
 2. De hervatte stemming duurt tot eenentwintig uur.
 
@@ -416,11 +432,11 @@ De burgemeester stelt tijdig voor de aanvang van de hervatte zitting de hem inge
 
 ##### Artikel J 34
 
-In geval van een schorsing als bedoeld in [artikel J 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_28&z=2008-02-06&g=2008-02-06) opent het stembureau na de aanvang van de hervatte zitting de verzegelde pakken en verzegelde enveloppe en begint het opnieuw met de stemopneming.
+In geval van een schorsing als bedoeld in [artikel J 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_28&z=2010-01-01&g=2010-01-01) opent het stembureau na de aanvang van de hervatte zitting de verzegelde pakken en verzegelde enveloppe en begint het opnieuw met de stemopneming.
 
 ##### Artikel J 35
 
-In geval van een schorsing als bedoeld in [artikel J 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_29&z=2008-02-06&g=2008-02-06) opent het stembureau na de aanvang van de hervatte zitting de verzegelde enveloppe en de stembus en zet het de stemopneming voort.
+In geval van een schorsing als bedoeld in [artikel J 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_29&z=2010-01-01&g=2010-01-01) opent het stembureau na de aanvang van de hervatte zitting de verzegelde enveloppe en de stembus en zet het de stemopneming voort.
 
 #### § 5. Waarnemers bij de verkiezingen
 
@@ -430,11 +446,11 @@ In geval van een schorsing als bedoeld in [artikel J 29](https://wetten.overheid
 
 2. Een aankondiging als bedoeld in het eerste lid bevat ten minste de volgende informatie:
 
-- a. de termijn, bedoeld in [artikel J 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2008-02-06&g=2008-02-06), voor het aanmelden van personen, en de verdere procedure die gevolgd moet worden om personen in aanmerking te laten komen als waarnemer;
+- a. de termijn, bedoeld in [artikel J 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2010-01-01&g=2010-01-01), voor het aanmelden van personen, en de verdere procedure die gevolgd moet worden om personen in aanmerking te laten komen als waarnemer;
 
-- b. de bij de aanmelding te vermelden gegevens, genoemd in [artikel J 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2008-02-06&g=2008-02-06);
+- b. de bij de aanmelding te vermelden gegevens, genoemd in [artikel J 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2010-01-01&g=2010-01-01);
 
-- c. de verplichting, bedoeld in [artikel J 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2008-02-06&g=2008-02-06), tot overlegging van een afschrift van een geldig paspoort.
+- c. de verplichting, bedoeld in [artikel J 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=J&paragraaf=5&artikel=J_37&z=2010-01-01&g=2010-01-01), tot overlegging van een afschrift van een geldig paspoort.
 
 ##### Artikel J 37
 
@@ -476,7 +492,7 @@ De stukken, bedoeld in [artikel M 6, eerste lid, van de Kieswet](https://wetten.
 
 ##### Artikel M 2
 
-Indien burgemeester en wethouders van 's-Gravenhage gebruik hebben gemaakt van hun bevoegdheid, bedoeld in [artikel M 9, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_9), gelden ten aanzien van de extra zittingen van de briefstembureaus voorafgaande aan de dag van de stemming de [artikelen M 3 tot en met M 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_3&z=2008-02-06&g=2008-02-06).
+Indien burgemeester en wethouders van 's-Gravenhage gebruik hebben gemaakt van hun bevoegdheid, bedoeld in [artikel M 9, tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_9), gelden ten aanzien van de extra zittingen van de briefstembureaus voorafgaande aan de dag van de stemming de [artikelen M 3 tot en met M 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_3&z=2010-01-01&g=2010-01-01).
 
 ##### Artikel M 3
 
@@ -518,7 +534,7 @@ Ten minste twee weken vóór de eerste zitting brengen burgemeester en wethouder
 
 ##### Artikel M 7
 
-1. De burgemeester van 's-Gravenhage of een door deze aan te wijzen ambtenaar stelt tijdig voor de aanvang van de stemopneming bedoeld in [artikel N 16a, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_16a) de aan hem ingevolge [artikel M 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_6&z=2008-02-06&g=2008-02-06), overgedragen stembussen, verzegelde enveloppen en verzoekschriften waarvan de handtekening nog niet vergeleken is, ter beschikking aan de voorzitter van het briefstembureau.
+1. De burgemeester van 's-Gravenhage of een door deze aan te wijzen ambtenaar stelt tijdig voor de aanvang van de stemopneming bedoeld in [artikel N 16a, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_16a) de aan hem ingevolge [artikel M 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_6&z=2010-01-01&g=2010-01-01), overgedragen stembussen, verzegelde enveloppen en verzoekschriften waarvan de handtekening nog niet vergeleken is, ter beschikking aan de voorzitter van het briefstembureau.
 
 2. Tijdig voor de aanvang van de stemopneming opent het stembureau de verzegelde enveloppen, waarna het vervolgens de stembussen opent.
 
@@ -562,7 +578,7 @@ Vervallen
 
 ##### Artikel N 9
 
-Indien met toepassing van [artikel N 16a van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_16a) de briefstembureaus te 's-Gravenhage op de dag van stemming aanvangen met de stemopneming, gelden ten aanzien van de schorsing en hervatting hiervan de[artikelen N 10 tot en met N 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_10&z=2008-02-06&g=2008-02-06).
+Indien met toepassing van [artikel N 16a van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_16a) de briefstembureaus te 's-Gravenhage op de dag van stemming aanvangen met de stemopneming, gelden ten aanzien van de schorsing en hervatting hiervan de[artikelen N 10 tot en met N 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_10&z=2010-01-01&g=2010-01-01).
 
 ##### Artikel N 10
 
@@ -576,7 +592,7 @@ Onmiddellijk na de ondertekening van het proces-verbaal, wordt dit tezamen met d
 
 ##### Artikel N 12
 
-Zodra de handelingen, bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_10) en [M 11 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_11), ten aanzien van alle tijdig binnengekomen retourenveloppen zijn beëindigd, stelt de burgemeester de hem ingevolge [artikel M 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_6&z=2008-02-06&g=2008-02-06) overhandigde verzegelde pakken en processen-verbaal van de extra zittingen en het hem ingevolge [artikel N 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_11&z=2008-02-06&g=2008-02-06) overhandigde proces-verbaal van de stemopneming en de verzegelde pakken met stembiljetten ter beschikking van het stembureau.
+Zodra de handelingen, bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_10) en [M 11 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_11), ten aanzien van alle tijdig binnengekomen retourenveloppen zijn beëindigd, stelt de burgemeester de hem ingevolge [artikel M 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=M&artikel=M_6&z=2010-01-01&g=2010-01-01) overhandigde verzegelde pakken en processen-verbaal van de extra zittingen en het hem ingevolge [artikel N 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_11&z=2010-01-01&g=2010-01-01) overhandigde proces-verbaal van de stemopneming en de verzegelde pakken met stembiljetten ter beschikking van het stembureau.
 
 ##### Artikel N 13
 
@@ -606,7 +622,7 @@ De formulieren voor de kandidatenlijsten, bedoeld in [artikel R 1, tweede lid, v
 
 ##### Artikel R 2
 
-1. Een kandidaat wordt op de kandidatenlijst vermeld met naam, voorletters, geboortedatum, adres en woonplaats. Achter de voorletters kan tussen haakjes de roepnaam van de kandidaat worden vermeld.
+1. Een kandidaat wordt op de kandidatenlijst vermeld met naam, voorletters, geboortedatum en woonplaats. Achter de voorletters kan tussen haakjes de roepnaam van de kandidaat worden vermeld. Tevens kan het adres van de kandidaat worden vermeld.
 
 2. Nadere aanduidingen van de naam, mits op de gebruikelijke wijze afgekort, mogen aan de naam worden toegevoegd.
 
@@ -620,7 +636,7 @@ Achter de voorletters of, indien vermeld, de roepnaam, mag ter aanduiding van he
 
 ##### Artikel Y 1
 
-Ten aanzien van de verkiezing van de leden van het Europese Parlement zijn, voor zover deze afdeling niet anders bepaalt, de bij [afdeling II](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&z=2008-02-06&g=2008-02-06) van dit besluit gestelde bepalingen inzake de verkiezing van de leden van de Tweede Kamer van overeenkomstige toepassing.
+Ten aanzien van de verkiezing van de leden van het Europese Parlement zijn, voor zover deze afdeling niet anders bepaalt, de bij [afdeling II](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&z=2010-01-01&g=2010-01-01) van dit besluit gestelde bepalingen inzake de verkiezing van de leden van de Tweede Kamer van overeenkomstige toepassing.
 
 ##### Artikel Y 1a
 
@@ -628,13 +644,13 @@ De formulieren voor het verzoek, bedoeld in [artikel Y 32, eerste lid, van de Ki
 
 ##### Artikel Y 2
 
-De formulieren voor de kandidatenlijsten en de verklaringen, bedoeld in [artikel H 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=H&artikel=H_1&z=2008-02-06&g=2008-02-06), zijn gedurende drie weken vóór en op de dag van de kandidaatstelling mede verkrijgbaar bij het centraal stembureau voor de verkiezing van de leden van het Europese Parlement.
+De formulieren voor de kandidatenlijsten en de verklaringen, bedoeld in [artikel H 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&afdeling=II&hoofdstuk=H&artikel=H_1&z=2010-01-01&g=2010-01-01), zijn gedurende drie weken vóór en op de dag van de kandidaatstelling mede verkrijgbaar bij het centraal stembureau voor de verkiezing van de leden van het Europese Parlement.
 
 ##### Artikel Y 3
 
 1. De formulieren voor de schriftelijke verklaring, bedoeld in [artikel Y 13, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Y_13), zijn gedurende drie weken vóór en op de dag van de kandidaatstelling verkrijgbaar bij het centraal stembureau voor de verkiezing van de leden van het Europese Parlement.
 
-2. Indien de kandidaat zich buiten Nederland bevindt, is de verklaring niet aan enig formulier gebonden en kan zij ook telegrafisch of per telex geschieden.
+2. Indien de kandidaat zich buiten Nederland bevindt, is de verklaring niet aan enig formulier gebonden en kan zij ook elektronisch geschieden.
 
 ##### Artikel Y 4
 
@@ -669,6 +685,60 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ##### Artikel Y 7
 
 Bij regeling van Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties kunnen nadere regels worden gesteld omtrent de wijze en het tijdstip waarop de mededeling, bedoeld in [artikel Y 32, achtste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Y_32), dient te geschieden.
+
+### Afdeling V. Slot- en overgangsbepalingen
+
+### Hoofdstuk Z. Slot- en overgangsbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel E 2
+
+1. Voor het houden van een zitting van het hoofdstembureau is de aanwezigheid van ten minste drie leden vereist.
+
+2. De leden die verhinderd zijn de zitting bij te wonen, geven hiervan onverwijld kennis aan de voorzitter. Deze zorgt voor de oproeping van plaatsvervangende leden.
+
+3. Bij verhindering van de voorzitter en de plaatsvervangend voorzitter treedt het oudste lid naar benoeming als voorzitter op dan wel, indien verscheidene leden even oud naar benoeming zijn, het oudste lid.
+
+4. Het hoofdstembureau neemt zijn beslissingen bij meerderheid van stemmen.
+
+### Hoofdstuk G. De registratie van de aanduiding van een politieke groepering
+
+### Hoofdstuk H. De inlevering van de kandidatenlijsten
+
+### Hoofdstuk I. Het onderzoek, de verbinding, de nummering en de openbaarmaking van de kandidatenlijsten
+
+### Hoofdstuk J. De stemming
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Het combineren van stemmingen
+
+#### § 3. Het stemmen door middel van elektronische stemmachines
+
+#### § 4. De schorsing van de zitting van het stembureau
+
+#### § 5. Waarnemers bij de verkiezingen
+
+### HOOFDSTUK K. Het stemmen in een stembureau naar keuze van de kiezer
+
+### Hoofdstuk M. Het stemmen per brief
+
+### Hoofdstuk N. De stemopneming door het stembureau
+
+#### § 1. De stemopneming door een stembureau waar met stemmachines wordt gestemd
+
+#### § 2. Regeling van de schorsing en hervatting van de stemopneming.
+
+### Hoofdstuk P. De vaststelling van de verkiezingsuitslag door het centraal stembureau
+
+### Afdeling III. De verkiezing van de leden van de Eerste Kamer der Staten-Generaal
+
+### Hoofdstuk R. De inlevering van de kandidatenlijsten
+
+### Afdeling IV. De verkiezing van de leden van het Europese Parlement
+
+### Hoofdstuk Y. De verkiezing van de leden van het Europese Parlement
 
 ### Afdeling V. Slot- en overgangsbepalingen
 
