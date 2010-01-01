@@ -57,11 +57,3 @@ Met ingang van 1 januari 2010 wordt de beleidsregel ‘[Titulatuur op grond van 
 ### 7. Bekendmaking
 
 Deze beleidsregel met de toelichting wordt geplaatst in de Staatscourant.
-
-### 6. Intrekking
-
-Met ingang van 1 januari 2010 wordt de beleidsregel ‘[Titulatuur op grond van artikel 7.23 van WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0020481)’ (kenmerk AGOCW/MT/06.048 d.d. 30 oktober 2006 ) ingetrokken.
-
-### 7. Bekendmaking
-
-Deze beleidsregel met de toelichting wordt geplaatst in de Staatscourant.
