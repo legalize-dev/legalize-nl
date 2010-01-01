@@ -165,9 +165,3 @@ Deze regeling wordt aangehaald als: Regeling werkzaamheden, administratieve voor
 Deze regeling treedt in werking met ingang van 1 januari 2010.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7a. Grondslag
-
-Deze regeling berust op [artikel 63a, negende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
