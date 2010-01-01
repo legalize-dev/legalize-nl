@@ -4,7 +4,7 @@ identifier: "BWBR0012999"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-01-01"
-last_updated: "2001-11-17"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012999"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ In het Bestuurlijk Overleg wordt overleg gevoerd met in achtneming van de in het
 
 - b. een vertegenwoordiger van de Vereniging van Nederlandse Gemeenten (VNG);
 
-- c. een waarnemer op aanwijzing van de hoofddirectie Centrale Financiën Instellingen (CFI).
+- c. een waarnemer op aanwijzing van de Dienst Uitvoering Onderwijs.
 
 2. Indien dat voor de behandeling van een onderwerp van belang is, kan de directeur Primair Onderwijs vertegenwoordigers van andere organisaties en overige deskundigen uitnodigen aan het overleg deel te nemen.
 
