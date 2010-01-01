@@ -4,7 +4,7 @@ identifier: "BWBR0007762"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-07-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007762"
 soort: "ministeriele-regeling"
@@ -41,23 +41,23 @@ Besluit:
 
 ##### Artikel 1
 
-- A. De grondslag voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn wordt vastgesteld op: € 1.494,52;
+- A. De grondslag voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn wordt vastgesteld op: € 1.504,42;
 
-- B. De grondslag voor de alleenstaande werkloze werknemer van 21 jaar of ouder met een of meer kinderen wordt vastgesteld op: € 1.452,26;
+- B. De grondslag voor de alleenstaande werkloze werknemer van 21 jaar of ouder met een of meer kinderen wordt vastgesteld op: € 1.454,86;
 
-- C. De grondslag voor de alleenstaande werkloze werknemer van 23 jaar of ouder zonder kinderen wordt vastgesteld op: € 1.149,62;
+- C. De grondslag voor de alleenstaande werkloze werknemer van 23 jaar of ouder zonder kinderen wordt vastgesteld op: € 1.156,76;
 
-- D. De grondslag voor de alleenstaande werkloze werknemer van 22 jaar zonder kinderen wordt vastgesteld op: € 898,16;
+- D. De grondslag voor de alleenstaande werkloze werknemer van 22 jaar zonder kinderen wordt vastgesteld op: € 903,11;
 
-- E. De grondslag voor de alleenstaande werkloze werknemer van 21 jaar zonder kinderen wordt vastgesteld op: € 754,26;
+- E. De grondslag voor de alleenstaande werkloze werknemer van 21 jaar zonder kinderen wordt vastgesteld op: € 760,97;
 
-- F. De grondslag voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen wordt vastgesteld op: € 1.381,37;
+- F. De grondslag voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen wordt vastgesteld op: € 1.387,38;
 
-- G. De grondslag voor de thuisinwonende werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen wordt vastgesteld op: € 941,78;
+- G. De grondslag voor de thuisinwonende werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen wordt vastgesteld op: € 945,16;
 
-- H. De grondslag voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar zonder kinderen wordt vastgesteld op: € 716,41;
+- H. De grondslag voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar zonder kinderen wordt vastgesteld op: € 723,97;
 
-- I. De grondslag voor de thuisinwonende werkloze werknemer zonder kinderen zonder kinderen wordt vastgesteld op: € 344,82.
+- I. De grondslag voor de thuisinwonende werkloze werknemer zonder kinderen zonder kinderen wordt vastgesteld op: € 346,53.
 
 ##### Artikel 2
 
