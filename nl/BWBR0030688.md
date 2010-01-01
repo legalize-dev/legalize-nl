@@ -4,7 +4,7 @@ identifier: "BWBR0030688"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2009-07-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030688"
 soort: "wet"
@@ -66,7 +66,7 @@ Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzek
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Successiewet 1956.
 
 ##### Artikel VII
 
