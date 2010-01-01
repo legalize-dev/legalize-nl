@@ -4,7 +4,7 @@ identifier: "BWBR0005009"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2009-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005009"
 soort: "wet"
@@ -43,17 +43,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Lijkbezorging geschiedt door begraving, verbranding of op andere bij of krachtens de wet voorziene wijze.
+Lijkbezorging geschiedt door begraving, crematie of op andere bij of krachtens de wet voorziene wijze.
 
 ##### Artikel 2
 
-1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder
+1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. lijk: het stoffelijk overschot van een overledene of doodgeborene;
+- a. **lijk:** het lichaam van een overledene of doodgeborene;
 
-- b. doodgeborene: de na een zwangerschapsduur van ten minste vier en twintig weken ter wereld gekomen menselijke vrucht, welke na de geboorte geen enkel teken van levensverrichting heeft vertoond.
+- b. **doodgeborene:** de na een zwangerschapsduur van ten minste 24 weken levenloos ter wereld gekomen menselijke vrucht.
 
-2. De bepalingen dezer wet zijn niet van toepassing op een na een zwangerschapsduur van minder dan vier en twintig weken ter wereld gekomen menselijke vrucht.
+2. Deze wet is niet van toepassing op een menselijke vrucht die na een zwangerschapsduur van minder dan 24 weken
+
+- a. levenloos ter wereld is gekomen dan wel
+
+- b. binnen 24 uur na de geboorte is overleden.
 
 ### Hoofdstuk II. Algemene voorschriften voor de lijkbezorging
 
@@ -61,7 +65,7 @@ Lijkbezorging geschiedt door begraving, verbranding of op andere bij of krachten
 
 ##### Artikel 3
 
-Lijkschouwing geschiedt door de behandelende arts of door een gemeentelijke lijkschouwer.
+Lijkschouwing geschiedt, zo spoedig mogelijk na het overlijden, door de behandelende arts of door een gemeentelijke lijkschouwer.
 
 ##### Artikel 4
 
@@ -69,7 +73,7 @@ Burgemeester en wethouders verschaffen gelegenheid tot het doen schouwen van lij
 
 ##### Artikel 5
 
-De gemeentelijke lijkschouwers dienen bevoegd te zijn de titel van arts te voeren.
+Uitsluitend artsen die als forensisch arts zijn ingeschreven in een daartoe gehouden register, worden benoemd als gemeentelijke lijkschouwer.
 
 ##### Artikel 6
 
@@ -81,73 +85,73 @@ De gemeentelijke lijkschouwers dienen bevoegd te zijn de titel van arts te voere
 
 1. Hij die de schouwing heeft verricht geeft een verklaring van overlijden af, indien hij ervan overtuigd is dat de dood is ingetreden ten gevolge van een natuurlijke oorzaak.
 
-2. Indien het overlijden het gevolg was van de toepassing van levensbeëindiging op verzoek of hulp bij zelfdoding als bedoeld in [artikel 293, tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293), onderscheidenlijk [artikel 294, tweede lid, tweede volzin, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294), geeft de behandelende arts geen verklaring van overlijden af en doet hij van de oorzaak van dit overlijden onverwijld door invulling van een formulier mededeling aan de gemeentelijke lijkschouwer of een der gemeentelijke lijkschouwers. Bij de mededeling voegt de arts een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2).
+2. Indien het overlijden het gevolg was van de toepassing van levensbeëindiging op verzoek of hulp bij zelfdoding als bedoeld in [artikel 293, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=293), onderscheidenlijk [artikel 294, tweede lid, tweede volzin, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=294), geeft de behandelende arts geen verklaring van overlijden af en doet hij van de oorzaak van dit overlijden onverwijld door invulling van een formulier mededeling aan de gemeentelijke lijkschouwer of een der gemeentelijke lijkschouwers. Bij de mededeling voegt de arts een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2).
 
 3. Indien de behandelende arts in andere gevallen dan die bedoeld in het tweede lid meent niet tot afgifte van een verklaring van overlijden te kunnen overgaan, doet hij hiervan onverwijld door invulling van een formulier mededeling aan de gemeentelijke lijkschouwer of een der gemeentelijke lijkschouwers.
 
 ##### Artikel 8
 
-1. Op de kist of op het andere omhulsel van het lijk wordt een registratienummer vermeld.
+1. Op de kist of op een ander omhulsel van het lijk wordt een registratienummer aangebracht, dat correspondeert met het nummer, vermeld op een bijgevoegd document dat tevens de namen, de data van geboorte en overlijden van de overledene dan wel de geslachtsnaam van de doodgeborene bevat, nadat is vastgesteld dat het document betrekking heeft op het lijk.
 
-2. Tot begraving of verbranding wordt niet overgegaan dan nadat de houder van de begraafplaats of van het crematorium de identiteit van het lijk heeft vastgesteld door vergelijking van het op de kist of het omhulsel vermelde registratienummer met dat, vermeld op een bijgevoegd document dat tevens de namen, overlijdens- en geboortedata van de overledene dan wel de geslachtsnaam van de doodgeborene bevat.
+2. Tot begraving of crematie wordt niet overgegaan dan nadat de houder van de begraafplaats of van het crematorium de overeenkomst heeft vastgesteld tussen het op de kist of het omhulsel vermelde registratienummer en het nummer, vermeld op het document, bedoeld in het eerste lid.
 
-3. Indien de identiteit niet genoegzaam blijkt, vindt zo mogelijk de identificatie van het lijk plaats door twee personen die de overledene bij het leven hebben gekend, in tegenwoordigheid van de houder van de begraafplaats of het crematorium.
+3. Indien er reden is om aan te nemen dat de gegevens op het document dan wel op de kist of het omhulsel niet juist zijn, vindt zo mogelijk de identificatie van het lijk plaats door twee personen die de overledene bij leven hebben gekend, in tegenwoordigheid van de houder van de begraafplaats of het crematorium.
 
 ##### Artikel 9
 
 1. De vorm en de inrichting van de modellen van de verklaring van overlijden, af te geven door de behandelende arts en door de gemeentelijke lijkschouwer, worden geregeld bij algemene maatregel van bestuur.
 
-2. De vorm en de inrichting van de modellen van de mededeling en het verslag, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=7&z=2009-01-01&g=2009-01-01), van de mededeling bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=7&z=2009-01-01&g=2009-01-01) en van de formulieren bedoeld in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=10&z=2009-01-01&g=2009-01-01), worden geregeld bij algemene maatregel van bestuur op voordracht van Onze Minister van Justitie en Onze Minister van Volksgezondheid, Welzijn en Sport.
+2. De vorm en de inrichting van de modellen van de mededeling en het verslag, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=7&z=2010-01-01&g=2010-01-01), van de mededeling bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=7&z=2010-01-01&g=2010-01-01) en van de formulieren bedoeld in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=10&z=2010-01-01&g=2010-01-01), worden geregeld bij algemene maatregel van bestuur op voordracht van Onze Minister van Justitie en Onze Minister van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 10
 
 1. Indien de gemeentelijke lijkschouwer meent niet tot afgifte van een verklaring van overlijden te kunnen overgaan, brengt hij door invulling van een formulier onverwijld verslag uit aan de officier van justitie en waarschuwt hij onverwijld de ambtenaar van de burgerlijke stand.
 
-2. Onverminderd het eerste lid brengt de gemeentelijke lijkschouwer, indien sprake is van een mededeling als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=7&z=2009-01-01&g=2009-01-01), door invulling van een formulier onverwijld verslag uit aan de regionale toetsingscommissie bedoeld in [artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=3). Hij zendt het beredeneerd verslag als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=7&z=2009-01-01&g=2009-01-01), mee.
+2. Onverminderd het eerste lid brengt de gemeentelijke lijkschouwer, indien sprake is van een mededeling als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=7&z=2010-01-01&g=2010-01-01), door invulling van een formulier onverwijld verslag uit aan de regionale toetsingscommissie bedoeld in [artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=3). Hij zendt het beredeneerd verslag als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=7&z=2010-01-01&g=2010-01-01), mee.
 
 #### § 2. Verlof tot begraving of verbranding
 
 ##### Artikel 11
 
-Geen begraving of verbranding van een lijk geschiedt zonder schriftelijk verlof van de ambtenaar van de burgerlijke stand, dat kosteloos wordt afgegeven. Het formulier voor dit verlof wordt door Onze Minister van Binnenlandse Zaken vastgesteld.
+Geen begraving of crematie van een lijk geschiedt zonder schriftelijk verlof van de ambtenaar van de burgerlijke stand, dat kosteloos wordt afgegeven. Het formulier voor dit verlof wordt door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgesteld.
 
 ##### Artikel 12
 
-Verlof tot begraving of tot verbranding wordt niet verleend, zolang niet is overgelegd een verklaring van overlijden, afgegeven door de behandelende arts of een gemeentelijke lijkschouwer, dan wel een verklaring waaruit blijkt van geen bezwaar van de officier van justitie tegen begraving of verbranding. Indien de officier van justitie in de gevallen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=7&z=2009-01-01&g=2009-01-01), meent niet tot de afgifte van een verklaring van geen bezwaar tegen begraving of verbranding te kunnen overgaan, stelt hij de gemeentelijke lijkschouwer en de regionale toetsingscommissie bedoeld in [artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=3), hiervan onverwijld in kennis.
+Verlof tot begraving of tot crematie wordt niet verleend, zolang niet is overgelegd een verklaring van overlijden, afgegeven door de behandelende arts of een gemeentelijke lijkschouwer, dan wel een verklaring waaruit blijkt van geen bezwaar van de officier van justitie tegen begraving of crematie. Indien de officier van justitie in de gevallen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=7&z=2010-01-01&g=2010-01-01), meent niet tot de afgifte van een verklaring van geen bezwaar tegen begraving of crematie te kunnen overgaan, stelt hij de gemeentelijke lijkschouwer en de regionale toetsingscommissie bedoeld in [artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=3), hiervan onverwijld in kennis.
 
 ##### Artikel 12a
 
-1. Tegelijk met de afgifte der verklaring van overlijden, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=12&z=2009-01-01&g=2009-01-01), doet de arts opgave van de doodsoorzaak en van de onmiddellijk daarmee samenhangende gegevens ten behoeve van de statistiek.
+1. Tegelijk met de afgifte der verklaring van overlijden, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=12&z=2010-01-01&g=2010-01-01), doet de arts opgave van de doodsoorzaak en van de onmiddellijk daarmee samenhangende gegevens ten behoeve van de statistiek.
 
-2. Indien een lijk wordt begraven, verbrand, ontleed, gebalsemd of aan een andere conserverende bewerking wordt onderworpen krachtens een verklaring van geen bezwaar als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=12&z=2009-01-01&g=2009-01-01), wordt de opgave gedaan door een arts, aangewezen door de officier van justitie.
+2. Indien een lijk wordt begraven, gecremeerd, ontleed, gebalsemd of aan een andere conserverende bewerking wordt onderworpen krachtens een verklaring van geen bezwaar als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=12&z=2010-01-01&g=2010-01-01), wordt de opgave gedaan door een arts, aangewezen door de officier van justitie.
 
-3. De opgave, bedoeld in het eerste en tweede lid, geschiedt op een door Onze Minister van Welzijn, Volksgezondheid en Cultuur vast te stellen formulier en wordt zo spoedig mogelijk in een gesloten enveloppe gezonden aan de ambtenaar van de burgerlijke stand. Aan deze enveloppe is een strook bevestigd, welke de identiteit van de overledene vermeldt. De ambtenaar van de burgerlijke stand zendt de enveloppe ongeopend, voor zover mogelijk voorzien van het nummer van de overlijdensakte, onder achterhouding van de strook met inachtneming van door Onze in dit lid genoemde Minister te stellen termijnen, aan de geneeskundige hoofdinspecteur van de volksgezondheid. Onze in dit lid genoemde Minister kan bepalen dat deze enveloppen rechtstreeks zullen worden gezonden aan de medisch ambtenaar van het Centraal Bureau voor de Statistiek.
+3. De opgave, bedoeld in het eerste en tweede lid, geschiedt op een door Onze Minister van Volksgezondheid, Welzijn en Sport vast te stellen formulier en wordt zo spoedig mogelijk in een gesloten enveloppe gezonden aan de ambtenaar van de burgerlijke stand. Aan deze enveloppe is een strook bevestigd, welke de identiteit van de overledene vermeldt. De ambtenaar van de burgerlijke stand zendt de enveloppe ongeopend, voor zover mogelijk voorzien van het nummer van de overlijdensakte, onder achterhouding van de strook met inachtneming van door Onze in dit lid genoemde Minister te stellen termijnen, aan de geneeskundige hoofdinspecteur van de volksgezondheid. Onze in dit lid genoemde Minister kan bepalen dat deze enveloppen rechtstreeks zullen worden gezonden aan de medisch ambtenaar van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 13
 
-1. De ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=12&z=2009-01-01&g=2009-01-01) overgelegde stukken worden bij de akte van overlijden gevoegd.
+1. De ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=12&z=2010-01-01&g=2010-01-01) overgelegde stukken worden bij de akte van overlijden gevoegd.
 
-2. Bij gebreke van een akte worden de overgelegde stukken bewaard door de ambtenaar van de burgerlijke stand van de plaats van begraving of verbranding.
+2. Bij gebreke van een akte worden de overgelegde stukken bewaard door de ambtenaar van de burgerlijke stand van de plaats van begraving of crematie.
 
 ##### Artikel 14
 
 1. Voor de toepassing van dit hoofdstuk worden als bevoegde officier van justitie en als bevoegde ambtenaar van de burgerlijke stand aangemerkt die van de plaats, waar betreffende de overledene of doodgeborene ingevolge aangifte een akte in het register van overlijden is ingeschreven.
 
-2. Bij gebreke van een akte zijn bevoegd de officier van justitie en de ambtenaar van de burgerlijke stand van de plaats van begraving of verbranding.
+2. Bij gebreke van een akte zijn bevoegd de officier van justitie en de ambtenaar van de burgerlijke stand van de plaats van begraving of crematie.
 
 ##### Artikel 15
 
-Wij kunnen bij algemene maatregel van bestuur afwijkingen toestaan van het bepaalde in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&z=2009-01-01&g=2009-01-01),[2](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&z=2009-01-01&g=2009-01-01) en [3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=3&z=2009-01-01&g=2009-01-01) ten aanzien van lijken, die Nederland worden binnengebracht.
+Wij kunnen bij algemene maatregel van bestuur afwijkingen toestaan van het bepaalde in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&z=2010-01-01&g=2010-01-01),[2](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&z=2010-01-01&g=2010-01-01) en [3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=3&z=2010-01-01&g=2010-01-01) ten aanzien van lijken, die Nederland worden binnengebracht.
 
 #### § 3. Termijn
 
 ##### Artikel 16
 
-Begraving of verbranding geschiedt niet eerder dan 36 uren na het overlijden en uiterlijk op de vijfde dag na die van het overlijden.
+Begraving of crematie geschiedt niet eerder dan 36 uren na het overlijden en uiterlijk op de zesde werkdag na het overlijden.
 
 ##### Artikel 17
 
-1. Na een arts te hebben gehoord kan de burgemeester der gemeente, waar het lijk zich bevindt, voor de begraving of verbranding daarvan een andere termijn stellen. Begraving of verbranding binnen 36 uur na het overlijden staat hij echter niet toe dan in overeenstemming met de officier van justitie.
+1. Na een arts te hebben gehoord kan de burgemeester der gemeente, waar het lijk zich bevindt, voor de begraving of crematie daarvan een andere termijn stellen. Begraving of crematie binnen 36 uur na het overlijden staat hij echter niet toe dan in overeenstemming met de officier van justitie.
 
 2. Van het besluit van de burgemeester staat binnen 24 uur beroep open op Onze Commissaris in de provincie, die daarop onmiddellijk beslist. De [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is niet van toepassing.
 
@@ -155,9 +159,9 @@ Begraving of verbranding geschiedt niet eerder dan 36 uren na het overlijden en 
 
 ##### Artikel 18
 
-1. In de lijkbezorging wordt voorzien door degene, die het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=11&z=2009-01-01&g=2009-01-01) bedoelde verlof aanvraagt, dan wel door degene, die redelijkerwijze geacht kan worden in diens plaats te zijn getreden. De lijkbezorging geschiedt overeenkomstig de wens of de vermoedelijke wens van de overledene, tenzij dat redelijkerwijs niet gevergd kan worden.
+1. In de lijkbezorging wordt voorzien door degene, die het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=11&z=2010-01-01&g=2010-01-01) bedoelde verlof aanvraagt, dan wel door degene, die redelijkerwijze geacht kan worden in diens plaats te zijn getreden. De lijkbezorging geschiedt overeenkomstig de wens of de vermoedelijke wens van de overledene, tenzij dat redelijkerwijs niet gevergd kan worden.
 
-2. Onder lijkbezorging wordt voor de toepassing van deze paragraaf begrepen het geven van bestemming aan de as van een verbrand lijk.
+2. Onder lijkbezorging wordt voor de toepassing van deze paragraaf begrepen het geven van bestemming aan de as van een gecremeerd lijk.
 
 ##### Artikel 19
 
@@ -173,9 +177,17 @@ Ingeval niemand maatregelen neemt tot lijkschouwing of lijkbezorging overeenkoms
 
 ##### Artikel 21
 
-1. Indien niemand voorziet in de lijkschouwing en lijkbezorging overeenkomstig de wet, draagt de burgemeester daarvoor zorg. Aan [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&z=2009-01-01&g=2009-01-01) wordt in dat geval geen toepassing gegeven, tenzij de overledene zijn lijk uitdrukkelijk tot ontleding heeft bestemd.
+1. Indien niemand voorziet in de lijkschouwing en lijkbezorging overeenkomstig de wet, draagt de burgemeester daarvoor zorg. Aan [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&z=2010-01-01&g=2010-01-01) wordt in dat geval geen toepassing gegeven, tenzij de overledene zijn lijk uitdrukkelijk tot ontleding heeft bestemd.
 
 2. Indien de toepassing van het voorgaand lid wordt verhinderd, doordat het lijk zich in een woning bevindt en de afgifte van het lijk of de toegang tot de woning wordt geweigerd, heeft de burgemeester of een ambtenaar van politie toegang tot die woning zonder toestemming van de bewoner, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
+
+3. Indien de identiteit van het lijk niet kan worden vastgesteld, draagt de burgemeester er, uitsluitend ten behoeve van de identificatie en opsporing van vermiste personen, zorg voor dat door of onder verantwoordelijkheid van een arts daarvan lichaamsmateriaal wordt afgenomen.
+
+4. Zo nodig kan tevens door of onder verantwoordelijkheid van een arts onderzoek in het lichaam worden verricht of een gebitsstatus worden opgemaakt of kunnen door een daartoe bevoegde ambtenaar van politie afdrukken van lichaamsdelen worden afgenomen.
+
+5. Het derde en vierde lid zijn niet van toepassing indien het de burgemeester bekend is dat daarin genoemde handelingen reeds in opdracht van de officier van justitie hebben plaatsgevonden.
+
+6. Een lijk als bedoeld in het derde lid wordt begraven.
 
 ##### Artikel 22
 
@@ -187,7 +199,9 @@ De kosten, verbonden aan de bezorging van lijken waarvoor de burgemeester zorg d
 
 ##### Artikel 23
 
-Begraving geschiedt op een begraafplaats.
+1. Begraving geschiedt op een begraafplaats.
+
+2. Begraving geschiedt in een algemeen graf, waarbij de houder van de begraafplaats bepaalt wie daarin wordt begraven, dan wel in een particulier graf, zijnde een graf waarop een uitsluitend recht is gevestigd, waarbij de rechthebbende bepaalt wie daarin wordt begraven.
 
 ##### Artikel 24
 
@@ -211,47 +225,51 @@ Geen toegang of ingang van een graf of grafkelder mag zich bevinden of worden aa
 
 ##### Artikel 28
 
-1. Een uitsluitend recht op een graf, welke vorm aan dit recht ook wordt gegeven, kan uitsluitend schriftelijk worden gevestigd. Het recht kan voor onbepaalde tijd of voor een bepaalde tijd van tenminste twintig jaren worden verleend.
+1. Een uitsluitend recht op een graf, welke vorm aan dit recht ook wordt gegeven, kan uitsluitend schriftelijk worden gevestigd. Het recht kan voor onbepaalde tijd of voor een bepaalde tijd van ten minste tien jaar worden verleend.
 
-Het voor bepaalde tijd verleende recht wordt op verzoek, mits gedaan binnen twee jaren voor het verstrijken van de termijn, verlengd, doch telkens voor niet langer dan tien jaren. Het uitsluitend recht op een graf is geen registergoed.
+Het voor bepaalde tijd verleende recht wordt op verzoek, mits gedaan binnen twee jaar voor het verstrijken van de termijn, telkens verlengd, met dien verstande dat de houder van de begraafplaats kan bepalen dat een periode van verlenging niet korter is dan vijf jaar en niet langer is dan twintig jaar. Het uitsluitend recht op een graf is geen registergoed.
 
-2. Binnen een jaar na de aanvang van de termijn waarin verlenging van het recht kan worden verzocht doet de houder van de begraafplaats aan de rechthebbende wiens adres hem bekend is of redelijkerwijs bekend kan zijn, schriftelijk mededeling van het verstrijken van de termijn en van het bepaalde in het eerste lid.
+2. Binnen een jaar na de aanvang van de termijn waarin verlenging van het recht kan worden verzocht doet de houder van de begraafplaats aan de rechthebbende wiens adres hem bekend is, schriftelijk mededeling van het verstrijken van de termijn en van het bepaalde in het eerste lid.
 
-3. Blijkt het adres onbekend, dan geschiedt de mededeling door aanplakking daarvan bij het graf en de ingang van de begraafplaats. De mededeling blijft aangeplakt tot het einde van de termijn waarvoor het uitsluitend recht op een graf werd gevestigd.
+3. Indien niet binnen drie maanden na verzending van de mededeling, bedoeld in het tweede lid, om verlenging van het recht is verzocht, maakt de houder van de begraafplaats de mededeling bekend bij het graf en bij de ingang van de begraafplaats, tot het einde van de periode waarvoor het recht was gevestigd.
 
-4. In geval van kennelijke verwaarlozing van het onderhoud van een graf, waarop een uitsluitend recht berust, voor zover dit onderhoud niet op de houder van de begraafplaats berust, kan deze verwaarlozing worden geconstateerd bij een schriftelijke verklaring van de houder van de begraafplaats, die hij toezendt aan de rechthebbende wiens adres hem bekend is of redelijkerwijs bekend kan zijn.
+4. In geval van kennelijke verwaarlozing van het onderhoud van een particulier graf, kan de houder van de begraafplaats, voor zover de plicht tot onderhoud niet bij hem ligt, deze verwaarlozing vastleggen in een schriftelijke verklaring, die hij toezendt aan de rechthebbende, die binnen één jaar na ontvangst in het onderhoud voorziet.
 
-5. Blijkt het adres onbekend dan wordt de verklaring aangeplakt bij de ingang van de begraafplaats. Een mededeling daarvan wordt bij het graf aangeplakt.
+5. Indien de ontvangst van de verklaring, bedoeld in het vierde lid, niet bevestigd wordt, maakt de houder van de begraafplaats de verklaring bekend bij het graf en bij de ingang van de begraafplaats, gedurende een periode van vijf jaar dan wel totdat in die periode in het onderhoud is voorzien.
 
-6. Indien toepassing is gegeven aan het vierde of vijfde lid en niet alsnog in het onderhoud wordt voorzien, vervalt in ieder geval dertig jaren nadat in dat graf de laatste begraving heeft plaatsgevonden het in het eerste lid bedoelde recht.
+6. Indien toepassing is gegeven aan het vierde of vijfde lid en niet alsnog in het onderhoud van het graf is voorzien, vervalt het recht op het graf op het moment dat de periode van één dan wel vijf jaar, bedoeld in het vierde respectievelijk vijfde lid, is verstreken.
 
-7. De op grond van het vijfde lid aangeplakte verklaring en mededeling worden eerst verwijderd indien in het onderhoud wordt voorzien of het uitsluitend recht op het graf is vervallen.
+7. Indien het recht op het graf nog geen twintig jaar is gevestigd op het moment dat de periode, bedoeld in het vijfde lid is verstreken, blijft de bekendmaking in stand totdat de periode van twintig jaar is verstreken dan wel totdat in die periode in het onderhoud is voorzien. Indien niet voordien in het onderhoud van het graf is voorzien, vervalt het recht op het graf zodra de termijn van twintig jaar is verstreken.
 
 ##### Artikel 29
 
-1. Geen lijk wordt opgegraven dan, indien het een graf betreft waarop een uitsluitend recht berust, met toestemming van de rechthebbende op het graf en voorts met vergunning van de burgemeester der gemeente, binnen welker gebied het begraven is, nadat deze de daartoe door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen ambtenaar heeft gehoord.
+1. Een lijk wordt slechts opgegraven met vergunning van de burgemeester van de gemeente waarin het is begraven, en, indien het een particulier graf betreft, met toestemming van de rechthebbende op het graf.
 
 2. Aan de vergunning verbindt de burgemeester de nodige voorschriften betreffende geneeskundig toezicht alsmede vervoer en bestemming van het lijk.
 
-3. Een opgegraven lijk mag worden verbrand met schriftelijk verlof van de officier van justitie van de plaats van opgraving, wanneer het verzoek daartoe gedaan wordt door de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=4&artikel=18&z=2009-01-01&g=2009-01-01) bedoelde persoon. De [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&z=2009-01-01&g=2009-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&z=2009-01-01&g=2009-01-01) en [3 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=3&z=2009-01-01&g=2009-01-01) zijn ten aanzien van de verbranding niet van toepassing.
+3. Een opgegraven lijk mag worden gecremeerd, wanneer het verzoek daartoe gedaan wordt door de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=4&artikel=18&z=2010-01-01&g=2010-01-01) bedoelde persoon. De [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&z=2010-01-01&g=2010-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&z=2010-01-01&g=2010-01-01) en [3 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=3&z=2010-01-01&g=2010-01-01) zijn ten aanzien van de crematie niet van toepassing.
+
+4. Crematie binnen een jaar na de begraving vindt slechts plaats met schriftelijk verlof van de officier van justitie van de plaats van opgraving.
 
 ##### Artikel 30
 
-[Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=29&z=2009-01-01&g=2009-01-01) is niet van toepassing bij een opgraving ingevolge een bevel van een gerechtelijke autoriteit met het oog op een strafrechtelijk onderzoek.
+[Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=29&z=2010-01-01&g=2010-01-01) is niet van toepassing bij een opgraving ingevolge een bevel van een gerechtelijke autoriteit met het oog op een strafrechtelijk onderzoek.
 
 ##### Artikel 31
 
-1. [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=29&z=2009-01-01&g=2009-01-01) geldt evenmin bij het ruimen van graven, voorzover dit geschiedt met inachtneming van het bepaalde bij of krachtens dit artikel.
+1. [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=29&z=2010-01-01&g=2010-01-01) geldt evenmin bij het ruimen van graven, voorzover dit geschiedt met inachtneming van het bepaalde bij of krachtens dit artikel.
 
-2. Het ruimen geschiedt niet dan op last van de houder van de begraafplaats en na verloop van tien jaren, nadat in het graf laatstelijk een lijk is geplaatst, en, indien het een graf betreft waarop een uitsluitend recht berust, met toestemming van de rechthebbende. Van het voornemen om graven te ruimen geeft de houder van de begraafplaats tenminste twee maanden tevoren kennis aan de daartoe door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen ambtenaar. Deze kan bepalen, dat het ruimen onder geneeskundig toezicht geschiedt.
+2. Het ruimen geschiedt niet dan op last van de houder van de begraafplaats en na verloop van tien jaar nadat in het graf laatstelijk een lijk is geplaatst, en, indien het een particulier graf betreft, met toestemming van de rechthebbende op het graf.
 
-3. De overblijfselen der lijken worden op een begraafplaats ter aarde besteld of, met overeenkomstige toepassing van het gestelde in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=29&z=2009-01-01&g=2009-01-01), in een crematorium verbrand.
+3. De overblijfselen der lijken worden op een begraafplaats ter aarde besteld of, met overeenkomstige toepassing van het gestelde in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=29&z=2010-01-01&g=2010-01-01), in een crematorium gecremeerd.
 
-4. Gedeputeerde staten kunnen, op voorstel van de daartoe door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen ambtenaar of na deze te hebben gehoord, voor een begraafplaats de in het tweede lid genoemde termijn een of meermalen verlengen. Het besluit treedt terstond in werking.
+4. Gedeputeerde staten kunnen besluiten de in het tweede lid genoemde termijn te verlengen. Het besluit treedt terstond in werking.
+
+5. Ten minste twee maanden voordat een graf van een onbekende wordt geruimd, geeft de houder de burgemeester daarvan kennis. De burgemeester is bevoegd, uitsluitend ten behoeve van de identificatie van de onbekende en opsporing van vermiste personen, van de overblijfselen van de onbekende door of onder verantwoordelijkheid van een arts lichaamsmateriaal af te doen nemen of een gebitsstatus te doen opmaken. Indien de burgemeester van die bevoegdheid gebruik maakt, wordt de ruiming opgeschort, ten minste tot het moment dat de uitslag van de poging tot identificatie bekend is, waarna een nabestaande in de lijkbezorging voorziet dan wel de ruiming kan worden voltooid.
 
 ##### Artikel 32
 
-Wij kunnen omtrent de wijze van begraven, de inrichting van het graf en de afstand van de graven onderling bij algemene maatregel van bestuur regelen stellen.
+Wij kunnen omtrent de wijze van begraven, de inrichting van het graf, het ruimen van de graven, het verwijderen van grafmonumenten en de teraardebestelling van de overblijfselen der lijken bij algemene maatregel van bestuur regelen stellen.
 
 #### § 2. Gemeentelijke begraafplaatsen
 
@@ -261,7 +279,7 @@ Een gemeente heeft voor zich of met een of meer andere gemeenten tezamen tenmins
 
 ##### Artikel 34
 
-Betreffende de aanleg of de uitbreiding van een gemeentelijke begraafplaats wordt de daartoe door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen ambtenaar gehoord.
+Vervallen
 
 ##### Artikel 35
 
@@ -275,7 +293,7 @@ Tenminste elke dag welke geen zondag of algemeen erkende feestdag is, wordt gele
 
 3. Wordt zodanige overeenstemming niet verkregen dan stellen gedeputeerde staten de verordeningen vast. Liggen de gemeenten in verschillende provinciën, dan geschiedt deze vaststelling door Ons, gedeputeerde staten der betrokken provinciën gehoord.
 
-#### § 3. Bijzondere begraafplaatsen
+#### § 2. Gemeentelijke begraafplaatsen
 
 ##### Artikel 37
 
@@ -289,9 +307,9 @@ Een kerkgenootschap is gerechtigd tot het hebben van één of meer kerkelijke be
 
 ##### Artikel 39
 
-1. Voor zover een kerkgenootschap geen gebruik maakt van de bevoegdheid, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=3&artikel=38&z=2009-01-01&g=2009-01-01) wordt op zijn verzoek door burgemeester en wethouders een deel van de gemeentelijke begraafplaats te zijner beschikking gesteld.
+1. Voor zover een kerkgenootschap geen gebruik maakt van de bevoegdheid, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=3&artikel=38&z=2010-01-01&g=2010-01-01) wordt op zijn verzoek door burgemeester en wethouders een deel van de gemeentelijke begraafplaats te zijner beschikking gesteld.
 
-2. De gemeente blijft belast met het beheer, het onderhoud en de administratie. Over de inrichting, de afscheiding en het gebruik van genoemd deel der begraafplaats, alsmede over de toepassing van de[artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=2&artikel=35&z=2009-01-01&g=2009-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=43&z=2009-01-01&g=2009-01-01) en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=44&z=2009-01-01&g=2009-01-01), wordt overleg gepleegd met het kerkgenootschap.
+2. De gemeente blijft belast met het beheer, het onderhoud en de administratie. Over de inrichting, de afscheiding en het gebruik van genoemd deel der begraafplaats, alsmede over de toepassing van de[artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=2&artikel=35&z=2010-01-01&g=2010-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=43&z=2010-01-01&g=2010-01-01) en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=44&z=2010-01-01&g=2010-01-01), wordt overleg gepleegd met het kerkgenootschap.
 
 ##### Artikel 40
 
@@ -299,9 +317,7 @@ Een kerkgenootschap is gerechtigd tot het hebben van één of meer kerkelijke be
 
 2. Burgemeester en wethouders kunnen maatregelen voorschrijven, welke nodig zijn teneinde de grond geschikt te maken om als begraafplaats te dienen.
 
-3. Inzake de totstandkoming van de aanwijzing en de voorschriften, bedoeld in de voorgaande leden, wordt de daartoe door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen ambtenaar gehoord.
-
-4. Indien het kerkgenootschap geen eigenaar van de benodigde grond is, dragen burgemeester en wethouders desgevraagd zorg, dat het kerkgenootschap de grond, mede gelet op de staat, waarin deze ingevolge het tweede lid moet verkeren, op redelijke voorwaarden in eigendom kan verwerven. Kunnen burgemeester en wethouders en het kerkgenootschap niet tot overeenstemming komen, dan bepalen gedeputeerde staten op verzoek van een van hen of beide de voorwaarden.
+3. Indien het kerkgenootschap geen eigenaar van de benodigde grond is, dragen burgemeester en wethouders desgevraagd zorg, dat het kerkgenootschap de grond, mede gelet op de staat, waarin deze ingevolge het tweede lid moet verkeren, op redelijke voorwaarden in eigendom kan verwerven. Kunnen burgemeester en wethouders en het kerkgenootschap niet tot overeenstemming komen, dan bepalen gedeputeerde staten op verzoek van een van hen of beide de voorwaarden.
 
 ##### Artikel 41
 
@@ -331,25 +347,21 @@ Indien op een begraafplaats gedurende tien jaren geen begraving meer heeft plaat
 
 1. Tegen een besluit tot sluiting of geslotenverklaring kunnen belanghebbenden bij gedeputeerde staten in beroep komen.
 
-2. Indien onherroepelijk is besloten tot sluiting dan wel geslotenverklaring van een gemeentelijke begraafplaats, kunnen gedeputeerde staten op verzoek van de rechthebbende op een graf waarop een uitsluitend recht berust en waarin nog begraven kan worden, een schadeloosstelling ten laste van de betrokken gemeente vaststellen terzake van het teniet gaan van het recht tot begraven.
+2. Indien onherroepelijk is besloten tot sluiting dan wel geslotenverklaring van een gemeentelijke begraafplaats, kunnen gedeputeerde staten op verzoek van de rechthebbende op een particulier graf waarin nog begraven kan worden, een schadeloosstelling ten laste van de betrokken gemeente vaststellen terzake van het teniet gaan van het recht tot begraven.
 
 ##### Artikel 46
 
 1. Op een gesloten begraafplaats worden geen lijken begraven.
 
-2. De begraafplaats blijft, onverminderd het bepaalde in de[artikelen 29-31](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=29&z=2009-01-01&g=2009-01-01) en [66](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=66&z=2009-01-01&g=2009-01-01), gedurende twintig jaren onaangeroerd liggen.
+2. De begraafplaats blijft, onverminderd het bepaalde in de[artikelen 29-31](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=29&z=2010-01-01&g=2010-01-01) en [66](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=66&z=2010-01-01&g=2010-01-01), gedurende twintig jaren onaangeroerd liggen.
 
-3. De grond mag, voor zover het een graf betreft waarop een uitsluitend recht berust, met toestemming van de rechthebbende, gedurende tien jaren na afloop van de in het tweede lid genoemde termijn, of, indien toepassing is gegeven aan [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=31&z=2009-01-01&g=2009-01-01), na afloop van de krachtens die bepaling gestelde termijn slechts tot bezaaiing of beplanting worden gebruikt, mits niet dieper dan 0,5 m wordt gegraven. Gedeputeerde staten kunnen, de daartoe door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen ambtenaar gehoord, vergunning verlenen tot uitgraving ter meerdere diepte.
+3. De grond mag, indien het een particulier graf betreft, met toestemming van de rechthebbende, gedurende tien jaren na afloop van de in het tweede lid genoemde termijn, of, indien toepassing is gegeven aan [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=31&z=2010-01-01&g=2010-01-01), na afloop van de krachtens die bepaling gestelde termijn slechts tot bezaaiing of beplanting worden gebruikt, mits niet dieper dan 0,5 m wordt gegraven. Gedeputeerde staten kunnen vergunning verlenen tot uitgraving ter meerdere diepte.
 
-4. Een graf waarop een uitsluitend recht berust, gelegen op een gesloten begraafplaats, wordt, voor zover in het onderhoud behoorlijk wordt voorzien, onaangeroerd gelaten.
+4. Een particulier graf, gelegen op een gesloten begraafplaats, wordt, voor zover in het onderhoud behoorlijk wordt voorzien, onaangeroerd gelaten.
 
 ##### Artikel 47
 
-Een begraafplaats houdt op dit te zijn, indien de grond die bestemming heeft verloren en hetzij
-
-- a. zich daarin geen graf bevindt hetzij,
-
-- b. vijftig jaren na de sluiting zijn verlopen dan wel, indien bij toepassing van [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=31&z=2009-01-01&g=2009-01-01), de krachtens die bepaling laatstelijk gestelde termijn eindigt op een tijdstip, gelegen meer dan tien jaren na de sluiting, vanaf dat tijdstip veertig jaren zijn verlopen.
+Een begraafplaats houdt op dit te zijn, indien de grond die bestemming heeft verloren en zich daarin geen graf bevindt.
 
 ##### Artikel 48
 
@@ -361,11 +373,11 @@ Onder begraafplaats wordt voor de toepassing van deze wet mede een gedeelte van 
 
 ##### Artikel 49
 
-Verbranding geschiedt in een crematorium.
+Crematie geschiedt in een crematorium.
 
 ##### Artikel 50
 
-1. De houder van een crematorium houdt een register van alle daar verbrande lijken en van de bestemming die aan de as is gegeven. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de gegevens die in het register worden vastgelegd.
+1. De houder van een crematorium houdt een register van alle daar gecremeerde lijken en van de bestemming die aan de as is gegeven. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de gegevens die in het register worden vastgelegd.
 
 2. Het in het eerste lid bedoelde register is openbaar.
 
@@ -381,7 +393,7 @@ Verbranding geschiedt in een crematorium.
 
 ##### Artikel 52
 
-Een bijzonder crematorium kan slechts worden gevestigd en in werking gehouden door een kerkgenootschap dan wel door een privaatrechtelijke rechtspersoon of een natuurlijk persoon. [Artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=3&artikel=37&z=2009-01-01&g=2009-01-01), is van toepassing.
+Een bijzonder crematorium kan slechts worden gevestigd en in werking gehouden door een kerkgenootschap dan wel door een privaatrechtelijke rechtspersoon of een natuurlijk persoon. [Artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=3&artikel=37&z=2010-01-01&g=2010-01-01), is van toepassing.
 
 ##### Artikel 53
 
@@ -393,9 +405,9 @@ Een besluit tot vestiging van een gemeentelijk crematorium dan wel een besluit t
 
 ##### Artikel 55
 
-1. Van een besluit, genomen ingevolge [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=2&artikel=53&z=2009-01-01&g=2009-01-01) staat voor belanghebbenden beroep bij gedeputeerde staten open.
+1. Van een besluit, genomen ingevolge [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=2&artikel=53&z=2010-01-01&g=2010-01-01) staat voor belanghebbenden beroep bij gedeputeerde staten open.
 
-2. Indien burgemeester en wethouders nalatig blijven een besluit te nemen als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=2&artikel=53&z=2009-01-01&g=2009-01-01) bepalen gedeputeerde staten op verzoek een termijn, binnen welke zulks alsnog dient te geschieden. Is zulk een besluit voor afloop van deze termijn niet genomen, dan worden burgemeester en wethouders geacht afwijzend te hebben beschikt.
+2. Indien burgemeester en wethouders nalatig blijven een besluit te nemen als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=2&artikel=53&z=2010-01-01&g=2010-01-01) bepalen gedeputeerde staten op verzoek een termijn, binnen welke zulks alsnog dient te geschieden. Is zulk een besluit voor afloop van deze termijn niet genomen, dan worden burgemeester en wethouders geacht afwijzend te hebben beschikt.
 
 ##### Artikel 56
 
@@ -411,9 +423,9 @@ Wij kunnen omtrent de inrichting van crematoria en omtrent hetgeen in de cremato
 
 ##### Artikel 58
 
-1. Na de verbranding bergt de houder van het crematorium de as.
+1. Na de crematie bergt de houder van het crematorium de as.
 
-2. De as wordt geborgen in één of meer asbussen. Een asbus wordt gesloten en op de bus worden de naam en de voorletters van de overledene, alsmede een registratienummer, in onuitwisbare letters en cijfers vermeld. Binnen twintig jaren na het plaatsen van dit opschrift mag het niet van een ongeopende asbus worden verwijderd of daarop onleesbaar worden gemaakt.
+2. De as wordt geborgen in één of meer asbussen. Een asbus wordt gesloten en op de bus worden de naam en de voorletters van de overledene, alsmede een registratienummer, vermeld.
 
 3. Een deel van de as kan op verzoek van een nabestaande op een andere wijze worden geborgen en aan de nabestaande ter beschikking worden gesteld.
 
@@ -427,25 +439,25 @@ Wij kunnen omtrent de inrichting van crematoria en omtrent hetgeen in de cremato
 
 - b. de in de asbus geborgen as wordt verstrooid,
 
-- c. de asbus ter beschikking wordt gesteld aan een nabestaande die de zorg voor de asbus op zich neemt, of
+- c. de asbus ter beschikking wordt gesteld aan de nabestaande door of namens wie de opdracht tot de crematie is gegeven, of
 
 - d. de asbus wordt verzonden naar het buitenland.
 
 3. De houder van het crematorium kan ter uitvoering van het tweede lid, onder a of b, de asbus ter bijzetting, onderscheidenlijk verstrooiing, overdragen aan een houder van een ander crematorium of van een plaats van bijzetting.
 
-4. Op verzoek van de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=4&artikel=18&z=2009-01-01&g=2009-01-01) bedoelde personen kan de officier van justitie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=14&z=2009-01-01&g=2009-01-01), in bijzondere gevallen ontheffing verlenen van de in het eerste lid genoemde termijn.
+4. Op verzoek van de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=4&artikel=18&z=2010-01-01&g=2010-01-01) bedoelde personen kan de officier van justitie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=14&z=2010-01-01&g=2010-01-01), in bijzondere gevallen ontheffing verlenen van de in het eerste lid genoemde termijn.
 
 ##### Artikel 60
 
-1. Uit het buitenland afkomstige as wordt zo nodig, in opdracht van een nabestaande, geborgen in één of meer asbussen. Het bergen geschiedt door de houder van een crematorium. [Artikel 58, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=58&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing.
+1. Uit het buitenland afkomstige as wordt zo nodig, in opdracht van een nabestaande, geborgen in één of meer asbussen. Het bergen geschiedt door de houder van een crematorium. [Artikel 58, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=58&z=2010-01-01&g=2010-01-01), is van overeenkomstige toepassing.
 
-2. De nabestaande draagt de zorg voor een asbus. Hij draagt zorg voor de bewaring van een asbus gedurende minimaal een maand na de invoer van de as. [Artikel 59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=59&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing.
+2. De nabestaande draagt de zorg voor een asbus. Hij draagt zorg voor de bewaring van een asbus gedurende minimaal een maand na de invoer van de as. [Artikel 59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=59&z=2010-01-01&g=2010-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 61
 
 Omtrent de berging, de bestemming en de bewaring van de as kunnen bij algemene maatregel van bestuur nadere regels worden gesteld.
 
-#### § 2. Het bijzetten van de asbus
+#### § 1. Algemeen
 
 ##### Artikel 62
 
@@ -457,13 +469,13 @@ Omtrent de berging, de bestemming en de bewaring van de as kunnen bij algemene m
 
 - c. in een buiten een crematorium of begraafplaats gelegen bewaarplaats.
 
-2. Het bijzetten geschiedt ter uitvoering van [artikel 59, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=59&z=2009-01-01&g=2009-01-01), of in opdracht van de nabestaande die de zorg voor de asbus heeft.
+2. Het bijzetten geschiedt ter uitvoering van [artikel 59, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=59&z=2010-01-01&g=2010-01-01), of in opdracht van de nabestaande die de zorg voor de asbus heeft.
 
-3. De bijzetting van een asbus in of op een graf waarop een uitsluitend recht berust, kan slechts geschieden met toestemming van de rechthebbende op het graf.
+3. De bijzetting van een asbus in of op een particulier graf, kan slechts geschieden met toestemming van de rechthebbende op het graf.
 
 ##### Artikel 63
 
-1. Een asbus die is bijgezet kan op verzoek van een nabestaande die de zorg voor de asbus op zich neemt, door de houder van de plaats van bijzetting aan de nabestaande ter beschikking worden gesteld.
+1. Een asbus die is bijgezet kan op verzoek van de nabestaande door of namens wie de opdracht tot bijzetting is gegeven, door de houder van de plaats van bijzetting aan de nabestaande ter beschikking worden gesteld.
 
 2. Verwijdering van de asbus kan slechts geschieden met toestemming van de rechthebbende op de ruimte waar de asbus is bijgezet.
 
@@ -471,7 +483,7 @@ Omtrent de berging, de bestemming en de bewaring van de as kunnen bij algemene m
 
 ##### Artikel 64
 
-1. Een bewaarplaats als bedoeld in [artikel 62, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=62&z=2009-01-01&g=2009-01-01), wordt niet in gebruik genomen dan met vergunning van burgemeester en wethouders.
+1. Een bewaarplaats als bedoeld in [artikel 62, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=62&z=2010-01-01&g=2010-01-01), wordt niet in gebruik genomen dan met vergunning van burgemeester en wethouders.
 
 2. Tegen een besluit als bedoeld in het eerste lid, kunnen belanghebbenden beroep instellen bij gedeputeerde staten.
 
@@ -485,11 +497,7 @@ Omtrent de berging, de bestemming en de bewaring van de as kunnen bij algemene m
 
 ##### Artikel 66
 
-1. Het ruimen van een asbus geschiedt door of in opdracht van de houder van de plaats van bijzetting en vindt niet plaats dan:
-
-- a. na verloop van twintig jaren nadat de as in de bus is geborgen, en
-
-- b. met toestemming van de rechthebbende op de ruimte waar de asbus is bijgezet.
+1. Het ruimen van een asbus geschiedt door of in opdracht van de houder van de plaats van bijzetting en vindt binnen tien jaar nadat de as in de bus is geborgen niet plaats dan met toestemming van de rechthebbende op de ruimte waar de asbus is bijgezet.
 
 2. Het ruimen geschiedt door verstrooiing van de as.
 
@@ -501,7 +509,7 @@ Omtrent de berging, de bestemming en de bewaring van de as kunnen bij algemene m
 
 2. Het verstrooien geschiedt:
 
-- a. ter uitvoering van [artikel 59, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=59&z=2009-01-01&g=2009-01-01),
+- a. ter uitvoering van [artikel 59, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=59&z=2010-01-01&g=2010-01-01),
 
 - b. door of in opdracht van de nabestaande die de zorg voor de asbus heeft, of
 
@@ -515,9 +523,7 @@ Omtrent de berging, de bestemming en de bewaring van de as kunnen bij algemene m
 
 ##### Artikel 66b
 
-1. De bestemming van een terrein om permanent as op te verstrooien door de houder van een crematorium en de houder van een plaats van bijzetting vindt niet plaats dan met vergunning van burgemeester en wethouders van de gemeente waarin het terrein is gelegen.
-
-2. Voordat burgemeester en wethouders een besluit nemen omtrent het verlenen van de vergunning horen zij de daartoe door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen ambtenaar.
+De bestemming van een terrein om permanent as op te verstrooien door de houder van een crematorium en de houder van een plaats van bijzetting vindt niet plaats dan met vergunning van burgemeester en wethouders van de gemeente waarin het terrein is gelegen.
 
 ### Hoofdstuk V. Bijzondere wijzen van lijkbezorging
 
@@ -525,13 +531,13 @@ Omtrent de berging, de bestemming en de bewaring van de as kunnen bij algemene m
 
 1. Een lijk kan in het belang van de wetenschap of het wetenschappelijk onderwijs worden ontleed.
 
-2. Ontleding geschiedt slechts, indien de overledene zijn lijk daartoe heeft bestemd. De [artikelen 18, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=4&artikel=18&z=2009-01-01&g=2009-01-01), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=4&artikel=19&z=2009-01-01&g=2009-01-01) zijn van toepassing.
+2. Ontleding geschiedt slechts, indien de overledene zijn lijk daartoe heeft bestemd. De [artikelen 18, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=4&artikel=18&z=2010-01-01&g=2010-01-01), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=4&artikel=19&z=2010-01-01&g=2010-01-01) zijn van toepassing.
 
 3. Bij gebreke van een bestemming inzake lijkbezorging door de overledene kan ontleding eveneens geschieden, indien de niet van tafel en bed gescheiden echtgenoot, de geregistreerde partner of andere levensgezel dan wel, bij ontstentenis of onbereikbaarheid van deze, de naaste onmiddellijk bereikbare meerderjarige bloed- of aanverwanten tot en met de derde graad, of, wanneer ook deze niet bereikbaar zijn, de aanwezige meerderjarige erfgenamen of anders degenen die de zorg voor het lijk op zich nemen, dit daartoe bestemmen.
 
 ##### Artikel 68
 
-1. Geen ontleding geschiedt zonder schriftelijk verlof van de burgemeester, afgegeven uiterlijk op de derde dag na die van het overlijden. In het verlof, dat kosteloos wordt afgegeven, wordt de plaats van ontleding vermeld. Het formulier voor het verlof wordt door Onze Minister van Binnenlandse Zaken vastgesteld. De [artikelen 12-15](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=12&z=2009-01-01&g=2009-01-01)zijn van overeenkomstige toepassing.
+1. Ontleding geschiedt slechts met schriftelijk verlof van de burgemeester. Het verlof wordt binnen drie dagen kosteloos afgegeven en vermeldt de plaats van ontleding. De [artikelen 12-15](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=12&z=2010-01-01&g=2010-01-01) zijn van overeenkomstige toepassing.
 
 2. Van het besluit van de burgemeester staat binnen 24 uren beroep open op Onze Commissaris in de provincie, die daarop onmiddellijk beslist. De [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is niet van toepassing.
 
@@ -545,17 +551,23 @@ Omtrent de berging, de bestemming en de bewaring van de as kunnen bij algemene m
 
 Wij geven bij algemene maatregel van bestuur voorschriften omtrent de wijze, waarop met lijken van personen of van doodgeborenen, aan boord van Nederlandse schepen op zee overleden onderscheidenlijk ter wereld gekomen, gehandeld dient te worden. Daarbij worden de gevallen geregeld, waarin een lijk overboord wordt gezet of aan een conserverende bewerking wordt onderworpen.
 
-### Hoofdstuk VI. Bijzondere bepalingen
+### Hoofdstuk V. Bijzondere wijzen van lijkbezorging
 
 ##### Artikel 71
 
-1. Een lijk wordt niet gebalsemd of onderworpen aan enige andere conserverende bewerking die niet is gericht op gebruik van delen van het lijk ingevolge de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066). In uitzonderlijke gevallen kan Onze Minister van Welzijn, Volksgezondheid en Cultuur ontheffing van dit verbod verlenen.
+1. Een lijk wordt niet gebalsemd of onderworpen aan enige andere conserverende bewerking die niet is gericht op gebruik van delen van het lijk ingevolge de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066). In uitzonderlijke gevallen kan Onze Minister van Volksgezondheid, Welzijn en Sport ontheffing van dit verbod verlenen.
 
-In de ontheffing wordt de wijze en de plaats van de lijkbezorging vermeld. De [artikelen 12-15](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=12&z=2009-01-01&g=2009-01-01) zijn van overeenkomstige toepassing.
+In de ontheffing wordt de wijze en de plaats van de lijkbezorging vermeld. De [artikelen 12-15](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=12&z=2010-01-01&g=2010-01-01) zijn van overeenkomstige toepassing.
 
 2. Het verbod, vermeld in het eerste lid, is niet van toepassing, indien het lijk tot ontleding bestemd is of naar het buitenland wordt gezonden.
 
-3. [Artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=69&z=2009-01-01&g=2009-01-01) is van overeenkomstige toepassing. Indien het lijk tot ontleding is bestemd, is alleen het tweede lid van dat artikel van overeenkomstige toepassing.
+3. [Artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=69&z=2010-01-01&g=2010-01-01) is van overeenkomstige toepassing. Indien het lijk tot ontleding is bestemd, is alleen het tweede lid van dat artikel van overeenkomstige toepassing.
+
+4. In afwijking van het eerste lid kan een lijk worden onderworpen aan een conserverende bewerking die ten hoogste tien dagen effect heeft.
+
+5. Een bewerking als bedoeld in het vierde lid vindt eerst plaats nadat is vastgesteld dat verwijdering van een of meer organen als bedoeld in de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) niet zal plaatsvinden.
+
+6. Bij ministeriële regeling kunnen eisen worden gesteld aan de opleiding en de vakbekwaamheid van degenen die de bewerking, bedoeld in het vierde lid, uitvoeren alsmede aan de wijze van bewerking.
 
 ##### Artikel 72
 
@@ -565,15 +577,15 @@ In de ontheffing wordt de wijze en de plaats van de lijkbezorging vermeld. De [a
 
 ##### Artikel 73
 
-1. De beperkingen, gesteld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=72&z=2009-01-01&g=2009-01-01), zijn niet van toepassing:
+1. De beperkingen, gesteld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=72&z=2010-01-01&g=2010-01-01), zijn niet van toepassing:
 
 - a. in geval van een bevel van een gerechtelijke autoriteit in verband met een strafrechtelijk onderzoek;
 
-- b. indien de sectie geschiedt op verzoek van de betrokken hoofdinspecteur van de volksgezondheid;
+- b. indien de sectie geschiedt op verzoek van de betrokken hoofdinspecteur van het Staatstoezicht op de volksgezondheid;
 
 - c. indien de sectie geschiedt op verzoek van de voorzitter van de Onderzoeksraad voor veiligheid.
 
-2. Bij toepassing van het eerste lid wordt de persoon bedoeld in [artikel 72, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=72&z=2009-01-01&g=2009-01-01), daarvan in kennis gesteld.
+2. Bij toepassing van het eerste lid wordt de persoon bedoeld in [artikel 72, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=72&z=2010-01-01&g=2010-01-01), daarvan in kennis gesteld.
 
 ##### Artikel 74
 
@@ -581,15 +593,15 @@ Vervallen
 
 ##### Artikel 75
 
-Het verrichten van sectie geschiedt door een arts, nadat deze zich er van tevoren van heeft vergewist dat het intreden van de dood door een andere arts is vastgesteld en aan de vereisten, geldend ingevolge de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=72&z=2009-01-01&g=2009-01-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=73&z=2009-01-01&g=2009-01-01), is voldaan.
+Het verrichten van sectie geschiedt door een arts, nadat deze zich er van tevoren van heeft vergewist dat het intreden van de dood door een andere arts is vastgesteld en aan de vereisten, geldend ingevolge de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=72&z=2010-01-01&g=2010-01-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=73&z=2010-01-01&g=2010-01-01), is voldaan.
 
 ##### Artikel 76
 
 1. Wanneer tekenen of aanduidingen van een niet-natuurlijke dood aanwezig zijn of wanneer in verband met andere omstandigheden een niet-natuurlijke dood niet uitgesloten geacht kan worden, mag het lijk niet worden vervoerd dan met verlof van de officier van justitie of een van zijn hulpofficieren.
 
-2. In zodanig geval mag ontleding, conservering als bedoeld in [artikel 71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=71&z=2009-01-01&g=2009-01-01), sectie of verwijdering van organen uit het lijk voor orgaandonatie als bedoeld in de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) niet plaatsvinden, of indien reeds aangevangen, niet worden voortgezet, dan met toestemming van de officier van justitie.
+2. In zodanig geval mag ontleding, conservering als bedoeld in [artikel 71, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=71&z=2010-01-01&g=2010-01-01), sectie of verwijdering van organen uit het lijk voor orgaandonatie als bedoeld in de [Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066) niet plaatsvinden, of indien reeds aangevangen, niet worden voortgezet, dan met toestemming van de officier van justitie.
 
-3. Indien de officier van justitie een geval als bedoeld in het eerste lid aanwezig acht, kan hij uitstel van de begraving of van de verbranding van het lijk gelasten, of de verbranding verbieden. Zolang een zodanige maatregel van kracht is, wordt het lijk niet begraven of verbrand, onderscheidenlijk niet verbrand, en geeft de ambtenaar van de burgerlijke stand daartoe geen verlof.
+3. Indien de officier van justitie een geval als bedoeld in het eerste lid aanwezig acht, kan hij uitstel van de begraving of van de crematie van het lijk gelasten, of de crematie verbieden. Zolang een zodanige maatregel van kracht is, wordt het lijk niet begraven of gecremeerd, onderscheidenlijk niet gecremeerd, en geeft de ambtenaar van de burgerlijke stand daartoe geen verlof.
 
 4. Indien de officier van justitie een geval als bedoeld in het eerste lid aanwezig acht kan hij verbieden dat de as wordt verstrooid, ter beschikking wordt gesteld aan een nabestaande of naar het buitenland wordt verzonden.
 
@@ -597,7 +609,7 @@ Het verrichten van sectie geschiedt door een arts, nadat deze zich er van tevore
 
 ##### Artikel 77
 
-Gedurende een gerechtelijk vooronderzoek komen de bevoegdheden, die[artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=76&z=2009-01-01&g=2009-01-01) aan de officier van justitie toekent, mede toe aan de rechter-commissaris.
+Gedurende een gerechtelijk vooronderzoek komen de bevoegdheden, die[artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=76&z=2010-01-01&g=2010-01-01) aan de officier van justitie toekent, mede toe aan de rechter-commissaris.
 
 ##### Artikel 78
 
@@ -613,19 +625,19 @@ Wij stellen bij algemene maatregel van bestuur regelen betreffende de in deze we
 
 Met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie wordt gestraft:
 
-- 1°. het bezorgen, bewaren, wegmaken, vervoeren, vernietigen, ontleden, balsemen of conserverend behandelen van een lijk in strijd met of anders dan met inachtneming van hetgeen is bepaald bij of krachtens de[artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=11&z=2009-01-01&g=2009-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=23&z=2009-01-01&g=2009-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=25&z=2009-01-01&g=2009-01-01), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=29&z=2009-01-01&g=2009-01-01), [46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=46&z=2009-01-01&g=2009-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=1&artikel=49&z=2009-01-01&g=2009-01-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=67&z=2009-01-01&g=2009-01-01), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=68&z=2009-01-01&g=2009-01-01), [69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=69&z=2009-01-01&g=2009-01-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=70&z=2009-01-01&g=2009-01-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=71&z=2009-01-01&g=2009-01-01), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=76&z=2009-01-01&g=2009-01-01) en [78](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=78&z=2009-01-01&g=2009-01-01);
+- 1°. het bezorgen, bewaren, wegmaken, vervoeren, vernietigen, ontleden, balsemen of conserverend behandelen van een lijk in strijd met of anders dan met inachtneming van hetgeen is bepaald bij of krachtens de[artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=11&z=2010-01-01&g=2010-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=23&z=2010-01-01&g=2010-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=25&z=2010-01-01&g=2010-01-01), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=29&z=2010-01-01&g=2010-01-01), [46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=46&z=2010-01-01&g=2010-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=1&artikel=49&z=2010-01-01&g=2010-01-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=67&z=2010-01-01&g=2010-01-01), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=68&z=2010-01-01&g=2010-01-01), [69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=69&z=2010-01-01&g=2010-01-01), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=70&z=2010-01-01&g=2010-01-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=71&z=2010-01-01&g=2010-01-01), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=76&z=2010-01-01&g=2010-01-01) en [78](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=78&z=2010-01-01&g=2010-01-01);
 
-- 2°. het geven van verlof tot begraving of verbranding in strijd met de[artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=12&z=2009-01-01&g=2009-01-01) en [76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=76&z=2009-01-01&g=2009-01-01);
+- 2°. het geven van verlof tot begraving of crematie in strijd met de[artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=12&z=2010-01-01&g=2010-01-01) en [76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=76&z=2010-01-01&g=2010-01-01);
 
-- 3°. het begraven, verbranden, ontleden, balsemen of op andere wijze conserverend behandelen van een lijk voordat dit ingevolge het bij of krachtens de[artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=3&artikel=16&z=2009-01-01&g=2009-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=3&artikel=17&z=2009-01-01&g=2009-01-01) of [69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=69&z=2009-01-01&g=2009-01-01), bepaalde is toegestaan;
+- 3°. het begraven, cremeren, ontleden, balsemen of op andere wijze conserverend behandelen van een lijk voordat dit ingevolge het bij of krachtens de[artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=3&artikel=16&z=2010-01-01&g=2010-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=3&artikel=17&z=2010-01-01&g=2010-01-01) of [69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=69&z=2010-01-01&g=2010-01-01), bepaalde is toegestaan;
 
-- 4°. overtreding van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=58&z=2009-01-01&g=2009-01-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=59&z=2009-01-01&g=2009-01-01) of [60](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=60&z=2009-01-01&g=2009-01-01);
+- 4°. overtreding van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=58&z=2010-01-01&g=2010-01-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=59&z=2010-01-01&g=2010-01-01) of [60](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=60&z=2010-01-01&g=2010-01-01);
 
-- 5°. het verwijderen of ruimen van een asbus in strijd met de[artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=63&z=2009-01-01&g=2009-01-01) of [66](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=66&z=2009-01-01&g=2009-01-01);
+- 5°. het verwijderen of ruimen van een asbus in strijd met de[artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=63&z=2010-01-01&g=2010-01-01) of [66](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=66&z=2010-01-01&g=2010-01-01);
 
-- 6°. overtreding van een verbod als bedoeld in [artikel 76, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=76&z=2009-01-01&g=2009-01-01);
+- 6°. overtreding van een verbod als bedoeld in [artikel 76, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=76&z=2010-01-01&g=2010-01-01);
 
-- 7°. het verrichten van sectie of het verwijderen van delen uit een lijk in strijd met het bepaalde bij de[artikelen 72-75](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=72&z=2009-01-01&g=2009-01-01) en [76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=76&z=2009-01-01&g=2009-01-01);
+- 7°. het verrichten van sectie of het verwijderen van delen uit een lijk in strijd met het bepaalde bij de[artikelen 72-75](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=72&z=2010-01-01&g=2010-01-01) en [76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=VI&artikel=76&z=2010-01-01&g=2010-01-01);
 
 - 8°. het verhinderen of belemmeren van een lijkschouwing dan wel een poging daartoe.
 
@@ -633,21 +645,21 @@ Met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie w
 
 Met hechtenis van ten hoogste een maand of geldboete van de tweede categorie wordt gestraft:
 
-- 1°. overtreding van het bepaalde bij of krachtens de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=3&z=2009-01-01&g=2009-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=6&z=2009-01-01&g=2009-01-01), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=7&z=2009-01-01&g=2009-01-01)“lid,,”moet zijn “lid,”,, [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=8&z=2009-01-01&g=2009-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=10&z=2009-01-01&g=2009-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=5&artikel=20&z=2009-01-01&g=2009-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=27&z=2009-01-01&g=2009-01-01), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=1&artikel=50&z=2009-01-01&g=2009-01-01), [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=2&artikel=51&z=2009-01-01&g=2009-01-01), en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=2&artikel=53&z=2009-01-01&g=2009-01-01);
+- 1°. overtreding van het bepaalde bij of krachtens de[artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=3&z=2010-01-01&g=2010-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=6&z=2010-01-01&g=2010-01-01), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=7&z=2010-01-01&g=2010-01-01), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=8&z=2010-01-01&g=2010-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=10&z=2010-01-01&g=2010-01-01), [12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=2&artikel=12a&z=2010-01-01&g=2010-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=5&artikel=20&z=2010-01-01&g=2010-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=27&z=2010-01-01&g=2010-01-01), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=1&artikel=50&z=2010-01-01&g=2010-01-01), [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=2&artikel=51&z=2010-01-01&g=2010-01-01), en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=2&artikel=53&z=2010-01-01&g=2010-01-01);
 
-- 2°. de weigering tot afgifte van een lijk als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=5&artikel=21&z=2009-01-01&g=2009-01-01);
+- 2°. de weigering tot afgifte van een lijk als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=5&artikel=21&z=2010-01-01&g=2010-01-01);
 
-- 3°. het ter beschikking stellen van een begraafplaats als bedoeld in de[artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=25&z=2009-01-01&g=2009-01-01) en [46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=46&z=2009-01-01&g=2009-01-01);
+- 3°. het ter beschikking stellen van een begraafplaats als bedoeld in de[artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=25&z=2010-01-01&g=2010-01-01) en [46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=46&z=2010-01-01&g=2010-01-01);
 
-- 4°. het in gebruik nemen van een bijzondere begraafplaats of een deel daarvan zonder toestemming van burgemeester en wethouders, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=3&artikel=41&z=2009-01-01&g=2009-01-01);
+- 4°. het in gebruik nemen van een bijzondere begraafplaats of een deel daarvan zonder toestemming van burgemeester en wethouders, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=3&artikel=41&z=2010-01-01&g=2010-01-01);
 
-- 5°. het gebruik maken van een begraafplaats na de sluiting, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=43&z=2009-01-01&g=2009-01-01), of de geslotenverklaring, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=44&z=2009-01-01&g=2009-01-01), in strijd met het bepaalde bij of krachtens [artikel 46, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=46&z=2009-01-01&g=2009-01-01);
+- 5°. het gebruik maken van een begraafplaats na de sluiting, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=43&z=2010-01-01&g=2010-01-01), of de geslotenverklaring, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=44&z=2010-01-01&g=2010-01-01), in strijd met het bepaalde bij of krachtens [artikel 46, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=4&artikel=46&z=2010-01-01&g=2010-01-01);
 
-- 6°. het bijzetten van een asbus in strijd met of anders dan met inachtneming van hetgeen is bepaald bij of krachtens de[artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=62&z=2009-01-01&g=2009-01-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=64&z=2009-01-01&g=2009-01-01) en [65](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=65&z=2009-01-01&g=2009-01-01);
+- 6°. het bijzetten van een asbus in strijd met of anders dan met inachtneming van hetgeen is bepaald bij of krachtens de[artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=62&z=2010-01-01&g=2010-01-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=64&z=2010-01-01&g=2010-01-01) en [65](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=2&artikel=65&z=2010-01-01&g=2010-01-01);
 
-- 7°. het verstrooien van de as in strijd met [artikel 66a](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=3&artikel=66a&z=2009-01-01&g=2009-01-01);
+- 7°. het verstrooien van de as in strijd met [artikel 66a](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=3&artikel=66a&z=2010-01-01&g=2010-01-01);
 
-- 8°. overtreding van het bepaalde krachtens de[artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=32&z=2009-01-01&g=2009-01-01), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=2&artikel=57&z=2009-01-01&g=2009-01-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=61&z=2009-01-01&g=2009-01-01), voorzover uitdrukkelijk als strafbaar feit in de zin van het onderhavige artikel aangeduid.
+- 8°. overtreding van het bepaalde krachtens de[artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=32&z=2010-01-01&g=2010-01-01), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=2&artikel=57&z=2010-01-01&g=2010-01-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=3&paragraaf=1&artikel=61&z=2010-01-01&g=2010-01-01), voorzover uitdrukkelijk als strafbaar feit in de zin van het onderhavige artikel aangeduid.
 
 ##### Artikel 82
 
@@ -659,21 +671,21 @@ De ingevolge deze wet strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 83
 
-1. De bij de inwerkingtreding van deze wet in gebruik zijnde begraafplaatsen en crematoria worden geacht te zijn aangelegd en opengesteld onderscheidenlijk gevestigd en in werking gesteld te zijn overeenkomstig de bepalingen van deze wet. Een op dat tijdstip reeds verleend verlof tot vestiging, uitbreiding of wijziging van een crematorium wordt geacht ingevolge [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=2&artikel=53&z=2009-01-01&g=2009-01-01) te zijn verleend.
+1. De bij de inwerkingtreding van deze wet in gebruik zijnde begraafplaatsen en crematoria worden geacht te zijn aangelegd en opengesteld onderscheidenlijk gevestigd en in werking gesteld te zijn overeenkomstig de bepalingen van deze wet. Een op dat tijdstip reeds verleend verlof tot vestiging, uitbreiding of wijziging van een crematorium wordt geacht ingevolge [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=IV&afdeling=2&artikel=53&z=2010-01-01&g=2010-01-01) te zijn verleend.
 
-2. De op het tijdstip van inwerkingtreding van deze wet geldende ontheffingen, verleend op grond van artikel 13, eerste lid, van de Wet op de lijkbezorging (Wet van 10 april 1869. **Stb.** 65), worden geacht te zijn verleend overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=2&artikel=33&z=2009-01-01&g=2009-01-01), van deze wet.
+2. De op het tijdstip van inwerkingtreding van deze wet geldende ontheffingen, verleend op grond van artikel 13, eerste lid, van de Wet op de lijkbezorging (Wet van 10 april 1869. **Stb.** 65), worden geacht te zijn verleend overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=2&artikel=33&z=2010-01-01&g=2010-01-01), van deze wet.
 
 3. De op het tijdstip van inwerkingtreding van deze wet geldende gemeentelijke verordeningen tot heffing van rechten als bedoeld in de artikelen 20, 21, 29**o** en 30-35 van de Wet op de lijkbezorging (Wet van 10 april 1869, **Stb.** 65), worden geacht te zijn vastgesteld krachtens [artikel 229 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=229) (**Stb.** 1992, 96).
 
 ##### Artikel 84
 
-Het recht op een eigen graf, verleend vóór het in werking treden van deze wet, wordt geacht een uitsluitend recht op een graf in de zin van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=28&z=2009-01-01&g=2009-01-01) te zijn.
+Het recht op een eigen graf, verleend vóór het in werking treden van deze wet, wordt geacht een uitsluitend recht op een graf in de zin van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=28&z=2010-01-01&g=2010-01-01) te zijn.
 
 ##### Artikel 85
 
 1. In graven of grafkelders als bedoeld in artikel 15 van de Wet op de lijkbezorging (Wet van 10 april 1869, **Stb.** 65) kunnen het lijk van degene, die daarvan eigenaar is ten tijde van de inwerkingtreding van deze wet en de lijken van de leden van zijn geslacht worden begraven. In of op zodanige graven en in zodanige grafkelders kunnen asbussen, waarin de as van lijken bedoeld in de eerste volzin is geborgen, worden bijgezet.
 
-2. Op de in het eerste lid bedoelde graven en grafkelders zijn van [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&z=2009-01-01&g=2009-01-01) toepasselijk de[artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=26&z=2009-01-01&g=2009-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=27&z=2009-01-01&g=2009-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=29&z=2009-01-01&g=2009-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=30&z=2009-01-01&g=2009-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=31&z=2009-01-01&g=2009-01-01).
+2. Op de in het eerste lid bedoelde graven en grafkelders zijn van [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&z=2010-01-01&g=2010-01-01) toepasselijk de[artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=26&z=2010-01-01&g=2010-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=27&z=2010-01-01&g=2010-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=29&z=2010-01-01&g=2010-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=30&z=2010-01-01&g=2010-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=31&z=2010-01-01&g=2010-01-01).
 
 ##### Artikel 86
 
@@ -681,21 +693,21 @@ Het recht op een eigen graf, verleend vóór het in werking treden van deze wet,
 
 2. Indien de rechthebbende op de afkoopsom weigert deze te aanvaarden of onbekend dan wel afwezig is, kunnen burgemeester en wethouders de afkoopsom doen opnemen in de Consignatiekas.
 
-#### § 2. Slotbepalingen
+#### § 1. Overgangsbepalingen
 
 ##### Artikel 87
 
 1. Deze wet is niet van toepassing op de lijkbezorging van leden van het Koninklijk Huis.
 
-2. Onze Minister van Binnenlandse Zaken kan ten aanzien van andere bloed- en aanverwanten van de Koning ontheffing verlenen van bepalingen van deze wet.
+2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan ten aanzien van andere bloed- en aanverwanten van de Koning ontheffing verlenen van bepalingen van deze wet.
 
 ##### Artikel 88
 
-Een besluit waartegen ingevolge deze wet beroep openstaat of aanhangig is treedt, zolang dit het geval is, niet in werking, onverminderd het bepaalde in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=31&z=2009-01-01&g=2009-01-01).
+Een besluit waartegen ingevolge deze wet beroep openstaat of aanhangig is treedt, zolang dit het geval is, niet in werking, onverminderd het bepaalde in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=31&z=2010-01-01&g=2010-01-01).
 
 ##### Artikel 89
 
-De [algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijnen, gesteld in de[artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=3&artikel=16&z=2009-01-01&g=2009-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=5&artikel=20&z=2009-01-01&g=2009-01-01) en [68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=68&z=2009-01-01&g=2009-01-01).
+De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijnen, gesteld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=5&artikel=20&z=2010-01-01&g=2010-01-01) en [68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=V&artikel=68&z=2010-01-01&g=2010-01-01).
 
 ##### Artikel 90
 
@@ -763,9 +775,75 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Hoofdstuk VII. Strafbepalingen
 
-### Hoofdstuk VIII. Overgangs- en slotbepalingen
+### Hoofdstuk VII. Strafbepalingen
 
 #### § 1. Overgangsbepalingen
+
+#### § 2. Slotbepalingen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 10a
+
+1. Indien de schouwing, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=II&paragraaf=1&artikel=7&z=2010-01-01&g=2010-01-01), een minderjarige betreft en is verricht door de behandelende arts, geeft deze een verklaring van overlijden slechts af na overleg met de gemeentelijke lijkschouwer.
+
+2. Dit lid is nog niet in werking getreden.
+
+3. Dit lid is nog niet in werking getreden.
+
+4. Dit lid is nog niet in werking getreden.
+
+#### § 2. Verlof tot begraving of crematie
+
+##### Artikel 11a
+
+Onverminderd [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=I&artikel=2&z=2010-01-01&g=2010-01-01), kan een menselijke vrucht als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=I&artikel=2&z=2010-01-01&g=2010-01-01) worden begraven of gecremeerd mits een verklaring van de behandelende arts wordt overgelegd, waaruit blijkt dat het een menselijke vrucht als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=I&artikel=2&z=2010-01-01&g=2010-01-01) betreft.
+
+#### § 3. Termijn
+
+#### § 4. Voorziening in de lijkbezorging
+
+#### § 5. Overheidszorg
+
+### Hoofdstuk III. Begraving
+
+#### § 1. Algemene bepalingen
+
+##### Artikel 27a
+
+Ten minste zes maanden en ten hoogste twaalf maanden voor het verstrijken van de termijn van uitgifte van een algemeen graf doet de houder van de begraafplaats daarvan schriftelijk mededeling aan de belanghebbende bij dat graf wiens adres hem bekend is.
+
+##### Artikel 32a
+
+Gedurende de periode dat een graf niet geruimd mag worden, is [artikel 20, eerste lid, aanhef en onder e en f, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=20) niet van toepassing op hetgeen op dat graf is geplaatst.
+
+#### § 3. Bijzondere begraafplaatsen
+
+#### § 4. Sluiting en opheffing van begraafplaatsen
+
+### Hoofdstuk IV. Crematie
+
+### Afdeling 1. Algemene bepalingen
+
+### Afdeling 2. Crematoria
+
+### Afdeling 3. Berging, bestemming en bewaring van as
+
+#### § 2. Het bijzetten van de asbus
+
+#### § 3. Het verstrooien van de as
+
+### Hoofdstuk VI. Bijzondere bepalingen
+
+### Hoofdstuk VIII. Overgangs- en slotbepalingen
+
+##### Artikel 84a
+
+Indien ten aanzien van een graf waarop voor 1 januari 2009 een uitsluitend recht is gevestigd, voor 1 januari 2024 een verklaring van verwaarlozing als bedoeld in [artikel 28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=28&z=2010-01-01&g=2010-01-01), is opgesteld, vervalt het recht, in afwijking van [artikel 28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&hoofdstuk=III&paragraaf=1&artikel=28&z=2010-01-01&g=2010-01-01),
+
+- a. met ingang van 1 januari 2029, mits op dat tijdstip dertig jaar is verstreken sinds de laatste begraving in dat graf dan wel
+
+- b. op een later gelegen tijdstip waarop dertig jaar is verstreken sinds de laatste begraving in dat graf.
 
 #### § 2. Slotbepalingen
 
