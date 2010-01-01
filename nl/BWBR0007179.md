@@ -4,7 +4,7 @@ identifier: "BWBR0007179"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-01-01"
-last_updated: "2003-02-21"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007179"
 soort: "AMvB"
@@ -50,9 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. Bij ministeriële regeling wordt een instructie vastgesteld waarin regels zijn neergelegd voor de onderbouwing en de uitvoering van de waardebepaling van onroerende zaken op de voet van de wet.
-
-2. Bij ministeriële regeling worden de vakbekwaamheidseisen vastgesteld waaraan degenen die de waardebepaling als bedoeld in de wet uitvoeren, moeten voldoen.
+Bij ministeriële regeling wordt een instructie vastgesteld waarin regels zijn neergelegd voor de onderbouwing en de uitvoering van de waardebepaling van onroerende zaken op de voet van de wet.
 
 ##### Artikel 3
 
