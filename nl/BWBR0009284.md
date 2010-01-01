@@ -4,7 +4,7 @@ identifier: "BWBR0009284"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2000-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009284"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
-In dit besluit wordt verstaan onder de wet: de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657).
+In dit besluit wordt verstaan onder de wet: de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657).
 
 ##### Artikel 2. Uitbreiding van de kring van ingezetenen
 
@@ -72,6 +72,6 @@ Dit besluit treedt in werking met ingang van 1 januari 1998.
 
 ##### Artikel 6. Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking kring ingezetenen Wajong.
+Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking kring ingezetenen Wet Wajong.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
