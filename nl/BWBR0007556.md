@@ -4,7 +4,7 @@ identifier: "BWBR0007556"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-12-21"
-last_updated: "2002-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007556"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Het verkeersbegeleidingstarief is vastgesteld zoals opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0007556&bijlage=behorend_bij_artikel_1&z=2002-01-01&g=2002-01-01) bij deze regeling.
+Het verkeersbegeleidingstarief is vastgesteld zoals opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0007556&bijlage=behorend_bij_artikel_1&z=2002-01-01&g=2010-01-01) bij deze regeling.
 
 ##### Artikel 2
 
