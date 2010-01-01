@@ -4,7 +4,7 @@ identifier: "BWBR0026062"
 country: "nl"
 rank: "wet"
 publication_date: "2010-01-01"
-last_updated: "2009-07-08"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026062"
 soort: "wet"
@@ -53,7 +53,7 @@ Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel IV
 
