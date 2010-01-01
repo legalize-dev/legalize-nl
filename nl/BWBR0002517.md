@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2006-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -39,11 +39,11 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de [artikelen 4c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4c), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=9) en [10 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10).
+Deze regeling geeft uitvoering aan de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), [4c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4c), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4e), [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4f), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=9) en [10 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10).
 
 ##### Artikel 1a
 
-Vervallen
+Voor de toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), en [10, derde lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland en Noorwegen.
 
 ##### Artikel 1aa
 
@@ -99,7 +99,7 @@ Ingeval degene die ingevolge [artikel 9 van de Wet op de dividendbelasting 1965]
 
 - a. de dividendnota's doorlopend nummeren, al dan niet in series;
 
-- b. de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=2&z=2006-01-01&g=2006-01-01) bedoelde nota's afzonderlijk doorlopend nummeren;
+- b. de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=2&z=2010-01-01&g=2010-01-01) bedoelde nota's afzonderlijk doorlopend nummeren;
 
 - c. dubbelen van de dividendnota's vervaardigen en gedurende vijf jaren op serie en nummer bewaren.
 
@@ -118,6 +118,22 @@ Vervallen
 ## Bijlage
 
 Vervallen
+
+## Bijlage A
+
+Vervallen
+
+## Bijlage
+
+Vervallen
+
+##### Artikel 1ab
+
+Op grond van [artikel 4e van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4e) kan inhouding van dividendbelasting achterwege blijven, voor zover de opbrengstgerechtigde voor het tijdstip waarop de opbrengst ter beschikking wordt gesteld jegens de inhoudingsplichtige schriftelijk verklaart dat hij met betrekking tot dat dividend een verzoek zal doen om toepassing van [artikel 4.12a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12a).
+
+##### Artikel 1ac
+
+Op grond van [artikel 4f van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4f) kan inhouding van dividendbelasting achterwege blijven, voor zover de opbrengstgerechtigde voor het tijdstip waarop de opbrengst ter beschikking wordt gesteld jegens de inhoudingsplichtige schriftelijk verklaart dat met betrekking tot dat dividend sprake is van een situatie als bedoeld in [artikel 25, elfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
 
 ## Bijlage A
 
