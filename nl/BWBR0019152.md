@@ -4,7 +4,7 @@ identifier: "BWBR0019152"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2009-09-18"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019152"
 soort: "AMvB"
@@ -46,17 +46,17 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Paragraaf 1. Algemeen
+#### Paragraaf 1. Algemene bepalingen
 
-##### Artikel 1. Algemene bepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. arbeidsongeschiktheidsuitkering: een arbeidsongeschiktheidsuitkering op grond van de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) of de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+- a. arbeidsongeschiktheidsuitkering: een arbeidsongeschiktheidsuitkering of inkomensvoorziening op grond van de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) of de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
 - b. WAO: [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- c. WAJONG: [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+- c. Wet Wajong: [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
 - d. WAZ: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
 
@@ -64,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2. Uitgangspunten verstrekking subsidie en verlening voorzieningen
 
-1. Een subsidie als bedoeld in [artikel 36 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=36) of een voorziening als bedoeld in [artikel 52d van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52d), de [artikelen 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34), en [35 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35), [artikel 65e van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65e), [artikel 59b van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59b) en [artikel 67c van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c), wordt niet verstrekt respectievelijk verleend indien het kosten van een voorziening of een voorziening betreft:
+1. Een subsidie als bedoeld in [artikel 36 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=36) of een voorziening als bedoeld in de [artikelen 34a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a), en [35 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) en [2:23, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23) wordt niet verstrekt respectievelijk verleend indien het kosten van een voorziening of een voorziening betreft:
 
 - a. die algemeen gebruikelijk is; of
 
@@ -80,17 +80,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Indien de gezamenlijke waarde van voorzieningen waarvoor in een kalenderjaar een subsidie is aangevraagd als bedoeld in [artikel 36 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=36), een bedrag ter hoogte van 1,85 maal het minimumloon per dag, bedoeld in [artikel 8, eerste lid, onderdeel c, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) overtreft, kan het UWV de werkgever subsidie verstrekken ter hoogte van die gezamenlijke waarde.
 
-3. Dit artikel is van overeenkomstige toepassing op de verlening van voorzieningen als bedoeld in [artikel 52d van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52d), de [artikelen 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34), en [35 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35), [artikel 65e van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65e), [artikel 59b van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59b) en [artikel 67c van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c).
+3. Dit artikel is van overeenkomstige toepassing op de verlening van voorzieningen als bedoeld in de [artikelen 34a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a), en [35 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:23, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23).
 
 ##### Artikel 4. Op het individu gerichte voorzieningen
 
-Een voorziening als bedoeld in [artikel 52d van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52d), de [artikelen 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34), en [35 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35), [artikel 65e van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65a), [artikel 59b van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59b) en [artikel 67c van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c) wordt slechts verleend indien deze in overwegende mate op het individu is gericht.
+Een voorziening als bedoeld in de [artikelen 34a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a), en [35 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:23, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23) wordt slechts verleend indien deze in overwegende mate op het individu is gericht.
 
 #### Paragraaf 2. Voorzieningen
 
 ##### Artikel 5. Inkomenstoets (leef)vervoersvoorzieningen
 
-1. Vervoersvoorzieningen als bedoeld in [artikel 35, tweede lid, onderdeel a, en derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35), worden niet verleend of worden beëindigd, indien het inkomen van de persoon die de voorziening aanvraagt of aan wie de voorziening is verleend, in het kalenderjaar waarin de voorziening is aangevraagd of voortzetting van een verleende voorziening wordt overwogen, meer bedraagt dan 261 maal 70% van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag.
+1. Vervoersvoorzieningen als bedoeld in [artikel 35, tweede lid, onderdeel a, en derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, tweede lid, onderdeel a, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22), worden niet verleend of worden beëindigd, indien het inkomen van de persoon die de voorziening aanvraagt of aan wie de voorziening is verleend, in het kalenderjaar waarin de voorziening is aangevraagd of voortzetting van een verleende voorziening wordt overwogen, meer bedraagt dan 261 maal 70% van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag.
 
 2. Indien het inkomen van de persoon, bedoeld in het eerste lid, in betekenende mate aan fluctuaties onderhevig is, wordt voor de toepassing van het eerste lid de som van het inkomen over het in het eerste lid bedoelde kalenderjaar en het inkomen over de twee daaraan voorafgaande kalenderjaren gedeeld door drie.
 
@@ -108,13 +108,13 @@ Een voorziening als bedoeld in [artikel 52d van de Ziektewet](https://wetten.ove
 
 ##### Artikel 6. Leefvervoersvoorziening
 
-1. Een leefvervoersvoorziening als bedoeld in [artikel 35, derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) wordt slechts verleend indien daarmee de uit ziekte of gebrek voortvloeiende beperkingen worden opgeheven of verminderd.
+1. Een leefvervoersvoorziening als bedoeld in [artikel 35, derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, derde lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) wordt slechts verleend indien daarmee de uit ziekte of gebrek voortvloeiende beperkingen worden opgeheven of verminderd.
 
-2. Na beëindiging van een vervoersvoorziening, verleend op grond van [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) wordt de leefvervoersvoorziening voortgezet gedurende de termijn die is voorzien in de beschikking van het Uitvoeringsinstituut werknemersverzekeringen waarbij de voorziening is toegekend, doch ten hoogste voor de duur van twaalf maanden.
+2. Na beëindiging van een vervoersvoorziening, verleend op grond van [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) of [artikel 2:22, eerste lid van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) wordt de leefvervoersvoorziening voortgezet gedurende de termijn die is voorzien in de beschikking van het Uitvoeringsinstituut werknemersverzekeringen waarbij de voorziening is toegekend, doch ten hoogste voor de duur van twaalf maanden.
 
 ##### Artikel 7. Intermediaire activiteiten voor personen met een auditieve, visuele of motorische handicap
 
-1. De verlening van een intermediaire activiteit als bedoeld in [artikel 35, tweede lid, onderdeel b, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), vindt plaats door vergoeding van de kosten voor de bemiddeling bij het vinden van en voor het gebruik van een intermediaire activiteit.
+1. De verlening van een intermediaire activiteit als bedoeld in [artikel 35, tweede lid, onderdeel b, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, tweede lid, onderdeel b, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22), vindt plaats door vergoeding van de kosten voor de bemiddeling bij het vinden van en voor het gebruik van een intermediaire activiteit.
 
 2. De voorziening, bedoeld in het eerste lid, kan ten hoogste worden verleend voor het aantal uren dat overeenkomt met 15% van het aantal uren dat de persoon met een auditieve, motorische of visuele handicap per kalenderjaar in dienstbetrekking verricht.
 
@@ -122,7 +122,7 @@ Een voorziening als bedoeld in [artikel 52d van de Ziektewet](https://wetten.ove
 
 ##### Artikel 8. Overname van voorzieningen
 
-1. Het UWV kan indien een of meer feiten op grond waarvan een voorziening als bedoeld in [artikel 35 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) is verleend, zodanig wijzigen dat de verlening van de voorziening niet langer is aangewezen, of indien een met betrekking tot een voorziening afgesloten bruikleencontract afloopt, een belanghebbende de niet in de vorm van een financiële tegemoetkoming verleende voorziening doen behouden of doen kopen, voor een prijs die de op dat moment in het maatschappelijke verkeer geldende waarde van een dergelijke voorziening niet te boven gaat.
+1. Het UWV kan indien een of meer feiten op grond waarvan een voorziening als bedoeld in [artikel 35 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) of [artikel 2:22 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) is verleend, zodanig wijzigen dat de verlening van de voorziening niet langer is aangewezen, of indien een met betrekking tot een voorziening afgesloten bruikleencontract afloopt, een belanghebbende de niet in de vorm van een financiële tegemoetkoming verleende voorziening doen behouden of doen kopen, voor een prijs die de op dat moment in het maatschappelijke verkeer geldende waarde van een dergelijke voorziening niet te boven gaat.
 
 2. Indien de voorziening, bedoeld in het eerste lid, een vervoermiddel betreft, wordt bij het bepalen van de prijs, bedoeld in het eerste lid, uitgegaan van de voorziening zonder specifieke aanpassingen.
 
@@ -182,35 +182,31 @@ Bij een aanvraag van een subsidie als bedoeld in [artikel 36 van de Wet WIA](htt
 
 #### Paragraaf 4. Voorzieningen t.b.v. zelfstandigenarbeid
 
-##### Artikel 13. (Leef)vervoersvoorzieningen bij inschakeling in zelfstandigenarbeid
+##### Artikel 13. (Leef)vervoersvoorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
-1. Het UWV kan op aanvraag van een persoon als bedoeld in [artikel 52d van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52d), [artikel 34, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34), [artikel 65e van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65e), [artikel 59b van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59b) of [artikel 67c van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c) vervoersvoorzieningen verlenen die ertoe strekken dat die persoon zijn werkplek of opleidingslokatie kan bereiken.
+1. Het UWV kan op aanvraag van een persoon als bedoeld in [artikel 34a, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a), en [artikel 2:23, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23) vervoersvoorzieningen verlenen die ertoe strekken dat die persoon zijn werkplek of opleidingslocatie kan bereiken.
 
 2. Het UWV kan aan een persoon als bedoeld in het eerste lid op aanvraag vervoersvoorzieningen verlenen die strekken tot verbetering van zijn leefomstandigheden en die deel uitmaken van dan wel rechtstreeks samenhangen met voorzieningen als bedoeld in het eerste lid.
 
-3. Op de verlening van voorzieningen als bedoeld in het eerste en tweede lid zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=5&z=2009-09-18&g=2009-09-18), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=6&z=2009-09-18&g=2009-09-18) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2009-09-18&g=2009-09-18) van overeenkomstige toepassing.
+3. Op de verlening en beëindiging van voorzieningen als bedoeld in het eerste en tweede lid zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=5&z=2010-01-01&g=2010-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=6&z=2010-01-01&g=2010-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2010-01-01&g=2010-01-01) van overeenkomstige toepassing.
 
-4. Het UWV kan een voorziening als bedoeld in het eerste lid gedurende ten hoogste zes maanden verlengen indien het recht op die voorziening eindigt omdat de in het eerste lid bedoelde persoon ten gevolge van het verrichten van arbeid als zelfstandige geen recht meer heeft op een uitkering.
+##### Artikel 14. Intermediaire voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
-##### Artikel 14. Intermediaire voorzieningen bij inschakeling in zelfstandigenarbeid
+1. Het UWV kan op aanvraag ten behoeve van een persoon als bedoeld in [artikel 34a, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a) en [artikel 2:23, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23) met een auditieve, visuele of motorische handicap intermediaire activiteiten verlenen.
 
-1. Het UWV kan op aanvraag ten behoeve van een persoon als bedoeld in [artikel 52d van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52d), [artikel 34, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34), [artikel 65e van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65e), [artikel 59b van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59b) of [artikel 67c van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c) met een auditieve, visuele of motorische handicap intermediaire activiteiten verlenen.
+2. [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7&z=2010-01-01&g=2010-01-01), is van overeenkomstige toepassing op het eerste lid.
 
-2. [Artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7&z=2009-09-18&g=2009-09-18), is van overeenkomstige toepassing op het eerste lid.
+##### Artikel 15. Starterskrediet en begeleiding bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
-3. Het UWV kan een voorziening als bedoeld in het eerste lid gedurende ten hoogste twee maanden verlengen indien het recht op die voorziening eindigt omdat de in het eerste lid bedoelde persoon ten gevolge van het verrichten van arbeid als zelfstandige geen recht meer heeft op een uitkering.
-
-##### Artikel 15. Starterskrediet
-
-1. Het UWV kan op aanvraag van een persoon als bedoeld in [artikel 52d van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52d), [artikel 34, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34), [artikel 65e van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65e), [artikel 59b van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59b) of [artikel 67c van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c), ter voorziening in de behoefte aan bedrijfskapitaal een lening of borgtocht verstrekken tot ten hoogste een bij ministeriële regeling vast te stellen bedrag indien:
+1. Het UWV kan op aanvraag van een persoon als bedoeld in [artikel 34a, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a) en [artikel 2:23, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23) ter voorziening in de behoefte aan bedrijfskapitaal een lening of borgtocht verstrekken tot ten hoogste een bij ministeriële regeling vast te stellen bedrag indien:
 
 - a. de arbeidsmarktpositie van die persoon daartoe aanleiding geeft; en
 
 - b. het starten van het bedrijf naar het oordeel van het UWV voor betrokkene een reële optie is, gelet op diens beperking als gevolg van de handicap en het door hem opgestelde bedrijfsplan.
 
-3. Het UWV kan naast de lening of de borgtocht, bedoeld in het eerste lid, een vergoeding verstrekken voor de kosten van begeleiding ten behoeve van de start van een bedrijf voor de duur van ten hoogste één jaar na de start van het bedrijf.
+2. Het UWV kan op aanvraag van de persoon, bedoeld in het eerste lid, een vergoeding verstrekken voor de kosten van begeleiding ten behoeve van de start van een bedrijf voor de duur van ten hoogste één jaar na de start van het bedrijf, indien wordt voldaan aan de voorwaarden, bedoeld in het eerste lid, onder a en b.
 
-4. Een vergoeding van de kosten van begeleiding ten behoeve van de start van een bedrijf, bedoeld in het tweede lid, vindt niet plaats aan personen als bedoeld in [artikel 30a, eerste lid, onderdelen a en c, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a) of personen met wie een individuele re-integratieovereenkomst is gesloten als bedoeld in [artikel 4.2 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=4.2).
+3. Een vergoeding van de kosten van begeleiding ten behoeve van de start van een bedrijf, bedoeld in het tweede lid, vindt niet plaats aan personen als bedoeld in [artikel 30a, eerste lid, onderdelen a en c, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a) of personen met wie een individuele re-integratieovereenkomst is gesloten als bedoeld in [artikel 4.2 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=4.2).
 
 4. Het UWV verstrekt geen lening of borgtocht aan een persoon als bedoeld in het eerste lid, indien:
 
@@ -224,7 +220,7 @@ Bij een aanvraag van een subsidie als bedoeld in [artikel 36 van de Wet WIA](htt
 
 ##### Artikel 16. Hoogte van de loonsuppletie
 
-1. De hoogte van de loonsuppletie, bedoeld in [artikel 65c van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65c), [artikel 67a van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67a) of [artikel 59f van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59f), bedraagt:
+1. De hoogte van de loonsuppletie, bedoeld in [artikel 65c van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65c), [artikel 67a van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67a) en de [artikelen 2:25](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:25) en [3:67 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:67), bedraagt:
 
 - a. gedurende het eerste jaar 100%,
 
@@ -242,7 +238,7 @@ van het verschil tussen het bedrag van de arbeidsongeschiktheidsuitkering die zo
 
 - a. het inkomen uit bedrijf of beroep,
 
-- b. de inkomenssuppletie, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=17&z=2009-09-18&g=2009-09-18),
+- b. de inkomenssuppletie, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=17&z=2010-01-01&g=2010-01-01),
 
 - c. een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of een daarmee naar aard en strekking overeenkomende uitkering,
 
@@ -256,7 +252,7 @@ niet meer dan het voor betrokkene vastgestelde maatmaninkomen, bedoeld in [artik
 
 ##### Artikel 17. Hoogte van de inkomenssuppletie
 
-1. De hoogte van de inkomenssuppletie, bedoeld in [artikel 65d van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65d), [artikel 67b van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67b) of [artikel 59g van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59g), bedraagt:
+1. De hoogte van de inkomenssuppletie, bedoeld in [artikel 65d van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65d), [artikel 67b van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67b) en de [artikelen 2:26](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:26) en [3:68 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:68), bedraagt:
 
 - a. gedurende het eerste jaar 100%,
 
@@ -274,11 +270,11 @@ van het verschil tussen het bedrag van de arbeidsongeschiktheidsuitkering die zo
 
 - a. het loon,
 
-- b. de loonsuppletie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=16&z=2009-09-18&g=2009-09-18),
+- b. de loonsuppletie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=16&z=2010-01-01&g=2010-01-01),
 
 - c. een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of een daarmee naar aard en strekking overeenkomende uitkering,
 
-- d. een uitkering op grond van de Werkloosheidswet of een daarmee naar aard en strekking overeenkomende uitkering,
+- d. een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of een daarmee naar aard en strekking overeenkomende uitkering,
 
 - e. een uitkering op grond van [hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2), of
 
@@ -286,21 +282,21 @@ van het verschil tussen het bedrag van de arbeidsongeschiktheidsuitkering die zo
 
 niet meer dan het voor betrokkene vastgestelde maatmaninkomen, bedoeld in [artikel 6 van het Schattingsbesluit arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&artikel=6).
 
-#### Paragraaf 6. Overige instrumenten
+#### Paragraaf 5. Loon- en inkomenssuppletie
 
 ##### Artikel 18. Persoonlijke ondersteuning
 
-1. De persoonlijke ondersteuning, bedoeld in [artikel 35, tweede lid, onderdeel d, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35), kan bestaan uit het beschikbaar stellen van persoonlijke ondersteuning of uit vergoeding van de kosten van persoonlijke ondersteuning.
+1. De persoonlijke ondersteuning, bedoeld in [artikel 35, tweede lid, onderdeel d, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, tweede lid, onderdeel d, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22), kan bestaan uit het beschikbaar stellen van persoonlijke ondersteuning of uit vergoeding van de kosten van persoonlijke ondersteuning.
 
 2. De persoonlijke ondersteuning wordt slechts verleend indien:
 
-- a. de persoonlijke ondersteuning bestaat uit een individueel trainings- of inwerkprogramma en een systematische begeleiding van de persoon, bedoeld in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) gericht op het kunnen uitvoeren van de hem opgedragen taken;
+- a. de persoonlijke ondersteuning bestaat uit een individueel trainings- of inwerkprogramma en een systematische begeleiding van de persoon, bedoeld in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22), gericht op het kunnen uitvoeren van de hem opgedragen taken;
 
-- b. de in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) bedoelde persoon zonder een systematische begeleiding niet in staat zou zijn de hem opgedragen taken te verrichten; en
+- b. de in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) bedoelde bedoelde persoon zonder een systematische begeleiding niet in staat zou zijn de hem opgedragen taken te verrichten; en
 
 - c. de persoonlijke ondersteuning wordt gegeven door een persoon die verbonden is aan een door het UWV erkende rechtspersoon die tot doel heeft diensten te verlenen die kunnen worden aangemerkt als persoonlijke ondersteuning als bedoeld in onderdeel a.
 
-3. De persoonlijke ondersteuning kan in het eerste jaar, tweede jaar en de daarop volgende jaren van verlening worden verleend voor een aantal uren dat correspondeert met respectievelijk 15%, 7,5% en 6% van het aantal uren per kalenderjaar dat de, aan de in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) bedoelde persoon opgedragen taken in beslag neemt.
+3. De persoonlijke ondersteuning kan in het eerste jaar, tweede jaar en de daarop volgende jaren van verlening worden verleend voor een aantal uren dat correspondeert met respectievelijk 15%, 7,5% en 6% van het aantal uren per kalenderjaar dat de, aan de in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) bedoelde bedoelde persoon opgedragen taken in beslag neemt.
 
 4. Het UWV kan van de in het derde lid bedoelde percentages afwijken voorzover toepassing daarvan gelet op het belang dat dit artikel beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
@@ -328,15 +324,41 @@ Dit besluit wordt aangehaald als: Reïntegratiebesluit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 15a. Arbeidsplaatsvoorzieningen bij inschakeling in zelfstandigenarbeid
+##### Artikel 15a. Arbeidsplaatsvoorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
-1. Het UWV kan op aanvraag van een persoon als bedoeld in [artikel 52d van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52d), [artikel 34, tweede lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34), [artikel 65e van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65e), [artikel 59b van de WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59b) of [artikel 67c van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c) voorzieningen verstrekken ten behoeve van de inrichting van de arbeidsplaats, de productie- en werkmethoden en de bij de arbeid te gebruiken hulpmiddelen, die in overwegende mate op het individu van de aanvrager zijn afgestemd.
+1. Het UWV kan op aanvraag van een persoon als bedoeld in [artikel 34a, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a) en [artikel 2:23, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23) voorzieningen verstrekken ten behoeve van de inrichting van de arbeidsplaats, de productie- en werkmethoden en de bij de arbeid te gebruiken hulpmiddelen, die in overwegende mate op het individu van de aanvrager zijn afgestemd.
 
-2. Op de verlening van voorzieningen, bedoeld in het eerste lid, zijn [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2009-09-18&g=2009-09-18), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=3&artikel=10&z=2009-09-18&g=2009-09-18) van overeenkomstige toepassing.
-
-3. Het UWV kan een voorziening als bedoeld in het eerste lid gedurende ten hoogste zes maanden verlengen indien het recht op die voorziening eindigt omdat de in het eerste lid bedoelde persoon ten gevolge van het verrichten van arbeid als zelfstandige geen recht meer heeft op een uitkering.
+2. Op de verlening van voorzieningen, bedoeld in het eerste lid, zijn [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2010-01-01&g=2010-01-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=3&artikel=10&z=2010-01-01&g=2010-01-01) van overeenkomstige toepassing.
 
 #### Paragraaf 5. Loon- en inkomenssuppletie
+
+#### Paragraaf 6. Overige instrumenten
+
+#### Paragraaf 7. Overgangsbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a. Wettelijke grondslag
+
+Dit besluit berust op de [artikelen 34a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a), [35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [36, eerste lid, onderdeel a, en vierde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=36), de [artikelen 65c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65c), en [65d, vierde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65d), de [artikelen 2:22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22), [2:23, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23), [3:67, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:67), en [3:68, vierde lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:68) en de [artikelen 67a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67a), en [67b, vierde lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67b).
+
+#### Paragraaf 2. Voorzieningen
+
+#### Paragraaf 3. Subsidieregeling werkgevers
+
+#### Paragraaf 4. Voorzieningen t.b.v. zelfstandigenarbeid
+
+##### Artikel 15b. Inkomenstoets bij inschakeling in en ondersteuning bij arbeid als zelfstandige
+
+1. Voorzieningen als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=14&z=2010-01-01&g=2010-01-01) en [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=15a&z=2010-01-01&g=2010-01-01) worden niet verleend of worden beëindigd, indien het inkomen van de persoon die de voorziening aanvraagt of aan wie de voorziening is verleend, in het vierde kalenderjaar dan wel een daarop volgend jaar, na de aanvang van de arbeid als zelfstandige, meer bedraagt dan 261 maal 157% van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag.
+
+2. Indien het inkomen van de persoon, bedoeld in het eerste lid, in betekenende mate aan fluctuaties onderhevig is, wordt voor de toepassing van dat artikellid de som van het inkomen over het in dat artikellid bedoelde kalenderjaar en het inkomen over de twee daaraan voorafgaande kalenderjaren gedeeld door drie.
+
+3. Bij ministeriële regeling worden regels gesteld over de wijze van vaststelling van het inkomen, bedoeld in het eerste lid, waarbij kan worden bepaald dat bij de vaststelling van het inkomen mede in aanmerking wordt genomen het inkomen van de echtgenoot, de partner of een ander gezinslid van de in het eerste lid bedoelde persoon.
+
+4. Beëindiging van de voorziening wegens overschrijding van de inkomensgrens, bedoeld in het eerste lid, vindt plaats met ingang van de datum gelegen zes maanden nadat de persoon aan wie de voorziening is verleend van de voorgenomen beëindiging in kennis is gesteld.
+
+5. Dit artikel is van overeenkomstige toepassing ten aanzien van vervoersvoorzieningen ten aanzien waarvan op grond van [artikel 5, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=5&z=2010-01-01&g=2010-01-01), is bepaald dat artikel 5, eerste lid, daarop niet van toepassing is.
 
 #### Paragraaf 6. Overige instrumenten
 
