@@ -4,7 +4,7 @@ identifier: "BWBV0005128"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-01-01"
-last_updated: "2003-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005128"
 soort: "verdrag"
@@ -116,15 +116,15 @@ Vervallen
 
 ##### Artikel 17
 
-Uitkeringen ingevolge de renten verzekeringen van een der Verdragsluitende Staten worden aan rechthebbenden, verblijvend in de andere Verdragsluitende Staat, uitbetaald door het verbindingsbureau van laatstbedoelde Staat in opdracht van het verbindingsbureau, dat bevoegd is voor het orgaan, dat tot uitkering verplicht is.
+Vervallen
 
 ##### Artikel 18
 
-De administratieve maatregelen, welke nodig zijn voor de uitbetaling van de lopende renten, van de achterstallige renten en van de uitkeringen ineens, worden in gemeenschappelijk overleg tussen de verbindingsbureaux vastgesteld.
+Vervallen
 
 ##### Artikel 19
 
-De volgens artikel 17 uit te betalen bedragen worden maandelijks verrekend. Het verschil, dat hierna ten laste blijft van de gezamenlijke sociale verzekeringsorganen van een van beide Verdragsluitende Staten, wordt overeenkomstig de bepalingen van de Nederlands-Duitse betalingsovereenkomst maandelijks vereffend.
+Vervallen
 
 ##### Artikel 20
 
@@ -132,7 +132,7 @@ Vervallen
 
 ##### Artikel 21
 
-De uitkeringen worden aan de rechthebbenden uitbetaald zonder aftrek van enige kosten van administratie of van overmaking.
+Vervallen
 
 ##### Artikel 22
 
