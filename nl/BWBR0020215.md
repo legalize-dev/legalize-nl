@@ -4,7 +4,7 @@ identifier: "BWBR0020215"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-24"
-last_updated: "2006-09-02"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020215"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Aan de algemeen directeur van SenterNovem wordt mandaat verleend tot:
 
 ##### Artikel 3
 
-1. De algemeen directeur is gemachtigd tot het afdoen van alle stukken die betrekking hebben op besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020215&artikel=2&z=2006-09-02&g=2006-09-02).
+1. De algemeen directeur is gemachtigd tot het afdoen van alle stukken die betrekking hebben op besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020215&artikel=2&z=2006-09-02&g=2010-01-01).
 
 2. De algemeen directeur is gemachtigd ten aanzien van verweerschriften en beroepschriften in administratiefrechtelijke procedures, gericht tot een administratieve rechter, ten behoeve van het vertegenwoordigen van de Minister in administratiefrechtelijke procedures bij de administratieve rechter en tot het afdoen van alle stukken die daarop betrekking hebben.
 
@@ -93,5 +93,11 @@ De algemeen directeur van SenterNovem verstrekt de minister periodiek en op dien
 ##### Artikel 9
 
 Dit besluit treedt inwerking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het is geplaatst.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 10
+
+Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Agentschap NL Subsidieregeling TTI.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
