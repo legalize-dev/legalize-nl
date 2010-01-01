@@ -4,7 +4,7 @@ identifier: "BWBR0009458"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2009-07-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009458"
 soort: "wet"
@@ -50,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=2&z=2009-07-01&g=2009-07-01);
+- a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=2&z=2010-01-01&g=2010-01-01);
 
 - b. projectsubsidie: subsidie die anders dan per boekjaar wordt verstrekt.
 
@@ -72,7 +72,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Reikwijdte
 
-1. Deze wet is niet van toepassing op subsidie die Onze Minister verstrekt krachtens een andere wet, behoudens de tweede volzin en het tweede lid. De [artikelen 4 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=4&z=2009-07-01&g=2009-07-01) zijn van toepassing op subsidie die Onze Minister verstrekt krachtens de [artikelen 70 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=70), [71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71), [46, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=46), [47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=47), en [75d van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=75d) en [2.7 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.7).
+1. Deze wet is niet van toepassing op subsidie die Onze Minister verstrekt krachtens een andere wet, behoudens de tweede volzin en het tweede lid. De [artikelen 4 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=4&z=2010-01-01&g=2010-01-01) zijn van toepassing op subsidie die Onze Minister verstrekt krachtens de [artikelen 70 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=70), [71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71), [46, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=46), [47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=47), en [75d van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=75d) en [2.7 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.7).
 
 2. Onze Minister kan in afwijking van een andere wet als bedoeld in het eerste lid, in dringende gevallen subsidie op grond van deze wet verstrekken ten behoeve van extra activiteiten van bepaalde omvang en duur of extra voorzieningen, een en ander gericht op een specifieke bestemming der middelen. Verstrekking van subsidie als bedoeld in de eerste volzin, vindt slechts plaats indien die subsidie incidenteel van aard is of de subsidieverstrekking vooruitloopt op de totstandkoming van wetgeving terzake. Deze subsidieverstrekking geschiedt dan:
 
@@ -84,9 +84,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De in het tweede lid bedoelde algemene maatregel van bestuur of ministeriële regeling wordt aan de beide kamers der Staten-Generaal overgelegd. De algemene maatregel van bestuur of ministeriële regeling treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een der kamers de wens wordt te kennen gegeven dat het in die algemene maatregel van bestuur of ministeriële regeling geregelde onderwerp bij wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.
 
-4. In geval van subsidieverstrekking als bedoeld in het tweede lid is [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=4&z=2009-07-01&g=2009-07-01), niet van toepassing.
+4. In geval van subsidieverstrekking als bedoeld in het tweede lid is [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=4&z=2010-01-01&g=2010-01-01), niet van toepassing.
 
-##### Artikel 4. Vereisten subsidieverstrekking
+##### Artikel 4. Grondslag subsidieverstrekking; nadere voorschriften
 
 1. Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling, tenzij het een subsidie betreft:
 
@@ -94,15 +94,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. waarvan de voorgenomen verstrekking tevoren is meegedeeld aan de beide kamers der Staten-Generaal.
 
-2. Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen de activiteiten waarvoor subsidie kan worden verstrekt, nader worden bepaald, alsmede de criteria voor die verstrekking worden vastgesteld.
-
-3. Bij of krachtens de algemene maatregel van bestuur of bij ministeriële regeling kunnen voorts regels worden gesteld met betrekking tot:
+2. Bij of krachtens de algemene maatregel van bestuur of bij ministeriële regeling kunnen voorts regels worden gesteld met betrekking tot:
 
 - a. de aanvraag van een subsidie en de besluitvorming daarover,
 
 - b. het bedrag van de subsidie dan wel de wijze waarop dit bedrag wordt bepaald,
 
-- c. delegatie van de bevoegdheid besluiten te nemen met betrekking tot de subsidie,
+- c. de activiteiten waarvoor subsidie wordt verstrekt,
 
 - d. de voorwaarden waaronder de subsidie wordt verleend,
 
@@ -114,11 +112,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. de betaling van de subsidie en het verlenen van voorschotten,
 
-- i. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in artikel 4:24 van de Algemene wet bestuursrecht, of
+- i. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24), of
 
 - j. andere criteria voor de verstrekking van subsidie.
 
-4. Indien subsidie wordt verleend op grond van het eerste lid, onder a of b, kan Onze Minister bij de subsidieverlening een termijn vaststellen waarbinnen op de aanvraag tot vaststelling van de subsidie wordt beslist.
+3. Indien subsidie wordt verleend op grond van het eerste lid, onder a of b, kan Onze Minister bij de subsidieverlening een termijn vaststellen waarbinnen op de aanvraag tot vaststelling van de subsidie wordt beslist.
+
+4. Onze Minister kan het verstrekken van subsidie bij of krachtens deze wet delegeren aan een zelfstandig bestuursorgaan als bedoeld in [artikel 1, onderdeel a, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=1).
 
 ##### Artikel 5. Subsidieplafond
 
@@ -126,7 +126,7 @@ Onze Minister kan een subsidieplafond vaststellen voor de verschillende activite
 
 ##### Artikel 6. Begrotingsvoorbehoud
 
-Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
+Vervallen
 
 ##### Artikel 7. Verlening van voorschotten
 
@@ -134,59 +134,45 @@ Vervallen
 
 ##### Artikel 8. Subsidiëring mede door andere bestuursorganen
 
-Indien Onze Minister subsidie verstrekt voor activiteiten die mede door andere bestuursorganen worden gesubsidieerd, kan Onze Minister afwijken van de bij of krachtens deze wet aan de subsidie te verbinden verplichtingen, voorzover
-
-- a. dit wenselijk is met het oog op een goede afstemming met de door die andere bestuursorganen opgelegde of op te leggen verplichtingen, en
-
-- b. daardoor het belang met het oog waarop die verplichtingen zouden moeten worden opgelegd, niet onevenredig wordt geschaad.
+Vervallen
 
 ##### Artikel 9. Intrekking wegens strijd met verdragen
 
-1. Een aanvraag kan worden afgewezen en een beschikking tot subsidieverstrekking op grond van deze wet kan worden ingetrokken of gewijzigd voorzover subsidieverstrekking in strijd zou zijn respectievelijk in strijd is met ingevolge een verdrag voor de staat geldende verplichtingen.
+1. Een aanvraag kan worden afgewezen en een beschikking tot subsidieverstrekking op grond van deze wet kan worden ingetrokken of gewijzigd voorzover subsidieverstrekking in strijd is met ingevolge een verdrag voor de staat geldende verplichtingen.
 
-2. Bij de intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is.
+2. Bij de vaststelling, intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is.
 
 3. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verstrekt, tenzij bij de intrekking of wijziging anders is bepaald.
 
 4. [Artikel 4:50, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:50) is van overeenkomstige toepassing.
 
-5. De [artikelen 4:49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.
+5. De [artikelen 4:49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), en [4:57, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.
 
 ##### Artikel 10. Toezichthouders
 
-1. Onze Minister kan voor door hem verstrekte subsidies bij besluit een of meer toezichthouders aanwijzen, die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet.
+1. Onze Minister kan bij besluit personen aanwijzen die belast worden met het toezicht op de naleving van het bepaalde bij of krachtens deze wet.
 
-2. Van een besluit als bedoeld in het eerste lid, wordt mededeling gedaan in de Staatscourant.
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-3. De toezichthouder beschikt niet over de bevoegdheden, vermeld in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
+3. De toezichthouder beschikt niet over de bevoegdheden, bedoeld in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
 ### Hoofdstuk 2. Per boekjaar verstrekte subsidies
 
 ##### Artikel 11. Toepassing
 
-1. [Afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) is van toepassing op de door Onze Minister per boekjaar verstrekte subsidies.
-
-2. Indien de aard van de subsidie of de hoogte van het bedrag van de subsidie daartoe aanleiding geeft, kan van het eerste lid vrijstelling of ontheffing worden verleend. Vrijstelling wordt verleend bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling. Ontheffing wordt verleend door Onze Minister.
-
-3. Onze Minister kan het boekjaar gelijk stellen aan een andere periode van een jaar dan het kalenderjaar.
+Vervallen
 
 ##### Artikel 12. Egalisatiereserve
 
-Bij subsidies voor langer dan een boekjaar vormt de ontvanger een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72). Bij de subsidieverlening kan de omvang van de egalisatiereserve in aanmerking worden genomen.
+Vervallen
 
 ##### Artikel 13. Accountantsonderzoek
 
-1. Bij het onderzoek, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78), onderzoekt de accountant tevens de naleving van de aan de subsidie verbonden verplichtingen, overeenkomstig een door Onze Minister vast te stellen aanwijzing over de reikwijdte en de intensiteit van de controle.
-
-2. De subsidieontvanger draagt er zorg voor dat de accountant meewerkt aan door of namens de departementale accountantsdienst in te stellen onderzoeken naar de door de accountant verrichte werkzaamheden. De daaraan verbonden kosten worden geacht te zijn begrepen in de subsidie.
+Vervallen
 
 ##### Artikel 14. Vergoedingsplicht
 
-1. In de gevallen, bedoeld in [artikel 4:41, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41), legt Onze Minister een door hem te bepalen vergoedingsplicht op.
-
-2. Bij de vaststelling van de hoogte van de vergoeding worden activa gewaardeerd op hun actuele waarde. De waardebepaling van een onroerende zaak geschiedt door drie deskundigen. Onze Minister onderscheidenlijk de subsidieontvanger wijzen elk een deskundige aan, die in onderling overleg een derde deskundige aanwijzen.
-
-3. Het eerste lid is niet van toepassing, indien de activiteiten van de subsidieontvanger door een derde worden voortgezet en de activa en passiva met toestemming van Onze Minister tegen boekwaarde aan die derde worden overgedragen.
+Vervallen
 
 ### Hoofdstuk 3. Projectsubsidies
 
@@ -196,29 +182,19 @@ Vervallen
 
 ##### Artikel 16. Vereisten subsidieaanvraag
 
-1. De aanvraag omvat in ieder geval:
-
-- a. een omschrijving van de activiteiten en de daarmee beoogde doelstellingen, en
-
-- b. een overzicht van de aan de activiteiten verbonden begrote inkomsten en uitgaven van de aanvrager.
-
-2. Voorzover de aanvrager van een projectsubsidie voor dezelfde begrote uitgaven tevens subsidie heeft aangevraagd bij een of meer andere bestuursorganen, organen van internationale organisaties, natuurlijke of rechtspersonen dan wel van derden, doet hij daarvan mededeling in de aanvraag, onder vermelding van de stand van zaken met betrekking tot de beoordeling van die aanvraag of aanvragen.
+Vervallen
 
 ##### Artikel 17. Verplichtingen subsidieontvanger
 
-1. De subsidieontvanger voert een zodanig ingerichte administratie, dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan.
-
-2. De administratie en de daartoe behorende bescheiden worden gedurende zeven jaren bewaard.
+Vervallen
 
 ##### Artikel 18. Aanvraag tot subsidievaststelling
 
-De aanvraag omvat in elk geval een activiteitenverslag als bedoeld in [artikel 4:80 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:80) en een financiële verantwoording.
+Vervallen
 
 ##### Artikel 19. Financiële verantwoording
 
-1. De financiële verantwoording sluit aan op de begroting waarvoor subsidie is verleend.
-
-2. Verschillen tussen begroting en realisatie worden toegelicht, tenzij deze van geringe betekenis zijn.
+Vervallen
 
 ##### Artikel 20. Subsidievaststelling
 
@@ -228,7 +204,9 @@ Vervallen
 
 ##### Artikel 21. Overgangsbepaling
 
-Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld.
+1. Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld.
+
+2. De persoon of het orgaan waaraan de bevoegdheid op grond van [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=4&z=2011-02-11&g=2010-01-01 jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=4&z=2011-02-11&g=2010-01-01), zoals dat luidde voor inwerkingtreding van deze wet, is gedelegeerd om besluiten omtrent subsidie te nemen, blijft die bevoegdheid houden.
 
 ##### Artikel 22. Inwerkingtreding
 
@@ -252,13 +230,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 19a. Onderwijsvoorzieningen voor jongeren met een handicap
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), heeft tot taak te bevorderen dat belemmeringen worden weggenomen die de ingezetene, bedoeld in [artikel 3 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3), vanwege ziekte of gebrek ondervindt bij het volgen van onderwijs, indien het een persoon betreft die:
+1. Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), heeft tot taak te bevorderen dat belemmeringen worden weggenomen die de ingezetene, bedoeld in [artikel 1:2 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:2), vanwege ziekte of gebrek ondervindt bij het volgen van onderwijs, indien het een persoon betreft die:
 
 - a. jonger is dan 17 jaar;
 
-- b. studerende is als bedoeld in [artikel 5 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=5);
+- b. studerende is als bedoeld in [artikel 1:4 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4);
 
-- c. jonger is dan 30 jaar en uitsluitend vanwege zijn ziekte of gebrek niet kan worden aangemerkt als studerende bedoeld in [artikel 5 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=5).
+- c. jonger is dan 30 jaar en uitsluitend vanwege zijn ziekte of gebrek niet kan worden aangemerkt als studerende bedoeld in [artikel 1:4 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4).
 
 2. Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag aan de persoon, bedoeld in het eerste lid, voorzieningen toekennen die hem in staat stellen onderwijs te volgen.
 
@@ -266,12 +244,24 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Onder voorzieningen als bedoeld in het tweede lid wordt niet verstaan financiering van of kinderopvangtoeslag in de kosten van kinderopvang.
 
-5. De [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=16), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=33), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=55), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=56), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=58), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=59) en [62 van de Wet arbeidsongeschiktheidsvoorziening jongehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=62) zijn van overeenkomstige toepassing op de toekenning van voorzieningen als bedoeld in het tweede lid.
+5. De [artikelen 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:18), [3:33](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:33), [3:56](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:56), [3:57](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:57), [3:58](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:58), [3:62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:62) en [3:74 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:74) zijn van overeenkomstige toepassing op de toekenning van voorzieningen als bedoeld in het tweede lid.
 
 6. Beschikkingen op grond van [artikel 2.17 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.17) worden na de inwerkingtreding van deze wet aangemerkt als beschikkingen op grond van deze wet.
 
 7. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot dit artikel nadere regels worden gesteld.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### § 1. Subsidies
+
+#### § 2. Onderwijsvoorzieningen voor jongeren met een handicap
+
+#### § 3. Overgangs- en slotbepalingen
+
+## Deel I. Subsidies
+
+## Deel II. Onderwijsvoorzieningen voor jongeren met een handicap
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
