@@ -4,7 +4,7 @@ identifier: "BWBR0029324"
 country: "nl"
 rank: "wet"
 publication_date: "2011-07-01"
-last_updated: "2009-12-18"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029324"
 soort: "wet"
@@ -66,19 +66,19 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Successiewet 1956.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Natuurschoonwet 1928.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel IX
 
@@ -86,7 +86,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op belastingen van rechtsverkeer.
 
 ##### Artikel XA
 
@@ -110,7 +110,7 @@ Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XIIIA
 
@@ -130,7 +130,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVB
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
 ##### Artikel XVI
 
@@ -146,15 +146,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Successiewet 1956, enz. (vereenvoudiging bedrijfsopvolgingsregeling en herziening tariefstructuur, alsmede introductie van een regeling voor afgezonderd particulier vermogen).
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2010.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Overige fiscale maatregelen 2010.
 
 ##### Artikel XXII
 
@@ -166,7 +166,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 3.119a, vijfde lid, onderdeel c, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), zoals dit luidde op 31 december 2009, blijft van toepassing op eigenwoningreserves als bedoeld in artikel 3.119a, vierde lid, van de Wet inkomstenbelasting 2001 die als gevolg van de toepassing van artikel 3.119a, tweede lid, van die wet, zoals dit luidde op 31 december 2009, of als gevolg van de toepassing van [artikel XXVIB van de Fiscale vereenvoudigingswet 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=XXVIb), zijn blijven bestaan.
 
 ##### Artikel XXIVA
 
