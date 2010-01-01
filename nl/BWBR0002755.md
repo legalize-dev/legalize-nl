@@ -4,7 +4,7 @@ identifier: "BWBR0002755"
 country: "nl"
 rank: "wet"
 publication_date: "2021-03-01"
-last_updated: "2009-07-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002755"
 soort: "wet"
@@ -55,9 +55,9 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 - bedrijfslichaam: een bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=66), ingesteld voor ondernemingen, die in het bedrijfsleven een functie vervullen ten aanzien van enig produkt;
 
-- landbouwkwaliteitsbesluit: een algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=2&z=2009-07-01&g=2009-07-01);
+- landbouwkwaliteitsbesluit: een algemene maatregel van bestuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=2&z=2010-01-01&g=2010-01-01);
 
-- controle-instelling: een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2009-07-01&g=2009-07-01);
+- controle-instelling: een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2010-01-01&g=2010-01-01);
 
 - verordening 510/2006: verordening (EG) nr. 510/2006 van de Raad van 20 maart 2006 inzake de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen (PbEU L 93);
 
@@ -99,7 +99,7 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 3. Verordeningen, bedoeld in het tweede lid, kunnen onder meer inhouden toekenning aan een daarbij aan te wijzen orgaan van de bevoegdheid vrijstelling, en, op aanvrage, ontheffing van die verordeningen of krachtens deze vast te stellen voorschriften te verlenen.
 
-4. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=3&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing.
+4. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=3&z=2010-01-01&g=2010-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 5
 
@@ -107,7 +107,7 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 2. Bij dat besluit bepalen Wij tevens, in welke gevallen Onze Minister of Onze Minister en Onze Ministers, wie het mede aangaat, tezamen regelen krachtens een landbouwkwaliteitsbesluit niet vaststellen dan in overeenstemming met Onze Minister van Economische Zaken met het oog op de daarbij betrokken consumentenbelangen.
 
-3. In zodanige gevallen behoeven verordeningen van bedrijfslichamen, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4&z=2009-07-01&g=2009-07-01), mede de goedkeuring van Onze genoemde Minister.
+3. In zodanige gevallen behoeven verordeningen van bedrijfslichamen, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4&z=2010-01-01&g=2010-01-01), mede de goedkeuring van Onze genoemde Minister.
 
 ##### Artikel 6
 
@@ -123,7 +123,7 @@ Vervallen
 
 1. In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met het toezicht op de naleving van de bij of krachtens dat besluit gestelde regels.
 
-2. In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2009-07-01&g=2009-07-01), of met het toezicht daarop. Zij kunnen daarbij tevens bevoegd worden verklaard tot het uitreiken van merken, tekenen of bewijsstukken, in hetzelfde artikel bedoeld.
+2. In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2010-01-01&g=2010-01-01), of met het toezicht daarop. Zij kunnen daarbij tevens bevoegd worden verklaard tot het uitreiken van merken, tekenen of bewijsstukken, in hetzelfde artikel bedoeld.
 
 ##### Artikel 9
 
@@ -133,7 +133,7 @@ Vervallen
 
 1. Een controle-instelling is niet werkzaam met het oogmerk om winst te behalen.
 
-2. Een controle-instelling stelt een reglement vast waarin wordt geregeld de wijze waarop de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2009-07-01&g=2009-07-01), wordt uitgevoerd, de wijze waarop het uitreiken van bewijsstukken, merken en tekenen plaatsvindt, en de wijze waarop de controles plaatsvinden.
+2. Een controle-instelling stelt een reglement vast waarin wordt geregeld de wijze waarop de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2010-01-01&g=2010-01-01), wordt uitgevoerd, de wijze waarop het uitreiken van bewijsstukken, merken en tekenen plaatsvindt, en de wijze waarop de controles plaatsvinden.
 
 3. Het in het tweede lid bedoelde reglement behoeft de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met het recht of op de grond dat het reglement naar het oordeel van Onze Minister een goede taakuitoefening door de controle-instelling kan belemmeren.
 
@@ -141,11 +141,11 @@ Vervallen
 
 ##### Artikel 11
 
-1. Een controle-instelling kan tarieven vaststellen voor de kosten ter zake van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2009-07-01&g=2009-07-01) bedoelde toezicht en de keuring.
+1. Een controle-instelling kan tarieven vaststellen voor de kosten ter zake van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2010-01-01&g=2010-01-01) bedoelde toezicht en de keuring.
 
 2. Indien Onze Minister bij of krachtens een landbouwkwaliteitsbesluit de in het eerste lid bedoelde activiteiten uitvoert, kan Onze Minister voor de kosten ter zake van deze activiteiten tarieven vaststellen.
 
-3. De tarieven, bedoeld in het eerste lid, behoeven goedkeuring van Onze Minister. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.
+3. Vervallen.
 
 4. De tarieven, bedoeld in het eerste en tweede lid:
 
@@ -157,21 +157,13 @@ Vervallen
 
 6. Bij gebreke van betaling binnen de door de controle-instelling of door Onze Minister gestelde termijn kan de controle-instelling of Onze Minister het verschuldigde bedrag invorderen bij dwangbevel. De [artikelen 4:114 tot en met 4:124 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:114) zijn van overeenkomstige toepassing.
 
-7. De controle-instelling of Onze Minister kan besluiten geen activiteiten als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2009-07-01&g=2009-07-01), te verrichten of deze te staken, indien niet het ingevolge dit artikel verschuldigde bedrag wordt voldaan.
+7. De controle-instelling of Onze Minister kan besluiten geen activiteiten als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2010-01-01&g=2010-01-01), te verrichten of deze te staken, indien niet het ingevolge dit artikel verschuldigde bedrag wordt voldaan.
 
 ##### Artikel 12
 
 1. De benoeming en het ontslag van de voorzitter van een controle-instelling behoeven goedkeuring van Onze Minister.
 
 2. Op een controle-instelling wordt rijkstoezicht uitgeoefend door Onze Minister overeenkomstig bij ministeriële regeling vast te stellen regels.
-
-3. De controle-instelling houdt een afzonderlijke boekhouding bij ter zake van de bij of krachtens deze wet opgedragen taken en daaruit onmiddellijk voortvloeiende werkzaamheden en verantwoordt die taken en werkzaamheden afzonderlijk in haar jaarrekening.
-
-4. De controle-instelling stelt jaarlijks een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar.
-
-5. Het jaarverslag wordt aan Onze Minister toegezonden en algemeen verkrijgbaar gesteld.
-
-6. De controle-instelling verstrekt desgevraagd aan Onze Minister de voor de uitoefening van diens taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs noodzakelijk is.
 
 ##### Artikel 13
 
@@ -219,7 +211,7 @@ Vervallen
 
 1. Aan het slot van [artikel 1, onder 4**e**, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) wordt toegevoegd de zinsnede: de Landbouwkwaliteitswet, de artikelen 2, eerste en tweede lid, 3, tweede lid, 4, vierde lid, 6 en 9, eerste lid.
 
-2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13&z=2009-07-01&g=2009-07-01) vindt geen toepassing, indien de Officier van Justitie, na overleg met de controle-instelling, heeft beslist, dat een overtreding strafrechtelijk zal worden afgedaan.
+2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13&z=2010-01-01&g=2010-01-01) vindt geen toepassing, indien de Officier van Justitie, na overleg met de controle-instelling, heeft beslist, dat een overtreding strafrechtelijk zal worden afgedaan.
 
 ##### Artikel 19
 
@@ -258,5 +250,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 11. De rechter kan op vordering van de houder van een geografische aanduiding degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen aan laatstgenoemde bekend is omtrent de herkomst en distributiekanalen van de goederen of diensten die inbreuk maken, aan de houder van de geografische aanduiding mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende goederen in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze goederen of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in [artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=165) bedoelde personen.
 
 12. De rechter kan op vordering van de houder van een geografische aanduiding gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 8a
+
+Op een privaatrechtelijke rechtspersoon als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2010-01-01&g=2010-01-01) is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
