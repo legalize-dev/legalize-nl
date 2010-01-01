@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2009-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -111,7 +111,7 @@ De rechtsgebieden van de tot het ressort 's-Gravenhage behorende rechtbanken bes
 
 - 1. Arrondissement Dordrecht: Alblasserdam, Binnenmaas, Cromstrijen, Dordrecht, Giessenlanden, Gorinchem, Graafstroom, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Korendijk, Leerdam, Liesveld, Nieuw-Lekkerland, Oud-Beijerland, Papendrecht, Sliedrecht, Strijen, Zederik, Zwijndrecht.
 
-- 2. Arrondissement 's-Gravenhage: Alphen aan den Rijn, Bergambacht, Bodegraven, Boskoop, Delft, Gouda, 's-Gravenhage, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Leidschendam-Voorburg, Lisse, Midden-Delfland, Moordrecht, Nederlek, Nieuwerkerk aan den IJssel, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Ouderkerk, Pijnacker-Nootdorp, Reeuwijk, Rijnwoude, Rijswijk, Schoonhoven, Teylingen, Vlist, Voorschoten, Waddinxveen, Wassenaar, Westland, Zevenhuizen-Moerkapelle, Zoetermeer, Zoeterwoude.
+- 2. Arrondissement 's-Gravenhage: Alphen aan den Rijn, Bergambacht, Bodegraven, Boskoop, Delft, Gouda, 's-Gravenhage, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Leidschendam-Voorburg, Lisse, Midden-Delfland, Nederlek, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Ouderkerk, Pijnacker-Nootdorp, Reeuwijk, Rijnwoude, Rijswijk, Schoonhoven, Teylingen, Vlist, Voorschoten, Waddinxveen, Wassenaar, Westland, Zoetermeer, Zoeterwoude, Zuidplas.
 
 - 3. Arrondissement Middelburg: Borsele, Goes, Hulst, Kapelle, Middelburg, Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen.
 
@@ -139,7 +139,7 @@ De rechtsgebieden van de tot het ressort 's-Hertogenbosch behorende rechtbanken 
 
 - 3. Arrondissement Maastricht: Beek, Brunssum, Eijsden, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Margraten, Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal.
 
-- 4. Arrondissement Roermond: Arcen en Velden, Beesel, Bergen (L.), Echt-Susteren, Gennep, Helden, Horst aan de Maas, Kessel, Leudal, Maasbree, Maasgouw, Meerlo-Wanssum, Meijel, Mook en Middelaar, Nederweert, Roerdalen, Roermond, Sevenum, Venlo, Venray, Weert.
+- 4. Arrondissement Roermond: Beesel, Bergen (L.), Echt-Susteren, Gennep, Horst aan de Maas, Leudal, Maasgouw, Mook en Middelaar, Nederweert, Peel en Maas, Roerdalen, Roermond, Venlo, Venray, Weert.
 
 ##### Artikel 10
 
@@ -157,7 +157,7 @@ De rechtsgebieden van de tot het ressort Leeuwarden behorende rechtbanken bestaa
 
 - 1. Arrondissement Assen: Aa en Hunze, Assen, Borger-Odoorn, Coevorden, Emmen, Hoogeveen, Meppel, Midden-Drenthe, Noordenveld, Tynaarlo, Westerveld, De Wolden.
 
-- 2. Arrondissement Groningen: Appingedam, Bedum, Bellingwedde, Delfzijl, De Marne, Eemsmond, Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Loppersum, Marum, Menterwolde, Pekela, Reiderland, Scheemda, Slochteren, Stadskanaal, Ten Boer, Veendam, Vlagtwedde, Winschoten, Winsum, Zuidhorn.
+- 2. Arrondissement Groningen: Appingedam, Bedum, Bellingwedde, Delfzijl, De Marne, Eemsmond, Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Loppersum, Marum, Menterwolde, Oldambt, Pekela, Slochteren, Stadskanaal, Ten Boer, Veendam, Vlagtwedde, Winsum, Zuidhorn.
 
 - 3. Arrondissement Leeuwarden: Achtkarspelen, Ameland, Boarnsterhim, Bolsward, Dantumadeel, Dongeradeel, Ferwerderadiel, Franekeradeel, Gaasterlân-Sleat, Harlingen, Heerenveen, Het Bildt, Kollumerland en Nieuwkruisland, Leeuwarden, Leeuwarderadeel, Lemsterland, Littenseradiel, Menaldumadeel, Nijefurd, Ooststellingwerf, Opsterland, Schiermonnikoog, Skarsterlân, Smallingerland, Sneek, Terschelling, Tytsjerksteradiel, Vlieland, Weststellingwerf, WÛnseradiel, Wymbritseradiel.
 
