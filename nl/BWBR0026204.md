@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2009-11-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2009-11-01&g=2009-11-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2010-01-01&g=2010-01-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
@@ -791,6 +791,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 58f, eerste lid | 3 |
 | 58f, derde tot en met vijfde lid | 2 |
 | 59 | 2 |
+| artikel 59a, eerste en tweede lid | 3 |
 | 60, eerste en vierde lid | 2 |
 | 61, eerste lid | 2 |
 | 62 | 2 |
@@ -880,6 +881,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 148, eerste en tweede lid | 1 |
 | 149, tweede lid | 1 |
 | 149a, eerste lid | 3 |
+| artikel 149a, derde lid | 3 |
 | 149b, eerste tot en met derde lid | 3 |
 | 150, eerste en tweede lid | 2 |
 | 151 | 2 |
@@ -1195,5 +1197,13 @@ Dit besluit treedt in werking met ingang van het tijdstip waarop de [Wet wijzigi
 ##### Artikel 22
 
 Dit besluit wordt aangehaald als: Besluit bestuurlijke boetes financiële sector.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 10a
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 3. Wijziging andere besluiten
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
