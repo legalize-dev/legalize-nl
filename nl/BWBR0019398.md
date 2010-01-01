@@ -4,7 +4,7 @@ identifier: "BWBR0019398"
 country: "nl"
 rank: "zbo"
 publication_date: "2011-01-01"
-last_updated: "2007-07-30"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019398"
 soort: "zbo"
@@ -62,7 +62,7 @@ In deze beschikking wordt verstaan onder:
 
 - f. de stichting aandelen: Stichting Aandelen Nationale Goede Doelen Loterijen, gevestigd te Amsterdam;
 
-- g. begunstigden: de overeenkomstig [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=13&z=2007-07-30&g=2007-07-30), toegelaten instellingen;
+- g. begunstigden: de overeenkomstig [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=13&z=2010-01-01&g=2010-01-01), toegelaten instellingen;
 
 - h. Sponsor Bingo Loterij: een kansspel als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), zijnde een loterij waarbij door de onderscheidene deelnemers wordt aangegeven aan welke begunstigde 50% van hun inleg ten goede dient te komen, dan wel waar de deelnemers hun inleg ten goede laten komen aan de door de vennootschap voorgestelde begunstigden. De Sponsor Bingo Loterij wordt gespeeld als de ‘Sponsor Bingo Loterij’ waarvan de deelnemers meedoen middels aan hen toegekende bingogetallen.
 
@@ -78,7 +78,7 @@ In deze beschikking wordt verstaan onder:
 
 2. De vergunning wordt verleend onder de voorwaarde dat en is slechts geldig indien de holding enig aandeelhouder van de vennootschap is, en onder gehoudenheid van de stichting aandelen respectievelijk de holding in te staan voor de nakoming van alle verplichtingen van de vennootschap onder de vergunning.
 
-3. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=3&z=2007-07-30&g=2007-07-30) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd en aangevuld.
+3. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=3&z=2010-01-01&g=2010-01-01) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd en aangevuld.
 
 ##### Artikel 3
 
@@ -102,7 +102,7 @@ In deze beschikking wordt verstaan onder:
 
 - a. de naam van de vennootschap en het adres waar inlichtingen omtrent de Sponsor Bingo Loterij en het toegevoegde spel verkrijgbaar zijn;
 
-- b. de bestemming van de afdracht overeenkomstig het bepaalde in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=13&z=2007-07-30&g=2007-07-30);
+- b. de bestemming van de afdracht overeenkomstig het bepaalde in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=13&z=2010-01-01&g=2010-01-01);
 
 - c. het bedrag van de inleg;
 
@@ -126,11 +126,11 @@ Eventuele provisie aan verkopers van deelnemingsbewijzen dient te worden beperkt
 
 3. De vennootschap organiseert ten hoogste eenmaal per maand het toegevoegde spel, bestaande uit één maandelijkse (nummerloterij) trekking.
 
-4. De vennootschap organiseert ten hoogste eenmaal per jaar één extra (nummerloterij) trekking.
+4. De vennootschap organiseert ten hoogste eenmaal per jaar twee extra (nummerloterij) trekkingen.
 
 ##### Artikel 8
 
-Alle houders van een sponsorcertificaat als bedoeld in [artikel 1, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=1&z=2007-07-30&g=2007-07-30), hebben recht op restitutie van de volledige inleg. De vennootschap houdt een reserve aan om claims op nog niet ingeloste sponsorcertificaten te kunnen honoreren.
+Alle houders van een sponsorcertificaat als bedoeld in [artikel 1, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=1&z=2010-01-01&g=2010-01-01), hebben recht op restitutie van de volledige inleg. De vennootschap houdt een reserve aan om claims op nog niet ingeloste sponsorcertificaten te kunnen honoreren.
 
 ##### Artikel 9
 
@@ -164,7 +164,7 @@ Onverminderd de voorschriften bij en krachtens de [Wet op de kansspelbelasting](
 
 3. Als begunstigden worden door de vennootschap slechts toegelaten instellingen die hun aandeel in de opbrengst aanwenden in overeenstemming met het bepaalde in het eerste lid.
 
-4. Uiterlijk binnen drie maanden na afloop van een kalenderjaar vindt door de vennootschap de afdracht over dat kalenderjaar plaats aan de in het tweede lid genoemde instellingen. Daarvan wordt verslag gedaan in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=14&z=2007-07-30&g=2007-07-30), bedoelde jaarrekening.
+4. Uiterlijk binnen drie maanden na afloop van een kalenderjaar vindt door de vennootschap de afdracht over dat kalenderjaar plaats aan de in het tweede lid genoemde instellingen. Daarvan wordt verslag gedaan in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=14&z=2010-01-01&g=2010-01-01), bedoelde jaarrekening.
 
 ##### Artikel 14
 
@@ -182,7 +182,7 @@ De vennootschap zendt binnen één maand na het einde van elk kwartaal aan de mi
 
 ##### Artikel 16
 
-1. De kosten verbonden aan toezicht, goedkeuring, controle en onderzoek ingevolge de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=9&z=2007-07-30&g=2007-07-30), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=11&z=2007-07-30&g=2007-07-30), en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=15&z=2007-07-30&g=2007-07-30), zijn voor rekening van de vennootschap.
+1. De kosten verbonden aan toezicht, goedkeuring, controle en onderzoek ingevolge de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=9&z=2010-01-01&g=2010-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=11&z=2010-01-01&g=2010-01-01), en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019398&artikel=15&z=2010-01-01&g=2010-01-01), zijn voor rekening van de vennootschap.
 
 2. De jaarlijkse vergoeding bedoeld in [artikel 3a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=3a) bedraagt € 2.268,– en dient binnen vier weken na aanvang van een kalenderjaar door de vennootschap te worden voldaan de minister.
 
