@@ -4,7 +4,7 @@ identifier: "BWBR0024716"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-29"
-last_updated: "2009-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024716"
 soort: "wet"
@@ -49,7 +49,7 @@ Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet toezicht effectenverkeer 1995.
 
 ##### Artikel III
 
