@@ -4,7 +4,7 @@ identifier: "BWBR0020422"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-06-13"
-last_updated: "2007-02-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020422"
 soort: "AMvB"
@@ -56,9 +56,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. SI: het Internationale stelsel van meeteenheden (Système International);
 
-- c. SI-grondeenheden: de eenheden, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2007-02-01&g=2007-02-01);
+- c. SI-grondeenheden: de eenheden, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2010-01-01&g=2010-01-01);
 
-- d. afgeleide SI-eenheden: de eenheden, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2007-02-01&g=2007-02-01).
+- d. afgeleide SI-eenheden: de eenheden, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2010-01-01&g=2010-01-01).
 
 #### § 2. Erkende meeteenheden
 
@@ -99,7 +99,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. de ampère: de constante stroom die, indien hij wordt onderhouden in twee evenwijdige, rechtlijnige en oneindig lange geleiders van te verwaarlozen cirkelvormige doorsnede, welke geplaatst zijn in het luchtledige op een onderlinge afstand van 1 meter, tussen deze twee geleiders een kracht veroorzaakt gelijk aan 2 x 10–7 newton voor iedere meter lengte;
 
-- e. de kelvin: het 1/273,16 gedeelte van de thermodynamische temperatuur van het tripelpunt van water;
+- e. de kelvin: het 1/273,16 gedeelte van de thermodynamische temperatuur van het tripelpunt van water met een isotopensamenstelling met de verhoudingen 0,000 155 76 mol 2H per mol 1H, 0,000 379 9 mol 17O per mol 16O en 0,002 005 2 mol 18O per mol 16O;
 
 - f. de mol: de hoeveelheid stof van een systeem dat evenveel elementaire entiteiten bevat als er atomen zijn in 0,012 kilogram koolstof 12;
 
@@ -158,9 +158,9 @@ De in de navolgende tabel opgenomen veelvouden van de seconde en de kilogram en 
 | katalytische activiteit | katal | kat | s–1 · mol |
 | celsiustemperatuur | graad Celsius | °C | K |
 
-3. De radiaal is de vlakke hoek tussen twee stralen van een cirkel, die op de omtrek een boog afsnijden waarvan de lengte gelijk is aan die van de straal.
+3. Vervallen.
 
-4. De steradiaal is de ruimtehoek die, wanneer zijn top samenvalt met het middelpunt van een bol, op die bol een oppervlakte uitsnijdt gelijk aan die van een vierkant met de straal van de bol als zijde.
+4. Vervallen.
 
 5. De celsiustemperatuur is gedefinieerd als het verschil t = T – T0 tussen twee thermodynamische temperaturen T en T0 waarbij T0 = 273,15 kelvin.
 
@@ -244,9 +244,9 @@ De benaming «alcoholgehalte» mag met betrekking tot een mengsel van water en a
 
 2. Het gebruik van de in het eerste lid genoemde voorvoegsels is van toepassing op:
 
-- a. de SI-grondeenheden, genoemd in [art. 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2007-02-01&g=2007-02-01);
+- a. de SI-grondeenheden, genoemd in [art. 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2010-01-01&g=2010-01-01);
 
-- b. de afgeleide SI-eenheden, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2007-02-01&g=2007-02-01);
+- b. de afgeleide SI-eenheden, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2010-01-01&g=2010-01-01);
 
 - c. de eenheden: liter, ton, bar, decimale graad of gon, atomaire massaeenheid, elektronvolt, dioptrie, are, barn, metriekkaraat, tex, voltampère en voltampère reactief.
 
