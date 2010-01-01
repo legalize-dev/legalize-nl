@@ -1,0 +1,197 @@
+---
+title: "Regeling van de Minister van Economische Zaken van 10 december 2009, nr. WJZ/9162315, houdende vaststelling van subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2010)"
+identifier: "BWBR0026914"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-05-04"
+last_updated: "2010-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026914"
+soort: "ministeriele-regeling"
+stam_id: "10335873"
+version_id: "16965852"
+internal_id: "C23393061"
+label_id: "10311084"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026914/2011-05-04/0"
+intitule_bron: "Stcrt.2009-19797"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-10"
+intitule_published: "2009-12-22"
+intitule_in_force: "2009-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-19797"
+original_signed_date: "2009-12-10"
+original_published_date: "2009-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-19797"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBR0026914&z=2011-05-04&g=2011-05-04"
+jci_1_0: "1.0:c:BWBR0026914&g=2011-05-04"
+citeertitel_status: "officieel"
+short_title: "Regeling openstelling en subsidieplafonds EZ 2010"
+signed_date: "2009-12-10"
+entry_into_force: "2010-01-01"
+---
+# Regeling van de Minister van Economische Zaken van 10 december 2009, nr. WJZ/9162315, houdende vaststelling van subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2010)
+
+Gelet op [artikel 16 van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=16) en op de [artikelen 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.9), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.5) en [5a.5 van de Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.5);
+
+Besluit:
+
+##### Artikel 1
+
+1. Als perioden in 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum om 17.00 uur.
+
+2. Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste lid wordt per in kolom 5 genoemde periode vastgesteld: het daarbij behorende in kolom 6 genoemde bedrag.
+
+3. Met betrekking tot het verstrekken van subsidies door de Minister van Economische Zaken op grond van wettelijke voorschriften of onderdelen daarvan, waarvoor noch in deze regeling noch in een ander wettelijk voorschrift een subsidieplafond is vastgesteld, wordt het voor 2010 geldende subsidieplafond vastgesteld op € 0,–. Aanvragen om subsidie kunnen in 2010 slechts worden ingediend indien in deze regeling of in enig ander wettelijk voorschrift daarvoor een periode is vastgesteld.
+
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- |
+| Nr. | Regeling | Artikel | Groep | Openstelling 2010 | Plafond € |
+| [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&wetgeving) |
+| 1.1 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=2) | [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=2.3) | Bedrijfsborgstellingskredieten | 01-01 t/m 31-12 | 765.000.000 |
+| 1.2 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=2) | [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=2.3) | Bodemsaneringsborgstellingskredieten | 01-01 t/m 31-12 | 65.344.122 |
+| 1.3 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (groeifaciliteit)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=3) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.2) |   | 01-01 t/m 31-12 | 170.000.000 |
+| 1.4 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfinanciering)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&paragraaf=3) | [3.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.12b) |   | 01-01 t/m 31-12 | 500.000.000 |
+| 1.5 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfaciliteit curatieve zorg)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&paragraaf=3a) | [3.12m](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.12m) |   | 01-01 t/m 22-10 | 150.000.000 |
+| 1.6 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=4) | [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=4.3) |   | 01-01 t/m 31-03 | 12.000.000 |
+| 1.7 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (kennisexploitatie)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=5) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=5.2) |   |   |   |
+| 1.8 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (ondernemerschapsonderwijsprojecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=6) | [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=6.2) |   |   |   |
+| 1.9 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (Centres of Entrepreneurship)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&paragraaf=3) | [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=6.12) |   |   |   |
+| 1.10 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (beroepsonderwijs in bedrijf)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=7) | [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=7.2) |   | 01-01 t/m 01-11 | 12.000.000 |
+| 1.11 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling scheepsnieuwbouw)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=8) | [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=8.3) |   | 01-01 t/m 31-12 | 1.000.000.000 |
+| 1.12 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=9) | [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=9.2) |   |   |   |
+| [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) |
+| 2.1 | [Subsidieregeling innoveren (Eurostars-projecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=2.2) |   | 15-01 t/m 29-01 | 2.500.000 |
+| 2.2 | [Subsidieregeling innoveren (innovatiekredieten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=3) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.2) | Klinische ontwikkelingsprojecten | 01-01 t/m 31-12 | 15.917.000 |
+| 2.3 | [Subsidieregeling innoveren (innovatiekredieten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=3) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.2) | Technische ontwikkelingsprojecten | 01-01 t/m 31-12 | 32.157.000 |
+| 2.3a | [Subsidieregeling innoveren (innovatiekredieten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=3) | 3.2 | Duurzame technische ontwikkelingsprojecten | 01-01 t/m 01-07 | 24.000.000 |
+| 2.4 | [Subsidieregeling innoveren (innovatieprestatiecontracten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=4) | [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.3) |   | 11-01 t/m 31-12 | 1.000.000 |
+| 2.5 | [Subsidieregeling innoveren (innovatieprestatiecontracten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=4) | [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.10) |   | 11-01 t/m 31-12 | 18.300.000 |
+| 2.6 | [Subsidieregeling innoveren (innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.2) | Aantal beschikbare grote vouchers |   | … stuks |
+| 2.7 | [Subsidieregeling innoveren (innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5) | [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.3) | Aantal beschikbare kleine vouchers |   | … stuks |
+| 2.8 | [Subsidieregeling innoveren (innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5) | [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.7) |   |   |   |
+| 2.9 | [Subsidieregeling innoveren (Pilot private innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5a) | [5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.2) | Aantal beschikbare grote vouchers |   | … stuks |
+| 2.10 | [Subsidieregeling innoveren (Pilot private innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5a) | [5a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.3) | Aantal beschikbare kleine vouchers |   | … stuks |
+| 2.11 | [Subsidieregeling innoveren (innovatie voor maatschappelijke veiligheid)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=6) | [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=6.2) |   |   |   |
+| [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) |
+| 3.1 | [Subsidieregeling sterktes in innovatie (Internationaal innoveren)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=2) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten |   |   |
+| 3.2 | [Subsidieregeling sterktes in innovatie (Internationaal innoveren)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=2) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Opkomende markten innovatieprojecten | 01-01 t/m 25-06 | 3.000.000 |
+| 3.3 | [Subsidieregeling sterktes in innovatie (IOP’s)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=3) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=3.2) |   | - | - |
+|   |   |   | Genomics (periode vooraanmelding) |   | - |
+|   |   |   | Genomics |   |   |
+|   |   |   | EMVT (periode vooraanmelding) |   | - |
+|   |   |   | EMVT |   |   |
+|   |   |   | Precisietechnologie (periode vooraanmelding) |   | - |
+|   |   |   | Precisietechnologie |   |   |
+|   |   |   | IPCR (periode vooraanmelding) |   | - |
+|   |   |   | IPCR |   |   |
+|   |   |   | MMI (periode vooraanmelding) |   | - |
+|   |   |   | MMI |   |   |
+|   |   |   | Self healing materials (periode vooraanmelding) |   | - |
+|   |   |   | Self healing materials | 15-01 t/m 26-02 | 4.400.000 |
+|   |   |   | Generieke communicatie (periode vooraanmelding) |   | - |
+|   |   |   | Generieke communicatie | 01-02 t/m 05-03 | 3.500.000 |
+|   |   |   | Oppervlaktetechnologie (periode vooraanmelding) |   | - |
+|   |   |   | Oppervlaktetechnologie |   |   |
+|   |   |   | Beeldverwerking (periode vooraanmelding) |   | - |
+|   |   |   | Beeldverwerking |   |   |
+|   |   |   | Photonic devices (periode vooraanmelding) |   | - |
+|   |   |   | Photonic devices |   |   |
+|   |   |   | Maritiem (periode vooraanmelding) |   | - |
+|   |   |   | Maritiem | 15-02 t/m 12-03 | 1.200.000 |
+| 3.4 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (LSH-projecten; ETB-samenwerkingsverbanden ) | [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=4.2) |   | 01-01 t/m 01-02 | 3.000.000 |
+| 3.5 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (LSH-projecten; internationale MKB-samenwerkingsverbanden) | [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=4.11) |   |   |   |
+| 3.6 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&wetgeving) (LSH-projecten; EuroNanoMed-samenwerkingsverbanden) | [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=4.20) |   |   |   |
+| 3.7 | [Subsidieregeling sterktes in innovatie (FND haalbaarheidsprojecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=2) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.2) |   | 01-01 t/m 08-10 | 1.000.000 |
+| 3.8 | [Subsidieregeling sterktes in innovatie (FND innovatieprojecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=3) | [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.9) |   | 01-01 t/m 18-06 | 6.000.000 |
+| 3.9 | [Subsidieregeling sterktes in innovatie (FND MKB-innovatieprojecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=4) | [5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=5.19) |   | 01-01 t/m 08-10 | 3.000.000 |
+| 3.10 | [Subsidieregeling sterktes in innovatie (HTAS doorbraakprojecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=2) | [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=6.2) |   | 01-02 t/m 01-10 | 4.000.000 |
+| 3.11 | [Subsidieregeling sterktes in innovatie (HTAS-internationale innovatieprojecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=3) | [6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=6.9) |   | 01-02 t/m 10-09 | 3.000.000 |
+| 3.12 | [Subsidieregeling sterktes in innovatie ( HTAS-EVT-projecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=4) | [6.18](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=6.18) |   | 01-01 t/m 01-02 | 14.700.000 |
+| 3.13 | [Subsidieregeling sterktes in innovatie (InnoWATOR-projecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=2) | [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=7.2) |   | 01-03 t/m 28-05 | 4.000.000 |
+| 3.14 | [Subsidieregeling sterktes in innovatie (Internationale InnoWATOR-projecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=3) | [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=7.11) |   | 08-02 t/m 29-10 | 2.000.000 |
+| 3.15 | [Subsidieregeling sterktes in innovatie (InnoWATOR garantiefaciliteit)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=4) | [7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=7.20) |   | 08-02 t/m 11-06 | 2.000.000 |
+| 3.16 | [Subsidieregeling sterktes in innovatie (maritieme MKB-projecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=2) | [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=8.2) |   |   |   |
+| 3.17 | [Subsidieregeling sterktes in innovatie (maritieme innovatieprojecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=3) | [8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=8.8) |   |   |   |
+| 3.18 | [Subsidieregeling sterktes in innovatie (Point One MKB-projecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=2) | [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.2) |   |   |   |
+| 3.19 | [Subsidieregeling sterktes in innovatie (Point One R&D-projecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=3) | [9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.8) |   |   |   |
+| 3.20 | [Subsidieregeling sterktes in innovatie (internationale Point One R&D-projecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=4) | [9.17](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.17) |   | 05-01 t/m 02-02 | 21.000.000 |
+| 3.21 | [Subsidieregeling sterktes in innovatie (Point One University-Industry Interaction projecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=5) | [9.25](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=9.25) |   |   |   |
+| 3.22 | [Subsidieregeling sterktes in innovatie (polymeren haalbaarheidsprojecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=2) | [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10.2) |   |   |   |
+| 3.23 | [Subsidieregeling sterktes in innovatie (polymeren MKB-innovatieprojecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=3) | [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10.8) |   |   |   |
+| 3.24 | [Subsidieregeling sterktes in innovatie (polymeren innovatieprojecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&paragraaf=4) | [10.15](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10.15) |   |   |   |
+| 3.25 | [Subsidieregeling sterktes in innovatie (High Tech Topprojecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10a) | [10a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10a.2) |   |   |   |
+| 3.26 | [Subsidieregeling sterktes in innovatie (detachering kenniswerkers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10b) | [10b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10b.2) |   |   |   |
+| 3.27 | [Subsidieregeling sterktes in innovatie (civiele vliegtuigontwikkeling)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10c) | [10c.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10c.2) | Projecten, niet betrekking hebbend op industrieel onderzoek | 01-01 t/m 01-12 | 14.000.000 |
+|   |   |   | Projecten, betrekking hebbend op industrieel onderzoek |   |   |
+| 3.28 | [Subsidieregeling sterktes in innovatie (Technologische Topinstituten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10d) | [10d.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10d.2) |   |   |   |
+| 3.29 | [Subsidieregeling sterktes in innovatie (innovatieve zeescheepsbouw)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e) | [10e.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10e.2) |   | 01-01 t/m 31-10 | 17.500.000 |
+| 3.30 | [Subsidieregeling sterktes in innovatie (prekwalificatie ESA/programma’s)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10f) | [10f.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10f.2) |   | 01-01 t/m 26-02 | 5.899.143 |
+| [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&wetgeving) |
+| 4.1 | [Subsidieregeling sterktes in de regio (Pieken in de Delta)](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&hoofdstuk=2) | [2.3](onbekend) |   |   |   |
+|   |   |   | Oost-Nederland |   |   |
+|   |   |   | Noordvleugel Randstad |   |   |
+|   |   |   | Zuidvleugel Randstad |   |   |
+|   |   |   | Zuidwest-Nederland |   |   |
+|   |   |   | Zuidoost-Nederland |   |   |
+|   |   |   | Noord-Nederland | 01-01 t/m 31-12 | 20.000.000 |
+| Subsidieregeling energie en innovatie | Subsidieregeling energie en innovatie | Subsidieregeling energie en innovatie | Subsidieregeling energie en innovatie | Subsidieregeling energie en innovatie | Subsidieregeling energie en innovatie |
+| 5.1 | Subsidieregeling energie en innovatie (EOS: lange termijn | 2.1.2 | NEO haalbaarheidsstudie | 11-02 t/m 14-10 | 500.000 |
+|   |   |   | Andere NEO projecten dan haalbaarheidsstudies | 01-01 t/m 09-09 | 1.000.000 |
+|   |   |   | LT ECN-consortia | 01-01 t/m 04-03 | 4.000.000 |
+|   |   |   | LT overige | 01-01 t/m 04-03 | 8.500.000 |
+| 5.2 | Subsidieregeling energie en innovatie (EOS: korte termijn) | 2.2.2 | Andere projecten dan haalbaarheidsstudies | 01-01 t/m 26-08 | 8.000.000 |
+|   |   |   | Haalbaarheidsstudies | 11-02 t/m 14-10 | 800.000 |
+| 5.3 | Subsidieregeling energie en innovatie (EOS: demonstratie) | 2.3.2 |   | 01-01 t/m 08-04 | 7.200.000 |
+| 5.4 | Subsidieregeling energie en innovatie (Duurzame biomassa-import) | 3.2.2 |   |   |   |
+| [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) | [Subsidieregeling internationaal ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026819) |
+| 6.1 | [Subsidieregeling internationaal ondernemen (Prepare2Start)](https://wetten.overheid.nl/jci1.3:c:BWBR0026819&hoofdstuk=2) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026819&artikel=2.2) |   | 01-01 t/m 31-12 | 15.000.000 |
+| Subsidieregeling internationaal excelleren | Subsidieregeling internationaal excelleren | Subsidieregeling internationaal excelleren | Subsidieregeling internationaal excelleren | Subsidieregeling internationaal excelleren | Subsidieregeling internationaal excelleren |
+| 7.1 | Subsidieregeling internationaal excelleren (Basismodule 2Getthere) | 2.1 | Periode vooraanmelding |   | - |
+| 7.2 | Subsidieregeling internationaal excelleren (Basismodule 2Getthere en demonstratieprojecten) | 2.1 en 3.1 |   | 01-01 t/m 31-12 | 6.000.000 |
+| 7.3 | Subsidieregeling internationaal excelleren (2xplore) | 4.1 |   | 01-01 t/m 31-12 | 1.500.000 |
+| 7.4 | Subsidieregeling internationaal excelleren (Opkomende markten) | 5.2 | Orders | 01-01 t/m 30-06 | 5.000.000 |
+|   |   | 5.8 | Investeringsprojecten | 01-01 t/m 30-06 | 2.000.000 |
+
+##### Artikel 2
+
+1. Als perioden, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum om 17.00 uur.
+
+2. Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste lid wordt per in kolom 5 genoemde periode vastgesteld: het daarbij behorende in kolom 6 genoemde bedrag.
+
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- |
+| Nr. | Regeling | Artikel | Groep | Openstelling | Plafond € |
+| 1 | Subsidieregeling energie en innovatie (Duurzame warmte voor bestaande woningen) | 3.1.2 | Zonneboilers en warmtepompen, niet zijnde lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-2010 | 32.000.000 |
+|   |   |   | Lucht/waterwarmtepompen | 10-09-2008 t/m 31-12-2010 | 4.000.000 |
+|   |   |   | Installaties voor micro-warmtekrachtkoppeling | 10-09-2008 t/m 31-12-2010 | 4.000.000 |
+| 2 | Subsidieregeling energie en innovatie (Investeringen voor verlaging elektriciteitsaansluiting van warmtepomphouders) | 3.3.2 |   | 01-09-2009 t/m 15-12-2010 | 4.290.000 |
+| 3 | Subsidieregeling energie en innovatie (Risico’s dekken voor aardwarmte) | 3.4.2 |   | 03-11-2009 t/m 01-05-2010 | 35.700.000 |
+| 4 | Subsidieregeling energie en innovatie (Voorbereidingsstudies en demonstratieprojecten vergassing) | 3.6.2, eerste lid | Voorbereidingsstudies | 20-11-2009 t/m 31-03-2010 | 200.000 |
+| 5 | Subsidieregeling energie en innovatie (Experimenteerregeling Wind op Zee) | 3.7.2 |   | 19-11-2009 t/m 28-01-2010 | 9.000.000 |
+
+##### Artikel 3
+
+De percentages, bedoeld in [artikel 3.9 van de Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.9), bedragen voor de in 2010 aangevraagde subsidies voor innovatiekredieten:
+
+- a. het basispercentage: 1,2 procent per jaar;
+
+- b. de opslag voor technische ontwikkelingsprojecten: 2 procent per jaar;
+
+- c. de opslag voor klinische ontwikkelingsprojecten: 5 procent per jaar;
+
+- d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
+
+##### Artikel 4
+
+Deze regeling treedt in werking met ingang van 1 januari 2010.
+
+##### Artikel 5
+
+Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2010.
+
+Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
