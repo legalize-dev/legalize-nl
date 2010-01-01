@@ -4,7 +4,7 @@ identifier: "BWBR0018303"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2005-05-25"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018303"
 soort: "ministeriele-regeling"
@@ -41,11 +41,11 @@ Besluit:
 
 ##### Artikel 1
 
-De aanvraag van een vergunning tot tijdelijke verhuur van een leegstaande woning of een leegstaand gebouw als bedoeld in [artikel 15, eerste lid, van de Leegstandwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&artikel=15) wordt gedaan met gebruikmaking van een formulier overeenkomstig [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018303&bijlage=I&z=2005-05-25&g=2005-05-25) bij deze regeling.
+De aanvraag van een vergunning tot tijdelijke verhuur van een leegstaande woning of een leegstaand gebouw als bedoeld in [artikel 15, eerste lid, van de Leegstandwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&artikel=15) wordt gedaan met gebruikmaking van een formulier overeenkomstig [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018303&bijlage=I&z=2010-01-01&g=2010-01-01) bij deze regeling.
 
 ##### Artikel 2
 
-De aanvraag tot verlenging van de vergunning tot tijdelijke verhuur van een leegstaande woning of een leegstaand gebouw, bedoeld in [artikel 15, vierde lid, van de Leegstandwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&artikel=15), wordt gedaan met gebruikmaking van een formulier overeenkomstig [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0018303&bijlage=II&z=2005-05-25&g=2005-05-25) bij deze regeling.
+De aanvraag tot verlenging van de vergunning tot tijdelijke verhuur van een leegstaande woning of een leegstaand gebouw, bedoeld in [artikel 15, vierde lid, van de Leegstandwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&artikel=15), wordt gedaan met gebruikmaking van een formulier overeenkomstig [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0018303&bijlage=II&z=2010-01-01&g=2010-01-01) bij deze regeling.
 
 ##### Artikel 3
 
@@ -59,8 +59,8 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling formulieren Leegstandwet.
 
-## Bijlage I
+## Bijlage I. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018303&artikel=1&z=2010-01-01&g=2010-01-01) van de Regeling formulieren Leegstandwet
 
-## Bijlage II
+## Bijlage II. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018303&artikel=2&z=2010-01-01&g=2010-01-01) van de Regeling formulieren Leegstandwet
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
