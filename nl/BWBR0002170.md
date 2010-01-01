@@ -4,7 +4,7 @@ identifier: "BWBR0002170"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2009-10-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002170"
 soort: "wet"
@@ -70,7 +70,7 @@ Er is een Centrale Raad van Beroep, gevestigd te Utrecht.
 
 Het bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [2](onbekend) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) bepaalde is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21), van overeenkomstige toepassing op de Centrale Raad van Beroep, met dien verstande dat:
 
-- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van de Centrale Raad van Beroep als bedoeld in [artikel 2, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=I&artikel=2&z=2009-10-01&g=2009-10-01);
+- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van de Centrale Raad van Beroep als bedoeld in [artikel 2, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=I&artikel=2&z=2010-01-01&g=2010-01-01);
 
 - b. de voorzitter onderscheidenlijk de andere leden met rechtspraak belast, bedoeld in onderdeel a, in verband met het verrichten van de werkzaamheden als voorzitter onderscheidenlijk lid van het bestuur een toelage ontvangen op het salaris dat zij overeenkomstig de Wet rechtspositie rechterlijke ambtenaren genieten, waarvan het bedrag gelijk is aan het verschil tussen dat salaris en de bij algemene maatregel van bestuur voor de functie van voorzitter onderscheidenlijk lid van het bestuur vast te stellen salarishoogte;
 
@@ -170,7 +170,7 @@ Vervallen
 
 ##### Artikel 17
 
-1. Indien bij de Centrale Raad van Beroep beroep kan worden ingesteld, is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van de [artikelen 8:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1), [8:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4), [8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:5), [8:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:6), [8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7), [8:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:8) , [8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:9), [8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:10) en [8:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:13), van overeenkomstige toepassing, met dien verstande dat [artikel 8:86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:86), slechts kan worden toegepast indien partijen daarvoor toestemming hebben gegeven. Ook hierop worden partijen in de uitnodiging, bedoeld in [artikel 8:83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:83), gewezen.
+1. Indien bij de Centrale Raad van Beroep beroep kan worden ingesteld, is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van de [artikelen 8:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1), [8:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4), [8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:5), [8:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:6), [8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7), [8:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:8) , [8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:9), [8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:10) , [8:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:13) en [8:51a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:51a), van overeenkomstige toepassing, met dien verstande dat [artikel 8:86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:86), slechts kan worden toegepast indien partijen daarvoor toestemming hebben gegeven. Ook hierop worden partijen in de uitnodiging, bedoeld in [artikel 8:83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:83), gewezen.
 
 2. De zaken die bij de Centrale Raad van Beroep aanhangig worden gemaakt, worden in behandeling genomen door een meervoudige kamer.
 
@@ -179,6 +179,8 @@ Vervallen
 4. Indien een zaak naar het oordeel van de enkelvoudige kamer ongeschikt is voor behandeling door één rechter, verwijst zij deze naar een meervoudige kamer.
 
 5. Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.
+
+6. De Centrale Raad van Beroep kan het bestuursorgaan opdragen een gebrek in het bestreden besluit te herstellen of te laten herstellen. De vorige volzin vindt geen toepassing, indien belanghebbenden die niet als partij aan het geding deelnemen daardoor onevenredig kunnen worden benadeeld.
 
 ### Hoofdstuk II. Hoger beroep
 
@@ -202,7 +204,11 @@ Vervallen
 
 - e. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:75**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75a), in verband met [artikel 8:84, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:84).
 
-3. Tegen andere beslissingen van de rechtbank onderscheidenlijk de voorzieningenrechter kan slechts tegelijkertijd met het hoger beroep tegen de in het eerste lid bedoelde uitspraak hoger beroep worden ingesteld.
+3. Tegelijkertijd met het hoger beroep tegen de in het eerste lid bedoelde uitspraak kan hoger beroep worden ingesteld tegen:
+
+- a. een tussenuitspraak als bedoeld in [artikel 8:80a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:80a); of
+
+- b. een andere beslissing van de rechtbank.
 
 ##### Artikel 19
 
@@ -218,7 +224,7 @@ Vervallen
 
 ##### Artikel 21
 
-1. Op het hoger beroep is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van afdeling 8.1.1 en de artikelen 8:10, 8:13, 8:41, 8:74 en 8:82, van overeenkomstige toepassing, voor zover in dit hoofdstuk niet anders is bepaald. Artikel 8:86, eerste lid, kan slechts worden toegepast indien een enkelvoudige kamer van de rechtbank uitspraak op het beroep heeft gedaan.
+1. Op het hoger beroep is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van [afdeling 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.1.1) en de [artikelen 8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:10), [8:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:13), [8:41](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41), [8:51a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:51a), [8:74](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:74) en [8:82](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:82), van overeenkomstige toepassing, voor zover in dit hoofdstuk niet anders is bepaald. [Artikel 8:86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:86), kan slechts worden toegepast indien een enkelvoudige kamer van de rechtbank uitspraak op het beroep heeft gedaan.
 
 2. De zaken die bij de Centrale Raad van Beroep aanhangig worden gemaakt, worden in behandeling genomen door een meervoudige kamer.
 
@@ -227,6 +233,8 @@ Vervallen
 4. Indien een zaak naar het oordeel van de enkelvoudige kamer ongeschikt is voor behandeling door één rechter, verwijst zij deze naar een meervoudige kamer.
 
 5. Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.
+
+6. De Centrale Raad van Beroep kan het bestuursorgaan opdragen een gebrek in het bestreden besluit te herstellen of te laten herstellen. De vorige volzin vindt geen toepassing, indien belanghebbenden die niet als partij aan het geding deelnemen daardoor onevenredig kunnen worden benadeeld.
 
 ##### Artikel 21a
 
@@ -264,9 +272,9 @@ Vervallen
 
 ##### Artikel 23
 
-1. Van de verzoeker om een voorlopige voorziening wordt door de griffier een griffierecht geheven. [Artikel 22, eerste lid, tweede en derde volzin, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=22&z=2009-10-01&g=2009-10-01), is van overeenkomstige toepassing.
+1. Van de verzoeker om een voorlopige voorziening wordt door de griffier een griffierecht geheven. [Artikel 22, eerste lid, tweede en derde volzin, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=22&z=2010-01-01&g=2010-01-01), is van overeenkomstige toepassing.
 
-2. [Artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=22&z=2009-10-01&g=2009-10-01), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
+2. [Artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=22&z=2010-01-01&g=2010-01-01), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
 
 3. Indien het verzoek wordt ingetrokken omdat het bestuursorgaan, onderscheidenlijk de belanghebbende tot wie het bestreden besluit is gericht, aan de president schriftelijk heeft medegedeeld de uitvoering van het bestreden besluit hangende de procedure met betrekking tot de hoofdzaak op te schorten dan wel de gevraagde voorlopige maatregelen te zullen nemen, wordt het betaalde griffierecht door de griffier terugbetaald. In de overige gevallen kan de desbetreffende rechtspersoon, indien het verzoek wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.
 
@@ -298,7 +306,7 @@ De Centrale Raad van Beroep bevestigt de uitspraak van de rechtbank, hetzij met 
 
 ##### Artikel 27
 
-In de gevallen, bedoeld in [artikel 26, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=26&z=2009-10-01&g=2009-10-01), kan de Centrale Raad van Beroep de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
+In de gevallen, bedoeld in [artikel 26, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=26&z=2010-01-01&g=2010-01-01), kan de Centrale Raad van Beroep de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
 
 ##### Artikel 28
 
@@ -312,9 +320,9 @@ Bij een wijziging van de bijlage die bij deze wet behoort, blijft de bijlage zoa
 
 - a. de mogelijkheid om hoger beroep in te stellen tegen een uitspraak die voor dat tijdstip is gedaan;
 
-- b. de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=19&z=2009-10-01&g=2009-10-01) bedoelde gevolgen van dat hoger beroep;
+- b. de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=19&z=2010-01-01&g=2010-01-01) bedoelde gevolgen van dat hoger beroep;
 
-- c. de hoogte van het griffierecht bij hoger beroep tegen een uitspraak inzake een besluit als bedoeld in [artikel 22, tweede lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=22&z=2009-10-01&g=2009-10-01), dat voor dat tijdstip is bekendgemaakt;
+- c. de hoogte van het griffierecht bij hoger beroep tegen een uitspraak inzake een besluit als bedoeld in [artikel 22, tweede lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=II&hoofdstuk=II&artikel=22&z=2010-01-01&g=2010-01-01), dat voor dat tijdstip is bekendgemaakt;
 
 - d. de hoogte van het griffierecht bij beroep tegen een besluit als bedoeld in [artikel 8:41, derde lid, onderdeel a, onder 1°, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41), dat voor dat tijdstip is bekendgemaakt.
 
