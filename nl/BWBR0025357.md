@@ -4,7 +4,7 @@ identifier: "BWBR0025357"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-05"
-last_updated: "2009-05-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025357"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Besluit:
 
 ##### Artikel 2
 
-Er is slechts sprake van een dringende taak als bedoeld in [artikel 29, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29), en in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=1&z=2009-05-01&g=2009-05-01), in geval van:
+Er is slechts sprake van een dringende taak als bedoeld in [artikel 29, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29), en in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=1&z=2010-01-01&g=2010-01-01), in geval van:
 
 - a. een voor de mens levensbedreigende situatie die directe hulp van de betrokken hulpverleningsdiensten vergt;
 
@@ -84,11 +84,11 @@ Er is slechts sprake van een dringende taak als bedoeld in [artikel 29, eerste l
 
 1. De politie, de brandweer en de diensten voor spoedeisende medische hulpverlening stellen elk een richtlijn op met betrekking tot de werkzaamheden en de omstandigheden, waarin van de optische en geluidssignalen gebruik mag worden gemaakt.
 
-2. De in of krachtens de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=1&z=2009-05-01&g=2009-05-01), aangewezen hulpverleningsdiensten verklaren een van de in het eerste lid bedoelde richtlijnen van overeenkomstige toepassing of stellen een richtlijn op met betrekking tot de werkzaamheden en de omstandigheden, waarin van de optische en geluidssignalen gebruik mag worden gemaakt.
+2. De in of krachtens de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=1&z=2010-01-01&g=2010-01-01), aangewezen hulpverleningsdiensten verklaren een van de in het eerste lid bedoelde richtlijnen van overeenkomstige toepassing of stellen een richtlijn op met betrekking tot de werkzaamheden en de omstandigheden, waarin van de optische en geluidssignalen gebruik mag worden gemaakt.
 
 3. De in het eerste en tweede lid bedoelde richtlijn bevat in ieder geval:
 
-- a. de branchespecifieke criteria waaronder met de optische en geluidssignalen mag worden gereden, ter nadere invulling van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=2&z=2009-05-01&g=2009-05-01) genoemde criteria;
+- a. de branchespecifieke criteria waaronder met de optische en geluidssignalen mag worden gereden, ter nadere invulling van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=2&z=2010-01-01&g=2010-01-01) genoemde criteria;
 
 - b. de prioritering van de meldingen en de rol die de meldkamer speelt bij het verlenen van toestemming om met de optische en geluidssignalen te mogen rijden;
 
@@ -110,7 +110,7 @@ Er is slechts sprake van een dringende taak als bedoeld in [artikel 29, eerste l
 
 ##### Artikel 4
 
-1. De in [artikel 29, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29) genoemde diensten en de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=1&z=2009-05-01&g=2009-05-01) aangewezen hulpverleningsdiensten wijzen personen of groepen van personen aan, die daartoe ingerichte motorvoertuigen met de inwerking zijnde optische en geluidsignalen mogen besturen.
+1. De in [artikel 29, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29) genoemde diensten en de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=1&z=2010-01-01&g=2010-01-01) aangewezen hulpverleningsdiensten wijzen personen of groepen van personen aan, die daartoe ingerichte motorvoertuigen met de inwerking zijnde optische en geluidsignalen mogen besturen.
 
 2. De in het eerste lid bedoelde personen worden aangewezen, nadat zij een speciale instructie hebben gekregen, waarin gewezen wordt op onder andere de strafrechtelijke en civielrechtelijke consequenties van het direct of indirect veroorzaken van schade of letsel tijdens de rit, het gedrag en de reactie van weggebruikers op de optische en geluidssignalen en het gewenste rijgedrag van de betrokken bestuurder.
 
@@ -118,7 +118,7 @@ Er is slechts sprake van een dringende taak als bedoeld in [artikel 29, eerste l
 
 De signalen zijn als volgt uitgevoerd:
 
-- 1. **blauw zwaai-, flits- of knipperlicht:** licht, bestaande uit één set blauwe signaalverlichting; de set voldoet aan klasse 2 van ECE reglement 65 en is overeenkomstig dat reglement gecertificeerd. Het licht is zodanig gemonteerd dat het signaal kan worden waargenomen rondom het voertuig vanaf een afstand van 20 m vanaf het voertuig, gemeten op 1,5 m boven het wegdek; ter ondersteuning van de set mag aan de voorzijde van het voertuig symmetrisch ten opzichte van de lengteas van het voertuig op een hoogte tussen 0,4 m en 1,2 m boven het wegdek een set secundaire blauwe signaalverlichting zijn aangebracht; ook deze set is gecertificeerd overeenkomstig ECE reglement 65; de secundaire set is alleen in werking wanneer de primaire signaalverlichting is ingeschakeld; de secundaire set signaalverlichting straalt naar voren, evenwijdig aan de lengteas van het voertuig; de secundaire set mag separaat uitschakelbaar zijn; een voertuig in gebruik bij politie, brandweer of diensten voor spoedeisende medische hulpverlening is slechts van deze signaalverlichting voorzien als het door middel van de in de [artikelen 5.2.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.2.51a), [5.3.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.51a), [5.4.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.4.51a), [5.4.52a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.4.52a) of [5.5.51a van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.5.51a) bedoelde, door de Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgestelde retroreflecterende striping, letters, cijfers of tekens als zodanig herkenbaar is voor de overige weggebruikers. Een voertuig van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=1&z=2009-05-01&g=2009-05-01) aangewezen diensten dat gebruikt wordt voor het vervullen van een dringende taak, is van de blauwe signaalverlichting voorzien als het aan weerszijden door middel van een embleem of naam van de dienst herkenbaar is voor de overige weggebruikers. Een embleem of naam van de dienst heeft een oppervlak van ten minste 314 cm2.
+- 1. **blauw zwaai-, flits- of knipperlicht:** licht, bestaande uit één set blauwe signaalverlichting; de set voldoet aan klasse 2 van ECE reglement 65 en is overeenkomstig dat reglement gecertificeerd. Het licht is zodanig gemonteerd dat het signaal kan worden waargenomen rondom het voertuig vanaf een afstand van 20 m vanaf het voertuig, gemeten op 1,5 m boven het wegdek; ter ondersteuning van de set mag aan de voorzijde van het voertuig symmetrisch ten opzichte van de lengteas van het voertuig op een hoogte tussen 0,4 m en 1,2 m boven het wegdek een set secundaire blauwe signaalverlichting zijn aangebracht; ook deze set is gecertificeerd overeenkomstig ECE reglement 65; de secundaire set is alleen in werking wanneer de primaire signaalverlichting is ingeschakeld; de secundaire set signaalverlichting straalt naar voren, evenwijdig aan de lengteas van het voertuig; de secundaire set mag separaat uitschakelbaar zijn; een voertuig in gebruik bij politie, brandweer of diensten voor spoedeisende medische hulpverlening is slechts van deze signaalverlichting voorzien als het door middel van de in de [artikelen 5.2.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.2.51a), [5.3.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.51a), [5.4.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.4.51a), [5.4.52a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.4.52a) of [5.5.51a van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.5.51a) bedoelde, door de Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgestelde retroreflecterende striping, letters, cijfers of tekens als zodanig herkenbaar is voor de overige weggebruikers. Een voertuig van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=1&z=2010-01-01&g=2010-01-01) aangewezen diensten dat gebruikt wordt voor het vervullen van een dringende taak, is van de blauwe signaalverlichting voorzien als het aan weerszijden door middel van een embleem of naam van de dienst herkenbaar is voor de overige weggebruikers. Een embleem of naam van de dienst heeft een oppervlak van ten minste 314 cm2.
 
 - 2. **geel zwaai-, flits- of knipperlicht:** licht, bestaande uit één set gele signaalverlichting; de set voldoet aan ECE reglement 65 en is overeenkomstig dat reglement gecertificeerd; het licht is zodanig gemonteerd dat het signaal kan worden waargenomen rondom het voertuig vanaf een afstand van 20 m vanaf het voertuig, gemeten op 1,5 m boven het wegdek.
 
@@ -140,7 +140,7 @@ De signalen zijn als volgt uitgevoerd:
 
 - c. werkzaamheden met kennelijk daartoe ingerichte motorvoertuigen voor de hulpverlening aan en het repareren of bergen en wegslepen van voertuigen;
 
-- d. vervoer van ondeelbare lading voor zover het voertuigen betreft waarvoor krachtens het [Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746) ontheffing is verleend inzake de afmetingen van deze voertuigen of hun lading;
+- d. vervoer van ondeelbare lading voor zover het voertuigen betreft waarvoor krachtens de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) ontheffing is verleend inzake de afmetingen van deze voertuigen of hun lading;
 
 - e. het begeleiden van transporten waarvoor een ontheffing is verleend, voor zover die begeleiding uit de ontheffing voortvloeit en dit geschiedt met daartoe speciaal uitgeruste voertuigen;
 
@@ -152,9 +152,9 @@ De signalen zijn als volgt uitgevoerd:
 
 ##### Artikel 7
 
-1. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=5&z=2009-05-01&g=2009-05-01) is tot 1 maart 2014 niet van toepassing op motorvoertuigen die op het moment van inwerkingtreding van deze regeling zijn voorzien van blauw zwaai- of knipperlicht, geel zwaai- of knipperlicht of een twee- of drietonige hoorn overeenkomstig het bepaalde in [artikel 3 van de Regeling optische en geluidssignalen](https://wetten.overheid.nl/jci1.3:c:BWBR0009147&artikel=3).
+1. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=5&z=2010-01-01&g=2010-01-01) is tot 1 maart 2014 niet van toepassing op motorvoertuigen die op het moment van inwerkingtreding van deze regeling zijn voorzien van blauw zwaai- of knipperlicht, geel zwaai- of knipperlicht of een twee- of drietonige hoorn overeenkomstig het bepaalde in [artikel 3 van de Regeling optische en geluidssignalen](https://wetten.overheid.nl/jci1.3:c:BWBR0009147&artikel=3).
 
-2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=5&z=2009-05-01&g=2009-05-01), is wat de eis betreft dat de set blauwe signaalverlichting en de secundaire set zijn gecertificeerd overeenkomstig ECE reglement 65 tot 1 september 2009 niet van toepassing op voertuigen, bedoeld in [artikel 29, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29), die op de datum van inwerkingtreding van deze regeling niet zijn voorzien van een set blauwe signaalverlichting en een secundaire set die aan deze eis voldoet.
+2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=5&z=2010-01-01&g=2010-01-01), is wat de eis betreft dat de set blauwe signaalverlichting en de secundaire set zijn gecertificeerd overeenkomstig ECE reglement 65 tot 1 september 2009 niet van toepassing op voertuigen, bedoeld in [artikel 29, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29), die op de datum van inwerkingtreding van deze regeling niet zijn voorzien van een set blauwe signaalverlichting en een secundaire set die aan deze eis voldoet.
 
 ##### Artikel 8
 
