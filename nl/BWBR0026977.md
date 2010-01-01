@@ -4,7 +4,7 @@ identifier: "BWBR0026977"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2009-12-31"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026977"
 soort: "wet"
@@ -46,15 +46,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel IIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel III
 
@@ -62,51 +62,51 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel IVa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de dividendbelasting 1965.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel VIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op belastingen van rechtsverkeer.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op belastingen van rechtsverkeer.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 15, eerste lid, onderdeel z, tweede volzin, van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) zoals dat luidde op 31 december 2010, blijft van toepassing met betrekking tot omstandigheden als bedoeld in die volzin in gevallen waarin de vrijstelling ingevolge de eerste volzin van dat artikelonderdeel in 2010 toepassing heeft gevonden.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene douanewet.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene douanewet.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de accijns.
 
 ##### Artikel XIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de accijns.
 
 ##### Artikel XIIb
 
@@ -114,11 +114,11 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) vindt geen toepassing bij het begin van het kalenderjaar 2010 op het eerste bedrag, genoemd in [artikel 59, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), en de bedragen, genoemd in [artikel 86, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=86).
 
 ##### Artikel XV
 
@@ -126,19 +126,19 @@ Wijzigt de Wet waardering onroerende zaken.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XVIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XVIIb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Overige fiscale maatregelen 2008.
 
 ##### Artikel XVIII
 
@@ -150,18 +150,38 @@ Wijzigt de Wet Fiscaal stimuleringspakket en overige fiscale maatregelen.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXa
 
-Dit onderdeel is nog niet inwerking getreden
+De [artikelen 2.7, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.7), [5.16, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.16), [5.18b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18b) en [8.22 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.22), zoals deze bepalingen luidden op 31 december van het vierde kalenderjaar dat volgt op het kalenderjaar waarin deze bepalingen bij koninklijk besluit als bedoeld in [artikel XXI, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XXI&z=2010-01-01&g=2010-01-01), zijn gewijzigd onderscheidenlijk in werking zijn getreden, blijven van toepassing op aandelen die uiterlijk op 31 december van dat vierde kalenderjaar zijn verworven.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van 1 januari 2010.
+
+2. De wijzigingen ingevolge [artikel I, onderdelen E, J, K, T, Y en Z](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=I&z=2010-01-01&g=2010-01-01), [artikel IV, onderdelen A, G en H, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=IV&z=2010-01-01&g=2010-01-01), en [artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XVI&z=2010-01-01&g=2010-01-01), vinden voor het eerst toepassing ten aanzien van belastingaanslagen of voor bezwaar vatbare beschikkingen die zijn vastgesteld of genomen na 31 december 2009.
+
+3. [Artikel III, onderdelen C, F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=III&z=2010-01-01&g=2010-01-01), werkt terug tot en met 15 september 2009.
+
+4. [Artikel IV, onderdeel 0A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=IV&z=2010-01-01&g=2010-01-01), werkt terug tot en met het tijdstip waarop zonder deze wijziging van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)[artikel 2, zevende lid, eerste volzin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) van toepassing zou zijn geworden op het in dat onderdeel genoemde lichaam en [artikel IV, onderdeel 0A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=IV&z=2010-01-01&g=2010-01-01), werkt terug tot en met het tijdstip waarop artikel 2, eerste lid, onderdeel a, van de Wet op de vennootschapsbelasting 1969 van toepassing is geworden op het in het vervallen onderdeel n van het zevende lid van dat artikel genoemde lichaam.
+
+5. In afwijking van het eerste lid treedt [artikel XII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XII&z=2010-01-01&g=2010-01-01), in werking met ingang van 1 april 2010.
+
+6. [Artikel XIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XIIb&z=2010-01-01&g=2010-01-01) werkt terug tot en met 1 januari 2008.
+
+7. [Artikel XV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XV&z=2010-01-01&g=2010-01-01), werkt terug tot en met 1 augustus 2008.
+
+8. In afwijking van het eerste lid treden [artikel I, onderdelen Abis, Ya, Yb, EEa, EEb en EEc](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=I&z=2010-01-01&g=2010-01-01), [artikel IV, onderdeel Ga](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=IV&z=2010-01-01&g=2010-01-01), en [artikel XVII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XVII&z=2010-01-01&g=2010-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+9. [Artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XVIII&z=2010-01-01&g=2010-01-01) werkt terug tot en met 1 januari 2009.
+
+10. [Artikel XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0026977&artikel=XIX&z=2010-01-01&g=2010-01-01) werkt terug tot en met 31 december 2009.
+
+11. Met betrekking tot uitstel van betaling, voor 1 januari 2010 verleend op grond van [artikel 25, negende lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) ter zake van een vervreemding waarbij de aandelen of winstbewijzen zijn geschonken, blijft artikel 25, negende lid, van de Invorderingswet 1990, zoals die bepaling op 31 december 2009 luidde, van toepassing.
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Overige fiscale maatregelen 2010.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
