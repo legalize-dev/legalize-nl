@@ -4,7 +4,7 @@ identifier: "BWBR0026319"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-01-01"
-last_updated: "2009-09-02"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026319"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Wijzigt het Besluit bezoldiging politie.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit bezoldiging politie.
 
 ##### Artikel IV
 
@@ -100,14 +100,14 @@ Wijzigt de Tijdelijke regeling nachtdienstontheffing politie.
 
 ##### Artikel IX
 
-1. [Artikel VI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=VI&z=2009-09-02&g=2009-09-02), van deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2008.
+1. [Artikel VI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=VI&z=2010-01-01&g=2010-01-01), van deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2008.
 
-2. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=IV&z=2009-09-02&g=2009-09-02), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=V&z=2009-09-02&g=2009-09-02) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=VII&z=2009-09-02&g=2009-09-02) van deze regeling treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, werken terug tot en met 1 januari 2008 en vervallen met ingang van 1 januari 2011.
+2. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=IV&z=2010-01-01&g=2010-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=V&z=2010-01-01&g=2010-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=VII&z=2010-01-01&g=2010-01-01) van deze regeling treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, werken terug tot en met 1 januari 2008 en vervallen met ingang van 1 januari 2011.
 
-3. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=I&z=2009-09-02&g=2009-09-02) en [VIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=VIII&z=2009-09-02&g=2009-09-02), van deze regeling treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werken terug tot en met 1 februari 2008.
+3. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=I&z=2010-01-01&g=2010-01-01) en [VIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=VIII&z=2010-01-01&g=2010-01-01), van deze regeling treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werken terug tot en met 1 februari 2008.
 
-4. De [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=II&z=2009-09-02&g=2009-09-02) en [VIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=VIII&z=2009-09-02&g=2009-09-02), van deze regeling treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werken terug tot en met 1 januari 2009.
+4. De [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=II&z=2010-01-01&g=2010-01-01) en [VIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=VIII&z=2010-01-01&g=2010-01-01), van deze regeling treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werken terug tot en met 1 januari 2009.
 
-5. De [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=III&z=2009-09-02&g=2009-09-02), [VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=VI&z=2009-09-02&g=2009-09-02), en [VIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=VIII&z=2009-09-02&g=2009-09-02), van deze regeling treden in werking met ingang van 1 januari 2010.
+5. De [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=III&z=2010-01-01&g=2010-01-01), [VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=VI&z=2010-01-01&g=2010-01-01), en [VIII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026319&artikel=VIII&z=2010-01-01&g=2010-01-01), van deze regeling treden in werking met ingang van 1 januari 2010.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
