@@ -4,7 +4,7 @@ identifier: "BWBR0020434"
 country: "nl"
 rank: "zbo"
 publication_date: "2011-07-14"
-last_updated: "2006-11-26"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020434"
 soort: "zbo"
@@ -93,7 +93,7 @@ Besluit:
 
 ##### Artikel 4. Intrekking of herziening met ingang van de dag van de mededeling
 
-1. Onverminderd het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020434&artikel=3&z=2006-11-26&g=2006-11-26) wordt, indien het de verzekerde niet redelijkerwijs duidelijk was of kon zijn dat ten onrechte of tot een te hoog bedrag uitkering werd verstrekt, de uitkering ingetrokken of herzien met ingang van de dag waarop UWV hem voor het eerst kenbaar heeft gemaakt dat hem ten onrechte of tot een te hoog bedrag uitkering is verstrekt, doch niet later dan de dag met ingang waarvan de uitkering werd geschorst.
+1. Onverminderd het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020434&artikel=3&z=2006-11-26&g=2010-01-01) wordt, indien het de verzekerde niet redelijkerwijs duidelijk was of kon zijn dat ten onrechte of tot een te hoog bedrag uitkering werd verstrekt, de uitkering ingetrokken of herzien met ingang van de dag waarop UWV hem voor het eerst kenbaar heeft gemaakt dat hem ten onrechte of tot een te hoog bedrag uitkering is verstrekt, doch niet later dan de dag met ingang waarvan de uitkering werd geschorst.
 
 2. In afwijking van het bepaalde in het vorige lid wordt, indien aan de verzekerde over een periode waarover ten onrechte of tot een te hoog bedrag uitkering is verstrekt terwijl dat hem niet redelijkerwijs duidelijk was of kon zijn, een andere uitkering wordt toegekend, de eerstgenoemde uitkering ingetrokken of herzien met ingang van de dag waarop de andere uitkering ingaat. De ten onrechte of tot een te hoog bedrag verstrekte uitkering wordt met de andere uitkering verrekend. Voorzover een hoger bedrag is uitgekeerd dan het bedrag van de andere uitkering wordt het meerdere niet teruggevorderd.
 
