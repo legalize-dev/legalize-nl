@@ -4,7 +4,7 @@ identifier: "BWBR0021768"
 country: "nl"
 rank: "wet"
 publication_date: "2010-01-01"
-last_updated: "2007-04-27"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021768"
 soort: "wet"
@@ -66,18 +66,16 @@ Wijzigt de Wet vergoedingen leden Eerste Kamer.
 
 ##### Artikel VI
 
-Indien in de periode tussen het tijdstip waarop dit wetsvoorstel door de Tweede Kamer der Staten-Generaal is aanvaard en het tijdstip waarop [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0021768&artikel=III&z=2007-04-27&g=2007-04-27), van dit wetsvoorstel, nadat het tot wet is verheven, in werking treedt, de bezoldiging van het burgerlijk rijkspersoneel wijzigt en is bepaald dat die wijziging een algemeen karakter draagt, wordt het bedrag in [artikel 2, eerste lid, van de Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=2), voor zoveel nodig, dienovereenkomstig nader vastgesteld. De nadere vaststelling geschiedt bij het in [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0021768&artikel=VIII&z=2007-04-27&g=2007-04-27) genoemde koninklijk besluit en treedt in werking op het tijdstip van inwerkingtreding van [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0021768&artikel=III&z=2007-04-27&g=2007-04-27), van deze wet.
+Indien in de periode tussen het tijdstip waarop dit wetsvoorstel door de Tweede Kamer der Staten-Generaal is aanvaard en het tijdstip waarop [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0021768&artikel=III&z=2010-01-01&g=2010-01-01), van dit wetsvoorstel, nadat het tot wet is verheven, in werking treedt, de bezoldiging van het burgerlijk rijkspersoneel wijzigt en is bepaald dat die wijziging een algemeen karakter draagt, wordt het bedrag in [artikel 2, eerste lid, van de Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=2), voor zoveel nodig, dienovereenkomstig nader vastgesteld. De nadere vaststelling geschiedt bij het in [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0021768&artikel=VIII&z=2010-01-01&g=2010-01-01) genoemde koninklijk besluit en treedt in werking op het tijdstip van inwerkingtreding van [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0021768&artikel=III&z=2010-01-01&g=2010-01-01), van deze wet.
 
 ##### Artikel VII
 
-1. Gewezen leden van de Tweede Kamer der Staten-Generaal, hun nabestaanden en de nabestaanden van leden van de Tweede Kamer, hebben in de jaren 2007 tot en met 2009 aanspraak op een tegemoetkoming in de voor hun rekening blijvende ziektekosten op de voet van de regeling voor rijkspersoneel.
-
-2. Gewezen leden van het Europees Parlement, hun nabestaanden en de nabestaanden van leden van het Europees Parlement, hebben in de jaren 2007 tot en met 2009 aanspraak op een tegemoetkoming in de voor hun rekening blijvende ziektekosten op de voet van de regeling voor rijkspersoneel.
+Vervallen
 
 ##### Artikel VIII
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst met uitzondering van [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0021768&artikel=III&z=2007-04-27&g=2007-04-27), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst met uitzondering van [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0021768&artikel=III&z=2010-01-01&g=2010-01-01), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
-2. [Artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0021768&artikel=VII&z=2007-04-27&g=2007-04-27) vervalt met ingang van 1 januari 2010.
+2. [Artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0021768&artikel=VII&z=2010-01-01&g=2010-01-01) vervalt met ingang van 1 januari 2010.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
