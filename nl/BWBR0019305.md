@@ -4,7 +4,7 @@ identifier: "BWBR0019305"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-09-01"
-last_updated: "2009-12-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019305"
 soort: "ministeriele-regeling"
@@ -61,6 +61,8 @@ In deze regeling wordt verstaan onder:
 - **WGA-uitkering**: werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in [hoofdstuk 7 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7);
 
 - **WW**: [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+
+- **Wet Wajong:** [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
 - **IOW:** [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
 
@@ -177,5 +179,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 1a. Aanvulling wettelijke grondslag
 
 Deze regeling berust mede op [artikel 16, eerste lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=16).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a. Vrijstelling Wajongers tijdens studie of scholing
+
+De [artikelen 2:31, eerste lid, tweede lid, onderdelen b en c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:31), [2:32](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:32) en [2:39, tweede, derde en vierde lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:39) zijn niet van toepassing op de jonggehandicapte, bedoeld in [artikel 2:43, eerste lid, van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:43), tot twee maanden voor het beëindigen van de studie of scholing in verband waarmee hij inkomensondersteuning als bedoeld in [artikel 2:37](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:37) ontvangt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
