@@ -4,7 +4,7 @@ identifier: "BWBR0026278"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-04"
-last_updated: "2009-08-27"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026278"
 soort: "ministeriele-regeling"
@@ -56,17 +56,17 @@ De algemeen directeur van SenterNovem wordt gemandateerd tot:
 
 De algemeen directeur van SenterNovem wordt gemachtigd tot:
 
-- a. het verrichten van alle benodigde werkzaamheden ter voorbereiding van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2009-08-27&g=2009-08-27) bedoelde besluiten;
+- a. het verrichten van alle benodigde werkzaamheden ter voorbereiding van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2009-08-27&g=2010-01-01) bedoelde besluiten;
 
-- b. het voeren van (hoger) beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2009-08-27&g=2009-08-27).
+- b. het voeren van (hoger) beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2009-08-27&g=2010-01-01).
 
 ##### Artikel 3
 
-De algemeen directeur van SenterNovem kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2009-08-27&g=2009-08-27) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=2&z=2009-08-27&g=2009-08-27) ondermandaat en machtiging verlenen aan één of meer onder hem ressorterende functionarissen. Het verlenen van ondermandaat zal zodanig geschieden dat er geen sprake zal zijn van strijdigheid met [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3).
+De algemeen directeur van SenterNovem kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2009-08-27&g=2010-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=2&z=2009-08-27&g=2010-01-01) ondermandaat en machtiging verlenen aan één of meer onder hem ressorterende functionarissen. Het verlenen van ondermandaat zal zodanig geschieden dat er geen sprake zal zijn van strijdigheid met [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3).
 
 ##### Artikel 4
 
-Indien uitvoering wordt gegeven aan de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2009-08-27&g=2009-08-27) luidt de ondertekening:
+Indien uitvoering wordt gegeven aan de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2009-08-27&g=2010-01-01) luidt de ondertekening:
 
 De Staatssecretaris van Financiën,
 
