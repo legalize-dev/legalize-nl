@@ -4,7 +4,7 @@ identifier: "BWBR0002144"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2009-07-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002144"
 soort: "wet"
@@ -76,7 +76,7 @@ Er is een College van Beroep voor het bedrijfsleven, verder te noemen het Colleg
 
 Het bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=6) bepaalde is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21), van overeenkomstige toepassing op het College, met dien verstande dat:
 
-- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van het College als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2009-07-01&g=2009-07-01);
+- a. het bestuur bestaat uit een voorzitter, een niet-rechterlijk lid en ten hoogste vier andere leden met rechtspraak belast van het College als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=II&artikel=3&z=2010-01-01&g=2010-01-01);
 
 - b. de voorzitter onderscheidenlijk de andere leden met rechtspraak belast, bedoeld in onderdeel a, in verband met het verrichten van de werkzaamheden als voorzitter onderscheidenlijk lid van het bestuur een toelage ontvangen op het salaris dat zij overeenkomstig de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) genieten, waarvan het bedrag gelijk is aan het verschil tussen dat salaris en de bij algemene maatregel van bestuur voor de functie van lid van het bestuur vast te stellen salarishoogte;
 
@@ -190,7 +190,7 @@ Vervallen
 
 ##### Artikel 19
 
-1. Ten aanzien van besluiten en andere handelingen is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van [afdeling 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.1.1) en de [artikelen 8:10](onbekend) en [8:13](onbekend), van overeenkomstige toepassing, met dien verstande dat [artikel 8:86, eerste lid](onbekend), slechts kan worden toegepast indien partijen daarvoor toestemming hebben gegeven. Ook hierop worden partijen in de uitnodiging, bedoeld in [artikel 8:83, eerste lid](onbekend), gewezen.
+1. Ten aanzien van besluiten en andere handelingen is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van [afdeling 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.1.1) en de [artikelen 8:10](onbekend), [8:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:13) en [8:51a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:51a), van overeenkomstige toepassing, met dien verstande dat [artikel 8:86, eerste lid](onbekend), slechts kan worden toegepast indien partijen daarvoor toestemming hebben gegeven. Ook hierop worden partijen in de uitnodiging, bedoeld in [artikel 8:83, eerste lid](onbekend), gewezen.
 
 2. De zaken die bij het College aanhangig worden gemaakt, worden in behandeling genomen door een meervoudige kamer.
 
@@ -199,6 +199,8 @@ Vervallen
 4. Indien een zaak naar het oordeel van de enkelvoudige kamer ongeschikt is voor behandeling door één rechter, verwijst zij deze naar een meervoudige kamer.
 
 5. Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.
+
+6. Het College kan het bestuursorgaan opdragen een gebrek in het bestreden besluit te herstellen of te laten herstellen. De vorige volzin vindt geen toepassing, indien belanghebbenden die niet als partij aan het geding deelnemen daardoor onevenredig kunnen worden benadeeld.
 
 ### HOOFDSTUK II. HOGER BEROEP
 
@@ -220,7 +222,11 @@ Vervallen
 
 - e. een uitspraak van de voorzieningenrechter als bedoeld in [artikel 8:75a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75a), in verband met [artikel 8:84, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:84).
 
-4. Tegen andere beslissingen van de rechtbank onderscheidenlijk de voorzieningenrechter kan slechts tegelijkertijd met het hoger beroep tegen de in het eerste lid bedoelde uitspraak hoger beroep worden ingesteld.
+4. Tegelijkertijd met het hoger beroep tegen de in het eerste lid bedoelde uitspraak kan hoger beroep worden ingesteld tegen:
+
+- a. een tussenuitspraak als bedoeld in [artikel 8:80a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:80a); of
+
+- b. een andere beslissing van de rechtbank.
 
 ##### Artikel 21
 
@@ -230,7 +236,7 @@ Vervallen
 
 ##### Artikel 22
 
-1. Op het hoger beroep is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van [afdeling 8.1.1](onbekend) en de [artikelen 8:10](onbekend), [8:13](onbekend), [8:41](onbekend), [8:74](onbekend) en [8:82](onbekend), van overeenkomstige toepassing, voor zover in dit hoofdstuk niet anders is bepaald. [Artikel 8:86, eerste lid](onbekend), kan slechts worden toegepast indien een enkelvoudige kamer van de rechtbank uitspraak op het beroep heeft gedaan.
+1. Op het hoger beroep is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van [afdeling 8.1.1](onbekend) en de [artikelen 8:10](onbekend), [8:13](onbekend), [8:41](onbekend), [8:51a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:51a), [8:74](onbekend) en [8:82](onbekend), van overeenkomstige toepassing, voor zover in dit hoofdstuk niet anders is bepaald. [Artikel 8:86, eerste lid](onbekend), kan slechts worden toegepast indien een enkelvoudige kamer van de rechtbank uitspraak op het beroep heeft gedaan.
 
 2. De zaken die bij het College aanhangig worden gemaakt, worden in behandeling genomen door een meervoudige kamer.
 
@@ -239,6 +245,8 @@ Vervallen
 4. Indien een zaak naar het oordeel van de enkelvoudige kamer ongeschikt is voor behandeling door één rechter, verwijst zij deze naar een meervoudige kamer.
 
 5. Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.
+
+6. Het College kan het bestuursorgaan opdragen een gebrek in het bestreden besluit te herstellen of te laten herstellen. De vorige volzin vindt geen toepassing, indien belanghebbenden die niet als partij aan het geding deelnemen daardoor onevenredig kunnen worden benadeeld.
 
 ##### Artikel 23
 
@@ -270,7 +278,7 @@ Vervallen
 
 1. Van de verzoeker om een voorlopige voorziening wordt door de griffier een griffierecht geheven.[Artikel 24, eerste lid, tweede en derde volzin, tweede en zesde lid](onbekend), is van overeenkomstige toepassing.
 
-2. [Artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=24&z=2009-07-01&g=2009-07-01), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
+2. [Artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=24&z=2010-01-01&g=2010-01-01), is van overeenkomstige toepassing, met dien verstande dat de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken bedraagt. De president kan een kortere termijn stellen.
 
 3. Indien het verzoek wordt ingetrokken omdat het bestuursorgaan, onderscheidenlijk de belanghebbende tot wie het bestreden besluit is gericht, aan de president schriftelijk heeft medegedeeld de uitvoering van het bestreden besluit hangende de procedure met betrekking tot de hoofdzaak op te schorten dan wel de gevraagde voorlopige maatregelen te zullen nemen, wordt het betaalde griffierecht door de griffier terugbetaald. In de overige gevallen kan de desbetreffende rechtspersoon, indien het verzoek wordt ingetrokken, het betaalde griffierecht geheel of gedeeltelijk vergoeden.
 
@@ -302,7 +310,7 @@ Het College bevestigt de uitspraak van de rechtbank, hetzij met overneming, hetz
 
 ##### Artikel 29
 
-In de gevallen, bedoeld in [artikel 28, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=28&z=2009-07-01&g=2009-07-01), kan het College de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
+In de gevallen, bedoeld in [artikel 28, eerste lid, onderdeel **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002144&titeldeel=III&hoofdstuk=II&artikel=28&z=2010-01-01&g=2010-01-01), kan het College de zaak zonder terugwijzing afdoen, indien zij naar zijn oordeel geen nadere behandeling door de rechtbank behoeft.
 
 ##### Artikel 30
 
@@ -376,6 +384,8 @@ Deze wet wordt aangehaald als: Wet bestuursrechtspraak bedrijfsorganisatie.
 
 18. de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
 
-18. [Artikel 90, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=90).
+18. [Artikel 90, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=90);
+
+19. [Hoofdstuk 3 van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&hoofdstuk=3).
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
