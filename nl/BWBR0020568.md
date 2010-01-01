@@ -4,7 +4,7 @@ identifier: "BWBR0020568"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-01-01"
-last_updated: "2007-02-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020568"
 soort: "ministeriele-regeling"
@@ -46,15 +46,17 @@ Besluit:
 
 - a. voor zover in een geschrift enig ander geschrift letterlijk wordt aangehaald;
 
-- b. in het internationale goederen- of dienstenverkeer, voor zover het gebruik van de betrokken meeteenheid of benaming is toegelaten in het land waarmee dat verkeer plaatsvindt;
+- b. voor zover het gebruik betreft van andere dan in het [Meeteenhedenbesluit 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0020422) genoemde meeteenheden op het gebied van de scheepvaart, de luchtvaart en het spoorwegverkeer indien dit is vastgesteld bij bindende internationale overeenkomsten of verdragen;
 
-- c. voor zover het betreft andere meeteenheden dan in het Meeteenhedenbesluit 2006 genoemde meeteenheden, indien:
+- c. in het internationale goederen- of dienstenverkeer, voor zover het gebruik van de betrokken meeteenheid of benaming is toegelaten in het land waarmee dat verkeer plaatsvindt;
 
-- 1°. die andere meeteenheden naast de in het Meeteenhedenbesluit 2006 genoemde meeteenheden met betrekking tot dezelfde grootheden worden gebruikt,
+- d. voor zover het betreft andere meeteenheden dan in het [Meeteenhedenbesluit 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0020422) genoemde meeteenheden, indien:
 
-- 2°. de aanduidingen in die andere meeteenheden bestaan uit tekens die ten hoogste even groot zijn als die waaruit de aanduidingen van de in het Meeteenhedenbesluit 2006 genoemde meeteenheden bestaan en
+- 1°. die andere meeteenheden naast de in het [Meeteenhedenbesluit 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0020422) genoemde meeteenheden met betrekking tot dezelfde grootheden worden gebruikt,
 
-- 3°. de aanduidingen in die andere meeteenheden ten gevolge van hun plaats, uitvoering of wijze van weergave worden overheerst door de aanduidingen van de in het Meeteenhedenbesluit 2006 genoemde meeteenheden.
+- 2°. de aanduidingen in die andere meeteenheden bestaan uit tekens die ten hoogste even groot zijn als die waaruit de aanduidingen van de in het [Meeteenhedenbesluit 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0020422) genoemde meeteenheden bestaan en
+
+- 3°. de aanduidingen in die andere meeteenheden ten gevolge van hun plaats, uitvoering of wijze van weergave worden overheerst door de aanduidingen van de in het [Meeteenhedenbesluit 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0020422) genoemde meeteenheden.
 
 ##### Artikel 2
 
@@ -66,9 +68,7 @@ Automatische weeginstrumenten voor het sorteren van eieren zijn vrijgesteld van 
 
 ##### Artikel 4
 
-1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020568&artikel=1&z=2007-02-01&g=2007-02-01) dat in werking treedt op het tijdstip waarop [artikel 22 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=22) in werking treedt.
-
-2. Wijzigt deze regeling.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020568&artikel=1&z=2010-01-01&g=2010-01-01) dat in werking treedt op het tijdstip waarop [artikel 22 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=22) in werking treedt.
 
 ##### Artikel 5
 
