@@ -4,7 +4,7 @@ identifier: "BWBR0022997"
 country: "nl"
 rank: "zbo"
 publication_date: "2010-08-19"
-last_updated: "2007-12-14"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022997"
 soort: "zbo"
@@ -67,7 +67,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Einde verhoging bij volledige opname
 
-Indien de verzekerde volledig wordt opgenomen in een inrichting wordt de verhoging als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022997&artikel=2&z=2007-12-14&g=2007-12-14) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0022997&artikel=3&z=2007-12-14&g=2007-12-14) beëindigd ingaande de eerste dag van de tweede maand volgende op de maand waarin de opname in de inrichting plaatsvond.
+Indien de verzekerde volledig wordt opgenomen in een inrichting wordt de verhoging als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022997&artikel=2&z=2007-12-14&g=2010-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0022997&artikel=3&z=2007-12-14&g=2010-01-01) beëindigd ingaande de eerste dag van de tweede maand volgende op de maand waarin de opname in de inrichting plaatsvond.
 
 ##### Artikel 5. Intrekking besluit
 
