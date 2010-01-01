@@ -4,7 +4,7 @@ identifier: "BWBR0011522"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2000-08-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011522"
 soort: "ministeriele-regeling"
@@ -55,11 +55,13 @@ In deze regeling wordt verstaan onder:
 
 - •. lesgeldplichtige: degene die krachtens de wet lesgeld is verschuldigd,
 
+- •. **Minister:** Minister van Onderwijs, Cultuur en Wetenschap, en, voor wat betreft het landbouwonderwijs, de Minister van Landbouw, Natuur en Voedselkwaliteit,
+
 - •. schooljaar: tijdvak van 1 augustus tot en met 31 juli daaropvolgend.
 
 ##### Artikel 2. Onderwijskaart
 
-1. De onderwijskaart, bedoeld in artikel 2 van het besluit, bestaat uit 3, wat de gegevens betreft, gelijkluidende delen. Na inschrijving van de leerling is een deel bestemd voor de IB-Groep, een deel voor de lesgeldplichtige en een deel voor de dagschool waaraan de leerling is ingeschreven.
+1. De onderwijskaart, bedoeld in artikel 2 van het besluit, bestaat uit 3, wat de gegevens betreft, gelijkluidende delen. Na inschrijving van de leerling is een deel bestemd voor de Minister, een deel voor de lesgeldplichtige en een deel voor de dagschool waaraan de leerling is ingeschreven.
 
 2. De ingevulde onderwijskaart bevat naast de in artikel 2, vierde lid, van het besluit genoemde gegevens:
 
@@ -75,15 +77,15 @@ In deze regeling wordt verstaan onder:
 
 - f. ondertekening door de lesgeldplichtige.
 
-3. De IB-Groep draagt zorg voor tijdige verstrekking van onderwijskaarten aan de lesgeldplichtigen en aan de dagscholen.
+3. De Minister draagt zorg voor tijdige verstrekking van onderwijskaarten aan de lesgeldplichtigen en aan de dagscholen.
 
 ##### Artikel 3. Bewijs van uitschrijving
 
-1. Het bewijs van uitschrijving, bedoeld in artikel 3 van het besluit, bestaat uit 3, wat de gegevens betreft, gelijkluidende delen. Na inschrijving van de leerling is een deel bestemd voor de IB-Groep, een deel voor de lesgeldplichtige en een deel voor de dagschool waaraan de leerling was ingeschreven.
+1. Het bewijs van uitschrijving, bedoeld in artikel 3 van het besluit, bestaat uit 3, wat de gegevens betreft, gelijkluidende delen. Na inschrijving van de leerling is een deel bestemd voor de Minister, een deel voor de lesgeldplichtige en een deel voor de dagschool waaraan de leerling was ingeschreven.
 
 2. Het ingevulde bewijs van uitschrijving bevat de in artikel 3, tweede lid, van het besluit genoemde gegevens.
 
-3. Bewijzen van uitschrijving worden door de IB-Groep aan de dagscholen verstrekt.
+3. Bewijzen van uitschrijving worden door de Minister aan de dagscholen verstrekt.
 
 ##### Artikel 4. Termijnbetaling lesgeld bij inschrijving na 30 september
 
@@ -109,7 +111,7 @@ Onder bijzondere familieomstandigheden, bedoeld in de artikelen 7, tweede lid, o
 
 ##### Artikel 7. Over te leggen bewijsmiddelen bij aanvraag tot restitutie lesgeld
 
-1. Een aanvraag om teruggave van het lesgeld als bedoeld in artikel 7, derde lid, van het besluit wordt gedaan aan de IB-Groep.
+1. Een aanvraag om teruggave van het lesgeld als bedoeld in artikel 7, derde lid, van het besluit wordt gedaan aan de Minister.
 
 2. Bij een aanvraag om terugbetaling op grond van artikel 7, tweede lid, wordt overgelegd in geval van:
 
@@ -127,15 +129,15 @@ Onder bijzondere familieomstandigheden, bedoeld in de artikelen 7, tweede lid, o
 
 ##### Artikel 8. Informatieverplichtingen dagscholen
 
-1. Dagscholen zenden de IB-Groep in de periode vanaf de aanvang van het onderwijs na de zomervakantie tot 1 oktober ten minste wekelijks, op 4 oktober, en daarna telkens op elke eerste dag van de maand het voor de IB-Groep bestemde deel van de op grond van:
+1. Dagscholen zenden de Minister in de periode vanaf de aanvang van het onderwijs na de zomervakantie tot 1 oktober ten minste wekelijks, op 4 oktober, en daarna telkens op elke eerste dag van de maand het voor de Minister bestemde deel van de op grond van:
 
 - a. artikel 2 van het besluit ontvangen onderwijskaarten, en
 
 - b. artikel 3 van het besluit uitgereikte bewijzen van uitschrijving.
 
-2. Indien de leerling de opleiding met goed gevolg heeft afgesloten, zendt de dagschool de IB-Groep het desbetreffende deel van het bewijs van uitschrijving binnen een week na de dag waarop de examencommissie de uitslag heeft bekend gemaakt of waarop het praktijkonderwijs is geëindigd.
+2. Indien de leerling de opleiding met goed gevolg heeft afgesloten, zendt de dagschool de Minister het desbetreffende deel van het bewijs van uitschrijving binnen een week na de dag waarop de examencommissie de uitslag heeft bekend gemaakt of waarop het praktijkonderwijs is geëindigd.
 
-3. Binnen 4 weken na ontvangst retourneren de dagscholen aan de IB-Groep de hen ter controle toegezonden lijst waarop alle op 1 oktober van het schooljaar bij de dagschool ingeschreven leerlingen zijn vermeld.
+3. Binnen 4 weken na ontvangst retourneren de dagscholen aan de Minister de hen ter controle toegezonden lijst waarop alle op 1 oktober van het schooljaar bij de dagschool ingeschreven leerlingen zijn vermeld.
 
 ##### Artikel 9. Inschrijvingsformulier cursus
 
@@ -172,13 +174,5 @@ Onder bijzondere familieomstandigheden, bedoeld in de artikelen 7, tweede lid, o
 Deze regeling treedt in werking met ingang van 1 augustus 2000.
 
 ##### Artikel 12. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling Les- en cursusgeldwet.
-
-##### Artikel 13. Inwerkingtreding
-
-Deze regeling treedt in werking met ingang van 1 augustus 2000.
-
-##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Les- en cursusgeldwet.
