@@ -4,7 +4,7 @@ identifier: "BWBR0029375"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-02-24"
-last_updated: "2002-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029375"
 soort: "AMvB"
@@ -60,11 +60,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit fiscale eenheid 2003.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Met betrekking tot immateriële activa die na 31 december 2007, maar voor 1 januari 2010 tot de bedrijfsmiddelen van de belastingplichtige zijn gaan behoren en waarvoor aan hem een S&O-verklaring is afgegeven als bedoeld in de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746), blijven de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=7a) en [16a van het Besluit fiscale eenheid 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&artikel=16a) zoals deze luidden op 31 december 2009 van toepassing.
 
 ##### Artikel VI
 
@@ -116,7 +116,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
 ##### Artikel XIX
 
