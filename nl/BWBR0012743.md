@@ -4,7 +4,7 @@ identifier: "BWBR0012743"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-24"
-last_updated: "2008-11-12"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012743"
 soort: "ministeriele-regeling"
@@ -60,17 +60,13 @@ In deze regeling wordt verstaan onder:
 
 - 6º. valhelm of schuimhelm;
 
-- 7º. dwangjack;
-
-- 8º. veiligheidsbed.
+- 7º. dwangjack.
 
 ##### Artikel 2
 
-1. Als mechanisch middel in de zin van [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=38) worden slechts toegepast de in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012743&artikel=1&z=2008-11-12&g=2008-11-12), genoemde middelen.
+1. Als mechanisch middel in de zin van [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=38) worden slechts toegepast de in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012743&artikel=1&z=2010-01-01&g=2010-01-01), genoemde middelen.
 
 2. Indien de toestand van de jeugdige dit vereist, kunnen meerdere mechanische middelen tegelijkertijd worden toegepast.
-
-3. Toepassing van het veiligheidsbed vindt slechts plaats op een door de Minister, op grond van de [artikelen 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22a) en [22b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22b), als zodanig aangewezen afdeling voor intensieve zorg, dan wel afdeling voor intensieve behandeling.
 
 ##### Artikel 3
 
