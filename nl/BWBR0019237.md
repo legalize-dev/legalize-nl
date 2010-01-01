@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-07-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -75,7 +75,7 @@ Het verzoek, bedoeld in [artikel 8, derde lid, van de wet](https://wetten.overhe
 
 ##### Artikel 5. Melding wijziging omstandigheden
 
-1. Indien een voorschot op de tegemoetkoming is verleend en zich in het berekeningsjaar een wijziging van de omstandigheden voordoet waarmee bij het verlenen van het voorschot geen rekening is gehouden en die leidt tot beëindiging dan wel verlaging van de tegemoetkoming doet de belanghebbende daarvan binnen vier weken schriftelijk dan wel elektronisch mededeling aan de Belastingdienst/Toeslagen.
+1. Indien een voorschot op de tegemoetkoming is verleend en zich in het berekeningsjaar een wijziging van de omstandigheden voordoet waarmee bij het verlenen van het voorschot geen rekening is gehouden en die leidt tot beëindiging dan wel verlaging van de tegemoetkoming doet de belanghebbende, zijn partner of een medebewoner daarvan binnen vier weken schriftelijk dan wel elektronisch mededeling aan de Belastingdienst/Toeslagen.
 
 2. De wijzigingen, bedoeld in het eerste lid, zijn:
 
@@ -111,9 +111,11 @@ Het verzoek, bedoeld in [artikel 8, derde lid, van de wet](https://wetten.overhe
 
 - e. een wijziging van de tegemoetkoming van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=22) onderscheidenlijk [artikel 29, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=29).
 
+6. In afwijking in zoverre van het eerste lid kan van een wijziging als bedoeld in het tweede lid, onderdeel b, alsmede van wijzigingen die leiden tot een beëindiging van het voorschot op de tegemoetkoming ook telefonisch dan wel anderszins mondeling mededeling worden gedaan aan de Belastingdienst/Toeslagen.
+
 ##### Artikel 6. Gegevensverkeer bij betaling op andere bankrekening
 
-Indien op grond van [artikel 25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) de uitbetaling van een voorschot of een tegemoetkoming plaatsvindt op een andere bankrekening dan die van de belanghebbende of diens partner, vindt het gegevensverkeer met betrekking tot de uitbetaling tussen de Belastingdienst/Toeslagen en die rekeninghouder plaats met gebruikmaking van het sociaal-fiscaalnummer van de belanghebbende.
+Indien op grond van [artikel 25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) de uitbetaling van een voorschot of een tegemoetkoming plaatsvindt op een andere bankrekening dan die van de belanghebbende of diens partner, vindt het gegevensverkeer met betrekking tot de uitbetaling tussen de Belastingdienst/Toeslagen en die rekeninghouder plaats met gebruikmaking van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de belanghebbende.
 
 ##### Artikel 7. Uitstel van betaling in verband met betalingsproblemen
 
