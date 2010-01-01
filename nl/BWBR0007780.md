@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2009-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -102,17 +102,17 @@ Ingeval de vermindering op de voet van [artikel 6, derde lid, van de wet](https:
 
 1. Ingeval het loon niet per tijdseenheid wordt berekend, is bij de bepaling van de vermindering op de voet van [artikel 6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), [artikel 1, eerste lid, onderdeel c, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=1) niet van toepassing op dat loon. In dat geval vindt die vermindering, in afwijking van [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=6), inkomensevenredig plaats aan de hand van de verhouding van het in het loontijdvak ten minste op nihil te stellen genoten loon van de werknemer en het bedrag dat per kalenderjaar beloopt
 
-| Indien hij de leeftijd heeft bereikt van | doch niet de leeftijd van |   |
+| Indien hij de leeftijd heeft bereikt van | Doch niet de leeftijd van |   |
 | --- | --- | --- |
-| 15 jaren | 16 jaren: | € 5 316 |
-| 16 jaren | 17 jaren: | € 6 113 |
-| 17 jaren | 18 jaren: | € 6 999 |
-| 18 jaren | 19 jaren: | € 8 062 |
-| 19 jaren | 20 jaren: | € 9 303 |
-| 20 jaren | 21 jaren: | € 10 897 |
-| 21jaren | 22 jaren | € 12 846 |
-| 22 jaren | 23 jaren: | € 15 060 |
-| 23 jaren |   | € 17 718 |
+| 15 jaren | 16 jaren | € 5425 |
+| 16 jaren | 17 jaren | € 6238 |
+| 17 jaren | 18 jaren | € 7143 |
+| 18 jaren | 19 jaren | € 8228 |
+| 19 jaren | 20 jaren | € 9494 |
+| 20 jaren | 21 jaren | € 11121 |
+| 21 jaren | 22 jaren | € 13110 |
+| 22 jaren | 23 jaren | € 15370 |
+| 23 jaren |   | € 18082 |
 
 2. Ingeval het eerste lid toepassing vindt administreert de inhoudingsplichtige per werknemer en per tijdvak waarover de vermindering wordt toegepast de in het eerste lid, tweede volzin, bedoelde verhouding.
 
@@ -322,7 +322,7 @@ Zolang de inhoudingsplichtige nog niet beschikt over een door alle betrokken par
 
 - a. gegevens waaruit blijkt dat de werknemer een werkloze was op het tijdstip voorafgaand aan de aanvang van de dienstbetrekking;
 
-- b. het sociaal-fiscaalnummer van de werknemer.
+- b. het burgerservicenummer of, bij het ontbreken daarvan het sociaal-fiscaalnummer van de werknemer.
 
 ### Hoofdstuk IVA. Afdrachtvermindering scholing
 
@@ -330,7 +330,7 @@ Zolang de inhoudingsplichtige nog niet beschikt over een door alle betrokken par
 
 Vervallen
 
-### Hoofdstuk V. Afdrachtvermindering kinderopvang
+### Hoofdstuk IVA. Afdrachtvermindering scholing
 
 ##### Artikel 12c
 
@@ -358,7 +358,7 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk VI. Afdrachtvermindering zeevaart
+### Hoofdstuk VA. Afdrachtvermindering betaald ouderschapsverlof
 
 ##### Artikel 15
 
@@ -460,7 +460,7 @@ Voor de toepassing van de afdrachtvermindering zeevaart wordt een schip dat in d
 
 ### Hoofdstuk VIIA. Arbo-afdrachtvermindering
 
-### Hoofdstuk VIII. Overgangs- en slotbepalingen
+### Hoofdstuk VIIA. Arbo-afdrachtvermindering
 
 ##### Artikel 26b
 
@@ -481,6 +481,26 @@ Als instantie als bedoeld in [artikel 14, eerste lid, onderdeel h, van de wet](h
 ### Hoofdstuk V. Afdrachtvermindering kinderopvang
 
 ### Hoofdstuk VA. Afdrachtvermindering betaald ouderschapsverlof
+
+### Hoofdstuk VI. Afdrachtvermindering zeevaart
+
+### Hoofdstuk VII. S&O-afdrachtvermindering
+
+### Hoofdstuk VIII. Overgangs- en slotbepalingen
+
+##### Artikel 12cc
+
+1. Voor de toepassing van [artikel 14, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) worden als opleidingen aangewezen opleidingen die zijn opgenomen in het register, bedoeld in [artikel 6.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1), of in het register, bedoeld in [artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52).
+
+2. Voor de toepassing van [artikel 14, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) wordt per werknemer in de loonadministratie vastgelegd:
+
+- a. een bewijs van het opleidingsniveau waarover de werknemer bij aanvang van de opleiding beschikt;
+
+- b. het bewijs van inschrijving dat ten minste bevat de naam van de instelling waar de werknemer de opleiding aanvangt, alsmede de naam van de opleiding en de duur hiervan.
+
+3. De inschrijving, bedoeld in het tweede lid, onderdeel b, ziet op deelname aan ten minste een kwart van de gehele opleiding.
+
+### Hoofdstuk V. Afdrachtvermindering kinderopvang
 
 ### Hoofdstuk VI. Afdrachtvermindering zeevaart
 
