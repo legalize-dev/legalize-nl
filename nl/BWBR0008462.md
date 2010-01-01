@@ -4,7 +4,7 @@ identifier: "BWBR0008462"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-01-18"
-last_updated: "2004-03-26"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008462"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluiten:
 
 ##### Artikel 1
 
-1. Van de volgende gemeentelijke belastingen wordt in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=II&artikel=2&z=2004-03-26&g=2004-03-26) vrijstelling verleend:
+1. Van de volgende gemeentelijke belastingen wordt in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=II&artikel=2&z=2010-01-01&g=2010-01-01) vrijstelling verleend:
 
 - a. de onroerende-zaakbelasting ter zake van het gebruik van onroerende zaken;
 
@@ -66,7 +66,7 @@ Besluiten:
 
 ##### Artikel 2
 
-1. Een vrijstelling van een belasting, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2004-03-26&g=2004-03-26), ten behoeve van een diplomatieke of consulaire vertegenwoordiging, wordt uitsluitend verleend voor zover die belasting betrekking heeft op belastbare feiten die zich voordoen in het kader van de officiële werkzaamheden van die diplomatieke of consulaire vertegenwoordiging.
+1. Een vrijstelling van een belasting, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2010-01-01&g=2010-01-01), ten behoeve van een diplomatieke of consulaire vertegenwoordiging, wordt uitsluitend verleend voor zover die belasting betrekking heeft op belastbare feiten die zich voordoen in het kader van de officiële werkzaamheden van die diplomatieke of consulaire vertegenwoordiging.
 
 2. Onder de officiële werkzaamheden van de diplomatieke of consulaire vertegenwoordiging, bedoeld in het eerste lid, wordt mede verstaan het huisvesten van haar leden.
 
@@ -74,9 +74,9 @@ Besluiten:
 
 ##### Artikel 3
 
-1. Van de in [artikel 1, eerste lid, onderdelen a, b, c, d, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2004-03-26&g=2004-03-26), genoemde belastingen, zijn vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere mogendheden en hun hoofden, met uitzondering van de honoraire consuls.
+1. Van de in [artikel 1, eerste lid, onderdelen a, b, c, d, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2010-01-01&g=2010-01-01), genoemde belastingen, zijn vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere mogendheden en hun hoofden, mits zij geen Nederlander zijn en zij niet duurzaam verblijf houden in Nederland. Honoraire consuls genieten deze vrijstellingen niet.
 
-2. Van de in [artikel 1, eerste lid, onderdelen a, c, e, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2004-03-26&g=2004-03-26), genoemde belastingen zijn vrijgesteld de leden van diplomatieke en consulaire vertegenwoordigingen van andere mogendheden, met uitzondering van de honoraire consulaire ambtenaren, mits zij geen Nederlander zijn en zij niet duurzaam verblijf houden in Nederland.
+2. Van de in [artikel 1, eerste lid, onderdelen a, c, e, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2010-01-01&g=2010-01-01), genoemde belastingen zijn vrijgesteld de leden van diplomatieke en consulaire vertegenwoordigingen van andere mogendheden, mits zij geen Nederlander zijn en zij niet duurzaam verblijf houden in Nederland. Honoraire consuls genieten deze vrijstellingen niet.
 
 3. Een in het tweede lid genoemde vrijstelling ten aanzien van de leden, wordt mede toegepast ten aanzien van de bij hen inwonende gezinsleden en ten aanzien van hun particuliere bedienden.
 
@@ -86,7 +86,7 @@ Besluiten:
 
 ##### Artikel 4
 
-1. Van de in [artikel 1, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2004-03-26&g=2004-03-26), genoemde belastingen zijn, voor zover van toepassing, vrijgesteld:
+1. Van de in [artikel 1, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2010-01-01&g=2010-01-01), genoemde belastingen zijn, voor zover van toepassing, vrijgesteld:
 
 - a. de Carnegie-Stichting te Den Haag, ter zake van het Vredespaleis;
 
@@ -94,45 +94,39 @@ Besluiten:
 
 - c. het Koninkrijk België, ter zake van de onroerende zaken gelegen te Vlissingen, in gebruik bij het Belgische Loodswezen;
 
-- d. het Benelux-Merkenbureau en het Benelux Bureau voor Tekeningen en Modellen, ter zake van de onroerende zaak, gelegen te Den Haag, Bordewijklaan 15;
+- d. Benelux-Bureau voor de Intellectuele Eigendom, ter zake van de onroerende zaak, gelegen te Den Haag, Bordewijklaan 15;
 
-- e. de Vlaamse Gemeenschap in Nederland te Amsterdam, ter zake van de onroerende zaken, gelegen te Amsterdam, Nes 43, Nes 43 AA, Nes 43 II, Nes 45, Oudezijds Voorburgwal 276 en Sint Pietershalsteeg 2;
+- e. de Stichting Haagsche Academie voor Internationaal Recht, ter zake van het Vredespaleis te Den Haag;
 
-- f. de Stichting Haagsche Academie voor Internationaal Recht, ter zake van het Vredespaleis te Den Haag;
+- f. de stichting Institut Français des Pays-Bas, ter zake van de onroerende zaken gelegen te Amsterdam, Vijzelgracht 2A;
 
-- g. de stichting Institut Français des Pays-Bas, ter zake van de onroerende zaken gelegen te Amsterdam, Vijzelgracht 2A, en te Den Haag, Nieuwe Uitleg 10;
+- g. de Republiek Frankrijk, ter zake van de onroerende zaken, gelegen te Amsterdam, Vijzelgracht 2A, zolang deze onroerende zaken in gebruik zijn bij het Institut Français des Pays-Bas;
 
-- h. de Republiek Frankrijk, ter zake van de onroerende zaken, gelegen te Amsterdam, Vijzelgracht 2A, en te Den Haag, Nieuwe Uitleg 10, zolang deze onroerende zaken in gebruik zijn bij het Institut Français des Pays-Bas;
+- h. het Goethe Institut Nederland, ter zake van de onroerende zaken gelegen te Amsterdam, Herengracht 470, en te Rotterdam, Westersingel 9.
 
-- i. het Goethe Institut Nederland, ter zake van de onroerende zaken gelegen te Amsterdam, Herengracht 470, en te Rotterdam, Westersingel 9.
+- i. het Instituto Cervantes, ter zake van de onroerende zaak, gelegen te Utrecht, Domplein 3;
 
-- j. het Instituto Cervantes, ter zake van de onroerende zaak, gelegen te Utrecht, Domplein 3;
+- j. de Bondsrepubliek Duitsland, ter zake van de onroerende zaken, gelegen te Amsterdam, Herengracht 470, en te Rotterdam, Westersingel 9, zolang deze zaken in gebruik zijn bij het Goethe Institut Nederland.
 
-- k. de Bondsrepubliek Duitsland, ter zake van de onroerende zaken, gelegen te Amsterdam, Herengracht 470, en te Rotterdam, Westersingel 9, zolang deze zaken in gebruik zijn bij het Goethe Institut Nederland.
+- k. The British Council, ter zake van de onroerende zaak, gelegen te Amsterdam, Keizersgracht 343;
 
-- l. The British Council, ter zake van de onroerende zaak, gelegen te Amsterdam, Keizersgracht 343;
+- l. het Koninkrijk België, ter zake van de onroerende zaken in gebruik bij de douane-autoriteiten van die mogendheid op grond van het Verdrag tussen Nederland en België, nopens samenvoeging van douanebehandeling aan de Nederlands-Belgische grens, van 13 april 1948 (Trb. 1951, 128);
 
-- m. het Koninkrijk België, ter zake van de onroerende zaken in gebruik bij de douane-autoriteiten van die mogendheid op grond van het Verdrag tussen Nederland en België, nopens samenvoeging van douanebehandeling aan de Nederlands-Belgische grens, van 13 april 1948 (Trb. 1951, 128);
+- m. de Bondsrepubliek Duitsland, ter zake van de onroerende zaken in gebruik bij de douane-autoriteiten van die mogendheid op grond van de overeenkomst tussen Nederland en de Bondsrepubliek Duitsland, nopens de samenvoeging van de grenscontrole, enzovoort, van 30 mei 1958 (Trb. 1958, 81);
 
-- n. de Bondsrepubliek Duitsland, ter zake van de onroerende zaken in gebruik bij de douane-autoriteiten van die mogendheid op grond van de overeenkomst tussen Nederland en de Bondsrepubliek Duitsland, nopens de samenvoeging van de grenscontrole, enzovoort, van 30 mei 1958 (Trb. 1958, 81);
-
-- o. Het Europees Instituut voor Bestuurskunde ter zake van de onroerende zaken gelegen in de gemeente Maastricht, Onze Lieve Vrouweplein 22, 22a, 22c en 23 en Hondstraat 17 en 19.
+- n. Het Europees Instituut voor Bestuurskunde ter zake van de onroerende zaken gelegen in de gemeente Maastricht, Onze Lieve Vrouweplein 22, 22a, 22c en 23 en Hondstraat 17 en 19.
 
 2. Met betrekking tot de onroerende zaak, genoemd in het eerste lid, wordt een vrijstelling van een belasting uitsluitend verleend voor zover de onroerende zaak niet dient tot woning.
 
-3. Een vrijstelling als bedoeld in het eerste lid, onderdelen c, e, g, h, i, j, k, l, m en n wordt niet verleend in de gevallen waarin de Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft verklaard dat ter zake van die vrijstelling de wederkerigheid niet is gewaarborgd.
+3. Een vrijstelling als bedoeld in het eerste lid, onderdelen c, f, g, h, i, j, k, l, en n wordt niet verleend in de gevallen waarin de Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft verklaard dat ter zake van die vrijstelling de wederkerigheid niet is gewaarborgd.
 
 ##### Artikel 5
 
-1. Van de in [artikel 1, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2004-03-26&g=2004-03-26), genoemde belastingen zijn vrijgesteld:
+1. Van de in [artikel 1, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2010-01-01&g=2010-01-01), genoemde belastingen zijn vrijgesteld:
 
 - a. leden van een krijgsmacht, een civiele dienst en hun gezinsleden als bedoeld in artikel I, eerste lid, letters a, b, en c van het Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten;
 
-- b. leden van het burgerpersoneel in dienst van een Geallieerd Hoofdkwartier, en de gezinsleden van zodanig personeel als bedoeld in artikel 3, eerste lid, letters b en c, van het Protocol nopens de rechtspositie van internationale militaire hoofdkwartieren, ingesteld uit hoofde van het Noord-Atlantisch Verdrag (Parijs, 28 augustus 1952, Trb. 1953, 11);
-
-- c. personen in dienst van de Noord-Atlantische Verdragsorganisatie, daaronder mede begrepen personen, genoemd in paragraaf 8 van de Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Noord-Atlantische Verdragsorganisatie van 31 augustus en 11 september 1979, alsmede hun inwonende gezinsleden;
-
-- d. de strijdkrachten van vreemde mogendheden die partij zijn bij het Noord-Atlantisch Verdrag (Stb. J355 en J416).
+- b. leden van het burgerpersoneel in dienst van een Internationaal Militair Hoofdkwartier of een Internationale Militaire Organisatie, leden van een krijgsmacht werkzaam bij een Internationaal Militair Hoofdkwartier of een Internationale Militaire Organisatie, en de gezinsleden van zodanig personeel als bedoeld in artikel 3, eerste lid, letters b en c, van het Protocol nopens de rechtspositie van internationale militaire hoofdkwartieren, ingesteld uit hoofde van het Noord-Atlantisch Verdrag (Parijs, 28 augustus 1952, Trb. 1953, 11).
 
 2. Personen die Nederlander zijn, en personen die in Nederland duurzaam verblijf houden, zijn van de vrijstelling, genoemd in het eerste lid, uitgezonderd.
 
