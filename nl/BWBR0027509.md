@@ -55,9 +55,3 @@ In dit besluit wordt verstaan onder Toetsingscommissie Wet werk en bijstand: de 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Deze regeling wordt aangehaald als: Besluit vaststelling vergoeding voorzitter en leden Toetsingscommissie aanvullende uitkeringen Participatiewet.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
