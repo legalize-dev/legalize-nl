@@ -4,7 +4,7 @@ identifier: "BWBR0029226"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2009-12-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029226"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel I. Wijziging van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Kinderbijslagwet.
 
 ##### Artikel II. Wijziging van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
@@ -53,7 +53,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. Wijziging van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Ouderdomswet.
 
 ##### Artikel IV. Wijziging van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809)
 
@@ -61,7 +61,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. Wijziging van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Toeslagenwet.
 
 ##### Artikel VI. Wijziging van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
@@ -81,7 +81,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
 ##### Artikel X. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
@@ -93,7 +93,7 @@ Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
 ##### Artikel XII. Wijziging van de [Wet investeren in jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026054)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet investeren in jongeren.
 
 ##### Artikel XIII. Wijziging van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
@@ -125,11 +125,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel XXI. Wijziging van de [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en inkomen kunstenaars.
 
 ##### Artikel XXII. Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
