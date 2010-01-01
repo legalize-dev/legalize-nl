@@ -4,7 +4,7 @@ identifier: "BWBR0024275"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2008-08-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024275"
 soort: "ministeriele-regeling"
@@ -94,9 +94,9 @@ Argentinië, Aruba, Australië, Brazilië, Canada, Frans Polynesië, Guernsey, H
 
 - d. een document waaruit blijkt dat een zelfstandig onderdeel van een kerkgenootschap als bedoeld in onderdeel c deel uitmaakt van dat kerkgenootschap en het kerkgenootschap voldoet aan het bepaalde in onderdeel c.
 
-3. De identiteit van een cliënt als bedoeld in [artikel 11, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=11) kan worden geverifieerd aan de hand van documenten, gegevens of inlichtingen uit betrouwbare en onafhankelijke bron.
+3. De identiteit van een cliënt als bedoeld in [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=11) kan worden geverifieerd aan de hand van documenten, gegevens of inlichtingen uit betrouwbare en onafhankelijke bron.
 
-4. Onverminderd het vierde lid kan de identiteit van een vereniging van eigenaars als bedoeld in [artikel 112, eerste lid, onderdeel e, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=112) worden geverifieerd aan de hand van de statuten van die vereniging die deel uitmaken van het reglement van de akte van splitsing als bedoeld in [artikel 111 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=111).
+4. Onverminderd het derde lid kan de identiteit van een vereniging van eigenaars als bedoeld in [artikel 112, eerste lid, onderdeel e, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=112) worden geverifieerd aan de hand van de statuten van die vereniging die deel uitmaken van het reglement van de akte van splitsing als bedoeld in [artikel 111 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=111).
 
 ##### Artikel 5
 
