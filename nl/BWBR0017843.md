@@ -4,7 +4,7 @@ identifier: "BWBR0017843"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-03"
-last_updated: "2009-04-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017843"
 soort: "AMvB"
@@ -50,27 +50,25 @@ Hebben goedgevonden en verstaan:
 
 1. Dit besluit is van toepassing op een naamloze vennootschap waarvan aandelen of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of een met een gereglementeerde markt vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1). Dit besluit is niet van toepassing op een beleggingsmaatschappij, bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) die geen beheerder is als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
-2. Dit besluit, met uitzondering van [artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2009-04-01&g=2009-04-01), is van toepassing op een naamloze vennootschap waarvan uitsluitend effecten, niet zijnde aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en waarvan tevens aandelen worden verhandeld op een multilaterale handelsfaciliteit als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+2. Dit besluit, met uitzondering van [artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2010-01-01&g=2010-01-01), is van toepassing op een naamloze vennootschap waarvan uitsluitend effecten, niet zijnde aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en waarvan tevens aandelen worden verhandeld op een multilaterale handelsfaciliteit als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
-3. Een naamloze vennootschap waarvan uitsluitend effecten, niet zijnde aandelen, zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), is vrijgesteld van toepassing van [artikel 2a lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2009-04-01&g=2009-04-01) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2009-04-01&g=2009-04-01) en [3a onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3a&z=2009-04-01&g=2009-04-01), tenzij van deze vennootschap aandelen zijn toegelaten tot de handel op een multilaterale handelsfaciliteit als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+3. Een naamloze vennootschap waarvan uitsluitend effecten, niet zijnde aandelen, zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), is vrijgesteld van toepassing van [artikel 2a lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2010-01-01&g=2010-01-01) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2010-01-01&g=2010-01-01) en [3a onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3a&z=2010-01-01&g=2010-01-01), tenzij van deze vennootschap aandelen zijn toegelaten tot de handel op een multilaterale handelsfaciliteit als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
 ##### Artikel 2
 
-Als gedragscode bedoeld in [artikel 391 lid 4 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391) wordt aangewezen de Nederlandse corporate governance code zoals gepubliceerd in Staatscourant nr. 250 d.d. 27 december 2004.
+Als gedragscode bedoeld in [artikel 391 lid 5 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391) wordt aangewezen de Nederlandse corporate governance code zoals gepubliceerd in Staatscourant nr. 18499 d.d. 3 december 2009.
 
 ##### Artikel 3
 
-1. De naamloze vennootschap doet mededeling over de naleving van de principes en best practice bepalingen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2009-04-01&g=2009-04-01) aangewezen gedragscode die zijn gericht tot het bestuur of de raad van commissarissen van de vennootschap. Indien de vennootschap die principes of best practice bepalingen niet heeft nageleefd of niet voornemens is deze in het lopende en daaropvolgende boekjaar na te leven, doet zij daarvan gemotiveerd opgave.
+1. De naamloze vennootschap doet mededeling over de naleving van de principes en best practice bepalingen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2010-01-01&g=2010-01-01) aangewezen gedragscode die zijn gericht tot het bestuur of de raad van commissarissen van de vennootschap. Indien de vennootschap die principes of best practice bepalingen niet heeft nageleefd of niet voornemens is deze in het lopende en daaropvolgende boekjaar na te leven, doet zij daarvan gemotiveerd opgave.
 
-2. Lid 1 is ook van toepassing op een andere gedragscode die de naamloze vennootschap vrijwillig naleeft en op alle relevante informatie over de corporate-governancepraktijken die anders dan krachtens wettelijke bepaling worden toegepast naast de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2009-04-01&g=2009-04-01) genoemde gedragscode.
+2. Lid 1 is ook van toepassing op een andere gedragscode die de naamloze vennootschap vrijwillig naleeft en op alle relevante informatie over de corporate-governancepraktijken die anders dan krachtens wettelijke bepaling worden toegepast naast de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2010-01-01&g=2010-01-01) genoemde gedragscode.
 
-3. Bij de mededeling, bedoeld in lid 1 vermeldt de naamloze vennootschap waar de tekst van de gedragscodes, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2009-04-01&g=2009-04-01) respectievelijk in lid 2, voor het publiek beschikbaar is. In geval van de naleving van de corporate-governancepraktijken, bedoeld in lid 2, maakt de naamloze vennootschap deze beschikbaar voor het publiek.
+3. Bij de mededeling, bedoeld in lid 1 vermeldt de naamloze vennootschap waar de tekst van de gedragscodes, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2&z=2010-01-01&g=2010-01-01) respectievelijk in lid 2, voor het publiek beschikbaar is. In geval van de naleving van de corporate-governancepraktijken, bedoeld in lid 2, maakt de naamloze vennootschap deze beschikbaar voor het publiek.
 
 ##### Artikel 4
 
-1. Dit besluit is van toepassing op een jaarverslag dat betrekking heeft op een boekjaar dat aanvangt op of na 1 januari 2004.
-
-2. [Artikel 1 leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=1&z=2009-04-01&g=2009-04-01), [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2009-04-01&g=2009-04-01), [artikel 3 leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2009-04-01&g=2009-04-01) en de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3a&z=2009-04-01&g=2009-04-01), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3b&z=2009-04-01&g=2009-04-01) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3c&z=2009-04-01&g=2009-04-01) zijn van toepassing op jaarverslagen die betrekking hebben op de boekjaren die zijn aangevangen op of na 1 april 2008.
+De artikelen van dit besluit zijn van toepassing op een jaarverslag dat betrekking heeft op een boekjaar dat aanvangt op of na 1 januari 2009.
 
 ##### Artikel 5
 
@@ -86,7 +84,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. langs elektronische weg waardoor de verklaring rechtstreeks en permanent toegankelijk is, mits de naamloze vennootschap in het jaarverslag vermeldt waar de verklaring voor het publiek elektronisch beschikbaar is.
 
-2. De verklaring bevat ten minste de mededelingen, genoemd in de [artikelen 3 tot en met 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2009-04-01&g=2009-04-01).
+2. De verklaring bevat ten minste de mededelingen, genoemd in de [artikelen 3 tot en met 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3&z=2010-01-01&g=2010-01-01).
 
 3. Indien gebruik wordt gemaakt van de mogelijkheid van lid 1, onder b, wordt de verklaring geacht onderdeel uit te maken van het jaarverslag.
 
@@ -102,12 +100,12 @@ De naamloze vennootschap doet mededeling omtrent:
 
 ##### Artikel 3b
 
-Voor zover het [Besluit artikel 10 overnamerichtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0019731) van toepassing is op de naamloze vennootschap, neemt zij in de verklaring, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2009-04-01&g=2009-04-01), de mededeling op die zij moet doen ingevolge [artikel 1 lid 1, onderdelen c, d, f, h en i, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019731&artikel=1) en neemt zij de gegevens op, genoemd in [artikel 392 lid 1, onder e, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392). Indien de verklaring wordt afgelegd op een wijze als bedoeld in [artikel 2a lid 1 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2009-04-01&g=2009-04-01), kan de verklaring een verwijzing bevatten naar het jaarverslag waar de mededelingen en de gegevens krachtens het [Besluit artikel 10 overnamerichtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0019731) en [artikel 392 lid 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392), beschikbaar zijn.
+Voor zover het [Besluit artikel 10 overnamerichtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0019731) van toepassing is op de naamloze vennootschap, neemt zij in de verklaring, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2010-01-01&g=2010-01-01), de mededeling op die zij moet doen ingevolge [artikel 1 lid 1, onderdelen c, d, f, h en i, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019731&artikel=1) en neemt zij de gegevens op, genoemd in [artikel 392 lid 1, onder e, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392). Indien de verklaring wordt afgelegd op een wijze als bedoeld in [artikel 2a lid 1 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2010-01-01&g=2010-01-01), kan de verklaring een verwijzing bevatten naar het jaarverslag waar de mededelingen en de gegevens krachtens het [Besluit artikel 10 overnamerichtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0019731) en [artikel 392 lid 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392), beschikbaar zijn.
 
 ##### Artikel 3c
 
-1. Bij zijn onderzoek of het jaarverslag met de jaarrekening verenigbaar is, als bedoeld in [artikel 393 lid 3 van Boek 2 van het Burgerlijke wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), betrekt de accountant ook de mededeling en de gegevens die krachtens [artikel 3a, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3a&z=2009-04-01&g=2009-04-01), en [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3b&z=2009-04-01&g=2009-04-01) in de verklaring inzake corporate governance worden opgenomen.
+1. Bij zijn onderzoek of het jaarverslag met de jaarrekening verenigbaar is, als bedoeld in [artikel 393 lid 3 van Boek 2 van het Burgerlijke wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), betrekt de accountant ook de mededeling en de gegevens die krachtens [artikel 3a, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3a&z=2010-01-01&g=2010-01-01), en [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=3b&z=2010-01-01&g=2010-01-01) in de verklaring inzake corporate governance worden opgenomen.
 
-2. Ten aanzien van de overige mededelingen die krachtens dit besluit in de verklaring, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2009-04-01&g=2009-04-01), opgenomen dienen te worden, gaat de accountant na of zij zijn opgenomen.
+2. Ten aanzien van de overige mededelingen die krachtens dit besluit in de verklaring, genoemd in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0017843&artikel=2a&z=2010-01-01&g=2010-01-01), opgenomen dienen te worden, gaat de accountant na of zij zijn opgenomen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
