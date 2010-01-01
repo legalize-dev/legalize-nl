@@ -4,7 +4,7 @@ identifier: "BWBR0024235"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-10"
-last_updated: "2009-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024235"
 soort: "AMvB"
@@ -254,13 +254,13 @@ Onze minister is bevoegd:
 
 - c. regelen te stellen met betrekking tot de aanspraak op restitutie of subsidie, de bij het aanvragen daarvan te verstrekken gegevens of over te leggen bewijsstukken, de vaststelling van de grondslagen waarnaar de berekening van de uit te keren bedragen plaatsvindt en de wijze van verstrekking van de restituties;
 
-- d. sancties op te leggen als bedoeld in de artikelen 51 en 52 van [verordening (EG) nr. 800/1999](31999R0800).
+- d. sancties op te leggen als bedoeld in de artikelen 48 en 49 van verordening (EG) nr. 612/2009 van de Commissie van 7 juli 2009 houdende gemeenschappelijke uitvoeringsbepalingen van het stelsel van restituties bij uitvoer voor landbouwproducten (PbEU L 186).
 
 ##### Artikel 3:4
 
-1. Onze minister kan bevoegdheden welke hem ingevolge de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2009-01-01&g=2009-01-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2009-01-01&g=2009-01-01) toekomen, aan het bestuur van een door hem aan te wijzen bedrijfslichaam overdragen.
+1. Onze minister kan bevoegdheden welke hem ingevolge de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2010-01-01&g=2010-01-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2010-01-01&g=2010-01-01) toekomen, aan het bestuur van een door hem aan te wijzen bedrijfslichaam overdragen.
 
-2. Wanneer een bestuur van een bedrijfslichaam ingevolge het eerste lid wordt aangewezen, kan het desbetreffende bestuur bij verordening, voor zover het voor een goede uitvoering van een communautaire verplichting nodig is, met betrekking tot de uitoefening van de bevoegdheden, bedoeld in de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2009-01-01&g=2009-01-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2009-01-01&g=2009-01-01), nadere regels stellen. Zodanige verordening behoeft de goedkeuring van Onze minister.
+2. Wanneer een bestuur van een bedrijfslichaam ingevolge het eerste lid wordt aangewezen, kan het desbetreffende bestuur bij verordening, voor zover het voor een goede uitvoering van een communautaire verplichting nodig is, met betrekking tot de uitoefening van de bevoegdheden, bedoeld in de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2010-01-01&g=2010-01-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2010-01-01&g=2010-01-01), nadere regels stellen. Zodanige verordening behoeft de goedkeuring van Onze minister.
 
 ### Hoofdstuk 4. Administratie
 
@@ -290,11 +290,11 @@ Indien de belanghebbende, bedoeld in artikel 799 van de Toepassingsverordening C
 
 ##### Artikel 6:2
 
-Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2009-01-01&g=2009-01-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
+Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2010-01-01&g=2010-01-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
 
 ##### Artikel 6:3
 
-Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2009-01-01&g=2009-01-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
+Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2010-01-01&g=2010-01-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
@@ -304,11 +304,11 @@ De belanghebbende, bedoeld in artikel 799 van de Toepassingsverordening Communau
 
 ##### Artikel 7:2
 
-Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2009-01-01&g=2009-01-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2010-01-01&g=2010-01-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ##### Artikel 7:3
 
-Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2009-01-01&g=2009-01-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2010-01-01&g=2010-01-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -319,5 +319,15 @@ Dit besluit treedt in werking op het tijdstip waarop de Algemene douanewet in we
 ##### Artikel 8:2
 
 Dit besluit wordt aangehaald als: Algemeen douanebesluit.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6:4
+
+De in de [artikelen 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:1&z=2010-01-01&g=2010-01-01), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2010-01-01&g=2010-01-01) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2010-01-01&g=2010-01-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
+
+### Hoofdstuk 7. Strafrechtelijke bepalingen
+
+### Hoofdstuk 8. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
