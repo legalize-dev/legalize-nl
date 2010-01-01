@@ -4,7 +4,7 @@ identifier: "BWBR0010120"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-09-01"
-last_updated: "1998-12-31"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010120"
 soort: "AMvB"
@@ -49,7 +49,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Uitbreiding van de kring van studerenden
 
-Voor de toepassing van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt mede verstaan onder studerende: de persoon die niet op grond van [artikel 5, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=5) als studerende wordt aangemerkt en werkzaam is om vakbekwaamheid te verwerven, onder wie mede wordt begrepen de persoon, die als leerling van een instelling van onderwijs praktisch werkzaam is, alsmede de persoon die aan een bedrijfsschool opleiding ontvangt.
+Voor de toepassing van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt mede verstaan onder studerende: de persoon die niet op grond van [artikel 1:4, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4) als studerende wordt aangemerkt en werkzaam is om vakbekwaamheid te verwerven, onder wie mede wordt begrepen de persoon, die als leerling van een instelling van onderwijs praktisch werkzaam is, alsmede de persoon die aan een bedrijfsschool opleiding ontvangt.
 
 ##### Artikel 2. Inwerkingtreding
 
@@ -59,6 +59,6 @@ Voor de toepassing van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapt
 
 ##### Artikel 3. Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit uitbreiding kring studerenden Wajong.
+Dit besluit wordt aangehaald als: Besluit uitbreiding kring studerenden Wet Wajong.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
