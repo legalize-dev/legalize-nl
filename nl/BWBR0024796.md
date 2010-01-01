@@ -4,7 +4,7 @@ identifier: "BWBR0024796"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-03-09"
-last_updated: "2009-01-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024796"
 soort: "AMvB"
@@ -54,19 +54,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **algemene groepsvrijstellingsverordening:** [verordening (EG) nr. 800/2008](32008R0800) van de Commissie van de Europese Gemeenschappen van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard («de algemene groepsvrijstellingsverordening») (PbEU L 214);
 
-- –. **algemene opleiding:** een algemene opleiding als bedoeld in artikel 38, onderdeel 2, van de algemene groepsvrijstellingsverordening;
-
 - –. **bank:** een kredietinstelling die voldoet aan de omschrijving van bank als vermeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en die bevoegd is in een lidstaat van de Europese Unie het bedrijf van bank uit te oefenen;
 
 - –. **de-minimis verordening:** [verordening (EG) nr. 1998/2006](32006R1998) van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L379) ), [verordening (EG) nr. 1535/2007](32007R1535) van de Commissie van de Europese Gemeenschappen van 20 december 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwproductiesector (PbEU L 337) en [verordening (EG) nr. 875/2007](32007R0875) van de Commissie van de Europese Gemeenschappen van 24 juli 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwsector en de visserijsector (PbEU L 193);
 
-- –. **experimentele ontwikkeling:** experimentele ontwikkeling als bedoeld in paragraaf 2.2, onder g, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);
-
 - –. **Europees steunkader:** een mededeling, richtsnoer, kaderregeling, beschikking of vrijstellingsverordening op het gebied van staatssteun die de Commissie van de Europese Gemeenschappen, gelet op de artikelen 86, derde lid , 87 en 88 van het EG-Verdrag heeft vastgesteld
 
 - –. **financier:** een bank of een participatiemaatschappij of een andere, door Onze Minister aangewezen instelling;
-
-- –. **fundamenteel onderzoek:** fundamenteel onderzoek als bedoeld in paragraaf 2.2, onder e, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);
 
 - –. **groep:** een economische eenheid, waarin organisatorisch zijn verbonden:
 
@@ -79,16 +73,6 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 - 3°. overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en
 
 - b. laatstbedoelde rechtspersonen of vennootschappen;
-
-- –. **hooggekwalificeerd personeel:** hooggekwalificeerd personeel als bedoeld in paragraaf 2.2, onderdeel k, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);
-
-- –. **industrieel onderzoek:** industrieel onderzoek als bedoeld in paragraaf 2.2, onderdeel f, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);
-
-- –. **innovatieadviesdienst:** een innovatieadviesdienst in de zin van paragraaf 5.6, eerste gedachtestreepje van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);
-
-- –. **innovatiecluster:** een innovatiecluster als bedoeld in paragraaf 2.2, onderdeel m, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);
-
-- –. **innovatieve starter:** een innovatieve starter als bedoeld in paragraaf 5.4 van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);
 
 - –. **kapitaalvennootschap:**
 
@@ -116,13 +100,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **samenwerkingsverband:** een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee niet in een groep verbonden deelnemers, dat is opgericht ten behoeve van de uitvoering van activiteiten, niet zijnde een vennootschap;
 
-- –. **specifieke opleiding:** een specifieke opleiding als bedoeld in artikel 38, onderdeel 1, van de algemene groepsvrijstellingsverordening;
-
 - –. **specifieke uitkering:** een subsidie aan een provincie, gemeente of openbaar lichaam als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) die tevens een specifieke uitkering is als bedoeld in de [Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290);
 
 - –. **subsidie aan een financier:** een subsidie, verstrekt aan een financier, met als doel om kapitaal te doen verstrekken aan ondernemingen;
-
-- –. **technische haalbaarheidsstudie:** technische haalbaarheidsstudie in de zin van paragraaf 5.2 van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);
 
 - –. **universiteit:** een [onder a of b van de bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde instelling voor hoger onderwijs, alsmede een [onder i van de bijlage van die wet](onbekend) genoemd academisch ziekenhuis;
 
@@ -132,17 +112,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Subsidies op het gebied van:
-
-- a. het technologiebeleid, met uitzondering van het beleid op het gebied van lucht- en ruimtevaart, civiele vliegtuigontwikkeling en innovatieve zeescheepsbouw,
-
-- b. het beleid met betrekking tot energiebesparing en duurzame energie voor zover het betreft subsidies verstrekt aan een financier,
-
-- c. het beleid met betrekking tot het midden- en kleinbedrijf en
-
-- d. het ruimtelijk economisch beleid, met uitzondering van het [Besluit subsidies regionale investeringsprojecten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011582),
-
-worden verstrekt volgens de regels van dit besluit.
+1. Subsidies die worden verstrekt krachtens een ministeriële regeling op de gebieden, genoemd in [artikel 2 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2), worden verstrekt volgens de regels van dit besluit.
 
 2. Onze Minister kan op aanvraag voor de activiteiten op de gebieden, genoemd in het eerste lid, subsidie verstrekken volgens bij ministeriële regeling bepaalde regels.
 
@@ -156,6 +126,8 @@ worden verstrekt volgens de regels van dit besluit.
 
 5. Onder dit besluit vallen niet specifieke uitkeringen die verstrekt worden op grond van een regeling die uitsluitend voorziet in het verstrekken van specifieke uitkeringen.
 
+6. Dit besluit is niet van toepassing op subsidies krachtens het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735).
+
 ##### Artikel 3
 
 1. Een subsidie wordt verstrekt aan een in Nederland gevestigde natuurlijke persoon, rechtspersoon of vennootschap die voor eigen rekening en risico activiteiten uitvoert.
@@ -163,6 +135,8 @@ worden verstrekt volgens de regels van dit besluit.
 2. Bij ministeriële regeling kan, in aanvulling op het eerste lid, worden bepaald dat subsidie wordt verstrekt aan niet in Nederland gevestigde natuurlijke personen, rechtspersonen of vennootschappen of hiermee gelijk te stellen entiteiten.
 
 3. In aanvulling op het eerste lid kan een subsidie aan een financier ook worden verstrekt aan een niet in Nederland gevestigde financier.
+
+4. Geen subsidie wordt verstrekt aan een provincie, gemeente of openbaar lichaam als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), tenzij bij ministeriële regeling is bepaald dat daaraan wel subsidie wordt verstrekt.
 
 ##### Artikel 4
 
@@ -186,25 +160,13 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over:
 
 ### Hoofdstuk 3. Hoogte subsidie
 
-#### § 1. Hoogte subsidie voor activiteiten opgenomen in de bijlage
+#### § 1. Hoogte subsidie
 
 ##### Artikel 5
 
-1. De subsidie bedraagt voor zover activiteiten vallen onder de bijlage, het percentage van de subsidiabele kosten zoals aangegeven in de bijlage, tenzij bij ministeriële regeling is aangegeven dat:
+1. Bij ministeriële regeling wordt de wijze van berekenen van de subsidie of de hoogte van de subsidie bepaald.
 
-- a. de subsidie valt onder een de-minimis verordening,
-
-- b. de subsidie aangemerkt wordt als steun als bedoeld in artikel 6 van de algemene groepsvrijstellingsverordening of
-
-- c. de subsidie geen steun is in de zin van artikel 87 en 88 EG-verdrag.
-
-2. Indien de hoogte van de subsidie volgt uit de bijlage en verschillende percentages van toepassing zijn, bedraagt de subsidie het gewogen gemiddelde van deze percentages.
-
-3. Bij ministeriële regeling kan worden bepaald dat de subsidie een lager percentage dan aangegeven in de bijlage bedraagt.
-
-4. Bij ministeriële regeling kan, in aanvulling op het eerste lid, een maximum subsidiebedrag worden bepaald.
-
-5. Bij ministeriële regeling kan, in afwijking van het tweede lid, één subsidiepercentage worden vastgesteld. In dat geval wordt in die ministeriële regeling aangegeven het minimale aandeel van bepaalde activiteiten in het geheel van activiteiten.
+2. Bij ministeriële regeling kan een maximum subsidiebedrag worden bepaald.
 
 #### § 2. Cumulatie verschillende subsidies
 
@@ -216,11 +178,11 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over:
 
 3. Indien bij ministeriële regeling is aangegeven dat een bijdrage van een gemeente, provincie of openbaar lichaam als bedoeld in [artikel 8 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) of een ander bestuursorgaan aangemerkt wordt als publieke cofinanciering, kunnen bij ministeriële regeling van het eerste lid afwijkende regels worden gesteld.
 
-4. Indien uit de aan Onze Minister op basis van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=11&paragraaf=1&artikel=41&z=2009-01-01&g=2009-01-01), voorgelegde afspraken blijkt dat sprake is van staatssteun als gevolg van de overdracht van kennis of andere resultaten uit activiteiten, wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidie niet meer bedraagt dan het in de beschikking tot subsidieverlening aangegeven bedrag dat maximaal mag worden verstrekt ingevolge een Europees steunkader.
+4. Indien uit de aan Onze Minister op basis van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=11&paragraaf=1&artikel=41&z=2010-01-01&g=2010-01-01), voorgelegde afspraken blijkt dat sprake is van staatssteun als gevolg van de overdracht van kennis of andere resultaten uit activiteiten, wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidie niet meer bedraagt dan het in de beschikking tot subsidieverlening aangegeven bedrag dat maximaal mag worden verstrekt ingevolge een Europees steunkader.
 
 ##### Artikel 7
 
-1. Bij ministeriële regeling kan worden bepaald dat bepaalde subsidieregelingen of bijdragen van de Commissie van de Europese Gemeenschappen bij de toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=2&artikel=6&z=2009-01-01&g=2009-01-01) buiten beschouwing blijven.
+1. Bij ministeriële regeling kan worden bepaald dat bepaalde subsidieregelingen of bijdragen van de Commissie van de Europese Gemeenschappen bij de toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=2&artikel=6&z=2010-01-01&g=2010-01-01) buiten beschouwing blijven.
 
 2. Bij ministeriële regeling kunnen met betrekking tot de subsidie aan een financier regels worden gesteld over de cumulatie van subsidie bij ondernemingen aan wie als gevolg van de subsidie aan een financier kapitaal wordt verstrekt.
 
@@ -232,9 +194,7 @@ Indien bij ministeriële regeling is bepaald dat toepassing is gegeven aan een d
 
 ##### Artikel 9
 
-1. Bij ministeriële regeling wordt de wijze van berekenen van de hoogte of de hoogte van de subsidie bepaald indien dit niet volgt uit [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=1&artikel=5&z=2009-01-01&g=2009-01-01), waarbij indien relevant een Europees steunkader in acht wordt genomen.
-
-2. Bij ministeriële regeling kan een maximum subsidiebedrag worden bepaald.
+Vervallen
 
 ### Hoofdstuk 4. Subsidiabele kosten
 
@@ -242,11 +202,7 @@ Indien bij ministeriële regeling is bepaald dat toepassing is gegeven aan een d
 
 ##### Artikel 10
 
-1. Voor subsidie komen de kosten in aanmerking die:
-
-- a. direct verbonden zijn met de uitvoering van een activiteit;
-
-- b. de gewone bedrijfsuitoefening betreffen.
+1. Voor subsidie komen de redelijk gemaakte kosten in aanmerking die direct verbonden zijn met de uitvoering van een activiteit.
 
 2. Vóór indiening van de aanvraag door de subsidieontvanger gemaakte kosten komen niet voor subsidie in aanmerking.
 
@@ -258,17 +214,19 @@ Indien bij ministeriële regeling is bepaald dat toepassing is gegeven aan een d
 
 6. Bij subsidie aan een ondernemer waar een Europees steunkader op van toepassing is, komen alleen de kosten voor vergoeding in aanmerking die voldoen aan de eisen van het desbetreffende steunkader.
 
+7. Afschrijvingskosten van apparatuur en gebouwen worden lineair berekend als fractie van de aanschafprijs op basis van bedrijfseconomische grondslagen en normen, met een minimale afschrijvingstermijn van vijf jaar.
+
 #### § 2. Standaardmethoden van berekenen subsidiabele kosten
 
 ##### Artikel 11
 
-1. De aanvrager kiest voor de berekening van de subsidiabele kosten uit:
+1. Tenzij [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=4&paragraaf=2&artikel=14a&z=2010-01-01&g=2010-01-01) van toepassing is, kiest de aanvrager voor de berekening van de subsidiabele kosten uit:
 
-- a. de integrale kostensystematiek, opgenomen in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=4&paragraaf=2&artikel=12&z=2009-01-01&g=2009-01-01),
+- a. de integrale kostensystematiek, opgenomen in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=4&paragraaf=2&artikel=12&z=2010-01-01&g=2010-01-01),
 
-- b. de loonkosten plus vaste-opslag-systematiek, opgenomen in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=4&paragraaf=2&artikel=13&z=2009-01-01&g=2009-01-01), of
+- b. de loonkosten plus vaste-opslag-systematiek, opgenomen in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=4&paragraaf=2&artikel=13&z=2010-01-01&g=2010-01-01), of
 
-- c. de vaste-uurtarief-systematiek, opgenomen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=4&paragraaf=2&artikel=14&z=2009-01-01&g=2009-01-01).
+- c. de vaste-uurtarief-systematiek, opgenomen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=4&paragraaf=2&artikel=14&z=2010-01-01&g=2010-01-01).
 
 2. De subsidiabele kosten worden berekend op basis van een voor de subsidie-ontvanger gebruikelijke en controleerbare methode, die is gebaseerd op bedrijfeconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd en die de subsidie-ontvanger stelselmatig toepast.
 
@@ -310,7 +268,7 @@ Indien de aanvrager kiest voor de vaste-uurtarief-systematiek, worden de subsidi
 
 ##### Artikel 15
 
-Bij ministeriële regeling kan worden afgeweken van de subsidiabele kosten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=4&paragraaf=1&artikel=10&z=2009-01-01&g=2009-01-01) of de wijze van berekenen van de subsidiabele kosten, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=4&paragraaf=2&artikel=11&z=2009-01-01&g=2009-01-01).
+Bij ministeriële regeling kan worden afgeweken van de subsidiabele kosten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=4&paragraaf=1&artikel=10&z=2010-01-01&g=2010-01-01) of de wijze van berekenen van de subsidiabele kosten, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=4&paragraaf=2&artikel=11&z=2010-01-01&g=2010-01-01), en kunnen nadere regels worden gesteld met betrekking tot de uitleg van in dit hoofdstuk gebruikte, voor de berekening van de subsidiabele kosten relevante begrippen.
 
 ### Hoofdstuk 5. Wijze van verdelen en subsidieplafond
 
@@ -336,9 +294,9 @@ Bij ministeriële regeling wordt een subsidieplafond vastgesteld voor het verstr
 
 4. Indien subsidie wordt verdeeld op volgorde van binnenkomst van de aanvragen, op volgorde van rangschikking van de aanvragen, of evenredig wordt verdeeld over de ingediende aanvragen worden bij ministeriële regeling perioden vastgesteld waarbinnen aanvragen om subsidie moeten zijn ontvangen.
 
-5. Het vierde lid is van overeenkomstige toepassing op vooraanmeldingen als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=7&artikel=21&z=2009-01-01&g=2009-01-01).
+5. Het vierde lid is van overeenkomstige toepassing op vooraanmeldingen als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=7&artikel=21&z=2010-01-01&g=2010-01-01).
 
-6. Bij ministeriële regeling wordt een datum vastgesteld waarvoor het maximumbedrag per financier als bedoeld in [artikel 17, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2009-01-01&g=2009-01-01), wordt aangevraagd en vastgesteld.
+6. Bij ministeriële regeling wordt een datum vastgesteld waarvoor het maximumbedrag per financier als bedoeld in [artikel 17, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2010-01-01&g=2010-01-01), wordt aangevraagd en vastgesteld.
 
 7. Bij ministeriële regeling kunnen criteria worden bepaald voor de vaststelling van een maximumbedrag per financier en kunnen regels worden gesteld over wijziging van het maximumbedrag per financier.
 
@@ -392,7 +350,7 @@ Indien aanvragers van subsidie samenwerken in een samenwerkingsverband, dienen z
 
 3. Bij toepassing van het eerste lid wordt bij ministeriële regeling een formulier voor de vooraanmelding vastgesteld en kunnen nadere voorschriften worden gegeven.
 
-4. [Artikel 18, derde tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=6&artikel=18&z=2009-01-01&g=2009-01-01), is van overeenkomstige toepassing op de adviescommissie, bedoeld in het eerste lid.
+4. [Artikel 18, derde tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=6&artikel=18&z=2010-01-01&g=2010-01-01), is van overeenkomstige toepassing op de adviescommissie, bedoeld in het eerste lid.
 
 ### Hoofdstuk 8. Afwijzingsgronden
 
@@ -402,7 +360,7 @@ Onze Minister beslist afwijzend op een aanvraag om subsidie indien de aanvraag n
 
 ##### Artikel 23
 
-Onze Minister beslist afwijzend op een aanvraag om subsidie, niet zijnde een subsidie aan een financier, indien:
+Onze Minister beslist afwijzend op een aanvraag om subsidie, niet zijnde een subsidie aan een financier, voor zover:
 
 - a. door de toepassing van een de-minimis verordening, een bedrag aan de-minimis steun zou worden verstrekt dat hoger is dan geoorloofd op grond van deze verordening;
 
@@ -416,9 +374,11 @@ Onze Minister beslist afwijzend op een aanvraag om subsidie, niet zijnde een sub
 
 - f. onvoldoende vertrouwen bestaat in de economische haalbaarheid van de activiteiten;
 
-- g. de activiteiten geen bijdrage aan de doelstellingen van de subsidie leveren;
+- g. de activiteiten onvoldoende bijdrage aan de doelstellingen van de subsidie leveren;
 
-- h. onvoldoende vertrouwen bestaat dat de betrokkenen de capaciteiten hebben om de activiteiten naar behoren uit te voeren.
+- h. onvoldoende vertrouwen bestaat dat de betrokkenen de capaciteiten hebben om de activiteiten naar behoren uit te voeren;
+
+- i. het betreft een subsidie-ontvanger die een ondernemer is tegen wie een bevel tot terugvordering uitstaat als bedoeld in artikel 1, zesde lid, onderdeel a, van de algemene groepsvrijstellingsverordening.
 
 ##### Artikel 24
 
@@ -434,7 +394,7 @@ Onze Minister beslist afwijzend op een aanvraag om subsidie aan een financier in
 
 ##### Artikel 25
 
-Bij ministeriële regeling kunnen andere afwijzingsgronden dan de afwijzingsgronden, bedoeld in de [artikelen 22 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=8&artikel=22&z=2009-01-01&g=2009-01-01), worden opgenomen.
+Bij ministeriële regeling kunnen andere afwijzingsgronden dan de afwijzingsgronden, bedoeld in de [artikelen 22 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=8&artikel=22&z=2010-01-01&g=2010-01-01), worden opgenomen.
 
 ### Hoofdstuk 9. Beslissing op de aanvraag
 
@@ -446,14 +406,14 @@ Bij ministeriële regeling kunnen andere afwijzingsgronden dan de afwijzingsgron
 
 | **Wijze van verdelen** | **Bij ministeriële regeling is wel/niet aangegeven dat een bijdrage van een gemeente, een provincie, een openbaar lichaam als bedoeld in artikel 8 van de Wet gemeenschappelijke regelingen of een ander bestuursorgaan aangemerkt wordt als publieke cofinanciering** | **Wel/geen advies ingewonnen bij een adviescommissie** | **Beslistermijn** |
 | --- | --- | --- | --- |
-| Volgorde van binnenkomst ([artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2009-01-01&g=2009-01-01)) | Geen sprake van publieke co-financiering | Over aanvragen om subsidie wordt geen advies ingewonnen bij een adviescommissie | 8 weken na ontvangst van de aanvraag |
-| Volgorde van binnenkomst ([artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2009-01-01&g=2009-01-01)) | Geen sprake van publieke co-financiering | Over aanvragen om subsidie wordt advies ingewonnen bij een adviescommissie | 13 weken na ontvangst van de aanvraag |
-| Volgorde van binnenkomst ([artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2009-01-01&g=2009-01-01)) | Wel sprake van publieke co-financiering |   | 22 weken na ontvangst van de aanvraag |
-| Volgorde van rangschikking ([artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2009-01-01&g=2009-01-01)) | Geen sprake van publieke co-financiering |   | 13 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
-| Volgorde van rangschikking ([artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2009-01-01&g=2009-01-01)) | Wel sprake van publieke co-financiering |   | 22 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
-| Evenredige verdeling van het subsidieplafond over de ingediende aanvragen ([artikel 17, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2009-01-01&g=2009-01-01)) | Geen sprake van publieke co-financiering |   | 13 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
-| Evenredige verdeling van het subsidieplafond over de ingediende aanvragen ([artikel 17, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2009-01-01&g=2009-01-01)) | Wel sprake van publieke co-financiering |   | 22 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
-| Maximumbedrag per financier ([artikel 17, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2009-01-01&g=2009-01-01)) |   |   | Voor de bij ministeriële regeling bepaalde datum |
+| Volgorde van binnenkomst ([artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2010-01-01&g=2010-01-01)) | Geen sprake van publieke co-financiering | Over aanvragen om subsidie wordt geen advies ingewonnen bij een adviescommissie | 8 weken na ontvangst van de aanvraag |
+| Volgorde van binnenkomst ([artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2010-01-01&g=2010-01-01)) | Geen sprake van publieke co-financiering | Over aanvragen om subsidie wordt advies ingewonnen bij een adviescommissie | 13 weken na ontvangst van de aanvraag |
+| Volgorde van binnenkomst ([artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2010-01-01&g=2010-01-01)) | Wel sprake van publieke co-financiering |   | 22 weken na ontvangst van de aanvraag |
+| Volgorde van rangschikking ([artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2010-01-01&g=2010-01-01)) | Geen sprake van publieke co-financiering |   | 13 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
+| Volgorde van rangschikking ([artikel 17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2010-01-01&g=2010-01-01)) | Wel sprake van publieke co-financiering |   | 22 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
+| Evenredige verdeling van het subsidieplafond over de ingediende aanvragen ([artikel 17, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2010-01-01&g=2010-01-01)) | Geen sprake van publieke co-financiering |   | 13 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
+| Evenredige verdeling van het subsidieplafond over de ingediende aanvragen ([artikel 17, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2010-01-01&g=2010-01-01)) | Wel sprake van publieke co-financiering |   | 22 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend |
+| Maximumbedrag per financier ([artikel 17, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=5&artikel=17&z=2010-01-01&g=2010-01-01)) |   |   | Voor de bij ministeriële regeling bepaalde datum |
 
 ##### Artikel 27
 
@@ -463,9 +423,7 @@ Bij ministeriële regeling kunnen andere afwijzingsgronden dan de afwijzingsgron
 
 ##### Artikel 28
 
-1. Indien bij ministeriële regeling is gekozen voor verdeling van het subsidieplafond op volgorde van rangschikking, verdeelt Onze Minister het beschikbare bedrag in de volgorde van rangschikking van de aanvragen.
-
-2. Indien een adviescommissie Onze Minister adviseert over de rangschikking van aanvragen, verdeelt Onze Minister het beschikbare bedrag in de volgorde van rangschikking van de aanvragen door de adviescommissie.
+Indien bij ministeriële regeling is gekozen voor verdeling van het subsidieplafond op volgorde van rangschikking, verdeelt Onze Minister het beschikbare bedrag in de volgorde van rangschikking van de aanvragen.
 
 ##### Artikel 29
 
@@ -483,13 +441,13 @@ Indien de subsidie wordt verstrekt aan deelnemers in een samenwerkingsverband, v
 
 3. Bij ministeriële regeling kan een van het eerste lid afwijkende termijn worden vastgesteld waarbinnen een overeenkomst tot stand moet zijn gekomen.
 
-4. Bij ministeriële regeling kunnen, in aanvulling op de [artikelen 31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=31&z=2009-01-01&g=2009-01-01), nadere regels worden gesteld over de inhoud van de overeenkomst.
+4. Bij ministeriële regeling kunnen, in aanvulling op de [artikelen 31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=31&z=2010-01-01&g=2010-01-01), nadere regels worden gesteld over de inhoud van de overeenkomst.
 
 5. Bij ministeriële regeling wordt een model voor de overeenkomst vastgesteld.
 
 ##### Artikel 31
 
-De overeenkomst, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=30&z=2009-01-01&g=2009-01-01), bevat in ieder geval:
+De overeenkomst, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=30&z=2010-01-01&g=2010-01-01), bevat in ieder geval:
 
 - a. de bepaling dat kapitaal of zekerheid niet wordt verstrekt ten behoeve van een onderneming waarvan blijkens de geringe rentabiliteit de continuïteit voor de korte of middellange termijn in het geding is;
 
@@ -509,7 +467,7 @@ De overeenkomst, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 32
 
-1. Indien de overeenkomst, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=30&z=2009-01-01&g=2009-01-01), een overeenkomst van borgstelling of garantstelling is, bevat deze overeenkomst in aanvulling op [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=31&z=2009-01-01&g=2009-01-01) in ieder geval:
+1. Indien de overeenkomst, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=30&z=2010-01-01&g=2010-01-01), een overeenkomst van borgstelling of garantstelling is, bevat deze overeenkomst in aanvulling op [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=31&z=2010-01-01&g=2010-01-01) in ieder geval:
 
 - a. de vergoeding of provisie;
 
@@ -533,7 +491,7 @@ De overeenkomst, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 33
 
-1. Indien de overeenkomst, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=30&z=2009-01-01&g=2009-01-01), een overeenkomst van krediet is, bevat deze overeenkomst in aanvulling op [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=31&z=2009-01-01&g=2009-01-01) in ieder geval:
+1. Indien de overeenkomst, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=30&z=2010-01-01&g=2010-01-01), een overeenkomst van krediet is, bevat deze overeenkomst in aanvulling op [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=10&paragraaf=1&artikel=31&z=2010-01-01&g=2010-01-01) in ieder geval:
 
 - a. de vergoeding en het maximum bedrag per krediet;
 
@@ -567,7 +525,7 @@ De in dit hoofdstuk opgenomen verplichtingen gelden voor een ontvanger van een s
 
 ##### Artikel 36
 
-De subsidie-ontvanger doet onverwijld mededeling aan Onze Minister van de indiening bij de rechtbank van een verzoek tot het op hem toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, tot verlening van surseance van betaling aan hem of tot faillietverklaring van hem.
+De subsidie-ontvanger en de penvoerder doen onverwijld mededeling aan Onze Minister van de indiening bij de rechtbank van een verzoek tot het op hem toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, tot verlening van surseance van betaling aan hem of tot faillietverklaring van hem.
 
 ##### Artikel 37
 
@@ -587,15 +545,17 @@ De subsidie-ontvanger doet onverwijld mededeling aan Onze Minister van de indien
 
 - c. het aantal uren dat per persoon is besteed aan activiteiten die voor subsidie in aanmerking komen;
 
-- d. indien een tarief als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=4&paragraaf=2&artikel=12&z=2009-01-01&g=2009-01-01), wordt gehanteerd, de berekening en samenstelling van het tarief;
+- d. indien een tarief als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=4&paragraaf=2&artikel=12&z=2010-01-01&g=2010-01-01), wordt gehanteerd, de berekening en samenstelling van het tarief;
 
 - e. de specifiek ten behoeve van de activiteiten gemaakte en betaalde kosten.
 
 2. De administratie wordt tot vijf jaar na de datum van de beschikking tot subsidievaststelling bewaard.
 
+3. Indien de subsidie minder bedraagt dan € 125.000 zijn het eerste en tweede lid niet van toepassing; in dat geval beschikt de subsidie-ontvanger tot vijf jaar na de datum van de beschikking tot subsidievaststelling over die gegevens die nodig zijn om desgevraagd aan te tonen dat de subsidiabele activiteiten zijn verricht.
+
 ##### Artikel 39
 
-1. Indien de periode van uitvoering van de activiteiten die voor subsidie in aanmerking komen meer dan twaalf maanden in beslag neemt, wordt bij de beschikking tot subsidieverlening de verplichting opgelegd tot indiening van één of meer rapportages, waarbij rekening wordt gehouden met de mijlpalen van de activiteiten.
+1. Indien de periode van uitvoering van de activiteiten die voor subsidie in aanmerking komen meer dan twaalf maanden in beslag neemt, wordt bij de beschikking tot subsidieverlening de verplichting opgelegd tot indiening van één of meer rapportages, maar ten hoogste één rapportage per jaar, waarbij rekening wordt gehouden met de mijlpalen van de activiteiten.
 
 2. Indien subsidie-ontvangers samenwerken in een samenwerkingsverband, dienen zij hun rapportages in via een penvoerder.
 
@@ -661,18 +621,18 @@ Onze Minister kan bij de beschikking tot subsidieverlening nadere verplichtingen
 
 3. De hoogte en het moment van verstrekking van de voorschotten worden bepaald door de regels, genoemd in de vijfde kolom van onderstaande tabel voor de situaties als bedoeld in de eerste vier kolommen van de tabel.
 
-| **Soort subsidie** | **Maximaal bedrag subsidie volgens regeling** | **Wel of geen begroting per mijlpaal** | **Duur subsidie volgens regeling** | **Regels voor voorschotten** |
+| **Soort subsidie** | **Maximaal bedrag subsidie** | **Wel of geen begroting per mijlpaal** | **Duur subsidie volgens regeling** | **Regels voor voorschotten** |
 | --- | --- | --- | --- | --- |
-| Subsidie met terugbetalingsverplichting | € 25.000 of minder |   |   | [Artikel 47, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=47&z=2009-01-01&g=2009-01-01) |
-| Subsidie met terugbetalingsverplichting | Meer dan € 25.000, maar niet meer dan € 125.000 |   | Eén jaar of minder | [Artikel 47, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=47&z=2009-01-01&g=2009-01-01) |
-| Subsidie met terugbetalingsverplichting | Meer dan € 25.000, maar niet meer dan € 125.000 |   | Meer dan één jaar | [Artikel 46, eerste, derde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2009-01-01&g=2009-01-01) |
-| Subsidie met terugbetalingsverplichting | Meer dan € 125.000 | Wel begroting per mijlpaal |   | [Artikel 46, eerste tot en met derde, vijfde, zesde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2009-01-01&g=2009-01-01) |
-| Subsidie met terugbetalingsverplichting | Meer dan € 125.000 | Geen begroting per mijlpaal |   | [Artikel 46, eerste tot en met derde, vijfde, zevende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2009-01-01&g=2009-01-01) |
-| Andere subsidies dan subsidie met terugbetalingsverplichting | € 25.000 of minder |   |   | [Artikel 47, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=47&z=2009-01-01&g=2009-01-01) |
-| Andere subsidies dan subsidie met terugbetalingsverplichting | Meer dan € 25.000, maar niet meer dan € 125.000 |   | Eén jaar of minder | [Artikel 47, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=47&z=2009-01-01&g=2009-01-01) |
-| Andere subsidies dan subsidie met terugbetalingsverplichting | Meer dan € 25.000, maar niet meer dan € 125.000 |   | Meer dan één jaar | [Artikel 46, eerste derde, achtste, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2009-01-01&g=2009-01-01) |
-| Andere subsidies dan subsidie met terugbetalingsverplichting | Meer dan € 125.000 | Wel begroting per mijlpaal |   | [Artikel 46, eerste tot en met vierde, zesde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2009-01-01&g=2009-01-01) |
-| Andere subsidies dan subsidie met terugbetalingsverplichting | Meer dan € 125.000 | Geen begroting per mijlpaal |   | [Artikel 46, eerste tot en met vierde, zevende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2009-01-01&g=2009-01-01) |
+| Subsidie met terugbetalingsverplichting | € 25.000 of minder |   |   | [Artikel 47, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=47&z=2010-01-01&g=2010-01-01) |
+| Subsidie met terugbetalingsverplichting | Meer dan € 25.000, maar niet meer dan € 125.000 |   | Eén jaar of minder | [Artikel 47, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=47&z=2010-01-01&g=2010-01-01) |
+| Subsidie met terugbetalingsverplichting | Meer dan € 25.000, maar niet meer dan € 125.000 |   | Meer dan één jaar | [Artikel 46, eerste, derde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2010-01-01&g=2010-01-01) |
+| Subsidie met terugbetalingsverplichting | Meer dan € 125.000 | Wel begroting per mijlpaal |   | [Artikel 46, eerste tot en met derde, vijfde, zesde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2010-01-01&g=2010-01-01) |
+| Subsidie met terugbetalingsverplichting | Meer dan € 125.000 | Geen begroting per mijlpaal |   | [Artikel 46, eerste tot en met derde, vijfde, zevende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2010-01-01&g=2010-01-01) |
+| Andere subsidies dan subsidie met terugbetalingsverplichting | € 25.000 of minder |   |   | [Artikel 47, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=47&z=2010-01-01&g=2010-01-01) |
+| Andere subsidies dan subsidie met terugbetalingsverplichting | Meer dan € 25.000, maar niet meer dan € 125.000 |   | Eén jaar of minder | [Artikel 47, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=47&z=2010-01-01&g=2010-01-01) |
+| Andere subsidies dan subsidie met terugbetalingsverplichting | Meer dan € 25.000, maar niet meer dan € 125.000 |   | Meer dan één jaar | [Artikel 46, eerste derde, achtste, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2010-01-01&g=2010-01-01) |
+| Andere subsidies dan subsidie met terugbetalingsverplichting | Meer dan € 125.000 | Wel begroting per mijlpaal |   | [Artikel 46, eerste tot en met vierde, zesde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2010-01-01&g=2010-01-01) |
+| Andere subsidies dan subsidie met terugbetalingsverplichting | Meer dan € 125.000 | Geen begroting per mijlpaal |   | [Artikel 46, eerste tot en met vierde, zevende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2010-01-01&g=2010-01-01) |
 
 ##### Artikel 46
 
@@ -686,13 +646,13 @@ Onze Minister kan bij de beschikking tot subsidieverlening nadere verplichtingen
 
 5. Het voorschot bedraagt 100% van het bedrag dat in het desbetreffende kwartaal maximaal voor subsidie in aanmerking komt.
 
-6. Onze Minister berekent de hoogte van het maximaal voor subsidie in aanmerking komende bedrag door de in de periode tussen twee mijlpalen te maken subsidiabele kosten te vermenigvuldigen met het subsidiepercentage, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=1&artikel=5&z=2009-01-01&g=2009-01-01), of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=3&artikel=9&z=2009-01-01&g=2009-01-01), en te delen door het aantal voorschotmomenten in deze periode.
+6. Onze Minister berekent de hoogte van het maximaal voor subsidie in aanmerking komende bedrag door de in de periode tussen twee mijlpalen te maken subsidiabele kosten te vermenigvuldigen met het subsidiepercentage, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=1&artikel=5&z=2010-01-01&g=2010-01-01), of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=3&artikel=9&z=2010-01-01&g=2010-01-01), en te delen door het aantal voorschotmomenten in deze periode.
 
-7. Onze Minister berekent de hoogte van het maximaal voor subsidie in aanmerking komende bedrag door de volgens het plan in dat kalenderjaar te maken subsidiabele kosten te vermenigvuldigen met het subsidiepercentage, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=1&artikel=5&z=2009-01-01&g=2009-01-01), of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=3&artikel=9&z=2009-01-01&g=2009-01-01), en te delen door het aantal voorschotmomenten in deze periode.
+7. Onze Minister berekent de hoogte van het maximaal voor subsidie in aanmerking komende bedrag door de volgens het plan in dat kalenderjaar te maken subsidiabele kosten te vermenigvuldigen met het subsidiepercentage, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=1&artikel=5&z=2010-01-01&g=2010-01-01), of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=3&paragraaf=3&artikel=9&z=2010-01-01&g=2010-01-01), en te delen door het aantal voorschotmomenten in deze periode.
 
 8. De volgende voorschotten worden ambtshalve verstrekt telkens binnen twee weken na het verstrijken van twaalf maanden na de aanvang van de activiteiten.
 
-9. Het voorschot bedraagt een bij ministeriële regeling te bepalen percentage, dat kan verschillen voor de verschillende voorschotten.
+9. Het bedrag van het voorschot wordt berekend door 90% van het maximale subsidiebedrag te delen door het aantal voorschotmomenten tijdens de gehele subsidieperiode. Bij ministeriële regeling kan een andere berekeningswijze worden vastgesteld.
 
 10. Het geheel van voorschotten bedraagt niet meer dan het voorschotpercentage maal de maximale hoogte van de subsidie.
 
@@ -706,11 +666,11 @@ Onze Minister kan bij de beschikking tot subsidieverlening nadere verplichtingen
 
 ##### Artikel 48
 
-1. Bij ministeriële regeling kan worden bepaald dat het voorschot een lager percentage bedraagt dan genoemd in [artikel 46, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2009-01-01&g=2009-01-01) en [artikel 47, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=47&z=2009-01-01&g=2009-01-01) of dat geen voorschot wordt verstrekt.
+1. Bij ministeriële regeling kan worden bepaald dat het voorschot een ander percentage bedraagt dan genoemd in [artikel 46, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=46&z=2010-01-01&g=2010-01-01) en [artikel 47, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=47&z=2010-01-01&g=2010-01-01) of dat geen voorschot wordt verstrekt.
 
-2. Bij ministeriële regeling kunnen voor publiekrechtelijke rechtspersonen en andere, bij ministeriële regeling aangewezen instellingen of organisaties, van de [artikelen 45 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=45&z=2009-01-01&g=2009-01-01) afwijkende bepalingen over voorschotten worden opgenomen.
+2. Bij ministeriële regeling kunnen voor publiekrechtelijke rechtspersonen en andere, bij ministeriële regeling aangewezen instellingen of organisaties, van de [artikelen 45 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=45&z=2010-01-01&g=2010-01-01) afwijkende bepalingen over voorschotten worden opgenomen.
 
-3. Bij ministeriële regeling kunnen van [artikelen 45 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=45&z=2009-01-01&g=2009-01-01) afwijkende bepalingen over voorschotten worden opgenomen indien bij de verstrekking van een subsidie nauw wordt aangesloten bij subsidies als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=2&artikel=2&z=2009-01-01&g=2009-01-01).
+3. Bij ministeriële regeling kunnen van [artikelen 45 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=12&artikel=45&z=2010-01-01&g=2010-01-01) afwijkende bepalingen over voorschotten worden opgenomen indien bij de verstrekking van een subsidie nauw wordt aangesloten bij subsidies als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01).
 
 ### Hoofdstuk 13. Subsidievaststelling
 
@@ -728,7 +688,7 @@ De in dit hoofdstuk opgenomen bepalingen gelden voor een ontvanger van een subsi
 
 - b. indien het subsidiebedrag € 125 000 of meer bedraagt, een accountantsverklaring.
 
-3. Bij ministeriële regeling kan worden bepaald dat, in afwijking van het derde lid, onderdeel b, de aanvraag niet vergezeld hoeft te gaan van een accountantsverklaring.
+3. Bij ministeriële regeling kan worden bepaald dat, in afwijking van het tweede lid, onderdeel b, de aanvraag niet vergezeld hoeft te gaan van een accountantsverklaring.
 
 ##### Artikel 51
 
@@ -744,9 +704,9 @@ De in dit hoofdstuk opgenomen bepalingen gelden voor een ontvanger van een subsi
 
 ##### Artikel 53
 
-1. Bij ministeriële regeling kunnen voor bij ministeriële regeling aangewezen instellingen of organisaties, van de [artikelen 50 tot en met 52](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=13&artikel=50&z=2009-01-01&g=2009-01-01) afwijkende bepalingen over de subsidievaststelling worden opgenomen.
+1. Bij ministeriële regeling kunnen voor bij ministeriële regeling aangewezen instellingen of organisaties, van de [artikelen 50 tot en met 52](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=13&artikel=50&z=2010-01-01&g=2010-01-01) afwijkende bepalingen over de subsidievaststelling worden opgenomen.
 
-2. [Artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=13&artikel=50&z=2009-01-01&g=2009-01-01) is niet van toepassing op de verstrekking van specifieke uitkeringen.
+2. [Artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&hoofdstuk=13&artikel=50&z=2010-01-01&g=2010-01-01) is niet van toepassing op de verstrekking van specifieke uitkeringen.
 
 ### Hoofdstuk 14. Overgangs- en slotbepalingen
 
@@ -803,5 +763,69 @@ Dit besluit wordt aangehaald als: Kaderbesluit EZ-subsidies.
 | Specifieke opleiding | Specifieke opleiding | 35 [45] | 35 [45] | 25 [35] |
 | **Scheepsbouwsteun** | **Scheepsbouwsteun** | **Scheepsbouwsteun** | **Scheepsbouwsteun** | **Scheepsbouwsteun** |
 | Steun voor scheepsbouwinnovatie | Steun voor scheepsbouwinnovatie | 20 | 20 | 20 |
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 14a
+
+1. Bij ministeriële regeling kan worden bepaald dat voor subsidie in aanmerking komen de extra investeringskosten die noodzakelijk zijn voor de verwezenlijking van de voor subsidie in aanmerking komende maatregel met inachtneming van Punt 80 tot en met 84 van de Communautaire kaderregeling inzake staatssteun ten behoeve van het milieu (PbEU 2008 C 82).
+
+2. Extra investeringskosten als bedoeld in het eerste lid hebben betrekking op:
+
+- a. kosten van verwerving of op andere titel dan verwerving in gebruik verkregen bedrijfsterreinen;
+
+- b. kosten van verwerving, huurkoop of lease van bedrijfsgebouwen en daartoe te rekenen centrale voorzieningen;
+
+- c. kosten van aangeschafte machines en apparatuur;
+
+- d. kosten van verbruikte materialen en hulpmiddelen;
+
+- e. kosten van onderhoud en inspectie, administratie en beheer, ontmanteling, onvoorziene reparaties, verplichte milieumonitoring en verzekeringen;
+
+- f. kosten van geleidelijk opstarten en in gebruik nemen van het project en daartoe te rekenen productiekosten;
+
+- g. kosten van tenaamstelling, verwerving en instandhouding van rechten van intellectuele eigendom;
+
+- h. aan derden verschuldigde kosten.
+
+3. De hoogte van de subsidiabele extra investeringskosten komt overeen met de som van de per kostensoort berekende investeringskosten van het project verminderd met de referentie-kosten, extra opbrengsten en enig ander extra voordeel in de periode tot vijf jaar na de ingebruikname alsmede extra besparingen die met het project gemoeid zijn.
+
+4. Bij ministeriële regeling kunnen regels worden gesteld over de berekening van de kosten, bedoeld in het tweede en derde lid.
+
+#### § 3. Delegatiebepaling
+
+### Hoofdstuk 5. Wijze van verdelen en subsidieplafond
+
+### Hoofdstuk 6. Adviescommissies
+
+### Hoofdstuk 7. Indienen van de aanvraag
+
+### Hoofdstuk 8. Afwijzingsgronden
+
+### Hoofdstuk 9. Beslissing op de aanvraag
+
+### Hoofdstuk 10. Voorwaarden voor de subsidie-ontvanger
+
+#### § 1. Voorwaarden voor de subsidie-ontvanger indien deze een financier is
+
+#### § 2. Voorwaarden voor de subsidie-ontvanger algemeen
+
+### Hoofdstuk 11. Verplichtingen van de subsidie-ontvanger niet zijnde een financier
+
+#### § 1. Verplichtingen van de subsidie-ontvanger algemeen
+
+#### § 2. Verplichtingen van de subsidie-ontvanger bij subsidie met terugbetalingsverplichting
+
+#### § 3. Nadere uitwerking verplichtingen
+
+### Hoofdstuk 12. Voorschotten
+
+### Hoofdstuk 13. Subsidievaststelling
+
+### Hoofdstuk 14. Overgangs- en slotbepalingen
+
+## Bijlage. (artikel 5, eerste lid)
+
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
