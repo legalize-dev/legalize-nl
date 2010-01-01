@@ -4,7 +4,7 @@ identifier: "BWBR0013753"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2009-05-29"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013753"
 soort: "AMvB"
@@ -182,13 +182,13 @@ Aan ministers en staatssecretarissen worden de overige voorzieningen ter beschik
 
 2. De maandelijkse vergoeding, bedoeld in het eerste lid, bedraagt
 
-- a. voor Onze Minister-President, Minister van Algemene Zaken € 1307,08;
+- a. voor Onze Minister-President, Minister van Algemene Zaken € 1312,31;
 
-- b. voor Onze Minister van Buitenlandse Zaken € 1307,08;
+- b. voor Onze Minister van Buitenlandse Zaken € 1312,31;
 
-- c. voor een andere Minister € 653,53;
+- c. voor een andere Minister € 656,14;
 
-- d. voor een Staatssecretaris € 543,90.
+- d. voor een Staatssecretaris € 546,08.
 
 3. De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd voor zover de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar, daartoe aanleiding geeft.
 
