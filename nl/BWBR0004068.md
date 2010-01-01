@@ -4,7 +4,7 @@ identifier: "BWBR0004068"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-01-01"
-last_updated: "2009-12-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004068"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder loondervingsuitkering: een uitkering als bedoeld in [artikel 1, onderdeel d, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=1).
+In deze regeling wordt verstaan onder loondervingsuitkering: een uitkering of inkomensvoorziening als bedoeld in [artikel 1, onderdeel d, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=1).
 
 ##### Artikel 2
 
@@ -49,7 +49,7 @@ Dit besluit is van toepassing op samenloop van loondervingsuitkeringen zowel bij
 
 ##### Artikel 3
 
-Bij samenloop van loondervingsuitkeringen krachtens verschillende wetten wordt de toeslag verleend op de uitkering krachtens de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394). Bij gebreke van een uitkering op grond van laatstgenoemde wet wordt de toeslag verleend op de uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), dan wel de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822).
+Bij samenloop van loondervingsuitkeringen krachtens verschillende wetten wordt de toeslag verleend op de uitkering krachtens de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394). Bij gebreke van een uitkering op grond van laatstgenoemde wet wordt de toeslag verleend op de uitkering of inkomensvoorziening op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de Wet werk en arbeidsondersteuning jonggehandicapten, dan wel de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822).
 
 ##### Artikel 4
 
