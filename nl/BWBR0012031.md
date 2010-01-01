@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2009-03-01"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Uitvoeringsregeling inkomstenbelasting 2001
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Deze regeling geeft uitvoering aan de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.10), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.27), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), [3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), [3.119a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), [3.138](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.138), [3.152](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), [3.154](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.7), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17), [5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18), [5.18a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18a), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.14), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.15), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.23), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26), [6.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.31), [6.33](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), [8.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a), [8.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14b), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2) en [9.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4).
+1. Deze regeling geeft uitvoering aan de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14), [2.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.10), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.27), [3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55), [3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56), [3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), [3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), [3.119a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), [3.138](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.138), [3.152](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), [3.154](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.7), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14), [4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a), [4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17b), [4.17c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c), [4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.41), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), [5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15), [5.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17), [5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18), [5.18a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18a), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.14), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.15), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.23), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26), [6.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.31), [6.33](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), [8.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a), [8.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14b), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4) en [9.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.6), de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14) en [14a van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14a) en [artikel XXXIII van het Belastingplan 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XXXIII).
 
 2. Deze regeling verstaat onder:
 
@@ -131,9 +131,9 @@ De rittenregistratie als bedoeld in [artikel 3.20 van de wet](https://wetten.ove
 
 3. Het eerste en tweede lid zijn slechts van toepassing voorzover de betalingen het vermogen van de onderneming onherroepelijk hebben verlaten.
 
-##### Artikel 11. Belastbare winst uit onderneming; scholingsaftrek; scholing gericht op startkwalificatieniveau
+##### Artikel 11. Aangewezen staten bij de Overeenkomst betreffende de Europese Economische Ruimte
 
-Vervallen
+Voor de toepassing van de [artikelen 3.55, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55), [3.56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56), [3.57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57), en [4.41, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.41) en de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14), en [14a, tweede lid, van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14a) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland en Noorwegen.
 
 ##### Artikel 12. Belastbare winst uit onderneming; scholingsaftrek; bijdragen aan een scholingsfonds
 
@@ -179,7 +179,7 @@ Vervallen
 
 - c. het tijdvak van geldigheid van de plaatsbewijzen.
 
-2. De verklaring, bedoeld in [artikel 3.87, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87) (de reisverklaring) bevat ten minste de volgende gegevens:
+2. De verklaring, bedoeld in [artikel 3.87, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87) (de reisverklaring) bevat ten minste de volgende gegevens:
 
 - a. naam en adres van de inhoudingsplichtige;
 
@@ -331,7 +331,7 @@ De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](https://wetten
 
 4. De aanwijzing vindt plaats met ingang van de datum waarop het verzoek is ingediend, dan wel met ingang van een latere datum indien daarom is verzocht.
 
-5. De inspecteur maakt het aanwijzen als een fonds als bedoeld in [artikel 28, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=28&z=2011-01-01&g=2009-03-01), op een daartoe geschikte wijze publiek bekend. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking ook op een daartoe geschikte wijze publiek bekend.
+5. De inspecteur maakt het aanwijzen als een fonds als bedoeld in [artikel 28, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=28&z=2012-01-01&g=2010-01-01), op een daartoe geschikte wijze publiek bekend. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking ook op een daartoe geschikte wijze publiek bekend.
 
 ##### Artikel 30. Beleggingen in durfkapitaal; vrijstelling directe beleggingen in durfkapitaal; beginnende ondernemer-natuurlijke persoon
 
@@ -365,9 +365,9 @@ Onder een geregistreerde, achtergestelde geldlening als bedoeld in [artikel 5.17
 
 - b. ter zake waarvan in de overeenkomst is vermeld:
 
-- 1°. indien de beginnende ondernemer een natuurlijk persoon is: het sociaal-fiscaal nummer van de beginnende ondernemer en het sociaal-fiscaal nummer van degene die de geldlening verstrekt;
+- 1°. indien de beginnende ondernemer een natuurlijk persoon is: het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de beginnende ondernemer en het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van degene die de geldlening verstrekt;
 
-- 2°. indien de beginnende ondernemer een rechtspersoon is als bedoeld in [artikel 5.17, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17): het omzetbelastingnummer van de beginnende ondernemer en het sociaal-fiscaal nummer van degene die de geldlening verstrekt;
+- 2°. indien de beginnende ondernemer een rechtspersoon is als bedoeld in [artikel 5.17, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17): het omzetbelastingnummer van de beginnende ondernemer en het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van degene die de geldlening verstrekt;
 
 - c. ter zake waarvan in de overeenkomst is opgenomen dat:
 
@@ -393,7 +393,7 @@ Onder een geregistreerde, achtergestelde geldlening als bedoeld in [artikel 5.17
 
 4. Als een deelneming als bedoeld in [artikel 5.18, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18) wordt aangemerkt de deelneming waarbij het in de rechtspersoon te storten kapitaal dient ter financiering van bestanddelen die tot het verplichte ondernemingsvermogen zouden behoren indien de onderneming van de rechtspersoon voor rekening van een natuurlijk persoon zou worden gedreven.
 
-5. Met betrekking tot het verzoek om aanwijzing als participatiemaatschappij, de afhandeling van dat verzoek, de informatieverstrekking , de intrekking, alsmede het publiek bekend maken van de aanwijzing en intrekking van de aanwijzing zijn de [artikelen 29 tot en met 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29&z=2011-01-01&g=2009-03-01) van overeenkomstige toepassing.
+5. Met betrekking tot het verzoek om aanwijzing als participatiemaatschappij, de afhandeling van dat verzoek, de informatieverstrekking , de intrekking, alsmede het publiek bekend maken van de aanwijzing en intrekking van de aanwijzing zijn de [artikelen 29 tot en met 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29&z=2012-01-01&g=2010-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 33a. Beleggingen in durfkapitaal; vrijstelling culturele beleggingen
 
@@ -429,19 +429,19 @@ Ingeval een beginnende ondernemer binnen de eerste acht jaren na het verstrekken
 
 1. De in [artikel 6.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.15) bedoelde uitgaven voor levensonderhoud van een kind worden, indien de kosten van dat onderhoud in belangrijke mate op de belastingplichtige drukken, in aanmerking genomen tot een bedrag van:
 
-- a. € 290 per kalenderkwartaal indien het kind jonger dan 6 jaar is;
+- a. € 295 per kalenderkwartaal indien het kind jonger dan 6 jaar is;
 
-- b. € 350 per kalenderkwartaal indien het kind 6 jaar of ouder doch jonger dan 12 jaar is;
+- b. € 355 per kalenderkwartaal indien het kind 6 jaar of ouder doch jonger dan 12 jaar is;
 
-- c. € 410 per kalenderkwartaal indien het kind 12 jaar of ouder doch jonger dan 18 jaar is;
+- c. € 415 per kalenderkwartaal indien het kind 12 jaar of ouder doch jonger dan 18 jaar is;
 
-- d. € 350 per kalenderkwartaal indien het kind 18 jaar of ouder is.
+- d. € 355 per kalenderkwartaal indien het kind 18 jaar of ouder is.
 
 2. Het in het eerste lid, onderdeel d, vermelde bedrag wordt verhoogd tot:
 
-- a. € 700, indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 700 per kwartaal belopen en de kosten van het onderhoud van het kind tevens grotendeels op de belastingplichtige drukken;
+- a. € 710, indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 710 per kwartaal belopen en de kosten van het onderhoud van het kind tevens grotendeels op de belastingplichtige drukken;
 
-- b. € 1050, indien het kind niet tot het huishouden van de belastingplichtige behoort, de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 1050 per kwartaal belopen en de kosten van het onderhoud van het kind tevens geheel of nagenoeg geheel op de belastingplichtige drukken.
+- b. € 1065, indien het kind niet tot het huishouden van de belastingplichtige behoort, de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 1065 per kwartaal belopen en de kosten van het onderhoud van het kind tevens geheel of nagenoeg geheel op de belastingplichtige drukken.
 
 3. Indien zowel de belastingplichtige als zijn partner uitgaven voor levensonderhoud van kinderen in aanmerking nemen, worden de in aanmerking te nemen bedragen gesteld op de helft van de bedragen vermeld in het eerste en tweede lid, zonodig naar boven af te ronden op een geheel getal.
 
@@ -449,112 +449,110 @@ Ingeval een beginnende ondernemer binnen de eerste acht jaren na het verstrekken
 
 ##### Artikel 37. Uitgaven voor specifieke zorgkosten; dieetkosten
 
-1. De extra kosten van een op medisch voorschrift gehouden dieet, bedoeld in [artikel 6.17, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), worden bepaald aan de hand van de navolgende tabel:
+1. De extra kosten van een op voorschrift van een arts of een diëtist gehouden dieet als bedoeld in [artikel 6.17, eerste lid, onderdeel f, en zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), worden bepaald aan de hand van de navolgende tabel:
 
-| Voor het dieet bij het ziektebeeld en de aandoening | Voor het dieet bij het ziektebeeld en de aandoening | Op welk dieet de typering van toepassing is | Bedragen de extra uitgaven |
+| Voor het dieet bij het ziektebeeld en de aandoening | Voor het dieet bij het ziektebeeld en de aandoening | Op welk dieet de in deze kolom genoemde typering van toepassing is | Bedragen de extra uitgaven |
 | --- | --- | --- | --- |
-| Algemene symptomen | groei-achterstand bij kinderen | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
-|   |   | energieverrijkt | € 1.092 |
-|   |   | vloeibaar energieverrijkt | € 629 |
-|   | ondervoeding | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
-|   |   | energieverrijkt | € 1.092 |
-|   |   | vloeibaar energieverrijkt | € 813 |
-|   | decubitus | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
-| Hypertensie en hartziekten | hypertensie | natriumbeperkt | € 304 |
-| Hypertensie en hartziekten | decompensatio cordis, hartfalen | natriumbeperkt | € 304 |
-|   |   | sterk natriumbeperkt | € 387 |
-| Luchtwegen | chronische obstructieve longziekten (COPD) | energieverrijkt | € 1.092 |
-| Maag-, darm- en leverziekten | dumping syndroom | lactosebeperkt | € 487 |
-| Maag-, darm- en leverziekten | chronische pancreatitis | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
-|   | cystic fibrosis | energieverrijkt | € 1.092 |
-|   |   | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
-|   | coeliakie en ziekte van Dühring | glutenvrij | € 1.090 |
-|   |   | glutenvrij in combinatie met lactosebeperkt | € 1.343 |
-|   | short bowel | energieverrijkt | € 1.092 |
-|   |   | energieverrijkt in combinatie met MCT verrijkt | € 1.741 |
-|   | leverziekte | energieverrijkt in combinatie met MCT verrijkt, tevens alcoholvrij | € 1.656 |
-|   |   | energieverrijkt in combinatie met MCT verrijkt, tevens natriumbeperkt en alcoholvrij | € 1.871 |
-|   | overige | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
-|   |   | energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt | € 1.470 |
-|   |   | matig vetbeperkt in combinatie met MCT of ander preparaat, tevens energieverrijkt | € 1.124 |
-| Metabole ziekten | diabetes | diabetes dieet | € 282 |
-|   |   | diabetes dieet natriumbeperkt | € 387 |
-|   | hypercholesterolemie | verzadigd vetzurenbeperkt en cholesterolbeperkt in combinatie met visverrijkt, groentenverrijkt en fruitverrijkt | € 282 |
-|   |   | verzadigd-vetbeperkt en cholesterolbeperkt in combinatie met visverrijkt, groentenverrijkt en fruitverrijkt met plantensterolen | € 300 |
-|   |   | cholesterolverlagend en natriumbeperkt | € 387 |
-|   | vetstofwisselingsstoornis | sterk vetbeperkt in combinatie met MCT of ander preparaat | € 1.124 |
-|   | fructose intolerantie | sterk fructosebeperkt | € 653 |
-|   | galactosemie | galactosevrij | € 820 |
-|   | sacharase isomaltase deficiëntie | polysacharidenverrijkt meervoudig-onverzadigde vetzurenverrijkt in combinatie met sacharosebeperkt, fructosebeperkt, matig vetbeperkt, matig natriumbeperkt en calciumbeperkt | € 1.567 |
-|   | eiwitstofwisselingsstoornis (b.v. PKU en hyperlysinemie) | natuurlijk eiwitbeperkt | € 2.091 |
-| Infectieziekten | aids | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
-| Nierziekten | nierziekten | natriumbeperkt | € 294 |
-|   | chronische nierinsufficiëntie met hemodialyse | eiwitaangewezen in combinatie met matig natriumbeperkt | € 387 |
-|   | nefrotisch syndroom | natriumbeperkt | € 294 |
-| Oncologie | oncologie | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
-| Overige | voedselovergevoeligheid | koemelkeiwitvrij | € 635 |
-|   |   | soja-eiwitvrij | € 358 |
-|   |   | kippenei-eiwitvrij | € 336 |
-|   |   | lactosebeperkt | € 487 |
-|   |   | tarwevrij | € 856 |
-|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij | € 633 |
-|   |   | koemelkeiwitvrij in combinatie met soja-eiwitvrij | € 829 |
-|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij | € 1.617 |
-|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwit en tarwe-vrij | € 1.821 |
-|   |   | koemelkeiwitvrij in combinatie met glutenvrij | € 1.370 |
-|   | brandwonden | energieverrijkt in combinatie met eiwitverrijkt | € 1.092 |
+| Algemene symptomen | groeiachterstand bij kinderen | energieverrijkt in combinatie met eiwitverrijkt | € 950 |
+|   |   | energieverrijkt | € 650 |
+|   | ondervoeding | energieverrijkt in combinatie met eiwitverrijkt | € 950 |
+|   |   | energieverrijkt | € 650 |
+|   | decubitus | energieverrijkt in combinatie met eiwitverrijkt | € 950 |
+| Hypertensie en hartziekten | decompensatio cordis, hartfalen | natriumbeperkt | € 100 |
+| Infectieziekten | aids | energieverbruik in combinatie met eitwitverrijkt | € 950 |
+| Luchtwegen | chronische obstructieve longziekten (COPD) | energieverrijkt in combinatie met eiwitverrijkt | € 950 |
+|   |   | energieverijkt | € 650 |
+| Maag-, darm- en leverziekten | dumping syndroom | lactosebeperkt | € 100 |
+|   | chronische pancreatitis | energieverrijkt in combinatie met eiwitverrijkt | € 650 |
+|   | cystic fibrosis | energieverrijkt | € 650 |
+|   |   | energieverrijkt in combinatie met eiwitverrijkt | € 950 |
+|   | coeliakie en ziekte van Dühring | glutenvrij | € 1400 |
+|   |   | glutenvrij in combinatie met lactosebeperkt | € 1500 |
+|   | overige (inclusief short bowel, leverziekten) | energieverrijkt | € 650 |
+|   |   | energieverrijkt in combinatie met MCT verrijkt (met en zonder vitaminepreparaat | € 1350 |
+|   |   | energieverrijkt in combinatie met eiwitverrijkt | € 950 |
+|   |   | energieverrijkt in combinatie met eiwitverrijkt en | € 1150 |
+| Metabole ziekten | hypercholesterolemie | verzadigd vetbeperkt in combinatie met fyto/plantensterolenvrrijkt | € 100 |
+|   | vetstofwisselingsstoor-nis | vetbeperkt in combinatie met MCT-vet verrijkt | € 800 |
+|   | fructose intolerantie | fructosebeperkt | € 50 |
+|   | galactosemie | galactosevrij | € 50 |
+|   | sacharase isomaltase deficiëntie | sterk sacharosebeperkt, in combinatie met (iso) maltosebeperkt | € 3750 |
+|   | eiwitstofwisselingsstoornis (zoals PKU en hyperlysinemie) | sterk eiwitbeperkt | € 2700 |
+| Nierziekten | nierziekten | natriumbeperkt | € 100 |
+|   | chronische nierinsufficiëntie met hemodialyse | eiwitverrijkt in combinatie met natriumbeperkt | € 250 |
+|   | nefrotisch syndroom | natriumbeperkt | € 100 |
+| Oncologie | oncologie | energieverrijkt in combinatie met eiwitverrijkt | € 950 |
+|   |   | energieverrijkt | € 650 |
+| Overige | voedselovergevoeligheid | koemelkeiwitvrij | € 100 |
+|   |   | soja-eiwitvrij | € 50 |
+|   |   | kippenei-eiwitvrij | € 50 |
+|   |   | lactosebeperkt | € 100 |
+|   |   | tarwevrij | € 1000 |
+|   |   | tarwevrij in combinatie met kippenei-eiwitvrij | € 1100 |
+|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij | € 150 |
+|   |   | koemelkeiwitvrij in combinatie met soja-eiwitvrij | € 250 |
+|   |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij | € 300 |
+|   |   | koemelkeiwitvrij in combinatie met kippeneieiwitvrij, soja-eiwit en tarwe-vrij | € 1250 |
+|   |   | koemelkeiwitvrij in combinatie met glutenvrij | € 1400 |
+|   | brandwonden | energieverrijkt in combinatie met eiwitverrijkt | € 950 |
+|   | lymfe lekkage | eiwitverrijkt in combinatie met sterk (LCT-) vetbeperkt en MCT-vet verrijkt | € 1100 |
+|   | epilepsie | sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt en MCT-vet verrijkt | € 550 |
 
 Voor overige diëten worden de extra kosten gesteld op nihil.
 
 2. Voor de toepassing van dit artikel wordt verstaan onder:
 
-- a. referentievoeding: de voeding conform het voedingspatroon van de Nederlandse bevolking;
+- a. **referentievoeding:** een gezonde voeding conform een Nederlands voedingspatroon, gebaseerd op de Richtlijnen Goede Voeding en Richtlijnen Voedselkeuze;
 
-- b. eiwitverrijkt: een voorgeschreven hoeveelheid eiwit van ten minste 120% ten opzichte van de referentievoeding;
+- b. **energieverrijkt in combinatie met eiwitverrijkt:** een voorgeschreven energiebehoefte van ten minste 125% ten opzichte van de referentievoeding en een voorgeschreven hoeveelheid eiwit van ten minste 15% van de hoeveelheid energie;
 
-- c. energieverrijkt: een voorgeschreven energiebehoefte van ten minste 125% ten opzichte van de referentievoeding;
+- c. **energieverrijkt:** een voorgeschreven energiebehoefte van ten minste 125% ten opzichte van de referentievoeding;
 
-- d. lactosebeperkt: een voorgeschreven lactosebeperking tot 5 gram per etmaal;
+- d. **natriumbeperkt:** een voorgeschreven beperking tot 2000 mg natrium per etmaal;
 
-- e. matig vetbeperkt: een voorgeschreven hoeveelheid vet die voorziet in niet meer dan 30% van de hoeveelheid energie;
+- e. **lactosebeperkt:** een voorgeschreven lactosebeperking tot 5 gram per etmaal;
 
-- f. MCT of ander preparaat: een voorgeschreven hoeveelheid MCT of vergelijkbaar preparaat van 50 gram per etmaal;
+- f. **glutenvrij in combinatie met lactosebeperkt:** glutenvrij en een voorgeschreven lactosebeperking tot 5 gram per etmaal;
 
-- g. vloeibaar: voeding in de vorm van vloeistoffen die door een sonde kunnen worden toegediend;
+- g. **energieverrijkt in combinatie met MCT-vet verrijkt:** een voorgeschreven energiebehoefte van ten minste 125% ten opzichte van de referentievoeding en een voorgeschreven hoeveelheid MCT-vet van ten minste 12% van de hoeveelheid energie per etmaal;
 
-- h. polysacharidenverrijkt: een voorgeschreven hoeveelheid polysachariden die voorziet in ten minste 60 procent van de hoeveelheid energie;
+- h. **energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt:** een voorgeschreven energiebehoefte van ten minste 125% ten opzichte van de referentievoeding, een voorgeschreven hoeveelheid eiwit van ten minste 15% van de hoeveelheid energie en een voorgeschreven lactosebeperking tot 5 gram per etmaal;
 
-- i. fructosebeperkt: een voorgeschreven fructosebeperking tot 10 gram per etmaal;
+- i. **verzadigd vetbeperkt in combinatie met fyto/plantensterolenverrijkt:** een voorgeschreven hoeveelheid verzadigd vet die voorziet in niet meer dan 10% van de hoeveelheid energie en een voorgeschreven hoeveelheid plantaardige stanolen of van plantaardige sterolen van ten minste 2 gram per etmaal;
 
-- j. sterk fructosebeperkt: een voorgeschreven fructosebeperking tot 5 gram per etmaal;
+- j. **vetbeperkt in combinatie met MCT-vet verrijkt:** een voorgeschreven hoeveelheid vet die voorziet in niet meer dan 15% van de hoeveelheid energie en een voorgeschreven hoeveelheid MCT-vet van ten minste 12% van de hoeveelheid energie per etmaal;
 
-- k. meervoudig onverzadigde-vetzurenverrijkt: een voorgeschreven verhouding tussen de hoeveelheid verzadigde vetzuren en de hoeveelheid meervoudig onverzadigde vetzuren van een staat tot twee;
+- k. **fructosebeperkt:** een voorgeschreven fructosebeperking tot 2 gram per etmaal;
 
-- l. natriumbeperkt: een voorgeschreven beperking tot 1500 milligram natrium per etmaal;
+- l. **sterk eiwitbeperkt:** een voorgeschreven beperking tot 10 gram eiwit per etmaal;
 
-- m. sterk vetbeperkt: een voorgeschreven hoeveelheid vet die voorziet in niet meer dan 15 procent van de hoeveelheid energie;
+- m. **eiwitverrijkt in combinatie met natriumbeperkt:** een voorgeschreven hoeveelheid eiwit van ten minste 15% van de hoeveelheid energie en een voorgeschreven beperking tot 2000 mg natrium per etmaal;
 
-- n. sterk natriumbeperkt: een voorgeschreven beperking tot 1000 milligram natrium per etmaal;
+- n. **eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vet verrijkt:** een voorgeschreven hoeveelheid eiwit van ten minste 15% van de hoeveelheid energie, een voorgeschreven hoeveelheid vet die voorziet in niet meer dan 10% van de hoeveelheid energie en een voorgeschreven hoeveelheid MCT-vet van ten minste 12% van de hoeveelheid energie per etmaal;
 
-- o. verzadigd-vetbeperkt: een voorgeschreven hoeveelheid verzadigd vet die voorziet in niet meer dan 10% van de hoeveelheid energie;
+- o. **sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt en MCT-vet verrijkt:** een voorgeschreven hoeveelheid eiwit die voorziet in niet meer dan 10% van de hoeveelheid energie, een voorgeschreven hoeveelheid koolhydraten die voorziet in niet meer dan 20% van de hoeveelheid energie, een voorgeschreven hoeveelheid vet van ten minste 70% van de hoeveelheid energie ten opzichte van de referentievoeding waarvan een voorgeschreven hoeveelheid MCT-vet van 25% van de hoeveelheid energie.
 
-- p. cholesterolbeperkt: een voorschreven beperking tot 300 milligram cholesterol per etmaal;
+3. Voor de toepassing van het eerste lid geldt voor:
 
-- q. natuurlijk-eiwitbeperkt: een voorgeschreven beperking tot 11 gram natuurlijk eiwit per etmaal;
+- a. eenzelfde dieettypering die meerdere keren in aanmerking zou komen éénmaal het bedrag behorende bij die dieettypering;
 
-- r. eiwitaangewezen: een voorgeschreven hoeveelheid eiwit van 1,2 gram per kilogram ideaal lichaamsgewicht per etmaal;
+- b. verschillende dieettyperingen die in aanmerking zouden komen bij eenzelfde ziektebeeld en aandoening elk van de bij die dieettyperingen behorende bedragen;
 
-- s. visverrijkt: een voorgeschreven gebruik van vis van ten minste twee maal per week;
+- c. deels overeenkomende dieettyperingen bij eenzelfde ziektebeeld en aandoening, alleen het hoogste van de voor het van toepassing zijnde ziektebeeld en aandoening geldende bedragen.
 
-- t. groentenverrijkt: een voorgeschreven hoeveelheid groenten van ten minste 200 gram per etmaal;
+4. Ingeval extra uitgaven voor een op voorschrift van een arts of diëtist gehouden dieet niet gedurende het gehele kalenderjaar worden gedaan, worden de met toepassing van het eerste lid bepaalde bedragen naar tijdsgelang herrekend.
 
-- u. fruitverrijkt: een voorgeschreven hoeveelheid fruit van ten minste 200 gram per etmaal;
+5. Een voorschrift als bedoeld in [artikel 6.17, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17) bevat ten minste:
 
-- v. fyto/plantensterolen: een voorgeschreven hoeveelheid plantaardige stanolen van ten minste 36 gram per etmaal of van plantaardige sterolen van ten minste 25 gram per etmaal.
+- a. gegevens waaruit blijkt dat degene die het voorschrift afgeeft medicus of diëtist is;
 
-3. Voor de toepassing van het eerste lid geldt voor een dieet waarvoor meer dan één bedrag in aanmerking zou komen, alleen het hoogste van de voor het van toepassing zijnde ziektebeeld geldende bedragen.
+- b. naam, praktijkadres, telefoonnummer en handtekening van de medicus of diëtist die het voorschrift afgeeft;
 
-4. Ingeval extra uitgaven voor een op medisch voorschrift gehouden dieet niet gedurende het gehele kalenderjaar worden gedaan, worden de in het eerste lid genoemde bedragen naar tijdsgelang in aanmerking genomen.
+- c. naam, adres en burgerservicenummer van de persoon aan wie het dieet is voorgeschreven;
+
+- d. het ziektebeeld en de aandoening van de persoon, bedoeld in onderdeel c, en de dieettypering van het voorgeschreven dieet;
+
+- e. de dagtekening van het voorschrift, de ingangsdatum van het te volgen dieet en indien van toepassing de einddatum van het te volgen dieet.
 
 ##### Artikel 38. Uitgaven voor specifieke zorgkosten; extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven
 
@@ -694,7 +692,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen (hoofdstuk 5 van de wet)
 
-### Hoofdstuk 6. Persoonsgebonden aftrek
+### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen ([hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5))
 
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
@@ -708,11 +706,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2011-01-01&g=2009-03-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2010-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2011-01-01&g=2009-03-01) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2010-01-01) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2011-01-01&g=2009-03-01) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2012-01-01&g=2010-01-01) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -724,7 +722,7 @@ Vervallen
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang (hoofdstuk 4 van de wet)
 
-### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen (hoofdstuk 5 van de wet)
+### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang ([hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4))
 
 ### Hoofdstuk 6. Persoonsgebonden aftrek
 
@@ -750,7 +748,7 @@ Vervallen
 
 - b. het loonheffingennummer van de werkgever;
 
-- c. naam en sociaal-fiscaalnummer van de belastingplichtige;
+- c. naam en burgerservicenummer of, bij het ontbreken van dat nummer, sociaal-fiscaalnummer van de belastingplichtige;
 
 - d. de periode in het kalenderjaar waarin de belastingplichtige gebruik heeft gemaakt van zijn recht op ouderschapsverlof;
 
@@ -772,27 +770,27 @@ Als instantie als bedoeld in [artikel 6.27, tweede lid, van de wet](https://wett
 
 - c. een door de Minister van Onderwijs, Cultuur en Wetenschap nader te bepalen accrediterende partij.
 
-### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
+### Hoofdstuk 6. Persoonsgebonden aftrek
 
 ### Hoofdstuk 9. Wijze van heffing (hoofdstuk 9 van de wet)
 
 ### Hoofdstuk 8. Heffingskorting
 
-### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
+### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 41a. Aan te merken instellingen voor aftrekbare giften
 
-1. Een kerkelijke, levensbeschouwelijke, charitatieve, culturele, wetenschappelijke of algemeen nut beogende instelling wordt door de inspecteur aangemerkt als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33), indien en zolang:
+1. Een uitsluitend of nagenoeg uitsluitend het algemeen nut beogende instelling wordt door de inspecteur aangemerkt als een instelling als bedoeld in [artikel 6.33, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33), indien en zolang:
 
 - a. uit de regelgeving van de instelling en de feitelijke werkzaamheid blijkt dat de instelling geen winstoogmerk heeft;
 
-- b. uit de regelgeving van de instelling en de feitelijke werkzaamheid blijkt dat de instelling het algemeen belang dient;
+- b. uit de regelgeving van de instelling en de feitelijke werkzaamheid blijkt dat de instelling uitsluitend of nagenoeg uitsluitend het algemeen belang dient;
 
 - c. uit de regelgeving van de instelling en de feiten blijkt dat een natuurlijk persoon noch een rechtspersoon over het vermogen van de instelling kan beschikken als ware het zijn eigen vermogen; de inspecteur kan, zonodig onder door hem te stellen voorwaarden, toestaan dat een steunstichting en de instelling of instellingen welke door deze stichting worden ondersteund, over en weer kunnen beschikken over elkaars vermogen als ware het eigen vermogen;
 
-- d. de instelling niet meer vermogen aanhoudt dan is aangegeven in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=41b&z=2011-01-01&g=2009-03-01);
+- d. de instelling niet meer vermogen aanhoudt dan is aangegeven in [artikel 41b](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=41b&z=2012-01-01&g=2010-01-01);
 
 - e. de leden van het orgaan van de instelling dat het beleid bepaalt, ter zake van de door hen voor de instelling verrichte werkzaamheden geen andere beloning ontvangen dan een vergoeding voor gemaakte onkosten en een niet bovenmatig vacatiegeld;
 
@@ -850,7 +848,7 @@ Als mogendheid als bedoeld in [artikel 6.33, eerste lid, onderdeel b en onderdee
 
 ### Hoofdstuk 10. Overgangsrecht
 
-### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
+### Hoofdstuk 8. Heffingskorting
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
@@ -876,7 +874,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 - b. gedurende een periode van ten hoogste 12 maanden (herrekenperiode) kunnen de in de herrekenperiode uit te keren termijnen bij aanvang daarvan in euro’s worden vastgesteld; de hoogte van de termijnen in euro’s dient daarbij te worden bepaald op basis van de werkelijke waarde van de beleggingseenheid per een vaste peildatum gelegen in de kalendermaand waarin de herrekenperiode ingaat of in een van de twee daaraan voorafgaande kalendermaanden; slechts eenmalig kan worden gekozen voor een datum van ingang van de herrekenperiode.
 
-### Hoofdstuk 2. Raamwerk (hoofdstuk 2 van de wet)
+### Hoofdstuk 2. Raamwerk ([hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=2))
 
 ### Hoofdstuk 3. Heffingsgrondslag bij werk en woning (hoofdstuk 3 van de wet)
 
@@ -916,9 +914,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 5. Ingeval het fonds is aangewezen met een ingroeiperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
 
-6. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2011-01-01&g=2009-03-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
+6. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2012-01-01&g=2010-01-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
 
-7. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2011-01-01&g=2009-03-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
+7. Indien het fonds de in [artikel 29a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2012-01-01&g=2010-01-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
 
 8. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend.
 
@@ -931,6 +929,136 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 1. Een fonds dat voor 1 januari 2008 is aangewezen als fonds als bedoeld in [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), onderscheidenlijk [artikel 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.15) of [artikel 5.18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18a), zoals de wet toen luidde, wordt geacht met ingang van 1 januari 2008 door de inspecteur bij beschikking te zijn aangewezen op de voet van de wet zoals die thans luidt.
 
 2. Een participatiemaatschappij die voor 1 januari 2008 is aangewezen als participatiemaatschappij als bedoeld in [artikel 5.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.18), zoals de wet toen luidde, wordt geacht met ingang van 1 januari 2008 door de inspecteur bij beschikking te zijn aangewezen op de voet van de wet zoals die thans luidt.
+
+### Hoofdstuk 9. Wijze van heffing ([hoofdstuk 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=9))
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
+
+##### Artikel 4a. Toerekening afgezonderd particulier vermogen
+
+1. Degene die als begunstigde een juridisch afdwingbaar recht heeft ten laste van een afgezonderd particulier vermogen, wordt in zoverre in de belastingheffing betrokken.
+
+2. Indien aan twee of meer personen de bezittingen en schulden alsmede de opbrengsten en uitgaven van een afgezonderd particulier vermogen worden toegerekend, wordt bij deze toerekening aangesloten bij de waarde van hetgeen ten tijde van de afzondering door ieder van de bedoelde personen of hun rechtsvoorgangers is afgezonderd in de zin van [artikel 2.14a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a). Met uitkeringen uit het vermogen van het afgezonderd particulier vermogen wordt op overeenkomstige wijze rekening gehouden.
+
+3. Ingeval bij een afzondering van vermogen in een afgezonderd particulier vermogen niet bekend is welk vermogen door iemand is afgezonderd, vindt toerekening van dit vermogen plaats naar rato van het aantal personen dat vermogen daarin heeft afgezonderd.
+
+4. Onder het onder in het maatschappelijk verkeer ongebruikelijke voorwaarden rechtens dan wel in feite, direct of indirect, afzonderen van vermogensbestanddelen in een afgezonderd particulier vermogen, bedoeld in [artikel 2.14a, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), wordt mede verstaan:
+
+- a. het vervreemden van vermogensbestanddelen aan een afgezonderd particulier vermogen tegen een prijs die afwijkt van de waarde in het economische verkeer;
+
+- b. het bedingen van voorwaarden bij het vervreemden van vermogensbestanddelen aan een afgezonderd particulier vermogen die niet overeenkomen met voorwaarden die in het maatschappelijk verkeer gebruikelijk zijn;
+
+- c. het inbrengen van vermogensbestanddelen in een afgezonderd particulier vermogen waarbij de inbreng en daarmee samenhangende rechtshandelingen gericht zijn op of direct of indirect verband houden met het ontgaan of uitstellen van de toerekening, bedoeld in [artikel 2.14a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a).
+
+5. Bezittingen en schulden van een afgezonderd particulier vermogen worden in aanmerking genomen naar de waarde in het economisch verkeer die zou gelden als deze bezittingen en schulden deel zouden uitmaken van het vermogen van degene aan wie de bezittingen en schulden van het afgezonderd particulier vermogen worden toegerekend.
+
+6. De erfgenaam die gebruik wil maken van de tegenbewijsregeling, bedoeld in [artikel 2.14a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), dient ten minste de volgende gegevens aan de inspecteur over te leggen:
+
+- a. een beschrijving van het soort afgezonderd particulier vermogen en land van vestiging;
+
+- b. de oprichtingsakte van het afgezonderd particulier vermogen inclusief bijlagen (zoals instructies, reglementen, letter of wishes, statuten);
+
+- c. de meest actuele jaarstukken van het afgezonderd particulier vermogen over minimaal drie jaren;
+
+- d. naam- en adresgegevens van de inbrenger van het vermogen en van de overige erfgenamen;
+
+- e. alle overige stukken waaruit blijkt dat de bedoelde erfgenaam geen begunstigde is van het afgezonderd particulier vermogen en dit in de toekomst ook nooit kan worden.
+
+### Hoofdstuk 3. Heffingsgrondslag bij werk en woning ([hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3))
+
+##### Artikel 6a. Belastbare winst uit onderneming; overige vrijstellingen; vrijstelling mobiliteitsprojecten
+
+Als mobiliteitsprojecten in het kader van het project Anders betalen voor mobiliteit als bedoeld in [artikel 3.13, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) worden aangewezen:
+
+- a. Spitsmijden A15 als bedoeld in het Uitvoeringsconvenant Spitsmijden A15 (Stcrt. 2009, 14);
+
+- b. Mobiliteitsproject ‘Prijsprikkels door Bedrijven voor de Bereikbaarheid van Haaglanden’ als bedoeld in het Uitvoeringsconvenant Mobiliteitsproject ‘Prijsprikkels door Bedrijven voor de Bereikbaarheid van Haaglanden’ (Stcrt. 2009, 10581);
+
+- c. Betaald Rijden Proef Stadsregio Amsterdam als bedoeld in het Uitvoeringsconvenant mobiliteitsproject Proef Betaald Rijden (Amsterdam) (Stcrt. 2009, 11593);
+
+- d. Mobiliteitsproject regio Eindhoven-’s-Hertogenbosch als bedoeld in het Uitvoeringsconvenant Mobiliteitsproject regio Eindhoven-’s-Hertogenbosch (Stcrt. 2009, 11790);
+
+- e. Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug als bedoeld in het Uitvoeringsconvenant Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug (Stcrt. 2009, 18102), en
+
+- f. Mobiliteitproject Beloningsmaatregel Utrecht Oost als bedoeld in het Uitvoeringsconvenant Mobiliteitsproject Beloningsmaatregel Utrecht Oost (Stcrt. 2009, 18120).
+
+##### Artikel 26a. Verzoek om toepassing doorschuifregelingen bij vererving, bij verdeling van de nalatenschap binnen twee jaar of bij schenking
+
+1. Een verzoek als bedoeld in [artikel 4.17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a), [artikel 4.17b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17b), of artikel 4.17b, derde lid, van de wet wordt schriftelijk gedaan bij de inspecteur die is belast met de aanslagregeling van de erflater.
+
+2. Een verzoek als bedoeld in [artikel 4.17b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17b), of [artikel 4.17c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c) wordt schriftelijk gedaan bij de inspecteur die is belast met de aanslagregeling van de vervreemder.
+
+##### Artikel 26b. In het kader van een bedrijfsoverdracht uitgegeven preferente aandelen
+
+1. Onder een omzetting van gewone aandelen in preferente aandelen als bedoeld in [artikel 4.17a, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) wordt ook begrepen een uitgifte van preferente aandelen in het kader van een aandelenfusie als bedoeld in [artikel 3.55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55), een juridische splitsing als bedoeld in [artikel 3.56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56) of een juridische fusie als bedoeld in [artikel 3.57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57).
+
+2. Aan het gestelde in [artikel 4.17a, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) wordt ook geacht te zijn voldaan indien de daar bedoelde preferente aandelen worden verkregen van een rechtsopvolger krachtens erfrecht of huwelijksvermogensrecht van degene die de aandelen heeft omgezet als bedoeld in genoemd onderdeel.
+
+3. Indirect gehouden preferente aandelen zijn uitgegeven in het kader van een bedrijfsoverdracht als bedoeld in [artikel 4.17a, vijfde lid, laatste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) indien:
+
+- a. de preferente aandelen een omzetting vormen van een eerder door de erflater gehouden indirect belang van gewone aandelen als bedoeld in [artikel 4.17a, vijfde lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a);
+
+- b. de omzetting in preferente aandelen gepaard is gegaan met het toekennen van gewone aandelen aan een ander;
+
+- c. ten tijde van de omzetting in preferente aandelen de vennootschap waarop de omgezette aandelen betrekking hadden een onderneming dreef als bedoeld in [artikel 4.17a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a), of een medegerechtigdheid hield als bedoeld in artikel 4.17a, eerste lid, onderdeel b, van de wet, en
+
+- d. de verkrijger van de indirect gehouden preferente aandelen reeds voor ten minste 5% van het geplaatste kapitaal direct of indirect aandeelhouder is van gewone aandelen als bedoeld in onderdeel b.
+
+Voor de toepassing van dit lid wordt onder een omzetting van gewone aandelen in preferente aandelen als bedoeld in de eerste volzin ook begrepen een uitgifte van preferente aandelen in het kader van een aandelenfusie als bedoeld in [artikel 3.55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55), een juridische splitsing als bedoeld in [artikel 3.56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56) of een juridische fusie als bedoeld in [artikel 3.57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57). Voorts wordt daaronder ook begrepen een uitgifte van preferente aandelen in het kader van een bedrijfsfusie als bedoeld in [artikel 14a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a).
+
+4. Indien preferente aandelen zijn ontstaan in het kader van een gefaseerde bedrijfsoverdracht als bedoeld in [artikel 4.17a, derde de lid of vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a), dan behouden deze aandelen het karakter dat zij in aanmerking worden genomen voor de toepassing van artikel 4.17a, eerste lid, onderdeel c, van die wet voor zover de houder van deze preferente aandelen ook houder is van de gewone aandelen die bij het ontstaan van de preferente aandelen zijn toegekend aan de bedrijfsopvolger.
+
+5. Voor de bepaling of de verkrijger van de preferente aandelen voldoet aan de voorwaarde van [artikel 4.17a, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) worden de preferente aandelen niet gerekend tot het geplaatste kapitaal. De eerste volzin is van overeenkomstige toepassing voor de toepassing van het derde lid, eerste volzin, onderdeel d.
+
+##### Artikel 26c. Verkorting termijn 36 maanden uit de doorschuifregeling bij schenking
+
+1. Aan de in [artikel 4.17c, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c) bedoelde termijn van 36 maanden wordt geacht te zijn voldaan indien zich na het aangaan van de aldaar bedoelde dienstbetrekking een omstandigheid voordoet als bedoeld in het tweede lid.
+
+2. Het eerste lid is van toepassing indien de vervreemder:
+
+- a. door ziekte of gebreken gedurende ten minste één jaar niet in staat is, of vermoedelijk niet in staat zal zijn, om ten minste 55% te verdienen van wat lichamelijk en geestelijk gezonde personen die overigens in gelijke omstandigheden verkeren, kunnen verdienen;
+
+- b. in staat van faillissement is verklaard;
+
+- c. surséance van betaling heeft aangevraagd, of
+
+- d. onder curatele is gesteld.
+
+##### Artikel 26d. Werknemer bij een werkmaatschappij in geval van schenking van aandelen in een holding
+
+Aan de in [artikel 4.17c, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c) bedoelde voorwaarde wordt geacht ook te zijn voldaan indien:
+
+- a. de vennootschap waarop de aandelen of winstbewijzen betrekking hebben, een belang heeft in een ander lichaam;
+
+- b. dat andere lichaam een onderneming drijft of een medegerechtigdheid houdt, een en ander als bedoeld in [artikel 4.17c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c), en
+
+- c. de verkrijger reeds gedurende de 36 maanden die onmiddellijk voorafgaan aan het tijdstip van de vervreemding in dienstbetrekking is van dat andere lichaam.
+
+##### Artikel 45aa. Bijzondere regels voor ambtshalve verminderingen
+
+De inspecteur vermindert ambtshalve een belastingaanslag die op een te hoog bedrag is vastgesteld, tenzij:
+
+- a. zeven jaren zijn verlopen na het einde van het kalenderjaar waarop de belastingaanslag betrekking heeft;
+
+- b. de onjuistheid van de belastingaanslag voortvloeit uit jurisprudentie die eerst is gewezen nadat die belastingaanslag onherroepelijk vast is komen te staan, tenzij de Minister van Financiën anders heeft bepaald;
+
+- c. de onjuistheid van de belastingaanslag voortvloeit uit beleidsregels van de Minister van Financiën die eerst zijn uitgevaardigd nadat die belastingaanslag onherroepelijk vast is komen te staan, tenzij de Minister van Financiën anders heeft bepaald;
+
+- d. de onjuistheid van de belastingaanslag voortvloeit uit de omstandigheid dat eerst nadat die belastingaanslag onherroepelijk vast is komen te staan een beroep wordt gedaan op een fiscale faciliteit, waarop een beroep moet worden gedaan bij de aangifte of op een ander wettelijk voorgeschreven moment; of
+
+- e. sprake is van enig feit waardoor ten onrechte inkomstenbelasting is geheven en als gevolg van die heffing een andere belasting, al dan niet van dezelfde belastingplichtige, ter zake van datzelfde feit niet is geheven en ook niet meer kan worden geheven, met dien verstande dat in dat geval wel ambtshalve vermindering plaatsvindt voor zover het bedrag van de eerstgenoemde belasting het bedrag van de andere belasting te boven gaat.
+
+### Hoofdstuk 10. Overgangsrecht
+
+##### Artikel 45d. Overgangsrecht eigenwoningregeling en leegstaande woning
+
+Met betrekking tot gevallen waarin het genereren van inkomen uit sparen en beleggen uit de woning bedoeld in [artikel 3.111, tweede lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) reeds is aangevangen vóór 1 januari 2010, blijft artikel 3.111, tweede lid, van de wet, zoals dit luidde op 31 december 2009, van toepassing, tenzij de belastingplichtige ermee instemt dat:
+
+- a. het gaan genereren van inkomsten uit sparen en beleggen, bedoeld in [artikel 3.111, tweede lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) niet wordt aangemerkt als een vervreemding als bedoeld in [artikel 3.119a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a);
+
+- b. indien op grond van [artikel 3.119b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119b) een beschikking eigenwoningreserve is of wordt afgegeven, die beschikking wordt herzien;
+
+- c. indien de woning vanaf enig moment weer belastbare inkomsten uit eigen woning genereert, dit niet wordt aangemerkt als een verwerving als bedoeld in [artikel 3.119a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a).
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
