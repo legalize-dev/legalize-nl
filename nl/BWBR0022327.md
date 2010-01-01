@@ -4,7 +4,7 @@ identifier: "BWBR0022327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-02"
-last_updated: "2006-03-26"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022327"
 soort: "ministeriele-regeling"
@@ -54,17 +54,17 @@ De algemeen directeur van SenterNovem wordt gemandateerd tot:
 
 Aan de algemeen directeur van SenterNovem wordt:
 
-- a. volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2006-03-26&g=2006-03-26);
+- a. volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2006-03-26&g=2010-01-01);
 
-- b. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2006-03-26&g=2006-03-26).
+- b. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2006-03-26&g=2010-01-01).
 
 ##### Artikel 3
 
-De algemeen directeur van SenterNovem kan zijn bevoegdheid bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2006-03-26&g=2006-03-26) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=2&z=2006-03-26&g=2006-03-26), ondermandateren aan een of meer onder hem ressorterende functionarissen.
+De algemeen directeur van SenterNovem kan zijn bevoegdheid bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2006-03-26&g=2010-01-01) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=2&z=2006-03-26&g=2010-01-01), ondermandateren aan een of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 4
 
-Indien uitvoering wordt gegeven aan [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2006-03-26&g=2006-03-26) luidt de ondertekening:
+Indien uitvoering wordt gegeven aan [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2006-03-26&g=2010-01-01) luidt de ondertekening:
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
 
