@@ -4,7 +4,7 @@ identifier: "BWBR0012035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2009-05-31"
+last_updated: "2010-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012035"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Besluit:
 
 ##### Artikel 3
 
-De termijn bedoeld in [artikel 3.31, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31) waarbinnen het verzoek ter zake van een bedrijfsmiddel dat bestemd is om te worden gebruikt buiten Nederland, moet zijn ingediend, wordt gesteld op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=2&artikel=2&z=2009-05-31&g=2009-05-31) gestelde termijn. Bij dit verzoek worden tevens de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van het bedrijfsmiddel aangemeld.
+De termijn bedoeld in [artikel 3.31, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31) waarbinnen het verzoek ter zake van een bedrijfsmiddel dat bestemd is om te worden gebruikt buiten Nederland, moet zijn ingediend, wordt gesteld op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01) gestelde termijn. Bij dit verzoek worden tevens de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van het bedrijfsmiddel aangemeld.
 
 ##### Artikel 4
 
@@ -96,7 +96,7 @@ Vervallen
 
 ##### Artikel 8
 
-Op de aanschaffings- of voortbrengingskosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=1&artikel=7&z=2009-05-31&g=2009-05-31), kan willekeurig worden afgeschreven voor zover het gezamenlijke bedrag van die kosten in het kalenderjaar niet uitgaat boven het in de tabel van [artikel 3.41, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41) opgenomen maximum bedrag waarover kleinschaligheidsinvesteringsaftrek kan worden verkregen. De eerste volzin vindt geen toepassing op de aanschaffings- of voortbrengingskosten van bedrijfsmiddelen waarop uit andere hoofde willekeurig wordt afgeschreven.
+Op de aanschaffings- of voortbrengingskosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=1&artikel=7&z=2010-01-01&g=2010-01-01), kan willekeurig worden afgeschreven voor zover het gezamenlijke bedrag van die kosten in het kalenderjaar niet uitgaat boven het in de tabel van [artikel 3.41, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41) opgenomen maximum bedrag waarover kleinschaligheidsinvesteringsaftrek kan worden verkregen. De eerste volzin vindt geen toepassing op de aanschaffings- of voortbrengingskosten van bedrijfsmiddelen waarop uit andere hoofde willekeurig wordt afgeschreven.
 
 ##### Artikel 9
 
@@ -110,55 +110,25 @@ Als andere aangewezen bedrijfsmiddelen als bedoeld in [artikel 3.34, tweede lid,
 
 ##### Artikel 11
 
-De willekeurige afschrijving op bedrijfsmiddelen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=2&artikel=10&z=2009-05-31&g=2009-05-31) bedraagt per kalenderjaar ten hoogste 20% van de af te schrijven aanschaffings- of voortbrengingskosten. De willekeurige afschrijving kan slechts worden toegepast voor zover de berekening van de winst uit zeescheepvaart bedoeld in [3.22, vierde lid en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) zonder die afschrijving tot een positief bedrag leidt. Indien de afschrijving - willekeurig of op grond van [artikel 3.30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30) - in een jaar minder bedraagt dan het bedrag dat op grond van de eerste volzin ten hoogste willekeurig kan worden afgeschreven, wordt het verschil toegevoegd aan het bedrag dat in het volgende jaar ten hoogste willekeurig kan worden afgeschreven.
+De willekeurige afschrijving op bedrijfsmiddelen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=2&artikel=10&z=2010-01-01&g=2010-01-01) bedraagt per kalenderjaar ten hoogste 20% van de af te schrijven aanschaffings- of voortbrengingskosten. De willekeurige afschrijving kan slechts worden toegepast voor zover de berekening van de winst uit zeescheepvaart bedoeld in [3.22, vierde lid en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) zonder die afschrijving tot een positief bedrag leidt. Indien de afschrijving - willekeurig of op grond van [artikel 3.30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30) - in een jaar minder bedraagt dan het bedrag dat op grond van de eerste volzin ten hoogste willekeurig kan worden afgeschreven, wordt het verschil toegevoegd aan het bedrag dat in het volgende jaar ten hoogste willekeurig kan worden afgeschreven.
 
 ##### Artikel 12
 
-Met betrekking tot bedrijfsmiddelen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=2&artikel=10&z=2009-05-31&g=2009-05-31) wordt de periode, bedoeld in [artikel 3.38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.38), gesteld op tien jaar, aanvangende met het begin van het kalenderjaar waarin de verplichtingen zijn aangegaan of de voortbrengingingskosten zijn gemaakt.
+Met betrekking tot bedrijfsmiddelen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=2&artikel=10&z=2010-01-01&g=2010-01-01) wordt de periode, bedoeld in [artikel 3.38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.38), gesteld op tien jaar, aanvangende met het begin van het kalenderjaar waarin de verplichtingen zijn aangegaan of de voortbrengingingskosten zijn gemaakt.
 
 #### Paragraaf 3. Investeringen in het belang van de bevordering van de economische ontwikkeling
 
 ##### Artikel 13
 
-1. Als andere aangewezen bedrijfsmiddelen als bedoeld in [artikel 3.34, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.34), worden voorts aangewezen: bedrijfsmiddelen die niet eerder in gebruik zijn genomen, voor zover de belastingplichtige ter zake van de aanschaffing verplichtingen is aangegaan of ter zake van de voortbrenging voortbrengingskosten heeft gemaakt in het kalenderjaar 2009, en het bedrijfsmiddel vóór 1 januari 2012 door hem in gebruik wordt genomen.
-
-2. Tot de bedrijfsmiddelen, bedoeld in het eerste lid, behoren niet:
-
-- a. gebouwen;
-
-- b. woonschepen;
-
-- c. bromfietsen als bedoeld in [artikel 1, eerste lid, onderdeel e, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1);
-
-- d. motorrijwielen als bedoeld in [artikel 4, eerste en tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=4);
-
-- e. personenauto’s als bedoeld in [artikel 3 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=3), die niet zijn bestemd voor het beroepsvervoer over de weg, en met uitzondering van zeer zuinige personenauto’s als bedoeld in het vierde lid;
-
-- f. immateriële activa;
-
-- g. dieren;
-
-- h. voor het openbaar rij- of ander verkeer openstaande wegen en paden, daaronder begrepen de in die wegen en paden liggende bruggen, viaducten, duikers en tunnels;
-
-- i. bedrijfsmiddelen die zijn bestemd om – direct of indirect – hoofdzakelijk ter beschikking te worden gesteld aan derden, uitgezonderd bedrijfsmiddelen die zijn bestemd om voor korte duur te worden verhuurd aan opeenvolgende huurders;
-
-- j. bedrijfsmiddelen waarop uit anderen hoofde willekeurig wordt afgeschreven.
-
-3. De in het eerste lid genoemde datum van 1 januari 2012 waarvoor de ingebruikneming van het bedrijfsmiddel dient plaats te vinden, wordt verschoven, indien de belastingplichtige aannemelijk maakt dat de ingebruikneming door bijzondere omstandigheden is vertraagd. De verschuiving bedraagt zoveel dagen als door die omstandigheden wordt gerechtvaardigd.
-
-4. Voor de toepassing van het tweede lid, onderdeel e, wordt onder een zeer zuinige personenauto verstaan een personenauto met een CO2-uitstoot als bedoeld in [artikel 3.20, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20) van niet meer dan:
-
-- a. 95 gram per kilometer bij een auto die wordt aangedreven door een motor met een compressieontsteking, en
-
-- b. 110 gram per kilometer bij een auto die niet wordt aangedreven door een motor met compressieontsteking.
+Vervallen
 
 ##### Artikel 14
 
-De willekeurige afschrijving op bedrijfsmiddelen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=3&artikel=13&z=2009-05-31&g=2009-05-31), kan alleen plaatsvinden bij de bepaling van de winst over het jaar waarin de verplichting is aangegaan of de voortbrengingskosten zijn gemaakt en bij de bepaling van de winst over het onmiddellijk daaropvolgende jaar, en bedraagt per jaar ten hoogste 50% van de af te schrijven aanschaffings- of voortbrengingskosten.
+Vervallen
 
 ##### Artikel 15
 
-Voor de toepassing van [artikel 3.38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.38), eindigt de periode waarin het bedrijfsmiddel moet voldoen aan de voorwaarden die zijn gesteld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=3&artikel=13&z=2009-05-31&g=2009-05-31), op 31 december 2011. Ingeval met betrekking tot het bedrijfsmiddel [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=3&artikel=13&z=2009-05-31&g=2009-05-31), toepassing vindt, wordt die periode verlengd met het aantal dagen van de aldaar bedoelde verschuiving.
+Vervallen
 
 ##### Artikel 15a
 
