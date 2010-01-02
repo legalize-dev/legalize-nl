@@ -4,7 +4,7 @@ identifier: "BWBR0007094"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-12"
-last_updated: "2009-10-31"
+last_updated: "2010-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007094"
 soort: "ministeriele-regeling"
@@ -45,7 +45,15 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-a. **kabelvlieger:** een toestel, zwaarder dan lucht en niet voorzien van een voortstuwingsinrichting, dat door middel van (een) ankerkabel(s) of lijn(en) is verbonden met het aardoppervlak; b. **kleine ballon:** een kleine kabelballon of een kleine vrije ballon; c. **kleine kabelballon:** een ballon, die door middel van (een) ankerkabel(s) of lijn(en) is verbonden met het aardoppervlak en die op zeeniveau in de internationale standaardatmosfeer in geheel gevulde toestand een diameter van ten hoogste 2 m of een inhoud van ten hoogste 4 m³ heeft, dan wel een samenstel van ballons waarvan de gezamenlijke diameter of inhoud deze waarde niet te boven gaan; d. **kleine vrije ballon:** een ballon die niet is verbonden met het aardoppervlak en die op zeeniveau in de internationale standaard-atmosfeer in geheel gevulde toestand een diameter van ten hoogste 2 m of een inhoud van ten hoogste 4 m³ heeft, dan wel een samenstel van ballons waarvan de gezamenlijke diameter of inhoud deze waarden niet te boven gaan; e. **speelgoedballon:** een kleine vrije ballon, of samenstel van kleine vrije ballons, waarvan de grootste (gezamenlijke) afmeting niet meer dan 75 cm bedraagt.
+- a. **kabelvlieger:** een toestel, zwaarder dan lucht en niet voorzien van een voortstuwingsinrichting, dat door middel van (een) ankerkabel(s) of lijn(en) is verbonden met het aardoppervlak;
+
+- b. **kleine ballon:** een kleine kabelballon of een kleine vrije ballon;
+
+- c. **kleine kabelballon:** een ballon, die door middel van (een) ankerkabel(s) of lijn(en) is verbonden met het aardoppervlak en die op zeeniveau in de internationale standaardatmosfeer in geheel gevulde toestand een diameter van ten hoogste 2 m of een inhoud van ten hoogste 4 m³ heeft, dan wel een samenstel van ballons waarvan de gezamenlijke diameter of inhoud deze waarde niet te boven gaan;
+
+- d. **kleine vrije ballon:** een ballon die niet is verbonden met het aardoppervlak en die op zeeniveau in de internationale standaard-atmosfeer in geheel gevulde toestand een diameter van ten hoogste 2 m of een inhoud van ten hoogste 4 m³ heeft, dan wel een samenstel van ballons waarvan de gezamenlijke diameter of inhoud deze waarden niet te boven gaan;
+
+- e. **speelgoedballon:** kleine vrije ballon, of samenstel van kleine vrije ballons, waarvan de hoogte of de breedte niet meer dan 75 cm bedraagt en die geen metalen voorwerpen of onderdelen bevat.
 
 ##### Artikel 2. Kabelvliegers en kleine kabelballons
 
@@ -83,9 +91,13 @@ Een kabelvlieger of kleine kabelballon wordt niet gebruikt:
 
 ##### Artikel 4. Speelgoedballons
 
-1. Indien 1000 speelgoedballons, of meer, nagenoeg gelijktijdig worden opgelaten is daarop [artikel 3, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007094&artikel=3&z=2009-10-31&g=2009-10-31) van toepassing.
+1. Indien 1000 speelgoedballons, of meer, nagenoeg gelijktijdig worden opgelaten is daarop [artikel 3, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007094&artikel=3&z=2010-01-02&g=2010-01-02) van toepassing.
 
-2. Bij een oplating, zoals bedoeld in het eerste lid worden geen metalen voorwerpen meegevoerd.
+2. Voorwerpen die door speelgoedballons worden meegevoerd worden voorzien van een valscherm dat de daalsnelheid beperkt tot maximaal 5 m/sec indien deze voorwerpen ieder afzonderlijk of gezamenlijk:
+
+- a. een massa van 30 gram of meer hebben, of
+
+- b. een oppervlakte-dichtheid van 5 gr/cm2 of meer hebben.
 
 3. Speelgoedballons die (een) voorwerp(en) meevoeren met een (gezamenlijke) massa van 30 gram of meer of een oppervlakte dichtheid van 5 gr/cm² of meer wordt(en) voorzien van een valscherm dat de daalsnelheid beperkt tot maximaal 5m/sec.
 
