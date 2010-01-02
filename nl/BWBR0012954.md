@@ -4,7 +4,7 @@ identifier: "BWBR0012954"
 country: "nl"
 rank: "kb"
 publication_date: "2025-11-19"
-last_updated: "2002-02-15"
+last_updated: "2010-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012954"
 soort: "KB"
@@ -68,7 +68,7 @@ De voorzitter en de leden wordt, voor zover zij in 2000 deel uitmaakten van de c
 
 ##### Artikel 7
 
-Indien de voorzitter of een lid van de Commissie niet gedurende het hele jaar de functie van voorzitter of lid bekleedt, wordt de vergoeding, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=3&z=2002-02-15&g=2002-02-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=4&z=2002-02-15&g=2002-02-15) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=6&z=2002-02-15&g=2002-02-15), naar evenredigheid vastgesteld.
+Indien de voorzitter of een lid van de Commissie niet gedurende het hele jaar de functie van voorzitter of lid bekleedt, wordt de vergoeding, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=3&z=2002-02-15&g=2010-01-02), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=4&z=2002-02-15&g=2010-01-02) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012954&artikel=6&z=2002-02-15&g=2010-01-02), naar evenredigheid vastgesteld.
 
 ##### Artikel 8
 
