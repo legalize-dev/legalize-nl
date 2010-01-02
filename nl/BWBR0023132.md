@@ -4,7 +4,7 @@ identifier: "BWBR0023132"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-09"
-last_updated: "2010-01-01"
+last_updated: "2010-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023132"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Op de jaarverslaggeving is [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://w
 
 In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9):
 
-- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3a&z=2010-01-01&g=2010-01-01) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
+- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3a&z=2010-01-01&g=2010-01-02) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
 
 - b. wordt de jaarverslaggeving gepubliceerd in de Nederlandse taal en in de in Nederland wettige valuta;
 
@@ -100,7 +100,7 @@ In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek]
 
 1. Het bevoegd gezag levert de jaarverslaggeving zowel in schriftelijke als elektronische vorm aan bij de Dienst Uitvoering Onderwijs.
 
-2. De aanlevering van gegevens uit de jaarrekening en de gegevens, bedoeld in [artikel 3, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2010-01-01&g=2010-01-01), geschiedt met gebruikmaking van een daartoe ingericht instrument dan wel met gebruikmaking van instrumenten die op overeenkomstige wijze gegevens genereren.
+2. De aanlevering van gegevens uit de jaarrekening en de gegevens, bedoeld in [artikel 3, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2010-01-01&g=2010-01-02), geschiedt met gebruikmaking van een daartoe ingericht instrument dan wel met gebruikmaking van instrumenten die op overeenkomstige wijze gegevens genereren.
 
 ##### Artikel 5. Intrekken regelingen
 
@@ -144,7 +144,7 @@ In afwijking van hoofdstuk 271 van de richtlijnen worden voor de verslagjaren 20
 
 - a. een voorziening in verband met de BAPO wordt uitsluitend in de balans of in de staat van baten en lasten opgenomen als dat ook in voorgaand verslagjaar is gebeurd; de berekening en de verwerking van die voorziening zijn niet anders dan in voorgaand verslagjaar,
 
-- b. het bevoegd gezag neemt in een afzonderlijke toelichting bij de jaarrekening, aan de hand van het berekeningsmodel in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2010-01-01&g=2010-01-01) bij deze regeling, een berekening op met de volgende gegevens:
+- b. het bevoegd gezag neemt in een afzonderlijke toelichting bij de jaarrekening, aan de hand van het berekeningsmodel in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2010-01-01&g=2010-01-02) bij deze regeling, een berekening op met de volgende gegevens:
 
 - 1. de waardering van de toekomstige lasten die voortvloeien uit de BAPO;
 
@@ -154,7 +154,7 @@ In afwijking van hoofdstuk 271 van de richtlijnen worden voor de verslagjaren 20
 
 - 4. de wijze waarop het bevoegd gezag de toekomstige BAPO-lasten denkt te kunnen opvangen;
 
-- 5. het bevoegd gezag neemt de uitkomsten van de berekeningen op de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=2&z=2010-01-01&g=2010-01-01) voorgeschreven wijze en stuurt deze samen met de jaarrekening in.
+- 5. het bevoegd gezag neemt de uitkomsten van de berekeningen op de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=2&z=2010-01-01&g=2010-01-02) voorgeschreven wijze en stuurt deze samen met de jaarrekening in.
 
 ## Bijlage
 
@@ -176,7 +176,27 @@ van de instelling: …………..
 
 ## Bijlage 2
 
-Het bevoegd gezag neemt de overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2010-01-01&g=2010-01-01) uitgevoerde berekeningen met behulp van een Excel spreadsheet op in een overzicht waarbij de volgende indeling wordt gehanteerd:
+Het bevoegd gezag neemt de overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2010-01-01&g=2010-01-02) uitgevoerde berekeningen met behulp van een Excel spreadsheet op in een overzicht waarbij de volgende indeling wordt gehanteerd:
+
+| Bevoegd gezagnummer: | Bevoegd gezagnummer: |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| Naam bevoegd gezag: | Naam bevoegd gezag: |   |   |   |   |   |
+| Plaats bevoegd gezag: | Plaats bevoegd gezag: |   |   |   |   |   |
+| Kalenderjaar: | Kalenderjaar: |   |   |   |   |   |
+| Onderwijssector: | Onderwijssector: | **(in te vullen door de DUO)** | **(in te vullen door de DUO)** | **(in te vullen door de DUO)** | **(in te vullen door de DUO)** | **(in te vullen door de DUO)** |
+| BAPO aanspraken PO (a) | BAPO aanspraken VO (b) | **Totaal** **BAPO** **aanspraken** **(a+b)=C** | BAPO inkomsten PO (d) | BAPO inkomsten VO (e) | **Totaal** **BAPO** **inkomsten** **(d+e)=F** | Saldo BAPO verplichtingen (C-F)=G |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+| Berekening BAPO conform berekening 2007? | Berekening BAPO conform berekening 2007? | Berekening BAPO conform berekening 2007? | Berekening BAPO conform berekening 2007? | Ja/Nee | Ja/Nee | Ja/Nee |
+| Zo nee, reden? | Zo nee, reden? | Zo nee, reden? | Zo nee, reden? |   |   |   |
+| Op welke wijze denkt het bevoegd gezag de toekomstige BAPO-verplichtingen te kunnen opvangen? | Op welke wijze denkt het bevoegd gezag de toekomstige BAPO-verplichtingen te kunnen opvangen? | Op welke wijze denkt het bevoegd gezag de toekomstige BAPO-verplichtingen te kunnen opvangen? | Op welke wijze denkt het bevoegd gezag de toekomstige BAPO-verplichtingen te kunnen opvangen? |   |   |   |
+
+Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+
+## Bijlage 3
+
+Het bevoegd gezag neemt de overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2010-10-05&g=2010-01-02) uitgevoerde berekeningen met behulp van een Excel spreadsheet op in een overzicht waarbij de volgende indeling wordt gehanteerd:
 
 | Bevoegd gezagnummer: | Bevoegd gezagnummer: |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- |
