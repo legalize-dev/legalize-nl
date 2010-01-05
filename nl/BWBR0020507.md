@@ -4,7 +4,7 @@ identifier: "BWBR0020507"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-12-14"
-last_updated: "2006-11-17"
+last_updated: "2010-01-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020507"
 soort: "ministeriele-regeling"
@@ -48,11 +48,13 @@ In deze regeling wordt verstaan onder:
 
 - a. [verordening (EG) 178/2002](32002R0178): [verordening (EG) nr. 178/2002](32002R0178) van het Europees Parlement en de Raad van de Europese Unie van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden (PbEG L 31);
 
-- b. EG-noodmaatregel: een in het Publicatieblad van de Europese Unie bekendgemaakte beschikking van de Commissie van de Europese Gemeenschappen, vastgesteld krachtens artikel 53, eerste lid, onder b, of tweede lid, van [verordening (EG) 178/2002](32002R0178), voor zover die beschikking strekt tot bescherming van de gezondheid van de mens.
+- b. EU-noodmaatregel: een in het Publicatieblad van de Europese Unie bekendgemaakte maatregel van de Commissie van de Europese Gemeenschappen, vastgesteld krachtens artikel 53, eerste lid, onder b, of tweede lid, van [verordening (EG) 178/2002](32002R0178), voor zover die maatregel strekt tot bescherming van de gezondheid van de mens.
 
 ##### Artikel 2
 
-Eet- en drinkwaren worden vanuit derde landen binnen Nederlands grondgebied gebracht en verhandeld met inachtneming van de bij of krachtens een EG-noodmaatregel gestelde voorschriften.
+1. Handelen in strijd met een EU-noodmaatregel is een strafbaar feit, voor zover die noodmaatregel een verordening is.
+
+2. Eet- en drinkwaren worden vanuit een derde land binnen Nederlands grondgebied gebracht en verhandeld met inachtneming van de bij of krachtens een EU-noodmaatregel gestelde voorschriften, voor zover die noodmaatregel een besluit is.
 
 ##### Artikel 3
 
