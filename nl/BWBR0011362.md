@@ -4,7 +4,7 @@ identifier: "BWBR0011362"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2009-05-28"
+last_updated: "2010-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011362"
 soort: "ministeriele-regeling"
@@ -220,7 +220,7 @@ Het medisch onderzoek ten behoeve van de beoordeling van de geschiktheid kan bes
 
 ### 3.2.1. Gecorrigeerde visus
 
-Waar hierna sprake is van een specialistisch rapport, is daarmee bedoeld het rapport dat het CBR ontvangt van de onafhankelijke specialist naar wie de keurling door het CBR is verwezen, dan wel de bevindingen van het onderzoek, bedoeld in [artikel 133, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=133).
+Waar hierna sprake is van een specialistisch rapport, is daarmee bedoeld het rapport dat het CBR ontvangt van de onafhankelijke specialist naar wie een persoon door het CBR is verwezen. Hieronder wordt tevens verstaan het rapport van een keuring in de eigen-verklaringsprocedure of onderzoek in de vorderingsprocedure, uitgevoerd door een arts onder supervisie en verantwoordelijkheid van een specialist naar wie de persoon is verwezen.
 
 ### Hoofdstuk 3. Stoornissen van het gezichtsorgaan
 
@@ -556,19 +556,25 @@ Personen met idiopatische hypersomnolentie kunnen geschikt worden verklaard als 
 
 De hieronder geformuleerde eisen voor groep 1 gelden zowel voor behandelde als onbehandelde intracraniële tumoren.
 
-Het betreft hier aandoeningen van de hersenen of het ruggenmerg, zoals de ziekte van Parkinson, de ziekte van Alzheimer (zie voor dementie ook paragraaf 8.6), multiple sclerose, cervicale myelopathie, en ernstige ziekten van perifere zenuwen en skeletspieren. De betrokkenen komen in de regel niet in aanmerking voor rijbewijzen van groep 2.
+Het betreft hier aandoeningen van de hersenen of het ruggenmerg, zoals de ziekte van Parkinson, multiple sclerose, cervicale myelopathie, en ziekten van perifere zenuwen en skeletspieren. De betrokkenen komen in de regel niet in aanmerking voor rijbewijzen van groep 2.
 
 ### 8.2.2. Waanstoornissen
 
-Een uitzondering hierop vormt de situatie waarin de tumor, blijkens het specialistisch rapport, met succes curatief is behandeld. Bij afwezigheid van functiestoornissen is er geschiktheid met een maximum van drie jaar, aan te geven door de keurend specialist. Zijn er na de curatieve behandeling resterende lichamelijke of geestelijke functiestoornissen, dan is voor de beoordeling van de geschiktheid een rijtest met een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR) vereist. Bij een positieve rijtest bestaat er geschiktheid voor een termijn van maximaal drie jaar. Het CBR heeft voor de rijtest een uitvoerig protocol
+Voor een juiste oordeelsvorming dient ook een deskundige op het gebied van de praktische geschiktheid van de desbetreffende afdeling van het CBR te worden geraadpleegd. Het CBR heeft hiervoor een uitvoerig protocol.
 
 ### 8.2.1. Schizofrenie en andere psychotische stoornissen
 
-Voor personen met intracraniële tumoren is steeds een specialistisch rapport vereist en in geval van stoornissen van het gezichtsorgaan gelden tevens de eisen uit hoofdstuk 3.
+Bij cognitieve stoornissen geldt tevens paragraaf 8.6.
 
 Doorbloedingsstoornissen van de hersenen omvatten beroerten (hersenbloeding of herseninfarct, ook wel CVA), TIA's (transient ischemic attacks), verwijdingen van slagaders (aneurysmata) en andere vaatmisvormingen van de hersenvaten.
 
 ### 7.6.1. Rijbewijzen van groep 1
+
+Voor personen met intracraniële tumoren is steeds een specialistisch rapport vereist en in geval van stoornissen van het gezichtsorgaan gelden tevens de eisen uit hoofdstuk 3.
+
+De hieronder geformuleerde eisen voor groep 1 gelden zowel voor behandelde als onbehandelde intracraniële tumoren.
+
+### 7.5.2. Rijbewijzen van groep 2
 
 In individuele gevallen kan een uitzondering worden gemaakt op de beperking tot privé-gebruik voor een termijn van maximaal vijf jaren en kan het rijbewijs ook worden gebruikt voor bepaalde vormen van beroepsmatig gebruik. Voorwaarde is keuring door een specialist en een verklaring van de werkgever waaruit blijkt dat niet meer dan vier uren per dag beroepsmatig gebruik wordt gemaakt van het rijbewijs. Deze uitzondering is niet mogelijk indien het beroepsmatig gebruik betrekking heeft op het vervoeren van personen of het onder toezicht doen besturen van derden.
 
@@ -580,13 +586,7 @@ Personen met een intracraniële tumor zijn ongeschikt voor rijbewijzen van groep
 
 Een uitzondering hierop vormt de situatie waarin de tumor, blijkens het specialistisch rapport, met succes curatief is behandeld. Bij afwezigheid van functiestoornissen is er geschiktheid met een maximum van drie jaar, aan te geven door de keurend specialist. Zijn er na de curatieve behandeling resterende lichamelijke of geestelijke functiestoornissen, dan is voor de beoordeling van de geschiktheid een rijtest met een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR) vereist. Bij een positieve rijtest bestaat er geschiktheid voor een termijn van maximaal drie jaar. Het CBR heeft voor de rijtest een uitvoerig protocol
 
-### 8.6. Cognitieve stoornissen
-
-Bij afwezigheid van geestelijke of lichamelijke functiestoornissen bestaat geschiktheid voor onbepaalde tijd. Als er functiestoornissen aanwezig zijn volgt een rijtest met een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR). Bij een positieve rijtest is de maximale geschiktheidstermijn 5 jaar. Het CBR heeft voor de rijtest een uitvoerig protocol.
-
-Doorbloedingsstoornissen van de hersenen omvatten beroerten (hersenbloeding of herseninfarct, ook wel CVA), TIA's (transient ischemic attacks), verwijdingen van slagaders (aneurysmata) en andere vaatmisvormingen van de hersenvaten.
-
-De meeste personen met deze stoornissen zullen een nauwelijks verminderde geschiktheid vertonen. Wel zijn mensen die bij herhaling last hebben van een ’psychogene fugue’ of een ernstige trance in het verkeer dan wel een redelijke kans hebben op het doormaken daarvan, ongeschikt voor het rijbewijs.
+Bij epilepsie geldt tevens paragraaf 7.2.
 
 Strenge eisen moeten worden gesteld aan aanvragers van een rijbewijs van groep 1, die dit rijbewijs beroepsmatig gebruiken (bijvoorbeeld taxichauffeurs, chauffeurs van busjes voor personenvervoer, maar ook voor het onder toezicht doen besturen van een motorrijtuig door een derde). Zij zitten vele uren achter het stuur en dragen grote verantwoordelijkheden. Aan hen moeten daarom dezelfde eisen worden gesteld als aan personen met een groep 2-rijbewijs. Aanvragers van een groep 1-rijbewijs die niet tevens voldoen aan de eisen voor groep 2, kunnen daarom in beginsel alleen geschikt worden verklaard als het gebruik wordt beperkt tot privé-gebruik.
 
@@ -596,17 +596,17 @@ Na een TIA of beroerte zijn personen ongeschikt voor rijbewijzen van groep 2 voo
 
 ### 7.6.1.2. TIA en beroerte
 
-Een TIA geeft geen beperkingen aan de geschiktheid.
+In individuele gevallen kan een uitzondering worden gemaakt op de beperking tot privé-gebruik voor een termijn van maximaal vijf jaren en kan het rijbewijs ook worden gebruikt voor bepaalde vormen van beroepsmatig gebruik. Voorwaarde is keuring door een specialist en een verklaring van de werkgever waaruit blijkt dat niet meer dan vier uren per dag beroepsmatig gebruik wordt gemaakt van het rijbewijs. Deze uitzondering is niet mogelijk indien het beroepsmatig gebruik betrekking heeft op het vervoeren van personen of het onder toezicht doen besturen van derden.
 
 Na een beroerte is men ongeschikt voor rijbewijzen van groep 1 voor een periode van zes maanden. Na die termijn is een specialistisch rapport vereist, opgesteld door een neuroloog of een revalidatiearts.
 
 Bij afwezigheid van geestelijke of lichamelijke functiestoornissen bestaat geschiktheid voor onbepaalde tijd. Als er functiestoornissen aanwezig zijn volgt een rijtest met een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR). Bij een positieve rijtest is de maximale geschiktheidstermijn 5 jaar. Het CBR heeft voor de rijtest een uitvoerig protocol.
 
-Voor personen met epilepsie geldt tevens paragraaf 7.2.
+Een TIA geeft geen beperkingen aan de geschiktheid.
 
 ### 7.6.2. Rijbewijzen van groep 2
 
-Voor de beoordeling of sprake is van misbruik van psychoactieve middelen is een specialistisch rapport vereist.
+Bij afwezigheid van geestelijke of lichamelijke functiestoornissen bestaat geschiktheid voor onbepaalde tijd. Als er functiestoornissen aanwezig zijn volgt een rijtest met een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR). Bij een positieve rijtest is de maximale geschiktheidstermijn 5 jaar. Het CBR heeft voor de rijtest een uitvoerig protocol.
 
 ### 7.6.2.2. TIA en beroerte
 
@@ -620,15 +620,15 @@ Voor personen met epilepsie geldt tevens paragraaf 7.2
 
 ### 8.2.2. Waanstoornissen
 
-De betrokkenen komen in de regel niet in aanmerking voor rijbewijzen van groep 2. Voor rijbewijzen van groep 1 is geen specialistisch onderzoek nodig, indien de aantekening van de keurend arts (revalidatiearts) voldoende informatie bevat om de geschiktheid te kunnen beoordelen. Is dit niet het geval dan is een specialistisch rapport aangewezen, opgesteld door een deskundig neuroloog (en eventueel een neuropsycholoog). Voor een juiste oordeelsvorming dient zo nodig de deskundige op het gebied van de praktische geschiktheid van het CBR te worden geraadpleegd (uitvoering van een technisch onderzoek en/of een rijtest). De geschiktheidstermijn is maximaal tien jaar; bij twijfel over de geschiktheid in de nabije toekomst is deze ten hoogste vijf jaar.
+Voor personen met epilepsie geldt tevens paragraaf 7.2
 
 In de tweede plaats kan het CBR een beoordeling vragen door een deskundige op het gebied van de praktische geschiktheid van het CBR. Deze deskundige adviseert het CBR veelal na uitvoering van een technisch onderzoek of een rijtest over de mogelijkheden van de aanvrager van het rijbewijs om, zo nodig met aanpassingen aan het voertuig, een motorrijtuig te besturen.
 
 ### 8.1. Algemeen
 
-De in dit hoofdstuk beschreven eisen hebben voornamelijk betrekking op deze situatie: een voorgeschiedenis van psychiatrische problematiek. Bij de beoordeling van die voorgeschiedenis is van belang: het ziektebeloop (de betrokkene zal bij voorkeur minstens een tot twee jaar vrij moeten zijn van recidieven, afhankelijk van de ernst van de aandoening), de (on)voorspelbaarheid van uitingen van de aandoening, het ziekte-inzicht en de therapietrouw van de betrokkene. Als de aandoening een reversibele organische stoornis tot grondslag had (heeft), dan kan de keurling na herstel in de regel goedgekeurd worden. Is of was een reversibele organische stoornis niet in het geding, dan doet zich de vraag voor of er restverschijnselen zijn, of dat er kans is op een recidief dat de verkeersveiligheid in gevaar kan brengen. Beantwoording van die vraag vergt een specialistisch rapport.
+De betrokkenen komen in de regel niet in aanmerking voor rijbewijzen van groep 2. Voor rijbewijzen van groep 1 is geen specialistisch onderzoek nodig, indien de aantekening van de keurend arts (revalidatiearts) voldoende informatie bevat om de geschiktheid te kunnen beoordelen. Is dit niet het geval dan is een specialistisch rapport aangewezen, opgesteld door een deskundig neuroloog (en eventueel een neuropsycholoog). Voor een juiste oordeelsvorming dient zo nodig de deskundige op het gebied van de praktische geschiktheid van het CBR te worden geraadpleegd (uitvoering van een technisch onderzoek en/of een rijtest). De geschiktheidstermijn is maximaal tien jaar; bij twijfel over de geschiktheid in de nabije toekomst is deze ten hoogste vijf jaar.
 
-### 8.2. Psychosen
+### Hoofdstuk 8. Psychiatrische stoornissen
 
 Fobische reacties kunnen in bepaalde gevallen, afhankelijk van de aard van de fobie, een duidelijke belemmering vormen voor het besturen van een motorrijtuig, maar geven in de regel geen reden voor ongeschiktheidsverklaring. Echter, mensen die regelmatig therapieresistente paniekaanvallen vertonen, zijn in het algemeen ongeschikt voor het rijbewijs; voor de beoordeling is een specialistisch rapport vereist.
 
@@ -636,19 +636,19 @@ Fobische reacties kunnen in bepaalde gevallen, afhankelijk van de aard van de fo
 
 Personen die voor de behandeling van hun aandoening een hoge dosering neuroleptica nodig hebben, zijn ongeschikt voor het rijbewijs.
 
+### 8.2.1. Schizofrenie en andere psychotische stoornissen
+
+Psychotische episoden maken de betrokkene ongeschikt voor elk rijbewijs. Als er sprake is van een geslaagde behandeling (twee jaar recidiefvrij, een zekere mate van ziekte-inzicht) en de defecttoestand hooguit licht van aard is, hoeft er geen reden te zijn om de keurling zonder meer ongeschikt te verklaren voor het rijbewijs. Wel is dan steeds een specialistisch rapport vereist. Bij een gunstig rapport bedraagt de maximale geschiktheidstermijn vijf jaar; deze personen zullen alleen geschikt zijn voor rijbewijzen van groep 1.
+
+Personen die voor de behandeling van hun aandoening een hoge dosering neuroleptica nodig hebben, zijn ongeschikt voor het rijbewijs.
+
 ### 8.2.2. Waanstoornissen
 
 Mensen met ernstige waanstoornissen zijn ongeschikt voor alle rijbewijzen. Bij lichtere stoornissen - indien er geen aanwijzingen zijn voor onberekenbaar of agressief gedrag en er bij behandeling geen hoge dosering psychofarmaca nodig is - kunnen personen geschikt zijn voor het rijbewijs; zij zullen alleen geschikt zijn voor rijbewijzen van groep 1.
 
-Ook personen die behandeld worden met hoge doses benzodiazepinen zijn ongeschikt. Alleen bij een niet hoge dosering en wanneer het gaat om benzodiazepinen die voorzover bekend weinig of geen invloed hebben op de rijvaardigheid, kunnen personen geschikt worden verklaard.
+### 8.3. Stemmingsstoornissen
 
-### 10.3. Bloedsuikerverlagende geneesmiddelen
-
-Mensen met regelmatig terugkerende manische episoden zijn in het algemeen ongeschikt voor het rijbewijs. Hetzelfde geldt voor mensen met een geregeld optredende depressie IEZ. Ook mensen die voor hun aandoening hoge doses sederende psychofarmaca nodig hebben, zijn ongeschikt voor deelname aan het gemotoriseerde verkeer.
-
-### 8.4. Angststoornissen
-
-Fobische reacties kunnen in bepaalde gevallen, afhankelijk van de aard van de fobie, een duidelijke belemmering vormen voor het besturen van een motorrijtuig, maar geven in de regel geen reden voor ongeschiktheidsverklaring. Echter, mensen die regelmatig therapieresistente paniekaanvallen vertonen, zijn in het algemeen ongeschikt voor het rijbewijs; voor de beoordeling is een specialistisch rapport vereist.
+Personen met een unipolaire of bipolaire stoornis, die therapeutisch goed zijn ingesteld (regelmatige controle, recidiefvrije periode van minstens één jaar) en een redelijk ziekte-inzicht hebben, hoeven in beginsel niet ongeschikt te zijn. Wel is een specialistisch rapport vereist.
 
 ### 8.7. Persoonlijkheidsstoornissen
 
@@ -656,19 +656,27 @@ Personen die op grond van stoornissen in hun persoonlijkheid grote aanpassingsmo
 
 ### 8.8. Misbruik van psychoactieve middelen (zoals alcohol en drugs)
 
-Voor het algemene beleid bij bewustzijnsstoornissen, zie ook paragraaf 7.3.
+Personen die ter bestrijding van een angststoornis hoge doses psychofarmaca (benzodiazepinen) gebruiken, zijn ongeschikt voor deelname aan het gemotoriseerde verkeer.
 
 Personen die misbruik maken van dergelijke middelen zijn zonder meer ongeschikt.
 
 ### 10.7. Antihypertensiva
 
-Bij een vastgestelde diagnose ’dementie’ is er altijd sprake van ongeschiktheid; bij twijfelgevallen of bij vermoeden van beginnende dementie is gericht specialistisch onderzoek aangeraden en dient in de beoordelingsprocedure een rijtest (via de desbetreffende deskundige van het CBR) te worden opgenomen.
+Voor het algemene beleid bij bewustzijnsstoornissen, zie ook paragraaf 7.3.
 
-### 8.9. Verstandelijke handicap
+### 8.6. Cognitieve stoornissen
 
 Bij reversibele oorzaken van psycho-organische stoornissen kan de betrokkene psychisch herstellen en weer geschikt worden.
 
-### 8.7. Persoonlijkheidsstoornissen
+### 8.6.2. Overige cognitieve stoornissen, anders dan dementie
+
+Personen bij wie het cognitief functioneren gestoord is geraakt (zoals een gestoord oordeel- en kritiekvermogen, gestoorde oriëntatie, geheugenstoornissen) zijn meestal ongeschikt voor groep 1 en altijd ongeschikt voor groep 2 rijbewijzen.
+
+### 8.8. Misbruik van psychoactieve middelen (zoals alcohol en drugs)
+
+Organische aandoeningen die gepaard gaan met regelmatig terugkerende episoden van verwardheid en desoriëntatie maken de betrokkene ongeschikt voor het rijbewijs, tenzij deze verschijnselen alleen optreden bij intercurrente lichamelijke ziekten. Wat dit laatste betreft is in gunstige gevallen, na herstel van de bijkomende ziekte, goedkeuring mogelijk zo nodig met een beperkte geschiktheidstermijn. Bij reversibele oorzaken van psycho-organische stoornissen kan de betrokkene psychisch herstellen en weer geschikt worden verklaard.
+
+Personen die misbruik maken van dergelijke middelen zijn zonder meer ongeschikt.
 
 Personen die op grond van stoornissen in hun persoonlijkheid grote aanpassingsmoeilijkheden hebben met betrekking tot de eisen van de maatschappij, zullen in de regel ook in het verkeer onaangepaste gedragingen vertonen, waardoor zij ongeschikt kunnen zijn voor deelname aan het gemotoriseerde verkeer. Mensen met ernstige persoonlijkheidsstoornissen (zoals bijvoorbeeld antisociale persoonlijkheidsstoornis, borderline persoonlijkheidsstoornis en paranoïde persoonlijkheidsstoornis) zijn ongeschikt voor elk rijbewijs, wanneer zij duidelijk blijk hebben gegeven (bijvoorbeeld in de vorm van grove verkeersovertredingen of -delicten) van:
 
@@ -676,17 +684,9 @@ Personen die op grond van stoornissen in hun persoonlijkheid grote aanpassingsmo
 
 Voor de beoordeling of sprake is van misbruik van psychoactieve middelen is een specialistisch rapport vereist.
 
-Personen die misbruik maken van dergelijke middelen zijn zonder meer ongeschikt.
-
-Indien zij aannemelijk of aantoonbaar zijn gestopt met dit misbruik, dient een recidiefvrije periode van een jaar te zijn gepasseerd voordat zij door middel van een herkeuring - op basis van een specialistisch rapport geschikt - kunnen worden geacht.
-
-### 10.11. Restgroepen: parasympaticolytica, parasympaticomimetica, sympaticolytica, sympaticomimetica
-
-Als het CBR voor een juiste oordeelsvorming een rijtest nodig acht, kan het een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR) inschakelen. Dit is in ieder geval aan de orde bij de eerste aanvraag van een rijbewijs. Het CBR heeft hiervoor een uitvoerig protocol. De geschiktheidstermijn is maximaal één jaar.
-
 ### Hoofdstuk 9. Lichamelijke handicaps
 
-De geschiktheid van personen met een lichamelijke handicap wordt in eerste instantie beoordeeld door het CBR op basis van de aantekening van de keurende arts op de eigen verklaring en de eventueel reeds beschikbare overige gegevens (bijvoorbeeld een rapport van de revalidatiearts).
+Indien zij aannemelijk of aantoonbaar zijn gestopt met dit misbruik, dient een recidiefvrije periode van een jaar te zijn gepasseerd voordat zij door middel van een herkeuring - op basis van een specialistisch rapport geschikt - kunnen worden geacht.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -828,13 +828,13 @@ De geschiktheidtermijn is de eerste keer een jaar. Indien uit een specialistisch
 
 ### 7.5.2. Rijbewijzen van groep 2
 
-Voor de beoordeling van de geschiktheid voor rijbewijzen van groep 1 is een specialistisch rapport nodig (opgesteld door een deskundig neuroloog en eventueel een neuropsycholoog); bij cervicale myelopathie kan echter volstaan worden met de aantekening van de keurend arts. Voor een juiste oordeelsvorming dient ook een deskundige op het gebied van de praktische geschiktheid van het CBR te worden geraadpleegd (uitvoering van een technisch onderzoek en/of een rijtest). De duur van de geschiktheidstermijn hangt af van de mate van progressie van de ziekte en de ernst van de verschijnselen, maar is hooguit vijf jaar.
+Voor de beoordeling van de geschiktheid is een specialistisch rapport nodig, opgesteld door een neuroloog en eventueel een neuropsycholoog. Bij cervicale myelopathie kan echter volstaan worden met de aantekening van de keurend arts.
 
 ### 7.5. Intracraniële tumoren
 
-### 8.3. Stemmingsstoornissen
+### 7.5.1. Rijbewijzen van groep 1
 
-Personen met een unipolaire of bipolaire stoornis, die therapeutisch goed zijn ingesteld (regelmatige controle, recidiefvrije periode van minstens één jaar) en een redelijk ziekte-inzicht hebben, hoeven in beginsel niet ongeschikt te zijn. Wel is een specialistisch rapport vereist.
+Strenge eisen moeten worden gesteld aan aanvragers van een rijbewijs van groep 1, die dit rijbewijs beroepsmatig gebruiken (bijvoorbeeld taxichauffeurs, chauffeurs van busjes voor personenvervoer, maar ook voor het onder toezicht doen besturen van een motorrijtuig door een derde). Zij zitten vele uren achter het stuur en dragen grote verantwoordelijkheden. Aan hen moeten daarom dezelfde eisen worden gesteld als aan personen met een groep 2-rijbewijs. Aanvragers van een groep 1-rijbewijs die niet tevens voldoen aan de eisen voor groep 2, kunnen daarom in beginsel alleen geschikt worden verklaard als het gebruik wordt beperkt tot privé-gebruik.
 
 ### 8.4. Angststoornissen
 
@@ -842,17 +842,17 @@ Bij epilepsie geldt tevens paragraaf 7.2.
 
 ### 8.5. Dissociatieve stoornissen
 
-Zij kunnen na deze periode weer geschikt worden verklaard als uit het neurologisch rapport blijkt dat zij vrij zijn van geestelijke of lichamelijke functiestoornissen. De maximale geschiktheidstermijn is drie jaar.
+Strenge eisen moeten worden gesteld aan aanvragers van een rijbewijs van groep 1, die dit rijbewijs beroepsmatig gebruiken (bijvoorbeeld taxichauffeurs, chauffeurs van busjes voor personenvervoer, maar ook voor het onder toezicht doen besturen van een motorrijtuig door een derde). Zij zitten vele uren achter het stuur en dragen grote verantwoordelijkheden. Aan hen moeten daarom dezelfde eisen worden gesteld als aan personen met een groep 2-rijbewijs. Aanvragers van een groep 1-rijbewijs die niet tevens voldoen aan de eisen voor groep 2, kunnen daarom in beginsel alleen geschikt worden verklaard als het gebruik wordt beperkt tot privé-gebruik.
 
-### 8.7. Persoonlijkheidsstoornissen
+### 7.6.1.2. TIA en beroerte
 
-De in dit hoofdstuk beschreven eisen hebben voornamelijk betrekking op deze situatie: een voorgeschiedenis van psychiatrische problematiek. Bij de beoordeling van die voorgeschiedenis is van belang: het ziektebeloop (de betrokkene zal bij voorkeur minstens een tot twee jaar vrij moeten zijn van recidieven, afhankelijk van de ernst van de aandoening), de (on)voorspelbaarheid van uitingen van de aandoening, het ziekte-inzicht en de therapietrouw van de betrokkene. Als de aandoening een reversibele organische stoornis tot grondslag had (heeft), dan kan de keurling na herstel in de regel goedgekeurd worden. Is of was een reversibele organische stoornis niet in het geding, dan doet zich de vraag voor of er restverschijnselen zijn, of dat er kans is op een recidief dat de verkeersveiligheid in gevaar kan brengen. Beantwoording van die vraag vergt een specialistisch rapport.
+Voor personen met epilepsie geldt tevens paragraaf 7.2.
 
-### 8.9. Verstandelijke handicap
+### 7.6.2.2. TIA en beroerte
 
-Personen die voor de behandeling van hun aandoening een hoge dosering neuroleptica nodig hebben, zijn ongeschikt voor het rijbewijs.
+Na een TIA of beroerte zijn personen ongeschikt voor rijbewijzen van groep 2 voor een periode van vijf jaar.
 
-Personen met een unipolaire of bipolaire stoornis, die therapeutisch goed zijn ingesteld (regelmatige controle, recidiefvrije periode van minstens één jaar) en een redelijk ziekte-inzicht hebben, hoeven in beginsel niet ongeschikt te zijn. Wel is een specialistisch rapport vereist.
+Het gaat hierbij om defecttoestanden na trauma capitis met hersenletsel, traumatische dwarslesies, jeugdig verkregen spasticiteit, resttoestanden van hemiplegie, hyperkinetische syndromen en dergelijke.
 
 ### Hoofdstuk 10. Geneesmiddelen
 
@@ -864,19 +864,19 @@ Organische aandoeningen (bijvoorbeeld cerebrale vaatafwijkingen) die gepaard gaa
 
 ### 10.2.2.1. Rijbewijzen van groep 1
 
-Personen die ter bestrijding van een angststoornis hoge doses psychofarmaca (benzodiazepinen) gebruiken, zijn ongeschikt voor deelname aan het gemotoriseerde verkeer.
+Mensen met regelmatig terugkerende manische episoden zijn in het algemeen ongeschikt voor het rijbewijs. Hetzelfde geldt voor mensen met een geregeld optredende depressie IEZ. Ook mensen die voor hun aandoening hoge doses sederende psychofarmaca nodig hebben, zijn ongeschikt voor deelname aan het gemotoriseerde verkeer.
 
-De meeste personen met deze stoornissen zullen een nauwelijks verminderde geschiktheid vertonen. Wel zijn mensen die bij herhaling last hebben van een ’psychogene fugue’ of een ernstige trance in het verkeer dan wel een redelijke kans hebben op het doormaken daarvan, ongeschikt voor het rijbewijs.
+Fobische reacties kunnen in bepaalde gevallen, afhankelijk van de aard van de fobie, een duidelijke belemmering vormen voor het besturen van een motorrijtuig, maar geven in de regel geen reden voor ongeschiktheidsverklaring. Echter, mensen die regelmatig therapieresistente paniekaanvallen vertonen, zijn in het algemeen ongeschikt voor het rijbewijs; voor de beoordeling is een specialistisch rapport vereist.
 
 ### 10.2.2.2. Rijbewijzen van groep 2
 
-Personen bij wie het psychisch functioneren gestoord is geraakt (zoals een gestoord oordeel- en kritiekvermogen, gestoorde oriëntatie, geheugenstoornissen) zijn meestal ongeschikt voor deelname aan het gemotoriseerde verkeer. Eventuele tijdelijke geschiktheid - zulks ter beoordeling in een specialistisch onderzoek - hangt af van de mate van progressie van de ziekte en de ernst van de verschijnselen, maar is hooguit vijf jaar (zie ook vorig hoofdstuk: paragraaf 7.4).
+De meeste personen met deze stoornissen zullen een nauwelijks verminderde geschiktheid vertonen. Wel zijn mensen die bij herhaling last hebben van een ’psychogene fugue’ of een ernstige trance in het verkeer dan wel een redelijke kans hebben op het doormaken daarvan, ongeschikt voor het rijbewijs.
 
 Ook personen die behandeld worden met hoge doses benzodiazepinen zijn ongeschikt. Alleen bij een niet hoge dosering en wanneer het gaat om benzodiazepinen die voorzover bekend weinig of geen invloed hebben op de rijvaardigheid, kunnen personen geschikt worden verklaard.
 
 ### 10.3. Bloedsuikerverlagende geneesmiddelen
 
-Zie paragraaf 5.2.
+Eventuele tijdelijke geschiktheid voor groep 1 – zulks ter beoordeling door middel van een specialistisch onderzoek – hangt af van de mate van progressie van de ziekte en de ernst van de verschijnselen, maar is hooguit vijf jaar. Voor de bepaling van de geschiktheid dient een rijtest met een deskundige op het gebied van de praktische geschiktheid van de desbetreffende afdeling van het CBR plaats te vinden. Het CBR heeft hiervoor een uitvoerig protocol.
 
 ### 10.4. Anti-epileptica
 
@@ -886,7 +886,7 @@ Een strenge opstelling van de keurend arts is aangewezen, gezien de gevaren die 
 
 ### 8.9. Verstandelijke handicap
 
-Als zwakbegaafden in staat zijn het praktische en theoretische rijexamen met succes af te leggen, kunnen zij geschikt worden verklaard voor rijbewijzen van groep 1 en bij uitzondering voor één van de categorieën van groep 2.
+Personen die misbruik maken van dergelijke middelen zijn zonder meer ongeschikt.
 
 ### 10.7. Antihypertensiva
 
@@ -902,11 +902,11 @@ Geschiktverklaring voor de rijbewijzen van groep 2 voor een beperkte termijn is 
 
 ### 10.10. Perifere analgetica en NSAID's
 
-Bij de beoordeling van de geschiktheid is tevens van belang of er meerdere geneesmiddelen met een negatieve invloed op de rijvaardigheid worden gebruikt. Tenslotte is het zo dat de aandoening waarvoor het middel wordt voorgeschreven vaak een meer wezenlijk probleem voor de geschiktheid vormt dan het middel zelf. Bij de beoordeling van de geschiktheid zal de betreffende paragraaf over de aandoening daarom moeten worden meegenomen.
+Als het CBR voor een juiste oordeelsvorming een rijtest nodig acht, kan het een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR) inschakelen. Dit is in ieder geval aan de orde bij de eerste aanvraag van een rijbewijs. Het CBR heeft hiervoor een uitvoerig protocol. De geschiktheidstermijn is maximaal drie jaar.
 
 De geschiktheid van personen met een lichamelijke handicap wordt in eerste instantie beoordeeld door het CBR op basis van de aantekening van de keurende arts op de eigen verklaring en de eventueel reeds beschikbare overige gegevens (bijvoorbeeld een rapport van de revalidatiearts).
 
-In de tweede plaats kan het CBR een beoordeling vragen door een deskundige op het gebied van de praktische geschiktheid van het CBR. Deze deskundige adviseert het CBR - veelal na uitvoering van een technisch onderzoek of een rijtest - over de mogelijkheden van de aanvrager van het rijbewijs om, zo nodig met aanpassingen aan het voertuig, een motorrijtuig te besturen.
+Geschiktverklaring voor de rijbewijzen van groep 2 voor een beperkte termijn is mogelijk indien voldaan wordt aan de volgende voorwaarden:
 
 ### 10.3. Geneesmiddelen bij stemmingstoornissen
 
@@ -914,7 +914,7 @@ Personen die antidepressiva gebruiken met een ernstige of potentieel gevaarlijke
 
 ### 10.1. Inleiding
 
-Voor de beoordeling van de geschiktheid is het ook van belang in hoeverre de aanvrager gebruik maakt van geneesmiddelen die de rijvaardigheid negatief kunnen beïnvloeden. Uit verschillende onderzoeken komt naar voren dat bepaalde geneesmiddelen een ongewenste nadelige invloed hebben op de rijvaardigheid. Dit geldt vooral voor geneesmiddelen die een dempende of stimulerende werking hebben op het centrale zenuwstelsel, maar ook voor geneesmiddelen die als bijwerking duizeligheid, plotselinge slaapaanvallen of wazig zien, hebben.
+In de tweede plaats kan het CBR een beoordeling vragen door een deskundige op het gebied van de praktische geschiktheid van het CBR. Deze deskundige adviseert het CBR - veelal na uitvoering van een technisch onderzoek of een rijtest - over de mogelijkheden van de aanvrager van het rijbewijs om, zo nodig met aanpassingen aan het voertuig, een motorrijtuig te besturen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1028,7 +1028,7 @@ Personen met narcolepsie of idiopathische hypersomnolentie kunnen geschikt worde
 
 ### 7.5. Intracraniële tumoren
 
-Naast het onderscheid tussen hersentumoren in strikte zin en buiten de hersenen gelegen intracraniële tumoren, is het al dan niet optreden van epilepsie van belang voor de bepaling van de geschiktheid.
+De duur van de geschiktheidstermijn hangt af van de mate van progressie van de ziekte en de ernst van de verschijnselen, maar is hooguit vijf jaar.
 
 ### 7.6. Doorbloedingsstoornissen van de hersenen
 
@@ -1036,73 +1036,99 @@ Naast het onderscheid tussen hersentumoren in strikte zin en buiten de hersenen 
 
 ### 7.6.1. Rijbewijzen van groep 1
 
+### 7.6. Doorbloedingsstoornissen van de hersenen
+
+### 7.6.1.1. Aneurysmata en andere misvormingen van de hersenarteriën
+
+### 7.6.2.1. Aneurysmata en andere misvormingen van de hersenarteriën
+
+### 7.6.2. Rijbewijzen van groep 2
+
 ### 7.6.2.1. Aneurysmata en andere misvormingen van de hersenarteriën
 
 ### 7.7. Stationaire defecttoestanden
 
-### 7.6.2.1. Aneurysmata en andere misvormingen van de hersenarteriën
+De in dit hoofdstuk beschreven eisen hebben voornamelijk betrekking op deze situatie: een voorgeschiedenis van psychiatrische problematiek. Bij de beoordeling van die voorgeschiedenis is van belang: het ziektebeloop (de betrokkene zal bij voorkeur minstens een tot twee jaar vrij moeten zijn van recidieven, afhankelijk van de ernst van de aandoening), de (on)voorspelbaarheid van uitingen van de aandoening, het ziekte-inzicht en de therapietrouw van de betrokkene. Als de aandoening een reversibele organische stoornis tot grondslag had (heeft), dan kan de keurling na herstel in de regel goedgekeurd worden. Is of was een reversibele organische stoornis niet in het geding, dan doet zich de vraag voor of er restverschijnselen zijn, of dat er kans is op een recidief dat de verkeersveiligheid in gevaar kan brengen. Beantwoording van die vraag vergt een specialistisch rapport.
 
 ### 8.2. Psychosen
 
-### 8.2.1. Schizofrenie en andere psychotische stoornissen
-
-### Hoofdstuk 8. Psychiatrische stoornissen
-
-Psychotische episoden maken de betrokkene ongeschikt voor elk rijbewijs. Als er sprake is van een geslaagde behandeling (twee jaar recidiefvrij, een zekere mate van ziekte-inzicht) en de defecttoestand hooguit licht van aard is, hoeft er geen reden te zijn om de keurling zonder meer ongeschikt te verklaren voor het rijbewijs. Wel is dan steeds een specialistisch rapport vereist. Bij een gunstig rapport bedraagt de maximale geschiktheidstermijn vijf jaar; deze personen zullen alleen geschikt zijn voor rijbewijzen van groep 1.
-
-### 8.5. Dissociatieve stoornissen
-
 De meeste personen met deze stoornissen zullen een nauwelijks verminderde geschiktheid vertonen. Wel zijn mensen die bij herhaling last hebben van een ’psychogene fugue’ of een ernstige trance in het verkeer dan wel een redelijke kans hebben op het doormaken daarvan, ongeschikt voor het rijbewijs.
 
+Een strenge opstelling van de keurend arts is aangewezen, gezien de gevaren die het gebruik van deze middelen oplevert voor de verkeersveiligheid.
+
+### 8.10. ADHD (inclusief subtypen)
+
 Het onderzoek naar de geschiktheid moet plaatsvinden door een specialist met kennis en ervaring op het gebied van ADHD bij volwassenen aan de hand van een checklist met risicofactoren (het CBR is in bezit van een dergelijke checklist).
+
+Geschiktverklaring voor de rijbewijzen van groep 1 voor een beperkte termijn is mogelijk indien voldaan wordt aan de volgende voorwaarden:
+
+### 8.10.2. Rijbewijzen van groep 2
+
+De geschiktheid van personen met een lichamelijke handicap wordt in eerste instantie beoordeeld door het CBR op basis van de aantekening van de keurende arts op de eigen verklaring en de eventueel reeds beschikbare overige gegevens (bijvoorbeeld een rapport van de revalidatiearts).
+
+### 10.4. Psychostimulantia
+
+Bij twijfel over de geschiktheid van de betrokkene in de nabije toekomst dient een beperkte geschiktheidstermijn voor de desbetreffende rijbewijscategorie te worden gehanteerd. Het CBR kan dan tijdig de geschiktheid opnieuw bezien.
+
+Geneesmiddelen dienen te worden beoordeeld aan de hand van de aandoening waarvoor zij worden voorgeschreven. Eenzelfde middel kan bijvoorbeeld voor de behandeling van een depressie in een andere categorie vallen dan voor neuropathische pijn. Onder andere door een lagere dosering.
 
 ### 10.1. Inleiding
 
 Voor de beoordeling van de geschiktheid is het ook van belang in hoeverre de aanvrager gebruik maakt van geneesmiddelen die de rijvaardigheid negatief kunnen beïnvloeden. Uit verschillende onderzoeken komt naar voren dat bepaalde geneesmiddelen een ongewenste nadelige invloed hebben op de rijvaardigheid. Dit geldt vooral voor geneesmiddelen die een dempende of stimulerende werking hebben op het centrale zenuwstelsel, maar ook voor geneesmiddelen die als bijwerking duizeligheid, plotselinge slaapaanvallen of wazig zien, hebben.
 
-Als het CBR voor een juiste oordeelsvorming een rijtest nodig acht, kan het een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR) inschakelen. Dit is in ieder geval aan de orde bij de eerste aanvraag van een rijbewijs. Het CBR heeft hiervoor een uitvoerig protocol. De geschiktheidstermijn is maximaal één jaar.
-
-### 10.2. Geneesmiddelen bij psychotische stoornissen
-
-Personen die lithiumzouten gebruiken, met een licht tot matig negatieve invloed op de rijvaardigheid (categorie II), kunnen geschikt worden verklaard. Na de start van de behandeling is er een week ongeschiktheid.
-
-### 10.4. Psychostimulantia
-
 Wanneer in dit hoofdstuk sprake is van geneesmiddelen met geen of weinig negatieve invloed (categorie I), licht tot matig negatieve invloed (categorie II) of een ernstige of potentieel gevaarlijke invloed (categorie III) op de rijvaardigheid, dan wordt daarmee verwezen naar de internationaal aanvaarde indeling (ICADTS-classificatie) van rijgevaarlijke geneesmiddelen in de categorieën I tot en met III.
-
-Geneesmiddelen dienen te worden beoordeeld aan de hand van de aandoening waarvoor zij worden voorgeschreven. Eenzelfde middel kan bijvoorbeeld voor de behandeling van een depressie in een andere categorie vallen dan voor neuropathische pijn. Onder andere door een lagere dosering.
-
-### 10.5. Hypnotica, sedativa, anxiolytica
-
-Personen die behandeld worden met barbituraten zijn ongeschikt.
-
-Personen die antipsychotica gebruiken met een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie III) zijn ongeschikt. Personen die – in een therapeutische dosis – antipsychotica gebruiken die geen tot matige negatieve invloed hebben op de rijvaardigheid (categorie I en II), kunnen geschikt worden verklaard. Voor middelen uit categorie II geldt dat er enkele dagen na de start van de behandeling ongeschiktheid is.
 
 ### 10.3. Geneesmiddelen bij stemmingstoornissen
 
-Personen die antidepressiva gebruiken met een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie III) zijn ongeschikt. Personen die – in een therapeutische dosis – antidepressiva gebruiken die geen tot matig negatieve invloed hebben op de rijvaardigheid (categorie I en II), kunnen geschikt worden verklaard. Voor middelen uit categorie II geldt dat er een week na de start van de behandeling ongeschiktheid is.
+Bij de beoordeling van de geschiktheid is tevens van belang of er meerdere geneesmiddelen met een negatieve invloed op de rijvaardigheid worden gebruikt. Tenslotte is het zo dat de aandoening waarvoor het middel wordt voorgeschreven vaak een meer wezenlijk probleem voor de geschiktheid vormt dan het middel zelf. Bij de beoordeling van de geschiktheid zal de betreffende paragraaf over de aandoening daarom moeten worden meegenomen.
 
-### 10.7. Anti-epileptica
+### 10.2. Geneesmiddelen bij psychotische stoornissen
 
-De aandoening waarbij deze geneesmiddelen worden toegepast (epilepsie) vormt meestal een meer wezenlijk probleem voor de geschiktheid dan de effecten van het geneesmiddel zelf.
+Personen die antipsychotica gebruiken met een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie III) zijn ongeschikt. Personen die – in een therapeutische dosis – antipsychotica gebruiken die geen tot matige negatieve invloed hebben op de rijvaardigheid (categorie I en II), kunnen geschikt worden verklaard. Voor middelen uit categorie II geldt dat er enkele dagen na de start van de behandeling ongeschiktheid is.
 
 Hieronder vallen de groep amfetamines (o.a. dexamfetamine, amfetamine en methylfenidaat) en de groep overige psychostimulantia (modafinil).
 
 ### 10.8. Anticoagulantia
 
-Personen die worden behandeld met deze geneesmiddelen kunnen geschikt worden verklaard.
+Personen die lithiumzouten gebruiken, met een licht tot matig negatieve invloed op de rijvaardigheid (categorie II), kunnen geschikt worden verklaard. Na de start van de behandeling is er een week ongeschiktheid.
 
-### 10.9. Antihistaminica
+### 10.4. Psychostimulantia
+
+Hieronder vallen de groep amfetamines (o.a. dexamfetamine, amfetamine en methylfenidaat) en de groep overige psychostimulantia (modafinil).
+
+Gebruik van deze geneesmiddelen maakt iemand ongeschikt. Een uitzondering is mogelijk voor zover psychostimulantia in therapeutische dosering gebruikt worden voor de behandeling van ADHD bij volwassenen, narcolepsie of pathologische hypersomnolentie. Wanneer er geen rijgevaarlijke bijwerkingen zijn, bestaat er in die gevallen geschiktheid.
+
+Hoewel deze geneesmiddelen hypoglykemieën kunnen veroorzaken, die kunnen leiden tot acute ongeschiktheid, hebben zij een gunstig effect op het onderliggende ziektebeeld.
+
+### 10.7. Anti-epileptica
 
 Personen die benzodiazepinen gebruiken met een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie III) zijn ongeschikt. Personen die – in een therapeutische dosis – benzodiazepinen gebruiken die geen tot matig negatieve invloed hebben op de rijvaardigheid (categorie I en II), kunnen geschikt worden verklaard. Voor middelen uit categorie II geldt dat er bij chronisch gebruik een week na de start van de behandeling ongeschiktheid is.
 
-Sederende antihistaminica hebben een matig negatieve tot ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie II en III). Personen die behandeld worden met antihistaminica met een ernstige of potentieel gevaarlijke invloed (categorie III) zijn ongeschikt.
+### 10.6. Antidiabetica
 
 Hoewel deze geneesmiddelen hypoglykemieën kunnen veroorzaken, die kunnen leiden tot acute ongeschiktheid, hebben zij een gunstig effect op het onderliggende ziektebeeld.
 
 ### 10.7. Anti-epileptica
 
 De aandoening waarbij deze geneesmiddelen worden toegepast (epilepsie) vormt meestal een meer wezenlijk probleem voor de geschiktheid dan de effecten van het geneesmiddel zelf.
+
+### 10.13. Analgetica
+
+Sederende antihistaminica hebben een matig negatieve tot ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie II en III). Personen die behandeld worden met antihistaminica met een ernstige of potentieel gevaarlijke invloed (categorie III) zijn ongeschikt.
+
+### 10.14. Geneesmiddelen tegen migraine en clusterhoofdpijn
+
+Het hoofdpijnmiddel pizotifeen heeft een licht tot matig negatieve invloed op de rijvaardigheid (categorie II). Na start van de behandeling is er enkele dagen ongeschiktheid.
+
+### 10.15. Parasympaticolytica, parasympaticomimetica, sympaticolytica, sympaticomimetica
+
+Sederende antihistaminica hebben een matig negatieve tot ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie II en III). Personen die behandeld worden met antihistaminica met een ernstige of potentieel gevaarlijke invloed (categorie III) zijn ongeschikt.
+
+### 10.16. Parkinsonmiddelen
+
+Parkinsonmiddelen (dopamine-agonisten of parasympaticolytica) hebben geen tot een matig negatieve invloed op de rijvaardigheid (categorie I of II).
+
+Antihypertensiva hebben in een therapeutische dosis geen negatieve invloed op de rijvaardigheid. Centraal aangrijpende antihypertensiva, zoals methyldopa en clonidine, kunnen sedatie geven en de rijvaardigheid negatief beïnvloeden.
 
 ### 10.11. Corticosteroïden
 
@@ -1114,33 +1140,7 @@ Zowel behandeling met geneesmiddelen die de peristaltiek bevorderen, of de tonus
 
 ### 10.13. Analgetica
 
-Sederende antihistaminica hebben een matig negatieve tot ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie II en III). Personen die behandeld worden met antihistaminica met een ernstige of potentieel gevaarlijke invloed (categorie III) zijn ongeschikt.
-
-### 10.14. Geneesmiddelen tegen migraine en clusterhoofdpijn
-
-Het hoofdpijnmiddel pizotifeen heeft een licht tot matig negatieve invloed op de rijvaardigheid (categorie II). Na start van de behandeling is er enkele dagen ongeschiktheid.
-
-### 10.15. Parasympaticolytica, parasympaticomimetica, sympaticolytica, sympaticomimetica
-
-Op zichzelf vormen deze geneesmiddelen meestal geen reden tot ongeschiktheid.
-
-### 10.16. Parkinsonmiddelen
-
-Parkinsonmiddelen (dopamine-agonisten of parasympaticolytica) hebben geen tot een matig negatieve invloed op de rijvaardigheid (categorie I of II).
-
-Zowel behandeling met geneesmiddelen die de peristaltiek bevorderen, of de tonus normaliseren als behandeling met geneesmiddelen die de peristaltiek remmen, vormen geen reden tot ongeschiktheid. Dit geldt ook voor het gebruik van geneesmiddelen ter behandeling bij maagzweren.
-
-### 10.13. Analgetica
-
 Gebruik van paracetamol en NSAID’s vormt in het algemeen geen reden tot ongeschiktheid. Een langdurige behandeling met stabiele doses van opioïden heeft geen negatieve invloed op de rijvaardigheid. Personen die behandeling ondergaan met opioïden zijn ongeschikt gedurende de eerste twee weken van de behandeling. Uitzondering geldt voor codeïne in een dosis tot en met 20 mg per dag, mits er geen (rijgevaarlijke) bijwerkingen optreden. Een aantal antidepressiva en anti-epileptica die voor neuropathische pijn worden voorgeschreven, zijn in de therapeutische dosis geen probleem voor de geschiktheid.
-
-### 10.14. Geneesmiddelen tegen migraine en clusterhoofdpijn
-
-Het hoofdpijnmiddel pizotifeen heeft een licht tot matig negatieve invloed op de rijvaardigheid (categorie II). Na start van de behandeling is er enkele dagen ongeschiktheid.
-
-### 10.15. Parasympaticolytica, parasympaticomimetica, sympaticolytica, sympaticomimetica
-
-Op zichzelf vormen deze geneesmiddelen meestal geen reden tot ongeschiktheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1180,37 +1180,37 @@ Ernstige klachten (zoals duizeligheid of bewustzijnsstoornissen, of NYHA klasse 
 
 ### 7.3.2. Narcolepsie en idiopatische hypersomnolentie
 
-### 7.5.1. Rijbewijzen van groep 1
+### 7.5. Intracraniële tumoren
 
-Strenge eisen moeten worden gesteld aan aanvragers van een rijbewijs van groep 1, die dit rijbewijs beroepsmatig gebruiken (bijvoorbeeld taxichauffeurs, chauffeurs van busjes voor personenvervoer, maar ook voor het onder toezicht doen besturen van een motorrijtuig door een derde). Zij zitten vele uren achter het stuur en dragen grote verantwoordelijkheden. Aan hen moeten daarom dezelfde eisen worden gesteld als aan personen met een groep 2-rijbewijs. Aanvragers van een groep 1-rijbewijs die niet tevens voldoen aan de eisen voor groep 2, kunnen daarom in beginsel alleen geschikt worden verklaard als het gebruik wordt beperkt tot privé-gebruik.
+Naast het onderscheid tussen hersentumoren in strikte zin en buiten de hersenen gelegen intracraniële tumoren, is het al dan niet optreden van epilepsie van belang voor de bepaling van de geschiktheid.
 
 ### 7.6. Doorbloedingsstoornissen van de hersenen
 
-In individuele gevallen kan een uitzondering worden gemaakt op de beperking tot privé-gebruik voor een termijn van maximaal vijf jaren en kan het rijbewijs ook worden gebruikt voor bepaalde vormen van beroepsmatig gebruik. Voorwaarde is keuring door een specialist en een verklaring van de werkgever waaruit blijkt dat niet meer dan vier uren per dag beroepsmatig gebruik wordt gemaakt van het rijbewijs. Deze uitzondering is niet mogelijk indien het beroepsmatig gebruik betrekking heeft op het vervoeren van personen of het onder toezicht doen besturen van derden.
+Doorbloedingsstoornissen van de hersenen omvatten beroerten (hersenbloeding of herseninfarct, ook wel CVA), TIA's (transient ischemic attacks), verwijdingen van slagaders (aneurysmata) en andere vaatmisvormingen van de hersenvaten.
 
-### 7.6.1.1. Aneurysmata en andere misvormingen van de hersenarteriën
+### 7.6.1. Rijbewijzen van groep 1
 
-Het gaat hierbij om defecttoestanden na trauma capitis met hersenletsel, traumatische dwarslesies, jeugdig verkregen spasticiteit, resttoestanden van hemiplegie, hyperkinetische syndromen en dergelijke.
+Zij kunnen na deze periode weer geschikt worden verklaard als uit het neurologisch rapport blijkt dat zij vrij zijn van geestelijke of lichamelijke functiestoornissen. De maximale geschiktheidstermijn is drie jaar.
 
-### 8.2.1. Schizofrenie en andere psychotische stoornissen
+### 8.1. Algemeen
+
+### 8.4. Angststoornissen
 
 ### 8.5. Dissociatieve stoornissen
-
-### 8.6. Cognitieve stoornissen
 
 Organische aandoeningen (bijvoorbeeld cerebrale vaatafwijkingen) die gepaard gaan met regelmatig terugkerende episoden van verwardheid en desoriëntatie maken de betrokkene ongeschikt voor het rijbewijs, tenzij deze verschijnselen alleen optreden bij intercurrente lichamelijke ziekten. Wat dit laatste betreft is in gunstige gevallen, na herstel van de bijkomende ziekte, goedkeuring mogelijk, zo nodig met een beperkte geschiktheidstermijn.
 
 ### 8.10. ADHD (inclusief subtypen)
 
-### 8.10.1. Rijbewijzen van groep 1
+### 8.9. Verstandelijke handicap
 
-Geschiktverklaring voor de rijbewijzen van groep 1 voor een beperkte termijn is mogelijk indien voldaan wordt aan de volgende voorwaarden:
+Als zwakbegaafden in staat zijn het praktische en theoretische rijexamen met succes af te leggen, kunnen zij geschikt worden verklaard voor rijbewijzen van groep 1 en bij uitzondering voor één van de categorieën van groep 2.
 
 ### Hoofdstuk 9. Lichamelijke handicaps
 
-Bij twijfel over de geschiktheid van de betrokkene in de nabije toekomst dient een beperkte geschiktheidstermijn voor de desbetreffende rijbewijscategorie te worden gehanteerd. Het CBR kan dan tijdig de geschiktheid opnieuw bezien.
+Als het CBR voor een juiste oordeelsvorming een rijtest nodig acht, kan het een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR) inschakelen. Dit is in ieder geval aan de orde bij de eerste aanvraag van een rijbewijs. Het CBR heeft hiervoor een uitvoerig protocol. De geschiktheidstermijn is maximaal één jaar.
 
-### Hoofdstuk 10. Geneesmiddelen
+### Hoofdstuk 9. Lichamelijke handicaps
 
 Bij de beoordeling van de geschiktheid is tevens van belang of er meerdere geneesmiddelen met een negatieve invloed op de rijvaardigheid worden gebruikt. Tenslotte is het zo dat de aandoening waarvoor het middel wordt voorgeschreven vaak een meer wezenlijk probleem voor de geschiktheid vormt dan het middel zelf. Bij de beoordeling van de geschiktheid zal de betreffende paragraaf over de aandoening daarom moeten worden meegenomen.
 
@@ -1220,7 +1220,7 @@ Personen die lithiumzouten gebruiken, met een licht tot matig negatieve invloed 
 
 ### 10.4. Psychostimulantia
 
-Gebruik van deze geneesmiddelen maakt iemand ongeschikt. Een uitzondering is mogelijk voor zover psychostimulantia in therapeutische dosering gebruikt worden voor de behandeling van ADHD bij volwassenen, narcolepsie of pathologische hypersomnolentie. Wanneer er geen rijgevaarlijke bijwerkingen zijn, bestaat er in die gevallen geschiktheid.
+Personen die antidepressiva gebruiken met een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid (categorie III) zijn ongeschikt. Personen die – in een therapeutische dosis – antidepressiva gebruiken die geen tot matig negatieve invloed hebben op de rijvaardigheid (categorie I en II), kunnen geschikt worden verklaard. Voor middelen uit categorie II geldt dat er een week na de start van de behandeling ongeschiktheid is.
 
 ### 10.5. Hypnotica, sedativa, anxiolytica
 
@@ -1236,29 +1236,67 @@ Personen die worden behandeld met deze geneesmiddelen kunnen geschikt worden ver
 
 ### 10.9. Antihistaminica
 
+Personen die behandeld worden met anti-epileptica die een ernstige of potentieel gevaarlijke invloed op de rijvaardigheid hebben (categorie III), zijn ongeschikt totdat de anti-epileptica ten minste gedurende een periode van één jaar zijn gebruikt.
+
+Personen die worden behandeld met deze geneesmiddelen kunnen geschikt worden verklaard.
+
+### 10.9. Antihistaminica
+
 Bij de beoordeling moet onderscheid gemaakt worden tussen antihistaminica van de eerste generatie (klassieke, sederende antihistaminica), en antihistaminica van de tweede generatie (niet-sederende antihistaminica).
+
+### 10.11. Corticosteroïden
 
 De tweede generatie antihistaminica hebben geen tot weinig negatieve invloed op de rijvaardigheid (categorie I). Personen die met deze geneesmiddelen worden behandeld, zijn geschikt, mits er geen rijgevaarlijke bijwerkingen optreden.
 
 ### 10.10. Antihypertensiva
 
-Antihypertensiva hebben in een therapeutische dosis geen negatieve invloed op de rijvaardigheid. Centraal aangrijpende antihypertensiva, zoals methyldopa en clonidine, kunnen sedatie geven en de rijvaardigheid negatief beïnvloeden.
+### 10.14. Geneesmiddelen tegen migraine en clusterhoofdpijn
 
-### 10.11. Corticosteroïden
-
-Behandeling met corticosteroïden, bijvoorbeeld bij personen met astma, vormt geen reden voor ongeschiktheid.
-
-### 10.12. Maag-darmmiddelen
-
-### 10.16. Parkinsonmiddelen
-
-Parkinsonmiddelen (dopamine-agonisten of parasympaticolytica) hebben geen tot een matig negatieve invloed op de rijvaardigheid (categorie I of II).
+Het hoofdpijnmiddel pizotifeen heeft een licht tot matig negatieve invloed op de rijvaardigheid (categorie II). Na start van de behandeling is er enkele dagen ongeschiktheid.
 
 Personen die behandeld worden met dopamine-agonisten zijn ongeschikt nadat een slaapaanval is opgetreden. Als na bijstelling van de therapie de slaapaanvallen wegblijven, kunnen zij weer geschikt worden verklaard.
 
 ### 10.17. Cytostatica/oncolytica
 
 Zolang bij gebruik van oncolytica rijgevaarlijke bijwerkingen zoals slaperigheid, sedatie of vertigo optreden is er ongeschiktheid.
+
+### 10.18. Vertigomiddelen
+
+Personen die behandeld worden met dopamine-agonisten zijn ongeschikt nadat een slaapaanval is opgetreden. Als na bijstelling van de therapie de slaapaanvallen wegblijven, kunnen zij weer geschikt worden verklaard.
+
+### 10.17. Cytostatica/oncolytica
+
+Zolang bij gebruik van oncolytica rijgevaarlijke bijwerkingen zoals slaperigheid, sedatie of vertigo optreden is er ongeschiktheid.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Na een beroerte is men ongeschikt voor rijbewijzen van groep 1 voor een periode van zes maanden. Na die termijn is een specialistisch rapport vereist, opgesteld door een neuroloog of een revalidatiearts.
+
+### 8.6.1. Dementie
+
+### 8.7. Persoonlijkheidsstoornissen
+
+### 8.10.1. Rijbewijzen van groep 1
+
+### Hoofdstuk 10. Geneesmiddelen
+
+Geneesmiddelen dienen te worden beoordeeld aan de hand van de aandoening waarvoor zij worden voorgeschreven. Eenzelfde middel kan bijvoorbeeld voor de behandeling van een depressie in een andere categorie vallen dan voor neuropathische pijn. Onder andere door een lagere dosering.
+
+### 10.3. Geneesmiddelen bij stemmingstoornissen
+
+### 10.5. Hypnotica, sedativa, anxiolytica
+
+Personen die behandeld worden met barbituraten zijn ongeschikt.
+
+### 10.8. Anticoagulantia
+
+### 10.15. Parasympaticolytica, parasympaticomimetica, sympaticolytica, sympaticomimetica
+
+Op zichzelf vormen deze geneesmiddelen meestal geen reden tot ongeschiktheid.
+
+### 10.16. Parkinsonmiddelen
+
+Parkinsonmiddelen (dopamine-agonisten of parasympaticolytica) hebben geen tot een matig negatieve invloed op de rijvaardigheid (categorie I of II).
 
 ### 10.18. Vertigomiddelen
 
