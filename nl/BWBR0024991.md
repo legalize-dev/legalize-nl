@@ -4,7 +4,7 @@ identifier: "BWBR0024991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2009-10-01"
+last_updated: "2010-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024991"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=2&artikel=2&z=2009-07-29&g=2009-10-01);
+- a. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=2&artikel=2&z=2010-01-06&g=2010-01-06);
 
 - b. **directeur:** een functionaris die leiding geeft aan een directie.
 
@@ -164,17 +164,19 @@ De directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden is verantwoord
 
 ##### Artikel 9
 
-1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal, dan wel ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=4&artikel=10&z=2009-07-29&g=2009-10-01) onder de bevoegdheid van een andere directeur vallen.
+1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal, dan wel ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=4&artikel=10&z=2010-01-06&g=2010-01-06) onder de bevoegdheid van een andere directeur vallen.
 
 2. Aan elke directeur wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2009-07-29&g=2009-10-01), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2010-01-06&g=2010-01-06), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
 
 3. De in het eerste lid genoemde bevoegdheid omvat de bevoegdheid tot het verlenen en vaststellen van subsidies en rijksvergoedingen, het aangaan van verbetertrajecten en het korten op bevoorschotting, voor zover het de uitvoering betreft van regelingen op zijn werkterrein.
 
-4. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst:
+4. De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.
+
+5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst:
 
 - a. overeenkomsten welke gebaseerd zijn op een raamovereenkomst;
 
@@ -204,6 +206,8 @@ De directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden is verantwoord
 
 4. De directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden is bevoegd tot het aangaan van overeenkomsten met de Landsadvocaat en andere juridische dienstverleners inzake advisering en procureurstelling alsmede het instellen van gerechtelijke procedures, voor zover het niet betreft beroepschriften van (ex-)medewerkers van het ministerie inzake aangelegenheden verband houdende met de dienstbetrekking en voor zover het niet betreft de invordering van geldvorderingen van de Staat.
 
+5. De directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden is voorts bevoegd tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een bezwaarschrift.
+
 #### § 5. Slotbepalingen
 
 ##### Artikel 11
@@ -226,7 +230,7 @@ De directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden is verantwoord
 
 ##### Artikel 12
 
-Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2009-07-29&g=2009-10-01), en [11 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=5&artikel=11&z=2009-07-29&g=2009-10-01):
+Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2010-01-06&g=2010-01-06), en [11 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=5&artikel=11&z=2010-01-06&g=2010-01-06):
 
 - a. het [Organisatie-, mandaat- en volmachtbesluit BSG SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016367);
 
