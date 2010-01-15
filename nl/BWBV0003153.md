@@ -4,7 +4,7 @@ identifier: "BWBV0003153"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-01-15"
-last_updated: "2000-06-15"
+last_updated: "2010-01-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003153"
 soort: "verdrag"
@@ -92,13 +92,13 @@ Op vertoon van een medisch attest wordt verlof voor of na het zwangerschaps- en 
 
 ##### Artikel 6
 
-1. In overeenstemming met nationale wet- en regelgeving, of op enige andere wijze in overeenstemming met de nationale praktijk, worden aan vrouwen die wegens het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2000-06-15&g=2000-06-15) of [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=5&z=2000-06-15&g=2000-06-15) bedoelde verlof niet aanwezig zijn op hun werk geldelijke uitkeringen verstrekt.
+1. In overeenstemming met nationale wet- en regelgeving, of op enige andere wijze in overeenstemming met de nationale praktijk, worden aan vrouwen die wegens het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2010-01-15&g=2010-01-15) of [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=5&z=2010-01-15&g=2010-01-15) bedoelde verlof niet aanwezig zijn op hun werk geldelijke uitkeringen verstrekt.
 
 2. Geldelijke uitkeringen dienen hoog genoeg te zijn om te waarborgen dat de vrouw zichzelf en haar kind in goede gezondheid en overeenkomstig een behoorlijke levensstandaard kan onderhouden.
 
-3. Wanneer ingevolge de nationale wetgeving of praktijk geldelijke uitkeringen, die worden betaald ter zake van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2000-06-15&g=2000-06-15) bedoelde verlof, zijn gebaseerd op eerdere verdiensten, mag het bedrag van die uitkeringen niet lager zijn dan tweederde van de eerdere verdiensten van de vrouw of van de verdiensten die in aanmerking worden genomen bij de berekening van uitkeringen.
+3. Wanneer ingevolge de nationale wetgeving of praktijk geldelijke uitkeringen, die worden betaald ter zake van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2010-01-15&g=2010-01-15) bedoelde verlof, zijn gebaseerd op eerdere verdiensten, mag het bedrag van die uitkeringen niet lager zijn dan tweederde van de eerdere verdiensten van de vrouw of van de verdiensten die in aanmerking worden genomen bij de berekening van uitkeringen.
 
-4. Wanneer ingevolge de nationale wetgeving of praktijk andere methoden worden gebruikt om ter zake van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2000-06-15&g=2000-06-15) bedoelde verlof te betalen geldelijke uitkeringen vast te stellen, dient het bedrag van die uitkeringen vergelijkbaar te zijn met het bedrag dat als gemiddelde voortvloeit uit de toepassing van het vorige lid.
+4. Wanneer ingevolge de nationale wetgeving of praktijk andere methoden worden gebruikt om ter zake van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2010-01-15&g=2010-01-15) bedoelde verlof te betalen geldelijke uitkeringen vast te stellen, dient het bedrag van die uitkeringen vergelijkbaar te zijn met het bedrag dat als gemiddelde voortvloeit uit de toepassing van het vorige lid.
 
 5. Elk Lid waarborgt dat een grote meerderheid van de vrouwen op wie dit Verdrag van toepassing is kan voldoen aan de voorwaarden om in aanmerking te komen voor een geldelijke uitkering.
 
@@ -106,7 +106,7 @@ Op vertoon van een medisch attest wordt verlof voor of na het zwangerschaps- en 
 
 7. Aan de vrouw en haar kind worden geneeskundige verstrekkingen verleend in overeenstemming met de nationale wet- en regelgeving of op enige andere wijze in overeenstemming met de nationale praktijk. Geneeskundige verstrekkingen omvatten prenatale en postnatale zorg, hulp bij de bevalling en zo nodig opname in een ziekenhuis.
 
-8. Teneinde de positie van vrouwen op de arbeidsmarkt te beschermen, worden uitkeringen en verstrekkingen ter zake van het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2000-06-15&g=2000-06-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=5&z=2000-06-15&g=2000-06-15) bedoelde verlof verstrekt via verplichte sociale verzekeringen of uit publieke middelen of op een overeenkomstig de nationale wetgeving en praktijk bepaalde wijze. Een werkgever is niet persoonlijk aansprakelijk voor de directe kosten van een dergelijke geldelijke uitkering of verstrekking aan een vrouw die bij hem of haar in dienst is, zonder dat de werkgever daarmee specifiek instemt, tenzij
+8. Teneinde de positie van vrouwen op de arbeidsmarkt te beschermen, worden uitkeringen en verstrekkingen ter zake van het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2010-01-15&g=2010-01-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=5&z=2010-01-15&g=2010-01-15) bedoelde verlof verstrekt via verplichte sociale verzekeringen of uit publieke middelen of op een overeenkomstig de nationale wetgeving en praktijk bepaalde wijze. Een werkgever is niet persoonlijk aansprakelijk voor de directe kosten van een dergelijke geldelijke uitkering of verstrekking aan een vrouw die bij hem of haar in dienst is, zonder dat de werkgever daarmee specifiek instemt, tenzij
 
 - a. dit voorafgaand aan de datum van aanneming van dit Verdrag door de Internationale Arbeidsconferentie in een lidstaat is voorzien in de nationale wetgeving of praktijk; of
 
@@ -114,7 +114,7 @@ Op vertoon van een medisch attest wordt verlof voor of na het zwangerschaps- en 
 
 ##### Artikel 7
 
-1. Een Lid waarvan de economie en het socialezekerheidsstelsel onvoldoende ontwikkeld zijn, wordt geacht te voldoen aan [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=6&z=2000-06-15&g=2000-06-15), indien geldelijke uitkeringen worden verstrekt op een niveau dat niet lager is dan het niveau dat verschuldigd is bij ziekte of tijdelijke arbeidsongeschiktheid in overeenstemming met de nationale wet- en regelgeving.
+1. Een Lid waarvan de economie en het socialezekerheidsstelsel onvoldoende ontwikkeld zijn, wordt geacht te voldoen aan [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=6&z=2010-01-15&g=2010-01-15), indien geldelijke uitkeringen worden verstrekt op een niveau dat niet lager is dan het niveau dat verschuldigd is bij ziekte of tijdelijke arbeidsongeschiktheid in overeenstemming met de nationale wet- en regelgeving.
 
 2. Elk Lid dat gebruik maakt van de in het vorige lid geboden mogelijkheid, noemt in zijn eerste rapport inzake de toepassing van dit Verdrag ingevolge [artikel 22 van het Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22) de redenen hiervoor en vermeldt de hoogte van verstrekte geldelijke uitkeringen. In zijn vervolgrapporten beschrijft het Lid de maatregelen die zijn genomen met het oog op de geleidelijke verhoging van de uitkeringen.
 
@@ -122,13 +122,13 @@ Op vertoon van een medisch attest wordt verlof voor of na het zwangerschaps- en 
 
 ##### Artikel 8
 
-1. Het is de werkgever verboden om het dienstverband van een vrouw te beëindigen tijdens haar zwangerschap of het verlof bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2000-06-15&g=2000-06-15) of [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=5&z=2000-06-15&g=2000-06-15) of gedurende een door de nationale wet- of regelgeving te bepalen tijdvak na haar terugkeer op de werkplek, tenzij op gronden die geen verband houden met de zwangerschap of bevalling en de gevolgen daarvan of de lactatie. De bewijslast om aan te tonen dat de redenen voor ontslag geen verband houden met de zwangerschap of bevalling en de gevolgen daarvan of de lactatie rust op de werkgever.
+1. Het is de werkgever verboden om het dienstverband van een vrouw te beëindigen tijdens haar zwangerschap of het verlof bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2010-01-15&g=2010-01-15) of [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=5&z=2010-01-15&g=2010-01-15) of gedurende een door de nationale wet- of regelgeving te bepalen tijdvak na haar terugkeer op de werkplek, tenzij op gronden die geen verband houden met de zwangerschap of bevalling en de gevolgen daarvan of de lactatie. De bewijslast om aan te tonen dat de redenen voor ontslag geen verband houden met de zwangerschap of bevalling en de gevolgen daarvan of de lactatie rust op de werkgever.
 
 2. Een vrouw heeft aan het eind van haar bevallingsverlof het recht terug te keren in dezelfde of een vergelijkbare functie tegen hetzelfde salaris.
 
 ##### Artikel 9
 
-1. Elk Lid neemt passende maatregelen om te waarborgen dat moederschap geen bron van discriminatie op de arbeidsmarkt vormt, met inbegrip van – niettegenstaande [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=2&z=2000-06-15&g=2000-06-15) – toegang tot de arbeidsmarkt.
+1. Elk Lid neemt passende maatregelen om te waarborgen dat moederschap geen bron van discriminatie op de arbeidsmarkt vormt, met inbegrip van – niettegenstaande [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=2&z=2010-01-15&g=2010-01-15) – toegang tot de arbeidsmarkt.
 
 2. Maatregelen als bedoeld in het voorgaande lid omvatten een verbod op het eisen van een test op zwangerschap of een verklaring aangaande een dergelijke test, wanneer een vrouw solliciteert, tenzij dat vereist wordt door de nationale wet- of regelgeving ten aanzien van werk:
 
@@ -148,7 +148,7 @@ Op vertoon van een medisch attest wordt verlof voor of na het zwangerschaps- en 
 
 ##### Artikel 11
 
-Elk Lid onderzoekt periodiek, in overleg met de representatieve organisaties van werkgevers en werknemers, of het passend is om de periode van verlof bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2000-06-15&g=2000-06-15) te verlengen of om de geldelijke uitkeringen bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=6&z=2000-06-15&g=2000-06-15) te verhogen.
+Elk Lid onderzoekt periodiek, in overleg met de representatieve organisaties van werkgevers en werknemers, of het passend is om de periode van verlof bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2010-01-15&g=2010-01-15) te verlengen of om de geldelijke uitkeringen bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=6&z=2010-01-15&g=2010-01-15) te verhogen.
 
 ### UITVOERING
 
@@ -198,7 +198,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van het onderhavige Verdrag, en, indien het nieuwe Verdrag niet anders bepaalt:
 
-- a. heeft de bekrachtiging door een Lid van het nieuwe Verdrag van rechtswege onmiddellijke opzegging van het onderhavige Verdrag ten gevolge, niettegenstaande het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=16&z=2000-06-15&g=2000-06-15), indien en zodra het nieuwe Verdrag, houdende herziening, in werking is getreden;
+- a. heeft de bekrachtiging door een Lid van het nieuwe Verdrag van rechtswege onmiddellijke opzegging van het onderhavige Verdrag ten gevolge, niettegenstaande het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=16&z=2010-01-15&g=2010-01-15), indien en zodra het nieuwe Verdrag, houdende herziening, in werking is getreden;
 
 - b. kan met ingang van de datum waarop het nieuwe Verdrag, houdende herziening, in werking treedt, het onderhavige Verdrag niet langer door de Leden worden bekrachtigd.
 
