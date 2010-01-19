@@ -4,7 +4,7 @@ identifier: "BWBR0006022"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-12-29"
+last_updated: "2010-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006022"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2012-11-02"
 ---
 # Regeling houdende nadere regels ten aanzien van machines
 
-Gelet op de [artikelen 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=4&z=2009-12-29&g=2009-12-29), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=5&z=2009-12-29&g=2009-12-29), 12, eerste lid, eerste zin, en 16, tweede lid, van de Wet op de gevaarlijke werktuigen, de artikelen 3 en 12, derde lid, van het Besluit machines, [artikel 25, eerste lid, onderdeel a, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) en [artikel 1, tweede lid, onderdeel 3°, van het Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=1);
+Gelet op de [artikelen 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=4&z=2010-01-19&g=2010-01-19), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=5&z=2010-01-19&g=2010-01-19), 12, eerste lid, eerste zin, en 16, tweede lid, van de Wet op de gevaarlijke werktuigen, de artikelen 3 en 12, derde lid, van het Besluit machines, [artikel 25, eerste lid, onderdeel a, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) en [artikel 1, tweede lid, onderdeel 3°, van het Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=1);
 
 Besluiten:
 
@@ -88,7 +88,7 @@ torenvormige hijskranen, die vast zijn opgesteld of die verrijdbaar zijn op rail
 
 ##### Artikel 2b
 
-Een certificaat van goedkeuring, bedoeld in [artikel 6e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6e) wordt door een aangewezen instelling afgegeven aan de aanvrager indien tijdens de keuring, bedoeld in [artikel 6d, eerste lid, tweede zin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6d), is gebleken dat de mobiele kraan of toren-kraan voldoet aan de eisen, omschreven in het certificatieschema identificatiecode TCVT W3-11/07-148 van de Stichting Toezicht Verticaal Transport (TCVT) te Eemnes.
+Een certificaat van goedkeuring, bedoeld in [artikel 6e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6e) wordt door een aangewezen instelling afgegeven aan de aanvrager indien tijdens de keuring, bedoeld in [artikel 6d, eerste lid, tweede zin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6d), is gebleken dat de mobiele kraan of torenkraan voldoet aan de eisen, omschreven in het certificatieschema identificatiecode TCVT W3-11 09-147 van de Stichting Toezicht Verticaal Transport (TCVT) te Houten.
 
 ##### Artikel 2c
 
