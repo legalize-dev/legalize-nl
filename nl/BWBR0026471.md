@@ -4,7 +4,7 @@ identifier: "BWBR0026471"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-01-20"
-last_updated: "2009-11-01"
+last_updated: "2010-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026471"
 soort: "AMvB"
@@ -66,7 +66,7 @@ Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen on
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit beperking geluidhinder luchtvaartuigen.
 
 ##### Artikel III
 
@@ -82,7 +82,7 @@ Wijzigt het Besluit geluidhinder.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit milieu-effectrapportage 1994.
 
 ##### Artikel VII
 
@@ -106,7 +106,7 @@ Wijzigt het Besluit vervoer gevaarlijke stoffen door de lucht met militaire luch
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Bouwbesluit 2003.
 
 ##### Artikel XIII
 
@@ -118,11 +118,11 @@ Wijzigt het Mijnbouwbesluit.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Regeling Toezicht Luchtvaart.
 
 ##### Artikel XVI
 
-De algemene maatregelen van bestuur, genoemd in de [artikelen I tot en met VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0026471&artikel=I&z=2009-11-01&g=2009-11-01) en [X tot en met XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0026471&artikel=X&z=2009-11-01&g=2009-11-01), zoals zij luidden vóór inwerkingtreding van die artikelen, blijven van toepassing op een luchtvaartterrein, aangewezen op grond van [artikel 18 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18), zolang op dat luchtvaartterrein het bepaalde bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) van toepassing blijft krachtens [artikel IX, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=IX), of [artikel XVIII, derde lid, van de Wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=XVIII) (Stb. 561).
+De algemene maatregelen van bestuur, genoemd in de [artikelen I tot en met VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0026471&artikel=I&z=2010-01-20&g=2010-01-20) en [X tot en met XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0026471&artikel=X&z=2010-01-20&g=2010-01-20), zoals zij luidden vóór inwerkingtreding van die artikelen, blijven van toepassing op een luchtvaartterrein, aangewezen op grond van [artikel 18 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18), zolang op dat luchtvaartterrein het bepaalde bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) van toepassing blijft krachtens [artikel IX, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=IX), of [artikel XVIII, derde lid, van de Wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=XVIII) (Stb. 561).
 
 ##### Artikel XVII
 
