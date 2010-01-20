@@ -4,7 +4,7 @@ identifier: "BWBR0026325"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "2009-09-04"
+last_updated: "2010-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026325"
 soort: "AMvB"
@@ -56,27 +56,61 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. **verordening (EG) 1332/2008:** [verordening (EG) nr. 1332/2008](32008R1332) van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake voedingsenzymen en tot wijziging van [richtlijn 83/417/EEG](31983L0417) van de Raad, [verordening (EG) nr. 1493/1999](31999R1493) van de Raad, [richtlijn 2000/13/EG](32000L0013), [richtlijn 2001/112/EG](32001L0112) van de Raad en [verordening (EG) 258/97](31997R0258);
+
+- b. **verordening (EG) 1333/2008:** [verordening (EG) nr. 1333/2008](32008R1333) van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354);
+
+- c. **verordening (EG) 1334/2008:** [verordening (EG) nr. 1334/2008](32008R1334) van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake aroma’s en bepaalde voedselingrediënten met aromatiserende eigenschappen voor gebruik in levensmiddelen en tot wijziging van [verordening (EG) nr. 1601/91](31991R1601) van de Raad, verordening nr. (EG)2232/96, [verordening (EG) nr. 110/2008](32008R0110) en [richtlijn 2000/13/EG](32000L0013).
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het is verboden te handelen in strijd met de artikelen 4, 5, 10, eerste lid, 11, eerste tot en met derde lid, 12 en 14, van [verordening (EG) 1332/2008](32008R1332).
+
+2. Het is verboden te handelen in strijd met de artikelen 4, eerste, tweede en vijfde lid, 5, 15, 16, 17, 21, eerste lid, 22, eerste, tweede en derde lid, 23, 24, eerste lid, en 26, van [verordening (EG) 1333/2008](32008R1333).
+
+3. Dit lid is nog niet in werking getreden.
+
+4. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=3&z=2010-01-20&g=2010-01-20).
+
+5. Het is verboden te handelen in strijd met de krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=4&z=2010-01-20&g=2010-01-20) vastgestelde voorschriften.
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+De informatie, bedoeld in:
+
+- a. artikel 11 van [verordening (EG) 1332/2008](32008R1332);
+
+- b. artikel 22 van [verordening (EG) 1333/2008](32008R1333); en
+
+- c. dit onderdeel is nog niet in werking getreden.
+
+wordt in ieder geval vermeld in de Engelse of de Nederlandse taal.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Bij regeling van Onze Minister worden nadere regels vastgesteld inzake [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=2&z=2010-01-20&g=2010-01-20), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordeningen (EG) 1332/2008](32008R1332), [1333/2008](32008R1333) of [1334/2008](32008R1334) gestelde voorschriften.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+Na de inwerkingtreding van dit besluit berusten de volgende regelingen op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=4&z=2010-01-20&g=2010-01-20):
+
+- a. de [Warenwetregeling Gebruik van additieven met uitzondering van kleurstoffen en zoetstoffen in levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0008245);
+
+- b. de [Warenwetregeling zuiverheidseisen voor levensmiddelenadditieven met uitzondering van kleurstoffen en zoetstoffen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024683);
+
+- c. de [Warenwetregeling Gebruik van kleurstoffen in levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007567);
+
+- d. de [Warenwetregeling zuiverheidseisen voor kleurstoffen in levensmiddelen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025307);
+
+- e. de [Warenwetregeling Gebruik van zoetstoffen in levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007613);
+
+- f. de [Warenwetregeling zuiverheidseisen voor zoetstoffen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024204).
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit Bereiding en behandeling van levensmiddelen.
 
 ##### Artikel 7
 
@@ -84,7 +118,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.
 
 ##### Artikel 9
 
@@ -92,27 +126,27 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit Meel en brood.
 
 ##### Artikel 11
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit Vlees, gehakt en vleesproducten.
 
 ##### Artikel 12
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit Voedingswaarde-informatie levensmiddelen.
 
 ##### Artikel 13
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit Vruchtensappen.
 
 ##### Artikel 14
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit Zuivel.
 
 ##### Artikel 15
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel 16
 
@@ -120,7 +154,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 17
 
-Dit onderdeel is nog niet inwerking getreden
+Ingetrokken worden:
+
+- a. het [Warenwetbesluit Levensmiddelenadditieven](https://wetten.overheid.nl/jci1.3:c:BWBR0005456);
+
+- b. het [Warenwetbesluit Zoetstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0004652).
 
 ##### Artikel 18
 
@@ -136,21 +174,21 @@ Wijzigt het Warenwetbesluit Gereserveerde aanduidingen.
 
 2. In afwijking van het eerste lid treden in werking met ingang van 20 januari 2011:
 
-- a. [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=2&z=2009-09-04&g=2009-09-04);
+- a. [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=2&z=2010-01-20&g=2010-01-20);
 
-- b. [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=3&z=2009-09-04&g=2009-09-04);
+- b. [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=3&z=2010-01-20&g=2010-01-20);
 
-- c. [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=7&z=2009-09-04&g=2009-09-04);
+- c. [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=7&z=2010-01-20&g=2010-01-20);
 
-- d. [artikel 8, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=8&z=2009-09-04&g=2009-09-04);
+- d. [artikel 8, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=8&z=2010-01-20&g=2010-01-20);
 
-- e. [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=9&z=2009-09-04&g=2009-09-04);
+- e. [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=9&z=2010-01-20&g=2010-01-20);
 
-- f. [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=16&z=2009-09-04&g=2009-09-04); en
+- f. [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=16&z=2010-01-20&g=2010-01-20); en
 
-- g. [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=18&z=2009-09-04&g=2009-09-04).
+- g. [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=18&z=2010-01-20&g=2010-01-20).
 
-3. In afwijking van het eerste lid treedt [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=19&z=2009-09-04&g=2009-09-04) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+3. In afwijking van het eerste lid treedt [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0026325&artikel=19&z=2010-01-20&g=2010-01-20) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 ##### Artikel 21
 
