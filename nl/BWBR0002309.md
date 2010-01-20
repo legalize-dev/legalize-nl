@@ -4,7 +4,7 @@ identifier: "BWBR0002309"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-07-01"
-last_updated: "2008-07-19"
+last_updated: "2010-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002309"
 soort: "AMvB"
@@ -665,276 +665,115 @@ Vervallen
 
 ##### Artikel 119. Algemeen
 
-1. De aanleg van een luchtvaartterrein moet ter beoordeling door Onze Minister zodanig zijn, dat luchtvaartuigen daarvan een veilig gebruik kunnen maken. Hiertoe dienen desgevraagd gegevens te worden overgelegd.
-
-2. Er moet ten genoegen van Onze Minister voorzieningen worden getroffen dat de aan- en uitvliegroutes zodanig zullen zijn dat luchtvaartuigen veilig kunnen landen op en opstijgen van het luchtvaartterrein.
+Vervallen
 
 ##### Artikel 120. Afmetingen banen en rijbanen
 
-1. Door Onze Minister wordt de lengte van een (de) baan (banen) op een luchtvaartterrein vastgesteld.
-
-2. De minimale breedte van een baan en van een daarbij behorende rijbaan bedraagt bij een lengte van een verharde baan van:
-
-|   | baanbreedte | rijbaanbreedte |
-| --- | --- | --- |
-| a. 900 m of meer | 45 m | 23 m |
-| b. 700 m tot 900 m | 30 m | 15 m |
-
-3. Op verzoek van de exploitant kan in bijzondere gevallen door Onze Minister voor de baan en/of rijbaan een breedte worden toegestaan, welke kleiner is dan aangegeven in het tweede lid.
-
-4. De breedte van een onverharde baan en de breedte van een daarbij behorende rijbaan bedragen respectievelijk minimaal 25 m en 10 m.
+Vervallen
 
 ##### Artikel 121. Plaats en vorm van baan en strook
 
-1. Een baan moet in een strook in de vorm van een rechthoek zijn aangelegd en wel zo, dat de lengteassen van de baan en de strook samenvallen dan wel evenwijdig zijn.
-
-2. De afstand van elk einde van de baan tot de daarbij dichtstbijzijnde korte zijde van de strook, waarin de baan is gelegen, moet ten minste 60 meter bedragen.
-
-3. De afstand tussen de lengteas van een onverharde baan en de lange zijde van een strook mag niet minder dan 75 meter bedragen.
-
-4. De afstand tussen de lengteas van een verharde baan en de lange zijde van de strook mag niet minder dan 150 meter bedragen; ingeval van een instrumentenbaan mag deze afstand niet minder dan 200 meter bedragen.
+Vervallen
 
 ##### Artikel 122. Platform
 
-1. Een gedeelte of gedeelten van een luchtvaartterrein wordt/worden bestemd tot platform.
-
-2. De inrichting en de regels voor het gebruik van platforms behoeven de instemming van Onze Minister.
-
-3. Onze Minister onthoudt de instemming, bedoeld in het tweede lid, indien de regels voor het gebruik van het platform de orde en veiligheid op het platform naar zijn oordeel onvoldoende waarborgen.
-
-4. Parkeer- en manoeuvreertekens moeten worden gegeven door middel van de krachtens [artikel 39 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=39)-1980 vastgestelde seinen, tenzij Onze Minister heeft ingestemd met een afwijkende wijze van seinen.
+Vervallen
 
 ##### Artikel 123. Voorzieningen op een luchtvaartterrein
 
-1. De exploitant moet zorg dragen, dat op het luchtvaartterrein:
-
-- a. de richting van de wind duidelijk wordt aangegeven door een windzak of andere daartoe goedgekeurde middelen;
-
-- b. de krachtens het [Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775) vastgestelde grondtekens aanwezig zijn;
-
-- c. een seinvierkant is ingericht;
-
-- d. de grens van het landingsterrein door merkbakens wordt aangeduid, tenzij voor het landen en opstijgen uitsluitend van een verharde baan wordt gebruik gemaakt;
-
-- e. bij de drempel van een verharde baan een getal van twee cijfers is aangebracht; dit getal geeft aan de magnetische richting van de lengteas van de baan, afgerond naar het dichtstbijzijnde tiental graden en - gezien vanuit de richting bij het landen - naar rechts gemeten van het magnetische noorden af;
-
-- f. op de verharde baan en de verharde rijbanen een markering is aangebracht.
-
-2. Ten aanzien van de grondtekens, het seinvierkant, de cijfers, de dagkenmerken en kleuren als bedoeld in het eerste lid worden door Onze Minister nadere voorschriften vastgesteld.
+Vervallen
 
 ##### Artikel 124. Aanduiding van hindernissen
 
-De exploitant moet zorg dragen, dat hindernissen, welke gevaar voor luchtvaartuigen opleveren dan wel kunnen opleveren en welke zich bevinden op het luchtvaartterrein:
-
-- a. worden verwijderd; of, indien zulks niet wel mogelijk is,
-
-- b. worden aangeduid door vlaggen, tekens of kleuren overeenkomstig de door Onze Minister vastgestelde voorschriften.
+Vervallen
 
 ##### Artikel 125. Lichten op een luchtvaartterrein
 
-1. De exploitant van een luchtvaartterrein, dat gedurende de nacht of tijdens instrument-weersomstandigheden kan worden gebruikt, moet zorg dragen dat:
-
-- a. indien geen verharde banen op het luchtvaartterrein zijn aangelegd, lichten zijn geplaatst ter aanduiding van de grens van het landingsterrein of van een gedeelte hiervan; indien wel verharde banen op het luchtvaartterrein zijn aangelegd, lichten zijn geplaatst ter aanduiding van de verharde baan en de daarbij behorende verharde rijbanen;
-
-- b. een naderingsverlichting is aangebracht ter vergemakkelijking van het landen zowel bij goed als bij slecht zicht;
-
-- c. een krachtinstallatie aanwezig is voor elektrische energievoorziening in noodgevallen.
-
-2. Ten aanzien van de in het eerste lid bedoelde verlichting en lichten kunnen door Onze Minister nadere voorschriften worden vastgesteld en kunnen aanwijzingen worden gegeven.
+Vervallen
 
 ##### Artikel 126. Verlichting van hindernissen
 
-De exploitant is verplicht lichten te plaatsen ter aanduiding van de hindernissen als bedoeld in artikel 124, overeenkomstig de door Onze Minister vastgestelde voorschriften.
+Vervallen
 
 ##### Artikel 127. Hulpmiddelen
 
-De exploitant is op verzoek van Onze Minister verplicht te gedogen, dat op het luchtvaartterrein elektronische, meteorologische en eventueel andere hulpmiddelen ten behoeve van de aan Onze Minister en het Koninklijk Nederlands Meteorologisch Instituut met betrekking tot de luchtverkeersbeveiliging en de luchtvaartmeteorologische dienstverlening opgedragen taken.
+Vervallen
 
 ##### Artikel 128. E.H.B.O. en gezondheidsorganisatie
 
-1. De exploitant moet zorg dragen, dat op het luchtvaartterrein:
-
-- a. voldoende middelen aanwezig zijn voor het op verantwoorde wijze verlenen van eerste hulp bij ongevallen;
-
-- b. ten minste een persoon aanwezig is, die in staat is tot het verlenen van eerste hulp bij ongevallen en die in het bezit is van een bewijs waaruit blijkt, dat hij met het verlenen van eerste hulp vertrouwd is. Door Onze Minister kan worden vastgesteld, welke bewijzen hiervoor in aanmerking komen.
-
-2. Voor zover een voor het openbaar luchtverkeer aangewezen luchtvaartterrein ingevolge de beschikking tot aanwijzing mede voor het internationale luchtverkeer is bestemd, moet de exploitant zorg dragen, dat op het luchtvaartterrein een gezondheidsorganisatie functioneert, welke doorlopend beantwoordt aan hetgeen nodig is om ziekten te voorkomen en welke in elk geval de medewerking van een arts verzekert, zo dikwijls diens aanwezigheid nodig kan zijn voor een ingevolge een internationale overeenkomst of een wettelijk voorschrift te verrichten geneeskundig onderzoek.
+Vervallen
 
 ##### Artikel 129. Brandbestrijding
 
-1. De exploitant moet zorg dragen dat op het luchtvaartterrein voldoende materieel en middelen, alsmede voldoende deskundig en bedreven personeel aanwezig is of kan zijn voor
-
-- a. het redden van mensenlevens;
-
-- b. het voorkomen, beperken en bestrijden van brand;
-
-ten gevolge van ongevallen met luchtvaartuigen op of in de onmiddellijke omgeving van het luchtvaartterrein.
-
-2. Het in het eerste lid bedoelde materieel moet te allen tijde in bedrijfszekere toestand verkeren en het personeel moet regelmatig worden geoefend.
-
-3. De exploitant is verplicht maatregelen te nemen dat het personeel met het materieel te allen tijde zal uitrukken bij ongevallen met luchtvaartuigen op of in de onmiddellijke omgeving van het luchtvaartterrein dan wel bij brand, of gevaar voor brand op het luchtvaartterrein waarbij luchtvaartuigen zijn of kunnen worden betrokken.
-
-4. De exploitant moet zorg dragen dat een regeling is vastgesteld waarin het geheel van de te nemen maatregelen is opgenomen voor een doelmatige bestrijding van ongevallen, als bedoeld in het eerste lid alsmede van rampen welke zich op het luchtvaartterrein kunnen voordoen.
-
-5. Door Onze Minister kunnen nadere voorschriften worden vastgesteld ten aanzien van het in de vorige leden bepaalde.
+Vervallen
 
 ##### Artikel 130. Onderhoud luchtvaartterrein
 
-1. De exploitant moet zorg dragen, dat van het luchtvaartterrein een veilig gebruik kan worden gemaakt.
-
-2. De exploitant moet zorg dragen, dat:
-
-- a. de in artikel 123 bedoelde grondtekens, cijfers, dagkenmerken, kleuren en het seinvierkant, alsmede de in artikel 124 bedoelde aanduiding van hindernissen in goede staat worden onderhouden;
-
-- b. de in de artikelen 125 en 126 bedoelde verlichting, lichten en inrichtingen in goede staat worden onderhouden;
-
-- c. de in artikel 127 bedoelde hulpmiddelen op de juiste wijze kunnen worden gebruikt.
-
-3. Door Onze Minister kunnen aanwijzingen worden gegeven aan de exploitant in verband met de in de vorige leden gestelde bepalingen.
+Vervallen
 
 ##### Artikel 131. Verslag
 
-De exploitant moet zorg dragen, dat driemaandelijks een verslag over de toestand van het luchtvaartterrein aan Onze Minister wordt aangeboden.
+Vervallen
 
 ##### Artikel 132
 
-1. Onze Minister kan regels stellen ten aanzien van de orde en de veiligheid op het luchtvaartterrein. De regels hebben in ieder geval betrekking op:
-
-- a. de aanleg,
-
-- b. de inrichting,
-
-- c. de uitrusting, en
-
-- d. het veilig gebruik.
-
-2. Onze Minister kan regels stellen inzake een veiligheidsmanagementsysteem, waarmee de exploitant van het luchtvaartterrein aantoont dat deze aan de regels, bedoeld in het eerste lid, voldoet.
-
-3. Indien naar het oordeel van Onze Minister het veiligheidsmanagementsysteem voldoet aan de door Onze Minister gestelde regels, geeft Onze Minister een certificaat af. Bij ministeriële regeling worden nadere regels gesteld inzake de certificering.
+Vervallen
 
 ##### Artikel 132a. Grondafhandeling op het luchtvaartterrein
 
-Bij ministeriële regeling kunnen regels worden gesteld inzake het verrichten van grondafhandelingsdiensten op het luchtvaartterrein.
+Vervallen
 
 ##### Artikel 133. Toezicht exploitant
 
-1. De exploitant is verplicht maatregelen te nemen voor een behoorlijk toezicht op de veiligheid en de goede orde op het luchtvaartterrein.
-
-2. Het in het vorige lid bedoelde toezicht omvat niet de luchtverkeersdienstverlening, tenzij enige van deze taken krachtens [artikel 11, tweede lid, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=11) aan de exploitant zijn opgedragen;
-
-3. Terzake van de uitvoering van het in het eerste lid bedoelde toezicht en de in het tweede lid bedoelde opdracht kan Onze Minister nadere voorschriften geven.
+Vervallen
 
 ##### Artikel 133a. Plaatselijke verkeersleiding
 
-Op een gecontroleerd luchtvaartterrein moet een regeling worden getroffen tussen de exploitant en de plaatselijke verkeersleidingsdienst met betrekking tot het luchtvaartterreinverkeer op het landingsterrein, uitgezonderd luchtvaartuigen en met betrekking tot het verkeer van luchtvaartuigen naar, van en op de platforms. Deze regeling behoeft de instemming van Onze Minister.
+Vervallen
 
 ##### Artikel 134. Havenmeester
 
-1. De exploitant benoemt een in zijn dienst staand persoon tot havenmeester.
-
-2. De keuze van de te benoemen havenmeester behoeft de instemming van Onze Minister. Onze Minister onthoudt de instemming, indien de te benoemen persoon naar zijn oordeel ongeschikt is voor de functie van havenmeester.
-
-3. De havenmeester mag niet in enig dienstverband staan tot een ander dan de exploitant.
-
-4. De havenmeester verricht zijn taak onverminderd de verantwoordelijkheid van de exploitant.
-
-5. De functie van havenmeester mag verenigd worden met die van exploitant.
+Vervallen
 
 ##### Artikel 135. Taak havenmeester
 
-De havenmeester is belast met de dagelijkse uitvoering van het toezicht op het luchtvaartterrein en in het bijzonder met het toezicht op de veiligheid en de goede orde daarop.
+Vervallen
 
 ##### Artikel 136. Verstrekken van gegevens
 
-1. De havenmeester van een gecontroleerd luchtvaartterrein deelt de plaatselijke verkeersleidingsdienst steeds tijdig mede welk gedeelte van het landingsterrein gebruikt kan worden voor het verkeer met luchtvaartuigen.
-
-2. Dit gedeelte van het landingsterrein wordt aangeduid als het in gebruik zijnde deel van het landingsterrein.
-
-3. De plaatselijke verkeersleidingsdienst bepaalt op grond van verkeerstechnische overwegingen welk gedeelte van het in gebruik zijnde deel van het landingsterrein daadwerkelijk wordt bestemd voor het landen en opstijgen van luchtvaartuigen en daarmede verband houdende bewegingen.
+Vervallen
 
 ##### Artikel 137. Het branden van de lichten
 
-De havenmeester moet zorg dragen, dat bij nacht of tijdens instrument-weersomstandigheden (IMC) de verlichting en de lichten, bedoeld in de artikelen 125 en 126, tijdig en voor zover nodig worden ontstoken en blijven branden zolang zulks voor de veiligheid van het luchtverkeer nodig wordt geacht.
+Vervallen
 
 ##### Artikel 138. Voorzieningen landingsterrein
 
-De havenmeester moet zorg dragen, dat:
-
-- a. in het seinvierkant steeds de benodigde tekens worden geplaatst;
-
-- b. in geval van windstilte de op het luchtvaartterrein aanwezige landings-T wordt vastgezet in de richting waarin moet worden geland en opgestegen; onder windstilte wordt verstaan wind met een snelheid van ten hoogste 2,5 m per seconde.
+Vervallen
 
 ##### Artikel 139. Veiligheid landingsterrein
 
-1. De havenmeester moet zorg dragen, dat het in gebruik zijnde deel van het landingsterrein niet onveilig wordt gemaakt door enig roerend goed.
-
-2. Indien zich op het landingsterrein roerend goed bevindt, hetwelk gevaar voor luchtvaartuigen kan opleveren, moet dit roerend goed door de zorg van de havenmeester worden aangeduid overeenkomstig de in de artikelen 124 en 126 voor hindernissen vastgestelde voorschriften.
-
-3. Indien een gedeelte van het landingsterrein niet geschikt is voor het gebruik door luchtvaartuigen moet dat gedeelte door de zorg van de havenmeester worden aangeduid door dagkenmerken en, indien het betreft een luchtvaartterrein als bedoeld in artikel 125, tevens door lichten. Ten aanzien van deze dagkenmerken en lichten kunnen door Onze Minister voorschriften worden vastgesteld.
+Vervallen
 
 ##### Artikel 140. Veiligheid platform
 
-1. De havenmeester moet ervoor zorgen, dat een platform niet onveilig wordt gemaakt door enig roerend goed.
-
-2. Indien op een platform zich roerend goed bevindt, hetwelk naar het oordeel van Onze Minister gevaar voor luchtvaartuigen kan opleveren, moet dit roerend goed door de zorg van de havenmeester worden aangeduid overeenkomstig de in de artikelen 124 en 126 voor hindernissen vastgestelde voorschriften.
+Vervallen
 
 ##### Artikel 141. Kennisgeving aan Onze Minister
 
-1. De havenmeester is verplicht om, indien het landingsterrein door enigerlei omstandigheid gevaarlijk is geworden of zal worden voor luchtvaartuigen, daarvan zo spoedig mogelijk, onder vermelding van de bijzonderheden dienaangaande kennis te geven aan Onze Minister.
-
-2. Gelijke mededeling als bedoeld in het vorige lid moet worden gegeven, indien door enigerlei omstandigheid één of meer van de in de artikelen 123, 124, 125 en 126 bedoelde tekens, cijfers, dagkenmerken, kleuren, verlichting, lichten en inrichtingen niet meer aan de ter zake geldende voorschriften voldoen, of indien daarin wijziging zal worden gebracht.
-
-3. Wanneer de omstandigheid welke aanleiding heeft gegeven tot de mededeling, onderscheidenlijk bedoeld in het eerste en tweede lid, heeft opgehouden te bestaan of zal ophouden te bestaan, moet de havenmeester daarvan eveneens zo spoedig mogelijk aan Onze Minister kennis geven.
+Vervallen
 
 ##### Artikel 142. Register
 
-1. De havenmeester moet een register aanleggen en nauwkeurig bijhouden, waarin gegevens worden bijgehouden omtrent elk luchtvaartuig dat op het luchtvaartterrein landt of daarvan opstijgt en het daarmee gepleegde vervoer.
-
-2. De havenmeester dient van niet-verkeersvluchten de volgende gegevens bij te houden:
-
-- a. het nationaliteits- en inschrijvingskenmerk als mede het type luchtvaartuig, tevens inhoudende de inrichting van het vliegtuig en de naam van de eigenaar c.q. houder;
-
-- b. de naam van de gezagvoerder van het luchtvaartuig;
-
-- c. het luchtvaartterrein, waarvan het luchtvaartuig het laatst is vertrokken, alsmede het tijdstip van aankomst;
-
-- d. het luchtvaartterrein van bestemming, alsmede het tijdstip van vertrek;
-
-- e. de aard van de vlucht, alsmede het aantal inzittenden;
-
-- f. de baan- en circuitrichting.
-
-3. De havenmeester dient van verkeersvluchten dezelfde gegevens bij te houden als van niet-verkeersvluchten, met uitzondering van het onder lid 2 **b** en **e** gestelde, doch dient daarentegen van verkeersvluchten de volgende additionele gegevens bij te houden:
-
-- a. het vluchtnummer;
-
-- b. de herkomst c.q. bestemming van de vervoerde passagiers, zowel voor passagiers met bestemming resp. herkomst Nederland als voor overstappende passagiers en doorgaande passagiers;
-
-- c. de herkomst c.q. bestemming van de vervoerde vracht en post, zowel voor vracht en post met bestemming resp. herkomst Nederland als voor vracht en post met overslag.
-
-4. De gegevens van het register dienen ten minste 2 jaar te worden bewaard.
-
-5. Door Onze Minister kunnen regels worden gesteld ten aanzien van de inrichting van het register. Op verzoek dient de havenmeester het register voor instemming aan te bieden aan Onze Minister.
-
-6. De havenmeester dient de onder lid 3 genoemde gegevens op een door Onze Minister vast te stellen wijze op te sturen aan Onze Minister.
-
-7. Vanwege het karakter van de gegevens aangeduid onder lid 3 zullen deze gegevens vertrouwelijk worden behandeld.
-
-8. Onverminderd het in het voorgaande bepaalde moet de havenmeester desgevraagd aan door Onze Minister aan te wijzen ambtenaren van het Ministerie van Verkeer en Waterstaat en aan ambtenaren van het Korps landelijke politiediensten inzage verlenen.
-
-9. De havenmeester van het luchtvaartterrein dient in bijzondere gevallen door Onze Minister nader te bepalen gegevens in het register bij te houden.
+Vervallen
 
 ##### Artikel 143. Bekendmaking tarieven
 
-De havenmeester moet zorg dragen, dat op de daarvoor geëigende en duidelijk waarneembare plaats ter inzage aanwezig zijn:
-
-- a. de vastgestelde tarieven voor het gebruik, dat door luchtvaartuigen wordt gemaakt van het betreffende luchtvaartterrein en van de zich daarop bevindende opstallen;
-
-- b. een lijst betreffende eventueel te heffen kosten voor het gebruik van de verschillende inrichtingen, de herstellingen aan luchtvaartuigen en al hetgeen daarmede samenhangt.
+Vervallen
 
 ##### Artikel 144. Ontheffing
 
-Het bij of krachtens de artikelen 121, 122, 123, 124, 125, 126, 128, tweede lid, 129, 134, derde lid, en 138, onder **b**, bepaalde is niet van toepassing, indien en voor zover daarvan door Onze Minister geheel of gedeeltelijk ontheffing is verleend.
+Vervallen
 
 ### Hoofdstuk VII
 
@@ -1086,19 +925,9 @@ Vervallen
 
 ### Hoofdstuk XI. Straf- en slotbepalingen
 
-##### Artikel 166. Strafbepalingen
+##### Artikel 166
 
-1. Overtreding van de [artikelen 96, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=V&afdeling=I&artikel=96&z=2008-07-19&g=2008-07-19), [123, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=123&z=2008-07-19&g=2008-07-19), [124, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=124&z=2008-07-19&g=2008-07-19), [125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=125&z=2008-07-19&g=2008-07-19), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=126&z=2008-07-19&g=2008-07-19), [127](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=127&z=2008-07-19&g=2008-07-19), [128](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=128&z=2008-07-19&g=2008-07-19), [129, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=129&z=2008-07-19&g=2008-07-19), [130, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=130&z=2008-07-19&g=2008-07-19), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=131&z=2008-07-19&g=2008-07-19), [133, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=133&z=2008-07-19&g=2008-07-19), [136 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=136&z=2008-07-19&g=2008-07-19), is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
-
-2. Een overtreding van:
-
-- a. [artikel 85, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=85&z=2008-07-19&g=2008-07-19), voor zover het betreft het niet voldoen aan de van overeenkomstige toepassing zijnde [artikelen 80, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=80&z=2008-07-19&g=2008-07-19), [81, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=81&z=2008-07-19&g=2008-07-19), [82, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=82&z=2008-07-19&g=2008-07-19), en [83, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=83&z=2008-07-19&g=2008-07-19);
-
-- b. [artikel 89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=89&z=2008-07-19&g=2008-07-19), voor zover het betreft het niet voldoen aan het van overeenkomstige toepassing zijnde [artikel 88, derde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=88&z=2008-07-19&g=2008-07-19), en vijfde lid, is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
-
-3. Overtreding van een aanwijzing, regel of voorschrift gegeven krachtens de [artikelen 123, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=123&z=2008-07-19&g=2008-07-19), [124 aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=124&z=2008-07-19&g=2008-07-19), [125, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=125&z=2008-07-19&g=2008-07-19), [126](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=126&z=2008-07-19&g=2008-07-19), [129, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=129&z=2008-07-19&g=2008-07-19), [130, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=130&z=2008-07-19&g=2008-07-19), [132, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=132&z=2008-07-19&g=2008-07-19), [132a](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=132a&z=2008-07-19&g=2008-07-19), [133, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=133&z=2008-07-19&g=2008-07-19), [139, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=VI&artikel=139&z=2008-07-19&g=2008-07-19), is, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt, een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
-
-4. Een overtreding van een regel gegeven krachtens [artikel 88, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=88&z=2008-07-19&g=2008-07-19), voor zover het betreft het niet voldoen aan het van overeenkomstige toepassing zijnde [artikel 77, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=IV&artikel=77&z=2008-07-19&g=2008-07-19), is, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt, een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
+Overtreding van [artikel 96, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=V&afdeling=I&artikel=96&z=2010-01-20&g=2010-01-20), is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
 
 ##### Artikel 167. Overgangsbepalingen
 
