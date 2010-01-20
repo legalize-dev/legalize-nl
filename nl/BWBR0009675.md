@@ -4,7 +4,7 @@ identifier: "BWBR0009675"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2007-06-15"
+last_updated: "2010-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009675"
 soort: "AMvB"
@@ -86,13 +86,15 @@ Hebben goedgevonden en verstaan:
 
 - o. **verordening (EG) 1760/2000**: [verordening (EG) nr. 1760/2000](32000R1760) van het Europees Parlement en de Raad van de Europese Unie van 17 juli 2000 (PbEG L 204) tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van [verordening (EG) nr. 820/97](31997R0820) van de Raad van de Europese Unie;
 
-- p. **verordening (EG) 1825/2000**: [verordening (EG) nr. 1825/2000](32000R1825) van de Commissie van de Europese Gemeenschappen van 25 augustus 2000 tot vaststelling van de uitvoeringsbepalingen van [verordening (EG) nr. 1760/2000](32000R1760) van het Europees Parlement en de Raad van de Europese Unie met betrekking tot de etikettering van rundvlees en van rundvleesproducten (PbEG L 216).
+- p. **verordening (EG) 1825/2000**: [verordening (EG) nr. 1825/2000](32000R1825) van de Commissie van de Europese Gemeenschappen van 25 augustus 2000 tot vaststelling van de uitvoeringsbepalingen van [verordening (EG) nr. 1760/2000](32000R1760) van het Europees Parlement en de Raad van de Europese Unie met betrekking tot de etikettering van rundvlees en van rundvleesproducten (PbEG L 216);
+
+- q. **verordening (EG) 1333/2008:** verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354).
 
 2. De darm of het darmvervangend omhulsel van in dit besluit bedoelde waren is geen verpakking in de zin van [artikel 1, eerste lid, onder b, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=1).
 
 3. Voor vlees, gehakt en vleesproducten wordt een startercultuur aangemerkt als technisch hulpmiddel, bedoeld in [artikel 1, zevende lid, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=1).
 
-4. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=4&z=2007-06-15&g=2007-06-15) en de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2007-06-15&g=2007-06-15) zijn niet van toepassing op een eetwaar die met een in dit besluit bedoelde aanduiding rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, voor zover die aanduiding vergezeld gaat van beschrijvende vermeldingen die dicht bij die aanduiding staan, zodat de koper in staat is de aldus geëtiketteerde waar te onderscheiden van in Nederland in het verkeer gebrachte eetwaren waarvoor die aanduiding uitsluitend gebezigd mag worden.
+4. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=2b&artikel=4&z=2010-01-20&g=2010-01-20) en de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2010-01-20&g=2010-01-20) zijn niet van toepassing op een eetwaar die met een in dit besluit bedoelde aanduiding rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, voor zover die aanduiding vergezeld gaat van beschrijvende vermeldingen die dicht bij die aanduiding staan, zodat de koper in staat is de aldus geëtiketteerde waar te onderscheiden van in Nederland in het verkeer gebrachte eetwaren waarvoor die aanduiding uitsluitend gebezigd mag worden.
 
 ##### Artikel 2
 
@@ -106,7 +108,7 @@ Hebben goedgevonden en verstaan:
 
 5. Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
 
-6. Het is verboden vlees, gehakt of vleesproducten te verhandelen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=4&artikel=12&z=2007-06-15&g=2007-06-15).
+6. Het is verboden vlees, gehakt of vleesproducten te verhandelen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=4&artikel=12&z=2010-01-20&g=2010-01-20).
 
 7. Het is verboden te handelen in strijd met artikel 11, eerste streepje, artikel 13, eerste, tweede en vijfde lid, artikel 14, of artikel 15, van [verordening (EG) 1760/2000](32000R1760), of met artikel 1, artikel 2, tweede lid, artikel 7, eerste en vierde lid, van [verordening (EG) 1825/2000](32000R1825).
 
@@ -130,7 +132,7 @@ Bij de bereiding van eetwaren wordt geen gebruik gemaakt van:
 
 - d. darmen die ten gevolge van een bewerking kleurstoffen en andere stoffen dan die, eigen aan vlees of vleesproducten, aan de waar kunnen afgeven;
 
-- e. bloed en daarvan afgeleide producten waaraan andere levensmiddelenadditieven zijn toegevoegd dan die welke ter zake zijn toegelaten krachtens het [Warenwetbesluit Levensmiddelenadditieven](https://wetten.overheid.nl/jci1.3:c:BWBR0005456) onder de daarbij vermelde voorwaarden;
+- e. bloed en daarvan afgeleide producten waaraan andere levensmiddelenadditieven zijn toegevoegd dan die welke ter zake zijn toegelaten bij of krachtens verordening (EG) 1333/2008 onder de daarbij vermelde voorwaarden;
 
 - f. schildklierweefsel.
 
@@ -152,7 +154,7 @@ Trichinella is niet aantoonbaar in 10,0 gram wildezwijnenvlees..“..” moet zi
 
 ##### Artikel 4
 
-1. Het zetmeelgehalte van een op de voet van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2007-06-15&g=2007-06-15), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=7&z=2007-06-15&g=2007-06-15), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=8&z=2007-06-15&g=2007-06-15),[9](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=9&z=2007-06-15&g=2007-06-15) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=10&z=2007-06-15&g=2007-06-15) aangeduide, gepaneerde waar bedraagt ten hoogste 6%.
+1. Het zetmeelgehalte van een op de voet van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=6&z=2010-01-20&g=2010-01-20), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=7&z=2010-01-20&g=2010-01-20), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=8&z=2010-01-20&g=2010-01-20),[9](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=9&z=2010-01-20&g=2010-01-20) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=10&z=2010-01-20&g=2010-01-20) aangeduide, gepaneerde waar bedraagt ten hoogste 6%.
 
 2. Het eerste lid is niet van toepassing op:
 
@@ -234,7 +236,7 @@ De autoriteit, bedoeld in artikel 20 van [verordening (EG) 1760/2000](32000R1760
 
 1. Dit besluit treedt in werking met ingang van 1 juli 1998, met dien verstande dat voorverpakte eetwaren die zijn aangeduid op de voet van artikel 6, tweede lid, van het Vlees- en vleeswarenbesluit (Warenwet) 1987 zoals dat luidde onmiddellijk vóór 1 juli 1998, nog verhandeld mogen worden tot 14 februari 2000.
 
-2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=11&z=2007-06-15&g=2007-06-15) is niet van toepassing voor zover overeenkomstig een ter uitvoering van [richtlijn 97/4/EG](31997L0004) in het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) getroffen maatregel een kwantitatieve vermelding van ingrediënten wordt gebezigd, en vervalt met ingang van 14 februari 2000.
+2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009675&paragraaf=3&artikel=11&z=2010-01-20&g=2010-01-20) is niet van toepassing voor zover overeenkomstig een ter uitvoering van [richtlijn 97/4/EG](31997L0004) in het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) getroffen maatregel een kwantitatieve vermelding van ingrediënten wordt gebezigd, en vervalt met ingang van 14 februari 2000.
 
 ##### Artikel 16
 
