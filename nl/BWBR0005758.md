@@ -4,7 +4,7 @@ identifier: "BWBR0005758"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2009-07-01"
+last_updated: "2010-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005758"
 soort: "AMvB"
@@ -102,7 +102,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - s. **EG-noodmaatregel**: een in het Publicatieblad van de Europese Unie bekendgemaakte beschikking van de Commissie van de Europese Gemeenschappen, vastgesteld krachtens artikel 53, eerste lid, onder a, of tweede lid, van verordening (EG) 178/2002, voor zover die beschikking strekt tot bescherming van de gezondheid van de mens;
 
-- t. **verordening (EG) 124/2009:** verordening (EG) nr. 124/2009 van de Commissie van de Europese Gemeenschappen van 10 februari 2009 tot vaststelling van maximumgehalten voor coccidiostatica en histomonostatica in levensmiddelen als gevolg van niet te voorkomen versleping van die stoffen naar niet-doeldiervoeders (PbEU L 40).
+- t. **verordening (EG) 124/2009:** verordening (EG) nr. 124/2009 van de Commissie van de Europese Gemeenschappen van 10 februari 2009 tot vaststelling van maximumgehalten voor coccidiostatica en histomonostatica in levensmiddelen als gevolg van niet te voorkomen versleping van die stoffen naar niet-doeldiervoeders (PbEU L 40);
+
+- u. **verordening (EG) 1333/2008:** verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354).
 
 ##### Artikel 2
 
@@ -120,7 +122,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 7. Het is verboden eet- of drinkwaren te verhandelen die afkomstig zijn van dieren waarop diergeneesmiddelen zijn beproefd, tenzij overeenkomstig [Verordening (EEG) nr. 2377/90](31990R2377) van de Raad van de Europese Gemeenschappen van 26 juni 1990 houdende een communautaire procedure tot vaststelling van maximumwaarden voor residuen van geneesmiddelen voor diergeneeskundig gebruik in levensmiddelen van dierlijke oorsprong (PbEG L 224) maximumwaarden aan residuen en een passende wachttijd zijn vastgesteld om te waarborgen dat deze maximumwaarden aan residuen in die eet- of drinkwaren niet worden overschreden, en die bepalingen in acht zijn genomen.
 
-8. Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2009-07-01&g=2009-07-01) inzake de verpakking van de waar.
+8. Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2010-01-20&g=2010-01-20) inzake de verpakking van de waar.
 
 9. Het is verboden te handelen in strijd met de artikelen 1, eerste lid, 3, en 5, van verordening (EG) 1881/2006.
 
@@ -132,7 +134,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 13. Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met de artikelen 18, eerste lid, 19 en 20, eerste lid, van verordening (EG) 396/2005.
 
-14. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=2&artikel=3&z=2009-07-01&g=2009-07-01).
+14. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=2&artikel=3&z=2010-01-20&g=2010-01-20).
 
 15. Het is verboden te handelen in strijd met artikel 1, eerste lid, eerste en derde alinea, van verordening (EG) 124/2009.
 
@@ -262,13 +264,13 @@ Het gehalte aan erucazuur in eet- of drinkwaren, berekend op het totale gehalte 
 
 1. Schimmeltoxinen en bacteriële toxinen in hoeveelheden die schadelijk kunnen zijn voor de volksgezondheid, moeten afwezig zijn in eet- of drinkwaren en grondstoffen.
 
-2. In bereidplaatsen, alsmede in de gedeeltes van bedrijfsruimten van bereiders van eet- of drinkwaren, die kennelijk in gebruik zijn voor het bewaren van grondstoffen, mogen grondstoffen die niet voldoen aan het eerste lid, onder **a**, niet in voorraad of voorhanden worden gehouden, tenzij de bergplaats of de recipiënt voorzien is van een duidelijke vermelding waaruit blijkt dat die grondstof niet geschikt is voor de bereiding van eet- of drinkwaren.
+2. In bereidplaatsen, alsmede in de gedeeltes van bedrijfsruimten van bereiders van eet- of drinkwaren, die kennelijk in gebruik zijn voor het bewaren van grondstoffen, mogen grondstoffen die niet voldoen aan het eerste lid, niet in voorraad of voorhanden worden gehouden, tenzij de bergplaats of de recipiënt voorzien is van een duidelijke vermelding waaruit blijkt dat die grondstof niet geschikt is voor de bereiding van eet- of drinkwaren.
 
 3. Onze Minister kan, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, nadere regels stellen met betrekking tot het in het eerste lid gestelde.
 
 ##### Artikel 13
 
-In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2009-07-01&g=2009-07-01), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.
+In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2010-01-20&g=2010-01-20), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.
 
 #### § 4. Verontreinigingen
 
@@ -330,7 +332,7 @@ Vervallen
 
 ##### Artikel 17
 
-1. In bedrijfsruimten mogen levensmiddelenadditieven uitsluitend in een verpakking of recipiënt voorhanden zijn of in voorraad worden gehouden. Op die verpakking of recipiënt moet een aanduiding overeenkomstig het [Warenwetbesluit Levensmiddelenadditieven](https://wetten.overheid.nl/jci1.3:c:BWBR0005456) (**Stb.** 1992, 204) worden gebezigd, alsmede, voor zover van toepassing, de volgende vermeldingen:
+1. In bedrijfsruimten mogen levensmiddelenadditieven uitsluitend in een verpakking of recipiënt voorhanden zijn of in voorraad worden gehouden. Op die verpakking of recipiënt moet een aanduiding overeenkomstig verordening (EG) 1333/2008 worden gebezigd, alsmede, voor zover van toepassing, de volgende vermeldingen:
 
 - a. het gehalte of de gehaltes van de levensmiddelenadditieven indien zij aanwezig zijn in mengsels van deze stoffen, al dan niet met andere grondstoffen, voor zover regels zijn gesteld ten aanzien van de ten hoogste toegelaten hoeveelheid van een of meer van de desbetreffende levensmiddelenadditieven;
 
@@ -344,7 +346,7 @@ Vervallen
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere Lid-Staat van de Europese Economische Gemeenschap aangewezen methoden.
 
-2. Onverminderd het eerste lid worden bij de vaststelling of al dan niet is voldaan aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2009-07-01&g=2009-07-01), de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn 98/83/EG](31998L0083), met dien verstande dat:
+2. Onverminderd het eerste lid worden bij de vaststelling of al dan niet is voldaan aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2010-01-20&g=2010-01-20), de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn 98/83/EG](31998L0083), met dien verstande dat:
 
 - a. andere dan in bijlage III, deel 1, van die richtlijn vermelde methoden gebruikt mogen worden voor zover kan worden aangetoond dat de daarmee verkregen resultaten ten minste even betrouwbaar zijn als die van de gespecificeerde methoden;
 
@@ -374,9 +376,9 @@ een en ander behoudens indien de toestemming op een eerder tijdstip wordt ingetr
 
 1. Dit besluit treedt in werking met ingang van de derde maand na de datum van uitgifte van het Staatsblad, waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treden de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=1&artikel=2&z=2009-07-01&g=2009-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=14&z=2009-07-01&g=2009-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2009-07-01&g=2009-07-01) in werking met ingang van 10 januari 1993.
+2. In afwijking van het eerste lid treden de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=1&artikel=2&z=2010-01-20&g=2010-01-20), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=14&z=2010-01-20&g=2010-01-20) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2010-01-20&g=2010-01-20) in werking met ingang van 10 januari 1993.
 
-3. In afwijking van het eerste lid treedt [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=15&z=2009-07-01&g=2009-07-01), voor zover het betreft het vervoer van de daar bedoelde eet- of drinkwaar, en tweede en derde lid, in werking met ingang van de achttiende maand na de in het eerste lid bedoelde datum.
+3. In afwijking van het eerste lid treedt [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=15&z=2010-01-20&g=2010-01-20), voor zover het betreft het vervoer van de daar bedoelde eet- of drinkwaar, en tweede en derde lid, in werking met ingang van de achttiende maand na de in het eerste lid bedoelde datum.
 
 4. Een wijziging van bijlage III van [richtlijn 98/83/EG](31998L0083) gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
