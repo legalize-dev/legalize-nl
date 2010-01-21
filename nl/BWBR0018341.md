@@ -4,7 +4,7 @@ identifier: "BWBR0018341"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-19"
-last_updated: "2005-06-01"
+last_updated: "2010-01-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018341"
 soort: "ministeriele-regeling"
@@ -38,13 +38,15 @@ Gelet op [artikel 10:5, tweede lid, van de Arbeidstijdenwet](https://wetten.over
 
 Besluiten:
 
+Treedt in werking op het tijdstip waarop artikel II van het koninklijk besluit van 10 september 2004 tot wijziging van het Arbeidstijdenbesluit en het Arbeidstijdenbesluit vervoer in verband met de invoering van de bestuurlijke boete in werking treedt.
+
 ##### Artikel 1
 
-Het hoofd van het Bureau Bestuurlijke Boete van de Inspectie Verkeer en Waterstaat wordt aangewezen als de ambtenaar, bedoeld in [artikel 10:5, tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:5) voorzover het de in [artikel 5:12, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:12) onderscheiden categorieën van arbeid betreft, met uitzondering van het eigen vervoer als bedoeld in [artikel 1, eerste lid, onder g, van de Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=1).
+Het hoofd van het Bureau Bestuurlijke Boete van de Inspectie Verkeer en Waterstaat wordt aangewezen als de ambtenaar, bedoeld in [artikel 10:5, tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:5) voorzover het de in [artikel 5:12, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:12) onderscheiden categorieën van arbeid betreft.
 
 ##### Artikel 2
 
-Het hoofd van de afdeling Bestuurlijke Boete van de directie Inspectieondersteuning van de Arbeidsinspectie wordt aangewezen als de ambtenaar, bedoeld in [artikel 10:5, tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:5) voorzover het betreft arbeid, verricht in het kader van eigen vervoer als bedoeld in [artikel 1, eerste lid, onder g, van de Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=1).
+Vervallen
 
 ##### Artikel 3
 
