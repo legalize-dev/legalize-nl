@@ -4,7 +4,7 @@ identifier: "BWBR0027082"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-01-21"
-last_updated: "2010-01-01"
+last_updated: "2010-01-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027082"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 Voor de toepassing van het bij deze regeling bepaalde wordt verstaan onder:
 
-- **uitvoerder:** een ondernemer die de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027082&artikel=2&z=2010-01-21&g=2010-01-01) van deze regeling bedoelde uitvoeringswerkzaamheden namens de Staat verricht.
+- **uitvoerder:** een ondernemer die de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027082&artikel=2&z=2010-01-21&g=2010-01-21) van deze regeling bedoelde uitvoeringswerkzaamheden namens de Staat verricht.
 
 ##### Artikel 2
 
@@ -70,9 +70,9 @@ De behandeling van verzekeringsaanvragen en van eventuele schadeclaims geschiede
 
 1. De afgifte van verzekeringspolissen en garantiedocumenten geschiedt in overeenstemming met de door de Staat of door de Minister ter zake gemaakte en geldende internationale afspraken en de daaraan door de Staat respectievelijk de Minister gegeven uitleg, de toepasselijke nationale wet- en regelgeving en eventueel nader gegeven voorschriften.
 
-2. De Staat en de uitvoerder passen de standaardovereenkomst toe, welke is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0027082&bijlage=I&z=2010-01-21&g=2010-01-01), in de gevallen als omschreven in artikel 1 van die bijlage en in overeenstemming met het bepaalde in [Richtlijn 84/568/EEG](31984L0568) van de Raad van de Europese Unie van 27 november 1984 betreffende de wederzijdse verplichtingen van de voor rekening of met steun van de overheid handelende instellingen voor exportkredietverzekering van de Lidstaten, of de in de plaats van dergelijke instellingen optredende overheidsdiensten, bij gezamenlijke verzekering van een transactie die een of meer onderleveranties uit een of meer Lid-Staten van de Europese Gemeenschappen omvat.
+2. De Staat en de uitvoerder passen de standaardovereenkomst toe, welke is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0027082&bijlage=I&z=2010-01-21&g=2010-01-21), in de gevallen als omschreven in artikel 1 van die bijlage en in overeenstemming met het bepaalde in [Richtlijn 84/568/EEG](31984L0568) van de Raad van de Europese Unie van 27 november 1984 betreffende de wederzijdse verplichtingen van de voor rekening of met steun van de overheid handelende instellingen voor exportkredietverzekering van de Lidstaten, of de in de plaats van dergelijke instellingen optredende overheidsdiensten, bij gezamenlijke verzekering van een transactie die een of meer onderleveranties uit een of meer Lid-Staten van de Europese Gemeenschappen omvat.
 
-3. De Staat en de uitvoerder passen op transacties betreffende de uitvoer van goederen of diensten naar landen buiten de Europese Gemeenschap, welke contant worden betaald of door afnemers- of leverancierskrediet worden gefinancierd, de gemeenschappelijke beginselen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0027082&bijlage=II&z=2010-01-21&g=2010-01-01) en in overeenstemming met de uitvoeringsbesluiten, bedoeld in artikel 3 toe van [richtlijn 98/29/EG](31998L0029) van de Raad van de Europese Unie van 7 mei 1998 betreffende de harmonisatie van de voornaamste bepalingen inzake de exportkredietverzekering op middellange en lange termijn, in de gevallen die vallen binnen het toepassingsgebied van deze richtlijn zoals omschreven in artikel 1 van deze richtlijn en onverminderd de kennisgevingsverplichtingen welke voortvloeien uit hoofdstuk IV van bijlage II.
+3. De Staat en de uitvoerder passen op transacties betreffende de uitvoer van goederen of diensten naar landen buiten de Europese Gemeenschap, welke contant worden betaald of door afnemers- of leverancierskrediet worden gefinancierd, de gemeenschappelijke beginselen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0027082&bijlage=II&z=2010-01-21&g=2010-01-21) en in overeenstemming met de uitvoeringsbesluiten, bedoeld in artikel 3 toe van [richtlijn 98/29/EG](31998L0029) van de Raad van de Europese Unie van 7 mei 1998 betreffende de harmonisatie van de voornaamste bepalingen inzake de exportkredietverzekering op middellange en lange termijn, in de gevallen die vallen binnen het toepassingsgebied van deze richtlijn zoals omschreven in artikel 1 van deze richtlijn en onverminderd de kennisgevingsverplichtingen welke voortvloeien uit hoofdstuk IV van bijlage II.
 
 ##### Artikel 7
 
