@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-01-01"
+last_updated: "2010-01-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -68,8 +68,9 @@ Besluit:
 | 2.1 | [Subsidieregeling innoveren (Eurostars-projecten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=2.2) |   | 15-01 t/m 29-01 | 2.500.000 |
 | 2.2 | [Subsidieregeling innoveren (innovatiekredieten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=3) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.2) | Klinische ontwikkelingsprojecten | 01-01 t/m 31-12 | 15.917.000 |
 | 2.3 | [Subsidieregeling innoveren (innovatiekredieten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=3) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.2) | Technische ontwikkelingsprojecten | 01-01 t/m 31-12 | 32.157.000 |
-| 2.3a | [Subsidieregeling innoveren (innovatiekredieten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=3) | 3.2 | Duurzame technische ontwikkelingsprojecten | 01-01 t/m 01-07 | 24.000.000 |
-| 2.4 | [Subsidieregeling innoveren (innovatieprestatiecontracten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=4) | [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.3) |   | 11-01 t/m 31-12 | 1.000.000 |
+| 2.3a | [Subsidieregeling innoveren (innovatiekredieten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=3) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.2) | Duurzame technische ontwikkelingsprojecten | 01-01 t/m 01-07 | 24.000.000 |
+| 2.4 | [Subsidieregeling innoveren (innovatieprestatiecontracten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.3) |   | 11-01 t/m 31-12 | 1.000.000 |
+| 2.4a | [Subsidieregeling innoveren (innovatieprestatiecontracten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&wetgeving) | [4.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.9b) |   | Datum inwerkingtreding [artikel 4.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.9b) t/m 31-12 | 700.000 |
 | 2.5 | [Subsidieregeling innoveren (innovatieprestatiecontracten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=4) | [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.10) |   | 11-01 t/m 31-12 | 18.300.000 |
 | 2.6 | [Subsidieregeling innoveren (innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.2) | Aantal beschikbare grote vouchers |   | … stuks |
 | 2.7 | [Subsidieregeling innoveren (innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5) | [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.3) | Aantal beschikbare kleine vouchers |   | … stuks |
