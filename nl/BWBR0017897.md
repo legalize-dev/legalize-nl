@@ -4,7 +4,7 @@ identifier: "BWBR0017897"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-01-23"
-last_updated: "2005-01-01"
+last_updated: "2010-01-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017897"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 Als ‘categorieën andere minderjarigen’, als bedoeld in de [artikelen 241, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241), en [302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=302), worden aangewezen:
 
-- a. minderjarige vreemdelingen die jonger dan twaalf jaren zijn en voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) nog niet is ingediend om reden van het ontbreken van een wettelijke vertegenwoordiger;
+- a. minderjarige vreemdelingen die jonger dan twaalf jaren zijn en voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) en [28 Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) nog niet is ingediend om reden van het ontbreken van een wettelijke vertegenwoordiger;
 
 - b. minderjarige vreemdelingen van wie de moeder onder voogdij staat van een rechtspersoon als bedoeld in [artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=302) en door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), is ingediend;
 
