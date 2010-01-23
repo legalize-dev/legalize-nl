@@ -4,7 +4,7 @@ identifier: "BWBR0023563"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-04"
-last_updated: "2009-03-29"
+last_updated: "2010-01-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023563"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Vervallen
 
 2. De subsidie-ontvanger rapporteert na de datum van de beschikking tot subsidieverlening tot het moment van ingebruikname halfjaarlijks over de voortgang van de realisatie van de in het plan als bedoeld in [artikel 56, tweede lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56) opgenomen ijkmomenten.
 
-3. De subsidie-ontvanger zendt de Minister binnen een jaar na de datum van ingebruikname van de productie-installatie een overzicht van de daadwerkelijke investeringskosten, van de reeds ontvangen subsidies en overige steun en van de nog te ontvangen subsidies en overige steun. Indien de verleende subsidie als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=16), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=24), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=33), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=41), [49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=49), en [55, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55) meer bedraagt dan € 125.000, gaat het overzicht vergezeld van een accountantsverklaring. De accountantsverklaring wordt opgesteld conform het model en het controleprotocol die zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=1&z=2009-03-29&g=2009-03-29).
+3. De subsidie-ontvanger zendt de Minister binnen een jaar na de datum van ingebruikname van de productie-installatie een overzicht van de daadwerkelijke investeringskosten, van de reeds ontvangen subsidies en overige steun en van de nog te ontvangen subsidies en overige steun. Indien de verleende subsidie als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=16), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=24), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=33), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=41), [49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=49), en [55, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55) meer bedraagt dan € 125.000, gaat het overzicht vergezeld van een accountantsverklaring. De accountantsverklaring wordt opgesteld conform het model en het controleprotocol die zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=1&z=2010-01-23&g=2010-01-23).
 
 4. Het derde lid is niet van toepassing als de subsidieontvanger geen andere subsidie heeft ontvangen dan die op grond van het besluit en geen andere overige steun heeft ontvangen dan die op grond van [artikel 3.42 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42).
 
@@ -96,11 +96,11 @@ Vervallen
 
 ##### Artikel 6
 
-1. De subsidie-ontvanger die een productie-installatie bedrijft waarin biomassa wordt omgezet in hernieuwbare elektriciteit, hernieuwbaar gas of elektriciteit opgewekt door middel van warmtekrachtkoppeling, zendt binnen drie maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt aan de minister een verklaring over de duurzaamheid van de gebruikte biomassa met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=2&z=2009-03-29&g=2009-03-29).
+1. De subsidie-ontvanger die een productie-installatie bedrijft waarin biomassa wordt omgezet in hernieuwbare elektriciteit, hernieuwbaar gas of elektriciteit opgewekt door middel van warmtekrachtkoppeling, zendt binnen drie maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt aan de minister een verklaring over de duurzaamheid van de gebruikte biomassa met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=2&z=2010-01-23&g=2010-01-23).
 
 2. De verklaring, bedoeld in het eerste lid, gaat vergezeld van een goedkeurende accountantsverklaring.
 
-3. De Minister maakt de verklaringen over de duurzaamheid van de gebruikte biomassa die zijn toegezonden met gebruikmaking van [tabel 1 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=2&z=2009-03-29&g=2009-03-29), met uitzondering van de kolom hoeveelheid ton, openbaar.
+3. De Minister maakt de verklaringen over de duurzaamheid van de gebruikte biomassa die zijn toegezonden met gebruikmaking van [tabel 1 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=2&z=2010-01-23&g=2010-01-23), met uitzondering van de kolom hoeveelheid ton, openbaar.
 
 ##### Artikel 7
 
@@ -116,13 +116,15 @@ Vervallen
 
 3. Een productie-installatie voor het produceren van hernieuwbaar gas is voorzien van een nippel waarop gasanalyse apparatuur kan worden aangesloten.
 
-4. Indien de subsidie-ontvanger niet hoeft te rapporteren over de duurzaamheid van de gebruikte biomassa, verklaart de subsidie-ontvanger binnen drie maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt, met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=3&z=2009-03-29&g=2009-03-29), dat in het betreffende kalenderjaar uitsluitend biomassa is gebruikt die is toegestaan voor de categorie productie-installaties waartoe de installatie van de subsidie-ontvanger behoort. De verklaring gaat vergezeld van een goedkeurende accountantsverklaring.
+4. Indien de subsidie-ontvanger niet hoeft te rapporteren over de duurzaamheid van de gebruikte biomassa, verklaart de subsidie-ontvanger binnen drie maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt, met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=3&z=2010-01-23&g=2010-01-23), dat in het betreffende kalenderjaar uitsluitend biomassa is gebruikt die is toegestaan voor de categorie productie-installaties waartoe de installatie van de subsidie-ontvanger behoort. De verklaring gaat vergezeld van een goedkeurende accountantsverklaring.
+
+5. De subsidie-ontvanger kan de minister om toestemming verzoeken om in afwijking van het eerste lid, onderdeel c, de gegevensverstrekking via een voldoende gekwalificeerde derde te laten lopen. Indien de toestemming wordt verleend zijn het tweede en vierde lid niet van toepassing.
 
 #### § 4. Voorschotten
 
 ##### Artikel 8
 
-1. Een aanvraag tot het verstrekken van een voorschot wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=4&z=2009-03-29&g=2009-03-29).
+1. Een aanvraag tot het verstrekken van een voorschot wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=4&z=2010-01-23&g=2010-01-23).
 
 2. De Minister stelt een voorschot binnen zes maanden na afloop van het kalenderjaar bij aan de hand van:
 
@@ -182,13 +184,13 @@ Vervallen
 
 ##### Artikel 10
 
-Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=5&z=2009-03-29&g=2009-03-29).
+Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=5&z=2010-01-23&g=2010-01-23).
 
 #### § 6. Overige bepalingen
 
 ##### Artikel 11
 
-1. Voor de toepassing van [artikel 3, derde lid, aanhef, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3) geldt dat geen sprake is van dezelfde productie-installatie wanneer:
+1. Voor de toepassing van [artikel 3, eerste tot en met derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3) geldt dat geen sprake is van dezelfde productie-installatie wanneer:
 
 - a. het een productie-installatie op een andere locatie betreft;
 
@@ -234,9 +236,7 @@ Deze regeling treedt in werking op het tijdstip waarop het [Besluit stimulering 
 
 Deze regeling wordt aangehaald als: Algemene uitvoeringsregeling stimulering duurzame energieproductie.
 
-## Bijlage 1
-
-Ligt ter inzage bij SenterNovem te Zwolle.
+## Bijlage 1. behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&artikel=3&z=2010-01-23&g=2010-01-23), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 ## Bijlage 1a
 
@@ -257,6 +257,554 @@ Ligt ter inzage bij SenterNovem te Zwolle.
 ## Bijlage 5
 
 Ligt ter inzage bij SenterNovem te Zwolle.
+
+## Bijlage 6
+
+Ligt ter inzage bij SenterNovem te Zwolle.
+
+## Bijlage 7
+
+Ligt ter inzage bij SenterNovem te Zwolle.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij SenterNovem, Dokter van Deenweg 108, 8025 BK Zwolle.
+
+### Stimuleringsregeling duurzame energieproductie (SDE)
+
+### Accountantsverklaring
+
+Dit formulier is te vinden op www.agentschapnl.nl/sde.
+
+Dit formulier is verstrekt door en moet worden ingediend bij:
+
+Agentschap NL
+
+Postbus 10073
+
+8000 GB Zwolle
+
+Telefoon 038-455 34 50
+
+Bezoekadres Agentschap NL
+
+Dokter van Deenweg 108
+
+8025 BK Zwolle
+
+### Toelichting
+
+Met dit formulier kan de accountant een verklaring afgeven zoals bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&artikel=3&z=2010-01-23&g=2010-01-23) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie op grond van het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735). Dit betreft een overzicht van de investeringskosten en de overige subsidies en steunsituatie. Dit laatste is noodzakelijk in verband met de EU-steunregels ten behoeve van het milieu (EU-Milieu Steun Kader). Deze accountantsverklaring is nodig wanneer voor de SDE-subsidie een beschikking is afgegeven die groter is dan EUR 125.000.
+
+De accountantsverklaring moet worden opgestuurd naar Agentschap NL binnen een jaar na ingebruikname van de productie-installatie voor hernieuwbare energie.
+
+In dit document is ook het controleprotocol opgenomen.
+
+Waar u schrijfruimte tekort komt, mag u een bijlage toevoegen.
+
+### MODEL ACCOUNTANTSVERKLARING TEN BEHOEVE VAN HET MINISTERIE VAN ECONOMISCHE ZAKEN
+
+### Opdracht
+
+Wij hebben het bijgevoegde overzicht van investeringskosten en de steunsituatie van [...naam aanvrager...] te [...statutaire vestigingsplaats...] gewaarmerkt en gecontroleerd.
+
+Voor de gesubsidieerde activiteiten is met aanvraagnummer [...nr...] bij brief van [...datum...] met kenmerk [...kenmerk...] door de Minister van Economische Zaken een subsidie verleend. Deze subsidie is verleend in het kader van de SDE.
+
+Het overzicht van de investeringskosten en steunsituatie is opgesteld onder verantwoordelijkheid van de leiding van [...naam huishouding...]
+
+### Werkzaamheden
+
+Onze controle is verricht in overeenstemming met de algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd dat een redelijke mate van zekerheid wordt verkregen dat de aanvraag geen onjuistheden van materieel belang bevat.
+
+Een controle omvat onder meer een onderzoek (eventueel door middel van deelwaarnemingen) naar de gegevens in de aanvraag met betrekking tot de steunsituatie van het project en het bijgevoegde overzicht van investeringskosten. De controle is uitgevoerd met inachtneming van het bij deze verklaring behorende controleprotocol. Tevens omvat de controle de beoordeling dat de investeringskosten voldoen aan de eisen zoals opgenomen in artikel 36 van Communautaire kaderregeling inzake staatssteun ten behoeve van het milieu (PbEG 2001 C37).
+
+Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.
+
+### Oordeel
+
+Wij zijn van oordeel dat de verstrekte informatie voldoet aan de daaraan te stellen eisen. [...c.q. andere oordelen...].
+
+Ondergetekende, [naam, titel], verklaart dat de investeringskosten van de gesubsidieerde activiteiten gevestigd te [....], locatiegegevens van de installatie [...], in totaal EUR [.....]. hebben bedragen.
+
+### Toelichtende paragraaf
+
+[...indien van toepassing toelichting op de verklaring en eventuele specifieke bevindingen...]
+
+### Ondertekening door accountant
+
+Plaats en datum: .....
+
+Naam accountantskantoor: .....
+
+Vestigingsplaats: .....
+
+Telefoonnummer: .....
+
+Naam accountant (RA/AA): .....
+
+Inschrijfnummer NOVAA of NIVRA: .....
+
+Ondertekening: .....
+
+### Controle-Protocol
+
+### 1. Doelstelling
+
+Dit controleprotocol heeft als doel het geven van aanwijzingen aan de accountant, die is belast met de controle van de door de subsidieontvanger aan het Ministerie van Economische Zaken (EZ) te verstrekken onderbouwing van de investeringskosten en de steunsituatie ingevolge de algemene uitvoeringsregels voor de subsidieverstrekking op grond van het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735) (SDE).
+
+De controle kan worden uitgevoerd door een registeraccountant (RA) of een accountant-administratieconsulent (AA). De gevraagde verklaring kan ook worden verstrekt door een niet als openbaar accountant optredende intern accountant.
+
+### 2. Toleranties en gewenste zekerheid
+
+Voor de strekking van de accountantsverklaring, goedkeurend, met beperking, afkeurend of oordeelonthouding, zijn de volgende toleranties bepalend:
+
+Deze toleranties zijn gebaseerd op percentages die gelden voor de financiële verantwoording van departementen, op grond van de richtlijnen van het Interdepartementaal Overleg Departementale Accountantsdiensten.
+
+### Gewenste mate van zekerheid
+
+De accountantscontrole verschafteen redelijke mate van zekerheid aan de gebruiker van de verklaring. Volgens de richtlijnen voor de accountantscontrole betekent dit dat de accountant een (relatief) hoge, maar geen absolute mate van zekerheid verschaft. Indien dit begrip ten behoeve van het gebruik van statistische technieken moet worden gekwantificeerd, dan dient een betrouwbaarheid van 95% te worden gehanteerd.
+
+### Omgaan met geconstateerde fouten
+
+Inzake het omgaan met geconstateerde fouten geldt de gedragslijn, dat geconstateerde fouten, die invloed hebben op de omvang van de subsidie van EZ en die herstelbaar zijn, moeten worden gecorrigeerd. Dat geldt ook voor fouten waarbij de tolerantiegrens niet wordt overschreden. De niet herstelde fouten wegen mee in de oordeelsvorming over de aanvraag.
+
+### 3. Reikwijdte en intensiteit van de accountantscontrole
+
+Dit controleprotocol dient om de reikwijdte en het object van de accountantscontrole nader aan te geven. Niet beoogd wordt een aanpak van de accountantscontrole voor te schrijven. Veelal zal de accountant zich immers bij zijn controle baseren op een (risico)analyse van de administratieve organisatie en interne controle bij de te controleren subsidie-ontvanger en op basis daarvan komen tot een optimale afweging van de in te zetten controlemiddelen.
+
+Bij de controle wordt vastgesteld, dat de vermelde investeringskosten juist zijn. Er wordt nagegaan of er ook andere subsidies (steunsituatie) zijn verkregen. Hieronder zijn nadere aanwijzingen voor de controle verstrekt.
+
+De accountant controleert of de aanvraag voldoet aan de volgende eisen:
+
+### 4. Review van de accountantscontrole
+
+De auditdienst van het Ministerie van Economische Zaken kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle uitvoert, verstrekt de auditdienst desgevraagd alle inlichtingen en bescheiden op een wijze zoals deze dienst dat gewenst acht. De eventuele extra kosten van de externe accountant van de subsidieontvanger in verband met de review zijn voor rekening van de subsidieontvanger.
+
+### 5. Verslaglegging
+
+De accountant legt de uitkomsten van de controle vast in een accountantsverklaring. Voor deze verklaring dient de tekst te worden gehanteerd conform de model verklaring.
+
+Naast zijn oordeel over de financiële verantwoording vermeldt de accountant in een toelichtende paragraaf eventuele specifieke bevindingen, die naar het oordeel van de accountant van belang (kunnen) zijn voor het ministerie van EZ.
+
+### Agentschap NL
+
+Agentschap NL is een agentschap van het Ministerie van Economische Zaken. Agentschap NL voert beleid uit voor diverse ministeries als het gaat om duurzaamheid, innovatie en internationaal. Agentschap NL is hèt aanspreekpunt voor bedrijven, kennisinstellingen en overheden. Voor informatie en advies, financiering, netwerken en wet- en regelgeving.
+
+De divisie NL Energie en Klimaat versterkt de samenleving door te werken aan de energie- en klimaatoplossingen van de toekomst.
+
+Per 1 januari 2010 bundelen EVD, Octrooicentrum Nederland en SenterNovem hun krachten in één organisatie: Agentschap NL. Bij Agentschap NL kunnen ondernemers, kennisinstellingen en overheden terecht voor informatie, advies, financiering en netwerken op het gebied van duurzaam, innovatief en internationaal ondernemen en samenwerken. SenterNovem vormt vanaf 1 januari de divisies NL Energie en Klimaat, NL Milieu en Leefomgeving en NL Innovatie.
+
+Bij publicaties van Agentschap NL die informeren over subsidieregelingen geldt dat de beoordeling van subsidieaanvragen uitsluitend plaatsvindt aan de hand van de officiële publicatie van het besluit in de Staatscourant.
+
+## Bijlage 1a
+
+Ligt ter inzage bij SenterNovem te Zwolle.
+
+## Bijlage 2. behorend bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&artikel=6&z=2010-01-23&g=2010-01-23), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+
+### Stimuleringsregeling duurzame energieproductie (SDE)
+
+### Jaarlijkse rapportage duurzaamheid biomassa
+
+Dit formulier is te vinden op www.agentschapnl.nl/sde
+
+Dit formulier is verstrekt door en moet worden ingediend bij:
+
+Agentschap NL
+
+Postbus 10073
+
+8000 GB Zwolle
+
+Telefoon 038-455 34 50
+
+Bezoekadres Agentschap NL
+
+Dokter van Deenweg 108
+
+8025 BK Zwolle
+
+### Toelichting
+
+In dit formulier geeft u aan welke biomassastromen het afgelopen jaar gebruikt zijn in uw productie-installatie voor hernieuwbare energie. Deze verplichting staat in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&artikel=6&z=2010-01-23&g=2010-01-23) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie.
+
+Het formulier moet worden ingediend binnen drie maanden na afloop van het kalenderjaar waarover gerapporteerd wordt. Dit formulier voor de duurzaamheid van de gebruikte biomassa moet alleen ingevuld worden indien die verplichting vermeld is in de SDE-beschikking.
+
+De rapportage duurzaamheid biomassa moet per productie-installatie ingevuld worden en wordt per installatie van de organisatie openbaar gemaakt op de website www.agentschapnl.nl/sde. Persoonsgegevens (anders dan de naam en plaats van de onderneming en het type installatie) en de kolom met de hoeveelheden in ton worden niet op de website vermeld.
+
+De rapportage wordt gebruikt voor controle of de gebruikte biomassastromen overeenkomen met de voorwaarden van de SDE en om overeenkomstig [artikel 6 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&artikel=6&z=2010-01-23&g=2010-01-23) van de Algemene uitvoeringsregeling openbaar te maken welke biomassastromen worden ingezet.
+
+Waar u schrijfruimte tekort komt mag u een bijlage toevoegen.
+
+### 1. Gegevens aanvrager
+
+### 2. Gegevens contactpersoon (indien afwijkend van onder 1 ingevulde gegevens)
+
+### 3. Dossiergegevens
+
+### 4. Dossiergegevens
+
+De volgende tabel kunt u ook als een bijlage meesturen. Op de website www.agentschapnl.nl/sde is deze tabel ook digitaal beschikbaar. Afgezien van de kolom over de hoeveelheden in ton wordt deze tabel samen met de naam van de organisatie, de locatie/naam van het project, de categorie van de duurzame energieproductie en het rapportagejaar openbaar gemaakt op www.agentschapnl.nl/sde.
+
+Toelichting op de tabel:
+
+**Grondstof** De biomassa inputstroom. Tabel 2 op bladzijde 6 geeft een overzicht met mogelijke invulwaarden.
+
+**Hoeveelheid** Hier vult u de hoeveelheid tonnen biomassa in, die gedurende het rapportagejaar gebruikt is voor de productie van elektriciteit of hernieuwbaar gas.
+
+**Deze kolom wordt niet openbaar gemaakt.**
+
+**Aandeel** Hier vult u het massapercentage van die grondstof in ten opzichte van de totale inzet van de biomassa, dus de hoeveelheid tonnen per jaar uit de vorige kolom gedeeld door het totaal van de vorige kolom. De som van de massapercentages (T2) moet 100% zijn.
+
+**Herkomstland** Dit is het land van herkomst van de grondstof, dus waar de grondstof is geproduceerd of geteeld. Bij primaire en secundaire bijproducten zoals cocosnootschillen is het land van herkomst het land waar de cocosnoot is gegroeid.
+
+**Hoofd- of bijproduct** Hierin geeft u aan of de grondstof een hoofdproduct is, een primair, secundair of tertiair bijproduct of onbekend. Op pagina 7 van dit formulier wordt een verdere uitleg gegeven.
+
+**Productiestandaard** Indien de grondstof een hoofdproduct is, kunt u hier aangeven of deze voldoet aan een productiestandaard voor duurzaamheid. Tabel 3, op pagina 8 geeft een overzicht van mogelijke productiestandaarden en bijbehorende afkortingen.
+
+**Opmerkingen** Ruimte voor overige relevante informatie, bijvoorbeeld verdere specificatie van de grondstof of andere duurzaamheidsinformatie.
+
+Administratieve batches van grondstoffen (hoeveelheid product met identieke eigenschappen qua grondstof, land van oorsprong en productiestandaard) mogen in één regel worden samengevoegd. Er mogen meerdere fysieke ladingen van dezelfde grondstof uit hetzelfde land en met dezelfde productiestandaard bij elkaar opgeteld worden. Dus verschillende porties van een bepaalde grondstof met dezelfde productiestandaard en land van herkomst mogen in één regel worden samengevoegd.
+
+¹ Voor definities en omschrijvingen: zie ook NTA 8003:2008.
+
+**Hoofdproduct en bijproducten**
+
+In de rapportageverplichting wordt onderscheid gemaakt tussen hoofdproducten en bijproducten.
+
+**Hoofdproduct:** Alle biomassastromen die geen bijproduct zijn. Over het algemeen is de hoofdteelt de (belangrijkste) reden waarvoor het gewas of de biomassastroom is geteeld of geproduceerd. Het hoofdproduct heeft meestal meer dan 50% van de economische waarde op de plaats waar zij ontstaat.
+
+**Primair:** Bij bijproducten wordt een onderscheid gemaakt tussen primaire, secundaire en tertiaire bijproducten:
+
+producten die als natuurlijke bodemverbeteraar kunnen dienen en een economische waarde hebben van minder dan 10% van de waarde van de oogst in zijn geheel op het moment dat deze de boerderij verlaat.
+
+**Secundair:** Producten die een economische waarde hebben van minder dan 10% van de totale waarde van het product dat de fabriek verlaat. Hierbij moet het bijproduct fundamenteel verschillen van het hoofdproduct . Raffinagefracties worden niet als een bijproduct beschouwd.
+
+**Tertiair:** Gebruikte producten die een economische waarde hebben van minder dan 25% van de waarde van hetzelfde product in ongebruikte vorm. Afvalstromen, zoals calamiteitenoogst, vallen tevens onder deze categorie.
+
+In tabel 2 is aangegeven wat voorbeelden van bijproducten zijn. Indien dit afhankelijk is van de situatie moet u zelf aangeven op basis van bovenstaande omschrijving wat van toepassing is.
+
+Indien het een hoofdproduct is vult u in hoofdproduct.
+
+Heeft u problemen met het invullen van deze tabel of de definities?
+
+Neem dan contact op met de helpdesk: Telefoon 038-455 34 50 (8.30–12.00 uur).
+
+### Productiestandaarden
+
+In tabel 3 zijn een aantal productiestandaarden aangegeven voor biomassa. Indien de door u gebruikte biomassa voorzien is van een dergelijke productiestandaard kunt u dat aangeven in tabel 1. Ook eventuele andere productiestandaarden voor de duurzaamheid van de biomassa kunt u in tabel 1 aangeven.
+
+In de rapportageverplichting wordt gevraagd of een hoofdproduct voldoet aan een productiestandaard. Hierbij kunt u denken aan een van bovenstaande standaarden. Indien een biomassastroom voldoet aan een andere productiestandaard met een relatie tot duurzaamheid, kunt u deze invullen. Het duurzaamheidsniveau dat wordt gewaarborgd varieert per standaard. Over dit duurzaamheidsniveau wordt hier geen uitspraak gedaan.
+
+Bij tabel 1 kunt u de afkortingen invullen.
+
+### 5. Ondertekening
+
+Dit formulier moet worden ondertekend door de aanvrager. Indien dit formulier wordt ondertekend door **een ander** dan de aanvrager moet een machtiging van de aanvrager worden bijgevoegd.
+
+Aldus naar waarheid ingevuld,
+
+Controleer voordat u de rapportage verstuurt of:
+
+### Agentschap NL
+
+Agentschap NL is een agentschap van het Ministerie van Economische Zaken. Agentschap NL voert beleid uit voor diverse ministeries als het gaat om duurzaamheid, innovatie en internationaal. Agentschap NL is hèt aanspreekpunt voor bedrijven, kennisinstellingen en overheden. Voor informatie en advies, financiering, netwerken en wet- en regelgeving.
+
+De divisie NL Energie en Klimaat versterkt de samenleving door te werken aan de energie- en klimaatoplossingen van de toekomst.
+
+Per 1 januari 2010 bundelen EVD, Octrooicentrum Nederland en SenterNovem hun krachten in één organisatie: Agentschap NL. Bij Agentschap NL kunnen ondernemers, kennisinstellingen en overheden terecht voor informatie, advies, financiering en netwerken op het gebied van duurzaam, innovatief en internationaal ondernemen en samenwerken. SenterNovem vormt vanaf 1 januari de divisies NL Energie en Klimaat, NL Milieu en Leefomgeving en NL Innovatie.
+
+Bij publicaties van Agentschap NL die informeren over subsidieregelingen geldt dat de beoordeling van subsidieaanvragen uitsluitend plaatsvindt aan de hand van de officiële publicatie van het besluit in de Staatscourant.
+
+## Bijlage 3. behorende bij [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&artikel=7&z=2010-01-23&g=2010-01-23), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+
+### Stimuleringsregeling duurzame energieproductie (SDE)
+
+### Jaarlijkse biomassaverklaring bij de productie van hernieuwbaar gas
+
+Dit formulier is te vinden op www.agentschapnl.nl/sde
+
+Dit formulier is verstrekt door en moet worden ingediend bij:
+
+Agentschap NL
+
+Postbus 10073
+
+8000 GB Zwolle
+
+Telefoon 038 455 34 50
+
+Bezoekadres Agentschap NL
+
+Dokter van Deenweg 108
+
+8025 BK Zwolle
+
+### Toelichting
+
+In dit formulier verklaart de producent van hernieuwbaar gas dat uitsluitend biomassastromen zijn gebruikt die zijn toegestaan voor de categorie productie-installaties waar SDE-subsidie is ontvangen. Deze verplichting is omschreven in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&artikel=7&z=2010-01-23&g=2010-01-23), van de Algemene Uitvoeringsregeling Stimulering Duurzame Energieproductie. Dit formulier wordt alleen gebruikt indien de subsidieontvanger niet nader hoeft te rapporteren over de duurzaamheid van de gebruikte biomassa als aangegeven in [artikel 6 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&artikel=6&z=2010-01-23&g=2010-01-23). In dat geval moet worden gerapporteerd met het formulier ‘jaarlijkse rapportage duurzaamheid biomassa’. Ook dat formulier is te vinden op www.agentschapnl.nl/sde.
+
+Deze verklaring moet worden ingediend binnen drie maanden na afloop van het kalenderjaar waarover voorschotten zijn uitbetaald.
+
+Deze biomassaverklaring bij de productie van hernieuwbaar gas moet per productie-installatie worden ingevuld.
+
+Waar u schrijfruimte tekort komt mag u een bijlage toevoegen.
+
+### 1. Gegevens aanvrager
+
+### 2. Gegevens contactpersoon (indien afwijkend van onder 1 ingevulde gegevens)
+
+### 3. Dossiergegevens
+
+### 4.. Verklaring
+
+Gelet op [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&artikel=7&z=2010-01-23&g=2010-01-23), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie verklaar ik dat ik in bovengenoemde productie-installatie uitsluitend biomassa heb gebruikt die is toegestaan voor de categorie productie-installaties waarvoor ik subsidie heb ontvangen.
+
+### 5. Ondertekening
+
+Dit formulier moet worden ondertekend door de aanvrager. Indien dit formulier wordt ondertekend door **een ander** dan de aanvrager moet een machtiging van de aanvrager worden bijgevoegd.
+
+Aldus naar waarheid ingevuld,
+
+Controleer voordat u de rapportage verstuurt of:
+
+### Agentschap NL
+
+Agentschap NL is een agentschap van het Ministerie van Economische Zaken. Agentschap NL voert beleid uit voor diverse ministeries als het gaat om duurzaamheid, innovatie en internationaal. Agentschap NL is hèt aanspreekpunt voor bedrijven, kennisinstellingen en overheden. Voor informatie en advies, financiering, netwerken en wet- en regelgeving.
+
+De divisie NL Energie en Klimaat versterkt de samenleving door te werken aan de energie- en klimaatoplossingen van de toekomst.
+
+Per 1 januari 2010 bundelen EVD, Octrooicentrum Nederland en SenterNovem hun krachten in één organisatie: Agentschap NL. Bij Agentschap NL kunnen ondernemers, kennisinstellingen en overheden terecht voor informatie, advies, financiering en netwerken op het gebied van duurzaam, innovatief en internationaal ondernemen en samenwerken. SenterNovem vormt vanaf 1 januari de divisies NL Energie en Klimaat, NL Milieu en Leefomgeving en NL Innovatie.
+
+Bij publicaties van Agentschap NL die informeren over subsidieregelingen geldt dat de beoordeling van subsidieaanvragen uitsluitend plaatsvindt aan de hand van de officiële publicatie van het besluit in de Staatscourant.
+
+## Bijlage 4. behorend bij [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=4&artikel=8&z=2010-01-23&g=2010-01-23), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+
+### Stimuleringsregeling duurzame energieproductie (SDE)
+
+### Jaarlijks voorschotformulier
+
+Dit formulier is te vinden op www.agentschapnl.nl/sde
+
+Dit formulier is verstrekt door en moet worden ingediend bij:
+
+Agentschap NL
+
+Postbus 10073
+
+8000 GB Zwolle
+
+Telefoon 038-455 34 50
+
+Bezoekadres Agentschap NL
+
+Dokter van Deenweg 108
+
+8025 BK Zwolle
+
+### Toelichting
+
+Dit formulier is bedoeld om een voorschot aan te vragen voor de Stimuleringsregeling Duurzame Energieproductie (SDE). U moet dit formulier jaarlijks voorafgaande aan het kalenderjaar waarin u voorschotten wilt ontvangen indienen.
+
+### Hernieuwbare elektriciteit
+
+Het voorschotbedrag wordt bepaald aan de hand van:
+
+Tachtig procent van het voorschotbedrag wordt in 12 gelijke maandelijkse bedragen uitgekeerd. Na afloop van het jaar zal een verrekening plaatsvinden tot 100 procent van het voorschotbedrag op basis van de werkelijke productie en de vastgestelde energieprijs en correctiebedragen.
+
+Agentschap NL ontvangt van CertiQ de productiegegevens die worden gebruikt bij het bepalen van het juiste voorschotbedrag. U hoeft deze gegevens niet zelf te verstrekken.
+
+Voorschotten voor de SDE bij hernieuwbare elektriciteit en wkk kunnen alleen verstrekt worden op basis van te produceren elektriciteit waarvoor garanties van oorsprong of certificaten worden afgegeven. U moet zich hiervoor aanmelden bij CertiQ (www.certiq.nl).
+
+Om u aan te kunnen melden bij CertiQ en voor het voorschotverzoek bij Agentschap NL moet u de EAN-code van het aansluitpunt aangeven waarop u stroom levert. De EAN-code voor producenten kan verkregen worden bij de regionale netbeheerder.
+
+De producent moet tevens een productieverklaring aanvragen bij de regionale netbeheerder. De regionale netbeheerder beoordeelt of de installatie voldoet aan de wettelijke eisen en of er op een eenduidige manier gemeten kan worden. Na goedkeuring (en ondertekening) stuurt de netbeheerder de aanmelding door naar CertiQ. De meetgegevens van een geregistreerde productielocatie worden door een erkende meetverantwoordelijke of door de netbeheerder zelf opgenomen. De netbeheerder stuurt de meetgegevens naar CertiQ. Op basis van deze meetgegevens kunnen de garanties van oorsprong of certificaten worden aangemaakt door CertiQ. Agentschap NL ontvangt van CertiQ de productiegegevens die worden gebruikt voor het bepalen van het juiste voorschotbedrag. U hoeft deze gegevens niet zelf te verstrekken.
+
+### Hernieuwbaar gas
+
+Het voorschotbedrag wordt bepaald aan de hand van:
+
+Tachtig procent van het voorschotbedrag wordt in 12 gelijke maandelijkse bedragen uitgekeerd. Na afloop van het jaar zal een verrekening plaatsvinden tot 100 procent van het voorschotbedrag op basis van de werkelijke productie en de vastgestelde energieprijs en correctiebedragen.
+
+Voor hernieuwbaar gas bestaat geen wettelijk verankerd systeem van garanties van oorsprong, zoals bij hernieuwbare elektriciteit of van certificaten, zoals bij elektriciteit opgewekt door warmtekrachtkoppeling. De subsidieontvanger die hernieuwbaar gas op het net invoedt, moet voldoen aan de voorwaarden die in [artikel 12b van de gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12b) worden gesteld. Op grond van deze meetvoorwaarden worden metingen verricht door een erkende meetverantwoordelijke. De bepalingen voor groen gas zijn nader uitgewerkt in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&artikel=7&z=2010-01-23&g=2010-01-23) van de Algemene uitvoeringsregeling SDE. In dit artikel is opgenomen, dat u indien gewenst de informatiestromen via een door de Minister goedgekeurde instantie, zoals Vertogas, kunt laten lopen als u daartoe een verzoek indient. Vertogas voert een voorlopig certificatiesysteem uit voor hernieuwbaar gas.
+
+Voor het voorschotverzoek bij Agentschap NL moet u de EAN-code van het aansluitpunt aangeven waarop u hernieuwbaar gas levert. De EAN-code voor producenten kan verkregen worden bij de regionale netbeheerder.
+
+De subsidieontvanger moet met zijn meetverantwoordelijke overeenkomen dat de meetgegevens maandelijks overlegd worden aan Agentschap NL. Deze meetgegevens worden door Agentschap NL gebruikt bij het bepalen van het juiste voorschotbedrag.
+
+Waar u schrijfruimte tekort komt, mag u een bijlage toevoegen.
+
+### 1. Gegevens aanvrager
+
+### 2. Gegevens contactpersoon (indien afwijkend van onder 1 ingevulde gegevens)
+
+### 3. Dossiergegevens
+
+### 4. Rekeninggegevens
+
+### 5. Productieraming per kalenderjaar
+
+### 6. Wijzigingen
+
+Zijn er ten opzichte van de bij Agentschap NL opgegeven gegevens wijzigingen opgetreden op de volgende punten?:
+
+Nominaal vermogen van de installatie:
+
+Eigendom van de installatie:
+
+Brandstoffenmix:
+
+Locatie van de installatie
+
+Overige essentiële wijzigingen
+
+### 7. Algemene informatie
+
+Is voor de aanvrager surseance van betaling aangevraagd?
+
+Is voor de aanvrager faillissement aangevraagd?
+
+Is voor de aanvrager een verzoek ingediend voor de schuldsaneringregeling natuurlijke personen?
+
+Zijn er andere subsidies of fiscale faciliteiten voor het project verstrekt/toegezegd die u nog niet heeft opgegeven in het aanvraagformulier of eerdere voorschotaanvraag?
+
+Met het ondertekenen van dit formulier verklaart u dat u Agentschap NL onverwijld schriftelijk melding zult doen van essentiële wijzigingen zoals:
+
+### 8. Opmerkingen
+
+Zijn er nog andere gegevens, die voor het verlenen van voorschotten van belang kunnen zijn?
+
+○ nee
+
+○ ja, namelijk:
+
+.....
+
+.....
+
+.....
+
+.....
+
+.....
+
+### 9. Ondertekening
+
+Dit formulier moet worden ondertekend door de aanvrager. Indien dit formulier wordt ondertekend door **een ander** dan de aanvrager moet een machtiging van de aanvrager worden bijgevoegd.
+
+Aldus naar waarheid ingevuld,
+
+Bij dit voorschotformulier moet u de volgende bijlagen meesturen:
+
+Controleer voordat u de aanvraag verstuurt of:
+
+Agentschap NL is een agentschap van het Ministerie van Economische Zaken. Agentschap NL voert beleid uit voor diverse ministeries als het gaat om duurzaamheid, innovatie en internationaal. Agentschap NL is hèt aanspreekpunt voor bedrijven, kennisinstellingen en overheden. Voor informatie en advies, financiering, netwerken en wet- en regelgeving.
+
+De divisie NL Energie en Klimaat versterkt de samenleving door te werken aan de energie- en klimaatoplossingen van de toekomst.
+
+Per 1 januari 2010 bundelen EVD, Octrooicentrum Nederland en SenterNovem hun krachten in één organisatie: Agentschap NL. Bij Agentschap NL kunnen ondernemers, kennisinstellingen en overheden terecht voor informatie, advies, financiering en netwerken op het gebied van duurzaam, innovatief en internationaal ondernemen en samenwerken. SenterNovem vormt vanaf 1 januari de divisies NL Energie en Klimaat, NL Milieu en Leefomgeving en NL Innovatie.
+
+Bij publicaties van Agentschap NL die informeren over subsidieregelingen geldt dat de beoordeling van subsidieaanvragen uitsluitend plaatsvindt aan de hand van de officiële publicatie van het besluit in de Staatscourant.
+
+## Bijlage 5. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=5&artikel=10&z=2010-01-23&g=2010-01-23) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+
+### Stimuleringsregeling duurzame energieproductie (SDE)
+
+### Vaststellingsformulier
+
+Dit formulier is te vinden op www.agentschapnl.nl/sde
+
+Dit formulier is verstrekt door en moet worden ingediend bij:
+
+Agentschap NL
+
+Postbus 10073
+
+8000 GB Zwolle
+
+Telefoon 038-455 34 50
+
+Bezoekadres Agentschap NL
+
+Dokter van Deenweg 108
+
+8025 BK Zwolle
+
+### Toelichting
+
+Dit formulier is bedoeld om vaststelling aan te vragen voor de Stimuleringsregeling Duurzame Energieproductie (SDE) aan het eind van de SDE-subsidieperiode.
+
+Waar u schrijfruimte tekort komt, mag u een bijlage toevoegen.
+
+### 1. Gegevens aanvrager
+
+### 2. Gegevens contactpersoon (indien afwijkend van onder 1 ingevulde gegevens)
+
+### 3. Dossiergegevens
+
+### 4. Rekeninggegevens
+
+### 5. Wijzigingen
+
+Zijn er ten opzichte van de bij Agentschap NL opgegeven gegevens wijzigingen opgetreden op de volgende punten?:
+
+Opgesteld vermogen van de installatie:
+
+Ten aanzien van het eigendom van de installatie
+
+Ten aanzien van de brandstoffenmix
+
+Overige essentiële wijzigingen
+
+**U dient er hier echter rekening mee te houden dat u in uw aanvraagformulier hebt verklaard, door deze te ondertekenen, dat u Agentschap NL onverwijld schriftelijk melding zal doen van essentiële wijzigingen: gewijzigde datum van ingebruikname, gewijzigde aanvangsdatum van subsidieperiode, uitbedrijfname, renovatie en uitbreiding, langdurige stilstand, indien van toepassing ingrijpende wijzigingen van de brandstofmix, wijzigingen van de technische specificatie van de installatie, et cetera en daarnaast van wijzigingen in de gegevens van de aanvrager en de steunsituatie.**
+
+### 6.. Algemene informatie
+
+Is voor de aanvrager surseance van betaling aangevraagd?
+
+Is voor de aanvrager faillissement aangevraagd?
+
+Is voor de aanvrager een verzoek ingediend voor de schuldsaneringregeling natuurlijke personen?
+
+Zijn er andere subsidies of fiscale faciliteiten voor het project verstrekt die u nog niet heeft opgegeven in het aanvraagformulier of eerdere voorschotaanvraag?
+
+**U dient er hier echter rekening mee te houden dat u in uw aanvraagformulier hebt verklaard, door deze te ondertekenen, dat u Agentschap NL onverwijld schriftelijk melding zal doen van de indiening bij de rechtbank van een verzoek tot verlening van surséance van betaling of tot verzoek faillietverklaring of wanneer een verzoek is ingediend voor de schuldsaneringregeling natuurlijke personen of andere zaken die van invloed zijn op de subsidieverstrekking.**
+
+### 7. Opmerkingen
+
+Zijn er nog andere gegevens, die voor de aanvraag om vaststelling van belang kunnen zijn?
+
+○ nee
+
+○ ja, namelijk:
+
+.....
+
+.....
+
+.....
+
+.....
+
+.....
+
+### 8.. Ondertekening
+
+Dit formulier moet worden ondertekend door de aanvrager. Indien dit formulier wordt ondertekend door **een ander** dan de aanvrager moet een machtiging van de aanvrager worden bijgevoegd.
+
+Aldus naar waarheid ingevuld,
+
+Bij dit formulier voor aanvraag om vaststelling moet u de volgende bijlagen meesturen:
+
+Controleer voordat u de aanvraag verstuurt of:
+
+### Agentschap NL
+
+Agentschap NL is een agentschap van het Ministerie van Economische Zaken. Agentschap NL voert beleid uit voor diverse ministeries als het gaat om duurzaamheid, innovatie en internationaal. Agentschap NL is hèt aanspreekpunt voor bedrijven, kennisinstellingen en overheden. Voor informatie en advies, financiering, netwerken en wet- en regelgeving.
+
+De divisie NL Energie en Klimaat versterkt de samenleving door te werken aan de energie- en klimaatoplossingen van de toekomst.
+
+Per 1 januari 2010 bundelen EVD, Octrooicentrum Nederland en SenterNovem hun krachten in één organisatie: Agentschap NL. Bij Agentschap NL kunnen ondernemers, kennisinstellingen en overheden terecht voor informatie, advies, financiering en netwerken op het gebied van duurzaam, innovatief en internationaal ondernemen en samenwerken. SenterNovem vormt vanaf 1 januari de divisies NL Energie en Klimaat, NL Milieu en Leefomgeving en NL Innovatie.
+
+Bij publicaties van Agentschap NL die informeren over subsidieregelingen geldt dat de beoordeling van subsidieaanvragen uitsluitend plaatsvindt aan de hand van de officiële publicatie van het besluit in de Staatscourant.
 
 ## Bijlage 6
 
