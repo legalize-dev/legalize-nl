@@ -125,25 +125,3 @@ Deze regeling wordt aangehaald als: Regeling registratieformulier antidiscrimina
 | – Landelijk |   |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### 1. Totaal aantal klachten
-
-### 2. Discriminatiegrond1Het totale aantal in deze tabel kan afwijken van het totaal aantal klachten. Een klacht kan namelijk over discriminatie op meerdere gronden gaan, waardoor er verschil ontstaan tussen de twee totalen.
-
-### 3. Maatschappelijk terrein
-
-### 4. Aard
-
-### 5. Klachtbehandeling2Per klacht kunnen meerdere wijzen van klachtbehandeling worden toegepast en geregistreerd. Daarbij kan de wijze van klachtbehandeling niet of niet volledig ingevuld zijn voor de op het moment van rapportage nog lopende klachten. Het totale aantal geregistreerde werkwijzen van klachtbehandeling kan om die redenen dan ook afwijken het totale aantal klachten.
-
-¹ De werkwijze ‘registratie’ betekent dat de klachtbehandeling heeft bestaan uit het registreren van de klacht of melding en uit het geven van een korte reactie (telefonisch of per e-mail).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### 4. Aard4Een klacht kan betrekking hebben op meerdere categorieën in deze tabel. Het totale aantal van tabel 4 kan dus groter zijn dan het totale aantal klachten, vermeld in tabel 1.
-
-### 5. Klachtbehandeling5Per klacht kunnen meerdere wijzen van klachtbehandeling worden toegepast en geregistreerd. Daarbij kan de wijze van klachtbehandeling niet of niet volledig ingevuld zijn voor de op het moment van rapportage nog lopende klachten. Het totale aantal geregistreerde werkwijzen van klachtbehandeling kan om die redenen dan ook afwijken van het totale aantal klachten, vermeld in tabel 1.
-
-¹ De werkwijze ‘registratie’ betekent dat de klachtbehandeling heeft bestaan uit het registreren van de klacht of melding en uit het geven van een korte reactie (telefonisch of per e-mail).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
