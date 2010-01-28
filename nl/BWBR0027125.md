@@ -4,7 +4,7 @@ identifier: "BWBR0027125"
 country: "nl"
 rank: "zbo"
 publication_date: "2013-12-10"
-last_updated: "2009-12-31"
+last_updated: "2010-01-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027125"
 soort: "zbo"
@@ -110,7 +110,7 @@ Indien loonsverhogingen die een rechtstreeks gevolg zijn van een collectieve afs
 
 1. De boete, die met inachtneming van de voorgaande artikelen is vastgesteld, wordt verlaagd, indien de belanghebbende voldoende aannemelijk maakt dat, gelet op de financiële omstandigheden waarin hij verkeert, de boete niet binnen twaalf maanden na oplegging kan zijn voldaan, rekening houdend met het eventuele vermogen en de aflossingscapaciteit van de belanghebbende.
 
-2. In afwijking van het eerste lid geldt een termijn van achttien maanden indien [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027125&artikel=4&z=2010-01-28&g=2009-12-31) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027125&artikel=5&z=2010-01-28&g=2009-12-31) van toepassing is.
+2. In afwijking van het eerste lid geldt een termijn van achttien maanden indien [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027125&artikel=4&z=2010-01-28&g=2010-01-28) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027125&artikel=5&z=2010-01-28&g=2010-01-28) van toepassing is.
 
 ##### Artikel 9. Spontane inlichtingenverplichting
 
