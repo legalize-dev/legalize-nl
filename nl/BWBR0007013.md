@@ -4,7 +4,7 @@ identifier: "BWBR0007013"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2008-01-01"
+last_updated: "2010-01-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007013"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 - a. Onze Minister: Onze Minister van Justitie;
 
-- b. titel van opsporingsbevoegdheid: de titel van opsporingsbevoegdheid, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=3&z=2008-01-01&g=2008-01-01);
+- b. titel van opsporingsbevoegdheid: de titel van opsporingsbevoegdheid, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=3&z=2010-01-30&g=2010-01-30);
 
 - c. akte van opsporingsbevoegdheid: de akte van opsporingsbevoegdheid, bedoeld in [artikel 142, eerste lid, onder a, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
 
@@ -58,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 - e. aanvullende opsporingsbevoegdheid: de aanvullende opsporingsbevoegdheid, bedoeld in [artikel 142, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
 
-- f. de akte van beëdiging: de akte van beëdiging, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=4&artikel=19&z=2008-01-01&g=2008-01-01);
+- f. de akte van beëdiging: de akte van beëdiging, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=4&artikel=19&z=2010-01-30&g=2010-01-30);
 
 - g. politiebevoegdheden: de bevoegdheden, bedoeld in [artikel 8, eerste en derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8);
 
@@ -66,9 +66,9 @@ Hebben goedgevonden en verstaan:
 
 - i. bewijs van bekwaamheid: een bewijs van het met goed gevolg afgelegd hebben van het door Onze Minister goedgekeurde examen;
 
-- j. legitimatiebewijs: een bewijs als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=5&artikel=26&z=2008-01-01&g=2008-01-01) van dit besluit;
+- j. legitimatiebewijs: een bewijs als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=5&artikel=26&z=2010-01-30&g=2010-01-30) van dit besluit;
 
-- k. insigne: het onderscheidingsteken, bedoeld in [artikel 26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=5&artikel=26a&z=2008-01-01&g=2008-01-01).
+- k. insigne: het onderscheidingsteken, bedoeld in [artikel 26a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=5&artikel=26a&z=2010-01-30&g=2010-01-30).
 
 2. Als standplaats in de zin van dit besluit wordt aangemerkt:
 
@@ -84,9 +84,9 @@ Hebben goedgevonden en verstaan:
 
 4. In dit besluit wordt verstaan onder:
 
-- a. toezichthouder: het lid van het openbaar ministerie, dat op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=6&paragraaf=2&artikel=36&z=2008-01-01&g=2008-01-01) onderscheidenlijk [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=6&paragraaf=2&artikel=37&z=2008-01-01&g=2008-01-01) als toezichthouder is aangewezen;
+- a. toezichthouder: de hoofdofficier van justitie, bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=6&paragraaf=2&artikel=36&z=2010-01-30&g=2010-01-30);
 
-- b. direct toezichthouder: degene, die op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=6&paragraaf=2&artikel=36&z=2008-01-01&g=2008-01-01) onderscheidenlijk [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=6&paragraaf=2&artikel=37&z=2008-01-01&g=2008-01-01) als direct toezichthouder is aangewezen.
+- b. direct toezichthouder: degene, die op grond van [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=6&paragraaf=2&artikel=36&z=2010-01-30&g=2010-01-30), als direct toezichthouder is aangewezen.
 
 De (direct) toezichthouder is geen toezichthouder bedoeld in [artikel 5:11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11).
 
@@ -128,19 +128,19 @@ Een aanvraag tot het verlenen van een akte van opsporingsbevoegdheid, het doen v
 
 ##### Artikel 6
 
-1. Een aanvraag tot verlenging of wijziging van een akte van opsporingsbevoegdheid, de aanwijzing en de aanvullende opsporingsbevoegdheid wordt uiterlijk 4 maanden voor het verlopen van de geldigheidsduur ingediend.
+1. Een aanvraag tot verlenging of wijziging van een akte van opsporingsbevoegdheid, de aanwijzing en de aanvullende opsporingsbevoegdheid wordt uiterlijk drie maanden voor het verlopen van de geldigheidsduur ingediend.
 
-2. Onze Minister verlengt of wijzigt de akte van opsporingsbevoegdheid, de aanwijzing en de aanvullende opsporingsbevoegdheid.
+2. Onze Minister kan de akte van opsporingsbevoegdheid, de aanwijzing en de aanvullende opsporingsbevoegdheid ambtshalve wijzigen of vervangen.
 
-3. Indien Onze Minister bij beschikking de aanwijzing of de aanvullende opsporingsbevoegdheid heeft gewijzigd, worden de akten van beëdiging van de betrokken buitengewoon opsporingsambtenaren zo spoedig mogelijk aangepast. Tot het tijdstip waarop de aanpassing heeft plaatsgevonden, wordt de akte van beëdiging geacht te zijn gebaseerd op de nieuwe beschikking.
+3. Indien Onze Minister bij beschikking de akte van opsporingsbevoegdheid, de aanwijzing of de aanvullende opsporingsbevoegdheid verlengt, wijzigt of vervangt, past hij de akten van beëdiging van de betrokken buitengewoon opsporingsambtenaren zo spoedig mogelijk aan. Tot het tijdstip waarop de aanpassing heeft plaatsgevonden, wordt de akte van beëdiging geacht te zijn gebaseerd op de nieuwe beschikking.
 
 ##### Artikel 7
 
-Op elke aanvraag ingevolge dit hoofdstuk wordt zo spoedig mogelijk, in elk geval binnen 4 maanden na ontvangst van de aanvraag, beslist.
+Op elke aanvraag ingevolge dit hoofdstuk wordt zo spoedig mogelijk, in elk geval binnen drie maanden na ontvangst van de aanvraag, beslist.
 
 ##### Artikel 8
 
-1. Een akte van opsporingsbevoegdheid, de aanwijzing en de aanvullende opsporingsbevoegdheid worden ingetrokken op aanvraag van de werkgever of indien de noodzaak, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=4&z=2008-01-01&g=2008-01-01), niet meer aanwezig is.
+1. Een akte van opsporingsbevoegdheid, de aanwijzing en de aanvullende opsporingsbevoegdheid worden ingetrokken op aanvraag van de werkgever of indien de noodzaak, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=4&z=2010-01-30&g=2010-01-30), niet meer aanwezig is.
 
 2. De intrekking, bedoeld in het eerste lid, geschiedt door degene die de akte van opsporingsbevoegdheid of de aanvullende opsporingsbevoegdheid heeft verleend, dan wel de aanwijzing heeft gedaan.
 
@@ -152,7 +152,7 @@ Op elke aanvraag ingevolge dit hoofdstuk wordt zo spoedig mogelijk, in elk geval
 
 2. Onze Minister raadpleegt in ieder geval bij de aanvraag voor een categorie of eenheid het College van procureurs-generaal en Onze Ministers wie het mede aangaat.
 
-3. De aanvraag bevat, naast de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01) genoemde gegevens, de volgende gegevens:
+3. De aanvraag bevat, naast de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2010-01-30&g=2010-01-30) genoemde gegevens, de volgende gegevens:
 
 - a. naam, voornamen, woonplaats alsmede geboortedatum en -plaats van de persoon, ten behoeve van wie de aanvraag tot buitengewoon opsporingsambtenaar wordt gedaan;
 
@@ -170,9 +170,9 @@ Onze Minister verleent de akte van opsporingsbevoegdheid, waarin staan vermeld h
 
 2. Onze Minister beslist op de aanvraag en doet een afschrift van zijn beschikking toekomen aan de direct toezichthouder.
 
-3. Onze Minister kan een ontheffing als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01), verlenen indien de te benoemen personen over voldoende bekwaamheid beschikt.
+3. Onze Minister kan een ontheffing als bedoeld in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=3&artikel=16&z=2010-01-30&g=2010-01-30), verlenen indien de te benoemen persoon over voldoende bekwaamheid beschikt.
 
-4. Bij het verlenen van de akte van opsporingsbevoegdheid, bedoeld in het eerste lid, kan de aanwijzing van de toezichthouder en de direct toezichthouder achterwege blijven. In dat geval is het gestelde in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=6&z=2008-01-01&g=2008-01-01), met uitzondering van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=6&paragraaf=1&artikel=35&z=2008-01-01&g=2008-01-01) niet van toepassing op de desbetreffende buitengewoon opsporingsambtenaar.
+4. Bij het verlenen van de akte van opsporingsbevoegdheid, bedoeld in het eerste lid, kan de aanwijzing van de toezichthouder en de direct toezichthouder achterwege blijven. In dat geval is het gestelde in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=6&z=2010-01-30&g=2010-01-30), met uitzondering van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=6&paragraaf=1&artikel=35&z=2010-01-30&g=2010-01-30) niet van toepassing op de desbetreffende buitengewoon opsporingsambtenaar.
 
 #### § 3. De procedure voor het verkrijgen van een aanwijzing
 
@@ -180,13 +180,13 @@ Onze Minister verleent de akte van opsporingsbevoegdheid, waarin staan vermeld h
 
 1. De werkgever dient een aanvraag tot aanwijzing van categorieën of eenheden als bedoeld in [artikel 142, eerste lid, onder **b**, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) in bij Onze Minister.
 
-2. De aanvraag bevat, naast de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01) genoemde gegevens, de volgende gegevens:
+2. De aanvraag bevat, naast de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2010-01-30&g=2010-01-30) genoemde gegevens, de volgende gegevens:
 
 - a. een omschrijving van de categorie of eenheid binnen de organisatie en van de functies, waarvan de opsporingsbevoegdheid deel moet uitmaken, en
 
 - b. een opgave van het hoogste aantal personen dat in die functies moet kunnen worden aangesteld.
 
-3. Het bepaalde in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=2&artikel=9&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+3. Het bepaalde in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=2&artikel=9&z=2010-01-30&g=2010-01-30), is van overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -198,17 +198,17 @@ In de beschikking wordt het hoogste aantal personen vermeld dat op grond van de 
 
 1. De werkgever dient een aanvraag voor een aanvullende opsporingsbevoegdheid als bedoeld in [artikel 142, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) in bij Onze Minister.
 
-2. De aanvraag ten behoeve van de categorie of eenheid bevat, naast de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01) genoemde gegevens, de volgende gegevens:
+2. De aanvraag ten behoeve van de categorie of eenheid bevat, naast de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2010-01-30&g=2010-01-30) genoemde gegevens, de volgende gegevens:
 
 - a. een omschrijving van de categorie of eenheid binnen de organisatie en van de functies, waarvan de opsporingsbevoegdheid deel moet uitmaken, en
 
 - b. een opgave van het hoogste aantal personen dat in die functies moet kunnen worden aangesteld.
 
-3. Het bepaalde in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=2&artikel=9&z=2008-01-01&g=2008-01-01), is van overeenkomstige toepassing.
+3. Het bepaalde in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=2&artikel=9&z=2010-01-30&g=2010-01-30), is van overeenkomstige toepassing.
 
 ##### Artikel 15
 
-Indien Onze Minister ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=4&artikel=14&z=2008-01-01&g=2008-01-01) heeft beslist tot aanvulling van de opsporingsbevoegdheid, past hij tevens zo spoedig mogelijk de akten van beëdiging van de betrokken buitengewoon opsporingsambtenaren aan.
+Vervallen
 
 ### Hoofdstuk 3. De bekwaamheid en de betrouwbaarheid
 
@@ -216,9 +216,9 @@ Indien Onze Minister ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:
 
 1. Een persoon beschikt over de bekwaamheid voor de uitoefening van opsporingsbevoegdheden, indien hij de daarvoor vastgestelde basiskennis en vaardigheden bezit. De bekwaamheid blijkt uit het met goed gevolg hebben afgelegd van een examen waarmee Onze Minister heeft ingestemd.
 
-2. Onze Minister kan ten aanzien van categorieën buitengewoon opsporingsambtenaren aanvullende bekwaamheidseisen stellen, waaraan een persoon dient te voldoen alvorens hij de akte van opsporingsbevoegdheid verkrijgt. Het voldoen aan de aanvullende bekwaamheidseisen blijkt uit het met goed gevolg hebben afgelegd van een examen waarmee Onze Minister heeft ingestemd.
+2. Onze Minister kan ten aanzien van categorieën buitengewoon opsporingsambtenaren aanvullende bekwaamheidseisen stellen. Onze Minister bepaalt daarbij of het voldoen aan die eisen blijkt uit het met goed gevolg hebben afgelegd van een examen waarmee hij heeft ingestemd of uit het met goed gevolg hebben doorlopen van een opleidingsprogramma waarmee hij heeft ingestemd. Het opleidingsprogramma kan worden doorlopen na de beëdiging.
 
-3. Van het met goed gevolg afleggen van de in het eerste en tweede lid genoemde examens kan ontheffing worden verleend, indien de bekwaamheid voor de uitoefening van opsporingsbevoegdheden op andere wijze blijkt. Bij het verlenen van een ontheffing kunnen aanwijzingen en voorschriften worden gegeven met het oog op het waarborgen van een adequaat niveau van bekwaamheid voor de uitoefening van opsporingsbevoegdheden.
+3. Van het met goed gevolg afleggen van de in het eerste en tweede lid bedoelde examens en van het met goed gevolg hebben doorlopen van het in het tweede lid bedoelde programma kan ontheffing worden verleend, indien de bekwaamheid voor de uitoefening van opsporingsbevoegdheden op andere wijze blijkt. Bij het verlenen van een ontheffing kunnen aanwijzingen en voorschriften worden gegeven met het oog op het waarborgen van een adequaat niveau van bekwaamheid voor de uitoefening van opsporingsbevoegdheden.
 
 ##### Artikel 17
 
@@ -230,11 +230,11 @@ Indien Onze Minister ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 18
 
-1. Onze Minister beëdigt de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=1&artikel=2&z=2008-01-01&g=2008-01-01), tot buitengewoon opsporingsambtenaar.
+1. Onze Minister beëdigt de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=1&artikel=2&z=2010-01-30&g=2010-01-30), tot buitengewoon opsporingsambtenaar.
 
 2. De werkgever dient een aanvraag tot beëdiging van een buitengewoon opsporingsambtenaar in bij Onze Minister en overlegt daarbij een bewijs van de titel van opsporingsbevoegdheid en een bewijs van bekwaamheid van de te beëdigen persoon.
 
-3. De aanvraag, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=2&artikel=9&z=2008-01-01&g=2008-01-01), wordt tevens geacht te zijn een aanvraag tot beëdiging.
+3. De aanvraag, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=2&artikel=9&z=2010-01-30&g=2010-01-30), wordt tevens geacht te zijn een aanvraag tot beëdiging.
 
 4. De beëdiging vindt plaats voor de opsporing van de feiten waartoe een persoon ingevolge de titel van opsporingsbevoegdheid bevoegd is, op het grondgebied waarvoor de opsporingsbevoegdheid geldt.
 
@@ -250,21 +250,21 @@ Indien Onze Minister ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 20
 
-1. Onze Minister neemt van de te beëdigen persoon de eed, verklaring of belofte van zuivering en een ambtseed of ambtsbelofte, vastgelegd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&bijlage=A&z=2008-01-01&g=2008-01-01), af. Het proces-verbaal van de aflegging van de eden, verklaring en beloften wordt aan de akte van beëdiging toegevoegd en maakt vanaf dat moment daarvan deel uit.
+1. Onze Minister neemt van de te beëdigen persoon de eed, verklaring of belofte van zuivering en een ambtseed of ambtsbelofte, vastgelegd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&bijlage=A&z=2010-01-30&g=2010-01-30), af. Het proces-verbaal van de aflegging van de eden, verklaring en beloften wordt aan de akte van beëdiging toegevoegd en maakt vanaf dat moment daarvan deel uit.
 
-2. Bij de bekendmaking of de beëdiging ontvangt de buitengewoon opsporingsambtenaar, de akte van beëdiging, het legitimatiebewijs, de tekst van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=5&z=2008-01-01&g=2008-01-01) en, voorzover op hem van toepassing, een afschrift van de [Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0006589).
+2. Bij de bekendmaking of de beëdiging ontvangt de buitengewoon opsporingsambtenaar, de akte van beëdiging, het legitimatiebewijs, de tekst van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=5&z=2010-01-30&g=2010-01-30) en, voorzover op hem van toepassing, een afschrift van de [Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0006589).
 
 3. Onze Minister zendt een afschrift van de akte van beëdiging aan de toezichthouder en de direct toezichthouder.
 
 ##### Artikel 21
 
-1. Onze Minister kan van de bevoegdheid tot het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=4&artikel=20&z=2008-01-01&g=2008-01-01), mandaat verlenen aan de direct toezichthouder dan wel, indien de desbetreffende persoon behoort tot een dienst ressorterend onder een van Onze Ministers die het mede aangaat, aan het hoofd van die dienst. Onze Minister zendt in dat geval de door hem opgemaakte akte van beëdiging van te voren toe aan de direct toezichthouder of het hoofd van dienst.
+1. Onze Minister kan van de bevoegdheid tot het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=4&artikel=20&z=2010-01-30&g=2010-01-30), mandaat verlenen aan de direct toezichthouder dan wel, indien de desbetreffende persoon behoort tot een dienst ressorterend onder een van Onze Ministers die het mede aangaat, aan het hoofd van die dienst. Onze Minister zendt in dat geval de door hem opgemaakte akte van beëdiging van te voren toe aan de direct toezichthouder of het hoofd van dienst.
 
-2. De direct toezichthouder dan wel het hoofd van dienst in wiens handen de aflegging van de eden, verklaringen en beloften heeft plaatsgevonden, maakt van de aflegging proces-verbaal op en voegt dat toe aan de akte van beëdiging. Bij de beëdiging ontvangt de buitengewoon opsporingsambtenaar de in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=4&artikel=20&z=2008-01-01&g=2008-01-01), bedoelde stukken en wordt daarvan mededeling gedaan aan Onze Minister.
+2. De direct toezichthouder dan wel het hoofd van dienst in wiens handen de aflegging van de eden, verklaringen en beloften heeft plaatsgevonden, maakt van de aflegging proces-verbaal op en voegt dat toe aan de akte van beëdiging. Bij de beëdiging ontvangt de buitengewoon opsporingsambtenaar de in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=4&artikel=20&z=2010-01-30&g=2010-01-30), bedoelde stukken en wordt daarvan mededeling gedaan aan Onze Minister.
 
 ##### Artikel 22
 
-1. Bij wijziging van de titel van opsporingsbevoegdheid, de opsomming van de feiten tot welke opsporing de buitengewoon opsporingsambtenaar ingevolge zijn titel bevoegd is, de standplaats dan wel het grondgebied waarvoor de opsporing geldt, behoeven de eden, verklaringen en beloften niet opnieuw te worden afgelegd indien de akte van beëdiging overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=4&artikel=23&z=2008-01-01&g=2008-01-01) is aangepast.
+1. Bij wijziging van de titel van opsporingsbevoegdheid, de opsomming van de feiten tot welke opsporing de buitengewoon opsporingsambtenaar ingevolge zijn titel bevoegd is, de standplaats dan wel het grondgebied waarvoor de opsporing geldt, behoeven de eden, verklaringen en beloften niet opnieuw te worden afgelegd indien de akte van beëdiging overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=4&artikel=23&z=2010-01-30&g=2010-01-30) is aangepast.
 
 2. In de gevallen, bedoeld in het eerste lid, worden de afgelegde eden, verklaringen of beloften geacht te zijn afgelegd voor de opsporing van de feiten op het grondgebied genoemd in de gewijzigde akte van beëdiging.
 
@@ -326,7 +326,7 @@ De buitengewoon opsporingsambtenaar volgt bij de opsporing de door of namens het
 
 ##### Artikel 31
 
-1. De buitengewoon opsporingsambtenaar zorgt ervoor dat hij blijft beschikken over de bekwaamheid en de betrouwbaarheid voor de uitoefening van opsporingsbevoegdheden. Hij werkt mee aan de regelmatige toetsing van de bekwaamheid.
+1. De buitengewoon opsporingsambtenaar zorgt ervoor dat hij blijft beschikken over de bekwaamheid en de betrouwbaarheid voor de uitoefening van opsporingsbevoegdheden. Hij werkt mee aan de regelmatige toetsing van de bekwaamheid en volgt in door Onze Minister te bepalen gevallen een bijscholingsprogramma waarmee deze heeft ingestemd.
 
 2. De buitengewoon opsporingsambtenaar woont de door de direct toezichthouder aangewezen bijeenkomsten bij, waarin onderricht wordt gegeven in zaken welke verband houden met de uitoefening van opsporingsbevoegdheden.
 
@@ -340,9 +340,9 @@ De buitengewoon opsporingsambtenaar volgt bij de opsporing de door of namens het
 
 1. Onze Minister is belast met het toezicht op de buitengewoon opsporingsambtenaar voor wat betreft diens titel van opsporingsbevoegdheid en diens bekwaamheid en betrouwbaarheid voor de uitoefening van opsporingsbevoegdheden.
 
-2. Iedere vijf jaar dan wel op het daartoe op de akte van beëdiging vermelde tijdstip, stelt Onze Minister vast of de titel van opsporingsbevoegdheid en de bekwaamheid en de betrouwbaarheid voor de uitoefening van opsporingsbevoegdheden nog aanwezig zijn, alsmede of het dienstverband of de functie van de buitengewoon opsporingsambtenaar ongewijzigd is gebleven en het opsporen van strafbare feiten nog steeds onderdeel uitmaakt van diens functie.
+2. Ten minste iedere vijf jaar dan wel ten minste op het daartoe op de akte van beëdiging vermelde tijdstip, stelt Onze Minister vast of de titel van opsporingsbevoegdheid en de bekwaamheid en de betrouwbaarheid voor de uitoefening van opsporingsbevoegdheden nog aanwezig zijn, alsmede of het dienstverband of de functie van de buitengewoon opsporingsambtenaar ongewijzigd is gebleven en het opsporen van strafbare feiten nog steeds onderdeel uitmaakt van diens functie. Onze Minister kan daartoe inlichtingen vragen aan het College van procureurs-generaal en andere betrokkenen.
 
-3. Onze Minister kan daartoe inlichtingen vragen aan het College van procureurs-generaal en andere betrokkenen.
+3. Onze Minister bepaalt of het nog aanwezig zijn van de bekwaamheid blijkt uit het met goed gevolg hebben afgelegd van het in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=3&artikel=16&z=2010-01-30&g=2010-01-30), bedoelde examen of uit het met goed gevolg hebben doorlopen van het in artikel 16, tweede lid, of [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=5&artikel=31&z=2010-01-30&g=2010-01-30), bedoelde programma. Artikel 16, derde lid, is van overeenkomstige toepassing.
 
 ##### Artikel 33
 
@@ -360,7 +360,7 @@ De buitengewoon opsporingsambtenaar volgt bij de opsporing de door of namens het
 
 1. De opsporingsbevoegdheid vervalt met ingang van de dag na de datum waarop
 
-- a. de titel van opsporingsbevoegdheid vervalt of wijzigt, tenzij de akte van beëdiging is gewijzigd als bedoeld in [artikel 23, tweede lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=4&artikel=23&z=2008-01-01&g=2008-01-01);
+- a. de titel van opsporingsbevoegdheid vervalt of wijzigt, tenzij de akte van beëdiging is gewijzigd als bedoeld in [artikel 23, tweede lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=4&artikel=23&z=2010-01-30&g=2010-01-30);
 
 - b. is vastgesteld dat de bekwaamheid of betrouwbaarheid voor de uitvoering van opsporingsbevoegdheden niet meer aanwezig is;
 
@@ -384,17 +384,21 @@ De buitengewoon opsporingsambtenaar volgt bij de opsporing de door of namens het
 
 ##### Artikel 36
 
-1. De aanwijzing van de toezichthouder en de direct toezichthouder vindt plaats ter gelegenheid van de verlening van een titel van opsporingsbevoegdheid of de beëdiging.
+1. Bij de verlening van een titel van opsporingsbevoegdheid of bij de beëdiging wijst Onze Minister een toezichthouder en een direct toezichthouder aan.
 
-2. Indien het grondgebied, bedoeld in [artikel 5, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2008-01-01&g=2008-01-01), is gelegen binnen de grenzen van een politieregio, is de hoofdofficier van justitie, bedoeld in [artikel 1, tweede lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=1), de toezichthouder van de buitengewoon opsporingsambtenaar. De korpschef, bedoeld in [artikel 24 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=24), is in dat geval de direct toezichthouder van de buitengewoon opsporingsambtenaar.
+2. Als toezichthouder wordt een hoofdofficier van justitie aangewezen.
 
-3. Indien het grondgebied waarvoor de opsporingsbevoegdheid geldt, is gelegen in meer dan één politieregio, wijst Onze Minister, na advies te hebben ingewonnen van het College van procureurs-generaal, een hoofdofficier van justitie als toezichthouder en een korpschef als direct toezichthouder aan.
+3. Als direct toezichthouder wordt aangewezen:
+
+- a. indien het grondgebied, bedoeld in [artikel 5, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2010-01-30&g=2010-01-30), is gelegen binnen de grenzen van een politieregio: de korpschef, bedoeld in [artikel 24 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=24);
+
+- b. indien het grondgebied, bedoeld in [artikel 5, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=1&artikel=5&z=2010-01-30&g=2010-01-30), is gelegen in meer dan één politieregio: een korpschef, of het hoofd van een onder de centrale overheid ressorterende landelijke dienst;
+
+- c. indien de buitengewoon opsporingsambtenaar werkzaam is bij de krijgsmacht: de commandant van de Koninklijke marechaussee, bedoeld in [artikel 6, derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=6).
 
 ##### Artikel 37
 
-1. Indien de buitengewoon opsporingsambtenaar bevoegd is in het gehele land op te sporen dan wel zijn titel van opsporingsbevoegdheid ontleent aan een beschikking als bedoeld in [de artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=2&artikel=11&z=2008-01-01&g=2008-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=2&paragraaf=3&artikel=13&z=2008-01-01&g=2008-01-01), wijst Onze Minister een lid van het openbaar ministerie als toezichthouder aan. Onze Minister kan de korpschef van een regionaal politiekorps of de korpschef van het Korps landelijke politiediensten als direct toezichthouder aanwijzen.
-
-2. Indien de buitengewoon opsporingsambtenaar werkzaam is bij de krijgsmacht dan wel bij de Belastingdienst, wordt de commandant van de Koninklijke marechaussee, bedoeld in [artikel 6, derde lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=6) respectievelijk het bestuur van 's Rijks belastingen, bedoeld in [artikel 80 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80) en artikel 203 van de Wet inzake de douane, als direct toezichthouder aangewezen.
+Vervallen
 
 ##### Artikel 38
 
@@ -402,9 +406,9 @@ De toezichthouder ziet er op toe dat de buitengewoon opsporingsambtenaar zijn ta
 
 ##### Artikel 39
 
-1. De direct toezichthouder ziet toe dat de buitengewoon opsporingsambtenaar het gestelde in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=5&z=2008-01-01&g=2008-01-01) naleeft. Hij oefent tevens het dagelijks toezicht uit op de juiste uitoefening van bevoegdheden en een goede samenwerking met de politie.
+1. De direct toezichthouder ziet toe dat de buitengewoon opsporingsambtenaar het gestelde in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=5&z=2010-01-30&g=2010-01-30) naleeft. Hij oefent tevens het dagelijks toezicht uit op de juiste uitoefening van bevoegdheden en een goede samenwerking met de politie.
 
-2. De direct toezichthouder ziet toe dat de werkgever zorg draagt voor het onderricht aan de buitengewoon opsporingsambtenaar, tenzij in de voorschriften, bedoeld in [artikel 16, tweede lid](onbekend), een ander persoon daarvoor is aangewezen.
+2. De direct toezichthouder ziet toe dat de werkgever zorg draagt voor het onderricht aan de buitengewoon opsporingsambtenaar, tenzij in de voorschriften, bedoeld in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&hoofdstuk=3&artikel=16&z=2010-01-30&g=2010-01-30), een ander persoon daarvoor is aangewezen.
 
 3. De direct toezichthouder verstrekt de toezichthouder de gewenste inlichtingen en doet ook ongevraagd mededeling van hetgeen voor het uitoefenen van het toezicht van belang kan zijn.
 
@@ -422,7 +426,9 @@ De toezichthouder ziet er op toe dat de buitengewoon opsporingsambtenaar zijn ta
 
 1. De werkgever verschaft de toezichthouder en de direct toezichthouder alle door hen gewenste informatie met betrekking tot de in zijn dienst werkzame buitengewoon opsporingsambtenaren.
 
-2. Onze Minister kan bepalen dat de werkgever, aan wie hij ingevolge [artikel 142, eerste lid, onder **b**, en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) een categoriale beschikking heeft verleend, een jaarverslag dan wel op andere door hem te bepalen wijze informatie aan hem doet toekomen.
+2. Onze Minister kan bepalen dat de werkgever, aan wie hij ingevolge [artikel 142, eerste lid, onder b, en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) een categoriale beschikking heeft verleend, een jaarverslag dan wel op andere door hem te bepalen wijze informatie aan hem doet toekomen.
+
+3. Onze Minister kan eisen stellen aan het door de werkgever of een categorie van werkgevers te gebruiken systeem voor het registreren en verstrekken van de in het eerste lid bedoelde informatie en van operationele informatie die wordt verkregen in het kader van de taakuitvoering van de buitengewoon opsporingsambtenaar.
 
 ##### Artikel 42
 
