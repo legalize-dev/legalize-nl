@@ -4,7 +4,7 @@ identifier: "BWBR0027459"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-04-01"
-last_updated: "2010-01-01"
+last_updated: "2010-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027459"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Wijzigt de Regeling behandeling bezwaarschriften OCW.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Regeling vaste vergoeding voorzitters Commissie voor bezwaarschriften OCW.
 
 ##### Artikel III
 
