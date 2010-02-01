@@ -4,7 +4,7 @@ identifier: "BWBV0001032"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-02-01"
-last_updated: "1983-09-15"
+last_updated: "2010-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001032"
 soort: "verdrag"
@@ -107,7 +107,7 @@ Uitlevering wordt niet toegestaan wanneer volgens het recht van de aangezochte S
 
 ##### Artikel 7. Doodstraf en bijzondere omstandigheden
 
-1. Wanneer op het feit waarvoor uitlevering wordt verzocht naar het recht van de verzoekende Staat de doodstraf is gesteld en het recht van de aangezochte Staat voor dat feit niet een zodanige straf toestaat, kan uitlevering worden geweigerd tenzij de verzoekende Staat naar het oordeel van de aangezochte Staat voldoende waarborgen biedt dat de doodstraf niet zal worden opgelegd of, indien zij wordt opgelegd, niet ten uitvoer zal worden gelegd.
+1. Wanneer op het feit waarvoor uitlevering wordt verzocht krachtens het recht van de verzoekende Staat doch niet krachtens het recht van de aangezochte Staat de doodstraf is gesteld, kan de aangezochte Staat aan de uitlevering de voorwaarde verbinden dat de doodstraf niet aan de opgeëiste persoon wordt opgelegd of, indien de verzoekende Staat om procedurele redenen niet aan deze voorwaarde kan voldoen, de voorwaarde dat de doodstraf, indien deze wordt opgelegd, niet ten uitvoer zal worden gelegd. Indien de verzoekende Staat instemt met de uitlevering op de in dit artikel genoemde voorwaarden, moet hij die voorwaarden naleven. Indien de verzoekende Staat de voorwaarden niet aanvaardt, kan het uitleveringsverzoek worden geweigerd.
 
 2. De uitvoerende autoriteit van de aangezochte Staat kan in bijzondere situaties, met name gezien de leeftijd of gezondheid van de opgeëiste persoon, of andere persoonlijke omstandigheden, uitlevering weigeren, indien zij redenen heeft om van oordeel te zijn dat uitlevering onverenigbaar is met humanitaire overwegingen.
 
@@ -121,7 +121,7 @@ Uitlevering wordt niet toegestaan wanneer volgens het recht van de aangezochte S
 
 ##### Artikel 9. Procedure met betrekking tot uitlevering en vereiste stukken
 
-1. Het verzoek tot uitlevering wordt langs diplomatieke weg gedaan.
+1. Het verzoek tot uitlevering en stukken ter ondersteuning daarvan worden langs diplomatieke weg toegezonden, daaronder begrepen toezending voorzien in het zevende lid van dit artikel.
 
 2. Bij het verzoek tot uitlevering dienen te worden gevoegd:
 
@@ -153,11 +153,9 @@ Indien de desbetreffende persoon werd veroordeeld, dienen bij het verzoek tot ui
 
 5. De stukken die overeenkomstig dit artikel en artikel 10 ter ondersteuning van het verzoek tot uitlevering moeten worden overgelegd, dienen in de taal van de aangezochte Staat te worden vertaald.
 
-6. De stukken die overeenkomstig dit artikel bij het verzoek tot uitlevering dienen te worden gevoegd, worden als bewijs toegelaten wanneer zij:
+6. Stukken die voorzien zijn van het waarmerk of het zegel van het ministerie van Justitie of het ministerie van Buitenlandse Zaken van de verzoekende Staat zijn zonder nadere certificering, waarmerking of andere vorm van legalisering toelaatbaar in uitleveringsprocedures in de aangezochte Staat. Onder ministerie van Justitie wordt voor de Verenigde Staten van Amerika verstaan het Department of Justice van de Verenigde Staten en voor het Koninkrijk der Nederlanden het ministerie van Justitie van Nederland, of, indien de territoriale toepassing van dit Verdrag overeenkomstig artikel 20, eerste lid, onderdeel b, van de VS-EU-Uitleveringsovereenkomst wordt uitgebreid, als omschreven in de ingevolge daarvan uitgewisselde diplomatieke nota's.
 
-- a. in het geval van een verzoek dat van de Verenigde Staten uitgaat, zijn ondertekend door een rechter of andere bevoegde functionaris;
-
-- b. in het geval van een verzoek dat van het Koninkrijk der Nederlanden uitgaat, zijn ondertekend door een rechter of andere rechterlijke autoriteit, en zijn gewaarmerkt door het hoofd van de diplomatieke zending of van een consulaire post van de Verenigde Staten in het Koninkrijk der Nederlanden.
+7. Indien de persoon om wiens uitlevering wordt verzocht, door de aangezochte Staat voorlopig is aangehouden, kan de verzoekende Staat voldoen aan de verplichting om zijn uitleveringsverzoek en de stukken ter ondersteuning langs diplomatieke weg overeenkomstig het eerste lid van dit artikel toe te zenden door in de verzoekende Staat het verzoek en de stukken over te leggen aan de ambassade van de aangezochte Staat in de verzoekende Staat. In dat geval wordt met het oog op de termijn die uit hoofde van artikel 11, van dit Verdrag in acht moet worden genomen om de persoon in hechtenis te kunnen houden, de datum van ontvangst van het verzoek door de ambassade beschouwd als de datum van ontvangst ervan door de aangezochte Staat.
 
 ##### Artikel 10. Aanvullend bewijsmateriaal
 
@@ -165,9 +163,11 @@ Indien de desbetreffende persoon werd veroordeeld, dienen bij het verzoek tot ui
 
 2. Indien de opgeëiste persoon zich in detentie bevindt en het aanvullend bewijsmateriaal of de aanvullende gegevens, die zijn overgelegd, niet toereikend zijn of indien zodanig bewijsmateriaal of zodanige gegevens niet binnen de door de aangezochte Staat aangegeven termijn zijn ontvangen, kan hij uit het voorarrest worden ontslagen. Een dergelijk ontslag verhindert evenwel noch de verdere behandeling van het verzoek op basis van alsnog overgelegde stukken, noch, indien reeds een onherroepelijke beslissing is genomen, de indiening van een nieuw verzoek voor hetzelfde feit. In dat geval is het voldoende indien in het nieuwe verzoek wordt verwezen naar de overgelegde stukken ter ondersteuning van het eerdere verzoek, mits die stukken voor de uitleveringsprocedure voorhanden zijn.
 
+3. Dergelijk aanvullend bewijs of aanvullende informatie kan rechtstreeks worden gevraagd en uitgewisseld tussen het ministerie van Justitie van Nederland en het Department of Justice van de Verenigde Staten.
+
 ##### Artikel 11. Voorlopige aanhouding
 
-1. In geval van spoed kan elke Verdragsluitende Partij de voorlopige aanhouding verzoeken van ieder die wordt vervolgd of is veroordeeld. Het verzoek tot voorlopige aanhouding kan worden gedaan hetzij langs diplomatieke weg, hetzij in rechtstreeks contact tussen het „Department of Justice" van de Verenigde Staten en het Ministerie van Justitie in Nederland of het Ministerie van Justitie in de Nederlandse Antillen, naar gelang het geval.
+1. In geval van spoed kan elke Verdragsluitende Partij de voorlopige aanhouding verzoeken van ieder die wordt vervolgd of is veroordeeld. Het verzoek tot voorlopige aanhouding kan worden gedaan hetzij langs diplomatieke weg, hetzij in rechtstreeks contact tussen het Department of Justice van de Verenigde Staten en het Ministerie van Justitie in Nederland of, indien de territoriale toepassing van dit Verdrag overeenkomstig artikel 20, eerste lid, onderdeel b, van de VS-EU-Uitleveringsovereenkomst wordt uitgebreid, als omschreven in de ingevolge daarvan uitgewisselde diplomatieke nota's.
 
 2. Het verzoek dient te bevatten: een beschrijving van de gezochte persoon, met inbegrip, indien beschikbaar, van zijn nationaliteit; een kort overzicht van de desbetreffende feiten, met inbegrip, indien mogelijk, van het tijdstip waarop en de plaats waar het feit werd gepleegd; een verklaring betreffende het bestaan van een bevel tot aanhouding van of een veroordelend vonnis tegen die persoon, en een verklaring dat een verzoek tot uitlevering van de gezochte persoon zal volgen.
 
@@ -193,9 +193,27 @@ Wanneer een beslissing op een verzoek tot uitlevering is genomen ten aanzien van
 
 - b. de opgeëiste persoon tijdelijk aan de verzoekende Staat overleveren uitsluitend ten behoeve van de instelling van een vervolging. De aldus overgeleverde persoon dient tijdens zijn verblijf in de verzoekende Staat in hechtenis te worden gehouden en dient na afloop van de gerechtelijke behandeling van zijn zaak te worden teruggezonden overeenkomstig in onderling overleg tussen de Verdragsluitende Partijen vast te stellen voorwaarden.
 
-##### Artikel 14. Verzoeken tot uitlevering, gedaan door derde Staten
+##### Artikel 14. Samenloop van verzoeken tot uitlevering of overlevering
 
-Wanneer de uitvoerende autoriteit van de aangezochte Staat een verzoek ontvangt zowel van de andere Verdragsluitende Partij als van één of meer derde Staten tot uitlevering van dezelfde persoon, hetzij voor hetzelfde feit, hetzij voor verschillende feiten, bepaalt zij aan welke Staat zij die persoon zal uitleveren.
+1. Indien de aangezochte Staat van de verzoekende Staat en van een adere Staat of andere Staten een verzoek tot uitlevering van dezelfde persoon ontvangt, hetzij voor hetzelfde feit hetzij voor andere feiten, beslist de uitvoerende autoriteit van de aangezochte Staat of en aan welke Staat betrokkene wordt overgeleverd.
+
+2. Indien het Koninkrijk der Nederlanden voor dezelfde persoon een verzoek tot uitlevering van de Verenigde Staten van Amerika en een verzoek tot overlevering op basis van een Europees aanhoudingsbevel ontvangt, beslist zijn uitvoerende autoriteit of en aan welke Staat betrokkene wordt overgeleverd.
+
+3. Bij zijn beslissing krachtens het eerste en tweede lid van dit artikel houdt de aangezochte Staat rekening met alle relevante factoren waaronder, zij het niet uitsluitend:
+
+- a. of de verzoeken krachtens een verdrag zijn gedaan;
+
+- b. de plaats waar elk van de strafbare feiten is begaan;
+
+- c. de onderscheiden belangen van de verzoekende Staten;
+
+- d. de ernst van de strafbare feiten;
+
+- e. de nationaliteit van het slachtoffer;
+
+- f. de mogelijkheid van latere uitlevering tussen de verzoekende Staten; en
+
+- g. de volgorde waarin de verzoeken van de verzoekende Staten zijn ontvangen.
 
 ##### Artikel 15. Specialiteitsbeginsel
 
@@ -260,5 +278,11 @@ Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het
 1. Elk van beide Verdragsluitende Partijen kan dit Verdrag te allen tijde beëindigen door daarvan aan de andere Partij kennis te geven, en de beëindiging wordt van kracht zes maanden na de datum van ontvangst van die kennisgeving.
 
 2. De beëindiging van dit Verdrag door de Regering van het Koninkrijk der Nederlanden kan worden beperkt tot één van de samenstellende delen van het Koninkrijk.
+
+GEDAAN te 's-Gravenhage op 24 juni 1980 in twee exemplaren, in de Nederlandse en de Engelse taal, zijn beide teksten gelijkelijk authentiek.
+
+##### Artikel 10 bis. Gevoelige informatie in een verzoek
+
+Indien de verzoekende Staat overweegt bijzonder gevoelige informatie over te leggen ter ondersteuning van zijn uitleveringsverzoek, kan hij de aangezochte Staat raadplegen om na te gaan in hoeverre de informatie door de aangezochte Staat kan worden beschermd. Indien de aangezochte Staat de informatie niet overeenkomstig de wensen van de verzoekende Staat kan beschermen, bepaalt de verzoekende Staat of de informatie desondanks wordt overgelegd.
 
 GEDAAN te 's-Gravenhage op 24 juni 1980 in twee exemplaren, in de Nederlandse en de Engelse taal, zijn beide teksten gelijkelijk authentiek.
