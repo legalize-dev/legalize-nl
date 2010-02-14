@@ -4,7 +4,7 @@ identifier: "BWBR0027371"
 country: "nl"
 rank: "pbo"
 publication_date: "2010-02-14"
-last_updated: "2010-01-01"
+last_updated: "2010-02-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027371"
 soort: "pbo"
@@ -87,7 +87,7 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. over de omzet hoger dan € 4.500.000,- is een heffing verschuldigd van 0,01 procent.
 
-4. Indien sprake is van onderaanneming bij een ondernemer als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027371&paragraaf=1&artikel=1&z=2010-02-14&g=2010-01-01), kan de hovenier, die in onderaanneming werk uitvoert, de omzet die hij als onderaannemer heeft gerealiseerd buiten zijn omzet, als genoemd in het eerste tot en met het derde lid, laten.
+4. Indien sprake is van onderaanneming bij een ondernemer als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027371&paragraaf=1&artikel=1&z=2010-02-14&g=2010-02-14), kan de hovenier, die in onderaanneming werk uitvoert, de omzet die hij als onderaannemer heeft gerealiseerd buiten zijn omzet, als genoemd in het eerste tot en met het derde lid, laten.
 
 5. Omzet uit bosbouw kan eveneens buiten de omzet, als genoemd in het eerste tot en met het derde lid, worden gelaten, mits de ondernemer geregistreerd staat bij het Bosschap, en mits de omzet uit bosbouw is gemeld bij het Bosschap.
 
