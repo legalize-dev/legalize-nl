@@ -4,7 +4,7 @@ identifier: "BWBR0026109"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-02-17"
-last_updated: "2009-07-01"
+last_updated: "2010-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026109"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluiten:
 
 ##### Artikel 1
 
-1. De Minister van Economische Zaken, de Minister van Onderwijs, Cultuur en Wetenschap, de Minister en Staatssecretaris van Verkeer en Waterstaat en het NWO Gebiedsbestuur Aard- en Levenswetenschappen namens het Algemeen Bestuur van NWO verlenen, ieder voor zich, aan de directeur NSO mandaat, volmacht en machtiging voor de aangelegenheden bedoeld in de bijlage van dit besluit.
+1. De Minister van Economische Zaken, de Minister van Onderwijs, Cultuur en Wetenschap, de Minister en Staatssecretaris van Verkeer en Waterstaat en het NWO Gebiedsbestuur Aard- en Levenswetenschappen, respectievelijk het NWO Gebiedsbestuur Exacte Wetenschappen namens het Algemeen Bestuur van NWO verlenen, ieder voor zich, aan de directeur NSO mandaat, volmacht en machtiging voor de aangelegenheden bedoeld in de bijlage van dit besluit.
 
 2. De directeur NSO kan voor de in het eerste lid bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
@@ -52,11 +52,11 @@ Besluiten:
 
 ##### Artikel 2
 
-1. De Minister van Economische Zaken verleent aan de algemeen directeur Dienst Uitvoering mandaat en machtiging voor het behandelen van bezwaarschriften tegen besluiten die op grond van dit besluit door de directeur NSO of door onder hem ressorterende functionarissen namens de Minister van Economische Zaken zijn genomen of behandeld, waaronder begrepen het nemen van beslissingen op bezwaarschriften.
+1. De Minister van Economische Zaken verleent aan de algemeen directeur Agentschap NL mandaat en machtiging voor het behandelen van bezwaarschriften tegen besluiten die op grond van dit besluit door de directeur NSO of door onder hem ressorterende functionarissen namens de Minister van Economische Zaken zijn genomen of behandeld, waaronder begrepen het nemen van beslissingen op bezwaarschriften.
 
-2. De Minister van Economische Zaken verleent aan de algemeen directeur Dienst Uitvoering machtiging voor het voeren van verweer in de gevallen waarin beroep is ingesteld tegen een beslissing op bezwaarschrift als bedoeld in het eerste lid.
+2. De Minister van Economische Zaken verleent aan de algemeen directeur Agentschap NL machtiging voor het voeren van verweer in de gevallen waarin beroep is ingesteld tegen een beslissing op bezwaarschrift als bedoeld in het eerste lid.
 
-3. De algemeen directeur Dienst Uitvoering kan voor de in het eerste en tweede lid bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
+3. De algemeen directeur Agentschap NL kan voor de in het eerste en tweede lid bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
 ##### Artikel 3
 
@@ -118,6 +118,28 @@ namens deze:
 
 (functie)
 
+6. Het krachtens ondertekeningsmandaat ondertekenen van stukken namens het NWO Gebiedsbestuur Exacte Wetenschappen geschiedt als volgt:
+
+Overeenkomstig het door het NWO Gebiedsbestuur Exacte Wetenschappen namens het Algemeen Bestuur van NWO genomen besluit,
+
+(handtekening)
+
+(naam functionaris)
+
+(functie)
+
+7. Het krachtens volmacht en machtiging ondertekenen van stukken namens het NWO Gebiedsbestuur Exacte Wetenschappen geschiedt als volgt:
+
+Het NWO Gebiedsbestuur Exacte Wetenschappen namens het Algemeen Bestuur van NWO,
+
+namens deze:
+
+(handtekening)
+
+(naam functionaris)
+
+(functie)
+
 ##### Artikel 4
 
 Het [Besluit van de Minister van Economische Zaken van 25 februari 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016442), kenmerk I/MI/LR 4004881 (Stcrt. 45) wordt ingetrokken.
@@ -136,7 +158,7 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging direct
 
 - a. advisering over programmatische aansturing Grote Technologische Instituten (GTI’s) (Nationaal Lucht- en Ruimtevaartlaboratorium (NLR) en TNO) op het werkterrein van de Minister van Economische Zaken;
 
-- b. uitvoering van de [Subsidieregeling prekwalificatie ESA-programma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0015867) door middel van het nemen van subsidiebeschikkingen;
+- b. uitvoering van [hoofdstuk 10f van de Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10f) door middel van het nemen van subsidiebeschikkingen;
 
 - c. verkenning innovatieprogramma ‘Toepassing Satellietdata’ voor maatschappelijke thema’s;
 
@@ -188,12 +210,12 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging direct
 
 - i. adviserend lid van de Joint Consultative Committee.
 
-- 4. Aangelegenheden waarvoor de directeur NSO ondertekeningsmandaat, volmacht en machtiging verkrijgt op het werkterrein van het Algemeen Bestuur van NWO: uitvoering van het Nationaal Programma Gebruikersondersteuning Ruimteonderzoek door middel van:
+- 4. Aangelegenheden waarvoor de directeur NSO ondertekeningsmandaat, volmacht en machtiging verkrijgt op het werkterrein van het Algemeen Bestuur van NWO: uitvoering van het Nationaal Programma Gebruikersondersteuning Ruimteonderzoek (GOW) en het Principal Investigator Preparatory Programme (PIPP) door middel van:
 
-- a. het namens het NWO Gebiedsbestuur Aard- en Levenswetenschappen ondertekenen van subsidiebeschikkingen;
+- a. het namens het NWO Gebiedsbestuur Aard- en Levenswetenschappen voor GOW, respectievelijk het NWO Gebiedsbestuur Exacte Wetenschappen voor de PIPP ondertekenen van subsidiebeschikkingen;
 
 - b. het monitoren van de gesubsidieerde projecten;
 
-- c. het in het kader van het genoemde nationaal programma voeren van administratie en beheer van de verleende subsidies.
+- c. het in het kader van genoemde programma's voeren van administratie en beheer van de verleende subsidies.
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
