@@ -4,7 +4,7 @@ identifier: "BWBR0007534"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-11-01"
-last_updated: "2002-01-01"
+last_updated: "2010-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007534"
 soort: "AMvB"
@@ -52,15 +52,17 @@ Voor het bepalen van de vergoedingen voor werkzaamheden, wegens tijdverzuim en d
 
 ##### Artikel 2
 
-1. De ouder, die op grond van [artikel 810**a**, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=810a) de rechter verzoekt een deskundige te benoemen, is aan de griffier een eigen bijdrage verschuldigd met betrekking tot de vergoedingen en kosten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007534&artikel=1&z=2002-01-01&g=2002-01-01).
+1. De ouder die op grond van [artikel 810a, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=810a) de rechter verzoekt een deskundige te benoemen, is aan de griffier een eigen bijdrage verschuldigd met betrekking tot de vergoedingen en kosten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007534&artikel=1&z=2010-02-17&g=2010-02-17).
 
-2. De eigen bijdrage bedraagt € 45,38, indien het inkomen van de ouder blijkens de door deze over te leggen verklaring of de bescheiden, bedoeld in [artikel 25, eerste lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=25) niet meer bedraagt dan in artikel 35, derde lid, onderdeel **h**, van die wet is bedoeld.
+2. De eigen bijdrage bedraagt € 45,38, indien het inkomen van de ouder blijkens het door deze over te leggen afschrift van een bewijs van toevoeging, bedoeld in [artikel 29 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=29), niet meer bedraagt dan in [artikel 2, eerste of tweede lid, telkens onderdeel d, van het Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=2) is bedoeld.
 
-3. De eigen bijdrage bedraagt € 181,51, indien het inkomen van de ouder blijkens de door deze over te leggen verklaring of de bescheiden, bedoeld in [artikel 25, eerste lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=25) meer bedraagt dan in artikel 35, derde lid, onderdeel **h**, en niet meer bedraagt dan in artikel 35, derde lid, onderdeel **l**, van die wet is bedoeld.
+3. De eigen bijdrage bedraagt € 181,51, indien het inkomen van de ouder blijkens het door deze over te leggen afschrift van een bewijs van toevoeging, bedoeld in [artikel 29 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=29), niet meer bedraagt dan in [artikel 2, eerste of tweede lid, telkens onderdeel e, van het Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=2) is bedoeld.
 
-4. De eigen bijdrage bedraagt € 453,78, indien geen verklaring of de bescheiden, bedoeld in [artikel 25, eerste lid, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=25) worden overgelegd, of indien uit deze verklaring of bescheiden blijkt dat het inkomen van de ouder meer bedraagt dan in artikel 35, derde lid, onderdeel **l**, van die wet is bedoeld.
+4. De eigen bijdrage bedraagt € 453,78, indien geen afschrift van het bewijs van toevoeging als bedoeld in [artikel 29 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=29) wordt overgelegd.
 
-5. [Artikel 22 van de Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852&artikel=22) is van overeenkomstige toepassing.
+5. In plaats van een afschrift van het bewijs van toevoeging als bedoeld in [artikel 29 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=29) kan een verklaring van de raad voor rechtsbijstand als bedoeld in [artikel 1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1) worden overgelegd waaruit het inkomen van de ouder blijkt.
+
+6. [Artikel 22 van de Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852&artikel=22) is van overeenkomstige toepassing.
 
 ##### Artikel 3
 
