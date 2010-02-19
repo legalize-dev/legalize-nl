@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-02-09"
+last_updated: "2010-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -72,11 +72,11 @@ Besluit:
 | 2.4 | [Subsidieregeling innoveren (innovatieprestatiecontracten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.3) |   | 11-01 t/m 31-12 | 1.000.000 |
 | 2.4a | [Subsidieregeling innoveren (innovatieprestatiecontracten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) | [4.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.9b) |   | Datum inwerkingtreding [artikel 4.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.9b) t/m 31-12 | 700.000 |
 | 2.5 | [Subsidieregeling innoveren (innovatieprestatiecontracten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=4) | [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=4.10) |   | 11-01 t/m 31-12 | 18.300.000 |
-| 2.6 | [Subsidieregeling innoveren (innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.2) | Aantal beschikbare grote vouchers |   | … stuks |
-| 2.7 | [Subsidieregeling innoveren (innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5) | [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.3) | Aantal beschikbare kleine vouchers |   | … stuks |
+| 2.6 | [Subsidieregeling innoveren (innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.2) | Aantal beschikbare grote vouchers | 23-2 t/m 31-12 | 3143 stuks |
+| 2.7 | [Subsidieregeling innoveren (innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5) | [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.3) | Aantal beschikbare kleine vouchers | 23-2 t/m 31-12 | 3142 stuks |
 | 2.8 | [Subsidieregeling innoveren (innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5) | [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.7) |   |   |   |
-| 2.9 | [Subsidieregeling innoveren (Pilot private innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5a) | [5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.2) | Aantal beschikbare grote vouchers |   | … stuks |
-| 2.10 | [Subsidieregeling innoveren (Pilot private innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5a) | [5a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.3) | Aantal beschikbare kleine vouchers |   | … stuks |
+| 2.9 | [Subsidieregeling innoveren (private innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5a) | [5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.2) | Aantal beschikbare grote vouchers | 23-2 t/m 31-12 | 1000 stuks |
+| 2.10 | [Subsidieregeling innoveren (private innovatievouchers)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=5a) | [5a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.3) | Aantal beschikbare kleine vouchers | 23-2 t/m 31-12 | 1000 stuks |
 | 2.11 | [Subsidieregeling innoveren (innovatie voor maatschappelijke veiligheid)](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&hoofdstuk=6) | [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=6.2) |   |   |   |
 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) |
 | 3.1 | [Subsidieregeling sterktes in innovatie (Internationaal innoveren)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=2) | [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=2.2) | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten |   |   |
