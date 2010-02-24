@@ -4,7 +4,7 @@ identifier: "BWBR0020051"
 country: "nl"
 rank: "wet"
 publication_date: "2010-02-24"
-last_updated: "2007-01-01"
+last_updated: "2010-02-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020051"
 soort: "wet"
@@ -61,7 +61,7 @@ Wijzigt de Wet milieubeheer.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet geluidhinder.
 
 ##### Artikel VI
 
@@ -101,7 +101,7 @@ Na inwerkingtreding van deze wet berust:
 
 ##### Artikel VIII
 
-Voor de plaatsing van deze wet in het Staatsblad vervangt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in [artikel I in onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0020051&artikel=I&z=2007-01-01&g=2007-01-01), [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=52), [53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=53), [62, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=62), in onderdeel R, [artikel 87f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=87f), in onderdeel W, [artikel 88, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=88), in onderdeel CC, [artikel 100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=100), in onderdeel OO, [artikel 106g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=106g), in onderdeel SS, [artikel 110h](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=110h), in onderdeel ZZ, [artikel 125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=125) en in [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0020051&artikel=V&z=2007-01-01&g=2007-01-01), [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=62), [artikel 89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=89), [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=98) telkens (...) door een datum die wordt gesteld op de datum van uitgifte van het Staatsblad waarin deze wet zal worden geplaatst.
+Voor de plaatsing van deze wet in het Staatsblad vervangt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in [artikel I in onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0020051&artikel=I&z=2010-02-24&g=2010-02-24), [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=52), [53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=53), [62, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=62), in onderdeel R, [artikel 87f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=87f), in onderdeel W, [artikel 88, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=88), in onderdeel CC, [artikel 100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=100), in onderdeel OO, [artikel 106g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=106g), in onderdeel SS, [artikel 110h](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=110h), in onderdeel ZZ, [artikel 125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=125) en in [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0020051&artikel=V&z=2010-02-24&g=2010-02-24), [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=62), [artikel 89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=89), [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=98) telkens (...) door een datum die wordt gesteld op de datum van uitgifte van het Staatsblad waarin deze wet zal worden geplaatst.
 
 ##### Artikel IX
 
