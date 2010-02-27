@@ -4,7 +4,7 @@ identifier: "BWBR0007137"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2010-01-01"
+last_updated: "2010-02-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007137"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 - c. voor schepen waarvoor de aanvraag niet verplicht is en die behoren tot overheidsdiensten, bij de Stichting Scheepsafvalstoffen Binnenvaart, tegen overlegging van een der bewijsstukken als genoemd onder a of b dan wel een ander bewijsstuk waaruit de herkomst van het schip blijkt.
 
-2. Ieder volgend olie-afgifteboekje kan, na overlegging van het vorige boekje, worden aangevraagd bij de Stichting Scheepsafvalstoffen Binnenvaart dan wel, voorzover het betreft de in het tweede lid, onder a, bedoelde schepen, bij een andere, in het kader van de uitvoering van [artikel 15.05, eerste lid, van het Rijnvaartpolitiereglement 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&artikel=15.05) aangewezen bevoegde autoriteit. Het vorige boekje wordt, nadat het op onuitwisbare wijze als ongeldig is aangemerkt, aan de schipper teruggegeven.
+2. Ieder volgend olie-afgifteboekje kan, na overlegging van het vorige boekje, worden aangevraagd bij de Stichting Scheepsafvalstoffen Binnenvaart dan wel, voorzover het betreft de in het eerste lid, onder a, bedoelde schepen, bij een andere, in het kader van de uitvoering van [artikel 15.05, eerste lid, van het Rijnvaartpolitiereglement 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&artikel=15.05) aangewezen bevoegde autoriteit. Het vorige boekje wordt, nadat het op onuitwisbare wijze als ongeldig is aangemerkt, aan de schipper teruggegeven.
 
 ##### Artikel 2
 
@@ -60,7 +60,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. Voor een olie-afgifteboekje dat geheel of ten dele onleesbaar is dan wel verloren is geraakt of teniet gegaan wordt tegen betaling van het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007137&artikel=2&z=2010-01-01&g=2010-01-01), genoemde tarief een vervangend exemplaar afgegeven.
+1. Voor een olie-afgifteboekje dat geheel of ten dele onleesbaar is dan wel verloren is geraakt of teniet gegaan wordt tegen betaling van het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007137&artikel=2&z=2010-02-27&g=2010-02-27), genoemde tarief een vervangend exemplaar afgegeven.
 
 2. Het vervangend exemplaar treedt in plaats van het eerder afgegeven olie-afgifteboekje en wordt niet eerder afgegeven dan nadat het geheel of ten dele onleesbaar geworden exemplaar, waarvoor het wordt afgegeven is ingeleverd.
 
