@@ -4,7 +4,7 @@ identifier: "BWBR0019219"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-04-29"
-last_updated: "2006-01-01"
+last_updated: "2010-02-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019219"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ In deze regeling wordt verstaan onder:
 
 - b. Ministeries: ministeries, inclusief dienstonderdelen en diensten met een baten-lastenstelsel alsmede instellingen en lichamen zonder eigen rechtspersoonlijkheid die hiërarchisch ondergeschikt zijn aan de minister;
 
-- c. RVD: Directoraat-Generaal Rijksvoorlichtingsdienst, Dienst Publiek en Communicatie (DPC) van het Ministerie van Algemene Zaken;
+- c. DPC: Dienst Publiek en Communicatie van het Ministerie van Algemene Zaken;
 
-- d. Postbus 51 Informatiedienst: dienst behorende tot de RVD (DPC) die zorg draagt voor de behandeling van publieksvragen aan de rijksoverheid;
+- d. Postbus 51 Informatiedienst: dienst behorende tot de DPC die zorg draagt voor de behandeling van publieksvragen aan de rijksoverheid;
 
 - e. Organisaties gelieerd aan de rijksoverheid: zelfstandige bestuursorganen, rechtspersonen met een wettelijke taak en Staatsdeelnemingen;
 
@@ -58,13 +58,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de verantwoordelijkheid voor de inhoud en aanwending van voorlichtings- en andere communicatie-uitingen bij de onder [artikel 1 sub b, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0019219&artikel=1&z=2006-01-01&g=2006-01-01) bedoelde instellingen.
+Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de verantwoordelijkheid voor de inhoud en aanwending van voorlichtings- en andere communicatie-uitingen bij de onder [artikel 1 sub b, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0019219&artikel=1&z=2010-02-27&g=2010-02-27) bedoelde instellingen.
 
 ##### Artikel 3
 
-1. Ministeries verlenen opdrachten tot shared service publieksvoorlichting door de Postbus 51 Informatiedienst uitsluitend door tussenkomst van de RVD/DPC en met inachtneming van de door de RVD/DPC vastgestelde of gecontracteerde procedures en voorwaarden.
+1. Ministeries verlenen opdrachten tot shared service publieksvoorlichting door de Postbus 51 Informatiedienst uitsluitend door tussenkomst van de DPC en met inachtneming van de door de DPC vastgestelde of gecontracteerde procedures en voorwaarden.
 
-2. De RVD/DPC kan opdrachten tot shared service publieksvoorlichting door de Postbus 51 Informatiedienst overeenkomstig het bepaalde in deze regeling, in behandeling nemen en door de Postbus 51 Informatiedienst laten uitvoeren van:
+2. De DPC kan opdrachten tot shared service publieksvoorlichting door de Postbus 51 Informatiedienst overeenkomstig het bepaalde in deze regeling, in behandeling nemen en door de Postbus 51 Informatiedienst laten uitvoeren van:
 
 - a. organisaties gelieerd aan de rijksoverheid;
 
@@ -72,10 +72,10 @@ Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de ve
 
 ##### Artikel 4
 
-De Postbus 51 Informatiedienst neemt bij het verrichten van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019219&artikel=3&z=2006-01-01&g=2006-01-01) genoemde marktactiviteiten de bepalingen van [hoofdstuk 3 van de Aanwijzingen voor het verrichten van marktactiviteiten door de rijksdienst](onbekend) in acht.
+De Postbus 51 Informatiedienst neemt bij het verrichten van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019219&artikel=3&z=2010-02-27&g=2010-02-27) genoemde marktactiviteiten de bepalingen van [hoofdstuk 3 van de Aanwijzingen voor het verrichten van marktactiviteiten door de rijksdienst](onbekend) in acht.
 
 ##### Artikel 5
 
-1. Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 3 lid 2 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0019219&artikel=3&z=2006-01-01&g=2006-01-01) dat in werking treedt op 1 januari 2006.
+1. Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 3 lid 2 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0019219&artikel=3&z=2010-02-27&g=2010-02-27) dat in werking treedt op 1 januari 2006.
 
 2. Deze regeling wordt aangehaald als: Regeling publieksvoorlichting voor derden.
