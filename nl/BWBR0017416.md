@@ -4,7 +4,7 @@ identifier: "BWBR0017416"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-02-27"
-last_updated: "2009-04-29"
+last_updated: "2010-02-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017416"
 soort: "ministeriele-regeling"
@@ -47,21 +47,21 @@ In deze regeling wordt verstaan onder:
 
 - b. **ministeries**: ministeries, inclusief dienstonderdelen en diensten met een baten-lastenstelsel alsmede instellingen en lichamen zonder eigen rechtspersoonlijkheid die hiërarchisch ondergeschikt zijn aan de minister.
 
-- c. **RVD**: Directoraat-Generaal Rijksvoorlichtingsdienst, Directie Publiek en Communicatie, van het Ministerie van Algemene Zaken.
+- c. **DPC**: Dienst Publiek en Communicatie van het Ministerie van Algemene Zaken.
 
-- d. o**rganisaties gelieerd aan de Rijksoverheid**: zelfstandige bestuursorganen, rechtspersonen met een wettelijke taak en Staatsdeelnemingen.
+- d. **organisaties gelieerd aan de Rijksoverheid**: zelfstandige bestuursorganen, rechtspersonen met een wettelijke taak en Staatsdeelnemingen.
 
 - e. **mede-overheden**: gemeenten, provincies, gemeenschappelijke regelingen en waterschappen.
 
 ##### Artikel 2
 
-Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de verantwoordelijkheid voor de inhoud en aanwending van voorlichtings- en andere communicatie-uitingen bij de onder [artikel 1 sub b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0017416&artikel=1&z=2006-01-01&g=2009-04-29) bedoelde instellingen.
+Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de verantwoordelijkheid voor de inhoud en aanwending van voorlichtings- en andere communicatie-uitingen bij de onder [artikel 1 sub b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0017416&artikel=1&z=2010-02-27&g=2010-02-27) bedoelde instellingen.
 
 ##### Artikel 3
 
-1. Ministeries verlenen opdrachten tot media-inkoop uitsluitend door tussenkomst van de RVD en met inachtneming van de door de RVD vastgestelde of gecontracteerde procedures en voorwaarden.
+1. Ministeries verlenen opdrachten tot media-inkoop uitsluitend door tussenkomst van de DPC en met inachtneming van de door de DPC vastgestelde of gecontracteerde procedures en voorwaarden.
 
-2. De RVD kan opdrachten tot media-inkoop overeenkomstig het bepaalde in deze regeling, in behandeling nemen van:
+2. De DPC kan opdrachten tot media-inkoop overeenkomstig het bepaalde in deze regeling, in behandeling nemen van:
 
 - a. organisaties gelieerd aan de Rijksoverheid;
 
@@ -69,13 +69,13 @@ Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de ve
 
 ##### Artikel 4
 
-1. Voor de diensten van de RVD wordt met inachtneming van de uitgangspunten van de Handleiding Overheidstarieven van het ministerie van Financiën jaarlijks een kostendekkende vergoeding vastgesteld. De vergoeding bestaat uit een feepercentage over de netto mediabestedingen.
+1. Voor de diensten van de DPC wordt met inachtneming van de uitgangspunten van de Handleiding Overheidstarieven van het ministerie van Financiën jaarlijks een kostendekkende vergoeding vastgesteld. De vergoeding bestaat uit een feepercentage over de netto mediabestedingen.
 
 2. Ter financiering van de aan de uitvoering van het Actieprogramma Overheidscommunicatie 2002–2006 verbonden kosten geldt tot 1 januari 2007 voor de ministeries een toeslag van 5% over de netto mediabestedingen.
 
 ##### Artikel 5
 
-1. Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 3, tweede lid, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0017416&artikel=3&z=2006-01-01&g=2009-04-29), dat in werking treedt op 1 januari 2006.
+1. Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 3, tweede lid, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0017416&artikel=3&z=2010-02-27&g=2010-02-27), dat in werking treedt op 1 januari 2006.
 
 2. De [regeling van de Minister-President, Minister van Algemene Zaken van 28 oktober 2002 betreffende media-inkoop door departementen en daaronder ressorterende diensten en instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0014152) (Stcrt. 2002, 215) wordt ingetrokken.
 
