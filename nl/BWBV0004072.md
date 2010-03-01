@@ -4,7 +4,7 @@ identifier: "BWBV0004072"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-03-01"
-last_updated: "2006-11-24"
+last_updated: "2010-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004072"
 soort: "verdrag"
@@ -64,7 +64,7 @@ For the purpose of this Agreement, unless otherwise stated, the term:
 
 - b). any Annex or any amendment thereto adopted under Article 90 of the Convention, insofar as such Annex or amendment is at any given time effective for both Parties;
 
-- 5. “Designated airline” means an airline designated and authorized in accordance with [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=4&z=2006-11-24&g=2006-11-24) of this Agreement;
+- 5. “Designated airline” means an airline designated and authorized in accordance with [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=4&z=2010-03-01&g=2010-03-01) of this Agreement;
 
 - 6. “Full cost” means the cost of providing service plus a reasonable charge for administrative overhead;
 
@@ -114,25 +114,25 @@ For the purpose of this Agreement, unless otherwise stated, the term:
 
 - b). the designated airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air transportation by the Party considering the application or applications; and
 
-- c). the Government designating the airline is maintaining and administering the standards set forth in [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=7&z=2006-11-24&g=2006-11-24) (Safety) and [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=8&z=2006-11-24&g=2006-11-24) (Aviation Security).
+- c). the Government designating the airline is maintaining and administering the standards set forth in [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=7&z=2010-03-01&g=2010-03-01) (Safety) and [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=8&z=2010-03-01&g=2010-03-01) (Aviation Security).
 
 3. The right of each Party to designate an airline or airlines shall include designation in accordance with the Principle of Community of Interest as established by the International Civil Aviation Organization (ICAO). On receipt of such designation and application from the designated airline in the form and manner prescribed for operating authorization the Aeronautical authorities shall, without undue delay, grant the appropriate authorization provided the designated airline complies with the provisions of paragraph 2b of the present Article.
 
-Once the designation is received, the responsibility for compliance with [Articles 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=7&z=2006-11-24&g=2006-11-24) (Safety) and [8](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=8&z=2006-11-24&g=2006-11-24) (Aviation Security) of the Agreement remains with the Party issuing the air operator’s certificate to the designated airline.
+Once the designation is received, the responsibility for compliance with [Articles 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=7&z=2010-03-01&g=2010-03-01) (Safety) and [8](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=8&z=2010-03-01&g=2010-03-01) (Aviation Security) of the Agreement remains with the Party issuing the air operator’s certificate to the designated airline.
 
 ##### Article 5. Revocation of Authorization
 
 1. Either Party may revoke, suspend or limit the operating authorizations or technical permissions of an airline designated by the other Party where:
 
-- a). substantial ownership and effective control of that airline are not vested in the other designating Government, the Party’s nationals, or both, or in the case of authorization granted under [Article 4, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=4&z=2006-11-24&g=2006-11-24), where the airline no longer meets the requirements of the Community of Interest Principle as outlined in that Article;
+- a). substantial ownership and effective control of that airline are not vested in the other designating Government, the Party’s nationals, or both, or in the case of authorization granted under [Article 4, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=4&z=2010-03-01&g=2010-03-01), where the airline no longer meets the requirements of the Community of Interest Principle as outlined in that Article;
 
-- b). that airline has failed to comply with the laws and regulations referred to in [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=6&z=2006-11-24&g=2006-11-24) (Application of Laws) of this Agreement; or
+- b). that airline has failed to comply with the laws and regulations referred to in [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=6&z=2010-03-01&g=2010-03-01) (Application of Laws) of this Agreement; or
 
-- c). the other Party is not maintaining and administering the standards as set forth in [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=7&z=2006-11-24&g=2006-11-24) (Safety).
+- c). the other Party is not maintaining and administering the standards as set forth in [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=7&z=2010-03-01&g=2010-03-01) (Safety).
 
 2. Unless immediate action is essential to prevent further non compliance with subparagraphs 1b or 1c of this Article, the rights established by this Article shall be exercised only after consultation with the other Party.
 
-3. This Article does not limit the rights of either Party to withhold, revoke, limit or impose conditions on the operating authorization or technical permission of an airline or airlines of the other Party in accordance with the provisions of [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=8&z=2006-11-24&g=2006-11-24) (Aviation Security).
+3. This Article does not limit the rights of either Party to withhold, revoke, limit or impose conditions on the operating authorization or technical permission of an airline or airlines of the other Party in accordance with the provisions of [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=8&z=2010-03-01&g=2010-03-01) (Aviation Security).
 
 ##### Article 6. Application of Laws
 
@@ -190,7 +190,7 @@ provided that all airlines in such arrangements (1) hold the appropriate authori
 
 3. Each Party shall encourage consultations between the competent charging authorities or bodies in its territory and the airlines using the services and facilities, and shall encourage the competent charging authorities or bodies and the airlines to exchange such information as may be necessary to permit an accurate review of the reasonableness of the charges in accordance with the principles of paragraph 1 and 2 of this Article. Each Party shall encourage the competent charging authorities to provide users with reasonable notice of any proposal for changes in user charges to enable users to express their views before changes are made.
 
-4. Neither Party shall be held, in dispute resolution procedures pursuant to [Article 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=16&z=2006-11-24&g=2006-11-24), to be in breach of a provision of this Article, unless (1) it fails to undertake a review of the charge or practice that is the subject of complaint by the other Party within a reasonable amount of time; or (2) following such a review it fails to take all steps within its power to remedy any charge or practice that is inconsistent with this Article.
+4. Neither Party shall be held, in dispute resolution procedures pursuant to [Article 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=16&z=2010-03-01&g=2010-03-01), to be in breach of a provision of this Article, unless (1) it fails to undertake a review of the charge or practice that is the subject of complaint by the other Party within a reasonable amount of time; or (2) following such a review it fails to take all steps within its power to remedy any charge or practice that is inconsistent with this Article.
 
 ##### Article 11. Computer Reservation System (CRS)
 
@@ -232,7 +232,7 @@ provided that all airlines in such arrangements (1) hold the appropriate authori
 
 - –. behaviour indicating an abuse of dominant position on the route.
 
-6. If the Aeronautical authorities of one Party consider that an operation or operations intended or conducted by a designated carrier of the other Party may constitute unfair competitive behaviour in accordance with the indicators listed in paragraph 5, they may request consultation in accordance with [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=15&z=2006-11-24&g=2006-11-24) (Consultations and amendment) with a view to resolving the problem. Any such request shall be accompanied by notice of the reasons for the request and the consultation shall begin within fifteen (15) days of the request.
+6. If the Aeronautical authorities of one Party consider that an operation or operations intended or conducted by a designated carrier of the other Party may constitute unfair competitive behaviour in accordance with the indicators listed in paragraph 5, they may request consultation in accordance with [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=15&z=2010-03-01&g=2010-03-01) (Consultations and amendment) with a view to resolving the problem. Any such request shall be accompanied by notice of the reasons for the request and the consultation shall begin within fifteen (15) days of the request.
 
 ##### Article 13. Pricing
 
@@ -266,7 +266,7 @@ provided that all airlines in such arrangements (1) hold the appropriate authori
 
 ##### Article 16. Settlement of Disputes
 
-1. Any dispute arising under this Agreement, except those that may arise under [paragraph 3 of Article 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=13&z=2006-11-24&g=2006-11-24) (Pricing), that is not resolved by a first round of formal consultations may be referred by agreement of the Parties for decision to some person or body. If the Parties do not so agree, the dispute shall, at the request of either Party, be submitted to arbitration in accordance with the procedures set forth below.
+1. Any dispute arising under this Agreement, except those that may arise under [paragraph 3 of Article 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=13&z=2010-03-01&g=2010-03-01) (Pricing), that is not resolved by a first round of formal consultations may be referred by agreement of the Parties for decision to some person or body. If the Parties do not so agree, the dispute shall, at the request of either Party, be submitted to arbitration in accordance with the procedures set forth below.
 
 2. Arbitration shall be by a tribunal of three arbitrators to be constituted as follows:
 
@@ -288,7 +288,7 @@ provided that all airlines in such arrangements (1) hold the appropriate authori
 
 ##### Article 17. Multilateral Conventions
 
-If a general multilateral air transport convention comes into force in respect of both Parties, the provisions of such convention shall prevail. Consultations in accordance with [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=15&z=2006-11-24&g=2006-11-24) of this Agreement may be held with a view to determining the extent to which this Agreement is affected by the provisions of the multilateral convention.
+If a general multilateral air transport convention comes into force in respect of both Parties, the provisions of such convention shall prevail. Consultations in accordance with [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=15&z=2010-03-01&g=2010-03-01) of this Agreement may be held with a view to determining the extent to which this Agreement is affected by the provisions of the multilateral convention.
 
 ##### Article 18. Termination
 
