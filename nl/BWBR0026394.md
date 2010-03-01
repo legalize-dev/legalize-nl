@@ -4,7 +4,7 @@ identifier: "BWBR0026394"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-10-10"
-last_updated: "2009-09-15"
+last_updated: "2010-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026394"
 soort: "ministeriele-regeling"
@@ -233,7 +233,7 @@ Voor het onderzoek aan boord en de verdere werkzaamheden nodig voor de afgifte v
 
 - d. GMDSS radio-installatie voor de zeegebieden A3 en A4 f 1679,–.
 
-2. Indien het onderzoek van een radio-installatie aan boord van een in de Nederlandse Antillen thuisbehorend schip geheel of gedeeltelijk buiten de Nederlandse Antillen plaatsvindt, is, onverminderd de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=5&artikel=30&z=2009-09-15&g=2009-09-15), en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=5&artikel=31&z=2009-09-15&g=2009-09-15), een toeslag verschuldigd van 25 procent van het tarief, genoemd in het eerste lid.
+2. Indien het onderzoek van een radio-installatie aan boord van een in de Nederlandse Antillen thuisbehorend schip geheel of gedeeltelijk buiten de Nederlandse Antillen plaatsvindt, is, onverminderd de [artikelen 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=5&artikel=30&z=2010-03-01&g=2010-03-01), en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=5&artikel=31&z=2010-03-01&g=2010-03-01), een toeslag verschuldigd van 25 procent van het tarief, genoemd in het eerste lid.
 
 3. Voor het verstrekken van een certificaat voor de radio-installatie is een tarief verschuldigd van f 490,–.
 
@@ -271,7 +271,7 @@ Voor een verzoek aan een buitenlandse autoriteit tot afgifte van certificaten al
 
 ##### Artikel 24
 
-Indien de werkzaamheden ten behoeve van de afgifte van een document als bedoeld in deze regeling, met uitzondering van de documenten, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=3&artikel=21&z=2009-09-15&g=2009-09-15) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2009-09-15&g=2009-09-15), buiten toedoen van de ambtenaren van de Nederlandse Antillen niet leiden tot de afgifte van dat document, is het volgende tarief verschuldigd:
+Indien de werkzaamheden ten behoeve van de afgifte van een document als bedoeld in deze regeling, met uitzondering van de documenten, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=3&artikel=21&z=2010-03-01&g=2010-03-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-03-01&g=2010-03-01), buiten toedoen van de ambtenaren van de Nederlandse Antillen niet leiden tot de afgifte van dat document, is het volgende tarief verschuldigd:
 
 - a. indien de werkzaamheden niet volledig zijn uitgevoerd f 234,– per uur per ambtenaar;
 
@@ -293,7 +293,7 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Schepenw
 
 |   | REDDINGMIDDELEN | 1 | 1 | 2 | 2 |
 | --- | --- | --- | --- | --- | --- |
-| 1.1 | Ontkoppelingssystemen | f | 11631,– | f | 2836,– |
+| 1.1 | Ontkoppelingssystemen | f | 1631,– | f | 2836,– |
 | 1.1.1 | Hydrostatische ontkoppelingssystemen | f | 1278,– | f | 2331,– |
 | 1.2 | Drinkwater voor noodrantsoenen | f | 1278,– | f | 2331,– |
 | 1.3 | Materialen voor kunststof reddingboten | f | 1278,– | f | 2331,– |
@@ -397,11 +397,11 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Schepenw
 
 ##### Artikel 27
 
-1. Indien het onderzoek, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2009-09-15&g=2009-09-15), niet leidt tot de afgifte van een document, is, inclusief reistijd, een tarief verschuldigd van f 234,– per uur.
+1. Indien het onderzoek, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-03-01&g=2010-03-01), niet leidt tot de afgifte van een document, is, inclusief reistijd, een tarief verschuldigd van f 234,– per uur.
 
-2. Voor hernieuwing van een document als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2009-09-15&g=2009-09-15), is een tarief verschuldigd van f 490,–.
+2. Voor hernieuwing van een document als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-03-01&g=2010-03-01), is een tarief verschuldigd van f 490,–.
 
-3. Bij gelijktijdige aanbieding voor een onderzoek ter goedkeuring van meerdere vrijwel identieke uitvoeringen van uitrustingsstukken en materialen, is voor de afgifte van het eerste document het tarief, genoemd in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2009-09-15&g=2009-09-15) en voor elk van de volgende documenten een tarief verschuldigd van f 490,–.
+3. Bij gelijktijdige aanbieding voor een onderzoek ter goedkeuring van meerdere vrijwel identieke uitvoeringen van uitrustingsstukken en materialen, is voor de afgifte van het eerste document het tarief, genoemd in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-03-01&g=2010-03-01) en voor elk van de volgende documenten een tarief verschuldigd van f 490,–.
 
 ##### Artikel 28
 
@@ -443,7 +443,7 @@ Deze regeling wordt aangehaald als: Regeling Nederlands-Antilliaanse tarieven Sc
 
 ## Bijlage
 
-Bijlage als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=5&artikel=29&z=2009-09-15&g=2009-09-15). De onderzoekstermijn begint op de dag van vertrek vanuit de Nederlandse Antillen en loopt tot aan de dag van terugkomst op de Nederlandse Antillen.
+Bijlage als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=5&artikel=29&z=2010-03-01&g=2010-03-01). De onderzoekstermijn begint op de dag van vertrek vanuit de Nederlandse Antillen en loopt tot aan de dag van terugkomst op de Nederlandse Antillen.
 
 |   | Tonnage of lengte | Aantal dagen |
 | --- | --- | --- |
