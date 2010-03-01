@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2009-05-28"
+last_updated: "2010-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -315,5 +315,7 @@ Bestuurder, houder van het getuigschrift, voldoet tot de achter de code vermelde
 - 101. Tijdens privé-gebruik, en tijdens beroepsmatig gebruik, niet zijnde vervoer van personen of het onder toezicht doen besturen van derden, voor maximaal vier uren per dag
 
 - 102. Met gebruik van een monoculair bioptisch telescoopsysteem
+
+- 104. Alleen motorrijtuigen van de categorie AM op drie of vier wielen.
 
 Deze regeling zal worden geplaatst in de Staatscourant.
