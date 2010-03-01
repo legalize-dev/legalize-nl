@@ -4,7 +4,7 @@ identifier: "BWBR0027014"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-18"
-last_updated: "2010-01-31"
+last_updated: "2010-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027014"
 soort: "ministeriele-regeling"
@@ -138,24 +138,24 @@ Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
 Deze regeling treedt in werking met ingang van 1 januari 2010, met dien verstande dat:
 
-- a. de [artikelen I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=I&z=2010-01-31&g=2010-01-31), en [VII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=VII&z=2010-01-31&g=2010-01-31), voor het eerst toepassing vinden met betrekking tot belastingaanslagen voor inkomstenbelasting ter zake van tijdvakken die aanvangen op of na 1 januari 2010;
+- a. de [artikelen I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=I&z=2010-03-01&g=2010-03-01), en [VII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=VII&z=2010-03-01&g=2010-03-01), voor het eerst toepassing vinden met betrekking tot belastingaanslagen voor inkomstenbelasting ter zake van tijdvakken die aanvangen op of na 1 januari 2010;
 
-- b. [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=I&z=2010-01-31&g=2010-01-31), terug werkt tot en met 1 januari 2009;
+- b. [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=I&z=2010-03-01&g=2010-03-01), terug werkt tot en met 1 januari 2009;
 
-- c. [artikel III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=III&z=2010-01-31&g=2010-01-31), terugwerkt tot en met 1 januari 2008;
+- c. [artikel III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=III&z=2010-03-01&g=2010-03-01), terugwerkt tot en met 1 januari 2008;
 
-- d. [artikel III, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=III&z=2010-01-31&g=2010-01-31), terugwerkt tot en met 1 januari 2009;
+- d. [artikel III, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=III&z=2010-03-01&g=2010-03-01), terugwerkt tot en met 1 januari 2009;
 
-- e. [artikel VII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=VII&z=2010-01-31&g=2010-01-31), voor het eerst toepassing vindt met betrekking tot inkomensgegevens over het kalenderjaar 2010;
+- e. [artikel VII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=VII&z=2010-03-01&g=2010-03-01), voor het eerst toepassing vindt met betrekking tot inkomensgegevens over het kalenderjaar 2010;
 
-- f. [artikel VIII, onderdeel B, onder 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=VIII&z=2010-01-31&g=2010-01-31), terugwerkt tot en met 1 januari 2008;
+- f. [artikel VIII, onderdeel B, onder 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=VIII&z=2010-03-01&g=2010-03-01), terugwerkt tot en met 1 januari 2008;
 
-- g. [artikel XVI, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=XVI&z=2010-01-31&g=2010-01-31), in werking treedt met ingang van 31 januari 2010.
+- g. [artikel XVI, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=XVI&z=2010-03-01&g=2010-03-01), in werking treedt met ingang van 31 januari 2010.
 
-- h. [artikel XVI, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=XVI&z=2010-01-31&g=2010-01-31), in werking treedt met ingang van 1 maart 2010;
+- h. [artikel XVI, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=XVI&z=2010-03-01&g=2010-03-01), in werking treedt met ingang van 1 maart 2010;
 
-- i. [artikel XVII, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=XVII&z=2010-01-31&g=2010-01-31), in werking treedt met ingang van 1 maart 2010;
+- i. [artikel XVII, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=XVII&z=2010-03-01&g=2010-03-01), in werking treedt met ingang van 1 maart 2010;
 
-- j. [artikel XIX, onderdelen F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=XIX&z=2010-01-31&g=2010-01-31) terugwerkt tot en met 1 januari 2008.
+- j. [artikel XIX, onderdelen F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0027014&artikel=XIX&z=2010-03-01&g=2010-03-01) terugwerkt tot en met 1 januari 2008.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
