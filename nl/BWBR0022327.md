@@ -4,7 +4,7 @@ identifier: "BWBR0022327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-02"
-last_updated: "2010-01-01"
+last_updated: "2010-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022327"
 soort: "ministeriele-regeling"
@@ -42,9 +42,11 @@ Gezien de schriftelijke instemming van de algemeen directeur van SenterNovem, d.
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Subsidieregeling 'Digitaliseren met beleid' in werking treedt. De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 ##### Artikel 1
 
-De algemeen directeur van SenterNovem wordt gemandateerd tot:
+De algemeen directeur van AgentschapNL wordt gemandateerd tot:
 
 - a. het nemen van besluiten met betrekking tot de uitvoering van de Subsidieregeling Digitaliseren met beleid.
 
@@ -52,19 +54,19 @@ De algemeen directeur van SenterNovem wordt gemandateerd tot:
 
 ##### Artikel 2
 
-Aan de algemeen directeur van SenterNovem wordt:
+Aan de algemeen directeur van AgentschapNL wordt:
 
-- a. volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2006-03-26&g=2010-01-01);
+- a. volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2010-03-02&g=2010-03-02);
 
-- b. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2006-03-26&g=2010-01-01).
+- b. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2010-03-02&g=2010-03-02).
 
 ##### Artikel 3
 
-De algemeen directeur van SenterNovem kan zijn bevoegdheid bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2006-03-26&g=2010-01-01) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=2&z=2006-03-26&g=2010-01-01), ondermandateren aan een of meer onder hem ressorterende functionarissen.
+De algemeen directeur van AgentschapNL kan zijn bevoegdheid bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2010-03-02&g=2010-03-02) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=2&z=2010-03-02&g=2010-03-02), ondermandateren aan een of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 4
 
-Indien uitvoering wordt gegeven aan [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2006-03-26&g=2010-01-01) luidt de ondertekening:
+Indien uitvoering wordt gegeven aan [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022327&artikel=1&z=2010-03-02&g=2010-03-02) luidt de ondertekening:
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
 
@@ -78,6 +80,6 @@ Dit besluit treedt in werking op dezelfde datum waarop de Subsidieregeling ‘Di
 
 ##### Artikel 6
 
-Dit besluit wordt aangehaald als: Mandaatbesluit SenterNovem uitvoering van de Subsidieregeling Digitaliseren met beleid.
+Dit besluit wordt aangehaald als: Mandaatbesluit AgentschapNL uitvoering van de Subsidieregeling Digitaliseren met beleid.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
