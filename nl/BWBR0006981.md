@@ -4,7 +4,7 @@ identifier: "BWBR0006981"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2006-02-22"
+last_updated: "2010-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006981"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Voor de ambtenaren, bedoeld in [artikel 3, eerste lid, aanhef en onder **a**, en onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=3&z=2006-02-22&g=2006-02-22) indien zij zijn belast met de opsporing van alle strafbare feiten, en tweede lid van de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), gelden de volgende rangen:
+1. Voor de ambtenaren, bedoeld in [artikel 3, eerste lid, aanhef en onder **a**, en onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=3&z=2006-02-22&g=2010-03-02) indien zij zijn belast met de opsporing van alle strafbare feiten, en tweede lid van de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), gelden de volgende rangen:
 
 - a. hoofdcommissaris;
 
@@ -100,7 +100,7 @@ Onverminderd het bepaalde in [artikel 45 van het Besluit rechtspositie vrijwilli
 
 - b. surveillant van politie voor de vrijwillige ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die is belast met de werkzaamheden, bedoeld in [artikel 1, eerste en tweede lid, van het Besluit taken vrijwillige ambtenaren van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006653&artikel=1), en
 
-- c. de rangen, bedoeld in [artikel 1, eerste lid, onderdeel b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1&z=2006-02-22&g=2006-02-22), voor de vrijwillige ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die is belast met de werkzaamheden, bedoeld in [artikel 2 van het Besluit taken vrijwillige ambtenaren van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006653&artikel=2).
+- c. de rangen, bedoeld in [artikel 1, eerste lid, onderdeel b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1&z=2006-02-22&g=2010-03-02), voor de vrijwillige ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die is belast met de werkzaamheden, bedoeld in [artikel 2 van het Besluit taken vrijwillige ambtenaren van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006653&artikel=2).
 
 ##### Artikel 3
 
