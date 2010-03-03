@@ -4,7 +4,7 @@ identifier: "BWBR0027336"
 country: "nl"
 rank: "amvb"
 publication_date: "2011-02-01"
-last_updated: "2009-03-01"
+last_updated: "2010-03-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027336"
 soort: "AMvB"
@@ -127,5 +127,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Hoofdstuk 2. Overige wijzigingen
 
 ### Hoofdstuk 3. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 10. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst met dien verstande dat:
+
+- a. [artikel 7, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0027336&hoofdstuk=2&artikel=7&z=2010-03-03&g=2010-03-03) terugwerkt tot en met 1 januari 2008;
+
+- b. [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027336&hoofdstuk=1&artikel=1&z=2010-03-03&g=2010-03-03), [artikel 2, onderdelen A, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0027336&hoofdstuk=2&artikel=2&z=2010-03-03&g=2010-03-03), de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027336&hoofdstuk=2&artikel=3&z=2010-03-03&g=2010-03-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0027336&hoofdstuk=2&artikel=4&z=2010-03-03&g=2010-03-03), [artikel 5, onderdelen A, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0027336&hoofdstuk=2&artikel=5&z=2010-03-03&g=2010-03-03), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027336&hoofdstuk=2&artikel=6&z=2010-03-03&g=2010-03-03), [artikel 7, onderdelen A tot en met E en onderdelen G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0027336&hoofdstuk=2&artikel=7&z=2010-03-03&g=2010-03-03) alsmede de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027336&hoofdstuk=2&artikel=8&z=2010-03-03&g=2010-03-03) en [9, onderdelen A, B, C, D, onder 3 en 4, en E](https://wetten.overheid.nl/jci1.3:c:BWBR0027336&hoofdstuk=2&artikel=9&z=2010-03-03&g=2010-03-03) terugwerken tot en met 1 maart 2009;
+
+- c. [artikel 9, onderdeel D, onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027336&hoofdstuk=2&artikel=9&z=2010-03-03&g=2010-03-03) terugwerken tot en met 1 april 2009.
+
+- d. [artikel 2, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0027336&hoofdstuk=2&artikel=2&z=2010-03-03&g=2010-03-03) alsmede [artikel 5, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0027336&hoofdstuk=2&artikel=5&z=2010-03-03&g=2010-03-03) terugwerken tot en met 1 juli 2009.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
