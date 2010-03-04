@@ -4,7 +4,7 @@ identifier: "BWBR0023593"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-04"
-last_updated: "2007-12-17"
+last_updated: "2010-03-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023593"
 soort: "ministeriele-regeling"
@@ -138,6 +138,8 @@ Tijdelijke regeling adviescommissie individuele trajectafdelingen
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst, werkt terug tot en met 17 december 2007 en vervalt twee jaar na het tijdstip van inwerkingtreding.
+1. Dit besluit vervalt, indien het bij koninklijke boodschap van 7 april 2009 ingediende voorstel van wet tot Wijziging van de Beginselenwet justitiële jeugdinrichtingen, het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten, in verband met de aanpassing van de tenuitvoerlegging van vrijheidsbenemende jeugdsancties (31 915), tot wet is of wordt verheven, op het tijdstip waarop artikel I, onderdeel Sa, van die wet in werking treedt.
+
+2. Indien het in het eerste lid genoemde voorstel van wet wordt ingetrokken of indien één van de Kamers van de Staten-Generaal tot het niet aannemen van het voorstel besluit, vervalt dit besluit op een door de Minister van Justitie te bepalen tijdstip.
 
 Deze tijdelijke regeling zal met toelichting in de Staatscourant worden geplaatst.
