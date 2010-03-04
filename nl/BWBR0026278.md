@@ -4,7 +4,7 @@ identifier: "BWBR0026278"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-04"
-last_updated: "2010-01-01"
+last_updated: "2010-03-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026278"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 ##### Artikel 1
 
-De algemeen directeur van SenterNovem wordt gemandateerd tot:
+De algemeen directeur van AgentschapNL wordt gemandateerd tot:
 
 - a. het nemen van besluiten met betrekking tot de uitvoering van de [Regeling stimulering betere dienstverlening aan bedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0025960);
 
@@ -54,25 +54,25 @@ De algemeen directeur van SenterNovem wordt gemandateerd tot:
 
 ##### Artikel 2
 
-De algemeen directeur van SenterNovem wordt gemachtigd tot:
+De algemeen directeur van AgentschapNL wordt gemachtigd tot:
 
-- a. het verrichten van alle benodigde werkzaamheden ter voorbereiding van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2009-08-27&g=2010-01-01) bedoelde besluiten;
+- a. het verrichten van alle benodigde werkzaamheden ter voorbereiding van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2010-03-04&g=2010-03-04) bedoelde besluiten;
 
-- b. het voeren van (hoger) beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2009-08-27&g=2010-01-01).
+- b. het voeren van (hoger) beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2010-03-04&g=2010-03-04).
 
 ##### Artikel 3
 
-De algemeen directeur van SenterNovem kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2009-08-27&g=2010-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=2&z=2009-08-27&g=2010-01-01) ondermandaat en machtiging verlenen aan één of meer onder hem ressorterende functionarissen. Het verlenen van ondermandaat zal zodanig geschieden dat er geen sprake zal zijn van strijdigheid met [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3).
+De algemeen directeur van AgentschapNL kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2010-03-04&g=2010-03-04) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=2&z=2010-03-04&g=2010-03-04) ondermandaat en machtiging verlenen aan één of meer onder hem ressorterende functionarissen. Het verlenen van ondermandaat zal zodanig geschieden dat er geen sprake zal zijn van strijdigheid met [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3).
 
 ##### Artikel 4
 
-Indien uitvoering wordt gegeven aan de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2009-08-27&g=2010-01-01) luidt de ondertekening:
+Indien uitvoering wordt gegeven aan de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026278&artikel=1&z=2010-03-04&g=2010-03-04) luidt de ondertekening:
 
 De Staatssecretaris van Financiën,
 
 namens deze:
 
-gevolgd door de handtekening, de naam en de functieaanduiding van de betrokken functionaris van SenterNovem.
+gevolgd door de handtekening, de naam en de functieaanduiding van de betrokken functionaris van AgentschapNL.
 
 ##### Artikel 5
 
@@ -80,7 +80,7 @@ Het document waarin een besluit of handeling, genomen respectievelijk verricht o
 
 ##### Artikel 6
 
-- a. in elk besluit in eerste aanleg dat op grond van dit besluit tot verlening van mandaat en machtiging is genomen, wordt vermeld dat belanghebbenden binnen zes weken na de dag waarop het besluit bekend gemaakt is, bezwaar kunnen maken door indiening van een bezwaarschrift gericht aan de Staatssecretaris van Financiën, per adres SenterNovem, afdeling Juridische Zaken, postbus 93144, 2509 CA Den Haag.
+- a. in elk besluit in eerste aanleg dat op grond van dit besluit tot verlening van mandaat en machtiging is genomen, wordt vermeld dat belanghebbenden binnen zes weken na de dag waarop het besluit bekend gemaakt is, bezwaar kunnen maken door indiening van een bezwaarschrift gericht aan de Staatssecretaris van Financiën, per adres AgentschapNL, afdeling Juridische Zaken, postbus 93144, 2509 CA Den Haag.
 
 - b. in elke beslissing op bezwaar wordt vermeld bij welke rechtbank belanghebbenden, binnen zes weken na de dag waarop de beslissing op bezwaar bekend gemaakt is, beroep kunnen instellen.
 
@@ -90,6 +90,6 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 
 ##### Artikel 8
 
-Dit besluit wordt aangehaald als: Besluit mandaat en machtiging SenterNovem Tijdelijke regeling stimulering betere dienstverlening aan bedrijven.
+Dit besluit wordt aangehaald als: Besluit mandaat en machtiging AgentschapNL Tijdelijke regeling stimulering betere dienstverlening aan bedrijven.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
