@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-02-19"
+last_updated: "2010-03-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ Besluit:
 | 1.1 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=2) | [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=2.3) | Bedrijfsborgstellingskredieten | 01-01 t/m 31-12 | 765.000.000 |
 | 1.2 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=2) | [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=2.3) | Bodemsaneringsborgstellingskredieten | 01-01 t/m 31-12 | 65.344.122 |
 | 1.3 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (groeifaciliteit)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=3) | [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.2) |   | 01-01 t/m 31-12 | 170.000.000 |
-| 1.4 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfinanciering)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&paragraaf=3) | [3.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.12b) |   | 01-01 t/m 31-12 | 500.000.000 |
+| 1.4 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) (Tijdelijke garantie ondernemingsfinanciering en Garantstelling gericht op bankgaranties) | – [3.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.12b) – [3.12v](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.12v) |   | – 01-01 t/m 31-12 – 08-03 t/m 31-12 | 500.000.000 |
 | 1.5 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke garantie ondernemingsfaciliteit curatieve zorg)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&paragraaf=3a) | [3.12m](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=3.12m) |   | 01-01 t/m 22-10 | 150.000.000 |
 | 1.6 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=4) | [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=4.3) |   | 01-01 t/m 31-03 | 12.000.000 |
 | 1.7 | [Subsidieregeling starten, groeien en overdragen van ondernemingen (kennisexploitatie)](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&hoofdstuk=5) | [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=5.2) |   |   |   |
