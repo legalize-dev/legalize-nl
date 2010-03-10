@@ -4,7 +4,7 @@ identifier: "BWBR0030652"
 country: "nl"
 rank: "wet"
 publication_date: "2011-11-19"
-last_updated: "2008-12-31"
+last_updated: "2010-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030652"
 soort: "wet"
@@ -54,7 +54,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Waterschapswet.
 
 ##### Artikel IV
 
