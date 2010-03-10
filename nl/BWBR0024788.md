@@ -4,7 +4,7 @@ identifier: "BWBR0024788"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2009-04-01"
+last_updated: "2010-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024788"
 soort: "wet"
@@ -45,17 +45,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. De bezoldiging van de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman is gelijk aan de bezoldiging van de ministers, bedoeld in [artikel 1, eerste lid, van de Wet rechtspositie ministers en staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1).
+1. De bezoldiging van de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman wordt bepaald op € 10.325,86 per maand.
 
-2. De bezoldiging van de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State wordt bepaald op 90% van de bezoldiging van de ministers, bedoeld in [artikel 1, eerste lid, van de Wet rechtspositie ministers en staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1).
+2. De bezoldiging van de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State wordt bepaald op € 9691,95 per maand.
 
-3. De bezoldiging van de overige staatsraden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen wordt bepaald op 85% van de bezoldiging van de ministers, bedoeld in [artikel 1, eerste lid, van de Wet rechtspositie ministers en staatssecretarissen](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1).
+3. De bezoldiging van de overige staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen wordt bepaald op € 9098,26 per maand.
 
 4. De staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4), ontvangen een zodanig deel van de in het derde lid bedoelde bezoldiging als overeenkomt met de vastgestelde omvang van de te verrichten taak.
 
 5. De bezoldiging vangt aan met de dag van indiensttreding. De bezoldiging eindigt in ieder geval met ingang van de dag na het overlijden.
 
 6. Na het overlijden van de vice-president van de Raad van State, de president van de Algemene Rekenkamer, de Nationale ombudsman, de staatsraden en de staatsraden in buitengewone dienst, bedoeld in [artikel 4, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=4), de overige leden van de Algemene Rekenkamer of de substituut-ombudsmannen wordt een uitkering verstrekt op de voet van de regeling hieromtrent voor het personeel werkzaam bij de sector Rijk.
+
+7. Indien de bezoldiging van het personeel werkzaam bij de sector Rijk wijziging ondergaat, en wordt bepaald dat die wijziging een algemeen karakter draagt, worden de in het eerste, tweede en derde lid genoemde bedragen bij ministeriële regeling overeenkomstig gewijzigd.
 
 ##### Artikel 2
 
@@ -99,7 +101,7 @@ Wijzigt de Wet Nationale ombudsman.
 
 ##### Artikel 8
 
-De [wet van 11 september 1964, houdende vaststelling van een nieuwe regeling van de bezoldiging van de vice-president van de Raad van State en de staatsraden, alsmede van de president en de overige leden van de Algemene Rekenkamer](https://wetten.overheid.nl/jci1.3:c:BWBR0002456) (Stb. 387) en de [Wet bezoldiging Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003429) worden ingetrokken, met dien verstande dat, indien het bij koninklijke boodschap van 3 januari 2006 ingediende voorstel van wet tot wijziging van de Wet rechtspositie ministers en staatssecretarissen en enige andere wetten in verband met de wijziging van de hoogte van de bezoldiging van de ministers, de minister-president, de staatssecretarissen, de leden van de Raad van State, de leden van de Algemene Rekenkamer en de Nationale ombudsman (Kamerstukken II 2005/06, 30 426) tot wet is of wordt verheven en de artikelen Ia en Ib van die wet later in werking treden dan deze wet, na inwerkingtreding van die artikelen, [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002456&artikel=1), en [artikel 4, eerste lid, van de Wet van 11 september 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002456&artikel=4) en [artikel 1, eerste lid, van de Wet bezoldiging Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003429&artikel=1), vanaf 1 januari 2008 tot het tijdstip waarop deze wet in werking treedt, luiden zoals in voormelde artikelen Ia en Ib is bepaald.
+De [wet van 11 september 1964, houdende vaststelling van een nieuwe regeling van de bezoldiging van de vice-president van de Raad van State en de staatsraden, alsmede van de president en de overige leden van de Algemene Rekenkamer](https://wetten.overheid.nl/jci1.3:c:BWBR0002456) (Stb. 387) en de [Wet bezoldiging Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003429) worden ingetrokken.
 
 ##### Artikel 9
 
@@ -111,27 +113,11 @@ Wijzigt de Wijzigingswet Wet op de Raad van State (herstructurering Raad van Sta
 
 ##### Artikel 11
 
-1. Vervallen.
-
-2. Indien het bij koninklijke boodschap van 3 januari 2006 ingediende voorstel van wet tot wijziging van de Wet rechtspositie ministers en staatssecretarissen en enige andere wetten in verband met de wijziging van de hoogte van de bezoldiging van de ministers, de minister-president, de staatssecretarissen, de leden van de Raad van State, de leden van de Algemene Rekenkamer en de Nationale ombudsman (Kamerstukken II 2005/06, 30 426) tot wet is of wordt verheven en artikel I, onderdeel A, van die wet later in werking treedt dan deze wet, wordt totdat artikel I, onderdeel A, van die wet in werking treedt, in afwijking van [artikel 1, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2009-04-01&g=2009-04-01) van deze wet, de bezoldiging van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1&z=2009-04-01&g=2009-04-01) genoemde ambtsdragers als volgt vastgesteld:
-
-- a. De bezoldiging van de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman wordt bepaald op € 10 325,86 per maand.
-
-- b. De bezoldiging van de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State wordt bepaald op € 9 691,95 per maand.
-
-- c. De bezoldiging van de overige staatsraden, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen wordt bepaald op € 9 098,26 per maand.
-
-3. Indien de bezoldiging van het personeel werkzaam bij de sector Rijk wijziging ondergaat, worden de in het eerste en tweede lid genoemde bedragen bij ministeriële regeling overeenkomstig gewijzigd.
+Vervallen
 
 ##### Artikel 12
 
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-2. Indien deze wet in werking treedt vóór 1 april 2009, vervalt [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=11&z=2009-04-01&g=2009-04-01), met ingang van 1 april 2009.
-
-3. Indien deze wet in werking treedt vóór 1 april 2009, treedt, in afwijking van het eerste lid, [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=11&z=2009-04-01&g=2009-04-01), in werking met ingang van 1 april 2009.
-
-4. Indien deze wet in werking treedt na 31 maart 2009, vervalt [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=11&z=2009-04-01&g=2009-04-01).
+Vervallen
 
 ##### Artikel 13
 
