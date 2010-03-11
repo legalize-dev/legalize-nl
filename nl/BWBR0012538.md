@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2009-11-05"
+last_updated: "2010-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -228,7 +228,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2009-11-05&g=2009-11-05) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2010-03-11&g=2010-03-11) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
@@ -261,6 +261,31 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 Voor het uitvoeren van een IFR-kruisvlucht in de NSA Amsterdam van en naar mijnbouwinstallaties op de Noordzee waarbij een helikopter ten behoeve van navigatie gebruik maakt van GNSS, is de helikopter uitgerust met GNSS apparatuur die voldoet aan eisen gebaseerd op EASA AMC20-4.
 
 #### Gebruik van transponders
+
+#### Slotartikelen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7a
+
+1. Onverminderd de in het betrokken luchtruim geldende regels, is het voeren van een Mode S SSR-transponder verplicht voor alle luchtvaartuigen die gebruik maken van een Transponder Mandatory Zone als opgenomen in [bijlage G1 bij de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G1).
+
+2. Het eerste lid is binnen onderstaande gebieden van maandag tot en met vrijdag en op nationale feestdagen tussen 09.00–17.00 uur plaatselijke tijd niet van toepassing op schermzweeftoestellen en zeilvliegtuigen:
+
+| a. TMZ A | Van 1200 ft AMSL tot FL45 |
+| --- | --- |
+| b. TMZ B | Van 1200 ft AMSL tot FL45 |
+| c. TMZ C | Van 1200 ft AMSL ot FL45 |
+| d. TMZ D | Van 1200 ft AMSL tot 2500 ft AMSL |
+| e. TMZ E | Van 1200 ft AMSL tot FL45 |
+| f. TMZ Eelde | Van 1200 ft AMSL tot 1500 ft AMSL |
+| g. TMZ G1 | Van 1200 ft AMSL tot FL45 |
+| h. TMZ Maastricht | Van 1200 ft AMSL tot 1500 ft AMSL |
+| i. TMZ Rotterdam | Van 1200 ft AMSL tot 2500 ft AMSL |
+
+#### Gebruik van transponders
+
+#### Strafbepaling
 
 #### Slotartikelen
 
