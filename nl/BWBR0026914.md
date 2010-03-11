@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-03-09"
+last_updated: "2010-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -132,6 +132,8 @@ Besluit:
 | 3.28 | [Subsidieregeling sterktes in innovatie (Technologische Topinstituten)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10d) | [10d.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10d.2) |   |   |   |
 | 3.29 | [Subsidieregeling sterktes in innovatie (innovatieve zeescheepsbouw)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10e) | [10e.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10e.2) |   | 01-01 t/m 31-10 | 17.500.000 |
 | 3.30 | [Subsidieregeling sterktes in innovatie (prekwalificatie ESA/programma’s)](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=10f) | [10f.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10f.2) |   | 01-01 t/m 26-02 | 5.899.143 |
+| 3.31 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (strategisch onderzoeksprogramma vliegtuigontwikkeling) | [10g.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10g.2) | onderzoek op motorcomponenten | Tijdstip van inwerkingtreding van deze regeling t/m 26-04 | 898.000 |
+| 3.32 | [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) (strategisch onderzoeksprogramma vliegtuigontwikkeling) | [10g.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&artikel=10g.2) | thermoplasten en composieten, vezel-metaal laminaten, ontwerpmethodieken, toekomstige technologieën, vliegtuigsystemen | Tijdstip van inwerkingtreding van deze regeling t/m 26-04 | 3.592.000 |
 | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) | [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) |
 | 4.1 | [Subsidieregeling sterktes in de regio (Pieken in de Delta)](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&hoofdstuk=2) | [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024884&artikel=2.3) | Oost-Nederland | 15-03 t/m 27-04 | 4.000.000 |
 |   |   |   | Noordvleugel Randstad | 15-03 t/m 27-04 | 9.000.000 |
