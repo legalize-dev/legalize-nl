@@ -4,7 +4,7 @@ identifier: "BWBR0022548"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2013-10-19"
-last_updated: "2007-10-01"
+last_updated: "2010-03-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022548"
 soort: "ministeriele-regeling"
@@ -70,13 +70,15 @@ In dit besluit wordt verstaan onder:
 
 3. De voorzitter deelt het Avt in drie commissies in, bestaande elk uit drie forensisch psychiaters en/of psychologen, met als voorzitter een van de juristen. De commissies betrekken desgewenst de wetenschappelijk adviseur bij de advisering.
 
-4. De voorzitter en de leden van het Avt worden benoemd door de Minister voor een periode van twee jaar. Herbenoeming is eenmaal mogelijk.
+4. De voorzitter en de leden van het Avt worden benoemd door de Minister voor een periode van drie jaar. Herbenoeming is eenmaal mogelijk.
 
 5. Wanneer leden van het Avt vervangen moeten worden, brengt het aan de Minister voordrachten uit voor de benoeming van de nieuwe leden.
 
 6. De Minister benoemt de leden na kennisneming van de voordracht.
 
 Van de leden van het college die de eerste maal worden benoemd, worden er in het totaal tenminste vijf, zo veel mogelijk in evenredigheid van het aantal leden van de verschillende disciplines, voor een periode van drie jaar benoemd. De leden die voor drie jaar zijn benoemd, kunnen eenmaal voor twee jaar worden herbenoemd.
+
+7. In het Avt kunnen plaatsvervangend leden worden benoemd voor een periode van drie jaar. Een volgende termijn als plaatsvervangend lid is niet mogelijk. Het vijfde en zesde lid zijn van overeenkomstige toepassing.
 
 ##### Artikel 3. Ontslag
 
