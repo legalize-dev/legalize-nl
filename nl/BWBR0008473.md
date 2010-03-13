@@ -4,7 +4,7 @@ identifier: "BWBR0008473"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-23"
-last_updated: "1997-01-01"
+last_updated: "2010-03-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008473"
 soort: "ministeriele-regeling"
@@ -54,39 +54,39 @@ personen die deel uitmaken van of werkzaam zijn voor de krijgsmacht:
 
 ##### Artikel 2
 
-1. De categorie van personen, genoemd in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=1997-01-01&g=1997-01-01), is gerechtigd tot het vervoeren, voorhanden hebben, transformeren, herstellen, beproeven, doen binnenkomen of uitgaan van wapens of munitie van de categorieën II en III en het dragen van wapens van de categorieën II, III en IV voor zover het uitoefenen van de dienst zulks vereist of, voor zover het het dragen van een wapen van categorie III betreft, dat is voorgeschreven bij een tenue. Daarnaast is de categorie van personen, genoemd in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=1997-01-01&g=1997-01-01), gerechtigd tot het dragen, vervoeren en voorhanden hebben van een geluidsdemper voor zover de uitoefening van de dienst zulks vereist.
+1. De categorie van personen, genoemd in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2010-03-13&g=2010-03-13), is gerechtigd tot het vervoeren, voorhanden hebben, transformeren, herstellen, beproeven, doen binnenkomen of uitgaan van wapens of munitie van de categorieën I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens, II en III en het dragen van wapens van de categorieën I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens, II, III en IV voor zover het uitoefenen van de dienst zulks vereist of, voor zover het het dragen van een wapen van categorie III betreft, dat is voorgeschreven bij een tenue. Daarnaast is de categorie van personen, genoemd in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2010-03-13&g=2010-03-13), gerechtigd tot het dragen, vervoeren en voorhanden hebben van een geluidsdemper voor zover de uitoefening van de dienst zulks vereist.
 
 2. Ten aanzien van niet-Nederlandse militairen in werkelijke dienst deel uitmakend van een krijgsmacht van een land dat niet is aangesloten bij de Noord-Atlantische verdragsorganisatie geldt het eerste lid slechts indien de desbetreffende krijgsmacht beschikt over een schriftelijke uitnodiging van Onze Minister van Defensie en is voldaan aan de door Onze Minister van Defensie bij de uitnodiging gestelde voorwaarden.
 
-3. De categorie van personen, genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=1997-01-01&g=1997-01-01), is gerechtigd tot het vervoeren of voorhanden hebben van wapens of munitie van de categorieën II en III en het dragen van wapens van de categorieën II, III en IV voor zover zij in bezit zijn van een door Onze Minister van Defensie afgegeven vergunning.
+3. De categorie van personen, genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2010-03-13&g=2010-03-13), is gerechtigd tot het vervoeren of voorhanden hebben van wapens of munitie van de categorieën I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens, II en III en het dragen van wapens van de categorieën I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens, II, III en IV voor zover zij in bezit zijn van een door Onze Minister van Defensie afgegeven vergunning.
 
-4. De categorie van personen, genoemd in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=1997-01-01&g=1997-01-01), is gerechtigd tot het vervoeren, voorhanden hebben, transformeren, beproeven en herstellen van wapens of munitie van de categorieën II en III voor zover zij in bezit zijn van een door Onze Minister van Defensie afgegeven vergunning.
+4. De categorie van personen, genoemd in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2010-03-13&g=2010-03-13), is gerechtigd tot het vervoeren, voorhanden hebben, transformeren, beproeven en herstellen van wapens of munitie van de categorieën I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens, II en III voor zover zij in bezit zijn van een door Onze Minister van Defensie afgegeven vergunning.
 
-5. De categorie van personen, genoemd in [artikel 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=1997-01-01&g=1997-01-01), is uitsluitend gerechtigd tot het vervoeren, voorhanden hebben, doen binnenkomen of uitgaan van wapens of munitie van de categorieën II en III voor zover de opdracht daartoe door Onze Minister van Defensie blijkt uit door hen mee te voeren documenten.
+5. De categorie van personen, genoemd in [artikel 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2010-03-13&g=2010-03-13), is uitsluitend gerechtigd tot het vervoeren, voorhanden hebben, doen binnenkomen of uitgaan van wapens of munitie van de categorieën I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens, II en III voor zover de opdracht daartoe door Onze Minister van Defensie blijkt uit door hen mee te voeren documenten.
 
 ##### Artikel 3
 
-1. Aan de vergunning bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=1997-01-01&g=1997-01-01), kunnen voorschriften worden verbonden met betrekking tot:
+1. Aan de vergunning bedoeld in [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2010-03-13&g=2010-03-13), kunnen voorschriften worden verbonden met betrekking tot:
 
 - a. het eventuele gebruik; en
 
 - b. de opslag en het eventuele vervoer van het wapen of de munitie.
 
-2. Namens Onze Minister van Defensie zijn bevoegd de vergunning, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=1997-01-01&g=1997-01-01), te verstrekken:
+2. Namens Onze Minister van Defensie zijn bevoegd de vergunning, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2010-03-13&g=2010-03-13), te verstrekken:
 
-- a. de commandanten regionaal militair commando ten aanzien van het binnen hun regio werkzame personeel van de Koninklijke landmacht, behorende tot de categorie van personen, genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=1997-01-01&g=1997-01-01);
+- a. de commandanten regionaal militair commando ten aanzien van het binnen hun regio werkzame personeel van de Koninklijke landmacht, behorende tot de categorie van personen, genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2010-03-13&g=2010-03-13);
 
-- b. de commandant der zeemacht in Nederland en de directeur materieel Koninklijke marine ten aanzien van het personeel van de Koninklijke marine, behorende tot de categorie van personen, genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=1997-01-01&g=1997-01-01);
+- b. de commandant der zeemacht in Nederland en de directeur materieel Koninklijke marine ten aanzien van het personeel van de Koninklijke marine, behorende tot de categorie van personen, genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2010-03-13&g=2010-03-13);
 
-- c. de directeur operatiën van de Koninklijke marechaussee ten aanzien van het personeel van de Koninklijke marechaussee, behorende de categorie van personen, genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=1997-01-01&g=1997-01-01);
+- c. de directeur operatiën van de Koninklijke marechaussee ten aanzien van het personeel van de Koninklijke marechaussee, behorende de categorie van personen, genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2010-03-13&g=2010-03-13);
 
-- d. de directeuren materieel ten aanzien van het onder hun krijgsmachtdeel ressorterende personeel behorende tot de categorie van personen, genoemd in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=1997-01-01&g=1997-01-01);
+- d. de directeuren materieel ten aanzien van het onder hun krijgsmachtdeel ressorterende personeel behorende tot de categorie van personen, genoemd in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2010-03-13&g=2010-03-13);
 
-- e. de directeur van het sensor, wapen- en commandosystemen-bedrijf ten aanzien van het binnen dat bedrijf werkzame personeel van de Koninklijke marine, behorende tot de categorie van personen, genoemd in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=1997-01-01&g=1997-01-01).
+- e. de directeur van het sensor, wapen- en commandosystemen-bedrijf ten aanzien van het binnen dat bedrijf werkzame personeel van de Koninklijke marine, behorende tot de categorie van personen, genoemd in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2010-03-13&g=2010-03-13).
 
 ##### Artikel 4
 
-Met ingang van inwerkingtreding van deze regeling berusten vergunningen, afgegeven op grond van de Regeling wapens en munitie krijgsmachtpersoneel van 19 september 1994 (Stcrt. 185), voor de duur van hun geldigheid of op [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=1997-01-01&g=1997-01-01), of op [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=1997-01-01&g=1997-01-01), van deze regeling.
+Met ingang van inwerkingtreding van deze regeling berusten vergunningen, afgegeven op grond van de Regeling wapens en munitie krijgsmachtpersoneel van 19 september 1994 (Stcrt. 185), voor de duur van hun geldigheid of op [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2010-03-13&g=2010-03-13), of op [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2010-03-13&g=2010-03-13), van deze regeling.
 
 ##### Artikel 5
 
