@@ -4,7 +4,7 @@ identifier: "BWBV0004061"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-03-14"
-last_updated: "1996-12-20"
+last_updated: "2010-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004061"
 soort: "verdrag"
@@ -72,21 +72,21 @@ Voor de toepassing van dit Verdrag:
 
 - f. wordt onder „uitzending” verstaan de transmissie langs draadloze weg van geluiden of van beelden en geluiden of van de weergaven daarvan voor ontvangst door het publiek; een dergelijke transmissie per satelliet wordt eveneens onder „uitzending” begrepen; de transmissie van gecodeerde signalen geldt als „uitzending” wanneer de middelen voor decodering aan het publiek worden geleverd door of met toestemming van de omroeporganisatie;
 
-- g. wordt onder „mededeling aan het publiek” van een uitvoering of een fonogram verstaan de overdracht aan het publiek door elk medium anders dan door uitzending, van geluiden van een uitvoering of de op een fonogram vastgelegde geluiden of weergaven van geluiden. Voor de toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=IV&artikel=15&z=1996-12-20&g=1996-12-20) wordt onder „mededeling aan het publiek” mede verstaan het voor het publiek hoorbaar maken van de op een fonogram vastgelegde geluiden of weergaven van geluiden.
+- g. wordt onder „mededeling aan het publiek” van een uitvoering of een fonogram verstaan de overdracht aan het publiek door elk medium anders dan door uitzending, van geluiden van een uitvoering of de op een fonogram vastgelegde geluiden of weergaven van geluiden. Voor de toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=IV&artikel=15&z=2010-03-14&g=2010-03-14) wordt onder „mededeling aan het publiek” mede verstaan het voor het publiek hoorbaar maken van de op een fonogram vastgelegde geluiden of weergaven van geluiden.
 
 ##### Artikel 3. Gerechtigden tot de in dit Verdrag voorziene bescherming
 
 1. De Verdragsluitende Partijen verlenen de in dit Verdrag voorziene bescherming aan de uitvoerende kunstenaars en producenten van fonogrammen die onderdaan zijn van andere Verdragsluitende Partijen.
 
-2. Onder „onderdanen van andere Verdragsluitende Partijen” dient te worden verstaan de uitvoerende kunstenaars of producenten van fonogrammen die zouden voldoen aan de criteria om in aanmerking te komen voor de in het [Verdrag van Rome](https://wetten.overheid.nl/jci1.3:c:BWBV0004329) voorziene bescherming, indien alle Verdragsluitende Partijen bij dit Verdrag Verdragsluitende Staten bij dat Verdrag zouden zijn. Met betrekking tot deze criteria passen de Verdragsluitende Partijen de relevante begripsbepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=I&artikel=2&z=1996-12-20&g=1996-12-20) van dit Verdrag toe.
+2. Onder „onderdanen van andere Verdragsluitende Partijen” dient te worden verstaan de uitvoerende kunstenaars of producenten van fonogrammen die zouden voldoen aan de criteria om in aanmerking te komen voor de in het [Verdrag van Rome](https://wetten.overheid.nl/jci1.3:c:BWBV0004329) voorziene bescherming, indien alle Verdragsluitende Partijen bij dit Verdrag Verdragsluitende Staten bij dat Verdrag zouden zijn. Met betrekking tot deze criteria passen de Verdragsluitende Partijen de relevante begripsbepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=I&artikel=2&z=2010-03-14&g=2010-03-14) van dit Verdrag toe.
 
 3. Iedere Verdragsluitende Partij die gebruik maakt van de mogelijkheden voorzien in [artikel 5, derde lid, van het Verdrag van Rome](https://wetten.overheid.nl/jci1.3:c:BWBV0004329&artikel=5) of, voor de toepassing van artikel 5 van dat Verdrag, in [artikel 17 daarvan](https://wetten.overheid.nl/jci1.3:c:BWBV0004329&artikel=17), richt een kennisgeving als voorzien in die bepalingen aan de Directeur-Generaal van de Wereldorganisatie voor de Intellectuele Eigendom (WIPO).
 
 ##### Artikel 4. Nationale behandeling
 
-1. Iedere Verdragsluitende Partij verleent aan onderdanen van andere Verdragsluitende Partijen overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=I&artikel=3&z=1996-12-20&g=1996-12-20), de behandeling die zij verleent aan haar eigen onderdanen met betrekking tot de uitsluitende rechten die in dit Verdrag uitdrukkelijk worden toegekend, en met betrekking tot het recht op een billijke vergoeding als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=IV&artikel=15&z=1996-12-20&g=1996-12-20) van dit Verdrag.
+1. Iedere Verdragsluitende Partij verleent aan onderdanen van andere Verdragsluitende Partijen overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=I&artikel=3&z=2010-03-14&g=2010-03-14), de behandeling die zij verleent aan haar eigen onderdanen met betrekking tot de uitsluitende rechten die in dit Verdrag uitdrukkelijk worden toegekend, en met betrekking tot het recht op een billijke vergoeding als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=IV&artikel=15&z=2010-03-14&g=2010-03-14) van dit Verdrag.
 
-2. De in het eerste lid bedoelde verplichting is niet van toepassing voorzover een andere Verdragsluitende Partij gebruik maakt van de voorbehouden die ingevolge [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=IV&artikel=15&z=1996-12-20&g=1996-12-20), van dit Verdrag, zijn toegestaan.
+2. De in het eerste lid bedoelde verplichting is niet van toepassing voorzover een andere Verdragsluitende Partij gebruik maakt van de voorbehouden die ingevolge [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=IV&artikel=15&z=2010-03-14&g=2010-03-14), van dit Verdrag, zijn toegestaan.
 
 ### HOOFDSTUK II. RECHTEN VAN UITVOERENDE KUNSTENAARS
 
@@ -192,13 +192,13 @@ Het genot en de uitoefening van de in dit Verdrag voorziene rechten is niet onde
 
 ##### Artikel 21. Voorbehouden
 
-Behoudens in het geval voorzien in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=IV&artikel=15&z=1996-12-20&g=1996-12-20), kunnen ten aanzien van dit Verdrag geen voorbehouden worden gemaakt.
+Behoudens in het geval voorzien in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=IV&artikel=15&z=2010-03-14&g=2010-03-14), kunnen ten aanzien van dit Verdrag geen voorbehouden worden gemaakt.
 
 ##### Artikel 22. Toepassing in de tijd
 
 1. De Verdragsluitende Partijen passen de bepalingen van [artikel 18 van de Berner Conventie](https://wetten.overheid.nl/jci1.3:c:BWBV0003977&artikel=18) mutatis mutandis toe op de rechten van uitvoerende kunstenaars en producenten van fonogrammen waarin in dit Verdrag is voorzien.
 
-2. Niettegenstaande het eerste lid kan een Verdragsluitende Partij de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=II&artikel=5&z=1996-12-20&g=1996-12-20) van dit Verdrag beperken tot uitvoeringen die hebben plaatsgevonden na de inwerkingtreding van dit Verdrag ten aanzien van die Partij.
+2. Niettegenstaande het eerste lid kan een Verdragsluitende Partij de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=II&artikel=5&z=2010-03-14&g=2010-03-14) van dit Verdrag beperken tot uitvoeringen die hebben plaatsgevonden na de inwerkingtreding van dit Verdrag ten aanzien van die Partij.
 
 ##### Artikel 23. Bepalingen met betrekking tot handhaving van rechten
 
@@ -218,7 +218,7 @@ Behoudens in het geval voorzien in [artikel 15, derde lid](https://wetten.overhe
 
 - a. De Algemene Vergadering behandelt vraagstukken betreffende de instandhouding en de ontwikkeling van dit Verdrag, alsmede betreffende de toepassing en werking van dit Verdrag.
 
-- b. De Algemene Vergadering vervult de functie die haar is verleend in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=V&artikel=26&z=1996-12-20&g=1996-12-20), met betrekking tot de toelating van bepaalde intergouvernementele organisaties om partij bij dit Verdrag te worden.
+- b. De Algemene Vergadering vervult de functie die haar is verleend in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=V&artikel=26&z=2010-03-14&g=2010-03-14), met betrekking tot de toelating van bepaalde intergouvernementele organisaties om partij bij dit Verdrag te worden.
 
 - c. De Algemene Vergadering beslist over de bijeenroeping van een diplomatieke conferentie tot herziening van dit Verdrag en geeft de nodige instructies aan de Directeur-Generaal van de WIPO ter voorbereiding van zulk een diplomatieke conferentie.
 
@@ -258,11 +258,11 @@ Dit Verdrag treedt in werking drie maanden nadat 30 akten van bekrachtiging of t
 
 Dit Verdrag bindt:
 
-- i. de 30 Staten bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=V&artikel=29&z=1996-12-20&g=1996-12-20), vanaf de datum waarop dit Verdrag in werking is getreden;
+- i. de 30 Staten bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=V&artikel=29&z=2010-03-14&g=2010-03-14), vanaf de datum waarop dit Verdrag in werking is getreden;
 
 - ii. iedere andere Staat, na het verstrijken van een tijdvak van drie maanden vanaf de datum waarop die Staat zijn akte heeft nedergelegd bij de Directeur-Generaal van de WIPO;
 
-- iii. de Europese Gemeenschap, na het verstrijken van een tijdvak van drie maanden na de nederlegging van haar akte van bekrachtiging of toetreding, indien die akte is nedergelegd na de inwerkingtreding van dit Verdrag overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=V&artikel=29&z=1996-12-20&g=1996-12-20), of drie maanden na de inwerkingtreding van dit Verdrag, indien die akte is nedergelegd voor de inwerkingtreding van dit Verdrag;
+- iii. de Europese Gemeenschap, na het verstrijken van een tijdvak van drie maanden na de nederlegging van haar akte van bekrachtiging of toetreding, indien die akte is nedergelegd na de inwerkingtreding van dit Verdrag overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0004061&hoofdstuk=V&artikel=29&z=2010-03-14&g=2010-03-14), of drie maanden na de inwerkingtreding van dit Verdrag, indien die akte is nedergelegd voor de inwerkingtreding van dit Verdrag;
 
 - iv. iedere andere intergouvernementele organisatie die is toegelaten om partij te worden bij dit Verdrag, na het verstrijken van een tijdvak van drie maanden na de nederlegging van haar akte van toetreding.
 
