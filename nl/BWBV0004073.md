@@ -4,7 +4,7 @@ identifier: "BWBV0004073"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-03-14"
-last_updated: "1996-12-20"
+last_updated: "2010-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004073"
 soort: "verdrag"
@@ -148,7 +148,7 @@ De Verdragsluitende Partijen passen de bepalingen toe van [artikel 18 van de Ber
 
 - a. De Algemene Vergadering behandelt alle vraagstukken betreffende de instandhouding en ontwikkeling van dit Verdrag en de toepassing en werking van dit Verdrag.
 
-- b. De Algemene Vergadering vervult de functie die haar is verleend in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004073&artikel=17&z=1996-12-20&g=1996-12-20), met betrekking tot de toelating van bepaalde intergouvernementele organisaties om partij bij dit Verdrag te worden.
+- b. De Algemene Vergadering vervult de functie die haar is verleend in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004073&artikel=17&z=2010-03-14&g=2010-03-14), met betrekking tot de toelating van bepaalde intergouvernementele organisaties om partij bij dit Verdrag te worden.
 
 - c. De Algemene Vergadering beslist over de bijeenroeping van een diplomatieke conferentie tot herziening van dit Verdrag en geeft de nodige instructies aan de Directeur-Generaal van de WIPO ter voorbereiding van zulk een diplomatieke conferentie.
 
@@ -188,11 +188,11 @@ Dit Verdrag treedt in werking drie maanden nadat 30 akten van bekrachtiging of t
 
 Dit Verdrag bindt
 
-- i. de 30 Staten bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004073&artikel=20&z=1996-12-20&g=1996-12-20), vanaf de datum waarop dit Verdrag in werking is getreden;
+- i. de 30 Staten bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004073&artikel=20&z=2010-03-14&g=2010-03-14), vanaf de datum waarop dit Verdrag in werking is getreden;
 
 - ii. iedere andere Staat na het verstrijken van een tijdvak van drie maanden, vanaf de datum waarop die Staat zijn akte heeft nedergelegd bij de Directeur-Generaal van de WIPO;
 
-- iii. de Europese Gemeenschap na het verstrijken van een tijdvak van drie maanden na de nederlegging van haar akte van bekrachtiging of toetreding indien die akte is nedergelegd na de inwerkingtreding van dit Verdrag overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004073&artikel=20&z=1996-12-20&g=1996-12-20), of drie maanden na de inwerkingtreding van dit Verdrag indien die akte is nedergelegd voor de inwerkingtreding van dit Verdrag;
+- iii. de Europese Gemeenschap na het verstrijken van een tijdvak van drie maanden na de nederlegging van haar akte van bekrachtiging of toetreding indien die akte is nedergelegd na de inwerkingtreding van dit Verdrag overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004073&artikel=20&z=2010-03-14&g=2010-03-14), of drie maanden na de inwerkingtreding van dit Verdrag indien die akte is nedergelegd voor de inwerkingtreding van dit Verdrag;
 
 - iv. iedere andere intergouvernementele organisatie die is toegelaten om partij te worden bij dit Verdrag, na het verstrijken van drie maanden na de nederlegging van haar akte van toetreding.
 
