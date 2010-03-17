@@ -4,7 +4,7 @@ identifier: "BWBR0016521"
 country: "nl"
 rank: "amvb"
 publication_date: "2010-03-17"
-last_updated: "2004-05-18"
+last_updated: "2010-03-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016521"
 soort: "AMvB"
@@ -65,7 +65,7 @@ Wijzigt het Warenwetbesluit Speelgoed.
 
 ##### Artikel V
 
-Tot 30 juli 2004 geldt ten aanzien van preparaten die vallen onder [richtlijn nr. 91/414/EEG](31991L0414) van de Raad van de Europese Gemeenschappen van 15 juli 1991 betreffende het op de markt brengen van gewasbeschermingsmiddelen (PbEG L 230) of onder [richtlijn nr. 98/8/EG](31998L0008) van het Europees Parlement en de Raad van de Europese Unie van 16 februari 1998 betreffende het op de markt brengen van biociden (PbEG L 123) het [Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0004220), zoals dat luidde direct voor de inwerkingtreding van dit besluit.
+Vervallen
 
 ##### Artikel VI
 
