@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2010-01-01"
+last_updated: "2010-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -47,7 +47,19 @@ Treedt in werking op het tijdstip waarop de Wet belastingen op milieugrondslag e
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=6), [11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11), [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25), [28, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [60, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [63, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), [80, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=80), [86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=86), en [92, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), en [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27), [28i, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=28i).
+1. Deze regeling geeft uitvoering aan de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=6), [11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11), [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25), [28, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [60, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [63, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), [80, onderdeel a, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=80), [86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=86), en [92, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27), en [28i, eerste lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=28i).
+
+2. Voor de toepassing van deze regeling wordt verstaan onder:
+
+- a. **de wet:** de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168);
+
+- b. **het besluit:** het [Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178);
+
+- c. **een afvalverwerkingsinrichting:** een inrichting als bedoeld in [artikel 22, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22);
+
+- d. **een krat:** een verpakking met zes vlakken waarvan minimaal een vlak open is, zodat er zonder aanpassing van de verpakking een product kan worden in- of uitgepakt;
+
+- e. **een doos:** een gesloten verpakking met zes vlakken, waaruit alleen met aanpassing van de verpakking een product kan worden in- of uitgepakt.
 
 ### Hoofdstuk II. Grondwaterbelasting
 
@@ -691,7 +703,7 @@ Berekeningen voor de toepassing van [artikel 47, eerste lid, onderdeel p, van de
 
 ##### Artikel 17
 
-Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2010-01-01&g=2010-01-01) van overeenkomstige toepassing.
+Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2010-03-18&g=2010-03-18) van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -715,7 +727,7 @@ Ter zake van de tarieven, bedoeld in [artikel 60, eerste lid, van de wet](https:
 
 ##### Artikel 21
 
-1. Voor de toepassing van [artikel 63, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63) wordt een gedeelte van een maand als een hele maand aangemerkt bij aanvang van de verbruiksperiode vóór de zestiende dag van de kalendermaand en bij einde van de verbruiksperiode na de vijftiende dag van de kalendermaand.
+1. Voor de toepassing van [artikel 63, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63) wordt een gedeelte van een maand als een hele maand aangemerkt bij aanvang van de verbruiksperiode vóór de zestiende dag van de kalendermaand en bij einde van de verbruiksperiode na de vijftiende dag van de kalendermaand.
 
 2. Toepassing van het eerste lid kan achterwege blijven indien een gedeelte van een maand in aanmerking wordt genomen naar evenredigheid van het aantal dagen.
 
@@ -811,7 +823,7 @@ Vervallen
 
 ##### Artikel 28
 
-1. De administratie van de belastingplichtige, bedoeld in [artikel 53, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=53), dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen met betrekking tot:
+1. De administratie van de belastingplichtige, bedoeld in [artikel 53, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=53), dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen met betrekking tot:
 
 - a. de hoeveelheden aardgas en elektriciteit die zijn geleverd;
 
@@ -861,7 +873,7 @@ Vervallen
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2010-01-01&g=2010-01-01) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2010-03-18&g=2010-03-18) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
