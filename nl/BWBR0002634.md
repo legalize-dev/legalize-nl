@@ -4,7 +4,7 @@ identifier: "BWBR0002634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2010-01-01"
+last_updated: "2010-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002634"
 soort: "ministeriele-regeling"
@@ -125,7 +125,7 @@ Vervallen
 
 - b. is bij uittreding van een natuurlijk persoon of lichaam in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) uit de fiscale eenheid, het tweede lid van overeenkomstige toepassing.
 
-4. De voorgaande leden gelden niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2010-01-01&g=2010-01-01).
+4. De voorgaande leden gelden niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2010-03-18&g=2010-03-18).
 
 ### Hoofdstuk III. Regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten
 
@@ -285,9 +285,9 @@ De vrijstelling van belasting voor voordrachten en dergelijke diensten, als zijn
 
 ##### Artikel 8
 
-1. In het geval, bedoeld in[artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=31), wordt hij aan wie de overdracht is geschied, voor het berekenen van de door hem verschuldigde belasting wat de onderneming of het overgedragen gedeelte betreft, geacht in plaats te zijn getreden van degene die de onderneming of een gedeelte daarvan heeft overgedragen.
+1. In het geval, bedoeld in [artikel 37d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=37d), wordt hij aan wie de overdracht is geschied, voor het berekenen van de door hem verschuldigde belasting wat de onderneming of het overgedragen gedeelte betreft, geacht in plaats te zijn getreden van degene die de onderneming of een gedeelte daarvan heeft overgedragen.
 
-2. Het eerste lid geldt niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2010-01-01&g=2010-01-01).
+2. Het eerste lid geldt niet voor de toepassing van [artikel 4c, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=III&artikel=4c&z=2010-03-18&g=2010-03-18).
 
 ##### Artikel 9
 
@@ -361,7 +361,7 @@ Door de ondernemer kan in aftrek worden gebracht de belasting die blijkens zijn 
 
 ##### Artikel 13a
 
-1. In geval van levering door de ondernemer van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2010-01-01&g=2010-01-01), bedoelde goederen binnen de termijn waarin de aftrek wordt herzien, is [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2010-01-01&g=2010-01-01), van overeenkomstige toepassing. Daarbij wordt de ondernemer geacht tot het einde van die termijn het gebruik van het goed voor bedrijfsdoeleinden voort te zetten uitsluitend ten behoeve van:
+1. In geval van levering door de ondernemer van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2010-03-18&g=2010-03-18), bedoelde goederen binnen de termijn waarin de aftrek wordt herzien, is [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2010-03-18&g=2010-03-18), van overeenkomstige toepassing. Daarbij wordt de ondernemer geacht tot het einde van die termijn het gebruik van het goed voor bedrijfsdoeleinden voort te zetten uitsluitend ten behoeve van:
 
 - a. belaste handelingen, indien ter zake van de levering van het goed belasting verschuldigd is dan wel geen belasting verschuldigd is omdat het gaat om een handeling als bedoeld in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15);
 
@@ -375,13 +375,13 @@ Het afstoten van goederen welke de ondernemer in zijn bedrijf heeft gebruikt, wo
 
 ##### Artikel 14a
 
-Handelingen ter zake waarvan op grond van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27) geen belasting verschuldigd is, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2010-01-01&g=2010-01-01) aangemerkt als handelingen, andere dan die bedoeld in [artikel 15, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27).
+Handelingen ter zake waarvan op grond van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27) geen belasting verschuldigd is, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2010-03-18&g=2010-03-18) aangemerkt als handelingen, andere dan die bedoeld in [artikel 15, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27).
 
 ##### Artikel 15
 
 1. De belasting welke drukt op het houden - met inbegrip van de aanschaffing - door de ondernemer, van een auto welke mede wordt gebruikt voor eigen privé-doeleinden (privé-gebruik), wordt eerst in aftrek gebracht alsof de auto uitsluitend voor bedrijfsdoeleinden wordt gebruikt; vervolgens is ter zake van het privé-gebruik jaarlijks 12 percent belasting verschuldigd over het bedrag dat bij de heffing van de inkomstenbelasting als onttrekking wordt aangemerkt. Indien de auto bij de heffing van de inkomstenbelasting niet tot het bedrijfsvermogen wordt gerekend, is ter zake van het privé-gebruik 12 percent belasting verschuldigd over het bedrag dat bij de heffing van de inkomstenbelasting als onttrekking in aanmerking zou zijn genomen indien de auto bij die heffing tot het bedrijfsvermogen zou zijn gerekend. Deze belasting is verschuldigd in het laatste belastingtijdvak van het boekjaar.
 
-2. Indien de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2010-01-01&g=2010-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2010-01-01&g=2010-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2010-01-01&g=2010-01-01) toepassing vinden, wordt de in het eerste lid bedoelde heffing van 12 percent naar evenredigheid verlaagd.
+2. Indien de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2010-03-18&g=2010-03-18), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2010-03-18&g=2010-03-18) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=13&z=2010-03-18&g=2010-03-18) toepassing vinden, wordt de in het eerste lid bedoelde heffing van 12 percent naar evenredigheid verlaagd.
 
 ##### Artikel 16
 
@@ -423,7 +423,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2010-01-01&g=2010-01-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2010-01-01&g=2010-01-01) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
+1. Voor andere goederen dan bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17&z=2010-03-18&g=2010-03-18) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=17a&z=2010-03-18&g=2010-03-18) wordt een verzoek om aanwijzing voor de toepassing van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.
 
 2. Het verzoek wordt slechts ingewilligd, indien de belanghebbende:
 
@@ -443,7 +443,7 @@ Vervallen
 
 5. Tenzij de inspecteur anders bepaalt, moet de belanghebbende voldoen aan de volgende voorwaarden:
 
-- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2010-01-01&g=2010-01-01);
+- a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2010-03-18&g=2010-03-18);
 
 - b. bij aangifte ten invoer van de goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moet het btw-identificatienummer zijn vermeld.
 
@@ -467,9 +467,9 @@ Vervallen
 
 3. De belanghebbende moet voldoen aan de volgende voorwaarden:
 
-- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2010-01-01&g=2010-01-01);
+- a. van de invoer van goederen als zijn bedoeld in het eerste lid, wordt afzonderlijk aantekening gehouden op de voet van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XII&artikel=31&z=2010-03-18&g=2010-03-18);
 
-- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2010-01-01&g=2010-01-01) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
+- b. bij aangifte ten invoer van de hiervoor bedoelde goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23) van toepassing is. Op deze bescheiden moeten datum en nummer van de in het eerste lid bedoelde beschikking, alsmede in voorkomende gevallen het op de voet van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VII&artikel=18&z=2010-03-18&g=2010-03-18) aan belanghebbende toegekende btw-identificatienummer zijn vermeld.
 
 4. De inspecteur is bevoegd in bepaalde gevallen nadere voorwaarden te stellen.
 
@@ -677,7 +677,7 @@ De ondernemer of de tussenpersoon die het recht uitoefent om overeenkomstig [art
 
 ##### Artikel 29c
 
-Handelingen die op grond van [artikel 28k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28k) van de belasting zijn vrijgesteld, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2010-01-01&g=2010-01-01) aangemerkt als handelingen waarvoor geen recht op aftrek van voorbelasting bestaat.
+Handelingen die op grond van [artikel 28k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28k) van de belasting zijn vrijgesteld, worden voor de toepassing van de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=VI&artikel=11&z=2010-03-18&g=2010-03-18) aangemerkt als handelingen waarvoor geen recht op aftrek van voorbelasting bestaat.
 
 ##### Artikel 29d
 
@@ -695,9 +695,7 @@ Vervallen
 
 ##### Artikel 30a
 
-1. De ondernemer die in een andere Lid-Staat woont of is gevestigd en geen vaste inrichting in Nederland heeft, dient bij een verzoek om teruggaaf als bedoeld in [artikel 33, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=33) door middel van een verklaring aan te tonen, dat hij in de staat waar hij woont of is gevestigd, is onderworpen aan de belasting over de toegevoegde waarde. De verklaring, afgegeven door de overheid van de Lid-Staat waar de ondernemer woont of is gevestigd, dient overeen te stemmen met het in bijlage E opgenomen model. De verklaring moet zijn gedrukt en ingevuld in één van de officiële talen van de Europese Gemeenschappen. De verklaring behoeft niet te worden overgelegd indien de ondernemer reeds eerder een dergelijke verklaring heeft overgelegd en sinds de afgifte daarvan nog geen jaar is verstreken.
-
-2. Een ondernemer die buiten de Gemeenschap woont of is gevestigd en geen vaste inrichting in Nederland heeft, dient indien de inspecteur zulks vraagt, bij een verzoek om teruggaaf als bedoeld in [artikel 33, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=33) aan te tonen dat hij ondernemer is in de zin van [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7).
+Een ondernemer die buiten de Gemeenschap woont of is gevestigd en geen vaste inrichting in Nederland heeft, dient indien de inspecteur zulks vraagt, bij een verzoek om teruggaaf als bedoeld in [artikel 31, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=31) aan te tonen dat hij ondernemer is in de zin van [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7).
 
 ### Hoofdstuk XI. Ondernemersverklaring
 
@@ -1658,6 +1656,8 @@ Vervallen
 
 ## Bijlage E
 
+Vervallen
+
 ## Bijlage F
 
 Vervallen
@@ -2277,7 +2277,7 @@ andere voorwerpen dan kunstvoorwerpen en voorwerpen voor verzamelingen, ouder da
 
 ## Bijlage L
 
-### Lijst van gouden munten als bedoeld in [artikel 28j, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28j) ([artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XA&artikel=29a&z=2010-01-01&g=2010-01-01) van de Uitvoeringsbeschikking omzetbelasting 1968)
+### Lijst van gouden munten als bedoeld in [artikel 28j, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28j) ([artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&hoofdstuk=XA&artikel=29a&z=2010-03-18&g=2010-03-18) van de Uitvoeringsbeschikking omzetbelasting 1968)
 
 (Publicatieblad van de Europese Unie 2009/C 289/06)
 
