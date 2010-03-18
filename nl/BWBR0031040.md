@@ -4,7 +4,7 @@ identifier: "BWBR0031040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2012-01-01"
-last_updated: "2009-01-01"
+last_updated: "2010-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031040"
 soort: "ministeriele-regeling"
@@ -124,8 +124,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
