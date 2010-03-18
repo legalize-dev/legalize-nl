@@ -4,7 +4,7 @@ identifier: "BWBR0007780"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2010-01-01"
+last_updated: "2010-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007780"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Vervallen
 
 ##### Artikel 3
 
-Voor de toepassing van [artikel 5, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5) blijft het aanmerken van het kwartaal als loontijdvak op de voet van [artikel 64, eerste lid, van de Uitvoeringsregeling loonbelasting 2001](onbekend)achterwege.
+Voor de toepassing van [artikel 5, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=5) blijft het aanmerken van het kwartaal als loontijdvak op de voet van [artikel 64, eerste lid, van de Uitvoeringsregeling loonbelasting 2001](onbekend) achterwege.
 
 ##### Artikel 4
 
@@ -468,13 +468,7 @@ Met betrekking tot het op 31 december 2004 nog niet verrekende gedeelte van de a
 
 ##### Artikel 12bb
 
-Als instantie als bedoeld in [artikel 14, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) worden aangewezen:
-
-- a. de Inspectie van het onderwijs, bedoeld in [artikel 2 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=2);
-
-- b. een beoordelende instantie als bedoeld in [artikel 5a.8a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.8a);
-
-- c. een door de Minister van Onderwijs, Cultuur en Wetenschap nader te bepalen accrediterende partij.
+De verklaring, bedoeld in [artikel 14, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14), wordt afgegeven door de Minister van Onderwijs, Cultuur en Wetenschap.
 
 ### Hoofdstuk IVA. Afdrachtvermindering scholing
 
@@ -490,7 +484,7 @@ Als instantie als bedoeld in [artikel 14, eerste lid, onderdeel h, van de wet](h
 
 ##### Artikel 12cc
 
-1. Voor de toepassing van [artikel 14, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) worden als opleidingen aangewezen opleidingen die zijn opgenomen in het register, bedoeld in [artikel 6.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1), of in het register, bedoeld in [artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52).
+1. Voor de toepassing van [artikel 14, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) worden als opleidingen aangewezen opleidingen die zijn opgenomen in het register, bedoeld in [artikel 6.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1), of in het register, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
 
 2. Voor de toepassing van [artikel 14, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) wordt per werknemer in de loonadministratie vastgelegd:
 
