@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2010-01-01"
+last_updated: "2010-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -115,7 +115,7 @@ De rechtsgebieden van de tot het ressort 's-Gravenhage behorende rechtbanken bes
 
 - 3. Arrondissement Middelburg: Borsele, Goes, Hulst, Kapelle, Middelburg, Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen.
 
-- 4. Arrondissement Rotterdam: Albrandswaard, Barendrecht, Bernisse, Brielle, Capelle aan den IJssel, Dirksland, Goedereede, Hellevoetsluis, Krimpen aan den IJssel, Lansingerland, Maassluis, Middelharnis, Oostflakkee, Ridderkerk, Rotterdam, Rozenburg, Schiedam, Spijkenisse, Vlaardingen, Westvoorne.
+- 4. Arrondissement Rotterdam: Albrandswaard, Barendrecht, Bernisse, Brielle, Capelle aan den IJssel, Dirksland, Goedereede, Hellevoetsluis, Krimpen aan den IJssel, Lansingerland, Maassluis, Middelharnis, Oostflakkee, Ridderkerk, Rotterdam, Schiedam, Spijkenisse, Vlaardingen, Westvoorne.
 
 ##### Artikel 8
 
