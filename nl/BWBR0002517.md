@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2010-01-01"
+last_updated: "2010-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Deze regeling geeft uitvoering aan de [artikelen 4, tweede lid](https://wetten.o
 
 ##### Artikel 1a
 
-Voor de toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), en [10, derde lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland en Noorwegen.
+Voor de toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), en [10, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland en Noorwegen.
 
 ##### Artikel 1aa
 
@@ -99,7 +99,7 @@ Ingeval degene die ingevolge [artikel 9 van de Wet op de dividendbelasting 1965]
 
 - a. de dividendnota's doorlopend nummeren, al dan niet in series;
 
-- b. de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=2&z=2010-01-01&g=2010-01-01) bedoelde nota's afzonderlijk doorlopend nummeren;
+- b. de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=2&z=2010-03-18&g=2010-03-18) bedoelde nota's afzonderlijk doorlopend nummeren;
 
 - c. dubbelen van de dividendnota's vervaardigen en gedurende vijf jaren op serie en nummer bewaren.
 
