@@ -4,7 +4,7 @@ identifier: "BWBV0004079"
 country: "nl"
 rank: "verdrag"
 publication_date: "2010-03-21"
-last_updated: "2004-10-26"
+last_updated: "2010-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004079"
 soort: "verdrag"
@@ -107,7 +107,7 @@ De Overeenkomst wordt voorlopig toegepast in de verhouding met Zwitserland.
 
 ##### Artikel 1. Voorwerp
 
-Voorwerp van deze overeenkomst is de uitbreiding van de administratieve bijstand en de wederzijdse rechtshulp in strafzaken tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, ter bestrijding van de in [Artikel2](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=I&artikel=2&z=2004-10-26&g=2004-10-26) vermelde illegale activiteiten.
+Voorwerp van deze overeenkomst is de uitbreiding van de administratieve bijstand en de wederzijdse rechtshulp in strafzaken tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, ter bestrijding van de in [Artikel2](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=I&artikel=2&z=2010-03-21&g=2010-03-21) vermelde illegale activiteiten.
 
 ##### Artikel 2. Werkingssfeer
 
@@ -125,7 +125,7 @@ Voorwerp van deze overeenkomst is de uitbreiding van de administratieve bijstand
 
 - b. inbeslagneming en terugvordering van verschuldigde of ten onrechte ontvangen bedragen die voortvloeien uit de onder a) vermelde illegale activiteiten.
 
-2. Samenwerking in de zin van de [titels II](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&z=2004-10-26&g=2004-10-26) (administratieve bijstand) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=III&z=2004-10-26&g=2004-10-26) (wederzijdse rechtshulp) kan niet worden geweigerd op de enkele grond dat het verzoek betrekking heeft op een delict dat door de aangezochte overeenkomstsluitende partij als fiscaal delict wordt aangemerkt of dat de wetgeving van de aangezochte overeenkomstsluitende partij niet dezelfde soort heffingen of uitgaven kent of niet dezelfde soort regelgeving of dezelfde juridische kwalificatie van de feiten bevat als de wetgeving van de verzoekende overeenkomstsluitende partij.
+2. Samenwerking in de zin van de [titels II](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&z=2010-03-21&g=2010-03-21) (administratieve bijstand) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=III&z=2010-03-21&g=2010-03-21) (wederzijdse rechtshulp) kan niet worden geweigerd op de enkele grond dat het verzoek betrekking heeft op een delict dat door de aangezochte overeenkomstsluitende partij als fiscaal delict wordt aangemerkt of dat de wetgeving van de aangezochte overeenkomstsluitende partij niet dezelfde soort heffingen of uitgaven kent of niet dezelfde soort regelgeving of dezelfde juridische kwalificatie van de feiten bevat als de wetgeving van de verzoekende overeenkomstsluitende partij.
 
 3. Het witwassen van de opbrengsten van de onder deze overeenkomst vallende activiteiten valt ook onder de werkingssfeer van deze overeenkomst mits de handelingen die het voorafgaande feit vormen naar het recht van beide overeenkomstsluitende partijen strafbaar zijn gesteld met een vrijheidsstraf of een tot vrijheidsbeneming strekkende maatregel met een maximum van meer dan zes maanden.
 
@@ -197,7 +197,7 @@ Om de gevraagde bijstand te verlenen doen deze diensten beroep op alle bevoegde 
 
 3. De activiteiten van de centrale diensten sluiten niet uit dat andere autoriteiten van de overeenkomstsluitende partijen, met name in spoedgevallen, rechtstreeks samenwerken op de onder deze overeenkomst vallende gebieden. De centrale diensten worden op de hoogte gesteld van alle gevallen waarin deze rechtstreekse samenwerking plaatsvindt.
 
-4. De overeenkomstsluitende partijen delen bij de in [artikel 44, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=IV&artikel=44&z=2004-10-26&g=2004-10-26), bedoelde kennisgeving mee welke autoriteiten voor de toepassing van dit artikel als centrale diensten worden aangemerkt.
+4. De overeenkomstsluitende partijen delen bij de in [artikel 44, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=IV&artikel=44&z=2010-03-21&g=2010-03-21), bedoelde kennisgeving mee welke autoriteiten voor de toepassing van dit artikel als centrale diensten worden aangemerkt.
 
 ### HOOFDSTUK 2. BIJSTAND OP VERZOEK
 
@@ -211,7 +211,7 @@ Om de gevraagde bijstand te verlenen doen deze diensten beroep op alle bevoegde 
 
 ##### Artikel 13. Verzoeken tot uitoefening van toezicht
 
-Op verzoek van de autoriteit van de verzoekende overeenkomstsluitende partij oefent de autoriteit van de aangezochte overeenkomstsluitende partij voorzover mogelijk toezicht uit op de goederenhandel die in strijd is met de in [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=I&artikel=2&z=2004-10-26&g=2004-10-26) bedoelde regelgeving. Dit toezicht kan betrekking hebben op personen ten aanzien van wie gegronde vermoedens bestaan dat zij aan deze illegale activiteiten deelnemen of hebben deelgenomen dan wel dat zij daartoe voorbereidingen hebben getroffen, alsmede op gebouwen, vervoermiddelen en goederen die verband houden met deze activiteiten.
+Op verzoek van de autoriteit van de verzoekende overeenkomstsluitende partij oefent de autoriteit van de aangezochte overeenkomstsluitende partij voorzover mogelijk toezicht uit op de goederenhandel die in strijd is met de in [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=I&artikel=2&z=2010-03-21&g=2010-03-21) bedoelde regelgeving. Dit toezicht kan betrekking hebben op personen ten aanzien van wie gegronde vermoedens bestaan dat zij aan deze illegale activiteiten deelnemen of hebben deelgenomen dan wel dat zij daartoe voorbereidingen hebben getroffen, alsmede op gebouwen, vervoermiddelen en goederen die verband houden met deze activiteiten.
 
 ##### Artikel 14. Kennisgeving en toezending per post
 
@@ -219,7 +219,7 @@ Op verzoek van de autoriteit van de verzoekende overeenkomstsluitende partij oef
 
 2. De verzoeken om kennisgeving, die het onderwerp moeten vermelden van de besluiten of beslissingen waarvan kennis moet worden gegeven, gaan vergezeld van een vertaling in een officiële taal van de aangezochte overeenkomstsluitende partij of in een voor deze overeenkomstsluitende partij aanvaardbare taal.
 
-3. De overeenkomstsluitende partijen kunnen de onder [Artikel 2, lid 1, onder a, derde en vierde streepje](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=I&artikel=2&z=2004-10-26&g=2004-10-26), vallende marktdeelnemers die op het grondgebied van de andere overeenkomstsluitende partij verblijven rechtstreeks per post kennisgevingen, verzoeken om inlichtingen en om documenten toezenden.
+3. De overeenkomstsluitende partijen kunnen de onder [Artikel 2, lid 1, onder a, derde en vierde streepje](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=I&artikel=2&z=2010-03-21&g=2010-03-21), vallende marktdeelnemers die op het grondgebied van de andere overeenkomstsluitende partij verblijven rechtstreeks per post kennisgevingen, verzoeken om inlichtingen en om documenten toezenden.
 
 Deze personen kunnen daaraan gevolg geven en de relevante documenten en inlichtingen verstrekken in de vorm die is vastgesteld in de voorschriften en de regelgeving op basis waarvan de middelen zijn toegekend.
 
@@ -227,15 +227,15 @@ Deze personen kunnen daaraan gevolg geven en de relevante documenten en inlichti
 
 1. Op verzoek van de verzoekende overeenkomstsluitende partij verricht de aangezochte overeenkomstsluitende partij de passende onderzoeken of doet zij deze verrichten naar transacties of gedragingen die illegale activiteiten in de zin van deze overeenkomst vormen, of die bij de autoriteit van de verzoekende overeenkomstsluitende partij het gegronde vermoeden doen ontstaan dat dergelijke illegale activiteiten werden gepleegd.
 
-2. De aangezochte overeenkomstsluitende partij gebruikt alle in haar rechtsorde bestaande onderzoeksmiddelen als handelde zij ten eigen behoeve of op verzoek van een andere interne autoriteit, met inbegrip van de medewerking van de gerechtelijke autoriteiten of – indien nodig – met toestemming van deze autoriteiten. Deze bepaling laat de krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&hoofdstuk=2&artikel=17&z=2004-10-26&g=2004-10-26) op de marktdeelnemers rustende verplichting tot samenwerking onverlet.
+2. De aangezochte overeenkomstsluitende partij gebruikt alle in haar rechtsorde bestaande onderzoeksmiddelen als handelde zij ten eigen behoeve of op verzoek van een andere interne autoriteit, met inbegrip van de medewerking van de gerechtelijke autoriteiten of – indien nodig – met toestemming van deze autoriteiten. Deze bepaling laat de krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&hoofdstuk=2&artikel=17&z=2010-03-21&g=2010-03-21) op de marktdeelnemers rustende verplichting tot samenwerking onverlet.
 
-De autoriteit van de aangezochte overeenkomstsluitende partij deelt de resultaten van deze onderzoeken mee aan de autoriteit van de verzoekende overeenkomstsluitende partij. [Artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&hoofdstuk=2&artikel=12&z=2004-10-26&g=2004-10-26), is van overeenkomstige toepassing.
+De autoriteit van de aangezochte overeenkomstsluitende partij deelt de resultaten van deze onderzoeken mee aan de autoriteit van de verzoekende overeenkomstsluitende partij. [Artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&hoofdstuk=2&artikel=12&z=2010-03-21&g=2010-03-21), is van overeenkomstige toepassing.
 
 3. De autoriteit van de aangezochte overeenkomstsluitende partij breidt deze bijstand uit tot alle aspecten, voorwerpen en personen die duidelijk samenhangen met de in het verzoek om bijstand vermelde zaak, zonder dat daartoe een aanvullend verzoek nodig is. In twijfelgevallen neemt de autoriteit van de aangezochte overeenkomstsluitende partij eerst contact op met de autoriteit van de verzoekende overeenkomstsluitende partij.
 
 ##### Artikel 16. Aanwezigheid van ambtenaren die door de autoriteit van de verzoekende overeenkomstsluitende partij zijn gemachtigd
 
-1. De autoriteit van de verzoekende overeenkomstsluitende partij en die van de aangezochte overeenkomstsluitende partij kunnen overeenkomen dat door de eerstbedoelde autoriteit aangewezen ambtenaren aanwezig mogen zijn bij het in het [voorgaande Artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&hoofdstuk=2&artikel=15&z=2004-10-26&g=2004-10-26) bedoelde onderzoek. Hun aanwezigheid is niet afhankelijk van de instemming van de persoon of de marktdeelnemer bij wie het onderzoek plaatsvindt.
+1. De autoriteit van de verzoekende overeenkomstsluitende partij en die van de aangezochte overeenkomstsluitende partij kunnen overeenkomen dat door de eerstbedoelde autoriteit aangewezen ambtenaren aanwezig mogen zijn bij het in het [voorgaande Artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&hoofdstuk=2&artikel=15&z=2010-03-21&g=2010-03-21) bedoelde onderzoek. Hun aanwezigheid is niet afhankelijk van de instemming van de persoon of de marktdeelnemer bij wie het onderzoek plaatsvindt.
 
 2. De ambtenaren van de autoriteit van de aangezochte overeenkomstsluitende partij hebben te allen tijde de leiding van het onderzoek. De ambtenaren van de autoriteit van de verzoekende overeenkomstsluitende partij mogen niet op eigen initiatief de bevoegdheden die aan ambtenaren van de autoriteit van de aangezochte overeenkomstsluitende partij zijn toegekend, uitoefenen.
 
@@ -265,7 +265,7 @@ De marktdeelnemers zijn verplicht mee te werken aan de uitvoering van het verzoe
 
 - e. zo nauwkeurig en volledig mogelijke inlichtingen betreffende de natuurlijke personen of rechtspersonen waarop de onderzoeken betrekking hebben;
 
-- f. een overzicht van de relevante feiten en van de onderzoeken die reeds zijn uitgevoerd, behalve in de in [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&hoofdstuk=2&artikel=14&z=2004-10-26&g=2004-10-26) bedoelde gevallen.
+- f. een overzicht van de relevante feiten en van de onderzoeken die reeds zijn uitgevoerd, behalve in de in [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&hoofdstuk=2&artikel=14&z=2010-03-21&g=2010-03-21) bedoelde gevallen.
 
 3. De verzoeken worden opgesteld in een officiële taal van de aangezochte overeenkomstsluitende partij of in een voor deze overeenkomstsluitende partij aanvaardbare taal.
 
@@ -283,7 +283,7 @@ De marktdeelnemers zijn verplicht mee te werken aan de uitvoering van het verzoe
 
 ##### Artikel 20. Bijstand op eigen initiatief
 
-1. De in het [voorgaande hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&hoofdstuk=2&z=2004-10-26&g=2004-10-26) vastgelegde vormen van samenwerking kunnen ook zonder voorafgaand verzoek van een andere overeenkomstsluitende partij plaatsvinden.
+1. De in het [voorgaande hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=II&hoofdstuk=2&z=2010-03-21&g=2010-03-21) vastgelegde vormen van samenwerking kunnen ook zonder voorafgaand verzoek van een andere overeenkomstsluitende partij plaatsvinden.
 
 2. De autoriteit van de overeenkomstsluitende partij die de inlichtingen verstrekt kan overeenkomstig haar intern recht voorwaarden verbinden aan het gebruik van deze inlichtingen door de autoriteit van de ontvangende overeenkomstsluitende partij.
 
@@ -371,7 +371,7 @@ De marktdeelnemers zijn verplicht mee te werken aan de uitvoering van het verzoe
 
 De autoriteit van de aangezochte overeenkomstsluitende partij zendt de autoriteit van de verzoekende overeenkomstsluitende partij onverwijld alle andere gegevens toe zodat deze haar verzoek eventueel kan aanvullen of uitbreiden tot andere maatregelen.
 
-5. De overeenkomstsluitende partijen delen bij de in [Artikel 44, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=IV&artikel=44&z=2004-10-26&g=2004-10-26), bedoelde kennisgeving mee welke de voor de toepassing van dit Artikel bevoegde centrale autoriteiten zijn.
+5. De overeenkomstsluitende partijen delen bij de in [Artikel 44, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=IV&artikel=44&z=2010-03-21&g=2010-03-21), bedoelde kennisgeving mee welke de voor de toepassing van dit Artikel bevoegde centrale autoriteiten zijn.
 
 ##### Artikel 28. Toezending per post
 
@@ -409,7 +409,7 @@ De autoriteit van de aangezochte overeenkomstsluitende partij zendt de autoritei
 
 ##### Artikel 32. Verzoek om financiële en bankgegevens
 
-1. Indien is voldaan aan de voorwaarden van [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=III&artikel=31&z=2004-10-26&g=2004-10-26), voert de aangezochte overeenkomstsluitende partij verzoeken om rechtshulp uit die betrekking hebben op het verkrijgen en het doorgeven van financiële en bankgegevens, met inbegrip van:
+1. Indien is voldaan aan de voorwaarden van [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=III&artikel=31&z=2010-03-21&g=2010-03-21), voert de aangezochte overeenkomstsluitende partij verzoeken om rechtshulp uit die betrekking hebben op het verkrijgen en het doorgeven van financiële en bankgegevens, met inbegrip van:
 
 - a. de identificatie van en gegevens over bankrekeningen bij op haar grondgebied gevestigde banken waarvan degenen tegen wie een onderzoek is ingesteld houder of gevolmachtigde zijn, of waarover deze personen de controle uitoefenen;
 
@@ -527,11 +527,11 @@ De bepalingen van deze overeenkomst zijn van toepassing op verzoeken betreffende
 
 1. Elke staat die lid wordt van de Europese Unie kan, door middel van een schriftelijke kennisgeving aan de overeenkomstsluitende partijen, overeenkomstsluitende partij worden bij deze overeenkomst.
 
-2. De tekst van de overeenkomst in de taal van de toetredende nieuwe lidstaat – die door de Raad van de Europese Unie wordt opgesteld – zal worden geauthentiseerd op basis van een briefwisseling tussen de Europese Gemeenschap en de Zwitserse Bondsstaat. Hij zal gelden als authentieke tekst in de zin van [Artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=IV&artikel=48&z=2004-10-26&g=2004-10-26).
+2. De tekst van de overeenkomst in de taal van de toetredende nieuwe lidstaat – die door de Raad van de Europese Unie wordt opgesteld – zal worden geauthentiseerd op basis van een briefwisseling tussen de Europese Gemeenschap en de Zwitserse Bondsstaat. Hij zal gelden als authentieke tekst in de zin van [Artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=IV&artikel=48&z=2010-03-21&g=2010-03-21).
 
 3. Deze overeenkomst treedt ten aanzien van elke nieuwe EU-lidstaat die ertoe toetreedt, negentig dagen nadat diens toetredingsakte is neergelegd in werking, of op de datum van inwerkingtreding van deze overeenkomst indien deze na afloop van genoemde periode van negentig dagen nog niet in werking is getreden.
 
-4. Indien deze overeenkomst bij de kennisgeving van de toetredingsakte van de toetredende nieuwe lidstaten nog niet in werking is getreden, is [Artikel 44, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=IV&artikel=44&z=2004-10-26&g=2004-10-26), van toepassing op deze lidstaten.
+4. Indien deze overeenkomst bij de kennisgeving van de toetredingsakte van de toetredende nieuwe lidstaten nog niet in werking is getreden, is [Artikel 44, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004079&titeldeel=IV&artikel=44&z=2010-03-21&g=2010-03-21), van toepassing op deze lidstaten.
 
 ##### Artikel 48. Talen
 
