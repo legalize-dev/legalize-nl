@@ -4,7 +4,7 @@ identifier: "BWBR0026099"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-24"
-last_updated: "2009-07-01"
+last_updated: "2010-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026099"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **minister:** de Minister van Volksgezondheid, Welzijn en Sport;
 
-- c. **SenterNovem:** agentschap van het Ministerie van Economische Zaken;
+- c. **Agentschap NL:** baten-lastendienst van het Ministerie van Economische Zaken, bedoeld in [artikel 1 van het Instellingsbesluit baten-lastendienst Agentschap NL](https://wetten.overheid.nl/jci1.3:c:BWBR0026918&artikel=1);
 
 - d. **gemandateerde:** degene aan wie mandaat is verleend;
 
@@ -56,15 +56,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Aan de algemeen directeur van SenterNovem wordt mandaat en machtiging verleend met betrekking tot het verstrekken van subsidies en vouchers op grond van de [Subsidieregeling zorginnovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026090).
+1. Aan de algemeen directeur van Agentschap NL wordt mandaat en machtiging verleend met betrekking tot het verstrekken van subsidies en vouchers op grond van de [Subsidieregeling zorginnovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026090).
 
-2. De algemeen directeur van SenterNovem is gemachtigd ten aanzien van verweerschriften, beroepschriften en het vertegenwoordigen van de Minister in administratiefrechtelijke procedures.
+2. De algemeen directeur van Agentschap NL is gemachtigd ten aanzien van verweerschriften, beroepschriften en het vertegenwoordigen van de Minister in administratiefrechtelijke procedures.
 
 ##### Artikel 3
 
-1. De algemeen directeur van SenterNovem is bevoegd aan één of meerdere onder hem ressorterende functionarissen ondermandaat en machtiging te verlenen tot het geheel of gedeeltelijk uitoefenen van zijn op grond van dit besluit toegekende bevoegdheden.
+1. De algemeen directeur van Agentschap NL is bevoegd aan één of meerdere onder hem ressorterende functionarissen ondermandaat en machtiging te verlenen tot het geheel of gedeeltelijk uitoefenen van zijn op grond van dit besluit toegekende bevoegdheden.
 
-2. De algemeen directeur van SenterNovem draagt zorg voor verzending van afschriften van besluiten inzake ondermandaat en machtiging aan de Minister ten behoeve van het centraal mandaatregister.
+2. De algemeen directeur van Agentschap NL draagt zorg voor verzending van afschriften van besluiten inzake ondermandaat en machtiging aan de Minister ten behoeve van het centraal mandaatregister.
 
 ##### Artikel 4
 
@@ -78,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 namens deze,
 
-(de functieaanduiding van de gemandateerde van SenterNovem),
+(de functieaanduiding van de gemandateerde van Agentschap NL),
 
 (de handtekening van de gemandateerde)
 
@@ -104,6 +104,6 @@ Dit besluit treedt in werking met ingang van 1 juli 2009. Indien de Staatscouran
 
 ##### Artikel 7
 
-Dit besluit zal worden aangehaald als: Mandaatbesluit SenterNovem Subsidieregeling zorginnovatie.
+Dit besluit zal worden aangehaald als: Mandaatbesluit Agentschap NL Subsidieregeling zorginnovatie.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
