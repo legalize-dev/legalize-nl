@@ -4,7 +4,7 @@ identifier: "BWBR0020215"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-24"
-last_updated: "2010-01-01"
+last_updated: "2010-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020215"
 soort: "ministeriele-regeling"
@@ -44,13 +44,13 @@ In dit besluit wordt verstaan onder:
 
 - a. minister: de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. SenterNovem: agentschap van het Ministerie van Economische Zaken dat beleid uitvoert op het terrein van duurzaamheid en innovatie;
+- b. Agentschap NL: baten-lastendienst van het Ministerie van Economische Zaken, bedoeld in [artikel 1 van het Instellingsbesluit baten-lastendienst Agentschap NL](https://wetten.overheid.nl/jci1.3:c:BWBR0026918&artikel=1);
 
-- c. [Subsidieregeling TTI](https://wetten.overheid.nl/jci1.3:c:BWBR0019655): regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 maart, Staatscourant 2006, nr. 58.
+- c. algemeen directeur: de algemeen directeur van Agentschap NL.
 
 ##### Artikel 2
 
-Aan de algemeen directeur van SenterNovem wordt mandaat verleend tot:
+Aan de algemeen directeur wordt mandaat verleend tot:
 
 - a. het nemen van besluiten op grond van de [Subsidieregeling TTI](https://wetten.overheid.nl/jci1.3:c:BWBR0019655);
 
@@ -58,7 +58,7 @@ Aan de algemeen directeur van SenterNovem wordt mandaat verleend tot:
 
 ##### Artikel 3
 
-1. De algemeen directeur is gemachtigd tot het afdoen van alle stukken die betrekking hebben op besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020215&artikel=2&z=2006-09-02&g=2010-01-01).
+1. De algemeen directeur is gemachtigd tot het afdoen van alle stukken die betrekking hebben op besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020215&artikel=2&z=2010-03-24&g=2010-03-24).
 
 2. De algemeen directeur is gemachtigd ten aanzien van verweerschriften en beroepschriften in administratiefrechtelijke procedures, gericht tot een administratieve rechter, ten behoeve van het vertegenwoordigen van de Minister in administratiefrechtelijke procedures bij de administratieve rechter en tot het afdoen van alle stukken die daarop betrekking hebben.
 
@@ -66,15 +66,15 @@ Aan de algemeen directeur van SenterNovem wordt mandaat verleend tot:
 
 1. De directeur van de directie Geneesmiddelen en Medische Technologie kan per geval, of in het algemeen, schriftelijke instructies geven.
 
-2. De directeur van de directie Geneesmiddelen en Medische Technologie geeft de algemeen directeur van SenterNovem in ieder geval instructies met betrekking tot de beoordeling van de strategisch-inhoudelijke positionering van het Topinstituut Pharma binnen het VWS-beleid.
+2. De directeur van de directie Geneesmiddelen en Medische Technologie geeft de algemeen directeur in ieder geval instructies met betrekking tot de beoordeling van de strategisch-inhoudelijke positionering van het Topinstituut Pharma binnen het VWS-beleid.
 
 ##### Artikel 5
 
-De algemeen directeur van SenterNovem is bevoegd aan één of meerdere onder hem ressorterende functionarissen ondermandaat, ondervolmacht en machtiging te verlenen tot het geheel of gedeeltelijk uitoefenen van zijn op grond van deze regeling toegekende bevoegdheden.
+De algemeen directeur is bevoegd aan één of meerdere onder hem ressorterende functionarissen ondermandaat, ondervolmacht en machtiging te verlenen tot het geheel of gedeeltelijk uitoefenen van zijn op grond van deze regeling toegekende bevoegdheden.
 
 ##### Artikel 6
 
-Het hoofd van de stafafdeling Juridische Zaken van SenterNovem draagt zorg voor verzending van afschriften van besluiten inzake ondermandaat, volmacht en machtiging aan de Directeur Bestuursondersteuning ten behoeve van het centraal register als bedoeld in [artikel 17 van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=17).
+Het hoofd van de stafafdeling Juridische Zaken van Agentschap NL draagt zorg voor verzending van afschriften van besluiten inzake ondermandaat, volmacht en machtiging aan de Directeur Bestuursondersteuning ten behoeve van het centraal register als bedoeld in [artikel 17 van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=17).
 
 ##### Artikel 7
 
@@ -88,7 +88,7 @@ namens deze:
 
 ##### Artikel 8
 
-De algemeen directeur van SenterNovem verstrekt de minister periodiek en op diens verzoek alle inlichtingen over de uitoefening van zijn in dit besluit toegekende bevoegdheden.
+De algemeen directeur van verstrekt de minister periodiek en op diens verzoek alle inlichtingen over de uitoefening van zijn in dit besluit toegekende bevoegdheden.
 
 ##### Artikel 9
 
