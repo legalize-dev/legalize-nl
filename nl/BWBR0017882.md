@@ -4,7 +4,7 @@ identifier: "BWBR0017882"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-24"
-last_updated: "2010-01-01"
+last_updated: "2010-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017882"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Aan de algemeen directeur van SenterNovem wordt mandaat verleend tot:
+Aan de algemeen directeur van Agentschap NL, hierna te noemen: de algemeen directeur, wordt mandaat verleend tot:
 
 - a. het nemen van besluiten op grond van het [Besluit subsidies investeringen kennisinfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0014472) met betrekking tot de uitvoering van ICES/KIS projecten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport, met inachtneming van de in december 2004 gemaakte afspraken VWS-ZonMw-SenterNovem;
 
@@ -49,13 +49,13 @@ Aan de algemeen directeur van SenterNovem wordt mandaat verleend tot:
 
 ##### Artikel 2
 
-1. De algemeen directeur is gemachtigd tot het afdoen van alle stukken die betrekking hebben op besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017882&artikel=1&z=2005-01-14&g=2010-01-01).
+1. De algemeen directeur is gemachtigd tot het afdoen van alle stukken die betrekking hebben op besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017882&artikel=1&z=2010-03-24&g=2010-03-24).
 
 2. De algemeen directeur is gemachtigd ten aanzien van verweerschriften en beroepschriften in administratiefrechtelijke procedures, gericht tot een administratieve rechter, ten behoeve van het vertegenwoordigen van de minister in administratiefrechtelijke procedures bij de administratieve rechter en tot het afdoen van alle stukken die daarop betrekking hebben.
 
 ##### Artikel 3
 
-De algemeen directeur kan zijn bevoegdheid bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017882&artikel=1&z=2005-01-14&g=2010-01-01) ondermandateren en ter zake van zijn bevoegdheden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017882&artikel=2&z=2005-01-14&g=2010-01-01) machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
+De algemeen directeur kan zijn bevoegdheid bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017882&artikel=1&z=2010-03-24&g=2010-03-24) ondermandateren en ter zake van zijn bevoegdheden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017882&artikel=2&z=2010-03-24&g=2010-03-24) machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 4
 
@@ -69,7 +69,7 @@ namens deze:
 
 ##### Artikel 5
 
-Het hoofd van de stafafdeling Juridische Zaken van SenterNovem draagt zorg voor verzending van afschriften van besluiten inzake ondermandaat, volmacht en machtiging aan de Directeur Bestuursondersteuning ten behoeve van het centraal register als bedoeld in [artikel 17 van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=17).
+Het hoofd van de stafafdeling Juridische Zaken van Agentschap NL draagt zorg voor verzending van afschriften van besluiten inzake ondermandaat, volmacht en machtiging aan de Directeur Bestuursondersteuning ten behoeve van het centraal register als bedoeld in [artikel 17 van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=17).
 
 ##### Artikel 6
 
@@ -77,6 +77,6 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening in 
 
 ##### Artikel 7
 
-Dit besluit wordt aangehaald als: Mandaatbesluit SenterNovem uitvoering ICES/KIS projecten VWS.
+Dit besluit wordt aangehaald als: Mandaatbesluit Agentschap NL uitvoering ICES/KIS projecten VWS.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
