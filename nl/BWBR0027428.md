@@ -4,7 +4,7 @@ identifier: "BWBR0027428"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-03-28"
-last_updated: "2010-03-01"
+last_updated: "2010-03-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027428"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** commissie bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027428&artikel=2&z=2010-03-28&g=2010-03-01),
+- a. **commissie:** commissie bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027428&artikel=2&z=2010-03-28&g=2010-03-28),
 
 - b. **minister:** Minister voor Wonen, Wijken en Integratie.
 
@@ -86,9 +86,9 @@ De commissie wordt ingesteld voor de duur van uiterlijk één maand, zijnde de p
 
 ##### Artikel 6
 
-1. De commissie beraadslaagt in vergadering over de door haar te adviseren rangorde, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027428&artikel=3&z=2010-03-28&g=2010-03-01).
+1. De commissie beraadslaagt in vergadering over de door haar te adviseren rangorde, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027428&artikel=3&z=2010-03-28&g=2010-03-28).
 
-2. De commissie hanteert de rangschikkingscriteria en de volgorde daarvan, conform het gestelde daarover in paragraaf 3.4 van de bijlage bij de brief zoals genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027428&artikel=3&z=2010-03-28&g=2010-03-01).
+2. De commissie hanteert de rangschikkingscriteria en de volgorde daarvan, conform het gestelde daarover in paragraaf 3.4 van de bijlage bij de brief zoals genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027428&artikel=3&z=2010-03-28&g=2010-03-28).
 
 3. De minister kan de commissie, ten aanzien van de uitvoering van haar taak, bijzondere aanwijzingen geven.
 
@@ -98,7 +98,7 @@ De commissie wordt ingesteld voor de duur van uiterlijk één maand, zijnde de p
 
 6. De commissie kan, ten behoeve van de oordeelsvorming, een aanvrager om nadere informatie verzoeken over de ingediende aanvraag.
 
-7. De minister stelt aan de commissie de voor de uitvoering van haar werkzaamheden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027428&artikel=3&z=2010-03-28&g=2010-03-01), benodigde faciliteiten beschikbaar en treft voorzieningen op het gebied van inhoudelijke en redactionele ondersteuning en personeel.
+7. De minister stelt aan de commissie de voor de uitvoering van haar werkzaamheden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027428&artikel=3&z=2010-03-28&g=2010-03-28), benodigde faciliteiten beschikbaar en treft voorzieningen op het gebied van inhoudelijke en redactionele ondersteuning en personeel.
 
 ##### Artikel 7
 
