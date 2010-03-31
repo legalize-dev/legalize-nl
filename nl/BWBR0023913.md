@@ -4,7 +4,7 @@ identifier: "BWBR0023913"
 country: "nl"
 rank: "wet"
 publication_date: "2018-07-01"
-last_updated: "2009-07-15"
+last_updated: "2010-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023913"
 soort: "wet"
@@ -313,11 +313,11 @@ Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet b
 
 2. Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van een vrijstelling als bedoeld in het eerste lid, waarvan het verzoek is ingediend voor dat tijdstip.
 
-3. Indien bij een bestemmingsplan toepassing is gegeven aan [artikel 15, tweede lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=15) vervalt dat voorschrift, in afwijking van [artikel 9.1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2009-07-15&g=2009-07-15), een jaar na het tijdstip van inwerkingtreding van deze wet.
+3. Indien bij een bestemmingsplan toepassing is gegeven aan [artikel 15, tweede lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=15) vervalt dat voorschrift, in afwijking van [artikel 9.1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2010-03-31&g=2010-03-31), een jaar na het tijdstip van inwerkingtreding van deze wet.
 
 ##### Artikel 9.1.8
 
-Indien bij een bestemmingsplan toepassing is gegeven aan [artikel 16 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=16) vervalt dat voorschrift, in afwijking van [artikel 9.1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2009-07-15&g=2009-07-15), een jaar na het tijdstip van inwerkingtreding van deze wet.
+Indien bij een bestemmingsplan toepassing is gegeven aan [artikel 16 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=16) vervalt dat voorschrift, in afwijking van [artikel 9.1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2010-03-31&g=2010-03-31), een jaar na het tijdstip van inwerkingtreding van deze wet.
 
 ##### Artikel 9.1.9
 
@@ -330,6 +330,8 @@ Indien bij een bestemmingsplan toepassing is gegeven aan [artikel 16 van de Wet 
 1. Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van een vrijstelling als bedoeld in [artikel 19, eerste of tweede lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=19), waarvan het verzoek is ingediend voor dat tijdstip.
 
 2. Een besluit tot vrijstelling, waartoe het verzoek is ingediend voor 1 juli 2008, wordt voor de toepassing van [afdeling 6.1 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&afdeling=6.1) gelijkgesteld met een besluit als bedoeld in [artikel 3.10 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.10).
+
+3. Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van een aanvraag om bouwvergunning en een besluit tot verlening daarvan in overeenstemming met een verleende vrijstelling als bedoeld in het eerste lid.
 
 ##### Artikel 9.1.11
 
@@ -417,7 +419,7 @@ Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet b
 
 2. Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van een stadsvernieuwingsplan, waarvan het ontwerp vóór dat tijdstip ter inzage is gelegd, met dien verstande dat na dat tijdstip niet meer een verzoek als bedoeld in [artikel 33, tweede lid, van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=33) kan worden ingediend.
 
-3. [Artikel 9.1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2009-07-15&g=2009-07-15), is van overeenkomstige toepassing.
+3. [Artikel 9.1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2010-03-31&g=2010-03-31), is van overeenkomstige toepassing.
 
 ##### Artikel 9.2.6
 
@@ -431,7 +433,7 @@ De [Overgangswet ruimtelijke ordening en volkshuisvesting](https://wetten.overhe
 
 ##### Artikel 9.3.2
 
-1. Plannen, regelingen en voorschriften die vóór het tijdstip van inwerkingtreding van deze wet ingevolge [artikel 10 van de Overgangswet ruimtelijke ordening en volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0002452&artikel=10) of ingevolge enige andere wettelijke bepaling geacht werden bestemmingsplannen in de zin van de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) te zijn worden gelijkgesteld met plannen als bedoeld in [artikel 9.1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2009-07-15&g=2009-07-15).
+1. Plannen, regelingen en voorschriften die vóór het tijdstip van inwerkingtreding van deze wet ingevolge [artikel 10 van de Overgangswet ruimtelijke ordening en volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0002452&artikel=10) of ingevolge enige andere wettelijke bepaling geacht werden bestemmingsplannen in de zin van de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) te zijn worden gelijkgesteld met plannen als bedoeld in [artikel 9.1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023913&hoofdstuk=IX&afdeling=9.1&artikel=9.1.4&z=2010-03-31&g=2010-03-31).
 
 2. De plannen, regelingen en voorschriften, bedoeld in het eerste lid, vervallen vijf jaar na het tijdstip van inwerkingtreding van deze wet.
 
