@@ -4,7 +4,7 @@ identifier: "BWBR0009104"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-01"
-last_updated: "2010-01-01"
+last_updated: "2010-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009104"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ de volgende voorschriften vast te stellen ten aanzien van de toepassing, de plaa
 
 ##### Paragraaf 3. Tijdelijke toepassing van verkeerstekens
 
-5. Bij tijdelijke toepassing van verkeerstekens en onderborden, overeenkomstig het bepaalde in paragraaf 8 van het BABW, mag in spoedeisende gevallen van de voorschriften in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2010-01-01&g=2010-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=III&z=2010-01-01&g=2010-01-01) worden afgeweken. Dergelijke afwijkingen worden zo spoedig mogelijk gecorrigeerd.
+5. Bij tijdelijke toepassing van verkeerstekens en onderborden, overeenkomstig het bepaalde in paragraaf 8 van het BABW, mag in spoedeisende gevallen van de voorschriften in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2010-03-31&g=2010-03-31) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=III&z=2010-03-31&g=2010-03-31) worden afgeweken. Dergelijke afwijkingen worden zo spoedig mogelijk gecorrigeerd.
 
 ### Hoofdstuk II. Verkeersborden
 
@@ -93,11 +93,11 @@ X = n.v.t.
 
 8. Borden worden in beginsel haaks ten opzichte van de wegas geplaatst.
 
-9. Meer dan twee borden worden buiten de bebouwde kom niet naast of boven elkaar geplaatst. Borden worden gecombineerd in de volgorde van bijlage 1 van het RVV 1990, dat wil zeggen dat een bord geplaatst wordt onder een verderop in die bijlage genoemd bord.
+9. Meer dan twee borden, niet zijnde onderborden, worden buiten de bebouwde kom niet boven elkaar geplaatst. Borden worden gecombineerd in de volgorde van bijlage 1 van het RVV 1990, dat wil zeggen dat een bord geplaatst wordt onder een verderop in die bijlage genoemd bord.
 
 10. Borden worden geplaatst aan de rechterzijde van de weg of boven een rijstrook indien het bord uitsluitend voor die rijstrook geldt, dan wel links van de weg indien het bord uitsluitend voor de linkerzijde geldt.
 
-Indien plaatsing rechts van de weg niet mogelijk is, kunnen zij boven de rijbaan worden aangebracht.
+Borden kunnen ook boven de rijbaan worden aangebracht.
 
 Ter hoogte van rechts geplaatste borden kunnen eveneens aan de linkerzijde van de weg of rijbaan worden geplaatst indien daaraan uit oogpunt van waarneembaarheid behoefte bestaat dan wel indien het bord tevens voor de linkerzijde geldt.
 
@@ -119,39 +119,45 @@ Bij tunnels, viaducten en dergelijke kan hiervan worden afgeweken.
 
 ##### Paragraaf 3. Algemene bepalingen ten aanzien van uitvoering van verkeersborden
 
-15. Verkeersborden, behalve de borden K1 tot en met K11, worden uitgevoerd overeenkomstig de norm NEN 3381 (Verkeerstekens, Algemene voorschriften voor borden).
+15. Borden worden weergegeven in:
 
-Borden in verschijnuitvoering of transparante uitvoering behoeven niet te voldoen aan de norm NEN 3381, mits de borden zoveel mogelijk overeenkomen met de in bijlage 1 van het RVV 1990 gegeven modellen.
+- –. vaste uitvoering, waarbij bij voortduring hetzelfde verkeersbord wordt getoond, of
+
+- –. verschijnuitvoering, waarbij één of meerdere verkeersborden kunnen worden getoond.
+
+Borden in vaste uitvoering voldoen aan de paragrafen 5 en 6 van norm NEN 3381 (Verkeerstekens - Algemene eisen voor borden);
+
+Borden in verschijnuitvoering, met uitzondering van de borden A3 en F9 en borden in transparante uitvoering, voldoen aan de norm NEN EN 12966 (Verticale verkeerstekens - Variabele verkeersborden)
 
 Ingeval een bord op een elektronisch signaleringsbord wordt weergegeven kan het symbool in wit op een zwart veld worden uitgevoerd in plaats van in zwart op een wit veld.
 
-16. Borden worden wat betreft de maatvoering ten minste uitgevoerd overeenkomstig de volgende in de norm NEN 3381 opgenomen typen:
+16. Borden, met uitzondering van de borden G13, G14, K1 tot en met K13, L3 tot en met L7 en L10 tot en met L12 worden ten minste uitgevoerd overeenkomstig de afmetingen genoemd in paragraaf 4 van norm NEN 3381, waarbij voor de volgende wegen de volgende typen gelden:
 
-- type III: Op wegen waar een maximumsnelheid geldt van 120 km/h of minder, of
+- –. op wegen waar een maximumsnelheid geldt van 120 km/h of minder: type III;
 
-- type II: Op wegen waar een maximumsnelheid geldt van 80 km/h of minder, of
+- –. op wegen waar een maximumsnelheid geldt van 80 km/h of minder: type II;
 
-- type I: Op wegen waar een maximumsnelheid geldt van 50 km/h of minder, of
+- –. op wegen waar een maximumsnelheid geldt van 50 km/h of minder: type I, en
 
-- type 0: Bord B1 als herhalingsbord, alsmede de borden D2 en D3 indien gecombineerd met de gele koker.
+- –. bord B1 als herhalingsbord, alsmede de borden D2 en D3 indien gecombineerd met de gele koker: type 0.
 
-Van de minimummaat mag worden afgeweken indien het bord wordt geplaatst op een parkeerterrein, verzorgingsplaats of andere verkeersruimte bestemd voor beperkt gebruik.
+Van de minimummaat kan worden afgeweken indien het bord wordt geplaatst op een parkeerterrein, verzorgingsplaats of andere verkeersruimte bestemd voor beperkt gebruik.
 
-17. Borden worden uitgevoerd met de oppervlakte van de afbeelding in retroreflecterend materiaal. De eigenschappen van het retroreflecterende materiaal komen minimaal overeen met klasse I volgens NEN 3381, met dien verstande dat de borden B7 en D2 minimaal conform klasse II worden uitgevoerd.
-
-De borden K worden bij voorkeur eveneens in een retroreflecterend materiaal uitgevoerd.
+17. Borden worden uitgevoerd met de oppervlakte van de afbeelding in retroreflecterend materiaal. De eigenschappen van het retroreflecterende materiaal komen minimaal overeen met klasse I van norm NEN 3381, met dien verstande dat de borden B7 en D2 minimaal conform klasse II worden uitgevoerd.
 
 Niet retroreflecterend behoeven te zijn:
 
-- borden van hoofdstuk E, binnen de bebouwde kom;
+- –. borden van hoofdstuk E, binnen de bebouwde kom;
 
-- bord L3 (bus/tramhalte);
+- –. bord L3;
 
-- borden G7 tot en met G10 alsmede G13 en G14;
+- –. borden G7 tot en met G10 alsmede G13 en G14;
 
-- borden in verschijnuitvoering of transparante uitvoering.
+- –. borden in transparante uitvoering, en
 
-18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2010-01-01&g=2010-01-01) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
+- –. elektronische signaleringsborden.
+
+18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2010-03-31&g=2010-03-31) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
 
 ##### Paragraaf 4. Voorschriften voor de afzonderlijke borden
 
@@ -175,7 +181,7 @@ Niet retroreflecterend behoeven te zijn:
 
 - op autosnelwegen:
 
-- op wegvakken: 100, 80 km/h;
+- op wegvakken: 100, 90, 80, 70, 60, 50 km/h;
 
 - op andere wegen buiten de bebouwde kom:
 
@@ -185,7 +191,7 @@ Niet retroreflecterend behoeven te zijn:
 
 - bij gevarenpunten: 60, 50 km/h.
 
-3. Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2010-01-01&g=2010-01-01), Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.
+3. Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2010-03-31&g=2010-03-31), Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.
 
 4. 30 km/h en 30 km/h-zone, 60 km/h en 60 km/h-zone
 
@@ -218,6 +224,8 @@ Bord A1 (30 km/h binnen en buiten de bebouwde kom en 60 km/h buiten de bebouwde 
 Indien de maximumsnelheden betrekking hebben op motorvoertuigen die een bepaald maximum toegestane totaalmassa te boven gaan wordt op het onderbord die massa vermeld in het aantal tonnen, aangegeven door cijfers met toevoeging van de letter t.
 
 Het bord wordt niet toegepast bij de overgang naar een lagere maximumsnelheid, of bij de toegang tot een woonerf.
+
+Geen andere dan de volgende maximumsnelheden worden vastgesteld op wegvakken op autosnelwegen: 100, 90, 80, 70, 60, 50 km/h.
 
 1. Dit bord wordt bij plaatsing boven de rijbaan aangebracht boven elke rijstrook. Het bord kan ook rechts van de weg worden geplaatst. In dit geval moet het bord bij een rijbaanbreedte van meer dan 5 m tevens ter linkerzijde worden geplaatst.
 
