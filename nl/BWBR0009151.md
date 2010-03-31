@@ -4,7 +4,7 @@ identifier: "BWBR0009151"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-01"
-last_updated: "2001-08-01"
+last_updated: "2010-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009151"
 soort: "ministeriele-regeling"
@@ -162,7 +162,7 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 28b. Het in punt 28a bedoelde bord wordt aangebracht onder of rechts naast de verkeerslantaarn waaraan het is toegevoegd.
 
-- 28c. Indien het in punt 28b bedoelde bord in verschijnuitvoering in gebruik is, brandt de inwendige verlichting van de borden niet gelijktijdig met het groene licht.
+- 28c. Indien het in punt 28b bedoelde bord in verschijnuitvoering in gebruik is, wordt het bord niet getoond gelijktijdig met het groene licht.
 
 **Driekleurige fietslichten**
 
@@ -186,7 +186,7 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 38. De drukknop moet vóór de bij het driekleurige fietslicht behorende stopstreep en op een hoogte van ongeveer 1,25 m worden aangebracht.
 
-- 38a. Indien aan conflicterende richtingen voor (brom)fietsers gelijktijdig groen wordt getoond, kan nabij elk driekleurig fietslicht een bord volgens [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0009151&bijlage=I&z=2001-08-01&g=2001-08-01), afbeelding 3 geplaatst worden.
+- 38a. Indien aan conflicterende richtingen voor (brom)fietsers gelijktijdig groen wordt getoond, kan nabij elk driekleurig fietslicht een bord volgens [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0009151&bijlage=I&z=2010-03-31&g=2010-03-31), afbeelding 3 geplaatst worden.
 
 **Tweekleurige verkeerslichten**
 
