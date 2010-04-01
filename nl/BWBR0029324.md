@@ -4,7 +4,7 @@ identifier: "BWBR0029324"
 country: "nl"
 rank: "wet"
 publication_date: "2011-07-01"
-last_updated: "2010-01-01"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029324"
 soort: "wet"
@@ -82,7 +82,7 @@ Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de accijns.
 
 ##### Artikel X
 
