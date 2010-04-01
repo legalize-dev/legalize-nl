@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2009-08-01"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - c. de burgemeester: de burgemeester door wie het verzoek om naturalisatie in ontvangst wordt genomen;
 
-- d. IB-Groep: de Informatie Beheer Groep, genoemd in de [Wet verzelfstandiging Informatiseringsbank](https://wetten.overheid.nl/jci1.3:c:BWBR0006320);
+- d. Dienst Uitvoering Onderwijs: Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap;
 
 - e. het besluit: het [Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604).
 
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 2. Aan de in het eerste lid genoemde verzoeker wordt het inburgeringsdiploma als bedoeld in [artikel 14, tweede lid van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) uitgereikt.
 
-3. Bevoegd tot het afnemen van het centraal deel van het inburgeringsexamen op de Nederlandse diplomatieke en beroepsconsulaire vertegenwoordigingen in het buitenland is het hoofd van die post namens de Minister van Buitenlandse Zaken, of, in Nederland, de IB-Groep.
+3. Bevoegd tot het afnemen van het centraal deel van het inburgeringsexamen op de Nederlandse diplomatieke en beroepsconsulaire vertegenwoordigingen in het buitenland is het hoofd van die post namens de Minister van Buitenlandse Zaken, of, in Nederland, de Dienst Uitvoering Onderwijs.
 
 4. Het hoofd van de post neemt het centraal deel van het inburgeringsexamen overeenkomstig het in de bijlage van deze Regeling opgenomen examenreglement naturalisatietoets buitenland af.
 
