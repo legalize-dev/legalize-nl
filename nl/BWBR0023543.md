@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2010-01-06"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -176,19 +176,17 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
-##### Artikel 9. Mandaat aan directeuren
+##### Artikel 9. Mandaat aan directeuren en direct-leidinggevenden
 
 1. De directeuren hebben, onverminderd de mandaatverlening aan de secretaris-generaal en de directeuren-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van de aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein.
 
-2. De directeuren zijn budgethouder voor de hun door de directeur-generaal toegewezen budgetten.
+2. Direct-leidinggevenden hebben, onverminderd de mandaatverlening aan de secretaris-generaal, de directeuren-generaal en de directeuren, binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
 
-3. Voor zover het betreft personele besluiten hebben de directeuren mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-01-06&g=2010-01-06), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-01-06&g=2010-01-06), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-01-06&g=2010-01-06) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-01-06&g=2010-01-06).
+3. De directeuren zijn budgethouder voor de hun door de directeur-generaal toegewezen budgetten.
 
-4. Het verlenen van ondermandaat van de in het derde lid bedoelde bevoegdheden is niet mogelijk, tenzij het betreft besluiten met betrekking tot:
+4. Voor zover het betreft personele besluiten hebben de directeuren en direct-leidinggevenden mandaat onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-04-01&g=2010-04-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-04-01&g=2010-04-01), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-04-01&g=2010-04-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-04-01&g=2010-04-01).
 
-- a. opname van vakantie en compensatieverlof, en
-
-- b. vergoedingen in het kader van dienstreizen.
+5. Het verlenen van ondermandaat van de in lid 1 en lid 2 bedoelde bevoegdheden is niet mogelijk.
 
 ##### Artikel 10. Managementafspraken
 
@@ -236,7 +234,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - g. het vaststellen van de OCW-formatie en de verdeling van de personeelscapaciteit van de OCW-formatie,
 
-- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-01-06&g=2010-01-06),
+- h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-04-01&g=2010-04-01),
 
 - i. het nemen van besluiten die voor alle ambtenaren van het Ministerie gelden
 
@@ -268,7 +266,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. vaststelling of wijziging van het organisatie- en capaciteitsplan van een onder hem ressorterend dienstonderdeel,
 
-- d. het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-01-06&g=2010-01-06), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-01-06&g=2010-01-06) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-01-06&g=2010-01-06), voor zover het betreft:
+- d. het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-04-01&g=2010-04-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-04-01&g=2010-04-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2010-04-01&g=2010-04-01), voor zover het betreft:
 
 - 1. disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag,
 
@@ -284,13 +282,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. Voor het inhuren van externe professionals en uitzendkrachten door een directeur is voorafgaande goedkeuring van de directeur-generaal vereist voor zover het betreft bedragen boven € 60 per uur.
 
-3. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 12, eerste lid, onderdelen p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-01-06&g=2010-01-06).
+3. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd [artikel 12, eerste lid, onderdelen p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-04-01&g=2010-04-01).
 
 4. Met uitzondering van de bevoegdheid bedoeld in lid 3 is ondermandaat van de bevoegdheden, bedoeld in dit artikel niet mogelijk.
 
 ##### Artikel 14. Voorbehouden aan de directeur CO
 
-1. De directeur Concernondersteuning is met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-01-06&g=2010-01-06), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-01-06&g=2010-01-06) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-01-06&g=2010-01-06), voor zover het betreft:
+1. De directeur Concernondersteuning is met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2010-04-01&g=2010-04-01), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12&z=2010-04-01&g=2010-04-01) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2010-04-01&g=2010-04-01), voor zover het betreft:
 
 - a. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben,
 
@@ -308,7 +306,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - h. het volgen van opleidingen,
 
-2. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2010-01-06&g=2010-01-06) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
+2. In afwijking van het bepaalde in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11&z=2010-04-01&g=2010-04-01) van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
