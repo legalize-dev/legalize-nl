@@ -4,7 +4,7 @@ identifier: "BWBV0002780"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-06-01"
-last_updated: "1995-10-01"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002780"
 soort: "verdrag"
@@ -59,11 +59,15 @@ Deze Overeenkomst is van toepassing:
 
 ##### Artikel 2
 
-Voor de toepassing van deze Overeenkomst wordt onder het Noordzeegebied verstaan de eigenlijke Noordzee, ten zuiden van de 61ste Noorderbreedtegraad, met inbegrip van:
+Voor de toepassing van deze Overeenkomst wordt verstaan onder de Noordzee en zijn toegangen in ruime zin het zeegebied behelzende:
 
-- a. het Skagerrak, waarvan de zuidelijke begrenzing wordt bepaald ten oosten van Skagen door de breedtegraad 57°44'43" Noorderbreedte;
+- a). de eigenlijke Noordzee, ten zuiden van de breedtegraad 63° 38' 10.68” noorderbreedte;
 
-- b. het Kanaal en zijn toegangen ten oosten van een lijn getrokken op vijftig zeemijl ten westen van de lijn die de Scilly-eilanden verbindt met Ouessant.
+- b). het Skagerrak, waarvan de zuidelijke begrenzing wordt bepaald ten oosten van Skagen door de breedtegraad 57°44'43.00” noorderbreedte;
+
+- c). het Kanaal en zijn toegangen, ten zuiden en ten westen begrensd door de lijn die in Deel I van de Bijlage bij deze Overeenkomst wordt gedefinieerd;
+
+- d). de overige wateren, behelzende de Ierse Zee, de Keltische Zee, de Malin, de Great Minch, de Little Minch, een deel van de Noorse Zee, en delen van de noordoostelijke Atlantische Oceaan, in het westen en het noorden begrensd door de lijn die in Deel II van de Bijlage bij deze Overeenkomst wordt gedefinieerd.
 
 ##### Artikel 3
 
