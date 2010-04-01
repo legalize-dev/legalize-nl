@@ -4,7 +4,7 @@ identifier: "BWBR0008763"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008763"
 soort: "AMvB"
@@ -50,11 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder:
-
-- a. wet: [Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659);
-
-- b. verklaring van de voorzitter van de huurcommissie: verklaring als bedoeld in [artikel 6, onder b, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=6), omtrent de redelijkheid van de huurprijs en de juistheid van andere gegevens betreffende de woonruimte.
+In dit besluit wordt verstaan onder wet: [Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659).
 
 ### Hoofdstuk 2. Bijzondere gevallen
 
@@ -126,7 +122,7 @@ Vervallen
 
 ##### Artikel 6
 
-De voorzitter van de huurcommissie van het ressort waarin de woning is gelegen vermeldt op de verklaring de hoogte van de huurprijs en of deze al dan niet redelijk is, beoordeeld naar de bij of krachtens de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315) gestelde regels. Indien de voorzitter van de huurcommissie van oordeel is dat de huurprijs niet redelijk is, vermeldt hij tevens het puntenaantal van de woning op basis van het waarderingsstelsel, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5).
+De voorzitter van de huurcommissie vermeldt in de verklaring, bedoeld in [artikel 6, eerste lid, onder b, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=6), de hoogte van de huurprijs en of deze al dan niet redelijk is, beoordeeld naar de bij of krachtens die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315) gestelde regels. Indien de voorzitter van oordeel is dat de huurprijs niet redelijk is, vermeldt hij tevens het puntenaantal van de woning op basis van het waarderingsstelsel, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5).
 
 ### HOOFDSTUK 5. INFORMATIEPLICHT
 
@@ -238,9 +234,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2c
 
-1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2010-01-01&g=2010-01-01), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2010-01-01&g=2010-01-01), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
+1. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2010-04-01&g=2010-04-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2010-04-01&g=2010-04-01), en [2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2010-04-01&g=2010-04-01), kan worden gedaan tot het tijdstip dat de toekenning van de huurtoeslag over het desbetreffende berekeningsjaar onherroepelijk is geworden.
 
-2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2010-01-01&g=2010-01-01), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2010-01-01&g=2010-01-01), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
+2. Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2010-04-01&g=2010-04-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2010-04-01&g=2010-04-01), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2010-04-01&g=2010-04-01), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
 
 ### Hoofdstuk 3. Onzelfstandige woonruimte
 
