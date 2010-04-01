@@ -4,7 +4,7 @@ identifier: "BWBR0027459"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2010-04-01"
-last_updated: "2010-02-01"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027459"
 soort: "ministeriele-regeling"
@@ -50,10 +50,14 @@ Wijzigt de Regeling vaste vergoeding voorzitters Commissie voor bezwaarschriften
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 1, tweede lid, van de Regeling vaste vergoeding voorzitters Commissie voor bezwaarschriften OCW](https://wetten.overheid.nl/jci1.3:c:BWBR0026035&artikel=1), zoals dat artikel luidde op 31 januari 2010, blijft van toepassing met betrekking tot de afhandeling van betalingsverplichtingen die voor die datum zijn ontstaan.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat:
+
+- a. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0027459&artikel=I&z=2010-04-01&g=2010-04-01) in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst, en daarbij terugwerkt tot en met 1 januari 2010; en
+
+- b. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0027459&artikel=II&z=2010-04-01&g=2010-04-01) in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst, en daarbij terugwerkt tot en met 1 februari 2010.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
