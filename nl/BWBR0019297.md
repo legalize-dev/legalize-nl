@@ -4,7 +4,7 @@ identifier: "BWBR0019297"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019297"
 soort: "ministeriele-regeling"
@@ -62,11 +62,17 @@ Besluit:
 
 - b. ongehuwd: de persoon die duurzaam gescheiden leeft van de persoon met wie hij gehuwd is.
 
+3. Onder bloedverwant in de eerste graad als bedoeld in het tweede lid, onderdeel a, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.
+
+4. Onder voormalig pleegkind als bedoeld in het derde lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
+
 ##### Artikel 2. Aanvraagtermijnen loon- en inkomenssuppletie
 
 1. Een aanvraag voor loonsuppletie als bedoeld in [artikel 65c van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65c), [artikel 67a van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67a)en [artikel 2:25](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:25) of [3:67 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:67) wordt ingediend binnen twee maanden na aanvang van het werk in dienstbetrekking, dan wel bij aanvang van de werkzaamheden voordat een besluit over de mate van arbeidsongeschiktheid is genomen, binnen twee maanden nadat dat besluit is genomen.
 
 2. Een aanvraag voor inkomenssuppletie als bedoeld in [artikel 65d van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65d), [artikel 67b van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67b) en [artikel 2:26](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:26) of [3:68 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:68) wordt ingediend binnen zes maanden na afloop van het boekjaar waarin de uitoefening van het bedrijf of beroep is voortgezet of waarin de persoon, die recht heeft op een uitkering op grond van een van de hiervoor genoemde wetten, werkzaamheden als zelfstandige is gaan verrichten.
+
+3. Bij overschrijding van de termijnen, bedoeld in het eerste of tweede lid, wordt geen loonsuppletie verstrekt over een periode die gelegen is meer dan twee maanden voor de aanvraag, respectievelijk geen inkomenssuppletie verstrekt over het boekjaar of de boekjaren gelegen voor de aanvraag.
 
 ##### Artikel 3. Maximaal bedrag starterskrediet
 
@@ -138,7 +144,7 @@ Indien een persoon in het kalenderjaar waarin hij een vervoersvoorziening heeft 
 
 - 7°. een vergoeding van vervoerskosten in verband met het volgen van scholing.
 
-#### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
+#### § 2a. Inkomenstoets voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
 ##### Artikel 13. Verdeling werkloosheidsfondsen/arbeidsongeschiktheidsfondsen
 
@@ -187,5 +193,17 @@ Deze regeling treedt in werking met ingang van 29 december 2005.
 ##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Reïntegratieregeling.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 12a. Inkomen
+
+Voor de toepassing van [artikel 15b, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15b) wordt onder inkomen verstaan hetgeen op grond van [artikel 2 van het Inkomensbesluit Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019165&artikel=2) onder inkomen wordt verstaan.
+
+##### Artikel 12b. Aftrekbare kosten
+
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2010-04-01&g=2010-04-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2010-04-01&g=2010-04-01).
+
+#### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
