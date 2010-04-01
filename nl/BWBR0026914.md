@@ -4,7 +4,7 @@ identifier: "BWBR0026914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2011-05-04"
-last_updated: "2010-03-16"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026914"
 soort: "ministeriele-regeling"
@@ -84,8 +84,8 @@ Besluit:
 | 3.1 | Subsidieregeling sterktes in innovatie (Internationaal innoveren) | 2.2 | Eureka-innovatieprojecten en geïndustrialiseerde landen innovatieprojecten |   |   |
 | 3.2 | Subsidieregeling sterktes in innovatie (Internationaal innoveren) | 2.2 | Opkomende markten innovatieprojecten | 01-01 t/m 25-06 | 3.000.000 |
 | 3.3 | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 |   | - | - |
-|   |   |   | Genomics (periode vooraanmelding) |   | - |
-|   |   |   | Genomics |   |   |
+|   |   |   | Genomics (periode vooraanmelding) | 01-04 t/m 29-04 | - |
+|   |   |   | Genomics | 21-06 t/m 17-08 | 250.000 |
 |   |   |   | EMVT (periode vooraanmelding) |   | - |
 |   |   |   | EMVT |   |   |
 |   |   |   | Precisietechnologie (periode vooraanmelding) |   | - |
@@ -102,12 +102,12 @@ Besluit:
 |   |   |   | Oppervlaktetechnologie |   |   |
 |   |   |   | Beeldverwerking (periode vooraanmelding) |   | - |
 |   |   |   | Beeldverwerking |   |   |
-|   |   |   | Photonic devices (periode vooraanmelding) |   | - |
-|   |   |   | Photonic devices |   |   |
+|   |   |   | Photonic devices (periode vooraanmelding) | 01-04 t/m 16-04 | - |
+|   |   |   | Photonic devices | 15-08 t/m 17-09 | 4.750.000 |
 |   |   |   | Maritiem (periode vooraanmelding) |   | - |
 |   |   |   | Maritiem | 15-02 t/m 12-03 | 1.200.000 |
 | 3.4 | Subsidieregeling sterktes in innovatie (LSH-projecten; ETB-samenwerkingsverbanden ) | 4.2 |   | 01-01 t/m 01-02 | 3.000.000 |
-| 3.5 | Subsidieregeling sterktes in innovatie (LSH-projecten; internationale MKB-samenwerkingsverbanden) | 4.11 |   |   |   |
+| 3.5 | Subsidieregeling sterktes in innovatie (LSH-projecten; internationale MKB-samenwerkingsverbanden) | 4.11 |   | 01-04 t/m 25-06 | 1.000.000 |
 | 3.6 | Subsidieregeling sterktes in innovatie (LSH-projecten; EuroNanoMed-samenwerkingsverbanden) | 4.20 |   |   |   |
 | 3.7 | Subsidieregeling sterktes in innovatie (FND haalbaarheidsprojecten) | 5.2 |   | 01-01 t/m 08-10 | 1.000.000 |
 | 3.8 | Subsidieregeling sterktes in innovatie (FND innovatieprojecten) | 5.9 |   | 01-01 t/m 18-06 | 6.000.000 |
@@ -121,15 +121,15 @@ Besluit:
 | 3.16 | Subsidieregeling sterktes in innovatie (maritieme MKB-projecten) | 8.2 |   |   |   |
 | 3.17 | Subsidieregeling sterktes in innovatie (maritieme innovatieprojecten) | 8.8 |   |   |   |
 | 3.18 | Subsidieregeling sterktes in innovatie (Point One MKB-projecten) | 9.2 |   |   |   |
-| 3.19 | Subsidieregeling sterktes in innovatie (Point One R&D-projecten) | 9.8 |   |   |   |
+| 3.19 | Subsidieregeling sterktes in innovatie (Point-One R&D-projecten) |   |   | 01-04 t/m 10-05 01-07 t/m 06-09 | 6.000.000 6.000.000 |
 | 3.20 | Subsidieregeling sterktes in innovatie (internationale Point One R&D-projecten) | 9.17 |   | 05-01 t/m 02-02 | 21.000.000 |
 | 3.21 | Subsidieregeling sterktes in innovatie (Point One University-Industry Interaction projecten) | 9.25 |   |   |   |
-| 3.22 | Subsidieregeling sterktes in innovatie (polymeren haalbaarheidsprojecten) | 10.2 |   |   |   |
-| 3.23 | Subsidieregeling sterktes in innovatie (polymeren MKB-innovatieprojecten) | 10.8 |   |   |   |
+| 3.22 | Subsidieregeling sterktes in innovatie (polymeren haalbaarheidsprojecten) | 10.2 |   | 12-04 t/m 01-10 | 400.000 |
+| 3.23 | Subsidieregeling sterktes in innovatie (polymeren MKB-innovatieprojecten) | 10.8 |   | 12-04 t/m 01-10 | 1.200.000 |
 | 3.24 | Subsidieregeling sterktes in innovatie (polymeren innovatieprojecten) | 10.15 |   |   |   |
 | 3.25 | Subsidieregeling sterktes in innovatie (High Tech Topprojecten) | 10a.2 |   |   |   |
 | 3.26 | Subsidieregeling sterktes in innovatie (detachering kenniswerkers) | 10b.2 |   |   |   |
-| 3.27 | Subsidieregeling sterktes in innovatie (civiele vliegtuigontwikkeling) | 10c.2 | Projecten, niet betrekking hebbend op industrieel onderzoek | 01-01 t/m 01-12 | 14.000.000 |
+| 3.27 | Subsidieregeling sterktes in innovatie (civiele vliegtuigontwikkeling) | 10c.2 | Projecten, niet betrekking hebbend op industrieel onderzoek | 01-01 t/m 01-12 | 52.800.000 |
 |   |   |   | Projecten, betrekking hebbend op industrieel onderzoek |   |   |
 | 3.28 | Subsidieregeling sterktes in innovatie (Technologische Topinstituten) | 10d.2 |   |   |   |
 | 3.29 | Subsidieregeling sterktes in innovatie (innovatieve zeescheepsbouw) | 10e.2 |   | 01-01 t/m 31-10 | 17.500.000 |
