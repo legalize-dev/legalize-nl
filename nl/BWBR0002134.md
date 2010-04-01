@@ -4,7 +4,7 @@ identifier: "BWBR0002134"
 country: "nl"
 rank: "wet"
 publication_date: "2013-01-01"
-last_updated: "2003-10-01"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002134"
 soort: "wet"
@@ -44,17 +44,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-Onverminderd het bepaalde in met andere Mogendheden gesloten uitleveringsverdragen, kunnen personen aan een andere Mogendheid ter berechting worden overgeleverd ter zake van één der misdrijven, omschreven in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=3&z=2003-10-01&g=2003-10-01), [5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=5&z=2003-10-01&g=2003-10-01) en, voor zover met de in die artikelen bedoelde feiten verband houdend, [artikel 9 van de Wet internationale misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&artikel=9), indien het feit een ernstige schending oplevert van één der navolgende Verdragen van Genève van 12 augustus 1949:
+Onverminderd het bepaalde in met andere Mogendheden gesloten uitleveringsverdragen, kunnen personen aan een andere Mogendheid ter berechting worden overgeleverd ter zake van één der misdrijven, omschreven in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=3&z=2010-04-01&g=2010-04-01), [5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=5&z=2010-04-01&g=2010-04-01) en, voor zover met de in die artikelen bedoelde feiten verband houdend, [artikel 9 van de Wet internationale misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&artikel=9), indien het feit een ernstige schending oplevert van:
 
-- a. Verdrag voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde;
+- a. het Verdrag van Genève van 12 augustus 1949 voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde;
 
-- b. Verdrag voor de verbetering van het lot der gewonden, zieken en schipbreukelingen van de strijdkrachten ter zee;
+- b. het Verdrag van Genève van 12 augustus 1949 voor de verbetering van het lot der gewonden, zieken en schipbreukelingen van de strijdkrachten ter zee;
 
-- c. Verdrag betreffende de behandeling van krijgsgevangenen;
+- c. het Verdrag van Genève van 12 augustus 1949 betreffende de behandeling van krijgsgevangenen;
 
-- d. Verdrag betreffende de bescherming van burgers in oorlogstijd;
+- d. het Verdrag van Genève van 12 augustus 1949 betreffende de bescherming van burgers in oorlogstijd;
 
-dan wel van het Aanvullend Protocol bij die Verdragen betreffende de bescherming van de slachtoffers van internationale gewapende conflicten (Protocol I) van 12 december 1977.
+- e. het Aanvullend Protocol bij die Verdragen betreffende de bescherming van de slachtoffers van internationale gewapende conflicten (Protocol I) van 12 december 1977; of
+
+- f. het Tweede Protocol bij het Haagse Verdrag van 1954 inzake de bescherming van culturele goederen in geval van een gewapend conflict van 26 maart 1999.
 
 ##### Artikel 2
 
@@ -68,7 +70,7 @@ De overlevering kan slechts aan een andere Mogendheid geschieden, indien deze pa
 
 ##### Artikel 4
 
-1. Personen, wier overlevering overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2003-10-01&g=2003-10-01) door een andere Mogendheid wordt aangevraagd, kunnen, voor zover zij zich niet reeds in verzekerde bewaring bevinden, worden aangehouden.
+1. Personen, wier overlevering overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2010-04-01&g=2010-04-01) door een andere Mogendheid wordt aangevraagd, kunnen, voor zover zij zich niet reeds in verzekerde bewaring bevinden, worden aangehouden.
 
 2. Het bevel van aanhouding moet hun binnen tweemaal vier en twintig uren worden betekend.
 
@@ -86,7 +88,7 @@ De overlevering kan slechts aan een andere Mogendheid geschieden, indien deze pa
 
 ##### Artikel 6
 
-De Regering kan vergunnen, dat een vreemdeling, wiens overlevering ter zake van een ernstige schending van één der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2003-10-01&g=2003-10-01) genoemde Verdragen door een andere Mogendheid aan een derde Mogendheid is toegestaan, over het Nederlands grondgebied onder medegeleide van Nederlandse ambtenaren wordt vervoerd, mits de Mogendheid aan welke de overlevering geschiedt, partij is bij het geschonden Verdrag.
+De Regering kan vergunnen, dat een vreemdeling, wiens overlevering ter zake van een ernstige schending van één der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002134&artikel=1&z=2010-04-01&g=2010-04-01) genoemde Verdragen door een andere Mogendheid aan een derde Mogendheid is toegestaan, over het Nederlands grondgebied onder medegeleide van Nederlandse ambtenaren wordt vervoerd, mits de Mogendheid aan welke de overlevering geschiedt, partij is bij het geschonden Verdrag.
 
 ##### Artikel 7
 
