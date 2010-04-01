@@ -4,7 +4,7 @@ identifier: "BWBR0029226"
 country: "nl"
 rank: "wet"
 publication_date: "2011-01-01"
-last_updated: "2010-01-01"
+last_updated: "2010-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029226"
 soort: "wet"
@@ -49,7 +49,7 @@ Wijzigt de Algemene Kinderbijslagwet.
 
 ##### Artikel II. Wijziging van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene nabestaandenwet.
 
 ##### Artikel III. Wijziging van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
